@@ -117,7 +117,7 @@ techniques-demonstrated:
 *Time: ~3 minutes. Scan title, abstract/intro paragraph, ALL headers, and the final section. Do not read prose. This builds the [[advance-organizer]] structure that makes the body easier to process.*
 
 > [!annotation] **Technique: Text Survey — What the Structure Tells You Before You Read**
-> *Why here: Scanning structure before reading activates [[schema-theory|schema]] formation. You are building a "skeleton" that the content will hang on. Note headers that surprise you — those are where the real learning is likely to be.*
+> *Why here: Scanning structure before reading activates [[schema-theory-and-knowledge-organization|schema]] formation. You are building a "skeleton" that the content will hang on. Note headers that surprise you — those are where the real learning is likely to be.*
 >
 > **Header map produced by scan:**
 > - Part I: Orientation
@@ -148,7 +148,7 @@ techniques-demonstrated:
 >
 > **Process Goals:**
 > 1. Self-explain at the end of each Part (close the report, write in my own words, then re-open).
-> 2. Generate at least one [[elaborative-interrogation]] question per major section.
+> 2. Generate at least one [[Elaborative Interrogation]] question per major section.
 > 3. Pause at every callout labeled `[!key-claim]` and paraphrase it before moving on.
 > 4. Flag every concept I cannot yet wiki-link to an existing PKB note (these are knowledge gaps, not just unfamiliar words).
 
@@ -199,7 +199,7 @@ techniques-demonstrated:
 ### Reading: Part II — The Forethought Phase, Two Subsystems
 
 > [!self-explanation] **Technique: Self-Explanation After New Conceptual Architecture**
-> *Why here: The two-subsystem model (Task Analysis + Motivational Beliefs) is the conceptual payload of this section. [[self-explanation|Self-explanation]] forces you to re-encode in your own language, which surfaces gaps in understanding that passive reading conceals.*
+> *Why here: The two-subsystem model (Task Analysis + Motivational Beliefs) is the conceptual payload of this section. [[self-explanation-effect|Self-explanation]] forces you to re-encode in your own language, which surfaces gaps in understanding that passive reading conceals.*
 >
 > **Self-explanation produced (written with report closed):**
 >
@@ -208,7 +208,7 @@ techniques-demonstrated:
 > **Gap detected in my self-explanation:** I said "run in parallel" but I am not actually sure they are simultaneous. Does motivational belief activation happen *first* (as a kind of filter on what goals you allow yourself to set), or genuinely simultaneously? Flag for re-check.
 
 > [!analytical-insight] **Technique: Elaborative Interrogation — Why Would This Be True?**
-> *Why here: [[elaborative-interrogation]] is most powerful when applied to a claim that is not intuitively obvious. Asking "why would this be true?" forces you to reconstruct the mechanism, which is deeper processing than accepting the claim.*
+> *Why here: [[Elaborative Interrogation]] is most powerful when applied to a claim that is not intuitively obvious. Asking "why would this be true?" forces you to reconstruct the mechanism, which is deeper processing than accepting the claim.*
 >
 > **Claim:** Low self-efficacy can "corrupt" the Task Analysis subsystem — meaning that what goals you set and what strategies you select are contaminated by your motivational beliefs before you even consciously notice it.
 >
@@ -237,9 +237,9 @@ techniques-demonstrated:
 > [!connection] **Technique: Cross-Domain Connection — Linking to Existing PKB Knowledge**
 > *Why here: The concept of defensive inference as "rational error" maps directly onto something already in the PKB. Making this connection explicitly creates a network edge in the knowledge graph and deepens retention of both nodes.*
 >
-> **Connection identified:** The mechanism described here — a defensive response that *feels* like reasonable judgment while being epistemically incorrect — is structurally identical to [[desirable-difficulties]] research. Bjork (1994) showed that the conditions that feel *harder* during learning (retrieval practice, spacing, interleaving) actually produce *better* long-term retention. A learner who finds retrieval harder than re-reading will rationally prefer re-reading — but that preference is miscalibrated. The same structure: subjective difficulty (or failure) is misread as evidence that the task is wrong for you.
+> **Connection identified:** The mechanism described here — a defensive response that *feels* like reasonable judgment while being epistemically incorrect — is structurally identical to [[Desirable Difficulties (Robert Bjork, 1994)]] research. Bjork (1994) showed that the conditions that feel *harder* during learning (retrieval practice, spacing, interleaving) actually produce *better* long-term retention. A learner who finds retrieval harder than re-reading will rationally prefer re-reading — but that preference is miscalibrated. The same structure: subjective difficulty (or failure) is misread as evidence that the task is wrong for you.
 >
-> **PKB action:** Create explicit wiki-link bridge: [[defensive-inference]] ↔ [[desirable-difficulties]] ↔ [[fluency-illusion]]. These three concepts form a cluster.
+> **PKB action:** Create explicit wiki-link bridge: [[defensive-inference]] ↔ [[Desirable Difficulties (Robert Bjork, 1994)]] ↔ [[Fluency Illusion]]. These three concepts form a cluster.
 
 > [!question] **Technique: Comprehension Monitoring — Flagging a Genuine Confusion**
 > *Why here: [[comprehension-monitoring]] means noticing when understanding breaks down — not just reading past confusion. This is an instance where a claim raised genuine uncertainty for me. Flag it explicitly rather than passively continuing.*
@@ -288,7 +288,7 @@ techniques-demonstrated:
 > **Passage flagged:**
 > *"The Self-Reflection Phase is not a phase that can be imported as a standalone practice into an otherwise unreflective reading style. It requires real-time monitoring during the Performance Phase to generate the data it needs."*
 >
-> **Annotation:** This is a hard dependency. Self-Reflection is downstream of Performance Phase monitoring. If I read without monitoring, I arrive at Self-Reflection with a "fundamentally impoverished data set" — my self-evaluation will be based on the subjective sense of understanding (which is contaminated by the [[fluency-illusion]]) rather than actual comprehension evidence. The implication: I cannot bolt the Self-Reflection protocol onto my existing reading habits without also changing what happens *during* reading.
+> **Annotation:** This is a hard dependency. Self-Reflection is downstream of Performance Phase monitoring. If I read without monitoring, I arrive at Self-Reflection with a "fundamentally impoverished data set" — my self-evaluation will be based on the subjective sense of understanding (which is contaminated by the [[Fluency Illusion]]) rather than actual comprehension evidence. The implication: I cannot bolt the Self-Reflection protocol onto my existing reading habits without also changing what happens *during* reading.
 >
 > **Follow-up question generated:** What are the specific monitoring targets during reading? (Found in same section: comprehension monitoring, connection monitoring, confusion monitoring, goal monitoring, strategy monitoring. Five targets — analogous to five feedback channels. This parallelism seems intentional.)
 
@@ -376,7 +376,7 @@ Completed above in Phase 2. Cold reconstruction produced three identified gaps. 
 
 **Comprehension confidence before reconstruction (subjective):** 7/10.
 **Actual reconstruction performance:** approximately 6.5/10.
-**Calibration gap:** slight overconfidence, primarily in structural labeling. [[fluency-illusion]] was operating — familiarity with the concepts created a higher confidence than warranted on precise structural recall.
+**Calibration gap:** slight overconfidence, primarily in structural labeling. [[Fluency Illusion]] was operating — familiarity with the concepts created a higher confidence than warranted on precise structural recall.
 
 ---
 
@@ -402,7 +402,7 @@ Completed above in Phase 2. Cold reconstruction produced three identified gaps. 
 >
 > **Process Goal 4 — Flag every concept I cannot wiki-link:**
 > - Executed: **No.** I made connections to existing wiki-links but did not systematically flag unfamiliar concepts.
-> - Evidence: I noted the [[Early-Implementation-Dip]] concept as important but did not create a flag to build that PKB node. Similarly, [[mastery-experience]] appeared multiple times without explicit flagging.
+> - Evidence: I noted the [[Early-Implementation-Dip]] concept as important but did not create a flag to build that PKB node. Similarly, [[mastery-experience-vocabulary]] appeared multiple times without explicit flagging.
 >
 > **Overall Process Integrity Rating:** 6/10. Partially executed. Front-heavy execution with drift in the second half.
 
@@ -452,13 +452,13 @@ Completed above in Phase 2. Cold reconstruction produced three identified gaps. 
 >
 > - **Update [[self-reflection-phase]]:** Add the two-subsystem architecture (Self-Judgment + Self-Reaction), the adaptive/defensive inference distinction, and the five feedback channels.
 >
-> - **Create new node:** [[Early-Implementation-Dip]] — the initial performance degradation when implementing explicit SRL protocols. Connect to [[desirable-difficulties]], [[self-efficacy]], and [[productive-struggle]].
+> - **Create new node:** [[Early-Implementation-Dip]] — the initial performance degradation when implementing explicit SRL protocols. Connect to [[Desirable Difficulties (Robert Bjork, 1994)]], [[self-efficacy]], and [[productive-struggle]].
 >
 > **Connection-making (structural, not just topical):**
 >
 > - [[deliberate-practice]] ↔ [[Zimmerman's-Cyclical-SRL-Model]]: Both are self-improving systems with increasing marginal returns. The structural isomorphism is the compounding feedback loop. This connection was not in either note before this session.
 >
-> - [[defensive-inference]] ↔ [[fluency-illusion]] ↔ [[desirable-difficulties]]: Three phenomena that share the same structural property — subjective experience (of safety, of understanding, of ease) is systematically miscalibrated relative to actual learning outcomes. These form a conceptual cluster worth building into a synthesis note.
+> - [[defensive-inference]] ↔ [[Fluency Illusion]] ↔ [[Desirable Difficulties (Robert Bjork, 1994)]]: Three phenomena that share the same structural property — subjective experience (of safety, of understanding, of ease) is systematically miscalibrated relative to actual learning outcomes. These form a conceptual cluster worth building into a synthesis note.
 >
 > - [[metacognitive-calibration]] is now understood as the *output* that the Forethought/Self-Reflection loop is building over time — not just a desirable property but the developmental target of the entire system. Update [[metacognitive-calibration]] to note this.
 >
@@ -497,7 +497,7 @@ Completed above in Phase 2. Cold reconstruction produced three identified gaps. 
 >
 > 1. **Skipping Schema Activation:** Feels unnecessary because "I already read the foundational report." Cost: new content has no anchor, encoding is shallower, and comprehension gaps are larger.
 >
-> 2. **Skipping Cold Reconstruction:** Feels unnecessary because "I was paying attention." Cost: the [[fluency-illusion]] is never punctured — you carry a falsely confident comprehension model forward into the next session and subsequent PKB activity.
+> 2. **Skipping Cold Reconstruction:** Feels unnecessary because "I was paying attention." Cost: the [[Fluency Illusion]] is never punctured — you carry a falsely confident comprehension model forward into the next session and subsequent PKB activity.
 >
 > 3. **Writing attributions as global impressions:** "I didn't understand it well" instead of "I couldn't reconstruct the distinction between X and Y because I didn't execute the structural organization check." Cost: no specific action implication → no improvement in next session.
 >
@@ -525,13 +525,13 @@ Completed above in Phase 2. Cold reconstruction produced three identified gaps. 
 >
 > - **[[self-explanation-effect]]** — Grounds the self-explanation technique and the cold reconstruction protocol. Chi et al. (1994) established that self-explanation produces deeper processing than re-reading or recognition-based review.
 >
-> - **[[elaborative-interrogation]]** — The "why would this be true?" technique demonstrated in the Forethought Phase corruption section.
+> - **[[Elaborative Interrogation]]** — The "why would this be true?" technique demonstrated in the Forethought Phase corruption section.
 >
 > - **[[metacognitive-calibration]]** — The long-term developmental output of repeated Forethought/Self-Reflection cycles. Each cold reconstruction + gap analysis is a calibration trial.
 >
-> - **[[fluency-illusion]]** — The cognitive bias that makes cold reconstruction necessary. Without retrieval testing, subjective fluency is mistaken for actual comprehension.
+> - **[[Fluency Illusion]]** — The cognitive bias that makes cold reconstruction necessary. Without retrieval testing, subjective fluency is mistaken for actual comprehension.
 >
-> - **[[desirable-difficulties]]** — Connected to defensive inference: the conditions that produce defensive responses (difficulty, struggle, apparent failure) are often the conditions that produce the deepest learning.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Connected to defensive inference: the conditions that produce defensive responses (difficulty, struggle, apparent failure) are often the conditions that produce the deepest learning.
 >
 > - **[[deliberate-practice]]** — Structurally isomorphic to the SRL cycle. Both are self-improving systems with increasing marginal returns driven by the quality of the feedback loop.
 >

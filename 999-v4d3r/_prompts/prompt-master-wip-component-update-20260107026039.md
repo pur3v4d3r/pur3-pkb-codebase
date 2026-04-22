@@ -380,7 +380,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[cognitive-load-theory]] — primary extension
+> - [[Cognitive Load Theory (CLT)]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
@@ -1546,7 +1546,7 @@ Generate a "When to Use" checklist.
 
 ## ✅ Readiness Checklist
 - [ ] Is the user overwhelmed? (If yes, apply [[Cognitive Load Reduction]])
-- [ ] Is the content complex? (If yes, apply [[chunking]])
+- [ ] Is the content complex? (If yes, apply [[Chunk (Miller, 1956; Chase & Simon, 1973)]])
 </application_checklist_protocol>
 ```
 
@@ -2514,11 +2514,11 @@ Explicitly connect concepts to foundational mental models.
 ### Two-Way Model Use
 
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[cognitive-load-theory]]?"
+"How does [[First Principles Thinking]] illuminate [[Cognitive Load Theory (CLT)]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 
 **Concept → Lens** (Projection):
-"How can [[cognitive-load-theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[Cognitive Load Theory (CLT)]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 

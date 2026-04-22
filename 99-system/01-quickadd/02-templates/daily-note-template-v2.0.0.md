@@ -1,0 +1,639 @@
+<%*
+// ═══════════════════════════════════════════════════════════════
+// TEMPLATER INITIALIZATION BLOCK
+// Runs silently before the note is rendered.
+// ═══════════════════════════════════════════════════════════════
+
+// ── Date helpers ──────────────────────────────────────────────
+const today      = tp.date.now("YYYY-MM-DD");
+const dayName    = tp.date.now("dddd");
+const dayNum     = tp.date.now("DD");
+const monthName  = tp.date.now("MMMM");
+const year       = tp.date.now("YYYY");
+const isoWeek    = tp.date.now("GGGG-[W]WW");      // e.g. 2026-W17
+const yesterday  = tp.date.now("YYYY-MM-DD", -1);
+const tomorrow   = tp.date.now("YYYY-MM-DD",  1);
+
+// ── Quote library ─────────────────────────────────────────────
+// Drawn from cognitive science, philosophy, learning theory, and
+// stoicism — all directly relevant to Project Pur3v4d3r domains.
+const quotes = [
+  { text: "The mind is not a vessel to be filled, but a fire to be kindled.", author: "Plutarch" },
+  { text: "Knowing yourself is the beginning of all wisdom.", author: "Aristotle" },
+  { text: "We do not learn from experience; we learn from reflecting on experience.", author: "John Dewey" },
+  { text: "Metacognition is thinking about thinking — the supervisory system of the mind.", author: "John Flavell" },
+  { text: "An unexamined life is not worth living.", author: "Socrates" },
+  { text: "The measure of intelligence is the ability to change.", author: "Albert Einstein" },
+  { text: "The more that you read, the more things you will know.", author: "Dr. Seuss" },
+  { text: "He who learns but does not think is lost. He who thinks but does not learn is in great danger.", author: "Confucius" },
+  { text: "First say to yourself what you would be; and then do what you have to do.", author: "Epictetus" },
+  { text: "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.", author: "Brian Herbert" },
+  { text: "Education is not the filling of a pail, but the lighting of a fire.", author: "W.B. Yeats" },
+  { text: "Waste no more time arguing what a good man should be. Be one.", author: "Marcus Aurelius" },
+  { text: "Begin at once to live, and count each separate day as a separate life.", author: "Seneca" },
+  { text: "The quality of a person's life is in direct proportion to their commitment to excellence.", author: "Vince Lombardi" },
+  { text: "It is not enough to have a good mind; the main thing is to use it well.", author: "René Descartes" },
+  { text: "Knowledge is of no value unless you put it into practice.", author: "Anton Chekhov" },
+  { text: "Learning without thought is labour lost; thought without learning is perilous.", author: "Confucius" },
+  { text: "Memory is the treasury and guardian of all things.", author: "Cicero" },
+  { text: "The secret of getting ahead is getting started.", author: "Mark Twain" },
+  { text: "Self-regulation is the master skill that makes all other skills possible.", author: "Barry Zimmerman" },
+  { text: "What we know is a drop; what we do not know is an ocean.", author: "Isaac Newton" },
+  { text: "Dwell on the beauty of life. Watch the stars, and see yourself running with them.", author: "Marcus Aurelius" },
+  { text: "If you have two hours of work and eight hours of time, the work will expand to fill the eight hours.", author: "Parkinson's Law" },
+  { text: "The expert in anything was once a beginner.", author: "Helen Hayes" },
+  { text: "Cognitive load is the enemy of deep understanding.", author: "John Sweller" },
+  { text: "You don't rise to the level of your goals; you fall to the level of your systems.", author: "James Clear" },
+  { text: "A good system shortens the road to the goal.", author: "Orison Swett Marden" },
+  { text: "The more connections you make between ideas, the deeper your understanding grows.", author: "Niklas Luhmann" },
+  { text: "Consciousness is a tiny raft on a vast ocean of unconscious processing.", author: "David Eagleman" },
+  { text: "Retrieval practice is the most powerful learning strategy we have.", author: "Henry Roediger" },
+];
+
+// Select a deterministic-but-varied quote based on day-of-year
+// so each day always shows the same quote (reproducible) but each day differs.
+const dayOfYear = Math.floor((new Date(today) - new Date(year + '-01-01')) / 86400000);
+const quote     = quotes[dayOfYear % quotes.length];
+
+// ── Mood / Energy defaults (editable inline) ──────────────────
+const moodDefault   = "neutral";
+const energyDefault = "medium";
+const focusDefault  = "medium";
+%>
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "<% today %>"
+aliases:
+  - "<% dayName %> <% dayNum %> <% monthName %> <% year %>"
+  - "Daily Note <% today %>"
+type: daily-note
+status: active
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - daily-note
+  - workflow/daily-review
+  - self-regulated-learning/forethought
+  - self-regulated-learning/self-reflection
+  - metacognition/monitoring
+  - personal-knowledge-management
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: <% today %>
+updated: <% today %>
+week: "<% isoWeek %>"
+yesterday: "[[<% yesterday %>]]"
+tomorrow: "[[<% tomorrow %>]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SESSION STATE  (Dataview-extractable inline fields)
+# ═══════════════════════════════════════════════════════════════════════════
+mood: <% moodDefault %>
+energy-level: <% energyDefault %>
+focus-quality: <% focusDefault %>
+primary-domain: ""
+sessions-completed: 0
+notes-created: 0
+srl-phase-complete: false
+---
+
+# <% dayName %>, <% monthName %> <% dayNum %> · <% year %>
+`= this.week` &nbsp;|&nbsp; [[<% yesterday %>|← Yesterday]] &nbsp;|&nbsp; [[<% tomorrow %>|Tomorrow →]]
+
+---
+
+> [!quote] 💬 Today's Lens
+> *"<% quote.text %>"*
+> — **<% quote.author %>**
+
+---
+
+## 🌅 Phase I — Forethought
+*([[Zimmerman's-Cyclical-SRL-Model|Zimmerman SRL]] · [[Forethought-Phase|Forethought Phase]])*
+
+> [!abstract] ⚙️ SRL Engine: Forethought
+> Complete this section **before** your first work session. The Forethought Phase activates [[Self-Regulated-Learning|self-regulated learning]] by converting abstract intentions into concrete execution plans. Skipping this is the single strongest predictor of unproductive days.
+
+### 🎯 Task Analysis
+
+**Primary Intention for Today:**
+> 
+
+**Why does this matter right now?**
+*(Connect to a domain goal, curiosity, or project)*
+> 
+
+**Anticipated obstacles:**
+- [ ] 
+- [ ] 
+
+[**Primary-Focus**:: ]
+[**Obstacle-1**:: ]
+
+---
+
+### 🗺️ Strategic Planning
+
+**Top 3 tasks — ordered by cognitive demand** *(hardest first)*:
+
+| Priority | Task | Estimated Time | Domain |
+|:--------:|------|:--------------:|--------|
+| 🔴 1 | | min | |
+| 🟡 2 | | min | |
+| 🟢 3 | | min | |
+
+**Deep Work Block scheduled for:** `___:___ → ___:___`
+
+> [!tip] 🟣 Sequencing Principle
+> [[Cognitive-Load-Theory|Cognitive Load Theory]] predicts that tackling the most demanding task while [[Working-Memory|working memory]] is fresh (usually within 90 min of waking) yields measurably higher output quality. Front-load intellectual difficulty.
+
+---
+
+### 🧠 Self-Efficacy & Motivation Calibration
+
+**Rate your pre-session state** *(edit the values in frontmatter or here)*:
+
+| Dimension | Level | Notes |
+|-----------|-------|-------|
+| Mood | `= this.mood` | |
+| Energy | `= this.energy-level` | |
+| Focus | `= this.focus-quality` | |
+
+**Today's primary domain:**
+`= this.primary-domain`
+
+**One [[Self-Efficacy|self-efficacy]] anchor** *(a past win that proves you can do hard things)*:
+> 
+
+[**Self-Efficacy-Anchor**:: ]
+
+---
+
+## 📊 Phase I — Live Dashboard
+
+> [!gold] 🗂️ Vault Activity — Today
+
+```dataviewjs
+// ═══════════════════════════════════════════════════════════════
+// SECTION 1: TASKS DUE TODAY
+// ═══════════════════════════════════════════════════════════════
+const today = dv.date("today");
+const todayStr = today.toFormat("yyyy-MM-dd");
+
+// Gather all tasks from the vault
+const allPages = dv.pages();
+const todayTasks = [];
+const overdueTasks = [];
+const completedTodayTasks = [];
+
+for (let page of allPages) {
+  if (!page.file.tasks || page.file.tasks.length === 0) continue;
+  for (let task of page.file.tasks) {
+    if (!task.due) continue;
+    const dueStr = task.due.toFormat ? task.due.toFormat("yyyy-MM-dd") : String(task.due).slice(0,10);
+    if (task.completed) {
+      const completedStr = task.completion
+        ? (task.completion.toFormat ? task.completion.toFormat("yyyy-MM-dd") : String(task.completion).slice(0,10))
+        : null;
+      if (completedStr === todayStr) completedTodayTasks.push({ task, page });
+    } else {
+      if (dueStr === todayStr) todayTasks.push({ task, page });
+      else if (dueStr < todayStr) overdueTasks.push({ task, page });
+    }
+  }
+}
+
+// ── Render summary header ──────────────────────────────────────
+dv.paragraph(`**📋 Due Today:** ${todayTasks.length} &nbsp;·&nbsp; **🔴 Overdue:** ${overdueTasks.length} &nbsp;·&nbsp; **✅ Completed:** ${completedTodayTasks.length}`);
+
+// ── Due Today list ─────────────────────────────────────────────
+if (todayTasks.length > 0) {
+  dv.header(4, "📋 Due Today");
+  dv.list(todayTasks.slice(0,10).map(({task, page}) =>
+    `${task.text} · ${page.file.link}`
+  ));
+} else {
+  dv.paragraph("*No tasks due today — either you're ahead or forgot to schedule!*");
+}
+
+// ── Overdue list ───────────────────────────────────────────────
+if (overdueTasks.length > 0) {
+  dv.header(4, "🔴 Overdue");
+  dv.list(overdueTasks.slice(0,8).map(({task, page}) => {
+    const dueStr = task.due.toFormat ? task.due.toFormat("yyyy-MM-dd") : String(task.due).slice(0,10);
+    return `${task.text} (due: ${dueStr}) · ${page.file.link}`;
+  }));
+}
+```
+
+---
+
+```dataviewjs
+// ═══════════════════════════════════════════════════════════════
+// SECTION 2: NOTES CREATED TODAY
+// ═══════════════════════════════════════════════════════════════
+const todayDate = dv.date("today");
+const todayStr  = todayDate.toFormat("yyyy-MM-dd");
+
+const newNotes = dv.pages()
+  .where(p => p.file.cday && p.file.cday.toFormat("yyyy-MM-dd") === todayStr)
+  .sort(p => p.file.ctime, "desc");
+
+dv.header(4, `📝 Notes Created Today (${newNotes.length})`);
+
+if (newNotes.length > 0) {
+  dv.table(
+    ["Note", "Type", "Tags"],
+    newNotes.slice(0, 12).map(p => [
+      p.file.link,
+      p.type ?? "—",
+      (p.file.tags ?? []).slice(0, 3).join(", ") || "—"
+    ])
+  );
+} else {
+  dv.paragraph("*No notes created yet today.*");
+}
+```
+
+---
+
+```dataviewjs
+// ═══════════════════════════════════════════════════════════════
+// SECTION 3: RECENT PERMANENT NOTES (last 7 days)
+// ═══════════════════════════════════════════════════════════════
+const sevenDaysAgo = dv.date("today").minus({ days: 7 });
+
+const recentPermanent = dv.pages('"_permanent-notes"')
+  .where(p => p.file.cday >= sevenDaysAgo)
+  .sort(p => p.file.cday, "desc")
+  .slice(0, 8);
+
+dv.header(4, "🌱 Recent Permanent Notes (7d)");
+
+if (recentPermanent.length > 0) {
+  dv.table(
+    ["Note", "Status", "Confidence", "Domain"],
+    recentPermanent.map(p => [
+      p.file.link,
+      p.status ?? "—",
+      p.confidence ?? "—",
+      p.domain ?? "—"
+    ])
+  );
+} else {
+  dv.paragraph("*No permanent notes added in the last 7 days.*");
+}
+```
+
+---
+
+```dataviewjs
+// ═══════════════════════════════════════════════════════════════
+// SECTION 4: WEEKLY KNOWLEDGE PRODUCTION SPARKLINE
+// Counts notes created each day this week (Mon → today)
+// ═══════════════════════════════════════════════════════════════
+const today = dv.date("today");
+
+// Build array of this week's days (Mon → today)
+const monday = today.minus({ days: today.weekday - 1 });
+const days   = [];
+for (let i = 0; i <= today.weekday - 1; i++) {
+  days.push(monday.plus({ days: i }));
+}
+
+const counts = days.map(d => {
+  const str = d.toFormat("yyyy-MM-dd");
+  return dv.pages().where(p => p.file.cday && p.file.cday.toFormat("yyyy-MM-dd") === str).length;
+});
+
+const bars = ["▁","▂","▃","▄","▅","▆","▇","█"];
+const maxCount = Math.max(...counts, 1);
+const spark = counts.map(c => {
+  const idx = Math.round((c / maxCount) * (bars.length - 1));
+  return bars[idx];
+}).join("");
+
+const dayLabels = days.map(d => d.toFormat("EEE")).join(" · ");
+
+dv.header(4, "📈 Weekly Velocity");
+dv.paragraph(`\`${spark}\`  *(${dayLabels})*`);
+dv.paragraph(`Total this week: **${counts.reduce((a,b)=>a+b,0)}** notes`);
+```
+
+---
+
+## ⚡ Phase II — Deep Work Sessions
+*([[Self-Regulated-Learning|SRL]] · Performance / Volitional Control Phase)*
+
+> [!gold] 🟡 Session Protocol
+> Each block captures one focused work session. Time-block deliberately — **sessions under 25 min rarely reach depth**. Use the Comprehension Monitor to catch [[Fluency-Illusion|fluency illusions]] mid-session.
+
+### Session 1
+
+**Start time:** `___:___`  **End time:** `___:___`  **Duration:** ` ` min
+
+**Focus objective** *(one sentence)*:
+> 
+
+**Method / strategy used:**
+- [ ] Reading → annotating
+- [ ] Writing / synthesis
+- [ ] Concept mapping
+- [ ] Practice / retrieval
+- [ ] Other: 
+
+**Mid-session comprehension monitor** *(Zimmerman · [[Self-Monitoring|Self-Monitoring]])*:
+
+> [!teal] 🩵 Monitoring Check
+> - Am I actually understanding, or just re-reading? `[ ] Understanding  [ ] Surface`
+> - Is this strategy working? `[ ] Yes  [ ] Needs adjustment`
+> - Working memory overload? `[ ] No  [ ] Reduce chunk size`
+
+**Output / artifact produced:**
+> 
+
+[**Session-1-Focus**:: ]
+[**Session-1-Duration**:: ]
+
+---
+
+### Session 2
+
+**Start time:** `___:___`  **End time:** `___:___`  **Duration:** ` ` min
+
+**Focus objective:**
+> 
+
+**Method / strategy used:**
+- [ ] Reading → annotating
+- [ ] Writing / synthesis
+- [ ] Concept mapping
+- [ ] Practice / retrieval
+- [ ] Other: 
+
+> [!teal] 🩵 Monitoring Check
+> - Understanding or surface processing? `[ ] Deep  [ ] Surface`
+> - Appropriate challenge level? `[ ] Yes — in [[Flow|flow]]  [ ] Too easy  [ ] Too hard`
+> - Metacognitive regulation needed? `[ ] Continue  [ ] Adjust strategy`
+
+**Output / artifact produced:**
+> 
+
+[**Session-2-Focus**:: ]
+[**Session-2-Duration**:: ]
+
+---
+
+### Session 3 *(optional)*
+
+**Start time:** `___:___`  **End time:** `___:___`  **Duration:** ` ` min
+
+**Focus objective:**
+> 
+
+**Output:**
+> 
+
+[**Session-3-Focus**:: ]
+[**Session-3-Duration**:: ]
+
+---
+
+## 🔗 Knowledge Synthesis
+*([[Zettelkasten|Zettelkasten]] · [[Self-Explanation-Effect|Self-Explanation Effect]] · [[Schema-Theory|Schema Theory]])*
+
+> [!purple] 🟣 Synthesis Engine
+> This section bridges daily experience with your permanent knowledge graph. **Do not skip it** — the self-explanation act here is what converts passive exposure into durable schema. Each idea entry below is a candidate permanent note or an extension to an existing one.
+
+### 💡 Ideas & Concepts Encountered
+
+*Use `[[wiki-links]]` liberally — connect to existing permanent notes wherever possible.*
+
+1. 
+2. 
+3. 
+
+### 🔗 Connections Noticed Today
+
+*Surprising links between ideas — these are the seeds of insight.*
+
+| Concept A | Relationship | Concept B |
+|-----------|:------------:|-----------|
+| `[[]]` | ←→ | `[[]]` |
+| `[[]]` | ←→ | `[[]]` |
+
+### 📌 Permanent Note Candidates
+
+*Which ideas deserve their own note? Mark with priority.*
+
+- [ ] 🔴 High — 
+- [ ] 🟡 Medium — 
+- [ ] 🟢 Low — 
+
+### 🗃️ Quick Captures
+*Raw ideas, quotes, references — unprocessed but preserved*
+
+> 
+
+---
+
+## 🌙 Phase III — Self-Reflection
+*([[Zimmerman's-Three-Phase-SRL-Cycle|Zimmerman SRL]] · [[Self-Reflection-Phase|Self-Reflection Phase]])*
+
+> [!abstract] ⚙️ SRL Engine: Self-Reflection
+> Complete this section **at day's end**, ideally within 30 min of finishing work. Zimmerman's research shows that the Self-Reflection Phase is the primary mechanism through which [[Self-Regulated-Learning|self-regulated learners]] improve — not raw effort or talent. This is where today's learning becomes tomorrow's capability.
+
+### 📊 Performance Self-Evaluation
+
+**Sessions completed today:** `___` of `___` planned
+
+**Primary intention fulfilled?**
+- [ ] ✅ Fully
+- [ ] 🟡 Partially — reason: 
+- [ ] ❌ Not completed — reason: 
+
+**Quality self-rating** *(honest, not harsh)*:
+
+| Dimension | Rating (1–5) | Justification |
+|-----------|:------------:|---------------|
+| Depth of focus | | |
+| Quality of output | | |
+| Strategy effectiveness | | |
+| Metacognitive awareness | | |
+
+[**Performance-Rating**:: ]
+
+---
+
+### 🔍 Causal Attribution
+*([[Self-Efficacy|Self-Efficacy Theory]] · Zimmerman's Attribution Model)*
+
+> [!purple] 🟣 Attribution Analysis
+> **Why** did today go the way it did? [[Self-Efficacy|Zimmerman]] demonstrates that *controllable, internal* attributions (effort, strategy) build self-efficacy. *Uncontrollable* attributions (luck, ability) erode it. Be precise.
+
+**What went well — and why?**
+> 
+
+**What was difficult — and why?**
+> 
+
+**Was difficulty due to:**
+- [ ] Strategy mismatch → I should try: 
+- [ ] Insufficient prior knowledge → I need to first learn: `[[]]`
+- [ ] External disruption → mitigation: 
+- [ ] Cognitive overload → I will chunk differently tomorrow
+- [ ] Motivation / energy → see self-efficacy anchor above
+
+[**Primary-Attribution**:: ]
+
+---
+
+### 🔄 Adaptive Inferences
+*What changes in strategy, planning, or behavior for tomorrow?*
+
+> [!gold] 🟡 Adaptive Calibration
+> This is not journaling — it is **strategy revision**. Each inference should be specific and actionable, not vague ("try harder"). Vague inferences produce no behavior change.
+
+1. **I will START doing:** 
+2. **I will STOP doing:** 
+3. **I will KEEP doing:** 
+4. **Tomorrow's first task / seed:** 
+
+[**Adaptive-Inference-1**:: ]
+[**Tomorrow-Seed**:: ]
+
+---
+
+### 🌱 Today's Three Learning Wins
+*Anchor progress — [[Self-Efficacy|self-efficacy]] is built on documented evidence of competence*
+
+1. ✅ 
+2. ✅ 
+3. ✅ 
+
+---
+
+### 💭 Open Questions & Unresolved Tensions
+*The best permanent notes often grow from the questions you cannot yet answer*
+
+- ❓ 
+- ❓ 
+
+---
+
+## 🗂️ End-of-Day Vault Review
+
+```dataviewjs
+// ═══════════════════════════════════════════════════════════════
+// SECTION 5: PENDING TASKS (no due date — inbox)
+// Show tasks without a due date from key workflow files
+// ═══════════════════════════════════════════════════════════════
+const inboxTasks = dv.pages()
+  .where(p => p.file.tasks && p.file.tasks.length > 0)
+  .flatMap(p => p.file.tasks.array()
+    .filter(t => !t.completed && !t.due)
+    .map(t => ({ task: t, file: p.file.link }))
+  )
+  .slice(0, 10);
+
+if (inboxTasks.length > 0) {
+  dv.header(4, `📥 Undated Tasks (Inbox) — ${inboxTasks.length}`);
+  dv.list(inboxTasks.map(({task, file}) => `${task.text} · ${file}`));
+} else {
+  dv.paragraph("*Inbox clear — no undated tasks found.*");
+}
+```
+
+---
+
+```dataviewjs
+// ═══════════════════════════════════════════════════════════════
+// SECTION 6: SEEDLING NOTES (maturity = seedling, no update today)
+// These need attention — they are at risk of orphaning
+// ═══════════════════════════════════════════════════════════════
+const today = dv.date("today");
+
+const seedlings = dv.pages('"_permanent-notes"')
+  .where(p => p.status === "seedling")
+  .sort(p => p.file.mday, "asc")
+  .slice(0, 8);
+
+dv.header(4, `🌱 Seedling Notes Needing Attention (${seedlings.length})`);
+
+if (seedlings.length > 0) {
+  dv.table(
+    ["Note", "Created", "Last Modified", "Domain"],
+    seedlings.map(p => [
+      p.file.link,
+      p.file.cday ? p.file.cday.toFormat("yyyy-MM-dd") : "—",
+      p.file.mday ? p.file.mday.toFormat("yyyy-MM-dd") : "—",
+      p.domain ?? "—"
+    ])
+  );
+} else {
+  dv.paragraph("*No seedling notes found — great vault hygiene!*");
+}
+```
+
+---
+
+## ⚡ Quick Actions
+
+> [!gold] 🟡 Meta Bind Controls
+
+`BUTTON[create-permanent-note]` `BUTTON[open-moc-cogscience]` `BUTTON[open-yesterday]` `BUTTON[mark-srl-complete]`
+
+```meta-bind-button
+label: "🌱 New Permanent Note"
+id: create-permanent-note
+style: primary
+actions:
+  - type: command
+    command: "templater-obsidian:create-new-note-from-template"
+```
+
+```meta-bind-button
+label: "🧠 Cog Sci MOC"
+id: open-moc-cogscience
+style: default
+actions:
+  - type: open
+    link: "Cognitive Science MOC"
+    newTab: false
+```
+
+```meta-bind-button
+label: "← Yesterday"
+id: open-yesterday
+style: default
+actions:
+  - type: open
+    link: "<% yesterday %>"
+    newTab: false
+```
+
+```meta-bind-button
+label: "✅ SRL Complete"
+id: mark-srl-complete
+style: success
+actions:
+  - type: updateMetadata
+    bindTarget: "srl-phase-complete"
+    evaluate: false
+    value: true
+```
+
+---
+
+## 🔗 Contextual Links
+
+*[[Zimmerman's-Cyclical-SRL-Model|Zimmerman SRL]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Metacognition|Metacognition]] · [[Forethought-Phase|Forethought Phase]] · [[Self-Reflection-Phase|Self-Reflection Phase]] · [[Self-Monitoring|Self-Monitoring]] · [[Fluency-Illusion|Fluency Illusion]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Working-Memory|Working Memory]] · [[Self-Efficacy|Self-Efficacy]] · [[Flow|Flow]] · [[Spaced-Repetition|Spaced Repetition]] · [[Schema-Theory|Schema Theory]] · [[Self-Explanation-Effect|Self-Explanation Effect]]*
+
+---
+*Daily note auto-generated by Templater · <% tp.date.now("HH:mm") %> · Project Pur3v4d3r*

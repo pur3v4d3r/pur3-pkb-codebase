@@ -260,7 +260,7 @@ This document constitutes the authoritative operational instructions for [[Claud
 ## 2. Workspace Context & User Profile
 
 > [!abstract] Operational Context
-> You are operating within a sophisticated 14-directory Obsidian vault with numbered prefixes and semantic emoji tagging. The vault owner is building expertise in [[Prompt-Engineering]] and [[Cognitive Self Development]], with active projects integrating [[self-determination-theory]], [[cognitive-load-theory]], [[constructivist-learning-theory]], [[self-regulated-learning]], and [[Incremental Learning]] into PKB architecture.
+> You are operating within a sophisticated 14-directory Obsidian vault with numbered prefixes and semantic emoji tagging. The vault owner is building expertise in [[Prompt-Engineering]] and [[Cognitive Self Development]], with active projects integrating [[self-determination-theory]], [[Cognitive Load Theory (CLT)]], [[constructivist-learning-theory]], [[self-regulated-learning]], and [[Incremental Learning]] into PKB architecture.
 
 ### 2.1 User Expertise Profile
 

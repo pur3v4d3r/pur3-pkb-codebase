@@ -131,8 +131,8 @@ prerequisites:
   - "[[attention-and-selective-processing|Attention and Selective Processing]]"
 
 related:
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]"
   - "[[levels-of-processing-theory|Levels of Processing Theory]]"
   - "[[metacognition-and-lifelong-learning|Metacognition and Lifelong Learning]]"
@@ -140,7 +140,7 @@ related:
 
 broader:
   - "[[cognitive-psychology|Cognitive Psychology]]"
-  - "[[cognitive-architecture|Cognitive Architecture]]"
+  - "[[Cognitive Architecture|Cognitive Architecture]]"
   - "[[Learning-Science|Learning Science]]"
 
 narrower:
@@ -174,14 +174,14 @@ builds-on:
   - "[[Perception-and-Pattern-Recognition|Perception and Pattern Recognition]]"
 
 enables:
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[Instructional Design Principles]]"
   - "[[Spacing Effect and Distributed Practice]]"
 
 expansion-topics:
-  - topic: "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - topic: "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
     description: "Directly operationalizes working memory capacity limits for instructional design; essential next node"
     priority: high
   - topic: "[[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]"
@@ -267,7 +267,7 @@ Memory is not a single thing. This is perhaps the most consequential insight cog
 
 This report establishes the conceptual bedrock of human memory systems. It begins with the intellectual history of the field, tracing the evolution of understanding from [[hermann-ebbinghaus|Hermann Ebbinghaus]]'s pioneering forgetting curves to the multi-component working memory model that now dominates cognitive science. It maps the major theoretical frameworks in depth, examines the mechanisms through which information is encoded, maintained, and retrieved, and draws out the implications for learning, instruction, and intellectual practice. It also confronts the field's genuine limitations honestly — from the contested status of key theoretical constructs to the persistent problem of ecological validity in laboratory memory research.
 
-The report is structured for a reader who may not have prior training in cognitive psychology but who approaches the material as a serious intellectual. Technical language is introduced with precision and built upon progressively. By the end, the reader should have a working mental model of human memory architecture sufficient to understand [[cognitive-load-theory|Cognitive Load Theory]], [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]], [[schema-theory|Schema Theory]], and the broader landscape of the learning sciences — all of which are built directly on the foundations laid here.
+The report is structured for a reader who may not have prior training in cognitive psychology but who approaches the material as a serious intellectual. Technical language is introduced with precision and built upon progressively. By the end, the reader should have a working mental model of human memory architecture sufficient to understand [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]], [[schema-theory-and-knowledge-organization|Schema Theory]], and the broader landscape of the learning sciences — all of which are built directly on the foundations laid here.
 
 The trajectory proceeds as follows: Phase II establishes core definitions and the historical development of the field. Phase III maps the major theoretical frameworks, their evidence bases, and their tensions. Phase IV moves beneath theory to the operational mechanisms of encoding, maintenance, and retrieval. Phase V examines applications, limitations, and common misconceptions. Phase VI synthesises and integrates, connecting to the broader knowledge base. The appendix provides a lexicon, annotated references, and a map of expansion topics.
 
@@ -356,7 +356,7 @@ The Baddeley working memory model has proved remarkably durable. Since its intro
 
 Yet the model is not without problems. The most persistent is the theoretical status of the [[central-executive|Central Executive]]. As Baddeley himself has acknowledged, the central executive risks becoming an explanatory placeholder — a "homunculus" that handles everything the other components cannot. While there have been productive attempts to fractionate it (drawing on [[Norman-and-Shallice|Norman and Shallice]]'s supervisory attentional system, or [[Miyake-and-colleagues|Miyake and colleagues]]' work distinguishing shifting, updating, and inhibition as separable executive functions), the central executive remains the least well-specified component of the model. This matters because executive functions are precisely what distinguish capable learners from struggling ones.
 
-A second theoretical tension concerns the relationship between working memory and [[long-term-memory|Long-Term Memory]]. The original Atkinson-Shiffrin model treated them as sequentially ordered, with LTM being downstream from STM. The addition of Baddeley's episodic buffer gestures toward a more bidirectional relationship — active representations in working memory are continuously informed by, and interact with, long-term memory knowledge. [[schema-theory|Schema Theory]], developed most fully by [[frederic-bartlett|Frederic Bartlett]] and later formalised by [[David-Rumelhart|David Rumelhart]] and [[jean-piaget|Jean Piaget]], provides a complementary account of how long-term memory knowledge structures (schemas) actively shape both encoding and retrieval. The clean separation between working memory as "active" and long-term memory as "passive" has progressively blurred.
+A second theoretical tension concerns the relationship between working memory and [[long-term-memory|Long-Term Memory]]. The original Atkinson-Shiffrin model treated them as sequentially ordered, with LTM being downstream from STM. The addition of Baddeley's episodic buffer gestures toward a more bidirectional relationship — active representations in working memory are continuously informed by, and interact with, long-term memory knowledge. [[schema-theory-and-knowledge-organization|Schema Theory]], developed most fully by [[frederic-bartlett|Frederic Bartlett]] and later formalised by [[David-Rumelhart|David Rumelhart]] and [[jean-piaget|Jean Piaget]], provides a complementary account of how long-term memory knowledge structures (schemas) actively shape both encoding and retrieval. The clean separation between working memory as "active" and long-term memory as "passive" has progressively blurred.
 
 > [!counter-argument] **The Embedded-Processes View**
 > [[Nelson-Cowan|Nelson Cowan]] has proposed an influential alternative to the component-based Baddeley model. In Cowan's embedded-processes framework, working memory is not a separate system with its own storage buffers but is simply the activated portion of long-term memory — whatever subset of long-term memory representations is currently within the focus of attention. The focus of attention is itself limited to approximately four chunks. This view re-frames working memory capacity limits as attentional limits rather than storage limits. While the Baddeley and Cowan frameworks are not necessarily incompatible, they generate different predictions about the nature of working memory interference and the role of long-term memory in active cognition.
@@ -405,7 +405,7 @@ Memory begins with encoding — the transformation of perceptual or cognitive ex
 > [!key-claim] **The Encoding Specificity Principle**
 > [[endel-tulving|Endel Tulving]] and [[donald-thomson|Donald Thomson]]'s encoding specificity principle (1973) states that retrieval success depends on the match between encoding conditions and retrieval conditions. The cues available at retrieval are effective only to the extent that they overlap with the context encoded alongside the original memory trace. This has profound implications: information encoded in a specific context (emotional state, physical environment, background noise) may be inaccessible in a radically different retrieval context, not because it has been forgotten in the sense of degraded or lost, but because the appropriate retrieval cues are absent.
 
-The mechanisms of encoding interact with working memory in a critical way. Because working memory is the cognitive workspace in which active processing occurs, the quality of encoding depends heavily on what can be held in and operated upon within working memory. When working memory is overloaded — as it frequently is during complex learning — encoding suffers. When working memory resources are freed by prior knowledge (which compresses information into meaningful chunks, reducing the effective load), encoding improves. This is why experts in a domain can learn new information in that domain more efficiently than novices, and it is the theoretical bedrock of [[cognitive-load-theory|Cognitive Load Theory]].
+The mechanisms of encoding interact with working memory in a critical way. Because working memory is the cognitive workspace in which active processing occurs, the quality of encoding depends heavily on what can be held in and operated upon within working memory. When working memory is overloaded — as it frequently is during complex learning — encoding suffers. When working memory resources are freed by prior knowledge (which compresses information into meaningful chunks, reducing the effective load), encoding improves. This is why experts in a domain can learn new information in that domain more efficiently than novices, and it is the theoretical bedrock of [[Cognitive Load Theory (CLT)|Cognitive Load Theory]].
 
 > [!insight] **Encoding is Prediction**
 > Contemporary memory research, informed by predictive processing accounts of cognition, increasingly frames encoding as fundamentally predictive: the brain encodes deviations from expectation more strongly than confirmations. Events that violate a schema, surprise the observer, or carry high emotional significance receive privileged encoding — they are tagged as events requiring updating of the predictive model. This helps explain the [[von Restorff Effect]] (isolated distinctive items are better recalled than identical items in a homogeneous sequence) and the role of [[Emotional Memory]] in privileging survival-relevant experiences. The practical implication is that deliberate introduction of productive surprise — violation of the learner's expectations — can enhance encoding.
@@ -450,7 +450,7 @@ The primary mechanisms of forgetting are interference and retrieval failure rath
 
 ### Working Memory Capacity and Learning
 
-The most direct application of the working memory model to education comes through [[cognitive-load-theory|Cognitive Load Theory]], developed by [[john-sweller|John Sweller]] and colleagues in the late 1980s and 1990s. Cognitive Load Theory operationalises the insight that learning requires cognitive processing within working memory, and that working memory is a severely limited resource. Three types of cognitive load are distinguished: **intrinsic** load (the inherent complexity of the material, determined by the number of interacting elements that must be simultaneously held in mind); **extraneous** load (load imposed by poor instructional design — unnecessary complexity in presentation, irrelevant information, split-attention effects); and **germane** load (load devoted to schema construction and automation — the load that actually produces learning).
+The most direct application of the working memory model to education comes through [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], developed by [[john-sweller|John Sweller]] and colleagues in the late 1980s and 1990s. Cognitive Load Theory operationalises the insight that learning requires cognitive processing within working memory, and that working memory is a severely limited resource. Three types of cognitive load are distinguished: **intrinsic** load (the inherent complexity of the material, determined by the number of interacting elements that must be simultaneously held in mind); **extraneous** load (load imposed by poor instructional design — unnecessary complexity in presentation, irrelevant information, split-attention effects); and **germane** load (load devoted to schema construction and automation — the load that actually produces learning).
 
 The practical implications are substantial. Instructional designers should minimise extraneous load, manage intrinsic load by segmenting and sequencing complex material appropriately, and maximise germane load by directing cognitive resources toward schema construction. Novices and experts require different instructional approaches because they arrive with different long-term memory resources, which determines how much working memory capacity is genuinely available for learning new material.
 
@@ -521,9 +521,9 @@ The field's most important open questions cluster around three areas. First, the
 >
 > This report on memory systems connects to existing and anticipated PKB nodes in the following ways:
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — This is the direct operationalisation of the working memory model for instructional design. Where the current report establishes the theoretical architecture of working memory, Cognitive Load Theory takes the capacity limits, the distinction between intrinsic and extraneous load, and the role of schemas as its foundational axioms. The two nodes together form the essential theoretical backbone for evidence-based instructional design. A reader who has internalised the current report is fully prepared to engage with Cognitive Load Theory at a mechanistic level, understanding exactly why each pedagogical recommendation follows from the underlying memory architecture.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — This is the direct operationalisation of the working memory model for instructional design. Where the current report establishes the theoretical architecture of working memory, Cognitive Load Theory takes the capacity limits, the distinction between intrinsic and extraneous load, and the role of schemas as its foundational axioms. The two nodes together form the essential theoretical backbone for evidence-based instructional design. A reader who has internalised the current report is fully prepared to engage with Cognitive Load Theory at a mechanistic level, understanding exactly why each pedagogical recommendation follows from the underlying memory architecture.
 >
-> - **[[schema-theory|Schema Theory]]** — Bartlett's original account of schemas as active knowledge structures that shape encoding and retrieval connects directly to the discussion of chunking in working memory and the role of prior knowledge in modulating effective capacity. The current report establishes that long-term memory provides the chunks that working memory operates on; Schema Theory provides the account of how those chunks are organised, how they are activated during comprehension, and why prior knowledge both enables and can distort new learning. The two nodes are mutually illuminating: memory architecture explains how schemas function; schema theory explains what the relevant units of long-term memory are.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Bartlett's original account of schemas as active knowledge structures that shape encoding and retrieval connects directly to the discussion of chunking in working memory and the role of prior knowledge in modulating effective capacity. The current report establishes that long-term memory provides the chunks that working memory operates on; Schema Theory provides the account of how those chunks are organised, how they are activated during comprehension, and why prior knowledge both enables and can distort new learning. The two nodes are mutually illuminating: memory architecture explains how schemas function; schema theory explains what the relevant units of long-term memory are.
 >
 > - **[[metacognition-and-lifelong-learning|Metacognition and Lifelong Learning]]** — The reconstructive character of memory documented here has direct implications for metacognitive monitoring: people are systematically overconfident in the accuracy and completeness of their memories, because the smooth, fluent reconstruction process does not carry reliable error-detection signals. The testing effect connects to metacognitive monitoring because retrieval attempts surface what is and is not actually known, correcting the illusion of knowing that re-reading produces. The current report provides the mechanistic basis for understanding why several metacognitive strategies work: monitoring (testing oneself) produces accurate assessment because it engages actual retrieval; re-reading does not because it relies on recognition rather than recall.
 >
@@ -614,7 +614,7 @@ The field's most important open questions cluster around three areas. First, the
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[cognitive-load-theory|Cognitive Load Theory]]
+> > [!topic-idea] [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 > > **Priority: High.** This is the most direct application of the working memory model to instructional design and the single most important theoretical framework connecting memory science to pedagogy. A foundational report would cover Sweller's original formulation, the three-load taxonomy (intrinsic, extraneous, germane), the major instructional effects (worked example effect, split-attention effect, modality effect, redundancy effect, expertise reversal effect), and the most recent revisions to the model. Understanding Cognitive Load Theory at a mechanistic level requires the memory architecture established in the current report; it is the natural and necessary next node in the PKB for anyone working in learning science or instructional design.
 >
 > > [!topic-idea] [[Retrieval-Practice-and-the-Testing-Effect|Retrieval Practice and the Testing Effect]]

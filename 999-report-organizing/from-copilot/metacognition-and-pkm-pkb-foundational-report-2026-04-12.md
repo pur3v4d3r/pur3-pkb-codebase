@@ -93,8 +93,8 @@ treatment-type: foundational-analytical
 # ═══════════════════════════════════════════════════════════════
 core-concepts: ["Metacognition", "Personal Knowledge Management", "Metacognitive Monitoring", "Metacognitive Regulation", "Cognitive Offloading", "Extended Mind Theory", "Self-Regulated Learning"]
 key-distinctions: ["Metacognitive Knowledge vs. Metacognitive Regulation", "Note-Taking vs. Note-Making", "Cognitive Offloading vs. Cognitive Extension", "Monitoring Accuracy vs. Monitoring Confidence"]
-prerequisites: ["[[metacognition]]", "[[personal-knowledge-management]]", "[[self-regulated-learning]]", "[[cognitive-load-theory]]"]
-related: ["[[extended-mind-theory]]", "[[cognitive-offloading]]", "[[schema-theory-and-knowledge-organization]]", "[[metacognitive-scaffolding]]", "[[the-nelson-narens-monitoring-control-model]]"]
+prerequisites: ["[[metacognition]]", "[[personal-knowledge-management]]", "[[self-regulated-learning]]", "[[Cognitive Load Theory (CLT)]]"]
+related: ["[[Extended Mind Thesis (Clark & Chalmers, 1998)]]", "[[Cognitive Offloading]]", "[[schema-theory-and-knowledge-organization]]", "[[Metacognitive Scaffolding]]", "[[the-nelson-narens-monitoring-control-model]]"]
 broader: ["[[cognitive-psychology-moc]]", "[[pkb-&-pkm-moc]]"]
 narrower: ["[[metacognitive-calibration]]", "[[feeling-of-knowing]]", "[[judgment-of-learning]]", "[[pkb-architecture]]"]
 see-also: ["[[cog-sci-pkm-metacognition-and-its-role-in-pkm]]", "[[cog-sci-report-metacognition-as-central-integrating-mechanism-for-pkm-2025111306]]"]
@@ -157,7 +157,7 @@ connection-strength:
 This foundational report examines the deep structural relationship between [[metacognition]] — the capacity to monitor, evaluate, and regulate one's own cognitive processes — and [[personal-knowledge-management]] (PKM), with particular emphasis on [[personal-knowledge-base|Personal Knowledge Base]] (PKB) systems as externalized metacognitive architectures. The report traces how [[john-flavell]]'s original metacognitive framework, [[ann-brown]]'s distinction between knowledge of cognition and regulation of cognition, and [[the-nelson-narens-monitoring-control-model|the Nelson-Narens monitoring-control model]] provide the theoretical scaffolding for understanding PKB operations not merely as information management but as externalized metacognitive regulation. Through an analysis of monitoring-control dynamics in knowledge work, the externalization of [[metacognitive-knowledge|metacognitive knowledge]] in PKB structures, the role of [[metacognitive-experiences|metacognitive experiences]] in note-making practice, and the pervasive [[the-fluency-metacognition-paradox|fluency-calibration paradox]] in digital knowledge management, we develop an integrated account of how well-designed PKB systems function as metacognitive prostheses — extending the mind's capacity to know what it knows, identify what it does not know, and strategically regulate its own learning processes. The report synthesizes empirical research from cognitive psychology, educational psychology, and philosophy of mind to argue that the most significant contribution of PKB practice is not information storage but metacognitive skill development, and that this insight has profound implications for PKB design, learning strategy, and the emerging frontier of AI-augmented knowledge management.
 
 > [!schema-activation] **Connecting to Your Existing Knowledge**
-> If you have engaged with [[self-regulated-learning]], you already understand that effective learning requires learners to plan, monitor, and adjust their cognitive strategies — the forethought-performance-reflection cycle that [[barry-zimmerman]] formalized. If you have worked with [[cognitive-load-theory]], you know that [[working-memory]] is severely constrained and that [[schema-theory-and-knowledge-organization|schema construction]] in [[long-term-memory]] is the fundamental mechanism of learning. And if you maintain a [[personal-knowledge-base]], you have direct experience with a system that offloads, organizes, and makes retrievable the products of your thinking. What this report reveals is that these three domains — metacognition, cognitive architecture, and personal knowledge management — are not parallel concerns but deeply interpenetrating systems. Your PKB is not merely *storing* your knowledge; it is performing metacognitive work that your working memory cannot sustain unaided. The central question driving this report is: **How does the practice of building and maintaining a PKB reshape the practitioner's metacognitive architecture, and how should this understanding inform the design of PKB systems?**
+> If you have engaged with [[self-regulated-learning]], you already understand that effective learning requires learners to plan, monitor, and adjust their cognitive strategies — the forethought-performance-reflection cycle that [[barry-zimmerman]] formalized. If you have worked with [[Cognitive Load Theory (CLT)]], you know that [[working-memory]] is severely constrained and that [[schema-theory-and-knowledge-organization|schema construction]] in [[long-term-memory]] is the fundamental mechanism of learning. And if you maintain a [[personal-knowledge-base]], you have direct experience with a system that offloads, organizes, and makes retrievable the products of your thinking. What this report reveals is that these three domains — metacognition, cognitive architecture, and personal knowledge management — are not parallel concerns but deeply interpenetrating systems. Your PKB is not merely *storing* your knowledge; it is performing metacognitive work that your working memory cannot sustain unaided. The central question driving this report is: **How does the practice of building and maintaining a PKB reshape the practitioner's metacognitive architecture, and how should this understanding inform the design of PKB systems?**
 
 ---
 
@@ -176,7 +176,7 @@ The modern scientific study of metacognition begins with [[john-flavell]]'s semi
 >
 > **See also:** [[flavell-metacognition-framework]], [[Metacognition-—-Foundational-Concepts]], [[introduction-to-metacognition]], [[metacognitive-awareness]]
 
-Flavell's framework identified three primary components of metacognitive knowledge. First, *person knowledge* concerns what one knows about oneself and others as cognitive agents — for example, knowing that one's attention tends to wander during long lectures, or that visual representations help one learn more effectively than verbal ones. Second, *task knowledge* involves understanding the demands that different cognitive tasks impose — recognizing, for instance, that recalling information is more difficult than recognizing it, or that argumentative texts require closer reading than narrative ones. Third, *strategy knowledge* encompasses awareness of the cognitive strategies available and knowledge of when and why to deploy them — knowing, for example, that [[elaborative-interrogation|elaborative interrogation]] is more effective than rereading for deep comprehension.
+Flavell's framework identified three primary components of metacognitive knowledge. First, *person knowledge* concerns what one knows about oneself and others as cognitive agents — for example, knowing that one's attention tends to wander during long lectures, or that visual representations help one learn more effectively than verbal ones. Second, *task knowledge* involves understanding the demands that different cognitive tasks impose — recognizing, for instance, that recalling information is more difficult than recognizing it, or that argumentative texts require closer reading than narrative ones. Third, *strategy knowledge* encompasses awareness of the cognitive strategies available and knowledge of when and why to deploy them — knowing, for example, that [[Elaborative Interrogation|elaborative interrogation]] is more effective than rereading for deep comprehension.
 
 ### 1.2 Brown's Complementary Architecture: Knowledge of Cognition and Regulation of Cognition
 
@@ -236,7 +236,7 @@ However, a profound shift occurred as practitioners and theorists began to recog
 
 ### 2.2 The Cognitive Operations of PKB Practice
 
-A closer examination of what PKB practitioners actually *do* reveals that PKB operations are not merely organizational activities but cognitive transformations that engage every level of the processing hierarchy identified by [[cognitive-load-theory]]. Consider the primary operations:
+A closer examination of what PKB practitioners actually *do* reveals that PKB operations are not merely organizational activities but cognitive transformations that engage every level of the processing hierarchy identified by [[Cognitive Load Theory (CLT)]]. Consider the primary operations:
 
 **Capture** is the act of identifying information worth preserving — a decision that requires evaluating the relevance, novelty, and potential connectivity of incoming material against one's existing knowledge structure. This is not a passive copying operation; it is a judgment of significance that draws on metacognitive knowledge of one's own goals, gaps, and priorities.
 
@@ -249,7 +249,7 @@ A closer examination of what PKB practitioners actually *do* reveals that PKB op
 
 **Synthesis** involves the creation of higher-order structures — summary notes, maps of content, conceptual frameworks — that integrate multiple atomic notes into coherent wholes. This operation engages what educational psychologists call *knowledge-transforming* (as opposed to merely *knowledge-telling*): the active restructuring of knowledge that produces new understanding rather than merely reproducing existing understanding.
 
-**Retrieval and Review** are the operations that close the learning loop. When a practitioner revisits notes — whether through deliberate review, serendipitous browsing, or structured [[spaced-repetition|spaced repetition]] — she engages [[retrieval-practice|retrieval practice]], one of the most robustly supported learning strategies in the cognitive science literature. But retrieval in a PKB context does more than strengthen memory traces: it provides opportunities for metacognitive monitoring ("Do I still understand this? Has my understanding changed since I wrote this note?") and metacognitive control ("This note needs revision. This link is misleading. This concept needs decomposition.").
+**Retrieval and Review** are the operations that close the learning loop. When a practitioner revisits notes — whether through deliberate review, serendipitous browsing, or structured [[spaced-repetition|spaced repetition]] — she engages [[Desirable Difficulties (Robert Bjork, 1994)|retrieval practice]], one of the most robustly supported learning strategies in the cognitive science literature. But retrieval in a PKB context does more than strengthen memory traces: it provides opportunities for metacognitive monitoring ("Do I still understand this? Has my understanding changed since I wrote this note?") and metacognitive control ("This note needs revision. This link is misleading. This concept needs decomposition.").
 
 ### 2.3 The PKB as a Cognitive Architecture
 
@@ -285,11 +285,11 @@ Third, the PKB **amplifies control precision**: internal metacognitive control o
 > [!definition] **Metacognitive Externalization**
 > Metacognitive externalization is the process of rendering internal metacognitive processes — monitoring judgments, knowledge-state representations, and control decisions — in external, persistent, inspectable, and manipulable form through tools, artifacts, or systems. A PKB is arguably the most comprehensive metacognitive externalization system available to individual learners, because it externalizes not just isolated judgments but the *entire monitoring-control architecture*.
 >
-> **Boundary:** Metacognitive externalization is distinct from [[cognitive-offloading]], which refers to the use of external aids to reduce cognitive demand. Cognitive offloading *replaces* internal cognitive work with external support; metacognitive externalization *extends* and *amplifies* internal metacognitive work by providing it with external scaffolding. The distinction is between a calculator (which eliminates the need for mental arithmetic) and a proof-checking tool (which supports but does not replace the reasoning process).
+> **Boundary:** Metacognitive externalization is distinct from [[Cognitive Offloading]], which refers to the use of external aids to reduce cognitive demand. Cognitive offloading *replaces* internal cognitive work with external support; metacognitive externalization *extends* and *amplifies* internal metacognitive work by providing it with external scaffolding. The distinction is between a calculator (which eliminates the need for mental arithmetic) and a proof-checking tool (which supports but does not replace the reasoning process).
 >
 > **Report-Specific Significance:** This concept is central to the report's argument that PKBs are metacognitive instruments, not merely information management tools.
 >
-> **See also:** [[cognitive-offloading]], [[extended-mind-theory]], [[metacognitive-scaffolding-as-externalized-prefrontal-function]], [[metacognitive-infrastructure]]
+> **See also:** [[Cognitive Offloading]], [[Extended Mind Thesis (Clark & Chalmers, 1998)]], [[metacognitive-scaffolding-as-externalized-prefrontal-function]], [[metacognitive-infrastructure]]
 
 ### 3.2 Monitoring in PKB Practice: Making the Invisible Visible
 
@@ -372,7 +372,7 @@ Strategy knowledge — knowing *what strategies exist*, *when to use them*, and 
 
 **Template systems** encode strategy knowledge structurally. A Templater template that prompts the practitioner to "Define the concept in your own words," "Identify two connections to existing notes," "Formulate one question this concept raises" has *proceduralized* [[metacognitive-strategies|metacognitive strategy knowledge]] — converting declarative knowledge about effective learning strategies into procedural workflows that execute those strategies automatically.
 
-**Learning strategy notes** explicitly document the practitioner's strategy knowledge: notes on [[elaborative-interrogation|elaborative interrogation]], [[retrieval-practice|retrieval practice]], [[interleaving]], and [[desirable-difficulties|desirable difficulties]] serve as both reference material and self-instructions. The practitioner who maintains a note on "Effective Study Strategies" and links to it from her daily review template has created a metacognitive control structure — an external prompt to deploy effective strategies rather than defaulting to less effective but more comfortable ones (such as re-reading or passive review).
+**Learning strategy notes** explicitly document the practitioner's strategy knowledge: notes on [[Elaborative Interrogation|elaborative interrogation]], [[Desirable Difficulties (Robert Bjork, 1994)|retrieval practice]], [[Desirable Difficulties (Robert Bjork, 1994)]], and [[Desirable Difficulties (Robert Bjork, 1994)|desirable difficulties]] serve as both reference material and self-instructions. The practitioner who maintains a note on "Effective Study Strategies" and links to it from her daily review template has created a metacognitive control structure — an external prompt to deploy effective strategies rather than defaulting to less effective but more comfortable ones (such as re-reading or passive review).
 
 > [!original-synthesis] **The Metacognitive Externalization Spectrum**
 > Synthesizing the analysis of person, task, and strategy knowledge externalization in PKB systems, I propose a **Metacognitive Externalization Spectrum** with three levels:
@@ -401,7 +401,7 @@ Beyond the structured knowledge analyzed in Section 4, metacognition involves a 
 
 These experiences matter because they serve as the *proximal causes* of metacognitive control decisions. A student does not typically reason syllogistically about when to stop studying ("Premise 1: I have achieved adequate encoding. Premise 2: Adequate encoding means I can move on. Conclusion: I should move on."). Instead, she *feels* that she has learned the material — a [[judgment-of-learning|judgment of learning]] expressed as a phenomenological state — and this feeling drives the decision to proceed. The accuracy of these feelings, therefore, directly determines the quality of self-regulated learning.
 
-Considerable research in the metacognition literature has documented systematic biases in metacognitive feelings. [[processing-fluency|Processing fluency]] — the subjective ease with which information is processed — is a potent but misleading metacognitive cue. Material that is processed fluently (because it is clearly presented, recently encountered, or conceptually familiar) generates a feeling of knowing that may not correspond to actual retrievability or understanding. Conversely, material that is processed disfluently (because it requires effort, involves unfamiliar notation, or contradicts existing schemas) generates a feeling of difficulty that may not correspond to actual learning failure — indeed, [[desirable-difficulties|desirable difficulties]] research demonstrates that effortful processing often produces *superior* long-term retention.
+Considerable research in the metacognition literature has documented systematic biases in metacognitive feelings. [[processing-fluency|Processing fluency]] — the subjective ease with which information is processed — is a potent but misleading metacognitive cue. Material that is processed fluently (because it is clearly presented, recently encountered, or conceptually familiar) generates a feeling of knowing that may not correspond to actual retrievability or understanding. Conversely, material that is processed disfluently (because it requires effort, involves unfamiliar notation, or contradicts existing schemas) generates a feeling of difficulty that may not correspond to actual learning failure — indeed, [[Desirable Difficulties (Robert Bjork, 1994)|desirable difficulties]] research demonstrates that effortful processing often produces *superior* long-term retention.
 
 ### 5.2 How PKB Practice Shapes Metacognitive Experience
 
@@ -422,7 +422,7 @@ PKB practice systematically transforms the landscape of metacognitive experience
 
 Recognizing the role of metacognitive experiences in PKB practice has practical implications for PKB design. If metacognitive feelings drive control decisions, and if these feelings can be systematically biased, then the PKB should be designed to *correct for known biases* rather than amplifying them.
 
-For example, a review system that presents notes in the same format, font, and context as the original creation may generate misleading fluency signals — the material *looks familiar* because it was recently seen, not because it is well understood. A system that forces [[retrieval-practice|retrieval practice]] — presenting a question and requiring the practitioner to generate the answer before seeing the note — disrupts fluency-based monitoring and promotes accuracy-based monitoring.
+For example, a review system that presents notes in the same format, font, and context as the original creation may generate misleading fluency signals — the material *looks familiar* because it was recently seen, not because it is well understood. A system that forces [[Desirable Difficulties (Robert Bjork, 1994)|retrieval practice]] — presenting a question and requiring the practitioner to generate the answer before seeing the note — disrupts fluency-based monitoring and promotes accuracy-based monitoring.
 
 Similarly, a PKB that makes it easy to browse notes without engaging with them can create [[The-Fluency-Illusion-in-Knowledge-Management|fluency illusions]] at scale: the practitioner sees her extensive, well-organized collection and feels knowledgeable, when in fact she may have forgotten much of what the notes contain. Design interventions that disrupt this false fluency — such as periodic comprehension checks, random note quizzes, or link-based recall challenges — can correct the metacognitive bias by providing evidence that overrides the affect.
 
@@ -493,7 +493,7 @@ The recognition of the fluency-calibration paradox is not cause for despair abou
 
 ### 7.1 From Incidental to Intentional: The Design Turn
 
-The preceding analysis establishes that PKB practice *inherently* involves metacognitive processes — but also that this involvement can be shallow, biased, or counterproductive unless deliberately cultivated. This section synthesizes the theoretical framework of Sections 1-6 into actionable design principles for PKBs that function as [[metacognitive-scaffolding|metacognitive scaffolding]] systems — environments that systematically develop the practitioner's metacognitive capacity rather than merely benefiting from it incidentally.
+The preceding analysis establishes that PKB practice *inherently* involves metacognitive processes — but also that this involvement can be shallow, biased, or counterproductive unless deliberately cultivated. This section synthesizes the theoretical framework of Sections 1-6 into actionable design principles for PKBs that function as [[Metacognitive Scaffolding|metacognitive scaffolding]] systems — environments that systematically develop the practitioner's metacognitive capacity rather than merely benefiting from it incidentally.
 
 The shift from incidental to intentional metacognitive design is the shift from Level 1 to Level 3 on the Metacognitive Externalization Spectrum introduced in Section 4. It requires treating the PKB not only as a knowledge repository but as a *cognitive development environment* — an instrument whose architecture shapes the practitioner's thinking habits, monitoring accuracy, and regulatory sophistication.
 
@@ -516,7 +516,7 @@ I propose that effective metacognitive PKB design addresses three interconnected
 
 **Monitoring Fidelity Design Patterns:**
 
-1. **The Question-First Review.** When reviewing a note, the system presents the note's title and core question but hides the body, prompting the practitioner to generate her answer before revealing the content. This converts recognition-based review into recall-based review, providing diagnostic monitoring data. This pattern directly implements [[retrieval-practice|retrieval practice]] within the PKB workflow.
+1. **The Question-First Review.** When reviewing a note, the system presents the note's title and core question but hides the body, prompting the practitioner to generate her answer before revealing the content. This converts recognition-based review into recall-based review, providing diagnostic monitoring data. This pattern directly implements [[Desirable Difficulties (Robert Bjork, 1994)|retrieval practice]] within the PKB workflow.
 
 2. **The Calibration Dashboard.** A Dataview-powered view that tracks the practitioner's self-assessed confidence ratings against objective measures (quiz performance, peer review ratings, production challenge outcomes). Over time, this dashboard reveals patterns of overconfidence and underconfidence, enabling targeted calibration work.
 
@@ -534,14 +534,14 @@ I propose that effective metacognitive PKB design addresses three interconnected
 
 1. **The Monthly Metacognitive Review.** A structured practice of reviewing one's PKB practice (not merely one's PKB content) on a regular cycle: What learning strategies did I most use this month? What did I learn well, and what remained superficial? What patterns does my note-creation data reveal about my cognitive resource allocation? This practice operationalizes the reflective dimension of the Metacognitive Externalization Spectrum's Level 3.
 
-2. **The Strategy Experiment Log.** A note or series of notes documenting deliberate experiments with different learning strategies: "This week I tried [[elaborative-interrogation|elaborative interrogation]] for all new concept notes. Result: slower note creation, but noticeably deeper understanding during review." These logs convert strategy selection from habit into hypothesis-testing, embodying the [[self-regulated-learning|self-regulated learning]] cycle at the strategy level.
+2. **The Strategy Experiment Log.** A note or series of notes documenting deliberate experiments with different learning strategies: "This week I tried [[Elaborative Interrogation|elaborative interrogation]] for all new concept notes. Result: slower note creation, but noticeably deeper understanding during review." These logs convert strategy selection from habit into hypothesis-testing, embodying the [[self-regulated-learning|self-regulated learning]] cycle at the strategy level.
 
 > [!claude-insight] **The Metacognitive Design Paradox**
-> There is a crucial tension in designing PKBs for metacognitive enhancement: the more metacognitive scaffolding is built into the system, the greater the risk that the practitioner will *rely on the scaffolding rather than developing internal metacognitive capacity*. A PKB that provides comprehensive automated monitoring, calibrated review scheduling, and intelligent gap detection may produce a practitioner who is metacognitively proficient *within the system* but metacognitively impoverished *without it*. This suggests that effective metacognitive PKB design must include a *fading* component — a gradual withdrawal of scaffolding as the practitioner's internal metacognitive capacity develops, analogous to [[cognitive-scaffolding|cognitive scaffolding]] fading in educational contexts. The ultimate goal of a metacognitive PKB is to make itself less necessary for metacognitive regulation, not more.
+> There is a crucial tension in designing PKBs for metacognitive enhancement: the more metacognitive scaffolding is built into the system, the greater the risk that the practitioner will *rely on the scaffolding rather than developing internal metacognitive capacity*. A PKB that provides comprehensive automated monitoring, calibrated review scheduling, and intelligent gap detection may produce a practitioner who is metacognitively proficient *within the system* but metacognitively impoverished *without it*. This suggests that effective metacognitive PKB design must include a *fading* component — a gradual withdrawal of scaffolding as the practitioner's internal metacognitive capacity develops, analogous to [[Cognitive Scaffolding|cognitive scaffolding]] fading in educational contexts. The ultimate goal of a metacognitive PKB is to make itself less necessary for metacognitive regulation, not more.
 
 ### 7.4 Implementation Considerations
 
-Translating these design patterns into practice requires attending to [[cognitive-load-theory|cognitive load]] realities. Metacognitive scaffolding that is too elaborate, too demanding, or too disruptive to creative flow will be abandoned rather than adopted. The principle of *minimal effective metacognitive intervention* should guide implementation: what is the least-disruptive design feature that produces the greatest improvement in monitoring accuracy or control precision?
+Translating these design patterns into practice requires attending to [[Cognitive Load Theory (CLT)|cognitive load]] realities. Metacognitive scaffolding that is too elaborate, too demanding, or too disruptive to creative flow will be abandoned rather than adopted. The principle of *minimal effective metacognitive intervention* should guide implementation: what is the least-disruptive design feature that produces the greatest improvement in monitoring accuracy or control precision?
 
 Additionally, [[ai-pkb-integration|AI integration]] in PKB tools creates new possibilities for metacognitive scaffolding. AI-assisted note review that generates challenging questions, identifies potential misconceptions, or suggests unexplored connections can serve as a metacognitive interlocutor — providing monitoring signals that the practitioner might not generate independently. However, this amplifies the fading concern: AI-driven metacognitive scaffolding must be designed to develop the practitioner's autonomous metacognitive capacity, not to replace it.
 
@@ -692,7 +692,7 @@ These limitations, however, define a productive research frontier rather than in
 >
 > **Report-Specific Significance:** Original construct introduced in this report (Section 3) as the central mechanism linking metacognition theory to PKB practice.
 >
-> **See also:** [[cognitive-offloading]], [[extended-mind-theory]], [[metacognitive-scaffolding-as-externalized-prefrontal-function]]
+> **See also:** [[Cognitive Offloading]], [[Extended Mind Thesis (Clark & Chalmers, 1998)]], [[metacognitive-scaffolding-as-externalized-prefrontal-function]]
 
 > [!definition] **Structural Metacognitive Knowledge (This Report)**
 > Metacognitive understanding that is embodied in the architecture of a knowledge system rather than explicitly stated as declarative propositions. Includes organizational hierarchies, note type differentiation, linking conventions, and review protocols — all of which encode tacit knowledge about how different types of knowledge should be processed, connected, and maintained.
@@ -710,7 +710,7 @@ These limitations, however, define a productive research frontier rather than in
 >
 > **Report-Specific Significance:** Original contribution providing a developmental model for designing increasingly metacognitively sophisticated PKB systems (Section 4). Functions as both a diagnostic tool (where is my current system?) and a design target (where should it move?).
 >
-> **See also:** [[metacognitive-scaffolding]], [[pkb-architecture]], [[self-regulated-learning]]
+> **See also:** [[Metacognitive Scaffolding]], [[pkb-architecture]], [[self-regulated-learning]]
 
 > [!definition] **Metacognitive Scaffolding Design Triangle (This Report)**
 > A three-dimensional framework for designing PKBs that function as metacognitive development environments: (1) Monitoring Fidelity — generating accurate, diagnostic signals about knowledge state; (2) Control Precision — providing a rich vocabulary of regulatory interventions; (3) Reflective Integration — supporting metacognitive scrutiny of one's own knowledge management practices. Effective design attends to all three dimensions simultaneously.
@@ -719,7 +719,7 @@ These limitations, however, define a productive research frontier rather than in
 >
 > **Report-Specific Significance:** Original contribution synthesizing the theoretical analysis into an actionable design framework (Section 7).
 >
-> **See also:** [[the-metacognitive-scaffolding-design-triangle]], [[metacognitive-scaffolding]], [[cognitive-scaffolding]]
+> **See also:** [[the-metacognitive-scaffolding-design-triangle]], [[Metacognitive Scaffolding]], [[Cognitive Scaffolding]]
 
 > [!definition] **PKB Fluency Trap (This Report)**
 > The paradoxical situation in which a well-organized, accessible PKB undermines metacognitive accuracy: organizational quality generates processing fluency, which is misinterpreted as genuine understanding, reducing the perceived need for effortful processing and producing a gap between apparent and actual knowledge. A specific instance of the broader fluency-metacognition paradox applied to knowledge management systems.
@@ -781,7 +781,7 @@ These limitations, however, define a productive research frontier rather than in
 ### A.3 Conceptual Tensions and Open Questions
 
 > [!tension] **Extended Mind vs. Cognitive Development**
-> *Position A:* Following Clark and Chalmers' [[extended-mind-theory]], the PKB-user system constitutes a single cognitive agent — the boundaries of mind extend to include the external tool, and worrying about "internal" metacognitive capacity is based on a mistaken cognitive boundary.
+> *Position A:* Following Clark and Chalmers' [[Extended Mind Thesis (Clark & Chalmers, 1998)]], the PKB-user system constitutes a single cognitive agent — the boundaries of mind extend to include the external tool, and worrying about "internal" metacognitive capacity is based on a mistaken cognitive boundary.
 > *Position B:* From a developmental perspective, building internal metacognitive capacity is educationally valuable precisely because it transfers to contexts where the PKB is unavailable. The goal of metacognitive scaffolding is ultimately to build internal capacity, not to make the scaffolding permanently indispensable.
 > **Current state of evidence:** Philosophically unresolved. Empirical research on scaffolding fading in educational contexts supports Position B for novices; Position A may be more appropriate for experts with well-established internal metacognitive infrastructure.
 > **This report's stance:** Explicitly synthetic — both positions capture important truths. The report advocates designing for capacity development (Position B) while acknowledging that the human-PKB system may constitute a legitimate cognitive unit (Position A).
@@ -1054,9 +1054,9 @@ These limitations, however, define a productive research frontier rather than in
 > **Upstream Dependencies (this report builds on):**
 > - [[metacognition]] — The foundational construct. Without the metacognition permanent note as a stable reference point, this report's arguments lack their conceptual anchor. This report *extends* the metacognition entry by demonstrating its operational relevance to PKB practice.
 > - [[self-regulated-learning]] — The SRL framework provides the bridge between metacognitive theory and learning practice. This report argues that PKBs operationalize SRL phases; the SRL permanent note provides the theoretical warrant for that argument.
-> - [[cognitive-load-theory]] — CLT explains why metacognitive externalization is cognitively beneficial: by reducing the monitoring and control demands on working memory, the PKB frees cognitive resources for deeper processing.
+> - [[Cognitive Load Theory (CLT)]] — CLT explains why metacognitive externalization is cognitively beneficial: by reducing the monitoring and control demands on working memory, the PKB frees cognitive resources for deeper processing.
 > - [[the-nelson-narens-monitoring-control-model]] — The formal architecture that this report maps onto PKB operations. The permanent note on Nelson-Narens provides the detailed model that Section 3 applies.
-> - [[extended-mind-theory]] — Provides the philosophical framework for treating PKBs as components of the cognitive system. The permanent note on Extended Mind situates this report's arguments within the broader philosophy of mind landscape.
+> - [[Extended Mind Thesis (Clark & Chalmers, 1998)]] — Provides the philosophical framework for treating PKBs as components of the cognitive system. The permanent note on Extended Mind situates this report's arguments within the broader philosophy of mind landscape.
 >
 > **Downstream Applications (this report enables):**
 > - [[metacognitive-scaffolding-design-patterns]] — This report's Design Triangle and specific design patterns provide the theoretical foundation for a practical design pattern library.
@@ -1066,15 +1066,15 @@ These limitations, however, define a productive research frontier rather than in
 > - [[the-fluency-metacognition-paradox]] — Section 6's analysis of the PKB Fluency Trap contributes a new application domain to the broader fluency paradox literature.
 >
 > **Lateral Connections (mutual enrichment):**
-> - [[desirable-difficulties]] — The desirable difficulties framework provides the learning science foundation for many of this report's design recommendations. In turn, this report provides a PKB-specific application context that enriches the desirable difficulties entry.
-> - [[retrieval-practice]] — Retrieval practice is both a key mechanism in this report's analysis and a design recommendation. The lateral connection enriches both entries: retrieval practice gains a PKB application context, and this report gains empirical grounding.
+> - [[Desirable Difficulties (Robert Bjork, 1994)]] — The desirable difficulties framework provides the learning science foundation for many of this report's design recommendations. In turn, this report provides a PKB-specific application context that enriches the desirable difficulties entry.
+> - [[Desirable Difficulties (Robert Bjork, 1994)]] — Retrieval practice is both a key mechanism in this report's analysis and a design recommendation. The lateral connection enriches both entries: retrieval practice gains a PKB application context, and this report gains empirical grounding.
 > - [[zettelkasten]] — The Zettelkasten's atomicity, linking, and elaboration principles are implicitly metacognitive. This report provides the theoretical framework that explains *why* the Zettelkasten method is cognitively effective — it operationalizes metacognitive externalization.
 > - [[deep-processing]] — This report argues that PKB note-making constitutes deep processing when elaborative, and shallow processing when merely extractive. The deep processing entry provides the levels-of-processing framework that grounds this distinction.
-> - [[schema-theory]] — Schema construction through PKB linking is a form of knowledge organization that intersects with the schema theory entry; this report provides the metacognitive perspective on schema building.
+> - [[schema-theory-and-knowledge-organization]] — Schema construction through PKB linking is a form of knowledge organization that intersects with the schema theory entry; this report provides the metacognitive perspective on schema building.
 >
 > **Strengthened Nodes (existing permanent notes this report enriches):**
 > - [[metacognitive-monitoring]] receives enrichment from the "Note as Frozen JOL" analysis (Section 3.2)
-> - [[cognitive-offloading]] receives enrichment from the careful distinction between offloading and externalization (Section 3.1)
+> - [[Cognitive Offloading]] receives enrichment from the careful distinction between offloading and externalization (Section 3.1)
 > - [[dunning-kruger-effect]] receives enrichment from the Dunning-Kruger amplification analysis (Section 6.2)
 > - [[feeling-of-knowing]] receives enrichment from the FOK externalization analysis (Section 3.2)
 

@@ -56,7 +56,7 @@ review-priority: medium
 > **Traditional GTD**: "Write quarterly report" → "Draft outline for Q3 metrics" (@computer, 30min)
 > 
 > **Knowledge Work GTD**: "Master retrieval practice techniques" → 
-> - Project: [[retrieval-practice]] mastery
+> - Project: [[Desirable Difficulties (Robert Bjork, 1994)]] mastery
 > - Next Actions: 
 >   - "Read Chapter 3 of 'Make It Stick'" (@reading-chair, 45min, med-energy)
 >   - "Create 10 flashcards on spacing effects" (@computer, 20min, low-energy)

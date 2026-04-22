@@ -1,12 +1,12 @@
 ---
-title: "Internalization (Deci & Ryan, 1985; Ryan, 1995)"
-aliases: [internalisation, Deci-and-Ryan-internalization]
+title: Internalization (Deci & Ryan, 1985; Ryan, 1995)
+aliases: [internalisation, Deci-and-Ryan-internalization, SDT internalization]
 type: permanent-note
 status: evergreen
 confidence: high
 domain: Motivational Psychology
 subdomains: [Cognitive Science, Educational Psychology, Personality Psychology, Health Psychology]
-tags: [permanent-note, motivational-psychology, cognitive-science, educational-psychology, personality-psychology, health-psychology]
+tags: [permanent-note, motivational-psychology, cognitive-science, educational-psychology, personality-psychology, health-psychology, cognitive-psychology]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: comprehensive foundational treatment
@@ -15,10 +15,11 @@ review-frequency: quarterly
 mastery-stage: seedling
 provenance:
   source-type: report-extraction
-  pipeline-version: "3.0.0"
-  source-reports: [self-determination-theory-foundational-report-2026-04-19]
+  pipeline-version: 3.0.0
+  source-reports: [self-determination-theory-foundational-report-2026-04-19, self-determination-theory-internalization-continuum-deep-dive-2026-04-21]
   extraction-method: pkb-extractor-v1 → pipeline-v3
 ---
+
 
 # Internalization (Deci & Ryan, 1985; Ryan, 1995)
 
@@ -29,7 +30,7 @@ provenance:
 >
 > **Report-Specific Significance:** OIT's account of internalization provides the mechanism by which motivation quality can be improved for activities that are not inherently interesting — arguably the most practically important of SDT's contributions.
 >
-> **See also:** [[internalization]], [[internalization-continuum]], [[SDT-Internalization-Continuum]], [[organismic-integration-theory]]
+> **See also:** [[internalization]], [[internalization]], [[SDT-Internalization-Continuum]], [[organismic-integration-theory]]
 
 ## Core Explanation
 
@@ -40,12 +41,37 @@ provenance:
 >
 > **Report-Specific Significance:** OIT's account of internalization provides the mechanism by which motivation quality can be improved for activities that are not inherently interesting — arguably the most practically important of SDT's contributions.
 >
-> **See also:** [[internalization]], [[internalization-continuum]], [[SDT-Internalization-Continuum]], [[organismic-integration-theory]]
+> **See also:** [[internalization]], [[internalization]], [[SDT-Internalization-Continuum]], [[organismic-integration-theory]]
 > *— [[self-determination-theory-foundational-report-2026-04-19]]*
+
+## Additional Material (Merged)
+
+> [!definition] Internalization (SDT)
+> The process by which individuals take in values, attitudes, and behavioral regulations from the social environment and progressively transform them from externally enforced requirements into personally endorsed principles that are experienced as part of the self. In SDT, internalization is not a binary event (external → internal) but a gradual process with identifiable intermediate stages, each characterized by a distinct regulatory style, a distinct phenomenological quality, and distinct functional consequences.
+>
+> **Boundary:** Internalization does not require that the behavior become intrinsically motivated. Fully integrated extrinsic motivation is functionally similar to intrinsic motivation but remains extrinsic because the behavior is performed for its instrumental value rather than for inherent satisfaction.
+>
+> **See also:** [[internalization]], [[SDT-Internalization-Continuum]], [[organismic-integration-theory]], [[Autonomous Motivation]]
+
+> [!evidence] Internalization (SDT)
+> The process by which individuals take in values, attitudes, and behavioral regulations from the social environment and progressively transform them from externally enforced requirements into personally endorsed principles that are experienced as part of the self. In SDT, internalization is not a binary event (external → internal) but a gradual process with identifiable intermediate stages, each characterized by a distinct regulatory style, a distinct phenomenological quality, and distinct functional consequences.
+>
+> **Boundary:** Internalization does not require that the behavior become intrinsically motivated. Fully integrated extrinsic motivation is functionally similar to intrinsic motivation but remains extrinsic because the behavior is performed for its instrumental value rather than for inherent satisfaction.
+>
+> **See also:** [[internalization]], [[SDT-Internalization-Continuum]], [[organismic-integration-theory]], [[Autonomous Motivation]]
+> *— [[self-determination-theory-foundational-report-2026-04-19]]*
+
+> [!definition] Internalization (Technical Sense)
+> The transformational process by which the regulation of a behavior moves from being externally located (in the contingencies, demands, or rewards administered by another) to being internally located (in the person's own valuing, identity, and sense of agency). Internalization is qualitative, not merely additive — each step along the continuum is a categorical reorganization of the relationship between person and regulation, not an incremental strengthening of a single regulatory force.
+
+> [!evidence] Internalization (Technical Sense)
+> The transformational process by which the regulation of a behavior moves from being externally located (in the contingencies, demands, or rewards administered by another) to being internally located (in the person's own valuing, identity, and sense of agency). Internalization is qualitative, not merely additive — each step along the continuum is a categorical reorganization of the relationship between person and regulation, not an incremental strengthening of a single regulatory force.
+> *— [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]*
+
 
 ## Connections
 
-**Related:** [[self-determination-theory]] · [[edward-l.-deci]] · [[Richard-M.-Ryan]] · [[motivational-psychology]] · [[basic-psychological-needs]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[cognitive-evaluation-theory]] · [[organismic-integration-theory]] · [[basic-psychological-needs-theory]] · [[causality-orientations-theory]] · [[goal-contents-theory]] · [[relationship-motivation-theory]] · [[humanistic-psychology]] · [[effectance-motivation]] · [[self-regulated-learning]] · [[flow-theory]] · [[the-undermining-effect]] · [[metacognition]] · [[self-regulated-learning]] · [[self-determination-theory]] · [[organismic-metatheory]] · [[abraham-maslow]] · [[carl-rogers]] · [[effectance-motivation]] · [[Robert-White]] · [[perceived-locus-of-causality]] · [[cognitive-evaluation-theory]] · [[organismic-integration-tendency]] · [[organismic-metatheory]] · [[organismic-integration-tendency]] · [[humanistic-psychology]] · [[eudaimonia]] · [[basic-psychological-needs]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[autonomy-need]] · [[competence-need]] · [[relatedness-need]] · [[basic-psychological-needs-theory]] · [[need-satisfaction]] · [[need-frustration]] · [[Basic-Psychological-Needs-—-The-Three]] · [[autonomy-need]] · [[perceived-locus-of-causality]] · [[competence-need]] · [[Robert-White]] · [[psychological-well-being]] · [[perceived-competence]] · [[relatedness-need]] · [[relationship-motivation-theory]] · [[need-satisfaction-vs.-need-frustration]] · [[cognitive-evaluation-theory]] · [[intrinsic-motivation]] · [[the-undermining-effect]] · [[perceived-locus-of-causality]] · [[cognitive-evaluation-theory]] · [[perceived-locus-of-causality]] · [[intrinsic-motivation]] · [[overjustification-effect]] · [[amotivation]] · [[intrinsic-motivation]] · [[organismic-integration-theory]] · [[extrinsic-motivation]] · [[internalization-continuum]] · [[internalization]] · [[motivation-continuum]] · [[amotivation]] · [[Maslow's-Hierarchy-of-Needs]] · [[controlled-motivation]] · [[internalization]] · [[SDT-Internalization-Continuum]] · [[organismic-integration-theory]] · [[autonomous-motivation]] · [[autonomous-motivation]] · [[need-satisfaction]] · [[autonomy-support]] · [[causality-orientations-theory]] · [[goal-contents-theory]] · [[causality-orientations-theory]] · [[autonomy-orientation]] · [[psychological-well-being]] · [[self-regulated-learning]] · [[amotivation]] · [[goal-contents-theory]] · [[aspiration-index]] · [[goal-contents-theory]] · [[aspiration-index]] · [[Eudaimonic-Well-Being]] · [[relatedness]] · [[relationship-motivation-theory]] · [[autonomy-relatedness-integration]] · [[need-frustration]] · [[need-thwarting]] · [[perceived-competence]] · [[Flourishing]] · [[autonomy-supportive-teaching]] · [[Self-Determination-Theory-in-Educational-Contexts]] · [[motivational-interviewing]] · [[motivational-climate]] · [[the-undermining-effect]] · [[achievement-goal-theory]] · [[SDT-Meets-Achievement-Goal-Theory-Convergences,-Divergences,-and-Integration-Pos]] · [[flow-theory]] · [[transfer-of-learning]] · [[autonomy-support]] · [[motivational-climate]] · [[intrinsic-motivation]] · [[the-undermining-effect]] · [[internalization]] · [[autonomy-support]] · [[organismic-integration-theory]] · [[self-regulated-learning]] · [[self-regulated-learning]] · [[metacognition]] · [[autonomy]] · [[need-satisfaction]] · [[autonomy]] · [[autonomy-need]] · [[perceived-locus-of-causality]] · [[autonomous-motivation]] · [[competence]] · [[competence-need]] · [[perceived-competence]] · [[effectance-motivation]] · [[relatedness]] · [[relatedness-need]] · [[relationship-motivation-theory]] · [[intrinsic-motivation]] · [[cognitive-evaluation-theory]] · [[the-undermining-effect]] · [[internalization]] · [[internalization-continuum]] · [[SDT-Internalization-Continuum]] · [[organismic-integration-theory]] · [[autonomous-motivation]] · [[controlled-motivation]] · [[motivation-continuum]] · [[need-frustration]] · [[need-thwarting]] · [[need-satisfaction-vs.-need-frustration]] · [[perceived-locus-of-causality]] · [[locus-of-causality]] · [[cognitive-evaluation-theory]] · [[organismic-integration-tendency]] · [[organismic-metatheory]] · [[internalization]] · [[cognitive-evaluation-theory]] · [[perceived-locus-of-causality]] · [[intrinsic-motivation]] · [[Autonomy-Supportive-Parenting]] · [[self-determination-theory]] · [[internalization]] · [[autonomy-support]] · [[SDT-and-Digital-Technology]] · [[self-determination-theory]] · [[basic-psychological-needs]] · [[intrinsic-motivation]] · [[Need-Frustration-and-Psychopathology]] · [[self-determination-theory]] · [[need-frustration]] · [[need-thwarting]] · [[SDT-Clinical-Applications]] · [[Cross-Cultural-Motivation-Science]] · [[self-determination-theory]] · [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination]] · [[autonomy]] · [[SDT-AGT-Integration]] · [[self-determination-theory]] · [[achievement-goal-theory]] · [[SDT-Meets-Achievement-Goal-Theory-Convergences,-Divergences,-and-Integration-Pos]] · [[humanistic-psychology]] · [[effectance-motivation]] · [[eudaimonia]] · [[organismic-metatheory]] · [[abraham-maslow]] · [[carl-rogers]] · [[autonomy-supportive-teaching]] · [[self-regulated-learning]] · [[motivational-interviewing]] · [[Flourishing]] · [[feedback-design-for-autonomy-and-mastery]] · [[flow-theory]] · [[achievement-goal-theory]] · [[metacognition]] · [[Cognitive-Load-and-Need-Satisfaction]] · [[motivational-psychology]] · [[the-undermining-effect]] · [[internalization]] · [[need-satisfaction-vs.-need-frustration]] · [[basic-psychological-needs]] · [[perceived-locus-of-causality]]
+**Related:** [[self-determination-theory]] · [[edward-deci]] · [[Richard M. Ryan]] · [[motivational-psychology]] · [[Basic Psychological Needs]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[cognitive-evaluation-theory-cet]] · [[organismic-integration-theory]] · [[basic-psychological-needs-theory]] · [[causality-orientations-theory]] · [[goal-contents-theory]] · [[relationship-motivation-theory]] · [[humanistic-psychology]] · [[effectance-motivation]] · [[self-regulated-learning]] · [[flow-theory]] · [[the-undermining-effect]] · [[metacognition]] · [[Organismic Metatheory]] · [[abraham-maslow]] · [[carl-rogers]] · [[Robert-White]] · [[perceived-locus-of-causality]] · [[organismic-integration-tendency]] · [[eudaimonia]] · [[autonomy-need]] · [[competence-need]] · [[relatedness-need]] · [[need-satisfaction]] · [[Need Frustration]] · [[Basic-Psychological-Needs-—-The-Three]] · [[psychological-well-being]] · [[perceived-competence]] · [[need-satisfaction-vs.-need-frustration]] · [[Intrinsic Motivation]] · [[overjustification-effect]] · [[amotivation]] · [[extrinsic-motivation]] · [[internalization]] · [[internalization]] · [[motivation-continuum]] · [[Maslow's-Hierarchy-of-Needs]] · [[Controlled Motivation]] · [[SDT-Internalization-Continuum]] · [[Autonomous Motivation]] · [[autonomy-support]] · [[autonomy-orientation]] · [[aspiration-index]] · [[Eudaimonic-Well-Being]] · [[autonomy-relatedness-integration]] · [[need-thwarting]] · [[Flourishing]] · [[autonomy-supportive-teaching]] · [[Self-Determination-Theory-in-Educational-Contexts]] · [[motivational-interviewing]] · [[motivational-climate]] · [[achievement-goal-theory]] · [[SDT-Meets-Achievement-Goal-Theory-Convergences,-Divergences,-and-Integration-Pos]] · [[transfer-of-learning]] · [[Locus of Causality (Heider, 1958; Weiner, 1972)]] · [[Autonomy-Supportive-Parenting]] · [[SDT-and-Digital-Technology]] · [[Need-Frustration-and-Psychopathology]] · [[SDT-Clinical-Applications]] · [[Cross-Cultural-Motivation-Science]] · [[Cultural-Universality-of-Basic-Psychological-Needs-—-A-Critical-Examination]] · [[SDT-AGT-Integration]] · [[feedback-design-for-autonomy-and-mastery]] · [[Cognitive-Load-and-Need-Satisfaction]] · [[Self-Determination-Theory-—-Foundational-Overview]] · [[introjection]] · [[identification]] · [[Integrated Regulation]] · [[cognitive-evaluation-theory-cet]] · [[Basic-Psychological-Needs-Theory-BPNT]] · [[richard-ryan]] · [[internalization]] · [[deci-and-ryan]] · [[External Regulation]] · [[identified]] · [[deci-and-ryan]] · [[Conditional Regard]] · [[Controlling-Teaching-Styles]] · [[grolnick-ryan-1989]] · [[Maarten Vansteenkiste]] · [[Need-Frustration-and-the-Dark-Side-of-Motivation-—-A-Focused-Analysis]] · [[need-satisfaction-as-dynamic-equilibrium-not-cumulative-score]] · [[Functional-Significance-—-Informational,-Controlling,-Amotivating]] · [[functional-significance-informational-controlling-amotivating]] · [[Reeve]] · [[Autonomy-Support-—-Mechanisms-and-Measurement]] · [[The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces]] · [[Conditional-Regard-and-the-Introjection-Trap]] · [[Psychological-Controlling-Parenting]] · [[Iyengar]] · [[chen-2015]] · [[Conditional-Regard-Research]] · [[Soenens-&-Vansteenkiste-2011]] · [[Need-Thwarting-Mechanisms-and-Ill-Being-—-A-Focused-Analysis]] · [[Vansteenkiste,-Lens,-&-Deci-2006]] · [[extrinsic-goal-content]] · [[Kenji Murayama]] · [[Self-Determination-Theory-and-Digital-Media]] · [[Frank-Martela]] · [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments]]
 
 ```dataview
 LIST FROM [[Internalization (Deci & Ryan, 1985; Ryan, 1995)]]
@@ -56,4 +82,4 @@ LIMIT 10
 
 ---
 
-**Sources:** [[self-determination-theory-foundational-report-2026-04-19]]
+**Sources:** [[self-determination-theory-foundational-report-2026-04-19]] · [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

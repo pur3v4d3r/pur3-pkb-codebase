@@ -141,7 +141,7 @@ Each definition SHOULD include (when relevant):
 >
 > **Research Status:** Supported by converging evidence from response time studies, confidence ratings, and neuroimaging (anterior cingulate cortex activation). The monitoring mechanism appears robust across cultures and task types, though the strength of the signal varies with cognitive load and individual differences.
 >
-> **See also:** [[metacognitive-monitoring]], [[dual-process-theory]], [[cognitive-load-theory]]
+> **See also:** [[metacognitive-monitoring]], [[dual-process-theory]], [[Cognitive Load Theory (CLT)]]
 
 > [!definition] **Metacognitive Monitoring (Flavell)**
 > The ongoing, local evaluation of one's own cognitive processing — the tracking of comprehension, memory retrieval reliability, and reasoning quality as it unfolds. The metacognitive signal most directly relevant to inquiry activation is the "feeling of not knowing" — the sense that current understanding is inadequate to the situation.
@@ -334,7 +334,7 @@ Each tension MUST include:
 >
 > **This Report's Position:** The report argues these three mechanisms are likely complementary rather than competing — operating at different levels of the cognitive architecture. The practical implication is that effective intervention must address all three levels.
 >
-> **See also:** [[Conflict-Monitoring]], [[cognitive-load-theory]], [[actively-open-minded-thinking]]
+> **See also:** [[Conflict-Monitoring]], [[Cognitive Load Theory (CLT)]], [[actively-open-minded-thinking]]
 
 > [!open-question] **Can Aporic Receptivity Be Reliably Cultivated?**
 >
@@ -848,7 +848,7 @@ Connections should be organized by relationship type:
 >
 > **Downstream Applications (this report enables):**
 >
-> - **[[metacognitive-scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
+> - **[[Metacognitive Scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
 >
 > - **[[Debiasing-Interventions]]** — The activation paradox framework provides the theoretical basis for understanding *why* debiasing is difficult (detection ≠ correction) and what effective interventions must address (all four levels of the intervention model).
 >
@@ -1345,7 +1345,7 @@ related:
   - "[[Metacognitive-Awareness-Inventory]]"
   - "[[epistemic-vigilance]]"
   - "[[dual-process-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[argument-analysis]]"
   - "[[Decision-Making-Under-Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
@@ -1628,14 +1628,14 @@ related_concepts:
   - "[[Focused Analysis Architecture]]"
   - "[[Chain of Density]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
   - "[[transfer-of-learning]]"
   - "[[far-transfer]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
 knowledge_level: advanced
 tags:
   - prompt-engineering
@@ -2087,7 +2087,7 @@ Execute in `<thinking>` blocks during report planning:
 
 ### Schema Activation Protocol
 
-[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[advance-organizer]] theory (Ausubel, 1960) and [[schema-theory]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
+[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[advance-organizer]] theory (Ausubel, 1960) and [[schema-theory-and-knowledge-organization]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
 
 Place the following at the opening of Phase I, before any analytical content:
 

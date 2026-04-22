@@ -18,7 +18,7 @@ secondary_domains:
   - emotion-science
   - instructional-design
 related_concepts:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[bernard-weiner]]"
   - "[[attribution-style]]"
   - "[[appraisal-theory]]"
@@ -90,7 +90,7 @@ based_on: "Focused Analysis Report Generator v1.1.0"
 # KNOWLEDGE GRAPH INTEGRATION
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[motivational-psychology]]"
   - "[[appraisal-theory]]"
 
@@ -100,7 +100,7 @@ builds_on:
   - "[[achievement-goal-theory]]"
 
 extends:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[attribution-style]]"
 
 link_up: "[[motivational-psychology]]"
@@ -157,7 +157,7 @@ summary: "A focused analysis of Attribution Theory that drills below standard th
 
 Every person who has ever failed at something has had to answer a question that feels deceptively simple: *Why did that happen?* Attribution Theory, in its most accessible form, is the psychology of how people answer this question — and what those answers do to them motivationally. At this level, the theory seems almost self-evident: attributing failure to effort ("I didn't try hard enough") feels better for motivation than attributing it to ability ("I'm just not smart enough"), and we teach students accordingly.
 
-This framing, though not wrong, substantially understates what [[attribution-theory]] actually claims and what makes it powerful. The standard account leaves out the theory's most important architectural feature: the emotion-mediated causal chain that converts causal cognition into motivational consequence. [[bernard-weiner]]'s mature model, developed across three decades from the 1970s through the 1990s, is not simply a theory about what people believe caused their outcomes. It is a theory about how specific causal beliefs generate specific emotional responses, which then — and only then — drive behavior. Remove the emotional mediation layer and the theory's predictive power collapses to the level of common sense. Restore it, and the theory reveals mechanisms invisible to cognitive-only accounts.
+This framing, though not wrong, substantially understates what [[Attribution (Heider, 1958)]] actually claims and what makes it powerful. The standard account leaves out the theory's most important architectural feature: the emotion-mediated causal chain that converts causal cognition into motivational consequence. [[bernard-weiner]]'s mature model, developed across three decades from the 1970s through the 1990s, is not simply a theory about what people believe caused their outcomes. It is a theory about how specific causal beliefs generate specific emotional responses, which then — and only then — drive behavior. Remove the emotional mediation layer and the theory's predictive power collapses to the level of common sense. Restore it, and the theory reveals mechanisms invisible to cognitive-only accounts.
 
 **The Central Analytical Question**: How does the structural architecture of causal attributions — specifically the three-dimensional classification by locus, stability, and controllability — generate *differentiated emotional responses* that then determine motivational trajectories, and what are the practical consequences of this mechanism for understanding maladaptive patterns and designing effective interventions?
 
@@ -178,7 +178,7 @@ This is not a question about whether attributions matter for motivation. They ob
 
 ### 2.1 The Intellectual Lineage: From Heider to Weiner
 
-[[attribution-theory]] as a formal research program begins with Fritz Heider's *The Psychology of Interpersonal Relations* (1958), which introduced the fundamental distinction between internal and external causation — between attributing outcomes to the person versus attributing them to the environment. Heider's contribution was primarily conceptual: the observation that people function as "naive scientists," spontaneously constructing causal explanations for social events, and that these explanations have systematic properties that can be studied.
+[[Attribution (Heider, 1958)]] as a formal research program begins with Fritz Heider's *The Psychology of Interpersonal Relations* (1958), which introduced the fundamental distinction between internal and external causation — between attributing outcomes to the person versus attributing them to the environment. Heider's contribution was primarily conceptual: the observation that people function as "naive scientists," spontaneously constructing causal explanations for social events, and that these explanations have systematic properties that can be studied.
 
 Harold Kelley's covariation model (1967) formalized Heider's insight into a quasi-statistical framework: people determine causation by examining whether an outcome covaries with the person (consistency), with the stimulus (distinctiveness), or with the context (consensus). Jones and Davis's (1965) correspondent inference theory focused on how people infer stable personal dispositions from single actions. These contributions established attribution as a central research domain in social psychology.
 
@@ -204,7 +204,7 @@ Weiner proposed that causes in achievement contexts vary along three independent
 >
 > **Operational Indicators:** Ask whether removing the person from the situation would change the probability of the outcome. If yes, the cause is internal; if no, the cause is external.
 >
-> **Cross-References:** [[attribution-theory]], [[perceived-locus-of-causality]], [[self-determination-theory]]
+> **Cross-References:** [[Attribution (Heider, 1958)]], [[perceived-locus-of-causality]], [[self-determination-theory]]
 
 > [!definition] **Stability (Weiner, 1979)**
 > **Definition:** The temporal persistence of a cause — whether it is relatively fixed (stable: ability, task difficulty) or variable (unstable: effort, luck, temporary mood). Stability is the dimension that Weiner argued most powerfully determines *expectancy change* — the degree to which an outcome changes a person's prediction about future outcomes.
@@ -222,7 +222,7 @@ Weiner proposed that causes in achievement contexts vary along three independent
 >
 > **Operational Indicators:** Ask whether the actor could have produced a different level of the causal factor through an act of will. If yes, the cause is controllable; if no, it is uncontrollable.
 >
-> **Cross-References:** [[autonomous-motivation]], [[achievement-goal-theory]], [[appraisal-theory]]
+> **Cross-References:** [[Autonomous Motivation]], [[achievement-goal-theory]], [[appraisal-theory]]
 
 ### 2.3 The Emotion-Mediation Framework
 
@@ -278,7 +278,7 @@ Weiner (1980, 1995) demonstrated that when observers attribute another person's 
 > [!evidence] **The Stigma and Helping Literature**
 > Graham and colleagues (1992) showed that the controllability-helping pathway holds even for racially stigmatized conditions — specifically, controllability attributions mediated racial disparities in reported helping intentions. Reisenzein (1986) demonstrated the anger-helping link in behavioral (not just self-report) measures. The robustness of this finding across cultures is more variable — individualistic cultures show stronger controllability effects on helping, consistent with a framework that places more moral weight on personal agency.
 
-This finding is analytically important because it reveals that [[attribution-theory]] is not only a descriptive theory of motivation but also — and this is frequently underappreciated — a theory of *moral cognition*. The controllability dimension functions as a moral judgment mechanism: perceived controllability of another's negative state triggers a judgment that the person is *responsible* and therefore *less deserving* of sympathy or assistance. This is not a peripheral application of the theory; it is central to how attribution shapes social behavior.
+This finding is analytically important because it reveals that [[Attribution (Heider, 1958)]] is not only a descriptive theory of motivation but also — and this is frequently underappreciated — a theory of *moral cognition*. The controllability dimension functions as a moral judgment mechanism: perceived controllability of another's negative state triggers a judgment that the person is *responsible* and therefore *less deserving* of sympathy or assistance. This is not a peripheral application of the theory; it is central to how attribution shapes social behavior.
 
 > [!analytical-insight] **Attribution Theory as Hidden Moral Philosophy**
 > The controllability dimension's function as a moral trigger reveals something important about the structure of folk moral psychology: the boundary between causal explanation and moral judgment is far more permeable than is usually acknowledged. When a person perceives another's obesity as controllable, they are making a causal judgment AND a moral judgment in a single cognitive act — and Weiner's model suggests these two judgments are structurally fused rather than sequentially related. This has significant implications for debates about responsibility, stigma, and policy — domains that are typically treated as involving distinct cognitive operations.
@@ -414,9 +414,9 @@ The theory also has limited scope with respect to the goals and values that give
 
 ### 6.1 Pulling the Threads Together
 
-The analysis across four phases converges on a picture of [[attribution-theory]] that is significantly more architecturally complex than the standard "effort attributions good, ability attributions bad" account. The emotion-mediation mechanism reveals that the three dimensions function as an *affect generation system* that translates causal cognitions into motivationally differentiated emotional states. Of the three dimensions, stability is the most powerful driver of the most significant motivational outcome (persistence after failure), and it operates through a self-sealing behavioral feedback architecture that makes it uniquely resistant to simple informational correction.
+The analysis across four phases converges on a picture of [[Attribution (Heider, 1958)]] that is significantly more architecturally complex than the standard "effort attributions good, ability attributions bad" account. The emotion-mediation mechanism reveals that the three dimensions function as an *affect generation system* that translates causal cognitions into motivationally differentiated emotional states. Of the three dimensions, stability is the most powerful driver of the most significant motivational outcome (persistence after failure), and it operates through a self-sealing behavioral feedback architecture that makes it uniquely resistant to simple informational correction.
 
-The analysis also reveals that [[attribution-theory]] does a great deal of implicit moral work through the controllability dimension — attributional cognitions are not purely descriptive acts but are simultaneously evaluative ones, generating moral appraisals about responsibility and deservingness that organize social behavior. This moral-cognitive fusion is not a peripheral feature but an architectural property of the system.
+The analysis also reveals that [[Attribution (Heider, 1958)]] does a great deal of implicit moral work through the controllability dimension — attributional cognitions are not purely descriptive acts but are simultaneously evaluative ones, generating moral appraisals about responsibility and deservingness that organize social behavior. This moral-cognitive fusion is not a peripheral feature but an architectural property of the system.
 
 ### 6.2 An Original Synthesis: The Two-Stage Intervention Architecture
 
@@ -523,7 +523,7 @@ The controllability dimension automatically triggers moral appraisals about resp
 >
 > - **[[belonging-uncertainty]]** — Belonging uncertainty operates partly through attribution: students who are uncertain about their belonging attribute ambiguous interpersonal feedback to stable dispositional factors (they don't like me/think I belong here) rather than to situational factors. This is an application of the stability dimension and the Stability-Expectancy Lock specifically to social rather than achievement attributions.
 >
-> - **[[metacognitive-scaffolding]]** — Attribution interventions are a form of metacognitive scaffolding — they provide learners with an explicit causal model for interpreting their performance that substitutes for or supplements the learner's spontaneous causal cognition. The two-stage intervention architecture proposed in Phase VI is a metacognitive scaffolding design.
+> - **[[Metacognitive Scaffolding]]** — Attribution interventions are a form of metacognitive scaffolding — they provide learners with an explicit causal model for interpreting their performance that substitutes for or supplements the learner's spontaneous causal cognition. The two-stage intervention architecture proposed in Phase VI is a metacognitive scaffolding design.
 >
 > **Cross-Report Links:**
 >
@@ -546,7 +546,7 @@ The controllability dimension automatically triggers moral appraisals about resp
 >
 > **Operational Indicators:** Classify any stated cause using three binary questions: (1) Is the cause in the person or outside? (2) Will the cause likely persist in future situations? (3) Could the person have controlled the cause through volition?
 >
-> **Cross-References:** [[attribution-theory]], [[bernard-weiner]], [[causal-induction]]
+> **Cross-References:** [[Attribution (Heider, 1958)]], [[bernard-weiner]], [[causal-induction]]
 
 > [!definition] **Attribution Style / Explanatory Style (Abramson, Seligman & Teasdale, 1978)**
 > **Definition:** A habitual pattern of causal attribution across situations, characterized by three dimensions: internal/external, stable/unstable, global/specific. Depressive explanatory style (internal, stable, global attributions for negative events) predicts vulnerability to learned helplessness and depression.
@@ -830,7 +830,7 @@ The controllability dimension automatically triggers moral appraisals about resp
 > > **Connection to This Report:** Directly applies the Two-Stage Intervention Architecture and the Stability-Expectancy Lock analysis to program evaluation.
 > > **Priority:** Critical
 > > **Suggested Report Type:** Foundational Report (to survey the landscape) followed by Focused Analysis (on program components)
-> > **Prerequisites:** [[attribution-theory]], [[growth-mindset-theory]], [[helpless-response-pattern]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[growth-mindset-theory]], [[helpless-response-pattern]]
 >
 > > [!topic-idea] [[appraisal-theory]]
 > > Lazarus's appraisal theory is the broader theoretical framework within which Weiner's attribution model can be situated. A focused analysis would examine the full appraisal-to-coping sequence (primary appraisal → secondary appraisal → coping) and map it onto the attribution intervention sequence. The specific question: can coping potential appraisals (Lazarus) be targeted independently of causal attributions (Weiner) to produce motivational change?
@@ -838,7 +838,7 @@ The controllability dimension automatically triggers moral appraisals about resp
 > > **Connection to This Report:** The structural correspondence identified in Phase IV.3 makes this a high-value expansion for understanding the theoretical architecture.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[attribution-theory]], [[motivational-psychology]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[motivational-psychology]]
 >
 > > [!topic-idea] [[belonging-uncertainty]]
 > > This expansion examines how stability attributions operate in the social domain — specifically, how belonging uncertainty generates stable attributions for ambiguous social feedback that produce the same Stability-Expectancy Lock dynamics in social rather than achievement contexts. The connection to attribution theory is underexplored in the belonging uncertainty literature. *This is the transfer-oriented expansion: applying the Stability-Expectancy Lock mechanism to a new domain (social belonging) to generate novel predictions.*
@@ -846,7 +846,7 @@ The controllability dimension automatically triggers moral appraisals about resp
 > > **Connection to This Report:** FAR Transfer Principle 1 — the Stability-Expectancy Lock — applied to social attribution contexts.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[attribution-theory]], [[belonging-uncertainty]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[belonging-uncertainty]]
 >
 > > [!topic-idea] [[growth-mindset-theory]]
 > > The Growth Mindset literature is the most extensively studied applied application of attribution stability, but it typically operates without explicit reference to Weiner's emotion-mediation mechanism. A focused analysis would examine what the emotion-mediation framework predicts about mindset intervention mechanisms — specifically, does mindset intervention work by changing cognitive attribution stability, or by changing the emotion generated by stable attributions, or both?
@@ -854,7 +854,7 @@ The controllability dimension automatically triggers moral appraisals about resp
 > > **Connection to This Report:** Growth mindset is the operationalization of Weiner's stability dimension as an individual difference; Phase IV provides the mechanistic foundation for evaluating mindset intervention claims.
 > > **Priority:** High
 > > **Suggested Report Type:** Dialectical Re-Examination
-> > **Prerequisites:** [[attribution-theory]], [[implicit-theory-of-intelligence]], [[growth-mindset-theory]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[implicit-theory-of-intelligence]], [[growth-mindset-theory]]
 
 ### K. Report Quality Self-Assessment
 

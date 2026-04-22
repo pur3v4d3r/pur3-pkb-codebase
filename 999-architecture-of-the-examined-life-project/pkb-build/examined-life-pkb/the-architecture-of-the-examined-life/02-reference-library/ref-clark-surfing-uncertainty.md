@@ -83,7 +83,7 @@ The synthesis: Embodied cognition is not a metaphor but a computational necessit
 - **[[Dewey]]'s "felt difficulty"** (Report 01) = **prediction error** — the signal when the brain's model fails to predict input
 - **[[peirce]]'s fallibilism** (Report 02) = recognition that **predictive models are always approximate**, requiring continuous revision
 - **[[flow]]** (Report 03) = **optimal precision weighting** at appropriate challenge levels — smooth prediction with tolerable error
-- **[[schema-theory]]** (Report 04) = **hierarchical predictive models** — organized knowledge as multi-level generative models
+- **[[schema-theory-and-knowledge-organization]]** (Report 04) = **hierarchical predictive models** — organized knowledge as multi-level generative models
 - **[[cognitive-biases]]** (Reports 05-06) = **miscalibrated precision weighting** or overly rigid priors resistant to updating
 - **[[system-1]]** (Report 06) = **cached predictions** operating automatically; **[[system-2]]** = **prediction error response** requiring effortful updating
 - **[[Interoception]]** (Report 09) = **predictive modeling of the body** — visceral, autonomic, metabolic state prediction

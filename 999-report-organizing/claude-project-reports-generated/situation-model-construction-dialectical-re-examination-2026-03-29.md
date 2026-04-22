@@ -159,7 +159,7 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[working-memory]]"
-  - "[[cognitive-architecture]]"
+  - "[[Cognitive Architecture]]"
   - "[[reading-fluency]]"
 
 related:
@@ -169,13 +169,13 @@ related:
   - "[[simple-view-of-reading]]"
   - "[[metacognitive-monitoring]]"
   - "[[the-fluency-trap]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[elaborative-inference]]"
   - "[[prior-knowledge]]"
   - "[[matthew-effect-in-reading]]"
 
 broader:
-  - "[[cognitive-architecture]]"
+  - "[[Cognitive Architecture]]"
   - "[[self-regulated-learning-srl]]"
 
 narrower:
@@ -196,7 +196,7 @@ contrasts-with:
 
 applied-in:
   - "[[self-regulated-learning-srl]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[writing-to-learn]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -204,12 +204,12 @@ applied-in:
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[working-memory]]"
-  - "[[schema-theory]]"
-  - "[[cognitive-architecture]]"
+  - "[[schema-theory-and-knowledge-organization]]"
+  - "[[Cognitive Architecture]]"
   - "[[reading-fluency]]"
 
 enables:
-  - "[[elaborative-interrogation]]"
+  - "[[Elaborative Interrogation]]"
   - "[[metacognitive-monitoring]]"
   - "[[self-regulated-learning-srl]]"
   - "[[writing-to-learn]]"
@@ -387,7 +387,7 @@ The received view implicitly rests on what philosophers call the **compositional
 >
 > **Assessment**: The assumption fails at the discourse level. Grice's theory of conversational implicature, discourse coherence research, and the inference generation literature all confirm that text meaning depends on pragmatic inference that goes beyond what compositionality provides. The most famous demonstration: "I have a car" and "I have a car, but I won't drive you" mean very different things even though the added clause contains no logical negation of the first. Discourse meaning is not the sum of sentence meanings — it is a pragmatic construction that depends on context, background knowledge, and inferential processes that the text does not specify.
 
-The deeper philosophical point concerns the relationship between the text and the reader's cognitive resources in producing understanding. The received view treats the text as the active producer of meaning and the reader as the passive receiver — the text's meaning is in the text, and the reader's job is to extract it. But research on [[schema-theory|schema theory]] ([[frederic-bartlett|Bartlett]], 1932; Rumelhart, 1980) and constructivist models of comprehension establishes that readers actively construct meaning, and that the construction depends essentially on the schemas the reader brings. The text is not self-sufficient; it is a set of instructions for building a mental model, and those instructions can only be executed by a reader who already has the relevant background knowledge and schema structures to fill in what the text leaves implicit.
+The deeper philosophical point concerns the relationship between the text and the reader's cognitive resources in producing understanding. The received view treats the text as the active producer of meaning and the reader as the passive receiver — the text's meaning is in the text, and the reader's job is to extract it. But research on [[schema-theory-and-knowledge-organization|schema theory]] ([[frederic-bartlett|Bartlett]], 1932; Rumelhart, 1980) and constructivist models of comprehension establishes that readers actively construct meaning, and that the construction depends essentially on the schemas the reader brings. The text is not self-sufficient; it is a set of instructions for building a mental model, and those instructions can only be executed by a reader who already has the relevant background knowledge and schema structures to fill in what the text leaves implicit.
 
 > [!assumption-challenge] **The Hidden Assumption: Text Self-Sufficiency**
 > **The assumption**: The text contains its meaning. A reader who processes the text's explicit content faithfully will extract that meaning. Background knowledge may help, but it is not constitutive.
@@ -582,7 +582,7 @@ The prior knowledge finding revealed that understanding is not extracted from an
 >
 > - **[[metacognitive-monitoring]]** — The reconstructed understanding in Phase V directly extends the metacognitive monitoring framework to reading. The key contribution is the identification of *what level* comprehension monitoring should target: not the text-base (where fluency already signals success) but the situation model (where no automatic monitoring signal exists). This report should be linked from any PKB node on metacognitive monitoring in reading contexts.
 >
-> - **[[schema-theory]]** — The prior knowledge finding in Phase III provides one of the most powerful demonstrations of schema theory's claims: that comprehension is schema-dependent, not schema-neutral. The text-self-sufficiency assumption examined here is precisely the assumption that schema theory was developed to refute. This connection should be explicitly marked in both nodes.
+> - **[[schema-theory-and-knowledge-organization]]** — The prior knowledge finding in Phase III provides one of the most powerful demonstrations of schema theory's claims: that comprehension is schema-dependent, not schema-neutral. The text-self-sufficiency assumption examined here is precisely the assumption that schema theory was developed to refute. This connection should be explicitly marked in both nodes.
 >
 > - **[[matthew-effect-in-reading]]** — The critical lens in Phase III connects directly to the Matthew Effect: situation model deficits in knowledge-poor readers compound over time because poor situation models produce less knowledge acquisition from reading, which produces even poorer situation models. This report provides the cognitive mechanism (schema-dependence of inference generation) that explains why the Matthew Effect operates through the channel it does.
 >
@@ -617,7 +617,7 @@ The prior knowledge finding revealed that understanding is not extracted from an
 >
 > **Etymology/Intellectual Lineage:** Introduced by Teun van Dijk & Walter Kintsch (1983); extended and formalized in Kintsch (1988, 1998); operationalized in the Event Indexing Model (Zwaan & Radvansky, 1998).
 >
-> **Cross-References:** [[propositional-representation]], [[mental-models]], [[elaborative-inference]], [[schema-theory]]
+> **Cross-References:** [[propositional-representation]], [[mental-models]], [[elaborative-inference]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **Propositional Text Base (Kintsch & van Dijk, 1978)**
 > **Definition:** The network of semantic propositions explicitly stated by a text, representing what the text *says* at the level of sentence meanings and their immediate connections. Boundary condition: the text base is NOT the situation model; the two are distinct representational levels that are empirically dissociable.
@@ -639,7 +639,7 @@ The prior knowledge finding revealed that understanding is not extracted from an
 >
 > **Etymology/Intellectual Lineage:** Claude analytical synthesis; mechanistically grounded in the dissociation literature, the CI model, and the Event Indexing Model.
 >
-> **Cross-References:** [[situation-model]], [[the-fluency-trap]], [[metacognitive-monitoring]], [[cognitive-architecture]]
+> **Cross-References:** [[situation-model]], [[the-fluency-trap]], [[metacognitive-monitoring]], [[Cognitive Architecture]]
 
 > [!definition] **Text-Base Trap (Claude analytical synthesis, this report)**
 > **Definition:** A stable cognitive equilibrium in which a reader successfully processes the propositional text base, experiences processing fluency, interprets that fluency as comprehension, and therefore generates no monitoring responses that would initiate the additional operations required for situation model construction. The trap is self-sustaining in the absence of external comprehension testing that specifically targets the situation model.
@@ -657,7 +657,7 @@ The prior knowledge finding revealed that understanding is not extracted from an
 >
 > **Operational Indicators:** Answering correctly on inference questions that require information not stated in the text; spontaneously generating explanatory and predictive elaborations during reading.
 >
-> **Cross-References:** [[situation-model]], [[prior-knowledge]], [[schema-theory]], [[elaborative-interrogation]]
+> **Cross-References:** [[situation-model]], [[prior-knowledge]], [[schema-theory-and-knowledge-organization]], [[Elaborative Interrogation]]
 
 > [!definition] **[[the-fluency-trap|Fluency Illusion]] / [[the-fluency-metacognition-paradox|Fluency-Metacognition Paradox]]**
 > **Definition:** The phenomenon by which smooth, effortless processing of surface code and propositional text base generates subjective confidence in comprehension quality that does not accurately reflect the quality of the situation model constructed. Boundary condition: the illusion operates most powerfully when texts are linguistically familiar even when situationally novel — when the reader can parse the sentences easily while lacking the prior knowledge to integrate them into a coherent situation model.
@@ -685,14 +685,14 @@ The prior knowledge finding revealed that understanding is not extracted from an
 >
 > **Report-Specific Significance:** Explains why situation model deficits are not static problems but self-sustaining ones; prior knowledge being constitutive of comprehension means that knowledge-poor readers cannot bootstrap their way out of poor comprehension through sheer attentiveness.
 >
-> **Cross-References:** [[decoding]], [[prior-knowledge]], [[schema-theory]], [[reading-fluency]], [[lexical-automaticity]]
+> **Cross-References:** [[decoding]], [[prior-knowledge]], [[schema-theory-and-knowledge-organization]], [[reading-fluency]], [[lexical-automaticity]]
 
 > [!definition] **Construction-Integration (CI) Model (Kintsch, 1988)**
 > **Definition:** A computational model of text comprehension proposing two cyclically alternating phases: construction (building an initial network of propositions from text plus associated prior knowledge activations) and integration (refining the network through spreading activation to produce a coherent representation). The situation model emerges from successful integration cycles.
 >
 > **Report-Specific Significance:** Provides the mechanistic account of why the received view fails: poor situation models result from inadequate integration cycles, not inadequate construction — and integration is dependent on prior knowledge, not decoding skill.
 >
-> **Cross-References:** [[Situation-Models-van-Dijk-&-Kintsch]], [[schema-theory]], [[elaborative-inference]], [[semantic-memory]]
+> **Cross-References:** [[Situation-Models-van-Dijk-&-Kintsch]], [[schema-theory-and-knowledge-organization]], [[elaborative-inference]], [[semantic-memory]]
 
 ---
 
@@ -1062,7 +1062,7 @@ The prior knowledge finding revealed that understanding is not extracted from an
 > > **Connection to This Report:** Phase III's critical lens and Phase III's philosophical challenge both converge on prior knowledge as constitutive; this is the most actionable practical finding.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis (question: "How should a reader strategically build the prior knowledge needed to comprehend a target text?")
-> > **Prerequisites:** [[schema-theory]], [[advance-organizer]], [[situation-model]]
+> > **Prerequisites:** [[schema-theory-and-knowledge-organization]], [[advance-organizer]], [[situation-model]]
 >
 > > [!topic-idea] [[metacognitive-monitoring]]
 > > Phase V's metacognitive inversion requirement — monitoring for situation model coherence in the absence of confusion — demands a sophisticated account of how comprehension monitoring works and how it can be trained. The Metacognitive Monitoring PKB node should be expanded to address specifically reading-level monitoring, the fluency illusion override problem, and empirically validated protocols for detecting situation model failures before they are exposed by external comprehension tests.
@@ -1078,7 +1078,7 @@ The prior knowledge finding revealed that understanding is not extracted from an
 > > **Connection to This Report:** Phase III's critical lens; the Matthew Effect is the population-level manifestation of the situation model's prior-knowledge dependence.
 > > **Priority:** High
 > > **Suggested Report Type:** Dialectical Re-Examination (received view: "reading volume is sufficient to overcome reading ability gaps over time")
-> > **Prerequisites:** [[simple-view-of-reading]], [[situation-model]], [[schema-theory]]
+> > **Prerequisites:** [[simple-view-of-reading]], [[situation-model]], [[schema-theory-and-knowledge-organization]]
 >
 > > [!topic-idea] [[working-memory-capacity]]
 > > The Working Memory in Reading node would benefit from a focused analysis specifically examining how individual differences in working memory capacity interact with situation model construction — whether WM capacity affects primarily the construction phase (holding more propositions in parallel) or the integration phase (maintaining more integration constraints simultaneously), and what the implications are for strategy selection by different readers.
@@ -1086,7 +1086,7 @@ The prior knowledge finding revealed that understanding is not extracted from an
 > > **Connection to This Report:** Phase II's treatment of WM in the steel-man noted the WM-freeing function of decoding automaticity; the question of how WM capacity constrains or enables situation model construction beyond the decoding bottleneck is unanswered.
 > > **Priority:** Medium
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[working-memory]], [[cognitive-architecture]], [[situation-model]]
+> > **Prerequisites:** [[working-memory]], [[Cognitive Architecture]], [[situation-model]]
 >
 > > [!topic-idea] [[generative-learning-theory]]
 > > Wittrock's generative learning framework proposes that comprehension is produced by generative activities — summarizing, questioning, creating analogies — that force the reader to construct connections between the text and prior knowledge. This is one of the most well-supported instructional frameworks for situation model development and provides the theoretical justification for why the post-reading reconstruction recommended in Phase V's practical protocol is so effective.

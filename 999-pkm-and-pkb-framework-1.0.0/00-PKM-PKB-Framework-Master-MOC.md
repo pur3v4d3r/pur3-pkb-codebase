@@ -47,7 +47,7 @@ knowledge_level: "advanced"
 related_concepts:
   - "[[personal-knowledge-management]]"
   - "[[personal-knowledge-base]]"
-  - "[[lifelong-learning]]"
+  - "[[Lifelong Learning]]"
   - "[[Integrated-Learning-System-Model]]"
   - "[[Twelve-Master-Principles]]"
   - "[[Cognitive Partnership Model]]"
@@ -187,9 +187,9 @@ Every discipline in the series independently converges on three structural patte
 ### Established with High Confidence (meta-analytic or multi-tradition convergence)
 
 - Knowledge is relational, not propositional — PKBs should be semantic networks, not filing systems (Reports 01, 09, 15)
-- [[Testing-Effect]] (d = 0.50) and [[spacing-effect]] are the two highest-utility learning strategies; PKB review must be retrieval-based, not re-reading-based (Reports 06, 16, 20)
-- The [[fluency-illusion]] is the universal PKM failure mode — ease of processing ≠ understanding (Reports 18, 30)
-- [[cognitive-load-theory]]'s working memory limits (~4 chunks) constrain note design (Report 02)
+- [[Testing-Effect]] (d = 0.50) and [[Desirable Difficulties (Robert Bjork, 1994)]] are the two highest-utility learning strategies; PKB review must be retrieval-based, not re-reading-based (Reports 06, 16, 20)
+- The [[Fluency Illusion]] is the universal PKM failure mode — ease of processing ≠ understanding (Reports 18, 30)
+- [[Cognitive Load Theory (CLT)]]'s working memory limits (~4 chunks) constrain note design (Report 02)
 - [[self-regulated-learning]] requires embedded structural support, not willpower (Reports 04, 12, 26)
 - [[Faceted-Classification]] outperforms single hierarchies for knowledge organization (Reports 01, 15)
 

@@ -1,12 +1,12 @@
 ---
-title: "Fluency Illusion (Processing Fluency Literature)"
-aliases: [processing fluency illusion, fluency effect in comprehension]
+title: Fluency Illusion (Processing Fluency Literature)
+aliases: [processing fluency illusion, fluency effect in comprehension, fluency-illusion]
 type: permanent-note
 status: evergreen
 confidence: high
 domain: Cognitive Science
 subdomains: [Reading Research, Educational Psychology, Personal Knowledge Management]
-tags: [permanent-note, cognitive-science, reading-research, educational-psychology, personal-knowledge-management]
+tags: [permanent-note, cognitive-science, reading-research, educational-psychology, personal-knowledge-management, cognitive-science-metacognition, self-regulated-learning, seedling, concept-stub, other]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: comprehensive foundational treatment
@@ -15,10 +15,11 @@ review-frequency: quarterly
 mastery-stage: seedling
 provenance:
   source-type: report-extraction
-  pipeline-version: "3.0.0"
-  source-reports: [metacognition-and-reading-foundational-report-2026-04-20]
+  pipeline-version: 3.0.0
+  source-reports: [metacognition-and-reading-foundational-report-2026-04-20, pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]
   extraction-method: pkb-extractor-v1 → pipeline-v3
 ---
+
 
 # Fluency Illusion (Processing Fluency Literature)
 
@@ -29,7 +30,7 @@ provenance:
 >
 > **Report-Specific Significance:** The fluency illusion is the primary mechanism by which calibration fails in the inflationary direction. It is amplified by digital reading environments and by AI-assisted reading.
 >
-> **See also:** [[fluency-illusion]], [[processing-fluency]], [[illusion-of-knowing]]
+> **See also:** [[Fluency Illusion]], [[processing-fluency]], [[illusion-of-knowing]]
 
 ## Core Explanation
 
@@ -40,12 +41,37 @@ provenance:
 >
 > **Report-Specific Significance:** The fluency illusion is the primary mechanism by which calibration fails in the inflationary direction. It is amplified by digital reading environments and by AI-assisted reading.
 >
-> **See also:** [[fluency-illusion]], [[processing-fluency]], [[illusion-of-knowing]]
+> **See also:** [[Fluency Illusion]], [[processing-fluency]], [[illusion-of-knowing]]
 > *— [[metacognition-and-reading-foundational-report-2026-04-20]]*
+
+## Additional Material (Merged)
+
+> [!definition] Fluency Illusion
+> A metacognitive error in which the subjective ease of processing (perceptual fluency) is misattributed to comprehension or learning. Material that feels easy to read is judged as well understood; material that has been re-read multiple times feels familiar and is judged as learned — even when objective testing reveals minimal comprehension or retention.
+>
+> **Boundary:** The fluency illusion is specifically a *monitoring* error, not a *learning* error. The problem is not that fluent processing fails to produce learning (it sometimes does produce learning) but that the subjective feeling of fluency is an unreliable indicator of learning quality.
+>
+> **Report-Specific Significance:** The fluency illusion exemplifies the metacognitive monitoring failure that creates the need for external scaffolding — unaided monitoring systematically misleads under conditions of high fluency.
+>
+> **See also:** [[Fluency Illusion]], [[metacognitive-experience]], [[Desirable Difficulties (Robert Bjork, 1994)]]
+
+> [!evidence] Fluency Illusion
+> A metacognitive error in which the subjective ease of processing (perceptual fluency) is misattributed to comprehension or learning. Material that feels easy to read is judged as well understood; material that has been re-read multiple times feels familiar and is judged as learned — even when objective testing reveals minimal comprehension or retention.
+>
+> **Boundary:** The fluency illusion is specifically a *monitoring* error, not a *learning* error. The problem is not that fluent processing fails to produce learning (it sometimes does produce learning) but that the subjective feeling of fluency is an unreliable indicator of learning quality.
+>
+> **Report-Specific Significance:** The fluency illusion exemplifies the metacognitive monitoring failure that creates the need for external scaffolding — unaided monitoring systematically misleads under conditions of high fluency.
+>
+> **See also:** [[Fluency Illusion]], [[metacognitive-experience]], [[Desirable Difficulties (Robert Bjork, 1994)]]
+> *— [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]*
+
+> [!definition] **fluency-illusion**
+> *Stub note — concept referenced by 256 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
 
 ## Connections
 
-**Related:** [[Monitoring–Control-Coupling]] · [[comprehension-criterion]] · [[Flavell's-Metacognitive-Framework]] · [[personal-knowledge-base]] · [[metacognition-foundational-concepts]] · [[reading-comprehension]] · [[self-regulated-learning]] · [[metacognition]] · [[reading-comprehension]] · [[cognitive-architecture-in-reading]] · [[linda-baker]] · [[comprehension-criterion]] · [[ruth-garner]] · [[michael-pressley]] · [[fluency-illusion]] · [[metacognitive-experiences]] · [[expertise]] · [[schema]] · [[Monitoring–Control-Coupling]] · [[thomas-nelson]] · [[louis-narens]] · [[nelson-narens-model]] · [[construction-integration-model]] · [[metacognitive-feelings]] · [[judgment-of-learning]] · [[Feeling-of-Knowing—FOK]] · [[monitoring-regulation-coupling]] · [[metacognitive-monitoring]] · [[metacognitive-control]] · [[regulation-of-cognition]] · [[self-regulated-learning]] · [[situation-model]] · [[calibration]] · [[comprehension-monitoring-training-protocols]] · [[Flavell's-Metacognitive-Framework]] · [[working-memory]] · [[attention]] · [[prior-knowledge]] · [[metacognitive-knowledge]] · [[cognitive-load-theory]] · [[comprehension-criterion]] · [[linda-baker]] · [[comprehension-monitoring]] · [[comprehension-criterion]] · [[fluency-illusion]] · [[Baker-comprehension-monitoring]] · [[construction-integration-model]] · [[walter-kintsch]] · [[bridging-inference]] · [[Advance-Organizers-and-Prior-Knowledge-Activation]] · [[Flavell's-Metacognitive-Framework]] · [[regulation-of-cognition]] · [[knowledge-of-cognition]] · [[Flavell's-Metacognitive-Framework]] · [[metacognitive-knowledge]] · [[declarative-procedural-and-conditional-metacognitive-knowledge]] · [[regulation-of-cognition]] · [[Flavell's-Metacognitive-Framework]] · [[Brown-metacognition]] · [[conditional-metacognitive-knowledge]] · [[calibration]] · [[Calibration-Science-and-Metacognitive-Accuracy]] · [[Calibration-Training-Methods-and-Evidence]] · [[metacognitive-monitoring-accuracy]] · [[metacognitive-sensitivity]] · [[fluency-illusion]] · [[schema]] · [[illusion-of-knowing]] · [[illusion-of-explanatory-depth]] · [[self-explanation]] · [[Active-Recall]] · [[Overconfidence-Bias]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[Illusions-of-Competence]] · [[fix-up-strategy]] · [[self-explanation]] · [[summarization]] · [[reciprocal-teaching]] · [[Anneliese-Palincsar]] · [[ann-l.-brown]] · [[prior-knowledge]] · [[comprehension-monitoring-training-protocols]] · [[reciprocal-teaching]] · [[metacognitive-scaffolding]] · [[Anneliese-Palincsar]] · [[Rosenshine-Meister]] · [[Flavell's-Metacognitive-Framework]] · [[Shanahan-disciplinary-literacy]] · [[ai-pkb-integration]] · [[personal-knowledge-base]] · [[metacognitive-externalization]] · [[transfer-of-learning]] · [[Halpern]] · [[Perkins-and-Salomon]] · [[Barnett-and-Ceci]] · [[code-review-cognitive-load]] · [[debugging-as-metacognition]] · [[programming-expertise-metacognitive-component]] · [[premature-closure]] · [[clinical-reasoning-metacognition]] · [[diagnostic-error-cognitive-causes]] · [[differential-diagnosis-as-coherence-standard]] · [[legal-interpretation-cognitive-models]] · [[textualism-purposivism-as-coherence-standards]] · [[appellate-review-as-metacognitive-check]] · [[note-taking-as-metacognitive-tool]] · [[lecture-comprehension-research]] · [[podcast-listening-deep-engagement]] · [[metacognition]] · [[Flavell's-Metacognitive-Framework]] · [[john-flavell]] · [[metacognitive-knowledge]] · [[metacognitive-regulation]] · [[comprehension-monitoring]] · [[linda-baker]] · [[ann-l.-brown]] · [[reading-comprehension-strategies]] · [[standard-of-coherence]] · [[Baker-1985-Standards-of-Coherence]] · [[reading-comprehension]] · [[monitoring-control-loop]] · [[Nelson-and-Narens]] · [[meta-level-object-level]] · [[calibration]] · [[metacognitive-monitoring-accuracy]] · [[Calibration-Science-and-Metacognitive-Accuracy]] · [[Overconfidence-Bias]] · [[fluency-illusion]] · [[processing-fluency]] · [[illusion-of-knowing]] · [[metacognitive-knowledge]] · [[declarative-knowledge]] · [[procedural-knowledge]] · [[conditional-knowledge]] · [[fix-up-strategy]] · [[reading-strategies]] · [[strategic-reading]] · [[self-explanation]] · [[illusion-of-explanatory-depth]] · [[self-explanation]] · [[Active-Recall]] · [[Calibration-Training-Methods-and-Evidence]] · [[calibration]] · [[metacognitive-monitoring-accuracy]] · [[Calibration-Science-and-Metacognitive-Accuracy]] · [[Disciplinary-Reading-Architectures-Across-Five-Domains]] · [[Shanahan-disciplinary-literacy]] · [[AI-Assisted-Reading-Risks-and-Safeguards]] · [[ai-pkb-integration]] · [[metacognitive-externalization]] · [[History-of-Comprehension-Monitoring-Research-1970-Present]] · [[the-pkb-as-externalized-metacognitive-architecture]] · [[personal-knowledge-base]] · [[metacognitive-externalization]] · [[cog-sci-pkm-the-role-of-reading-in-pkm]] · [[Why-Strategy-Instruction-Sometimes-Fails-Diagnostic-Framework]] · [[metacognition]] · [[Flavell's-Metacognitive-Framework]] · [[reading-comprehension]] · [[information-processing-theory]] · [[schema-theory]] · [[metacognitive-scaffolding]] · [[reciprocal-teaching]] · [[comprehension-monitoring-training-protocols]] · [[fix-up-strategy]] · [[self-explanation]] · [[transfer-of-learning]] · [[Active-Recall]] · [[Spaced-Repetition-Algorithms-and-Memory]] · [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work]] · [[cog-sci-pkm-the-role-of-reading-in-pkm]] · [[comprehension-monitoring]] · [[calibration]] · [[fluency-illusion]] · [[reading-strategies]] · [[metacognitive-knowledge]]
+**Related:** [[Monitoring–Control-Coupling]] · [[comprehension-criterion]] · [[Flavell's-Metacognitive-Framework]] · [[personal-knowledge-base]] · [[metacognition-foundational-concepts]] · [[reading-comprehension]] · [[self-regulated-learning]] · [[metacognition]] · [[cognitive-architecture-in-reading]] · [[linda-baker]] · [[ruth-garner]] · [[michael-pressley]] · [[Fluency Illusion]] · [[metacognitive-experiences]] · [[expertise]] · [[schema]] · [[thomas-nelson]] · [[louis-narens]] · [[nelson-narens-model]] · [[construction-integration-model]] · [[metacognitive-feelings]] · [[judgment-of-learning]] · [[Feeling-of-Knowing—FOK]] · [[monitoring-regulation-coupling]] · [[metacognitive-monitoring]] · [[metacognitive-control]] · [[regulation-of-cognition]] · [[situation-model]] · [[calibration]] · [[comprehension-monitoring-training-protocols]] · [[working-memory]] · [[attention]] · [[prior-knowledge]] · [[metacognitive-knowledge]] · [[Cognitive Load Theory (CLT)]] · [[comprehension-monitoring]] · [[comprehension-monitoring]] · [[walter-kintsch]] · [[bridging-inference]] · [[Advance-Organizers-and-Prior-Knowledge-Activation]] · [[knowledge-of-cognition]] · [[declarative-procedural-and-conditional-metacognitive-knowledge]] · [[Brown-metacognition]] · [[conditional-metacognitive-knowledge]] · [[Calibration-Science-and-Metacognitive-Accuracy]] · [[Calibration-Training-Methods-and-Evidence]] · [[metacognitive-monitoring-accuracy]] · [[metacognitive-sensitivity]] · [[illusion-of-knowing]] · [[illusion-of-explanatory-depth]] · [[self-explanation-effect]] · [[Active-Recall]] · [[Overconfidence-Bias]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[Illusions-of-Competence]] · [[fix-up-strategy]] · [[summarization]] · [[reciprocal-teaching]] · [[Anneliese-Palincsar]] · [[ann-l.-brown]] · [[Metacognitive Scaffolding]] · [[Rosenshine-Meister]] · [[Shanahan-disciplinary-literacy]] · [[ai-pkb-integration]] · [[metacognitive-externalization]] · [[transfer-of-learning]] · [[Halpern]] · [[Perkins-and-Salomon]] · [[Barnett-and-Ceci]] · [[Cognitive Load Theory (CLT)]] · [[debugging-as-metacognition]] · [[programming-expertise-metacognitive-component]] · [[premature-closure]] · [[clinical-reasoning-metacognition]] · [[diagnostic-error-cognitive-causes]] · [[differential-diagnosis-as-coherence-standard]] · [[legal-interpretation-cognitive-models]] · [[textualism-purposivism-as-coherence-standards]] · [[appellate-review-as-metacognitive-check]] · [[note-taking-as-metacognitive-tool]] · [[lecture-comprehension-research]] · [[podcast-listening-deep-engagement]] · [[john-flavell]] · [[metacognitive-regulation]] · [[reading-comprehension-strategies]] · [[standard-of-coherence]] · [[Baker-1985-Standards-of-Coherence]] · [[monitoring-control-loop]] · [[Nelson-and-Narens]] · [[meta-level-object-level]] · [[processing-fluency]] · [[declarative-knowledge]] · [[procedural-knowledge]] · [[conditional-knowledge]] · [[reading-strategies]] · [[strategic-reading]] · [[Disciplinary-Reading-Architectures-Across-Five-Domains]] · [[AI-Assisted-Reading-Risks-and-Safeguards]] · [[History-of-Comprehension-Monitoring-Research-1970-Present]] · [[the-pkb-as-externalized-metacognitive-architecture]] · [[cog-sci-pkm-the-role-of-reading-in-pkm]] · [[Why-Strategy-Instruction-Sometimes-Fails-Diagnostic-Framework]] · [[information-processing-theory]] · [[schema-theory-and-knowledge-organization]] · [[Spaced-Repetition-Algorithms-and-Memory]] · [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work]] · [[Metacognition-—-Foundational-Concepts]] · [[flavell-metacognition-framework]] · [[cyclical-model-of-self-regulated-learning]] · [[barry-zimmerman]] · [[externalized-metacognition]] · [[Cognitive Scaffolding]] · [[Scaffolding-in-Education]] · [[Attribution (Heider, 1958)]] · [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge]] · [[declarative-metacognitive-knowledge]] · [[Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy]] · [[thomas-nelson-and-louis-narens]] · [[metacognition-and-self-regulated-learning]] · [[Monitoring-Control Coupling]] · [[forethought-phase]] · [[performance-phase]] · [[personal-knowledge-management]] · [[active-note-making]] · [[Knowledge-Graph]] · [[Cognitive Offloading]] · [[Cognitive Load Theory (CLT)]] · [[goal-setting-theory]] · [[goal-intention]] · [[pkb-goal-scaffolding-architecture]] · [[cognitive-task-analysis]] · [[evidence-based-learning-strategies]] · [[metacognitive-experience]] · [[metacognitive-calibration]] · [[generative-learning-strategy]] · [[Desirable Difficulties (Robert Bjork, 1994)]] · [[learning-strategy-selection]] · [[Elaborative Interrogation]] · [[elaborative-encoding]] · [[metacognitive-calibration-training]] · [[adaptive-self-reaction]] · [[scaffold-dependence]] · [[Scaffolded Fading]] · [[zone-of-proximal-development]] · [[Lifelong Learning]] · [[habit-formation]] · [[automaticity]] · [[metacognitive-scaffolding-design-triangle]] · [[metacognitive-scaffolding-design-patterns]] · [[self-efficacy]] · [[monitoring-control-architecture]] · [[growth-mindset]] · [[metacognitive-calibration-model]] · [[extended-metacognition]] · [[Metacognitive Calibration Training Protocols]] · [[Scaffolding-Fading-in-Self-Directed-Learning]] · [[Cognitive-Offloading-in-Knowledge-Work]] · [[PKB-Template-Architecture-for-Self-Regulated-Learning]] · [[Metacognitive-Development-Across-Expertise-Levels]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[lifelong-learning-system-design]]
 
 ```dataview
 LIST FROM [[Fluency Illusion (Processing Fluency Literature)]]
@@ -56,4 +82,4 @@ LIMIT 10
 
 ---
 
-**Sources:** [[metacognition-and-reading-foundational-report-2026-04-20]]
+**Sources:** [[metacognition-and-reading-foundational-report-2026-04-20]] · [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

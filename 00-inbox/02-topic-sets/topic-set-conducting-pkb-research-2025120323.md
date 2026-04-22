@@ -202,7 +202,7 @@ Tiago Forte's progressive summarization method has deep roots in cognitive psych
 **Analogical Potential**:
 Progressive summarization is like mining for gold: first pass removes obvious debris (dirt), second pass identifies ore-bearing rock (highlighting), third pass extracts precious metal (bolding key insights), final pass refines into pure gold (atomic notes) - each iteration increases density while reducing volume.
 **Prerequisite Knowledge**:
-[[cognitive-load-theory]], [[Note-Taking vs Note-Making Distinction]], [[Information vs Knowledge Distinction]]
+[[Cognitive Load Theory (CLT)]], [[Note-Taking vs Note-Making Distinction]], [[Information vs Knowledge Distinction]]
 **Research Starting Points**:
 - Search: "progressive summarization Forte" + "incremental formalization knowledge work" + "depth of processing Craik Lockhart"
 - Key texts: Forte, *Building a Second Brain*; Craik & Lockhart, "Levels of Processing" (1972)

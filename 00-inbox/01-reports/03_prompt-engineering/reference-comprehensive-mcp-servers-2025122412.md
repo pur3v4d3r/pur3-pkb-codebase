@@ -974,7 +974,7 @@ await server.connect(transport);
 > - **[[Unix-Philosophy]]**: Small, composable tools that do one thing well—MCP servers embody this principle
 > - **[[API-Design-Patterns]]**: REST informed HTTP APIs; LSP informed IDE integrations; MCP informs AI integrations
 > - **[[Knowledge-Graph-Theory]]**: MCP enables AI to traverse and strengthen knowledge connections automatically
-> - **[[cognitive-load-theory]]**: Reducing manual integration burden frees cognitive resources for higher-order thinking
+> - **[[Cognitive Load Theory (CLT)]]**: Reducing manual integration burden frees cognitive resources for higher-order thinking
 
 > [!application-context]
 > **When to Use MCP**
@@ -1022,7 +1022,7 @@ await server.connect(transport);
 > - **MCP × [[zettelkasten]]**: AI-assisted atomic note creation and linking
 > - **MCP × [[spaced-repetition]]**: Automated review scheduling through PKB queries
 > - **MCP × [[para-method]]**: AI-driven project/area classification
-> - **MCP × [[cognitive-load-theory]]**: Reducing integration overhead preserves cognitive resources
+> - **MCP × [[Cognitive Load Theory (CLT)]]**: Reducing integration overhead preserves cognitive resources
 
 ---
 
@@ -1406,7 +1406,7 @@ freshness:
   last-verified: 2025-04-05
 prerequisites:
   hard: [[vs-code]], [[Node.js]], [[personal-knowledge-base]], [[Prompt-Engineering]]
-  soft: [[LSP]], [[JSON-RPC]], [[cognitive-load-theory]]
+  soft: [[LSP]], [[JSON-RPC]], [[Cognitive Load Theory (CLT)]]
 enables:
   direct: [[AI Agent Orchestration]], [[Context-Aware Prompting]], [[Cognitive Engineering Stack]]
   related: [[Second Brain]], [[Human-AI Collaboration]], [[Obsidian-Automation]]
@@ -1716,7 +1716,7 @@ Map MCP resources to cognitive principles:
 > [!connections-and-links]
 > - [[personal-knowledge-base]] – Source of `pkb://` resources
 > - [[Prompt-Engineering]] – Domain for `prompt://` resources
-> - [[cognitive-load-theory]] – Framework for optimizing context delivery
+> - [[Cognitive Load Theory (CLT)]] – Framework for optimizing context delivery
 > - [[vs-code]] – Primary client environment
 > - [[Claude-Code]] – Target reasoning engine
 > - [[Gemini-Code-Assist]] – Target reasoning engine

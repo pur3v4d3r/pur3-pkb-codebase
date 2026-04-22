@@ -356,14 +356,14 @@ certainty: verified
 
 type: reference
 
-related: [[working-memory]], [[attention]], [[executive-function]], [[schema-theory]], [[self-determination-theory]]
+related: [[working-memory]], [[attention]], [[executive-function]], [[schema-theory-and-knowledge-organization]], [[self-determination-theory]]
 
 ---
 
 # ⚙️ Cognitive Load Theory and the Attentional Bottleneck: A Quantitative Analysis of Context Switching Costs and Monotasking Protocols
 
 > [!abstract] Executive Overview
-> This comprehensive reference note examines the intersection of [[cognitive-load-theory]] and [[Attentional Bottleneck]] models to explain the quantifiable performance decrements associated with [[Context-Switching]]. Through synthesis of empirical research spanning cognitive psychology, neuroscience, and organizational behavior, this analysis demonstrates that context switching imposes a **<span style='color: #FF00DC;'>20% reduction in cognitive capacity</span>**, requires **<span style='color: #FF00DC;'>over 20 minutes for complete task reorientation</span>**, and results in **<span style='color: #FF00DC;'>95% longer completion times with 120% more errors</span>** compared to monotask execution. The evidence overwhelmingly supports [[Monotasking]] as the superior cognitive strategy for complex, goal-oriented work, with implications for [[instructional-design]], [[Productivity-Systems]], and [[Knowledge-Work]] optimization.
+> This comprehensive reference note examines the intersection of [[Cognitive Load Theory (CLT)]] and [[Attentional Bottleneck]] models to explain the quantifiable performance decrements associated with [[Context-Switching]]. Through synthesis of empirical research spanning cognitive psychology, neuroscience, and organizational behavior, this analysis demonstrates that context switching imposes a **<span style='color: #FF00DC;'>20% reduction in cognitive capacity</span>**, requires **<span style='color: #FF00DC;'>over 20 minutes for complete task reorientation</span>**, and results in **<span style='color: #FF00DC;'>95% longer completion times with 120% more errors</span>** compared to monotask execution. The evidence overwhelmingly supports [[Monotasking]] as the superior cognitive strategy for complex, goal-oriented work, with implications for [[instructional-design]], [[Productivity-Systems]], and [[Knowledge-Work]] optimization.
 
 ## 🧠 Theoretical Foundations: Cognitive Architecture and Capacity Limits
 
@@ -512,7 +512,7 @@ The relationship between switching patterns and **<span style='color: #FFC700;'>
 **Depth Potential:** Mihaly Csikszentmihalyi's flow theory, neurobiological correlates of flow states, conditions facilitating flow entry, and practical protocols for engineering flow-conducive environments would provide crucial complement to productivity optimization frameworks.
 **Knowledge Graph Role:** Connects cognitive performance (attention, executive function) with positive psychology (optimal experience, intrinsic motivation) and practical productivity systems.
 **Priority:** High—Flow optimization represents a positive framing for monotasking adoption, emphasizing experiential benefits beyond mere performance metrics.
-**Prerequisites:** [[intrinsic-motivation]], [[Optimal-Challenge]], [[Autotelic Personality]].
+**Prerequisites:** [[Intrinsic Motivation]], [[Optimal-Challenge]], [[Autotelic Personality]].
 
 ## Cross-Domain Connections
 
@@ -540,7 +540,7 @@ The relationship between switching patterns and **<span style='color: #FFC700;'>
 **Depth Potential:** Kalyuga's expertise reversal research, automation's role in reducing cognitive load, schema compilation processes enabling expert performance, deliberate practice strategies for skill automation, and domain-specific expertise development would provide advanced treatment of individual differences in switching vulnerability.
 **Knowledge Graph Role:** Connects expertise research (skill acquisition, deliberate practice) with cognitive architecture (automaticity, chunking) and practical training design.
 **Priority:** Medium—Expertise effects represent important boundary condition on switching cost generalizability but require substantial prerequisite knowledge for meaningful engagement.
-**Prerequisites:** [[schema-theory]], [[automaticity]], [[deliberate-practice]], [[cognitive-load-theory]] (comprehensive understanding), [[chunking]].
+**Prerequisites:** [[schema-theory-and-knowledge-organization]], [[automaticity]], [[deliberate-practice]], [[Cognitive Load Theory (CLT)]] (comprehensive understanding), [[Chunk (Miller, 1956; Chase & Simon, 1973)]].
 
 ### 6. **[[Computational Models of Cognitive Control: From Conflict Monitoring to Model-Based Reinforcement Learning]]** *[Requires Prerequisites]*
 

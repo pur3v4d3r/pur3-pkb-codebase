@@ -107,7 +107,7 @@ Title: **Architecting Personal Transformation: A Systematic Framework for Self-D
 > [!further-exploration]
 > Recommended continued study:
 > - **[[dual-process-theory]]** and **[[System 1 vs System 2 Thinking]]**: Understanding the cognitive architecture that underlies many self-development challenges (automatic vs deliberate processing)
-> - **[[implementation-intentions]]** and **[[WOOP Model]]**: Bridging the intention-action gap through evidence-based planning strategies
+> - **[[goal-intention]]** and **[[WOOP Model]]**: Bridging the intention-action gap through evidence-based planning strategies
 > - **[[Cognitive Behavioral Therapy (CBT)]]** cognitive restructuring techniques: Practical methods for challenging and modifying maladaptive thought patterns
 > - **[[growth-mindset-theory]]** and **[[Implicit-Theories-of-Intelligence]]**: How beliefs about changeability influence learning and persistence
 > - **[[deliberate-practice]]** frameworks: The specific training methodologies that accelerate skill acquisition and expertise development

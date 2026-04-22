@@ -1857,7 +1857,7 @@ Let me know if you'd like any adjustments!
 * *Depth Potential:** Apply Sweller's framework to prompt structure---intrinsic/extraneous/germane load optimization
 * *Knowledge Graph Role:** Bridge between [[cognitive-science]] and [[Prompt-Engineering]]
 * *Priority:** Medium---theoretical grounding improves intuition for prompt structure
-* *Prerequisites:** [[cognitive-load-theory]], [[working-memory]]
+* *Prerequisites:** [[Cognitive Load Theory (CLT)]], [[working-memory]]
 
 ### 4. **[[Instructional Design Principles for LLMs]]**
 * *Connection:** Few-shot examples parallel instructional scaffolding; reasoning protocols parallel guided instruction

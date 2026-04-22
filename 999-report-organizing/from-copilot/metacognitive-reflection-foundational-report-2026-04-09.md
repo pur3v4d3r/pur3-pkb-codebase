@@ -92,10 +92,10 @@ key-distinctions: ["Metacognitive Reflection vs. Metacognitive Monitoring", "Ref
 prerequisites: ["[[metacognition]]", "[[cognitive-psychology-foundations]]", "[[self-regulated-learning]]"]
 related: ["[[metacognitive-knowledge]]", "[[metacognitive-monitoring]]", "[[nelson-narens-model]]", "[[reflective-practice]]", "[[critical-thinking]]"]
 broader: ["[[metacognition]]", "[[self-regulated-learning]]"]
-narrower: ["[[metacognitive-calibration]]", "[[metacognitive-scaffolding]]"]
+narrower: ["[[metacognitive-calibration]]", "[[Metacognitive Scaffolding]]"]
 see-also: ["[[reflective-practice]]", "[[donald-schön]]", "[[Argyris-Double-Loop-Learning]]"]
 builds-on: ["[[Flavell's-Metacognitive-Model]]", "[[nelson-narens-model]]"]
-enables: ["[[metacognitive-scaffolding]]", "[[self-directed-learning]]", "[[metacognitive-calibration]]"]
+enables: ["[[Metacognitive Scaffolding]]", "[[self-directed-learning]]", "[[metacognitive-calibration]]"]
 
 # ═══════════════════════════════════════════════════════════════
 # APPENDIX & DENSITY TRACKING (Pipeline-Compatible)
@@ -968,7 +968,7 @@ Legend: ★★★★★ = very strong (multi-study meta-analysis, large N, repli
 
 The following existing notes in your permanent collection connect directly to this report's content and should receive backlinks:
 
-[[metacognition]] · [[metacognitive-monitoring]] · [[metacognitive-regulation]] · [[nelson-narens-model]] · [[self-regulated-learning]] · [[zimmerman-srl-model]] · [[Pintrich's-Integrative-SRL-Framework]] · [[reflective-practice]] · [[donald-schön]] · [[Argyris-Double-Loop-Learning]] · [[fluency-illusion]] · [[judgment-of-learning]] · [[feeling-of-knowing]] · [[attribution-theory]] · [[growth-mindset]] · [[aar-after-action-review]] · [[personal-knowledge-management]] · [[metacognitive-scaffolding-design-patterns]] · [[barry-zimmerman]] · [[john-flavell]] · [[motivated-reasoning]] · [[critical-thinking]]
+[[metacognition]] · [[metacognitive-monitoring]] · [[metacognitive-regulation]] · [[nelson-narens-model]] · [[self-regulated-learning]] · [[zimmerman-srl-model]] · [[Pintrich's-Integrative-SRL-Framework]] · [[reflective-practice]] · [[donald-schön]] · [[Argyris-Double-Loop-Learning]] · [[Fluency Illusion]] · [[judgment-of-learning]] · [[feeling-of-knowing]] · [[Attribution (Heider, 1958)]] · [[growth-mindset]] · [[aar-after-action-review]] · [[personal-knowledge-management]] · [[metacognitive-scaffolding-design-patterns]] · [[barry-zimmerman]] · [[john-flavell]] · [[motivated-reasoning]] · [[critical-thinking]]
 
 
 
@@ -1131,7 +1131,7 @@ The two levels are connected by two types of causal signal. **Monitoring** flows
 
 ### The Four Key Monitoring Constructs
 
-**Ease of Learning (EOL) Judgments.** These prospective judgments, made before study, reflect beliefs about how easy or difficult a given item will be to learn. Research consistently shows that EOL judgments are influenced primarily by prior knowledge and familiarity rather than by item characteristics that actually predict learning difficulty. This means EOL judgments can be systematically miscalibrated when prior familiarity misleads: an item can *feel* easy to learn because it is familiar, when in fact it requires substantial processing for genuine encoding — this is the mechanism underlying the [[fluency-illusion]].
+**Ease of Learning (EOL) Judgments.** These prospective judgments, made before study, reflect beliefs about how easy or difficult a given item will be to learn. Research consistently shows that EOL judgments are influenced primarily by prior knowledge and familiarity rather than by item characteristics that actually predict learning difficulty. This means EOL judgments can be systematically miscalibrated when prior familiarity misleads: an item can *feel* easy to learn because it is familiar, when in fact it requires substantial processing for genuine encoding — this is the mechanism underlying the [[Fluency Illusion]].
 
 **Judgments of Learning (JOL).** Made during or immediately after study, JOLs assess the learner's confidence that studied material can be later recalled. A large experimental literature (following Koriat and others) demonstrates that JOLs are not based on direct access to memory traces but are inferred from cues including ease of processing, familiarity, number of study repetitions, and semantic coherence. The **delayed JOL effect** is particularly significant: JOLs made some time after study (rather than immediately) are more accurate predictors of actual recall, presumably because delayed JOLs are based on retrieval rather than encoding strength — a distinction with direct practical implications for reflective study practices.
 
@@ -1204,7 +1204,7 @@ Declarative metacognitive knowledge (what one knows *about* cognition) is the mo
 
 **Task knowledge** — beliefs about how different cognitive tasks make different demands. A sophisticated learner recognizes that reading for main ideas requires different monitoring and regulatory processes than reading for technical details; that memorizing a list of arbitrary items requires different strategies than understanding an interconnected conceptual framework; that creative generation operates differently from analytical evaluation. Deficits in task knowledge lead to what cognitive researchers call **task-strategy mismatches** — deploying competent strategies for the wrong task type, or applying general strategies without sensitivity to task-specific demands.
 
-**Strategy knowledge** — beliefs about cognitive strategies and their relative effectiveness. This is the most teachable component of declarative MK, and the component most directly addressed by educational interventions targeting study skills or reading comprehension. Research consistently shows that many students enter higher education with impoverished strategy knowledge: they employ a narrow range of surface-level strategies (re-reading, passive highlighting) and have limited knowledge of the evidence-based alternatives ([[retrieval-practice]], [[spaced-repetition]], [[elaborative-interrogation]], [[self-explanation-effect]]). Metacognitive reflection expands strategy knowledge by generating personalized understanding of which strategies work for which purposes given one's particular cognitive profile.
+**Strategy knowledge** — beliefs about cognitive strategies and their relative effectiveness. This is the most teachable component of declarative MK, and the component most directly addressed by educational interventions targeting study skills or reading comprehension. Research consistently shows that many students enter higher education with impoverished strategy knowledge: they employ a narrow range of surface-level strategies (re-reading, passive highlighting) and have limited knowledge of the evidence-based alternatives ([[Desirable Difficulties (Robert Bjork, 1994)]], [[spaced-repetition]], [[Elaborative Interrogation]], [[self-explanation-effect]]). Metacognitive reflection expands strategy knowledge by generating personalized understanding of which strategies work for which purposes given one's particular cognitive profile.
 
 > [!example] **Strategy Knowledge Development Through Reflection**
 > A novice physics student consistently uses re-reading as her primary study strategy, spending three hours reviewing problem-solution examples the night before exams. Her performance — understanding the examples while studying but failing to solve novel problems — gives her a clear monitoring signal of a learning problem. Unequipped with strategy knowledge, she interprets this as a problem of comprehension depth and re-reads more carefully. Through structured metacognitive reflection guided by an instructor, she develops the strategy knowledge to recognize that problem-solving skill requires retrieval practice and generative problem-solving, not passive review. This strategy knowledge revision — enabled by reflection on monitoring signals — directly transforms her study behavior and subsequent performance.
@@ -1279,7 +1279,7 @@ This does not, however, render metacognitive reflection useless. Several importa
 >
 > **This report's stance:** Both positions are partially correct. Effective metacognitive reflection requires both the epistemically humble attitude of Position A — treating introspective accounts as fallible, hypothesis-generating, and requiring external calibration — and the pragmatic orientation of Position B — focusing reflection on factors within the learner's control that can be modified. A reflection practice that ignores either produces either paralytic over-complexity or motivationally effective but systematically distorted self-models.
 
-### The [[fluency-illusion]] as Structural Distortion
+### The [[Fluency Illusion]] as Structural Distortion
 
 Among all the ways metacognitive reflection can fail, the fluency illusion is probably the most consequential for everyday cognitive performance and the most thoroughly documented. The fluency illusion occurs when the *subjective ease of processing* a stimulus is mistaken for evidence of *genuine understanding or learning* of that stimulus. Because fluent processing feels like comprehension, learners routinely conflate recognition-level familiarity with generation-level mastery.
 
@@ -1358,7 +1358,7 @@ Within the self-reflection phase, Zimmerman identifies two principal process cat
 
 **Self-Evaluation.** Self-evaluation involves comparison of one's own performance against an internal standard or goal. The sophistication of this comparison depends entirely on the quality of the standard (how precisely the goal was specified in the forethought phase) and the quality of the performance evidence (how accurately the learner can assess what was actually accomplished). Self-evaluation produces an evaluative judgment — did I meet my goal? — that then triggers further reflective processes.
 
-**Causal Attribution.** Attribution involves identifying explanatory accounts for the discrepancy (or absence of discrepancy) between performance and standard. This is where, as argued above, the motivational character of reflection most clearly shapes its cognitive quality. [[attribution-theory]] distinguishes attributions along three dimensions: *locus* (internal/external), *stability* (stable/unstable), and *controllability* (controllable/uncontrollable). Zimmerman's research demonstrates that attributions to controllable, internal, unstable factors — specifically strategy and effort, rather than ability — are associated with adaptive reflective responses and improved subsequent learning. Attributions to stable, uncontrollable factors (fixed ability, task difficulty) generate what he terms **defensive self-protection** — strategic self-handicapping that reduces the informational value extracted from performance.
+**Causal Attribution.** Attribution involves identifying explanatory accounts for the discrepancy (or absence of discrepancy) between performance and standard. This is where, as argued above, the motivational character of reflection most clearly shapes its cognitive quality. [[Attribution (Heider, 1958)]] distinguishes attributions along three dimensions: *locus* (internal/external), *stability* (stable/unstable), and *controllability* (controllable/uncontrollable). Zimmerman's research demonstrates that attributions to controllable, internal, unstable factors — specifically strategy and effort, rather than ability — are associated with adaptive reflective responses and improved subsequent learning. Attributions to stable, uncontrollable factors (fixed ability, task difficulty) generate what he terms **defensive self-protection** — strategic self-handicapping that reduces the informational value extracted from performance.
 
 > [!key-claim] **Attribution Quality as the Pivotal Variable in Self-Reflection**
 > Zimmmerman's research converges on attribution quality as the single most important variable determining whether the self-reflection phase generates adaptive or maladaptive outcomes. The same performance outcome — say, failing to recall key concepts from a lecture — can trigger radically different reflective processes depending on attributional framing. *Ability attribution* ("I'm not good at this subject") terminates useful reflection by positing a cause that cannot be changed. *Strategy attribution* ("I used passive re-reading rather than active recall testing") generates specific, implementable hypothesis for forethought revision. The development of consistently strategy-focused attributional thinking is accordingly one of the highest-leverage targets for metacognitive intervention, as it both enables effective self-reflection and protects against the identity-threatening character of accurate failure attribution.
@@ -1493,7 +1493,7 @@ Metacognitive think-alouds — distinguished from descriptive think-alouds by th
 > - What knowledge updates do I need to make to my understanding of how I learn this type of material? (Metacognitive knowledge revision)
 > - What unanswered questions does this leave? (Knowledge gap identification)
 
-### [[metacognitive-scaffolding]] in Instructional Design
+### [[Metacognitive Scaffolding]] in Instructional Design
 
 [[metacognitive-scaffolding-design-patterns|Metacognitive scaffolding]] refers to instructional support structures that prompt, structure, and gradually transfer metacognitive responsibility from instructor to learner. Effective scaffolding follows a deliberate fade trajectory: high initial support (explicit metacognitive prompts, structured reflection templates, instructor modeling of metacognitive processes) decreases as learner metacognitive capacity develops, until the learner can self-initiate and self-regulate reflective processes independently.
 
@@ -1503,7 +1503,7 @@ Key scaffolding tools include:
 
 **[[self-explanation-effect]] Prompting.** The self-explanation effect — the finding that learners who explain material to themselves or others during study learn significantly more than those who do not — operates through metacognitive mechanisms: self-explanation forces explicit identification of inference gaps (Where am I filling in information that the text doesn't provide? Where does my explanation require assumptions my understanding doesn't support?), activating [[comprehension-monitoring]] and generating diagnostic information about genuine vs. surface understanding.
 
-**[[elaborative-interrogation]].** The elaborative interrogation technique — asking "Why is this fact true?" rather than simply studying fact-statement pairs — improves retention by activating metacognitive elaboration: the learner must query their existing knowledge structures to determine whether a fact connects coherently to what they already know, generating monitoring signals that distinguish superficially familiar from genuinely integrated information.
+**[[Elaborative Interrogation]].** The elaborative interrogation technique — asking "Why is this fact true?" rather than simply studying fact-statement pairs — improves retention by activating metacognitive elaboration: the learner must query their existing knowledge structures to determine whether a fact connects coherently to what they already know, generating monitoring signals that distinguish superficially familiar from genuinely integrated information.
 
 ### The Role of External Feedback and Social Reflection
 
@@ -1572,7 +1572,7 @@ The failure modes documented in Section 5 — fluency illusions, motivated reaso
 Perhaps the most important synthesis insight is the developmental character of metacognitive reflection: it is neither a fixed trait (those who have it do well, those who lack it cannot develop it) nor a simple skill (learnable through one instructional session). It is a developing capacity built over extended practice cycles, with each high-quality reflection cycle improving the architecture that subsequent cycles operate on. This developmental character has important practical implications: metacognitive reflection practice should be expected to be awkward and unfamiliar initially, should be scaffolded with external support that progressively fades, and should be evaluated over learning trajectories rather than single episodes.
 
 > [!original-synthesis] **Metacognitive Reflection as the Engine of Epistemic Sovereignty**
-> The synthesis across this report supports a characterization I call *epistemic sovereignty* — a person's capacity to conduct their cognitive life on the basis of their own reasoned and calibrated self-knowledge rather than external prescription or unreflected habit. Metacognitive reflection is the primary mechanism through which epistemic sovereignty is built and maintained. Without it, a person's cognitive strategies, self-beliefs, and learning approaches are determined by accident, social imitation, institutional compliance, or the particular cognitive habits that hardened during formative education — frequently inappropriate for the specific cognitive profile and goals of the individual person. With sustained metacognitive reflection practice, a person progressively develops an increasingly accurate, calibrated, revisable model of their own cognitive functioning — a private epistemology that enables genuinely self-directed cognitive development. This framing connects metacognitive reflection to broader concerns in [[self-determined-learning]], [[heutagogy]], and [[lifelong-learning]]: metacognitive reflection is not merely an academic skill-improvement technique but the faculty through which cognitive autonomy is achieved and maintained across a lifespan.
+> The synthesis across this report supports a characterization I call *epistemic sovereignty* — a person's capacity to conduct their cognitive life on the basis of their own reasoned and calibrated self-knowledge rather than external prescription or unreflected habit. Metacognitive reflection is the primary mechanism through which epistemic sovereignty is built and maintained. Without it, a person's cognitive strategies, self-beliefs, and learning approaches are determined by accident, social imitation, institutional compliance, or the particular cognitive habits that hardened during formative education — frequently inappropriate for the specific cognitive profile and goals of the individual person. With sustained metacognitive reflection practice, a person progressively develops an increasingly accurate, calibrated, revisable model of their own cognitive functioning — a private epistemology that enables genuinely self-directed cognitive development. This framing connects metacognitive reflection to broader concerns in [[self-determined-learning]], [[heutagogy]], and [[Lifelong Learning]]: metacognitive reflection is not merely an academic skill-improvement technique but the faculty through which cognitive autonomy is achieved and maintained across a lifespan.
 >
 > **Epistemic status:** Well-motivated theoretical synthesis connecting established constructs; the specific term "epistemic sovereignty" is introduced in this report as a synthesizing frame, not an established construct in the literature.
 
@@ -1612,7 +1612,7 @@ Perhaps the most important synthesis insight is the developmental character of m
 >
 > **Boundary:** Metacognitive experiences are partly subjective signals about cognitive state but are NOT perfectly veridical reports on cognitive processing; their reliability varies systematically as a function of task type, learner expertise, and motivational context.
 >
-> **See also:** [[metacognitive-experience]], [[metacognitive-feelings]], [[fluency-illusion]]
+> **See also:** [[metacognitive-experience]], [[metacognitive-feelings]], [[Fluency Illusion]]
 
 > [!definition] **Reflection-on-Action vs. Reflection-in-Action (Schön, 1983)**
 > Schön distinguishes two temporally distinct forms of professional reflection. *Reflection-in-action* is metacognitive reflection that occurs *during* practice — the experienced professional notices an unexpected result, reframes the situation, and generates an on-the-spot experiment within the practice episode itself, often without full conscious articulation. *Reflection-on-action* is retrospective metacognitive reflection that occurs after a practice episode, through which tacit knowing-in-action is rendered explicit, patterns are identified across cases, and professional theories are revised. Both are forms of metacognitive reflection in the general sense, but they serve different developmental functions and face different distortion risks.
@@ -1626,7 +1626,7 @@ Perhaps the most important synthesis insight is the developmental character of m
 >
 > **Boundary:** The fluency illusion is NOT a universal distortion — it operates most strongly for conceptually complex material where recognition-level and generation-level understanding diverge. For simple associative material, fluency may be a more valid indicator.
 >
-> **See also:** [[fluency-illusion]], [[judgment-of-learning]], [[metacognitive-calibration]], [[retrieval-practice]]
+> **See also:** [[Fluency Illusion]], [[judgment-of-learning]], [[metacognitive-calibration]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > [!definition] **Regulatory Reflexivity Problem**
 > The regulatory reflexivity problem arises when metacognitive reflection turns evaluative attention on the metacognitive system itself, creating a potential infinite regress: monitoring one's monitoring, evaluating one's evaluation, checking the accuracy of one's self-assessment, and so on. The practical manifestation is metacognitive paralysis — effortful, attention-consuming self-monitoring that disrupts the primary cognitive task and produces diminishing informational returns. The problem is structurally analogous to the centipede problem in motor skill: asking "How exactly am I walking?" can disrupt automatic locomotion. Resolution requires scheduled rather than continuous reflection, and principled acceptance that metacognitive self-knowledge is sufficient rather than perfect.
@@ -1977,7 +1977,7 @@ Perhaps the most important synthesis insight is the developmental character of m
 >
 > **[[spaced-repetition]]** — Spaced repetition is both a tool that supports metacognitive development (by providing calibration feedback through retrieval attempts) and a practice that benefits from metacognitive reflection (knowing which material needs more spaced review, recognizing when retrieval failure signals genuine forgetting vs. context-dependent access). The two permanent notes mutually enrich each other.
 >
-> **[[fluency-illusion]]** — This report provides the most comprehensive treatment of the fluency illusion in the PKB, explaining its mechanism, documenting the empirical evidence, and developing bypass strategies. The fluency illusion permanent note should link extensively to this report for its context.
+> **[[Fluency Illusion]]** — This report provides the most comprehensive treatment of the fluency illusion in the PKB, explaining its mechanism, documenting the empirical evidence, and developing bypass strategies. The fluency illusion permanent note should link extensively to this report for its context.
 >
 > #### Strengthened Nodes — Existing Notes Enriched by This Report:
 >
@@ -1987,7 +1987,7 @@ Perhaps the most important synthesis insight is the developmental character of m
 >
 > **[[barry-zimmerman]]** — Receives detailed attribution-quality account that goes beyond the basic SRL model description, connecting attributional framing to self-efficacy architecture and adaptive-versus-maladaptive reflection outcomes.
 >
-> **[[attribution-theory]]** — Receives specific application to metacognitive self-reflection contexts, with the controllability/stability dimensions mapped onto adaptive vs. maladaptive metacognitive reflection outcomes in the educational context.
+> **[[Attribution (Heider, 1958)]]** — Receives specific application to metacognitive self-reflection contexts, with the controllability/stability dimensions mapped onto adaptive vs. maladaptive metacognitive reflection outcomes in the educational context.
 
 ---
 

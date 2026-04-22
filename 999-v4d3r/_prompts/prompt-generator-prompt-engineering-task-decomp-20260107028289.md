@@ -498,7 +498,7 @@ Include in Session 2 prompt:
 - Use `> [!definition]` callout for primary definition
 - Use `> [!example]` callouts for each example
 - H2 for "Intrinsic Cognitive Load", H3 for subsections
-- Include `[[element-interactivity]]` as wiki-link
+- Include `[[Technical Detail: The relationship between element interactivity and working-memory load]]` as wiki-link
 
 **Quality Gates:**
 - Definition is precise and citable

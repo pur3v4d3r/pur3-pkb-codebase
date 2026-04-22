@@ -1,9 +1,9 @@
 ---
 id: "<% tp.date.now("YYYYMMDD-HHmmss") %>"
 date: "<% tp.date.now("YYYY-MM-DD") %>"
-week: "<% tp.date.now("gggg-[W]WW")%>"
+week: "<% tp.date.now("gggg-[W]WW") %>"
 month: "<% tp.date.now("YYYY-MM") %>"
-quarter: "<% tp.date.now("YYYY-[Q]Q")%>"
+quarter: "<% tp.date.now("YYYY-[Q]Q") %>"
 year: "<% tp.date.now("YYYY") %>"
 type: "daily"
 tags:
@@ -11,23 +11,23 @@ tags:
 aliases:
   - "<% tp.date.now("dddd, MMMM Do, YYYY") %>"
 link-related:
-  - "[[<% tp.date.now("YYYY-MM-DD", -1,) %>|Yesterday's Daily Note]]"
+  - "[[<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday's Daily Note]]"
 ---
-### *Daily Quote's*
->"You are just an impression and not at all the thing you claim to be"
-   — Epictetus
+
+### *Daily Quotes*
+> "You are just an impression and not at all the thing you claim to be"
+> — Epictetus
 
 > "Men are disturbed not by things, but by the views which they take of things."
->  — Epictetus
+> — Epictetus
 
 # <% tp.date.now("dddd, MMMM Do, YYYY") %>
 
-> [! ] ### Temporal Context
+> [!info] Temporal Context
 >
-> 
-> **Week**: [[<% tp.date.now("gggg-[W]WW", ) %>]]
-> **This Week's Theme**:: `Getting back into the pkb instaed of just vs-code`
-> **Monthly Goal**:: `Reading`
+> **Week**: [[<% tp.date.now("gggg-[W]WW") %>]]
+> [**This Week's Theme**:: Getting back into the PKB instead of just VS Code]
+> [**Monthly Goal**:: Reading]
 > **Created**: `= this.file.ctime`
 > **Modified**: `= this.file.mtime`
 > **Today**: `= date(today)`
@@ -38,88 +38,170 @@ link-related:
 > **Quarter**: `= "Q" + ceil(date(today).month / 3)`
 
 **Event → Interpretation → Emotional Response**
+
 ---
+
 > "By training ourselves to modify assent patterns at Phase Two, we can systematically alter the quality and intensity of emotions experienced at Phase Three."
-> —— Claude
+> — Claude
 > [[psy-report-psychological-mechanisms-underlying-the-efficacy-and-multi-millennial-longevity-of-stoic-techniques-2025112508|Efficacy and Multi Millennial Longevity of Stoic Techniques]]
 
-#### *Full Daily Quote's*
-> [! ] ### Stoic Quote
->  "Remember that it is not only the desire of having, but also the desire of avoiding, that is subject to our will. Remember that you are a mortal, and one of the parts of a whole. Remember that the nature of the things which you desire is not your own, but foreign. Remember that as soon as an impression [phantasia] arises, say to it: 'You are just an impression and not at all the thing you claim to be.' Then examine it by those rules which you have, and first and chiefly, by this: whether it relates to the things which are in our power, or to those which are not; and, if it relates to anything not in our power, be prepared to say: 'It is nothing to me.'"
->  	—— Epictetus, 
->  	    Discourses [Book II, Chapter 18]
+#### *Full Daily Quotes*
 
-> [! ]  ### Stoic Quote
-> *When something disturbing happens*, ***immediately ask*** "**Is this something I can control or something I cannot control?**" If it's something you cannot control (which includes most of what happens), then struggling against it, resenting it, or being emotionally devastated by it is irrational—you're expending energy trying to change what cannot be changed. Your only rational response is **acceptance** of the fact and **focus** on what remains within your power: how you interpret the event, what meaning you assign it, and what actions you choose to take in response.
+> [!quote] Epictetus — Discourses \[Book II, Chapter 18\]
+> "Remember that it is not only the desire of having, but also the desire of avoiding, that is subject to our will. Remember that you are a mortal, and one of the parts of a whole. Remember that the nature of the things which you desire is not your own, but foreign. Remember that as soon as an impression \[phantasia\] arises, say to it: 'You are just an impression and not at all the thing you claim to be.' Then examine it by those rules which you have, and first and chiefly, by this: whether it relates to the things which are in our power, or to those which are not; and, if it relates to anything not in our power, be prepared to say: 'It is nothing to me.'"
 
-----
-# <% tp.date.now("dddd, MMMM Do, YYYY") %>'s Plan
->[! ]  Tasks Overview
-Use this space to plan out today's activities. 
-**Note**: Don't forget you can also add see these tasks in the day planner window.
-
-
-
-
-
-
-
->[! ]  Task Scheduling 
-> [Add Tasks that are recurring here (⬇️).]
-
-
-
-
-
-
+> [!quote] Stoic Principle — Control Dichotomy
+> *When something disturbing happens*, ***immediately ask*** "**Is this something I can control or something I cannot control?**" If it's something you cannot control (which includes most of what happens), then struggling against it, resenting it, or being emotionally devastated by it is irrational — you're expending energy trying to change what cannot be changed. Your only rational response is **acceptance** of the fact and **focus** on what remains within your power: how you interpret the event, what meaning you assign it, and what actions you choose to take in response.
 
 ---
-## Daily Meditations
-### Morning
 
-- **Prospective Visualization**: 
-	- [What challenges might today present?] 
-	- [How do I want to respond?] 
+# <% tp.date.now("dddd, MMMM Do, YYYY") %>'s Plan
 
-- **Virtue Intention**: 
-	- [Which specific virtue will I emphasize today?] 
-		- [Wisdom], [Justice], [Courage], [Temperance]
+> [!todo] Tasks Overview
+> Use this space to plan out today's activities.
+> **Note**: Don't forget you can also see these tasks in the Day Planner window.
 
-- **Control Dichotomy**: 
-	- [What is within versus outside my control today?]
+> [!todo] Task Scheduling
+> [Add recurring tasks here ⬇️]
 
-- **Implementation Intentions**: 
-	- [If [specific situation], then I will [specific response]].
-### Evening
-- **Event Documentation**: 
-- [What significant events occurred?]
-	- [Factual recording]
+---
 
-- **Judgment Analysis**: 
-	- [What interpretations/judgments did I make?] 
-		- [Were they based on what's controllable?]
+## Daily Practice
 
-- **Emotional Inventory**: 
-	- [When did I experience strong emotions?] 
-		- [What thoughts generated them?]
+### 🌅 Morning — Forethought Phase
 
-- **Virtue Assessment**: 
-	- [Did I act according to my morning intention?] 
-		- [Where did I succeed or fail?]
+#### Stoic Intentions
 
-- **Cognitive Reframing**: 
-	- [Select one problematic reaction and systematically reframe using Stoic principles.]
+- **Prospective Visualization**:
+	- What challenges might today present?
+	- How do I want to respond?
 
-- **Lesson Extraction**: 
-	- [What did I learn today about myself, others, or effective action?]
+- **Virtue Intention**:
+	- Which specific virtue will I emphasize today?
+		- [ ] Wisdom — deliberate, suspend judgment
+		- [ ] Justice — fair in dealings, contribute
+		- [ ] Courage — act despite discomfort
+		- [ ] Temperance — moderate impulses
+
+- **Control Dichotomy**:
+	- Within my control today:
+	- Outside my control today (acceptance):
+
+- **Implementation Intentions**:
+	- If [specific situation], then I will [specific response].
+
+#### 🧠 Metacognitive Forethought *(Zimmerman SRL — Phase 1)*
+
+- **Goal Specification** — State today's primary learning/work goal with enough precision that you'll know at day's end whether you achieved it:
+	- Goal 1:
+	- Goal 2:
+
+- **Strategy Selection** — What specific approach will you use to reach each goal? Why this strategy over alternatives?
+	- Strategy for Goal 1:
+	- Strategy for Goal 2:
+
+- **Self-Efficacy Check** — On a 1–10 scale, how confident are you that you can execute today's goals? What is the source of any doubt?
+	- Confidence rating: `/10`
+	- Source of doubt (if any):
+
+- **Cognitive Resource Audit** — What is your current mental state? Assess *before* allocating your hardest work:
+	- Energy level: Low / Medium / High
+	- Focus quality: Scattered / Adequate / Sharp
+	- Best time window for deep work today:
+
+- **Anticipated Obstacles** — What is the single most likely thing that will derail today's goals? What is your pre-commitment response?
+	- Obstacle:
+	- Pre-commitment response (if X happens, I will Y):
+
+---
+
+### ☀️ Mid-Day — Performance Monitoring *(fill at lunch or a natural break)*
+
+> [!note] Monitoring Checkpoint
+> This section is intentionally brief — it's a **cognitive pulse-check**, not a second journal entry. Takes ~3 minutes.
+
+- **Goal Progress** — Where are you relative to this morning's goals?
+	- Goal 1 status: Not started / In progress / Complete
+	- Goal 2 status: Not started / In progress / Complete
+
+- **Strategy Fidelity** — Are you actually using the strategy you planned, or have you drifted?
+	- Still on strategy? Yes / No
+	- If no, what happened and is the drift justified?
+
+- **Attention Quality** — Rate your focus since this morning (1–10). What has captured most of your attention — is it what you intended?
+	- Focus rating: `/10`
+	- Primary attention target (actual):
+
+- **Cognitive Load Signal** — Are you experiencing overload (too many demands), underload (boredom), or flow?
+	- State: Overloaded / Underloaded / In flow
+	- One adjustment to make this afternoon:
+
+---
+
+### 🌆 Evening — Self-Reflection Phase
+
+#### Stoic Review
+
+- **Event Documentation**:
+	- What significant events occurred?
+		- Factual recording (no judgment yet):
+
+- **Judgment Analysis**:
+	- What interpretations/judgments did I make today?
+		- Were they based on what's controllable?
+
+- **Emotional Inventory**:
+	- When did I experience strong emotions?
+		- What thoughts generated them?
+
+- **Virtue Assessment**:
+	- Did I act according to my morning intention?
+		- Where did I succeed?
+		- Where did I fall short?
+
+- **Cognitive Reframing**:
+	- Select one problematic reaction. Reframe using the Stoic phantom analysis: *"You are just an impression."* Then ask — what is actually within my control here?
+
+- **Lesson Extraction**:
+	- What did I learn today about myself, others, or effective action?
+
+#### 🧠 Metacognitive Self-Reflection *(Zimmerman SRL — Phase 3)*
+
+- **Self-Evaluation** — Compare actual outcomes against this morning's goals. Be specific, not vague:
+	- Goal 1 — Achieved / Partially achieved / Not achieved. Evidence:
+	- Goal 2 — Achieved / Partially achieved / Not achieved. Evidence:
+
+- **Causal Attribution** — *Why* did today go the way it did? Attribute accurately — internal factors (effort, strategy, attention) vs. external (environment, interruptions, information gaps):
+	- Primary cause of successes:
+	- Primary cause of shortfalls:
+	- ⚠️ Bias check — are you over-attributing failure to external factors? Over-attributing success to luck?
+
+- **Strategy Effectiveness** — Did the strategy you planned this morning actually work? If not, what would you replace it with?
+	- Strategy verdict:
+	- Proposed revision for next time:
+
+- **Monitoring Accuracy** — How well did your morning predictions match reality? (This trains your metacognitive calibration over time)
+	- Self-efficacy predicted: `/10` → Actual difficulty felt: `/10`
+	- Biggest prediction error today:
+
+- **Adaptive Inference** — Based on today, what specific behavioural/strategic change will you carry forward? (This feeds directly into tomorrow's Forethought phase)
+	- One concrete change:
+
+- **PKB Integration** — What ideas, concepts, or questions surfaced today that belong in your permanent note library?
+	- Concept to add/update:
+	- Connection to existing notes:
+	- Question worth pursuing:
+
 ### Tomorrow's Priority
 
-- **Tomorrow's Commitment**: 
-	- [Based on today's reflection, what specific intention will I set for tomorrow?]
-		- [ ] {{PRIORITY TOMORROW HERE}} [scheduled:: <%tp.date.now("YYYY-MM-DD",1)%>] [created:: <% tp.date.now("YYYY-MM-DD")%>]
+- **Tomorrow's Commitment**:
+	- Based on today's reflection, what specific intention will you set for tomorrow?
+		- [ ] {{PRIORITY TOMORROW HERE}} [scheduled:: <%tp.date.now("YYYY-MM-DD", 1)%>] [created:: <% tp.date.now("YYYY-MM-DD") %>]
+
 ---
 
 # Logs
+
 ### Work Log
 
 ### Thoughts Log

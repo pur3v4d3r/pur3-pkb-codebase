@@ -116,19 +116,19 @@ insights_generated: 7
 # KNOWLEDGE GRAPH INTEGRATION
 # ═══════════════════════════════════════════════════════════════════════════
 related_concepts:
-  - "[[schema-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[constructivism]]"
   - "[[self-regulated-learning]]"
   - "[[self-determination-theory]]"
   - "[[Testing-Effect]]"
   - "[[spaced-repetition]]"
-  - "[[desirable-difficulties]]"
-  - "[[fluency-illusion]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
+  - "[[Fluency Illusion]]"
   - "[[SECI-Model]]"
   - "[[Faceted-Classification]]"
   - "[[Semantic-Networks]]"
-  - "[[extended-mind-theory]]"
+  - "[[Extended Mind Thesis (Clark & Chalmers, 1998)]]"
   - "[[Cognitive Architecture Isomorphism]]"
   - "[[Integrated-Learning-System-Model]]"
   - "[[Twelve-Master-Principles]]"
@@ -256,23 +256,23 @@ graph TD
 
 | # | Report Title | Tier | Role in Framework | Key Contribution |
 |---|-------------|------|-------------------|-----------------|
-| 01 | [[Foundations of Knowledge Architecture]] | 1 | Root node — cognitive foundation | [[schema-theory]], [[Semantic-Networks]], [[Cognitive-Alignment-Principle]] |
-| 02 | [[The Architecture of Learning]] | 1 | Learning mechanism foundation | [[cognitive-load-theory]], [[working-memory]], [[germane-load]] |
+| 01 | [[Foundations of Knowledge Architecture]] | 1 | Root node — cognitive foundation | [[schema-theory-and-knowledge-organization]], [[Semantic-Networks]], [[Cognitive-Alignment-Principle]] |
+| 02 | [[The Architecture of Learning]] | 1 | Learning mechanism foundation | [[Cognitive Load Theory (CLT)]], [[working-memory]], [[Cognitive Load Theory (CLT)]] |
 | 03 | [[Constructing Understanding]] | 1 | Knowledge construction foundation | [[constructivism]], [[conceptual-change]], [[accommodation]] |
 | 04 | [[metacognitive-self-regulation]] | 1 | Regulation mechanism foundation | [[self-regulated-learning]], [[Zimmerman's SRL Cycle]] |
 | 05 | [[Motivation Architecture]] | 1 | Motivation framework | [[self-determination-theory]], [[achievement-goal-theory]] |
-| 06 | [[The Science of Remembering]] | 1 | Memory science foundation | [[Testing-Effect]], [[spacing-effect]], [[retrieval-practice]] |
+| 06 | [[The Science of Remembering]] | 1 | Memory science foundation | [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]] |
 | 07 | [[Critical Thinking as PKM Practice]] | 1 | Reasoning discipline | [[epistemic-vigilance]], [[argument-analysis]] |
 | 08 | [[Reflective Practice & Experiential Learning]] | 1 | Experiential learning | [[Dewey's-Reflective-Inquiry]], [[Kolb's Learning Cycle]] |
 | 09 | [[Designing the Learning PKB]] | 2 | **Primary design translator** | [[Cognitive Architecture Isomorphism]], [[Information-Architecture]] |
-| 10 | [[Scaffolding and Fading]] | 2 | Developmental progression | [[zone-of-proximal-development]], [[expertise-reversal-effect]] |
+| 10 | [[Scaffolding and Fading]] | 2 | Developmental progression | [[zone-of-proximal-development]], [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] |
 | 11 | [[The Transfer Problem]] | 2 | Transfer-oriented design | [[Near/Far Transfer]], [[Encoding-Variability]] |
 | 12 | [[The Reflective PKB]] | 2 | Embedded metacognition | [[metacognitive-monitoring]], [[Embedded Reflection]] |
 | 13 | [[Emotional Regulation & Resilient Learning]] | 2 | Stoic-learning bridge | [[Stoic Discipline]], [[Emotional Resilience]] |
 | 14 | [[Inquiry-Based Knowledge Building]] | 2 | Question-driven learning | [[socratic-method]], [[Pragmatist Inquiry]] |
 | 15 | [[Knowledge Organization at Scale]] | 2 | Classification science | [[Faceted-Classification]], [[Basic-Level-Categories]], [[Folksonomy]] |
-| 16 | [[Desirable Difficulties by Design]] | 2 | Strategic difficulty | [[desirable-difficulties]], [[generation-effect]], [[interleaving]] |
-| 17 | [[Note-Making as Knowledge Construction]] | 2 | Writing-to-learn | [[elaborative-interrogation]], [[self-explanation-effect]] |
+| 16 | [[Desirable Difficulties by Design]] | 2 | Strategic difficulty | [[Desirable Difficulties (Robert Bjork, 1994)]], [[generation-effect]], [[Desirable Difficulties (Robert Bjork, 1994)]] |
+| 17 | [[Note-Making as Knowledge Construction]] | 2 | Writing-to-learn | [[Elaborative Interrogation]], [[self-explanation-effect]] |
 | 18 | [[Calibration & Epistemic Humility]] | 2 | Knowledge calibration | [[dunning-kruger-effect]], [[epistemic-humility]], [[calibration]] |
 | 19 | [[Sustaining Lifelong Learning]] | 3 | Motivation over decades | [[Interest-Development-Theory]], [[habit-formation]] |
 | 20 | [[Retrieval-Enhanced Knowledge Networks]] | 3 | Active recall architecture | [[Network Models of Memory]], [[Elaborative-Retrieval]] |
@@ -285,7 +285,7 @@ graph TD
 | 27 | [[The Complete PKM/PKB Design Framework]] | 4 | **Capstone synthesis** | [[Five-Convergence-Zones]], [[Twelve-Master-Principles]], [[Integrated-Learning-System-Model]] |
 | 28 | [[Philosophy of Personal Knowledge]] | 4 | Epistemological grounding | [[justified-true-belief]], [[virtue-epistemology]], [[Pragmatist-Truth]] |
 | 29 | [[Ethical PKM]] | 4 | Ethical foundation | [[Intellectual-Honesty]], [[epistemic-responsibility]] |
-| 30 | [[Future of PKM / AI-Enhanced Knowledge Building]] | 4 | AI-era projection | [[Cognitive Partnership Model]], [[extended-mind-theory]], [[RAG]] |
+| 30 | [[Future of PKM / AI-Enhanced Knowledge Building]] | 4 | AI-era projection | [[Cognitive Partnership Model]], [[Extended Mind Thesis (Clark & Chalmers, 1998)]], [[RAG]] |
 
 ### Dependency Map: Critical Intellectual Pathways
 
@@ -317,10 +317,10 @@ Report 04 (SRL Theory) → Report 12 (Embedded Monitoring) → Report 18 (Calibr
 
 [**Cognitive-Architecture-Isomorphism**:: The foundational design principle stating that PKB structure should be structurally isomorphic with human cognitive architecture — specifically with the five organizational properties of long-term memory identified through convergence of Schema Theory, Semantic Networks, CLT, Expert Knowledge Organization, Information Foraging Theory, and SECI Model.]
 
-This domain synthesizes [[schema-theory]] (Bartlett 1932; Rumelhart 1980), [[Semantic-Networks]] (Collins & Loftus 1975), [[cognitive-load-theory]] (Sweller 1988), [[Prototype-Theory]] (Rosch 1975), [[Knowledge-Organization-Systems]] (Ranganathan), and [[Information Foraging Theory]] to establish that <span style='color: #FFC700;'>knowledge is relational, not propositional</span>. If knowledge were stored as isolated facts, a filing-cabinet PKB would be optimal. The scientific consensus across multiple traditions is that knowledge is constituted by connections between concepts — which is what drives the entire wiki-link-first architecture of effective PKB design.
+This domain synthesizes [[schema-theory-and-knowledge-organization]] (Bartlett 1932; Rumelhart 1980), [[Semantic-Networks]] (Collins & Loftus 1975), [[Cognitive Load Theory (CLT)]] (Sweller 1988), [[Prototype-Theory]] (Rosch 1975), [[Knowledge-Organization-Systems]] (Ranganathan), and [[Information Foraging Theory]] to establish that <span style='color: #FFC700;'>knowledge is relational, not propositional</span>. If knowledge were stored as isolated facts, a filing-cabinet PKB would be optimal. The scientific consensus across multiple traditions is that knowledge is constituted by connections between concepts — which is what drives the entire wiki-link-first architecture of effective PKB design.
 
 > [!evidence] Convergence Evidence
-> Six independently developed research traditions — [[schema-theory]], [[spreading-activation]], [[cognitive-load-theory]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and the [[SECI-Model]] — converge on the same conclusion: knowledge systems are most effective when structurally isomorphic with human long-term memory organization. This convergence from independent origins constitutes the strongest available form of evidence in the social sciences.
+> Six independently developed research traditions — [[schema-theory-and-knowledge-organization]], [[spreading-activation]], [[Cognitive Load Theory (CLT)]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and the [[SECI-Model]] — converge on the same conclusion: knowledge systems are most effective when structurally isomorphic with human long-term memory organization. This convergence from independent origins constitutes the strongest available form of evidence in the social sciences.
 
 **Key Claims:**
 - "Knowledge is Relational, Not Propositional" (Report 01) — <span style='color: #27FF00;'>Established</span>
@@ -330,11 +330,11 @@ This domain synthesizes [[schema-theory]] (Bartlett 1932; Rumelhart 1980), [[Sem
 ### Domain 2: Learning Mechanisms & Active Construction
 
 > [!definition] Active Construction Imperative
-> Knowledge is constructed through effortful cognitive processing, not transferred through passive exposure. The [[constructivist]] consensus — supported independently by [[desirable-difficulties]] research, [[elaborative-interrogation]], the [[socratic-method]], and [[Pragmatist-Epistemology]] — is that productive struggle constitutes the mechanism of learning itself.
+> Knowledge is constructed through effortful cognitive processing, not transferred through passive exposure. The [[constructivist]] consensus — supported independently by [[Desirable Difficulties (Robert Bjork, 1994)]] research, [[Elaborative Interrogation]], the [[socratic-method]], and [[Pragmatist-Epistemology]] — is that productive struggle constitutes the mechanism of learning itself.
 
 [**Active-Construction-Imperative**:: The cross-disciplinary finding that knowledge must be actively constructed through effortful cognitive processing — not passively received or stored. Productive struggle is the mechanism of learning, not an obstacle to it. A PKB designed for efficient capture is therefore designed for poor learning.]
 
-This domain addresses the most uncomfortable claim in the series: <span style='color: #FF00DC;'>a PKB designed for efficient capture is designed for poor learning</span>. The [[desirable-difficulties]] literature (Bjork 1994) demonstrates that learning conditions which impede short-term performance (testing rather than re-reading, spacing rather than massing, interleaving rather than blocking, generating rather than recognizing) consistently enhance long-term retention and transfer.
+This domain addresses the most uncomfortable claim in the series: <span style='color: #FF00DC;'>a PKB designed for efficient capture is designed for poor learning</span>. The [[Desirable Difficulties (Robert Bjork, 1994)]] literature (Bjork 1994) demonstrates that learning conditions which impede short-term performance (testing rather than re-reading, spacing rather than massing, interleaving rather than blocking, generating rather than recognizing) consistently enhance long-term retention and transfer.
 
 > [!what-the-evidence-suggests] Testing Effect Meta-Analytic Evidence
 > Rowland's (2014) meta-analysis of 159 experiments found the [[Testing-Effect]] produces an average effect size of d = 0.50 — a medium-to-large effect. Dunlosky et al. (2013) rated practice testing as "high utility" — one of only two study strategies (alongside distributed practice) to receive this rating. This is among the most robust findings in all of learning science.
@@ -342,7 +342,7 @@ This domain addresses the most uncomfortable claim in the series: <span style='c
 **The "Productive Struggle" Convergence:** Every discipline in the series independently identifies cognitive struggle as learning's constitutive mechanism:
 - [[constructivism]]: Disequilibrium triggers accommodation (Piaget)
 - [[socratic-method]]: Aporia (productive confusion) precedes insight
-- [[desirable-difficulties]]: Effortful retrieval > easy recognition
+- [[Desirable Difficulties (Robert Bjork, 1994)]]: Effortful retrieval > easy recognition
 - [[Note-Making]]: Generative writing > transcription
 - [[Dialectics]]: Confronting opposition > confirming agreement
 - [[Cognitive Partnership Model]]: AI should generate productive uncertainty, not smooth answers
@@ -357,7 +357,7 @@ This domain addresses the most uncomfortable claim in the series: <span style='c
 The regulatory thread runs from [[self-regulated-learning]] theory (Zimmerman) through [[metacognitive-monitoring]] (Report 12) to [[calibration]] (Report 18) to [[Feedback Loops]] (Report 26) to the [[Self-Regulating Adaptive System]] property of the [[Integrated-Learning-System-Model]].
 
 > [!analytical-insight] The Fluency Illusion as Universal Failure Mode
-> The [[fluency-illusion]] — mistaking ease of processing for genuine understanding — is the single most dangerous failure mode across all PKM practice. It explains why passive note review doesn't work (Report 20), why confidence ratings are unreliable without retrieval testing (Report 18), and why AI-generated synthesis can counterfeit understanding (Report 30's "[[Epistemic Counterfeiting]]" concept). Every regulatory mechanism in the framework is ultimately designed to counter this illusion.
+> The [[Fluency Illusion]] — mistaking ease of processing for genuine understanding — is the single most dangerous failure mode across all PKM practice. It explains why passive note review doesn't work (Report 20), why confidence ratings are unreliable without retrieval testing (Report 18), and why AI-generated synthesis can counterfeit understanding (Report 30's "[[Epistemic Counterfeiting]]" concept). Every regulatory mechanism in the framework is ultimately designed to counter this illusion.
 
 ### Domain 4: Motivation & Sustainability
 
@@ -405,15 +405,15 @@ The developmental trajectory across the series maps a learner from scaffolded de
 > [[Ranganathan's Faceted Classification]] (information science) converges with [[Rosch's Basic-Level Categories]] (cognitive psychology) on the same organizational principle: optimal classification operates at intermediate specificity across multiple independent dimensions. This convergence provides the most concrete tagging guidance in the series: <span style='color: #FFC700;'>50-150 tags, hierarchical (domain/subdomain/concept), at the "basic level" of domain-specific concept hierarchies</span>.
 
 > [!cross-domain-connection] Stoic Philosophy ↔ Learning Science
-> The series bridges [[Stoic Discipline]] (Reports 13, 19) with learning science in an unexpected way: Stoic practices of emotional regulation, acceptance of difficulty, and focused attention on what is within one's control directly support the [[desirable-difficulties]] framework — by providing the motivational resilience needed to persist through productive struggle rather than retreat to fluency-producing shortcuts.
+> The series bridges [[Stoic Discipline]] (Reports 13, 19) with learning science in an unexpected way: Stoic practices of emotional regulation, acceptance of difficulty, and focused attention on what is within one's control directly support the [[Desirable Difficulties (Robert Bjork, 1994)]] framework — by providing the motivational resilience needed to persist through productive struggle rather than retreat to fluency-producing shortcuts.
 
 ### Emergent Themes
 
 > [!original-synthesis] The PKB as Cognitive Extension
-> A theme that emerges across Reports 01, 09, 27, and 30: a PKB is not a productivity tool used by a mind — it is part of a distributed cognitive system that includes the mind. This is not metaphorical (it is grounded in [[extended-mind-theory]], Clark & Chalmers 1998). Designing a PKB is designing cognitive architecture. This reframing transforms PKB design from a preference question ("how do I like to organize my notes?") to an engineering question with right and wrong answers relative to cognitive architecture.
+> A theme that emerges across Reports 01, 09, 27, and 30: a PKB is not a productivity tool used by a mind — it is part of a distributed cognitive system that includes the mind. This is not metaphorical (it is grounded in [[Extended Mind Thesis (Clark & Chalmers, 1998)]], Clark & Chalmers 1998). Designing a PKB is designing cognitive architecture. This reframing transforms PKB design from a preference question ("how do I like to organize my notes?") to an engineering question with right and wrong answers relative to cognitive architecture.
 
 > [!original-synthesis] The Three-Concept Diagnostic Chain
-> [[fluency-illusion]] (mechanism) → [[dunning-kruger-effect]] (systemic consequence) → [[Epistemic Counterfeiting]] (AI amplification). This three-concept chain is the single most important diagnostic for AI-integrated PKM design. Each concept builds on the previous, and together they describe a failure mode that compounds across layers — ultimately threatening the epistemic autonomy that the entire framework is designed to develop.
+> [[Fluency Illusion]] (mechanism) → [[dunning-kruger-effect]] (systemic consequence) → [[Epistemic Counterfeiting]] (AI amplification). This three-concept chain is the single most important diagnostic for AI-integrated PKM design. Each concept builds on the previous, and together they describe a failure mode that compounds across layers — ultimately threatening the epistemic autonomy that the entire framework is designed to develop.
 
 ---
 
@@ -444,7 +444,7 @@ The developmental trajectory across the series maps a learner from scaffolded de
 ### Meta-Critical Observation: Reflexive Irony
 
 > [!warning] The Series' Own AI Provenance
-> The series provides extensive analysis of the risks of AI-generated content (Report 30: [[fluency-illusion]], [[Epistemic Counterfeiting]]). But the series itself was generated by AI (claude-sonnet-4-6). A reader who passively reads AI-generated reports about why passive reading doesn't produce learning is caught in a **performative contradiction**. The series is itself a test case for its own warnings.
+> The series provides extensive analysis of the risks of AI-generated content (Report 30: [[Fluency Illusion]], [[Epistemic Counterfeiting]]). But the series itself was generated by AI (claude-sonnet-4-6). A reader who passively reads AI-generated reports about why passive reading doesn't produce learning is caught in a **performative contradiction**. The series is itself a test case for its own warnings.
 >
 > This does not invalidate the content — but it means the appropriate way to engage with this series is **actively** (elaborating, questioning, connecting, testing against experience) rather than passively (reading and feeling informed).
 
@@ -609,7 +609,7 @@ SORT doc_id ASC
 ## Lexicon of Key Terms
 
 > [!definition] Cognitive Architecture Isomorphism Principle
-> The foundational design principle (FP1) stating that PKB structure must mirror the five organizational properties of human [[long-term-memory]]: hierarchically associative, multi-level abstraction, contextually embedded, time-sensitive consolidation, affordance-sensitive activation. Derived from convergence of [[schema-theory]], [[Semantic-Networks]], [[CLT]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and [[SECI-Model]].
+> The foundational design principle (FP1) stating that PKB structure must mirror the five organizational properties of human [[long-term-memory]]: hierarchically associative, multi-level abstraction, contextually embedded, time-sensitive consolidation, affordance-sensitive activation. Derived from convergence of [[schema-theory-and-knowledge-organization]], [[Semantic-Networks]], [[Cognitive Load Theory (CLT)]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and [[SECI-Model]].
 
 > [!definition] Integrated Learning System Model
 > The capstone synthesis of Report 27, defining a fully functional PKB as having three synergistic structural properties: (1) [[Isomorphic External Memory]], (2) [[Constructive Processing Engine]], (3) [[Self-Regulating Adaptive System]]. These properties are synergistic, not additive — any one without the others produces a qualitatively deficient system.
@@ -621,16 +621,16 @@ SORT doc_id ASC
 > The unified design framework in three tiers: 4 Foundational (Cognitive Isomorphism, Active Construction, Regulatory Embedding, Motivational Alignment); 5 Derived (Note Architecture, Linking Philosophy, Review Architecture, Active Processing Workflows, Calibration Systems); 3 Refinement (Evolutionary Architecture, Dialectical Deepening, Integration Metabolism).
 
 > [!definition] Desirable Difficulties
-> Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: [[Testing-Effect]] (d = 0.50), [[spacing-effect]], [[interleaving]], [[generation-effect]]. Coined by Bjork (1994). Rated "high utility" by Dunlosky et al. (2013).
+> Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: [[Testing-Effect]] (d = 0.50), [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[generation-effect]]. Coined by Bjork (1994). Rated "high utility" by Dunlosky et al. (2013).
 
 > [!definition] Fluency Illusion
-> A metacognitive error where perceptual/conceptual fluency (ease of processing) is mistaken for genuine understanding or durable learning. The universal PKM failure mode, amplified by AI-generated content. Countered by [[retrieval-practice]] and [[Calibration Systems]].
+> A metacognitive error where perceptual/conceptual fluency (ease of processing) is mistaken for genuine understanding or durable learning. The universal PKM failure mode, amplified by AI-generated content. Countered by [[Desirable Difficulties (Robert Bjork, 1994)]] and [[Calibration Systems]].
 
 > [!definition] Cognitive Partnership Model
-> Report 30's original synthesis: AI in PKM should function not as oracle (providing answers) or scribe (reducing effort) but as [[Socratic Interlocutor]] — challenging, questioning, surfacing tensions, and generating productive uncertainty. Grounded in [[desirable-difficulties]] and [[socratic-method]].
+> Report 30's original synthesis: AI in PKM should function not as oracle (providing answers) or scribe (reducing effort) but as [[Socratic Interlocutor]] — challenging, questioning, surfacing tensions, and generating productive uncertainty. Grounded in [[Desirable Difficulties (Robert Bjork, 1994)]] and [[socratic-method]].
 
 > [!definition] Epistemic Counterfeiting
-> The production of the appearance of knowledge without substance. AI fluency generates convincing-sounding text that triggers [[fluency-illusion]] in both writer and reader. Concept from Report 30, extending the fluency illusion mechanism to AI-integrated knowledge work.
+> The production of the appearance of knowledge without substance. AI fluency generates convincing-sounding text that triggers [[Fluency Illusion]] in both writer and reader. Concept from Report 30, extending the fluency illusion mechanism to AI-integrated knowledge work.
 
 > [!definition] Integration Metabolism (RP3)
 > The refinement principle prescribing regular structural synthesis practices: weekly synthesis reviews, monthly conceptual audits (identify and bridge the 5 most isolated topics), annual framework reviews. Addresses the [[Accumulation Problem]] identified through [[Network Science]].
@@ -649,13 +649,13 @@ SORT doc_id ASC
 ## References & Source Attribution
 
 > [!cite] Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.
-> Foundation of [[schema-theory]] — demonstrated that memory is reconstructive, not reproductive. Schema structures organize and filter incoming information, making prior knowledge structure the primary determinant of what is learned.
+> Foundation of [[schema-theory-and-knowledge-organization]] — demonstrated that memory is reconstructive, not reproductive. Schema structures organize and filter incoming information, making prior knowledge structure the primary determinant of what is learned.
 
 > [!cite] Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing*.
-> Coined [[desirable-difficulties]] — conditions that slow performance but enhance learning. Foundation of Reports 06, 16, 20.
+> Coined [[Desirable Difficulties (Robert Bjork, 1994)]] — conditions that slow performance but enhance learning. Foundation of Reports 06, 16, 20.
 
 > [!cite] Clark, A. & Chalmers, D.J. (1998). The extended mind. *Analysis*, 58(1), 7-19.
-> Foundation of [[extended-mind-theory]] — cognitive processes extend beyond the skull when external structures meet certain coupling conditions. Theoretical grounding for the "PKB as cognitive extension" theme.
+> Foundation of [[Extended Mind Thesis (Clark & Chalmers, 1998)]] — cognitive processes extend beyond the skull when external structures meet certain coupling conditions. Theoretical grounding for the "PKB as cognitive extension" theme.
 
 > [!cite] Collins, A.M. & Loftus, E.F. (1975). A spreading-activation theory of semantic processing. *Psychological Review*, 82(6), 407-428.
 > Foundation of [[Semantic-Networks]] and [[spreading-activation]] — the network model of memory that provides the architectural analog for wiki-link PKB structures.
@@ -673,7 +673,7 @@ SORT doc_id ASC
 > Meta-analysis of 159 experiments finding [[Testing-Effect]] d = 0.50. Primary evidence base for Report 20's retrieval-architecture claims.
 
 > [!cite] Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285.
-> Foundation of [[cognitive-load-theory]] — distinguishes intrinsic, extraneous, and germane cognitive load. Key design constraint for PKB interface design (Report 02).
+> Foundation of [[Cognitive Load Theory (CLT)]] — distinguishes intrinsic, extraneous, and germane cognitive load. Key design constraint for PKB interface design (Report 02).
 
 > [!cite] Zimmerman, B.J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice*, 41(2), 64-70.
 > Foundation of the [[self-regulated-learning]] cycle — forethought → performance → self-reflection. Architectural basis for the regulatory embedding principle (FP3).

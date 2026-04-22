@@ -121,7 +121,7 @@ related:
   - "[[metacognition]]"
   - "[[inquiry-based-learning]]"
   - "[[prior-knowledge]]"
-  - "[[scaffolding]]"
+  - "[[Scaffolded Fading]]"
   - "[[zone-of-proximal-development]]"
   - "[[situated-learning-theory]]"
 
@@ -138,7 +138,7 @@ narrower:
 
 see-also:
   - "[[meaningful-learning-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[growth-mindset]]"
   - "[[discovery-learning]]"
 
@@ -158,12 +158,12 @@ applied-in:
 builds-on:
   - "[[jean-piaget]]"
   - "[[lev-vygotsky]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[genetic-epistemology]]"
 
 enables:
   - "[[Conceptual-Change-Theory]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[self-regulated-learning]]"
   - "[[communities-of-practice]]"
 
@@ -234,7 +234,7 @@ The contemporary relevance of constructivist learning theory cannot be overstate
 
 ### Scope of This Report
 
-This report provides a comprehensive foundational treatment of constructivist learning theory. It covers: (1) the core conceptual architecture shared across constructivist positions — including [[assimilation-and-accommodation]], [[cognitive-disequilibrium]], schema construction, and the role of prior knowledge; (2) the major theoretical frameworks — Piagetian cognitive constructivism, Vygotskian social constructivism, [[ernst-von-glasersfeld]]'s radical constructivism, and situated learning; (3) the mechanisms through which constructivist processes are proposed to operate; (4) the empirical evidence bearing on constructivist claims; and (5) applications, implications, and the significant limitations that the research record has documented. The report deliberately excludes the full technical apparatus of [[cognitive-load-theory]] (which warrants its own treatment), the detailed neuroscientific substrate of learning, and the extensive literature on specific instructional technologies, though relevant connections are noted throughout.
+This report provides a comprehensive foundational treatment of constructivist learning theory. It covers: (1) the core conceptual architecture shared across constructivist positions — including [[assimilation-and-accommodation]], [[cognitive-disequilibrium]], schema construction, and the role of prior knowledge; (2) the major theoretical frameworks — Piagetian cognitive constructivism, Vygotskian social constructivism, [[ernst-von-glasersfeld]]'s radical constructivism, and situated learning; (3) the mechanisms through which constructivist processes are proposed to operate; (4) the empirical evidence bearing on constructivist claims; and (5) applications, implications, and the significant limitations that the research record has documented. The report deliberately excludes the full technical apparatus of [[Cognitive Load Theory (CLT)]] (which warrants its own treatment), the detailed neuroscientific substrate of learning, and the extensive literature on specific instructional technologies, though relevant connections are noted throughout.
 
 ### Navigational Map
 
@@ -277,7 +277,7 @@ Constructivism inverts this picture at the architectural level. The learner is n
 >
 > **Report-Specific Significance:** The assimilation-accommodation distinction is the mechanism through which Piaget explains both cognitive stability (existing schemas persist through assimilation) and cognitive development (schemas are revised through accommodation). This makes it the central engine of constructivist learning in the Piagetian framework.
 >
-> **See also:** [[accommodation]], [[assimilation]], [[equilibration]], [[schema-theory]], [[conceptual-change]]
+> **See also:** [[accommodation]], [[assimilation]], [[equilibration]], [[schema-theory-and-knowledge-organization]], [[conceptual-change]]
 
 > [!definition] **Equilibration (Piaget)**
 > Equilibration is Piaget's proposed self-regulatory mechanism by which organisms move from states of cognitive disequilibrium (produced when assimilation fails) toward new states of cognitive equilibrium (achieved through successful accommodation). It is not a passive return to the prior state but an active, self-organizing process that produces structures at a higher level of complexity than those preceding the disequilibrium episode.
@@ -303,7 +303,7 @@ The developmental significance of schemas for constructivism lies in their hiera
 >
 > **Common Misconception:** The ZPD is frequently equated with "scaffolding." Vygotsky himself never used the term "scaffolding" — it was coined by [[jerome-bruner]], David Wood, and Gail Ross to operationalize the instruction-in-the-ZPD concept. The ZPD is the zone; scaffolding is one mechanism for working within it.
 >
-> **See also:** [[zone-of-proximal-development]], [[Vygotsky's-Zone-of-Proximal-Development]], [[scaffolding]], [[lev-vygotsky]], [[cognitive-scaffolding]]
+> **See also:** [[zone-of-proximal-development]], [[Vygotsky's-Zone-of-Proximal-Development]], [[Scaffolded Fading]], [[lev-vygotsky]], [[Cognitive Scaffolding]]
 
 > [!definition] **Internalization (Vygotsky)**
 > Internalization is the developmental process by which external, socially shared cognitive operations are reconstructed as internal, individual psychological processes. A child's learning to count, for instance, first occurs in social interaction — with a caregiver pointing and naming — and gradually becomes internally executable without external support. Vygotsky's genetic law of development holds that every function in cultural development appears first between people (interpsychological) and then within the individual (intrapsychological).
@@ -312,7 +312,7 @@ The developmental significance of schemas for constructivism lies in their hiera
 >
 > **Report-Specific Significance:** Internalization is the mechanism by which [[lev-vygotsky]]'s social constructivism explains individual cognitive development as a product of social experience. It resolves the apparent tension between the claim that knowledge is individually constructed and the claim that the social environment is constitutive of cognition — the individual constructs, but what they construct is transformation of socially mediated processes.
 >
-> **See also:** [[lev-vygotsky]], [[zone-of-proximal-development]], [[communities-of-practice]], [[scaffolding]]
+> **See also:** [[lev-vygotsky]], [[zone-of-proximal-development]], [[communities-of-practice]], [[Scaffolded Fading]]
 
 Vygotsky's contribution to constructivism is not merely additive — it fundamentally reorients the theory's center of gravity. Where Piaget's individual child engages with the physical environment and constructs through solitary epistemic effort, Vygotsky's learner is constitutively embedded in social and cultural context. The tools of thought — above all, language — are not inventions of the individual mind but historical accumulations of the culture, internalized through social interaction. Thought is, on this account, colonized by language in ways that have no parallel in Piaget's framework, and the developmental trajectory of cognition is irreducibly social in its origins even as it becomes individually owned as internalization proceeds.
 
@@ -352,7 +352,7 @@ The [[zone-of-proximal-development]] concept follows from this framework. If dev
 >
 > **Common Misconception:** Scaffolding is sometimes treated as synonymous with the ZPD. The ZPD is a theoretical space (the zone of emerging competence); scaffolding is an instructional intervention for working within that space. The former is a property of the learner-task relationship; the latter is a property of the pedagogical interaction.
 >
-> **See also:** [[scaffolding]], [[Scaffolding-—-Instructional-Design]], [[cognitive-scaffolding]], [[zone-of-proximal-development]], [[metacognitive-scaffolding]]
+> **See also:** [[Scaffolded Fading]], [[Scaffolding-—-Instructional-Design]], [[Cognitive Scaffolding]], [[zone-of-proximal-development]], [[Metacognitive Scaffolding]]
 
 Bruner also developed an account of the spiral curriculum — the idea that any subject can be taught in intellectually honest form at any developmental level, and that instruction should revisit fundamental concepts at progressively more sophisticated levels as the learner develops. This curriculum architecture reflects the constructivist insight that prior encounters with a domain create the cognitive structures that enable progressively deeper engagement with the same domain.
 
@@ -382,7 +382,7 @@ The educational implications are significant: learning should be understood not 
 
 ### Schema Formation and Revision: The Constructivist Core Process
 
-The most fundamental constructivist mechanism is [[schema-theory|schema]] formation and revision. When a learner encounters new content, the prior cognitive structure constrains what the new content can mean — it is the lens through which the new is interpreted. If the new content is sufficiently similar to existing schemas, assimilation occurs: the new experience is incorporated without schema modification. If the new content is sufficiently discrepant, accommodation is required.
+The most fundamental constructivist mechanism is [[schema-theory-and-knowledge-organization|schema]] formation and revision. When a learner encounters new content, the prior cognitive structure constrains what the new content can mean — it is the lens through which the new is interpreted. If the new content is sufficiently similar to existing schemas, assimilation occurs: the new experience is incorporated without schema modification. If the new content is sufficiently discrepant, accommodation is required.
 
 The assimilation–accommodation balance is not simply a cognitive toggle between "same" and "different." Most genuine learning involves partial assimilation — new content is initially assimilated to more approximate schemas — followed by progressive accommodation as experience with the domain accumulates. [[conceptual-change]] theory (Posner, Strike, Hewson, and Gertzog; later Stella Vosniadou) has developed this mechanism's implications for science education, where students characteristically bring robust prior conceptions — often inconsistent with accepted scientific theory — that must be replaced or restructured rather than merely supplemented. The mechanism of conceptual change requires that the learner: (1) be dissatisfied with their current conception; (2) encounter an intelligible alternative; (3) find the alternative plausible; and (4) find it fruitful for further reasoning.
 
@@ -393,13 +393,13 @@ This four-condition model of conceptual change captures a critical implication o
 > [!key-insight]
 > [[cognitive-disequilibrium]] is the affective-cognitive state that drives constructivist learning — the productive discomfort of recognizing that one's current understanding is inadequate. Piaget's equilibration model predicts that moderate disequilibrium motivates accommodative work, while extreme disequilibrium produces cognitive shutdown or avoidance. This prediction has implications for instructional design: challenges that exceed the learner's current capacity by too large a margin will not produce constructive engagement. The match between challenge level and current competence is a delicate and consequential design parameter — a point that connects constructivism directly to the [[zone-of-proximal-development]] concept and to Csikszentmihalyi's theory of [[flow]].
 
-Empirical research on [[desirable-difficulties]] (Robert Bjork) provides a convergent line of evidence for the constructivist prediction about disequilibrium: conditions that make learning more effortful in the short term (spacing, interleaving, retrieval practice with errors) reliably produce better long-term retention than conditions that make learning feel smooth and effortless. The mechanism, from a constructivist perspective, is that effortful conditions create the conditions for genuine schema engagement and revision — assimilation failures that drive accommodation — rather than the superficial processing that produces the fluency illusion.
+Empirical research on [[Desirable Difficulties (Robert Bjork, 1994)]] (Robert Bjork) provides a convergent line of evidence for the constructivist prediction about disequilibrium: conditions that make learning more effortful in the short term (spacing, interleaving, retrieval practice with errors) reliably produce better long-term retention than conditions that make learning feel smooth and effortless. The mechanism, from a constructivist perspective, is that effortful conditions create the conditions for genuine schema engagement and revision — assimilation failures that drive accommodation — rather than the superficial processing that produces the fluency illusion.
 
 ### The Scaffolding Mechanism: Three-Layered Support
 
 Research on scaffolding, following Wood, Bruner, and Ross's original formulation, has identified several functional components of effective scaffolding that illuminate the mechanism more precisely: (1) **recruitment** — engaging the learner's interest in the task; (2) **reduction of degrees of freedom** — simplifying the task by reducing the number of components the learner must manage simultaneously; (3) **direction maintenance** — keeping the learner on task and managing the motivational dimension; (4) **marking of critical features** — drawing attention to the most task-relevant features; (5) **frustration control** — managing the affective dimension of challenge; and (6) **demonstration** — modeling an idealized version of the performance. These components correspond, respectively, to motivational, cognitive load management, executive, attentional, affective, and modeling dimensions of the scaffolding interaction.
 
-The contingent character of scaffolding — the requirement that support be calibrated to and progressively withdrawn as a function of learning progress — is what distinguishes genuine scaffolding from other forms of support. What has come to be called "metacognitive scaffolding" extends this concept to support learners' self-monitoring and self-regulation capacities, not just their task performance — an extension that connects scaffolding directly to the [[metacognitive-scaffolding]] and [[self-regulated-learning]] literatures.
+The contingent character of scaffolding — the requirement that support be calibrated to and progressively withdrawn as a function of learning progress — is what distinguishes genuine scaffolding from other forms of support. What has come to be called "metacognitive scaffolding" extends this concept to support learners' self-monitoring and self-regulation capacities, not just their task performance — an extension that connects scaffolding directly to the [[Metacognitive Scaffolding]] and [[self-regulated-learning]] literatures.
 
 ### The Social Construction of Meaning
 
@@ -495,12 +495,12 @@ The most productive open questions in the constructivist literature include: How
 >
 > **Common Misconception:** Schemas are sometimes treated as static filing categories, but their defining property is their active role in processing — they do not passively receive inputs but actively interpret them. A schema is more like a hypothesis about how a domain works than a basket for storing discrete facts.
 >
-> **See also:** [[schema-theory]], [[schema-theory-and-learning]], [[prior-knowledge]], [[assimilation-and-accommodation]], [[conceptual-change]]
+> **See also:** [[schema-theory-and-knowledge-organization]], [[schema-theory-and-learning]], [[prior-knowledge]], [[assimilation-and-accommodation]], [[conceptual-change]]
 
 > [!definition] **Zone of Proximal Development (ZPD)**
 > See Phase II for the full definition. Extended note: the ZPD concept is genuinely polysemic in Vygotsky's work — it appears in at least three distinct formulations across his writings, and considerable scholarly effort has been devoted to establishing its precise meaning and scope. The most common educational usage — as the gap between independent and assisted performance — is the most tractable, but Vygotsky's broader intentions may have included developmental potential in a richer sense.
 >
-> **See also:** [[zone-of-proximal-development]], [[Vygotsky's-Zone-of-Proximal-Development]], [[scaffolding]], [[lev-vygotsky]], [[cognitive-scaffolding]]
+> **See also:** [[zone-of-proximal-development]], [[Vygotsky's-Zone-of-Proximal-Development]], [[Scaffolded Fading]], [[lev-vygotsky]], [[Cognitive Scaffolding]]
 
 > [!definition] **Meaningful Learning (Ausubel)**
 > Ausubel's term for learning in which new material is genuinely related to existing cognitive structure — understood rather than rote-memorized. Meaningful learning is distinguished from rote learning not by the method of instruction (Ausubel explicitly rejected the equation of meaningful learning with discovery) but by whether the learner has relevant prior cognitive structure and whether the new material is presented in a way that can be connected to it. Advance organizers — expository passages that establish the relevant prior organization — are Ausubel's primary instructional tool for facilitating meaningful learning.
@@ -520,12 +520,12 @@ The most productive open questions in the constructivist literature include: How
 > [!definition] **Scaffolding**
 > See Phase II for the full definition. Extended note: the scaffolding metaphor, while enormously productive, has also been extensively critiqued for its limitations — it implies a fixed target structure (the building being constructed) and a withdrawal process (scaffolding is removed), which may not capture the open-ended and unpredictable character of genuine constructive learning. Extensions such as "fading" (gradual support withdrawal as a function of demonstrated competence) and "metacognitive scaffolding" (support for self-regulatory processes rather than task performance) address some of these limitations.
 >
-> **See also:** [[scaffolding]], [[Scaffolding-—-Instructional-Design]], [[metacognitive-scaffolding]], [[zone-of-proximal-development]]
+> **See also:** [[Scaffolded Fading]], [[Scaffolding-—-Instructional-Design]], [[Metacognitive Scaffolding]], [[zone-of-proximal-development]]
 
 > [!definition] **Conceptual Change**
 > The cognitive process through which existing conceptual frameworks are reorganized, revised, or replaced in response to instruction, argumentation, or experience. Conceptual change theory (Posner et al.; Vosniadou) distinguishes revision (modification of peripheral concepts within an existing framework) from restructuring (reorganization of the entire conceptual framework, including its core ontological commitments). Restructuring-type conceptual change is the most demanding form of constructivist learning and requires meeting the four conditions (dissatisfaction, intelligibility, plausibility, fruitfulness).
 >
-> **See also:** [[conceptual-change]], [[Conceptual-Change-Theory]], [[schema-theory]], [[prior-knowledge]], [[cognitive-disequilibrium]]
+> **See also:** [[conceptual-change]], [[Conceptual-Change-Theory]], [[schema-theory-and-knowledge-organization]], [[prior-knowledge]], [[cognitive-disequilibrium]]
 
 > [!definition] **Internalization (Vygotsky)**
 > See Phase II for the full definition. Extended note: Vygotsky's concept of internalization should be distinguished from the similarly named concept in Self-Determination Theory (Deci & Ryan), where it refers to the process of taking in externally motivated regulations as one's own. Vygotsky's internalization is specifically a developmental account of how social cognitive processes become individual cognitive processes — the mechanism of the interpsychological-to-intrapsychological transition.
@@ -535,7 +535,7 @@ The most productive open questions in the constructivist literature include: How
 > [!definition] **Prior Knowledge**
 > The existing cognitive structure of the learner at the time of instruction — including organized schemas, domain knowledge, intuitive theories, partially correct understandings, and systematic misconceptions. Prior knowledge is the architectural constraint within which all new learning occurs: it determines what new experience can be assimilated to, what schema revision is required, and what the current ZPD is. Activating prior knowledge before instruction is one of the most consistently evidence-supported interventions in educational research.
 >
-> **See also:** [[prior-knowledge]], [[prior-knowledge-activation]], [[schema-theory]], [[meaningful-learning]], [[advance-organizer]]
+> **See also:** [[prior-knowledge]], [[prior-knowledge-activation]], [[schema-theory-and-knowledge-organization]], [[meaningful-learning]], [[advance-organizer]]
 
 > [!definition] **Discovery Learning**
 > An instructional approach in which learners are required to discover principles, rules, or relationships for themselves through exploration, experimentation, and inductive reasoning, rather than being provided with them through direct instruction. Discovery learning has a Piagetian warrant (self-generated activity promotes accommodation) but a contested empirical record — particularly for novice learners who lack the prior knowledge to guide productive exploration. Bruner is its most prominent advocate; Ausubel and, later, Kirschner, Sweller, and Clark are its most prominent critics.
@@ -627,7 +627,7 @@ The most productive open questions in the constructivist literature include: How
 >
 > **Why It Matters:** This is arguably the most consequential debate in educational psychology of the past two decades. Its resolution determines how constructivist theory should translate into classroom practice.
 >
-> **See also:** [[constructivist-learning-theory]], [[cognitive-load-theory]], [[discovery-learning]], [[inquiry-based-learning]], [[Direct-Instruction]]
+> **See also:** [[constructivist-learning-theory]], [[Cognitive Load Theory (CLT)]], [[discovery-learning]], [[inquiry-based-learning]], [[Direct-Instruction]]
 
 > [!tension] **Individual Knowledge Construction vs. Distributed Cognition**
 >
@@ -647,7 +647,7 @@ The most productive open questions in the constructivist literature include: How
 >
 > **What We Don't Know:** How to reliably assess the "prior knowledge threshold" at which optimal instructional design shifts; how domain-specific these principles are; whether constructivist approaches are differentially effective for different learning goals (understanding vs. transfer vs. novel problem-solving).
 >
-> **See also:** [[cognitive-load-theory]], [[desirable-difficulties]], [[self-regulated-learning]], [[worked-example-effect]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[self-regulated-learning]], [[the-worked-example-effect]]
 
 > [!tension] **Constructivist Assessment vs. Standardized Accountability**
 >
@@ -968,7 +968,7 @@ The most productive open questions in the constructivist literature include: How
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[constructivist-learning-theory]], [[schema-theory]], [[prior-knowledge]]
+> > **Prerequisites:** [[constructivist-learning-theory]], [[schema-theory-and-knowledge-organization]], [[prior-knowledge]]
 >
 > > [!topic-idea] [[Scaffolding-—-Instructional-Design]]
 > > **Description:** A systematic treatment of scaffolding as an instructional design construct — tracing the original Wood-Bruner-Ross definition, subsequent elaborations (fixed vs. contingent scaffolding, peer scaffolding, automated scaffolding in intelligent tutoring systems), and the substantial empirical literature on scaffolding effectiveness. Would address the full taxonomy of scaffolding types including cognitive, metacognitive, motivational, and procedural scaffolding.
@@ -977,7 +977,7 @@ The most productive open questions in the constructivist literature include: How
 > >
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[zone-of-proximal-development]], [[constructivist-learning-theory]], [[cognitive-scaffolding]]
+> > **Prerequisites:** [[zone-of-proximal-development]], [[constructivist-learning-theory]], [[Cognitive Scaffolding]]
 >
 > > [!topic-idea] [[zone-of-proximal-development]]
 > > **Description:** A deep dive into Vygotsky's ZPD concept — its multiple formulations in Vygotsky's own texts, its subsequent interpretations (especially the debate between Chaiklin's historically grounded reading and the widely diffused performance-gap interpretation), its measurement challenges, and its application to adult learning, professional development, and online instruction.
@@ -986,7 +986,7 @@ The most productive open questions in the constructivist literature include: How
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[lev-vygotsky]], [[constructivist-learning-theory]], [[scaffolding]]
+> > **Prerequisites:** [[lev-vygotsky]], [[constructivist-learning-theory]], [[Scaffolded Fading]]
 >
 > > [!topic-idea] [[inquiry-based-learning]]
 > > **Description:** A comprehensive evidence review of inquiry-based learning — its multiple forms (structured, guided, open), its alignment with constructivist theory, the contested empirical evidence on its effectiveness relative to direct instruction, and the synthesis positions (preparation-for-learning, productive failure, cognitive apprenticeship) that attempt to integrate constructivist and direct instruction approaches.
@@ -995,7 +995,7 @@ The most productive open questions in the constructivist literature include: How
 > >
 > > **Priority:** Critical
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[constructivist-learning-theory]], [[cognitive-load-theory]], [[prior-knowledge]]
+> > **Prerequisites:** [[constructivist-learning-theory]], [[Cognitive Load Theory (CLT)]], [[prior-knowledge]]
 >
 > > [!topic-idea] [[situated-learning-theory]]
 > > **Description:** A full treatment of Lave and Wenger's situated learning framework — legitimate peripheral participation, communities of practice, and the implications for professional and organizational learning. Would extend the current report's treatment and connect it to the professional development and communities of practice literature in adult education and knowledge management.
@@ -1013,9 +1013,9 @@ The most productive open questions in the constructivist literature include: How
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[constructivist-learning-theory]], [[schema-theory]], [[prior-knowledge]]
+> > **Prerequisites:** [[constructivist-learning-theory]], [[schema-theory-and-knowledge-organization]], [[prior-knowledge]]
 >
-> > [!topic-idea] [[metacognitive-scaffolding]]
+> > [!topic-idea] [[Metacognitive Scaffolding]]
 > > **Description:** An examination of metacognitive scaffolding — instructional support targeted not at task performance but at learners' monitoring and regulation of their own understanding. This represents the most consequential intersection of constructivism with the metacognition-and-self-regulated-learning literature and connects directly to the constructivist thesis that learning requires active schema construction that itself requires metacognitive oversight.
 > >
 > > **Connection to This Report:** Phase IV and Phase V both gesture toward this connection but the full treatment requires dedicated analysis.
@@ -1047,7 +1047,7 @@ The most productive open questions in the constructivist literature include: How
 >
 > - **[[self-regulated-learning]]** — Constructivism's epistemological claim that learners must construct understanding implies that self-regulatory capacities — the ability to monitor, evaluate, and adjust one's own cognitive processes — are architecturally necessary. The SRL literature operationalizes the constructivist thesis at the level of learner strategy.
 >
-> - **[[metacognitive-scaffolding]]** — A direct application of the Vygotskian scaffolding concept to metacognitive regulation. The current report provides the theoretical grounding for understanding why metacognitive scaffolding works.
+> - **[[Metacognitive Scaffolding]]** — A direct application of the Vygotskian scaffolding concept to metacognitive regulation. The current report provides the theoretical grounding for understanding why metacognitive scaffolding works.
 >
 > - **[[Conceptual-Change-Theory]]** — The most detailed operational account of how existing misconceptions are revised through instruction. Constructivism provides the theoretical warrant; conceptual change research provides the mechanistic detail.
 >
@@ -1055,9 +1055,9 @@ The most productive open questions in the constructivist literature include: How
 >
 > **Lateral Connections (mutual enrichment):**
 >
-> - **[[cognitive-load-theory]]** — The most significant challenge to and complement of constructivist instructional design. CLT provides the cognitive architecture account that constrains the conditions under which constructivist approaches are effective — the current report's limitations section and CLT are in productive dialogue.
+> - **[[Cognitive Load Theory (CLT)]]** — The most significant challenge to and complement of constructivist instructional design. CLT provides the cognitive architecture account that constrains the conditions under which constructivist approaches are effective — the current report's limitations section and CLT are in productive dialogue.
 >
-> - **[[desirable-difficulties]]** — The desirable difficulties research program provides convergent empirical support for the constructivist prediction that effortful, schema-testing learning produces better long-term outcomes than effortless processing, via different theoretical mechanisms.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The desirable difficulties research program provides convergent empirical support for the constructivist prediction that effortful, schema-testing learning produces better long-term outcomes than effortless processing, via different theoretical mechanisms.
 >
 > - **[[growth-mindset]]** — The growth mindset framework (Dweck) is aligned with constructivist epistemology at the motivational level: the belief that intelligence is malleable supports the accommodative engagement that constructivism requires. An entity theorist who believes ability is fixed has little motivation to undertake the effortful schema revision that genuine learning requires.
 >
@@ -1066,7 +1066,7 @@ The most productive open questions in the constructivist literature include: How
 > **Strengthened Permanent Notes:**
 >
 > This report adds substantial depth to the following existing permanent notes:
-> - **[[scaffolding]]** — Receives the full theoretical genealogy and mechanism account that the standalone note likely lacks.
+> - **[[Scaffolded Fading]]** — Receives the full theoretical genealogy and mechanism account that the standalone note likely lacks.
 > - **[[zone-of-proximal-development]]** — The current report contextualizes the ZPD within the full Vygotskian framework and traces its relationship to scaffolding.
 > - **[[assimilation-and-accommodation]]** — The mechanism account in Phase IV elaborates the dynamic interplay of these processes far beyond what a standalone definition can capture.
 > - **[[discovery-learning]]** — The report provides both the constructivist warrant for discovery learning and the empirical critique — context the standalone note may not fully convey.

@@ -1,6 +1,6 @@
 ---
-title: "Four-Component Instructional Design (4C/ID) (van Merriënboer, 1997)"
-aliases: [4C/ID, van Merriënboer model]
+title: Four-Component Instructional Design (4C/ID) (van Merriënboer, 1997)
+aliases: [4C/ID, van Merriënboer model, 4c/id, four component instructional design, van Merriënboer-97, task-based instruction]
 type: permanent-note
 status: evergreen
 confidence: high
@@ -15,10 +15,11 @@ review-frequency: quarterly
 mastery-stage: seedling
 provenance:
   source-type: report-extraction
-  pipeline-version: "3.0.0"
+  pipeline-version: 3.0.0
   source-reports: [four-component-instructional-design-model-4cid-foundational-report-2026-04-18]
   extraction-method: pkb-extractor-v1 → pipeline-v3
 ---
+
 
 # Four-Component Instructional Design (4C/ID) (van Merriënboer, 1997)
 
@@ -29,7 +30,7 @@ provenance:
 >
 > **Report-Specific Significance:** The model's four components constitute the structural architecture analyzed throughout this report, with each component linked to specific cognitive mechanisms.
 >
-> **See also:** [[four-component-instructional-design-4cid]], [[instructional-design]], [[Instructional-Design-Models-—-Overview]], [[jeroen-van-merriënboer]]
+> **See also:** [[four-component-instructional-design-4cid — Design Methodology for Complex Learning]], [[instructional-design]], [[Instructional-Design-Models-—-Overview]], [[Jeroen van Merriënboer]]
 
 ## Core Explanation
 
@@ -40,12 +41,63 @@ provenance:
 >
 > **Report-Specific Significance:** The model's four components constitute the structural architecture analyzed throughout this report, with each component linked to specific cognitive mechanisms.
 >
-> **See also:** [[four-component-instructional-design-4cid]], [[instructional-design]], [[Instructional-Design-Models-—-Overview]], [[jeroen-van-merriënboer]]
+> **See also:** [[four-component-instructional-design-4cid — Design Methodology for Complex Learning]], [[instructional-design]], [[Instructional-Design-Models-—-Overview]], [[Jeroen van Merriënboer]]
 > *— [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]*
+
+## Additional Material (Merged)
+
+> [!definition] The Four Components of 4C/ID
+> The [[four-component-instructional-design-4cid — Design Methodology for Complex Learning|Four Component Instructional Design]] model specifies four interrelated components for designing training programs for complex learning:
+>
+> 1. **Learning Tasks** — Authentic whole-task experiences organized in task classes of increasing complexity, providing the backbone of the learning process through which learners develop and integrate knowledge, skills, and attitudes.
+> 2. **Supportive Information** — The bridge between what learners already know and what they need to know to perform non-recurrent aspects of learning tasks, supporting schema construction through mental model elaboration and cognitive strategy development.
+> 3. **Procedural Information** — Just-in-time, step-by-step guidance for performing recurrent aspects of learning tasks, supporting rule automation through corrective feedback and gradually fading as performance becomes automated.
+> 4. **Part-Task Practice** — Additional practice opportunities for selected recurrent constituent skills that require a very high level of automaticity, supporting schema automation beyond what learning task practice alone can provide.
+>
+> **Boundary:** These four components describe the *instructional environment*, not the learning process itself. They specify what designers must provide, not what learners do mentally. The cognitive processes — schema construction and schema automation — are the targets; the four components are the means.
+>
+> **Report-Specific Significance:** This four-component architecture represents the model's core contribution to instructional design theory: a principled decomposition of the instructional environment based on cognitive function rather than content type.
+>
+> **See also:** [[Cognitive Scaffolding]], [[deliberate-practice]], [[the-worked-example-effect]], [[guidance-fading-principle]]
+
+> [!evidence] The Four Components of 4C/ID
+> The [[four-component-instructional-design-4cid — Design Methodology for Complex Learning|Four Component Instructional Design]] model specifies four interrelated components for designing training programs for complex learning:
+>
+> 1. **Learning Tasks** — Authentic whole-task experiences organized in task classes of increasing complexity, providing the backbone of the learning process through which learners develop and integrate knowledge, skills, and attitudes.
+> 2. **Supportive Information** — The bridge between what learners already know and what they need to know to perform non-recurrent aspects of learning tasks, supporting schema construction through mental model elaboration and cognitive strategy development.
+> 3. **Procedural Information** — Just-in-time, step-by-step guidance for performing recurrent aspects of learning tasks, supporting rule automation through corrective feedback and gradually fading as performance becomes automated.
+> 4. **Part-Task Practice** — Additional practice opportunities for selected recurrent constituent skills that require a very high level of automaticity, supporting schema automation beyond what learning task practice alone can provide.
+>
+> **Boundary:** These four components describe the *instructional environment*, not the learning process itself. They specify what designers must provide, not what learners do mentally. The cognitive processes — schema construction and schema automation — are the targets; the four components are the means.
+>
+> **Report-Specific Significance:** This four-component architecture represents the model's core contribution to instructional design theory: a principled decomposition of the instructional environment based on cognitive function rather than content type.
+>
+> **See also:** [[Cognitive Scaffolding]], [[deliberate-practice]], [[the-worked-example-effect]], [[guidance-fading-principle]]
+> *— [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]*
+
+> [!definition] Whole-Task Approach (van Merriënboer, 1997)
+> An instructional design philosophy that maintains the structural integrity of complex tasks throughout training, presenting learners with complete task experiences (albeit simplified and scaffolded) from the earliest stages of instruction, rather than decomposing complex tasks into isolated component skills that are taught and practiced separately before integration.
+>
+> **Boundary:** "Whole-task" does not mean "full-complexity." The approach uses simplified-but-complete versions of tasks. The distinction is between structural simplification (reducing complexity while preserving integration) and atomistic decomposition (removing components for isolated practice).
+>
+> **Report-Specific Significance:** The whole-task commitment is the model's foundational architectural decision, from which all four component specifications follow.
+>
+> **See also:** [[inert-knowledge]], [[transfer-of-learning]], [[situated-learning]]
+
+> [!evidence] Whole-Task Approach (van Merriënboer, 1997)
+> An instructional design philosophy that maintains the structural integrity of complex tasks throughout training, presenting learners with complete task experiences (albeit simplified and scaffolded) from the earliest stages of instruction, rather than decomposing complex tasks into isolated component skills that are taught and practiced separately before integration.
+>
+> **Boundary:** "Whole-task" does not mean "full-complexity." The approach uses simplified-but-complete versions of tasks. The distinction is between structural simplification (reducing complexity while preserving integration) and atomistic decomposition (removing components for isolated practice).
+>
+> **Report-Specific Significance:** The whole-task commitment is the model's foundational architectural decision, from which all four component specifications follow.
+>
+> **See also:** [[inert-knowledge]], [[transfer-of-learning]], [[situated-learning]]
+> *— [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]*
+
 
 ## Connections
 
-**Related:** [[four-component-instructional-design-4cid]] · [[jeroen-van-merriënboer]] · [[instructional-design]] · [[cognitive-load-theory]] · [[schema-formation]] · [[cognitive-architecture]] · [[schema-automation]] · [[germane-cognitive-load]] · [[working-memory]] · [[intrinsic-cognitive-load]] · [[expertise-reversal-effect]] · [[deliberate-practice]] · [[instructional-design]] · [[cognitive-architecture]] · [[element-interactivity]] · [[element-interactivity]] · [[cognitive-load-theory]] · [[transfer-of-learning]] · [[inert-knowledge]] · [[inert-knowledge]] · [[transfer-of-learning]] · [[four-component-instructional-design-4cid]] · [[cognitive-load-theory]] · [[schema-formation]] · [[schema-automation]] · [[cognitive-load-theory]] · [[john-sweller]] · [[fred-paas]] · [[jeroen-van-merriënboer]] · [[working-memory]] · [[long-term-memory]] · [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]] · [[germane-cognitive-load]] · [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]] · [[germane-cognitive-load]] · [[element-interactivity]] · [[working-memory]] · [[element-interactivity]] · [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]] · [[split-attention-effect]] · [[redundancy-effect]] · [[modality-effect]] · [[germane-cognitive-load]] · [[schema-formation]] · [[long-term-memory]] · [[schema-automation]] · [[act-r-theory]] · [[automaticity]] · [[four-component-instructional-design]] · [[cognitive-scaffolding]] · [[deliberate-practice]] · [[the-worked-example-effect]] · [[guidance-fading-principle]] · [[transfer-of-learning]] · [[faded-worked-example]] · [[Completion-Problem-Effect]] · [[guidance-fading-principle]] · [[mental-model]] · [[automaticity]] · [[intrinsic-cognitive-load]] · [[desirable-difficulties]] · [[self-explanation-effect]] · [[productive-failure]] · [[expertise-reversal-effect]] · [[schema-automation]] · [[automaticity]] · [[Cognitive-Skill-Acquisition]] · [[automaticity]] · [[act-r-theory]] · [[deliberate-practice]] · [[act-r-theory]] · [[deliberate-practice]] · [[interleaving]] · [[assessment-design]] · [[formative-assessment]] · [[cognitive-task-analysis]] · [[cognitive-constructivism]] · [[cognitive-task-analysis]] · [[Bloom's-Taxonomy]] · [[productive-failure]] · [[germane-cognitive-load]] · [[expertise-reversal-effect]] · [[Adaptive-Instruction]] · [[educational-technology]] · [[self-regulated-learning]] · [[schema-formation]] · [[schema-automation]] · [[expertise-reversal-effect]] · [[productive-failure]] · [[desirable-difficulties]] · [[cognitive-task-analysis]] · [[transfer-of-learning]] · [[far-transfer]] · [[cognitive-apprenticeship]] · [[deliberate-practice]] · [[Cognitive-Skill-Acquisition]] · [[Clinical-Reasoning]] · [[cognitive-task-analysis]] · [[expertise-reversal-effect]] · [[mental-model]] · [[self-regulated-learning]] · [[metacognition]] · [[meaningful-learning]] · [[competency-based-learning]] · [[situated-learning]] · [[communities-of-practice]] · [[instructional-design]] · [[schema-formation]] · [[schema-automation]] · [[schema-formation]] · [[schema-automation]] · [[four-component-instructional-design-4cid]] · [[instructional-design]] · [[Instructional-Design-Models-—-Overview]] · [[jeroen-van-merriënboer]] · [[cognitive-scaffolding]] · [[the-worked-example-effect]] · [[faded-worked-example]] · [[Completion-Problem-Effect]] · [[elaboration]] · [[meaningful-learning]] · [[schema-formation]] · [[mental-model]] · [[cognitive-constructivism]] · [[elaboration]] · [[act-r-theory]] · [[schema-automation]] · [[automaticity]] · [[guidance-fading-principle]] · [[deliberate-practice]] · [[automaticity]] · [[schema-automation]] · [[working-memory]] · [[intrinsic-cognitive-load]] · [[element-interactivity]] · [[cognitive-load-theory]] · [[intrinsic-cognitive-load]] · [[working-memory]] · [[schema-formation]] · [[Cognitive-Skill-Acquisition]] · [[cognitive-task-analysis]] · [[schema-automation]] · [[automaticity]] · [[deliberate-practice]] · [[cognitive-scaffolding]] · [[element-interactivity]] · [[intrinsic-cognitive-load]] · [[inert-knowledge]] · [[transfer-of-learning]] · [[situated-learning]] · [[john-sweller]] · [[fred-paas]] · [[cognitive-load-theory]] · [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]] · [[germane-cognitive-load]] · [[the-worked-example-effect]] · [[split-attention-effect]] · [[redundancy-effect]] · [[modality-effect]] · [[expertise-reversal-effect]] · [[Adaptive-Instruction]] · [[expertise-reversal-effect]] · [[act-r-theory]] · [[expertise-reversal-effect]] · [[cognitive-load-theory]] · [[cognitive-load-theory]] · [[cognitive-architecture]] · [[cognitive-task-analysis]] · [[four-component-instructional-design-4cid]] · [[cognitive-architecture]] · [[working-memory]] · [[Adaptive-Instruction]] · [[four-component-instructional-design-4cid]] · [[expertise-reversal-effect]] · [[cognitive-load-theory]] · [[productive-failure]] · [[cognitive-load-theory]] · [[desirable-difficulties]] · [[cognitive-scaffolding]] · [[deliberate-practice]] · [[Cognitive-Skill-Acquisition]] · [[automaticity]] · [[schema-automation]] · [[worked-example-effect]] · [[cognitive-load-theory]] · [[schema-formation]] · [[self-explanation-effect]] · [[cognitive-load-theory]] · [[cognitive-architecture]] · [[working-memory]] · [[schema-formation]] · [[schema-automation]] · [[act-r-theory]] · [[instructional-design]] · [[competency-based-learning]] · [[assessment-design]] · [[educational-technology]] · [[self-regulated-learning]] · [[transfer-of-learning]] · [[cognitive-scaffolding]] · [[expertise-reversal-effect]] · [[productive-failure]] · [[deliberate-practice]] · [[desirable-difficulties]] · [[four-component-instructional-design-4cid]] · [[jeroen-van-merriënboer]] · [[intrinsic-cognitive-load]] · [[inert-knowledge]] · [[Cognitive-Skill-Acquisition]]
+**Related:** [[four-component-instructional-design-4cid — Design Methodology for Complex Learning]] · [[Jeroen van Merriënboer]] · [[instructional-design]] · [[Cognitive Load Theory (CLT)]] · [[schema-formation]] · [[Cognitive Architecture]] · [[Schema Automation]] · [[Cognitive Load Theory (CLT)]] · [[working-memory]] · [[Cognitive Load Theory (CLT)]] · [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] · [[deliberate-practice]] · [[Technical Detail: The relationship between element interactivity and working-memory load]] · [[transfer-of-learning]] · [[inert-knowledge]] · [[john-sweller]] · [[Fred Paas]] · [[long-term-memory]] · [[Cognitive Load Theory (CLT)]] · [[split-attention-effect]] · [[redundancy-effect]] · [[Modality Effect]] · [[act-r-theory]] · [[automaticity]] · [[four-component-instructional-design-4cid — Design Methodology for Complex Learning]] · [[Cognitive Scaffolding]] · [[the-worked-example-effect]] · [[guidance-fading-principle]] · [[faded-worked-example]] · [[Completion-Problem-Effect]] · [[mental-model]] · [[Desirable Difficulties (Robert Bjork, 1994)]] · [[self-explanation-effect]] · [[Productive Failure]] · [[Cognitive-Skill-Acquisition]] · [[Desirable Difficulties (Robert Bjork, 1994)]] · [[assessment-design]] · [[formative-assessment]] · [[cognitive-task-analysis]] · [[cognitive-constructivism]] · [[Bloom's-Taxonomy]] · [[Adaptive-Instruction]] · [[educational-technology]] · [[self-regulated-learning]] · [[far-transfer]] · [[cognitive-apprenticeship]] · [[Clinical-Reasoning]] · [[metacognition]] · [[meaningful-learning]] · [[competency-based-learning]] · [[situated-learning]] · [[communities-of-practice]] · [[Instructional-Design-Models-—-Overview]] · [[elaboration]] · [[the-worked-example-effect]]
 
 ```dataview
 LIST FROM [[Four-Component Instructional Design (4CID) (van Merriënboer, 1997)]]

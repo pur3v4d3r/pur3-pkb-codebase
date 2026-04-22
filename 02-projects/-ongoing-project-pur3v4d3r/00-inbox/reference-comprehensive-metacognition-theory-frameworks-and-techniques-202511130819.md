@@ -284,7 +284,7 @@ Strategy variables represent the learner's cognitive toolkit—the collection of
 - Grasping the cognitive principles underlying strategy effectiveness
 
 > [!example]
-> **Strategy Knowledge in Action: [[elaborative-interrogation]]**
+> **Strategy Knowledge in Action: [[Elaborative Interrogation]]**
 > - **Declarative**: "Elaborative interrogation means asking yourself 'why' questions about facts"
 > - **Procedural**: "Generate specific 'why' questions for each key concept, then answer them using prior knowledge and logical inference"
 > - **Conditional**: "Use this when learning conceptual material with causal relationships; less effective for arbitrary associations or rote memorization"
@@ -302,7 +302,7 @@ Effective self-directed learners cultivate broad strategy repertoires across mul
 **Metacognitive Strategies** (operate on learning process):
 - [[Self-Questioning]] (monitoring comprehension)
 - [[Think-Aloud Protocols]] (externalizing reasoning)
-- [[self-explanation]] (articulating understanding)
+- [[self-explanation-effect]] (articulating understanding)
 - [[Error Analysis]] (learning from mistakes)
 
 **Resource Management Strategies**:

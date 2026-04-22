@@ -474,7 +474,7 @@ status: active
 
 ### For 04-literature-notes:
 ```yaml
-concepts: [[cognitive-load-theory]], [[spaced-repetition]]
+concepts: [[Cognitive Load Theory (CLT)]], [[spaced-repetition]]
 field: cognitive-science
 source: [[Book Title]]
 ```

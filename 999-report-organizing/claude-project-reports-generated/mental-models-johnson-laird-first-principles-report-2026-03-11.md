@@ -26,9 +26,9 @@ related_concepts:
   - "[[dual-process-theory|Dual Process Theory]]"
   - "[[propositional-representation|Propositional Representation]]"
   - "[[analogical-reasoning|Analogical Reasoning]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[deductive-reasoning|Deductive Reasoning]]"
-  - "[[cognitive-architecture|Cognitive Architecture]]"
+  - "[[Cognitive Architecture|Cognitive Architecture]]"
   - "[[Model Semantics]]"
   - "[[mental-simulation|Mental Simulation]]"
 knowledge_level: advanced
@@ -89,7 +89,7 @@ builds_on:
   - "[[Craik (1943) The Nature of Explanation]]"
   - "[[Model-Theoretic Semantics]]"
 extends:
-  - "[[schema-theory|Schema Theory (Bartlett, Rumelhart)]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory (Bartlett, Rumelhart)]]"
   - "[[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]]"
 
 aliases:
@@ -397,7 +397,7 @@ A [[socratic-dialogue-report|Socratic Dialogue Report]] on this topic would prod
 >
 > - **[[dual-process-theory|Dual Process Theory]]** — The dissolution of the rule/model dichotomy in Phase II opens direct connection to dual-process frameworks. System 1 (heuristic, fast, associative) and System 2 (analytic, slow, deliberative) may each employ *both* rule-like and model-like operations at different granularities; the level of analysis matters. The pragmatic construction insight from Phase IV aligns with recent dual-process accounts where System 2 intervenes to construct alternative representations when System 1 constructions are flagged as insufficient.
 >
-> - **[[schema-theory|Schema Theory (Bartlett, Rumelhart)]]** — Axiom 2 (representational construction) is the point of deepest overlap with schema theory. Both traditions hold that representation is active, elaborative, and prior-knowledge-dependent. The distinction is that schema theory specifies the schematic structure of prior knowledge; mental models theory specifies the model-like structure of the current-situation representation. Integrating these accounts yields the insight that schemas provide the *building blocks* for mental model construction — a synthesis that neither theory fully articulates on its own.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory (Bartlett, Rumelhart)]]** — Axiom 2 (representational construction) is the point of deepest overlap with schema theory. Both traditions hold that representation is active, elaborative, and prior-knowledge-dependent. The distinction is that schema theory specifies the schematic structure of prior knowledge; mental models theory specifies the model-like structure of the current-situation representation. Integrating these accounts yields the insight that schemas provide the *building blocks* for mental model construction — a synthesis that neither theory fully articulates on its own.
 >
 > - **[[Situation-Models-van-Dijk-&-Kintsch|Situation Models (van Dijk & Kintsch)]]** — The situation model framework in discourse comprehension is Johnson-Laird's closest intellectual neighbor, and arguably the most successful application of the mental models construct. Situation models have generated an extensive empirical literature (foregrounding effects, spatial and temporal situation dimensions) with cleaner operationalization than the reasoning literature. Insights from that literature — particularly that comprehenders construct multi-dimensional representations that are updated dynamically — should feed back into the reasoning literature more than they currently do.
 >

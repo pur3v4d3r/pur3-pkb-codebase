@@ -141,7 +141,7 @@ related:
   - "[[self-regulated-learning]]"
   - "[[situation-model]]"
   - "[[schema-theory-and-learning]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[silent-reading-fluency]]"
 
 broader:
@@ -162,12 +162,12 @@ see-also:
   - "[[cog-sci-pkm-the-role-of-reading-in-pkm]]"
 
 contrasts-with:
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[shallow-processing]]"
 
 applied-in:
   - "[[personal-knowledge-management]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[formative-assessment]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -175,13 +175,13 @@ applied-in:
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[metacognition]]"
-  - "[[cognitive-load-theory]]"
-  - "[[schema-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[working-memory-in-reading]]"
 
 enables:
   - "[[self-regulated-learning-srl]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[writing-to-learn-focused-analysis-2026-03-21]]"
 
 expansion-topics:
@@ -285,14 +285,14 @@ The cognitive architecture of text comprehension is best understood in terms of 
 
 [**Situation-Model-Definition**:: The situation model (also called a mental model of the text) is the reader's integrated representation of the entities, events, causal relationships, spatial configurations, and temporal sequences that the text describes, enriched by inference and prior knowledge beyond what the text explicitly states. It is the "mental movie" of the text, not an encoding of its words or even its explicit propositions. Strong situation model construction requires active inference generation, prior knowledge activation, and the causal integration of new propositions with existing ones. Weak situation models — produced by passive, surface-level reading — support low-level questions but fail to support reasoning, application, or transfer.]
 
-The metacognitive significance of this architecture is profound: a reader can achieve textbase-level processing — forming accurate propositional representations of what each sentence explicitly states — while completely failing to construct a coherent situation model. Such a reader may experience the [[fluency-illusion]]: the subjective sense of having understood a passage because the surface-level processing was smooth, even when deeper integration has not occurred. The fluency illusion is the prototypical metacognitive monitoring failure in mature reading.
+The metacognitive significance of this architecture is profound: a reader can achieve textbase-level processing — forming accurate propositional representations of what each sentence explicitly states — while completely failing to construct a coherent situation model. Such a reader may experience the [[Fluency Illusion]]: the subjective sense of having understood a passage because the surface-level processing was smooth, even when deeper integration has not occurred. The fluency illusion is the prototypical metacognitive monitoring failure in mature reading.
 
 > [!definition] **Fluency Illusion**
 > The fluency illusion is a metacognitive failure mode in which the ease of surface-level processing (decoding, lexical retrieval, syntactic parsing) is wrongly interpreted by the monitoring system as a signal of comprehension. Because [[fluency]] at the word and sentence level does not carry information about whether those words and sentences have been integrated into a coherent situation model, the fluency illusion causes readers to systematically overestimate comprehension when the text is familiar in vocabulary or syntactic structure, even when semantic integration has not proceeded beyond the textbase level.
 >
 > **Common Misconception:** The fluency illusion is often treated as a problem of careless or unskilled readers. In fact, it systematically affects expert readers in domains outside their expertise, and even expert readers within their domain read with less comprehension monitoring than their performance warrants when the text is linguistically familiar.
 >
-> **See also:** [[fluency-illusion]], [[metacognitive-accuracy]], [[comprehension-monitoring]], [[illusion-of-knowing]]
+> **See also:** [[Fluency Illusion]], [[metacognitive-accuracy]], [[comprehension-monitoring]], [[illusion-of-knowing]]
 
 ### 2.3 The Nelson-Narens Architecture Applied to Reading
 
@@ -301,7 +301,7 @@ The metacognitive significance of this architecture is profound: a reader can ac
 Four metacognitive judgments operate with particular salience in the reading context: (1) [[Ease-of-Learning]] judgments (EoL), made prospectively about how easy a given text or section will be to learn; (2) [[judgment-of-learning]] judgments (JoL), made during or after reading about how well the material has been understood; (3) [[feeling-of-knowing]] judgments (FoK), made when specific comprehension questions arise about whether the answer is somewhere accessible in memory; and (4) *confidence judgments*, made after responding to comprehension questions about the likelihood that the response is correct. Metacognitive reading skill depends critically on the *accuracy* of these judgments — the degree to which they track actual comprehension — not merely their presence.
 
 > [!insight]
-> The [[monitoring-control-coupling]] principle, derived from Nelson-Narens, implies that the benefit of metacognitive monitoring during reading is conditional on whether accurate monitoring signals are actually transmitted to control processes. A reader may notice reading difficulty but fail to act on it (monitoring-control decoupling), or may act on monitoring signals that are themselves inaccurate (accurate control of inaccurate signal). Both pathologies produce different, identifiable failure patterns in comprehension.
+> The [[Monitoring-Control Coupling]] principle, derived from Nelson-Narens, implies that the benefit of metacognitive monitoring during reading is conditional on whether accurate monitoring signals are actually transmitted to control processes. A reader may notice reading difficulty but fail to act on it (monitoring-control decoupling), or may act on monitoring signals that are themselves inaccurate (accurate control of inaccurate signal). Both pathologies produce different, identifiable failure patterns in comprehension.
 
 ---
 
@@ -319,7 +319,7 @@ The early empirical work stimulated by Flavell's framework demonstrated, with st
 
 [[ann-l.-brown]] occupies a position of singular importance in translating Flavell's theoretical framework into an empirical and instructional program focused on reading. Brown's contributions operated at three levels: theoretical (elaborating the metacognitive taxonomy as it applies to text processing), empirical (demonstrating the comprehension monitoring deficits of poor readers and younger students through ingenious experimental paradigms), and pedagogical (developing and testing instructional approaches that explicitly cultivated metacognitive reading skills, most notably Reciprocal Teaching, developed in collaboration with Annemarie Sullivan Palincsar).
 
-Brown distinguished between the *evaluation* and *regulation* functions of comprehension monitoring — a distinction that anticipates and partially overlaps with the later [[monitoring-control-coupling]] framework. Evaluation involves detecting that a comprehension problem exists; regulation involves doing something about it. The most common metacognitive reading intervention failure, Brown argued, is not in the evaluation phase per se but in the translation from detected difficulty to appropriate regulatory response. Poor readers and struggling comprehenders often detect that something is wrong but lack the strategic repertoire to respond effectively — they know they are lost but do not know how to find their way back.
+Brown distinguished between the *evaluation* and *regulation* functions of comprehension monitoring — a distinction that anticipates and partially overlaps with the later [[Monitoring-Control Coupling]] framework. Evaluation involves detecting that a comprehension problem exists; regulation involves doing something about it. The most common metacognitive reading intervention failure, Brown argued, is not in the evaluation phase per se but in the translation from detected difficulty to appropriate regulatory response. Poor readers and struggling comprehenders often detect that something is wrong but lack the strategic repertoire to respond effectively — they know they are lost but do not know how to find their way back.
 
 > [!key-claim]
 > Brown's empirical thesis, supported across a substantial body of research, establishes that skilled reading is not merely fluent reading; it is *self-regulated* reading in which the reader continuously evaluates the coherence and adequacy of their comprehension and deploys strategies as comprehension failures are detected. The strategic reading repertoire is the behavioral face of [[regulation-of-cognition]].
@@ -350,7 +350,7 @@ The motivational dimension of self-regulated reading deserves extended treatment
 Craik and Lockhart's [[levels-of-processing-theory]] (1972) provides a complementary theoretical lens. The depth-of-processing continuum maps directly onto reading engagement: shallow processing (graphemic, phonological, and syntactic levels) produces brief retention of surface form; deep processing (semantic, elaborative, inferential engagement with meaning) produces durable situation model construction and long-term retention. Metacognitive reading strategies — self-questioning, elaborative interrogation, inference generation — are, from the levels-of-processing perspective, operations that enforce deep processing and prevent the reader from remaining at the textbase level.
 
 > [!insight]
-> The levels-of-processing framework offers an important mechanistic insight: metacognitive engagement during reading is not merely *about* comprehension in an instrumental sense; it is one of the primary *drivers* of deep processing. The reader who asks "what does this mean, and how does it connect to what I already know?" is, in the levels-of-processing framework, enforcing deeper encoding by generating additional semantic elaboration. [[elaborative-interrogation]] — the strategy of generating "why" explanations for factual statements — is the reading-domain instantiation of this principle.
+> The levels-of-processing framework offers an important mechanistic insight: metacognitive engagement during reading is not merely *about* comprehension in an instrumental sense; it is one of the primary *drivers* of deep processing. The reader who asks "what does this mean, and how does it connect to what I already know?" is, in the levels-of-processing framework, enforcing deeper encoding by generating additional semantic elaboration. [[Elaborative Interrogation]] — the strategy of generating "why" explanations for factual statements — is the reading-domain instantiation of this principle.
 
 ---
 
@@ -384,7 +384,7 @@ Skilled reading comprehension is inference-dense: the sentence "The book fell of
 
 ### 4.4 The Role of Prior Knowledge Activation
 
-[[prior-knowledge]] activation is the most powerful single moderator of metacognitive reading success. Background knowledge provides the inferential scaffolding that enables situation model construction; it populates the reader's schematic structures ([[schema-theory]]) with the specific content that inferential bridging can draw upon; and it serves as the benchmark against which external consistency monitoring operates. A reader without prior knowledge in a domain cannot monitor for external consistency failures — they cannot detect when the text contradicts what they know because they know too little to have anything to contrast the text against.
+[[prior-knowledge]] activation is the most powerful single moderator of metacognitive reading success. Background knowledge provides the inferential scaffolding that enables situation model construction; it populates the reader's schematic structures ([[schema-theory-and-knowledge-organization]]) with the specific content that inferential bridging can draw upon; and it serves as the benchmark against which external consistency monitoring operates. A reader without prior knowledge in a domain cannot monitor for external consistency failures — they cannot detect when the text contradicts what they know because they know too little to have anything to contrast the text against.
 
 The [[schema-theory-and-learning|schema theory]] framework, particularly as developed through Bartlett's constructive memory research, provides the cognitive infrastructure for understanding prior knowledge's role: [[schema-automation-in-reading|automated schemas]] enable fluent parsing of familiar text structures, while unfamiliar schemas require effortful, metacognitive construction. The presence of highly activated schemas can, paradoxically, interfere with comprehension — schema-driven slot-filling may cause readers to assimilate textual content into prior schemas rather than accommodating genuinely novel information, a failure mode Bartlett documented as "rationalization" in his reconstructive memory experiments.
 
@@ -393,7 +393,7 @@ The [[schema-theory-and-learning|schema theory]] framework, particularly as deve
 
 ### 4.5 Working Memory Constraints and the Regulation-Load Tradeoff
 
-[[Baddeley's-Working-Memory-Model]] — with its [[phonological-loop]], [[visuospatial-sketchpad]], [[episodic-buffer]], and [[central-executive]] components — provides the cognitive architecture within which reading metacognition must operate. The [[cognitive-load-theory]] framework integrates directly: [[intrinsic-cognitive-load]] in reading is determined by the element interactivity of the text's content; [[extraneous-cognitive-load]] is produced by poor text design, distracting environmental conditions, or inadequate decoding automaticity; and germane load — broadly, the resources devoted to schema construction and comprehension monitoring — depends on the residual capacity remaining after intrinsic and extraneous demands are met.
+[[Baddeley's-Working-Memory-Model]] — with its [[phonological-loop]], [[visuospatial-sketchpad]], [[episodic-buffer]], and [[central-executive]] components — provides the cognitive architecture within which reading metacognition must operate. The [[Cognitive Load Theory (CLT)]] framework integrates directly: [[Cognitive Load Theory (CLT)]] in reading is determined by the element interactivity of the text's content; [[Cognitive Load Theory (CLT)]] is produced by poor text design, distracting environmental conditions, or inadequate decoding automaticity; and germane load — broadly, the resources devoted to schema construction and comprehension monitoring — depends on the residual capacity remaining after intrinsic and extraneous demands are met.
 
 The load-regulation tradeoff is a central mechanism through which reading difficulty degrades metacognitive performance: as intrinsic or extraneous load increases, the cognitive resources available for metacognitive monitoring — itself a working-memory-demanding process — diminish. This produces the counterintuitive but empirically well-supported phenomenon that readers are most likely to fail to detect comprehension failures precisely when the text is most difficult — the conditions under which monitoring is most needed are precisely those under which monitoring capacity is most taxed. The [[matthew-effect-in-reading]] captures one consequence: because reading difficulties reduce metacognitive capacity, poor readers remain poor readers — their comprehension monitoring deficits compound their comprehension deficits in a self-reinforcing cycle.
 
@@ -428,9 +428,9 @@ The [[kwl-strategy]] (Ogle, 1986) — structured around three questions: What do
 
 Annotation — the systematic marking, marginal notation, and note-taking that occurs during reading — can be analyzed as an externalization of metacognitive reading processes. When a reader underlines a passage, writes a question in the margin, records a summary, or flags a passage as contradicting prior knowledge, they are performing cognitive operations — evaluating relevance, detecting comprehension sensitivity, synthesizing meaning — that in purely internal reading remain invisible and are therefore difficult to monitor and regulate.
 
-From the [[metacognitive-scaffolding]] perspective, annotation systems serve as *externalized regulatory protocols* that support comprehension monitoring for readers whose internal monitoring is insufficiently reliable or persistent. The annotation record also serves as a post-reading evaluation tool: reviewing one's own annotations permits gap detection and spaced re-engagement with challenging material, linking reading practice to [[spaced-repetition]] and [[Testing-Effect|retrieval practice]] principles.
+From the [[Metacognitive Scaffolding]] perspective, annotation systems serve as *externalized regulatory protocols* that support comprehension monitoring for readers whose internal monitoring is insufficiently reliable or persistent. The annotation record also serves as a post-reading evaluation tool: reviewing one's own annotations permits gap detection and spaced re-engagement with challenging material, linking reading practice to [[spaced-repetition]] and [[Testing-Effect|retrieval practice]] principles.
 
-However, annotation research reveals important limitations: passive highlighting — arguably the most common annotation practice — provides little evidence of metacognitive engagement and is associated with the [[fluency-illusion]] rather than genuine comprehension monitoring. Effective annotation requires the generation of content-transforming marks — questions, summaries, connections, evaluations — rather than topographic marking of verbatim text. The distinction between highlighting and generative annotation is a practical instantiation of the [[shallow-processing|shallow vs. deep processing]] divide.
+However, annotation research reveals important limitations: passive highlighting — arguably the most common annotation practice — provides little evidence of metacognitive engagement and is associated with the [[Fluency Illusion]] rather than genuine comprehension monitoring. Effective annotation requires the generation of content-transforming marks — questions, summaries, connections, evaluations — rather than topographic marking of verbatim text. The distinction between highlighting and generative annotation is a practical instantiation of the [[shallow-processing|shallow vs. deep processing]] divide.
 
 ### 5.5 Limitations of the Field
 
@@ -495,7 +495,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 >
 > **Research Status:** Among the best-established empirical findings in reading psychology: deficits in comprehension monitoring reliably distinguish skilled from unskilled comprehenders, independent of decoding ability or vocabulary size.
 >
-> **See also:** [[comprehension-monitoring]], [[metacognitive-monitoring]], [[fix-up-strategy]], [[fluency-illusion]], [[monitoring-control-coupling]]
+> **See also:** [[comprehension-monitoring]], [[metacognitive-monitoring]], [[fix-up-strategy]], [[Fluency Illusion]], [[Monitoring-Control Coupling]]
 
 > [!definition] **Situation Model (van Dijk & Kintsch, 1983)**
 > The reader's integrated mental representation of the state of affairs described by a text — the "mental simulation" of the text's referential world, built from textual propositions enriched by inference and prior knowledge beyond what the text explicitly states. Distinguished from the [[textbase]] (propositional representation of explicit text content) and the surface code (verbatim textual form). Situation model construction is the defining criterion of deep reading comprehension.
@@ -520,7 +520,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 >
 > **Common Misconception:** The fluency illusion is sometimes treated as a beginner's error. In fact, it systematically affects expert readers processing familiar-territory texts; linguistic fluency is such a strong comprehension-signal cue that it overrides monitoring evidence from deeper processing levels even in experienced readers.
 >
-> **See also:** [[fluency-illusion]], [[fluency]], [[metacognitive-accuracy]], [[illusion-of-knowing]], [[shallow-processing]]
+> **See also:** [[Fluency Illusion]], [[fluency]], [[metacognitive-accuracy]], [[illusion-of-knowing]], [[shallow-processing]]
 
 > [!definition] **Metacognitive Knowledge of Reading (Paris, Cross, & Lipson, 1984)**
 > The reader's stable, long-term knowledge about reading as a cognitive activity, including declarative knowledge (facts about reading strategies and text genres), procedural knowledge (how to execute specific strategies), and conditional knowledge (when and why particular strategies are appropriate). Metacognitive reading knowledge is necessary but not sufficient for metacognitive reading practice; the conditional dimension — strategic appropriateness knowledge — is the most critical and most commonly underdeveloped component.
@@ -539,12 +539,12 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 >
 > **Boundary:** Reciprocal teaching is not merely a discussion protocol; its effectiveness is entirely contingent on authentic engagement with the metacognitive-regulatory logic of each strategy. Procedural compliance without metacognitive engagement produces minimal comprehension gains.
 >
-> **See also:** [[metacognitive-scaffolding]], [[scaffolding]], [[ann-l.-brown]], [[comprehension-monitoring]]
+> **See also:** [[Metacognitive Scaffolding]], [[Scaffolded Fading]], [[ann-l.-brown]], [[comprehension-monitoring]]
 
 > [!definition] **Monitoring-Control Coupling**
 > The functional relationship between the monitoring component of metacognition (detection of cognitive state information) and the control component (adjustment of cognitive processes in response to monitoring information). Strong monitoring-control coupling implies that accurate monitoring signals reliably trigger appropriate regulatory responses; weak coupling implies that monitoring detects problems that do not produce regulatory responses, or that control operates on monitoring signals without behavioral consequences. Reading comprehension deficits can arise from failure at either component or from failure of their coupling.
 >
-> **See also:** [[monitoring-control-coupling]], [[monitoring-regulation-coupling]], [[nelson-narens-model]], [[regulation-of-cognition]]
+> **See also:** [[Monitoring-Control Coupling]], [[monitoring-regulation-coupling]], [[nelson-narens-model]], [[regulation-of-cognition]]
 
 > [!definition] **Verbal Efficiency Theory (Perfetti, 1985)**
 > The theoretical account of reading comprehension differences in terms of the efficiency with which reader's lexical access processes operate. Verbal efficiency theory posits that comprehension is constrained by the speed and automaticity of lexical-phonological retrieval; inefficient word recognition imposes extraneous load on working memory, reducing the cognitive resources available for comprehension processes including metacognitive monitoring. The theory provides a cognitive-architecture account of why [[reading-fluency|reading fluency]] is a necessary condition for comprehension at moderate-to-high text complexity.
@@ -556,7 +556,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 > [!definition] **Elaborative Interrogation**
 > A metacognitive reading strategy in which the reader generates explanatory "why" or "how" questions about text propositions and attempts to answer them, thereby enforcing deep semantic processing and integration of new information with prior knowledge. Elaborative interrogation operationalizes the depth-of-processing principle: generating explanatory elaborations creates deeper encoding traces than passive comprehension. Research by Pressley and colleagues demonstrates effect sizes in the 0.60–0.90 range for factual learning from text when elaborative interrogation is used.
 >
-> **See also:** [[elaborative-interrogation]], [[levels-of-processing-theory]], [[processing-depth]], [[prior-knowledge]], [[generative-processing]]
+> **See also:** [[Elaborative Interrogation]], [[levels-of-processing-theory]], [[processing-depth]], [[prior-knowledge]], [[generative-processing]]
 
 ---
 
@@ -660,7 +660,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 >
 > **Current Evidence:** Meta-analytic evidence slightly favors integrated strategy instruction for long-term reading comprehension outcomes; single-strategy instruction produces larger immediate effects but smaller transfer.
 >
-> **See also:** [[conditional-metacognitive-knowledge]], [[metacognitive-scaffolding]], [[self-regulated-learning]]
+> **See also:** [[conditional-metacognitive-knowledge]], [[Metacognitive Scaffolding]], [[self-regulated-learning]]
 
 ---
 
@@ -856,7 +856,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 > >
 > > **Priority:** Critical
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[cognitive-architecture]], [[working-memory]], [[schema-theory]]
+> > **Prerequisites:** [[Cognitive Architecture]], [[working-memory]], [[schema-theory-and-knowledge-organization]]
 
 > > [!topic-idea] [[Reciprocal Teaching — Design and Evidence]]
 > > **Description:** A comprehensive focused analysis of reciprocal teaching — covering its theoretical foundations in both the Flavell-Brown metacognitive tradition and Vygotsky's Zone of Proximal Development, its implementation requirements, the 35-year meta-analytic evidence base, failure modes, and extensions. Would establish this pedagogically critical intervention as a PKB node in its own right.
@@ -865,7 +865,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 > >
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[metacognitive-scaffolding]], [[scaffolding]], [[ann-l.-brown]], [[zone-of-proximal-development]]
+> > **Prerequisites:** [[Metacognitive Scaffolding]], [[Scaffolded Fading]], [[ann-l.-brown]], [[zone-of-proximal-development]]
 
 > > [!topic-idea] [[metacognitive-accuracy]]
 > > **Description:** A foundational treatment of metacognitive calibration and accuracy — covering the Erev-Yates calibration model, overconfidence in text comprehension, Dunning-Kruger effects in reading, the accuracy-engagement tradeoff, and instructional approaches to improving calibration. The accuracy dimension of comprehension monitoring — whether monitoring signals track actual comprehension — is the most important and least instructionally addressed aspect of metacognitive reading.
@@ -883,7 +883,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[reading-fluency]], [[cognitive-load-theory]], [[self-efficacy]]
+> > **Prerequisites:** [[reading-fluency]], [[Cognitive Load Theory (CLT)]], [[self-efficacy]]
 
 > > [!topic-idea] [[Digital Reading and Metacognition]]
 > > **Description:** A focused analysis addressing the qualitatively different metacognitive demands of digital reading — hypertextual navigation decisions, multimodal comprehension monitoring, screen attentional ecology, and the evidence on comprehension differences between screen and print. This limitation was identified in Phase V.5; it warrants dedicated treatment given the dominance of digital text in contemporary reading contexts.
@@ -923,7 +923,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 >
 > - **[[metacognition]]** — The entire architecture of this report derives from the foundational metacognition node; the reading domain is an application domain for the more general metacognitive constructs (monitoring, knowledge, regulation).
 >
-> - **[[cognitive-load-theory]]** — The load-regulation tradeoff in Phase IV.5 is a direct application of CLT to reading; the intrinsic/extraneous/germane distinction explains why decoding automaticity is a precondition for metacognitive monitoring at the situation-model level.
+> - **[[Cognitive Load Theory (CLT)]]** — The load-regulation tradeoff in Phase IV.5 is a direct application of CLT to reading; the intrinsic/extraneous/germane distinction explains why decoding automaticity is a precondition for metacognitive monitoring at the situation-model level.
 >
 > - **[[schema-theory-and-learning]]** — Prior knowledge activation, schema-driven inference generation, and the assimilation-accommodation tradeoff in reading are direct applications of schema theory; the schema automation in reading discussion in Phase IV.4 derives from this foundation.
 >
@@ -933,7 +933,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 >
 > **Downstream Applications (this report enables):**
 >
-> - **[[metacognitive-scaffolding]]** — This report provides the theoretical and empirical foundation for designing reading-specific metacognitive scaffolding; the four-layer monitoring architecture from Phase VI provides design targets.
+> - **[[Metacognitive Scaffolding]]** — This report provides the theoretical and empirical foundation for designing reading-specific metacognitive scaffolding; the four-layer monitoring architecture from Phase VI provides design targets.
 >
 > - **[[personal-knowledge-management]]** — Reading is the primary intake process for a PKB; metacognitive reading principles directly govern how information enters the knowledge base at appropriate depth. The report operationalizes what "reading for the PKB" should look like.
 >
@@ -951,7 +951,7 @@ Fourth, **close the monitoring-control loop.** Noticing comprehension difficulty
 >
 > - **[[comprehension-monitoring]]** — This report provides the most comprehensive treatment of comprehension monitoring in the PKB; the existing stub note should be linked back to this report as its primary elaboration.
 >
-> - **[[fluency-illusion]]** — The fluency illusion receives an Extended treatment here that connects it to the broader monitoring-level architecture; this report should be the primary forward reference from the flillusion note.
+> - **[[Fluency Illusion]]** — The fluency illusion receives an Extended treatment here that connects it to the broader monitoring-level architecture; this report should be the primary forward reference from the flillusion note.
 >
 > - **[[fix-up-strategy]]** — The four-stage fix-up strategy model in Phase IV.2 is the most operationally precise treatment in the PKB.
 >

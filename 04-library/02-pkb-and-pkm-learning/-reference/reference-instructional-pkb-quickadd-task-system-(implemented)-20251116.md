@@ -965,7 +965,7 @@ dv.taskList(unscheduled.limit(5), false);
 1. **[[GTD Workflow in Obsidian]]**
    - *Connection*: Task capture is the first step of Getting Things Done methodology
    - *Depth Potential*: Complete GTD implementation using Obsidian's graph structure, including Inbox, Next Actions, Projects, and Review processes
-   - *Knowledge Graph Role*: Links task management to broader productivity philosophy, connects to [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[cognitive-offloading]]
+   - *Knowledge Graph Role*: Links task management to broader productivity philosophy, connects to [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Cognitive Offloading]]
 
 2. **[[QuickAdd Macro Development]]**
    - *Connection*: Macros can enhance task capture with intelligent defaults and context-aware prompts

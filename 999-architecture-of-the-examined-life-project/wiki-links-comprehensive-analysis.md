@@ -40,7 +40,7 @@
 3. **[[self-determination-theory]]** — 17× mentions, 160 depth score
 4. **[[fallibilism]]** — 14× mentions, 140 depth score
 5. **[[Narrative-Identity]]** — 14× mentions, 140 depth score
-6. **[[cognitive-load-theory]]** — 13× mentions, 120 depth score
+6. **[[Cognitive Load Theory (CLT)]]** — 13× mentions, 120 depth score
 7. **[[predictive-processing]]** — 13× mentions, 130 depth score
 8. **[[self-regulated-learning]]** — 12× mentions, 120 depth score
 9. **[[intellectual-humility]]** — 12× mentions, 120 depth score
@@ -52,7 +52,7 @@
 15. **[[Phronesis]]** — 10× mentions, 100 depth score
 16. **[[eudaimonia]]** — 10× mentions, 100 depth score
 17. **[[motivated-reasoning]]** — 10× mentions, 100 depth score
-18. **[[schema-theory]]** — 9× mentions, 90 depth score
+18. **[[schema-theory-and-knowledge-organization]]** — 9× mentions, 90 depth score
 19. **[[Intellectual-Courage]]** — 9× mentions, 90 depth score
 20. **[[socratic-method]]** — 8× mentions, 80 depth score
 
@@ -138,7 +138,7 @@
 | [[fallibilism]] ↔ [[metacognitive-monitoring]] | 4× |
 | [[Dewey's-Reflective-Thinking]] ↔ [[socratic-method]] | 4× |
 | [[constructivism]] ↔ [[self-determination-theory]] | 4× |
-| [[dual-process-theory]] ↔ [[schema-theory]] | 4× |
+| [[dual-process-theory]] ↔ [[schema-theory-and-knowledge-organization]] | 4× |
 | [[cognitive-science]] ↔ [[dual-process-theory]] | 4× |
 | [[emotional-granularity]] ↔ [[Phronesis]] | 4× |
 | [[distributed-cognition]] ↔ [[Social-Epistemology]] | 4× |
@@ -146,7 +146,7 @@
 | [[distributed-cognition]] ↔ [[Epistemic-Injustice]] | 4× |
 | [[active-inference]] ↔ [[predictive-processing]] | 4× |
 | [[Logotherapy]] ↔ [[predictive-processing]] | 4× |
-| [[schema-theory]] ↔ [[zone-of-proximal-development]] | 4× |
+| [[schema-theory-and-knowledge-organization]] ↔ [[zone-of-proximal-development]] | 4× |
 | [[Intellectual-Courage]] ↔ [[Intellectual-Perseverance]] | 4× |
 | [[Intellectual-Empathy]] ↔ [[Intellectual-Perseverance]] | 4× |
 
@@ -164,7 +164,7 @@
 - [[Report-01]] — 3× defining
 - [[self-determination-theory]] — 2× defining
 - [[dual-process-theory]] — 2× defining
-- [[cognitive-load-theory]] — 2× defining
+- [[Cognitive Load Theory (CLT)]] — 2× defining
 - [[emotional-granularity]] — 2× defining
 - [[predictive-processing]] — 2× defining
 - [[intellectual-humility]] — 2× defining
@@ -200,7 +200,7 @@
 - [[Epictetus]] — 3× questioning
 - [[constructivism]] — 2× questioning
 - [[dual-process-theory]] — 2× questioning
-- [[cognitive-load-theory]] — 2× questioning
+- [[Cognitive Load Theory (CLT)]] — 2× questioning
 - [[Precision-Weighting]] — 2× questioning
 - [[Narrative-Identity]] — 2× questioning
 - [[Free-Energy-Principle]] — 2× questioning
@@ -227,7 +227,7 @@
 - [[Narrative-Identity]] — 5× contrasting
 - [[Dewey's-Reflective-Thinking]] — 4× contrasting
 - [[self-regulated-learning]] — 4× contrasting
-- [[cognitive-load-theory]] — 4× contrasting
+- [[Cognitive Load Theory (CLT)]] — 4× contrasting
 - [[emotional-granularity]] — 4× contrasting
 - [[Phronesis]] — 4× contrasting
 - [[intellectual-humility]] — 4× contrasting
@@ -328,7 +328,7 @@
 | [[Narrative-Identity]] | 14 | 7133 |  | 140 |
 | [[predictive-processing]] | 13 | 6807 |  | 130 |
 | [[self-regulated-learning]] | 12 | 6449 |  | 120 |
-| [[cognitive-load-theory]] | 12 | 7311 |  | 120 |
+| [[Cognitive Load Theory (CLT)]] | 12 | 7311 |  | 120 |
 | [[intellectual-humility]] | 12 | 6874 |  | 120 |
 | [[Aporic-Receptivity]] | 12 | 1395 |  | 120 |
 | [[metacognitive-self-regulation]] | 11 | 6922 |  | 110 |
@@ -338,7 +338,7 @@
 | [[Phronesis]] | 10 | 6713 |  | 100 |
 | [[eudaimonia]] | 10 | 6660 |  | 100 |
 | [[motivated-reasoning]] | 10 | 6639 |  | 100 |
-| [[schema-theory]] | 9 | 6484 |  | 90 |
+| [[schema-theory-and-knowledge-organization]] | 9 | 6484 |  | 90 |
 | [[Intellectual-Courage]] | 9 | 6639 |  | 90 |
 | [[socratic-method]] | 8 | 6527 |  | 80 |
 | [[virtue-epistemology]] | 8 | 748 |  | 80 |
@@ -418,7 +418,7 @@
 - [[virtue-ethics]]
 - [[constructivism]]
 - [[self-determination-theory]]
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[cognitive-science]]
 
 ### 🌳 Advanced Path (Specialized Topics)
@@ -520,7 +520,7 @@ occurrences: 19
 - [[self-regulated-learning]] (6× co-occurrence)
 - [[philosophy-of-mind]] (6× co-occurrence)
 - [[metacognitive-self-regulation]] (5× co-occurrence)
-- [[schema-theory]] (4× co-occurrence)
+- [[schema-theory-and-knowledge-organization]] (4× co-occurrence)
 
 ## Appears In
 
@@ -737,7 +737,7 @@ occurrences: 13
 - [[Interoceptive-Inference]] (3× co-occurrence)
 - [[Allostasis]] (3× co-occurrence)
 - [[Pragmatic-Maxim]] (3× co-occurrence)
-- [[schema-theory]] (3× co-occurrence)
+- [[schema-theory-and-knowledge-organization]] (3× co-occurrence)
 
 ## Appears In
 
@@ -990,7 +990,7 @@ occurrences: 11
 - [[Phronesis]] (4× co-occurrence)
 - [[appraisal-theory]] (3× co-occurrence)
 - [[Affective-Realism]] (2× co-occurrence)
-- [[cognitive-load-theory]] (2× co-occurrence)
+- [[Cognitive Load Theory (CLT)]] (2× co-occurrence)
 - [[Constructed-Emotion-Theory]] (2× co-occurrence)
 
 ## Appears In
@@ -1033,7 +1033,7 @@ occurrences: 11
 - [[Prosoche]] (2× co-occurrence)
 - [[philosophy-of-mind]] (2× co-occurrence)
 - [[debiasing]] (1× co-occurrence)
-- [[schema-theory]] (1× co-occurrence)
+- [[schema-theory-and-knowledge-organization]] (1× co-occurrence)
 
 ## Appears In
 
@@ -1245,7 +1245,7 @@ occurrences: 9
 
 - [[dual-process-theory]] (4× co-occurrence)
 - [[zone-of-proximal-development]] (4× co-occurrence)
-- [[cognitive-load-theory]] (3× co-occurrence)
+- [[Cognitive Load Theory (CLT)]] (3× co-occurrence)
 - [[Pragmatic-Maxim]] (3× co-occurrence)
 - [[metacognitive-monitoring]] (2× co-occurrence)
 
@@ -1393,7 +1393,7 @@ occurrences: 8
 - [[Dewey's-Reflective-Thinking]] (10×)
 - [[Phronesis]] (10×)
 - [[eudaimonia]] (10×)
-- [[schema-theory]] (9×)
+- [[schema-theory-and-knowledge-organization]] (9×)
 - [[socratic-method]] (8×)
 - [[virtue-epistemology]] (8×)
 - [[zone-of-proximal-development]] (8×)
@@ -1407,7 +1407,7 @@ occurrences: 8
 
 - [[metacognitive-monitoring]] (18×)
 - [[Narrative-Identity]] (14×)
-- [[cognitive-load-theory]] (13×)
+- [[Cognitive Load Theory (CLT)]] (13×)
 - [[emotional-granularity]] (11×)
 - [[metacognitive-self-regulation]] (11×)
 - [[Dewey's-Reflective-Thinking]] (10×)
@@ -1480,7 +1480,7 @@ occurrences: 8
 - [[constructivism]] (11×)
 - [[metacognitive-self-regulation]] (11×)
 - [[Dewey's-Reflective-Thinking]] (10×)
-- [[schema-theory]] (9×)
+- [[schema-theory-and-knowledge-organization]] (9×)
 - [[Pragmatic-Maxim]] (7×)
 - [[Prohairesis]] (7×)
 - [[philosophy-of-mind]] (7×)
@@ -1498,7 +1498,7 @@ occurrences: 8
 - [[self-determination-theory]] (17×)
 - [[fallibilism]] (14×)
 - [[Narrative-Identity]] (14×)
-- [[cognitive-load-theory]] (13×)
+- [[Cognitive Load Theory (CLT)]] (13×)
 - [[predictive-processing]] (13×)
 - [[self-regulated-learning]] (12×)
 - [[intellectual-humility]] (12×)

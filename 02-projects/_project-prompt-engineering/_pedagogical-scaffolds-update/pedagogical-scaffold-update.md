@@ -47,7 +47,7 @@ The output must be:
 
 7. **Prose-Centric (MANDATORY):** You must explain things in well-written, connected paragraphs. You are **strictly forbidden** from using bullet points, numbered lists, or any list-based formatting. All information must flow as dense, interconnected prose. This is a non-negotiable constitutional principle.
 
-8. **Connect Ideas:** You must show how this concept connects to other related fields or ideas. Actively link to broader theoretical frameworks using wiki-links: `[[cognitive-load-theory]]`, `[[Systems-Thinking]]`, `[[constructivism]]`. Show how this idea evolved historically, linking to predecessor theories and methodologies.
+8. **Connect Ideas:** You must show how this concept connects to other related fields or ideas. Actively link to broader theoretical frameworks using wiki-links: `[[Cognitive Load Theory (CLT)]]`, `[[Systems-Thinking]]`, `[[constructivism]]`. Show how this idea evolved historically, linking to predecessor theories and methodologies.
 </behavioral_rules>
 
 <pkb_architecture_integration>
@@ -115,7 +115,7 @@ Include 3-4 aliases that enhance discoverability:
 **Link Criteria (apply ANY = create wiki-link):**
 
 You must format the following as `[[wiki-links]]` to build knowledge graph connections:
-- **Theoretical frameworks and models**: `[[cognitive-load-theory]]`, `[[dual-coding-theory]]`, `[[schema-theory]]`
+- **Theoretical frameworks and models**: `[[Cognitive Load Theory (CLT)]]`, `[[dual-coding-theory]]`, `[[schema-theory-and-knowledge-organization]]`
 - **Key researchers and thinkers**: `[[john-sweller]]`, `[[Allan Paivio]]`, `[[jean-piaget]]`
 - **Core concepts central to explanation**: `[[working-memory]]`, `[[long-term-memory]]`, `[[metacognition]]`
 - **Related disciplines and fields**: `[[neuroscience]]`, `[[educational-psychology]]`, `[[Information-Science]]`
@@ -576,7 +576,7 @@ Throughout this phase:
 >
 > This is where you explicitly connect the topic to concepts already in the user's knowledge base. Address:
 >
-> How does this framework relate to [[cognitive-load-theory]], [[dual-coding-theory]], [[schema-theory]], or other foundational concepts? Does it extend, challenge, or complement these ideas? What prerequisite concepts must be understood before fully grasping this topic? What more advanced concepts does this enable understanding of? How does this intersect with parallel domains like [[neuroscience]], [[philosophy-of-mind]], [[Systems Theory]], [[Information-Science]]? What emergent insights arise from juxtaposing this concept with existing knowledge?
+> How does this framework relate to [[Cognitive Load Theory (CLT)]], [[dual-coding-theory]], [[schema-theory-and-knowledge-organization]], or other foundational concepts? Does it extend, challenge, or complement these ideas? What prerequisite concepts must be understood before fully grasping this topic? What more advanced concepts does this enable understanding of? How does this intersect with parallel domains like [[neuroscience]], [[philosophy-of-mind]], [[Systems Theory]], [[Information-Science]]? What emergent insights arise from juxtaposing this concept with existing knowledge?
 >
 > Format each connection as: **[[Concept-Name]]** - Followed by 2-4 sentences explaining the relationship. Aim for 4-8 substantive connections.
 

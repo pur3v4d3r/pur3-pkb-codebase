@@ -118,7 +118,7 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy]]"
   - "[[self-determination-theory]]"
   - "[[self-regulated-learning]]"
@@ -130,7 +130,7 @@ related:
   - "[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
   - "[[silent-reading-fluency]]"
   - "[[motivational-climate]]"
-  - "[[internalization-continuum]]"
+  - "[[internalization]]"
   - "[[self-reflection-phase]]"
 
 broader:
@@ -146,10 +146,10 @@ narrower:
 
 see-also:
   - "[[metacognition-and-motivation]]"
-  - "[[autonomous-motivation]]"
+  - "[[Autonomous Motivation]]"
   - "[[introjected-regulation]]"
   - "[[learned-helplessness]]"
-  - "[[productive-failure]]"
+  - "[[Productive Failure]]"
 
 contrasts-with:
   - "[[helpless-response-pattern]]"
@@ -158,13 +158,13 @@ contrasts-with:
 applied-in:
   - "[[self-regulated-learning]]"
   - "[[instructional-design]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy]]"
   - "[[self-determination-theory]]"
   - "[[achievement-goal-theory]]"
@@ -253,14 +253,14 @@ generation-date: "2026-03-25"
 
 There is a conversation happening inside you right now. Not the one you are having with this text — a quieter, faster, far more consequential one that runs beneath conscious deliberation like a river beneath a frozen surface. When you encounter a sentence you don't immediately understand, a voice informs you of what that failure means. When a theorem resists comprehension, something narrates the resistance — and the narration, not merely the resistance itself, determines what happens next. This inner voice, drawing on a vocabulary assembled over years of experience, attribution, and self-conception, constitutes what [[lev-vygotsky|Lev Vygotsky]] called the operational medium of self-regulation: [[inner-speech|inner speech]].
 
-The stakes of this inner conversation are not modest. [[bernard-weiner|Bernard Weiner]]'s forty years of research on [[attribution-theory|Attribution Theory]] demonstrate that the causal stories people tell themselves about outcomes — especially failure — cascade with mathematical predictability into emotional responses, expectancies, and effort decisions. [[albert-bandura|Albert Bandura]]'s equally extensive research on [[self-efficacy]] shows that the specific words learners use to appraise their capability do not merely describe an underlying belief; they partly constitute it, shaping the physiological arousal, attentional deployment, and persistence that determine whether difficult learning actually occurs. [[self-determination-theory|Self-Determination Theory]], developed by [[edward-deci|Edward Deci]] and [[richard-ryan|Richard Ryan]], reveals that the regulatory language embedded in inner speech — the difference between *I choose to engage with this* and *I have to get through this* — shifts the entire motivational profile of a learning episode, affecting not just effort but curiosity, depth of processing, and long-term retention.
+The stakes of this inner conversation are not modest. [[bernard-weiner|Bernard Weiner]]'s forty years of research on [[Attribution (Heider, 1958)|Attribution Theory]] demonstrate that the causal stories people tell themselves about outcomes — especially failure — cascade with mathematical predictability into emotional responses, expectancies, and effort decisions. [[albert-bandura|Albert Bandura]]'s equally extensive research on [[self-efficacy]] shows that the specific words learners use to appraise their capability do not merely describe an underlying belief; they partly constitute it, shaping the physiological arousal, attentional deployment, and persistence that determine whether difficult learning actually occurs. [[self-determination-theory|Self-Determination Theory]], developed by [[edward-deci|Edward Deci]] and [[richard-ryan|Richard Ryan]], reveals that the regulatory language embedded in inner speech — the difference between *I choose to engage with this* and *I have to get through this* — shifts the entire motivational profile of a learning episode, affecting not just effort but curiosity, depth of processing, and long-term retention.
 
 What unites these three research traditions is precisely the focus of this report: **vocabulary**. Not vocabulary as mere labels applied to pre-formed mental states, but vocabulary as a constitutive element of motivational cognition — words and constructions that shape the inferences drawn, the emotions generated, and the goals pursued, particularly in the context of reading and engaging with academically demanding texts such as those generated in this PKB's Foundational Reports.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, take a moment to notice what you say to yourself when you encounter a passage in an academic text that doesn't immediately make sense. What is the precise language of that moment? Do you reach for an ability word ("I don't understand this"), an effort word ("I didn't try hard enough"), a strategy word ("I need a different approach"), or something more global and dismissive ("this is too hard")? Your starting vocabulary is the object of this entire report.
 
-**Scope of This Report.** This report covers: (1) the nature and regulatory function of [[inner-speech|inner speech]] during silent academic reading; (2) [[attribution-theory|Attribution Theory]] as a framework for understanding how causal vocabulary shapes motivation; (3) [[self-efficacy]] theory and the relationship between efficacy language and capability beliefs; (4) the integration of [[self-determination-theory|Self-Determination Theory]] and [[achievement-goal-theory|Achievement Goal Theory]] into a vocabulary of autonomous, mastery-oriented learning; (5) hierarchical goal language and its role in SRL's Forethought Phase; and (6) practical vocabulary resources, prompts, and templates for developing a more constructive inner dialogue during reading. The report does not cover general reading comprehension instruction, phonological processing in reading, or the broader topic of dialogue (social or internal) in non-academic contexts.
+**Scope of This Report.** This report covers: (1) the nature and regulatory function of [[inner-speech|inner speech]] during silent academic reading; (2) [[Attribution (Heider, 1958)|Attribution Theory]] as a framework for understanding how causal vocabulary shapes motivation; (3) [[self-efficacy]] theory and the relationship between efficacy language and capability beliefs; (4) the integration of [[self-determination-theory|Self-Determination Theory]] and [[achievement-goal-theory|Achievement Goal Theory]] into a vocabulary of autonomous, mastery-oriented learning; (5) hierarchical goal language and its role in SRL's Forethought Phase; and (6) practical vocabulary resources, prompts, and templates for developing a more constructive inner dialogue during reading. The report does not cover general reading comprehension instruction, phonological processing in reading, or the broader topic of dialogue (social or internal) in non-academic contexts.
 
 **Roadmap.** Phase II establishes the conceptual bedrock — what inner speech is, what attribution dimensions are, what self-efficacy is, and how the field distinguishes these. Phase III maps the theoretical landscape of motivational vocabulary: SDT's regulatory language, Achievement Goal Theory's framing effects, and Growth Mindset's vocabulary of expandable intelligence. Phase IV reveals the mechanisms — the causal chains through which vocabulary choices cascade into comprehension outcomes. Phase V translates all of this into practical strategies, while honestly mapping the limitations of the current evidence base. Phase VI synthesizes and integrates with your PKB.
 
@@ -322,7 +322,7 @@ By contrast, **internal + unstable + controllable** attributions for failure are
 >
 > **Operational Indicator:** In inner speech, self-efficacy manifests as future-oriented capability statements: "I can figure this out," "I don't think I can handle this level of abstraction," "If I take this step by step I'll get it." The temporal orientation (future/present) and the domain-specificity distinguish efficacy inner speech from attributional inner speech (which is retrospective and causal).
 >
-> **See also:** [[albert-bandura]], [[mastery-experience]], [[self-efficacy-theory]], [[Social-Cognitive-Theory-—-Bandura]], [[self-reflection-phase]]
+> **See also:** [[albert-bandura]], [[mastery-experience-vocabulary]], [[self-efficacy-theory]], [[Social-Cognitive-Theory-—-Bandura]], [[self-reflection-phase]]
 
 Bandura's theory locates self-efficacy at the center of the self-regulation loop: efficacy beliefs determine whether an individual initiates a challenging task, how much effort they invest, how long they persist in the face of difficulty, and how they recover from setbacks. For academic reading, this means that the efficacy judgment brought to a dense theoretical text determines, before a single word is read, how much cognitive effort will be allocated, how difficulty will be interpreted, and whether comprehension monitoring will trigger re-reading or withdrawal.
 
@@ -339,7 +339,7 @@ The crucial mechanism for this report is the **verbal persuasion** source of sel
 
 ### The SDT Lens: Autonomous vs. Controlled Regulatory Language
 
-[[self-determination-theory|Self-Determination Theory]] offers a framework that is, in its practical application, fundamentally a theory of the vocabulary of self-regulation. The [[internalization-continuum]] — from external regulation through introjection, identification, and integration to intrinsic motivation — is not merely a taxonomy of motivational states. It is a taxonomy of the *language* through which regulation is experienced and expressed. Each position on the continuum has a characteristic inner speech register, and the register used during self-directed learning is not merely a symptom of motivational quality — it influences motivational quality through the mechanisms SDT articulates.
+[[self-determination-theory|Self-Determination Theory]] offers a framework that is, in its practical application, fundamentally a theory of the vocabulary of self-regulation. The [[internalization]] — from external regulation through introjection, identification, and integration to intrinsic motivation — is not merely a taxonomy of motivational states. It is a taxonomy of the *language* through which regulation is experienced and expressed. Each position on the continuum has a characteristic inner speech register, and the register used during self-directed learning is not merely a symptom of motivational quality — it influences motivational quality through the mechanisms SDT articulates.
 
 > [!key-claim] **SDT's Regulatory Language Taxonomy in Inner Speech**
 > - **External regulation inner speech**: "I have to read this. I'll be behind if I don't. I should just get it done." — The regulation is experienced as wholly external; the words express compliance, obligation, and contingency on external outcomes.
@@ -375,7 +375,7 @@ The implication is that the same objective difficulty — an opaque sentence, an
 > [!insight] **The Temporal Grammar of Growth Mindset Language**
 > Growth mindset language has a distinctive temporal structure: it places current incapacity in a developmental timeline that opens onto future capability. The fixed mindset collapses time — "I can't" implicitly means "I never will" because the cause (ability) is treated as static. The growth mindset explicitly marks temporality: "I can't *yet*," "This is hard *now* but won't always be," "I'm at an early stage of learning this." The single word "yet" — Dweck's famous minimal growth-mindset intervention — functions by grammatically reopening the timeline that fixed-mindset language forecloses.
 
-The relationship between [[growth-mindset]] and [[attribution-theory]] is direct: growth mindset is, in attribution terms, the belief that ability is an internal, unstable, controllable cause — that it can be changed by effort and strategy. Fixed mindset is the belief that ability is internal, stable, and uncontrollable. Growth mindset thus changes the attributional meaning of effort: in a fixed mindset, effort is a threat to self-worth (if I try hard and still fail, I have confirmed low ability); in a growth mindset, effort is the mechanism of ability growth (effort is the pathway, not the evidence of inadequacy).
+The relationship between [[growth-mindset]] and [[Attribution (Heider, 1958)]] is direct: growth mindset is, in attribution terms, the belief that ability is an internal, unstable, controllable cause — that it can be changed by effort and strategy. Fixed mindset is the belief that ability is internal, stable, and uncontrollable. Growth mindset thus changes the attributional meaning of effort: in a fixed mindset, effort is a threat to self-worth (if I try hard and still fail, I have confirmed low ability); in a growth mindset, effort is the mechanism of ability growth (effort is the pathway, not the evidence of inadequacy).
 
 ### Hierarchical Goal Language and the Forethought Phase
 
@@ -553,7 +553,7 @@ The Forethought Phase of [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning
 
 The analysis across Phases II–V converges on a single, architecturally important insight: **inner speech vocabulary is not merely a reporting medium for motivational states — it is a constitutive element of motivational cognition that can be deliberately designed.** This is a claim with significant practical leverage because vocabulary is, unlike many cognitive variables, directly accessible and modifiable through deliberate practice.
 
-The convergence of [[attribution-theory|Attribution Theory]], [[self-efficacy]] theory, [[self-determination-theory|Self-Determination Theory]], [[achievement-goal-theory]], and [[growth-mindset]] around the question of vocabulary is striking. Each framework, developed largely independently, points to the same intervention site: the language used to interpret outcomes, appraise capability, frame goals, and regulate engagement. Weiner's attribution dimensions identify the *semantic content* of the most consequential vocabulary choices. Bandura's verbal persuasion source of efficacy explains *how* vocabulary functions mechanistically. SDT's regulatory continuum identifies the *syntactic markers* (must/should vs. want/choose) that encode motivational quality. Achievement Goal Theory identifies the *criteria* that goal vocabulary establishes. Growth Mindset identifies the *temporal grammar* (stable capability vs. developing capability) that forecloses or reopens motivational options.
+The convergence of [[Attribution (Heider, 1958)|Attribution Theory]], [[self-efficacy]] theory, [[self-determination-theory|Self-Determination Theory]], [[achievement-goal-theory]], and [[growth-mindset]] around the question of vocabulary is striking. Each framework, developed largely independently, points to the same intervention site: the language used to interpret outcomes, appraise capability, frame goals, and regulate engagement. Weiner's attribution dimensions identify the *semantic content* of the most consequential vocabulary choices. Bandura's verbal persuasion source of efficacy explains *how* vocabulary functions mechanistically. SDT's regulatory continuum identifies the *syntactic markers* (must/should vs. want/choose) that encode motivational quality. Achievement Goal Theory identifies the *criteria* that goal vocabulary establishes. Growth Mindset identifies the *temporal grammar* (stable capability vs. developing capability) that forecloses or reopens motivational options.
 
 What makes this synthesis especially relevant to your PKB practice is that the texts you are reading — Foundational Reports covering advanced theoretical content in motivational psychology, cognitive science, and pedagogy — are precisely the class of texts that activate all four of these motivational systems simultaneously. They are difficult enough to trigger attribution processes, novel enough to challenge efficacy, complex enough to reward mastery-approach goals, and dense enough to expose the comprehension cost of controlled, introjected motivation. They are also, by design, tools for building the very knowledge base that enables more sophisticated self-regulation — which means the quality of your inner dialogue while reading them has leverage on the entire project.
 
@@ -564,7 +564,7 @@ The "So What?" is this: **you now have a vocabulary for the vocabulary.** You ca
 >
 > **Upstream Dependencies (this report builds on):**
 >
-> - **[[attribution-theory]]** — The entire vocabulary framework in Phases II and IV rests on Weiner's three-dimensional taxonomy of locus, stability, and controllability. This report operationalizes Attribution Theory into a practical inner speech intervention framework, adding specificity about *how* attribution vocabulary appears in the moment of academic reading.
+> - **[[Attribution (Heider, 1958)]]** — The entire vocabulary framework in Phases II and IV rests on Weiner's three-dimensional taxonomy of locus, stability, and controllability. This report operationalizes Attribution Theory into a practical inner speech intervention framework, adding specificity about *how* attribution vocabulary appears in the moment of academic reading.
 >
 > - **[[self-determination-theory]]** — SDT's regulatory continuum provides the syntactic grammar of motivational vocabulary (must/should vs. want/choose). This report extends SDT's theoretical account by grounding it in the specific context of inner speech during silent academic reading and connecting it to Weiner's attribution framework.
 >
@@ -619,7 +619,7 @@ The "So What?" is this: **you now have a vocabulary for the vocabulary.** You ca
 >
 > **Boundary:** Locus alone does not determine motivational outcome — it must be considered alongside stability and controllability. A failure attributed to internal, unstable, controllable causes (e.g., insufficient strategy use) has very different motivational consequences than one attributed to internal, stable, uncontrollable causes (e.g., fixed ability).
 >
-> **See also:** [[attribution-theory]], [[bernard-weiner]], [[controllability]], [[stability-dimension]]
+> **See also:** [[Attribution (Heider, 1958)]], [[bernard-weiner]], [[Controllability Dimension (Weiner, 1979, 1985)]], [[stability-dimension]]
 
 > [!definition] **Stability Dimension (Weiner, 1972)**
 > The attribution dimension distinguishing whether a cause is perceived as fixed over time (stable: chronic low ability, consistent task difficulty) or variable over time (unstable: effort on this occasion, luck, current mood). Stable attributions for failure predict low expectancy for future success; unstable attributions for failure preserve expectancy.
@@ -633,21 +633,21 @@ The "So What?" is this: **you now have a vocabulary for the vocabulary.** You ca
 >
 > **Boundary:** Controllability and locus are correlated but distinct. Mood is internal but relatively uncontrollable; task difficulty is external and uncontrollable; effort is internal and controllable; social support is external but partially controllable. Interventions should target controllability as their primary lever for building agency.
 >
-> **See also:** [[attribution-theory]], [[self-regulation]], [[volitional-congruence]]
+> **See also:** [[Attribution (Heider, 1958)]], [[self-regulation]], [[volitional-congruence]]
 
 > [!definition] **Self-Efficacy (Bandura, 1977, 1997)**
 > The individual's judgment of their capability to execute specific behaviors or attain specific performance levels in a given domain under given conditions; domain-specific, task-specific, and future-oriented. Four sources: mastery experience, vicarious experience, verbal persuasion, and physiological/affective states.
 >
 > **Boundary:** Self-efficacy is not global self-esteem (general worth), not self-concept (descriptive beliefs about the self), and not outcome expectancy (belief that performing behavior will lead to desired outcomes). High self-efficacy does not guarantee performance — it regulates the motivational resources brought to performance attempts.
 >
-> **See also:** [[albert-bandura]], [[self-efficacy-theory]], [[mastery-experience]], [[Self-Concept]]
+> **See also:** [[albert-bandura]], [[self-efficacy-theory]], [[mastery-experience-vocabulary]], [[Self-Concept]]
 
 > [!definition] **Introjected Regulation (Deci & Ryan, 1985)**
 > A form of partially internalized motivation in which behavior is regulated by internally administered approval, guilt, shame, or pride contingencies; the regulatory language is characterized by *should, must, ought to, have to* constructions. Though internal, introjection is not autonomous — it represents an inner controller that produces pressure and conditional self-worth rather than genuine endorsement.
 >
 > **Boundary:** Introjection is often misidentified as autonomous motivation because it involves self-generated pressure rather than external constraint. The diagnostic is whether the individual experiences themselves as freely choosing (autonomous) or as pressured — even by themselves — to comply. The emotional register of introjection includes anxiety, guilt, shame, and conditional self-worth, unlike identified or integrated regulation which generates interest and volitional engagement.
 >
-> **See also:** [[self-determination-theory]], [[internalization-continuum]], [[autonomous-motivation]], [[controlled-motivation]]
+> **See also:** [[self-determination-theory]], [[internalization]], [[Autonomous Motivation]], [[Controlled Motivation]]
 
 > [!definition] **Mastery Goal Orientation (Dweck, 1986; Ames, 1992)**
 > A motivational orientation in which the individual's standard of success is self-referential (learning, improvement, understanding), the purpose is developing competence, and difficulty is interpreted as information about what remains to be learned. Distinguished from performance goal orientations in which the standard is normative (comparison with others) and the purpose is demonstrating competence (approach) or avoiding displaying incompetence (avoidance).
@@ -661,7 +661,7 @@ The "So What?" is this: **you now have a vocabulary for the vocabulary.** You ca
 >
 > **Boundary:** Verbal persuasion operates most effectively when it is specific (domain- and task-relevant), process-anchored (focused on what the individual can *do* rather than what they *are*), and delivered by credible sources. Generic praise or unfounded encouragement has weak or even negative efficacy effects because it is inconsistent with the individual's performance record.
 >
-> **See also:** [[self-efficacy]], [[process-praise]], [[mastery-experience]], [[attribution-retraining]]
+> **See also:** [[self-efficacy]], [[process-praise]], [[mastery-experience-vocabulary]], [[attribution-retraining]]
 
 ---
 
@@ -711,7 +711,7 @@ The "So What?" is this: **you now have a vocabulary for the vocabulary.** You ca
 >
 > **Why It Matters:** If language is only derivative, the vocabulary protocols in this report are misdirected — they address the symptom rather than the cause. If language is constitutive, they address the mechanism directly.
 >
-> **See also:** [[attribution-theory]], [[Theory-of-Constructed-Emotion]], [[Language-and-Thought]]
+> **See also:** [[Attribution (Heider, 1958)]], [[Theory-of-Constructed-Emotion]], [[Language-and-Thought]]
 
 > [!open-question] **What is the Natural Ecological Validity of Inner Speech Vocabulary Research?**
 >
@@ -928,14 +928,14 @@ The "So What?" is this: **you now have a vocabulary for the vocabulary.** You ca
 > > **Connection to This Report:** Phase V's practical protocols are informal, self-directed versions of what formal attribution retraining programs do systematically; understanding the formal literature validates the approach and provides precision.
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[attribution-theory]], [[self-efficacy]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[self-efficacy]]
 >
 > > [!topic-idea] [[Volitional-Strategies-in-Self-Regulated-Learning]]
 > > **Description:** Kuhl's action control theory and Corno's volitional strategies framework describe how learners protect goal pursuit through self-talk, attention deployment, and motivational management — precisely the domain where inner speech vocabulary operates as a regulatory tool. This expansion would bridge inner speech vocabulary from the motivational setup (Forethought Phase) to active regulation during learning (Performance Phase).
 > > **Connection to This Report:** This report addresses vocabulary in the Forethought and Self-Reflection Phases; volitional strategies addresses the vocabulary of active in-reading regulation — the cognitive armor against distraction, discouragement, and competing goals.
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[self-regulated-learning]], [[attribution-theory]], [[autonomous-motivation]]
+> > **Prerequisites:** [[self-regulated-learning]], [[Attribution (Heider, 1958)]], [[Autonomous Motivation]]
 >
 > > [!topic-idea] [[Hierarchical-Goal-Systems-and-Goal-Framing]]
 > > **Description:** Austin & Vancouver's (1996) hierarchical goal framework, Carver & Scheier's cybernetic model of goal pursuit, and Locke & Latham's goal-setting theory — with attention to how the *language* used to formulate goals at different levels (superordinate vs. subordinate; distal vs. proximal) interacts with motivation and self-regulation. This would deepen Phase III's treatment of goal language significantly.
@@ -949,7 +949,7 @@ The "So What?" is this: **you now have a vocabulary for the vocabulary.** You ca
 > > **Connection to This Report:** This report focuses primarily on the *propositional* content of inner speech (causal attributions, efficacy judgments, goal framings); Affect-as-Information addresses the emotional dimension that often drives inner speech before explicit propositional content emerges.
 > > **Priority:** Medium
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[attribution-theory]], [[metacognition-and-motivation]], [[self-determination-theory]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[metacognition-and-motivation]], [[self-determination-theory]]
 >
 > > [!topic-idea] [[motivational-regulation-strategies]]
 > > **Description:** Wolters's (1998, 2003) taxonomy of strategies for *regulating one's own motivation* — including self-consequating (if I do this, I'll reward myself), environmental structuring, interest enhancement, and self-talk. This is the most direct empirical literature on deliberate inner speech as a self-regulatory tool; it situates the vocabulary approach of this report within a broader taxonomy of motivational regulation.
@@ -963,7 +963,7 @@ The "So What?" is this: **you now have a vocabulary for the vocabulary.** You ca
 > > **Connection to This Report:** The conceptual tension in Appendix 3 about vocabulary as cause vs. symptom is essentially a Whorfian question; this expansion would provide the philosophical and empirical framework for addressing it rigorously.
 > > **Priority:** Exploratory
 > > **Suggested Type:** Socratic Dialogue
-> > **Prerequisites:** [[attribution-theory]], [[Language-and-Thought]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[Language-and-Thought]]
 
 ---
 
@@ -974,7 +974,7 @@ The "So What?" is this: **you now have a vocabulary for the vocabulary.** You ca
 >
 > **Upstream Dependencies:**
 >
-> - **[[attribution-theory]]** — The three-dimensional framework (locus, stability, controllability) is the direct structural foundation of the vocabulary architecture. This report's primary contribution to the Attribution Theory node is operationalizing its dimensions into *specific inner speech word choices* — giving the abstract taxonomy a practical linguistic face.
+> - **[[Attribution (Heider, 1958)]]** — The three-dimensional framework (locus, stability, controllability) is the direct structural foundation of the vocabulary architecture. This report's primary contribution to the Attribution Theory node is operationalizing its dimensions into *specific inner speech word choices* — giving the abstract taxonomy a practical linguistic face.
 >
 > - **[[self-determination-theory]]** — SDT's regulatory continuum and mini-theories (CET, OIT, BPNT) provide the motivational quality framework; this report adds to the SDT node by mapping the regulatory continuum onto specific syntactic markers in inner speech (*should/must* vs. *want/choose*), which is not explicit in standard SDT treatments.
 >

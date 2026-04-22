@@ -158,7 +158,7 @@ This is where your specific setup becomes powerful. Since you run your Obsidian 
 
 
 3. **Cross-Linking**:
-* In a concept note (e.g., `[[cognitive-load-theory]]`), you can link to the implementation: "Implemented in [[CognitiveLoadAnalyzer.prompty]]".
+* In a concept note (e.g., `[[Cognitive Load Theory (CLT)]]`), you can link to the implementation: "Implemented in [[CognitiveLoadAnalyzer.prompty]]".
 * *Note*: Obsidian might not natively support the `.prompty` extension for clickable links without a plugin, but the file system link works. Alternatively, use `.md` extension but keep the Prompty structure (VS Code might need configuration to treat `.md` with specific frontmatter as Prompty, or you stick to `.prompty` and accept Obsidian treats it as a raw file).
 * *Recommendation*: Stick to `.prompty` extension. In Obsidian, use the "File Explorer" to find them, or use a "Text File" plugin to view them.
 

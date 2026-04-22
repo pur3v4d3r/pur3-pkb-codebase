@@ -442,7 +442,7 @@ This transforms your "agent" from a simple pipeline-follower into a true `[[Cogn
 
 3.  [Topic/Idea:: [[Instructional Design Principles for AI Prompting]]]
 
-      * [Description:: This note would formally connect `[[instructional-design]]` theories like `[[ADDIE Model]]`, `[[Gagné's Nine Events of Instruction]]`, and `[[cognitive-load-theory]]` to the practice of prompt engineering. It explores how structuring a prompt like a lesson plan (with objectives, scaffolding, examples, and assessment) can dramatically improve LLM performance.]
+      * [Description:: This note would formally connect `[[instructional-design]]` theories like `[[ADDIE Model]]`, `[[Gagné's Nine Events of Instruction]]`, and `[[Cognitive Load Theory (CLT)]]` to the practice of prompt engineering. It explores how structuring a prompt like a lesson plan (with objectives, scaffolding, examples, and assessment) can dramatically improve LLM performance.]
 
 4.  [Topic/Idea:: [[The Role of XML in Claude Prompting]]]
 

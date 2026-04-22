@@ -255,7 +255,7 @@ extraction_summary:
 #### 19. [CROSS-DOMAIN-CONNECTION] Aporia and Productive Failure: Three Traditions, One Mechanism *(Line 270)*
 
 > [!cross-domain-connection] Aporia and Productive Failure: Three Traditions, One Mechanism
-> Report 03 of this series established the [[constructivist]] account of learning as schema reorganization through encounter with challenging material that cannot be processed by existing schemas — what Piaget called [[Disequilibration]] and what contemporary researchers call [[productive-failure|Productive Failure]] (Kapur, 2016) and [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]. The Socratic concept of [[aporia]] describes the same state from a philosophical angle: the experience of genuine intellectual puzzlement that comes from discovering that one's confident beliefs are inadequately grounded. The dual-process account of System 2 activation provides the cognitive mechanism by which both aporia and cognitive conflict produce their effects: they create conditions where System 1 outputs are demonstrably inadequate, triggering System 2 engagement. Three independent traditions — separated by millennia and disciplinary boundaries — converge on the same structural claim: genuine epistemic progress requires an initial state of motivated discomfort in which existing cognitive resources are insufficient. For PKB design, this three-way convergence dramatically increases confidence in the design principle: review workflows should be designed to regularly create conditions where existing understanding is genuinely insufficient, not to confirm that existing understanding is adequate.
+> Report 03 of this series established the [[constructivist]] account of learning as schema reorganization through encounter with challenging material that cannot be processed by existing schemas — what Piaget called [[Disequilibration]] and what contemporary researchers call [[Productive Failure|Productive Failure]] (Kapur, 2016) and [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]. The Socratic concept of [[aporia]] describes the same state from a philosophical angle: the experience of genuine intellectual puzzlement that comes from discovering that one's confident beliefs are inadequately grounded. The dual-process account of System 2 activation provides the cognitive mechanism by which both aporia and cognitive conflict produce their effects: they create conditions where System 1 outputs are demonstrably inadequate, triggering System 2 engagement. Three independent traditions — separated by millennia and disciplinary boundaries — converge on the same structural claim: genuine epistemic progress requires an initial state of motivated discomfort in which existing cognitive resources are insufficient. For PKB design, this three-way convergence dramatically increases confidence in the design principle: review workflows should be designed to regularly create conditions where existing understanding is genuinely insufficient, not to confirm that existing understanding is adequate.
 
 #### 20. [ANALYTICAL-INSIGHT] Link Density as Epistemic Barometer *(Line 281)*
 
@@ -548,7 +548,7 @@ extraction_summary:
 - [[Intellectual Humility: Cognitive Science and Virtue Epistemology]]
 - [[metacognitive-calibration|Metacognitive Calibration]]
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Report 03 — Constructing Understanding]]
 - [[Report 04 — Metacognitive Self-Regulation]]
@@ -592,7 +592,7 @@ extraction_summary:
 | 20 | [[aporia]] | — | — | How Socratic Questioning Interrupts t... | 266 |
 | 21 | [[constructivist]] | — | — | How Socratic Questioning Interrupts t... | 271 |
 | 22 | [[Disequilibration]] | — | — | How Socratic Questioning Interrupts t... | 271 |
-| 23 | [[productive-failure|Productive Failure]] | — | — | How Socratic Questioning Interrupts t... | 271 |
+| 23 | [[Productive Failure|Productive Failure]] | — | — | How Socratic Questioning Interrupts t... | 271 |
 | 24 | [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] | — | — | How Socratic Questioning Interrupts t... | 271 |
 | 25 | [[aporia]] | — | — | How Socratic Questioning Interrupts t... | 271 |
 | 26 | [[dysrationalia]] | — | — | The Mechanics of Confirmation Bias in... | 279 |
@@ -696,7 +696,7 @@ extraction_summary:
 - [[Intellectual Humility: Cognitive Science and Virtue Epistemology]]
 - [[metacognitive-calibration|Metacognitive Calibration]]
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Report 03 — Constructing Understanding]]
 - [[Report 04 — Metacognitive Self-Regulation]]

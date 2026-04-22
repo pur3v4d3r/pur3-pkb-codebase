@@ -123,7 +123,7 @@ link_related:
 >
 > **Intended audience:** Specialists and serious investigators with prior knowledge of cognitive psychology and metacognition fundamentals.
 >
-> **Prerequisites:** Familiarity with [[metacognition]], [[self-regulated-learning]], [[working-memory-capacity|working memory]], and [[cognitive-load-theory]]. General understanding of [[cognitive-biases]] is helpful but not required — this report treats specific biases in monitoring, not biases generally.
+> **Prerequisites:** Familiarity with [[metacognition]], [[self-regulated-learning]], [[working-memory-capacity|working memory]], and [[Cognitive Load Theory (CLT)]]. General understanding of [[cognitive-biases]] is helpful but not required — this report treats specific biases in monitoring, not biases generally.
 >
 > **Why narrow scope matters:** A Deep Dive earns its value through exhaustive treatment of a focused subject. Broader coverage of [[metacognition]] is available in foundational report formats. This report assumes the reader already has general familiarity and wants to GO DEEP on the specific problem of monitoring accuracy — its mechanisms, failure modes, and frontier.
 
@@ -347,7 +347,7 @@ The core problem is what might be called the <span style='color: #FF00DC;'>**cue
 
 At a more abstract level, the monitoring mechanism can be understood as a <span style='color: #FFC700;'>noisy channel in the information-theoretic sense</span>. The object-level cognitive state is the "true signal." The monitoring system receives this signal through a channel that adds noise (irrelevant cue variation) and applies a nonlinear transform (the heuristic weighting of cues). The meta-level judgments are the "received signal." The question of monitoring accuracy is, fundamentally, a signal detection problem: how much of the true signal survives the noisy channel?
 
-This framing connects monitoring accuracy to the broader literature on [[cognitive-architecture|cognitive architecture]] and explains why monitoring is an inherently bounded process. The meta-level can never have perfect information about the object level because the monitoring channel is structurally noisy — this is not a bug to be fixed but a constitutional feature of the [[nelson-narens-model|two-level architecture]].
+This framing connects monitoring accuracy to the broader literature on [[Cognitive Architecture|cognitive architecture]] and explains why monitoring is an inherently bounded process. The meta-level can never have perfect information about the object level because the monitoring channel is structurally noisy — this is not a bug to be fixed but a constitutional feature of the [[nelson-narens-model|two-level architecture]].
 
 > [!rabbit-hole] **Rabbit Hole: Signal Detection Theory Applied to Metacognition**
 > **What it is:** The formal application of signal detection theory (SDT) to metacognitive monitoring, treating monitoring as a detection problem where the learner must discriminate between "known" and "unknown" items under noise.
@@ -509,7 +509,7 @@ The weighting dynamics explain why monitoring accuracy varies so dramatically ac
 
 > [!magnification] **Level 4: DYNAMICS — How the Substructure Produces Observable Regulatory Behavior**
 > **Zoom progression:** Level 3 catalogued the individual cues that generate monitoring signals. This level traces what happens AFTER the monitoring signal is generated — how it enters the control system, how monitoring (in)accuracy propagates through regulatory decisions, and how the coupling between monitoring and control creates feedback dynamics that can either correct or amplify initial monitoring errors.
-> **What you'll see at this level:** The [[monitoring-control-coupling|monitoring-control coupling]] mechanism, the study time allocation problem, the discrepancy reduction model, and the feedback dynamics that make monitoring accuracy self-reinforcing or self-undermining.
+> **What you'll see at this level:** The [[Monitoring-Control Coupling|monitoring-control coupling]] mechanism, the study time allocation problem, the discrepancy reduction model, and the feedback dynamics that make monitoring accuracy self-reinforcing or self-undermining.
 > **Specialist value:** This is where monitoring accuracy stops being a measurement problem and becomes a **dynamic systems problem**. The behavior of the system depends not just on the accuracy of the initial signal but on how that signal interacts with the control architecture over time.
 
 ### 4.1 The Monitoring-Control Coupling: Translating Signals into Decisions
@@ -826,7 +826,7 @@ A third frontier approach embeds monitoring in computational memory models — c
 > Fleming, Weil, Nagy, Dolan & Rees (2010) found that individual differences in metacognitive sensitivity (measured as SDT $d'$ for confidence judgments) correlated with gray matter volume in anterior prefrontal cortex. This suggests a structural neuroanatomical basis for individual differences in monitoring accuracy.
 >
 > **Precision:** The hierarchical model is schematic. The actual neural circuits are distributed and involve interaction between PFC, anterior cingulate cortex (ACC), insula, and parietal cortex.
-> **Dependencies:** Requires neuroanatomy basics; see [[prefrontal-cortex]] and materials on [[cognitive-architecture|cognitive architecture]].
+> **Dependencies:** Requires neuroanatomy basics; see [[prefrontal-cortex]] and materials on [[Cognitive Architecture|cognitive architecture]].
 
 > [!rabbit-hole] **Rabbit Hole: Metacognitive Monitoring in Anosognosia**
 > **What it is:** Anosognosia — the inability to recognize one's own deficits — provides a "natural experiment" for studying monitoring accuracy. Patients with specific brain lesions (often right parietal cortex) can lose the ability to monitor certain cognitive functions while retaining monitoring of others.
@@ -936,7 +936,7 @@ A second speculative trajectory imagines not full algorithmic replacement of mon
 >
 > **What this buys:** The hybrid could capture the strengths of each system — the learner's access to real-time qualitative feeling states (which capture dimensions the algorithm doesn't track) and the algorithm's access to quantitative performance history (which captures dimensions the learner can't track).
 >
-> **What this assumes:** That real-time discrepancy detection doesn't overload the learner's [[cognitive-load-theory|cognitive capacity]]; that learners can integrate algorithmic calibration signals with internal monitoring signals; and that the interaction between human and algorithmic monitoring is constructive rather than destructive.
+> **What this assumes:** That real-time discrepancy detection doesn't overload the learner's [[Cognitive Load Theory (CLT)|cognitive capacity]]; that learners can integrate algorithmic calibration signals with internal monitoring signals; and that the interaction between human and algorithmic monitoring is constructive rather than destructive.
 >
 > **Precision:** Speculative — no such system has been fully implemented and tested, though components exist in intelligent tutoring systems.
 > **Dependencies:** Requires advances in real-time affect detection, personalized memory modeling, and human-computer interaction design.
@@ -1296,7 +1296,7 @@ This Deep Dive provided what broader treatments of [[metacognition]] cannot: a s
 | 2 | **Metacognitive Calibration Training Protocols: Systematic Review and Design Principles** | Extends Level 6 (Frontier) on technology-mediated calibration — a practical treatment of what training actually works | Practitioner's Field Guide | High |
 | 3 | **The Neural Architecture of Confidence: From Signal Detection to Prefrontal Computation** | Deep extension of Level 6's neural substrates section — a full treatment of the cognitive neuroscience of metacognitive monitoring | Deep Dive Report | Medium |
 | 4 | **[[self-regulated-learning]] as a Cybernetic System: The Monitoring-Control Loop and Its Failure Modes** | Extends Level 4 (Dynamics) — places monitoring-control coupling within the broader cybernetic framework of self-regulation | Foundational Report | Medium |
-| 5 | **[[desirable-difficulties|Desirable Difficulties]] and the Effort-Monitoring Paradox: When Learning Feels Wrong** | Extends Level 3's effort-monitoring paradox — a full treatment of the tension between desirable difficulty and monitoring accuracy | Deep Dive Report | Medium |
+| 5 | **[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] and the Effort-Monitoring Paradox: When Learning Feels Wrong** | Extends Level 3's effort-monitoring paradox — a full treatment of the tension between desirable difficulty and monitoring accuracy | Deep Dive Report | Medium |
 | 6 | **The Dunning-Kruger Effect: Meta-Ignorance, Statistical Artifacts, and the Boundaries of Self-Knowledge** | Extends Edge Case 5.2 — a full treatment of the debate including recent statistical artifact evidence and the residual metacognitive component | Dialectical Report | Low |
 | 7 | **Algorithmic Metacognition: When Machines Monitor Learning Better Than Humans** | Extends Level 7 speculation on algorithmic monitoring — the full case for and against externalizing metacognitive monitoring to technology | Comparative Architecture | Low |
 
@@ -1315,14 +1315,14 @@ This Deep Dive provided what broader treatments of [[metacognition]] cannot: a s
 | [[judgment-of-learning]] | Primary monitoring judgment type | Core |
 | [[feeling-of-knowing]] | Key monitoring judgment type | Core |
 | [[self-regulated-learning]] | Applied framework | Core |
-| [[monitoring-control-coupling]] | Central dynamic (Level 4) | Core |
+| [[Monitoring-Control Coupling]] | Central dynamic (Level 4) | Core |
 
 ### Strong Connections (Substantially Referenced)
 
 | Wiki-Link | Relationship | Strength |
 |-----------|-------------|----------|
 | [[dunning-kruger-effect]] | Major edge case (Level 5) | Strong |
-| [[cognitive-load-theory]] | Contextual factor | Strong |
+| [[Cognitive Load Theory (CLT)]] | Contextual factor | Strong |
 | [[working-memory-capacity]] | Individual difference moderator | Strong |
 | [[metacognitive-knowledge]] | Related construct | Strong |
 | [[metacognitive-regulation]] | Control side of monitoring-control | Strong |

@@ -273,7 +273,7 @@ extraction_summary:
 #### 23. [CROSS-DOMAIN-CONNECTION] Untitled *(Line 309)*
 
 > [!cross-domain-connection] Untitled
-> **Vygotsky meets Adaptive AI**: The ZPD is a dynamic space — it shifts as the learner's competence develops. This is precisely what [[Report 10: Scaffolding and Fading]] addressed through the expertise reversal effect from [[cognitive-load-theory|Cognitive Load Theory]]: scaffolding appropriate for novices becomes redundant and harmful for experts. The design principle that emerges from combining Vygotsky's ZPD with the expertise reversal research is architecturally important: **AI scaffolding must detect growing competence and actively reduce assistance in response.** An AI that continues providing the same level of synthesis and connection-finding as the user becomes more expert is no longer operating in the ZPD — it is operating *below* the learner's current competence, maintaining dependency rather than building autonomy. This means that the quality of an AI-integrated PKB is not fixed but changes dynamically as the user's expertise grows — and a system optimized for a novice user may actively harm an expert user in the same domain.
+> **Vygotsky meets Adaptive AI**: The ZPD is a dynamic space — it shifts as the learner's competence develops. This is precisely what [[Report 10: Scaffolding and Fading]] addressed through the expertise reversal effect from [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]: scaffolding appropriate for novices becomes redundant and harmful for experts. The design principle that emerges from combining Vygotsky's ZPD with the expertise reversal research is architecturally important: **AI scaffolding must detect growing competence and actively reduce assistance in response.** An AI that continues providing the same level of synthesis and connection-finding as the user becomes more expert is no longer operating in the ZPD — it is operating *below* the learner's current competence, maintaining dependency rather than building autonomy. This means that the quality of an AI-integrated PKB is not fixed but changes dynamically as the user's expertise grows — and a system optimized for a novice user may actively harm an expert user in the same domain.
 
 #### 24. [ANALYTICAL-INSIGHT] Untitled *(Line 320)*
 
@@ -321,7 +321,7 @@ extraction_summary:
 #### 31. [ORIGINAL-SYNTHESIS] Untitled *(Line 405)*
 
 > [!original-synthesis] Untitled
-> **The Cognitive Partnership Model**: A framework for human-AI interaction in a learning-oriented PKB that synthesizes [[Socratic Philosophy]] (from [[Report 14: Inquiry-Based Knowledge Building]]), [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] (Clark & Chalmers), [[zone-of-proximal-development|Zone of Proximal Development]] (Vygotsky), [[desirable-difficulties|Desirable Difficulties]] (Bjork et al.), and [[constructivism]] (from [[Report-03]]) into a coherent design philosophy with four structural components.
+> **The Cognitive Partnership Model**: A framework for human-AI interaction in a learning-oriented PKB that synthesizes [[Socratic Philosophy]] (from [[Report 14: Inquiry-Based Knowledge Building]]), [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] (Clark & Chalmers), [[zone-of-proximal-development|Zone of Proximal Development]] (Vygotsky), [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] (Bjork et al.), and [[constructivism]] (from [[Report-03]]) into a coherent design philosophy with four structural components.
 > 
 > **Component 1: Partnership, Not Delegation.** The user remains the primary cognitive agent in the knowledge-building process. AI participates as a thinking partner — contributing capacity, challenge, and synthesis — but does not replace the user's constructive engagement. The diagnostic test: after every AI-assisted work session, ask whether you *understand* something you didn't before, or whether you merely *have information* that you received. Partnership produces understanding; delegation produces information.
 > 
@@ -334,7 +334,7 @@ extraction_summary:
 #### 32. [ORIGINAL-SYNTHESIS] Untitled *(Line 444)*
 
 > [!original-synthesis] Untitled
-> **A Final Synthesis Across the Series**: Looking back across all 30 reports, a unifying pattern emerges that the AI era makes explicit. Every report in this series has been, at its core, about one question: *How do you design conditions that maximize the probability that genuine understanding — not the appearance of understanding — will develop?* The [[schema-theory|Schema Theory]] of Report 01, the [[cognitive-load-theory|Cognitive Load Theory]] of Report 02, the [[constructivism]] of Report 03, the [[metacognitive-self-regulation]] of Report 04, the [[desirable-difficulties|Desirable Difficulties]] of Report 16, the [[calibration]] of Report 18, the [[Epistemic-Virtue|Epistemic Virtue]] of Report 29 — all are answers to this one question from different disciplinary angles. AI makes this question both more urgent and more tractable. More urgent because AI creates more opportunities to simulate understanding without producing it. More tractable because AI, designed well, can create more opportunities for genuine constructive engagement than any prior tool. The PKM framework built across these 30 reports is, at its deepest level, a framework for protecting the conditions under which genuine understanding develops. That framework does not become obsolete in the AI era — it becomes more essential.
+> **A Final Synthesis Across the Series**: Looking back across all 30 reports, a unifying pattern emerges that the AI era makes explicit. Every report in this series has been, at its core, about one question: *How do you design conditions that maximize the probability that genuine understanding — not the appearance of understanding — will develop?* The [[schema-theory-and-knowledge-organization|Schema Theory]] of Report 01, the [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] of Report 02, the [[constructivism]] of Report 03, the [[metacognitive-self-regulation]] of Report 04, the [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] of Report 16, the [[calibration]] of Report 18, the [[Epistemic-Virtue|Epistemic Virtue]] of Report 29 — all are answers to this one question from different disciplinary angles. AI makes this question both more urgent and more tractable. More urgent because AI creates more opportunities to simulate understanding without producing it. More tractable because AI, designed well, can create more opportunities for genuine constructive engagement than any prior tool. The PKM framework built across these 30 reports is, at its deepest level, a framework for protecting the conditions under which genuine understanding develops. That framework does not become obsolete in the AI era — it becomes more essential.
 
 #### 33. [REFLECTION] Integrating the Synthesis *(Line 447)*
 
@@ -352,7 +352,7 @@ extraction_summary:
 > 
 > - **[[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]** — The philosophical foundation that elevates the PKB from information repository to distributed cognitive system component. With AI integration, the parity principle (if it would be cognitive in the brain, it counts as cognitive when externalized) applies with new force to AI-mediated reasoning. Every design decision becomes a choice about cognitive architecture, not just information organization.
 > 
-> - **[[desirable-difficulties|Desirable Difficulties]]** — The single most important constraint on AI design in a learning PKB. Every AI feature that makes retrieval or synthesis effortless must be evaluated against this question: what learning-productive cognitive effort is being removed? This connection demands active design intervention to restore productive friction — specifically through challenge-oriented, Socratic AI interactions.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]** — The single most important constraint on AI design in a learning PKB. Every AI feature that makes retrieval or synthesis effortless must be evaluated against this question: what learning-productive cognitive effort is being removed? This connection demands active design intervention to restore productive friction — specifically through challenge-oriented, Socratic AI interactions.
 > 
 > - **[[zone-of-proximal-development|Zone of Proximal Development]]** — AI's most powerful positive mechanism in PKM. The design challenge is building AI interactions that genuinely operate at the leading edge of the user's competence in each domain — neither below it nor above it — and that actively reduce in response to growing expertise. Connecting to [[Report 10: Scaffolding and Fading]] reveals that this calibration is a dynamic design problem, not a one-time configuration.
 > 
@@ -550,12 +550,12 @@ extraction_summary:
 - [[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]]
 - [[Bayesian-Knowledge-Tracing|Bayesian Knowledge Tracing]]
 - [[calibration]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive-Partnership-Model-—-Original-Synthesis|Cognitive Partnership Model]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[constructivism]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dialectical-Knowledge-Building|Dialectical Knowledge Building]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Epistemic Autonomy]]
 - [[epistemic-humility|Epistemic Humility]]
@@ -592,7 +592,7 @@ extraction_summary:
 - [[Report 29: Ethical PKM]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Scaffolding and Fading]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Semantic Vector Embeddings]]
 - [[Socratic Philosophy]]
 - [[tacit-knowledge|Tacit Knowledge]]
@@ -609,7 +609,7 @@ extraction_summary:
 | 3 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
 | 4 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
 | 5 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
-| 6 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
+| 6 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
 | 7 | [[epistemic-humility|Epistemic Humility]] | — | — | Phase I: Orientation & Synthesis Focu... | 172 |
 | 8 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Phase I: Orientation & Synthesis Focu... | 172 |
 | 9 | [[Cognitive-Partnership-Model-—-Original-Synthesis|Cognitive Partnership Model]] | — | — | Phase I: Orientation & Synthesis Focu... | 174 |
@@ -624,29 +624,29 @@ extraction_summary:
 | 18 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | Phase II: Analytical Framework — Cros... | 215 |
 | 19 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | Phase II: Analytical Framework — Cros... | 215 |
 | 20 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | Phase II: Analytical Framework — Cros... | 220 |
-| 21 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase II: Analytical Framework — Cros... | 220 |
+| 21 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase II: Analytical Framework — Cros... | 220 |
 | 22 | [[Report 16: Desirable Difficulties by Design]] | — | — | Phase II: Analytical Framework — Cros... | 220 |
 | 23 | [[Transactive-Memory-Systems|Transactive Memory Systems]] | — | — | The Google Effect and Cognitive Offlo... | 243 |
 | 24 | [[Report 06: The Science of Remembering]] | — | — | Intelligent Tutoring Systems and the ... | 257 |
-| 25 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Desirable Difficulties Research i... | 261 |
+| 25 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | The Desirable Difficulties Research i... | 261 |
 | 26 | [[Report 16]] | — | — | The Desirable Difficulties Research i... | 261 |
 | 27 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | The Calibration Problem: AI Fluency a... | 270 |
 | 28 | [[constructivism]] | — | — | The Calibration Problem: AI Fluency a... | 273 |
 | 29 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | How RAG Changes the Stored/Retrieved ... | 296 |
 | 30 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Semantic Vector Embeddings]] | — | — | How RAG Changes the Stored/Retrieved ... | 296 |
-| 31 | [[schema-theory|Schema Theory]] | — | — | How RAG Changes the Stored/Retrieved ... | 298 |
+| 31 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | How RAG Changes the Stored/Retrieved ... | 298 |
 | 32 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | How RAG Changes the Stored/Retrieved ... | 298 |
 | 33 | [[constructivism]] | — | — | How RAG Changes the Stored/Retrieved ... | 301 |
 | 34 | [[Report 03: Constructing Understanding]] | — | — | How RAG Changes the Stored/Retrieved ... | 301 |
 | 35 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | The Vygotsky Opportunity: AI as Dynam... | 305 |
 | 36 | [[Report 10: Scaffolding and Fading]] | — | — | The Vygotsky Opportunity: AI as Dynam... | 310 |
-| 37 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Vygotsky Opportunity: AI as Dynam... | 310 |
+| 37 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | The Vygotsky Opportunity: AI as Dynam... | 310 |
 | 38 | [[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]] | — | — | The Adaptive Personalization Problem | 314 |
 | 39 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | The Adaptive Personalization Problem | 316 |
 | 40 | [[Report 18: Calibration and Epistemic Humility]] | — | — | The Adaptive Personalization Problem | 318 |
 | 41 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | The Extended Mind as Design Architect... | 325 |
 | 42 | [[Report 03: Constructing Understanding]] | — | — | The Extended Mind as Design Architect... | 330 |
-| 43 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Design Principles for the AI-Integrat... | 352 |
+| 43 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Design Principles for the AI-Integrat... | 352 |
 | 44 | [[Report 29: Ethical PKM]] | — | — | Design Principles for the AI-Integrat... | 354 |
 | 45 | [[Report 07: Critical Thinking as PKM Practice]] | — | — | Design Principles for the AI-Integrat... | 354 |
 | 46 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Design Principles for the AI-Integrat... | 356 |
@@ -658,7 +658,7 @@ extraction_summary:
 | 52 | [[Report 14: Inquiry-Based Knowledge Building]] | — | — | The Cognitive Partnership Model | 406 |
 | 53 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | The Cognitive Partnership Model | 406 |
 | 54 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | The Cognitive Partnership Model | 406 |
-| 55 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Cognitive Partnership Model | 406 |
+| 55 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | The Cognitive Partnership Model | 406 |
 | 56 | [[constructivism]] | — | — | The Cognitive Partnership Model | 406 |
 | 57 | [[Report-03]] | — | — | The Cognitive Partnership Model | 406 |
 | 58 | [[Report 14]] | — | — | The Cognitive Partnership Model | 410 |
@@ -669,15 +669,15 @@ extraction_summary:
 | 63 | [[Report 29: Ethical PKM]] | — | — | The Cognitive Partnership Model | 414 |
 | 64 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Return-and-Deepen: What Report 01 Now... | 426 |
 | 65 | [[Report 17: Note-Making as Knowledge Construction]] | — | — | Return-and-Deepen: What Report 01 Now... | 428 |
-| 66 | [[schema-theory|Schema Theory]] | — | — | Unresolved Questions | 445 |
-| 67 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 445 |
+| 66 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Unresolved Questions | 445 |
+| 67 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Unresolved Questions | 445 |
 | 68 | [[constructivism]] | — | — | Unresolved Questions | 445 |
 | 69 | [[metacognitive-self-regulation]] | — | — | Unresolved Questions | 445 |
-| 70 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Unresolved Questions | 445 |
+| 70 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Unresolved Questions | 445 |
 | 71 | [[calibration]] | — | — | Unresolved Questions | 445 |
 | 72 | [[Epistemic-Virtue|Epistemic Virtue]] | — | — | Unresolved Questions | 445 |
 | 73 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 461 |
-| 74 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 463 |
+| 74 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 463 |
 | 75 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | Phase VII: PKB Connections & Cross-Re... | 465 |
 | 76 | [[Report 10: Scaffolding and Fading]] | — | — | Phase VII: PKB Connections & Cross-Re... | 465 |
 | 77 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Epistemic Autonomy]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
@@ -740,12 +740,12 @@ extraction_summary:
 - [[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]]
 - [[Bayesian-Knowledge-Tracing|Bayesian Knowledge Tracing]]
 - [[calibration]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive-Partnership-Model-—-Original-Synthesis|Cognitive Partnership Model]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[constructivism]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dialectical-Knowledge-Building|Dialectical Knowledge Building]]
 - [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Epistemic Autonomy]]
 - [[epistemic-humility|Epistemic Humility]]
@@ -782,7 +782,7 @@ extraction_summary:
 - [[Report 29: Ethical PKM]]
 - [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Scaffolding and Fading]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Semantic Vector Embeddings]]
 - [[Socratic Philosophy]]
 - [[tacit-knowledge|Tacit Knowledge]]

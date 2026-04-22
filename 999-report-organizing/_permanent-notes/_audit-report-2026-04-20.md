@@ -128,25 +128,25 @@ They have outgoing links but nothing links back to them.
 
 | Note | Incoming | Outgoing |
 |---|---|---|
-| [[cognitive-load-theory]] | 818 | 177 |
+| [[Cognitive Load Theory (CLT)]] | 818 | 177 |
 | [[self-regulated-learning]] | 729 | 233 |
 | [[metacognition]] | 718 | 349 |
 | [[working-memory]] | 672 | 238 |
-| [[schema-theory]] | 631 | 20 |
+| [[schema-theory-and-knowledge-organization]] | 631 | 20 |
 | [[transfer-of-learning]] | 553 | 139 |
 | [[self-determination-theory]] | 489 | 188 |
 | [[metacognitive-monitoring]] | 469 | 216 |
-| [[desirable-difficulties]] | 448 | 270 |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | 448 | 270 |
 | [[_Master-Expansion-Topics-Index]] | 436 | 1009 |
-| [[intrinsic-motivation]] | 395 | 191 |
+| [[Intrinsic Motivation]] | 395 | 191 |
 | [[achievement-goal-theory]] | 388 | 75 |
 | [[long-term-memory]] | 385 | 131 |
 | [[_Master-PKB-Connections-Index]] | 379 | 880 |
 | [[self-efficacy]] | 371 | 178 |
-| [[fluency-illusion]] | 366 | 203 |
+| [[Fluency Illusion]] | 366 | 203 |
 | [[growth-mindset]] | 362 | 110 |
 | [[metacognitive-regulation]] | 362 | 148 |
-| [[attribution-theory]] | 357 | 118 |
+| [[Attribution (Heider, 1958)]] | 357 | 118 |
 | [[deliberate-practice]] | 338 | 99 |
 
 ---

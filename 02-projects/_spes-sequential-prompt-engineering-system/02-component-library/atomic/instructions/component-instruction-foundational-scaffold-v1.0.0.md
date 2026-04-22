@@ -363,7 +363,7 @@ Use the Foundational Report Scaffold (Comparative Analysis Variation) to analyze
 [COMPARISON_DIMENSIONS]: Theoretical foundations, View of learner, Instructional methods, Evidence base, Limitations, Modern applications
 [SYNTHESIS_GOAL]: Develop selection criteria for when to apply each approach
 
-[EXISTING_CONCEPTS]: [[cognitive-load-theory]], [[metacognition]], [[self-determination-theory]]
+[EXISTING_CONCEPTS]: [[Cognitive Load Theory (CLT)]], [[metacognition]], [[self-determination-theory]]
 
 Ensure Phase 2 includes:
 - Fair representation of each theory's strengths

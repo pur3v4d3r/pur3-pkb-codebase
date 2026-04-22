@@ -80,7 +80,7 @@ tags:
 
 ## Step 4: Application Priming
 
-> [!tip] Connect to genuine intellectual need. This activates [[intrinsic-motivation]] through [[self-determination-theory|autonomy]] and [[relatedness]].
+> [!tip] Connect to genuine intellectual need. This activates [[Intrinsic Motivation]] through [[self-determination-theory|autonomy]] and [[relatedness]].
 
 **What problem in my existing PKB or understanding might this framework help address?**
 > 
@@ -92,7 +92,7 @@ tags:
 
 ## Step 5: Vocabulary Pre-Load
 
-> [!tip] Reduce [[cognitive-load-theory|cognitive load]] during reading by pre-activating technical terms. See [[lexical-automaticity]].
+> [!tip] Reduce [[Cognitive Load Theory (CLT)|cognitive load]] during reading by pre-activating technical terms. See [[lexical-automaticity]].
 
 **Technical terms likely to appear that I should review:**
 
@@ -156,4 +156,4 @@ tags:
 > - [[prior-knowledge-activation]] — Steps 1-2 systematically activate prior knowledge
 > - [[analogical-reasoning]] — Step 1 uses structural analogy for schema activation
 > - [[schema-accommodation]] — New frameworks require accommodation, not just assimilation
-> - [[cognitive-load-theory]] — Vocabulary pre-load reduces extraneous load during reading
+> - [[Cognitive Load Theory (CLT)]] — Vocabulary pre-load reduces extraneous load during reading

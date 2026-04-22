@@ -2094,7 +2094,7 @@ subtask_execution:
 **Depth Potential:** Synthesize CLT research with prompt engineering for optimized agent cognition  
 **Knowledge Graph Role:** Semantic bridge between [[cognitive-science]] and [[Prompt-Engineering]]  
 **Priority:** Medium — Enhances prompt quality understanding  
-**Prerequisites:** [[cognitive-load-theory]], [[Chain-of-Thought]]
+**Prerequisites:** [[Cognitive Load Theory (CLT)]], [[Chain-of-Thought]]
 
 ### 4. **[[Automated Testing for LLM Outputs]]**
 **Connection:** Roadmap verification steps require automated validation—testing frameworks enable this  

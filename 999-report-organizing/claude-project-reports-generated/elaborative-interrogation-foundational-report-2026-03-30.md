@@ -122,7 +122,7 @@ related:
   - "[[self-explanation-effect]]"
   - "[[generation-effect]]"
   - "[[generative-learning-theory]]"
-  - "[[retrieval-practice]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[metacognitive-knowledge]]"
   - "[[situation-models-in-text-comprehension]]"
   - "[[comprehension-monitoring]]"
@@ -130,7 +130,7 @@ related:
 
 broader:
   - "[[self-regulated-learning]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
 
 narrower:
   - "[[orienting-task]]"
@@ -145,7 +145,7 @@ see-also:
 contrasts-with:
   - "[[maintenance-rehearsal]]"
   - "[[shallow-processing]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
 
 applied-in:
   - "[[self-directed-learning]]"
@@ -224,13 +224,13 @@ original_contributions:
 
 ## Phase I: Orientation & Context Setting
 
-Among the cognitive strategies that research has identified as genuinely effective for learning, [[elaborative-interrogation|elaborative interrogation]] occupies a peculiar position: it is simultaneously one of the most empirically robust techniques in educational psychology and one of the most routinely ignored in instructional practice. Learners who are taught to ask *why* about facts they encounter — not as a rhetorical gesture but as a disciplined generative act of explanation — demonstrate measurably superior retention and transfer compared to those who engage in conventional re-reading, passive highlighting, or note-taking that reproduces rather than transforms. Yet despite decades of programmatic research supporting its efficacy, elaborative interrogation remains largely absent from pedagogical curricula, study-skills courses, and the self-regulatory repertoires of even sophisticated adult learners.
+Among the cognitive strategies that research has identified as genuinely effective for learning, [[Elaborative Interrogation|elaborative interrogation]] occupies a peculiar position: it is simultaneously one of the most empirically robust techniques in educational psychology and one of the most routinely ignored in instructional practice. Learners who are taught to ask *why* about facts they encounter — not as a rhetorical gesture but as a disciplined generative act of explanation — demonstrate measurably superior retention and transfer compared to those who engage in conventional re-reading, passive highlighting, or note-taking that reproduces rather than transforms. Yet despite decades of programmatic research supporting its efficacy, elaborative interrogation remains largely absent from pedagogical curricula, study-skills courses, and the self-regulatory repertoires of even sophisticated adult learners.
 
 This foundational report undertakes a comprehensive treatment of elaborative interrogation (hereafter EI): its definition, its historical and theoretical origins, the empirical landscape of evidence for and against its efficacy, the mechanisms by which it operates, the conditions under which it succeeds or fails, and its practical implications for academic reading, self-directed study, and [[personal-knowledge-base|personal knowledge base]] construction. The report is organized around a central architectural question: *through what cognitive operations does the act of generating a "why" answer transform a fragile factual representation into a durable, transferable piece of knowledge?*
 
 ### Why This Matters Now
 
-The contemporary learning environment confronts the serious adult learner with a paradox: access to information has never been more abundant, yet the cognitive infrastructure for integrating that information into actionable, lasting understanding is rarely cultivated. The availability heuristic of modern information culture — the sense that one has comprehended something because one has encountered it — exploits the [[fluency-illusion|fluency illusion]] at the very moment when deep engagement is most needed. [[elaborative-interrogation|Elaborative Interrogation]] offers a structural corrective: by requiring the learner to generate explanatory answers rather than merely re-encounter content, it interrupts fluency-driven pseudo-comprehension and forces genuine knowledge integration.
+The contemporary learning environment confronts the serious adult learner with a paradox: access to information has never been more abundant, yet the cognitive infrastructure for integrating that information into actionable, lasting understanding is rarely cultivated. The availability heuristic of modern information culture — the sense that one has comprehended something because one has encountered it — exploits the [[Fluency Illusion|fluency illusion]] at the very moment when deep engagement is most needed. [[Elaborative Interrogation|Elaborative Interrogation]] offers a structural corrective: by requiring the learner to generate explanatory answers rather than merely re-encounter content, it interrupts fluency-driven pseudo-comprehension and forces genuine knowledge integration.
 
 For PKB practitioners specifically, EI is not merely a reading technique but a *linking operation* — a mechanism for creating the inferential bridges between new information and existing knowledge graph nodes that give a personal knowledge base its epistemic value. A PKB note that records what a text says is a transcription; a note produced through disciplined elaborative interrogation is a synthesis. The difference between these two outcomes is precisely what this report addresses.
 
@@ -282,7 +282,7 @@ Elaborative interrogation can be operationalized along several dimensions, each 
 
 ### The Conceptual Architecture: How EI Fits Within Learning Strategies
 
-Elaborative interrogation is best understood not as an isolated technique but as an instance of a broader family of *generative processing* strategies — strategies that require the learner to actively construct meaning rather than passively receive it. This family includes [[retrieval-practice|retrieval practice]] (actively reconstructing knowledge from memory), [[self-explanation-effect|self-explanation]] (generating accounts of how something works), the [[kwl-strategy|KWL strategy]] (activating prior knowledge before reading), and [[writing-to-learn|writing to learn]] (transforming knowledge through extended verbal production).
+Elaborative interrogation is best understood not as an isolated technique but as an instance of a broader family of *generative processing* strategies — strategies that require the learner to actively construct meaning rather than passively receive it. This family includes [[Desirable Difficulties (Robert Bjork, 1994)|retrieval practice]] (actively reconstructing knowledge from memory), [[self-explanation-effect|self-explanation]] (generating accounts of how something works), the [[kwl-strategy|KWL strategy]] (activating prior knowledge before reading), and [[writing-to-learn|writing to learn]] (transforming knowledge through extended verbal production).
 
 > [!key-claim]
 > What distinguishes EI within this family is its *targeted specificity*: unlike broad reflective strategies, EI focuses the generative operation on a specific propositional unit and requires a causal-explanatory answer format. This precision is precisely what gives EI its clinical sharpness as a technique — it cannot be performed merely performatively. A learner who asks themselves "why is this true?" about a proposition they do not understand well enough to generate any plausible causal account is immediately confronted with a *diagnostic gap* in their prior knowledge — a fact that is itself metacognitively valuable.
@@ -307,7 +307,7 @@ Elaborative interrogation fits within this framework as a *structural deep-proce
 > [!insight]
 > A critical refinement of LOP theory relevant to EI is Craik and Tulving's (1975) concept of *elaboration within a level*: not merely reaching deep (semantic) processing, but the *richness and interconnectedness* of that processing. A learner who generates a sparse, minimally elaborated why-answer ("because evolution") is processing at a nominally deep level but with low elaborative richness. A learner who generates a specific, mechanism-referencing why-answer ("because the kangaroo rat's kidneys are highly efficient at concentrating urine, and its diet provides metabolic water through fat oxidation") is processing at both deep and *elaboratively rich* levels. The evidence suggests that this distinction matters for retention: richer elaborations produce superior memory, particularly for transfer to novel test formats.
 
-The LOP account also illuminates why EI outperforms many other commonly-used study techniques. [[shallow-processing|Shallow processing]] activities — re-reading, passive note-taking, underlining — operate at the surface-feature level and leave minimal semantic traces. EI forces the learner past the fluency threshold at which familiar-seeming information generates a subjective sense of comprehension without genuine encoding. The [[fluency-illusion|fluency illusion]] is particularly insidious in reading contexts: material encountered in a second or third pass feels processed even when the processing has remained shallow. EI disrupts this illusion structurally, because the generative demand reveals precisely where genuine encoding is absent.
+The LOP account also illuminates why EI outperforms many other commonly-used study techniques. [[shallow-processing|Shallow processing]] activities — re-reading, passive note-taking, underlining — operate at the surface-feature level and leave minimal semantic traces. EI forces the learner past the fluency threshold at which familiar-seeming information generates a subjective sense of comprehension without genuine encoding. The [[Fluency Illusion|fluency illusion]] is particularly insidious in reading contexts: material encountered in a second or third pass feels processed even when the processing has remained shallow. EI disrupts this illusion structurally, because the generative demand reveals precisely where genuine encoding is absent.
 
 ### Generative Learning Theory
 
@@ -320,7 +320,7 @@ Generative learning theory predicts EI's efficacy straightforwardly: the why-que
 
 ### Schema Theory and Prior Knowledge Activation
 
-[[schema-theory-and-learning|Schema theory]] (Bartlett, Rumelhart) provides a third theoretical pillar. Schemata are organised knowledge structures that encode not merely discrete facts but the relational, causal, and inferential patterns that give factual information its meaning. When a learner encounters a new proposition, comprehension consists not merely in parsing the proposition's surface syntax but in activating the relevant existing schema and assimilating the new information into its structure — or, when the new information is sufficiently discrepant, in accommodating the schema itself (see [[schema-theory|schema]] assimilation and accommodation).
+[[schema-theory-and-learning|Schema theory]] (Bartlett, Rumelhart) provides a third theoretical pillar. Schemata are organised knowledge structures that encode not merely discrete facts but the relational, causal, and inferential patterns that give factual information its meaning. When a learner encounters a new proposition, comprehension consists not merely in parsing the proposition's surface syntax but in activating the relevant existing schema and assimilating the new information into its structure — or, when the new information is sufficiently discrepant, in accommodating the schema itself (see [[schema-theory-and-knowledge-organization|schema]] assimilation and accommodation).
 
 EI accelerates and deepens this schematic integration process. The why-question format requires the learner to explicitly access the relevant schema — to retrieve, from long-term memory, the prior knowledge network within which the target proposition could be embedded — and to articulate the connection between the new proposition and the retrieved schema. This retrieval-and-articulation operation is itself a schema-enrichment event: not only does the new proposition acquire a richer set of connections, but the act of generating the why-answer reinforces and extends the prior knowledge structure itself.
 
@@ -339,7 +339,7 @@ The intellectual trajectory of EI research begins with Pressley and colleagues' 
 
 [[Woloshyn,-Pressley-&-Schneider-1992|Woloshyn, Pressley, and Schneider (1992)]] provided an influential developmental analysis, examining whether EI was differentially effective for younger versus older learners and whether prior knowledge mediated developmental differences. Their findings reinforced the conclusion that prior knowledge is not a background variable but the central moderator of EI's effectiveness — and that interventions designed to build prior knowledge before deploying EI would be more effective than deploying EI in knowledge-impoverished conditions.
 
-McDaniel and Donnelly's 1996 paper represents the theoretical maturation of the field, offering a systematic analysis of the mechanisms and boundary conditions. The 2013 Dunlosky et al. meta-analysis of ten learning strategies — a landmark in educational psychology — rated EI as having "moderate utility," distinguishing it from both the lower-utility strategies (highlighting, re-reading, keyword mnemonics) and the higher-utility strategies ([[retrieval-practice|retrieval practice]], [[spaced-repetition|spaced practice]]). The "moderate" rating reflected genuine efficacy conditioned on the prior knowledge moderator, not weak evidence.
+McDaniel and Donnelly's 1996 paper represents the theoretical maturation of the field, offering a systematic analysis of the mechanisms and boundary conditions. The 2013 Dunlosky et al. meta-analysis of ten learning strategies — a landmark in educational psychology — rated EI as having "moderate utility," distinguishing it from both the lower-utility strategies (highlighting, re-reading, keyword mnemonics) and the higher-utility strategies ([[Desirable Difficulties (Robert Bjork, 1994)|retrieval practice]], [[spaced-repetition|spaced practice]]). The "moderate" rating reflected genuine efficacy conditioned on the prior knowledge moderator, not weak evidence.
 
 > [!ask-yourself-this]
 > The theoretical landscape reviewed here — levels of processing, generative learning, and schema theory — represents three different "lenses" on the same phenomenon, each highlighting a different aspect of what EI does. As you work through the mechanisms section that follows, notice which theoretical framework you find most illuminating for understanding EI's effects. The choice of explanatory framework has practical implications: LOP directs attention to encoding quality; generative theory directs attention to constructive operations; schema theory directs attention to prior knowledge architecture.
@@ -385,11 +385,11 @@ Several studies have examined this moderation explicitly. Woloshyn, Willoughby, 
 
 ### Interactions with Cognitive Load
 
-[[cognitive-load-theory|Cognitive load theory]] provides a useful framework for understanding EI's resource demands. Generating a why-answer for a factual proposition imposes both [[intrinsic-cognitive-load|intrinsic cognitive load]] (the complexity of the content itself) and [[germane-cognitive-load|germane cognitive load]] (the cognitive effort invested in schema formation and elaboration). The EI operation is, by design, a high-germane-load activity: it requires the learner to invest substantive working memory resources in integrating new information with prior knowledge.
+[[Cognitive Load Theory (CLT)|Cognitive load theory]] provides a useful framework for understanding EI's resource demands. Generating a why-answer for a factual proposition imposes both [[Cognitive Load Theory (CLT)|intrinsic cognitive load]] (the complexity of the content itself) and [[Cognitive Load Theory (CLT)|germane cognitive load]] (the cognitive effort invested in schema formation and elaboration). The EI operation is, by design, a high-germane-load activity: it requires the learner to invest substantive working memory resources in integrating new information with prior knowledge.
 
 This load profile has several implications. First, EI is less effective when the learner is simultaneously managing high extraneous load — when the material is presented in a poorly organised format, the learning environment is distracting, or the learner is managing competing cognitive demands. In such conditions, the working memory resources necessary for generating quality why-answers may be unavailable. Second, EI may show reduced effectiveness for learners with limited [[working-memory|working memory]] capacity, who may be unable to sustain the extended semantic retrieval and integration operations required for elaborative answer generation.
 
-[[extraneous-cognitive-load|Extraneous cognitive load]] can be reduced through structural interventions — clear text organisation, advance organizers, signaling devices — that free working memory resources for germane EI processing. [[advance-organizers|Advance organizers]] in particular show synergy with EI: by activating prior knowledge before study, they reduce the retrieval effort required during EI execution, lowering the effective cognitive load and increasing the probability of accurate, richly-elaborated why-answers.
+[[Cognitive Load Theory (CLT)|Extraneous cognitive load]] can be reduced through structural interventions — clear text organisation, advance organizers, signaling devices — that free working memory resources for germane EI processing. [[advance-organizers|Advance organizers]] in particular show synergy with EI: by activating prior knowledge before study, they reduce the retrieval effort required during EI execution, lowering the effective cognitive load and increasing the probability of accurate, richly-elaborated why-answers.
 
 ### The Comprehension Monitoring Interface
 
@@ -452,7 +452,7 @@ This dynamic suggests that EI is not a general-purpose study strategy suitable f
 
 Dunlosky et al.'s (2013) meta-analysis provides the most comprehensive comparative framework. Among the ten strategies evaluated:
 
-- **[[retrieval-practice|Retrieval practice]] (high utility)** and EI (moderate utility) are the strongest performers in the category of encoding strategies. Retrieval practice's advantage likely reflects the testing effect — the additional consolidation benefit of retrieving information against resistance — which EI lacks. However, EI and retrieval practice are complementary rather than competing: EI deepens initial encoding, while retrieval practice consolidates and strengthens already-encoded information.
+- **[[Desirable Difficulties (Robert Bjork, 1994)|Retrieval practice]] (high utility)** and EI (moderate utility) are the strongest performers in the category of encoding strategies. Retrieval practice's advantage likely reflects the testing effect — the additional consolidation benefit of retrieving information against resistance — which EI lacks. However, EI and retrieval practice are complementary rather than competing: EI deepens initial encoding, while retrieval practice consolidates and strengthens already-encoded information.
 
 - **[[self-explanation-effect|Self-explanation]] (moderate utility)** and EI are closely related but differ in both their content targets and mechanisms. Self-explanation is most powerful for procedural and causal content, where the learner must generate accounts of *how* processes work; EI is most powerful for factual-relational content, where the learner must generate accounts of *why* facts hold. For content that is both factual and causal (which includes much scientific content), the strategies can be combined productively.
 
@@ -522,13 +522,13 @@ For PKB practice specifically, this insight translates into a design principle: 
 >
 > - **[[writing-to-learn]]** — Note-integrated EI combines EI's interrogative mechanism with writing's generative-processing benefits. These two strategies are synergistic, and this report provides the theoretical basis for the synergy.
 >
-> - **[[retrieval-practice]]** — EI and retrieval practice are complementary strategies targeting different moments in the learning cycle (initial encoding vs. consolidation). This report's mechanistic analysis clarifies why they should be combined rather than treated as alternatives.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — EI and retrieval practice are complementary strategies targeting different moments in the learning cycle (initial encoding vs. consolidation). This report's mechanistic analysis clarifies why they should be combined rather than treated as alternatives.
 >
 > - **[[habit-formation]]** — Sustained EI practice must become habitual to be effective. The habit formation literature informs the protocol design for making EI a routine component of reading practice.
 >
 > **Strengthened Permanent Notes:**
 >
-> This report adds substantial depth to: **[[metacognition-in-learning]]** (through the EI-comprehension monitoring interface analysis); **[[generative-learning-theory]]** (through the detailed EI mechanism account); **[[reading-fluency]]** (through the analysis of how EI disrupts the fluency illusion); **[[cognitive-load-theory]]** (through the germane load analysis of EI execution).
+> This report adds substantial depth to: **[[metacognition-in-learning]]** (through the EI-comprehension monitoring interface analysis); **[[generative-learning-theory]]** (through the detailed EI mechanism account); **[[reading-fluency]]** (through the analysis of how EI disrupts the fluency illusion); **[[Cognitive Load Theory (CLT)]]** (through the germane load analysis of EI execution).
 >
 > **Key Insight:** The pattern of connections reveals that EI is not a standalone technique but a *convergence point* in the knowledge graph: it sits at the intersection of encoding theory, schema theory, metacognitive regulation, and comprehension science. Its power derives precisely from this convergence — it operationalises, in a single disciplined act, the deepest insights from multiple theoretical traditions about what makes learning durable.
 
@@ -572,7 +572,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 >
 > **Research Status:** Well-supported in the core experimental literature (McDaniel & Donnelly, 1996; Reder & Anderson, 1982). The instructional implication — that accuracy verification should follow EI execution — is theoretically well-motivated but understudied operationally.
 >
-> **See also:** [[metacognitive-accuracy]], [[comprehension-monitoring]], [[calibration]], [[fluency-illusion]], [[metacognitive-knowledge]]
+> **See also:** [[metacognitive-accuracy]], [[comprehension-monitoring]], [[calibration]], [[Fluency Illusion]], [[metacognitive-knowledge]]
 
 > [!definition] **Generative Processing (Wittrock, 1974)**
 > Any cognitive operation in which the learner actively constructs relationships between new information and prior knowledge, as distinguished from passive reception or reproductive processes. EI is a specific instantiation of generative processing with a why-question format targeting factual propositions.
@@ -615,7 +615,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 >
 > **Common Misconception:** The generation effect does not mean that any generative operation improves retention for any content type. It is most robust when the generation operation forces semantic rather than phonological processing.
 >
-> **See also:** [[the-generation-effect]], [[retrieval-practice]], [[Testing-Effect]], [[self-explanation-effect]], [[productive-struggle]]
+> **See also:** [[the-generation-effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Testing-Effect]], [[self-explanation-effect]], [[productive-struggle]]
 
 > [!definition] **Elaborative Richness**
 > The degree to which a generated why-answer specifies a precise, mechanistic, and well-differentiated causal account, as contrasted with vague, tautological, or general explanatory claims. Elaborative richness is the within-deep-processing variable that determines the magnitude of EI's retention benefit: richer elaborations produce superior retention, particularly on transfer and inference measures.
@@ -624,14 +624,14 @@ For PKB practice specifically, this insight translates into a design principle: 
 >
 > **Research Status:** Theoretically well-motivated but operationally underspecified; the distinction between "rich" and "sparse" elaborations is typically assessed post-hoc by coders rather than prospectively by learners. Developing reliable prospective richness assessment tools is an open problem in the EI literature.
 >
-> **See also:** [[levels-of-processing-theory]], [[processing-depth]], [[meaningful-learning-theory]], [[generative-learning-theory]], [[schema-theory]]
+> **See also:** [[levels-of-processing-theory]], [[processing-depth]], [[meaningful-learning-theory]], [[generative-learning-theory]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **The Fluency Illusion (Bjork, 1994; Koriat & Bjork, 2005)**
 > The systematic metacognitive error in which the subjective ease of processing familiar-seeming information is mistaken for evidence of understanding or retention. Re-reading produces fluency without encoding, creating a powerful illusion of comprehension that masks actual encoding failure. EI is structurally resistant to the fluency illusion because the generative demand reveals, with diagnostic precision, the difference between fluency and genuine comprehension.
 >
 > **Common Misconception:** The fluency illusion is sometimes treated as a motivational problem (learners choose re-reading because it is comfortable). It is more precisely a metacognitive calibration failure: learners genuinely believe they have learned because re-reading feels like comprehension.
 >
-> **See also:** [[fluency-illusion]], [[fluency]], [[judgment-of-learning]], [[metacognitive-accuracy]], [[calibration]]
+> **See also:** [[Fluency Illusion]], [[fluency]], [[judgment-of-learning]], [[metacognitive-accuracy]], [[calibration]]
 
 ---
 
@@ -690,7 +690,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 >
 > **This Report's Position:** The prior knowledge constraint is mechanistically fundamental, not merely a practical limitation. Scaffolding can reduce but not eliminate it. EI should be sequenced after foundational knowledge-building.
 >
-> **See also:** [[prior-knowledge]], [[scaffolding]], [[productive-struggle]], [[matthew-effect-in-reading]]
+> **See also:** [[prior-knowledge]], [[Scaffolded Fading]], [[productive-struggle]], [[matthew-effect-in-reading]]
 
 > [!tension] **Self-Generated Elaborations vs. Provided Elaborations**
 >
@@ -732,7 +732,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 >
 > **Research Direction:** Pre-registered long-term retention studies (6-month, 12-month intervals) combining EI with and without subsequent retrieval practice, measuring both retention and transfer outcomes.
 >
-> **See also:** [[spaced-repetition]], [[retrieval-practice]], [[spacing-effect]], [[memory-systems]]
+> **See also:** [[spaced-repetition]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[memory-systems]]
 
 ---
 
@@ -994,7 +994,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 > >
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[elaborative-interrogation]], [[generative-learning-theory]], [[cognitive-load-theory]]
+> > **Prerequisites:** [[Elaborative Interrogation]], [[generative-learning-theory]], [[Cognitive Load Theory (CLT)]]
 >
 > > [!topic-idea] [[generative-learning-theory|Generative Learning Theory]]
 > > **Description:** Wittrock's generative learning theory (1974, 1990) is one of the three primary theoretical homes for EI, but the theory encompasses a much broader class of generative operations — summarisation, analogy generation, concept mapping, inference generation — than EI alone. A Foundational Report on generative learning theory would provide the macro-theoretical framework within which EI is one specific instance, and would map the full taxonomy of generative strategies with their respective mechanisms and boundary conditions. This report would also address the relationship between generative learning theory and [[constructivism]].
@@ -1021,7 +1021,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[elaborative-interrogation]], [[spaced-repetition]], [[spacing-effect]]
+> > **Prerequisites:** [[Elaborative Interrogation]], [[spaced-repetition]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 >
 > > [!topic-idea] [[Prior Knowledge Thresholds in Learning Strategy Selection]]
 > > **Description:** The prior knowledge threshold problem is one of the central unresolved issues in EI research, but it is a specific instance of a broader question: how should learners calibrate their strategy choices to their current knowledge state in any given domain? A focused analysis of prior knowledge thresholds across multiple learning strategies would provide a decision framework for strategy selection as a function of domain familiarity, addressing EI, self-explanation, retrieval practice, and analogy-based learning in an integrated comparative framework. This would directly extend this report's conditional metacognitive knowledge analysis.
@@ -1030,7 +1030,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 > >
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[prior-knowledge]], [[metacognitive-knowledge]], [[elaborative-interrogation]], [[self-regulated-learning]]
+> > **Prerequisites:** [[prior-knowledge]], [[metacognitive-knowledge]], [[Elaborative Interrogation]], [[self-regulated-learning]]
 >
 > > [!topic-idea] [[Desirable Difficulties in Learning Science]]
 > > **Description:** EI is one of a broader class of "desirable difficulties" — learning conditions that feel less fluent but produce superior long-term retention and transfer (Bjork, 1994). A Foundational Report on desirable difficulties would provide the umbrella framework covering EI, spaced practice, interleaving, generation effects, and contextual interference, explaining why conditions that feel harder often produce better learning. This framework would contextualise EI within the broader landscape of effort-requiring learning operations and would address the common resistance learners experience toward strategies that disrupt the fluency that re-reading provides.
@@ -1039,7 +1039,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[fluency-illusion]], [[retrieval-practice]], [[productive-struggle]], [[spacing-effect]]
+> > **Prerequisites:** [[Fluency Illusion]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[productive-struggle]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 >
 > > [!topic-idea] [[Collaborative and Socially Scaffolded Elaborative Interrogation]]
 > > **Description:** Most EI research has examined individual strategy use, but there is a theoretically motivated case for collaborative EI: when learners generate why-answers together, the social verification component can partially address the accuracy constraint that limits individual EI in knowledge-impoverished domains. A focused analysis examining collaborative EI would draw on the [[situated-learning|situated learning]] and [[communities-of-practice|communities of practice]] literature, address the conditions under which social scaffolding of EI improves outcomes, and examine whether collaborative EI can extend the strategy's applicability to novice learners.
@@ -1048,7 +1048,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[elaborative-interrogation]], [[metacognitive-scaffolding]], [[self-directed-learning]]
+> > **Prerequisites:** [[Elaborative Interrogation]], [[Metacognitive Scaffolding]], [[self-directed-learning]]
 
 ---
 
@@ -1079,7 +1079,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 >
 > - **[[writing-to-learn]]** — Note-integrated EI is a specific form of writing-to-learn that combines the elaborative interrogation mechanism with the generative-processing benefits of extended written production. These two nodes are mutually enriching: EI specifies the interrogative structure for writing-to-learn exercises; writing-to-learn specifies the medium for externalising EI operations.
 >
-> - **[[retrieval-practice]]** — EI and retrieval practice operate at different points in the learning cycle and are mechanistically complementary. EI deepens initial encoding; retrieval practice consolidates and strengthens encoded material. This report establishes why combining them is preferable to deploying either alone.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — EI and retrieval practice operate at different points in the learning cycle and are mechanistically complementary. EI deepens initial encoding; retrieval practice consolidates and strengthens encoded material. This report establishes why combining them is preferable to deploying either alone.
 >
 > - **[[habit-formation]]** — Sustained EI practice requires habit formation. The habit formation literature provides the cue-routine-reward structure and implementation intention research that makes EI deployment reliable across varied reading contexts. Without habitual deployment, EI's benefits are episodic rather than systematic.
 >
@@ -1088,7 +1088,7 @@ For PKB practice specifically, this insight translates into a design principle: 
 > **Strengthened Permanent Notes:**
 > - **[[metacognition-in-learning]]** — The EI-comprehension monitoring interface analysis adds precision to how metacognitive monitoring operates during academic reading.
 > - **[[reading-fluency]]** — The fluency illusion analysis clarifies that fluency and comprehension are dissociable and that high-fluency conditions can mask encoding failure.
-> - **[[cognitive-load-theory]]** — The analysis of EI as a high-germane-load activity enriches the CLT node with a specific, theory-grounded example.
+> - **[[Cognitive Load Theory (CLT)]]** — The analysis of EI as a high-germane-load activity enriches the CLT node with a specific, theory-grounded example.
 > - **[[productive-struggle]]** — EI is a paradigm case of productive struggle: the cognitive effort of generating why-answers is the mechanism, not a side-effect, of EI's benefits.
 >
 > **Key Insight:** Elaborative interrogation sits at the convergence of encoding theory, schema activation, metacognitive regulation, and comprehension science — it is a procedural operationalisation of what multiple theoretical traditions independently identify as the core of deep learning. Its PKB role as a *link-creation operation* (generating wiki-links from new notes to existing nodes through EI-derived integration answers) makes it structurally isomorphic to the PKB's own architecture as a knowledge graph.

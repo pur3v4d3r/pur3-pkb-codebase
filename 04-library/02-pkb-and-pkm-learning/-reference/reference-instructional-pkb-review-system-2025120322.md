@@ -361,7 +361,7 @@ Your PKB serves as an [[Extended-Cognition]] system—an external structure that
 The system operates on three cognitive science foundations:
 
 1. **[[Testing-Effect]]**: Actively retrieving information strengthens memory more than passive re-reading
-2. **[[spacing-effect]]**: Distributed practice over time produces superior long-term retention
+2. **[[Desirable Difficulties (Robert Bjork, 1994)]]**: Distributed practice over time produces superior long-term retention
 3. **[[metacognitive-monitoring]]**: Explicitly judging your own comprehension calibrates learning
 
 ### 1.2 Stoic Integration Framework

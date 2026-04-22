@@ -64,7 +64,7 @@ related_concepts:
   - "[[metacognitive-monitoring]]"
   - "[[Prompt-Engineering]]"
   - "[[LLM Reasoning]]"
-  - "[[cognitive-scaffolding]]"
+  - "[[Cognitive Scaffolding]]"
   - "[[Quality Assurance Systems]]"
   - "[[Claude Architecture]]"
 prerequisites:

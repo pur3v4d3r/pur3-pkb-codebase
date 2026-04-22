@@ -39,7 +39,7 @@ link-up:
   - "[[psychology-moc]]"
   - "[[pkb-&-pkm-moc]]"
 link-related:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[working-memory]]"
   - "[[long-term-memory]]"
   - "[[spaced-repetition]]"
@@ -193,7 +193,7 @@ LIMIT 10
   - [**Extraneous-Load-Reduction**:: eliminate redundant information, integrate text with visuals, use signaling to highlight organization, provide clear hierarchies, remove decorative elements, and optimize modality (spoken text with visuals to leverage dual channels).]
 
 **Germane Load**
-- [[germane-load]] - Schema construction effort
+- [[Cognitive Load Theory (CLT)]] - Schema construction effort
   - [**Germane-Load-Definition**:: the productive cognitive processing devoted to building, organizing, and automating knowledge structures (schemas)—this is the "good" load that directly contributes to learning and should be maximized within working memory limits.]
   - [**Schema-Building-Strategies**:: self-explanation, elaborative interrogation, concept mapping, analogy generation, interleaving different problem types, and retrieval practice—all activities that promote deep processing and knowledge organization.]
 
@@ -440,10 +440,10 @@ if (bridges.length > 0) {
 ### Known Integration Points
 
 **Learning & Memory ↔ Cognitive Science**
-- [[working-memory]] ↔ [[cognitive-architecture]] (structural foundations)
-- [[cognitive-load-theory]] ↔ [[attention]] (capacity constraints)
+- [[working-memory]] ↔ [[Cognitive Architecture]] (structural foundations)
+- [[Cognitive Load Theory (CLT)]] ↔ [[attention]] (capacity constraints)
 - [[long-term-memory]] ↔ [[distributed-cognition]] (extended memory systems)
-- [[retrieval-practice]] ↔ [[metacognition]] (monitoring accuracy)
+- [[Desirable Difficulties (Robert Bjork, 1994)]] ↔ [[metacognition]] (monitoring accuracy)
 
 **Learning & Memory ↔ Neuroscience**
 - [[long-term-memory]] ↔ [[neuroplasticity]] (synaptic consolidation)
@@ -455,12 +455,12 @@ if (bridges.length > 0) {
 - [[self-regulated-learning]] ↔ [[self-determination-theory]] (autonomous motivation)
 - [[deliberate-practice]] ↔ [[flow-theory]] (optimal challenge)
 - [[spaced-repetition]] ↔ [[Focus Of Attention]] (sustained engagement)
-- [[cognitive-load-theory]] ↔ [[cognitive-behavioral-therapy]] (working memory in rumination)
+- [[Cognitive Load Theory (CLT)]] ↔ [[cognitive-behavioral-therapy]] (working memory in rumination)
 
 **Learning & Memory ↔ Philosophy**
 - [[Learning Theory]] ↔ [[epistemology]] (nature of knowledge)
 - [[transfer-of-learning]] ↔ [[pragmatism]] (application to novel contexts)
-- [[schema-theory]] ↔ [[epistemic-cognition]] (knowledge organization)
+- [[schema-theory-and-knowledge-organization]] ↔ [[epistemic-cognition]] (knowledge organization)
 
 **Learning & Memory ↔ Applied Techniques**
 - [[spaced-repetition]] ↔ [[Progressive-Summarization]] (PKM integration)
@@ -654,18 +654,18 @@ dv.list(sortedSources.map(([source, count]) => `**${source}**: ${count} notes`))
    - *Depth Potential*: Paradoxical effect where retrieving some memories impairs related memories
    - *Knowledge Graph Role*: Links memory mechanisms to strategic study techniques
 
-2. **[[schema-automation]]**
-   - *Connection*: Bridges [[cognitive-load-theory]] and [[deliberate-practice]]
+2. **[[Schema Automation]]**
+   - *Connection*: Bridges [[Cognitive Load Theory (CLT)]] and [[deliberate-practice]]
    - *Depth Potential*: How schemas move from controlled to automatic processing through practice
    - *Knowledge Graph Role*: Explains expertise development and working memory capacity expansion
 
 3. **[[generation-effect]]**
-   - *Connection*: Core mechanism underlying [[self-explanation]] and active learning
+   - *Connection*: Core mechanism underlying [[self-explanation-effect]] and active learning
    - *Depth Potential*: Self-generated information remembered better than passively received
    - *Knowledge Graph Role*: Foundational principle for instructional design choices
 
 4. **[[encoding-specificity-principle]]**
-   - *Connection*: Theoretical foundation for context effects in [[retrieval-practice]]
+   - *Connection*: Theoretical foundation for context effects in [[Desirable Difficulties (Robert Bjork, 1994)]]
    - *Depth Potential*: Memory performance depends on match between encoding and retrieval contexts
    - *Knowledge Graph Role*: Links memory theory to practical study environment design
 

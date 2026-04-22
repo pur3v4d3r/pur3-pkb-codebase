@@ -156,10 +156,10 @@ Cognitivism emerged in the mid-20th century as a response to behaviorism's limit
 Cognitivist principles inform teaching through:
 - [[advance-organizers]] providing conceptual frameworks before detailed content
 - [[Concept Mapping]] to externalize knowledge structures
-- [[chunking]] information to respect working memory limitations
+- [[Chunk (Miller, 1956; Chase & Simon, 1973)]] information to respect working memory limitations
 - [[elaborative-rehearsal]] promoting deep processing
 - [[metacognitive-strategies]] helping learners monitor their thinking
-- [[scaffolding]] that progressively transfers cognitive responsibility
+- [[Scaffolded Fading]] that progressively transfers cognitive responsibility
 
 ### 🏗️ Constructivism: Active Knowledge Construction
 
@@ -275,7 +275,7 @@ Humanistic approaches prioritize the learner's emotional well-being, intrinsic m
 
 > [!definition]
 > - **Direct Instruction**:: A teacher-centered pedagogical approach characterized by explicit explanation, modeling, guided practice, and independent practice in a structured sequence
-> - **Theoretical Foundation**:: [[Behaviorism]], [[cognitive-load-theory]]
+> - **Theoretical Foundation**:: [[Behaviorism]], [[Cognitive Load Theory (CLT)]]
 
 Direct Instruction represents the systematic, explicit teaching of specific skills or knowledge through a clearly defined sequence. The method emphasizes teacher demonstration, student practice under supervision, and corrective feedback until learners achieve mastery.
 

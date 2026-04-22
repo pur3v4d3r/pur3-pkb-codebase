@@ -72,7 +72,7 @@ such updating possible.
 
 ### Exemplar 2: Working Memory (Cognitive Architecture)
 
-**Topic area:** [[working-memory]] · [[cognitive-load]] · [[attention]]
+**Topic area:** [[working-memory]] · [[Cognitive Load Theory (CLT)]] · [[attention]]
 **Demonstrates:** Mechanism-tracing as primary engine with compressed burst; no contrastive move (reserved for elsewhere)
 
 ```markdown

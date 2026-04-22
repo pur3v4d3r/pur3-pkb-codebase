@@ -148,7 +148,7 @@ prerequisites:
   - "[[Constructivism-in-Learning-Theory]]"
 
 related:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[metacognition-and-lifelong-learning]]"
   - "[[transfer-of-learning]]"
   - "[[prior-knowledge]]"
@@ -165,8 +165,8 @@ broader:
 narrower:
   - "[[Script-Theory-Schank-and-Abelson]]"
   - "[[Frame-Theory-Minsky]]"
-  - "[[schema-automation]]"
-  - "[[schema-construction]]"
+  - "[[Schema Automation]]"
+  - "[[Schema Construction]]"
   - "[[declarative-schemas]]"
   - "[[procedural-schemas]]"
 
@@ -196,22 +196,22 @@ builds-on:
   - "[[gestalt-psychology-and-perception]]"
   - "[[piaget-developmental-stages]]"
   - "[[bartlett-reconstructive-memory-experiments]]"
-  - "[[information-processing-model]]"
+  - "[[Winne's-information-processing-model]]"
 
 enables:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[Advance-Organizer-Design]]"
   - "[[Conceptual-Change-Pedagogy]]"
   - "[[Expert-Reasoning-and-Adaptive-Expertise]]"
   - "[[schema-progressive-architecture]]"
 
 expansion-topics:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[Conceptual-Change-Theory]]"
   - "[[transfer-of-learning]]"
   - "[[expert-novice-research]]"
   - "[[Script-Theory-Schank-and-Abelson]]"
-  - "[[schema-construction]]"
+  - "[[Schema Construction]]"
   - "[[advance-organizers]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -307,13 +307,13 @@ generation-date: "2026-03-31"
 
 There is a moment, familiar to anyone who has taught or studied seriously, in which a student looks directly at information and simply does not see it — not because of perceptual failure, not because of insufficient motivation, but because they lack the cognitive *framework* into which the information could fit. The text produces words, the words produce sentences, the sentences produce no coherent meaning. Something is missing that is not more data. It is structure. It is what cognitive psychologists, going back nearly a century, have called a **schema**.
 
-[[schema-theory|Schema theory]] is among the most conceptually consequential frameworks in the history of cognitive psychology and learning science. Its core proposition is deceptively simple: human knowledge is not stored as a flat collection of isolated facts but as an organized architecture of interlocking, generative mental structures — schemas — that simultaneously encode what we know, shape what we perceive, govern how we interpret new information, and constrain what we later remember. Every act of comprehension is, at its root, a schema-activation event. Every act of learning is, in some sense, a schema-modification event. Understanding this framework means understanding something foundational about human cognition.
+[[schema-theory-and-knowledge-organization|Schema theory]] is among the most conceptually consequential frameworks in the history of cognitive psychology and learning science. Its core proposition is deceptively simple: human knowledge is not stored as a flat collection of isolated facts but as an organized architecture of interlocking, generative mental structures — schemas — that simultaneously encode what we know, shape what we perceive, govern how we interpret new information, and constrain what we later remember. Every act of comprehension is, at its root, a schema-activation event. Every act of learning is, in some sense, a schema-modification event. Understanding this framework means understanding something foundational about human cognition.
 
-**Why schema theory retains centrality.** One might reasonably ask whether a theoretical framework whose foundational empirical work dates to 1932 remains intellectually vital. The answer is unequivocally yes — for reasons both historical and contemporary. Historically, schema theory constituted a decisive break with the associationist and behaviourist paradigms that dominated early twentieth-century psychology: it restored the mind as an active, structuring agent rather than a passive register of stimulus-response associations. Conceptually, schema theory represents the broadest and most empirically grounded account of knowledge organization available in cognitive science. Contemporary neuroscience has begun to identify the neural substrates of schema-like structures, lending the theoretical framework biological anchoring it previously lacked. And practically, schema theory undergirds the dominant instructional frameworks of the past four decades — including [[cognitive-load-theory|Cognitive Load Theory]], [[advance-organizers|advance organizer]] pedagogy, [[expert-novice-research|expert-novice research]], and curriculum sequencing — rendering it not merely historically interesting but operationally indispensable.
+**Why schema theory retains centrality.** One might reasonably ask whether a theoretical framework whose foundational empirical work dates to 1932 remains intellectually vital. The answer is unequivocally yes — for reasons both historical and contemporary. Historically, schema theory constituted a decisive break with the associationist and behaviourist paradigms that dominated early twentieth-century psychology: it restored the mind as an active, structuring agent rather than a passive register of stimulus-response associations. Conceptually, schema theory represents the broadest and most empirically grounded account of knowledge organization available in cognitive science. Contemporary neuroscience has begun to identify the neural substrates of schema-like structures, lending the theoretical framework biological anchoring it previously lacked. And practically, schema theory undergirds the dominant instructional frameworks of the past four decades — including [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], [[advance-organizers|advance organizer]] pedagogy, [[expert-novice-research|expert-novice research]], and curriculum sequencing — rendering it not merely historically interesting but operationally indispensable.
 
 **What is at stake.** The stakes of schema theory extend well beyond laboratory demonstrations of memory distortion. When a medical student fails to diagnose a case that an experienced clinician immediately recognizes, the difference is, in large part, a difference in the richness and accessibility of their domain schemas. When a student reads a history text and remembers something subtly different from what was written, schema-driven reconstruction is at work. When an instructional sequence that seems logically clear to an expert produces bewilderment in a novice, the cause is typically a mismatch between the instructional assumptions about what schemas the learner brings and what schemas the learner actually possesses. The theory is not merely descriptive; it is diagnostic — and prescriptive.
 
-**Scope of this report.** This report provides a comprehensive foundational treatment of schema theory: its historical origins in [[frederic-bartlett|Bartlett]] and [[jean-piaget|Piaget]], its computational elaboration in [[David-Rumelhart|Rumelhart]], its pedagogical extensions in [[david-ausubel|Ausubel]] and [[roger-schank|Schank]], the cognitive mechanisms by which schemas operate (activation, instantiation, default inference, schema-driven reconstruction, and the three modes of schema change), the instructional applications that derive from the theory, its known limitations and unresolved tensions, and a structured appendix of lexical, bibliographic, and generative resources for deeper inquiry. Adjacent frameworks — particularly [[cognitive-load-theory|Cognitive Load Theory]] and [[Conceptual-Change-Theory|Conceptual Change Theory]] — are referenced but given their own dedicated treatment elsewhere in this knowledge base.
+**Scope of this report.** This report provides a comprehensive foundational treatment of schema theory: its historical origins in [[frederic-bartlett|Bartlett]] and [[jean-piaget|Piaget]], its computational elaboration in [[David-Rumelhart|Rumelhart]], its pedagogical extensions in [[david-ausubel|Ausubel]] and [[roger-schank|Schank]], the cognitive mechanisms by which schemas operate (activation, instantiation, default inference, schema-driven reconstruction, and the three modes of schema change), the instructional applications that derive from the theory, its known limitations and unresolved tensions, and a structured appendix of lexical, bibliographic, and generative resources for deeper inquiry. Adjacent frameworks — particularly [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] and [[Conceptual-Change-Theory|Conceptual Change Theory]] — are referenced but given their own dedicated treatment elsewhere in this knowledge base.
 
 **Roadmap.** Phase II establishes the precise definitional and conceptual infrastructure — schema, assimilation, accommodation, equilibration, and the foundational distinctions without which subsequent analysis collapses into ambiguity. Phase III maps the theoretical landscape: the four major theoretical strands that constitute schema theory as a field rather than a single monolithic position. Phase IV unpacks the cognitive mechanisms — how schemas actually do their work moment-to-moment in comprehension, inference generation, and memory retrieval. Phase V turns to practice and critique — instructional applications, cross-domain evidence, genuine limitations, and misconceptions requiring correction. Phase VI synthesizes the whole, revisiting the opening stakes and mapping connections to the broader knowledge graph.
 
@@ -331,7 +331,7 @@ The word derives from the Greek *skhēma* (form, figure, shape), and its entry i
 The generativity of schemas deserves particular emphasis, as it is what distinguishes the concept from a simple memory trace or category boundary. A well-developed schema for "scientific paper" does not merely recognize instances of the category; it *generates* expectations: there will be an abstract, a methods section, a results section, a discussion. When a paper deviates from these expectations, the reader notices. When a new paper is encountered, the schema drives anticipatory inference before those sections are reached. The schema is a predictive engine, not merely a recognition device.
 
 > [!key-claim] **Schemas as the Units of Long-Term Memory Most Relevant to Learning**
-> From the perspective of [[cognitive-load-theory|Cognitive Load Theory]] and instructional science, schemas are the units of [[long-term-memory|long-term memory]] that matter most for learning. They compress complexity into manageable patterns by chunking multiple elements that must be treated as a unit into a single representational structure. What the working memory theorist sees as "a single chunk" is, more precisely, an instantiated schema. This compression is why experts can hold far more domain-relevant information in working memory than novices: their schemas chunk more. Schema acquisition is, in effect, the mechanism by which [[working-memory|working memory]] limitations are circumvented in the long run.
+> From the perspective of [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] and instructional science, schemas are the units of [[long-term-memory|long-term memory]] that matter most for learning. They compress complexity into manageable patterns by chunking multiple elements that must be treated as a unit into a single representational structure. What the working memory theorist sees as "a single chunk" is, more precisely, an instantiated schema. This compression is why experts can hold far more domain-relevant information in working memory than novices: their schemas chunk more. Schema acquisition is, in effect, the mechanism by which [[working-memory|working memory]] limitations are circumvented in the long run.
 
 ### Piaget's Tripartite Architecture: Assimilation, Accommodation, Equilibration
 
@@ -465,7 +465,7 @@ This mechanism has several important properties. Schema-consistent information i
 
 ### 4. Schema Automation and the Release of Working Memory
 
-[[schema-automation|Schema automation]] is arguably the most important mechanism linking schema theory to instructional design. A newly acquired schema requires deliberate, effortful application: the learner must consciously retrieve the schema, deliberately apply it to the incoming material, and actively manage the slot-filling process. This effortful application consumes [[working-memory|working memory]] resources, directly increasing [[cognitive-load-theory|cognitive load]]. An automated schema, by contrast, is applied rapidly, unconsciously, and with minimal working memory cost — its execution has been compiled into a single procedural operation.
+[[Schema Automation|Schema automation]] is arguably the most important mechanism linking schema theory to instructional design. A newly acquired schema requires deliberate, effortful application: the learner must consciously retrieve the schema, deliberately apply it to the incoming material, and actively manage the slot-filling process. This effortful application consumes [[working-memory|working memory]] resources, directly increasing [[Cognitive Load Theory (CLT)|cognitive load]]. An automated schema, by contrast, is applied rapidly, unconsciously, and with minimal working memory cost — its execution has been compiled into a single procedural operation.
 
 The developmental trajectory of schema acquisition follows a broadly consistent pattern. Initial acquisition of a schema is effortful and error-prone (the *declarative stage*); with practice, the schema application becomes more fluent, the slot-filling more rapid, and the attention requirements reduced (the *knowledge compilation stage*); with extensive practice, schema application becomes automatic, freeing working memory for higher-order processing (the *autonomous stage*). This three-stage trajectory is recognized in [[john-anderson|Anderson]]'s ACT-R theory, in Fitts and Posner's classic skill learning stages, and in the empirical literature on [[expertise-development|expertise development]].
 
@@ -474,7 +474,7 @@ The developmental trajectory of schema acquisition follows a broadly consistent 
 
 ### 5. Schema Construction: The Most Neglected Problem
 
-[[schema-construction|Schema construction]] — the problem of how an entirely *new* schema is built from scratch in the absence of a relevant prior framework — is the most underspecified and pedagogically difficult aspect of schema theory. Accretion and tuning operate by extending or refining existing schemas, but every schema must have been constructed at some point, and the conditions that make initial schema construction possible are theoretically contentious.
+[[Schema Construction|Schema construction]] — the problem of how an entirely *new* schema is built from scratch in the absence of a relevant prior framework — is the most underspecified and pedagogically difficult aspect of schema theory. Accretion and tuning operate by extending or refining existing schemas, but every schema must have been constructed at some point, and the conditions that make initial schema construction possible are theoretically contentious.
 
 The dominant approach in instructional design has been to leverage existing analogical schemas from domains the learner already understands — teaching electrical circuits through the analogy of water flowing through pipes, for instance, or teaching algebraic structures through the analogy of a balance scale. This analogical scaffolding bootstraps initial schema construction by providing a familiar structure onto which features of the new domain can be mapped. However, analogical transfer carries its own hazards: the analogy-derived schema inherits not only the useful structural features of the source domain but also its misleading implications.
 
@@ -552,7 +552,7 @@ The power of this picture comes from its generativity. It explains a vast range 
 
 ### Schema Theory's Place in the Knowledge Graph
 
-[[schema-theory|Schema theory]] occupies a conceptually central position in the knowledge graph of cognitive psychology and learning science. It is the theoretical ancestor of [[cognitive-load-theory|Cognitive Load Theory]] (which operationalizes schema construction and automation as the target of instructional design), of [[advance-organizers|advance organizer]] pedagogy (which directly applies the theory's account of how new knowledge attaches to existing schemas), of [[Conceptual-Change-Theory|Conceptual Change Theory]] (which addresses the conditions for schema restructuring), and of [[expert-novice-research|expert-novice research]] (which measures schema elaboration as the primary index of developing expertise).
+[[schema-theory-and-knowledge-organization|Schema theory]] occupies a conceptually central position in the knowledge graph of cognitive psychology and learning science. It is the theoretical ancestor of [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] (which operationalizes schema construction and automation as the target of instructional design), of [[advance-organizers|advance organizer]] pedagogy (which directly applies the theory's account of how new knowledge attaches to existing schemas), of [[Conceptual-Change-Theory|Conceptual Change Theory]] (which addresses the conditions for schema restructuring), and of [[expert-novice-research|expert-novice research]] (which measures schema elaboration as the primary index of developing expertise).
 
 It connects laterally to [[mental-model|mental model]] theory (which shares the emphasis on structured internal representations but emphasizes dynamic, domain-specific simulation rather than knowledge-organizational structures), to [[spreading-activation|spreading activation]] models of semantic memory (which provide the implementation-level mechanism for schema priming effects), and to [[transfer-of-learning|transfer of learning]] research (where the generalizability of schemas across contexts is the central question).
 
@@ -574,7 +574,7 @@ The instructional challenge this tension poses is non-trivial. Creating the cond
 
 > [!definition] **Schema**
 > A structured, generative mental representation organizing related knowledge about a class of entities, events, or situations using fixed structural features and variable slots instantiated by specific incoming data or default inferences. The foundational construct of schema theory.
-> *Historical Note*: The term derives from Bartlett's (1932) reformulation of Kantian schemata in empirical psychology. *Common Misconception*: A schema is not a simple concept or category label — it is a generative predictive framework. *See also*: [[schema-theory]], [[schema-construction]], [[schema-automation]], [[schema-attractor]], [[schema-progressive-architecture]]
+> *Historical Note*: The term derives from Bartlett's (1932) reformulation of Kantian schemata in empirical psychology. *Common Misconception*: A schema is not a simple concept or category label — it is a generative predictive framework. *See also*: [[schema-theory-and-knowledge-organization]], [[Schema Construction]], [[Schema Automation]], [[schema-attractor]], [[schema-progressive-architecture]]
 
 > [!definition] **Assimilation**
 > The process of incorporating new information into an existing schema without structural modification of the schema. The incoming information is transformed to fit the schema's constraints.
@@ -590,7 +590,7 @@ The instructional challenge this tension poses is non-trivial. Creating the cond
 
 > [!definition] **Activation (Schema Activation)**
 > The retrieval of a relevant schema from long-term memory into an available state for use in ongoing comprehension or problem-solving, triggered by features of the incoming stimulus that match the schema's conditions of application.
-> *See also*: [[spreading-activation]], [[prior-knowledge]], [[schema-theory]]
+> *See also*: [[spreading-activation]], [[prior-knowledge]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **Default Values**
 > Schema-supplied values for unspecified slot contents — the schema's built-in expectations about the most probable instantiation of a variable in the absence of explicit information. The source of schema-driven inference generation.
@@ -602,7 +602,7 @@ The instructional challenge this tension poses is non-trivial. Creating the cond
 
 > [!definition] **Accretion**
 > The most common mode of schema change: adding new instances or information to an existing schema without altering its fundamental structure. Everyday learning is predominantly accretion.
-> *See also*: [[Accretion,-Tuning,-Restructuring]], [[schema-construction]]
+> *See also*: [[Accretion,-Tuning,-Restructuring]], [[Schema Construction]]
 
 > [!definition] **Tuning**
 > The gradual refinement of a schema's parameters, default values, and variable constraints through accumulated experience, improving the schema's fit to the domain without replacing its structural architecture.
@@ -614,7 +614,7 @@ The instructional challenge this tension poses is non-trivial. Creating the cond
 
 > [!definition] **Schema Automation**
 > The transition from effortful, deliberate, working-memory-consuming schema application to rapid, automatic, low-cost schema application through extensive practice. Automation releases working memory capacity for higher-order processing.
-> *See also*: [[schema-automation]], [[Schema-Automation-and-Fluency-Development]], [[schema-automation-in-reading]], [[working-memory]], [[cognitive-load-theory]]
+> *See also*: [[Schema Automation]], [[Schema-Automation-and-Fluency-Development]], [[schema-automation-in-reading]], [[working-memory]], [[Cognitive Load Theory (CLT)]]
 
 > [!definition] **Advance Organizer (Ausubel, 1963)**
 > A brief instructional text presented before a lesson, operating at a higher level of abstraction than the lesson content, designed to activate and strengthen the learner's relevant existing schemas and provide ideational scaffolding for the incoming material.
@@ -630,7 +630,7 @@ The instructional challenge this tension poses is non-trivial. Creating the cond
 
 > [!definition] **Schema Crystallization Event**
 > The moment or process in which a set of accumulated instances and tuning operations achieves sufficient internal coherence and discriminative power to function as a stable, reliably applicable schema. A theoretical construct describing the threshold between tentative proto-schema and functional schema.
-> *See also*: [[schema-crystallization-event]], [[schema-construction]], [[expertise-development]]
+> *See also*: [[schema-crystallization-event]], [[Schema Construction]], [[expertise-development]]
 
 > [!definition] **Declarative Schema**
 > A schema encoding propositional knowledge about entities, events, and relationships — the knowing-that dimension of organized knowledge. Amenable to direct instruction. Contrasted with procedural schemas.
@@ -638,11 +638,11 @@ The instructional challenge this tension poses is non-trivial. Creating the cond
 
 > [!definition] **Procedural Schema**
 > A schema encoding action sequences, performance routines, and conditional rules — the knowing-how dimension of organized knowledge. Requires practice and feedback for acquisition; resists purely declarative instruction.
-> *See also*: [[procedural-schemas]], [[declarative-schemas]], [[schema-automation]]
+> *See also*: [[procedural-schemas]], [[declarative-schemas]], [[Schema Automation]]
 
 > [!definition] **Schema Attractor**
 > The property of a well-consolidated schema by which partially schema-consistent inputs are systematically interpreted (and remembered) as more fully schema-consistent than they actually were — the schema "attracts" perception and memory toward its prototype.
-> *See also*: [[schema-attractor]], [[reconstructive-memory]], [[schema-theory]]
+> *See also*: [[schema-attractor]], [[reconstructive-memory]], [[schema-theory-and-knowledge-organization]]
 
 ---
 
@@ -767,7 +767,7 @@ Schema theory's classical formalism treats schemas as explicitly represented dat
 
 ### G. Expansion Topics
 
-1. **[[cognitive-load-theory|Cognitive Load Theory]]**
+1. **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]**
    Schema theory's most directly operationalized descendant in instructional science. CLT provides the working memory architecture within which schema construction and automation play out, and generates a rich family of instructional effects (worked example effect, split-attention effect, modality effect) directly traceable to schema-theoretic principles. A dedicated treatment is highly recommended as a next step.
 
 2. **[[Conceptual-Change-Theory|Conceptual Change Theory]]**
@@ -805,11 +805,11 @@ Schema theory's classical formalism treats schemas as explicitly represented dat
 > - [[spreading-activation]] — The neural-level mechanism by which schema activation and spreading-activation priming operate
 >
 > **Downstream concepts requiring this foundation**:
-> - [[cognitive-load-theory]] — Directly built on schema acquisition/automation
+> - [[Cognitive Load Theory (CLT)]] — Directly built on schema acquisition/automation
 > - [[advance-organizers]] — Directly derived from schema-theoretic account of meaningful learning
 > - [[Conceptual-Change-Theory]] — The theory of radical schema restructuring
 > - [[expertise-development]] — Schema accumulation and automation as the primary mechanism of expertise
-> - [[schema-construction]] — The frontier problem of initial schema formation
+> - [[Schema Construction]] — The frontier problem of initial schema formation
 > - [[Schema-Automation-and-Fluency-Development]] — The instructional endpoint of schema acquisition
 > - [[schema-progressive-architecture]] — How schemas scaffold progressively more complex learning
 

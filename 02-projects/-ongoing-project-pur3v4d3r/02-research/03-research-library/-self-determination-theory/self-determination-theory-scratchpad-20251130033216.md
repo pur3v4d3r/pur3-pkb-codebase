@@ -31,11 +31,11 @@ tags:
 
 [[Human Development Theory]]
 [[basic-psychological-needs-theory]]
-[[cognitive-evaluation-theory]]
+[[cognitive-evaluation-theory-cet]]
 [[organismic-integration-theory]]
 
 
-[[intrinsic-motivation]]
+[[Intrinsic Motivation]]
 [[extrinsic-motivation]]
 [[Organismic Theory]]
 [[introjected-regulation]]

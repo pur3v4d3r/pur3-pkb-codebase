@@ -299,7 +299,7 @@ Matches Position 3 tag but provides structured metadata:
 
 **Example:**
 ```yaml
-related: [[cognitive-load-theory]], [[working-memory]], [[schema-theory]], [[instructional-design]]
+related: [[Cognitive Load Theory (CLT)]], [[working-memory]], [[schema-theory-and-knowledge-organization]], [[instructional-design]]
 ```
 
 </metadata_architecture>
@@ -1152,7 +1152,7 @@ SORT file.mtime DESC
 ```markdown
 [[target-note]]^relationship-type
 
-[[cognitive-load-theory]]^prerequisite-for-this
+[[Cognitive Load Theory (CLT)]]^prerequisite-for-this
 [[spaced-repetition]]^complements
 [[Massed Practice]]^contradicts
 [[working-memory]]^part-of
@@ -1536,7 +1536,7 @@ Resolution: Different operationalizations of construct - both correct in context
 
 %%QA:learning:spacing-effects%%
 
-[[cognitive-load-theory]]^prerequisite
+[[Cognitive Load Theory (CLT)]]^prerequisite
 [[Ebbinghaus Forgetting Curve]]^foundation-for-this
 [[Massed Practice]]^contradicts
 
@@ -1725,7 +1725,7 @@ SORT resolution-status ASC
 
 **Example:**
 ```markdown
-**Prerequisites:** [[working-memory]], [[schema-theory]]  
+**Prerequisites:** [[working-memory]], [[schema-theory-and-knowledge-organization]]  
 *Rationale:* Understanding cognitive architecture (working memory) and knowledge organization (schemas) essential for appreciating instructional design implications.
 ```
 

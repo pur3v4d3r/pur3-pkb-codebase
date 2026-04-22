@@ -334,9 +334,9 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[schema-theory|Schema Theory]]** — Metacognitive monitoring operates on schemas: the JOL and FOK processes assess the degree to which a schema is consolidated and retrievable. Monitoring failures are often schema failures in disguise — what feels like "I know this" is sometimes "I have a schema that pattern-matches this" without genuine consolidation. The Metacognitive PKB supports schema quality assessment, directly extending Report 01's knowledge architecture framework.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Metacognitive monitoring operates on schemas: the JOL and FOK processes assess the degree to which a schema is consolidated and retrievable. Monitoring failures are often schema failures in disguise — what feels like "I know this" is sometimes "I have a schema that pattern-matches this" without genuine consolidation. The Metacognitive PKB supports schema quality assessment, directly extending Report 01's knowledge architecture framework.
 > 
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — Metacognitive monitoring itself imposes cognitive load. The meta-level process of monitoring the object-level process requires working memory resources, creating a genuine tension between rich metacognitive engagement and cognitive overload. Report 02's analysis of working memory constraints explains why externalizing metacognitive monitoring into written PKB artifacts is not merely helpful but cognitively necessary — it offloads monitoring from the limited-capacity working memory to the persistent, high-capacity external medium.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — Metacognitive monitoring itself imposes cognitive load. The meta-level process of monitoring the object-level process requires working memory resources, creating a genuine tension between rich metacognitive engagement and cognitive overload. Report 02's analysis of working memory constraints explains why externalizing metacognitive monitoring into written PKB artifacts is not merely helpful but cognitively necessary — it offloads monitoring from the limited-capacity working memory to the persistent, high-capacity external medium.
 > 
 > - **[[schema-progressive-architecture|Schema-Progressive Architecture]]** — Report 03's Schema-Progressive Architecture (Layer 4: Frontier sections, forward-facing links to unknowns) is now revealed as a metacognitive scaffolding device: Frontier sections embed delayed self-monitoring into the note structure, and forward-facing links create the "felt difficulty" cues that activate genuine inquiry. The SPA is architecturally consistent with, and substantially reinforced by, the metacognitive framework developed here.
 > 
@@ -530,9 +530,9 @@ extraction_summary:
 ### Unique Targets
 
 - [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[educational-psychology|Educational Psychology]]
@@ -561,7 +561,7 @@ extraction_summary:
 - [[Report 16]]
 - [[Report 18: Calibration and Epistemic Humility]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[schema-progressive-architecture|Schema-Progressive Architecture]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[self-explanation-effect|Self-Explanation Effect]]
@@ -597,7 +597,7 @@ extraction_summary:
 | 20 | [[Ease-of-Learning-—-EOL|Ease of Learning]] | — | — | The Monitoring-Control Loop in Detail | 248 |
 | 21 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | The Monitoring-Control Loop in Detail | 250 |
 | 22 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | The Monitoring-Control Loop in Detail | 252 |
-| 23 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Where the Mechanisms Fail — And Why T... | 284 |
+| 23 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Where the Mechanisms Fail — And Why T... | 284 |
 | 24 | [[Report 16]] | — | — | Where the Mechanisms Fail — And Why T... | 284 |
 | 25 | [[Forgetting-Curve|Forgetting Curve]] | — | — | Where the Mechanisms Fail — And Why T... | 288 |
 | 26 | [[self-determination-theory|Self-Determination Theory]] | — | — | Where the Mechanisms Fail — And Why T... | 295 |
@@ -607,8 +607,8 @@ extraction_summary:
 | 30 | [[Report-02]] | — | — | The Externalization Principle | 313 |
 | 31 | [[Learning-Journal|Learning Journal]] | — | — | The Externalization Principle | 316 |
 | 32 | [[Report 10: Scaffolding and Fading]] | — | — | Unresolved Questions | 447 |
-| 33 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 456 |
-| 34 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 458 |
+| 33 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 456 |
+| 34 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 458 |
 | 35 | [[schema-progressive-architecture|Schema-Progressive Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 460 |
 | 36 | [[self-determination-theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 462 |
 | 37 | [[Report 05: Motivation Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 462 |
@@ -678,9 +678,9 @@ calibration-status: [over-confident | well-calibrated | under-confident]
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Ease-of-Learning-—-EOL|Ease of Learning]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[educational-psychology|Educational Psychology]]
@@ -709,7 +709,7 @@ calibration-status: [over-confident | well-calibrated | under-confident]
 - [[Report 16]]
 - [[Report 18: Calibration and Epistemic Humility]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[schema-progressive-architecture|Schema-Progressive Architecture]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[self-explanation-effect|Self-Explanation Effect]]
@@ -745,7 +745,7 @@ calibration-status: [over-confident | well-calibrated | under-confident]
 - [[reflective-practice|Reflective Practice]]
 - [[deliberate-practice]]
 - [[Learning-Journal|Learning Journal]]
-- [[metacognitive-scaffolding]]
+- [[Metacognitive Scaffolding]]
 - [[illusion-of-knowing|Illusion of Knowing]]
 - [[self-explanation-effect|Self-Explanation Effect]]
 - [[Stoic Journaling]]

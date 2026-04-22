@@ -78,8 +78,8 @@ analytical-contributions:
 
 related-concepts:
   - "[[self-determination-theory|Self-Determination Theory]]"
-  - "[[basic-psychological-needs|Basic Psychological Needs]]"
-  - "[[internalization-continuum|Internalization Continuum]]"
+  - "[[Basic Psychological Needs|Basic Psychological Needs]]"
+  - "[[internalization|Internalization Continuum]]"
   - "[[need-satisfaction-vs.-need-frustration|Need Satisfaction vs. Need Frustration]]"
   - "[[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]"
   - "[[Four-Phase-Interest-Model|Four-Phase Interest Model]]"

@@ -280,7 +280,7 @@ Journaling served as the container for multiple spiritual exercises:
 
 The act of converting [[Internal Experience]] into [[Written Language]] creates multiple psychological effects:
 
-1. **[[cognitive-offloading]]** - Transferring working memory burden to external medium
+1. **[[Cognitive Offloading]]** - Transferring working memory burden to external medium
 2. **[[Linguistic Crystallization]]** - Forcing vague feelings into precise language
 3. **[[Temporal Distance]]** - Creating psychological space between experience and examination
 4. **[[Perspective Shift]]** - Moving from first-person participant to third-person observer
@@ -350,7 +350,7 @@ The repetitive nature of daily examination creates [[automaticity]]—what the S
 
 ### Working Memory and Cognitive Load
 
-In clinical studies, journaling promotes self-introspection, reflection, and change in perceptions, behaviors, and cognitions, similar to its use in academia for acquiring and transferring cognitive and metacognitive skills. The mechanism involves [[cognitive-offloading]]—transferring the burden of maintaining complex information from limited [[working-memory]] (approximately 7±2 items) to external storage.
+In clinical studies, journaling promotes self-introspection, reflection, and change in perceptions, behaviors, and cognitions, similar to its use in academia for acquiring and transferring cognitive and metacognitive skills. The mechanism involves [[Cognitive Offloading]]—transferring the burden of maintaining complex information from limited [[working-memory]] (approximately 7±2 items) to external storage.
 
 When wrestling with complex situations internally, working memory must simultaneously:
 - Hold details of the situation
@@ -2241,7 +2241,7 @@ Without philosophical foundation, journaling becomes mere emotion logging. The f
 
 The practice leverages:
 - [[metacognitive-awareness]] - Thinking about thinking
-- [[cognitive-offloading]] - Externalizing working memory burden
+- [[Cognitive Offloading]] - Externalizing working memory burden
 - [[Structured Prompts]] - Guiding effective reflection
 - [[Pattern-Recognition]] - Identifying recurring behavioral themes
 - [[Neuroplastic Change]] - Reshaping neural architecture through repetition

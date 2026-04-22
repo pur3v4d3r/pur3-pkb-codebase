@@ -1,12 +1,12 @@
 ---
-title: "High Performance Cycle"
-aliases: [goal-setting-theory, motivational-goal-setting-theory]
+title: High Performance Cycle
+aliases: [goal-setting-theory, motivational-goal-setting-theory, high-performance-cycle]
 type: permanent-note
 status: evergreen
 confidence: high
 domain: Motivation Science
 subdomains: [Industrial-Organizational Psychology, Self-Regulated Learning, Performance Psychology]
-tags: [permanent-note, motivation-science, industrial-organizational-psychology, self-regulated-learning, performance-psychology]
+tags: [permanent-note, motivation-science, industrial-organizational-psychology, self-regulated-learning, performance-psychology, seedling, concept-stub, other]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: comprehensive foundational treatment
@@ -15,10 +15,12 @@ review-frequency: quarterly
 mastery-stage: seedling
 provenance:
   source-type: report-extraction
-  pipeline-version: "3.0.0"
+  pipeline-version: 3.0.0
   source-reports: [goal-setting-theory-locke-latham-foundational-report-2026-04-20]
   extraction-method: pkb-extractor-v1 → pipeline-v3
 ---
+
+
 
 # High Performance Cycle
 
@@ -29,7 +31,7 @@ provenance:
 >
 > **Report-Specific Significance:** The High Performance Cycle is the integrative achievement of the mature theory and the framework against which both the dark-side phenomena and the modern integrations must be understood — the dark side describes how the cycle pathologizes when its conditions fail, while the modern integrations describe how the cycle interacts with adjacent self-regulatory architectures.
 >
-> **See also:** [[high-performance-cycle]], [[self-efficacy]], [[Zimmerman's-Cyclical-Model-of-Self-Regulation]]
+> **See also:** [[High Performance Cycle]], [[self-efficacy]], [[Zimmerman's-Cyclical-Model-of-Self-Regulation]]
 
 ## Core Explanation
 
@@ -40,7 +42,7 @@ provenance:
 >
 > **Report-Specific Significance:** The High Performance Cycle is the integrative achievement of the mature theory and the framework against which both the dark-side phenomena and the modern integrations must be understood — the dark side describes how the cycle pathologizes when its conditions fail, while the modern integrations describe how the cycle interacts with adjacent self-regulatory architectures.
 >
-> **See also:** [[high-performance-cycle]], [[self-efficacy]], [[Zimmerman's-Cyclical-Model-of-Self-Regulation]]
+> **See also:** [[High Performance Cycle]], [[self-efficacy]], [[Zimmerman's-Cyclical-Model-of-Self-Regulation]]
 > *— [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]*
 
 > [!evidence] High Performance Cycle
@@ -50,12 +52,17 @@ provenance:
 >
 > **Report-Specific Significance:** The integrative achievement of the mature theory and the framework against which both dark-side phenomena and modern integrations are best understood.
 >
-> **See also:** [[high-performance-cycle]], [[Zimmerman's-Cyclical-Model-of-Self-Regulation]]
+> **See also:** [[High Performance Cycle]], [[Zimmerman's-Cyclical-Model-of-Self-Regulation]]
 > *— [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]*
+
+## Additional Material (Merged)
+
+> [!definition] **high-performance-cycle**
+> *Stub note — concept referenced by 49 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
 ## Connections
 
-**Related:** [[2026-04-20-2152-srl-session]] · [[Academic-Burnout-and-Wellbeing]] · [[Bandura]] · [[Barnett-Ceci]] · [[Engineering-Metrics-and-the-Dark-Side-of-Optimization]] · [[Goal-Setting-Theory-—-Locke-and-Latham]] · [[Goal-Setting-in-Personal-Knowledge-Management]] · [[Halpern]] · [[Hattie-&-Timperley-Feedback-Model]] · [[Implementation-Intentions-and-Habit-Formation]] · [[Performance-Goals-vs-Mastery-Goals-Reconciling-the-Frameworks]] · [[Perkins-Salomon]] · [[Social-Cognitive-Theory-—-Bandura]] · [[Software-Engineering-Practice]] · [[The-Intellectual-Lineage-of-Self-Regulation-Research]] · [[Zimmerman]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulation]] · [[achievement-goal-theory]] · [[albert-bandura]] · [[attention-and-learning]] · [[attribution-theory]] · [[autonomous-motivation-vs.-controlled-motivation]] · [[deci-ryan]] · [[deliberate-practice]] · [[ericsson]] · [[feedback-effects-on-motivation-and-learning]] · [[goal-commitment]] · [[goal-setting-theory]] · [[goal-specificity]] · [[habit-formation]] · [[hattie-timperley-feedback-model]] · [[high-performance-cycle]] · [[implementation-intention]] · [[implementation-intentions]] · [[intrinsic-motivation]] · [[knowledge-telling-vs.-knowledge-transforming]] · [[mastery-goal]] · [[mastery-goal-orientation]] · [[motivation-theory-foundational-report]] · [[motivational-interviewing]] · [[motivational-psychology]] · [[performance-goal]] · [[personal-knowledge-management]] · [[schema-theory]] · [[selective-attention]] · [[self-determination-theory]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[self-regulated-learning]] · [[self-regulation]] · [[transfer-of-learning]] · [[volitional-congruence]] · [[working-memory]]
+**Related:** [[2026-04-20-2152-srl-session]] · [[Academic-Burnout-and-Wellbeing]] · [[Bandura]] · [[Barnett-Ceci]] · [[Engineering-Metrics-and-the-Dark-Side-of-Optimization]] · [[Goal-Setting-Theory-—-Locke-and-Latham]] · [[Goal-Setting-in-Personal-Knowledge-Management]] · [[Halpern]] · [[Hattie-&-Timperley-Feedback-Model]] · [[Implementation-Intentions-and-Habit-Formation]] · [[Performance-Goals-vs-Mastery-Goals-Reconciling-the-Frameworks]] · [[Perkins-Salomon]] · [[Social-Cognitive-Theory-—-Bandura]] · [[Software-Engineering-Practice]] · [[The-Intellectual-Lineage-of-Self-Regulation-Research]] · [[Zimmerman]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulation]] · [[achievement-goal-theory]] · [[albert-bandura]] · [[attention-and-learning]] · [[Attribution (Heider, 1958)]] · [[autonomous-motivation-vs.-controlled-motivation]] · [[deci-and-ryan]] · [[deliberate-practice]] · [[ericsson]] · [[feedback-effects-on-motivation-and-learning]] · [[Goal Commitment]] · [[goal-setting-theory]] · [[Goal Specificity]] · [[habit-formation]] · [[hattie-timperley-feedback-model]] · [[High Performance Cycle]] · [[goal-intention]] · [[goal-intention]] · [[Intrinsic Motivation]] · [[knowledge-telling-vs.-knowledge-transforming]] · [[mastery-goal]] · [[mastery-goal-orientation]] · [[motivation-theory-foundational-report]] · [[motivational-interviewing]] · [[motivational-psychology]] · [[performance-goal]] · [[personal-knowledge-management]] · [[schema-theory-and-knowledge-organization]] · [[selective-attention]] · [[self-determination-theory]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[self-regulated-learning]] · [[self-regulation]] · [[transfer-of-learning]] · [[volitional-congruence]] · [[working-memory]]
 
 ```dataview
 LIST FROM [[High Performance Cycle]]

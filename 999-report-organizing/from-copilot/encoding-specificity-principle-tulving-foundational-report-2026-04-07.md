@@ -94,12 +94,12 @@ treatment-type: foundational-analytical
 core-concepts: ["Encoding Specificity", "Cue-Dependent Retrieval", "Synergistic Ecphory", "Episodic Memory", "Transfer-Appropriate Processing"]
 key-distinctions: ["ESP vs. Levels of Processing", "ESP vs. Transfer-Appropriate Processing", "Context-Dependent vs. State-Dependent Memory"]
 prerequisites: ["[[memory-systems]]", "[[long-term-memory]]", "[[episodic-memory]]"]
-related: ["[[transfer-appropriate-processing]]", "[[levels-of-processing-theory]]", "[[retrieval-practice]]", "[[desirable-difficulties]]"]
+related: ["[[transfer-appropriate-processing]]", "[[levels-of-processing-theory]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]"]
 broader: ["[[cognitive-psychology-foundations]]"]
 narrower: ["[[encoding-specificity]]", "[[synergistic-ecphory]]"]
 see-also: ["[[The-Encoding-Specificity-Principle-and-PKB-Retrieval-Design]]"]
 builds-on: ["[[memory-systems]]", "[[episodic-memory]]"]
-enables: ["[[retrieval-practice]]", "[[personal-knowledge-management]]"]
+enables: ["[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[personal-knowledge-management]]"]
 
 # ═══════════════════════════════════════════════════════════════
 # APPENDIX & DENSITY TRACKING (Pipeline-Compatible)
@@ -166,7 +166,7 @@ The report concludes with an Enhanced Appendix offering a lexicon of key terms, 
 
 > [!schema-activation] Bridging to What You Already Know
 >
-> Before reading, consider what you already know about memory and retrieval. Most people have had the experience of failing to recall a person's name when unexpectedly running into them on the street, only for the name to come rushing back hours later in the original context where the person was known. Or you may have experienced studying in a quiet library and then struggling to recall material during a noisy exam. These experiences have a common structure: the retrieval context does not match the encoding context. If you have encountered [[levels-of-processing-theory]], [[retrieval-practice]], or [[spaced-repetition]], you have engaged with concepts that both complement and stand in productive tension with the Encoding Specificity Principle. If you have worked with [[schema-theory]] or [[prior-knowledge-activation]], you have implicitly encountered the idea that what is encoded depends heavily on what knowledge structures are active at the time of learning. Bring these frameworks with you — this report will engage them critically.
+> Before reading, consider what you already know about memory and retrieval. Most people have had the experience of failing to recall a person's name when unexpectedly running into them on the street, only for the name to come rushing back hours later in the original context where the person was known. Or you may have experienced studying in a quiet library and then struggling to recall material during a noisy exam. These experiences have a common structure: the retrieval context does not match the encoding context. If you have encountered [[levels-of-processing-theory]], [[Desirable Difficulties (Robert Bjork, 1994)]], or [[spaced-repetition]], you have engaged with concepts that both complement and stand in productive tension with the Encoding Specificity Principle. If you have worked with [[schema-theory-and-knowledge-organization]] or [[prior-knowledge-activation]], you have implicitly encountered the idea that what is encoded depends heavily on what knowledge structures are active at the time of learning. Bring these frameworks with you — this report will engage them critically.
 >
 > **Guiding Question:** If memory retrieval is fundamentally cue-dependent, what does this mean for the design of any learning system, from study strategies to personal knowledge bases? Can a knowledge system be designed to build encoding contexts that make future retrieval more likely to succeed? These questions animate the report throughout.
 
@@ -182,7 +182,7 @@ The report concludes with an Enhanced Appendix offering a lexicon of key terms, 
 >
 > **Report-Specific Significance:** This definition grounds every subsequent section. Understanding that retrieval depends on an encoding-retrieval relationship — not trace strength alone — reorients how we think about forgetting, practice, learning design, and knowledge systems.
 >
-> **See also:** [[encoding-specificity]], [[endel-tulving]], [[donald-thomson]], [[memory-systems]], [[retrieval-practice]]
+> **See also:** [[encoding-specificity]], [[endel-tulving]], [[donald-thomson]], [[memory-systems]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 ### 1.1 The Historical Setting: What ESP Replaced
 
@@ -247,7 +247,7 @@ This distinction matters for the ESP in a specific way. Episodic memory, precise
 
 By the 1990s, Tulving had extended his theoretical framework into what he called the SPI model, standing for Serial, Parallel, Independent. In this three-part framework, the three properties describe how the major memory systems (procedural, semantic, and episodic) interact. *Serial* means that episodic encoding depends on and follows from semantic encoding — one must encode a semantic representation of a stimulus before an episodic trace of experiencing it can be laid down. *Parallel* means that all three systems can operate simultaneously, with information being processed in multiple systems at once. *Independent* means that retrieval from each system operates without obligatory reference to the others — episodic recall does not necessarily require semantic recall and vice versa.
 
-For the ESP, the most important element of the SPI model is the serial property. If episodic encoding is preceded by and dependent on semantic encoding, then what one knows semantically about a stimulus at the time of learning will shape what episodic trace is laid down. The activated semantic knowledge at encoding becomes part of the encoded context. This explains why pre-existing knowledge structures — what [[schema-theory]] would call schemas — affect what is encoded and, therefore, what cues will be effective at retrieval.
+For the ESP, the most important element of the SPI model is the serial property. If episodic encoding is preceded by and dependent on semantic encoding, then what one knows semantically about a stimulus at the time of learning will shape what episodic trace is laid down. The activated semantic knowledge at encoding becomes part of the encoded context. This explains why pre-existing knowledge structures — what [[schema-theory-and-knowledge-organization]] would call schemas — affect what is encoded and, therefore, what cues will be effective at retrieval.
 
 > [!example] The SPI Model in a Learning Context
 >
@@ -503,7 +503,7 @@ The Encoding Specificity Principle carries a substantial applied burden. If retr
 
 The most immediate applied implication of the ESP for formal education is often called the "context-matching imperative": assessments should be conducted in conditions that approximate the encoding conditions as closely as is feasible. This means that the anxiety of test-taking is not merely a motivational variable — it is a contextual variable that, if radically different from study conditions, may produce artifactual performance decrements. Students who study in quiet libraries and are tested in noisy examination halls may be experiencing genuine encoding-retrieval mismatch. Students who study with their notes at hand and are tested without them are managing a mismatch in the available semantic cues.
 
-A more sophisticated implication is that the format of study practice should simulate the format of retrieval demand. This is the applied core of the [[Testing-Effect]]: the reason that retrieval practice produces better long-term memory than re-reading is not simply that it is "harder" (the [[desirable-difficulties]] framing) but that it specifically creates encoding episodes in which the act of retrieving is itself encoded — making future retrieval from the same cues more likely to produce the same successful result. The specific form of retrieval practice that best prepares for a specific form of testing is the retrieval practice that most closely simulates that testing format — which the ESP would predict and research has confirmed.
+A more sophisticated implication is that the format of study practice should simulate the format of retrieval demand. This is the applied core of the [[Testing-Effect]]: the reason that retrieval practice produces better long-term memory than re-reading is not simply that it is "harder" (the [[Desirable Difficulties (Robert Bjork, 1994)]] framing) but that it specifically creates encoding episodes in which the act of retrieving is itself encoded — making future retrieval from the same cues more likely to produce the same successful result. The specific form of retrieval practice that best prepares for a specific form of testing is the retrieval practice that most closely simulates that testing format — which the ESP would predict and research has confirmed.
 
 > [!key-claim] The Retrieval-Simulation Design Principle
 >
@@ -513,9 +513,9 @@ A more sophisticated implication is that the format of study practice should sim
 
 A sophisticated reading of the ESP might superficially suggest that learning should always occur in highly stable, controlled environments to maximize encoding-retrieval match. But this conclusion is incomplete. A learner who only encodes material in one context — say, their study room — may develop a narrowly cued trace that can only be retrieved from that one context. For knowledge that needs to be applied flexibly across many contexts, this is a failure mode.
 
-The solution the ESP implies is actually more nuanced: encode across multiple contexts such that the trace is rich in context-independent semantic and procedural attributes, rather than exclusively associated with one context. [[interleaving]] — studying multiple topics or problem types intermixed rather than in blocks — serves this function in part by forcing the learner to retrieve knowledge across varied encoding contexts. Varied practice, by inducing multiple contextual encodings of the same material, increases the probability that a wide range of future retrieval contexts will find resonant encoded attributes.
+The solution the ESP implies is actually more nuanced: encode across multiple contexts such that the trace is rich in context-independent semantic and procedural attributes, rather than exclusively associated with one context. [[Desirable Difficulties (Robert Bjork, 1994)]] — studying multiple topics or problem types intermixed rather than in blocks — serves this function in part by forcing the learner to retrieve knowledge across varied encoding contexts. Varied practice, by inducing multiple contextual encodings of the same material, increases the probability that a wide range of future retrieval contexts will find resonant encoded attributes.
 
-This is a joint prediction from the ESP and from the [[desirable-difficulties]] literature (Bjork & Bjork, 1992; [[Robert-Bjork]]): contextual variability during encoding produces slower initial acquisition but more robust retrieval across diverse test contexts. What appears, mid-learning, to be a performance decrement is actually the construction of a more contextually flexible, multi-attributed trace.
+This is a joint prediction from the ESP and from the [[Desirable Difficulties (Robert Bjork, 1994)]] literature (Bjork & Bjork, 1992; [[Robert-Bjork]]): contextual variability during encoding produces slower initial acquisition but more robust retrieval across diverse test contexts. What appears, mid-learning, to be a performance decrement is actually the construction of a more contextually flexible, multi-attributed trace.
 
 ### 7.4 Personal Knowledge Management and PKB Design
 
@@ -616,7 +616,7 @@ The trajectory of this report — from definition through mechanism, experimenta
 >
 > **Boundary Condition:** When tasks are highly procedurally automatized (expert-level skill), context-dependence is reduced because procedural memory is less context-specific than episodic memory. The ESP's predictions are strongest for novel, declarative, and episodic material — the conditions of any learner in a new environment.
 >
-> **See also:** [[transfer-of-learning]], [[cognitive-load-theory]]
+> **See also:** [[transfer-of-learning]], [[Cognitive Load Theory (CLT)]]
 
 > [!far-transfer] Therapeutic Practice and Exposure Therapy
 >
@@ -626,7 +626,7 @@ The trajectory of this report — from definition through mechanism, experimenta
 >
 > **Boundary Condition:** The reconsolidation literature (Nader, Schafe, and LeDoux) suggests that reactivating a memory in a therapeutic context can briefly return the trace to a labile state where it can be updated. This extends beyond the ESP's retrieval account to the encoding side — retrieval itself can modify what is stored.
 >
-> **See also:** [[reconstructive-memory]], [[desirable-difficulties]]
+> **See also:** [[reconstructive-memory]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > [!far-transfer] Design of Standardized Testing Systems
 >
@@ -636,7 +636,7 @@ The trajectory of this report — from definition through mechanism, experimenta
 >
 > **Boundary Condition:** The ESP predicts encoding-retrieval mismatch effects most strongly for context-sensitive, episode-specific learning. Highly schematized or proceduralized knowledge (such as mathematical algorithms or grammar rules) may show smaller context-dependence because these representations are encoded with fewer contextual attributes.
 >
-> **See also:** [[Testing-Effect]], [[desirable-difficulties]], [[transfer-of-learning]]
+> **See also:** [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[transfer-of-learning]]
 
 **Metacognitive Closing Prompt:** The far transfer applications above reveal a consistent structural pattern: wherever knowledge must be encoded in one context and applied in another, the ESP's encoding-retrieval compatibility principle predicts where and why failures will occur. The actionable leverage point is always encoding: anticipating the retrieval context and designing encoding to simulate it, or deliberately varying encoding contexts to create context-flexible traces. What domains in your own practice have encoding-retrieval mismatch as an unexamined structural feature?
 
@@ -726,7 +726,7 @@ The guiding question posed in the opening Schema Activation section asked whethe
 >
 > **Boundary:** Not all difficulties are desirable. Difficulties that overwhelm processing capacity or produce highly specific encoding without generalizability may reduce rather than enhance learning.
 >
-> **See also:** [[desirable-difficulties]], [[spaced-repetition]], [[Testing-Effect]], [[interleaving]], [[Robert-Bjork]]
+> **See also:** [[Desirable Difficulties (Robert Bjork, 1994)]], [[spaced-repetition]], [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Robert-Bjork]]
 
 ---
 
@@ -1037,7 +1037,7 @@ The guiding question posed in the opening Schema Activation section asked whethe
 >
 > **Suggested Report Type:** Historical-Genealogical Report
 >
-> **Prerequisites:** [[encoding-specificity-principle]], [[schema-theory]], [[reconstructive-memory]]
+> **Prerequisites:** [[encoding-specificity-principle]], [[schema-theory-and-knowledge-organization]], [[reconstructive-memory]]
 
 ---
 
@@ -1055,15 +1055,15 @@ The guiding question posed in the opening Schema Activation section asked whethe
 >
 > 4. **[[levels-of-processing-theory]]** — The dominant competing framework that the ESP partly challenged and partly complemented. Without understanding LOP, the theoretical stakes of the ESP and its orthogonal relationship to depth of processing cannot be understood.
 >
-> 5. **[[schema-theory]]** — Provides the account of how prior knowledge structures modulate what is perceived and encoded. The SPI model's serial property (semantic encoding precedes episodic) connects to schema theory: active schemas at encoding shape what episodic context is laid down.
+> 5. **[[schema-theory-and-knowledge-organization]]** — Provides the account of how prior knowledge structures modulate what is perceived and encoded. The SPI model's serial property (semantic encoding precedes episodic) connects to schema theory: active schemas at encoding shape what episodic context is laid down.
 >
 > **Downstream Applications (This Report Enables):**
 >
-> 1. **[[retrieval-practice]]** — The testing effect and retrieval practice research is most fully theoretically grounded by the ESP: retrieval practice works by encoding in retrieval-context conditions, ensuring future retrieval in similar conditions will succeed. This report provides the theoretical foundation for why retrieval practice recommendations hold.
+> 1. **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The testing effect and retrieval practice research is most fully theoretically grounded by the ESP: retrieval practice works by encoding in retrieval-context conditions, ensuring future retrieval in similar conditions will succeed. This report provides the theoretical foundation for why retrieval practice recommendations hold.
 >
 > 2. **[[spaced-repetition]] / [[spaced-repetition-systems]]** — The temporal context model (extension of ESP) explains why spacing over time improves retention. This report enables a theoretically grounded account of SR system design that goes beyond "spacing = forgetting and relearning."
 >
-> 3. **[[desirable-difficulties]]** — All major desirable difficulties (spacing, interleaving, testing, contextual variation) can be grounded in ESP-compatible encoding-retrieval match theory. This report provides the theoretical backbone.
+> 3. **[[Desirable Difficulties (Robert Bjork, 1994)]]** — All major desirable difficulties (spacing, interleaving, testing, contextual variation) can be grounded in ESP-compatible encoding-retrieval match theory. This report provides the theoretical backbone.
 >
 > 4. **[[personal-knowledge-base]]** — The Contextual Resonance Framework for PKB design (Section 7.4; [!original-synthesis]) directly applies the ESP to knowledge system architecture. This report enables principled PKB design decisions based in memory theory.
 >
@@ -1084,7 +1084,7 @@ The guiding question posed in the opening Schema Activation section asked whethe
 > - **[[endel-tulving]]** — This report provides the most complete treatment of Tulving's theoretical contributions available in the vault; the Endel-Tulving note should link here for detail.
 > - **[[episodic-memory]]** — This report's treatment of episodic memory's role in ESP effects enriches the Episodic Memory note substantially.
 > - **[[hippocampus]]** — The neuroimaging reinstatement and pattern completion discussion provides content that enriches the Hippocampus node's account of memory function.
-> - **[[desirable-difficulties]]** — The theoretical grounding provided here enriches any existing treatment of desirable difficulties with a principled mechanistic account.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The theoretical grounding provided here enriches any existing treatment of desirable difficulties with a principled mechanistic account.
 
 ---
 

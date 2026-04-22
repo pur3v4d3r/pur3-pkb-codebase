@@ -531,7 +531,7 @@ extraction_summary:
 - [[personal-knowledge-base|Personal Knowledge Base]]
 - [[pragmatism]]
 - [[Preparation-for-Future-Learning|Preparation for Future Learning]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Productive Failure as a PKM Workflow — Designing Deliberate Struggle into the Learning Cycle]]
 - [[Reigeluth]]
 - [[Report-03]]
@@ -553,7 +553,7 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Richard Gick]]
 - [[Robert-Bjork]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Sequestered Problem Solving]]
 - [[situated-cognition|Situated Cognition]]
 - [[Social Proof]]
@@ -614,7 +614,7 @@ extraction_summary:
 | 44 | [[Daniel-Schwartz|Daniel Schwartz]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 45 | [[Preparation-for-Future-Learning|Preparation for Future Learning]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 46 | [[Manu-Kapur]] | — | — | What Facilitates Transfer: The Positi... | 214 |
-| 47 | [[productive-failure|Productive Failure]] | — | — | What Facilitates Transfer: The Positi... | 214 |
+| 47 | [[Productive Failure|Productive Failure]] | — | — | What Facilitates Transfer: The Positi... | 214 |
 | 48 | [[Analogical-Transfer|Analogical Transfer]] | — | — | Analogical Transfer: The Gateway to F... | 224 |
 | 49 | [[structure-mapping-theory|Structure-Mapping Theory]] | — | — | Analogical Transfer: The Gateway to F... | 224 |
 | 50 | [[Exploitative versus Exploratory Strategies]] | — | — | The Three-Layer Context Problem | 245 |
@@ -625,7 +625,7 @@ extraction_summary:
 | 55 | [[Reigeluth]] | — | — | The Return of Elaboration Theory | 254 |
 | 56 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Return of Elaboration Theory | 254 |
 | 57 | [[Kapur]] | — | — | The Productive Failure Mechanism | 263 |
-| 58 | [[productive-failure|Productive Failure]] | — | — | The Productive Failure Mechanism | 263 |
+| 58 | [[Productive Failure|Productive Failure]] | — | — | The Productive Failure Mechanism | 263 |
 | 59 | [[Expected Value Theory]] | — | — | The Productive Failure Mechanism | 266 |
 | 60 | [[Mimetic Desire]] | — | — | Analogical Reasoning as a Learnable S... | 273 |
 | 61 | [[Social Proof]] | — | — | Analogical Reasoning as a Learnable S... | 273 |
@@ -640,7 +640,7 @@ extraction_summary:
 | 70 | [[Gentner]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
 | 71 | [[Dewey]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
 | 72 | [[Report-03]] | — | — | Return-and-Deepen: Schema Theory Revi... | 376 |
-| 73 | [[schema-theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 376 |
+| 73 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 376 |
 | 74 | [[Report 03: Constructing Understanding]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
 | 75 | [[Report 06: The Science of Remembering]] | — | — | Phase VII: PKB Connections & Cross-Re... | 393 |
 | 76 | [[Report 07: Critical Thinking as PKM Practice]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
@@ -731,7 +731,7 @@ extraction_summary:
 - [[personal-knowledge-base|Personal Knowledge Base]]
 - [[pragmatism]]
 - [[Preparation-for-Future-Learning|Preparation for Future Learning]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Productive Failure as a PKM Workflow — Designing Deliberate Struggle into the Learning Cycle]]
 - [[Reigeluth]]
 - [[Report-03]]
@@ -753,7 +753,7 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Richard Gick]]
 - [[Robert-Bjork]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Sequestered Problem Solving]]
 - [[situated-cognition|Situated Cognition]]
 - [[Social Proof]]

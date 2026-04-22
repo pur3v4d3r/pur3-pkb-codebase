@@ -2797,7 +2797,7 @@ Aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 - Obsidian core concepts: [[Frontmatter]], [[Templates]], [[Folders]], [[Daily-Notes]], [[Metadata]]
 - Related plugins: [[Dataview]], [[QuickAdd]], [[Custom JS]], [[Natural Language Dates]]
 - Programming concepts: [[JavaScript]], [[Regular-Expressions]], [[Async/Await]], [[Promises]], [[Date Objects]]
-- PKM concepts: [[zettelkasten]], [[MOC]], [[atomic-notes]], [[Template Systems]], [[Automation Workflows]]
+- PKM concepts: [[zettelkasten]], [[MOC]], [[atomic-note]], [[Template Systems]], [[Automation Workflows]]
 - File system concepts: [[File Paths]], [[Working Directory]], [[Relative Paths]], [[Absolute Paths]]
 
 Now I'll execute the web searches to gather comprehensive, accurate information.

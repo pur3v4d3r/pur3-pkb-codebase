@@ -115,7 +115,7 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 *Last Updated: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Structured learning documentation following [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[elaborative-interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
+**Template Purpose:** Structured learning documentation following [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Elaborative Interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
 
 **Key Features:** 
 - Confidence tracking for metacognitive awareness

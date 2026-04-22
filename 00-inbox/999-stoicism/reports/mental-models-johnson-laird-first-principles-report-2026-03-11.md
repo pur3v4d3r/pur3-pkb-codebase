@@ -26,9 +26,9 @@ related_concepts:
   - "[[dual-process-theory]]"
   - "[[propositional-representation]]"
   - "[[analogical-reasoning]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[deductive-reasoning]]"
-  - "[[cognitive-architecture]]"
+  - "[[Cognitive Architecture]]"
   - "[[Model Semantics]]"
   - "[[mental-simulation]]"
 knowledge_level: advanced

@@ -207,7 +207,7 @@ if (sessions.length === 0) {
 | [[Zimmerman's-Cyclical-SRL-Model]] | Primary structural architecture | The three-phase cycle |
 | [[achievement-goal-theory]] | Goal language and motivational framing | Mastery vs. performance orientation |
 | [[self-determination-theory]] | Autonomy-supportive design | Protecting intrinsic motivation |
-| [[attribution-theory]] | Causal attribution in Self-Reflection | Adaptive vs. defensive inferences |
+| [[Attribution (Heider, 1958)]] | Causal attribution in Self-Reflection | Adaptive vs. defensive inferences |
 | [[self-efficacy]] | Motivational substrate | Calibrated confidence, not elevation |
 | [[metacognitive-calibration]] | Long-term developmental output | The Calibration Engine |
 | [[formative-assessment]] | Self-evaluation design | Descriptive, not evaluative |
@@ -227,8 +227,8 @@ if (sessions.length === 0) {
 - [[growth-mindset]] — Incremental theory supporting adaptive attributions
 - [[autonomy-support]] — Language design for motivation protection
 - [[prior-knowledge-activation]] — Schema activation before reading
-- [[elaborative-interrogation]] — Deep processing strategy
-- [[retrieval-practice]] — The mechanism behind Cold Reconstruction
+- [[Elaborative Interrogation]] — Deep processing strategy
+- [[Desirable Difficulties (Robert Bjork, 1994)]] — The mechanism behind Cold Reconstruction
 - [[testing-effect-retrieval-practice-effect]] — Why production > recognition
 
 ---

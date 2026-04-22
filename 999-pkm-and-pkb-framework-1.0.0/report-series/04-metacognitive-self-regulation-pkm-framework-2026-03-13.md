@@ -30,7 +30,7 @@ related_concepts:
   - "[[reflective-practice|Reflective Practice]]"
   - "[[deliberate-practice]]"
   - "[[Learning-Journal|Learning Journal]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[illusion-of-knowing|Illusion of Knowing]]"
   - "[[self-explanation-effect|Self-Explanation Effect]]"
   - "[[Stoic Journaling]]"
@@ -285,7 +285,7 @@ The monitoring-control loop is elegant in theory but systematically fragile in p
 
 **Failure Mode 1: Monitoring Contaminated by Processing Fluency**
 
-When material is encountered, the ease with which it is processed — its *fluency* — contaminates monitoring judgment. Familiar material, re-read material, and clearly presented material are all processed fluently, and fluency produces high JOL confidence independent of actual memory encoding depth. The result is that learners who re-read, practice passive review, or study already-familiar material feel they are making excellent progress while their monitoring is operating on a deeply misleading signal. Bjork and Bjork's (2011) work on [[desirable-difficulties|Desirable Difficulties]] (developed further in [[16-desirable-difficulties-by-design-pkm-framework-2026-03-14]]) emerged precisely from this observation: interventions that reduce processing fluency (making material less easy to process) reduce false monitoring confidence while improving actual learning.
+When material is encountered, the ease with which it is processed — its *fluency* — contaminates monitoring judgment. Familiar material, re-read material, and clearly presented material are all processed fluently, and fluency produces high JOL confidence independent of actual memory encoding depth. The result is that learners who re-read, practice passive review, or study already-familiar material feel they are making excellent progress while their monitoring is operating on a deeply misleading signal. Bjork and Bjork's (2011) work on [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] (developed further in [[16-desirable-difficulties-by-design-pkm-framework-2026-03-14]]) emerged precisely from this observation: interventions that reduce processing fluency (making material less easy to process) reduce false monitoring confidence while improving actual learning.
 
 **Failure Mode 2: The Forgetting Curve Is Not Intuitive**
 
@@ -457,9 +457,9 @@ How does the Metacognitive PKB interact with domain expertise? The expertise rev
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[schema-theory|Schema Theory]]** — Metacognitive monitoring operates on schemas: the JOL and FOK processes assess the degree to which a schema is consolidated and retrievable. Monitoring failures are often schema failures in disguise — what feels like "I know this" is sometimes "I have a schema that pattern-matches this" without genuine consolidation. The Metacognitive PKB supports schema quality assessment, directly extending Report 01's knowledge architecture framework.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Metacognitive monitoring operates on schemas: the JOL and FOK processes assess the degree to which a schema is consolidated and retrievable. Monitoring failures are often schema failures in disguise — what feels like "I know this" is sometimes "I have a schema that pattern-matches this" without genuine consolidation. The Metacognitive PKB supports schema quality assessment, directly extending Report 01's knowledge architecture framework.
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — Metacognitive monitoring itself imposes cognitive load. The meta-level process of monitoring the object-level process requires working memory resources, creating a genuine tension between rich metacognitive engagement and cognitive overload. Report 02's analysis of working memory constraints explains why externalizing metacognitive monitoring into written PKB artifacts is not merely helpful but cognitively necessary — it offloads monitoring from the limited-capacity working memory to the persistent, high-capacity external medium.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — Metacognitive monitoring itself imposes cognitive load. The meta-level process of monitoring the object-level process requires working memory resources, creating a genuine tension between rich metacognitive engagement and cognitive overload. Report 02's analysis of working memory constraints explains why externalizing metacognitive monitoring into written PKB artifacts is not merely helpful but cognitively necessary — it offloads monitoring from the limited-capacity working memory to the persistent, high-capacity external medium.
 >
 > - **[[schema-progressive-architecture|Schema-Progressive Architecture]]** — Report 03's Schema-Progressive Architecture (Layer 4: Frontier sections, forward-facing links to unknowns) is now revealed as a metacognitive scaffolding device: Frontier sections embed delayed self-monitoring into the note structure, and forward-facing links create the "felt difficulty" cues that activate genuine inquiry. The SPA is architecturally consistent with, and substantially reinforced by, the metacognitive framework developed here.
 >

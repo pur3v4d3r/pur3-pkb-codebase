@@ -99,7 +99,7 @@ related-concepts:
   - "[[epistemic-humility|Epistemic Humility]]"
   - "[[illusion-of-knowing|Illusion of Knowing]]"
   - "[[Familiarity-vs.-Recollection|Familiarity vs. Recollection]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[tacit-knowledge|Tacit Knowledge]]"
   - "[[Explicit-Knowledge|Explicit Knowledge]]"
   - "[[Knowledge as Relationship]]"
@@ -137,7 +137,7 @@ aliases:
 
 There is a question that almost no one in the Personal Knowledge Management community asks, despite the fact that it sits at the foundation of everything they do. It is a question so fundamental that failing to examine it can corrupt the entire enterprise — turning what should be a system for genuine intellectual growth into an elaborate simulation of it. The question is this: **What does it actually mean to know something that appears in your PKB?**
 
-When you save a note about [[cognitive-load-theory|Cognitive Load Theory]], do you know cognitive load theory? When you have fifty atomic notes about [[Stoic-Philosophy|Stoic Philosophy]], each precisely written and beautifully linked, do you know Stoicism? When your vault contains a detailed synthesis on [[schema-theory|Schema Theory]] that you wrote six months ago and have not revisited since, does that synthesis constitute knowledge you possess? The intuitive answer — "of course it contributes to my knowledge" — is philosophically shaky in ways that have direct, practical consequences for PKB design.
+When you save a note about [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], do you know cognitive load theory? When you have fifty atomic notes about [[Stoic-Philosophy|Stoic Philosophy]], each precisely written and beautifully linked, do you know Stoicism? When your vault contains a detailed synthesis on [[schema-theory-and-knowledge-organization|Schema Theory]] that you wrote six months ago and have not revisited since, does that synthesis constitute knowledge you possess? The intuitive answer — "of course it contributes to my knowledge" — is philosophically shaky in ways that have direct, practical consequences for PKB design.
 
 > [!ask-yourself-this] **Before You Begin — Knowledge State Assessment**
 > Before reading further, take a genuine epistemic inventory. Pick three topics you have notes on in your PKB. For each, ask yourself: Could I explain the core ideas accurately to someone who knows nothing about them? Could I apply these ideas to a novel problem I have not seen before? Could I identify where my notes might be wrong, incomplete, or missing important nuance? Your honest answers will reveal the gap — if any — between information stored and knowledge possessed. Record your responses now; they will serve as your baseline.
@@ -261,9 +261,9 @@ The calibration literature — reviewed extensively in [[18-calibration-epistemi
 
 ### The Constructivist Evidence Base: Schema Construction Requires Effort
 
-Piaget's theoretical framework receives extensive empirical support from cognitive science research on [[schema-theory|Schema Theory]]. Research by Frederic Bartlett, Roger Schank, and Robert Abelson established that memory is not a recording device — it is a constructive process in which incoming information is interpreted, transformed, and stored in relation to existing knowledge structures. The implication: information cannot simply be deposited into memory. It must be actively incorporated.
+Piaget's theoretical framework receives extensive empirical support from cognitive science research on [[schema-theory-and-knowledge-organization|Schema Theory]]. Research by Frederic Bartlett, Roger Schank, and Robert Abelson established that memory is not a recording device — it is a constructive process in which incoming information is interpreted, transformed, and stored in relation to existing knowledge structures. The implication: information cannot simply be deposited into memory. It must be actively incorporated.
 
-The research tradition on [[elaborative-interrogation|Elaborative Interrogation]] — asking "why" and "how" questions about material being learned rather than passively reading it — consistently produces significantly better retention and transfer than passive reading. Graham and Rawson's work found that self-explanation (generating explanations of material in one's own words) produced substantial learning advantages over rereading. These findings support the constructivist framework empirically: knowledge is built through active processing, not through exposure.
+The research tradition on [[Elaborative Interrogation|Elaborative Interrogation]] — asking "why" and "how" questions about material being learned rather than passively reading it — consistently produces significantly better retention and transfer than passive reading. Graham and Rawson's work found that self-explanation (generating explanations of material in one's own words) produced substantial learning advantages over rereading. These findings support the constructivist framework empirically: knowledge is built through active processing, not through exposure.
 
 > [!evidence] **Active Generation vs. Passive Reading (Slamecka & Graf, 1978; McDaniel et al., 2009)**
 > The generation effect — the finding that material generated by the learner is better remembered than material read — has been replicated hundreds of times since Slamecka and Graf's original demonstration. In PKB terms: notes that the user writes, reformulates, or elaborates in their own words are epistemically superior to notes that are copied, pasted, or captured verbatim from sources. The act of generation is itself a knowledge-construction process. A PKB workflow that prioritizes capture speed (verbatim quotes, clipped articles) over generation (reformulation, synthesis, original expression) is optimizing for the wrong variable. The note may be more accurate; the knowledge may be weaker.

@@ -57,10 +57,10 @@ SDT is one of the most researched motivational theories. There are:
 
 **STEP 4: PKB Integration Potential**
 SDT topics would generate extensive wiki-links:
-- [[intrinsic-motivation]], [[extrinsic-motivation]]
+- [[Intrinsic Motivation]], [[extrinsic-motivation]]
 - [[autonomy]], [[competence]], [[relatedness]]
 - [[internalization]], [[integration]]
-- [[controlled-motivation]], [[autonomous-motivation]]
+- [[Controlled Motivation]], [[Autonomous Motivation]]
 - [[amotivation]], [[Flow-State]]
 - [[Goal Theory]], [[achievement-motivation]]
 - [[self-efficacy]], [[locus-of-control]]
@@ -96,7 +96,7 @@ BPNT is the cornerstone mini-theory of SDT that makes the controversial claim th
 - [[competence]] - effectance and mastery
 - [[relatedness]] - connection and belongingness
 - [[Organismic-Dialectical Meta-Theory]] - philosophical foundation
-- [[need-satisfaction]] versus [[need-frustration]]
+- [[need-satisfaction]] versus [[Need Frustration]]
 - [[Psychological Thriving]] versus [[Psychological Languishing]]
 - [[Universal Human Needs]] - philosophical debates
 - [[Need Substitution Hypothesis]] - why needs cannot substitute for each other
@@ -107,7 +107,7 @@ BPNT is the cornerstone mini-theory of SDT that makes the controversial claim th
 The three needs function like essential nutrients for plants—just as plants require nitrogen, phosphorus, and potassium (and one cannot substitute for another), humans require autonomy, competence, and relatedness for psychological flourishing, with deficiency in any creating specific pathologies.
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
-- [[intrinsic-motivation]] versus [[extrinsic-motivation]]
+- [[Intrinsic Motivation]] versus [[extrinsic-motivation]]
 - [[humanistic-psychology]] - theoretical lineage
 - [[Positive-Psychology]] movement
 **Research Starting Points**:
@@ -128,7 +128,7 @@ The three needs function like essential nutrients for plants—just as plants re
 **Why This Topic is Foundationally Rich**:
 CET, developed in the 1970s-80s, was the first mini-theory within SDT and generated one of psychology's most controversial findings: that tangible rewards can *undermine* intrinsic motivation (the "hidden costs of reward"). This challenged behaviorist orthodoxy and sparked decades of debate. The theory introduces sophisticated concepts about the *functional significance* of events (informational versus controlling versus amotivating), autonomy-supportive versus controlling social contexts, and the conditions under which external regulation helps versus harms motivation. It connects to neuroscience (dopaminergic systems), organizational management practices, parenting and teaching strategies, and game design.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[intrinsic-motivation]] - the phenomenon CET explains
+- [[Intrinsic Motivation]] - the phenomenon CET explains
 - [[overjustification-effect]] - reward undermining intrinsic motivation
 - [[Functional Significance of Events]] - informational vs controlling
 - [[autonomy-support]] versus [[Controlling Context]]
@@ -143,7 +143,7 @@ CET, developed in the 1970s-80s, was the first mini-theory within SDT and genera
 **Analogical Potential**:
 External motivators function like training wheels on a bicycle—while they might provide initial support, if poorly designed they prevent the development of intrinsic balance and coordination, creating dependency rather than autonomous capability.
 **Prerequisite Knowledge**:
-- [[intrinsic-motivation]] conceptual understanding
+- [[Intrinsic Motivation]] conceptual understanding
 - [[Reinforcement Theory]] - behaviorist perspective to contrast
 - [[Self-Perception Theory]] - Bem's alternative explanation
 **Research Starting Points**:
@@ -166,12 +166,12 @@ OIT is perhaps SDT's most sophisticated mini-theory, proposing a *continuum* of 
 **Key Conceptual Anchors** (Potential Wiki-Links):
 - [[internalization]] - taking in external values
 - [[integration]] - full assimilation to self
-- [[external-regulation]] - pure compliance
+- [[External Regulation]] - pure compliance
 - [[introjected-regulation]] - ego-involvement and contingent self-worth
 - [[identified-regulation]] - conscious valuing
-- [[integrated-regulation]] - coherent self-organization
-- [[autonomous-motivation]] - the functional category
-- [[controlled-motivation]] - the contrasting category
+- [[Integrated Regulation]] - coherent self-organization
+- [[Autonomous Motivation]] - the functional category
+- [[Controlled Motivation]] - the contrasting category
 - [[amotivation]] - lack of intentionality
 - [[self-concordance]] - alignment with core values
 - [[Autonomy Supportive Parenting/Teaching]]
@@ -182,7 +182,7 @@ OIT is perhaps SDT's most sophisticated mini-theory, proposing a *continuum* of 
 Internalization resembles digestion—external "food" (values, regulations) can be swallowed whole (introjection), partially broken down (identification), or fully metabolized and integrated into the organism's structure (integration), with health depending on the thoroughness of the process.
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
-- [[intrinsic-motivation]] versus [[extrinsic-motivation]]
+- [[Intrinsic Motivation]] versus [[extrinsic-motivation]]
 - [[autonomy]] as psychological need
 - [[Self-Concordance Theory]]
 **Research Starting Points**:
@@ -247,7 +247,7 @@ This is arguably the most practically consequential concept in SDT, as it identi
 - [[Choice and Voice]] - meaningful options
 - [[Acknowledgment of Feelings]] and perspective
 - [[Non-Controlling Competence Feedback]]
-- [[conditional-regard]] - controlling parenting
+- [[Conditional Regard]] - controlling parenting
 - [[Autonomy Support Training]] interventions
 - [[Teacher Autonomy Support]] in education
 - [[Managerial Autonomy Support]] in organizations
@@ -260,7 +260,7 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
 - [[autonomy]] as psychological need
-- [[intrinsic-motivation]] and [[autonomous-motivation]]
+- [[Intrinsic Motivation]] and [[Autonomous Motivation]]
 - [[organismic-integration-theory]]
 **Research Starting Points**:
 - Reeve (2009) "Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive"

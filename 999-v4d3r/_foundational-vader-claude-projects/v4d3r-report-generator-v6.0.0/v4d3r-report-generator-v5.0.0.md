@@ -162,7 +162,7 @@ related_to:
 
 extends:
   - "[[Chain of Thought Reasoning]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Quality Assurance Frameworks]]"
 
 implements:

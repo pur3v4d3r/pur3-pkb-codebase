@@ -592,8 +592,8 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Reuven Feuerstein]]
 - [[richard-anderson]]
-- [[schema-construction|Schema Construction]]
-- [[schema-theory|Schema Theory]]
+- [[Schema Construction|Schema Construction]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[situated-learning|Situated Learning]]
 - [[Synthesis Prompts]]
@@ -644,8 +644,8 @@ extraction_summary:
 | 35 | [[personal-learning-environments]] | — | — | Evidence on Digital Learning Environm... | 250 |
 | 36 | [[self-determination-theory|Self-Determination Theory]] | — | — | Evidence on Digital Learning Environm... | 250 |
 | 37 | [[Universal-Design-for-Learning]] | — | — | Evidence on Digital Learning Environm... | 255 |
-| 38 | [[schema-construction|Schema Construction]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
-| 39 | [[schema-theory|Schema Theory]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
+| 38 | [[Schema Construction|Schema Construction]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
+| 39 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 40 | [[frederic-bartlett]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 41 | [[richard-anderson]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 42 | [[john-sweller]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
@@ -772,8 +772,8 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Reuven Feuerstein]]
 - [[richard-anderson]]
-- [[schema-construction|Schema Construction]]
-- [[schema-theory|Schema Theory]]
+- [[Schema Construction|Schema Construction]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[situated-learning|Situated Learning]]
 - [[Synthesis Prompts]]

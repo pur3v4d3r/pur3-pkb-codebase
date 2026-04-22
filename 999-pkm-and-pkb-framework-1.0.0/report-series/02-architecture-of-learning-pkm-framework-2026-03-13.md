@@ -61,25 +61,25 @@ analytical_contributions:
   original_synthesis: 2
 
 related_concepts:
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[working-memory|Working Memory]]"
   - "[[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]"
   - "[[Mayer's Multimedia Learning Theory]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]"
   - "[[Information-Architecture|Information Architecture]]"
   - "[[progressive-disclosure|Progressive Disclosure]]"
-  - "[[chunking]]"
-  - "[[desirable-difficulties|Desirable Difficulties]]"
+  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]"
   - "[[personal-knowledge-base|Personal Knowledge Base]]"
   - "[[obsidian]]"
   - "[[Note Architecture]]"
   - "[[Intrinsic-Load|Intrinsic Load]]"
   - "[[extraneous-load|Extraneous Load]]"
-  - "[[germane-load|Germane Load]]"
+  - "[[Cognitive Load Theory (CLT)|Germane Load]]"
   - "[[split-attention-effect|Split-Attention Effect]]"
-  - "[[modality-effect]]"
+  - "[[Modality Effect]]"
   - "[[redundancy-effect]]"
   - "[[Miller's Law]]"
   - "[[Cowan's Capacity Estimate]]"
@@ -111,14 +111,14 @@ aliases:
 
 There is a paradox at the heart of ambitious Personal Knowledge Base design. The more meticulously you build your PKB — the more comprehensive your notes, the richer your cross-references, the denser your annotations — the more cognitively demanding each note becomes to engage with. You build a knowledge system precisely because you want to know more, think more clearly, and learn more effectively. Yet the very structure you construct to serve that goal can work against it: notes that are too complex overwhelm [[working-memory|Working Memory]], notes that are poorly chunked force the mind to hold too many fragments simultaneously, and notes designed without regard for cognitive architecture become artifacts that are filed but never truly learned.
 
-This is not a failure of discipline or intelligence. It is a predictable consequence of designing a knowledge system without understanding the cognitive constraints it must operate within. [[cognitive-load-theory|Cognitive Load Theory]], developed by John Sweller and colleagues over four decades of research, provides the scientific framework for understanding why some notes aid learning while others impede it. [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] reveals the architectural constraints that every note must respect, regardless of how clever its organizational scheme. And the intersection of these with [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] principles — particularly [[Mayer's Multimedia Learning Theory]] and [[Information-Architecture|Information Architecture]] — translates cognitive science into actionable design decisions for your PKB.
+This is not a failure of discipline or intelligence. It is a predictable consequence of designing a knowledge system without understanding the cognitive constraints it must operate within. [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], developed by John Sweller and colleagues over four decades of research, provides the scientific framework for understanding why some notes aid learning while others impede it. [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] reveals the architectural constraints that every note must respect, regardless of how clever its organizational scheme. And the intersection of these with [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] principles — particularly [[Mayer's Multimedia Learning Theory]] and [[Information-Architecture|Information Architecture]] — translates cognitive science into actionable design decisions for your PKB.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, take a moment to examine a note in your current PKB — ideally one you've revisited several times. When you open it, what happens? Do you feel immediate orientation, or a moment of disorientation before the content settles? Do you find yourself reading it top to bottom, or scanning for a specific concept? Does the note feel like a tool you use, or an artifact you filed? These reactions are not arbitrary aesthetic preferences — they are signals about the note's cognitive architecture. Hold this experience in mind as a concrete reference point as the analysis unfolds.
 
 **The Synthesis Focus of This Report** is the following question: *What does the intersection of Cognitive Load Theory, Working Memory constraints, and Instructional Design principles reveal about how PKB notes should be structured — not just organized, but genuinely designed for the cognitive work of learning and retrieval?* This is a more demanding question than "how should I take notes," because it requires understanding the mechanisms by which note structure either respects or violates the architecture of the mind. The answer that emerges is not a simple set of rules but a design framework — what this report calls the [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]] — where note complexity, structure, and progressive disclosure are calibrated to working memory constraints and the user's evolving expertise.
 
-**Scope**: This report focuses on the cognitive dimensions of individual note design and PKB structural patterns for learning. It does not cover retrieval system design in depth (that is the domain of Report 06: *The Science of Remembering*) or metacognitive monitoring strategies (Report 04). It builds on Report 01's treatment of [[schema-theory|Schema Theory]] and [[Knowledge-Organization-Systems|Knowledge Organization Systems]], extending those architectural foundations into the mechanics of cognitive processing.
+**Scope**: This report focuses on the cognitive dimensions of individual note design and PKB structural patterns for learning. It does not cover retrieval system design in depth (that is the domain of Report 06: *The Science of Remembering*) or metacognitive monitoring strategies (Report 04). It builds on Report 01's treatment of [[schema-theory-and-knowledge-organization|Schema Theory]] and [[Knowledge-Organization-Systems|Knowledge Organization Systems]], extending those architectural foundations into the mechanics of cognitive processing.
 
 **Cross-Domain Preview**: This report draws together [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] (particularly Sweller's CLT and Baddeley's working memory research), [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] (Mayer, Merrill, and the multimedia learning tradition), [[Learning-Experience-Design|Learning Experience Design]] (information architecture and progressive disclosure), and [[educational-psychology|Educational Psychology]] (the expertise reversal effect and individual differences in cognitive load). The most valuable insights emerge at the intersections: where cognitive science reveals *why* certain instructional design patterns work, where information architecture principles align with working memory constraints, and where the expertise reversal effect complicates seemingly obvious recommendations about note simplification.
 
@@ -183,7 +183,7 @@ Mayer's framework is especially significant for PKB design because it addresses 
 
 ### The CLT Evidence Base
 
-The empirical foundation of [[cognitive-load-theory|Cognitive Load Theory]] is extensive and spans four decades. Several landmark research programs are directly relevant to PKB design.
+The empirical foundation of [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] is extensive and spans four decades. Several landmark research programs are directly relevant to PKB design.
 
 The **split-attention effect**, first demonstrated by Sweller and Chandler (1991), showed that when learners must mentally integrate two or more sources of information that are physically separated — a diagram and its explanatory text, presented in different locations — they suffer significantly impaired learning compared to learners who receive the same information in an integrated format. The cognitive mechanism is clear: maintaining the correspondence between separated sources requires working memory capacity that could otherwise be directed at understanding the content. The implication for PKB notes is direct: any note design that forces the reader to mentally integrate elements that are physically separated — definitions that appear far from the context in which they are used, references that require the reader to hold context while navigating to another note, code blocks that are separated from their explanatory prose — imposes split-attention extraneous load.
 
@@ -253,7 +253,7 @@ This mechanism explains why the [[Signaling-Principle|Signaling Principle]] is n
 
 ### Schema Construction as the Goal of Germane Load
 
-The concept of [[germane-load|Germane Load]] is the most theoretically sophisticated element of CLT, and it has been the subject of ongoing refinement. Early formulations treated germane load as a distinct type of load that could be independently manipulated. More recent theoretical work (Sweller, 2010; Kalyuga, 2011) has suggested a reframing: germane load is better understood not as a separate type of load but as the productive application of working memory resources — the cognitive work of schema construction itself.
+The concept of [[Cognitive Load Theory (CLT)|Germane Load]] is the most theoretically sophisticated element of CLT, and it has been the subject of ongoing refinement. Early formulations treated germane load as a distinct type of load that could be independently manipulated. More recent theoretical work (Sweller, 2010; Kalyuga, 2011) has suggested a reframing: germane load is better understood not as a separate type of load but as the productive application of working memory resources — the cognitive work of schema construction itself.
 
 What this means practically is that the goal of PKB note design is not to minimize all cognitive demands on the reader. The goal is to minimize *unproductive* cognitive demands (extraneous load — confusion about structure, navigation effort, disambiguation of ambiguous references) while ensuring that the remaining cognitive demands are *maximally productive* — that is, that the cognitive effort the note requires is directed at building and refining schemas rather than at overcoming design failures.
 
@@ -280,7 +280,7 @@ But there is a more sophisticated version of progressive disclosure that emerges
 
 ### Return and Deepen: Working Memory and Schema Theory Together
 
-In Phase II, we introduced [[schema-theory|Schema Theory]] as the cognitive background to CLT — schemas in long-term memory are what enable chunking and thus what govern effective working memory capacity. With the mechanisms of germane load, expertise reversal, and progressive disclosure now in view, we can see an implication that was not visible earlier: **the function of a PKB note is not to store information but to strengthen schemas**.
+In Phase II, we introduced [[schema-theory-and-knowledge-organization|Schema Theory]] as the cognitive background to CLT — schemas in long-term memory are what enable chunking and thus what govern effective working memory capacity. With the mechanisms of germane load, expertise reversal, and progressive disclosure now in view, we can see an implication that was not visible earlier: **the function of a PKB note is not to store information but to strengthen schemas**.
 
 This reframing is significant. If note function is information storage, the optimal note is complete and accurate. If note function is schema strengthening, the optimal note is schema-activating, produces germane load (productive cognitive effort), and is calibrated to the reader's current expertise level. These lead to genuinely different design decisions. The information-storage view suggests that more content is better, that redundancy is a safety net, and that the same note serves the same function at all expertise levels. The schema-strengthening view suggests that notes should be designed to activate rather than re-explain, that redundancy imposes extraneous load, and that notes should evolve with the reader's expertise.
 
@@ -394,7 +394,7 @@ The practical implication is that periodic note revision — not merely adding n
 
 ### Unresolved Questions
 
-Several important questions remain open in the intersection of CLT, working memory, and PKB design. How should note complexity be managed when the user is in a state of rapid learning — transitioning from novice to intermediate — where schema development is happening quickly and the optimal note density is a moving target? To what extent can explicit metacognitive awareness of working memory load (trained through practice) expand the functional capacity of the working memory system? And how does the [[spaced-repetition-spacing-effect|Spacing Effect]] and [[retrieval-practice|Retrieval Practice]] research interact with the CLT framework — does retrieval practice specifically target the germane load mechanism, and if so, does it provide a partial solution to the expertise reversal problem by maintaining schemas in an active, accessible state?
+Several important questions remain open in the intersection of CLT, working memory, and PKB design. How should note complexity be managed when the user is in a state of rapid learning — transitioning from novice to intermediate — where schema development is happening quickly and the optimal note density is a moving target? To what extent can explicit metacognitive awareness of working memory load (trained through practice) expand the functional capacity of the working memory system? And how does the [[spaced-repetition-spacing-effect|Spacing Effect]] and [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]] research interact with the CLT framework — does retrieval practice specifically target the germane load mechanism, and if so, does it provide a partial solution to the expertise reversal problem by maintaining schemas in an active, accessible state?
 
 ---
 
@@ -403,9 +403,9 @@ Several important questions remain open in the intersection of CLT, working memo
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — The theoretical core of this report. Your CLT notes should now connect to the PKB design implications developed here: the Load Profile framework, the four-point rule, and the expertise reversal design tension.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — The theoretical core of this report. Your CLT notes should now connect to the PKB design implications developed here: the Load Profile framework, the four-point rule, and the expertise reversal design tension.
 >
-> - **[[schema-theory|Schema Theory]]** — Report 01 introduced schemas as the organizational unit of long-term memory. This report shows how schema development is specifically the target of germane load — the goal is not just to store schemas but to construct them through well-designed cognitive engagement. Each report enriches the other.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Report 01 introduced schemas as the organizational unit of long-term memory. This report shows how schema development is specifically the target of germane load — the goal is not just to store schemas but to construct them through well-designed cognitive engagement. Each report enriches the other.
 >
 > - **[[working-memory|Working Memory]]** — The architectural constraint that gives CLT its explanatory power. This connection is bidirectional: understanding working memory deepens CLT, and CLT gives working memory practical design implications.
 >

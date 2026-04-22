@@ -90,7 +90,7 @@ Appendix as specified.
 ---
 
 - **Topic**: Can attention be trained, or are attentional capacities relatively fixed — and what are the implications for the modern information environment?
-  - **Description**: Popular culture has embraced the claim that [[cognitive-load-theory]] and distracted environments are "rewiring" attention, with equally popular claims that mindfulness meditation and deliberate attentional practice can reverse this. But the Socratic examination can probe whether "attention" is a single trainable capacity or a family of distinct processes that respond differently to intervention. The claim that digital environments are reducing attention spans runs into definitional problems: attention spans for what? Under what conditions? The dialogue can push toward the harder question of whether the very concept of "training attention" makes psychological sense — or whether what improves with practice is not attention itself but domain-specific skills that require sustained engagement to execute.
+  - **Description**: Popular culture has embraced the claim that [[Cognitive Load Theory (CLT)]] and distracted environments are "rewiring" attention, with equally popular claims that mindfulness meditation and deliberate attentional practice can reverse this. But the Socratic examination can probe whether "attention" is a single trainable capacity or a family of distinct processes that respond differently to intervention. The claim that digital environments are reducing attention spans runs into definitional problems: attention spans for what? Under what conditions? The dialogue can push toward the harder question of whether the very concept of "training attention" makes psychological sense — or whether what improves with practice is not attention itself but domain-specific skills that require sustained engagement to execute.
 
 ---
 
@@ -194,7 +194,7 @@ related_concepts:
   - "[[Dialectical Reasoning]]"
   - "[[Maieutic Method]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[dual-process-theory]]"

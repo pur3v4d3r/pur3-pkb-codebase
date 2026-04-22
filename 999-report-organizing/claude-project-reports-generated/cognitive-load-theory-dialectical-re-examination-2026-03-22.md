@@ -157,7 +157,7 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[working-memory]]"
 
 foundational-report: "[[cognitive-load-theory-foundational-report-2026-03-11]]"
@@ -165,8 +165,8 @@ focused-analysis: "[[Cognitive-Load-Theory-—-Focused-Analysis]]"
 
 related:
   - "[[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]]"
-  - "[[worked-example-effect]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[the-worked-example-effect]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[cognitive-theory-of-multimedia-learning]]"
   - "[[transfer-of-learning]]"
   - "[[self-regulated-learning]]"
@@ -175,21 +175,21 @@ related:
   - "[[The-Load-Profile-A-Framework-for-Classifying-PKB-Notes-by-Cognitive-Function]]"
 
 broader:
-  - "[[cognitive-architecture]]"
+  - "[[Cognitive Architecture]]"
   - "[[cognitive-psychology]]"
 
 narrower:
-  - "[[intrinsic-cognitive-load]]"
-  - "[[germane-cognitive-load]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[working-memory-and-long-term-memory-in-clt]]"
 
 see-also:
   - "[[metacognition]]"
-  - "[[scaffolding]]"
+  - "[[Scaffolded Fading]]"
   - "[[guidance-fading-principle]]"
   - "[[cognitive-bandwidth-liberation]]"
   - "[[interleaving-effect]]"
-  - "[[retrieval-practice]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
 
 contrasts-with:
   - "[[generative-learning-theory]]"
@@ -197,7 +197,7 @@ contrasts-with:
 
 applied-in:
   - "[[Cognitive-Architecture-Aligned-PKB]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -205,17 +205,17 @@ applied-in:
 builds-on:
   - "[[cognitive-load-theory-foundational-report-2026-03-11]]"
   - "[[Cognitive-Load-Theory-—-Focused-Analysis]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
 
 enables:
   - "[[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design]]"
   - "[[toward-an-expertise-indexed-instructional-design-principle]]"
 
 expansion-topics:
-  - topic: "[[expertise-reversal-effect]]"
+  - topic: "[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]"
     description: "The expertise reversal effect is the empirical fulcrum on which CLT's conditional prescriptions rest — a dedicated re-examination of when and why scaffolding helps novices but hurts experts would deepen the reconstructed CLT considerably."
     priority: high
-  - topic: "[[desirable-difficulties]]"
+  - topic: "[[Desirable Difficulties (Robert Bjork, 1994)]]"
     description: "The desirable difficulties literature (Bjork, Kornell, Roediger) represents the most sustained empirical challenge to CLT's efficiency orientation — mapping the precise domain of each framework is essential for integrated instructional design."
     priority: high
   - topic: "[[working-memory-capacity]]"
@@ -290,9 +290,9 @@ generation-date: "2026-03-22"
 ## Phase I: Orientation & Thesis Articulation
 
 > [!ask-yourself-this] **Schema Activation — Before You Begin**
-> Before reading this re-examination, take a moment to articulate your current understanding of [[cognitive-load-theory]]. What do you believe to be its core claims? If someone asked you why worked examples help novice learners, or why splitting attention between a diagram and its caption impairs learning, how would you explain it? Write down the three or four propositions about learning that CLT has convinced you of. The comparison between your starting position and your position after this dialectical process is where the deepest learning lies.
+> Before reading this re-examination, take a moment to articulate your current understanding of [[Cognitive Load Theory (CLT)]]. What do you believe to be its core claims? If someone asked you why worked examples help novice learners, or why splitting attention between a diagram and its caption impairs learning, how would you explain it? Write down the three or four propositions about learning that CLT has convinced you of. The comparison between your starting position and your position after this dialectical process is where the deepest learning lies.
 
-Something doesn't quite add up about [[cognitive-load-theory]]. The theory has accumulated an impressive portfolio of empirically supported effects — the [[worked-example-effect]], the split-attention effect, the [[redundancy-effect|redundancy effect]], the modality effect — each demonstrating that particular instructional designs impose unnecessary burdens on [[working-memory]] and therefore impair learning. The framework is elegant, its predictions intuitive, and its influence on instructional design practice enormous. [[john-sweller]], [[fred-paas]], and [[jeroen-van-merriënboer]] built a genuine theoretical achievement.
+Something doesn't quite add up about [[Cognitive Load Theory (CLT)]]. The theory has accumulated an impressive portfolio of empirically supported effects — the [[the-worked-example-effect]], the split-attention effect, the [[redundancy-effect|redundancy effect]], the modality effect — each demonstrating that particular instructional designs impose unnecessary burdens on [[working-memory]] and therefore impair learning. The framework is elegant, its predictions intuitive, and its influence on instructional design practice enormous. [[john-sweller]], [[Fred Paas]], and [[Jeroen van Merriënboer]] built a genuine theoretical achievement.
 
 And yet, in 2010, the same [[john-sweller]] who introduced one of CLT's three foundational constructs — germane cognitive load — co-authored a paper effectively retracting it. Not quietly revising it. Retracting the claim that germane load is a measurable and distinct category of cognitive load. The revision received relatively little attention in the broader practitioner literature. Textbooks continued explaining the tripartite framework. Instructional designers continued referencing germane load in their design rationales. A theoretical retraction occurred at the foundation of the framework that nearly nobody noticed.
 
@@ -301,7 +301,7 @@ This is the crack in the received view that motivates the present re-examination
 This report subjects that received view to systematic, multi-perspectival scrutiny. The goal is not to dismiss CLT — its core insight about cognitive architecture and learning is both correct and consequential. The goal is to discover what, exactly, in that received view has been genuinely earned through empirical and conceptual rigor, and what has been received uncritically.
 
 > [!steel-man] **The Strongest Version of the Cognitive Load Theory Received View**
-> The evidence that human working memory is severely capacity-limited — capable of processing only approximately four chunks of novel information simultaneously — is among the most replicated findings in cognitive psychology, confirmed across experimental paradigms from [[george-miller|Miller's]] digit span studies through [[working-memory-capacity|working memory capacity research]] to modern neuroimaging. Given this genuine architectural constraint, it follows rigorously that instructional designs which impose unnecessary processing demands — asking learners to mentally integrate physically separated information, presenting the same information redundantly in formats requiring separate processing, overloading one sensory channel while another sits idle — will consume working memory resources that could have been devoted to schema construction. The effects CLT predicts from these unnecessary demands are consistently observed. Furthermore, the theory correctly identifies that expertise transforms the architecture of the bottleneck: [[schema-automation|automated schemas]] require minimal working memory, which is why experts can perform complex tasks that would overwhelm novices. CLT thus provides a principled account of novice-expert differences in learning requirements and a practical framework for designing instruction that respects human cognitive architecture. If this framework saves working memory resources for the construction of genuine understanding rather than for managing design-imposed confusion, it achieves something educationally profound.
+> The evidence that human working memory is severely capacity-limited — capable of processing only approximately four chunks of novel information simultaneously — is among the most replicated findings in cognitive psychology, confirmed across experimental paradigms from [[george-miller|Miller's]] digit span studies through [[working-memory-capacity|working memory capacity research]] to modern neuroimaging. Given this genuine architectural constraint, it follows rigorously that instructional designs which impose unnecessary processing demands — asking learners to mentally integrate physically separated information, presenting the same information redundantly in formats requiring separate processing, overloading one sensory channel while another sits idle — will consume working memory resources that could have been devoted to schema construction. The effects CLT predicts from these unnecessary demands are consistently observed. Furthermore, the theory correctly identifies that expertise transforms the architecture of the bottleneck: [[Schema Automation|automated schemas]] require minimal working memory, which is why experts can perform complex tasks that would overwhelm novices. CLT thus provides a principled account of novice-expert differences in learning requirements and a practical framework for designing instruction that respects human cognitive architecture. If this framework saves working memory resources for the construction of genuine understanding rather than for managing design-imposed confusion, it achieves something educationally profound.
 >
 > **Why this version matters**: If the steel-manned CLT is correct, it means that enormous amounts of cognitive capacity are currently wasted in poorly designed instruction — not because teachers lack skill or students lack motivation, but because instructional materials routinely violate the architecture of human cognition. The theory offers a systematic, theoretically grounded path to recovering that wasted capacity and directing it toward learning.
 
@@ -364,7 +364,7 @@ The four perspectival lenses we will apply to these concepts operate as follows.
 
 ### The Empirical Challenge: The Germane Load Retraction and Its Implications
 
-The most direct empirical challenge to the received view is hiding in plain sight in the CLT literature itself. In a 2010 theoretical paper, [[john-sweller|Sweller]], [[fred-paas|Paas]], and [[jeroen-van-merriënboer|van Merriënboer]] substantially revised the germane load construct. Their argument is worth understanding precisely. The original tripartite model claimed that total cognitive load = intrinsic load + extraneous load + germane load, where germane load represents the working memory resources specifically allocated to schema formation. The problem the 2010 revision identified is this: germane load cannot be measured independently of the other two types. Any measure of mental effort or physiological arousal attributed to germane processing could equally be attributed to intrinsic processing; there is no instrument that distinguishes schema-formation processing from content-complexity processing. The construct is empirically unfalsifiable as a distinct category.
+The most direct empirical challenge to the received view is hiding in plain sight in the CLT literature itself. In a 2010 theoretical paper, [[john-sweller|Sweller]], [[Fred Paas|Paas]], and [[Jeroen van Merriënboer|van Merriënboer]] substantially revised the germane load construct. Their argument is worth understanding precisely. The original tripartite model claimed that total cognitive load = intrinsic load + extraneous load + germane load, where germane load represents the working memory resources specifically allocated to schema formation. The problem the 2010 revision identified is this: germane load cannot be measured independently of the other two types. Any measure of mental effort or physiological arousal attributed to germane processing could equally be attributed to intrinsic processing; there is no instrument that distinguishes schema-formation processing from content-complexity processing. The construct is empirically unfalsifiable as a distinct category.
 
 > [!what-the-evidence-suggests] **The Germane Load Evidence Crisis**
 > After three decades of CLT research, there exists no validated measure of germane cognitive load that is independent of intrinsic and extraneous load measures. All attempts to operationalize germane load have either collapsed into global mental effort measures (which don't distinguish load types) or relied on learning outcome proxies (which measure the results of processing, not the processing itself). Sweller's 2010 revision acknowledged this directly: germane load is better understood not as a distinct load type but as a label for how available working memory capacity is deployed when intrinsic and extraneous demands are appropriately managed. This is a significant theoretical retreat — from "a distinct measurable construct" to "a way of describing the beneficial use of available capacity." Yet the practitioner literature has largely not absorbed this revision. Textbooks, instructional design frameworks, and research papers continue citing the tripartite framework as if the 2010 revision did not occur.
@@ -383,7 +383,7 @@ A second empirical challenge comes from the desirable difficulties literature pi
 This creates a direct conflict with CLT's efficiency orientation. CLT prescribes minimizing extraneous load; Bjork prescribes increasing certain kinds of cognitive demand. Both bodies of research have strong empirical support. The tension is not resolvable by calling desirable difficulties "germane load" — that relabeling explains nothing and obscures the genuine conflict between design for efficiency (CLT's primary directive) and design for productive struggle (Bjork's primary directive).
 
 > [!tension-identified] **The CLT-Desirable Difficulties Contradiction**
-> [[cognitive-load-theory]] prescribes reducing cognitive demand that is not directly attributable to content complexity, on the grounds that unnecessary demand wastes working memory capacity. The desirable difficulties framework prescribes maintaining elevated cognitive demand in specific conditions — spacing, interleaving, testing — on the grounds that difficulty that is difficult to process during acquisition produces stronger, more transferable encoding. Both frameworks have consistent, replicated empirical support. They cannot both be fully right as general principles, because they recommend opposing instructional choices for the same learning goals. Resolving this tension requires a more conditional theory that specifies when load reduction enhances learning (early acquisition, novice learners, high complexity material) and when productive load maintenance enhances learning (intermediate acquisition, retrieval practice, far-transfer goals). The received CLT does not provide this conditional specification.
+> [[Cognitive Load Theory (CLT)]] prescribes reducing cognitive demand that is not directly attributable to content complexity, on the grounds that unnecessary demand wastes working memory capacity. The desirable difficulties framework prescribes maintaining elevated cognitive demand in specific conditions — spacing, interleaving, testing — on the grounds that difficulty that is difficult to process during acquisition produces stronger, more transferable encoding. Both frameworks have consistent, replicated empirical support. They cannot both be fully right as general principles, because they recommend opposing instructional choices for the same learning goals. Resolving this tension requires a more conditional theory that specifies when load reduction enhances learning (early acquisition, novice learners, high complexity material) and when productive load maintenance enhances learning (intermediate acquisition, retrieval practice, far-transfer goals). The received CLT does not provide this conditional specification.
 
 ### The Philosophical Challenge: Element Interactivity as a Circular Concept
 
@@ -398,10 +398,10 @@ The philosophical lens reveals a structural problem at the heart of intrinsic lo
 >
 > **Assessment**: This assumption partially fails. Element interactivity is genuinely learner-relative, and CLT's applied literature understates this dependence. The theoretical papers acknowledge it but the design prescriptions ignore it. What survives is the more modest claim: materials that require simultaneous processing of many interdependent concepts impose higher loads on learners with less relevant prior knowledge than materials that can be processed sequentially. This is correct and useful — but it is a claim about relative difficulty for a specified learner population, not about objective content complexity.
 
-The philosophical lens also reveals something interesting about the "load" metaphor itself. [[cognitive-load-theory|Cognitive load]] theorists use physical container language — capacity, load, overflow, resources — derived from engineering contexts where these terms are precisely defined. Working memory does not literally have a capacity that is "filled" by load in the way a container is filled by liquid. The metaphor may be doing explanatory work it cannot legitimately claim. When practitioners speak of "freeing up cognitive resources" by reducing extraneous load, they invoke the container metaphor in a way that implies a clean resource-reallocation that neuroimaging research does not support. Processing is distributed, context-dependent, and reconstructive in ways that the container metaphor obscures.
+The philosophical lens also reveals something interesting about the "load" metaphor itself. [[Cognitive Load Theory (CLT)|Cognitive load]] theorists use physical container language — capacity, load, overflow, resources — derived from engineering contexts where these terms are precisely defined. Working memory does not literally have a capacity that is "filled" by load in the way a container is filled by liquid. The metaphor may be doing explanatory work it cannot legitimately claim. When practitioners speak of "freeing up cognitive resources" by reducing extraneous load, they invoke the container metaphor in a way that implies a clean resource-reallocation that neuroimaging research does not support. Processing is distributed, context-dependent, and reconstructive in ways that the container metaphor obscures.
 
 > [!analytical-insight] **The Physical Metaphor as Conceptual Trap**
-> The most consequential unstated assumption in [[cognitive-load-theory]] may be the physical-container metaphor embedded in the term "cognitive load" itself. Physical loads are additive, fungible, and independently measurable; they do not interact qualitatively but only quantitatively. If cognitive processing does not actually work this way — if what a learner processes, not just how much, shapes the architecture of what is learned — then the load metaphor systematically misdirects instructional design toward quantity management (reduce total load) rather than quality management (ensure the right kind of processing occurs). The distinction between intrinsic and extraneous load encodes a qualitative claim (some processing is task-relevant, some is not) into a quantitative framework (load units sum to capacity). This encoding may be the source of much of CLT's practical productivity — and much of its theoretical imprecision.
+> The most consequential unstated assumption in [[Cognitive Load Theory (CLT)]] may be the physical-container metaphor embedded in the term "cognitive load" itself. Physical loads are additive, fungible, and independently measurable; they do not interact qualitatively but only quantitatively. If cognitive processing does not actually work this way — if what a learner processes, not just how much, shapes the architecture of what is learned — then the load metaphor systematically misdirects instructional design toward quantity management (reduce total load) rather than quality management (ensure the right kind of processing occurs). The distinction between intrinsic and extraneous load encodes a qualitative claim (some processing is task-relevant, some is not) into a quantitative framework (load units sum to capacity). This encoding may be the source of much of CLT's practical productivity — and much of its theoretical imprecision.
 
 ### The Practical Challenge: Individual Differences and Real-World Complexity
 
@@ -438,7 +438,7 @@ The challenge phase has identified four significant vulnerabilities in the recei
 
 ### What the Received View Cannot See: The Motivational Blind Spot
 
-The critical lens reveals that [[cognitive-load-theory]]'s exclusive focus on cognitive architecture creates a systematic blind spot regarding motivational and affective variables. This is not a minor caveat — effect sizes for motivational variables (interest, perceived competence, self-efficacy, need satisfaction) on learning outcomes are comparable to those for cognitive load manipulations, and in some studies are larger. A theory of instructional design that manages cognitive load perfectly but ignores whether learners are engaged, whether they have any sense of autonomy in the learning process, or whether the material connects to their interests is optimizing for a secondary variable.
+The critical lens reveals that [[Cognitive Load Theory (CLT)]]'s exclusive focus on cognitive architecture creates a systematic blind spot regarding motivational and affective variables. This is not a minor caveat — effect sizes for motivational variables (interest, perceived competence, self-efficacy, need satisfaction) on learning outcomes are comparable to those for cognitive load manipulations, and in some studies are larger. A theory of instructional design that manages cognitive load perfectly but ignores whether learners are engaged, whether they have any sense of autonomy in the learning process, or whether the material connects to their interests is optimizing for a secondary variable.
 
 > [!assumption-challenge] **The Efficiency-Equals-Learning Assumption**
 > **The assumption**: Because cognitive load management is necessary for learning (overloaded working memory cannot encode effectively), it is sufficient for learning — reduce extraneous load and learning will follow.
@@ -450,7 +450,7 @@ The critical lens reveals that [[cognitive-load-theory]]'s exclusive focus on co
 > **Assessment**: This assumption fails in moderate form. There is good evidence that eliminating all challenge-induced load can undermine both intrinsic motivation and the productive struggle effects documented by Bjork. The correct prescription is not "maximize extraneous load reduction" but rather "distinguish load that is task-irrelevant and eliminate it; distinguish load that is productively challenging and preserve it; distinguish load that is motivationally engaging and manage it carefully."
 
 > [!tension-identified] **Efficiency vs. Engagement: An Unresolved Design Dilemma**
-> [[cognitive-load-theory]] optimizes instructional design for cognitive efficiency — minimize unnecessary processing, concentrate resources on schema formation. A range of adjacent learning theories (flow theory, interest development theory, [[Self-Determination-Theory-—-Focused-Analysis|self-determination theory]]) optimize for motivational engagement — maintain appropriate challenge, preserve learner agency, connect to existing interests. These optimization targets are not always aligned. The highly scaffolded, worked-example-intensive, redundancy-free design that CLT recommends for novice learners may be cognitively efficient but motivationally deadening — presenting learners with a path through material rather than allowing them to construct one. Research on [[intrinsic-motivation|intrinsic motivation]] and autonomy-supportive instruction consistently shows that even novice learners benefit from some degree of challenge, exploration, and choice. CLT has no mechanism for integrating these findings.
+> [[Cognitive Load Theory (CLT)]] optimizes instructional design for cognitive efficiency — minimize unnecessary processing, concentrate resources on schema formation. A range of adjacent learning theories (flow theory, interest development theory, [[Self-Determination-Theory-—-Focused-Analysis|self-determination theory]]) optimize for motivational engagement — maintain appropriate challenge, preserve learner agency, connect to existing interests. These optimization targets are not always aligned. The highly scaffolded, worked-example-intensive, redundancy-free design that CLT recommends for novice learners may be cognitively efficient but motivationally deadening — presenting learners with a path through material rather than allowing them to construct one. Research on [[Intrinsic Motivation|intrinsic motivation]] and autonomy-supportive instruction consistently shows that even novice learners benefit from some degree of challenge, exploration, and choice. CLT has no mechanism for integrating these findings.
 
 ### The Return-and-Deepen: Element Interactivity Revisited
 
@@ -494,7 +494,7 @@ What does not survive in its received form: (1) Germane load as a distinct, meas
 > Taking the CLT evidence base as a whole — including the germane load revision, the desirable difficulties research, the WMC individual differences literature, and the expertise reversal effect — the evidence supports the following, more conditional portrait: Working memory constraints are real and consequential for instructional design. Extraneous load (design-imposed processing inefficiency) consistently harms learning and should be reduced. Intrinsic load should be managed through sequencing, scaffolding, and prerequisite instruction — but managed to maintain appropriate challenge, not eliminated. Productive cognitive difficulty (spaced practice, retrieval, interleaving, generative processing) consistently enhances long-term retention and transfer and should be strategically preserved or introduced. Optimal load profiles are strongly learner-state-dependent, requiring expertise-sensitive calibration. Individual differences in WMC create a range of optimal loads within any learner population, making personalization theoretically necessary.
 
 > [!original-synthesis] **The Productive Challenge Integration: A Bridge Between CLT and Desirable Difficulties**
-> The deepest reconstruction the dialectical process produces is a principled bridge between [[cognitive-load-theory]] and the desirable difficulties framework. The bridge requires distinguishing three zones of cognitive challenge on a single continuum. Zone 1: Overload — demand exceeds available working memory capacity, preventing encoding; CLT's prescriptions apply here and are well-supported. Zone 2: Managed efficiency — demand is appropriately calibrated, schemas are being formed; CLT's worked example and split-attention principles apply. Zone 3: Productive challenge — demand is deliberately maintained at a level that impairs immediate performance but strengthens long-term encoding and transfer through retrieval, interleaving, or generative effects; desirable difficulties research applies here. The received CLT conflates Zones 2 and 3 — treating any reduction in demand as beneficial — when the evidence distinguishes them sharply. The reconstructed framework uses learner expertise state as the primary variable that determines which zone is currently occupied and which prescriptions therefore apply.
+> The deepest reconstruction the dialectical process produces is a principled bridge between [[Cognitive Load Theory (CLT)]] and the desirable difficulties framework. The bridge requires distinguishing three zones of cognitive challenge on a single continuum. Zone 1: Overload — demand exceeds available working memory capacity, preventing encoding; CLT's prescriptions apply here and are well-supported. Zone 2: Managed efficiency — demand is appropriately calibrated, schemas are being formed; CLT's worked example and split-attention principles apply. Zone 3: Productive challenge — demand is deliberately maintained at a level that impairs immediate performance but strengthens long-term encoding and transfer through retrieval, interleaving, or generative effects; desirable difficulties research applies here. The received CLT conflates Zones 2 and 3 — treating any reduction in demand as beneficial — when the evidence distinguishes them sharply. The reconstructed framework uses learner expertise state as the primary variable that determines which zone is currently occupied and which prescriptions therefore apply.
 
 > [!reflection] **Integrating the Reconstruction**
 >
@@ -508,7 +508,7 @@ What does not survive in its received form: (1) Germane load as a distinct, meas
 
 ## Phase VI: FAR Transfer — Structural Analogues Across Domains
 
-The dialectical process has generated insights not just about [[cognitive-load-theory]] but about a class of problems that appears across diverse domains. Three abstract principles emerge from the reconstruction and operate wherever complex systems must manage limited processing capacity under variable demand.
+The dialectical process has generated insights not just about [[Cognitive Load Theory (CLT)]] but about a class of problems that appears across diverse domains. Three abstract principles emerge from the reconstruction and operate wherever complex systems must manage limited processing capacity under variable demand.
 
 > [!ask-yourself-this] **Transfer Application**
 > The structural principles extracted in this phase were revealed through dialectical scrutiny of CLT. Before reading each principle, try to identify a domain in your own work or study where the same structural challenge might arise. Testing that identification against the principles below is how transfer becomes genuine capability rather than abstract knowledge.
@@ -571,7 +571,7 @@ The dialectical process has generated insights not just about [[cognitive-load-t
 >
 > - **[[working-memory-and-long-term-memory-in-clt]]** — This node describes the cognitive architecture that CLT depends on. The dialectical process reveals that the architecture is more nuanced than CLT's application of it: working memory capacity varies substantially across individuals, the "capacity limit" is not a fixed number, and the working memory/long-term memory distinction is itself contested in more recent cognitive neuroscience. The architectural description needs updating in light of individual differences research.
 >
-> - **[[schema-construction]]** and **[[schema-automation]]** — These nodes describe the learning mechanisms CLT ultimately serves. The reconstructed CLT does not revise the importance of schema construction but does revise the conditions under which different instructional approaches best serve it. Schema construction through productive struggle and schema construction through reduced-load worked examples are distinct processes that may produce qualitatively different schemas — a connection these nodes should ultimately reflect.
+> - **[[Schema Construction]]** and **[[Schema Automation]]** — These nodes describe the learning mechanisms CLT ultimately serves. The reconstructed CLT does not revise the importance of schema construction but does revise the conditions under which different instructional approaches best serve it. Schema construction through productive struggle and schema construction through reduced-load worked examples are distinct processes that may produce qualitatively different schemas — a connection these nodes should ultimately reflect.
 >
 > - **[[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a]]** — The dialectical process surfaces a bidirectional relationship that deserves its own note: high cognitive load degrades metacognitive monitoring exactly when monitoring is most needed (when load is threatening to overwhelm capacity). This creates a vicious cycle that the received CLT does not theorize. The reconstructed CLT should incorporate metacognitive monitoring as a variable that mediates the relationship between load and learning.
 >
@@ -615,7 +615,7 @@ The dialectical process has generated insights not just about [[cognitive-load-t
 > Cognitive processing demand imposed by instructional design rather than by content complexity — specifically, demand that does not contribute to schema formation and therefore wastes working memory resources. The primary target of CLT-informed design. Paradigmatic sources: spatial separation of related information requiring mental integration (split-attention effect), presentation of the same information in multiple formats that each require processing (redundancy effect), exclusive use of visual presentation when auditory channel could share the load (modality effect). Boundary condition: "extraneous" is design-imposed, not content-determined — the same information can have high or low extraneous load depending on how it is presented.
 
 > [!definition] **Schema Automation**
-> The process by which repeated activation of a schema reduces its working memory cost toward zero through [[schema-automation|automation]], eventually enabling expert performance of complex tasks that would overwhelm novice working memory. The mechanism by which long-term memory acquisition relieves working memory constraints. Critical implication for CLT: as schemas automate, the optimal instructional design for their domain changes, because the working memory constraints they were designed to manage no longer apply.
+> The process by which repeated activation of a schema reduces its working memory cost toward zero through [[Schema Automation|automation]], eventually enabling expert performance of complex tasks that would overwhelm novice working memory. The mechanism by which long-term memory acquisition relieves working memory constraints. Critical implication for CLT: as schemas automate, the optimal instructional design for their domain changes, because the working memory constraints they were designed to manage no longer apply.
 
 > [!definition] **Split-Attention Effect**
 > A CLT-derived design principle: when learners must mentally integrate two physically or temporally separated sources of information that are logically interdependent (e.g., a diagram and its text description), cognitive resources are consumed by the integration process rather than by schema formation. Integrating the sources in the instructional design eliminates this extraneous load. The split-attention effect is one of the best-replicated effects in CLT research and survives dialectical scrutiny robustly.
@@ -667,7 +667,7 @@ The dialectical process has generated insights not just about [[cognitive-load-t
 
 > [!further-exploration] **Deepening the Re-Examined CLT**
 >
-> > [!topic-idea] [[expertise-reversal-effect]]
+> > [!topic-idea] [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
 > > The expertise reversal effect is the empirical fulcrum on which the reconstructed CLT's expertise-indexed prescriptions rest, but it deserves a dedicated dialectical re-examination in its own right: the effect is well-established in laboratory settings with well-defined tasks, but its precise boundary conditions (how much expertise? which task types? what learning timescales?) remain incompletely mapped. The reconstructed CLT would become substantially more actionable if the expertise reversal effect were examined with the same multi-perspectival scrutiny applied here to CLT itself. Priority: **High**.
 >
 > > [!topic-idea] [[working-memory-capacity]]

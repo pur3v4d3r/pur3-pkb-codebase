@@ -90,8 +90,8 @@ related:
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[growth-mindset-theory|Growth Mindset Theory]]"
   - "[[self-determination-theory|Self-Determination Theory]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
-  - "[[attribution-theory|Attribution Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
+  - "[[Attribution (Heider, 1958)|Attribution Theory]]"
   - "[[goal-orientation-theory|Goal Orientation Theory]]"
 broader:
   - "[[educational-psychology|Educational Psychology]]"
@@ -184,7 +184,7 @@ This is the central puzzle animating this report. [[metacognition]] — the capa
 
 ### Why This Intersection Matters
 
-Understanding the relationship between [[metacognition]] and [[intrinsic-motivation|Intrinsic Motivation]] is not merely an academic exercise. It has direct implications for how we design learning environments, support struggling learners, structure feedback, and cultivate habits of mind that persist beyond any particular educational context. When metacognitive engagement is driven by genuine curiosity, autonomy, and the intrinsic satisfaction of understanding — rather than by fear of failure or the expectation of reward — the evidence suggests that both the depth and the durability of learning are substantially enhanced.
+Understanding the relationship between [[metacognition]] and [[Intrinsic Motivation|Intrinsic Motivation]] is not merely an academic exercise. It has direct implications for how we design learning environments, support struggling learners, structure feedback, and cultivate habits of mind that persist beyond any particular educational context. When metacognitive engagement is driven by genuine curiosity, autonomy, and the intrinsic satisfaction of understanding — rather than by fear of failure or the expectation of reward — the evidence suggests that both the depth and the durability of learning are substantially enhanced.
 
 This report addresses three interrelated questions: How do metacognitive processes influence motivation and engagement in learning? How does motivational orientation (particularly the distinction between intrinsic and extrinsic motivation) shape the quality and depth of metacognitive engagement? And what practical conditions foster a metacognitive mindset that supports intrinsic motivation? In answering these questions, the report draws on [[self-determination-theory|Self-Determination Theory]], [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] models, the [[cognitive-motivational-model|Cognitive-Motivational Model]] of Borkowski and colleagues, [[growth-mindset-theory|Growth Mindset Theory]], and related frameworks.
 
@@ -403,9 +403,9 @@ Understanding the metacognition-motivation relationship at this depth confers se
 >
 > - **[[growth-mindset-theory|Growth Mindset Theory]]** — The Dweck framework connects to this report at the intersection of implicit beliefs, attribution style, and metacognitive willingness. A dedicated growth mindset report would examine the replication literature more thoroughly and provide more nuanced guidance on when and how mindset interventions are likely to be effective.
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — CLT provides a complementary lens on the cognitive-resource dimension of metacognitive regulation, explaining when monitoring itself becomes burdensome and how instructional design can reduce extraneous load to free cognitive resources for metacognitive processing.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — CLT provides a complementary lens on the cognitive-resource dimension of metacognitive regulation, explaining when monitoring itself becomes burdensome and how instructional design can reduce extraneous load to free cognitive resources for metacognitive processing.
 >
-> - **[[attribution-theory|Attribution Theory]]** — Weiner's attributional framework underlies the critical mechanism connecting metacognitive feedback to motivational consequences. The dimension of controllability vs. uncontrollability is particularly relevant to the vicious/virtuous cycle dynamics analyzed in Phase IV.
+> - **[[Attribution (Heider, 1958)|Attribution Theory]]** — Weiner's attributional framework underlies the critical mechanism connecting metacognitive feedback to motivational consequences. The dimension of controllability vs. uncontrollability is particularly relevant to the vicious/virtuous cycle dynamics analyzed in Phase IV.
 >
 > - **[[extended-thinking-architecture|Extended Thinking Architecture]]** — From a PKB perspective, extended thinking in LLM contexts is itself a form of metacognitive scaffolding — explicitly structuring second-order cognitive monitoring during generation. The principles developed here about when and why metacognitive monitoring is effortfully deployed connect directly to the architectural choices in extended thinking system prompts.
 >

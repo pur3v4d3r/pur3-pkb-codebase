@@ -26,7 +26,7 @@ related_concepts:
   - "[[the-srl-cycle-as-a-calibration-engine]]"
   - "[[monitoring-gap]]"
   - "[[self-regulated-learning]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[transfer-of-learning]]"
 knowledge_level: advanced
 tags:
@@ -141,7 +141,7 @@ The mechanism question is not merely theoretical. If the Information Transfer Mo
 
 ### Roadmap
 
-Phase II establishes the two competing models and the conceptual tools needed to evaluate them. Phase III examines the evidence base, attending specifically to what predicts variance in formative assessment effect sizes. Phase IV analyzes the mechanisms — the monitoring-control loop, the [[fluency-illusion]], and the conditions under which formative assessment recalibrates rather than merely informing. Phase V traces the practical implications and honest limitations. Phase VI offers an original synthesis. Phase VII extracts transferable principles across domains. Phase VIII integrates the analysis into the PKB.
+Phase II establishes the two competing models and the conceptual tools needed to evaluate them. Phase III examines the evidence base, attending specifically to what predicts variance in formative assessment effect sizes. Phase IV analyzes the mechanisms — the monitoring-control loop, the [[Fluency Illusion]], and the conditions under which formative assessment recalibrates rather than merely informing. Phase V traces the practical implications and honest limitations. Phase VI offers an original synthesis. Phase VII extracts transferable principles across domains. Phase VIII integrates the analysis into the PKB.
 
 > [!ask-yourself-this] **Prediction Point**
 > Before proceeding to Phase II, consider: if the operative mechanism is metacognitive calibration rather than information transfer, what would you predict about the conditions under which formative feedback *fails* to produce learning gains even when the feedback itself is accurate and well-designed? Commit to a specific prediction; compare it to the evidence reviewed in Phase III.
@@ -192,12 +192,12 @@ The [[the-srl-cycle-as-a-calibration-engine]] note in the PKB develops this conn
 
 ### The Fluency Illusion as the Primary Source of Miscalibration
 
-A critical mechanism connecting miscalibration to the formative assessment context is the [[fluency-illusion]]. Fluency illusion refers to the systematic overestimation of understanding that occurs when information feels easy to process. When a student re-reads their notes and finds them easy to follow, that ease of processing is experienced as understanding — but ease of processing is a [[fluency-illusion|fluency signal]], not a comprehension signal. The student's monitoring system receives a "I understand this" signal when the correct signal would be "I can recognize this but cannot retrieve it."
+A critical mechanism connecting miscalibration to the formative assessment context is the [[Fluency Illusion]]. Fluency illusion refers to the systematic overestimation of understanding that occurs when information feels easy to process. When a student re-reads their notes and finds them easy to follow, that ease of processing is experienced as understanding — but ease of processing is a [[Fluency Illusion|fluency signal]], not a comprehension signal. The student's monitoring system receives a "I understand this" signal when the correct signal would be "I can recognize this but cannot retrieve it."
 
 > [!definition] **Fluency Illusion**
 > **Definition:** The systematic tendency to mistake ease of processing for depth of understanding. Information that is familiar, well-formatted, or presented in a learner's own words generates high processing fluency, which the monitoring system reads as competence. The illusion systematically inflates [[feeling-of-knowing]] judgments without corresponding increases in actual retention or transferable knowledge.
 >
-> **Report-Specific Significance:** This is the primary mechanism by which students arrive at formative assessment events with systematically overestimated knowledge states. A student who has experienced [[fluency-illusion]] will not register accurate feedback as relevant to a gap they cannot perceive.
+> **Report-Specific Significance:** This is the primary mechanism by which students arrive at formative assessment events with systematically overestimated knowledge states. A student who has experienced [[Fluency Illusion]] will not register accurate feedback as relevant to a gap they cannot perceive.
 >
 > **Cross-References:** [[the-fluency-illusion]], [[fluency-trap]], [[illusion-of-knowing]], [[comprehension-monitoring]]
 
@@ -242,7 +242,7 @@ Studies of [[metacognitive-accuracy]] consistently find that low-performing stud
 Research by [[comprehension-monitoring]] training studies (e.g., Brown & Palincsar, 1984; Rosenshine & Meister, 1994) consistently finds that interventions explicitly targeting monitoring accuracy — teaching students to distinguish between "I can recognize this" and "I can recall this" — produce learning gains that exceed what would be predicted by the informational content of those interventions alone.
 
 > [!what-the-evidence-suggests] **The Retrieval Practice Finding as Calibration Evidence**
-> The [[Testing-Effect]] literature is standardly interpreted as evidence that retrieval practice produces better long-term retention than re-study. This is correct. But the MCM predicts an additional mechanism: [[retrieval-practice]] produces calibration events. When a student attempts to retrieve information and encounters retrieval failure — the uncomfortable experience of reaching for something that is not there — this failure is a direct recalibration of monitoring accuracy. The fluency illusion is punctured. The student now has accurate monitoring data that re-study does not produce. Kornell and Bjork (2009) found that students who studied with retrieval practice were not only better at the material; they were also significantly better calibrated about *which* material they knew and which they did not. This is a calibration gain that purely informational accounts cannot explain.
+> The [[Testing-Effect]] literature is standardly interpreted as evidence that retrieval practice produces better long-term retention than re-study. This is correct. But the MCM predicts an additional mechanism: [[Desirable Difficulties (Robert Bjork, 1994)]] produces calibration events. When a student attempts to retrieve information and encounters retrieval failure — the uncomfortable experience of reaching for something that is not there — this failure is a direct recalibration of monitoring accuracy. The fluency illusion is punctured. The student now has accurate monitoring data that re-study does not produce. Kornell and Bjork (2009) found that students who studied with retrieval practice were not only better at the material; they were also significantly better calibrated about *which* material they knew and which they did not. This is a calibration gain that purely informational accounts cannot explain.
 
 ### The Implementation Gap as Evidence
 
@@ -286,7 +286,7 @@ The [[monitoring-regulation-coupling]] is the functional link between monitoring
 
 ### The Fluency Illusion Mechanism: How Miscalibration Is Generated
 
-The [[fluency-illusion]] is not a random error in metacognitive monitoring; it is a systematic bias with a clear generative mechanism. Humans use processing ease as a proxy for competence. This heuristic is ecologically valid in many contexts — if information processes easily, it is often because it is well-integrated into existing schemas — but it fails systematically under conditions of passive review and recognition.
+The [[Fluency Illusion]] is not a random error in metacognitive monitoring; it is a systematic bias with a clear generative mechanism. Humans use processing ease as a proxy for competence. This heuristic is ecologically valid in many contexts — if information processes easily, it is often because it is well-integrated into existing schemas — but it fails systematically under conditions of passive review and recognition.
 
 When a student reviews material they have previously encountered, several fluency-generating conditions are in play simultaneously: the information is familiar (prior exposure increases processing fluency), it is formatted in a comprehensible way (good notes or textbook prose generate high fluency), and the student is in recognition mode (which feels like understanding but is a different cognitive process than retrieval). The monitoring system, responding to these fluency signals, generates [[feeling-of-knowing]] judgments that substantially overestimate actual retrievable knowledge.
 
@@ -295,7 +295,7 @@ When a student reviews material they have previously encountered, several fluenc
 
 ### Why Retrieval Practice Is Calibration Technology
 
-The [[Testing-Effect]] and [[retrieval-practice]] literature can be reconceptualized through the MCM lens. Retrieval practice does not merely strengthen memory traces (the standard account, supported by the [[desirable-difficulties]] framework). It also generates calibration events of a specific and powerful type: the experience of retrieval failure.
+The [[Testing-Effect]] and [[Desirable Difficulties (Robert Bjork, 1994)]] literature can be reconceptualized through the MCM lens. Retrieval practice does not merely strengthen memory traces (the standard account, supported by the [[Desirable Difficulties (Robert Bjork, 1994)]] framework). It also generates calibration events of a specific and powerful type: the experience of retrieval failure.
 
 When a student attempts to retrieve information and fails, something specific happens to their monitoring system: the fluency-generated "I know this" signal is contradicted by an unmistakable failure signal. This is a calibration event that cannot be rationalized away in the same way that written feedback can be dismissed. The student's monitoring system cannot argue that the retrieval failure was caused by an unclear question or an unfair test — the failure was internal and unambiguous.
 
@@ -323,10 +323,10 @@ Not all formative assessment practices generate calibration events of equal forc
 
 ### The Scaffolding Dimension: When External Calibration Should Fade
 
-The [[scaffolding]] literature introduces a dimension that the MCM must address: the temporal arc of formative assessment as a tool. [[scaffold-dependence]] — the failure of learners to develop independent monitoring capacity because external calibration remains available indefinitely — is a genuine risk.
+The [[Scaffolded Fading]] literature introduces a dimension that the MCM must address: the temporal arc of formative assessment as a tool. [[scaffold-dependence]] — the failure of learners to develop independent monitoring capacity because external calibration remains available indefinitely — is a genuine risk.
 
 > [!analytical-insight] **The Calibration Scaffold Paradox**
-> There is a structural tension in the MCM's implications. On one hand, external formative assessment functions as calibration scaffolding — it provides accurate external signals that compensate for students' inaccurate internal monitoring. On the other hand, if external calibration is always available, students may never develop the internal monitoring infrastructure that formative assessment is supposedly building. The [[scaffolded-fading]] principle from instructional design directly applies here: formative assessment scaffolds should be faded as metacognitive accuracy improves, shifting responsibility for calibration from external tools (tests, teacher feedback) to internal tools (self-testing, elaborative prediction). The MCM predicts that studies with planned fading will produce larger long-term transfer effects than studies with continuous scaffolding — and this prediction is, tentatively, supported by the intervention research on [[self-regulated-learning]] training programs.
+> There is a structural tension in the MCM's implications. On one hand, external formative assessment functions as calibration scaffolding — it provides accurate external signals that compensate for students' inaccurate internal monitoring. On the other hand, if external calibration is always available, students may never develop the internal monitoring infrastructure that formative assessment is supposedly building. The [[Scaffolded Fading]] principle from instructional design directly applies here: formative assessment scaffolds should be faded as metacognitive accuracy improves, shifting responsibility for calibration from external tools (tests, teacher feedback) to internal tools (self-testing, elaborative prediction). The MCM predicts that studies with planned fading will produce larger long-term transfer effects than studies with continuous scaffolding — and this prediction is, tentatively, supported by the intervention research on [[self-regulated-learning]] training programs.
 
 *Phase IV's mechanism analysis identifies the monitoring system's calibration state as the gatekeeper variable for all formative feedback. The fluency illusion generates systematic miscalibration through passive review; retrieval practice and high-quality formative assessment practices generate calibration events by producing undeniable prediction errors in the monitoring system. The implication is not that information is irrelevant, but that information can only do its work when the monitoring system is accurately tracking the gap the information addresses.*
 
@@ -384,7 +384,7 @@ The MCM, as developed here, has several genuine limitations that must be acknowl
 
 The analysis across Phases II through V builds a coherent argument: the Information Transfer Model captures a necessary but insufficient condition for formative assessment effectiveness. The operative mechanism — the variable whose modulation explains the variance in effect sizes, the implementation gap, and the differential effectiveness of different formative practices — is metacognitive calibration.
 
-The monitoring system is not a passive conduit for information; it is the architectural gatekeeper that determines whether externally generated feedback can register as relevant. The [[fluency-illusion]] is not a minor cognitive bias to be worked around; it is the primary mechanism by which students arrive at formative assessment events with systematically distorted monitoring accuracy. And the practices that produce the largest and most durable formative assessment effects are those that generate internally-produced calibration events — unambiguous prediction errors that cannot be attributed to external factors and therefore update the monitoring system's model of the student's own competence.
+The monitoring system is not a passive conduit for information; it is the architectural gatekeeper that determines whether externally generated feedback can register as relevant. The [[Fluency Illusion]] is not a minor cognitive bias to be worked around; it is the primary mechanism by which students arrive at formative assessment events with systematically distorted monitoring accuracy. And the practices that produce the largest and most durable formative assessment effects are those that generate internally-produced calibration events — unambiguous prediction errors that cannot be attributed to external factors and therefore update the monitoring system's model of the student's own competence.
 
 ### Revisiting the Opening Question
 
@@ -486,9 +486,9 @@ The gradient has two components: (1) external calibration tools are most valuabl
 >
 > - **[[the-srl-cycle-as-a-calibration-engine]]** — This note's characterization of self-regulated learning as fundamentally calibration-dependent is directly corroborated and extended by the analysis here. The formative assessment mechanism is precisely the recalibration of each phase of [[Zimmerman's-Three-Phase-SRL-Cycle]].
 >
-> - **[[fluency-illusion]]** and **[[the-fluency-trap]]** — These notes identify the primary source of monitoring miscalibration that formative assessment must correct. The connection here is causal: fluency illusion generates the miscalibration that formative assessment (at its best) repairs. Reviewing these notes alongside this analysis deepens the mechanism account considerably.
+> - **[[Fluency Illusion]]** and **[[the-fluency-trap]]** — These notes identify the primary source of monitoring miscalibration that formative assessment must correct. The connection here is causal: fluency illusion generates the miscalibration that formative assessment (at its best) repairs. Reviewing these notes alongside this analysis deepens the mechanism account considerably.
 >
-> - **[[Testing-Effect]]** and **[[retrieval-practice]]** — The MCM provides a new explanatory frame for why retrieval practice works. The retrieval failure is not merely a memory consolidation event; it is a calibration event. These notes' empirical content now carries additional theoretical weight via the MCM.
+> - **[[Testing-Effect]]** and **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The MCM provides a new explanatory frame for why retrieval practice works. The retrieval failure is not merely a memory consolidation event; it is a calibration event. These notes' empirical content now carries additional theoretical weight via the MCM.
 >
 > - **[[feedback-design]]** and **[[Hattie-&-Timperley-Feedback-Model]]** — The Hattie-Timperley four-level model maps cleanly onto the MCM: the self-regulation level's premium over the task level is predicted by the MCM (self-regulation feedback builds monitoring infrastructure; task feedback delivers information without repairing monitoring accuracy). These notes provide the empirical grounding for this analysis's evidence section.
 >
@@ -496,9 +496,9 @@ The gradient has two components: (1) external calibration tools are most valuabl
 >
 > - **[[metacognitive-calibration]]** — This analysis constitutes an extended argument for why this construct deserves to be the organizing variable for the formative assessment literature. The note and this report are mutually reinforcing.
 >
-> - **[[desirable-difficulties]]** — The [[Robert-Bjork]] desirable difficulties framework is partially explained by the MCM: difficulties are desirable precisely because they generate calibration events, not merely because they produce more effortful encoding. This analysis extends the desirable difficulties account.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The [[Robert-Bjork]] desirable difficulties framework is partially explained by the MCM: difficulties are desirable precisely because they generate calibration events, not merely because they produce more effortful encoding. This analysis extends the desirable difficulties account.
 >
-> - **[[scaffolded-fading]]** and **[[scaffold-dependence]]** — The scaffolding literature's insights about the need to fade external support map directly onto the MCM's prediction that sustained external calibration suppresses autonomous monitoring development.
+> - **[[Scaffolded Fading]]** and **[[scaffold-dependence]]** — The scaffolding literature's insights about the need to fade external support map directly onto the MCM's prediction that sustained external calibration suppresses autonomous monitoring development.
 >
 > - **[[autonomy-support]]** and **[[achievement-goal-theory]]** — The motivational context moderates calibration event effectiveness. The SDT literature on autonomy support and the achievement goal literature on mastery orientations explain why calibration events in controlling environments produce smaller monitoring updates.
 >
@@ -534,7 +534,7 @@ The gradient has two components: (1) external calibration tools are most valuabl
 >
 > **Operational Indicators:** The presence of a student prediction, retrieval attempt, or self-explanation before any external information is provided.
 >
-> **Cross-References:** [[Testing-Effect]], [[retrieval-practice]], [[generation-effect]], [[the-generation-effect]]
+> **Cross-References:** [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[generation-effect]], [[the-generation-effect]]
 
 > [!definition] **Information Transfer Model (ITM)** *(this report's term for the dominant account)*
 > **Definition:** The view that formative assessment works primarily through the delivery of accurate, timely, specific information about a student's performance gap. The operative variable is information quality and accessibility. **Boundary conditions:** not wrong, but insufficient; treats the monitoring system as a reliable conduit for information rather than as a variable in its own right.
@@ -546,7 +546,7 @@ The gradient has two components: (1) external calibration tools are most valuabl
 > [!definition] **Metacognitive Calibration Model (MCM)** *(this report's central analytical contribution)*
 > **Definition:** The view that formative assessment's operative mechanism is the correction of metacognitive miscalibration — aligning students' monitoring accuracy with their actual knowledge state. The operative variable is calibration receptivity (the accuracy of the monitoring system *before* feedback is processed). **Boundary conditions:** most powerful for learners in the intermediate zone — enough knowledge to study but not enough to be accurately calibrated; less distinctive for expert learners with already-good calibration.
 >
-> **Cross-References:** [[nelson-narens-model]], [[metacognitive-calibration]], [[fluency-illusion]], [[monitoring-gap]]
+> **Cross-References:** [[nelson-narens-model]], [[metacognitive-calibration]], [[Fluency Illusion]], [[monitoring-gap]]
 
 > [!definition] **Monitoring-Control Coupling** *(Nelson & Narens, 1990)*
 > **Definition:** The functional link in the Nelson-Narens metacognitive architecture between monitoring output (meta-level representations of object-level state) and control processes (regulatory responses that adjust object-level processing). Healthy coupling: accurate monitoring reliably triggers appropriate control. Decoupled: monitoring may be accurate but fails to trigger regulation. **Boundary conditions:** coupling and accuracy are distinct failure modes — a system can monitor accurately but fail to act, or act but on inaccurate monitoring signals.
@@ -807,7 +807,7 @@ The gradient has two components: (1) external calibration tools are most valuabl
 > > **Connection to This Report:** Phase IV reconceptualizes the testing effect as a calibration technology; this report develops that reconceptualization into a full empirical investigation.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[Testing-Effect]], [[retrieval-practice]], [[desirable-difficulties]], [[metacognitive-calibration]]
+> > **Prerequisites:** [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[metacognitive-calibration]]
 >
 > > [!topic-idea] [[achievement-goal-theory]] × [[formative-assessment]] — The Motivational Moderation Problem
 > > This report's Phase V identified that the motivational context moderates calibration event effectiveness — that mastery goal environments produce larger calibration gains than performance goal environments. A focused analysis of this interaction, drawing on the achievement goal literature and the SDT literature on autonomy support, would establish the motivational boundary conditions for the MCM's predictions.

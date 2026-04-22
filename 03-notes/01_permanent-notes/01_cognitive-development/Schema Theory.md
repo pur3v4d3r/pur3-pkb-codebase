@@ -48,7 +48,7 @@ review-priority: medium
 # Schema Theory
 
 > [!definition]
-> - **Key-Term**:[[schema-theory]]
+> - **Key-Term**:[[schema-theory-and-knowledge-organization]]
 > - [**Definition**:]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

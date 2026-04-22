@@ -85,7 +85,7 @@ This multi-dimensional capture transforms work logs from simple time tracking in
 
 > [!key-claim]
 > **Central Principle: Logs as Cognitive Offloading**
-> Work logs reduce [[cognitive-load]] by externalizing memory about what you've done and why. This frees working memory for actual problem-solving rather than retrospective reconstruction.
+> Work logs reduce [[Cognitive Load Theory (CLT)]] by externalizing memory about what you've done and why. This frees working memory for actual problem-solving rather than retrospective reconstruction.
 
 ### Why Work Logs Matter for Knowledge Workers
 

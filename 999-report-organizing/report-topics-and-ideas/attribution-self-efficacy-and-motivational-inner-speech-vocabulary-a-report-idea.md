@@ -25,7 +25,7 @@ aliases:
 - strategies
 connections:
 - [[self-efficacy]]
-- [[attribution-theory]]
+- [[Attribution (Heider, 1958)]]
 - [[Goal Setting]]
 - [[Academic Reading]]
 - [[inner-speech]]

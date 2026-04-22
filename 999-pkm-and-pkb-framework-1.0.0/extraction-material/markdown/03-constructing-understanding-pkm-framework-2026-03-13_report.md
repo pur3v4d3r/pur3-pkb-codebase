@@ -310,7 +310,7 @@ extraction_summary:
 > [!connections-and-links] Internal PKB Connections and Cross-Report Links
 > **Internal PKB Connections:**
 > 
-> - **[[schema-theory|Schema Theory]]** — The cognitive architecture underlying everything in this report. Understanding schemas as dynamic, hierarchical, variable-slot structures is prerequisite to understanding why knowledge construction works as it does and why the storage model of PKBs fails. This report contributes the translation of Schema Theory's descriptive account into PKB design prescriptions that no prior Schema Theory literature articulates explicitly.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — The cognitive architecture underlying everything in this report. Understanding schemas as dynamic, hierarchical, variable-slot structures is prerequisite to understanding why knowledge construction works as it does and why the storage model of PKBs fails. This report contributes the translation of Schema Theory's descriptive account into PKB design prescriptions that no prior Schema Theory literature articulates explicitly.
 > 
 > - **[[constructivism]]** — The epistemological frame that gives schema modification its philosophical significance. Without constructivism, schema accommodation is just a computational event; with it, accommodation becomes the mechanism of genuine understanding — the process by which the learner's relationship to their domain of knowledge changes, not just what they know about it. This connection is strongly bidirectional: constructivist practice gains cognitive credibility from Schema Theory's mechanism account; Schema Theory gains epistemological depth and purpose from Constructivism.
 > 
@@ -318,7 +318,7 @@ extraction_summary:
 > 
 > - **[[zone-of-proximal-development|Zone of Proximal Development]]** — Vygotsky's ZPD becomes, in the PKB context, a calibration criterion for note complexity and linking architecture: notes should be in the zone just beyond current comfortable understanding, and links should bridge from current to emerging understanding. Too simple produces assimilation without development; too complex produces confusion without construction. ZPD-calibrated notes and links are the structural target for schema-progressive PKB design.
 > 
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** (from [[Report 02: The Architecture of Learning]]) — The connection here is both deeply supportive and productively tensioned. CLT says reduce extraneous cognitive load to protect working memory capacity for schema construction. Constructivism says effortful construction is the mechanism of genuine learning. The resolution is to distinguish extraneous load (which competes with schema construction and should be reduced) from germane load (the load directly associated with schema construction — productive and should be preserved). The Schema-Progressive Architecture reduces extraneous load through epitome scaffolding while maintaining productive germane load through accommodation-triggering note structures.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** (from [[Report 02: The Architecture of Learning]]) — The connection here is both deeply supportive and productively tensioned. CLT says reduce extraneous cognitive load to protect working memory capacity for schema construction. Constructivism says effortful construction is the mechanism of genuine learning. The resolution is to distinguish extraneous load (which competes with schema construction and should be reduced) from germane load (the load directly associated with schema construction — productive and should be preserved). The Schema-Progressive Architecture reduces extraneous load through epitome scaffolding while maintaining productive germane load through accommodation-triggering note structures.
 > 
 > - **[[Prior Knowledge Architecture]]** (from [[Report 01: Foundations of Knowledge Architecture]]) — Report 01's structural recommendations about folder organization, note types, and link density can now be understood as physical implementations of schema hierarchy principles: the folder structure externalizes the epitome-to-elaboration hierarchy; the link density reflects schema richness; the metadata fields capture elaboration relationships. These two reports are mutually reinforcing: this report provides the cognitive-philosophical foundation; Report 01 provides the structural implementation.
 > 
@@ -503,7 +503,7 @@ extraction_summary:
 - [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]
 - [[Charles-Reigeluth|Charles Reigeluth]]
 - [[Chess-Schemas|Chess Schemas]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Conceptual-Change-Theory-and-PKB-Design|Conceptual Change Theory and PKB Design]]
@@ -511,7 +511,7 @@ extraction_summary:
 - [[Dataview]]
 - [[david-ausubel|David Ausubel]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Elaboration-Theory|Elaboration Theory]]
@@ -521,13 +521,13 @@ extraction_summary:
 - [[Evergreen-Notes]]
 - [[frederic-bartlett]]
 - [[generation-effect|Generation Effect]]
-- [[germane-cognitive-load|Germane Cognitive Load]]
+- [[Cognitive Load Theory (CLT)|Germane Cognitive Load]]
 - [[Gertzog]]
 - [[Henry Roediger]]
 - [[Herbert-Simon]]
 - [[Hewson]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
-- [[interleaving]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[jean-piaget]]
 - [[john-dewey|John Dewey]]
 - [[john-sweller]]
@@ -564,11 +564,11 @@ extraction_summary:
 - [[Report 17]]
 - [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
 - [[Report 22]]
-- [[retrieval-practice|Retrieval Practice]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]
 - [[richard-anderson]]
 - [[Robert-Bjork]]
 - [[Robert Slamecka]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[schema-progressive-architecture|Schema-Progressive Architecture]]
 - [[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]]
 - [[spaced-practice]]
@@ -586,13 +586,13 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[personal-knowledge-base|Personal Knowledge Base]] | — | — | The Wrong Theory at the Foundation | 75 |
-| 2 | [[schema-theory|Schema Theory]] | — | — | The Wrong Theory at the Foundation | 77 |
+| 2 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | The Wrong Theory at the Foundation | 77 |
 | 3 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Wrong Theory at the Foundation | 77 |
 | 4 | [[constructivism]] | — | — | The Wrong Theory at the Foundation | 77 |
 | 5 | [[Educational-Philosophy|Educational Philosophy]] | — | — | The Wrong Theory at the Foundation | 77 |
 | 6 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Wrong Theory at the Foundation | 77 |
 | 7 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | The Wrong Theory at the Foundation | 77 |
-| 8 | [[schema-theory|Schema Theory]] | — | — | Why Three Disciplines Are Necessary | 85 |
+| 8 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Why Three Disciplines Are Necessary | 85 |
 | 9 | [[constructivism]] | — | — | Why Three Disciplines Are Necessary | 85 |
 | 10 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Why Three Disciplines Are Necessary | 85 |
 | 11 | [[schema-progressive-architecture|Schema-Progressive Architecture]] | — | — | Scope and Roadmap | 91 |
@@ -602,7 +602,7 @@ extraction_summary:
 | 15 | [[Report 08]] | — | — | Scope and Roadmap | 93 |
 | 16 | [[Report 11]] | — | — | Scope and Roadmap | 93 |
 | 17 | [[Report 17]] | — | — | Scope and Roadmap | 93 |
-| 18 | [[schema-theory|Schema Theory]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
+| 18 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
 | 19 | [[frederic-bartlett]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
 | 20 | [[David-Rumelhart|David Rumelhart]] | — | — | Schema Theory: The Cognitive Architec... | 109 |
 | 21 | [[richard-anderson]] | — | — | Schema Theory: The Cognitive Architec... | 111 |
@@ -624,9 +624,9 @@ extraction_summary:
 | 37 | [[Marcy Recht]] | — | — | The Evidence Landscape | 175 |
 | 38 | [[Leslie Leslie]] | — | — | The Evidence Landscape | 175 |
 | 39 | [[john-sweller]] | — | — | The Evidence Landscape | 181 |
-| 40 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Evidence Landscape | 181 |
+| 40 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | The Evidence Landscape | 181 |
 | 41 | [[Report-02]] | — | — | The Evidence Landscape | 181 |
-| 42 | [[germane-cognitive-load|Germane Cognitive Load]] | — | — | The Evidence Landscape | 181 |
+| 42 | [[Cognitive Load Theory (CLT)|Germane Cognitive Load]] | — | — | The Evidence Landscape | 181 |
 | 43 | [[generation-effect|Generation Effect]] | — | — | The Evidence Landscape | 183 |
 | 44 | [[Robert Slamecka]] | — | — | The Evidence Landscape | 183 |
 | 45 | [[Peter Graf]] | — | — | The Evidence Landscape | 183 |
@@ -636,32 +636,32 @@ extraction_summary:
 | 49 | [[Hewson]] | — | — | The Evidence Landscape | 185 |
 | 50 | [[Gertzog]] | — | — | The Evidence Landscape | 185 |
 | 51 | [[Michelene Chi]] | — | — | The Evidence Landscape | 185 |
-| 52 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Evidence Landscape | 191 |
+| 52 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | The Evidence Landscape | 191 |
 | 53 | [[spaced-practice]] | — | — | The Evidence Landscape | 191 |
-| 54 | [[interleaving]] | — | — | The Evidence Landscape | 191 |
-| 55 | [[retrieval-practice|Retrieval Practice]] | — | — | The Evidence Landscape | 191 |
+| 54 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | The Evidence Landscape | 191 |
+| 55 | [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]] | — | — | The Evidence Landscape | 191 |
 | 56 | [[Robert-Bjork]] | — | — | The Evidence Landscape | 191 |
 | 57 | [[Henry Roediger]] | — | — | The Evidence Landscape | 191 |
 | 58 | [[Mark McDaniel]] | — | — | The Evidence Landscape | 191 |
 | 59 | [[accommodation]] | — | — | The Core Mechanism: Schema-Directed C... | 225 |
 | 60 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | The Dynamic: Elaboration Cycles and S... | 237 |
-| 61 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
+| 61 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
 | 62 | [[working-memory|Working Memory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
-| 63 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
+| 63 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
 | 64 | [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]] | — | — | The Linking Problem: What Wiki-Links ... | 252 |
 | 65 | [[Note Title]] | — | — | Design Principles Derived from the Sy... | 279 |
 | 66 | [[Note Title]] | — | — | Design Principles Derived from the Sy... | 280 |
 | 67 | [[Note Title A]] | — | — | Design Principles Derived from the Sy... | 281 |
 | 68 | [[Note Title B]] | — | — | Design Principles Derived from the Sy... | 281 |
 | 69 | [[Evergreen-Notes]] | — | — | Design Principles Derived from the Sy... | 288 |
-| 70 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Design Principles Derived from the Sy... | 294 |
+| 70 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Design Principles Derived from the Sy... | 294 |
 | 71 | [[Vygotsky's ZPD]] | — | — | Design Principles Derived from the Sy... | 294 |
 | 72 | [[Report-06]] | — | — | Design Principles Derived from the Sy... | 298 |
 | 73 | [[Dataview]] | — | — | Practical Implementation in Obsidian | 308 |
 | 74 | [[Periodic Review]] | — | — | Practical Implementation in Obsidian | 312 |
 | 75 | [[Personal Learning Networks]] | — | — | Limitations and Honest Boundaries | 320 |
 | 76 | [[Knowledge Commons]] | — | — | Limitations and Honest Boundaries | 320 |
-| 77 | [[schema-theory|Schema Theory]] | — | — | Assembling the Cross-Domain Picture | 340 |
+| 77 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Assembling the Cross-Domain Picture | 340 |
 | 78 | [[constructivism]] | — | — | Assembling the Cross-Domain Picture | 340 |
 | 79 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Assembling the Cross-Domain Picture | 340 |
 | 80 | [[Epitome]] | — | — | The Central Question Revisited | 366 |
@@ -669,11 +669,11 @@ extraction_summary:
 | 82 | [[Report 08]] | — | — | Unresolved Questions | 377 |
 | 83 | [[Report 15]] | — | — | Unresolved Questions | 377 |
 | 84 | [[Report 22]] | — | — | Unresolved Questions | 377 |
-| 85 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 387 |
+| 85 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 387 |
 | 86 | [[constructivism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 87 | [[Elaboration-Theory|Elaboration Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
 | 88 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | Phase VII: PKB Connections & Cross-Re... | 393 |
-| 89 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
+| 89 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 90 | [[Report 02: The Architecture of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 91 | [[Prior Knowledge Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 397 |
 | 92 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 397 |
@@ -744,7 +744,7 @@ extraction_summary:
 - [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]
 - [[Charles-Reigeluth|Charles Reigeluth]]
 - [[Chess-Schemas|Chess Schemas]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Conceptual-Change-Theory-and-PKB-Design|Conceptual Change Theory and PKB Design]]
@@ -752,7 +752,7 @@ extraction_summary:
 - [[Dataview]]
 - [[david-ausubel|David Ausubel]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Elaboration-Theory|Elaboration Theory]]
@@ -762,13 +762,13 @@ extraction_summary:
 - [[Evergreen-Notes]]
 - [[frederic-bartlett]]
 - [[generation-effect|Generation Effect]]
-- [[germane-cognitive-load|Germane Cognitive Load]]
+- [[Cognitive Load Theory (CLT)|Germane Cognitive Load]]
 - [[Gertzog]]
 - [[Henry Roediger]]
 - [[Herbert-Simon]]
 - [[Hewson]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
-- [[interleaving]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[jean-piaget]]
 - [[john-dewey|John Dewey]]
 - [[john-sweller]]
@@ -805,11 +805,11 @@ extraction_summary:
 - [[Report 17]]
 - [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
 - [[Report 22]]
-- [[retrieval-practice|Retrieval Practice]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]
 - [[richard-anderson]]
 - [[Robert-Bjork]]
 - [[Robert Slamecka]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[schema-progressive-architecture|Schema-Progressive Architecture]]
 - [[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]]
 - [[spaced-practice]]
@@ -832,7 +832,7 @@ extraction_summary:
 #### Related Concepts
 
 - [[constructivism]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Elaboration-Theory|Elaboration Theory]]
 - [[Piaget]]
 - [[vygotsky]]

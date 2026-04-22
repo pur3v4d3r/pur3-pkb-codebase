@@ -152,7 +152,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Executive Overview *(Line 127)*
 
 > [!abstract] Executive Overview
-> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason-Wei]] and colleagues at [[Google-Research]] in 2022, fundamentally altered understanding of [[Transformer-Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[working-memory]] theory and [[cognitive-load-theory]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
+> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason-Wei]] and colleagues at [[Google-Research]] in 2022, fundamentally altered understanding of [[Transformer-Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[working-memory]] theory and [[Cognitive Load Theory (CLT)]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
 
 #### 4. [DEFINITION] Chain-of-Thought Prompting *(Line 133)*
 
@@ -237,7 +237,7 @@ extraction_summary:
 > ## 🔗 Integration with Existing Knowledge
 > 
 > **Theoretical Frameworks:**  
-> [[cognitive-load-theory]] — CoT externalization parallels working memory offloading in human cognition  
+> [[Cognitive Load Theory (CLT)]] — CoT externalization parallels working memory offloading in human cognition  
 > [[Attention-Mechanism]] — Self-attention over reasoning chains implements message-passing computation  
 > [[Circuit-Complexity-Theory]] — Formalizes how token generation converts depth-limited parallel processing into serial computation  
 > [[Mechanistic-Interpretability]] — Provides tools for analyzing what neural circuits activate during reasoning steps
@@ -357,7 +357,7 @@ extraction_summary:
 - [[Circuit-Complexity-Theory]]
 - [[Cloud Computing Costs]]
 - [[Code Generation]]
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[Commonsense-Reasoning]]
 - [[Cost-Accuracy Pareto Frontiers]]
 - [[Creative Problem Solving]]
@@ -453,7 +453,7 @@ extraction_summary:
 | 10 | [[Google-Research]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
 | 11 | [[Transformer-Architecture]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
 | 12 | [[working-memory]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
-| 13 | [[cognitive-load-theory]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
+| 13 | [[Cognitive Load Theory (CLT)]] | — | — | <span style='color: #FFC700;'>Chain-o... | 128 |
 | 14 | [[Few-Shot-Learning]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 15 | [[GPT-3]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
 | 16 | [[Explicit-Reasoning-Protocols]] | — | — | 📜 Theoretical Foundations & Historica... | 130 |
@@ -497,7 +497,7 @@ extraction_summary:
 | 54 | [[Commonsense-Reasoning]] | — | — | <span style='color: #9E6CD3;'>Commons... | 242 |
 | 55 | [[StrategyQA]] | — | — | <span style='color: #9E6CD3;'>Commons... | 242 |
 | 56 | [[Knowledge Distillation]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 267 |
-| 57 | [[cognitive-load-theory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 274 |
+| 57 | [[Cognitive Load Theory (CLT)]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 274 |
 | 58 | [[Attention-Mechanism]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 275 |
 | 59 | [[Circuit-Complexity-Theory]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 276 |
 | 60 | [[Mechanistic-Interpretability]] | — | — | <span style='color: #9E6CD3;'>Scale-D... | 277 |
@@ -1132,7 +1132,7 @@ $$
 - [[Circuit-Complexity-Theory]]
 - [[Cloud Computing Costs]]
 - [[Code Generation]]
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[Commonsense-Reasoning]]
 - [[Cost-Accuracy Pareto Frontiers]]
 - [[Creative Problem Solving]]

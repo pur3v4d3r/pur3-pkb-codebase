@@ -299,7 +299,7 @@ related:
   - "[[Metacognitive-Awareness-Inventory]]"
   - "[[epistemic-vigilance]]"
   - "[[dual-process-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[argument-analysis]]"
   - "[[Decision-Making-Under-Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"

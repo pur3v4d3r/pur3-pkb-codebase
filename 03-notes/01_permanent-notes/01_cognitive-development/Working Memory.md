@@ -17,10 +17,10 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[Cognitive Load Management]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[cognitive-psychology]]"
   - "[[critical-thinking]]"
-  - "[[germane-load]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[Intrinsic-Load]]"
   - "[[metacognition]]"
   - "[[metacognitive-regulation]]"
@@ -28,7 +28,7 @@ link-related:
   - "[[schemas]]"
   - "[[Self-Regulation-Theory]]"
   - "[[Mocs]]"
-  - "[[atomic-notes]]"
+  - "[[atomic-note]]"
   - "[[planning]]"
   - "[[Self Behavioral Management]]"
   - "[[long-term-memory]]"
@@ -70,7 +70,7 @@ review-priority: medium
 - *Application*: Critical for complex reasoning, problem-solving, and connecting new knowledge to existing [[schemas|schemas]]
 
 > [!connections-and-links]
-> - The relationship with [[long-term-working-memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to [[chunking|chunk]] information efficiently, effectively expanding [[working-memory]] capacity within their domain of expertise.
+> - The relationship with [[long-term-working-memory]] is crucial: Experts develop sophisticated [[schemas|schemas]] that allow them to [[Chunk (Miller, 1956; Chase & Simon, 1973)|chunk]] information efficiently, effectively expanding [[working-memory]] capacity within their domain of expertise.
 
 > [!connection-ideas]
 > **The Cognitive Load Relationship**

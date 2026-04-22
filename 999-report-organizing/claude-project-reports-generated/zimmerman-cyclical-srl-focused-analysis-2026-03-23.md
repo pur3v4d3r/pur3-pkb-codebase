@@ -25,10 +25,10 @@ related_concepts:
   - "[[self-regulated-learning]]"
   - "[[self-reflection-phase]]"
   - "[[forethought-phase]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy]]"
   - "[[metacognitive-monitoring]]"
-  - "[[monitoring-control-coupling]]"
+  - "[[Monitoring-Control Coupling]]"
   - "[[transfer-of-learning]]"
 knowledge_level: advanced
 tags:
@@ -111,8 +111,8 @@ prerequisites:
 builds_on:
   - "[[zimmerman-srl-model]]"
   - "[[Social-Cognitive-Theory-—-Bandura]]"
-  - "[[attribution-theory]]"
-  - "[[monitoring-control-coupling]]"
+  - "[[Attribution (Heider, 1958)]]"
+  - "[[Monitoring-Control Coupling]]"
 
 link_up: "[[self-regulated-learning]]"
 link_down:
@@ -177,7 +177,7 @@ The analysis proceeds through seven phases: the analytical framework establishin
 
 *Task Analysis* encompasses goal setting (specifically, setting proximal, specific, and difficult goals) and [[strategic-planning]] (selecting and sequencing learning strategies prior to task engagement). Task analysis is the cognitive architecture of forethought — it establishes what the learner intends to accomplish and how.
 
-*Motivational Beliefs* is the motivational architecture of forethought, comprising [[self-efficacy]] beliefs (judgments of capability to accomplish specific tasks at specific levels), outcome expectations, intrinsic interest or [[intrinsic-motivation|intrinsic motivation]] toward the task, and goal orientation (particularly the [[achievement-goal-theory|mastery vs. performance orientation]] distinction). Motivational beliefs do not merely accompany forethought — they *shape* the specificity and ambition of task analysis. A learner with low self-efficacy for a task will set lower goals and plan fewer strategies before beginning.
+*Motivational Beliefs* is the motivational architecture of forethought, comprising [[self-efficacy]] beliefs (judgments of capability to accomplish specific tasks at specific levels), outcome expectations, intrinsic interest or [[Intrinsic Motivation|intrinsic motivation]] toward the task, and goal orientation (particularly the [[achievement-goal-theory|mastery vs. performance orientation]] distinction). Motivational beliefs do not merely accompany forethought — they *shape* the specificity and ambition of task analysis. A learner with low self-efficacy for a task will set lower goals and plan fewer strategies before beginning.
 
 > [!definition] **Self-Efficacy** (Bandura, 1977, 1986)
 > Domain-specific and task-specific beliefs about one's capacity to execute the actions required to produce particular outcomes at particular performance levels. Self-efficacy is not global confidence — it is granular, contextual, and *updateable* through the SRL cycle's self-reflection phase. Its role in the cyclical model is that of a state variable: it enters the forethought phase as an input, shapes the quality of task analysis, and is revised by the self-reflection phase based on attributed performance outcomes.
@@ -190,7 +190,7 @@ The analysis proceeds through seven phases: the analytical framework establishin
 
 **Phase 3: [[self-reflection-phase]]** is the post-performance phase that closes the cycle. Its two sub-process categories are the model's most theoretically consequential:
 
-*Self-Judgment* involves self-evaluation (comparing observed performance against a reference standard, which may be a goal, a social comparison, or a mastery criterion) and causal attribution (the learner's explanation for why performance was what it was). [[attribution-theory]], particularly [[bernard-weiner]]'s attribution framework, governs this sub-process.
+*Self-Judgment* involves self-evaluation (comparing observed performance against a reference standard, which may be a goal, a social comparison, or a mastery criterion) and causal attribution (the learner's explanation for why performance was what it was). [[Attribution (Heider, 1958)]], particularly [[bernard-weiner]]'s attribution framework, governs this sub-process.
 
 *Self-Reaction* involves two types of responses: self-satisfaction/affect (positive or negative emotional responses to the attributed performance outcome) and, critically, **adaptive or defensive inferences** — the learner's decisions about whether and how to modify learning approaches for future attempts. Adaptive inferences represent flexible, accurate updates to strategy selection, goal setting, and self-efficacy beliefs. Defensive inferences represent protective self-assessments that reduce motivation and SRL engagement by attributing failure to uncontrollable causes.
 
@@ -231,11 +231,11 @@ Research consistently shows that learners who engage in systematic forethought (
 The performance phase's self-observation function is similarly well-supported. [[metacognitive-monitoring]] during performance has been consistently linked to better comprehension, better error detection, and higher performance outcomes. The [[nelson-narens-model]] of metacognitive monitoring provides theoretical precision here: monitoring produces a signal that controls cognitive processing, but only if the monitoring signal is both accurate and acted upon. This second condition — *acted upon* — is where the monitoring-control coupling research becomes critical.
 
 > [!what-the-evidence-suggests] **The Monitoring-Control Decoupling Problem**
-> The accumulated evidence from [[monitoring-control-coupling]] research does not suggest that the primary failure mode in SRL is inadequate monitoring. Many students are reasonably accurate at detecting that their comprehension is failing or that their strategy isn't working. The primary failure mode is the *control* component: translating accurate monitoring signals into meaningful regulatory action. Students often know something is wrong but do not change what they are doing. This pattern suggests the bottleneck is not in the performance phase's self-observation sub-process but in the self-reflection phase's production of adaptive inferences — the cycle's regulatory junction.
+> The accumulated evidence from [[Monitoring-Control Coupling]] research does not suggest that the primary failure mode in SRL is inadequate monitoring. Many students are reasonably accurate at detecting that their comprehension is failing or that their strategy isn't working. The primary failure mode is the *control* component: translating accurate monitoring signals into meaningful regulatory action. Students often know something is wrong but do not change what they are doing. This pattern suggests the bottleneck is not in the performance phase's self-observation sub-process but in the self-reflection phase's production of adaptive inferences — the cycle's regulatory junction.
 
 ### The Attribution Evidence: Zimmerman's Mechanistic Claim in the Field
 
-The most direct evidence for the cycle-closure mechanism comes from attribution research and attribution retraining studies. [[attribution-theory]] (Weiner, 1985) classifies causal attributions along three dimensions: locus (internal vs. external), stability (stable vs. unstable), and controllability (controllable vs. uncontrollable). Zimmerman's model implicitly predicts that adaptive cycle closure requires attributing performance outcomes to internal, unstable, controllable causes — specifically, to the effort and strategy quality the learner applied.
+The most direct evidence for the cycle-closure mechanism comes from attribution research and attribution retraining studies. [[Attribution (Heider, 1958)]] (Weiner, 1985) classifies causal attributions along three dimensions: locus (internal vs. external), stability (stable vs. unstable), and controllability (controllable vs. uncontrollable). Zimmerman's model implicitly predicts that adaptive cycle closure requires attributing performance outcomes to internal, unstable, controllable causes — specifically, to the effort and strategy quality the learner applied.
 
 The evidence for this prediction is compelling. Attribution retraining interventions — which teach learners to reattribute failure from ability (internal, stable, uncontrollable) to effort-strategy (internal, unstable, controllable) — consistently produce improvements in subsequent persistence, goal-setting quality, and self-efficacy (Dweck, 1975; Försterling, 1985). This is exactly what the model predicts: changing the self-reflection phase's causal attribution output changes the subsequent forethought phase's motivational input.
 
@@ -280,9 +280,9 @@ The most revealing evidence for the cycle-closure claim comes from comparing exp
 The self-reflection phase's causal attribution sub-process is the model's regulatory valve. To understand why, it is necessary to trace the mechanism with precision. After a performance episode, the learner has a body of self-observation data (from the performance phase's self-observation processes): they know roughly how they performed, how much effort they expended, and how their strategies felt as they were deployed. The question facing the self-reflection phase is: *why did I perform as I did?*
 
 > [!important] **Complexity Transition**
-> The analysis ahead depends on understanding causal attribution theory with precision. If Weiner's three-dimensional attribution framework (locus × stability × controllability) isn't fully consolidated, revisiting [[attribution-theory]] before proceeding will make Phase IV's argument substantially clearer.
+> The analysis ahead depends on understanding causal attribution theory with precision. If Weiner's three-dimensional attribution framework (locus × stability × controllability) isn't fully consolidated, revisiting [[Attribution (Heider, 1958)]] before proceeding will make Phase IV's argument substantially clearer.
 
-This attribution question is not answered automatically or accurately. It is subject to well-documented biases: the [[fluency-illusion|fluency illusion]] (re-reading familiar material feels like understanding, making poor strategy feel adequate), the actor-observer bias (attributing performance to luck or task difficulty rather than strategy), and, critically, self-serving attribution biases that produce systematically inaccurate causal analyses. The learner who attributes a poor test performance to the test being unfair, rather than to insufficient elaborative processing during study, does not update their strategy repertoire for the next learning cycle. The cycle closes, but it closes *defensively* — the self-reaction produces an inference that protects self-esteem at the cost of adaptive self-efficacy updating.
+This attribution question is not answered automatically or accurately. It is subject to well-documented biases: the [[Fluency Illusion|fluency illusion]] (re-reading familiar material feels like understanding, making poor strategy feel adequate), the actor-observer bias (attributing performance to luck or task difficulty rather than strategy), and, critically, self-serving attribution biases that produce systematically inaccurate causal analyses. The learner who attributes a poor test performance to the test being unfair, rather than to insufficient elaborative processing during study, does not update their strategy repertoire for the next learning cycle. The cycle closes, but it closes *defensively* — the self-reaction produces an inference that protects self-esteem at the cost of adaptive self-efficacy updating.
 
 > [!analytical-insight] **The Defensive Closure Paradox**
 > Defensive inferences are not simply a failure of self-reflection — they are an active regulatory function that protects the learner from the costs of accurate self-assessment. A student who correctly attributes a failing grade to inadequate study strategies faces the obligation to actually change how they study, which is cognitively and motivationally expensive. A student who attributes the same failure to the instructor's unfairness faces no such obligation. The defensive inference is, in this sense, a locally rational response to the prospect of costly change. This means that simply teaching attribution accuracy is insufficient: it creates the accurate self-assessment without addressing the motivational cost of acting on it. SRL interventions that target attribution without simultaneously reducing the cost of strategy change will produce accurate self-assessors who continue to underperform.
@@ -298,7 +298,7 @@ The updating mechanism works as follows: adaptive inferences following successfu
 
 ### The Monitoring-Control Gap as a Transition Failure
 
-The [[monitoring-control-coupling]] problem — documented extensively in both [[metacognitive-monitoring]] research and the SRL literature — can now be precisely located within the model's architecture. It is not a failure within the performance phase's self-observation sub-process. It is a failure at the performance-phase-to-self-reflection-phase transition.
+The [[Monitoring-Control Coupling]] problem — documented extensively in both [[metacognitive-monitoring]] research and the SRL literature — can now be precisely located within the model's architecture. It is not a failure within the performance phase's self-observation sub-process. It is a failure at the performance-phase-to-self-reflection-phase transition.
 
 When monitoring produces a signal during performance (for example, "I'm not understanding this passage"), that signal must be acted on — either through an immediate strategic adjustment (a performance phase control action) or through a flag that contributes to the self-reflection phase's post-performance evaluation. The evidence consistently shows that many learners can monitor accurately but do not execute control actions in response to monitoring signals. This decoupling appears to have two distinct sources:
 
@@ -356,7 +356,7 @@ The implication is that SRL interventions should be redesigned to prioritize the
 
 ### The SRL Cycle and Self-Determination Theory: A Productive Alignment
 
-[[self-determination-theory]]'s account of internalization and [[autonomous-motivation]] maps onto Zimmerman's cycle in a way that has been underexplored. SDT predicts that autonomous motivation produces more flexible, creative strategy use and deeper processing — qualities that align with the forethought phase's task analysis quality and the self-reflection phase's elaborativeness. When learners are autonomously motivated (rather than externally regulated), they are more likely to engage genuine self-reflection rather than socially performative self-assessment (what Zimmerman calls "self-justification" rather than self-reflection). The implication is that [[autonomy-support]] in the learning environment is not merely motivationally beneficial — it is structurally necessary for the SRL cycle to operate with genuine adaptive closure rather than defensive or performative closure.
+[[self-determination-theory]]'s account of internalization and [[Autonomous Motivation]] maps onto Zimmerman's cycle in a way that has been underexplored. SDT predicts that autonomous motivation produces more flexible, creative strategy use and deeper processing — qualities that align with the forethought phase's task analysis quality and the self-reflection phase's elaborativeness. When learners are autonomously motivated (rather than externally regulated), they are more likely to engage genuine self-reflection rather than socially performative self-assessment (what Zimmerman calls "self-justification" rather than self-reflection). The implication is that [[autonomy-support]] in the learning environment is not merely motivationally beneficial — it is structurally necessary for the SRL cycle to operate with genuine adaptive closure rather than defensive or performative closure.
 
 ### The Temporal Compression Problem: A Genuine Limitation
 
@@ -481,9 +481,9 @@ The key trigger patterns indicating this principle's applicability: iterative pe
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[monitoring-control-coupling]]** — This analysis developed the monitoring-control decoupling problem as a phase-transition failure, specifically as a failure at the performance-phase-to-self-reflection-phase junction. The [[monitoring-control-coupling]] node is the most direct PKB neighbor, and should be updated to cross-reference this analysis's architectural location of the problem.
+> - **[[Monitoring-Control Coupling]]** — This analysis developed the monitoring-control decoupling problem as a phase-transition failure, specifically as a failure at the performance-phase-to-self-reflection-phase junction. The [[Monitoring-Control Coupling]] node is the most direct PKB neighbor, and should be updated to cross-reference this analysis's architectural location of the problem.
 >
-> - **[[attribution-theory]]** — Causal attribution is the self-reflection phase's central cognitive mechanism in this analysis. [[attribution-theory]]'s Weiner-tradition three-dimensional framework (locus × stability × controllability) provides the formal structure through which the adaptive/defensive inference fork is analyzed. These two notes form a tight cluster with this analysis and the [[self-reflection-phase]] note.
+> - **[[Attribution (Heider, 1958)]]** — Causal attribution is the self-reflection phase's central cognitive mechanism in this analysis. [[Attribution (Heider, 1958)]]'s Weiner-tradition three-dimensional framework (locus × stability × controllability) provides the formal structure through which the adaptive/defensive inference fork is analyzed. These two notes form a tight cluster with this analysis and the [[self-reflection-phase]] note.
 >
 > - **[[self-efficacy]]** — This analysis identified self-efficacy as the state variable through which the cycle's quality compounds across iterations. The [[self-efficacy]] node should be linked to this analysis specifically for its *updating* function — how self-efficacy changes across SRL cycles — which is distinct from self-efficacy's role as a motivational antecedent.
 >
@@ -535,7 +535,7 @@ The key trigger patterns indicating this principle's applicability: iterative pe
 >
 > **Etymology/Intellectual Lineage:** Zimmerman derived the adaptive/defensive distinction from [[attribution-retraining]] research (Dweck, 1975; Försterling, 1985) and [[Bandura]]'s treatment of protective self-efficacy mechanisms.
 >
-> **Cross-References:** [[attribution-theory]], [[self-reflection-phase]], [[attribution-retraining]], [[self-efficacy]]
+> **Cross-References:** [[Attribution (Heider, 1958)]], [[self-reflection-phase]], [[attribution-retraining]], [[self-efficacy]]
 
 > [!definition] **Degenerate Cycle** (This Report — Original Terminology)
 > **Definition:** An SRL cycle in which the functional connections between phases are absent or minimal — the learner enters the performance phase without meaningful goal setting or strategic planning (no forethought), and exits with global evaluative self-reflection ("that was hard/easy") rather than causal, strategy-specific self-reflection. A degenerate cycle proceeds through three temporal phases without the inter-phase signal transmission that makes the cycle self-modifying.
@@ -560,14 +560,14 @@ The key trigger patterns indicating this principle's applicability: iterative pe
 >
 > **Report-Specific Significance:** This analysis locates monitoring-control decoupling as a transition failure between the performance phase and the self-reflection phase, rather than as a failure within either phase. This location has implications for where interventions should be targeted.
 >
-> **Cross-References:** [[monitoring-control-coupling]], [[monitoring-regulation-decoupling]], [[metacognitive-monitoring]], [[regulatory-overhead]]
+> **Cross-References:** [[Monitoring-Control Coupling]], [[monitoring-regulation-decoupling]], [[metacognitive-monitoring]], [[regulatory-overhead]]
 
 > [!definition] **Regulatory Overhead** (Derived from Cognitive Load Literature)
 > **Definition:** The metacognitive and motivational cost of recognizing a strategy failure during active task performance and executing a strategic shift to an alternative. Under high cognitive load, regulatory overhead competes with primary task processing, producing monitoring without control even when both monitoring skill and alternative strategies are available.
 >
 > **Report-Specific Significance:** Regulatory overhead provides a cognitive load account of why monitoring-control decoupling is most severe in high-difficulty tasks — precisely the tasks where adaptive SRL is most needed.
 >
-> **Cross-References:** [[regulatory-overhead]], [[Cognitive-Load-Theory-—-Focused-Analysis]], [[monitoring-control-coupling]], [[working-memory]]
+> **Cross-References:** [[regulatory-overhead]], [[Cognitive-Load-Theory-—-Focused-Analysis]], [[Monitoring-Control Coupling]], [[working-memory]]
 
 ---
 
@@ -828,7 +828,7 @@ The key trigger patterns indicating this principle's applicability: iterative pe
 > > **Connection to This Report:** Attribution retraining is the primary empirical evidence base for the "self-reflection first" instructional sequence recommendation. Understanding its boundary conditions is essential for the recommendation's practical application.
 > > **Priority:** Critical
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[attribution-theory]], [[self-reflection-phase]], this report
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[self-reflection-phase]], this report
 
 > > [!topic-idea] [[deliberate-practice]]
 > > A foundational report on Ericsson's deliberate practice theory, covering its empirical basis, the role of structured feedback cycles in expertise development, and the controversy around the "10,000 hour rule." The transfer analysis in Phase VII established a structural isomorphism between deliberate practice and Zimmerman's cycle — a dedicated report would examine whether the two frameworks can be formally integrated, and what each gains from the other.

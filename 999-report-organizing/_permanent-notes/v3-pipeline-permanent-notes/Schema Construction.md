@@ -1,12 +1,12 @@
 ---
-title: "Schema Construction"
-aliases: []
+title: Schema Construction
+aliases: [schema-construction]
 type: permanent-note
 status: evergreen
 confidence: medium
 domain: cognitive-psychology
 subdomains: []
-tags: [permanent-note, cognitive-psychology]
+tags: [permanent-note, cognitive-psychology, seedling, concept-stub]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: intermediate
@@ -15,25 +15,32 @@ review-frequency: quarterly
 mastery-stage: seedling
 provenance:
   source-type: report-extraction
-  pipeline-version: "3.0.0"
+  pipeline-version: 3.0.0
   source-reports: [cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]
   extraction-method: pkb-extractor-v1 → pipeline-v3
 ---
 
+
+
 # Schema Construction
 
 > [!definition] Schema Construction
-> The cognitive process by which interrelated information elements are bound into a single integrated mental representation in long-term memory; the operation that, once complete, allows the integrated representation to function as a single chunk in working memory; the engine of meaningful learning in CLT. See [[schema-construction]].
+> The cognitive process by which interrelated information elements are bound into a single integrated mental representation in long-term memory; the operation that, once complete, allows the integrated representation to function as a single chunk in working memory; the engine of meaningful learning in CLT. See [[Schema Construction]].
 
 ## Core Explanation
 
 > [!evidence] Schema Construction
-> The cognitive process by which interrelated information elements are bound into a single integrated mental representation in long-term memory; the operation that, once complete, allows the integrated representation to function as a single chunk in working memory; the engine of meaningful learning in CLT. See [[schema-construction]].
+> The cognitive process by which interrelated information elements are bound into a single integrated mental representation in long-term memory; the operation that, once complete, allows the integrated representation to function as a single chunk in working memory; the engine of meaningful learning in CLT. See [[Schema Construction]].
 > *— [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]*
+
+## Additional Material (Merged)
+
+> [!definition] **schema-construction**
+> *Stub note — concept referenced by 334 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
 ## Connections
 
-**Related:** [[cognitive-load-theory]] · [[element-interactivity]] · [[expertise-reversal-effect]] · [[germane-cognitive-load]] · [[element-interactivity]] · [[cognitive-load-theory]] · [[john-sweller]] · [[fred-paas]] · [[Kirschner,-Sweller-&-Clark]] · [[multimedia-learning-theory]] · [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]] · [[worked-example-effect]] · [[split-attention-effect]] · [[modality-effect]] · [[redundancy-effect]] · [[cognitive-load-theory]] · [[cognitive-load-theory]] · [[working-memory]] · [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]] · [[germane-cognitive-load]] · [[schema-construction]] · [[worked-example-effect]] · [[split-attention-effect]] · [[modality-effect]] · [[redundancy-effect]] · [[educational-psychology]] · [[element-interactivity]] · [[cognitive-load-theory]] · [[working-memory]] · [[cognitive-load-theory]] · [[element-interactivity]] · [[element-interactivity]] · [[working-memory]] · [[element-interactivity]] · [[working-memory]] · [[schema-construction]] · [[working-memory]] · [[long-term-memory]] · [[john-sweller]] · [[baddeley-s-model-of-working-memory]] · [[schema-construction]] · [[long-term-memory]] · [[educational-psychology]] · [[worked-example-effect]] · [[isolated-elements]] · [[expertise-reversal-effect]] · [[element-interactivity]] · [[long-term-memory]] · [[schema-construction]] · [[element-interactivity]] · [[working-memory]] · [[long-term-memory]] · [[chunk]] · [[chunking]] · [[George-A.-Miller]] · [[expert-novice-research]] · [[long-term-memory]] · [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]] · [[relational-complexity]] · [[relational-complexity]] · [[element-interactivity]] · [[schema-automation]] · [[long-term-working-memory]] · [[element-interactivity]] · [[working-memory]] · [[schema-construction]] · [[long-term-memory]] · [[schema-automation]] · [[schema-construction]] · [[schema-automation]] · [[long-term-memory]] · [[long-term-working-memory]] · [[cognitive-load-theory]] · [[guidance-fading-principle]] · [[schema-automation]] · [[long-term-working-memory]] · [[guidance-fading-principle]] · [[element-interactivity]] · [[far-transfer]] · [[expertise-reversal-effect]] · [[germane-cognitive-load]] · [[isolated-elements]] · [[expertise-reversal-effect]] · [[long-term-memory]] · [[guidance-fading-principle]] · [[germane-cognitive-load]] · [[Germane-Load-as-a-Functional-Category,-Not-a-Source-Category]] · [[isolated-elements]] · [[modality-effect]] · [[redundancy-effect]] · [[split-attention-effect]] · [[expertise-reversal-effect]] · [[isolated-elements]] · [[long-term-working-memory]] · [[cognitive-load-theory]] · [[element-interactivity]] · [[relational-complexity]] · [[prefrontal-cortex]] · [[act-r-theory]] · [[4e-cognition]] · [[long-term-working-memory]] · [[relational-complexity]] · [[Kirschner,-Sweller-&-Clark]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[worked-example-effect]] · [[guidance-fading-principle]] · [[active-inference]] · [[schema-theory]] · [[element-interactivity]] · [[worked-example-effect]] · [[guidance-fading-principle]] · [[element-interactivity]] · [[chunking]] · [[relational-complexity]] · [[element-interactivity]] · [[cognitive-load-theory]] · [[expertise-reversal-effect]] · [[chunking]] · [[element-interactivity]] · [[worked-example-effect]] · [[modality-effect]] · [[split-attention-effect]] · [[redundancy-effect]] · [[expertise-reversal-effect]] · [[isolated-elements]] · [[guidance-fading-principle]] · [[isolated-elements]] · [[Germane-Load-as-a-Functional-Category,-Not-a-Source-Category]] · [[schema-construction]] · [[schema-automation]] · [[automaticity]] · [[chunk]] · [[chunking]] · [[long-term-working-memory]] · [[expertise-reversal-effect]] · [[isolated-elements]] · [[relational-complexity]] · [[modality-effect]] · [[worked-example-effect]] · [[john-sweller]] · [[fred-paas]] · [[jeroen-van-merriënboer]] · [[cognitive-theory-of-multimedia-learning]] · [[Richard-Mayer]] · [[Kirschner,-Sweller-&-Clark]] · [[relational-complexity]] · [[long-term-working-memory]] · [[George-A.-Miller]] · [[baddeley-s-model-of-working-memory]] · [[alan-baddeley]] · [[expertise-reversal-effect]] · [[isolated-elements]] · [[guidance-fading-principle]] · [[isolated-elements]] · [[expertise-reversal-effect]] · [[isolated-elements]] · [[long-term-working-memory]] · [[worked-example-effect]] · [[self-explanation-effect]] · [[cognitive-load-theory]] · [[element-interactivity]] · [[working-memory]] · [[long-term-memory]] · [[schema-construction]] · [[schema-automation]] · [[chunking]] · [[worked-example-effect]] · [[split-attention-effect]] · [[modality-effect]] · [[redundancy-effect]] · [[expertise-reversal-effect]] · [[isolated-elements]] · [[guidance-fading-principle]] · [[self-explanation-effect]] · [[Germane-Load-as-a-Functional-Category,-Not-a-Source-Category]] · [[Original-Synthesis-Element-Interactivity-as-Relational-Complexity-Under-Constrai]] · [[original-synthesis-the-element-interactivity-paradox]] · [[baddeley-s-model-of-working-memory]] · [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]] · [[cognitive-theory-of-multimedia-learning]] · [[long-term-working-memory]] · [[multimedia-learning-theory]] · [[expert-novice-research]] · [[far-transfer]] · [[educational-psychology]] · [[deliberate-practice]] · [[automaticity]] · [[element-interactivity]] · [[cognitive-load-theory]]
+**Related:** [[Cognitive Load Theory (CLT)]] · [[Technical Detail: The relationship between element interactivity and working-memory load]] · [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] · [[Cognitive Load Theory (CLT)]] · [[john-sweller]] · [[Fred Paas]] · [[Kirschner,-Sweller-&-Clark]] · [[multimedia-learning-theory]] · [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]] · [[the-worked-example-effect]] · [[split-attention-effect]] · [[Modality Effect]] · [[redundancy-effect]] · [[working-memory]] · [[Cognitive Load Theory (CLT)]] · [[Cognitive Load Theory (CLT)]] · [[Schema Construction]] · [[educational-psychology]] · [[long-term-memory]] · [[baddeley-s-model-of-working-memory]] · [[isolated-elements]] · [[chunk]] · [[Chunk (Miller, 1956; Chase & Simon, 1973)]] · [[George-A.-Miller]] · [[expert-novice-research]] · [[Relational Complexity]] · [[Schema Automation]] · [[long-term-working-memory]] · [[guidance-fading-principle]] · [[far-transfer]] · [[Germane-Load-as-a-Functional-Category,-Not-a-Source-Category]] · [[prefrontal-cortex]] · [[act-r-theory]] · [[4e-cognition]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice]] · [[active-inference]] · [[schema-theory-and-knowledge-organization]] · [[automaticity]] · [[Jeroen van Merriënboer]] · [[cognitive-theory-of-multimedia-learning]] · [[Richard-Mayer]] · [[alan-baddeley]] · [[self-explanation-effect]] · [[Original-Synthesis-Element-Interactivity-as-Relational-Complexity-Under-Constrai]] · [[original-synthesis-the-element-interactivity-paradox]] · [[deliberate-practice]]
 
 ```dataview
 LIST FROM [[Schema Construction]]

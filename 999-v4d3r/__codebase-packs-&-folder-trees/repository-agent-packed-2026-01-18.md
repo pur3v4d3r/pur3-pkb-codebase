@@ -6592,7 +6592,7 @@ Identify and link any term that meets these criteria:
 - Term requires specific definition to understand fully
 - Concept has domain-specific meaning different from common usage
 - Idea represents a discrete, learnable unit of knowledge
-- Examples: [[cognitive-load]], [[zettelkasten]], [[Emergent Behavior]]
+- Examples: [[Cognitive Load Theory (CLT)]], [[zettelkasten]], [[Emergent Behavior]]
 
 ✓ **Theoretical Framework**
 - Named model, theory, or systematic approach
@@ -6604,7 +6604,7 @@ Identify and link any term that meets these criteria:
 - Step-by-step procedure or technique
 - Replicable workflow or system
 - Has specific implementation requirements
-- Examples: [[Progressive-Summarization]], [[spaced-repetition]], [[elaborative-interrogation]]
+- Examples: [[Progressive-Summarization]], [[spaced-repetition]], [[Elaborative Interrogation]]
 
 **CATEGORY 2: Technical & Tool-Specific Terms**
 
@@ -6636,11 +6636,11 @@ Identify and link any term that meets these criteria:
 
 ✓ **Related Notes That Should Exist**
 - Complementary concepts: [[Intrinsic-Load]] ↔ [[extraneous-load]]
-- Hierarchical relationships: [[cognitive-load-theory]] → [[working-memory]]
+- Hierarchical relationships: [[Cognitive Load Theory (CLT)]] → [[working-memory]]
 - Sequential processes: [[Capture]] → [[Organize]] → [[Distill]] → [[Express]]
 
 ✓ **Contrast/Comparison Terms**
-- Binary oppositions: [[intrinsic-motivation]] vs [[extrinsic-motivation]]
+- Binary oppositions: [[Intrinsic Motivation]] vs [[extrinsic-motivation]]
 - Spectrum positions: [[Behaviorism]] ← → [[constructivism]] ← → [[Connectivism]]
 - Alternative approaches: [[top-down-processing]] vs [[bottom-up-processing]]
 
@@ -6718,7 +6718,7 @@ Use when: The note title is the exact term you want displayed
 [[Note Title|Display Text]]
 ```
 Use when: 
-- Grammatical integration: "theories of [[cognitive-load-theory|cognitive load]]"
+- Grammatical integration: "theories of [[Cognitive Load Theory (CLT)|cognitive load]]"
 - Shortened reference: "the [[Zettelkasten-Method|method]]"
 - Alternative phrasing: "[[Progressive-Summarization|layer-based distillation]]"
 
@@ -6788,11 +6788,11 @@ Mention this in the "Related Topics" section when appropriate.
 
 **EXAMPLE BI-DIRECTIONAL PATTERN:**
 
-In a note about [[cognitive-load-theory]]:
+In a note about [[Cognitive Load Theory (CLT)]]:
 ```markdown
 Forward links:
 - [[working-memory]]
-- [[schema-theory]]
+- [[schema-theory-and-knowledge-organization]]
 - [[instructional-design]]
 
 Potential backlinks (notes that should link here):
@@ -6807,12 +6807,12 @@ This bi-directional awareness creates a more robust knowledge graph.
 
 ❌ **Over-Linking Every Occurrence:**
 ```markdown
-[[cognitive-load]] theory explains how [[cognitive-load]] affects learning. 
-When [[cognitive-load]] is too high, [[cognitive-load]] overwhelms [[working-memory]].
+[[Cognitive Load Theory (CLT)]] theory explains how [[Cognitive Load Theory (CLT)]] affects learning. 
+When [[Cognitive Load Theory (CLT)]] is too high, [[Cognitive Load Theory (CLT)]] overwhelms [[working-memory]].
 ```
 ✅ **Correct Approach:**
 ```markdown
-[[cognitive-load-theory]] explains how cognitive load affects learning. 
+[[Cognitive Load Theory (CLT)]] explains how cognitive load affects learning. 
 When load exceeds capacity, it overwhelms [[working-memory]].
 ```
 
@@ -6822,7 +6822,7 @@ This [[method]] uses several [[techniques]] to improve [[things]].
 ```
 ✅ **Correct Approach:**
 ```markdown
-The [[Zettelkasten-Method]] uses [[atomic-notes]] and [[Progressive Linking]] 
+The [[Zettelkasten-Method]] uses [[atomic-note]] and [[Progressive Linking]] 
 to improve knowledge retention.
 ```
 
@@ -8270,7 +8270,7 @@ FOR each section:
 
 **WITH WIKI-LINKS:**
 ```markdown
-The <span style='color: #FFC700;'>[[Zettelkasten-Method]]</span> leverages <span style='color: #72FFF1;'>[[atomic-notes]]</span> and <span style='color: #27FF00;'>emergent structure</span>.
+The <span style='color: #FFC700;'>[[Zettelkasten-Method]]</span> leverages <span style='color: #72FFF1;'>[[atomic-note]]</span> and <span style='color: #27FF00;'>emergent structure</span>.
 ```
 *Color can wrap wiki-links to add semantic layer.*
 
@@ -8534,13 +8534,13 @@ Include when:
 
 ## 🎯 Core Extensions
 
-1. **[[intrinsic-cognitive-load]]**
-   - **Connection**: One of three components of [[cognitive-load-theory]] introduced in this note, representing inherent material complexity
+1. **[[Cognitive Load Theory (CLT)]]**
+   - **Connection**: One of three components of [[Cognitive Load Theory (CLT)]] introduced in this note, representing inherent material complexity
    - **Depth Potential**: Understanding element interactivity and expertise reversal effect requires dedicated treatment; central to instructional design optimization
    - **Knowledge Graph Role**: Hub concept connecting learning theory, instructional design, and skill acquisition domains
    - **Priority**: **High** - Essential for applying cognitive load principles to practical instructional scenarios
 
-2. **[[worked-example-effect]]**
+2. **[[the-worked-example-effect]]**
    - **Connection**: Direct application of cognitive load reduction through minimizing extraneous load during skill acquisition phase
    - **Depth Potential**: Extensive research on optimal fading strategies, expertise reversal considerations, and domain-specific implementations
    - **Knowledge Graph Role**: Bridge between cognitive load theory and practical instructional techniques
@@ -8562,17 +8562,17 @@ Include when:
 
 ## 🔬 Advanced Deep Dives
 
-5. **[[expertise-reversal-effect]]**
+5. **[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]**
    - **Connection**: Advanced phenomenon where instructional techniques effective for novices become detrimental for experts as expertise grows
    - **Depth Potential**: Requires understanding CLT, schema theory, and automation; critical for adaptive instruction and personalized learning systems
    - **Knowledge Graph Role**: Specialized node integrating CLT with developmental progression and adaptive systems
-   - **Prerequisites**: Solid understanding of [[schema-theory]], [[Intrinsic Load vs Extraneous Load]], and [[worked-example-effect]]
+   - **Prerequisites**: Solid understanding of [[schema-theory-and-knowledge-organization]], [[Intrinsic Load vs Extraneous Load]], and [[the-worked-example-effect]]
    - **Priority**: **Medium** - Essential for advanced instructional design but requires foundational knowledge first
 
 ## 📚 Foundational Prerequisites
 
 - **[[working-memory]]** - CLT fundamentally depends on understanding working memory's limited capacity and how it processes information
-- **[[schema-theory]]** - Germane load's role in schema construction makes schema theory prerequisite for full CLT comprehension
+- **[[schema-theory-and-knowledge-organization]]** - Germane load's role in schema construction makes schema theory prerequisite for full CLT comprehension
 - **[[Bloom's-Taxonomy]]** - Understanding cognitive complexity levels provides context for why intrinsic load varies across learning objectives
 
 ## 🛠️ Practical Applications

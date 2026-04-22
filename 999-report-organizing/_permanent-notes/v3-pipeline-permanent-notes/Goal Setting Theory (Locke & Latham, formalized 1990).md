@@ -29,7 +29,7 @@ provenance:
 >
 > **Report-Specific Significance:** This precise definition matters because almost every misapplication of the theory in practice involves violating one of its boundary conditions while citing the theory as authority for doing so.
 >
-> **See also:** [[Goal-Setting-Theory-—-Locke-and-Latham]], [[goal-specificity]], [[goal-commitment]]
+> **See also:** [[Goal-Setting-Theory-—-Locke-and-Latham]], [[Goal Specificity]], [[Goal Commitment]]
 
 ## Core Explanation
 
@@ -40,7 +40,7 @@ provenance:
 >
 > **Report-Specific Significance:** This precise definition matters because almost every misapplication of the theory in practice involves violating one of its boundary conditions while citing the theory as authority for doing so.
 >
-> **See also:** [[Goal-Setting-Theory-—-Locke-and-Latham]], [[goal-specificity]], [[goal-commitment]]
+> **See also:** [[Goal-Setting-Theory-—-Locke-and-Latham]], [[Goal Specificity]], [[Goal Commitment]]
 > *— [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]*
 
 > [!evidence] Goal Setting Theory (Locke & Latham, formalized 1990)
@@ -55,7 +55,7 @@ provenance:
 
 ## Connections
 
-**Related:** [[2026-04-20-2152-srl-session]] · [[Academic-Burnout-and-Wellbeing]] · [[Bandura]] · [[Barnett-Ceci]] · [[Engineering-Metrics-and-the-Dark-Side-of-Optimization]] · [[Goal-Setting-Theory-—-Locke-and-Latham]] · [[Goal-Setting-in-Personal-Knowledge-Management]] · [[Halpern]] · [[Hattie-&-Timperley-Feedback-Model]] · [[Implementation-Intentions-and-Habit-Formation]] · [[Performance-Goals-vs-Mastery-Goals-Reconciling-the-Frameworks]] · [[Perkins-Salomon]] · [[Social-Cognitive-Theory-—-Bandura]] · [[Software-Engineering-Practice]] · [[The-Intellectual-Lineage-of-Self-Regulation-Research]] · [[Zimmerman]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulation]] · [[achievement-goal-theory]] · [[albert-bandura]] · [[attention-and-learning]] · [[attribution-theory]] · [[autonomous-motivation-vs.-controlled-motivation]] · [[deci-ryan]] · [[deliberate-practice]] · [[ericsson]] · [[feedback-effects-on-motivation-and-learning]] · [[goal-commitment]] · [[goal-setting-theory]] · [[goal-specificity]] · [[habit-formation]] · [[hattie-timperley-feedback-model]] · [[high-performance-cycle]] · [[implementation-intention]] · [[implementation-intentions]] · [[intrinsic-motivation]] · [[knowledge-telling-vs.-knowledge-transforming]] · [[mastery-goal]] · [[mastery-goal-orientation]] · [[motivation-theory-foundational-report]] · [[motivational-interviewing]] · [[motivational-psychology]] · [[performance-goal]] · [[personal-knowledge-management]] · [[schema-theory]] · [[selective-attention]] · [[self-determination-theory]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[self-regulated-learning]] · [[self-regulation]] · [[transfer-of-learning]] · [[volitional-congruence]] · [[working-memory]]
+**Related:** [[2026-04-20-2152-srl-session]] · [[Academic-Burnout-and-Wellbeing]] · [[Bandura]] · [[Barnett-Ceci]] · [[Engineering-Metrics-and-the-Dark-Side-of-Optimization]] · [[Goal-Setting-Theory-—-Locke-and-Latham]] · [[Goal-Setting-in-Personal-Knowledge-Management]] · [[Halpern]] · [[Hattie-&-Timperley-Feedback-Model]] · [[Implementation-Intentions-and-Habit-Formation]] · [[Performance-Goals-vs-Mastery-Goals-Reconciling-the-Frameworks]] · [[Perkins-Salomon]] · [[Social-Cognitive-Theory-—-Bandura]] · [[Software-Engineering-Practice]] · [[The-Intellectual-Lineage-of-Self-Regulation-Research]] · [[Zimmerman]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulation]] · [[achievement-goal-theory]] · [[albert-bandura]] · [[attention-and-learning]] · [[Attribution (Heider, 1958)]] · [[autonomous-motivation-vs.-controlled-motivation]] · [[deci-and-ryan]] · [[deliberate-practice]] · [[ericsson]] · [[feedback-effects-on-motivation-and-learning]] · [[Goal Commitment]] · [[goal-setting-theory]] · [[Goal Specificity]] · [[habit-formation]] · [[hattie-timperley-feedback-model]] · [[High Performance Cycle]] · [[goal-intention]] · [[goal-intention]] · [[Intrinsic Motivation]] · [[knowledge-telling-vs.-knowledge-transforming]] · [[mastery-goal]] · [[mastery-goal-orientation]] · [[motivation-theory-foundational-report]] · [[motivational-interviewing]] · [[motivational-psychology]] · [[performance-goal]] · [[personal-knowledge-management]] · [[schema-theory-and-knowledge-organization]] · [[selective-attention]] · [[self-determination-theory]] · [[self-efficacy]] · [[self-efficacy-theory]] · [[self-regulated-learning]] · [[self-regulation]] · [[transfer-of-learning]] · [[volitional-congruence]] · [[working-memory]]
 
 ```dataview
 LIST FROM [[Goal Setting Theory (Locke & Latham, formalized 1990)]]

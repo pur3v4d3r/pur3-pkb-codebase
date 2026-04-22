@@ -83,7 +83,7 @@ link-related:
 > - [[QuickAdd]]
 > - [[Templater]]
 > - [[Dataview]]
-> - [[cognitive-load-theory]]
+> - [[Cognitive Load Theory (CLT)]]
 > - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 > - [[Active-Recall]]
 > - [[metacognition]]
@@ -187,7 +187,7 @@ obsidian://[action]?[param1]=[value1]&[param2]=[value2]
 
 ### Why URIs Matter for Knowledge Work
 
-The cognitive significance of URI-based automation lies in [[cognitive-load-theory]]:
+The cognitive significance of URI-based automation lies in [[Cognitive Load Theory (CLT)]]:
 
 1. **Reduced Extraneous Load**: Every manual step (open Obsidian → navigate folder → create note → format metadata) consumes [[working-memory]] capacity that should be reserved for thinking
 2. **Increased Automaticity**: Repeated URI triggers become habitual, moving from conscious effort to automatic behavior
@@ -560,7 +560,7 @@ For system-wide hotkeys that capture to Obsidian:
 > [!the-philosophy]
 > **Underlying Philosophy**
 > 
-> The true power of Obsidian URI isn't technical—it's **cognitive architectural**. Every URI-based workflow you implement is an investment in reducing the [[extraneous-cognitive-load]] that separates you from actual thinking. The goal is to make your PKB an extension of your mind rather than a tool you have to consciously operate.
+> The true power of Obsidian URI isn't technical—it's **cognitive architectural**. Every URI-based workflow you implement is an investment in reducing the [[Cognitive Load Theory (CLT)]] that separates you from actual thinking. The goal is to make your PKB an extension of your mind rather than a tool you have to consciously operate.
 
 ## 6.1 Aligning with Working Memory Constraints
 

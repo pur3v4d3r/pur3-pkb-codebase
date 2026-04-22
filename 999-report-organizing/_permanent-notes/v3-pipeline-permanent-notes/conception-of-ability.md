@@ -1,52 +1,27 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "conception-of-ability"
-aliases:
-  - "conception-of-ability"
+title: conception-of-ability
+aliases: [conception-of-ability, conceptions-of-ability, differentiated-conception-of-ability, undifferentiated-conception-of-ability]
 type: permanent-note
 status: seedling
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
-tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+tags: [permanent-note, seedling, concept-stub, other]
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 50
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[A-Common-Misreading|A Common Misreading]]"
-  - "[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]"
-  - "[[Achievement-Goal|Achievement Goal]]"
-  - "[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]"
-  - "[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]"
-  - "[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]"
-  - "[[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]"
-  - "[[Clinical-and-Therapeutic-Recovery|Clinical and Therapeutic Recovery]]"
-  - "[[Conception-of-Ability-Nicholls|Conception of Ability (Nicholls)]]"
-  - "[[Future-Investigation-Directions|Future Investigation Directions]]"
+  - '[[A-Common-Misreading|A Common Misreading]]'
+  - '[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]'
+  - '[[Achievement-Goal|Achievement Goal]]'
+  - '[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]'
+  - '[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]'
+  - '[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]'
+  - '[[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]'
+  - '[[Clinical-and-Therapeutic-Recovery|Clinical and Therapeutic Recovery]]'
+  - '[[Conception-of-Ability-Nicholls|Conception of Ability (Nicholls)]]'
+  - '[[Future-Investigation-Directions|Future Investigation Directions]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -54,7 +29,11 @@ see-also:
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
+provenance:
+  source-reports: []
 ---
+
+
 
 # conception-of-ability
 
@@ -86,3 +65,16 @@ importance: high
 - [[PKM-and-Lifelong-Self-Directed-Learning|PKM and Lifelong Self-Directed Learning]]
 - [[Performance-Avoidance-Goal-Elliot-2×2-framework|Performance-Avoidance Goal (Elliot 2×2 framework)]]
 - *...and 30 more permanent notes*
+
+## Additional Material (Merged)
+
+> [!definition] **conceptions-of-ability**
+> *Stub note — concept referenced by 50 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+> [!definition] **differentiated-conception-of-ability**
+> *Stub note — concept referenced by 50 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+> [!definition] **undifferentiated-conception-of-ability**
+> *Stub note — concept referenced by 50 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+## Connections

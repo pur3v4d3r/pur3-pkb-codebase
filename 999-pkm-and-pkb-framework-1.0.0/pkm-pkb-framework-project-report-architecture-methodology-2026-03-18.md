@@ -77,13 +77,13 @@ related_concepts:
   - "[[Cross-Domain Synthesis Engine]]"
   - "[[Analytical Commentary System]]"
   - "[[Cognitive Partnership Model]]"
-  - "[[schema-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[self-regulated-learning]]"
   - "[[self-determination-theory]]"
-  - "[[desirable-difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[constructivism]]"
-  - "[[extended-mind-theory]]"
+  - "[[Extended Mind Thesis (Clark & Chalmers, 1998)]]"
 builds_on:
   - "[[pkm-pkb-framework-synthesis]]"
   - "[[pkm-pkb-framework-taxonomy]]"
@@ -140,7 +140,7 @@ The framework's significance operates at three levels. At the **theoretical leve
 
 The PKM/PKB Framework draws on research traditions that have, until this project, largely operated in isolation from one another. This section maps the major traditions and their relevance to PKB design.
 
-**Cognitive Psychology and Memory Science.** The empirical study of how the human mind encodes, stores, and retrieves information provides the most direct scientific constraints on PKB design. [[schema-theory]] (Bartlett 1932; Rumelhart 1980; Anderson 1977) establishes that knowledge is organized in relational, hierarchical structures — not as isolated propositions — and that these structures actively shape both encoding and retrieval. [[cognitive-load-theory]] (Sweller 1988) identifies the bottleneck of [[working-memory]] (approximately 4 chunks per Cowan's 2001 estimate) and distinguishes [[Intrinsic-Load]] (inherent complexity), [[extraneous-load]] (poor design), and [[germane-load]] (productive schema construction). The [[Testing-Effect]] (Rowland 2014, meta-analysis of 159 experiments, d = 0.50) and [[spacing-effect]] together form the evidentiary backbone for retrieval-based PKB review systems. [[Semantic-Networks]] (Collins & Loftus 1975) and [[spreading-activation]] provide the cognitive architecture analog for wiki-link-based PKB structures.
+**Cognitive Psychology and Memory Science.** The empirical study of how the human mind encodes, stores, and retrieves information provides the most direct scientific constraints on PKB design. [[schema-theory-and-knowledge-organization]] (Bartlett 1932; Rumelhart 1980; Anderson 1977) establishes that knowledge is organized in relational, hierarchical structures — not as isolated propositions — and that these structures actively shape both encoding and retrieval. [[Cognitive Load Theory (CLT)]] (Sweller 1988) identifies the bottleneck of [[working-memory]] (approximately 4 chunks per Cowan's 2001 estimate) and distinguishes [[Intrinsic-Load]] (inherent complexity), [[extraneous-load]] (poor design), and [[Cognitive Load Theory (CLT)]] (productive schema construction). The [[Testing-Effect]] (Rowland 2014, meta-analysis of 159 experiments, d = 0.50) and [[Desirable Difficulties (Robert Bjork, 1994)]] together form the evidentiary backbone for retrieval-based PKB review systems. [[Semantic-Networks]] (Collins & Loftus 1975) and [[spreading-activation]] provide the cognitive architecture analog for wiki-link-based PKB structures.
 
 **Educational Psychology and Self-Regulated Learning.** [[self-regulated-learning]] theory (Zimmerman 2002) provides the process architecture for how effective learners monitor, control, and adapt their learning — a process that the framework maps onto PKB review and reflection workflows. [[self-determination-theory]] (Deci & Ryan 1985, 2000) identifies the three basic psychological needs — autonomy, competence, and relatedness — whose satisfaction sustains intrinsic motivation. [[achievement-goal-theory]] (Dweck & Leggett 1988; Elliot & McGregor 2001) distinguishes mastery vs. performance orientations with direct implications for how PKB progress should be tracked.
 
@@ -148,9 +148,9 @@ The PKM/PKB Framework draws on research traditions that have, until this project
 
 **Knowledge Management and Information Science.** [[Nonaka and Takeuchi's SECI Model]] (1995) — Socialization, Externalization, Combination, Internalization — provides the organizational knowledge creation framework that the series adapts for personal knowledge management. [[Faceted-Classification]] (Ranganathan) offers the classification science foundation for multi-dimensional tagging systems. The [[Vocabulary-Mismatch-Problem]] (Furnas et al., finding less than 20% naming agreement for the same concept) provides the empirical basis for why any single classification system will fail.
 
-**Instructional Design and Learning Experience Design.** [[Elaboration-Theory]] (Reigeluth 1979, 1999) provides the sequencing architecture — beginning with an epitome (simplest complete representation) and elaborating progressively — that the framework adapts for PKB note organization. [[Merrill's First Principles of Instruction]] (activation, demonstration, application, integration) provide design criteria for learning-oriented note structures. The [[desirable-difficulties]] research tradition (Bjork 1994; Dunlosky et al. 2013) — encompassing the [[Testing-Effect]], [[spacing-effect]], [[generation-effect]], and [[interleaving-effect]] — provides the evidentiary foundation for the framework's counterintuitive claim that productive friction, not frictionless efficiency, is the mechanism of durable learning.
+**Instructional Design and Learning Experience Design.** [[Elaboration-Theory]] (Reigeluth 1979, 1999) provides the sequencing architecture — beginning with an epitome (simplest complete representation) and elaborating progressively — that the framework adapts for PKB note organization. [[Merrill's First Principles of Instruction]] (activation, demonstration, application, integration) provide design criteria for learning-oriented note structures. The [[Desirable Difficulties (Robert Bjork, 1994)]] research tradition (Bjork 1994; Dunlosky et al. 2013) — encompassing the [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[generation-effect]], and [[interleaving-effect]] — provides the evidentiary foundation for the framework's counterintuitive claim that productive friction, not frictionless efficiency, is the mechanism of durable learning.
 
-**Metacognition.** Flavell's (1979) foundational taxonomy of metacognitive knowledge and metacognitive regulation, Nelson and Narens' (1990) monitoring-control model, and the [[dunning-kruger-effect]] literature together establish that humans are systematically poor at judging what they know — creating the rationale for the framework's emphasis on calibration systems and the identification of [[fluency-illusion]] as the universal PKM failure mode.
+**Metacognition.** Flavell's (1979) foundational taxonomy of metacognitive knowledge and metacognitive regulation, Nelson and Narens' (1990) monitoring-control model, and the [[dunning-kruger-effect]] literature together establish that humans are systematically poor at judging what they know — creating the rationale for the framework's emphasis on calibration systems and the identification of [[Fluency Illusion]] as the universal PKM failure mode.
 
 ### 2.2 Identification of Gaps in Existing Literature
 
@@ -172,7 +172,7 @@ The project's theoretical framework is organized around three meta-principles th
 
 **Meta-Principle 2 — Active Construction Imperative.** Knowledge must be actively constructed through effortful cognitive processing. Features that reduce cognitive effort during encoding — the very features that make a PKB "easy to use" — may simultaneously reduce learning effectiveness. This creates the framework's central [[Convenience-Learning Tension]].
 
-**Meta-Principle 3 — Regulatory Embedding.** Self-regulation (monitoring, control, reflection) cannot be treated as an optional layer added to a PKB. It must be embedded as structural features of the system itself, because metacognitive processes are systematically unreliable when left to unaided human judgment (the [[fluency-illusion]] problem).
+**Meta-Principle 3 — Regulatory Embedding.** Self-regulation (monitoring, control, reflection) cannot be treated as an optional layer added to a PKB. It must be embedded as structural features of the system itself, because metacognitive processes are systematically unreliable when left to unaided human judgment (the [[Fluency Illusion]] problem).
 
 ---
 
@@ -186,7 +186,7 @@ The synthesis methodology operated through five formal operations, codified as t
 
 **Operation 1 — Structural Parallel Detection.** Identifying when two different disciplines describe the same underlying phenomenon using different vocabularies. For example, Dewey's "reflective inquiry" and Zimmerman's "self-regulated learning cycle" are structurally isomorphic — both describe a planning → execution → monitoring → reflection loop.
 
-**Operation 2 — Productive Tension Identification.** Identifying when two credible disciplinary perspectives pull in genuinely different directions. For example, [[cognitive-load-theory]] prescribes minimizing extraneous processing, while [[constructivism]] insists that productive struggle is necessary for learning — creating a design tension that the framework resolves contextually.
+**Operation 2 — Productive Tension Identification.** Identifying when two credible disciplinary perspectives pull in genuinely different directions. For example, [[Cognitive Load Theory (CLT)]] prescribes minimizing extraneous processing, while [[constructivism]] insists that productive struggle is necessary for learning — creating a design tension that the framework resolves contextually.
 
 **Operation 3 — Convergence Zone Mapping.** Identifying points where multiple independent traditions arrive at the same conclusion via different routes. The framework identifies five such convergence zones where this triangulation provides the strongest available evidence base.
 
@@ -224,7 +224,7 @@ The 30-report series was produced using a purpose-built **Report Generation Arch
 
 The 30 reports are organized in a four-tier hierarchical dependency structure:
 
-**Tier 1 — Cognitive & Architectural Foundations (Reports 01–08).** These reports establish the scientific and philosophical foundations. Report 01 ([[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13|Foundations of Knowledge Architecture]]) introduces [[schema-theory]], [[Semantic-Networks]], and the [[Cognitive-Alignment-Principle]]. Report 02 ([[02-architecture-of-learning-pkm-framework-2026-03-13|The Architecture of Learning]]) addresses [[cognitive-load-theory]] and [[working-memory]]. Reports 03–08 cover constructivism, metacognition, motivation, memory science, critical thinking, and reflective practice.
+**Tier 1 — Cognitive & Architectural Foundations (Reports 01–08).** These reports establish the scientific and philosophical foundations. Report 01 ([[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13|Foundations of Knowledge Architecture]]) introduces [[schema-theory-and-knowledge-organization]], [[Semantic-Networks]], and the [[Cognitive-Alignment-Principle]]. Report 02 ([[02-architecture-of-learning-pkm-framework-2026-03-13|The Architecture of Learning]]) addresses [[Cognitive Load Theory (CLT)]] and [[working-memory]]. Reports 03–08 cover constructivism, metacognition, motivation, memory science, critical thinking, and reflective practice.
 
 **Tier 2 — Advanced Integration & Design (Reports 09–18).** These reports translate Tier 1 foundations into sophisticated design guidance. Report 09 ([[09-designing-the-learning-pkb-pkm-framework-2026-03-14|Designing the Learning PKB]]) serves as the primary design translator, introducing the [[Cognitive-Architecture-Isomorphism-Principle]]. Reports 10–18 address scaffolding, transfer, metacognitive monitoring, emotional regulation, inquiry-based learning, knowledge organization, desirable difficulties, note-making, and calibration.
 
@@ -258,7 +258,7 @@ Each companion document was produced in two versions — one by [[Claude Opus 4.
 
 The project raises several ethical and epistemic considerations that the framework itself addresses with notable self-awareness:
 
-**AI-Generated Content and the Performative Paradox.** The series was generated by AI (Claude Sonnet 4.6 for the reports, Claude Opus 4.6 for the companion documents), yet its own content warns extensively about the risks of AI-generated knowledge — the [[fluency-illusion]], [[Epistemic Counterfeiting]], and the danger of passively consuming AI output. The synthesis document notes this honestly: "A reader who passively reads AI-generated reports about why passive reading doesn't produce learning is caught in a performative contradiction." The appropriate response is not to dismiss the content but to engage with it actively — elaborating, questioning, connecting to experience, and testing against one's own PKB practice.
+**AI-Generated Content and the Performative Paradox.** The series was generated by AI (Claude Sonnet 4.6 for the reports, Claude Opus 4.6 for the companion documents), yet its own content warns extensively about the risks of AI-generated knowledge — the [[Fluency Illusion]], [[Epistemic Counterfeiting]], and the danger of passively consuming AI output. The synthesis document notes this honestly: "A reader who passively reads AI-generated reports about why passive reading doesn't produce learning is caught in a performative contradiction." The appropriate response is not to dismiss the content but to engage with it actively — elaborating, questioning, connecting to experience, and testing against one's own PKB practice.
 
 **Epistemic Transparency.** The report generation architecture requires explicit epistemic stratification: distinguishing (1) empirically established claims (meta-analytic support), (2) theoretical integrations (convergent evidence), and (3) Claude's original analytical synthesis (novel contributions flagged as such). This three-tier epistemic transparency is maintained throughout the series through the `> [!methodology-and-sources]` callout in each report's appendix.
 
@@ -359,7 +359,7 @@ The [[pkm-pkb-framework-synthesis|Comprehensive Synthesis]] (produced by Claude 
 
 **The Five Convergence Zones.** Points where independent research traditions converge on the same structural requirements — providing the strongest available form of evidence in the social sciences for design decisions.
 
-**The Three-Concept Diagnostic Chain.** [[fluency-illusion]] (mechanism) → [[dunning-kruger-effect]] (systemic consequence) → [[Epistemic Counterfeiting]] (AI amplification). The synthesis identifies this as the single most important diagnostic for AI-integrated PKM design.
+**The Three-Concept Diagnostic Chain.** [[Fluency Illusion]] (mechanism) → [[dunning-kruger-effect]] (systemic consequence) → [[Epistemic Counterfeiting]] (AI amplification). The synthesis identifies this as the single most important diagnostic for AI-integrated PKM design.
 
 **The Pedagogical Pathway.** A five-stage recommended learning sequence for engaging with the series: (1) Cognitive Foundations (Reports 01, 02, 06), (2) Design Translation (Reports 09, 15, 17), (3) Regulatory Architecture (Reports 04, 12, 18, 20), (4) Advanced Integration (Reports 25, 26, 27), (5) Meta-Framework (Reports 28, 29, 30).
 
@@ -392,13 +392,13 @@ The companion report — [[pkm-pkb-framework-project-report-findings-future-2026
 ## References
 
 > [!cite] **Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**
-> Foundation of [[schema-theory]]. Demonstrated that memory is reconstructive, not reproductive.
+> Foundation of [[schema-theory-and-knowledge-organization]]. Demonstrated that memory is reconstructive, not reproductive.
 
 > [!cite] **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing*. MIT Press.**
-> Coined [[desirable-difficulties]]. Foundation of Reports 06, 16, 20.
+> Coined [[Desirable Difficulties (Robert Bjork, 1994)]]. Foundation of Reports 06, 16, 20.
 
 > [!cite] **Clark, A. & Chalmers, D.J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**
-> Foundation of [[extended-mind-theory]]. Theoretical grounding for the PKB as cognitive extension theme.
+> Foundation of [[Extended Mind Thesis (Clark & Chalmers, 1998)]]. Theoretical grounding for the PKB as cognitive extension theme.
 
 > [!cite] **Collins, A.M. & Loftus, E.F. (1975). A spreading-activation theory of semantic processing. *Psychological Review*, 82(6), 407–428.**
 > Foundation of [[Semantic-Networks]] and [[spreading-activation]].
@@ -428,7 +428,7 @@ The companion report — [[pkm-pkb-framework-project-report-findings-future-2026
 > Meta-analysis of 159 experiments finding [[Testing-Effect]] d = 0.50.
 
 > [!cite] **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.**
-> Foundation of [[cognitive-load-theory]].
+> Foundation of [[Cognitive Load Theory (CLT)]].
 
 > [!cite] **Zimmerman, B.J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice*, 41(2), 64–70.**
 > Foundation of the [[self-regulated-learning]] cycle.

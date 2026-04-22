@@ -845,7 +845,7 @@ Your script automatically assigns icons based on domain keywords. This helps you
       * **Connection:** Group I (`groupI_Tags`) contains the atomic components (CoT, Few-Shot) needed for your prompt library.
       * **Depth Potential:** Each tag in Group I warrants an atomic note defining that specific prompting technique.
       * **Knowledge Graph Role:** A "Collection" or "MOC" within the [[Prompt-Engineering]] domain.
-4.  [[cognitive-load-theory]]
+4.  [[Cognitive Load Theory (CLT)]]
       * **Connection:** Referenced in Group F (`cognitive-load-theory`), this is central to your learning domain.
       * **Depth Potential:** Deep dive into *intrinsic*, *extraneous*, and *germane* load (all present in your tag list).
       * **Knowledge Graph Role:** A foundational "Framework" note in the [[cognitive-science]] domain.

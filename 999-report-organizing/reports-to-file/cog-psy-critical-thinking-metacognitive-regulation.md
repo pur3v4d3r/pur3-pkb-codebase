@@ -114,7 +114,7 @@ related:
   - "[[Metacognitive-Awareness-Inventory|Metacognitive Awareness Inventory]]"
   - "[[epistemic-vigilance|Epistemic Vigilance]]"
   - "[[dual-process-theory|Dual Process Theory]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[argument-analysis|Argument Analysis]]"
   - "[[Decision-Making-Under-Uncertainty|Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
@@ -370,7 +370,7 @@ quality_assessment:
 > You likely have these prerequisites if you've: completed foundational coursework in critical thinking, logic, or reasoning; read introductory texts on thinking skills; or demonstrated practical analytical ability in academic or professional contexts.
 >
 > **Helpful Background**:
-> While not required, understanding of the following would enhance comprehension: [[dual-process-theory|Dual Process Theory]] (System 1 vs. System 2 thinking), [[cognitive-load-theory|Cognitive Load Theory]] (working memory constraints affecting reasoning), [[argumentation-theory|Argumentation Theory]] (informal logic and argument mapping), [[decision-theory|Decision Theory]] (expected value, probability reasoning), [[scientific-method|Scientific Method]] (hypothesis testing, falsification).
+> While not required, understanding of the following would enhance comprehension: [[dual-process-theory|Dual Process Theory]] (System 1 vs. System 2 thinking), [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] (working memory constraints affecting reasoning), [[argumentation-theory|Argumentation Theory]] (informal logic and argument mapping), [[decision-theory|Decision Theory]] (expected value, probability reasoning), [[scientific-method|Scientific Method]] (hypothesis testing, falsification).
 >
 > **Prerequisite Gaps to Address**:
 > If your foundational knowledge is limited, consider first developing: [[introduction-to-critical-thinking|Introduction to Critical Thinking]] - core concepts and importance; [[argument-analysis-fundamentals|Argument Analysis Fundamentals]] - identifying and evaluating basic arguments; [[introduction-to-metacognition|Introduction to Metacognition]] - self-monitoring and self-regulation basics. These can be pursued before or in parallel with this topic, but foundational understanding will maximize learning value.
@@ -502,7 +502,7 @@ quality_assessment:
 > 
 > [DEPTH_LEVEL]: In-depth technical analysis with strong practical application focus
 > 
-> [EXISTING_CONCEPTS]: [[metacognition]], [[dual-process-theory|Dual Process Theory]], [[cognitive-load-theory|Cognitive Load Theory]], [[argument-analysis|Argument Analysis]], [[decision-making|Decision Making]], [[cognitive-biases|Cognitive Biases]], [[scientific-reasoning|Scientific Reasoning]], [[epistemic-vigilance|Epistemic Vigilance]]
+> [EXISTING_CONCEPTS]: [[metacognition]], [[dual-process-theory|Dual Process Theory]], [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], [[argument-analysis|Argument Analysis]], [[decision-making|Decision Making]], [[cognitive-biases|Cognitive Biases]], [[scientific-reasoning|Scientific Reasoning]], [[epistemic-vigilance|Epistemic Vigilance]]
 > 
 > [SPECIAL_REQUIREMENTS]: 
 > - Emphasize PRACTICAL APPLICATION over pure theory (user already has foundations)
@@ -1053,7 +1053,7 @@ PENCRISAL demonstrates strong psychometric properties: test-retest reliability $
 > - [[decision-making|Decision Making]] → Decision-Making (DM) dimension
 > - [[scientific-reasoning|Scientific Reasoning]] → Inductive Reasoning (IR) + Problem-Solving (PS)
 > - [[dual-process-theory|Dual Process Theory]] → Explains when heuristic (System 1) vs deliberate (System 2) reasoning is deployed
-> - [[cognitive-load-theory|Cognitive Load Theory]] → Informs why complex problems require systematic decomposition
+> - [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] → Informs why complex problems require systematic decomposition
 
 ---
 
@@ -1478,7 +1478,7 @@ These portable standards enable quality assessment even in unfamiliar domains—
 > This exposition connects to your existing vault:
 > - [[metacognition]] ← Detailed operational architecture presented here
 > - [[dual-process-theory|Dual Process Theory]] ← Explains when System 1 heuristics vs System 2 deliberation deploy
-> - [[cognitive-load-theory|Cognitive Load Theory]] ← Constrains working memory during analytical processing
+> - [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] ← Constrains working memory during analytical processing
 > - [[argument-analysis|Argument Analysis]] ← Practical reasoning dimension of PENCRISAL
 > - [[decision-making|Decision Making]] ← Decision-making dimension of PENCRISAL  
 > - [[cognitive-biases|Cognitive Biases]] ← Error patterns requiring debugging protocols

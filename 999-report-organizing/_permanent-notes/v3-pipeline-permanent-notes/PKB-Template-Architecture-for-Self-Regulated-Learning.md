@@ -82,7 +82,7 @@ importance: high
 - [[Fluency-Illusion|Fluency Illusion]]
 - [[John-H.-Flavell-1928–|John H. Flavell (1928–)]]
 - [[Knowledge-Graph-Integration|Knowledge Graph Integration]]
-- [[Metacognitive-Calibration-Training-Protocols|Metacognitive Calibration Training Protocols]]
+- [[Metacognitive Calibration Training Protocols|Metacognitive Calibration Training Protocols]]
 - [[Metacognitive-Development-Across-Expertise-Levels-From-Novice-to-Expert-Self-Reg|Metacognitive Development Across Expertise Levels From Novice to Expert Self-Regulation]]
 - [[Metacognitive-Knowledge-Flavell|Metacognitive Knowledge (Flavell)]]
 - *...and 52 more permanent notes*

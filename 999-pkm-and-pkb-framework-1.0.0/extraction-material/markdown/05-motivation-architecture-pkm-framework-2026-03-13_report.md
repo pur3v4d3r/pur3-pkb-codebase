@@ -179,7 +179,7 @@ extraction_summary:
 #### 6. [CROSS-DOMAIN-CONNECTION] The Structural Isomorphism: SDT's Autonomy and Stoic Control *(Line 158)*
 
 > [!cross-domain-connection] The Structural Isomorphism: SDT's Autonomy and Stoic Control
-> At first glance, [[self-determination-theory|Self-Determination Theory]]'s concept of [[autonomous-motivation|Autonomous Motivation]] and [[Stoic-Philosophy|Stoic Philosophy]]'s [[Dichotomy-of-Control|Dichotomy of Control]] (eph' hēmin / ouk eph' hēmin) address entirely different problems — one is a motivational psychology framework, the other an ancient Greco-Roman philosophical practice. But they share a deep structural claim: that the quality of motivational engagement depends fundamentally on where one locates the locus of agency. SDT holds that intrinsic motivation requires *perceived autonomy* — the sense that one's actions are self-initiated rather than externally coerced. Stoicism holds that flourishing requires *directing attention to what is genuinely "up to us"* — our effort, our judgment, our interpretation — rather than to what is not, including outcomes, other people's evaluations, and external circumstances. Both traditions, by completely independent routes, arrive at the same prescriptive conclusion: engagement is most robust when it is organized around one's own activity rather than its external reception. For PKB design, this convergence is diagnostic: a system that ties motivation primarily to outcomes (completion rates, streak maintenance, note counts) is architecturally fragile. A system that focuses motivational attention on the activity itself — the thinking, the connecting, the questioning — is architecturally resilient.
+> At first glance, [[self-determination-theory|Self-Determination Theory]]'s concept of [[Autonomous Motivation|Autonomous Motivation]] and [[Stoic-Philosophy|Stoic Philosophy]]'s [[Dichotomy-of-Control|Dichotomy of Control]] (eph' hēmin / ouk eph' hēmin) address entirely different problems — one is a motivational psychology framework, the other an ancient Greco-Roman philosophical practice. But they share a deep structural claim: that the quality of motivational engagement depends fundamentally on where one locates the locus of agency. SDT holds that intrinsic motivation requires *perceived autonomy* — the sense that one's actions are self-initiated rather than externally coerced. Stoicism holds that flourishing requires *directing attention to what is genuinely "up to us"* — our effort, our judgment, our interpretation — rather than to what is not, including outcomes, other people's evaluations, and external circumstances. Both traditions, by completely independent routes, arrive at the same prescriptive conclusion: engagement is most robust when it is organized around one's own activity rather than its external reception. For PKB design, this convergence is diagnostic: a system that ties motivation primarily to outcomes (completion rates, streak maintenance, note counts) is architecturally fragile. A system that focuses motivational attention on the activity itself — the thinking, the connecting, the questioning — is architecturally resilient.
 
 #### 7. [DEFINITION] Dichotomy of Control (Epictetus, Enchiridion — Stoic Philosophy) *(Line 165)*
 
@@ -318,17 +318,17 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[self-determination-theory|Self-Determination Theory]]** — SDT is the primary motivational framework in this report and should be a major node in your knowledge graph. Connecting it to notes on [[cognitive-evaluation-theory|Cognitive Evaluation Theory]], [[organismic-integration-theory]], and [[basic-psychological-needs|Basic Psychological Needs]] will create a rich sub-network within your PKB. When linking to educational practice notes, SDT connections should appear throughout.
+> - **[[self-determination-theory|Self-Determination Theory]]** — SDT is the primary motivational framework in this report and should be a major node in your knowledge graph. Connecting it to notes on [[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]], [[organismic-integration-theory]], and [[Basic Psychological Needs|Basic Psychological Needs]] will create a rich sub-network within your PKB. When linking to educational practice notes, SDT connections should appear throughout.
 > 
 > - **[[achievement-goal-theory|Achievement Goal Theory]]** — AGT links naturally to all notes on learning strategy, academic performance, and educational design. The mastery/performance distinction connects to [[assessment-design|Assessment Design]], [[feedback-design|Feedback Design]], and [[Learning Environment Design]] — a rich interconnection hub.
 > 
-> - **[[Stoic-Philosophy|Stoic Philosophy]]** — Your Stoic notes (if any exist) should now connect explicitly to motivational psychology notes, not merely to philosophy notes. The [[Dichotomy-of-Control|Dichotomy of Control]] → [[autonomous-motivation|Autonomous Motivation]] connection is a particularly high-value bidirectional link. [[Premeditatio-Malorum|Premeditatio Malorum]] should connect to [[implementation-intentions|Implementation Intentions]] and [[Obstacle Planning]] in your PKB.
+> - **[[Stoic-Philosophy|Stoic Philosophy]]** — Your Stoic notes (if any exist) should now connect explicitly to motivational psychology notes, not merely to philosophy notes. The [[Dichotomy-of-Control|Dichotomy of Control]] → [[Autonomous Motivation|Autonomous Motivation]] connection is a particularly high-value bidirectional link. [[Premeditatio-Malorum|Premeditatio Malorum]] should connect to [[goal-intention|Implementation Intentions]] and [[Obstacle Planning]] in your PKB.
 > 
-> - **[[gamification]]** — Your PKB likely has existing notes on gamification (from technology, education, or productivity contexts). This report substantially complicates the gamification narrative — the existing note should link to SDT's [[cognitive-evaluation-theory|Cognitive Evaluation Theory]] for the undermining mechanism, and to Stoic [[Dichotomy-of-Control|Dichotomy of Control]] for the outcome-contingency problem.
+> - **[[gamification]]** — Your PKB likely has existing notes on gamification (from technology, education, or productivity contexts). This report substantially complicates the gamification narrative — the existing note should link to SDT's [[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]] for the undermining mechanism, and to Stoic [[Dichotomy-of-Control|Dichotomy of Control]] for the outcome-contingency problem.
 > 
 > - **[[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]** — The replication complexity discussed in Phase III is an important epistemic note: existing mindset notes in your PKB should be flagged with appropriate confidence levels. This report's AGT-based alternative (behavioral architecture over belief change) should be linked as a complementary or alternative perspective.
 > 
-> - **[[intrinsic-motivation|Intrinsic Motivation]]** — A hub concept connecting to [[autonomy-need|Autonomy Need]], [[competence-need|Competence Need]], [[relatedness-need]], [[internalization]], and [[flow-theory]]. This should become a central node in your learning psychology sub-network.
+> - **[[Intrinsic Motivation|Intrinsic Motivation]]** — A hub concept connecting to [[autonomy-need|Autonomy Need]], [[competence-need|Competence Need]], [[relatedness-need]], [[internalization]], and [[flow-theory]]. This should become a central node in your learning psychology sub-network.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -486,14 +486,14 @@ extraction_summary:
 
 - [[achievement-goal-theory|Achievement Goal Theory]]
 - [[assessment-design|Assessment Design]]
-- [[autonomous-motivation|Autonomous Motivation]]
+- [[Autonomous Motivation|Autonomous Motivation]]
 - [[autonomy-need|Autonomy Need]]
-- [[basic-psychological-needs|Basic Psychological Needs]]
-- [[cognitive-evaluation-theory|Cognitive Evaluation Theory]]
+- [[Basic Psychological Needs|Basic Psychological Needs]]
+- [[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[competence-need|Competence Need]]
 - [[constructivism]]
-- [[controlled-motivation|Controlled Motivation]]
+- [[Controlled Motivation|Controlled Motivation]]
 - [[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[educational-psychology|Educational Psychology]]
@@ -504,10 +504,10 @@ extraction_summary:
 - [[gamification]]
 - [[Gamification in Learning Contexts — A Systematic Review and Design Critique]]
 - [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]
-- [[implementation-intentions|Implementation Intentions]]
+- [[goal-intention|Implementation Intentions]]
 - [[Interest Development Theory and the PKB Knowledge Niche]]
 - [[internalization]]
-- [[intrinsic-motivation|Intrinsic Motivation]]
+- [[Intrinsic Motivation|Intrinsic Motivation]]
 - [[Learning Environment Design]]
 - [[Learning-Experience-Design|Learning Experience Design]]
 - [[Mastery-Goals|Mastery Goals]]
@@ -549,8 +549,8 @@ extraction_summary:
 | 19 | [[autonomy-need|Autonomy Need]] | Autonomy | — | The Architecture of Self-Determination | 139 |
 | 20 | [[competence-need|Competence Need]] | Competence | — | The Architecture of Self-Determination | 139 |
 | 21 | [[relatedness-need]] | Relatedness | — | The Architecture of Self-Determination | 139 |
-| 22 | [[autonomous-motivation|Autonomous Motivation]] | — | — | The Architecture of Self-Determination | 141 |
-| 23 | [[controlled-motivation|Controlled Motivation]] | — | — | The Architecture of Self-Determination | 141 |
+| 22 | [[Autonomous Motivation|Autonomous Motivation]] | — | — | The Architecture of Self-Determination | 141 |
+| 23 | [[Controlled Motivation|Controlled Motivation]] | — | — | The Architecture of Self-Determination | 141 |
 | 24 | [[organismic-integration-theory]] | — | — | The Architecture of Self-Determination | 141 |
 | 25 | [[achievement-goal-theory|Achievement Goal Theory]] | — | — | Goal Orientation and the Phenomenolog... | 148 |
 | 26 | [[Mastery-Goals|Mastery Goals]] | — | — | Goal Orientation and the Phenomenolog... | 151 |
@@ -558,30 +558,30 @@ extraction_summary:
 | 28 | [[fixed-mindset]] | — | — | Goal Orientation and the Phenomenolog... | 156 |
 | 29 | [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]] | — | — | Goal Orientation and the Phenomenolog... | 156 |
 | 30 | [[self-determination-theory|Self-Determination Theory]] | — | — | Goal Orientation and the Phenomenolog... | 159 |
-| 31 | [[autonomous-motivation|Autonomous Motivation]] | — | — | Goal Orientation and the Phenomenolog... | 159 |
+| 31 | [[Autonomous Motivation|Autonomous Motivation]] | — | — | Goal Orientation and the Phenomenolog... | 159 |
 | 32 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Goal Orientation and the Phenomenolog... | 159 |
 | 33 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Goal Orientation and the Phenomenolog... | 159 |
-| 34 | [[cognitive-evaluation-theory|Cognitive Evaluation Theory]] | — | — | The SDT Evidence Base | 191 |
+| 34 | [[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]] | — | — | The SDT Evidence Base | 191 |
 | 35 | [[constructivism]] | — | — | Goal Orientation as Filter for PKB Ex... | 258 |
 | 36 | [[self-determination-theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 385 |
-| 37 | [[cognitive-evaluation-theory|Cognitive Evaluation Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 385 |
+| 37 | [[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 385 |
 | 38 | [[organismic-integration-theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 385 |
-| 39 | [[basic-psychological-needs|Basic Psychological Needs]] | — | — | Phase VII: PKB Connections & Cross-Re... | 385 |
+| 39 | [[Basic Psychological Needs|Basic Psychological Needs]] | — | — | Phase VII: PKB Connections & Cross-Re... | 385 |
 | 40 | [[achievement-goal-theory|Achievement Goal Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 387 |
 | 41 | [[assessment-design|Assessment Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 387 |
 | 42 | [[feedback-design|Feedback Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 387 |
 | 43 | [[Learning Environment Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 387 |
 | 44 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 45 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
-| 46 | [[autonomous-motivation|Autonomous Motivation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
+| 46 | [[Autonomous Motivation|Autonomous Motivation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 47 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
-| 48 | [[implementation-intentions|Implementation Intentions]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
+| 48 | [[goal-intention|Implementation Intentions]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 49 | [[Obstacle Planning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 389 |
 | 50 | [[gamification]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
-| 51 | [[cognitive-evaluation-theory|Cognitive Evaluation Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
+| 51 | [[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
 | 52 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Phase VII: PKB Connections & Cross-Re... | 391 |
 | 53 | [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]] | — | — | Phase VII: PKB Connections & Cross-Re... | 393 |
-| 54 | [[intrinsic-motivation|Intrinsic Motivation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
+| 54 | [[Intrinsic Motivation|Intrinsic Motivation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 55 | [[autonomy-need|Autonomy Need]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 56 | [[competence-need|Competence Need]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 57 | [[relatedness-need]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
@@ -607,14 +607,14 @@ extraction_summary:
 
 - [[achievement-goal-theory|Achievement Goal Theory]]
 - [[assessment-design|Assessment Design]]
-- [[autonomous-motivation|Autonomous Motivation]]
+- [[Autonomous Motivation|Autonomous Motivation]]
 - [[autonomy-need|Autonomy Need]]
-- [[basic-psychological-needs|Basic Psychological Needs]]
-- [[cognitive-evaluation-theory|Cognitive Evaluation Theory]]
+- [[Basic Psychological Needs|Basic Psychological Needs]]
+- [[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[competence-need|Competence Need]]
 - [[constructivism]]
-- [[controlled-motivation|Controlled Motivation]]
+- [[Controlled Motivation|Controlled Motivation]]
 - [[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[educational-psychology|Educational Psychology]]
@@ -625,10 +625,10 @@ extraction_summary:
 - [[gamification]]
 - [[Gamification in Learning Contexts — A Systematic Review and Design Critique]]
 - [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]
-- [[implementation-intentions|Implementation Intentions]]
+- [[goal-intention|Implementation Intentions]]
 - [[Interest Development Theory and the PKB Knowledge Niche]]
 - [[internalization]]
-- [[intrinsic-motivation|Intrinsic Motivation]]
+- [[Intrinsic Motivation|Intrinsic Motivation]]
 - [[Learning Environment Design]]
 - [[Learning-Experience-Design|Learning Experience Design]]
 - [[Mastery-Goals|Mastery Goals]]
@@ -655,21 +655,21 @@ extraction_summary:
 #### Related Concepts
 
 - [[self-determination-theory|Self-Determination Theory]]
-- [[basic-psychological-needs|Basic Psychological Needs]]
+- [[Basic Psychological Needs|Basic Psychological Needs]]
 - [[autonomy-need|Autonomy Need]]
 - [[competence-need|Competence Need]]
 - [[relatedness-need]]
-- [[intrinsic-motivation|Intrinsic Motivation]]
+- [[Intrinsic Motivation|Intrinsic Motivation]]
 - [[extrinsic-motivation]]
-- [[controlled-motivation|Controlled Motivation]]
-- [[autonomous-motivation|Autonomous Motivation]]
+- [[Controlled Motivation|Controlled Motivation]]
+- [[Autonomous Motivation|Autonomous Motivation]]
 - [[achievement-goal-theory|Achievement Goal Theory]]
 - [[Mastery-Goals|Mastery Goals]]
 - [[performance-goals|Performance Goals]]
 - [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]
 - [[fixed-mindset]]
 - [[implicit-theory-of-intelligence]]
-- [[cognitive-evaluation-theory|Cognitive Evaluation Theory]]
+- [[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]]
 - [[organismic-integration-theory]]
 - [[internalization]]
 - [[identified-regulation]]

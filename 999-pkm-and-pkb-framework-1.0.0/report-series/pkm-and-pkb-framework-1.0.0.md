@@ -62,19 +62,19 @@
 These reports establish the scientific and philosophical foundations that every subsequent report builds upon.
 
 **Report 01: Foundations of Knowledge Architecture — How the Mind Organizes What It Knows**
-- **Synthesis Focus**: How do [[schema-theory|Schema Theory]], [[Knowledge-Organization-Systems|Knowledge Organization Systems]], and [[constructivism]] converge to inform the structural design of a PKB? What does cognitive science tell us about how knowledge should be stored to match how the mind retrieves it?
+- **Synthesis Focus**: How do [[schema-theory-and-knowledge-organization|Schema Theory]], [[Knowledge-Organization-Systems|Knowledge Organization Systems]], and [[constructivism]] converge to inform the structural design of a PKB? What does cognitive science tell us about how knowledge should be stored to match how the mind retrieves it?
 - **Disciplines**: Cognitive Psychology (schemas, memory), Knowledge Management (taxonomies, ontologies), Constructivism (knowledge construction), Information Science (retrieval)
 - **PKM/PKB Design Target**: Folder structure, note architecture, linking strategy, metadata design
 - **Feeds into**: Reports 02, 03, 06, 09, 15
 
 **Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design**
-- **Synthesis Focus**: How do [[cognitive-load-theory|Cognitive Load Theory]], [[working-memory|Working Memory]] constraints, and [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] principles intersect to determine what makes a PKB note learnable vs. overwhelming?
+- **Synthesis Focus**: How do [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], [[working-memory|Working Memory]] constraints, and [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] principles intersect to determine what makes a PKB note learnable vs. overwhelming?
 - **Disciplines**: Cognitive Psychology (CLT, working memory), Instructional Design (Merrill, Sweller), Learning Experience Design (information architecture)
 - **PKM/PKB Design Target**: Note complexity management, progressive disclosure, chunking strategies, review interface design
 - **Builds on**: Report 01 | **Feeds into**: Reports 04, 07, 10, 16
 
 **Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB**
-- **Synthesis Focus**: How do [[constructivism]], [[Elaboration-Theory|Elaboration Theory]], and [[schema-theory|Schema Theory]] together explain the process of knowledge construction, and what does this mean for how notes should link, layer, and reference each other?
+- **Synthesis Focus**: How do [[constructivism]], [[Elaboration-Theory|Elaboration Theory]], and [[schema-theory-and-knowledge-organization|Schema Theory]] together explain the process of knowledge construction, and what does this mean for how notes should link, layer, and reference each other?
 - **Disciplines**: Educational Philosophy (constructivism), Cognitive Psychology (schema development), Instructional Design (elaboration theory, sequencing)
 - **PKM/PKB Design Target**: Note linking philosophy, progressive note development, knowledge scaffolding sequences
 - **Builds on**: Reports 01, 02 | **Feeds into**: Reports 05, 08, 11, 17
@@ -92,7 +92,7 @@ These reports establish the scientific and philosophical foundations that every 
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 08, 10, 13, 19
 
 **Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design**
-- **Synthesis Focus**: How do [[spaced-repetition-spacing-effect|Spacing Effect]], [[testing-effect-retrieval-practice-effect|Testing Effect]], [[interleaving]], and [[desirable-difficulties|Desirable Difficulties]] research combine with [[encoding-specificity|Encoding Specificity]] to inform PKB review and retrieval systems?
+- **Synthesis Focus**: How do [[spaced-repetition-spacing-effect|Spacing Effect]], [[testing-effect-retrieval-practice-effect|Testing Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], and [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] research combine with [[encoding-specificity|Encoding Specificity]] to inform PKB review and retrieval systems?
 - **Disciplines**: Cognitive Psychology (memory research), Psychology of Learning (spacing, testing), Educational Psychology (transfer), Knowledge Management (retrieval systems)
 - **PKM/PKB Design Target**: Spaced repetition integration, active recall workflows, interleaved review, retrieval practice embedded in PKB
 - **Builds on**: Reports 01, 02, 04 | **Feeds into**: Reports 09, 12, 16, 20
@@ -121,7 +121,7 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Complete PKB structural design framework
 
 **Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise**
-- **Synthesis Focus**: How do [[pedagogy]], [[andragogy]], and [[heutagogy]] — combined with [[cognitive-load-theory|Cognitive Load Theory]]'s expertise reversal effect — inform how PKB scaffolding should evolve as the user's expertise grows?
+- **Synthesis Focus**: How do [[pedagogy]], [[andragogy]], and [[heutagogy]] — combined with [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]'s expertise reversal effect — inform how PKB scaffolding should evolve as the user's expertise grows?
 - **Disciplines**: Educational Science (pedagogy/andragogy/heutagogy), Cognitive Psychology (expertise reversal), Instructional Design (scaffolding/fading), Self-Regulated Learning
 - **PKM/PKB Design Target**: Adaptive note structures, progressive complexity, expertise-sensitive review
 
@@ -151,12 +151,12 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Tag system architecture, emergent vs. imposed structure, scalable organization patterns
 
 **Report 16: Desirable Difficulties by Design — Making PKM Productively Hard**
-- **Synthesis Focus**: How do [[desirable-difficulties|Desirable Difficulties]], [[generation-effect|Generation Effect]], [[interleaving]], and [[Constructivist-Struggle|Constructivist Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
+- **Synthesis Focus**: How do [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]], [[generation-effect|Generation Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], and [[Constructivist-Struggle|Constructivist Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
 - **Disciplines**: Psychology of Learning, Cognitive Psychology, Constructivism, Instructional Design
 - **PKM/PKB Design Target**: Effortful processing workflows, generation-based review, interleaved study paths
 
 **Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn**
-- **Synthesis Focus**: How do research on [[writing-to-learn|Writing to Learn]], [[elaborative-interrogation|Elaborative Interrogation]], [[self-explanation]], and [[schema-construction|Schema Construction]] inform the actual process of creating notes — moving from passive capture to active knowledge construction?
+- **Synthesis Focus**: How do research on [[writing-to-learn|Writing to Learn]], [[Elaborative Interrogation|Elaborative Interrogation]], [[self-explanation-effect]], and [[Schema Construction|Schema Construction]] inform the actual process of creating notes — moving from passive capture to active knowledge construction?
 - **Disciplines**: Cognitive Psychology (elaboration, self-explanation), Educational Psychology (writing to learn), Constructivism, Knowledge Management
 - **PKM/PKB Design Target**: Note-making workflows, elaboration prompts, progressive summarization, knowledge construction templates
 
@@ -588,12 +588,12 @@ secondary_domains:
 related_concepts:
   - "[[personal-knowledge-management|Personal Knowledge Management]]"
   - "[[personal-knowledge-base|Personal Knowledge Base]]"
-  - "[[lifelong-learning]]"
+  - "[[Lifelong Learning]]"
   - "[[metacognition]]"
   - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
   - "[[constructivism]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[self-determination-theory|Self-Determination Theory]]"
   - "[[pragmatism]]"
   - "[[Stoic-Philosophy|Stoic Philosophy]]"
@@ -902,14 +902,14 @@ Every report draws from a core set of disciplines, using them as complementary l
 
 | Discipline | What It Contributes | Key Frameworks |
 |-----------|-------------------|----------------|
-| **[[cognitive-science|Cognitive Science]]** | How the mind processes, stores, and retrieves information | [[dual-process-theory|Dual-Process Theory]], [[working-memory|Working Memory]], [[cognitive-architecture|Cognitive Architecture]] |
-| **[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[schema-theory|Schema Theory]], [[cognitive-load-theory|Cognitive Load Theory]], [[encoding-specificity|Encoding Specificity]] |
+| **[[cognitive-science|Cognitive Science]]** | How the mind processes, stores, and retrieves information | [[dual-process-theory|Dual-Process Theory]], [[working-memory|Working Memory]], [[Cognitive Architecture|Cognitive Architecture]] |
+| **[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[schema-theory-and-knowledge-organization|Schema Theory]], [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], [[encoding-specificity|Encoding Specificity]] |
 | **[[educational-psychology|Educational Psychology]]** | Learning processes, motivation, assessment, development | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[achievement-goal-theory|Achievement Goal Theory]], [[transfer]] |
 | **[[Educational-Philosophy|Educational Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[pragmatism]], [[constructivism]], [[Critical Pedagogy]] |
 | **[[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration-Theory|Elaboration Theory]] |
 | **[[Learning-Experience-Design|Learning Experience Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
 | **[[knowledge-management|Knowledge Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model|SECI Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems|Knowledge Organization Systems]] |
-| **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[spaced-repetition-spacing-effect|Spacing Effect]], [[testing-effect-retrieval-practice-effect|Testing Effect]], [[interleaving]], [[desirable-difficulties|Desirable Difficulties]] |
+| **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[spaced-repetition-spacing-effect|Spacing Effect]], [[testing-effect-retrieval-practice-effect|Testing Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] |
 | **[[Stoic-Philosophy|Stoic Philosophy]]** | Resilience, emotional regulation, virtue-based growth | [[Dichotomy-of-Control|Dichotomy of Control]], [[Premeditatio-Malorum|Premeditatio Malorum]], [[virtue-ethics]] |
 | **[[Socratic Philosophy]]** | Inquiry, self-examination, dialogue-based learning | [[Socratic-Method-Elenchus|Socratic Method]], [[Socratic-Method-Elenchus|Elenchus]], [[aporia]] |
 | **[[metacognition]]** | Thinking about thinking, self-monitoring, calibration | [[metacognitive-regulation|Metacognitive Regulation]], [[calibration]], [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] |
@@ -1669,19 +1669,19 @@ The following registry defines 30 reports designed to build cumulatively toward 
 These reports establish the scientific and philosophical foundations that every subsequent report builds upon.
 
 **Report 01: Foundations of Knowledge Architecture — How the Mind Organizes What It Knows**
-- **Synthesis Focus**: How do [[schema-theory|Schema Theory]], [[Knowledge-Organization-Systems|Knowledge Organization Systems]], and [[constructivism]] converge to inform the structural design of a PKB? What does cognitive science tell us about how knowledge should be stored to match how the mind retrieves it?
+- **Synthesis Focus**: How do [[schema-theory-and-knowledge-organization|Schema Theory]], [[Knowledge-Organization-Systems|Knowledge Organization Systems]], and [[constructivism]] converge to inform the structural design of a PKB? What does cognitive science tell us about how knowledge should be stored to match how the mind retrieves it?
 - **Disciplines**: Cognitive Psychology (schemas, memory), Knowledge Management (taxonomies, ontologies), Constructivism (knowledge construction), Information Science (retrieval)
 - **PKM/PKB Design Target**: Folder structure, note architecture, linking strategy, metadata design
 - **Feeds into**: Reports 02, 03, 06, 09, 15
 
 **Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design**
-- **Synthesis Focus**: How do [[cognitive-load-theory|Cognitive Load Theory]], [[working-memory|Working Memory]] constraints, and [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] principles intersect to determine what makes a PKB note learnable vs. overwhelming?
+- **Synthesis Focus**: How do [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], [[working-memory|Working Memory]] constraints, and [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] principles intersect to determine what makes a PKB note learnable vs. overwhelming?
 - **Disciplines**: Cognitive Psychology (CLT, working memory), Instructional Design (Merrill, Sweller), Learning Experience Design (information architecture)
 - **PKM/PKB Design Target**: Note complexity management, progressive disclosure, chunking strategies, review interface design
 - **Builds on**: Report 01 | **Feeds into**: Reports 04, 07, 10, 16
 
 **Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB**
-- **Synthesis Focus**: How do [[constructivism]], [[Elaboration-Theory|Elaboration Theory]], and [[schema-theory|Schema Theory]] together explain the process of knowledge construction, and what does this mean for how notes should link, layer, and reference each other?
+- **Synthesis Focus**: How do [[constructivism]], [[Elaboration-Theory|Elaboration Theory]], and [[schema-theory-and-knowledge-organization|Schema Theory]] together explain the process of knowledge construction, and what does this mean for how notes should link, layer, and reference each other?
 - **Disciplines**: Educational Philosophy (constructivism), Cognitive Psychology (schema development), Instructional Design (elaboration theory, sequencing)
 - **PKM/PKB Design Target**: Note linking philosophy, progressive note development, knowledge scaffolding sequences
 - **Builds on**: Reports 01, 02 | **Feeds into**: Reports 05, 08, 11, 17
@@ -1699,7 +1699,7 @@ These reports establish the scientific and philosophical foundations that every 
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 08, 10, 13, 19
 
 **Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design**
-- **Synthesis Focus**: How do [[spaced-repetition-spacing-effect|Spacing Effect]], [[testing-effect-retrieval-practice-effect|Testing Effect]], [[interleaving]], and [[desirable-difficulties|Desirable Difficulties]] research combine with [[encoding-specificity|Encoding Specificity]] to inform PKB review and retrieval systems?
+- **Synthesis Focus**: How do [[spaced-repetition-spacing-effect|Spacing Effect]], [[testing-effect-retrieval-practice-effect|Testing Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], and [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] research combine with [[encoding-specificity|Encoding Specificity]] to inform PKB review and retrieval systems?
 - **Disciplines**: Cognitive Psychology (memory research), Psychology of Learning (spacing, testing), Educational Psychology (transfer), Knowledge Management (retrieval systems)
 - **PKM/PKB Design Target**: Spaced repetition integration, active recall workflows, interleaved review, retrieval practice embedded in PKB
 - **Builds on**: Reports 01, 02, 04 | **Feeds into**: Reports 09, 12, 16, 20
@@ -1728,7 +1728,7 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Complete PKB structural design framework
 
 **Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise**
-- **Synthesis Focus**: How do [[pedagogy]], [[andragogy]], and [[heutagogy]] — combined with [[cognitive-load-theory|Cognitive Load Theory]]'s expertise reversal effect — inform how PKB scaffolding should evolve as the user's expertise grows?
+- **Synthesis Focus**: How do [[pedagogy]], [[andragogy]], and [[heutagogy]] — combined with [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]'s expertise reversal effect — inform how PKB scaffolding should evolve as the user's expertise grows?
 - **Disciplines**: Educational Science (pedagogy/andragogy/heutagogy), Cognitive Psychology (expertise reversal), Instructional Design (scaffolding/fading), Self-Regulated Learning
 - **PKM/PKB Design Target**: Adaptive note structures, progressive complexity, expertise-sensitive review
 
@@ -1758,12 +1758,12 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Tag system architecture, emergent vs. imposed structure, scalable organization patterns
 
 **Report 16: Desirable Difficulties by Design — Making PKM Productively Hard**
-- **Synthesis Focus**: How do [[desirable-difficulties|Desirable Difficulties]], [[generation-effect|Generation Effect]], [[interleaving]], and [[Constructivist-Struggle|Constructivist Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
+- **Synthesis Focus**: How do [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]], [[generation-effect|Generation Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], and [[Constructivist-Struggle|Constructivist Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
 - **Disciplines**: Psychology of Learning, Cognitive Psychology, Constructivism, Instructional Design
 - **PKM/PKB Design Target**: Effortful processing workflows, generation-based review, interleaved study paths
 
 **Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn**
-- **Synthesis Focus**: How do research on [[writing-to-learn|Writing to Learn]], [[elaborative-interrogation|Elaborative Interrogation]], [[self-explanation]], and [[schema-construction|Schema Construction]] inform the actual process of creating notes — moving from passive capture to active knowledge construction?
+- **Synthesis Focus**: How do research on [[writing-to-learn|Writing to Learn]], [[Elaborative Interrogation|Elaborative Interrogation]], [[self-explanation-effect]], and [[Schema Construction|Schema Construction]] inform the actual process of creating notes — moving from passive capture to active knowledge construction?
 - **Disciplines**: Cognitive Psychology (elaboration, self-explanation), Educational Psychology (writing to learn), Constructivism, Knowledge Management
 - **PKM/PKB Design Target**: Note-making workflows, elaboration prompts, progressive summarization, knowledge construction templates
 
@@ -2152,7 +2152,7 @@ related_concepts:
   - "[[Foundational Report Architecture]]"
   - "[[Chain of Density]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -3138,7 +3138,7 @@ related_concepts:
   - "[[Focused Analysis Report Architecture]]"
   - "[[Chain of Density]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -3591,7 +3591,7 @@ The Cognitive Engagement Architecture addresses all three weaknesses by deployin
 
 **Purpose**: Test the reader's understanding of a critical concept BEFORE the report builds on it. This prevents the common failure mode where a reader loses the thread early but continues reading without real comprehension.
 
-**Cognitive Science Basis**: [[elaborative-interrogation|Elaborative Interrogation]] — asking "why?" and "how?" questions about material forces deeper processing and better integration with existing knowledge.
+**Cognitive Science Basis**: [[Elaborative Interrogation|Elaborative Interrogation]] — asking "why?" and "how?" questions about material forces deeper processing and better integration with existing knowledge.
 
 **Placement**: After introducing a critical concept that subsequent sections depend on. Placed within the text flow, not at section boundaries.
 
@@ -4939,7 +4939,7 @@ related:
   - "[[Metacognitive-Awareness-Inventory]]"
   - "[[epistemic-vigilance|Epistemic Vigilance]]"
   - "[[dual-process-theory|Dual Process Theory]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[argument-analysis]]"
   - "[[Decision-Making-Under-Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
@@ -5289,7 +5289,7 @@ assessment-instruments:
 >
 > - **[[Dual-Process-Thinking-Model]]** — Your project's implementation of this concept in extended thinking architecture is a direct application of Kahneman's framework. The `<thinking>` block as mandated System 2 engagement zone now has its theoretical grounding. Understanding the human cognitive science makes the architectural choice legible as cognitively informed design rather than arbitrary convention.
 >
-> - **[[metacognitive-scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
+> - **[[Metacognitive Scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
 >
 > - **[[ReAct-Framework]]** — The Research → Think → Act → Observe cycle is structurally isomorphic to Dewey's five phases of reflective thinking. ReAct is, in effect, Deweyan reflective inquiry encoded as an agentic architecture. This connection illuminates why ReAct works: it enforces the same cycle that cognitive science identifies as the structure of genuine inquiry.
 >

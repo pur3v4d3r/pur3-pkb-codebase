@@ -140,10 +140,10 @@ related:
   - "[[cyclical-model-of-self-regulated-learning]]"
   - "[[achievement-goal-theory]]"
   - "[[Self-Determination-Theory-—-Foundational-Report]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[expectancy-value-theory]]"
   - "[[Flavell's-Metacognitive-Framework]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[cog-sci-report-first-principles-reconstruction-self-regulated-learning-as-a-doma]]"
 
 broader:
@@ -185,7 +185,7 @@ builds-on:
   - "[[Flavell's-Metacognitive-Framework]]"
   - "[[achievement-goal-theory]]"
   - "[[expectancy-value-theory]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
 
 enables:
   - "[[deliberate-practice]]"
@@ -415,7 +415,7 @@ Phase 3 is where self-regulation actually happens — where the signals generate
 The Self-Reflection phase is the regulatory episode's conclusion — but it is also its input to the next episode. Post-task reflection generates the attributional analysis, evaluative judgments, and affective reactions that calibrate the learner's self-efficacy for future similar tasks, refine their metacognitive knowledge about effective strategies, and update their goal orientation stance.
 
 > [!definition] Attribution and Self-Regulation
-> Causal attribution — the learner's account of why the outcome occurred — is the crucial cognitive event of Phase 4. Following Weiner's [[attribution-theory|attribution theory]], outcomes can be attributed to stable internal causes (ability), unstable internal causes (effort), stable external causes (task difficulty), or unstable external causes (luck). Adaptive attributional patterns, in which success is attributed to stable-internal factors (ability and strategy) and failure is attributed to unstable-internal factors (effort, strategy choice), support the maintenance of self-efficacy and underwrite continued investment. Maladaptive attributions, in which failure is attributed to stable causes (fixed lack of ability) or success to external causes (luck), erode self-efficacy and reduce future regulatory engagement.
+> Causal attribution — the learner's account of why the outcome occurred — is the crucial cognitive event of Phase 4. Following Weiner's [[Attribution (Heider, 1958)|attribution theory]], outcomes can be attributed to stable internal causes (ability), unstable internal causes (effort), stable external causes (task difficulty), or unstable external causes (luck). Adaptive attributional patterns, in which success is attributed to stable-internal factors (ability and strategy) and failure is attributed to unstable-internal factors (effort, strategy choice), support the maintenance of self-efficacy and underwrite continued investment. Maladaptive attributions, in which failure is attributed to stable causes (fixed lack of ability) or success to external causes (luck), erode self-efficacy and reduce future regulatory engagement.
 
 **Cognition (Phase 4 × Cognition).**  The learner conducts cognitive judgments: "Did I achieve my cognitive goals?" "Which strategies were effective?" "What do I still not understand?" These judgments update [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] about the domain and [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] about the conditions under which particular strategies are effective — the strategic knowledge base that improves regulatory competence over repeated episodes.
 
@@ -664,7 +664,7 @@ This report synthesizes the primary literature (Pintrich's own publications), fo
 | [[Self-Determination-Theory-—-Foundational-Report]] | Complementary motivational framework | SDT's need-satisfaction model provides the deep motivational mechanism underlying goal orientation formation |
 | [[cyclical-model-of-self-regulated-learning]] | Primary theoretical complement | Zimmerman's cyclical dynamics and Pintrich's area differentiation together produce the most complete SRL account |
 | [[expectancy-value-theory]] | Direct theoretical source | Task value and self-efficacy constructs in MSLQ derived directly from Eccles-Wigfield EVT |
-| [[cognitive-load-theory]] | Interface constraint | CLT specifies working memory resource limits that constrain the cognitive strategies available for Phase 3 regulation |
+| [[Cognitive Load Theory (CLT)]] | Interface constraint | CLT specifies working memory resource limits that constrain the cognitive strategies available for Phase 3 regulation |
 | [[deliberate-practice]] | Applied practice framework | Deliberate practice operationalizes Pintrich's behavioral and cognitive regulation areas in expert skill development |
 | [[albert-bandura]] | Theoretical progenitor | Social cognitive foundations of the entire framework; self-efficacy construct centrality |
 | [[feedback-design-for-autonomy-and-mastery]] | Applied design intersection | Feedback design must scaffold SRL across all four areas; particularly targets Phase 4 attribution and self-efficacy calibration |

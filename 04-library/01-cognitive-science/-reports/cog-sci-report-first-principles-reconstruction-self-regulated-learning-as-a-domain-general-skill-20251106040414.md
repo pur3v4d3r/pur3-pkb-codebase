@@ -42,7 +42,7 @@ link-related:
 > [!abstract]
 > The conventional, widely accepted understanding of [[self-regulated-learning]] (SRL) presents it as a set of domain-general, transferable competencies. In this model, skills such as [[goal setting]], [[planning]], [[time management]], and [[metacognition]] are conceptualized as portable tools in a student's cognitive toolbox, ready to be deployed on any task, whether it be writing a history essay, solving a physics problem, or learning a new language. Educational institutions invest heavily in this paradigm, offering "study skills" workshops and "learning to learn" courses, all predicated on the assumption that these regulatory skills are distinct from, and can be applied to, the content being learned.
 > A first-principles approach, however, finds this assumption deeply unsatisfying. It triggers a need to deconstruct this "artifact" of the 'study skill' and ask what fundamental truths are being ignored. This approach is valuable here because the conventional model struggles to explain persistent real-world phenomena: why do "study skills" courses show notoriously poor transfer to actual disciplinary performance? Why does a student who excels at self-regulation in one domain (like a musician practicing) often appear to be a complete novice at regulating their learning in another (like statistics)? These discrepancies suggest the conventional model is built on unexamined assumptions, mistaking correlation for causation.
-> This analysis will systematically demolish the "SRL-as-general-skill" framework. We will begin by identifying the inherited assumptions and questioning their necessity. We will then dig down to the atomic axioms of human cognition—the unassailable facts of our [[cognitive-architecture]], such as the constraints of [[working-memory]] and the primacy of [[long-term-memory]]. From this bedrock, we will reconstruct a new understanding of self-regulation, not as a general-purpose skill we *apply*, but as a domain-specific, emergent *property* of deep, well-organized knowledge. This journey reveals that you do not become a good learner by learning "study skills"; you become a good learner by becoming a *knower* in a specific domain, and self-regulation is the shadow cast by that knowledge.
+> This analysis will systematically demolish the "SRL-as-general-skill" framework. We will begin by identifying the inherited assumptions and questioning their necessity. We will then dig down to the atomic axioms of human cognition—the unassailable facts of our [[Cognitive Architecture]], such as the constraints of [[working-memory]] and the primacy of [[long-term-memory]]. From this bedrock, we will reconstruct a new understanding of self-regulation, not as a general-purpose skill we *apply*, but as a domain-specific, emergent *property* of deep, well-organized knowledge. This journey reveals that you do not become a good learner by learning "study skills"; you become a good learner by becoming a *knower* in a specific domain, and self-regulation is the shadow cast by that knowledge.
 
 -----
 
@@ -208,7 +208,7 @@ So what raw materials do we have to work with in our reconstruction? We have thr
 >
 >   * **Observable Phenomena:** We have the observable, measurable phenomenon of the *Novice-Expert Gap*. We can see that experts in a domain behave differently than novices. They *do* plan, monitor, and reflect more effectively. Our new model *must* be able to explain *why* this happens, using only our axioms.
 >   * **Logical Operations:** We have the tools of logical deduction. If Axiom 1 and Axiom 2 are true, *then* what must follow?
->   * **Mathematical Framework:** The concept of [[cognitive-load-theory]] provides a mathematical and conceptual framework. It posits that *Total Load = Intrinsic Load + Extraneous Load + Germane Load*. Our axioms *require* this. The "load" is on [[working-memory]] (Axiom 1). The goal is to build schemas (Axiom 4) in [[long-term-memory]] (Axiom 2), which is the "germane" part. This framework is a direct consequence of our axioms.
+>   * **Mathematical Framework:** The concept of [[Cognitive Load Theory (CLT)]] provides a mathematical and conceptual framework. It posits that *Total Load = Intrinsic Load + Extraneous Load + Germane Load*. Our axioms *require* this. The "load" is on [[working-memory]] (Axiom 1). The goal is to build schemas (Axiom 4) in [[long-term-memory]] (Axiom 2), which is the "germane" part. This framework is a direct consequence of our axioms.
 >   * **Experimental Methods:** We can test any claim we derive. If we claim "X" is the mechanism, we can design an experiment to see if novices (no schema) and experts (schema) perform differently on task X, and whether this difference can be explained by [[working-memory]] limits.
 
 > [!helpful-tip]
@@ -221,7 +221,7 @@ So what raw materials do we have to work with in our reconstruction? We have thr
 
 ## 3.1 First Principles: The Axioms
 
-We will now state, with precision, the absolute minimum set of foundational truths—our axioms—from which all other understanding of learning must be derived. These are not assumptions; they are the fundamental laws of our [[cognitive-architecture]].
+We will now state, with precision, the absolute minimum set of foundational truths—our axioms—from which all other understanding of learning must be derived. These are not assumptions; they are the fundamental laws of our [[Cognitive Architecture]].
 
 > [!principle-point]
 > **Axiom 1: The [[working-memory]] Constraint**
@@ -445,7 +445,7 @@ We have arrived at a complete, rebuilt understanding of the topic.
 > **The Full Framework:**
 > Our reconstruction shows that the entire conventional understanding of [[self-regulated-learning]] was built on sand. It mistook superficial behaviors (labels like "planning") for fundamental cognitive skills.
 >
-> Our new framework, built on the bedrock axioms of [[cognitive-architecture]], proves that:
+> Our new framework, built on the bedrock axioms of [[Cognitive Architecture]], proves that:
 >
 > 1.  Learning is the acquisition of **domain-specific schemas** in **LTM** (Axioms 2, 3).
 > 2.  This is hard because **WM is limited** (Axiom 1).
@@ -819,7 +819,7 @@ Was this arduous, multi-thousand-word reconstruction worth it?
 >   * *Aristotle's* "First Principles" (Metaphysics)
 >   * *René Descartes'* "Discourse on the Method"
 >
-> **Primary Sources on [[cognitive-architecture]] & [[Domain-Specificity]] (Our Axioms and Derivations):**
+> **Primary Sources on [[Cognitive Architecture]] & [[Domain-Specificity]] (Our Axioms and Derivations):**
 >
 >   * [suspicious link removed] by *John Sweller* (Establishes Axioms 1, 3)
 >   * [Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching](https://www.google.com/search?q=https.www.researchgate.net/publication/226068808_Why_Minimal_Guidance_During_Instruction_Does_Not_Work_An_Analysis_of_the_Failure_of_Constructivist_Discovery_Problem-Based_Experiential_and_Inquiry-Based_Teaching) by *Kirschner, Sweller, & Clark* (Provides the foundation for T1.1 and T3.1)
@@ -846,8 +846,8 @@ Was this arduous, multi-thousand-word reconstruction worth it?
 
 ### 🔗 Related Topics for PKB Expansion
 
-  * [[cognitive-load-theory]]
-  * [[cognitive-architecture]]
+  * [[Cognitive Load Theory (CLT)]]
+  * [[Cognitive Architecture]]
   * [[Novice-Expert Gap]]
   * [[Schema (Psychology)]]
   * [[Domain-Specificity]] vs. [[Domain-Generality]]

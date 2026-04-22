@@ -25,7 +25,9 @@
       "Bash(pip install:*)",
       "Bash(git -C \"d:/10_pur3v4d3r''s-vault\" log --oneline -10)",
       "Bash(git -C \"d:/10_pur3v4d3r''s-vault\" show --stat HEAD)",
-      "Bash(powershell.exe -Command \"[System.Environment]::GetEnvironmentVariable\\(''ANTHROPIC_API_KEY'', ''User''\\)\")"
+      "Bash(powershell.exe -Command \"[System.Environment]::GetEnvironmentVariable\\(''ANTHROPIC_API_KEY'', ''User''\\)\")",
+      "Bash(curl -s http://localhost:11434/api/tags)",
+      "Bash(git -C \"d:/10_pur3v4d3r's-vault\" status --short)"
     ]
   }
 }

@@ -129,16 +129,16 @@ source_synthesis: "[[examined-life-synthesis]]"
 ### 6. Educational Psychology & Development
 
 #### 6.1 Learning Theory
-- **[[cognitive-load-theory]]** — Sweller's framework: intrinsic, extraneous, and germane cognitive load. [Source: R04] [Status: Established]
+- **[[Cognitive Load Theory (CLT)]]** — Sweller's framework: intrinsic, extraneous, and germane cognitive load. [Source: R04] [Status: Established]
 - **[[zone-of-proximal-development]]** — Vygotsky's concept: the space between what a learner can do alone and what they can do with guidance. [Source: R04, ref-vygotsky] [Status: Established]
-- **[[scaffolding]]** — Structured support that enables learning within the ZPD. [Source: R04, ref-vygotsky] [Status: Established]
+- **[[Scaffolded Fading]]** — Structured support that enables learning within the ZPD. [Source: R04, ref-vygotsky] [Status: Established]
 - **[[self-regulated-learning]]** — Zimmerman's framework: forethought → performance → self-reflection cycle. [Source: R07] [Status: Established]
 - **[[Recursive-Self-Authorship]]** — The capacity to design and manage one's own epistemic development. SRL ↔ SDT internalization homology. [Source: R07] [Status: Novel synthesis]
 
 #### 6.2 Motivation
 - **[[self-determination-theory]]** — Deci & Ryan: three innate needs — autonomy, competence, relatedness — driving intrinsic motivation. [Source: R03, ref-deci-ryan] [Status: Established]
 - **[[Cognitive-Vitality]]** — Self-sustaining motivational state fueling continued epistemic engagement. Synthesizes SDT intrinsic motivation with Stoic prohairesis. [Source: R03] [Status: Novel synthesis]
-- **[[internalization-continuum]]** — SDT's spectrum from external regulation → introjected → identified → integrated motivation. [Source: R03, R07] [Status: Established]
+- **[[internalization]]** — SDT's spectrum from external regulation → introjected → identified → integrated motivation. [Source: R03, R07] [Status: Established]
 
 #### 6.3 Developmental Framework
 - **[[5-Stage Developmental Model]]** — Adapted from Dreyfus and SDT internalization for the examined life. [Source: R15, staging note] [Status: Novel framework]

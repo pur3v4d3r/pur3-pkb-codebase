@@ -118,7 +118,7 @@ related:
   - "[[achievement-goal-theory|Achievement Goal Theory]]"
   - "[[neuroplasticity]]"
   - "[[formative-assessment|Formative Assessment]]"
-  - "[[productive-failure|Productive Failure]]"
+  - "[[Productive Failure|Productive Failure]]"
   - "[[self-efficacy-theory|Self-Efficacy Theory]]"
   - "[[Grit-and-Perseverance|Grit and Perseverance]]"
 
@@ -133,7 +133,7 @@ narrower:
 
 see-also:
   - "[[learned-helplessness|Learned Helplessness]]"
-  - "[[attribution-theory|Attribution Theory]]"
+  - "[[Attribution (Heider, 1958)|Attribution Theory]]"
   - "[[zone-of-proximal-development|Zone of Proximal Development]]"
   - "[[deliberate-practice|Deliberate Practice]]"
 
@@ -286,7 +286,7 @@ Phase II establishes the conceptual bedrock: precise definitions of growth and f
 
 The intellectual story of growth mindset begins not with a sudden discovery but with a decades-long research program rooted in a deceptively simple observation: different children respond to failure in profoundly different ways. In the 1970s, [[carol-dweck|Carol Dweck]], then a young researcher at the University of Illinois, began studying what she called "helpless" versus "mastery-oriented" response patterns. Some children, when encountering difficult problems, would quickly give up, disparage their own abilities, and perform worse on problems they had previously solved correctly. Others would lean into difficulty, maintain positive affect, and try harder strategies. Crucially, this split did not correlate neatly with measured intelligence — some high-ability children showed helpless patterns, and some lower-ability children showed remarkable resilience.
 
-The early explanation Dweck developed focused on [[attribution-theory|attribution theory]] — specifically, how children attributed their failures. Children who attributed failure to effort ("I didn't try hard enough") maintained motivation; those who attributed it to ability ("I'm just not smart enough") became helpless. But attribution was downstream of something deeper. In a pivotal theoretical development through the 1980s, Dweck and her colleagues — particularly [[mary-bandura|Mary Bandura]], [[Ellen-Leggett|Ellen Leggett]], and later [[claudia-mueller|Claudia Mueller]] — identified that the root variable was not attribution style per se but the implicit theory of intelligence underlying it. If you believe intelligence is fixed, then poor performance is devastating — it reveals what you fundamentally are. If you believe intelligence is malleable, then poor performance is informative — it reveals what you need to work on.
+The early explanation Dweck developed focused on [[Attribution (Heider, 1958)|attribution theory]] — specifically, how children attributed their failures. Children who attributed failure to effort ("I didn't try hard enough") maintained motivation; those who attributed it to ability ("I'm just not smart enough") became helpless. But attribution was downstream of something deeper. In a pivotal theoretical development through the 1980s, Dweck and her colleagues — particularly [[mary-bandura|Mary Bandura]], [[Ellen-Leggett|Ellen Leggett]], and later [[claudia-mueller|Claudia Mueller]] — identified that the root variable was not attribution style per se but the implicit theory of intelligence underlying it. If you believe intelligence is fixed, then poor performance is devastating — it reveals what you fundamentally are. If you believe intelligence is malleable, then poor performance is informative — it reveals what you need to work on.
 
 > [!key-claim] **The Central Proposition**
 > The core theoretical claim is directional and causal: implicit theories of intelligence (entity vs. incremental) generate different goal orientations (performance vs. mastery), which generate different responses to challenge and failure, which produce different long-term achievement trajectories. Mindset is not merely correlated with achievement patterns — the framework proposes it is a generative cause.
@@ -297,7 +297,7 @@ The landmark 1998 paper by [[claudia-mueller|Claudia Mueller]] and Dweck — inv
 
 ### Intellectual Genealogy
 
-Growth mindset theory draws on several intellectual traditions. From [[cognitive-psychology|cognitive psychology]], it inherits the emphasis on mental representations — specifically, how beliefs and schemas shape information processing. The concept of implicit theories connects to a broader tradition of research on naive epistemology and folk psychology. From [[motivation-science|motivation science]], it draws heavily on [[achievement-goal-theory|achievement goal theory]] developed by [[carole-ames|Carole Ames]] and [[john-elliot|John Elliot]], which distinguished mastery from performance orientations well before the mindset terminology became dominant. From [[attribution-theory|attribution theory]], associated with [[bernard-weiner|Bernard Weiner]], it inherits the insight that how learners interpret the causes of outcomes (stable vs. unstable, controllable vs. uncontrollable) shapes their subsequent motivation.
+Growth mindset theory draws on several intellectual traditions. From [[cognitive-psychology|cognitive psychology]], it inherits the emphasis on mental representations — specifically, how beliefs and schemas shape information processing. The concept of implicit theories connects to a broader tradition of research on naive epistemology and folk psychology. From [[motivation-science|motivation science]], it draws heavily on [[achievement-goal-theory|achievement goal theory]] developed by [[carole-ames|Carole Ames]] and [[john-elliot|John Elliot]], which distinguished mastery from performance orientations well before the mindset terminology became dominant. From [[Attribution (Heider, 1958)|attribution theory]], associated with [[bernard-weiner|Bernard Weiner]], it inherits the insight that how learners interpret the causes of outcomes (stable vs. unstable, controllable vs. uncontrollable) shapes their subsequent motivation.
 
 The neuroscientific grounding of growth mindset theory — its claim that the brain literally changes through learning — connects to a long tradition of [[neuroplasticity]] research, from [[donald-hebb|Donald Hebb]]'s 1949 foundational work on synaptic strengthening to contemporary research by [[michael-merzenich|Michael Merzenich]] and others on experience-dependent cortical reorganization. This neuroscientific connection gives growth mindset its biological legitimacy: the claim is not merely that people *feel* more capable when they believe in malleability, but that the brain's architecture actually changes in response to learning.
 
@@ -492,7 +492,7 @@ The field's most important open questions include: Under what precise conditions
 >
 > - **[[formative-assessment|Formative Assessment]]** — Formative assessment practice is one of the highest-leverage application domains for growth mindset research. The design of feedback — its specificity, its focus on process versus product, its positioning of the learner as active reviser rather than passive recipient of judgment — either supports or undermines growth mindset development. Growth mindset theory provides the motivational rationale for why formative assessment works, and formative assessment practice provides the operational method for implementing growth mindset principles.
 >
-> - **[[attribution-theory|Attribution Theory]]** — Mindset theory grew directly out of attribution theory research. Understanding that growth mindset is, at its root, about how learners attribute the causes of their outcomes (to stable, fixed ability vs. to unstable, controllable effort and strategy) connects it to a broader intellectual tradition and illuminates the mechanism through which mindset beliefs operate.
+> - **[[Attribution (Heider, 1958)|Attribution Theory]]** — Mindset theory grew directly out of attribution theory research. Understanding that growth mindset is, at its root, about how learners attribute the causes of their outcomes (to stable, fixed ability vs. to unstable, controllable effort and strategy) connects it to a broader intellectual tradition and illuminates the mechanism through which mindset beliefs operate.
 >
 > The pattern of connections reveals that growth mindset theory is most powerful not as a standalone intervention framework but as a connecting tissue between neuroscience (the biological substrate of learning), motivation science (the psychological conditions for sustained engagement), and pedagogical design (the practical structures that express and reinforce beliefs about ability). Its most significant contribution may be conceptual integration: providing a bridge between these domains that neither offers on its own.
 

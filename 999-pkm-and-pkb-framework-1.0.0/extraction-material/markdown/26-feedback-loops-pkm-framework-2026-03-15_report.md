@@ -214,7 +214,7 @@ extraction_summary:
 #### 13. [EVIDENCE] The Feedback Timing Paradox (Kornell & Bjork, 2008; Karpicke & Roediger, 2008) *(Line 206)*
 
 > [!evidence] The Feedback Timing Paradox (Kornell & Bjork, 2008; Karpicke & Roediger, 2008)
-> Educational psychology presents a genuine paradox on the question of feedback timing. Immediate feedback research (summarized by Hattie & Timperley, 2007) shows that feedback close in time to the relevant behavior is processed more effectively — learners can connect the signal to the specific action that generated it. However, [[desirable-difficulties|Desirable Difficulties]] research (Robert Bjork) demonstrates that delayed feedback — and even the complete absence of feedback during initial practice — can produce *superior long-term retention* compared to immediate feedback, even when immediate feedback produces superior short-term performance. The mechanism: when feedback is immediate, learners can use it as a crutch, bypassing the retrieval effort that drives durable encoding. This tension is not resolved in the literature; it represents a genuine design trade-off that PKB architects must navigate consciously.
+> Educational psychology presents a genuine paradox on the question of feedback timing. Immediate feedback research (summarized by Hattie & Timperley, 2007) shows that feedback close in time to the relevant behavior is processed more effectively — learners can connect the signal to the specific action that generated it. However, [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] research (Robert Bjork) demonstrates that delayed feedback — and even the complete absence of feedback during initial practice — can produce *superior long-term retention* compared to immediate feedback, even when immediate feedback produces superior short-term performance. The mechanism: when feedback is immediate, learners can use it as a crutch, bypassing the retrieval effort that drives durable encoding. This tension is not resolved in the literature; it represents a genuine design trade-off that PKB architects must navigate consciously.
 
 #### 14. [WHAT-THE-EVIDENCE-SUGGESTS] What the Feedback Timing Literature Suggests for PKB Design *(Line 209)*
 
@@ -531,17 +531,17 @@ extraction_summary:
 - [[Arnold-and-Pistilli|Arnold and Pistilli]]
 - [[barry-zimmerman|Barry Zimmerman]]
 - [[Black-and-Wiliam|Black and Wiliam]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]]
 - [[Complex-Adaptive-Systems|Complex Adaptive Systems]]
 - [[cybernetics]]
 - [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[donald-schön|Donald Schön]]
 - [[double-loop-learning|Double-Loop Learning]]
 - [[dunning-kruger-effect|Dunning-Kruger effect]]
 - [[Educational-Data-Mining|Educational Data Mining]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Evergreen-Notes]]
 - [[Feedback in Learning]]
 - [[formative-assessment|Formative Assessment]]
@@ -618,12 +618,12 @@ extraction_summary:
 | 24 | [[Phil Long]] | — | — | Learning Analytics: Behavioral Data a... | 176 |
 | 25 | [[Educational-Data-Mining|Educational Data Mining]] | — | — | Learning Analytics: Behavioral Data a... | 179 |
 | 26 | [[Black-and-Wiliam|Black and Wiliam]] | — | — | What Feedback Research Actually Estab... | 204 |
-| 27 | [[desirable-difficulties|Desirable Difficulties]] | — | — | What Feedback Research Actually Estab... | 207 |
+| 27 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | What Feedback Research Actually Estab... | 207 |
 | 28 | [[metacognitive-calibration|Metacognitive calibration]] | — | — | The Calibration Evidence | 214 |
 | 29 | [[dunning-kruger-effect|Dunning-Kruger effect]] | — | — | The Calibration Evidence | 214 |
 | 30 | [[Thomas Nickerson]] | — | — | The Calibration Evidence | 216 |
 | 31 | [[illusion-of-explanatory-depth]] | — | — | The Calibration Evidence | 216 |
-| 32 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Calibration Evidence | 216 |
+| 32 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | The Calibration Evidence | 216 |
 | 33 | [[self-determination-theory|Self-Determination Theory]] | — | — | The Calibration Evidence | 219 |
 | 34 | [[Arnold-and-Pistilli|Arnold and Pistilli]] | — | — | Learning Analytics in Educational Set... | 223 |
 | 35 | [[Tanes et al.]] | — | — | Learning Analytics in Educational Set... | 223 |
@@ -631,7 +631,7 @@ extraction_summary:
 | 37 | [[argyris-and-schön|Argyris and Schön]] | — | — | Single-Loop vs. Double-Loop Learning ... | 232 |
 | 38 | [[Gregory Bateson]] | — | — | The Nested Timescale Architecture of ... | 256 |
 | 39 | [[Levels of Learning]] | — | — | The Nested Timescale Architecture of ... | 256 |
-| 40 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | The Nested Timescale Architecture of ... | 260 |
+| 40 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | The Nested Timescale Architecture of ... | 260 |
 | 41 | [[Spaced Retrieval Practice]] | — | — | The Nested Timescale Architecture of ... | 262 |
 | 42 | [[Report 25: The Integration Problem]] | — | — | The Nested Timescale Architecture of ... | 264 |
 | 43 | [[generation-effect|Generation Effect]] | — | — | The Calibration-Correction-Adaptation... | 273 |
@@ -676,17 +676,17 @@ extraction_summary:
 - [[Arnold-and-Pistilli|Arnold and Pistilli]]
 - [[barry-zimmerman|Barry Zimmerman]]
 - [[Black-and-Wiliam|Black and Wiliam]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]]
 - [[Complex-Adaptive-Systems|Complex Adaptive Systems]]
 - [[cybernetics]]
 - [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[donald-schön|Donald Schön]]
 - [[double-loop-learning|Double-Loop Learning]]
 - [[dunning-kruger-effect|Dunning-Kruger effect]]
 - [[Educational-Data-Mining|Educational Data Mining]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Evergreen-Notes]]
 - [[Feedback in Learning]]
 - [[formative-assessment|Formative Assessment]]

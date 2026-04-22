@@ -370,7 +370,7 @@ modified: 2025-12-14
 status: evergreen
 certainty: verified
 type: reference
-related: [[cognitive-architecture]], [[information-processing-theory]], [[working-memory]], [[Perceptual-Psychology]], [[Experimental-Methodology]]
+related: [[Cognitive Architecture]], [[information-processing-theory]], [[working-memory]], [[Perceptual-Psychology]], [[Experimental-Methodology]]
 
 ---
 
@@ -399,7 +399,7 @@ This empirical landscape—precise filtering coupled with occasional semantic pe
 
 ## 🔬 Model I: Broadbent's Filter Theory (1958) — The Early Selection Paradigm
 
-<span style='color: #27FF00;'>**Donald Broadbent**</span> (1958) synthesized Cherry's findings into the first comprehensive [[information-processing-model]] of selective attention. Drawing explicitly from [[communications-engineering]] and [[Shannon-Weaver-Information-Theory]], Broadbent conceptualized the human cognitive system as having strict **capacity limitations** that necessitated early, structural filtering of sensory input.
+<span style='color: #27FF00;'>**Donald Broadbent**</span> (1958) synthesized Cherry's findings into the first comprehensive [[Winne's-information-processing-model]] of selective attention. Drawing explicitly from [[communications-engineering]] and [[Shannon-Weaver-Information-Theory]], Broadbent conceptualized the human cognitive system as having strict **capacity limitations** that necessitated early, structural filtering of sensory input.
 
 [**Filter-Theory-Architecture**:: Broadbent proposed a two-stage system: (1) an unlimited-capacity sensory buffer (S-system) holding raw physical information briefly in parallel, followed by (2) a limited-capacity perceptual channel (P-system) protected by a selective filter that admitted only one message stream based on physical characteristics.]
 
@@ -746,12 +746,12 @@ Understanding selective attention has practical implications for:
 **Priority:** **Medium** — Represents cutting-edge theoretical developments but requires substantial mathematical/computational background for full understanding.  
 **Prerequisites:** [[bayesian-inference]], [[hierarchical models]], [[neural network basics]]; helpful to understand [[predictive-processing]] framework first.
 
-### 4. **[[cognitive-load-theory]]** in Instructional Design
+### 4. **[[Cognitive Load Theory (CLT)]]** in Instructional Design
 **Connection:** Both CLT and selective attention models address limited cognitive capacity. CLT's distinction between **intrinsic load** (inherent task complexity) and **extraneous load** (imposed by poor design) parallels attention theory's concern with managing capacity limits through strategic filtering.  
 **Depth Potential:** Examining how instructional design principles—worked examples, split-attention effect, modality effect—implicitly incorporate assumptions about selective attention, working memory capacity, and multimodal processing. Cross-domain synthesis revealing how educational practice operationalizes cognitive theory.  
 **Knowledge Graph Role:** Demonstrates practical application of attention theory in real-world skill acquisition contexts; bridges laboratory cognitive science and applied educational psychology.  
 **Priority:** **Medium** — High applied relevance for education/training contexts; shows theory-to-practice translation.  
-**Prerequisites:** [[Working Memory Model]] (Baddeley), [[schema-theory]], basic understanding of instructional design principles.
+**Prerequisites:** [[Working Memory Model]] (Baddeley), [[schema-theory-and-knowledge-organization]], basic understanding of instructional design principles.
 
 ## Advanced Deep Dives
 

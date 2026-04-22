@@ -121,7 +121,7 @@ All 30 reports were generated in a 3-day window. The reports claim to "build on"
 |-----|--------|---------------------|--------|
 | No review system tooling | Highest-evidence technique (Testing Effect) unimplemented | [[Review Architecture Implementation — DP3 Operationalization]] | Not started |
 | No integration diagnostics | Cannot detect [[Accumulation Problem]] — #1 failure mode | [[Integration Metabolism Dashboard — RP3 Operationalization]] | Not started |
-| No calibration tooling | Cannot counter [[fluency-illusion]] — universal failure mode | [[Calibration Tracker — DP5 Operationalization]] | Not started |
+| No calibration tooling | Cannot counter [[Fluency Illusion]] — universal failure mode | [[Calibration Tracker — DP5 Operationalization]] | Not started |
 | No active processing templates | Note creation lacks elaboration prompts | [[Active Processing Workflow Templates — DP4 Operationalization]] | Not started |
 
 ### Medium Priority

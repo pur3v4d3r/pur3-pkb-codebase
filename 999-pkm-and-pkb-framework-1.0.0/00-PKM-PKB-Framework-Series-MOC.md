@@ -68,7 +68,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13|Report 01: Foundations of Knowledge Architecture — How the Mind Organizes What It Knows]]
 
-**Synthesis Focus:** How do [[schema-theory]], [[Knowledge-Organization-Systems]], and [[constructivism]] converge to inform the structural design of a PKB?
+**Synthesis Focus:** How do [[schema-theory-and-knowledge-organization]], [[Knowledge-Organization-Systems]], and [[constructivism]] converge to inform the structural design of a PKB?
 **Disciplines:** Cognitive Psychology, Knowledge Management, Constructivism, Information Science
 **Original Contribution:** **[[Cognitive-Alignment-Principle]]** — Three-dimensional PKB design framework (relational alignment, depth alignment, construction alignment)
 **Feeds Into:** Reports 02, 03, 06, 09, 15
@@ -78,7 +78,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[02-architecture-of-learning-pkm-framework-2026-03-13|Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 
-**Synthesis Focus:** How do [[cognitive-load-theory]], [[working-memory]] constraints, and [[instructional-design]] principles determine what makes a PKB note learnable vs. overwhelming?
+**Synthesis Focus:** How do [[Cognitive Load Theory (CLT)]], [[working-memory]] constraints, and [[instructional-design]] principles determine what makes a PKB note learnable vs. overwhelming?
 **Disciplines:** Cognitive Psychology (CLT), Instructional Design, Learning Experience Design
 **Original Contribution:** **[[Load Profile Framework]]** — Four-dimensional note classification (intrinsic load, extraneous load, germane load, note function)
 **Builds On:** Report 01 | **Feeds Into:** Reports 04, 07, 10, 16
@@ -87,7 +87,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[03-constructing-understanding-pkm-framework-2026-03-13|Report 03: Constructing Understanding — How Knowledge Builds on Knowledge]]
 
-**Synthesis Focus:** How do [[constructivism]], [[Elaboration-Theory]], and [[schema-theory]] explain knowledge construction, and what does this mean for note linking and layering?
+**Synthesis Focus:** How do [[constructivism]], [[Elaboration-Theory]], and [[schema-theory-and-knowledge-organization]] explain knowledge construction, and what does this mean for note linking and layering?
 **Disciplines:** Educational Philosophy, Cognitive Psychology, Instructional Design
 **Original Contribution:** **[[schema-progressive-architecture]]** — Three-layer note organization (Epitome Notes, Elaboration Notes, Accommodation Notes)
 **Builds On:** Reports 01, 02 | **Feeds Into:** Reports 05, 08, 11, 17
@@ -114,7 +114,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[06-science-of-remembering-pkm-framework-2026-03-13|Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 
-**Synthesis Focus:** How do [[spacing-effect]], [[Testing-Effect]], [[interleaving]], and [[desirable-difficulties]] combine to inform PKB review systems?
+**Synthesis Focus:** How do [[Desirable Difficulties (Robert Bjork, 1994)]], [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], and [[Desirable Difficulties (Robert Bjork, 1994)]] combine to inform PKB review systems?
 **Disciplines:** Cognitive Psychology, Psychology of Learning, Educational Psychology, Knowledge Management
 **Original Contribution:** **[[Retrieval-Oriented Note Architecture (RONA)]]** — Notes designed as retrieval training instruments from creation
 **Builds On:** Reports 01, 02, 04 | **Feeds Into:** Reports 09, 12, 16, 20

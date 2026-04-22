@@ -92,13 +92,13 @@ treatment-type: foundational-analytical
 # ═══════════════════════════════════════════════════════════════
 core-concepts: ["Cognitive Load Theory", "Personal Knowledge Management", "Working Memory", "Extraneous Load", "Schema Formation"]
 key-distinctions: ["Intrinsic vs. Extraneous vs. Germane Load", "Complexity vs. Clutter in PKM", "Cognitive Support vs. Cognitive Overhead"]
-prerequisites: ["[[cognitive-load-theory]]", "[[working-memory]]", "[[personal-knowledge-management]]"]
-related: ["[[extended-mind-theory]]", "[[schema-theory]]", "[[metacognition]]", "[[self-regulated-learning]]"]
-broader: ["[[cognitive-architecture]]", "[[learning-theory-foundational-report|Learning-Theory—Foundational-Report]]"]
-narrower: ["[[extraneous-cognitive-load]]", "[[germane-cognitive-load]]", "[[expertise-reversal-effect]]"]
-see-also: ["[[cognitive-offloading]]", "[[Knowledge-Graph]]", "[[zettelkasten]]"]
+prerequisites: ["[[Cognitive Load Theory (CLT)]]", "[[working-memory]]", "[[personal-knowledge-management]]"]
+related: ["[[Extended Mind Thesis (Clark & Chalmers, 1998)]]", "[[schema-theory-and-knowledge-organization]]", "[[metacognition]]", "[[self-regulated-learning]]"]
+broader: ["[[Cognitive Architecture]]", "[[learning-theory-foundational-report|Learning-Theory—Foundational-Report]]"]
+narrower: ["[[Cognitive Load Theory (CLT)]]", "[[Cognitive Load Theory (CLT)]]", "[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]"]
+see-also: ["[[Cognitive Offloading]]", "[[Knowledge-Graph]]", "[[zettelkasten]]"]
 builds-on: ["[[Baddeley's-Working-Memory-Model]]", "[[schema-theory-and-learning]]"]
-enables: ["[[metacognitive-scaffolding]]", "[[Information-Architecture]]"]
+enables: ["[[Metacognitive Scaffolding]]", "[[Information-Architecture]]"]
 
 # ═══════════════════════════════════════════════════════════════
 # APPENDIX & DENSITY TRACKING (Pipeline-Compatible)
@@ -165,9 +165,9 @@ connection-strength:
 
 ## Abstract
 
-This report applies [[cognitive-load-theory]] — one of the most empirically robust frameworks in instructional design and cognitive psychology — to the design and maintenance of Personal Knowledge Management (PKM) systems. The central argument is paradoxical in its simplicity: ill-designed [[personal-knowledge-management]] systems can systematically increase the [[cognitive-load]] they were created to reduce. When a knowledge base generates overflowing inboxes, inconsistent taxonomies, orphaned notes, broken link networks, and mounting synthesis debt, it becomes a cognitive liability rather than a cognitive asset.
+This report applies [[Cognitive Load Theory (CLT)]] — one of the most empirically robust frameworks in instructional design and cognitive psychology — to the design and maintenance of Personal Knowledge Management (PKM) systems. The central argument is paradoxical in its simplicity: ill-designed [[personal-knowledge-management]] systems can systematically increase the [[Cognitive Load Theory (CLT)]] they were created to reduce. When a knowledge base generates overflowing inboxes, inconsistent taxonomies, orphaned notes, broken link networks, and mounting synthesis debt, it becomes a cognitive liability rather than a cognitive asset.
 
-The report traces the intellectual foundations of [[cognitive-load-theory]] from John Sweller's original work in educational psychology through to its contemporary applications in knowledge work. It dissects the three canonical load types — intrinsic, extraneous, and germane — and maps each directly onto specific PKM workflow decisions. It examines how [[working-memory]] architecture (particularly [[Baddeley's-Working-Memory-Model]] and its capacity constraints) creates the fundamental bottleneck that PKM systems either relieve or compound. It analyzes the [[expertise-reversal-effect]] as it applies to PKM: the uncomfortable finding that design decisions appropriate for novice knowledge workers actively harm experts, and vice versa.
+The report traces the intellectual foundations of [[Cognitive Load Theory (CLT)]] from John Sweller's original work in educational psychology through to its contemporary applications in knowledge work. It dissects the three canonical load types — intrinsic, extraneous, and germane — and maps each directly onto specific PKM workflow decisions. It examines how [[working-memory]] architecture (particularly [[Baddeley's-Working-Memory-Model]] and its capacity constraints) creates the fundamental bottleneck that PKM systems either relieve or compound. It analyzes the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] as it applies to PKM: the uncomfortable finding that design decisions appropriate for novice knowledge workers actively harm experts, and vice versa.
 
 The report then subjects the three most influential PKM frameworks — the [[zettelkasten]] method, [[para-method|Building a Second Brain's PARA method]], and progressive summarization — to rigorous load analysis, evaluating both their explicit design principles and their implicit load implications. Finally, it synthesises a set of evidence-grounded design principles for constructing a PKM architecture that delivers on its original cognitive promise: a system that expands what the mind can hold, process, and produce — without becoming another thing the mind must manage.
 
@@ -175,13 +175,13 @@ The report then subjects the three most influential PKM frameworks — the [[zet
 
 > [!schema-activation] Prior Knowledge Activation: What You Already Know
 >
-> Think about the most demanding cognitive moments in your PKM practice. The inbox that grew faster than you could process it. The taxonomy restructuring decision that paralyzed you for a week. The synthesis note you've been "about to write" for months. The moment you opened your knowledge base looking for something specific and navigated the UI for ten minutes without finding it. If any of these resonate, you have already experienced extraneous [[cognitive-load]] generated by your own system.
+> Think about the most demanding cognitive moments in your PKM practice. The inbox that grew faster than you could process it. The taxonomy restructuring decision that paralyzed you for a week. The synthesis note you've been "about to write" for months. The moment you opened your knowledge base looking for something specific and navigated the UI for ten minutes without finding it. If any of these resonate, you have already experienced extraneous [[Cognitive Load Theory (CLT)]] generated by your own system.
 >
 > This report assumes familiarity with [[working-memory]] as a limited-capacity processing resource (see [[Baddeley's-Working-Memory-Model]]), basic [[metacognition]] as the ability to monitor one's own cognitive processes, and some direct personal experience with a PKM system. You do not need to be a cognitive psychologist — the framework will be built from the ground up. But you do need to be willing to interrogate your own knowledge management practices against unflattering empirical evidence.
 >
 > The guiding question for this entire report: **Under what conditions does a personal knowledge base function as cognitive infrastructure, and under what conditions does it function as cognitive overhead — and how do we reliably achieve the former?**
 >
-> Related foundations: [[cognitive-architecture]], [[schema-theory]], [[self-regulated-learning]], [[extended-mind-theory]]
+> Related foundations: [[Cognitive Architecture]], [[schema-theory-and-knowledge-organization]], [[self-regulated-learning]], [[Extended Mind Thesis (Clark & Chalmers, 1998)]]
 
 ---
 
@@ -191,16 +191,16 @@ There is a specific kind of dread familiar to anyone who has maintained a seriou
 
 The promises made by the PKM industry are substantial. Tiago Forte's "Building a Second Brain" promises to extend cognition through externalisation. The [[zettelkasten]] tradition, as revived through Niklas Luhmann and popularised by Sönke Ahrens, promises that a well-connected note network will generate ideas autonomously. Zettelkasten practitioners speak of "surprise" connections, emergent synthesis, and a system that "thinks" alongside its user. These are not trivial claims — and they are not entirely wrong. But they are systematically incomplete, because they say almost nothing about the cognitive costs of building, maintaining, and using these systems. The literature on productivity methodologies treats cognitive overhead as a friction to be eliminated through better habits; it rarely acknowledges that the system itself may be the primary source of that friction.
 
-[[cognitive-load-theory]], developed by [[john-sweller]] in the late 1980s and refined through three decades of experimental research, offers a precise vocabulary for this problem. The theory begins from a fact about [[working-memory]] that is simultaneously well-established and persistently ignored in productivity culture: the human mind's conscious processing capacity is radically limited. [[george-miller]]'s classic estimate of seven (plus or minus two) units was later revised downward by [[cowan]] to approximately four chunks — and these chunks, crucially, can only be held and processed for a matter of seconds before displacement. Every cognitive task we perform draws on this finite resource. When the demand exceeds capacity — when we are trying to hold more relationships, decisions, categories, and options in mind simultaneously than the system can sustain — performance degrades, errors increase, and the subjective experience is often the familiar feeling of overwhelm.
+[[Cognitive Load Theory (CLT)]], developed by [[john-sweller]] in the late 1980s and refined through three decades of experimental research, offers a precise vocabulary for this problem. The theory begins from a fact about [[working-memory]] that is simultaneously well-established and persistently ignored in productivity culture: the human mind's conscious processing capacity is radically limited. [[george-miller]]'s classic estimate of seven (plus or minus two) units was later revised downward by [[cowan]] to approximately four chunks — and these chunks, crucially, can only be held and processed for a matter of seconds before displacement. Every cognitive task we perform draws on this finite resource. When the demand exceeds capacity — when we are trying to hold more relationships, decisions, categories, and options in mind simultaneously than the system can sustain — performance degrades, errors increase, and the subjective experience is often the familiar feeling of overwhelm.
 
-[[cognitive-load-theory]] distinguishes between three forms of this demand: intrinsic load (arising from the inherent complexity of the material or task), extraneous load (arising from how the material or task is presented, regardless of its inherent complexity), and germane load (the processing invested in building new [[schema-theory|schemas]] — the organised knowledge structures that allow experts to perceive patterns where novices see noise). The central design insight of CLT is that extraneous load is waste. It consumes the same finite resource as productive cognitive work without contributing to learning, understanding, or skill. Any element of a PKM system that generates extraneous load — any feature, convention, or structural decision that forces the user to do unnecessary mental work — is actively competing with the cognition the system was designed to support.
+[[Cognitive Load Theory (CLT)]] distinguishes between three forms of this demand: intrinsic load (arising from the inherent complexity of the material or task), extraneous load (arising from how the material or task is presented, regardless of its inherent complexity), and germane load (the processing invested in building new [[schema-theory-and-knowledge-organization|schemas]] — the organised knowledge structures that allow experts to perceive patterns where novices see noise). The central design insight of CLT is that extraneous load is waste. It consumes the same finite resource as productive cognitive work without contributing to learning, understanding, or skill. Any element of a PKM system that generates extraneous load — any feature, convention, or structural decision that forces the user to do unnecessary mental work — is actively competing with the cognition the system was designed to support.
 
 > [!key-claim] The Core Claim
 > A PKM system produces cognitive benefit only to the degree that it reduces extraneous load and supports schema formation. Every design decision that increases extraneous load — even unintentionally — converts the system from cognitive infrastructure into cognitive overhead. The question is never "is this feature useful?" but "does this feature's cognitive cost exceed its cognitive benefit?"
 
-This paradox is not merely theoretical. The empirical literature on [[cognitive-offloading]] — the deliberate use of external tools to reduce internal cognitive demands — is clear that offloading fails when the external system imposes high accessing costs (Risko & Gilbert, 2016). A note-taking practice that requires substantial recall effort to locate stored information is not truly offloading; it is relocating the cognitive work from retrieval to navigation. A complex taxonomy that requires the user to remember not just information but also the categories under which that information was filed is not reducing memory demands; it is adding a second memory task on top of the first.
+This paradox is not merely theoretical. The empirical literature on [[Cognitive Offloading]] — the deliberate use of external tools to reduce internal cognitive demands — is clear that offloading fails when the external system imposes high accessing costs (Risko & Gilbert, 2016). A note-taking practice that requires substantial recall effort to locate stored information is not truly offloading; it is relocating the cognitive work from retrieval to navigation. A complex taxonomy that requires the user to remember not just information but also the categories under which that information was filed is not reducing memory demands; it is adding a second memory task on top of the first.
 
-The distinction between [[extended-mind-theory|cognitive extension]] and cognitive overhead is perhaps the most important conceptual boundary this report defends. When Andy Clark and David Chalmers argued in their 1998 paper "The Extended Mind" that external tools can genuinely constitute part of a cognitive system — not merely a support for it — they specified conditions that must be met: the information must be reliably accessible, it must be automatically endorsed when retrieved, and the agent must be able to trust the system the way they trust their own memory. A dysfunctional PKM system — one with inconsistent organisation, orphaned notes, unreliable search, and backlog-generating capture workflows — fails these conditions. It is not an extension of the mind; it is a poorly maintained external environment that the mind must constantly manage.
+The distinction between [[Extended Mind Thesis (Clark & Chalmers, 1998)|cognitive extension]] and cognitive overhead is perhaps the most important conceptual boundary this report defends. When Andy Clark and David Chalmers argued in their 1998 paper "The Extended Mind" that external tools can genuinely constitute part of a cognitive system — not merely a support for it — they specified conditions that must be met: the information must be reliably accessible, it must be automatically endorsed when retrieved, and the agent must be able to trust the system the way they trust their own memory. A dysfunctional PKM system — one with inconsistent organisation, orphaned notes, unreliable search, and backlog-generating capture workflows — fails these conditions. It is not an extension of the mind; it is a poorly maintained external environment that the mind must constantly manage.
 
 > [!claude-insight] On the Productivity Literature's Cognitive Blind Spot
 > The productivity literature's consistent failure to engage with cognitive load theory represents a genuine intellectual gap, not merely a marketing oversight. Books on PKM are written primarily by practitioners describing what worked for them, not by cognitive scientists measuring what works across populations. This creates a systematic bias toward system complexity: complexity signals seriousness, enables elaborate demonstrations, and generates the feeling of intellectual depth. But complexity has a cognitive cost that the author never bears — it is the reader-practitioner who pays it, in the form of extraneous load generated by navigating, maintaining, and trusting an intricate architecture. The evidence base for CLT is substantially more rigorous than the evidence base for any particular PKM methodology, and where they conflict, the former should be given priority.
@@ -219,7 +219,7 @@ The distinction between [[extended-mind-theory|cognitive extension]] and cogniti
 
 ## Section 2: Cognitive Load Theory — Foundations, Mechanisms, and Intellectual Genealogy
 
-[[cognitive-load-theory]] did not emerge from the study of productivity systems or knowledge management. It emerged from a deceptively simple puzzle in educational psychology: why did certain instructional presentations of the same content produce dramatically better learning outcomes than others, even when the content itself was identical? John Sweller, working in Australia in the 1980s, was studying problem-solving when he noticed something curious: students who practised solving problems using conventional means-ends analysis strategies — working backwards from the goal, evaluating subgoals, systematically reducing differences between current and goal states — often learned the underlying subject matter less well than students who worked on problems using less goal-directed strategies. The conventional approach, despite feeling more rigorous, was consuming so much cognitive resource in tracking subgoals and maintaining the goal-state representation that little remained for extracting and encoding the structural principles the problem was designed to teach.
+[[Cognitive Load Theory (CLT)]] did not emerge from the study of productivity systems or knowledge management. It emerged from a deceptively simple puzzle in educational psychology: why did certain instructional presentations of the same content produce dramatically better learning outcomes than others, even when the content itself was identical? John Sweller, working in Australia in the 1980s, was studying problem-solving when he noticed something curious: students who practised solving problems using conventional means-ends analysis strategies — working backwards from the goal, evaluating subgoals, systematically reducing differences between current and goal states — often learned the underlying subject matter less well than students who worked on problems using less goal-directed strategies. The conventional approach, despite feeling more rigorous, was consuming so much cognitive resource in tracking subgoals and maintaining the goal-state representation that little remained for extracting and encoding the structural principles the problem was designed to teach.
 
 This observation led Sweller to look more carefully at [[working-memory]] — the cognitive system responsible for holding and manipulating information during conscious processing. The work of [[alan-baddeley]] and Graham Hitch on the [[Baddeley's-Working-Memory-Model|multi-component model of working memory]] was foundational here. Baddeley and Hitch abandoned the simple short-term memory "box" of earlier models in favour of a more complex architecture: a [[central-executive]] that controls attention and coordinates subsidiary systems; a phonological loop that rehearses verbal information acoustically; a visuospatial sketchpad that maintains and manipulates visual and spatial representations; and (added later) an [[episodic-buffer]] that integrates information across these subsystems and links to [[long-term-memory]]. The capacity limits of this system are not artifacts of poor education or insufficient practice — they are fundamental features of human cognitive architecture. The [[central-executive]] has limited attentional bandwidth. The phonological loop decays rapidly and can rehearse only so many items before displacement. The visuospatial sketchpad is similarly constrained.
 
@@ -230,11 +230,11 @@ This observation led Sweller to look more carefully at [[working-memory]] — th
 >
 > **Report-Specific Significance:** The concept of cognitive load as a bottleneck resource enables precise diagnosis of PKM system failures — not as personal faults or motivational deficits, but as predictable consequences of design decisions that exceed cognitive capacity.
 >
-> **See also:** [[intrinsic-cognitive-load]], [[extraneous-cognitive-load]], [[germane-cognitive-load]], [[working-memory]], [[cognitive-architecture]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[working-memory]], [[Cognitive Architecture]]
 
 Building on [[Baddeley's-Working-Memory-Model]] and drawing on the schema research of cognitive scientists like Chi, Feltovich, and Glaser, Sweller developed CLT around three core theoretical claims. First, [[working-memory]] is severely limited in both capacity and duration. Second, [[long-term-memory]] is effectively unlimited in capacity and contains the organized knowledge structures (schemas) that allow experts to perceive information in compact, meaningful chunks rather than isolated units. Third, learning is the process of constructing and automating schemas — and this process is inherently resource-intensive, meaning that any cognitive demand that doesn't contribute to schema construction is waste.
 
-The schema concept is crucial here. In [[schema-theory]] (developed by Bartlett, elaborated by Rumelhart, and imported into CLT by Sweller), a schema is a mental structure that organizes knowledge by abstracting patterns, relationships, and categories from experience. An expert chess player does not see thirty-two independent pieces; they see configurations, threats, opportunities — perceptual patterns that are the chunked products of thousands of hours of pattern recognition. An expert radiologist does not see grey shapes on an X-ray; they see diagnostic categories, probability distributions, clinical implications. The expert's [[long-term-memory]] is not simply larger — it is structured differently, such that complex information can be recognized rapidly and without taxing [[working-memory]] in the way it taxes a novice. This is [[chunking]] in its deepest form: not just grouping items, but encoding relational structure at a higher level of abstraction.
+The schema concept is crucial here. In [[schema-theory-and-knowledge-organization]] (developed by Bartlett, elaborated by Rumelhart, and imported into CLT by Sweller), a schema is a mental structure that organizes knowledge by abstracting patterns, relationships, and categories from experience. An expert chess player does not see thirty-two independent pieces; they see configurations, threats, opportunities — perceptual patterns that are the chunked products of thousands of hours of pattern recognition. An expert radiologist does not see grey shapes on an X-ray; they see diagnostic categories, probability distributions, clinical implications. The expert's [[long-term-memory]] is not simply larger — it is structured differently, such that complex information can be recognized rapidly and without taxing [[working-memory]] in the way it taxes a novice. This is [[Chunk (Miller, 1956; Chase & Simon, 1973)]] in its deepest form: not just grouping items, but encoding relational structure at a higher level of abstraction.
 
 > [!definition] **Schema Formation (Derived from Bartlett-Rumelhart-Sweller tradition)**
 > The cognitive process by which repeated encounters with structurally similar information produce a generalized mental representation encoding the abstract pattern, its internal relationships, and its conditions of application. Schemas reduce the working memory demands of processing familiar content by allowing it to be retrieved as a single unit rather than reconstructed from components.
@@ -243,18 +243,18 @@ The schema concept is crucial here. In [[schema-theory]] (developed by Bartlett,
 >
 > **Report-Specific Significance:** PKM systems should be evaluated by how effectively they support schema formation — both for the domain content being captured and for the PKM practice itself. Systems that require constant novel problem-solving (where to put this note? how to tag it? which folder?) prevent schema formation by the sheer variety of structural decisions they impose.
 >
-> **See also:** [[schema-theory]], [[schema-theory-and-learning]], [[long-term-memory]], [[chunking]], [[expertise-development]]
+> **See also:** [[schema-theory-and-knowledge-organization]], [[schema-theory-and-learning]], [[long-term-memory]], [[Chunk (Miller, 1956; Chase & Simon, 1973)]], [[expertise-development]]
 
 The pedagogical applications of CLT in instructional design are well-established and replicable. Worked examples — fully solved problems with explicit solution steps — consistently outperform problem-solving practice for novice learners because they dramatically reduce the extraneous load imposed by means-ends analysis, freeing cognitive resource for encoding the solution procedure as a schema. Completion problems (partially worked examples where the learner fills in steps) fall between fully worked examples and conventional problems in both load and learning outcomes. Split-attention materials — such as diagrams that force the learner to visually integrate a figure with a caption located far away — generate extraneous load through physical search rather than cognitive integration. [[dual-coding-theory]] and [[cognitive-theory-of-multimedia-learning]] extend CLT into the multi-channel dimension, demonstrating that distributing information across auditory and visual channels reduces load compared to presenting all information in a single channel.
 
 > [!definition] **Extraneous Cognitive Load (Sweller, 1994)**
 > Cognitive load generated by the way information or a task is presented, rather than by the task's inherent complexity. Extraneous load consumes [[working-memory]] capacity without contributing to schema formation or learning. It arises from poor design decisions — physical separation of related elements, needless redundancy, inconsistent conventions, navigation costs, interruptions — that force the cognitive system to do unnecessary work.
 >
-> **Boundary:** The distinction between intrinsic and extraneous load is not always clean. Complexity that is "extraneous" for an advanced learner may be a necessary scaffold for a novice. What counts as extraneous depends on the learner's current schema state. This relativity is what generates the [[expertise-reversal-effect]].
+> **Boundary:** The distinction between intrinsic and extraneous load is not always clean. Complexity that is "extraneous" for an advanced learner may be a necessary scaffold for a novice. What counts as extraneous depends on the learner's current schema state. This relativity is what generates the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]].
 >
 > **Report-Specific Significance:** Extraneous load is the primary mechanism by which poorly designed PKM systems harm cognition. Every unnecessary decision the system forces on its user — where to file a note, whether to create a new tag, how to resolve an inconsistent naming convention — is extraneous load competing with productive thought.
 >
-> **See also:** [[extraneous-load]], [[intrinsic-cognitive-load]], [[germane-cognitive-load]], [[element-interactivity]], [[Cognitive-Friction]]
+> **See also:** [[extraneous-load]], [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Cognitive-Friction]]
 
 The application of CLT to knowledge management is not a conceptual stretch — it is a direct extension of the theory's core logic. Sweller himself noted that CLT's principles apply to any cognitive task that involves [[working-memory]] and [[long-term-memory]] interaction. Knowledge management is precisely such a task: it requires holding in working memory the current information being processed, the structural decisions about where and how to store it, the relational context of existing notes, the recall demands of future retrieval, and the synthesis requirements of the larger project. Each of these generates load. When design is poor, that load is extraneous. When design is excellent, the system absorbs much of this load, allowing working memory to focus on the domain cognition — the actual thinking — that the whole enterprise is meant to support.
 
@@ -279,9 +279,9 @@ The tripartite model of cognitive load — intrinsic, extraneous, and germane �
 
 ### 3.1 Intrinsic Cognitive Load: The Irreducible Complexity of the Material
 
-[[intrinsic-cognitive-load]] arises from the inherent complexity of the information itself, specifically from the number of elements that must be simultaneously processed and their degree of interconnection. Sweller introduced the concept of [[element-interactivity]] to characterize this: some material can be learned element-by-element (low interactivity), while other material can only be understood by grasping the relationships among elements simultaneously (high interactivity). Foreign language vocabulary — where each word can be learned independently — is a canonical low-interactivity example. Conditional probability, where understanding a single calculation requires simultaneously grasping sample spaces, event definitions, and their ratios — is a canonical high-interactivity example.
+[[Cognitive Load Theory (CLT)]] arises from the inherent complexity of the information itself, specifically from the number of elements that must be simultaneously processed and their degree of interconnection. Sweller introduced the concept of [[Technical Detail: The relationship between element interactivity and working-memory load]] to characterize this: some material can be learned element-by-element (low interactivity), while other material can only be understood by grasping the relationships among elements simultaneously (high interactivity). Foreign language vocabulary — where each word can be learned independently — is a canonical low-interactivity example. Conditional probability, where understanding a single calculation requires simultaneously grasping sample spaces, event definitions, and their ratios — is a canonical high-interactivity example.
 
-Critically, intrinsic load is not fixed — it is a function of the interaction between material complexity and schema state. The same complex topic generates high intrinsic load for a novice (who must simultaneously track many unfamiliar elements and their relationships) and low intrinsic load for an expert (whose schemas chunk those elements into a familiar pattern that can be retrieved as a unit). This relativity is the source of the [[expertise-reversal-effect]], which will receive dedicated treatment in Section 8. For now, the key point is that intrinsic load cannot be eliminated — only managed by sequencing content appropriately (moving from low to high interactivity) and by supporting schema formation (which reduces intrinsic load over time through familiarity).
+Critically, intrinsic load is not fixed — it is a function of the interaction between material complexity and schema state. The same complex topic generates high intrinsic load for a novice (who must simultaneously track many unfamiliar elements and their relationships) and low intrinsic load for an expert (whose schemas chunk those elements into a familiar pattern that can be retrieved as a unit). This relativity is the source of the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], which will receive dedicated treatment in Section 8. For now, the key point is that intrinsic load cannot be eliminated — only managed by sequencing content appropriately (moving from low to high interactivity) and by supporting schema formation (which reduces intrinsic load over time through familiarity).
 
 In PKM practice, intrinsic load manifests primarily in the synthesis phase — the cognitively demanding work of integrating information from multiple sources, identifying patterns and tensions, and generating original propositions. This is genuinely difficult cognitive work, and its difficulty arises from the material itself, not from design failures. Understanding this is important because it means the goal is not to eliminate this difficulty but to protect cognitive resources for it by reducing extraneous load elsewhere in the PKM workflow. If processing decisions about where to file a note costs ten units of cognitive resource, and generating a genuine linking insight from two notes costs fifteen units, then the system is consuming a substantial portion of the resource available for insight before that insight-work even begins.
 
@@ -290,7 +290,7 @@ In PKM practice, intrinsic load manifests primarily in the synthesis phase — t
 
 ### 3.2 Extraneous Cognitive Load: The Load That Never Should Have Been
 
-[[extraneous-cognitive-load]] is where CLT delivers its most powerful practical insight. Extraneous load is not generated by the material — it is generated by how the material is presented, organized, or accessed, and it is always potentially reducible through better design. In instructional contexts, the classic extraneous load sources include split-attention (forcing mental integration of physically separated elements), redundancy (presenting the same information in multiple formats simultaneously when one would suffice), and unnecessary complexity in instructional materials that serves the designer's organisational sensibility rather than the learner's cognitive architecture.
+[[Cognitive Load Theory (CLT)]] is where CLT delivers its most powerful practical insight. Extraneous load is not generated by the material — it is generated by how the material is presented, organized, or accessed, and it is always potentially reducible through better design. In instructional contexts, the classic extraneous load sources include split-attention (forcing mental integration of physically separated elements), redundancy (presenting the same information in multiple formats simultaneously when one would suffice), and unnecessary complexity in instructional materials that serves the designer's organisational sensibility rather than the learner's cognitive architecture.
 
 In PKM practice, extraneous load sources are numerous and often endemic to popular system designs. They include:
 
@@ -324,7 +324,7 @@ In PKM practice, extraneous load sources are numerous and often endemic to popul
 
 ### 3.3 Germane Cognitive Load: The Load Worth Incurring
 
-[[germane-cognitive-load]] is the most theoretically contested element of CLT and deserves careful treatment. In Sweller's original 1998 formulation (with van Merriënboer and Paas), germane load referred to the cognitive effort specifically directed at schema formation and automation — the effortful processing that produces durable long-term memory structures. Unlike intrinsic load (which is irreducible given a fixed knowledge state) and extraneous load (which is always potentially reducible without learning loss), germane load was held to be both necessary and productive: it is the cognitive "investment" that yields learning.
+[[Cognitive Load Theory (CLT)]] is the most theoretically contested element of CLT and deserves careful treatment. In Sweller's original 1998 formulation (with van Merriënboer and Paas), germane load referred to the cognitive effort specifically directed at schema formation and automation — the effortful processing that produces durable long-term memory structures. Unlike intrinsic load (which is irreducible given a fixed knowledge state) and extraneous load (which is always potentially reducible without learning loss), germane load was held to be both necessary and productive: it is the cognitive "investment" that yields learning.
 
 This distinction has been challenged on theoretical grounds. Kalyuga (2011) and others argue that it is impossible to distinguish germane from intrinsic load experimentally, since both arise from the cognitive processing of material content. The 2019 reformulation by Sweller, van Merriënboer, and Paas partially concedes this: germane load is reframed not as a third type of load but as the portion of intrinsic load that is "used" for schema formation — a measure of productive processing efficiency rather than a distinct load category. This debate matters for theoretical precision but doesn't undermine CLT's practical usefulness: whatever we call the effortful, productive processing involved in building knowledge structures, we want to maximize it and protect it from competition with extraneous processing.
 
@@ -339,7 +339,7 @@ The practical implication is a priority ordering: first, eliminate extraneous lo
 >
 > **Report-Specific Significance:** PKM design succeeds when it maximizes the proportion of cognitive effort in a knowledge work session that is germane — spent in genuine intellectual engagement with content — rather than extraneous — spent resolving structural ambiguities, navigating poor organisation, or managing system maintenance.
 >
-> **See also:** [[germane-load]], [[germane-cognitive-load]], [[desirable-difficulties]], [[schema-theory]], [[deep-processing]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[schema-theory-and-knowledge-organization]], [[deep-processing]]
 
 ### 3.4 Load Additivity and the Additive Constraint
 
@@ -391,7 +391,7 @@ The [[episodic-buffer]] — the most recently added component (Baddeley, 2000) �
 
 [[long-term-memory]] is, for practical purposes, unlimited in capacity. The brain can acquire and store an enormous number of schemas — procedural, declarative, semantic, episodic — and these schemas are available for rapid retrieval under appropriate conditions. But the relationship between long-term and short-term memory is not one of simple complementarity. Information enters long-term memory from working memory (through effortful encoding); information is retrieved from long-term memory into working memory (through cue-dependent recall). The quality of encoding depends on the depth of processing in working memory (see [[levels-of-processing-theory]]). The efficiency of retrieval depends on the organization of long-term memory and the quality of the retrieval cues.
 
-For PKM, this interface has a profound implication: a well-maintained PKM system should function as an extension of the long-term memory retrieval process. Notes are cues to your own prior thinking; links are encoded associations; the structure of a knowledge graph mirrors (and should ideally reinforce) the associative structure of [[long-term-memory]]. This is the core insight behind the [[extended-mind-theory]]: if your notes are reliably accessible, automatically endorsed when retrieved, and structurally organised in a way that mirrors your internal schema network, they can function as genuine extensions of [[long-term-memory]] rather than mere external supplements.
+For PKM, this interface has a profound implication: a well-maintained PKM system should function as an extension of the long-term memory retrieval process. Notes are cues to your own prior thinking; links are encoded associations; the structure of a knowledge graph mirrors (and should ideally reinforce) the associative structure of [[long-term-memory]]. This is the core insight behind the [[Extended Mind Thesis (Clark & Chalmers, 1998)]]: if your notes are reliably accessible, automatically endorsed when retrieved, and structurally organised in a way that mirrors your internal schema network, they can function as genuine extensions of [[long-term-memory]] rather than mere external supplements.
 
 > [!definition] **Working Memory–Long-Term Memory Interface (Baddeley, 2000; Ericsson & Kintsch, 1995)**
 > The bidirectional relationship between working memory's active processing space and long-term memory's schema repository. Information is encoded into long-term memory through working memory processing; retrieval from long-term memory into working memory is cue-dependent and schema-guided. Experts in a domain are distinguished not by larger working memories but by more richly organized long-term memories that allow large amounts of relevant information to be retrieved as compact schemas into working memory on demand.
@@ -400,11 +400,11 @@ For PKM, this interface has a profound implication: a well-maintained PKM system
 >
 > **Report-Specific Significance:** A PKM system that mirrors the associative structure of the user's existing schemas — by linking related concepts, surfacing relevant prior notes, and organising information according to meaningful relationships — reinforces the long-term memory retrieval process and reduces the working memory cost of accessing relevant prior knowledge.
 >
-> **See also:** [[long-term-memory]], [[working-memory]], [[memory-systems]], [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]], [[extended-mind-theory]]
+> **See also:** [[long-term-memory]], [[working-memory]], [[memory-systems]], [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]], [[Extended Mind Thesis (Clark & Chalmers, 1998)]]
 
 ### 4.3 Cognitive Offloading: When External Memory Actually Works
 
-The research programme on [[cognitive-offloading]] (Risko & Gilbert, 2016; Risko et al., 2013) provides direct experimental evidence for the conditions under which external tools genuinely reduce cognitive load versus merely relocating it. The key finding is that cognitive offloading produces measurable working memory benefits when it meets two conditions: the external storage is more reliable than internal memory for the relevant information type, and the accessing cost of the external storage is lower than the reconstruction cost of internal retrieval.
+The research programme on [[Cognitive Offloading]] (Risko & Gilbert, 2016; Risko et al., 2013) provides direct experimental evidence for the conditions under which external tools genuinely reduce cognitive load versus merely relocating it. The key finding is that cognitive offloading produces measurable working memory benefits when it meets two conditions: the external storage is more reliable than internal memory for the relevant information type, and the accessing cost of the external storage is lower than the reconstruction cost of internal retrieval.
 
 This condition is more demanding than it might appear. For factual information that is difficult to reconstruct from first principles and easy to locate externally (a telephone number, a specific date), offloading is straightforwardly beneficial. But for complex, relational, contextual information — the kind that constitutes most PKM content — the "accessing cost" of external storage depends critically on how the system is organised. If finding a specific note requires remembering where you filed it, which tag you used, or which folder it might be in, the accessing cost may exceed the reconstruction cost of simply thinking through the topic again. In these cases, the external "memory" is not functioning as a cognitive extension; it is functioning as an additional cognitive task.
 
@@ -505,7 +505,7 @@ If extraneous load is the cognitive burden that poor design imposes unnecessaril
 
 ### 6.1 Element Interactivity in Knowledge Work
 
-[[element-interactivity]] — the degree to which understanding one concept requires simultaneously holding others in mind — varies dramatically across the knowledge domains that PKM sessions typically span. Low-interactivity content (factual information, definitions, standalone procedures) can be processed sequentially without requiring simultaneous consideration of multiple elements. High-interactivity content (theoretical frameworks, causal chains, systems dynamics, philosophical arguments) requires the simultaneous processing of elements whose meaning depends on their relationships, not just their individual definitions.
+[[Technical Detail: The relationship between element interactivity and working-memory load]] — the degree to which understanding one concept requires simultaneously holding others in mind — varies dramatically across the knowledge domains that PKM sessions typically span. Low-interactivity content (factual information, definitions, standalone procedures) can be processed sequentially without requiring simultaneous consideration of multiple elements. High-interactivity content (theoretical frameworks, causal chains, systems dynamics, philosophical arguments) requires the simultaneous processing of elements whose meaning depends on their relationships, not just their individual definitions.
 
 A PKM practitioner working across a domain with high element interactivity — say, attempting to understand the relationship between three competing theoretical models in cognitive science — is performing genuinely difficult cognitive work that will take time and produce genuine fatigue. This is not a design failure; it is the nature of the material. What PKM design can do is manage the conditions under which this intrinsically demanding work is undertaken: ensuring that relevant prior notes are easily accessible during synthesis, that the structure of the knowledge base reflects relationships among elements rather than burying them, and that the working environment is free from competing demands that would fragment the sustained attention that high-interactivity processing requires.
 
@@ -518,7 +518,7 @@ The practical implication is that intrinsic load management in PKM is partly a t
 >
 > **Report-Specific Significance:** Knowledge domains vary dramatically in their element interactivity profiles, and PKM practitioners working across multiple domains face variable intrinsic load that should inform how they time, structure, and support their PKM sessions.
 >
-> **See also:** [[element-interactivity]], [[intrinsic-cognitive-load]], [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]], [[chunking]]
+> **See also:** [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Cognitive Load Theory (CLT)]], [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]], [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 
 ### 6.2 The Sequencing Problem: Building from Low to High Interactivity
 
@@ -539,11 +539,11 @@ A PKM design principle emerges directly: the structure of a knowledge base withi
 >
 > **Epistemic Status:** Well-motivated synthesis — directly derived from CLT's sequencing principle and element interactivity framework, applied to PKM. The specific three-tier architecture is original to this report.
 >
-> **See also:** [[element-interactivity]], [[intrinsic-cognitive-load]], [[zettelkasten]], [[Evergreen-Notes]], [[four-component-instructional-design]]
+> **See also:** [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Cognitive Load Theory (CLT)]], [[zettelkasten]], [[Evergreen-Notes]], [[four-component-instructional-design-4cid — Design Methodology for Complex Learning]]
 
 ### 6.3 Schema Chunking and the Expert Experience of PKM
 
-The inverse of the novice's high intrinsic load experience is the expert's experience of domain richness enabling further learning. [[chunking]] — the packaging of familiar patterns into single units that can be handled by working memory as a single element — is the mechanism by which schema development reduces the intrinsic load of domain content over time. A chess grandmaster doesn't see 32 individual pieces requiring individual attention in a mid-game position; they see a small number of strategic configurations that can each be represented as a single cognitive unit. An expert philosopher reading an argument in a familiar tradition doesn't parse each logical step individually; they recognise the argument form as a familiar instance of a known pattern, freeing working memory for evaluation of its specific application.
+The inverse of the novice's high intrinsic load experience is the expert's experience of domain richness enabling further learning. [[Chunk (Miller, 1956; Chase & Simon, 1973)]] — the packaging of familiar patterns into single units that can be handled by working memory as a single element — is the mechanism by which schema development reduces the intrinsic load of domain content over time. A chess grandmaster doesn't see 32 individual pieces requiring individual attention in a mid-game position; they see a small number of strategic configurations that can each be represented as a single cognitive unit. An expert philosopher reading an argument in a familiar tradition doesn't parse each logical step individually; they recognise the argument form as a familiar instance of a known pattern, freeing working memory for evaluation of its specific application.
 
 For PKM, the expert experience of chunking has an important implication: the same PKM system that reduces cognitive load for a practitioner who has deeply internalised the system's structure may impose high load on a less experienced user, or on the same practitioner when working in an unfamiliar domain. The structural conventions that feel automatic to an experienced practitioner — instantly routing new notes to appropriate locations, effortlessly recognising which existing notes are relevant, generating new links from pattern recognition rather than deliberate search — are the products of schema development in the domain of one's own PKM system. They are learnable. But this means that PKM systems have a learning curve that is genuinely cognitive in nature, not merely procedural — and that evaluating a PKM system's cognitive cost during the learning phase may not predict its cognitive cost at mastery.
 
@@ -569,7 +569,7 @@ If Section 6 examined what makes PKM cognitively costly (intrinsic load from ele
 
 Schema formation does not happen automatically with information exposure. The extensive research on [[levels-of-processing-theory]] (Craik & Lockhart, 1972) established that the depth of cognitive processing during exposure — not the duration or repetition of exposure — determines the quality of subsequent memory and understanding. Deep processing, characterised by elaboration, meaning extraction, and connection to existing knowledge, produces durable and richly connected schemas. Shallow processing, characterised by perceptual encoding without elaboration (copying, highlighting, passive re-reading), produces transient and weakly connected traces that support recognition but not genuine understanding.
 
-For PKM, this has a design implication that many practitioners find uncomfortable: the activities that feel most like learning and knowledge organisation — reading attentively, collecting quotes, highlighting key passages, carefully filing notes — may produce substantially less schema formation than the activities that feel effortful and uncertain — writing in one's own words, making explicit connections between ideas, formulating questions that surface gaps, synthesising across sources into original propositions. The research on [[desirable-difficulties]] (Bjork, 1994) extends this insight: tasks that impose difficulty during processing (requiring retrieval practice, spacing, interleaving, and generation) produce better long-term learning outcomes than tasks that reduce processing difficulty, even though the difficult conditions feel less productive in the moment.
+For PKM, this has a design implication that many practitioners find uncomfortable: the activities that feel most like learning and knowledge organisation — reading attentively, collecting quotes, highlighting key passages, carefully filing notes — may produce substantially less schema formation than the activities that feel effortful and uncertain — writing in one's own words, making explicit connections between ideas, formulating questions that surface gaps, synthesising across sources into original propositions. The research on [[Desirable Difficulties (Robert Bjork, 1994)]] (Bjork, 1994) extends this insight: tasks that impose difficulty during processing (requiring retrieval practice, spacing, interleaving, and generation) produce better long-term learning outcomes than tasks that reduce processing difficulty, even though the difficult conditions feel less productive in the moment.
 
 > [!key-claim] PKM's Core Psychological Paradox: Ease and Achievement Diverge
 > The activities that feel most productivity-positive in PKM practice — smooth capture, clean organisation, frictionless filing — are often the activities that produce the least genuine cognitive benefit. Conversely, the activities that feel slow, uncertain, and effortful — synthesis writing, explicit connection generation, formulation of questions that require further investigation — are the activities most associated with genuine schema formation. Systems and workflows optimised for subjective smoothness may be systematically underinvesting in the effortful processing that produces durable knowledge.
@@ -589,7 +589,7 @@ A well-designed note template can serve as an elaborative encoding scaffold. A t
 >
 > **Report-Specific Significance:** PKM workflows that support elaborative encoding — requiring connection generation, reformulation, and question-raising at the point of capture — produce better schema formation outcomes than workflows optimised for smooth, high-volume information storage.
 >
-> **See also:** [[desirable-difficulties]], [[deep-processing]], [[note-making-vs.-note-taking]], [[levels-of-processing-theory]], [[self-regulated-learning]]
+> **See also:** [[Desirable Difficulties (Robert Bjork, 1994)]], [[deep-processing]], [[note-making-vs.-note-taking]], [[levels-of-processing-theory]], [[self-regulated-learning]]
 
 ### 7.3 The Generation Effect and Progressive Summarization
 
@@ -627,7 +627,7 @@ This represents a structural gap in most PKM systems: the transition from captur
 
 ## Section 8: The Expertise-Reversal Effect — Why What Works for Beginners Fails Experts
 
-One of the most important and practically underappreciated findings in CLT is the [[expertise-reversal-effect]]: instructional methods that are highly effective for novices — methods that provide worked examples, detailed guidance, explicit step-by-step procedures, and carefully sequenced elemental instruction — often become ineffective or counterproductive for more advanced learners. The worked example that dramatically reduces a novice's cognitive load, because it allows them to study an expert solution without the full cost of problem-solving, imposes redundancy-based extraneous load on an expert who already has the relevant schemas and doesn't need the step-by-step guidance. For the expert, being forced to process detailed guidance they have already automated is not neutral — it actively interferes with their natural, efficient problem-solving processes.
+One of the most important and practically underappreciated findings in CLT is the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]: instructional methods that are highly effective for novices — methods that provide worked examples, detailed guidance, explicit step-by-step procedures, and carefully sequenced elemental instruction — often become ineffective or counterproductive for more advanced learners. The worked example that dramatically reduces a novice's cognitive load, because it allows them to study an expert solution without the full cost of problem-solving, imposes redundancy-based extraneous load on an expert who already has the relevant schemas and doesn't need the step-by-step guidance. For the expert, being forced to process detailed guidance they have already automated is not neutral — it actively interferes with their natural, efficient problem-solving processes.
 
 In Kalyuga's (2007) formulation, expertise reversal arises because the cognitive architecture of the expert learner is fundamentally different from that of the novice. Novices need structure, scaffolding, and guidance because they lack the schemas needed to generate appropriate responses independently. Experts have those schemas and in many cases need only a problem statement and retrieval cues — the additional guidance that helps novices is, for experts, not merely redundant but actively disruptive to the more efficient automated processing that their schemas enable.
 
@@ -646,7 +646,7 @@ But for an experienced PKM practitioner who has developed their own reliable cap
 >
 > **Report-Specific Significance:** PKM frameworks and methods should be evaluated not as universally applicable prescriptions but as solutions optimised for particular expertise levels. Practitioners should expect their optimal PKM design to evolve as their schemas develop, and should recognise resistance to previously helpful structures as a signal of expertise development rather than system failure.
 >
-> **See also:** [[expertise-reversal-effect]], [[faded-worked-example]], [[Cognitive-Load-Management-Strategies]], [[self-regulated-learning]], [[metacognition]]
+> **See also:** [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], [[faded-worked-example]], [[Cognitive-Load-Management-Strategies]], [[self-regulated-learning]], [[metacognition]]
 
 ### 8.2 The Evolution of Optimal PKM Design
 
@@ -663,7 +663,7 @@ The expertise-reversal insight generates a developmental model of PKM design: th
 >
 > **Epistemic Status:** Well-motivated synthesis based on the expertise-reversal effect (Kalyuga, 2007) applied to PKM practice. The three-stage developmental model is original to this report and speculative at the edges; the core principle of developmental adaptation is well-supported by the underlying CLT research.
 >
-> **See also:** [[expertise-reversal-effect]], [[self-regulated-learning]], [[metacognition]], [[knowledge-management]]
+> **See also:** [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], [[self-regulated-learning]], [[metacognition]], [[knowledge-management]]
 
 ### 8.3 Navigating the Transition Zones
 
@@ -833,7 +833,7 @@ Halpern (1998), Perkins and Salomon (1988), and Barnett and Ceci (2002) identify
 >
 > **Boundary Condition:** The expertise-reversal effect applies here with particular force: instructional scaffolding appropriate for first-year students (worked examples, detailed rubrics, step-by-step procedures) may actively harm the learning of senior students who need to develop independent judgment. Adaptive instruction design that varies scaffolding by student expertise level is the theoretically optimal but practically demanding solution.
 >
-> **See also:** [[transfer-of-learning]], [[cognitive-load-theory]], [[four-component-instructional-design]], [[desirable-difficulties]]
+> **See also:** [[transfer-of-learning]], [[Cognitive Load Theory (CLT)]], [[four-component-instructional-design-4cid — Design Methodology for Complex Learning]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > [!far-transfer] Transfer Domain 2: Organisational Knowledge Management
 >
@@ -843,7 +843,7 @@ Halpern (1998), Perkins and Salomon (1988), and Barnett and Ceci (2002) identify
 >
 > **Boundary Condition:** Organisational KM adds a social coordination dimension absent from individual PKM. Structures that are individually suboptimal but collectively legible (a standard folder hierarchy that everyone follows consistently) may outperform individually optimal structures that coordination costs prevent from being applied consistently. The minimum structure principle requires modification: minimum viable shared structure is not the same as minimum individual structure.
 >
-> **See also:** [[knowledge-management]], [[distributed-cognition]], [[Information-Architecture]], [[cognitive-offloading]]
+> **See also:** [[knowledge-management]], [[distributed-cognition]], [[Information-Architecture]], [[Cognitive Offloading]]
 
 > [!far-transfer] Transfer Domain 3: Personal Productivity and Attention Management
 >
@@ -853,7 +853,7 @@ Halpern (1998), Perkins and Salomon (1988), and Barnett and Ceci (2002) identify
 >
 > **Boundary Condition:** GTD, like Zettelkasten, has high entry and maintenance costs that may generate extraneous load complications at scale. The expertise-reversal principle suggests that simplified implementations may be optimal for most practitioners until the pattern-recognition required for efficient GTD implementation has developed.
 >
-> **See also:** [[self-regulated-learning]], [[metacognition]], [[cognitive-offloading]], [[extended-mind-theory]]
+> **See also:** [[self-regulated-learning]], [[metacognition]], [[Cognitive Offloading]], [[Extended Mind Thesis (Clark & Chalmers, 1998)]]
 
 **Metacognitive Transfer Prompt:** As you leave this report, identify one domain in your professional or intellectual life — outside of your explicit PKM practice — where the three-load distinction could serve as a useful diagnostic tool. The question "where am I generating extraneous load that could be reduced by better design?" is immediately applicable in any context where a human mind is engaging with complex information under capacity constraints.
 
@@ -889,35 +889,35 @@ The practical horizon of this analysis is not a specific PKM tool, method, or ar
 >
 > **Boundary:** Cognitive load is not synonymous with subjective difficulty. Tasks can feel difficult due to high intrinsic load (genuine material complexity), high extraneous load (poor design), or both. Distinguishing the source of experienced difficulty is the clinician act that CLT makes possible.
 >
-> **See also:** [[cognitive-load-theory]], [[intrinsic-cognitive-load]], [[extraneous-load]], [[germane-load]], [[working-memory]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[extraneous-load]], [[Cognitive Load Theory (CLT)]], [[working-memory]]
 
 > [!definition] **Cognitive Load Theory (Sweller, 1988; Sweller et al., 1998)**
 > An instructional design theory grounded in the architecture of human working memory. CLT holds that effective learning requires understanding working memory's limited capacity and three qualitatively different types of cognitive load (intrinsic, extraneous, germane), and designing instruction to minimise extraneous load while managing intrinsic load and promoting germane processing.
 >
 > **Boundary:** CLT was developed in instructional contexts; its extension to self-directed knowledge management involves interpretive extrapolation. The core WM-capacity mechanisms are domain-independent; specific design recommendations require adaptation for the PKM context.
 >
-> **See also:** [[cognitive-load-theory]], [[instructional-design]], [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]], [[four-component-instructional-design]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[instructional-design]], [[Intrinsic,-Extraneous,-and-Germane-Cognitive-Load]], [[four-component-instructional-design-4cid — Design Methodology for Complex Learning]]
 
 > [!definition] **Schema (Bartlett, 1932; Rumelhart, 1980; Sweller, 1988)**
 > An organized cognitive structure in long-term memory that encodes patterns of related information, enabling recognition, prediction, and rapid processing. Schemas allow experts to handle complex material as a small number of familiar chunks rather than as many individual elements. In CLT, schema formation is the primary goal of effective instruction and learning.
 >
 > **Boundary:** Schemas are not static records — they are active, reconstructive structures that can distort memory toward prior expectations (Bartlett's original finding). Schema-rich understanding is generally more flexible than rule-following, but schemas can also produce systematic inference errors in novel situations.
 >
-> **See also:** [[schema-theory]], [[schema-theory-and-learning]], [[long-term-memory]], [[chunking]]
+> **See also:** [[schema-theory-and-knowledge-organization]], [[schema-theory-and-learning]], [[long-term-memory]], [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 
 > [!definition] **Working Memory (Miller, 1956; Baddeley & Hitch, 1974)**
 > The cognitive system responsible for the temporary maintenance and manipulation of information during complex cognitive tasks. Comprises the central executive (attentional control), phonological loop (verbal rehearsal), visuospatial sketchpad (spatial/visual manipulation), and episodic buffer (multi-modal integration). Fundamental capacity limit: approximately 4 chunks simultaneously (Cowan, 2001).
 >
 > **Boundary:** Working memory capacity is not fixed across individuals or states — it varies with expertise (schemas expand effective capacity), fatigue, stress, and emotional state. The "4 chunks" estimate is an average for unrelated items in neutral conditions; meaningful material organized into schemas can approach much higher apparent capacities.
 >
-> **See also:** [[working-memory]], [[Baddeley's-Working-Memory-Model]], [[central-executive]], [[episodic-buffer]], [[george-miller]], [[chunking]]
+> **See also:** [[working-memory]], [[Baddeley's-Working-Memory-Model]], [[central-executive]], [[episodic-buffer]], [[george-miller]], [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 
 > [!definition] **Intrinsic Cognitive Load (Sweller & Chandler, 1994)**
 > The cognitive load arising from the inherent complexity of the material being processed, specifically from element interactivity — the degree to which understanding requires simultaneously processing multiple interdependent elements. Intrinsic load cannot be reduced by design without changing the material itself; it can only be managed through sequencing, scaffolding, and schema development.
 >
 > **Boundary:** Intrinsic load is relative to the learner's schema state, not fixed by the material. The same complex topic generates high intrinsic load for a novice and low intrinsic load for an expert whose schemas have chunked the relevant patterns.
 >
-> **See also:** [[intrinsic-cognitive-load]], [[element-interactivity]], [[schema-theory]], [[expertise-reversal-effect]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Technical Detail: The relationship between element interactivity and working-memory load]], [[schema-theory-and-knowledge-organization]], [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
 
 > [!definition] **Extraneous Cognitive Load (Sweller et al., 1998)**
 > The cognitive load arising from the presentation or organisation of material rather than from its inherent complexity. Extraneous load is always potentially reducible through better design. Primary sources include: split-attention effects, redundancy, unnecessary complexity, and poor navigational design. In PKM, extraneous load sources include taxonomy proliferation, synthesis debt, link abandonment, decision proliferation, and trust deficits.
@@ -931,28 +931,28 @@ The practical horizon of this analysis is not a specific PKM tool, method, or ar
 >
 > **Boundary:** Germane processing cannot be directly observed — it is inferred from learning outcomes. The subjective experience of productive intellectual struggle is a reasonable but imperfect proxy.
 >
-> **See also:** [[germane-load]], [[germane-cognitive-load]], [[desirable-difficulties]], [[deep-processing]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[deep-processing]]
 
 > [!definition] **Expertise-Reversal Effect (Kalyuga et al., 2003)**
 > The phenomenon whereby instructional supports effective for novices (worked examples, detailed scaffolding, step-by-step procedures) become ineffective or counterproductive for more advanced learners. Expertise reversal arises because schemas allow experts to process material efficiently in ways that detailed guidance disrupts rather than supports.
 >
 > **Boundary:** The effect is domain-specific — an expert in one domain may simultaneously function as a novice in a related sub-domain, requiring different scaffolding levels for different elements of their work.
 >
-> **See also:** [[expertise-reversal-effect]], [[faded-worked-example]], [[schema-theory]], [[self-regulated-learning]]
+> **See also:** [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], [[faded-worked-example]], [[schema-theory-and-knowledge-organization]], [[self-regulated-learning]]
 
 > [!definition] **Element Interactivity (Sweller, 1994)**
 > The degree to which understanding a body of information requires simultaneous processing of multiple interdependent elements. High element interactivity (where elements must be grasped together) generates high intrinsic load; low element interactivity (where elements can be processed sequentially) generates low intrinsic load.
 >
 > **Boundary:** Element interactivity is determined by the interaction between material structure and learner schema state, not by material alone. Familiar patterns that require high simultaneous processing for novices may be handled as single chunks by experts.
 >
-> **See also:** [[element-interactivity]], [[intrinsic-cognitive-load]], [[chunking]]
+> **See also:** [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Cognitive Load Theory (CLT)]], [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 
 > [!definition] **Cognitive Offloading (Risko & Gilbert, 2016)**
 > The use of external tools, technologies, or environmental structures to reduce internal cognitive load by delegating memory, computation, or decision-making functions to the environment. Beneficial when accessing the external storage is less cognitively costly than internal reconstruction; potentially harmful when it degrades internal encoding without providing reliable external access.
 >
 > **Boundary:** Cognitive offloading is distinct from the Extended Mind Thesis (Clark & Chalmers, 1998), though related. Offloading describes a cognitive strategy; the extended mind is a philosophical claim about the boundaries of cognition itself.
 >
-> **See also:** [[cognitive-offloading]], [[extended-mind-theory]], [[distributed-cognition]], [[working-memory]]
+> **See also:** [[Cognitive Offloading]], [[Extended Mind Thesis (Clark & Chalmers, 1998)]], [[distributed-cognition]], [[working-memory]]
 
 > [!definition] **Synthesis Debt (Original, this report)**
 > The accumulated backlog of captured but unprocessed information in a PKM system — material that has been stored but not evaluated, connected, or integrated into existing knowledge structures. Generates ongoing extraneous load through incomplete-task intrusion and increases the future cost of synthesis through required re-contextualisation.
@@ -966,7 +966,7 @@ The practical horizon of this analysis is not a specific PKM tool, method, or ar
 >
 > **Boundary:** Elaborative encoding requires that existing knowledge be available to connect to. In genuinely novel domains with no relevant prior schemas, basic comprehension strategies are necessary prerequisites.
 >
-> **See also:** [[levels-of-processing-theory]], [[note-making-vs.-note-taking]], [[desirable-difficulties]], [[schema-theory]]
+> **See also:** [[levels-of-processing-theory]], [[note-making-vs.-note-taking]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[schema-theory-and-knowledge-organization]]
 
 ---
 
@@ -990,7 +990,7 @@ The practical horizon of this analysis is not a specific PKM tool, method, or ar
 > **Core contribution to this report:** Cognitive load measurement methodology; germane load operationalisation; systematic CLT research programme.
 
 > [!person] **Jeroen van Merriënboer** (contemporary)
-> Educational technologist at Maastricht University; collaborator with Sweller and Paas; architect of the [[four-component-instructional-design]] (4C/ID) model — an application of CLT principles to complex professional skills training. Van Merriënboer's work extends CLT from simple task learning to complex, whole-task skill development.
+> Educational technologist at Maastricht University; collaborator with Sweller and Paas; architect of the [[four-component-instructional-design-4cid — Design Methodology for Complex Learning]] (4C/ID) model — an application of CLT principles to complex professional skills training. Van Merriënboer's work extends CLT from simple task learning to complex, whole-task skill development.
 >
 > **Core contribution to this report:** Germane load concept (with Sweller and Paas, 1998); extension of CLT to complex learning; practical CLT design guidelines.
 
@@ -1034,7 +1034,7 @@ Atkinson & Shiffrin (1968)           Bartlett (1932)
 > **Why it matters for PKM:** Whether germane load is conceptually distinct from intrinsic load determines whether PKM design should aim to "increase germane load" as an independent design variable or simply "reduce extraneous load and create conditions for productive intrinsic engagement." Practically, the design prescription is nearly identical; theoretically, the distinction remains live.
 
 > [!tension] **Cognitive Offloading as Cognitive Extension vs. Cognitive Replacement**
-> **The Tension:** Does a well-designed external PKM system genuinely extend the practitioner's cognitive capacity (the [[extended-mind-theory]] thesis: Clark & Chalmers, 1998), or does it replace internal memory in ways that degrade internal schema development?
+> **The Tension:** Does a well-designed external PKM system genuinely extend the practitioner's cognitive capacity (the [[Extended Mind Thesis (Clark & Chalmers, 1998)]] thesis: Clark & Chalmers, 1998), or does it replace internal memory in ways that degrade internal schema development?
 >
 > **Position A (Extended Mind):** If an external system meets conditions of accessibility, reliability, and endorsement, it functions as genuine cognitive extension — the practitioner's effective cognitive capacity includes the external system's contents.
 >
@@ -1260,7 +1260,7 @@ Atkinson & Shiffrin (1968)           Bartlett (1932)
 >
 > **Connection sentence template:** "[Note A] relates to [Note B] because [specific insight about their relationship], which implies [practical or theoretical consequence for understanding either concept]."
 >
-> **Example:** "[[expertise-reversal-effect]] relates to [[desirable-difficulties]] because both concern conditions under which instructional supports that reduce apparent difficulty degrade rather than enhance learning — which implies that optimal PKM design must assess the learner's current schema state, not simply minimise friction."
+> **Example:** "[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] relates to [[Desirable Difficulties (Robert Bjork, 1994)]] because both concern conditions under which instructional supports that reduce apparent difficulty degrade rather than enhance learning — which implies that optimal PKM design must assess the learner's current schema state, not simply minimise friction."
 >
 > **Why it works:** Forces elaborative encoding of each connection; builds a retrievable knowledge graph rather than isolated captures; the act of writing the connection sentence often generates the most valuable insight from a reading or synthesis session.
 
@@ -1383,42 +1383,42 @@ Atkinson & Shiffrin (1968)           Bartlett (1932)
 > > **Connection to this report:** The Load Phase Audit protocol in Appendix 8.7 is a practical approximation; rigorous self-monitoring methods would transform this from heuristic to empirically grounded practice.
 > > **Priority:** High
 > > **Suggested Report Type:** Practitioner's Field Guide
-> > **Prerequisites:** [[cognitive-load-theory]], [[working-memory]], [[self-regulated-learning]]
+> > **Prerequisites:** [[Cognitive Load Theory (CLT)]], [[working-memory]], [[self-regulated-learning]]
 
 > > [!topic-idea] **[[clt-as-a-dynamic-load-optimization-problem]]**
 > > **Description:** This report treats cognitive load as a qualitative framework for PKM design. A more formalised treatment could model the PKM system as a dynamic resource allocation problem — in the style of dual-process or cognitive control modelling — where intrinsic, extraneous, and germane loads interact across time, expertise level, and task phase. What would a mathematical or computational model of optimal PKM load allocation look like? What predictions would it make about system design that the qualitative framework does not?
 > > **Connection to this report:** The Load-Phase Model table in Section 10 provides an initial discretisation; formalisation would require specifying the interaction rules and optimisation objective.
 > > **Priority:** Exploratory
 > > **Suggested Report Type:** Foundational Report
-> > **Prerequisites:** [[cognitive-load-theory]], [[working-memory]], [[dual-process-theory]]
+> > **Prerequisites:** [[Cognitive Load Theory (CLT)]], [[working-memory]], [[dual-process-theory]]
 
-> > [!topic-idea] **[[expertise-reversal-effect]]** (Longitudinal PKM Application)
+> > [!topic-idea] **[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]** (Longitudinal PKM Application)
 > > **Description:** The expertise-reversal principle predicts that as PKM practitioners develop expertise over years, optimal system design should shift from structured, rule-governed approaches toward sparse, semantically rich frameworks. But no research has tracked individual PKM practitioners longitudinally to observe this developmental trajectory empirically. A dedicated investigation of the expertise-reversal effect specifically in self-directed knowledge management — including the identification of transition markers and the design features that support transitions — would substantially strengthen the Adaptive Structure Principle introduced in this report.
 > > **Connection to this report:** Section 8 and the Adaptive Structure Principle rest directly on extrapolation from instructional expertise-reversal research; longitudinal PKM-specific evidence would either validate or require revision of that principle.
 > > **Priority:** High
 > > **Suggested Report Type:** Annotated Critical Analysis
-> > **Prerequisites:** [[expertise-reversal-effect]], [[self-regulated-learning]], [[metacognition]]
+> > **Prerequisites:** [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], [[self-regulated-learning]], [[metacognition]]
 
 > > [!topic-idea] **[[note-making-vs.-note-taking]]** (Systematic Comparison)
 > > **Description:** The distinction between note-taking (transcription and capture) and note-making (elaboration, synthesis, connection) is central to Section 7's argument, but the empirical evidence base for this distinction in authentic PKM settings is thin. A systematic review and synthesis of what the cognitive and learning science literatures actually say about handwriting vs. typing, verbatim vs. paraphrased notes, linear vs. concept-mapped notes, and generative vs. passive annotations would provide a rigorous evidence base for this critical design principle.
 > > **Connection to this report:** Section 7 relies heavily on the note-making/note-taking distinction; empirical grounding would strengthen or nuance its recommendations.
 > > **Priority:** High
 > > **Suggested Report Type:** Comparative Architecture
-> > **Prerequisites:** [[cognitive-load-theory]], [[elaborative-encoding]], [[desirable-difficulties]]
+> > **Prerequisites:** [[Cognitive Load Theory (CLT)]], [[elaborative-encoding]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > > [!topic-idea] **[[distributed-cognition]]** (Collaborative PKM)
 > > **Description:** This report treats PKM as an individual cognitive practice. But knowledge work increasingly occurs in collaborative settings where multiple agents share information environments, annotation practices, and synthesis workflows. Distributed cognition theory (Hutchins, 1995) offers a framework for analysing how cognitive processes are distributed across individuals, artefacts, and environments. An investigation of collaborative PKM through a distributed cognition lens would extend this report's principles to team knowledge management.
 > > **Connection to this report:** The cognitive offloading analysis in Section 4 assumes a single practitioner; distributed cognition extends the analysis to networks of agents.
 > > **Priority:** Medium
 > > **Suggested Report Type:** Foundational Report
-> > **Prerequisites:** [[extended-mind-theory]], [[knowledge-management]], [[cognitive-offloading]]
+> > **Prerequisites:** [[Extended Mind Thesis (Clark & Chalmers, 1998)]], [[knowledge-management]], [[Cognitive Offloading]]
 
 > > [!topic-idea] **[[self-regulated-learning]]** (Metacognitive PKM Design)
 > > **Description:** The Cognitive Priority Principle states that practitioners should allocate cognitive resources proportionally to cognitive value — but this requires metacognitive skill: the ability to monitor one's own cognitive processes, recognise when synthesis is occurring vs. when capture bias is operating, and deliberately regulate effort allocation. Self-regulated learning research offers a mature framework for understanding how practitioners develop these metacognitive skills and what instructional conditions support their development. Applying SRL theory to PKM skill development would provide the metacognitive infrastructure this report implicitly requires.
 > > **Connection to this report:** The Cognitive Priority Principle and the developmental model in Section 8 both assume growing metacognitive capacity; SRL theory would provide the mechanism.
 > > **Priority:** High
 > > **Suggested Report Type:** Foundational Report
-> > **Prerequisites:** [[metacognition]], [[self-regulated-learning]], [[expertise-reversal-effect]]
+> > **Prerequisites:** [[metacognition]], [[self-regulated-learning]], [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
 
 ---
 
@@ -1428,15 +1428,15 @@ Atkinson & Shiffrin (1968)           Bartlett (1932)
 >
 > **1. Upstream Dependencies — This Report Builds On:**
 >
-> [[cognitive-load-theory]] — The entire theoretical apparatus of this report rests on CLT's foundational claims about working memory, load types, and the conditions for schema formation. Without understanding CLT as a framework developed in instructional psychology, the PKM applications in this report cannot be properly evaluated.
+> [[Cognitive Load Theory (CLT)]] — The entire theoretical apparatus of this report rests on CLT's foundational claims about working memory, load types, and the conditions for schema formation. Without understanding CLT as a framework developed in instructional psychology, the PKM applications in this report cannot be properly evaluated.
 >
 > [[working-memory]] — Baddeley's multi-component model provides the architecture within which cognitive load operates. The episodic buffer's role in synthesis, the Central Executive's role in attentional control, and the WM-LTM interface are all structural claims about working memory that this report applies to PKM contexts.
 >
-> [[schema-theory]] — Schema formation is the declared goal of productive cognitive load management throughout this report. The claims about expert vs. novice load dynamics, expertise-reversal, and the germane processing target all presuppose schema theory's account of how expertise develops.
+> [[schema-theory-and-knowledge-organization]] — Schema formation is the declared goal of productive cognitive load management throughout this report. The claims about expert vs. novice load dynamics, expertise-reversal, and the germane processing target all presuppose schema theory's account of how expertise develops.
 >
-> [[desirable-difficulties]] — Robert Bjork's framework for conditions that appear to impede performance during learning but enhance long-term retention underlies Section 7's argument about effortful synthesis. The recommendation to preserve synthesis friction is an application of desirable difficulties principles.
+> [[Desirable Difficulties (Robert Bjork, 1994)]] — Robert Bjork's framework for conditions that appear to impede performance during learning but enhance long-term retention underlies Section 7's argument about effortful synthesis. The recommendation to preserve synthesis friction is an application of desirable difficulties principles.
 >
-> [[extended-mind-theory]] — Clark & Chalmers' argument that cognitive processes can extend beyond skull-and-skin provides the philosophical context for evaluating PKM systems as genuine cognitive extensions rather than merely convenient storage.
+> [[Extended Mind Thesis (Clark & Chalmers, 1998)]] — Clark & Chalmers' argument that cognitive processes can extend beyond skull-and-skin provides the philosophical context for evaluating PKM systems as genuine cognitive extensions rather than merely convenient storage.
 >
 > **2. Downstream Applications — This Report Enables:**
 >
@@ -1446,7 +1446,7 @@ Atkinson & Shiffrin (1968)           Bartlett (1932)
 >
 > [[note-making-vs.-note-taking]] — The elaborative encoding vs. passive capture distinction central to Section 7 provides the theoretical framework for a systematic empirical comparison of note-making practices.
 >
-> [[expertise-reversal-effect]] (longitudinal PKM) — The Adaptive Structure Principle (Section 8) is the direct motivation for longitudinal investigation of expertise-reversals in PKM populations.
+> [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] (longitudinal PKM) — The Adaptive Structure Principle (Section 8) is the direct motivation for longitudinal investigation of expertise-reversals in PKM populations.
 >
 > [[self-regulated-learning]] (PKM application) — The Cognitive Priority Principle requires metacognitive skill for implementation; SRL theory would provide the developmental model for how practitioners acquire that skill.
 >
@@ -1464,11 +1464,11 @@ Atkinson & Shiffrin (1968)           Bartlett (1932)
 >
 > **4. Strengthened Nodes — Permanent Notes Enriched by This Report:**
 >
-> [[intrinsic-cognitive-load]] — The PKM Extraneous Load Taxonomy (Section 3) provides concrete PKM-specific instantiations of extraneous load that strengthen and contextualise the abstract concept.
+> [[Cognitive Load Theory (CLT)]] — The PKM Extraneous Load Taxonomy (Section 3) provides concrete PKM-specific instantiations of extraneous load that strengthen and contextualise the abstract concept.
 >
-> [[expertise-reversal-effect]] — Section 8's Three-Stage Developmental Model provides a novel application domain for the expertise-reversal effect that the existing note may not include.
+> [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] — Section 8's Three-Stage Developmental Model provides a novel application domain for the expertise-reversal effect that the existing note may not include.
 >
-> [[cognitive-offloading]] — Section 4's analysis of when PKM offloading is beneficial vs. counterproductive (accessing cost vs. reconstruction cost heuristic) adds nuance to the cognitive offloading note.
+> [[Cognitive Offloading]] — Section 4's analysis of when PKM offloading is beneficial vs. counterproductive (accessing cost vs. reconstruction cost heuristic) adds nuance to the cognitive offloading note.
 
 ---
 

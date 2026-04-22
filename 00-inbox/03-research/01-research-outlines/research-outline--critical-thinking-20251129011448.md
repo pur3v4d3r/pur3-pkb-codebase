@@ -222,7 +222,7 @@ Applying CT skills to research, synthesis, and PKB integration
 4. How do different disciplines conceptualize and operationalize CT?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[critical-thinking]], [[metacognition]], [[executive-function]], [[working-memory]], [[paul-elder-framework]], [[Bloom's-Taxonomy]], [[Facione's CT Model]], [[ACER Framework]], [[epistemology]], [[cognitive-architecture]]
+- Core concepts to wiki-link: [[critical-thinking]], [[metacognition]], [[executive-function]], [[working-memory]], [[paul-elder-framework]], [[Bloom's-Taxonomy]], [[Facione's CT Model]], [[ACER Framework]], [[epistemology]], [[Cognitive Architecture]]
 - Recommended tags: #critical-thinking/foundations #cognitive-science #educational-theory
 - Connection points: Links to existing [[cognitive-science]], [[Learning Theory]], [[philosophy]] notes; creates foundation for all subsequent CT topics
 

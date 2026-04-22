@@ -121,7 +121,7 @@ The relationship between external organizational structures (folders, tags, link
 
 Working memory only stores between five and nine items of information, with seven items being the average, and lasts only between 15 and 30 seconds without rehearsal. This severe limitation has profound implications for PKM organization. External organizational structures function as cognitive scaffolding that offloads the burden of maintaining complex relationships and hierarchies from working memory to the environment.
 
-The principle of [[chunking]]—grouping pieces of information together to facilitate retention—operates at both cognitive and organizational levels. Instead of recalling each piece individually, individuals recall the entire group and then can retrieve each item from that group more easily. In PKM terms, folders, MOCs (Maps of Content), and tag hierarchies serve as chunks that reduce the cognitive load of navigating large information spaces.
+The principle of [[Chunk (Miller, 1956; Chase & Simon, 1973)]]—grouping pieces of information together to facilitate retention—operates at both cognitive and organizational levels. Instead of recalling each piece individually, individuals recall the entire group and then can retrieve each item from that group more easily. In PKM terms, folders, MOCs (Maps of Content), and tag hierarchies serve as chunks that reduce the cognitive load of navigating large information spaces.
 
 **Organizational Strategies for Reducing Cognitive Load**:
 

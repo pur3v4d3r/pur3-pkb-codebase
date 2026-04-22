@@ -112,25 +112,25 @@ They have outgoing links but nothing links back to them.
 
 | Note | Incoming | Outgoing |
 |---|---|---|
-| [[cognitive-load-theory]] | 422 | 55 |
+| [[Cognitive Load Theory (CLT)]] | 422 | 55 |
 | [[self-determination-theory]] | 297 | 102 |
 | [[self-regulated-learning]] | 276 | 69 |
 | [[working-memory]] | 276 | 65 |
-| [[schema-theory]] | 247 | 5 |
+| [[schema-theory-and-knowledge-organization]] | 247 | 5 |
 | [[metacognition]] | 231 | 52 |
 | [[dual-process-theory]] | 220 | 37 |
 | [[growth-mindset]] | 218 | 92 |
 | [[metacognitive-monitoring]] | 194 | 64 |
-| [[fluency-illusion]] | 181 | 72 |
+| [[Fluency Illusion]] | 181 | 72 |
 | [[transfer-of-learning]] | 181 | 58 |
 | [[_permanent-notes-index]] | 178 | 2348 |
-| [[intrinsic-motivation]] | 178 | 114 |
-| [[attribution-theory]] | 169 | 88 |
+| [[Intrinsic Motivation]] | 178 | 114 |
+| [[Attribution (Heider, 1958)]] | 169 | 88 |
 | [[organismic-integration-theory]] | 158 | 138 |
 | [[_Master-PKB-Connections-Index]] | 151 | 876 |
 | [[achievement-goal-theory]] | 147 | 9 |
 | [[edward-deci]] | 147 | 20 |
-| [[basic-psychological-needs]] | 146 | 112 |
+| [[Basic Psychological Needs]] | 146 | 112 |
 | [[fallibilism]] | 144 | 52 |
 
 ---

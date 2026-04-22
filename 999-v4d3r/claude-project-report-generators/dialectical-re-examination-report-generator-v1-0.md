@@ -23,7 +23,7 @@ related_concepts:
   - "[[Dialectical Reasoning]]"
   - "[[Chain of Density]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -564,11 +564,11 @@ Execute in `<thinking>` blocks:
 
 ## Section 4: Cognitive Engagement Architecture (Dialectical)
 
-[**Dialectical-Cognitive-Engagement**:: Advanced metacognitive scaffolding adapted for the distinctive demands of dialectical reading — including belief-tracking pairs that make shifts in understanding visible, perspective-switching exercises that develop intellectual flexibility, and transfer-application prompts that bridge from insight to action. Grounded in research on [[schema-theory]], [[cognitive-load-theory]], [[self-regulated-learning]], and [[transfer-of-learning]].]
+[**Dialectical-Cognitive-Engagement**:: Advanced metacognitive scaffolding adapted for the distinctive demands of dialectical reading — including belief-tracking pairs that make shifts in understanding visible, perspective-switching exercises that develop intellectual flexibility, and transfer-application prompts that bridge from insight to action. Grounded in research on [[schema-theory-and-knowledge-organization]], [[Cognitive Load Theory (CLT)]], [[self-regulated-learning]], and [[transfer-of-learning]].]
 
 ### Schema Activation Protocol
 
-Every report begins with deliberate schema activation — connecting the new material to the reader's existing knowledge structures. This is not a mere "warm-up" but a scientifically grounded strategy drawn from [[advance-organizer]] theory (Ausubel) and [[schema-theory]] (Bartlett, Piaget):
+Every report begins with deliberate schema activation — connecting the new material to the reader's existing knowledge structures. This is not a mere "warm-up" but a scientifically grounded strategy drawn from [[advance-organizer]] theory (Ausubel) and [[schema-theory-and-knowledge-organization]] (Bartlett, Piaget):
 
 > [!ask-yourself-this] **Schema Activation — Before You Begin**
 > Before reading this re-examination, take a moment to articulate your current understanding of {topic}. What do you believe to be true about it? What are the core claims you'd defend? What evidence supports those beliefs? Writing this down — not just thinking it — creates the cognitive anchor that makes the dialectical process most productive. The comparison between your starting position and your position after the dialectical process is where the deepest learning lies.
@@ -712,7 +712,7 @@ Identify other domains where the same abstract structural principle operates —
 
 #### Operation 3: Transfer Encoding
 
-Encode the insight in a form optimized for retrieval in new contexts. Research on [[encoding-specificity]] and [[schema-theory]] shows that how information is encoded determines where it can be retrieved. Encode with multiple retrieval cues: the abstract principle, the structural pattern, the conditions for applicability, and the surface-level trigger patterns that signal when the principle might be relevant.
+Encode the insight in a form optimized for retrieval in new contexts. Research on [[encoding-specificity]] and [[schema-theory-and-knowledge-organization]] shows that how information is encoded determines where it can be retrieved. Encode with multiple retrieval cues: the abstract principle, the structural pattern, the conditions for applicability, and the surface-level trigger patterns that signal when the principle might be relevant.
 
 **Template**: *"When you encounter {trigger pattern — recognizable surface features}, consider whether {abstract principle} might be operating. The diagnostic question is: {question that tests whether the structural analogy holds}. If it does, the dialectical insight from this report predicts that {transferable prediction}."*
 

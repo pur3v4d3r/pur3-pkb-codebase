@@ -135,8 +135,8 @@ related:
   - "[[critical-thinking-in-education|Critical Thinking in Education]]"
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[dual-process-theory|Dual-Process Theory]]"
-  - "[[schema-theory|Schema Theory]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[fallibilism]]"
 
 broader:
@@ -174,7 +174,7 @@ applied-in:
 builds-on:
   - "[[inductive-reasoning|Inductive Reasoning]]"
   - "[[abductive-reasoning|Abductive Reasoning]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[critical-thinking-in-education|Critical Thinking in Education]]"
 
 enables:
@@ -398,10 +398,10 @@ Now present the same student with: "Some A's are B's. All B's are C's. What foll
 
 The connection between deductive performance and [[working-memory|working memory]] capacity is one of the most consistently documented findings in the cognitive science of reasoning. Working memory — the system responsible for temporarily holding and manipulating information during active cognitive processing — is the bottleneck for deductive inference. Each mental model constructed from the premises occupies working memory resources; additional models demand additional resources; and when capacity is exceeded, models are lost, leading to invalid conclusions.
 
-This working memory dependence has three important implications for education. First, it explains why deductive reasoning is developmentally late-emerging: the [[prefrontal-cortex|prefrontal cortex]] regions subserving working memory and executive control continue developing well into adolescence and early adulthood, meaning young children are intrinsically limited in their deductive capacity. Second, it implies that reducing extraneous [[cognitive-load|cognitive load]] in deductive tasks — by using familiar content, providing external representations, or pre-teaching component concepts — can substantially improve performance. Third, it suggests that deliberate practice at deductive tasks may enhance performance partly by automating component sub-processes, freeing working memory for the harder integrative steps.
+This working memory dependence has three important implications for education. First, it explains why deductive reasoning is developmentally late-emerging: the [[prefrontal-cortex|prefrontal cortex]] regions subserving working memory and executive control continue developing well into adolescence and early adulthood, meaning young children are intrinsically limited in their deductive capacity. Second, it implies that reducing extraneous [[Cognitive Load Theory (CLT)|cognitive load]] in deductive tasks — by using familiar content, providing external representations, or pre-teaching component concepts — can substantially improve performance. Third, it suggests that deliberate practice at deductive tasks may enhance performance partly by automating component sub-processes, freeing working memory for the harder integrative steps.
 
 > [!key-insight]
-> The [[cognitive-load-theory|Cognitive Load Theory]] framework developed by John Sweller provides a complementary lens here: much of the difficulty in deductive learning tasks arises from intrinsic and extraneous cognitive load exceeding available capacity. Instructional designs that manage load — through worked examples, progressive complexity, and spatial representations — can make formally equivalent problems significantly more tractable.
+> The [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] framework developed by John Sweller provides a complementary lens here: much of the difficulty in deductive learning tasks arises from intrinsic and extraneous cognitive load exceeding available capacity. Instructional designs that manage load — through worked examples, progressive complexity, and spatial representations — can make formally equivalent problems significantly more tractable.
 
 ### Belief Bias: When Prior Knowledge Corrupts Deduction
 
@@ -516,7 +516,7 @@ Three significant open questions remain for both the science and pedagogy of ded
 >
 > - **[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]** — The dual-process account of deductive failure places metacognitive skill at the center of deductive competence. Belief bias — the most practically significant deductive error — is overcome by metacognitive monitoring of one's own reasoning process: detecting the System 1 "feels true" signal and overriding it with System 2 evaluation. The metacognition reports in the PKB provide the mechanisms that explain *how* deductive competence is sustained under conditions of motivated reasoning and belief challenge.
 >
-> - **[[schema-theory|Schema Theory]]** — The pragmatic reasoning schema research constitutes one of the most important applications of schema theory to a specific cognitive domain. Cheng and Holyoak's permission schema research shows schemas not merely as knowledge structures but as reasoning engines — activating inference procedures that are locally valid and domain-adapted. The schema theory report provides the broader theoretical framework within which this application can be understood.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — The pragmatic reasoning schema research constitutes one of the most important applications of schema theory to a specific cognitive domain. Cheng and Holyoak's permission schema research shows schemas not merely as knowledge structures but as reasoning engines — activating inference procedures that are locally valid and domain-adapted. The schema theory report provides the broader theoretical framework within which this application can be understood.
 >
 > - **[[critical-thinking-in-education|Critical Thinking in Education]]** — Deductive reasoning is one of the core competencies subsumed under the broader concept of critical thinking, but it is frequently conflated with critical thinking in general. The current report provides the precise technical specification of what deductive skill involves; the Critical Thinking in Education report provides the broader pedagogical framework within which deductive instruction should be situated.
 >

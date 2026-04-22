@@ -219,13 +219,13 @@ aliases: [CoT, Chain of Thought, CoT Prompting, Reasoning Chains, Step-by-Step R
 
 **Example:**
 ```yaml
-related: [[cognitive-load-theory]], [[working-memory]], [[schema-theory]], [[instructional-design]]
+related: [[Cognitive Load Theory (CLT)]], [[working-memory]], [[schema-theory-and-knowledge-organization]], [[instructional-design]]
 ```
 
 **Why These?**
-- [[cognitive-load-theory]] - Theoretical foundation
+- [[Cognitive Load Theory (CLT)]] - Theoretical foundation
 - [[working-memory]] - Prerequisite concept
-- [[schema-theory]] - Related framework
+- [[schema-theory-and-knowledge-organization]] - Related framework
 - [[instructional-design]] - Application domain
 
 ---
@@ -243,7 +243,7 @@ modified: 2025-01-15
 status: evergreen
 certainty: verified
 type: atomic
-related: [[Ebbinghaus Forgetting Curve]], [[retrieval-practice]], [[cognitive-load-theory]]
+related: [[Ebbinghaus Forgetting Curve]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Cognitive Load Theory (CLT)]]
 ---
 ```
 
@@ -288,7 +288,7 @@ modified: 2025-01-15
 status: budding
 certainty: confident
 type: synthesis
-related: [[cognitive-load-theory]], [[personal-knowledge-management]], [[Information-Architecture]], [[zettelkasten]]
+related: [[Cognitive Load Theory (CLT)]], [[personal-knowledge-management]], [[Information-Architecture]], [[zettelkasten]]
 ---
 ```
 

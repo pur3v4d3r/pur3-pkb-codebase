@@ -93,11 +93,11 @@ treatment-type: foundational-analytical
 core-concepts: ["Generation Effect", "Testing Effect", "Spacing Effect", "Interleaving Effect", "Elaboration Effect", "Self-Explanation Effect", "Metacognitive Strategy", "Desirable Difficulties"]
 key-distinctions: ["Motivated strategy use vs. passive reading", "Knowing strategies vs. deploying strategies", "Intrinsic vs. extrinsic motivational framing of difficulty"]
 prerequisites: ["[[self-regulated-learning]]", "[[metacognition]]", "[[self-determination-theory]]"]
-related: ["[[desirable-difficulties]]", "[[retrieval-practice]]", "[[spacing-effect]]", "[[metacognitive-strategy]]", "[[intrinsic-motivation]]"]
+related: ["[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[metacognitive-strategy]]", "[[Intrinsic Motivation]]"]
 broader: ["[[Learning-Theory-—-Foundational-Report]]", "[[metacognition-and-motivation]]"]
-narrower: ["[[generation-effect]]", "[[Testing-Effect]]", "[[elaborative-interrogation]]"]
+narrower: ["[[generation-effect]]", "[[Testing-Effect]]", "[[Elaborative Interrogation]]"]
 see-also: ["[[self-regulated-learning-srl]]", "[[motivated-strategies-for-learning-questionnaire]]"]
-builds-on: ["[[cognitive-load-theory]]", "[[levels-of-processing-theory]]", "[[self-determination-theory]]"]
+builds-on: ["[[Cognitive Load Theory (CLT)]]", "[[levels-of-processing-theory]]", "[[self-determination-theory]]"]
 enables: ["[[personal-knowledge-management]]", "[[deliberate-practice]]", "[[metacognitive-regulation]]"]
 
 # ═══════════════════════════════════════════════════════════════
@@ -208,7 +208,7 @@ Now I have a thorough read of the full ~17,500-word report. Let me produce the v
             not more strategy information
 ```
 
-**Reading guide:** The three forces operate simultaneously and reinforce each other. Force 1 is cognitive (the [[fluency-illusion]]); Force 2 is structural (institutions reward performance appearance); Force 3 is developmental (the students who most need help are the least able to tolerate it). Any intervention that addresses only one force will be defeated by the other two. The report's claim is that only a complete SDT-based motivational system can address all three simultaneously.
+**Reading guide:** The three forces operate simultaneously and reinforce each other. Force 1 is cognitive (the [[Fluency Illusion]]); Force 2 is structural (institutions reward performance appearance); Force 3 is developmental (the students who most need help are the least able to tolerate it). Any intervention that addresses only one force will be defeated by the other two. The report's claim is that only a complete SDT-based motivational system can address all three simultaneously.
 
 **Source:** §1, §1.1 — "The Motivation-Strategy Nexus"
 
@@ -610,7 +610,7 @@ Bjork & Bjork ────► Desirable       Pintrich (2000) ─────►
 | "What does this look like in practice day-to-day?" | Aid 7 — Before/After |
 | "Give me the one-page version" | Aid 8 — Scorecard |
 
-**Relevant vault links for connection-making:** [[self-regulated-learning]], [[self-determination-theory]], [[desirable-difficulties]], [[metacognitive-strategy]], [[achievement-goal-theory]], [[fluency-illusion]], [[Testing-Effect]], [[spacing-effect]], [[intrinsic-motivation]], [[attribution-theory]], [[self-efficacy]], [[mastery-goal]], [[levels-of-processing-theory]], [[cognitive-load-theory]]
+**Relevant vault links for connection-making:** [[self-regulated-learning]], [[self-determination-theory]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[metacognitive-strategy]], [[achievement-goal-theory]], [[Fluency Illusion]], [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Intrinsic Motivation]], [[Attribution (Heider, 1958)]], [[self-efficacy]], [[mastery-goal]], [[levels-of-processing-theory]], [[Cognitive Load Theory (CLT)]]
 
 
 
@@ -618,7 +618,7 @@ Bjork & Bjork ────► Desirable       Pintrich (2000) ─────►
 # Motivation and Academic Reading: Developing Motivational Strategies for the Hierarchy of Learning Effects
 
 > [!abstract] Report Overview
-> This report provides a comprehensive, graduate-level treatment of the intersection between motivational psychology and evidence-based learning strategy science. It examines how the seven principal learning effects — the [[generation-effect]], [[Testing-Effect]], [[spacing-effect]], interleaving effect, [[elaboration]], [[self-explanation-effect]], and [[metacognitive-strategy]] — constitute a hierarchy of cognitive demands, and how their deployment depends critically on motivational infrastructure rather than mere knowledge of their existence. The report synthesizes [[self-determination-theory]] (SDT), [[achievement-goal-theory]], and [[self-regulated-learning]] (SRL) research to construct a motivational architecture for sustained strategy use. Original contributions include a "Motivational Deployment Problem" framework that explains the persistent gap between knowing a strategy and using it consistently, a Motivational Framing Hierarchy that maps strategy demands to SDT need-satisfaction profiles, and a practical system for applying these strategies to dense academic material including long-form analytical reports. The report draws on approximately 50 years of cognitive and motivational psychology research and provides operational protocols for PKB practitioners and lifelong learners committed to mastery over passive consumption.
+> This report provides a comprehensive, graduate-level treatment of the intersection between motivational psychology and evidence-based learning strategy science. It examines how the seven principal learning effects — the [[generation-effect]], [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], interleaving effect, [[elaboration]], [[self-explanation-effect]], and [[metacognitive-strategy]] — constitute a hierarchy of cognitive demands, and how their deployment depends critically on motivational infrastructure rather than mere knowledge of their existence. The report synthesizes [[self-determination-theory]] (SDT), [[achievement-goal-theory]], and [[self-regulated-learning]] (SRL) research to construct a motivational architecture for sustained strategy use. Original contributions include a "Motivational Deployment Problem" framework that explains the persistent gap between knowing a strategy and using it consistently, a Motivational Framing Hierarchy that maps strategy demands to SDT need-satisfaction profiles, and a practical system for applying these strategies to dense academic material including long-form analytical reports. The report draws on approximately 50 years of cognitive and motivational psychology research and provides operational protocols for PKB practitioners and lifelong learners committed to mastery over passive consumption.
 
 ---
 
@@ -643,7 +643,7 @@ This is not a problem of ignorance. When students are informed about the evidenc
 > [!key-claim] The Motivational Deployment Problem (Original Synthesis)
 > The central problem in learning strategy adoption is not informational but motivational. Students do not fail to use effective learning strategies primarily because they lack knowledge of those strategies; they fail because effective strategies are aversive to deploy under the incentive structures most learning environments create. Re-reading feels productive; retrieval practice feels like failure. Spacing feels like forgetting; massed practice feels like mastery. The phenomenological experience of desirable difficulty is, by definition, the phenomenological experience of difficulty — and difficulty, absent a robust motivational framework, is experienced as threat rather than growth signal.
 
-To understand why this gap is so persistent, one must appreciate three intersecting dimensions of the problem. First, there is a **phenomenological asymmetry**: effective strategies systematically feel worse during execution than ineffective ones, despite producing better outcomes. This asymmetry between the felt experience of studying and the actual learning it produces is extensively documented in the metacognitive research tradition under the name [[fluency-illusion]]. When material is processed fluently — when it feels easy, when recognition comes quickly — learners routinely mistake that fluency for deep learning. [[desirable-difficulties]], in contrast, feel like obstacles rather than paths. The learner who encounters retrieval difficulty and the learner who encounters genuine conceptual confusion are both experiencing negative affect; but the former is engaged in exactly the right cognitive process while the latter is not. Disambiguating these experiences requires motivational resilience that passive familiarity with strategy research cannot supply.
+To understand why this gap is so persistent, one must appreciate three intersecting dimensions of the problem. First, there is a **phenomenological asymmetry**: effective strategies systematically feel worse during execution than ineffective ones, despite producing better outcomes. This asymmetry between the felt experience of studying and the actual learning it produces is extensively documented in the metacognitive research tradition under the name [[Fluency Illusion]]. When material is processed fluently — when it feels easy, when recognition comes quickly — learners routinely mistake that fluency for deep learning. [[Desirable Difficulties (Robert Bjork, 1994)]], in contrast, feel like obstacles rather than paths. The learner who encounters retrieval difficulty and the learner who encounters genuine conceptual confusion are both experiencing negative affect; but the former is engaged in exactly the right cognitive process while the latter is not. Disambiguating these experiences requires motivational resilience that passive familiarity with strategy research cannot supply.
 
 Second, there is an **incentive misalignment problem** in most formal educational settings. [[achievement-goal-theory]] predicts — and broad evidence confirms — that performance goals (demonstrating competence relative to others) orient learners toward low-risk strategies: choose techniques that look productive, minimize the appearance of struggle, and protect self-esteem from the evidence that retrieval practice brutally provides — namely, how little you actually know. [[mastery-goal]] orientation, by contrast, fosters engagement with the task itself and tolerance for the productive frustration that desirable difficulties generate. But mastery orientations are not reliably cultivated by competitive grading systems, time-pressured curricula, or external evaluation regimes. The structural conditions of most educational institutions systematically reward the appearance of mastery while providing poor incentives for the actual cultivation of it.
 
@@ -658,7 +658,7 @@ This report develops a comprehensive motivational architecture for the sustained
 
 1. **[[the-generation-effect]]** — learning is enhanced when material is generated rather than read passively
 2. **[[Testing-Effect]]** — retrieval practice from memory produces stronger long-term retention than restudying
-3. **[[spacing-effect]]** — distributing practice over time produces better retention than massing practice
+3. **[[Desirable Difficulties (Robert Bjork, 1994)]]** — distributing practice over time produces better retention than massing practice
 4. **Interleaving Effect** — mixing different problem types or topics during practice improves discrimination and transfer
 5. **[[elaboration]] Effect** — elaborating on new information by asking "why" and connecting to existing knowledge deepens encoding
 6. **[[self-explanation-effect]]** — explaining material to oneself during study activates constructive comprehension processes
@@ -714,13 +714,13 @@ Most passive reading produces a propositional textbase at best. The learner can,
 >
 > **Report-Specific Significance:** Every strategy in the seven-effect hierarchy is desirable, not merely difficult. Understanding this distinction is a primary motivational tool: when retrieval feels hard, that is not noise — it is signal that the difficulty is productive.
 >
-> **See also:** [[desirable-difficulties]], [[Desirable-Difficulties-—-Bjork]], [[Testing-Effect]], [[spacing-effect]]
+> **See also:** [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable-Difficulties-—-Bjork]], [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 The mechanism behind desirable difficulties operates at the level of memory trace reconsolidation. Contemporary neuroscience of memory suggests that every time a memory is retrieved, it becomes temporarily labile (subject to modification) and must undergo **reconsolidation** before returning to long-term storage. This reconsolidation process is not merely restorative — it can strengthen and update the memory trace, making retrieval easier on future occasions. Thus, the very act of retrieving a memory is also an act of training the memory system to retrieve that memory more efficiently in the future. This is the mechanistic foundation of the testing effect.
 
-### 2.3 [[cognitive-load-theory]] as a Tool for Strategy Design
+### 2.3 [[Cognitive Load Theory (CLT)]] as a Tool for Strategy Design
 
-[[john-sweller]]'s [[cognitive-load-theory]] (CLT) provides an essential complementary framework. CLT distinguishes three types of cognitive load:
+[[john-sweller]]'s [[Cognitive Load Theory (CLT)]] (CLT) provides an essential complementary framework. CLT distinguishes three types of cognitive load:
 
 - **Intrinsic load**: the inherent complexity of the material to be learned (determined by element interactivity — how many elements must be processed simultaneously)
 - **Extraneous load**: cognitive effort demanded by poor instructional design (unnecessary complexity in presentation, distracting formats, inconsistent terminology)
@@ -729,9 +729,9 @@ The mechanism behind desirable difficulties operates at the level of memory trac
 The educational prescription from CLT is to minimize extraneous load and optimize intrinsic load for the learner's current expertise level, thereby maximizing the cognitive resources available for germane load and genuine learning. For the self-directed learner engaging with complex academic reports, CLT provides a diagnostic framework: when engagement collapses, is it because the material is genuinely complex (intrinsic load), because the format or presentation is creating unnecessary confusion (extraneous load), or because the learner lacks prerequisite schemas required to assimilate the material (high intrinsic load from insufficient background)?
 
 > [!claude-insight] The Cognitive Load-Motivation Interface
-> One of the most undertheorized aspects of CLT is its interaction with motivational states. High cognitive load is not just a processing challenge — it is also an emotionally aversive state that activates avoidance motivation in the absence of robust autonomous regulation. When learners are operating near capacity in working memory, the phenomenological experience is one of strain, confusion, and frustration. Under performance goals or controlled motivation (studying to impress, to avoid punishment, to protect self-image), this experience triggers strategic retreat to lower-load approaches (skimming, highlighting). Under autonomous motivation (studying because the knowledge matters, because understanding is intrinsically valued), the same experience of high cognitive load is interpreted differently — as a signal that engagement is genuine and the material is worth the effort. The same cognitive state activates opposite motivational trajectories depending on the student's motivational architecture. This is one of the strongest arguments for the primacy of [[intrinsic-motivation]] in academic reading contexts.
+> One of the most undertheorized aspects of CLT is its interaction with motivational states. High cognitive load is not just a processing challenge — it is also an emotionally aversive state that activates avoidance motivation in the absence of robust autonomous regulation. When learners are operating near capacity in working memory, the phenomenological experience is one of strain, confusion, and frustration. Under performance goals or controlled motivation (studying to impress, to avoid punishment, to protect self-image), this experience triggers strategic retreat to lower-load approaches (skimming, highlighting). Under autonomous motivation (studying because the knowledge matters, because understanding is intrinsically valued), the same experience of high cognitive load is interpreted differently — as a signal that engagement is genuine and the material is worth the effort. The same cognitive state activates opposite motivational trajectories depending on the student's motivational architecture. This is one of the strongest arguments for the primacy of [[Intrinsic Motivation]] in academic reading contexts.
 
-The CLT perspective also illuminates why **expertise reversal** is a danger for advanced strategy users. The [[expertise-reversal-effect]] (Kalyuga et al., 2003) demonstrates that instructional supports beneficial for novices become counterproductive for experts, because they generate extraneous load for learners who have already automated the relevant schemas. The same principle applies to learning strategies: elaborative interrogation is highly effective for novices building initial schemas but adds relatively less value for experts who have already rich interconnected knowledge networks. Strategy deployment must therefore be sensitive to expertise level — another dimension where metacognitive awareness plays a crucial regulatory role.
+The CLT perspective also illuminates why **expertise reversal** is a danger for advanced strategy users. The [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] (Kalyuga et al., 2003) demonstrates that instructional supports beneficial for novices become counterproductive for experts, because they generate extraneous load for learners who have already automated the relevant schemas. The same principle applies to learning strategies: elaborative interrogation is highly effective for novices building initial schemas but adds relatively less value for experts who have already rich interconnected knowledge networks. Strategy deployment must therefore be sensitive to expertise level — another dimension where metacognitive awareness plays a crucial regulatory role.
 
 > [!example] Cognitive Load Dynamics in Reading a 15,000-Word Analytical Report
 > Consider a learner approaching a foundational report on Self-Determination Theory — a 15,000-word document covering empirical tradition, sub-theories, empirical evidence, and applications. For a graduate student with two years of motivational psychology background, intrinsic load is moderate: the concepts are familiar, the vocabulary is accessible, and the schema for "SDT research report" is well-established. Extraneous load might arise from unfamiliar formatting or cross-reference structures. Germane load can be directed toward connecting new integrations to existing knowledge.
@@ -742,12 +742,12 @@ The CLT perspective also illuminates why **expertise reversal** is a danger for 
 
 ### 2.4 The Role of Prior Knowledge in Strategy Effectiveness
 
-A final foundational dimension is the relationship between prior knowledge and strategy effectiveness. All seven learning effects interact with prior knowledge in critical ways, and the direction of this interaction is not always obvious. The [[schema-theory]] tradition, particularly as developed by [[David-Rumelhart]] and subsequent researchers, frames learning as the modification, elaboration, and restructuring of existing cognitive schemas. New information is not stored in isolation — it is assimilated into existing schema structures or, when sufficiently discrepant, forces accommodation and restructuring of those schemas.
+A final foundational dimension is the relationship between prior knowledge and strategy effectiveness. All seven learning effects interact with prior knowledge in critical ways, and the direction of this interaction is not always obvious. The [[schema-theory-and-knowledge-organization]] tradition, particularly as developed by [[David-Rumelhart]] and subsequent researchers, frames learning as the modification, elaboration, and restructuring of existing cognitive schemas. New information is not stored in isolation — it is assimilated into existing schema structures or, when sufficiently discrepant, forces accommodation and restructuring of those schemas.
 
 For the learner engaging with academic reading, this means that the effectiveness of strategies like elaborative interrogation and self-explanation depends heavily on the richness of the background knowledge available to be connected to. Elaborative interrogation — asking "why is this fact true?" — is highly effective when the learner has enough background knowledge to generate plausible answers. When background knowledge is sparse, the learner generates irrelevant or erroneous elaborations that interfere with rather than support encoding. [[prior-knowledge-activation]] — deliberately surfacing what one already knows before engaging with new material — is therefore not just a comprehension technique but a motivational one: it shifts the learner from a position of complete uncertainty to a position of partial knowledge that new information can extend, making the effort of engagement feel worthwhile because progress is visible.
 
 > [!warning] The Illusion of Understanding from Familiarity
-> One of the most insidious errors in academic reading is the **[[fluency-illusion]]**: the experience of reading text rapidly, with smooth comprehension, and concluding that understanding has been achieved. This illusion is particularly dangerous with moderately advanced academic material because familiarity with vocabulary and topic area generates a feeling of comprehension even when the deeper logical structure, the empirical basis, and the implications of the claims have not been processed. The testing effect's primary mechanism is its ruthlessness with this illusion — retrieval practice immediately reveals whether apparent comprehension rests on genuine understanding or mere familiarity, and does so at a stage when corrective encoding is still possible.
+> One of the most insidious errors in academic reading is the **[[Fluency Illusion]]**: the experience of reading text rapidly, with smooth comprehension, and concluding that understanding has been achieved. This illusion is particularly dangerous with moderately advanced academic material because familiarity with vocabulary and topic area generates a feeling of comprehension even when the deeper logical structure, the empirical basis, and the implications of the claims have not been processed. The testing effect's primary mechanism is its ruthlessness with this illusion — retrieval practice immediately reveals whether apparent comprehension rests on genuine understanding or mere familiarity, and does so at a stage when corrective encoding is still possible.
 
 > [!section-summary] Section 2 Summary
 > Human memory is reconstructive and retrieval-dependent, not photographic. Encoding depth (semantic processing over surface processing) is the primary determinant of initial memory trace strength. The desirable difficulties framework explains why the seven learning effects work: they impose conditions that slow apparent performance while strengthening genuine learning through deeper encoding and retrieval-based reconsolidation. Cognitive Load Theory provides a diagnostic tool for calibrating strategy difficulty to current expertise level, with an important CLT-motivation interface showing that aversive cognitive states activate avoidance motivation under controlled regulation but function as engagement signals under autonomous motivation. Prior knowledge critically moderates strategy effectiveness, and the fluency illusion is the primary cognitive trap that passive reading enables.
@@ -798,7 +798,7 @@ The spacing effect refers to the superior long-term retention produced by distri
 >
 > **Boundary:** Spacing advantages are maximized for relatively well-formulated knowledge units (facts, procedures, concepts) where the retention interval exceeds the spacing interval. For very novel material requiring initial comprehension rather than consolidation, some massed initial exposure is necessary before spaced review becomes beneficial.
 >
-> **See also:** [[spacing-effect]], [[spaced-repetition]], [[spaced-repetition-systems]], [[Forgetting-Curve]]
+> **See also:** [[Desirable Difficulties (Robert Bjork, 1994)]], [[spaced-repetition]], [[spaced-repetition-systems]], [[Forgetting-Curve]]
 
 The mechanism of the spacing effect involves multiple processes: **contextual variation** (varied contexts at each review create more diverse retrieval cues), **retrieval difficulty** (spacing ensures that retrieval is effortful, activating the reconsolidation mechanisms discussed above), and **forgetting and relearning** (partial forgetting before the next session makes the relearning episode work harder and build a stronger trace). The spacing effect interacts synergistically with the testing effect: spaced retrieval practice is more effective than either spacing or retrieval practice alone.
 
@@ -806,7 +806,7 @@ The **motivational challenge** of spacing is distinct from both the generation a
 
 ### 3.4 The Interleaving Effect — Productive Confusion and Discrimination Learning
 
-Interleaving refers to the practice of alternating between different types of problems, topics, or subjects during a study session, rather than completing all problems of one type before moving to the next (blocked practice). The [[interleaving|interleaving effect]] demonstrates that interleaved practice produces better test performance than blocked practice, particularly on problems requiring selection of appropriate solution strategies.
+Interleaving refers to the practice of alternating between different types of problems, topics, or subjects during a study session, rather than completing all problems of one type before moving to the next (blocked practice). The [[Desirable Difficulties (Robert Bjork, 1994)|interleaving effect]] demonstrates that interleaved practice produces better test performance than blocked practice, particularly on problems requiring selection of appropriate solution strategies.
 
 The mechanism is twofold. First, interleaving promotes **discrimination learning**: when different problem types appear in sequence, the learner must identify which category a problem belongs to and select the appropriate strategy, rather than simply applying the same known strategy to all problems in a block. This discrimination requirement activates higher-order retrieval and categorization processes. Second, interleaving creates **contextual spaced repetition**: returning to a problem type after a gap (while working on another type) offers the same advantages of spacing within a single session.
 
@@ -814,16 +814,16 @@ The **motivational profile** of interleaving is particularly challenging because
 
 ### 3.5 The Elaboration Effect — Connecting the New to the Known
 
-Elaboration effects encompass a family of related strategies in which the learner generates additional information, explanations, examples, or connections while studying new material. The most studied variant is **[[elaborative-interrogation]]** — asking why a factual statement is true and generating an answer. Elaborative interrogation produces substantial memory advantages over passive reading (effect sizes typically d = 0.50 to d = 0.70 in well-controlled studies), with effects largely mediated through the depth of semantic processing the why-question induces.
+Elaboration effects encompass a family of related strategies in which the learner generates additional information, explanations, examples, or connections while studying new material. The most studied variant is **[[Elaborative Interrogation]]** — asking why a factual statement is true and generating an answer. Elaborative interrogation produces substantial memory advantages over passive reading (effect sizes typically d = 0.50 to d = 0.70 in well-controlled studies), with effects largely mediated through the depth of semantic processing the why-question induces.
 
 > [!definition] **Elaborative Interrogation (Woloshyn et al., 1992)**
 > Elaborative interrogation is a study strategy in which the learner, upon encountering a new factual claim, generates an explanation for why the claim is true. This "why-questioning" technique activates prior knowledge, requires the learner to construct a causal or explanatory relationship between the new claim and existing knowledge, and produces deeper encoding than passive reading or simple re-reading.
 >
 > **Boundary:** Elaborative interrogation is substantially more effective for learners with moderate-to-rich background knowledge in the domain. For novices with sparse background knowledge, the why-questions may produce confabulatory elaborations (plausible but incorrect explanations) that can interfere with accurate encoding.
 >
-> **See also:** [[elaborative-interrogation]], [[elaboration]], [[elaborative-rehearsal]], [[deep-processing]]
+> **See also:** [[Elaborative Interrogation]], [[elaboration]], [[elaborative-rehearsal]], [[deep-processing]]
 
-The elaboration effect at a broader level encompasses any strategy that increases the **connectivity** of new information to existing knowledge networks. From a [[schema-theory]] perspective, elaboration builds new nodes in the semantic network and adds new links between existing nodes, thereby creating more diverse retrieval pathways and richer associated context for target information. Schema-rich knowledge is easier to retrieve not because it is "more deeply stored" in some abstract sense, but because it is reachable via more and more diverse associative pathways.
+The elaboration effect at a broader level encompasses any strategy that increases the **connectivity** of new information to existing knowledge networks. From a [[schema-theory-and-knowledge-organization]] perspective, elaboration builds new nodes in the semantic network and adds new links between existing nodes, thereby creating more diverse retrieval pathways and richer associated context for target information. Schema-rich knowledge is easier to retrieve not because it is "more deeply stored" in some abstract sense, but because it is reachable via more and more diverse associative pathways.
 
 The **motivational demand** of elaboration is qualitatively different from the testing and spacing effects. Where those strategies primarily require the learner to tolerate negative feedback (failure, forgetting), elaborative interrogation requires the learner to sustain effortful cognitive engagement — to think hard about why something is true, to generate examples and counterexamples, to trace implications. This cognitive effort has its own motivational cost: it is incompatible with passive consumption modes, requires sustained attention, and produces a slower apparent throughput that can feel like poor productivity. Building the motivational orientation to treat thoroughness as a virtue, rather than speed-of-coverage as the primary metric, is essential for elaboration strategies to take hold.
 
@@ -836,7 +836,7 @@ Self-explanation refers to the generation of verbal or written explanations of o
 >
 > **Boundary:** Self-explanation produces the largest benefits when applied to material that has some apparent logical structure or argumentation that invites inferential bridging. Purely factual lists or enumeration of unrelated items are less suitable for self-explanation than procedural or explanatory text.
 >
-> **See also:** [[self-explanation-effect]], [[Self-Explanation-in-PKB-Practice]], [[self-explanation]], [[icap-framework]]
+> **See also:** [[self-explanation-effect]], [[Self-Explanation-in-PKB-Practice]], [[self-explanation-effect]], [[icap-framework]]
 
 What distinguishes self-explanation from simple elaboration is its **monitoring function**. When a learner self-explains, they are actively tracking the coherence of their own comprehension as it builds. Gaps in explanation reveal gaps in understanding; contradictions between consecutive explanations signal logical inconsistencies in the text or in the learner's understanding. Self-explanation is therefore both a learning strategy and a comprehension monitoring tool — which connects it directly to the apex of our hierarchy.
 
@@ -880,7 +880,7 @@ Knowing that retrieval practice works, that spacing produces durable memory, and
 >
 > **Boundary:** SDT does not simply endorse intrinsic motivation and condemn extrinsic motivation. Identified and integrated regulation — which are technically "extrinsic" in that they are motivated by external activity value rather than inherent enjoyment — produce excellent outcomes nearly as good as intrinsic motivation. What SDT condemns as reliably counterproductive is the lowest-quality regulation: external and introjected, in which the activity is experienced as imposed and the learner feels controlled rather than authentic.
 >
-> **See also:** [[self-determination-theory]], [[autonomous-motivation]], [[controlled-motivation]], [[intrinsic-motivation]], [[identified-regulation]]
+> **See also:** [[self-determination-theory]], [[Autonomous Motivation]], [[Controlled Motivation]], [[Intrinsic Motivation]], [[identified-regulation]]
 
 For academic reading specifically, the SDT distinction between autonomous and controlled motivation predicts the following:
 
@@ -908,7 +908,7 @@ Mastery goals predict engagement with challenging learning strategies because su
 > [!key-claim] The Goal-Strategy Match
 > The most important practical prediction from achievement goal research for learning strategy adoption is this: no amount of information about strategy effectiveness will produce sustained strategy deployment in learners whose motivational goal is to demonstrate competence rather than develop it. Retrieval practice, spacing, and interleaving feel like evidence of incompetence to the performance-goal oriented learner, because they produce exactly the experience those goals most dread: failure, confusion, and forgetting. Strategy adoption at the deep level this report advocates requires mastery goals as the primary motivational orientation — not as a nice-to-have but as a structural prerequisite.
 
-The relationship between SDT and AGT is synergistic. [[intrinsic-motivation]] and [[autonomous-motivation|autonomous regulation]] strongly predict mastery goal adoption; controlled motivation strongly predicts performance-avoidance and shallow processing. A motivational system designed to support deep learning strategy use must therefore simultaneously cultivate both autonomous motivational quality (via need satisfaction) and mastery goal orientation (via goal-framing).
+The relationship between SDT and AGT is synergistic. [[Intrinsic Motivation]] and [[Autonomous Motivation|autonomous regulation]] strongly predict mastery goal adoption; controlled motivation strongly predicts performance-avoidance and shallow processing. A motivational system designed to support deep learning strategy use must therefore simultaneously cultivate both autonomous motivational quality (via need satisfaction) and mastery goal orientation (via goal-framing).
 
 ### 4.3 The Motivational Moderators: Self-Efficacy, Attribution, and Academic Emotions
 
@@ -916,7 +916,7 @@ Beyond SDT and AGT, three additional motivational variables act as critical mode
 
 **[[self-efficacy]]** (Bandura) is the belief that one can successfully execute a specific behavior in a specific domain. Strategy-specific self-efficacy — the belief that one can successfully implement retrieval practice, schedule effective spaced review, or generate meaningful self-explanations — is a strong predictor of whether learners attempt and persist with challenging strategies. Self-efficacy for using desirable difficulties is not identical to general academic self-efficacy; it is the specific confidence that engaging with difficulty is within one's capacity and that the discomfort serves productive ends.
 
-**[[attribution-theory]]** (Weiner) addresses how learners explain the causes of their successes and failures. Learners who attribute failure to stable, internal, uncontrollable factors ("I failed the retrieval test because I'm not smart enough") experience learned helplessness and disengage from challenging strategies. Learners who attribute failure to unstable, controllable factors ("I failed the retrieval test because I didn't give the information enough processing time") experience adaptive motivation to try again, differently. Developing an **attribution style** that treats strategy failure as a signal about study behavior rather than about ability is a first-order objective for the learner building a motivational system for desirable difficulties.
+**[[Attribution (Heider, 1958)]]** (Weiner) addresses how learners explain the causes of their successes and failures. Learners who attribute failure to stable, internal, uncontrollable factors ("I failed the retrieval test because I'm not smart enough") experience learned helplessness and disengage from challenging strategies. Learners who attribute failure to unstable, controllable factors ("I failed the retrieval test because I didn't give the information enough processing time") experience adaptive motivation to try again, differently. Developing an **attribution style** that treats strategy failure as a signal about study behavior rather than about ability is a first-order objective for the learner building a motivational system for desirable difficulties.
 
 **[[academic-emotions]]** (Pekrun's [[Control-Value-Theory]]) recognizes that emotions are not peripheral to academic motivation — they are constitutive of it. Positive activating emotions (curiosity, enthusiasm, pride in mastery) support deep processing and strategy maintenance. Negative deactivating emotions (boredom, hopelessness, exhaustion) suppress cognitive engagement. Negative activating emotions (anxiety, frustration) have mixed effects: mild anxiety may increase effort, but high anxiety consumes working memory resources and degrades the quality of processing available for demanding strategies. The learner who systematically uses retrieval practice under conditions of high test anxiety may be deploying the right cognitive strategy but undermining its effectiveness through the anxiety that frames it.
 
@@ -977,7 +977,7 @@ The concept of **critical transitions** describes moments of particular vulnerab
 
 2. **The effort-gratification gap**: the interval between when effort is expended (studying with retrieval practice for one week) and when the benefits become evident (performing better on a test two months later). Learners operating under controlled motivation with its focus on immediate performance feedback may never observe the payoff of their investment before the delayed test arrives, making the gratification gap an extinction event for the strategy.
 
-3. **The identity transition**: the moment when a learner begins to identify themselves as "someone who uses evidence-based study practices" rather than merely "someone who has tried retrieval practice." Identity-level internalization is what transforms strategy use from deliberate effortful execution to relatively automatic expression of who the learner is — the highest form of [[autonomous-motivation]].
+3. **The identity transition**: the moment when a learner begins to identify themselves as "someone who uses evidence-based study practices" rather than merely "someone who has tried retrieval practice." Identity-level internalization is what transforms strategy use from deliberate effortful execution to relatively automatic expression of who the learner is — the highest form of [[Autonomous Motivation]].
 
 > [!example] Critical Transition in Practice
 > A PKB practitioner begins using Anki for the first time to implement spaced retrieval practice across their reading. In the first two weeks, they experience an ongoing sense of failure as cards from earlier reading sessions prove difficult to recall and frequent "again" ratings in the SRS stack keep re-presenting the same material they thought they had learned. At this moment — the failure encounter combined with the effort-gratification gap — the appraisal choice is between: (1) "this system is not working for me, I am not retaining the material" or (2) "this system is revealing what my naive sense of learning hid from me, and the difficulty is the learning." The framing adopted at this transition point determines whether Anki practice continues for three months (long enough for retention benefits to become undeniable) or is abandoned as ineffective after two weeks.
@@ -1053,7 +1053,7 @@ This section introduces the second original contribution of this report: the **M
 >
 > These reframes are not motivational manipulation or self-deception. They are accurate cognitive appraisals of the actual mechanism by which each strategy works. The negative frames are phenomenologically accurate but mechanistically misleading; the Motivational Reframes are accurate at both the phenomenological and mechanistic levels. The claim is that when learners genuinely believe the reframe — because they understand the underlying learning science — the reframe becomes motivationally active rather than merely intellectually accepted.
 >
-> **See also:** [[Cognitive-Appraisal-Theory]], [[desirable-difficulties]], [[attribution-theory]]
+> **See also:** [[Cognitive-Appraisal-Theory]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Attribution (Heider, 1958)]]
 
 ### 6.4 The Implementation Plan — Daily, Weekly, and Long-Term Architecture
 
@@ -1095,12 +1095,12 @@ Reading for PKB development differs from reading for exam preparation or for gen
 
 **Ownership and autonomy:** PKB practitioners self-select every piece of reading based on genuine personal interest and project relevance. This selection process is intrinsically autonomy-supporting: there are no required readings, no external syllabi, no grades. The reader's motivation for engaging with any text is, almost by definition, more autonomous in character than most formal educational reading contexts.
 
-**Connection and elaboration opportunity:** The PKB architecture explicitly requires the reader to make connections between new reading and existing permanent notes — to elaborate, link, and situate new knowledge within the existing semantic network of the vault. This structural requirement for elaboration is the learning-science ideal: every act of PKB note creation is an elaborative encoding event. [[atomic-notes]], [[Permanent-Notes]], and [[Evergreen-Notes]] are not merely storage containers; they are encoding operations that provide exactly the elaborative processing that deepens retention.
+**Connection and elaboration opportunity:** The PKB architecture explicitly requires the reader to make connections between new reading and existing permanent notes — to elaborate, link, and situate new knowledge within the existing semantic network of the vault. This structural requirement for elaboration is the learning-science ideal: every act of PKB note creation is an elaborative encoding event. [[atomic-note]], [[Permanent-Notes]], and [[Evergreen-Notes]] are not merely storage containers; they are encoding operations that provide exactly the elaborative processing that deepens retention.
 
 **Production over consumption:** The PKB practitioner's primary output from reading is not absorbed knowledge (a consumption model) but created knowledge artifacts: atomic notes, literature notes, concept maps, question maps, MOC entries. This production emphasis aligns perfectly with the generation effect: the reader who pauses to generate a permanent note from their reading is performing the exact operation the generation effect predicts will produce the best long-term retention.
 
 > [!claude-insight] The PKB Architecture as an Implicit Learning Science Engine
-> The Obsidian PKB architecture, when practiced systematically, implicitly implements multiple learning effects simultaneously. The practice of creating [[atomic-notes]] as permanent notes implements the generation effect. The practice of building [[spaced-repetition-systems|SRS]] from PKB notes implements the testing and spacing effects. The practice of linking notes across the [[Knowledge-Graph]] implements elaboration. The practice of reviewing MOCs and connection maps implements interleaving (encountering related but distinct concepts in adjacent sequence). The PKB methodology was not designed with the seven learning effects hierarchy in mind — but it aligns with it remarkably closely. This alignment means that a PKB practitioner who understands the learning science behind their system can (a) optimize their practice to maximize each effect intentionally and (b) use the accuracy of the learning-science model as motivational validation: "I am doing this because the mechanism is clear and the evidence is overwhelming."
+> The Obsidian PKB architecture, when practiced systematically, implicitly implements multiple learning effects simultaneously. The practice of creating [[atomic-note]] as permanent notes implements the generation effect. The practice of building [[spaced-repetition-systems|SRS]] from PKB notes implements the testing and spacing effects. The practice of linking notes across the [[Knowledge-Graph]] implements elaboration. The practice of reviewing MOCs and connection maps implements interleaving (encountering related but distinct concepts in adjacent sequence). The PKB methodology was not designed with the seven learning effects hierarchy in mind — but it aligns with it remarkably closely. This alignment means that a PKB practitioner who understands the learning science behind their system can (a) optimize their practice to maximize each effect intentionally and (b) use the accuracy of the learning-science model as motivational validation: "I am doing this because the mechanism is clear and the evidence is overwhelming."
 
 ### 7.2 Strategy Deployment in the Reading-to-PKB Workflow
 
@@ -1209,28 +1209,28 @@ The schema activation guiding question posed at the opening of this report — "
 >
 > **Boundary:** The Motivational Deployment Problem is distinct from strategy ignorance (not knowing what works) and from strategic incapacity (lacking the skill to execute a strategy). It specifically describes learners who have both the knowledge and the capacity to use effective strategies but do not do so consistently due to motivational barriers. Standard learning strategy instruction, which provides knowledge, does not address the Motivational Deployment Problem without also addressing its motivational and phenomenological roots.
 >
-> **See also:** [[self-regulated-learning-srl]], [[desirable-difficulties]], [[self-determination-theory]], [[metacognitive-strategy]]
+> **See also:** [[self-regulated-learning-srl]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[self-determination-theory]], [[metacognitive-strategy]]
 
 > [!definition] **Desirable Difficulties (Bjork & Bjork, 1992)**
 > Desirable difficulties are conditions of learning that impair *immediate* performance but substantially enhance *long-term* retention and transfer. The core paradox of desirable difficulties is that the conditions that make current learning feel effortful, confused, and unproductive — spaced practice (forgetting before review), interleaved practice (confusion between categories), generation (uncertainty before answer), retrieval practice (failure before success) — are precisely the conditions that produce the most durable and transferable learning. The "desirability" of these difficulties is conditional on the learner's purpose: for someone seeking durable long-term knowledge, they are highly desirable; for someone seeking to perform well on an immediately upcoming test, they may not be optimal.
 >
 > **Boundary:** Not all difficulties are "desirable." Difficulties that arise from poor instruction, inadequate prerequisite knowledge, or unclear goals are not desirable — they are merely obstacles. Desirable difficulties are specifically those that operate by activating deeper encoding mechanisms (retrieval, contextual variability, generation) that have solid empirical bases for producing retention and transfer advantages.
 >
-> **See also:** [[desirable-difficulties]], [[Testing-Effect]], [[spacing-effect]], [[interleaving]], [[Robert-Bjork]]
+> **See also:** [[Desirable Difficulties (Robert Bjork, 1994)]], [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Robert-Bjork]]
 
 > [!definition] **Autonomous Motivation (Deci & Ryan, 1985)**
 > Autonomous motivation refers to regulatory styles in which the learner experiences their actions as volitional, self-endorsed, and personally meaningful. It encompasses identified regulation (doing something because it aligns with personally valued goals), integrated regulation (doing something because it is fully congruent with one's identity and values), and intrinsic motivation (doing something for the inherent interest and enjoyment of the activity). Autonomous motivation is distinguished from controlled motivation (external regulation, introjected regulation) by the presence of genuine psychological ownership: the learner is the perceived origin of their action, not its instrument.
 >
 > **Boundary:** Autonomous motivation is not equivalent to low effort or effortless engagement. Autonomously motivated learners regularly engage in difficult, challenging activities. What autonomy predicts is not ease but meaning: the learner chooses the challenge because it serves something they genuinely care about, which sustains engagement through difficulty in ways that external pressure cannot maintain.
 >
-> **See also:** [[autonomous-motivation]], [[self-determination-theory]], [[intrinsic-motivation]], [[basic-psychological-needs-theory]]
+> **See also:** [[Autonomous Motivation]], [[self-determination-theory]], [[Intrinsic Motivation]], [[basic-psychological-needs-theory]]
 
 > [!definition] **Fluency Illusion (Bjork et al.)**
 > The fluency illusion refers to the systematic tendency for learners to mistake the sense of cognitive ease during re-reading or massed study for a reliable indicator of learning depth. When a student reads a passage a second time, the increased familiarity and fluency of recognition produces a strong subjective feeling of comprehension that is non-predictive of actual retention. The fluency illusion is the primary mechanism by which re-reading — one of the least effective study strategies — persists as the dominant self-study strategy among students despite decades of research demonstrating its inferiority.
 >
 > **Boundary:** Fluency is not always illusory. For genuine experts reviewing familiar material, increased fluency may accurately reflect a rich, well-organized knowledge structure. The fluency illusion is most dangerous for learners studying recently encountered material, where fluency reflects surface processing and recognition rather than deep encoding and durable memory.
 >
-> **See also:** [[fluency-illusion]], [[illusion-of-knowing]], [[metacognitive-monitoring]], [[retrieval-practice]]
+> **See also:** [[Fluency Illusion]], [[illusion-of-knowing]], [[metacognitive-monitoring]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > [!definition] **Self-Explanation Effect (Chi, Bassok, Lewis, Reimann, & Glaser, 1989)**
 > The self-explanation effect describes the learning advantage associated with generating verbal explanations of one's own understanding while working through new material. Learners who spontaneously self-explain show superior comprehension, better transfer, and more sophisticated problem-solving than learners who read without self-explaining, even when time is held constant. The self-explanation effect operates through multiple mechanisms: it forces explicit reference to prior knowledge, it identifies specific gaps in understanding, and it promotes the construction of inference-based connections that passive reading does not.
@@ -1258,7 +1258,7 @@ The schema activation guiding question posed at the opening of this report — "
 >
 > **Boundary:** The spacing effect is specifically a retention advantage, not a short-term performance advantage. Massed practice frequently produces better performance on immediate tests; the spacing advantage accrues over longer retention intervals. This timing of benefits makes spacing motivationally challenging: the costs are immediate (scheduling difficulty, the discomfort of forgetting between sessions) and the benefits are delayed (superior retention weeks or months later).
 >
-> **See also:** [[spacing-effect]], [[spaced-repetition]], [[spaced-repetition-systems]], [[Forgetting-Curve]], [[Robert-Bjork]]
+> **See also:** [[Desirable Difficulties (Robert Bjork, 1994)]], [[spaced-repetition]], [[spaced-repetition-systems]], [[Forgetting-Curve]], [[Robert-Bjork]]
 
 > [!definition] **Basic Psychological Needs (Deci & Ryan, 1985)**
 > Basic psychological needs in Self-Determination Theory are innate functional requirements whose satisfaction promotes psychological growth, integration, and well-being. SDT identifies three: autonomy (experiencing oneself as the origin of one's actions, acting volitionally), competence (experiencing oneself as effective in interacting with the environment, achieving desired outcomes), and relatedness (experiencing meaningful, caring connections with others). Need satisfaction promotes intrinsic motivation, autonomous regulation, psychological well-being, and engagement quality. Need frustration produces controlled motivation, disengagement, ill-being, and amotivation.
@@ -1471,7 +1471,7 @@ The schema activation guiding question posed at the opening of this report — "
 > >
 > > **Priority:** High
 > > **Suggested Report Type:** Foundational Report
-> > **Prerequisites:** [[self-determination-theory]], [[basic-psychological-needs-theory]], [[autonomous-motivation]]
+> > **Prerequisites:** [[self-determination-theory]], [[basic-psychological-needs-theory]], [[Autonomous Motivation]]
 >
 > > [!topic-idea] **[[Metacognition-and-Motivation-Integration]]**
 > > **Description:** A dedicated treatment of the interface between metacognitive processes and motivational states — specifically how achievement goals, self-efficacy beliefs, and motivational quality affect the accuracy and adaptiveness of metacognitive monitoring, and how metacognitive training can be designed to simultaneously address motivational barriers.
@@ -1498,7 +1498,7 @@ The schema activation guiding question posed at the opening of this report — "
 > >
 > > **Priority:** High
 > > **Suggested Report Type:** Practitioner's Field Guide
-> > **Prerequisites:** [[spaced-repetition]], [[spaced-repetition-systems]], [[spacing-effect]], [[Testing-Effect]]
+> > **Prerequisites:** [[spaced-repetition]], [[spaced-repetition-systems]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Testing-Effect]]
 >
 > > [!topic-idea] **[[Academic-Reading-Comprehension-Strategies-Empirical-Review]]**
 > > **Description:** A distinct foundational report on the empirical literature specifically about academic text comprehension strategies — covering situation model theory in detail, reading goal effects, note-taking strategies, annotation practices, and the intersection with discipline-specific literacy. This would complement the current report's motivational treatment with the cognitive-comprehension strategy layer.
@@ -1507,7 +1507,7 @@ The schema activation guiding question posed at the opening of this report — "
 > >
 > > **Priority:** Medium
 > > **Suggested Report Type:** Foundational Report
-> > **Prerequisites:** [[mental-models]], [[schema-theory]], [[Academic-Text-Genres]]
+> > **Prerequisites:** [[mental-models]], [[schema-theory-and-knowledge-organization]], [[Academic-Text-Genres]]
 
 ---
 
@@ -1523,15 +1523,15 @@ The schema activation guiding question posed at the opening of this report — "
 >
 > - **[[self-determination-theory]]**: SDT provides the entire motivational architecture of Sections 4-6. The autonomous/controlled motivation distinction, the basic psychological needs framework, and the need satisfaction-motivation quality link are all foundational theoretical commitments of this report.
 >
-> - **[[cognitive-load-theory]]**: Sweller's cognitive load framework (Section 2) provides the working memory architecture that explains why extraneous load reduces the cognitive resources available for generative, deep processing strategies — which is the mechanistic bridge between the learning environment design recommendations and their learning outcomes.
+> - **[[Cognitive Load Theory (CLT)]]**: Sweller's cognitive load framework (Section 2) provides the working memory architecture that explains why extraneous load reduces the cognitive resources available for generative, deep processing strategies — which is the mechanistic bridge between the learning environment design recommendations and their learning outcomes.
 >
-> - **[[desirable-difficulties]]**: Bjork's desirable difficulties framework is the macro-level conceptual anchor of the entire strategy hierarchy. Without this framework, the seven effects are a flat list of recommendations; with it, they form a coherent theoretical family organized by the paradox that difficulty and effectiveness are positively correlated.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]**: Bjork's desirable difficulties framework is the macro-level conceptual anchor of the entire strategy hierarchy. Without this framework, the seven effects are a flat list of recommendations; with it, they form a coherent theoretical family organized by the paradox that difficulty and effectiveness are positively correlated.
 >
 > **Downstream Applications** — concepts & practices this report enables:
 >
 > - **[[spaced-repetition-systems]]**: This report provides the motivational and learning-science rationale for why SRS practice is worth the investment. Understanding the spacing and testing effects at the mechanistic level, and having the motivational reframes for SRS difficulty experiences, enables more committed and sophisticated SRS use.
 >
-> - **[[atomic-notes]]**: Understanding the generation effect transforms the PKB note-creation practice from filing (storing information) into deep encoding (generating knowledge). This report provides the learning-science rationale that should inform how and why atomic notes are created generatively rather than copied.
+> - **[[atomic-note]]**: Understanding the generation effect transforms the PKB note-creation practice from filing (storing information) into deep encoding (generating knowledge). This report provides the learning-science rationale that should inform how and why atomic notes are created generatively rather than copied.
 >
 > - **[[personal-knowledge-base]]**: This report enables more intentional PKB curation by providing the learning-science framework for why certain PKB practices (generative note creation, connection mapping, spaced review) produce knowledge that is genuinely usable months later rather than merely stored.
 >
@@ -1541,15 +1541,15 @@ The schema activation guiding question posed at the opening of this report — "
 >
 > - **[[growth-mindset]]**: Dweck's growth mindset research enriches this report's treatment of failure tolerance and mastery goal orientation; conversely, this report provides the learning-science mechanisms that explain *why* the growth mindset matters (it specifically enables deployment of the learning effects that require tolerance of failure, forgetting, and confusion).
 >
-> - **[[intrinsic-motivation]]**: The intrinsic motivation literature provides additional depth on the conditions under which authentic interest drives deep engagement — complementing this report's SDT treatment with the specific research on curiosity, flow, and interest development in academic contexts.
+> - **[[Intrinsic Motivation]]**: The intrinsic motivation literature provides additional depth on the conditions under which authentic interest drives deep engagement — complementing this report's SDT treatment with the specific research on curiosity, flow, and interest development in academic contexts.
 >
-> - **[[attribution-theory]]**: Weiner's attribution theory treatment (briefly introduced in Section 4.3) provides a compatible and complementary analysis of how failure interpretation moderates motivational response — directly applicable to the strategy deployment failure scenarios described throughout this report.
+> - **[[Attribution (Heider, 1958)]]**: Weiner's attribution theory treatment (briefly introduced in Section 4.3) provides a compatible and complementary analysis of how failure interpretation moderates motivational response — directly applicable to the strategy deployment failure scenarios described throughout this report.
 >
 > - **[[levels-of-processing-theory]]**: Craik and Lockhart's levels of processing framework underpins the mechanistic claims about why generative processing (producing, retrieving, elaborating) creates deeper memory traces than passively reading the same information — providing a complementary cognitive mechanism to the desirable difficulties framework.
 >
 > **Strengthened Nodes** — existing vault notes this report significantly enriches:
 >
-> - **[[retrieval-practice]]**: This report provides the motivational and SRL-integration context that transforms retrieval practice from an isolated technique into a component of a comprehensive motivational system.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]**: This report provides the motivational and SRL-integration context that transforms retrieval practice from an isolated technique into a component of a comprehensive motivational system.
 >
 > - **[[metacognitive-monitoring]]**: Section 3.7 and 5.2 substantially extend the existing note on metacognitive monitoring with the motivational quality analysis and the ego-defensive monitoring concept from SDT.
 >

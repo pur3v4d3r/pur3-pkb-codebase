@@ -20,16 +20,16 @@ secondary_domains:
   - instructional-design
 related_concepts:
   - "[[working-memory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[schema]]"
   - "[[fluency]]"
   - "[[automaticity]]"
   - "[[situation-model]]"
-  - "[[chunking]]"
+  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
   - "[[metacognitive-monitoring]]"
   - "[[dual-process-theory]]"
   - "[[transfer-of-learning]]"
-  - "[[levels-of-processing]]"
+  - "[[levels-of-processing-theory]]"
   - "[[phonological-loop]]"
   - "[[deep-processing]]"
   - "[[self-regulated-learning]]"
@@ -119,7 +119,7 @@ aliases:
 link_up: "[[Reading Science and Literacy]]"
 link_related:
   - "[[working-memory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[schema]]"
   - "[[metacognitive-monitoring]]"
   - "[[self-regulated-learning]]"
@@ -160,7 +160,7 @@ This analysis focuses on:
 - **Adult and late-adolescent readers** who have passed the foundational decoding stage. The developmental acquisition of reading fluency in children, while overlapping in mechanism, involves different instructional priorities and is not the primary focus.
 - **Comprehension-preserving speed gains**: what works, what doesn't, and why.
 
-This report does not attempt a comprehensive survey of reading science. For foundational treatment of [[working-memory]], [[cognitive-load-theory]], and [[schema-theory]], those permanent notes provide the theoretical grounding assumed here.
+This report does not attempt a comprehensive survey of reading science. For foundational treatment of [[working-memory]], [[Cognitive Load Theory (CLT)]], and [[schema-theory-and-knowledge-organization]], those permanent notes provide the theoretical grounding assumed here.
 
 ### Why This Matters
 
@@ -179,7 +179,7 @@ Phase II establishes the analytical framework: a Four Bottlenecks model of readi
 
 ### Why a Bottlenecks Framework?
 
-Reading speed is not determined by a single variable. It is the output of a system in which multiple cognitive processes must complete in sequence or in parallel, and the system's throughput is constrained by its slowest component. This is the central insight of [[chunking|chunking theory]] applied to reading: units of processing define the temporal structure of comprehension, and different readers have different units bottlenecked at different stages.
+Reading speed is not determined by a single variable. It is the output of a system in which multiple cognitive processes must complete in sequence or in parallel, and the system's throughput is constrained by its slowest component. This is the central insight of [[Chunk (Miller, 1956; Chase & Simon, 1973)|chunking theory]] applied to reading: units of processing define the temporal structure of comprehension, and different readers have different units bottlenecked at different stages.
 
 The [[dual-process-theory]] is relevant here as a structural analogy: just as System 1 processes are fast, automatic, and low-capacity while System 2 processes are slow, deliberate, and attention-demanding, reading involves both automatic lower-level processes (letter and word recognition) and controlled higher-level processes (inference generation, situation model construction). The speed-comprehension trade-off is, at its core, a story about which processes have been automatized and which have not.
 
@@ -286,7 +286,7 @@ Expert cardiologists read cardiology papers faster *and* with better comprehensi
 
 ### The Comprehension Monitoring Deficit Under Speed Pressure
 
-A body of research on the [[fluency-illusion]] (the tendency to confuse the subjective ease of processing with actual comprehension) is directly relevant here. Studies by Bjork, Koriat, and colleagues establish that reading speed is negatively correlated with comprehension calibration accuracy: faster readers are less accurate in knowing whether they understood what they read.
+A body of research on the [[Fluency Illusion]] (the tendency to confuse the subjective ease of processing with actual comprehension) is directly relevant here. Studies by Bjork, Koriat, and colleagues establish that reading speed is negatively correlated with comprehension calibration accuracy: faster readers are less accurate in knowing whether they understood what they read.
 
 The mechanism: speed reduces the opportunities for metacognitive comparison between the incoming text and the developing situation model. Slower readers, by spending more time on each passage, generate more comprehension checks. This creates an ironic pattern where fast readers both understand less and are more confident they understood — a double failure of epistemic accuracy.
 
@@ -338,7 +338,7 @@ The practical implication: training yourself to "stop hearing the words" is a se
 
 ### The Role of Chunking in Expert Reading
 
-[[chunking|Chunking]] — the grouping of lower-level units into higher-level units that can be held as a single item in working memory — is a fundamental mechanism of expertise across domains ([[cognitive-chunking|cognitive chunking theory]]). In reading, chunking operates at multiple levels:
+[[Chunk (Miller, 1956; Chase & Simon, 1973)|Chunking]] — the grouping of lower-level units into higher-level units that can be held as a single item in working memory — is a fundamental mechanism of expertise across domains ([[cognitive-chunking|cognitive chunking theory]]). In reading, chunking operates at multiple levels:
 
 At the **sub-lexical level**: efficient readers process familiar multi-letter patterns (morphemes, common letter clusters) as units, not letter-by-letter. This is why skilled readers are faster on regular orthographic patterns than on novel ones even when both are familiar words.
 
@@ -370,7 +370,7 @@ When a cognitive psychologist reads a paper on [[working-memory|working memory]]
 This "pre-processing" effect is why domain experts read faster: they are processing less novel information per sentence. The text is, in a sense, redundant with what they already know, and the genuinely new information — the specific values, the unexpected finding, the novel theoretical move — stands out against a background of already-processed familiar context. Reading expert-domain text is a process of selective updating, not comprehensive construction from scratch.
 
 > [!cross-domain-connection] **Selective Updating vs. Comprehensive Construction: Chess and Reading**
-> Expert chess players do not see 64 squares with 32 pieces — they see a small number of familiar patterns with deviations. Their perceptual processing is radically different from a novice's: they compress the board's information into known schema, freeing attention for the genuinely novel elements. Expert readers engage in a structurally identical process: compressing text content into activated schema, attending selectively to what deviates from prediction. The analogy holds because both share the mechanism of pattern-triggered schema activation — [[schema-automation|schema automation]] enabling faster and more accurate processing not by processing less but by processing differently.
+> Expert chess players do not see 64 squares with 32 pieces — they see a small number of familiar patterns with deviations. Their perceptual processing is radically different from a novice's: they compress the board's information into known schema, freeing attention for the genuinely novel elements. Expert readers engage in a structurally identical process: compressing text content into activated schema, attending selectively to what deviates from prediction. The analogy holds because both share the mechanism of pattern-triggered schema activation — [[Schema Automation|schema automation]] enabling faster and more accurate processing not by processing less but by processing differently.
 
 **Section-End Summary — Phase IV**
 
@@ -432,7 +432,7 @@ Training the visual system to group words into meaningful chunks — rather than
 **RSVP Apps for Complex Text**: While RSVP apps are technically effective for simple, familiar text, they systematically disable the comprehension monitoring and strategic rereading mechanisms that are essential for complex material.
 
 > [!warning] **The Fluency Illusion Risk**
-> The most practically dangerous outcome of naïve speed-reading training is the [[fluency-illusion|fluency illusion]]: trained readers become more fluent at moving through text — producing subjectively confident, smooth reading — while their actual comprehension deteriorates. This is especially likely when training materials are simpler than the professional texts the reader actually needs to comprehend. Testing comprehension on training materials does not verify that gains transfer to more demanding texts. Always calibrate comprehension gains against your actual target reading materials.
+> The most practically dangerous outcome of naïve speed-reading training is the [[Fluency Illusion|fluency illusion]]: trained readers become more fluent at moving through text — producing subjectively confident, smooth reading — while their actual comprehension deteriorates. This is especially likely when training materials are simpler than the professional texts the reader actually needs to comprehend. Testing comprehension on training materials does not verify that gains transfer to more demanding texts. Always calibrate comprehension gains against your actual target reading materials.
 
 ### Genuine Limitations of the Evidence Base
 
@@ -570,21 +570,21 @@ For readers using AI tools to accelerate information processing — summarizatio
 >
 > - **[[working-memory]]** — The entire argument of Phase IV turns on working memory as the shared resource governing both word recognition and meaning integration. The capacity constraints of working memory set the ceiling on comprehension-maintained reading speed; lexical automaticity liberates this resource. Any update to the Working Memory note should note this practical extension: WM capacity is domain-relativized in reading, because vocabulary automaticity effectively expands functional WM for text in familiar domains.
 >
-> - **[[cognitive-load-theory]]** — The Four Bottlenecks framework is a reading-specific instantiation of CLT's intrinsic/extraneous/germane load distinctions. Lexical load for non-automatized vocabulary is an extraneous load that occupies working memory without contributing to schema construction; vocabulary automaticity eliminates this extraneous load. The [[germane-cognitive-load|germane load]] of inference generation and situation model construction is the productive load that should not be reduced. This is an excellent practical case study for the CLT note.
+> - **[[Cognitive Load Theory (CLT)]]** — The Four Bottlenecks framework is a reading-specific instantiation of CLT's intrinsic/extraneous/germane load distinctions. Lexical load for non-automatized vocabulary is an extraneous load that occupies working memory without contributing to schema construction; vocabulary automaticity eliminates this extraneous load. The [[Cognitive Load Theory (CLT)|germane load]] of inference generation and situation model construction is the productive load that should not be reduced. This is an excellent practical case study for the CLT note.
 >
-> - **[[schema]]** and **[[schema-automation]]** — The domain-expertise reading speed effect is a direct manifestation of schema automation in the reading domain. Expert readers don't read faster because they have better "reading skill" in the abstract — they read faster because their domain schemas are automated, reducing inference demands per sentence to near-zero. This is schema automation operationalized as a measurable performance outcome.
+> - **[[schema]]** and **[[Schema Automation]]** — The domain-expertise reading speed effect is a direct manifestation of schema automation in the reading domain. Expert readers don't read faster because they have better "reading skill" in the abstract — they read faster because their domain schemas are automated, reducing inference demands per sentence to near-zero. This is schema automation operationalized as a measurable performance outcome.
 >
-> - **[[chunking]]** and **[[cognitive-chunking]]** — Phase IV's analysis of expert reading as "recognizing" rather than "assembling" text is a direct application of chunking theory. The domain-expertise effect, the phrase-level reading strategy, and the sub-vocalization selective deployment all reduce to chunking at different levels of the reading hierarchy.
+> - **[[Chunk (Miller, 1956; Chase & Simon, 1973)]]** and **[[cognitive-chunking]]** — Phase IV's analysis of expert reading as "recognizing" rather than "assembling" text is a direct application of chunking theory. The domain-expertise effect, the phrase-level reading strategy, and the sub-vocalization selective deployment all reduce to chunking at different levels of the reading hierarchy.
 >
-> - **[[metacognitive-monitoring]]** — The comprehension monitoring bottleneck (Bottleneck 4) is a reading-domain application of metacognitive monitoring. The analysis adds a specific causal mechanism for why monitoring fails under speed pressure: working memory resource competition. This provides a mechanistic grounding for the [[fluency-illusion]] — fast reading disables monitoring through resource depletion, not through any inherent property of the monitoring process itself.
+> - **[[metacognitive-monitoring]]** — The comprehension monitoring bottleneck (Bottleneck 4) is a reading-domain application of metacognitive monitoring. The analysis adds a specific causal mechanism for why monitoring fails under speed pressure: working memory resource competition. This provides a mechanistic grounding for the [[Fluency Illusion]] — fast reading disables monitoring through resource depletion, not through any inherent property of the monitoring process itself.
 >
-> - **[[fluency-illusion]]** — This analysis provides the mechanism for the fluency illusion in reading: bandwidth compression produces subjective fluency (smooth, confident processing) while degrading actual comprehension. The fluency illusion is not merely a metacognitive error — it is downstream of a resource allocation failure that prevents monitoring from occurring.
+> - **[[Fluency Illusion]]** — This analysis provides the mechanism for the fluency illusion in reading: bandwidth compression produces subjective fluency (smooth, confident processing) while degrading actual comprehension. The fluency illusion is not merely a metacognitive error — it is downstream of a resource allocation failure that prevents monitoring from occurring.
 >
 > - **[[prior-knowledge-activation]]** — Pre-reading activation strategies (reviewing abstract, headings, conclusion) are validated here not merely as motivational priming but as a mechanism for reducing inference load during reading. Prior knowledge activation functions as bottleneck 3 pre-processing, and this mechanism connects directly to the [[advance-organizer|advance organizer]] literature.
 >
 > - **[[dual-process-theory]]** — The bandwidth expansion/compression distinction maps cleanly onto System 1 (automatic, low-resource) vs. System 2 (controlled, high-resource) processing. Bandwidth expansion moves more processing from System 2 to System 1 through automatization; bandwidth compression forces System 2 processing to be skipped, not automated.
 >
-> - **[[levels-of-processing]]** and **[[deep-processing]]** — The analysis provides a mechanistic account of why deep processing requires more time: situation model construction, which is the hallmark of deep processing in reading, requires inference generation that cannot be compressed without comprehension loss. Shallow processing (surface encoding) is faster but produces situation models of lower resolution.
+> - **[[levels-of-processing-theory]]** and **[[deep-processing]]** — The analysis provides a mechanistic account of why deep processing requires more time: situation model construction, which is the hallmark of deep processing in reading, requires inference generation that cannot be compressed without comprehension loss. Shallow processing (surface encoding) is faster but produces situation models of lower resolution.
 >
 > - **[[transfer-of-learning]]** and **[[far-transfer]]** — The FAR Transfer phase identifies three abstract principles that demonstrate far transfer from reading science to musical performance, medical diagnosis, software engineering, and AI-assisted knowledge work. These represent structural analogues (not merely surface similarities), grounding the transfer in shared mechanisms.
 >
@@ -620,7 +620,7 @@ For readers using AI tools to accelerate information processing — summarizatio
 > [!definition] **[[advance-organizer|Advance Organizer]] (Ausubel, 1960)**
 > Introductory material presented before a learning task that provides an abstract, conceptual framework into which the incoming information can be assimilated. In reading, previewing abstract, headings, and conclusions functions as an advance organizer by pre-activating relevant schema and reducing inference load during primary reading.
 
-> [!definition] **[[fluency-illusion|Fluency Illusion]]**
+> [!definition] **[[Fluency Illusion|Fluency Illusion]]**
 > The metacognitive error of conflating the subjective ease of processing (processing fluency) with actual comprehension depth. In reading, speed-trained readers often experience high processing fluency — smooth, fast reading — while their situation model construction has degraded. The illusion is produced because monitoring failure prevents awareness of the comprehension deficit.
 
 > [!definition] **Inferential Bridging**
@@ -656,7 +656,7 @@ For readers using AI tools to accelerate information processing — summarizatio
 > Theoretical account of how experts use long-term memory structures to extend effective working memory capacity in their domain. Provides the mechanistic bridge between domain expertise and the reading speed advantage — supports the schema-as-inference-engine analysis in Phase IV.
 
 > [!cite] **Bjork, R. A., & Bjork, E. L. (2011). Making Things Hard on Yourself, but in a Good Way: Creating Desirable Difficulties to Enhance Learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World*. Worth Publishers.**
-> Foundational for the [[fluency-illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.
+> Foundational for the [[Fluency Illusion]] analysis — demonstrates that subjective ease of processing is negatively correlated with actual learning depth. Directly relevant to the speed-monitoring incompatibility and the risks of bandwidth compression training.
 
 > [!cite] **Graesser, A. C., Singer, M., & Trabasso, T. (1994). Constructing Inferences During Narrative Text Comprehension. *Psychological Review, 101*(3), 371–395.**
 > Comprehensive framework for the types of inferences generated during reading and their resource demands. Provides the inferential bridging analysis underpinning Bottleneck 3 in Phase II, and grounds the prior knowledge pre-activation argument of Phase V.
@@ -671,7 +671,7 @@ For readers using AI tools to accelerate information processing — summarizatio
 > [!further-exploration] **Deepening Your Practice**
 
 > [!topic-idea] [[Vocabulary-Acquisition-for-Reading-Automaticity]]
-> A dedicated investigation of the most efficient protocols for building vocabulary to automaticity — beyond definitional learning, into the consolidated, multi-context representations that actually reduce lexical processing load. Should examine spaced repetition optimization for reading (as distinct from vocabulary testing), morphological pattern learning, and the minimum exposure threshold for automaticity consolidation. Connects directly to [[spaced-repetition-systems]], [[elaborative-rehearsal]], and [[levels-of-processing]].
+> A dedicated investigation of the most efficient protocols for building vocabulary to automaticity — beyond definitional learning, into the consolidated, multi-context representations that actually reduce lexical processing load. Should examine spaced repetition optimization for reading (as distinct from vocabulary testing), morphological pattern learning, and the minimum exposure threshold for automaticity consolidation. Connects directly to [[spaced-repetition-systems]], [[elaborative-rehearsal]], and [[levels-of-processing-theory]].
 
 > [!topic-idea] [[comprehension-monitoring-training-protocols]]
 > The [[metacognitive-monitoring]] analysis in this report identifies comprehension monitoring as both the most important and most vulnerable cognitive process in reading under speed pressure. A dedicated investigation should examine structured self-testing protocols, the optimal frequency and type of comprehension checks during reading, and the evidence base for monitoring training as a transferable skill. Connects to [[metacognitive-regulation]], [[self-regulated-learning]], and [[formative-assessment]].

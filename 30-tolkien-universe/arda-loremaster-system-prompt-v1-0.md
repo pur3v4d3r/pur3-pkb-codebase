@@ -28,7 +28,7 @@ related_concepts:
   - "[[The Lord of the Rings]]"
   - "[[The History of Middle-earth]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Chain of Density]]"
   - "[[Progressive Depth Architecture]]"
   - "[[Analytical Commentary System]]"

@@ -47,8 +47,8 @@ With a clean visual structure in place, we now make the note functional and inte
     *   **`created`**: The date the note was created, often automatically generated.
 
 *   **Contextual Linking:** This is the practice of creating links between notes within the body of your text. A crucial best practice is to provide context for the link. Instead of just dropping a bare link, write a sentence that explains the relationship between the current note and the one you are linking to.
-    *   **Poor Example:** `[[atomic-notes]]`
-    *   **Good Example:** `This concept is built upon the foundational principle of [[atomic-notes]], which emphasizes capturing one idea per note.`
+    *   **Poor Example:** `[[atomic-note]]`
+    *   **Good Example:** `This concept is built upon the foundational principle of [[atomic-note]], which emphasizes capturing one idea per note.`
 
 *   **The "Related Notes" Section:** At the bottom of your note, create a dedicated section to manually curate a list of links to other relevant notes. This acts as a discovery tool, prompting you to explore connections you've already made and encouraging you to find new ones.
 

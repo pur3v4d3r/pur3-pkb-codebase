@@ -158,12 +158,12 @@ see-also:
 contrasts-with:
   - "[[pseudometacognition]]"
   - "[[cognitive-bias|Cognitive Bias]]"
-  - "[[fluency-illusion|Fluency Illusion]]"
+  - "[[Fluency Illusion|Fluency Illusion]]"
 
 applied-in:
   - "[[personal-knowledge-management|Personal Knowledge Management]]"
   - "[[self-directed-learning|Self-Directed Learning]]"
-  - "[[scaffolding]]"
+  - "[[Scaffolded Fading]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -171,21 +171,21 @@ applied-in:
 builds-on:
   - "[[working-memory|Working Memory]]"
   - "[[long-term-memory|Long-Term Memory]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[levels-of-processing-theory|Levels of Processing Theory]]"
 
 enables:
   - "[[self-regulated-learning|Self-Regulated Learning]]"
   - "[[self-directed-learning|Self-Directed Learning]]"
   - "[[critical-thinking-in-education|Critical Thinking in Education]]"
-  - "[[elaborative-interrogation|Elaborative Interrogation]]"
+  - "[[Elaborative Interrogation|Elaborative Interrogation]]"
 
 expansion-topics:
   - "[[metacognitive-accuracy|Metacognitive Accuracy]]"
   - "[[epistemic-cognition|Epistemic Cognition]]"
-  - "[[productive-failure|Productive Failure]]"
+  - "[[Productive Failure|Productive Failure]]"
   - "[[transfer-of-learning|Transfer of Learning]]"
-  - "[[desirable-difficulties|Desirable Difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]"
   - "[[reflective-judgment|Reflective Judgment]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -245,7 +245,7 @@ The capacity to examine one's own mental processes — to stand at a reflective 
 
 The central insight driving metacognitive research is deceptively simple: cognitive capacity alone does not determine learning outcomes. A learner with substantial [[working-memory|Working Memory]] capacity and a richly organized [[long-term-memory|Long-Term Memory]] may nonetheless fail to learn effectively if that learner cannot accurately assess what she knows and does not know, cannot detect when comprehension has broken down, and cannot adjust her learning strategies in response to that detection. [[metacognitive-regulation|Metacognitive Regulation]] — the strategic, self-directed management of one's own cognitive processes — operates as an amplifier or attenuator of raw cognitive capacity. Two learners with equivalent domain knowledge and processing resources may diverge dramatically in learning efficiency and depth of understanding depending on the quality of their metacognitive infrastructure.
 
-This amplification function accounts for the disproportionate practical significance that metacognition has acquired within educational research and learning science. Meta-analyses consistently position metacognitive strategy instruction among the highest-effect-size interventions available to educators — often surpassing instructional technology, curriculum modification, and many motivational interventions in sustained impact on learning outcomes. Yet the same literature reveals a troubling disparity: metacognitive skill is unequally distributed, difficult to develop through implicit exposure alone, often domain-specific in ways that limit cross-domain transfer, and susceptible to systematic distortion by [[cognitive-bias|Cognitive Bias]] and the [[fluency-illusion|Fluency Illusion]]. The gap between metacognitive potential and metacognitive actualization is, for most learners, substantial.
+This amplification function accounts for the disproportionate practical significance that metacognition has acquired within educational research and learning science. Meta-analyses consistently position metacognitive strategy instruction among the highest-effect-size interventions available to educators — often surpassing instructional technology, curriculum modification, and many motivational interventions in sustained impact on learning outcomes. Yet the same literature reveals a troubling disparity: metacognitive skill is unequally distributed, difficult to develop through implicit exposure alone, often domain-specific in ways that limit cross-domain transfer, and susceptible to systematic distortion by [[cognitive-bias|Cognitive Bias]] and the [[Fluency Illusion|Fluency Illusion]]. The gap between metacognitive potential and metacognitive actualization is, for most learners, substantial.
 
 ### Scope and Architecture of This Report
 
@@ -333,9 +333,9 @@ Efklides's [[metacognitive-feelings|Metacognitive Feelings]] research has provid
 >
 > **Boundary:** Metacognitive experiences are not identical to emotions, though they are affectively toned. Their defining characteristic is their informational content about cognitive processing, not their hedonic valence. A feeling of difficulty carries monitoring information (this processing is costly, this understanding is inadequate, this strategy is being strained) rather than simply signaling unpleasantness.
 >
-> **Common Misconception:** Metacognitive experiences are not necessarily accurate signals. The [[fluency-illusion|Fluency Illusion]] demonstrates that fluency of processing — which generates a positive metacognitive feeling — can be entirely disconnected from depth of encoding. The [[illusion-of-knowing|Illusion of Knowing]] similarly documents how familiarity-based feelings of knowing can dramatically overestimate actual comprehension. Metacognitive experiences are monitoring signals, not infallible reports.
+> **Common Misconception:** Metacognitive experiences are not necessarily accurate signals. The [[Fluency Illusion|Fluency Illusion]] demonstrates that fluency of processing — which generates a positive metacognitive feeling — can be entirely disconnected from depth of encoding. The [[illusion-of-knowing|Illusion of Knowing]] similarly documents how familiarity-based feelings of knowing can dramatically overestimate actual comprehension. Metacognitive experiences are monitoring signals, not infallible reports.
 >
-> **See also:** [[metacognitive-feelings|Metacognitive Feelings]], [[feeling-of-knowing|Feeling of Knowing]], [[judgment-of-learning|Judgment of Learning]], [[fluency-illusion|Fluency Illusion]], [[illusion-of-knowing|Illusion of Knowing]], [[Ease-of-Learning|Ease of Learning]]
+> **See also:** [[metacognitive-feelings|Metacognitive Feelings]], [[feeling-of-knowing|Feeling of Knowing]], [[judgment-of-learning|Judgment of Learning]], [[Fluency Illusion|Fluency Illusion]], [[illusion-of-knowing|Illusion of Knowing]], [[Ease-of-Learning|Ease of Learning]]
 
 ### The Monitoring-Control Distinction
 
@@ -345,7 +345,7 @@ The conceptually most precise and theoretically generative decomposition of meta
 
 **Control** is the causal relationship running from the meta-level to the object-level: the meta-level issues commands that modify object-level processing — initiating new strategies, terminating unsuccessful approaches, allocating additional resources, or setting difficulty thresholds. Control encompasses planning, strategy selection, effort allocation, and all other regulatory interventions.
 
-The [[monitoring-control-coupling|Monitoring-Control Coupling]] within this architecture specifies the relationship that must obtain for metacognition to function adaptively. Accurate monitoring must precede appropriate control. If monitoring is inaccurate — as it frequently is, for documented reasons — control responses will be maladaptive. A learner who monitors her comprehension and generates inflated confidence despite shallow processing will not initiate the corrective strategies that accurate monitoring would trigger. This is the central mechanism underlying the [[dunning-kruger-effect|Dunning-Kruger Effect]] and the more general phenomenon of miscalibration.
+The [[Monitoring-Control Coupling|Monitoring-Control Coupling]] within this architecture specifies the relationship that must obtain for metacognition to function adaptively. Accurate monitoring must precede appropriate control. If monitoring is inaccurate — as it frequently is, for documented reasons — control responses will be maladaptive. A learner who monitors her comprehension and generates inflated confidence despite shallow processing will not initiate the corrective strategies that accurate monitoring would trigger. This is the central mechanism underlying the [[dunning-kruger-effect|Dunning-Kruger Effect]] and the more general phenomenon of miscalibration.
 
 > [!key-claim] **The Monitoring-First Principle**
 > Nelson and Narens' architecture establishes a theoretical priority: metacognitive regulation can be no more accurate than the monitoring on which it is based. This principle has far-reaching implications for metacognitive instruction: interventions focused exclusively on regulatory strategies (how to plan, how to implement fix-up strategies) will fail systematically if they do not first address the accuracy of monitoring. Calibration — the alignment between subjective confidence and objective accuracy — is the precondition for effective regulation.
@@ -462,7 +462,7 @@ The metacognitive monitoring system generates its estimates of cognitive perform
 
 **Cue-based monitoring** is the primary mechanism: the meta-level's judgments about object-level performance are not direct readouts of memory or comprehension states but inferences from accessible cues. Nelson and Dunlosky's (1991) research on **delayed JOLs** (judgments of learning made one to two minutes after study, rather than immediately) demonstrated that delayed JOLs are substantially more accurate predictors of subsequent recall than immediate JOLs. The explanation is cue-based: immediate JOLs are driven primarily by cues available during study (e.g., feelings of processing fluency, familiarity with the material) that are imperfect proxies for actual learning. Delayed JOLs give time for accessibility testing — the learner attempts partial retrieval — and are driven by retrieval fluency, a much more diagnostic cue.
 
-This cue-based mechanism accounts for a cluster of well-documented monitoring errors. The [[fluency-illusion|Fluency Illusion]] occurs because processing fluency — the ease with which material is processed — is a salient cue that the monitoring system treats as evidence of learning, even when fluency reflects familiarity or ease of processing rather than depth of encoding. Re-reading a passage produces fluent processing and thus generates positive JOLs without improving long-term retention. The [[illusion-of-knowing|Illusion of Knowing]] similarly reflects the monitoring system's reliance on recognition familiarity as a cue for understanding — the feeling of recognizing material generates confidence that the material is understood, even when the comprehension is superficial or absent.
+This cue-based mechanism accounts for a cluster of well-documented monitoring errors. The [[Fluency Illusion|Fluency Illusion]] occurs because processing fluency — the ease with which material is processed — is a salient cue that the monitoring system treats as evidence of learning, even when fluency reflects familiarity or ease of processing rather than depth of encoding. Re-reading a passage produces fluent processing and thus generates positive JOLs without improving long-term retention. The [[illusion-of-knowing|Illusion of Knowing]] similarly reflects the monitoring system's reliance on recognition familiarity as a cue for understanding — the feeling of recognizing material generates confidence that the material is understood, even when the comprehension is superficial or absent.
 
 > [!key-claim] **The Cue-Dependency of Metacognitive Monitoring**
 > Because metacognitive monitoring is cue-based rather than direct-access, its accuracy is contingent on the diagnosticity of available cues. Interventions that change the cue environment — by forcing retrieval (retrieval practice), introducing spacing (desirable difficulty), or making comprehension failures salient — improve monitoring accuracy by substituting more diagnostic cues for less diagnostic ones. This provides a mechanistic grounding for many evidence-based learning strategies.
@@ -478,7 +478,7 @@ Novice and immature readers frequently monitor against only the lexical standard
 The mechanisms underlying comprehension monitoring failure include: insufficient processing depth (monitoring against the [[levels-of-processing-theory|shallower processing levels]] rather than deeper semantic integration); interference from text-surface features that create fluency-based impressions of understanding; insufficient domain knowledge to detect what violates conceptual expectations; and the absence of explicit comprehension standards against which to compare current understanding.
 
 > [!insight] **The Role of Prior Knowledge in Monitoring Accuracy**
-> Comprehension monitoring is not a content-neutral capacity but is deeply entangled with [[schema-theory|schema theory]] and domain knowledge. A reader cannot detect that a passage violates physical laws if she has no schema for physical laws; she cannot detect logical inconsistency in an argument if she lacks the logical competence to assess validity. This content-embeddedness means that metacognitive monitoring accuracy is partially domain-specific: gains in monitoring accuracy within one domain do not automatically transfer to domains with different knowledge structures. This complicates the concept of "metacognitive skill" as a domain-general capacity.
+> Comprehension monitoring is not a content-neutral capacity but is deeply entangled with [[schema-theory-and-knowledge-organization|schema theory]] and domain knowledge. A reader cannot detect that a passage violates physical laws if she has no schema for physical laws; she cannot detect logical inconsistency in an argument if she lacks the logical competence to assess validity. This content-embeddedness means that metacognitive monitoring accuracy is partially domain-specific: gains in monitoring accuracy within one domain do not automatically transfer to domains with different knowledge structures. This complicates the concept of "metacognitive skill" as a domain-general capacity.
 
 ### The Calibration Problem
 
@@ -524,12 +524,12 @@ The strongest and most practically significant application domain of metacogniti
 
 **Metacognitive prompting** — introducing structured self-questioning prompts during learning activities ("What do I already know about this? What do I not yet understand? What strategy should I use here? How will I know if this strategy is working?") — shows consistent moderate effects across domains. The prompts function as externalized metacognitive scaffolding, substituting explicit regulatory structure for the internal regulation that learners have not yet internalized.
 
-**Self-explanation training** — teaching learners to generate explanations for why procedures work, why claims are true, and how new material relates to existing knowledge — has been shown to improve both domain learning and metacognitive accuracy. The generation process itself functions as a monitoring tool, making comprehension gaps visible through the failure to generate coherent explanations. The connection to [[elaborative-interrogation|Elaborative Interrogation]] is direct: both strategies leverage the generation process as a comprehension-diagnostic tool.
+**Self-explanation training** — teaching learners to generate explanations for why procedures work, why claims are true, and how new material relates to existing knowledge — has been shown to improve both domain learning and metacognitive accuracy. The generation process itself functions as a monitoring tool, making comprehension gaps visible through the failure to generate coherent explanations. The connection to [[Elaborative Interrogation|Elaborative Interrogation]] is direct: both strategies leverage the generation process as a comprehension-diagnostic tool.
 
 > [!best-practice] **High-Impact Metacognitive Interventions**
 > Converging evidence supports the following as highest-return metacognitive instructional strategies:
 > 1. **Retrieval practice with feedback** — combines accurate monitoring (retrieval attempt reveals knowledge gaps) with immediate corrective signal. Forces cue substitution from fluency-based to accessibility-based monitoring.
-> 2. **Delayed and spaced practice** — [[spaced-repetition|Spaced Repetition]] and [[desirable-difficulties|Desirable Difficulties]] improve calibration by introducing interleaving and spacing that reduce fluency-based over-confidence.
+> 2. **Delayed and spaced practice** — [[spaced-repetition|Spaced Repetition]] and [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] improve calibration by introducing interleaving and spacing that reduce fluency-based over-confidence.
 > 3. **Explicit comprehension-standard teaching** — teaching learners what adequate comprehension looks like at each standard (lexical, semantic, cohesion, consistency) improves monitoring specificity.
 > 4. **Think-aloud protocols** — making metacognitive processes externally observable (through verbalization) improves metacognitive monitoring by forcing it from implicit to explicit processing, enabling feedback on its adequacy.
 > 5. **Attribution retraining** — connecting poor outcomes to strategy inadequacy rather than capacity limitations transforms the motivational implications of monitoring signals, closing the calibration-regulation gap.
@@ -546,7 +546,7 @@ The connection to [[self-directed-learning|Self-Directed Learning]] (SDL) adds a
 
 For a practitioner engaged in systematic [[personal-knowledge-management|Personal Knowledge Management]], metacognitive research carries several non-obvious implications. The PKB practices most commonly advocated — spaced repetition, elaborative interrogation, linked notes, regular review — can be understood as *metacognitive prostheses*: external structures that supply the functions of monitoring and control when internal metacognitive resources are insufficient or unreliable.
 
-The Obsidian wiki-link architecture, for instance, functions as an external [[monitoring-regulation-coupling|monitoring-regulation coupling]] mechanism: by creating links between notes, the learner makes knowledge connections externally visible, enabling inspection (monitoring) of the relationship structure and deliberate manipulation (control) of knowledge organization. The [[extended-mind-theory|Extended Mind Theory]] implication is direct: well-designed PKB architectures genuinely extend metacognitive function beyond the skull, compensating for the limitations of internal monitoring with external structural supports.
+The Obsidian wiki-link architecture, for instance, functions as an external [[monitoring-regulation-coupling|monitoring-regulation coupling]] mechanism: by creating links between notes, the learner makes knowledge connections externally visible, enabling inspection (monitoring) of the relationship structure and deliberate manipulation (control) of knowledge organization. The [[Extended Mind Thesis (Clark & Chalmers, 1998)|Extended Mind Theory]] implication is direct: well-designed PKB architectures genuinely extend metacognitive function beyond the skull, compensating for the limitations of internal monitoring with external structural supports.
 
 [[spaced-repetition|Spaced Repetition]] systems, similarly, function as external metacognitive regulators: they substitute algorithmic scheduling for the learner's notoriously inaccurate JOL-based study termination decisions, imposing retrieval-based monitoring cues (does the item come to mind fluently?) in place of the fluency-based processing cues that drive internal JOL errors.
 
@@ -620,17 +620,17 @@ Three questions emerge from comprehensive engagement with this material as most 
 >
 > - **[[working-memory|Working Memory]]** — Metacognitive regulation depends critically on the limited-capacity system of [[working-memory|Working Memory]]: effective self-monitoring requires that monitoring processes not exhaust the same resources they are monitoring, which places fundamental constraints on the kinds of monitoring strategies that can be deployed in high-load cognitive contexts. Understanding the Baddeley model is prerequisite to understanding why dual-task methodology can impair comprehension monitoring.
 >
-> - **[[schema-theory|Schema Theory]]** — Both the success and the failure of comprehension monitoring are mediated by [[schema-theory|schematic knowledge structures]]: learners can only detect comprehension violations against the background of expectations established by schemas, and schema-driven processing generates the familiarity cues that produce the Fluency Illusion and Illusion of Knowing. The schema theory node explains why monitoring accuracy is fundamentally knowledge-dependent.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Both the success and the failure of comprehension monitoring are mediated by [[schema-theory-and-knowledge-organization|schematic knowledge structures]]: learners can only detect comprehension violations against the background of expectations established by schemas, and schema-driven processing generates the familiarity cues that produce the Fluency Illusion and Illusion of Knowing. The schema theory node explains why monitoring accuracy is fundamentally knowledge-dependent.
 >
 > - **[[levels-of-processing-theory|Levels of Processing Theory]]** — The depth-of-processing hierarchy maps directly onto metacognitive monitoring standards: learners who monitor only against the lexical standard are engaging surface-level processing; learners who monitor against semantic, cohesion, and consistency standards are engaging the deeper processing that the levels-of-processing tradition associates with superior retention.
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — CLT's central claim — that effective instruction must manage cognitive load within working memory capacity limits — has direct implications for metacognitive instruction design. Metacognitive strategy use is itself a cognitive operation that consumes working memory resources; high-intrinsic-load tasks may leave insufficient cognitive capacity for the monitoring operations that metacognitive strategy use requires.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — CLT's central claim — that effective instruction must manage cognitive load within working memory capacity limits — has direct implications for metacognitive instruction design. Metacognitive strategy use is itself a cognitive operation that consumes working memory resources; high-intrinsic-load tasks may leave insufficient cognitive capacity for the monitoring operations that metacognitive strategy use requires.
 >
 > **Downstream Applications (this report enables):**
 >
 > - **[[self-regulated-learning|Self-Regulated Learning]]** — Metacognition is the regulatory engine of SRL. The monitoring-control architecture directly grounds Zimmerman's forethought-performance-self-reflection cycle and Pintrich's regulatory matrix. This report's mechanisms account is a prerequisite for the advanced SRL frameworks.
 >
-> - **[[elaborative-interrogation|Elaborative Interrogation]]** — EI functions as a metacognitive monitoring tool: by forcing learners to generate why-explanations, it substitutes a diagnostic retrieval-and-generation cue for the fluency-based monitoring cues that produce the Fluency Illusion. The metacognition report explains *why* EI works through the lens of cue diagnosticity.
+> - **[[Elaborative Interrogation|Elaborative Interrogation]]** — EI functions as a metacognitive monitoring tool: by forcing learners to generate why-explanations, it substitutes a diagnostic retrieval-and-generation cue for the fluency-based monitoring cues that produce the Fluency Illusion. The metacognition report explains *why* EI works through the lens of cue diagnosticity.
 >
 > - **[[critical-thinking-in-education|Critical Thinking in Education]]** — Critical thinking requires metacognitive monitoring of reasoning processes: detecting logical inconsistencies, recognizing when conclusions outrun their evidence, identifying implicit assumptions. The [[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]] node elaborates this connection; the current report provides the foundational monitoring architecture on which it depends.
 >
@@ -640,7 +640,7 @@ Three questions emerge from comprehensive engagement with this material as most 
 >
 > - **[[habit-formation|Habit Formation]]** — The automatization of metacognitive regulatory routines through habit formation raises the metacognitive fluency dialectic: as metacognitive habits develop, explicit monitoring may decrease even as regulatory behavior becomes more fluent. The habit formation literature provides a framework for understanding this developmental trajectory.
 >
-> - **[[extended-mind-theory|Extended Mind Theory]]** — EMT directly grounds the PKB-as-metacognitive-infrastructure insight: if cognitive processes can be extended into the environment through well-designed cognitive scaffolding, then PKB architecture constitutes a form of metacognitive extension — with Obsidian's link structure functioning as externalized monitoring infrastructure.
+> - **[[Extended Mind Thesis (Clark & Chalmers, 1998)|Extended Mind Theory]]** — EMT directly grounds the PKB-as-metacognitive-infrastructure insight: if cognitive processes can be extended into the environment through well-designed cognitive scaffolding, then PKB architecture constitutes a form of metacognitive extension — with Obsidian's link structure functioning as externalized monitoring infrastructure.
 >
 > **Strengthened Permanent Notes:**
 >
@@ -680,7 +680,7 @@ Three questions emerge from comprehensive engagement with this material as most 
 >
 > **Research Status:** Monitoring accuracy is systematically studied through calibration paradigms. Consistent findings include: over-confidence as the predominant calibration bias; delayed JOLs more accurate than immediate JOLs; retrieval practice improving monitoring accuracy by substituting retrieval-fluency cues for processing-fluency cues.
 >
-> **See also:** [[monitoring-control-coupling|Monitoring-Control Coupling]], [[judgment-of-learning|Judgment of Learning]], [[feeling-of-knowing|Feeling of Knowing]], [[metacognitive-accuracy|Metacognitive Accuracy]], [[calibration]]
+> **See also:** [[Monitoring-Control Coupling|Monitoring-Control Coupling]], [[judgment-of-learning|Judgment of Learning]], [[feeling-of-knowing|Feeling of Knowing]], [[metacognitive-accuracy|Metacognitive Accuracy]], [[calibration]]
 
 > [!definition] **Judgment of Learning (Nelson & Dunlosky, 1991)**
 > A prospective metacognitive judgment made after studying an item, estimating the probability of successfully recalling that item on a future test. The [[judgment-of-learning|Judgment of Learning]] (JOL) is the most extensively researched metacognitive monitoring judgment and the paradigmatic measure of metacognitive accuracy in memory research.
@@ -718,7 +718,7 @@ Three questions emerge from comprehensive engagement with this material as most 
 >
 > **Common Misconception:** Young children do not fail to monitor comprehension; they monitor against insufficiently demanding standards (primarily the lexical standard — do I know the words?) while missing higher-order cohesion and consistency violations. Comprehension monitoring development is partly a matter of expanding the standards against which monitoring operates.
 >
-> **See also:** [[metacognitive-regulation|Metacognitive Regulation]], [[situation-models-in-text-comprehension|Situation Models in Text Comprehension]], [[fluency-illusion|Fluency Illusion]], [[schema-theory|Schema Theory]]
+> **See also:** [[metacognitive-regulation|Metacognitive Regulation]], [[situation-models-in-text-comprehension|Situation Models in Text Comprehension]], [[Fluency Illusion|Fluency Illusion]], [[schema-theory-and-knowledge-organization|Schema Theory]]
 
 > [!definition] **Pseudometacognition (Flavell; elaborated in current report)**
 > The performance of metacognitive behavior patterns — following monitoring protocols, completing self-assessment templates, articulating strategic plans — without the genuine monitoring and regulatory activity that gives those behaviors their cognitive function. [[pseudometacognition]] represents a critical risk in metacognitive instruction: learners may learn to perform the external scripts of metacognitive behavior without the internal monitoring and regulatory adjustment those scripts are designed to externalize.
@@ -732,7 +732,7 @@ Three questions emerge from comprehensive engagement with this material as most 
 > [!definition] **Monitoring Gap (extended from monitoring-control coupling research)**
 > The discrepancy between the information available at the meta-level (what the monitoring system has detected about object-level performance) and the information that would be required to make accurate regulatory decisions. The [[monitoring-gap|Monitoring Gap]] can arise from insufficient monitoring (too little attention to monitoring signals), inaccurate monitoring (monitoring signals that misrepresent object-level performance), or monitoring that tracks the wrong variables (monitoring quantity of processing rather than depth of understanding).
 >
-> **See also:** [[metacognitive-monitoring|Metacognitive Monitoring]], [[monitoring-control-coupling|Monitoring-Control Coupling]], [[calibration]], [[metacognitive-accuracy|Metacognitive Accuracy]]
+> **See also:** [[metacognitive-monitoring|Metacognitive Monitoring]], [[Monitoring-Control Coupling|Monitoring-Control Coupling]], [[calibration]], [[metacognitive-accuracy|Metacognitive Accuracy]]
 
 > [!definition] **Metacognitive Regulation (Schraw & Dennison, 1994; Brown, 1978)**
 > The ensemble of executive cognitive processes through which a learner actively manages her cognitive engagement — planning, monitoring, evaluating, and adjusting — in response to metacognitive monitoring signals and in pursuit of cognitive goals. [[metacognitive-regulation|Metacognitive Regulation]] is the operational, behavioral dimension of metacognition: the actions taken as a consequence of metacognitive knowledge and metacognitive monitoring.
@@ -752,16 +752,16 @@ Three questions emerge from comprehensive engagement with this material as most 
 > **See also:** [[metacognitive-knowledge|Metacognitive Knowledge]], [[metacognitive-strategy|Metacognitive Strategy]], [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]]
 
 > [!definition] **Metacognitive Scaffolding (Vygotsky, extended by Brown & Palincsar)**
-> Instructional support structures that externalize metacognitive monitoring and regulatory functions that learners have not yet internalized, gradually withdrawing as the learner develops independent metacognitive competence. [[metacognitive-scaffolding|Metacognitive Scaffolding]] operationalizes the zone of proximal development concept for metacognitive skill development: the scaffold provides regulatory support within the zone, enabling performance that the learner cannot yet achieve independently, while structuring the conditions for internalization and independence.
+> Instructional support structures that externalize metacognitive monitoring and regulatory functions that learners have not yet internalized, gradually withdrawing as the learner develops independent metacognitive competence. [[Metacognitive Scaffolding|Metacognitive Scaffolding]] operationalizes the zone of proximal development concept for metacognitive skill development: the scaffold provides regulatory support within the zone, enabling performance that the learner cannot yet achieve independently, while structuring the conditions for internalization and independence.
 >
-> **See also:** [[scaffolding]], [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]], [[metacognitive-regulation|Metacognitive Regulation]], [[constructivism]]
+> **See also:** [[Scaffolded Fading]], [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]], [[metacognitive-regulation|Metacognitive Regulation]], [[constructivism]]
 
 > [!definition] **The Fluency Illusion (Jacoby, Bjork, & Kelley, 1994; Koriat, 1997)**
-> The systematic monitoring error in which processing fluency — the subjective ease of processing material — is misattributed as evidence of comprehension or learning depth. The [[fluency-illusion|Fluency Illusion]] is the primary mechanism underlying the overconfidence produced by re-reading (which produces processing fluency without improving retention), familiar materials (which are processed fluently without necessarily being deeply understood), and massed practice (which produces fluency within sessions without producing the interleaved retrieval that drives long-term retention).
+> The systematic monitoring error in which processing fluency — the subjective ease of processing material — is misattributed as evidence of comprehension or learning depth. The [[Fluency Illusion|Fluency Illusion]] is the primary mechanism underlying the overconfidence produced by re-reading (which produces processing fluency without improving retention), familiar materials (which are processed fluently without necessarily being deeply understood), and massed practice (which produces fluency within sessions without producing the interleaved retrieval that drives long-term retention).
 >
 > **Research Status:** The fluency illusion is one of the most replicable findings in metacognitive monitoring research. Its practical implications for study practice are well-established: methods that impose desirable difficulty (spacing, interleaving, retrieval) counteract fluency-based monitoring errors by substituting more diagnostic retrieval-fluency cues.
 >
-> **See also:** [[metacognitive-monitoring|Metacognitive Monitoring]], [[illusion-of-knowing|Illusion of Knowing]], [[desirable-difficulties|Desirable Difficulties]], [[retrieval-practice|Retrieval Practice]], [[spaced-repetition|Spaced Repetition]]
+> **See also:** [[metacognitive-monitoring|Metacognitive Monitoring]], [[illusion-of-knowing|Illusion of Knowing]], [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]], [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]], [[spaced-repetition|Spaced Repetition]]
 
 ---
 
@@ -837,7 +837,7 @@ Three questions emerge from comprehensive engagement with this material as most 
 >
 > **Why It Matters:** This tension determines the sequencing and emphasis of metacognitive instruction design.
 >
-> **See also:** [[metacognitive-monitoring|Metacognitive Monitoring]], [[metacognitive-regulation|Metacognitive Regulation]], [[monitoring-control-coupling|Monitoring-Control Coupling]]
+> **See also:** [[metacognitive-monitoring|Metacognitive Monitoring]], [[metacognitive-regulation|Metacognitive Regulation]], [[Monitoring-Control Coupling|Monitoring-Control Coupling]]
 
 > [!tension] **Explicit vs. Implicit Metacognition**
 >
@@ -1064,7 +1064,7 @@ Three questions emerge from comprehensive engagement with this material as most 
 > For over-confident predictions, identify what cue drove the inflated confidence: familiarity with material? recent re-reading? recognition fluency? Knowing the cue reveals the structural fix.
 >
 > **Step 5 — Strategy Adjustment:**
-> Over-confidence driven by fluency → introduce [[retrieval-practice|Retrieval Practice]] and [[spaced-repetition|Spaced Repetition]]. Under-confidence → check for excessive self-criticism not grounded in actual performance gaps.
+> Over-confidence driven by fluency → introduce [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]] and [[spaced-repetition|Spaced Repetition]]. Under-confidence → check for excessive self-criticism not grounded in actual performance gaps.
 
 > [!protocol] **Protocol 2: The Comprehension Standard Audit (derived from Brown's comprehension monitoring research)**
 >
@@ -1231,14 +1231,14 @@ Three questions emerge from comprehensive engagement with this material as most 
 > > **Suggested Type:** Foundational Report
 > > **Prerequisites:** [[metacognition]], [[reflective-judgment|Reflective Judgment]], [[epistemic-humility|Epistemic Humility]]
 >
-> > [!topic-idea] [[productive-failure|Productive Failure]]
+> > [!topic-idea] [[Productive Failure|Productive Failure]]
 > > **Description:** Kapur's research program on productive failure — the counter-intuitive finding that having learners attempt problems before instruction (generating initial failures) improves conceptual learning relative to instruction-first approaches. The mechanism likely involves metacognitive activation: initial problem attempts make knowledge gaps visible, creating calibration-demand conditions that make subsequent instruction more effective. A foundational treatment would cover the empirical evidence, the proposed mechanisms, and the instructional design principles.
 > >
 > > **Connection to This Report:** Productive failure directly operationalizes the desirable difficulty principle and creates the metacognitive conditions (awareness of knowledge gaps, calibrated monitoring) that this report identifies as prerequisite for effective regulation.
 > >
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[metacognition]], [[desirable-difficulties|Desirable Difficulties]], [[calibration]]
+> > **Prerequisites:** [[metacognition]], [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]], [[calibration]]
 >
 > > [!topic-idea] [[transfer-of-learning|Transfer of Learning]]
 > > **Description:** A comprehensive treatment of the conditions enabling and constraining transfer of learning across contexts and domains. Metacognition's own transfer specificity is a major unresolved question; the transfer literature provides the theoretical framework for understanding why metacognitive skills sometimes transfer and sometimes don't. Would cover near vs. far transfer distinctions, Gick and Holyoak's analogical transfer research, and the abstraction-specificity tradeoff in skill development.
@@ -1247,16 +1247,16 @@ Three questions emerge from comprehensive engagement with this material as most 
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[metacognition]], [[schema-theory|Schema Theory]], [[cognitive-load-theory|Cognitive Load Theory]]
+> > **Prerequisites:** [[metacognition]], [[schema-theory-and-knowledge-organization|Schema Theory]], [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 >
-> > [!topic-idea] [[desirable-difficulties|Desirable Difficulties]]
+> > [!topic-idea] [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 > > **Description:** Bjork's research program demonstrating that instructional conditions that introduce difficulty during learning (spacing, interleaving, retrieval practice, varying conditions) improve long-term retention and transfer despite impairing within-session performance. The mechanism is partly metacognitive: desirable difficulties substitute diagnostic retrieval-fluency cues for non-diagnostic processing-fluency cues, improving calibration accuracy while simultaneously improving encoding depth.
 > >
 > > **Connection to This Report:** The fluency illusion mechanism; the cue-diagnosticity account of monitoring accuracy; Phase V's best-practice recommendations.
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[metacognition]], [[retrieval-practice|Retrieval Practice]], [[spaced-repetition|Spaced Repetition]]
+> > **Prerequisites:** [[metacognition]], [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]], [[spaced-repetition|Spaced Repetition]]
 >
 > > [!topic-idea] [[reflective-judgment|Reflective Judgment]]
 > > **Description:** King and Kitchener's Reflective Judgment model — a developmental stage theory of epistemic reasoning describing the progression from pre-reflective thinking (beliefs are certain and known directly) through quasi-reflective thinking (knowledge is uncertain but unjustified opinions suffice) to reflective thinking (knowledge is uncertain but justified through systematic inquiry). Represents the epistemological-developmental complement to metacognitive development.
@@ -1267,14 +1267,14 @@ Three questions emerge from comprehensive engagement with this material as most 
 > > **Suggested Type:** Foundational Report
 > > **Prerequisites:** [[metacognition]], [[epistemic-cognition|Epistemic Cognition]], [[epistemic-humility|Epistemic Humility]]
 >
-> > [!topic-idea] [[metacognitive-scaffolding|Metacognitive Scaffolding]]
+> > [!topic-idea] [[Metacognitive Scaffolding|Metacognitive Scaffolding]]
 > > **Description:** A focused treatment of instructional scaffolding specifically designed to externalize and eventually internalize metacognitive monitoring and regulation — distinct from content scaffolding. Would cover the mechanisms of scaffolding (Vygotsky's ZPD), fading protocols, reciprocal teaching as paradigm case, metacognitive prompting systems, and the conditions under which scaffolded metacognition is successfully internalized vs. scaffold-dependent.
 > >
 > > **Connection to This Report:** The instructional applications section (Phase V); the pseudometacognition risk (scaffolding compliance vs. genuine internalization).
 > >
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[metacognition]], [[scaffolding]], [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+> > **Prerequisites:** [[metacognition]], [[Scaffolded Fading]], [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
 
 ---
 
@@ -1285,17 +1285,17 @@ Three questions emerge from comprehensive engagement with this material as most 
 >
 > **Upstream Dependencies:**
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — CLT's central insight (all learning is constrained by working memory capacity) creates the architectural problem that metacognition must navigate: how can the meta-level system monitor object-level processing when both operate within the same limited-capacity working memory? This constraint shapes the design requirements for metacognitive scaffolding (which offloads regulatory function externally) and for metacognitive strategy automatization (which reduces the working memory cost of metacognitive regulation). The CLT node is a genuine prerequisite.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — CLT's central insight (all learning is constrained by working memory capacity) creates the architectural problem that metacognition must navigate: how can the meta-level system monitor object-level processing when both operate within the same limited-capacity working memory? This constraint shapes the design requirements for metacognitive scaffolding (which offloads regulatory function externally) and for metacognitive strategy automatization (which reduces the working memory cost of metacognitive regulation). The CLT node is a genuine prerequisite.
 >
 > - **[[memory-systems|Memory Systems (Working & Long-Term Memory)]]** — Metacognitive monitoring is fundamentally a process of assessing the state of memory encoding and retrieval — which necessarily requires understanding the architecture of the system being monitored. The multi-store model, Baddeley's WM architecture, and the encoding-retrieval specificity principle all bear directly on why particular monitoring judgments are accurate or inaccurate.
 >
-> - **[[schema-theory|Schema Theory]]** — Schemas are the knowledge structures that enable metacognitive monitoring standards to operate: one can only detect comprehension violations against the background of schematic expectations. The schema theory node grounds the domain-dependency of monitoring accuracy and the mechanism through which prior knowledge enables (and constrains) comprehension monitoring.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Schemas are the knowledge structures that enable metacognitive monitoring standards to operate: one can only detect comprehension violations against the background of schematic expectations. The schema theory node grounds the domain-dependency of monitoring accuracy and the mechanism through which prior knowledge enables (and constrains) comprehension monitoring.
 >
 > **Downstream Applications:**
 >
 > - **[[self-regulated-learning|Self-Regulated Learning]] (Zimmerman's Cyclical Model — Forethought & Self-Reflection Phases)** — The existing SRL nodes (covering the Forethought and Self-Reflection phases) are mechanistically grounded by this report's account of metacognitive planning and evaluation. The current report is the conceptual prerequisite for understanding why the Self-Reflection Phase is a genuine regulatory feedback mechanism rather than a post-hoc rationalization.
 >
-> - **[[elaborative-interrogation|Elaborative Interrogation]]** — EI's mechanism (comprehension-testing through why-question generation) is now fully explicable through the cue-diagnosticity framework. The EI node gains mechanistic depth from this report's account of why generation substitutes diagnostic retrieval cues for non-diagnostic fluency cues.
+> - **[[Elaborative Interrogation|Elaborative Interrogation]]** — EI's mechanism (comprehension-testing through why-question generation) is now fully explicable through the cue-diagnosticity framework. The EI node gains mechanistic depth from this report's account of why generation substitutes diagnostic retrieval cues for non-diagnostic fluency cues.
 >
 > - **[[situation-models-in-text-comprehension|Situation Models in Text Comprehension]]** — The situation model is the cognitive product of successful comprehension monitoring: failing to construct a situation model is precisely the kind of comprehension failure that an adequate monitoring system should detect. The two nodes are architecturally linked.
 >

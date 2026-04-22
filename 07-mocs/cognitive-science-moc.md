@@ -42,9 +42,9 @@ link-up:
   - "[[educational-psychology-moc]]"
   - "[[pkb-&-pkm-moc]]"
 link-related:
-  - "[[cognitive-architecture]]"
+  - "[[Cognitive Architecture]]"
   - "[[working-memory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[executive-function]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning]]"
   - "[[dual-process-theory]]"
@@ -147,7 +147,7 @@ dv.paragraph(`**Total Cognitive Science Notes**: ${total}`);
 
 ### Core Concepts
 - [[cognitive-science]] - Master overview of the field
-- [[cognitive-architecture]] - Structural frameworks of mind
+- [[Cognitive Architecture]] - Structural frameworks of mind
 - [[cognitive-psychology]] - Experimental study of mental processes
 - [[distributed-cognition]] - Cognition as system-level phenomenon
 - [[Extended Mind]] - Mind beyond brain boundaries
@@ -179,10 +179,10 @@ LIMIT 10
 ### Primary Memory Systems
 - [[working-memory]] - Active information maintenance
   - [[long-term-working-memory]] - Expertise-driven capacity
-  - [[cognitive-load-theory]] - Capacity limitations and optimization
+  - [[Cognitive Load Theory (CLT)]] - Capacity limitations and optimization
     - [[Intrinsic-Load]] - Task complexity
     - [[extraneous-load]] - Design-imposed burden
-    - [[germane-load]] - Schema construction effort
+    - [[Cognitive Load Theory (CLT)]] - Schema construction effort
 
 ### Long-Term Storage
 - [[long-term-memory]] - Permanent knowledge storage
@@ -272,7 +272,7 @@ LIMIT 4
 - [[motivation-science]] - Drive and goal pursuit
   - [[motivational-psychology]] - Applied motivation research
   - [[self-determination-theory]] - Intrinsic motivation framework
-    - [[intrinsic-motivation]] - Internal drive
+    - [[Intrinsic Motivation]] - Internal drive
     - [[competence]] - Mastery perception
     - [[relatedness]] - Social connection need
   - [[Cognitive Theory]] - Mental representations of goals
@@ -431,7 +431,7 @@ if (bridges.length > 0) {
 - [[executive-function]] ↔ [[Neural-Networks]] (prefrontal systems)
 
 **Cognitive Science ↔ Education**
-- [[cognitive-load-theory]] ↔ [[instructional-design]] (design implications)
+- [[Cognitive Load Theory (CLT)]] ↔ [[instructional-design]] (design implications)
 - [[spaced-repetition]] ↔ [[Curve Of Forgetting]] (optimal scheduling)
 - [[self-regulated-learning]] ↔ [[deliberate-practice]] (skill mastery)
 

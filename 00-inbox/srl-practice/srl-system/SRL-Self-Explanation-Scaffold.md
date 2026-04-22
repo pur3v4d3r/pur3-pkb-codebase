@@ -22,7 +22,7 @@ aliases:
 # 🔬 Self-Explanation Scaffold
 
 > [!abstract] Purpose
-> This scaffold guides the [[elaborative-interrogation|self-explanation]] process for passages requiring the deepest processing — dense theoretical arguments, multi-step mechanisms, complex distinctions. Use it during the [[performance-phase]] when your Forethought process goals specify self-explanation at section boundaries. Based on [[Chi-et-al.|Chi et al.'s (1994)]] self-explanation research: self-explanation forces integration of new information with [[prior-knowledge|prior knowledge]], which is the mechanism that produces genuine understanding rather than surface familiarity. See [[the-fluency-illusion]].
+> This scaffold guides the [[Elaborative Interrogation|self-explanation]] process for passages requiring the deepest processing — dense theoretical arguments, multi-step mechanisms, complex distinctions. Use it during the [[performance-phase]] when your Forethought process goals specify self-explanation at section boundaries. Based on [[Chi-et-al.|Chi et al.'s (1994)]] self-explanation research: self-explanation forces integration of new information with [[prior-knowledge|prior knowledge]], which is the mechanism that produces genuine understanding rather than surface familiarity. See [[the-fluency-illusion]].
 
 > [!tip] When to Use
 > - Dense theoretical sections where you notice comprehension slipping
@@ -149,7 +149,7 @@ aliases:
 ---
 
 > [!connections-and-links]
-> - [[elaborative-interrogation]] — The self-explanation process this scaffold implements
+> - [[Elaborative Interrogation]] — The self-explanation process this scaffold implements
 > - [[Chi-et-al.]] — The foundational research demonstrating the self-explanation effect
 > - [[the-fluency-illusion]] — Why passive re-reading feels productive but isn't
 > - [[the-generativity-diagnostic]] — The compression test operationalizes generativity

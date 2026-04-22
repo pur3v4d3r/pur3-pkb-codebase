@@ -51,7 +51,7 @@ review-priority: medium
 ---
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
-> - **Title**: [[cognitive-architecture]]
+> - **Title**: [[Cognitive Architecture]]
 > - **MOC**: `=this.link-up`
 
 ```dataviewjs

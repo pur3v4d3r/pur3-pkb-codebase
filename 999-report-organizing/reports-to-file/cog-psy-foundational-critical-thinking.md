@@ -46,7 +46,7 @@ related_concepts:
   - "[[metacognition]]"
   - "[[executive-function|Executive Function]]"
   - "[[working-memory|Working Memory]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[paul-elder-framework|Paul-Elder Framework]]"
   - "[[Bloom's-Taxonomy|Bloom's Taxonomy]]"
   - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
@@ -293,7 +293,7 @@ Evaluating this requires simultaneously:
 - Generating counterarguments
 - Maintaining metacognitive awareness of reasoning quality
 
-[[cognitive-load-theory|Cognitive Load Theory]] (Sweller) explains how this WM limitation impacts learning and reasoning. Three load types affect CT:
+[[Cognitive Load Theory (CLT)|Cognitive Load Theory]] (Sweller) explains how this WM limitation impacts learning and reasoning. Three load types affect CT:
 
 [**Cognitive-Load-Types**:: (1) **Intrinsic load** - inherent complexity of material (high for multi-step arguments); (2) **Extraneous load** - imposed by poor presentation (poorly structured arguments increase load unnecessarily); (3) **Germane load** - productive effort building understanding (analyzing logical structure). Effective CT requires minimizing extraneous load and allocating WM resources to germane processing.]**
 

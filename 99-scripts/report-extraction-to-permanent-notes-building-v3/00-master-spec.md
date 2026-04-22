@@ -267,9 +267,9 @@ provenance:
     - sdt-across-cultures-foundational-report-2026-04-15
   extraction-method: pkb-extractor-v1 → pipeline-v3
 relationships:
-  related: ["[[intrinsic-motivation]]", "[[autonomy-support]]", "[[competence-need]]"]
+  related: ["[[Intrinsic Motivation]]", "[[autonomy-support]]", "[[competence-need]]"]
   see-also: ["[[self-efficacy-theory]]", "[[goal-setting-theory]]"]
-  builds-on: ["[[cognitive-evaluation-theory]]"]
+  builds-on: ["[[cognitive-evaluation-theory-cet]]"]
   enables: ["[[autonomy-supportive-teaching]]"]
 ---
 ```

@@ -65,7 +65,7 @@ related_concepts:
   - "[[Cognitive-Control|Cognitive Control]]"
   - "[[procedural-memory|Procedural Memory]]"
   - "[[instance-theory|Instance Theory]]"
-  - "[[power-law-of-practice|Power Law of Practice]]"
+  - "[[Power Law of Practice|Power Law of Practice]]"
   - "[[dual-process-theory|Dual-Process Theory]]"
   - "[[neural-plasticity|Neural Plasticity]]"
 

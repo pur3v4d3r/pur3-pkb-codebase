@@ -182,7 +182,7 @@ extraction_summary:
 #### 7. [DEFINITION] Elaborative Retrieval (Cognitive Psychology / Instructional Design — Anderson & Reder, 1979; Weinstein & Mayer, 1986) *(Line 206)*
 
 > [!definition] Elaborative Retrieval (Cognitive Psychology / Instructional Design — Anderson & Reder, 1979; Weinstein & Mayer, 1986)
-> A retrieval strategy in which the learner, rather than simply attempting to recall a stored representation verbatim, actively generates *connections* between the retrieved material and other knowledge — asking "why is this true?", "what does this connect to?", "what are the implications of this?", and "how does this relate to what I know about X?" Elaborative retrieval combines the pathway-strengthening benefit of active retrieval with the network-expansion benefit of elaborative encoding: it does not merely traverse existing associative pathways but creates *new* ones, expanding the network's capacity to retrieve the same knowledge through multiple routes. The [[elaborative-interrogation|Elaborative Interrogation]] technique (Pressley et al., 1992) is the instructional design implementation of this principle.
+> A retrieval strategy in which the learner, rather than simply attempting to recall a stored representation verbatim, actively generates *connections* between the retrieved material and other knowledge — asking "why is this true?", "what does this connect to?", "what are the implications of this?", and "how does this relate to what I know about X?" Elaborative retrieval combines the pathway-strengthening benefit of active retrieval with the network-expansion benefit of elaborative encoding: it does not merely traverse existing associative pathways but creates *new* ones, expanding the network's capacity to retrieve the same knowledge through multiple routes. The [[Elaborative Interrogation|Elaborative Interrogation]] technique (Pressley et al., 1992) is the instructional design implementation of this principle.
 
 #### 8. [DEFINITION] Desirable Difficulties (Educational Psychology — Bjork, 1994; Bjork & Bjork, 2011) *(Line 209)*
 
@@ -445,11 +445,11 @@ extraction_summary:
 > 
 > - **[[testing-effect-retrieval-practice-effect|Testing Effect]]** — The core empirical finding anchoring the retrieval practice recommendations. Notes on Roediger & Karpicke (2006), Dunlosky et al. (2013), and Pan & Rickard (2018) all feed directly into the RENS framework and should link here.
 > 
-> - **[[desirable-difficulties|Desirable Difficulties]]** — The broader theoretical framework under which the Testing Effect and Spacing Effect are unified. The connection runs both ways: this report provides specific design implementations of the desirable difficulties principle; Report 16 provides the broader motivational and philosophical grounding.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]** — The broader theoretical framework under which the Testing Effect and Spacing Effect are unified. The connection runs both ways: this report provides specific design implementations of the desirable difficulties principle; Report 16 provides the broader motivational and philosophical grounding.
 > 
 > - **[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]** — The central failure mode that retrieval-first PKB design addresses. Notes on metacognitive overconfidence, ease-of-processing, and rereading illusions all connect to the calibration design principles developed here.
 > 
-> - **[[elaborative-interrogation|Elaborative Interrogation]]** — The instructional design technique that operationalizes elaborative retrieval. The retrieval prompt templates in Phase V are direct implementations; any notes on Pressley et al. (1992) or the "why-generation" technique belong in this neighborhood.
+> - **[[Elaborative Interrogation|Elaborative Interrogation]]** — The instructional design technique that operationalizes elaborative retrieval. The retrieval prompt templates in Phase V are direct implementations; any notes on Pressley et al. (1992) or the "why-generation" technique belong in this neighborhood.
 > 
 > - **[[Memory-Reconsolidation|Memory Reconsolidation]]** — The neurobiological mechanism supporting the "retrieval as generative construction" insight. The link between Nader et al. (2000) and PKB review-time link creation is a novel connection that would reward further development.
 > 
@@ -634,9 +634,9 @@ extraction_summary:
 - [[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[educational-psychology|Educational Psychology]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Elaborative-Retrieval|Elaborative Retrieval]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
@@ -684,7 +684,7 @@ extraction_summary:
 | 15 | [[wiki-links]] | — | — | The Architecture of Memory: What the ... | 188 |
 | 16 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | The Testing Effect: Retrieval as Cons... | 194 |
 | 17 | [[spaced-repetition-spacing-effect|Spaced Repetition]] | — | — | The Testing Effect: Retrieval as Cons... | 204 |
-| 18 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | The Testing Effect: Retrieval as Cons... | 207 |
+| 18 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | The Testing Effect: Retrieval as Cons... | 207 |
 | 19 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Metacognitive Monitoring: The Problem... | 217 |
 | 20 | [[Roediger and Karpicke (2006)]] | — | — | The Testing Effect: How Robust Is It? | 239 |
 | 21 | [[retrieval-induced-forgetting|Retrieval-Induced Forgetting]] | — | — | Retrieval-Induced Forgetting: A Criti... | 269 |
@@ -696,9 +696,9 @@ extraction_summary:
 | 27 | [[self-determination-theory|Self-Determination Theory]] | — | — | The Metacognitive Control Loop: Calib... | 341 |
 | 28 | [[Network Models of Memory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 530 |
 | 29 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 532 |
-| 30 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
+| 30 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
 | 31 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Phase VII: PKB Connections & Cross-Re... | 536 |
-| 32 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 538 |
+| 32 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 538 |
 | 33 | [[Memory-Reconsolidation|Memory Reconsolidation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 540 |
 | 34 | [[retrieval-induced-forgetting|Retrieval-Induced Forgetting]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
 | 35 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
@@ -726,9 +726,9 @@ extraction_summary:
 - [[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[David-Rumelhart|David Rumelhart]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[educational-psychology|Educational Psychology]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Elaborative-Retrieval|Elaborative Retrieval]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
@@ -766,13 +766,13 @@ extraction_summary:
 - [[spreading-activation|Spreading Activation]]
 - [[encoding-specificity|Encoding Specificity]]
 - [[transfer-appropriate-processing|Transfer-Appropriate Processing]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[generation-effect|Generation Effect]]
 - [[retrieval-induced-forgetting|Retrieval-Induced Forgetting]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[spaced-practice]]
-- [[interleaving]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[Active-Recall]]
 - [[personal-knowledge-base|Personal Knowledge Base]]
 - [[personal-knowledge-management|Personal Knowledge Management]]

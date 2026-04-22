@@ -31,7 +31,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ### 1.1 Knowledge Representation
 
-**[[schema-theory]]** — Bartlett (1932), Rumelhart (1980), Anderson (1977)
+**[[schema-theory-and-knowledge-organization]]** — Bartlett (1932), Rumelhart (1980), Anderson (1977)
 Primary Reports: [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13|R01]], [[03-constructing-understanding-pkm-framework-2026-03-13|R03]], [[09-designing-the-learning-pkb-pkm-framework-2026-03-14|R09]]
 Evidence Status: Established | Key Concept: Knowledge organized in structured mental templates that filter, organize, and reconstruct information. Hierarchically nested, contextually activated, resistant to disconfirming evidence.
 
@@ -45,11 +45,11 @@ Evidence Status: Established | Key Concept: Categories organized around "best ex
 
 ### 1.2 Working Memory & Cognitive Load
 
-**[[cognitive-load-theory]]** — Sweller (1988), Kalyuga (2011)
+**[[Cognitive Load Theory (CLT)]]** — Sweller (1988), Kalyuga (2011)
 Primary Reports: [[02-architecture-of-learning-pkm-framework-2026-03-13|R02]], [[10-scaffolding-and-fading-pkm-framework-2026-03-14|R10]]
-Evidence Status: Established (meta-analytic) | Three load types: [[Intrinsic-Load]] (inherent complexity), [[extraneous-load]] (poor design), [[germane-load]] (schema construction effort). Working memory limited to ~4 chunks.
+Evidence Status: Established (meta-analytic) | Three load types: [[Intrinsic-Load]] (inherent complexity), [[extraneous-load]] (poor design), [[Cognitive Load Theory (CLT)]] (schema construction effort). Working memory limited to ~4 chunks.
 
-Key effects: [[split-attention-effect]], [[redundancy-effect]], [[expertise-reversal-effect]] (beneficial scaffolding for novices becomes counterproductive for experts)
+Key effects: [[split-attention-effect]], [[redundancy-effect]], [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] (beneficial scaffolding for novices becomes counterproductive for experts)
 
 ### 1.3 Memory & Retrieval
 
@@ -57,15 +57,15 @@ Key effects: [[split-attention-effect]], [[redundancy-effect]], [[expertise-reve
 Primary Reports: [[06-science-of-remembering-pkm-framework-2026-03-13|R06]], [[16-desirable-difficulties-by-design-pkm-framework-2026-03-14|R16]], [[20-retrieval-enhanced-knowledge-networks-pkm-framework-2026-03-15|R20]]
 Evidence Status: Established (d = 0.50, 159 experiments) | Retrieving information strengthens memory more than restudying. Rated "high utility" by Dunlosky et al. (2013).
 
-**[[spacing-effect]]** — Cepeda et al. (2006), Dunlosky et al. (2013)
+**[[Desirable Difficulties (Robert Bjork, 1994)]]** — Cepeda et al. (2006), Dunlosky et al. (2013)
 Primary Reports: [[06-science-of-remembering-pkm-framework-2026-03-13|R06]], [[16-desirable-difficulties-by-design-pkm-framework-2026-03-14|R16]]
 Evidence Status: Established (high utility) | Distributed practice > massed practice for long-term retention.
 
-**[[desirable-difficulties]]** — Bjork (1994)
+**[[Desirable Difficulties (Robert Bjork, 1994)]]** — Bjork (1994)
 Primary Reports: [[16-desirable-difficulties-by-design-pkm-framework-2026-03-14|R16]], [[20-retrieval-enhanced-knowledge-networks-pkm-framework-2026-03-15|R20]]
 Evidence Status: Established | Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: testing, spacing, interleaving, generation.
 
-**[[fluency-illusion]]** — Koriat & Bjork, Dunlosky
+**[[Fluency Illusion]]** — Koriat & Bjork, Dunlosky
 Primary Reports: [[18-calibration-epistemic-humility-pkm-framework-2026-03-15|R18]], [[30-future-pkm-ai-enhanced-knowledge-building-pkm-framework-2026-03-15|R30]]
 Evidence Status: Established | Metacognitive error where ease of processing is mistaken for genuine understanding. Identified as the universal PKM failure mode, amplified by AI-generated content.
 
@@ -175,7 +175,7 @@ Evidence Status: Established (philosophical) | Emotional regulation through dist
 
 ### 4.4 Epistemology
 
-**[[extended-mind-theory]]** — Clark & Chalmers (1998)
+**[[Extended Mind Thesis (Clark & Chalmers, 1998)]]** — Clark & Chalmers (1998)
 Primary Reports: [[28-philosophy-of-personal-knowledge-pkm-framework-2026-03-15|R28]], [[30-future-pkm-ai-enhanced-knowledge-building-pkm-framework-2026-03-15|R30]]
 Evidence Status: Established (philosophical) | Cognitive processes extend beyond the brain when external structures meet coupling conditions. Grounds the PKB as literal cognitive extension, not metaphorical.
 
@@ -207,8 +207,8 @@ The framework's highest-confidence findings emerge where independent traditions 
 
 ## Hub Concepts (≥5 cross-report connections)
 
-1. **[[desirable-difficulties]]** — Connects to: Testing Effect, Spacing, Generation, Interleaving, Fluency Illusion, Active Construction, Constructivism, Cognitive Partnership, Stoic Discipline, Note-Making
-2. **[[fluency-illusion]]** — Connects to: Calibration, Dunning-Kruger, Epistemic Counterfeiting, Desirable Difficulties, Metacognitive Monitoring, Retrieval Practice, AI Integration
+1. **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Connects to: Testing Effect, Spacing, Generation, Interleaving, Fluency Illusion, Active Construction, Constructivism, Cognitive Partnership, Stoic Discipline, Note-Making
+2. **[[Fluency Illusion]]** — Connects to: Calibration, Dunning-Kruger, Epistemic Counterfeiting, Desirable Difficulties, Metacognitive Monitoring, Retrieval Practice, AI Integration
 3. **[[self-regulated-learning]]** — Connects to: Metacognitive Monitoring, Calibration, Regulatory Embedding, Feedback Loops, Reflective Practice
 4. **[[constructivism]]** — Connects to: Accommodation, Conceptual Change, ZPD, Active Construction, Desirable Difficulties, Note-Making
 

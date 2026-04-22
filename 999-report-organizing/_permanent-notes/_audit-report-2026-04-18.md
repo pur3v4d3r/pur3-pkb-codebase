@@ -130,22 +130,22 @@ They have outgoing links but nothing links back to them.
 
 | Note | Incoming | Outgoing |
 |---|---|---|
-| [[cognitive-load-theory]] | 816 | 163 |
+| [[Cognitive Load Theory (CLT)]] | 816 | 163 |
 | [[self-regulated-learning]] | 764 | 227 |
 | [[metacognition]] | 683 | 334 |
 | [[working-memory]] | 637 | 226 |
-| [[schema-theory]] | 601 | 5 |
+| [[schema-theory-and-knowledge-organization]] | 601 | 5 |
 | [[self-determination-theory]] | 508 | 184 |
 | [[metacognitive-monitoring]] | 436 | 201 |
 | [[transfer-of-learning]] | 434 | 127 |
-| [[desirable-difficulties]] | 420 | 280 |
-| [[intrinsic-motivation]] | 383 | 180 |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | 420 | 280 |
+| [[Intrinsic Motivation]] | 383 | 180 |
 | [[growth-mindset]] | 381 | 97 |
 | [[long-term-memory]] | 379 | 121 |
-| [[fluency-illusion]] | 375 | 201 |
+| [[Fluency Illusion]] | 375 | 201 |
 | [[dual-process-theory]] | 355 | 98 |
 | [[achievement-goal-theory]] | 346 | 57 |
-| [[attribution-theory]] | 340 | 115 |
+| [[Attribution (Heider, 1958)]] | 340 | 115 |
 | [[deliberate-practice]] | 311 | 93 |
 | [[autonomy-support]] | 309 | 231 |
 | [[_Master-PKB-Connections-Index]] | 293 | 1275 |

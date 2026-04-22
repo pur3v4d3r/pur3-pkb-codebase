@@ -78,7 +78,7 @@ Humanistic learning unfolds through a recursive process of engagement with perso
 
 **Phase 1: Existential Encounter** — The learner confronts a situation that creates genuine cognitive dissonance or emotional resonance. This cannot be artificially manufactured; it emerges from the learner's authentic life circumstances and questions.
 
-**Phase 2: Self-Directed Inquiry** — Rather than receiving pre-packaged answers, the learner autonomously determines what questions to pursue and which resources to engage. This phase activates [[intrinsic-motivation]] through the [[self-determination-theory]] mechanisms of autonomy, competence, and relatedness.
+**Phase 2: Self-Directed Inquiry** — Rather than receiving pre-packaged answers, the learner autonomously determines what questions to pursue and which resources to engage. This phase activates [[Intrinsic Motivation]] through the [[self-determination-theory]] mechanisms of autonomy, competence, and relatedness.
 
 **Phase 3: Experiential Integration** — The learner doesn't merely acquire information but reorganizes their self-concept and worldview. This involves what Rogers called "[[Significant Learning]]"—knowledge that alters perception, behavior, and identity.
 
@@ -140,7 +140,7 @@ Humanistic Learning Theory occupies a specific position in the constellation of 
 
 **[[Behaviorist Learning Theory]]** (Skinner, Thorndike, Watson) conceptualizes learning as behavioral change resulting from environmental conditioning through reinforcement schedules. Humanistic theory explicitly rejects this mechanistic model, arguing that:
 
-- External rewards undermine [[intrinsic-motivation]] (see [[overjustification-effect]])
+- External rewards undermine [[Intrinsic Motivation]] (see [[overjustification-effect]])
 - Humans are not stimulus-response machines but meaning-making agents
 - Learning divorced from personal relevance produces only shallow, non-transferable knowledge
 - The [[Black Box]] approach ignoring internal states misses the essence of human cognition
@@ -225,7 +225,7 @@ This cycle embodies the humanistic emphasis on learning through personally meani
 
 **Efficiency Concerns**: Self-directed, exploratory learning may be less efficient than structured instruction for acquiring specific skill sets within time constraints. A purely humanistic approach might not serve someone needing to pass a certification exam or acquire job-specific competencies quickly.
 
-**Insufficient Cognitive Specificity**: While emphasizing that cognition and affect intertwine, humanistic theory provides less detailed models of actual cognitive mechanisms compared to [[cognitive-load-theory]], [[dual-coding-theory]], or [[retrieval-practice]] research. It describes what learning should feel like more than how memory consolidation and skill acquisition actually work at a mechanistic level.
+**Insufficient Cognitive Specificity**: While emphasizing that cognition and affect intertwine, humanistic theory provides less detailed models of actual cognitive mechanisms compared to [[Cognitive Load Theory (CLT)]], [[dual-coding-theory]], or [[Desirable Difficulties (Robert Bjork, 1994)]] research. It describes what learning should feel like more than how memory consolidation and skill acquisition actually work at a mechanistic level.
 
 Despite these limitations, humanistic principles remain invaluable for understanding learning as a holistic, personally meaningful process—particularly for lifelong learners designing self-directed development programs.
 
@@ -302,7 +302,7 @@ Based on your context (building a cognitive self-development project emphasizing
    - **Depth Potential**: Classical conditioning, operant conditioning, reinforcement schedules, limitations
    - **PKB Integration**: Helps identify when behaviorist techniques might actually be useful despite philosophical differences
 
-10. **[[cognitive-load-theory]] (Sweller)**
+10. **[[Cognitive Load Theory (CLT)]] (Sweller)**
     - **Connection**: Provides cognitive constraints that humanistic theory sometimes overlooks
     - **Depth Potential**: Working memory limits, intrinsic vs. extraneous load, expertise reversal effect
     - **PKB Integration**: Informs when structured guidance might be more effective than pure exploration
@@ -356,7 +356,7 @@ Based on your context (building a cognitive self-development project emphasizing
 - These situate humanistic learning in broader epistemological frameworks
 
 **Phase 3: Comparative Analysis** (Weeks 7-9)
-- Study [[Behaviorist Learning Theory]] and [[cognitive-load-theory]]
+- Study [[Behaviorist Learning Theory]] and [[Cognitive Load Theory (CLT)]]
 - Understanding competing frameworks clarifies humanistic theory's unique contributions and limitations
 
 **Phase 4: Practical Integration** (Weeks 10-12)

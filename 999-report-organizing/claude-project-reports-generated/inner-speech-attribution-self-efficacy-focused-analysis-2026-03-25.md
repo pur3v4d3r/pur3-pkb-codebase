@@ -19,7 +19,7 @@ secondary_domains:
   - metacognition
   - self-efficacy
 related_concepts:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy]]"
   - "[[self-determined-self-regulation]]"
   - "[[achievement-goal-theory]]"
@@ -106,7 +106,7 @@ transfer-principles:
 # KNOWLEDGE GRAPH INTEGRATION
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy]]"
   - "[[self-determination-theory]]"
   - "[[self-regulated-learning]]"
@@ -189,7 +189,7 @@ This report examines a specific and underexplored question: **How does the vocab
 
 The analytical scope is deliberately narrow. This report is not a survey of inner speech research, a review of reading comprehension strategies, or a general treatment of motivation in education. Each of those topics has its own foundational treatment in this knowledge base. Here, the focus is the precise intersection where vocabulary, motivation, and self-regulated academic reading meet — and the claim that this intersection constitutes a trainable cognitive-motivational architecture that most learners are leaving completely undeveloped.
 
-The report draws primarily on [[attribution-theory]] (especially [[bernard-weiner]]'s dimensional model), [[self-efficacy-theory]] (Bandura's sources framework), [[self-determination-theory]]'s regulatory language continuum, and [[achievement-goal-theory]]. These are not arbitrarily assembled — they are precisely the theoretical frameworks whose empirical predictions most directly implicate linguistic and vocabulary mechanisms. Each predicts that *the specific language used to interpret learning experiences* has measurable downstream effects on motivation, persistence, goal quality, and ultimately comprehension and critical thinking.
+The report draws primarily on [[Attribution (Heider, 1958)]] (especially [[bernard-weiner]]'s dimensional model), [[self-efficacy-theory]] (Bandura's sources framework), [[self-determination-theory]]'s regulatory language continuum, and [[achievement-goal-theory]]. These are not arbitrarily assembled — they are precisely the theoretical frameworks whose empirical predictions most directly implicate linguistic and vocabulary mechanisms. Each predicts that *the specific language used to interpret learning experiences* has measurable downstream effects on motivation, persistence, goal quality, and ultimately comprehension and critical thinking.
 
 The analysis proceeds through seven analytical phases. Phases II and III establish the conceptual and evidentiary foundations. Phase IV — the analytical core — dissects the specific mechanisms through which vocabulary shapes motivational and cognitive outcomes. Phase V translates the analysis into practical tools you can begin using immediately. Phase VI synthesizes an original model: the **Motivational Lexicon** — the structured vocabulary repertoire that constitutes the hidden infrastructure of advanced self-regulated reading. Phase VII extracts transferable structural principles. The report closes with PKB connections (Phase VIII) and a full appendix.
 
@@ -214,11 +214,11 @@ Several distinctions sharpen the analytical focus. *Motivational* inner speech i
 
 Three bodies of theory, each with strong empirical grounding, converge on the claim that motivational vocabulary matters. Together they constitute the analytical framework.
 
-**Pillar 1: Attribution Theory and the Dimensional Vocabulary of Cause.** [[bernard-weiner]]'s [[attribution-theory]] (1985, 2010) argues that the causal explanations learners construct for their successes and failures are not simple emotional reactions but structured dimensional inferences that carry specific motivational consequences. Weiner identified three critical dimensions along which causal attributions vary: *locus* (internal vs. external to the learner), *stability* (stable vs. unstable over time), and *controllability* (controllable vs. uncontrollable). Critically for this analysis, every attribution is encoded in language, and the vocabulary used to articulate a cause tends to pre-load a specific dimensional configuration. The word "ability" encodes internal, stable, and uncontrollable. The word "strategy" encodes internal, unstable, and controllable. The word "luck" encodes external, unstable, and uncontrollable. These are not arbitrary conventions — they are semantic commitments with downstream motivational force.
+**Pillar 1: Attribution Theory and the Dimensional Vocabulary of Cause.** [[bernard-weiner]]'s [[Attribution (Heider, 1958)]] (1985, 2010) argues that the causal explanations learners construct for their successes and failures are not simple emotional reactions but structured dimensional inferences that carry specific motivational consequences. Weiner identified three critical dimensions along which causal attributions vary: *locus* (internal vs. external to the learner), *stability* (stable vs. unstable over time), and *controllability* (controllable vs. uncontrollable). Critically for this analysis, every attribution is encoded in language, and the vocabulary used to articulate a cause tends to pre-load a specific dimensional configuration. The word "ability" encodes internal, stable, and uncontrollable. The word "strategy" encodes internal, unstable, and controllable. The word "luck" encodes external, unstable, and uncontrollable. These are not arbitrary conventions — they are semantic commitments with downstream motivational force.
 
 **Pillar 2: Self-Efficacy Theory and the Verbal Persuasion Source.** [[albert-bandura]]'s [[self-efficacy-theory]] (1977, 1997) identifies four sources through which self-efficacy beliefs are constructed and revised: mastery experiences, vicarious learning, physiological/affective states, and *verbal persuasion*. Most discussions of verbal persuasion focus on encouragement from others. But inner speech is, in the most direct sense, verbal persuasion from the self. The evaluative commentary that accompanies reading — "I've been working at this correctly and making progress" versus "I'm just not a natural at this kind of material" — functions as real-time self-efficacy updating through the verbal persuasion mechanism. [[self-efficacy]] is not just a belief stored somewhere that occasionally surfaces; it is continuously constructed and revised through precisely this kind of running self-commentary.
 
-**Pillar 3: SDT Regulatory Language and the Vocabulary of Autonomy.** [[self-determination-theory]]'s [[internalization-continuum]] describes a regulatory spectrum from external regulation through [[introjected-regulation]], [[identified-regulation]], to [[integrated-regulation]]. Each regulatory style has a characteristic vocabulary. Introjected regulation speaks in "should," "must," "ought to," and "have to." Identified and integrated regulation speaks in "I want to," "I'm choosing to," "this matters to me," and "I find this interesting." Research by Deci, Ryan, and colleagues establishes that *the regulatory vocabulary used in self-talk is not merely descriptive of an underlying motivational state — it is partially constitutive of that state*. Reading because you "have to" and reading because you "choose to" are not simply subjectively different; they produce measurable differences in depth of processing, persistence, and transfer.
+**Pillar 3: SDT Regulatory Language and the Vocabulary of Autonomy.** [[self-determination-theory]]'s [[internalization]] describes a regulatory spectrum from external regulation through [[introjected-regulation]], [[identified-regulation]], to [[Integrated Regulation]]. Each regulatory style has a characteristic vocabulary. Introjected regulation speaks in "should," "must," "ought to," and "have to." Identified and integrated regulation speaks in "I want to," "I'm choosing to," "this matters to me," and "I find this interesting." Research by Deci, Ryan, and colleagues establishes that *the regulatory vocabulary used in self-talk is not merely descriptive of an underlying motivational state — it is partially constitutive of that state*. Reading because you "have to" and reading because you "choose to" are not simply subjectively different; they produce measurable differences in depth of processing, persistence, and transfer.
 
 **The Achievement Goal Theory Extension.** [[achievement-goal-theory]] adds a fourth dimension: the vocabulary of *goal orientation*. Mastery-oriented goal language ("Did I understand this better than before?") and performance-oriented goal language ("Did I look competent relative to what I expect of myself?") prime different monitoring processes, different error-interpretation patterns, and different responses to challenge. In the context of academic reading, goal vocabulary in the [[forethought-phase]] predicts the quality of monitoring and the quality of the [[self-reflection-phase]] attributions that follow.
 
@@ -299,7 +299,7 @@ The extension to inner speech is not a large theoretical leap: if the same words
 ## Phase IV: Mechanisms, Dynamics & Deep Analysis
 
 > [!important] **Complexity Transition**
-> This phase moves from evidence summary to mechanism analysis — a significant step up in abstraction. It requires solid fluency with the Weiner dimensional model (locus/stability/controllability), Bandura's four sources of self-efficacy, and Zimmerman's three-phase SRL cycle (Forethought → Performance → Self-Reflection). If any of those feel uncertain, reviewing Phase II and the foundational reports on [[attribution-theory]], [[self-efficacy]], and [[Zimmerman's-Cyclical-SRL-Model]] will pay dividends before proceeding.
+> This phase moves from evidence summary to mechanism analysis — a significant step up in abstraction. It requires solid fluency with the Weiner dimensional model (locus/stability/controllability), Bandura's four sources of self-efficacy, and Zimmerman's three-phase SRL cycle (Forethought → Performance → Self-Reflection). If any of those feel uncertain, reviewing Phase II and the foundational reports on [[Attribution (Heider, 1958)]], [[self-efficacy]], and [[Zimmerman's-Cyclical-SRL-Model]] will pay dividends before proceeding.
 
 ### Mechanism 1: The Attributional Vocabulary Loop
 
@@ -458,7 +458,7 @@ How does the vocabulary deployed in inner speech during silent academic reading 
 The answer this analysis has built: through four interlocking mechanisms that form a coherent architecture — the Attributional Vocabulary Loop, the Self-Efficacy Calibration Mechanism, the Goal Construction Cascade, and the Cross-Phase Vocabulary Cascade. These mechanisms operate simultaneously and interact: goal vocabulary in forethought shapes monitoring sensitivity in performance, which shapes the quality of outcome experiences available for attribution in reflection, which shapes the attributional vocabulary that seeds the next forethought cycle. The vocabulary deployed at any point in this system reverberates through the entire cycle and across multiple sessions. This is why vocabulary development is not a single intervention but a sustained practice — it is building an architecture, not installing a feature.
 
 > [!analytical-insight] **The Learning-Through-Report-Reading Loop**
-> There is a specific and underappreciated way that the reports in this knowledge base function as Motivational Lexicon development tools. When you read a report on [[attribution-theory]] that gives you precise vocabulary for the three dimensions — locus, stability, controllability — and the vocabulary to distinguish "effort" attributions from "strategy" attributions from "ability" attributions, you are not only acquiring declarative knowledge of attribution theory. You are acquiring new vocabulary items for your Motivational Lexicon. The next time you finish a difficult reading session, "I didn't have the right strategy for that kind of argument" is now available where previously only "I didn't understand it" was. The reports are building the very inner speech vocabulary that enables better engagement with subsequent reports. This creates a genuine positive feedback loop between PKB development and SRL capability — one that compounds with each new conceptual node added to the knowledge base.
+> There is a specific and underappreciated way that the reports in this knowledge base function as Motivational Lexicon development tools. When you read a report on [[Attribution (Heider, 1958)]] that gives you precise vocabulary for the three dimensions — locus, stability, controllability — and the vocabulary to distinguish "effort" attributions from "strategy" attributions from "ability" attributions, you are not only acquiring declarative knowledge of attribution theory. You are acquiring new vocabulary items for your Motivational Lexicon. The next time you finish a difficult reading session, "I didn't have the right strategy for that kind of argument" is now available where previously only "I didn't understand it" was. The reports are building the very inner speech vocabulary that enables better engagement with subsequent reports. This creates a genuine positive feedback loop between PKB development and SRL capability — one that compounds with each new conceptual node added to the knowledge base.
 
 ### Unresolved Questions
 
@@ -492,7 +492,7 @@ The analysis revealed a concrete finding: in academic reading, ability vocabular
 The SDT finding that controlled versus autonomous regulatory vocabulary produces different motivational states is, at an abstract level, an instance of a general principle: **the vocabulary in which you frame your relationship to an activity partially instantiates your motivational relationship to that activity**. This principle operates wherever agents describe their reasons for engaging in activities, particularly activities that involve sustained effort.
 
 > [!cross-domain-connection] **Academic Reading → Deliberate Practice and Habit Formation**
-> The [[implementation-intention]] literature (Gollwitzer) and the habit formation literature ([[habit-formation]]) both find that the specific linguistic framing of behavior commitments predicts follow-through. "If I am in situation X, I will do Y" dramatically outperforms "I will try to do Y." The structural analogy to SDT regulatory language: implementation intentions work partly by converting vague autonomous motivation into a specific linguistic structure that does not require motivational retrieval at the moment of action. The two bodies of research converge on the same structural insight: specific, autonomous, first-person regulatory language creates behavioral commitment structures that vaguer or more controlled language cannot.
+> The [[goal-intention]] literature (Gollwitzer) and the habit formation literature ([[habit-formation]]) both find that the specific linguistic framing of behavior commitments predicts follow-through. "If I am in situation X, I will do Y" dramatically outperforms "I will try to do Y." The structural analogy to SDT regulatory language: implementation intentions work partly by converting vague autonomous motivation into a specific linguistic structure that does not require motivational retrieval at the moment of action. The two bodies of research converge on the same structural insight: specific, autonomous, first-person regulatory language creates behavioral commitment structures that vaguer or more controlled language cannot.
 
 **Application Bridge**: In your SRL practice, whenever you are constructing goals or commitments for reading sessions, the vocabulary template should be: "When [specific trigger: I open this text / I begin this report], I will [specific action: read to the end of the first argument and pause to identify its structure] because [genuine personal reason]." This is the implementation intention format + autonomous regulatory language — a structural combination that integrates both bodies of evidence.
 
@@ -517,13 +517,13 @@ The analysis found that having technical vocabulary for attribution dimensions, 
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[attribution-theory]]** — This report's core argument about the dimensional vocabulary of cause is grounded in Weiner's model. The connection is not merely topical: the specific claim that vocabulary pre-loads dimensional commitments is derived from the locus-stability-controllability architecture. The two nodes are deeply bidirectional: this report extends Attribution Theory into the domain of inner speech vocabulary, while Attribution Theory provides the structural framework for the vocabulary tools.
+> - **[[Attribution (Heider, 1958)]]** — This report's core argument about the dimensional vocabulary of cause is grounded in Weiner's model. The connection is not merely topical: the specific claim that vocabulary pre-loads dimensional commitments is derived from the locus-stability-controllability architecture. The two nodes are deeply bidirectional: this report extends Attribution Theory into the domain of inner speech vocabulary, while Attribution Theory provides the structural framework for the vocabulary tools.
 >
 > - **[[self-efficacy]]** and **[[self-efficacy-theory]]** — The Self-Efficacy Calibration Mechanism (Phase IV) is an application of Bandura's verbal persuasion source to the domain of inner speech. The critical extension this report makes: inner speech carries a credibility premium over external verbal persuasion, which makes self-delivered efficacy-relevant vocabulary more consequential than the verbal persuasion source typically receives credit for.
 >
 > - **[[Zimmerman's-Cyclical-SRL-Model]]** and **[[forethought-phase]]** and **[[self-reflection-phase]]** — The Cross-Phase Vocabulary Cascade (Mechanism 4) is an application and extension of Zimmerman's three-phase model. This report adds vocabulary as a cross-phase transmission mechanism that the original model does not explicitly theorize.
 >
-> - **[[self-determination-theory]]** and **[[internalization-continuum]]** — The SDT Regulatory Vocabulary Upgrade Chart (Tool 2) is a direct application of the internalization continuum to inner speech. The authenticity tension identified in Phase III is a genuine open question in the SDT evidence base.
+> - **[[self-determination-theory]]** and **[[internalization]]** — The SDT Regulatory Vocabulary Upgrade Chart (Tool 2) is a direct application of the internalization continuum to inner speech. The authenticity tension identified in Phase III is a genuine open question in the SDT evidence base.
 >
 > - **[[achievement-goal-theory]]** and **[[goal-orientation]]** — The Goal Vocabulary mechanism is an application of AGT's mastery/performance distinction to goal construction language. The finding that mastery-oriented vocabulary sensitizes monitoring to understanding cues is a specific and actionable extension.
 >
@@ -560,7 +560,7 @@ The analysis found that having technical vocabulary for attribution dimensions, 
 >
 > **Etymology/Intellectual Lineage:** Synthesized in this report from Weiner's attribution dimensionality, Bandura's verbal persuasion source, SDT's regulatory language research, and the metacognitive monitoring literature.
 >
-> **Cross-References:** [[attribution-theory]], [[self-efficacy]], [[metacognitive-regulation]], [[internalization-continuum]], [[self-regulated-learning]]
+> **Cross-References:** [[Attribution (Heider, 1958)]], [[self-efficacy]], [[metacognitive-regulation]], [[internalization]], [[self-regulated-learning]]
 
 > [!definition] **Attributional Vocabulary Loop** (Original Synthesis — this report)
 > **Definition:** The self-amplifying cycle through which reflection-phase attribution vocabulary seeds forethought-phase goal vocabulary, which structures performance-phase monitoring, which generates outcome experiences that feed back into reflection-phase attribution vocabulary. The loop can run destructively (ability vocabulary → closed expectancy → vague goals → poor monitoring → poor outcomes → confirmed ability attribution) or constructively (strategy vocabulary → open expectancy → specific goals → precise monitoring → better outcomes → confirmed strategy attribution).
@@ -569,7 +569,7 @@ The analysis found that having technical vocabulary for attribution dimensions, 
 >
 > **Operational Indicators:** Identifiable through tracking the relationship between post-session attributional language and pre-session goal language across multiple reading sessions.
 >
-> **Cross-References:** [[attribution-theory]], [[Zimmerman's-Cyclical-SRL-Model]], [[self-reflection-phase]], [[forethought-phase]], [[learned-helplessness]]
+> **Cross-References:** [[Attribution (Heider, 1958)]], [[Zimmerman's-Cyclical-SRL-Model]], [[self-reflection-phase]], [[forethought-phase]], [[learned-helplessness]]
 
 > [!definition] **Regulatory Self-Talk Register** (SDT-derived)
 > **Definition:** The portion of inner speech that carries regulatory content — the "why am I doing this" and "how am I directing this effort" layer of motivational inner speech. Ranges from controlled regulatory language (should/must/have to) through introjected (guilt/shame avoidance), identified (personally meaningful), and integrated (identity-consistent) registers. Distinguished from attributional vocabulary (which explains past causes) and from evaluative vocabulary (which assesses current states) by its prospective and directive character.
@@ -578,14 +578,14 @@ The analysis found that having technical vocabulary for attribution dimensions, 
 >
 > **Operational Indicators:** Language using modal verbs (should, must, want, choose), motivational connectors (because I want to, in order to, for the purpose of), and ownership markers (I am choosing, I am committed to).
 >
-> **Cross-References:** [[self-determination-theory]], [[internalization-continuum]], [[introjected-regulation]], [[identified-regulation]], [[integrated-regulation]], [[autonomous-motivation]]
+> **Cross-References:** [[self-determination-theory]], [[internalization]], [[introjected-regulation]], [[identified-regulation]], [[Integrated Regulation]], [[Autonomous Motivation]]
 
 > [!definition] **Self-Efficacy Calibration** (Bandura-derived, extended)
 > **Definition:** The process by which self-efficacy beliefs are continuously updated through real-time inner speech commentary during learning activity. Distinct from efficacy updating through discrete outcome experiences; operates continuously through verbal persuasion — in this context, self-administered verbal persuasion. Calibration can be flexible (responsive to performance and strategy, not fixed) or brittle (responsive to performance interpreted through ability vocabulary, producing fragility under challenge).
 >
 > **Report-Specific Significance:** The Self-Efficacy Calibration Mechanism (Phase IV) shows that the vocabulary of calibration determines whether efficacy is flexible or brittle — with specific implications for how inner speech following difficulty should be designed.
 >
-> **Cross-References:** [[self-efficacy]], [[self-efficacy-theory]], [[growth-mindset]], [[attribution-theory]], [[verbal-efficiency-theory]]
+> **Cross-References:** [[self-efficacy]], [[self-efficacy-theory]], [[growth-mindset]], [[Attribution (Heider, 1958)]], [[verbal-efficiency-theory]]
 
 > [!definition] **Goal Construction Vocabulary** (AGT/Goal-Setting-derived)
 > **Definition:** The vocabulary used to construct and articulate goals across the three hierarchical levels of SRL goal architecture: superordinate (why am I engaging with this domain — regulatory vocabulary), intermediate (what do I want from this reading — mastery orientation vocabulary), and subordinate (how will I engage with this passage — strategy vocabulary). The quality of goal vocabulary at each level cascades downward through the hierarchy, with superordinate regulatory vocabulary being the highest-leverage point for vocabulary intervention.
@@ -595,7 +595,7 @@ The analysis found that having technical vocabulary for attribution dimensions, 
 > [!definition] **Attributional Vocabulary Dimensions** (Weiner)
 > **Definition:** The three dimensions along which causal attributions vary and to which vocabulary items commit: *locus* (internal vs. external — whether the cause is within or outside the learner), *stability* (stable vs. unstable — whether the cause persists over time), and *controllability* (controllable vs. uncontrollable — whether the learner can modify the cause). Vocabulary pre-loads dimensional commitments: ability vocabulary encodes internal-stable-uncontrollable; strategy vocabulary encodes internal-unstable-controllable.
 >
-> **Cross-References:** [[attribution-theory]], [[bernard-weiner]], [[attribution-style]], [[attribution-retraining]]
+> **Cross-References:** [[Attribution (Heider, 1958)]], [[bernard-weiner]], [[attribution-style]], [[attribution-retraining]]
 
 > [!definition] **Monitoring Vocabulary Sensitization**
 > **Definition:** The process by which goal vocabulary in the forethought phase tunes the monitoring system to track specific types of comprehension cues during the performance phase. Mastery-oriented goal vocabulary sensitizes monitoring to understanding cues (noticing non-comprehension, noticing inferential gaps); performance/completion-oriented vocabulary sensitizes monitoring to completion cues (progress through the text, time elapsed). The type of cue the monitoring system tracks determines what gets flagged for repair and what gets passed over silently.
@@ -857,14 +857,14 @@ The analysis found that having technical vocabulary for attribution dimensions, 
 > > **Connection to This Report:** The attributional vocabulary development tools assume that vocabulary can be changed; Explanatory Style research addresses the stability of attributional tendencies and the conditions under which they change.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[attribution-theory]], [[bernard-weiner]], [[learned-helplessness]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[bernard-weiner]], [[learned-helplessness]]
 >
 > > [!topic-idea] [[Attribution-Retraining-Interventions]]
 > > A focused analysis of the attribution retraining intervention literature would provide the empirical foundation for the practical tools in Phase V of this report. Key questions: Which attribution retraining approaches show the strongest and most durable effects? What are the mechanisms of change? What is the minimum effective dose for producing meaningful shifts in attributional vocabulary? How does attribution retraining interact with reading instruction?
 > > **Connection to This Report:** The Phase V practical tools are theoretically grounded but need empirical validation from the intervention literature.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis (Evidence Review)
-> > **Prerequisites:** [[attribution-theory]], [[growth-mindset]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[growth-mindset]]
 >
 > > [!topic-idea] [[motivational-regulation]]
 > > The [[motivational-regulation]] literature (Wolters, 2003; Sansone & Thoman) addresses the strategies learners use to manage their own motivation during learning — interest enhancement, self-consequating, self-handicapping avoidance. This is a natural extension of the current analysis, providing the behavioral strategy layer for the vocabulary-level intervention developed here. A focused analysis would map the motivational regulation strategies onto the vocabulary framework developed in this report.

@@ -76,7 +76,7 @@ importance: high
 - [[Artificial-Intelligence-Architecture-as-Engineered-Chunking|Artificial Intelligence Architecture as Engineered Chunking]]
 - [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
 - [[Central-claim-of-this-level|Central claim of this level]]
-- [[Chunk]]
+- [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 - [[Chunk-Miller,-1956;-Chase-&-Simon,-1973|Chunk (Miller, 1956; Chase & Simon, 1973)]]
 - [[Chunk-Miller,-1956;-refined-by-Chase-&-Simon,-1973|Chunk (Miller, 1956; refined by Chase & Simon, 1973)]]
 - [[Chunking-in-Second-Language-Acquisition]]

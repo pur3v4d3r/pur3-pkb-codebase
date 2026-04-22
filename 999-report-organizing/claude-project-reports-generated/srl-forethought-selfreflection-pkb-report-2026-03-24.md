@@ -175,7 +175,7 @@ builds-on:
   - "[[achievement-goal-theory-foundational-report-2026-03-10]]"
   - "[[metacognition]]"
   - "[[self-efficacy]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
 
 enables:
   - "[[Deliberate-Practice-Architecture-for-PKB]]"
@@ -277,7 +277,7 @@ This is not a second summary of Zimmerman's model. Having completed the [[zimmer
 
 ### Scope and Reader Positioning
 
-This report assumes familiarity with Zimmerman's three-phase structure. It assumes working knowledge of [[achievement-goal-theory]] and [[self-efficacy]] as motivational constructs, and basic familiarity with [[metacognition]] as a regulatory capacity. Where it extends into [[self-determination-theory]] and [[attribution-theory]], sufficient context is provided. The practical tools developed in Phase VII assume an [[obsidian]]-based PKB with [[yaml-frontmatter]] support and access to the Templater plugin or equivalent.
+This report assumes familiarity with Zimmerman's three-phase structure. It assumes working knowledge of [[achievement-goal-theory]] and [[self-efficacy]] as motivational constructs, and basic familiarity with [[metacognition]] as a regulatory capacity. Where it extends into [[self-determination-theory]] and [[Attribution (Heider, 1958)]], sufficient context is provided. The practical tools developed in Phase VII assume an [[obsidian]]-based PKB with [[yaml-frontmatter]] support and access to the Templater plugin or equivalent.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before proceeding, take three minutes and write — somewhere, anywhere — your honest answers to these questions: What does your current pre-reading process look like for a long, complex academic text? What do you typically do in the ten minutes after finishing such a text? When did you last consciously connect what you learned from a reading to adjustments in *how* you will approach the next reading? Your answers to these questions are the diagnostic baseline against which everything in this report is a potential upgrade.
@@ -332,7 +332,7 @@ This goal architecture matters specifically for reading complex academic texts b
 
 Once goals are set, strategic planning specifies the *operations* through which you will pursue them. For reading complex academic texts, this means selecting from a repertoire of evidence-based reading strategies, allocated to specific parts of the task.
 
-The most important strategic insight from the [[cognitive-load-theory]] and [[schema-theory]] literatures is this: the cognitive operations most strongly associated with retention and transfer — elaborative interrogation, self-explanation, generating examples, making connections — impose substantially higher [[working-memory]] load than passive reading, but result in far stronger encoding into [[long-term-memory]]. Strategic planning must account for this trade-off: which parts of the text merit the high-investment, high-yield strategies, and which can be processed more efficiently?
+The most important strategic insight from the [[Cognitive Load Theory (CLT)]] and [[schema-theory-and-knowledge-organization]] literatures is this: the cognitive operations most strongly associated with retention and transfer — elaborative interrogation, self-explanation, generating examples, making connections — impose substantially higher [[working-memory]] load than passive reading, but result in far stronger encoding into [[long-term-memory]]. Strategic planning must account for this trade-off: which parts of the text merit the high-investment, high-yield strategies, and which can be processed more efficiently?
 
 > [!key-claim] **Strategy Allocation for Complex Texts**
 > Not all text deserves equal processing depth. Strategic planning for reading a complex report should explicitly allocate strategies by text region:
@@ -344,7 +344,7 @@ The most important strategic insight from the [[cognitive-load-theory]] and [[sc
 Strategic planning at the Forethought stage also includes **time and resource allocation** — not merely "how long will I spend" but "in what cognitive state, with what environmental conditions, with what reference materials open?" This is resource management in the sense used by [[winne-and-hadwin|Winne & Hadwin's COPES model]]: learners allocate not just time but processing *modes*, environmental supports, and external cognitive tools (like the PKB itself as a retrieval aid).
 
 > [!insight] **The Advance Organizer as Forethought Tool**
-> [[advance-organizers]] — brief structural previews of what a text will cover — function as one of the most empirically supported Forethought tools for reading. They work by activating relevant [[schema-theory|schemata]] in long-term memory before reading begins, reducing the processing load of encountering new information, and providing a structural scaffold onto which new details can be anchored. For reading foundational reports, the YAML frontmatter itself — with its `core-concepts`, `key-distinctions`, and `sections` fields — functions precisely as an advance organizer. A deliberate Forethought practice involves reading the YAML block *actively*, not skimming it. Ask: What do I already know about these concepts? Where are the gaps? What are the key distinctions I'll be tracking?
+> [[advance-organizers]] — brief structural previews of what a text will cover — function as one of the most empirically supported Forethought tools for reading. They work by activating relevant [[schema-theory-and-knowledge-organization|schemata]] in long-term memory before reading begins, reducing the processing load of encountering new information, and providing a structural scaffold onto which new details can be anchored. For reading foundational reports, the YAML frontmatter itself — with its `core-concepts`, `key-distinctions`, and `sections` fields — functions precisely as an advance organizer. A deliberate Forethought practice involves reading the YAML block *actively*, not skimming it. Ask: What do I already know about these concepts? Where are the gaps? What are the key distinctions I'll be tracking?
 
 > [!reflection] **Deepening Your Understanding of Task Analysis**
 > 1. Looking at your current reading practice: at what level of goal specificity do you typically operate? Are your pre-reading goals primarily about completing the task (outcome) or about how you will process the material (process)? What would need to change to shift toward more specific process goals?
@@ -413,14 +413,14 @@ The single most important structural feature of effective self-evaluation is tha
 
 #### Causal Attribution: The Explanatory Layer
 
-After evaluation against standards comes the second sub-process of Self-Judgment: **causal attribution** — the explanatory account you generate for why the performance went the way it did. [[attribution-theory]], developed primarily by [[Weiner-Bernard|Bernard Weiner]] and extended by Zimmerman in the SRL context, identifies two key dimensions of causal attributions: **locus** (internal vs. external) and **controllability** (within the learner's control vs. outside it).
+After evaluation against standards comes the second sub-process of Self-Judgment: **causal attribution** — the explanatory account you generate for why the performance went the way it did. [[Attribution (Heider, 1958)]], developed primarily by [[Weiner-Bernard|Bernard Weiner]] and extended by Zimmerman in the SRL context, identifies two key dimensions of causal attributions: **locus** (internal vs. external) and **controllability** (within the learner's control vs. outside it).
 
 > [!definition] **Causal Attribution in SRL (Zimmerman & Paulsen, 1995)**
 > The explanatory account a learner generates to explain their performance outcomes. Attributions have consequences not just for how learners *feel* about their performance but for what they *do* next: specifically, whether they adjust strategies (controllable internal attributions) or give up / blame circumstances (uncontrollable or external attributions).
 >
 > **Boundary:** Attribution is a *belief* about causes, not an accurate analysis of causes. Maladaptive attributions are false in the sense that they systematically misattribute causation — but they feel entirely correct to the learner making them.
 >
-> **See also:** [[attribution-theory]], [[Attribution-Retraining-Interventions]], [[growth-mindset]], [[self-efficacy]]
+> **See also:** [[Attribution (Heider, 1958)]], [[Attribution-Retraining-Interventions]], [[growth-mindset]], [[self-efficacy]]
 
 The attribution patterns that are most adaptive for self-regulated learning are **internal and controllable**: attributing difficulty to factors within the learner's power to change — insufficient strategy sophistication, inadequate background knowledge, suboptimal environmental conditions, insufficient deliberate practice, or the need to develop new techniques. These attributions are adaptive because they point toward *action*: if I struggled because my annotation strategy was insufficient, I can develop a better annotation strategy. If I struggled because I wasn't sufficiently focused, I can adjust environmental conditions.
 
@@ -1017,7 +1017,7 @@ The system is not separate from your PKB — it is implemented *within* it. The 
 >
 > **Boundary:** Self-reflection is not journaling or emotional processing, though both may be components. It is a structured evaluative and regulatory process with specific outputs (strategy revision, goal adjustment, efficacy calibration) that must flow forward into the next cycle.
 >
-> **See also:** [[the-srl-cycle-as-a-calibration-engine]], [[attribution-theory]], [[metacognitive-monitoring]], [[formative-assessment]]
+> **See also:** [[the-srl-cycle-as-a-calibration-engine]], [[Attribution (Heider, 1958)]], [[metacognitive-monitoring]], [[formative-assessment]]
 
 > [!definition] **Process Goal (Zimmerman & Kitsantas, 1997)**
 > A goal that specifies a learning strategy, procedure, or quality of engagement rather than an end-state or product. Process goals are evaluable in terms of strategy execution, making them more informationally rich inputs for Self-Reflection than outcome goals. Research consistently shows process goals during skill acquisition phases produce better learning outcomes and self-efficacy development than outcome goals.
@@ -1031,7 +1031,7 @@ The system is not separate from your PKB — it is implemented *within* it. The 
 >
 > **Boundary:** Attribution is a belief, not an accurate analysis. Learners can make accurate or inaccurate attributions, and the motivational consequences follow from the attribution made, not from the actual cause. This is why attribution training matters: it is possible to cultivate accurate, adaptive attribution patterns through deliberate practice.
 >
-> **See also:** [[attribution-theory]], [[Attribution-Retraining-Interventions]], [[growth-mindset]], [[self-efficacy]]
+> **See also:** [[Attribution (Heider, 1958)]], [[Attribution-Retraining-Interventions]], [[growth-mindset]], [[self-efficacy]]
 
 > [!definition] **Metacognitive Calibration (Nelson & Narens, 1990)**
 > The accuracy of the meta-level model of one's own cognitive processes relative to actual cognitive functioning. Well-calibrated metacognition means that monitoring signals (feelings of knowing, comprehension monitoring, confidence judgements) accurately predict actual performance. Poor calibration — especially overconfidence — is the primary failure mode of metacognitive monitoring in complex academic domains.
@@ -1116,7 +1116,7 @@ The system is not separate from your PKB — it is implemented *within* it. The 
 >
 > **This Report's Position:** Given the range of theoretical domains covered in a comprehensive PKB, process goals should dominate for any new domain or novel type of text, with outcome goals used only for familiar material where specific processing strategies are already well-automatised.
 >
-> **See also:** [[deliberate-practice]], [[achievement-goal-theory]], [[worked-example-effect]]
+> **See also:** [[deliberate-practice]], [[achievement-goal-theory]], [[the-worked-example-effect]]
 
 > [!open-question] **Can Self-Report Self-Reflection Be Trusted?**
 >
@@ -1366,7 +1366,7 @@ The system is not separate from your PKB — it is implemented *within* it. The 
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[attribution-theory]], [[growth-mindset]], [[self-efficacy]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[growth-mindset]], [[self-efficacy]]
 
 > > [!topic-idea] [[Self-Efficacy-Development-Architecture]]
 > > **Description:** Bandura's four sources of self-efficacy information — mastery experiences, vicarious modeling, social persuasion, and physiological/affective states — as a design framework for deliberate efficacy development in solo learning contexts. How can the PKB workflow be structured to systematically generate genuine mastery experiences and manage the physiological/affective inputs that shape efficacy calibration?

@@ -214,7 +214,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. What practical decision-making heuristics emerge from internalizing this framework?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Dichotomy-of-Control]], [[Prohairesis]], [[Epictetus]], [[Enchiridion]], [[Assent]], [[locus-of-control]], [[attribution-theory]]
+- Core concepts to wiki-link: [[Dichotomy-of-Control]], [[Prohairesis]], [[Epictetus]], [[Enchiridion]], [[Assent]], [[locus-of-control]], [[Attribution (Heider, 1958)]]
 - Recommended tags: #stoicism #practical-philosophy #decision-making #emotional-regulation #behavior-change
 - Connection points: Direct bridge to [[self-determination-theory]] concepts of autonomy; connect to [[metacognition]] (monitoring what is/isn't within cognitive control)
 
@@ -349,7 +349,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. What systematic practices can sustain Stoic-metacognitive development over a lifetime?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[metacognition]], [[metacognitive-knowledge]], [[metacognitive-regulation]], [[Epistemic Accountability]], [[lifelong-learning]], [[self-directed-learning]], [[reflective-practice]], [[Professional Identity Development]]
+- Core concepts to wiki-link: [[metacognition]], [[metacognitive-knowledge]], [[metacognitive-regulation]], [[Epistemic Accountability]], [[Lifelong Learning]], [[self-directed-learning]], [[reflective-practice]], [[Professional Identity Development]]
 - Recommended tags: #stoicism #metacognition #lifelong-learning #synthesis #professional-development #integration
 - Connection points: Integrate with [[self-determination-theory]] autonomy and competence; connect to [[personal-knowledge-management]] philosophy; bridge to your larger [[pkb-architecture]]
 

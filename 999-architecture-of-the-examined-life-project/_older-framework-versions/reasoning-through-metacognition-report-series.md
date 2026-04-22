@@ -85,8 +85,8 @@ prerequisites:
 
 related:
   - "[[Dual-Process-Thinking-Model]]"
-  - "[[metacognitive-scaffolding]]"
-  - "[[cognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
+  - "[[Cognitive Scaffolding]]"
   - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
   - "[[ReAct-Framework]]"
@@ -112,7 +112,7 @@ narrower:
 see-also:
   - "[[mental-models]]"
   - "[[epistemic-humility]]"
-  - "[[lifelong-learning]]"
+  - "[[Lifelong Learning]]"
   - "[[PKB-Integration]]"
 
 expansion-topics:
@@ -221,9 +221,9 @@ Understanding [[working-memory]] is essential for anyone who wants to think bett
 The foundational finding comes from [[george-miller]]'s 1956 paper "The Magical Number Seven, Plus or Minus Two," which demonstrated that working memory can hold approximately 5 to 9 distinct "chunks" of information at once. More recent research, particularly by Nelson Cowan, has revised this estimate downward to approximately 4 chunks in many tasks. The precise number matters less than the fundamental principle: working memory is severely limited. When a problem exceeds this capacity — when you must simultaneously hold premises, intermediate steps, constraints, and potential conclusions — the system begins to lose information, substituting stored patterns and guesses for actual held content. This is not a failure of intelligence; it is a structural property of the cognitive architecture.
 
 > [!atomic-concept]
-> **Working Memory Capacity and the Chunking Principle:** The limitation of working memory is not a fixed absolute but a function of how information is organized. Through a process called *chunking*, practiced thinkers group individual items into larger meaningful units, effectively multiplying the functional capacity of working memory. An expert chess player does not "see" 16 pieces in a given position — they perceive 4-5 meaningful formations. This is one reason why domain expertise increases thinking capacity: expertise is, in part, the accumulation of a large library of meaningful chunks. [[cognitive-scaffolding]] — the use of external structures, templates, and prompts — serves the same function by offloading working memory demands onto the environment.
+> **Working Memory Capacity and the Chunking Principle:** The limitation of working memory is not a fixed absolute but a function of how information is organized. Through a process called *chunking*, practiced thinkers group individual items into larger meaningful units, effectively multiplying the functional capacity of working memory. An expert chess player does not "see" 16 pieces in a given position — they perceive 4-5 meaningful formations. This is one reason why domain expertise increases thinking capacity: expertise is, in part, the accumulation of a large library of meaningful chunks. [[Cognitive Scaffolding]] — the use of external structures, templates, and prompts — serves the same function by offloading working memory demands onto the environment.
 
-[[john-sweller]]'s [[cognitive-load-theory]], developed in the context of educational psychology, provides the most actionable framework for working with this constraint rather than against it. Sweller identifies three types of cognitive load: intrinsic load (the inherent complexity of the material), extraneous load (unnecessary cognitive demands imposed by poor organization or presentation), and germane load (cognitive effort that builds understanding and schema). The goal of structured thinking — and of good note-taking, good writing, and good cognitive scaffolding — is to minimize extraneous load while directing cognitive resources toward germane load.
+[[john-sweller]]'s [[Cognitive Load Theory (CLT)]], developed in the context of educational psychology, provides the most actionable framework for working with this constraint rather than against it. Sweller identifies three types of cognitive load: intrinsic load (the inherent complexity of the material), extraneous load (unnecessary cognitive demands imposed by poor organization or presentation), and germane load (cognitive effort that builds understanding and schema). The goal of structured thinking — and of good note-taking, good writing, and good cognitive scaffolding — is to minimize extraneous load while directing cognitive resources toward germane load.
 
 The practical implication is direct and often underappreciated: **writing is a cognitive tool, not merely a communication tool**. When you externalize your thinking — onto paper, into a structured note, onto a whiteboard — you offload working memory demands onto the environment, freeing cognitive resources for actual analysis. The essay, the argument map, the structured journal entry, the rigorous note: these are prosthetic working memory systems that allow you to work with problems far larger than unaided cognition could manage. This is one reason your project's [[Chain-of-Density]] architecture — which mandates layered elaboration across multiple passes — works: it distributes cognitive load across time, preventing any single processing moment from exceeding working memory capacity.
 
@@ -365,7 +365,7 @@ The preceding sections have established the machinery, the grammar, the master s
 >
 > - **[[Dual-Process-Thinking-Model]]** — Your project's implementation of this concept in extended thinking architecture is a direct application of Kahneman's framework. The `<thinking>` block as mandated System 2 engagement zone now has its theoretical grounding. Understanding the human cognitive science makes the architectural choice legible as cognitively informed design rather than arbitrary convention.
 >
-> - **[[metacognitive-scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
+> - **[[Metacognitive Scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
 >
 > - **[[ReAct-Framework]]** — The Research → Think → Act → Observe cycle is structurally isomorphic to Dewey's five phases of reflective thinking. ReAct is, in effect, Deweyan reflective inquiry encoded as an agentic architecture. This connection illuminates why ReAct works: it enforces the same cycle that cognitive science identifies as the structure of genuine inquiry.
 >
@@ -530,7 +530,7 @@ related:
   - "[[reflective-thinking]]"
   - "[[critical-thinking]]"
   - "[[working-memory]]"
-  - "[[cognitive-scaffolding]]"
+  - "[[Cognitive Scaffolding]]"
   - "[[inference]]"
   - "[[Epistemic-Agency]]"
   - "[[philosophy-of-mind]]"
@@ -552,7 +552,7 @@ see-also:
   - "[[Structuring Thought — Analytical Report (Report 3 of 4)]]"
   - "[[Structuring Thought — Socratic Report (Report 4 of 4)]]"
   - "[[Foundational-Analysis-Method]]"
-  - "[[cognitive-architecture]]"
+  - "[[Cognitive Architecture]]"
 
 expansion-topics:
   - topic: "[[The Representation Problem]]"
@@ -593,7 +593,7 @@ connection-strength:
     - "[[reflective-thinking]]"
   medium:
     - "[[philosophy-of-mind]]"
-    - "[[cognitive-scaffolding]]"
+    - "[[Cognitive Scaffolding]]"
     - "[[working-memory]]"
   exploratory:
     - "[[The Representation Problem]]"
@@ -757,7 +757,7 @@ Now we can see precisely where the frameworks from Report 1 live in this reconst
 
 ### What Changes When We See It This Way
 
-Seeing structured thought from the axiom level changes the relationship between technique and understanding in a profound way. Every reasoning technique you will ever encounter is, at bottom, a device for satisfying one or more of the four axioms more reliably under conditions where minds tend to fail. [[critical-thinking]] techniques improve Axiom 3 — they help us govern our inferences more carefully. [[metacognitive-monitoring]] techniques strengthen Axiom 4 — they scaffold the reflexive evaluation of our own reasoning. [[cognitive-scaffolding]] externalises Axiom 1 — it makes our representations persistent and visible. Clarity training sharpens Axiom 2 — it forces us to draw sharper distinctions.
+Seeing structured thought from the axiom level changes the relationship between technique and understanding in a profound way. Every reasoning technique you will ever encounter is, at bottom, a device for satisfying one or more of the four axioms more reliably under conditions where minds tend to fail. [[critical-thinking]] techniques improve Axiom 3 — they help us govern our inferences more carefully. [[metacognitive-monitoring]] techniques strengthen Axiom 4 — they scaffold the reflexive evaluation of our own reasoning. [[Cognitive Scaffolding]] externalises Axiom 1 — it makes our representations persistent and visible. Clarity training sharpens Axiom 2 — it forces us to draw sharper distinctions.
 
 > [!connections-and-links]
 > **How This Analysis Connects to Your PKB:**
@@ -786,7 +786,7 @@ When you notice yourself *resisting* an unwelcome conclusion — sensing that yo
 > [!connections-and-links]
 > **PKB Integration — Revisiting Report 1 Through the Axiom Lens:**
 >
-> - **[[cognitive-scaffolding]]** — Scaffolding works because it offloads the four axioms onto external structures. Written notes stabilise representations (Axiom 1), headings and categories enforce distinctions (Axiom 2), outlines make inferential structure explicit (Axiom 3), and review processes enable reflexive improvement (Axiom 4). Your PKB is, from a first-principles view, a prosthetic extension of all four axioms simultaneously.
+> - **[[Cognitive Scaffolding]]** — Scaffolding works because it offloads the four axioms onto external structures. Written notes stabilise representations (Axiom 1), headings and categories enforce distinctions (Axiom 2), outlines make inferential structure explicit (Axiom 3), and review processes enable reflexive improvement (Axiom 4). Your PKB is, from a first-principles view, a prosthetic extension of all four axioms simultaneously.
 >
 > - **[[working-memory]]** — Working memory is the biological system most directly responsible for holding representations active (Axiom 1), tracking their distinctness (Axiom 2), and supporting the inferential transitions between them (Axiom 3). Its severe capacity limits — typically seven plus or minus two items — are a biological bottleneck on thought, not a feature of thought itself. This is why externalisation into notes is not just a memory technique but an axiom-extension.
 >
@@ -827,7 +827,7 @@ When you notice yourself *resisting* an unwelcome conclusion — sensing that yo
 >
 > 2. Axiom 4 — reflexivity — makes learning possible, but it operates under a specific vulnerability: motivated cognition corrupts it by applying different standards to welcome and unwelcome inferences. Pick one belief you hold with high confidence in an area that matters to you. Now deliberately apply Axiom 4 against yourself: *What is the strongest evidence that this belief is wrong? Am I evaluating that evidence with the same care I bring to evidence in its favour?* This is not scepticism for its own sake — it is the honest exercise of the capacity that makes thought self-correcting.
 >
-> 3. This report argues that [[cognitive-scaffolding]] — including your PKB — is an external prosthesis for the four axioms. Look at a set of your recent PKB notes. For each one, ask: does it clearly *represent* something (could you state in one sentence what it is about)? Does it *distinguish* its concept from adjacent ones (what is it *not*)? Does it make *inferential connections* explicit (what does this concept entail, or what entails it)? And does it invite *reflexive review* (does it have a question, a doubt, or an open thread that will pull you back to examine it)? Notes that satisfy all four are nodes in a living knowledge graph. Notes that satisfy none are inert records.
+> 3. This report argues that [[Cognitive Scaffolding]] — including your PKB — is an external prosthesis for the four axioms. Look at a set of your recent PKB notes. For each one, ask: does it clearly *represent* something (could you state in one sentence what it is about)? Does it *distinguish* its concept from adjacent ones (what is it *not*)? Does it make *inferential connections* explicit (what does this concept entail, or what entails it)? And does it invite *reflexive review* (does it have a question, a doubt, or an open thread that will pull you back to examine it)? Notes that satisfy all four are nodes in a living knowledge graph. Notes that satisfy none are inert records.
 
 ---
 
@@ -952,7 +952,7 @@ related:
   - "[[virtue-epistemology]]"
   - "[[Pragmatist-Philosophy]]"
   - "[[critical-thinking]]"
-  - "[[cognitive-scaffolding]]"
+  - "[[Cognitive Scaffolding]]"
   - "[[reflective-thinking]]"
   - "[[Axioms-of-Structured-Thought]]"
 
@@ -1185,7 +1185,7 @@ There are two open questions this analysis could not resolve. First: the virtue 
 >
 > - **[[metacognitive-monitoring]]** — The three-level metacognitive hierarchy from your PKB (object-level reasoning, metacognitive monitoring, meta-metacognitive awareness) maps onto the synthesis: fallibilism governs Level 2 monitoring (is this belief warranted?), virtue epistemology governs the disposition that makes Level 3 awareness honest rather than self-serving, and the pragmatist pattern structures what Level 1 reasoning is doing in the first place.
 >
-> - **[[cognitive-scaffolding]]** — Your PKB, understood through the lens of this synthesis, is not merely an information repository. It is an externalisation of the pragmatist inquiry pattern: it creates the structural conditions for genuine problematic situations (when existing notes conflict or prove insufficient), supports the distinction-making required by [[Axiom-2-Distinction]], enables the governed inference connections required by [[Axiom-3-Inference]], and — through review and reflection — instantiates the [[Axiom-4-Reflexivity|reflexivity]] that Axiom 4 demands. A PKB that honours these functions is a cognitive prosthesis for fallibilist virtue-pragmatism.
+> - **[[Cognitive Scaffolding]]** — Your PKB, understood through the lens of this synthesis, is not merely an information repository. It is an externalisation of the pragmatist inquiry pattern: it creates the structural conditions for genuine problematic situations (when existing notes conflict or prove insufficient), supports the distinction-making required by [[Axiom-2-Distinction]], enables the governed inference connections required by [[Axiom-3-Inference]], and — through review and reflection — instantiates the [[Axiom-4-Reflexivity|reflexivity]] that Axiom 4 demands. A PKB that honours these functions is a cognitive prosthesis for fallibilist virtue-pragmatism.
 >
 > - **[[confirmation-bias]]** — The synthesis provides the most complete available account of why confirmation bias is so persistent and why it is so difficult to overcome: it is simultaneously a virtue failure (intellectual courage and humility are required to seek disconfirming evidence), a fallibilist failure (the revisability commitment is not genuinely active), and a pragmatist failure (the thinker is position-defending rather than genuinely inquiring). Remediation requires all three levels simultaneously.
 
@@ -1373,7 +1373,7 @@ related:
 
 broader:
   - "[[philosophy-of-mind]]"
-  - "[[lifelong-learning]]"
+  - "[[Lifelong Learning]]"
   - "[[Knowledge-Management-Philosophy]]"
 
 narrower:
@@ -1384,7 +1384,7 @@ narrower:
 see-also:
   - "[[Epistemic-Injustice]]"
   - "[[Social-Epistemology]]"
-  - "[[cognitive-scaffolding]]"
+  - "[[Cognitive Scaffolding]]"
 
 expansion-topics:
   - topic: "[[Epistemic-Laziness]]"
@@ -1489,7 +1489,7 @@ Working through the first definitional question seriously requires acknowledging
 
 The second definitional question is more uncomfortable. For knowledge-seeking to *fail* in a meaningful sense, there must be conditions under which the effort expended does not yield the understanding sought. What would those conditions look like for your practice? One answer, suggested by [[Report-1]] on [[cognitive-biases]], is that knowledge-seeking fails when it confirms rather than challenges. When the material you seek, the connections you forge in your PKB, and the frameworks you find compelling all cohere comfortably with what you already believe, you have engaged in sophisticated [[confirmation-bias]] rather than inquiry. The [[PKB]] itself is not immune to this failure: because you choose what to add, how to link, and what to mark as important, the entire system is subject to motivated curation. A knowledge graph that only maps what you already find interesting is a portrait of your existing mind, not an instrument for changing it.
 
-The third definitional question points toward what [[cognitive-load-theory]] would identify as the difference between [[germane-cognitive-load]] — the processing that actually builds new [[schema]] — and [[extraneous-cognitive-load]] — processing that consumes effort without changing cognitive architecture. Not all reading generates understanding. Not all note-taking generates memory. Not all PKB structure generates knowledge-graph connectivity that fires when you actually need it. There is a real possibility that the [[Obsidian-PKB]] you are building is rich in well-formatted content and poor in the kind of elaborative [[encoding]] — personally meaningful, emotionally engaged, repeatedly retrieved — that actually changes how you think.
+The third definitional question points toward what [[Cognitive Load Theory (CLT)]] would identify as the difference between [[Cognitive Load Theory (CLT)]] — the processing that actually builds new [[schema]] — and [[Cognitive Load Theory (CLT)]] — processing that consumes effort without changing cognitive architecture. Not all reading generates understanding. Not all note-taking generates memory. Not all PKB structure generates knowledge-graph connectivity that fires when you actually need it. There is a real possibility that the [[Obsidian-PKB]] you are building is rich in well-formatted content and poor in the kind of elaborative [[encoding]] — personally meaningful, emotionally engaged, repeatedly retrieved — that actually changes how you think.
 
 > [!definition]
 > **Working Definition of "Knowledge-Seeking" Arrived at Through Interrogation:** Knowledge-seeking, as distinct from the acquisition of content, is an inquiry process that begins with genuine problematic situations — as [[Dewey]] insisted — and concludes either in resolving those situations through warranted belief, or in articulating precisely why they remain unresolved. It is truth-directed, not process-directed. Its failure condition is coherent: it fails when it produces comfort without understanding, accumulation without transformation, or fluency without genuine competence. This is a significantly more demanding definition than "reading widely and building a PKB," and it is the definition entailed by everything the previous three reports established.
@@ -1535,10 +1535,10 @@ Given what the definitional interrogation and assumption excavation have establi
 
 The first implication follows directly: the reports in this series are more valuable as *departure points for practice* than as *content to store*. The test of whether [[dual-process-theory]] has genuinely entered your cognitive repertoire is not whether you can locate the relevant wikilink in your vault — it is whether, the next time you form a rapid confident judgment about something that matters, you notice the formation happening and can subject it to reflective scrutiny. This noticing is a skill, and skills are built through [[deliberate-practice]] — targeted, effortful repetition with feedback — not through reading about them. One implication of the series is therefore that what you need is not more reports but more *exercises*: specific, recurring practices in which you deliberately apply what the reports established.
 
-The second implication is that the PKB's value is conditional on how you use it, not on how thoroughly you build it. The cognitive science of retrieval is clear: [[retrieval-practice]] — actively trying to recall information without looking at it — is far more effective at building usable [[long-term-memory]] than re-reading or re-organising notes. This suggests that a PKB used primarily to *store and review* content is significantly less effective than a PKB used to *generate questions* about content that you then try to answer from memory before looking at what you recorded. The design implication is significant: a PKB optimised for depth and organisation (as the Academic Report Generator you are using does) may actually be working against its own cognitive purpose if the notes are never interrogated, only accumulated. The richest note in the world, never retrieved against genuine effort, has deposited nothing in the cognitive architecture that will actually change your thinking.
+The second implication is that the PKB's value is conditional on how you use it, not on how thoroughly you build it. The cognitive science of retrieval is clear: [[Desirable Difficulties (Robert Bjork, 1994)]] — actively trying to recall information without looking at it — is far more effective at building usable [[long-term-memory]] than re-reading or re-organising notes. This suggests that a PKB used primarily to *store and review* content is significantly less effective than a PKB used to *generate questions* about content that you then try to answer from memory before looking at what you recorded. The design implication is significant: a PKB optimised for depth and organisation (as the Academic Report Generator you are using does) may actually be working against its own cognitive purpose if the notes are never interrogated, only accumulated. The richest note in the world, never retrieved against genuine effort, has deposited nothing in the cognitive architecture that will actually change your thinking.
 
 > [!argument]
-> **The Most Surprising Implication:** The series you have just completed — four deeply structured, richly annotated, technically sophisticated academic reports on the cognitive science of structured thought — may have produced a particularly subtle form of [[Epistemic-Laziness]] rather than the epistemic improvement it aimed at. The very quality of the reports creates a phenomenology of comprehension: reading them, connecting them, building their wikilinks feels like understanding. This feeling of understanding — what [[Robert-Bjork]] calls the "illusion of knowing" and what is also present in the [[fluency-illusion]] documented in learning science — is one of the most reliable obstacles to genuine learning. You feel like you understand [[confirmation-bias]] because you can retrieve the concept fluently. Whether that fluency translates into actually catching confirmation bias in your own reasoning under conditions of genuine investment — that is the question the reports have not answered and cannot answer. Only your practice can answer it.
+> **The Most Surprising Implication:** The series you have just completed — four deeply structured, richly annotated, technically sophisticated academic reports on the cognitive science of structured thought — may have produced a particularly subtle form of [[Epistemic-Laziness]] rather than the epistemic improvement it aimed at. The very quality of the reports creates a phenomenology of comprehension: reading them, connecting them, building their wikilinks feels like understanding. This feeling of understanding — what [[Robert-Bjork]] calls the "illusion of knowing" and what is also present in the [[Fluency Illusion]] documented in learning science — is one of the most reliable obstacles to genuine learning. You feel like you understand [[confirmation-bias]] because you can retrieve the concept fluently. Whether that fluency translates into actually catching confirmation bias in your own reasoning under conditions of genuine investment — that is the question the reports have not answered and cannot answer. Only your practice can answer it.
 
 The third implication — concerning the solo-sufficiency assumption — is the hardest to act on because it requires a different kind of resource: other people who will push back. The specific cognitive benefit of genuine dialogue in the Socratic sense is not primarily informational (learning new content) but procedural (being forced to articulate, defend, and revise positions under pressure). You can approximate some of this within a PKB by systematically writing [[Steelman-Arguments]] for positions you find uncomfortable, by creating dedicated notes for the strongest objections to your current views, and by revisiting confident conclusions with the explicit question: *what would have to be true for me to be wrong about this?* These practices introduce a form of artificial [[Epistemic-Friction]] that mimics, imperfectly but genuinely, the friction of genuine dialogue. They are not a substitute for actual interlocutors but they are significantly better than the frictionless accumulation of comfortably structured knowledge.
 
@@ -1609,7 +1609,7 @@ A Socratic investigation does not end with a tidy conclusion. It ends with a cle
 > [!summary]
 > **The *Structuring Thought* Series in Synthesis:**
 >
-> Four reports, four scaffolds, one territory. Report 1 ([[Structuring-Thought-Foundational]]) established the cognitive science landscape: [[dual-process-theory]] as the architecture of thought, [[metacognitive-monitoring]] as the capacity for self-correction, [[cognitive-biases]] as systematic failures arising from the same heuristics that make thought efficient, and [[Dewey-Reflective-Thinking]] as the inquiry structure that converts problematic situations into warranted beliefs. Report 2 ([[Structuring-Thought-First-Principles]]) stripped to four irreducible axioms: that thought requires representation, distinction, governed inference, and reflexivity — and argued that [[cognitive-scaffolding]], including the PKB, functions as a prosthesis for all four. Report 3 ([[Structuring-Thought-Analytical]]) evaluated the major competing frameworks for critical thinking — rationalist, fallibilist, virtue-epistemological, pragmatist — and concluded that the most defensible synthesis requires all four components, with intellectual virtues as the motivational ground. Report 4 — this one — turned the apparatus on the assumptions embedded in pursuing the series in the first place, surfacing three hidden premises that the cognitive science of the earlier reports should already have made suspicious. Together, the four reports constitute not a curriculum completed but a set of tools unpacked. Whether they become instruments of genuine [[reflective-thinking]] or remain an ambitious archive of well-structured notes is, from here, entirely a question of practice.
+> Four reports, four scaffolds, one territory. Report 1 ([[Structuring-Thought-Foundational]]) established the cognitive science landscape: [[dual-process-theory]] as the architecture of thought, [[metacognitive-monitoring]] as the capacity for self-correction, [[cognitive-biases]] as systematic failures arising from the same heuristics that make thought efficient, and [[Dewey-Reflective-Thinking]] as the inquiry structure that converts problematic situations into warranted beliefs. Report 2 ([[Structuring-Thought-First-Principles]]) stripped to four irreducible axioms: that thought requires representation, distinction, governed inference, and reflexivity — and argued that [[Cognitive Scaffolding]], including the PKB, functions as a prosthesis for all four. Report 3 ([[Structuring-Thought-Analytical]]) evaluated the major competing frameworks for critical thinking — rationalist, fallibilist, virtue-epistemological, pragmatist — and concluded that the most defensible synthesis requires all four components, with intellectual virtues as the motivational ground. Report 4 — this one — turned the apparatus on the assumptions embedded in pursuing the series in the first place, surfacing three hidden premises that the cognitive science of the earlier reports should already have made suspicious. Together, the four reports constitute not a curriculum completed but a set of tools unpacked. Whether they become instruments of genuine [[reflective-thinking]] or remain an ambitious archive of well-structured notes is, from here, entirely a question of practice.
 
 ---
 

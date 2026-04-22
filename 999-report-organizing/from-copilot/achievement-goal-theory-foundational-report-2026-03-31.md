@@ -108,8 +108,8 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[attribution-theory]]"
-  - "[[intrinsic-motivation]]"
+  - "[[Attribution (Heider, 1958)]]"
+  - "[[Intrinsic Motivation]]"
   - "[[self-efficacy]]"
 
 related:
@@ -117,7 +117,7 @@ related:
   - "[[growth-mindset-theory]]"
   - "[[self-regulated-learning]]"
   - "[[expectancy-value-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
 
 broader:
   - "[[educational-psychology]]"
@@ -133,7 +133,7 @@ narrower:
 
 see-also:
   - "[[implicit-theory-of-intelligence]]"
-  - "[[differentiated-conception-of-ability]]"
+  - "[[conception-of-ability]]"
   - "[[locus-of-control]]"
   - "[[learned-helplessness]]"
   - "[[attribution-retraining]]"
@@ -151,8 +151,8 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[attribution-theory]]"
-  - "[[intrinsic-motivation]]"
+  - "[[Attribution (Heider, 1958)]]"
+  - "[[Intrinsic Motivation]]"
   - "[[learned-helplessness]]"
 
 enables:
@@ -236,7 +236,7 @@ The report is organized as follows. **Phase II** establishes the conceptual foun
 >
 > **Common Misconception:** Achievement goals are frequently conflated with performance *standards* (how high the target is set) or with the *content* of what is pursued. AGT is not about the *level* of aspiration but about the *criterion by which success is defined* — a mastery-oriented student might have extremely high absolute performance standards while still defining success in terms of personal growth rather than social comparison.
 >
-> **See also:** [[achievement-goal]], [[goal-orientation]], [[mastery-goal]], [[performance-goal]], [[intrinsic-motivation]]
+> **See also:** [[achievement-goal]], [[goal-orientation]], [[mastery-goal]], [[performance-goal]], [[Intrinsic Motivation]]
 
 The conceptual architecture of AGT rests on the insight — developed with particular clarity by Nicholls — that *ability* is not a self-evident psychological category. Children and adults hold meaningfully different conceptions of what it means to be able or unable, and these conceptions shape how achievement situations are framed and what constitutes success within them. Nicholls distinguished between two developmental conceptions of ability that map directly onto what later became the theory's core goal constructs.
 
@@ -247,7 +247,7 @@ The conceptual architecture of AGT rests on the insight — developed with parti
 >
 > **Boundary:** The differentiated conception is not a belief that effort is worthless. It is specifically the belief that ability and effort are *logically separable* in the analysis of achievement — that "real ability" is what remains when effort is controlled for. This is a cognitively sophisticated conception that typically emerges by late childhood and becomes the normative adult conception in Western competitive contexts.
 >
-> **See also:** [[differentiated-conception-of-ability]], [[ego-involvement]], [[entity-theory-of-intelligence]], [[performance-goal-orientation]], [[fixed-mindset]]
+> **See also:** [[conception-of-ability]], [[ego-involvement]], [[entity-theory-of-intelligence]], [[performance-goal-orientation]], [[fixed-mindset]]
 
 > [!definition] **Undifferentiated Conception of Ability (Nicholls, 1984)**
 > In the undifferentiated conception of ability, effort and ability are not clearly distinguished — trying hard *is* what it means to be capable. Achievement is defined by learning, improvement, or task mastery rather than by normative comparison, because the actor has not yet constructed the capacity/effort distinction that would make normative superiority informationally relevant. This conception is developmentally earlier (typical in young children) but remains available to adults, particularly when task involvement and intrinsic engagement are high.
@@ -265,7 +265,7 @@ Nicholls' framework included an important distinction between two *motivational 
 > [!definition] **Task Involvement (Nicholls, 1984)**
 > Task involvement is a motivational state in which the person is oriented toward developing competence, mastering the task at hand, or learning as an end in itself. The standard of success is self-referential or task-referential — one succeeds by improving, by solving the problem, by understanding more deeply. In a state of task involvement, effort is experienced as straightforwardly positive: more effort means better mastery. The differentiated conception of ability is not activated; failure does not imply incapacity.
 >
-> **See also:** [[mastery-goal-orientation]], [[intrinsic-motivation]], [[flow]], [[autonomous-motivation]]
+> **See also:** [[mastery-goal-orientation]], [[Intrinsic Motivation]], [[flow]], [[Autonomous Motivation]]
 
 > [!definition] **Ego Involvement (Nicholls, 1984)**
 > Ego involvement is a motivational state in which the person is oriented toward demonstrating or protecting judgments of their own ability relative to others. The standard of success is normative — one succeeds by outperforming peers, by demonstrating superior capacity. In a state of ego involvement, effort is instrumentally valued *only if* it produces normatively superior results; if it does not, effort expenditure provides evidence of limited capacity. This state activates the differentiated conception of ability and creates self-worth vulnerability.
@@ -365,7 +365,7 @@ The 3×2 framework has garnered empirical support but has not displaced the 2×2
 
 AGT does not stand alone in the motivational psychology landscape. Its richest theoretical integrations involve [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory]] (SDT), [[expectancy-value-theory]], and [[implicit-theory-of-intelligence|Implicit Theories of Intelligence]].
 
-The relationship with SDT is particularly generative. Both frameworks analyze motivation qualitatively — both are concerned not merely with *how much* motivation but with *what kind*. Mastery goals show strong theoretical and empirical overlap with SDT's [[intrinsic-motivation|intrinsic motivation]] and [[identified-regulation|identified regulation]], while performance-avoidance goals show strong overlap with [[introjected-regulation|introjected regulation]] (behavior driven by internal compulsion to maintain self-worth). The frameworks differ in their primary organizing principle: AGT organizes around the *standard for competence evaluation*, while SDT organizes around the *locus of causality and psychological need satisfaction*. A comprehensive motivational account of achievement behavior benefits from both frameworks' perspectives.
+The relationship with SDT is particularly generative. Both frameworks analyze motivation qualitatively — both are concerned not merely with *how much* motivation but with *what kind*. Mastery goals show strong theoretical and empirical overlap with SDT's [[Intrinsic Motivation|intrinsic motivation]] and [[identified-regulation|identified regulation]], while performance-avoidance goals show strong overlap with [[introjected-regulation|introjected regulation]] (behavior driven by internal compulsion to maintain self-worth). The frameworks differ in their primary organizing principle: AGT organizes around the *standard for competence evaluation*, while SDT organizes around the *locus of causality and psychological need satisfaction*. A comprehensive motivational account of achievement behavior benefits from both frameworks' perspectives.
 
 ---
 
@@ -482,7 +482,7 @@ Organizational goal structures — analogous to classroom goal structures — ca
 >
 > **This Report's Position:** The evidence supports a context-calibrated view: PAP goals are conditionally adaptive for competitive performance tasks but structurally incompatible with the motivational conditions that optimize learning, creative problem solving, and psychological well-being. Educational systems should resist the pragmatic temptation to leverage PAP goals for performance gains at the expense of the motivational foundations of lifelong learning.
 >
-> **See also:** [[performance-approach-goal]], [[intrinsic-motivation]], [[Self-Determination-Theory-—-Foundational-Report]], [[mastery-goal-orientation]]
+> **See also:** [[performance-approach-goal]], [[Intrinsic Motivation]], [[Self-Determination-Theory-—-Foundational-Report]], [[mastery-goal-orientation]]
 
 ---
 
@@ -537,12 +537,12 @@ AGT provides the richest account of the middle level and its connections downwar
 >
 > **Common Misconception:** Mastery goals do not preclude high absolute performance standards; they merely specify that success is self-referential or task-referenced rather than normatively comparative.
 >
-> **See also:** [[mastery-goal-orientation]], [[mastery-approach-goal]], [[intrinsic-motivation]], [[task-involvement]], [[mastery-oriented-response-pattern]]
+> **See also:** [[mastery-goal-orientation]], [[mastery-approach-goal]], [[Intrinsic Motivation]], [[task-involvement]], [[mastery-oriented-response-pattern]]
 
 > [!definition] **Performance Goal / Performance-Approach Goal (Ames, 1992; Elliot & Church, 1997)**
 > An achievement goal in which success is defined by normative superiority — demonstrating greater ability than others or avoiding demonstrations of inferior ability. In the 2×2 framework, the approach form seeks positive normative outcomes (outperforming); the avoidance form seeks to avoid negative normative outcomes (appearing incompetent).
 >
-> **See also:** [[performance-goal-orientation]], [[performance-approach-goal]], [[performance-avoidance-goal]], [[ego-involvement]], [[differentiated-conception-of-ability]]
+> **See also:** [[performance-goal-orientation]], [[performance-approach-goal]], [[performance-avoidance-goal]], [[ego-involvement]], [[conception-of-ability]]
 
 > [!definition] **2×2 Achievement Goal Framework (Elliot & McGregor, 2001)**
 > The dominant contemporary taxonomy in AGT, organizing achievement goals along two dimensions: definition (mastery vs. performance) × valence (approach vs. avoidance), generating four cells: mastery-approach, mastery-avoidance, performance-approach, performance-avoidance.
@@ -552,17 +552,17 @@ AGT provides the richest account of the middle level and its connections downwar
 > [!definition] **Differentiated Conception of Ability (Nicholls, 1984)**
 > The cognitive schema in which ability is understood as a stable capacity distinct from effort — such that high ability is evidenced by achieving superior outcomes with less effort. This conception is the foundation of performance goal activation and the mechanism by which effort expenditure under failure becomes self-threatening.
 >
-> **See also:** [[differentiated-conception-of-ability]], [[entity-theory-of-intelligence]], [[fixed-mindset]], [[ego-involvement]]
+> **See also:** [[conception-of-ability]], [[entity-theory-of-intelligence]], [[fixed-mindset]], [[ego-involvement]]
 
 > [!definition] **Ego Involvement (Nicholls, 1984)**
 > A motivational state in which the actor is oriented toward demonstrating or protecting judgments of their own ability relative to others, activating the differentiated conception of ability and making competence evaluation an ego-relevant threat rather than a learning resource.
 >
-> **See also:** [[ego-involvement]], [[performance-goal-orientation]], [[contingent-self-worth]], [[differentiated-conception-of-ability]]
+> **See also:** [[ego-involvement]], [[performance-goal-orientation]], [[contingent-self-worth]], [[conception-of-ability]]
 
 > [!definition] **Task Involvement (Nicholls, 1984)**
 > A motivational state in which the actor is oriented toward developing competence, mastering the task, or learning as an end in itself; the standard of success is self-referential or task-referential, and effort is unconditionally valuable.
 >
-> **See also:** [[mastery-goal-orientation]], [[intrinsic-motivation]], [[flow]], [[autonomous-motivation]]
+> **See also:** [[mastery-goal-orientation]], [[Intrinsic Motivation]], [[flow]], [[Autonomous Motivation]]
 
 > [!definition] **Implicit Theory of Intelligence (Dweck & Leggett, 1988)**
 > An individual's intuitive belief about whether intelligence is a fixed entity of limited stock (entity theory) or a malleable quality that grows through effort and learning (incremental theory). Entity theories predict performance goal adoption; incremental theories predict mastery goal adoption.
@@ -572,7 +572,7 @@ AGT provides the richest account of the middle level and its connections downwar
 > [!definition] **Helpless Response Pattern (Dweck, 1975; Dweck & Gillard, 1975)**
 > A motivational response pattern triggered by achievement difficulty or failure in performance-goal conditions, characterized by effort withdrawal, maladaptive attributions to stable factors (low ability), deteriorating performance, and negative affect — the opposite of the mastery-oriented response of maintained effort and adaptive strategy change.
 >
-> **See also:** [[helpless-response-pattern]], [[learned-helplessness]], [[attribution-theory]], [[performance-goal-orientation]]
+> **See also:** [[helpless-response-pattern]], [[learned-helplessness]], [[Attribution (Heider, 1958)]], [[performance-goal-orientation]]
 
 > [!definition] **Goal Structure (Ames, 1992)**
 > The achievement goal framework embedded in a learning or organizational environment — the pattern of practices, evaluation criteria, recognition systems, and competitive norms that collectively define what "success" means within that environment and thereby shape which goals participants adopt.
@@ -812,9 +812,9 @@ The following are structured seed prompts for spaced repetition practice, organi
 
 **Upstream Theoretical Connections:**
 - [[implicit-theory-of-intelligence]] / [[incremental-theory-of-intelligence]] / [[entity-theory-of-intelligence]] — Antecedent beliefs predicting goal adoption
-- [[differentiated-conception-of-ability]] — Cognitive architecture enabling performance goal activation
+- [[conception-of-ability]] — Cognitive architecture enabling performance goal activation
 - [[learned-helplessness]] — Historical precursor explaining the helpless response pattern
-- [[attribution-theory]] — Framework explaining how achievement outcomes are interpreted
+- [[Attribution (Heider, 1958)]] — Framework explaining how achievement outcomes are interpreted
 
 **Downstream and Applied Connections:**
 - [[self-regulated-learning]] / [[metacognition-and-self-regulated-learning]] — Goal orientation is a key component of the SRL cycle
@@ -828,12 +828,12 @@ The following are structured seed prompts for spaced repetition practice, organi
 - [[growth-mindset-theory]] — Applied/popular synthesis of Dweck's implicit theories work
 - [[self-efficacy-theory]] / [[self-efficacy]] — Complementary construct (perceived capability vs. purpose structure)
 - [[ego-involvement]] — Nicholls' parallel construct
-- [[intrinsic-motivation]] / [[intrinsic-motivation-and-extrinsic-motivation]] — Motivational quality framework
+- [[Intrinsic Motivation]] / [[intrinsic-motivation-and-extrinsic-motivation]] — Motivational quality framework
 - [[fourfold-motivational-architecture]] — Broader motivational taxonomy
 - [[cyclical-model-of-self-regulated-learning]] — SRL process model incorporating goals
 
 **Cross-Report Pathway (Recommended Reading Order):**
-1. [[attribution-theory]] → 2. **Achievement Goal Theory (this report)** → 3. [[Self-Determination-Theory-—-Foundational-Report]] → 4. [[self-regulated-learning]] → 5. [[feedback-design-for-autonomy-and-mastery]]
+1. [[Attribution (Heider, 1958)]] → 2. **Achievement Goal Theory (this report)** → 3. [[Self-Determination-Theory-—-Foundational-Report]] → 4. [[self-regulated-learning]] → 5. [[feedback-design-for-autonomy-and-mastery]]
 
 ---
 

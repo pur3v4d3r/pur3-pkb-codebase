@@ -243,14 +243,14 @@ The most pervasive cognitive barrier to effective communication is one that peop
 
 ### 2.2 The Self-Serving Attribution Error and Communication Asymmetry
 
-A cousin of confirmation bias is the **self-serving attribution asymmetry** — the documented tendency to attribute one's own communicative failures to external circumstances and others' communicative failures to their character or effort. When I am not understood, the listener didn't pay attention. When I don't understand someone else, they weren't clear. This asymmetry is documented in the attribution theory literature ([[attribution-theory]]) and has profound consequences for interpersonal communication.
+A cousin of confirmation bias is the **self-serving attribution asymmetry** — the documented tendency to attribute one's own communicative failures to external circumstances and others' communicative failures to their character or effort. When I am not understood, the listener didn't pay attention. When I don't understand someone else, they weren't clear. This asymmetry is documented in the attribution theory literature ([[Attribution (Heider, 1958)]]) and has profound consequences for interpersonal communication.
 
 > [!annotation] **Annotation: Confidence 4/5**
 > **Source basis:** The actor-observer asymmetry (Jones & Nisbett, 1971) and its self-serving variant are among the most replicated findings in social psychology. [[Actor-Observer-Bias]] documents that people explain their own behavior situationally and others' behavior dispositionally. Applied to communication, this predicts systematic disagreement about who is responsible for communicative failures — a prediction confirmed by research on relationship conflict (Gottman, 1994).
 >
 > **Alternatives considered:** (1) Some meta-analyses have found the actor-observer asymmetry is smaller and more variable than originally reported (Malle, 2006). This warrants downgrading the certainty of strong claims. (2) The self-serving variant may be culturally specific — research with East Asian participants finds attenuated effects. The claim should be understood as robust in Western, individualist cultural contexts with less certainty for cross-cultural application.
 
-Bernard Weiner's [[attribution-theory]] distinguishes attributions by their locus (internal vs. external), stability (stable vs. unstable), and controllability. These dimensions shape emotional responses — attributing failure to stable internal causes of the other person (they're a bad communicator) produces contempt and disengagement, while attributing it to unstable or controllable causes (they were distracted; I wasn't clear enough; we could try a different approach) preserves motivation to improve. Teaching communicators to audit their attributional tendencies is one of the more evidence-supported interventions in communication training.
+Bernard Weiner's [[Attribution (Heider, 1958)]] distinguishes attributions by their locus (internal vs. external), stability (stable vs. unstable), and controllability. These dimensions shape emotional responses — attributing failure to stable internal causes of the other person (they're a bad communicator) produces contempt and disengagement, while attributing it to unstable or controllable causes (they were distracted; I wasn't clear enough; we could try a different approach) preserves motivation to improve. Teaching communicators to audit their attributional tendencies is one of the more evidence-supported interventions in communication training.
 
 [**Attribution-Retraining-in-Communication**:: The practice of deliberately auditing causal explanations for communicative failures, challenging self-serving attributions by generating alternative explanations that locate causes in modifiable situations or behaviors rather than in fixed character traits of self or other.]
 
@@ -344,7 +344,7 @@ The term "active listening" is frequently invoked and rarely operationalized. In
 
 Organizational communication research has documented a robust finding: in high-stakes communicative contexts (performance reviews, negotiations, difficult conversations), people *prepare* extensively — mentally rehearse what they want to say — which paradoxically impairs their listening during the actual conversation. The mental bandwidth consumed by self-monitoring (Am I coming across well? Is this the right moment to make my point?) is bandwidth unavailable for attending to the other party's communication.
 
-[[cognitive-load-theory]] is directly applicable: when communicative demands exceed working memory capacity, performance degrades. Interlocutors who are simultaneously managing content, relationship, self-presentation, and emotional regulation are operating at or near cognitive capacity — which means their listening is operating on residual capacity. Reducing unnecessary cognitive load (through meditation or mindfulness before high-stakes conversations, through structured conversation frameworks that reduce the cognitive burden of deciding what to say, through written pre-work that offloads planning from working memory) has been shown to improve listening quality.
+[[Cognitive Load Theory (CLT)]] is directly applicable: when communicative demands exceed working memory capacity, performance degrades. Interlocutors who are simultaneously managing content, relationship, self-presentation, and emotional regulation are operating at or near cognitive capacity — which means their listening is operating on residual capacity. Reducing unnecessary cognitive load (through meditation or mindfulness before high-stakes conversations, through structured conversation frameworks that reduce the cognitive burden of deciding what to say, through written pre-work that offloads planning from working memory) has been shown to improve listening quality.
 
 [**Cognitive-Load-in-Listening**:: The working memory demand imposed by simultaneously processing incoming communication, managing self-presentation, regulating emotional responses, and preparing one's own contribution — which competes with attentional resources available for accurate comprehension, suggesting that reducing extraneous cognitive load through preparation, structure, and emotional regulation training improves listening quality.]
 
@@ -367,7 +367,7 @@ Organizational communication research has documented a robust finding: in high-s
 
 The most common recipe for ineffective communication is expertise without perspective-taking. When a domain expert communicates about their subject to a non-expert, they suffer from what psychologists call the **curse of knowledge** (Camerer, Loewenstein & Weber, 1989): having acquired knowledge, they cannot easily simulate what it is like to not have it. The expert's mental model is densely interconnected, full of assumed context and implicit relations among concepts. The novice's mental model is sparse, with few organizing frameworks and many conceptual gaps. The expert speaks from their mental model; the novice must construct understanding with their own.
 
-> [!key-claim] **Clarity is not a property of messages but an emergent outcome of the interaction between message content and the receiver's existing [[schema-theory|schematic]] knowledge — which means the same message will be clear to one receiver and opaque to another, making audience analysis a technical skill, not an optional nicety.**
+> [!key-claim] **Clarity is not a property of messages but an emergent outcome of the interaction between message content and the receiver's existing [[schema-theory-and-knowledge-organization|schematic]] knowledge — which means the same message will be clear to one receiver and opaque to another, making audience analysis a technical skill, not an optional nicety.**
 
 > [!annotation] **Annotation: Confidence 4/5**
 > **Source basis:** Camerer, Loewenstein & Weber (1989) on curse of knowledge; Nathan & Petrosino (2003) documenting expert blind spot in teachers; Barnett & Ceci (2002) on transfer and context-dependence of knowledge; and the extensive schema theory literature (Bartlett, 1932; Rumelhart, 1980). The practical claim that audience analysis is a "technical skill" goes beyond strict empirical evidence but is well-motivated by the convergent theoretical and applied literature.
@@ -378,7 +378,7 @@ The most common recipe for ineffective communication is expertise without perspe
 
 [**Curse-of-Knowledge-in-Communication**:: The systematic difficulty that experts experience in imagining what it is like to not know what they know — causing them to communicate as though receivers share their implicit knowledge, context, and conceptual frameworks, producing messages that are opaque to the very people they are trying to reach.]
 
-[[schema-theory]] is the cognitive architecture underlying this phenomenon. Schemata are organized knowledge structures that constrain interpretation — they determine what incoming information is noticed, how it is categorized, and what inferences are made from it. When a sender uses terminology or assumes conceptual relations for which the receiver lacks relevant schemata, communication fails not because the words are unclear but because the receiver has no cognitive structure on which to hang the meaning. Building clarity is therefore not about simplifying language alone but about **activating or providing the right schemata** before delivering the key message.
+[[schema-theory-and-knowledge-organization]] is the cognitive architecture underlying this phenomenon. Schemata are organized knowledge structures that constrain interpretation — they determine what incoming information is noticed, how it is categorized, and what inferences are made from it. When a sender uses terminology or assumes conceptual relations for which the receiver lacks relevant schemata, communication fails not because the words are unclear but because the receiver has no cognitive structure on which to hang the meaning. Building clarity is therefore not about simplifying language alone but about **activating or providing the right schemata** before delivering the key message.
 
 The pedagogical technique of [[advance-organizers]] (Ausubel, 1960) operationalizes this directly: providing structuring frameworks *before* detailed content prepares the receiver's schematic architecture to receive and organize that content. The practical communication equivalent is to begin with the big picture ("Here's what I'm going to tell you and why it matters to you") before moving to details — scaffolding the receiver's interpretive context rather than assuming it exists.
 
@@ -400,7 +400,7 @@ The key practical skill implied by common ground theory is **checking** — aski
 
 ### 4.3 Structure, Signposting, and the Receiver's Cognitive Load
 
-Beyond schema activation and common ground, clarity depends on structural fidelity — how well the message organization maps onto a cognitive architecture that receivers can process with low effort. Research on [[cognitive-load-theory]] shows that messages with clear hierarchical organization, explicit transitions, and redundant signposting reduce extraneous cognitive load, freeing working memory for genuine comprehension. Messages that require the receiver to infer structure impose load that competes with content processing.
+Beyond schema activation and common ground, clarity depends on structural fidelity — how well the message organization maps onto a cognitive architecture that receivers can process with low effort. Research on [[Cognitive Load Theory (CLT)]] shows that messages with clear hierarchical organization, explicit transitions, and redundant signposting reduce extraneous cognitive load, freeing working memory for genuine comprehension. Messages that require the receiver to infer structure impose load that competes with content processing.
 
 The practical implications are extensive: in written and spoken communication, signposting ("I'll cover three points: first... second... third...") reduces structure-inference load. Explicit transitions ("Now this connects to the previous point because...") support the integration of information across working memory's temporal limits. Summaries and previews both exploit the cognitive principle that the same information is easier to process after encountering it once — initial exposure creates schema that subsequent exposure can fill in. These are not stylistic preferences but cognitive engineering recommendations grounded in how memory and attention actually work.
 
@@ -687,7 +687,7 @@ The listening section became more prominent than planned because the metacogniti
 >
 > **Boundary condition:** Instructional communication differs from dyadic conversation in scale — a teacher cannot achieve the grounding loops that two conversational partners can. Advances in formative assessment (exit tickets, in-class questioning, think-pair-share) are partly compensatory strategies for the grounding deficit inherent in one-to-many communication.
 >
-> **Connection to vault:** [[andragogy]], [[Autonomy-Support-in-Teaching]], [[Hattie-&-Timperley-Feedback-Model]], [[cognitive-load-theory]], [[formative-feedback]]
+> **Connection to vault:** [[andragogy]], [[Autonomy-Support-in-Teaching]], [[Hattie-&-Timperley-Feedback-Model]], [[Cognitive Load Theory (CLT)]], [[formative-feedback]]
 
 > [!far-transfer] **Transfer Domain 2: Leadership Communication under Organizational Conditions**
 > **Structural principle:** Organizational communication layers on top of interpersonal communication dynamics additional complexity: hierarchical power differentials that amplify the threat dimension (leaders' casual evaluative comments carry disproportionate weight); institutional pressures that constrain message authenticity; and audiences large enough that common ground cannot be individually calibrated.
@@ -703,7 +703,7 @@ The listening section became more prominent than planned because the metacogniti
 >
 > The practical transfers: (1) Front-loading explicit context in written communication compensates for the absent common ground loop — state your audience's assumed knowledge level explicitly and flag when you're departing from it. (2) Emotional signals require deliberate explicit labeling in writing in ways they do not in face-to-face contexts — "I want to communicate genuine enthusiasm for this, not just pro forma approval" serves a function that prosody handles automatically in speech. (3) Email/Slack mediated conflict is especially vulnerable to escalation because defensive reactions cannot be self-soothed within the medium — the physiological regulation function has no conversational equivalent when messages arrive and depart asynchronously.
 >
-> **Connection to vault:** [[cognitive-load-theory]], [[audience-simulation-effect]], [[schema-theory]]
+> **Connection to vault:** [[Cognitive Load Theory (CLT)]], [[audience-simulation-effect]], [[schema-theory-and-knowledge-organization]]
 
 > [!far-transfer] **Transfer Domain 4: Transferring the Annotation Practice**
 > **Structural principle:** The practice of annotating your own claims with source basis, confidence level, and alternatives considered — which gives this report its distinctive form — is not limited to formal analysis. It represents an epistemic practice applicable whenever the reliability of your own reasoning matters.
@@ -1068,7 +1068,7 @@ A: A well-formed epistemic annotation contains: (1) **Source basis** — what ev
 
 > [!topic-idea] **Topic 3: Active Listening — Evidence-Based Practices and Training Research**
 > *Connection:* Section 3 of this report made claims about listening quality and metacognitive monitoring that would benefit from dedicated expansion. The listening research literature (Wolvin & Coakley, Brownell) is substantial enough to support a full reference note examining what specifically constitutes engaged listening, what training protocols have demonstrated effectiveness, and what the metacognitive monitoring of listening actually involves.
-> *Depth Potential:* Direct connection to [[metacognition]], [[nelson-narens-model]], [[cognitive-load-theory]], and therapeutic active listening research (Rogers' client-centered approach, motivational interviewing training).
+> *Depth Potential:* Direct connection to [[metacognition]], [[nelson-narens-model]], [[Cognitive Load Theory (CLT)]], and therapeutic active listening research (Rogers' client-centered approach, motivational interviewing training).
 > *Recommended Report Type:* Practitioner's Field Guide (skill-focused, protocols needed).
 > *Vault Connection:* [[metacognition]], [[dual-process-theory]], [[deliberate-practice]]
 
@@ -1085,9 +1085,9 @@ A: A well-formed epistemic annotation contains: (1) **Source basis** — what ev
 > [!connections-and-links] **Connections to Existing PKB Nodes**
 
 **Category 1: Cognitive Architecture and Processing**
-- [[cognitive-load-theory]] — direct connection (Sections 4, 3 use CLT extensively)
+- [[Cognitive Load Theory (CLT)]] — direct connection (Sections 4, 3 use CLT extensively)
 - [[dual-process-theory]] — direct connection (Section 2; fast/automatic vs. slow/deliberate processing explains many communication biases)
-- [[schema-theory]] — direct connection (Sections 1, 4; schemas as mental models that generate inference, fill gaps, and create the expert-novice gap)
+- [[schema-theory-and-knowledge-organization]] — direct connection (Sections 1, 4; schemas as mental models that generate inference, fill gaps, and create the expert-novice gap)
 - [[metacognition]] — direct connection (Sections 3, 7; metacognitive monitoring as communication practice)
 - [[working-memory]] — implicit connection (listening capacity as working memory resource; CLT foundation)
 - [[cognitive-architecture-of-learning]] — implicit connection (common ground building as cognitive load management)

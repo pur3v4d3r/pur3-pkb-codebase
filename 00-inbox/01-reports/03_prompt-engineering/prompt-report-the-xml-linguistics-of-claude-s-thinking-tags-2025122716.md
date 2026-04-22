@@ -226,7 +226,7 @@ XML tags likely exhibit high token salience because:
 
 ### 1.3 Distributed Cognition: Offloading to Structure
 
-Distributed cognition theory posits that cognitive processes extend across internal mental representations and external artifacts, with [[cognitive-offloading]] occurring when we use external structures to reduce internal processing demands. ^verified
+Distributed cognition theory posits that cognitive processes extend across internal mental representations and external artifacts, with [[Cognitive Offloading]] occurring when we use external structures to reduce internal processing demands. ^verified
 
 **The Classical Example from HCI**: ^established In airline cockpits, pilots use "speed bugs"—physical markers on speed indicators—as external memory aids. Rather than remembering target speeds internally, they offload this memory to the physical environment, freeing working memory for other tasks.
 
@@ -294,7 +294,7 @@ Research in cognitive science demonstrates that external representations are not
 > [!key-claim]
 > **Integration with Cognitive Load Theory**
 > 
-> [[cognitive-load-theory]] distinguishes three load types: ^verified
+> [[Cognitive Load Theory (CLT)]] distinguishes three load types: ^verified
 > - **Intrinsic Load**: Complexity inherent to the task
 > - **Extraneous Load**: Imposed by poor presentation
 > - **Germane Load**: Productive effort toward learning/problem-solving

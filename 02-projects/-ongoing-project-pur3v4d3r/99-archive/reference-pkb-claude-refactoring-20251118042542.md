@@ -31,7 +31,7 @@ aliases: [PKB Refactoring Dashboard, Naming Convention Update Center, Tag Migrat
 # 🏗️ PKB Refactoring Dashboard: Naming & Tag Migration Center
 
 > [!the-purpose]
-> **Mission**: This dashboard serves as your command center for systematically updating your [[personal-knowledge-base]] [[Naming Conventions]] and [[Tag Taxonomy]] while managing [[cognitive-load-theory|cognitive load]] and maintaining [[working-memory]] efficiency throughout the refactoring process.
+> **Mission**: This dashboard serves as your command center for systematically updating your [[personal-knowledge-base]] [[Naming Conventions]] and [[Tag Taxonomy]] while managing [[Cognitive Load Theory (CLT)|cognitive load]] and maintaining [[working-memory]] efficiency throughout the refactoring process.
 > 
 > **Why This Matters**: Refactoring a PKB's foundational structure is cognitively demanding work that requires sustained [[decision-making]], pattern recognition, and quality assurance. This dashboard externalizes that cognitive burden into a structured workflow that prevents [[Decision-Fatigue]] and ensures consistency.
 
@@ -100,7 +100,7 @@ SORT file.name ASC
 > - [ ] Audit existing naming patterns (use [[Dataview]] queries)  
 > - [ ] Identify inconsistencies and problem areas
 > - [ ] Catalog all [[Metadata Architecture]] fields in use
-> - [ ] Survey note types (count of [[atomic-notes]], [[Reference Notes]], [[MOC]] notes)
+> - [ ] Survey note types (count of [[atomic-note]], [[Reference Notes]], [[MOC]] notes)
 > - [ ] List pain points and desired improvements
 > 
 > ### Discovery Questions
@@ -551,7 +551,7 @@ LIMIT 20
 > - [[MOC]] - Map of Content creation and management
 > 
 > **Workflow Support Notes**:
-> - [[cognitive-load-theory]] - Understanding mental bandwidth
+> - [[Cognitive Load Theory (CLT)]] - Understanding mental bandwidth
 > - [[Decision-Fatigue]] - Managing choice exhaustion
 > - [[working-memory]] - Optimizing cognitive capacity
 > - [[Batch Processing]] - Efficient task grouping strategies
@@ -646,7 +646,7 @@ I'll create a comprehensive reference note with:
 - Examples and templates
 
 **Wiki-links to identify:**
-[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[obsidian]], [[zettelkasten]], [[para-method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information-Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[Dataview]], [[yaml-frontmatter]], [[Knowledge-Graph]], [[Information Retrieval]], [[cognitive-load]], [[mental-models]], [[MOC]], [[atomic-notes]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building-a-Second-Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
+[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[obsidian]], [[zettelkasten]], [[para-method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information-Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[Dataview]], [[yaml-frontmatter]], [[Knowledge-Graph]], [[Information Retrieval]], [[Cognitive Load Theory (CLT)]], [[mental-models]], [[MOC]], [[atomic-note]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building-a-Second-Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
 
 **Callouts to use (selecting 10-15 from the pool):**
 - [!definition] - for key terms
@@ -806,7 +806,7 @@ Personal tag vocabularies can be highly specific to your field or profession, cr
 > [!use-cases-and-examples]
 > **Note Type Taxonomy** — Identifies the structural and functional nature of the note:
 > 
-> - `#type/atomic` — Single-concept [[atomic-notes]] following [[zettelkasten]] principles
+> - `#type/atomic` — Single-concept [[atomic-note]] following [[zettelkasten]] principles
 > - `#type/reference` — Comprehensive resource notes with exhaustive coverage
 > - `#type/literature` — Notes from external sources (books, papers, articles)
 > - `#type/synthesis` — Integration notes connecting multiple concepts

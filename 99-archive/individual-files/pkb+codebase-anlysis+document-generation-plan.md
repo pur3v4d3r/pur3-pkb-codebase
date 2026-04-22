@@ -607,7 +607,7 @@ Final Composed Instruction
 **Format Application Example**:
 ```markdown
 In this section, we discuss %%extract-atomic: Germane Cognitive Load%% 
-which %%confidence: verified%% refers to [[schema-construction]]^prerequisite-for-this
+which %%confidence: verified%% refers to [[Schema Construction]]^prerequisite-for-this
 ```
 
 ##### **Level 7: atomic/personas/** (2+ files)
@@ -9104,10 +9104,10 @@ reviewed_date: YYYY-MM-DD
 ```markdown
 # Working Memory
 
-Working memory is [[cognitive-load-theory|CLT]]^foundation-for-this
+Working memory is [[Cognitive Load Theory (CLT)|CLT]]^foundation-for-this
 - Foundation relationship: CLT builds upon working memory research
 
-Related to [[schema-theory]]^complements
+Related to [[schema-theory-and-knowledge-organization]]^complements
 - Complementary relationship: Both explain knowledge organization
 
 See also [[long-term-memory]]^contrasts

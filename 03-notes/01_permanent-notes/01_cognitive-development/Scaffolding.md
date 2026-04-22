@@ -53,7 +53,7 @@ review-priority: medium
 # Scaffolding
 
 > [!definition]
-> - **Key-Term**:[[scaffolding]]
+> - **Key-Term**:[[Scaffolded Fading]]
 > - [**Definition**:Temporary, adjustable support enabling learners to accomplish tasks beyond their independent capability.]
 
 > [!evidence]

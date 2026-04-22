@@ -32,11 +32,11 @@ related_concepts:
   - "[[working-memory-in-reading]]"
   - "[[elaborative-rehearsal]]"
   - "[[spaced-repetition]]"
-  - "[[spacing-effect]]"
-  - "[[retrieval-practice]]"
-  - "[[desirable-difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[transfer-of-learning]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[incidental-learning]]"
   - "[[stanovich]]"
   - "[[reading-fluency]]"
@@ -227,7 +227,7 @@ The phrase "vocabulary building" is deceptively simple. It implies a binary: you
 >
 > **Operational Indicator:** A reader who finishes a novel having learned three new words without having looked any of them up has engaged in incidental acquisition. A reader who stops at each unfamiliar word and records it for later review is transitioning toward intentional acquisition.
 >
-> **See also:** [[incidental-learning]], [[elaborative-interrogation]], [[spaced-repetition]]
+> **See also:** [[incidental-learning]], [[Elaborative Interrogation]], [[spaced-repetition]]
 
 > [!definition] **The Coverage Threshold Hypothesis (Nation & Waring, 1997)**
 > The empirical claim that efficient incidental vocabulary acquisition from reading requires that a reader already knows approximately 98% of the running words in a text — equivalently, that no more than about 1 unknown word occurs per 50 running words. Below this threshold, comprehension degrades sufficiently that the cognitive resources necessary for inferring unfamiliar word meanings are unavailable.
@@ -256,7 +256,7 @@ The field often presents incidental and intentional vocabulary acquisition as op
 A critical architectural fact about vocabulary learning is that a single encounter with a word — even a rich, contextually clear encounter — is almost never sufficient for reliable retention. The research consensus is that a word must be encountered multiple times before it is reliably stored in [[semantic-memory]]. But "multiple times" is itself misleading, because the quality of processing at each encounter matters at least as much as the raw count.
 
 > [!key-claim] **The Frequency-Depth Trade-off**
-> The research literature on vocabulary learning reveals a fundamental trade-off: shallow exposures require many more repetitions to produce retention than deep exposures. A word encountered and deeply processed once (with morphological analysis, contextual inference, and meaning elaboration) will be retained more reliably than a word shallowly encountered ten times. This trade-off is not unique to vocabulary — it reflects the general principle of [[elaborative-rehearsal]] and [[desirable-difficulties]] in learning science. What is distinctive about natural reading is that it systematically favors shallow processing: the primary goal is comprehension, not word learning, so depth of engagement with any individual word is limited by the competing demands of text processing.
+> The research literature on vocabulary learning reveals a fundamental trade-off: shallow exposures require many more repetitions to produce retention than deep exposures. A word encountered and deeply processed once (with morphological analysis, contextual inference, and meaning elaboration) will be retained more reliably than a word shallowly encountered ten times. This trade-off is not unique to vocabulary — it reflects the general principle of [[elaborative-rehearsal]] and [[Desirable Difficulties (Robert Bjork, 1994)]] in learning science. What is distinctive about natural reading is that it systematically favors shallow processing: the primary goal is comprehension, not word learning, so depth of engagement with any individual word is limited by the competing demands of text processing.
 
 This section has established the layered nature of lexical knowledge, the distinction between incidental and intentional modes of acquisition, the coverage threshold as a prerequisite for efficient incidental learning, and the fundamental tension between reading fluency and vocabulary depth. These frameworks will anchor the evidential analysis that follows: the question is not whether reading builds vocabulary but *under what conditions* and *at what rate* — and the answers are more sobering than the optimistic folk theory suggests.
 
@@ -329,7 +329,7 @@ The "10 exposures" figure became a kind of folklore in vocabulary instruction, b
 ## Phase IV: Mechanisms, Dynamics & Deep Analysis
 
 > [!important] **Complexity Transition**
-> The analysis ahead moves beneath the evidence to the cognitive mechanisms that explain the patterns found. It builds directly on the coverage threshold (Phase II), the rate findings (Phase III), and requires familiarity with [[working-memory-in-reading]] and [[cognitive-architecture]]. If these feel solid, proceed. If shaky, a moment with those notes will pay dividends.
+> The analysis ahead moves beneath the evidence to the cognitive mechanisms that explain the patterns found. It builds directly on the coverage threshold (Phase II), the rate findings (Phase III), and requires familiarity with [[working-memory-in-reading]] and [[Cognitive Architecture]]. If these feel solid, proceed. If shaky, a moment with those notes will pay dividends.
 
 ### The Context-Inference Mechanism: A Closer Look
 
@@ -541,9 +541,9 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 
 > [!connections-and-links] **This Report in the Knowledge Graph**
 
-**Upstream Dependencies:** This analysis builds directly on [[verbal-efficiency-theory]] (Perfetti's account of how lexical quality affects reading efficiency), [[working-memory-in-reading]] (the cognitive architecture that constrains the inference process), and [[incidental-learning]] (the broader category of which reading-based vocabulary acquisition is a specific instance). [[schema-theory]] provides the theoretical grounding for why prior knowledge (coverage) enables new learning, and [[simple-view-of-reading]] frames the relationship between decoding, language comprehension, and vocabulary knowledge.
+**Upstream Dependencies:** This analysis builds directly on [[verbal-efficiency-theory]] (Perfetti's account of how lexical quality affects reading efficiency), [[working-memory-in-reading]] (the cognitive architecture that constrains the inference process), and [[incidental-learning]] (the broader category of which reading-based vocabulary acquisition is a specific instance). [[schema-theory-and-knowledge-organization]] provides the theoretical grounding for why prior knowledge (coverage) enables new learning, and [[simple-view-of-reading]] frames the relationship between decoding, language comprehension, and vocabulary knowledge.
 
-**Downstream Applications:** This analysis directly grounds and explains the reading-fluency notes: [[reading-fluency]], [[silent-reading-fluency]], and [[oral-reading-fluency]] all implicitly depend on the vocabulary-coverage-fluency loop that the Cognitive Slack Model makes explicit. The analysis also feeds into [[spaced-repetition]] by explaining why intentional vocabulary study should be designed to encode words that reading has begun to develop — not as a replacement for reading exposure but as a consolidation mechanism for words encountered in reading. [[desirable-difficulties]] connects here because the conditions for efficient vocabulary acquisition (challenge level reading, deep processing, inferential effort) are all instances of desirable difficulty.
+**Downstream Applications:** This analysis directly grounds and explains the reading-fluency notes: [[reading-fluency]], [[silent-reading-fluency]], and [[oral-reading-fluency]] all implicitly depend on the vocabulary-coverage-fluency loop that the Cognitive Slack Model makes explicit. The analysis also feeds into [[spaced-repetition]] by explaining why intentional vocabulary study should be designed to encode words that reading has begun to develop — not as a replacement for reading exposure but as a consolidation mechanism for words encountered in reading. [[Desirable Difficulties (Robert Bjork, 1994)]] connects here because the conditions for efficient vocabulary acquisition (challenge level reading, deep processing, inferential effort) are all instances of desirable difficulty.
 
 **Lateral Connections:** [[dual-coding-theory]] offers a complementary account of why rich contextual reading (verbal + imagistic content) builds richer lexical representations than definitional study alone. [[situation-models-in-text-comprehension]] connects because building a situation model of a text requires and develops the vocabulary needed to represent the text's domain — vocabulary acquisition and situation model construction are mutually reinforcing processes. [[stanovich]] connects as the source of the Matthew Effect empirical foundation. [[transfer-of-learning]] connects directly to Phase VII's transfer analysis.
 
@@ -603,18 +603,18 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 >
 > **Report-Specific Significance:** Morphological knowledge functions as a force multiplier — one piece of morphological knowledge (a root or affix) increases the inferrability of dozens or hundreds of derived words, amplifying the return on every reading encounter with unfamiliar vocabulary.
 >
-> **See also:** [[dual-coding-theory]], [[schema-theory]], [[transfer-of-learning]], [[reading-fluency]]
+> **See also:** [[dual-coding-theory]], [[schema-theory-and-knowledge-organization]], [[transfer-of-learning]], [[reading-fluency]]
 
 > [!definition] **Cognitive Slack (original construct, this report)**
 > The available working memory capacity remaining after a reader has allocated resources to text comprehension and decoding — the residual cognitive budget from which vocabulary inference draws during reading. Cognitive slack is zero or negative when a text demands all available working memory for comprehension; it is positive when reading is automatic and fluent enough that capacity remains.
 >
-> **Boundary:** "Cognitive slack" is a theoretical construct introduced in this report to describe the mechanistic link between the coverage threshold and vocabulary acquisition rates. It is not a standard term in the psycholinguistics literature, though it integrates established concepts from working memory theory, [[cognitive-load-theory]], and the [[verbal-efficiency-theory]].
+> **Boundary:** "Cognitive slack" is a theoretical construct introduced in this report to describe the mechanistic link between the coverage threshold and vocabulary acquisition rates. It is not a standard term in the psycholinguistics literature, though it integrates established concepts from working memory theory, [[Cognitive Load Theory (CLT)]], and the [[verbal-efficiency-theory]].
 >
 > **Operational Indicator:** A reader who reads fluently and notices an unfamiliar word, pauses briefly, successfully infers its meaning, and continues — without experiencing disruption to overall text comprehension — is exhibiting positive cognitive slack.
 >
 > **Report-Specific Significance:** This construct explains why the coverage threshold is not merely statistical — it reflects a working-memory tipping point above which inference is possible and below which it is not.
 >
-> **See also:** [[working-memory-in-reading]], [[cognitive-architecture]], [[intrinsic-cognitive-load]], [[elaborative-rehearsal]]
+> **See also:** [[working-memory-in-reading]], [[Cognitive Architecture]], [[Cognitive Load Theory (CLT)]], [[elaborative-rehearsal]]
 
 > [!definition] **Matthew Effect in Reading (Stanovich, 1986)**
 > The compounding advantage that skilled readers with larger vocabularies accumulate over time: greater vocabulary facilitates more efficient reading, which enables more extensive reading, which builds more vocabulary, which further facilitates reading. Named after Matthew 25:29, the biblical passage about the rich getting richer. Stanovich proposed this as an explanation for why reading achievement differences between children tend to widen over time rather than narrow.
@@ -636,7 +636,7 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 >
 > **Report-Specific Significance:** Context directiveness is one of the key variables in the acquisition rate equation — natural text provides directive contexts for a minority of unfamiliar word encounters, which explains why raw frequency of reading cannot fully substitute for intentional study.
 >
-> **See also:** [[situation-models-in-text-comprehension]], [[inferential-bridging]], [[incidental-learning]], [[elaborative-interrogation]]
+> **See also:** [[situation-models-in-text-comprehension]], [[inferential-bridging]], [[incidental-learning]], [[Elaborative Interrogation]]
 
 > [!definition] **Depth of Processing (Craik & Lockhart, 1972)**
 > A framework holding that memory retention is a function of the depth at which information is processed during encoding, with semantic processing (connecting meaning to existing knowledge) producing more durable representations than phonological processing (attending to sound) or orthographic processing (attending to form). Applied to vocabulary learning: processing a word's meaning in relation to existing semantic knowledge produces more durable lexical representations than processing only its form or approximate contextual approximation.
@@ -647,7 +647,7 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 >
 > **Report-Specific Significance:** Depth of processing explains the depth-frequency multiplier principle — why a few deep processing encounters outperform many shallow ones in vocabulary retention.
 >
-> **See also:** [[elaborative-rehearsal]], [[desirable-difficulties]], [[retrieval-practice]], [[long-term-memory]]
+> **See also:** [[elaborative-rehearsal]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[long-term-memory]]
 
 > [!definition] **Verbal Efficiency Theory (Perfetti, 1985)**
 > A theory of reading comprehension proposing that skilled reading requires fast, autonomous activation of word meanings — "verbal efficiency" — such that lexical access consumes minimal working memory resources. Verbal efficiency is a function of lexical quality: words with high-quality memory representations are accessed automatically, leaving working memory available for higher-order comprehension. Words with low-quality representations require effortful processing that competes with comprehension.
@@ -665,7 +665,7 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 >
 > **Report-Specific Significance:** This construct integrates the depth-of-processing literature with the vocabulary acquisition literature into a single actionable principle for deliberate practice design — prioritizing depth of encounter over frequency of encounter when designing vocabulary practice.
 >
-> **See also:** [[elaborative-rehearsal]], [[desirable-difficulties]], [[spaced-repetition]], [[retrieval-practice]]
+> **See also:** [[elaborative-rehearsal]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[spaced-repetition]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 ---
 
@@ -760,7 +760,7 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 > **This Report's Stance:** The coverage threshold analysis strongly supports a breadth-first strategy for readers who have not yet reached 98% coverage of their target genre. The depth-frequency multiplier then argues for depth once coverage is established — not as either/or but as sequential.
 
 > [!open-question] **What Is the Role of Affect and Engagement in Incidental Vocabulary Acquisition?**
-> The Cognitive Slack Model focuses on working-memory-level mechanisms, but the research literature on [[intrinsic-motivation]] and reading suggests that affective engagement during reading has independent effects on retention beyond what working memory models predict. Specifically: do readers who are deeply absorbed in a narrative text acquire vocabulary more efficiently than readers processing informationally equivalent text with lower engagement? And if so, through what mechanism — deeper processing prompted by interest, or direct effects of arousal/affect on memory consolidation? This question remains under-researched in the vocabulary acquisition literature, particularly for adult readers.
+> The Cognitive Slack Model focuses on working-memory-level mechanisms, but the research literature on [[Intrinsic Motivation]] and reading suggests that affective engagement during reading has independent effects on retention beyond what working memory models predict. Specifically: do readers who are deeply absorbed in a narrative text acquire vocabulary more efficiently than readers processing informationally equivalent text with lower engagement? And if so, through what mechanism — deeper processing prompted by interest, or direct effects of arousal/affect on memory consolidation? This question remains under-researched in the vocabulary acquisition literature, particularly for adult readers.
 
 ---
 
@@ -1087,15 +1087,15 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 > > **Connection to This Report:** Directly follows from Phase IV's morphological leverage analysis and the deliberate practice protocol in Appendix G.
 > > **Priority:** Critical
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[morphological-knowledge]], [[verbal-efficiency-theory]], [[schema-theory]]
+> > **Prerequisites:** [[morphological-knowledge]], [[verbal-efficiency-theory]], [[schema-theory-and-knowledge-organization]]
 >
 > > [!topic-idea] [[Spaced-Repetition-Systems-and-Vocabulary-Depth]]
-> > An analysis of how spaced repetition systems ([[spaced-repetition]], [[spacing-effect]]) can be designed specifically to develop deep lexical knowledge — not just recognition-level form-meaning mapping but collocational, morphological, and register knowledge. The report would examine the evidence on card design for depth (cloze cards vs. definition cards vs. production cards), the spacing algorithm implications of building full lexical quality, and how SR practice integrates with extensive reading to create the dual-mode acquisition system identified in Phase V.
+> > An analysis of how spaced repetition systems ([[spaced-repetition]], [[Desirable Difficulties (Robert Bjork, 1994)]]) can be designed specifically to develop deep lexical knowledge — not just recognition-level form-meaning mapping but collocational, morphological, and register knowledge. The report would examine the evidence on card design for depth (cloze cards vs. definition cards vs. production cards), the spacing algorithm implications of building full lexical quality, and how SR practice integrates with extensive reading to create the dual-mode acquisition system identified in Phase V.
 > >
 > > **Connection to This Report:** The complement hypothesis in Phase V identifies SR as the intentional study mode that fills what reading cannot provide. This report would design the optimal SR practice for vocabulary.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[spaced-repetition-systems]], [[spacing-effect]], [[elaborative-rehearsal]], [[retrieval-practice]]
+> > **Prerequisites:** [[spaced-repetition-systems]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[elaborative-rehearsal]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 >
 > > [!topic-idea] [[The-Simple-View-of-Reading-and-Vocabulary]]
 > > A focused analysis of how the Simple View of Reading (Gough & Tunmer, 1986: Reading Comprehension = Decoding × Language Comprehension) positions vocabulary within the reading comprehension architecture. The analysis would examine how vocabulary contributes to the "language comprehension" component, how the SVC model relates to the Verbal Efficiency Theory, and what the model implies for vocabulary instruction at different developmental stages.
@@ -1119,7 +1119,7 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 > > **Connection to This Report:** Extends the Matthew Effect analysis from Phase I/IV beyond vocabulary to general cognitive outcomes of extensive reading.
 > > **Priority:** Medium
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[stanovich]], [[schema-theory]], [[situated-learning-theory]]
+> > **Prerequisites:** [[stanovich]], [[schema-theory-and-knowledge-organization]], [[situated-learning-theory]]
 >
 > > [!topic-idea] [[Deliberate-Vocabulary-Practice-Design-for-Advanced-Learners]]
 > > A practical, protocol-oriented report synthesizing the evidence on deliberate vocabulary practice design for adults who have already reached the 98% coverage threshold for general text. This report would address: what vocabulary levels to target next (academic word lists, domain-specific vocabulary, literary vocabulary), how to integrate intentional study with reading practice for mutual reinforcement, and how to design SR cards for full lexical quality rather than just recognition. This is the direct practical application of the complement hypothesis.
@@ -1127,7 +1127,7 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 > > **Connection to This Report:** Phase V's conclusion that reading and intentional study are complements with different functions leaves open the question of how to optimally design the intentional study component. This topic fills that gap.
 > > **Priority:** Critical
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[spaced-repetition-systems]], [[desirable-difficulties]], [[retrieval-practice]], [[elaborative-rehearsal]]
+> > **Prerequisites:** [[spaced-repetition-systems]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[elaborative-rehearsal]]
 
 ---
 
@@ -1143,9 +1143,9 @@ The depth-frequency multiplier principle — that depth of processing at each ex
 >
 > - **[[working-memory-in-reading]]** — The specific application of working memory theory to reading provides the mechanistic scaffolding for understanding why cognitive slack is constrained by text difficulty. This report adds specific vocabulary-acquisition dynamics to that existing node.
 >
-> - **[[desirable-difficulties]]** — The depth-frequency multiplier principle is grounded in the desirable difficulties literature. Processing unfamiliar words deeply (with inferential effort rather than skipping) is a form of desirable difficulty. This report strengthens that connection by showing a specific mechanism through which difficulty produces learning.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The depth-frequency multiplier principle is grounded in the desirable difficulties literature. Processing unfamiliar words deeply (with inferential effort rather than skipping) is a form of desirable difficulty. This report strengthens that connection by showing a specific mechanism through which difficulty produces learning.
 >
-> - **[[schema-theory]]** — The coverage threshold reflects the role of prior knowledge (existing lexical schema) as a prerequisite for new learning. Schema theory provides the theoretical grounding for why prior vocabulary enables vocabulary acquisition through reading.
+> - **[[schema-theory-and-knowledge-organization]]** — The coverage threshold reflects the role of prior knowledge (existing lexical schema) as a prerequisite for new learning. Schema theory provides the theoretical grounding for why prior vocabulary enables vocabulary acquisition through reading.
 >
 > **Downstream Applications (this report enables):**
 >

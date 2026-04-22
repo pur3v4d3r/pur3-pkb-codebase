@@ -166,7 +166,7 @@ When establishing connections between concepts, encode the semantic relationship
 
 **Narrative Integration:**
 ```markdown
-[[cognitive-load-theory]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[information-processing-theory]].
+[[Cognitive Load Theory (CLT)]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[information-processing-theory]].
 ```
 
 **Complex Multi-Relation:**
@@ -176,7 +176,7 @@ When establishing connections between concepts, encode the semantic relationship
 
 **With Annotations:**
 ```markdown
-[**Relationship**:: [[CLT]] →(applied-in)→ [[instructional-design]] | annotation:"primary application domain since 1980s"]
+[**Relationship**:: [[Cognitive Load Theory (CLT)]] →(applied-in)→ [[instructional-design]] | annotation:"primary application domain since 1980s"]
 ```
 </syntax_specification>
 
@@ -642,7 +642,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[cognitive-load-theory]] — primary extension
+> - [[Cognitive Load Theory (CLT)]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
@@ -1500,11 +1500,11 @@ Explicitly connect concepts to foundational mental models.
 ### Two-Way Model Use
 
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[cognitive-load-theory]]?"
+"How does [[First Principles Thinking]] illuminate [[Cognitive Load Theory (CLT)]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 
 **Concept → Lens** (Projection):
-"How can [[cognitive-load-theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[Cognitive Load Theory (CLT)]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 

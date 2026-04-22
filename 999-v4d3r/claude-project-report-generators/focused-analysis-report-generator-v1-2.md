@@ -21,14 +21,14 @@ related_concepts:
   - "[[Focused Analysis Architecture]]"
   - "[[Chain of Density]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
   - "[[transfer-of-learning]]"
   - "[[far-transfer]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
 knowledge_level: advanced
 tags:
   - prompt-engineering
@@ -480,7 +480,7 @@ Execute in `<thinking>` blocks during report planning:
 
 ### Schema Activation Protocol
 
-[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[advance-organizer]] theory (Ausubel, 1960) and [[schema-theory]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
+[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[advance-organizer]] theory (Ausubel, 1960) and [[schema-theory-and-knowledge-organization]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
 
 Place the following at the opening of Phase I, before any analytical content:
 

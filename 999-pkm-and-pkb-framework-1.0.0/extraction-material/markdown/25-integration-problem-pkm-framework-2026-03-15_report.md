@@ -398,7 +398,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[schema-theory|Schema Theory]] and [[assimilation-and-accommodation|Assimilation and Accommodation]]** — The integration mechanisms in this report — particularly the distinction between enrichment, revision, and framework theory change — are the full elaboration of the assimilation/accommodation distinction introduced in [[Report-01]]. This report reveals that accommodation is a spectrum, not a binary, and that most PKB practice produces only weak accommodation. The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] from Report 01 now has a topological specification: a PKB cognitively aligned with the mind's semantic architecture is one with small-world topology.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]] and [[assimilation-and-accommodation|Assimilation and Accommodation]]** — The integration mechanisms in this report — particularly the distinction between enrichment, revision, and framework theory change — are the full elaboration of the assimilation/accommodation distinction introduced in [[Report-01]]. This report reveals that accommodation is a spectrum, not a binary, and that most PKB practice produces only weak accommodation. The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] from Report 01 now has a topological specification: a PKB cognitively aligned with the mind's semantic architecture is one with small-world topology.
 > 
 > - **[[inert-knowledge|Inert Knowledge]] and [[transfer-of-learning|Transfer of Learning]]** — [[Report 11]] established that transfer failure is the characteristic problem of knowledge learned in isolation from application contexts. This report reveals the deeper mechanism: inert knowledge is a topological failure — a node with correct content but incorrect conceptual edges. Transfer requires traversal of the network from learning context to application context; if the path doesn't exist (no bridge notes connecting them), transfer fails. The bridge-note creation practice developed here is, at a deeper level, a transfer-engineering practice.
 > 
@@ -629,7 +629,7 @@ extraction_summary:
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
 - [[SECI-Model|SECI Model]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Science and Technology Studies]]
 - [[Small-World-Networks|Small-World Networks]]
 - [[Small-World-PKB-Principle|Small-World PKB Principle]]
@@ -669,7 +669,7 @@ extraction_summary:
 | 22 | [[SECI-Model|SECI Model]] | — | — | The Synthesis Question | 134 |
 | 23 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 24 | [[Report-01]] | — | — | Scope, Dependencies, and Roadmap | 140 |
-| 25 | [[schema-theory|Schema Theory]] | — | — | Scope, Dependencies, and Roadmap | 140 |
+| 25 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 26 | [[Report-03]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 27 | [[Report 11]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 28 | [[Report 20]] | — | — | Scope, Dependencies, and Roadmap | 140 |
@@ -710,7 +710,7 @@ extraction_summary:
 | 63 | [[Collins-and-Loftus|Collins and Loftus]] | — | — | The Three Integration Mechanisms | 281 |
 | 64 | [[spreading-activation|Spreading Activation]] | — | — | The Three Integration Mechanisms | 281 |
 | 65 | [[Report 20]] | — | — | The Three Integration Mechanisms | 281 |
-| 66 | [[schema-theory|Schema Theory]] | — | — | The Three Integration Mechanisms | 290 |
+| 66 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | The Three Integration Mechanisms | 290 |
 | 67 | [[Report-01]] | — | — | The Three Integration Mechanisms | 290 |
 | 68 | [[knowledge-management|Knowledge Management]] | — | — | The Three Integration Mechanisms | 303 |
 | 69 | [[Science and Technology Studies]] | — | — | The Three Integration Mechanisms | 303 |
@@ -719,11 +719,11 @@ extraction_summary:
 | 72 | [[david-ausubel|David Ausubel]] | — | — | The Integration Failure Cascade | 333 |
 | 73 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Integration Failure Cascade | 333 |
 | 74 | [[Report-01]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
-| 75 | [[schema-theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
+| 75 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
 | 76 | [[assimilation-and-accommodation|Assimilation and Accommodation]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
 | 77 | [[Report 17]] | — | — | Design Principle 5: Use Note-Making a... | 392 |
 | 78 | [[inert-knowledge|Inert Knowledge]] | — | — | Return-and-Deepen: Inert Knowledge, T... | 456 |
-| 79 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
+| 79 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
 | 80 | [[assimilation-and-accommodation|Assimilation and Accommodation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
 | 81 | [[Report-01]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
 | 82 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
@@ -819,7 +819,7 @@ extraction_summary:
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
 - [[SECI-Model|SECI Model]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Science and Technology Studies]]
 - [[Small-World-Networks|Small-World Networks]]
 - [[Small-World-PKB-Principle|Small-World PKB Principle]]

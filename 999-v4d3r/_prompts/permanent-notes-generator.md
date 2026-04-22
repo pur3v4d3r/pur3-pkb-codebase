@@ -463,7 +463,7 @@ importance: "{critical | high | medium | low}"
 
 ### Metadata Generation Rules
 
-1. **Title**: Must exactly match the intended wiki-link text. If the report uses `[[cognitive-load-theory]]`, the title is `"Cognitive Load Theory"`.
+1. **Title**: Must exactly match the intended wiki-link text. If the report uses `[[Cognitive Load Theory (CLT)]]`, the title is `"Cognitive Load Theory"`.
 
 2. **Aliases**: Include abbreviations (CLT), alternative phrasings (Cognitive Overload Theory), full formal names, and any other text that someone might use to search for or link to this concept. Minimum 2 aliases, aim for 4-6.
 
@@ -515,7 +515,7 @@ Every wiki-link in a permanent note represents a promise: "This concept exists (
 ```
 
 **Naming Examples:**
-- `[[cognitive-load-theory]]` → File: `Cognitive Load Theory.md`
+- `[[Cognitive Load Theory (CLT)]]` → File: `Cognitive Load Theory.md`
 - `[[metacognition]]` → File: `Metacognition.md`
 - `[[dual-process-theory]]` → File: `Dual Process Theory.md`
 - `[[transfer-of-learning]]` → File: `Transfer of Learning.md`
@@ -852,7 +852,7 @@ prerequisites:
 
 related:
   - "[[metacognition]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[dual-process-theory]]"
   - "[[expertise-development]]"
   - "[[self-regulated-learning]]"
@@ -862,9 +862,9 @@ broader:
   - "[[educational-psychology]]"
 
 narrower:
-  - "[[intrinsic-cognitive-load]]"
-  - "[[extraneous-cognitive-load]]"
-  - "[[germane-cognitive-load]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[split-attention-effect]]"
 
 see-also:
@@ -897,7 +897,7 @@ expansion-topics:
   - topic: "[[Cognitive Load Measurement Methods]]"
     description: "Techniques for measuring cognitive load in real-time (dual-task, subjective scales, physiological)"
     priority: medium
-  - topic: "[[expertise-reversal-effect]]"
+  - topic: "[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]"
     description: "How optimal instructional strategies reverse as learners gain expertise"
     priority: high
 
@@ -922,7 +922,7 @@ Cognitive Load Theory (CLT) is a framework within [[cognitive-psychology]] and [
 ## The Three Load Types
 
 > [!definition] **Intrinsic Cognitive Load**
-> The inherent difficulty of the material itself, determined by the number of interacting elements that must be processed simultaneously. Intrinsic load cannot be altered by instructional design — it is a property of the content relative to the learner's existing [[schema-theory|schema]] development.
+> The inherent difficulty of the material itself, determined by the number of interacting elements that must be processed simultaneously. Intrinsic load cannot be altered by instructional design — it is a property of the content relative to the learner's existing [[schema-theory-and-knowledge-organization|schema]] development.
 
 > [!definition] **Extraneous Cognitive Load**
 > The unnecessary cognitive burden imposed by poor instructional design. This includes split attention effects (where learners must mentally integrate spatially or temporally separated information), redundancy effects, and other design failures that consume working memory without contributing to learning.

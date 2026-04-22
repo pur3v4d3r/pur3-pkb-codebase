@@ -446,7 +446,7 @@ Beyond template-based generation, Text Generator supports inline commands for ra
 
 ### Auto-Suggest Integration
 
-Recent versions include experimental auto-suggest with placeholder support in prompt settings. This feature provides inline completion suggestions as you type, similar to [[github-copilot]]:
+Recent versions include experimental auto-suggest with placeholder support in prompt settings. This feature provides inline completion suggestions as you type, similar to [[GitHub Copilot]]:
 
 **Configuration**:
 1. Enable "Auto-suggest" in Text Generator settings

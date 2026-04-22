@@ -125,8 +125,8 @@ prerequisites:
   - "[[appraisal-theory]]"
 
 related:
-  - "[[schema-theory|Schema Theory]]"
-  - "[[attribution-theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy]]"
   - "[[self-determination-theory|Self-Determination Theory]]"
   - "[[metacognition]]"
@@ -168,8 +168,8 @@ applied-in:
 builds-on:
   - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[behavioral-science]]"
-  - "[[attribution-theory]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[Attribution (Heider, 1958)]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
 
 enables:
   - "[[cognitive-behavioral-therapy|Cognitive-Behavioral Therapy]]"
@@ -318,12 +318,12 @@ Modern psychodynamic approaches — including attachment-based therapy, mentaliz
 
 ### Cognitive-Behavioral Therapy
 
-[[cognitive-behavioral-therapy|Cognitive-Behavioral Therapy]] is the most extensively researched psychotherapy tradition and has achieved something approaching the status of a default standard of care in many treatment guidelines. Its theoretical foundation integrates Beck's cognitive model with behavioral principles derived from learning theory. The cognitive model proposes that psychological disorders are maintained by characteristic patterns of dysfunctional thinking — specific cognitive content (automatic thoughts and images), underlying rules and assumptions (intermediate beliefs), and deep [[schema-theory|core schemas]] about the self, world, and future that were formed in early experience and are activated by current stressors.
+[[cognitive-behavioral-therapy|Cognitive-Behavioral Therapy]] is the most extensively researched psychotherapy tradition and has achieved something approaching the status of a default standard of care in many treatment guidelines. Its theoretical foundation integrates Beck's cognitive model with behavioral principles derived from learning theory. The cognitive model proposes that psychological disorders are maintained by characteristic patterns of dysfunctional thinking — specific cognitive content (automatic thoughts and images), underlying rules and assumptions (intermediate beliefs), and deep [[schema-theory-and-knowledge-organization|core schemas]] about the self, world, and future that were formed in early experience and are activated by current stressors.
 
 > [!key-claim] **Beck's Cognitive Model**
 > Psychological distress is mediated by the content and structure of cognition. In depression, the "cognitive triad" — negative views of the self, the world, and the future — generates and maintains low mood and behavioral withdrawal. In anxiety, threat appraisal is inflated and coping capacity underestimated. These patterns are not merely epiphenomenal: they cause and maintain the disorder, not simply reflect it. Changing them is therefore therapeutically necessary, not merely palliative. The change mechanism involves collaborative empirical investigation of beliefs — treating thoughts as hypotheses to be tested rather than facts to be accepted — and the deliberate construction of new behavioral experiences that disconfirm maladaptive beliefs.
 
-This theoretical account has deep continuity with your PKB's existing frameworks. Beck's core schemas are a clinical instantiation of [[schema-theory|Schema Theory]] — the same basic cognitive structures that organize general knowledge organize self-relevant knowledge, and they are equally resistant to disconfirmation by schema-inconsistent information. The process of [[cognitive-reappraisal|Cognitive Reappraisal]] — a core CBT technique — is precisely what [[appraisal-theory]] predicts: changing the appraisal of an event changes its emotional impact. And the learned helplessness model of depression, in which exposure to uncontrollable adversity leads to motivational, cognitive, and emotional deficits, is a direct bridge between clinical psychology and [[learned-helplessness]] and [[attribution-style]] — attributing bad events to stable, global, internal causes generates the hopelessness that defines clinical depression.
+This theoretical account has deep continuity with your PKB's existing frameworks. Beck's core schemas are a clinical instantiation of [[schema-theory-and-knowledge-organization|Schema Theory]] — the same basic cognitive structures that organize general knowledge organize self-relevant knowledge, and they are equally resistant to disconfirmation by schema-inconsistent information. The process of [[cognitive-reappraisal|Cognitive Reappraisal]] — a core CBT technique — is precisely what [[appraisal-theory]] predicts: changing the appraisal of an event changes its emotional impact. And the learned helplessness model of depression, in which exposure to uncontrollable adversity leads to motivational, cognitive, and emotional deficits, is a direct bridge between clinical psychology and [[learned-helplessness]] and [[attribution-style]] — attributing bad events to stable, global, internal causes generates the hopelessness that defines clinical depression.
 
 ### Humanistic and Existential Approaches
 
@@ -372,7 +372,7 @@ The most consistently replicated finding in psychotherapy research is that the q
 
 ### Cognitive Change Mechanisms
 
-In cognitive-behavioral approaches, the primary mechanism is the modification of [[schema-theory|maladaptive schemas]] and the automatic thoughts and beliefs they generate. This process involves several interlocking components. First, the identification and articulation of automatic thoughts — the rapid, reflexive cognitions that arise in response to triggering situations and are often accepted as unquestionable facts rather than interpretations. Second, the Socratic exploration of these thoughts — collaborative empirical investigation that treats the thought as a hypothesis and examines the evidence for and against it. Third, behavioral experiments — structured activities designed to test cognitive predictions and generate experiential evidence that disconfirms maladaptive beliefs. Fourth, schema-level work — identifying the deeper core beliefs that generate surface-level automatic thoughts and addressing them through historical reprocessing, experiential techniques (imagery rescripting), and the gradual accumulation of disconfirmatory experience.
+In cognitive-behavioral approaches, the primary mechanism is the modification of [[schema-theory-and-knowledge-organization|maladaptive schemas]] and the automatic thoughts and beliefs they generate. This process involves several interlocking components. First, the identification and articulation of automatic thoughts — the rapid, reflexive cognitions that arise in response to triggering situations and are often accepted as unquestionable facts rather than interpretations. Second, the Socratic exploration of these thoughts — collaborative empirical investigation that treats the thought as a hypothesis and examines the evidence for and against it. Third, behavioral experiments — structured activities designed to test cognitive predictions and generate experiential evidence that disconfirms maladaptive beliefs. Fourth, schema-level work — identifying the deeper core beliefs that generate surface-level automatic thoughts and addressing them through historical reprocessing, experiential techniques (imagery rescripting), and the gradual accumulation of disconfirmatory experience.
 
 The mechanism here maps precisely onto [[Conceptual-Change-Theory]]: entrenched, emotionally loaded beliefs are not revised through simple logical argument (any more than students' naive physics intuitions are revised by lecturing), but through a combination of cognitive challenge, experiential disconfirmation, and the construction of viable alternative frameworks. The resistance of core clinical schemas to change mirrors the resistance of deeply held scientific misconceptions — both require not merely new information but a reconstruction of the entire interpretive framework through which information is processed.
 
@@ -390,7 +390,7 @@ For anxiety disorders, the gold-standard behavioral mechanism is exposure — th
 
 For depression, one of the most empirically validated mechanisms is behavioral activation — the systematic increase in engagement with rewarding activities, particularly those associated with a sense of mastery, pleasure, or connection with values. Behavioral activation theory proposes that depression is maintained by a vicious cycle: low mood leads to behavioral withdrawal and avoidance, which produces further loss of positive reinforcement, which deepens low mood, which produces further withdrawal. Intervening on the behavioral component — increasing activity before mood lifts — breaks this cycle from the outside in.
 
-This mechanism maps onto [[self-determination-theory|SDT's]] account of autonomous motivation: engagement with activities aligned with one's values produces a qualitatively different form of reward than externally motivated activity, and it is this values-aligned engagement that behavioral activation seeks to restore. The connection to your PKB's work on [[intrinsic-motivation|Intrinsic Motivation]] is explicit: depression therapy is partly an exercise in reconnecting the person with the sources of intrinsic interest and value that the disorder has buried.
+This mechanism maps onto [[self-determination-theory|SDT's]] account of autonomous motivation: engagement with activities aligned with one's values produces a qualitatively different form of reward than externally motivated activity, and it is this values-aligned engagement that behavioral activation seeks to restore. The connection to your PKB's work on [[Intrinsic Motivation|Intrinsic Motivation]] is explicit: depression therapy is partly an exercise in reconnecting the person with the sources of intrinsic interest and value that the disorder has buried.
 
 ### Emotion Regulation Mechanisms
 
@@ -464,7 +464,7 @@ The third deep theme is the role of avoidance in maintaining disorder. Across di
 >
 > This report on Clinical Psychology connects to existing knowledge in your PKB in the following substantive ways:
 >
-> - **[[schema-theory|Schema Theory]]** — Beck's cognitive schemas (core beliefs, intermediate beliefs, automatic thoughts) are a direct application of schema theory to self-referential knowledge. The same features that make scientific schemas resistant to disconfirmation — they are implicit, self-confirming, and emotionally invested — make clinical schemas resistant to change. Understanding schema theory illuminates why cognitive-behavioral therapy must do more than simply present contradictory evidence.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Beck's cognitive schemas (core beliefs, intermediate beliefs, automatic thoughts) are a direct application of schema theory to self-referential knowledge. The same features that make scientific schemas resistant to disconfirmation — they are implicit, self-confirming, and emotionally invested — make clinical schemas resistant to change. Understanding schema theory illuminates why cognitive-behavioral therapy must do more than simply present contradictory evidence.
 >
 > - **[[Conceptual-Change-Theory]]** — Therapeutic cognitive change is a form of conceptual change applied to the self-concept and world-model. The Vosniadou/Chi framework for understanding resistance to conceptual revision maps precisely onto the resistance to therapeutic change: entrenched beliefs form a coherent framework that generates confirmatory experience, require intelligible and plausible alternatives, and necessitate active engagement with disconfirmatory evidence. Every conceptual change principle you've studied has a direct clinical analogue.
 >

@@ -410,7 +410,7 @@ This synthesis of andragogy and Personal Knowledge Base technology is nascent, a
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 1. `[[andragogy]]`
 > 1. `[[Problem-Centered Learning]]`
-> 1. `[[cognitive-scaffolding]]`
+> 1. `[[Cognitive Scaffolding]]`
 
 > [!question]
 >

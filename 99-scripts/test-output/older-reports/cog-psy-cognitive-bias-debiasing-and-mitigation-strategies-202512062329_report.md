@@ -426,11 +426,11 @@ extraction_summary:
 - [[Fast-and-Frugal-Heuristics]]
 - [[Focalism]]
 - [[fundamental-attribution-error]]
-- [[gary-klein]]
+- [[Gary Klein]]
 - [[gerd-gigerenzer]]
 - [[Groupthink]]
 - [[Halo Effect]]
-- [[heuristics-and-biases-program]]
+- [[heuristics-and-biases]]
 - [[Hindsight-Bias]]
 - [[Impact Bias]]
 - [[Inside View]]
@@ -486,7 +486,7 @@ extraction_summary:
 | 9 | [[Bias Blind Spot]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 10 | [[gerd-gigerenzer]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 11 | [[Fast-and-Frugal-Heuristics]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 12 | [[heuristics-and-biases-program]] | — | — | 📜 The Foundational Tension: Are Biase... | 184 |
+| 12 | [[heuristics-and-biases]] | — | — | 📜 The Foundational Tension: Are Biase... | 184 |
 | 13 | [[confirmation-bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 14 | [[Anchoring-Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 15 | [[availability-heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
@@ -514,7 +514,7 @@ extraction_summary:
 | 37 | [[Ivar Fahsing]] | — | — | The Consider-the-Opposite Strategy | 234 |
 | 38 | [[Selective Accessibility]] | — | — | The Consider-the-Opposite Strategy | 236 |
 | 39 | [[Premortem Technique]] | — | — | The Premortem Technique | 240 |
-| 40 | [[gary-klein]] | — | — | The Premortem Technique | 240 |
+| 40 | [[Gary Klein]] | — | — | The Premortem Technique | 240 |
 | 41 | [[Prospective Hindsight]] | — | — | The Premortem Technique | 240 |
 | 42 | [[Deborah Mitchell]] | — | — | The Premortem Technique | 240 |
 | 43 | [[Jay Russo]] | — | — | The Premortem Technique | 240 |
@@ -813,11 +813,11 @@ for (let letter of sortedLetters) {
 - [[Fast-and-Frugal-Heuristics]]
 - [[Focalism]]
 - [[fundamental-attribution-error]]
-- [[gary-klein]]
+- [[Gary Klein]]
 - [[gerd-gigerenzer]]
 - [[Groupthink]]
 - [[Halo Effect]]
-- [[heuristics-and-biases-program]]
+- [[heuristics-and-biases]]
 - [[Hindsight-Bias]]
 - [[Impact Bias]]
 - [[Inside View]]

@@ -571,7 +571,7 @@ extraction_summary:
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard-Pekrun]]
 - [[relatedness-need]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[Seligman]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
@@ -610,7 +610,7 @@ extraction_summary:
 | 27 | [[competence-need|Competence Need]] | competence | — | SDT Need Support as Emotional Inocula... | 322 |
 | 28 | [[relatedness-need]] | relatedness | — | SDT Need Support as Emotional Inocula... | 322 |
 | 29 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | SDT Need Support as Emotional Inocula... | 331 |
-| 30 | [[schema-theory|Schema Theory]] | — | — | The Return-and-Deepen: Schema Theory ... | 407 |
+| 30 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | The Return-and-Deepen: Schema Theory ... | 407 |
 | 31 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | Report 04: Metacognitive Self-Regulation | — | Phase VII: PKB Connections & Cross-Re... | 438 |
 | 32 | [[05-motivation-architecture-pkm-framework-2026-03-13]] | Report 05: Motivation Architecture | — | Phase VII: PKB Connections & Cross-Re... | 440 |
 | 33 | [[03-constructing-understanding-pkm-framework-2026-03-13]] | Report 03: Constructing Understanding | — | Phase VII: PKB Connections & Cross-Re... | 442 |
@@ -663,7 +663,7 @@ extraction_summary:
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard-Pekrun]]
 - [[relatedness-need]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[Seligman]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
@@ -675,7 +675,7 @@ extraction_summary:
 
 - [[self-determination-theory|Self-Determination Theory]]
 - [[metacognition]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 
 #### Builds On
 
@@ -696,7 +696,7 @@ extraction_summary:
 - [[melete]]
 - [[Stoic Journaling]]
 - [[self-determination-theory|Self-Determination Theory]]
-- [[basic-psychological-needs|Basic Psychological Needs]]
+- [[Basic Psychological Needs|Basic Psychological Needs]]
 - [[competence-need|Competence Need]]
 - [[autonomy-need|Autonomy Need]]
 - [[amotivation]]

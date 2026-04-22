@@ -485,18 +485,18 @@ extraction_summary:
 - [[autonomy]]
 - [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
 - [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
 - [[competence]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[constructivism]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Dunning-Kruger]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[educational-psychology|Educational Psychology]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Expert-Knowledge-Organization|Expert Knowledge Organization]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Faceted-Classification|Faceted Classification]]
@@ -514,7 +514,7 @@ extraction_summary:
 - [[Integration Problem]]
 - [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]
 - [[Interest Taxonomy]]
-- [[intrinsic-motivation|Intrinsic Motivation]]
+- [[Intrinsic Motivation|Intrinsic Motivation]]
 - [[Knowledge-Integration|Knowledge Integration]]
 - [[knowledge-management|Knowledge Management]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
@@ -540,11 +540,11 @@ extraction_summary:
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]
-- [[retrieval-practice|Retrieval Practice]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]
 - [[SECI-Model|SECI Model]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
-- [[self-explanation]]
+- [[self-explanation-effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic]]
 - [[Socratic Elenchus]]
@@ -569,17 +569,17 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Moment of Integration | 134 |
-| 2 | [[schema-theory|Schema Theory]] | — | — | The Moment of Integration | 134 |
-| 3 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Moment of Integration | 134 |
+| 2 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | The Moment of Integration | 134 |
+| 3 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | The Moment of Integration | 134 |
 | 4 | [[working-memory|Working Memory]] | — | — | The Moment of Integration | 134 |
 | 5 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Moment of Integration | 134 |
 | 6 | [[metacognition]] | — | — | The Moment of Integration | 134 |
 | 7 | [[constructivism]] | — | — | The Moment of Integration | 134 |
 | 8 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | The Moment of Integration | 134 |
 | 9 | [[self-determination-theory|Self-Determination Theory]] | — | — | The Moment of Integration | 134 |
-| 10 | [[intrinsic-motivation|Intrinsic Motivation]] | — | — | The Moment of Integration | 134 |
-| 11 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Moment of Integration | 134 |
-| 12 | [[retrieval-practice|Retrieval Practice]] | — | — | The Moment of Integration | 134 |
+| 10 | [[Intrinsic Motivation|Intrinsic Motivation]] | — | — | The Moment of Integration | 134 |
+| 11 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | The Moment of Integration | 134 |
+| 12 | [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]] | — | — | The Moment of Integration | 134 |
 | 13 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Moment of Integration | 134 |
 | 14 | [[socratic-questioning]] | — | — | The Moment of Integration | 134 |
 | 15 | [[knowledge-management|Knowledge Management]] | — | — | The Moment of Integration | 134 |
@@ -596,17 +596,17 @@ extraction_summary:
 | 26 | [[knowledge-management|Knowledge Management]] | — | — | Cross-Domain Preview | 152 |
 | 27 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Cross-Domain Preview | 152 |
 | 28 | [[Systems Theory]] | — | — | Cross-Domain Preview | 152 |
-| 29 | [[schema-theory|Schema Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 29 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 30 | [[spreading-activation|Spreading Activation]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
-| 31 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 31 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 32 | [[Expert-Knowledge-Organization|Expert Knowledge Organization]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 33 | [[Information Foraging Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 34 | [[SECI-Model|SECI Model]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 35 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Convergence Zone 1: The Organizationa... | 199 |
 | 36 | [[constructivism]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 37 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 38 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 39 | [[self-explanation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 37 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 38 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 39 | [[self-explanation-effect]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 40 | [[Socratic-Method-Elenchus|Socratic Method]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 41 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 42 | [[Zimmerman's Self-Regulated Learning]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
@@ -633,9 +633,9 @@ extraction_summary:
 | 63 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Foundational Principle 1: Cognitive I... | 268 |
 | 64 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Foundational Principle 1: Cognitive I... | 268 |
 | 65 | [[constructivism]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 66 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 67 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 68 | [[self-explanation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 66 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 67 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 68 | [[self-explanation-effect]] | — | — | Foundational Principle 2: Active Cons... | 276 |
 | 69 | [[socratic-questioning]] | — | — | Foundational Principle 2: Active Cons... | 276 |
 | 70 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Foundational Principle 3: Regulatory ... | 286 |
 | 71 | [[self-determination-theory|Self-Determination Theory]] | — | — | Foundational Principle 4: Motivationa... | 294 |
@@ -816,18 +816,18 @@ extraction_summary:
 - [[autonomy]]
 - [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
 - [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
 - [[competence]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[constructivism]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Dunning-Kruger]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[educational-psychology|Educational Psychology]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Expert-Knowledge-Organization|Expert Knowledge Organization]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Faceted-Classification|Faceted Classification]]
@@ -845,7 +845,7 @@ extraction_summary:
 - [[Integration Problem]]
 - [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]
 - [[Interest Taxonomy]]
-- [[intrinsic-motivation|Intrinsic Motivation]]
+- [[Intrinsic Motivation|Intrinsic Motivation]]
 - [[Knowledge-Integration|Knowledge Integration]]
 - [[knowledge-management|Knowledge Management]]
 - [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
@@ -871,11 +871,11 @@ extraction_summary:
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]
-- [[retrieval-practice|Retrieval Practice]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]
 - [[SECI-Model|SECI Model]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
-- [[self-explanation]]
+- [[self-explanation-effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic]]
 - [[Socratic Elenchus]]

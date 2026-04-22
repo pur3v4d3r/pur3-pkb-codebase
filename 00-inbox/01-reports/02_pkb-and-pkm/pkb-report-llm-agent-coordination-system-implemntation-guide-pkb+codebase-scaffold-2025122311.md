@@ -1305,7 +1305,7 @@ Agent uses knowledge graph + semantic similarity
 **Depth Potential:** Maps working memory constraints to system architecture decisions  
 **Knowledge Graph Role:** Semantic bridge between learning science and AI UX design  
 **Priority:** Medium - Theoretical foundation for system  
-**Prerequisites:** [[cognitive-load-theory]], understanding of agent workflows
+**Prerequisites:** [[Cognitive Load Theory (CLT)]], understanding of agent workflows
 
 ### 4. **[[Knowledge-Graph-Dynamics-in-Multi-Agent-Systems]]**
 **Connection:** How multiple agents collaboratively building a knowledge graph affects graph structure  

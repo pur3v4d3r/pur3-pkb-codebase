@@ -255,9 +255,9 @@ After exploring dimensions separately, create synthesis section showing:
 
 **Theoretical Foundations**
 
-CLT builds on [[information-processing-theory]] and [[schema-theory]], integrating insights from cognitive psychology about memory architecture. The core premise: working memory's severely limited capacity (approximately 4±1 chunks per [[Baddeley Working Memory Model]]) creates a bottleneck for learning, while [[long-term-memory]] has essentially unlimited capacity once information is successfully encoded.
+CLT builds on [[information-processing-theory]] and [[schema-theory-and-knowledge-organization]], integrating insights from cognitive psychology about memory architecture. The core premise: working memory's severely limited capacity (approximately 4±1 chunks per [[Baddeley Working Memory Model]]) creates a bottleneck for learning, while [[long-term-memory]] has essentially unlimited capacity once information is successfully encoded.
 
-The theory distinguishes between **element interactivity** (the number of elements that must be processed simultaneously to understand material) and **isolated elements** (processable independently). High element interactivity imposes high [[intrinsic-cognitive-load]]—an unavoidable function of material complexity that cannot be reduced without changing the content itself.
+The theory distinguishes between **element interactivity** (the number of elements that must be processed simultaneously to understand material) and **isolated elements** (processable independently). High element interactivity imposes high [[Cognitive Load Theory (CLT)]]—an unavoidable function of material complexity that cannot be reduced without changing the content itself.
 
 **Three-Type Load Architecture**
 

@@ -70,7 +70,7 @@ review-priority: medium
 # Intrinsic Motivation
 
 > [!definition]
-> - **Key-Term**:[[intrinsic-motivation]]
+> - **Key-Term**:[[Intrinsic Motivation]]
 > - [**Definition**:refers to the act of doing something without any obvious external rewards. You perform an activity because you find it inherently enjoyable, satisfying, or meaningful, not because you're looking for an external incentive or trying to avoid punishment. The reward is the activity itself.]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 

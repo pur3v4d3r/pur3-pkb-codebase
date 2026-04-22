@@ -1,12 +1,12 @@
 ---
-title: "GitHub Copilot"
+title: GitHub Copilot
 aliases: [github-copilot, copilot]
 type: permanent-note
 status: evergreen
 confidence: high
 domain: Software Engineering
 subdomains: [Python Development, Development Environments, AI-Augmented Programming]
-tags: [permanent-note, software-engineering, python-development, development-environments, ai-augmented-programming]
+tags: [permanent-note, software-engineering, python-development, development-environments, ai-augmented-programming, seedling, concept-stub, other]
 created: '2026-04-22'
 updated: '2026-04-22'
 complexity: comprehensive foundational treatment
@@ -15,10 +15,12 @@ review-frequency: quarterly
 mastery-stage: seedling
 provenance:
   source-type: report-extraction
-  pipeline-version: "3.0.0"
+  pipeline-version: 3.0.0
   source-reports: [python-development-in-vscode-with-copilot-foundational-report-2026-04-19]
   extraction-method: pkb-extractor-v1 → pipeline-v3
 ---
+
+
 
 # GitHub Copilot
 
@@ -52,6 +54,11 @@ provenance:
 >
 > **See also:** [[Claude-Code]], [[AI-Agents]], [[agentic-prompt-engineering-workflows]]
 > *— [[python-development-in-vscode-with-copilot-foundational-report-2026-04-19]]*
+
+## Additional Material (Merged)
+
+> [!definition] **github-copilot**
+> *Stub note — concept referenced by 75 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
 
 ## Connections
 

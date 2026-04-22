@@ -24,7 +24,7 @@ related_concepts:
   - "[[Dialectical Reasoning]]"
   - "[[Maieutic Method]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[dual-process-theory]]"

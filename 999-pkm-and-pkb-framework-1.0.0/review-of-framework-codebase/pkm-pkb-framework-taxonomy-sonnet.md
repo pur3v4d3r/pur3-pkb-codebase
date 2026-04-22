@@ -22,7 +22,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 ### 1. Cognitive Architecture & Memory Science
 
 #### 1.1 Schema Theory
-- **[[schema-theory]]** — Mental framework structuring knowledge; determines encoding and retrieval [Reports 01, 02, 03]
+- **[[schema-theory-and-knowledge-organization]]** — Mental framework structuring knowledge; determines encoding and retrieval [Reports 01, 02, 03]
   - [[Schema Assimilation]] — Incorporating new information into existing schema without restructuring
   - [[schema-accommodation]] — Restructuring existing schema to incorporate incompatible new information
   - [[schema-activation]] — Triggering of relevant schemas during knowledge encoding
@@ -37,32 +37,32 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 - **[[memory-consolidation]]** — Process by which memories become stable; sleep-dependent component [Report 06]
 - **[[Testing-Effect]]** / **[[retrieval-practice-effect]]** — Active retrieval produces dramatically better retention than passive re-study (Roediger & Karpicke) [Reports 06, 16, 20]
 - **[[generation-effect]]** — Self-generated content is better remembered than externally provided content [Reports 17, 16]
-- **[[fluency-illusion]]** — Overestimation of learning produced by re-reading familiar material (Bjork) [Reports 06, 12, 18]
+- **[[Fluency Illusion]]** — Overestimation of learning produced by re-reading familiar material (Bjork) [Reports 06, 12, 18]
 - **[[retrieval-induced-forgetting]]** — Retrieving some items from memory can impair retrieval of related items [Report 06]
 
 #### 1.3 Working Memory & Cognitive Load
 - **[[working-memory]]** — Limited-capacity conscious processing system (~4 novel elements) (Baddeley) [Report 02]
-- **[[cognitive-load-theory]]** (CLT) — Framework for managing working memory load in learning (Sweller) [Reports 02, 10]
+- **[[Cognitive Load Theory (CLT)]]** (CLT) — Framework for managing working memory load in learning (Sweller) [Reports 02, 10]
   - [[Intrinsic-Load]] — Load inherent to the complexity of the material
   - [[extraneous-load]] — Load caused by poor design; reduces learning
-  - [[germane-load]] — Load that contributes to schema formation; productive
-  - [[expertise-reversal-effect]] — Scaffolding that helps novices becomes load-inducing for experts [Reports 02, 10]
+  - [[Cognitive Load Theory (CLT)]] — Load that contributes to schema formation; productive
+  - [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] — Scaffolding that helps novices becomes load-inducing for experts [Reports 02, 10]
 
 ---
 
 ### 2. Learning Science & Instructional Design
 
 #### 2.1 Memory Optimization
-- **[[spacing-effect]]** — Distributed practice outperforms massed practice (Cepeda et al.) [Reports 06, 16, 20]
-- **[[interleaving]]** — Mixing topics within practice sessions; improves retention and transfer (Bjork) [Reports 06, 16]
-- **[[desirable-difficulties]]** — Conditions that impair short-term performance while enhancing long-term retention (Bjork & Bjork) [Reports 06, 16, 30]
+- **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Distributed practice outperforms massed practice (Cepeda et al.) [Reports 06, 16, 20]
+- **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Mixing topics within practice sessions; improves retention and transfer (Bjork) [Reports 06, 16]
+- **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Conditions that impair short-term performance while enhancing long-term retention (Bjork & Bjork) [Reports 06, 16, 30]
 - **[[spaced-repetition-systems]]** (SRS) — Algorithmic scheduling of review based on forgetting curve (Leitner, Wozniak) [Report 06]
 - **[[transfer-appropriate-processing]]** — Memory is best when retrieval conditions match encoding conditions [Report 06]
 
 #### 2.2 Constructivism & Knowledge Construction
 - **[[constructivism]]** — Learners construct knowledge rather than receive it (Piaget, Vygotsky) [Reports 01, 03, 17]
 - **[[Elaboration-Theory]]** — Learning is enhanced by connecting new information to existing knowledge in elaborate ways (Reigeluth) [Reports 03, 17]
-- **[[elaborative-interrogation]]** — Generating answers to "why?" and "how?" questions enhances encoding [Reports 17, 16]
+- **[[Elaborative Interrogation]]** — Generating answers to "why?" and "how?" questions enhances encoding [Reports 17, 16]
 - **[[self-explanation-effect]]** — Explaining material to oneself during learning improves retention [Report 17]
 - **[[note-making-vs.-note-taking]]** — Note-making (generative, constructive) vs. note-taking (passive recording) [Report 17]
 
@@ -100,7 +100,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 - **[[self-regulated-learning]]** (SRL) — Metacognitively guided, motivationally active, behaviorally engaged learning (Zimmerman) [Reports 04, 12]
   - [[zimmerman-srl-model]] — Three-phase cycle: Forethought → Performance → Self-Reflection [Reports 04, 12]
   - [[monitoring-control-loop]] — Core mechanism of self-regulation [Report 04]
-- **[[implementation-intentions]]** — If-then plans that automate intention-to-behavior conversion (Gollwitzer) [Report 12]
+- **[[goal-intention]]** — If-then plans that automate intention-to-behavior conversion (Gollwitzer) [Report 12]
 - **[[Structural-Metacognition-Principle]]** — Monitoring requires structural embedding, not just intention [Report 12] ***ORIGINAL SYNTHESIS***
 
 #### 3.3 Reflective Practice
@@ -159,7 +159,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 - **[[self-determination-theory]]** (SDT) — Autonomous motivation requires satisfaction of Autonomy, Competence, and Relatedness needs (Deci & Ryan) [Reports 05, 24]
 - **[[achievement-goal-theory]]** — Mastery-approach vs. performance-approach vs. performance-avoidance goals (Elliot, Dweck) [Reports 05, 13]
 - **[[Mindset-Theory]]** — Growth mindset (intelligence is developable) vs. fixed mindset (Dweck) [Reports 05, 13]
-- **[[intrinsic-motivation]]** — Motivation arising from inherent interest or enjoyment; most durable [Reports 05, 13, 19]
+- **[[Intrinsic Motivation]]** — Motivation arising from inherent interest or enjoyment; most durable [Reports 05, 13, 19]
 - **[[habit-formation]]** — Neural pathway formation through cue-routine-reward repetition [Reports 12, 19, 29]
 
 ---
@@ -181,8 +181,8 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 ### 8. AI-Enhanced PKM
 
-- **[[extended-mind-theory]]** — Cognitive tools can become genuine components of a distributed cognitive system (Clark & Chalmers) [Report 30]
-- **[[cognitive-offloading]]** — Using external resources to reduce working memory demand [Report 30]
+- **[[Extended Mind Thesis (Clark & Chalmers, 1998)]]** — Cognitive tools can become genuine components of a distributed cognitive system (Clark & Chalmers) [Report 30]
+- **[[Cognitive Offloading]]** — Using external resources to reduce working memory demand [Report 30]
   - [[Storage Offloading]] — Offloading memory storage (generally beneficial) [Report 30]
   - [[Synthesis Offloading]] — Offloading reasoning and construction (generally harmful for learning) [Report 30]
   - [[Offloading Quality Distinction]] — The critical difference between beneficial and harmful AI assistance [Report 30] ***ORIGINAL SYNTHESIS***
@@ -196,11 +196,11 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 | Concept A | Relationship Type | Concept B | Strength |
 |-----------|------------------|-----------|----------|
-| [[Cognitive-Alignment-Principle]] | derives from | [[schema-theory]] + [[KOS]] | Strong |
+| [[Cognitive-Alignment-Principle]] | derives from | [[schema-theory-and-knowledge-organization]] + [[KOS]] | Strong |
 | [[Cognitive-Alignment-Principle]] | mandates | [[Three-Tier-Note-Architecture]] | Strong |
-| [[Testing-Effect]] | contradicts | [[fluency-illusion]] | Strong |
-| [[desirable-difficulties]] | conflicts with | AI convenience | Strong |
-| [[Dreyfus Skill Model]] | isomorphic with | [[expertise-reversal-effect]] (CLT) | Strong |
+| [[Testing-Effect]] | contradicts | [[Fluency Illusion]] | Strong |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | conflicts with | AI convenience | Strong |
+| [[Dreyfus Skill Model]] | isomorphic with | [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] (CLT) | Strong |
 | [[Knowledge-Integration]] | isomorphic with | Small-World Network topology | Strong |
 | [[Structural-Metacognition-Principle]] | operationalizes | [[zimmerman-srl-model]] | Moderate |
 | [[Tacit-Knowledge-Observatory]] | reframes | PKB comprehensiveness aspiration | Strong |
@@ -215,14 +215,14 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 ## Hub Concepts (Most Connected — Appearing in 5+ Reports)
 
-1. **[[schema-theory]]** — Reports 01, 02, 03, 04, 06, 09, 10, 11 (8+ reports)
+1. **[[schema-theory-and-knowledge-organization]]** — Reports 01, 02, 03, 04, 06, 09, 10, 11 (8+ reports)
 2. **[[metacognition]]** / **[[metacognitive-monitoring]]** — Reports 04, 06, 07, 08, 12, 17, 18, 26 (8+ reports)
-3. **[[desirable-difficulties]]** — Reports 06, 11, 16, 20, 30 (5 reports)
+3. **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Reports 06, 11, 16, 20, 30 (5 reports)
 4. **[[self-regulated-learning]]** — Reports 04, 06, 08, 12, 18, 19, 24, 26 (8+ reports)
-5. **[[cognitive-load-theory]]** — Reports 02, 03, 09, 10, 11, 16 (6 reports)
+5. **[[Cognitive Load Theory (CLT)]]** — Reports 02, 03, 09, 10, 11, 16 (6 reports)
 6. **[[constructivism]]** — Reports 01, 03, 08, 09, 14, 17 (6 reports)
-7. **[[fluency-illusion]]** — Reports 06, 12, 18, 30 (4 reports, but central to the diagnosis)
-8. **[[Testing-Effect]]** / **[[retrieval-practice]]** — Reports 06, 12, 16, 20, 27 (5+ reports)
+7. **[[Fluency Illusion]]** — Reports 06, 12, 18, 30 (4 reports, but central to the diagnosis)
+8. **[[Testing-Effect]]** / **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Reports 06, 12, 16, 20, 27 (5+ reports)
 
 ---
 
@@ -232,17 +232,17 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 |---------------|----------|----------|----------------|
 | [[spreading-activation]] | Cognitive Science | Network Science | Semantic memory as graph |
 | [[encoding-specificity]] | Memory Science | Transfer of Learning | Same mechanism, different applications |
-| [[expertise-reversal-effect]] | CLT | Dreyfus Model | Cognitive architecture ↔ phenomenology |
+| [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] | CLT | Dreyfus Model | Cognitive architecture ↔ phenomenology |
 | [[Weak Ties]] | Network Science | Transfer of Learning | Bridge notes ↔ variable encoding |
 | [[habit-formation]] | Behavioral Science | Virtue Epistemology | Character as neural pathway |
-| [[implementation-intentions]] | Behavioral Science | Metacognition | Bridging knowing to doing |
+| [[goal-intention]] | Behavioral Science | Metacognition | Bridging knowing to doing |
 
 ---
 
 ## Orphan Concepts (Weakly Connected — Needing Integration)
 
 - **[[Epistemic-Justice]]** — Introduced in Report 29 with insufficient connections to the rest of the series
-- **[[extended-mind-theory]]** — Report 30's most philosophically interesting concept; could be connected back to Reports 01 and 09
+- **[[Extended Mind Thesis (Clark & Chalmers, 1998)]]** — Report 30's most philosophically interesting concept; could be connected back to Reports 01 and 09
 - **[[Nonaka SECI Model]]** — Introduced in Reports 08 and 22 but its Socialization dimension is underconnected to the rest of the framework
 - **[[Pragmatist-Epistemology]]** — Report 08 and 14 treat this; connections to virtue epistemology (Report 29) are underdeveloped
 

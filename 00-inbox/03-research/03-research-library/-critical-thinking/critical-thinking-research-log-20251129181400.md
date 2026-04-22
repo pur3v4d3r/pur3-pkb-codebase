@@ -35,7 +35,7 @@ tags:
 
 [[philosophy-of-mind]]
 [[Reflective Consciousness]]
-[[schema-theory]]
+[[schema-theory-and-knowledge-organization]]
 [[deep-processing]]
 [[decision-theory]]
 [[argumentation-theory]]

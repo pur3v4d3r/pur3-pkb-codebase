@@ -25,7 +25,7 @@ related_concepts:
   - "[[growth-mindset]]"
   - "[[fixed-mindset]]"
   - "[[Implicit-Theories-of-Intelligence]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy-theory]]"
   - "[[Mindset Interventions]]"
   - "[[deliberate-practice]]"
@@ -116,7 +116,7 @@ based_on:
 # KNOWLEDGE GRAPH INTEGRATION
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy-theory]]"
   - "[[Motivational Psychology Fundamentals]]"
 
@@ -136,7 +136,7 @@ aliases:
 link_up: "[[Educational Psychology Knowledge Base]]"
 link_related:
   - "[[self-efficacy-theory]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[deliberate-practice]]"
   - "[[Grit-and-Perseverance]]"
   - "[[stereotype-threat]]"
@@ -223,7 +223,7 @@ The conventional growth mindset account embeds at least eight significant assump
 > **Statement**: The central psychological variable is what people believe about whether intelligence is fixed or malleable. This is the key belief that needs to change for learning to improve.
 > **Origin**: Theoretical — Dweck's original framework specifically centered "implicit theories of intelligence" as the critical psychological construct.
 > **Evidence For**: The specific intelligence-malleability framing has generated productive experimental research and has clear face validity in educational contexts where students' theories of their own academic ability seem consequential.
-> **Evidence Against**: [[attribution-theory]] (Weiner) had already established that causal attributions for success and failure — and specifically the distinction between stable vs. unstable attributions — are the functional psychological variables driving persistence. "Intelligence is malleable" is one intervention for shifting attribution patterns, but it is not the only route and may not be the most powerful. [[self-efficacy-theory]] (Bandura) suggests that situation-specific competence beliefs, grounded in actual mastery experiences, are more predictive of behavior than global theories about intelligence. The malleability-of-intelligence frame may be a culturally specific philosophical claim that is at best an indirect path to the real psychological levers.
+> **Evidence Against**: [[Attribution (Heider, 1958)]] (Weiner) had already established that causal attributions for success and failure — and specifically the distinction between stable vs. unstable attributions — are the functional psychological variables driving persistence. "Intelligence is malleable" is one intervention for shifting attribution patterns, but it is not the only route and may not be the most powerful. [[self-efficacy-theory]] (Bandura) suggests that situation-specific competence beliefs, grounded in actual mastery experiences, are more predictive of behavior than global theories about intelligence. The malleability-of-intelligence frame may be a culturally specific philosophical claim that is at best an indirect path to the real psychological levers.
 > **Load-Bearing?**: Partially — the framework could survive a reframing from "beliefs about intelligence malleability" to "attributional patterns for failure" while preserving most of its core claims. This revision would actually strengthen its empirical foundation.
 > **Verdict**: Revised ⚠ — The malleability-of-intelligence framing is a particular cultural-philosophical packaging of insights about effort attribution and goal orientation that were already better established in attribution theory and goal theory. The frame is not wrong but is overclaiming a specific mechanism.
 
@@ -253,7 +253,7 @@ The conventional growth mindset account embeds at least eight significant assump
 > **Statement**: The psychological space of ability-related beliefs is adequately captured by a bipolar dimension from entity (fixed) to incremental (growth) theories, and this dimension is the most important one for predicting motivational behavior.
 > **Origin**: Theoretical — Dweck's framework specifically structures the space as a two-pole dimension.
 > **Evidence For**: The dichotomy is heuristically useful and operationalizable; it generates testable predictions.
-> **Evidence Against**: Several other frameworks carve the same psychological territory differently and account for similar or more variance. Bandura's [[self-efficacy-theory]] focuses on situation-specific competence expectations. [[achievement-goal-theory]] (Elliot & Dweck) identifies learning vs. performance goals, and approach vs. avoidance orientations, as the proximate motivational variables. These goal orientations may be more direct determinants of behavior than the upstream mindset beliefs that supposedly produce them. Weiner's [[attribution-theory]] identifies locus (internal/external), stability, and controllability as three orthogonal dimensions of causal attribution, providing a richer space than entity/incremental alone.
+> **Evidence Against**: Several other frameworks carve the same psychological territory differently and account for similar or more variance. Bandura's [[self-efficacy-theory]] focuses on situation-specific competence expectations. [[achievement-goal-theory]] (Elliot & Dweck) identifies learning vs. performance goals, and approach vs. avoidance orientations, as the proximate motivational variables. These goal orientations may be more direct determinants of behavior than the upstream mindset beliefs that supposedly produce them. Weiner's [[Attribution (Heider, 1958)]] identifies locus (internal/external), stability, and controllability as three orthogonal dimensions of causal attribution, providing a richer space than entity/incremental alone.
 > **Load-Bearing?**: Moderately load-bearing — the framework's predictive and prescriptive force rests substantially on the claim that this dichotomy is the most important dimension. If goal orientation is the real proximate cause, and mindset beliefs influence behavior only insofar as they influence goal orientation, the theoretical revision is significant.
 > **Verdict**: Revised ⚠ — The fixed/growth dimension captures something real but is a simplified projection of a richer motivational space. Goal orientation variables are more proximally related to learning behavior; intelligence-malleability beliefs may function as moderators or antecedents of goal orientation rather than as independent determinants of outcome.
 
@@ -450,7 +450,7 @@ A [[socratic-dialogue-report-prompt|Socratic Dialogue]] on this topic would prod
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[attribution-theory]]** — The three surviving axioms of this analysis are directly derived from Weiner's attribution theory. Every claim about the importance of failure attribution patterns, the distinction between stable and unstable causes, and the role of controllability in persistence behavior is grounded there. The growth mindset framework is best understood as applied attribution theory with an oversimplified causal story. Revisiting [[attribution-theory]] after this analysis should reveal how much of what seemed novel in growth mindset was already established there.
+> - **[[Attribution (Heider, 1958)]]** — The three surviving axioms of this analysis are directly derived from Weiner's attribution theory. Every claim about the importance of failure attribution patterns, the distinction between stable and unstable causes, and the role of controllability in persistence behavior is grounded there. The growth mindset framework is best understood as applied attribution theory with an oversimplified causal story. Revisiting [[Attribution (Heider, 1958)]] after this analysis should reveal how much of what seemed novel in growth mindset was already established there.
 >
 > - **[[self-efficacy-theory]]** — Axiom 2 (domain-specific ability beliefs shaped by experience) is essentially Bandura's self-efficacy theory rephrased. The growth mindset framework can be read as an attempt to address self-efficacy at the level of general ability beliefs rather than situation-specific competence expectations — a theoretically motivated move that the evidence suggests does not improve on Bandura's original framing.
 >
@@ -565,14 +565,14 @@ The deepest open question this analysis generates is also the most practically i
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive landscape report on attribution retraining as a distinct intervention category from growth mindset programs — mapping the evidence base, key techniques, domain-specific applications, and comparison with mindset intervention outcomes. This topic would directly extend the report's finding that attribution retraining has stronger empirical support than general mindset instruction, providing practitioners with a well-grounded alternative framework.
 > **Core Concepts**: Weiner's attribution model, attribution retraining protocols, domain-specific implementation, feedback design, teacher training requirements
-> **Related Topics**: [[attribution-theory]], [[motivational-interviewing]], [[learned-helplessness]], [[academic-buoyancy]]
+> **Related Topics**: [[Attribution (Heider, 1958)]], [[motivational-interviewing]], [[learned-helplessness]], [[academic-buoyancy]]
 
 > [!topic-idea]
 > **Topic**: Mastery-Experience Architecture in Instructional Design
 > **Report Type**: First Principles
 > **Description**: A first-principles analysis of how learning environments can be designed to ensure that students accumulate genuine mastery experiences — addressing the question of what counts as a mastery experience (vs. artificial easy wins), how scaffolding difficulty affects self-efficacy, and how to balance challenge and success to build domain-specific ability beliefs. Directly extends the Mastery-Experience Primacy Hypothesis derived in Phase IV.
 > **Core Concepts**: Zone of proximal development, scaffolding theory, deliberate practice, desirable difficulties, spaced retrieval, interleaving, expertise acquisition
-> **Related Topics**: [[deliberate-practice]], [[expertise-acquisition]], [[cognitive-load-theory]], [[desirable-difficulties]]
+> **Related Topics**: [[deliberate-practice]], [[expertise-acquisition]], [[Cognitive Load Theory (CLT)]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > [!topic-idea]
 > **Topic**: Goal Climate Design in Educational Environments

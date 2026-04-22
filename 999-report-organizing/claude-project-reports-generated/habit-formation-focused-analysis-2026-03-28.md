@@ -29,7 +29,7 @@ related_concepts:
   - "[[self-regulated-learning]]"
   - "[[Skill-Acquisition]]"
   - "[[deliberate-practice]]"
-  - "[[schema-automation]]"
+  - "[[Schema Automation]]"
   - "[[transfer-of-learning]]"
   - "[[identity-based-habits]]"
   - "[[william-james]]"
@@ -130,7 +130,7 @@ This question matters because the difference between these two outcomes is not m
 
 **Scope and boundaries.** This report analyzes the mechanism of the automaticity transition — the process by which a goal-directed behavior becomes context-triggered — with particular focus on the neuropsychological architecture underlying this transition and its implications for deliberate habit design. It does not provide a comprehensive overview of all habit formation theories; for that, the existing PKB nodes on [[habit-formation]], [[automaticity]], and [[behavioral-modification]] provide sufficient foundation. The analytical penetration here is directed at a specific question about mechanism, not at surveying the landscape.
 
-**Why this focus matters for this PKB.** The broader knowledge base is deeply invested in questions about [[self-regulated-learning]], [[deliberate-practice]], and [[schema-automation]]. Habit formation sits at the intersection of all three: it is the process by which cognitively expensive regulated behavior becomes automatic, freeing cognitive resources for higher-order regulation. Understanding the mechanism precisely — rather than at a folk-psychological level — has direct implications for how one designs learning workflows, PKB practices, and skill acquisition programs.
+**Why this focus matters for this PKB.** The broader knowledge base is deeply invested in questions about [[self-regulated-learning]], [[deliberate-practice]], and [[Schema Automation]]. Habit formation sits at the intersection of all three: it is the process by which cognitively expensive regulated behavior becomes automatic, freeing cognitive resources for higher-order regulation. Understanding the mechanism precisely — rather than at a folk-psychological level — has direct implications for how one designs learning workflows, PKB practices, and skill acquisition programs.
 
 **Roadmap.** Phase II establishes the dual-system framework and key distinctions that structure the analysis. Phase III examines the empirical evidence base, focusing on what the neuroscience and behavioral research actually establishes. Phase IV penetrates the mechanisms — the basal ganglia habit system, context-action encoding, and the specificity principle. Phase V traces the implications for practice, including the underappreciated role of context stability. Phase VI synthesizes the analysis into an original contribution. Phase VII extracts transferable principles. Phases VIII and IX provide PKB connections and reference resources.
 
@@ -378,7 +378,7 @@ The habit formation analysis revealed that the operative causal variable in the 
 
 At an abstract structural level, this instantiates a more general principle: *in systems that learn associative mappings, the quality (specificity and consistency) of the association-forming experiences matters more than the quantity.* This principle operates whenever a system — neural, social, computational — is being trained to respond automatically to a class of inputs.
 
-**Structural analogue 1: Reading Fluency Development.** In the acquisition of [[silent-reading-fluency|reading fluency]], the transition from effortful phonological decoding to automatic sight-word recognition follows the same structural logic. A student who encounters the same orthographic pattern in variable contexts (different fonts, different positions, different surrounding words) develops weaker and more conditional automaticity than one who encounters the pattern in consistent, distinctive configurations. The [[schema-automation|schema automation]] research confirms this: automatic word recognition is context-sensitive in early development, becoming context-independent only as automaticity deepens. This is the same context-stability principle, operating through the same chunking mechanism, in a reading rather than behavioral domain.
+**Structural analogue 1: Reading Fluency Development.** In the acquisition of [[silent-reading-fluency|reading fluency]], the transition from effortful phonological decoding to automatic sight-word recognition follows the same structural logic. A student who encounters the same orthographic pattern in variable contexts (different fonts, different positions, different surrounding words) develops weaker and more conditional automaticity than one who encounters the pattern in consistent, distinctive configurations. The [[Schema Automation|schema automation]] research confirms this: automatic word recognition is context-sensitive in early development, becoming context-independent only as automaticity deepens. This is the same context-stability principle, operating through the same chunking mechanism, in a reading rather than behavioral domain.
 
 **Structural analogue 2: Skill Acquisition and Deliberate Practice.** In [[deliberate-practice]] research (Ericsson et al., 1993), the finding that experts practice in highly constrained, consistent sub-skill configurations — isolating specific components and drilling them in stable, well-defined contexts — maps onto the context-stability principle. The "variable practice" literature in motor learning (Schmidt, 1975) appears to contradict this, but the contradiction dissolves when distinguished: variable practice improves *transfer* (the goal-directed system's generalization), while context-consistent practice improves *automaticity* (the habit system's reliable execution). Expert performers use both: variable practice for adaptive flexibility, consistent context practice for reliable automaticity of core subskills.
 
@@ -432,7 +432,7 @@ What makes these insights transferable? The structural principles identified her
 >
 > - **[[Self-Regulated-Learning-—-Focused-Analysis]]** — The existing focused analysis on SRL likely addresses the regulatory cycle in detail. This habit formation analysis adds the dimension that successful SRL ultimately aims to automate its component processes, and the habit formation mechanism specifies how that automation occurs.
 >
-> - **[[schema-automation]]** — The cross-domain connection between cortico-striatal habit chunking and schema automation in reading fluency is a direct enrichment of this node. Both involve the same underlying mechanism (consistent context-action pairing → chunked automatic execution) expressed in different behavioral domains.
+> - **[[Schema Automation]]** — The cross-domain connection between cortico-striatal habit chunking and schema automation in reading fluency is a direct enrichment of this node. Both involve the same underlying mechanism (consistent context-action pairing → chunked automatic execution) expressed in different behavioral domains.
 >
 > - **[[deliberate-practice]]** — The variable practice vs. context-consistent practice distinction identified in Phase VII's transfer analysis enriches the deliberate practice node with a nuance that Ericsson's framework does not fully elaborate: consistent practice is for automaticity; variable practice is for transfer. Both are necessary; they serve different functions.
 >
@@ -442,7 +442,7 @@ What makes these insights transferable? The structural principles identified her
 >
 > - **[[cog-sci-pkm-cognitive-science-principles-for-habit-formation-in-pkm]]** — This existing note in the PKB directly addresses the intersection of habit formation and PKM. This report provides the mechanistic underpinning for that note's principles, and Phase V's practical implications section enriches it with the context engineering protocol and withdrawal principle.
 >
-> - **[[cognitive-load-theory]]** — The habit formation mechanism is precisely a cognitive load reduction mechanism: successfully automatized behaviors consume minimal working memory, freeing cognitive bandwidth for higher-order processing. This report enriches the CLT node with the specific mechanism (cortico-striatal chunking) by which cognitive load reduction through practice occurs.
+> - **[[Cognitive Load Theory (CLT)]]** — The habit formation mechanism is precisely a cognitive load reduction mechanism: successfully automatized behaviors consume minimal working memory, freeing cognitive bandwidth for higher-order processing. This report enriches the CLT node with the specific mechanism (cortico-striatal chunking) by which cognitive load reduction through practice occurs.
 >
 > - **[[self-determination-theory]]** — The structural parallel between SDT's internalization continuum and the scaffolding-withdrawal model (Phase VII, structural analogue 4) is a genuine cross-theoretical insight that neither framework has made explicit. The convergence on a common structural pattern (scaffolding → progressive ceding → autonomous execution) strengthens both frameworks.
 >
@@ -480,7 +480,7 @@ What makes these insights transferable? The structural principles identified her
 >
 > **Operational Indicators:** Neurophysiologically: boundary-focused striatal firing with diminished mid-sequence activity. Behaviorally: inability to stop mid-sequence without explicit effort; faster execution than component-by-component performance; difficulty modifying sub-elements of an established routine.
 >
-> **Cross-References:** [[cortico-striatal-learning-loops]], [[schema-automation]], [[automaticity]]
+> **Cross-References:** [[cortico-striatal-learning-loops]], [[Schema Automation]], [[automaticity]]
 
 > [!definition] **Context-Action Encoding**
 > **Definition:** The dopaminergically-modulated associative binding process in the basal ganglia habit system by which a contextual configuration (comprising temporal, environmental, emotional, and social features) becomes a reliable predictor of a behavioral routine. The binding strengthens with consistent pairing and is modulated by prediction-error dopamine signals. NOT simply Pavlovian conditioning, because the encoded association is between context and action (not context and outcome).
@@ -510,7 +510,7 @@ What makes these insights transferable? The structural principles identified her
 >
 > **Report-Specific Significance:** The prediction error mechanism explains the [[hedonic-adaptation]] problem in habit maintenance (expected rewards generate no associative strengthening) and why novel or unexpected rewards drive stronger habit formation than anticipated ones.
 >
-> **Cross-References:** [[cortico-striatal-learning-loops]], [[intrinsic-motivation]], [[reward-contingency-types]]
+> **Cross-References:** [[cortico-striatal-learning-loops]], [[Intrinsic Motivation]], [[reward-contingency-types]]
 
 ---
 

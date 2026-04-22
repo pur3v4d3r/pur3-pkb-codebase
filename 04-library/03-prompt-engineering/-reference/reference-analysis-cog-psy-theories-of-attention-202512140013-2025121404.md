@@ -441,7 +441,7 @@ improvement-potential: "Medium"
 > <span style='color: #27FF00;'>**Well-Executed Links:**</span>
 > - Core constructs: `[[selective-attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`
 > - Theorists: `[[Donald Broadbent]]` (via inline field), `[[daniel-kahneman]]` (implied)
-> - Related frameworks: `[[working-memory]]`, `[[cognitive-load-theory]]`, `[[self-determination-theory]]`
+> - Related frameworks: `[[working-memory]]`, `[[Cognitive Load Theory (CLT)]]`, `[[self-determination-theory]]`
 > - Neural substrates: `[[Dorsal Attention Network]]`, `[[Ventral Attention Network]]`
 
 > [!warning] Missed Wiki-Link Opportunities

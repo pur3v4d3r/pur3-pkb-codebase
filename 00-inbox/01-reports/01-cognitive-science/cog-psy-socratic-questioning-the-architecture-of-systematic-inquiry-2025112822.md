@@ -485,7 +485,7 @@ Through this systematic process, clients often discover that beliefs that *feel*
 
 ### Synthesis with Existing Cognitive Frameworks
 
-**Socratic Questioning** represents a nexus point where multiple intellectual traditions converge. Its relationship to **[[self-determination-theory]]** emerges through its support for **[[autonomy]]**—the psychological need to experience volition and self-direction. Unlike authoritarian pedagogy that imposes conclusions, Socratic questioning positions learners as active agents in knowledge construction, satisfying autonomy needs that fuel **[[intrinsic-motivation]]**.
+**Socratic Questioning** represents a nexus point where multiple intellectual traditions converge. Its relationship to **[[self-determination-theory]]** emerges through its support for **[[autonomy]]**—the psychological need to experience volition and self-direction. Unlike authoritarian pedagogy that imposes conclusions, Socratic questioning positions learners as active agents in knowledge construction, satisfying autonomy needs that fuel **[[Intrinsic Motivation]]**.
 
 The method's connection to **[[Stoicism]]** appears in its emphasis on examining beliefs before accepting them—a practice central to [[Stoic Epistemology]]. The Stoic sage practices **[[Prosoche]]** (attention/vigilance), maintaining metacognitive awareness of impressions and subjecting them to rational scrutiny before granting assent. Socratic questioning provides a structured protocol for this scrutiny, particularly through assumption-probing and evidence-evaluation.
 
@@ -565,4 +565,4 @@ The framework's power lies in its dual character as both **art and science**. Th
 4. **[[Dialogic Teaching and Classroom Discourse - The Architecture of Educational Conversation]]**
    - *Connection*: Socratic questioning represents one approach to structuring educational dialogue, but it exists within a broader landscape of discourse strategies (IRE patterns, accountable talk, exploratory talk, etc.). Understanding this context clarifies when Socratic methods are optimal versus when alternatives are more appropriate.
    - *Depth Potential*: The research on classroom discourse patterns reveals that not all dialogue is equally educative. Some patterns reinforce passive compliance while others cultivate genuine thinking. Distinguishing productive from unproductive discourse requires detailed analysis.
-   - *Knowledge Graph Role*: This connects Socratic questioning to broader [[pedagogy]], [[andragogy]], and [[constructivist-learning-theory]], creating links to [[zone-of-proximal-development]], [[scaffolding]], and [[cognitive-apprenticeship]].
+   - *Knowledge Graph Role*: This connects Socratic questioning to broader [[pedagogy]], [[andragogy]], and [[constructivist-learning-theory]], creating links to [[zone-of-proximal-development]], [[Scaffolded Fading]], and [[cognitive-apprenticeship]].

@@ -1,52 +1,27 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "self-explanation-effect"
-aliases:
-  - "self-explanation-effect"
+title: self-explanation-effect
+aliases: [self-explanation-effect, self-explanation]
 type: permanent-note
 status: seedling
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
-tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+tags: [permanent-note, seedling, concept-stub, other]
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 156
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]"
-  - "[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]"
-  - "[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]"
-  - "[[Abstract]]"
-  - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
-  - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
-  - "[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]"
-  - "[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]"
-  - "[[Central-claim-of-this-level|Central claim of this level]]"
+  - '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
+  - '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
+  - '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]'
+  - '[[Abstract]]'
+  - '[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]'
+  - '[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]'
+  - '[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]'
+  - '[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]'
+  - '[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]'
+  - '[[Central-claim-of-this-level|Central claim of this level]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -54,7 +29,10 @@ see-also:
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
+provenance:
+  source-reports: []
 ---
+
 
 # self-explanation-effect
 
@@ -75,7 +53,7 @@ importance: high
 - [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
 - [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
 - [[Central-claim-of-this-level|Central claim of this level]]
-- [[Chunk]]
+- [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 - [[Claude's-perspective-on-the-dynamics|Claude's perspective on the dynamics]]
 - [[Claude's-perspective-on-the-edge-cases|Claude's perspective on the edge cases]]
 - [[Claude's-perspective-on-the-frontier|Claude's perspective on the frontier]]
@@ -86,3 +64,11 @@ importance: high
 - [[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]
 - [[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]
 - *...and 136 more permanent notes*
+
+## Additional Material (Merged)
+
+> [!definition] **self-explanation**
+> *Stub note — concept referenced by 245 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+
+## Connections

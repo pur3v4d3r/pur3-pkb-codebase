@@ -92,7 +92,7 @@ key-distinctions:
   - Independent study vs. autonomous learning
 prerequisites:
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
 related:
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[self-determination-theory|Self-Determination Theory]]"
@@ -113,7 +113,7 @@ narrower:
   - "[[heutagogy]]"
 see-also:
   - "[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]"
-  - "[[lifelong-learning|Lifelong Learning]]"
+  - "[[Lifelong Learning|Lifelong Learning]]"
   - "[[andragogy]]"
   - "[[Transformative-Learning|Transformative Learning]]"
   - "[[online-learning-design|Online Learning Design]]"
@@ -127,7 +127,7 @@ applied-in:
   - "[[Higher Education Pedagogy]]"
 builds-on:
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]"
 enables:
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"

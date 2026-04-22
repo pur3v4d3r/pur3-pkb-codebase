@@ -526,7 +526,7 @@ Self-directed learning is defined as an approach where learners are motivated to
 
 **2. Evidence for Experience-Based Learning:**
 
-The principle that adults learn most effectively when new knowledge connects to existing knowledge finds strong support in cognitive science. The concept of [[schema-theory]] in cognitive psychology posits that we understand new information by fitting it into existing mental frameworks. By focusing on single ideas and forging connections between them, the Zettelkasten method encourages deeper understanding and long-term retention of information.
+The principle that adults learn most effectively when new knowledge connects to existing knowledge finds strong support in cognitive science. The concept of [[schema-theory-and-knowledge-organization]] in cognitive psychology posits that we understand new information by fitting it into existing mental frameworks. By focusing on single ideas and forging connections between them, the Zettelkasten method encourages deeper understanding and long-term retention of information.
 
 The practice of [[elaborative-rehearsal]]—processing information by connecting it to what you already know—has been shown repeatedly to produce stronger memory encoding than simple repetition. An andragogical Personal Knowledge Base that emphasizes connection-making is essentially operationalizing elaborative rehearsal as a systematic practice.
 

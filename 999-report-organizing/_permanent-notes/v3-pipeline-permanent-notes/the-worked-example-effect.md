@@ -1,52 +1,27 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "the-worked-example-effect"
-aliases:
-  - "the-worked-example-effect"
+title: the-worked-example-effect
+aliases: [the-worked-example-effect, worked-example-effect]
 type: permanent-note
 status: seedling
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
-tags:
-  - permanent-note
-  - seedling
-  - concept-stub
-  - other
-
+tags: [permanent-note, seedling, concept-stub, other]
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-04-22
-updated: 2026-04-22
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
+updated: '2026-04-22'
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 75
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
-  - "[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]"
-  - "[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]"
-  - "[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]"
-  - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
-  - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
-  - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
-  - "[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]"
-  - "[[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]"
-  - "[[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]"
-  - "[[Complex-Learning|Complex Learning]]"
+  - '[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]'
+  - '[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]'
+  - '[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]'
+  - '[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]'
+  - '[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]'
+  - '[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]'
+  - '[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]'
+  - '[[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]'
+  - '[[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]'
+  - '[[Complex-Learning|Complex Learning]]'
 
 # ═══════════════════════════════════════════════════════════════════════════
 # PERSONAL KNOWLEDGE MANAGEMENT
@@ -54,7 +29,10 @@ see-also:
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
+provenance:
+  source-reports: []
 ---
+
 
 # the-worked-example-effect
 
@@ -86,3 +64,11 @@ importance: high
 - [[Jeroen-J.G.-van-Merriënboer-b.-1959|Jeroen J.G. van Merriënboer (b. 1959)]]
 - [[John-Sweller-b.-1946|John Sweller (b. 1946)]]
 - *...and 55 more permanent notes*
+
+## Additional Material (Merged)
+
+> [!definition] **worked-example-effect**
+> *Stub note — concept referenced by 261 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+
+## Connections

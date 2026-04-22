@@ -36,7 +36,7 @@ aliases: [Cognitive PKM Design, Science-Based Knowledge Management, Cognitive Ar
 The intersection of [[cognitive-science]] and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] represents one of the most fertile grounds for systematic PKB improvement. Your refactoring goal—to embed cognitive principles into the foundational architecture—moves beyond superficial organization toward designing a system that genuinely extends and complements human cognition rather than fighting against it.
 
 > [!principle-point] Core Insight: Cognitive Alignment Principle
-> An effective PKB should reduce [[cognitive-load]], support [[schema-formation]], enable [[metacognition]], and scaffold [[self-regulated-learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
+> An effective PKB should reduce [[Cognitive Load Theory (CLT)]], support [[schema-formation]], enable [[metacognition]], and scaffold [[self-regulated-learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
 
 ## 🧠 Essential Integration Topics
 
@@ -45,7 +45,7 @@ The intersection of [[cognitive-science]] and [[03-notes/01_permanent-notes/02_p
 > [!key-claim] Design Constraint from Cognitive Science
 > [[working-memory]] has a capacity limit of approximately 4±1 chunks for novel information (Cowan, 2001), with traditional estimates of 7±2 now considered inflated. This isn't a flaw—it's a design specification for your PKB.
 
-**The Cognitive Principle**: Working memory acts as the cognitive bottleneck between perception and long-term storage. Information must be processed through this limited-capacity system before meaningful encoding occurs. [[chunking]] allows us to compress multiple elements into single meaningful units, effectively expanding functional capacity.
+**The Cognitive Principle**: Working memory acts as the cognitive bottleneck between perception and long-term storage. Information must be processed through this limited-capacity system before meaningful encoding occurs. [[Chunk (Miller, 1956; Chase & Simon, 1973)]] allows us to compress multiple elements into single meaningful units, effectively expanding functional capacity.
 
 **PKB Application Architecture**:
 - **Atomic Note Sizing**: Each note should contain one conceptual "chunk" that can be held entirely in working memory during processing
@@ -68,7 +68,7 @@ The intersection of [[cognitive-science]] and [[03-notes/01_permanent-notes/02_p
 > [!principle-point] The Retrieval Paradox
 > Making information *harder* to retrieve (within limits) actually strengthens long-term retention. This insight from [[cognitive-psychology]] fundamentally challenges typical PKB design that prioritizes frictionless access.
 
-**The Cognitive Principle**: [[retrieval-practice]] (testing effect) and [[desirable-difficulties]] create stronger memory traces than passive review. The cognitive effort required during retrieval strengthens neural pathways. [[Bjork's Desirable Difficulties Framework]] suggests optimal learning involves appropriate challenges during encoding and retrieval.
+**The Cognitive Principle**: [[Desirable Difficulties (Robert Bjork, 1994)]] (testing effect) and [[Desirable Difficulties (Robert Bjork, 1994)]] create stronger memory traces than passive review. The cognitive effort required during retrieval strengthens neural pathways. [[Bjork's Desirable Difficulties Framework]] suggests optimal learning involves appropriate challenges during encoding and retrieval.
 
 **PKB Application Architecture**:
 - **Spaced Retrieval Systems**: Implement spaced repetition not just for flashcards, but for note review cycles (perhaps using Dataview queries with date calculations)
@@ -88,7 +88,7 @@ The intersection of [[cognitive-science]] and [[03-notes/01_permanent-notes/02_p
 > [!definition] Schema
 > In cognitive science, a [[schema]] is an organized pattern of thought or behavior that organizes information and relationships among information. Schemas act as mental frameworks that help us interpret new information in relation to existing knowledge structures.
 
-**The Cognitive Principle**: [[schema-theory]] (Bartlett, Piaget, later Anderson) proposes that learning involves integrating new information into existing cognitive structures. Well-developed schemas enable: (1) faster information processing, (2) better inference-making, (3) enhanced memory through meaningful organization, and (4) transfer of knowledge to novel situations.
+**The Cognitive Principle**: [[schema-theory-and-knowledge-organization]] (Bartlett, Piaget, later Anderson) proposes that learning involves integrating new information into existing cognitive structures. Well-developed schemas enable: (1) faster information processing, (2) better inference-making, (3) enhanced memory through meaningful organization, and (4) transfer of knowledge to novel situations.
 
 **PKB Application Architecture**:
 - **MOCs as External Schemas**: Design your [[Maps of Content]] to mirror the hierarchical, interconnected nature of cognitive schemas rather than arbitrary categorical filing
@@ -144,7 +144,7 @@ The intersection of [[cognitive-science]] and [[03-notes/01_permanent-notes/02_p
 
 ### 6. **[[Cognitive Load Management in Hierarchy Design]]**
 
-**The Cognitive Principle**: [[cognitive-load-theory]] (Sweller) distinguishes between three types of load: [[Intrinsic-Load]] (inherent complexity), [[extraneous-load]] (poorly designed presentation), and [[germane-load]] (productive processing). Effective instructional design minimizes extraneous load while optimizing germane load appropriate to learner expertise.
+**The Cognitive Principle**: [[Cognitive Load Theory (CLT)]] (Sweller) distinguishes between three types of load: [[Intrinsic-Load]] (inherent complexity), [[extraneous-load]] (poorly designed presentation), and [[Cognitive Load Theory (CLT)]] (productive processing). Effective instructional design minimizes extraneous load while optimizing germane load appropriate to learner expertise.
 
 **PKB Application Architecture**:
 - **Expertise-Adaptive Structure**: Organize notes differently for learning vs. expert reference (learners need more scaffolding, experts need dense interconnection)
@@ -219,7 +219,7 @@ The intersection of [[cognitive-science]] and [[03-notes/01_permanent-notes/02_p
 
 ### 10. **[[Interleaving and Spacing in Review Workflows]]**
 
-**The Cognitive Principle**: Research on [[spacing-effect]] (Ebbinghaus, continued by Cepeda et al.) and [[Interleaving Practice]] demonstrates that distributed practice across time and mixed practice across topics produces better long-term retention than massed or blocked practice, despite feeling less fluent during learning.
+**The Cognitive Principle**: Research on [[Desirable Difficulties (Robert Bjork, 1994)]] (Ebbinghaus, continued by Cepeda et al.) and [[Interleaving Practice]] demonstrates that distributed practice across time and mixed practice across topics produces better long-term retention than massed or blocked practice, despite feeling less fluent during learning.
 
 **PKB Application Architecture**:
 - **Algorithmic Review Scheduling**: Implement Dataview queries that surface notes for review based on expanding intervals (1 day, 3 days, 1 week, 2 weeks, 1 month, 3 months)
@@ -250,7 +250,7 @@ The intersection of [[cognitive-science]] and [[03-notes/01_permanent-notes/02_p
 - **3D Knowledge Structures**: Experiment with hierarchical spatial layouts where depth represents abstraction levels
 
 > [!analogy] The Mental Palace Architecture
-> Like the ancient [[Method-of-Loci]] technique, your PKB can function as a "memory palace" where ideas have spatial locations. When you need to retrieve information about [[cognitive-load-theory]], you don't just search—you navigate to the "Learning Theories wing" of your knowledge palace, "walk" to the "Instructional Design section," and "see" cognitive load theory in its spatial context among related concepts.
+> Like the ancient [[Method-of-Loci]] technique, your PKB can function as a "memory palace" where ideas have spatial locations. When you need to retrieve information about [[Cognitive Load Theory (CLT)]], you don't just search—you navigate to the "Learning Theories wing" of your knowledge palace, "walk" to the "Instructional Design section," and "see" cognitive load theory in its spatial context among related concepts.
 
 ### 12. **[[Incremental Reading and Progressive Summarization]]**
 
@@ -308,7 +308,7 @@ Your refactoring process should itself embody [[Incremental Learning]] principle
 
 2. **[[Expertise Development Stages and PKB Architecture Evolution]]**
    - *Connection*: As you progress from novice to expert in cognitive science (and in PKM itself), your PKB needs different structures—this topic examines how system design should adapt across expertise levels
-   - *Depth Potential*: Integration of [[Dreyfus Model of Skill Acquisition]], [[adaptive-expertise]] theory, and [[expertise-reversal-effect]] with concrete PKB transformation strategies
+   - *Depth Potential*: Integration of [[Dreyfus Model of Skill Acquisition]], [[adaptive-expertise]] theory, and [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] with concrete PKB transformation strategies
    - *Knowledge Graph Role*: Meta-level topic that informs how all other cognitive science principles should be applied differently based on current knowledge state
 
 3. **[[Cognitive Offloading vs. Cognitive Partnership in External Systems]]**

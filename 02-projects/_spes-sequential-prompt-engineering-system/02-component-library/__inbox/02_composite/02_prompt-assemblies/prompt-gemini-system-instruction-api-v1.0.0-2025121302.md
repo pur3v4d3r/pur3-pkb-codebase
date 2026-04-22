@@ -534,7 +534,7 @@ aliases:
 > [!definition] Core Definition
 > [**Cognitive-Load-Theory**:: a framework developed by [[john-sweller]] asserting that [[working-memory]] has strict capacity limitations, and that learning is optimized when instructional design manages total cognitive demands to prevent overload while maximizing productive mental effort.]
 
-[[cognitive-load-theory]] (CLT) emerged from research in the 1980s investigating why some instructional approaches consistently outperformed others. The theory's foundational insight recognizes that [[working-memory]]—the mental workspace where we actively process new information—operates under severe constraints. [**Working-Memory-Limitation**:: humans can typically hold only 4±1 discrete elements in working memory simultaneously, and these elements decay within approximately 20 seconds without rehearsal.]
+[[Cognitive Load Theory (CLT)]] (CLT) emerged from research in the 1980s investigating why some instructional approaches consistently outperformed others. The theory's foundational insight recognizes that [[working-memory]]—the mental workspace where we actively process new information—operates under severe constraints. [**Working-Memory-Limitation**:: humans can typically hold only 4±1 discrete elements in working memory simultaneously, and these elements decay within approximately 20 seconds without rehearsal.]
 
 > [!principle-point] The Central Proposition
 > Learning occurs when information successfully transfers from working memory to [[long-term-memory]] through the construction of [[schemas]]—organized knowledge structures that can later be retrieved as single units, effectively bypassing working memory limitations.
@@ -557,10 +557,10 @@ CLT distinguishes three types of cognitive load that compete for limited working
 > [!methodology-and-sources] Design Strategies Derived from CLT
 > Several evidence-based techniques emerge from CLT principles:
 > 
-> - **[[worked-example-effect]]**: Studying solved examples reduces extraneous load compared to problem-solving, especially for novices
+> - **[[the-worked-example-effect]]**: Studying solved examples reduces extraneous load compared to problem-solving, especially for novices
 > - **[[split-attention-effect]]**: Integrate related information sources physically rather than requiring mental integration
 > - **[[redundancy-effect]]**: Eliminate duplicate information streams (e.g., identical text and narration)
-> - **[[expertise-reversal-effect]]**: Strategies optimal for novices can become counterproductive for experts whose schemas handle complexity differently
+> - **[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]**: Strategies optimal for novices can become counterproductive for experts whose schemas handle complexity differently
 
 > [!warning] Common Misconception
 > [**CLT-Misconception**:: Cognitive Load Theory does NOT advocate for making learning "easy"—it advocates for directing cognitive effort toward productive schema construction rather than wasting it on poorly designed instruction.]
@@ -574,17 +574,17 @@ CLT distinguishes three types of cognitive load that compete for limited working
    - *Depth Potential*: Baddeley's model, Cowan's embedded processes, capacity debates
    - *Knowledge Graph Role*: Foundational cognitive architecture node linking to all learning theories
 
-2. **[[schema-theory]]**
+2. **[[schema-theory-and-knowledge-organization]]**
    - *Connection*: Schemas are the mechanism through which CLT explains learning and expertise
    - *Depth Potential*: Schema acquisition, automation, and their role in expert performance
    - *Knowledge Graph Role*: Bridge between cognitive psychology and instructional design
 
-3. **[[expertise-reversal-effect]]**
+3. **[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]**
    - *Connection*: Critical CLT finding that optimal instruction varies by learner expertise
    - *Depth Potential*: Adaptive instruction design, learner assessment integration
    - *Knowledge Graph Role*: Key node for personalized learning system design
 
-4. **[[element-interactivity]]**
+4. **[[Technical Detail: The relationship between element interactivity and working-memory load]]**
    - *Connection*: The construct that determines intrinsic cognitive load
    - *Depth Potential*: Measurement approaches, sequencing implications, complexity analysis
    - *Knowledge Graph Role*: Technical concept linking CLT to curriculum design decisions
@@ -868,7 +868,7 @@ aliases:
 > [!definition] Core Definition
 > [**Cognitive-Load-Theory**:: a framework developed by [[john-sweller]] asserting that [[working-memory]] has strict capacity limitations, and that learning is optimized when instructional design manages total cognitive demands to prevent overload while maximizing productive mental effort.]
 
-[[cognitive-load-theory]] (CLT) emerged from research in the 1980s investigating why some instructional approaches consistently outperformed others. The theory's foundational insight recognizes that [[working-memory]]—the mental workspace where we actively process new information—operates under severe constraints. [**Working-Memory-Limitation**:: humans can typically hold only 4±1 discrete elements in working memory simultaneously, and these elements decay within approximately 20 seconds without rehearsal.]
+[[Cognitive Load Theory (CLT)]] (CLT) emerged from research in the 1980s investigating why some instructional approaches consistently outperformed others. The theory's foundational insight recognizes that [[working-memory]]—the mental workspace where we actively process new information—operates under severe constraints. [**Working-Memory-Limitation**:: humans can typically hold only 4±1 discrete elements in working memory simultaneously, and these elements decay within approximately 20 seconds without rehearsal.]
 
 > [!principle-point] The Central Proposition
 > Learning occurs when information successfully transfers from working memory to [[long-term-memory]] through the construction of [[schemas]]—organized knowledge structures that can later be retrieved as single units, effectively bypassing working memory limitations.
@@ -891,10 +891,10 @@ CLT distinguishes three types of cognitive load that compete for limited working
 > [!methodology-and-sources] Design Strategies Derived from CLT
 > Several evidence-based techniques emerge from CLT principles:
 > 
-> - **[[worked-example-effect]]**: Studying solved examples reduces extraneous load compared to problem-solving, especially for novices
+> - **[[the-worked-example-effect]]**: Studying solved examples reduces extraneous load compared to problem-solving, especially for novices
 > - **[[split-attention-effect]]**: Integrate related information sources physically rather than requiring mental integration
 > - **[[redundancy-effect]]**: Eliminate duplicate information streams (e.g., identical text and narration)
-> - **[[expertise-reversal-effect]]**: Strategies optimal for novices can become counterproductive for experts whose schemas handle complexity differently
+> - **[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]**: Strategies optimal for novices can become counterproductive for experts whose schemas handle complexity differently
 
 > [!warning] Common Misconception
 > [**CLT-Misconception**:: Cognitive Load Theory does NOT advocate for making learning "easy"—it advocates for directing cognitive effort toward productive schema construction rather than wasting it on poorly designed instruction.]
@@ -908,17 +908,17 @@ CLT distinguishes three types of cognitive load that compete for limited working
    - *Depth Potential*: Baddeley's model, Cowan's embedded processes, capacity debates
    - *Knowledge Graph Role*: Foundational cognitive architecture node linking to all learning theories
 
-2. **[[schema-theory]]**
+2. **[[schema-theory-and-knowledge-organization]]**
    - *Connection*: Schemas are the mechanism through which CLT explains learning and expertise
    - *Depth Potential*: Schema acquisition, automation, and their role in expert performance
    - *Knowledge Graph Role*: Bridge between cognitive psychology and instructional design
 
-3. **[[expertise-reversal-effect]]**
+3. **[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]**
    - *Connection*: Critical CLT finding that optimal instruction varies by learner expertise
    - *Depth Potential*: Adaptive instruction design, learner assessment integration
    - *Knowledge Graph Role*: Key node for personalized learning system design
 
-4. **[[element-interactivity]]**
+4. **[[Technical Detail: The relationship between element interactivity and working-memory load]]**
    - *Connection*: The construct that determines intrinsic cognitive load
    - *Depth Potential*: Measurement approaches, sequencing implications, complexity analysis
    - *Knowledge Graph Role*: Technical concept linking CLT to curriculum design decisions

@@ -201,7 +201,7 @@ extraction_summary:
 #### 10. [CROSS-DOMAIN-CONNECTION] Socratic Elenchus and Elaborative Interrogation: Ancient Practice, Modern Mechanism *(Line 173)*
 
 > [!cross-domain-connection] Socratic Elenchus and Elaborative Interrogation: Ancient Practice, Modern Mechanism
-> The Socratic elenchus (educational philosophy) and [[elaborative-interrogation|Elaborative Interrogation]] (cognitive psychology) are separated not only by centuries but by radically different intellectual frameworks and methodologies. Yet they converge, with remarkable precision, on the same cognitive prescription: the learner should be required to justify, explain, and elaborate their beliefs, rather than simply receiving or restating information. Elenchus forces explicit justification of held beliefs, revealing logical gaps and under-examined assumptions. Elaborative interrogation forces explanation of received information, requiring the learner to connect it to existing knowledge structures. In both cases, the generative cognitive work — the effortful attempt to produce justifications and explanations — is the mechanism of learning, not a mere adjunct to it. For PKB design, this convergence from ancient philosophy and modern experimental psychology significantly increases confidence in the prescription: notes should require the note-maker to explain, not merely to record. The "why?" is not a stylistic addition to a note; it is, mechanistically, where the learning happens.
+> The Socratic elenchus (educational philosophy) and [[Elaborative Interrogation|Elaborative Interrogation]] (cognitive psychology) are separated not only by centuries but by radically different intellectual frameworks and methodologies. Yet they converge, with remarkable precision, on the same cognitive prescription: the learner should be required to justify, explain, and elaborate their beliefs, rather than simply receiving or restating information. Elenchus forces explicit justification of held beliefs, revealing logical gaps and under-examined assumptions. Elaborative interrogation forces explanation of received information, requiring the learner to connect it to existing knowledge structures. In both cases, the generative cognitive work — the effortful attempt to produce justifications and explanations — is the mechanism of learning, not a mere adjunct to it. For PKB design, this convergence from ancient philosophy and modern experimental psychology significantly increases confidence in the prescription: notes should require the note-maker to explain, not merely to record. The "why?" is not a stylistic addition to a note; it is, mechanistically, where the learning happens.
 
 #### 11. [DEFINITION] Generative Learning (Cognitive Psychology / Educational Psychology, Wittrock 1990) *(Line 178)*
 
@@ -661,14 +661,14 @@ extraction_summary:
 - [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]]
 - [[Child-Inquiry-Node]]
 - [[cognitive-disequilibrium|Cognitive Disequilibrium]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Competing-View-Note]]
 - [[constructivism]]
 - [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
 - [[critical-thinking|Critical Thinking]]
 - [[Curiosity-Driven Knowledge Graph]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dewey-Inquiry-Model|Dewey Inquiry Model]]
 - [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]
 - [[Dewey's Inquiry Model]]
@@ -678,7 +678,7 @@ extraction_summary:
 - [[Earlier-Position-Note]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Socratic-Method-Elenchus|Elenchus]]
 - [[Episteme]]
 - [[epistemic-vigilance|Epistemic Vigilance]]
@@ -701,7 +701,7 @@ extraction_summary:
 - [[PBL]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Prior-Understanding-Note]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Productive Failure and PKB Revision Practices]]
 - [[Report 02 — The Architecture of Learning]]
 - [[Report 04 — Metacognitive Self-Regulation]]
@@ -739,7 +739,7 @@ extraction_summary:
 | 8 | [[felt-difficulty|Felt Difficulty]] | — | — | The Synthesis Question | 123 |
 | 9 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | The Synthesis Question | 123 |
 | 10 | [[generative-learning|Generative Learning]] | — | — | The Synthesis Question | 123 |
-| 11 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | The Synthesis Question | 123 |
+| 11 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | The Synthesis Question | 123 |
 | 12 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Disciplinary Contributions and Their ... | 129 |
 | 13 | [[constructivism]] | — | — | Disciplinary Contributions and Their ... | 129 |
 | 14 | [[critical-thinking|Critical Thinking]] | — | — | Disciplinary Contributions and Their ... | 129 |
@@ -760,18 +760,18 @@ extraction_summary:
 | 29 | [[felt-difficulty|Felt Difficulty]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 162 |
 | 30 | [[warranted-assertibility|Warranted Assertibility]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 165 |
 | 31 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 168 |
-| 32 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 174 |
+| 32 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | Dewey's Inquiry Model: Pragmatism as ... | 174 |
 | 33 | [[generative-learning|Generative Learning]] | — | — | Generative Learning and the Self-Expl... | 179 |
 | 34 | [[self-explanation-effect|Self-Explanation Effect]] | — | — | Generative Learning and the Self-Expl... | 182 |
 | 35 | [[Socratic-Method-Elenchus|Elenchus]] | — | — | Generative Learning and the Self-Expl... | 182 |
 | 36 | [[warranted-assertibility|Warranted Assertibility]] | — | — | Generative Learning and the Self-Expl... | 189 |
-| 37 | [[productive-failure|Productive Failure]] | — | — | The Evidence Landscape | 204 |
-| 38 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Evidence Landscape | 204 |
+| 37 | [[Productive Failure|Productive Failure]] | — | — | The Evidence Landscape | 204 |
+| 38 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | The Evidence Landscape | 204 |
 | 39 | [[self-explanation-effect|Self-Explanation Effect]] | — | — | The Elaborative Interrogation Evidenc... | 212 |
 | 40 | [[PBL]] | — | — | The Problem-Based Learning and Inquir... | 219 |
-| 41 | [[productive-failure|Productive Failure]] | — | — | The Productive Failure Research | 225 |
+| 41 | [[Productive Failure|Productive Failure]] | — | — | The Productive Failure Research | 225 |
 | 42 | [[aporia]] | — | — | The Productive Failure Research | 225 |
-| 43 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Productive Tension: Inquiry-Based... | 232 |
+| 43 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | The Productive Tension: Inquiry-Based... | 232 |
 | 44 | [[Report 02 — The Architecture of Learning]] | — | — | The Productive Tension: Inquiry-Based... | 232 |
 | 45 | [[Report 10 — Scaffolding and Fading]] | — | — | The Productive Tension: Inquiry-Based... | 235 |
 | 46 | [[Socratic Seminars]] | — | — | The Social Dimension: Inquiry as Dial... | 241 |
@@ -977,14 +977,14 @@ extraction_summary:
 - [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]]
 - [[Child-Inquiry-Node]]
 - [[cognitive-disequilibrium|Cognitive Disequilibrium]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Competing-View-Note]]
 - [[constructivism]]
 - [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
 - [[critical-thinking|Critical Thinking]]
 - [[Curiosity-Driven Knowledge Graph]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dewey-Inquiry-Model|Dewey Inquiry Model]]
 - [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]
 - [[Dewey's Inquiry Model]]
@@ -994,7 +994,7 @@ extraction_summary:
 - [[Earlier-Position-Note]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Socratic-Method-Elenchus|Elenchus]]
 - [[Episteme]]
 - [[epistemic-vigilance|Epistemic Vigilance]]
@@ -1017,7 +1017,7 @@ extraction_summary:
 - [[PBL]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Prior-Understanding-Note]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Productive Failure and PKB Revision Practices]]
 - [[Report 02 — The Architecture of Learning]]
 - [[Report 04 — Metacognitive Self-Regulation]]
@@ -1060,7 +1060,7 @@ extraction_summary:
 - [[felt-difficulty|Felt Difficulty]]
 - [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
 - [[Problem-Based Learning]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[generative-learning|Generative Learning]]
 - [[Dialectical-Thinking|Dialectical Thinking]]
 - [[Question-Based Note Architecture]]
@@ -1074,8 +1074,8 @@ extraction_summary:
 - [[self-explanation-effect|Self-Explanation Effect]]
 - [[Maieutic Method]]
 - [[Inquiry-Node|Inquiry Node]]
-- [[productive-failure|Productive Failure]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Productive Failure|Productive Failure]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[generative-processing]]
 - [[epistemic-curiosity]]
 - [[Schema Disequilibrium]]

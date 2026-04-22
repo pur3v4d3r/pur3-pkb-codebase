@@ -384,7 +384,7 @@ platform: "Obsidian 1.4.0+"
 > [!definition] Text Generator Plugin
 > [**Text-Generator-Plugin**:: An open-source [[obsidian]] community plugin that provides a native interface to [[Large-Language-Models]] (LLMs) including [[OpenAI]], [[Anthropic-Claude]], [[Google-Gemini]], [[HuggingFace]], and local models via [[Ollama]]. It enables AI-assisted text generation, transformation, and automation directly within your vault using a sophisticated [[Template-System|template system]].]
 
-Text Generator Plugin (TGP) represents a paradigm shift in how knowledge workers interact with AI. Rather than context-switching between your [[PKB]] and external AI interfaces like [[ChatGPT]] or [[Claude.ai]], TGP brings the AI directly into your workspace. This architectural decision has profound implications for [[cognitive-load]] management—you never lose context, your prompts can reference your existing notes, and outputs flow directly into your knowledge system.
+Text Generator Plugin (TGP) represents a paradigm shift in how knowledge workers interact with AI. Rather than context-switching between your [[PKB]] and external AI interfaces like [[ChatGPT]] or [[Claude.ai]], TGP brings the AI directly into your workspace. This architectural decision has profound implications for [[Cognitive Load Theory (CLT)]] management—you never lose context, your prompts can reference your existing notes, and outputs flow directly into your knowledge system.
 
 ### Why Use Text Generator as Your Primary API Interface?
 
@@ -1853,12 +1853,12 @@ output: cursor          # cursor, replace, new-note
 
 #### Cross-Domain Connections
 
-##### 3. **[[cognitive-load-theory-and-pkb-design]]**
+##### 3. **[[Cognitive Load Theory (CLT)]]**
 **Connection:** Understanding CLT informs how to structure AI-augmented workflows to minimize mental overhead while maximizing output quality
 **Depth Potential:** Applies cognitive science to PKB architecture, explaining why vault-centric AI reduces extraneous load
 **Knowledge Graph Role:** Theoretical bridge between cognitive science and PKM practice
 **Priority:** Medium - Deepens understanding of design decisions
-**Prerequisites:** [[cognitive-load-theory]] basics
+**Prerequisites:** [[Cognitive Load Theory (CLT)]] basics
 
 ##### 4. **[[API-Cost-Optimization-Strategies]]**
 **Connection:** Direct relevance to managing TGP usage costs effectively through model selection, prompt engineering, and caching strategies

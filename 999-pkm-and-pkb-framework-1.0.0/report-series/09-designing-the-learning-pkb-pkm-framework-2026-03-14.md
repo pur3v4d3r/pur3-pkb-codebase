@@ -55,8 +55,8 @@ analytical-contributions:
   original-synthesis: 2
 related-concepts:
   - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
-  - "[[schema-theory|Schema Theory]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[working-memory|Working Memory]]"
   - "[[Information-Architecture|Information Architecture]]"
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
@@ -64,14 +64,14 @@ related-concepts:
   - "[[Semantic-Networks|Semantic Networks]]"
   - "[[progressive-disclosure|Progressive Disclosure]]"
   - "[[Maps-of-Content-—-MOCs|Maps of Content]]"
-  - "[[atomic-notes|Atomic Notes]]"
+  - "[[atomic-note|Atomic Notes]]"
   - "[[zettelkasten]]"
   - "[[Faceted-Classification|Faceted Classification]]"
   - "[[SECI-Model|SECI Model]]"
   - "[[Elaboration-Theory|Elaboration Theory]]"
-  - "[[retrieval-practice|Retrieval Practice]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]"
   - "[[encoding-specificity|Encoding Specificity]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Note Types]]"
   - "[[Knowledge-Graph]]"
 aliases:
@@ -96,7 +96,7 @@ There is a peculiar irony at the heart of most Personal Knowledge Base design ad
 
 This asymmetry matters enormously. A PKB is not, in the final analysis, a database. It is an extension of a mind — and specifically, an extension designed to augment the mind's capacity for learning, synthesis, and knowledge construction over time. The architecture of that extension therefore cannot be designed adequately by consulting only the principles of information systems design. It must be designed by consulting, simultaneously, what [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] has discovered about how knowledge is organized in mental architecture, what [[Information-Science|Information Science]] has formalized about structural principles for external knowledge systems, what [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] has established about how learning environments should be arranged, what [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research reveals about the cognitive control processes that effective learners bring to their knowledge work, and what [[memory-systems|Memory Systems]] research shows about how the retrieval environment shapes what can be remembered and applied.
 
-The Tier 1 reports of this series have built the foundations. [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] established that the mind organizes knowledge through [[schema-theory|schemas]] — associative structures that are simultaneously hierarchical and networked, always under construction, shaped by prior knowledge — and that the [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] requires PKB structures to mirror these properties rather than impose alien organizational logics. [[02-architecture-of-learning-pkm-framework-2026-03-13]] showed that [[cognitive-load-theory|Cognitive Load Theory]] — specifically its three-part decomposition into intrinsic, extraneous, and germane load — governs not just how notes should be written but how the navigational architecture of a PKB should be designed. [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] revealed that effective PKM is not primarily a structural problem but a regulatory one: that the [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|SRL cycle]] of planning, monitoring, and reflection must be embedded in PKB workflows as a structural feature, not an optional addition. And [[06-science-of-remembering-pkm-framework-2026-03-13]] demonstrated that how knowledge is organized in a PKB directly determines how retrievable it will be — that [[encoding-specificity|Encoding Specificity]] means the retrieval conditions at review time must match the conditions at encoding time, and that [[retrieval-practice|Retrieval Practice]] strengthens memory precisely through the productive effortful search that good PKB organization can either enable or undermine.
+The Tier 1 reports of this series have built the foundations. [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] established that the mind organizes knowledge through [[schema-theory-and-knowledge-organization|schemas]] — associative structures that are simultaneously hierarchical and networked, always under construction, shaped by prior knowledge — and that the [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] requires PKB structures to mirror these properties rather than impose alien organizational logics. [[02-architecture-of-learning-pkm-framework-2026-03-13]] showed that [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] — specifically its three-part decomposition into intrinsic, extraneous, and germane load — governs not just how notes should be written but how the navigational architecture of a PKB should be designed. [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] revealed that effective PKM is not primarily a structural problem but a regulatory one: that the [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|SRL cycle]] of planning, monitoring, and reflection must be embedded in PKB workflows as a structural feature, not an optional addition. And [[06-science-of-remembering-pkm-framework-2026-03-13]] demonstrated that how knowledge is organized in a PKB directly determines how retrievable it will be — that [[encoding-specificity|Encoding Specificity]] means the retrieval conditions at review time must match the conditions at encoding time, and that [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]] strengthens memory precisely through the productive effortful search that good PKB organization can either enable or undermine.
 
 ### The Synthesis Question
 
@@ -153,7 +153,7 @@ The central challenge of PKB design is bridging two different kinds of architect
 
 ### Initial Synthesis Connections
 
-The definitions above are not isolated concepts from separate fields — they already contain implicit connections that become productive when made explicit. Consider the relationship between [[schema-theory|Schema Theory]] and [[Elaboration-Theory|Elaboration Theory]]: Reigeluth's prescription to move from epitome to elaboration and back mirrors the cognitive architecture of schemas precisely because schemas themselves are organized in this way — with a prototype or exemplar at the center and increasingly specific instances extending outward. The instructional design principle is, at a structural level, a design guideline derived from cognitive architecture. This means that when a PKB implements elaboration theory's prescription — always providing a high-level framing note alongside more detailed atomic notes — it is simultaneously implementing a schema-aligned organizational structure.
+The definitions above are not isolated concepts from separate fields — they already contain implicit connections that become productive when made explicit. Consider the relationship between [[schema-theory-and-knowledge-organization|Schema Theory]] and [[Elaboration-Theory|Elaboration Theory]]: Reigeluth's prescription to move from epitome to elaboration and back mirrors the cognitive architecture of schemas precisely because schemas themselves are organized in this way — with a prototype or exemplar at the center and increasingly specific instances extending outward. The instructional design principle is, at a structural level, a design guideline derived from cognitive architecture. This means that when a PKB implements elaboration theory's prescription — always providing a high-level framing note alongside more detailed atomic notes — it is simultaneously implementing a schema-aligned organizational structure.
 
 > [!cross-domain-connection] **Schemas, MOCs, and Elaboration Theory: A Structural Convergence**
 > Report 01 established that schemas are organized with a prototypical core and increasingly specific elaborations extending outward through associative connections. Reigeluth's Elaboration Theory prescribes exactly this organizational pattern for instructional content. Maps of Content, when properly designed, implement this structure in a PKB: an MOC provides the prototypical framing (the "epitome"), while atomic notes provide the elaborations, and the links between MOC and atomic notes implement the associative connections. This convergence across three independently developed traditions — cognitive psychology, instructional design, and PKM practice — provides strong grounds for treating the MOC/atomic note architecture as the fundamental structural unit of a learning-oriented PKB.
@@ -197,7 +197,7 @@ The spacing and retrieval research established in Report 06 adds a temporal dime
 
 ### The Working Memory Evidence: Navigation Has Cognitive Costs
 
-Report 02 established the foundational constraints of [[cognitive-load-theory|Cognitive Load Theory]] and [[working-memory|Working Memory]]. Here, the critical evidence concerns how those constraints apply specifically to *navigation* in a knowledge system — the cognitive costs of moving through a PKB's structural hierarchy.
+Report 02 established the foundational constraints of [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] and [[working-memory|Working Memory]]. Here, the critical evidence concerns how those constraints apply specifically to *navigation* in a knowledge system — the cognitive costs of moving through a PKB's structural hierarchy.
 
 Miller's 1956 paper establishing the 7±2 limit on working memory chunks has been substantially refined: Cowan (2001) places the limit at approximately 4 chunks for most adults under normal conditions, and this drops further under cognitive load. When a PKB user navigates a folder hierarchy — moving from root level to second level to third level while searching for a note — they must hold the path traversed in working memory while simultaneously evaluating whether the current location is correct and preparing the next navigation step. Each level of hierarchy occupied in working memory is unavailable for content-level thinking. Deep hierarchies — five, six, or more levels — impose navigational working memory costs that crowd out the cognitive resources needed for actual knowledge work.
 
@@ -433,7 +433,7 @@ The framework raises several important questions for future investigation. How d
 >
 > - **[[15-knowledge-organization-at-scale-pkm-framework-2026-03-14]]** — The tension identified in this report between imposed structure (folder hierarchies) and emergent structure (link-based organization) is the central problematic of Report 15. Report 09 establishes design principles for the early-to-mid PKB; Report 15 addresses what happens when those principles encounter the organizational challenges of a mature PKB with thousands of notes and many interconnected domains.
 >
-> - **[[schema-theory|Schema Theory]]** — The foundational concept from cognitive psychology that undergirds the entire structural framework of this report. The [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] is, at its core, a prescription to design PKB structure to mirror the properties of schemas: hierarchical, associative, contextually embedded, and developmentally sensitive.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — The foundational concept from cognitive psychology that undergirds the entire structural framework of this report. The [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] is, at its core, a prescription to design PKB structure to mirror the properties of schemas: hierarchical, associative, contextually embedded, and developmentally sensitive.
 >
 > - **[[zettelkasten]]** — The historical PKM methodology developed by Niklas Luhmann that implements a version of the three-tier structure argued for here. The Zettelkasten's atomic note principle, numbering system for navigational organization, and cross-referencing system anticipate — without the theoretical framework — many of the conclusions of this report's cross-domain analysis.
 >

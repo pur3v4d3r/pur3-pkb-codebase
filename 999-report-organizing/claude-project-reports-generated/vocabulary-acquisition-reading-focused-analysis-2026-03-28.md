@@ -24,12 +24,12 @@ related_concepts:
   - "[[verbal-efficiency-theory]]"
   - "[[levels-of-processing-theory]]"
   - "[[dual-coding-theory]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[situation-models-in-text-comprehension]]"
   - "[[simple-view-of-reading]]"
-  - "[[cognitive-load-theory]]"
-  - "[[spacing-effect]]"
-  - "[[desirable-difficulties]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[transfer-appropriate-processing]]"
   - "[[encoding-specificity-principle]]"
   - "[[metacognition-in-learning]]"
@@ -229,18 +229,18 @@ The first conceptual obstacle to clear thinking about vocabulary acquisition is 
 >
 > **Report-Specific Significance:** The threshold hypothesis creates a paradox: you need vocabulary knowledge to read texts that would provide vocabulary-building exposure, but you can only acquire that vocabulary by reading such texts. This bootstrapping problem is central to Phase IV.
 >
-> **See also:** [[simple-view-of-reading]], [[schema-theory]], [[cognitive-load-theory]]
+> **See also:** [[simple-view-of-reading]], [[schema-theory-and-knowledge-organization]], [[Cognitive Load Theory (CLT)]]
 
 > [!definition] **Context Inference (Sternberg, 1987; Ames, 1966)**
 > The cognitive process by which a reader uses surrounding textual information — syntactic cues, semantic associations, thematic expectations, world knowledge — to infer the approximate meaning of an unfamiliar word. The quality of a context for inference depends on: (1) how much relevant meaning-relevant information the surrounding text provides; (2) the distance between the target word and its inferential supports; (3) whether the meaning clues are explicit or require domain-specific background knowledge to interpret.
 >
 > **Boundary:** Context inference is probabilistic and error-prone. Studies consistently show that readers construct incorrect or overly vague inferences at high rates, particularly when the word's meaning is abstract, culturally specific, or when surrounding context is limited. A "helpful" context is one that narrows the semantic space sufficiently to produce a correct inference, not merely any context that surrounds the word.
 >
-> **See also:** [[schema-theory]], [[situation-models-in-text-comprehension]], [[elaborative-inference]], [[advance-organizers]]
+> **See also:** [[schema-theory-and-knowledge-organization]], [[situation-models-in-text-comprehension]], [[elaborative-inference]], [[advance-organizers]]
 
 ### The Analytical Framework: Three-Component Model of Acquisition from Reading
 
-This analysis employs a three-component framework that treats incidental vocabulary acquisition as the product of (1) **exposure quantity** — how many times a reader encounters a novel word in running text; (2) **processing depth** — the cognitive elaboration applied to the word at each encounter, governed by the quality of inferential context and the attention available for word-focused processing; and (3) **knowledge integration** — the degree to which new lexical information is assimilated into existing [[schema-theory|schemata]], creating durable and generalisable representations rather than isolated memory traces.
+This analysis employs a three-component framework that treats incidental vocabulary acquisition as the product of (1) **exposure quantity** — how many times a reader encounters a novel word in running text; (2) **processing depth** — the cognitive elaboration applied to the word at each encounter, governed by the quality of inferential context and the attention available for word-focused processing; and (3) **knowledge integration** — the degree to which new lexical information is assimilated into existing [[schema-theory-and-knowledge-organization|schemata]], creating durable and generalisable representations rather than isolated memory traces.
 
 > [!key-claim] **The Three-Component Framework**
 > Robust vocabulary acquisition from reading requires adequate quantity, depth, AND integration. The received wisdom focuses almost entirely on quantity (read more, encounter words more often). The evidence suggests that depth and integration are the rate-limiting factors — and that naturalistic reading conditions systematically suppress both.
@@ -313,7 +313,7 @@ The [[simple-view-of-reading]] and related models establish that reading compreh
 ## Phase IV: Mechanisms, Dynamics & Deep Analysis
 
 > [!important] **Complexity Transition**
-> This phase moves from the empirical "what" to the mechanistic "why." It builds directly on the three-component framework from Phase II and the evidence landscape from Phase III. The central concepts here — processing depth, cognitive load dynamics, and attentional allocation — connect to [[cognitive-load-theory]], [[working-memory]], and [[levels-of-processing-theory]]. If those feel shaky, a brief revisit to those nodes will pay significant dividends.
+> This phase moves from the empirical "what" to the mechanistic "why." It builds directly on the three-component framework from Phase II and the evidence landscape from Phase III. The central concepts here — processing depth, cognitive load dynamics, and attentional allocation — connect to [[Cognitive Load Theory (CLT)]], [[working-memory]], and [[levels-of-processing-theory]]. If those feel shaky, a brief revisit to those nodes will pay significant dividends.
 
 ### The Depth-of-Processing Account
 
@@ -329,7 +329,7 @@ This is a structural feature of incidental learning, not a failure of attention 
 
 ### Cognitive Load Dynamics and the Working Memory Bottleneck
 
-[[cognitive-load-theory]] (Sweller, 1988) provides a complementary mechanistic account. Working memory has a sharply limited capacity; the total cognitive load imposed by a reading task is the sum of intrinsic load (the inherent complexity of the material), extraneous load (processing demands imposed by surface features that do not contribute to learning), and germane load (the processing that contributes to schema formation). 
+[[Cognitive Load Theory (CLT)]] (Sweller, 1988) provides a complementary mechanistic account. Working memory has a sharply limited capacity; the total cognitive load imposed by a reading task is the sum of intrinsic load (the inherent complexity of the material), extraneous load (processing demands imposed by surface features that do not contribute to learning), and germane load (the processing that contributes to schema formation). 
 
 For fluent readers of well-matched texts, decoding and basic comprehension consume relatively little working memory, leaving cognitive resources available for deeper semantic processing of novel words. For readers at or near the vocabulary coverage threshold, however, the intrinsic load of managing multiple unknown words while simultaneously constructing a coherent situation model approaches working memory's ceiling. When load approaches ceiling, the system degrades by allocating available resources to the primary goal (comprehension) and reducing investment in secondary goals (word-form retention, semantic elaboration).
 
@@ -423,7 +423,7 @@ The evidence and mechanisms examined in this report converge on a structural ins
 > [!original-synthesis] **The Vocabulary-Comprehension Spiral**
 > The standard model treats vocabulary knowledge and reading comprehension as a one-directional relationship: vocabulary knowledge enables comprehension. The mechanistic evidence in this report supports a richer model. Vocabulary knowledge enables comprehension; but comprehension quality also determines the inferential context quality that drives vocabulary acquisition; and the depth of processing during acquisition determines the quality of vocabulary representations that support future comprehension. The relationship is thus a spiral, not a line. Readers at the top of the distribution are caught in a *positive spiral*: rich vocabulary → rich inferential contexts → deep processing of novel words → richer vocabulary still. Readers at the bottom face a *negative spiral*: thin vocabulary → degraded inferential contexts → shallow processing of novel words → minimal vocabulary gain → still thinner vocabulary relative to text demands. The Matthew Effect is not merely an empirical observation about diverging trajectories — it is the observable signature of a dynamical system with two stable equilibria: one at high and one at low vocabulary-comprehension integration. The practical implication is profound: escaping the negative spiral requires external intervention — targeted direct instruction, scaffolded reading, vocabulary pre-teaching — that temporarily substitutes for the inferential processing that the spiral's upper regime generates endogenously. The spiral also predicts that improvements in vocabulary and improvements in comprehension strategy will interact multiplicatively rather than additively, because each unlocks the positive feedback loop for the other.
 
-This synthesis integrates findings from [[levels-of-processing-theory]], [[cognitive-load-theory]], [[matthew-effect-in-reading]], [[verbal-efficiency-theory]], and [[situation-models-in-text-comprehension]] into a unified structural account. The spiral model is consistent with the "rich-get-richer" trajectory that Stanovich documented empirically, but provides a mechanistic explanation grounded in processing depth and context quality that Stanovich's original formulation did not specify.
+This synthesis integrates findings from [[levels-of-processing-theory]], [[Cognitive Load Theory (CLT)]], [[matthew-effect-in-reading]], [[verbal-efficiency-theory]], and [[situation-models-in-text-comprehension]] into a unified structural account. The spiral model is consistent with the "rich-get-richer" trajectory that Stanovich documented empirically, but provides a mechanistic explanation grounded in processing depth and context quality that Stanovich's original formulation did not specify.
 
 ### The Central Question Revisited
 
@@ -503,9 +503,9 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 >
 > - **[[levels-of-processing-theory]]** — The depth-of-processing account of acquisition rates is a direct application of Craik and Lockhart's levels framework. The report's central mechanistic claim — that naturalistic reading suppresses elaborative processing — is only coherent given the levels-of-processing prediction that processing depth determines encoding durability.
 >
-> - **[[cognitive-load-theory]]** — The working-memory bottleneck mechanism for the Matthew Effect quality asymmetry is grounded in CLT's intrinsic/extraneous/germane load framework. The report's claim that automatised decoding frees resources for elaborative word processing is a specific CLT prediction.
+> - **[[Cognitive Load Theory (CLT)]]** — The working-memory bottleneck mechanism for the Matthew Effect quality asymmetry is grounded in CLT's intrinsic/extraneous/germane load framework. The report's claim that automatised decoding frees resources for elaborative word processing is a specific CLT prediction.
 >
-> - **[[schema-theory]]** — The vocabulary threshold hypothesis depends on a schema-theoretic account of text comprehension: prior knowledge organised as schemata fills inferential gaps in text; schemata must be activated for inferential context construction to occur. The bootstrap paradox (you need vocabulary to read texts that teach vocabulary) is a schema-theoretic bootstrapping problem.
+> - **[[schema-theory-and-knowledge-organization]]** — The vocabulary threshold hypothesis depends on a schema-theoretic account of text comprehension: prior knowledge organised as schemata fills inferential gaps in text; schemata must be activated for inferential context construction to occur. The bootstrap paradox (you need vocabulary to read texts that teach vocabulary) is a schema-theoretic bootstrapping problem.
 >
 > - **[[matthew-effect-in-reading]]** — This report provides a mechanistic explanation for the Matthew Effect that goes beyond Stanovich's original quantity-based account, grounding it in processing depth asymmetry and cognitive load dynamics.
 >
@@ -521,7 +521,7 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 >
 > **Lateral Connections (mutual enrichment):**
 >
-> - **[[desirable-difficulties]]** — The insight that sparse inferential context should force deeper processing (but in practice produces errors) is directly relevant to desirable difficulties theory. True desirable difficulties force deep processing while maintaining accuracy; the vocabulary case reveals a failure mode where difficulty suppresses accuracy rather than increasing depth.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The insight that sparse inferential context should force deeper processing (but in practice produces errors) is directly relevant to desirable difficulties theory. True desirable difficulties force deep processing while maintaining accuracy; the vocabulary case reveals a failure mode where difficulty suppresses accuracy rather than increasing depth.
 >
 > - **[[encoding-specificity-principle]]** — The context quality asymmetry identified in this report is partially a consequence of encoding specificity: words encoded in specific contextual settings will be more easily retrieved in similar settings and less easily retrieved in novel ones. This explains why incidentally acquired vocabulary is often context-bound and fails to transfer to novel usage.
 >
@@ -567,21 +567,21 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 >
 > **Operational Indicator:** Approximately 5–7 unknown words per typical page of prose in a given reader constitutes a rough indicator of the productive acquisition band (95–97% coverage).
 >
-> **See also:** [[simple-view-of-reading]], [[cognitive-load-theory]], [[schema-theory]]
+> **See also:** [[simple-view-of-reading]], [[Cognitive Load Theory (CLT)]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **Context Inference (Sternberg, 1987)**
 > The process of using surrounding textual information — syntactic structure, semantic field, topic, world knowledge — to assign an approximate meaning to an unfamiliar word. Context quality is determined by: amount of meaning-relevant information present, proximity of that information to the target word, and whether the information requires specialist background knowledge to interpret.
 >
 > **Boundary:** Context inference is probabilistic. Correct inference requires above-threshold context quality; below-threshold contexts produce incorrect or unacceptably vague inferences. "Good enough for comprehension" is not the same as "sufficient for acquisition."
 >
-> **See also:** [[elaborative-inference]], [[situation-models-in-text-comprehension]], [[schema-theory]]
+> **See also:** [[elaborative-inference]], [[situation-models-in-text-comprehension]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **The Matthew Effect in Reading (Stanovich, 1986)**
 > The empirical trajectory by which advantaged readers improve faster than disadvantaged readers over development, producing widening rather than closing gaps. Originally described as a quantity effect (more skilled readers read more and thus encounter more vocabulary), but — as this report argues — better understood as a *processing quality* effect mediated by cognitive load and context richness asymmetries.
 >
 > **Boundary:** The Matthew Effect is a pattern of outcomes, not itself a mechanism. Multiple mechanisms — vocabulary threshold, cognitive load dynamics, text selection, print exposure — contribute to the observed pattern.
 >
-> **See also:** [[matthew-effect-in-reading]], [[matthew-effect]], [[keith-stanovich]], [[cognitive-load-theory]], [[verbal-efficiency-theory]]
+> **See also:** [[matthew-effect-in-reading]], [[matthew-effect]], [[keith-stanovich]], [[Cognitive Load Theory (CLT)]], [[verbal-efficiency-theory]]
 
 > [!definition] **Processing Depth (Craik & Lockhart, 1972)**
 > The level of cognitive elaboration applied to an encoded item, ranging from shallow phonological-orthographic processing to deep semantic-elaborative processing. A core prediction of [[levels-of-processing-theory]] is that encoding durability is a continuous, monotone function of processing depth: deeper processing produces more durable, accessible memory traces.
@@ -595,14 +595,14 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 >
 > **Boundary:** The spiral model is a qualitative dynamical account, not a quantitative predictive model. It does not specify precise bifurcation thresholds or growth rates; it explains the *structure* of the trajectory, not its exact shape.
 >
-> **See also:** [[matthew-effect-in-reading]], [[levels-of-processing-theory]], [[cognitive-load-theory]], [[verbal-efficiency-theory]]
+> **See also:** [[matthew-effect-in-reading]], [[levels-of-processing-theory]], [[Cognitive Load Theory (CLT)]], [[verbal-efficiency-theory]]
 
 > [!definition] **The Attention-Allocation Paradox (analytical contribution, this report)**
 > The structural tension in incidental vocabulary learning in which: (a) the conditions that maximise accurate inferential processing (rich, redundant context) also allow shallow processing to succeed; and (b) the conditions that would force deep processing (sparse context) reliably produce inferential errors and comprehension failure. There is no naturalistic reading context that simultaneously forces deep, accurate semantic processing and supports adequate text comprehension — these two requirements are structurally in tension.
 >
 > **Boundary:** The paradox applies to naturalistic, comprehension-goal reading. Deliberate vocabulary-learning protocols can partially dissolve the paradox by explicitly setting word-learning as the primary goal.
 >
-> **See also:** [[incidental-learning]], [[cognitive-load-theory]], [[metacognition-in-learning]]
+> **See also:** [[incidental-learning]], [[Cognitive Load Theory (CLT)]], [[metacognition-in-learning]]
 
 > [!definition] **Verbal Efficiency Theory (Perfetti, 1985)**
 > The theory that reading comprehension skill is fundamentally determined by the quality and accessibility of lexical representations in memory. Efficient readers have high-quality, precisely bounded, rapidly accessible lexical representations; this efficiency frees working memory capacity for higher-order comprehension processes. Inefficient readers' less precise representations create bottlenecks in lexical access that consume working memory and impair comprehension.
@@ -614,7 +614,7 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 >
 > **Boundary:** Automaticity is word-specific. A reader may be highly automatic for high-frequency words while still effortful for low-frequency academic vocabulary — and it is the latter that typically constitutes the academic vocabulary acquisition challenge.
 >
-> **See also:** [[lexical-automaticity]], [[verbal-efficiency-theory]], [[reading-fluency]], [[cognitive-load-theory]]
+> **See also:** [[lexical-automaticity]], [[verbal-efficiency-theory]], [[reading-fluency]], [[Cognitive Load Theory (CLT)]]
 
 ---
 
@@ -1011,7 +1011,7 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 > > **Connection to This Report:** Follows directly from Phase V's practical application section and the "spiral-priming intervention" recommendation in Phase VI.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[levels-of-processing-theory]], [[spaced-repetition-systems]], [[desirable-difficulties]]
+> > **Prerequisites:** [[levels-of-processing-theory]], [[spaced-repetition-systems]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 >
 > > [!topic-idea] [[situation-models-in-text-comprehension]]
 > > Kintsch and van Dijk's situation model framework is the dominant cognitive account of text comprehension at the discourse level. A focused analysis of situation models would provide the mechanistic complement to the vocabulary acquisition analysis here: while this report explains why vocabulary gaps impair the *inferential context* for word acquisition, a situation model analysis would explain how vocabulary gaps impair the *construction of propositional and referential coherence* in text understanding. The two reports together would constitute a comprehensive mechanistic account of the vocabulary-comprehension link.
@@ -1019,15 +1019,15 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 > > **Connection to This Report:** Situation model construction is the comprehension mechanism that the vocabulary-comprehension spiral amplifies or impairs.
 > > **Priority:** High
 > > **Suggested Report Type:** Foundational
-> > **Prerequisites:** [[schema-theory]], [[working-memory]], [[simple-view-of-reading]]
+> > **Prerequisites:** [[schema-theory-and-knowledge-organization]], [[working-memory]], [[simple-view-of-reading]]
 >
-> > [!topic-idea] [[desirable-difficulties]]
+> > [!topic-idea] [[Desirable Difficulties (Robert Bjork, 1994)]]
 > > The desirable difficulties literature (Bjork, 1994; Schmidt & Bjork, 1992) examines the conditions under which making learning harder during acquisition improves long-term retention and transfer. This report's attention-allocation paradox — where the conditions that would force deep processing (sparse context) produce errors rather than depth — is directly relevant to understanding the boundary conditions of desirable difficulties. A focused analysis would examine when difficulty enhances depth (desirable) vs. when it suppresses accuracy (undesirable), with vocabulary acquisition as a running exemplar.
 > >
 > > **Connection to This Report:** The paradox in Phase IV is a case where difficulty fails to be "desirable" — a theoretical limit case that illuminates the conditions desirable difficulties theory's claims require.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[levels-of-processing-theory]], [[retrieval-practice]], [[spacing-effect]]
+> > **Prerequisites:** [[levels-of-processing-theory]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 >
 > > [!topic-idea] [[transfer-appropriate-processing]]
 > > The transfer-appropriate processing framework (Morris, Bransford & Franks, 1977) predicts that the best memory performance results when processing at retrieval matches processing at encoding. Applied to vocabulary, this predicts that words acquired via context inference will be best retrieved in contextually similar situations, and words acquired via definitional instruction will be best retrieved in definitional tests. A focused analysis of TAP in vocabulary and concept learning would extend this report's finding about context quality determining transfer probability.
@@ -1051,7 +1051,7 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 > > **Transfer Origin:** The Bidirectional Bootstrap Principle extracted in Phase VII.
 > > **Priority:** High
 > > **Suggested Report Type:** Comparative Synthesis
-> > **Prerequisites:** [[transfer-of-learning]], [[schema-theory]], [[self-regulated-learning]]
+> > **Prerequisites:** [[transfer-of-learning]], [[schema-theory-and-knowledge-organization]], [[self-regulated-learning]]
 
 ---
 
@@ -1063,9 +1063,9 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 >
 > - **[[levels-of-processing-theory]]** — The entire mechanistic architecture of this report depends on the levels-of-processing prediction that encoding durability is a function of semantic-elaborative processing depth. Without LOP Theory, the exposure-acquisition gap has no principled explanation, and the interventions proposed have no theoretical grounding. This report enriches the LOP Theory node by demonstrating a domain — vocabulary acquisition — in which the interaction between primary goal structure and processing depth produces a systematic, predictable failure mode.
 >
-> - **[[cognitive-load-theory]]** — The working memory bottleneck mechanism in Phase IV, and the explanation of the Matthew Effect's quality asymmetry, are direct applications of CLT's intrinsic/extraneous/germane load framework to reading-as-acquisition-context. This report adds a specific application domain to the CLT node and demonstrates the interaction between intrinsic load (unknown word density), working memory availability, and elaborative processing depth.
+> - **[[Cognitive Load Theory (CLT)]]** — The working memory bottleneck mechanism in Phase IV, and the explanation of the Matthew Effect's quality asymmetry, are direct applications of CLT's intrinsic/extraneous/germane load framework to reading-as-acquisition-context. This report adds a specific application domain to the CLT node and demonstrates the interaction between intrinsic load (unknown word density), working memory availability, and elaborative processing depth.
 >
-> - **[[schema-theory]]** — The vocabulary threshold paradox is fundamentally a schema-theoretic bootstrapping problem: you need schemata (vocabulary) to activate inferential contexts, but those schemata are constructed from the inferential contexts that comprehension of text provides. This report adds a specific, well-specified instance of the schema bootstrapping problem with clear quantitative evidence (coverage ratios) that the Schema Theory node does not currently contain.
+> - **[[schema-theory-and-knowledge-organization]]** — The vocabulary threshold paradox is fundamentally a schema-theoretic bootstrapping problem: you need schemata (vocabulary) to activate inferential contexts, but those schemata are constructed from the inferential contexts that comprehension of text provides. This report adds a specific, well-specified instance of the schema bootstrapping problem with clear quantitative evidence (coverage ratios) that the Schema Theory node does not currently contain.
 >
 > **Downstream Applications (this report enables):**
 >
@@ -1077,7 +1077,7 @@ The principles that transferred most cleanly — Threshold-Exposure and Bidirect
 >
 > **Lateral Connections (mutual enrichment):**
 >
-> - **[[desirable-difficulties]]** — The attention-allocation paradox in Phase IV represents a case where difficulty fails to be "desirable" — where increasing the inferential challenge produces errors rather than deeper processing. The mutual enrichment: this report's paradox case illuminates the boundary conditions of desirable difficulties theory (difficulty is desirable when it forces depth while maintaining accuracy); desirable difficulties theory illuminates what would need to be true about reading contexts for the elaborative pause protocol to function as a genuine difficulty manipulation.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The attention-allocation paradox in Phase IV represents a case where difficulty fails to be "desirable" — where increasing the inferential challenge produces errors rather than deeper processing. The mutual enrichment: this report's paradox case illuminates the boundary conditions of desirable difficulties theory (difficulty is desirable when it forces depth while maintaining accuracy); desirable difficulties theory illuminates what would need to be true about reading contexts for the elaborative pause protocol to function as a genuine difficulty manipulation.
 >
 > - **[[incidental-learning]]** — This report adds mechanistic depth to the Incidental Learning node by specifying the three mechanisms (goal-structure suppression, cognitive load dynamics, metacognitive miscalibration) through which incidental learning in vocabulary contexts is systematically inefficient. The Incidental Learning node provides the broader framework; this report provides the specific instantiation with precise mechanistic specification.
 >

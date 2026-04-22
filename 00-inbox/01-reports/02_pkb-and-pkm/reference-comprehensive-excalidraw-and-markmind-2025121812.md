@@ -1429,7 +1429,7 @@ Meeting: [Topic] - [Date]
 ## Core Extensions
 ### 1. **[[Visual PKM Philosophy]]**
 **Connection:** Both Excalidraw and MarkMind exemplify visual thinking approaches to [[personal-knowledge-management]]—this topic explores the theoretical foundations and cognitive science behind why visual tools enhance learning, memory, and synthesis.
-**Depth Potential:** Deep dive into [[dual-coding-theory]], [[Visual-Thinking]], spatial memory research, and the neuroscience of visual processing versus verbal processing. Examine how visual representations reduce [[cognitive-load]] and support [[working-memory]].
+**Depth Potential:** Deep dive into [[dual-coding-theory]], [[Visual-Thinking]], spatial memory research, and the neuroscience of visual processing versus verbal processing. Examine how visual representations reduce [[Cognitive Load Theory (CLT)]] and support [[working-memory]].
 **Knowledge Graph Role:** Foundational theory node connecting to all visual tools (Canvas, Excalidraw, MarkMind, Graph View). Provides "why" behind the "how" of visual PKM.
 **Priority:** High—understanding theory improves tool selection and application.
 **Prerequisites:** [[Cognitive Science Basics]], [[Learning Theory Fundamentals]]

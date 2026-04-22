@@ -35,7 +35,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[atomic-notes]]
+> - **Key-Term**:: [[atomic-note]]
 > - **Definition**::
 
 

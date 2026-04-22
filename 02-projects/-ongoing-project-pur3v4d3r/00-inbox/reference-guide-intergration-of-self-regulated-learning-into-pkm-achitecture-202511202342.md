@@ -81,7 +81,7 @@ We implement this in Obsidian through **Templates**, **Queries**, and **Rituals*
 
 ### Phase I: Architecting Forethought (The Setup)
 
-The goal here is to reduce [[cognitive-load]] during work by pre-loading intent.
+The goal here is to reduce [[Cognitive Load Theory (CLT)]] during work by pre-loading intent.
 
 **Mechanism:** *The Daily Note Prelude & Project Templates*
 
@@ -207,7 +207,7 @@ To implement SRL in your Obsidian vault immediately:
 
 ## 🔗 Related Topics for PKB Expansion
 
-1.  **[[metacognitive-scaffolding]]**
+1.  **[[Metacognitive Scaffolding]]**
 
       * *Connection:* How specific templates can act as "training wheels" for higher-order thinking.
       * *Depth Potential:* Explore how to fade scaffolds over time as skills improve.

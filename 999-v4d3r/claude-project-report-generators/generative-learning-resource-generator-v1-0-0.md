@@ -83,19 +83,19 @@ related_concepts:
   - "[[generative-learning-theory]]"
   - "[[generation-effect]]"
   - "[[Feynman Technique]]"
-  - "[[elaborative-interrogation]]"
-  - "[[self-explanation]]"
-  - "[[retrieval-practice]]"
+  - "[[Elaborative Interrogation]]"
+  - "[[self-explanation-effect]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[Testing-Effect]]"
   - "[[dual-coding-theory]]"
   - "[[metacognitive-monitoring]]"
   - "[[socratic-questioning]]"
-  - "[[desirable-difficulties]]"
-  - "[[spacing-effect]]"
-  - "[[interleaving]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[elaborative-rehearsal]]"
-  - "[[schema-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[zone-of-proximal-development]]"
   - "[[transfer-of-learning]]"
 
@@ -309,7 +309,7 @@ technique:
   name: "Pre-Testing & Prediction"
   id: "PRE-TEST"
   scientific_basis: "Richland et al. (2009); Kornell et al. (2009) — attempting to answer before learning primes retrieval pathways and creates 'search sets' in memory that enhance subsequent encoding"
-  wiki_links: ["[[Testing-Effect]]", "[[retrieval-practice]]", "[[desirable-difficulties]]", "[[generation-effect]]"]
+  wiki_links: ["[[Testing-Effect]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[generation-effect]]"]
   position_in_sequence: 1 (always first)
   scaffolding_type: "questions_before_learning"
   demonstration_length: "300-400 words"
@@ -389,7 +389,7 @@ technique:
   name: "Feynman Technique"
   id: "FEYNMAN"
   scientific_basis: "Based on Richard Feynman's learning method; supported by research on self-explanation effect (Chi et al., 1989) and generation effect — teaching forces identification of knowledge gaps"
-  wiki_links: ["[[richard-feynman]]", "[[self-explanation]]", "[[elaboration]]", "[[generative-learning-theory]]"]
+  wiki_links: ["[[richard-feynman]]", "[[self-explanation-effect]]", "[[elaboration]]", "[[generative-learning-theory]]"]
   position_in_sequence: 3
   scaffolding_type: "explain_to_novice"
   demonstration_length: "500-700 words"
@@ -403,7 +403,7 @@ technique:
   name: "Elaborative Interrogation"
   id: "ELAB-INTERROG"
   scientific_basis: "Pressley et al. (1987); Dunlosky et al. (2013) high-utility strategy — generating explanations for why facts are true enhances learning by promoting integration with prior knowledge"
-  wiki_links: ["[[elaborative-interrogation]]", "[[elaboration]]", "[[elaborative-rehearsal]]", "[[schema-theory]]"]
+  wiki_links: ["[[Elaborative Interrogation]]", "[[elaboration]]", "[[elaborative-rehearsal]]", "[[schema-theory-and-knowledge-organization]]"]
   position_in_sequence: 4
   scaffolding_type: "why_how_questions"
   demonstration_length: "400-500 words"
@@ -417,7 +417,7 @@ technique:
   name: "Self-Explanation"
   id: "SELF-EXPLAIN"
   scientific_basis: "Chi et al. (1989, 1994) — students who explain material to themselves learn more deeply; the process reveals gaps, promotes inference generation, and builds coherent mental models"
-  wiki_links: ["[[self-explanation]]", "[[generative-processing]]", "[[metacognitive-monitoring]]", "[[mental-models]]"]
+  wiki_links: ["[[self-explanation-effect]]", "[[generative-processing]]", "[[metacognitive-monitoring]]", "[[mental-models]]"]
   position_in_sequence: 5
   scaffolding_type: "explain_reasoning_steps"
   demonstration_length: "400-500 words"
@@ -431,7 +431,7 @@ technique:
   name: "Concept Mapping & Knowledge Organization"
   id: "CONCEPT-MAP"
   scientific_basis: "Novak & Cañas (2008); Nesbit & Adesope (2006) meta-analysis showing concept maps enhance learning by making structural relationships explicit"
-  wiki_links: ["[[concept-map]]", "[[schema-theory]]", "[[generative-learning-theory]]", "[[Knowledge-Organization]]"]
+  wiki_links: ["[[concept-map]]", "[[schema-theory-and-knowledge-organization]]", "[[generative-learning-theory]]", "[[Knowledge-Organization]]"]
   position_in_sequence: 6
   scaffolding_type: "relationship_mapping"
   demonstration_length: "400-500 words"
@@ -473,7 +473,7 @@ technique:
   name: "Dual Coding"
   id: "DUAL-CODE"
   scientific_basis: "Paivio (1986) Dual Coding Theory; Mayer (2009) — information encoded in both verbal and visual formats creates redundant retrieval pathways"
-  wiki_links: ["[[dual-coding-theory]]", "[[Richard-Mayer]]", "[[generative-learning-theory]]", "[[schema-theory]]"]
+  wiki_links: ["[[dual-coding-theory]]", "[[Richard-Mayer]]", "[[generative-learning-theory]]", "[[schema-theory-and-knowledge-organization]]"]
   position_in_sequence: 9
   scaffolding_type: "visual_representation"
   demonstration_length: "300-400 words + diagram description"
@@ -487,7 +487,7 @@ technique:
   name: "Concrete Examples Generation"
   id: "CONCRETE-EX"
   scientific_basis: "Rawson & Dunlosky (2016); the concreteness effect — abstract concepts anchored in specific, vivid examples are more memorable and transferable"
-  wiki_links: ["[[elaboration]]", "[[schema-theory]]", "[[transfer-of-learning]]", "[[encoding-specificity]]"]
+  wiki_links: ["[[elaboration]]", "[[schema-theory-and-knowledge-organization]]", "[[transfer-of-learning]]", "[[encoding-specificity]]"]
   position_in_sequence: 10
   scaffolding_type: "example_generation"
   demonstration_length: "400-500 words"
@@ -501,7 +501,7 @@ technique:
   name: "Retrieval Practice"
   id: "RETRIEVAL"
   scientific_basis: "Roediger & Karpicke (2006); Dunlosky et al. (2013) highest-utility strategy — actively retrieving information from memory strengthens memory traces more than restudying"
-  wiki_links: ["[[retrieval-practice]]", "[[Testing-Effect]]", "[[desirable-difficulties]]", "[[spaced-repetition]]"]
+  wiki_links: ["[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[Testing-Effect]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[spaced-repetition]]"]
   position_in_sequence: 11
   scaffolding_type: "recall_without_notes"
   demonstration_length: "400-500 words"
@@ -515,7 +515,7 @@ technique:
   name: "Interleaved Practice"
   id: "INTERLEAVE"
   scientific_basis: "Rohrer & Taylor (2007); Kornell & Bjork (2008) — mixing different problem types or topics during practice enhances discrimination learning and transfer"
-  wiki_links: ["[[interleaving]]", "[[desirable-difficulties]]", "[[transfer-of-learning]]", "[[Discrimination-Learning]]"]
+  wiki_links: ["[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[transfer-of-learning]]", "[[Discrimination-Learning]]"]
   position_in_sequence: 12
   scaffolding_type: "mixed_application"
   demonstration_length: "300-400 words"
@@ -543,7 +543,7 @@ technique:
   name: "Connection Weaving & Knowledge Integration"
   id: "CONNECT"
   scientific_basis: "Chi & Wylie (2014) ICAP framework — interactive and constructive learning produces deeper understanding than active or passive; creating connections between concepts is a constructive activity"
-  wiki_links: ["[[Knowledge-Organization]]", "[[schema-theory]]", "[[transfer-of-learning]]", "[[elaboration]]"]
+  wiki_links: ["[[Knowledge-Organization]]", "[[schema-theory-and-knowledge-organization]]", "[[transfer-of-learning]]", "[[elaboration]]"]
   position_in_sequence: 14
   scaffolding_type: "cross_reference_creation"
   demonstration_length: "300-400 words"
@@ -557,7 +557,7 @@ technique:
   name: "Spaced Repetition Seed Generation"
   id: "SR-SEEDS"
   scientific_basis: "Ebbinghaus (1885); Cepeda et al. (2006) — distributed practice across time produces more durable learning than massed practice"
-  wiki_links: ["[[spaced-repetition]]", "[[spacing-effect]]", "[[Testing-Effect]]", "[[retrieval-practice]]"]
+  wiki_links: ["[[spaced-repetition]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[Testing-Effect]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]"]
   position_in_sequence: 15 (always last)
   scaffolding_type: "flashcard_creation"
   demonstration_length: "N/A — use flashcard callout format"
@@ -1116,7 +1116,7 @@ narrower:
 see-also:
   - "[[generative-learning-theory]]"
   - "[[generation-effect]]"
-  - "[[retrieval-practice]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[metacognition]]"
 
 # ═══════════════════════════════════════════════════════════════════════════

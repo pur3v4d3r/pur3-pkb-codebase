@@ -40,7 +40,7 @@ see-also:
   - "[[Abstract]]"
   - "[[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]"
   - "[[Central-claim-of-this-level|Central claim of this level]]"
-  - "[[Chunk]]"
+  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
   - "[[Claude's-perspective-on-the-dynamics|Claude's perspective on the dynamics]]"
   - "[[Claude's-perspective-on-the-edge-cases|Claude's perspective on the edge cases]]"
   - "[[Claude's-perspective-on-the-frontier|Claude's perspective on the frontier]]"
@@ -68,7 +68,7 @@ importance: high
 - [[Abstract]]
 - [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
 - [[Central-claim-of-this-level|Central claim of this level]]
-- [[Chunk]]
+- [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 - [[Claude's-perspective-on-the-dynamics|Claude's perspective on the dynamics]]
 - [[Claude's-perspective-on-the-edge-cases|Claude's perspective on the edge cases]]
 - [[Claude's-perspective-on-the-frontier|Claude's perspective on the frontier]]

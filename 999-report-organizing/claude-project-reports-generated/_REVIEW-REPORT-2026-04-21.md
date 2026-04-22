@@ -214,22 +214,22 @@ status: "generated"
 
 | Target | Times Linked |
 |---|---:|
-| [[schema-theory]] | 136 |
+| [[schema-theory-and-knowledge-organization]] | 136 |
 | [[self-determination-theory]] | 133 |
-| [[cognitive-load-theory]] | 123 |
+| [[Cognitive Load Theory (CLT)]] | 123 |
 | [[self-efficacy]] | 114 |
 | [[self-regulated-learning]] | 112 |
 | [[metacognitive-monitoring]] | 111 |
 | [[achievement-goal-theory]] | 109 |
-| [[fluency-illusion]] | 107 |
-| [[attribution-theory]] | 106 |
+| [[Fluency Illusion]] | 107 |
+| [[Attribution (Heider, 1958)]] | 106 |
 | [[situation-model]] | 90 |
 | [[working-memory]] | 87 |
 | [[metacognition]] | 79 |
-| [[desirable-difficulties]] | 74 |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | 74 |
 | [[metacognitive-regulation]] | 69 |
 | [[transfer-of-learning]] | 62 |
-| [[elaborative-interrogation]] | 60 |
+| [[Elaborative Interrogation]] | 60 |
 | [[self-explanation-effect]] | 54 |
 | [[levels-of-processing-theory]] | 53 |
 | [[metacognitive-calibration]] | 52 |
@@ -414,9 +414,9 @@ status: "generated"
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[john-g.-nicholls]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[achievement-goal-theory]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[john-g.-nicholls]]` |
-| [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[attribution-theory]]` |
+| [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[Attribution (Heider, 1958)]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[john-elliot]]` |
-| [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[retrieval-practice]]` |
+| [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[Desirable Difficulties (Robert Bjork, 1994)]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[carol-dweck]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[higgins]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[learned-helplessness]]` |
@@ -431,7 +431,7 @@ status: "generated"
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[basic-psychological-needs-theory]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[competence-need]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[motivational-climate-design]]` |
-| [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[attribution-theory]]` |
+| [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[Attribution (Heider, 1958)]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[bernard-weiner]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[learned-helplessness]]` |
 | [[achievement-goal-theory-focused-analysis-2026-03-24]] | `[[feedback-design]]` |
@@ -486,9 +486,9 @@ status: "generated"
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[growth-mindset-implicit-theories-of-intelligence]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[growth-mindset-implicit-theories-of-intelligence]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[self-determination-theory]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[attribution-theory]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[intrinsic-motivation]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[conceptions-of-ability]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Attribution (Heider, 1958)]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Intrinsic Motivation]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[conception-of-ability]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[john-g.-nicholls]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[john-g.-nicholls]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[carol-s.-dweck]]` |
@@ -498,9 +498,9 @@ status: "generated"
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[entity-theory-of-intelligence]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[carol-ames]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[motivational-climate]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[attribution-theory]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Attribution (Heider, 1958)]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[bernard-weiner]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[intrinsic-motivation]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Intrinsic Motivation]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[edward-deci]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[richard-ryan]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[self-determination-theory]]` |
@@ -511,7 +511,7 @@ status: "generated"
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[andrew-j.-elliot]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Marcy-Church]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[andrew-j.-elliot]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Kenji-Murayama]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Kenji Murayama]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Reinhard-Pekrun]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[carol-ames]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[educational-psychology]]` |
@@ -530,7 +530,7 @@ status: "generated"
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Metacognition-&-Motivation]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[growth-mindset-implicit-theories-of-intelligence]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Metacognition-&-Critical-Thinking]]` |
-| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[schema-theory]]` |
+| [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[schema-theory-and-knowledge-organization]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[critical-thinking-in-education]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Self-Determination-Theory-—-Foundational-Report]]` |
 | [[achievement-goal-theory-foundational-report-2026-03-10]] | `[[Motivational-Climate-Design-—-Applied-Guide]]` |
@@ -547,14 +547,14 @@ status: "generated"
 | [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[david-ausubel]]` |
 | [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[schema]]` |
 | [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[advance-organizers]]` |
-| [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[elaborative-interrogation]]` |
+| [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[Elaborative Interrogation]]` |
 | [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[kwl-strategy]]` |
 | [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[bridging-analogies]]` |
 | [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[pre-questioning]]` |
-| [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[schema-theory]]` |
-| [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[cognitive-load-theory]]` |
+| [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[schema-theory-and-knowledge-organization]]` |
+| [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[Cognitive Load Theory (CLT)]]` |
 | [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[transfer-of-learning]]` |
-| [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[schema-theory]]` |
+| [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]] | `[[schema-theory-and-knowledge-organization]]` |
 | *…and 6695 more* | |
 
 ## 🧾 Frontmatter Audit

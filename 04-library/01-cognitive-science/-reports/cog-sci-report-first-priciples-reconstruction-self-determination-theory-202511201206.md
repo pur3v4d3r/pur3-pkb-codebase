@@ -87,7 +87,7 @@ We typically accept a dualistic conceptual structure regarding human drive witho
 > [!definition]
 > **Standard Definitions:**
 >
->   - **[[intrinsic-motivation]]:** Doing something because it is inherently interesting or enjoyable.
+>   - **[[Intrinsic Motivation]]:** Doing something because it is inherently interesting or enjoyable.
 >   - **[[extrinsic-motivation]]:** Doing something because it leads to a separable outcome.
 >   - **[[internalization]]:** The process of taking in values from the outside world.
 

@@ -1010,7 +1010,7 @@ The formation of stars is, in the final analysis, the universe's most fundamenta
 >
 > #### Lateral Connections (Mutual Enrichment)
 >
-> - **[[schema-theory]]** — The schema activation in this report's introduction draws on schema theory. Conversely, star formation provides a rich case study in how learners construct schemas for understanding physical processes that are invisible to direct experience.
+> - **[[schema-theory-and-knowledge-organization]]** — The schema activation in this report's introduction draws on schema theory. Conversely, star formation provides a rich case study in how learners construct schemas for understanding physical processes that are invisible to direct experience.
 >
 > - **[[self-regulated-learning]]** — Referenced in Far Transfer and multiple reflective questions. The threshold cascade model (soft vs. hard thresholds) maps onto the SRL distinction between initial skill acquisition and automaticity.
 >

@@ -96,8 +96,8 @@ prerequisites:
   - "[[classical-cognitivism|Classical Cognitivism]]"
   - "[[functionalism|Functionalism (Philosophy of Mind)]]"
 related:
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[embodied-cognition|Embodied Cognition]]"
   - "[[distributed-cognition|Distributed Cognition]]"
   - "[[Affordances]]"
@@ -111,7 +111,7 @@ broader:
   - "[[4e-cognition|4E Cognition]]"
 narrower:
   - "[[parity-principle|Parity Principle]]"
-  - "[[cognitive-scaffolding|Cognitive Scaffolding]]"
+  - "[[Cognitive Scaffolding|Cognitive Scaffolding]]"
   - "[[Epistemic Coupling]]"
   - "[[Technology-as-Cognitive-Prosthesis|Technology as Cognitive Prosthesis]]"
 see-also:
@@ -347,7 +347,7 @@ The phenomenology of expert tool use provides some experiential support for the 
 
 ### Scaffolding, Zone of Proximal Development, and Learning
 
-The extended mind framework connects with [[lev-vygotsky|Lev Vygotsky]]'s concept of the [[zone-of-proximal-development|Zone of Proximal Development]] and with research on [[cognitive-scaffolding|Cognitive Scaffolding]] in productive ways. Vygotsky argued that cognitive development is fundamentally social: children first accomplish tasks in collaboration with more capable others, and only later internalise those capacities as individual skills. On a Vygotskian reading enriched by extended mind theory, the social and material scaffolding provided during learning is not merely a temporary support to be discarded — it may be the site where much of the cognitive work genuinely occurs, with internalisation representing the gradual reconfiguration of the cognitive system as the work is moved from the extended (social/material) system to the internal one.
+The extended mind framework connects with [[lev-vygotsky|Lev Vygotsky]]'s concept of the [[zone-of-proximal-development|Zone of Proximal Development]] and with research on [[Cognitive Scaffolding|Cognitive Scaffolding]] in productive ways. Vygotsky argued that cognitive development is fundamentally social: children first accomplish tasks in collaboration with more capable others, and only later internalise those capacities as individual skills. On a Vygotskian reading enriched by extended mind theory, the social and material scaffolding provided during learning is not merely a temporary support to be discarded — it may be the site where much of the cognitive work genuinely occurs, with internalisation representing the gradual reconfiguration of the cognitive system as the work is moved from the extended (social/material) system to the internal one.
 
 > [!insight] **PKB as Cognitive Extension — A Direct Application**
 > The practice of maintaining a [[personal-knowledge-base|Personal Knowledge Base]] — systematically externalising, organising, and cross-referencing knowledge — can be understood through the lens of Extended Mind Theory. On Clark and Chalmers's account, a sufficiently well-maintained, reliably accessible, and automatically-endorsed PKB is not merely a reference resource: it may constitute a genuine cognitive extension. The quality of the PKB architecture matters cognitively, not just informationally. A well-structured PKB with meaningful links and clear retrieval paths enables cognitive extension; a poorly organised archive requires effortful reconstruction and functions more like a library — a resource external to the cognitive system rather than a constituent part of it.
@@ -426,9 +426,9 @@ The synthesis insight is this: *cognitive systems are more porous and environmen
 >
 > This report on [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] connects to existing knowledge across the PKB:
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — Cognitive Load Theory and Extended Mind Theory address the same underlying problem — the limited capacity of internal cognitive systems — from complementary directions. Where CLT focuses on managing the demands placed on internal working memory, Extended Mind Theory proposes that some cognitive work need not be internal at all. Together, they frame a powerful account of optimal learning environment design: reduce unnecessary demands on working memory (CLT) while designing environments that enable genuine cognitive extension (EMT). The two frameworks predict similar instructional recommendations but from different theoretical foundations.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — Cognitive Load Theory and Extended Mind Theory address the same underlying problem — the limited capacity of internal cognitive systems — from complementary directions. Where CLT focuses on managing the demands placed on internal working memory, Extended Mind Theory proposes that some cognitive work need not be internal at all. Together, they frame a powerful account of optimal learning environment design: reduce unnecessary demands on working memory (CLT) while designing environments that enable genuine cognitive extension (EMT). The two frameworks predict similar instructional recommendations but from different theoretical foundations.
 >
-> - **[[schema-theory|Schema Theory]]** — Schema Theory describes how internal knowledge structures are organised and activated; Extended Mind Theory proposes that the relevant structures may not always be internal. A mature synthesis would ask how schemas extend into environmental structures — how well-designed external systems (PKB architecture, concept maps, worked examples) can encode and activate schematic knowledge in a way that extends the individual's effective schema repertoire. Bartlett's original account of schemas was already attentive to the cultural embedding of memory; extended mind theory radicalises this insight.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Schema Theory describes how internal knowledge structures are organised and activated; Extended Mind Theory proposes that the relevant structures may not always be internal. A mature synthesis would ask how schemas extend into environmental structures — how well-designed external systems (PKB architecture, concept maps, worked examples) can encode and activate schematic knowledge in a way that extends the individual's effective schema repertoire. Bartlett's original account of schemas was already attentive to the cultural embedding of memory; extended mind theory radicalises this insight.
 >
 > - **[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]** — Metacognition is the capacity to monitor and regulate one's own cognitive processes. Extended Mind Theory adds an important dimension: if cognitive processes can extend into the environment, then metacognitive monitoring and regulation must extend there too. Effective metacognition, on this view, includes awareness of one's extended cognitive system — knowing where one's knowledge is stored, whether one's external systems are reliable, and how to maintain and develop them. This reframes the metacognitive demand of lifelong learning.
 >

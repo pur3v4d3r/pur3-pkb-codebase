@@ -47,7 +47,7 @@ aliases: [Project Planning Framework, Obsidian Project System, PKB Project Manag
 
 > [!abstract]
 > **Executive Overview**
-> This reference note establishes a comprehensive, plugin-integrated project planning system within your Obsidian PKB. It synthesizes [[self-regulated-learning]] principles, [[GTD methodology]], and your complete plugin stack (Dataview, Templater, QuickAdd, Meta Bind, Tasks, Day Planner, Charts, Kanban, and supporting tools) into a unified workflow. The framework transforms project planning from scattered task lists into a systematic, automated, cognitively optimized process that reduces [[cognitive-load]] while maximizing project success rates.
+> This reference note establishes a comprehensive, plugin-integrated project planning system within your Obsidian PKB. It synthesizes [[self-regulated-learning]] principles, [[GTD methodology]], and your complete plugin stack (Dataview, Templater, QuickAdd, Meta Bind, Tasks, Day Planner, Charts, Kanban, and supporting tools) into a unified workflow. The framework transforms project planning from scattered task lists into a systematic, automated, cognitively optimized process that reduces [[Cognitive Load Theory (CLT)]] while maximizing project success rates.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -79,7 +79,7 @@ Traditional project management tools (Asana, Trello, Monday) treat projects as i
 
 **Knowledge Permanence**: Every project note becomes a reusable template, case study, and learning artifact. Your project on "Implement QuickAdd System" documents not just tasks, but methodology, decisions, troubleshooting, and lessons learned—knowledge that informs all future automation projects.
 
-**Bi-Directional Learning**: Projects drive knowledge acquisition (you research [[Dataview]] syntax while building queries), while existing knowledge accelerates projects (your [[cognitive-load-theory]] notes inform how you structure project workflows). This creates a [[Feedback Loop]] between doing and learning.
+**Bi-Directional Learning**: Projects drive knowledge acquisition (you research [[Dataview]] syntax while building queries), while existing knowledge accelerates projects (your [[Cognitive Load Theory (CLT)]] notes inform how you structure project workflows). This creates a [[Feedback Loop]] between doing and learning.
 
 **Progressive System Refinement**: Each completed project reveals friction points in your system, driving iterative improvements. A project might expose the need for better [[Metadata Standards]] or automated progress tracking, which then benefits all subsequent projects.
 
@@ -1765,7 +1765,7 @@ SORT effort_actual DESC
 > - Obsidian Plugin Documentation (Dataview, Templater, Tasks, QuickAdd official docs)
 > - [[self-regulated-learning]] framework (Zimmerman, 2002)
 > - [[GTD Methodology]] (David Allen, 2001)
-> - [[cognitive-load-theory]] (Sweller, 1988)
+> - [[Cognitive Load Theory (CLT)]] (Sweller, 1988)
 > - Personal Knowledge Management best practices (Linking Your Thinking, Forte's PARA)
 > 
 > **Synthesis Approach**:
@@ -1830,7 +1830,7 @@ Wiki-Link Opportunities:
 - Core PKM concepts: [[Project Management]], [[self-regulated-learning]], [[zettelkasten]]
 - Plugin-specific: [[Dataview]], [[Templater]], [[QuickAdd]], [[Tasks-Plugin]], [[Kanban]]
 - Methodologies: [[SMART Goals]], [[GTD]], [[para-method]], [[Eisenhower Matrix]]
-- Cognitive frameworks: [[executive-function]], [[metacognition]], [[cognitive-load-theory]]
+- Cognitive frameworks: [[executive-function]], [[metacognition]], [[Cognitive Load Theory (CLT)]]
 
 Callout Strategy:
 - [!definition] for key concepts

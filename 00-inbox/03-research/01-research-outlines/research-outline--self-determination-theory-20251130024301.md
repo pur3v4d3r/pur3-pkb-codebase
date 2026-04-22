@@ -197,7 +197,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. How does SDT's meta-theory differ from other motivation theories of its era?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[intrinsic-motivation]], [[extrinsic-motivation]], [[Organismic Theory]], [[Behaviorism]], [[Cognitive Revolution]], [[edward-deci]], [[richard-ryan]], [[undermining-effect]]
+- Core concepts to wiki-link: [[Intrinsic Motivation]], [[extrinsic-motivation]], [[Organismic Theory]], [[Behaviorism]], [[Cognitive Revolution]], [[edward-deci]], [[richard-ryan]], [[undermining-effect]]
 - Recommended tags: #historical-context #theory-origins #paradigm-shift
 - Connection points: Links to [[History of Psychology]], [[motivational-psychology]], [[Human Development Theory]]
 
@@ -223,7 +223,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. How do the three needs interact and support each other?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[autonomy]], [[competence]], [[relatedness]], [[basic-psychological-needs]], [[need-satisfaction]], [[need-thwarting]], [[need-frustration]], [[Eudaimonic-Well-Being]]
+- Core concepts to wiki-link: [[autonomy]], [[competence]], [[relatedness]], [[Basic Psychological Needs]], [[need-satisfaction]], [[need-thwarting]], [[Need Frustration]], [[Eudaimonic-Well-Being]]
 - Recommended tags: #basic-needs #theoretical-foundations #psychological-nutrients
 - Connection points: Links to [[Well-being]], [[Human Flourishing]], [[Psychological Development]], [[cross-cultural-psychology]]
 
@@ -249,7 +249,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. What role does perceived locus of causality play in the intrinsic/extrinsic distinction?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[intrinsic-motivation]], [[extrinsic-motivation]], [[undermining-effect]], [[overjustification-effect]], [[perceived-locus-of-causality]], [[autonomous-motivation]], [[controlled-motivation]]
+- Core concepts to wiki-link: [[Intrinsic Motivation]], [[extrinsic-motivation]], [[undermining-effect]], [[overjustification-effect]], [[perceived-locus-of-causality]], [[Autonomous Motivation]], [[Controlled Motivation]]
 - Recommended tags: #motivation-types #core-concepts #autonomy-support
 - Connection points: Links to [[Reward Systems]], [[Performance Psychology]], [[educational-psychology]], [[Incentive Design]]
 
@@ -277,7 +277,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 6. How does RMT apply SDT to close relationships and attachment?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[cognitive-evaluation-theory]], [[organismic-integration-theory]], [[causality-orientations-theory]], [[basic-psychological-needs-theory]], [[goal-contents-theory]], [[Relationships Motivation Theory]], [[internalization]], [[external-regulation]], [[introjected-regulation]], [[identified-regulation]], [[integrated-regulation]], [[Intrinsic Goals]], [[Extrinsic Goals]], [[autonomy-orientation]], [[control-orientation]], [[impersonal-orientation]]
+- Core concepts to wiki-link: [[cognitive-evaluation-theory-cet]], [[organismic-integration-theory]], [[causality-orientations-theory]], [[basic-psychological-needs-theory]], [[goal-contents-theory]], [[Relationships Motivation Theory]], [[internalization]], [[External Regulation]], [[introjected-regulation]], [[identified-regulation]], [[Integrated Regulation]], [[Intrinsic Goals]], [[Extrinsic Goals]], [[autonomy-orientation]], [[control-orientation]], [[impersonal-orientation]]
 - Recommended tags: #mini-theories #theoretical-integration #sdt-ecosystem
 - Connection points: Links to [[Individual Differences]], [[goal-setting-theory]], [[attachment-theory]], [[Personality Psychology]]
 
@@ -444,7 +444,7 @@ Generate a comprehensive academic report on the historical foundations and theor
 
 4. **Establishes Foundational Concepts**: Define core SDT concepts as they emerged historically (intrinsic motivation, organismic integration, basic psychological needs) with attention to how these concepts evolved
 
-5. **Includes PKB Capture Guidance**: Identify key concepts for wiki-linking ([[intrinsic-motivation]], [[Behaviorism]], [[undermining-effect]], etc.), suggest metadata tags (#historical-context, #theory-origins), and connection points to broader psychology notes
+5. **Includes PKB Capture Guidance**: Identify key concepts for wiki-linking ([[Intrinsic Motivation]], [[Behaviorism]], [[undermining-effect]], etc.), suggest metadata tags (#historical-context, #theory-origins), and connection points to broader psychology notes
 
 6. **Provides Concrete Examples**: Include specific experiments (e.g., Deci's puzzle studies, Lepper et al.'s "overjustification" research) with enough detail to understand their methodology and implications
 
@@ -579,7 +579,7 @@ Generate a comprehensive academic report on Intrinsic vs. Extrinsic Motivation t
    - Parenting: Child's behavior motivated by autonomy-support vs. controlling rewards
    - For each case: analyze the motivation type, predict outcomes, suggest interventions
 
-5. **Includes PKB Capture Guidance**: Wiki-links for [[intrinsic-motivation]], [[extrinsic-motivation]], [[undermining-effect]], [[overjustification-effect]], [[perceived-locus-of-causality]], [[autonomous-motivation]], [[controlled-motivation]]; tags like #core-concepts, #motivation-types; connections to reward and incentive design notes
+5. **Includes PKB Capture Guidance**: Wiki-links for [[Intrinsic Motivation]], [[extrinsic-motivation]], [[undermining-effect]], [[overjustification-effect]], [[perceived-locus-of-causality]], [[Autonomous Motivation]], [[Controlled Motivation]]; tags like #core-concepts, #motivation-types; connections to reward and incentive design notes
 
 6. **Addresses Common Questions**:
    - Can extrinsic motivation ever be beneficial?

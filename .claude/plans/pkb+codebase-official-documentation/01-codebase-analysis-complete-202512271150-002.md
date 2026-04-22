@@ -191,7 +191,7 @@ Final Composed Instruction
 **Format Application Example**:
 ```markdown
 In this section, we discuss %%extract-atomic: Germane Cognitive Load%% 
-which %%confidence: verified%% refers to [[schema-construction]]^prerequisite-for-this
+which %%confidence: verified%% refers to [[Schema Construction]]^prerequisite-for-this
 ```
 
 ##### **Level 7: atomic/personas/** (2+ files)

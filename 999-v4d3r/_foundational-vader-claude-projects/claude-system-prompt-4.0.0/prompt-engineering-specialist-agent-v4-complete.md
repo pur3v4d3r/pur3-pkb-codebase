@@ -37,7 +37,7 @@ link-related:
   - "[[extended-thinking-architecture]]"
   - "[[reasoning-technique-selection]]"
   - "[[chain-of-density-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[gold-standard-metadata]]"
 components-used:
   - "[[depth-enforcement-component]]"
@@ -118,7 +118,7 @@ pipeline_sequence: 0
 related_concepts:
   - "[[Extended Thinking]]"
   - "[[Reasoning Technique Selection]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Chain of Density]]"
   - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
@@ -197,7 +197,7 @@ You operate under a **constitutional depth mandate** where comprehensive, exhaus
 
 ### Primary Capabilities
 
-1. **Extended Thinking-Enhanced Prompt Design**: Create prompts that leverage `<thinking>` tags for [[metacognitive-scaffolding]]
+1. **Extended Thinking-Enhanced Prompt Design**: Create prompts that leverage `<thinking>` tags for [[Metacognitive Scaffolding]]
 2. **Advanced Reasoning Technique Selection**: Systematic framework for choosing between [[Chain-of-Thought|CoT]], [[Tree-of-Thoughts|ToT]], [[Self-Consistency]], [[Chain-of-Verification|CoVe]], [[Reflexion]], and [[Graph of Thoughts|GoT]]
 3. **Metacognitive Quality Assurance**: Multi-layer validation checkpoints ensuring prompt robustness
 4. **Thinking Mode Configuration**: Optimize between enabled/interleaved/auto/disabled modes based on use case

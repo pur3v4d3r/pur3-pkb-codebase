@@ -71,13 +71,13 @@ related-concepts:
   - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
   - "[[calibration]]"
   - "[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]"
-  - "[[implementation-intentions|Implementation Intentions]]"
+  - "[[goal-intention|Implementation Intentions]]"
   - "[[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]]"
   - "[[habit-formation|Habit Formation]]"
   - "[[Cue-Routine-Reward-Loop]]"
   - "[[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]"
   - "[[reflective-practice|Reflective Practice]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Automated Reflection Prompts]]"
   - "[[Calibration-Tracking|Calibration Tracking]]"
   - "[[Metacognitive Dashboard]]"
@@ -106,7 +106,7 @@ aliases:
 
 ### The Gap That Quietly Defeats PKM
 
-There is a distinctive frustration that visits experienced PKB users who have read widely in the metacognition literature. They understand, often in considerable depth, how [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] works. They can explain [[zimmerman-srl-model|Zimmerman's]] forethought-performance-self-reflection cycle, articulate the distinction between [[judgment-of-learning|JOL]] accuracy and [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]], and describe why [[retrieval-practice|Retrieval Practice]] produces better learning outcomes than passive re-reading. And yet — when they examine their actual PKB usage over any given week — they find almost no evidence of systematic monitoring. Notes accumulate without confidence assessments. Review sessions consist of scrolling through familiar-feeling text rather than testing genuine recall. Reflection prompts in note templates sit empty, skipped in the flow of capture, because there is always something else to read or record. The metacognitive knowledge is real. The metacognitive practice is largely absent.
+There is a distinctive frustration that visits experienced PKB users who have read widely in the metacognition literature. They understand, often in considerable depth, how [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] works. They can explain [[zimmerman-srl-model|Zimmerman's]] forethought-performance-self-reflection cycle, articulate the distinction between [[judgment-of-learning|JOL]] accuracy and [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]], and describe why [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]] produces better learning outcomes than passive re-reading. And yet — when they examine their actual PKB usage over any given week — they find almost no evidence of systematic monitoring. Notes accumulate without confidence assessments. Review sessions consist of scrolling through familiar-feeling text rather than testing genuine recall. Reflection prompts in note templates sit empty, skipped in the flow of capture, because there is always something else to read or record. The metacognitive knowledge is real. The metacognitive practice is largely absent.
 
 This is not a character failing or a motivation problem in the conventional sense. It is a design problem. Most PKB architectures — even sophisticated ones built by metacognitively aware practitioners — are optimized for *capture* and *storage* while being structurally neutral or even hostile to *monitoring*. The effort involved in honest self-assessment is high; the structural prompts to perform it are weak or absent; the reward signals are delayed and invisible. Under these conditions, the [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] — the seductive feeling of familiarity that passive re-reading generates — fills the space that genuine monitoring should occupy. The PKB user experiences something that feels like learning while the monitoring-control loop that makes learning real quietly fails to activate.
 
@@ -168,7 +168,7 @@ The design significance of this framework for PKB architecture goes beyond conce
 
 ### Gollwitzer's Implementation Intentions: The Bridge from Intention to Habit
 
-The connection between Zimmerman's SRL framework and Gollwitzer's [[implementation-intentions|Implementation Intentions]] research is not obvious until you examine the specific mechanism by which the SRL cycle breaks down in practice. Research consistently shows that learners with strong metacognitive knowledge and high SRL intentions still fail to perform monitoring behaviors reliably. The failure point is *implementation* — the translation of the intention "I will monitor my understanding" into the actual behavior "I am monitoring my understanding right now, in this specific situation."
+The connection between Zimmerman's SRL framework and Gollwitzer's [[goal-intention|Implementation Intentions]] research is not obvious until you examine the specific mechanism by which the SRL cycle breaks down in practice. Research consistently shows that learners with strong metacognitive knowledge and high SRL intentions still fail to perform monitoring behaviors reliably. The failure point is *implementation* — the translation of the intention "I will monitor my understanding" into the actual behavior "I am monitoring my understanding right now, in this specific situation."
 
 > [!definition] **Implementation Intentions (Behavioral Science, Gollwitzer 1993, 1999; Gollwitzer & Sheeran 2006)**
 > A self-regulatory strategy in which a person supplements a goal intention ("I intend to do X") with a situational specification ("I intend to do X when situation Y occurs"). Formulated as explicit if-then plans: "If situation Y arises, then I will initiate behavior X." Gollwitzer and Sheeran's (2006) meta-analysis across 94 studies found that implementation intentions increased goal achievement with an effect size of d = 0.65 — a large effect by behavioral science standards. The mechanism is the creation of a mental link between a situational cue and a behavioral response, such that the cue automatically activates the behavior without requiring deliberate retrieval of the goal intention. Implementation intentions do not strengthen motivation; they automate the detection of the appropriate moment to act.
@@ -429,7 +429,7 @@ Three open questions emerge from this synthesis. First, what is the optimal spec
 >
 > - **[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]** — A hub concept connecting this report to the desirable difficulties literature (Report 16), the testing effect (Report 06), and calibration and epistemic humility (Report 18). The fluency illusion is the mechanism that most systematically undermines metacognitive monitoring; understanding it structurally connects the memory science, metacognition, and instructional design threads of the framework.
 >
-> - **[[implementation-intentions|Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
+> - **[[goal-intention|Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
 >
 > - **[[zimmerman-srl-model|Zimmerman SRL Model]]** — This report advances the use of Zimmerman's framework from conceptual reference (as in Report 04) to structural design template. The three-phase forethought-performance-self-reflection structure maps directly onto the daily/session/weekly monitoring rhythms of the Embedded Monitoring Architecture.
 >

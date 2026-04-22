@@ -300,3 +300,46 @@ Adds at top of note. Original callouts stay below as the receipt. **Toggle behin
 Develop a workflow for turning the vast neumber of permanent notes stubs into full fledge permanent notes.
 - using local llm
 - adding information, like definition callouit and such.
+
+
+
+
+
+
+I have a pipeline that extracts concepts from reports and creates permanent note stubs in Obsidian. The stubs have basic metadata but lack detailed content. I want to use a local LLM (like Qwen2.5-7B-Instruct) to enrich these stubs into full-fledged permanent notes.
+- The LLM should generate content for sections like "Core Explanation," "Practical Implications," "Key Figures," etc., based on the metadata and any available evidence or insights.
+- The workflow should be efficient, allowing me to process batches of stubs and update them in Obsidian without manual copy-pasting.
+- I also want to ensure that the generated content is accurate and well-structured, so the LLM should be guided by a clear prompt template that includes the necessary context for each note.
+- The final output should be a set of enriched permanent notes in Obsidian, each with comprehensive content that goes beyond the initial stub information.
+
+---
+
+I have a pipeline that extracts concepts from reports and creates permanent note stubs in Obsidian.
+
+---
+
+
+I have extracted and generated 2000+ permanent note stubs in Obsidian using a custom pipeline. 
+
+I need to consolidate the number of permanent notes as much as possible, by merging stubs that refer to the same concept but were created from different reports.
+- I want to use a local LLM (like Qwen2.5-7B-Instruct) to assist in identifying which stubs can be merged based on their metadata and any available evidence or insights.
+- The LLM should analyze the content of the stubs, including their titles, metadata,and any associated evidence or insights, to determine if they refer to the same underlying concept.
+- The workflow should allow me to review the LLM's suggestions for merging stubs, providing a clear interface for accepting or rejecting each suggestion.
+- Once stubs are merged, the resulting permanent note should combine the metadata and content from the original stubs, ensuring that no valuable information is lost in the consolidation process.
+- The final output should be a more concise set of permanent notes in Obsidian, with merged content where appropriate, while maintaining the integrity and richness of the information extracted from the reports.
+- The goal is to reduce redundancy in the permanent notes while preserving the depth and breadth of information, ultimately creating a more organized and efficient knowledge base in Obsidian.
+ Need a plan for cobining the stubs that refer to the same concept but were created from different reports, using a local LLM to assist in identifying which stubs can be merged based on their metadata and any available evidence or insights.
+- The new combined notes should have wikilinks to all the source reports and should preserve all the insights and evidence from the original stubs.
+I have ollama running locally with Qwen2.5-7B-Instruct, which I can use to analyze the stubs and suggest merges based on their content and metadata. I want to create a workflow that allows me to efficiently review the LLM's suggestions and merge stubs in Obsidian while preserving all relevant information.
+
+---
+
+
+
+
+
+
+
+
+
+

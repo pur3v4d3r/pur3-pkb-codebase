@@ -92,12 +92,12 @@ treatment-type: foundational-analytical
 core-concepts: ["Working Memory", "Cognitive Architecture", "Executive Function", "Capacity Limits", "Cognitive Load"]
 key-distinctions: ["Working Memory vs. Short-Term Memory", "Storage vs. Processing", "Structural vs. Functional Models"]
 prerequisites: ["[[cognitive-psychology-foundations]]", "[[attention]]", "[[memory-systems]]"]
-related: ["[[cognitive-load-theory]]", "[[schema-theory]]", "[[executive-function]]", "[[metacognition]]", "[[levels-of-processing]]"]
-broader: ["[[cognitive-architecture]]", "[[cognitive-psychology]]"]
+related: ["[[Cognitive Load Theory (CLT)]]", "[[schema-theory-and-knowledge-organization]]", "[[executive-function]]", "[[metacognition]]", "[[levels-of-processing-theory]]"]
+broader: ["[[Cognitive Architecture]]", "[[cognitive-psychology]]"]
 narrower: ["[[phonological-loop]]", "[[visuospatial-sketchpad]]", "[[central-executive]]", "[[episodic-buffer]]"]
 see-also: ["[[attention-and-cognitive-control]]", "[[dual-process-theory]]"]
 builds-on: ["[[atkinson-shiffrin-multi-store-model]]", "[[short-term-memory]]"]
-enables: ["[[cognitive-load-theory]]", "[[schema-construction]]", "[[instructional-design]]"]
+enables: ["[[Cognitive Load Theory (CLT)]]", "[[Schema Construction]]", "[[instructional-design]]"]
 
 # ═══════════════════════════════════════════════════════════════
 # APPENDIX & DENSITY TRACKING (Pipeline-Compatible)
@@ -160,12 +160,12 @@ connection-strength:
 
 ## Abstract
 
-Working memory stands among the most consequential constructs in the cognitive sciences, occupying a position of explanatory centrality that few other theoretical entities can rival. It denotes the limited-capacity system responsible for the temporary maintenance and active manipulation of information in the service of ongoing cognition — a cognitive workspace in which percepts are held, plans are formed, inferences are drawn, and knowledge is constructed. Unlike the older and narrower conception of [[short-term-memory]], which emphasised passive storage over a brief interval, working memory foregrounds the dynamic interplay between retention and processing, casting the mind not as a container but as an active workshop. This report provides a comprehensive, graduate-level treatment of working memory across eight major dimensions: its conceptual boundaries and theoretical significance; the historical arc from the [[atkinson-shiffrin-multi-store-model]] to contemporary formulations; the internal architecture of [[Baddeley's-Working-Memory-Model|Baddeley and Hitch's multicomponent model]]; alternative theoretical frameworks including [[Cowan's-Embedded-Processes-Model]] and attention-based accounts; the nature and measurement of capacity limits; the neural substrates that support working memory function; its pivotal role in [[cognitive-load-theory]] and instructional design; and its far-reaching implications for reading, reasoning, [[metacognition]], and [[self-regulated-learning]]. Throughout, the analysis traces the connections between working memory and the broader landscape of [[cognitive-architecture]], attending to both established empirical findings and productive theoretical tensions that continue to animate the field. The report concludes with an enhanced appendix comprising a lexicon, intellectual lineage, spaced repetition seeds, and directions for further PKB expansion.
+Working memory stands among the most consequential constructs in the cognitive sciences, occupying a position of explanatory centrality that few other theoretical entities can rival. It denotes the limited-capacity system responsible for the temporary maintenance and active manipulation of information in the service of ongoing cognition — a cognitive workspace in which percepts are held, plans are formed, inferences are drawn, and knowledge is constructed. Unlike the older and narrower conception of [[short-term-memory]], which emphasised passive storage over a brief interval, working memory foregrounds the dynamic interplay between retention and processing, casting the mind not as a container but as an active workshop. This report provides a comprehensive, graduate-level treatment of working memory across eight major dimensions: its conceptual boundaries and theoretical significance; the historical arc from the [[atkinson-shiffrin-multi-store-model]] to contemporary formulations; the internal architecture of [[Baddeley's-Working-Memory-Model|Baddeley and Hitch's multicomponent model]]; alternative theoretical frameworks including [[Cowan's-Embedded-Processes-Model]] and attention-based accounts; the nature and measurement of capacity limits; the neural substrates that support working memory function; its pivotal role in [[Cognitive Load Theory (CLT)]] and instructional design; and its far-reaching implications for reading, reasoning, [[metacognition]], and [[self-regulated-learning]]. Throughout, the analysis traces the connections between working memory and the broader landscape of [[Cognitive Architecture]], attending to both established empirical findings and productive theoretical tensions that continue to animate the field. The report concludes with an enhanced appendix comprising a lexicon, intellectual lineage, spaced repetition seeds, and directions for further PKB expansion.
 
 > [!schema-activation] **Bridging to Prior Knowledge**
-> If you have encountered the idea that human thought operates under severe resource constraints — that [[attention]] is finite, that [[cognitive-load|cognitive load]] can overwhelm the learner, that [[chunking]] is a strategy for circumventing capacity limits — then you have already engaged with the downstream consequences of working memory's architecture. This report traces those consequences back to their structural source. Working memory is the system that makes [[schema-construction|schema construction]] possible yet simultaneously constrains it, that enables [[executive-function|executive control]] yet is itself governed by attentional limits, and that sits at the intersection of perception, memory, and thought. The guiding question for this report is: *What does it mean for human cognition that its most powerful processing workspace is also its most constrained, and how does the architecture of that workspace shape learning, reasoning, and self-regulation?*
+> If you have encountered the idea that human thought operates under severe resource constraints — that [[attention]] is finite, that [[Cognitive Load Theory (CLT)|cognitive load]] can overwhelm the learner, that [[Chunk (Miller, 1956; Chase & Simon, 1973)]] is a strategy for circumventing capacity limits — then you have already engaged with the downstream consequences of working memory's architecture. This report traces those consequences back to their structural source. Working memory is the system that makes [[Schema Construction|schema construction]] possible yet simultaneously constrains it, that enables [[executive-function|executive control]] yet is itself governed by attentional limits, and that sits at the intersection of perception, memory, and thought. The guiding question for this report is: *What does it mean for human cognition that its most powerful processing workspace is also its most constrained, and how does the architecture of that workspace shape learning, reasoning, and self-regulation?*
 >
-> **Relevant prior knowledge:** [[cognitive-load-theory]], [[schema-theory]], [[attention-and-cognitive-control]], [[levels-of-processing]]
+> **Relevant prior knowledge:** [[Cognitive Load Theory (CLT)]], [[schema-theory-and-knowledge-organization]], [[attention-and-cognitive-control]], [[levels-of-processing-theory]]
 
 ## 1. Working Memory as Active Cognition: Defining the Cognitive Workspace
 
@@ -180,9 +180,9 @@ The term "working memory" designates a theoretical construct of remarkable expla
 >
 > **Report-Specific Significance:** Working memory serves as the foundational construct for this entire analysis — the bottleneck through which all higher cognition must pass, and therefore the system whose architecture most directly constrains and enables learning.
 >
-> **See also:** [[cognitive-architecture]], [[attention]], [[executive-function]], [[cognitive-load]]
+> **See also:** [[Cognitive Architecture]], [[attention]], [[executive-function]], [[Cognitive Load Theory (CLT)]]
 
-The significance of working memory extends well beyond the laboratory. Individual differences in [[working-memory-capacity]] are among the strongest predictors of performance on tasks ranging from reading comprehension to fluid intelligence, and from mathematical reasoning to second-language acquisition. The construct occupies a central position in [[cognitive-load-theory]], where it supplies the architectural rationale for instructional design principles that have reshaped educational practice. It is implicated in developmental trajectories, clinical disorders, and the everyday experience of cognitive effort. To understand working memory is, in a meaningful sense, to understand the conditions under which human thought succeeds and the conditions under which it falters.
+The significance of working memory extends well beyond the laboratory. Individual differences in [[working-memory-capacity]] are among the strongest predictors of performance on tasks ranging from reading comprehension to fluid intelligence, and from mathematical reasoning to second-language acquisition. The construct occupies a central position in [[Cognitive Load Theory (CLT)]], where it supplies the architectural rationale for instructional design principles that have reshaped educational practice. It is implicated in developmental trajectories, clinical disorders, and the everyday experience of cognitive effort. To understand working memory is, in a meaningful sense, to understand the conditions under which human thought succeeds and the conditions under which it falters.
 
 ### 1.2 Distinguishing Working Memory from Short-Term Memory
 
@@ -193,16 +193,16 @@ Working memory, by contrast, is defined not by passive holding but by functional
 > [!key-claim] **The Processing Distinction**
 > The transition from short-term memory to working memory as a theoretical construct reflects a paradigm-level shift in cognitive psychology: from modelling the mind as a sequence of passive stores to modelling it as a system of active processes that maintain, manipulate, and coordinate information under attentional control.
 
-This distinction matters practically as well as theoretically. If the temporary memory system were merely a passive buffer, then the primary design challenge for instruction would be to ensure that information enters the buffer before it decays. But if the system is an active workspace, then the design challenge is far more complex: one must consider not only how much information the learner can hold, but what the learner must do with that information, how many processing operations must be coordinated simultaneously, and whether the attentional demands of the task exceed the system's executive resources. This is precisely the challenge that [[cognitive-load-theory]] was developed to address, and it is a challenge that can only be framed adequately once working memory — rather than short-term memory — is the foundational construct.
+This distinction matters practically as well as theoretically. If the temporary memory system were merely a passive buffer, then the primary design challenge for instruction would be to ensure that information enters the buffer before it decays. But if the system is an active workspace, then the design challenge is far more complex: one must consider not only how much information the learner can hold, but what the learner must do with that information, how many processing operations must be coordinated simultaneously, and whether the attentional demands of the task exceed the system's executive resources. This is precisely the challenge that [[Cognitive Load Theory (CLT)]] was developed to address, and it is a challenge that can only be framed adequately once working memory — rather than short-term memory — is the foundational construct.
 
 ### 1.3 Working Memory's Position Within Cognitive Architecture
 
-Working memory does not operate in isolation. It is embedded within a broader [[cognitive-architecture]] that includes [[sensory-memory]], [[long-term-memory]], and the attentional and executive systems that govern the flow of information between these stores. In the standard information-processing framework, sensory memory provides a very brief, high-capacity registration of incoming stimuli; working memory selects, maintains, and processes a subset of that information; and long-term memory provides the vast, relatively permanent knowledge base against which current experience is interpreted.
+Working memory does not operate in isolation. It is embedded within a broader [[Cognitive Architecture]] that includes [[sensory-memory]], [[long-term-memory]], and the attentional and executive systems that govern the flow of information between these stores. In the standard information-processing framework, sensory memory provides a very brief, high-capacity registration of incoming stimuli; working memory selects, maintains, and processes a subset of that information; and long-term memory provides the vast, relatively permanent knowledge base against which current experience is interpreted.
 
-What makes working memory architecturally distinctive is its dual relationship with long-term memory. On the one hand, working memory draws upon long-term memory to interpret incoming information — a process that [[schema-theory|schema theory]] has elucidated in detail. When a reader encounters a familiar word, the schema for that word is activated in long-term memory and deployed within working memory to support comprehension, a process so rapid and so thoroughly [[automaticity|automatised]] that it consumes negligible working memory resources. On the other hand, working memory is the site where new learning occurs: where novel information is elaborated, connected to prior knowledge, and encoded into long-term memory in the form of new or modified schemas. This bidirectional relationship — long-term memory informing working memory, and working memory constructing long-term memory — is the central dynamic of [[schema-construction|schema construction]] and, by extension, of all meaningful learning.
+What makes working memory architecturally distinctive is its dual relationship with long-term memory. On the one hand, working memory draws upon long-term memory to interpret incoming information — a process that [[schema-theory-and-knowledge-organization|schema theory]] has elucidated in detail. When a reader encounters a familiar word, the schema for that word is activated in long-term memory and deployed within working memory to support comprehension, a process so rapid and so thoroughly [[automaticity|automatised]] that it consumes negligible working memory resources. On the other hand, working memory is the site where new learning occurs: where novel information is elaborated, connected to prior knowledge, and encoded into long-term memory in the form of new or modified schemas. This bidirectional relationship — long-term memory informing working memory, and working memory constructing long-term memory — is the central dynamic of [[Schema Construction|schema construction]] and, by extension, of all meaningful learning.
 
 > [!claude-insight] **Working Memory as Epistemic Bottleneck**
-> There is a deep irony in working memory's architectural position: the system that makes complex thought possible is also the system that most severely constrains it. Every act of reasoning, comprehension, or problem-solving must pass through a workspace that can hold only a handful of elements at once. This is not a design flaw; it is a structural feature that shapes the very character of human cognition. The strategies that humans have developed to cope with this constraint — [[chunking]], [[schema-automation|schema automation]], [[cognitive-offloading|cognitive offloading]], and the use of external representations — are, in effect, workarounds for a fundamental architectural bottleneck. Understanding working memory is therefore inseparable from understanding the epistemic limitations and compensatory strategies that define the human cognitive condition.
+> There is a deep irony in working memory's architectural position: the system that makes complex thought possible is also the system that most severely constrains it. Every act of reasoning, comprehension, or problem-solving must pass through a workspace that can hold only a handful of elements at once. This is not a design flaw; it is a structural feature that shapes the very character of human cognition. The strategies that humans have developed to cope with this constraint — [[Chunk (Miller, 1956; Chase & Simon, 1973)]], [[Schema Automation|schema automation]], [[Cognitive Offloading|cognitive offloading]], and the use of external representations — are, in effect, workarounds for a fundamental architectural bottleneck. Understanding working memory is therefore inseparable from understanding the epistemic limitations and compensatory strategies that define the human cognitive condition.
 
 > [!section-summary] **Section 1 Summary**
 > - Working memory is a limited-capacity system for the temporary maintenance and active manipulation of information, distinguished from short-term memory by its emphasis on processing rather than mere storage.
@@ -222,7 +222,7 @@ What makes working memory architecturally distinctive is its dual relationship w
 
 The intellectual history of working memory cannot be understood without first situating it within the broader history of [[memory-systems|memory research]] in experimental psychology. The earliest systematic investigations of temporary memory, dating to [[hermann-ebbinghaus|Ebbinghaus's]] pioneering work in the 1880s, were concerned primarily with the rate and pattern of forgetting over time. Memory was conceived as a trace that decayed, and the central empirical questions were quantitative: how quickly does the trace fade, and what factors modulate the rate of loss? This emphasis on storage and decay established a conceptual framework that would dominate memory research for nearly a century.
 
-The mid-twentieth century brought a decisive formalisation of this storage-centred view. [[george-miller|George A. Miller's]] landmark 1956 paper, "The Magical Number Seven, Plus or Minus Two," provided the field with one of its most durable empirical generalisations: the capacity of immediate memory is approximately seven discrete items, though this limit can be extended through the strategy of [[chunking]] — grouping individual items into larger, meaningful units. Miller's contribution was not merely quantitative; it established the idea that the mind's temporary holding capacity constitutes a fixed architectural parameter, a structural given against which all cognitive performance must be understood. The concept of chunking, moreover, hinted at a more active role for the memoriser than the pure storage model would suggest, although this implication was not fully developed in Miller's own account.
+The mid-twentieth century brought a decisive formalisation of this storage-centred view. [[george-miller|George A. Miller's]] landmark 1956 paper, "The Magical Number Seven, Plus or Minus Two," provided the field with one of its most durable empirical generalisations: the capacity of immediate memory is approximately seven discrete items, though this limit can be extended through the strategy of [[Chunk (Miller, 1956; Chase & Simon, 1973)]] — grouping individual items into larger, meaningful units. Miller's contribution was not merely quantitative; it established the idea that the mind's temporary holding capacity constitutes a fixed architectural parameter, a structural given against which all cognitive performance must be understood. The concept of chunking, moreover, hinted at a more active role for the memoriser than the pure storage model would suggest, although this implication was not fully developed in Miller's own account.
 
 ### 2.2 The Multi-Store Model: Atkinson and Shiffrin
 
@@ -231,7 +231,7 @@ The most influential formalisation of the storage-centred view came with the [[a
 The Atkinson-Shiffrin model was enormously productive. It provided a clear, testable architecture that could accommodate a wide range of empirical findings, from the serial position effect in free recall to the distinction between primary and secondary memory. Yet its conception of the short-term store was fundamentally passive: the store was a buffer of limited capacity, and its primary function was to hold information long enough for transfer to long-term memory. [[maintenance-rehearsal|Maintenance rehearsal]] — the rote repetition of items — was the principal mechanism by which information was kept in the store, and the probability of long-term encoding was assumed to increase with the duration of rehearsal.
 
 > [!warning] **The Rehearsal Fallacy**
-> The Atkinson-Shiffrin model's emphasis on maintenance rehearsal as the primary mechanism for long-term encoding proved to be one of its most significant empirical vulnerabilities. Subsequent research, particularly the work of [[fergus-i.-m.-craik|Craik]] and Lockhart on [[levels-of-processing]], demonstrated that the depth of processing — not the duration of rehearsal — is the critical determinant of memory encoding. Information that is processed semantically, in terms of meaning and association, is retained far more effectively than information that is merely repeated, regardless of how many times the repetition occurs. This finding undermined the multi-store model's account of transfer from short-term to long-term memory and created theoretical space for a more process-oriented conception of temporary memory.
+> The Atkinson-Shiffrin model's emphasis on maintenance rehearsal as the primary mechanism for long-term encoding proved to be one of its most significant empirical vulnerabilities. Subsequent research, particularly the work of [[fergus-i.-m.-craik|Craik]] and Lockhart on [[levels-of-processing-theory]], demonstrated that the depth of processing — not the duration of rehearsal — is the critical determinant of memory encoding. Information that is processed semantically, in terms of meaning and association, is retained far more effectively than information that is merely repeated, regardless of how many times the repetition occurs. This finding undermined the multi-store model's account of transfer from short-term to long-term memory and created theoretical space for a more process-oriented conception of temporary memory.
 
 ### 2.3 The Working Memory Revolution: Baddeley and Hitch (1974)
 
@@ -256,7 +256,7 @@ Beyond the multicomponent tradition, alternative models emerged that reconceived
 > [!reflection] **Reflective Questions — Section 2**
 > 1. Why was the shift from "short-term memory" to "working memory" more than a change in terminology? What theoretical commitments does the newer term encode?
 > 2. How did the dual-task paradigm provide evidence against the unitary-buffer model, and what architectural conclusions does selective interference support?
-> 3. What role did the [[levels-of-processing|levels-of-processing]] framework play in creating the theoretical space for the working memory concept?
+> 3. What role did the [[levels-of-processing-theory|levels-of-processing]] framework play in creating the theoretical space for the working memory concept?
 
 > [!active-reading] **Pause and Reflect**
 > Before reading about the detailed architecture of the multicomponent model in the next section, consider: if you were designing a cognitive system that needed to simultaneously maintain verbal instructions, visualise spatial relationships, and coordinate both in the service of a complex task, what architectural features would you build in? How does your intuitive design compare with what Baddeley and Hitch proposed?
@@ -276,7 +276,7 @@ The empirical case for the phonological loop rests on a convergent set of experi
 >
 > **Report-Specific Significance:** The phonological loop provides the clearest illustration of how a domain-specific subsystem can be characterised through converging experimental effects, and it anchors the broader claim that working memory is multicomponent rather than unitary.
 >
-> **See also:** [[maintenance-rehearsal]], [[dual-coding-theory]], [[modality-effect]]
+> **See also:** [[maintenance-rehearsal]], [[dual-coding-theory]], [[Modality Effect]]
 
 The phonological loop has important functional roles beyond simple list recall. It appears to be critically involved in vocabulary acquisition, particularly in childhood, where the ability to maintain a novel phonological form long enough to associate it with meaning is essential to lexical development. There is also substantial evidence for its role in reading, particularly in the decoding of unfamiliar words through phonological recoding — the process of translating written symbols into their corresponding sounds. In this respect, the phonological loop is not merely a storage device but a component of a broader system that supports language comprehension and production.
 
@@ -311,11 +311,11 @@ The episodic buffer is conceived as a limited-capacity store that holds integrat
 >
 > **Boundary:** The episodic buffer is not equivalent to [[episodic-memory]] in the sense of Tulving's theory, though the two constructs share the notion of integrated, contextualised representations. The buffer is a working memory component; episodic memory is a long-term memory system.
 >
-> **Report-Specific Significance:** The episodic buffer resolves several theoretical gaps in the original tripartite model and provides a mechanism for the well-documented influence of long-term knowledge on working memory capacity — a phenomenon central to [[schema-theory]] and [[cognitive-load-theory]].
+> **Report-Specific Significance:** The episodic buffer resolves several theoretical gaps in the original tripartite model and provides a mechanism for the well-documented influence of long-term knowledge on working memory capacity — a phenomenon central to [[schema-theory-and-knowledge-organization]] and [[Cognitive Load Theory (CLT)]].
 >
 > **See also:** [[episodic-memory]], [[schema]], [[Baddeley's-Working-Memory-Model]]
 
-The episodic buffer has important implications for the relationship between working memory and [[schema|schemas]]. Because the buffer can draw upon long-term memory representations, individuals with well-developed schemas in a particular domain can effectively increase their working memory capacity for domain-relevant information — not by expanding the buffer's intrinsic limits but by making each stored element richer and more information-dense through its connection to organised prior knowledge. This is the mechanism by which expertise reduces [[cognitive-load|cognitive load]]: the expert's working memory is not larger than the novice's, but the expert's schemas allow more information to be represented within the same limited number of slots.
+The episodic buffer has important implications for the relationship between working memory and [[schema|schemas]]. Because the buffer can draw upon long-term memory representations, individuals with well-developed schemas in a particular domain can effectively increase their working memory capacity for domain-relevant information — not by expanding the buffer's intrinsic limits but by making each stored element richer and more information-dense through its connection to organised prior knowledge. This is the mechanism by which expertise reduces [[Cognitive Load Theory (CLT)|cognitive load]]: the expert's working memory is not larger than the novice's, but the expert's schemas allow more information to be represented within the same limited number of slots.
 
 > [!section-summary] **Section 3 Summary**
 > - The multicomponent model comprises four elements: the phonological loop (verbal-acoustic storage), the visuospatial sketchpad (visual-spatial storage), the central executive (attentional control), and the episodic buffer (multimodal binding).
@@ -390,7 +390,7 @@ Klaus Oberauer has proposed a model that attempts to reconcile structural and at
 
 The question of how much information working memory can hold at any given moment is among the most fundamental in cognitive psychology, for the answer constrains not only memory performance but the scope and complexity of the cognitive operations that can be performed in real time. The classical answer, provided by [[george-miller]] in 1956, was seven plus or minus two — [[Miller's-Magical-Number-Seven|the magical number seven]]. Miller's estimate, derived from data on absolute judgement and immediate memory span, became one of the most widely cited findings in the history of psychology and established the intuition that the mind's temporary holding capacity is fixed and modest.
 
-Yet the status of Miller's number has been substantially revised in the decades since its publication. The revision has proceeded along two principal lines. First, Miller himself noted that the capacity limit applies to chunks rather than to raw sensory elements, and that the process of [[chunking]] — combining individual items into larger, meaningful units — can dramatically extend the effective span. A sequence of nine letters, such as F-B-I-C-I-A-N-S-A, appears to exceed the memory span; but when the letters are chunked into three familiar acronyms (FBI, CIA, NSA), the sequence requires only three slots in working memory. [[Herbert-Simon]] extended this observation, demonstrating that the capacity of short-term memory, when measured in chunks, is closer to five to nine chunks for simple stimuli and as few as two to four chunks for complex, information-rich stimuli.
+Yet the status of Miller's number has been substantially revised in the decades since its publication. The revision has proceeded along two principal lines. First, Miller himself noted that the capacity limit applies to chunks rather than to raw sensory elements, and that the process of [[Chunk (Miller, 1956; Chase & Simon, 1973)]] — combining individual items into larger, meaningful units — can dramatically extend the effective span. A sequence of nine letters, such as F-B-I-C-I-A-N-S-A, appears to exceed the memory span; but when the letters are chunked into three familiar acronyms (FBI, CIA, NSA), the sequence requires only three slots in working memory. [[Herbert-Simon]] extended this observation, demonstrating that the capacity of short-term memory, when measured in chunks, is closer to five to nine chunks for simple stimuli and as few as two to four chunks for complex, information-rich stimuli.
 
 Second, more recent work by [[Nelson-Cowan]] has argued that when chunking and rehearsal strategies are carefully controlled — when participants are presented with stimuli that cannot easily be grouped or rehearsed — the core capacity of working memory's attentional focus reduces to approximately three to four items. Cowan's estimate has received support from converging evidence across a range of paradigms, including change detection in visual arrays, running memory span tasks, and probed recall under articulatory suppression. The emerging consensus is that Miller's seven plus or minus two reflects the combined contributions of storage, rehearsal, and chunking, while the underlying capacity of the attentional focus — the true architectural bottleneck — is closer to four.
 
@@ -399,16 +399,16 @@ Second, more recent work by [[Nelson-Cowan]] has argued that when chunking and r
 
 ### 5.2 Chunking: Strategy, Structure, and Expertise
 
-The phenomenon of [[chunking]] is central to understanding how organisms with severe capacity limitations nevertheless accomplish complex cognition. A chunk is a unit of information that has been integrated through experience, association, or deliberate grouping such that it occupies a single slot in working memory despite containing multiple constituent elements. The letter group "FBI" is a single chunk for someone who knows the acronym; "FBX" is not, and its three letters each consume a separate slot.
+The phenomenon of [[Chunk (Miller, 1956; Chase & Simon, 1973)]] is central to understanding how organisms with severe capacity limitations nevertheless accomplish complex cognition. A chunk is a unit of information that has been integrated through experience, association, or deliberate grouping such that it occupies a single slot in working memory despite containing multiple constituent elements. The letter group "FBI" is a single chunk for someone who knows the acronym; "FBX" is not, and its three letters each consume a separate slot.
 
 > [!definition] **Chunking (Cognitive)**
 > The process of organising individual items of information into larger, integrated units (chunks) that can be maintained in working memory as single entities. [[cognitive-chunking|Chunking]] reduces the effective number of items that must be held simultaneously, thereby circumventing — though not expanding — working memory's capacity limits.
 >
 > **Boundary:** Chunking is a representational strategy, not an expansion of working memory's structural capacity. The number of chunks that can be held remains limited (~4); what changes is the informational richness of each chunk.
 >
-> **Report-Specific Significance:** Chunking is the primary mechanism by which expertise reduces cognitive load and represents the most direct bridge between working memory constraints and the knowledge structures elaborated by [[schema-theory]].
+> **Report-Specific Significance:** Chunking is the primary mechanism by which expertise reduces cognitive load and represents the most direct bridge between working memory constraints and the knowledge structures elaborated by [[schema-theory-and-knowledge-organization]].
 >
-> **See also:** [[schema]], [[schema-automation]], [[expertise-reversal-effect]], [[Herbert-Simon]]
+> **See also:** [[schema]], [[Schema Automation]], [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], [[Herbert-Simon]]
 
 The implications of chunking for expertise are profound. [[Herbert-Simon]] and William Chase's classic studies of chess expertise demonstrated that master chess players do not possess larger working memories than novices; rather, they possess a vast repertoire of perceptual chunks — familiar board configurations — that allow them to encode complex positions as a small number of meaningful patterns. Where the novice sees twenty-five individual pieces in seemingly random positions, the master sees four or five familiar configurations, each of which is a single chunk encoding the positions and relationships of multiple pieces. The same principle operates in every domain of expertise: the physician who recognises a diagnostic pattern, the programmer who perceives an algorithmic structure, the musician who hears a harmonic progression — each is leveraging domain-specific [[schema|schemas]] that function as chunks, allowing working memory to operate over rich, high-level representations rather than low-level, unorganised elements.
 
@@ -485,9 +485,9 @@ In healthy ageing, working memory capacity declines, with the most pronounced de
 
 ### 7.1 The Cognitive Load Theory Framework
 
-The significance of working memory for educational practice is most systematically articulated in [[cognitive-load-theory]] (CLT), the instructional design framework developed by [[john-sweller]] and colleagues beginning in the 1980s. CLT takes working memory's limited capacity as its foundational premise and derives from that premise a set of principles for the design of instructional materials and learning environments. The core insight is deceptively simple: if working memory can hold and process only a small number of elements at any given time, then instruction that imposes demands exceeding this capacity will fail — not because the learner lacks motivation or ability, but because the cognitive architecture itself cannot accommodate the processing requirements.
+The significance of working memory for educational practice is most systematically articulated in [[Cognitive Load Theory (CLT)]] (CLT), the instructional design framework developed by [[john-sweller]] and colleagues beginning in the 1980s. CLT takes working memory's limited capacity as its foundational premise and derives from that premise a set of principles for the design of instructional materials and learning environments. The core insight is deceptively simple: if working memory can hold and process only a small number of elements at any given time, then instruction that imposes demands exceeding this capacity will fail — not because the learner lacks motivation or ability, but because the cognitive architecture itself cannot accommodate the processing requirements.
 
-CLT distinguishes three types of [[cognitive-load|cognitive load]]. [[intrinsic-cognitive-load|Intrinsic cognitive load]] is determined by the inherent complexity of the material to be learned, specifically by the number of elements that must be simultaneously processed in working memory and the degree to which those elements interact with one another — a property termed [[element-interactivity|element interactivity]]. [[extraneous-cognitive-load|Extraneous cognitive load]] is imposed by the manner in which information is presented, and it reflects instructional design choices that either facilitate or impede the learner's engagement with the material. [[germane-cognitive-load|Germane cognitive load]] refers to the working memory resources devoted to the construction and automation of [[schema|schemas]] — the cognitive processes that directly contribute to learning.
+CLT distinguishes three types of [[Cognitive Load Theory (CLT)|cognitive load]]. [[Cognitive Load Theory (CLT)|Intrinsic cognitive load]] is determined by the inherent complexity of the material to be learned, specifically by the number of elements that must be simultaneously processed in working memory and the degree to which those elements interact with one another — a property termed [[Technical Detail: The relationship between element interactivity and working-memory load|element interactivity]]. [[Cognitive Load Theory (CLT)|Extraneous cognitive load]] is imposed by the manner in which information is presented, and it reflects instructional design choices that either facilitate or impede the learner's engagement with the material. [[Cognitive Load Theory (CLT)|Germane cognitive load]] refers to the working memory resources devoted to the construction and automation of [[schema|schemas]] — the cognitive processes that directly contribute to learning.
 
 > [!definition] **Element Interactivity**
 > The degree to which the elements comprising a learning task must be processed simultaneously rather than sequentially in working memory. High element interactivity characterises material in which understanding any single element depends on its relationship to multiple other elements, creating an intrinsic cognitive load that cannot be reduced without simplifying the learning objective itself.
@@ -496,17 +496,17 @@ CLT distinguishes three types of [[cognitive-load|cognitive load]]. [[intrinsic-
 >
 > **Report-Specific Significance:** Element interactivity is the mechanism by which working memory constraints translate into learning difficulty — it specifies precisely why some material overwhelms working memory while other material does not.
 >
-> **See also:** [[cognitive-load-theory]], [[intrinsic-cognitive-load]], [[schema-construction]], [[chunking]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[Schema Construction]], [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 
 ### 7.2 Instructional Design Effects Derived from Working Memory Constraints
 
 The interaction between working memory limitations and instructional design has generated a substantial body of empirically validated design effects, each of which specifies a condition under which a particular design choice reduces extraneous load or otherwise optimises the allocation of working memory resources.
 
-The [[worked-example-effect]] demonstrates that novice learners acquire schemas more efficiently when they study worked examples — problems that are fully solved and annotated — than when they attempt to solve equivalent problems themselves. The explanation is rooted directly in working memory: conventional problem-solving requires the learner to simultaneously maintain the problem state, identify possible operators, evaluate subgoals, and monitor progress — a set of concurrent demands that frequently exceeds working memory capacity and, crucially, that contributes little to schema construction. Worked examples reduce extraneous processing by eliminating the need for means-ends analysis, freeing working memory resources for the germane process of attending to the solution's structure and abstracting the underlying schema.
+The [[the-worked-example-effect]] demonstrates that novice learners acquire schemas more efficiently when they study worked examples — problems that are fully solved and annotated — than when they attempt to solve equivalent problems themselves. The explanation is rooted directly in working memory: conventional problem-solving requires the learner to simultaneously maintain the problem state, identify possible operators, evaluate subgoals, and monitor progress — a set of concurrent demands that frequently exceeds working memory capacity and, crucially, that contributes little to schema construction. Worked examples reduce extraneous processing by eliminating the need for means-ends analysis, freeing working memory resources for the germane process of attending to the solution's structure and abstracting the underlying schema.
 
 The [[split-attention-effect]] occurs when instructional materials require learners to mentally integrate two or more spatially or temporally separated sources of information that can only be understood in relation to each other. A geometry diagram and its accompanying textual explanation, presented on separate parts of a page, impose a split-attention burden: the learner must hold information from one source in working memory while searching for and integrating corresponding information from the other. Physically integrating the sources — for example, embedding the textual labels directly within the diagram — eliminates this unnecessary working memory burden.
 
-The [[modality-effect]] draws directly on the [[Baddeley's-Working-Memory-Model|multicomponent model's]] architecture: because the [[phonological-loop|phonological loop]] and the [[visuospatial-sketchpad|visuospatial sketchpad]] are partially independent, presenting information in both auditory and visual modalities can expand the effective working memory capacity available for learning, compared to presenting all information in a single modality. Audio narration accompanying a visual diagram exploits both subsystems, whereas on-screen text accompanying a diagram loads only the visual channel.
+The [[Modality Effect]] draws directly on the [[Baddeley's-Working-Memory-Model|multicomponent model's]] architecture: because the [[phonological-loop|phonological loop]] and the [[visuospatial-sketchpad|visuospatial sketchpad]] are partially independent, presenting information in both auditory and visual modalities can expand the effective working memory capacity available for learning, compared to presenting all information in a single modality. Audio narration accompanying a visual diagram exploits both subsystems, whereas on-screen text accompanying a diagram loads only the visual channel.
 
 The [[redundancy-effect]] warns that when two sources of information are self-contained — each fully intelligible without the other — presenting both imposes an unnecessary processing burden as the learner devotes working memory resources to reconciling redundant inputs rather than to schema construction.
 
@@ -515,12 +515,12 @@ The [[redundancy-effect]] warns that when two sources of information are self-co
 
 ### 7.3 The Expertise Reversal Effect and Schema Automation
 
-A particularly illuminating CLT effect is the [[expertise-reversal-effect]], which demonstrates that instructional techniques beneficial for novice learners can become detrimental for more advanced learners — and vice versa. The explanation lies in the interaction between working memory and [[schema|schemas]]. For the novice, who lacks relevant schemas, worked examples and integrated formats reduce the processing demands that would otherwise overwhelm working memory. But for the expert, who possesses well-developed and partially [[schema-automation|automated schemas]], these same supports are redundant; the expert must process both the support and the schema, creating unnecessary cognitive load. The expertise reversal effect thus illustrates how the effective cognitive load of a task depends not on the task alone but on the interaction between the task and the learner's prior knowledge — precisely because prior knowledge, in the form of schemas, changes the working memory demands of processing.
+A particularly illuminating CLT effect is the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], which demonstrates that instructional techniques beneficial for novice learners can become detrimental for more advanced learners — and vice versa. The explanation lies in the interaction between working memory and [[schema|schemas]]. For the novice, who lacks relevant schemas, worked examples and integrated formats reduce the processing demands that would otherwise overwhelm working memory. But for the expert, who possesses well-developed and partially [[Schema Automation|automated schemas]], these same supports are redundant; the expert must process both the support and the schema, creating unnecessary cognitive load. The expertise reversal effect thus illustrates how the effective cognitive load of a task depends not on the task alone but on the interaction between the task and the learner's prior knowledge — precisely because prior knowledge, in the form of schemas, changes the working memory demands of processing.
 
 > [!active-reading] **Instructional Design Reflection**
 > Consider a specific learning experience from your own history where you found instructional materials either overwhelming or insultingly simple. Can you now reinterpret that experience in terms of the alignment — or misalignment — between the material's intrinsic element interactivity, the extraneous load imposed by the instructional format, and the schemas you had available at the time?
 
-The concept of [[schema-automation]] is critical here. As schemas are practised and consolidated, their activation becomes increasingly automatic, consuming fewer working memory resources. A skilled reader does not consciously decode individual letters; a proficient driver does not deliberate over each gear change. This automatisation frees working memory capacity for higher-order processing — comprehension, strategy selection, monitoring, and evaluation. The developmental trajectory from novice to expert can thus be characterised as a progressive offloading of routine processing from working memory to automated schemas in [[long-term-memory]], liberating the cognitive workspace for increasingly sophisticated operations.
+The concept of [[Schema Automation]] is critical here. As schemas are practised and consolidated, their activation becomes increasingly automatic, consuming fewer working memory resources. A skilled reader does not consciously decode individual letters; a proficient driver does not deliberate over each gear change. This automatisation frees working memory capacity for higher-order processing — comprehension, strategy selection, monitoring, and evaluation. The developmental trajectory from novice to expert can thus be characterised as a progressive offloading of routine processing from working memory to automated schemas in [[long-term-memory]], liberating the cognitive workspace for increasingly sophisticated operations.
 
 > [!section-summary] **Section 7 Summary**
 > - Cognitive load theory translates working memory's architectural constraints into instructional design principles, distinguishing intrinsic, extraneous, and germane cognitive load.
@@ -560,7 +560,7 @@ Analogical reasoning similarly relies on working memory, as it requires the reas
 The relationship between working memory and [[metacognition]] is bidirectional and deeply consequential. Working memory provides the cognitive workspace in which [[metacognitive-monitoring|metacognitive monitoring]] operations are executed: the assessment of one's own comprehension, the detection of errors in one's reasoning, the calibration of confidence in one's judgements. These monitoring operations are themselves working-memory-intensive, because they require the learner to maintain a representation of the primary task while simultaneously evaluating the quality and completeness of that representation — a form of cognitive dual-tasking.
 
 > [!original-synthesis] **The Metacognitive Overhead Problem**
-> There is a tension inherent in the relationship between working memory and metacognition that has not been sufficiently foregrounded in the literature. Metacognitive monitoring — assessing whether one understands, identifying what one does not know, evaluating the quality of one's reasoning — requires working memory resources. But working memory is the very resource that is often most constrained during demanding cognitive tasks. The result is a catch-22: the situations in which metacognitive monitoring is most needed (high-load, complex tasks) are precisely the situations in which working memory is least available to support it. This suggests that effective metacognitive functioning depends not only on metacognitive knowledge and skills but on the degree to which primary task processing has been automated through [[schema-automation|schema automation]], thereby freeing working memory resources for the overlay of self-monitoring. The development of metacognitive competence may therefore be inseparable from the development of domain expertise — not because expertise teaches metacognition directly, but because expertise frees the working memory resources that metacognition requires.
+> There is a tension inherent in the relationship between working memory and metacognition that has not been sufficiently foregrounded in the literature. Metacognitive monitoring — assessing whether one understands, identifying what one does not know, evaluating the quality of one's reasoning — requires working memory resources. But working memory is the very resource that is often most constrained during demanding cognitive tasks. The result is a catch-22: the situations in which metacognitive monitoring is most needed (high-load, complex tasks) are precisely the situations in which working memory is least available to support it. This suggests that effective metacognitive functioning depends not only on metacognitive knowledge and skills but on the degree to which primary task processing has been automated through [[Schema Automation|schema automation]], thereby freeing working memory resources for the overlay of self-monitoring. The development of metacognitive competence may therefore be inseparable from the development of domain expertise — not because expertise teaches metacognition directly, but because expertise frees the working memory resources that metacognition requires.
 
 This analysis has implications for [[self-regulated-learning]] (SRL). The self-regulated learner is one who plans, monitors, and adjusts their learning strategies in real time — operations that are all mediated by working memory. If working memory resources are fully consumed by the primary learning task, there is no residual capacity available for the executive operations of self-regulation. This may explain why self-regulation is more difficult — and more effortful — for novice learners than for experts, and why SRL training is most effective when paired with instruction that reduces the extraneous cognitive load of the learning environment.
 
@@ -588,12 +588,12 @@ The principles that govern working memory's architecture and function are not co
 > [!far-transfer] **Artificial Intelligence: Context Windows as Working Memory Analogues**
 > Large language models (LLMs) operate with a fixed context window — a limited-capacity processing space that determines how much text the model can attend to when generating a response. This context window is a striking structural analogue of working memory: it is severely limited relative to the model's total "knowledge" (stored in its parameters, analogous to [[long-term-memory]]), it constrains the complexity of reasoning that the model can perform in a single pass, and its effective capacity can be extended through chunking-like strategies (such as summarisation and structured prompting). The parallel is not merely metaphorical; it reveals that any information-processing system — biological or artificial — that must operate in real time faces a fundamental trade-off between the breadth of information it can hold in active processing and the depth with which it can process that information. Understanding this trade-off in the human case provides design heuristics for AI systems that face the same architectural constraint.
 >
-> **See also:** [[information-processing-theory]], [[cognitive-architecture]]
+> **See also:** [[information-processing-theory]], [[Cognitive Architecture]]
 
 > [!far-transfer] **Human-Computer Interaction: Interface Design and Cognitive Bandwidth**
-> The design of user interfaces is, at its core, a problem of managing the user's cognitive load — and therefore a problem of working memory management. Interfaces that present too many options, require the user to maintain too many intermediate states, or demand the mental integration of spatially separated information sources create precisely the conditions that overwhelm working memory. The [[split-attention-effect]] translates directly into interface design: labels should be physically integrated with the elements they describe, related controls should be grouped together, and the number of simultaneously visible options should respect the capacity limit of approximately four chunks. Working memory research thus provides a principled foundation for interface design that goes beyond aesthetic intuition to engage the constraints of human [[cognitive-architecture|cognitive architecture]].
+> The design of user interfaces is, at its core, a problem of managing the user's cognitive load — and therefore a problem of working memory management. Interfaces that present too many options, require the user to maintain too many intermediate states, or demand the mental integration of spatially separated information sources create precisely the conditions that overwhelm working memory. The [[split-attention-effect]] translates directly into interface design: labels should be physically integrated with the elements they describe, related controls should be grouped together, and the number of simultaneously visible options should respect the capacity limit of approximately four chunks. Working memory research thus provides a principled foundation for interface design that goes beyond aesthetic intuition to engage the constraints of human [[Cognitive Architecture|cognitive architecture]].
 >
-> **See also:** [[cognitive-load]], [[attention]], [[selective-attention]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[attention]], [[selective-attention]]
 
 > [!far-transfer] **Clinical Assessment: Working Memory Deficits and Neurodevelopmental Conditions**
 > Working memory deficits are a transdiagnostic feature of numerous neurodevelopmental and neuropsychiatric conditions, including attention-deficit/hyperactivity disorder (ADHD), specific learning disabilities, autism spectrum conditions, and schizophrenia. In each case, the deficit manifests not merely as reduced storage capacity but as impaired [[Executive-Control|executive control]] — difficulty suppressing irrelevant information, switching between task demands, or updating representations in light of new input. Recognising working memory as the common substrate of these diverse conditions opens possibilities for targeted assessment and intervention that address the shared mechanism rather than the surface-level symptoms.
@@ -601,9 +601,9 @@ The principles that govern working memory's architecture and function are not co
 > **See also:** [[executive-function]], [[Cognitive-Control]], [[prefrontal-cortex]]
 
 > [!far-transfer] **Organisational Management: Team Cognitive Load and Information Flow**
-> The concept of working memory capacity can be applied, by analogy, to teams and organisations. A team working on a complex project must collectively maintain, share, and update information about the project's state — a distributed working memory function. When the information flow exceeds the team's collective processing capacity — due to too many concurrent communication channels, too many interdependent decisions, or insufficient shared mental models — the team experiences a form of cognitive overload analogous to what an individual experiences when element interactivity exceeds working memory capacity. Strategies that work at the individual level — [[chunking|chunking]] information, [[schema-automation|automating routine procedures]], reducing extraneous processing demands — have organisational analogues in standardised procedures, clear role definitions, and the use of shared documentation and dashboards.
+> The concept of working memory capacity can be applied, by analogy, to teams and organisations. A team working on a complex project must collectively maintain, share, and update information about the project's state — a distributed working memory function. When the information flow exceeds the team's collective processing capacity — due to too many concurrent communication channels, too many interdependent decisions, or insufficient shared mental models — the team experiences a form of cognitive overload analogous to what an individual experiences when element interactivity exceeds working memory capacity. Strategies that work at the individual level — [[Chunk (Miller, 1956; Chase & Simon, 1973)|chunking]] information, [[Schema Automation|automating routine procedures]], reducing extraneous processing demands — have organisational analogues in standardised procedures, clear role definitions, and the use of shared documentation and dashboards.
 >
-> **See also:** [[element-interactivity]], [[cognitive-load-theory]]
+> **See also:** [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Cognitive Load Theory (CLT)]]
 
 The foregoing applications illustrate a metacognitive principle: when a concept possesses genuine explanatory depth, its structural logic can be recognised in systems far removed from its original domain. The capacity-limited workspace, the trade-off between breadth and depth, the role of knowledge in compressing information, and the cost of executive control — these are not merely properties of the human mind but properties of any system that must process complex information under resource constraints.
 
@@ -615,9 +615,9 @@ This report has traced working memory from its conceptual foundations through it
 
 First, working memory is best understood not as a unitary store but as a set of interrelated processes — maintenance, manipulation, binding, and attentional control — that operate over different representational formats and are implemented by distributed neural circuits. Whether one adopts the multicomponent model's language of dedicated subsystems or Cowan's language of activated long-term memory and attentional focus, the fundamental insight is the same: temporary information processing is architecturally differentiated and functionally constrained.
 
-Second, the constraint itself is the most consequential feature. Working memory's limited capacity is not an incidental property but the defining parameter that shapes the character of human cognition. It determines what can be learned and at what rate, what reasoning is tractable and what exceeds human processing limits, and how instruction must be designed to respect the learner's cognitive architecture. The entire edifice of [[cognitive-load-theory]] rests on this constraint, as do the practical applications in [[instructional-design|instructional design]], interface design, and clinical assessment.
+Second, the constraint itself is the most consequential feature. Working memory's limited capacity is not an incidental property but the defining parameter that shapes the character of human cognition. It determines what can be learned and at what rate, what reasoning is tractable and what exceeds human processing limits, and how instruction must be designed to respect the learner's cognitive architecture. The entire edifice of [[Cognitive Load Theory (CLT)]] rests on this constraint, as do the practical applications in [[instructional-design|instructional design]], interface design, and clinical assessment.
 
-Third, the relationship between working memory and [[long-term-memory]] is not one of simple succession (information passing from one store to the next) but of continuous, reciprocal interaction. Schemas stored in long-term memory shape what can be held and processed in working memory; working memory, in turn, is the site where new schemas are constructed. This bidirectional dynamic means that working memory capacity is not fixed in a functional sense — it varies with expertise, with the availability of relevant prior knowledge, and with the degree to which routine processing has been automated. [[schema-construction]] and [[schema-automation]] are therefore not merely consequences of learning but determinants of working memory's effective power.
+Third, the relationship between working memory and [[long-term-memory]] is not one of simple succession (information passing from one store to the next) but of continuous, reciprocal interaction. Schemas stored in long-term memory shape what can be held and processed in working memory; working memory, in turn, is the site where new schemas are constructed. This bidirectional dynamic means that working memory capacity is not fixed in a functional sense — it varies with expertise, with the availability of relevant prior knowledge, and with the degree to which routine processing has been automated. [[Schema Construction]] and [[Schema Automation]] are therefore not merely consequences of learning but determinants of working memory's effective power.
 
 Fourth, the metacognitive overlay — the ability to monitor, evaluate, and regulate one's own cognitive performance — is itself a working-memory-intensive operation. The metacognitive overhead problem identified in this report suggests that the development of [[self-regulated-learning|self-regulated learning]] is not independent of domain expertise but is, in part, parasitic upon it: effective self-regulation requires the working memory resources that only expertise can free. This observation connects the cognitive science of working memory to the educational science of self-regulation in a way that has not been adequately explored in either literature.
 
@@ -636,7 +636,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > **Report-Specific Significance:** The foundational construct of this entire report — the cognitive workspace whose architecture constrains and enables learning, reasoning, and self-regulation.
 >
-> **See also:** [[working-memory]], [[cognitive-architecture]], [[executive-function]], [[cognitive-load-theory]]
+> **See also:** [[working-memory]], [[Cognitive Architecture]], [[executive-function]], [[Cognitive Load Theory (CLT)]]
 
 > [!definition] **Phonological Loop (Baddeley, 1986)**
 > A subsystem of working memory comprising a phonological store (decay period ~1.5–2 seconds) and an articulatory rehearsal process. Specialised for the maintenance of verbal-sequential information through subvocal rehearsal.
@@ -645,7 +645,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > **Report-Specific Significance:** The best-specified component of the multicomponent model, providing the clearest evidence for domain-specific subsystems.
 >
-> **See also:** [[phonological-loop]], [[maintenance-rehearsal]], [[modality-effect]]
+> **See also:** [[phonological-loop]], [[maintenance-rehearsal]], [[Modality Effect]]
 
 > [!definition] **Visuospatial Sketchpad (Baddeley & Hitch, 1974)**
 > The working memory subsystem responsible for maintaining and manipulating visual and spatial information. Supports mental rotation, spatial navigation, and imagery. Contains dissociable visual (object features) and spatial (location/movement) subcomponents.
@@ -670,7 +670,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > **Boundary:** Not equivalent to [[episodic-memory]] in Tulving's sense. The buffer is a working memory component; episodic memory is a long-term memory system.
 >
-> **Report-Specific Significance:** Resolves theoretical gaps in the tripartite model and provides the mechanism linking working memory to [[schema-theory]].
+> **Report-Specific Significance:** Resolves theoretical gaps in the tripartite model and provides the mechanism linking working memory to [[schema-theory-and-knowledge-organization]].
 >
 > **See also:** [[episodic-buffer]], [[schema]], [[long-term-memory]]
 
@@ -681,16 +681,16 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > **Report-Specific Significance:** The primary mechanism by which expertise reduces effective cognitive load and the bridge between working memory constraints and schema theory.
 >
-> **See also:** [[chunking]], [[cognitive-chunking]], [[schema-automation]], [[Herbert-Simon]]
+> **See also:** [[Chunk (Miller, 1956; Chase & Simon, 1973)]], [[cognitive-chunking]], [[Schema Automation]], [[Herbert-Simon]]
 
 > [!definition] **Element Interactivity (Sweller, 1994)**
-> The degree to which learning elements must be processed simultaneously rather than sequentially in working memory. Determines [[intrinsic-cognitive-load|intrinsic cognitive load]]. Relative to the learner's expertise: as schemas develop, previously interacting elements are integrated into single chunks.
+> The degree to which learning elements must be processed simultaneously rather than sequentially in working memory. Determines [[Cognitive Load Theory (CLT)|intrinsic cognitive load]]. Relative to the learner's expertise: as schemas develop, previously interacting elements are integrated into single chunks.
 >
 > **Boundary:** A relational property between material and learner, not an absolute property of material alone.
 >
 > **Report-Specific Significance:** The mechanism by which working memory constraints translate into learning difficulty in cognitive load theory.
 >
-> **See also:** [[element-interactivity]], [[cognitive-load-theory]], [[schema-construction]]
+> **See also:** [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Cognitive Load Theory (CLT)]], [[Schema Construction]]
 
 > [!definition] **Embedded-Processes Model (Cowan, 1988; 1999)**
 > A theoretical framework in which working memory is constituted by the activated portion of [[long-term-memory]] plus a limited-capacity focus of [[attention]] (~3–4 items). Dispenses with dedicated modular stores in favour of attentional processes operating on activated memory traces.
@@ -702,13 +702,13 @@ The guiding question posed in the schema activation — *What does it mean for h
 > **See also:** [[Cowan's-Embedded-Processes-Model]], [[Nelson-Cowan]], [[attention]], [[working-memory-capacity]]
 
 > [!definition] **Cognitive Load (Sweller, 1988)**
-> The total demand placed on working memory during a cognitive task, comprising intrinsic load (material complexity), extraneous load (presentation inefficiencies), and germane load (resources devoted to schema construction). The central construct of [[cognitive-load-theory]].
+> The total demand placed on working memory during a cognitive task, comprising intrinsic load (material complexity), extraneous load (presentation inefficiencies), and germane load (resources devoted to schema construction). The central construct of [[Cognitive Load Theory (CLT)]].
 >
 > **Boundary:** Cognitive load is not equivalent to task difficulty in the subjective sense. It refers specifically to working memory demand.
 >
 > **Report-Specific Significance:** Provides the conceptual vocabulary for translating working memory architecture into instructional design principles.
 >
-> **See also:** [[cognitive-load]], [[intrinsic-cognitive-load]], [[extraneous-cognitive-load]], [[germane-cognitive-load]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]]
 
 > [!definition] **Schema Automation (Sweller & Chandler; Anderson)**
 > The process by which schemas, through repeated activation and practice, become executable with minimal or no demand on working memory resources. Frees working memory capacity for higher-order operations including metacognition and self-regulation.
@@ -717,7 +717,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > **Report-Specific Significance:** The mechanism by which expertise transforms working memory's effective capacity and enables the metacognitive overlay discussed in Section 8.
 >
-> **See also:** [[schema-automation]], [[automaticity]], [[procedural-memory]], [[self-regulated-learning]]
+> **See also:** [[Schema Automation]], [[automaticity]], [[procedural-memory]], [[self-regulated-learning]]
 
 ---
 
@@ -929,7 +929,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 > 4. **Avoid** presenting the same information through both channels simultaneously (redundancy effect).
 > 5. **Ensure** verbal and visual information are complementary, not redundant.
 > 6. **Synchronise** timing so that verbal and visual information refer to the same concept simultaneously.
-> 7. Validate against the [[modality-effect]], [[split-attention-effect]], and [[redundancy-effect]].
+> 7. Validate against the [[Modality Effect]], [[split-attention-effect]], and [[redundancy-effect]].
 
 > [!checklist] **Checklist: Identifying Working Memory Overload in Learners**
 > - [ ] Frequent requests to repeat instructions
@@ -1021,15 +1021,15 @@ The guiding question posed in the schema activation — *What does it mean for h
 > **Suggested report type:** Foundational Report
 > **Prerequisites:** [[working-memory]], [[Cognitive-Control]], [[prefrontal-cortex]]
 
-> [!topic-idea] **[[cognitive-load-theory|Cognitive Load Theory: Principles, Effects, and Contemporary Debates]]**
+> [!topic-idea] **[[Cognitive Load Theory (CLT)|Cognitive Load Theory: Principles, Effects, and Contemporary Debates]]**
 > This report treats CLT as an application of working memory theory, but CLT has developed into a substantial research programme with its own internal debates, effect taxonomy, and evolving theoretical commitments. A dedicated report would provide comprehensive coverage of all CLT effects, the reconceptualisation of germane load, the expertise reversal effect, and recent extensions to collaborative and self-directed learning.
 >
 > **Connection to this report:** Section 7 (CLT as applied WM theory), Far Transfer (interface design).
 > **Priority:** Critical
 > **Suggested report type:** Foundational Report
-> **Prerequisites:** [[working-memory]], [[schema-theory]], [[instructional-design]]
+> **Prerequisites:** [[working-memory]], [[schema-theory-and-knowledge-organization]], [[instructional-design]]
 
-> [!topic-idea] **[[schema-theory|Schema Theory: From Bartlett to Contemporary Cognitive Science]]**
+> [!topic-idea] **[[schema-theory-and-knowledge-organization|Schema Theory: From Bartlett to Contemporary Cognitive Science]]**
 > The concept of the schema is invoked throughout this report as the mechanism by which expertise augments working memory. However, schema theory has a rich intellectual history — from Bartlett through Piaget, Rumelhart, and contemporary connectionist models — that warrants its own treatment, including the relationship between schemas and categories, the process of schema acquisition, and the role of schemas in perception, memory, and reasoning.
 >
 > **Connection to this report:** Section 5 (chunking and schemas), Section 7 (schema construction and automation), Section 8 (metacognitive overhead).
@@ -1051,7 +1051,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 > **Connection to this report:** Far Transfer section, Section 7 (CLT and transfer), Section 8 (cross-domain applications).
 > **Priority:** High
 > **Suggested report type:** Dialectical Report
-> **Prerequisites:** [[cognitive-load-theory]], [[schema-theory]], [[deep-processing]]
+> **Prerequisites:** [[Cognitive Load Theory (CLT)]], [[schema-theory-and-knowledge-organization]], [[deep-processing]]
 
 > [!topic-idea] **[[self-regulated-learning|Self-Regulated Learning: Models, Mechanisms, and Working Memory Demands]]**
 > The metacognitive overhead problem identified in this report raises a fundamental question about the relationship between self-regulation and cognitive architecture. A dedicated report would examine models of self-regulated learning (Zimmerman, Winne, Pintrich), the cognitive demands of self-regulation, and the implications for instructional scaffolding.
@@ -1081,7 +1081,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > **2. Downstream Applications** (this report enables):
 >
-> - **[[cognitive-load-theory]]** — CLT is, as this report argues, applied working memory theory. The constraints and mechanisms described here provide the theoretical foundation for every CLT instructional effect.
+> - **[[Cognitive Load Theory (CLT)]]** — CLT is, as this report argues, applied working memory theory. The constraints and mechanisms described here provide the theoretical foundation for every CLT instructional effect.
 >
 > - **[[instructional-design]]** — The practical discipline that translates cognitive load principles into learning materials, assessment strategies, and pedagogical approaches. Understanding working memory architecture is prerequisite.
 >
@@ -1089,7 +1089,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > - **[[metacognitive-monitoring]]** — The metacognitive overhead problem identified in this report has direct implications for how metacognitive interventions should be designed and when they are likely to succeed or fail.
 >
-> - **[[four-component-instructional-design]]** — Van Merriënboer's 4C/ID model explicitly incorporates working memory constraints through its management of intrinsic load. This report provides the theoretical base.
+> - **[[four-component-instructional-design-4cid — Design Methodology for Complex Learning]]** — Van Merriënboer's 4C/ID model explicitly incorporates working memory constraints through its management of intrinsic load. This report provides the theoretical base.
 >
 > **3. Lateral Connections** (mutual enrichment):
 >
@@ -1097,7 +1097,7 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > - **[[executive-function]]** — Executive functions are both the control processes of working memory (in Baddeley's model) and a broader construct extending to self-regulation and adaptive behaviour. The relationship is reciprocal.
 >
-> - **[[schema-theory]]** — Schemas augment working memory by compressing information; working memory provides the processing site where schemas are constructed. The constructs are mutually definitional.
+> - **[[schema-theory-and-knowledge-organization]]** — Schemas augment working memory by compressing information; working memory provides the processing site where schemas are constructed. The constructs are mutually definitional.
 >
 > - **[[long-term-memory]]** — The relationship between working memory and long-term memory is bidirectional: LTM provides the knowledge base that enables chunking, and WM provides the processing site for encoding into LTM. Neither can be fully understood without the other.
 >
@@ -1111,11 +1111,11 @@ The guiding question posed in the schema activation — *What does it mean for h
 >
 > - **[[central-executive]]** — The fractionation via Miyake and Friedman and the neural substrates discussion substantially enrich this concept.
 >
-> - **[[chunking]]** and **[[cognitive-chunking]]** — The relationship between chunking, schemas, and effective capacity is developed in detail.
+> - **[[Chunk (Miller, 1956; Chase & Simon, 1973)]]** and **[[cognitive-chunking]]** — The relationship between chunking, schemas, and effective capacity is developed in detail.
 >
-> - **[[element-interactivity]]** — The treatment of element interactivity as the bridge between WM architecture and learning difficulty is comprehensive.
+> - **[[Technical Detail: The relationship between element interactivity and working-memory load]]** — The treatment of element interactivity as the bridge between WM architecture and learning difficulty is comprehensive.
 >
-> - **[[schema-automation]]** — The role of automation in freeing working memory resources for metacognition is a novel contribution.
+> - **[[Schema Automation]]** — The role of automation in freeing working memory resources for metacognition is a novel contribution.
 
 ---
 

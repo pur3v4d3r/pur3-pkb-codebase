@@ -47,7 +47,7 @@ review-priority: medium
 > - **Key-Term**:[[schemas]]
 > - [**Definition**:Knowledge is organized into cognitive structures (schemata) representing concepts and their relationships. Learning involves modifying existing schemata through two processes: assimilation (integrating new information into existing frameworks) and accommodation (restructuring frameworks to incorporate incompatible information).]
 
-[[schemas]] are structures found in [[long-term-memory]] that allow an individual to store vast amounts of domain specific knowledge as individual single units through [[chunking|chunking]], or similar methods. An individual may pull that information as needed into the [[Focus Of Attention]]. Without taking up more than one space in the [[cognitive-load-theory]] inventory. (*7 plus or minus 2*, *4*) 
+[[schemas]] are structures found in [[long-term-memory]] that allow an individual to store vast amounts of domain specific knowledge as individual single units through [[Chunk (Miller, 1956; Chase & Simon, 1973)|chunking]], or similar methods. An individual may pull that information as needed into the [[Focus Of Attention]]. Without taking up more than one space in the [[Cognitive Load Theory (CLT)]] inventory. (*7 plus or minus 2*, *4*) 
 
 The process of [[schemas]] formation can occur through a variety of ways, including:
 1. Repeated use of that [[working-memory]].
@@ -55,7 +55,7 @@ The process of [[schemas]] formation can occur through a variety of ways, includ
 3. Interconnectedness with other Ideas
 4. Meaningfulness
 
-As you first begin to develop a new [[schemas]] the onset will appear difficult as the [[cognitive-load-theory|cognitive load]] placed upon your limited [[working-memory]] will be at an all-time high, thus cause the side effects attributed with [[cognitive-load-theory]].
+As you first begin to develop a new [[schemas]] the onset will appear difficult as the [[Cognitive Load Theory (CLT)|cognitive load]] placed upon your limited [[working-memory]] will be at an all-time high, thus cause the side effects attributed with [[Cognitive Load Theory (CLT)]].
 
 > [!core-principle]
 > **Schemas as the Bridge Between Capacity and Capability**

@@ -118,10 +118,10 @@ They have outgoing links but nothing links back to them.
 
 | Note | Incoming | Outgoing |
 |---|---|---|
-| [[cognitive-load-theory]] | 645 | 38 |
+| [[Cognitive Load Theory (CLT)]] | 645 | 38 |
 | [[self-regulated-learning]] | 578 | 27 |
 | [[working-memory]] | 568 | 38 |
-| [[schema-theory]] | 541 | 20 |
+| [[schema-theory-and-knowledge-organization]] | 541 | 20 |
 | [[metacognition]] | 527 | 30 |
 | [[_Master-PKB-Connections-Index]] | 448 | 1054 |
 | [[self-determination-theory]] | 403 | 35 |
@@ -130,10 +130,10 @@ They have outgoing links but nothing links back to them.
 | [[metacognitive-monitoring]] | 299 | 34 |
 | [[achievement-goal-theory]] | 291 | 45 |
 | [[transfer-of-learning]] | 288 | 29 |
-| [[intrinsic-motivation]] | 284 | 28 |
-| [[attribution-theory]] | 281 | 26 |
-| [[fluency-illusion]] | 273 | 33 |
-| [[desirable-difficulties]] | 269 | 32 |
+| [[Intrinsic Motivation]] | 284 | 28 |
+| [[Attribution (Heider, 1958)]] | 281 | 26 |
+| [[Fluency Illusion]] | 273 | 33 |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | 269 | 32 |
 | [[deliberate-practice]] | 259 | 51 |
 | [[self-efficacy]] | 242 | 33 |
 | [[personal-knowledge-base]] | 234 | 37 |

@@ -26,12 +26,12 @@ aliases: [Open Items Audit, PKB Task Prioritization, Knowledge Work Roadmap]
 ---
 
 > [!the-purpose]
-> I've notice (through [[metacognition]]) that I seem to be having some difficulty in A) concentrating/Focusing, and B) Having a difficult time thinking actively. My hypothesis is this: I believe that this has something to do with [[cognitive-load-theory]] So this is the Plan I'm stopping everything and reducing the cognitive load by first planning out a strategy for fixing the many projects that open at the moment and cause this cognitive burden that I'm experiencing.
+> I've notice (through [[metacognition]]) that I seem to be having some difficulty in A) concentrating/Focusing, and B) Having a difficult time thinking actively. My hypothesis is this: I believe that this has something to do with [[Cognitive Load Theory (CLT)]] So this is the Plan I'm stopping everything and reducing the cognitive load by first planning out a strategy for fixing the many projects that open at the moment and cause this cognitive burden that I'm experiencing.
 
 # Plan
 
 > [!the-mission]
-> **I need to reduce my** [[cognitive-load]].
+> **I need to reduce my** [[Cognitive Load Theory (CLT)]].
 
 > [!todo]
 >
@@ -130,7 +130,7 @@ aliases: [Open Items Audit, PKB Task Prioritization, Knowledge Work Roadmap]
 ## 📊 Category 1: PKB Infrastructure (Foundation)
 
 > [!insight]
-> **Why This Matters First**: A chaotic PKB creates constant [[cognitive-load]], draining mental resources from actual learning. Every hour spent organizing your system saves dozens of hours in future friction. This is **highest ROI work** for a knowledge worker.
+> **Why This Matters First**: A chaotic PKB creates constant [[Cognitive Load Theory (CLT)]], draining mental resources from actual learning. Every hour spent organizing your system saves dozens of hours in future friction. This is **highest ROI work** for a knowledge worker.
 
 ### 🔴 Critical Priority
 
@@ -338,7 +338,7 @@ Important for efficiency, but system functions without them:
 - Informs how you design your own learning systems
 
 **Suggested Focus Areas**:
-1. [[cognitive-load-theory]] (directly applicable to PKB design)
+1. [[Cognitive Load Theory (CLT)]] (directly applicable to PKB design)
 2. [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Active-Recall]] (learning efficiency)
 3. [[metacognitive-regulation]] (learning to learn)
 4. [[transfer-of-learning]] (applying knowledge across domains)
@@ -912,7 +912,7 @@ This note needs to cover:
 - [[self-regulated-learning]]
 - [[andragogy]]
 - [[heutagogy]]
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[Information-Architecture]]
 - [[Prompt-Engineering]]
 - [[LLM Collaboration Patterns]]

@@ -75,7 +75,7 @@ The GTD methodology emerged from David Allen's recognition that the human brain 
 
 The methodology addresses what Allen identifies as the fundamental productivity challenge of the information age: the overwhelming volume of inputs arriving through multiple channels—emails, texts, messages, articles, verbal requests, personal commitments, and professional obligations—each demanding attention and action decisions.
 
-Allen's core claim is that stress can be reduced and productivity increased by putting reminders about everything you're not working on into a trusted system external to your mind, allowing you to work on the task at hand without distraction from "incompletes." This externaliz ation creates what [[cognitive-psychology]] terms "[[cognitive-offloading]]"—the strategic use of external tools to reduce the computational demands on [[working-memory]].
+Allen's core claim is that stress can be reduced and productivity increased by putting reminders about everything you're not working on into a trusted system external to your mind, allowing you to work on the task at hand without distraction from "incompletes." This externaliz ation creates what [[cognitive-psychology]] terms "[[Cognitive Offloading]]"—the strategic use of external tools to reduce the computational demands on [[working-memory]].
 
 The GTD framework distinguishes itself from traditional [[time management]] approaches through several key innovations:
 

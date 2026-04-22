@@ -19,7 +19,7 @@
 3. **[[self-determination-theory]]** — 17 occurrences
 4. **[[fallibilism]]** — 14 occurrences
 5. **[[Narrative-Identity]]** — 14 occurrences
-6. **[[cognitive-load-theory]]** — 13 occurrences
+6. **[[Cognitive Load Theory (CLT)]]** — 13 occurrences
 7. **[[predictive-processing]]** — 13 occurrences
 8. **[[self-regulated-learning]]** — 12 occurrences
 9. **[[intellectual-humility]]** — 12 occurrences
@@ -41,7 +41,7 @@
 
 - **[[metacognitive-monitoring]]** (18×)
   - *First appears in: Executive Assessment*
-- **[[cognitive-load-theory]]** (13×)
+- **[[Cognitive Load Theory (CLT)]]** (13×)
   - *First appears in: Gap 1: Embodied Cognition and the Absent Body*
 - **[[predictive-processing]]** (13×)
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
@@ -85,7 +85,7 @@
   - *First appears in: ✨ The Emergent Insight: The Governed Attentional Gap*
 - **[[cognitive-forcing-functions-in-clinical-reasoning]]** (2×)
   - *First appears in: LEARNING PATHWAYS*
-- **[[cognitive-load]]** (2×)
+- **[[Cognitive Load Theory (CLT)]]** (2×)
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
 - **[[cognitive-miserliness]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
@@ -153,7 +153,7 @@
   - *First appears in: LEARNING PATHWAYS*
 - [[Cognitive-Reflection-Test-and-Rationality-Quotient]]
   - *First appears in: 🗺️ Expansion Topics for PKB Development*
-- [[cognitive-scaffolding]]
+- [[Cognitive Scaffolding]]
   - *First appears in: 🔄 Retroactive Enrichment of Previous Reports*
 - [[Cognitive Scaffolding — Report 04]]
   - *First appears in: RELATIONSHIPS*
@@ -257,7 +257,7 @@
   - *First appears in: What the Framework Does Exceptionally Well*
 - **[[self-determination-theory]]** (17×)
   - *First appears in: What the Framework Does Exceptionally Well*
-- **[[schema-theory]]** (9×)
+- **[[schema-theory-and-knowledge-organization]]** (9×)
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
 - **[[Stoic-Prosoche]]** (6×)
   - *First appears in: Executive Assessment*
@@ -339,9 +339,9 @@
   - *First appears in: RELATIONSHIPS*
 - [[Rational Choice Theory]]
   - *First appears in: Worked Example One: The Epistemic Challenge — When Evidence Undermines a Foundational Belief*
-- [[schema-theory|Schema theory]]
+- [[schema-theory-and-knowledge-organization|Schema theory]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
-- [[schema-theory|schemas]]
+- [[schema-theory-and-knowledge-organization|schemas]]
   - *First appears in: Constructivism: How Is Knowledge Built?*
 - [[Stoic Acceptance]]
   - *First appears in: RELATIONSHIPS*
@@ -661,7 +661,7 @@
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
 - [[Satisficing|satisficing]]
   - *First appears in: Gigerenzer's Ecological Rationality: Why Less Is Sometimes More*
-- [[scaffolding]]
+- [[Scaffolded Fading]]
   - *First appears in: The Problem of the Productive Gap: Vygotsky and the Zone of Proximal Development*
 - [[schema]]
   - *First appears in: ⚖️ Allostasis and Allostatic Load — The Physiology of Cognitive Capacity*
@@ -855,7 +855,7 @@
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
 - **[[emotional-intelligence]]** (4×)
   - *First appears in: RELATIONSHIPS*
-- **[[gary-klein]]** (4×)
+- **[[Gary Klein]]** (4×)
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - **[[gregory-schraw]]** (4×)
   - *First appears in: Metacognitive Self-Regulation: The Psychological Operationalization*
@@ -973,13 +973,13 @@
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - **[[Gregory-Vlastos]]** (2×)
   - *First appears in: B. The Socratic Method: Elenchus, Aporia, and the Torpedo Fish*
-- **[[heuristics-and-biases-program]]** (2×)
+- **[[heuristics-and-biases]]** (2×)
   - *First appears in: 📋 Phase I — The Premise: What Cognitive Failures Reveal About What Reasoners Need 🎯*
 - **[[hugo-mercier]]** (2×)
   - *First appears in: Phase I 🧭 The Premise: The Individual Thinker's Social Blind Spot*
 - **[[illusion-of-explanatory-depth]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
-- **[[intrinsic-motivation]]** (2×)
+- **[[Intrinsic Motivation]]** (2×)
   - *First appears in: 🔄 Retroactive Enrichment of Previous Reports*
 - **[[Introduction to Epistemology]]** (2×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
@@ -1085,7 +1085,7 @@
   - *First appears in: 2.1 The Theory of Constructed Emotion: Emotions as Predictive Categorizations*
 - [[Barry-Schwartz]]
   - *First appears in: The Aristotelian Foundation: Phronesis as Irreducible Intelligence*
-- [[basic-psychological-needs]]
+- [[Basic Psychological Needs]]
   - *First appears in: Self-Determination Theory: The Three Necessary Conditions*
 - [[Basic Psychological Needs in Educational Contexts]]
   - *First appears in: LEARNING PATHWAYS*
@@ -1203,7 +1203,7 @@
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - [[Frank Martela]]
   - *First appears in: Meaning in Life Research: The Empirical Cartography*
-- [[fred-paas]]
+- [[Fred Paas]]
   - *First appears in: Phase I — The Premise: The Architecture of Construction 🏗️*
 - [[Gail-Ross]]
   - *First appears in: The Problem of the Productive Gap: Vygotsky and the Zone of Proximal Development*
@@ -1265,7 +1265,7 @@
   - *First appears in: D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing*
 - [[jean-piaget|Piaget]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
-- [[jeroen-van-merriënboer]]
+- [[Jeroen van Merriënboer]]
   - *First appears in: Phase I — The Premise: The Architecture of Construction 🏗️*
 - [[john-dewey|Dewey]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
@@ -1293,7 +1293,7 @@
   - *First appears in: Post-Traumatic Growth: The Empirical Dimension*
 - [[Lawrence-Shapiro]]
   - *First appears in: 🧠 Embodied and Extended Cognition — The Body as Cognitive Scaffold*
-- [[lifelong-learning]]
+- [[Lifelong Learning]]
   - *First appears in: RELATIONSHIPS*
 - [[Lovett-et-al.]]
   - *First appears in: Phase I — The Premise 🧭: The Paradox of Intellectual Self-Construction*
@@ -1509,7 +1509,7 @@
   - *First appears in: A. John Dewey and the Logic of Felt Difficulty*
 - [[hormê]]
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
-- [[intention]]
+- [[goal-intention]]
   - *First appears in: PKB Expansion Topics*
 - [[Kathekon]]
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
@@ -1642,7 +1642,7 @@
 - [[Barrett-and-Wormwood]]
 - [[Barry-Schwartz]]
 - [[barry-zimmerman]] — 2×
-- [[basic-psychological-needs]]
+- [[Basic Psychological Needs]]
 - [[basic-psychological-needs-theory]]
 - [[Basic Psychological Needs in Educational Contexts]]
 - [[Bayesian-Brain-—-Empirical-Status-Review]]
@@ -1680,8 +1680,8 @@
 - [[Cognitive-Decoupling|cognitive decoupling]]
 - [[cognitive-forcing-functions]]
 - [[cognitive-forcing-functions-in-clinical-reasoning]] — 2×
-- [[cognitive-load]] — 2×
-- [[cognitive-load-theory]] — 13×
+- [[Cognitive Load Theory (CLT)]] — 2×
+- [[Cognitive Load Theory (CLT)]] — 13×
 - [[cognitive-miserliness]] — 2×
 - [[Cognitive Mode of Being]]
 - [[cognitive-neuroscience]] — 3×
@@ -1690,7 +1690,7 @@
 - [[cognitive-reappraisal]]
 - [[Cognitive Reflection Test and Rational Thinking]]
 - [[Cognitive-Reflection-Test-and-Rationality-Quotient]]
-- [[cognitive-scaffolding]]
+- [[Cognitive Scaffolding]]
 - [[Cognitive Scaffolding — Report 04]]
 - [[cognitive-science]] — 5×
 - [[Cognitive Science of Expertise]]
@@ -1838,7 +1838,7 @@
 - [[Frank-Knight]]
 - [[Frank-Knight|Frank Knight's]]
 - [[Frank Martela]]
-- [[fred-paas]]
+- [[Fred Paas]]
 - [[frederic-bartlett]] — 3×
 - [[Free-Energy-Principle]] — 5×
 - [[fundamental-attribution-error]] — 2×
@@ -1847,7 +1847,7 @@
 
 - [[Gail-Ross]]
 - [[Galen]]
-- [[gary-klein]] — 4×
+- [[Gary Klein]] — 4×
 - [[Gary Klein's Recognition-Primed Decision Model]]
 - [[Generative-Model]]
 - [[genetic-epistemology]]
@@ -1871,7 +1871,7 @@
 - [[Herbert-Simon]]
 - [[Hermeneutical Humility]] — 4×
 - [[Hermeneutical-Injustice]]
-- [[heuristics-and-biases-program]] — 2×
+- [[heuristics-and-biases]] — 2×
 - [[hilary-putnam]]
 - [[hippocampus]]
 - [[Homeostasis]]
@@ -1917,7 +1917,7 @@
 - [[Interoceptive-Inference]] — 4×
 - [[Interoceptive-Inference|Seth's interoceptive inference]]
 - [[Interoceptive Training Protocols]]
-- [[intrinsic-motivation]] — 2×
+- [[Intrinsic Motivation]] — 2×
 - [[Introduction to Epistemology]] — 2×
 - [[Iowa-Gambling-Task]]
 - [[Ipseity]]
@@ -1932,7 +1932,7 @@
 - [[Jason-Baehr]] — 3×
 - [[jean-piaget]] — 6×
 - [[jean-piaget|Piaget]]
-- [[jeroen-van-merriënboer]]
+- [[Jeroen van Merriënboer]]
 - [[jerome-bruner]] — 4×
 - [[john-dewey]] — 5×
 - [[john-dewey|Dewey]]
@@ -1965,7 +1965,7 @@
 - [[Lawrence Calhoun]]
 - [[Lawrence-Shapiro]]
 - [[lev-vygotsky]] — 5×
-- [[lifelong-learning]]
+- [[Lifelong Learning]]
 - [[Linda-Zagzebski]] — 3×
 - [[Lisa-Feldman-Barrett]] — 4×
 - [[Logotherapy]] — 6×
@@ -2154,11 +2154,11 @@
 - [[Satisficing]]
 - [[Satisficing|satisficing]]
 - [[Scaffolded Fading and Gradual Release of Responsibility]] — 2×
-- [[scaffolding]]
+- [[Scaffolded Fading]]
 - [[schema]]
-- [[schema-theory]] — 9×
-- [[schema-theory|Schema theory]]
-- [[schema-theory|schemas]]
+- [[schema-theory-and-knowledge-organization]] — 9×
+- [[schema-theory-and-knowledge-organization|Schema theory]]
+- [[schema-theory-and-knowledge-organization|schemas]]
 - [[Schwartz-&-Sharpe]]
 - [[Schwarz-and-Clore]] — 2×
 - [[Seismic Event]]
@@ -2337,7 +2337,7 @@
 
 - [[in-group favoritism in epistemic evaluation]]
 - [[intellectual-humility]]
-- [[intention]]
+- [[goal-intention]]
 
 ### K
 
@@ -2577,7 +2577,7 @@
 
 | [[barry-zimmerman]] | 2 | Phase I — The Premise 🧭: The Paradox of Intelle... |
 
-| [[basic-psychological-needs]] | 1 | Self-Determination Theory: The Three Necessary ... |
+| [[Basic Psychological Needs]] | 1 | Self-Determination Theory: The Three Necessary ... |
 
 | [[basic-psychological-needs-theory]] | 1 | RELATIONSHIPS |
 
@@ -2647,9 +2647,9 @@
 
 | [[cognitive-forcing-functions-in-clinical-reasoning]] | 2 | LEARNING PATHWAYS |
 
-| [[cognitive-load]] | 2 | Gap 5: Predictive Processing and Active Inference |
+| [[Cognitive Load Theory (CLT)]] | 2 | Gap 5: Predictive Processing and Active Inference |
 
-| [[cognitive-load-theory]] | 13 | Gap 1: Embodied Cognition and the Absent Body |
+| [[Cognitive Load Theory (CLT)]] | 13 | Gap 1: Embodied Cognition and the Absent Body |
 
 | [[cognitive-miserliness]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
@@ -2667,7 +2667,7 @@
 
 | [[Cognitive-Reflection-Test-and-Rationality-Quotient]] | 1 | 🗺️ Expansion Topics for PKB Development |
 
-| [[cognitive-scaffolding]] | 1 | 🔄 Retroactive Enrichment of Previous Reports |
+| [[Cognitive Scaffolding]] | 1 | 🔄 Retroactive Enrichment of Previous Reports |
 
 | [[Cognitive Scaffolding — Report 04]] | 1 | RELATIONSHIPS |
 
@@ -2945,7 +2945,7 @@
 
 | [[Frank Martela]] | 1 | Meaning in Life Research: The Empirical Cartogr... |
 
-| [[fred-paas]] | 1 | Phase I — The Premise: The Architecture of Cons... |
+| [[Fred Paas]] | 1 | Phase I — The Premise: The Architecture of Cons... |
 
 | [[frederic-bartlett]] | 3 | Constructivism: Knowledge as Built, Not Found |
 
@@ -2957,7 +2957,7 @@
 
 | [[Galen]] | 1 | 2.3 The Stoic Theory of Passions: Pathē, Eupath... |
 
-| [[gary-klein]] | 4 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
+| [[Gary Klein]] | 4 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
 
 | [[Gary Klein's Recognition-Primed Decision Model]] | 1 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
@@ -2999,7 +2999,7 @@
 
 | [[Hermeneutical-Injustice]] | 1 | Worked Example: The Advisory Committee |
 
-| [[heuristics-and-biases-program]] | 2 | 📋 Phase I — The Premise: What Cognitive Failure... |
+| [[heuristics-and-biases]] | 2 | 📋 Phase I — The Premise: What Cognitive Failure... |
 
 | [[hilary-putnam]] | 1 | The Central Conceptual Tension: Mechanism Versu... |
 
@@ -3085,7 +3085,7 @@
 
 | [[Interoceptive Training Protocols]] | 1 | LEARNING PATHWAYS |
 
-| [[intrinsic-motivation]] | 2 | 🔄 Retroactive Enrichment of Previous Reports |
+| [[Intrinsic Motivation]] | 2 | 🔄 Retroactive Enrichment of Previous Reports |
 
 | [[Introduction to Epistemology]] | 2 | ═══════════════════════════════════════════════... |
 
@@ -3109,7 +3109,7 @@
 
 | [[jean-piaget|Piaget]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
-| [[jeroen-van-merriënboer]] | 1 | Phase I — The Premise: The Architecture of Cons... |
+| [[Jeroen van Merriënboer]] | 1 | Phase I — The Premise: The Architecture of Cons... |
 
 | [[jerome-bruner]] | 4 | The Problem of the Productive Gap: Vygotsky and... |
 
@@ -3163,7 +3163,7 @@
 
 | [[lev-vygotsky]] | 5 | Phase I — The Premise: The Architecture of Cons... |
 
-| [[lifelong-learning]] | 1 | RELATIONSHIPS |
+| [[Lifelong Learning]] | 1 | RELATIONSHIPS |
 
 | [[Linda-Zagzebski]] | 3 | 📋 Phase I — The Premise: What Cognitive Failure... |
 
@@ -3505,15 +3505,15 @@
 
 | [[Scaffolded Fading and Gradual Release of Responsibility]] | 2 | LEARNING PATHWAYS |
 
-| [[scaffolding]] | 1 | The Problem of the Productive Gap: Vygotsky and... |
+| [[Scaffolded Fading]] | 1 | The Problem of the Productive Gap: Vygotsky and... |
 
 | [[schema]] | 1 | ⚖️ Allostasis and Allostatic Load — The Physiol... |
 
-| [[schema-theory]] | 9 | Gap 5: Predictive Processing and Active Inference |
+| [[schema-theory-and-knowledge-organization]] | 9 | Gap 5: Predictive Processing and Active Inference |
 
-| [[schema-theory|Schema theory]] | 1 | The Master Homology: A Single Mechanism Across ... |
+| [[schema-theory-and-knowledge-organization|Schema theory]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
-| [[schema-theory|schemas]] | 1 | Constructivism: How Is Knowledge Built? |
+| [[schema-theory-and-knowledge-organization|schemas]] | 1 | Constructivism: How Is Knowledge Built? |
 
 | [[Schwartz-&-Sharpe]] | 1 | PKB Expansion Topics |
 
@@ -3793,7 +3793,7 @@
 
 | [[intellectual-humility]] | 1 | The Emergent Insight: Epistemological Posture a... |
 
-| [[intention]] | 1 | PKB Expansion Topics |
+| [[goal-intention]] | 1 | PKB Expansion Topics |
 
 | [[Kathekon]] | 1 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
 
@@ -3859,7 +3859,7 @@
 - [[eudaimonia]] (10× total)
 - [[fallibilism]] (14× total)
 - [[frederic-bartlett]] (3× total)
-- [[gary-klein]] (4× total)
+- [[Gary Klein]] (4× total)
 - [[gregory-schraw]] (4× total)
 - [[Gregory-Vlastos]] (2× total)
 - [[How-We-Think]]
@@ -3875,13 +3875,13 @@
 - [[Amor-Fati]] (5× total)
 - [[aporia]]
 - [[Aporic-Receptivity]] (12× total)
-- [[cognitive-load]] (2× total)
+- [[Cognitive Load Theory (CLT)]] (2× total)
 - [[debiasing]] (3× total)
 - [[Developmental-Staging-Model]]
 - [[Elena]]
 - [[emotional-granularity]] (11× total)
 - [[fallibilism]] (14× total)
-- [[gary-klein]] (4× total)
+- [[Gary Klein]] (4× total)
 - [[Intellectual-Courage]] (9× total)
 - [[intellectual-humility]] (12× total)
 - [[Marcus]]
@@ -3914,7 +3914,7 @@
 - [[accommodation]]
 - [[anterior-cingulate-cortex]]
 - [[Aporic-Receptivity]] (12× total)
-- [[basic-psychological-needs]]
+- [[Basic Psychological Needs]]
 - [[basic-psychological-needs-theory]]
 - [[Basic Psychological Needs in Educational Contexts]]
 - [[bayesian-epistemology]]
@@ -3938,7 +3938,7 @@
 
 *23 concepts*
 
-- [[cognitive-load-theory]] (13× total)
+- [[Cognitive Load Theory (CLT)]] (13× total)
 - [[Dewey's-Reflective-Thinking]] (10× total)
 - [[Dreyfus Model of Skill Acquisition]] (2× total)
 - [[emotional-granularity]] (11× total)
@@ -4069,7 +4069,7 @@
 
 | [[eudaimonia]] | Phase I, Phase II, Report 04 | 10 |
 
-| [[schema-theory]] | Phase VI, Phase II, Report 04 | 9 |
+| [[schema-theory-and-knowledge-organization]] | Phase VI, Phase II, Report 04 | 9 |
 
 | [[socratic-method]] | Phase II, Phase I, Report 04 | 8 |
 
@@ -4093,7 +4093,7 @@
 
 | [[Physiological-Metacognition]] | Phase IV, Phase VI, Report 04 | 5 |
 
-| [[gary-klein]] | Phase IV, Phase II, Report 04 | 4 |
+| [[Gary Klein]] | Phase IV, Phase II, Report 04 | 4 |
 
 
 *...and 58 more multi-report concepts*

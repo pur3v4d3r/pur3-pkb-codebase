@@ -98,16 +98,16 @@ prerequisites:
   - "[[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]"
   - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
   - "[[critical-thinking-in-education|Critical Thinking in Education]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
 related:
   - "[[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]"
   - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[self-determination-theory|Self-Determination Theory]]"
-  - "[[attribution-theory|Attribution Theory]]"
+  - "[[Attribution (Heider, 1958)|Attribution Theory]]"
   - "[[goal-orientation-theory|Goal Orientation Theory]]"
   - "[[formative-assessment|Formative Assessment]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
 broader:
   - "[[Learning Sciences]]"
   - "[[educational-psychology|Educational Psychology]]"
@@ -136,7 +136,7 @@ applied-in:
 builds-on:
   - "[[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]"
   - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
 enables:
   - "[[Inquiry-Based Learning Design]]"
   - "[[transfer-of-learning|Transfer of Learning]]"
@@ -149,7 +149,7 @@ expansion-topics:
   - topic: "[[Formative-Assessment-Design|Formative Assessment Design]]"
     description: Operational guide to embedding assessment-for-learning into instructional sequences, including exit tickets, diagnostic questioning, and peer assessment protocols
     priority: high
-  - topic: "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - topic: "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
     description: Foundational framework for understanding the processing constraints that govern how feedback information can be received and acted upon
     priority: high
   - topic: "[[goal-orientation-theory|Goal Orientation Theory]]"
@@ -209,13 +209,13 @@ This example, which echoes decades of controlled research into feedback and moti
 
 ### Scope
 
-This report establishes the foundational intellectual architecture for understanding [[feedback-design|Feedback Design]] in service of two intertwined outcomes: **autonomy** — the learner's developing sense of agency over their own learning process — and **mastery** — the progressive deepening of competence in a domain. The report synthesises four converging bodies of scholarship: [[Hattie-&-Timperley-Feedback-Model|the Hattie-Timperley feedback level model]], [[self-determination-theory|Self-Determination Theory (SDT)]], [[growth-mindset|growth mindset research]], and the [[formative-assessment|formative assessment tradition]] of [[Black-&-Wiliam|Black & Wiliam]]. Drawing on [[attribution-theory|Attribution Theory]] as a bridging framework, the report moves from conceptual foundations through theoretical landscape and operational mechanisms to specific, actionable design principles.
+This report establishes the foundational intellectual architecture for understanding [[feedback-design|Feedback Design]] in service of two intertwined outcomes: **autonomy** — the learner's developing sense of agency over their own learning process — and **mastery** — the progressive deepening of competence in a domain. The report synthesises four converging bodies of scholarship: [[Hattie-&-Timperley-Feedback-Model|the Hattie-Timperley feedback level model]], [[self-determination-theory|Self-Determination Theory (SDT)]], [[growth-mindset|growth mindset research]], and the [[formative-assessment|formative assessment tradition]] of [[Black-&-Wiliam|Black & Wiliam]]. Drawing on [[Attribution (Heider, 1958)|Attribution Theory]] as a bridging framework, the report moves from conceptual foundations through theoretical landscape and operational mechanisms to specific, actionable design principles.
 
 What this report does not cover in depth: the administrative and institutional dimensions of grading systems (though it acknowledges their influence), the full scope of [[summative-assessment|Summative Assessment]] design, and the emerging literature on AI-generated feedback — though the principles developed here have direct application to automated feedback systems.
 
 ### Why This Matters
 
-The stakes of feedback design extend well beyond classroom performance. [[formative-feedback|Formative Feedback]] is the primary mechanism through which novices become experts — it is what closes the gap between where a learner is and where they need to be. Yet research consistently finds that much naturally occurring feedback in educational settings is not only ineffective but actively counterproductive. Feedback focused on personal attributes rather than strategies can erode [[intrinsic-motivation|Intrinsic Motivation]], produce [[learned-helplessness|Learned Helplessness]], and push learners toward [[performance-goals|performance-avoidance orientations]] that prioritise not-looking-stupid over genuine understanding. When the stakes are high — as they are in professional development, medical training, athletic coaching, or the cultivation of lifelong learning habits — poorly designed feedback represents a serious structural failure.
+The stakes of feedback design extend well beyond classroom performance. [[formative-feedback|Formative Feedback]] is the primary mechanism through which novices become experts — it is what closes the gap between where a learner is and where they need to be. Yet research consistently finds that much naturally occurring feedback in educational settings is not only ineffective but actively counterproductive. Feedback focused on personal attributes rather than strategies can erode [[Intrinsic Motivation|Intrinsic Motivation]], produce [[learned-helplessness|Learned Helplessness]], and push learners toward [[performance-goals|performance-avoidance orientations]] that prioritise not-looking-stupid over genuine understanding. When the stakes are high — as they are in professional development, medical training, athletic coaching, or the cultivation of lifelong learning habits — poorly designed feedback represents a serious structural failure.
 
 Understanding the mechanisms of effective feedback also illuminates a broader question: what conditions produce learners who can eventually generate their own feedback — who become, in [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] terms, their own most demanding and accurate evaluators? This developmental endpoint, the production of autonomous, self-monitoring learners, is the deepest purpose of feedback design.
 
@@ -323,7 +323,7 @@ The connection to feedback design is direct and empirically robust: the same fee
 
 ### Attribution Theory: The Causal Landscape
 
-[[bernard-weiner|Bernard Weiner]]'s [[attribution-theory|Attribution Theory]], developed through the 1970s and 1980s, provides a complementary framework that illuminates *why* the person/process feedback distinction has motivational consequences. Weiner proposed that individuals attribute their outcomes — successes and failures — to causes that can be classified along three dimensions: *locus* (internal vs. external), *stability* (stable vs. unstable), and *controllability* (controllable vs. uncontrollable).
+[[bernard-weiner|Bernard Weiner]]'s [[Attribution (Heider, 1958)|Attribution Theory]], developed through the 1970s and 1980s, provides a complementary framework that illuminates *why* the person/process feedback distinction has motivational consequences. Weiner proposed that individuals attribute their outcomes — successes and failures — to causes that can be classified along three dimensions: *locus* (internal vs. external), *stability* (stable vs. unstable), and *controllability* (controllable vs. uncontrollable).
 
 > [!key-claim] Attribution Dimensions and Their Motivational Consequences
 > The motivationally critical dimension is *controllability*. Attribution of failure to an uncontrollable, stable factor (low ability: internal, stable, uncontrollable) produces helplessness, expectation of future failure, and affective shame. Attribution of failure to a controllable, unstable factor (insufficient effort or ineffective strategy: internal, unstable, controllable) preserves expectancy of success and produces guilt or determination — both more adaptive motivational states. Feedback that explicitly orients learners toward controllable causal attributions (strategies, effort allocation, preparation) effectively performs *attribution retraining* — shifting learners from helplessness-inducing to agency-preserving causal narratives.
@@ -385,7 +385,7 @@ The mechanism here involves *perceived locus of causality (PLOC)*: when learners
 
 ### Attribution Retraining as Feedback Mechanism
 
-[[attribution-theory|Attribution Theory]] suggests that feedback can function as a subtle but powerful form of *attribution retraining* — systematically reshaping the causal narratives learners construct about their performance. The mechanism operates through the *implicit causal attributions* embedded in feedback language.
+[[Attribution (Heider, 1958)|Attribution Theory]] suggests that feedback can function as a subtle but powerful form of *attribution retraining* — systematically reshaping the causal narratives learners construct about their performance. The mechanism operates through the *implicit causal attributions* embedded in feedback language.
 
 Consider the difference between these responses to a student's failure: "This clearly isn't your strong subject" (internal, stable, uncontrollable attribution) versus "The preparation strategy you used last time didn't work for this kind of problem — let's think about what might work better" (internal, unstable, controllable attribution). Both are honest. The first forecloses future agency; the second preserves and activates it.
 
@@ -499,7 +499,7 @@ Important open questions remain. The *optimal trajectory* for moving feedback up
 >
 > - **[[critical-thinking-in-education|Critical Thinking in Education]]** — Critical thinking development depends substantially on learners receiving feedback on the quality of their *reasoning processes* — not just their conclusions. The process-level feedback orientation developed here is directly applicable to critical thinking instruction: feedback that names specific reasoning moves, identifies where inference chains break down, and attributes reasoning quality to controllable strategies (rather than innate critical thinking ability) is the operational form of CT-developmental feedback.
 >
-> - **[[schema-theory|Schema Theory]]** — Schema theory explains how knowledge is structured and how existing schemas constrain assimilation of new information. Task-level feedback that is pitched beyond the learner's current schema will not be meaningfully processed; it will either be rejected or distorted to fit existing structures. This provides a theoretical basis for the feedback dosage and timing principles: feedback is only processable when it maps onto existing schema structures sufficiently to be integrated. Novice-to-expert development is, in part, a story of developing the schemas necessary to make increasingly sophisticated feedback actionable.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Schema theory explains how knowledge is structured and how existing schemas constrain assimilation of new information. Task-level feedback that is pitched beyond the learner's current schema will not be meaningfully processed; it will either be rejected or distorted to fit existing structures. This provides a theoretical basis for the feedback dosage and timing principles: feedback is only processable when it maps onto existing schema structures sufficiently to be integrated. Novice-to-expert development is, in part, a story of developing the schemas necessary to make increasingly sophisticated feedback actionable.
 >
 > Together, these connections reveal a pattern: Feedback Design is a *translational* node in the knowledge graph — it bridges theoretical psychological frameworks (growth mindset, SDT, attribution theory, metacognition) with concrete instructional and design practice. It is the mechanism through which theoretical understanding of learning becomes operational teaching behaviour.
 
@@ -591,7 +591,7 @@ Important open questions remain. The *optimal trajectory* for moving feedback up
 > > [!topic-idea] [[Formative-Assessment-Design|Formative Assessment Design]]
 > > An operational guide to designing formative assessment sequences that generate actionable feedback in real time. Would cover exit ticket design, diagnostic questioning protocols, pre-assessment for schema activation, peer assessment scaffolding, comment-only marking, and the evidence base for each. Extends the Black-Wiliam tradition into the specific design decisions that practitioners face. A natural sequel to this report for anyone whose primary interest is in assessment practice rather than the motivational psychology underlying it. Priority: High.
 
-> > [!topic-idea] [[cognitive-load-theory|Cognitive Load Theory]]
+> > [!topic-idea] [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 > > [[john-sweller|John Sweller]]'s theory of working memory constraints and their instructional implications provides the processing architecture within which feedback must operate. Feedback that is perfectly calibrated to motivational and attribution principles can still fail if it overloads working memory — if it presents too many corrective dimensions simultaneously, or if it requires processing resources that compete with task performance. A Cognitive Load Theory report would complete the picture of the cognitive infrastructure for feedback reception. Priority: High.
 
 > > [!topic-idea] [[goal-orientation-theory|Goal Orientation Theory]]

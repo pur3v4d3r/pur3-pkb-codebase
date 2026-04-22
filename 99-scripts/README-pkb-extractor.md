@@ -69,7 +69,7 @@ For each Markdown file processed, the script creates two files in your output fo
 |---|-------------|-------------|---------|
 | 1 | **YAML Frontmatter** | All metadata fields from the `---` block at the top of the file | `title`, `tags`, `domain`, `key-frameworks` |
 | 2 | **Callouts** | All `> [!TYPE]` blocks — definitions, insights, warnings, etc. | `> [!definition] Metacognition` |
-| 3 | **Wiki-Links** | All `[[Target]]`, `[[Target\|Display]]`, `[[Target#Section]]` references | `[[cognitive-load-theory]]` |
+| 3 | **Wiki-Links** | All `[[Target]]`, `[[Target\|Display]]`, `[[Target#Section]]` references | `[[Cognitive Load Theory (CLT)]]` |
 | 4 | **Inline Fields** | Dataview `[**Name**:: Value]` and `Name:: Value` fields | `[**Self-Regulation**:: The ability to...]` |
 | 5 | **Definitions** | Bold-formatted inline definitions specifically | `[**Metacognition**:: Thinking about thinking]` |
 | 6 | **Tags** | All `#tag` references including hierarchical `#parent/child` | `#cognitive-psychology/metacognition` |

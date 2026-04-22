@@ -22,13 +22,13 @@ related_concepts:
   - "[[situation-model]]"
   - "[[icap-framework]]"
   - "[[metacognitive-monitoring]]"
-  - "[[levels-of-processing]]"
+  - "[[levels-of-processing-theory]]"
   - "[[working-memory]]"
   - "[[self-explanation-effect]]"
-  - "[[elaborative-interrogation]]"
+  - "[[Elaborative Interrogation]]"
   - "[[transfer-of-learning]]"
   - "[[illusion-of-knowing]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[generative-learning-theory]]"
   - "[[matthew-effect]]"
   - "[[melete]]"
@@ -123,11 +123,11 @@ sections:
 prerequisites:
   - "[[metacognition]]"
   - "[[working-memory]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
 
 builds_on:
   - "[[icap-framework]]"
-  - "[[levels-of-processing]]"
+  - "[[levels-of-processing-theory]]"
   - "[[generative-learning-theory]]"
   - "[[self-explanation-effect]]"
   - "[[transfer-of-learning]]"
@@ -136,7 +136,7 @@ link_related:
   - "[[melete]]"
   - "[[active-note-making]]"
   - "[[writing-to-learn]]"
-  - "[[elaborative-interrogation]]"
+  - "[[Elaborative Interrogation]]"
   - "[[matthew-effect]]"
   - "[[illusion-of-knowing]]"
   - "[[metacognitive-monitoring]]"
@@ -165,11 +165,11 @@ This is not a trivial distinction. Oral reading, listening to audio, and discuss
 
 **Scope and what this analysis includes:** This report examines the cognitive mechanisms of silent reading that bear on critical analysis and interpretation — specifically, the role of [[working-memory]] resource allocation, inference generation, [[metacognitive-monitoring]], and the construction of [[situation-model|Situation Models]] (Kintsch, 1988). It draws on cognitive psychology, reading research, and metacognition literature.
 
-**Scope and what this analysis excludes:** This report does not attempt a comprehensive survey of reading pedagogy, the "reading wars" debate (phonics vs. whole language), or the separate question of whether reading is superior to other media for general cognitive development. For foundational background on [[metacognition]] and [[schema-theory]], the relevant PKB permanent notes provide that grounding. Here we focus specifically on the question of mechanism.
+**Scope and what this analysis excludes:** This report does not attempt a comprehensive survey of reading pedagogy, the "reading wars" debate (phonics vs. whole language), or the separate question of whether reading is superior to other media for general cognitive development. For foundational background on [[metacognition]] and [[schema-theory-and-knowledge-organization]], the relevant PKB permanent notes provide that grounding. Here we focus specifically on the question of mechanism.
 
 **Why this analysis matters:** As personal knowledge bases become central to serious intellectual work, understanding what conditions within silent reading produce genuine critical engagement — rather than the [[illusion-of-knowing]] that passive reading generates — has direct implications for how readers design their engagement with texts and how learning systems should scaffold that engagement.
 
-**Roadmap:** Phase II establishes the conceptual tools — particularly the [[icap-framework]], [[levels-of-processing]], [[working-memory]] architecture, and [[situation-model]] construction — that the analysis will deploy. Phase III examines what the evidence actually shows about silent reading and critical skill development. Phase IV drills into the specific mechanisms by which silent reading produces (or fails to produce) critical analysis. Phase V traces implications for practice and identifies the genuine limits of the analysis. Phase VI offers a synthetic original framework — the Generative Cognition Architecture. Phase VII maps this architecture onto structural analogues in other domains.
+**Roadmap:** Phase II establishes the conceptual tools — particularly the [[icap-framework]], [[levels-of-processing-theory]], [[working-memory]] architecture, and [[situation-model]] construction — that the analysis will deploy. Phase III examines what the evidence actually shows about silent reading and critical skill development. Phase IV drills into the specific mechanisms by which silent reading produces (or fails to produce) critical analysis. Phase V traces implications for practice and identifies the genuine limits of the analysis. Phase VI offers a synthetic original framework — the Generative Cognition Architecture. Phase VII maps this architecture onto structural analogues in other domains.
 
 > [!ask-yourself-this] **Prediction Point**
 > Before reading the framework section, predict: if you had to identify the single most important cognitive condition that distinguishes analytically productive silent reading from passive reading, what would it be? Commit to a prediction. The comparison between your prediction and the analysis's answer is a powerful learning event.
@@ -190,7 +190,7 @@ Kintsch's Construction-Integration Model (1988) proposes that reading proceeds i
 This framework immediately illuminates something important: critical reading is not a separate activity layered on top of comprehension. It is a more complete version of the same constructive process. When a reader asks "is this claim well-supported?" they are extending the construction-integration cycle to include evaluative associations — testing propositions against prior knowledge, activating counter-examples, and querying the coherence of the model being built. The question then becomes: under what conditions does the construction-integration cycle proceed far enough to activate evaluative operations rather than stopping at basic comprehension?
 
 > [!definition] **Levels of Processing (Craik & Lockhart, 1972)**
-> [[levels-of-processing]] theory proposes that memory and comprehension are byproducts of the depth at which stimulus features are processed — from shallow, phonological-structural processing through to deep, semantic-elaborative processing. Deep processing involves extracting meaning, making connections to prior knowledge, and generating inferences. [[shallow-processing]] involves attending to surface features without integration. Critical analysis requires deep, elaborative processing; it cannot emerge from shallow engagement.
+> [[levels-of-processing-theory]] theory proposes that memory and comprehension are byproducts of the depth at which stimulus features are processed — from shallow, phonological-structural processing through to deep, semantic-elaborative processing. Deep processing involves extracting meaning, making connections to prior knowledge, and generating inferences. [[shallow-processing]] involves attending to surface features without integration. Critical analysis requires deep, elaborative processing; it cannot emerge from shallow engagement.
 
 ### The ICAP Framework
 
@@ -218,7 +218,7 @@ The framework now reveals a crucial distinction. The conditions for critical ana
 
 Silent reading potentially contributes to conditions 1, 3, and 4 by removing articulatory demands and allowing self-paced engagement. But it does not automatically produce condition 2 — the Constructive mode that generates analysis. The analytical framework thus points toward a conditional relationship: silent reading creates the *necessary* but not *sufficient* conditions for critical analysis.
 
-*This framework establishes that critical analysis during reading is not simply "more thinking" but a specific kind of constructive mental activity that depends on how working memory resources are deployed, what inferential operations the Construction-Integration Model triggers, and how deeply text becomes integrated with existing knowledge structures. The [[icap-framework]], [[levels-of-processing]], and [[situation-model]] construction together form a lens that makes visible the cognitive conditions silent reading either enables or forecloses — conditions that Phase III's evidence will complicate and Phase IV's mechanism analysis will explain.*
+*This framework establishes that critical analysis during reading is not simply "more thinking" but a specific kind of constructive mental activity that depends on how working memory resources are deployed, what inferential operations the Construction-Integration Model triggers, and how deeply text becomes integrated with existing knowledge structures. The [[icap-framework]], [[levels-of-processing-theory]], and [[situation-model]] construction together form a lens that makes visible the cognitive conditions silent reading either enables or forecloses — conditions that Phase III's evidence will complicate and Phase IV's mechanism analysis will explain.*
 
 > [!reflection] **Integrating the Framework**
 > **Comprehension**: Can you explain, in your own words, why the ICAP Framework suggests that calling silent reading "active" is insufficient for predicting whether critical analysis will emerge from it?
@@ -258,23 +258,23 @@ Stanovich's (1986) research on the [[matthew-effect]] revealed a compounding mec
 
 Chi and colleagues' research on the [[self-explanation-effect]] (1994) produced one of the most robust findings in reading research: when readers are prompted to explain text to themselves while reading — articulating what a passage means, how it connects to prior knowledge, what it implies — their comprehension and transfer performance dramatically improve compared to readers who simply read. The learning gains from self-explanation are not small; Chi et al. found that self-explainers scored significantly higher on both near and far transfer measures.
 
-The mechanism matters here. Self-explanation works because it forces the reader into Constructive mode (per [[icap-framework]]): they must generate representations that go beyond what the text explicitly states. In terms of [[levels-of-processing]], self-explanation enforces semantic elaborative processing. But there is a subtlety: self-explanation typically occurs during silent reading, not oral reading. In oral reading, the verbal channel is occupied by vocalization. The [[self-explanation-effect]] is, in this sense, a silent reading effect.
+The mechanism matters here. Self-explanation works because it forces the reader into Constructive mode (per [[icap-framework]]): they must generate representations that go beyond what the text explicitly states. In terms of [[levels-of-processing-theory]], self-explanation enforces semantic elaborative processing. But there is a subtlety: self-explanation typically occurs during silent reading, not oral reading. In oral reading, the verbal channel is occupied by vocalization. The [[self-explanation-effect]] is, in this sense, a silent reading effect.
 
 > [!tension-identified] **The Self-Explanation Paradox**
 > Here is a genuine tension: the self-explanation effect depends on the reader verbalizing internally — using inner speech to construct explanations. But inner speech recruits the same phonological resources that vocalization occupies during oral reading. If silent reading "frees" the phonological loop, and self-explanation re-occupies it, is the "freedom" of silent reading illusory? The resolution may be that inner speech during self-explanation is qualitatively different from articulatory rehearsal during vocalization — less constrained, more controllable, capable of supporting evaluative operations that scripted vocalization cannot. But this distinction is not fully established empirically, making it one of the genuine open questions in reading research.
 
 ### Finding 4: Comprehension Monitoring Failures and the Illusion of Knowing
 
-Baker and Brown's (1984) research on comprehension monitoring revealed a sobering pattern: many readers fail to detect obvious inconsistencies embedded in texts they are reading. In landmark studies, readers often reported "understanding" passages that contained blatant logical contradictions. This finding directly implicates the [[illusion-of-knowing]] — the [[fluency-illusion]] that reading fluency produces a feeling of understanding that is not warranted by the actual depth of processing.
+Baker and Brown's (1984) research on comprehension monitoring revealed a sobering pattern: many readers fail to detect obvious inconsistencies embedded in texts they are reading. In landmark studies, readers often reported "understanding" passages that contained blatant logical contradictions. This finding directly implicates the [[illusion-of-knowing]] — the [[Fluency Illusion]] that reading fluency produces a feeling of understanding that is not warranted by the actual depth of processing.
 
 The key insight for our analysis: the [[monitoring-gap]] between subjective confidence and actual comprehension is **larger in passive silent reading** than in conditions that force externalization. Aloud reading sometimes disrupts the fluency illusion because listeners provide feedback cues; writing about what one has read disrupts it more directly. Pure passive silent reading is the modality most vulnerable to the Illusion of Knowing, because nothing in the act itself signals whether a Situation Model is actually being built. This is the dark side of silent reading's cognitive freedom: the same absence of external constraints that enables deep constructive reading also enables deep passive reading without detection.
 
 > [!what-the-evidence-suggests] **The Dual Nature of the Fluency Illusion**
-> The evidence from comprehension monitoring research suggests that the [[fluency-illusion]] is not merely a nuisance — it is the primary mechanism by which silent reading fails to develop critical analysis even in experienced readers. When reading feels effortless, readers interpret the feeling of processing ease as evidence of understanding, and [[metacognitive-monitoring]] is suppressed. This creates a perverse dynamic: the better a reader's decoding skills, the more vulnerable they may be to passive engagement, because fluency itself produces a false signal of comprehension. Critical analysis development requires disrupting this dynamic — which is precisely what strategies like [[elaborative-interrogation]], annotation, and [[self-explanation-effect|self-explanation]] do.
+> The evidence from comprehension monitoring research suggests that the [[Fluency Illusion]] is not merely a nuisance — it is the primary mechanism by which silent reading fails to develop critical analysis even in experienced readers. When reading feels effortless, readers interpret the feeling of processing ease as evidence of understanding, and [[metacognitive-monitoring]] is suppressed. This creates a perverse dynamic: the better a reader's decoding skills, the more vulnerable they may be to passive engagement, because fluency itself produces a false signal of comprehension. Critical analysis development requires disrupting this dynamic — which is precisely what strategies like [[Elaborative Interrogation]], annotation, and [[self-explanation-effect|self-explanation]] do.
 
 ### Finding 5: Elaborative Interrogation and the "Why" Question
 
-Pressley and colleagues' research on [[elaborative-interrogation]] — the strategy of asking "why is this true?" rather than simply accepting stated facts — consistently shows that readers who engage in elaborative questioning during reading produce significantly better integrated knowledge structures than readers who simply read the same material. The elaborative interrogation effect is robust across age groups and content domains.
+Pressley and colleagues' research on [[Elaborative Interrogation]] — the strategy of asking "why is this true?" rather than simply accepting stated facts — consistently shows that readers who engage in elaborative questioning during reading produce significantly better integrated knowledge structures than readers who simply read the same material. The elaborative interrogation effect is robust across age groups and content domains.
 
 The mechanism is illuminating: "why" questions force the activation of explanatory frameworks and causal models, which requires integrating textual information with prior knowledge in ways that produce genuine [[meaningful-learning]] (in Ausubel's sense). Crucially, elaborative interrogation is a strategy that requires the reader to step outside the linear flow of the text — to pause, to formulate a question, to search for an answer. This is only naturally possible in silent, self-paced reading.
 
@@ -332,7 +332,7 @@ The critical thinking research on [[actively-open-minded-thinking]] is relevant 
 
 The fourth mechanism ties the others together. [[metacognitive-monitoring]] — the reader's ongoing self-assessment of whether they are understanding — is the cognitive capacity that determines whether the freedoms created by the first three mechanisms are exploited or squandered.
 
-Return to the evidence from Phase III: the [[fluency-illusion]] and the [[illusion-of-knowing]] demonstrate that passive silent reading produces a feeling of understanding that is not warranted. The mechanism is clear: when decoding proceeds fluently, the reader interprets processing ease as comprehension, monitoring is suppressed, and constructive operations cease. The text is processed at a surface level that feels like understanding.
+Return to the evidence from Phase III: the [[Fluency Illusion]] and the [[illusion-of-knowing]] demonstrate that passive silent reading produces a feeling of understanding that is not warranted. The mechanism is clear: when decoding proceeds fluently, the reader interprets processing ease as comprehension, monitoring is suppressed, and constructive operations cease. The text is processed at a surface level that feels like understanding.
 
 [[metacognitive-monitoring]] breaks this dynamic when it is active. A reader who monitors their comprehension — asking themselves whether they can explain what they just read, whether the author's argument makes sense, whether a claim conflicts with prior knowledge — is doing something categorically different from a reader who reads passively, even if the physical behavior (eyes moving across the page in silence) looks identical.
 
@@ -367,7 +367,7 @@ The four-mechanism analysis generates several implications that are not immediat
 
 **First: Strategic reading instruction should target mechanism activation, not reading quantity.** If the four-mechanism architecture is correct, then asking students to read more without altering the cognitive operations they perform during reading produces more exposure to text but not more critical analysis. The [[matthew-effect]] research confirms that exposure benefits primarily accrue to readers who have already crossed the vocabulary threshold enabling constructive processing. Below that threshold, more reading produces reading practice; above it, more reading produces critical skill development — but only if the reading is constructive. Volume is a poor proxy for critical development.
 
-**Second: Annotation and self-questioning are not supplementary strategies but mechanism activators.** [[elaborative-interrogation]] during reading, self-questioning, marginal annotation, and the writing of brief summaries after reading sections are not conveniences or study tricks. They are direct activators of the metacognitive monitoring mechanism that determines whether the silent reading context produces critical analysis or [[inert-knowledge]]. The [[self-explanation-effect]] data shows effect sizes that are surprisingly large — suggesting that the gap between silent reading with and without these strategies is not incremental but categorical.
+**Second: Annotation and self-questioning are not supplementary strategies but mechanism activators.** [[Elaborative Interrogation]] during reading, self-questioning, marginal annotation, and the writing of brief summaries after reading sections are not conveniences or study tricks. They are direct activators of the metacognitive monitoring mechanism that determines whether the silent reading context produces critical analysis or [[inert-knowledge]]. The [[self-explanation-effect]] data shows effect sizes that are surprisingly large — suggesting that the gap between silent reading with and without these strategies is not incremental but categorical.
 
 > [!best-practice] **Activating Constructive Mode During Silent Reading**
 > Based on the four-mechanism model, readers seeking to develop critical analysis should deliberately activate each mechanism: (1) ensure sufficient fluency that decoding does not exhaust working memory (vocabulary development and re-reading familiar texts before difficult ones); (2) read self-paced texts that permit recursion rather than audio or time-pressured formats; (3) read in environments that remove social performance pressure; (4) externalize monitoring through written questions, brief summaries, or articulation of what does and does not make sense. The last mechanism — externalization of metacognitive monitoring — is the most consistently underused by adult readers.
@@ -500,13 +500,13 @@ This meta-reflection suggests a design principle that transfers across all domai
 >
 > - **[[icap-framework]]** — The central analytical tool of Phase II. The argument that silent reading does not automatically produce Constructive mode engagement, and the identification of what conditions would shift reading from Passive to Constructive, is a direct application of the ICAP distinction. This report could serve as an extended case study for the ICAP node.
 >
-> - **[[illusion-of-knowing]]** and **[[fluency-illusion]]** — These nodes represent the dark mirror of the GCA: the conditions under which the silent reading context produces false confidence rather than critical development. The Fluency Illusion is, in this analysis, the primary mechanism by which silent reading fails to develop critical analysis.
+> - **[[illusion-of-knowing]]** and **[[Fluency Illusion]]** — These nodes represent the dark mirror of the GCA: the conditions under which the silent reading context produces false confidence rather than critical development. The Fluency Illusion is, in this analysis, the primary mechanism by which silent reading fails to develop critical analysis.
 >
-> - **[[self-explanation-effect]]** and **[[elaborative-interrogation]]** — These nodes represent the most robust evidence-based strategies for activating the Constructive mode during silent reading. They operationalize the metacognitive monitoring mechanism and should be understood as direct interventions on the fourth GCA condition.
+> - **[[self-explanation-effect]]** and **[[Elaborative Interrogation]]** — These nodes represent the most robust evidence-based strategies for activating the Constructive mode during silent reading. They operationalize the metacognitive monitoring mechanism and should be understood as direct interventions on the fourth GCA condition.
 >
 > - **[[writing-to-learn]]** — The [[writing-to-learn]] research tradition is the most natural complement to this analysis: writing about what one has read is both an externalization of metacognitive monitoring and an instantiation of the Private Generative Space condition. The two practices are architecturally synergistic.
 >
-> - **[[desirable-difficulties]]** — The Desirable Difficulties framework (Bjork, 1994) provides an independent route to the same conclusion: processing that feels effortful and slow produces better retention and transfer than processing that feels fluent. The [[fluency-illusion]] and the Desirable Difficulties literature are making the same point from different experimental traditions.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The Desirable Difficulties framework (Bjork, 1994) provides an independent route to the same conclusion: processing that feels effortful and slow produces better retention and transfer than processing that feels fluent. The [[Fluency Illusion]] and the Desirable Difficulties literature are making the same point from different experimental traditions.
 >
 > - **[[matthew-effect]]** — The vocabulary threshold argument connects directly to this node. The Matthew Effect is the longitudinal expression of the working memory mechanism: vocabulary size determines how much cognitive capacity is available for constructive inference during reading.
 >

@@ -97,7 +97,7 @@ Optimal learning requires environmental conditions that promote neuroplasticity 
 
 Moderate stress activates the sympathetic nervous system, releasing cortisol and norepinephrine that enhance attention, focus, and memory consolidation. However, chronic or extreme stress damages the hippocampus (memory center) and impairs prefrontal cortex function (executive control).
 
-**Practical Application**: Design learning environments with "desirable difficulties" that create moderate cognitive challenge without overwhelming anxiety. This includes techniques like [[Testing-Effect]], [[interleaving]], and [[spacing-effect]]—all of which introduce manageable stress that enhances learning.
+**Practical Application**: Design learning environments with "desirable difficulties" that create moderate cognitive challenge without overwhelming anxiety. This includes techniques like [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], and [[Desirable Difficulties (Robert Bjork, 1994)]]—all of which introduce manageable stress that enhances learning.
 
 ## 1.2 Working Memory and Cognitive Load
 
@@ -120,13 +120,13 @@ The relationship with [[long-term-working-memory]] is crucial: Experts develop s
 
 ### Cognitive Load Theory
 
-[[cognitive-load-theory]] explains how the limited capacity of working memory affects learning efficiency. Understanding the three types of cognitive load enables you to optimize learning conditions:
+[[Cognitive Load Theory (CLT)]] explains how the limited capacity of working memory affects learning efficiency. Understanding the three types of cognitive load enables you to optimize learning conditions:
 
 | Load Type               | Definition                                       | Strategy                                                                 |
 | ----------------------- | ------------------------------------------------ | ------------------------------------------------------------------------ |
 | **[[Intrinsic-Load]]**  | Inherent difficulty of the material              | Cannot be reduced; requires building prerequisite knowledge              |
 | **[[extraneous-load]]** | Load imposed by poor instructional design        | Minimize through clear presentation, eliminating distractions            |
-| **[[germane-load]]**    | Productive effort devoted to schema construction | Maximize through deliberate practice, elaboration, and connection-making |
+| **[[Cognitive Load Theory (CLT)]]**    | Productive effort devoted to schema construction | Maximize through deliberate practice, elaboration, and connection-making |
 
 > [!methodology-and-sources]
 > **Managing Cognitive Load**
@@ -227,7 +227,7 @@ Long-term memory is not monolithic but comprises multiple specialized systems:
 
 > [!core-principle]
 > **Principle of Encoding Specificity**
-> Memory retrieval is most effective when the retrieval context matches the encoding context. This is why practicing recall in varied contexts (a form of [[interleaving]]) builds more robust, transferable knowledge than studying in a single, consistent environment.
+> Memory retrieval is most effective when the retrieval context matches the encoding context. This is why practicing recall in varied contexts (a form of [[Desirable Difficulties (Robert Bjork, 1994)]]) builds more robust, transferable knowledge than studying in a single, consistent environment.
 
 Procedural memory (skills) benefits from repetitive practice to achieve automaticity, while declarative memory (facts, concepts) requires diverse, elaborative encoding strategies such as connection-making, self-explanation, and varied retrieval practice.
 
@@ -243,8 +243,8 @@ The [[Curve Of Forgetting]] demonstrates that without reinforcement, newly learn
 
 **Implications for Learning Design**:
 1. **Accept Initial Forgetting**: It's normal and unavoidable
-2. **Schedule Strategic Review**: Use [[spacing-effect]] principles to reinforce at optimal intervals
-3. **Embrace [[retrieval-practice]]**: Testing yourself isn't assessment—it's the learning mechanism itself
+2. **Schedule Strategic Review**: Use [[Desirable Difficulties (Robert Bjork, 1994)]] principles to reinforce at optimal intervals
+3. **Embrace [[Desirable Difficulties (Robert Bjork, 1994)]]**: Testing yourself isn't assessment—it's the learning mechanism itself
 4. **Vary Contexts**: Each retrieval from a different context/state strengthens and flexibilizes the memory trace
 
 ### Interference and Consolidation
@@ -271,10 +271,10 @@ Based on [[cognitive-science]] and empirical learning research, certain techniqu
 
 ### High-Utility Techniques (Strongly Recommended)
 
-**1. [[retrieval-practice]] (Testing Effect)**
+**1. [[Desirable Difficulties (Robert Bjork, 1994)]] (Testing Effect)**
 
 > [!definition]
-> **[[retrieval-practice]]**:: Actively recalling information from memory without looking at materials; the single most powerful learning technique across domains
+> **[[Desirable Difficulties (Robert Bjork, 1994)]]**:: Actively recalling information from memory without looking at materials; the single most powerful learning technique across domains
 
 The [[Retrieval Practice Loop]] in your PKB system represents a reinforcing feedback loop where testing yourself strengthens memory, which improves future retrieval, creating a positive spiral of learning consolidation.
 
@@ -295,10 +295,10 @@ The [[Retrieval Practice Loop]] in your PKB system represents a reinforcing feed
 > **Common Mistake: Recognition vs. Recall**
 > Reading notes and feeling familiar with material creates an [[Illusions Of Comprehension|illusion of knowing]]. True learning requires effortful recall without cues—which feels harder but produces dramatically better retention.
 
-**2. [[spacing-effect]] (Distributed Practice)**
+**2. [[Desirable Difficulties (Robert Bjork, 1994)]] (Distributed Practice)**
 
 > [!definition]
-> **[[spacing-effect]]**:: Learning is more effective when study sessions are distributed over time rather than massed into single sessions
+> **[[Desirable Difficulties (Robert Bjork, 1994)]]**:: Learning is more effective when study sessions are distributed over time rather than massed into single sessions
 
 The spacing effect is one of the most robust findings in learning science, yet students consistently favor massed practice (cramming) despite its inferiority.
 
@@ -310,10 +310,10 @@ The spacing effect is one of the most robust findings in learning science, yet s
 
 This aligns with your understanding of [[The Insight Compounding Loop]]—spaced retrieval allows each practice session to build on partially-forgotten material, creating stronger encoding through effortful retrieval.
 
-**3. [[interleaving]]**
+**3. [[Desirable Difficulties (Robert Bjork, 1994)]]**
 
 > [!definition]
-> **[[interleaving]]**:: Mixing different types of problems or topics during study sessions rather than blocking them by type
+> **[[Desirable Difficulties (Robert Bjork, 1994)]]**:: Mixing different types of problems or topics during study sessions rather than blocking them by type
 
 Research shows that interleaving various problems and topics substantially improves test performance compared to blocking practice by problem type, even though interleaving feels more difficult during practice.
 
@@ -329,11 +329,11 @@ Research shows that interleaving various problems and topics substantially impro
 - Combine review of old material with learning new material
 - Practice applying concepts to varied contexts
 
-**4. [[elaborative-interrogation]] and [[self-explanation]]**
+**4. [[Elaborative Interrogation]] and [[self-explanation-effect]]**
 
 > [!definition]
-> - **[[elaborative-interrogation]]**:: Generating explanations for why stated facts are true ("Why would this be the case?")
-> - **[[self-explanation]]**:: Explaining to yourself how new information relates to what you already know
+> - **[[Elaborative Interrogation]]**:: Generating explanations for why stated facts are true ("Why would this be the case?")
+> - **[[self-explanation-effect]]**:: Explaining to yourself how new information relates to what you already know
 
 These techniques force deep, generative processing that creates rich, interconnected knowledge structures rather than isolated facts.
 
@@ -346,12 +346,12 @@ This connects directly to your [[Constructivist Epistemology]] understanding—k
 - "Can I think of an example?"
 - "What principle underlies this?"
 
-**5. [[chunking]]**
+**5. [[Chunk (Miller, 1956; Chase & Simon, 1973)]]**
 
 > [!definition]
-> **[[chunking]]**:: Organizing individual pieces of information into meaningful groups or patterns
+> **[[Chunk (Miller, 1956; Chase & Simon, 1973)]]**:: Organizing individual pieces of information into meaningful groups or patterns
 
-[[chunking]] addresses [[working-memory]]'s limited capacity by packaging information into larger, meaningful units. Experts in any domain are distinguished by sophisticated chunking schemes that allow them to process complex information efficiently.
+[[Chunk (Miller, 1956; Chase & Simon, 1973)]] addresses [[working-memory]]'s limited capacity by packaging information into larger, meaningful units. Experts in any domain are distinguished by sophisticated chunking schemes that allow them to process complex information efficiently.
 
 **Chunking Development**:
 1. **Recognition**: Identify repeating patterns in domain
@@ -402,9 +402,9 @@ Multisensory instruction engages multiple brain regions simultaneously, creating
 
 > [!core-principle]
 > **The Paradox of Difficulty**
-> Learning strategies that feel easier during practice often produce weaker long-term retention, while strategies that feel harder during practice produce superior learning outcomes. This is the principle of [[desirable-difficulties]].
+> Learning strategies that feel easier during practice often produce weaker long-term retention, while strategies that feel harder during practice produce superior learning outcomes. This is the principle of [[Desirable Difficulties (Robert Bjork, 1994)]].
 
-This principle is central to [[cognitive-load-theory]]—germane load (productive cognitive effort) should be maximized while extraneous load (wasted effort) is minimized.
+This principle is central to [[Cognitive Load Theory (CLT)]]—germane load (productive cognitive effort) should be maximized while extraneous load (wasted effort) is minimized.
 
 **Examples of Desirable Difficulties**:
 1. **Retrieval Practice** (vs. rereading): Effortful recall strengthens memory more than passive review
@@ -511,9 +511,9 @@ Understanding cognitive strategies, their appropriate application contexts, and 
 | Strategy | When to Use | When NOT to Use | Why It Works |
 |----------|-------------|-----------------|--------------|
 | **Retrieval Practice** | After initial exposure; periodically for review | Before initial understanding; for pure recognition tasks | Strengthens memory traces through effortful recall |
-| **[[elaborative-interrogation]]** | For conceptual material requiring deep understanding | For arbitrary facts, procedural skills | Builds connections to existing knowledge |
-| **[[interleaving]]** | When discriminating between problem types matters | Early skill acquisition (block first, then interleave) | Develops flexible, transferable knowledge |
-| **[[chunking]]** | When working memory is overwhelmed; in domains with patterns | For truly random information with no structure | Reduces cognitive load by grouping information |
+| **[[Elaborative Interrogation]]** | For conceptual material requiring deep understanding | For arbitrary facts, procedural skills | Builds connections to existing knowledge |
+| **[[Desirable Difficulties (Robert Bjork, 1994)]]** | When discriminating between problem types matters | Early skill acquisition (block first, then interleave) | Develops flexible, transferable knowledge |
+| **[[Chunk (Miller, 1956; Chase & Simon, 1973)]]** | When working memory is overwhelmed; in domains with patterns | For truly random information with no structure | Reduces cognitive load by grouping information |
 
 ## 3.3 Metacognitive Regulation
 
@@ -1134,7 +1134,7 @@ Research shows that interleaving various problems and topics, rather than blocki
 **Six Teaching Methods**:
 1. **Modeling**: Expert demonstrates while articulating reasoning
 2. **Coaching**: Provide hints and feedback during learner practice
-3. **[[scaffolding]]**: Temporary support gradually removed
+3. **[[Scaffolded Fading]]**: Temporary support gradually removed
 4. **Articulation**: Learner verbalizes thinking process
 5. **Reflection**: Compare learner and expert performances
 6. **Exploration**: Encourage independent problem posing and solving
@@ -1359,7 +1359,7 @@ PKM tools enable individuals to collaborate effectively with others by facilitat
 - Focus on mutual growth
 
 **3. Mentorship Relationships**
-- [[More-Knowledgeable-Other]] provides guidance, feedback, and [[scaffolding]]
+- [[More-Knowledgeable-Other]] provides guidance, feedback, and [[Scaffolded Fading]]
 - Accelerates learning through expert modeling
 - Provides emotional support and confidence
 - Can be formal (assigned) or informal (sought)
@@ -1709,19 +1709,19 @@ From user's existing notes (will extensively cross-reference):
 
 Additional concepts to introduce as wiki-links:
 - [[deliberate-practice]]
-- [[interleaving]]
-- [[spacing-effect]]
-- [[desirable-difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[transfer-of-learning]]
 - [[Expert-Novice Differences]]
 - [[cognitive-apprenticeship]]
 - [[mental-models]]
 - [[Progressive-Summarization]]
 - [[Evergreen-Notes]]
-- [[atomic-notes]]
+- [[atomic-note]]
 - [[Concept Mapping]]
-- [[elaborative-interrogation]]
-- [[self-explanation]]
+- [[Elaborative Interrogation]]
+- [[self-explanation-effect]]
 - [[Feynman Technique]]
 - [[Cognitive Flexibility]]
 - [[epistemic-cognition]]

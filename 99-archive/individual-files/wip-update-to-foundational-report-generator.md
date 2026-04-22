@@ -216,7 +216,7 @@ The [[Testing-Effect]] represents one of the most robust findings in [[cognitive
 > [!key-claim]
 > [**Mechanism-Claim**:: Retrieval practice strengthens memory traces through elaborative processing and the creation of multiple retrieval routes.]^established
 
-The effect operates through what [[Bjork]] termed [[desirable-difficulties]]—conditions that introduce challenge during learning but enhance long-term retention...
+The effect operates through what [[Bjork]] termed [[Desirable Difficulties (Robert Bjork, 1994)]]—conditions that introduce challenge during learning but enhance long-term retention...
 
 [continues with proper formatting]
 </example>
@@ -916,7 +916,7 @@ Document boundary conditions and exceptions.
 
 **Example:**
 ```markdown
-[**Boundary-Condition**:: [[spacing-effect]] fails-when:"immediate performance needed (exam tomorrow)" | frequency:occasional | alternative:"massed practice acceptable for short-term recall"]
+[**Boundary-Condition**:: [[Desirable Difficulties (Robert Bjork, 1994)]] fails-when:"immediate performance needed (exam tomorrow)" | frequency:occasional | alternative:"massed practice acceptable for short-term recall"]
 ```
 </marker_systems>
 
@@ -1196,7 +1196,7 @@ aliases: [Testing Effect, Retrieval Practice Effect, Test-Enhanced Learning]
 status: evergreen
 certainty: verified
 type: atomic
-related: [[desirable-difficulties]], [[spacing-effect]], [[cognitive-load-theory]]
+related: [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Cognitive Load Theory (CLT)]]
 ---
 
 # 🧠 Testing Effect
@@ -1224,9 +1224,9 @@ The mechanistic explanation most strongly supported by evidence involves [[Elabo
 > [!connections-and-links]
 > ## 🔗 Knowledge Graph Integration
 >
-> **Parent Framework:** [[desirable-difficulties]] — Testing effect exemplifies the broader principle that conditions challenging during learning enhance long-term retention
+> **Parent Framework:** [[Desirable Difficulties (Robert Bjork, 1994)]] — Testing effect exemplifies the broader principle that conditions challenging during learning enhance long-term retention
 >
-> **Mechanistic Foundation:** [[Elaborative-Retrieval]], [[schema-theory]] — Explains *why* retrieval strengthens memory
+> **Mechanistic Foundation:** [[Elaborative-Retrieval]], [[schema-theory-and-knowledge-organization]] — Explains *why* retrieval strengthens memory
 >
 > **Practical Application:** [[spaced-repetition-systems]], [[Active Recall Methods]] — Implementation vehicles for testing effect
 >
@@ -1247,7 +1247,7 @@ The mechanistic explanation most strongly supported by evidence involves [[Elabo
 ```markdown
 ## 📜 Historical Development
 
-The intellectual lineage of [[cognitive-load-theory]] traces through several converging streams of twentieth-century psychology, though its crystallization as a unified framework owes primarily to the work of Australian educational psychologist [[john-sweller]] beginning in the 1980s. Understanding this history illuminates not merely the theory's origins but its fundamental orientation toward the practical problem of instructional design.
+The intellectual lineage of [[Cognitive Load Theory (CLT)]] traces through several converging streams of twentieth-century psychology, though its crystallization as a unified framework owes primarily to the work of Australian educational psychologist [[john-sweller]] beginning in the 1980s. Understanding this history illuminates not merely the theory's origins but its fundamental orientation toward the practical problem of instructional design.
 
 [**Historical-Context**:: CLT emerged from the intersection of information processing psychology and instructional design, seeking to translate laboratory findings about memory limitations into actionable principles for educators.]^established
 
@@ -1256,7 +1256,7 @@ The foundational insight—that [[working-memory]] possesses severe capacity lim
 > [!key-claim]
 > [**Sweller's-Innovation**:: Sweller's contribution was not discovering working memory limitations but systematically deriving instructional principles from those limitations—transforming a descriptive finding into a prescriptive framework.]^established
 
-The transition from description to prescription required a crucial theoretical addition: the concept of [[element-interactivity]]. Sweller recognized that working memory load depends not merely on the number of items but on the number of items that must be processed *simultaneously* due to their interdependence. Learning to recognize individual letters imposes low element interactivity—each letter can be learned independently. Learning grammatical syntax imposes high element interactivity—understanding how subjects relate to verbs to objects requires holding multiple elements in mind simultaneously while processing their relationships.
+The transition from description to prescription required a crucial theoretical addition: the concept of [[Technical Detail: The relationship between element interactivity and working-memory load]]. Sweller recognized that working memory load depends not merely on the number of items but on the number of items that must be processed *simultaneously* due to their interdependence. Learning to recognize individual letters imposes low element interactivity—each letter can be learned independently. Learning grammatical syntax imposes high element interactivity—understanding how subjects relate to verbs to objects requires holding multiple elements in mind simultaneously while processing their relationships.
 
 > [!analogy]
 > Element interactivity resembles juggling versus carrying. A person might easily carry seven tennis balls in their arms (low interactivity—each ball is independent). But juggling seven balls demands qualitatively different cognitive coordination, as each ball's trajectory must be tracked relative to all others. Educational materials high in element interactivity are cognitively "juggled" rather than "carried."
@@ -1277,7 +1277,7 @@ This insight enabled Sweller to explain previously puzzling findings in educatio
 The practical implications extend beyond diagram design to any situation where learners must mentally integrate information from multiple sources. Consider the traditional textbook format presenting a paragraph of explanation followed by an equation followed by a worked example. Even when the content is excellent, this format imposes [[split-attention-effect]] costs as learners shuttle between text, notation, and example, attempting to build coherent understanding from fragmented presentation.
 
 > [!counter-argument]
-> [**Expertise-Reversal-Caveat**:: The integrated format advantage reverses for expert learners, who find embedded labels redundant and distracting. This [[expertise-reversal-effect]] reveals that optimal instructional design is not absolute but relative to learner knowledge.]^established
+> [**Expertise-Reversal-Caveat**:: The integrated format advantage reverses for expert learners, who find embedded labels redundant and distracting. This [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] reveals that optimal instructional design is not absolute but relative to learner knowledge.]^established
 >
 > This finding has profound implications: instructional materials cannot be universally optimized. What helps novices may hinder experts. Adaptive instruction that responds to growing expertise—gradually removing scaffolding—represents the theoretical ideal, though practical implementation remains challenging.
 
@@ -1515,7 +1515,7 @@ freshness:
 # <span style='color: #FFC700;'>Chain-of-Thought Prompting: Intermediate Token Generation as Cognitive Scaffolding in Transformer-Based Reasoning</span>
 
 > [!abstract] Executive Overview
-> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason-Wei]] and colleagues at [[Google-Research]] in 2022, fundamentally altered understanding of [[Transformer-Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[working-memory]] theory and [[cognitive-load-theory]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
+> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason-Wei]] and colleagues at [[Google-Research]] in 2022, fundamentally altered understanding of [[Transformer-Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[working-memory]] theory and [[Cognitive Load Theory (CLT)]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
 
 ## 📜 Theoretical Foundations & Historical Context
 
@@ -1766,7 +1766,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 > ## 🔗 Integration with Existing Knowledge
 >
 > **Theoretical Frameworks:**  
-> [[cognitive-load-theory]] — CoT externalization parallels working memory offloading in human cognition  
+> [[Cognitive Load Theory (CLT)]] — CoT externalization parallels working memory offloading in human cognition  
 > [[Attention-Mechanism]] — Self-attention over reasoning chains implements message-passing computation  
 > [[Circuit-Complexity-Theory]] — Formalizes how token generation converts depth-limited parallel processing into serial computation  
 > [[Mechanistic-Interpretability]] — Provides tools for analyzing what neural circuits activate during reasoning steps

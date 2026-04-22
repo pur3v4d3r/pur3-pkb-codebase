@@ -392,12 +392,12 @@ Your relationship vocabulary is excellent. I'd expand it with additional relatio
 
 | Type | Symbol | Use Case | Example |
 |------|--------|----------|---------|
-| `extends` | →(extends)→ | Theoretical elaboration | [[CLT]] →(extends)→ [[information-processing]] |
-| `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic-Load]] →(operationalizes)→ [[element-interactivity]] |
+| `extends` | →(extends)→ | Theoretical elaboration | [[Cognitive Load Theory (CLT)]] →(extends)→ [[information-processing]] |
+| `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic-Load]] →(operationalizes)→ [[Technical Detail: The relationship between element interactivity and working-memory load]] |
 | `analogous-to` | →(analogous-to)→ | Cross-domain parallel | [[working-memory]] →(analogous-to)→ [[RAM]] |
 | `precondition-for` | →(precondition-for)→ | Logical dependency | [[Schema Acquisition]] →(precondition-for)→ [[automation]] |
 | `falsifies` | →(falsifies)→ | Empirical refutation | [[Late Selection Evidence]] →(falsifies)→ [[Early Selection Theory]] |
-| `synthesizes` | →(synthesizes)→ | Integration of multiple | [[Load-Theory]] →(synthesizes)→ [[CLT]] + [[Perceptual Load]] |
+| `synthesizes` | →(synthesizes)→ | Integration of multiple | [[Load-Theory]] →(synthesizes)→ [[Cognitive Load Theory (CLT)]] + [[Perceptual Load]] |
 
 ---
 
@@ -583,7 +583,7 @@ freshness:
 
 ```markdown
 > [!mental-model-anchor] 
-> **Concept**: [[cognitive-load-theory]]
+> **Concept**: [[Cognitive Load Theory (CLT)]]
 > **Anchors To**:
 >   - [[Systems-Thinking]] — feedback loops between load types
 >   - [[Constraint Theory]] — bottleneck identification
@@ -591,7 +591,7 @@ freshness:
 >   - [[Inversion]] — what would INCREASE load? (avoid that)
 > **Integration Notes**: CLT is fundamentally a constraint/bottleneck model applied to cognition
 
-[**Model-Anchor**:: [[cognitive-load-theory]] ←anchors-to→ [[Constraint Theory]] | insight:"learning bottlenecks = cognitive constraints"]
+[**Model-Anchor**:: [[Cognitive Load Theory (CLT)]] ←anchors-to→ [[Constraint Theory]] | insight:"learning bottlenecks = cognitive constraints"]
 ```
 
 **PKB Value**: Rapid sense-making through framework activation; transferable reasoning patterns; metacognitive scaffolding.
@@ -779,7 +779,7 @@ When establishing connections between concepts, encode the semantic relationship
 
 **Narrative Integration:**
 ```markdown
-[[cognitive-load-theory]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[information-processing-theory]].
+[[Cognitive Load Theory (CLT)]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[information-processing-theory]].
 ```
 
 **Complex Multi-Relation:**
@@ -789,7 +789,7 @@ When establishing connections between concepts, encode the semantic relationship
 
 **With Annotations:**
 ```markdown
-[**Relationship**:: [[CLT]] →(applied-in)→ [[instructional-design]] | annotation:"primary application domain since 1980s"]
+[**Relationship**:: [[Cognitive Load Theory (CLT)]] →(applied-in)→ [[instructional-design]] | annotation:"primary application domain since 1980s"]
 ```
 </syntax_specification>
 
@@ -1247,7 +1247,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[cognitive-load-theory]] — primary extension
+> - [[Cognitive Load Theory (CLT)]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
@@ -2108,11 +2108,11 @@ Explicitly connect concepts to foundational mental models.
 ### Two-Way Model Use
 
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[cognitive-load-theory]]?"
+"How does [[First Principles Thinking]] illuminate [[Cognitive Load Theory (CLT)]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 
 **Concept → Lens** (Projection):
-"How can [[cognitive-load-theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[Cognitive Load Theory (CLT)]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 

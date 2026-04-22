@@ -442,7 +442,7 @@ Poor decisions often result from failures in critical thinking. Premature closur
 
 ### Critical Thinking and Lifelong Learning
 
-In rapidly changing social, technological, and economic landscapes, the knowledge individuals acquire during formal education becomes obsolete or insufficient. Medical professionals must continuously learn new treatments and research findings. Technology workers must master emerging programming languages and frameworks. Citizens must understand evolving policy challenges. [[lifelong-learning]]—the ongoing, voluntary, and self-motivated pursuit of knowledge—becomes essential for professional competence and civic participation.
+In rapidly changing social, technological, and economic landscapes, the knowledge individuals acquire during formal education becomes obsolete or insufficient. Medical professionals must continuously learn new treatments and research findings. Technology workers must master emerging programming languages and frameworks. Citizens must understand evolving policy challenges. [[Lifelong Learning]]—the ongoing, voluntary, and self-motivated pursuit of knowledge—becomes essential for professional competence and civic participation.
 
 Critical thinking enables effective lifelong learning by providing tools for evaluating new information independently. When encountering unfamiliar topics, critical thinkers systematically identify knowledge gaps (what do I need to know?), discriminate information sources (which sources are credible?), evaluate arguments (are claims well-supported?), and integrate new understanding with existing knowledge (how does this connect to what I already know?). These processes allow learning without formal instruction, transforming individuals from dependent learners requiring expert guidance to autonomous learners capable of self-directed inquiry.
 
@@ -478,7 +478,7 @@ The connection between critical thinking and autonomy also explains why authorit
 >
 > **[[philosophy-of-mind]]** - Critical thinking's relationship to consciousness, intentionality, and agency raises fundamental questions about mental causation and the nature of thought itself. Is critical thinking a species of [[Reflective Consciousness]]? How does metacognition relate to self-awareness?
 >
-> **[[Learning Theory]]** - Constructivist learning theories emphasize that knowledge is actively constructed rather than passively received—a principle embodied in critical thinking's role mediating information-to-knowledge transformation. [[schema-theory]], [[deep-processing]], and [[transfer-of-learning]] all connect to critical thinking mechanisms.
+> **[[Learning Theory]]** - Constructivist learning theories emphasize that knowledge is actively constructed rather than passively received—a principle embodied in critical thinking's role mediating information-to-knowledge transformation. [[schema-theory-and-knowledge-organization]], [[deep-processing]], and [[transfer-of-learning]] all connect to critical thinking mechanisms.
 >
 > **[[decision-theory]]** and [[Judgment and Decision-Making]] - Critical thinking provides normative standards and cognitive processes for making rational decisions under uncertainty, connecting to research on heuristics, biases, and dual-process theories (System 1 vs. System 2 thinking).
 >

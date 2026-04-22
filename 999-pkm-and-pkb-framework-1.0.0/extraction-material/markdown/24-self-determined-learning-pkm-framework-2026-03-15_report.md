@@ -155,7 +155,7 @@ extraction_summary:
 #### 2. [DEFINITION] Pedagogy (Educational Science — historically traced to classical antiquity, formalized by Comeniusand modern curriculum theory) *(Line 184)*
 
 > [!definition] Pedagogy (Educational Science — historically traced to classical antiquity, formalized by Comeniusand modern curriculum theory)
-> Literally "leading the child" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[external-regulation|External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence-Theory|Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.
+> Literally "leading the child" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[External Regulation|External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence-Theory|Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.
 
 #### 3. [DEFINITION] Andragogy (Educational Science/Adult Education — Malcolm Knowles, 1968, 1980) *(Line 187)*
 
@@ -576,9 +576,9 @@ extraction_summary:
 - [[Correspondence-Theory|Correspondence Theory]]
 - [[Dataview]]
 - [[double-loop-learning|Double-Loop Learning]]
-- [[external-regulation|External Regulation]]
+- [[External Regulation|External Regulation]]
 - [[heutagogy]]
-- [[internalization-continuum|Internalization Continuum]]
+- [[internalization|Internalization Continuum]]
 - [[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]]
 - [[Knowledge-Ecology|Knowledge Ecology]]
 - [[Knowledge Ecology Model]]
@@ -601,7 +601,7 @@ extraction_summary:
 - [[Report 19: Sustaining Lifelong Learning]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[Socratic Self-Examination]]
 - [[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]
@@ -632,7 +632,7 @@ extraction_summary:
 | 17 | [[pedagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
 | 18 | [[andragogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
 | 19 | [[heutagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
-| 20 | [[external-regulation|External Regulation]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
+| 20 | [[External Regulation|External Regulation]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
 | 21 | [[Correspondence-Theory|Correspondence Theory]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
 | 22 | [[Pragmatist]] | — | — | The PAH Continuum: Beyond the Common ... | 188 |
 | 23 | [[Capability]] | — | — | The PAH Continuum: Beyond the Common ... | 191 |
@@ -646,12 +646,12 @@ extraction_summary:
 | 31 | [[malcolm-knowles]] | — | — | The Heutagogy Research Base | 255 |
 | 32 | [[Report 10]] | — | — | The Heutagogy Research Base | 255 |
 | 33 | [[Transformative Learning Theory]] | — | — | The Heutagogy Research Base | 271 |
-| 34 | [[internalization-continuum|Internalization Continuum]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 34 | [[internalization|Internalization Continuum]] | — | — | Mechanism 1: The Internalization Engine | 293 |
 | 35 | [[organismic-integration-theory]] | — | — | Mechanism 1: The Internalization Engine | 293 |
 | 36 | [[autonomy-need|Autonomy Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
 | 37 | [[competence-need|Competence Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
 | 38 | [[relatedness-need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 39 | [[schema-theory|Schema Theory]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
+| 39 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
 | 40 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
 | 41 | [[Socratic Self-Examination]] | — | — | Mechanism 4: The Socratic Prerequisite | 324 |
 | 42 | [[Knowledge-Ecology|Knowledge Ecology]] | — | — | Mechanism 5: The Knowledge Ecology Em... | 331 |
@@ -701,9 +701,9 @@ extraction_summary:
 - [[Correspondence-Theory|Correspondence Theory]]
 - [[Dataview]]
 - [[double-loop-learning|Double-Loop Learning]]
-- [[external-regulation|External Regulation]]
+- [[External Regulation|External Regulation]]
 - [[heutagogy]]
-- [[internalization-continuum|Internalization Continuum]]
+- [[internalization|Internalization Continuum]]
 - [[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]]
 - [[Knowledge-Ecology|Knowledge Ecology]]
 - [[Knowledge Ecology Model]]
@@ -726,7 +726,7 @@ extraction_summary:
 - [[Report 19: Sustaining Lifelong Learning]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[Socratic Self-Examination]]
 - [[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]

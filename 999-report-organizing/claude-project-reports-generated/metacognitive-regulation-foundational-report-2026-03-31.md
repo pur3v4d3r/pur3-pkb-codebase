@@ -146,8 +146,8 @@ see-also:
   - "[[metacognitive-accuracy|Metacognitive Accuracy]]"
   - "[[metacognitive-calibration|Metacognitive Calibration]]"
   - "[[monitoring-regulation-coupling|Monitoring-Regulation Coupling]]"
-  - "[[monitoring-control-coupling|Monitoring-Control Coupling]]"
-  - "[[metacognitive-scaffolding|Metacognitive Scaffolding]]"
+  - "[[Monitoring-Control Coupling|Monitoring-Control Coupling]]"
+  - "[[Metacognitive Scaffolding|Metacognitive Scaffolding]]"
   - "[[regulatory-reflexivity-problem|Regulatory Reflexivity Problem]]"
 
 contrasts-with:
@@ -156,8 +156,8 @@ contrasts-with:
 
 applied-in:
   - "[[self-directed-learning|Self-Directed Learning]]"
-  - "[[elaborative-interrogation|Elaborative Interrogation]]"
-  - "[[retrieval-practice|Retrieval Practice]]"
+  - "[[Elaborative Interrogation|Elaborative Interrogation]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]"
   - "[[situation-models-in-text-comprehension|Situation Models in Text Comprehension]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -177,7 +177,7 @@ enables:
 
 expansion-topics:
   - "[[metacognitive-accuracy|Metacognitive Accuracy]]"
-  - "[[metacognitive-scaffolding|Metacognitive Scaffolding]]"
+  - "[[Metacognitive Scaffolding|Metacognitive Scaffolding]]"
   - "[[transfer-of-learning|Transfer of Learning]]"
   - "[[metacognitive-feelings|Metacognitive Feelings]]"
   - "[[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]]"
@@ -235,7 +235,7 @@ The history of learning research contains a persistent and consequential puzzle:
 
 This executive dimension of cognition — the oversight, direction, and corrective adjustment of one's own mental processes — is what the construct of [[metacognitive-regulation|Metacognitive Regulation]] designates. It is the operational face of [[metacognition]]: where metacognitive knowledge constitutes the learner's repository of beliefs about cognitive tasks, strategies, and personal cognitive characteristics, metacognitive regulation is the deployment of those resources in the real-time orchestration of cognitive performance. The distinction, first articulated with clarity by [[ann-brown|Ann Brown]] (1978, 1987) and subsequently refined by [[gregory-schraw|Gregory Schraw]] and others, identifies [[regulation-of-cognition|Regulation of Cognition]] as one of the two major dimensions of metacognition — alongside [[knowledge-of-cognition|Knowledge of Cognition]] — and positions it as the mechanism through which learning can become genuinely self-directed rather than merely self-described.
 
-The significance of this topic reaches beyond academic psychology. Research spanning four decades has established that metacognitive regulation is among the most powerful predictors of learning outcome that educational research has identified, that it distinguishes expert from novice performance across virtually every studied domain, that it is teachable in ways that generalize beyond the training context, and that its failure produces characteristic pathologies — the [[fluency-illusion|Fluency Illusion]], the [[illusion-of-knowing|Illusion of Knowing]], the [[dunning-kruger-effect|Dunning-Kruger Effect]] pattern — each representing a specific breakdown in the regulatory architecture that governs how learners know what they know. Understanding metacognitive regulation is, accordingly, not a specialist's concern but a prerequisite for understanding how adaptive cognition functions.
+The significance of this topic reaches beyond academic psychology. Research spanning four decades has established that metacognitive regulation is among the most powerful predictors of learning outcome that educational research has identified, that it distinguishes expert from novice performance across virtually every studied domain, that it is teachable in ways that generalize beyond the training context, and that its failure produces characteristic pathologies — the [[Fluency Illusion|Fluency Illusion]], the [[illusion-of-knowing|Illusion of Knowing]], the [[dunning-kruger-effect|Dunning-Kruger Effect]] pattern — each representing a specific breakdown in the regulatory architecture that governs how learners know what they know. Understanding metacognitive regulation is, accordingly, not a specialist's concern but a prerequisite for understanding how adaptive cognition functions.
 
 ### Scope of This Report
 
@@ -305,14 +305,14 @@ The most widely adopted taxonomic framework for metacognitive regulation, due pr
 >
 > **Report-Specific Significance:** The gap between monitoring and control — the situation in which monitoring accurately detects a problem but control fails to respond adaptively — is one of this report's central analytical contributions. See Phase IV for extended treatment.
 >
-> **See also:** [[monitoring-control-coupling|Monitoring-Control Coupling]], [[monitoring-regulation-coupling|Monitoring-Regulation Coupling]], [[monitoring-gap|Monitoring Gap]], [[metacognitive-strategy|Metacognitive Strategy]], [[regulation-of-cognition|Regulation of Cognition]]
+> **See also:** [[Monitoring-Control Coupling|Monitoring-Control Coupling]], [[monitoring-regulation-coupling|Monitoring-Regulation Coupling]], [[monitoring-gap|Monitoring Gap]], [[metacognitive-strategy|Metacognitive Strategy]], [[regulation-of-cognition|Regulation of Cognition]]
 
 > [!definition] **Evaluating (Metacognitive)**
 > Evaluating is the retrospective regulatory activity through which the learner assesses the products and processes of a completed cognitive engagement. It encompasses assessment of goal attainment (did I achieve what I set out to achieve?), strategy assessment (was the approach I used effective?), and attribution (what accounts for the outcome?). Evaluating is the regulatory component most directly connected to the iterative improvement of regulation over time: it is through evaluation that regulatory strategies are updated, refined, or abandoned.
 >
 > **Boundary:** Metacognitive evaluating is not identical to task performance evaluation (receiving a grade, getting feedback from an external source). Evaluating, in the metacognitive sense, is a self-generated assessment that requires the learner to occupy the assessor's position with respect to her own performance — a representational feat that carries its own accuracy challenges.
 >
-> **See also:** [[self-reflection-phase|Self-Reflection Phase]], [[metacognitive-accuracy|Metacognitive Accuracy]], [[attribution-theory|Attribution Theory]], [[self-regulated-learning|Self-Regulated Learning]]
+> **See also:** [[self-reflection-phase|Self-Reflection Phase]], [[metacognitive-accuracy|Metacognitive Accuracy]], [[Attribution (Heider, 1958)|Attribution Theory]], [[self-regulated-learning|Self-Regulated Learning]]
 
 ### The Nelson-Narens Architecture: Meta-Level and Object-Level
 
@@ -339,9 +339,9 @@ A conceptually distinct but practically integrated element of the regulatory arc
 >
 > **Boundary:** Metacognitive experiences are not equivalent to metacognitive monitoring in the full regulatory sense. They are the phenomenological signals that feed into monitoring — the accessible "readout" of object-level processing that the meta-level uses as informational input. They may be accurate or inaccurate, and their relationship to actual cognitive performance is one of the central empirical questions in metacognition research. In particular, metacognitive experiences are subject to systematic distortion: ease of processing — fluency — produces positive metacognitive experiences (feelings of understanding, high JOL) even when encoding is actually shallow.
 >
-> **Research Status:** There is extensive empirical documentation of the dissociation between metacognitive experiences and actual performance. The JOL literature demonstrates that immediate JOLs (taken shortly after study) are inflated relative to delayed JOLs, and that both may diverge substantially from actual retention. The phenomenon is particularly robust with respect to the [[fluency-illusion|Fluency Illusion]]: processing that feels smooth generates confident JOLs regardless of whether genuine comprehension has occurred.
+> **Research Status:** There is extensive empirical documentation of the dissociation between metacognitive experiences and actual performance. The JOL literature demonstrates that immediate JOLs (taken shortly after study) are inflated relative to delayed JOLs, and that both may diverge substantially from actual retention. The phenomenon is particularly robust with respect to the [[Fluency Illusion|Fluency Illusion]]: processing that feels smooth generates confident JOLs regardless of whether genuine comprehension has occurred.
 >
-> **See also:** [[metacognitive-experience|Metacognitive Experience]], [[metacognitive-feelings|Metacognitive Feelings]], [[judgment-of-learning|Judgment of Learning]], [[feeling-of-knowing|Feeling of Knowing]], [[Ease-of-Learning|Ease of Learning]], [[metacognitive-monitoring|Metacognitive Monitoring]], [[fluency-illusion|Fluency Illusion]]
+> **See also:** [[metacognitive-experience|Metacognitive Experience]], [[metacognitive-feelings|Metacognitive Feelings]], [[judgment-of-learning|Judgment of Learning]], [[feeling-of-knowing|Feeling of Knowing]], [[Ease-of-Learning|Ease of Learning]], [[metacognitive-monitoring|Metacognitive Monitoring]], [[Fluency Illusion|Fluency Illusion]]
 
 > [!ask-yourself-this]
 > Consider your own experience of reading academic texts. At what points do you notice a metacognitive signal — a sense that something is not clicking, or conversely that you have genuinely understood? How reliable do you find these signals? Have you ever emerged from a reading session with a strong sense of understanding, only to discover on a test or discussion that the understanding was shallower than it felt? This is the experiential correlate of what the research on metacognitive experiences documents systematically.
@@ -484,10 +484,10 @@ Monitoring draws on multiple cue types in constructing metacognitive judgments. 
 - **Extrinsic cues**: features of the study conditions — number of presentations, spacing, elaboration — that should, normatively, influence JOLs because they affect encoding quality, and in fact do influence JOLs but with imperfect calibration.
 - **Mnemonic cues**: online signals generated by the learning process itself — the sense of fluency, the subjective ease of retrieval, the feeling of familiarity — that serve as proxies for encoding strength.
 
-The critical empirical finding is that **mnemonic cues**, and specifically fluency, carry excessive weight in JOL construction. Learners treat subjective processing ease as a reliable signal of encoding quality — but this relationship is systematically misleading in many common study conditions. When material has been recently studied, when the surface features of material are familiar even if the semantic content is novel, or when a learner has encountered material in a different modality, fluency signals are high regardless of actual learning. The result is the **[[fluency-illusion|Fluency Illusion]]**: the experience of smooth processing generates confident metacognitive judgments even when encoding is superficial.
+The critical empirical finding is that **mnemonic cues**, and specifically fluency, carry excessive weight in JOL construction. Learners treat subjective processing ease as a reliable signal of encoding quality — but this relationship is systematically misleading in many common study conditions. When material has been recently studied, when the surface features of material are familiar even if the semantic content is novel, or when a learner has encountered material in a different modality, fluency signals are high regardless of actual learning. The result is the **[[Fluency Illusion|Fluency Illusion]]**: the experience of smooth processing generates confident metacognitive judgments even when encoding is superficial.
 
 > [!evidence]
-> The most compelling experimental demonstrations of the fluency illusion come from experiments in which processing fluency is manipulated orthogonally to encoding quality. Reder & Ritter (1992) demonstrated that familiarity with problem form (independent of knowing the solution) elevated confidence judgments. Bjork and colleagues demonstrated that conditions that improve long-term retention (spacing, interleaving, testing) reduce subjective fluency and thereby reduce JOL confidence — meaning that the conditions most conducive to learning feel the least productive. This is among the most practically significant findings in the metacognitive regulation literature: learners' metacognitive judgments are systematically inverted with respect to the actual efficacy of [[desirable-difficulties|Desirable Difficulties]].
+> The most compelling experimental demonstrations of the fluency illusion come from experiments in which processing fluency is manipulated orthogonally to encoding quality. Reder & Ritter (1992) demonstrated that familiarity with problem form (independent of knowing the solution) elevated confidence judgments. Bjork and colleagues demonstrated that conditions that improve long-term retention (spacing, interleaving, testing) reduce subjective fluency and thereby reduce JOL confidence — meaning that the conditions most conducive to learning feel the least productive. This is among the most practically significant findings in the metacognitive regulation literature: learners' metacognitive judgments are systematically inverted with respect to the actual efficacy of [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]].
 
 The monitoring mechanism can also fail through **monitoring instability**: JOLs taken at different points in the learning process diverge substantially, and learners do not always recognize this instability. Immediate JOLs (taken right after study) are consistently more inflated than delayed JOLs (taken 24 hours later), because the cue of item availability decays over time and better reflects actual long-term retention. This implies that monitoring systems calibrated on immediate feedback will systematically overestimate retention — a failure mode with direct implications for study scheduling.
 
@@ -496,12 +496,12 @@ The monitoring mechanism can also fail through **monitoring instability**: JOLs 
 
 ### The Control Mechanism: Adaptive Regulatory Response
 
-If monitoring provides the information on which regulation depends, control is the mechanism through which that information is converted into cognitive action. Control operates by generating corrective or sustaining responses to discrepancies between monitored cognitive states and desired standards. When monitoring detects that comprehension has failed, control may respond with re-reading, reduced reading rate, explicit note-taking, self-questioning ([[elaborative-interrogation|Elaborative Interrogation]]), seeking external resources, or terminating engagement and declaring defeat. When monitoring indicates comprehension is adequate, control sustains the current approach.
+If monitoring provides the information on which regulation depends, control is the mechanism through which that information is converted into cognitive action. Control operates by generating corrective or sustaining responses to discrepancies between monitored cognitive states and desired standards. When monitoring detects that comprehension has failed, control may respond with re-reading, reduced reading rate, explicit note-taking, self-questioning ([[Elaborative Interrogation|Elaborative Interrogation]]), seeking external resources, or terminating engagement and declaring defeat. When monitoring indicates comprehension is adequate, control sustains the current approach.
 
 The control mechanism is governed by **threshold dynamics**: not every monitoring signal generates a control response. Below a threshold of detected difficulty, the learner continues with the current approach. At or above the threshold, corrective control is triggered. This threshold is itself subject to regulatory modulation: learners under time pressure raise their thresholds (accepting more apparent difficulty without correcting); learners with high task interest lower their thresholds (intervening more readily at smaller signs of difficulty). The threshold dynamics of metacognitive control have not been extensively studied directly, but they are implied by converging lines of evidence regarding the effects of task framing and motivational orientation on regulatory behavior.
 
 > [!key-claim]
-> A learner who monitors accurately but maintains too high a control threshold will fail to respond to genuine comprehension failures — she will detect the problem but not act on it. This is a failure of **[[monitoring-control-coupling|Monitoring-Control Coupling]]**: accurate monitoring is present, but the monitoring signal is not transduced into regulatory response with sufficient sensitivity. The **[[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]]** literature documents this as a distinct regulatory failure mode, separate from both inaccurate monitoring and deficient strategy knowledge.
+> A learner who monitors accurately but maintains too high a control threshold will fail to respond to genuine comprehension failures — she will detect the problem but not act on it. This is a failure of **[[Monitoring-Control Coupling|Monitoring-Control Coupling]]**: accurate monitoring is present, but the monitoring signal is not transduced into regulatory response with sufficient sensitivity. The **[[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]]** literature documents this as a distinct regulatory failure mode, separate from both inaccurate monitoring and deficient strategy knowledge.
 
 ### The Calibration-Action Gap: An Original Contribution
 
@@ -513,7 +513,7 @@ This focus, while empirically well-grounded, overlooks a structurally distinct p
 
 **Motivational interruption**: The learner accurately detects difficulty but interprets it as evidence of incapacity (entity theory of intelligence, [[fixed-mindset|Fixed Mindset]]) or evaluates the cost of remediation as exceeding its value (low task utility beliefs). Here the monitoring signal is not absent but is interpreted through a motivational lens that suppresses the control response. The Efklides MASRL model anticipates this mechanism: metacognitive experiences carry motivational weight, and the same feeling of difficulty can motivate increased effort or motivate disengagement depending on the learner's motivational orientation and [[self-efficacy]].
 
-**Regulatory overhead**: Deploying a corrective control response itself consumes [[working-memory|Working Memory]] resources. A learner already operating near her cognitive load ceiling may not have the residual capacity to generate and execute a corrective strategy even when she has accurately detected the need for one. The interaction between [[cognitive-load-theory|Cognitive Load Theory]] and metacognitive regulation is undertheorized in the mainstream literature, but represents a real constraint on regulatory action under demanding conditions.
+**Regulatory overhead**: Deploying a corrective control response itself consumes [[working-memory|Working Memory]] resources. A learner already operating near her cognitive load ceiling may not have the residual capacity to generate and execute a corrective strategy even when she has accurately detected the need for one. The interaction between [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] and metacognitive regulation is undertheorized in the mainstream literature, but represents a real constraint on regulatory action under demanding conditions.
 
 > [!insight]
 > The Calibration-Action Gap implies that interventions targeting monitoring accuracy (e.g., delayed JOL training, retrieval-based self-testing) will be insufficient for learners whose failure mode is not inaccurate monitoring but regulatory poverty or motivational interruption. Diagnostic assessment of which failure mode is operative is therefore a prerequisite for targeted metacognitive intervention — rather than a one-size-fits-all approach to "improving metacognition."
@@ -546,17 +546,17 @@ Practically, the regress is terminated empirically rather than principally: at s
 
 ### Application Domains
 
-**Reading Comprehension and Academic Text Processing**: The most extensively documented application of metacognitive regulation is reading comprehension, where it overlaps substantially with the [[comprehension-monitoring|Comprehension Monitoring]] literature. Expert readers regulate comprehension through a continuous cycle of strategy selection (choosing between skimming, close reading, rereading, or generating questions), monitoring (detecting failures of coherence, unfamiliar vocabulary, logical gaps), and control (slowing, rereading, pausing to integrate, seeking glosses). Research consistently demonstrates that explicit instruction in comprehension monitoring and control — as in reciprocal teaching (Palincsar & Brown, 1984), structured self-questioning protocols, and [[elaborative-interrogation|Elaborative Interrogation]] training — produces substantial improvements in reading comprehension outcomes, particularly for struggling readers.
+**Reading Comprehension and Academic Text Processing**: The most extensively documented application of metacognitive regulation is reading comprehension, where it overlaps substantially with the [[comprehension-monitoring|Comprehension Monitoring]] literature. Expert readers regulate comprehension through a continuous cycle of strategy selection (choosing between skimming, close reading, rereading, or generating questions), monitoring (detecting failures of coherence, unfamiliar vocabulary, logical gaps), and control (slowing, rereading, pausing to integrate, seeking glosses). Research consistently demonstrates that explicit instruction in comprehension monitoring and control — as in reciprocal teaching (Palincsar & Brown, 1984), structured self-questioning protocols, and [[Elaborative Interrogation|Elaborative Interrogation]] training — produces substantial improvements in reading comprehension outcomes, particularly for struggling readers.
 
 The connection between metacognitive regulation and [[situation-models-in-text-comprehension|Situation Models in Text Comprehension]] is particularly important: building a rich situation model requires not merely decoding words and sentences but constructing, monitoring, and updating an integrated mental representation of the text's described world. Monitoring failures that allow inconsistencies into the situation model without triggering corrective re-reading result in degraded comprehension that is often invisible to the reader — a cardinal manifestation of the fluency illusion in a reading context.
 
-**Study Strategy Self-Management**: Metacognitive regulation governs study strategy selection and monitoring in ways that have direct implications for the efficacy of study time. Research in the [[spaced-repetition|Spaced Repetition]] and [[retrieval-practice|Retrieval Practice]] traditions consistently demonstrates that learners left to their own regulatory devices choose massed study over spaced study, passive rereading over active self-testing — precisely because massed study and passive rereading produce higher subjective fluency (and therefore more positive JOLs) while producing inferior long-term retention. The metacognitive regulation mechanism here is one of monitoring-cue distortion: learners are regulating (they are monitoring and adjusting study effort), but their monitoring cues are systematically misleading.
+**Study Strategy Self-Management**: Metacognitive regulation governs study strategy selection and monitoring in ways that have direct implications for the efficacy of study time. Research in the [[spaced-repetition|Spaced Repetition]] and [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]] traditions consistently demonstrates that learners left to their own regulatory devices choose massed study over spaced study, passive rereading over active self-testing — precisely because massed study and passive rereading produce higher subjective fluency (and therefore more positive JOLs) while producing inferior long-term retention. The metacognitive regulation mechanism here is one of monitoring-cue distortion: learners are regulating (they are monitoring and adjusting study effort), but their monitoring cues are systematically misleading.
 
 Interventions that correct this regulatory failure take two forms: (1) **cue replacement** — training learners to use cue types that track actual learning rather than processing fluency (e.g., delayed testing, prediction before study); and (2) **strategy mandate** — requiring learners to use spaced or retrieval-based strategies regardless of their metacognitive judgments. The second approach is more robust for novices but fails to develop the metacognitive regulation capacity that transfers to novel contexts.
 
 **Expertise Development and Expert-Novice Differences**: Expert-novice differences in metacognitive regulation are among the most robust findings in cognitive science. Experts monitor more accurately, plan more systematically, deploy a broader and more differentiated strategic repertoire in response to monitoring signals, and evaluate their performance with greater precision. This expertise-regulation relationship is bidirectional: expertise produces better regulation because domain knowledge expands the standard-setting and strategy-selection resources available to monitoring and control; and better regulation accelerates expertise acquisition by making practice more efficiently targeted.
 
-The implication for deliberate practice design is that [[metacognitive-scaffolding|Metacognitive Scaffolding]] — externally provided monitoring and control support — can compensate for immature self-regulatory capacity during skill acquisition while providing models for internalized regulation. [[scaffolding]] that is progressively faded as metacognitive competence develops mirrors the [[zone-of-proximal-development|Zone of Proximal Development]] dynamics identified in Vygotsky's developmental theory.
+The implication for deliberate practice design is that [[Metacognitive Scaffolding|Metacognitive Scaffolding]] — externally provided monitoring and control support — can compensate for immature self-regulatory capacity during skill acquisition while providing models for internalized regulation. [[Scaffolded Fading]] that is progressively faded as metacognitive competence develops mirrors the [[zone-of-proximal-development|Zone of Proximal Development]] dynamics identified in Vygotsky's developmental theory.
 
 ### Implications for Instruction and Intervention
 
@@ -621,9 +621,9 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > - **[[working-memory|Working Memory]]** — The cognitive architecture within which regulatory processes are implemented. The regulatory overhead mechanism identified in Phase IV is grounded in the constraints of working memory capacity.
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — Provides the theoretical basis for the regulatory overhead mechanism: under high extraneous cognitive load, the resources available for metacognitive monitoring and control are reduced. CLT's prescriptions for instructional design intersect directly with the conditions under which metacognitive regulation can operate effectively.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — Provides the theoretical basis for the regulatory overhead mechanism: under high extraneous cognitive load, the resources available for metacognitive monitoring and control are reduced. CLT's prescriptions for instructional design intersect directly with the conditions under which metacognitive regulation can operate effectively.
 >
-> - **[[schema-theory|Schema Theory]]** — Expert-novice differences in metacognitive regulation are mediated in part by schematic knowledge: experts have richer, more automated schemata that free working memory for metacognitive processing, while novices' schematic poverty contributes to both cognitive overload and regulatory poverty.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Expert-novice differences in metacognitive regulation are mediated in part by schematic knowledge: experts have richer, more automated schemata that free working memory for metacognitive processing, while novices' schematic poverty contributes to both cognitive overload and regulatory poverty.
 >
 > **Downstream Applications (this report enables):**
 >
@@ -637,11 +637,11 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Lateral Connections (mutual enrichment):**
 >
-> - **[[elaborative-interrogation|Elaborative Interrogation]]** — EI is a learning strategy that instrumentalizes metacognitive regulation: the why-questions that EI prescribes are monitoring devices (do I understand why this is the case?) and comprehension-construction mechanisms simultaneously.
+> - **[[Elaborative Interrogation|Elaborative Interrogation]]** — EI is a learning strategy that instrumentalizes metacognitive regulation: the why-questions that EI prescribes are monitoring devices (do I understand why this is the case?) and comprehension-construction mechanisms simultaneously.
 >
 > - **[[situation-models-in-text-comprehension|Situation Models in Text Comprehension]]** — The construction of coherent situation models is both a target of metacognitive regulation (monitoring whether a model is being successfully built) and a precondition for accurate monitoring (understanding what an adequate situation model looks like sets the monitoring standard).
 >
-> - **[[extended-mind-theory|Extended Mind Theory]]** — Where metacognitive regulation is internalized cognitive self-governance, extended mind theory asks whether the boundary between self-regulation and environmental scaffolding is principled. The [[metacognitive-scaffolding|Metacognitive Scaffolding]] literature is the applied bridge between these two frameworks.
+> - **[[Extended Mind Thesis (Clark & Chalmers, 1998)|Extended Mind Theory]]** — Where metacognitive regulation is internalized cognitive self-governance, extended mind theory asks whether the boundary between self-regulation and environmental scaffolding is principled. The [[Metacognitive Scaffolding|Metacognitive Scaffolding]] literature is the applied bridge between these two frameworks.
 >
 > - **[[habit-formation|Habit Formation]]** — Effective metacognitive regulation, when practiced consistently in specific contexts, may become habitual — shifting from deliberate regulatory oversight to automatic regulatory routine. The relationship between habituation and regulatory flexibility is theoretically important: automatized regulation is efficient but may be less responsive to novel task demands.
 >
@@ -671,7 +671,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Common Misconception:** Low coupling is frequently attributed to monitoring failure (inaccurate detection), when in practice it may reflect adequate monitoring with absent or blocked control — the Calibration-Action Gap mechanism described in Phase IV.
 >
-> **See also:** [[monitoring-control-coupling|Monitoring-Control Coupling]], [[monitoring-regulation-coupling|Monitoring-Regulation Coupling]], [[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]], [[metacognitive-monitoring|Metacognitive Monitoring]], [[regulation-of-cognition|Regulation of Cognition]]
+> **See also:** [[Monitoring-Control Coupling|Monitoring-Control Coupling]], [[monitoring-regulation-coupling|Monitoring-Regulation Coupling]], [[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]], [[metacognitive-monitoring|Metacognitive Monitoring]], [[regulation-of-cognition|Regulation of Cognition]]
 
 > [!definition] **Calibration (Metacognitive) (Nelson & Narens, 1990; Koriat, 1997)**
 > Metacognitive calibration is the correspondence between metacognitive judgments — JOLs, FOK, confidence ratings — and actual cognitive performance. Perfect calibration (rarely achieved in practice) involves an exact one-to-one correspondence: predicted performance equals actual performance. Overconfidence (predicted > actual) is the most common calibration failure in educational contexts, though underconfidence is documented in specific populations (expert learners in unfamiliar domains; individuals with high anxiety). Calibration is typically measured by the **gamma coefficient** (the rank-order correlation between predicted and actual performance) or by a calibration curve that plots mean confidence against proportional correct.
@@ -682,7 +682,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Research Status:** The calibration literature is extensive and well-established. Consensus findings: (1) most learners are overconfident, (2) calibration improves with domain expertise, (3) calibration can be improved through retrieval-based self-testing and delayed JOL procedures, (4) calibration correlates positively with academic performance.
 >
-> **See also:** [[calibration]], [[metacognitive-calibration|Metacognitive Calibration]], [[metacognitive-accuracy|Metacognitive Accuracy]], [[judgment-of-learning|Judgment of Learning]], [[feeling-of-knowing|Feeling of Knowing]], [[fluency-illusion|Fluency Illusion]]
+> **See also:** [[calibration]], [[metacognitive-calibration|Metacognitive Calibration]], [[metacognitive-accuracy|Metacognitive Accuracy]], [[judgment-of-learning|Judgment of Learning]], [[feeling-of-knowing|Feeling of Knowing]], [[Fluency Illusion|Fluency Illusion]]
 
 > [!definition] **Regulatory Poverty**
 > Regulatory poverty designates the condition in which a learner's metacognitive monitoring accurately detects a performance discrepancy — comprehension failure, strategy inadequacy, goal misalignment — but the learner's strategic repertoire does not include an appropriate corrective response. Regulatory poverty is a form of the Calibration-Action Gap in which the action failure is attributable specifically to strategic knowledge deficiency rather than to motivational interruption or regulatory overhead. The construct is implicit in Brown's (1987) analysis of production deficiency in children and in Schraw's framework, but has not been labeled as such in the mainstream literature.
@@ -718,7 +718,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Common Misconception:** The fluency illusion is sometimes treated as a cognitive bias to be eliminated. A more precise characterization is that fluency is an appropriate monitoring cue in most ordinary conditions but is an inappropriately weighted cue in the conditions characteristic of academic learning — where superficial encounter with material is common and where the fluency-encoding relationship is systematically distorted by re-exposure and by comprehension strategies that prioritize surface-level continuity over deep semantic integration.
 >
-> **See also:** [[fluency-illusion|Fluency Illusion]], [[illusion-of-knowing|Illusion of Knowing]], [[metacognitive-experiences|Metacognitive Experiences]], [[judgment-of-learning|Judgment of Learning]], [[desirable-difficulties|Desirable Difficulties]], [[retrieval-practice|Retrieval Practice]]
+> **See also:** [[Fluency Illusion|Fluency Illusion]], [[illusion-of-knowing|Illusion of Knowing]], [[metacognitive-experiences|Metacognitive Experiences]], [[judgment-of-learning|Judgment of Learning]], [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]], [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]
 
 > [!definition] **Metacognitive Scaffolding (Vygotsky tradition; Wood, Bruner & Ross, 1976)**
 > Metacognitive scaffolding designates externally provided support for regulatory processes that the learner cannot yet execute independently. In contrast to task-level scaffolding (which reduces the difficulty of the target cognitive task), metacognitive scaffolding targets the regulatory processes themselves: guiding planning, providing monitoring prompts, supplying control repertoire suggestions, and structuring evaluation. Metacognitive scaffolding is grounded theoretically in Vygotsky's [[zone-of-proximal-development|Zone of Proximal Development]]: it enables regulatory performance within the learner's ZPD that could not be achieved independently, while providing a model for the internalization of regulatory processes.
@@ -727,7 +727,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Historical Development:** Reciprocal teaching (Palincsar & Brown, 1984) is the most empirically validated form of metacognitive scaffolding in the reading comprehension domain, demonstrating that structured modeling and practice of comprehension monitoring, questioning, summarizing, and predicting produces significant, durable comprehension gains.
 >
-> **See also:** [[metacognitive-scaffolding|Metacognitive Scaffolding]], [[scaffolding]], [[zone-of-proximal-development|Zone of Proximal Development]], [[metacognitive-self-regulation|Metacognitive Self-Regulation]], [[self-directed-learning|Self-Directed Learning]]
+> **See also:** [[Metacognitive Scaffolding|Metacognitive Scaffolding]], [[Scaffolded Fading]], [[zone-of-proximal-development|Zone of Proximal Development]], [[metacognitive-self-regulation|Metacognitive Self-Regulation]], [[self-directed-learning|Self-Directed Learning]]
 
 > [!definition] **The Regulatory Reflexivity Problem**
 > The regulatory reflexivity problem designates the structural challenge that metacognitive regulation, being itself a cognitive process, is subject to the same monitoring and control demands as any other cognitive process — generating an apparent regress in which the regulation of regulation would require further regulation, ad infinitum. The problem is not merely philosophical: it has practical manifestations in the difficulty of evaluating one's own regulatory effectiveness (evaluating evaluation), and in the tendency for regulatory processes to become themselves objects of meta-regulatory concern in ways that generate anxiety and reduced regulatory efficacy.
@@ -741,7 +741,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Research Status:** Monitoring-regulation decoupling is documented in several empirical contexts: strategy selection studies in which accurate comprehension monitoring does not produce strategy switching (Pressley et al., 1985); metacognitive calibration studies in which good JOL accuracy does not predict more adaptive allocation of study time (Metcalfe & Finn, 2008).
 >
-> **See also:** [[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]], [[monitoring-control-coupling|Monitoring-Control Coupling]], [[monitoring-gap|Monitoring Gap]], [[calibration]], [[metacognitive-regulation|Metacognitive Regulation]]
+> **See also:** [[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]], [[Monitoring-Control Coupling|Monitoring-Control Coupling]], [[monitoring-gap|Monitoring Gap]], [[calibration]], [[metacognitive-regulation|Metacognitive Regulation]]
 
 > [!definition] **Declarative, Procedural, and Conditional Metacognitive Knowledge (Paris, Lipson & Wixson, 1983; Schraw & Moshman, 1995)**
 > The taxonomy of [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]] designates three functionally distinct knowledge types within the knowledge-of-cognition dimension of metacognition. **Declarative** metacognitive knowledge is factual knowledge about cognitive processes and strategies ("I know that distributed practice improves retention more than massed practice"). **Procedural** metacognitive knowledge is knowledge of how to implement strategies ("I know how to create and execute a distributed practice schedule"). **Conditional** metacognitive knowledge is knowledge of when and why to use particular strategies ("I know that distributed practice is most beneficial when retention over a long interval is the goal, and less necessary for short-term performance"). Conditional metacognitive knowledge is the most sophisticated type, requiring integration of declarative and procedural knowledge with task context assessment, and it is the type most predictive of adaptive strategy selection.
@@ -819,7 +819,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **This Report's Position:** Both accuracy and validity are necessary but neither is sufficient. Effective monitoring requires both attending to the right dimensions of cognitive performance and accurately assessing those dimensions.
 >
-> **See also:** [[calibration]], [[metacognitive-monitoring|Metacognitive Monitoring]], [[fluency-illusion|Fluency Illusion]], [[metacognitive-accuracy|Metacognitive Accuracy]]
+> **See also:** [[calibration]], [[metacognitive-monitoring|Metacognitive Monitoring]], [[Fluency Illusion|Fluency Illusion]], [[metacognitive-accuracy|Metacognitive Accuracy]]
 
 > [!tension] **Domain-Generality vs. Domain-Specificity of Metacognitive Regulation**
 >
@@ -835,7 +835,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **This Report's Position:** A mixture: there are general regulatory dispositions and domain-specific regulatory competences; the general dispositions provide the infrastructure, but effective deployment requires domain-specific knowledge of standards and strategies.
 >
-> **See also:** [[transfer-of-learning|Transfer of Learning]], [[metacognitive-self-regulation|Metacognitive Self-Regulation]], [[schema-theory|Schema Theory]], [[expertise]], [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]]
+> **See also:** [[transfer-of-learning|Transfer of Learning]], [[metacognitive-self-regulation|Metacognitive Self-Regulation]], [[schema-theory-and-knowledge-organization|Schema Theory]], [[expertise]], [[Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge|Declarative, Procedural, and Conditional Metacognitive Knowledge]]
 
 > [!tension] **Regulatory Consciousness: Deliberate vs. Automatic**
 >
@@ -1133,14 +1133,14 @@ For the self-directed learner, the operative implications of this analysis are d
 > > **Suggested Type:** Focused Analysis
 > > **Prerequisites:** [[metacognitive-regulation|Metacognitive Regulation]], [[metacognitive-monitoring|Metacognitive Monitoring]], [[nelson-narens-model|Nelson-Narens Model]]
 
-> > [!topic-idea] [[metacognitive-scaffolding|Metacognitive Scaffolding]]
+> > [!topic-idea] [[Metacognitive Scaffolding|Metacognitive Scaffolding]]
 > > **Description:** A foundational report on metacognitive scaffolding as an instructional strategy — covering reciprocal teaching (Palincsar & Brown), cognitive apprenticeship, self-explanation training, and the design principles for scaffolding that fades appropriately as metacognitive regulation becomes autonomous. The scaffolding literature connects to Vygotsky's ZPD, to the expertise literature (expert models of regulation), and to instructional design. This report has treated scaffolding as an application; a dedicated report would provide the theoretical and empirical foundation in detail.
 > >
 > > **Connection to This Report:** Phase V's applications section and the Metacognitive Scaffolding lexicon entry flag this as a high-value expansion.
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[metacognitive-regulation|Metacognitive Regulation]], [[scaffolding]], [[zone-of-proximal-development|Zone of Proximal Development]]
+> > **Prerequisites:** [[metacognitive-regulation|Metacognitive Regulation]], [[Scaffolded Fading]], [[zone-of-proximal-development|Zone of Proximal Development]]
 
 > > [!topic-idea] [[monitoring-regulation-decoupling|Monitoring-Regulation Decoupling]]
 > > **Description:** A focused analysis on the empirical documentation and theoretical explanation of monitoring-regulation decoupling — the condition in which accurate monitoring fails to produce adaptive control. This would cover Metcalfe & Finn's research on study time allocation despite accurate JOLs, Pressley et al.'s strategy-switching research, and the broader question of what additional factors (beyond monitoring accuracy) are necessary for adaptive regulatory response. This is directly implied by the Calibration-Action Gap construct developed in this report and would provide the empirical grounding for that construct.
@@ -1198,9 +1198,9 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > - **[[working-memory|Working Memory]]** — The cognitive architecture within which regulatory processes are implemented. The regulatory overhead mechanism is grounded in working memory capacity constraints, and the Baddeley model's central executive is the closest cognitive-level analog to metacognitive control.
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — CLT's account of intrinsic, extraneous, and germane load intersects with metacognitive regulation at the regulatory overhead mechanism and at the conditions under which metacognitive scaffolding is most beneficial.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — CLT's account of intrinsic, extraneous, and germane load intersects with metacognitive regulation at the regulatory overhead mechanism and at the conditions under which metacognitive scaffolding is most beneficial.
 >
-> - **[[schema-theory|Schema Theory]]** — Expert schemas free working memory for metacognitive processing; novice schematic poverty contributes to both high cognitive load and regulatory poverty. Schema automation is a prerequisite for the metacognitive capacity that permits sophisticated regulation.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Expert schemas free working memory for metacognitive processing; novice schematic poverty contributes to both high cognitive load and regulatory poverty. Schema automation is a prerequisite for the metacognitive capacity that permits sophisticated regulation.
 >
 > - **[[self-efficacy]]** — Shapes the motivational interruption mechanism of the Calibration-Action Gap: low self-efficacy produces difficulty-triggered avoidance rather than engagement, blocking the control response that accurate monitoring should trigger.
 >
@@ -1214,7 +1214,7 @@ For the self-directed learner, the operative implications of this analysis are d
 >
 > **Lateral Connections (mutual enrichment):**
 >
-> - **[[elaborative-interrogation|Elaborative Interrogation]]** — EI is both a control strategy (a corrective response to monitoring failure) and a monitoring device (the why-question probes depth of understanding). The EI report and this report illuminate each other directly.
+> - **[[Elaborative Interrogation|Elaborative Interrogation]]** — EI is both a control strategy (a corrective response to monitoring failure) and a monitoring device (the why-question probes depth of understanding). The EI report and this report illuminate each other directly.
 >
 > - **[[habit-formation|Habit Formation]]** — The relationship between habitized regulation (where regulatory routines become automatic) and flexible regulation (responsive to novel demands) is an underexplored frontier that [[habit-formation|Habit Formation]] and this report address from complementary directions.
 >
@@ -1258,6 +1258,6 @@ For the self-directed learner, the operative implications of this analysis are d
 > - Two wiki-links are flagged as potentially absent from the registry: `[[Vocabulary-Building-Through-Reading|Vocabulary Building Through Reading]]` ⚠ and `[[Motivational Inner Speech]]` ⚠ — these were not found in the 2026-03-19 registry and have been omitted from the report body to maintain link integrity.
 >
 > **Recommendations for Future Revision:**
-> - Add a developmental sub-section to Phase III covering Flavell's empirical work on metacognitive development in children, with connection to [[zone-of-proximal-development|Zone of Proximal Development]] and [[scaffolding]] research.
+> - Add a developmental sub-section to Phase III covering Flavell's empirical work on metacognitive development in children, with connection to [[zone-of-proximal-development|Zone of Proximal Development]] and [[Scaffolded Fading]] research.
 > - Add a neuropsychological section connecting metacognitive regulation to executive function and prefrontal cortex architecture.
 > - Develop the Calibration-Action Gap construct empirically through a dedicated focused analysis report that surveys existing evidence for monitoring-regulation decoupling.

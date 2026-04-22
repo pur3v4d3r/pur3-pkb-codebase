@@ -165,14 +165,14 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[schema-theory]]"
-  - "[[cognitive-architecture]]"
+  - "[[schema-theory-and-knowledge-organization]]"
+  - "[[Cognitive Architecture]]"
   - "[[long-term-memory]]"
 
 foundational-report: "[[schema-theory-and-learning-foundational-report-2026-03-06]]"
 
 related:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[advance-organizer]]"
   - "[[conceptual-change]]"
   - "[[situated-learning]]"
@@ -181,19 +181,19 @@ related:
   - "[[analogical-reasoning]]"
 
 broader:
-  - "[[cognitive-architecture]]"
+  - "[[Cognitive Architecture]]"
   - "[[educational-psychology]]"
 
 narrower:
   - "[[schema-accommodation]]"
-  - "[[schema-automation]]"
-  - "[[schema-construction]]"
+  - "[[Schema Automation]]"
+  - "[[Schema Construction]]"
 
 see-also:
   - "[[conceptual-change]]"
   - "[[cognitive-disequilibrium]]"
   - "[[dual-coding-theory]]"
-  - "[[levels-of-processing]]"
+  - "[[levels-of-processing-theory]]"
 
 contrasts-with:
   - "[[embodied-cognition]]"
@@ -207,7 +207,7 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[frederic-bartlett]]"
   - "[[rumelhart]]"
 
@@ -222,7 +222,7 @@ expansion-topics:
   - topic: "[[embodied-cognition]]"
     description: "The reconstructed schema theory points toward embodied grounding — this node would deepen the philosophical challenge"
     priority: "high"
-  - topic: "[[productive-failure]]"
+  - topic: "[[Productive Failure]]"
     description: "Manu Kapur's productive failure research provides empirical grounding for the schema-disruption-as-learning-engine reconstruction"
     priority: "high"
   - topic: "[[Schema-Construction-Problem-—-Original-Analytical-Insight]]"
@@ -297,9 +297,9 @@ generation-date: "2026-03-22"
 ## Phase I: Orientation & Thesis Articulation
 
 > [!ask-yourself-this] **Schema Activation — Before You Begin**
-> Before reading this re-examination, pause and articulate what you currently believe about [[schema-theory]]. In your own words: what is a schema? How do schemas form? How do they govern understanding? What happens when new information doesn't fit an existing schema? Write this down — not just in your head, but on paper or in a note. The comparison between what you record now and where you stand after the dialectical process is precisely where the deepest learning lives. The goal is not to change your mind gratuitously, but to discover which of your convictions survive scrutiny and which reveal themselves as more fragile than expected.
+> Before reading this re-examination, pause and articulate what you currently believe about [[schema-theory-and-knowledge-organization]]. In your own words: what is a schema? How do schemas form? How do they govern understanding? What happens when new information doesn't fit an existing schema? Write this down — not just in your head, but on paper or in a note. The comparison between what you record now and where you stand after the dialectical process is precisely where the deepest learning lives. The goal is not to change your mind gratuitously, but to discover which of your convictions survive scrutiny and which reveal themselves as more fragile than expected.
 
-There is a persistent anomaly in how [[schema-theory]] is taught and applied. The theory is almost universally described as foundational — the organizing framework for understanding comprehension, learning, memory, expertise, and reading. Textbooks present schemas as so obviously correct that students rarely encounter a serious challenge to the theory. Yet practitioners who work closely with learners — teachers confronting the expert blind spot, instructional designers frustrated by inert knowledge, cognitive scientists grappling with the construction problem — repeatedly encounter situations that the standard schema account predicts poorly or not at all. Something is giving way under the weight of application, and most treatments of schema theory decline to look carefully at the cracks.
+There is a persistent anomaly in how [[schema-theory-and-knowledge-organization]] is taught and applied. The theory is almost universally described as foundational — the organizing framework for understanding comprehension, learning, memory, expertise, and reading. Textbooks present schemas as so obviously correct that students rarely encounter a serious challenge to the theory. Yet practitioners who work closely with learners — teachers confronting the expert blind spot, instructional designers frustrated by inert knowledge, cognitive scientists grappling with the construction problem — repeatedly encounter situations that the standard schema account predicts poorly or not at all. Something is giving way under the weight of application, and most treatments of schema theory decline to look carefully at the cracks.
 
 This re-examination is designed precisely to look at the cracks — not to demolish schema theory (the evidence for schemas is real and substantial), but to discover which elements of the received view genuinely survive rigorous scrutiny and which require rebuilding. What emerges from that process is understanding that has been *earned*, not merely received.
 
@@ -321,7 +321,7 @@ The received view can be stated with precision. A **schema** is an abstract, gen
 >
 > **Etymology**: From the Greek σχῆμα (skhēma), meaning "form" or "shape." [[bartlett]] borrowed the term from Henry Head's neurological work, applying it to the organized psychological structures that shape remembering.
 >
-> **Cross-References**: [[schema-accommodation]], [[schema-automation]], [[assimilation-and-accommodation]], [[long-term-memory]]
+> **Cross-References**: [[schema-accommodation]], [[Schema Automation]], [[assimilation-and-accommodation]], [[long-term-memory]]
 
 The three canonical processes of schema change — **accretion** (adding new information to an existing schema without modifying its structure), **tuning** (adjusting variable constraints or default values within a schema), and **restructuring** (forming qualitatively new schemas when existing ones fail) — represent the standard account of how learning proceeds. [[Accretion,-Tuning,-Restructuring]] constitutes the full developmental arc, from expert-like automation at one end (schemas so well-tuned they operate below conscious awareness) to the effortful reconstruction that accompanies genuine conceptual change at the other.
 
@@ -406,7 +406,7 @@ The first is what philosophers of cognitive science call the **representation as
 > [!tension-identified] **The Grounding Tension: Abstract Schemas vs. Embodied Simulation**
 > Schema theory requires that knowledge be represented in a format that is abstract — free of specific perceptual qualities — because the same "restaurant schema" must be activated by a written description, a verbal mention, a photo, a smell of cooking, or the sight of tables and chairs. This abstraction requirement is what makes schemas generalizable. But Barsalou's and others' evidence suggests that "concepts" involve re-running perceptual and motor simulations, not retrieving amodal representations. The tension is genuine: if concepts are embodied simulations, schemas cannot be the abstract data structures the received view requires. If schemas are abstract, they require a level of cognitive processing that embodied cognition theorists argue has no independent existence. Neither position is obviously wrong, and the resolution will require reconceiving what "abstraction" means.
 
-The second philosophical vulnerability is the **construction problem** — arguably the deepest challenge schema theory faces. The problem is this: [[schema-construction]] is explained by schema theory through processes of assimilation and accommodation. New information is either assimilated into an existing schema (extending it) or triggers accommodation (modifying an existing schema). But the very first schema a child acquires cannot be formed by assimilation or accommodation — there is no prior schema to assimilate into or accommodate from. Schema theory presupposes schemas in the account of schema formation. This is not a trivial technical problem but a foundational regress: if schemas explain all learning, what explains the initial acquisition of schemas?
+The second philosophical vulnerability is the **construction problem** — arguably the deepest challenge schema theory faces. The problem is this: [[Schema Construction]] is explained by schema theory through processes of assimilation and accommodation. New information is either assimilated into an existing schema (extending it) or triggers accommodation (modifying an existing schema). But the very first schema a child acquires cannot be formed by assimilation or accommodation — there is no prior schema to assimilate into or accommodate from. Schema theory presupposes schemas in the account of schema formation. This is not a trivial technical problem but a foundational regress: if schemas explain all learning, what explains the initial acquisition of schemas?
 
 > [!assumption-challenge] **Hidden Assumption 2: Schemas Can Account for Their Own Genesis**
 > **The assumption**: The received view implicitly assumes that the processes of [[schema-accommodation]] and schema assimilation are sufficient to explain how all schemas — including the first, most primitive ones — come into existence.
@@ -424,12 +424,12 @@ Perhaps the most practically consequential challenge to schema theory comes not 
 The first is the **expert blind spot** — the well-documented finding (Nathan & Petrosino, 2003) that subject-matter experts are systematically *worse* instructors of novices precisely because their richly developed schemas make novice confusions invisible to them. Experts have so thoroughly automated their domain schemas that the perceptual and inferential moves novices struggle with are simply not visible as moves — they are automatic, sub-threshold operations. Schema theory predicts that experts should be *better* instructors because they possess the most elaborated schemas. The evidence says otherwise. This is not a minor anomaly; it is a direct prediction failure.
 
 > [!analytical-insight] **Schema Automation as an Instructional Liability**
-> The [[schema-automation]] that schema theory celebrates as the hallmark of expertise — schemas operating below the threshold of consciousness, enabling fluent performance — is simultaneously what makes expert instructors systematically less able to perceive where novices are confused. The schema theory narrative treats automation as pure gain. But automation involves a loss: the ability to attend to the intermediate steps that novices need to see. The instructional challenge is not to have the richest possible schemas; it is to maintain access to the partially automated states that allow genuine pedagogical contact with novice mental states. This suggests that the optimal instructional schema is neither novice nor fully expert, but what might be called *pedagogical intermediate expertise* — a hard state to cultivate and maintain.
+> The [[Schema Automation]] that schema theory celebrates as the hallmark of expertise — schemas operating below the threshold of consciousness, enabling fluent performance — is simultaneously what makes expert instructors systematically less able to perceive where novices are confused. The schema theory narrative treats automation as pure gain. But automation involves a loss: the ability to attend to the intermediate steps that novices need to see. The instructional challenge is not to have the richest possible schemas; it is to maintain access to the partially automated states that allow genuine pedagogical contact with novice mental states. This suggests that the optimal instructional schema is neither novice nor fully expert, but what might be called *pedagogical intermediate expertise* — a hard state to cultivate and maintain.
 
 The second practical failure is **instructional rigidity** — the documented tendency for schema-based pedagogy to produce knowledge that is context-bound, inflexible, and resistant to transfer. If instruction systematically activates existing schemas and adds new information to them (accretion, in Rumelhart & Norman's terms), the result is an elaborated schema that works well in contexts similar to the instruction context but fails in novel situations requiring structural transfer. The schema-as-data-structure model tends to produce inert knowledge: information that students can reproduce on tests but cannot deploy when the surface features of a problem differ from the training context.
 
 > [!what-the-evidence-suggests] **What Practical Experience Reveals About Schema Pedagogy**
-> Decades of instructional research consistently show that the most durable and transferable learning occurs not when schemas are smoothly activated and enriched but when learners encounter productive failure — situations where existing schemas are insufficient and the learner must engage in genuine problem-solving without an adequate framework. [[productive-failure]] (Kapur, 2016) research demonstrates that novices who attempt problems before instruction — who experience their schemas failing — subsequently learn more deeply from instruction than those who receive instruction first. This directly contradicts the schema-first-then-practice prescription the received view implies. The pedagogical implication of the received view (activate schemas, then build on them) appears to be inferior to the implication of the reconstructed view (allow schema inadequacy to be felt, then provide restructuring resources).
+> Decades of instructional research consistently show that the most durable and transferable learning occurs not when schemas are smoothly activated and enriched but when learners encounter productive failure — situations where existing schemas are insufficient and the learner must engage in genuine problem-solving without an adequate framework. [[Productive Failure]] (Kapur, 2016) research demonstrates that novices who attempt problems before instruction — who experience their schemas failing — subsequently learn more deeply from instruction than those who receive instruction first. This directly contradicts the schema-first-then-practice prescription the received view implies. The pedagogical implication of the received view (activate schemas, then build on them) appears to be inferior to the implication of the reconstructed view (allow schema inadequacy to be felt, then provide restructuring resources).
 
 ### The Critical Challenge: Bartlett's Lost Cultural Critique
 
@@ -602,9 +602,9 @@ The dialectical process has revealed several structural patterns that operate in
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[schema-theory-and-learning]]** — This dialectical re-examination presupposes and extends the foundational treatment. The foundational report maps the schema theory landscape; this report stress-tests it. Where the foundational report presents the received account of [[schema-accommodation]] and [[schema-automation]], this report now reframes both through the attractor lens. Read together, the two reports produce a genuinely more sophisticated understanding than either alone.
+> - **[[schema-theory-and-learning]]** — This dialectical re-examination presupposes and extends the foundational treatment. The foundational report maps the schema theory landscape; this report stress-tests it. Where the foundational report presents the received account of [[schema-accommodation]] and [[Schema Automation]], this report now reframes both through the attractor lens. Read together, the two reports produce a genuinely more sophisticated understanding than either alone.
 >
-> - **[[cognitive-load-theory]]** — The reconstructed schema account has direct implications for CLT's germane load concept. If schemas are emergent attractors rather than pre-formed data structures, "germane cognitive load" — load associated with schema construction — is better understood as the cognitive work of statistical regularization and attractor formation. This changes what instructional designs should aim to produce: not schemas per se, but distributed, varied practice that shapes the attractor landscape.
+> - **[[Cognitive Load Theory (CLT)]]** — The reconstructed schema account has direct implications for CLT's germane load concept. If schemas are emergent attractors rather than pre-formed data structures, "germane cognitive load" — load associated with schema construction — is better understood as the cognitive work of statistical regularization and attractor formation. This changes what instructional designs should aim to produce: not schemas per se, but distributed, varied practice that shapes the attractor landscape.
 >
 > - **[[advance-organizer]]** — The received view's most direct pedagogical application. The dialectical process partially challenges advance organizer theory: if activating prior schemas primes assimilation rather than restructuring, advance organizers may be counterproductive for conceptual change goals. The implication is that advance organizers should be used strategically — appropriate for accretion and tuning goals, but potentially replaced by productive disruption experiences when restructuring is the target.
 >
@@ -633,19 +633,19 @@ The dialectical process has revealed several structural patterns that operate in
 > **Report-Specific Significance**: The unit whose foundational status was subjected to scrutiny; survived as a real phenomenon but was repositioned from foundational primitive to emergent product.
 > **Operational Indicators**: Inference of unstated information; false memory of schema-consistent details; expert perceptual chunking; cultural distortion in recall.
 > **Etymology**: Greek σχῆμα (form, shape). Bartlett borrowed from Henry Head's neurological work.
-> **Cross-References**: [[schema-theory]], [[schema-accommodation]], [[schema-automation]], [[schema-construction]]
+> **Cross-References**: [[schema-theory-and-knowledge-organization]], [[schema-accommodation]], [[Schema Automation]], [[Schema Construction]]
 
 > [!definition] **Construction Problem** (original analytical contribution of this report)
 > **Definition**: The unresolved difficulty that schema theory cannot explain the origin of schemas without presupposing schemas. If all learning is mediated by schemas (through assimilation or accommodation), the formation of the first schema is inexplicable within schema theory's own resources. NOT merely an abstract philosophical puzzle; it reveals the limits of schema theory's foundational claim. After this re-examination, dissolved by the attractor account (schemas are emergent from statistical learning, not foundational primitives).
 > **Report-Specific Significance**: Identified as the deepest philosophical challenge to schema theory's foundational status.
 > **Operational Indicators**: Difficulties arise when attempting to explain how children acquire domain-specific schemas in genuinely novel domains (e.g., first exposure to formal mathematics).
-> **Cross-References**: [[schema-construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[assimilation-and-accommodation]]
+> **Cross-References**: [[Schema Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[assimilation-and-accommodation]]
 
 > [!definition] **Schema Attractor** (reconstructive concept — this report)
 > **Definition**: A reconceptualization of schemas as soft stable states (attractors) in a cognitive landscape shaped by statistical learning over embodied, culturally situated experience. Unlike a data structure (discrete, pre-formed, retrieved), an attractor is reconstructed on each instantiation, is sensitive to context (the full constellation of current cues), and emerges from regularization over distributed experience. NOT identical to a connectionist "attractor network" in the technical sense, though informed by that architecture.
 > **Report-Specific Significance**: The core reconstructive synthesis — what schemas *are*, once the received data-structure account fails.
 > **Operational Indicators**: Context-sensitivity of schema "activation"; cultural variation in schema content; gradual emergence of expert pattern recognition through distributed practice.
-> **Cross-References**: [[schema-theory]], [[situated-learning]], [[embodied-cognition]]
+> **Cross-References**: [[schema-theory-and-knowledge-organization]], [[situated-learning]], [[embodied-cognition]]
 
 > [!definition] **Productive Failure** (Kapur, 2016)
 > **Definition**: An instructional design approach in which learners attempt to solve problems *before* receiving formal instruction, thereby experiencing schema inadequacy prior to receiving restructuring resources. Empirically demonstrated to produce deeper conceptual understanding than instruction-first approaches for restructuring goals, despite (because of) initial failure. NOT appropriate for all learning goals — primarily effective when restructuring rather than accretion is the target.
@@ -657,7 +657,7 @@ The dialectical process has revealed several structural patterns that operate in
 > **Definition**: The systematic tendency for subject-matter experts to be worse instructors of novices in proportion to the depth of their schematic automatization — because automated schemas operate below the threshold of conscious attention, the intermediate states that novices need to see are invisible to experts. NOT a failure of intelligence or motivation; a structural consequence of schema automation. Resolved not by de-automation but by cultivating pedagogical intermediate expertise.
 > **Report-Specific Significance**: The practical prediction failure that motivated the practical lens challenge; reveals the instructional liability of schema automation.
 > **Operational Indicators**: Expert instructors expressing frustration at novice confusions they cannot understand; expert explanations that skip the steps novices find most difficult.
-> **Cross-References**: [[schema-automation]], [[expertise-reversal-effect]], [[Pedagogical-Content-Knowledge]]
+> **Cross-References**: [[Schema Automation]], [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], [[Pedagogical-Content-Knowledge]]
 
 > [!definition] **Accretion, Tuning, Restructuring** (Rumelhart & Norman, 1978)
 > **Definition**: The three mechanisms of schema change. Accretion adds information to an existing schema without modifying its structure. Tuning adjusts variable constraints or default values. Restructuring creates qualitatively new schema organizations when existing schemas fail. After this re-examination: the restructuring mechanism is dramatically underdescribed by the term itself; genuine restructuring is better captured by conceptual change theory's revolutionary account.
@@ -978,7 +978,7 @@ The dialectical process has revealed several structural patterns that operate in
 > > **Connection to This Report**: The reconstructed understanding's schema-disruption pedagogical inversion is partly grounded in conceptual change conditions; this node would formalize and deepen that grounding.
 > > **Priority**: Critical
 > > **Suggested Report Type**: Focused Analysis
-> > **Prerequisites**: [[schema-theory]], [[cognitive-disequilibrium]]
+> > **Prerequisites**: [[schema-theory-and-knowledge-organization]], [[cognitive-disequilibrium]]
 >
 > > [!topic-idea] [[embodied-cognition]]
 > > The philosophical challenge to schema theory's representationalist assumption drew on embodied cognition research (Varela, Thompson & Rosch; Barsalou's perceptual symbol systems). A full treatment of this node would provide the foundational alternative framework that the reconstruction gestures toward but does not develop fully — particularly Barsalou's grounded cognition account and its implications for how "schemas" should be reconceived.
@@ -986,15 +986,15 @@ The dialectical process has revealed several structural patterns that operate in
 > > **Connection to This Report**: The primary philosophical challenge target; completing this node would deepen the philosophical dimension of the reconstruction.
 > > **Priority**: High
 > > **Suggested Report Type**: Foundational Report
-> > **Prerequisites**: [[schema-theory]], [[cognitive-architecture]]
+> > **Prerequisites**: [[schema-theory-and-knowledge-organization]], [[Cognitive Architecture]]
 >
-> > [!topic-idea] [[productive-failure]]
+> > [!topic-idea] [[Productive Failure]]
 > > Manu Kapur's productive failure research program provides the empirical grounding for the schema-disruption-before-resources pedagogical prescription that emerged from this re-examination. A focused analysis would examine the specific conditions under which productive failure outperforms direct instruction, the mechanisms of its superiority, and the instructional design implications for different learning objectives.
 > >
 > > **Connection to This Report**: The primary empirical support for the reconstruction's pedagogical inversion; this node would constitute the empirical companion to this report's theoretical argument.
 > > **Priority**: High
 > > **Suggested Report Type**: Focused Analysis
-> > **Prerequisites**: [[schema-theory]], [[conceptual-change]]
+> > **Prerequisites**: [[schema-theory-and-knowledge-organization]], [[conceptual-change]]
 >
 > > [!topic-idea] [[situated-learning]]
 > > The situated cognition alternative framework received only abbreviated treatment in this re-examination. A foundational report on Lave & Wenger's legitimate peripheral participation model and Brown, Collins & Duguid's situated cognition perspective would deepen the "distributed schema" alternative and its implications for PKB design — particularly the question of whether a PKB can genuinely scaffold the kind of socially embedded knowledge development that situated learning theory identifies as foundational.
@@ -1002,7 +1002,7 @@ The dialectical process has revealed several structural patterns that operate in
 > > **Connection to This Report**: The second alternative framework; completing this node would provide the social-cultural dimension that the reconstructed account needs.
 > > **Priority**: Medium
 > > **Suggested Report Type**: Foundational Report
-> > **Prerequisites**: [[schema-theory]], [[Scaffolding-—-Instructional-Design]]
+> > **Prerequisites**: [[schema-theory-and-knowledge-organization]], [[Scaffolding-—-Instructional-Design]]
 
 ---
 

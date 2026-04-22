@@ -29,7 +29,7 @@ provenance:
 >
 > **Report-Specific Significance:** The meta-level's status as an imperfect modeler — rather than a perfect observer — is the architectural commitment from which the framework's most important predictions derive.
 >
-> **See also:** [[Meta-Level-Object-Level-Model]], [[meta-levelobject-level-architecture]], [[cognitive-architecture]]
+> **See also:** [[Meta-Level-Object-Level-Model]], [[meta-levelobject-level-architecture]], [[Cognitive Architecture]]
 
 ## Core Explanation
 
@@ -40,7 +40,7 @@ provenance:
 >
 > **Report-Specific Significance:** The meta-level's status as an imperfect modeler — rather than a perfect observer — is the architectural commitment from which the framework's most important predictions derive.
 >
-> **See also:** [[Meta-Level-Object-Level-Model]], [[meta-levelobject-level-architecture]], [[cognitive-architecture]]
+> **See also:** [[Meta-Level-Object-Level-Model]], [[meta-levelobject-level-architecture]], [[Cognitive Architecture]]
 > *— [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]*
 
 > [!evidence] Meta-Level (Nelson & Narens, 1990)
@@ -50,12 +50,12 @@ provenance:
 >
 > **Report-Specific Significance:** The meta-level's imperfect modeling is the architectural property from which the framework's most productive predictions derive.
 >
-> **See also:** [[Meta-Level-Object-Level-Model]], [[meta-levelobject-level-architecture]], [[cognitive-architecture]]
+> **See also:** [[Meta-Level-Object-Level-Model]], [[meta-levelobject-level-architecture]], [[Cognitive Architecture]]
 > *— [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]*
 
 ## Connections
 
-**Related:** [[Asher-Koriat]] · [[Calibration-Training-Methods-and-Evidence]] · [[Collective-Metacognition-and-Epistemic-Institutions]] · [[Computational-Modeling-of-Metacognitive-Control-uses-cognitive-architectures-lik]] · [[Desirable-Difficulties-—-Bjork]] · [[Ease-of-Learning-—-EOL]] · [[Feeling-of-Knowing-—-FOK]] · [[Flavell's-Metacognitive-Framework]] · [[Judgment-of-Learning-—-JOL]] · [[Meta-Level-Object-Level-Model]] · [[Metacognition-&-Motivation]] · [[Metacognition-and-Memory-Monitoring]] · [[Metacognition-—-Foundational-Concepts]] · [[Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy]] · [[Metacognitive-Monitoring-Accuracy-and-Calibration]] · [[Philip-Winne]] · [[Pintrich's-Integrative-SRL-Framework]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[ann-brown]] · [[barry-zimmerman]] · [[calibration]] · [[cognitive-architecture]] · [[cognitive-control-mechanisms]] · [[comprehension-monitoring]] · [[cue-utilization-framework]] · [[declarative-metacognitive-knowledge]] · [[encoding]] · [[epistemic-calibration]] · [[extended-metacognition]] · [[externalized-metacognition]] · [[feedback-design]] · [[flavell-metacognition-framework]] · [[fluency-illusion]] · [[forethought-phase]] · [[illusion-of-knowing]] · [[information-processing-theory]] · [[intrinsic-motivation]] · [[introduction-to-metacognition]] · [[john-flavell]] · [[john-h.-flavell]] · [[long-term-memory]] · [[louis-narens]] · [[meta-level]] · [[meta-levelobject-level-architecture]] · [[metacognition-and-self-regulated-learning]] · [[metacognitive-awareness]] · [[metacognitive-control]] · [[metacognitive-experience]] · [[metacognitive-experiences]] · [[metacognitive-judgments]] · [[metacognitive-knowledge]] · [[metacognitive-monitoring]] · [[metacognitive-monitoring-accuracy]] · [[metacognitive-regulation]] · [[original-synthesis-the-metacognitive-monitoring-paradox]] · [[paul-pintrich]] · [[performance-phase]] · [[processing-fluency]] · [[retrieval-practice]] · [[self-efficacy]] · [[self-efficacy-calibration]] · [[self-monitoring-vs.-illusion-of-knowing]] · [[self-reflection-phase]] · [[self-regulated-learning]] · [[spaced-repetition]] · [[the-fluency-illusion]] · [[thomas-nelson]] · [[transfer-of-learning]] · [[working-memory]]
+**Related:** [[Asher-Koriat]] · [[Calibration-Training-Methods-and-Evidence]] · [[Collective-Metacognition-and-Epistemic-Institutions]] · [[Computational-Modeling-of-Metacognitive-Control-uses-cognitive-architectures-lik]] · [[Desirable-Difficulties-—-Bjork]] · [[Ease-of-Learning-—-EOL]] · [[Feeling-of-Knowing-—-FOK]] · [[Flavell's-Metacognitive-Framework]] · [[Judgment-of-Learning-—-JOL]] · [[Meta-Level-Object-Level-Model]] · [[Metacognition-&-Motivation]] · [[Metacognition-and-Memory-Monitoring]] · [[Metacognition-—-Foundational-Concepts]] · [[Metacognitive-Knowledge-—-Flavell's-Tripartite-Taxonomy]] · [[Metacognitive-Monitoring-Accuracy-and-Calibration]] · [[Philip-Winne]] · [[Pintrich's-Integrative-SRL-Framework]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[ann-brown]] · [[barry-zimmerman]] · [[calibration]] · [[Cognitive Architecture]] · [[cognitive-control-mechanisms]] · [[comprehension-monitoring]] · [[cue-utilization-framework]] · [[declarative-metacognitive-knowledge]] · [[encoding]] · [[epistemic-calibration]] · [[extended-metacognition]] · [[externalized-metacognition]] · [[feedback-design]] · [[flavell-metacognition-framework]] · [[Fluency Illusion]] · [[forethought-phase]] · [[illusion-of-knowing]] · [[information-processing-theory]] · [[Intrinsic Motivation]] · [[introduction-to-metacognition]] · [[john-flavell]] · [[john-h.-flavell]] · [[long-term-memory]] · [[louis-narens]] · [[meta-level]] · [[meta-levelobject-level-architecture]] · [[metacognition-and-self-regulated-learning]] · [[metacognitive-awareness]] · [[metacognitive-control]] · [[metacognitive-experience]] · [[metacognitive-experiences]] · [[metacognitive-judgments]] · [[metacognitive-knowledge]] · [[metacognitive-monitoring]] · [[metacognitive-monitoring-accuracy]] · [[metacognitive-regulation]] · [[original-synthesis-the-metacognitive-monitoring-paradox]] · [[paul-pintrich]] · [[performance-phase]] · [[processing-fluency]] · [[Desirable Difficulties (Robert Bjork, 1994)]] · [[self-efficacy]] · [[self-efficacy-calibration]] · [[self-monitoring-vs.-illusion-of-knowing]] · [[self-reflection-phase]] · [[self-regulated-learning]] · [[spaced-repetition]] · [[the-fluency-illusion]] · [[thomas-nelson]] · [[transfer-of-learning]] · [[working-memory]]
 
 ```dataview
 LIST FROM [[Meta-Level (Nelson & Narens, 1990)]]

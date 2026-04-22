@@ -957,7 +957,7 @@ tags:
   - self-regulation/theory/self-determination
   
 Related theories:
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[growth-mindset]]
 ```
 

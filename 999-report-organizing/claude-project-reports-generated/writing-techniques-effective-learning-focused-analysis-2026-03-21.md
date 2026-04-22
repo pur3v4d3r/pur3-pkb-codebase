@@ -19,13 +19,13 @@ secondary_domains:
   - writing-pedagogy
 related_concepts:
   - "[[writing-to-learn]]"
-  - "[[desirable-difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[generation-effect]]"
   - "[[Testing-Effect]]"
-  - "[[fluency-illusion]]"
-  - "[[elaborative-interrogation]]"
+  - "[[Fluency Illusion]]"
+  - "[[Elaborative Interrogation]]"
   - "[[self-explanation-effect]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[working-memory]]"
   - "[[transfer-of-learning]]"
   - "[[metacognition]]"
@@ -112,8 +112,8 @@ document-features:
 # ═══════════════════════════════════════════════════════════════════════════
 builds_on:
   - "[[writing-to-learn]]"
-  - "[[desirable-difficulties]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[Testing-Effect]]"
 
 link_related:
@@ -121,7 +121,7 @@ link_related:
   - "[[metacognition]]"
   - "[[transfer-of-learning]]"
   - "[[active-note-making]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[icap-framework]]"
 ---
 
@@ -144,7 +144,7 @@ This is not an isolated quirk. It is the surface expression of a deep principle 
 
 This focused analysis examines the differential learning outcomes produced by different writing techniques, with a specific analytical focus: **What cognitive mechanisms determine whether a writing technique builds lasting understanding or merely creates the illusion of it?** This is not a survey of every available writing strategy. It is a sustained examination of the cognitive architecture that separates transformative writing from recording, and the practical, research-grounded implications that follow from understanding the difference.
 
-The analysis proceeds through six analytical phases before turning to structural transfer and PKB connections. Phase II establishes the theoretical framework — the distinction between knowledge-telling and knowledge-transforming writing, the cognitive architecture writing must engage, and the concept of the **generative constraint** as the central analytical lens. Phase III examines the evidence base, spanning Writing-to-Learn research, the [[Testing-Effect]], [[elaborative-interrogation]], and the [[self-explanation-effect]]. Phase IV excavates the mechanisms — why generation beats transcription, why elaboration deepens memory, and why the [[fluency-illusion]] is so cognitively seductive. Phase V traces the practical implications and confronts the genuine limitations. Phase VI synthesises toward an original framework for diagnosing the learning potential of any writing technique before deploying it.
+The analysis proceeds through six analytical phases before turning to structural transfer and PKB connections. Phase II establishes the theoretical framework — the distinction between knowledge-telling and knowledge-transforming writing, the cognitive architecture writing must engage, and the concept of the **generative constraint** as the central analytical lens. Phase III examines the evidence base, spanning Writing-to-Learn research, the [[Testing-Effect]], [[Elaborative Interrogation]], and the [[self-explanation-effect]]. Phase IV excavates the mechanisms — why generation beats transcription, why elaboration deepens memory, and why the [[Fluency Illusion]] is so cognitively seductive. Phase V traces the practical implications and confronts the genuine limitations. Phase VI synthesises toward an original framework for diagnosing the learning potential of any writing technique before deploying it.
 
 > [!ask-yourself-this] **Prediction Point**
 > Before reading the framework in Phase II, predict: which writing technique produces the best learning outcomes — taking detailed linear notes during reading, writing a summary from memory after reading, or answering self-generated questions about the material? Commit to your prediction and your reasoning. The comparison between what you expect and what the evidence shows is where the deepest understanding of this analysis lives.
@@ -172,7 +172,7 @@ To understand why this is so requires a brief orientation to the cognitive archi
 > [!key-claim] **The Memory Encoding Requirement**
 > For a writing technique to produce durable learning, it must engage the learner in processing that creates, elaborates, or strengthens connections in long-term memory. Transcription occupies working memory without creating these connections. Generation, elaboration, and retrieval do.
 
-[[cognitive-load-theory]] adds a critical dimension. The theory distinguishes between intrinsic load (the inherent complexity of the material), extraneous load (cognitive effort consumed by poor design or irrelevant processing), and [[germane-cognitive-load]] (cognitive effort invested in schema construction and modification). The insight relevant here is this: not all cognitive effort is equivalent. High extraneous load wastes cognitive resources. High germane load — the effort of genuinely making sense of material — is the effort that produces learning. The best writing techniques are those that direct cognitive resources toward germane processing, even when (especially when) that processing is difficult.
+[[Cognitive Load Theory (CLT)]] adds a critical dimension. The theory distinguishes between intrinsic load (the inherent complexity of the material), extraneous load (cognitive effort consumed by poor design or irrelevant processing), and [[Cognitive Load Theory (CLT)]] (cognitive effort invested in schema construction and modification). The insight relevant here is this: not all cognitive effort is equivalent. High extraneous load wastes cognitive resources. High germane load — the effort of genuinely making sense of material — is the effort that produces learning. The best writing techniques are those that direct cognitive resources toward germane processing, even when (especially when) that processing is difficult.
 
 ### The Generative Constraint Defined
 
@@ -181,7 +181,7 @@ These two frameworks converge on a single principle that will serve as the analy
 > [!definition] **The Generative Constraint**
 > The principle that a writing technique's learning yield is proportional to the extent it forces the learner to generate, rather than reproduce, cognitive content. Generation requires active retrieval from long-term memory, construction of connections between ideas, or production of explanations, examples, or applications that cannot simply be copied from available input. Techniques high on the generative constraint produce durable learning; techniques low on it produce accurate records with poor retention.
 
-The generative constraint is a continuum, not a binary. Verbatim transcription sits at its low end. Free-writing from memory, [[elaborative-interrogation]], the [[Testing-Effect|retrieval practice]] methods, and [[self-explanation-effect|self-explanation]] techniques sit progressively higher. Understanding where a technique falls on this continuum — and why — is the analytical task of this report.
+The generative constraint is a continuum, not a binary. Verbatim transcription sits at its low end. Free-writing from memory, [[Elaborative Interrogation]], the [[Testing-Effect|retrieval practice]] methods, and [[self-explanation-effect|self-explanation]] techniques sit progressively higher. Understanding where a technique falls on this continuum — and why — is the analytical task of this report.
 
 *Section-End Summary: Phase II established the conceptual tools that will govern the rest of this analysis. The Bereiter-Scardamalia knowledge-telling versus knowledge-transforming distinction reveals that conventional note-taking typically operates in the wrong mode. The cognitive architecture framework explains why this matters: learning requires creating and strengthening long-term memory connections, not occupying working memory with reproduction. The generative constraint synthesises both insights into a single evaluative lens: techniques that force generation produce learning; those that permit reproduction produce records. This lens sets up the central analytical question for Phase III: does the evidence base actually support this framework, and with what nuance?*
 
@@ -222,7 +222,7 @@ What makes this evidence analytically significant is the size of the effect. In 
 
 ### Elaborative Interrogation: Explaining Why
 
-[[elaborative-interrogation]] is a writing technique in which the learner generates answers to "why?" and "how does this connect to what I already know?" questions about the material being studied. Rather than writing that X is true, the learner must explain why X is true and what would follow if it were false. The research, summarised in a meta-analysis by Dunlosky and colleagues (2013), rates elaborative interrogation as a moderately high-utility strategy — substantially more effective than highlighting, re-reading, or summarisation in most conditions.
+[[Elaborative Interrogation]] is a writing technique in which the learner generates answers to "why?" and "how does this connect to what I already know?" questions about the material being studied. Rather than writing that X is true, the learner must explain why X is true and what would follow if it were false. The research, summarised in a meta-analysis by Dunlosky and colleagues (2013), rates elaborative interrogation as a moderately high-utility strategy — substantially more effective than highlighting, re-reading, or summarisation in most conditions.
 
 The learning mechanism is schema activation and extension. When a learner generates an explanation for a fact — rather than merely recording it — they must access relevant prior knowledge, test whether the new information is consistent with existing understanding, and either integrate it smoothly or acknowledge a discrepancy. This is, in Bereiter and Scardamalia's terms, a knowledge-transforming operation. The fact is no longer isolated; it is anchored to a web of related understanding.
 
@@ -240,7 +240,7 @@ The effect is robust across domains and age groups. Critically, it is not merely
 
 ### The Fluency Illusion: Why Ineffective Techniques Feel Effective
 
-The most analytically important piece of evidence in this landscape may be the [[fluency-illusion]] research, because it explains why ineffective writing techniques are so persistently popular. The fluency illusion — studied extensively by Robert Bjork and colleagues — describes the systematic tendency of learners to misread processing fluency as evidence of learning. When material feels easy to process — when reading flows smoothly, when re-reading feels like recognition — learners interpret this ease as comprehension and retention. The evidence, however, consistently shows the opposite relationship: fluency during study is a poor predictor of retention and a frequent predictor of overconfidence.
+The most analytically important piece of evidence in this landscape may be the [[Fluency Illusion]] research, because it explains why ineffective writing techniques are so persistently popular. The fluency illusion — studied extensively by Robert Bjork and colleagues — describes the systematic tendency of learners to misread processing fluency as evidence of learning. When material feels easy to process — when reading flows smoothly, when re-reading feels like recognition — learners interpret this ease as comprehension and retention. The evidence, however, consistently shows the opposite relationship: fluency during study is a poor predictor of retention and a frequent predictor of overconfidence.
 
 > [!analytical-insight] **The Fluency Illusion as the Root of Bad Writing Practice**
 > If we take the fluency illusion seriously, it provides a parsimonious explanation for the entire landscape of ineffective educational writing practice. Students prefer re-reading to retrieval practice, highlighting to elaborative interrogation, and verbatim transcription to effortful paraphrase — not because they have examined the evidence and chosen wrongly, but because the more effective techniques feel worse during the process. Effort is the signal of learning, but subjective ease is what registers as success. This means that the adoption of better writing techniques is not primarily a problem of knowledge — it is a problem of metacognitive recalibration. Learners must be explicitly taught to distrust fluency as a criterion.
@@ -275,7 +275,7 @@ The current consensus, supported by neuroimaging and behavioural evidence, is th
 
 ### Why Elaboration Deepens Memory: The Schema Activation Mechanism
 
-[[elaborative-interrogation]] produces its learning advantage through a different but related mechanism: it forces the learner to access and modify their existing schema for the domain. When a learner writes answers to "why is this true?" or "what would this connect to?", they must retrieve relevant prior knowledge, test the new information for consistency with that knowledge, and either integrate the new information into the existing schema (Piaget's assimilation) or revise the schema to accommodate the discrepancy (accommodation).
+[[Elaborative Interrogation]] produces its learning advantage through a different but related mechanism: it forces the learner to access and modify their existing schema for the domain. When a learner writes answers to "why is this true?" or "what would this connect to?", they must retrieve relevant prior knowledge, test the new information for consistency with that knowledge, and either integrate the new information into the existing schema (Piaget's assimilation) or revise the schema to accommodate the discrepancy (accommodation).
 
 The depth of this process depends critically on the richness of prior knowledge. [[spreading-activation]] in long-term memory means that activating one node in a semantic network activates related nodes — the more connections a concept has, the more retrieval pathways exist and the more robustly it is encoded. [[elaboration]] writing creates these connections deliberately: the learner writes not just what something is but what it resembles, what it contradicts, what would be true if it were false, and what follows from it. Each of these acts is an act of connection-making that enriches the target concept's embedding in the learner's knowledge network.
 
@@ -288,18 +288,18 @@ The [[self-explanation-effect]] operates on a closely related mechanism: self-ex
 
 The framework established in Phase II needs to be revisited with the mechanistic depth now available. The generative constraint is not absolute — its operation is conditioned by at least three interacting variables that the evidence reveals.
 
-**Variable 1: Expertise Level.** The [[worked-example-effect]] demonstrates that for novice learners, highly effortful generation can be counterproductive: when a learner lacks the schemas to make sense of what they are retrieving, effortful writing produces confusion rather than consolidation. A medical student who does not yet have a working model of cardiovascular physiology cannot usefully elaborate on the mechanisms of heart failure; they first need sufficient foundational knowledge to make the elaborations meaningful. This is why the [[advance-organizer]] research (Ausubel, 1960) matters: providing structural context before effortful generation is not a concession to the students' weakness — it is the condition for their effortful generation to have a scaffold to attach to.
+**Variable 1: Expertise Level.** The [[the-worked-example-effect]] demonstrates that for novice learners, highly effortful generation can be counterproductive: when a learner lacks the schemas to make sense of what they are retrieving, effortful writing produces confusion rather than consolidation. A medical student who does not yet have a working model of cardiovascular physiology cannot usefully elaborate on the mechanisms of heart failure; they first need sufficient foundational knowledge to make the elaborations meaningful. This is why the [[advance-organizer]] research (Ausubel, 1960) matters: providing structural context before effortful generation is not a concession to the students' weakness — it is the condition for their effortful generation to have a scaffold to attach to.
 
 **Variable 2: Feedback Availability.** As noted in the evidence section, retrieval writing without feedback can consolidate errors. The mechanistic explanation is straightforward: retrieval strengthens whatever was retrieved, accurate or not. The practical implication is that retrieval-based writing techniques — writing from memory, free-recall summaries — must be paired with a checking phase in which the learner compares their reconstructed notes to source material. This is not re-reading; it is error correction in the context of a preceding generative act.
 
-**Variable 3: Material Complexity and Element Interactivity.** [[cognitive-load-theory]] identifies [[element-interactivity]] as a key driver of intrinsic load: material with many interacting elements is intrinsically more complex and makes heavy demands on working memory simply to be processed. For very high-interactivity material (complex systems, multi-step procedures, interrelated frameworks), the generative constraint must be applied with greater care — the learner may need worked examples and guided writing before free-generation writing becomes productive.
+**Variable 3: Material Complexity and Element Interactivity.** [[Cognitive Load Theory (CLT)]] identifies [[Technical Detail: The relationship between element interactivity and working-memory load]] as a key driver of intrinsic load: material with many interacting elements is intrinsically more complex and makes heavy demands on working memory simply to be processed. For very high-interactivity material (complex systems, multi-step procedures, interrelated frameworks), the generative constraint must be applied with greater care — the learner may need worked examples and guided writing before free-generation writing becomes productive.
 
 > [!analytical-insight] **The Inverted-U of Generative Demand**
 > There is a plausible inverted-U relationship between the generative demand of a writing technique and its learning yield, conditional on the learner's expertise. Too little generative demand (verbatim transcription) produces poor learning because no consolidating operations are triggered. Too much generative demand — asking a novice to freely generate elaborations about material they have barely encountered — produces poor learning because working memory is overwhelmed trying to manage basic comprehension, leaving no resources for generative processing. The optimal generative demand sits at the learner's zone of manageable challenge — difficult enough to require genuine cognitive effort, accessible enough that the effort is productive. This is why the same writing technique can be highly effective for an advanced learner and counterproductive for a beginner encountering the same material.
 
 ### The Fluency Illusion Mechanism: Why the Problem Persists
 
-The [[fluency-illusion]] persists not from ignorance but from a systematic metacognitive failure. [[metacognitive-monitoring]] relies on processing fluency as a proxy for comprehension: when information is processed easily, the monitoring system interprets this as evidence of understanding. This is heuristically reasonable in many contexts — familiar material is genuinely easier to process, and ease of processing is generally correlated with comprehension for familiar material. The failure occurs when processing fluency is elevated by factors other than genuine understanding: the presence of the source text during note-taking, the familiarity of the words even when the concepts remain opaque, the ease of recognition in re-reading.
+The [[Fluency Illusion]] persists not from ignorance but from a systematic metacognitive failure. [[metacognitive-monitoring]] relies on processing fluency as a proxy for comprehension: when information is processed easily, the monitoring system interprets this as evidence of understanding. This is heuristically reasonable in many contexts — familiar material is genuinely easier to process, and ease of processing is generally correlated with comprehension for familiar material. The failure occurs when processing fluency is elevated by factors other than genuine understanding: the presence of the source text during note-taking, the familiarity of the words even when the concepts remain opaque, the ease of recognition in re-reading.
 
 > [!what-the-evidence-suggests] **The Metacognitive Miscalibration at the Heart of Bad Practice**
 > What the fluency illusion research suggests, taken together with the generative constraint framework, is that conventional educational writing practice systematically trains learners in the wrong metacognitive calibration. Students are repeatedly rewarded for producing clean, complete, detailed notes — external markers of diligence that bear little relationship to internal learning. Over years of this training, they come to associate the feeling of productive effort with writing that is detailed and faithful, when the research consistently shows that productive effort is associated with writing that is effortful, incomplete, and self-generated. The reform of writing practice requires not just telling students different techniques — it requires rebuilding their metacognitive standards for what "feeling like learning" should feel like.
@@ -355,7 +355,7 @@ The analysis must be honest about where the generative constraint framework reac
 
 **Domain Specificity of Transfer.** The evidence that writing produces learning is strong; the evidence that it produces transferable learning — learning that applies to novel problems and contexts — is more mixed. [[transfer-appropriate-processing]] research shows that memory is most accessible in contexts that match the encoding context. Writing techniques that encode knowledge in a specific form may produce retrieval in that form but not generalise to contexts requiring the knowledge to be applied differently. This is a fundamental limitation of any single encoding approach and argues for varied practice across multiple writing technique types.
 
-**The Motivation Constraint.** The efficacy evidence for techniques like retrieval practice and elaborative interrogation assumes reasonable learner motivation and persistence. High-generative-demand techniques are cognitively effortful, produce subjective discomfort during processing (because they involve struggle rather than fluency), and require more time than transcription. For learners who are already low in motivation or whose confidence is fragile, the subjective difficulty of these techniques can lead to avoidance or abandonment. The [[desirable-difficulties]] that produce the best learning are desirable only from a learning-outcomes perspective — they are not experienced as desirable during the process.
+**The Motivation Constraint.** The efficacy evidence for techniques like retrieval practice and elaborative interrogation assumes reasonable learner motivation and persistence. High-generative-demand techniques are cognitively effortful, produce subjective discomfort during processing (because they involve struggle rather than fluency), and require more time than transcription. For learners who are already low in motivation or whose confidence is fragile, the subjective difficulty of these techniques can lead to avoidance or abandonment. The [[Desirable Difficulties (Robert Bjork, 1994)]] that produce the best learning are desirable only from a learning-outcomes perspective — they are not experienced as desirable during the process.
 
 *Section-End Summary: The practical landscape reveals a clear hierarchy of writing techniques ordered by their position on the generative constraint continuum, with free-recall and elaborative writing at the high end. The most actionable single heuristic — close the source before writing — transforms transcription tasks into retrieval tasks with minimal overhead. Application to PKB practice suggests that note architecture (assertion vs. justified claim) is as important as note quantity. Three genuine limitations constrain the framework's generality: individual differences in working memory capacity, domain-specificity of encoding and transfer, and the motivation cost of effortful techniques.*
 
@@ -375,7 +375,7 @@ The analysis must be honest about where the generative constraint framework reac
 
 The analysis has moved from the paradox of the thorough note-taker to a mechanistic account of why writing produces learning only when it requires generation. The theoretical frameworks, empirical evidence, and causal mechanisms converge on a picture that is simultaneously simple and deeply counterintuitive: the cognitive value of a writing act is inversely related to its fidelity to the source, across most learning contexts.
 
-Conventional educational practice has optimised for the wrong variable. It has rewarded completeness, legibility, and faithfulness — the external signals of diligent note-taking — while the variables that predict learning (generative demand, elaborative connection-making, retrieval effort) are neither visible in the product nor rewarded by teachers, graders, or the learners themselves. The [[fluency-illusion]] is not incidental to this problem — it is its root cause: the subjective signal system that learners use to gauge their progress is systematically calibrated to reward the wrong type of effort.
+Conventional educational practice has optimised for the wrong variable. It has rewarded completeness, legibility, and faithfulness — the external signals of diligent note-taking — while the variables that predict learning (generative demand, elaborative connection-making, retrieval effort) are neither visible in the product nor rewarded by teachers, graders, or the learners themselves. The [[Fluency Illusion]] is not incidental to this problem — it is its root cause: the subjective signal system that learners use to gauge their progress is systematically calibrated to reward the wrong type of effort.
 
 ### Returning to the Concepts with Full Depth
 
@@ -472,13 +472,13 @@ The analysis has established that the generative constraint operates through two
 >
 > This focused analysis of writing techniques connects to several major threads in your knowledge base:
 >
-> - **[[desirable-difficulties]]** — The central concept in Bjork's learning science framework. The generative constraint analysis is, in effect, a domain-specific application of desirable difficulties to writing practice: effortful encoding produces better retention than fluent encoding, because the effort is the mechanism. This report could serve as the applied extension of the Desirable Difficulties theoretical node.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The central concept in Bjork's learning science framework. The generative constraint analysis is, in effect, a domain-specific application of desirable difficulties to writing practice: effortful encoding produces better retention than fluent encoding, because the effort is the mechanism. This report could serve as the applied extension of the Desirable Difficulties theoretical node.
 >
-> - **[[fluency-illusion]]** — Directly discussed in Phase IV and the root mechanistic explanation for why ineffective writing techniques persist. The Fluency Illusion node likely contains the metacognitive research tradition underpinning the claims here; this report represents an applied synthesis of that research in the context of writing specifically.
+> - **[[Fluency Illusion]]** — Directly discussed in Phase IV and the root mechanistic explanation for why ineffective writing techniques persist. The Fluency Illusion node likely contains the metacognitive research tradition underpinning the claims here; this report represents an applied synthesis of that research in the context of writing specifically.
 >
 > - **[[Testing-Effect]] / [[testing-effect-retrieval-practice-effect|Testing Effect — Retrieval Practice Effect]]** — The most robust empirical finding supporting retrieval-based writing. The free-recall writing techniques recommended here are direct applications of retrieval practice principles to writing contexts. The Testing Effect node should link here as a specific application domain.
 >
-> - **[[elaborative-interrogation]]** — The note architecture recommendation (writing justified claims rather than bare assertions) is a direct application of elaborative interrogation principles to PKB design. The note in your vault likely contains the research tradition; this report provides the connection to practical writing architecture.
+> - **[[Elaborative Interrogation]]** — The note architecture recommendation (writing justified claims rather than bare assertions) is a direct application of elaborative interrogation principles to PKB design. The note in your vault likely contains the research tradition; this report provides the connection to practical writing architecture.
 >
 > - **[[self-explanation-effect]]** — Phase IV drew on self-explanation research to explain the mechanism of knowledge-transforming writing. The Self-Explanation Effect node likely contains the Chi et al. research tradition; the connection here is the generalisation of that mechanism from worked examples to all learning-oriented writing.
 >
@@ -492,11 +492,11 @@ The analysis has established that the generative constraint operates through two
 >
 > **Cross-Report Links**
 >
-> - **Foundational Report on [[cognitive-load-theory]]** (if it exists in your vault) — This report assumes Cognitive Load Theory and uses it mechanistically; a foundational treatment would provide the background context this report presupposes.
+> - **Foundational Report on [[Cognitive Load Theory (CLT)]]** (if it exists in your vault) — This report assumes Cognitive Load Theory and uses it mechanistically; a foundational treatment would provide the background context this report presupposes.
 >
 > - **Foundational Report on [[self-regulated-learning]]** — Writing for learning is embedded in the broader SRL cycle. The writing techniques discussed here are most effective when the learner has well-developed metacognitive monitoring, goal-setting, and strategy-selection capabilities — all components of SRL.
 >
-> **Synthetic Observation**: The pattern of connections reveals that this analysis bridges three major clusters in your PKB: the memory and cognitive architecture cluster ([[working-memory]], [[schema]], [[long-term-memory]], [[germane-cognitive-load]]), the metacognition cluster ([[metacognition]], [[metacognitive-monitoring]], [[fluency-illusion]], [[calibration]]), and the active learning cluster ([[Testing-Effect]], [[elaborative-interrogation]], [[desirable-difficulties]], [[writing-to-learn]]). A report that explicitly maps the connections across all three clusters would be a valuable synthesis in its own right.
+> **Synthetic Observation**: The pattern of connections reveals that this analysis bridges three major clusters in your PKB: the memory and cognitive architecture cluster ([[working-memory]], [[schema]], [[long-term-memory]], [[Cognitive Load Theory (CLT)]]), the metacognition cluster ([[metacognition]], [[metacognitive-monitoring]], [[Fluency Illusion]], [[calibration]]), and the active learning cluster ([[Testing-Effect]], [[Elaborative Interrogation]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[writing-to-learn]]). A report that explicitly maps the connections across all three clusters would be a valuable synthesis in its own right.
 
 ---
 
@@ -587,7 +587,7 @@ The analysis has established that the generative constraint operates through two
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[spacing-effect]] and Its Interaction with Writing Techniques
+> > [!topic-idea] [[Desirable Difficulties (Robert Bjork, 1994)]] and Its Interaction with Writing Techniques
 > > Spaced repetition and retrieval practice are typically studied separately, but their interaction deserves focused analysis. What happens when retrieval-writing sessions are spaced optimally — does the spacing effect amplify the retrieval advantage? How should PKB review workflows be designed to leverage both effects simultaneously? A focused analysis here would produce specific, actionable protocols for spaced retrieval-writing practice.
 >
 > > [!topic-idea] [[metacognitive-regulation]] and the Recalibration Problem

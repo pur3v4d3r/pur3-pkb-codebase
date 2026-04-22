@@ -31,7 +31,7 @@ related_concepts:
   - "[[goal-orientation]]"
   - "[[self-efficacy]]"
   - "[[expectancy-value-theory]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[forethought-phase]]"
   - "[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]"
 knowledge_level: advanced
@@ -508,7 +508,7 @@ The three principles together imply a specific PKB session design: (1) begin eve
 >
 > - **[[expectancy-value-theory]]** — The Phase V identification of task value as a functionally distinct motivational pathway (predicting persistence and choice more than strategy quality, distinct from self-efficacy) creates a specific connection to Eccles and Wigfield's expectancy-value framework as a complementary theoretical resource.
 >
-> - **[[attribution-theory]]** — The Phase 4 reflection component of Pintrich's cycle — where causal attributions shape the motivational beliefs that will govern the next forethought phase — creates a direct functional link to Weiner's attribution theory as the mechanism account for how Phase 4 reflection feeds back into Phase 1 activation.
+> - **[[Attribution (Heider, 1958)]]** — The Phase 4 reflection component of Pintrich's cycle — where causal attributions shape the motivational beliefs that will govern the next forethought phase — creates a direct functional link to Weiner's attribution theory as the mechanism account for how Phase 4 reflection feeds back into Phase 1 activation.
 >
 > - **[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]** — The Winne-Hadwin COPES model offers a complementary account that is more cognitive and more process-tracing in its methodology. The comparison illuminates what Pintrich's motivational integration adds that a purely cognitive processing account cannot capture.
 >

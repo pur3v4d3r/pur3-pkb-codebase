@@ -3258,7 +3258,7 @@ Research on [[active-learning]]—learning through doing rather than passive lis
 
 Studies of the [[generation-effect]]—you remember and understand better what you generate yourself versus what you passively receive—align perfectly with constructivist principles about building knowledge actively.
 
-Research on [[spaced-repetition]], [[interleaving]], [[retrieval-practice]]—all the techniques that actually work for learning—share a common pattern: they require active engagement, not passive absorption. They force you to construct understanding rather than hoping it will somehow transfer through exposure.
+Research on [[spaced-repetition]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]]—all the techniques that actually work for learning—share a common pattern: they require active engagement, not passive absorption. They force you to construct understanding rather than hoping it will somehow transfer through exposure.
 
 > [!key-claim] **The Point of Evidence**
 >

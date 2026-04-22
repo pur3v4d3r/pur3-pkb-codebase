@@ -84,5 +84,5 @@ importance: high
 - [[Biologically-Primary-Knowledge|Biologically Primary Knowledge]]
 - [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
 - [[Central-claim-of-this-level|Central claim of this level]]
-- [[Chunk]]
+- [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 - *...and 201 more permanent notes*

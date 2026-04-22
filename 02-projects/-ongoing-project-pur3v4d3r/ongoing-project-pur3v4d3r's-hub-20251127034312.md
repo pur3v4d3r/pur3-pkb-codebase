@@ -299,19 +299,19 @@ SORT file.ctime DESC
 > - **Description**:: A broad framework explaining how individuals monitor, control, and direct their own thoughts, feelings, and behaviors to achieve goals. It often involves a "strength" or resource model, suggesting that self-control is a limited resource that can be depleted (a concept known as **ego depletion**). [[albert-bandura]]'s work, in particular, emphasizes the role of **self-efficacy** (belief in one's capabilities) in this process.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[cognitive-load-theory]]
+> - **Topic or Idea**:: [[Cognitive Load Theory (CLT)]]
 > - **Key Figure(s)**:: *John Sweller*
 > - **Description**:: An instructional theory postulating that all learning tasks impose a "load" on the brain's limited [[working-memory]]. Effective learning must manage three types of load: **intrinsic** (the inherent difficulty), **extraneous** (the way information is presented), and **germane** (the work of integrating information into schemas). The goal is to minimize extraneous load to free up cognitive resources for germane load.
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[self-determination-theory]]
 > - **Key Figure(s)**:: *Edward L. Deci*, *Richard M. Ryan*
-> - **Description**:: A macro-theory of human motivation arguing that optimal well-being and performance are fostered by satisfying three universal, innate psychological needs: **autonomy** (control over one's life), **competence** (mastery and effectiveness), and **relatedness** (connection to others). Fulfilling these needs cultivates the highest quality of motivation: [[intrinsic-motivation]].
+> - **Description**:: A macro-theory of human motivation arguing that optimal well-being and performance are fostered by satisfying three universal, innate psychological needs: **autonomy** (control over one's life), **competence** (mastery and effectiveness), and **relatedness** (connection to others). Fulfilling these needs cultivates the highest quality of motivation: [[Intrinsic Motivation]].
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[working-memory]]
 > - **Key Figure(s)**:: *Alan Baddeley*, *Graham Hitch*
-> - **Description**:: A cognitive system with limited capacity responsible for temporarily *holding* and *manipulating* information for complex tasks like reasoning, comprehension, and learning. It is distinct from passive short-term memory and includes components like the **phonological loop** (verbal) and **visuospatial sketchpad** (visual), managed by a **central executive**. Understanding its limits is fundamental to [[cognitive-load-theory]].
+> - **Description**:: A cognitive system with limited capacity responsible for temporarily *holding* and *manipulating* information for complex tasks like reasoning, comprehension, and learning. It is distinct from passive short-term memory and includes components like the **phonological loop** (verbal) and **visuospatial sketchpad** (visual), managed by a **central executive**. Understanding its limits is fundamental to [[Cognitive Load Theory (CLT)]].
 
 ## 🧠 Critical Thinking & Reasoning
 
@@ -355,7 +355,7 @@ SORT file.ctime DESC
 > [!topic-idea]
 > - **Topic or Idea**:: [[metacognition]]
 > - **Key Figure(s)**:: *John H. Flavell*
-> - **Description**:: Often defined as "thinking about one's own thinking," this is a higher-order process that involves awareness and control of one's thought processes. It has two main components: **metacognitive knowledge** (what one knows about their own cognition) and **metacognitive regulation** (how one manages their learning, such as planning, monitoring, and evaluating). It is the parent concept for [[self-regulated-learning]] and [[self-explanation]].
+> - **Description**:: Often defined as "thinking about one's own thinking," this is a higher-order process that involves awareness and control of one's thought processes. It has two main components: **metacognitive knowledge** (what one knows about their own cognition) and **metacognitive regulation** (how one manages their learning, such as planning, monitoring, and evaluating). It is the parent concept for [[self-regulated-learning]] and [[self-explanation-effect]].
 
 > [!topic-idea]
 > - **Topic or Idea**:: [[Metacognitive Planning]]
@@ -388,7 +388,7 @@ SORT file.ctime DESC
 > - **Description**:: A cognitive-behavioral technique where an individual guides their own behavior by talking to themselves, often aloud initially and then sub-vocally ("private speech"). This is used to manage attention, plan sequential actions, and cope with challenging tasks. It is a core component of developing [[Self-Regulation-Theory]] and is particularly effective for multi-step problem-solving.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[self-explanation]]
+> - **Topic or Idea**:: [[self-explanation-effect]]
 > - **Key Figure(s)**:: *Michelene T.H. Chi*
 > - **Description**:: An active learning strategy where a learner generates explanations for *themselves* while studying, such as by explaining *why* a concept is true or *how* a new piece of information relates to what they already know. This process forces the learner to **monitor their own understanding** and actively **repair comprehension failures**. It is highly effective for deep, conceptual learning.
 
@@ -437,7 +437,7 @@ SORT file.ctime DESC
 > - **Description**:: The process of planning and exercising conscious control over the time spent on specific activities to increase effectiveness, efficiency, or [[productivity]]. Effective time management often involves **prioritization** (e.g., the **Eisenhower Matrix** of urgent/important), **scheduling**, and **protecting focused time**. It is fundamentally a practice of managing one's *self* and *choices*.
 
 > [!topic-idea]
-> - **Topic or Idea**:: [[intrinsic-motivation]]
+> - **Topic or Idea**:: [[Intrinsic Motivation]]
 > - **Key Figure(s)**:: *Edward L. Deci*, *Harry Harlow* (early experiments)
 > - **Description**:: The drive to engage in an activity for its own inherent satisfaction, pleasure, and challenge, rather than for a separable external reward. It is the core desired outcome in [[self-determination-theory]], which contrasts it with **extrinsic motivation** (behavior driven by rewards or punishments). Fostering intrinsic motivation is key to long-term persistence.
 
@@ -506,7 +506,7 @@ SORT file.ctime DESC
 
 # 📚 Pedagogical Scaffold Mapping for Self-Development Topics
 
-This document maps 19 advanced self-development topics to the **optimal pedagogical scaffold** for their analysis. This mapping serves as an **[[Action Plan]]** for generating high-quality, structured [[atomic-notes]] and [[Pillar Notes]] within your [[Personal Knowledge Base (PKB)]], ensuring maximum [[cognitive-load]] efficiency and depth of mastery.
+This document maps 19 advanced self-development topics to the **optimal pedagogical scaffold** for their analysis. This mapping serves as an **[[Action Plan]]** for generating high-quality, structured [[atomic-note]] and [[Pillar Notes]] within your [[Personal Knowledge Base (PKB)]], ensuring maximum [[Cognitive Load Theory (CLT)]] efficiency and depth of mastery.
 
 > [!tip] Scaffold-Driven Note Creation
 > Each scaffold dictates the **structure and flow** of the final note. By selecting the optimal scaffold, you ensure the note's content is organized to achieve the specific learning outcome (e.g., critical judgment, systemic understanding, foundational knowledge).

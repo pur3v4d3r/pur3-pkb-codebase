@@ -25,7 +25,7 @@ related_concepts:
   - "[[forethought-phase]]"
   - "[[performance-phase]]"
   - "[[self-efficacy]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[metacognitive-monitoring]]"
   - "[[growth-mindset]]"
   - "[[self-regulated-learning]]"
@@ -98,7 +98,7 @@ prerequisites:
 builds_on:
   - "[[self-regulated-learning-focused-analysis-2026-03-06]]"
   - "[[Zimmerman's-Three-Phase-SRL-Cycle]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy]]"
 
 extends:
@@ -116,7 +116,7 @@ link_down:
   - "[[Zimmerman's-Cyclical-SRL-Model]]"
   - "[[self-reflection-phase]]"
   - "[[forethought-phase]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
 link_related:
   - "[[self-regulated-learning-focused-analysis-2026-03-06]]"
   - "[[metacognition-in-learning-focused-analysis-2026-03-20]]"
@@ -124,7 +124,7 @@ link_related:
   - "[[sdt-srl-comparative-synthesis-2026-03-19]]"
   - "[[metacognition-and-self-regulated-learning]]"
   - "[[growth-mindset]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # DOCUMENT METADATA
@@ -260,7 +260,7 @@ The critical inter-phase link — self-efficacy updating from one cycle to the n
 
 Weiner's (1985) attribution theory provides the mechanistic bridge between performance outcomes and their motivational consequences. The key insight is the *controllability* dimension: attributions to controllable causes (effort, strategy choice) preserve and can even increase self-efficacy after failure, because the learner infers that future performance is within their influence. Attributions to uncontrollable causes (ability construed as fixed, bad luck, task difficulty) deplete self-efficacy because the learner infers that future performance lies outside their influence.
 
-The research on [[attribution-theory|attribution]] and academic achievement has consistently demonstrated this pattern. Dweck's foundational work on learned helplessness in children (1975) showed that children with ability attributions for failure rapidly developed performance avoidance and helpless response patterns — but only after failure. After success, ability-attributed children showed no such degradation. The asymmetry is structurally important: the *failure condition* is the diagnostic test for whether the Self-Reflection Phase is functioning adaptively.
+The research on [[Attribution (Heider, 1958)|attribution]] and academic achievement has consistently demonstrated this pattern. Dweck's foundational work on learned helplessness in children (1975) showed that children with ability attributions for failure rapidly developed performance avoidance and helpless response patterns — but only after failure. After success, ability-attributed children showed no such degradation. The asymmetry is structurally important: the *failure condition* is the diagnostic test for whether the Self-Reflection Phase is functioning adaptively.
 
 > [!tension-identified] **The Attribution Asymmetry Problem**
 > A genuine tension in this literature is the asymmetry between how quickly maladaptive attributional patterns develop and how slowly they reverse. Intervention studies by Dweck and Goetz (1978) and by Perry and Penner (1990) suggest that changing an established attributional pattern from ability-focused to effort/strategy-focused typically requires multiple targeted interventions across several weeks, while the maladaptive pattern can establish itself from a single high-stakes failure attributed to ability. This asymmetry implies that the Self-Reflection Phase is not symmetrically sensitive to good and bad inputs — it appears to weight negative outcomes more heavily. The question of why this asymmetry exists and whether it is adaptive or maladaptive in different contexts has not been fully resolved in the literature.
@@ -517,7 +517,7 @@ The transferability of these insights across domains (education, sports, organiz
 >
 > - **[[growth-mindset]]** — The analysis explicitly repositions growth mindset as an attributional architecture — a meta-level belief that pre-configures the Attributional Bridge for adaptive processing. This is a more mechanistically specific account than typical growth mindset treatments, and connects to the PKB's existing growth mindset node as a theoretical elaboration.
 >
-> - **[[attribution-theory]]** — Weiner's attribution framework is the theoretical foundation for the Attributional Bridge mechanism. This node should receive a bidirectional link: the attribution theory note provides the theoretical apparatus, and this report provides an application context that reveals the attribution theory's most consequential educational implications.
+> - **[[Attribution (Heider, 1958)]]** — Weiner's attribution framework is the theoretical foundation for the Attributional Bridge mechanism. This node should receive a bidirectional link: the attribution theory note provides the theoretical apparatus, and this report provides an application context that reveals the attribution theory's most consequential educational implications.
 >
 > - **[[metacognition-and-self-regulated-learning]]** — The monitoring precision-attribution quality interaction identified in Phase IV is a direct contribution to the metacognition-SRL interface.
 >

@@ -209,7 +209,7 @@ Define the inline metadata fields that application notes should use:
 2. **Secondary Field**: `<field-name>::`
    - **Purpose**: [Secondary classification]
    - **Values**: [Controlled vocabulary or free text]
-   - **Example**: `Theories:: [[working-memory]], [[cognitive-load-theory]]`
+   - **Example**: `Theories:: [[working-memory]], [[Cognitive Load Theory (CLT)]]`
 
 3. **Tertiary Field**: `<field-name>::`
    - **Purpose**: [Additional context]

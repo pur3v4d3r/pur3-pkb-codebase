@@ -27,7 +27,7 @@ connections:
   - [[Attribution-Retraining-Interventions]]
   - [[deliberate-practice]]
   - [[metacognitive-calibration-training]]
-  - [[attribution-theory]]
+  - [[Attribution (Heider, 1958)]]
   - [[achievement-goal-theory]]
   - [[formative-assessment]]
   - [[self-regulated-learning]]

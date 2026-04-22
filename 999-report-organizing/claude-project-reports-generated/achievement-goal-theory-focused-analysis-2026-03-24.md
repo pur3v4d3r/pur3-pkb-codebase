@@ -24,12 +24,12 @@ related_concepts:
   - "[[mastery-avoidance-goal]]"
   - "[[performance-approach-goal]]"
   - "[[performance-avoidance-goal]]"
-  - "[[intrinsic-motivation]]"
+  - "[[Intrinsic Motivation]]"
   - "[[growth-mindset-theory]]"
   - "[[self-regulated-learning]]"
   - "[[basic-psychological-needs-theory]]"
   - "[[motivational-climate]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
 knowledge_level: advanced
 tags:
   - achievement-goal-theory
@@ -93,7 +93,7 @@ key_figures:
 prerequisites:
   - "[[achievement-goal-theory]]"
   - "[[goal-orientation]]"
-  - "[[intrinsic-motivation]]"
+  - "[[Intrinsic Motivation]]"
 
 builds_on:
   - "[[achievement-goal-theory]]"
@@ -109,7 +109,7 @@ link_down:
 link_related:
   - "[[self-regulated-learning]]"
   - "[[basic-psychological-needs-theory]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[growth-mindset-theory]]"
   - "[[feedback-design]]"
 
@@ -183,7 +183,7 @@ Nicholls' contribution was the concept of the **differentiated ability concept**
 > [!analytical-insight] **The Differentiated Ability Concept as an Epistemological Trap**
 > There is something philosophically peculiar about the differentiated ability concept that Nicholls' framework only partially surfaces. Once a learner has differentiated effort from ability, they have acquired a cognitive tool that makes the motivational landscape more dangerous. The very cognitive sophistication that enables strategic learning — understanding that effort produces learning — also enables the self-handicapping inference: effortful success implies lower ability. This is not irrationality. It is the correct application of a valid inference rule to a socially charged domain. What makes ego involvement psychologically toxic is not cognitive deficiency but the over-application of a legitimate inference pattern to a domain (the demonstration of ability to others) that becomes the primary metric of self-worth. The trap, in other words, is epistemological before it is motivational.
 
-The Nicholls framework remained a dichotomy for nearly two decades. The theoretical case for adding a second dimension came from a simple but consequential observation: the distinction between *pursuing success* and *avoiding failure* — already recognized in expectancy-value theory and [[attribution-theory]] — appeared to cut across the mastery-performance distinction in ways that generated meaningfully different outcomes.
+The Nicholls framework remained a dichotomy for nearly two decades. The theoretical case for adding a second dimension came from a simple but consequential observation: the distinction between *pursuing success* and *avoiding failure* — already recognized in expectancy-value theory and [[Attribution (Heider, 1958)]] — appeared to cut across the mastery-performance distinction in ways that generated meaningfully different outcomes.
 
 ### The Elliot Expansion: From Dichotomy to Framework
 
@@ -249,7 +249,7 @@ Third, the evidence base has produced a theoretical controversy — the "perform
 The evidence for MAP goals is strong and relatively consistent across outcomes. Meta-analyses (e.g., Huang, 2012; Van Yperen et al., 2014) consistently find MAP goals positively associated with deep processing strategies, intrinsic interest, persistence after failure, task enjoyment, and well-being. The effect sizes are modest by psychological standards (typically *r* = .20–.35) but stable.
 
 > [!evidence] **MAP Goals and Deep Processing**
-> The most robust finding for MAP goals is not their relationship to academic performance — which is positive but smaller than expected — but their relationship to deep processing strategies, curiosity, and elaborative encoding. Learners with strong MAP orientations are more likely to ask "why" questions, seek connections between concepts, engage in [[retrieval-practice]], and allocate effort to understanding rather than surface reproduction. This has led researchers to describe MAP goals as *process-oriented* rather than performance-oriented — a distinction with direct implications for long-term retention and transfer.
+> The most robust finding for MAP goals is not their relationship to academic performance — which is positive but smaller than expected — but their relationship to deep processing strategies, curiosity, and elaborative encoding. Learners with strong MAP orientations are more likely to ask "why" questions, seek connections between concepts, engage in [[Desirable Difficulties (Robert Bjork, 1994)]], and allocate effort to understanding rather than surface reproduction. This has led researchers to describe MAP goals as *process-oriented* rather than performance-oriented — a distinction with direct implications for long-term retention and transfer.
 
 The finding that MAP goals predict deep processing more strongly than performance outcomes is theoretically significant. It suggests that MAP goals are not primarily performance-optimization strategies — they are epistemic orientations toward competence development. Their motivational value lies in sustaining engagement with challenging material, not in directly driving test scores.
 
@@ -525,7 +525,7 @@ Insights transfer easily when they identify *mechanisms that operate at the leve
 >
 > - **[[motivational-climate-design]]** — This report's evidence on motivational climate directly operationalizes the design target that the Motivational Climate Design node frames at a more abstract level. The specific structural features identified here — criterion-referenced grading, private feedback, error-tolerant practice, metacognitive framing of mistakes — provide the engineering specifications for mastery-structured environments that the climate design node points toward but does not specify.
 >
-> - **[[attribution-theory]]** — [[bernard-weiner]]'s attribution framework underlies the failure attribution mechanism analyzed in Phase IV. The connection is that PAV goals predispose learners toward stable, internal, uncontrollable ability attributions for failure — the classic learned-helplessness trajectory. AGT provides the motivational context in which attribution patterns become self-reinforcing: PAV goals generate ability attributions, which deepen PAV orientation, which generate further ability attributions under subsequent failure.
+> - **[[Attribution (Heider, 1958)]]** — [[bernard-weiner]]'s attribution framework underlies the failure attribution mechanism analyzed in Phase IV. The connection is that PAV goals predispose learners toward stable, internal, uncontrollable ability attributions for failure — the classic learned-helplessness trajectory. AGT provides the motivational context in which attribution patterns become self-reinforcing: PAV goals generate ability attributions, which deepen PAV orientation, which generate further ability attributions under subsequent failure.
 >
 > - **[[learned-helplessness]]** — The PAV goal trajectory described in this report is the motivational mechanism through which learned helplessness develops in evaluative contexts. This connection runs between experimental psychology (Seligman's controllability model) and motivational psychology (Elliot's AGT framework) through the shared mechanism of uncontrollable-failure attribution.
 >

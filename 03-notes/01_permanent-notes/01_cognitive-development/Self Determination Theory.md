@@ -60,7 +60,7 @@ review-priority: medium
 > [!topic-idea]
 > - **Topic or Idea**:[[self-determination-theory]]
 > - **Key Figure(s)**:*Edward L. Deci*, *Richard M. Ryan*
-> - **Description**:A macro-theory of human motivation arguing that optimal well-being and performance are fostered by satisfying three universal, innate psychological needs: **autonomy** (control over one's life), **competence** (mastery and effectiveness), and **relatedness** (connection to others). Fulfilling these needs cultivates the highest quality of motivation: [[intrinsic-motivation]].
+> - **Description**:A macro-theory of human motivation arguing that optimal well-being and performance are fostered by satisfying three universal, innate psychological needs: **autonomy** (control over one's life), **competence** (mastery and effectiveness), and **relatedness** (connection to others). Fulfilling these needs cultivates the highest quality of motivation: [[Intrinsic Motivation]].
 
 
 

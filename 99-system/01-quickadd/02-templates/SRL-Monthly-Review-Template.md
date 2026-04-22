@@ -26,7 +26,7 @@ aliases:
 # 📊 SRL Monthly Practice Review — <% reviewMonth %>
 
 > [!abstract] Purpose
-> This review examines patterns across the month's reading sessions to assess long-term [[metacognitive-calibration|metacognitive calibration]] development, [[attribution-theory|attribution pattern]] health, strategy effectiveness, and overall SRL growth. This is the meta-level awareness that [[barry-zimmerman|Zimmerman]] calls "self-regulatory self-efficacy" — confidence in your ability to regulate your own learning. See [[metacognitive-regulation]] and [[deliberate-practice]].
+> This review examines patterns across the month's reading sessions to assess long-term [[metacognitive-calibration|metacognitive calibration]] development, [[Attribution (Heider, 1958)|attribution pattern]] health, strategy effectiveness, and overall SRL growth. This is the meta-level awareness that [[barry-zimmerman|Zimmerman]] calls "self-regulatory self-efficacy" — confidence in your ability to regulate your own learning. See [[metacognitive-regulation]] and [[deliberate-practice]].
 
 ---
 
@@ -114,7 +114,7 @@ if (sessions.length === 0) {
 ## 🔬 Attribution Pattern Review
 
 > [!important] This is the most critical section of the monthly review.
-> Attribution patterns are the primary diagnostic for SRL cycle health. See [[attribution-theory]] and [[attribution-retraining]].
+> Attribution patterns are the primary diagnostic for SRL cycle health. See [[Attribution (Heider, 1958)]] and [[attribution-retraining]].
 
 **Most common attribution for comprehension difficulties this month:**
 > 
@@ -236,7 +236,7 @@ if (sessions.length === 0) {
 - [ ] Review [[SRL-Calibration-Log]] for trend confirmation
 - [ ] Implement strategy changes identified above
 - [ ] Schedule next monthly review: ___
-- [ ] Consider scaffold fading: any zones that can be simplified? See [[scaffolded-fading]]
+- [ ] Consider scaffold fading: any zones that can be simplified? See [[Scaffolded Fading]]
 
 ---
 
@@ -246,5 +246,5 @@ if (sessions.length === 0) {
 > - [[metacognitive-calibration]] — Calibration trend is the primary developmental indicator
 > - [[deliberate-practice]] — The monthly review IS the deliberate practice feedback mechanism
 > - [[self-efficacy]] — Self-efficacy trajectory reveals motivational system health
-> - [[attribution-theory]] — Attribution pattern review is the most critical diagnostic
-> - [[scaffolded-fading]] — Monthly review is where scaffold reduction decisions are made
+> - [[Attribution (Heider, 1958)]] — Attribution pattern review is the most critical diagnostic
+> - [[Scaffolded Fading]] — Monthly review is where scaffold reduction decisions are made

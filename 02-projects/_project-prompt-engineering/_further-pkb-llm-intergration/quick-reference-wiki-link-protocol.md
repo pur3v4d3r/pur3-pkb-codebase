@@ -85,12 +85,12 @@ Has term been linked in this section already?
 ## Link Pattern Examples
 
 > [!example] Good Linking
-> [[cognitive-load-theory]] explains how cognitive load affects learning. When load exceeds capacity, it overwhelms [[working-memory]].
+> [[Cognitive Load Theory (CLT)]] explains how cognitive load affects learning. When load exceeds capacity, it overwhelms [[working-memory]].
 > 
 > *Links key concepts once per section*
 
 > [!warning] Over-Linking (Avoid)
-> [[cognitive-load]] theory explains how [[cognitive-load]] affects learning. When [[cognitive-load]] is too high, [[cognitive-load]] overwhelms [[working-memory]].
+> [[Cognitive Load Theory (CLT)]] theory explains how [[Cognitive Load Theory (CLT)]] affects learning. When [[Cognitive Load Theory (CLT)]] is too high, [[Cognitive Load Theory (CLT)]] overwhelms [[working-memory]].
 > 
 > *Same term linked repeatedly = visual clutter*
 
@@ -103,7 +103,7 @@ Has term been linked in this section already?
 
 **Theoretical Frameworks:**
 ````markdown
-[[cognitive-load-theory]], [[self-determination-theory]], [[dual-coding-theory]]
+[[Cognitive Load Theory (CLT)]], [[self-determination-theory]], [[dual-coding-theory]]
 ````
 
 **Technical Terms:**
@@ -134,11 +134,11 @@ When creating links, consider:
 
 **Example:**
 ````markdown
-In [[cognitive-load-theory]]:
+In [[Cognitive Load Theory (CLT)]]:
 
 Forward links to:
 - [[working-memory]]
-- [[schema-theory]]
+- [[schema-theory-and-knowledge-organization]]
 - [[instructional-design]]
 
 Should be linked from:
@@ -168,7 +168,7 @@ Every sentence has links?
 
 1. **Grammatical flow:**
 ````markdown
-   theories of [[cognitive-load-theory|cognitive load]]
+   theories of [[Cognitive Load Theory (CLT)|cognitive load]]
 ````
 
 2. **Abbreviation expansion:**

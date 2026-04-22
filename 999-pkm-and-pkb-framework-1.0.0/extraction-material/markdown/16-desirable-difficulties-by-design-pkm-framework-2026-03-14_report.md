@@ -183,7 +183,7 @@ extraction_summary:
 #### 9. [CROSS-DOMAIN-CONNECTION] The Convergence of Five Research Traditions *(Line 152)*
 
 > [!cross-domain-connection] The Convergence of Five Research Traditions
-> What is remarkable about the desirable difficulties family is that its members were largely discovered independently. The [[spaced-repetition-spacing-effect|Spacing Effect]] dates to Ebbinghaus (1885). The [[generation-effect|Generation Effect]] was systematically documented by Slamecka and Graf in 1978. The [[Contextual-Interference-Effect|Contextual Interference Effect]] emerged from motor learning research by Shea and Morgan in 1979. The [[testing-effect-retrieval-practice-effect|Testing Effect]] as a learning strategy (not just assessment tool) was rigorously demonstrated by Roediger and Karpicke in 2006. [[productive-failure|Productive Failure]] was formalized by Kapur around 2010. These research programs did not build on each other in any direct sense — they arose from different laboratories, different paradigms, different theoretical frameworks. Yet they all converge on the same structural claim. When five independent experimental traditions arrive at the same conclusion via different routes, that convergence constitutes extraordinarily strong grounds for treating the finding as foundational.
+> What is remarkable about the desirable difficulties family is that its members were largely discovered independently. The [[spaced-repetition-spacing-effect|Spacing Effect]] dates to Ebbinghaus (1885). The [[generation-effect|Generation Effect]] was systematically documented by Slamecka and Graf in 1978. The [[Contextual-Interference-Effect|Contextual Interference Effect]] emerged from motor learning research by Shea and Morgan in 1979. The [[testing-effect-retrieval-practice-effect|Testing Effect]] as a learning strategy (not just assessment tool) was rigorously demonstrated by Roediger and Karpicke in 2006. [[Productive Failure|Productive Failure]] was formalized by Kapur around 2010. These research programs did not build on each other in any direct sense — they arose from different laboratories, different paradigms, different theoretical frameworks. Yet they all converge on the same structural claim. When five independent experimental traditions arrive at the same conclusion via different routes, that convergence constitutes extraordinarily strong grounds for treating the finding as foundational.
 
 #### 10. [KEY-CLAIM] The Central Proposition of This Report *(Line 155)*
 
@@ -251,12 +251,12 @@ extraction_summary:
 #### 21. [CROSS-DOMAIN-CONNECTION] Interleaving and Constructivist Struggle: The Same Mechanism *(Line 252)*
 
 > [!cross-domain-connection] Interleaving and Constructivist Struggle: The Same Mechanism
-> Kapur's [[productive-failure|Productive Failure]] framework and the [[Contextual-Interference-Effect|Contextual Interference Effect]] from motor learning appear to describe different phenomena in different contexts, but they share a deep mechanism: both create conditions where the learner cannot rely on recently activated procedures and must instead reconstruct a response from first principles or more abstract representations. In productive failure, this occurs because instruction hasn't happened yet; in interleaving, it occurs because the procedure for the previous problem type is no longer active. Both force the learner to engage the problem more abstractly, rather than by simple procedure application. This structural parallel suggests that any design intervention that prevents "groove-running" — the mindless application of a recently loaded procedure — is likely to engage the mechanism responsible for both effects. This is a novel integration: productive failure and contextual interference are both instances of what might be called "schema-invocation conditions," and their benefits stem from the same underlying cognitive demand.
+> Kapur's [[Productive Failure|Productive Failure]] framework and the [[Contextual-Interference-Effect|Contextual Interference Effect]] from motor learning appear to describe different phenomena in different contexts, but they share a deep mechanism: both create conditions where the learner cannot rely on recently activated procedures and must instead reconstruct a response from first principles or more abstract representations. In productive failure, this occurs because instruction hasn't happened yet; in interleaving, it occurs because the procedure for the previous problem type is no longer active. Both force the learner to engage the problem more abstractly, rather than by simple procedure application. This structural parallel suggests that any design intervention that prevents "groove-running" — the mindless application of a recently loaded procedure — is likely to engage the mechanism responsible for both effects. This is a novel integration: productive failure and contextual interference are both instances of what might be called "schema-invocation conditions," and their benefits stem from the same underlying cognitive demand.
 
 #### 22. [CROSS-DOMAIN-CONNECTION] CLT's Germane Load and Desirable Difficulties: A Precise Mapping *(Line 259)*
 
 > [!cross-domain-connection] CLT's Germane Load and Desirable Difficulties: A Precise Mapping
-> [[Report 02: The Architecture of Learning|Report 02]] established the distinction between intrinsic, extraneous, and germane cognitive load from [[cognitive-load-theory|Cognitive Load Theory]]. Desirable difficulties research provides an empirical specification of what germane load actually consists of. Germane load — load that contributes to schema construction — is precisely the cognitive effort required by desirable difficulties: retrieval search, generation from cues, discrimination between problem types, reconstruction from prior knowledge. Extraneous load — load that consumes working memory without contributing to learning — is precisely the effort produced by confusing instructions, poor formatting, irrelevant information, and disorganized presentation. The distinction between desirable and undesirable difficulties maps almost perfectly onto the germane/extraneous distinction. This parallel was not explicitly made in the original CLT literature, but it provides the mechanistic grounding for the design principle: desirable difficulties are interventions that convert working memory effort into germane load (schema-building) rather than extraneous load (processing overhead).
+> [[Report 02: The Architecture of Learning|Report 02]] established the distinction between intrinsic, extraneous, and germane cognitive load from [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]. Desirable difficulties research provides an empirical specification of what germane load actually consists of. Germane load — load that contributes to schema construction — is precisely the cognitive effort required by desirable difficulties: retrieval search, generation from cues, discrimination between problem types, reconstruction from prior knowledge. Extraneous load — load that consumes working memory without contributing to learning — is precisely the effort produced by confusing instructions, poor formatting, irrelevant information, and disorganized presentation. The distinction between desirable and undesirable difficulties maps almost perfectly onto the germane/extraneous distinction. This parallel was not explicitly made in the original CLT literature, but it provides the mechanistic grounding for the design principle: desirable difficulties are interventions that convert working memory effort into germane load (schema-building) rather than extraneous load (processing overhead).
 
 #### 23. [ANALYTICAL-INSIGHT] The PKB as a Fluency Machine *(Line 268)*
 
@@ -496,26 +496,26 @@ extraction_summary:
 ### Unique Targets
 
 - [[anki]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[constructivism]]
 - [[Constructivist-Struggle|Constructivist Struggle]]
 - [[Contextual-Interference|Contextual Interference]]
 - [[Contextual-Interference-Effect|Contextual Interference Effect]]
 - [[Dataview]]
 - [[Dataview-Plugin|Dataview Plugin]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Difficulty-Calibration-Algorithms-for-Self-Regulated-PKM|Difficulty Calibration Algorithms for Self-Regulated PKM]]
 - [[Error-Correction-Protocols-in-PKB-Design|Error Correction Protocols in PKB Design]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[generation-effect|Generation Effect]]
-- [[interleaving]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[interleaving-effect|Interleaving Effect]]
 - [[Kapur's Productive Failure]]
 - [[Metacognitive Training for Desirable Difficulties Adoption]]
 - [[Obsidian Spaced Repetition Plugin]]
 - [[Optimal Spacing Intervals for Complex Conceptual Material]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Productive Failure in Self-Directed Adult Learning]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 02: The Architecture of Learning]]
@@ -546,15 +546,15 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Phase I: Orientation & Synthesis Focus | 110 |
-| 2 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase I: Orientation & Synthesis Focus | 112 |
+| 2 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase I: Orientation & Synthesis Focus | 112 |
 | 3 | [[spaced-repetition-spacing-effect|Spacing Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 112 |
 | 4 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 112 |
 | 5 | [[generation-effect|Generation Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 112 |
 | 6 | [[interleaving-effect|Interleaving Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 112 |
-| 7 | [[productive-failure|Productive Failure]] | — | — | Phase I: Orientation & Synthesis Focus | 112 |
-| 8 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
+| 7 | [[Productive Failure|Productive Failure]] | — | — | Phase I: Orientation & Synthesis Focus | 112 |
+| 8 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
 | 9 | [[generation-effect|Generation Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
-| 10 | [[interleaving]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
+| 10 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
 | 11 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
 | 12 | [[Constructivist-Struggle|Constructivist Struggle]] | — | — | Phase I: Orientation & Synthesis Focus | 117 |
 | 13 | [[Report 06: The Science of Remembering]] | Report 06 | — | Phase I: Orientation & Synthesis Focus | 121 |
@@ -565,7 +565,7 @@ extraction_summary:
 | 18 | [[generation-effect|Generation Effect]] | — | — | The Family of Desirable Difficulties | 153 |
 | 19 | [[Contextual-Interference-Effect|Contextual Interference Effect]] | — | — | The Family of Desirable Difficulties | 153 |
 | 20 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | The Family of Desirable Difficulties | 153 |
-| 21 | [[productive-failure|Productive Failure]] | — | — | The Family of Desirable Difficulties | 153 |
+| 21 | [[Productive Failure|Productive Failure]] | — | — | The Family of Desirable Difficulties | 153 |
 | 22 | [[spaced-repetition-spacing-effect|Spacing Effect]] | — | — | Spacing: The Grandfather of Desirable... | 179 |
 | 23 | [[generation-effect|Generation Effect]] | — | — | The Generation Effect: Evidence and L... | 188 |
 | 24 | [[Report 02: The Architecture of Learning]] | Report 02 | — | The Generation Effect: Evidence and L... | 190 |
@@ -574,11 +574,11 @@ extraction_summary:
 | 27 | [[zone-of-proximal-development|Zone of Proximal Development]] | — | — | Productive Failure: Evidence from Edu... | 211 |
 | 28 | [[self-determination-theory|Self-Determination Theory]] | — | — | Productive Failure: Evidence from Edu... | 211 |
 | 29 | [[Report 20: Retrieval-Enhanced Knowledge Networks]] | Report 20 | — | Why Difficulty Helps: Four Converging... | 239 |
-| 30 | [[productive-failure|Productive Failure]] | — | — | Why Difficulty Helps: Four Converging... | 253 |
+| 30 | [[Productive Failure|Productive Failure]] | — | — | Why Difficulty Helps: Four Converging... | 253 |
 | 31 | [[Contextual-Interference-Effect|Contextual Interference Effect]] | — | — | Why Difficulty Helps: Four Converging... | 253 |
 | 32 | [[Report 06: The Science of Remembering]] | Report 06 | — | Why Difficulty Helps: Four Converging... | 257 |
 | 33 | [[Report 02: The Architecture of Learning]] | Report 02 | — | Why Difficulty Helps: Four Converging... | 260 |
-| 34 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Why Difficulty Helps: Four Converging... | 260 |
+| 34 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Why Difficulty Helps: Four Converging... | 260 |
 | 35 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | The Fluency Illusion as a Systems-Lev... | 264 |
 | 36 | [[Report 10: Scaffolding and Fading]] | Report 10 | — | The Difficulty Calibration Problem | 281 |
 | 37 | [[self-determination-theory|Self-Determination Theory]] | — | — | The Difficulty Calibration Problem | 283 |
@@ -591,10 +591,10 @@ extraction_summary:
 | 44 | [[Dataview]] | — | — | Design Principles Derived from Cross-... | 330 |
 | 45 | [[Templater]] | — | — | Design Principles Derived from Cross-... | 330 |
 | 46 | [[self-determination-theory|Self-Determination Theory]] | — | — | Limitations and Honest Boundaries | 350 |
-| 47 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Central Synthesis: Difficulty as ... | 372 |
+| 47 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | The Central Synthesis: Difficulty as ... | 372 |
 | 48 | [[constructivism]] | — | — | The Central Synthesis: Difficulty as ... | 376 |
 | 49 | [[Report 03: Constructing Understanding]] | Report 03 | — | The Central Synthesis: Difficulty as ... | 376 |
-| 50 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Central Synthesis: Difficulty as ... | 378 |
+| 50 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | The Central Synthesis: Difficulty as ... | 378 |
 | 51 | [[Report 02: The Architecture of Learning]] | Report 02 | — | The Central Synthesis: Difficulty as ... | 378 |
 | 52 | [[self-determination-theory|Self-Determination Theory]] | — | — | The Question of Unresolved Tensions | 385 |
 | 53 | [[Report 19: Sustaining Lifelong Learning]] | Report 19 | — | The Question of Unresolved Tensions | 385 |
@@ -627,26 +627,26 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[anki]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[constructivism]]
 - [[Constructivist-Struggle|Constructivist Struggle]]
 - [[Contextual-Interference|Contextual Interference]]
 - [[Contextual-Interference-Effect|Contextual Interference Effect]]
 - [[Dataview]]
 - [[Dataview-Plugin|Dataview Plugin]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Difficulty-Calibration-Algorithms-for-Self-Regulated-PKM|Difficulty Calibration Algorithms for Self-Regulated PKM]]
 - [[Error-Correction-Protocols-in-PKB-Design|Error Correction Protocols in PKB Design]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[generation-effect|Generation Effect]]
-- [[interleaving]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[interleaving-effect|Interleaving Effect]]
 - [[Kapur's Productive Failure]]
 - [[Metacognitive Training for Desirable Difficulties Adoption]]
 - [[Obsidian Spaced Repetition Plugin]]
 - [[Optimal Spacing Intervals for Complex Conceptual Material]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Productive Failure in Self-Directed Adult Learning]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 02: The Architecture of Learning]]
@@ -684,25 +684,25 @@ extraction_summary:
 
 #### Related Concepts
 
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[generation-effect|Generation Effect]]
 - [[interleaving-effect|Interleaving Effect]]
 - [[testing-effect-retrieval-practice-effect|Testing Effect]]
 - [[spaced-repetition-spacing-effect|Spacing Effect]]
-- [[retrieval-practice|Retrieval Practice]]
-- [[productive-failure|Productive Failure]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]
+- [[Productive Failure|Productive Failure]]
 - [[Constructivist-Struggle|Constructivist Struggle]]
 - [[Contextual-Interference-Effect|Contextual Interference Effect]]
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Encoding Variability Hypothesis]]
 - [[transfer-appropriate-processing|Transfer-Appropriate Processing]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
-- [[germane-load|Germane Load]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Germane Load]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[zone-of-proximal-development|Zone of Proximal Development]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[Optimal-Challenge|Optimal Challenge]]
-- [[worked-example-effect|Worked Example Effect]]
+- [[the-worked-example-effect|Worked Example Effect]]
 - [[Variability of Practice]]
 - [[personal-knowledge-base|Personal Knowledge Base]]
 - [[obsidian]]

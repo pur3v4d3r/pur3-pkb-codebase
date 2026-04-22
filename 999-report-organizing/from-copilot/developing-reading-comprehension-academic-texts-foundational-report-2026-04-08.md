@@ -96,12 +96,12 @@ key-distinctions:
   - "Textbase vs. Situation Model"
   - "Decoding vs. Comprehension"
   - "Surface-level vs. Deep-level Processing"
-prerequisites: ["[[working-memory]]", "[[schema-theory]]", "[[metacognition]]"]
-related: ["[[cognitive-load-theory]]", "[[self-regulated-learning]]", "[[metacognitive-monitoring]]", "[[prior-knowledge]]"]
+prerequisites: ["[[working-memory]]", "[[schema-theory-and-knowledge-organization]]", "[[metacognition]]"]
+related: ["[[Cognitive Load Theory (CLT)]]", "[[self-regulated-learning]]", "[[metacognitive-monitoring]]", "[[prior-knowledge]]"]
 broader: ["[[cognitive-psychology-foundations]]", "[[educational-psychology]]"]
 narrower: ["[[situation-models-in-text-comprehension]]", "[[comprehension-monitoring]]"]
 see-also: ["[[reading-fluency]]", "[[Vocabulary-Acquisition-for-Reading-Automaticity]]", "[[cog-sci-pkm-reading-fluency-and-comprehension-in-pkm]]"]
-builds-on: ["[[schema-theory]]", "[[working-memory]]", "[[cognitive-load-theory]]"]
+builds-on: ["[[schema-theory-and-knowledge-organization]]", "[[working-memory]]", "[[Cognitive Load Theory (CLT)]]"]
 enables: ["[[knowledge-telling-vs.-knowledge-transforming]]", "[[self-directed-learning]]", "[[metacognitive-regulation]]"]
 
 # ═══════════════════════════════════════════════════════════════
@@ -161,7 +161,7 @@ connection-strength:
 ---
 
 > [!schema-activation] Prior Knowledge Bridge: What You Already Know About Reading
-> If you have engaged with any of the foundational reports in this knowledge base — particularly those on [[schema-theory]], [[working-memory]], [[metacognition]], and [[cognitive-load-theory]] — you are already equipped with the conceptual scaffolding this report builds upon. Reading comprehension is not a single skill; it is the top-level integrated product of a multi-layer cognitive architecture. Every theory you have previously encountered — from Baddeley's [[working-memory-in-reading|working memory model]] to Rumelhart's [[schema-theory-and-learning|schema theory]] to Flavell's [[metacognition|metacognitive framework]] — contributes a distinct explanatory layer to the comprehension problem.
+> If you have engaged with any of the foundational reports in this knowledge base — particularly those on [[schema-theory-and-knowledge-organization]], [[working-memory]], [[metacognition]], and [[Cognitive Load Theory (CLT)]] — you are already equipped with the conceptual scaffolding this report builds upon. Reading comprehension is not a single skill; it is the top-level integrated product of a multi-layer cognitive architecture. Every theory you have previously encountered — from Baddeley's [[working-memory-in-reading|working memory model]] to Rumelhart's [[schema-theory-and-learning|schema theory]] to Flavell's [[metacognition|metacognitive framework]] — contributes a distinct explanatory layer to the comprehension problem.
 >
 > The central puzzle this report investigates is: *Why do many intelligent, motivated learners who read fluently in everyday contexts nonetheless struggle to comprehend, retain, and use knowledge from academic texts?* The answer is not a single bottleneck but a cascade of interacting demands — lexical, schematic, inferential, metacognitive, and motivational — that converge in the act of academic reading.
 >
@@ -378,7 +378,7 @@ The relationship between vocabulary and situation model construction is not mere
 >
 > **Report-Specific Significance:** Schema activation is the primary mechanism through which prior knowledge is recruited during reading. The quality and specificity of the schemas a reader brings to an academic text largely determines how much inference generation, situation model integration, and deep comprehension will be achievable.
 >
-> **See also:** [[schema-theory]], [[schema-theory-and-learning]], [[schema-theory-and-learning-foundational-report-2026-03-06]], [[prior-knowledge]], [[schema-automation-in-reading]]
+> **See also:** [[schema-theory-and-knowledge-organization]], [[schema-theory-and-learning]], [[schema-theory-and-learning-foundational-report-2026-03-06]], [[prior-knowledge]], [[schema-automation-in-reading]]
 
 [[frederic-bartlett]]'s 1932 experiments with the "War of the Ghosts" story remain foundational in reading comprehension research. Bartlett gave British participants an unfamiliar North American Indigenous folk tale to read and recall at varying delays. The systematic distortions that appeared in recall — rationalisation of unfamiliar elements, intrusion of culturally expected elements, reduction of complexity to expected patterns — demonstrated that memory for text is not a faithful copy but a *reconstructive* process shaped by the reader's existing cultural schemas. Bartlett concluded that understanding a text means assimilating it to existing knowledge structures, with consequential implications for how "comprehension" should be assessed.
 
@@ -540,7 +540,7 @@ The [[comprehension-monitoring]] literature has identified specific signal class
 >
 > Particularly problematic for academic reading is what Bjork (1994) calls "fluency illusion": texts that are quickly processed, stylistically familiar, or consistent with existing beliefs generate a subjective sense of understanding that can be entirely decoupled from actual situation model quality. A conspiracy theory that confirms a reader's existing beliefs will generate high subjective comprehension; a rigorous academic argument that challenges those beliefs will generate low subjective comprehension — even if the academic argument is actually more clearly written.
 >
-> **See also:** [[metacognitive-monitoring]], [[desirable-difficulties]], [[self-explanation-effect]]
+> **See also:** [[metacognitive-monitoring]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[self-explanation-effect]]
 
 ### Fix-Up Strategies and Comprehension Repair
 
@@ -632,7 +632,7 @@ If comprehension depends on prior knowledge, and prior knowledge is accumulated 
 > [!claude-insight] The Cumulative Advantage Problem in Academic Reading Instruction
 > There is a deep tension in academic reading instruction between short-term comprehension support and long-term development. Short-term supports — glossaries, text scaffolding, pre-reading discussions, accessible paraphrases — improve immediate comprehension for developing readers. But they may also reduce the *comprehension effort* that drives vocabulary acquisition, inference generation skill, and schema development. 
 >
-> The most effective long-term academic reading development requires what Bjork (1994) calls [[desirable-difficulties]]: productive difficulty that requires learners to actively deploy and consolidate comprehension processes, rather than relying on support systems that do cognitive work for them. This creates an instructional dilemma: reducing demand supports access and motivation; maintaining demand drives development. The resolution lies in *calibrated scaffolding* — providing support at the level of immediate demand while systematically withdrawing support as competence develops, requiring learners to internalise the processes being scaffolded.
+> The most effective long-term academic reading development requires what Bjork (1994) calls [[Desirable Difficulties (Robert Bjork, 1994)]]: productive difficulty that requires learners to actively deploy and consolidate comprehension processes, rather than relying on support systems that do cognitive work for them. This creates an instructional dilemma: reducing demand supports access and motivation; maintaining demand drives development. The resolution lies in *calibrated scaffolding* — providing support at the level of immediate demand while systematically withdrawing support as competence develops, requiring learners to internalise the processes being scaffolded.
 
 ### Addressing Matthew Effect Through Volume and Engagement
 
@@ -641,9 +641,9 @@ The [[matthew-effect-in-reading]] demonstrates that reading comprehension advant
 Research on sustained silent reading (SSR) programs and independent reading (Krashen, 2004; Guthrie & Wigfield, 2000) is more mixed than its advocates suggest, but the broader evidence on reading engagement is clear: motivation to read is a major mediator of reading volume, and reading volume is a major driver of vocabulary acquisition, schema enrichment, and fluency development. Academic reading development programs that address motivation and reading identity alongside cognitive skills produce substantially better outcomes than purely skills-focused programs.
 
 > [!key-claim] Reading Motivation as a Necessary Component of Academic Reading Development
-> [[intrinsic-motivation|Intrinsic reading motivation]] — choosing to read, finding value in reading, experiencing reading as pleasurable — predicts reading volume, and reading volume predicts comprehension development independently of cognitive reading skill. Academic reading motivation is domain-specific and is developed through success experiences with increasingly challenging texts, through the sense that reading leads to personally meaningful knowledge, and through social reading environments that normalise academic engagement.
+> [[Intrinsic Motivation|Intrinsic reading motivation]] — choosing to read, finding value in reading, experiencing reading as pleasurable — predicts reading volume, and reading volume predicts comprehension development independently of cognitive reading skill. Academic reading motivation is domain-specific and is developed through success experiences with increasingly challenging texts, through the sense that reading leads to personally meaningful knowledge, and through social reading environments that normalise academic engagement.
 >
-> **See also:** [[intrinsic-motivation]], [[self-efficacy]], [[academic-emotions]], [[flow]], [[Matthew-Effect-Interventions-and-the-Closing-of-Early-Gaps]]
+> **See also:** [[Intrinsic Motivation]], [[self-efficacy]], [[academic-emotions]], [[flow]], [[Matthew-Effect-Interventions-and-the-Closing-of-Early-Gaps]]
 
 ### Transfer, Calibration, and Long-Run Development
 
@@ -775,14 +775,14 @@ The development of this metacognitive understanding of reading is, in a sense, t
 >
 > **Boundary:** Accommodation does not always occur when it should. Readers with strong prior schemas routinely assimilate incompatible new information into existing structures (the misconception-based interference described in Section 4), producing apparent understanding that is actually distortion.
 >
-> **See also:** [[schema-theory]], [[Conceptual-Change-Theory]], [[prior-knowledge]], [[assimilation-and-accommodation]]
+> **See also:** [[schema-theory-and-knowledge-organization]], [[Conceptual-Change-Theory]], [[prior-knowledge]], [[assimilation-and-accommodation]]
 
 > [!definition] **Verbal Efficiency Theory (Perfetti, 1985, 1988)**
 > The Verbal Efficiency Theory predicts that individual differences in reading comprehension are substantially explained by the efficiency (speed and accuracy) of local word recognition and lexical processing. Readers for whom word recognition consumes excessive working memory resources — due to low automaticity of decoding or lexical access — have fewer cognitive resources available for higher-order comprehension processes. The theory predicts a *processing bottleneck* at the word level for less efficient readers that constrains comprehension quality even when the reader possesses the relevant schemas and vocabulary knowledge for the text's content.
 >
 > **Boundary:** Verbal efficiency effects are most pronounced with developing and emerging readers. With skilled adult readers, individual differences in comprehension are better explained by higher-order cognitive variables (inference generation, schema richness, working memory capacity) rather than by word-level efficiency, which is typically high and non-differentiating in adults.
 >
-> **See also:** [[verbal-efficiency-theory]], [[reading-fluency]], [[working-memory-in-reading]], [[cognitive-load-theory]]
+> **See also:** [[verbal-efficiency-theory]], [[reading-fluency]], [[working-memory-in-reading]], [[Cognitive Load Theory (CLT)]]
 
 > [!definition] **Tier 2 Academic Vocabulary (Beck, McKeown & Kucan, 2002)**
 > Tier 2 vocabulary consists of high-frequency, general academic words that appear across disciplines and academic registers but rarely in conversational speech — examples include *analyse, synthesis, mechanism, paradigm, infer, criterion, implicit, hypothesis, juxtapose, ambiguous*. Tier 2 words are the connective tissue of academic argument, carrying logical, rhetorical, and epistemic relationships between ideas. Developing academic readers typically lack both the breadth and depth of Tier 2 vocabulary required for full academic text comprehension, making Tier 2 instruction the highest-priority vocabulary intervention for academic reading development beyond basic literacy.
@@ -796,7 +796,7 @@ The development of this metacognitive understanding of reading is, in a sense, t
 >
 > **Boundary:** Self-explanation is effortful and time-intensive compared to re-reading. It is most valuable for conceptually challenging texts where comprehension of deep structure matters; its advantages over passive re-reading are smaller for simple factual texts where surface comprehension is sufficient.
 >
-> **See also:** [[self-explanation-effect]], [[self-explanation]], [[elaborative-interrogation]], [[retrieval-practice]]
+> **See also:** [[self-explanation-effect]], [[self-explanation-effect]], [[Elaborative Interrogation]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 ---
 
@@ -1145,7 +1145,7 @@ The development of this metacognitive understanding of reading is, in a sense, t
 >
 > **Suggested report type:** Comparative Architecture — comparing reading practices and epistemic standards across 4–5 major academic disciplines.
 >
-> **Prerequisites:** [[situation-model]], [[schema-theory]], [[walter-kintsch]]
+> **Prerequisites:** [[situation-model]], [[schema-theory-and-knowledge-organization]], [[walter-kintsch]]
 
 > [!topic-idea] **[[Second-Language-Academic-Reading-Comprehension]]**
 > **Description:** Academic reading comprehension in a second language introduces additional layers of complexity — L2 vocabulary gaps, cross-linguistic schema conflicts, syntactic parsing overhead, and the interplay of L1 schemas with L2 text structures. This is a substantial independent research tradition with its own theoretical models (e.g., the Linguistic Threshold Hypothesis, Cummins' Common Underlying Proficiency) and instructional implications for the rapidly growing population of English-as-an-additional-language academic readers.
@@ -1156,7 +1156,7 @@ The development of this metacognitive understanding of reading is, in a sense, t
 >
 > **Suggested report type:** Foundational Report — a comprehensive treatment of L2 academic reading comprehension as a field.
 >
-> **Prerequisites:** [[Vocabulary-Acquisition-for-Reading-Automaticity]], [[schema-theory]], [[verbal-efficiency-theory]]
+> **Prerequisites:** [[Vocabulary-Acquisition-for-Reading-Automaticity]], [[schema-theory-and-knowledge-organization]], [[verbal-efficiency-theory]]
 
 > [!topic-idea] **[[Reciprocal-Teaching-Research-Base-and-Implementation-Evidence]]**
 > **Description:** A focused critical analysis of the reciprocal teaching research literature — including the original Palincsar & Brown (1984) studies, the meta-analyses, the implementation challenges at scale, and the modifications proposed for secondary and tertiary contexts. This report treated reciprocal teaching as an intervention with a positive evidence base; a focused critical analysis would interrogate that evidence more rigorously.
@@ -1189,7 +1189,7 @@ The development of this metacognitive understanding of reading is, in a sense, t
 >
 > **Suggested report type:** Practitioner's Field Guide — with practical protocols for academic text authors and instructional material designers.
 >
-> **Prerequisites:** [[cognitive-load-theory]], [[cognitive-load-theory-foundational-report-2026-03-11]], [[working-memory-in-reading]]
+> **Prerequisites:** [[Cognitive Load Theory (CLT)]], [[cognitive-load-theory-foundational-report-2026-03-11]], [[working-memory-in-reading]]
 
 ---
 
@@ -1199,9 +1199,9 @@ The development of this metacognitive understanding of reading is, in a sense, t
 
 **Upstream Dependencies (this report builds on existing PKB knowledge):**
 
-- **[[schema-theory]] and [[schema-theory-and-learning-foundational-report-2026-03-06]]** — Schema theory is the foundational framework for this report's account of prior knowledge and inference generation. The existing PKB report on schema theory and learning provides the theoretical depth that this report applies to reading specifically. The two reports form a natural reading pair.
+- **[[schema-theory-and-knowledge-organization]] and [[schema-theory-and-learning-foundational-report-2026-03-06]]** — Schema theory is the foundational framework for this report's account of prior knowledge and inference generation. The existing PKB report on schema theory and learning provides the theoretical depth that this report applies to reading specifically. The two reports form a natural reading pair.
 
-- **[[cognitive-load-theory]] and [[cognitive-load-theory-foundational-report-2026-03-11]]** — The working memory load-sharing account of reading fluency (Section 2) directly applies CLT principles. This report's argument about why lexical automaticity matters is essentially a CLT argument — automatising word recognition reduces extraneous cognitive load.
+- **[[Cognitive Load Theory (CLT)]] and [[cognitive-load-theory-foundational-report-2026-03-11]]** — The working memory load-sharing account of reading fluency (Section 2) directly applies CLT principles. This report's argument about why lexical automaticity matters is essentially a CLT argument — automatising word recognition reduces extraneous cognitive load.
 
 - **[[advance-organizers]] and [[advance-organizers-prior-knowledge-foundational-report-2026-03-11]]** — Ausubel's advance organizer theory is applied in Section 4 as a practical schema activation tool. The existing advance organizers report deepens the theoretical account that this report applies.
 
@@ -1215,15 +1215,15 @@ The development of this metacognitive understanding of reading is, in a sense, t
 
 - **[[note-making-vs.-note-taking]]** — The situation model construction account implies that effective notes capture inferred relationships and causal structures (situation model content), not just propositional summaries (textbase content). This report provides the justification for the note-making vs. note-taking distinction.
 
-- **[[self-explanation-effect]] and [[self-explanation]]** — This report contextualises self-explanation within the CI model and inference generation architecture. Future self-explanation practice notes should link back to this report for the theoretical grounding.
+- **[[self-explanation-effect]] and [[self-explanation-effect]]** — This report contextualises self-explanation within the CI model and inference generation architecture. Future self-explanation practice notes should link back to this report for the theoretical grounding.
 
-- **[[retrieval-practice]] and [[spaced-repetition]]** — The situation model construction account implies that retrieval practice forces the same active reconstruction that makes reading comprehension develop over time. This convergence enriches both the retrieval practice node and the reading comprehension node.
+- **[[Desirable Difficulties (Robert Bjork, 1994)]] and [[spaced-repetition]]** — The situation model construction account implies that retrieval practice forces the same active reconstruction that makes reading comprehension develop over time. This convergence enriches both the retrieval practice node and the reading comprehension node.
 
 **Lateral Connections (mutual enrichment with existing PKB nodes):**
 
 - **[[writing-to-learn]]** — Both reading comprehension and writing-to-learn involve active situation model construction; writing-to-learn outcomes parallel the self-explanation effect outcomes, suggesting a shared mechanism. Connecting these notes would enrich both.
 
-- **[[desirable-difficulties]]** — Bjork's desirable difficulties framework applies directly to academic reading development: the difficulty of authentic, challenging academic text is a desirable difficulty that drives vocabulary acquisition, schema development, and inference generation skill. The connection is theoretical and practical.
+- **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Bjork's desirable difficulties framework applies directly to academic reading development: the difficulty of authentic, challenging academic text is a desirable difficulty that drives vocabulary acquisition, schema development, and inference generation skill. The connection is theoretical and practical.
 
 - **[[self-regulated-learning]]** — Zimmerman's SRL cycle maps precisely onto the Pre-Reading/During-Reading/Post-Reading protocol framework in Section 7 and Appendix 8.7. This report operationalises SRL theory in the specific domain of academic reading.
 

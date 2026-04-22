@@ -112,7 +112,7 @@ status: evergreen
 certainty: verified
 type: reference
 related_frameworks: [[ReAct]], [[Tree-of-Thoughts]], [[Chain-of-Thought]], [[Agentic Reasoning]]
-cognitive_foundations: [[General Problem Solver]], [[Means-Ends Analysis]], [[cognitive-load-theory]]
+cognitive_foundations: [[General Problem Solver]], [[Means-Ends Analysis]], [[Cognitive Load Theory (CLT)]]
 planning_formalisms: [[STRIPS]], [[HTN]], [[Classical Planning]]
 ---
 

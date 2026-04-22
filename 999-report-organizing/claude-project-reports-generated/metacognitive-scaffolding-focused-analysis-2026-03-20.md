@@ -88,7 +88,7 @@ document-features:
 prerequisites:
   - "[[metacognition]]"
   - "[[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
 
 builds_on:
   - "[[flavell-metacognition-framework]]"
@@ -99,11 +99,11 @@ builds_on:
 link_related:
   - "[[metacognitive-monitoring]]"
   - "[[metacognitive-regulation]]"
-  - "[[monitoring-control-coupling]]"
-  - "[[fluency-illusion]]"
+  - "[[Monitoring-Control Coupling]]"
+  - "[[Fluency Illusion]]"
   - "[[transfer-of-learning]]"
-  - "[[scaffolded-fading]]"
-  - "[[desirable-difficulties]]"
+  - "[[Scaffolded Fading]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
 
 aliases:
   - "[[Metacognitive Scaffolding Report]]"
@@ -142,7 +142,7 @@ The evidence is considerably more complicated. Awareness of one's cognitive stat
 
 **Why This Question Matters Now**: The proliferation of AI-assisted learning tools has created a new category of metacognitive scaffolding at scale — adaptive questioning systems, comprehension monitoring interfaces, and AI tutors designed to prompt metacognitive awareness. Understanding the mechanism well enough to anticipate where it fails is not merely theoretically interesting; it is practically urgent. Tools that provide scaffolding without understanding the conditions under which scaffolding produces dependence rather than capacity are likely to be counterproductive at precisely the scale their designers intend them to succeed.
 
-**Roadmap**: Phase II establishes the dual-framework architecture (Flavell's knowledge/experience model and the Nelson-Narens monitoring-control hierarchy) that structures the analysis. Phase III examines the evidence base, with particular attention to the underappreciated gap between monitoring interventions and regulatory outcomes. Phase IV descends to the mechanisms — how scaffolding targets the [[monitoring-control-coupling]] and why the [[fluency-illusion]] makes unscaffolded monitoring unreliable. Phase V traces implications for design and identifies the scaffold-dependence failure mode. Phase VI offers an original synthesis framing metacognitive scaffolding as a cognitive prosthetic that must have its own exit strategy. Phase VII encodes the structural principles for transfer across domains. Phases VIII and IX provide PKB connections and reference materials.
+**Roadmap**: Phase II establishes the dual-framework architecture (Flavell's knowledge/experience model and the Nelson-Narens monitoring-control hierarchy) that structures the analysis. Phase III examines the evidence base, with particular attention to the underappreciated gap between monitoring interventions and regulatory outcomes. Phase IV descends to the mechanisms — how scaffolding targets the [[Monitoring-Control Coupling]] and why the [[Fluency Illusion]] makes unscaffolded monitoring unreliable. Phase V traces implications for design and identifies the scaffold-dependence failure mode. Phase VI offers an original synthesis framing metacognitive scaffolding as a cognitive prosthetic that must have its own exit strategy. Phase VII encodes the structural principles for transfer across domains. Phases VIII and IX provide PKB connections and reference materials.
 
 > [!ask-yourself-this] **Prediction Point**
 > Before reading Phase II, predict: Where do you think the primary failure of metacognitive scaffolding lies? Is it a failure of the monitoring component (learners don't accurately detect their epistemic state), a failure of the control component (learners detect their state but don't adjust), or a failure of the transfer from scaffolded to unscaffolded conditions (learners use the scaffold but don't internalise the capacity)? Commit to a prediction. The comparison between this prediction and the evidence in Phase IV is where the analysis will be most productive.
@@ -172,7 +172,7 @@ The second foundational strand for this analysis is the scaffolding construct it
 > Contingent support provided to a learner working within their [[zone-of-proximal-development]] that enables task performance currently beyond independent capability. Six defining functions: recruitment (engaging learner interest in the task), reduction of degrees of freedom (simplifying the task without eliminating its essential structure), direction maintenance (keeping the learner focused on the goal), marking critical features (highlighting key errors and relevant task features), frustration control (managing the affective response to difficulty), and demonstration (modelling ideal solutions for imitation). The defining property is contingency: support should increase when the learner struggles and decrease as competence develops.
 
 > [!definition] **Scaffolded Fading (Collins, Brown & Newman, 1989)**
-> The planned, gradual withdrawal of scaffolding support as learner competence develops, ultimately requiring independent performance. [[scaffolded-fading]] is the mechanism by which scaffolding becomes a developmental rather than a permanent support. Without fading, scaffolding produces competence at performing tasks with support but not competence at the task itself. The timing and gradient of fading is one of the most important and underspecified aspects of scaffolding design.
+> The planned, gradual withdrawal of scaffolding support as learner competence develops, ultimately requiring independent performance. [[Scaffolded Fading]] is the mechanism by which scaffolding becomes a developmental rather than a permanent support. Without fading, scaffolding produces competence at performing tasks with support but not competence at the task itself. The timing and gradient of fading is one of the most important and underspecified aspects of scaffolding design.
 
 The critical analytical move of this report is to apply the Vygotskian scaffolding construct specifically to the Nelson-Narens monitoring-control architecture. Metacognitive scaffolding is not simply "helping learners think about their thinking" — it is a targeted intervention that aims to externally support one or both of the information flows (monitoring and control) that the internal metacognitive system ordinarily performs. When this framing is applied consistently, several features of the evidence become considerably clearer.
 
@@ -221,7 +221,7 @@ The evidence becomes more nuanced when we examine not just whether metacognitive
 
 **The Fluency Illusion as the Foundational Challenge**
 
-Any account of why metacognitive scaffolding is necessary must grapple with the [[fluency-illusion]] — perhaps the most important phenomenon in the metacognition literature for understanding why unscaffolded metacognition is so unreliable.
+Any account of why metacognitive scaffolding is necessary must grapple with the [[Fluency Illusion]] — perhaps the most important phenomenon in the metacognition literature for understanding why unscaffolded metacognition is so unreliable.
 
 > [!evidence] **Koriat and Bjork (2005) — Illusions of Competence**
 > Koriat and Bjork demonstrated systematically that learners' judgments of learning are driven heavily by the fluency of processing during study — how easily information comes to mind, how smoothly text is read — rather than by the actual durability of encoding. Critically, fluency during study is a poor predictor of retention. Material that feels easy to understand during study is not thereby well-encoded. The phenomenological signal that learners use as the input to metacognitive monitoring is systematically decoupled from the actual cognitive state it purports to index. This means that unscaffolded monitoring is not merely imprecise — it is predictably biased in a specific direction, systematically overestimating comprehension precisely when comprehension is superficial.
@@ -231,7 +231,7 @@ Any account of why metacognitive scaffolding is necessary must grapple with the 
 
 **The Expertise Reversal Problem**
 
-A crucial boundary condition for metacognitive scaffolding effectiveness is learner expertise level. The [[expertise-reversal-effect]] (Kalyuga, Chandler, Tuovinen & Sweller, 2003) documents that instructional support that benefits novices can actively harm experts — the same scaffolding that helps a novice manage cognitive load by structuring the task space can impose redundant processing costs on an expert who has already automated the relevant structures.
+A crucial boundary condition for metacognitive scaffolding effectiveness is learner expertise level. The [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] (Kalyuga, Chandler, Tuovinen & Sweller, 2003) documents that instructional support that benefits novices can actively harm experts — the same scaffolding that helps a novice manage cognitive load by structuring the task space can impose redundant processing costs on an expert who has already automated the relevant structures.
 
 This effect applies directly to metacognitive scaffolding. Prompts that help novices notice what they don't know become intrusive and unhelpful for experts who have accurate, automatic metacognitive sensitivity in the domain. More importantly for Phase V's discussion of failure modes: the expertise reversal effect means that scaffolding designs need to be sensitive to where the learner is in the expertise continuum — and static scaffolding designs that do not respond to learner development will systematically become counterproductive as competence develops.
 
@@ -268,16 +268,16 @@ Effective metacognitive scaffolding resolves this problem not by improving the i
 
 **The Desirable Difficulty Interface**
 
-This mechanistic account connects directly to the [[desirable-difficulties]] framework (Bjork, 1994), which provides the second major explanatory strand for why effective metacognitive scaffolding works.
+This mechanistic account connects directly to the [[Desirable Difficulties (Robert Bjork, 1994)]] framework (Bjork, 1994), which provides the second major explanatory strand for why effective metacognitive scaffolding works.
 
-Desirable difficulties are conditions that slow initial acquisition but enhance long-term retention and transfer. The canonical examples — spaced practice, interleaving, retrieval practice — all share a structural feature: they make processing harder without making the material less learnable. The difficulty is desirable precisely because the additional processing effort generates what [[germane-cognitive-load|germane cognitive load]] theory calls schema construction — the building of integrated mental structures rather than fluent but shallow encoding.
+Desirable difficulties are conditions that slow initial acquisition but enhance long-term retention and transfer. The canonical examples — spaced practice, interleaving, retrieval practice — all share a structural feature: they make processing harder without making the material less learnable. The difficulty is desirable precisely because the additional processing effort generates what [[Cognitive Load Theory (CLT)|germane cognitive load]] theory calls schema construction — the building of integrated mental structures rather than fluent but shallow encoding.
 
 > [!analytical-insight] **Metacognitive Scaffolding as Difficulty Engineering**
 > Effective metacognitive scaffolding works in part by strategically introducing difficulty into processing that would otherwise be fluent. A conceptual checkpoint — "Can you explain this mechanism without using the exact phrasing from the text?" — makes understanding harder to fake than passive re-reading. A prediction prompt — "Before reading on, commit to a prediction about what the evidence will show" — creates a situation in which the learner's internal model is placed at risk of disconfirmation. The scaffold is not making learning easier; it is making shallow processing harder. This is the opposite of the colloquial understanding of scaffolding as support that reduces difficulty. The best metacognitive scaffolding increases certain kinds of difficulty while managing others — specifically, it increases the difficulty of being unconsciously wrong while reducing the difficulty of becoming consciously right.
 
 **The Monitoring-Control Coupling Mechanism**
 
-The evidence in Phase III established that monitoring gains do not automatically produce control gains. Understanding why requires a more careful analysis of the [[monitoring-control-coupling]] — the mechanism by which the meta-level representation of cognitive state translates into object-level regulatory action.
+The evidence in Phase III established that monitoring gains do not automatically produce control gains. Understanding why requires a more careful analysis of the [[Monitoring-Control Coupling]] — the mechanism by which the meta-level representation of cognitive state translates into object-level regulatory action.
 
 The Nelson-Narens framework treats monitoring and control as functionally separable but does not provide a detailed account of their normal coupling. Recent work in the broader [[self-regulated-learning]] tradition (Zimmerman, Pintrich, and the models that build on them) provides the missing piece: the monitoring-control link is mediated by interpretive frameworks that determine what a monitoring judgment *means* — that is, what regulatory response it calls for.
 
@@ -290,19 +290,19 @@ A learner who detects that they do not understand a passage knows that they do n
 
 A third mechanistic strand deserves attention because it explains a specific failure mode that is otherwise puzzling: metacognitive scaffolding often produces worse outcomes when applied to learners under high cognitive load, precisely the conditions where metacognitive support seems most needed.
 
-The explanation lies in the resource competition between primary learning tasks and metacognitive processing. [[metacognitive-regulation|Metacognitive regulation]] is itself a cognitive activity requiring [[working-memory|working memory]] resources. When a learner is operating near the limits of working memory — because the learning material is highly complex, intrinsically demanding, or unfamiliar — adding metacognitive scaffolding requirements further taxes the already-stressed system. This is [[intrinsic-cognitive-load|intrinsic cognitive load]] interacting with the cognitive overhead of metacognitive processing.
+The explanation lies in the resource competition between primary learning tasks and metacognitive processing. [[metacognitive-regulation|Metacognitive regulation]] is itself a cognitive activity requiring [[working-memory|working memory]] resources. When a learner is operating near the limits of working memory — because the learning material is highly complex, intrinsically demanding, or unfamiliar — adding metacognitive scaffolding requirements further taxes the already-stressed system. This is [[Cognitive Load Theory (CLT)|intrinsic cognitive load]] interacting with the cognitive overhead of metacognitive processing.
 
 > [!tension-identified] **The Load Paradox: Most Needed When Most Harmful**
 > The conditions under which metacognitive scaffolding is most needed — high complexity, genuine unfamiliarity, edge-of-competence challenge — are precisely the conditions under which the cognitive overhead of metacognitive processing is most likely to be harmful. A learner struggling with the primary task will experience metacognitive questioning as disruptive rather than supportive if it exceeds their available working memory resources. The resolution of this paradox is not to eliminate metacognitive scaffolding under load, but to design it so that its cognitive overhead is minimised — using brief, highly structured prompts that require simple binary responses rather than open-ended reflective questions, and timing it at natural task boundaries rather than during peak processing demand.
 
 **The Fading Mechanism and Its Failure**
 
-The [[scaffolded-fading|fading]] mechanism deserves mechanistic attention because it is the most systematically neglected dimension of scaffolding design in practice. The theoretical case for fading is well-established: if scaffolding is gradually withdrawn as competence develops, the learner must progressively internalise the externally-provided metacognitive function. The scaffold's support is progressively replaced by the learner's developing internal [[metacognitive-regulation]] capacity.
+The [[Scaffolded Fading|fading]] mechanism deserves mechanistic attention because it is the most systematically neglected dimension of scaffolding design in practice. The theoretical case for fading is well-established: if scaffolding is gradually withdrawn as competence develops, the learner must progressively internalise the externally-provided metacognitive function. The scaffold's support is progressively replaced by the learner's developing internal [[metacognitive-regulation]] capacity.
 
 The failure mode occurs when fading does not happen, or happens too slowly. Learners who remain in scaffolded environments indefinitely develop performance competence with the scaffold but fail to develop the internal metacognitive regulation that the scaffold was designed to cultivate. The scaffold becomes a permanent accommodation rather than a developmental support. This is the cognitive analogue of a physical rehabilitation patient who recovers the ability to walk with a crutch but never has the crutch removed and therefore never develops the muscle strength required for unassisted gait.
 
 > [!analytical-insight] **The Comfort Trap in Scaffolding Design**
-> Scaffolded environments that successfully reduce learner struggle — that reliably prevent errors, smooth over confusions, and ensure successful task completion — are often rated highly by both learners and educators in terms of satisfaction. They produce positive affect, a sense of progress, and high completion rates. But from a mechanisms perspective, a scaffold that is too effective at preventing difficulty is also preventing the [[productive-failure|productive failure]] events and the [[productive-struggle|productive struggle]] that generate the [[germane-load|germane cognitive load]] necessary for schema construction. The scaffold optimised for learner comfort is often the scaffold most likely to produce scaffold dependence. The most effective scaffolding designs are not those that feel most supportive; they are those that are most strategically uncomfortable in ways that target the development of the internal process.
+> Scaffolded environments that successfully reduce learner struggle — that reliably prevent errors, smooth over confusions, and ensure successful task completion — are often rated highly by both learners and educators in terms of satisfaction. They produce positive affect, a sense of progress, and high completion rates. But from a mechanisms perspective, a scaffold that is too effective at preventing difficulty is also preventing the [[Productive Failure|productive failure]] events and the [[productive-struggle|productive struggle]] that generate the [[Cognitive Load Theory (CLT)|germane cognitive load]] necessary for schema construction. The scaffold optimised for learner comfort is often the scaffold most likely to produce scaffold dependence. The most effective scaffolding designs are not those that feel most supportive; they are those that are most strategically uncomfortable in ways that target the development of the internal process.
 
 > [!calibration-check] **Calibration Check**
 > Rate your current understanding of the mechanisms described (1–10). Now, without looking back, try to explain in two sentences: (1) Why does the fluency illusion make unscaffolded monitoring unreliable? (2) What is the strategy vocabulary problem, and how does it explain the monitoring-control dissociation? Compare your explanation to the text. A specific, accurate account suggests solid integration; reaching for the text's exact phrasing suggests the concept may not yet be fully internalised.
@@ -345,7 +345,7 @@ Scaffold dependence is structurally analogous to [[transfer-of-learning]] failur
 
 Several persistent misconceptions in both popular and professional treatments of metacognitive scaffolding deserve direct correction.
 
-The first misconception is that metacognitive scaffolding is primarily a technique for weaker or struggling learners. The evidence does not support this. While [[productive-failure]] research (Kapur, 2016) and related traditions suggest that strong learners benefit from less scaffolding, metacognitive scaffolding benefits learners across the competence spectrum — the design, timing, and type of scaffolding should vary with expertise (per the [[expertise-reversal-effect]]), but the need for support in bridging monitoring to control is not a deficit phenomenon. It is a universal feature of learning in new domains.
+The first misconception is that metacognitive scaffolding is primarily a technique for weaker or struggling learners. The evidence does not support this. While [[Productive Failure]] research (Kapur, 2016) and related traditions suggest that strong learners benefit from less scaffolding, metacognitive scaffolding benefits learners across the competence spectrum — the design, timing, and type of scaffolding should vary with expertise (per the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]), but the need for support in bridging monitoring to control is not a deficit phenomenon. It is a universal feature of learning in new domains.
 
 The second misconception is that making metacognition explicit necessarily improves it. Explicitness is not equivalent to accuracy. Requiring learners to articulate their thinking can produce articulate but inaccurate accounts of their cognitive processes — particularly if the metacognitive self-report is itself subject to social desirability effects, self-presentation concerns, or simple confabulation. [[pseudometacognition]] — the production of metacognitive-sounding language without genuine metacognitive functioning — is a real failure mode that explicit metacognitive requirements can inadvertently cultivate.
 
@@ -461,13 +461,13 @@ What makes these structural analogues genuinely transferable, rather than merely
 >
 > - **[[metacognitive-monitoring]]** — This analysis argues that monitoring scaffolding has received disproportionate attention relative to control scaffolding. The [[metacognitive-monitoring]] node covers the monitoring side of the Nelson-Narens architecture; this report's original contribution is the argument that monitoring improvements without control development constitute a common but underappreciated scaffolding failure.
 >
-> - **[[monitoring-control-coupling]]** — The monitoring-control coupling is the central analytical target of this report. The [[monitoring-control-coupling]] node addresses this relationship; this report extends that analysis specifically to the implications for scaffolding design, arguing that the coupling must be explicitly engineered rather than assumed to develop automatically from monitoring improvements.
+> - **[[Monitoring-Control Coupling]]** — The monitoring-control coupling is the central analytical target of this report. The [[Monitoring-Control Coupling]] node addresses this relationship; this report extends that analysis specifically to the implications for scaffolding design, arguing that the coupling must be explicitly engineered rather than assumed to develop automatically from monitoring improvements.
 >
-> - **[[fluency-illusion]]** — The fluency illusion is identified here as the mechanistic reason why unscaffolded monitoring is systematically biased. This report's treatment of the fluency illusion goes beyond phenomenological description to argue that effective scaffolding must provide an alternative information source rather than simply prompting learners to consult their existing (biased) monitoring signal.
+> - **[[Fluency Illusion]]** — The fluency illusion is identified here as the mechanistic reason why unscaffolded monitoring is systematically biased. This report's treatment of the fluency illusion goes beyond phenomenological description to argue that effective scaffolding must provide an alternative information source rather than simply prompting learners to consult their existing (biased) monitoring signal.
 >
-> - **[[scaffolded-fading]]** — The fading mechanism is identified here as the most systematically neglected dimension of metacognitive scaffolding design. This report makes the specific claim that scaffolding without fading produces scaffold dependence and that fading schedules should be tied to demonstrated independent competence rather than time or task completion.
+> - **[[Scaffolded Fading]]** — The fading mechanism is identified here as the most systematically neglected dimension of metacognitive scaffolding design. This report makes the specific claim that scaffolding without fading produces scaffold dependence and that fading schedules should be tied to demonstrated independent competence rather than time or task completion.
 >
-> - **[[desirable-difficulties]]** — This report argues that effective metacognitive scaffolding functions partly as desirable difficulty engineering — making shallow processing harder rather than making learning easier. The [[desirable-difficulties]] node provides the theoretical grounding for this claim; this report extends it specifically to metacognitive interventions.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — This report argues that effective metacognitive scaffolding functions partly as desirable difficulty engineering — making shallow processing harder rather than making learning easier. The [[Desirable Difficulties (Robert Bjork, 1994)]] node provides the theoretical grounding for this claim; this report extends it specifically to metacognitive interventions.
 >
 > - **[[transfer-of-learning]]** — The scaffold-dependence failure mode is a specific instance of transfer failure — the failure of metacognitive strategies to transfer from scaffolded to unscaffolded conditions. The [[transfer-of-learning]] node and the [[far-transfer]] node are directly relevant to the unresolved questions identified in Phase V.
 >
@@ -493,19 +493,19 @@ What makes these structural analogues genuinely transferable, rather than merely
 > [!definition] **Fluency Illusion (Koriat & Bjork, 2005)**
 > The systematic overestimation of learning that results from using processing fluency — the subjective ease of comprehension during study — as the primary input to metacognitive monitoring. Because fluency during study is decoupled from retention durability, judgments of learning based on fluency are systematically overoptimistic, especially for superficially processed material.
 
-> [!definition] **Monitoring-Control Coupling ([[monitoring-control-coupling]])**
+> [!definition] **Monitoring-Control Coupling ([[Monitoring-Control Coupling]])**
 > The functional relationship between the meta-level monitoring processes (which generate representations of the object-level cognitive state) and the object-level control processes (which regulate cognitive activity in response to those representations). The coupling is not automatic — accurate monitoring does not guarantee appropriate control, and the gap between them is the central failure mode this report addresses.
 
 > [!definition] **Scaffold Dependence**
 > The failure mode in which a learner develops reliable performance in a scaffolded environment without developing the internal capacity to perform independently when the scaffold is removed. Scaffold dependence results from scaffolding that is too effective at reducing challenge, from insufficient fading, or from failure to transfer metacognitive strategies to conditions that lack the scaffolding's contextual cues.
 
 > [!definition] **Germane Cognitive Load (Sweller, van Merriënboer & Paas, 1998)**
-> The component of [[cognitive-load-theory|cognitive load]] associated with schema construction — the building of integrated, transferable mental representations. Germane load is productive: it consumes working memory resources but results in enduring knowledge structures. Effective metacognitive scaffolding generates germane load by creating conditions where learners must actively construct their understanding rather than process it fluently.
+> The component of [[Cognitive Load Theory (CLT)|cognitive load]] associated with schema construction — the building of integrated, transferable mental representations. Germane load is productive: it consumes working memory resources but results in enduring knowledge structures. Effective metacognitive scaffolding generates germane load by creating conditions where learners must actively construct their understanding rather than process it fluently.
 
-> [!definition] **Expertise Reversal Effect ([[expertise-reversal-effect]], Kalyuga et al., 2003)**
+> [!definition] **Expertise Reversal Effect ([[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], Kalyuga et al., 2003)**
 > The phenomenon in which instructional support that benefits novices becomes redundant or actively harmful for more expert learners. As learners develop schemas that automate previously effortful processes, the cognitive overhead of scaffolding that presupposes those processes are effortful imposes an extraneous load. Scaffolding designs must respond to learner development or they will produce negative effects as expertise develops.
 
-> [!definition] **Desirable Difficulties ([[desirable-difficulties]], Bjork, 1994)**
+> [!definition] **Desirable Difficulties ([[Desirable Difficulties (Robert Bjork, 1994)]], Bjork, 1994)**
 > Conditions that slow initial acquisition or introduce short-term performance decrements while enhancing long-term retention and transfer. The mechanism involves generating the productive processing difficulty that drives schema construction. The term highlights the counterintuitive relationship between difficulty and learning: conditions that improve learning often make immediate performance harder.
 
 > [!definition] **Pseudometacognition ([[pseudometacognition]])**
@@ -562,7 +562,7 @@ What makes these structural analogues genuinely transferable, rather than merely
 > > [!topic-idea] [[formative-assessment]]
 > > Formative assessment — assessment designed to provide feedback during learning rather than to certify achievement — can be understood as institutional metacognitive scaffolding. It externalizes the monitoring function at a classroom or institutional level, providing both learners and instructors with information about learning states that internal monitoring cannot reliably provide. The relationship between formative assessment design and the scaffolding principles identified here is underexplored.
 >
-> > [!topic-idea] [[productive-failure]]
+> > [!topic-idea] [[Productive Failure]]
 > > This report argues that effective metacognitive scaffolding involves strategic difficulty engineering — making shallow processing harder. Manu Kapur's productive failure research provides the most rigorous empirical support for this principle: allowing learners to fail before instruction produces better transfer than instruction-first approaches for certain task types. A comparative synthesis of the productive failure and metacognitive scaffolding literatures would strengthen the mechanistic account in Phase IV.
 >
 > > [!topic-idea] [[transfer-appropriate-processing]]

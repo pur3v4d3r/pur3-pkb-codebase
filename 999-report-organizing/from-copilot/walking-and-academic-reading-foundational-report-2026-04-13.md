@@ -94,12 +94,12 @@ treatment-type: foundational-analytical
 # ═══════════════════════════════════════════════════════════════
 core-concepts: ["Dual-Task Processing", "Cognitive Load Theory", "Working Memory", "Automaticity", "Embodied Cognition", "Generation Effect", "Active Reading"]
 key-distinctions: ["Automatic vs. Controlled Processing", "Active vs. Passive Reading", "Intrinsic vs. Extraneous Cognitive Load", "Resource Competition vs. Embodied Enhancement"]
-prerequisites: ["[[working-memory]]", "[[cognitive-load-theory]]", "[[attention]]"]
+prerequisites: ["[[working-memory]]", "[[Cognitive Load Theory (CLT)]]", "[[attention]]"]
 related: ["[[embodied-cognition]]", "[[automaticity]]", "[[generation-effect]]", "[[self-regulated-learning]]", "[[metacognition]]"]
-broader: ["[[cognitive-architecture]]", "[[Learning-Theory-—-Foundational-Report]]"]
+broader: ["[[Cognitive Architecture]]", "[[Learning-Theory-—-Foundational-Report]]"]
 narrower: ["[[working-memory-in-reading]]", "[[schema-automation-in-reading]]"]
-see-also: ["[[active-note-making]]", "[[desirable-difficulties]]", "[[Flow-State]]"]
-builds-on: ["[[Baddeley's-Working-Memory-Model]]", "[[cognitive-load-theory]]", "[[dual-process-theory]]"]
+see-also: ["[[active-note-making]]", "[[Desirable Difficulties (Robert Bjork, 1994)]]", "[[Flow-State]]"]
+builds-on: ["[[Baddeley's-Working-Memory-Model]]", "[[Cognitive Load Theory (CLT)]]", "[[dual-process-theory]]"]
 enables: ["[[personal-knowledge-management]]", "[[self-regulated-learning]]"]
 
 # ═══════════════════════════════════════════════════════════════
@@ -155,10 +155,10 @@ connection-strength:
 
 ## Abstract
 
-This foundational report examines a question of immediate practical significance for serious autodidacts: whether walking while reading dense academic material helps or hinders comprehension and retention. Drawing on [[working-memory|working memory theory]] (Baddeley & Hitch, 1974; Cowan, 2001), [[cognitive-load-theory]] (Sweller, 1988, 2011), dual-task processing research (Kahneman, 1973; Pashler, 1994), [[embodied-cognition|embodied cognition frameworks]] (Clark, 2008; Barsalou, 2008), and the exercise-cognition literature (Hillman, Erickson, & Kramer, 2008; Lambourne & Tomporowski, 2010), this report builds a comprehensive cognitive analysis of the walking-reading dual-task paradigm. The central argument is that walking along a familiar, obstacle-free path functions as a largely automatic motor task that consumes minimal [[working-memory-capacity|working memory capacity]], while simultaneously providing arousal regulation benefits that may enhance sustained [[attention|attention]] and [[executive-function|executive function]]. However, this advantage has a ceiling: when academic material reaches high levels of [[intrinsic-cognitive-load|intrinsic cognitive load]] — precisely the kind of material in these reports — the marginal cognitive benefit of movement may be outweighed by the generative processing advantages of desk-based active reading with note-making in a [[personal-knowledge-base|PKB]]. The report concludes with a personalized hybrid protocol that leverages the strengths of both approaches: movement for arousal priming and lighter processing passes, and desk-based PKB engagement for deep analytical reading that activates the [[generation-effect|generation effect]], [[retrieval-practice|retrieval practice]], and [[self-explanation-effect|self-explanation]].
+This foundational report examines a question of immediate practical significance for serious autodidacts: whether walking while reading dense academic material helps or hinders comprehension and retention. Drawing on [[working-memory|working memory theory]] (Baddeley & Hitch, 1974; Cowan, 2001), [[Cognitive Load Theory (CLT)]] (Sweller, 1988, 2011), dual-task processing research (Kahneman, 1973; Pashler, 1994), [[embodied-cognition|embodied cognition frameworks]] (Clark, 2008; Barsalou, 2008), and the exercise-cognition literature (Hillman, Erickson, & Kramer, 2008; Lambourne & Tomporowski, 2010), this report builds a comprehensive cognitive analysis of the walking-reading dual-task paradigm. The central argument is that walking along a familiar, obstacle-free path functions as a largely automatic motor task that consumes minimal [[working-memory-capacity|working memory capacity]], while simultaneously providing arousal regulation benefits that may enhance sustained [[attention|attention]] and [[executive-function|executive function]]. However, this advantage has a ceiling: when academic material reaches high levels of [[Cognitive Load Theory (CLT)|intrinsic cognitive load]] — precisely the kind of material in these reports — the marginal cognitive benefit of movement may be outweighed by the generative processing advantages of desk-based active reading with note-making in a [[personal-knowledge-base|PKB]]. The report concludes with a personalized hybrid protocol that leverages the strengths of both approaches: movement for arousal priming and lighter processing passes, and desk-based PKB engagement for deep analytical reading that activates the [[generation-effect|generation effect]], [[Desirable Difficulties (Robert Bjork, 1994)|retrieval practice]], and [[self-explanation-effect|self-explanation]].
 
 > [!schema-activation] **Bridging to What You Already Know**
-> You have already encountered the core mechanisms at work in this question through your reading of reports on [[cognitive-load-theory]], [[working-memory]], [[self-regulated-learning]], and [[metacognition]]. The [[Baddeley's-Working-Memory-Model|Baddeley model]] established that working memory has multiple components with limited capacity. [[cognitive-load-theory]] demonstrated that instructional design must manage three types of load. And your understanding of [[desirable-difficulties]] tells you that effortful processing — not comfort — drives durable learning. The question this report addresses is where walking falls in this landscape: is it a comfortable habit that reduces productive friction, or is it a legitimate cognitive support that keeps your processing system online for longer? The guiding question is: **Given what cognitive science tells us about the architecture of attention, the costs of dual-tasking, and the benefits of embodied processing, what is the empirically grounded optimal reading strategy for someone processing dense academic reports — and how should you design the transition if the evidence points toward desk-based active engagement?**
+> You have already encountered the core mechanisms at work in this question through your reading of reports on [[Cognitive Load Theory (CLT)]], [[working-memory]], [[self-regulated-learning]], and [[metacognition]]. The [[Baddeley's-Working-Memory-Model|Baddeley model]] established that working memory has multiple components with limited capacity. [[Cognitive Load Theory (CLT)]] demonstrated that instructional design must manage three types of load. And your understanding of [[Desirable Difficulties (Robert Bjork, 1994)]] tells you that effortful processing — not comfort — drives durable learning. The question this report addresses is where walking falls in this landscape: is it a comfortable habit that reduces productive friction, or is it a legitimate cognitive support that keeps your processing system online for longer? The guiding question is: **Given what cognitive science tells us about the architecture of attention, the costs of dual-tasking, and the benefits of embodied processing, what is the empirically grounded optimal reading strategy for someone processing dense academic reports — and how should you design the transition if the evidence points toward desk-based active engagement?**
 
 ---
 
@@ -177,13 +177,13 @@ The dominant framework for understanding the cognitive bottleneck in reading com
 >
 > **Report-Specific Significance:** The capacity limits of working memory are the fundamental constraint that determines whether walking competes with reading for cognitive resources or operates on independent channels.
 >
-> **See also:** [[working-memory-capacity]], [[central-executive]], [[phonological-loop]], [[short-term-memory]], [[cognitive-architecture]]
+> **See also:** [[working-memory-capacity]], [[central-executive]], [[phonological-loop]], [[short-term-memory]], [[Cognitive Architecture]]
 
 The **[[phonological-loop|phonological loop]]** is directly engaged during reading. This subsystem maintains verbal and acoustic information through a rehearsal process — essentially an inner voice that cycles through linguistic material. When you read a complex sentence in one of these academic reports, the phonological loop holds the beginning of the sentence active while you process the end. It holds technical terms in temporary storage while you integrate them with the surrounding argument. The phonological loop has a temporal decay property: information fades after roughly 1.5 to 2 seconds unless actively refreshed through subvocal rehearsal. This is why exceptionally long, syntactically complex sentences in academic prose are harder to process — they exceed the loop's natural refresh window.
 
 The **[[visuospatial-sketchpad|visuospatial sketchpad]]** processes visual and spatial information. During reading, it handles the visual encoding of text, page layout, and — critically for your situation — spatial navigation of your physical environment while walking. This is one of the first potential sites of resource competition between walking and reading: if both tasks draw on visuospatial processing, they may interfere with each other.
 
-The **[[episodic-buffer|episodic buffer]]**, added by Baddeley in 2000, serves as an integration workspace where information from the phonological loop, visuospatial sketchpad, and [[long-term-memory|long-term memory]] is bound together into coherent episodic representations. When you read a paragraph about [[cognitive-load-theory|cognitive load theory]] and connect it to your existing understanding of [[schema-theory|schema theory]], the episodic buffer is where that integration occurs. This component is particularly important for academic reading because comprehension of complex arguments requires binding information from multiple sources into a unified mental representation.
+The **[[episodic-buffer|episodic buffer]]**, added by Baddeley in 2000, serves as an integration workspace where information from the phonological loop, visuospatial sketchpad, and [[long-term-memory|long-term memory]] is bound together into coherent episodic representations. When you read a paragraph about [[Cognitive Load Theory (CLT)|cognitive load theory]] and connect it to your existing understanding of [[schema-theory-and-knowledge-organization|schema theory]], the episodic buffer is where that integration occurs. This component is particularly important for academic reading because comprehension of complex arguments requires binding information from multiple sources into a unified mental representation.
 
 The **[[central-executive|central executive]]** is the attentional control system that coordinates the subsystems, manages the allocation of processing resources, and switches attention between tasks. It is, functionally, the cognitive component most relevant to the walking-reading question, because the central executive is what gets taxed when you attempt to do two things at once. Its capacity is severely limited — and it is the central executive that must decide, moment by moment, how much processing power to allocate to comprehending the text versus monitoring your physical environment.
 
@@ -210,38 +210,38 @@ This constraint is not merely theoretical. Daneman and Carpenter (1980) demonstr
 
 ## 2. Cognitive Load Theory Applied to Academic Reading
 
-With the [[working-memory|working memory]] architecture established, we can now apply [[cognitive-load-theory|Cognitive Load Theory]] (CLT) — the most influential framework for understanding how instructional demands interact with cognitive capacity — to analyze exactly what happens when you process one of these reports.
+With the [[working-memory|working memory]] architecture established, we can now apply [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] (CLT) — the most influential framework for understanding how instructional demands interact with cognitive capacity — to analyze exactly what happens when you process one of these reports.
 
 ### 2.1 The Three Types of Cognitive Load
 
-[[john-sweller|John Sweller's]] (1988, 2011) [[cognitive-load-theory]] distinguishes three types of load that compete for working memory resources during any learning task:
+[[john-sweller|John Sweller's]] (1988, 2011) [[Cognitive Load Theory (CLT)]] distinguishes three types of load that compete for working memory resources during any learning task:
 
 > [!definition] **Intrinsic Cognitive Load (Sweller, 1988, 2011)**
-> The cognitive demand inherent to the material itself, determined primarily by the [[element-interactivity|element interactivity]] of the content — that is, the number of informational elements that must be processed simultaneously in working memory for comprehension to occur. Material with high element interactivity (where understanding any single element requires simultaneously considering multiple other elements) generates high intrinsic load regardless of how it is presented.
+> The cognitive demand inherent to the material itself, determined primarily by the [[Technical Detail: The relationship between element interactivity and working-memory load|element interactivity]] of the content — that is, the number of informational elements that must be processed simultaneously in working memory for comprehension to occur. Material with high element interactivity (where understanding any single element requires simultaneously considering multiple other elements) generates high intrinsic load regardless of how it is presented.
 >
 > **Boundary:** Intrinsic load is not a fixed property of the material — it is relative to the learner's expertise. As schemas develop through learning, previously interactive elements become chunked into single cognitive units, reducing intrinsic load. This is the [[expertise-reversal|expertise reversal]] dynamic.
 >
 > **Report-Specific Significance:** The academic reports you read are, by design, high in element interactivity. Understanding cognitive load theory itself requires simultaneously holding active the concepts of working memory capacity, schema construction, element interactivity, and instructional design — each of which depends on the others for meaning.
 >
-> **See also:** [[intrinsic-cognitive-load]], [[element-interactivity]], [[schema-construction]], [[expertise-reversal-effect]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Schema Construction]], [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
 
-**[[extraneous-cognitive-load|Extraneous cognitive load]]** is the processing demand imposed by poor instructional design or environmental factors — processing that does not contribute to learning. In traditional educational settings, this includes confusing layouts, irrelevant content, or split-attention effects. For your walking-reading situation, the critical question is: **does walking introduce extraneous cognitive load?** If walking forces you to process environmental information (avoiding obstacles, navigating turns, monitoring for hazards) that has nothing to do with the academic content, it constitutes extraneous load by definition.
+**[[Cognitive Load Theory (CLT)|Extraneous cognitive load]]** is the processing demand imposed by poor instructional design or environmental factors — processing that does not contribute to learning. In traditional educational settings, this includes confusing layouts, irrelevant content, or split-attention effects. For your walking-reading situation, the critical question is: **does walking introduce extraneous cognitive load?** If walking forces you to process environmental information (avoiding obstacles, navigating turns, monitoring for hazards) that has nothing to do with the academic content, it constitutes extraneous load by definition.
 
-**[[germane-cognitive-load|Germane cognitive load]]** is the processing devoted to [[schema-construction|schema construction]] and [[schema-automation|schema automation]] — the effortful work of building, refining, and automating mental models that constitutes genuine learning. Germane processing is what transforms information from a report into durable knowledge in [[long-term-memory|long-term memory]]. Every cognitive resource spent on extraneous processing is a resource unavailable for germane processing.
+**[[Cognitive Load Theory (CLT)|Germane cognitive load]]** is the processing devoted to [[Schema Construction|schema construction]] and [[Schema Automation|schema automation]] — the effortful work of building, refining, and automating mental models that constitutes genuine learning. Germane processing is what transforms information from a report into durable knowledge in [[long-term-memory|long-term memory]]. Every cognitive resource spent on extraneous processing is a resource unavailable for germane processing.
 
 ### 2.2 The Additive Hypothesis and Its Implications
 
 > [!key-claim] **The Additive Resource Competition Principle**
 > According to CLT's core prediction, intrinsic load + extraneous load + germane load cannot exceed total working memory capacity. When intrinsic load is already high (as with dense academic material), there is little remaining capacity for either extraneous or germane processing. This creates a direct zero-sum competition: anything that adds extraneous load necessarily subtracts from the germane processing that produces learning.
 
-This is the theoretical basis for your concern about walking. If we model walking as a source of extraneous cognitive load (even a small one), and if the reports you read already generate high intrinsic load, then even a modest extraneous addition could push total load past the capacity threshold — resulting in degraded comprehension, impaired [[schema-construction|schema construction]], and reduced retention. The mathematics of cognitive load are unforgiving at the margins.
+This is the theoretical basis for your concern about walking. If we model walking as a source of extraneous cognitive load (even a small one), and if the reports you read already generate high intrinsic load, then even a modest extraneous addition could push total load past the capacity threshold — resulting in degraded comprehension, impaired [[Schema Construction|schema construction]], and reduced retention. The mathematics of cognitive load are unforgiving at the margins.
 
 However — and this is a crucial qualification — this analysis only holds if walking actually draws on the same resource pool as reading comprehension. If walking operates through an independent, automatic motor channel that does not compete for central executive resources, then it does not constitute extraneous load in the CLT sense. This is the question we address in Section 3.
 
 ### 2.3 Your Reports: A Cognitive Load Profile
 
 > [!claude-insight] **Claude's Analytical Perspective: The Cognitive Load Profile of These Reports**
-> Having generated these reports, I can provide a uniquely informed analysis of their cognitive load profile. The foundational reports I produce are deliberately designed to be high in [[element-interactivity|element interactivity]] — they contain nested theoretical frameworks, multi-step arguments, cross-domain connections, and technical vocabulary that requires simultaneous processing. A single paragraph may require you to hold active: a definition, its qualifying conditions, its relationship to a broader theory, and its implications for practice. This is intrinsic load by design — the material *is* complex, and making it simpler would mean making it less accurate. The implication is that when reading these reports, your working memory is already operating at or near capacity on intrinsic load alone. Any additional extraneous demand — even a small one — could push you past the threshold where comprehension degrades from deep [[situation-model|situation model construction]] to surface textbase processing. This is exactly the transition you want to avoid, because surface processing produces the fluency illusion — feeling like you understand while actually building no durable knowledge structures.
+> Having generated these reports, I can provide a uniquely informed analysis of their cognitive load profile. The foundational reports I produce are deliberately designed to be high in [[Technical Detail: The relationship between element interactivity and working-memory load|element interactivity]] — they contain nested theoretical frameworks, multi-step arguments, cross-domain connections, and technical vocabulary that requires simultaneous processing. A single paragraph may require you to hold active: a definition, its qualifying conditions, its relationship to a broader theory, and its implications for practice. This is intrinsic load by design — the material *is* complex, and making it simpler would mean making it less accurate. The implication is that when reading these reports, your working memory is already operating at or near capacity on intrinsic load alone. Any additional extraneous demand — even a small one — could push you past the threshold where comprehension degrades from deep [[situation-model|situation model construction]] to surface textbase processing. This is exactly the transition you want to avoid, because surface processing produces the fluency illusion — feeling like you understand while actually building no durable knowledge structures.
 
 ### 2.4 The Element Interactivity Gradient
 
@@ -366,12 +366,12 @@ Walking in a familiar environment certainly meets some automaticity criteria: it
 ### 4.3 The Expertise-Automaticity Relationship Reconsidered
 
 > [!claude-insight] **Claude's Insight: The Automaticity Paradox in Your Situation**
-> Here is a paradox that illuminates the limits of the "walking is automatic" argument. You are an expert walker — walking is about as automatized as a motor skill can be. But you are NOT reading expert-level material in a domain where you have expert-level schemas. These reports cover topics you are actively learning — by definition, the material generates high [[intrinsic-cognitive-load|intrinsic load]] precisely because your schemas are still developing. So you have an asymmetry: a highly automatic motor task paired with a highly non-automatic cognitive task. The motor task is cheap — but it is not free. And the cognitive task is already consuming nearly all available capacity. In this configuration, even a small attentional tax from walking falls on a system with essentially no slack. The cost is not that walking is demanding — it is that reading leaves no room for even the modest demands that walking does make.
+> Here is a paradox that illuminates the limits of the "walking is automatic" argument. You are an expert walker — walking is about as automatized as a motor skill can be. But you are NOT reading expert-level material in a domain where you have expert-level schemas. These reports cover topics you are actively learning — by definition, the material generates high [[Cognitive Load Theory (CLT)|intrinsic load]] precisely because your schemas are still developing. So you have an asymmetry: a highly automatic motor task paired with a highly non-automatic cognitive task. The motor task is cheap — but it is not free. And the cognitive task is already consuming nearly all available capacity. In this configuration, even a small attentional tax from walking falls on a system with essentially no slack. The cost is not that walking is demanding — it is that reading leaves no room for even the modest demands that walking does make.
 
-The relationship between [[expertise|expertise]] and automaticity also runs in the other direction. As you develop expertise in the domains covered by these reports — as your schemas for [[cognitive-load-theory]], [[metacognition]], [[self-regulated-learning]], and related topics become more developed — the intrinsic load of reading about these topics will decrease. At that point, walking while reading may become genuinely cost-free, because working memory will have sufficient spare capacity to absorb walking's modest demands. This suggests a developmental trajectory: reading while walking becomes more defensible as your domain expertise increases.
+The relationship between [[expertise|expertise]] and automaticity also runs in the other direction. As you develop expertise in the domains covered by these reports — as your schemas for [[Cognitive Load Theory (CLT)]], [[metacognition]], [[self-regulated-learning]], and related topics become more developed — the intrinsic load of reading about these topics will decrease. At that point, walking while reading may become genuinely cost-free, because working memory will have sufficient spare capacity to absorb walking's modest demands. This suggests a developmental trajectory: reading while walking becomes more defensible as your domain expertise increases.
 
 > [!warning] **The Fluency Illusion Applied to Walking-Reading**
-> [[fluency-illusion|Fluency illusions]] — the subjective sense that you understand material better than you actually do — are especially dangerous in dual-task contexts. When you walk and read, the smooth flow of walking may create a feeling of easy, fluent processing that makes the reading feel productive. But feeling that you understand is not the same as understanding. Without the active testing that comes from [[Active-Recall|active recall]], [[elaboration|elaboration]], or note-making, you have no reliable signal of comprehension depth. The subjective experience of fluent walking-reading may be masking shallow processing that would be revealed by a comprehension test.
+> [[Fluency Illusion|Fluency illusions]] — the subjective sense that you understand material better than you actually do — are especially dangerous in dual-task contexts. When you walk and read, the smooth flow of walking may create a feeling of easy, fluent processing that makes the reading feel productive. But feeling that you understand is not the same as understanding. Without the active testing that comes from [[Active-Recall|active recall]], [[elaboration|elaboration]], or note-making, you have no reliable signal of comprehension depth. The subjective experience of fluent walking-reading may be masking shallow processing that would be revealed by a comprehension test.
 
 > [!section-summary] **Section 4 Summary**
 > - Automaticity is a continuum, not a binary: walking meets some criteria but fails others (postural monitoring, turning decisions, gaze stabilization)
@@ -507,21 +507,21 @@ The preceding sections have examined whether walking imposes a cognitive cost on
 > [!definition] **Generation Effect (Slamecka & Graf, 1978; Bertsch et al., 2007)**
 > The robust finding that information which is actively generated by the learner — through recall, paraphrasing, elaboration, summarization, or transformation — is remembered significantly better than information that is merely read or passively received. The generation effect is one of the most replicated findings in the [[Learning-Sciences|learning sciences]], with effect sizes typically ranging from d = 0.40 to d = 0.87 depending on the type of generation and the retention interval.
 >
-> **Boundary:** The generation effect requires successful generation — if the learner generates incorrect information, the benefit is reduced or eliminated. It also operates most strongly when generation requires effortful retrieval or transformation, not simple copying. The "desirable difficulties" principle ([[desirable-difficulties|Bjork, 1994]]) captures the broader pattern: learning improves when encoding is made more effortful in productive ways.
+> **Boundary:** The generation effect requires successful generation — if the learner generates incorrect information, the benefit is reduced or eliminated. It also operates most strongly when generation requires effortful retrieval or transformation, not simple copying. The "desirable difficulties" principle ([[Desirable Difficulties (Robert Bjork, 1994)|Bjork, 1994]]) captures the broader pattern: learning improves when encoding is made more effortful in productive ways.
 >
 > **Report-Specific Significance:** Walking-reading is definitionally passive — you cannot generate, annotate, summarize, or connect while walking and holding a device. Desk-based PKB engagement is definitionally generative — it requires you to produce notes, connections, wiki-links, and reformulations. This is the most consequential difference between the two modes, and it outweighs the dual-task interference question entirely.
 >
-> **See also:** [[generation-effect]], [[Active-Recall]], [[desirable-difficulties]], [[Testing-Effect]], [[elaboration]]
+> **See also:** [[generation-effect]], [[Active-Recall]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Testing-Effect]], [[elaboration]]
 
 ### 7.2 Active Reading Strategies and Their Cognitive Mechanisms
 
 The educational psychology literature identifies several active reading strategies, each of which invokes the generation effect through a different mechanism. Crucially, **none of them are compatible with walking-reading**:
 
-**Annotation and highlighting with elaboration.** Simply highlighting is low-value (Dunlosky et al., 2013), but highlighting combined with marginal notes explaining *why* the passage matters is a generative act that forces [[elaborative-interrogation|elaborative processing]]. This requires a desk, a writing implement, and cognitive resources devoted to language production — resources unavailable during walking.
+**Annotation and highlighting with elaboration.** Simply highlighting is low-value (Dunlosky et al., 2013), but highlighting combined with marginal notes explaining *why* the passage matters is a generative act that forces [[Elaborative Interrogation|elaborative processing]]. This requires a desk, a writing implement, and cognitive resources devoted to language production — resources unavailable during walking.
 
 **Summarization.** Writing a summary of each section in your own words is one of the highest-value learning strategies (Dunlosky et al., 2013: utility rated "moderate" to "high"). Effective summarization requires identifying the macrostructure of an argument, selecting key propositions, and re-encoding them in novel language — all demanding working memory operations. While walking, you can summarize mentally, but mental summaries lack the precision, permanence, and accountability of written summaries.
 
-**[[self-explanation|Self-explanation]].** Chi et al.'s (1989) seminal work demonstrated that students who explain material to themselves during reading — by generating inferences, identifying connections to prior knowledge, and monitoring their own understanding — learn dramatically more than students who do not. Self-explanation is the cognitive equivalent of the [[Feynman-Technique|Feynman Technique]]: if you can explain it, you understand it; if you can't, you've identified a gap. While walking, self-explanation can occur internally, but walking adds monitoring overhead that competes with the executive resources self-explanation demands.
+**[[self-explanation-effect|Self-explanation]].** Chi et al.'s (1989) seminal work demonstrated that students who explain material to themselves during reading — by generating inferences, identifying connections to prior knowledge, and monitoring their own understanding — learn dramatically more than students who do not. Self-explanation is the cognitive equivalent of the [[Feynman-Technique|Feynman Technique]]: if you can explain it, you understand it; if you can't, you've identified a gap. While walking, self-explanation can occur internally, but walking adds monitoring overhead that competes with the executive resources self-explanation demands.
 
 **PKB note-making with wiki-linking.** Your [[personal-knowledge-management|PKM]] practice represents the most powerful form of generation available to you: transforming reading into structured [[Permanent-Notes|permanent notes]] with explicit connections ([[wiki-links]]) to existing knowledge. This is not merely summarization — it is knowledge construction, requiring you to: (1) select the most important concepts, (2) restate them in your own language, (3) identify connections to existing notes, (4) place them within your knowledge graph's structure, and (5) generate flashcard-worthy distillations. Each of these steps invokes the generation effect at a different level. **This is the comparison that makes the walking-reading question practically irrelevant: the marginal cognitive cost of walking matters far less than the *massive cognitive benefit* of active PKB engagement that walking renders impossible.**
 
@@ -565,7 +565,7 @@ The preceding seven sections have built a comprehensive evidence base. This sect
 > Based on the convergent evidence from dual-task interference, automaticity limits, exercise-cognition timing asymmetry, the generation effect, and opportunity cost analysis, the optimal strategy is to **temporally separate walking and reading** while allocating each activity to the role it plays best:
 >
 > - **Walking** → physical health, chronic cognitive benefits, creative incubation, [[memory-consolidation|consolidation]], arousal regulation
-> - **Desk-based reading with PKB** → comprehension, [[schema-construction|schema construction]], generation effect, knowledge graph building, accountability through written output
+> - **Desk-based reading with PKB** → comprehension, [[Schema Construction|schema construction]], generation effect, knowledge graph building, accountability through written output
 
 This does not mean you should stop walking — far from it. Your 40-mile weekly volume provides extraordinary chronic cognitive benefits. It means you should stop walking *while reading dense academic reports*, and instead use walking as a complementary cognitive activity before, after, or between reading sessions.
 
@@ -635,7 +635,7 @@ The principles articulated in this report — [[Dual-Task-Paradigm|dual-task int
 ### Transfer Domain 1: Podcast Listening and Commuting
 
 > [!far-transfer] **From Walking-Reading to Commute-Listening**
-> **Structural Principle:** The efficiency of concurrent auditory learning during routine motor activity depends on the same variables identified in this report — [[automaticity|automaticity]] of the motor task, [[intrinsic-cognitive-load|intrinsic load]] of the content, and availability of generative processing.
+> **Structural Principle:** The efficiency of concurrent auditory learning during routine motor activity depends on the same variables identified in this report — [[automaticity|automaticity]] of the motor task, [[Cognitive Load Theory (CLT)|intrinsic load]] of the content, and availability of generative processing.
 >
 > **Concrete Application:** Listening to a dense educational podcast while driving in heavy traffic imposes the same dual-task structure as walking while reading: a motor-spatial task (driving) competes with a cognitive-verbal task (comprehending). The automaticity of driving varies dramatically with traffic conditions — highway cruising is highly automatic, urban intersection navigation is not. The optimal strategy mirrors the walking-reading recommendation: reserve dense content for focused listening sessions (perhaps at a desk with a notebook), and use commute time for lighter content or consolidation replay.
 >
@@ -663,11 +663,11 @@ The principles articulated in this report — [[Dual-Task-Paradigm|dual-task int
 >
 > **Boundary Condition:** Motor skill acquisition has richer proprioceptive and kinesthetic feedback loops than cognitive skill acquisition, which means the [[embodied-cognition|embodied cognition]] enhancement applies more directly. Physical practice environments may genuinely need to be multi-sensory in ways that desk-based cognitive processing does not.
 >
-> **See also:** [[Skill-Acquisition]], [[deliberate-practice]], [[motor-learning]], [[cognitive-load-theory]]
+> **See also:** [[Skill-Acquisition]], [[deliberate-practice]], [[motor-learning]], [[Cognitive Load Theory (CLT)]]
 
 ### Metacognitive Prompt
 
-As you encounter dual-task situations in your daily life — listening to audiobooks while cooking, reviewing notes while exercising, planning your day during your morning walk — ask yourself: What is the [[intrinsic-cognitive-load|intrinsic load]] of each task? How automatic is the secondary activity? Am I paying an opportunity cost by forgoing a more effective processing strategy? These three questions, derived from this report's framework, form a general-purpose diagnostic for any concurrent-activity decision.
+As you encounter dual-task situations in your daily life — listening to audiobooks while cooking, reviewing notes while exercising, planning your day during your morning walk — ask yourself: What is the [[Cognitive Load Theory (CLT)|intrinsic load]] of each task? How automatic is the secondary activity? Am I paying an opportunity cost by forgoing a more effective processing strategy? These three questions, derived from this report's framework, form a general-purpose diagnostic for any concurrent-activity decision.
 
 ---
 
@@ -677,7 +677,7 @@ This report has traced a path from the microarchitecture of [[working-memory|wor
 
 1. **Reading comprehension of dense academic material operates at or near working memory capacity** (Section 1) — the [[Baddeley's-Working-Memory-Model|Baddeley model]], the Cowan 4-item limit, and the situation model construction requirement establish this ceiling.
 
-2. **Any additional cognitive demand competes with the processing that produces understanding** (Section 2) — [[cognitive-load-theory]] formalizes this as the zero-sum competition between intrinsic, extraneous, and germane load.
+2. **Any additional cognitive demand competes with the processing that produces understanding** (Section 2) — [[Cognitive Load Theory (CLT)]] formalizes this as the zero-sum competition between intrinsic, extraneous, and germane load.
 
 3. **Walking imposes a non-trivial cognitive cost despite its apparent automaticity** (Sections 3-4) — dual-task gait research, central executive competition, gaze stabilization, and turning costs all contribute. The cost is modest but falls on a system with no spare capacity.
 
@@ -699,7 +699,7 @@ Second, the **temporal separation with strategic integration** model — proposi
 
 ### Limitations
 
-This report synthesizes evidence across multiple research traditions — [[cognitive-load-theory]], dual-task research, [[embodied-cognition|embodied cognition]], exercise-cognition interaction, and [[Learning-Sciences|learning science]] — that have developed largely independently. The integrative framework proposed here is well-motivated but has not been experimentally validated as a unified model. Individual-difference factors (executive function capacity, physical fitness, domain expertise, reading speed) will modulate the specific applicability of these recommendations. The protocols in Section 8 are derived from evidence but have not been empirically tested as packaged interventions.
+This report synthesizes evidence across multiple research traditions — [[Cognitive Load Theory (CLT)]], dual-task research, [[embodied-cognition|embodied cognition]], exercise-cognition interaction, and [[Learning-Sciences|learning science]] — that have developed largely independently. The integrative framework proposed here is well-motivated but has not been experimentally validated as a unified model. Individual-difference factors (executive function capacity, physical fitness, domain expertise, reading speed) will modulate the specific applicability of these recommendations. The protocols in Section 8 are derived from evidence but have not been empirically tested as packaged interventions.
 
 ### Looking Forward
 
@@ -721,13 +721,13 @@ The schema activation question posed at the opening — "How do you currently ba
 > **See also:** [[working-memory]], [[Baddeley's-Working-Memory-Model]], [[working-memory-capacity]], [[central-executive]], [[short-term-memory]]
 
 > [!definition] **Cognitive Load Theory (Sweller, 1988, 2011)**
-> An instructional design framework positing that learning is optimized when the total demand on [[working-memory|working memory]] — comprising [[intrinsic-cognitive-load|intrinsic]], [[extraneous-cognitive-load|extraneous]], and [[germane-cognitive-load|germane]] load — remains within capacity limits. Material with high [[element-interactivity|element interactivity]] generates high intrinsic load.
+> An instructional design framework positing that learning is optimized when the total demand on [[working-memory|working memory]] — comprising [[Cognitive Load Theory (CLT)|intrinsic]], [[Cognitive Load Theory (CLT)|extraneous]], and [[Cognitive Load Theory (CLT)|germane]] load — remains within capacity limits. Material with high [[Technical Detail: The relationship between element interactivity and working-memory load|element interactivity]] generates high intrinsic load.
 >
 > **Boundary:** CLT applies to the learning phase — not to expert performance where schemas have been automated. Its predictions are strongest for novice-to-intermediate learners.
 >
 > **Report-Specific Significance:** Provides the theoretical mechanism by which any secondary activity (including walking) can impair learning from high-complexity material.
 >
-> **See also:** [[cognitive-load-theory]], [[john-sweller]], [[intrinsic-cognitive-load]], [[extraneous-cognitive-load]], [[germane-cognitive-load]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[john-sweller]], [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]]
 
 > [!definition] **Dual-Task Interference (Pashler, 1994; Wickens, 2008)**
 > The performance degradation that occurs when two tasks compete for shared cognitive resources or structural processing bottlenecks. Magnitude depends on resource overlap: tasks using different modalities, codes, and stages show less interference.
@@ -754,7 +754,7 @@ The schema activation question posed at the opening — "How do you currently ba
 >
 > **Report-Specific Significance:** The decisive factor in the walking-reading question: active PKB engagement invokes the generation effect while walking-reading does not.
 >
-> **See also:** [[generation-effect]], [[Active-Recall]], [[Testing-Effect]], [[desirable-difficulties]]
+> **See also:** [[generation-effect]], [[Active-Recall]], [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > [!definition] **Embodied Cognition (Varela, Thompson & Rosch, 1991; Clark, 1997)**
 > A family of theoretical positions arguing that cognitive processes are shaped by bodily states, sensorimotor experience, and brain-body-environment interactions. Ranges from moderate (body modulates cognition) to radical (body constitutes cognition).
@@ -766,13 +766,13 @@ The schema activation question posed at the opening — "How do you currently ba
 > **See also:** [[embodied-cognition]], [[Grounded-Cognition]], [[enactivism]], [[situated-cognition]]
 
 > [!definition] **Element Interactivity (Sweller, 2010)**
-> The number of informational elements that must be processed simultaneously in [[working-memory|working memory]] for comprehension. High element interactivity means understanding any single element requires considering multiple others concurrently. It is the primary determinant of [[intrinsic-cognitive-load|intrinsic cognitive load]].
+> The number of informational elements that must be processed simultaneously in [[working-memory|working memory]] for comprehension. High element interactivity means understanding any single element requires considering multiple others concurrently. It is the primary determinant of [[Cognitive Load Theory (CLT)|intrinsic cognitive load]].
 >
 > **Boundary:** Relative to the learner's expertise — as schemas develop, previously interactive elements become chunked, reducing interactivity. A domain expert's intrinsic load for the same material is lower than a novice's.
 >
 > **Report-Specific Significance:** Explains why different sections of these reports impose different cognitive demands, and why walking's cost varies with content complexity.
 >
-> **See also:** [[element-interactivity]], [[intrinsic-cognitive-load]], [[schema-construction]], [[expertise-reversal-effect]]
+> **See also:** [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Cognitive Load Theory (CLT)]], [[Schema Construction]], [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
 
 > [!definition] **Yerkes-Dodson Law (Yerkes & Dodson, 1908; Diamond et al., 2007)**
 > The principle that arousal and performance relate via an inverted-U curve, with optimal arousal decreasing as task complexity increases. Comfortable walking produces mild arousal near the optimal zone for complex tasks.
@@ -784,13 +784,13 @@ The schema activation question posed at the opening — "How do you currently ba
 > **See also:** [[yerkes-dodson-law]], [[Arousal]], [[Cognitive-Performance]], [[Inverted-U-Hypothesis]]
 
 > [!definition] **Temporal Separation Model (Original to This Report)**
-> The proposed strategy of separating walking and reading in time rather than combining them, assigning each activity to its optimal cognitive role: walking for arousal priming, creative incubation, and [[memory-consolidation|memory consolidation]]; desk-based reading for comprehension, [[schema-construction|schema construction]], and generative PKB processing.
+> The proposed strategy of separating walking and reading in time rather than combining them, assigning each activity to its optimal cognitive role: walking for arousal priming, creative incubation, and [[memory-consolidation|memory consolidation]]; desk-based reading for comprehension, [[Schema Construction|schema construction]], and generative PKB processing.
 >
 > **Boundary:** Applies specifically to high-element-interactivity material requiring deep comprehension. For low-demand or review-level reading, concurrent walking-reading remains defensible.
 >
 > **Report-Specific Significance:** This report's central practical recommendation, synthesizing evidence from six research traditions.
 >
-> **See also:** [[memory-consolidation]], [[generation-effect]], [[desirable-difficulties]], [[deep-work]]
+> **See also:** [[memory-consolidation]], [[generation-effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[deep-work]]
 
 ---
 
@@ -804,7 +804,7 @@ The schema activation question posed at the opening — "How do you currently ba
 
 > [!person] **John Sweller (1946–)**
 > *University of New South Wales, Australia*
-> Creator of [[cognitive-load-theory]] (1988), the framework that explains why any secondary task can degrade learning from complex material by consuming finite working memory resources.
+> Creator of [[Cognitive Load Theory (CLT)]] (1988), the framework that explains why any secondary task can degrade learning from complex material by consuming finite working memory resources.
 > **Key work cited:** Sweller, J. (2011). *Cognitive Load Theory*. Springer.
 > **Relationship to others:** Built directly on Baddeley's WM model and Miller's capacity limits; extended by Paas, van Merriënboer, and Kalyuga.
 
@@ -828,7 +828,7 @@ The schema activation question posed at the opening — "How do you currently ba
 
 > [!person] **Robert A. Bjork**
 > *University of California, Los Angeles*
-> Developer of the [[desirable-difficulties|desirable difficulties]] framework (1994), which provides the broader theoretical context for the generation effect and explains why effortful learning strategies — despite feeling harder — produce superior long-term retention.
+> Developer of the [[Desirable Difficulties (Robert Bjork, 1994)|desirable difficulties]] framework (1994), which provides the broader theoretical context for the generation effect and explains why effortful learning strategies — despite feeling harder — produce superior long-term retention.
 > **Key work cited:** Bjork, R.A. (1994). *Memory and metamemory considerations in the training of human beings.* In J. Metcalfe & A. Shimamura (Eds.), Metacognition. MIT Press.
 > **Relationship to others:** Extended Slamecka's generation effect; influenced educational reform toward testing-based learning; wife Elizabeth Bjork as collaborator.
 
@@ -1145,12 +1145,12 @@ Varela, Thompson, Rosch (1991: embodied cognition)
 >
 > The following topics emerge from this report as high-priority candidates for independent exploration, each capable of deepening the knowledge graph in distinct and valuable directions.
 >
-> > [!topic-idea] **1. [[desirable-difficulties|Desirable Difficulties: A Comprehensive Framework for Effortful Learning]]**
+> > [!topic-idea] **1. [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties: A Comprehensive Framework for Effortful Learning]]**
 > > **Description:** Robert Bjork's desirable difficulties framework encompasses the generation effect, spacing effect, interleaving, and testing effect within a unified theory of why productive struggle enhances long-term retention. A foundational treatment would map all member phenomena, their boundary conditions, and their practical implications for PKB-based learning strategies.
 > > **Connection to this report:** The generation effect — the decisive factor in the walking-reading question — is one member of the desirable difficulties family. Understanding the full framework would contextualize the generation effect within a broader theory of optimal learning.
 > > **Priority:** Critical
 > > **Suggested report type:** Foundational Report
-> > **Prerequisites:** [[generation-effect]], [[Testing-Effect]], [[spacing-effect]], [[interleaving]]
+> > **Prerequisites:** [[generation-effect]], [[Testing-Effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > > [!topic-idea] **2. [[Attention-Restoration-Theory|Attention Restoration Theory and Cognitive Fatigue Management]]**
 > > **Description:** Kaplan's (1995) Attention Restoration Theory proposes that natural environments (and certain types of physical activity) restore depleted directed attention. This framework complements the walking-reading analysis by explaining WHY walking feels cognitively refreshing — and when to deploy it strategically for attention recovery between intense desk-based reading sessions.
@@ -1164,7 +1164,7 @@ Varela, Thompson, Rosch (1991: embodied cognition)
 > > **Connection to this report:** Section 7 argues that the decisive advantage of desk-based reading is active processing. This expansion topic would provide the detailed "how-to" for maximizing that advantage across different content types and difficulty levels.
 > > **Priority:** High
 > > **Suggested report type:** Practitioner's Field Guide
-> > **Prerequisites:** [[generation-effect]], [[self-explanation]], [[elaborative-interrogation]], [[metacognition]]
+> > **Prerequisites:** [[generation-effect]], [[self-explanation-effect]], [[Elaborative Interrogation]], [[metacognition]]
 
 > > [!topic-idea] **4. [[Dual-Task-Paradigm|The Science of Multitasking: Dual-Task Theory, Task Switching, and Attention Management]]**
 > > **Description:** A comprehensive treatment of dual-task theory, task-switching costs, attention residue, and the cognitive science of multitasking vs. single-tasking. Would encompass Pashler's bottleneck theory, Wickens' MRT, Monsell's task-switching costs, and Newport's deep work framework within a unified analysis.
@@ -1190,10 +1190,10 @@ Varela, Thompson, Rosch (1991: embodied cognition)
 > These are concepts and notes that provide foundational knowledge required to fully understand this report:
 >
 > - **[[working-memory]]** — The entire report's argument rests on working memory capacity limits as the fundamental constraint. Without understanding WM architecture, the dual-task cost argument has no foundation.
-> - **[[cognitive-load-theory]]** — Sections 2 and 7 depend directly on CLT's three-load framework and the additive hypothesis. This is the theoretical engine that converts "walking adds some demand" into "walking reduces learning."
+> - **[[Cognitive Load Theory (CLT)]]** — Sections 2 and 7 depend directly on CLT's three-load framework and the additive hypothesis. This is the theoretical engine that converts "walking adds some demand" into "walking reduces learning."
 > - **[[attention]]** — The central executive as a shared resource, selective attention for reading, divided attention during dual-tasking — attention theory pervades every section of this report.
 > - **[[long-term-memory]]** — The goal of reading is to build durable LTM representations (schemas, situation models). Understanding LTM architecture is prerequisite for understanding why generation-based encoding is superior.
-> - **[[schema-theory]]** — Schema construction and automation are the mechanisms by which expertise reduces intrinsic cognitive load and eventually makes walking-reading defensible for familiar material.
+> - **[[schema-theory-and-knowledge-organization]]** — Schema construction and automation are the mechanisms by which expertise reduces intrinsic cognitive load and eventually makes walking-reading defensible for familiar material.
 > - **[[metacognition]]** — Self-monitoring, calibration, and the fluency illusion are metacognitive concepts essential to Section 4's warning about subjective comprehension overestimates.
 >
 > #### Downstream Applications (This Report Enables)

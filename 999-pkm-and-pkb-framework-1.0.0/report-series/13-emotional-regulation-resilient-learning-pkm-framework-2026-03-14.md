@@ -25,7 +25,7 @@ related_concepts:
   - "[[melete]]"
   - "[[Stoic Journaling]]"
   - "[[self-determination-theory|Self-Determination Theory]]"
-  - "[[basic-psychological-needs|Basic Psychological Needs]]"
+  - "[[Basic Psychological Needs|Basic Psychological Needs]]"
   - "[[competence-need|Competence Need]]"
   - "[[autonomy-need|Autonomy Need]]"
   - "[[amotivation]]"
@@ -96,7 +96,7 @@ cross-report-dependencies:
 prerequisites:
   - "[[self-determination-theory|Self-Determination Theory]]"
   - "[[metacognition]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
 summary: "Synthesizes Stoic Philosophy's emotional regulation practices, SDT's motivation maintenance framework, Pekrun's Control-Value Theory of academic emotions, and Seligman's learned helplessness research to produce an integrated Epistemic Emotional Architecture for PKB design. Reports converge on the finding that emotion in learning is primarily a function of meaning-assignment (cognitive appraisal), not raw events — and that both Stoic practice and modern psychological intervention target this appraisal mechanism. PKB design implications include frustration management protocols, growth-oriented review systems, and embedded Stoic reflection templates that structurally support emotional resilience rather than leaving it to willpower."
 keywords:
   - academic-emotions
@@ -409,7 +409,7 @@ Emotion in learning is not a soft supplement to cognitive processes — it is ge
 
 ### The Return-and-Deepen: Schema Theory and Emotional Architecture
 
-In Report 01, [[schema-theory|Schema Theory]] was introduced as the cognitive architecture underlying knowledge organization. In Report 03, it was extended to describe how new knowledge is assimilated or accommodated into existing schemas. What was not visible at those earlier stages — but is now, with the accumulated cross-domain context of this report — is that schema *accommodation* (restructuring an existing schema to incorporate incompatible new information) is the cognitive process most likely to generate epistemic confusion and managed discomfort. Accommodation cannot happen without a period of conceptual instability — a phase in which the old schema is recognized as inadequate but the new one has not yet been constructed. This phase feels, experientially, like the specific distress of "not knowing something I thought I knew." It is also, as both Pekrun's epistemic emotion research and the Stoic tradition agree, the most generative state for learning. A PKB that helps users tolerate and work through this state — rather than bypassing it through premature schema stabilization — is supporting the most important cognitive work. The Epistemic Emotional Architecture is, fundamentally, the design philosophy that makes this state productive rather than threatening.
+In Report 01, [[schema-theory-and-knowledge-organization|Schema Theory]] was introduced as the cognitive architecture underlying knowledge organization. In Report 03, it was extended to describe how new knowledge is assimilated or accommodated into existing schemas. What was not visible at those earlier stages — but is now, with the accumulated cross-domain context of this report — is that schema *accommodation* (restructuring an existing schema to incorporate incompatible new information) is the cognitive process most likely to generate epistemic confusion and managed discomfort. Accommodation cannot happen without a period of conceptual instability — a phase in which the old schema is recognized as inadequate but the new one has not yet been constructed. This phase feels, experientially, like the specific distress of "not knowing something I thought I knew." It is also, as both Pekrun's epistemic emotion research and the Stoic tradition agree, the most generative state for learning. A PKB that helps users tolerate and work through this state — rather than bypassing it through premature schema stabilization — is supporting the most important cognitive work. The Epistemic Emotional Architecture is, fundamentally, the design philosophy that makes this state productive rather than threatening.
 
 > [!original-synthesis] **The Epistemic Emotional Architecture: A Design Principle for PKBs**
 > 

@@ -152,7 +152,7 @@ status: "generated"
 | Target | Times Linked |
 |---|---:|
 | [[self-regulated-learning]] | 90 |
-| [[cognitive-load-theory]] | 76 |
+| [[Cognitive Load Theory (CLT)]] | 76 |
 | [[metacognition]] | 59 |
 | [[self-determination-theory]] | 58 |
 | [[working-memory]] | 56 |
@@ -161,16 +161,16 @@ status: "generated"
 | [[metacognitive-monitoring]] | 34 |
 | [[transfer-of-learning]] | 33 |
 | [[long-term-memory]] | 33 |
-| [[desirable-difficulties]] | 33 |
-| [[schema-automation]] | 31 |
-| [[expertise-reversal-effect]] | 28 |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | 33 |
+| [[Schema Automation]] | 31 |
+| [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] | 28 |
 | [[deliberate-practice]] | 28 |
-| [[intrinsic-motivation]] | 26 |
-| [[schema-theory]] | 26 |
+| [[Intrinsic Motivation]] | 26 |
+| [[schema-theory-and-knowledge-organization]] | 26 |
 | [[cyclical-model-of-self-regulated-learning]] | 26 |
 | [[vs-code]] | 26 |
 | [[andragogy]] | 24 |
-| [[retrieval-practice]] | 23 |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | 23 |
 
 ### Connection Hubs (most outgoing links)
 
@@ -264,7 +264,7 @@ status: "generated"
 
 | Source File | Broken Target |
 |---|---|
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[fritz-heider]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[bernard-weiner]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[fundamental-attribution-error]]` |
@@ -278,9 +278,9 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-determination-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-efficacy]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[growth-mindset]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[causal-attribution]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[causal-attribution]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[fritz-heider]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[personal-causation]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[bernard-weiner]]` |
@@ -289,10 +289,10 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[cognitive-psychology]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[dual-process-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[bernard-weiner]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[locus-of-causality]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Locus of Causality (Heider, 1958; Weiner, 1972)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[fritz-heider]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[locus-of-control]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[locus-of-causality]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Locus of Causality (Heider, 1958; Weiner, 1972)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[locus-of-control]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[perceived-locus-of-causality]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-esteem]]` |
@@ -301,10 +301,10 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[stability]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[the-stability-expectancy-mechanism]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[expectancy-value-theory]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[controllability]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-controllability-dimension]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[controllability]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-controllability-dimension]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Controllability Dimension (Weiner, 1979, 1985)]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Controllability Dimension (Weiner, 1979, 1985)]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Controllability Dimension (Weiner, 1979, 1985)]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Controllability Dimension (Weiner, 1979, 1985)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[controllability-moral-inference-bridge]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[shame-vs.-guilt-in-attribution-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[the-three-dimensional-causal-taxonomy]]` |
@@ -318,7 +318,7 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Martin-Seligman]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[learned-helplessness]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Explanatory-Style]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attributional-style]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[carol-dweck]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Implicit-Theories-of-Intelligence]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[entity-theory-of-intelligence]]` |
@@ -328,20 +328,20 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-efficacy-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[albert-bandura]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-efficacy]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[mastery-experience]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[mastery-experience-vocabulary]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[emotion-mediation-in-attribution]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[emotion-mediation-in-attribution]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[the-guilt-shame-asymmetry-in-motivational-function]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-esteem]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[intrinsic-motivation]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Intrinsic Motivation]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-serving-attribution-bias]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-controllability-dimension]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Controllability Dimension (Weiner, 1979, 1985)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[controllability-moral-inference-bridge]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[the-guilt-shame-asymmetry-in-motivational-function]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[intrinsic-motivation]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Intrinsic Motivation]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[learned-helplessness]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[fundamental-attribution-error]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-fundamental-attribution-error]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[fundamental-attribution-error]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[fundamental-attribution-error]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[cognitive-biases]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[dual-process-theory]]` |
@@ -370,13 +370,13 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[growth-mindset-and-implicit-theories-of-intelligence]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-determination-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[perceived-locus-of-causality]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-attributional-bridge]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-attributional-bridge — Attribution as the Interpretive Layer]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-efficacy]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[growth-mindset]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-determination-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-efficacy-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[albert-bandura]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[mastery-experience]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[mastery-experience-vocabulary]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attributional-vocabulary]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[inner-speech]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[inner-speech]]` |
@@ -400,32 +400,32 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-regulated-learning]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[metacognition]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[growth-mindset]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[productive-failure]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Productive Failure]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attributional-vocabulary]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-determination-theory]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[causal-attribution]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[fritz-heider]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[causal-attribution]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[bernard-weiner]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[locus-of-causality]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Locus of Causality (Heider, 1958; Weiner, 1972)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[locus-of-control]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[perceived-locus-of-causality]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[stability-dimension]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[the-stability-expectancy-mechanism]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[expectancy-value-theory]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[controllability]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-controllability-dimension]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Controllability Dimension (Weiner, 1979, 1985)]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Controllability Dimension (Weiner, 1979, 1985)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[controllability-moral-inference-bridge]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[emotion-mediation-in-attribution]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[the-guilt-shame-asymmetry-in-motivational-function]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[fundamental-attribution-error]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-fundamental-attribution-error]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[fundamental-attribution-error]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[cognitive-biases]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Explanatory-Style]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attributional-style]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[learned-helplessness]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-retraining]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[the-two-stage-attribution-intervention-architecture]]` |
@@ -433,7 +433,7 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[attributional-vocabulary]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[inner-speech]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[inner-speech-vocabulary-as-self-generated-motivational-architecture]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-attributional-bridge]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[the-attributional-bridge — Attribution as the Interpretive Layer]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-determination-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-efficacy-theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[growth-mindset]]` |
@@ -442,19 +442,19 @@ status: "generated"
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[metacognition]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[reflective-practice]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Learned-Helplessness-and-Explanatory-Style]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Cognitive-Behavioural-Therapy]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[clinical-psychology]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[The-Actor-Observer-Asymmetry-in-Social-Cognition]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[social-cognition]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Perspective-Taking]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Attributional-Processes-in-Intergroup-Relations]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Social-Identity-Theory]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Prejudice-and-Stereotyping]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[Transfer-of-Learning-Mechanisms-and-Instructional-Design]]` |
-| [[attribution-theory-foundational-report-2026-04-19]] | `[[attribution-theory]]` |
+| [[attribution-theory-foundational-report-2026-04-19]] | `[[Attribution (Heider, 1958)]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[self-regulated-learning]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[instructional-design]]` |
 | [[attribution-theory-foundational-report-2026-04-19]] | `[[social-cognition]]` |

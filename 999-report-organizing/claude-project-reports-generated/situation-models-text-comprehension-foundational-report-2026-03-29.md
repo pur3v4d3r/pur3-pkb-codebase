@@ -85,7 +85,7 @@ key-distinctions:
   - "Surface-level reading vs. deep comprehension"
 prerequisites:
   - "[[working-memory]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[mental-models-theory]]"
 related:
   - "[[situation-model]]"
@@ -97,7 +97,7 @@ related:
   - "[[self-explanation-effect]]"
   - "[[levels-of-processing-theory]]"
 broader:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[reading-fluency]]"
 narrower:
   - "[[propositional-representation]]"
@@ -105,14 +105,14 @@ narrower:
 see-also:
   - "[[mental-simulation]]"
   - "[[self-regulated-learning]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[writing-to-learn]]"
 contrasts-with:
   - "[[verbal-efficiency-theory]]"
   - "[[simple-view-of-reading]]"
 builds-on:
   - "[[working-memory]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[mental-models-theory]]"
   - "[[advance-organizers]]"
 enables:
@@ -174,7 +174,7 @@ The situation model concept carries consequences that extend well beyond academi
 
 The core pedagogical implication of situation model theory is this: comprehension strategies that do not target situation model construction are likely to produce fluent-feeling but shallow understanding. The most common reading failure in sophisticated readers is not inability to decode text or remember its propositions — it is the construction of an elaborated [[textbase|textbase]] in the apparent absence of a genuinely grounded [[situation-model|situation model]]. The reader knows *what* the text asserted but cannot explain *why* it is true, cannot deploy the knowledge in novel contexts, and cannot reliably distinguish this text's claims from superficially similar but subtly different claims encountered elsewhere. Situation model theory provides the mechanistic account of why this failure mode occurs and how it can be addressed.
 
-The relationship between this framework and the broader PKB is architecturally significant. Situation model theory functions as a hub in the knowledge graph's reading comprehension subgraph — it provides the representational target that [[working-memory-in-reading|working memory research]], [[schema-theory|schema theory]], [[advance-organizers|advance organizer theory]], [[self-explanation-effect|self-explanation research]], and the [[self-regulated-learning|SRL literature]] are all, from different angles, supporting and explaining. Understanding what a situation model is, how it is constructed, and what impedes its construction yields a unified account of reading comprehension that makes each of those related topics more coherent.
+The relationship between this framework and the broader PKB is architecturally significant. Situation model theory functions as a hub in the knowledge graph's reading comprehension subgraph — it provides the representational target that [[working-memory-in-reading|working memory research]], [[schema-theory-and-knowledge-organization|schema theory]], [[advance-organizers|advance organizer theory]], [[self-explanation-effect|self-explanation research]], and the [[self-regulated-learning|SRL literature]] are all, from different angles, supporting and explaining. Understanding what a situation model is, how it is constructed, and what impedes its construction yields a unified account of reading comprehension that makes each of those related topics more coherent.
 
 ### Scope of This Report
 
@@ -213,7 +213,7 @@ Excluded from scope: computational implementations of the C-I model (which merit
 >
 > **Common Misconception:** The most consequential misconception in applied reading practice is conflating textbase-level comprehension with genuine understanding. The ability to summarize a text's propositional content — even in one's own words — does not demonstrate situation model construction if the summary merely recombines the text's explicit propositions without generating inferentially derived content. Paraphrase tests are textbase tests, not situation model tests.
 >
-> **See also:** [[propositional-representation]], [[situation-model]], [[chunking]], [[working-memory-in-reading]]
+> **See also:** [[propositional-representation]], [[situation-model]], [[Chunk (Miller, 1956; Chase & Simon, 1973)]], [[working-memory-in-reading]]
 
 > [!definition] **Situation Model (van Dijk & Kintsch, 1983; Kintsch, 1998)**
 > The situation model is a multidimensional mental representation of the situation, state of affairs, events, or abstract domain described or argued about in a text. It integrates information derived from the text with information drawn from the reader's prior knowledge, world knowledge, and episodic memories to produce a representation of the *referent world* — what the text is about — rather than the text itself. The situation model captures the causal structure, the spatial configuration, the temporal sequence, the agents and their goals, and the mechanisms underlying the described phenomena, organized into a coherent simulation.
@@ -224,7 +224,7 @@ Excluded from scope: computational implementations of the C-I model (which merit
 >
 > **Research Status:** The situation model is one of the most extensively validated constructs in cognitive psychology. Converging evidence from reading time studies, think-aloud protocols, primed recognition experiments, inference probing paradigms, and neuroimaging consistently supports its psychological reality as a distinct level of representation beyond the textbase.
 >
-> **See also:** [[textbase]], [[mental-models]], [[mental-simulation]], [[schema-theory]], [[working-memory-in-reading]], [[Situation-Models-van-Dijk-&-Kintsch]]
+> **See also:** [[textbase]], [[mental-models]], [[mental-simulation]], [[schema-theory-and-knowledge-organization]], [[working-memory-in-reading]], [[Situation-Models-van-Dijk-&-Kintsch]]
 
 ### The Referential Shift: From Text to World
 
@@ -253,7 +253,7 @@ A central organizing concept for situation model theory is **coherence** — the
 >
 > **Research Status:** Global coherence failures are the dominant comprehension failure mode for skilled readers dealing with unfamiliar domains. The interaction between text coherence and reader knowledge is one of the most robustly established findings in the applied reading research literature (McNamara & Kintsch, 1996).
 >
-> **See also:** [[situation-model]], [[schema-theory]], [[metacognitive-monitoring]]
+> **See also:** [[situation-model]], [[schema-theory-and-knowledge-organization]], [[metacognitive-monitoring]]
 
 > [!ask-yourself-this]
 > When you read a complex text and feel confused, is the confusion local (you cannot connect *this* sentence to *the previous* one — a textbase-level failure) or global (you cannot see how *this section* fits into an overall picture of what is being argued — a situation model failure)? These are distinct failure modes requiring different corrective strategies. Local coherence failures are repaired by careful re-reading of adjacent sentences; global coherence failures require prior knowledge activation, structural surveying, or targeted inference generation.
@@ -374,14 +374,14 @@ The construction of a situation model depends critically on inference generation
 >
 > **Common Misconception:** Elaborative inference generation is sometimes perceived as a sign of distracted or unfocused reading — that the reader is "adding things that aren't there." The opposite is true. Elaborative inference generation is the primary mechanism of deep comprehension; think-aloud studies consistently show that better comprehenders generate more elaborative inferences, not fewer.
 >
-> **See also:** [[situation-model]], [[self-explanation-effect]], [[levels-of-processing-theory]], [[metacognitive-scaffolding]]
+> **See also:** [[situation-model]], [[self-explanation-effect]], [[levels-of-processing-theory]], [[Metacognitive Scaffolding]]
 
 > [!definition] **Causal Inference**
 > A causal inference is an inference specifying causal antecedents or consequences of described events — the *why* and *how* underlying the text's narrative or explanatory structure. Causal inferences are generated with higher priority and greater automaticity than other elaborative inference types, consistent with Constructionist Theory's explanation assumption. They are the primary mechanism through which the causal dimension of the situation model (per the Event Indexing Model) is populated, and their quality is the strongest single predictor of subsequent comprehension performance.
 >
 > **Research Status:** Among the most robustly established findings in reading research. Trabasso & van den Broek (1985) demonstrated that causal connectivity — the number of causal connections a text event has within the causal network — predicts recall probability more reliably than serial position or subjective importance ratings.
 >
-> **See also:** [[situation-model]], [[textbase]], [[schema-theory]]
+> **See also:** [[situation-model]], [[textbase]], [[schema-theory-and-knowledge-organization]]
 
 ### Working Memory Constraints on Model Construction
 
@@ -392,7 +392,7 @@ The construction of a situation model imposes substantial demands on [[working-m
 The **foregrounding effect** reflects working memory's selective maintenance of situationally relevant content. The situation model is not represented as a static stored structure but as a dynamically foregrounded representation in which the "current state" of the simulated situation is maximally active. Readers continuously update this foregrounded representation as the text advances — suppressing outdated state information and activating new state information — and this updating process itself consumes working memory capacity. When working memory capacity is insufficient for both processing new text and maintaining the full foregrounded situation model, the situation model is either simplified (fewer dimensions actively maintained) or fragmented (multiple sub-models rather than one integrated model).
 
 > [!insight]
-> The cognitive difficulty of constructing a situation model is inversely related to the quality and relevance of prior knowledge. When [[schema-theory|prior knowledge schemas]] provide rich, well-organized structures into which incoming text content can be rapidly assimilated, the demand on working memory is reduced — situation model construction work is partially offloaded onto long-term memory schemas. When prior knowledge is absent or poorly organized, every aspect of the situation model must be constructed from scratch within working memory's limited capacity. This is why [[cognitive-load-theory|cognitive load theory]]'s concept of germane load — the cognitive effort devoted to schema construction and automation — is so relevant to reading comprehension: reading demanding texts builds schemas that subsequently reduce the cost of comprehending similar texts, expanding the effective working memory available for situation model construction.
+> The cognitive difficulty of constructing a situation model is inversely related to the quality and relevance of prior knowledge. When [[schema-theory-and-knowledge-organization|prior knowledge schemas]] provide rich, well-organized structures into which incoming text content can be rapidly assimilated, the demand on working memory is reduced — situation model construction work is partially offloaded onto long-term memory schemas. When prior knowledge is absent or poorly organized, every aspect of the situation model must be constructed from scratch within working memory's limited capacity. This is why [[Cognitive Load Theory (CLT)|cognitive load theory]]'s concept of germane load — the cognitive effort devoted to schema construction and automation — is so relevant to reading comprehension: reading demanding texts builds schemas that subsequently reduce the cost of comprehending similar texts, expanding the effective working memory available for situation model construction.
 
 ### Situation Model Updating and Failure Modes
 
@@ -518,7 +518,7 @@ Several important questions remain contested or underspecified. The precise thre
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> **[[schema-theory]]** — Schema theory provides the prior knowledge architecture that situation model construction draws upon. The C-I model's construction phase is the mechanism by which schema-based activation occurs; the integration phase is the mechanism by which schema content is assimilated into the emerging situation model. A reader's existing schemas determine which elaborative inferences are possible and which Event Indexing dimensions can be rapidly populated. Schema theory specifies *from what* situation models are built; situation model theory specifies *what* is built.
+> **[[schema-theory-and-knowledge-organization]]** — Schema theory provides the prior knowledge architecture that situation model construction draws upon. The C-I model's construction phase is the mechanism by which schema-based activation occurs; the integration phase is the mechanism by which schema content is assimilated into the emerging situation model. A reader's existing schemas determine which elaborative inferences are possible and which Event Indexing dimensions can be rapidly populated. Schema theory specifies *from what* situation models are built; situation model theory specifies *what* is built.
 >
 > **[[mental-models-theory]]** — Johnson-Laird's mental models (1983) and van Dijk & Kintsch's situation models are closely related, near-contemporaneous constructs arising independently in reasoning and discourse processing research respectively. Both posit that comprehension produces analogical simulations rather than propositional copies of the described domain. Mental Models Theory was developed primarily in the context of deductive reasoning; Situation Model Theory in the context of text comprehension. Understanding both yields a unified account of how analogical representation supports both reasoning and reading — and explains why the same reader who constructs a good situation model from a text also tends to reason better about the domain the text describes.
 >
@@ -555,7 +555,7 @@ Several important questions remain contested or underspecified. The precise thre
 >
 > **Research Status:** Among the most extensively validated constructs in cognitive psychology; supported by reading time, recall, recognition, inference probing, and neuroimaging paradigms.
 >
-> **See also:** [[textbase]], [[mental-models]], [[propositional-representation]], [[working-memory-in-reading]], [[schema-theory]]
+> **See also:** [[textbase]], [[mental-models]], [[propositional-representation]], [[working-memory-in-reading]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **Textbase (van Dijk & Kintsch, 1983)**
 > A network of propositions representing the semantic content of a text, abstracted from surface linguistic form. Each proposition is a predicate-argument structure capturing a minimal unit of assertable meaning. The textbase represents *what the text asserted*, organized by coherence relations.
@@ -571,7 +571,7 @@ Several important questions remain contested or underspecified. The precise thre
 >
 > **Boundary:** Primarily a process model of *how* situation models are built. Its structural account of *what* they contain is supplemented by the Event Indexing Model.
 >
-> **See also:** [[situation-model]], [[textbase]], [[working-memory]], [[schema-theory]]
+> **See also:** [[situation-model]], [[textbase]], [[working-memory]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **Event Indexing Model (Zwaan, Langston & Graesser, 1995)**
 > A structural model of situation models proposing that readers track information simultaneously across five situational dimensions: temporal (when), spatial (where), causal (why/how events connect), intentional (agent goals and plans), and protagonist/entity (who is present and in what state). Situational discontinuities on any dimension produce reading time increases, with causal discontinuities producing the largest effects.
@@ -597,7 +597,7 @@ Several important questions remain contested or underspecified. The precise thre
 > [!definition] **Local vs. Global Coherence**
 > **Local coherence**: the connectedness of adjacent text units — whether each sentence links to its immediate neighbors. A textbase-level property. **Global coherence**: the unity and consistency of the situation model as a whole — whether all representation elements integrate into a non-contradictory simulation. A situation-model-level property. A text can be locally coherent throughout while failing to produce global coherence.
 >
-> **See also:** [[textbase]], [[situation-model]], [[schema-theory]]
+> **See also:** [[textbase]], [[situation-model]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **Suppression (Gernsbacher, 1990)**
 > The active inhibition of initially activated but ultimately context-inappropriate information during comprehension. The mechanism underlying the C-I model's integration phase. Individual differences in suppression efficiency reliably predict comprehension skill independently of vocabulary and decoding ability.
@@ -609,7 +609,7 @@ Several important questions remain contested or underspecified. The precise thre
 > [!definition] **Constructionist Theory (Graesser, Singer & Trabasso, 1994)**
 > A theory of inference generation specifying that causal antecedent inferences (explaining why events occurred) and goal-motive inferences are generated automatically during comprehension, while predictive and elaborative inferences are not. Based on three assumptions: reader goal (inference generation is goal-modulated), coherence (readers default to seeking coherent representations), and explanation (readers automatically seek causal explanations).
 >
-> **See also:** [[situation-model]], [[self-explanation-effect]], [[metacognitive-scaffolding]]
+> **See also:** [[situation-model]], [[self-explanation-effect]], [[Metacognitive Scaffolding]]
 
 > [!definition] **Foregrounding Effect**
 > The empirical finding that information causally relevant to current events and protagonist goals is more accessible in working memory during reading than other text content, even when the other content is equally important by global coherence standards. Reflects working memory's selective maintenance of the current-state situation model representation.
@@ -625,7 +625,7 @@ Several important questions remain contested or underspecified. The precise thre
 >
 > **Epistemic Status:** Well-motivated synthesis requiring empirical validation.
 >
-> **See also:** [[situation-model]], [[metacognitive-scaffolding]], [[writing-to-learn]], [[self-explanation-effect]]
+> **See also:** [[situation-model]], [[Metacognitive Scaffolding]], [[writing-to-learn]], [[self-explanation-effect]]
 
 
 ---
@@ -709,7 +709,7 @@ Several important questions remain contested or underspecified. The precise thre
 >
 > **This Report's Position:** Strategic processes are necessary for situation model depth that supports transfer; automatic processes establish minimum causal coherence but not explanation-level depth.
 >
-> **See also:** [[self-explanation-effect]], [[metacognitive-scaffolding]], [[automaticity]]
+> **See also:** [[self-explanation-effect]], [[Metacognitive Scaffolding]], [[automaticity]]
 
 > [!tension] **Working Memory Capacity as Fixed vs. Functionally Expandable**
 >
@@ -721,7 +721,7 @@ Several important questions remain contested or underspecified. The precise thre
 >
 > **Current Evidence:** WMC itself shows limited trainability, but functional WMC available for situation model construction can be expanded through strategy instruction and domain knowledge development.
 >
-> **See also:** [[working-memory-capacity]], [[cognitive-load-theory]], [[reading-fluency]], [[automaticity]]
+> **See also:** [[working-memory-capacity]], [[Cognitive Load Theory (CLT)]], [[reading-fluency]], [[automaticity]]
 
 > [!open-question] **Which Annotation Features Best Predict Situation Model Quality?**
 >
@@ -735,7 +735,7 @@ Several important questions remain contested or underspecified. The precise thre
 >
 > **Research Direction:** A within-subjects reading study comparing annotation type conditions on inference posttests and transfer tasks would directly test the DIME protocol.
 >
-> **See also:** [[self-explanation-effect]], [[metacognitive-scaffolding]], [[writing-to-learn]]
+> **See also:** [[self-explanation-effect]], [[Metacognitive Scaffolding]], [[writing-to-learn]]
 
 
 ---

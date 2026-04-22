@@ -34,7 +34,7 @@ link-related:
   - "[[autonomy]]"
   - "[[competence]]"
   - "[[relatedness]]"
-  - "[[intrinsic-motivation]]"
+  - "[[Intrinsic Motivation]]"
   - "[[extrinsic-motivation]]"
 status: active
 

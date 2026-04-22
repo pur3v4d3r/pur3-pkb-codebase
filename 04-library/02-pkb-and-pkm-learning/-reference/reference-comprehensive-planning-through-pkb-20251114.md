@@ -169,7 +169,7 @@ Select next action based on four criteria:
 > **Traditional GTD**: "Write quarterly report" → "Draft outline for Q3 metrics" (@computer, 30min)
 > 
 > **Knowledge Work GTD**: "Master retrieval practice techniques" → 
-> - Project: [[retrieval-practice]] mastery
+> - Project: [[Desirable Difficulties (Robert Bjork, 1994)]] mastery
 > - Next Actions: 
 >   - "Read Chapter 3 of 'Make It Stick'" (@reading-chair, 45min, med-energy)
 >   - "Create 10 flashcards on spacing effects" (@computer, 20min, low-energy)
@@ -2002,14 +2002,14 @@ This structure flows from abstract understanding → concrete methodology → sp
 - [[Weekly Reviews]]
 - [[Project Management]]
 - [[Task-Management]]
-- [[cognitive-load]]
+- [[Cognitive Load Theory (CLT)]]
 - [[deliberate-practice]]
 - [[Time Blocking]]
 - [[GTD]] (Getting Things Done)
 - [[para-method]]
 - [[Progressive-Summarization]]
 - [[spaced-repetition]]
-- [[retrieval-practice]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[Obsidian Templates]]
 - [[Dataview-Plugin]]
 - [[Tasks-Plugin]]

@@ -352,7 +352,7 @@ updated: 2024-02-01
 
 # Relationships
 related:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[long-term-memory]]"
   - "[[Attention and Focus]]"
   - "[[Chunking Strategy]]"
@@ -367,9 +367,9 @@ applications:
   - "[[Interface Design Guidelines]]"
 
 see-also:
-  - "[[worked-example-effect]]"
+  - "[[the-worked-example-effect]]"
   - "[[split-attention-effect]]"
-  - "[[expertise-reversal-effect]]"
+  - "[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]"
 
 # Empirical Foundation
 based-on:

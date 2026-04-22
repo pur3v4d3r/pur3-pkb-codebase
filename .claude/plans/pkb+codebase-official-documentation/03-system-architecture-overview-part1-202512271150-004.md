@@ -2041,10 +2041,10 @@ reviewed_date: YYYY-MM-DD
 ```markdown
 # Working Memory
 
-Working memory is [[cognitive-load-theory|CLT]]^foundation-for-this
+Working memory is [[Cognitive Load Theory (CLT)|CLT]]^foundation-for-this
 - Foundation relationship: CLT builds upon working memory research
 
-Related to [[schema-theory]]^complements
+Related to [[schema-theory-and-knowledge-organization]]^complements
 - Complementary relationship: Both explain knowledge organization
 
 See also [[long-term-memory]]^contrasts

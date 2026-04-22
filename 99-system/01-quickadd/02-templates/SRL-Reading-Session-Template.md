@@ -98,7 +98,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## 🔍 Zone 1: Prior Knowledge Activation
 
 > [!tip] Purpose
-> Activate relevant [[prior-knowledge-activation|prior knowledge]] and existing schema before encountering new material. This reduces [[cognitive-load-theory|cognitive load]] and creates explicit baselines for later calibration. See [[advance-organizers]].
+> Activate relevant [[prior-knowledge-activation|prior knowledge]] and existing schema before encountering new material. This reduces [[Cognitive Load Theory (CLT)|cognitive load]] and creates explicit baselines for later calibration. See [[advance-organizers]].
 
 **Related concepts already in my PKB:**
 - [[]] — 
@@ -136,7 +136,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## 🎯 Zone 3: Goal Setting — Three-Part Structure
 
 > [!tip] Purpose
-> Set specific, mastery-framed goals using the three-part structure that activates attentional direction, provides evaluable standards, and sustains [[intrinsic-motivation]]. See [[achievement-goal-theory]] and [[goal-setting-theory]].
+> Set specific, mastery-framed goals using the three-part structure that activates attentional direction, provides evaluable standards, and sustains [[Intrinsic Motivation]]. See [[achievement-goal-theory]] and [[goal-setting-theory]].
 
 ### Learning Outcome Goal *(mastery-framed, specific, proximal)*
 
@@ -189,7 +189,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## ✨ Zone 5: Motivational Priming
 
 > [!tip] Purpose
-> Activate [[self-determination-theory|autonomous motivation]] by connecting to genuine interest and [[autonomy-support|autonomy-supportive]] framing. See [[intrinsic-motivation]].
+> Activate [[self-determination-theory|autonomous motivation]] by connecting to genuine interest and [[autonomy-support|autonomy-supportive]] framing. See [[Intrinsic Motivation]].
 
 **What specifically interests me about this topic?**
 > *(Not "I should know this" — that's controlling language. What genuinely draws me to this?)*
@@ -223,7 +223,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## 📊 Zone 1: Cold Reconstruction *(Retrieval-Based Comprehension Test)*
 
 > [!warning] Do NOT consult any notes or the text for this zone.
-> Write from memory only. Set a 5-minute timer. This is the mechanism that defeats the [[the-fluency-illusion|fluency illusion]] — if you can't produce it, you didn't learn it. See [[retrieval-practice]] and [[testing-effect-retrieval-practice-effect]].
+> Write from memory only. Set a 5-minute timer. This is the mechanism that defeats the [[the-fluency-illusion|fluency illusion]] — if you can't produce it, you didn't learn it. See [[Desirable Difficulties (Robert Bjork, 1994)]] and [[testing-effect-retrieval-practice-effect]].
 
 **Core claim of this text (in my own words):**
 > 
@@ -294,7 +294,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 ## 🔬 Zone 3: Causal Attribution Analysis
 
 > [!warning] CRITICAL ZONE — This is the hinge on which the entire cycle turns.
-> The attribution you generate here determines whether the next session improves or stagnates. See [[attribution-theory]], [[bernard-weiner]], and [[attribution-retraining]].
+> The attribution you generate here determines whether the next session improves or stagnates. See [[Attribution (Heider, 1958)]], [[bernard-weiner]], and [[attribution-retraining]].
 
 > [!important] Before generating ANY global conclusion about your ability or the text's difficulty, complete the strategy-level search below.
 
@@ -316,7 +316,7 @@ linked-calibration-log: "[[SRL-Calibration-Log]]"
 |----------|-----|---------|
 | Did I have sufficient prior schema? | | |
 | Was my goal specific enough? | | |
-| Did I use [[elaborative-interrogation|elaborative interrogation]]? | | |
+| Did I use [[Elaborative Interrogation|elaborative interrogation]]? | | |
 | Did I self-explain at section boundaries? | | |
 | Was my comprehension criterion calibrated to my actual level? | | |
 | Was my attention available for the cognitive demands? | | |

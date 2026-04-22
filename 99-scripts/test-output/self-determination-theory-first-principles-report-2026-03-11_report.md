@@ -563,7 +563,7 @@ extraction_summary:
 - [[Bratman's-Planning-Theory]]
 - [[carl-rogers]]
 - [[challenge-skill-balance]]
-- [[cognitive-evaluation-theory]]
+- [[cognitive-evaluation-theory-cet]]
 - [[competence]]
 - [[cross-cultural-psychology]]
 - [[effectance-motivation]]
@@ -589,7 +589,7 @@ extraction_summary:
 | 2 | [[autonomy]] | — | — | The Standard Account | 137 |
 | 3 | [[competence]] | — | — | The Standard Account | 137 |
 | 4 | [[relatedness]] | — | — | The Standard Account | 137 |
-| 5 | [[cognitive-evaluation-theory]] | — | — | The Standard Account | 137 |
+| 5 | [[cognitive-evaluation-theory-cet]] | — | — | The Standard Account | 137 |
 | 6 | [[organismic-integration-theory]] | — | — | The Standard Account | 137 |
 | 7 | [[organismic-integration]] | — | — | The Standard Narrative | 144 |
 | 8 | [[carl-rogers]] | — | — | The Standard Narrative | 144 |
@@ -650,7 +650,7 @@ extraction_summary:
 - [[Bratman's-Planning-Theory]]
 - [[carl-rogers]]
 - [[challenge-skill-balance]]
-- [[cognitive-evaluation-theory]]
+- [[cognitive-evaluation-theory-cet]]
 - [[competence]]
 - [[cross-cultural-psychology]]
 - [[effectance-motivation]]
@@ -680,13 +680,13 @@ extraction_summary:
 
 - [[self-determination-theory]]
 - [[basic-psychological-needs-theory]]
-- [[intrinsic-motivation]]
+- [[Intrinsic Motivation]]
 - [[extrinsic-motivation]]
-- [[internalization-continuum]]
+- [[internalization]]
 - [[autonomy]]
 - [[Agency]]
 - [[organismic-integration-theory]]
-- [[cognitive-evaluation-theory]]
+- [[cognitive-evaluation-theory-cet]]
 - [[humanistic-psychology]]
 - [[Cross-Cultural Universality]]
 - [[goal-contents-theory]]

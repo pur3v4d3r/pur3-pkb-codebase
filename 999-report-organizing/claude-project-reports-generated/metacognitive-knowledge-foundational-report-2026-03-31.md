@@ -144,7 +144,7 @@ related:
 
 broader:
   - "[[metacognition]]"
-  - "[[cognitive-architecture]]"
+  - "[[Cognitive Architecture]]"
 
 narrower:
   - "[[declarative-metacognitive-knowledge]]"
@@ -156,9 +156,9 @@ see-also:
   - "[[Metacognition-&-Critical-Thinking]]"
   - "[[Metacognition-&-Motivation]]"
   - "[[Metacognition-&-Lifelong-Learning]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[pseudometacognition]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[dunning-kruger-effect]]"
 
 contrasts-with:
@@ -169,7 +169,7 @@ applied-in:
   - "[[self-regulated-learning]]"
   - "[[critical-thinking]]"
   - "[[comprehension-monitoring]]"
-  - "[[elaborative-interrogation]]"
+  - "[[Elaborative Interrogation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -177,14 +177,14 @@ applied-in:
 builds-on:
   - "[[metacognition]]"
   - "[[memory-systems]]"
-  - "[[schema-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[levels-of-processing-theory]]"
 
 enables:
   - "[[self-regulated-learning]]"
   - "[[metacognitive-regulation]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[critical-thinking]]"
   - "[[transfer-of-learning]]"
 
@@ -304,7 +304,7 @@ The most influential elaboration of Flavell's taxonomy was developed by [[gregor
 >
 > **Boundary:** Declarative metacognitive knowledge does not entail that a person can execute the strategy or process it describes. A student may accurately state that elaborative interrogation is more effective than rereading while consistently choosing rereading in practice — this gap between declarative knowledge and procedural action is a central puzzle in the metacognitive knowledge literature.
 >
-> **See also:** [[declarative-memory]], [[procedural-knowledge]], [[conditional-metacognitive-knowledge]], [[elaborative-interrogation]], [[metacognitive-strategy]]
+> **See also:** [[declarative-memory]], [[procedural-knowledge]], [[conditional-metacognitive-knowledge]], [[Elaborative Interrogation]], [[metacognitive-strategy]]
 
 > [!definition] **Procedural Metacognitive Knowledge (Paris et al., 1983; Schraw & Moshman, 1995)**
 > Procedural metacognitive knowledge — *knowing how* — is knowledge about the execution sequences, operational steps, and implementation details of cognitive strategies. Where declarative metacognitive knowledge concerns what a strategy is and what general effect it produces, procedural metacognitive knowledge concerns how to actually carry it out: the specific operations, their ordering, and their quality control checkpoints. A skilled reader's procedural metacognitive knowledge includes the specific operations involved in comprehension monitoring — the precise ways she pauses, signals confusion, selects a fix-up strategy, and checks for resolution.
@@ -320,7 +320,7 @@ The most influential elaboration of Flavell's taxonomy was developed by [[gregor
 >
 > **Common Misconception:** Conditional metacognitive knowledge is often the least explicitly taught dimension in educational settings, where instruction frequently addresses declarative strategy knowledge (here is what elaborative interrogation is) and sometimes procedural strategy knowledge (here is how to execute it) while rarely providing explicit treatment of conditional knowledge (here are the conditions under which it is and is not appropriate).
 >
-> **See also:** [[elaborative-interrogation]], [[metacognitive-strategy]], [[transfer-of-learning]], [[desirable-difficulties]], [[self-regulated-learning]]
+> **See also:** [[Elaborative Interrogation]], [[metacognitive-strategy]], [[transfer-of-learning]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[self-regulated-learning]]
 
 The declarative-procedural-conditional taxonomy has several significant advantages over Flavell's person-task-strategy taxonomy. First, it is more directly operationalizable: researchers can design assessments targeting each dimension independently, and instruction can be structured to address each type of knowledge explicitly. Second, it captures a crucial pattern in the gap between knowing and doing: many learners possess adequate declarative metacognitive knowledge but inadequate procedural or conditional metacognitive knowledge, which produces the puzzling phenomenon of learners who can accurately describe effective strategies while consistently failing to deploy them. Third, it provides a more precise framework for diagnosing metacognitive deficits: an intervention aimed at a learner with insufficient declarative knowledge should look very different from one aimed at a learner with procedural but not conditional knowledge.
 
@@ -333,9 +333,9 @@ Flavell's original framework included a fourth component often overlooked in sub
 > [!definition] **Metacognitive Experiences (Flavell, 1981; Efklides, 2001, 2006)**
 > Metacognitive experiences are conscious phenomenological states that arise during cognitive processing and that carry information about the progress, quality, and appropriateness of cognitive activity. They include feelings of knowing (the sense that one knows something that cannot be immediately retrieved), judgments of learning (assessments of how well material has been acquired), feelings of difficulty (the sense that a task is more demanding than expected), feelings of confidence (assessments of the correctness of a response), and feelings of familiarity (the sense that material has been previously encountered). Metacognitive experiences are distinguished from metacognitive knowledge in that they are situationally specific, affectively toned, and arise online during cognitive activity rather than being retrieved from stored knowledge.
 >
-> **Boundary:** Metacognitive experiences are not simply metacognitive knowledge applied to current tasks. They are phenomenologically distinct states with their own processing mechanisms — often generated by fluency effects, familiarity effects, and other heuristic shortcuts that can yield experiences that are systematically inaccurate (as in the [[fluency-illusion]], where the ease of processing a well-printed text is misattributed to deep comprehension of its content).
+> **Boundary:** Metacognitive experiences are not simply metacognitive knowledge applied to current tasks. They are phenomenologically distinct states with their own processing mechanisms — often generated by fluency effects, familiarity effects, and other heuristic shortcuts that can yield experiences that are systematically inaccurate (as in the [[Fluency Illusion]], where the ease of processing a well-printed text is misattributed to deep comprehension of its content).
 >
-> **See also:** [[feeling-of-knowing]], [[judgment-of-learning]], [[fluency-illusion]], [[calibration]], [[metacognitive-calibration]], [[metacognitive-feelings]]
+> **See also:** [[feeling-of-knowing]], [[judgment-of-learning]], [[Fluency Illusion]], [[calibration]], [[metacognitive-calibration]], [[metacognitive-feelings]]
 
 The interaction between metacognitive knowledge and metacognitive experience is bidirectional and dynamic. Stored metacognitive knowledge provides the interpretive framework within which experiences are understood: a learner who knows that feelings of fluency can be deceiving will interpret a feeling of smooth reading with more epistemic caution than a learner who lacks this knowledge. Conversely, metacognitive experiences over time contribute to the revision and refinement of stored metacognitive knowledge: repeated experiences of comprehension failure following periods of high processing fluency can gradually update one's metacognitive knowledge about the reliability of fluency as a comprehension signal.
 
@@ -383,7 +383,7 @@ The model specifies two directional flows between these levels. **Monitoring** f
 >
 > **Boundary:** The Nelson-Narens model is a normative architecture — it specifies how the metacognitive system *could* operate optimally. It does not claim that actual metacognitive processing always achieves this architecture; indeed, the model has been productive precisely because it specifies failure modes: monitoring can be inaccurate, control can be miscalibrated, and the coupling between monitoring signals and control responses can be weak or absent.
 >
-> **See also:** [[metacognitive-monitoring]], [[metacognitive-regulation]], [[monitoring-regulation-coupling]], [[monitoring-control-coupling]], [[the-nelson-narens-monitoring-control-model]], [[judgment-of-learning]], [[feeling-of-knowing]]
+> **See also:** [[metacognitive-monitoring]], [[metacognitive-regulation]], [[monitoring-regulation-coupling]], [[Monitoring-Control Coupling]], [[the-nelson-narens-monitoring-control-model]], [[judgment-of-learning]], [[feeling-of-knowing]]
 
 The significance of the Nelson-Narens model for understanding metacognitive knowledge is that it clarifies the *functional role* of stored knowledge in the regulatory architecture. Metacognitive knowledge, in this framework, serves as the basis for the meta-level's representational content: it provides the standards against which monitoring proceeds (what counts as adequate comprehension? what signals indicate that the current strategy is failing?), the inventory from which control draws (what alternative strategies are available? which is most likely to resolve the diagnosed problem?), and the conditional knowledge that determines which monitoring signals should trigger which control responses. The richness and accuracy of stored metacognitive knowledge thus directly constrain the quality of both monitoring and control.
 
@@ -427,7 +427,7 @@ The evidence suggests a differentiated answer that resists both poles. At the le
 >
 > **This Report's Position:** The evidence warrants a hybrid model in which domain-general declarative knowledge provides scaffolding for domain-specific calibration — the general principles do not substitute for domain-specific conditional knowledge but do accelerate its acquisition by providing a conceptual framework within which domain-specific experience can be efficiently organized and interpreted.
 >
-> **See also:** [[transfer-of-learning]], [[Metacognition-&-Critical-Thinking]], [[expertise]], [[cognitive-architecture]]
+> **See also:** [[transfer-of-learning]], [[Metacognition-&-Critical-Thinking]], [[expertise]], [[Cognitive Architecture]]
 
 > [!reflection] **Phase III Reflections**
 > 1. The Nelson-Narens monitoring-control model specifies that control commands from the meta-level are only as good as the metacognitive knowledge that generates them. What does this imply for the design of environments intended to support metacognitive development? Specifically, what features of an environment would produce accurate monitoring and responsive control rather than monitoring-control decoupling?
@@ -476,7 +476,7 @@ Several distinct contributing mechanisms are hypothesized:
 **Monitoring-knowledge decoupling**: Even when accurate monitoring signals are generated (a genuine feeling of difficulty, a detectable drop in comprehension), these signals may not reliably activate the corresponding metacognitive knowledge if the associative connections between monitoring states and specific knowledge elements are weak. The monitoring system and the knowledge system may operate with insufficient coupling.
 
 > [!warning]
-> The Knowledge-Activation Gap implies that interventions targeting metacognitive knowledge exclusively — without simultaneously strengthening the coupling between monitoring signals and knowledge activation — will produce improvements in explicit strategy knowledge that do not transfer to spontaneous regulatory improvement. This has direct implications for the design of [[metacognitive-scaffolding]] and for the evaluation of metacognitive instruction programs: gains in explicit knowledge inventory responses are insufficient evidence of meaningful intervention success.
+> The Knowledge-Activation Gap implies that interventions targeting metacognitive knowledge exclusively — without simultaneously strengthening the coupling between monitoring signals and knowledge activation — will produce improvements in explicit strategy knowledge that do not transfer to spontaneous regulatory improvement. This has direct implications for the design of [[Metacognitive Scaffolding]] and for the evaluation of metacognitive instruction programs: gains in explicit knowledge inventory responses are insufficient evidence of meaningful intervention success.
 
 ### 4.4 Metacognitive Knowledge and the SRL Cycle
 
@@ -495,7 +495,7 @@ In the **Self-Reflection Phase**, declarative and conditional metacognitive know
 
 The construct of **metacognitive calibration** — the degree to which metacognitive knowledge and metacognitive judgments accurately reflect actual cognitive states and performance — has emerged as one of the central empirical concerns of the metacognitive knowledge literature. Calibration research examines the alignment between predicted and actual performance (prospective calibration), between experienced and actual comprehension (concurrent calibration), and between retrospective performance judgments and actual performance (retrospective calibration).
 
-The most consistent finding in calibration research is that metacognitive calibration is imperfect under most conditions, in most domains, and for most populations. Overconfidence is the modal error for novice and moderately experienced learners in domains where feedback is delayed, indirect, or ambiguous — which describes most academic learning contexts. The mechanisms are multiple: the [[fluency-illusion]] (smooth processing is mistaken for deep comprehension); the [[dunning-kruger-effect]] pattern (insufficient domain knowledge produces insufficient metacognitive standards for assessing one's own domain ignorance); the **hindsight bias** effect in retrospective calibration (knowing the correct answer makes it seem as though one would have known it before); and the strategic goal-setting biases described by self-worth protection theories.
+The most consistent finding in calibration research is that metacognitive calibration is imperfect under most conditions, in most domains, and for most populations. Overconfidence is the modal error for novice and moderately experienced learners in domains where feedback is delayed, indirect, or ambiguous — which describes most academic learning contexts. The mechanisms are multiple: the [[Fluency Illusion]] (smooth processing is mistaken for deep comprehension); the [[dunning-kruger-effect]] pattern (insufficient domain knowledge produces insufficient metacognitive standards for assessing one's own domain ignorance); the **hindsight bias** effect in retrospective calibration (knowing the correct answer makes it seem as though one would have known it before); and the strategic goal-setting biases described by self-worth protection theories.
 
 Critically, metacognitive calibration is improvable. Repeated retrieval practice provides direct experience of the gap between confident recognition and uncertain recall, gradually recalibrating the metacognitive knowledge that generates predictions. Feedback-intensive learning environments accelerate calibration through the provision of accurate, timely information about actual versus predicted performance. Explicit instruction in the sources of miscalibration — teaching learners specifically about fluency illusions, recognition-recall asymmetries, and the limits of rereading as a comprehension indicator — can produce lasting calibration improvements by equipping learners with the declarative metacognitive knowledge needed to interpret their own monitoring signals with appropriate epistemic caution.
 
@@ -542,9 +542,9 @@ Among the most practically consequential phenomena in the metacognitive knowledg
 > [!definition] **Pseudometacognition**
 > Pseudometacognition refers to metacognitive-appearing knowledge, beliefs, or behaviors that do not reflect genuine awareness of one's actual cognitive processes, accurate calibration of cognitive states, or conditionally sophisticated understanding of cognitive strategies. It is characterized by the production of metacognitive language and self-reports that are socially appropriate, instructionally endorsed, or generically scripted but that are not grounded in accurate monitoring of actual cognitive functioning. Pseudometacognition is distinguishable from genuine metacognitive knowledge by its insensitivity to performance feedback, its context-insensitivity (applying the same metacognitive narrative regardless of task or performance variation), and its failure to produce adaptive regulatory responses when monitoring signals indicate they are needed.
 >
-> **Boundary:** Pseudometacognition is not deliberate deception. Learners may genuinely believe they possess the metacognitive knowledge they report while their regulatory behavior reveals the absence of genuine calibration. The phenomenon is best understood as a form of metacognitive self-deception enabled by the [[fluency-illusion]] and by instructional environments that reward metacognitive talk without assessing metacognitive accuracy.
+> **Boundary:** Pseudometacognition is not deliberate deception. Learners may genuinely believe they possess the metacognitive knowledge they report while their regulatory behavior reveals the absence of genuine calibration. The phenomenon is best understood as a form of metacognitive self-deception enabled by the [[Fluency Illusion]] and by instructional environments that reward metacognitive talk without assessing metacognitive accuracy.
 >
-> **See also:** [[pseudometacognition]], [[fluency-illusion]], [[calibration]], [[metacognitive-calibration]], [[dunning-kruger-effect]]
+> **See also:** [[pseudometacognition]], [[Fluency Illusion]], [[calibration]], [[metacognitive-calibration]], [[dunning-kruger-effect]]
 
 The instructional implication is that assessment of metacognitive knowledge through self-report alone is insufficient. Genuine metacognitive knowledge must be assessed through behavioral indicators — the accuracy of metacognitive predictions, the appropriateness of strategy selections under varying task conditions, the responsiveness of regulatory behavior to performance feedback — that are less susceptible to social desirability effects and fluency-based illusions than self-report instruments.
 
@@ -599,13 +599,13 @@ Fourth, calibration is the metacognitive parameter most directly implicated in l
 >
 > **[[metacognitive-calibration]]** and **[[calibration]]** — The calibration nodes in the PKB address the accuracy dimension of metacognitive monitoring, which is shown in Phase IV.5 of this report to be the most direct operative mechanism linking metacognitive knowledge to learning outcomes. The present report provides the knowledge-theoretic grounding for calibration: miscalibration is not merely a monitoring failure but a specific type of metacognitive knowledge deficiency (inaccurate person knowledge, insufficient conditional knowledge about the sources of fluency illusions).
 >
-> **[[fluency-illusion]]** — This node addresses the phenomenological mechanism through which reading ease is misattributed to comprehension depth, producing the most common form of overconfident calibration in academic reading contexts. The present report provides the metacognitive knowledge framework within which the fluency illusion should be understood: it is a failure of metacognitive knowledge (not knowing that fluency is a poor proxy for comprehension) combined with a miscalibrated monitoring signal.
+> **[[Fluency Illusion]]** — This node addresses the phenomenological mechanism through which reading ease is misattributed to comprehension depth, producing the most common form of overconfident calibration in academic reading contexts. The present report provides the metacognitive knowledge framework within which the fluency illusion should be understood: it is a failure of metacognitive knowledge (not knowing that fluency is a poor proxy for comprehension) combined with a miscalibrated monitoring signal.
 >
-> **[[elaborative-interrogation]]** — This report connects to the elaborative interrogation node by providing the metacognitive knowledge-level account of why elaborative interrogation is effective: it develops conditional metacognitive knowledge (why does this work in this context?) and triggers accurate monitoring (self-questioning reveals what one does and does not understand) simultaneously.
+> **[[Elaborative Interrogation]]** — This report connects to the elaborative interrogation node by providing the metacognitive knowledge-level account of why elaborative interrogation is effective: it develops conditional metacognitive knowledge (why does this work in this context?) and triggers accurate monitoring (self-questioning reveals what one does and does not understand) simultaneously.
 >
-> **[[schema-theory]]** — Metacognitive knowledge is stored in long-term memory as schematic knowledge structures — it is not a list of propositional beliefs but an integrated network of interconnected beliefs organized by domain, strategy type, task category, and self-knowledge. The schema theory node provides the memory-level architecture within which metacognitive knowledge should be understood as organized and retrieved.
+> **[[schema-theory-and-knowledge-organization]]** — Metacognitive knowledge is stored in long-term memory as schematic knowledge structures — it is not a list of propositional beliefs but an integrated network of interconnected beliefs organized by domain, strategy type, task category, and self-knowledge. The schema theory node provides the memory-level architecture within which metacognitive knowledge should be understood as organized and retrieved.
 >
-> **[[cognitive-load-theory]]** — CLT intersects with metacognitive knowledge in two directions: metacognitive knowledge about task demands and element interactivity provides a basis for accurate forethought-phase load anticipation, and metacognitive knowledge about one's own working memory limitations supports adaptive load management during task performance. The CLT node should be linked to the present report as providing the cognitive resource constraints within which metacognitive strategies must operate.
+> **[[Cognitive Load Theory (CLT)]]** — CLT intersects with metacognitive knowledge in two directions: metacognitive knowledge about task demands and element interactivity provides a basis for accurate forethought-phase load anticipation, and metacognitive knowledge about one's own working memory limitations supports adaptive load management during task performance. The CLT node should be linked to the present report as providing the cognitive resource constraints within which metacognitive strategies must operate.
 >
 > **[[Metacognition-&-Critical-Thinking]]**, **[[Metacognition-&-Motivation]]**, and **[[Metacognition-&-Lifelong-Learning]]** — Each of these existing PKB nodes addresses a major application domain for metacognitive knowledge. The present report provides the construct-level foundation that these application nodes presuppose; they should be linked downstream from this foundational treatment.
 >
@@ -651,12 +651,12 @@ Several genuinely open questions remain after comprehensive treatment of this to
 >
 > **Report-Specific Significance:** Task knowledge governs the quality of forethought-phase task analysis in the SRL cycle. Impoverished or inaccurate task knowledge produces mismatch between task demands and strategy selection before cognitive engagement begins, a particularly damaging form of metacognitive failure because it is not correctable through within-task monitoring alone.
 >
-> **See also:** [[cognitive-load-theory]], [[intrinsic-cognitive-load]], [[self-regulated-learning]], [[forethought-phase]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], [[self-regulated-learning]], [[forethought-phase]]
 
 > [!definition] **Strategy Knowledge (Flavell, 1979)**
 > The subcomponent of metacognitive knowledge concerning beliefs about cognitive strategies (techniques that directly advance cognitive goals: elaboration, organization, imagery, retrieval practice) and metacognitive strategies (techniques that monitor progress toward cognitive goals: self-testing, comprehension monitoring, error detection). Strategy knowledge in its most sophisticated form includes conditional knowledge — knowing not only what strategies exist and how to execute them, but the conditions under which each is effective.
 >
-> **See also:** [[metacognitive-strategy]], [[elaborative-interrogation]], [[retrieval-practice]], [[spaced-repetition]], [[comprehension-monitoring]]
+> **See also:** [[metacognitive-strategy]], [[Elaborative Interrogation]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[spaced-repetition]], [[comprehension-monitoring]]
 
 > [!definition] **Declarative Metacognitive Knowledge (Paris, Lipson & Wixson, 1983)**
 > Propositional, explicitly statable knowledge about oneself as a learner, about cognitive tasks, and about cognitive strategies — corresponding to *knowing that*. The most accessible dimension of metacognitive knowledge; the most readily assessed through self-report; and the dimension most commonly targeted in metacognitive instruction. Distinguished from procedural and conditional metacognitive knowledge by its propositional form and its independence from execution competence.
@@ -673,26 +673,26 @@ Several genuinely open questions remain after comprehensive treatment of this to
 >
 > **Common Misconception:** Conditional metacognitive knowledge is sometimes treated as simply "more detailed" declarative knowledge. The distinction is qualitative rather than quantitative: conditional knowledge concerns the enabling and disabling conditions of strategy effectiveness, which requires a fundamentally different epistemic relationship to the strategy than declarative knowledge of its existence.
 >
-> **See also:** [[conditional-metacognitive-knowledge]], [[transfer-of-learning]], [[desirable-difficulties]], [[expertise]]
+> **See also:** [[conditional-metacognitive-knowledge]], [[transfer-of-learning]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[expertise]]
 
 > [!definition] **Metacognitive Calibration**
 > The degree of alignment between a learner's metacognitive judgments (predictions of performance, assessments of comprehension, estimates of mastery) and actual cognitive states or performance outcomes. Accurate calibration enables appropriate regulatory responses; miscalibration — particularly overconfident calibration — generates false positive monitoring signals that suppress necessary strategy deployment. Calibration is improvable through retrieval practice, delayed judgments of learning, and explicit instruction in the sources of processing-fluency illusions.
 >
 > **Research Status:** Calibration accuracy is the single metacognitive parameter with the most direct and robust relationship to learning outcomes in experimental studies. The finding that calibration predicts performance beyond raw cognitive ability has been replicated across numerous domains and populations.
 >
-> **See also:** [[metacognitive-calibration]], [[calibration]], [[feeling-of-knowing]], [[judgment-of-learning]], [[fluency-illusion]], [[retrieval-practice]]
+> **See also:** [[metacognitive-calibration]], [[calibration]], [[feeling-of-knowing]], [[judgment-of-learning]], [[Fluency Illusion]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > [!definition] **Pseudometacognition**
 > Metacognitive-appearing knowledge, beliefs, or behaviors that do not reflect genuine awareness of one's actual cognitive processes, accurate calibration of cognitive states, or conditionally sophisticated understanding of cognitive strategies. Characterized by context-insensitivity (applying the same metacognitive narrative regardless of task or performance variation) and failure to generate adaptive regulatory responses when monitoring signals indicate they are needed. Distinguishable from genuine metacognitive knowledge by its insensitivity to performance feedback.
 >
-> **See also:** [[pseudometacognition]], [[fluency-illusion]], [[calibration]], [[monitoring-regulation-decoupling]]
+> **See also:** [[pseudometacognition]], [[Fluency Illusion]], [[calibration]], [[monitoring-regulation-decoupling]]
 
 > [!definition] **Knowledge-Activation Gap [Original Construct — Speculative Synthesis]**
 > The systematic failure of stored, declaratively accurate metacognitive knowledge to activate in the relevant regulatory contexts during task performance, even when monitoring conditions that should trigger activation are present. Hypothesized to result from three contributing mechanisms: indexing insufficiency (declarative knowledge indexed to instruction contexts rather than task-embedded monitoring signals), proceduralization deficit (insufficient supported practice to proceduralize declarative knowledge), and monitoring-knowledge decoupling (weak associative links between monitoring state representations and metacognitive knowledge elements).
 >
 > **Epistemic Status:** This construct is a speculative synthesis proposed to integrate disparate findings on the knowledge-regulation dissociation. It is well-motivated by existing evidence but lacks direct experimental validation as a distinct mechanism.
 >
-> **See also:** [[metacognitive-regulation]], [[monitoring-regulation-coupling]], [[monitoring-regulation-decoupling]], [[metacognitive-scaffolding]]
+> **See also:** [[metacognitive-regulation]], [[monitoring-regulation-coupling]], [[monitoring-regulation-decoupling]], [[Metacognitive Scaffolding]]
 
 > [!definition] **Metacognitive Feelings (Efklides, 2001)**
 > The immediate, online affective-cognitive phenomenological states that arise during cognitive processing and carry information about the progress, quality, and appropriateness of ongoing cognitive activity. Distinct from metacognitive knowledge (stored beliefs) and metacognitive judgments (deliberate assessments), metacognitive feelings are generated by rapid, heuristic processes responsive to fluency, familiarity, and effort signals. They serve as the primary activators of regulatory responses during task performance and are the primary interface through which stored metacognitive knowledge is engaged.
@@ -702,7 +702,7 @@ Several genuinely open questions remain after comprehensive treatment of this to
 > [!definition] **Monitoring-Control Coupling (Nelson & Narens, 1990)**
 > The functional relationship between the monitoring processes that track object-level cognitive activity (generating information about current states) and the control processes that modify that activity in response to monitored information. Adequate monitoring-control coupling requires that monitoring signals reliably and promptly trigger appropriate control responses — that the metacognitive system responds to detected comprehension failure with strategy adjustment rather than continuing to process as if no failure had occurred. Monitoring-control decoupling produces the distinctive pattern of learners who detect their own performance failures without taking corrective action.
 >
-> **See also:** [[monitoring-control-coupling]], [[monitoring-regulation-coupling]], [[monitoring-regulation-decoupling]], [[the-nelson-narens-monitoring-control-model]], [[metacognitive-regulation]]
+> **See also:** [[Monitoring-Control Coupling]], [[monitoring-regulation-coupling]], [[monitoring-regulation-decoupling]], [[the-nelson-narens-monitoring-control-model]], [[metacognitive-regulation]]
 
 ---
 
@@ -762,7 +762,7 @@ Several genuinely open questions remain after comprehensive treatment of this to
 >
 > **Current Evidence:** The evidence supports separability of the declarative dimension and inseparability of the conditional dimension. Generic metacognitive instruction improves declarative metacognitive knowledge; improvement in conditional knowledge requires domain-embedded practice.
 >
-> **See also:** [[transfer-of-learning]], [[expertise]], [[cognitive-architecture]], [[schema-theory]]
+> **See also:** [[transfer-of-learning]], [[expertise]], [[Cognitive Architecture]], [[schema-theory-and-knowledge-organization]]
 
 > [!tension] **Explicit Instruction vs. Implicit Development of Metacognitive Knowledge**
 >
@@ -774,7 +774,7 @@ Several genuinely open questions remain after comprehensive treatment of this to
 >
 > **This Report's Position:** The evidence supports a scaffolded combination in which explicit instruction provides the conceptual categories that make experiential learning more efficient, but functional metacognitive knowledge requires experiential grounding. Neither pathway alone is adequate.
 >
-> **See also:** [[scaffolding]], [[desirable-difficulties]], [[productive-struggle]], [[metacognitive-scaffolding]]
+> **See also:** [[Scaffolded Fading]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[productive-struggle]], [[Metacognitive Scaffolding]]
 
 > [!open-question] **What Are the Precise Neurological Bases of Metacognitive Knowledge?**
 >
@@ -784,7 +784,7 @@ Several genuinely open questions remain after comprehensive treatment of this to
 >
 > **What We Don't Know:** Whether the different types of metacognitive knowledge (declarative vs. conditional, person vs. strategy) are subserved by distinct neural substrates; whether individual differences in metacognitive knowledge are primarily architectural (structural brain differences) or experiential (accumulated through learning); and how the neural substrates of metacognitive knowledge interact with emotional regulation systems.
 >
-> **See also:** [[metacognitive-regulation]], [[cognitive-architecture]], [[executive-function]]
+> **See also:** [[metacognitive-regulation]], [[Cognitive Architecture]], [[executive-function]]
 
 ---
 
@@ -1101,7 +1101,7 @@ Several genuinely open questions remain after comprehensive treatment of this to
 > >
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[metacognitive-knowledge]], [[fluency-illusion]], [[calibration]]
+> > **Prerequisites:** [[metacognitive-knowledge]], [[Fluency Illusion]], [[calibration]]
 
 > > [!topic-idea] [[nelson-narens-model]]
 > > **Description:** A dedicated foundational report on the Nelson-Narens monitoring-control model, covering its theoretical architecture, its experimental operationalization (the JOL, FOK, and RJR paradigms), its computational formalizations, and its extensions into self-regulated learning theory. Would provide the level of technical precision that the present report's Phase III.3 treatment gestures toward but does not achieve.
@@ -1121,14 +1121,14 @@ Several genuinely open questions remain after comprehensive treatment of this to
 > > **Suggested Type:** Focused Analysis
 > > **Prerequisites:** [[metacognitive-knowledge]], [[metacognitive-monitoring]]
 
-> > [!topic-idea] [[metacognitive-scaffolding]]
+> > [!topic-idea] [[Metacognitive Scaffolding]]
 > > **Description:** A foundational report on metacognitive scaffolding — the pedagogical techniques and environmental designs that provide external support for metacognitive processes in developing learners, to be progressively faded as internal metacognitive capacity develops. Would cover the theoretical rationale, the empirical evidence base, specific scaffolding designs (think-aloud protocols, structured self-explanation prompts, comprehension monitoring checklists), and the conditions under which scaffolding supports versus undermines metacognitive development.
 > >
 > > **Connection to This Report:** The Knowledge-Activation Gap construct proposed in Phase IV.3 implies that metacognitive scaffolding must target not only knowledge transmission but the contextual indexing and proceduralization that enable knowledge activation in relevant regulatory contexts.
 > >
 > > **Priority:** High
 > > **Suggested Type:** Foundational Report
-> > **Prerequisites:** [[metacognitive-knowledge]], [[scaffolding]], [[self-regulated-learning]]
+> > **Prerequisites:** [[metacognitive-knowledge]], [[Scaffolded Fading]], [[self-regulated-learning]]
 
 > > [!topic-idea] [[metacognitive-accuracy]]
 > > **Description:** A systematic treatment of metacognitive accuracy as a trainable skill — the research evidence on whether and how metacognitive accuracy can be improved through deliberate training, the specific training protocols with strongest empirical support, the developmental trajectories of metacognitive accuracy improvement, and the domain-specificity of accuracy gains.
@@ -1137,7 +1137,7 @@ Several genuinely open questions remain after comprehensive treatment of this to
 > >
 > > **Priority:** Medium
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[metacognitive-knowledge]], [[calibration]], [[retrieval-practice]]
+> > **Prerequisites:** [[metacognitive-knowledge]], [[calibration]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > > [!topic-idea] [[monitoring-regulation-coupling]]
 > > **Description:** A focused analysis of the monitoring-regulation coupling construct — the functional relationship between metacognitive monitoring processes and regulatory responses, including the conditions under which coupling is tight versus decoupled, the developmental trajectory of coupling development, and the environmental and instructional factors that promote versus undermine effective coupling.
@@ -1159,13 +1159,13 @@ Several genuinely open questions remain after comprehensive treatment of this to
 >
 > - **[[metacognition]]** — The present report specializes the broad metacognition node by providing a taxonomically detailed account of the knowledge component; without the parent construct, the distinctions drawn here lack their theoretical context.
 >
-> - **[[schema-theory]]** — Metacognitive knowledge is organized in long-term memory as schematic knowledge structures; schema theory provides the memory architecture within which metacognitive knowledge must be understood to reside and be organized.
+> - **[[schema-theory-and-knowledge-organization]]** — Metacognitive knowledge is organized in long-term memory as schematic knowledge structures; schema theory provides the memory architecture within which metacognitive knowledge must be understood to reside and be organized.
 >
 > - **[[levels-of-processing-theory]]** — The depth-of-processing framework is relevant to understanding why passive review produces poor metacognitive calibration (shallow processing generates false fluency signals) and why retrieval-based strategies improve calibration (they require deep, elaborative processing that generates accurate effort and difficulty signals).
 >
 > - **[[memory-systems]]** — Metacognitive knowledge resides in declarative long-term memory; working memory provides the processing space within which metacognitive knowledge is retrieved and applied to ongoing task activity. The memory systems node provides the architectural grounding for understanding how metacognitive knowledge is stored and accessed.
 >
-> - **[[cognitive-load-theory]]** — CLT provides the resource constraint framework within which metacognitive knowledge about task demands and one's own capacity limitations must be understood to operate; person knowledge and task knowledge are particularly relevant to the forethought-phase load anticipation that CLT-based instruction targets.
+> - **[[Cognitive Load Theory (CLT)]]** — CLT provides the resource constraint framework within which metacognitive knowledge about task demands and one's own capacity limitations must be understood to operate; person knowledge and task knowledge are particularly relevant to the forethought-phase load anticipation that CLT-based instruction targets.
 >
 > **Downstream Applications (this report enables):**
 >
@@ -1173,7 +1173,7 @@ Several genuinely open questions remain after comprehensive treatment of this to
 >
 > - **[[metacognitive-regulation]]** — Metacognitive regulation is the operational use of metacognitive knowledge; the present report specifies the knowledge content that regulation draws upon, making the regulation node more interpretable.
 >
-> - **[[elaborative-interrogation]]** — Understanding elaborative interrogation's effectiveness requires understanding the metacognitive mechanism (why does generating explanatory answers improve conditional metacognitive knowledge more than reading?); the present report provides this mechanism.
+> - **[[Elaborative Interrogation]]** — Understanding elaborative interrogation's effectiveness requires understanding the metacognitive mechanism (why does generating explanatory answers improve conditional metacognitive knowledge more than reading?); the present report provides this mechanism.
 >
 > - **[[comprehension-monitoring]]** — Comprehension monitoring draws on metacognitive knowledge about what adequate comprehension looks like, what signals indicate comprehension failure, and what fix-up strategies are available; the present report provides the knowledge-level account of these monitoring standards.
 >
@@ -1191,7 +1191,7 @@ Several genuinely open questions remain after comprehensive treatment of this to
 >
 > - **[[metacognitive-monitoring]]** — The present report provides the knowledge-level specification of the content that monitoring draws upon, explaining why monitoring is accurate or inaccurate in terms of the richness and accuracy of underlying metacognitive knowledge.
 >
-> - **[[fluency-illusion]]** — The present report situates the fluency illusion within the metacognitive knowledge framework: it is a failure of metacognitive knowledge (insufficient conditional knowledge that fluency is a poor proxy for comprehension) combined with a miscalibrated monitoring signal.
+> - **[[Fluency Illusion]]** — The present report situates the fluency illusion within the metacognitive knowledge framework: it is a failure of metacognitive knowledge (insufficient conditional knowledge that fluency is a poor proxy for comprehension) combined with a miscalibrated monitoring signal.
 >
 > **Key Insight:** Metacognitive knowledge functions as a conceptual intermediate in the PKB's learning science architecture — downstream from the fundamental cognitive architecture nodes (memory systems, cognitive load, schema theory) and upstream from the applied intervention and regulation nodes (SRL, comprehension monitoring, elaborative interrogation). Understanding it deeply connects these layers of the knowledge graph rather than merely adding a parallel topic.
 

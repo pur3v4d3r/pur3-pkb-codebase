@@ -122,7 +122,7 @@ This is perhaps the most influential framework in modern cognitive science for u
 **Key Conceptual Anchors** (Potential Wiki-Links):
 - [[System 1 Thinking]]
 - [[System-2-Thinking]]
-- [[heuristics-and-biases-program]]
+- [[heuristics-and-biases]]
 - [[Cognitive Ease]]
 - [[Cognitive Reflection]]
 - [[working-memory-capacity]]
@@ -214,17 +214,17 @@ Metacognition—"thinking about thinking"—represents the highest-order cogniti
 - [[reflective-practice]]
 - [[Cognitive Strategy Instruction]]
 - [[zone-of-proximal-development]]
-- [[desirable-difficulties]]
-- [[retrieval-practice]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[Interleaved Practice]]
-- [[elaborative-interrogation]]
+- [[Elaborative Interrogation]]
 - [[self-explanation-effect]]
 - [[dunning-kruger-effect]] (metacognitive failure)
 - [[Expert-Novice Differences]]
 **Analogical Potential**:
 Metacognition as a "mental control tower"—air traffic controllers don't fly planes, but they monitor all flights, detect problems, coordinate resources, and make strategic decisions about traffic flow; similarly, metacognition doesn't perform cognitive tasks but monitors and regulates all thinking processes.
 **Prerequisite Knowledge**:
-[[Working Memory Model]], [[schema-theory]], [[information-processing-theory]]
+[[Working Memory Model]], [[schema-theory-and-knowledge-organization]], [[information-processing-theory]]
 **Research Starting Points**:
 - Key texts: Flavell "Metacognition and Cognitive Monitoring" (1979), Dunlosky & Metcalfe "Metacognition" (2009)
 - Search: "metacognitive strategies effectiveness" + "self-regulated learning interventions"

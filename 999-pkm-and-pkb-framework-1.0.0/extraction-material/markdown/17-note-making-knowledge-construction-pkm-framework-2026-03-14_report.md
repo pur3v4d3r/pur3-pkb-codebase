@@ -311,7 +311,7 @@ extraction_summary:
 #### 28. [TENSION-IDENTIFIED] Atomicity vs. Construction Depth: A PKM Design Tension *(Line 417)*
 
 > [!tension-identified] Atomicity vs. Construction Depth: A PKM Design Tension
-> The [[atomic-notes|Atomic Notes]] principle optimizes for organizational clarity and retrieval efficiency: a well-bounded note with one idea is easier to link, tag, and resurface than a sprawling multi-idea note. The cognitive science of generative processing optimizes for construction quality: a note that records the full process of schema reorganization — including what changed, why, and how it connects to existing understanding — produces substantially greater learning value but is necessarily multi-element and relational. The tension is real and has no perfect resolution. A practical heuristic: separate the construction event (the generative note-making moment, which should be as expansive as the cognitive event demands) from the archiving event (the subsequent processing into atomic notes for the knowledge graph). Do not let the organizational requirement of atomicity constrain the constructive requirement of elaboration at the moment of initial engagement. Make the rich construction note first; extract and link the atomic components afterward.
+> The [[atomic-note|Atomic Notes]] principle optimizes for organizational clarity and retrieval efficiency: a well-bounded note with one idea is easier to link, tag, and resurface than a sprawling multi-idea note. The cognitive science of generative processing optimizes for construction quality: a note that records the full process of schema reorganization — including what changed, why, and how it connects to existing understanding — produces substantially greater learning value but is necessarily multi-element and relational. The tension is real and has no perfect resolution. A practical heuristic: separate the construction event (the generative note-making moment, which should be as expansive as the cognitive event demands) from the archiving event (the subsequent processing into atomic notes for the knowledge graph). Do not let the organizational requirement of atomicity constrain the constructive requirement of elaboration at the moment of initial engagement. Make the rich construction note first; extract and link the atomic components afterward.
 
 #### 29. [REFLECTION] Knowledge State — After *(Line 425)*
 
@@ -343,13 +343,13 @@ extraction_summary:
 > [!connections-and-links] Internal PKB Connections
 > This report on note-making as knowledge construction connects to your knowledge base in the following key ways:
 > 
-> - **[[schema-theory|Schema Theory]]** — The Articulatory Construction Cycle and the Accommodation vs. Assimilation Note distinction both operate through the assimilation/accommodation mechanism of schema theory. Making this link explicit in your PKB enriches both nodes: schema theory gains a procedural specification (what to do to drive accommodation), and the note-making framework gains a theoretical grounding (why the accommodation note type is cognitively distinct from the assimilation note type).
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — The Articulatory Construction Cycle and the Accommodation vs. Assimilation Note distinction both operate through the assimilation/accommodation mechanism of schema theory. Making this link explicit in your PKB enriches both nodes: schema theory gains a procedural specification (what to do to drive accommodation), and the note-making framework gains a theoretical grounding (why the accommodation note type is cognitively distinct from the assimilation note type).
 > 
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** and **[[germane-load|Germane Load]]** — The claim that generative note-making is valuable because it is more effortful is complicated by cognitive load theory's distinction between germane and extraneous load. Generative note-making increases germane load (schema-construction-relevant processing) not extraneous load. Understanding this distinction enables PKB practitioners to make informed decisions about when to increase effort (activating germane load through generative processing) and when to reduce it (removing extraneous friction that consumes working memory without building schemas). Connects to [[Report 02: The Architecture of Learning]].
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** and **[[Cognitive Load Theory (CLT)|Germane Load]]** — The claim that generative note-making is valuable because it is more effortful is complicated by cognitive load theory's distinction between germane and extraneous load. Generative note-making increases germane load (schema-construction-relevant processing) not extraneous load. Understanding this distinction enables PKB practitioners to make informed decisions about when to increase effort (activating germane load through generative processing) and when to reduce it (removing extraneous friction that consumes working memory without building schemas). Connects to [[Report 02: The Architecture of Learning]].
 > 
 > - **[[constructivism]]** — This report operationalizes constructivism at the level of the individual note-making act. Where constructivism as a philosophy asserts that knowledge must be constructed rather than received, this report specifies the exact cognitive operations through which construction occurs during note-making. The link between this report and your constructivism notes enriches both: constructivism gains operational specificity, and the note-making framework gains philosophical depth.
 > 
-> - **[[desirable-difficulties|Desirable Difficulties]]** and **[[generation-effect|Generation Effect]]** — Report 16 established the generation effect as a key desirable difficulty for PKB design. This report localizes the generation effect specifically to the initial note-making moment, establishing it as the first and most leveraged intervention point. The connection reveals a temporal structure: desirable difficulties operate at multiple timepoints in the PKB lifecycle, with generative note-making being the first.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]** and **[[generation-effect|Generation Effect]]** — Report 16 established the generation effect as a key desirable difficulty for PKB design. This report localizes the generation effect specifically to the initial note-making moment, establishing it as the first and most leveraged intervention point. The connection reveals a temporal structure: desirable difficulties operate at multiple timepoints in the PKB lifecycle, with generative note-making being the first.
 > 
 > - **[[metacognition]]** and **[[comprehension-monitoring|Comprehension Monitoring]]** — The Articulatory Construction Cycle is fundamentally a metacognitive process: the learner must monitor their own understanding, detect gaps, and generate repairs. Connecting this report to your metacognition notes reveals that good note-making is inherently metacognitive — it is simultaneously a learning act and a self-assessment act. Connects to [[Report 04: Metacognitive Self-Regulation]].
 > 
@@ -525,22 +525,22 @@ extraction_summary:
 ### Unique Targets
 
 - [[articulatory-construction-principle|Articulatory Construction Principle]]
-- [[atomic-notes|Atomic Notes]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[atomic-note|Atomic Notes]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]
 - [[comprehension-monitoring|Comprehension Monitoring]]
 - [[constructivism]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[dual-coding-theory|Dual Coding Theory]]
 - [[educational-psychology|Educational Psychology]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[fluency]]
 - [[generation-effect|Generation Effect]]
 - [[generative-learning-theory|Generative Learning Theory]]
-- [[germane-load|Germane Load]]
+- [[Cognitive Load Theory (CLT)|Germane Load]]
 - [[icap-framework|ICAP Framework]]
 - [[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]]
 - [[knowledge-management|Knowledge Management]]
@@ -565,10 +565,10 @@ extraction_summary:
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
 - [[Report 25: The Integration Problem]]
 - [[SECI-Model|SECI Model]]
-- [[schema-construction|Schema Construction]]
-- [[schema-theory|Schema Theory]]
+- [[Schema Construction|Schema Construction]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[schemas]]
-- [[self-explanation]]
+- [[self-explanation-effect]]
 - [[self-explanation-effect|Self-Explanation Effect]]
 - [[social-constructivism|Social Constructivism]]
 - [[tacit-knowledge|Tacit Knowledge]]
@@ -588,12 +588,12 @@ extraction_summary:
 | 5 | [[writing-to-learn|Writing to Learn]] | — | — | The Filing Cabinet Fallacy | 133 |
 | 6 | [[generative-learning-theory|Generative Learning Theory]] | — | — | The Filing Cabinet Fallacy | 133 |
 | 7 | [[self-explanation-effect|Self-Explanation Effect]] | — | — | The Filing Cabinet Fallacy | 133 |
-| 8 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | The Filing Cabinet Fallacy | 133 |
+| 8 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | The Filing Cabinet Fallacy | 133 |
 | 9 | [[constructivism]] | — | — | The Filing Cabinet Fallacy | 133 |
 | 10 | [[obsidian]] | — | — | The Filing Cabinet Fallacy | 133 |
 | 11 | [[articulatory-construction-principle|Articulatory Construction Principle]] | — | — | The Synthesis Question and Its Discip... | 145 |
 | 12 | [[Report 03: Constructing Understanding]] | — | — | The Synthesis Question and Its Discip... | 147 |
-| 13 | [[schema-theory|Schema Theory]] | — | — | The Synthesis Question and Its Discip... | 147 |
+| 13 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | The Synthesis Question and Its Discip... | 147 |
 | 14 | [[constructivism]] | — | — | The Synthesis Question and Its Discip... | 147 |
 | 15 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Synthesis Question and Its Discip... | 147 |
 | 16 | [[Report 06: The Science of Remembering]] | — | — | Scope and Roadmap | 151 |
@@ -607,44 +607,44 @@ extraction_summary:
 | 24 | [[pragmatism]] | — | — | The Disciplinary Lens Array | 182 |
 | 25 | [[writing-to-learn|Writing to Learn]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 26 | [[generative-learning-theory|Generative Learning Theory]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
-| 27 | [[self-explanation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
-| 28 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
+| 27 | [[self-explanation-effect]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
+| 28 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 29 | [[icap-framework|ICAP Framework]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
-| 30 | [[schema-construction|Schema Construction]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
+| 30 | [[Schema Construction|Schema Construction]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 31 | [[constructivism]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 32 | [[generative-learning-theory|Generative Learning Theory]] | — | — | Initial Synthesis: The Disciplinary C... | 190 |
 | 33 | [[social-constructivism|Social Constructivism]] | — | — | Initial Synthesis: The Disciplinary C... | 190 |
 | 34 | [[generative-learning-theory|Generative Learning Theory]] | — | — | Cluster 1: The Mueller and Oppenheime... | 223 |
-| 35 | [[self-explanation]] | — | — | Cluster 2: The Self-Explanation Resea... | 227 |
-| 36 | [[schema-construction|Schema Construction]] | — | — | Cluster 2: The Self-Explanation Resea... | 229 |
-| 37 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Cluster 3: Elaborative Interrogation | 239 |
+| 35 | [[self-explanation-effect]] | — | — | Cluster 2: The Self-Explanation Resea... | 227 |
+| 36 | [[Schema Construction|Schema Construction]] | — | — | Cluster 2: The Self-Explanation Resea... | 229 |
+| 37 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | Cluster 3: Elaborative Interrogation | 239 |
 | 38 | [[generation-effect|Generation Effect]] | — | — | Cluster 4: The Generation Effect | 247 |
 | 39 | [[Report 16: Desirable Difficulties by Design]] | — | — | Cluster 4: The Generation Effect | 249 |
 | 40 | [[generation-effect|Generation Effect]] | — | — | Cluster 4: The Generation Effect | 253 |
 | 41 | [[constructivism]] | — | — | Cluster 4: The Generation Effect | 253 |
 | 42 | [[fluency]] | — | — | Mechanism 1: The Articulatory Constru... | 297 |
 | 43 | [[Report 08: Reflective Practice]] | — | — | Mechanism 1: The Articulatory Constru... | 299 |
-| 44 | [[schema-construction|Schema Construction]] | — | — | Mechanism 1: The Articulatory Constru... | 303 |
+| 44 | [[Schema Construction|Schema Construction]] | — | — | Mechanism 1: The Articulatory Constru... | 303 |
 | 45 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Mechanism 1: The Articulatory Constru... | 307 |
 | 46 | [[Report 10: Scaffolding and Fading]] | — | — | Mechanism 1: The Articulatory Constru... | 307 |
-| 47 | [[self-explanation]] | — | — | Mechanism 2: The Self-Explanation as ... | 311 |
-| 48 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 319 |
+| 47 | [[self-explanation-effect]] | — | — | Mechanism 2: The Self-Explanation as ... | 311 |
+| 48 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 319 |
 | 49 | [[SECI-Model|SECI Model]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
 | 50 | [[knowledge-management|Knowledge Management]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
 | 51 | [[Report 03: Constructing Understanding]] | — | — | Mechanism 4: Return and Deepen — Sche... | 329 |
-| 52 | [[schema-theory|Schema Theory]] | — | — | Mechanism 4: Return and Deepen — Sche... | 329 |
+| 52 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Mechanism 4: Return and Deepen — Sche... | 329 |
 | 53 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Design Principle 4: Progressive Summa... | 405 |
-| 54 | [[atomic-notes|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 413 |
-| 55 | [[atomic-notes|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 419 |
+| 54 | [[atomic-note|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 413 |
+| 55 | [[atomic-note|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 419 |
 | 56 | [[Report 05: Motivation Architecture]] | — | — | Limitations | 423 |
 | 57 | [[Report 03: Constructing Understanding]] | — | — | Return-and-Deepen: Schema Constructio... | 467 |
-| 58 | [[schema-construction|Schema Construction]] | — | — | Return-and-Deepen: Schema Constructio... | 467 |
-| 59 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 481 |
-| 60 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
-| 61 | [[germane-load|Germane Load]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
+| 58 | [[Schema Construction|Schema Construction]] | — | — | Return-and-Deepen: Schema Constructio... | 467 |
+| 59 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 481 |
+| 60 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
+| 61 | [[Cognitive Load Theory (CLT)|Germane Load]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
 | 62 | [[Report 02: The Architecture of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
 | 63 | [[constructivism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 485 |
-| 64 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 487 |
+| 64 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 487 |
 | 65 | [[generation-effect|Generation Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 487 |
 | 66 | [[metacognition]] | — | — | Phase VII: PKB Connections & Cross-Re... | 489 |
 | 67 | [[comprehension-monitoring|Comprehension Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 489 |
@@ -674,22 +674,22 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[articulatory-construction-principle|Articulatory Construction Principle]]
-- [[atomic-notes|Atomic Notes]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[atomic-note|Atomic Notes]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]
 - [[comprehension-monitoring|Comprehension Monitoring]]
 - [[constructivism]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[dual-coding-theory|Dual Coding Theory]]
 - [[educational-psychology|Educational Psychology]]
 - [[Elaboration-Theory|Elaboration Theory]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[fluency]]
 - [[generation-effect|Generation Effect]]
 - [[generative-learning-theory|Generative Learning Theory]]
-- [[germane-load|Germane Load]]
+- [[Cognitive Load Theory (CLT)|Germane Load]]
 - [[icap-framework|ICAP Framework]]
 - [[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]]
 - [[knowledge-management|Knowledge Management]]
@@ -714,10 +714,10 @@ extraction_summary:
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
 - [[Report 25: The Integration Problem]]
 - [[SECI-Model|SECI Model]]
-- [[schema-construction|Schema Construction]]
-- [[schema-theory|Schema Theory]]
+- [[Schema Construction|Schema Construction]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[schemas]]
-- [[self-explanation]]
+- [[self-explanation-effect]]
 - [[self-explanation-effect|Self-Explanation Effect]]
 - [[social-constructivism|Social Constructivism]]
 - [[tacit-knowledge|Tacit Knowledge]]
@@ -740,18 +740,18 @@ extraction_summary:
 - [[writing-to-learn|Writing to Learn]]
 - [[generative-learning-theory|Generative Learning Theory]]
 - [[self-explanation-effect|Self-Explanation Effect]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
-- [[schema-construction|Schema Construction]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
+- [[Schema Construction|Schema Construction]]
 - [[icap-framework|ICAP Framework]]
 - [[Wittrock]]
 - [[Chi]]
 - [[Mueller and Oppenheimer]]
 - [[Pressley]]
 - [[constructivism]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[generation-effect|Generation Effect]]
 - [[Progressive-Summarization|Progressive Summarization]]
-- [[atomic-notes|Atomic Notes]]
+- [[atomic-note|Atomic Notes]]
 - [[Elaboration Prompts]]
 - [[note-making-vs-note-taking]]
 - [[articulatory-construction-principle|Articulatory Construction Principle]]

@@ -25,7 +25,7 @@ aliases:
 # 🃏 SRL Quick Reference Cards
 
 > [!abstract] Purpose
-> Rapid-access reference cards for use during [[forethought-phase|Forethought]] and [[self-reflection-phase|Self-Reflection]] sessions. These cards operationalize the language design principles from [[achievement-goal-theory]], [[self-determination-theory]], [[attribution-theory]], and [[formative-assessment]] research. **Bookmark this note for quick access during sessions.**
+> Rapid-access reference cards for use during [[forethought-phase|Forethought]] and [[self-reflection-phase|Self-Reflection]] sessions. These cards operationalize the language design principles from [[achievement-goal-theory]], [[self-determination-theory]], [[Attribution (Heider, 1958)]], and [[formative-assessment]] research. **Bookmark this note for quick access during sessions.**
 
 ---
 
@@ -70,7 +70,7 @@ aliases:
 ## Card 2: 🔬 Attribution Retraining Protocol
 
 > [!warning] Use this card whenever you notice a global attribution during Self-Reflection.
-> Global attributions ("I'm not good at this," "this material is too hard") are the most consequential failure mode in the SRL cycle. They route to [[defensive-inference|defensive inferences]] that degrade the next [[forethought-phase]]. See [[attribution-theory]], [[bernard-weiner]], and [[attribution-retraining]].
+> Global attributions ("I'm not good at this," "this material is too hard") are the most consequential failure mode in the SRL cycle. They route to [[defensive-inference|defensive inferences]] that degrade the next [[forethought-phase]]. See [[Attribution (Heider, 1958)]], [[bernard-weiner]], and [[attribution-retraining]].
 
 ### The Five Controllable-Attribution Candidates
 
@@ -90,7 +90,7 @@ When you notice a global attribution, **STOP** and systematically run through th
 > "Did I use the most effective reading strategy for this text type and my schema level?"
 > - **If no:** Which would have been better?
 >   - [[advance-organizers|Advance organizer activation]]
->   - [[elaborative-interrogation|Elaborative interrogation]]
+>   - [[Elaborative Interrogation|Elaborative interrogation]]
 >   - Self-explanation at section breaks
 >   - Structural reading before detail
 > - **Action:** Select and implement alternative strategy
@@ -136,7 +136,7 @@ Make a note to return to this text after completing a lighter introduction to th
 
 ### Autonomy-Supportive vs. Controlling Self-Talk
 
-> [!warning] Even self-directed controlling language undermines [[intrinsic-motivation]]. See [[self-determination-theory]] and [[autonomy-support]].
+> [!warning] Even self-directed controlling language undermines [[Intrinsic Motivation]]. See [[self-determination-theory]] and [[autonomy-support]].
 
 | ❌ Controlling Language | ✅ Autonomy-Supportive Language |
 |---|---|
@@ -173,8 +173,8 @@ A high-quality adaptive inference is:
 
 | ❌ Poor (vague, unactionable) | ✅ Good (specific, testable) |
 |---|---|
-| "Be more focused" | "Set a 25-minute timer and do a [[self-explanation]] at each section break" |
-| "Read more carefully" | "Use [[elaborative-interrogation]] on mechanism sections by asking 'why does this work?'" |
+| "Be more focused" | "Set a 25-minute timer and do a [[self-explanation-effect]] at each section break" |
+| "Read more carefully" | "Use [[Elaborative Interrogation]] on mechanism sections by asking 'why does this work?'" |
 | "Prepare better" | "Review [[specific-PKB-note]] before the session to activate relevant schema" |
 | "Take more time" | "Reduce scope to sections 1-3 only, saving sections 4-5 for a separate session" |
 | "Try harder" | "Add process goal: write one connection to existing PKB knowledge per section" |
@@ -184,7 +184,7 @@ A high-quality adaptive inference is:
 ## Card 5: ⚡ Early Implementation Survival Guide
 
 > [!warning] The Early Implementation Dip Is Normal
-> Research on [[deliberate-practice]] and metacognitive training consistently shows an initial performance dip when implementing explicit self-regulatory strategies. This is expected and temporary — the cognitive overhead of the new protocols competes with resources available for content processing. See [[cognitive-load-theory]].
+> Research on [[deliberate-practice]] and metacognitive training consistently shows an initial performance dip when implementing explicit self-regulatory strategies. This is expected and temporary — the cognitive overhead of the new protocols competes with resources available for content processing. See [[Cognitive Load Theory (CLT)]].
 
 ### What to Expect in the First 5-10 Sessions
 
@@ -216,12 +216,12 @@ A high-quality adaptive inference is:
 > **PKB Connections:**
 > - [[achievement-goal-theory]] — Grounds the mastery/performance language distinction
 > - [[self-determination-theory]] — Grounds the autonomy-supportive language design
-> - [[attribution-theory]] — Grounds the attribution retraining protocol
+> - [[Attribution (Heider, 1958)]] — Grounds the attribution retraining protocol
 > - [[bernard-weiner]] — The locus-stability-controllability framework
 > - [[formative-assessment]] — Descriptive vs. evaluative feedback principles
 > - [[the-fluency-illusion]] — Why comprehension criteria must require production
 > - [[mastery-oriented-response-pattern]] — The target response pattern for difficulty
 > - [[growth-mindset]] — Incremental theory supporting adaptive attributions
 > - [[deliberate-practice]] — The early implementation dip is a deliberate practice phenomenon
-> - [[intrinsic-motivation]] — Language design protects autonomous motivation
+> - [[Intrinsic Motivation]] — Language design protects autonomous motivation
 > - [[adaptive-inference]] — The quality checklist validates inference quality

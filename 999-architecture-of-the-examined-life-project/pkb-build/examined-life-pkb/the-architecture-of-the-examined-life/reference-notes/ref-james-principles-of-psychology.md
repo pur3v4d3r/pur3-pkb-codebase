@@ -47,7 +47,7 @@ The report also draws on James's famous definition: **"The art of being wise is 
 
 ### In Report 03: The Motivated Mind
 
-[[report-03-the-motivated-mind|Report 03]] extensively uses James's chapter on habit to explain how [[intrinsic-motivation]] becomes sustainable through habit formation. James's insight that **"habit is the enormous flywheel of society"** shows why motivation systems work: initial effortful practice gradually becomes automatic enjoyment.
+[[report-03-the-motivated-mind|Report 03]] extensively uses James's chapter on habit to explain how [[Intrinsic Motivation]] becomes sustainable through habit formation. James's insight that **"habit is the enormous flywheel of society"** shows why motivation systems work: initial effortful practice gradually becomes automatic enjoyment.
 
 The report integrates James's observation that habits operate below conscious awareness once established, explaining how skilled activities can become intrinsically rewarding—the effortfulness disappears and only the positive experience remains.
 

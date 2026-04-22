@@ -332,11 +332,11 @@ extraction_summary:
 > [!connections-and-links] PKB Connections for Report 21: Dialectical Knowledge Building
 > **Internal PKB Connections:**
 > 
-> - **[[schema-theory|Schema Theory]]** — The DNT architecture is, at its deepest level, a formalized mechanism for schema reorganization. Every dialectical encounter that produces genuine synthesis is a case of accommodation — the creation of a more adequate schema from the wreckage of an inadequate one. Understanding schema theory's account of how schemas develop, combine, and reorganize (Report 01) is prerequisite to understanding why the DNT architecture works cognitively.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — The DNT architecture is, at its deepest level, a formalized mechanism for schema reorganization. Every dialectical encounter that produces genuine synthesis is a case of accommodation — the creation of a more adequate schema from the wreckage of an inadequate one. Understanding schema theory's account of how schemas develop, combine, and reorganize (Report 01) is prerequisite to understanding why the DNT architecture works cognitively.
 > 
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — The dialectical practice requires significant working memory investment: holding the thesis, the antithesis, and the emerging synthesis simultaneously while tracking their logical relationships. CLT's research on working memory constraints (Report 02) implies that the synthesis stage is where cognitive load peaks and where external scaffolding (the explicit note structure) is most valuable — the DNT architecture is, among other things, a cognitive load management strategy for complex belief revision work.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — The dialectical practice requires significant working memory investment: holding the thesis, the antithesis, and the emerging synthesis simultaneously while tracking their logical relationships. CLT's research on working memory constraints (Report 02) implies that the synthesis stage is where cognitive load peaks and where external scaffolding (the explicit note structure) is most valuable — the DNT architecture is, among other things, a cognitive load management strategy for complex belief revision work.
 > 
-> - **[[desirable-difficulties|Desirable Difficulties]]** — The DNT's antithesis stage is a deliberately designed desirable difficulty. The steel-manned counter-argument creates exactly the kind of productive cognitive challenge that Report 16's analysis of desirable difficulties identifies as a driver of deeper encoding and more durable retention. The mechanism is the same: effort is required for resolution, and that effort drives deeper processing.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]** — The DNT's antithesis stage is a deliberately designed desirable difficulty. The steel-manned counter-argument creates exactly the kind of productive cognitive challenge that Report 16's analysis of desirable difficulties identifies as a driver of deeper encoding and more durable retention. The mechanism is the same: effort is required for resolution, and that effort drives deeper processing.
 > 
 > - **[[Calibration-and-Epistemic-Humility|Calibration and Epistemic Humility]]** — Report 18's architecture for tracking epistemic confidence is the natural companion to the DNT's dialectical confidence tracking (Principle 6). Together they constitute a complete system: the calibration protocols of Report 18 identify *where* confidence is miscalibrated; the DNT architecture provides the mechanism for *doing something about it* — using miscalibration as a trigger for dialectical examination.
 > 
@@ -397,7 +397,7 @@ extraction_summary:
 #### 42. [DEFINITION] Productive Failure (Educational Psychology, Manu Kapur) *(Line 496)*
 
 > [!definition] Productive Failure (Educational Psychology, Manu Kapur)
-> [[productive-failure|Productive Failure]] is Kapur's finding that students who are asked to generate solutions to novel problems *before* receiving instruction on the relevant methods outperform (on transfer and deep understanding) students who receive instruction first. The mechanism is analogous to cognitive conflict: pre-instruction problem-solving generates cognitive structures (even incorrect ones) that create the necessary schema disequilibrium to make subsequent instruction genuinely transformative rather than merely additive. In dialectical PKB practice, the construction of the thesis note before the antithesis note serves a similar function: it commits the cognitive system to a position that can then be genuinely challenged.
+> [[Productive Failure|Productive Failure]] is Kapur's finding that students who are asked to generate solutions to novel problems *before* receiving instruction on the relevant methods outperform (on transfer and deep understanding) students who receive instruction first. The mechanism is analogous to cognitive conflict: pre-instruction problem-solving generates cognitive structures (even incorrect ones) that create the necessary schema disequilibrium to make subsequent instruction genuinely transformative rather than merely additive. In dialectical PKB practice, the construction of the thesis note before the antithesis note serves a similar function: it commits the cognitive system to a position that can then be genuinely challenged.
 
 #### 43. [DEFINITION] Pragma-Dialectics (Argumentation Theory, Frans van Eemeren & Rob Grootendorst) *(Line 499)*
 
@@ -528,10 +528,10 @@ extraction_summary:
 - [[Chinn-and-Brewer's-Model|Chinn and Brewer's Model]]
 - [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re|Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]
 - [[Critical Thinking as PKM Practice]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dialectic]]
 - [[Dialectical Note Triad]]
 - [[Dialectical-Thinking|Dialectical Thinking]]
@@ -543,13 +543,13 @@ extraction_summary:
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]
 - [[Piagetian Disequilibrium]]
 - [[Pragma-Dialectics]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store]]
 - [[Report 25: The Integration Problem]]
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Socio-Cognitive-Conflict|Socio-Cognitive Conflict]]
 - [[Socratic-Dialectic|Socratic Dialectic]]
 - [[Steel-Manning]]
@@ -614,9 +614,9 @@ extraction_summary:
 | 42 | [[Topic — Antithesis]] | — | — | Practical Implementation in Obsidian | 388 |
 | 43 | [[Topic — Thesis]] | — | — | Practical Implementation in Obsidian | 388 |
 | 44 | [[Topic — Antithesis]] | — | — | Practical Implementation in Obsidian | 388 |
-| 45 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 444 |
-| 46 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
-| 47 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
+| 45 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 444 |
+| 46 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
+| 47 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
 | 48 | [[Calibration-and-Epistemic-Humility|Calibration and Epistemic Humility]] | — | — | Phase VII: PKB Connections & Cross-Re... | 450 |
 | 49 | [[Inquiry-Based Knowledge Building]] | — | — | Phase VII: PKB Connections & Cross-Re... | 452 |
 | 50 | [[transfer-of-learning|Transfer of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 454 |
@@ -631,7 +631,7 @@ extraction_summary:
 | 59 | [[Socio-Cognitive-Conflict|Socio-Cognitive Conflict]] | — | — | A. Lexicon of Key Terms | 488 |
 | 60 | [[Anomalous-Data|Anomalous Data]] | — | — | A. Lexicon of Key Terms | 491 |
 | 61 | [[Dialectical-Thinking|Dialectical Thinking]] | — | — | A. Lexicon of Key Terms | 494 |
-| 62 | [[productive-failure|Productive Failure]] | — | — | A. Lexicon of Key Terms | 497 |
+| 62 | [[Productive Failure|Productive Failure]] | — | — | A. Lexicon of Key Terms | 497 |
 | 63 | [[Pragma-Dialectics]] | — | — | A. Lexicon of Key Terms | 500 |
 | 64 | [[Aufhebung-in-PKB]] | — | — | A. Lexicon of Key Terms | 503 |
 | 65 | [[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]] | — | — | D. Expansion Topics | 551 |
@@ -666,10 +666,10 @@ extraction_summary:
 - [[Chinn-and-Brewer's-Model|Chinn and Brewer's Model]]
 - [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re|Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]
 - [[Critical Thinking as PKM Practice]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Dialectic]]
 - [[Dialectical Note Triad]]
 - [[Dialectical-Thinking|Dialectical Thinking]]
@@ -681,13 +681,13 @@ extraction_summary:
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]
 - [[Piagetian Disequilibrium]]
 - [[Pragma-Dialectics]]
-- [[productive-failure|Productive Failure]]
+- [[Productive Failure|Productive Failure]]
 - [[Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store]]
 - [[Report 25: The Integration Problem]]
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Socio-Cognitive-Conflict|Socio-Cognitive Conflict]]
 - [[Socratic-Dialectic|Socratic Dialectic]]
 - [[Steel-Manning]]

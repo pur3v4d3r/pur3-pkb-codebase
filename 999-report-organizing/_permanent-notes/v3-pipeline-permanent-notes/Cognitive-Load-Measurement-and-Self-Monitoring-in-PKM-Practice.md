@@ -45,7 +45,7 @@ see-also:
   - "[[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]"
   - "[[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]"
   - "[[Central-claim-of-this-level|Central claim of this level]]"
-  - "[[Chunk]]"
+  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
   - "[[Claude's-perspective-on-the-dynamics|Claude's perspective on the dynamics]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -73,7 +73,7 @@ importance: high
 - [[Calibration-as-a-Trainable-Skill|Calibration as a Trainable Skill]]
 - [[Calibration-Adaptation-Engine-Original-to-This-Report|Calibration-Adaptation Engine (Original to This Report)]]
 - [[Central-claim-of-this-level|Central claim of this level]]
-- [[Chunk]]
+- [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 - [[Claude's-perspective-on-the-dynamics|Claude's perspective on the dynamics]]
 - [[Claude's-perspective-on-the-edge-cases|Claude's perspective on the edge cases]]
 - [[Claude's-perspective-on-the-frontier|Claude's perspective on the frontier]]

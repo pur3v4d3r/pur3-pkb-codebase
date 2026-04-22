@@ -18,7 +18,7 @@ link-up:
 link-related:
   - "[[extraneous-load]]"
   - "[[Intrinsic-Load]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
 maturity: seedling
 confidence: speculative
 
@@ -32,7 +32,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[germane-load]]
+> - **Key-Term**:[[Cognitive Load Theory (CLT)]]
 > - [**Definition**:Productive effort devoted to [[schemas]] construction, Maximize through [[deliberate-practice]], elaboration, and connection-making.]
 
 

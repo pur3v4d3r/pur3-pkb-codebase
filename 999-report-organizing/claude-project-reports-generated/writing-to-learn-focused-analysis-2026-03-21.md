@@ -21,11 +21,11 @@ related_concepts:
   - "[[writing-to-learn]]"
   - "[[generative-learning-theory]]"
   - "[[generation-effect]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[the-articulatory-construction-principle]]"
   - "[[Testing-Effect]]"
-  - "[[desirable-difficulties]]"
-  - "[[elaborative-interrogation]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
+  - "[[Elaborative Interrogation]]"
   - "[[active-note-making]]"
   - "[[transfer-of-learning]]"
 knowledge_level: advanced
@@ -118,7 +118,7 @@ document-features:
 
 Here is a finding that should unsettle any serious learner: students who write careful summaries of a text they have just read often learn *less* from the material than students who simply attempt to recall what they read, without writing anything at all. The summaries exist. They are legible, sometimes elegant. The students feel they have processed the material seriously. And yet the knowledge does not hold.
 
-This is not a marginal research finding. It sits at the intersection of three of the most replicated research programs in the learning sciences — the [[testing-effect-retrieval-practice-effect|testing effect]], [[desirable-difficulties|desirable difficulties]], and the [[generative-learning-theory|generative learning]] tradition — and it forces a question that the popular conception of "writing to learn" has not adequately reckoned with: **What kind of writing produces learning, and why?**
+This is not a marginal research finding. It sits at the intersection of three of the most replicated research programs in the learning sciences — the [[testing-effect-retrieval-practice-effect|testing effect]], [[Desirable Difficulties (Robert Bjork, 1994)|desirable difficulties]], and the [[generative-learning-theory|generative learning]] tradition — and it forces a question that the popular conception of "writing to learn" has not adequately reckoned with: **What kind of writing produces learning, and why?**
 
 [[writing-to-learn]] is an established pedagogical concept with considerable theoretical and empirical support. For a foundational treatment of the concept — its origins in the Writing Across the Curriculum movement, its major proponents (Fulwiler, Emig, Elbow), and its evidence base — see the existing [[writing-to-learn]] note in this PKB. This analysis takes the concept as its starting point and asks a sharper question: **the knowledge transformation problem**.
 
@@ -213,7 +213,7 @@ The research on writing-to-learn is large, diverse, and more complicated than it
 
 The most robust evidence for writing-to-learn involves **writing activities that demand genuine reconstruction** — particularly self-explanation and writing from memory.
 
-[[elaborative-interrogation]] research (Woloshyn et al., 1990s) consistently finds that writing elaborate explanations of *why* facts are true — not just what they are — produces substantially better learning outcomes than re-reading or summarisation. The effect size is not trivial: studies by Dunlosky et al. (2013) in their influential synthesis rate elaborative interrogation as having "moderate" utility, one of only two strategies (along with practice testing) to receive this rating out of ten studied.
+[[Elaborative Interrogation]] research (Woloshyn et al., 1990s) consistently finds that writing elaborate explanations of *why* facts are true — not just what they are — produces substantially better learning outcomes than re-reading or summarisation. The effect size is not trivial: studies by Dunlosky et al. (2013) in their influential synthesis rate elaborative interrogation as having "moderate" utility, one of only two strategies (along with practice testing) to receive this rating out of ten studied.
 
 > [!evidence] **Self-Explanation Research (Chi et al., 1989, 1994)**
 > In perhaps the most carefully designed writing-to-learn studies, students who were prompted to self-explain as they studied a physics text — essentially writing explanatory prose connecting each new statement to prior knowledge and identifying gaps — learned dramatically more than students who re-read the same material. Crucially, the high-learning students generated more inferences and more connections to prior knowledge. They were, in Bereiter-Scardamalia terms, knowledge transforming rather than knowledge telling. The students who learned least were those who generated the most *coherent* but *non-constructive* summaries — their writing was fluent, and their learning was poor.
@@ -229,7 +229,7 @@ The most robust evidence for writing-to-learn involves **writing activities that
 This finding is uncomfortable precisely because summarisation *feels* like active, engaged, effortful processing. And it is all of those things. But effort is not the same as generation, and fluency is not the same as transformation.
 
 > [!tension-identified] **The Effort-Learning Dissociation**
-> There is a genuine intellectual tension between two bodies of evidence: (1) the research on [[desirable-difficulties]] (Bjork, 1994) showing that conditions that make learning *feel* harder produce superior long-term retention; and (2) the research on cognitive load (Sweller, 1988) showing that excessive task difficulty undermines learning by overloading [[working-memory]]. Writing tasks fall on both sides of this tension: writing from memory is a desirable difficulty that produces superior learning; writing while consulting a source creates conditions that may *reduce* the desirable difficulty without providing the compensating elaboration. The optimal difficulty level for writing tasks is genuinely under-specified in the literature, and the interaction with learner expertise (see Phase IV) complicates it further.
+> There is a genuine intellectual tension between two bodies of evidence: (1) the research on [[Desirable Difficulties (Robert Bjork, 1994)]] (Bjork, 1994) showing that conditions that make learning *feel* harder produce superior long-term retention; and (2) the research on cognitive load (Sweller, 1988) showing that excessive task difficulty undermines learning by overloading [[working-memory]]. Writing tasks fall on both sides of this tension: writing from memory is a desirable difficulty that produces superior learning; writing while consulting a source creates conditions that may *reduce* the desirable difficulty without providing the compensating elaboration. The optimal difficulty level for writing tasks is genuinely under-specified in the literature, and the interaction with learner expertise (see Phase IV) complicates it further.
 
 ### The Moderating Variables: What Determines the Outcome?
 
@@ -242,7 +242,7 @@ Three variables consistently appear in the literature as moderating whether writ
 **3. Metacognitive Calibration**: Learners who believe that summarisation is a high-yield strategy invest time in it and neglect retrieval-based strategies. Learners who are accurately calibrated about the differential effectiveness of writing tasks allocate their writing effort productively. The irony is that poor metacognitive calibration about writing strategies may be *caused* by the fluency illusion: summarisation produces fluent output that feels like learning, reinforcing continued use of an ineffective strategy.
 
 > [!what-the-evidence-suggests] **The Calibration Problem May Be Self-Reinforcing**
-> The [[fluency-illusion]] research (Koriat & Bjork, 2005) suggests that the subjective experience of learning is driven more by processing fluency than by actual encoding strength. Students who summarize material experience high fluency — the prose flows, the ideas feel familiar — and infer strong learning. Students who write from memory experience disfluency — the recall is effortful, incomplete, uncertain — and infer weak learning. This creates a systematic bias toward ineffective writing strategies: the activities that feel most productive are precisely those that produce the least durable encoding.
+> The [[Fluency Illusion]] research (Koriat & Bjork, 2005) suggests that the subjective experience of learning is driven more by processing fluency than by actual encoding strength. Students who summarize material experience high fluency — the prose flows, the ideas feel familiar — and infer strong learning. Students who write from memory experience disfluency — the recall is effortful, incomplete, uncertain — and infer weak learning. This creates a systematic bias toward ineffective writing strategies: the activities that feel most productive are precisely those that produce the least durable encoding.
 
 *Section-end summary: The evidence landscape reveals a striking pattern: writing produces learning when it demands genuine reconstruction and retrieval, and fails to produce learning — despite consuming substantial time and effort — when it permits fluent transcription. Summarisation, the dominant writing-to-learn activity, consistently underperforms because it exploits knowledge-telling processes that feel like learning without triggering the generative mechanisms that produce it. The metacognitive calibration problem amplifies this: the fluency that summarisation produces is mistaken for learning strength, creating self-reinforcing reliance on an ineffective strategy.*
 
@@ -283,7 +283,7 @@ This mechanism is fundamental and frequently underappreciated. When a learner ho
 When writing is performed from memory — without source consultation — the act of writing *is* a retrieval act, and retrieval is itself encoding. The [[testing-effect-retrieval-practice-effect|testing effect]] mechanism applies directly: every time a memory trace is retrieved, it is strengthened and made more context-independent. Writing from memory forces this retrieval. Note-taking from an open source bypasses it entirely, offloading the retrieval work to the source and substituting perception for memory.
 
 > [!analytical-insight] **The Source Availability Paradox**
-> There is a deep irony in note-taking while reading: the very availability of the source — which makes the writing task easier and produces more accurate notes — is precisely what makes it less effective as a learning activity. Source availability allows the learner to use the text as a working memory extension, reducing [[cognitive-load-theory|cognitive load]] in ways that prevent the generative processing that produces durable encoding. The student who takes perfect, comprehensive notes while reading has, in some sense, invested effort in *preventing* learning. The note is a substitute for memory, not an occasion for it.
+> There is a deep irony in note-taking while reading: the very availability of the source — which makes the writing task easier and produces more accurate notes — is precisely what makes it less effective as a learning activity. Source availability allows the learner to use the text as a working memory extension, reducing [[Cognitive Load Theory (CLT)|cognitive load]] in ways that prevent the generative processing that produces durable encoding. The student who takes perfect, comprehensive notes while reading has, in some sense, invested effort in *preventing* learning. The note is a substitute for memory, not an occasion for it.
 
 ### Mechanism 3: The Audience Simulation Effect
 
@@ -294,7 +294,7 @@ Knowledge transforming, in the Bereiter-Scardamalia framework, requires a *rheto
 
 ### Mechanism 4: Cognitive Disequilibrium and Knowledge Restructuring
 
-[[elaborative-interrogation]] works — when it works — by triggering [[cognitive-disequilibrium|cognitive disequilibrium]]: a state in which the learner recognises an inconsistency between what they expected and what the evidence shows, or between two things they believe. Writing that asks "why?" rather than "what?" is disequilibrium-inducing, because it forces the learner to confront whether their causal account actually explains the phenomenon in question.
+[[Elaborative Interrogation]] works — when it works — by triggering [[cognitive-disequilibrium|cognitive disequilibrium]]: a state in which the learner recognises an inconsistency between what they expected and what the evidence shows, or between two things they believe. Writing that asks "why?" rather than "what?" is disequilibrium-inducing, because it forces the learner to confront whether their causal account actually explains the phenomenon in question.
 
 > [!tension-identified] **The Productive Struggle Boundary**
 > The evidence suggests that cognitive disequilibrium produces learning — but only within a range. Disequilibrium that is too mild (slight confusion, easily resolved) produces accommodation that is too shallow. Disequilibrium that is too severe (complete inability to connect new information to existing schemas) produces cognitive overload rather than generative processing. Writing tasks that are optimally calibrated to the learner's current knowledge level should produce *sustained* productive struggle — the kind of disequilibrium that feels like hard thinking, not the kind that produces paralysis. The practical problem is that this calibration is individual and dynamic, and the learner is frequently the worst judge of whether their current disequilibrium is productive.
@@ -357,7 +357,7 @@ The framework and mechanism analysis yield several implications that are not app
 
 The analysis presented here rests on several limitations that deserve acknowledgement:
 
-**The expertise interaction.** The mechanisms described operate differently at different levels of expertise. For novice learners, the articulatory construction effect may be overwhelming: the cognitive demand of writing coherent prose while trying to encode new material may exceed working memory capacity, reducing learning. The [[worked-example-effect]] (Sweller, 1988) shows that novices learn better from worked examples than from generation tasks — a direct challenge to the generative learning account when applied to beginners. The analysis here is most applicable to learners who have *some* foundational schema for the domain in question.
+**The expertise interaction.** The mechanisms described operate differently at different levels of expertise. For novice learners, the articulatory construction effect may be overwhelming: the cognitive demand of writing coherent prose while trying to encode new material may exceed working memory capacity, reducing learning. The [[the-worked-example-effect]] (Sweller, 1988) shows that novices learn better from worked examples than from generation tasks — a direct challenge to the generative learning account when applied to beginners. The analysis here is most applicable to learners who have *some* foundational schema for the domain in question.
 
 **The ecological validity problem.** Much of the mechanism-level evidence comes from tightly controlled laboratory experiments with artificial materials. Whether the mechanisms operate with the same strength in naturalistic study conditions — with complex, genuinely unfamiliar material, varying motivation, and time pressure — is less well established.
 
@@ -383,7 +383,7 @@ What conditions produce genuine knowledge transformation through writing?
 
 The answer this analysis has assembled across five phases is mechanistic and structural: **writing transforms knowledge when it creates productive friction between the writer's existing knowledge representation and the demands of the writing task.** The friction takes four forms — articulation, retrieval, audience simulation, and disequilibrium — and is maximised when writing is performed from memory, for a naive imagined audience, in a format that demands explanation rather than description.
 
-The corollary is equally important: writing produces the *illusion* of learning when it allows the writer to borrow fluency from a source, write for an audience that shares their assumptions, and describe rather than explain. The fluency this produces is real and experientially convincing — it is the [[fluency-illusion]] operating as a metacognitive trap.
+The corollary is equally important: writing produces the *illusion* of learning when it allows the writer to borrow fluency from a source, write for an audience that shares their assumptions, and describe rather than explain. The fluency this produces is real and experientially convincing — it is the [[Fluency Illusion]] operating as a metacognitive trap.
 
 ### Return and Deepen: The Bereiter-Scardamalia Distinction Revisited
 
@@ -496,13 +496,13 @@ What makes these insights transferable is that they are not about writing per se
 >
 > - **[[generation-effect]]** — The empirical backbone of the mechanism account. The generation effect demonstrates in controlled conditions that the production demand is itself the active ingredient. Understanding writing-to-learn through the generation effect lens transforms it from a pedagogical preference into an empirically grounded claim about encoding mechanisms.
 >
-> - **[[fluency-illusion]]** — The failure mode this analysis centres. The fluency illusion is what makes knowledge-telling feel like knowledge-transforming: the fluent output of summarisation is mistaken for evidence of understanding. Understanding the fluency illusion as a metacognitive trap is essential for understanding why learners systematically choose ineffective writing strategies.
+> - **[[Fluency Illusion]]** — The failure mode this analysis centres. The fluency illusion is what makes knowledge-telling feel like knowledge-transforming: the fluent output of summarisation is mistaken for evidence of understanding. Understanding the fluency illusion as a metacognitive trap is essential for understanding why learners systematically choose ineffective writing strategies.
 >
 > - **[[testing-effect-retrieval-practice-effect|Testing Effect]]** — Writing from memory is retrieval practice instantiated through writing. The mechanism overlap is direct: both the testing effect and the writing-from-memory advantage operate through the retrieval pathway. These two literatures have developed somewhat independently but are best understood as converging on the same mechanism.
 >
-> - **[[desirable-difficulties]]** — The broader theoretical home for the productive friction account. Writing-to-learn in its effective forms — retrieval-writing, self-explanation — is a specific instantiation of the desirable difficulty principle. The difficulty is "desirable" precisely because it activates the generative mechanisms that produce durable encoding.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — The broader theoretical home for the productive friction account. Writing-to-learn in its effective forms — retrieval-writing, self-explanation — is a specific instantiation of the desirable difficulty principle. The difficulty is "desirable" precisely because it activates the generative mechanisms that produce durable encoding.
 >
-> - **[[elaborative-interrogation]]** — The most directly evidence-supported effective writing strategy. Elaborative interrogation is writing-to-learn operationalised as a specific technique: writing explanations of *why* rather than *what*. Its effectiveness is a direct prediction of the framework developed here.
+> - **[[Elaborative Interrogation]]** — The most directly evidence-supported effective writing strategy. Elaborative interrogation is writing-to-learn operationalised as a specific technique: writing explanations of *why* rather than *what*. Its effectiveness is a direct prediction of the framework developed here.
 >
 > - **[[active-note-making]]** — The PKB-specific application of this analysis. The distinction between active note-making and passive note-taking maps directly onto the knowledge-transforming / knowledge-telling distinction. This note should be understood in light of the mechanism analysis: active note-making is not merely more engaged, it structurally activates different cognitive mechanisms.
 >
@@ -512,9 +512,9 @@ What makes these insights transferable is that they are not about writing per se
 >
 > **Cross-Report Links:**
 >
-> - **[[desirable-difficulties]]** — This analysis is, in part, a case study in desirable difficulties applied to writing tasks. A Focused Analysis on Desirable Difficulties would benefit from the writing domain as a primary worked example, and this analysis would benefit from the broader desirable difficulties framework as theoretical context.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — This analysis is, in part, a case study in desirable difficulties applied to writing tasks. A Focused Analysis on Desirable Difficulties would benefit from the writing domain as a primary worked example, and this analysis would benefit from the broader desirable difficulties framework as theoretical context.
 >
-> - **[[cognitive-load-theory]]** — The expertise interaction limitation (Phase V) is a CLT concern: generative writing tasks that exceed working memory capacity produce overload, not transformation. A future analysis examining the interaction between cognitive load and writing task design would extend this report.
+> - **[[Cognitive Load Theory (CLT)]]** — The expertise interaction limitation (Phase V) is a CLT concern: generative writing tasks that exceed working memory capacity produce overload, not transformation. A future analysis examining the interaction between cognitive load and writing task design would extend this report.
 >
 > **Synthetic Observation**: The pattern of connections reveals that writing-to-learn sits at the intersection of three major theoretical families — generative processing (Wittrock), retrieval-based encoding (Bjork, Roediger), and metacognitive monitoring (Flavell, Koriat) — and that its effectiveness is best understood as a function of how it activates or fails to activate mechanisms from all three. Notes that link only to the generative learning tradition without the retrieval and metacognitive dimensions are missing the analytical depth that makes the knowledge transformation problem tractable.
 

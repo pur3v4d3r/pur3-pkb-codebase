@@ -1151,7 +1151,7 @@ extraction_summary:
 > 
 > - **[[Dual-Process-Thinking-Model]]** — Your project's implementation of this concept in extended thinking architecture is a direct application of Kahneman's framework. The `<thinking>` block as mandated System 2 engagement zone now has its theoretical grounding. Understanding the human cognitive science makes the architectural choice legible as cognitively informed design rather than arbitrary convention.
 > 
-> - **[[metacognitive-scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
+> - **[[Metacognitive Scaffolding]]** and **[[metacognitive-monitoring]]** — These are direct implementations of Flavell's metacognitive regulation framework (planning, monitoring, evaluating) in a computational context. The three-level monitoring hierarchy in your doc2 maps precisely onto Flavell's metacognitive structure. These nodes now have their theoretical ancestry established.
 > 
 > - **[[ReAct-Framework]]** — The Research → Think → Act → Observe cycle is structurally isomorphic to Dewey's five phases of reflective thinking. ReAct is, in effect, Deweyan reflective inquiry encoded as an agentic architecture. This connection illuminates why ReAct works: it enforces the same cycle that cognitive science identifies as the structure of genuine inquiry.
 > 
@@ -1199,14 +1199,14 @@ extraction_summary:
 - [[Calibration Training Methods]]
 - [[Causal-Reasoning]]
 - [[Chain of Density]]
-- [[cognitive-architecture]]
+- [[Cognitive Architecture]]
 - [[Cognitive Bias Mitigation Protocols]]
 - [[Cognitive Biases and Debiasing]]
 - [[cognitive-conflict]]
 - [[cognitive-development-theory]]
 - [[Cognitive Engagement Architecture]]
 - [[cognitive-forcing-functions]]
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[cognitive-psychology]]
 - [[cognitive-science]]
 - [[Cognitive-Load-Theory-Applied-to-LLM-Reasoning]]
@@ -1231,7 +1231,7 @@ extraction_summary:
 - [[Decision-Making-Under-Uncertainty]]
 - [[Deductive Reasoning Techniques]]
 - [[Deep Dive Report Prompt]]
-- [[desirable-difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[Dewey's Inquiry Model]]
 - [[Dewey's-Reflective-Inquiry]]
 - [[Dichotomy-of-Control]]
@@ -1246,7 +1246,7 @@ extraction_summary:
 - [[educational-psychology]]
 - [[educational-technology]]
 - [[Elaboration-Theory]]
-- [[elaborative-interrogation]]
+- [[Elaborative Interrogation]]
 - [[Elaborative-Retrieval]]
 - [[elenchus]]
 - [[embodied-cognition]]
@@ -1288,7 +1288,7 @@ extraction_summary:
 - [[intellectual-humility]]
 - [[Interconnected Knowledge]]
 - [[Interest-Development-Theory]]
-- [[interleaving]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[introduction-to-critical-thinking]]
 - [[Intuitive Judgment]]
 - [[Iterative Design]]
@@ -1303,7 +1303,7 @@ extraction_summary:
 - [[Learner Journey Mapping]]
 - [[Learning-Analytics]]
 - [[Learning-Experience-Design]]
-- [[lifelong-learning]]
+- [[Lifelong Learning]]
 - [[Logical Reasoning Foundations]]
 - [[Lower-Level Concept]]
 - [[Merrill's Principles]]
@@ -1317,9 +1317,9 @@ extraction_summary:
 - [[metacognitive-monitoring]]
 - [[Metacognitive Monitoring Protocols]]
 - [[metacognitive-regulation]]
-- [[metacognitive-scaffolding]]
+- [[Metacognitive Scaffolding]]
 - [[metacognitive-monitoring]]
-- [[metacognitive-scaffolding]]
+- [[Metacognitive Scaffolding]]
 - [[Mindset-Theory]]
 - [[Network Models of Memory]]
 - [[Nonaka's SECI Model]]
@@ -1370,12 +1370,12 @@ extraction_summary:
 - [[Retrieval-Augmented-Generation]]
 - [[sdt]]
 - [[SECI-Model]]
-- [[schema-construction]]
-- [[schema-theory]]
+- [[Schema Construction]]
+- [[schema-theory-and-knowledge-organization]]
 - [[scientific-reasoning]]
 - [[Self-Consistency]]
 - [[self-determination-theory]]
-- [[self-explanation]]
+- [[self-explanation-effect]]
 - [[self-regulated-learning]]
 - [[Self-Regulation Cycles]]
 - [[situated-cognition]]
@@ -1387,7 +1387,7 @@ extraction_summary:
 - [[Socratic Philosophy]]
 - [[socratic-questioning]]
 - [[spaced-repetition]]
-- [[spacing-effect]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[Stoic Discipline]]
 - [[Stoic-Ethics]]
 - [[Stoic Ethics in Professional Life]]
@@ -1454,25 +1454,25 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[schema-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 65 |
+| 1 | [[schema-theory-and-knowledge-organization]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 65 |
 | 2 | [[Knowledge-Organization-Systems]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 65 |
 | 3 | [[constructivism]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 65 |
-| 4 | [[cognitive-load-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 71 |
+| 4 | [[Cognitive Load Theory (CLT)]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 71 |
 | 5 | [[working-memory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 71 |
 | 6 | [[instructional-design]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 71 |
 | 7 | [[constructivism]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 77 |
 | 8 | [[Elaboration-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 77 |
-| 9 | [[schema-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 77 |
+| 9 | [[schema-theory-and-knowledge-organization]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 77 |
 | 10 | [[metacognition]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 83 |
 | 11 | [[self-regulated-learning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 83 |
 | 12 | [[reflective-thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 83 |
 | 13 | [[self-determination-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
 | 14 | [[achievement-goal-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
 | 15 | [[Mindset-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
-| 16 | [[spacing-effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
+| 16 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
 | 17 | [[Testing-Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
-| 18 | [[interleaving]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
-| 19 | [[desirable-difficulties]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
+| 18 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
+| 19 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
 | 20 | [[encoding-specificity]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
 | 21 | [[critical-thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 101 |
 | 22 | [[socratic-questioning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 101 |
@@ -1484,7 +1484,7 @@ extraction_summary:
 | 28 | [[pedagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
 | 29 | [[andragogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
 | 30 | [[heutagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
-| 31 | [[cognitive-load-theory]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
+| 31 | [[Cognitive Load Theory (CLT)]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
 | 32 | [[transfer-of-learning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 129 |
 | 33 | [[situated-cognition]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 129 |
 | 34 | [[Encoding-Variability]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 129 |
@@ -1499,14 +1499,14 @@ extraction_summary:
 | 43 | [[Dewey's Inquiry Model]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 144 |
 | 44 | [[Constructivist Learning Environments]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 144 |
 | 45 | [[Knowledge-Organization-Systems]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 149 |
-| 46 | [[desirable-difficulties]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
+| 46 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
 | 47 | [[generation-effect]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
-| 48 | [[interleaving]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
+| 48 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
 | 49 | [[Constructivist-Struggle]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
 | 50 | [[writing-to-learn]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
-| 51 | [[elaborative-interrogation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
-| 52 | [[self-explanation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
-| 53 | [[schema-construction]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
+| 51 | [[Elaborative Interrogation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
+| 52 | [[self-explanation-effect]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
+| 53 | [[Schema Construction]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
 | 54 | [[metacognitive-calibration]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 164 |
 | 55 | [[Dunning-Kruger research]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 164 |
 | 56 | [[Socratic-Ignorance]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 164 |
@@ -1556,12 +1556,12 @@ extraction_summary:
 | 100 | [[Adaptive Learning Systems]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 226 |
 | 101 | [[personal-knowledge-management]] | — | — | ═════════════════════════════════════... | 589 |
 | 102 | [[personal-knowledge-base]] | — | — | ═════════════════════════════════════... | 590 |
-| 103 | [[lifelong-learning]] | — | — | ═════════════════════════════════════... | 591 |
+| 103 | [[Lifelong Learning]] | — | — | ═════════════════════════════════════... | 591 |
 | 104 | [[metacognition]] | — | — | ═════════════════════════════════════... | 592 |
 | 105 | [[self-regulated-learning]] | — | — | ═════════════════════════════════════... | 593 |
 | 106 | [[constructivism]] | — | — | ═════════════════════════════════════... | 594 |
-| 107 | [[cognitive-load-theory]] | — | — | ═════════════════════════════════════... | 595 |
-| 108 | [[schema-theory]] | — | — | ═════════════════════════════════════... | 596 |
+| 107 | [[Cognitive Load Theory (CLT)]] | — | — | ═════════════════════════════════════... | 595 |
+| 108 | [[schema-theory-and-knowledge-organization]] | — | — | ═════════════════════════════════════... | 596 |
 | 109 | [[self-determination-theory]] | — | — | ═════════════════════════════════════... | 597 |
 | 110 | [[pragmatism]] | — | — | ═════════════════════════════════════... | 598 |
 | 111 | [[Stoic-Philosophy]] | — | — | ═════════════════════════════════════... | 599 |
@@ -1594,10 +1594,10 @@ extraction_summary:
 | 138 | [[cognitive-science]] | — | — | The Disciplinary Toolkit | 905 |
 | 139 | [[dual-process-theory]] | — | — | The Disciplinary Toolkit | 905 |
 | 140 | [[working-memory]] | — | — | The Disciplinary Toolkit | 905 |
-| 141 | [[cognitive-architecture]] | — | — | The Disciplinary Toolkit | 905 |
+| 141 | [[Cognitive Architecture]] | — | — | The Disciplinary Toolkit | 905 |
 | 142 | [[cognitive-psychology]] | — | — | The Disciplinary Toolkit | 906 |
-| 143 | [[schema-theory]] | — | — | The Disciplinary Toolkit | 906 |
-| 144 | [[cognitive-load-theory]] | — | — | The Disciplinary Toolkit | 906 |
+| 143 | [[schema-theory-and-knowledge-organization]] | — | — | The Disciplinary Toolkit | 906 |
+| 144 | [[Cognitive Load Theory (CLT)]] | — | — | The Disciplinary Toolkit | 906 |
 | 145 | [[encoding-specificity]] | — | — | The Disciplinary Toolkit | 906 |
 | 146 | [[educational-psychology]] | — | — | The Disciplinary Toolkit | 907 |
 | 147 | [[self-regulated-learning]] | — | — | The Disciplinary Toolkit | 907 |
@@ -1620,10 +1620,10 @@ extraction_summary:
 | 164 | [[PKM Frameworks]] | — | — | The Disciplinary Toolkit | 911 |
 | 165 | [[Knowledge-Organization-Systems]] | — | — | The Disciplinary Toolkit | 911 |
 | 166 | [[Psychology of Learning]] | — | — | The Disciplinary Toolkit | 912 |
-| 167 | [[spacing-effect]] | — | — | The Disciplinary Toolkit | 912 |
+| 167 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | The Disciplinary Toolkit | 912 |
 | 168 | [[Testing-Effect]] | — | — | The Disciplinary Toolkit | 912 |
-| 169 | [[interleaving]] | — | — | The Disciplinary Toolkit | 912 |
-| 170 | [[desirable-difficulties]] | — | — | The Disciplinary Toolkit | 912 |
+| 169 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | The Disciplinary Toolkit | 912 |
+| 170 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | The Disciplinary Toolkit | 912 |
 | 171 | [[Stoic-Philosophy]] | — | — | The Disciplinary Toolkit | 913 |
 | 172 | [[Dichotomy-of-Control]] | — | — | The Disciplinary Toolkit | 913 |
 | 173 | [[Premeditatio-Malorum]] | — | — | The Disciplinary Toolkit | 913 |
@@ -1646,25 +1646,25 @@ extraction_summary:
 | 190 | [[wiki-link]] | — | — | Wiki-Link Strategy | 1418 |
 | 191 | [[wiki-link]] | — | — | Step 2: Knowledge Graph Analysis | 1443 |
 | 192 | [[double-bracket]] | — | — | Critical Output Requirements | 1637 |
-| 193 | [[schema-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1672 |
+| 193 | [[schema-theory-and-knowledge-organization]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1672 |
 | 194 | [[Knowledge-Organization-Systems]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1672 |
 | 195 | [[constructivism]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1672 |
-| 196 | [[cognitive-load-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1678 |
+| 196 | [[Cognitive Load Theory (CLT)]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1678 |
 | 197 | [[working-memory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1678 |
 | 198 | [[instructional-design]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1678 |
 | 199 | [[constructivism]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1684 |
 | 200 | [[Elaboration-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1684 |
-| 201 | [[schema-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1684 |
+| 201 | [[schema-theory-and-knowledge-organization]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1684 |
 | 202 | [[metacognition]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1690 |
 | 203 | [[self-regulated-learning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1690 |
 | 204 | [[reflective-thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1690 |
 | 205 | [[self-determination-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
 | 206 | [[achievement-goal-theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
 | 207 | [[Mindset-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
-| 208 | [[spacing-effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
+| 208 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
 | 209 | [[Testing-Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
-| 210 | [[interleaving]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
-| 211 | [[desirable-difficulties]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
+| 210 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
+| 211 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
 | 212 | [[encoding-specificity]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
 | 213 | [[critical-thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1708 |
 | 214 | [[socratic-questioning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1708 |
@@ -1676,7 +1676,7 @@ extraction_summary:
 | 220 | [[pedagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
 | 221 | [[andragogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
 | 222 | [[heutagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
-| 223 | [[cognitive-load-theory]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
+| 223 | [[Cognitive Load Theory (CLT)]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
 | 224 | [[transfer-of-learning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1736 |
 | 225 | [[situated-cognition]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1736 |
 | 226 | [[Encoding-Variability]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1736 |
@@ -1691,14 +1691,14 @@ extraction_summary:
 | 235 | [[Dewey's Inquiry Model]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1751 |
 | 236 | [[Constructivist Learning Environments]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1751 |
 | 237 | [[Knowledge-Organization-Systems]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1756 |
-| 238 | [[desirable-difficulties]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
+| 238 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
 | 239 | [[generation-effect]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
-| 240 | [[interleaving]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
+| 240 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
 | 241 | [[Constructivist-Struggle]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
 | 242 | [[writing-to-learn]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
-| 243 | [[elaborative-interrogation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
-| 244 | [[self-explanation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
-| 245 | [[schema-construction]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
+| 243 | [[Elaborative Interrogation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
+| 244 | [[self-explanation-effect]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
+| 245 | [[Schema Construction]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
 | 246 | [[metacognitive-calibration]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1771 |
 | 247 | [[Dunning-Kruger research]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1771 |
 | 248 | [[Socratic-Ignorance]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1771 |
@@ -1749,7 +1749,7 @@ extraction_summary:
 | 293 | [[Foundational Report Architecture]] | — | — | ═════════════════════════════════════... | 2152 |
 | 294 | [[Chain of Density]] | — | — | ═════════════════════════════════════... | 2153 |
 | 295 | [[extended-thinking-architecture]] | — | — | ═════════════════════════════════════... | 2154 |
-| 296 | [[metacognitive-scaffolding]] | — | — | ═════════════════════════════════════... | 2155 |
+| 296 | [[Metacognitive Scaffolding]] | — | — | ═════════════════════════════════════... | 2155 |
 | 297 | [[Active Reading Pedagogy]] | — | — | ═════════════════════════════════════... | 2156 |
 | 298 | [[Knowledge Graph Integration]] | — | — | ═════════════════════════════════════... | 2157 |
 | 299 | [[PKB Metadata Standards]] | — | — | ═════════════════════════════════════... | 2158 |
@@ -1813,7 +1813,7 @@ extraction_summary:
 | 357 | [[Focused Analysis Report Architecture]] | — | — | ═════════════════════════════════════... | 3138 |
 | 358 | [[Chain of Density]] | — | — | ═════════════════════════════════════... | 3139 |
 | 359 | [[extended-thinking-architecture]] | — | — | ═════════════════════════════════════... | 3140 |
-| 360 | [[metacognitive-scaffolding]] | — | — | ═════════════════════════════════════... | 3141 |
+| 360 | [[Metacognitive Scaffolding]] | — | — | ═════════════════════════════════════... | 3141 |
 | 361 | [[Active Reading Pedagogy]] | — | — | ═════════════════════════════════════... | 3142 |
 | 362 | [[Knowledge Graph Integration]] | — | — | ═════════════════════════════════════... | 3143 |
 | 363 | [[PKB Metadata Standards]] | — | — | ═════════════════════════════════════... | 3144 |
@@ -1844,7 +1844,7 @@ extraction_summary:
 | 388 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 3247 |
 | 389 | [[Topic X]] | — | — | What "Focused Analysis" Means | 3373 |
 | 390 | [[Prediction-Based Learning]] | — | — | Modality 1: Predictive Engagement | 3571 |
-| 391 | [[elaborative-interrogation]] | — | — | Modality 2: Conceptual Checkpoints | 3594 |
+| 391 | [[Elaborative Interrogation]] | — | — | Modality 2: Conceptual Checkpoints | 3594 |
 | 392 | [[Calibration Training]] | — | — | Modality 3: Calibration Exercises | 3607 |
 | 393 | [[metacognitive-awareness]] | — | — | Modality 3: Calibration Exercises | 3607 |
 | 394 | [[Concept-A]] | — | — | The Return-and-Deepen Pattern | 3741 |
@@ -1916,7 +1916,7 @@ extraction_summary:
 | 460 | [[Metacognitive-Awareness-Inventory]] | — | — | ═════════════════════════════════════... | 4939 |
 | 461 | [[epistemic-vigilance]] | — | — | ═════════════════════════════════════... | 4940 |
 | 462 | [[dual-process-theory]] | — | — | ═════════════════════════════════════... | 4941 |
-| 463 | [[cognitive-load-theory]] | — | — | ═════════════════════════════════════... | 4942 |
+| 463 | [[Cognitive Load Theory (CLT)]] | — | — | ═════════════════════════════════════... | 4942 |
 | 464 | [[argument-analysis]] | — | — | ═════════════════════════════════════... | 4943 |
 | 465 | [[Decision-Making-Under-Uncertainty]] | — | — | ═════════════════════════════════════... | 4944 |
 | 466 | [[Cognitive Biases and Debiasing]] | — | — | ═════════════════════════════════════... | 4945 |
@@ -1975,7 +1975,7 @@ extraction_summary:
 | 519 | [[Death, Mortality, and the Stoic Practice of Memento Mori]] | — | — | Future Topics for the PKB Exemplar | 5273 |
 | 520 | [[Stoicism and Modern Neuroscience: Ancient Wisdom Meets Contemporary Research]] | — | — | Future Topics for the PKB Exemplar | 5276 |
 | 521 | [[Dual-Process-Thinking-Model]] | — | — | Connections to the PKB and other Repo... | 5290 |
-| 522 | [[metacognitive-scaffolding]] | — | — | Connections to the PKB and other Repo... | 5292 |
+| 522 | [[Metacognitive Scaffolding]] | — | — | Connections to the PKB and other Repo... | 5292 |
 | 523 | [[metacognitive-monitoring]] | — | — | Connections to the PKB and other Repo... | 5292 |
 | 524 | [[ReAct-Framework]] | — | — | Connections to the PKB and other Repo... | 5294 |
 | 525 | [[Tree-of-Thoughts]] | — | — | Connections to the PKB and other Repo... | 5296 |
@@ -2286,7 +2286,7 @@ secondary_domains:
 related_concepts:
   - "[[personal-knowledge-management]]"
   - "[[personal-knowledge-base]]"
-  - "[[lifelong-learning]]"
+  - "[[Lifelong Learning]]"
   - "[[metacognition]]"
   - "[[self-regulated-learning]]"
 # ... (238 more lines truncated)
@@ -2488,7 +2488,7 @@ related_concepts:
   - "[[Foundational Report Architecture]]"
   - "[[Chain of Density]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
 # ... (129 more lines truncated)
@@ -2896,14 +2896,14 @@ tags:
 - [[Calibration Training Methods]]
 - [[Causal-Reasoning]]
 - [[Chain of Density]]
-- [[cognitive-architecture]]
+- [[Cognitive Architecture]]
 - [[Cognitive Bias Mitigation Protocols]]
 - [[Cognitive Biases and Debiasing]]
 - [[cognitive-conflict]]
 - [[cognitive-development-theory]]
 - [[Cognitive Engagement Architecture]]
 - [[cognitive-forcing-functions]]
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[cognitive-psychology]]
 - [[cognitive-science]]
 - [[Cognitive-Load-Theory-Applied-to-LLM-Reasoning]]
@@ -2928,7 +2928,7 @@ tags:
 - [[Decision-Making-Under-Uncertainty]]
 - [[Deductive Reasoning Techniques]]
 - [[Deep Dive Report Prompt]]
-- [[desirable-difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[Dewey's Inquiry Model]]
 - [[Dewey's-Reflective-Inquiry]]
 - [[Dichotomy-of-Control]]
@@ -2943,7 +2943,7 @@ tags:
 - [[educational-psychology]]
 - [[educational-technology]]
 - [[Elaboration-Theory]]
-- [[elaborative-interrogation]]
+- [[Elaborative Interrogation]]
 - [[Elaborative-Retrieval]]
 - [[elenchus]]
 - [[embodied-cognition]]
@@ -2985,7 +2985,7 @@ tags:
 - [[intellectual-humility]]
 - [[Interconnected Knowledge]]
 - [[Interest-Development-Theory]]
-- [[interleaving]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[introduction-to-critical-thinking]]
 - [[Intuitive Judgment]]
 - [[Iterative Design]]
@@ -3000,7 +3000,7 @@ tags:
 - [[Learner Journey Mapping]]
 - [[Learning-Analytics]]
 - [[Learning-Experience-Design]]
-- [[lifelong-learning]]
+- [[Lifelong Learning]]
 - [[Logical Reasoning Foundations]]
 - [[Lower-Level Concept]]
 - [[Merrill's Principles]]
@@ -3014,9 +3014,9 @@ tags:
 - [[metacognitive-monitoring]]
 - [[Metacognitive Monitoring Protocols]]
 - [[metacognitive-regulation]]
-- [[metacognitive-scaffolding]]
+- [[Metacognitive Scaffolding]]
 - [[metacognitive-monitoring]]
-- [[metacognitive-scaffolding]]
+- [[Metacognitive Scaffolding]]
 - [[Mindset-Theory]]
 - [[Network Models of Memory]]
 - [[Nonaka's SECI Model]]
@@ -3067,12 +3067,12 @@ tags:
 - [[Retrieval-Augmented-Generation]]
 - [[sdt]]
 - [[SECI-Model]]
-- [[schema-construction]]
-- [[schema-theory]]
+- [[Schema Construction]]
+- [[schema-theory-and-knowledge-organization]]
 - [[scientific-reasoning]]
 - [[Self-Consistency]]
 - [[self-determination-theory]]
-- [[self-explanation]]
+- [[self-explanation-effect]]
 - [[self-regulated-learning]]
 - [[Self-Regulation Cycles]]
 - [[situated-cognition]]
@@ -3084,7 +3084,7 @@ tags:
 - [[Socratic Philosophy]]
 - [[socratic-questioning]]
 - [[spaced-repetition]]
-- [[spacing-effect]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[Stoic Discipline]]
 - [[Stoic-Ethics]]
 - [[Stoic Ethics in Professional Life]]

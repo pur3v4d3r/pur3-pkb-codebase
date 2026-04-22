@@ -167,8 +167,8 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[simple-view-of-reading]]"
-  - "[[cognitive-load-theory]]"
-  - "[[schema-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[schema-theory-and-knowledge-organization]]"
 
 related:
   - "[[reading-fluency]]"
@@ -186,11 +186,11 @@ broader:
 
 narrower:
   - "[[spaced-repetition]]"
-  - "[[retrieval-practice]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[schema-automation-in-reading]]"
 
 see-also:
-  - "[[desirable-difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[transfer-of-learning]]"
   - "[[dual-coding-theory]]"
   - "[[metacognitive-monitoring]]"
@@ -205,12 +205,12 @@ applied-in:
   - "[[comprehension-monitoring]]"
 
 builds-on:
-  - "[[schema-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[working-memory]]"
 
 enables:
-  - "[[schema-automation]]"
+  - "[[Schema Automation]]"
   - "[[reading-fluency]]"
 
 expansion-topics:
@@ -315,7 +315,7 @@ The stakes of the reading-vocabulary relationship are not merely academic. Vocab
 >
 > **Etymology/Intellectual Lineage**: The distinction was systematised in SLA research by Schmidt (1990) through the *noticing hypothesis*; Nation (2001) provides the most comprehensive treatment of incidental vs. intentional learning in his framework.
 >
-> **Cross-References**: [[incidental-learning]], [[schema-theory]], [[elaborative-inference]]
+> **Cross-References**: [[incidental-learning]], [[schema-theory-and-knowledge-organization]], [[elaborative-inference]]
 
 > [!definition] **Text Coverage and the Vocabulary Threshold Hypothesis**
 > The proportion of running words in a text that a reader already knows. Paul Nation's research established that readers require approximately 95–98% vocabulary coverage to comprehend a text without external support (dictionary, glossing), and approximately 98%+ for comfortable independent reading that enables incidental acquisition of new words. This figure has been empirically supported by multiple studies (Laufer, 1989; Nation, 2001; Hu & Nation, 2000). For typical English fiction, 98% coverage corresponds to knowing approximately 8,000–9,000 word families; for academic text, substantially more.
@@ -331,7 +331,7 @@ The stakes of the reading-vocabulary relationship are not merely academic. Vocab
 >
 > **Report-Specific Significance**: This model is central to the philosophical challenge in Phase III: the question is not just *how many* words reading builds but *what kind* of word knowledge it builds. The argument will be that reading predominantly develops shallow receptive knowledge while leaving productive depth, morphological awareness, and collocational precision underdeveloped.
 >
-> **Cross-References**: [[semantic-memory]], [[schema-theory]], [[elaborative-inference]]
+> **Cross-References**: [[semantic-memory]], [[schema-theory-and-knowledge-organization]], [[elaborative-inference]]
 
 > [!definition] **The Matthew Effect in Reading**
 > Stanovich's (1986) application of the sociological "Matthew Effect" (from Matthew 25:29 — "to him who has, more will be given") to reading development. Readers who start with larger vocabularies read more fluently, which produces more enjoyable reading experiences, which produces more reading, which produces more vocabulary — while readers who start with smaller vocabularies find reading effortful, read less, acquire less vocabulary, and fall further behind. The result is a *divergent trajectory*: vocabulary-rich and vocabulary-poor learners do not converge on the same vocabulary ceiling through reading; they diverge from it. This is one of the most robust findings in reading research.
@@ -598,11 +598,11 @@ The vocabulary-reading dialectic has revealed three abstract structural principl
 >
 > - **[[verbal-efficiency-theory]]** — Perfetti's theory that lexical access efficiency (automaticity) determines reading comprehension quality connects directly to the reconstructed model. The Channel A/Channel B distinction maps onto verbal efficiency: deliberate instruction builds the lexical representations that become automatic through reading practice, and automaticity then frees working memory for higher-level comprehension. The reconstructed model and Verbal Efficiency Theory are mutually supporting.
 >
-> - **[[schema-theory]]** — Bartlett and Rumelhart's framework for knowledge organisation is directly implicated in the multi-dimensionality challenge. The Incremental Knowledge Model of word knowledge is a schema-level account: full knowledge of a word is a rich, interconnected schema, and shallow acquisition from incidental reading builds only the first layer of that schema. The dialectical process here complements the existing schema theory dialectical re-examination in the PKB.
+> - **[[schema-theory-and-knowledge-organization]]** — Bartlett and Rumelhart's framework for knowledge organisation is directly implicated in the multi-dimensionality challenge. The Incremental Knowledge Model of word knowledge is a schema-level account: full knowledge of a word is a rich, interconnected schema, and shallow acquisition from incidental reading builds only the first layer of that schema. The dialectical process here complements the existing schema theory dialectical re-examination in the PKB.
 >
-> - **[[cognitive-load-theory]]** — The threshold paradox has a CLT interpretation: below the vocabulary threshold, the density of unfamiliar words creates extraneous cognitive load that overwhelms working memory and prevents the semantic processing required for incidental acquisition. Above the threshold, vocabulary-related cognitive load is minimal and resources are available for both comprehension and word-noticing. CLT provides the mechanistic account for why the threshold exists and where it matters.
+> - **[[Cognitive Load Theory (CLT)]]** — The threshold paradox has a CLT interpretation: below the vocabulary threshold, the density of unfamiliar words creates extraneous cognitive load that overwhelms working memory and prevents the semantic processing required for incidental acquisition. Above the threshold, vocabulary-related cognitive load is minimal and resources are available for both comprehension and word-noticing. CLT provides the mechanistic account for why the threshold exists and where it matters.
 >
-> - **[[spaced-repetition]]** and **[[retrieval-practice]]** — These deliberate learning mechanisms constitute the operational implementation of Channel A in the Frequency-Indexed Dual-Channel Model. The reconstructed understanding places them as prerequisites for reading-based vocabulary growth rather than as supplementary alternatives to it.
+> - **[[spaced-repetition]]** and **[[Desirable Difficulties (Robert Bjork, 1994)]]** — These deliberate learning mechanisms constitute the operational implementation of Channel A in the Frequency-Indexed Dual-Channel Model. The reconstructed understanding places them as prerequisites for reading-based vocabulary growth rather than as supplementary alternatives to it.
 >
 > - **[[incidental-learning]]** — The PKB note on incidental learning provides the foundational framework within which vocabulary-from-reading sits. The dialectical re-examination here adds critical conditioning on that framework: incidental learning is efficient only within specific parametric ranges (threshold, text coverage, active noticing).
 >
@@ -642,7 +642,7 @@ The vocabulary-reading dialectic has revealed three abstract structural principl
 >
 > **Operational Indicators:** Calculated by identifying all word tokens in a text and determining what proportion fall within a given frequency band (using resources like Nation's BNC/COCA word lists).
 >
-> **Cross-References:** [[reading-fluency]], [[working-memory-in-reading]], [[cognitive-load-theory]]
+> **Cross-References:** [[reading-fluency]], [[working-memory-in-reading]], [[Cognitive Load Theory (CLT)]]
 
 > [!definition] **The Matthew Effect in Reading (Stanovich, 1986)**
 > **Definition:** The self-reinforcing divergence in reading and vocabulary development whereby those who begin with larger vocabularies read more fluently, which produces more pleasurable reading experiences, which produces more reading, which produces more vocabulary — while those with smaller vocabularies face a reverse spiral. Named after the biblical passage in which those who already have receive more. Empirically demonstrated through longitudinal reading research showing diverging vocabulary trajectories between high-vocabulary and low-vocabulary learners.
@@ -658,7 +658,7 @@ The vocabulary-reading dialectic has revealed three abstract structural principl
 >
 > **Report-Specific Significance:** Provides the philosophical lens challenge — reading efficiently builds receptive knowledge but systematically underbuilds productive depth, collocational precision, and register sensitivity. The model reveals that the reading-vocabulary correlation, based primarily on receptive vocabulary measures, overstates reading's contribution to full word knowledge.
 >
-> **Cross-References:** [[semantic-memory]], [[schema-theory]], [[elaborative-rehearsal]]
+> **Cross-References:** [[semantic-memory]], [[schema-theory-and-knowledge-organization]], [[elaborative-rehearsal]]
 
 > [!definition] **Receptive vs. Productive Vocabulary Knowledge (Nation, 2001)**
 > **Definition:** A fundamental distinction in vocabulary knowledge. *Receptive* (or passive) vocabulary comprises words a reader can recognise and approximately understand when encountered in context; *productive* (or active) vocabulary comprises words a speaker/writer can accurately deploy in their own output. For adult proficient readers, productive vocabulary is typically 50–70% of receptive vocabulary in size (and substantially narrower in depth). The gap exists because contextual reading provides reception-building encounters without production-building practice.
@@ -679,7 +679,7 @@ The vocabulary-reading dialectic has revealed three abstract structural principl
 >
 > **Report-Specific Significance:** The original contribution of this dialectical re-examination — a reconstructed model that preserves what is correct in the reading-primary hypothesis while specifying the conditions under which it holds and the complementary mechanism required when those conditions are not met.
 >
-> **Cross-References:** [[spaced-repetition]], [[retrieval-practice]], [[desirable-difficulties]], [[self-regulated-learning]]
+> **Cross-References:** [[spaced-repetition]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[self-regulated-learning]]
 
 > [!definition] **Beck's Three-Tier Vocabulary Framework (Beck, McKeown & Kucan, 2002, 2013)**
 > **Definition:** A classification of English vocabulary into three pedagogically relevant tiers. *Tier 1* comprises basic, everyday vocabulary acquired through everyday conversation and experience (e.g., *happy*, *walk*, *table*). *Tier 2* comprises high-frequency academic and literary vocabulary that appears across multiple domains of formal discourse but is rarely used in everyday conversation (e.g., *pernicious*, *infer*, *consequence*) — this is the vocabulary most critical for academic literacy and most underserved by reading alone. *Tier 3* comprises low-frequency, domain-specific technical vocabulary (e.g., *photosynthesis*, *amortization*).
@@ -693,21 +693,21 @@ The vocabulary-reading dialectic has revealed three abstract structural principl
 >
 > **Report-Specific Significance:** The proximate theoretical source of the received view under examination. The dialectical process established that the hypothesis captures something real (reading is the dominant mechanism for mature, above-threshold learners) but overstates its sufficiency and understates the threshold conditions required for it to operate.
 >
-> **Cross-References:** [[schema-theory]], [[incidental-learning]], [[self-regulated-learning]]
+> **Cross-References:** [[schema-theory-and-knowledge-organization]], [[incidental-learning]], [[self-regulated-learning]]
 
 > [!definition] **Passive Exposure Fallacy (Original Synthesis — this report)**
 > **Definition:** The error of treating exposure to information as equivalent to acquisition of it. The Passive Exposure Fallacy operates when a learning prescription recommends increased exposure volume (more reading, more practice time, more hours) without specifying the active processing requirements that make exposure educationally productive. It is a *fallacy* because it conflates a necessary condition (some exposure is required) with a sufficient condition (enough exposure is sufficient). Active, generative processing is the rate-limiting step in vocabulary acquisition; exposure without active processing yields diminishing returns.
 >
 > **Report-Specific Significance:** The abstract principle generalised from the vocabulary dialectic with the widest applicability across domains.
 >
-> **Cross-References:** [[shallow-processing]], [[desirable-difficulties]], [[transfer-of-learning]]
+> **Cross-References:** [[shallow-processing]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[transfer-of-learning]]
 
 > [!definition] **The Threshold-Dependency Principle (Original Synthesis — this report)**
 > **Definition:** The structural property of acquisition systems in which the primary growth mechanism is conditionalised on prior acquisition that the mechanism itself cannot efficiently provide. Below the threshold, the primary mechanism is inefficient and a different acquisition strategy (typically more deliberate and instructional) is required; above it, the primary mechanism becomes self-reinforcing. Confusing an above-threshold mechanism for a universal one is a recurrent error in educational prescription.
 >
 > **Report-Specific Significance:** The most precise formulation of the central challenge to the reading-primary hypothesis, and the principle with the broadest FAR transfer applicability.
 >
-> **Cross-References:** [[verbal-efficiency-theory]], [[cognitive-load-theory]], [[schema-automation]]
+> **Cross-References:** [[verbal-efficiency-theory]], [[Cognitive Load Theory (CLT)]], [[Schema Automation]]
 
 ### B. Key Figures & Intellectual Lineage
 
@@ -1017,7 +1017,7 @@ The vocabulary-reading dialectic has revealed three abstract structural principl
 > > **Connection to This Report:** This report's central reconstruction depends on the Frequency-Indexed Dual-Channel Model, which in turn depends on Nation's frequency framework. A full treatment of Nation's work fills the major gap in the current reconstructed understanding.
 > > **Priority:** Critical
 > > **Suggested Report Type:** Foundational
-> > **Prerequisites:** [[simple-view-of-reading]], [[cognitive-load-theory]]
+> > **Prerequisites:** [[simple-view-of-reading]], [[Cognitive Load Theory (CLT)]]
 >
 > > [!topic-idea] The Matthew Effect in Reading — Dialectical Re-Examination
 > > Stanovich's Matthew Effect as a candidate for its own dialectical treatment — examining the strength of the divergent trajectory evidence, the mechanisms producing it, and what interventions (if any) can interrupt the spiral. This warrants dialectical treatment because the Matthew Effect has been invoked both to support direct vocabulary instruction (intervention before divergence) and to critique educational systems that produce divergence in the first place.
@@ -1041,7 +1041,7 @@ The vocabulary-reading dialectic has revealed three abstract structural principl
 > > **Connection to This Report:** The multi-dimensionality challenge identified morphological knowledge as one dimension that reading builds poorly; this expansion topic directly addresses that gap with a focused acquisition strategy.
 > > **Priority:** Medium
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[schema-theory]], [[cognitive-load-theory]]
+> > **Prerequisites:** [[schema-theory-and-knowledge-organization]], [[Cognitive Load Theory (CLT)]]
 >
 > > [!topic-idea] Spaced Repetition Systems for Vocabulary — Applied Protocol
 > > A practical-focused treatment of how spaced repetition software (Anki, Obsidian SR) implements the spacing and retrieval principles most relevant to Channel A vocabulary development: deck organisation by frequency band, card design for multi-dimensional word knowledge, and the interface between SR practice and reading-based consolidation.
@@ -1049,7 +1049,7 @@ The vocabulary-reading dialectic has revealed three abstract structural principl
 > > **Connection to This Report:** [[spaced-repetition-systems]] implements the key deliberate-study mechanism in Channel A. This applied protocol converts the reconstructed model into actionable PKB practice.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis (applied)
-> > **Prerequisites:** [[retrieval-practice]], [[desirable-difficulties]], [[spacing-effect]]
+> > **Prerequisites:** [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 ### J. Cross-Report Navigation Map
 

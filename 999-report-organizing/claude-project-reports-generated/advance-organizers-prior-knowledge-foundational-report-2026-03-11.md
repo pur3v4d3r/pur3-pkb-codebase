@@ -87,11 +87,11 @@ key-distinctions:
   - Advance organizer vs. Summary or overview
   - Prior knowledge quantity vs. Prior knowledge accuracy
 prerequisites:
-  - "[[schema-theory|Schema Theory]]"
-  - "[[cognitive-architecture|Cognitive Architecture (Working Memory & Long-Term Memory)]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
+  - "[[Cognitive Architecture|Cognitive Architecture (Working Memory & Long-Term Memory)]]"
 related:
-  - "[[schema-theory|Schema Theory]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[transfer-of-learning|Transfer of Learning]]"
@@ -102,13 +102,13 @@ broader:
   - "[[cognitive-psychology|Cognitive Psychology]]"
   - "[[educational-psychology|Educational Psychology]]"
 narrower:
-  - "[[elaborative-interrogation|Elaborative Interrogation]]"
+  - "[[Elaborative Interrogation|Elaborative Interrogation]]"
   - "[[kwl-strategy|KWL Strategy]]"
   - "[[bridging-analogies|Bridging Analogies]]"
   - "[[Concept Mapping as Organizer]]"
 see-also:
   - "[[Worked Examples Effect]]"
-  - "[[retrieval-practice|Retrieval Practice]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]"
   - "[[spaced-practice|Spaced Practice]]"
   - "[[analogical-reasoning|Analogical Reasoning]]"
 contrasts-with:
@@ -122,8 +122,8 @@ applied-in:
   - "[[AI-Assisted Learning Systems]]"
   - "[[Prompt-Engineering-for-Educational-AI|Prompt Engineering for Educational AI]]"
 builds-on:
-  - "[[schema-theory|Schema Theory]]"
-  - "[[cognitive-architecture|Cognitive Architecture (Working Memory & Long-Term Memory)]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
+  - "[[Cognitive Architecture|Cognitive Architecture (Working Memory & Long-Term Memory)]]"
   - "[[meaningful-learning-theory|Meaningful Learning Theory]]"
 enables:
   - "[[transfer-of-learning|Transfer of Learning]]"
@@ -147,7 +147,7 @@ expansion-topics:
   - topic: "[[Worked Examples Effect & Instructional Sequencing]]"
     description: Worked examples benefit most when learners have sufficient prior knowledge to process them without becoming overwhelmed. This interaction with prior knowledge connects directly to organizer research.
     priority: medium
-  - topic: "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - topic: "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
     description: Flagged as high-priority across multiple PKB nodes. Advance organizers reduce germane cognitive load by providing organizational scaffolding; CLT provides the mechanistic explanation for why. A full CLT report would strengthen this node's theoretical grounding considerably.
     priority: high
   - topic: "[[Prompt-Engineering-for-Educational-AI|Prompt Engineering for Educational AI]]"
@@ -199,9 +199,9 @@ This is the central phenomenon that [[advance-organizers|Advance Organizers]] an
 
 This report examines what that claim means in practice: what prior knowledge actually is, how it is organized in long-term memory as [[schema|schemas]], what happens cognitively when new information encounters existing knowledge structures, how instructional designers can deliberately engineer those encounters through advance organizers and other activation strategies, and what the empirical evidence tells us about when and why these techniques work. It also addresses a limitation that Ausubel's aphorism quietly contains — what happens when the learner already knows something *wrong*.
 
-**Scope.** This report covers [[advance-organizers|Advance Organizers]] as defined in the Ausubelian tradition, the broader literature on prior knowledge activation strategies (including [[elaborative-interrogation|Elaborative Interrogation]], [[kwl-strategy|KWL Strategy]], [[bridging-analogies|Bridging Analogies]], and [[pre-questioning]]), the theoretical accounts of why these strategies work, and their applications in instructional design and AI-assisted knowledge tools. It does not provide a full treatment of [[schema-theory|Schema Theory]] (which has its own dedicated PKB node), [[cognitive-load-theory|Cognitive Load Theory]] (flagged for future treatment), or [[transfer-of-learning|Transfer of Learning]] (also flagged), though it connects to each throughout.
+**Scope.** This report covers [[advance-organizers|Advance Organizers]] as defined in the Ausubelian tradition, the broader literature on prior knowledge activation strategies (including [[Elaborative Interrogation|Elaborative Interrogation]], [[kwl-strategy|KWL Strategy]], [[bridging-analogies|Bridging Analogies]], and [[pre-questioning]]), the theoretical accounts of why these strategies work, and their applications in instructional design and AI-assisted knowledge tools. It does not provide a full treatment of [[schema-theory-and-knowledge-organization|Schema Theory]] (which has its own dedicated PKB node), [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] (flagged for future treatment), or [[transfer-of-learning|Transfer of Learning]] (also flagged), though it connects to each throughout.
 
-**Reader positioning.** The report assumes familiarity with the broad idea that long-term memory is organized rather than random — that knowledge is stored in interconnected structures rather than isolated facts. Readers who have engaged with [[schema-theory|Schema Theory]] will find this report extending those foundations into instructional application. Readers who have not should note that the sections on conceptual foundations are written to be self-sufficient.
+**Reader positioning.** The report assumes familiarity with the broad idea that long-term memory is organized rather than random — that knowledge is stored in interconnected structures rather than isolated facts. Readers who have engaged with [[schema-theory-and-knowledge-organization|Schema Theory]] will find this report extending those foundations into instructional application. Readers who have not should note that the sections on conceptual foundations are written to be self-sufficient.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, take two minutes to articulate what you currently believe about how new information gets learned. Do you think of learning as filling in gaps? As constructing connections? As strengthening pathways? What role, if any, do you think what someone already knows plays in how well they learn something new? There are no wrong answers here — the goal is to surface your existing mental model so you can notice where this report confirms, enriches, or complicates it.
@@ -268,9 +268,9 @@ Ausubel further proposed *obliterative subsumption* as an explanation for forget
 
 ### Schema Theory and the Constructivist Account
 
-While Ausubel framed his theory in terms of hierarchical cognitive structures, the parallel tradition of [[schema-theory|Schema Theory]] — descending from [[frederic-bartlett|Frederic Bartlett]]'s *Remembering* (1932) through [[jean-piaget|Jean Piaget]]'s developmental constructivism and [[richard-anderson|Richard Anderson]]'s work on reading comprehension — provides a complementary and in many ways richer account of why prior knowledge activation matters.
+While Ausubel framed his theory in terms of hierarchical cognitive structures, the parallel tradition of [[schema-theory-and-knowledge-organization|Schema Theory]] — descending from [[frederic-bartlett|Frederic Bartlett]]'s *Remembering* (1932) through [[jean-piaget|Jean Piaget]]'s developmental constructivism and [[richard-anderson|Richard Anderson]]'s work on reading comprehension — provides a complementary and in many ways richer account of why prior knowledge activation matters.
 
-[[schema-theory|Schema Theory]] proposes that knowledge is organized in memory as *schemas*: generalized mental structures representing categories, events, relationships, and procedures. Schemas are not passive storage containers but active processors — they generate expectations, guide attention during encoding, fill in missing information during retrieval, and shape interpretation of ambiguous input. When a learner activates a relevant schema before encountering new material, they are not simply "warming up" some storage space; they are bringing to bear a powerful inference engine that will shape everything about how the new material is processed.
+[[schema-theory-and-knowledge-organization|Schema Theory]] proposes that knowledge is organized in memory as *schemas*: generalized mental structures representing categories, events, relationships, and procedures. Schemas are not passive storage containers but active processors — they generate expectations, guide attention during encoding, fill in missing information during retrieval, and shape interpretation of ambiguous input. When a learner activates a relevant schema before encountering new material, they are not simply "warming up" some storage space; they are bringing to bear a powerful inference engine that will shape everything about how the new material is processed.
 
 > [!key-claim] **Schema-Driven Processing**
 > According to schema theory, comprehension is not simply a matter of decoding text or instruction but of using existing schemas to generate predictions, interpret ambiguous information, and construct a coherent representation. A learner with a well-developed [[prior-knowledge|prior knowledge]] schema for a domain does not need to process every piece of new information from scratch — the schema carries most of the interpretive work, making new information assimilable with relatively low cognitive effort. This is why domain experts learn new domain material faster and retain it better than novices, even controlling for working memory capacity.
@@ -303,7 +303,7 @@ Several moderators consistently emerge in the literature as genuine boundary con
 
 ### The Cognitive Architecture of Organizer Effects
 
-Understanding why advance organizers work requires a brief account of how information is processed during learning. [[working-memory|Working Memory]] is severely capacity-limited — typically described as capable of holding approximately 4±1 chunks of information simultaneously in active processing. [[long-term-memory|Long-Term Memory]], by contrast, has effectively unlimited capacity but requires consolidation and retrieval processes that depend on associative connections. When learners encounter new, unfamiliar material without relevant prior knowledge, they are forced to process it entirely within working memory — holding definitions, examples, and relationships in mind simultaneously without the benefit of existing schemas to chunk and organize the material. The result is high intrinsic [[cognitive-load|Cognitive Load]], a limited depth of processing, and poor encoding into long-term memory.
+Understanding why advance organizers work requires a brief account of how information is processed during learning. [[working-memory|Working Memory]] is severely capacity-limited — typically described as capable of holding approximately 4±1 chunks of information simultaneously in active processing. [[long-term-memory|Long-Term Memory]], by contrast, has effectively unlimited capacity but requires consolidation and retrieval processes that depend on associative connections. When learners encounter new, unfamiliar material without relevant prior knowledge, they are forced to process it entirely within working memory — holding definitions, examples, and relationships in mind simultaneously without the benefit of existing schemas to chunk and organize the material. The result is high intrinsic [[Cognitive Load Theory (CLT)|Cognitive Load]], a limited depth of processing, and poor encoding into long-term memory.
 
 An advance organizer reduces this burden through several interacting mechanisms:
 
@@ -356,7 +356,7 @@ Effective advance organizer design requires decisions about type, content, modal
 
 ### Beyond Classic Organizers: Activation Strategy Families
 
-The advance organizer is one of several strategies for activating prior knowledge before instruction. [[elaborative-interrogation|Elaborative Interrogation]] — asking learners "Why is this true?" or "Why does this make sense?" — activates existing knowledge by requiring its integration with new material during encoding rather than before it. [[pre-questioning]] (presenting to-be-answered questions before instruction) directs attention and activates relevant schemas by establishing information goals. [[bridging-analogies|Bridging Analogies]] — sequences of intermediate analogical steps connecting unfamiliar target concepts to familiar source domains — are particularly effective for science instruction where conceptual distance between prior knowledge and new material is large.
+The advance organizer is one of several strategies for activating prior knowledge before instruction. [[Elaborative Interrogation|Elaborative Interrogation]] — asking learners "Why is this true?" or "Why does this make sense?" — activates existing knowledge by requiring its integration with new material during encoding rather than before it. [[pre-questioning]] (presenting to-be-answered questions before instruction) directs attention and activates relevant schemas by establishing information goals. [[bridging-analogies|Bridging Analogies]] — sequences of intermediate analogical steps connecting unfamiliar target concepts to familiar source domains — are particularly effective for science instruction where conceptual distance between prior knowledge and new material is large.
 
 > [!evidence] **Elaborative Interrogation vs. Advance Organizers**
 > [[Woloshyn,-Pressley-&-Schneider-1992|Woloshyn, Pressley & Schneider (1992)]] compared elaborative interrogation to advance organizers across multiple studies and found that elaborative interrogation — asking learners to explain why stated facts are true — produced more robust learning benefits, particularly for learners with relevant prior knowledge. The mechanism proposed is that elaborative interrogation forces active integration of new information with existing knowledge during encoding, rather than simply providing scaffolding in advance. The implication is that prior knowledge activation is most powerful when it is not a front-loaded intervention but an ongoing cognitive stance — a habit of mind that connects new information to existing understanding throughout the learning experience.
@@ -392,7 +392,7 @@ Translating these into prompt engineering terms produces the following design pa
 > [!best-practice] **Prompt Pattern 3: PKB-Linked Schema Activation**
 > For reports generated within a PKB context where the reader has documented prior knowledge (in the form of existing report nodes), the prompt can include direct links to activate specific existing nodes:
 >
-> *"This report builds on [[schema-theory|Schema Theory]] and connects to [[cognitive-load-theory|Cognitive Load Theory]]. In Phase I, include a 2–3 sentence connection that explicitly links the new topic to these existing nodes, framing the new report as an elaboration or application rather than a fresh start. Use the specific terminology and frameworks established in those nodes."*
+> *"This report builds on [[schema-theory-and-knowledge-organization|Schema Theory]] and connects to [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]. In Phase I, include a 2–3 sentence connection that explicitly links the new topic to these existing nodes, framing the new report as an elaboration or application rather than a fresh start. Use the specific terminology and frameworks established in those nodes."*
 >
 > This pattern is especially powerful in a knowledge-graph context because it leverages the existing PKB architecture as a source of precisely the kind of anchoring ideas that Ausubel argued were necessary for meaningful learning.
 
@@ -404,7 +404,7 @@ Translating these into prompt engineering terms produces the following design pa
 > This refinement prevents the "Before You Begin" prompt from becoming a generic mindfulness exercise and ensures it performs genuine schema activation.
 
 > [!observation] **The PKB as Cumulative Prior Knowledge Architecture**
-> The PKB you are building through these Foundational Reports is itself a form of advance organizer infrastructure. Each report, by creating an evergreen node linked to adjacent concepts via wiki-links and explicit connections, is extending the associative network of prior knowledge that future reports can draw upon. When a new report on [[Conceptual-Change-Theory|Conceptual Change Theory]] is generated, the existing nodes on [[schema-theory|Schema Theory]], [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]], and [[advance-organizers|Advance Organizers]] become the anchoring structures — the subsumers — into which new material can be meaningfully assimilated. The PKB's cumulative architecture is, in Ausubel's terms, a deliberately engineered cognitive field designed to make all subsequent learning more meaningful.
+> The PKB you are building through these Foundational Reports is itself a form of advance organizer infrastructure. Each report, by creating an evergreen node linked to adjacent concepts via wiki-links and explicit connections, is extending the associative network of prior knowledge that future reports can draw upon. When a new report on [[Conceptual-Change-Theory|Conceptual Change Theory]] is generated, the existing nodes on [[schema-theory-and-knowledge-organization|Schema Theory]], [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]], and [[advance-organizers|Advance Organizers]] become the anchoring structures — the subsumers — into which new material can be meaningfully assimilated. The PKB's cumulative architecture is, in Ausubel's terms, a deliberately engineered cognitive field designed to make all subsequent learning more meaningful.
 
 ### Limitations and Boundary Conditions
 
@@ -447,9 +447,9 @@ The most productive open questions that remain after comprehensive treatment of 
 >
 > This report on [[advance-organizers|Advance Organizers]] and [[prior-knowledge-activation|Prior Knowledge Activation]] connects to existing and anticipated nodes in the PKB through several substantive pathways:
 >
-> - **[[schema-theory|Schema Theory]]** — The foundational prerequisite for this report. Schema theory provides the cognitive architecture within which advance organizers operate: activating relevant schemas is precisely what a comparative organizer does, and building new superordinate schemas is what expository organizers attempt. These two nodes are in a directly hierarchical relationship: schema theory is the mechanism-level account; advance organizers are a specific instructional operationalization of that mechanism. Reading these nodes in sequence (schema theory first, then this report) provides the most complete picture.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — The foundational prerequisite for this report. Schema theory provides the cognitive architecture within which advance organizers operate: activating relevant schemas is precisely what a comparative organizer does, and building new superordinate schemas is what expository organizers attempt. These two nodes are in a directly hierarchical relationship: schema theory is the mechanism-level account; advance organizers are a specific instructional operationalization of that mechanism. Reading these nodes in sequence (schema theory first, then this report) provides the most complete picture.
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — Flagged as high-priority across multiple PKB nodes, CLT provides the most powerful mechanistic bridge between advance organizers and learning outcomes. The organizer's function of reducing intrinsic cognitive load (by chunking new material into existing schemas) and potentially increasing germane load (by encouraging elaborative integration) is exactly the kind of claim CLT is designed to evaluate. When the CLT node is generated, the advance organizer research will serve as one of its most important empirical application domains.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — Flagged as high-priority across multiple PKB nodes, CLT provides the most powerful mechanistic bridge between advance organizers and learning outcomes. The organizer's function of reducing intrinsic cognitive load (by chunking new material into existing schemas) and potentially increasing germane load (by encouraging elaborative integration) is exactly the kind of claim CLT is designed to evaluate. When the CLT node is generated, the advance organizer research will serve as one of its most important empirical application domains.
 >
 > - **[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]** — Prior knowledge activation is most reliably implemented by learners who have developed metacognitive awareness of their own knowledge states — who know what they know, notice when they don't understand, and strategically seek to activate relevant prior knowledge. The "Before You Begin" reflective prompts in Foundational Reports are metacognitive scaffolding that invites this awareness. These two nodes support each other: metacognition enables prior knowledge activation; activation strategies, when practiced deliberately, develop metacognitive skill.
 >
@@ -457,7 +457,7 @@ The most productive open questions that remain after comprehensive treatment of 
 >
 > - **[[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]** — Students who hold a growth mindset (intelligence as developable rather than fixed) are more likely to engage in effortful prior knowledge activation strategies, more likely to persist when new material does not immediately connect to existing schemas, and more likely to tolerate the discomfort of schema revision when prior knowledge turns out to be inaccurate. The motivational and epistemic dimensions of learning are not separable from the cognitive architecture dimensions — which is what makes the PKB's integration of these adjacent nodes intellectually valuable.
 >
-> The pattern of connections across these nodes reveals an important architectural truth about the PKB cluster being built here: [[schema-theory|Schema Theory]], [[cognitive-load-theory|Cognitive Load Theory]], [[metacognition]], [[feedback-design|Feedback Design]], and [[advance-organizers|Advance Organizers]] are not parallel independent topics — they are different perspectives on the same underlying phenomenon, which is the structural integration of new knowledge with existing knowledge. A comprehensive understanding requires all of these nodes, and their explicit linking in the PKB creates more value than any single node provides alone.
+> The pattern of connections across these nodes reveals an important architectural truth about the PKB cluster being built here: [[schema-theory-and-knowledge-organization|Schema Theory]], [[Cognitive Load Theory (CLT)|Cognitive Load Theory]], [[metacognition]], [[feedback-design|Feedback Design]], and [[advance-organizers|Advance Organizers]] are not parallel independent topics — they are different perspectives on the same underlying phenomenon, which is the structural integration of new knowledge with existing knowledge. A comprehensive understanding requires all of these nodes, and their explicit linking in the PKB creates more value than any single node provides alone.
 
 > [!reflection] **Integration and Forward Momentum**
 > 1. Ausubel's core claim is that what the learner already knows is the single most important factor influencing learning. After this comprehensive treatment, how would you qualify or extend that claim? Is there a more precise formulation that better captures what you now understand?
@@ -545,7 +545,7 @@ The most productive open questions that remain after comprehensive treatment of 
 > > [!topic-idea] [[transfer-of-learning|Transfer of Learning]]
 > > Advance organizers were specifically found by Mayer to benefit transfer more than retention — which means understanding transfer is necessary for understanding the organizer's deepest contribution. A Foundational Report on transfer would cover Thorndike's identical elements theory, Gick & Holyoak's analogical transfer research, Bransford & Schwartz's preparation for future learning framework, and the conditions that make transfer near vs. far, near vs. spontaneous. **Priority: High** — flagged from multiple PKB nodes; central to the applied value of learning science.
 >
-> > [!topic-idea] [[cognitive-load-theory|Cognitive Load Theory]]
+> > [!topic-idea] [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 > > Flagged as high-priority across Schema Theory, Metacognition, and this report. CLT provides the most mechanistically precise account of why advance organizers and prior knowledge activation produce their benefits — by reducing intrinsic load and enabling germane load to be allocated to schema construction. A full Foundational Report on CLT would cover Sweller's three load types, the expertise reversal effect (which directly explains why organizers don't help experts), and the worked examples effect. **Priority: High** — essential for the PKB's mechanistic layer.
 >
 > > [!topic-idea] [[Retrieval-Practice-&-Testing-Effect|Retrieval Practice & Testing Effect]]

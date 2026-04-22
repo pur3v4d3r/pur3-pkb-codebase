@@ -70,7 +70,7 @@ builds_on:
 
 #### 1.1 Knowledge Representation
 
-- **[[schema-theory]]** — Knowledge is organized in structured mental templates (schemas) that filter, organize, and reconstruct incoming information. Schemas are hierarchically nested, contextually activated, and resistant to disconfirming evidence. [Source: Report 01] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[schema-theory-and-knowledge-organization]]** — Knowledge is organized in structured mental templates (schemas) that filter, organize, and reconstruct incoming information. Schemas are hierarchically nested, contextually activated, and resistant to disconfirming evidence. [Source: Report 01] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[assimilation]] — Integrating new information into existing schemas without structural change [Report 03]
   - [[accommodation]] — Restructuring existing schemas to incorporate fundamentally new information [Report 03]
   - [[conceptual-change]] — Deep restructuring of domain-level schemas, requiring sustained cognitive conflict [Report 03]
@@ -84,27 +84,27 @@ builds_on:
 
 #### 1.2 Memory Systems
 
-- **[[cognitive-load-theory]]** — Working memory is limited (~4 chunks); instructional design must manage intrinsic load (inherent complexity), minimize extraneous load (poor design), and optimize germane load (schema construction effort). [Source: Report 02, Sweller 1988] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[Cognitive Load Theory (CLT)]]** — Working memory is limited (~4 chunks); instructional design must manage intrinsic load (inherent complexity), minimize extraneous load (poor design), and optimize germane load (schema construction effort). [Source: Report 02, Sweller 1988] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Intrinsic-Load]] — Cognitive demand inherent in the material's element interactivity [Report 02]
   - [[extraneous-load]] — Cognitive demand caused by poor design, not content complexity [Report 02]
-  - [[germane-load]] — Cognitive resources devoted to schema construction and automation [Report 02]
+  - [[Cognitive Load Theory (CLT)]] — Cognitive resources devoted to schema construction and automation [Report 02]
 
 - **[[Testing-Effect]]** — Retrieving information from memory strengthens that memory more than restudying the same information. Meta-analytic effect size d = 0.50 (Rowland 2014). [Source: Report 06, 20] [Status: <span style='color: #27FF00;'>Established</span>]
 
-- **[[spacing-effect]]** — Distributing practice over time produces substantially better retention than massing practice. Rated "high utility" alongside practice testing (Dunlosky et al. 2013). [Source: Report 06, 16] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Distributing practice over time produces substantially better retention than massing practice. Rated "high utility" alongside practice testing (Dunlosky et al. 2013). [Source: Report 06, 16] [Status: <span style='color: #27FF00;'>Established</span>]
 
-- **[[desirable-difficulties]]** — Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: testing, spacing, interleaving, generation. [Source: Report 16, Bjork 1994] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Learning conditions that impede short-term performance but enhance long-term retention and transfer. Core instances: testing, spacing, interleaving, generation. [Source: Report 16, Bjork 1994] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[generation-effect]] — Self-generating information produces stronger memory traces than reading [Report 16, 17]
-  - [[interleaving]] — Alternating between problem types during practice enhances discriminative contrast and transfer [Report 16]
-  - [[retrieval-practice]] — Systematic practice of pulling information from memory rather than re-exposing to it [Report 20]
+  - [[Desirable Difficulties (Robert Bjork, 1994)]] — Alternating between problem types during practice enhances discriminative contrast and transfer [Report 16]
+  - [[Desirable Difficulties (Robert Bjork, 1994)]] — Systematic practice of pulling information from memory rather than re-exposing to it [Report 20]
 
-- **[[fluency-illusion]]** — Metacognitive error where ease of processing is mistaken for genuine understanding. Universal PKM failure mode amplified by AI-generated content. [Source: Report 18, 30] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[Fluency Illusion]]** — Metacognitive error where ease of processing is mistaken for genuine understanding. Universal PKM failure mode amplified by AI-generated content. [Source: Report 18, 30] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Epistemic Counterfeiting]] — AI-generated text triggers fluency illusion in both creator and reader, producing the appearance of knowledge without substance [Report 30] [Status: <span style='color: #FFC700;'>Emerging synthesis</span>]
 
 #### 1.3 Expert Knowledge Organization
 
 - **[[Expert-Knowledge-Organization]]** — Expert knowledge differs from novice knowledge qualitatively, not just quantitatively: hierarchically deeper, more cross-connected, organized around structural principles rather than surface features. [Source: Report 01, 15] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[chunking]] — Experts compress complex patterns into single retrievable units through extensive practice [Report 01]
+  - [[Chunk (Miller, 1956; Chase & Simon, 1973)]] — Experts compress complex patterns into single retrievable units through extensive practice [Report 01]
   - [[Pattern-Recognition]] — Experts perceive domain-relevant patterns invisible to novices [Report 01]
 
 ---
@@ -119,7 +119,7 @@ builds_on:
   - [[zone-of-proximal-development]] — The gap between independent capability and guided capability; learning optimally targets this zone [Vygotsky, Report 10]
 
 - **[[Scaffolding and Fading]]** — Providing structured support that is systematically withdrawn as competence develops. [Source: Report 10] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[expertise-reversal-effect]] — Instructional support beneficial for novices becomes counterproductive for experts [Report 10]
+  - [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] — Instructional support beneficial for novices becomes counterproductive for experts [Report 10]
 
 #### 2.2 Self-Regulation & Metacognition
 
@@ -216,7 +216,7 @@ builds_on:
 
 #### 5.1 Epistemology
 
-- **[[extended-mind-theory]]** — Cognitive processes extend beyond the brain when external structures (like a PKB) meet coupling conditions: reliability, accessibility, automatic endorsement, prior endorsement. [Source: Report 28, Clark & Chalmers 1998] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
+- **[[Extended Mind Thesis (Clark & Chalmers, 1998)]]** — Cognitive processes extend beyond the brain when external structures (like a PKB) meet coupling conditions: reliability, accessibility, automatic endorsement, prior endorsement. [Source: Report 28, Clark & Chalmers 1998] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
 
 - **[[virtue-epistemology]]** — Knowledge production as exercise of intellectual virtues: curiosity, humility, thoroughness, fairness, courage. [Source: Report 28, 29] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
 
@@ -236,33 +236,33 @@ builds_on:
 
 | Concept A | Relationship | Concept B | Strength | Source |
 |-----------|-------------|-----------|----------|--------|
-| [[schema-theory]] | *provides architecture for* | [[Cognitive Architecture Isomorphism]] | Strong | R01→R09 |
-| [[desirable-difficulties]] | *provides mechanism for* | [[Active-Construction-Imperative]] | Strong | R16→R27 |
+| [[schema-theory-and-knowledge-organization]] | *provides architecture for* | [[Cognitive Architecture Isomorphism]] | Strong | R01→R09 |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | *provides mechanism for* | [[Active-Construction-Imperative]] | Strong | R16→R27 |
 | [[self-regulated-learning]] | *operationalized as* | [[Regulatory Embedding]] | Strong | R04→R27 |
-| [[Testing-Effect]] | *implements* | [[retrieval-practice]] | Strong | R06→R20 |
-| [[fluency-illusion]] | *amplified by* | [[Epistemic Counterfeiting]] | Strong | R18→R30 |
-| [[fluency-illusion]] | *countered by* | [[calibration]] | Strong | R18 |
+| [[Testing-Effect]] | *implements* | [[Desirable Difficulties (Robert Bjork, 1994)]] | Strong | R06→R20 |
+| [[Fluency Illusion]] | *amplified by* | [[Epistemic Counterfeiting]] | Strong | R18→R30 |
+| [[Fluency Illusion]] | *countered by* | [[calibration]] | Strong | R18 |
 | [[Small-World-Networks]] | *diagnoses* | [[Accumulation Problem]] | Strong | R25 |
 | [[Faceted-Classification]] | *converges with* | [[Basic-Level-Categories]] | Moderate | R15 |
 | [[heutagogy]] | *extends* | [[self-determination-theory]] | Moderate | R24→R05 |
 | [[Scaffolding and Fading]] | *resolves* | Structure vs. Autonomy Tension | Moderate | R10 |
 | [[Cognitive Partnership Model]] | *operationalizes* | [[Offloading Quality Distinction]] | Moderate | R30 |
 | [[SECI-Model]] | *maps onto* | Capture-Process-Integrate pipeline | Moderate | R22→R09 |
-| [[constructivism]] | *requires* | [[desirable-difficulties]] | Moderate | R03→R16 |
+| [[constructivism]] | *requires* | [[Desirable Difficulties (Robert Bjork, 1994)]] | Moderate | R03→R16 |
 | [[Kolb's Learning Cycle]] | *parallels* | [[Zimmerman's SRL Cycle]] | Moderate | R08, R04 |
 | [[integration-metabolism]] | *addresses* | [[Accumulation Problem]] | Strong | R27→R25 |
 | [[spreading-activation]] | *maps to* | Wiki-link navigation patterns | Strong | R01→R09 |
-| [[Stoic Discipline]] | *supports persistence through* | [[desirable-difficulties]] | Suggestive | R13→R16 |
-| [[extended-mind-theory]] | *grounds* | PKB as cognitive extension | Moderate | R28 |
+| [[Stoic Discipline]] | *supports persistence through* | [[Desirable Difficulties (Robert Bjork, 1994)]] | Suggestive | R13→R16 |
+| [[Extended Mind Thesis (Clark & Chalmers, 1998)]] | *grounds* | PKB as cognitive extension | Moderate | R28 |
 | [[Interest-Development-Theory]] | *resolves* | Motivational sustainability | Moderate | R19 |
-| [[expertise-reversal-effect]] | *motivates* | [[RP1: Evolutionary Architecture]] | Strong | R10→R27 |
+| [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] | *motivates* | [[RP1: Evolutionary Architecture]] | Strong | R10→R27 |
 
 ---
 
 ## Hub Concepts (Most Connected — ≥5 connections)
 
-1. **[[desirable-difficulties]]** — Connects to: Testing Effect, Spacing Effect, Generation Effect, Interleaving, Fluency Illusion, Active Construction, Constructivism, Cognitive Partnership Model, Stoic Discipline, Note-Making
-2. **[[fluency-illusion]]** — Connects to: Calibration, Dunning-Kruger, Epistemic Counterfeiting, Desirable Difficulties, Metacognitive Monitoring, Retrieval Practice, AI Integration
+1. **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Connects to: Testing Effect, Spacing Effect, Generation Effect, Interleaving, Fluency Illusion, Active Construction, Constructivism, Cognitive Partnership Model, Stoic Discipline, Note-Making
+2. **[[Fluency Illusion]]** — Connects to: Calibration, Dunning-Kruger, Epistemic Counterfeiting, Desirable Difficulties, Metacognitive Monitoring, Retrieval Practice, AI Integration
 3. **[[self-regulated-learning]]** — Connects to: Metacognitive Monitoring, Calibration, Regulatory Embedding, Feedback Loops, Reflective Practice, Zimmerman's SRL Cycle
 4. **[[Cognitive Architecture Isomorphism]]** — Connects to: Schema Theory, Semantic Networks, CLT, Expert Knowledge Organization, Information Foraging, SECI Model, Note Architecture, Linking Philosophy
 5. **[[constructivism]]** — Connects to: Accommodation, Conceptual Change, ZPD, Active Construction, Desirable Difficulties, Note-Making, Elaborative Interrogation
@@ -273,7 +273,7 @@ builds_on:
 1. **[[Cognitive Partnership Model]]** — Bridges: AI/Technology ↔ Learning Science ↔ Socratic Philosophy
 2. **[[SECI-Model]]** — Bridges: Knowledge Management ↔ Cognitive Science ↔ PKB Design
 3. **[[Stoic Discipline]]** — Bridges: Philosophy ↔ Emotional Regulation ↔ Learning Resilience
-4. **[[extended-mind-theory]]** — Bridges: Philosophy of Mind ↔ PKB Design ↔ AI Integration
+4. **[[Extended Mind Thesis (Clark & Chalmers, 1998)]]** — Bridges: Philosophy of Mind ↔ PKB Design ↔ AI Integration
 5. **[[Basic-Level-Categories]]** — Bridges: Cognitive Psychology (Rosch) ↔ Library Science (Ranganathan)
 
 ## Orphan Concepts (Weakly Connected — Needs Integration)

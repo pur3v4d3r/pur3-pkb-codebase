@@ -792,10 +792,10 @@ Explicitly connect concepts to foundational mental models.
 <bidirectional_application>
 ### Two-Way Model Use
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[cognitive-load-theory]]?"
+"How does [[First Principles Thinking]] illuminate [[Cognitive Load Theory (CLT)]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 **Concept → Lens** (Projection):
-"How can [[cognitive-load-theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[Cognitive Load Theory (CLT)]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 <generation_guidelines>
@@ -917,7 +917,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Research Methods in Cogsci]] — study interpretation
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[cognitive-load-theory]] — primary extension
+> - [[Cognitive Load Theory (CLT)]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
@@ -1419,7 +1419,7 @@ Remember: This is a REFERENCE NOTE, not a guide or article. Exhaustiveness and o
 
 1. **Topic Focus**: What specific topic would you like to generate a reference note on? (This will allow me to simulate or refine the Tree-of-Thoughts search branches.)
 
-2. **PKB Context**: Do you have an existing knowledge base structure or set of core concepts (e.g., [[Second-Order Thinking]], [[cognitive-load-theory]]) that this should integrate with?
+2. **PKB Context**: Do you have an existing knowledge base structure or set of core concepts (e.g., [[Second-Order Thinking]], [[Cognitive Load Theory (CLT)]]) that this should integrate with?
 
 3. **Depth vs. Breadth Priority**: Should the Tree-of-Thoughts prioritize *depth* (deep dives into sub-branches) or *breadth* (wide coverage with lighter treatment)?
 
@@ -1693,7 +1693,7 @@ Follow the full output scaffold below.
 >  
 > Explicitly analyze how this topic connects to broader PKM and cognitive science concepts:  
 > - [[Second-Order Thinking]] → enhances prompt design by anticipating model behavior  
-> - [[cognitive-load-theory]] → informs clarity and structure of prompts  
+> - [[Cognitive Load Theory (CLT)]] → informs clarity and structure of prompts  
 > - [[Systems-Thinking]] → models LLMs as components in knowledge workflows  
 > - [[First Principles]] → enables deconstruction of prompt failures  
 > - [[spaced-practice]] → suggests iterative refinement cycles  
@@ -1852,7 +1852,7 @@ prerequisites:
     - "[[Language Models Overview]]"
     - "[[Basic Prompting Patterns]]"
   soft:
-    - "[[cognitive-load-theory]]"
+    - "[[Cognitive Load Theory (CLT)]]"
     - "[[Information-Architecture]]"
 enables:
   direct:

@@ -256,7 +256,7 @@ SORT date DESC
 > - [[Zimmerman's-Cyclical-SRL-Model]] — This log is a direct implementation of the Calibration Engine synthesis
 > - [[metacognitive-calibration]] — Calibration is the emergent output tracked by this log
 > - [[metacognitive-monitoring]] — Monitoring accuracy is what the prediction-outcome comparison measures
-> - [[attribution-theory]] — Attribution patterns tracked here reveal the quality of the Self-Reflection Phase
+> - [[Attribution (Heider, 1958)]] — Attribution patterns tracked here reveal the quality of the Self-Reflection Phase
 > - [[self-efficacy]] — Self-efficacy is a dynamic output of the cycle, not a stable input — this log reveals its trajectory
 > - [[the-fluency-illusion]] — Overconfident predictions are the primary signature of fluency illusion effects
 > - [[deliberate-practice]] — The log enables the feedback quality that distinguishes deliberate practice from mere repetition

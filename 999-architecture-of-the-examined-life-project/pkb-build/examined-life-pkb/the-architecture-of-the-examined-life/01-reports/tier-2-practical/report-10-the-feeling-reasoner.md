@@ -167,7 +167,7 @@ prerequisites:
   - "[[Interoception and Interoceptive Inference]]"
   - "[[metacognitive-monitoring|Metacognitive Monitoring]]"
   - "[[Stoic Philosophy — Epictetus]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
 
 related:
   - "[[emotional-intelligence|Emotional Intelligence]]"

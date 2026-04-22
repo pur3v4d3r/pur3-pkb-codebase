@@ -68,7 +68,7 @@ related_reports:
   - "memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11"
   - "metacognition-in-learning-focused-analysis-2026-03-20"
 link-related:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[working-memory]]"
   - "[[dual-process-theory]]"
   - "[[embodied-cognition]]"
@@ -79,7 +79,7 @@ link-related:
 
 ## Abstract
 
-This deep dive report examines a deceptively simple question with surprising cognitive depth: **what happens inside [[working-memory]] when a person walks and reads simultaneously?** The question sits at the intersection of [[dual-process-theory]], [[cognitive-load-theory]], exercise-cognition science, and [[embodied-cognition]] — and the answer turns out to be far more nuanced than either "walking helps thinking" or "walking hurts reading" suggests.
+This deep dive report examines a deceptively simple question with surprising cognitive depth: **what happens inside [[working-memory]] when a person walks and reads simultaneously?** The question sits at the intersection of [[dual-process-theory]], [[Cognitive Load Theory (CLT)]], exercise-cognition science, and [[embodied-cognition]] — and the answer turns out to be far more nuanced than either "walking helps thinking" or "walking hurts reading" suggests.
 
 The report takes as its narrow focus the **real-time resource competition** between locomotion control and academic text comprehension within the architecture of [[Baddeley's-Working-Memory-Model]]. It does not survey the broad literature on exercise and brain health, nor does it address chronic training adaptations or treadmill desk ergonomics. Instead, it drills into the specific cognitive mechanisms that determine whether walking during reading **competes with, is neutral to, or actually enhances** the comprehension of dense academic material — and under what precise conditions each outcome obtains.
 
@@ -112,9 +112,9 @@ The intended audience is a serious self-directed learner who reads dense academi
 > - Treadmill desk ergonomics and occupational health research
 > - Motor learning and sport-specific skill acquisition
 >
-> **Intended audience:** Specialists and serious investigators with existing knowledge of [[cognitive-load-theory]], [[working-memory]], and [[self-regulated-learning]].
+> **Intended audience:** Specialists and serious investigators with existing knowledge of [[Cognitive Load Theory (CLT)]], [[working-memory]], and [[self-regulated-learning]].
 >
-> **Prerequisites:** Basic familiarity with Baddeley's multi-component model of working memory, the distinction between [[intrinsic-cognitive-load]], [[extraneous-cognitive-load]], and [[germane-cognitive-load]], and the concept of [[automaticity]] in cognitive processing.
+> **Prerequisites:** Basic familiarity with Baddeley's multi-component model of working memory, the distinction between [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], and [[Cognitive Load Theory (CLT)]], and the concept of [[automaticity]] in cognitive processing.
 >
 > **Why narrow scope matters:** A Deep Dive earns its value through exhaustive treatment of a focused subject. Broader coverage of exercise-cognition interaction is available in foundational report formats. This report assumes the reader already has general familiarity with cognitive architecture and wants to GO DEEP on the specific question of what happens to reading comprehension when you add locomotion to the task demands.
 
@@ -208,7 +208,7 @@ At Surface level, we have established three things:
 2. **The standard multitasking frame** predicts interference, but relies on assumptions about resource sharing that may not apply uniformly.
 3. **An unresolved paradox** exists between the resource-cost prediction and the arousal-benefit experience.
 
-What the surface *hides* is the specific architectural answer: which components of [[working-memory]] are engaged by each task, whether they overlap, what the automaticity gradient of locomotion accomplishes, and how [[Arousal]] modulation interacts with [[cognitive-load]] in real time. These are the questions that require progressively deeper magnification to answer.
+What the surface *hides* is the specific architectural answer: which components of [[working-memory]] are engaged by each task, whether they overlap, what the automaticity gradient of locomotion accomplishes, and how [[Arousal]] modulation interacts with [[Cognitive Load Theory (CLT)]] in real time. These are the questions that require progressively deeper magnification to answer.
 
 > [!section-summary] **Level 1 Summary**
 > At surface level, walking-while-reading appears to be a multitasking problem — two tasks competing for the same cognitive resources. The folk experience suggests walking helps, while the standard dual-task prediction says it should hurt. The paradox between these two perspectives is real and cannot be resolved without examining the specific architecture of working memory resource allocation. The next level will zoom into that architecture.
@@ -328,9 +328,9 @@ The MRT analysis is even more optimistic than the Baddeley analysis. Walking-whi
 >
 > Even if walking makes minimal demands on WM slave subsystems, the mere *maintenance of a secondary task goal* ("keep walking, turn around at the walls") occupies some CE capacity. This is the residual dual-task cost that structural compatibility cannot eliminate — sometimes called the **"task-set maintenance cost"** or the **"concurrence cost."**
 >
-> **When the distinction matters:** During the most [[central-executive]]-demanding moments of reading — processing syntactically complex sentences, integrating new information with existing [[schema-theory|schemas]], monitoring comprehension failure — the residual CE cost of walking-task-maintenance may spike briefly. These are the micro-moments where dual-task cost is concentrated.
+> **When the distinction matters:** During the most [[central-executive]]-demanding moments of reading — processing syntactically complex sentences, integrating new information with existing [[schema-theory-and-knowledge-organization|schemas]], monitoring comprehension failure — the residual CE cost of walking-task-maintenance may spike briefly. These are the micro-moments where dual-task cost is concentrated.
 >
-> **When it doesn't:** During fluent reading of moderately demanding material where the reader's [[schema-theory|existing schemas]] are strong, the CE has headroom and the concurrence cost is negligible.
+> **When it doesn't:** During fluent reading of moderately demanding material where the reader's [[schema-theory-and-knowledge-organization|existing schemas]] are strong, the CE has headroom and the concurrence cost is negligible.
 
 ### The Automaticity Gradient: Where the Mechanism Gets Interesting
 
@@ -398,7 +398,7 @@ The reading side of the dual task is implemented by a largely distinct set of co
 >
 > **Phonological processing:** Left superior temporal gyrus (Wernicke's area), left inferior frontal gyrus (Broca's area/pars opercularis). These regions implement the [[phonological-loop]] — converting visual word forms into phonological representations and maintaining them for sentence-level processing. Engagement is automatic for skilled readers, but the *capacity* of this system is limited — hence the phonological loop's storage limitation of ~2 seconds of auditory-verbal material.
 >
-> **Semantic processing:** Left anterior temporal lobe, left angular gyrus, left inferior frontal gyrus (pars triangularis). These regions map phonological representations onto meaning, access semantic associations, and build proposition-level representations. This is where vocabulary knowledge and [[schema-theory|existing schemas]] are engaged.
+> **Semantic processing:** Left anterior temporal lobe, left angular gyrus, left inferior frontal gyrus (pars triangularis). These regions map phonological representations onto meaning, access semantic associations, and build proposition-level representations. This is where vocabulary knowledge and [[schema-theory-and-knowledge-organization|existing schemas]] are engaged.
 >
 > **Sentence-level integration:** Left inferior frontal gyrus (Broca's area), left posterior temporal cortex. These regions handle syntactic parsing, thematic role assignment, and the maintenance of sentence-level representations in working memory.
 >
@@ -609,7 +609,7 @@ If [[transient-hypofrontality]] is correct, then exercise should *impair* prefro
 ### Task Difficulty × Exercise Intensity: The Interaction Dynamics
 
 > [!technical-detail] **Technical Detail: The Task Difficulty Interaction**
-> The net effect of walking on reading is not static — it changes dynamically as reading difficulty fluctuates. Academic texts are not uniformly difficult; they contain passages of varying complexity, some building on well-established [[schema-theory|schemas]] and some introducing genuinely novel concepts that require heavy [[central-executive]] processing.
+> The net effect of walking on reading is not static — it changes dynamically as reading difficulty fluctuates. Academic texts are not uniformly difficult; they contain passages of varying complexity, some building on well-established [[schema-theory-and-knowledge-organization|schemas]] and some introducing genuinely novel concepts that require heavy [[central-executive]] processing.
 >
 > The dynamic interaction works as follows:
 >
@@ -767,13 +767,13 @@ If [[transient-hypofrontality]] is correct, then exercise should *impair* prefro
 > **Why this matters:** This edge case reveals a particularly insidious failure mode of walking-while-reading: the **metacognitive blind spot.** The very arousal benefit that makes walking-while-reading feel good can mask the comprehension failure that occurs when material exceeds the difficulty ceiling. The reader feels alert and engaged (arousal is high) while actually comprehending poorly (WM is overloaded). The feeling of good comprehension and the reality of good comprehension **decorrelate** precisely when the stakes are highest.
 >
 > **Implications:** Walking readers of dense academic material should build in **comprehension checks** that do not rely on online metacognitive monitoring. Examples:
-> - Periodic "explain what I just read to myself" pauses (forces [[retrieval-practice]])
+> - Periodic "explain what I just read to myself" pauses (forces [[Desirable Difficulties (Robert Bjork, 1994)]])
 > - Specific stopping points tied to section breaks (structural rather than monitoring-based)
 > - Post-walking review of highlighted passages to test actual comprehension
 > - The hybrid walk-then-sit protocol with explicit re-reading at the desk
 
 > [!warning] **Specialist-Level Pitfall: The Fluency-Comprehension Dissociation**
-> This edge case instantiates a well-documented phenomenon in reading research: the **fluency-comprehension dissociation**. Reading fluency (the smooth, rapid processing of text at the word and sentence level) can be maintained even when discourse-level comprehension has failed. The reader's eyes continue moving, words continue being recognized, but the higher-level meaning is not being constructed. Walking-while-reading exacerbates this dissociation because the arousal benefit sustains fluency while the dual-task cost impairs discourse integration — a precise recipe for the illusion of learning without actual learning. See [[Illusions-of-Competence]] and [[desirable-difficulties]] for related concepts.
+> This edge case instantiates a well-documented phenomenon in reading research: the **fluency-comprehension dissociation**. Reading fluency (the smooth, rapid processing of text at the word and sentence level) can be maintained even when discourse-level comprehension has failed. The reader's eyes continue moving, words continue being recognized, but the higher-level meaning is not being constructed. Walking-while-reading exacerbates this dissociation because the arousal benefit sustains fluency while the dual-task cost impairs discourse integration — a precise recipe for the illusion of learning without actual learning. See [[Illusions-of-Competence]] and [[Desirable Difficulties (Robert Bjork, 1994)]] for related concepts.
 
 ### Edge Case 5: The Habituation Paradox — When Automaticity Generates Its Own Problems
 
@@ -791,7 +791,7 @@ If [[transient-hypofrontality]] is correct, then exercise should *impair* prefro
 >
 > **Why this matters:** The general model's prediction that "more automatic walking = always better" has a ceiling. Past a certain automaticity threshold, the benefit of reduced CE competition may be partially offset by increased DMN-mediated mind-wandering. The practical implication is that walking routes should be habituated enough to minimize CE cost but perhaps not SO habituated that they become meditative.
 >
-> **Implications:** Varying the walking route slightly (different rooms, different path patterns) may prevent extreme habituation while preserving the benefits of moderate automaticity. This is the walking-reading analogue of the [[desirable-difficulties]] principle — a small amount of novelty in the motor task may be cognitively beneficial because it keeps the DMN suppressed without engaging the CE.
+> **Implications:** Varying the walking route slightly (different rooms, different path patterns) may prevent extreme habituation while preserving the benefits of moderate automaticity. This is the walking-reading analogue of the [[Desirable Difficulties (Robert Bjork, 1994)]] principle — a small amount of novelty in the motor task may be cognitively beneficial because it keeps the DMN suppressed without engaging the CE.
 
 > [!nuance] **Important Nuance: The DMN-Suppression Effect of Active Motor Tasks**
 > The relationship between walking and DMN is more complex than "automatic walking activates DMN." Active motor tasks, even highly automated ones, produce some DMN suppression compared to motionless rest. The key question is whether the DMN suppression from walking is **greater or less** than the DMN suppression from the reading task itself. For engaged reading of interesting material, the reading task alone suppresses DMN effectively. For reading of difficult but dry material (where engagement might flag), walking-induced DMN suppression might be a genuine benefit. This creates another moderation variable: the **interest level** of the reading material.
@@ -994,7 +994,7 @@ Synthesizing across all magnification levels, the following protocol emerges as 
 >   - Extract key claims and concepts into atomic notes or literature notes
 >   - Engage in elaborative processing: explain concepts in own words, make connections to existing knowledge
 >   - Process the high-difficulty passages that were identified during Phase 1 as exceeding the walking-compatible difficulty ceiling
-> - **Goal:** Deep comprehension, [[schema-construction]], and externalization into the PKB
+> - **Goal:** Deep comprehension, [[Schema Construction]], and externalization into the PKB
 > - **Advantage:** Full [[central-executive]] capacity (no dual-task cost) + elevated arousal (post-exercise window) = optimal conditions for [[deep-processing]]
 >
 > **Phase 3 — Repeat or Conclude:**
@@ -1136,7 +1136,7 @@ Synthesizing across all magnification levels, the following protocol emerges as 
 >
 > - **Listening to podcasts while running:** Similar resource overlap analysis. Running is more [[central-executive]]-demanding than indoor walking (terrain, balance, navigation), so the CE cost is higher. Auditory material loads the [[phonological-loop]] heavily. The dual-task cost will be larger than walking-reading. The hybrid protocol applies: listen during the run (first-pass exposure), re-listen and note-make after sitting down.
 > - **Standing desk with cognitive work:** Very low motor demand (standing is more automated than walking), but removes the arousal benefit of movement. Likely inferior to walking for arousal regulation, superior for eliminating dual-task cost. A standing-walking-sitting cycle might be optimal.
-> - **Cycling on a stationary bike while studying:** Higher [[cognitive-load]] from cycling than walking (pedaling rhythm requires more proprioceptive monitoring than habituated walking), but intensity is more controllable. The inverted-U dynamics of Level 4 apply directly — keep intensity low enough that the ascending arousal limb dominates without engaging [[transient-hypofrontality]].
+> - **Cycling on a stationary bike while studying:** Higher [[Cognitive Load Theory (CLT)]] from cycling than walking (pedaling rhythm requires more proprioceptive monitoring than habituated walking), but intensity is more controllable. The inverted-U dynamics of Level 4 apply directly — keep intensity low enough that the ascending arousal limb dominates without engaging [[transient-hypofrontality]].
 >
 > **The transferable principle:** For any physical-cognitive dual task, map the four Wickens dimensions (processing stage, perceptual modality, visual channel, response code), assess the automaticity level of the physical task, locate the physical intensity on the catecholamine inverted-U, and check for the metacognitive blind spot. This gives you the full picture without needing a separate Deep Dive for each activity.
 
@@ -1202,7 +1202,7 @@ Seven levels of progressive magnification have transformed the surface question 
 > [!claude-insight] **Claude's Specialist Recommendations**
 > For the serious investigator continuing in this area, the following directions are most productive:
 >
-> 1. **Self-experimentation with comprehension measurement.** The walking reader should conduct their own N=1 trial: read comparable materials while walking and while sitting (using the hybrid protocol), then test comprehension through [[retrieval-practice]] (free recall or note-making quality assessment). This directly measures what the research literature has not measured for this specific use case.
+> 1. **Self-experimentation with comprehension measurement.** The walking reader should conduct their own N=1 trial: read comparable materials while walking and while sitting (using the hybrid protocol), then test comprehension through [[Desirable Difficulties (Robert Bjork, 1994)]] (free recall or note-making quality assessment). This directly measures what the research literature has not measured for this specific use case.
 >
 > 2. **Metacognitive calibration.** Before each reading session, predict comprehension; after, test it. Track the calibration gap between predicted and actual comprehension during walking vs. sitting. If walking consistently shows a larger calibration gap, the fluency-comprehension dissociation (Edge Case 4) is confirmed for your case.
 >
@@ -1230,16 +1230,16 @@ This Deep Dive demonstrates why depth matters for personally relevant cognitive 
 | 2 | **Central Pattern Generator (CPG)** | A neural circuit in the spinal cord that produces rhythmic motor outputs (e.g., the alternating leg-extension/flexion cycle of walking) without requiring continuous input from higher brain centers. CPGs are the foundation of walking's automaticity — they generate the basic locomotor rhythm autonomously, freeing cortical resources for other tasks. | Level 3 | [[automaticity]], [[motor-learning]] |
 | 3 | **Catecholamine Inverted-U** | The dose-response relationship between catecholamine levels (primarily [[Norepinephrine]] and [[Dopamine]]) and prefrontal cortex function, described by Arnsten (2009). Low catecholamines → poor PFC function (inattention, mind-wandering). Moderate catecholamines → optimal PFC function (focused attention, strong WM). High catecholamines → impaired PFC function (stress response, rigid thinking). Walking-pace exercise induces moderate elevation, placing the walker on the ascending limb. | Level 4 | [[yerkes-dodson-law]], [[Arousal]], [[prefrontal-cortex]] |
 | 4 | **Transient Hypofrontality** | Dietrich's (2003, 2006) theory that during exercise, metabolic resources are redistributed away from the prefrontal cortex toward motor and sensory regions, temporarily reducing PFC-dependent cognitive functions (executive control, deliberate reasoning). Applies primarily at moderate-to-high exercise intensities; at walking pace, the catecholamine benefit likely dominates over the hypofrontality cost. | Level 4 | [[Cognitive-Control]], [[neural-efficiency]] |
-| 5 | **Multiple Resource Theory (MRT)** | Wickens' (1984, 2002) model proposing that attentional resources are not a single pool but are structured across four dimensions: processing stage, perceptual modality, visual channel, and response code. Tasks compete for resources only when they overlap on one or more dimensions. Walking and reading show LOW overlap on all four dimensions, predicting minimal interference. | Level 2 | [[attention]], [[dual-process-theory]], [[cognitive-load-theory]] |
-| 6 | **Automaticity Gradient** | The continuum from fully controlled (CE-demanding, slow, capacity-limited) to fully automatic (CE-free, fast, capacity-unlimited) processing. Skills move along this gradient through practice. Walking in habituated indoor environments sits very near the automatic end; reading academic text sits on the controlled end. The gradient determines the DE dual-task cost profile. | Level 2-3 | [[automaticity]], [[schema-automation]], [[Skill-Acquisition]] |
-| 7 | **Fluency-Comprehension Dissociation** | The phenomenon where a reader maintains perceptual fluency (smooth eye-movement, page-turning, word decoding) while failing to achieve deep comprehension (discourse integration, inference generation, schema modification). In the walking-reading context, this dissociation is dangerous because fluency serves as a metacognitive cue for comprehension — the reader feels like they are understanding because they are reading smoothly, but deep processing has degraded at difficulty thresholds. | Level 5 (Edge Case 4) | [[metacognition]], [[metacognitive-monitoring]], [[desirable-difficulties]] |
-| 8 | **Discourse-Level Processing** | The highest level of text comprehension, involving integration across sentences and paragraphs, inference generation, situation model construction, and coherence monitoring. Distinguished from word-level processing (decoding) and sentence-level processing (syntactic parsing, propositional extraction). Discourse-level processing is the most CE-demanding reading function and the most vulnerable to dual-task interference. | Level 2-3 | [[deep-processing]], [[levels-of-processing-theory]], [[schema-theory]] |
+| 5 | **Multiple Resource Theory (MRT)** | Wickens' (1984, 2002) model proposing that attentional resources are not a single pool but are structured across four dimensions: processing stage, perceptual modality, visual channel, and response code. Tasks compete for resources only when they overlap on one or more dimensions. Walking and reading show LOW overlap on all four dimensions, predicting minimal interference. | Level 2 | [[attention]], [[dual-process-theory]], [[Cognitive Load Theory (CLT)]] |
+| 6 | **Automaticity Gradient** | The continuum from fully controlled (CE-demanding, slow, capacity-limited) to fully automatic (CE-free, fast, capacity-unlimited) processing. Skills move along this gradient through practice. Walking in habituated indoor environments sits very near the automatic end; reading academic text sits on the controlled end. The gradient determines the DE dual-task cost profile. | Level 2-3 | [[automaticity]], [[Schema Automation]], [[Skill-Acquisition]] |
+| 7 | **Fluency-Comprehension Dissociation** | The phenomenon where a reader maintains perceptual fluency (smooth eye-movement, page-turning, word decoding) while failing to achieve deep comprehension (discourse integration, inference generation, schema modification). In the walking-reading context, this dissociation is dangerous because fluency serves as a metacognitive cue for comprehension — the reader feels like they are understanding because they are reading smoothly, but deep processing has degraded at difficulty thresholds. | Level 5 (Edge Case 4) | [[metacognition]], [[metacognitive-monitoring]], [[Desirable Difficulties (Robert Bjork, 1994)]] |
+| 8 | **Discourse-Level Processing** | The highest level of text comprehension, involving integration across sentences and paragraphs, inference generation, situation model construction, and coherence monitoring. Distinguished from word-level processing (decoding) and sentence-level processing (syntactic parsing, propositional extraction). Discourse-level processing is the most CE-demanding reading function and the most vulnerable to dual-task interference. | Level 2-3 | [[deep-processing]], [[levels-of-processing-theory]], [[schema-theory-and-knowledge-organization]] |
 | 9 | **Post-Exercise Catecholamine Window** | The period (approximately 15-60 minutes) following exercise cessation during which elevated catecholamine levels persist. During this window, the arousal benefit of exercise is maintained WITHOUT the dual-task cost of concurrent physical activity. This temporal asymmetry is the mechanistic foundation of the hybrid walk-then-sit protocol. | Level 4, Level 7 | [[memory-consolidation]], [[encoding-specificity]] |
 | 10 | **Turning-Point Micro-Disruption** | The brief spike in CE demand that occurs when a habituated walker reaches the end of their walking path and must reverse direction. Even in hyper-habituated routes, turns require updated motor planning and spatial reorientation, briefly engaging the dorsolateral prefrontal cortex. These micro-disruptions punctuate otherwise automated walking and may coincide with brief comprehension dips during reading. | Level 3 (original insight) | [[central-executive]], [[Cognitive-Control]] |
 | 11 | **Arousal Regulation Hypothesis** | The speculative interpretation that some individuals (particularly those with [[ADHD]]-spectrum profiles or high sensation-seeking) use movement during cognitive work primarily as a means of maintaining optimal arousal rather than as an independent goal. Under this hypothesis, walking-while-reading is adaptive self-regulation: the reader walks because sitting produces suboptimal arousal for sustained reading. | Level 5 (Edge Case 3) | [[self-regulated-learning]], [[Flow-State]], [[Optimal-Challenge]] |
 | 12 | **Ecological Validity Problem** | The gap between laboratory exercise-cognition studies and real-world walking-reading practice. Lab studies typically use researcher-controlled treadmill speeds, simplified cognitive tasks (reaction time, n-back), and naive participants. Walking readers use self-paced indoor routes, complex authentic texts, and have months/years of practice. Findings from lab studies may not transfer directly. | Level 6 | [[Experimental-Design]], [[External-Validity-in-Research]] |
-| 13 | **Priming-Processing Two-Phase Model** | The speculative reframing (original to this report) that walking-reading is best understood not as a single behavior to evaluate but as the priming phase of a two-phase cognitive workflow. Walking serves as context-building, arousal regulation, and first-pass material exposure; sitting serves as deep processing, note-making, and knowledge integration. Optimization involves designing the two phases and their transitions, not evaluating either in isolation. | Level 7 (original synthesis) | [[active-note-making]], [[note-making-vs.-note-taking]], [[retrieval-practice]] |
-| 14 | **Working Memory Capacity (WMC) Cliff** | The discontinuous failure mode whereby a reader operating near their WM capacity limit experiences catastrophic comprehension failure (rather than gradual degradation) when a small additional load is imposed. In the walking-reading context, a reader with lower WMC may function adequately until a slight increase in text difficulty tips them over the cliff — an effect a higher-WMC reader would not experience at all. | Level 5 (Edge Case 1) | [[working-memory-capacity]], [[cognitive-load]], [[intrinsic-cognitive-load]] |
+| 13 | **Priming-Processing Two-Phase Model** | The speculative reframing (original to this report) that walking-reading is best understood not as a single behavior to evaluate but as the priming phase of a two-phase cognitive workflow. Walking serves as context-building, arousal regulation, and first-pass material exposure; sitting serves as deep processing, note-making, and knowledge integration. Optimization involves designing the two phases and their transitions, not evaluating either in isolation. | Level 7 (original synthesis) | [[active-note-making]], [[note-making-vs.-note-taking]], [[Desirable Difficulties (Robert Bjork, 1994)]] |
+| 14 | **Working Memory Capacity (WMC) Cliff** | The discontinuous failure mode whereby a reader operating near their WM capacity limit experiences catastrophic comprehension failure (rather than gradual degradation) when a small additional load is imposed. In the walking-reading context, a reader with lower WMC may function adequately until a slight increase in text difficulty tips them over the cliff — an effect a higher-WMC reader would not experience at all. | Level 5 (Edge Case 1) | [[working-memory-capacity]], [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]] |
 | 15 | **Embodied Reading** | The theoretical position (within the [[embodied-cognition]] and [[4e-cognition]] frameworks) that text comprehension involves activation of sensorimotor simulation systems — reading about actions activates motor representations, reading about space activates spatial representations. If correct, walking-pace motor activation could either facilitate embodied reading (by pre-activating the motor simulation system) or interfere with it (by occupying motor resources needed for simulation). Currently unresolved. | Level 6 (Frontier) | [[embodied-cognition]], [[Enactive-Cognition]], [[cognitive-psychology]] |
 
 ## 8.2 — Key Figures and Research Groups
@@ -1282,7 +1282,7 @@ This Deep Dive demonstrates why depth matters for personally relevant cognitive 
 | 3 | Baddeley, A. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423. | Primary theoretical | **Core reference** for WM architecture — Level 2 mechanism |
 | 4 | Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 8, pp. 47-89). | Foundational theoretical | The original WM model — historical foundation |
 | 5 | Barsalou, L. W. (1999). Perceptual symbol systems. *Behavioral and Brain Sciences*, 22(4), 577-660. | Primary theoretical | Broader embodied cognition framework for embodied reading analysis — Level 6 |
-| 6 | Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press. | Theoretical monograph | [[extended-mind-theory]] — contextualizes walking-reading within 4E cognition |
+| 6 | Clark, A. (2008). *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press. | Theoretical monograph | [[Extended Mind Thesis (Clark & Chalmers, 1998)]] — contextualizes walking-reading within 4E cognition |
 | 7 | Dietrich, A. (2003). Functional neuroanatomy of altered states of consciousness: The transient hypofrontality hypothesis. *Consciousness and Cognition*, 12(2), 231-256. | Primary theoretical | **Core reference** for transient hypofrontality — Level 4 counter-model |
 | 8 | Dietrich, A. (2006). Transient hypofrontality as a mechanism for the psychological effects of exercise. *Psychiatry Research*, 145(1), 79-83. | Primary research | Application of hypofrontality specifically to exercise — Level 4 |
 | 9 | Glenberg, A. M., & Kaschak, M. P. (2002). Grounding language in action. *Psychonomic Bulletin & Review*, 9(3), 558-565. | Primary research | The action-sentence compatibility effect — foundational for strong embodiment — Level 6 |
@@ -1305,7 +1305,7 @@ This Deep Dive demonstrates why depth matters for personally relevant cognitive 
 >
 > **Scope narrowing:** The original input ("Walking and Academic Reading: Balancing Physical Activity with Cognitive Load for Optimal Learning") was narrowed to focus specifically on [[working-memory]] resource competition during concurrent locomotion and text comprehension, with arousal modulation as the primary moderating mechanism. This narrowing excluded: the effects of vigorous exercise on subsequent reading, outdoor walking (with its additional navigational and hazard-monitoring demands), and long-term exercise-cognition effects.
 >
-> **Source synthesis:** The analysis synthesizes across multiple research traditions that rarely intersect: [[cognitive-load-theory]] (educational psychology), [[working-memory]] architecture (cognitive psychology), exercise-cognition research (sport science/neuroscience), [[embodied-cognition]] (philosophy of mind/cognitive science), and dual-task methodology (human factors/ergonomics). This interdisciplinary synthesis is the report's primary analytical contribution — no single field has addressed the walking-reading question at this depth.
+> **Source synthesis:** The analysis synthesizes across multiple research traditions that rarely intersect: [[Cognitive Load Theory (CLT)]] (educational psychology), [[working-memory]] architecture (cognitive psychology), exercise-cognition research (sport science/neuroscience), [[embodied-cognition]] (philosophy of mind/cognitive science), and dual-task methodology (human factors/ergonomics). This interdisciplinary synthesis is the report's primary analytical contribution — no single field has addressed the walking-reading question at this depth.
 >
 > **Limitations of depth-first analysis:**
 > 1. **Context sacrifice:** By going deep on WM resource competition, this report necessarily under-treats other relevant factors (motivation, physical health, ergonomics, time management) that a broader report would cover
@@ -1478,7 +1478,7 @@ This Deep Dive demonstrates why depth matters for personally relevant cognitive 
 
 ### 1. **[[active-note-making]] as a Comprehension Verification Mechanism: The Cognitive Science of Externalized Processing**
 - *Connection:* This Deep Dive identifies the sitting phase as optimized for note-making, but doesn't analyze note-making's own cognitive mechanisms in depth
-- *Depth Potential:* Note-making involves [[generation-effect]], [[retrieval-practice]], elaborative processing, and cognitive offloading — each is a deep topic. How note-making specifically compensates for the comprehension gaps created by walking-reading is unexplored
+- *Depth Potential:* Note-making involves [[generation-effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], elaborative processing, and cognitive offloading — each is a deep topic. How note-making specifically compensates for the comprehension gaps created by walking-reading is unexplored
 - *Knowledge Graph Role:* Connects the walking-reading analysis to the broader PKB workflow and [[self-regulated-learning]] literature
 - *Suggested Type:* Deep Dive Report
 
@@ -1491,12 +1491,12 @@ This Deep Dive demonstrates why depth matters for personally relevant cognitive 
 ### 3. **Individual Differences in [[working-memory-capacity]]: The Architecture of a Cognitive Constraint**
 - *Connection:* Edge Case 1 (WMC cliff) showed that WMC individual variation fundamentally changes the walking-reading recommendation. But WMC itself was treated as a given — what determines it, how it's measured, and whether it can be trained are deep questions
 - *Depth Potential:* WMC research connects to fluid intelligence, attention control theory, executive function, and cognitive aging — each a rich subfield
-- *Knowledge Graph Role:* Foundational node connecting to [[cognitive-load-theory]], [[attention]], [[Intelligence]], and educational psychology
+- *Knowledge Graph Role:* Foundational node connecting to [[Cognitive Load Theory (CLT)]], [[attention]], [[Intelligence]], and educational psychology
 - *Suggested Type:* Deep Dive Report
 
 ### 4. **The Metacognitive Monitoring Problem: When and Why Self-Assessed Comprehension Diverges from Actual Comprehension**
 - *Connection:* Edge Case 4 (fluency-comprehension dissociation) identified metacognitive blind spots as the deepest risk in walking-reading. Metacognitive calibration is a rich field with direct practical implications
-- *Depth Potential:* Metamemory, judgments of learning, overconfidence effects, calibration training, and debiasing techniques are all well-researched. Connection to [[desirable-difficulties]] and [[Testing-Effect]] literatures
+- *Depth Potential:* Metamemory, judgments of learning, overconfidence effects, calibration training, and debiasing techniques are all well-researched. Connection to [[Desirable Difficulties (Robert Bjork, 1994)]] and [[Testing-Effect]] literatures
 - *Knowledge Graph Role:* Central to [[self-regulated-learning]], [[metacognition]], and effective study strategies
 - *Suggested Type:* Deep Dive Report
 
@@ -1514,7 +1514,7 @@ This Deep Dive demonstrates why depth matters for personally relevant cognitive 
 | Existing Note | Connection Type | How This Report Extends It |
 |--------------|----------------|--------------------------|
 | [[working-memory]] | Deep application | Applies WM theory to a specific real-world dual-task — demonstrates how the abstract model maps to lived experience |
-| [[cognitive-load-theory]] | Applied analysis | Shows CLT in a non-instructional context — the learner as their own instructional designer |
+| [[Cognitive Load Theory (CLT)]] | Applied analysis | Shows CLT in a non-instructional context — the learner as their own instructional designer |
 | [[attention]] | Mechanism analysis | Demonstrates MRT's practical predictions for a real attentional allocation problem |
 | [[automaticity]] | Gradient analysis | Shows automaticity as a continuum with real cognitive consequences at every point |
 
@@ -1537,9 +1537,9 @@ This Deep Dive demonstrates why depth matters for personally relevant cognitive 
 | Existing Note | Connection Type | How This Report Extends It |
 |--------------|----------------|--------------------------|
 | [[Flow-State]] | Optimization frame | The hybrid protocol's timing aims to create flow conditions for the processing phase |
-| [[desirable-difficulties]] | Reframe | The dual-task cost of walking may function as a desirable difficulty for surface-level processing |
-| [[retrieval-practice]] | Assessment tool | Retrieval practice as the comprehension check mechanism in Protocol 1 |
-| [[spacing-effect]] | Structural parallel | The walk-sit cycle creates natural spacing between first-pass and deep-processing exposures |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | Reframe | The dual-task cost of walking may function as a desirable difficulty for surface-level processing |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | Assessment tool | Retrieval practice as the comprehension check mechanism in Protocol 1 |
+| [[Desirable Difficulties (Robert Bjork, 1994)]] | Structural parallel | The walk-sit cycle creates natural spacing between first-pass and deep-processing exposures |
 
 ## 8.11 — Argument Structure Map
 

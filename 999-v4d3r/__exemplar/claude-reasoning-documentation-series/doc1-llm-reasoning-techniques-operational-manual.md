@@ -1064,7 +1064,7 @@ Q2: {verify_q2} → A2: {verified_a2} [✓/✗]
 
 ### 3. **[[Cognitive Load Theory Applied to LLM Reasoning]]**
 
-**Connection**: This manual provides reasoning techniques without deep theoretical grounding in cognitive science. Exploring how [[Working Memory Constraints]], [[cognitive-load-theory]], and [[dual-process-theory]] map to LLM architecture would illuminate *why* techniques like Tree of Thoughts and Self-Consistency work.
+**Connection**: This manual provides reasoning techniques without deep theoretical grounding in cognitive science. Exploring how [[Working Memory Constraints]], [[Cognitive Load Theory (CLT)]], and [[dual-process-theory]] map to LLM architecture would illuminate *why* techniques like Tree of Thoughts and Self-Consistency work.
 
 **Depth Potential**: Theoretical exploration would include:
 - Working memory analogs in transformer attention mechanisms

@@ -19,18 +19,18 @@ secondary_domains:
   - personal-knowledge-management
   - expertise-research
 related_concepts:
-  - "[[schema-theory]]"
-  - "[[schema-construction]]"
+  - "[[schema-theory-and-knowledge-organization]]"
+  - "[[Schema Construction]]"
   - "[[Schema-Construction-Problem-—-Original-Analytical-Insight]]"
   - "[[schema-accommodation]]"
-  - "[[schema-automation]]"
+  - "[[Schema Automation]]"
   - "[[schema-crystallization-event]]"
   - "[[schema-progressive-architecture]]"
   - "[[assimilation-and-accommodation]]"
   - "[[advance-organizer]]"
   - "[[transfer-of-learning]]"
   - "[[rumelhart]]"
-  - "[[chunking]]"
+  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
 knowledge_level: advanced
 tags:
   - schema-theory
@@ -109,12 +109,12 @@ extends:
 link_up: "[[schema-theory-and-learning]]"
 link_down:
   - "[[schema-crystallization-event]]"
-  - "[[schema-automation]]"
+  - "[[Schema Automation]]"
   - "[[the-schema-progressive-architecture-for-pkb-design]]"
 link_related:
   - "[[advance-organizer]]"
   - "[[transfer-of-learning]]"
-  - "[[chunking]]"
+  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
   - "[[analogical-reasoning]]"
   - "[[rumelhart]]"
 
@@ -169,7 +169,7 @@ summary: >
 
 ### The Paradox at the Heart of Schema Theory
 
-[[schema-theory]] is, by any standard, a cognitive psychology success story. It explains memory distortion, reading comprehension, expertise differences, and prior knowledge effects with a parsimony that few frameworks match. When [[rumelhart]] formalized the theory in the 1970s, building on [[frederic-bartlett]]'s pioneering reconstructive memory research from the 1930s, he gave cognitive science a tool of remarkable generativity: a mental structure that simultaneously accounts for what we know, how we use what we know, and why what we know shapes what we perceive.
+[[schema-theory-and-knowledge-organization]] is, by any standard, a cognitive psychology success story. It explains memory distortion, reading comprehension, expertise differences, and prior knowledge effects with a parsimony that few frameworks match. When [[rumelhart]] formalized the theory in the 1970s, building on [[frederic-bartlett]]'s pioneering reconstructive memory research from the 1930s, he gave cognitive science a tool of remarkable generativity: a mental structure that simultaneously accounts for what we know, how we use what we know, and why what we know shapes what we perceive.
 
 But Schema Theory contains a paradox that its proponents have been slow to fully confront. The theory is, at its core, a theory of *using* schemas — of how existing knowledge structures guide the comprehension of new information, the reconstruction of memories, and the interpretation of ambiguous stimuli. It is substantially weaker as a theory of *building* schemas — of how knowledge structures come into existence in the first place, particularly when the learner lacks the prerequisite schemas that the theory says are required for learning to occur.
 
@@ -183,7 +183,7 @@ This question is not merely theoretical. It has direct implications for instruct
 
 ### Scope and Boundaries
 
-This report analyzes the [[schema-construction]] mechanism as distinct from [[schema-automation|schema automation]], schema activation, and [[schema-accommodation|schema accommodation]]. It does not reproduce a comprehensive treatment of Schema Theory — that work is done in the Foundational Report. It focuses specifically on the construction problem: what the evidence shows about how schemas are built, what theoretical resources Schema Theory offers, where those resources are insufficient, and what a more complete account would require.
+This report analyzes the [[Schema Construction]] mechanism as distinct from [[Schema Automation|schema automation]], schema activation, and [[schema-accommodation|schema accommodation]]. It does not reproduce a comprehensive treatment of Schema Theory — that work is done in the Foundational Report. It focuses specifically on the construction problem: what the evidence shows about how schemas are built, what theoretical resources Schema Theory offers, where those resources are insufficient, and what a more complete account would require.
 
 ### Why This Focus Matters Now
 
@@ -229,7 +229,7 @@ Phase II establishes the core framework — the key distinctions that structure 
 >
 > **Report-Specific Significance:** Restructuring is the primary explanandum of this analysis. The claim is that the theory's account of restructuring is too thin to explain genuine schema construction from scratch.
 >
-> **Cross-References:** [[schema-construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[analogical-reasoning]]
+> **Cross-References:** [[Schema Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[analogical-reasoning]]
 
 > [!definition] **Schema Crystallization Event (PKB Conceptual Development)**
 > **Definition:** A qualitative threshold event in schema construction at which an accumulating set of loosely organized knowledge elements undergoes rapid structural consolidation into a coherent, retrievable schema. Pre-crystallization, knowledge elements are available but not organized into a single retrievable unit; post-crystallization, the schema can be activated as a whole.
@@ -345,7 +345,7 @@ If neither patterning nor simple accommodation can handle categorical novelty, t
 > Analogy's role in schema construction is not what most instructional accounts imply. Analogy is typically presented as an *explanation* tool — a way to make the unfamiliar familiar by connecting it to something known. The deeper function is *structural scaffolding*: analogy provides temporary schema structure for an unfamiliar domain, enabling the learner to interpret new information through borrowed organizational principles until native schemas can be constructed. The electric circuit/water flow analogy, for example, does not explain electricity — it lends the target domain (electricity) the schematic structure of the source domain (fluid dynamics) long enough for the learner to accumulate sufficient domain-specific experience to construct native electrical schemas. The analogy is then typically discarded as the native schema matures.
 
 > [!cross-domain-connection] **Analogy as Schema Scaffolding → Scaffolded Fading in Development**
-> The structural scaffolding function of analogy in schema construction maps precisely onto Wood, Bruner, and Ross's (1976) model of [[scaffolding|instructional scaffolding]]: temporary support structures that enable performance beyond the learner's unassisted capability, with gradual fading as competence develops. In schema construction, analogy provides temporary relational structure that enables interpretation of target-domain information; as native schemas develop, the analogical scaffold becomes unnecessary and is typically abandoned or explicitly contradicted (the "breaking the analogy" phenomenon in physics education). The structural parallel is exact: both scaffolding and analogical schema support are temporary structures that enable the construction of permanent native structures.
+> The structural scaffolding function of analogy in schema construction maps precisely onto Wood, Bruner, and Ross's (1976) model of [[Scaffolded Fading|instructional scaffolding]]: temporary support structures that enable performance beyond the learner's unassisted capability, with gradual fading as competence develops. In schema construction, analogy provides temporary relational structure that enables interpretation of target-domain information; as native schemas develop, the analogical scaffold becomes unnecessary and is typically abandoned or explicitly contradicted (the "breaking the analogy" phenomenon in physics education). The structural parallel is exact: both scaffolding and analogical schema support are temporary structures that enable the construction of permanent native structures.
 
 This analysis has a direct instructional implication: if analogy is the primary mechanism for schema construction in cases of categorical novelty, then instructional design for genuinely novel concepts should systematically identify the strongest structural analogue available in the learner's existing schemas and explicitly map it onto the target domain — not to explain the target domain but to provide temporary structural scaffolding for schema construction. The analogy's accuracy matters less than its structural isomorphism with the target.
 
@@ -359,7 +359,7 @@ The [[schema-crystallization-event]] model captures this threshold-crossing char
 
 **Crystallization event**: At some threshold of accumulated knowledge and exposure, the loosely organized elements rapidly consolidate into a coherent schema. The consolidation is not gradual but relatively sudden — a qualitative shift in how the knowledge is organized and accessed.
 
-**Post-crystallization phase**: The schema is now available as a unit for [[schema-automation|schema activation]]. Processing becomes automatic, fluent, and context-independent. The schema can be activated by partial matches, and default values fill in absent information.
+**Post-crystallization phase**: The schema is now available as a unit for [[Schema Automation|schema activation]]. Processing becomes automatic, fluent, and context-independent. The schema can be activated by partial matches, and default values fill in absent information.
 
 > [!analytical-insight] **The Crystallization Event's Instructional Blindspot**
 > The crystallization event model highlights an instructional blindspot in Schema Theory applications. Most instructional approaches focus on either pre-crystallization support (providing examples, building prerequisite knowledge) or post-crystallization practice (applying the newly formed schema). Almost no systematic instructional attention has been paid to the *threshold conditions* that trigger the crystallization event itself. What determines whether accumulated knowledge consolidates into a schema or remains as loosely organized elements? The evidence suggests that crystallization is more likely when: (1) multiple encounters with the concept occur in varied contexts, (2) the learner has occasion to generate a structural description of the concept (rather than only recognizing instances), and (3) an explicit attempt to connect isolated elements is made. These conditions are not guaranteed by typical instructional sequences.
@@ -373,7 +373,7 @@ The [[schema-crystallization-event]] model captures this threshold-crossing char
 3. **Schematic** — a functional schema that organizes the domain, enabling top-down processing
 4. **Expert** — multiple interconnected schemas with conditional activation patterns
 
-The transition between stages 2 and 3 corresponds to the crystallization event. The transition between stages 1 and 2 corresponds to [[chunking|chunking]] — the formation of associative clusters that will eventually provide the building blocks for schema crystallization.
+The transition between stages 2 and 3 corresponds to the crystallization event. The transition between stages 1 and 2 corresponds to [[Chunk (Miller, 1956; Chase & Simon, 1973)|chunking]] — the formation of associative clusters that will eventually provide the building blocks for schema crystallization.
 
 > [!analytical-insight] **The PKB-Schema Architecture Correspondence**
 > The Schema Progressive Architecture has an underexplored correspondence with [[personal-knowledge-base|PKB]] design principles. A well-designed PKB supports each stage differently: at the Elemental stage, it captures and preserves raw observations; at the Associative stage, it creates links between related elements; at the Schematic stage, it develops Maps of Content (MOCs) that reflect the emerging schema; at the Expert stage, it supports conditional navigation between interconnected schemas. The diagnostic question for any PKB is which stage the knowledge in a given domain has reached — because the appropriate PKB affordances differ radically across stages. Most PKB systems are optimized for Schematic and Expert stages, offering rich linking and retrieval, but provide little systematic support for the Elemental-to-Associative transition that must precede crystallization.
@@ -551,7 +551,7 @@ The schema construction principles transfer most readily to domains that have a 
 >
 > - **[[analogical-reasoning]]** — The structural mapping function of analogy in schema construction (Phase IV) connects directly to analogical reasoning theory. [[structural-mapping-theory|Gentner's Structural Mapping Theory]] is the theoretical engine behind the analogy-as-scaffolding mechanism.
 >
-> - **[[chunking]]** — Chunking is the associative-phase process that precedes schema crystallization. The Chase & Simon evidence (Phase III) demonstrates that chunking (forming perceptual clusters from individual elements) is the primary cognitive process in the early phases of expertise development — the substrate upon which schemas crystallize.
+> - **[[Chunk (Miller, 1956; Chase & Simon, 1973)]]** — Chunking is the associative-phase process that precedes schema crystallization. The Chase & Simon evidence (Phase III) demonstrates that chunking (forming perceptual clusters from individual elements) is the primary cognitive process in the early phases of expertise development — the substrate upon which schemas crystallize.
 >
 > - **[[transfer-of-learning]]** — The FAR Transfer phase draws directly on transfer-of-learning research. The Bootstrapping Constraint principle has direct implications for near and far transfer: schemas constructed through analogy from structurally similar domains should support far transfer more readily than schemas constructed through domain-specific patterning alone.
 >
@@ -580,7 +580,7 @@ The schema construction principles transfer most readily to domains that have a 
 >
 > **Operational Indicators:** Evidence of schema construction: (1) initial processing is slow, effortful, and error-prone; (2) performance is highly context-dependent; (3) the learner cannot articulate the organizing structure; (4) a marked improvement phase occurs when crystallization is complete.
 >
-> **Cross-References:** [[schema-construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[schema-accommodation]]
+> **Cross-References:** [[Schema Construction]], [[Schema-Construction-Problem-—-Original-Analytical-Insight]], [[schema-accommodation]]
 
 > [!definition] **The Bootstrapping Constraint (this report)**
 > **Definition:** The structural constraint on schema construction arising from the fact that building new schemas requires existing schemas as constructive inputs. For categorically novel concepts, this creates a circularity: adequate comprehension of the novel concept requires a schema that can only be built by comprehending the novel concept.
@@ -596,7 +596,7 @@ The schema construction principles transfer most readily to domains that have a 
 >
 > **Boundary conditions:** The asymmetry applies to cognitive schemas; related asymmetries have been identified in skill acquisition (between practiced and unpracticed skills) and immune response (between first-encounter and re-encounter adaptive responses).
 >
-> **Cross-References:** [[schema-automation]], [[schema-theory-and-learning]], [[chunking]]
+> **Cross-References:** [[Schema Automation]], [[schema-theory-and-learning]], [[Chunk (Miller, 1956; Chase & Simon, 1973)]]
 
 > [!definition] **Structural Analogue (Gentner, 1983 — adapted)**
 > **Definition:** A source domain concept whose relational structure is isomorphic to a target domain concept, enabling structural mapping. A structural analogue is not a surface similarity (sharing perceptual or superficial features) but a deep similarity (sharing the pattern of relations among components). Used in schema construction to provide temporary organizational structure for a novel domain.
@@ -612,7 +612,7 @@ The schema construction principles transfer most readily to domains that have a 
 >
 > **Operational Indicators:** Threshold crossing is marked by: (1) subjective sense of "getting it"; (2) rapid improvement in fluency and accuracy; (3) ability to generate novel examples; (4) context-independent performance.
 >
-> **Cross-References:** [[schema-crystallization-event]], [[schema-progressive-architecture]], [[schema-automation]]
+> **Cross-References:** [[schema-crystallization-event]], [[schema-progressive-architecture]], [[Schema Automation]]
 
 ### B. Key Figures & Intellectual Lineage
 
@@ -814,7 +814,7 @@ The schema construction principles transfer most readily to domains that have a 
 > > **Connection to This Report:** Directly extends Phase IV's post-crystallization analysis.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[schema-crystallization-event]], [[schema-automation]], [[schema-theory-and-learning]]
+> > **Prerequisites:** [[schema-crystallization-event]], [[Schema Automation]], [[schema-theory-and-learning]]
 >
 > > [!topic-idea] [[Analogy-First-Instructional-Design-Practical-Implementation]]
 > > A transfer-oriented expansion: develops the Analogy-First Instructional Principle (Phase VI) into a practical design framework for courses, PKB onboarding sequences, and self-directed learning in genuinely novel domains. Would include case studies and design protocols.
@@ -822,7 +822,7 @@ The schema construction principles transfer most readily to domains that have a 
 > > **Connection to This Report:** Directly applies Phase VI's original synthesis.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[schema-construction]], [[advance-organizer]], [[analogical-reasoning]]
+> > **Prerequisites:** [[Schema Construction]], [[advance-organizer]], [[analogical-reasoning]]
 >
 > > [!topic-idea] [[conceptual-change-theory-and-schema-restructuring]]
 > > Vosniadou's framework theory approach and Chi's knowledge-in-pieces model offer alternative accounts of how schemas change under anomalous data — extending the accommodation/restructuring account into genuine conceptual change (where existing schemas are not merely modified but replaced). Bridges Schema Theory with science education research.
@@ -830,7 +830,7 @@ The schema construction principles transfer most readily to domains that have a 
 > > **Connection to This Report:** The conceptual change literature directly addresses the restructuring mechanism that this report identifies as Schema Theory's underspecified core.
 > > **Priority:** High
 > > **Suggested Report Type:** Comparative Synthesis (Schema Theory vs. Framework Theory)
-> > **Prerequisites:** [[schema-accommodation]], [[schema-construction]], [[schema-theory-and-learning]]
+> > **Prerequisites:** [[schema-accommodation]], [[Schema Construction]], [[schema-theory-and-learning]]
 >
 > > [!topic-idea] [[pkb-design-for-pre-crystallization-knowledge-states]]
 > > A transfer-oriented investigation: applies the schema construction analysis directly to PKB architecture for genuinely novel domains. What note structures, linking strategies, and capture protocols best support the elemental → associative → schematic progression? Extends [[the-schema-progressive-architecture-for-pkb-design]].

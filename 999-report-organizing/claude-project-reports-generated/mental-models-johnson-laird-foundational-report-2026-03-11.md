@@ -130,7 +130,7 @@ key-distinctions:
 prerequisites:
   - "[[reasoning-types-in-education|Reasoning Types in Education]]"
   - "[[deductive-reasoning|Deductive Reasoning]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
 
 related:
   - "[[analogical-reasoning|Analogical Reasoning]]"
@@ -140,7 +140,7 @@ related:
   - "[[Text Comprehension]]"
   - "[[Spatial-Cognition|Spatial Cognition]]"
   - "[[working-memory|Working Memory]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[dual-process-theory|Dual Process Theory]]"
 
 broader:
@@ -177,10 +177,10 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[deductive-reasoning|Deductive Reasoning]]"
   - "[[working-memory|Working Memory]]"
-  - "[[cognitive-architecture|Cognitive Architecture]]"
+  - "[[Cognitive Architecture|Cognitive Architecture]]"
 
 enables:
   - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
@@ -288,7 +288,7 @@ This is also logically valid — yet a substantial proportion of reasoners will 
 
 **Scope of This Report.** This report provides a comprehensive foundational treatment of [[mental-models-theory|Mental Models Theory]] (hereafter MMT) as developed by [[johnson-laird]] and collaborators, together with its major extensions and applications in educational science. Phase II establishes the conceptual foundations and historical genealogy. Phase III maps the theoretical landscape, including debates with competing frameworks. Phase IV reveals the operational mechanisms through which model-based reasoning functions. Phase V surveys applications in instruction, science education, and literacy, alongside an honest accounting of limitations. Phase VI synthesises the whole and positions MMT within the broader [[personal-knowledge-base|PKB]] knowledge graph. This report does not attempt comprehensive coverage of every derivative application; deeper treatments of [[situation-models-in-text-comprehension|Situation Models in Text Comprehension]], [[Conceptual-Change-Theory|Conceptual Change Theory]], and [[multimedia-learning|Multimedia Learning]] are flagged as high-priority expansion topics.
 
-**Why This Topic Matters.** The stakes of understanding mental representation extend far beyond theoretical curiosity. If learners construct mental models when they read, listen to explanations, or solve problems, then the quality of those models — their accuracy, completeness, and flexibility — determines the quality of the learning. An instructor who understands what mental models are, how they are built, and under what conditions they remain shallow, erroneous, or rigid is equipped to design instruction that actually transforms understanding rather than merely transmitting information. [[schema-theory|Schema Theory]] told us that prior knowledge structures interpretation; MMT tells us how reasoning and understanding unfold dynamically within those structures.
+**Why This Topic Matters.** The stakes of understanding mental representation extend far beyond theoretical curiosity. If learners construct mental models when they read, listen to explanations, or solve problems, then the quality of those models — their accuracy, completeness, and flexibility — determines the quality of the learning. An instructor who understands what mental models are, how they are built, and under what conditions they remain shallow, erroneous, or rigid is equipped to design instruction that actually transforms understanding rather than merely transmitting information. [[schema-theory-and-knowledge-organization|Schema Theory]] told us that prior knowledge structures interpretation; MMT tells us how reasoning and understanding unfold dynamically within those structures.
 
 ---
 
@@ -301,7 +301,7 @@ The word "model" in everyday usage refers to a reduced but structurally faithful
 > [!definition] **Mental Model (Johnson-Laird, 1983)**
 > An internal cognitive representation that is analogically structured to the state of affairs it represents. Unlike a propositional representation (which encodes meaning in language-like predicate-argument format) or a mental image (which encodes perceptual surface features), a mental model preserves the *relational structure* of a situation — the arrangement of entities and the relations holding among them. Mental models are the primary medium of human reasoning, comprehension, and imagination. They are NOT digital symbol strings following syntactic rules; they are more akin to working diagrams or physical simulations run in the mind.
 
-The intellectual genealogy of MMT is rich and contested. [[kenneth-craik|Kenneth Craik]], the British psychologist, proposed in 1943 that the nervous system builds a "small-scale model of external reality" that enables anticipatory reasoning — a remarkably prescient formulation that Johnson-Laird explicitly credits. [[frederic-bartlett|Frederic Bartlett]]'s work on [[schema-theory|schemata]] established that memory and comprehension are reconstructive, not reproductive, pointing toward an active, model-building view of cognition. From linguistics and philosophy, the influence of [[possible-worlds-semantics|possible worlds semantics]] is visible: a mental model is, in effect, the reasoner's representation of a possible world consistent with the information provided.
+The intellectual genealogy of MMT is rich and contested. [[kenneth-craik|Kenneth Craik]], the British psychologist, proposed in 1943 that the nervous system builds a "small-scale model of external reality" that enables anticipatory reasoning — a remarkably prescient formulation that Johnson-Laird explicitly credits. [[frederic-bartlett|Frederic Bartlett]]'s work on [[schema-theory-and-knowledge-organization|schemata]] established that memory and comprehension are reconstructive, not reproductive, pointing toward an active, model-building view of cognition. From linguistics and philosophy, the influence of [[possible-worlds-semantics|possible worlds semantics]] is visible: a mental model is, in effect, the reasoner's representation of a possible world consistent with the information provided.
 
 What distinguishes MMT from these ancestors is its specific, formal theory of *how* models are constructed from linguistic premises, how multiple models interact in deductive inference, and how the number and complexity of required models predicts empirical patterns of human error. Johnson-Laird did not merely propose that people use models; he built a computational theory precise enough to generate novel, testable predictions.
 
@@ -414,7 +414,7 @@ The computational heart of MMT is an explicit account of how a reasoner moves fr
 The initial minimal model must often be "fleshed out" with background knowledge to support inference in everyday contexts. When someone reads "The surgeon washed her hands before the operation", the relevant mental model is not merely a propositional encoding of the literal content — it is populated with background knowledge about hospital environments, the purpose of hand-washing, the relationship between surgeons and patients. This population of the model from [[long-term-memory|long-term memory]] is largely automatic and is what makes comprehension feel seamless.
 
 > [!insight] **Models vs. Schemata — A Critical Distinction**
-> At first glance, "fleshing out a model with background knowledge" sounds identical to [[schema-theory|schema activation]]. The distinction matters: a schema is a pre-stored, relatively rigid knowledge structure that slots incoming information into fixed roles (agent, action, object). A mental model, by contrast, is constructed anew for each situation and can represent novel arrangements that no prior schema captures. Schema activation fills in defaults; model construction creates a unique representational token for a specific situation. Both processes operate, but their outputs are different. Mental models are less constrained and more flexible than schema slots, though this flexibility has a cost in working memory resources.
+> At first glance, "fleshing out a model with background knowledge" sounds identical to [[schema-theory-and-knowledge-organization|schema activation]]. The distinction matters: a schema is a pre-stored, relatively rigid knowledge structure that slots incoming information into fixed roles (agent, action, object). A mental model, by contrast, is constructed anew for each situation and can represent novel arrangements that no prior schema captures. Schema activation fills in defaults; model construction creates a unique representational token for a specific situation. Both processes operate, but their outputs are different. Mental models are less constrained and more flexible than schema slots, though this flexibility has a cost in working memory resources.
 
 ### Spatial Mental Models
 
@@ -465,7 +465,7 @@ The science education application of MMT — through [[Stella-Vosniadou|Stella V
 ### Limitations and Boundary Conditions
 
 > [!important] **Working Memory: The Central Constraint**
-> MMT's most fundamental prediction — that difficulty scales with the number of models required — depends on working memory as the mechanism of limitation. But working memory is itself a complex, multidimensional system (see [[working-memory|Working Memory]] and [[cognitive-load-theory|Cognitive Load Theory]]). The prediction that "three-model problems are harder than one-model problems" is robustly confirmed, but the *precise* relationship between model number and cognitive load is difficult to specify, because researchers cannot count models independently of the difficulty data they are trying to explain. This circularity is a genuine methodological vulnerability.
+> MMT's most fundamental prediction — that difficulty scales with the number of models required — depends on working memory as the mechanism of limitation. But working memory is itself a complex, multidimensional system (see [[working-memory|Working Memory]] and [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]). The prediction that "three-model problems are harder than one-model problems" is robustly confirmed, but the *precise* relationship between model number and cognitive load is difficult to specify, because researchers cannot count models independently of the difficulty data they are trying to explain. This circularity is a genuine methodological vulnerability.
 
 > [!important] **WEIRD Sample Bias**
 > The majority of studies supporting MMT were conducted with university students in Western Europe and North America — populations that differ from the global norm in education level, familiarity with formal reasoning tasks, and cultural conventions around logical argument. Whether the specific patterns of model construction and error replicate across diverse populations and educational backgrounds remains insufficiently studied. The cross-cultural robustness of the situation model literature is somewhat stronger, but remains incomplete.
@@ -495,7 +495,7 @@ This pattern connects to a broader arc in cognitive science: the shift from pure
 
 The capability that MMT confers on the educated reader is substantial. It provides a vocabulary for distinguishing types of understanding — propositional knowledge versus model-based understanding — and it explains why the former is insufficient for transfer, problem-solving, or genuine application. It explains why experts differ from novices not merely in how much they know but in the quality and flexibility of their models. It explains why certain instructional formats (worked examples with conceptual explanation, simulations, prediction tasks, anomaly confrontation) are more effective than others (lecture without representation, definition-recall tasks). And it explains a family of familiar cognitive phenomena — the difficulty of complex logic, the persistence of scientific misconceptions, the power of diagrams and animations in learning — within a single coherent theoretical framework.
 
-Perhaps most importantly for a [[personal-knowledge-base|PKB]] oriented toward learning sciences, MMT provides the conceptual bridge between [[schema-theory|Schema Theory]] (what prior knowledge structures you bring) and the dynamic process of comprehension and reasoning (how you use those structures to build new representations). It is the theory that explains how knowledge becomes *operative* — not merely stored, but actively deployed in understanding and inference.
+Perhaps most importantly for a [[personal-knowledge-base|PKB]] oriented toward learning sciences, MMT provides the conceptual bridge between [[schema-theory-and-knowledge-organization|Schema Theory]] (what prior knowledge structures you bring) and the dynamic process of comprehension and reasoning (how you use those structures to build new representations). It is the theory that explains how knowledge becomes *operative* — not merely stored, but actively deployed in understanding and inference.
 
 ### Open Questions
 
@@ -506,7 +506,7 @@ The most important unresolved questions in the MMT research programme include: (
 >
 > This report on [[mental-models-theory|Mental Models Theory]] connects to existing knowledge in the PKB in the following ways:
 >
-> - **[[schema-theory|Schema Theory]]** — The relationship between schema and model is foundational and complex. Schemata provide the stored knowledge that populates mental models with default content; mental models are the dynamically constructed representations built for specific situations. Where [[schema-theory|Schema Theory]] explains the influence of prior knowledge on interpretation, MMT explains how that knowledge is deployed in active reasoning. Neither theory is complete without the other, and together they constitute a comprehensive account of knowledge-driven cognition.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — The relationship between schema and model is foundational and complex. Schemata provide the stored knowledge that populates mental models with default content; mental models are the dynamically constructed representations built for specific situations. Where [[schema-theory-and-knowledge-organization|Schema Theory]] explains the influence of prior knowledge on interpretation, MMT explains how that knowledge is deployed in active reasoning. Neither theory is complete without the other, and together they constitute a comprehensive account of knowledge-driven cognition.
 >
 > - **[[reasoning-types-in-education|Reasoning Types in Education]]** (and constituent nodes **[[deductive-reasoning|Deductive Reasoning]]**, **[[inductive-reasoning|Inductive Reasoning]]**, **[[abductive-reasoning|Abductive Reasoning]]**) — MMT is primarily a theory of deductive inference, but its implications extend across reasoning types. Inductive reasoning can be understood as generalising across multiple mental models; abductive reasoning as constructing the model that best explains observed facts. The multi-reasoning-type cluster in the PKB gains important mechanistic depth from MMT: knowing *how* reasoners build models illuminates *why* different reasoning types have different characteristic error patterns.
 >

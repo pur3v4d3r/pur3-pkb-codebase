@@ -378,7 +378,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[schema-theory|Schema Theory]]** — Every Knowledge Organization System is an externalized schema. The structural choices you make in your KOS (what categories to use, how to link them) both reflect your current schema and shape the schemas you will develop through use. This bidirectional relationship is the core mechanism of the Organization-Learning Loop developed in Phase VI.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Every Knowledge Organization System is an externalized schema. The structural choices you make in your KOS (what categories to use, how to link them) both reflect your current schema and shape the schemas you will develop through use. This bidirectional relationship is the core mechanism of the Organization-Learning Loop developed in Phase VI.
 > 
 > - **[[Vocabulary-Mismatch-Problem|Vocabulary Mismatch Problem]]** — The information science finding that individuals agree on spontaneous naming less than 20% of the time is the retrieval consequence of schema development. As schemas evolve, the vocabulary for concepts changes. The practical design response — a Tag Glossary plus scheduled schema crystallization events — is developed in Phase V.
 > 
@@ -559,7 +559,7 @@ extraction_summary:
 
 - [[2024]]
 - [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Faceted-Classification|Faceted Classification]]
 - [[Online-Learning|Online Learning]]
 - [[Prototype-Theory|Prototype Theory]]
@@ -573,7 +573,7 @@ extraction_summary:
 - [[Report 25: The Integration Problem]]
 - [[SECI-Model|SECI Model]]
 - [[Scale Effects in Personal Knowledge Bases — What Changes at 500, 2000, and 10,000 Notes]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Semantic-Networks|Semantic Networks]]
 - [[Semantic Web and Personal Knowledge Graphs — Ontology for the Individual]]
 - [[spreading-activation|Spreading Activation]]
@@ -587,19 +587,19 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Building on Prior Reports | 123 |
-| 2 | [[schema-theory|Schema Theory]] | — | — | Building on Prior Reports | 123 |
+| 2 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Building on Prior Reports | 123 |
 | 3 | [[Semantic-Networks|Semantic Networks]] | — | — | Building on Prior Reports | 123 |
 | 4 | [[Report 09: Designing the Learning PKB]] | — | — | Building on Prior Reports | 123 |
 | 5 | [[Report 10: Scaffolding and Fading]] | — | — | Building on Prior Reports | 123 |
 | 6 | [[reflective-practice|Reflective Practice]] | — | — | The Vocabulary Mismatch Mechanism at ... | 285 |
 | 7 | [[Report 08: Reflective Practice and Experiential Learning]] | — | — | The Vocabulary Mismatch Mechanism at ... | 285 |
 | 8 | [[Report 06: The Science of Remembering]] | — | — | The SECI Mechanism in Solo Knowledge ... | 309 |
-| 9 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Faceted Classification as the Synthes... | 325 |
+| 9 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Faceted Classification as the Synthes... | 325 |
 | 10 | [[Online-Learning|Online Learning]] | — | — | Faceted Classification as the Synthes... | 325 |
 | 11 | [[2024]] | — | — | Faceted Classification as the Synthes... | 325 |
 | 12 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Return-and-Deepen: Schema Theory Revi... | 429 |
-| 13 | [[schema-theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 429 |
-| 14 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 442 |
+| 13 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 429 |
+| 14 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 442 |
 | 15 | [[Vocabulary-Mismatch-Problem|Vocabulary Mismatch Problem]] | — | — | Phase VII: PKB Connections & Cross-Re... | 444 |
 | 16 | [[Faceted-Classification|Faceted Classification]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
 | 17 | [[SECI-Model|SECI Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
@@ -628,7 +628,7 @@ extraction_summary:
 
 - [[2024]]
 - [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Faceted-Classification|Faceted Classification]]
 - [[Online-Learning|Online Learning]]
 - [[Prototype-Theory|Prototype Theory]]
@@ -642,7 +642,7 @@ extraction_summary:
 - [[Report 25: The Integration Problem]]
 - [[SECI-Model|SECI Model]]
 - [[Scale Effects in Personal Knowledge Bases — What Changes at 500, 2000, and 10,000 Notes]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Semantic-Networks|Semantic Networks]]
 - [[Semantic Web and Personal Knowledge Graphs — Ontology for the Individual]]
 - [[spreading-activation|Spreading Activation]]

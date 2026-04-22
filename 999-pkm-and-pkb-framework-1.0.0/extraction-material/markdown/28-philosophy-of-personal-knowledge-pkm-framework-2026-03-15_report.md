@@ -589,12 +589,12 @@ extraction_summary:
 - [[assimilation]]
 - [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]
 - [[Classical-Epistemology|Classical Epistemology]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[cognitive-science|Cognitive Science]]
 - [[Collective-Knowledge-and-the-PKB-—-Social-Epistemology|Collective Knowledge and the PKB — Social Epistemology]]
 - [[constructivism]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[enactivism]]
 - [[Epistemic-State|Epistemic State]]
 - [[Epistemology-of-Testimony-—-Believing-What-Others-Know|Epistemology of Testimony — Believing What Others Know]]
@@ -622,7 +622,7 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Socratic Epistemics]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Stoic Epistemology]]
@@ -637,9 +637,9 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | The Question Hiding at the Center of PKM | 135 |
+| 1 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | The Question Hiding at the Center of PKM | 135 |
 | 2 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Question Hiding at the Center of PKM | 135 |
-| 3 | [[schema-theory|Schema Theory]] | — | — | The Question Hiding at the Center of PKM | 135 |
+| 3 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | The Question Hiding at the Center of PKM | 135 |
 | 4 | [[illusion-of-knowing|Illusion of Knowing]] | — | — | The Question Hiding at the Center of PKM | 140 |
 | 5 | [[Classical-Epistemology|Classical Epistemology]] | — | — | Scope and Cross-Domain Architecture | 147 |
 | 6 | [[Pragmatist Philosophy]] | — | — | Scope and Cross-Domain Architecture | 147 |
@@ -666,8 +666,8 @@ extraction_summary:
 | 27 | [[Recollection]] | — | — | The Cognitive Science of Knowing vs. ... | 238 |
 | 28 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | The Cognitive Science of Knowing vs. ... | 248 |
 | 29 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Calibration Research: The Self-Assess... | 252 |
-| 30 | [[schema-theory|Schema Theory]] | — | — | The Constructivist Evidence Base: Sch... | 259 |
-| 31 | [[elaborative-interrogation|Elaborative Interrogation]] | — | — | The Constructivist Evidence Base: Sch... | 261 |
+| 30 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | The Constructivist Evidence Base: Sch... | 259 |
+| 31 | [[Elaborative Interrogation|Elaborative Interrogation]] | — | — | The Constructivist Evidence Base: Sch... | 261 |
 | 32 | [[transfer-of-learning|Transfer of Learning]] | — | — | What Pragmatist Evidence Looks Like | 270 |
 | 33 | [[Report 11: The Transfer Problem]] | — | — | What Pragmatist Evidence Looks Like | 270 |
 | 34 | [[illusion-of-knowing|Illusion of Knowing]] | — | — | The PKB Paradox: Why Storage Feels Li... | 315 |
@@ -719,12 +719,12 @@ extraction_summary:
 - [[assimilation]]
 - [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]
 - [[Classical-Epistemology|Classical Epistemology]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[cognitive-science|Cognitive Science]]
 - [[Collective-Knowledge-and-the-PKB-—-Social-Epistemology|Collective Knowledge and the PKB — Social Epistemology]]
 - [[constructivism]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
-- [[elaborative-interrogation|Elaborative Interrogation]]
+- [[Elaborative Interrogation|Elaborative Interrogation]]
 - [[enactivism]]
 - [[Epistemic-State|Epistemic State]]
 - [[Epistemology-of-Testimony-—-Believing-What-Others-Know|Epistemology of Testimony — Believing What Others Know]]
@@ -752,7 +752,7 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[Socratic Epistemics]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Stoic Epistemology]]

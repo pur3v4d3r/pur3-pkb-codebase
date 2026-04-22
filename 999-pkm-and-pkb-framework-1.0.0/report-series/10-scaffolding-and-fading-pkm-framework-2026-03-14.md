@@ -62,10 +62,10 @@ related-concepts:
   - "[[andragogy]]"
   - "[[heutagogy]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]"
-  - "[[scaffolding]]"
+  - "[[Scaffolded Fading]]"
   - "[[Fading]]"
   - "[[zone-of-proximal-development|Zone of Proximal Development]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]"
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]"
@@ -74,9 +74,9 @@ related-concepts:
   - "[[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]]"
   - "[[personal-knowledge-base|Personal Knowledge Base]]"
   - "[[PKB-Maturity-Architecture|PKB Maturity Architecture]]"
-  - "[[germane-load|Germane Load]]"
+  - "[[Cognitive Load Theory (CLT)|Germane Load]]"
   - "[[extraneous-load|Extraneous Load]]"
-  - "[[worked-example-effect|Worked Example Effect]]"
+  - "[[the-worked-example-effect|Worked Example Effect]]"
   - "[[Problem Completion Effect]]"
   - "[[cognitive-apprenticeship|Cognitive Apprenticeship]]"
   - "[[PKM Design Principles]]"
@@ -108,7 +108,7 @@ There is a quiet crisis that visits every serious practitioner of [[personal-kno
 
 This crisis has a name in the educational sciences, and it has a rigorous scientific explanation. More importantly, it has a solution — not a single solution, but an evolving architecture that must change as the user changes. This report addresses one of the most practically urgent questions in PKM/PKB design: **How should the scaffolding embedded in a PKB change as the user's expertise grows?**
 
-The answer requires synthesizing across disciplines that rarely speak to each other. [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] offers the concept of [[scaffolding]] and [[Fading]] — the deliberate provision and withdrawal of support as learners develop. [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] offers the [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]], a well-documented phenomenon demonstrating that instructional support that helps novices can actually impair expert performance. [[Educational-Science|Educational Science]] offers the Pedagogy-Andragogy-Heutagogy (PAH) spectrum — a developmental framework describing how the optimal relationship between the learner and their learning environment changes as autonomy and self-determination grow. [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research offers a fine-grained account of how regulatory strategies themselves change with expertise.
+The answer requires synthesizing across disciplines that rarely speak to each other. [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] offers the concept of [[Scaffolded Fading]] and [[Fading]] — the deliberate provision and withdrawal of support as learners develop. [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] offers the [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]], a well-documented phenomenon demonstrating that instructional support that helps novices can actually impair expert performance. [[Educational-Science|Educational Science]] offers the Pedagogy-Andragogy-Heutagogy (PAH) spectrum — a developmental framework describing how the optimal relationship between the learner and their learning environment changes as autonomy and self-determination grow. [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research offers a fine-grained account of how regulatory strategies themselves change with expertise.
 
 > [!ask-yourself-this] **Before You Begin: Mapping Your Current Experience**
 > Before reading further, pause to reflect on your own PKB practice. How has your relationship with the structure of your system changed since you began? Do you use the templates and workflows you originally created? Have you modified them, abandoned them, or added to them? What prompted each change? Does your PKB feel more or less supportive than it did when you first built it? Note your current thinking — this report will likely reframe what those changes mean.
@@ -238,7 +238,7 @@ Suzanne Hidi and K. Ann Renninger's (2006) four-phase model of interest developm
 
 The expertise reversal effect is not a curiosity — it reflects a deep structural change in how information is processed that occurs as schemas develop. Understanding this mechanism is essential for PKB design because it specifies *why* scaffolding must fade and *what cognitive state* triggers the need for fading.
 
-In [[cognitive-load-theory|Cognitive Load Theory]] (developed extensively in [[02-architecture-of-learning-pkm-framework-2026-03-13]]), learning is characterized as the process of constructing [[schema|schemas]] — organized knowledge structures in long-term memory — through active processing in [[working-memory|Working Memory]]. For novices, working memory is heavily burdened: every element of a new domain must be processed individually because no schemas exist to chunk them. [[scaffolding]] reduces this burden by providing the organizing structure that schemas would provide — templates substitute for internalized patterns, worked examples substitute for problem-solving schemas, prompts substitute for self-monitoring skills.
+In [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] (developed extensively in [[02-architecture-of-learning-pkm-framework-2026-03-13]]), learning is characterized as the process of constructing [[schema|schemas]] — organized knowledge structures in long-term memory — through active processing in [[working-memory|Working Memory]]. For novices, working memory is heavily burdened: every element of a new domain must be processed individually because no schemas exist to chunk them. [[Scaffolded Fading]] reduces this burden by providing the organizing structure that schemas would provide — templates substitute for internalized patterns, worked examples substitute for problem-solving schemas, prompts substitute for self-monitoring skills.
 
 As schemas develop, the situation changes fundamentally. Schemas allow the expert to process multiple domain elements as single units — what would consume the full capacity of a novice's working memory occupies only a small portion of an expert's. This is the cognitive miracle of expertise: the expert operating within their domain is not working harder than the novice; they are working with *qualitatively different cognitive architecture* that dramatically reduces the effective complexity of domain problems.
 
@@ -432,7 +432,7 @@ The most important unresolved question that this report cannot answer with curre
 >
 > - **[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]** — Report 01 established how schemas organize knowledge in long-term memory. This report extends that foundation by specifying how the PKB should change as schemas develop: the scaffolding appropriate to schema-poor states (full templates, worked examples) becomes counterproductive as schemas mature. Report 01 is the "what" of knowledge architecture; Report 10 is the "how it changes."
 >
-> - **[[02-architecture-of-learning-pkm-framework-2026-03-13]]** — Report 02 introduced [[cognitive-load-theory|Cognitive Load Theory]] and the [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] as a preview concept. Report 10 makes that preview central, developing the full mechanism by which expertise transforms optimal cognitive load management and specifying its PKB design implications in granular detail. These two reports should be read as a pair.
+> - **[[02-architecture-of-learning-pkm-framework-2026-03-13]]** — Report 02 introduced [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] and the [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] as a preview concept. Report 10 makes that preview central, developing the full mechanism by which expertise transforms optimal cognitive load management and specifying its PKB design implications in granular detail. These two reports should be read as a pair.
 >
 > - **[[05-motivation-architecture-pkm-framework-2026-03-13]]** — Report 05's account of [[self-determination-theory|Self-Determination Theory]]'s competence need provides motivational grounding for the scaffolding-fading transition. As scaffolding fades appropriately and the learner succeeds at progressively more complex tasks without support, the competence need is activated in its most powerful form — producing the intrinsic motivation that sustains lifelong learning. Ill-timed fading (premature) threatens competence satisfaction and damages motivation; this report's design principles protect the motivational architecture Report 05 describes.
 >
@@ -536,7 +536,7 @@ The most important unresolved question that this report cannot answer with curre
 
 > [!methodology-and-sources] **Research Grounding for This Report**
 >
-> This report draws on four primary research traditions: (1) the [[cognitive-load-theory|Cognitive Load Theory]] expertise reversal literature, which is empirically well-established with multiple independent replications across domains (Kalyuga et al., Renkl & Atkinson, Reisslein et al.); (2) the andragogy literature (Knowles), which is theoretically influential but empirically mixed, as Merriam's review documents — claims from this tradition are held with appropriate qualification; (3) the [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]], which is a phenomenological account rather than an experimental finding, and is treated here as a useful organizing heuristic rather than a precise cognitive process model; and (4) [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research (Zimmerman), which is empirically well-grounded.
+> This report draws on four primary research traditions: (1) the [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] expertise reversal literature, which is empirically well-established with multiple independent replications across domains (Kalyuga et al., Renkl & Atkinson, Reisslein et al.); (2) the andragogy literature (Knowles), which is theoretically influential but empirically mixed, as Merriam's review documents — claims from this tradition are held with appropriate qualification; (3) the [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]], which is a phenomenological account rather than an experimental finding, and is treated here as a useful organizing heuristic rather than a precise cognitive process model; and (4) [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research (Zimmerman), which is empirically well-grounded.
 >
 > Several claims in Phase VI's synthesis — specifically the [[PKB-Maturity-Architecture|PKB Maturity Architecture]] concept and the [[Scaffolding-Archaeology|Scaffolding Archaeology]] problem — are Claude's original cross-domain synthesis contributions, explicitly flagged as such. They are informed by the research traditions above but not independently validated in the PKM literature, which has not addressed these precise design challenges. Practitioners should treat these as reasoned design hypotheses warranting personal empirical testing rather than established findings.
 

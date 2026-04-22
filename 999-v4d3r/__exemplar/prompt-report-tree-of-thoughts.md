@@ -39,7 +39,7 @@ related_concepts:
   - "[[Counterfactual-Reasoning]]"
   - "[[Prospective Memory]]"
   - "[[working-memory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[Search Algorithms]]"
 prerequisites:
   - "[[Chain of Thought Reasoning]]"
@@ -1755,7 +1755,7 @@ def tot_self_consistency_hybrid(problem, k_candidates=3, sc_samples=5):
 
 **Depth Potential**: Deep 3000-4000 word treatment covering: (1) Classic cognitive architectures (SOAR, ACT-R, Sigma), (2) Working memory models and capacity constraints, (3) Problem space theory, (4) Goal hierarchies and subgoaling, (5) Chunking and schema formation, (6) Mapping ToT components to cognitive functions, (7) Implications for AGI design, (8) Cognitive limitations still unaddressed by current LLM architectures.
 
-**Knowledge Graph Role**: Provides theoretical cognitive science foundation for ToT, connecting to [[cognitive-science]], [[working-memory]], [[problem-solving]], [[schema-theory]], [[dual-process-theory]], and [[Human-AI Cognition Alignment]].
+**Knowledge Graph Role**: Provides theoretical cognitive science foundation for ToT, connecting to [[cognitive-science]], [[working-memory]], [[problem-solving]], [[schema-theory-and-knowledge-organization]], [[dual-process-theory]], and [[Human-AI Cognition Alignment]].
 
 **Priority**: **Medium** - Valuable theoretical grounding but less immediately practical than implementation-focused topics. Important for researchers seeking deeper understanding of *why* ToT works.
 

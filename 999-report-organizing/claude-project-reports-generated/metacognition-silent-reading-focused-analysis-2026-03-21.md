@@ -23,9 +23,9 @@ related_concepts:
   - "[[metacognitive-regulation]]"
   - "[[self-regulated-learning]]"
   - "[[situation-model]]"
-  - "[[monitoring-control-coupling]]"
+  - "[[Monitoring-Control Coupling]]"
   - "[[monitoring-gap]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[working-memory]]"
   - "[[transfer-of-learning]]"
 knowledge_level: advanced
@@ -125,7 +125,7 @@ builds_on:
   - "[[metacognitive-monitoring]]"
   - "[[metacognitive-regulation]]"
   - "[[flavell-metacognition-framework]]"
-  - "[[monitoring-control-coupling]]"
+  - "[[Monitoring-Control Coupling]]"
 
 aliases:
   - "[[Metacognition in Silent Reading]]"
@@ -141,7 +141,7 @@ link_related:
   - "[[metacognitive-regulation]]"
   - "[[self-regulated-learning]]"
   - "[[situation-model]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[transfer-of-learning]]"
 
 summary: "A focused analysis of the monitoring-regulation decoupling problem in silent reading. Argues that comprehension failures during silent reading are frequently caused not by ignorance of monitoring strategies, but by an architectural gap between detection and regulation — the monitoring system generates signals that the control system fails to act upon. Develops the 'fluency trap' mechanism, examines the evidence base, proposes a three-tier monitoring model, and extracts transferable principles applicable across domains where automaticity masks performance failures."
@@ -218,7 +218,7 @@ The pivotal insight the framework enables is this: metacognitive experiences ser
 The most precise theoretical account of the monitoring-regulation interface comes from Nelson and Narens (1990), whose two-level framework distinguishes the *object level* (cognitive performance) from the *meta level* (metacognitive monitoring and control):
 
 > [!definition] **The Monitoring-Control Model (Nelson & Narens, 1990)**
-> A two-level architecture in which (1) the *object level* represents cognitive processing — in reading, the processes of word identification, syntactic parsing, inference generation, and situation model construction; (2) the *meta level* monitors the object level and can issue control signals to it; and (3) crucially, these levels communicate through two distinct channels: **monitoring** flows upward (from object to meta) and **control** flows downward (from meta to object). [[monitoring-control-coupling]] occurs when a monitoring signal reliably activates a corresponding control response. [[monitoring-gap]] occurs when monitoring signals are generated but fail to activate control.
+> A two-level architecture in which (1) the *object level* represents cognitive processing — in reading, the processes of word identification, syntactic parsing, inference generation, and situation model construction; (2) the *meta level* monitors the object level and can issue control signals to it; and (3) crucially, these levels communicate through two distinct channels: **monitoring** flows upward (from object to meta) and **control** flows downward (from meta to object). [[Monitoring-Control Coupling]] occurs when a monitoring signal reliably activates a corresponding control response. [[monitoring-gap]] occurs when monitoring signals are generated but fail to activate control.
 
 This model is not merely descriptive — it has sharp predictive and explanatory power. It predicts, for instance, that improving monitoring accuracy (the upward channel) does not automatically improve regulation (the downward channel), because the two channels operate via different mechanisms. It explains why readers can simultaneously "know" they are confused (monitoring functioning) and continue reading without taking corrective action (control failing). And it suggests that the central intervention target should be the *coupling* between monitoring and control, not monitoring alone.
 
@@ -265,14 +265,14 @@ Markman (1977, 1979) embedded logical inconsistencies into children's texts and 
 The classic study by Bransford and Johnson (1972) — in which participants read "The Washing Clothes" passage without a title and showed dramatically impaired comprehension and recall — established that comprehension depends on schema activation, not just reading ability. But its implications for monitoring are less frequently noted: participants in that study did not report confusion during reading. They were not aware that they had failed to understand. The monitoring failure was invisible to them.
 
 > [!evidence] **Garner (1987) — The Compile-to-Understand Illusion**
-> Garner's comprehensive review of metacognitive failures in reading identified a pattern she called "compile to understand" — the tendency of many readers to treat successful word-by-word processing as equivalent to successful comprehension. Readers who "compile" in this sense feel that they have understood a text if they have read all the words without stumbling, regardless of whether those words have been integrated into a coherent [[situation-model]]. This illusion — a specific variant of the [[fluency-illusion]] — is, Garner argues, the primary mechanism by which monitoring fails in most adult readers. The feeling of smooth, fluent reading suppresses the generation of monitoring signals that would otherwise be triggered by comprehension failure.
+> Garner's comprehensive review of metacognitive failures in reading identified a pattern she called "compile to understand" — the tendency of many readers to treat successful word-by-word processing as equivalent to successful comprehension. Readers who "compile" in this sense feel that they have understood a text if they have read all the words without stumbling, regardless of whether those words have been integrated into a coherent [[situation-model]]. This illusion — a specific variant of the [[Fluency Illusion]] — is, Garner argues, the primary mechanism by which monitoring fails in most adult readers. The feeling of smooth, fluent reading suppresses the generation of monitoring signals that would otherwise be triggered by comprehension failure.
 
 ### Fluency's Double-Edged Nature
 
 The evidence on reading fluency creates a genuine tension that the field has not fully resolved:
 
 > [!tension-identified] **Fluency as Both Resource and Liability**
-> Fluency in word recognition and decoding is a demonstrably necessary condition for skilled reading comprehension — readers who must allocate working memory to word decoding have fewer cognitive resources for comprehension monitoring (LaBerge & Samuels, 1974; Perfetti, 1985). This is the "simple view of reading" logic: decode fluently, and cognitive resources are freed for comprehension. Yet the evidence on the [[fluency-illusion]] — reviewed in Phase IV — demonstrates that *too much* fluency paradoxically suppresses the monitoring signals that comprehension requires. The reader who decodes effortlessly is, in some sense, *less* likely to notice when comprehension is failing than the reader who struggles slightly. This is not a trivial finding: it suggests that the solution to reading comprehension difficulties is not simply increased fluency practice, and that as students become more fluent, monitoring instruction becomes *more* rather than less important.
+> Fluency in word recognition and decoding is a demonstrably necessary condition for skilled reading comprehension — readers who must allocate working memory to word decoding have fewer cognitive resources for comprehension monitoring (LaBerge & Samuels, 1974; Perfetti, 1985). This is the "simple view of reading" logic: decode fluently, and cognitive resources are freed for comprehension. Yet the evidence on the [[Fluency Illusion]] — reviewed in Phase IV — demonstrates that *too much* fluency paradoxically suppresses the monitoring signals that comprehension requires. The reader who decodes effortlessly is, in some sense, *less* likely to notice when comprehension is failing than the reader who struggles slightly. This is not a trivial finding: it suggests that the solution to reading comprehension difficulties is not simply increased fluency practice, and that as students become more fluent, monitoring instruction becomes *more* rather than less important.
 
 ### Evidence on Effective Monitoring Strategies
 
@@ -333,7 +333,7 @@ This dynamic interacts with the fluency trap in a compounding way. Dense, diffic
 
 ### The Monitoring-Regulation Decoupling: Three Mechanisms
 
-The [[monitoring-control-coupling]] literature identifies several distinct mechanisms by which monitoring can fail to trigger regulation. In the reading context, three are particularly important.
+The [[Monitoring-Control Coupling]] literature identifies several distinct mechanisms by which monitoring can fail to trigger regulation. In the reading context, three are particularly important.
 
 **Mechanism 1: Signal Threshold Failure.** Monitoring signals vary in strength. A blatant contradiction generates a strong, salient monitoring signal. A subtle inconsistency — an unstated assumption that doesn't quite work, a causal link that is plausible but not actually established by the text — generates a weak, easily dismissed signal. Most real-world comprehension failures generate weak signals that fall below the threshold required to activate regulatory action. Readers feel a slight unease but interpret it as unfamiliarity with the content rather than as a genuine comprehension failure.
 
@@ -528,11 +528,11 @@ Transfer is limited or inappropriate when the performance system lacks these str
 >
 > - **[[metacognitive-regulation]]** — The analysis frames the core problem as a monitoring-regulation decoupling rather than a monitoring failure per se. This reframes what [[metacognitive-regulation]] instruction needs to accomplish: not just strategy provision but explicit coupling protocols between detection and action.
 >
-> - **[[monitoring-control-coupling]]** — The Nelson-Narens model of monitoring-control coupling is the analytical backbone of Phase IV. The three mechanisms of decoupling (signal threshold failure, strategy activation failure, effort abandonment) represent a reading-specific elaboration of the general [[monitoring-control-coupling]] framework.
+> - **[[Monitoring-Control Coupling]]** — The Nelson-Narens model of monitoring-control coupling is the analytical backbone of Phase IV. The three mechanisms of decoupling (signal threshold failure, strategy activation failure, effort abandonment) represent a reading-specific elaboration of the general [[Monitoring-Control Coupling]] framework.
 >
 > - **[[monitoring-gap]]** — The monitoring gap concept provides the precise language for the central phenomenon analyzed here. This analysis adds mechanistic specificity to [[monitoring-gap]] theory by identifying the fluency trap as its primary driver in skilled reading.
 >
-> - **[[fluency-illusion]]** — The fluency trap mechanism developed in Phase IV is a specific instance of the [[fluency-illusion]] operating at the level of text comprehension. This analysis provides the mechanistic account of *why* the [[fluency-illusion]] suppresses comprehension monitoring signals.
+> - **[[Fluency Illusion]]** — The fluency trap mechanism developed in Phase IV is a specific instance of the [[Fluency Illusion]] operating at the level of text comprehension. This analysis provides the mechanistic account of *why* the [[Fluency Illusion]] suppresses comprehension monitoring signals.
 >
 > - **[[situation-model]]** — The three-tier monitoring model is organized around the [[situation-model]] level as the critical monitoring target. This analysis argues that most consequential comprehension failures occur at the situational coherence level, and that most monitoring instruction mistakenly targets lower levels.
 >
@@ -564,7 +564,7 @@ Transfer is limited or inappropriate when the performance system lacks these str
 > The process of evaluating one's own text comprehension during reading — detecting failures of understanding, inconsistencies between text and background knowledge, and gaps in situational coherence. Comprehension monitoring is a specific application of [[metacognitive-monitoring]] to the reading domain. It is distinguished from comprehension *testing* (external assessment of comprehension) by its real-time, self-directed character.
 
 > [!definition] **Fluency Trap (Original Synthesis, this analysis)**
-> The mechanism by which reading fluency — the smooth, automatic processing of text at the lexical and syntactic levels — suppresses comprehension monitoring signals at the situational coherence level. Arises because the metacognitive system uses processing fluency as a proxy for comprehension success, generating false-positive comprehension signals when fluent decoding coexists with situation-model incoherence. A specific instantiation of the [[fluency-illusion]] in the context of comprehension monitoring.
+> The mechanism by which reading fluency — the smooth, automatic processing of text at the lexical and syntactic levels — suppresses comprehension monitoring signals at the situational coherence level. Arises because the metacognitive system uses processing fluency as a proxy for comprehension success, generating false-positive comprehension signals when fluent decoding coexists with situation-model incoherence. A specific instantiation of the [[Fluency Illusion]] in the context of comprehension monitoring.
 
 > [!definition] **Situation Model (van Dijk & Kintsch, 1983)**
 > The mental representation a reader constructs of the world described by a text — incorporating entities, events, spatial relations, temporal relations, causal relations, and intentional states. Distinguished from the *textbase* (a representation of the text's explicit propositions) and the *surface form* (a verbatim representation of the text's wording). Comprehension at the situation model level is the most important and most frequently under-monitored level of reading.
@@ -573,7 +573,7 @@ Transfer is limited or inappropriate when the performance system lacks these str
 > A regulatory action deployed in response to a detected comprehension failure. Fix-up strategies range on a continuum from local (re-reading a sentence) to global (returning to an earlier passage, seeking background knowledge, constructing a summary diagram). Strategy activation failure — the inability to select an appropriate fix-up strategy when a failure has been detected — is one of the three mechanisms of monitoring-regulation decoupling identified in this analysis.
 
 > [!definition] **Monitoring-Regulation Decoupling**
-> The failure of detected comprehension failures to trigger corresponding regulatory actions. Distinguished from monitoring failure (not detecting a failure) by the presence of a monitoring signal that does not result in regulatory action. The three mechanisms identified in this analysis are signal threshold failure, strategy activation failure, and effort abandonment. Central concept from [[monitoring-control-coupling]] theory (Nelson & Narens, 1990) applied to the reading domain.
+> The failure of detected comprehension failures to trigger corresponding regulatory actions. Distinguished from monitoring failure (not detecting a failure) by the presence of a monitoring signal that does not result in regulatory action. The three mechanisms identified in this analysis are signal threshold failure, strategy activation failure, and effort abandonment. Central concept from [[Monitoring-Control Coupling]] theory (Nelson & Narens, 1990) applied to the reading domain.
 
 > [!definition] **Three-Tier Monitoring Architecture (Original Synthesis, this analysis)**
 > An integrative model of comprehension monitoring distinguishing Tier 1 (lexical-syntactic monitoring), Tier 2 (propositional coherence monitoring), and Tier 3 (situational coherence monitoring). Each tier has distinct failure modes and remediation strategies. The central claim is that most consequential comprehension failures occur at Tier 3, while most strategy instruction targets Tier 1.

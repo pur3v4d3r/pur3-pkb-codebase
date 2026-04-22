@@ -27,13 +27,13 @@ related_concepts:
   - "[[spreading-activation|Spreading Activation]]"
   - "[[encoding-specificity|Encoding Specificity]]"
   - "[[transfer-appropriate-processing|Transfer-Appropriate Processing]]"
-  - "[[desirable-difficulties|Desirable Difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]"
   - "[[generation-effect|Generation Effect]]"
   - "[[retrieval-induced-forgetting|Retrieval-Induced Forgetting]]"
   - "[[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]"
   - "[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]"
   - "[[spaced-practice]]"
-  - "[[interleaving]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[Active-Recall]]"
   - "[[personal-knowledge-base|Personal Knowledge Base]]"
   - "[[personal-knowledge-management|Personal Knowledge Management]]"
@@ -206,7 +206,7 @@ The critical mechanistic point — and this is where cognitive psychology and ed
 The temporal dimension of the Testing Effect is provided by [[spaced-repetition-spacing-effect|Spaced Repetition]]. If each act of retrieval strengthens associative pathways, then the question becomes: when should retrieval attempts be scheduled? The Spacing Effect provides the answer: at the point of maximum potential difficulty before forgetting occurs. Retrieving something just before it would have been forgotten produces the strongest retrieval attempt (highest activation effort required) and therefore the greatest pathway strengthening. This is the logic of the SM-2 algorithm that underlies Anki: each successful retrieval extends the interval, because successful retrieval indicates the pathway is strong enough to survive longer intervals; each failure shortens it, signaling that the pathway needs more frequent reinforcement.
 
 > [!definition] **Elaborative Retrieval (Cognitive Psychology / Instructional Design — Anderson & Reder, 1979; Weinstein & Mayer, 1986)**
-> A retrieval strategy in which the learner, rather than simply attempting to recall a stored representation verbatim, actively generates *connections* between the retrieved material and other knowledge — asking "why is this true?", "what does this connect to?", "what are the implications of this?", and "how does this relate to what I know about X?" Elaborative retrieval combines the pathway-strengthening benefit of active retrieval with the network-expansion benefit of elaborative encoding: it does not merely traverse existing associative pathways but creates *new* ones, expanding the network's capacity to retrieve the same knowledge through multiple routes. The [[elaborative-interrogation|Elaborative Interrogation]] technique (Pressley et al., 1992) is the instructional design implementation of this principle.
+> A retrieval strategy in which the learner, rather than simply attempting to recall a stored representation verbatim, actively generates *connections* between the retrieved material and other knowledge — asking "why is this true?", "what does this connect to?", "what are the implications of this?", and "how does this relate to what I know about X?" Elaborative retrieval combines the pathway-strengthening benefit of active retrieval with the network-expansion benefit of elaborative encoding: it does not merely traverse existing associative pathways but creates *new* ones, expanding the network's capacity to retrieve the same knowledge through multiple routes. The [[Elaborative Interrogation|Elaborative Interrogation]] technique (Pressley et al., 1992) is the instructional design implementation of this principle.
 
 > [!definition] **Desirable Difficulties (Educational Psychology — Bjork, 1994; Bjork & Bjork, 2011)**
 > A class of learning conditions that appear to impede learning in the short term (as measured by immediate performance) but enhance long-term retention and transfer. The core insight is that the *ease* of a learning condition and its *effectiveness* are inversely related: conditions that make learning feel smooth and effortless (re-reading familiar material, massed practice, blocked practice) produce better immediate performance but worse long-term outcomes; conditions that introduce difficulty (testing instead of re-studying, spaced practice, interleaving) impair immediate performance but produce significantly better long-term retention. The mechanism across all desirable difficulties is the same: greater processing effort at encoding or retrieval produces more robust memory traces. For PKB design, this is a radical challenge: systems optimized for smooth user experience are, by this logic, systems optimized for poor long-term learning.
@@ -533,11 +533,11 @@ A second unresolved question concerns network topology optimization: at what lev
 >
 > - **[[testing-effect-retrieval-practice-effect|Testing Effect]]** — The core empirical finding anchoring the retrieval practice recommendations. Notes on Roediger & Karpicke (2006), Dunlosky et al. (2013), and Pan & Rickard (2018) all feed directly into the RENS framework and should link here.
 >
-> - **[[desirable-difficulties|Desirable Difficulties]]** — The broader theoretical framework under which the Testing Effect and Spacing Effect are unified. The connection runs both ways: this report provides specific design implementations of the desirable difficulties principle; Report 16 provides the broader motivational and philosophical grounding.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]** — The broader theoretical framework under which the Testing Effect and Spacing Effect are unified. The connection runs both ways: this report provides specific design implementations of the desirable difficulties principle; Report 16 provides the broader motivational and philosophical grounding.
 >
 > - **[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]** — The central failure mode that retrieval-first PKB design addresses. Notes on metacognitive overconfidence, ease-of-processing, and rereading illusions all connect to the calibration design principles developed here.
 >
-> - **[[elaborative-interrogation|Elaborative Interrogation]]** — The instructional design technique that operationalizes elaborative retrieval. The retrieval prompt templates in Phase V are direct implementations; any notes on Pressley et al. (1992) or the "why-generation" technique belong in this neighborhood.
+> - **[[Elaborative Interrogation|Elaborative Interrogation]]** — The instructional design technique that operationalizes elaborative retrieval. The retrieval prompt templates in Phase V are direct implementations; any notes on Pressley et al. (1992) or the "why-generation" technique belong in this neighborhood.
 >
 > - **[[Memory-Reconsolidation|Memory Reconsolidation]]** — The neurobiological mechanism supporting the "retrieval as generative construction" insight. The link between Nader et al. (2000) and PKB review-time link creation is a novel connection that would reward further development.
 >

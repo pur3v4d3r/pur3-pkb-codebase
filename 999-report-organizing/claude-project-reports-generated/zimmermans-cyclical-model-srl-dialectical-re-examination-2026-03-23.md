@@ -185,7 +185,7 @@ related:
   - "[[self-efficacy-theory]]"
   - "[[forethought-phase]]"
   - "[[self-reflection-phase]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[illusion-of-knowing]]"
 
 broader:
@@ -195,7 +195,7 @@ broader:
 narrower:
   - "[[forethought-phase]]"
   - "[[self-reflection-phase]]"
-  - "[[monitoring-control-coupling]]"
+  - "[[Monitoring-Control Coupling]]"
 
 see-also:
   - "[[double-loop-learning]]"
@@ -378,7 +378,7 @@ The **critical lens** asks whose experience the model captures, whose it margina
 The most significant empirical challenge to the received view comes from process-tracing studies that examine, in real time, what learners actually do while engaging with learning tasks. Roger Azevedo and colleagues, in a series of influential studies using hypermedia-based learning environments, employed think-aloud protocols and log file analyses to track how learners actually deployed SRL processes. The results are persistently troubling for the tight-loop assumption. Learners frequently engaged in monitoring-like behaviors — re-reading passages, pausing, expressing uncertainty — without proceeding to any form of strategic adaptation. They noticed they did not understand without doing anything systematically different about it. The monitoring occurred; the regulation did not follow.
 
 > [!what-the-evidence-suggests] **The Monitoring-Regulation Gap Is Not a Marginal Finding**
-> The monitoring-regulation decoupling documented in hypermedia studies is not an artifact of an unusual learning environment. Metacognitive calibration research spanning decades consistently shows that learners, particularly novices, are systematically overconfident about their knowledge states — they believe they understand more than they do. This overconfidence is not merely a confidence-judgment artifact: it shapes behavior. Learners who believe they understand stop encoding; they reduce their study time; they shift from effortful to shallow processing. The [[fluency-illusion]] — the tendency to confuse ease of processing with depth of understanding — is one well-documented mechanism through which monitoring systematically fails. The received view's response that "ineffective learners monitor poorly" is, in an important sense, correct — but it names the phenomenon rather than explaining it, and the model does not specify what needs to happen for monitoring to improve.
+> The monitoring-regulation decoupling documented in hypermedia studies is not an artifact of an unusual learning environment. Metacognitive calibration research spanning decades consistently shows that learners, particularly novices, are systematically overconfident about their knowledge states — they believe they understand more than they do. This overconfidence is not merely a confidence-judgment artifact: it shapes behavior. Learners who believe they understand stop encoding; they reduce their study time; they shift from effortful to shallow processing. The [[Fluency Illusion]] — the tendency to confuse ease of processing with depth of understanding — is one well-documented mechanism through which monitoring systematically fails. The received view's response that "ineffective learners monitor poorly" is, in an important sense, correct — but it names the phenomenon rather than explaining it, and the model does not specify what needs to happen for monitoring to improve.
 
 > [!assumption-challenge] **The Tight-Loop Assumption**
 > **The assumption**: Zimmerman's model assumes that the cycle's three phases form a *functionally integrated* feedback loop — that information generated during the Performance Phase flows reliably into the Self-Reflection Phase, which then reliably modifies the subsequent Forethought Phase. This integration is not stated explicitly but is architecturally required: without it, the cycle does not produce the adaptive learning it promises.
@@ -608,7 +608,7 @@ In **performance management systems**: Organizational performance management cyc
 >
 > - **[[Winne-&-Hadwin's-Metacognitive-Processing-Model]]** — The COPES model emerged in Phase IV as the primary alternative interpretation. Rather than competing with Zimmerman, the two models now appear as complementary: Zimmerman maps the normative endpoint of expert SRL (what the cycle looks like when it runs well); COPES maps the conditional triggers that determine whether the cycle runs at all. Notes on both should cross-reference this dialectical relationship.
 >
-> - **[[fluency-illusion]]** — The fluency illusion is one of the primary mechanisms through which the cognitive transparency assumption fails. Learners who experience fluent processing of a text they do not genuinely understand will report high comprehension confidence, feed an inaccurate signal into the Self-Reflection Phase, and attribute strong performance to their competence rather than to the text's fluency. This connection gives the fluency illusion node a direct SRL-architectural significance that it may not have had before.
+> - **[[Fluency Illusion]]** — The fluency illusion is one of the primary mechanisms through which the cognitive transparency assumption fails. Learners who experience fluent processing of a text they do not genuinely understand will report high comprehension confidence, feed an inaccurate signal into the Self-Reflection Phase, and attribute strong performance to their competence rather than to the text's fluency. This connection gives the fluency illusion node a direct SRL-architectural significance that it may not have had before.
 >
 > - **[[self-efficacy-theory]]** — The reconstructed understanding identifies self-efficacy *calibration* (accuracy) as a critical but underspecified variable in the cycle. The connection to this node now includes the specific insight that self-efficacy calibration mechanisms must be explicitly designed into learning environments — high-efficacy without calibrated efficacy can corrupt the Forethought Phase.
 >
@@ -624,7 +624,7 @@ In **performance management systems**: Organizational performance management cyc
 >
 > - **[[self-determination-theory-dialectical-re-examination-2026-03-19]]** — SDT's dialectical re-examination and this one share structural features: both examined received views in motivational educational psychology, both surfaced population-specificity as a critical lens challenge, and both produced reconstructions that reframe the model as design target rather than universal description. The two re-examinations read together produce a convergent insight about the limits of individually-focused motivational frameworks.
 >
-> **Synthetic Observation**: The pattern of connections reveals that the Zimmerman cycle functions as a *hub* in the PKB's SRL-related knowledge graph — touching metacognition, motivation, instructional design, and philosophy of mind simultaneously. The dialectical re-examination does not isolate Zimmerman from this hub; it clarifies the conditions of connection. The cycle's links to [[nelson-narens-model]], [[Winne-&-Hadwin's-Metacognitive-Processing-Model]], [[fluency-illusion]], and [[self-efficacy-theory]] are now richer and more specifically specified than they were before — each connection now carries the insight that it is a connection about a *conditional* rather than an automatic relationship.
+> **Synthetic Observation**: The pattern of connections reveals that the Zimmerman cycle functions as a *hub* in the PKB's SRL-related knowledge graph — touching metacognition, motivation, instructional design, and philosophy of mind simultaneously. The dialectical re-examination does not isolate Zimmerman from this hub; it clarifies the conditions of connection. The cycle's links to [[nelson-narens-model]], [[Winne-&-Hadwin's-Metacognitive-Processing-Model]], [[Fluency Illusion]], and [[self-efficacy-theory]] are now richer and more specifically specified than they were before — each connection now carries the insight that it is a connection about a *conditional* rather than an automatic relationship.
 
 ---
 
@@ -663,7 +663,7 @@ In **performance management systems**: Organizational performance management cyc
 >
 > **Etymology/Intellectual Lineage**: Calibration concept from decision theory and meteorological forecasting; applied to metacognition by Nelson & Narens (1990) and extensively developed by Dunning & Kruger (1999) and others.
 >
-> **Cross-References**: [[dunning-kruger-effect]], [[illusion-of-knowing]], [[fluency-illusion]]
+> **Cross-References**: [[dunning-kruger-effect]], [[illusion-of-knowing]], [[Fluency Illusion]]
 
 > [!definition] **Cognitive Transparency Assumption**
 > **Definition**: The tacit assumption that learners have sufficiently accurate introspective access to their own cognitive states to support effective regulation. Not equivalent to consciousness — the assumption is specifically that *conscious* access to cognitive states (monitoring of comprehension, awareness of cognitive effort, assessment of understanding) accurately represents the underlying cognitive states being monitored. Post-reconstruction: does not survive in strong form; requires supplementation with external calibration mechanisms.
@@ -674,7 +674,7 @@ In **performance management systems**: Organizational performance management cyc
 >
 > **Etymology/Intellectual Lineage**: Critique of cognitive transparency in psychological methodology goes back to Nisbett & Wilson (1977); applied to SRL in the metacognitive accuracy literature.
 >
-> **Cross-References**: [[fluency-illusion]], [[illusion-of-knowing]], [[metacognition]]
+> **Cross-References**: [[Fluency Illusion]], [[illusion-of-knowing]], [[metacognition]]
 
 > [!definition] **Forethought Phase (Zimmerman)**
 > **Definition**: The first phase of [[Zimmerman's-Three-Phase-SRL-Cycle]], encompassing the motivational and cognitive preparation that precedes learning engagement. Contains task analysis (goal-setting, strategic planning) and self-motivational beliefs ([[self-efficacy]], outcome expectations, intrinsic interest/value, and goal orientation). Critically, the Forethought Phase does not merely initiate the cycle; it *establishes the standards against which Performance Phase monitoring will be conducted* — making the accuracy of Forethought Phase constructs foundational to the cycle's integrity. Post-reconstruction: the quality of Forethought Phase goal-setting and efficacy appraisal depends on calibration accuracy from prior Self-Reflection Phases; in novices, this calibration history may be limited or inaccurate.

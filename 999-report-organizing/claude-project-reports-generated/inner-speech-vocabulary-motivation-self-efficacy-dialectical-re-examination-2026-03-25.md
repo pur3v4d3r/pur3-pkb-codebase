@@ -176,7 +176,7 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy]]"
   - "[[self-determination-theory]]"
   - "[[self-regulated-learning]]"
@@ -187,7 +187,7 @@ focused-analysis: "[[Self-Regulated-Learning-—-Focused-Analysis]]"
 related:
   - "[[attribution-retraining]]"
   - "[[growth-mindset]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[goal-setting-theory]]"
   - "[[self-reflection-phase]]"
   - "[[forethought-phase]]"
@@ -215,14 +215,14 @@ contrasts-with:
 
 applied-in:
   - "[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[self-explanation-effect]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[self-efficacy-theory]]"
   - "[[self-determination-theory]]"
   - "[[achievement-goal-theory]]"
@@ -313,7 +313,7 @@ generation-date: "2026-03-25"
 
 There is a crack in the received account of inner speech and academic motivation that most treatments paper over with confident language. It runs along this line: we commonly speak of having a *negative inner monologue* about our academic reading as though it were a barometer — a readout of our motivational temperature — rather than a furnace that generates heat. The thermometer metaphor pervades popular accounts of "positive self-talk" and most educational psychology textbooks: you *feel* frustrated, and your inner speech *says* "I can't do this"; when you build motivation, your inner speech *says* something more constructive. The speech, on this picture, is downstream of the motivational state.
 
-This report subjects that account to dialectical scrutiny. The crack deepens considerably under pressure from [[attribution-theory]], [[appraisal-theory]], and [[vygotsky]]'s developmental account of inner speech. What emerges from the challenge phases is not a simple reversal — "inner speech *causes* motivation" is too blunt — but something more interesting and more practically useful: inner speech vocabulary is **constitutive** of motivational states during reading, not merely expressive of them. The distinction matters enormously for how you practice [[self-regulated-learning]].
+This report subjects that account to dialectical scrutiny. The crack deepens considerably under pressure from [[Attribution (Heider, 1958)]], [[appraisal-theory]], and [[vygotsky]]'s developmental account of inner speech. What emerges from the challenge phases is not a simple reversal — "inner speech *causes* motivation" is too blunt — but something more interesting and more practically useful: inner speech vocabulary is **constitutive** of motivational states during reading, not merely expressive of them. The distinction matters enormously for how you practice [[self-regulated-learning]].
 
 ### The Received View
 
@@ -332,7 +332,7 @@ Three convergent developments motivate this dialectical analysis, particularly f
 
 First, your direct observational experience during reading those reports — noticing how the *specific vocabulary* of attribution (not just the attribution itself) visibly shifted your engagement — constitutes exactly the kind of phenomenological anomaly that good dialectical thinking should take seriously. The gap between theoretical framing and lived experience is data.
 
-Second, [[attribution-theory]] as developed by [[bernard-weiner]] contains a largely under-exploited insight: the causal dimensions of attributions (locus, stability, controllability) are not purely cognitive constructs that exist prior to their verbal formulation — they are, in important respects, *encoded in* the vocabulary of the attribution itself. The word "can't" is grammatically structured as a disposition; the phrase "haven't yet" is grammatically structured as a trajectory. This linguistic-structural difference does motivational work.
+Second, [[Attribution (Heider, 1958)]] as developed by [[bernard-weiner]] contains a largely under-exploited insight: the causal dimensions of attributions (locus, stability, controllability) are not purely cognitive constructs that exist prior to their verbal formulation — they are, in important respects, *encoded in* the vocabulary of the attribution itself. The word "can't" is grammatically structured as a disposition; the phrase "haven't yet" is grammatically structured as a trajectory. This linguistic-structural difference does motivational work.
 
 Third, the interface between [[self-regulated-learning]] and the [[forethought-phase]] of Zimmerman's model creates a specific site where vocabulary is maximally consequential: the goals you set, the efficacy beliefs you activate, and the attributions you anticipate all occur in inner speech before, during, and after engagement with a text. If those verbal formulations are constitutive rather than merely expressive, the entire architecture of SRL practice changes in its implications.
 
@@ -344,7 +344,7 @@ This report examines the thesis that inner speech vocabulary during academic rea
 
 ## Phase II: Perspectival Framework
 
-Before the dialectical challenge phases can proceed with precision, four conceptual tools need to be established: the operational definition of inner speech in the reading context, the three-dimensional structure of [[attribution-theory|attributional vocabulary]], the distinction between expressive and constitutive language functions, and the relationship between regulatory vocabulary and the [[self-determination-theory|autonomy-control continuum]].
+Before the dialectical challenge phases can proceed with precision, four conceptual tools need to be established: the operational definition of inner speech in the reading context, the three-dimensional structure of [[Attribution (Heider, 1958)|attributional vocabulary]], the distinction between expressive and constitutive language functions, and the relationship between regulatory vocabulary and the [[self-determination-theory|autonomy-control continuum]].
 
 > [!definition] **Inner Speech (Vygotsky, 1934/1986)**
 > **Definition:** Inner speech is the internalized, abbreviated, and predicate-dominant form of external speech that serves the self-regulatory function of mediating between thought and action. Distinguished from verbal thinking (internal monologue with full sentence structure) and from subvocalization (motor-level phonological encoding), inner speech in [[vygotsky]]'s account is functionally social — it is internalized dialogue — and carries the compressed semantic architecture of the social speech from which it was derived. **Boundary condition**: inner speech is not the same as *all* mental verbal activity; it specifically refers to self-directed, self-regulatory speech rather than merely language-accompanied thought.
@@ -362,7 +362,7 @@ Before the dialectical challenge phases can proceed with precision, four concept
 > **Report-Specific Significance:** The entire dialectical argument turns on whether inner speech vocabulary operates expressively or constitutively during academic reading.
 
 > [!definition] **Regulatory Language Spectrum (adapted from SDT)**
-> **Definition:** The vocabulary of self-direction exists on a spectrum corresponding to the [[internalization-continuum]] in [[self-determination-theory]]: from *introjected regulatory language* ("I have to understand this or I'll feel like a failure") to *identified regulatory language* ("I want to understand this because it matters to my goals") to *integrated regulatory language* ("understanding this is part of what I do as a learner"). The locus and quality of causality encoded in the vocabulary signals the regulatory style of the inner speech.
+> **Definition:** The vocabulary of self-direction exists on a spectrum corresponding to the [[internalization]] in [[self-determination-theory]]: from *introjected regulatory language* ("I have to understand this or I'll feel like a failure") to *identified regulatory language* ("I want to understand this because it matters to my goals") to *integrated regulatory language* ("understanding this is part of what I do as a learner"). The locus and quality of causality encoded in the vocabulary signals the regulatory style of the inner speech.
 >
 > **Report-Specific Significance:** This provides a more fine-grained vocabulary for the "constructive inner speech" category that intervention research invokes. Not all positive-sounding inner speech is equally autonomy-supportive, and the difference is encoded in vocabulary.
 
@@ -370,7 +370,7 @@ Before the dialectical challenge phases can proceed with precision, four concept
 
 The perspectival rotation will examine the received view through four lenses, whose differential productivity I have assessed for this topic:
 
-**Lens 1: Empirical** — *High productivity*. [[attribution-theory]] and [[self-efficacy]] research provide a rich evidence base, and the intervention literature (attribution retraining, growth mindset) provides a kind of natural experiment in vocabulary-level change. The key vulnerability in the received view is here.
+**Lens 1: Empirical** — *High productivity*. [[Attribution (Heider, 1958)]] and [[self-efficacy]] research provide a rich evidence base, and the intervention literature (attribution retraining, growth mindset) provides a kind of natural experiment in vocabulary-level change. The key vulnerability in the received view is here.
 
 **Lens 2: Philosophical** — *High productivity*. The cognition/motivation distinction in the received account relies on a sharp boundary that [[appraisal-theory]] has challenged at length. The philosophical lens will reveal a hidden assumption doing considerable structural work.
 
@@ -401,7 +401,7 @@ The perspectival rotation will examine the received view through four lenses, wh
 
 ### The Empirical Challenge: Attribution Language Is Performative
 
-The most direct empirical challenge to the received view comes from the intervention tradition within [[attribution-theory]]. The logic is as follows: if attributional vocabulary merely *reflects* pre-existing attributional beliefs, then changing vocabulary without changing the underlying belief should produce little motivational change. Attribution retraining programs, however, produce durable motivational change through *vocabulary-level interventions* — students are trained to replace "I can't do this" with "I haven't mastered this yet," to replace "this is too hard for me" with "this requires more effort and strategy," and to replace "I failed because I'm not smart enough" with "I failed because I didn't use the right approach."
+The most direct empirical challenge to the received view comes from the intervention tradition within [[Attribution (Heider, 1958)]]. The logic is as follows: if attributional vocabulary merely *reflects* pre-existing attributional beliefs, then changing vocabulary without changing the underlying belief should produce little motivational change. Attribution retraining programs, however, produce durable motivational change through *vocabulary-level interventions* — students are trained to replace "I can't do this" with "I haven't mastered this yet," to replace "this is too hard for me" with "this requires more effort and strategy," and to replace "I failed because I'm not smart enough" with "I failed because I didn't use the right approach."
 
 > [!what-the-evidence-suggests] **Attribution Retraining Produces Structural Change Through Vocabulary Substitution**
 > The research on attribution retraining (Dweck, 1975; Wilson & Linville, 1982; Aronson et al., 2002) consistently shows that training students to attribute failures to unstable, controllable causes — and critically, to *practice using the specific vocabulary* of this attribution pattern — produces lasting changes in persistence, achievement, and self-efficacy. The key finding for our dialectical purposes is that vocabulary substitution precedes and predicts the change in underlying belief, not the reverse. Students who practice saying "I need more effort and a better strategy" before they *believe* it produce the motivational outcomes consistent with holding that belief. This is the pattern predicted by a constitutive account of vocabulary, not an expressive one.
@@ -604,17 +604,17 @@ Motivational and regulatory precision is constrained by vocabulary granularity. 
 >
 > This dialectical re-examination of inner speech vocabulary connects to your knowledge base at several high-density nodes:
 >
-> - **[[attribution-theory]]** — The foundational framework challenged and reconstructed here. The dialectical process reveals that Weiner's three-dimensional model (locus, stability, controllability) undersells the constitutive complexity of attributional vocabulary. Each dimension encompasses a spectrum of specific vocabulary formulations that carry different motivational affordances than the abstract dimension label suggests. The reconstructed account enriches the attributional framework by specifying *how* vocabulary encodes the three dimensions.
+> - **[[Attribution (Heider, 1958)]]** — The foundational framework challenged and reconstructed here. The dialectical process reveals that Weiner's three-dimensional model (locus, stability, controllability) undersells the constitutive complexity of attributional vocabulary. Each dimension encompasses a spectrum of specific vocabulary formulations that carry different motivational affordances than the abstract dimension label suggests. The reconstructed account enriches the attributional framework by specifying *how* vocabulary encodes the three dimensions.
 >
 > - **[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]** — The most direct connection. The reconstruction identifies the [[forethought-phase]] (goal setting, self-motivation beliefs, strategic planning) and the [[self-reflection-phase]] (self-evaluation, attributional reasoning) as primarily vocabulary events. The specific vocabulary deployed in each phase constitutes the motivational architecture of the subsequent phase. This reframing has practical implications for how you design your SRL workflow: vocabulary priming and reflection prompts are not supporting tools — they are the core mechanism.
 >
-> - **[[self-determination-theory]]** — The [[internalization-continuum]] in SDT maps directly onto the regulatory language spectrum developed in Phase II. Introjected language ("I have to," "I should," "or I'll feel bad") corresponds to introjected regulation; identified language ("I want to because it matters") to identified regulation; integrated language ("this is what I do as a learner") to integrated regulation. The dialectical analysis suggests that practicing the vocabulary of more autonomous regulation is not merely a symptom of advancing along the continuum — it is a mechanism for advancing along it.
+> - **[[self-determination-theory]]** — The [[internalization]] in SDT maps directly onto the regulatory language spectrum developed in Phase II. Introjected language ("I have to," "I should," "or I'll feel bad") corresponds to introjected regulation; identified language ("I want to because it matters") to identified regulation; integrated language ("this is what I do as a learner") to integrated regulation. The dialectical analysis suggests that practicing the vocabulary of more autonomous regulation is not merely a symptom of advancing along the continuum — it is a mechanism for advancing along it.
 >
 > - **[[self-efficacy]]** — Bandura's [[self-efficacy-theory]] identifies four sources of self-efficacy: mastery experiences, vicarious learning, verbal persuasion, and physiological states. The reconstruction identifies the *verbal persuasion* channel as operative even in self-directed contexts: the "persuasion" that shifts efficacy beliefs can come from one's own inner speech vocabulary, not only from external sources. This is an expansion of Bandura's model not contradicted by his account but not foregrounded in it.
 >
 > - **[[growth-mindset]]** — The growth mindset literature (Dweck) is effectively a vocabulary intervention program that operates through the mechanism the reconstruction identifies. The specific vocabulary shift from entity-theory vocabulary ("I'm not smart enough") to incremental-theory vocabulary ("I haven't built this skill yet") constitutes the motivational shift. This report provides the theoretical account for why that vocabulary shift works — connecting growth mindset practice to the constitutive vocabulary principle.
 >
-> - **[[metacognitive-scaffolding]]** — The reports in your PKB on metacognitive scaffolding design patterns connect directly: scaffolding that prompts specific vocabulary (rather than asking generic questions) is more effective precisely because it provides constitutive vocabulary resources rather than merely prompting reflection. A scaffold that says "Describe what you understand about the argument so far" invites different vocabulary than "Do you understand this?" — and the vocabulary difference constitutes a different metacognitive state.
+> - **[[Metacognitive Scaffolding]]** — The reports in your PKB on metacognitive scaffolding design patterns connect directly: scaffolding that prompts specific vocabulary (rather than asking generic questions) is more effective precisely because it provides constitutive vocabulary resources rather than merely prompting reflection. A scaffold that says "Describe what you understand about the argument so far" invites different vocabulary than "Do you understand this?" — and the vocabulary difference constitutes a different metacognitive state.
 >
 > - **[[attribution-retraining]]** — The intervention tradition this report analyzes. The reconstruction gives a theoretical account of why these interventions work: they provide and train constitutive vocabulary for attributional processing, not merely attitude-level information about the value of effort. The practical vocabulary resources in Phase VIII's Appendix are informed by this literature.
 >
@@ -641,7 +641,7 @@ Motivational and regulatory precision is constrained by vocabulary granularity. 
 >
 > **Etymology/Intellectual Lineage:** Speech act theory (Austin, 1962; Searle, 1969); applied to psychology through appraisal theory (Lazarus) and constructive emotion theory (Barrett).
 >
-> **Cross-References:** [[appraisal-theory]], [[attribution-theory]], [[growth-mindset]]
+> **Cross-References:** [[appraisal-theory]], [[Attribution (Heider, 1958)]], [[growth-mindset]]
 
 > [!definition] **Attributional Vocabulary Chain (Weiner, 1985)**
 > **Definition:** The sequence of vocabulary choices through which a learner assigns causal structure to an academic outcome, encoding locus (internal/external), stability (stable/unstable), and controllability (controllable/uncontrollable) in the specific words used. Critically, the chain is not merely a label applied to a pre-formed attribution — it is the primary medium through which the attribution is constructed. Example chain: "I failed this section because I lack the background knowledge" (internal, stable, low-controllability chain) vs. "I haven't yet built the background knowledge needed for this section" (internal, unstable, moderate-controllability chain — note how "haven't yet" and "needed for" encode both the instability and the controllability).
@@ -650,14 +650,14 @@ Motivational and regulatory precision is constrained by vocabulary granularity. 
 >
 > **Operational Indicators:** Specific words encoding temporal framing (yet, so far, until now), agentive framing (I vs. it happened to me), developmental framing (building, developing, growing).
 >
-> **Cross-References:** [[attribution-theory]], [[bernard-weiner]], [[attribution-retraining]]
+> **Cross-References:** [[Attribution (Heider, 1958)]], [[bernard-weiner]], [[attribution-retraining]]
 
 > [!definition] **Regulatory Language Spectrum (derived from Deci & Ryan, 2000)**
 > **Definition:** The continuum of vocabulary qualities corresponding to SDT's internalization continuum, ranging from introjected regulatory language (vocabulary encoding external pressure or shame-avoidance: "I have to," "I should or else," "I need to prove") through identified regulatory language (vocabulary encoding personally valued goals: "I want to because," "this matters for") to integrated regulatory language (vocabulary encoding self-defining commitments: "this is what I do," "as someone who..."). The vocabulary quality signals and partially constitutes the regulatory style of the inner speech.
 >
 > **Dialectical Reconstruction Note:** The regulatory language spectrum provides a more fine-grained framework for what intervention research calls "constructive" vs. "negative" self-talk. Not all positive-seeming vocabulary is equally autonomy-supportive — "I should try harder" is introjected regulation in positive vocabulary, while "I want to understand this" is identified regulation. The distinction matters for intrinsic motivation maintenance.
 >
-> **Cross-References:** [[self-determination-theory]], [[introjected-regulation]], [[identified-regulation]], [[integrated-regulation]], [[autonomous-motivation]]
+> **Cross-References:** [[self-determination-theory]], [[introjected-regulation]], [[identified-regulation]], [[Integrated Regulation]], [[Autonomous Motivation]]
 
 > [!definition] **Goal Framing Vocabulary (Elliot & Harackiewicz, 1996; Ames, 1992)**
 > **Definition:** The specific vocabulary used to formulate learning goals in the forethought phase of SRL, which encodes the goal's orientation (mastery/approach vs. performance/avoidance), its specificity, its challenge level, and its temporal framing. Goal framing vocabulary is constitutive of the motivational orientation under which reading proceeds. A goal formulated as "I want to understand the core argument of this chapter well enough to apply it" encodes mastery-approach orientation, transformation as success criterion, and active agency. A goal formulated as "I need to get through this chapter" encodes completion as success criterion and positions the reader as passive recipient of the text's demands.
@@ -672,7 +672,7 @@ Motivational and regulatory precision is constrained by vocabulary granularity. 
 > [!definition] **Mastery-Experience Vocabulary (Bandura, 1997)**
 > **Definition:** The vocabulary used in post-reading self-reflection to characterize and encode prior comprehension successes in a way that contributes to [[self-efficacy]] accumulation. "I understood that" produces a weaker efficacy deposit than "I worked through the conceptual difficulty in that section and reached understanding" — the second encodes the effort-success connection and the strategy-deployment that will transfer to future difficult passages. Mastery experience vocabulary is the self-narration through which difficult comprehension successes become efficacy-building events.
 >
-> **Cross-References:** [[self-efficacy]], [[albert-bandura]], [[self-reflection-phase]], [[attribution-theory]]
+> **Cross-References:** [[self-efficacy]], [[albert-bandura]], [[self-reflection-phase]], [[Attribution (Heider, 1958)]]
 
 > [!definition] **Inner Speech (Vygotsky, 1934/1986; Alderson-Day & Fernyhough, 2015)**
 > **Definition:** See Phase II definition. Expanded here: contemporary research (Alderson-Day & Fernyhough, 2015) distinguishes multiple properties of inner speech including condensation (abbreviated relative to external speech), dialogicality (multi-voiced, including internalized other perspectives), and motivational valence (often evaluative/directive). The dialogic property is especially relevant: inner speech during reading includes not just self-evaluation but internalized teacher, text, and peer voices.
@@ -682,27 +682,27 @@ Motivational and regulatory precision is constrained by vocabulary granularity. 
 > [!definition] **Effort-Strategy Vocabulary (Dweck, 2006; Elliot, 2006)**
 > **Definition:** The vocabulary linking effort and strategy in attributional inner speech. Pure effort attribution ("I just need to try harder") can produce burnout in the absence of strategic adaptation. Effort-strategy vocabulary couples effort-attribution with strategic-attribution: "I need more effort *and* a better strategy," "working harder on this *approach* vs. working harder in general." This vocabulary captures the full causal chain of academic mastery — effort is necessary but insufficient without strategic flexibility.
 >
-> **Cross-References:** [[attribution-theory]], [[growth-mindset]], [[achievement-goal-theory]]
+> **Cross-References:** [[Attribution (Heider, 1958)]], [[growth-mindset]], [[achievement-goal-theory]]
 
 > [!definition] **Temporal Marker Vocabulary (derived from Weiner, 1985)**
 > **Definition:** The specific temporal words and grammatical structures that encode the stability dimension of attributions: "always" and "never" (high stability, fixed); "so far," "until now," "not yet" (moderate stability, developmental trajectory); "today," "in this session," "with this type of text" (low stability, situationally bounded). Temporal marker vocabulary is among the highest-leverage vocabulary categories for SRL because it directly encodes the fixed/growth mindset distinction at the grammatical level.
 >
-> **Cross-References:** [[attribution-theory]], [[growth-mindset]], [[fixed-mindset]], [[incremental-theory-of-intelligence]]
+> **Cross-References:** [[Attribution (Heider, 1958)]], [[growth-mindset]], [[fixed-mindset]], [[incremental-theory-of-intelligence]]
 
 > [!definition] **Autonomy-Supportive Self-Speech (Ryan & Deci, 2000; Vansteenkiste et al.)**
-> **Definition:** Inner speech characterized by three features aligned with the autonomy need in [[self-determination-theory]]: (1) internally perceived locus of causality ("I choose to" rather than "I have to"), (2) volitional language ("I want," "I find meaningful," "I'm interested in"), and (3) rationale provision ("because this connects to X" rather than just "I should"). Autonomy-supportive self-speech maintains [[autonomous-motivation]] during demanding reading by sustaining the sense of self-determination.
+> **Definition:** Inner speech characterized by three features aligned with the autonomy need in [[self-determination-theory]]: (1) internally perceived locus of causality ("I choose to" rather than "I have to"), (2) volitional language ("I want," "I find meaningful," "I'm interested in"), and (3) rationale provision ("because this connects to X" rather than just "I should"). Autonomy-supportive self-speech maintains [[Autonomous Motivation]] during demanding reading by sustaining the sense of self-determination.
 >
-> **Cross-References:** [[self-determination-theory]], [[autonomy-need]], [[autonomous-motivation]], [[controlled-motivation]]
+> **Cross-References:** [[self-determination-theory]], [[autonomy-need]], [[Autonomous Motivation]], [[Controlled Motivation]]
 
 > [!definition] **Scaffolded Inner Speech Template**
 > **Definition:** A pre-formulated vocabulary structure used to prime or guide inner speech at key SRL transition points — before reading (forethought), during reading (performance monitoring), and after reading (self-reflection). Templates are not scripts to be repeated verbatim but vocabulary scaffolds that provide the grammatical and semantic structures within which the reader can insert content-specific language. Effective templates encode the constitutive vocabulary principles: mastery orientation, autonomy-supportive framing, controllable-cause attribution, and temporal developmental framing.
 >
-> **Cross-References:** [[metacognitive-scaffolding]], [[forethought-phase]], [[self-reflection-phase]], [[implementation-intention]]
+> **Cross-References:** [[Metacognitive Scaffolding]], [[forethought-phase]], [[self-reflection-phase]], [[goal-intention]]
 
 ### B. Key Figures & Intellectual Lineage
 
 > [!person] **Bernard Weiner (1935 – present)**
-> **Core Contribution:** Developed [[attribution-theory]] as a psychological motivational framework, specifying the three causal dimensions (locus, stability, controllability) and mapping their consequences for affect, expectancy, and achievement behavior.
+> **Core Contribution:** Developed [[Attribution (Heider, 1958)]] as a psychological motivational framework, specifying the three causal dimensions (locus, stability, controllability) and mapping their consequences for affect, expectancy, and achievement behavior.
 >
 > **Role in the Dialectical Arc:** Primarily thesis-support (the received view builds on Weiner's framework) and challenge-generator (the attribution retraining tradition he inspired reveals the constitutive function of vocabulary). His framework is preserved in the reconstruction but enriched by the constitutive interpretation.
 >
@@ -1039,7 +1039,7 @@ Motivational and regulatory precision is constrained by vocabulary granularity. 
 > > **Connection to This Report:** Direct empirical foundation for Phase III's challenge; provides validated vocabulary protocols to supplement the templates in Protocol 1-3 above.
 > > **Priority:** High — Critical
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[attribution-theory]], [[bernard-weiner]]
+> > **Prerequisites:** [[Attribution (Heider, 1958)]], [[bernard-weiner]]
 >
 > > [!topic-idea] [[motivational-regulation]]
 > > The full landscape of motivational self-regulation strategies in academic learning — of which inner speech vocabulary is one mechanism among several. A foundational treatment would map the full toolkit and show where vocabulary development sits within it.
@@ -1060,7 +1060,7 @@ Motivational and regulatory precision is constrained by vocabulary granularity. 
 > > **Connection to This Report:** Direct practical extension of Phase V reconstruction and Protocol 1-3; would deliver the full design system for which this report provides the theoretical foundation.
 > > **Priority:** Medium
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[metacognitive-scaffolding]], this report
+> > **Prerequisites:** [[Metacognitive Scaffolding]], this report
 
 ### J. Cross-Report Navigation Map
 

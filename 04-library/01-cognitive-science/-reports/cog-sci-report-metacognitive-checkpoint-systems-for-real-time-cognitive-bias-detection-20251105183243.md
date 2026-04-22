@@ -474,7 +474,7 @@ This reconceptualization has profound implications:
 
 > [!connection-ideas]
 > - *The principles discussed here* **strongly connect to the field of:**
->     - [[cognitive-load-theory]] in educational psychology
+>     - [[Cognitive Load Theory (CLT)]] in educational psychology
 >     - **The reason:**
 >         - Both frameworks recognize that human cognitive capacity is fundamentally limited and that performance improvements come primarily through careful external design that reduces unnecessary cognitive load rather than through increasing mental effort. Checkpoint systems work precisely because they offload monitoring and verification functions to external procedures, freeing limited working memory for substantive reasoning rather than meta-cognitive oversight.
 
@@ -901,7 +901,7 @@ The output structure provided is perfect for this topic:
 - Frontier research: Current debates, AI-assisted metacognition, personalization
 
 **Key Concepts to Wiki-Link:**
-[[metacognition]], [[cognitive-bias]], [[system-1-and-system-2]], [[pre-mortem-analysis]], [[Epistemic Spot Check]], [[Decision Journal]], [[confirmation-bias]], [[Anchoring Effect]], [[availability-heuristic]], [[dunning-kruger-effect]], [[calibration]], [[debiasing]], [[cognitive-load-theory]], [[self-regulated-learning]], [[reflective-practice]], [[Prospective Hindsight]]
+[[metacognition]], [[cognitive-bias]], [[system-1-and-system-2]], [[pre-mortem-analysis]], [[Epistemic Spot Check]], [[Decision Journal]], [[confirmation-bias]], [[Anchoring Effect]], [[availability-heuristic]], [[dunning-kruger-effect]], [[calibration]], [[debiasing]], [[Cognitive Load Theory (CLT)]], [[self-regulated-learning]], [[reflective-practice]], [[Prospective Hindsight]]
 
 Let me conduct comprehensive web research first.
 </thinking>

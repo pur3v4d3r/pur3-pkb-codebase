@@ -103,7 +103,7 @@ insights_generated: 8
 related_concepts:
   - "[[Cognitive-Alignment-Principle]]"
   - "[[Testing-Effect]]"
-  - "[[desirable-difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[Integration Problem]]"
   - "[[Tacit-Knowledge-Observatory]]"
   - "[[Epistemic Counterfeiting]]"
@@ -113,9 +113,9 @@ related_concepts:
   - "[[personal-knowledge-management]]"
   - "[[personal-knowledge-base]]"
   - "[[self-regulated-learning]]"
-  - "[[schema-theory]]"
-  - "[[cognitive-load-theory]]"
-  - "[[desirable-difficulties]]"
+  - "[[schema-theory-and-knowledge-organization]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[spaced-repetition]]"
   - "[[virtue-epistemology]]"
 
@@ -237,11 +237,11 @@ graph TD
 
 **Key concepts and definitions:**
 
-[[schema-theory]] (Bartlett, Rumelhart) establishes that memory is not a recording but an interpretive construction: incoming information is assimilated into pre-existing cognitive frameworks (schemas), which determine both what is encoded and what is retrieved. The PKB implication: note architecture should support schema development by organizing around conceptual principles, not surface categories.
+[[schema-theory-and-knowledge-organization]] (Bartlett, Rumelhart) establishes that memory is not a recording but an interpretive construction: incoming information is assimilated into pre-existing cognitive frameworks (schemas), which determine both what is encoded and what is retrieved. The PKB implication: note architecture should support schema development by organizing around conceptual principles, not surface categories.
 
 [[spreading-activation]] (Collins & Loftus, 1975) establishes that semantic memory retrieval operates by activating a node and spreading activation to connected nodes in proportion to link strength. The PKB implication: link density between related notes has genuine cognitive significance — it mirrors and reinforces the activation pathways in semantic memory.
 
-[[cognitive-load-theory]] (Sweller) establishes that working memory has limited capacity (~4 elements of novel information) and that schema-mediated processing bypasses this bottleneck. The PKB implication: notes that are too dense, too poorly organized, or too context-poor overload working memory; a PKB that manages cognitive load enables genuine engagement.
+[[Cognitive Load Theory (CLT)]] (Sweller) establishes that working memory has limited capacity (~4 elements of novel information) and that schema-mediated processing bypasses this bottleneck. The PKB implication: notes that are too dense, too poorly organized, or too context-poor overload working memory; a PKB that manages cognitive load enables genuine engagement.
 
 [[Expertise Research]] (Chi, Chase & Simon) establishes that expert knowledge organization is categorically different from novice organization: experts categorize by deep structural principles while novices categorize by surface features. The PKB implication: organizing by surface topic (the default) is novice organization; organizing by conceptual principle is expert organization. The [[Cognitive-Alignment-Principle]] follows directly.
 
@@ -258,11 +258,11 @@ Reports 03, 08, 10, 11, 16, 17 address the mechanisms and conditions of effectiv
 
 [[constructivism]] (Piaget, Vygotsky) establishes that learners construct understanding rather than receive it — assimilating new information into existing schemas (smooth but shallow) or accommodating by restructuring existing schemas (effortful but deep). The PKB implication: note creation should default to active construction (generating, elaborating, explaining) rather than passive capture.
 
-[[desirable-difficulties]] (Bjork & Bjork) establishes that conditions making learning harder in the short term — spacing, testing, interleaving, generation — produce superior long-term outcomes. Crucially, learners consistently *undervalue* desirable difficulties because they impair current performance while improving future performance. The PKB implication: a PKM system designed for user comfort is systematically misaligned with learning science.
+[[Desirable Difficulties (Robert Bjork, 1994)]] (Bjork & Bjork) establishes that conditions making learning harder in the short term — spacing, testing, interleaving, generation — produce superior long-term outcomes. Crucially, learners consistently *undervalue* desirable difficulties because they impair current performance while improving future performance. The PKB implication: a PKM system designed for user comfort is systematically misaligned with learning science.
 
 [[transfer-of-learning]] (multiple traditions) establishes that knowledge often fails to transfer from where it's learned to where it's needed — the "inert knowledge" problem. Transfer is facilitated by multiple encoding contexts (Encoding Variability), high similarity between learning and application contexts (Encoding Specificity), and abstract principle-level organization (far transfer). The PKB implication: notes encoded in only one context, with only surface-feature links, produce inert knowledge.
 
-[[Scaffolding and Fading]] (Vygotsky's ZPD, Wood et al.) establishes that learning support should be calibrated to the learner's current competence — providing structure for novices and fading it as expertise develops. The [[expertise-reversal-effect]] (CLT) sharpens this: scaffolding that helps novices can actively impede experts by adding redundant cognitive load. The PKB implication: a PKB should evolve structurally with the practitioner's expertise, not remain permanently fixed.
+[[Scaffolding and Fading]] (Vygotsky's ZPD, Wood et al.) establishes that learning support should be calibrated to the learner's current competence — providing structure for novices and fading it as expertise develops. The [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] (CLT) sharpens this: scaffolding that helps novices can actively impede experts by adding redundant cognitive load. The PKB implication: a PKB should evolve structurally with the practitioner's expertise, not remain permanently fixed.
 
 > [!tension-identified] **The Desirable Difficulty Paradox in Practice**
 > The series' most fundamental practical tension: desirable difficulties are exactly the features that make learning effective and exactly the features that users avoid when given a choice. Spaced practice is better than massed practice; users prefer massed practice. Active recall is better than re-reading; users prefer re-reading. Interleaving is better than blocking; users prefer blocking. The implication is that a PKM system designed around user preference is almost perfectly anti-correlated with learning effectiveness — and that designing good PKM requires overriding user preferences structurally.
@@ -277,7 +277,7 @@ Reports 04, 12, 18, 26 address the meta-level of PKM: how practitioners monitor,
 
 [[zimmerman-srl-model]] establishes that effective self-regulation operates in a three-phase cycle: Forethought (goal setting, strategy selection), Performance (strategy implementation, self-monitoring), and Self-Reflection (self-evaluation, adjustment). This cycle must be embedded in PKB structure to operate reliably.
 
-[[fluency-illusion]] (Bjork, Koriat) establishes that re-reading familiar material produces a feeling of comprehension and learning competence that is largely illusory — uncorrelated with actual retention or understanding. This metacognitive error drives the most common failure mode in PKB review: the practitioner confuses familiarity with knowledge.
+[[Fluency Illusion]] (Bjork, Koriat) establishes that re-reading familiar material produces a feeling of comprehension and learning competence that is largely illusory — uncorrelated with actual retention or understanding. This metacognitive error drives the most common failure mode in PKB review: the practitioner confuses familiarity with knowledge.
 
 > [!analytical-insight] **The Structural Metacognition Principle (Report 12's Central Contribution)**
 > Report 12 identifies the most important design principle for the metacognitive domain: metacognitive monitoring fails in PKBs not from insufficient metacognitive knowledge but from insufficient structural support. Most PKB practitioners know that active recall is better than re-reading, that confidence ratings matter, that reflection prompts serve real learning functions. They simply don't do these things consistently because their PKB makes them effortful while making passive re-reading easy. The prescription: embed monitoring behaviors as structural defaults — make honest self-assessment the path of least resistance, not the path requiring extra discipline.
@@ -343,12 +343,12 @@ Report 29 introduces the most philosophically distinctive domain in the series.
 
 Report 30 is the most forward-looking and the most anxious — a careful examination of how emerging AI technologies interact with the learning science established in the preceding 29 reports.
 
-[[extended-mind-theory]] (Clark & Chalmers) argues that cognitive tools can become genuine components of a distributed cognitive system — not merely tools for thought but part of the thinking apparatus itself. If this is true for a well-integrated PKB, the implications for AI integration are significant.
+[[Extended Mind Thesis (Clark & Chalmers, 1998)]] (Clark & Chalmers) argues that cognitive tools can become genuine components of a distributed cognitive system — not merely tools for thought but part of the thinking apparatus itself. If this is true for a well-integrated PKB, the implications for AI integration are significant.
 
-[[cognitive-offloading]] (Risko & Gilbert) distinguishes between offloading storage (beneficial — frees cognitive resources for deeper processing) and offloading synthesis/reasoning (harmful — eliminates the very cognitive work through which understanding is built). This distinction is the key to evaluating AI integrations.
+[[Cognitive Offloading]] (Risko & Gilbert) distinguishes between offloading storage (beneficial — frees cognitive resources for deeper processing) and offloading synthesis/reasoning (harmful — eliminates the very cognitive work through which understanding is built). This distinction is the key to evaluating AI integrations.
 
 > [!tension-identified] **The Convenience-Learning Tension (Report 30's Central Unresolved Problem)**
-> AI that is maximally convenient for information retrieval is minimally beneficial for deep learning. The features that make AI-integrated PKBs most attractive (instant retrieval, automatic connection-finding, smooth synthesis) are precisely what [[desirable-difficulties]] research identifies as cognitively harmful. This tension cannot be eliminated by clever design — it must be managed through explicit values-based decisions about what a PKB is fundamentally *for*. Report 30's "Epistemic Counterfeiting" concept names the failure mode: AI-generated synthesis produces the phenomenology of understanding without the cognitive substrate of genuine construction.
+> AI that is maximally convenient for information retrieval is minimally beneficial for deep learning. The features that make AI-integrated PKBs most attractive (instant retrieval, automatic connection-finding, smooth synthesis) are precisely what [[Desirable Difficulties (Robert Bjork, 1994)]] research identifies as cognitively harmful. This tension cannot be eliminated by clever design — it must be managed through explicit values-based decisions about what a PKB is fundamentally *for*. Report 30's "Epistemic Counterfeiting" concept names the failure mode: AI-generated synthesis produces the phenomenology of understanding without the cognitive substrate of genuine construction.
 
 ---
 
@@ -364,7 +364,7 @@ Report 30 is the most forward-looking and the most anxious — a careful examina
 
 ### Bridging Concepts (Cross-Domain Connectors)
 
-[[schema-theory]] bridges cognitive psychology (memory architecture), educational philosophy (constructivism), knowledge organization (hierarchical vs. relational structure), and instructional design (prior knowledge activation). It is the load-bearing concept for the [[Cognitive-Alignment-Principle]].
+[[schema-theory-and-knowledge-organization]] bridges cognitive psychology (memory architecture), educational philosophy (constructivism), knowledge organization (hierarchical vs. relational structure), and instructional design (prior knowledge activation). It is the load-bearing concept for the [[Cognitive-Alignment-Principle]].
 
 [[metacognitive-monitoring]] bridges cognitive psychology (Flavell), educational psychology (Zimmerman SRL), learning science (calibration, Fluency Illusion), and behavioral science (implementation intentions, habit formation). It is the mechanism that converts the entire series' recommendations from knowing to doing.
 
@@ -545,13 +545,13 @@ SORT topic.priority ASC
 > [!definition] **[[Betweenness-Centrality]] (Freeman — Network Science)**
 > A measure of a node's structural importance defined as the proportion of shortest paths between all other node pairs that pass through that node. High-betweenness notes are bridges; their removal would dramatically fragment the network. More important than high-degree (hub) notes for knowledge integration.
 
-> [!definition] **[[desirable-difficulties]] (Bjork & Bjork — Psychology of Learning)**
+> [!definition] **[[Desirable Difficulties (Robert Bjork, 1994)]] (Bjork & Bjork — Psychology of Learning)**
 > Learning conditions that impair short-term performance while enhancing long-term retention and transfer. Spacing, testing, interleaving, and generation are established desirable difficulties. Distinguished from undesirable difficulties by the criterion: does this difficulty engage processes that improve durability and transferability?
 
 > [!definition] **[[encoding-specificity]] (Tulving & Thomson — Cognitive Psychology)**
 > The principle that retrieval is most successful when retrieval cues match encoding cues. Decontextualized notes lose the contextual hooks that connect stored representations to real-world retrieval situations. Notes should preserve the problem context, questions, and conceptual frames that were present at encoding.
 
-> [!definition] **[[fluency-illusion]] (Bjork — Metacognition)**
+> [!definition] **[[Fluency Illusion]] (Bjork — Metacognition)**
 > The systematic overestimation of learning produced by re-reading familiar material. Fluent processing feels like comprehension; familiarity feels like knowledge. The Fluency Illusion is the primary mechanism driving passive re-reading as the default "review" mode despite its demonstrated ineffectiveness.
 
 > [!definition] **[[inert-knowledge]] (Whitehead — Educational Philosophy)**
@@ -569,8 +569,8 @@ SORT topic.priority ASC
 >
 > This synthesis document connects to the following broader PKB knowledge clusters:
 >
-> **Cognitive Science Hub:** [[schema-theory]] · [[cognitive-load-theory]] · [[spreading-activation]] · [[working-memory]] · [[automaticity]]
-> **Learning Science Hub:** [[Testing-Effect]] · [[spacing-effect]] · [[desirable-difficulties]] · [[transfer-of-learning]] · [[constructivism]]
+> **Cognitive Science Hub:** [[schema-theory-and-knowledge-organization]] · [[Cognitive Load Theory (CLT)]] · [[spreading-activation]] · [[working-memory]] · [[automaticity]]
+> **Learning Science Hub:** [[Testing-Effect]] · [[Desirable Difficulties (Robert Bjork, 1994)]] · [[Desirable Difficulties (Robert Bjork, 1994)]] · [[transfer-of-learning]] · [[constructivism]]
 > **Design Hub:** [[Information-Architecture]] · [[Faceted-Classification]] · [[Small-World-Networks]] · [[Knowledge-Organization-Systems]]
 > **Meta-Practice Hub:** [[self-regulated-learning]] · [[metacognitive-monitoring]] · [[calibration]] · [[epistemic-humility]]
 > **Philosophy Hub:** [[virtue-epistemology]] · [[tacit-knowledge]] · [[pragmatism]] · [[Stoic-Philosophy]]

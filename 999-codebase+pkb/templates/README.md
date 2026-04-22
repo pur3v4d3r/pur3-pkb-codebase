@@ -26,7 +26,7 @@ This documentation framework consists of the following templates:
    - Future roadmap and implementation priorities
    - Feature dependencies
 
-3. **[requirements-template.md](999-codebase+pkb/templates/requirements-template.md)**
+3. **[requirements-template.md](requirements-template.md)**
    - Functional and technical requirements
    - Performance, security, and scalability requirements
    - Integration and development requirements

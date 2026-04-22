@@ -1516,7 +1516,7 @@ exceeds_minimum_by: 128
 - Load management strategies for complex multi-step MP
 - Balancing MP benefits vs computational costs
 
-**Knowledge Graph Role**: Links MP to [[cognitive-load-theory]], [[Attention Mechanisms]], [[Context Window Management]], and [[Prompt Optimization]]. Provides cognitive science lens on MP efficiency.
+**Knowledge Graph Role**: Links MP to [[Cognitive Load Theory (CLT)]], [[Attention Mechanisms]], [[Context Window Management]], and [[Prompt Optimization]]. Provides cognitive science lens on MP efficiency.
 
 **Priority**: **MEDIUM** - More theoretical than immediately practical, but valuable for principled MP design.
 

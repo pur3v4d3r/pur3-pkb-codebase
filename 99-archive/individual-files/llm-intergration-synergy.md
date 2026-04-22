@@ -57,18 +57,18 @@ WHERE contains(file.content, "^speculative")
 
 ```markdown
 <!-- Current -->
-[[cognitive-load-theory]] is related to [[working-memory]].
+[[Cognitive Load Theory (CLT)]] is related to [[working-memory]].
 
 <!-- Enhanced -->
-[[cognitive-load-theory]] ←builds-on→ [[working-memory]]
+[[Cognitive Load Theory (CLT)]] ←builds-on→ [[working-memory]]
 [[Filter Model]] ←superseded-by→ [[Capacity Model]]
 [[Kahneman]] ←developed→ [[Allocation Policy]]
 [[Arousal]] ←modulates→ [[Available Capacity]]
 
 <!-- Machine-readable syntax -->
-[[cognitive-load-theory|builds-on::Working Memory]]
+[[Cognitive Load Theory (CLT)|builds-on::Working Memory]]
 <!-- Or using HTML data attributes -->
-<span data-link="Cognitive Load Theory" data-relation="builds-on" data-target="Working Memory">[[cognitive-load-theory]]</span>
+<span data-link="Cognitive Load Theory" data-relation="builds-on" data-target="Working Memory">[[Cognitive Load Theory (CLT)]]</span>
 ```
 
 **Simpler Implementation** (Obsidian-compatible):
@@ -274,7 +274,7 @@ prerequisites:
   - "[[sensory-memory]]"
   - "[[selective-attention-basics]]"
 enables:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[working-memory-model]]"
   - "[[dual-task-interference]]"
 difficulty: intermediate
@@ -290,7 +290,7 @@ estimated-study-time: 45min
 
 > [!enables]
 > This note unlocks:
-> - [[cognitive-load-theory]] — direct application
+> - [[Cognitive Load Theory (CLT)]] — direct application
 > - [[Working Memory Model]] — theoretical extension
 ```
 

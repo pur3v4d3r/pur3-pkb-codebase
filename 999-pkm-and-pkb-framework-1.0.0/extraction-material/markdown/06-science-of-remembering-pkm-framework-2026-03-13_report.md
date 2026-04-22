@@ -176,14 +176,14 @@ extraction_summary:
 > [!definition] [[testing-effect-retrieval-practice-effect|Testing Effect]] / [[testing-effect-retrieval-practice-effect|Retrieval Practice Effect]] (Cognitive Psychology — Roediger & Karpicke, 2006; Abbott, 1909)
 > The empirically established phenomenon that actively retrieving information from memory — even without feedback — produces significantly stronger long-term retention than an equivalent period of re-studying the same material. Often called "the testing effect" because testing was historically the method used to induce retrieval, but the active mechanism is retrieval itself, not the evaluative component of tests. Karpicke and Roediger (2008) showed that repeated retrieval practice without re-study substantially outperformed repeated re-study without retrieval practice on delayed retention tests. The testing effect is one of the most practically significant findings in learning science precisely because it inverts folk intuition: re-reading material (which feels productive) is substantially weaker than being tested on it (which feels like measurement, not learning). For PKB users: passive re-reading of notes does not meaningfully strengthen memory for their content. Active recall — closing the note and reconstructing its content — does.
 
-#### 5. [DEFINITION] [[interleaving]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008) *(Line 157)*
+#### 5. [DEFINITION] [[Desirable Difficulties (Robert Bjork, 1994)]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008) *(Line 157)*
 
-> [!definition] [[interleaving]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008)
+> [!definition] [[Desirable Difficulties (Robert Bjork, 1994)]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008)
 > The practice of mixing multiple topics, subjects, or problem types within a single study session, rather than completing all practice on one topic before moving to the next (the latter being called "blocking"). Interleaving introduces difficulty — it requires the learner to continuously discriminate between problem types and select appropriate strategies — but this added difficulty enhances both long-term retention and the ability to apply knowledge across different contexts. Critically, interleaving *feels* less productive in the moment than blocking: learners consistently rate blocked practice as more effective, even when interleaved practice produces superior outcomes. This metacognitive illusion is not incidental; it is central to understanding why interleaving must be *designed into* PKB systems rather than left to emerge from user preference.
 
-#### 6. [DEFINITION] [[desirable-difficulties|Desirable Difficulties]] (Psychology of Learning — Bjork & Bjork, 2011) *(Line 160)*
+#### 6. [DEFINITION] [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] (Psychology of Learning — Bjork & Bjork, 2011) *(Line 160)*
 
-> [!definition] [[desirable-difficulties|Desirable Difficulties]] (Psychology of Learning — Bjork & Bjork, 2011)
+> [!definition] [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] (Psychology of Learning — Bjork & Bjork, 2011)
 > The counterintuitive finding that certain learning conditions that make encoding more difficult and error-prone in the short term — including spacing, testing, interleaving, and generation — produce superior long-term retention and transfer compared to conditions that feel easier and produce fewer errors. Desirable difficulties are contrasted with "undesirable difficulties" (obstacles that impede learning without producing compensating long-term benefits). The key distinguishing criterion: a difficulty is desirable if it engages encoding and retrieval processes that improve the *durability* and *transferability* of learning. Bjork frames this as the critical distinction between "current performance" (how well you perform during practice) and "learning" (durable change in the capability for performance). PKB review that maximizes current performance — smooth, fluent, organized, familiar — is often systematically minimizing actual learning.
 
 #### 7. [DEFINITION] [[encoding-specificity-principle|Encoding Specificity Principle]] (Cognitive Psychology — Tulving & Thomson, 1973) *(Line 163)*
@@ -209,7 +209,7 @@ extraction_summary:
 #### 11. [KEY-CLAIM] The Central Diagnostic of PKB Failure *(Line 179)*
 
 > [!key-claim] The Central Diagnostic of PKB Failure
-> Most personal knowledge bases fail to produce durable, accessible, transferable knowledge not because of poor organization, inadequate linking, or insufficient capture — but because they lack systematic [[retrieval-practice|Retrieval Practice]]. They are designed around passive re-reading as the primary mode of "review," which is precisely the review mode that decades of memory science has identified as the least effective for strengthening long-term retention. This is not a minor optimization problem; it is a foundational architectural misalignment between PKB design norms and the science of how memory actually works.
+> Most personal knowledge bases fail to produce durable, accessible, transferable knowledge not because of poor organization, inadequate linking, or insufficient capture — but because they lack systematic [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]. They are designed around passive re-reading as the primary mode of "review," which is precisely the review mode that decades of memory science has identified as the least effective for strengthening long-term retention. This is not a minor optimization problem; it is a foundational architectural misalignment between PKB design norms and the science of how memory actually works.
 
 #### 12. [REFLECTION] Integrating the Framework *(Line 182)*
 
@@ -416,15 +416,15 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> **[[schema-theory|Schema Theory]]** (established in [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]) — Schemas are maintained through retrieval practice, not just formed through study. The note architecture of a PKB determines what schemas can be activated; retrieval practice determines whether those schemas remain strong and accessible. RONA is a schema-maintenance strategy as much as a memory strategy. Report 01 established what schemas are; this report establishes how they stay alive.
+> **[[schema-theory-and-knowledge-organization|Schema Theory]]** (established in [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]) — Schemas are maintained through retrieval practice, not just formed through study. The note architecture of a PKB determines what schemas can be activated; retrieval practice determines whether those schemas remain strong and accessible. RONA is a schema-maintenance strategy as much as a memory strategy. Report 01 established what schemas are; this report establishes how they stay alive.
 > 
-> **[[cognitive-load-theory|Cognitive Load Theory]]** (elaborated in [[02-architecture-of-learning-pkm-framework-2026-03-13]]) — A productive tension: CLT argues for reducing extraneous load to protect working memory capacity. Desirable difficulties argues for maintaining effortful processing. The resolution: desirable difficulties add *germane load* (schema-building challenge) not extraneous load (irrelevant complexity). The distinction is crucial — PKB review should be cognitively demanding in the right ways, not all ways.
+> **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** (elaborated in [[02-architecture-of-learning-pkm-framework-2026-03-13]]) — A productive tension: CLT argues for reducing extraneous load to protect working memory capacity. Desirable difficulties argues for maintaining effortful processing. The resolution: desirable difficulties add *germane load* (schema-building challenge) not extraneous load (irrelevant complexity). The distinction is crucial — PKB review should be cognitively demanding in the right ways, not all ways.
 > 
 > **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** (introduced in [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]) — Effective SRL of PKB review requires metacognitive knowledge about memory science, not just awareness of one's current learning state. Without knowing that JOLs after re-reading are inflated, that errors during retrieval are productive, and that difficulty signals learning rather than failure, self-regulated review will systematically choose the wrong behaviors. The memory science in this report is prerequisite knowledge for the metacognitive self-regulation that Report 04 identified as central.
 > 
 > **[[encoding-specificity-principle|Encoding Specificity Principle]]** — Connects to knowledge management's emphasis on context-rich knowledge. Notes that preserve encoding context are more retrievable in ecologically valid contexts. RONA's commitment to context preservation is grounded in this principle. The principle links information science (context-sensitive retrieval systems) to cognitive psychology (memory encoding mechanisms).
 > 
-> **[[desirable-difficulties|Desirable Difficulties]]** — The umbrella framework that unifies spacing, testing, interleaving, and generation into a coherent design philosophy. Understanding desirable difficulties as a unified principle — rather than a list of separate techniques — enables principled extrapolation to novel PKB design contexts not directly addressed by the empirical literature.
+> **[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]** — The umbrella framework that unifies spacing, testing, interleaving, and generation into a coherent design philosophy. Understanding desirable difficulties as a unified principle — rather than a list of separate techniques — enables principled extrapolation to novel PKB design contexts not directly addressed by the empirical literature.
 > 
 > **[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]** / **[[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]** — The limiting factor for self-directed retrieval practice. PKB review systems must be designed to compensate for the fluency illusion and the systematic undervaluation of testing. No amount of evidence about optimal review practices will overcome metacognitive miscalibration if the system does not structurally enforce the better behaviors.
 > 
@@ -602,10 +602,10 @@ extraction_summary:
 - [[accommodation]]
 - [[Blocking]]
 - [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[consolidation]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[educational-psychology|Educational Psychology]]
 - [[Emotion, Arousal, and Memory — When PKB Capture Moments Become Deeply Encoded]]
 - [[encoding-specificity|Encoding Specificity]]
@@ -617,7 +617,7 @@ extraction_summary:
 - [[generation-effect|Generation Effect]]
 - [[How it relates]]
 - [[How this applies]]
-- [[interleaving]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[knowledge-management|Knowledge Management]]
 - [[memory-consolidation]]
@@ -626,13 +626,13 @@ extraction_summary:
 - [[Psychology of Learning]]
 - [[Related-Concept]]
 - [[Report 05: Motivation Architecture]]
-- [[retrieval-practice|Retrieval Practice]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]
 - [[testing-effect-retrieval-practice-effect|Retrieval Practice Effect]]
 - [[Retrieval Practice Formats — A Taxonomy for Transfer-Appropriate PKB Design]]
 - [[Retrieval-Enhanced Knowledge Networks — Network-Level Consolidation in PKBs]]
 - [[retrieval-induced-forgetting|Retrieval-Induced Forgetting]]
 - [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[spaced-repetition-systems|Spaced Repetition Systems]]
 - [[spaced-repetition-spacing-effect|Spacing Effect]]
@@ -646,11 +646,11 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[retrieval-practice|Retrieval Practice]] | — | — | The Great PKB Paradox | 113 |
+| 1 | [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]] | — | — | The Great PKB Paradox | 113 |
 | 2 | [[spaced-repetition-spacing-effect|Spacing Effect]] | — | — | The Great PKB Paradox | 115 |
 | 3 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | The Great PKB Paradox | 115 |
-| 4 | [[interleaving]] | — | — | The Great PKB Paradox | 115 |
-| 5 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Great PKB Paradox | 115 |
+| 4 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | The Great PKB Paradox | 115 |
+| 5 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | The Great PKB Paradox | 115 |
 | 6 | [[encoding-specificity|Encoding Specificity]] | — | — | The Great PKB Paradox | 115 |
 | 7 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Disciplinary Intersection | 123 |
 | 8 | [[Forgetting-Curve|Forgetting Curve]] | — | — | The Disciplinary Intersection | 123 |
@@ -659,14 +659,14 @@ extraction_summary:
 | 11 | [[Psychology of Learning]] | — | — | The Disciplinary Intersection | 123 |
 | 12 | [[spaced-repetition-spacing-effect|Spacing Effect]] | — | — | The Disciplinary Intersection | 123 |
 | 13 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | The Disciplinary Intersection | 123 |
-| 14 | [[interleaving]] | — | — | The Disciplinary Intersection | 123 |
-| 15 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Disciplinary Intersection | 123 |
+| 14 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | The Disciplinary Intersection | 123 |
+| 15 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | The Disciplinary Intersection | 123 |
 | 16 | [[educational-psychology|Educational Psychology]] | — | — | The Disciplinary Intersection | 123 |
 | 17 | [[knowledge-management|Knowledge Management]] | — | — | The Disciplinary Intersection | 123 |
 | 18 | [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] | — | — | Scope and Connections | 129 |
-| 19 | [[schema-theory|Schema Theory]] | — | — | Scope and Connections | 129 |
+| 19 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Scope and Connections | 129 |
 | 20 | [[02-architecture-of-learning-pkm-framework-2026-03-13]] | — | — | Scope and Connections | 129 |
-| 21 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Scope and Connections | 129 |
+| 21 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Scope and Connections | 129 |
 | 22 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | — | — | Scope and Connections | 129 |
 | 23 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Scope and Connections | 129 |
 | 24 | [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]] | — | — | Report Roadmap | 133 |
@@ -674,8 +674,8 @@ extraction_summary:
 | 26 | [[spaced-repetition-spacing-effect|Spacing Effect]] | — | — | The Memory Problem Every PKB User Faces | 151 |
 | 27 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | The Memory Problem Every PKB User Faces | 154 |
 | 28 | [[testing-effect-retrieval-practice-effect|Retrieval Practice Effect]] | — | — | The Memory Problem Every PKB User Faces | 154 |
-| 29 | [[interleaving]] | — | — | The Memory Problem Every PKB User Faces | 157 |
-| 30 | [[desirable-difficulties|Desirable Difficulties]] | — | — | The Memory Problem Every PKB User Faces | 160 |
+| 29 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | The Memory Problem Every PKB User Faces | 157 |
+| 30 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | The Memory Problem Every PKB User Faces | 160 |
 | 31 | [[encoding-specificity-principle|Encoding Specificity Principle]] | — | — | The Memory Problem Every PKB User Faces | 163 |
 | 32 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | The Memory Problem Every PKB User Faces | 166 |
 | 33 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Memory Problem Every PKB User Faces | 166 |
@@ -689,17 +689,17 @@ extraction_summary:
 | 41 | [[Forgetting-Curve|Forgetting Curve]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 42 | [[spaced-repetition-spacing-effect|Spacing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 43 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 44 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 45 | [[interleaving]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
+| 44 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
+| 45 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 46 | [[encoding-specificity|Encoding Specificity]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 47 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 48 | [[retrieval-practice|Retrieval Practice]] | — | — | Initial Synthesis: Three Traditions, ... | 180 |
+| 48 | [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]] | — | — | Initial Synthesis: Three Traditions, ... | 180 |
 | 49 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 184 |
 | 50 | [[encoding-specificity|Encoding Specificity]] | — | — | Initial Synthesis: Three Traditions, ... | 188 |
 | 51 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 188 |
 | 52 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | Metacognitive Monitoring: The Limitin... | 257 |
 | 53 | [[encoding-specificity|Encoding Specificity]] | — | — | The Spacing Mechanism: Forgetting as ... | 305 |
-| 54 | [[schema-theory|Schema Theory]] | — | — | The Interleaving Mechanism: Discrimin... | 318 |
+| 54 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | The Interleaving Mechanism: Discrimin... | 318 |
 | 55 | [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] | — | — | The Interleaving Mechanism: Discrimin... | 321 |
 | 56 | [[accommodation]] | — | — | The Interleaving Mechanism: Discrimin... | 321 |
 | 57 | [[encoding-specificity|Encoding Specificity]] | — | — | Encoding Specificity and Transfer-App... | 325 |
@@ -710,17 +710,17 @@ extraction_summary:
 | 62 | [[Report 05: Motivation Architecture]] | — | — | Limitations and Honest Boundaries | 453 |
 | 63 | [[testing-effect-retrieval-practice-effect|Testing Effect]] | — | — | Limitations and Honest Boundaries | 456 |
 | 64 | [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] | — | — | Return-and-Deepen: Schema Theory Revi... | 503 |
-| 65 | [[schema-theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 503 |
+| 65 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 503 |
 | 66 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | — | — | Return-and-Deepen: Self-Regulated Lea... | 511 |
 | 67 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Return-and-Deepen: Self-Regulated Lea... | 511 |
-| 68 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 532 |
+| 68 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 532 |
 | 69 | [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] | — | — | Phase VII: PKB Connections & Cross-Re... | 532 |
-| 70 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
+| 70 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
 | 71 | [[02-architecture-of-learning-pkm-framework-2026-03-13]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
 | 72 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 536 |
 | 73 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | — | — | Phase VII: PKB Connections & Cross-Re... | 536 |
 | 74 | [[encoding-specificity-principle|Encoding Specificity Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 538 |
-| 75 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 540 |
+| 75 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 540 |
 | 76 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
 | 77 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
 | 78 | [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
@@ -837,10 +837,10 @@ extraction_summary:
 - [[accommodation]]
 - [[Blocking]]
 - [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[consolidation]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[educational-psychology|Educational Psychology]]
 - [[Emotion, Arousal, and Memory — When PKB Capture Moments Become Deeply Encoded]]
 - [[encoding-specificity|Encoding Specificity]]
@@ -852,7 +852,7 @@ extraction_summary:
 - [[generation-effect|Generation Effect]]
 - [[How it relates]]
 - [[How this applies]]
-- [[interleaving]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[knowledge-management|Knowledge Management]]
 - [[memory-consolidation]]
@@ -861,13 +861,13 @@ extraction_summary:
 - [[Psychology of Learning]]
 - [[Related-Concept]]
 - [[Report 05: Motivation Architecture]]
-- [[retrieval-practice|Retrieval Practice]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]
 - [[testing-effect-retrieval-practice-effect|Retrieval Practice Effect]]
 - [[Retrieval Practice Formats — A Taxonomy for Transfer-Appropriate PKB Design]]
 - [[Retrieval-Enhanced Knowledge Networks — Network-Level Consolidation in PKBs]]
 - [[retrieval-induced-forgetting|Retrieval-Induced Forgetting]]
 - [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[spaced-repetition-systems|Spaced Repetition Systems]]
 - [[spaced-repetition-spacing-effect|Spacing Effect]]
@@ -883,9 +883,9 @@ extraction_summary:
 
 - [[spaced-repetition-spacing-effect|Spacing Effect]]
 - [[testing-effect-retrieval-practice-effect|Testing Effect]]
-- [[retrieval-practice|Retrieval Practice]]
-- [[interleaving]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval Practice]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[encoding-specificity|Encoding Specificity]]
 - [[spaced-repetition-systems|Spaced Repetition Systems]]
 - [[Forgetting-Curve|Forgetting Curve]]
@@ -899,8 +899,8 @@ extraction_summary:
 - [[personal-knowledge-management|Personal Knowledge Management]]
 - [[personal-knowledge-base|Personal Knowledge Base]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
-- [[schema-theory|Schema Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 
 #### Link Related
 

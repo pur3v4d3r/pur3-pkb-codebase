@@ -56,7 +56,7 @@ related_concepts:
   - "[[Axiomatic Reasoning]]"
   - "[[Assumption Stripping]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Chain of Density]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"

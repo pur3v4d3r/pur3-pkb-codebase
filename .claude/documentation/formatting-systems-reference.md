@@ -400,7 +400,7 @@ Notes without links are isolated islands. Connected notes form a navigable knowl
 
 **Philosophy:**
 - **Never under-link** — err on side of more links
-- **Link concepts, not adjectives** — `[[cognitive-load]]` not `[[High]]`
+- **Link concepts, not adjectives** — `[[Cognitive Load Theory (CLT)]]` not `[[High]]`
 - **First mention priority** — link first occurrence of concept
 - **Context over precision** — better to have 25 links with some "wrong" than 8 "perfect" links
 
@@ -410,7 +410,7 @@ Format as `[[wiki-link]]` if term meets **ANY** of these criteria:
 
 | Criterion | Description | Example |
 |-----------|-------------|---------|
-| **Core Concept** | Central to response content | `[[cognitive-load-theory]]` |
+| **Core Concept** | Central to response content | `[[Cognitive Load Theory (CLT)]]` |
 | **Technical Term** | Requires definition or explanation | `[[working-memory]]`, `[[Gradient Descent]]` |
 | **Linkable Topic** | Has potential for separate note | `[[spaced-repetition]]` |
 | **Cross-Reference** | Connects to existing knowledge | `[[Zettelkasten-Method]]` |
@@ -442,7 +442,7 @@ Format as `[[wiki-link]]` if term meets **ANY** of these criteria:
 #### Pattern 1: Concept Introduction
 
 ```markdown
-[[cognitive-load-theory]] explains how [[working-memory]] limitations affect learning. The theory identifies three types of load: [[Intrinsic-Load]], [[extraneous-load]], and [[germane-load]].
+[[Cognitive Load Theory (CLT)]] explains how [[working-memory]] limitations affect learning. The theory identifies three types of load: [[Intrinsic-Load]], [[extraneous-load]], and [[Cognitive Load Theory (CLT)]].
 ```
 
 **Analysis:** 5 links in 2 sentences—appropriate for reference note introduction.
@@ -490,7 +490,7 @@ The [[Feynman Technique]] involves explaining concepts in simple terms, identify
 When display text should differ from target note:
 
 ```markdown
-[[cognitive-load-theory|CLT]] is a framework...
+[[Cognitive Load Theory (CLT)|CLT]] is a framework...
 [[Zettelkasten-Method|slip-box system]]...
 [[Neural-Networks|deep learning models]]...
 ```
@@ -559,7 +559,7 @@ Encounter term while writing
 First occurrence of concept should be linked. Subsequent mentions: link if >500 words apart.
 
 **2. Link Concepts, Not Modifiers**
-- ✅ `[[cognitive-load]] is high when...`
+- ✅ `[[Cognitive Load Theory (CLT)]] is high when...`
 - ❌ `Cognitive load is [[high]] when...`
 
 **3. Bidirectional Thinking**
@@ -585,7 +585,7 @@ Create MOCs when you have 10+ notes on a topic. MOC becomes navigation hub with 
 
 **3. Broken Link Syntax**
 ❌ `[Cognitive Load](cognitive-load.md)` (markdown link)
-✅ `[[cognitive-load]]` (wiki-link)
+✅ `[[Cognitive Load Theory (CLT)]]` (wiki-link)
 
 **4. No Backlink Strategy**
 Creating links from Note A → Note B but Note B never links back creates one-way graph.
@@ -1361,7 +1361,7 @@ status: evergreen
 
 # Cognitive Load Theory
 
-[[working-memory]] limitations create [[cognitive-load]]...
+[[working-memory]] limitations create [[Cognitive Load Theory (CLT)]]...
 
 # Dataview Query:
 LIST

@@ -52,7 +52,7 @@ Deconstruct the concept of [[self-regulated-learning]] from first principles by 
 
 **Engineered Input for Gem:**
 
-Deconstruct the common assumption that [[self-regulated-learning]] is primarily a function of willpower, self-discipline, or "grit." Challenge the folk-psychological narrative that frames poor self-regulation as a moral or motivational failing. Return to first principles by examining: What is the actual cognitive architecture underlying volitional control in learning? Investigate the roles of [[executive-function]] (working memory, cognitive flexibility, inhibitory control), [[cognitive-load]] theory, automaticity, and [[habit-formation]]. Analyze whether "willpower" is a useful construct or whether it obscures more fundamental mechanisms like glucose metabolism, decision fatigue, and attention allocation. Rebuild the concept of self-regulation from these atomic truths, focusing on: (1) How can we describe regulatory behavior without invoking willpower? (2) What environmental and cognitive design principles emerge when we reframe self-regulation as the management of limited cognitive resources rather than the exertion of moral effort? (3) How does this shift change educational practice, particularly for learners who have been labeled as "lacking self-discipline"?
+Deconstruct the common assumption that [[self-regulated-learning]] is primarily a function of willpower, self-discipline, or "grit." Challenge the folk-psychological narrative that frames poor self-regulation as a moral or motivational failing. Return to first principles by examining: What is the actual cognitive architecture underlying volitional control in learning? Investigate the roles of [[executive-function]] (working memory, cognitive flexibility, inhibitory control), [[Cognitive Load Theory (CLT)]] theory, automaticity, and [[habit-formation]]. Analyze whether "willpower" is a useful construct or whether it obscures more fundamental mechanisms like glucose metabolism, decision fatigue, and attention allocation. Rebuild the concept of self-regulation from these atomic truths, focusing on: (1) How can we describe regulatory behavior without invoking willpower? (2) What environmental and cognitive design principles emerge when we reframe self-regulation as the management of limited cognitive resources rather than the exertion of moral effort? (3) How does this shift change educational practice, particularly for learners who have been labeled as "lacking self-discipline"?
 
 ---
 
@@ -98,7 +98,7 @@ Deconstruct the foundational assumption that [[self-regulated-learning]] is prim
 
 * [[metacognition]]
 * [[executive-function]]
-* [[cognitive-load-theory]]
+* [[Cognitive Load Theory (CLT)]]
 * [[Zimmerman Self-Regulated Learning Model]]
 * [[distributed-cognition]]
 * [[Domain-Specific Knowledge]]

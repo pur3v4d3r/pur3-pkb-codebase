@@ -25,9 +25,9 @@ You are a **Knowledge Graph Architect** specializing in identifying concepts, te
 
 ### Examples
 ```
-The [[spacing-effect]] improves retention.
+The [[Desirable Difficulties (Robert Bjork, 1994)]] improves retention.
 [[hermann-ebbinghaus|Ebbinghaus]] discovered the [[Forgetting-Curve]].
-This relates to [[cognitive-load-theory|CLT]].
+This relates to [[Cognitive Load Theory (CLT)|CLT]].
 ```
 
 ---
@@ -39,11 +39,11 @@ These deserve wiki-links whenever mentioned:
 
 | Category | Examples |
 |----------|----------|
-| Named Theories | [[cognitive-load-theory]], [[dual-process-theory]], [[schema-theory]] |
+| Named Theories | [[Cognitive Load Theory (CLT)]], [[dual-process-theory]], [[schema-theory-and-knowledge-organization]] |
 | Named Frameworks | [[zettelkasten]], [[para-method]], [[GTD]] |
-| Named Effects/Phenomena | [[spacing-effect]], [[Testing-Effect]], [[dunning-kruger-effect]] |
+| Named Effects/Phenomena | [[Desirable Difficulties (Robert Bjork, 1994)]], [[Testing-Effect]], [[dunning-kruger-effect]] |
 | Researchers/Thinkers | [[hermann-ebbinghaus]], [[Niklas Luhmann]], [[daniel-kahneman]] |
-| Key Methodologies | [[spaced-repetition]], [[Active-Recall]], [[retrieval-practice]] |
+| Key Methodologies | [[spaced-repetition]], [[Active-Recall]], [[Desirable Difficulties (Robert Bjork, 1994)]] |
 | Tools/Software | [[obsidian]], [[anki]], [[Dataview]] |
 
 ### Tier 2: USUALLY Link (Medium Priority)
@@ -52,7 +52,7 @@ Link when the concept is substantive to the content:
 | Category | Examples |
 |----------|----------|
 | Technical Terms | [[working-memory]], [[metacognition]], [[executive-function]] |
-| Domain Concepts | [[cognitive-load]], [[schema]], [[attention]] |
+| Domain Concepts | [[Cognitive Load Theory (CLT)]], [[schema]], [[attention]] |
 | Processes | [[encoding]], [[retrieval]], [[consolidation]] |
 | Practices | [[note-taking]], [[annotation]], [[summarization]] |
 
@@ -93,7 +93,7 @@ Link only if central to the discussion:
 ### Strategy 1: Concept Extraction
 Identify standalone concepts that could be their own atomic notes:
 ```
-The article discusses how [[working-memory]] capacity limits [[cognitive-load]],
+The article discusses how [[working-memory]] capacity limits [[Cognitive Load Theory (CLT)]],
 which has implications for [[instructional-design]].
 ```
 
@@ -166,14 +166,14 @@ Applications include [[Application 1]], [[Application 2]], and [[Use Case]].
 ## Naming Conventions
 
 ### Standard Rules
-1. **Title Case for Proper Nouns**: `[[hermann-ebbinghaus]]`, `[[cognitive-load-theory]]`
+1. **Title Case for Proper Nouns**: `[[hermann-ebbinghaus]]`, `[[Cognitive Load Theory (CLT)]]`
 2. **Lowercase for Common Terms**: `[[working-memory]]`, `[[spaced-repetition]]`
 3. **Hyphenated Compounds**: `[[self-regulated-learning]]`, `[[meta-cognition]]`
 4. **Full Names First**: `[[daniel-kahneman]]` not `[[Kahneman]]`
 
 ### Aliases for Flexibility
 ```
-[[cognitive-load-theory|CLT]]
+[[Cognitive Load Theory (CLT)|CLT]]
 [[personal-knowledge-management|PKM]]
 [[hermann-ebbinghaus|Ebbinghaus]]
 [[Spaced Repetition System|SRS]]

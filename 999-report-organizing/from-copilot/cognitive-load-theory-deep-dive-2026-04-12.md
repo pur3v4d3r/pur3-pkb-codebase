@@ -92,26 +92,26 @@ callout_target: "≥40"
 # ═══════════════════════════════════════════════════════════════
 # DATAVIEW FIELDS
 # ═══════════════════════════════════════════════════════════════
-up: "[[cognitive-load-theory]]"
+up: "[[Cognitive Load Theory (CLT)]]"
 related:
-  - "[[element-interactivity]]"
+  - "[[Technical Detail: The relationship between element interactivity and working-memory load]]"
   - "[[john-sweller]]"
   - "[[working-memory]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[instructional-design]]"
-  - "[[germane-cognitive-load]]"
-  - "[[expertise-reversal-effect]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]"
 ---
 
 # Element Interactivity as the Unifying Mechanism of Cognitive Load Theory: A Deep Dive
 
 > [!abstract] **Abstract**
-> [[cognitive-load-theory]] is widely understood through its tripartite model of [[intrinsic-cognitive-load]], [[extraneous-cognitive-load]], and [[germane-cognitive-load]] — three categories that have shaped [[instructional-design]] for over three decades. Yet this familiar framing conceals the theory's actual explanatory engine: <span style='color: #FFC700;'>**element interactivity**</span>, the concept that determines how many informational elements a learner must simultaneously process to achieve understanding. This Deep Dive takes [[element-interactivity]] as its exclusive focal point and subjects it to progressive magnification across seven analytical levels — from its surface appearance as a classification heuristic, through its operation as the mechanism that generates every major CLT instructional effect, down to the substructure of what constitutes an "element" and how interactivity is defined, then further into the dynamics by which element interactivity produces phenomena like the [[expertise-reversal-effect]], the [[split-attention-effect]], and the [[worked-example-effect]]. At deeper levels, this report examines the boundary conditions where element interactivity's explanatory power breaks down — collaborative learning, motivational interactions, embodied cognition — before engaging the active research frontier: the germane load reconceptualization debate, the fundamental measurement problem, and the emerging connections to [[cognitive-architecture]] via neuroimaging. The final speculative level considers computational modeling of element interactivity and the prospect of AI-adaptive instructional systems that could dynamically track element interactivity in real time. Throughout, the report treats element interactivity not as one concept among many in CLT's toolkit, but as <span style='color: #27FF00;'>the single theoretical construct from which the entire theory's predictions follow</span>. Readers who understand element interactivity at specialist depth will understand why CLT's instructional effects work, when they fail, and where the theory's future lies.
+> [[Cognitive Load Theory (CLT)]] is widely understood through its tripartite model of [[Cognitive Load Theory (CLT)]], [[Cognitive Load Theory (CLT)]], and [[Cognitive Load Theory (CLT)]] — three categories that have shaped [[instructional-design]] for over three decades. Yet this familiar framing conceals the theory's actual explanatory engine: <span style='color: #FFC700;'>**element interactivity**</span>, the concept that determines how many informational elements a learner must simultaneously process to achieve understanding. This Deep Dive takes [[Technical Detail: The relationship between element interactivity and working-memory load]] as its exclusive focal point and subjects it to progressive magnification across seven analytical levels — from its surface appearance as a classification heuristic, through its operation as the mechanism that generates every major CLT instructional effect, down to the substructure of what constitutes an "element" and how interactivity is defined, then further into the dynamics by which element interactivity produces phenomena like the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], the [[split-attention-effect]], and the [[the-worked-example-effect]]. At deeper levels, this report examines the boundary conditions where element interactivity's explanatory power breaks down — collaborative learning, motivational interactions, embodied cognition — before engaging the active research frontier: the germane load reconceptualization debate, the fundamental measurement problem, and the emerging connections to [[Cognitive Architecture]] via neuroimaging. The final speculative level considers computational modeling of element interactivity and the prospect of AI-adaptive instructional systems that could dynamically track element interactivity in real time. Throughout, the report treats element interactivity not as one concept among many in CLT's toolkit, but as <span style='color: #27FF00;'>the single theoretical construct from which the entire theory's predictions follow</span>. Readers who understand element interactivity at specialist depth will understand why CLT's instructional effects work, when they fail, and where the theory's future lies.
 
 ---
 
 > [!methodology-and-sources] **Scope Statement**
-> **This report's focus:** Element interactivity as the unifying mechanism underlying all of [[cognitive-load-theory]]'s predictions, effects, and design principles — its definition, measurement, theoretical role, boundary conditions, and frontier debates.
+> **This report's focus:** Element interactivity as the unifying mechanism underlying all of [[Cognitive Load Theory (CLT)]]'s predictions, effects, and design principles — its definition, measurement, theoretical role, boundary conditions, and frontier debates.
 >
 > **Drawn from broader topic:** Cognitive Load Theory (the full field encompassing dozens of instructional effects, three load types, evolutionary foundations, and 40+ years of research)
 >
@@ -128,7 +128,7 @@ related:
 > **What this report does NOT cover:**
 > - Comprehensive survey of all CLT instructional effects (see [[cognitive-load-theory-foundational-report-2026-03-11|CLT Foundational Report]])
 > - Richard Mayer's [[cognitive-theory-of-multimedia-learning]] as a separate framework
-> - Detailed treatment of [[four-component-instructional-design-4cid|4C/ID]] as an instructional design model
+> - Detailed treatment of [[four-component-instructional-design-4cid — Design Methodology for Complex Learning|4C/ID]] as an instructional design model
 > - Historical chronological development narrative of CLT
 > - Practical instructional design cookbook for applying CLT effects
 >
@@ -189,14 +189,14 @@ related:
 
 ### 1.1 The Textbook Version of CLT
 
-At its most commonly encountered level, [[cognitive-load-theory]] presents as an instructional design theory built on a simple cognitive architecture claim: <span style='color: #FFC700;'>[[working-memory]] is severely limited in capacity and duration when processing novel information, while [[long-term-memory]] is effectively unlimited in both</span>. The practical consequence is that instructional materials should be designed to respect working memory limitations and facilitate the construction and [[schema-automation|automation]] of [[schema|schemas]] in long-term memory.
+At its most commonly encountered level, [[Cognitive Load Theory (CLT)]] presents as an instructional design theory built on a simple cognitive architecture claim: <span style='color: #FFC700;'>[[working-memory]] is severely limited in capacity and duration when processing novel information, while [[long-term-memory]] is effectively unlimited in both</span>. The practical consequence is that instructional materials should be designed to respect working memory limitations and facilitate the construction and [[Schema Automation|automation]] of [[schema|schemas]] in long-term memory.
 
 > [!definition] **Cognitive Load Theory (Surface Definition)**
 > [**Cognitive-Load-Theory**:: An instructional design theory proposing that learning is optimized when instructional procedures align with the limitations of human cognitive architecture — specifically the narrow processing capacity of working memory and the role of schema acquisition in long-term memory.]
 
-The theory organizes itself around three types of cognitive load: [[intrinsic-cognitive-load]], imposed by the inherent complexity of the learning material; [[extraneous-cognitive-load]], imposed by suboptimal instructional design; and [[germane-cognitive-load]], the productive load associated with schema construction and automation. The instructional designer's task, in this surface account, is to minimize extraneous load, manage intrinsic load appropriately, and maximize the cognitive resources available for germane processing.
+The theory organizes itself around three types of cognitive load: [[Cognitive Load Theory (CLT)]], imposed by the inherent complexity of the learning material; [[Cognitive Load Theory (CLT)]], imposed by suboptimal instructional design; and [[Cognitive Load Theory (CLT)]], the productive load associated with schema construction and automation. The instructional designer's task, in this surface account, is to minimize extraneous load, manage intrinsic load appropriately, and maximize the cognitive resources available for germane processing.
 
-This framework generates a suite of well-documented instructional effects — the [[worked-example-effect]] (studying worked examples reduces extraneous load relative to problem-solving), the [[split-attention-effect]] (physically integrating related information sources reduces extraneous load), the [[redundancy-effect]] (eliminating redundant information reduces extraneous processing), the [[modality-effect]] (presenting verbal information auditorily alongside visual information distributes load across working memory subsystems), and the [[expertise-reversal-effect]] (instructional techniques beneficial for novices become detrimental for experts).
+This framework generates a suite of well-documented instructional effects — the [[the-worked-example-effect]] (studying worked examples reduces extraneous load relative to problem-solving), the [[split-attention-effect]] (physically integrating related information sources reduces extraneous load), the [[redundancy-effect]] (eliminating redundant information reduces extraneous processing), the [[Modality Effect]] (presenting verbal information auditorily alongside visual information distributes load across working memory subsystems), and the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] (instructional techniques beneficial for novices become detrimental for experts).
 
 > [!example] **The Surface Prescription in Action**
 > A physics instructor teaching circuit analysis might apply the surface-level CLT framework as follows:
@@ -208,7 +208,7 @@ This framework generates a suite of well-documented instructional effects — th
 
 ### 1.2 Where Element Interactivity Appears at the Surface Level
 
-In the standard account, [[element-interactivity]] appears primarily as the factor that determines [[intrinsic-cognitive-load]]. The canonical formulation states that intrinsic load is a function of the number of interacting elements the learner must simultaneously process. Materials with high element interactivity — where understanding any one element requires simultaneous consideration of many others — impose high intrinsic load. Materials with low element interactivity — where elements can be learned independently — impose low intrinsic load.
+In the standard account, [[Technical Detail: The relationship between element interactivity and working-memory load]] appears primarily as the factor that determines [[Cognitive Load Theory (CLT)]]. The canonical formulation states that intrinsic load is a function of the number of interacting elements the learner must simultaneously process. Materials with high element interactivity — where understanding any one element requires simultaneous consideration of many others — impose high intrinsic load. Materials with low element interactivity — where elements can be learned independently — impose low intrinsic load.
 
 > [!definition] **Element Interactivity (Surface Definition)**
 > [**Element-Interactivity**:: The number of information elements that must be simultaneously processed in working memory for understanding to occur. Conventionally treated as the determinant of intrinsic cognitive load.]
@@ -222,7 +222,7 @@ At this level, element interactivity seems like a property of the learning mater
 
 The tripartite model at surface level carries several assumptions that deeper magnification levels will challenge:
 
-**Assumption 1: The three load types are ontologically distinct.** The surface account treats intrinsic, extraneous, and germane load as three separate *kinds* of cognitive load that combine additively — the total load equals intrinsic plus extraneous plus germane, and this total must remain within working memory capacity. This formulation, codified in [[fred-paas|Paas]], [[jeroen-van-merriënboer|van Merriënboer]], and Sweller's influential publications, treats the three types as causally independent categories.
+**Assumption 1: The three load types are ontologically distinct.** The surface account treats intrinsic, extraneous, and germane load as three separate *kinds* of cognitive load that combine additively — the total load equals intrinsic plus extraneous plus germane, and this total must remain within working memory capacity. This formulation, codified in [[Fred Paas|Paas]], [[Jeroen van Merriënboer|van Merriënboer]], and Sweller's influential publications, treats the three types as causally independent categories.
 
 **Assumption 2: Germane load is a real, manipulable quantity.** The surface account implies that instructional designers can *increase* germane load — that is, they can cause learners to invest more cognitive resources in schema construction by designing materials that encourage deep processing. This implies germane load is distinct from the simple absence of extraneous load.
 
@@ -239,7 +239,7 @@ It treats the instructional effects as a *list* — worked examples, split atten
 
 It presents the three load types as fundamental categories without acknowledging that the field has spent two decades debating whether germane load should exist as a separate category at all — a debate that has now been substantially resolved in favor of reconceptualization, but whose resolution requires understanding element interactivity at a depth the surface account does not provide.
 
-It obscures the relationship between CLT and [[cognitive-architecture]] — specifically, how CLT's predictions follow from evolutionary principles about human information processing, not merely from the observation that working memory is limited. The evolutionary foundations, articulated in Sweller's later work, place element interactivity at the absolute center of CLT's explanatory architecture, but this centrality is invisible at the surface.
+It obscures the relationship between CLT and [[Cognitive Architecture]] — specifically, how CLT's predictions follow from evolutionary principles about human information processing, not merely from the observation that working memory is limited. The evolutionary foundations, articulated in Sweller's later work, place element interactivity at the absolute center of CLT's explanatory architecture, but this centrality is invisible at the surface.
 
 > [!section-summary] **Level 1 Summary**
 > At the surface, Cognitive Load Theory appears to be a tripartite model (intrinsic, extraneous, germane load) that generates a suite of instructional effects. Element interactivity appears as a background concept — the factor that determines intrinsic load, treated as a fixed property of learning materials. The three load types are treated as ontologically distinct, additively combining categories. This is the version of CLT most instructional designers encounter. The next level will reveal that this surface is misleading: element interactivity is not a background concept but the *entire explanatory engine* of the theory, and the three load types are not distinct categories but different perspectives on a single mechanism.
@@ -282,11 +282,11 @@ Once element interactivity is recognized as the generative mechanism, the three 
 
 > [!technical-detail] **Technical Detail: The Reconceptualized Load Types**
 >
-> **[[intrinsic-cognitive-load]]** = element interactivity inherent in the *information structure* being learned. If understanding concept X requires simultaneously processing elements A, B, C, and D because they are structurally interdependent, that interactivity is intrinsic to the material. No instructional redesign can eliminate the need to eventually process these elements together — though the complexity can be sequenced (via the [[isolated-interacting-elements-effect|isolated-interacting elements effect]]).
+> **[[Cognitive Load Theory (CLT)]]** = element interactivity inherent in the *information structure* being learned. If understanding concept X requires simultaneously processing elements A, B, C, and D because they are structurally interdependent, that interactivity is intrinsic to the material. No instructional redesign can eliminate the need to eventually process these elements together — though the complexity can be sequenced (via the [[isolated-interacting-elements-effect|isolated-interacting elements effect]]).
 >
-> **[[extraneous-cognitive-load]]** = element interactivity imposed by the *instructional format* rather than by the learning content itself. When a split-source format requires the learner to mentally integrate a diagram on one page with text on another, the learner must hold elements from both sources in working memory simultaneously — not because the content demands it, but because the presentation demands it. This *additional* element interactivity is extraneous: it exists only because of the instructional design choice.
+> **[[Cognitive Load Theory (CLT)]]** = element interactivity imposed by the *instructional format* rather than by the learning content itself. When a split-source format requires the learner to mentally integrate a diagram on one page with text on another, the learner must hold elements from both sources in working memory simultaneously — not because the content demands it, but because the presentation demands it. This *additional* element interactivity is extraneous: it exists only because of the instructional design choice.
 >
-> **[[germane-cognitive-load]]** = the *working memory resources actually devoted to processing intrinsic element interactivity*. In this reconceptualized view, germane load is not a third type of interactivity but rather the cognitive work of constructing schemas from intrinsic interactivity. It is the effortful processing that occurs when element interactivity is within working memory capacity and the learner is actively building integrative structures.
+> **[[Cognitive Load Theory (CLT)]]** = the *working memory resources actually devoted to processing intrinsic element interactivity*. In this reconceptualized view, germane load is not a third type of interactivity but rather the cognitive work of constructing schemas from intrinsic interactivity. It is the effortful processing that occurs when element interactivity is within working memory capacity and the learner is actively building integrative structures.
 >
 > **The critical implication:** Extraneous load is now understood as *extraneous element interactivity* — interactivity between elements that exists because of the instructional format, not because of the content. Reducing extraneous load = reducing extraneous element interactivity. This is not a metaphorical restatement; it is a mechanistic redescription that changes what counts as a prediction.
 
@@ -300,7 +300,7 @@ Once element interactivity is recognized as the generative mechanism, the three 
 
 ### 2.3 The Evolutionary Foundation: Why Element Interactivity Matters
 
-Sweller's later theoretical work — particularly his articulation of CLT's [[cognitive-architecture|evolutionary cognitive architecture]] — provides the deeper justification for element interactivity's centrality. CLT's cognitive architecture rests on five principles drawn by analogy from biological evolution:
+Sweller's later theoretical work — particularly his articulation of CLT's [[Cognitive Architecture|evolutionary cognitive architecture]] — provides the deeper justification for element interactivity's centrality. CLT's cognitive architecture rests on five principles drawn by analogy from biological evolution:
 
 > [!technical-detail] **Technical Detail: The Five Evolutionary Principles of CLT's Cognitive Architecture**
 >
@@ -330,12 +330,12 @@ The most important mechanistic relationship in CLT is the reciprocal one between
 >
 > **During learning:** When the learner successfully constructs a schema that encapsulates the relationships among a subset of these elements, that schema becomes a single element in working memory. If a schema encapsulating elements {A, B, C} is formed, what was previously three interacting elements becomes one schema-element, reducing effective element interactivity from *n* to *n – 2*.
 >
-> **After extensive learning:** [[schema-automation]] further reduces the processing cost. An automated schema not only functions as a single element — it functions as an element that requires *zero* working memory resources for its activation. Fully automated schemas operate like LTM retrieval rather than WM processing.
+> **After extensive learning:** [[Schema Automation]] further reduces the processing cost. An automated schema not only functions as a single element — it functions as an element that requires *zero* working memory resources for its activation. Fully automated schemas operate like LTM retrieval rather than WM processing.
 >
 > **The feedback dynamic:** Each schema construction event reduces element interactivity, which frees working memory capacity for processing additional interacting elements, which enables further schema construction, which further reduces element interactivity. Learning, in this account, is a *progressive compression* of element interactivity through schema construction and automation.
 >
 > **Precision:** This is a schematic account. The actual dynamics involve threshold effects (schemas don't form until sufficient elements are simultaneously processed), partial schemas (incomplete compression), and interference patterns (competing schemas). Level 3 will address the substructure.
-> **Dependencies:** Assumes understanding of [[schema-theory]] at the level covered in [[schema-theory-and-learning-foundational-report-2026-03-06|Schema Theory Foundational Report]].
+> **Dependencies:** Assumes understanding of [[schema-theory-and-knowledge-organization]] at the level covered in [[schema-theory-and-learning-foundational-report-2026-03-06|Schema Theory Foundational Report]].
 
 ### 2.5 Why the Mechanism Matters: From List-Learning to Derivation
 
@@ -352,11 +352,11 @@ The practical payoff of understanding element interactivity as the mechanism is 
 > This derivation also immediately predicts the expertise reversal effect: once the learner has acquired the relevant schemas, worked examples become *redundant information* that adds extraneous element interactivity (the learner must process both their own schema and the presented solution, integrating or reconciling them). The same mechanism — element interactivity — generates both the original effect and its reversal.
 
 > [!rabbit-hole] **Rabbit Hole: The Goal-Free Effect and Means-Ends Analysis**
-> **What it is:** The [[worked-example-effect]] is closely related to the goal-free effect — removing specific goals from problems (e.g., "calculate any values you can" instead of "calculate the value of angle X") reduces means-ends search and therefore reduces extraneous element interactivity.
+> **What it is:** The [[the-worked-example-effect]] is closely related to the goal-free effect — removing specific goals from problems (e.g., "calculate any values you can" instead of "calculate the value of angle X") reduces means-ends search and therefore reduces extraneous element interactivity.
 > **Why follow it:** The goal-free effect provides perhaps the cleanest demonstration of element interactivity because means-ends analysis is a well-characterized cognitive process whose element interactivity can be precisely specified.
 > **Time investment:** ~2 hours of reading (Sweller & Levine, 1982; Owen & Sweller, 1985)
 > **Where to start:** Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12, 257-285.
-> **See also:** [[worked-example-effect]], [[cognitive-load-theory]], [[schema-construction]]
+> **See also:** [[the-worked-example-effect]], [[Cognitive Load Theory (CLT)]], [[Schema Construction]]
 
 ### 2.6 What the Mechanism Level Reveals That the Surface Cannot
 
@@ -416,10 +416,10 @@ CLT distinguishes several types of elements, though this typology is less freque
 >
 > **Relational elements:** The connections or relationships between other elements. These are often the most demanding — understanding *why* A relates to B requires holding both A and B in working memory simultaneously along with the relational structure. Relational elements are the primary drivers of high element interactivity.
 >
-> **Schema-elements:** Encapsulated chunks in which multiple lower-level elements function as a single unit. The transition from multiple elements to a schema-element is the fundamental learning act in CLT. [[schema-automation]] further reduces the processing cost from "one working-memory slot" to "near-zero working-memory demand."
+> **Schema-elements:** Encapsulated chunks in which multiple lower-level elements function as a single unit. The transition from multiple elements to a schema-element is the fundamental learning act in CLT. [[Schema Automation]] further reduces the processing cost from "one working-memory slot" to "near-zero working-memory demand."
 >
 > **Precision:** This typology is descriptive, not formal. CLT does not provide a formal type system for elements — the distinction between conceptual, procedural, and relational elements is heuristic rather than definitional.
-> **Dependencies:** Assumes familiarity with [[schema-theory]] and [[declarative-schemas|declarative]] vs. [[procedural-schemas|procedural]] knowledge distinctions.
+> **Dependencies:** Assumes familiarity with [[schema-theory-and-knowledge-organization]] and [[declarative-schemas|declarative]] vs. [[procedural-schemas|procedural]] knowledge distinctions.
 
 ### 3.3 Defining "Interactivity": The Isolated-Interacting Distinction
 
@@ -487,7 +487,7 @@ Not all element interactivity has the same structure. The *topology* of element 
 > **Precision:** This topological analysis is not yet standard in CLT literature. It is an analytical framework that emerges naturally from taking element interactivity seriously at the substructural level.
 
 > [!claude-insight] **Claude's Specialist Perspective: Topology as the Missing Variable**
-> Element interactivity research has focused almost exclusively on *count* — how many elements interact. But the substructural analysis suggests that *topology* — how elements interact — may be an independent predictor of learning difficulty. Two materials with identical element interactivity counts but different topologies (one linear, one network) should produce different learning outcomes. If confirmed, this would explain persistent anomalies in CLT research where element interactivity counts fail to fully predict learning difficulty. The topology distinction also connects CLT to graph-theoretic approaches in [[cognitive-architecture]] and [[knowledge-schemas|knowledge representation]].
+> Element interactivity research has focused almost exclusively on *count* — how many elements interact. But the substructural analysis suggests that *topology* — how elements interact — may be an independent predictor of learning difficulty. Two materials with identical element interactivity counts but different topologies (one linear, one network) should produce different learning outcomes. If confirmed, this would explain persistent anomalies in CLT research where element interactivity counts fail to fully predict learning difficulty. The topology distinction also connects CLT to graph-theoretic approaches in [[Cognitive Architecture]] and [[knowledge-schemas|knowledge representation]].
 
 ### 3.6 Element Interactivity and the Limits of Decomposition
 
@@ -502,7 +502,7 @@ At the bottom of the substructural analysis lies a fundamental question: is ther
 > **When it doesn't:** For broad-strokes instructional design targeting a well-characterized learner population.
 
 > [!precision-note] **Precision Note**
-> The term "element" in CLT should not be confused with the information-theoretic sense of "element" (a discrete symbol in an alphabet) or the chemical sense (an irreducible substance). In CLT, "element" is closer to "chunk" in [[chunking|Miller's sense]] — a unit of processing that can vary in internal complexity. However, CLT elements are *task-relative* (defined by what the task requires for understanding) rather than *encoding-relative* (defined by how the information is perceptually organized). This distinction, while subtle, prevents false predictions about the relationship between perceptual complexity and cognitive load.
+> The term "element" in CLT should not be confused with the information-theoretic sense of "element" (a discrete symbol in an alphabet) or the chemical sense (an irreducible substance). In CLT, "element" is closer to "chunk" in [[Chunk (Miller, 1956; Chase & Simon, 1973)|Miller's sense]] — a unit of processing that can vary in internal complexity. However, CLT elements are *task-relative* (defined by what the task requires for understanding) rather than *encoding-relative* (defined by how the information is perceptually organized). This distinction, while subtle, prevents false predictions about the relationship between perceptual complexity and cognitive load.
 
 > [!section-summary] **Level 3 Summary**
 > At the mechanism level, element interactivity appeared as a clear explanatory engine. At the substructural level, we now see its internal components: elements that are expertise-relative, not fixed; interactivity that is defined by the simultaneous processing requirement; the isolated-interacting elements distinction that generates a key instructional effect; the counting problem that prevents objective quantification; the topological structure of interactions (linear, hierarchical, network) that may independently affect difficulty; and the fundamental insight that elements are functional processing units, not ontological primitives. The concept remains powerful but is revealed to be inherently learner-relative and resistant to context-independent measurement — a feature that Level 6 (Frontier) will engage as CLT's central unresolved problem. The next level will examine how this substructure produces observable behavior: the specific instructional effects that CLT predicts and explains.
@@ -537,7 +537,7 @@ Before deriving individual effects, it is essential to understand the <span styl
 > Interventions that *add* elements to an already manageable load → detrimental (extraneous interactivity)
 > Interventions that *remove* scaffolding → beneficial (allows expert schemas to operate without interference)
 >
-> **The crossing point:** There exists a point in the learner's expertise development where the intervention switches from beneficial to detrimental (or vice versa). This crossing point is not a fixed location — it depends on the specific element interactivity structure of the material and the intervention. This is the [[expertise-reversal-effect]] expressed as a general dynamic rather than a single named effect.
+> **The crossing point:** There exists a point in the learner's expertise development where the intervention switches from beneficial to detrimental (or vice versa). This crossing point is not a fixed location — it depends on the specific element interactivity structure of the material and the intervention. This is the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] expressed as a general dynamic rather than a single named effect.
 >
 > **Formal expression:** If we denote the effective element interactivity of the material for a learner as $EI_{eff}$, and working memory capacity as $WM_{cap}$, then:
 > - When $EI_{eff} > WM_{cap}$: any reduction in $EI_{eff}$ relative to unassisted processing → beneficial
@@ -562,11 +562,11 @@ With the master dynamic established, each major CLT effect can be derived as a s
 >
 > **The means-ends interactivity explosion:** Means-ends analysis requires the learner to simultaneously hold: the current state, the goal state, the difference between them, and the operator being evaluated — plus any subgoals generated. For a multi-step problem, this interactivity cascade can easily exceed working memory capacity. Critically, this element interactivity is *extraneous* — it results from the problem-solving search process, not from the to-be-learned content structure.
 >
-> **The [[worked-example-effect|worked example]] intervention:** By presenting a solved example, the intervention eliminates means-ends search. The learner processes the solution steps and their relationships sequentially, building a schema of the solution procedure. Element interactivity is reduced to the *intrinsic* interactivity of understanding each step's relationship to the solution — which is lower than the interactivity of generating the solution from scratch.
+> **The [[the-worked-example-effect|worked example]] intervention:** By presenting a solved example, the intervention eliminates means-ends search. The learner processes the solution steps and their relationships sequentially, building a schema of the solution procedure. Element interactivity is reduced to the *intrinsic* interactivity of understanding each step's relationship to the solution — which is lower than the interactivity of generating the solution from scratch.
 >
 > **Why it works for novices:** High $EI_{eff}$ → reduction in extraneous interactivity is strongly beneficial.
 >
-> **Why it reverses for experts:** An expert who already has a solution schema encounters the worked example as *additional information* that must be processed alongside their existing schema. They must reconcile the presented solution with their own schema, creating extraneous element interactivity where none existed. Hence the [[expertise-reversal-effect]].
+> **Why it reverses for experts:** An expert who already has a solution schema encounters the worked example as *additional information* that must be processed alongside their existing schema. They must reconcile the presented solution with their own schema, creating extraneous element interactivity where none existed. Hence the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]].
 
 #### 4.2.2 The Split-Attention Effect
 
@@ -603,7 +603,7 @@ With the master dynamic established, each major CLT effect can be derived as a s
 >
 > **The situation:** Visual information (diagram, animation) must be processed simultaneously with verbal information (explanatory text).
 >
-> **The [[modality-effect|modality]] intervention:** Present verbal information auditorily rather than visually. This exploits the dual-channel structure of working memory (the [[Baddeley's-Working-Memory-Model|phonological loop]] and the [[Baddeley's-Working-Memory-Model|visuospatial sketchpad]]) to distribute element interactivity across two partially independent subsystems.
+> **The [[Modality Effect|modality]] intervention:** Present verbal information auditorily rather than visually. This exploits the dual-channel structure of working memory (the [[Baddeley's-Working-Memory-Model|phonological loop]] and the [[Baddeley's-Working-Memory-Model|visuospatial sketchpad]]) to distribute element interactivity across two partially independent subsystems.
 >
 > **The element interactivity analysis:** The modality effect does not *reduce* total element interactivity — the same elements must still be processed. However, it reduces the element interactivity *within each working memory subsystem*. Visual elements are processed in the visuospatial subsystem, verbal elements in the phonological loop, and the integration occurs at the central executive level where both channels converge. The effective element interactivity load on any single subsystem is lower than when both channels compete for the visual subsystem.
 >
@@ -623,7 +623,7 @@ With the master dynamic established, each major CLT effect can be derived as a s
 
 > [!technical-detail] **Technical Detail: The Expertise Reversal Effect as the Master Dynamic's Primary Expression**
 >
-> The [[expertise-reversal-effect]] is not merely one effect among many — it is the *primary expression* of the expertise × interactivity master dynamic. Every CLT instructional effect reverses with expertise, because every effect works by modifying element interactivity, and schemas change what element interactivity means for a given learner.
+> The [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] is not merely one effect among many — it is the *primary expression* of the expertise × interactivity master dynamic. Every CLT instructional effect reverses with expertise, because every effect works by modifying element interactivity, and schemas change what element interactivity means for a given learner.
 >
 > **Mechanism in detail:**
 >
@@ -633,7 +633,7 @@ With the master dynamic established, each major CLT effect can be derived as a s
 >
 > **Phase 3 (competent):** The learner's schemas have reduced $EI_{eff}$ to near or below $WM_{cap}$ without assistance. Scaffolding now adds elements to process (the scaffolding itself becomes extraneous information), pushing total load upward. The intervention crosses the reversal threshold.
 >
-> **Phase 4 (expert):** The learner's schemas have made the material trivially easy. Scaffolding is now pure extraneous element interactivity — an [[expertise-reversal-effect|expertise reversal]] in full expression. Removing the scaffolding and allowing the expert to work from their own schemas produces better performance.
+> **Phase 4 (expert):** The learner's schemas have made the material trivially easy. Scaffolding is now pure extraneous element interactivity — an [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)|expertise reversal]] in full expression. Removing the scaffolding and allowing the expert to work from their own schemas produces better performance.
 >
 > **Why this is the master dynamic, not a single effect:** Because the *same* phase transition applies to worked examples, split-attention integration, modality distribution, and every other CLT intervention. Each intervention reduces element interactivity for novices and adds extraneous element interactivity for experts. The expertise reversal is not an exception to the instructional effects — it is their *completion*.
 
@@ -711,16 +711,16 @@ From the individual derivations, several general dynamic principles emerge:
 > [!edge-case] **Edge Case: When Motivation Modulates Element Interactivity Effects**
 > **The case:** Learners who are highly motivated (intrinsically interested, autonomous motivation) appear to handle higher element interactivity than learners with equivalent prior knowledge but lower motivation.
 >
-> **What standard element interactivity predicts:** Element interactivity should produce the same effects regardless of motivation, because working memory capacity is a structural constraint of [[cognitive-architecture]], not a motivational state. Two learners with identical prior knowledge facing identical material should experience identical element interactivity.
+> **What standard element interactivity predicts:** Element interactivity should produce the same effects regardless of motivation, because working memory capacity is a structural constraint of [[Cognitive Architecture]], not a motivational state. Two learners with identical prior knowledge facing identical material should experience identical element interactivity.
 >
-> **What actually happens:** Research at the intersection of [[cognitive-load-theory]] and [[self-determination-theory]] (particularly work by Feldon, Moreno, and more recently by researchers exploring the [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|resource competition hypothesis]]) suggests that motivation affects cognitive load outcomes in ways not explained by element interactivity alone. Highly motivated learners appear to either: (a) allocate more attentional resources to the task, (b) persist through higher element interactivity episodes that would cause disengagement in less-motivated learners, or (c) naturally engage in more effective schema construction strategies, effectively reducing their effective element interactivity through different processing (not just different prior knowledge).
+> **What actually happens:** Research at the intersection of [[Cognitive Load Theory (CLT)]] and [[self-determination-theory]] (particularly work by Feldon, Moreno, and more recently by researchers exploring the [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|resource competition hypothesis]]) suggests that motivation affects cognitive load outcomes in ways not explained by element interactivity alone. Highly motivated learners appear to either: (a) allocate more attentional resources to the task, (b) persist through higher element interactivity episodes that would cause disengagement in less-motivated learners, or (c) naturally engage in more effective schema construction strategies, effectively reducing their effective element interactivity through different processing (not just different prior knowledge).
 >
 > **Why this matters:** If motivation modulates the *effectiveness* of working memory resource allocation without changing its *structural capacity*, then element interactivity analysis must be supplemented with a motivational variable. The element interactivity mechanism remains necessary but is insufficient to fully predict learning outcomes. This creates a theoretical boundary: <span style='color: #FF00DC;'>element interactivity specifies the cognitive architecture constraint, but it does not address the motivational conditions under which that constraint operates</span>.
 >
 > **Implications:** CLT may need to be integrated with motivational theories (SDT, achievement goal theory) rather than treating motivation as irrelevant to cognitive architecture. The resource competition hypothesis — that cognitive and motivational resources draw from partially overlapping pools — represents one attempt at this integration, but it extends well beyond standard element interactivity.
 
 > [!rabbit-hole] **Rabbit Hole: The SDT × CLT Integration**
-> **What it is:** The theoretical integration of [[self-determination-theory]] with [[cognitive-load-theory]], examining how [[autonomous-motivation|autonomous motivation]] and [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|basic psychological need satisfaction]] interact with element interactivity demands.
+> **What it is:** The theoretical integration of [[self-determination-theory]] with [[Cognitive Load Theory (CLT)]], examining how [[Autonomous Motivation|autonomous motivation]] and [[Cognitive-Load-and-Need-Satisfaction-—-The-Resource-Competition-Hypothesis|basic psychological need satisfaction]] interact with element interactivity demands.
 > **Why follow it:** This is one of the most active interdisciplinary research fronts in educational psychology. The integration could resolve the motivation edge case by specifying when and how motivation modulates element interactivity effects.
 > **Time investment:** ~4-6 hours (multiple theoretical papers + empirical studies)
 > **Where to start:** Feldon et al.'s work on calibration accuracy and cognitive load; Moreno's cognitive-affective theory of learning with media.
@@ -815,7 +815,7 @@ From the individual derivations, several general dynamic principles emerge:
 ### 6.1 Frontier Question 1: The Germane Load Reconceptualization
 
 > [!frontier] **Frontier Question: Should Germane Cognitive Load Exist as a Separate Category?**
-> **The question:** Is [[germane-cognitive-load]] a genuine third type of cognitive load, or should it be reconceptualized as the working memory resources devoted to processing intrinsic element interactivity — making it a measure of effective learning effort rather than a separate load category?
+> **The question:** Is [[Cognitive Load Theory (CLT)]] a genuine third type of cognitive load, or should it be reconceptualized as the working memory resources devoted to processing intrinsic element interactivity — making it a measure of effective learning effort rather than a separate load category?
 >
 > **Current best understanding:** The reconceptualization position — that germane load is NOT a separate type of load — has gained substantial ground since Sweller's 2010 paper "Element Interactivity and Intrinsic, Extraneous, and Germane Cognitive Load" and has been further solidified in subsequent publications by Sweller, Kalyuga, and colleagues. The current majority position among CLT specialists is that the original tripartite model should be reconceptualized as a bipartite model: intrinsic element interactivity (from the learning content) and extraneous element interactivity (from the instructional format).
 >
@@ -823,7 +823,7 @@ From the individual derivations, several general dynamic principles emerge:
 > 1. *Variability effects* — presenting variable practice rather than uniform practice improves learning, which was attributed to increased germane load. Under reconceptualization, this is explained as different intrinsic element interactivity structures, but the explanation feels post hoc.
 > 2. *Self-explanation effects* — prompting learners to self-explain worked examples improves learning, which was attributed to increased germane processing. Under reconceptualization, this is explained as the self-explanation reducing effective element interactivity by promoting schema construction, but the directional logic is reversed.
 >
-> **Active research directions:** Kalyuga and colleagues have proposed reconceptualizing germane load as "germane resources" — the working memory resources *allocated to* processing intrinsic element interactivity. This preserves the concept's practical utility (designers should try to maximize resources devoted to learning-relevant processing) without requiring it to be a separate load category. [[Sergei-Kalyuga|Kalyuga's]] work on the expertise reversal effect has been particularly influential in demonstrating that what was attributed to "germane load manipulation" is better explained by changes in effective element interactivity.
+> **Active research directions:** Kalyuga and colleagues have proposed reconceptualizing germane load as "germane resources" — the working memory resources *allocated to* processing intrinsic element interactivity. This preserves the concept's practical utility (designers should try to maximize resources devoted to learning-relevant processing) without requiring it to be a separate load category. [[Sergei Kalyuga|Kalyuga's]] work on the expertise reversal effect has been particularly influential in demonstrating that what was attributed to "germane load manipulation" is better explained by changes in effective element interactivity.
 >
 > **Predicted resolution timeline:** Largely resolved as of the mid-2020s in favor of reconceptualization, though the original tripartite formulation persists in textbooks and in research programs that cite CLT without engaging the theoretical debate.
 >
@@ -862,7 +862,7 @@ From the individual derivations, several general dynamic principles emerge:
 > **What we don't know:** Whether element interactivity is even *the kind of construct* that admits objective measurement, given its expertise-relative and context-dependent nature (see Level 3). It may be more like "grammaticality" in linguistics — a real property that resists quantification despite being recognizable.
 >
 > **Active research directions:**
-> - [[fred-paas|Paas]] and colleagues are developing multi-dimensional rating scales that attempt to separate intrinsic and extraneous load dimensions
+> - [[Fred Paas|Paas]] and colleagues are developing multi-dimensional rating scales that attempt to separate intrinsic and extraneous load dimensions
 > - Leppink's 10-item cognitive load instrument attempts to distinguish the three load types through self-report items
 > - Neuroimaging researchers are using fMRI to identify brain regions associated with element interaction processing
 > - Computational approaches attempting to automate element interactivity analysis through content structure analysis
@@ -898,7 +898,7 @@ From the individual derivations, several general dynamic principles emerge:
 > **Why follow it:** This is the most likely path to resolving the measurement problem and grounding CLT in biological mechanism rather than information-processing metaphor.
 > **Time investment:** ~6-10 hours (spanning both CLT and cognitive neuroscience literatures)
 > **Where to start:** Whelan, R. R. (2007). Neuroimaging of cognitive load in instructional multimedia. *Educational Research Review*, 2, 1-12. Then: de Jong, T. (2010). Cognitive load theory, educational research, and instructional design.
-> **See also:** [[cognitive-architecture]], [[Working-Memory-—-Baddeley-Model]], [[attention-and-cognitive-control]]
+> **See also:** [[Cognitive Architecture]], [[Working-Memory-—-Baddeley-Model]], [[attention-and-cognitive-control]]
 
 ### 6.4 Frontier Question 4: Adaptive Instruction and Real-Time Element Interactivity Tracking
 
@@ -912,7 +912,7 @@ From the individual derivations, several general dynamic principles emerge:
 >
 > **What we don't know:** How to bridge the gap between *detecting* that load is high (relatively doable via physiological or behavioral measures) and *diagnosing* the element interactivity structure (very difficult — knowing load is high doesn't tell you *which* elements are overloading). Without structural diagnosis, adaptive systems can only make crude adjustments (provide more scaffolding / remove scaffolding) rather than targeted interventions (support *these specific* element interactions).
 >
-> **Active research directions:** [[Sergei-Kalyuga|Kalyuga's]] rapid assessment methods — brief diagnostic tasks that estimate the learner's schema development for specific content — represent the most CLT-grounded approach to real-time adaptation. Machine learning approaches that model learner knowledge state from interaction patterns are an alternative that trades theoretical specificity for predictive power.
+> **Active research directions:** [[Sergei Kalyuga|Kalyuga's]] rapid assessment methods — brief diagnostic tasks that estimate the learner's schema development for specific content — represent the most CLT-grounded approach to real-time adaptation. Machine learning approaches that model learner knowledge state from interaction patterns are an alternative that trades theoretical specificity for predictive power.
 >
 > **Predicted resolution timeline:** Crude adaptation (more/less scaffolding) is already possible. Targeted adaptation (supporting specific element interactions) is a decade or more away, contingent on progress on the measurement problem.
 >
@@ -949,7 +949,7 @@ From the individual derivations, several general dynamic principles emerge:
 > **Why follow it:** Geary's framework provides the evolutionary foundation that makes CLT's cognitive architecture principles coherent rather than ad hoc. Understanding Geary illuminates why CLT's predictions should hold.
 > **Time investment:** ~4 hours (Geary, 2008, 2012 are the key works)
 > **Where to start:** Geary, D. C. (2008). An evolutionarily informed education science. *Educational Psychologist*, 43, 179-195.
-> **See also:** [[cognitive-architecture-of-learning]], [[cognitive-architecture]]
+> **See also:** [[cognitive-architecture-of-learning]], [[Cognitive Architecture]]
 
 > [!section-summary] **Level 6 Summary**
 > At the edge case level, we identified where element interactivity's explanatory power encounters boundaries. At the frontier level, we now see the active research programs working on those boundaries. The germane load reconceptualization is converging toward a bipartite model (intrinsic + extraneous interactivity only). The measurement problem remains the theory's most significant vulnerability — no method currently measures element interactivity with precision sufficient for quantitative prediction. Neuroimaging offers a potential path to objective measurement. Adaptive instruction represents the theory's most ambitious practical application but requires solving the measurement problem for real-time contexts. The evolutionary educational psychology framework extends element interactivity's theoretical grounding but introduces new questions about the primary/secondary knowledge boundary. The next level will venture beyond the frontier into informed speculation — what element interactivity theory might look like if current research programs succeed.
@@ -1024,7 +1024,7 @@ From the individual derivations, several general dynamic principles emerge:
 > **Dependencies:** Familiarity with Bayesian brain hypothesis, Karl Friston's free energy principle, and predictive coding computational models.
 
 > [!claude-insight] **Claude's Specialist Insight: The Free Energy Minimization Connection**
-> If we take the speculative predictive processing reframing seriously, then [[schema-construction]] is a form of *free energy minimization* — the brain reduces its surprise (free energy) by developing internal models (schemas) that predict the structure of the environment. Element interactivity quantifies the *residual free energy* — the surprise that persists after current schemas have generated their predictions. Learning is the reduction of this residual through model updating.
+> If we take the speculative predictive processing reframing seriously, then [[Schema Construction]] is a form of *free energy minimization* — the brain reduces its surprise (free energy) by developing internal models (schemas) that predict the structure of the environment. Element interactivity quantifies the *residual free energy* — the surprise that persists after current schemas have generated their predictions. Learning is the reduction of this residual through model updating.
 >
 > This would embed CLT in a much broader theoretical framework — one that spans perception, action, learning, and development under a single principle. The advantage is theoretical unification. The risk is that the CLT-specific predictions (about instructional design, worked examples, faded scaffolding) might get lost in the generality of the free energy framework.
 >
@@ -1062,7 +1062,7 @@ From the individual derivations, several general dynamic principles emerge:
 >
 > 1. **Prescriptive instructional design:** Instead of "reduce extraneous element interactivity" (qualitative advice), designers would receive quantitative targets: "For a learner with schema set S, this material has effective element interactivity E = 7.3. Working memory capacity for relational processing is approximately 4 ± 1 elements. The material must be restructured to reduce E below 5, or sequenced so that early phases build schemas that reduce E for later phases."
 >
-> 2. **Precision adaptive instruction:** Learning management systems would track each learner's schema development in real time, computing effective element interactivity for upcoming materials, and automatically adjusting scaffolding, sequencing, and format. The [[expertise-reversal-effect]] would be managed automatically — scaffolding removed precisely when schemas render it redundant.
+> 2. **Precision adaptive instruction:** Learning management systems would track each learner's schema development in real time, computing effective element interactivity for upcoming materials, and automatically adjusting scaffolding, sequencing, and format. The [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] would be managed automatically — scaffolding removed precisely when schemas render it redundant.
 >
 > 3. **Cross-domain comparability:** Element interactivity in algebra could be directly compared with element interactivity in chemistry, enabling principled resource allocation across educational domains.
 >
@@ -1150,7 +1150,7 @@ From the individual derivations, several general dynamic principles emerge:
 
 ### The Magnification Journey
 
-This report began at the textbook surface (Level 1), where [[cognitive-load-theory]] appeared to be about three types of cognitive load and a set of instructional design guidelines. Each subsequent level peeled back a layer, revealing increasing theoretical sophistication beneath the practical exterior. The [[element-interactivity]] mechanism (Level 2) reconceptualized the tripartite model as a single engine with two interactivity sources. The substructure analysis (Level 3) revealed that the concept of "element" is far more complex than it initially appears — functional, expertise-relative, and topologically structured. The dynamics (Level 4) showed how a single mechanism generates an entire family of instructional effects through the expertise × interactivity function. The edge cases (Level 5) identified genuine boundaries where the mechanism encounters phenomena it cannot fully explain. The frontier (Level 6) engaged the live research programs working to address those boundaries. And the speculative level (Level 7) extrapolated what the theory might become if those programs succeed.
+This report began at the textbook surface (Level 1), where [[Cognitive Load Theory (CLT)]] appeared to be about three types of cognitive load and a set of instructional design guidelines. Each subsequent level peeled back a layer, revealing increasing theoretical sophistication beneath the practical exterior. The [[Technical Detail: The relationship between element interactivity and working-memory load]] mechanism (Level 2) reconceptualized the tripartite model as a single engine with two interactivity sources. The substructure analysis (Level 3) revealed that the concept of "element" is far more complex than it initially appears — functional, expertise-relative, and topologically structured. The dynamics (Level 4) showed how a single mechanism generates an entire family of instructional effects through the expertise × interactivity function. The edge cases (Level 5) identified genuine boundaries where the mechanism encounters phenomena it cannot fully explain. The frontier (Level 6) engaged the live research programs working to address those boundaries. And the speculative level (Level 7) extrapolated what the theory might become if those programs succeed.
 
 The arc of this magnification journey is, itself, revealing. **CLT is a theory that looks simpler the less you know about it and more complex the more you know** — the opposite of what maturation usually produces in scientific theories. Most theories simplify under close inspection (Darwin's insight is simpler than pre-Darwinian biology). CLT complexifies: the three-load model is simpler than element interactivity, which is simpler than the expertise-relative substructure, which is simpler than the edge cases. This increasing complexity is not a weakness; it reflects the genuine difficulty of the problem CLT addresses: how do limited-capacity processors learn complex relational structures?
 
@@ -1183,7 +1183,7 @@ The arc of this magnification journey is, itself, revealing. **CLT is a theory t
 >
 > 1. **The formalization program is the highest-leverage investment.** Graph-theoretic formalization of element interactivity would simultaneously advance measurement, enable computation, and sharpen theoretical predictions. This is where a mathematically inclined contributor could make the largest impact.
 >
-> 2. **The expertise transformation function is the key unsolved problem.** How exactly do schemas transform the element interaction graph? What is the mathematical form of expertise-dependent complexity reduction? This question sits at the intersection of CLT, [[schema-theory]], and computational complexity theory.
+> 2. **The expertise transformation function is the key unsolved problem.** How exactly do schemas transform the element interaction graph? What is the mathematical form of expertise-dependent complexity reduction? This question sits at the intersection of CLT, [[schema-theory-and-knowledge-organization]], and computational complexity theory.
 >
 > 3. **The connection to predictive processing is underexplored.** The parallels between element interactivity and prediction error are striking and have not been formally developed. A paper bridging these two frameworks could reshape how CLT is understood within cognitive science.
 >
@@ -1202,10 +1202,10 @@ This Deep Dive provided what a broader treatment cannot: the ability to see elem
 ## 8.1 Specialist Lexicon
 
 > [!lexicon] **1. Element Interactivity**
-> **Definition:** The degree to which elements of learning material must be processed simultaneously because they are logically interconnected. Element interactivity is the central explanatory construct of [[cognitive-load-theory]], generating predictions about when [[working-memory]] will be overwhelmed and when instruction will succeed or fail.
+> **Definition:** The degree to which elements of learning material must be processed simultaneously because they are logically interconnected. Element interactivity is the central explanatory construct of [[Cognitive Load Theory (CLT)]], generating predictions about when [[working-memory]] will be overwhelmed and when instruction will succeed or fail.
 > **Boundary conditions:** Expertise-relative (a given material's element interactivity differs for novices vs. experts), context-dependent (the same elements may interact differently in different task contexts), and not yet objectively measurable.
 > **Common misuse:** Conflated with "difficulty" — but difficulty can arise from many sources; element interactivity refers specifically to *relational complexity* between elements that must be simultaneously processed.
-> **See also:** [[element-interactivity]], [[intrinsic-cognitive-load]]
+> **See also:** [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Cognitive Load Theory (CLT)]]
 
 > [!lexicon] **2. Intrinsic Element Interactivity**
 > **Definition:** The element interactivity that arises from the learning content itself — the logical relationships between content elements that cannot be altered without changing the subject matter. Formerly called "intrinsic cognitive load."
@@ -1220,27 +1220,27 @@ This Deep Dive provided what a broader treatment cannot: the ability to see elem
 > [!lexicon] **4. Schema (in CLT context)**
 > **Definition:** A cognitive structure stored in [[long-term-memory]] that organizes multiple elements into a single functional unit, enabling the simultaneous processing of complex relational information within [[working-memory]]'s capacity limits. Schemas are the mechanism by which element interactivity is *reduced* — a schema treats a complex multi-element structure as a single element.
 > **Boundary conditions:** Schemas are domain-specific and develop through practice. Schema creation requires working memory processing of the to-be-schematized elements (a bootstrapping problem).
-> **See also:** [[schema]], [[schema-construction]], [[schema-automation]], [[schema-theory]]
+> **See also:** [[schema]], [[Schema Construction]], [[Schema Automation]], [[schema-theory-and-knowledge-organization]]
 
 > [!lexicon] **5. Schema Automation**
 > **Definition:** The process by which a schema becomes executable without conscious working memory involvement, freeing working memory capacity for processing additional element interactions. Automated schemas contribute to reduced effective element interactivity by handling familiar interaction patterns "for free."
 > **Boundary conditions:** Requires extensive [[deliberate-practice|deliberate practice]] beyond initial schema construction. Automation is gradual, not binary.
-> **See also:** [[schema-automation]], [[deliberate-practice]]
+> **See also:** [[Schema Automation]], [[deliberate-practice]]
 
 > [!lexicon] **6. Expertise Reversal Effect**
 > **Definition:** The phenomenon whereby instructional techniques that benefit novices (by reducing element interactivity) become detrimental for experts (by adding *redundant* element interactivity). This is the most powerful demonstration of element interactivity's expertise-relative nature.
 > **Mechanism:** As expertise develops, schemas reduce effective element interactivity for content-related elements. Instructional scaffolding that was needed to manage high element interactivity for novices now introduces extraneous element interactivity for experts, who must process the scaffolding alongside their existing schemas.
-> **See also:** [[expertise-reversal-effect]], [[redundancy-effect]]
+> **See also:** [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]], [[redundancy-effect]]
 
 > [!lexicon] **7. Isolated-Interacting Elements Principle**
 > **Definition:** The instructional sequencing principle that elements should be presented in isolation before being presented in full interaction. Learners first master individual elements (low element interactivity), then gradually encounter the interactions between them (increasing element interactivity).
 > **Mechanism:** Isolated element learning builds schemas for individual elements, reducing effective element interactivity when full interaction is introduced — the schemas handle familiar elements, freeing capacity for novel interactions.
-> **See also:** [[element-interactivity]], [[instructional-design]]
+> **See also:** [[Technical Detail: The relationship between element interactivity and working-memory load]], [[instructional-design]]
 
 > [!lexicon] **8. Faded Worked Example**
-> **Definition:** An instructional technique that gradually transitions from full [[worked-example-effect|worked examples]] (showing all solution steps) to full problem-solving (providing no steps), with intermediate stages that provide partial solutions. This manages the trajectory from scaffold-supported low element interactivity to unscaffolded full element interactivity.
+> **Definition:** An instructional technique that gradually transitions from full [[the-worked-example-effect|worked examples]] (showing all solution steps) to full problem-solving (providing no steps), with intermediate stages that provide partial solutions. This manages the trajectory from scaffold-supported low element interactivity to unscaffolded full element interactivity.
 > **Mechanism:** Each fading step slightly increases the element interactivity the learner must manage, ideally matched to the schemas developed from prior steps.
-> **See also:** [[faded-worked-example]], [[worked-example-effect]]
+> **See also:** [[faded-worked-example]], [[the-worked-example-effect]]
 
 > [!lexicon] **9. Collective Working Memory**
 > **Definition:** The theoretical extension of working memory capacity to groups — the idea that a group of learners can collectively process more element interactions than any individual, because different group members can hold different elements while communicating their processing results.
@@ -1250,7 +1250,7 @@ This Deep Dive provided what a broader treatment cannot: the ability to see elem
 > [!lexicon] **10. Biologically Primary Knowledge**
 > **Definition:** Knowledge that has been under evolutionary selection pressure and is acquired effortlessly by virtually all humans without explicit instruction (e.g., spoken language, face recognition, basic spatial navigation). Distinguished from biologically secondary knowledge (culturally invented, requires explicit instruction).
 > **Relevance to element interactivity:** CLT's element interactivity mechanism is claimed to apply primarily to biologically secondary knowledge. Primary knowledge may be processed through specialized cognitive modules that bypass the working memory bottleneck.
-> **See also:** [[cognitive-architecture]]
+> **See also:** [[Cognitive Architecture]]
 
 > [!lexicon] **11. Relational Complexity**
 > **Definition:** A formal construct from cognitive science measuring the number of relations that must be simultaneously considered to complete a cognitive operation. In this Deep Dive's analysis, relational complexity is the deep structure underlying element interactivity — element interactivity IS relational complexity under working memory capacity constraint.
@@ -1284,17 +1284,17 @@ This Deep Dive provided what a broader treatment cannot: the ability to see elem
 > **Key contribution to this topic:** Developed element interactivity as CLT's central explanatory mechanism, particularly in post-2010 work reconceptualizing the tripartite model around element interactivity rather than load types. His evolutionary educational psychology integration provides the theoretical foundation for why element interactivity matters.
 > **Essential works:** Sweller (2010), "Element Interactivity and Intrinsic, Extraneous, and Germane Cognitive Load"; Sweller & Sweller (2006); Sweller (2004).
 
-> [!key-figure] **[[fred-paas]]**
+> [!key-figure] **[[Fred Paas]]**
 > **Role:** Major CLT researcher, pioneer of cognitive load measurement.
 > **Key contribution to this topic:** Developed the Paas subjective mental effort rating scale — the most widely used cognitive load measurement instrument. Co-author of key CLT reviews and empirical studies. His measurement work highlights both the importance and the difficulty of quantifying element interactivity.
 > **Essential works:** Paas (1992); Paas & van Merriënboer (1994); Paas, Tuovinen, Tabbers & Van Gerven (2003).
 
-> [!key-figure] **[[Sergei-Kalyuga]]**
+> [!key-figure] **[[Sergei Kalyuga]]**
 > **Role:** Expertise reversal effect specialist, leading figure in CLT-based adaptive instruction.
 > **Key contribution to this topic:** Demonstrated how element interactivity's expertise-relative nature produces the expertise reversal effect. Contributed to germane load reconceptualization and rapid assessment methods for adaptive instruction. His work connects element interactivity theory to practical adaptive systems.
 > **Essential works:** Kalyuga, Ayres, Chandler & Sweller (2003); Kalyuga (2007); Kalyuga & Singh (2016).
 
-> [!key-figure] **[[jeroen-van-merriënboer]]**
+> [!key-figure] **[[Jeroen van Merriënboer]]**
 > **Role:** Creator of the 4C/ID model (Four-Component Instructional Design), which applies element interactivity principles to complex learning.
 > **Key contribution to this topic:** Demonstrated how element interactivity can be managed across entire training programs through whole-task sequencing, scaffolding, and fading. His work represents the most ambitious practical application of element interactivity analysis.
 > **Essential works:** van Merriënboer & Kirschner (2018); van Merriënboer, Clark & de Croock (2002).
@@ -1584,10 +1584,10 @@ This Deep Dive provided what a broader treatment cannot: the ability to see elem
 
 ## 8.9 Expansion Topics
 
-> [!expansion] **1. [[expertise-reversal-effect]]: A Deep Dive into the Expertise-Element Interactivity Dynamic**
+> [!expansion] **1. [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]: A Deep Dive into the Expertise-Element Interactivity Dynamic**
 > - *Connection:* The expertise reversal effect is the single most powerful demonstration of element interactivity's expertise-relative nature. This Deep Dive covered it as one derivation among many, but the phenomenon merits its own specialist treatment.
 > - *Depth potential:* The mechanism of expertise reversal, its boundary conditions (when it does and doesn't occur), the role of schema automation vs. schema construction, and the design implications for adaptive instruction all warrant deep treatment.
-> - *Knowledge Graph Role:* Central node connecting [[element-interactivity]], [[schema-automation]], [[Adaptive-Instruction]], and [[instructional-design]] practices.
+> - *Knowledge Graph Role:* Central node connecting [[Technical Detail: The relationship between element interactivity and working-memory load]], [[Schema Automation]], [[Adaptive-Instruction]], and [[instructional-design]] practices.
 > - *Suggested Type:* Deep Dive Report
 
 > [!expansion] **2. Relational Complexity Theory — The Mathematical Foundation for Element Interactivity**
@@ -1605,16 +1605,16 @@ This Deep Dive provided what a broader treatment cannot: the ability to see elem
 > [!expansion] **4. [[predictive-processing]] and Learning — The Free Energy Framework Applied to [[instructional-design]]**
 > - *Connection:* The speculative Level 7 identified predictive processing as a potential unifying framework for CLT. A dedicated treatment would formalize this connection and explore its implications for instructional design.
 > - *Depth potential:* The predictive processing literature is vast and technically demanding. Applying it to instructional contexts requires bridging neuroscience, information theory, and educational psychology — a synthesis that has not yet been published.
-> - *Knowledge Graph Role:* Cross-domain bridge between [[cognitive-architecture]], neuroscience, and educational science.
+> - *Knowledge Graph Role:* Cross-domain bridge between [[Cognitive Architecture]], neuroscience, and educational science.
 > - *Suggested Type:* First Principles Analysis Report
 
-> [!expansion] **5. Collaborative Learning and [[cognitive-load-theory]] — The Collective Working Memory Problem**
+> [!expansion] **5. Collaborative Learning and [[Cognitive Load Theory (CLT)]] — The Collective Working Memory Problem**
 > - *Connection:* Identified as Edge Case 1, collaborative learning challenges CLT's individualist cognitive architecture. The collective working memory construct is theoretically motivated but empirically underdeveloped.
 > - *Depth potential:* The communication cost problem, the relationship between group size and effective element interactivity, and the interaction between social dynamics and cognitive load all merit specialist treatment.
 > - *Knowledge Graph Role:* Bridge node between CLT, social learning theory, and collaborative learning research.
 > - *Suggested Type:* Deep Dive Report
 
-> [!expansion] **6. The [[worked-example-effect]] — From Discovery to Boundary Conditions**
+> [!expansion] **6. The [[the-worked-example-effect]] — From Discovery to Boundary Conditions**
 > - *Connection:* The worked example effect was used throughout this report as a derivation example, but its own boundary conditions (when worked examples help, when they don't, how to design optimal examples), its historical development, and its relationship to [[self-explanation-effect|self-explanation]] merit deep treatment.
 > - *Depth potential:* The worked example literature is one of the largest in instructional science, with decades of replications, extensions, and moderator analyses.
 > - *Knowledge Graph Role:* Central practical node connecting CLT theory to classroom application.
@@ -1625,7 +1625,7 @@ This Deep Dive provided what a broader treatment cannot: the ability to see elem
 ## 8.10 PKB Connections
 
 ### Category 1: Cognitive Architecture Connections
-- [[cognitive-architecture]] — The architectural framework within which element interactivity operates
+- [[Cognitive Architecture]] — The architectural framework within which element interactivity operates
 - [[working-memory]] — The capacity-limited processor that element interactivity quantifies demands on
 - [[long-term-memory]] — The schema storage that reduces effective element interactivity
 - [[working-memory-capacity]] — The threshold against which effective element interactivity is compared
@@ -1633,18 +1633,18 @@ This Deep Dive provided what a broader treatment cannot: the ability to see elem
 
 ### Category 2: Schema and Learning Connections
 - [[schema]] — The fundamental unit of learned knowledge in CLT
-- [[schema-construction]] — The process element interactivity supports when below capacity
-- [[schema-automation]] — The process that reduces future element interactivity to near-zero
-- [[schema-theory]] — The broader theoretical framework from which CLT borrows
-- [[chunking]] — The mechanism by which schemas reduce effective element count
+- [[Schema Construction]] — The process element interactivity supports when below capacity
+- [[Schema Automation]] — The process that reduces future element interactivity to near-zero
+- [[schema-theory-and-knowledge-organization]] — The broader theoretical framework from which CLT borrows
+- [[Chunk (Miller, 1956; Chase & Simon, 1973)]] — The mechanism by which schemas reduce effective element count
 - [[deliberate-practice]] — The effortful practice that drives schema construction and automation
 
 ### Category 3: CLT Effects Connections
-- [[expertise-reversal-effect]] — The most theoretically significant CLT effect for element interactivity
-- [[worked-example-effect]] — The most practically significant CLT effect
+- [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] — The most theoretically significant CLT effect for element interactivity
+- [[the-worked-example-effect]] — The most practically significant CLT effect
 - [[split-attention-effect]] — Extraneous element interactivity from separated information
 - [[redundancy-effect]] — Extraneous element interactivity from duplicated information
-- [[modality-effect]] — Manages element interactivity via dual-channel processing
+- [[Modality Effect]] — Manages element interactivity via dual-channel processing
 - [[self-explanation-effect]] — Promotes schema-building through active element processing
 - [[faded-worked-example]] — The optimal trajectory for managing element interactivity over learning
 
@@ -1657,9 +1657,9 @@ This Deep Dive provided what a broader treatment cannot: the ability to see elem
 
 ### Category 5: Key Figures Connections
 - [[john-sweller]] — Creator of CLT and element interactivity construct
-- [[fred-paas]] — Pioneer of cognitive load measurement
-- [[Sergei-Kalyuga]] — Expertise reversal and adaptive instruction specialist
-- [[jeroen-van-merriënboer]] — 4C/ID model and complex learning design
+- [[Fred Paas]] — Pioneer of cognitive load measurement
+- [[Sergei Kalyuga]] — Expertise reversal and adaptive instruction specialist
+- [[Jeroen van Merriënboer]] — 4C/ID model and complex learning design
 - [[Kirschner,-Sweller-&-Clark]] — The minimal guidance debate
 
 ### Category 6: Related Report Connections

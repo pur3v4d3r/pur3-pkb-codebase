@@ -940,11 +940,11 @@ body.callout-variant-terminal .callout::before {
 # 📝 Research Note Structure
 
 > [!overview] Document Overview
-> This note analyzes [[cognitive-load-theory]] applications in
+> This note analyzes [[Cognitive Load Theory (CLT)]] applications in
 > [[personal-knowledge-management]] systems.
 
 > [!key-claim] Primary Argument
-> Effective PKM design requires deliberate [[cognitive-load]] management
+> Effective PKM design requires deliberate [[Cognitive Load Theory (CLT)]] management
 > across three dimensions: intrinsic, extraneous, and germane.
 >
 > [**Supporting-Evidence**:: Sweller et al. (2011) meta-analysis of
@@ -983,8 +983,8 @@ body.callout-variant-terminal .callout::before {
 
 > [!connections-and-links] Related Topics
 > - [[Working-Memory-Architecture]]
-> - [[schema-theory]]
-> - [[expertise-reversal-effect]]
+> - [[schema-theory-and-knowledge-organization]]
+> - [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]]
 > - [[Multimedia-Learning-Principles]]
 ```
 

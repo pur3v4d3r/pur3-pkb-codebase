@@ -88,7 +88,7 @@ However, Stoicism offers something beyond mere coping techniques—it provides a
 
 Piaget's [[cognitive-constructivism]] emphasizes individual cognitive development through interaction with the environment, proposing that learners construct knowledge through processes of [[assimilation]] (incorporating new information into existing schemas) and [[accommodation]] (modifying schemas to fit new information). Piaget's theory describes how children's ways of doing and thinking evolve over time, and under which circumstances children are more likely to let go of—or hold onto—their currently held views, suggesting that children have very good reasons not to abandon their worldviews just because someone else, be it an expert, tells them they're wrong. This resistance to conceptual change based on authority alone becomes crucial for understanding adult self-directed learning—meaningful knowledge construction requires personal engagement and validation through experience, not mere transmission of information.
 
-Vygotsky's [[social-constructivism]] shifts emphasis from individual cognition to sociocultural context, introducing the crucial concept of the [[zone-of-proximal-development]]—the distance between what a learner can accomplish independently and what they can achieve with guidance. Vygotsky stated that learners should be taught in the ZPD, where a good teacher or more-knowledgeable-other identifies a learner's ZPD and helps them stretch beyond it, then gradually withdraws support until the learner can perform the task unaided. This concept of [[scaffolding]]—providing temporary support structures that are gradually removed as competence develops—offers a developmental model for how self-directed learning systems might support users without creating permanent dependency.
+Vygotsky's [[social-constructivism]] shifts emphasis from individual cognition to sociocultural context, introducing the crucial concept of the [[zone-of-proximal-development]]—the distance between what a learner can accomplish independently and what they can achieve with guidance. Vygotsky stated that learners should be taught in the ZPD, where a good teacher or more-knowledgeable-other identifies a learner's ZPD and helps them stretch beyond it, then gradually withdraws support until the learner can perform the task unaided. This concept of [[Scaffolded Fading]]—providing temporary support structures that are gradually removed as competence develops—offers a developmental model for how self-directed learning systems might support users without creating permanent dependency.
 
 The synthesis of these perspectives yields key principles for learning system design. Active knowledge construction means learners aren't passive recipients of information; instead, they construct knowledge by relating new ideas to prior experiences and frameworks. Meaning-making reflects that knowledge is not simply transmitted; it is interpreted and understood in the context of each learner's existing worldview. This constructivist epistemology has profound implications for PKM systems: if knowledge is actively constructed rather than passively acquired, then systems must support the construction process rather than merely storing and retrieving information.
 
@@ -395,13 +395,13 @@ This will require a sophisticated structure:
 - [[self-determination-theory]]
 - [[Experiential-Learning]]
 - [[zone-of-proximal-development]]
-- [[scaffolding]]
+- [[Scaffolded Fading]]
 - [[Cognitive Reframing]]
 - [[Dichotomy-of-Control]]
 - [[adaptive-learning]]
 - [[self-directed-learning]]
 - [[personal-knowledge-management]]
-- [[cognitive-architecture]]
+- [[Cognitive Architecture]]
 - [[Philosophical Psychology]]
 
 **Callout Strategy**:

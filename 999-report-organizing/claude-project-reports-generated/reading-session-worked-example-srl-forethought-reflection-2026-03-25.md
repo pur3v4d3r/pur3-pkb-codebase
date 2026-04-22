@@ -17,8 +17,8 @@ related_concepts:
   - "[[Zimmerman's-Cyclical-SRL-Model]]"
   - "[[metacognitive-calibration]]"
   - "[[self-explanation-effect]]"
-  - "[[elaborative-interrogation]]"
-  - "[[fluency-illusion]]"
+  - "[[Elaborative Interrogation]]"
+  - "[[Fluency Illusion]]"
   - "[[active-note-making]]"
 
 tags:
@@ -150,7 +150,7 @@ summary: "A complete worked example of an optimal reading session for PKB-integr
 *Technique: **Elaborative Interrogation** — Ask "why is this true?" for a claim that feels self-evident.*
 
 > [!why-is-this-true] **EI: "Self-Reflection without prior standard-setting devolves into phenomenological assessment"**
-> *Why would this be true?* If I finish reading and I don't have a pre-stated goal to evaluate against, I'll evaluate against... what? The feeling of how the reading went. How smooth it felt. Whether I was confused or not. But that's exactly the [[fluency-illusion|fluency illusion]] — well-written text *feels* easy to process even when the argument hasn't been genuinely integrated. So without an external standard (the comprehension criterion set in Forethought), I will automatically default to a phenomenological standard (did this feel productive?) which is systematically decoupled from actual comprehension. 
+> *Why would this be true?* If I finish reading and I don't have a pre-stated goal to evaluate against, I'll evaluate against... what? The feeling of how the reading went. How smooth it felt. Whether I was confused or not. But that's exactly the [[Fluency Illusion|fluency illusion]] — well-written text *feels* easy to process even when the argument hasn't been genuinely integrated. So without an external standard (the comprehension criterion set in Forethought), I will automatically default to a phenomenological standard (did this feel productive?) which is systematically decoupled from actual comprehension. 
 >
 > *Now I believe the claim for a specific mechanism reason, not just because the report asserted it.* This is the payoff of elaborative interrogation.
 
@@ -170,7 +170,7 @@ summary: "A complete worked example of an optimal reading session for PKB-integr
 *Technique: **Connection Making** — Explicit link to a prior PKB node.*
 
 > [!connection] **Connection: Fluency Illusion ↔ Schema Automation**
-> The report's [[fluency-illusion]] is related to but distinct from what I know about [[schema-automation-in-reading|schema automation]]. Automated processing *is* fast and feels smooth, but it represents genuine skill — the automatic recognition of patterns that have been deeply learned. The fluency illusion is the false positive: the smooth-reading feeling *without* the underlying schema. The diagnostic question is: does the smooth processing reflect automated, deeply integrated understanding, or just well-organized surface prose? The comprehension criterion is what forces this distinction — you can't satisfy "explain the mechanism in your own words" by fluency alone.
+> The report's [[Fluency Illusion]] is related to but distinct from what I know about [[schema-automation-in-reading|schema automation]]. Automated processing *is* fast and feels smooth, but it represents genuine skill — the automatic recognition of patterns that have been deeply learned. The fluency illusion is the false positive: the smooth-reading feeling *without* the underlying schema. The diagnostic question is: does the smooth processing reflect automated, deeply integrated understanding, or just well-organized surface prose? The comprehension criterion is what forces this distinction — you can't satisfy "explain the mechanism in your own words" by fluency alone.
 
 ---
 
@@ -198,7 +198,7 @@ summary: "A complete worked example of an optimal reading session for PKB-integr
 *Technique: **Marginal Annotation** — Flag a conceptual distinction that updates a prior belief.*
 
 > [!note] **Annotation — Attribution Correction**
-> Prior belief updated: It's not "take personal responsibility" (internal attribution) that matters for SRL — it's "attribute to something you can change" (controllable attribution). Ability attribution is internal but destroys the effort-outcome link. Strategy attribution is internal *and* controllable, which preserves the link. This is a genuinely important distinction I was conflating. → Update [[attribution-theory]] note.
+> Prior belief updated: It's not "take personal responsibility" (internal attribution) that matters for SRL — it's "attribute to something you can change" (controllable attribution). Ability attribution is internal but destroys the effort-outcome link. Strategy attribution is internal *and* controllable, which preserves the link. This is a genuinely important distinction I was conflating. → Update [[Attribution (Heider, 1958)]] note.
 
 *Technique: **Elaborative Interrogation** — The mechanism's claim about affect.*
 

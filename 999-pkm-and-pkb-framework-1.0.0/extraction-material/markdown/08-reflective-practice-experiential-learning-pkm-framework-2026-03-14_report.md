@@ -364,13 +364,13 @@ extraction_summary:
 > 
 > This report on Reflective Practice and Experiential Learning connects to your knowledge base in the following ways:
 > 
-> - **[[schema-theory|Schema Theory]]** (Reports 01 and 03) — The Stage 3 insight note is essentially the externalization of a schema modification. When a concrete experience is processed through reflective observation and abstract conceptualization, the output is a schema update: an existing mental framework has been extended, refined, or replaced. The Experience Processing Architecture is, at the cognitive level, a schema development engine. Understanding schema theory enriches understanding of why the full four-stage cycle is necessary: shallow processing produces surface-level encoding that does not reach the schematic level where durable learning occurs.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** (Reports 01 and 03) — The Stage 3 insight note is essentially the externalization of a schema modification. When a concrete experience is processed through reflective observation and abstract conceptualization, the output is a schema update: an existing mental framework has been extended, refined, or replaced. The Experience Processing Architecture is, at the cognitive level, a schema development engine. Understanding schema theory enriches understanding of why the full four-stage cycle is necessary: shallow processing produces surface-level encoding that does not reach the schematic level where durable learning occurs.
 > 
 > - **[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]** (Report 04) — The Zimmerman SRL model's self-reflection phase and the Kolb ELC's reflective observation stage are structurally isomorphic, as this report's Phase IV demonstrates. The metacognitive monitoring system (Flavell, Nelson & Narens) provides the cognitive control architecture that makes reflective observation possible: the learner must be monitoring their own performance during concrete experience in order to have informative content to reflect on. A PKB that supports metacognitive monitoring (Report 04) and experiential learning processing (Report 08) is not maintaining two separate systems — it is implementing the same system at two levels of description.
 > 
 > - **[[self-determination-theory|Self-Determination Theory]]** (Report 05) — The Kolb cycle's active experimentation stage — designing and undertaking the next experience — is intrinsically motivating in SDT terms when the experience tests a hypothesis of the learner's own construction (autonomy) at an appropriate level of challenge (competence). The EPA, properly implemented, should be motivationally self-sustaining: completed cycles generate both the epistemic satisfaction of insight and the anticipatory engagement of designed experimentation. This is a profound alignment between the experiential learning architecture and the motivational architecture.
 > 
-> - **[[desirable-difficulties|Desirable Difficulties]]** (Report 06/16) — Dewey's "felt difficulty" and the desirable difficulties research tradition both identify productive struggle as the engine of deep learning. But they name the phenomenon differently and offer complementary explanations. Dewey's account is phenomenological and philosophical: the felt difficulty is the affective signal that existing habits are insufficient. The desirable difficulties account is cognitive and empirical: increased processing effort during encoding produces more durable and transferable memories. Together, they provide a complete account of why the EPA's Stage 1 (rich, effortful capture) and Stage 2 (structured, analytical reflection) should be *hard* — not simplified into frictionless templates that bypass the productive struggle.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]** (Report 06/16) — Dewey's "felt difficulty" and the desirable difficulties research tradition both identify productive struggle as the engine of deep learning. But they name the phenomenon differently and offer complementary explanations. Dewey's account is phenomenological and philosophical: the felt difficulty is the affective signal that existing habits are insufficient. The desirable difficulties account is cognitive and empirical: increased processing effort during encoding produces more durable and transferable memories. Together, they provide a complete account of why the EPA's Stage 1 (rich, effortful capture) and Stage 2 (structured, analytical reflection) should be *hard* — not simplified into frictionless templates that bypass the productive struggle.
 > 
 > - **[[tacit-knowledge|Tacit Knowledge]]** (Report 22, future) — This report's treatment of Nonaka's externalization mechanism and Schön's reflection-in-action is a foundation for Report 22's deeper examination of what a text-based PKB fundamentally cannot capture. The Experience Processing Architecture, despite its sophistication, cannot fully solve the tacit knowledge problem — it can only improve the ratio of tacit knowing that gets externalized. Report 22 will examine the limits of that ratio and what complementary non-PKB practices might address them.
 > 
@@ -533,7 +533,7 @@ extraction_summary:
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM|Contemplative Practices and Reflective Processing — Mindfulness and PKM]]
 - [[David-Kolb|David Kolb]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[educational-psychology|Educational Psychology]]
 - [[encoding-specificity-principle|Encoding Specificity Principle]]
@@ -554,7 +554,7 @@ extraction_summary:
 - [[Report 04 — Metacognitive Self-Regulation]]
 - [[Report 12 — The Reflective PKB]]
 - [[SECI-Model|SECI Model]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[self-explanation-effect|Self-Explanation Effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
@@ -586,10 +586,10 @@ extraction_summary:
 | 18 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Return-and-Deepen: Metacognitive Refl... | 294 |
 | 19 | [[Learning-Journal|Learning Journal]] | — | — | Design Principle 4: The Learning Jour... | 346 |
 | 20 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | Return-and-Deepen: The Pragmatist PKB... | 411 |
-| 21 | [[schema-theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 439 |
+| 21 | [[schema-theory-and-knowledge-organization|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 439 |
 | 22 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 441 |
 | 23 | [[self-determination-theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 443 |
-| 24 | [[desirable-difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 445 |
+| 24 | [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 445 |
 | 25 | [[tacit-knowledge|Tacit Knowledge]] | — | — | Phase VII: PKB Connections & Cross-Re... | 447 |
 | 26 | [[Report 04 — Metacognitive Self-Regulation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 451 |
 | 27 | [[Report 12 — The Reflective PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 453 |
@@ -612,7 +612,7 @@ extraction_summary:
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM|Contemplative Practices and Reflective Processing — Mindfulness and PKM]]
 - [[David-Kolb|David Kolb]]
-- [[desirable-difficulties|Desirable Difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]]
 - [[Educational-Philosophy|Educational Philosophy]]
 - [[educational-psychology|Educational Psychology]]
 - [[encoding-specificity-principle|Encoding Specificity Principle]]
@@ -633,7 +633,7 @@ extraction_summary:
 - [[Report 04 — Metacognitive Self-Regulation]]
 - [[Report 12 — The Reflective PKB]]
 - [[SECI-Model|SECI Model]]
-- [[schema-theory|Schema Theory]]
+- [[schema-theory-and-knowledge-organization|Schema Theory]]
 - [[self-determination-theory|Self-Determination Theory]]
 - [[self-explanation-effect|Self-Explanation Effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]

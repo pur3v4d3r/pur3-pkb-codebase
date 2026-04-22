@@ -64,11 +64,11 @@ related_concepts:
   - "[[Five-Convergence-Zones]]"
   - "[[Cognitive Architecture Isomorphism]]"
   - "[[Convenience-Learning Tension]]"
-  - "[[fluency-illusion]]"
+  - "[[Fluency Illusion]]"
   - "[[Cognitive Partnership Model]]"
   - "[[Epistemic Counterfeiting]]"
   - "[[Offloading Quality Distinction]]"
-  - "[[desirable-difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[Testing-Effect]]"
   - "[[Active-Construction-Imperative]]"
 builds_on:
@@ -91,7 +91,7 @@ companion_report: "[[pkm-pkb-framework-project-report-architecture-methodology-2
 
 The framework's capstone deliverable, developed in Report 27 ([[27-complete-pkm-pkb-design-framework-pkm-framework-2026-03-15|The Complete PKM/PKB Design Framework]]), is the [[Integrated-Learning-System-Model]] (ILSM). This model asserts that a PKB at full function is not merely a storage system with organizational features — it is a system with three synergistic properties that together constitute a distributed cognitive architecture:
 
-**Property 1 — Isomorphic External Memory.** The PKB's structural organization mirrors the five organizational properties of human long-term memory: (1) hierarchically associative structure, (2) multiple abstraction levels, (3) contextually embedded encoding, (4) time-sensitive consolidation, (5) affordance-sensitive activation. This property is grounded in convergent evidence from [[schema-theory]], [[Semantic-Networks]], [[cognitive-load-theory]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and the [[SECI-Model]].
+**Property 1 — Isomorphic External Memory.** The PKB's structural organization mirrors the five organizational properties of human long-term memory: (1) hierarchically associative structure, (2) multiple abstraction levels, (3) contextually embedded encoding, (4) time-sensitive consolidation, (5) affordance-sensitive activation. This property is grounded in convergent evidence from [[schema-theory-and-knowledge-organization]], [[Semantic-Networks]], [[Cognitive Load Theory (CLT)]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and the [[SECI-Model]].
 
 **Property 2 — Constructive Processing Engine.** The PKB's workflows and interaction patterns demand active cognitive construction during every encounter — not passive retrieval. Notes are designed as retrieval training instruments, review sessions require generation before re-exposure, and organizational structures create productive difficulty through cross-domain juxtaposition and elaborative interrogation.
 
@@ -145,13 +145,13 @@ The framework proposes the [[Offloading Quality Distinction]] as the primary heu
 
 ### 1.5 The Cognitive Partnership Model
 
-Report 30's original contribution — the [[Cognitive Partnership Model]] — addresses the AI integration question by proposing that AI in PKM should function not as oracle (providing answers), not as scribe (reducing effort), but as [[Socratic Interlocutor]] — challenging, questioning, surfacing tensions, and generating productive uncertainty. This model is grounded in the framework's own [[desirable-difficulties]] evidence base: if productive difficulty is the mechanism of learning, then AI's value in a learning-oriented PKB lies not in removing difficulty but in calibrating it.
+Report 30's original contribution — the [[Cognitive Partnership Model]] — addresses the AI integration question by proposing that AI in PKM should function not as oracle (providing answers), not as scribe (reducing effort), but as [[Socratic Interlocutor]] — challenging, questioning, surfacing tensions, and generating productive uncertainty. This model is grounded in the framework's own [[Desirable Difficulties (Robert Bjork, 1994)]] evidence base: if productive difficulty is the mechanism of learning, then AI's value in a learning-oriented PKB lies not in removing difficulty but in calibrating it.
 
 ### 1.6 The Three-Concept Diagnostic Chain
 
 The synthesis identifies what it terms the single most important diagnostic for AI-integrated PKM design:
 
-**[[fluency-illusion]]** (mechanism) → **[[dunning-kruger-effect]]** (systemic consequence) → **[[Epistemic Counterfeiting]]** (AI amplification)
+**[[Fluency Illusion]]** (mechanism) → **[[dunning-kruger-effect]]** (systemic consequence) → **[[Epistemic Counterfeiting]]** (AI amplification)
 
 Each concept builds on the previous. The Fluency Illusion causes individuals to mistake ease of processing for depth of understanding. The Dunning-Kruger Effect means those most susceptible to this illusion are least able to detect it. Epistemic Counterfeiting — the production of the appearance of knowledge without substance — is what occurs when AI's fluent output triggers the Fluency Illusion at scale. Together, they describe a compounding failure mode that threatens the epistemic autonomy the framework is designed to develop.
 
@@ -201,7 +201,7 @@ The identification of the [[Convenience-Learning Tension]] is perhaps the framew
 
 **Finding 2 — The Severity of the AI Threat.** Report 30's analysis of AI integration risks was more severe than the project's initial framing suggested. The three-concept diagnostic chain (Fluency Illusion → Dunning-Kruger → Epistemic Counterfeiting) identifies a compounding failure mode that does not merely reduce learning effectiveness but actively undermines the epistemic autonomy the framework is designed to develop. The finding that "AI's most convenient features directly conflict with desirable difficulties research on deep learning" emerged as the framework's most urgent practical warning.
 
-**Finding 3 — The Universality of the Fluency Illusion.** Across the series, the [[fluency-illusion]] emerged as the single most referenced failure mode — appearing not just in the metacognition and calibration reports where it was expected, but recurring in discussions of note-making (Report 17), retrieval practice (Report 20), dialectical knowledge building (Report 21), and AI integration (Report 30). Its identification as the "universal PKM failure mode" was an emergent finding of the synthesis process, not a pre-planned conclusion.
+**Finding 3 — The Universality of the Fluency Illusion.** Across the series, the [[Fluency Illusion]] emerged as the single most referenced failure mode — appearing not just in the metacognition and calibration reports where it was expected, but recurring in discussions of note-making (Report 17), retrieval practice (Report 20), dialectical knowledge building (Report 21), and AI integration (Report 30). Its identification as the "universal PKM failure mode" was an emergent finding of the synthesis process, not a pre-planned conclusion.
 
 ---
 
@@ -300,19 +300,19 @@ The most appropriate way to engage with this framework is the way the framework 
 ## 6. References
 
 > [!cite] **Anderson, J.R. (1977). Memory for information about individuals. *Memory & Cognition*, 5(4), 430–442.**
-> Key researcher in [[schema-theory]] development. Foundation for principle-organized knowledge organization.
+> Key researcher in [[schema-theory-and-knowledge-organization]] development. Foundation for principle-organized knowledge organization.
 
 > [!cite] **Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**
-> Foundation of [[schema-theory]]. Knowledge is reconstructive, not reproductive.
+> Foundation of [[schema-theory-and-knowledge-organization]]. Knowledge is reconstructive, not reproductive.
 
 > [!cite] **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing*. MIT Press.**
-> Coined [[desirable-difficulties]]. Central evidence base for FP2 (Active Construction Imperative).
+> Coined [[Desirable Difficulties (Robert Bjork, 1994)]]. Central evidence base for FP2 (Active Construction Imperative).
 
 > [!cite] **Chi, M.T.H., Feltovich, P.J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science*, 5(2), 121–152.**
 > Foundation for expert vs. novice knowledge organization. Supports principle-based PKB organization (DP1).
 
 > [!cite] **Clark, A. & Chalmers, D.J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**
-> [[extended-mind-theory]]. Theoretical grounding for PKB as cognitive extension.
+> [[Extended Mind Thesis (Clark & Chalmers, 1998)]]. Theoretical grounding for PKB as cognitive extension.
 
 > [!cite] **Collins, A.M. & Loftus, E.F. (1975). A spreading-activation theory of semantic processing. *Psychological Review*, 82(6), 407–428.**
 > [[Semantic-Networks]] and [[spreading-activation]]. Architectural analog for wiki-link PKB structures.
@@ -366,7 +366,7 @@ The most appropriate way to engage with this framework is the way the framework 
 > Schema Theory development. Knowledge as organized mental structures.
 
 > [!cite] **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.**
-> [[cognitive-load-theory]]. Intrinsic, extraneous, and germane load distinction.
+> [[Cognitive Load Theory (CLT)]]. Intrinsic, extraneous, and germane load distinction.
 
 > [!cite] **Vygotsky, L.S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.**
 > [[zone-of-proximal-development]]. Social constructivism.

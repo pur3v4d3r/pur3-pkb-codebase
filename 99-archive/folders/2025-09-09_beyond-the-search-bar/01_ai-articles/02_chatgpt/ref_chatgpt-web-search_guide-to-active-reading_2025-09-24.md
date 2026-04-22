@@ -120,7 +120,7 @@ Think of your PKM not as a scrapbook but as a growing *graph of ideas*. A simple
 - *Claim:* “Self-explanation during worked examples helps novices form general rules.”
 - *When:* Problem-solving domains with steps (math, coding, lab methods).
 - *Evidence:* Chi et al. 1989 (students who generated more self-explanations learned more robustly). ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1302_1?utm_source=chatgpt.com))
-- *Links:* `[[Worked-Examples]]`, `[[cognitive-load]]`, `[[elaborative-interrogation]]`
+- *Links:* `[[Worked-Examples]]`, `[[Cognitive Load Theory (CLT)]]`, `[[Elaborative Interrogation]]`
 
 ------
 

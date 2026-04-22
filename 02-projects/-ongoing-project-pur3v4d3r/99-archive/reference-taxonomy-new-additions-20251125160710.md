@@ -897,7 +897,7 @@ Wiki-Link Opportunities:
 - [[Active-Recall]]
 - [[working-memory]]
 - [[executive-function]]
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[self-regulated-learning]]
 - Multiple more based on specific cognitive and PKM concepts
 
@@ -995,7 +995,7 @@ These tags track the state of information as it moves through your system.
   * **`#pkm/capture`**: Ingesting information (Inbox phase).
       * *Use for:* Quick capture ideas, raw highlights.
   * **`#pkm/process`**: Refining and atomizing information.
-      * *Use for:* Turning highlights into [[atomic-notes]], progressive summarization.
+      * *Use for:* Turning highlights into [[atomic-note]], progressive summarization.
   * **`#pkm/connect`**: Linking and gardening.
       * *Use for:* Building MOCs, reviewing orphans.
   * **`#pkm/synthesis`**: Creating new outputs.
@@ -1072,7 +1072,7 @@ graph TD
       * *Depth Potential:* Very High. Connects Philosophy, AI, and PKM.
       * *Knowledge Graph Role:* A bridge note connecting `#cog-sci/philosophy` and `#pkm`.
 
-3.  **[[cognitive-load-theory]]**
+3.  **[[Cognitive Load Theory (CLT)]]**
 
       * *Connection:* Explains why "Collector's Fallacy" happens and how to design atomic notes.
       * *Depth Potential:* Moderate. Practical application of neuroscience.

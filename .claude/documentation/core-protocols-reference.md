@@ -1578,7 +1578,7 @@ modified: 2026-01-06
 
 **Example:**
 ```markdown
-[[cognitive-load-theory]] explores how [[working-memory]] limitations affect learning. [[Intrinsic-Load]] depends on [[element-interactivity]], while [[extraneous-load]] stems from [[instructional-design]] choices. [[germane-load]] promotes [[schema-construction]].
+[[Cognitive Load Theory (CLT)]] explores how [[working-memory]] limitations affect learning. [[Intrinsic-Load]] depends on [[Technical Detail: The relationship between element interactivity and working-memory load]], while [[extraneous-load]] stems from [[instructional-design]] choices. [[Cognitive Load Theory (CLT)]] promotes [[Schema Construction]].
 ```
 
 (8 wiki-links in 2 sentences—appropriate for reference note)
@@ -1739,7 +1739,7 @@ This limitation, established through [[Miller's Law]], forms the foundation for 
 ### Three Types of Cognitive Load
 
 > [!definition] Intrinsic Load
-> <span style='color: #27FF00;'>Intrinsic load</span> is the inherent complexity of the learning material, determined by [[element-interactivity]].
+> <span style='color: #27FF00;'>Intrinsic load</span> is the inherent complexity of the learning material, determined by [[Technical Detail: The relationship between element interactivity and working-memory load]].
 
 [**Intrinsic-Load**:: Cognitive load inherent to the material's complexity, determined by element interactivity, cannot be reduced without changing content.]
 
@@ -1749,7 +1749,7 @@ This limitation, established through [[Miller's Law]], forms the foundation for 
 [**Extraneous-Load**:: Unnecessary cognitive load from ineffective instructional presentation, can and should be minimized through better design.]
 
 > [!definition] Germane Load
-> <span style='color: #9E6CD3;'>Germane load</span> is productive cognitive effort dedicated to [[schema-construction]].
+> <span style='color: #9E6CD3;'>Germane load</span> is productive cognitive effort dedicated to [[Schema Construction]].
 
 [**Germane-Load**:: Productive cognitive effort directed toward learning processes like schema construction and automation.]
 

@@ -384,7 +384,7 @@ extraction_summary:
 > 
 > - **[[Report 01: Foundations of Knowledge Architecture]]** — Report 01 established how schemas organize knowledge in long-term memory. This report extends that foundation by specifying how the PKB should change as schemas develop: the scaffolding appropriate to schema-poor states (full templates, worked examples) becomes counterproductive as schemas mature. Report 01 is the "what" of knowledge architecture; Report 10 is the "how it changes."
 > 
-> - **[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]** — Report 02 introduced [[cognitive-load-theory|Cognitive Load Theory]] and the [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] as a preview concept. Report 10 makes that preview central, developing the full mechanism by which expertise transforms optimal cognitive load management and specifying its PKB design implications in granular detail. These two reports should be read as a pair.
+> - **[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]** — Report 02 introduced [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] and the [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] as a preview concept. Report 10 makes that preview central, developing the full mechanism by which expertise transforms optimal cognitive load management and specifying its PKB design implications in granular detail. These two reports should be read as a pair.
 > 
 > - **[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]** — Report 05's account of [[self-determination-theory|Self-Determination Theory]]'s competence need provides motivational grounding for the scaffolding-fading transition. As scaffolding fades appropriately and the learner succeeds at progressively more complex tasks without support, the competence need is activated in its most powerful form — producing the intrinsic motivation that sustains lifelong learning. Ill-timed fading (premature) threatens competence satisfaction and damages motivation; this report's design principles protect the motivational architecture Report 05 describes.
 > 
@@ -527,7 +527,7 @@ extraction_summary:
 #### 61. [METHODOLOGY-AND-SOURCES] Research Grounding for This Report *(Line 548)*
 
 > [!methodology-and-sources] Research Grounding for This Report
-> This report draws on four primary research traditions: (1) the [[cognitive-load-theory|Cognitive Load Theory]] expertise reversal literature, which is empirically well-established with multiple independent replications across domains (Kalyuga et al., Renkl & Atkinson, Reisslein et al.); (2) the andragogy literature (Knowles), which is theoretically influential but empirically mixed, as Merriam's review documents — claims from this tradition are held with appropriate qualification; (3) the [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]], which is a phenomenological account rather than an experimental finding, and is treated here as a useful organizing heuristic rather than a precise cognitive process model; and (4) [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research (Zimmerman), which is empirically well-grounded.
+> This report draws on four primary research traditions: (1) the [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] expertise reversal literature, which is empirically well-established with multiple independent replications across domains (Kalyuga et al., Renkl & Atkinson, Reisslein et al.); (2) the andragogy literature (Knowles), which is theoretically influential but empirically mixed, as Merriam's review documents — claims from this tradition are held with appropriate qualification; (3) the [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]], which is a phenomenological account rather than an experimental finding, and is treated here as a useful organizing heuristic rather than a precise cognitive process model; and (4) [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research (Zimmerman), which is empirically well-grounded.
 > 
 > Several claims in Phase VI's synthesis — specifically the [[PKB-Maturity-Architecture|PKB Maturity Architecture]] concept and the [[Scaffolding-Archaeology|Scaffolding Archaeology]] problem — are Claude's original cross-domain synthesis contributions, explicitly flagged as such. They are informed by the research traditions above but not independently validated in the PKM literature, which has not addressed these precise design challenges. Practitioners should treat these as reasoned design hypotheses warranting personal empirical testing rather than established findings.
 
@@ -578,7 +578,7 @@ extraction_summary:
 - [[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]
 - [[andragogy]]
 - [[cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Double-Loop-Learning-in-Practice-Templates-for-PKB-Meta-Review|Double-Loop Learning in Practice: Templates for PKB Meta-Review]]
 - [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
@@ -602,7 +602,7 @@ extraction_summary:
 - [[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
 - [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]
-- [[scaffolding]]
+- [[Scaffolded Fading]]
 - [[Scaffolding-Archaeology|Scaffolding Archaeology]]
 - [[Scaffolding-for-Interdisciplinary-Synthesis-A-PKB-Design-Challenge|Scaffolding for Interdisciplinary Synthesis: A PKB Design Challenge]]
 - [[schema]]
@@ -621,7 +621,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[personal-knowledge-management|Personal Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 118 |
 | 2 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | Phase I: Orientation & Synthesis Focus | 122 |
-| 3 | [[scaffolding]] | — | — | Phase I: Orientation & Synthesis Focus | 122 |
+| 3 | [[Scaffolded Fading]] | — | — | Phase I: Orientation & Synthesis Focus | 122 |
 | 4 | [[Fading]] | — | — | Phase I: Orientation & Synthesis Focus | 122 |
 | 5 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 122 |
 | 6 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 122 |
@@ -637,11 +637,11 @@ extraction_summary:
 | 16 | [[Report 05: Motivation Architecture]] | — | — | The Empirical Record on Expertise and... | 211 |
 | 17 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | The Empirical Record on Expertise and... | 211 |
 | 18 | [[Dunning-Kruger]] | — | — | The Empirical Record on Expertise and... | 229 |
-| 19 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | How Expertise Transforms Cognitive Ar... | 252 |
+| 19 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | How Expertise Transforms Cognitive Ar... | 252 |
 | 20 | [[Report 02: The Architecture of Learning]] | — | — | How Expertise Transforms Cognitive Ar... | 252 |
 | 21 | [[schema]] | schemas | — | How Expertise Transforms Cognitive Ar... | 252 |
 | 22 | [[working-memory|Working Memory]] | — | — | How Expertise Transforms Cognitive Ar... | 252 |
-| 23 | [[scaffolding]] | — | — | How Expertise Transforms Cognitive Ar... | 252 |
+| 23 | [[Scaffolded Fading]] | — | — | How Expertise Transforms Cognitive Ar... | 252 |
 | 24 | [[tacit-knowledge|Tacit Knowledge]] | — | — | How Expertise Transforms Cognitive Ar... | 266 |
 | 25 | [[Metacognitive-Development|Metacognitive Development]] | — | — | Metacognitive Development as the Gove... | 270 |
 | 26 | [[illusion-of-knowing|Illusion of Knowing]] | — | — | Metacognitive Development as the Gove... | 272 |
@@ -653,7 +653,7 @@ extraction_summary:
 | 32 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Pulling the Threads Together: A Unifi... | 411 |
 | 33 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 444 |
 | 34 | [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
-| 35 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
+| 35 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
 | 36 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
 | 37 | [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
 | 38 | [[self-determination-theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
@@ -664,7 +664,7 @@ extraction_summary:
 | 43 | [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]] | — | — | Phase VII: PKB Connections & Cross-Re... | 460 |
 | 44 | [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]] | — | — | Phase VII: PKB Connections & Cross-Re... | 462 |
 | 45 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | A. Lexicon of Key Terms | 500 |
-| 46 | [[cognitive-load-theory|Cognitive Load Theory]] | — | — | C. Methodology and Sources Note | 550 |
+| 46 | [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] | — | — | C. Methodology and Sources Note | 550 |
 | 47 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | C. Methodology and Sources Note | 550 |
 | 48 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | C. Methodology and Sources Note | 550 |
 | 49 | [[PKB-Maturity-Architecture|PKB Maturity Architecture]] | — | — | C. Methodology and Sources Note | 552 |
@@ -696,7 +696,7 @@ extraction_summary:
 - [[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]
 - [[andragogy]]
 - [[cognitive-apprenticeship|Cognitive Apprenticeship]]
-- [[cognitive-load-theory|Cognitive Load Theory]]
+- [[Cognitive Load Theory (CLT)|Cognitive Load Theory]]
 - [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Double-Loop-Learning-in-Practice-Templates-for-PKB-Meta-Review|Double-Loop Learning in Practice: Templates for PKB Meta-Review]]
 - [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
@@ -720,7 +720,7 @@ extraction_summary:
 - [[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
 - [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]
-- [[scaffolding]]
+- [[Scaffolded Fading]]
 - [[Scaffolding-Archaeology|Scaffolding Archaeology]]
 - [[Scaffolding-for-Interdisciplinary-Synthesis-A-PKB-Design-Challenge|Scaffolding for Interdisciplinary Synthesis: A PKB Design Challenge]]
 - [[schema]]

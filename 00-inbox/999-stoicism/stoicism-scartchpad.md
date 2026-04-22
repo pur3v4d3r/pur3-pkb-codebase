@@ -152,7 +152,7 @@ Mentally rehearse generic precepts
 #### Cognitive-Science
 [[Emotional-Dysregulation]]
 [[cognitive-bias]]
-[[cognitive-offloading]]
+[[Cognitive Offloading]]
 
 
 ### Key-Terms/Key-words
@@ -199,7 +199,7 @@ Mentally rehearse generic precepts
 
 
 ### Note on Writing
-Writing is a form of [[cognitive-load-theory]] management, by taking your thoughts and writing them out you are effectively emptying part of your [[working-memory]]. By doing this you gain a few advantages, one being the ability to go back and re-read your thoughts exactly as you wrote them, and take the time to develop them further free from the constraints of working memory. This also allows for deep thought and sophisticated [[metacognition|metacognitive]] techniques.
+Writing is a form of [[Cognitive Load Theory (CLT)]] management, by taking your thoughts and writing them out you are effectively emptying part of your [[working-memory]]. By doing this you gain a few advantages, one being the ability to go back and re-read your thoughts exactly as you wrote them, and take the time to develop them further free from the constraints of working memory. This also allows for deep thought and sophisticated [[metacognition|metacognitive]] techniques.
 
 ### Strategy for behavior change
 1. Use intensive metacognitive monitoring (journaling) to establish desired behavioral patterns through conscious effort
@@ -226,7 +226,7 @@ Writing is a form of [[cognitive-load-theory]] management, by taking your though
 > 
 > → [[self-determination-theory]]: Supports autonomous motivation by facilitating values clarification, competence documentation, and autonomy through self-directed examination.
 > 
-> → [[cognitive-load-theory]]: Reduces extraneous load through externalization while managing germane load through structured reflection.
+> → [[Cognitive Load Theory (CLT)]]: Reduces extraneous load through externalization while managing germane load through structured reflection.
 > 
 > → [[neuroplasticity]]: Provides mechanism for practice-dependent neural changes supporting enhanced executive function and emotional regulation.
 > 
@@ -260,7 +260,7 @@ Writing is a form of [[cognitive-load-theory]] management, by taking your though
 - Metacognitive development through journaling is not instantaneous but requires sustained practice to yield measurable cognitive gains, paralleling the [[Stoicism|Stoic]] emphasis on daily discipline rather than sporadic effort.
 - [[Stoicism|Stoic]] practice, reflective writing enables what cognitive science calls **[[cognitive-reappraisal|cognitive reappraisal]]**—*the conscious reevaluation of situations to alter their emotional impact*. Awareness of subconscious thoughts and feelings reveals how life is unknowingly controlled by impulsive reactions or carried assumptions, providing opportunity to consciously choose response modes rather than instinctually reacting harmfully. This capacity for **metacognitive distancing**—observing one's own thought processes as objects of analysis rather than being fully immersed in them—represents perhaps the most profound convergence between ancient [[Stoicism|Stoic]] philosophy and modern [[cognitive-neuroscience|cognitive neuroscience]].
 - Behavioral Commitment Through Textual Permanence: Written commitments create psychological accountability mechanisms that influence subsequent behavior through consistency pressure and identity alignment.
-- The implications for journaling practices are profound and empirically supported. Research using polysomnography found that **participants writing specific to-do lists at bedtime fell asleep significantly faster than those journaling about completed activities**, with more specific to-do lists associated with faster sleep onset, whereas the opposite trend was observed for completed activity journaling. Structured pre-sleep journaling functions as [[cognitive-offloading|cognitive offloading]] that reduces the mental rehearsal otherwise preventing sleep onset.
+- The implications for journaling practices are profound and empirically supported. Research using polysomnography found that **participants writing specific to-do lists at bedtime fell asleep significantly faster than those journaling about completed activities**, with more specific to-do lists associated with faster sleep onset, whereas the opposite trend was observed for completed activity journaling. Structured pre-sleep journaling functions as [[Cognitive Offloading|cognitive offloading]] that reduces the mental rehearsal otherwise preventing sleep onset.
 > [!evidence] 📊 Empirical Support: Pre-Sleep Writing and Sleep Architecture
 > Research into the neuroscience of journaling demonstrates that writing before sleep helps pre-organize experiences, making the brain's nighttime consolidation work more efficient, with consistent practice decreasing sleep onset time from 45 to approximately 15 minutes while improving self-reflection quality as internal dialogue shifts from harsh self-criticism toward curious and compassionate inquiry. This transformation occurs because regular writing strengthens connections between emotional and rational brain centers, effectively enhancing the prefrontal cortex's regulatory capacity over limbic emotional systems—precisely the neurobiological substrate of what Stoics conceptualized as "rational supremacy over passion."
 
@@ -283,7 +283,7 @@ Writing is a form of [[cognitive-load-theory]] management, by taking your though
 > 
 > **Cognitive Reappraisal Through Reframing**: Actively rewrite problematic interpretations: "The meeting went poorly" becomes "I noticed anxiety affecting my clarity; I learned I require more preparation time for high-stakes presentations"—transforming fixed negative judgments into growth-oriented insights.
 > 
-> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[implementation-intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
+> **Prospective Intention Setting**: Conclude with explicit behavioral commitments for the following day, leveraging the [[goal-intention|implementation intention]] effect where specific if-then plans substantially increase goal-directed behavior execution.
 > 
 
 > [!the-philosophy]
@@ -316,7 +316,7 @@ The Dichotomy of Control
 > [!methodology-and-sources]
 > **The Structure of Stoic Evening Examination**
 > 
-> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[episodic-memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[executive-function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[prefrontal-cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[implementation-intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
+> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[episodic-memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[executive-function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[prefrontal-cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[goal-intention|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
 
 > [!the-philosophy] 🌟 **Living According to Nature: The Foundation of Stoic Ethics**
 > The fundamental ethical principle of Stoicism—"live according to nature" (*kata physin*)—emerges directly from this physics. Since human beings *are* part of nature (not separate from or opposed to it), and since we possess a fragment of the divine Logos in the form of our rational capacity, **to live according to nature means to live according to reason**. More specifically, it means developing our distinctively human capacity—reason—to its fullest potential, which the Stoics identified with **virtue** (*aretē*). Just as it is the nature of a tree to grow, produce fruit, and contribute to the forest ecosystem, it is human nature to reason, make choices, and contribute to the human community. We fulfill our nature not by pursuing pleasure or accumulating external goods, but by **developing excellent character** and exercising our rational faculties in service of appropriate action. This is why Epictetus could insist, even as a former slave with a permanent physical disability, that he possessed everything necessary for human flourishing—because what truly matters lies within the domain of choice and judgment, which no external force can touch without our complicity.
@@ -374,7 +374,7 @@ Epictetus
 - [[Memento Mori]] -> `Mortality awareness for perspective`
 [2. Psychological Mechanism]
 - [[metacognitive-awareness]] -> `Thinking about thinking`
-- [[cognitive-offloading]] -> `Externalizing working memory burden`
+- [[Cognitive Offloading]] -> `Externalizing working memory burden`
 - [[Structured Prompts]] -> `Guiding effective reflection`
 - [[Pattern-Recognition]] -> `Identifying recurring behavioral themes`
 - [[Neuroplastic Change]] -> `Reshaping neural architecture through repetition`
@@ -528,7 +528,7 @@ The architecture of an effective journaling system must balance several competin
 
 **Timing and Consistency**: Marcus Aurelius began each day preparing for challenges and ended each evening reviewing actions, creating a feedback loop that continuously refined behavior, establishing both **prospective** (morning intention-setting) and **retrospective** (evening evaluation) components. Contemporary research supports this dual approach: morning sessions establish implementation intentions that guide behavior, while evening sessions consolidate learning and prepare content for sleep-dependent memory processing. The critical element is **consistency**—intermittent journaling provides limited benefit compared to daily practice sustained over weeks and months.
 
-**Integration with Behavioral Commitments**: Effective journaling transcends mere recording by creating explicit behavioral intentions that bridge reflection to action. Intention-setting creates a "soft landing" for the mind, finishing with possibility through tomorrow-focused intentions like "I want to approach conversations with more patience" or "I want to notice small moments of joy", transforming abstract philosophical principles into concrete behavioral targets. This aligns with research on [[implementation-intention|implementation intentions]], which substantially increase goal-directed behavior execution by specifying precise if-then contingencies.
+**Integration with Behavioral Commitments**: Effective journaling transcends mere recording by creating explicit behavioral intentions that bridge reflection to action. Intention-setting creates a "soft landing" for the mind, finishing with possibility through tomorrow-focused intentions like "I want to approach conversations with more patience" or "I want to notice small moments of joy", transforming abstract philosophical principles into concrete behavioral targets. This aligns with research on [[goal-intention|implementation intentions]], which substantially increase goal-directed behavior execution by specifying precise if-then contingencies.
 
 #### Domain-Specific Applications
 

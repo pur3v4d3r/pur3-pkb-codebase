@@ -346,7 +346,7 @@ This structure acknowledges that critical thinking serves multiple functions sim
 
 The first strand addresses the *generative* dimension of critical thinking—how thinkers actively build knowledge rather than passively receive it. This reflects [[constructivism|Constructivist]] epistemology: knowledge is constructed through interaction with information, not simply transmitted. The strand encompasses skills traditionally associated with [[information-literacy]], [[Research Methods]], and [[inquiry-based-learning]].
 
-Knowledge construction in the ACER Framework requires critical thinking at every stage: identifying what is unknown, determining what information is needed, assessing source quality, interpreting meaning, and synthesizing findings into coherent understanding. This moves beyond simple information retrieval to active knowledge building—essential for [[lifelong-learning]] and [[personal-knowledge-management]].
+Knowledge construction in the ACER Framework requires critical thinking at every stage: identifying what is unknown, determining what information is needed, assessing source quality, interpreting meaning, and synthesizing findings into coherent understanding. This moves beyond simple information retrieval to active knowledge building—essential for [[Lifelong Learning]] and [[personal-knowledge-management]].
 
 ### Aspect 1.1: Questioning
 

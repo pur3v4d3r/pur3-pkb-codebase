@@ -48,7 +48,7 @@ These fill critical theoretical gaps in your existing pillars:
 > Your current Pillar I covers philosophical and structural frameworks but lacks computational precision. These notes provide the mathematical/computational rigor needed for deeper integration with AI/ML domains.
 
 1. **[[Computational-Theory-of-Mind]]**
-   - **Connection to MOC**: Bridges [[cognitive-architecture]] ↔ [[Information-Theory]] ↔ [[Artificial-Intelligence]]
+   - **Connection to MOC**: Bridges [[Cognitive Architecture]] ↔ [[Information-Theory]] ↔ [[Artificial-Intelligence]]
    - **Research Value**: Provides computational substrate for understanding mental representation
    - **Integration Points**: Links to [[Symbol Systems]], [[Connectionism]], [[Neural-Networks]]
    - **Taxonomy Tags**: `#cognitive-science/foundations`, `#computational-modeling`, `#philosophy-of-mind`
@@ -98,8 +98,8 @@ These fill critical theoretical gaps in your existing pillars:
    - **Taxonomy Tags**: `#memory-systems`, `#clinical-cognition`, `#therapeutic-interventions`
 
 9. **[[Levels of Processing Framework]]**
-   - **Connection to MOC**: Complements [[cognitive-load-theory]] with encoding depth principles
-   - **Research Value**: Explains why [[elaborative-interrogation]] and [[self-explanation]] work
+   - **Connection to MOC**: Complements [[Cognitive Load Theory (CLT)]] with encoding depth principles
+   - **Research Value**: Explains why [[Elaborative Interrogation]] and [[self-explanation-effect]] work
    - **Integration Points**: [[shallow-processing]] ↔ [[deep-processing]] ↔ [[elaborative-encoding]]
    - **Taxonomy Tags**: `#memory-systems`, `#learning-theory`, `#encoding-strategies`
 
@@ -124,7 +124,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Taxonomy Tags**: `#attention`, `#executive-function`, `#clinical-cognition`
 
 13. **[[Capacity Theories of Attention]]**
-    - **Connection to MOC**: Theoretical foundation for [[cognitive-load-theory]] attention components
+    - **Connection to MOC**: Theoretical foundation for [[Cognitive Load Theory (CLT)]] attention components
     - **Research Value**: Resource allocation, dual-task performance
     - **Integration Points**: [[Divided-Attention]] ↔ [[Cognitive Resources]] ↔ [[Multitasking]]
     - **Taxonomy Tags**: `#attention`, `#cognitive-resources`, `#executive-function`
@@ -169,7 +169,7 @@ These fill critical theoretical gaps in your existing pillars:
 18. **[[Pattern-Recognition]]**
     - **Connection to MOC**: Cross-modal hub connecting [[Vision]] ↔ [[Audition]] ↔ [[Learning]]
     - **Research Value**: Template matching, feature analysis, structural descriptions
-    - **Integration Points**: [[expertise-development]] ↔ [[chunking]] ↔ [[Perceptual Learning]]
+    - **Integration Points**: [[expertise-development]] ↔ [[Chunk (Miller, 1956; Chase & Simon, 1973)]] ↔ [[Perceptual Learning]]
     - **Taxonomy Tags**: `#perception`, `#pattern-recognition`, `#learning-processes`
 
 19. **[[Perceptual Organization]]**
@@ -376,7 +376,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Integration Points**: `[[Normative Influence]] ↔ [[Informational Influence]] ↔ [[Authority]]
     - **Taxonomy Tags**: `#social-cognition`, `#social-influence`, `#persuasion`
 
-48. **[[attribution-theory]]**
+48. **[[Attribution (Heider, 1958)]]**
     - **Connection to MOC**: Explains [[Social Perception]] and [[Judgment]] processes
     - **Research Value**: Internal vs. external attributions, fundamental attribution error
     - **Integration Points**: [[Causal-Reasoning]] ↔ [[Actor-Observer-Bias]] ↔ [[Self-Serving Bias]]
@@ -422,7 +422,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Taxonomy Tags**: `#applied-cognition`, `#ergonomics`, `#human-factors`
 
 54. **[[Mental Models in Design]]**
-    - **Connection to MOC**: Bridges [[schema-theory]] ↔ [[User Experience]] ↔ [[Affordances]]
+    - **Connection to MOC**: Bridges [[schema-theory-and-knowledge-organization]] ↔ [[User Experience]] ↔ [[Affordances]]
     - **Research Value**: User expectations, conceptual models, design metaphors
     - **Integration Points**: [[Norman's Design Principles]] ↔ [[Gulf of Execution]] ↔ [[Mapping]]
     - **Taxonomy Tags**: `#applied-cognition`, `#mental-models`, `#design`
@@ -452,7 +452,7 @@ These fill critical theoretical gaps in your existing pillars:
     - **Taxonomy Tags**: `#information-behavior`, `#search`, `#foraging-theory`
 
 59. **[[Cognitive-Friction]]**
-    - **Connection to MOC**: Design concept applying [[cognitive-load-theory]] to interfaces
+    - **Connection to MOC**: Design concept applying [[Cognitive Load Theory (CLT)]] to interfaces
     - **Research Value**: Unnecessary cognitive effort in task completion
     - **Integration Points**: [[Usability]] ↔ [[extraneous-load]] ↔ [[Flow-State]]
     - **Taxonomy Tags**: `#applied-cognition`, `#usability`, `#cognitive-load`

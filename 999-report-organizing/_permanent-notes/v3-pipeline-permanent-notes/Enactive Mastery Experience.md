@@ -27,7 +27,7 @@ provenance:
 >
 > **Boundary:** Mastery experience is not merely *exposure* to the task or *attempted performance* — it requires the person's own enacted attempt and an outcome that the person interprets as evidence about capability. Tasks completed entirely through external support, or attempts whose outcomes the person dismisses as flukes, do not function as mastery experiences for efficacy formation.
 >
-> **See also:** [[mastery-experience]], [[mastery-experience-vocabulary]], [[Deliberate-Practice-—-Ericsson]]
+> **See also:** [[mastery-experience-vocabulary]], [[mastery-experience-vocabulary]], [[Deliberate-Practice-—-Ericsson]]
 
 ## Core Explanation
 
@@ -36,7 +36,7 @@ provenance:
 >
 > **Boundary:** Mastery experience is not merely *exposure* to the task or *attempted performance* — it requires the person's own enacted attempt and an outcome that the person interprets as evidence about capability. Tasks completed entirely through external support, or attempts whose outcomes the person dismisses as flukes, do not function as mastery experiences for efficacy formation.
 >
-> **See also:** [[mastery-experience]], [[mastery-experience-vocabulary]], [[Deliberate-Practice-—-Ericsson]]
+> **See also:** [[mastery-experience-vocabulary]], [[mastery-experience-vocabulary]], [[Deliberate-Practice-—-Ericsson]]
 > *— [[self-efficacy-theory-foundational-report-2026-04-20]]*
 
 > [!evidence] Enactive Mastery Experience
@@ -46,12 +46,12 @@ provenance:
 >
 > **Report-Specific Significance:** The most powerful of the four sources, against which the others are calibrated.
 >
-> **See also:** [[mastery-experience]], [[Deliberate-Practice-—-Ericsson]]
+> **See also:** [[mastery-experience-vocabulary]], [[Deliberate-Practice-—-Ericsson]]
 > *— [[self-efficacy-theory-foundational-report-2026-04-20]]*
 
 ## Connections
 
-**Related:** [[Achievement-Emotions-—-Pekrun's-Control-Value-Theory]] · [[Bandura]] · [[Calibration-of-Confidence]] · [[Cognitive-Development-—-Piaget-and-Vygotsky]] · [[Collective-Efficacy-and-Social-Capital-The-Sociological-Bridge]] · [[Cross-Cultural-Operation-of-the-Four-Sources]] · [[Deliberate-Practice-—-Ericsson]] · [[Designing-AI-Tutors-for-Calibrated-Efficacy-Cultivation]] · [[Intelligent-Tutoring-Systems]] · [[Self-Efficacy-Across-the-Lifespan-Developmental-Variation-in-Source-Operation]] · [[Self-Efficacy-and-Mindset-A-Comparative-Architecture]] · [[Servant-Leadership]] · [[Social-Cognitive-Theory-—-Bandura]] · [[The-Calibrated-Engagement-Criterion-A-Dialectical-Examination]] · [[Transformational-Leadership]] · [[Zimmerman]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[academic-emotions]] · [[achievement-goal-theory]] · [[adaptive-learning]] · [[albert-bandura]] · [[anxiety]] · [[attribution-theory]] · [[barnett-and-ceci]] · [[cognitive-behavioral-therapy]] · [[cognitive-scaffolding]] · [[cross-cultural-psychology]] · [[expectancy-value-theory]] · [[expertise-development]] · [[feedback-design-for-autonomy-and-mastery]] · [[fixed-mindset]] · [[forethought-phase]] · [[growth-mindset]] · [[learned-helplessness]] · [[mastery-experience]] · [[mastery-experience-vocabulary]] · [[metacognition]] · [[mindset]] · [[motivation]] · [[motivational-climate]] · [[organizational-culture]] · [[positive-psychology]] · [[self-determination-theory]] · [[self-efficacy]] · [[self-efficacy-belief]] · [[self-efficacy-for-learning-and-performance]] · [[self-reflection-phase]] · [[self-regulated-learning]] · [[self-regulation]] · [[social-capital]] · [[social-cognitive-theory-bandura]] · [[therapeutic-alliance]] · [[transfer-of-learning]] · [[verbal-persuasion]] · [[zimmerman-srl-model]]
+**Related:** [[Achievement-Emotions-—-Pekrun's-Control-Value-Theory]] · [[Bandura]] · [[Calibration-of-Confidence]] · [[Cognitive-Development-—-Piaget-and-Vygotsky]] · [[Collective-Efficacy-and-Social-Capital-The-Sociological-Bridge]] · [[Cross-Cultural-Operation-of-the-Four-Sources]] · [[Deliberate-Practice-—-Ericsson]] · [[Designing-AI-Tutors-for-Calibrated-Efficacy-Cultivation]] · [[Intelligent-Tutoring-Systems]] · [[Self-Efficacy-Across-the-Lifespan-Developmental-Variation-in-Source-Operation]] · [[Self-Efficacy-and-Mindset-A-Comparative-Architecture]] · [[Servant-Leadership]] · [[Social-Cognitive-Theory-—-Bandura]] · [[The-Calibrated-Engagement-Criterion-A-Dialectical-Examination]] · [[Transformational-Leadership]] · [[Zimmerman]] · [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]] · [[academic-emotions]] · [[achievement-goal-theory]] · [[adaptive-learning]] · [[albert-bandura]] · [[anxiety]] · [[Attribution (Heider, 1958)]] · [[barnett-and-ceci]] · [[cognitive-behavioral-therapy]] · [[Cognitive Scaffolding]] · [[cross-cultural-psychology]] · [[expectancy-value-theory]] · [[expertise-development]] · [[feedback-design-for-autonomy-and-mastery]] · [[fixed-mindset]] · [[forethought-phase]] · [[growth-mindset]] · [[learned-helplessness]] · [[mastery-experience-vocabulary]] · [[mastery-experience-vocabulary]] · [[metacognition]] · [[mindset]] · [[motivation]] · [[motivational-climate]] · [[organizational-culture]] · [[positive-psychology]] · [[self-determination-theory]] · [[self-efficacy]] · [[self-efficacy-belief]] · [[self-efficacy-for-learning-and-performance]] · [[self-reflection-phase]] · [[self-regulated-learning]] · [[self-regulation]] · [[social-capital]] · [[social-cognitive-theory-bandura]] · [[therapeutic-alliance]] · [[transfer-of-learning]] · [[verbal-persuasion]] · [[zimmerman-srl-model]]
 
 ```dataview
 LIST FROM [[Enactive Mastery Experience]]

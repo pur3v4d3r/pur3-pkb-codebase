@@ -26,15 +26,15 @@ related_concepts:
   - "[[comprehension-monitoring]]"
   - "[[working-memory-in-reading]]"
   - "[[advance-organizer]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[mental-models]]"
   - "[[generation-effect]]"
   - "[[self-explanation-effect]]"
   - "[[the-fluency-illusion]]"
   - "[[shallow-processing]]"
-  - "[[metacognitive-scaffolding]]"
-  - "[[retrieval-practice]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Metacognitive Scaffolding]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[transfer-of-learning]]"
 knowledge_level: intermediate-to-advanced
 tags:
@@ -337,7 +337,7 @@ A separate but convergent line of research provides the mechanistic basis for wh
 
 ### Evidence Area 4: The Role of Prior Knowledge in Construction Failure
 
-A fourth body of evidence addresses the role of [[schema-theory|prior knowledge]] in situation model construction, with findings that partly complicate and partly enrich the picture.
+A fourth body of evidence addresses the role of [[schema-theory-and-knowledge-organization|prior knowledge]] in situation model construction, with findings that partly complicate and partly enrich the picture.
 
 > [!evidence] **Recht and Leslie's Baseball Study (1988)**
 > Recht and Leslie (1988) studied students with high and low baseball knowledge reading a passage about a baseball game. They also divided students by reading ability. The result was stark: high-knowledge readers outperformed low-knowledge readers on comprehension regardless of reading ability. High-knowledge poor readers outperformed low-knowledge good readers. Prior knowledge provided the situational context — the partial situation model — into which text propositions could be placed, allowing high-knowledge readers to construct detailed, coherent models even when their linguistic processing was less efficient.
@@ -373,7 +373,7 @@ During reading, working memory must simultaneously hold the current sentence's s
 The critical insight from cognitive load research is that situation model construction — specifically the inference generation and prior-knowledge integration required — is the most cognitively expensive component. It competes for the same central executive resources needed for parsing complex syntax and tracking unfamiliar vocabulary.
 
 > [!key-insight] **The Cognitive Load Priority Structure**
-> When reading material is dense, contains unfamiliar vocabulary, or involves complex syntax, the cognitive load from parsing forces a reallocation of working memory resources. The first casualty is typically situation model construction — specifically, the inference generation that builds causal connections. The textbase can be built largely automatically once the surface code is parsed, but situation model construction requires controlled, effortful processing. [[cognitive-load-theory|Cognitive Load Theory]] predicts — and reading research confirms — that when intrinsic load from text processing is high, germane load (the effortful processing that builds the situation model) is crowded out. The result is a reader who has processed every word but built almost no model.
+> When reading material is dense, contains unfamiliar vocabulary, or involves complex syntax, the cognitive load from parsing forces a reallocation of working memory resources. The first casualty is typically situation model construction — specifically, the inference generation that builds causal connections. The textbase can be built largely automatically once the surface code is parsed, but situation model construction requires controlled, effortful processing. [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] predicts — and reading research confirms — that when intrinsic load from text processing is high, germane load (the effortful processing that builds the situation model) is crowded out. The result is a reader who has processed every word but built almost no model.
 
 This mechanism explains why unfamiliar vocabulary is such a potent comprehension disruptor even when words can be understood individually: each unknown word demands executive processing resources that should be allocated to situation model construction. It also explains why fluency matters beyond mere decoding speed — automatized word recognition frees working memory resources for model building.
 
@@ -457,7 +457,7 @@ The four-mechanism analysis yields several implications that are more specific a
 > After every paragraph, briefly cover the text and restate the paragraph's *causal contribution* in your own words — not what it said, but what it *did* to the overall argument or explanation. "This paragraph established the mechanism by which X causes Y" rather than "This paragraph was about X and Y." The active reformulation forces situation model construction.
 
 > [!best-practice] **Post-Reading Free Recall**
-> Within five minutes of completing a reading session, without looking at the text, write down everything you can remember — in any order, without evaluation. Then specifically attempt to reconstruct the causal spine: "What caused what, in what sequence?" This retrieval attempt both reveals gaps and strengthens the memory traces for what was successfully constructed. [[retrieval-practice|Retrieval practice]] research consistently shows this produces better long-term retention than re-reading.
+> Within five minutes of completing a reading session, without looking at the text, write down everything you can remember — in any order, without evaluation. Then specifically attempt to reconstruct the causal spine: "What caused what, in what sequence?" This retrieval attempt both reveals gaps and strengthens the memory traces for what was successfully constructed. [[Desirable Difficulties (Robert Bjork, 1994)|Retrieval practice]] research consistently shows this produces better long-term retention than re-reading.
 
 ### Limitations and Honest Boundaries
 
@@ -577,7 +577,7 @@ The principle that complex understanding requires frame-before-fill, causal spin
 
 This report's contribution to the PKB knowledge graph operates at three levels: as a synthesis of existing nodes, as an analytical extension of several focused analyses already in the PKB, and as a new connection point for domains not yet linked.
 
-**Upstream Dependencies**: This analysis builds directly on [[Situation-Models-van-Dijk-&-Kintsch]] and [[situation-model]] as its theoretical foundation; on [[metacognition]] and [[metacognitive-scaffolding]] as the metacognitive monitoring framework; on [[working-memory-in-reading]] and [[cognitive-load-theory]] for the Mechanism 1 analysis; and on [[generation-effect]], [[self-explanation-effect]], and [[retrieval-practice]] for the generation constraint argument.
+**Upstream Dependencies**: This analysis builds directly on [[Situation-Models-van-Dijk-&-Kintsch]] and [[situation-model]] as its theoretical foundation; on [[metacognition]] and [[Metacognitive Scaffolding]] as the metacognitive monitoring framework; on [[working-memory-in-reading]] and [[Cognitive Load Theory (CLT)]] for the Mechanism 1 analysis; and on [[generation-effect]], [[self-explanation-effect]], and [[Desirable Difficulties (Robert Bjork, 1994)]] for the generation constraint argument.
 
 **Downstream Applications**: This report grounds and explains several practices that appear in the PKB as recommendations without full mechanistic justification: [[advance-organizer|Advance Organizers]] (now explained as frame-initiation devices), [[Self-Explanation-in-PKB-Practice]] (now explained as generation constraint compliance), and active reading practices documented in the silent reading focused analyses.
 
@@ -649,7 +649,7 @@ This report's contribution to the PKB knowledge graph operates at three levels: 
 >
 > **Report-Specific Significance:** The generation effect provides the empirical basis for the Generation Constraint — the claim that situation models require active construction and cannot be built through passive reception.
 >
-> **See also:** [[the-generation-effect]], [[self-explanation-effect]], [[retrieval-practice]], [[Testing-Effect]]
+> **See also:** [[the-generation-effect]], [[self-explanation-effect]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[Testing-Effect]]
 
 > [!definition] **Advance Organizer (Ausubel, 1960)**
 > A pre-reading cognitive scaffold that provides an abstract, inclusive framework into which subsequent more specific content can be assimilated. Advance organizers activate relevant prior knowledge and provide an incomplete structural frame that incoming content elaborates.
@@ -660,7 +660,7 @@ This report's contribution to the PKB knowledge graph operates at three levels: 
 >
 > **Report-Specific Significance:** Pre-reading strategies (scanning, predicting, purpose-setting) function as self-constructed advance organizers, providing the structural frame prerequisite for situation model construction.
 >
-> **See also:** [[advance-organizer]], [[advance-organizers]], [[schema-theory]], [[prior-knowledge]]
+> **See also:** [[advance-organizer]], [[advance-organizers]], [[schema-theory-and-knowledge-organization]], [[prior-knowledge]]
 
 > [!definition] **Causal Spine (proposed in this report)**
 > The primary causal chain running through a text or argument — the sequence of causally connected claims (X causes Y, which produces Z) that constitutes the structural backbone of the situation model. Other CATSM dimensions (agency, time, space, motivation) achieve coherence only when organized around a causal spine.
@@ -680,7 +680,7 @@ This report's contribution to the PKB knowledge graph operates at three levels: 
 >
 > **Report-Specific Significance:** The CI model provides the computational-level account of why situation model construction requires active inference: the integration phase requires the reader's knowledge network to constrain and cohere the initially noisy construction network. Without rich prior knowledge connections, integration produces a coherent but shallow model.
 >
-> **See also:** [[Situation-Models-van-Dijk-&-Kintsch]], [[working-memory]], [[schema-theory]], [[mental-models-theory]]
+> **See also:** [[Situation-Models-van-Dijk-&-Kintsch]], [[working-memory]], [[schema-theory-and-knowledge-organization]], [[mental-models-theory]]
 
 > [!definition] **Textbase Trap (proposed in this report)**
 > The specific failure mode in which a reader's fluency at textbase construction prevents situation model construction by producing a false comprehension signal. The mechanism: automatic textbase building → processing ease → felt understanding → termination of comprehension effort → no situation model.
@@ -698,7 +698,7 @@ This report's contribution to the PKB knowledge graph operates at three levels: 
 >
 > **Report-Specific Significance:** The Frame-Before-Fill Asymmetry is the central original synthesis of this report, unifying all four mechanisms and all four interventions under a single structural principle.
 >
-> **See also:** [[advance-organizer]], [[schema-theory]], [[mental-models]], [[situation-model]], [[the-schema-progressive-architecture-for-pkb-design]]
+> **See also:** [[advance-organizer]], [[schema-theory-and-knowledge-organization]], [[mental-models]], [[situation-model]], [[the-schema-progressive-architecture-for-pkb-design]]
 
 ---
 
@@ -1082,7 +1082,7 @@ This report's contribution to the PKB knowledge graph operates at three levels: 
 > > **Connection to This Report:** Directly addresses the pre-reading scaffold intervention — providing the theoretical grounding and evidence-based design principles for building advance organizers that reliably initiate situation model frame construction.
 > > **Priority:** High
 > > **Suggested Report Type:** Foundational Report
-> > **Prerequisites:** [[advance-organizer]], [[schema-theory]], [[situation-model]]
+> > **Prerequisites:** [[advance-organizer]], [[schema-theory-and-knowledge-organization]], [[situation-model]]
 >
 > > [!topic-idea] [[The-Frame-Before-Fill-Principle-in-PKB-Architecture]]
 > > *Transfer-Oriented Investigation.* This report established Frame-Before-Fill as a domain-independent cognitive construction principle and noted its application to software architecture and clinical case conceptualization. This expansion investigates how the principle applies specifically to PKB architecture design: what constitutes a "structural frame" in a knowledge base (Map of Content notes? Outline notes? Index notes?), what it means for a PKB to be built "frame-first" versus "detail-first," and what the cognitive consequences of each approach are for knowledge retrieval and synthesis.
@@ -1120,7 +1120,7 @@ This report's contribution to the PKB knowledge graph operates at three levels: 
 >
 > - **[[advance-organizers]]** — This report provides the situation model mechanism that explains *why* advance organizers work: they initiate partial situation model frame construction before content reading begins, providing structural anchors for incoming propositions. The advance organizer practice now connects to the full Frame-Before-Fill theoretical architecture.
 >
-> - **[[retrieval-practice]]** — Post-reading free recall is recommended here as the most reliable external check on situation model quality. This report provides the comprehension-specific mechanism: retrieval practice reveals whether a situation model (not just a textbase) was constructed.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Post-reading free recall is recommended here as the most reliable external check on situation model quality. This report provides the comprehension-specific mechanism: retrieval practice reveals whether a situation model (not just a textbase) was constructed.
 >
 > **Lateral Connections (mutual enrichment):**
 >

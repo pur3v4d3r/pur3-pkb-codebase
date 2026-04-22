@@ -23,7 +23,7 @@ related_concepts:
   - "[[Dialectical Reasoning]]"
   - "[[Chain of Density]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -665,7 +665,7 @@ Identify other domains where the same abstract structural principle operates —
 
 #### Operation 3: Transfer Encoding
 
-Encode the insight in a form optimized for retrieval in new contexts. Research on [[encoding-specificity]] and [[schema-theory]] shows that how information is encoded determines where it can be retrieved. Encode with multiple retrieval cues: the abstract principle, the structural pattern, the conditions for applicability, and the surface-level trigger patterns that signal when the principle might be relevant.
+Encode the insight in a form optimized for retrieval in new contexts. Research on [[encoding-specificity]] and [[schema-theory-and-knowledge-organization]] shows that how information is encoded determines where it can be retrieved. Encode with multiple retrieval cues: the abstract principle, the structural pattern, the conditions for applicability, and the surface-level trigger patterns that signal when the principle might be relevant.
 
 **Template**: *"When you encounter {trigger pattern — recognizable surface features}, consider whether {abstract principle} might be operating. The diagnostic question is: {question that tests whether the structural analogy holds}. If it does, the dialectical insight from this report predicts that {transferable prediction}."*
 

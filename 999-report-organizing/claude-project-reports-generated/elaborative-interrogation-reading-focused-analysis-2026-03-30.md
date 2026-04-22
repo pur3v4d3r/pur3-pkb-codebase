@@ -19,15 +19,15 @@ secondary_domains:
   - instructional-design
   - pkb-practice
 related_concepts:
-  - "[[elaborative-interrogation]]"
+  - "[[Elaborative Interrogation]]"
   - "[[situation-model]]"
   - "[[levels-of-processing-theory]]"
   - "[[prior-knowledge]]"
   - "[[the-generation-effect]]"
   - "[[self-explanation-effect]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[working-memory-in-reading]]"
-  - "[[desirable-difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[Metacognition-—-Foundational-Concepts]]"
 knowledge_level: advanced
 tags:
@@ -139,23 +139,23 @@ original_contributions:
 prerequisites:
   - "[[levels-of-processing-theory]]"
   - "[[situation-model]]"
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[prior-knowledge]]"
 
 builds_on:
-  - "[[elaborative-interrogation]]"
+  - "[[Elaborative Interrogation]]"
   - "[[the-generation-effect]]"
-  - "[[desirable-difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[self-explanation-effect]]"
 
-link_up: "[[elaborative-interrogation]]"
+link_up: "[[Elaborative Interrogation]]"
 link_down:
   - "[[the-comprehension-gateway-mechanism]]"
   - "[[The-Demand-Architecture-Isomorphism]]"
   - "[[The-Prior-Knowledge-Paradox]]"
 link_related:
   - "[[situation-models-in-text-comprehension]]"
-  - "[[schema-construction]]"
+  - "[[Schema Construction]]"
   - "[[Metacognition-—-Foundational-Concepts]]"
   - "[[working-memory-in-reading]]"
   - "[[Self-Explanation-in-PKB-Practice]]"
@@ -205,7 +205,7 @@ aliases:
 
 Elaborative interrogation is one of the most consistently replicated findings in reading and memory research: prompting readers to generate answers to "why" questions about facts they are studying substantially improves both comprehension and long-term retention compared to control conditions such as re-reading, highlighting, and passive fact review. The effect sizes are not trivial — meta-analyses locate them in the moderate-to-large range for comprehension outcomes, often outperforming strategies that feel far more cognitively intensive.
 
-Yet the research literature conceals a puzzle that its standard explanations fail to adequately resolve. [[elaborative-interrogation]]'s effects are strikingly uneven. Effect sizes vary dramatically across studies — sometimes approaching Cohen's *d* = 0.80 and sometimes barely reaching significance. Prior knowledge is documented as the most powerful moderator variable: readers with substantial domain knowledge benefit more from EI than readers without it. And when provided elaborations perform worse than self-generated elaborations, something is happening beyond a simple "depth of processing" story.
+Yet the research literature conceals a puzzle that its standard explanations fail to adequately resolve. [[Elaborative Interrogation]]'s effects are strikingly uneven. Effect sizes vary dramatically across studies — sometimes approaching Cohen's *d* = 0.80 and sometimes barely reaching significance. Prior knowledge is documented as the most powerful moderator variable: readers with substantial domain knowledge benefit more from EI than readers without it. And when provided elaborations perform worse than self-generated elaborations, something is happening beyond a simple "depth of processing" story.
 
 The standard account — typically framed as an application of [[levels-of-processing-theory]] (Craik & Lockhart, 1972) — holds that EI promotes "deep semantic processing" compared to the "shallow processing" involved in passive reading. This explanation is not wrong, but it is critically incomplete. It names the outcome (deeper processing) while leaving the mechanism (why the question format produces it, and why prior knowledge matters so much) entirely underspecified.
 
@@ -220,11 +220,11 @@ The argument developed across these phases is that EI's mechanism is architectur
 
 ### Scope and Boundaries
 
-This report analyzes elaborative interrogation in the context of expository text reading by adults and older adolescents, where the existing EI evidence base is strongest. It focuses specifically on the relationship between EI's question format, the [[situation-models-in-text-comprehension|situation model construction process]], and the role of [[prior-knowledge]] as a structural (not incidental) moderator. The report does not cover: EI in mathematics or problem-solving domains (which have a different evidence base), EI with young children (where developmental constraints alter the mechanism), or the full empirical landscape of the desirable difficulties literature (addressed in existing PKB nodes on [[desirable-difficulties]]).
+This report analyzes elaborative interrogation in the context of expository text reading by adults and older adolescents, where the existing EI evidence base is strongest. It focuses specifically on the relationship between EI's question format, the [[situation-models-in-text-comprehension|situation model construction process]], and the role of [[prior-knowledge]] as a structural (not incidental) moderator. The report does not cover: EI in mathematics or problem-solving domains (which have a different evidence base), EI with young children (where developmental constraints alter the mechanism), or the full empirical landscape of the desirable difficulties literature (addressed in existing PKB nodes on [[Desirable Difficulties (Robert Bjork, 1994)]]).
 
 ### Why This Analysis Matters for This PKB
 
-The PKB already contains permanent notes on [[levels-of-processing-theory]], [[situation-model]], [[schema-theory]], and [[desirable-difficulties]], as well as a growing set of reading-science analyses. A focused examination of EI that specifies its mechanism at the level of text comprehension architecture does several things for the knowledge graph: it explains why a technique that "promotes deep processing" is gated by prior knowledge in a way that a generic LOP account cannot; it provides a design principle for constructing EI questions that actually work versus questions that only appear to; and it generates a transferable structural insight — the Comprehension Gateway Mechanism — that can inform PKB note design itself.
+The PKB already contains permanent notes on [[levels-of-processing-theory]], [[situation-model]], [[schema-theory-and-knowledge-organization]], and [[Desirable Difficulties (Robert Bjork, 1994)]], as well as a growing set of reading-science analyses. A focused examination of EI that specifies its mechanism at the level of text comprehension architecture does several things for the knowledge graph: it explains why a technique that "promotes deep processing" is gated by prior knowledge in a way that a generic LOP account cannot; it provides a design principle for constructing EI questions that actually work versus questions that only appear to; and it generates a transferable structural insight — the Comprehension Gateway Mechanism — that can inform PKB note design itself.
 
 ### Roadmap
 
@@ -269,7 +269,7 @@ Before analyzing what elaborative interrogation does, we need a precise account 
 >
 > **Report-Specific Significance:** This is the level EI targets. The entire analytical argument of this report rests on demonstrating that "why" questions structurally require situation model engagement.
 >
-> **See also:** [[situation-model]], [[situation-models-in-text-comprehension]], [[mental-models]], [[schema-theory]]
+> **See also:** [[situation-model]], [[situation-models-in-text-comprehension]], [[mental-models]], [[schema-theory-and-knowledge-organization]]
 
 ### Positioning EI Within This Architecture
 
@@ -284,7 +284,7 @@ When that same student is prompted to answer: *"Why did the assassination of Fra
 
 The van Dijk-Kintsch three-level model was selected over alternatives (such as the [[simple-view-of-reading]] or the [[verbal-efficiency-theory]]) because it provides a level of architectural granularity that matches EI's mechanism. The Simple View (Gough & Tunmer, 1986) decomposes reading into decoding × language comprehension, which is appropriate for developmental analyses but too coarse for the question this report addresses. The three-level model's key contribution is the distinction between textbase and situation model — a distinction that is directly needed to explain why "what" questions and "why" questions produce different outcomes.
 
-The three-level model also connects EI cleanly to the PKB's existing nodes on [[schema-theory]] and [[prior-knowledge-activation]]. Schema activation during reading is precisely what allows situation model construction — schemas provide the structural templates into which textual propositions can be assimilated and through which inferential gaps can be bridged. This will be developed in Phase IV.
+The three-level model also connects EI cleanly to the PKB's existing nodes on [[schema-theory-and-knowledge-organization]] and [[prior-knowledge-activation]]. Schema activation during reading is precisely what allows situation model construction — schemas provide the structural templates into which textual propositions can be assimilated and through which inferential gaps can be bridged. This will be developed in Phase IV.
 
 > [!ask-yourself-this] **Conceptual Checkpoint**
 > The analysis going forward depends critically on the distinction between the textbase and the situation model. Can you articulate, in your own words, what a reader who has constructed only a textbase knows versus what a reader who has built a situation model knows? Think of a specific text you have read recently. What did you understand from it that the text did not explicitly state? That integration is your situation model. If you find yourself reaching for the definitions above, the distinction may not yet be integrated.
@@ -305,7 +305,7 @@ This phase has established the architectural distinction between textbase and si
 
 ### The Evidence Landscape
 
-The [[elaborative-interrogation]] research tradition is both more mature and more methodologically consistent than many areas of cognitive strategy research. It traces primarily to the laboratory of Michael Pressley and colleagues in the late 1980s and through the 1990s, with subsequent meta-analyses providing more systematic assessments. The core paradigm is straightforward: participants read factual passages either with elaborative interrogation prompts ("Why is this fact true?") or under comparison conditions (typically re-reading, note-taking, or studying provided elaborations). Dependent variables include recall, recognition, and transfer tests.
+The [[Elaborative Interrogation]] research tradition is both more mature and more methodologically consistent than many areas of cognitive strategy research. It traces primarily to the laboratory of Michael Pressley and colleagues in the late 1980s and through the 1990s, with subsequent meta-analyses providing more systematic assessments. The core paradigm is straightforward: participants read factual passages either with elaborative interrogation prompts ("Why is this fact true?") or under comparison conditions (typically re-reading, note-taking, or studying provided elaborations). Dependent variables include recall, recognition, and transfer tests.
 
 > [!ask-yourself-this] **Knowledge State — Before**
 > Before engaging with the evidence, record your intuitive estimate: what is the size of the elaborative interrogation effect on text comprehension? Small (d = 0.2)? Medium (d = 0.5)? Large (d = 0.8)? What evidence is your estimate based on, if any? Rate your confidence from 1-10.
@@ -405,7 +405,7 @@ The Dual Register Diagnostic explains one source of variability in the empirical
 
 With the Comprehension Gateway Mechanism established, the prior knowledge moderator becomes fully intelligible — not as a peripheral limitation but as a structural necessity.
 
-Situation model construction is not a creative act performed in a vacuum. It is an *integration* act: the reader takes text propositions and attaches them to, assimilates them into, or accommodates them with existing [[schema-theory|schematic structures]] in long-term memory. These schemas provide the causal templates, the relational frameworks, and the default inferences that allow a web of text propositions to become a coherent representation of a real or imagined state of affairs.
+Situation model construction is not a creative act performed in a vacuum. It is an *integration* act: the reader takes text propositions and attaches them to, assimilates them into, or accommodates them with existing [[schema-theory-and-knowledge-organization|schematic structures]] in long-term memory. These schemas provide the causal templates, the relational frameworks, and the default inferences that allow a web of text propositions to become a coherent representation of a real or imagined state of affairs.
 
 When a reader has rich prior knowledge in a domain, their long-term memory contains elaborate schematic structures — causal models of how entities in that domain behave, interact, and change. When they encounter a "why" question, these structures are activated by [[prior-knowledge-activation]], become available as integration anchors, and allow the reader to rapidly connect the text proposition to a causal account. The elaboration is generative but not effortful in the sense of cognitively blocked; the reader knows enough to construct the explanation.
 
@@ -416,14 +416,14 @@ When a reader lacks domain knowledge, those integration anchors are absent. The 
 
 ### 4.4 Working Memory, Construction Load, and the Schema Activation Requirement
 
-Situation model construction during elaborative interrogation is not without [[working-memory-in-reading|working memory]] costs. Holding the text proposition in working memory while simultaneously activating relevant schemas, retrieving pertinent prior knowledge, and constructing a causal connection draws on the central executive and phonological loop components of the [[Working-Memory-—-Baddeley-Model|Baddeley model]]. This is precisely why elaborative interrogation is cognitively demanding compared to re-reading — it imposes a higher [[intrinsic-cognitive-load]] on the learner.
+Situation model construction during elaborative interrogation is not without [[working-memory-in-reading|working memory]] costs. Holding the text proposition in working memory while simultaneously activating relevant schemas, retrieving pertinent prior knowledge, and constructing a causal connection draws on the central executive and phonological loop components of the [[Working-Memory-—-Baddeley-Model|Baddeley model]]. This is precisely why elaborative interrogation is cognitively demanding compared to re-reading — it imposes a higher [[Cognitive Load Theory (CLT)]] on the learner.
 
-However — and this is a critical insight from [[desirable-difficulties]] research — this elevated cognitive demand is not a cost to be minimized; it is the mechanism of the benefit. The [[productive-struggle]] of constructing a causal account is exactly what produces the richer, more interconnected memory trace. The working memory engagement required to hold multiple knowledge structures in mind simultaneously while constructing an integration is what produces the deep encoding that subsequent recall and application benefit from.
+However — and this is a critical insight from [[Desirable Difficulties (Robert Bjork, 1994)]] research — this elevated cognitive demand is not a cost to be minimized; it is the mechanism of the benefit. The [[productive-struggle]] of constructing a causal account is exactly what produces the richer, more interconnected memory trace. The working memory engagement required to hold multiple knowledge structures in mind simultaneously while constructing an integration is what produces the deep encoding that subsequent recall and application benefit from.
 
-This analysis connects EI to the broader [[desirable-difficulties]] framework (Bjork, 1994) in a precise way: EI is a desirable difficulty specifically because it imposes the cognitive load of situation model construction while structurally blocking the cognitive shortcut (textbase retrieval) that would otherwise allow the learner to "answer" the question without doing the required work. The question format is not just prompting more effort; it is *requiring a different kind of cognitive work* — the kind that [[schema-construction]] produces.
+This analysis connects EI to the broader [[Desirable Difficulties (Robert Bjork, 1994)]] framework (Bjork, 1994) in a precise way: EI is a desirable difficulty specifically because it imposes the cognitive load of situation model construction while structurally blocking the cognitive shortcut (textbase retrieval) that would otherwise allow the learner to "answer" the question without doing the required work. The question format is not just prompting more effort; it is *requiring a different kind of cognitive work* — the kind that [[Schema Construction]] produces.
 
 > [!analytical-insight] **EI as Desirable Difficulty, Precisely Targeted**
-> Most accounts of EI as a desirable difficulty (following Bjork's framework) treat the difficulty as generically productive. The more precise claim is that EI's difficulty is specifically targeted at the [[schema-construction]] process. The cognitive load it imposes is not distributed across reading in general — it is concentrated at the point of causal integration, where new propositional content must be connected to existing schemas. This targeted load produces targeted benefits: specifically, richer situation models and stronger schema modification, with comparatively smaller benefits for textbase recall. This specificity predicts the comprehension-dominant effect profile found in the evidence.
+> Most accounts of EI as a desirable difficulty (following Bjork's framework) treat the difficulty as generically productive. The more precise claim is that EI's difficulty is specifically targeted at the [[Schema Construction]] process. The cognitive load it imposes is not distributed across reading in general — it is concentrated at the point of causal integration, where new propositional content must be connected to existing schemas. This targeted load produces targeted benefits: specifically, richer situation models and stronger schema modification, with comparatively smaller benefits for textbase recall. This specificity predicts the comprehension-dominant effect profile found in the evidence.
 
 ### 4.5 The Metacognitive Monitoring Side Effect
 
@@ -503,7 +503,7 @@ The analysis has developed across four phases. Let us synthesize the argument.
 
 Text comprehension is not a unitary process but a hierarchical construction of three qualitatively distinct representations: surface form, textbase, and situation model. Most study strategies operate primarily at the textbase level — they support retention of what the text says but do not systematically promote construction of the integrated causal-functional model of what the text means. This produces learning that is recognizable (recall and close-paraphrase recognition) but brittle (poor transfer, limited inference generation, rapid forgetting under delay).
 
-[[elaborative-interrogation]] produces substantially better comprehension outcomes than textbase-level strategies because its question format imposes a demand that exceeds the textbase's response capacity. A Register 2 "why" question cannot be answered by retrieving a proposition from the text — it requires constructing a causal or functional account by integrating text propositions with prior knowledge schemas. This integration process is situation model construction. The question is not merely prompting deeper processing; it is architecturally blocking the textbase shortcut and forcing engagement one level higher.
+[[Elaborative Interrogation]] produces substantially better comprehension outcomes than textbase-level strategies because its question format imposes a demand that exceeds the textbase's response capacity. A Register 2 "why" question cannot be answered by retrieving a proposition from the text — it requires constructing a causal or functional account by integrating text propositions with prior knowledge schemas. This integration process is situation model construction. The question is not merely prompting deeper processing; it is architecturally blocking the textbase shortcut and forcing engagement one level higher.
 
 The prior knowledge moderator is not an anomaly or a limitation of EI — it is a structural necessity that follows directly from the mechanism. Situation model construction requires integration anchors, and those anchors are provided by prior knowledge schemas. A learner without relevant prior knowledge cannot execute the gateway mechanism because they have nothing to integrate with. This explains why providing background knowledge before EI instruction partially restores EI benefits, and why EI effectiveness tracks knowledge richness continuously rather than showing a simple yes/no threshold.
 
@@ -601,7 +601,7 @@ The transfer principle that travels most cleanly from the EI analysis is the Thr
 
 This report enters the knowledge graph at a specific position: downstream of several foundational and focused-analysis nodes, upstream of potential future analyses of question design, metacognitive calibration, and the pedagogical engineering of reading tasks.
 
-**Upstream Dependencies:** The analysis built directly on [[levels-of-processing-theory]] and [[lop-theory]] as the theoretical context from which EI research emerged, requiring the upgrade from Craik & Lockhart's framework to the more architecturally specific three-level model. [[schema-theory]] provided the structural account of what integration anchors *are* — the prior knowledge that EI requires cannot be understood without the schema account of how knowledge is organized in long-term memory. [[situation-model]] and [[situation-models-in-text-comprehension]] provided the architectural target for the mechanism analysis. Without these upstream nodes, the Comprehension Gateway Mechanism has no conceptual home.
+**Upstream Dependencies:** The analysis built directly on [[levels-of-processing-theory]] and [[lop-theory]] as the theoretical context from which EI research emerged, requiring the upgrade from Craik & Lockhart's framework to the more architecturally specific three-level model. [[schema-theory-and-knowledge-organization]] provided the structural account of what integration anchors *are* — the prior knowledge that EI requires cannot be understood without the schema account of how knowledge is organized in long-term memory. [[situation-model]] and [[situation-models-in-text-comprehension]] provided the architectural target for the mechanism analysis. Without these upstream nodes, the Comprehension Gateway Mechanism has no conceptual home.
 
 **Downstream Applications:** The Dual Register Diagnostic developed in Phase IV is directly applicable to [[Self-Explanation-in-PKB-Practice]] — PKB note prompts should be evaluated for their register, with Register 1 prompts replaced by Register 2 prompts wherever possible. The Demand-Architecture Isomorphism connects forward to any future FAR on formative assessment design. The Prior Knowledge Paradox Resolution connects to [[advance-organizer]] theory (Ausubel's advance organizers function precisely as prior knowledge scaffolds that make EI-like learning possible) and to [[scaffolding-instructional-design]].
 
@@ -614,9 +614,9 @@ This report enters the knowledge graph at a specific position: downstream of sev
 > **Upstream Dependencies (this report builds on):**
 > - **[[levels-of-processing-theory]]** — Craik & Lockhart's framework provides the depth-of-processing context, but the analysis argues it must be upgraded to the more architecturally specific three-level model for EI's mechanism to be properly understood.
 > - **[[situation-model]]** and **[[Situation-Models-van-Dijk-&-Kintsch]]** — The target level of the Comprehension Gateway Mechanism; this report provides new functional context for why situation model construction matters in pedagogical interventions.
-> - **[[schema-theory]]** — Integration anchors are schemas; the prior knowledge moderator only makes sense with the schema-theoretic account of how prior knowledge is organized and activated.
+> - **[[schema-theory-and-knowledge-organization]]** — Integration anchors are schemas; the prior knowledge moderator only makes sense with the schema-theoretic account of how prior knowledge is organized and activated.
 > - **[[prior-knowledge-activation]]** — The activation of schemas during question answering is the proximate mechanism; this report explains *why* that activation matters for EI specifically.
-> - **[[desirable-difficulties]]** — EI is located within the desirable difficulties framework, but the report specifies *why* EI's difficulty is specifically productive, connecting Bjork's framework to the architectural account.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — EI is located within the desirable difficulties framework, but the report specifies *why* EI's difficulty is specifically productive, connecting Bjork's framework to the architectural account.
 >
 > **Downstream Applications (this report enables):**
 > - **[[Self-Explanation-in-PKB-Practice]]** — The Dual Register Diagnostic provides a design criterion for EI-style note prompts that generate understanding rather than textbase-level information recording.
@@ -629,7 +629,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 > - **[[productive-friction]]** — EI's cognitive demand is the productive friction of situation model construction; the conceptual frameworks reinforce each other.
 >
 > **Strengthened Permanent Notes (existing notes deepened by this report):**
-> - **[[elaborative-interrogation]]** — The existing node is deepened by the Comprehension Gateway Mechanism, which provides an architectural account rather than a generic depth-of-processing description.
+> - **[[Elaborative Interrogation]]** — The existing node is deepened by the Comprehension Gateway Mechanism, which provides an architectural account rather than a generic depth-of-processing description.
 > - **[[situation-model]]** — The existing node gains a functional-instructional context: the situation model level is not just a theoretical construct but the specific architectural target of EI as a pedagogical intervention.
 > - **[[prior-knowledge]]** — The existing node gains a mechanistic explanation for *why* prior knowledge matters in instructional contexts: not as a background condition but as a structural input to generative learning processes.
 >
@@ -650,7 +650,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 >
 > **Report-Specific Significance:** EI is the primary phenomenon under analysis; the Comprehension Gateway Mechanism explains why its specific question format produces the evidence profile it does.
 >
-> **See also:** [[elaborative-interrogation]], [[elaborative-inference]], [[pre-questioning]], [[self-explanation-effect]]
+> **See also:** [[Elaborative Interrogation]], [[elaborative-inference]], [[pre-questioning]], [[self-explanation-effect]]
 
 > [!definition] **Textbase (van Dijk & Kintsch, 1983)**
 > The propositional representation of a text's semantic content — the web of assertions and relations among ideas that the text makes, stripped of exact wording. Textbase construction is the primary outcome of normal prose reading and supports verbatim recall, close-paraphrase recognition, and direct comprehension questions.
@@ -670,7 +670,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 >
 > **Report-Specific Significance:** Situation model construction is the cognitive operation the Comprehension Gateway Mechanism forces. Understanding what a situation model is — and what it is not — is the foundation of the entire analysis.
 >
-> **See also:** [[situation-model]], [[situation-models-in-text-comprehension]], [[mental-models]], [[schema-construction]]
+> **See also:** [[situation-model]], [[situation-models-in-text-comprehension]], [[mental-models]], [[Schema Construction]]
 
 > [!definition] **Comprehension Gateway Mechanism (original construct — this report)**
 > The mechanism by which elaborative interrogation produces its comprehension and retention benefits: a Register 2 "why" question imposes a demand structure that textbase-level retrieval cannot satisfy, structurally forcing the reader into situation model construction territory.
@@ -679,7 +679,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 >
 > **Epistemic Status:** Original synthesis — well-motivated by converging evidence but not directly tested as a named mechanism. Requires empirical validation.
 >
-> **See also:** [[elaborative-interrogation]], [[situation-model]], [[deep-processing]]
+> **See also:** [[Elaborative Interrogation]], [[situation-model]], [[deep-processing]]
 
 > [!definition] **Dual Register Diagnostic (original construct — this report)**
 > A practical diagnostic criterion for classifying EI questions: a question is in Register 1 if it can be answered by someone who knows the text but has no other domain knowledge; it is in Register 2 if answering requires integrating text propositions with world knowledge not present in the text.
@@ -688,7 +688,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 >
 > **Operational Indicator:** Apply the test: "Could a reader with only this text, and no other knowledge, answer this question?" If yes: Register 1. If no: Register 2.
 >
-> **See also:** [[elaborative-interrogation]], [[prior-knowledge]], [[situation-model]]
+> **See also:** [[Elaborative Interrogation]], [[prior-knowledge]], [[situation-model]]
 
 > [!definition] **Demand-Architecture Isomorphism (original construct — this report)**
 > The principle that the level of cognitive architecture engaged in processing a text or task is isomorphic to the level required to satisfy the task's demand structure. Under this principle, a task requiring textbase-level response produces textbase-level encoding regardless of effort; a task requiring situation model construction forces that level of encoding.
@@ -702,19 +702,19 @@ This report enters the knowledge graph at a specific position: downstream of sev
 >
 > **Boundary:** The generation advantage in EI is not purely the generic generation effect — it specifically reflects the construction premium: the causal-integration process required to generate the elaboration produces richer encoding than merely recognizing an elaboration as plausible.
 >
-> **See also:** [[the-generation-effect]], [[elaborative-interrogation]], [[self-explanation-effect]], [[retrieval-writing]]
+> **See also:** [[the-generation-effect]], [[Elaborative Interrogation]], [[self-explanation-effect]], [[retrieval-writing]]
 
 > [!definition] **Integration Anchor (functional concept — this report)**
 > The prior knowledge schema or structure that provides the connection point for situation model integration. When a reader encounters a text proposition and constructs a situation model, they are attaching the proposition to an existing schematic structure — the integration anchor — that provides the causal-relational context in which the proposition becomes meaningful.
 >
 > **Boundary:** Integration anchors are not simply related prior knowledge. They must provide causal or relational structures into which the new proposition can be meaningfully connected. Loosely related information does not serve as an effective anchor.
 >
-> **See also:** [[prior-knowledge]], [[schema-theory]], [[schema-construction]], [[advance-organizer]], [[subsumer-anchoring-idea]]
+> **See also:** [[prior-knowledge]], [[schema-theory-and-knowledge-organization]], [[Schema Construction]], [[advance-organizer]], [[subsumer-anchoring-idea]]
 
 > [!definition] **Register (in EI question design — this report's framework)**
 > A classification of the answer level required by an EI question. Register 1 questions can be answered from the textbase alone; Register 2 questions require situation model construction via prior knowledge integration. The register of a question is determined by the demand structure — what level of representation must be engaged to produce an adequate answer.
 >
-> **See also:** [[Dual-Register-Diagnostic-—-original-construct]], [[textbase]], [[situation-model]], [[elaborative-interrogation]]
+> **See also:** [[Dual-Register-Diagnostic-—-original-construct]], [[textbase]], [[situation-model]], [[Elaborative Interrogation]]
 
 > [!definition] **Constructive Threshold (Ausubel tradition; extended in this report)**
 > The epistemic state at which a learner has sufficient prior knowledge to provide integration anchors for new material, but has not yet constructed a situation model for that material. The constructive threshold is the zone of maximum EI benefit: enough anchors for construction, enough novelty to require it.
@@ -1132,7 +1132,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 > > **Connection to This Report:** Phase IV's mechanism analysis directly applies — self-explanation is the natural complement to EI for procedural and mathematical content where causal-why questions are less applicable.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[elaborative-interrogation]], [[self-explanation-effect]]
+> > **Prerequisites:** [[Elaborative Interrogation]], [[self-explanation-effect]]
 >
 > > [!topic-idea] [[pre-questioning]]
 > > Pre-questioning — generating questions before reading rather than during — is a closely related strategy that may or may not invoke the same gateway mechanism as EI. A focused analysis would examine: (1) whether pre-questions that are genuinely Register 2 produce the same comprehension benefits as during-reading EI; (2) whether the timing (before vs. during vs. after reading) modulates the mechanism; and (3) how pre-questioning interacts with the [[kwl-strategy]] framework.
@@ -1140,7 +1140,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 > > **Connection to This Report:** The Dual Register Diagnostic developed here applies directly to pre-question design; this topic would test whether the register analysis transfers to the pre-reading context.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[pre-questioning]], [[elaborative-interrogation]], [[situation-model]]
+> > **Prerequisites:** [[pre-questioning]], [[Elaborative Interrogation]], [[situation-model]]
 >
 > > [!topic-idea] [[advance-organizer]]
 > > David Ausubel's advance organizers function as deliberate prior knowledge scaffolds — they provide the integration anchors that EI requires. A focused analysis would examine the precise relationship: are advance organizers the proper instructional precondition for EI in low-prior-knowledge domains? The [[subsumer-anchoring-idea]] — Ausubel's concept of the cognitive structure needed for meaningful learning — maps directly onto the integration anchor construct developed in this report.
@@ -1148,7 +1148,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 > > **Connection to This Report:** The Integration Anchor Requirement from Phase IV directly motivates this investigation. When learners are below the constructive threshold, advance organizers may be the correct intervention before EI.
 > > **Priority:** Medium
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[advance-organizer]], [[prior-knowledge]], [[elaborative-interrogation]]
+> > **Prerequisites:** [[advance-organizer]], [[prior-knowledge]], [[Elaborative Interrogation]]
 >
 > > [!topic-idea] [[the-generation-effect]]
 > > The existing permanent note covers the generation effect broadly. A focused analysis would specifically examine the relationship between EI's construction premium and the broader generation effect literature — establishing whether EI's generation advantage is a specific instance of the generic generation effect, a distinct phenomenon, or a combination of the two. This would require engaging the Slamecka and Graf (1978) tradition alongside the Pressley EI tradition.
@@ -1156,7 +1156,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 > > **Connection to This Report:** Phase III and IV's discussion of the generation advantage raises this question directly; the report defers it as an open question that a dedicated analysis could resolve.
 > > **Priority:** Medium
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[the-generation-effect]], [[elaborative-interrogation]], [[retrieval-writing]]
+> > **Prerequisites:** [[the-generation-effect]], [[Elaborative Interrogation]], [[retrieval-writing]]
 >
 > > [!topic-idea] **The Demand-Architecture Isomorphism in Instructional Design — A Transfer Investigation**
 > > This transfer-oriented topic investigates how the Demand-Architecture Isomorphism from Phase VII's FAR Transfer operates as a design principle across instructional contexts beyond reading. Specifically: can the principle be operationalized as a demand-level audit tool for existing learning activities? The investigation would analyze the demand structures of common instructional formats (multiple-choice tests, essay prompts, worked examples, project-based learning) through the lens of the isomorphism.
@@ -1165,7 +1165,7 @@ This report enters the knowledge graph at a specific position: downstream of sev
 > > **Connection to This Report:** This topic directly extends the FAR Transfer section into a practical instructional-design domain.
 > > **Priority:** High
 > > **Suggested Report Type:** Focused Analysis
-> > **Prerequisites:** [[situation-model]], [[levels-of-processing-theory]], [[schema-construction]]
+> > **Prerequisites:** [[situation-model]], [[levels-of-processing-theory]], [[Schema Construction]]
 
 ---
 
@@ -1179,9 +1179,9 @@ This report enters the knowledge graph at a specific position: downstream of sev
 >
 > - **[[situation-model]]** and **[[Situation-Models-van-Dijk-&-Kintsch]]** — The three-level model (surface form, textbase, situation model) is the primary analytical framework of the report. Without these upstream nodes, the Comprehension Gateway Mechanism has no architectural home — it requires the textbase/situation model distinction to be intelligible.
 >
-> - **[[schema-theory]]** and **[[prior-knowledge-activation]]** — The integration anchor concept depends on the schema-theoretic account of how prior knowledge is organized. Prior knowledge activation during EI question answering is the proximate mechanism of integration; without the schema account, the prior knowledge moderator is merely empirical rather than mechanistically explained.
+> - **[[schema-theory-and-knowledge-organization]]** and **[[prior-knowledge-activation]]** — The integration anchor concept depends on the schema-theoretic account of how prior knowledge is organized. Prior knowledge activation during EI question answering is the proximate mechanism of integration; without the schema account, the prior knowledge moderator is merely empirical rather than mechanistically explained.
 >
-> - **[[desirable-difficulties]]** — EI's cognitive demand is framed as desirable because it is specifically the demand of situation model construction. This upstream framing (Bjork, 1994) allows the report to avoid treating EI's difficulty as a cost to be minimized.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — EI's cognitive demand is framed as desirable because it is specifically the demand of situation model construction. This upstream framing (Bjork, 1994) allows the report to avoid treating EI's difficulty as a cost to be minimized.
 >
 > - **[[the-generation-effect]]** — The generation advantage in EI is a specific instance of the broader generation effect; this upstream node provides the foundational finding that self-generated content is better retained, which EI research extends.
 >
@@ -1203,13 +1203,13 @@ This report enters the knowledge graph at a specific position: downstream of sev
 >
 > **Strengthened Permanent Notes (existing notes deepened by this report):**
 >
-> - **[[elaborative-interrogation]]** — Deepened by the Comprehension Gateway Mechanism, which provides a specific architectural account of EI's mechanism rather than a generic depth-of-processing description. The existing node gains both a more precise mechanistic explanation and a practical design criterion (the Dual Register Diagnostic).
+> - **[[Elaborative Interrogation]]** — Deepened by the Comprehension Gateway Mechanism, which provides a specific architectural account of EI's mechanism rather than a generic depth-of-processing description. The existing node gains both a more precise mechanistic explanation and a practical design criterion (the Dual Register Diagnostic).
 >
 > - **[[situation-model]]** — Deepened by the functional-instructional context: the situation model level is now explicitly the target of a validated pedagogical intervention (EI), not just a theoretical construct from discourse psychology. The note gains a "how to build" dimension.
 >
 > - **[[prior-knowledge]]** — Deepened by the mechanistic explanation for why prior knowledge matters in generative learning: not as a background condition but as a structural input (integration anchor) to the construction process that generative strategies invoke.
 >
-> - **[[desirable-difficulties]]** — Deepened by the mechanism specificity: EI illustrates that "desirable difficulty" is most precisely defined not as added cognitive effort on the same task but as a structural redesign of the task that requires qualitatively different (and higher-level) cognitive work.
+> - **[[Desirable Difficulties (Robert Bjork, 1994)]]** — Deepened by the mechanism specificity: EI illustrates that "desirable difficulty" is most precisely defined not as added cognitive effort on the same task but as a structural redesign of the task that requires qualitatively different (and higher-level) cognitive work.
 >
 > **Key Insight:** The pattern that becomes visible when this report is situated in the knowledge graph is the emergence of a unified theme across multiple reading-science reports: effective reading strategies are mechanisms for forcing construction at the situation model level. EI, writing-to-learn, self-explanation, and retrieval writing all work by the same architectural logic — blocking the textbase shortcut and requiring construction. The PKB is converging toward a unified framework for generative reading strategies that the Demand-Architecture Isomorphism could anchor.
 

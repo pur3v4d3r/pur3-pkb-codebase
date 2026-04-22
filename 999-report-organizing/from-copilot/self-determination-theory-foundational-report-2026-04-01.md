@@ -130,7 +130,7 @@ key-distinctions:
 prerequisites:
   - "[[motivational-psychology]]"
   - "[[humanistic-psychology]]"
-  - "[[intrinsic-motivation]]"
+  - "[[Intrinsic Motivation]]"
 
 related:
   - "[[self-regulated-learning]]"
@@ -138,7 +138,7 @@ related:
   - "[[flow-theory]]"
   - "[[growth-mindset]]"
   - "[[self-efficacy-theory]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[expectancy-value-theory]]"
 
 broader:
@@ -147,7 +147,7 @@ broader:
 
 narrower:
   - "[[basic-psychological-needs-theory]]"
-  - "[[cognitive-evaluation-theory]]"
+  - "[[cognitive-evaluation-theory-cet]]"
   - "[[organismic-integration-theory]]"
   - "[[causality-orientations-theory]]"
   - "[[goal-contents-theory]]"
@@ -156,7 +156,7 @@ narrower:
 see-also:
   - "[[autonomy-support]]"
   - "[[internalization]]"
-  - "[[need-frustration]]"
+  - "[[Need Frustration]]"
   - "[[eudaimonia]]"
 
 contrasts-with:
@@ -174,7 +174,7 @@ applied-in:
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[humanistic-psychology]]"
-  - "[[intrinsic-motivation]]"
+  - "[[Intrinsic Motivation]]"
   - "[[effectance]]"
 
 enables:
@@ -184,9 +184,9 @@ enables:
 
 expansion-topics:
   - "[[autonomy-supportive-teaching-and-learning-environments]]"
-  - "[[need-frustration]]"
+  - "[[Need Frustration]]"
   - "[[goal-contents-theory]]"
-  - "[[internalization-continuum]]"
+  - "[[internalization]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # REPORT SERIES POSITIONING
@@ -239,13 +239,13 @@ original_contributions:
 
 ## Phase I: Orientation & Context Setting
 
-Among the most consequential developments in the science of human motivation over the past half-century has been the systematic articulation and empirical validation of [[self-determination-theory]] — a macro-theory of human motivation, personality development, and psychological well-being constructed over four decades of collaborative research by [[edward-deci]] and [[richard-ryan]] at the University of Rochester. Self-Determination Theory, commonly abbreviated as [[sdt]], represents not merely another motivational framework among many, but a comprehensive organismic metatheory that fundamentally reorients how we understand the relationship between human beings and the social contexts in which they develop, learn, work, and relate. Where behavioral and cognitive theories of motivation had treated the human organism as essentially reactive — responding to reinforcement schedules, expectancy calculations, or goal structures imposed from without — SDT advances the radical and empirically consequential proposition that human beings possess inherent growth tendencies, an innate propensity toward psychological integration, and [[basic-psychological-needs]] whose satisfaction or frustration constitutes the primary mechanism through which social environments shape motivational quality, developmental trajectories, and well-being outcomes.
+Among the most consequential developments in the science of human motivation over the past half-century has been the systematic articulation and empirical validation of [[self-determination-theory]] — a macro-theory of human motivation, personality development, and psychological well-being constructed over four decades of collaborative research by [[edward-deci]] and [[richard-ryan]] at the University of Rochester. Self-Determination Theory, commonly abbreviated as [[sdt]], represents not merely another motivational framework among many, but a comprehensive organismic metatheory that fundamentally reorients how we understand the relationship between human beings and the social contexts in which they develop, learn, work, and relate. Where behavioral and cognitive theories of motivation had treated the human organism as essentially reactive — responding to reinforcement schedules, expectancy calculations, or goal structures imposed from without — SDT advances the radical and empirically consequential proposition that human beings possess inherent growth tendencies, an innate propensity toward psychological integration, and [[Basic Psychological Needs]] whose satisfaction or frustration constitutes the primary mechanism through which social environments shape motivational quality, developmental trajectories, and well-being outcomes.
 
-The stakes of SDT's contribution extend far beyond academic [[motivational-psychology]]. The theory's empirical implications now reach into [[educational-psychology]], clinical and health psychology, organizational behavior, sport and exercise science, parenting research, psychotherapy, environmental behavior, and political engagement. In education specifically — a domain of particular relevance for the present knowledge base — SDT provides the most empirically grounded framework available for understanding why some learning environments produce deep engagement, [[autonomous-motivation]], and durable knowledge construction, while others generate compliance, anxiety, amotivation, and the progressive erosion of natural curiosity. The practical significance of this understanding cannot be overstated: the conditions that SDT identifies as supporting versus undermining [[intrinsic-motivation]] and the [[internalization]] of valued practices have direct, evidence-based implications for [[instructional-design]], [[feedback-design]], assessment architecture, and the cultivation of [[self-regulated-learning]] and [[self-directed-learning]].
+The stakes of SDT's contribution extend far beyond academic [[motivational-psychology]]. The theory's empirical implications now reach into [[educational-psychology]], clinical and health psychology, organizational behavior, sport and exercise science, parenting research, psychotherapy, environmental behavior, and political engagement. In education specifically — a domain of particular relevance for the present knowledge base — SDT provides the most empirically grounded framework available for understanding why some learning environments produce deep engagement, [[Autonomous Motivation]], and durable knowledge construction, while others generate compliance, anxiety, amotivation, and the progressive erosion of natural curiosity. The practical significance of this understanding cannot be overstated: the conditions that SDT identifies as supporting versus undermining [[Intrinsic Motivation]] and the [[internalization]] of valued practices have direct, evidence-based implications for [[instructional-design]], [[feedback-design]], assessment architecture, and the cultivation of [[self-regulated-learning]] and [[self-directed-learning]].
 
 ### Scope Declaration
 
-This report provides a comprehensive foundational treatment of Self-Determination Theory in its full theoretical architecture and empirical standing. It covers the theory's philosophical and metatheoretical commitments ([[organismic-meta-theory]]), its six constituent mini-theories ([[cognitive-evaluation-theory]], [[organismic-integration-theory]], [[causality-orientations-theory]], [[basic-psychological-needs-theory]], [[goal-contents-theory]], and [[relationship-motivation-theory]]), the mechanisms through which social contexts support or undermine need satisfaction, and the downstream consequences for motivation, learning, well-being, and development. The report engages the theory's strengths and limitations with scholarly honesty, addressing criticisms regarding the universality claim, the precision of its constructs, and its relationship to competing motivational frameworks such as [[achievement-goal-theory]], [[expectancy-value-theory]], and [[self-efficacy-theory]].
+This report provides a comprehensive foundational treatment of Self-Determination Theory in its full theoretical architecture and empirical standing. It covers the theory's philosophical and metatheoretical commitments ([[organismic-meta-theory]]), its six constituent mini-theories ([[cognitive-evaluation-theory-cet]], [[organismic-integration-theory]], [[causality-orientations-theory]], [[basic-psychological-needs-theory]], [[goal-contents-theory]], and [[relationship-motivation-theory]]), the mechanisms through which social contexts support or undermine need satisfaction, and the downstream consequences for motivation, learning, well-being, and development. The report engages the theory's strengths and limitations with scholarly honesty, addressing criticisms regarding the universality claim, the precision of its constructs, and its relationship to competing motivational frameworks such as [[achievement-goal-theory]], [[expectancy-value-theory]], and [[self-efficacy-theory]].
 
 The report deliberately excludes domain-specific applications (e.g., SDT in healthcare, sports, or political behavior) except as illustrative examples, focusing instead on the theory's conceptual architecture, empirical foundations, and implications for learning and education — the domains most central to this knowledge base.
 
@@ -277,7 +277,7 @@ The organismic commitment carries three foundational implications that pervade e
 
 ### The Three Basic Psychological Needs
 
-The architectural core of Self-Determination Theory is the proposition that three [[basic-psychological-needs]] — [[autonomy]], [[competence]], and [[relatedness]] — function as universal nutriments for psychological growth, integrity, and well-being. These needs are not understood in the colloquial sense of felt desires or subjective preferences; they are theorized as innate, organismic requirements whose satisfaction is essential for optimal functioning and whose frustration produces predictable patterns of psychological harm, regardless of whether the individual consciously values or recognizes them.
+The architectural core of Self-Determination Theory is the proposition that three [[Basic Psychological Needs]] — [[autonomy]], [[competence]], and [[relatedness]] — function as universal nutriments for psychological growth, integrity, and well-being. These needs are not understood in the colloquial sense of felt desires or subjective preferences; they are theorized as innate, organismic requirements whose satisfaction is essential for optimal functioning and whose frustration produces predictable patterns of psychological harm, regardless of whether the individual consciously values or recognizes them.
 
 > [!definition] **Autonomy (Deci & Ryan, 1985, 2000)**
 > The experience of volition and self-endorsement in one's actions — the sense that one's behavior emanates from the self and is congruent with one's integrated values and interests. Autonomy in SDT does NOT mean independence, self-reliance, or freedom from influence. It means that one's actions are experienced as volitional rather than coerced, as self-endorsed rather than externally controlled.
@@ -293,7 +293,7 @@ The architectural core of Self-Determination Theory is the proposition that thre
 >
 > **Boundary:** Competence in SDT is not equivalent to objective ability or performance. It refers to the subjective experience of effectiveness. An objectively capable person whose environment provides no optimal challenge or positive feedback may have frustrated competence needs despite high ability.
 >
-> **See also:** [[competence-need]], [[perceived-competence]], [[self-efficacy]], [[mastery-experience]]
+> **See also:** [[competence-need]], [[perceived-competence]], [[self-efficacy]], [[mastery-experience-vocabulary]]
 
 > [!definition] **Relatedness (Deci & Ryan, 2000; Baumeister & Leary, 1995)**
 > The experience of meaningful connection with others — the sense of belonging, of being cared for, and of caring for others. Relatedness involves both feeling connected and providing connection; it encompasses [[mutuality]] rather than mere proximity.
@@ -306,14 +306,14 @@ The needs are theorized as universal — present in all human beings regardless 
 
 ### The Autonomous–Controlled Motivation Distinction
 
-Perhaps the single most consequential theoretical contribution of SDT is the articulation of the distinction between [[autonomous-motivation]] and [[controlled-motivation]] — a distinction that reframes the classical dichotomy between [[intrinsic-motivation|intrinsic]] and [[extrinsic-motivation|extrinsic motivation]] and provides a far more nuanced and empirically productive framework for understanding motivational quality.
+Perhaps the single most consequential theoretical contribution of SDT is the articulation of the distinction between [[Autonomous Motivation]] and [[Controlled Motivation]] — a distinction that reframes the classical dichotomy between [[Intrinsic Motivation|intrinsic]] and [[extrinsic-motivation|extrinsic motivation]] and provides a far more nuanced and empirically productive framework for understanding motivational quality.
 
 Classical motivation theory treated the intrinsic–extrinsic distinction as a simple binary: behavior driven by inherent interest and enjoyment (intrinsic) versus behavior driven by external rewards or punishments (extrinsic). SDT preserves this distinction but embeds it within a broader framework by recognizing that extrinsic motivation is not monolithic. Through the process of [[internalization]], extrinsic regulations can be progressively transformed from externally imposed demands into self-endorsed values — a process detailed in [[organismic-integration-theory]]. The result is a continuum of regulatory styles, anchored at one end by [[amotivation]] (the absence of intentional regulation) and at the other by intrinsic motivation, with four intervening forms of extrinsic regulation:
 
-1. **[[external-regulation]]** — Behavior controlled by external contingencies: rewards, punishments, deadlines, surveillance. The perceived locus of causality is entirely external.
+1. **[[External Regulation]]** — Behavior controlled by external contingencies: rewards, punishments, deadlines, surveillance. The perceived locus of causality is entirely external.
 2. **[[introjected-regulation]]** — Behavior motivated by internal pressures: guilt, anxiety, [[contingent-self-worth]], [[ego-involvement]]. The regulation has been partially taken in but not accepted as one's own. The individual acts to avoid shame or gain self-esteem rather than from genuine endorsement.
 3. **[[identified-regulation]]** — Behavior motivated by conscious valuing of an activity's importance. The person recognizes the personal significance of the behavior and endorses it, even if the activity itself is not inherently enjoyable.
-4. **[[integrated-regulation]]** — Behavior fully assimilated into the self-system, congruent with one's values, identity, and other regulations. This represents the most complete form of internalization, though the behavior remains extrinsic in that it is instrumental rather than done for its own sake.
+4. **[[Integrated Regulation]]** — Behavior fully assimilated into the self-system, congruent with one's values, identity, and other regulations. This represents the most complete form of internalization, though the behavior remains extrinsic in that it is instrumental rather than done for its own sake.
 
 > [!key-claim]
 > The critical motivational divide is NOT between intrinsic and extrinsic motivation, but between autonomous motivation (intrinsic motivation + identified regulation + integrated regulation) and controlled motivation (external regulation + introjected regulation). This distinction — between acting with a sense of volition and self-endorsement versus acting under pressure — is the strongest predictor of learning quality, persistence, psychological health, and well-being.
@@ -322,7 +322,7 @@ This reconceptualization has profound implications for education and learning de
 
 ### The Concept of Need Satisfaction and Need Frustration
 
-A crucial conceptual development within SDT, formalized particularly in more recent work by [[maarten-vansteenkiste]] and colleagues, is the distinction between [[need-satisfaction]] and [[need-frustration]] as asymmetric constructs rather than opposite ends of a single continuum. Need satisfaction refers to the active fulfillment of psychological needs — the experience of volition, effectance, and connection. Need frustration refers to the active thwarting of needs — the experience of being coerced, feeling incompetent, or being excluded. Between these poles lies need deprivation — the mere absence of need satisfaction without active thwarting.
+A crucial conceptual development within SDT, formalized particularly in more recent work by [[Maarten Vansteenkiste]] and colleagues, is the distinction between [[need-satisfaction]] and [[Need Frustration]] as asymmetric constructs rather than opposite ends of a single continuum. Need satisfaction refers to the active fulfillment of psychological needs — the experience of volition, effectance, and connection. Need frustration refers to the active thwarting of needs — the experience of being coerced, feeling incompetent, or being excluded. Between these poles lies need deprivation — the mere absence of need satisfaction without active thwarting.
 
 > [!insight]
 > The satisfaction–frustration asymmetry has critical design implications: the mere absence of controlling practices does not guarantee autonomy satisfaction. Environments must actively provide autonomy-supportive structures — choice, rationale, acknowledgment of perspective — for the autonomy need to be satisfied. Similarly, removing threats to competence does not automatically create competence satisfaction; environments must provide optimal challenge, informational feedback, and structure.
@@ -343,9 +343,9 @@ A crucial conceptual development within SDT, formalized particularly in more rec
 
 Self-Determination Theory emerged at the intersection of two intellectual traditions that, by the late 1970s, had reached an impasse. [[humanistic-psychology]] — represented most prominently by [[abraham-maslow]]'s hierarchy of needs and [[carl-rogers]]'s person-centered approach — had articulated a vision of human nature as inherently oriented toward growth, self-actualization, and the fulfillment of potential. This vision provided the philosophical foundation for SDT's organismic commitments. However, humanistic psychology had largely failed to translate its insights into empirically testable propositions, remaining instead at the level of phenomenological description and therapeutic intuition.
 
-Meanwhile, the experimental psychology of motivation had achieved empirical rigor but at the cost of theoretical vision. Behaviorist approaches explained motivation entirely through reinforcement and punishment contingencies, while cognitive approaches such as [[expectancy-value-theory]] (Eccles and Wigfield) and [[attribution-theory]] (Weiner) explained motivation through beliefs, expectations, and causal attributions without addressing the deeper question of what organisms are inherently oriented toward.
+Meanwhile, the experimental psychology of motivation had achieved empirical rigor but at the cost of theoretical vision. Behaviorist approaches explained motivation entirely through reinforcement and punishment contingencies, while cognitive approaches such as [[expectancy-value-theory]] (Eccles and Wigfield) and [[Attribution (Heider, 1958)]] (Weiner) explained motivation through beliefs, expectations, and causal attributions without addressing the deeper question of what organisms are inherently oriented toward.
 
-[[edward-deci]]'s early experimental work in the early 1970s on the effects of external rewards on [[intrinsic-motivation]] — the landmark studies demonstrating what would later be formalized as the [[undermining-effect]] or [[overjustification-effect]] — represented a decisive synthesis. Here was empirical evidence, generated through controlled laboratory experiments, demonstrating that external rewards could actually diminish intrinsic motivation under specifiable conditions. This finding was profoundly inconvenient for both behavioral and cognitive approaches: it could not be explained by reinforcement theory (which predicted rewards should always increase behavior) and required something beyond expectancy-value calculations (since the expected value of the rewarded activity was objectively higher). Explaining the undermining effect required positing something like an inherent motivational orientation that could be disrupted by controlling external structures — precisely the kind of construct that humanistic psychology had described but never operationalized.
+[[edward-deci]]'s early experimental work in the early 1970s on the effects of external rewards on [[Intrinsic Motivation]] — the landmark studies demonstrating what would later be formalized as the [[undermining-effect]] or [[overjustification-effect]] — represented a decisive synthesis. Here was empirical evidence, generated through controlled laboratory experiments, demonstrating that external rewards could actually diminish intrinsic motivation under specifiable conditions. This finding was profoundly inconvenient for both behavioral and cognitive approaches: it could not be explained by reinforcement theory (which predicted rewards should always increase behavior) and required something beyond expectancy-value calculations (since the expected value of the rewarded activity was objectively higher). Explaining the undermining effect required positing something like an inherent motivational orientation that could be disrupted by controlling external structures — precisely the kind of construct that humanistic psychology had described but never operationalized.
 
 The subsequent decades of collaboration between Deci and [[richard-ryan]] produced the progressive elaboration of SDT from a focused hypothesis about rewards and intrinsic motivation into a comprehensive macro-theory encompassing six distinct but interrelated mini-theories, each addressing a specific set of phenomena while sharing the common metatheoretical foundation of the organismic dialectical perspective.
 
@@ -353,9 +353,9 @@ The subsequent decades of collaboration between Deci and [[richard-ryan]] produc
 
 SDT's theoretical architecture is organized as a system of six mini-theories, each addressing a specific domain of motivational phenomena while sharing the common foundation of basic psychological needs.
 
-**[[cognitive-evaluation-theory]] (CET)** — The earliest mini-theory, CET specifies the conditions under which external events (rewards, feedback, deadlines, surveillance) enhance or undermine intrinsic motivation. The theory proposes two mediating cognitive processes: the perceived locus of causality (whether behavior is experienced as self-initiated or externally caused) and [[perceived-competence]] (whether the event enhances or diminishes the sense of effectance). Events experienced as controlling shift the [[perceived-locus-of-causality]] externally, undermining intrinsic motivation; events experienced as informational enhance perceived competence, supporting intrinsic motivation. The critical concept of [[functional-significance]] — whether a given event is experienced primarily as controlling or informational — determines its motivational impact.
+**[[cognitive-evaluation-theory-cet]] (CET)** — The earliest mini-theory, CET specifies the conditions under which external events (rewards, feedback, deadlines, surveillance) enhance or undermine intrinsic motivation. The theory proposes two mediating cognitive processes: the perceived locus of causality (whether behavior is experienced as self-initiated or externally caused) and [[perceived-competence]] (whether the event enhances or diminishes the sense of effectance). Events experienced as controlling shift the [[perceived-locus-of-causality]] externally, undermining intrinsic motivation; events experienced as informational enhance perceived competence, supporting intrinsic motivation. The critical concept of [[functional-significance]] — whether a given event is experienced primarily as controlling or informational — determines its motivational impact.
 
-**[[organismic-integration-theory]] (OIT)** — OIT addresses the forms of extrinsic motivation and the process of [[internalization]] by which externally regulated behaviors are progressively integrated into the self. OIT specifies the [[internalization-continuum|regulatory continuum]] described in Phase II and identifies the social-contextual conditions that support movement along it — particularly [[autonomy-support]], competence structure, and relational warmth.
+**[[organismic-integration-theory]] (OIT)** — OIT addresses the forms of extrinsic motivation and the process of [[internalization]] by which externally regulated behaviors are progressively integrated into the self. OIT specifies the [[internalization|regulatory continuum]] described in Phase II and identifies the social-contextual conditions that support movement along it — particularly [[autonomy-support]], competence structure, and relational warmth.
 
 **[[basic-psychological-needs-theory]] (BPNT)** — BPNT formalizes the claim that autonomy, competence, and relatedness are universal psychological needs whose satisfaction is essential for growth, integrity, and well-being, and whose frustration produces ill-being and psychopathology. BPNT provides the unifying mechanism for the entire SDT framework: all six mini-theories ultimately explain their phenomena through effects on need satisfaction.
 
@@ -379,7 +379,7 @@ SDT occupies a distinctive position within the landscape of motivational theorie
 
 SDT is currently one of the most extensively researched and empirically supported motivational frameworks in psychology. The field has experienced remarkable growth since the early 2000s, with thousands of studies across dozens of countries and cultural contexts. Several developments characterize the current state:
 
-First, the cross-cultural evidence has substantially strengthened the universality claim, with studies demonstrating that [[basic-psychological-needs]] satisfaction predicts well-being across individualistic and collectivistic cultures — though the behavioral expressions of need satisfaction vary. Second, the need frustration literature has matured, with [[maarten-vansteenkiste]], [[bart-soenens]], and colleagues developing validated measures of need frustration and demonstrating its unique predictive power for ill-being outcomes beyond what need satisfaction alone accounts for. Third, the integration of SDT with neuroscience research is emerging, with studies linking autonomous motivation to differential activation patterns in reward circuitry, prefrontal regulatory networks, and stress response systems. Fourth, intervention research has accumulated substantial evidence that autonomy-supportive teaching practices improve student engagement, learning, persistence, and well-being across educational levels and cultural contexts.
+First, the cross-cultural evidence has substantially strengthened the universality claim, with studies demonstrating that [[Basic Psychological Needs]] satisfaction predicts well-being across individualistic and collectivistic cultures — though the behavioral expressions of need satisfaction vary. Second, the need frustration literature has matured, with [[Maarten Vansteenkiste]], [[bart-soenens]], and colleagues developing validated measures of need frustration and demonstrating its unique predictive power for ill-being outcomes beyond what need satisfaction alone accounts for. Third, the integration of SDT with neuroscience research is emerging, with studies linking autonomous motivation to differential activation patterns in reward circuitry, prefrontal regulatory networks, and stress response systems. Fourth, intervention research has accumulated substantial evidence that autonomy-supportive teaching practices improve student engagement, learning, persistence, and well-being across educational levels and cultural contexts.
 
 > [!ask-yourself-this]
 > Among the motivational frameworks surveyed — SDT, Achievement Goal Theory, Self-Efficacy Theory, Expectancy-Value Theory — which do you find most intuitively compelling? And in what ways does your intuitive preference reflect your own motivational history? SDT would predict that people who have experienced high autonomy support will find organismic explanations more resonant, while those in highly controlling environments may find reinforcement-based explanations more familiar.
@@ -395,11 +395,11 @@ First, the cross-cultural evidence has substantially strengthened the universali
 
 ### The Need Satisfaction Mechanism
 
-The central mechanistic claim of SDT is that social-contextual factors exert their effects on motivation, development, and well-being through a single mediating pathway: their impact on the satisfaction and frustration of [[basic-psychological-needs]]. This claim provides SDT with both its explanatory power and its vulnerability: if the need satisfaction mechanism is correct, the theory offers a parsimonious explanation of an enormous range of phenomena; if it is incorrect or incomplete, the theory's entire architecture is compromised.
+The central mechanistic claim of SDT is that social-contextual factors exert their effects on motivation, development, and well-being through a single mediating pathway: their impact on the satisfaction and frustration of [[Basic Psychological Needs]]. This claim provides SDT with both its explanatory power and its vulnerability: if the need satisfaction mechanism is correct, the theory offers a parsimonious explanation of an enormous range of phenomena; if it is incorrect or incomplete, the theory's entire architecture is compromised.
 
 The mechanism operates as follows. Social contexts — educational environments, workplaces, relationships, cultural practices — vary in the degree to which they support or thwart each of the three needs. An environment high in [[autonomy-support]] provides meaningful choices, acknowledges the learner's perspective, offers rationales for requests, and minimizes controlling language and surveillance. An environment high in competence support provides optimal challenge, clear structure, [[informational-feedback]] (rather than evaluative or controlling feedback), and opportunities for progressive skill development. An environment high in relatedness support provides warmth, genuine caring, reliable responsiveness, and inclusion.
 
-When the social context supports all three needs, the organism's inherent growth tendencies are activated. [[intrinsic-motivation]] flourishes, [[internalization]] proceeds naturally, and the individual develops toward greater integration, well-being, and [[autonomous-motivation|autonomous engagement]]. When the context frustrates needs — through controlling practices, excessive difficulty or excessive ease, rejection, and indifference — the growth tendency is blocked, and the organism engages defensive and compensatory processes: controlled regulation replaces autonomous regulation, [[need-frustration|need frustration]] produces anxiety and rigidity, and the individual's developmental trajectory is deflected toward poorer integration and diminished well-being.
+When the social context supports all three needs, the organism's inherent growth tendencies are activated. [[Intrinsic Motivation]] flourishes, [[internalization]] proceeds naturally, and the individual develops toward greater integration, well-being, and [[Autonomous Motivation|autonomous engagement]]. When the context frustrates needs — through controlling practices, excessive difficulty or excessive ease, rejection, and indifference — the growth tendency is blocked, and the organism engages defensive and compensatory processes: controlled regulation replaces autonomous regulation, [[Need Frustration|need frustration]] produces anxiety and rigidity, and the individual's developmental trajectory is deflected toward poorer integration and diminished well-being.
 
 > [!key-claim]
 > The need satisfaction mechanism is not merely correlational — SDT claims causal directionality: social environments cause motivation and well-being outcomes through their effects on need satisfaction. Experimental evidence supports this causal claim, particularly for CET predictions about the effects of rewards, deadlines, and surveillance on intrinsic motivation, and for interventions demonstrating that training teachers in autonomy-supportive practices produces measurable improvements in student motivation and learning.
@@ -408,7 +408,7 @@ When the social context supports all three needs, the organism's inherent growth
 
 The internalization of extrinsic regulations — the central concern of [[organismic-integration-theory]] — is perhaps the most practically significant mechanism in SDT, because it addresses the question of how learners come to value and self-endorse activities that are not inherently interesting or enjoyable. Since the vast majority of educational content cannot rely on intrinsic motivation alone, the conditions that support internalization are critical for educational effectiveness.
 
-SDT identifies three contextual conditions that support the movement from [[external-regulation]] toward [[identified-regulation]] and [[integrated-regulation]]:
+SDT identifies three contextual conditions that support the movement from [[External Regulation]] toward [[identified-regulation]] and [[Integrated Regulation]]:
 
 **Autonomy support** — Providing choice, acknowledging feelings and perspectives, and offering meaningful rationales for why a behavior or regulation is valuable. When learners understand why a practice matters and feel that their perspective is respected, they are more likely to endorse the regulation as their own. This is the most empirically robust of the three conditions.
 
@@ -417,11 +417,11 @@ SDT identifies three contextual conditions that support the movement from [[exte
 **Relational warmth** — Providing a context of genuine care and involvement. Internalization is more likely when the person or institution requesting compliance is someone the learner trusts and feels connected to. [[relationship-motivation-theory]] formalizes this insight: the quality of the relationship mediates the effectiveness of socialization practices.
 
 > [!insight]
-> The internalization mechanism reveals a fundamental tension in educational practice. The early stages of learning often require external structure, guidance, and even requirement — learners cannot always know what they need to learn before they learn it. But externally imposed requirements risk producing [[controlled-motivation]] rather than [[autonomous-motivation]]. SDT resolves this tension by arguing that external structure is not inherently controlling — it becomes controlling only when it is experienced as coercive, when rationales are absent, and when the learner's perspective is dismissed. Structure delivered with autonomy support facilitates internalization; the same structure delivered with controlling language and pressure produces compliance at best and defiance at worst.
+> The internalization mechanism reveals a fundamental tension in educational practice. The early stages of learning often require external structure, guidance, and even requirement — learners cannot always know what they need to learn before they learn it. But externally imposed requirements risk producing [[Controlled Motivation]] rather than [[Autonomous Motivation]]. SDT resolves this tension by arguing that external structure is not inherently controlling — it becomes controlling only when it is experienced as coercive, when rationales are absent, and when the learner's perspective is dismissed. Structure delivered with autonomy support facilitates internalization; the same structure delivered with controlling language and pressure produces compliance at best and defiance at worst.
 
 ### Cognitive Evaluation Theory: The Mediating Appraisals
 
-[[cognitive-evaluation-theory]] specifies the psychological processes through which external events affect intrinsic motivation. CET proposes that every external event has two aspects: a controlling aspect (which pressures behavior in a particular direction) and an informational aspect (which provides competence-relevant feedback). The [[functional-significance]] of the event — whether the individual primarily experiences it as controlling or informational — determines its motivational impact.
+[[cognitive-evaluation-theory-cet]] specifies the psychological processes through which external events affect intrinsic motivation. CET proposes that every external event has two aspects: a controlling aspect (which pressures behavior in a particular direction) and an informational aspect (which provides competence-relevant feedback). The [[functional-significance]] of the event — whether the individual primarily experiences it as controlling or informational — determines its motivational impact.
 
 When the controlling aspect is salient, the perceived locus of causality shifts from internal to external, and intrinsic motivation diminishes. This explains the [[undermining-effect]]: tangible rewards offered contingently for task engagement are typically experienced as controlling (the person feels they are doing the task for the reward rather than for its own sake), and intrinsic motivation decreases. When the informational aspect is salient, perceived competence is enhanced, and intrinsic motivation is maintained or increased. This explains why unexpected rewards, positive verbal feedback, and optimal challenge can enhance intrinsic motivation — they provide competence information without shifting the locus of causality.
 
@@ -469,7 +469,7 @@ The empirical evidence for [[autonomy-supportive-teaching-and-learning-environme
 
 ### Implications for Self-Regulation and Self-Direction
 
-The relationship between SDT and [[self-regulated-learning]] represents one of the most productive theoretical intersections in contemporary educational psychology. SDT provides the motivational foundation that explains when and why learners engage in self-regulation: autonomous motivation predicts more effective self-regulatory behavior, deeper [[metacognition|metacognitive]] engagement, and more adaptive responses to failure than controlled motivation. When learners regulate their behavior out of genuine interest and value ([[autonomous-motivation]]), they engage more willingly in effortful metacognitive monitoring, strategy selection, and self-evaluation. When they regulate out of external pressure or introjected guilt ([[controlled-motivation]]), their self-regulation is more fragile, rigid, and vulnerable to collapse under stress.
+The relationship between SDT and [[self-regulated-learning]] represents one of the most productive theoretical intersections in contemporary educational psychology. SDT provides the motivational foundation that explains when and why learners engage in self-regulation: autonomous motivation predicts more effective self-regulatory behavior, deeper [[metacognition|metacognitive]] engagement, and more adaptive responses to failure than controlled motivation. When learners regulate their behavior out of genuine interest and value ([[Autonomous Motivation]]), they engage more willingly in effortful metacognitive monitoring, strategy selection, and self-evaluation. When they regulate out of external pressure or introjected guilt ([[Controlled Motivation]]), their self-regulation is more fragile, rigid, and vulnerable to collapse under stress.
 
 > [!key-insight]
 > SDT and SRL are not competing theories — they are complementary theories operating at different levels of explanation. SDT explains *why* learners self-regulate (the motivational energetics), while SRL models such as [[zimmerman-srl-model|Zimmerman's cyclical model]] and [[Pintrich's-Integrative-SRL-Framework|Pintrich's framework]] explain *how* they self-regulate (the cognitive-metacognitive processes). A complete account of self-regulated learning requires both: the motivational conditions that activate self-regulatory processes (SDT) and the cognitive architecture through which self-regulation operates (SRL).
@@ -501,7 +501,7 @@ SDT's intellectual honesty demands engagement with the theory's significant limi
 
 Self-Determination Theory represents, in the present state of motivational science, the most comprehensive, architecturally unified, and empirically productive framework for understanding the relationship between human motivation, social contexts, and psychological outcomes. Its central contribution is not any single empirical finding but a metatheoretical reorientation — from the question "How much motivation does the person have?" to the question "What kind of motivation does the person have?" — and a parsimonious mechanistic framework (the basic need satisfaction pathway) through which this qualitative distinction can be traced from environmental conditions through psychological mediators to developmental and well-being outcomes.
 
-The theory's six mini-theories function as a coordinated system of explanation: [[cognitive-evaluation-theory]] explains the proximal effects of external events on intrinsic motivation; [[organismic-integration-theory]] explains the process by which extrinsic regulations are internalized; [[basic-psychological-needs-theory]] provides the unifying mechanism; [[causality-orientations-theory]] addresses individual differences; [[goal-contents-theory]] extends the framework to the content of goals; and [[relationship-motivation-theory]] addresses the relational contexts in which all of this occurs. Together, they provide a theoretical apparatus of remarkable scope — covering phenomena from the effects of deadlines on task persistence to the relationship between materialistic values and life satisfaction, from the motivational impact of teacher language to the developmental consequences of conditional parental regard.
+The theory's six mini-theories function as a coordinated system of explanation: [[cognitive-evaluation-theory-cet]] explains the proximal effects of external events on intrinsic motivation; [[organismic-integration-theory]] explains the process by which extrinsic regulations are internalized; [[basic-psychological-needs-theory]] provides the unifying mechanism; [[causality-orientations-theory]] addresses individual differences; [[goal-contents-theory]] extends the framework to the content of goals; and [[relationship-motivation-theory]] addresses the relational contexts in which all of this occurs. Together, they provide a theoretical apparatus of remarkable scope — covering phenomena from the effects of deadlines on task persistence to the relationship between materialistic values and life satisfaction, from the motivational impact of teacher language to the developmental consequences of conditional parental regard.
 
 ### The "So What?"
 
@@ -547,44 +547,44 @@ Several genuinely open questions define the productive frontier of SDT research:
 >
 > **Research Status:** The universality claim is supported by evidence from 100+ countries, though the [[WEIRD-Sample-Bias]] in the evidence base is acknowledged.
 >
-> **See also:** [[basic-psychological-needs]], [[autonomy-need]], [[competence-need]], [[relatedness-need]], [[need-satisfaction]]
+> **See also:** [[Basic Psychological Needs]], [[autonomy-need]], [[competence-need]], [[relatedness-need]], [[need-satisfaction]]
 
 > [!definition] **Autonomous Motivation (Deci & Ryan, 2000, 2008)**
 > Motivation experienced with a sense of volition, choice, and self-endorsement. Encompasses intrinsic motivation, identified regulation, and integrated regulation. Autonomous motivation is associated with deeper learning, greater persistence, enhanced well-being, and more adaptive cognitive and behavioral strategies compared to controlled motivation.
 >
 > **Boundary:** Autonomous motivation does not require that behavior be performed for fun or pleasure (that would be intrinsic motivation specifically). It requires only that the behavior is experienced as volitional and self-endorsed — consistent with the person's values and integrated self-structure.
 >
-> **See also:** [[autonomous-motivation]], [[intrinsic-motivation]], [[identified-regulation]], [[integrated-regulation]], [[autonomous-vs.-controlled-motivation]]
+> **See also:** [[Autonomous Motivation]], [[Intrinsic Motivation]], [[identified-regulation]], [[Integrated Regulation]], [[autonomous-vs.-controlled-motivation]]
 
 > [!definition] **Controlled Motivation (Deci & Ryan, 2000, 2008)**
 > Motivation experienced under pressure — either from external contingencies (rewards, punishments, deadlines) or internal pressures (guilt, anxiety, [[contingent-self-worth]], ego involvement). Encompasses external regulation and introjected regulation. Controlled motivation produces compliance and short-term performance but undermines deep learning, persistence, and well-being.
 >
 > **Boundary:** Controlled motivation is not "bad" in all circumstances — it can produce necessary behavior in the short term. The problem is that controlled motivation is fragile, produces poorer-quality engagement, and erodes with time unless internalization occurs.
 >
-> **See also:** [[controlled-motivation]], [[external-regulation]], [[introjected-regulation]], [[ego-involvement]], [[conditional-regard]]
+> **See also:** [[Controlled Motivation]], [[External Regulation]], [[introjected-regulation]], [[ego-involvement]], [[Conditional Regard]]
 
 > [!definition] **Internalization (Deci & Ryan, 1985; Ryan & Deci, 2000)**
-> The process through which externally regulated behaviors, values, or practices are progressively transformed from externally imposed demands into self-endorsed regulations integrated into the person's value system and identity. Internalization is the mechanism by which extrinsic motivation becomes increasingly autonomous along the [[internalization-continuum|regulatory continuum]].
+> The process through which externally regulated behaviors, values, or practices are progressively transformed from externally imposed demands into self-endorsed regulations integrated into the person's value system and identity. Internalization is the mechanism by which extrinsic motivation becomes increasingly autonomous along the [[internalization|regulatory continuum]].
 >
 > **Boundary:** Internalization is not mere compliance or behavioral conformity. It involves a genuine transformation in the psychological basis of regulation — from "I have to" through "I should" through "I value this" to "this is part of who I am."
 >
 > **Historical Development:** The concept draws on psychoanalytic and developmental theory but was reconceptualized by SDT as a natural, need-driven developmental process rather than a defensive mechanism.
 >
-> **See also:** [[internalization]], [[internalization-continuum]], [[organismic-integration-theory]], [[organismic-integration-tendency]]
+> **See also:** [[internalization]], [[internalization]], [[organismic-integration-theory]], [[organismic-integration-tendency]]
 
 > [!definition] **Cognitive Evaluation Theory (Deci, 1975; Deci & Ryan, 1985)**
 > The SDT mini-theory explaining how external events (rewards, feedback, surveillance, deadlines) affect intrinsic motivation through two cognitive mediators: perceived locus of causality and perceived competence. The [[functional-significance]] of events — whether they are experienced primarily as controlling or informational — determines their motivational impact.
 >
 > **Boundary:** CET applies specifically to intrinsic motivation — the motivation to engage in activities for their inherent interest and enjoyment. It does not directly address extrinsic motivation, which is the province of OIT.
 >
-> **See also:** [[cognitive-evaluation-theory]], [[functional-significance]], [[perceived-locus-of-causality]], [[undermining-effect]], [[informational-feedback]]
+> **See also:** [[cognitive-evaluation-theory-cet]], [[functional-significance]], [[perceived-locus-of-causality]], [[undermining-effect]], [[informational-feedback]]
 
 > [!definition] **Organismic Integration Theory (Deci & Ryan, 1985, 2000)**
 > The SDT mini-theory specifying the forms of extrinsic motivation arrayed along the internalization continuum from external regulation through introjected, identified, and integrated regulation, and identifying the social-contextual conditions (autonomy support, competence structure, relational warmth) that facilitate or impede movement along this continuum.
 >
 > **Boundary:** OIT addresses only extrinsic motivation — behavior performed for instrumental reasons. Intrinsic motivation (behavior performed for inherent interest) is not on the continuum; it is categorically different.
 >
-> **See also:** [[organismic-integration-theory]], [[internalization-continuum]], [[SDT's-Regulatory-Continuum]], [[external-regulation]], [[introjected-regulation]], [[identified-regulation]], [[integrated-regulation]]
+> **See also:** [[organismic-integration-theory]], [[internalization]], [[SDT's-Regulatory-Continuum]], [[External Regulation]], [[introjected-regulation]], [[identified-regulation]], [[Integrated Regulation]]
 
 > [!definition] **Functional Significance (Deci, 1975; Deci & Ryan, 1985)**
 > The perceived meaning or salience of an external event with respect to its controlling versus informational aspects. The same objective event (e.g., positive performance feedback) can be experienced as primarily controlling (pressuring future behavior) or primarily informational (enhancing perceived competence), depending on contextual cues, delivery style, and the recipient's motivational orientation.
@@ -593,7 +593,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 >
 > **Operational Indicator:** Controlling functional significance is signaled by conditional language, surveillance, evaluation pressure, and external locus of causality. Informational functional significance is signaled by competence-relevant information, absence of performance pressure, and internal locus of causality.
 >
-> **See also:** [[functional-significance]], [[cognitive-evaluation-theory]], [[perceived-locus-of-causality]], [[informational-feedback]]
+> **See also:** [[functional-significance]], [[cognitive-evaluation-theory-cet]], [[perceived-locus-of-causality]], [[informational-feedback]]
 
 > [!definition] **Autonomy Support (Deci & Ryan, 2000; Reeve, 2006)**
 > A set of interpersonal behaviors and contextual conditions that support the basic psychological need for autonomy by providing meaningful choice, offering genuine rationales, acknowledging the learner's perspective and feelings, minimizing controlling language, and supporting initiative. Autonomy support is the most extensively researched contextual variable in SDT and the most robust predictor of autonomous motivation.
@@ -611,7 +611,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 >
 > **Research Status:** The satisfaction–frustration distinction has been validated through factor analysis and demonstrates unique predictive power for negative outcomes beyond what low need satisfaction accounts for.
 >
-> **See also:** [[need-frustration]], [[need-thwarting]], [[need-satisfaction]], [[satisfaction-frustration-asymmetry]]
+> **See also:** [[Need Frustration]], [[need-thwarting]], [[need-satisfaction]], [[satisfaction-frustration-asymmetry]]
 
 > [!definition] **Goal Contents (Kasser & Ryan, 1993, 1996)**
 > The substantive aspirations that people pursue, classified as either intrinsic (personal growth, community contribution, meaningful relationships, health) or extrinsic (wealth, fame, attractive appearance, social power). [[goal-contents-theory]] proposes that intrinsic goal contents are directly linked to basic need satisfaction, while extrinsic goal contents function as need substitutes that fail to deliver genuine well-being even when achieved.
@@ -634,7 +634,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 > [!person] **[[edward-deci]] (1942–2022)**
 > Co-founder of Self-Determination Theory. Professor of Psychology and Gowen Professor in the Social Sciences at the University of Rochester. Deci's groundbreaking 1971 experiments on the undermining effect of external rewards on intrinsic motivation launched the research program that would become SDT. His 1975 book *Intrinsic Motivation* and 1985 collaboration with Ryan (*Intrinsic Motivation and Self-Determination in Human Behavior*) established the foundational framework.
 >
-> **Lineage:** Influenced by [[Robert-White]]'s concept of [[effectance|effectance motivation]] and [[carl-rogers]]'s organismic psychology. Co-developed SDT with [[richard-ryan]]. Supervised and influenced [[maarten-vansteenkiste]], Christopher Niemiec, and numerous other SDT researchers.
+> **Lineage:** Influenced by [[Robert-White]]'s concept of [[effectance|effectance motivation]] and [[carl-rogers]]'s organismic psychology. Co-developed SDT with [[richard-ryan]]. Supervised and influenced [[Maarten Vansteenkiste]], Christopher Niemiec, and numerous other SDT researchers.
 >
 > **Relationship to Report:** Primary architect of the theoretical framework described in every section of this report.
 
@@ -645,8 +645,8 @@ Several genuinely open questions define the productive frontier of SDT research:
 >
 > **Relationship to Report:** Co-architect of SDT; responsible for much of the theory's philosophical depth and its extension to well-being and personality.
 
-> [!person] **[[maarten-vansteenkiste]] (1978–)**
-> Professor at Ghent University, Belgium. Leading figure in the second generation of SDT researchers. Major contributions include the formalization of [[need-frustration]] as distinct from low need satisfaction, the development of need satisfaction and frustration scales, and empirical work on the dark side of controlling motivation. Key contributor to the satisfaction–frustration asymmetry and its implications for educational practice.
+> [!person] **[[Maarten Vansteenkiste]] (1978–)**
+> Professor at Ghent University, Belgium. Leading figure in the second generation of SDT researchers. Major contributions include the formalization of [[Need Frustration]] as distinct from low need satisfaction, the development of need satisfaction and frustration scales, and empirical work on the dark side of controlling motivation. Key contributor to the satisfaction–frustration asymmetry and its implications for educational practice.
 >
 > **Lineage:** Trained within the SDT tradition; supervised by Willy Lens and collaborating extensively with [[bart-soenens]], Ryan, and Deci. Extended SDT's empirical reach to education, parenting, and clinical psychology.
 >
@@ -681,7 +681,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 > **Relationship to Report:** Historical precursor whose needs framework SDT both draws upon and supersedes through greater empirical rigor.
 
 > [!person] **[[carl-rogers]] (1902–1987)**
-> Developer of person-centered therapy and client-centered approach. Rogers's emphasis on the [[organismic-valuing-process]], unconditional positive regard, and the actualizing tendency directly influenced SDT's organismic metatheory, its concept of autonomous motivation, and its emphasis on the harmful effects of [[conditional-regard]] on internalization and self-integration.
+> Developer of person-centered therapy and client-centered approach. Rogers's emphasis on the [[organismic-valuing-process]], unconditional positive regard, and the actualizing tendency directly influenced SDT's organismic metatheory, its concept of autonomous motivation, and its emphasis on the harmful effects of [[Conditional Regard]] on internalization and self-integration.
 >
 > **Lineage:** Critical influence on [[edward-deci]] and [[richard-ryan]]. Rogers's therapeutic insights about the conditions for growth (genuineness, unconditional regard, empathic understanding) map directly onto SDT's need satisfaction conditions (autonomy support, relational warmth, competence structure).
 >
@@ -711,7 +711,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 >
 > **Why it matters:** If the asymmetry is genuine, environments must both remove thwarting conditions AND actively provide supportive conditions — a fundamentally different design principle than a single-continuum model implies.
 >
-> **See also:** [[need-frustration]], [[need-satisfaction]], [[satisfaction-frustration-asymmetry]]
+> **See also:** [[Need Frustration]], [[need-satisfaction]], [[satisfaction-frustration-asymmetry]]
 
 > [!tension] **Three Needs vs. More?**
 > **Position A (SDT):** Autonomy, competence, and relatedness are the three (and only three) basic psychological needs. Proposed additional needs (novelty, security, beneficence, meaning) can be subsumed under or derived from the existing three.
@@ -722,17 +722,17 @@ Several genuinely open questions define the productive frontier of SDT research:
 >
 > **Why it matters:** If additional needs are genuine, SDT's parsimony is reduced but its explanatory scope potentially increases.
 >
-> **See also:** [[basic-psychological-needs]], [[basic-psychological-needs-theory]]
+> **See also:** [[Basic Psychological Needs]], [[basic-psychological-needs-theory]]
 
 > [!open-question] **The Internalization Continuum: Stages or Styles?**
 > Does the regulatory continuum described by OIT represent a developmental sequence through which individuals progress, or a set of distinct regulatory styles that coexist? The simplex pattern predicted by the stage interpretation receives inconsistent empirical support, and individuals appear to operate under multiple regulatory styles simultaneously across different behavioral domains.
 >
-> **See also:** [[organismic-integration-theory]], [[internalization-continuum]], [[SDT's-Regulatory-Continuum]]
+> **See also:** [[organismic-integration-theory]], [[internalization]], [[SDT's-Regulatory-Continuum]]
 
 > [!open-question] **Can Controlling Motivation Ever Serve Adaptive Purposes?**
 > SDT's framework implies that autonomous motivation is always preferable to controlled motivation. But in emergency situations, skill learning under time pressure, or contexts requiring rigid adherence to safety protocols, controlling contingencies may produce necessary behavior that autonomous motivation cannot guarantee. Is controlled motivation sometimes functionally adaptive — and if so, under what conditions?
 >
-> **See also:** [[controlled-motivation]], [[external-regulation]], [[introjected-regulation]]
+> **See also:** [[Controlled Motivation]], [[External Regulation]], [[introjected-regulation]]
 
 ---
 
@@ -882,7 +882,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 > - [ ] Are tasks optimally challenging (neither too easy nor too difficult)?
 > - [ ] Is feedback informational rather than evaluative?
 > - [ ] Is structure clear and well-scaffolded?
-> - [ ] Are opportunities for [[mastery-experience|mastery experiences]] available?
+> - [ ] Are opportunities for [[mastery-experience-vocabulary|mastery experiences]] available?
 > - [ ] Is [[process-praise]] used rather than person praise?
 >
 > **Relatedness:**
@@ -1030,7 +1030,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 > > **Suggested report type:** Focused Analysis Report
 > > **Prerequisites:** [[self-determination-theory]], [[autonomy-support]]
 >
-> > [!topic-idea] **2. [[need-frustration]] — The Dark Side of Motivational Environments**
+> > [!topic-idea] **2. [[Need Frustration]] — The Dark Side of Motivational Environments**
 > > **Description:** A focused analysis of the need frustration literature, the satisfaction–frustration asymmetry, the distinction between deprivation and frustration, and the downstream consequences for psychopathology, defensive functioning, and need substitutes.
 > > **Connection to this report:** The satisfaction–frustration asymmetry is introduced in Phase II but its full mechanistic and empirical treatment requires dedicated space.
 > > **Priority:** High
@@ -1044,7 +1044,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 > > **Suggested report type:** Foundational Report
 > > **Prerequisites:** [[self-determination-theory]], [[intrinsic-vs.-extrinsic-motivation]]
 >
-> > [!topic-idea] **4. [[internalization-continuum]] — The Developmental Process of Regulatory Integration**
+> > [!topic-idea] **4. [[internalization]] — The Developmental Process of Regulatory Integration**
 > > **Description:** A focused analysis of the internalization process: the developmental mechanisms, the empirical evidence for (and against) the simplex continuum structure, the conditions that support versus impede internalization, and practical implications for educational practice.
 > > **Connection to this report:** OIT's internalization continuum is central to SDT but its structural validity and developmental interpretation require dedicated scrutiny.
 > > **Priority:** High
@@ -1063,7 +1063,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 > > **Connection to this report:** The undermining effect is the empirical origin of SDT and is discussed in Phases III and IV but warrants deeper scrutiny given ongoing replication debates.
 > > **Priority:** Medium
 > > **Suggested report type:** Focused Analysis Report
-> > **Prerequisites:** [[self-determination-theory]], [[cognitive-evaluation-theory]]
+> > **Prerequisites:** [[self-determination-theory]], [[cognitive-evaluation-theory-cet]]
 >
 > > [!topic-idea] **7. SDT and Self-Regulated Learning Integration**
 > > **Description:** A synthesis report integrating SDT's motivational framework with SRL's cognitive-metacognitive framework, addressing how need satisfaction drives SRL engagement, how SRL processes feed back to need satisfaction, and implications for instructional design.
@@ -1072,7 +1072,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 > > **Suggested report type:** Comparative Synthesis Report
 > > **Prerequisites:** [[self-determination-theory]], [[self-regulated-learning]], [[metacognition]]
 >
-> > [!topic-idea] **8. [[conditional-regard]] and the Introjection Trap**
+> > [!topic-idea] **8. [[Conditional Regard]] and the Introjection Trap**
 > > **Description:** A focused analysis of conditional regard (parental and pedagogical), its relationship to introjection, contingent self-esteem, and ego involvement, and its long-term effects on internalization quality and self-integration.
 > > **Connection to this report:** Conditional regard is referenced in the context of controlling environments but its developmental mechanism and educational implications warrant dedicated treatment.
 > > **Priority:** Medium
@@ -1086,7 +1086,7 @@ Several genuinely open questions define the productive frontier of SDT research:
 > [!connections-and-links]
 > **Upstream Dependencies:**
 > - [[humanistic-psychology]] — SDT's organismic metatheory descends directly from the humanistic tradition, particularly Rogers's and Maslow's emphasis on inherent growth tendencies. This report depends on that philosophical foundation.
-> - [[intrinsic-motivation]] — The concept of intrinsic motivation, as investigated by Deci's early research, is the empirical origin point from which SDT grew. Understanding intrinsic motivation is prerequisite to understanding SDT's broader architecture.
+> - [[Intrinsic Motivation]] — The concept of intrinsic motivation, as investigated by Deci's early research, is the empirical origin point from which SDT grew. Understanding intrinsic motivation is prerequisite to understanding SDT's broader architecture.
 > - [[motivational-psychology]] — SDT is embedded within the broader discipline of motivational psychology and can only be fully appreciated in relation to the field's historical development from behaviorism through cognitive approaches to organismic frameworks.
 >
 > **Downstream Applications:**
@@ -1101,10 +1101,10 @@ Several genuinely open questions define the productive frontier of SDT research:
 > - [[flow-theory]] — Csikszentmihalyi's flow construct describes the phenomenological state that SDT predicts should occur when all three needs are simultaneously satisfied during an optimally challenging activity.
 >
 > **Strengthened Permanent Notes:**
-> - [[cognitive-evaluation-theory]] — This report provides the broader SDT context within which CET operates, strengthening the existing node.
+> - [[cognitive-evaluation-theory-cet]] — This report provides the broader SDT context within which CET operates, strengthening the existing node.
 > - [[organismic-integration-theory]] — This report provides comprehensive treatment of the internalization continuum that enhances the existing OIT node.
 > - [[basic-psychological-needs-theory]] — This report connects BPNT to the full SDT architecture and its empirical evidence base.
-> - [[need-frustration]] — This report positions need frustration within the broader satisfaction–frustration asymmetry and its design implications.
+> - [[Need Frustration]] — This report positions need frustration within the broader satisfaction–frustration asymmetry and its design implications.
 >
 > **Synthetic Observation:** The pattern of connections reveals that SDT functions as a *hub node* in the motivational architecture of this knowledge base — connecting downstream to educational practice (autonomy support, feedback, SDL), laterally to complementary motivational and cognitive frameworks (SRL, AGT, growth mindset, flow), and upstream to philosophical traditions (humanism, organicism) that ground its metatheoretical commitments. The density of these connections suggests that SDT may serve as the primary integrative framework for understanding motivation across this PKB's domains.
 

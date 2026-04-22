@@ -112,13 +112,13 @@ Generate a test report to confirm both sections appear with appropriate depth an
 > [!connections-and-links]
 > **Integration with Existing Cognitive Frameworks**
 >
-> This concept of [[Working Memory Constraints]] directly extends understanding of [[cognitive-load-theory]], 
+> This concept of [[Working Memory Constraints]] directly extends understanding of [[Cognitive Load Theory (CLT)]], 
 > revealing the mechanistic reason why extraneous load impairs learning—when working memory slots are consumed 
 > by irrelevant processing, insufficient capacity remains for schema construction. This relationship suggests 
-> that [[germane-load]] isn't merely "good" cognitive load but specifically the allocation of working memory 
+> that [[Cognitive Load Theory (CLT)]] isn't merely "good" cognitive load but specifically the allocation of working memory 
 > resources to schema-building processes.
 >
-> The connection to [[chunking]] becomes particularly illuminating—chunking functions as a working memory 
+> The connection to [[Chunk (Miller, 1956; Chase & Simon, 1973)]] becomes particularly illuminating—chunking functions as a working memory 
 > expansion technique by compressing multiple elements into single retrievable units. This explains why 
 > expertise involves not just knowledge quantity but knowledge organization: experts have chunked domain 
 > information into efficient structures that respect working memory limits.

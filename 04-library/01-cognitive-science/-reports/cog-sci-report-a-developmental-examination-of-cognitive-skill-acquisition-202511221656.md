@@ -123,7 +123,7 @@ This equation underscores the necessity of the Andragogical approach; without de
 > > [!topic-idea] [[double-loop-learning]]
 > > Investigate Argyris’s concept of not just solving the problem (single-loop) but questioning the underlying variables and policies that created the problem (double-loop).
 >
-> > [!topic-idea] [[cognitive-load-theory]]
+> > [!topic-idea] [[Cognitive Load Theory (CLT)]]
 > > A deeper dive into how intrinsic, extraneous, and germane load affects the design of instructional materials for adults.
 
 ### 5\. Phase 4: Synthesis & References

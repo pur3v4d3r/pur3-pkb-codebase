@@ -139,7 +139,7 @@ see-also:
   - "[[Robert Ennis Critical Thinking Framework]]"
   - "[[Richard Paul Elements of Reasoning]]"
   - "[[Eight-Year Study Progressive Education]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[dual-process-theory|Dual Process Theory]]"
   - "[[information-literacy|Information Literacy]]"
   - "[[21st Century Skills Frameworks]]"

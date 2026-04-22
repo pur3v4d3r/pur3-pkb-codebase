@@ -59,7 +59,7 @@ analytical-contributions:
   original-synthesis: 2
 
 related-concepts:
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[Semantic-Networks|Semantic Networks]]"
   - "[[spreading-activation|Spreading Activation]]"
   - "[[constructivism]]"
@@ -68,7 +68,7 @@ related-concepts:
   - "[[Knowledge-Organization-Systems|Knowledge Organization Systems]]"
   - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
   - "[[Expert-Knowledge-Organization|Expert Knowledge Organization]]"
-  - "[[chunking]]"
+  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
   - "[[assimilation-and-accommodation|Assimilation and Accommodation]]"
   - "[[Basic-Level-Categories|Basic-Level Categories]]"
 
@@ -99,7 +99,7 @@ This foundational experiment holds an unsettling but generative implication for 
 
 This report addresses the foundational synthesis question of the entire PKM/PKB Lifelong Learning Framework:
 
-**How should a Personal Knowledge Base be designed to align with the cognitive architecture of the human mind — drawing simultaneously on what cognitive psychology teaches about [[schema-theory|Schema Theory]] and memory organization, what knowledge management reveals about effective [[Knowledge-Organization-Systems|Knowledge Organization Systems]], and what [[constructivism]] insists about the active, relational nature of knowledge itself?**
+**How should a Personal Knowledge Base be designed to align with the cognitive architecture of the human mind — drawing simultaneously on what cognitive psychology teaches about [[schema-theory-and-knowledge-organization|Schema Theory]] and memory organization, what knowledge management reveals about effective [[Knowledge-Organization-Systems|Knowledge Organization Systems]], and what [[constructivism]] insists about the active, relational nature of knowledge itself?**
 
 This is not a question that any single discipline can answer alone. [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] tells us how the mind organizes knowledge internally, but says relatively little about how external systems should be designed to interface with that organization. [[Information-Science|Information Science]] and [[knowledge-management|Knowledge Management]] offer powerful organizational frameworks — taxonomies, ontologies, thesauri, faceted classifications — but lack a fully developed account of how these external structures interact with human cognitive architecture. [[constructivism]] insists that knowledge is actively constructed through experience, existing knowledge structures, and social context, but translates this insight incompletely into concrete design guidance for knowledge systems.
 
@@ -111,7 +111,7 @@ This report covers the cognitive and philosophical *foundations* of knowledge ar
 
 Three disciplinary traditions will be woven together throughout:
 
-- **[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]**, particularly [[schema-theory|Schema Theory]] (Bartlett, Rumelhart, Anderson) and [[Semantic-Networks|Semantic Networks]] (Collins & Loftus), which reveal how knowledge is architecturally organized in the human mind
+- **[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]**, particularly [[schema-theory-and-knowledge-organization|Schema Theory]] (Bartlett, Rumelhart, Anderson) and [[Semantic-Networks|Semantic Networks]] (Collins & Loftus), which reveal how knowledge is architecturally organized in the human mind
 - **[[Information-Science|Information Science]] and [[knowledge-management|Knowledge Management]]**, particularly [[Faceted-Classification|Faceted Classification]] (Ranganathan), [[Ontologies]], and [[Taxonomies]], which offer formal frameworks for organizing knowledge in external systems
 - **[[constructivism]]** in educational philosophy (Piaget, Vygotsky, Dewey), which articulates the active, relational, and generative nature of all genuine knowledge-making
 
@@ -165,7 +165,7 @@ Schemas are the mind's primary knowledge compression mechanism. When an expert h
 With these definitions in hand, the structural relationships between traditions begin to emerge.
 
 > [!cross-domain-connection] **Schemas and KOS Are the Same Phenomenon at Different Levels of Analysis**
-> The [[schema-theory|schema]] of cognitive psychology and the [[Knowledge-Organization-System|Knowledge Organization System]] of information science are, at a structural level, descriptions of the same phenomenon — organized knowledge — at two different levels of analysis: one internal (cognitive) and one external (artifactual). A schema is the mind's internal KOS; a KOS is an externalized schema. This structural parallel is not a metaphor; it reflects a genuine architectural equivalence. Both schemas and KOS frameworks organize knowledge through typed relationships between categorized concepts. Both enable efficient retrieval by providing organizational structure. Both constrain what can be represented and what connections can be made. The implication for PKB design is direct: the most effective PKBs are those whose external organizational system achieves *structural correspondence* with the user's internal cognitive schemas. A PKB designed in conflict with the user's cognitive architecture creates friction at every interaction; one designed in alignment becomes a natural extension of memory — a cognitive prosthetic rather than a cognitive obstacle.
+> The [[schema-theory-and-knowledge-organization|schema]] of cognitive psychology and the [[Knowledge-Organization-System|Knowledge Organization System]] of information science are, at a structural level, descriptions of the same phenomenon — organized knowledge — at two different levels of analysis: one internal (cognitive) and one external (artifactual). A schema is the mind's internal KOS; a KOS is an externalized schema. This structural parallel is not a metaphor; it reflects a genuine architectural equivalence. Both schemas and KOS frameworks organize knowledge through typed relationships between categorized concepts. Both enable efficient retrieval by providing organizational structure. Both constrain what can be represented and what connections can be made. The implication for PKB design is direct: the most effective PKBs are those whose external organizational system achieves *structural correspondence* with the user's internal cognitive schemas. A PKB designed in conflict with the user's cognitive architecture creates friction at every interaction; one designed in alignment becomes a natural extension of memory — a cognitive prosthetic rather than a cognitive obstacle.
 
 > [!key-claim] **Foundational Claim 1: Knowledge is Relational, Not Propositional**
 > Across all three disciplinary traditions examined here, the dominant consensus is that knowledge is not a collection of isolated facts or propositions but a structured web of relationships. Schemas are relational structures — their meaning resides in the connections between their slots, not in any single slot. Semantic networks are explicitly relational models — concepts without connections are not knowledge, merely vocabulary. Constructivism insists that meaning emerges from relationships between concepts, experiences, and prior knowledge — that an isolated proposition is cognitively inert until embedded in relational context. Faceted classification captures the multi-dimensional relational structure of any domain. A PKB designed as a collection of isolated notes — files that exist as documents rather than as nodes in a network — systematically misrepresents the nature of knowledge itself, and produces a system that stores information but does not support knowing.
@@ -350,7 +350,7 @@ In practice:
 The spreading activation mechanism and the constructivist account of meaning both imply that the cognitive value of a note is determined not by where it is filed but by how richly it is connected to the network. Filing provides navigational convenience; linking provides cognitive power. This does not mean folder structure is useless — it means it should be treated as a navigational aid, not as the primary knowledge organization system.
 
 - Every note should have a minimum of 2-3 outgoing typed links to related concept nodes
-- Links should be labeled with relationship types, either in the link text or in context: *"[[Confirmation-Bias-Myside-Bias|Confirmation Bias]] is a mechanism through which existing schemas resist [[accommodation]]; it provides the cognitive account of why [[desirable-difficulties|Desirable Difficulties]] are necessary"* — here, the relationship type is embedded in the prose
+- Links should be labeled with relationship types, either in the link text or in context: *"[[Confirmation-Bias-Myside-Bias|Confirmation Bias]] is a mechanism through which existing schemas resist [[accommodation]]; it provides the cognitive account of why [[Desirable Difficulties (Robert Bjork, 1994)|Desirable Difficulties]] are necessary"* — here, the relationship type is embedded in the prose
 - Orphan notes (notes with no links) represent information that has been stored but not yet integrated — they are a priority for development, not a stable endpoint
 
 ### Design Principle 3: Write Notes for the Retrieving Self
@@ -432,7 +432,7 @@ The synthesis question posed in Phase I — *how should a PKB be designed to ali
 
 > [!original-synthesis] **The Cognitive Alignment Principle: An Original Framework for PKB Architecture**
 >
-> Integrating [[schema-theory|Schema Theory]], [[Semantic-Networks|Semantic Networks]], [[Expert-Knowledge-Organization|Expert Knowledge Organization]], [[Faceted-Classification|Faceted Classification]], and [[constructivism]] yields a framework that none of these disciplines states explicitly but all of them jointly imply. I call this the **[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]**:
+> Integrating [[schema-theory-and-knowledge-organization|Schema Theory]], [[Semantic-Networks|Semantic Networks]], [[Expert-Knowledge-Organization|Expert Knowledge Organization]], [[Faceted-Classification|Faceted Classification]], and [[constructivism]] yields a framework that none of these disciplines states explicitly but all of them jointly imply. I call this the **[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]**:
 >
 > *A Personal Knowledge Base achieves its maximum cognitive effectiveness when its external organizational structure achieves structural correspondence — cognitive alignment — with the user's internal knowledge architecture across three simultaneous dimensions.*
 >
@@ -478,13 +478,13 @@ The most important open questions for this foundational report:
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[schema-theory|Schema Theory]]** — The foundational cognitive structure around which this report's entire analysis orbits. Schema Theory not only explains how knowledge is mentally organized — it explains why organizational decisions that ignore its findings systematically underperform. Every subsequent report in this series builds on the schema concept established here, from the role of schemas in spaced repetition retrieval ([[06-science-of-remembering-pkm-framework-2026-03-13]]) to their restructuring through reflective practice ([[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]) to their development through deliberate difficulty ([[16-desirable-difficulties-by-design-pkm-framework-2026-03-14]]).
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — The foundational cognitive structure around which this report's entire analysis orbits. Schema Theory not only explains how knowledge is mentally organized — it explains why organizational decisions that ignore its findings systematically underperform. Every subsequent report in this series builds on the schema concept established here, from the role of schemas in spaced repetition retrieval ([[06-science-of-remembering-pkm-framework-2026-03-13]]) to their restructuring through reflective practice ([[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]) to their development through deliberate difficulty ([[16-desirable-difficulties-by-design-pkm-framework-2026-03-14]]).
 >
 > - **[[Semantic-Networks|Semantic Networks]] and [[spreading-activation|Spreading Activation]]** — The specific model of mental knowledge representation that makes the direct cognitive science case for linked, associative PKB architecture. The spreading activation mechanism described here becomes the explanatory foundation for retrieval practice design in [[06-science-of-remembering-pkm-framework-2026-03-13]] and for the value of cross-domain connection-making in [[21-dialectical-knowledge-building-pkm-framework-2026-03-15]].
 >
 > - **[[constructivism]]** — The philosophical commitment that meaning requires active construction, not passive reception, established here as a first-class design constraint for PKB architecture. This commitment directly informs [[03-constructing-understanding-pkm-framework-2026-03-13]], [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]], [[14-inquiry-based-knowledge-building-pkm-framework-2026-03-14]], and [[17-note-making-knowledge-construction-pkm-framework-2026-03-14]].
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** — Introduced by implication in this report (the assimilation-accommodation balance and the chunking mechanism both touch on cognitive load), this framework becomes central in [[02-architecture-of-learning-pkm-framework-2026-03-13]], which addresses how cognitive load constraints should shape individual note design and PKB interaction patterns.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** — Introduced by implication in this report (the assimilation-accommodation balance and the chunking mechanism both touch on cognitive load), this framework becomes central in [[02-architecture-of-learning-pkm-framework-2026-03-13]], which addresses how cognitive load constraints should shape individual note design and PKB interaction patterns.
 >
 > - **[[Expert-Knowledge-Organization|Expert Knowledge Organization]]** — Chi et al.'s research on principle-based vs. surface-feature organization establishes a benchmark and a direction for PKB design: toward expert knowledge architecture from the beginning, not just as an eventual destination. This theme recurs in [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] and [[10-scaffolding-and-fading-pkm-framework-2026-03-14]], which address how PKB structure should evolve with developing expertise.
 >
@@ -494,7 +494,7 @@ The most important open questions for this foundational report:
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[02-architecture-of-learning-pkm-framework-2026-03-13]]** — Builds directly on this report's schema theory and chunking foundations by adding [[cognitive-load-theory|Cognitive Load Theory]] and [[working-memory|Working Memory]] constraints to the design picture. Where Report 01 addresses the macro question of knowledge architecture (how should knowledge be organized?), Report 02 addresses the micro question of note design (how should individual notes be formatted and sized to fit within cognitive processing constraints?). The two reports together constitute the cognitive science foundation of the entire series.
+> - **[[02-architecture-of-learning-pkm-framework-2026-03-13]]** — Builds directly on this report's schema theory and chunking foundations by adding [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] and [[working-memory|Working Memory]] constraints to the design picture. Where Report 01 addresses the macro question of knowledge architecture (how should knowledge be organized?), Report 02 addresses the micro question of note design (how should individual notes be formatted and sized to fit within cognitive processing constraints?). The two reports together constitute the cognitive science foundation of the entire series.
 >
 > - **[[09-designing-the-learning-pkb-pkm-framework-2026-03-14]]** — The synthesis report that most directly builds on this one. Report 09 takes the Cognitive Alignment Principle developed here and translates it into a complete PKB structural design framework, integrating additional findings from Reports 02, 04, and 06. Report 01 is the theoretical source; Report 09 is the practical destination.
 >

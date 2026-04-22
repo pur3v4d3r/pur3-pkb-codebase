@@ -23,13 +23,13 @@ secondary_domains:
 related_concepts:
   - "[[self-determination-theory|Self-Determination Theory]]"
   - "[[basic-psychological-needs-theory|Basic Psychological Needs Theory]]"
-  - "[[intrinsic-motivation|Intrinsic Motivation]]"
+  - "[[Intrinsic Motivation|Intrinsic Motivation]]"
   - "[[extrinsic-motivation|Extrinsic Motivation]]"
-  - "[[internalization-continuum|Internalization Continuum]]"
+  - "[[internalization|Internalization Continuum]]"
   - "[[autonomy]]"
   - "[[Agency]]"
   - "[[organismic-integration-theory|Organismic Integration Theory]]"
-  - "[[cognitive-evaluation-theory|Cognitive Evaluation Theory]]"
+  - "[[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]]"
   - "[[humanistic-psychology|Humanistic Psychology]]"
   - "[[Cross-Cultural Universality]]"
   - "[[goal-contents-theory|Goal Contents Theory]]"
@@ -87,7 +87,7 @@ prerequisites:
 
 builds_on:
   - "[[Intrinsic Motivation Research — Deci 1971]]"
-  - "[[cognitive-evaluation-theory|Cognitive Evaluation Theory]]"
+  - "[[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]]"
   - "[[organismic-integration-theory|Organismic Integration Theory]]"
 
 related_critiques:
@@ -134,7 +134,7 @@ summary: "A first-principles deconstruction of Self-Determination Theory (Deci &
 
 Self-Determination Theory occupies a commanding position within motivational psychology. In the standard account, Deci and Ryan constructed a framework that unified decades of fragmented research on intrinsic and extrinsic motivation into a coherent, empirically productive whole. The central thesis is elegant: human beings are naturally active, growth-oriented organisms who, given supportive social conditions, will pursue activities for their inherent interest and satisfaction — a condition called intrinsic motivation. When social conditions are controlling or need-thwarting, this natural motivational tendency is suppressed, and people shift toward extrinsically regulated, lower-quality motivation or amotivation altogether.
 
-The theoretical architecture rests on three coordinated pillars. First, [[basic-psychological-needs-theory|Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[autonomy]], [[competence]], and [[relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[cognitive-evaluation-theory|Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[organismic-integration-theory|Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.
+The theoretical architecture rests on three coordinated pillars. First, [[basic-psychological-needs-theory|Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[autonomy]], [[competence]], and [[relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[cognitive-evaluation-theory-cet|Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[organismic-integration-theory|Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.
 
 > [!key-claim] **The Core SDT Proposition**
 > Human beings possess three innate, universal basic psychological needs — autonomy, competence, and relatedness. The satisfaction of these needs is the proximal cause of intrinsic motivation and psychological well-being; their frustration is the proximal cause of ill-being and controlled motivation. This causal relationship holds across cultures, developmental stages, and life domains.

@@ -121,7 +121,7 @@ related_concepts:
   - "[[emotional-granularity]]"
   - "[[predictive-processing]]"
   - "[[self-determination-theory]]"
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[Stoic-Philosophy]]"
   - "[[metacognition]]"
   - "[[Epistemic-Virtue]]"
@@ -310,7 +310,7 @@ The epistemic foundation tier establishes eight interconnected dimensions of the
 
 **R03 ([[report-03-the-motivated-mind|The Motivated Mind]])** — Addresses the motivational problem: why pursue truth when comfortable ignorance is easier? Synthesizes [[self-determination-theory]] with [[Stoic-Philosophy]], discovering that <span style='color: #FFC700;'>Prohairesis ≈ SDT Autonomy</span> — the Stoic concept of moral purpose structurally parallels the modern autonomy construct. The emergent insight of **Cognitive Vitality** names the self-sustaining motivational state that fuels continued epistemic engagement.
 
-**R04 ([[report-04-cognitive-scaffolding|Cognitive Scaffolding]])** — Synthesizes [[cognitive-load-theory]] and [[vygotsky|Vygotskian]] [[zone-of-proximal-development]]. Discovers the **Constructive Attentiveness** concept and a ZPD-Dewey homology showing that [[constructivism]] and CLT describe the same learning process from complementary angles.
+**R04 ([[report-04-cognitive-scaffolding|Cognitive Scaffolding]])** — Synthesizes [[Cognitive Load Theory (CLT)]] and [[vygotsky|Vygotskian]] [[zone-of-proximal-development]]. Discovers the **Constructive Attentiveness** concept and a ZPD-Dewey homology showing that [[constructivism]] and CLT describe the same learning process from complementary angles.
 
 **R05 ([[report-05-the-virtuous-reasoner|The Virtuous Reasoner]])** — The series' most elegant synthesis: five [[intellectual-virtues]] mapped systematically onto five categories of [[cognitive-bias]]. The <span style='color: #FFC700;'>**Bias-Virtue Correspondence**</span> makes ancient virtue epistemology operationally specific. Also introduces [[Prosoche]] (Stoic attention) as a master practice.
 
@@ -557,7 +557,7 @@ These concepts appear across the most reports and supporting documents, acting a
 
 ### Stage 2: Core Epistemic Architecture
 - **Read:** [[report-03-the-motivated-mind|R03]] → [[report-04-cognitive-scaffolding|R04]] → [[report-05-the-virtuous-reasoner|R05]] → [[report-06-taming-system-1|R06]] → [[report-07-the-self-directed-learner|R07]]
-- **Focus:** [[self-determination-theory|SDT]], [[cognitive-load-theory|CLT]], [[intellectual-virtues]], [[debiasing]], [[self-regulated-learning|SRL]]
+- **Focus:** [[self-determination-theory|SDT]], [[Cognitive Load Theory (CLT)|CLT]], [[intellectual-virtues]], [[debiasing]], [[self-regulated-learning|SRL]]
 - **Supporting:** [[ref-deci-ryan-self-determination-theory]], [[ref-vygotsky-mind-in-society]], [[ref-epictetus-discourses]]
 - **Outcome:** Operational understanding of how to cultivate good thinking habits
 

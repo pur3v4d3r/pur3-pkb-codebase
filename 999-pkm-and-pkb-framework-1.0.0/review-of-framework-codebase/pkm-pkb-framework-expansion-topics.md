@@ -106,7 +106,7 @@ builds_on:
 > [!further-exploration] High-Impact Extensions — Significantly Enhance Framework Value
 >
 > > [!topic-idea] [[Review Architecture Implementation — DP3 Operationalization]]
-> > **Gap Identified:** [[DP3: Review Architecture]] prescribes spaced, retrieval-based review but the series provides no concrete implementation for Obsidian. The [[Testing-Effect]] (d = 0.50) and [[spacing-effect]] are among the most robust findings in the series — they deserve the best tooling.
+> > **Gap Identified:** [[DP3: Review Architecture]] prescribes spaced, retrieval-based review but the series provides no concrete implementation for Obsidian. The [[Testing-Effect]] (d = 0.50) and [[Desirable Difficulties (Robert Bjork, 1994)]] are among the most robust findings in the series — they deserve the best tooling.
 > > **Where It Would Connect:** [[Report 06 — The Science of Remembering]], [[Report 16 — Desirable Difficulties by Design]], [[Report 20 — Retrieval-Enhanced Knowledge Networks]]
 > > **Estimated Effort:** <span style='color: #FFC700;'>Moderate</span>
 > > **Value Proposition:** Implements the single highest-evidence learning technique in the entire framework
@@ -127,8 +127,8 @@ builds_on:
 > > - Annual architecture review checklist
 >
 > > [!topic-idea] [[Calibration Tracker — DP5 Operationalization]]
-> > **Gap Identified:** [[DP5: Calibration Systems]] demands embedded confidence tracking and accuracy comparison. Without tooling, practitioners have no operational way to combat the [[fluency-illusion]] — the framework's identified universal failure mode.
-> > **Where It Would Connect:** [[Report 18 — Calibration & Epistemic Humility]], [[Report 30 — Future of PKM / AI-Enhanced Knowledge Building]], [[fluency-illusion]], [[dunning-kruger-effect]]
+> > **Gap Identified:** [[DP5: Calibration Systems]] demands embedded confidence tracking and accuracy comparison. Without tooling, practitioners have no operational way to combat the [[Fluency Illusion]] — the framework's identified universal failure mode.
+> > **Where It Would Connect:** [[Report 18 — Calibration & Epistemic Humility]], [[Report 30 — Future of PKM / AI-Enhanced Knowledge Building]], [[Fluency Illusion]], [[dunning-kruger-effect]]
 > > **Estimated Effort:** <span style='color: #FFC700;'>Moderate</span>
 > > **Value Proposition:** Operationalizes the anti-fluency-illusion mechanism that the framework identifies as most critical
 > > **Suggested Approach:**
@@ -138,7 +138,7 @@ builds_on:
 >
 > > [!topic-idea] [[Active Processing Workflow Templates — DP4 Operationalization]]
 > > **Gap Identified:** [[DP4: Active Processing Workflows]] requires that note creation include elaboration, generation, and synthesis prompts. Currently theoretical.
-> > **Where It Would Connect:** [[Report 17 — Note-Making as Knowledge Construction]], [[Report 03 — Constructing Understanding]], [[desirable-difficulties]]
+> > **Where It Would Connect:** [[Report 17 — Note-Making as Knowledge Construction]], [[Report 03 — Constructing Understanding]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 > > **Estimated Effort:** <span style='color: #27FF00;'>Brief</span>
 > > **Value Proposition:** Low-effort, high-impact — modifying Templater templates is quick and immediately impacts every new note created
 > > **Suggested Approach:**

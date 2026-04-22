@@ -120,17 +120,17 @@ key-distinctions:
 prerequisites:
   - "[[Motivation — Foundational Concepts]]"
   - "[[self-efficacy-theory|Self-Efficacy Theory]]"
-  - "[[attribution-theory|Attribution Theory]]"
+  - "[[Attribution (Heider, 1958)|Attribution Theory]]"
 
 related:
   - "[[self-determination-theory|Self-Determination Theory]]"
   - "[[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]]"
   - "[[Metacognition-&-Motivation|Metacognition & Motivation]]"
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[transfer-of-learning|Transfer of Learning]]"
-  - "[[schema-theory|Schema Theory]]"
+  - "[[schema-theory-and-knowledge-organization|Schema Theory]]"
   - "[[epistemic-curiosity|Epistemic Curiosity]]"
-  - "[[intrinsic-motivation|Intrinsic Motivation]]"
+  - "[[Intrinsic Motivation|Intrinsic Motivation]]"
 
 broader:
   - "[[achievement-motivation]]"
@@ -164,7 +164,7 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[attribution-theory|Attribution Theory]]"
+  - "[[Attribution (Heider, 1958)|Attribution Theory]]"
   - "[[self-efficacy-theory|Self-Efficacy Theory]]"
   - "[[intrinsic-vs.-extrinsic-motivation|Intrinsic vs. Extrinsic Motivation]]"
 
@@ -269,7 +269,7 @@ The report does not attempt an exhaustive review of every study in the field —
 
 A practitioner who understands AGT is equipped to do several things that a practitioner without this framework cannot do as well. They can diagnose the motivational climate of a learning environment and identify the goal signals it inadvertently transmits to learners. They can design tasks, feedback structures, and assessment systems that preferentially elicit goal orientations associated with deep learning and persistence. They can interpret student behaviour — avoidance of challenge, strategic effort withdrawal, a preference for easy tasks — not as character flaws but as rational adaptations to the goal structure the environment has created. And they can understand their own motivational tendencies, including the ways in which performance concerns can quietly undermine the quality of their own learning even when effort remains high.
 
-Beyond the practical payoff, AGT sits at the conceptual centre of a much broader network of ideas about how cognition and motivation interact. Understanding it sheds light on [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]], [[self-determination-theory|Self-Determination Theory]], [[attribution-theory|Attribution Theory]], and the psychology of [[intrinsic-motivation|Intrinsic Motivation]] in ways that make each of those frameworks richer and more precisely understood.
+Beyond the practical payoff, AGT sits at the conceptual centre of a much broader network of ideas about how cognition and motivation interact. Understanding it sheds light on [[growth-mindset-implicit-theories-of-intelligence|Growth Mindset]], [[self-determination-theory|Self-Determination Theory]], [[Attribution (Heider, 1958)|Attribution Theory]], and the psychology of [[Intrinsic Motivation|Intrinsic Motivation]] in ways that make each of those frameworks richer and more precisely understood.
 
 ### Roadmap
 
@@ -286,7 +286,7 @@ At the heart of Achievement Goal Theory lies a question that sounds obvious unti
 > [!definition] **Achievement Goal**
 > An achievement goal is a cognitive representation of the purpose a person is pursuing in an achievement context. It specifies what "success" means to the person, which in turn determines what counts as a competent performance, which tasks feel threatening or inviting, and which behaviours are rational responses to difficulty. Achievement goals are not merely preferences or wishes; they are organising frameworks that structure perception, attention, affect, and effort. The concept should not be confused with specific performance targets (e.g., "I want to score 90 on this test") — AGT goals are about the *type* of competence being sought, not the *level* of performance being targeted.
 
-The theory emerged from a fundamental observation about [[conceptions-of-ability|Conceptions of Ability]] — the implicit theories people hold about what ability is and how it works. [[john-g.-nicholls|John G. Nicholls]] (1978, 1984) was the first to systematically distinguish two radically different ways people conceptualise ability, and to show that these conceptions generate different motivational orientations.
+The theory emerged from a fundamental observation about [[conception-of-ability|Conceptions of Ability]] — the implicit theories people hold about what ability is and how it works. [[john-g.-nicholls|John G. Nicholls]] (1978, 1984) was the first to systematically distinguish two radically different ways people conceptualise ability, and to show that these conceptions generate different motivational orientations.
 
 ### Nicholls's Founding Distinction: Differentiated vs. Undifferentiated Ability
 
@@ -327,7 +327,7 @@ Ames also made a crucial contribution to the study of [[motivational-climate|Mot
 
 ### The Intellectual Genealogy
 
-AGT did not emerge from a vacuum. It developed in dialogue with several prior intellectual traditions. [[attribution-theory|Attribution Theory]], developed by [[bernard-weiner|Bernard Weiner]] (1972), had already established that the causes students attribute to their successes and failures (ability, effort, task difficulty, luck) shape their subsequent motivation. AGT deepened this by explaining why students make the attributions they do — their conception of ability determines what counts as evidence about the underlying causes of performance. [[intrinsic-motivation|Intrinsic Motivation]] research, particularly the work of [[edward-deci|Edward Deci]] and [[richard-ryan|Richard Ryan]] that would culminate in [[self-determination-theory|Self-Determination Theory]], had established that not all motivation is equivalent: autonomous, self-determined motivation sustains learning better than controlled, external motivation. AGT contributed a more granular account of how the *content* of a person's goals — the specific standard of competence they are pursuing — mediates these motivational processes. And [[carol-s.-dweck|Carol S. Dweck]]'s work on [[growth-mindset-implicit-theories-of-intelligence|Implicit Theories of Intelligence]] (entity vs. incremental theories) provided the cognitive substrate for understanding why individuals differ in their goal orientation tendencies — a thread we will follow in Phase IV.
+AGT did not emerge from a vacuum. It developed in dialogue with several prior intellectual traditions. [[Attribution (Heider, 1958)|Attribution Theory]], developed by [[bernard-weiner|Bernard Weiner]] (1972), had already established that the causes students attribute to their successes and failures (ability, effort, task difficulty, luck) shape their subsequent motivation. AGT deepened this by explaining why students make the attributions they do — their conception of ability determines what counts as evidence about the underlying causes of performance. [[Intrinsic Motivation|Intrinsic Motivation]] research, particularly the work of [[edward-deci|Edward Deci]] and [[richard-ryan|Richard Ryan]] that would culminate in [[self-determination-theory|Self-Determination Theory]], had established that not all motivation is equivalent: autonomous, self-determined motivation sustains learning better than controlled, external motivation. AGT contributed a more granular account of how the *content* of a person's goals — the specific standard of competence they are pursuing — mediates these motivational processes. And [[carol-s.-dweck|Carol S. Dweck]]'s work on [[growth-mindset-implicit-theories-of-intelligence|Implicit Theories of Intelligence]] (entity vs. incremental theories) provided the cognitive substrate for understanding why individuals differ in their goal orientation tendencies — a thread we will follow in Phase IV.
 
 > [!reflection] **Deepening Your Understanding**
 > 1. Which of these foundational distinctions — undifferentiated vs. differentiated ability, task vs. ego involvement, mastery vs. performance goals — most challenges an assumption you brought to this reading? What does that challenge reveal about your prior model of motivation?
@@ -382,7 +382,7 @@ The resulting *2×2 framework* crossed two dimensions — goal content (mastery 
 
 ### The 3×2 Model and Beyond
 
-[[andrew-j.-elliot|Andrew J. Elliot]], [[Kenji-Murayama|Kenji Murayama]], and [[Reinhard-Pekrun|Reinhard Pekrun]] (2011) proposed a further refinement: the *3×2 model*, which distinguishes not just mastery-based and performance-based competence standards but introduces a third category — *task-based* standards — yielding six goal types (task-approach, task-avoidance, self-approach, self-avoidance, other-approach, other-avoidance). The 3×2 model offers conceptual precision but has been less extensively validated and is not yet the dominant framework in the field.
+[[andrew-j.-elliot|Andrew J. Elliot]], [[Kenji Murayama|Kenji Murayama]], and [[Reinhard-Pekrun|Reinhard Pekrun]] (2011) proposed a further refinement: the *3×2 model*, which distinguishes not just mastery-based and performance-based competence standards but introduces a third category — *task-based* standards — yielding six goal types (task-approach, task-avoidance, self-approach, self-avoidance, other-approach, other-avoidance). The 3×2 model offers conceptual precision but has been less extensively validated and is not yet the dominant framework in the field.
 
 > [!insight] **The Pattern Across Frameworks**
 > Looking across the dichotomous, trichotomous, 2×2, and 3×2 models, a clear pattern emerges: theoretical progress in AGT has consistently been driven by two moves — finer-grained differentiation of the competence standard (what counts as "doing well") and the incorporation of fundamental motivational distinctions (approach vs. avoidance, task vs. self vs. other). Each refinement has clarified the empirical landscape by separating what earlier models conflated.
@@ -539,7 +539,7 @@ This framework does not excuse these behaviours, but it does *explain* them in w
 >
 > - **[[Metacognition-&-Critical-Thinking|Metacognition & Critical Thinking]]** — Critical thinking requires intellectual risk-taking: the willingness to question assumptions, to entertain uncomfortable possibilities, and to revise beliefs in light of evidence. All of these behaviours are more natural under mastery orientation than under performance orientation. In a performance-oriented environment, intellectual risk-taking is potentially costly (you might be wrong, publicly), while in a mastery-oriented environment it is potentially rewarding (you might learn something new).
 >
-> - **[[schema-theory|Schema Theory]]** — Schema formation and elaboration depend on the kind of deep processing that mastery goals preferentially support. When learners are focused on understanding rather than performance, they are more likely to engage in the effortful assimilation and accommodation that schema development requires. This connection suggests that schema formation is not merely a cognitive process but a motivationally conditioned one — the conditions under which deep learning occurs are also the conditions that AGT identifies as mastery-conducive.
+> - **[[schema-theory-and-knowledge-organization|Schema Theory]]** — Schema formation and elaboration depend on the kind of deep processing that mastery goals preferentially support. When learners are focused on understanding rather than performance, they are more likely to engage in the effortful assimilation and accommodation that schema development requires. This connection suggests that schema formation is not merely a cognitive process but a motivationally conditioned one — the conditions under which deep learning occurs are also the conditions that AGT identifies as mastery-conducive.
 >
 > - **[[critical-thinking-in-education|Critical Thinking in Education]]** — Instructional approaches that aim to develop critical thinking are unlikely to succeed in performance-climate environments, because critical thinking requires the very intellectual behaviours — challenge engagement, error tolerance, cognitive risk — that performance-avoidance goals suppress. This suggests that critical thinking pedagogy and motivational climate design are not separate problems but deeply interconnected aspects of a single design challenge.
 >

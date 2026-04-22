@@ -4312,7 +4312,7 @@ extraction_summary:
 - [[cognitive-development-theory]]
 - [[Cognitive Distortions]]
 - [[cognitive-forcing-functions]]
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[Cognitive Model of Emotion]]
 - [[cognitive-psychology]]
 - [[cognitive-reappraisal]]
@@ -4660,7 +4660,7 @@ extraction_summary:
 | 23 | [[Metacognitive-Awareness-Inventory]] | — | — | ═════════════════════════════════════... | 541 |
 | 24 | [[epistemic-vigilance]] | — | — | ═════════════════════════════════════... | 542 |
 | 25 | [[dual-process-theory]] | — | — | ═════════════════════════════════════... | 543 |
-| 26 | [[cognitive-load-theory]] | — | — | ═════════════════════════════════════... | 544 |
+| 26 | [[Cognitive Load Theory (CLT)]] | — | — | ═════════════════════════════════════... | 544 |
 | 27 | [[argument-analysis]] | — | — | ═════════════════════════════════════... | 545 |
 | 28 | [[Decision-Making-Under-Uncertainty]] | — | — | ═════════════════════════════════════... | 546 |
 | 29 | [[Cognitive Biases and Debiasing]] | — | — | ═════════════════════════════════════... | 547 |
@@ -5969,7 +5969,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[cognitive-development-theory]]
 - [[Cognitive Distortions]]
 - [[cognitive-forcing-functions]]
-- [[cognitive-load-theory]]
+- [[Cognitive Load Theory (CLT)]]
 - [[Cognitive Model of Emotion]]
 - [[cognitive-psychology]]
 - [[cognitive-reappraisal]]

@@ -16,7 +16,7 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[extraneous-load]]"
-  - "[[germane-load]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[Intrinsic-Load]]"
 maturity: seedling
 confidence: speculative

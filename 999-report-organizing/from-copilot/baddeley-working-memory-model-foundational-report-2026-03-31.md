@@ -98,9 +98,9 @@ prerequisites:
   - "[[atkinson-shiffrin-multi-store-model]]"
 
 related:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive Load Theory (CLT)]]"
   - "[[schema-theory-and-learning]]"
-  - "[[retrieval-practice]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[levels-of-processing-theory]]"
   - "[[metacognition-in-learning]]"
   - "[[memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11]]"
@@ -122,19 +122,19 @@ see-also:
   - "[[Working-Memory-—-Baddeley-Model]]"
   - "[[Working-Memory.md]]"
   - "[[automaticity]]"
-  - "[[chunking]]"
+  - "[[Chunk (Miller, 1956; Chase & Simon, 1973)]]"
   - "[[dual-coding-theory]]"
   - "[[executive-function]]"
   - "[[elaborative-rehearsal]]"
 
 applied-in:
-  - "[[cognitive-load-theory]]"
-  - "[[intrinsic-cognitive-load]]"
-  - "[[extraneous-cognitive-load]]"
-  - "[[germane-cognitive-load]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[Cognitive Load Theory (CLT)]]"
+  - "[[Cognitive Load Theory (CLT)]]"
 
 expansion-topics:
-  - topic: "[[cognitive-load-theory]]"
+  - topic: "[[Cognitive Load Theory (CLT)]]"
     priority: high
   - topic: "[[attention-and-cognitive-control]]"
     priority: high
@@ -175,7 +175,7 @@ limitations-noted:
 
 [**Report-Scope**:: This report focuses specifically on the Baddeley multi-component model of working memory (1974, 2000), distinguishing it from broader memory systems treatments and from the competing Embedded Processes account of Cowan (2001).]
 
-Working memory occupies the conceptual centre of cognitive psychology. It is the cognitive workspace — the system by which the mind <span style='color: #FFC700;'>actively holds and manipulates information over seconds</span>, bridging perception, knowledge retrieval, and goal-directed behaviour. Understanding its architecture is foundational to understanding [[cognitive-load-theory]], [[Learning-Science]], instructional design, reading, mathematical reasoning, language acquisition, and clinical assessment of [[executive-function]] disorders.
+Working memory occupies the conceptual centre of cognitive psychology. It is the cognitive workspace — the system by which the mind <span style='color: #FFC700;'>actively holds and manipulates information over seconds</span>, bridging perception, knowledge retrieval, and goal-directed behaviour. Understanding its architecture is foundational to understanding [[Cognitive Load Theory (CLT)]], [[Learning-Science]], instructional design, reading, mathematical reasoning, language acquisition, and clinical assessment of [[executive-function]] disorders.
 
 The [[Baddeley's-Working-Memory-Model|Baddeley & Hitch (1974) model]] represents one of the most empirically productive and theoretically generative frameworks in the history of cognitive science. Unlike the static, unitary [[atkinson-shiffrin-multi-store-model|Atkinson-Shiffrin short-term store]] it replaced, Baddeley's model positions memory as an <span style='color: #FFC700;'>active, multi-component processing system</span> — what Baddeley later described as "a system for the temporary holding and manipulation of information during the performance of a range of cognitive tasks."
 
@@ -195,7 +195,7 @@ The investigation of short-term memory's role in cognition began earnestly in th
 
 [**Predecessor-Model**:: The Atkinson-Shiffrin Multi-Store Model (1968) treated the short-term store as unitary and passive, limiting its explanatory power for active cognitive processing — the primary limitation that motivated Baddeley & Hitch's reconceptualisation.]
 
-[[george-miller]]'s landmark 1956 paper, introducing the concept of the "[[Miller's-Magical-Number-Seven|magical number seven plus or minus two]]," established empirically that short-term memory capacity is severely limited — roughly 7 ± 2 items, or more precisely, 7 ± 2 *chunks* of meaningfully organised information. This finding highlighted that [[chunking]] — the organisation of individual items into larger meaningful units via [[long-term-memory]] — was a critical interface between working memory and prior knowledge.
+[[george-miller]]'s landmark 1956 paper, introducing the concept of the "[[Miller's-Magical-Number-Seven|magical number seven plus or minus two]]," established empirically that short-term memory capacity is severely limited — roughly 7 ± 2 items, or more precisely, 7 ± 2 *chunks* of meaningfully organised information. This finding highlighted that [[Chunk (Miller, 1956; Chase & Simon, 1973)]] — the organisation of individual items into larger meaningful units via [[long-term-memory]] — was a critical interface between working memory and prior knowledge.
 
 The crucial observation that motivated Baddeley and Hitch came from neuropsychological evidence and dual-task experiments. Patients with severely impaired short-term memory (e.g., patient KF, studied by Warrington & Shallice) showed largely intact [[long-term-memory]] acquisition, contradicting the Atkinson-Shiffrin claim that the STS was the obligatory gateway to long-term learning. The STS-as-bottleneck model was empirically untenable.
 
@@ -352,12 +352,12 @@ Randall Engle and colleagues' research programme reconceptualises [[working-memo
 
 ### The Relationship Between Working Memory and Long-Term Memory
 
-A fundamental theoretical tension concerns whether working memory and [[long-term-memory]] are separate systems or whether working memory is simply activated long-term memory. [[schema-theory-and-learning|Schema theory]] and [[cognitive-load-theory]] offer directly relevant perspectives: as expertise develops, complex schemas in [[long-term-memory]] can be treated as single chunks in working memory, dramatically reducing effective load.
+A fundamental theoretical tension concerns whether working memory and [[long-term-memory]] are separate systems or whether working memory is simply activated long-term memory. [[schema-theory-and-learning|Schema theory]] and [[Cognitive Load Theory (CLT)]] offer directly relevant perspectives: as expertise develops, complex schemas in [[long-term-memory]] can be treated as single chunks in working memory, dramatically reducing effective load.
 
 > [!principle-point] The Expertise-WM Interaction
-> [[expertise]] systematically alters how working memory operates: expert chess players, expert surgeons, and expert programmers effectively "offload" to [[long-term-memory]] by employing richly organised schemas. What occupies multiple working memory slots for a novice occupies one slot for an expert — a principle with profound implications for [[cognitive-load-theory]] and [[automaticity]].
+> [[expertise]] systematically alters how working memory operates: expert chess players, expert surgeons, and expert programmers effectively "offload" to [[long-term-memory]] by employing richly organised schemas. What occupies multiple working memory slots for a novice occupies one slot for an expert — a principle with profound implications for [[Cognitive Load Theory (CLT)]] and [[automaticity]].
 
-[**WM-LTM-Expertise-Interface**:: The progressive transfer of working memory load to [[long-term-memory]] schemas through expertise development — enabling experts to process information that would overwhelm working memory for novices, a phenomenon central to [[cognitive-load-theory]] and the [[expertise-reversal-effect]].]
+[**WM-LTM-Expertise-Interface**:: The progressive transfer of working memory load to [[long-term-memory]] schemas through expertise development — enabling experts to process information that would overwhelm working memory for novices, a phenomenon central to [[Cognitive Load Theory (CLT)]] and the [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]].]
 
 ---
 
@@ -408,14 +408,14 @@ Beyond articulatory rehearsal in the phonological loop, a more general **refresh
 
 ### Working Memory and Cognitive Load Theory
 
-The most educationally consequential application of Baddeley's model is [[cognitive-load-theory]] (Sweller, 1988), which operationalises the working memory bottleneck for instructional design. The three-load framework maps directly:
+The most educationally consequential application of Baddeley's model is [[Cognitive Load Theory (CLT)]] (Sweller, 1988), which operationalises the working memory bottleneck for instructional design. The three-load framework maps directly:
 
-- **[[intrinsic-cognitive-load]]**: The inherent complexity of the material — determined by the number of interacting elements that must be held simultaneously in working memory
-- **[[extraneous-cognitive-load]]**: Unnecessary working memory demand created by poor instructional design — formats that require searching, splitting attention, or redundant processing
-- **[[germane-cognitive-load]]**: Effort devoted to schema construction and [[long-term-memory]] integration — what the working memory is doing when it is being *useful* for learning
+- **[[Cognitive Load Theory (CLT)]]**: The inherent complexity of the material — determined by the number of interacting elements that must be held simultaneously in working memory
+- **[[Cognitive Load Theory (CLT)]]**: Unnecessary working memory demand created by poor instructional design — formats that require searching, splitting attention, or redundant processing
+- **[[Cognitive Load Theory (CLT)]]**: Effort devoted to schema construction and [[long-term-memory]] integration — what the working memory is doing when it is being *useful* for learning
 
 > [!what-this-does] CLT as Applied Working Memory Science
-> [[cognitive-load-theory]] is essentially the engineering application of Baddeley's model: it provides design principles for keeping extraneous load low (reducing wasteful processing), managing intrinsic load (sequencing, segmenting, worked examples), and optimising germane load (elaboration, variation, retrieval practice). Every major CLT effect — the worked example effect, the split-attention effect, the modality effect, the redundancy effect — can be traced to working memory architecture.
+> [[Cognitive Load Theory (CLT)]] is essentially the engineering application of Baddeley's model: it provides design principles for keeping extraneous load low (reducing wasteful processing), managing intrinsic load (sequencing, segmenting, worked examples), and optimising germane load (elaboration, variation, retrieval practice). Every major CLT effect — the worked example effect, the split-attention effect, the modality effect, the redundancy effect — can be traced to working memory architecture.
 
 [**CLT-WM-Link**:: Cognitive Load Theory's three-load framework (intrinsic, extraneous, germane) directly operationalises working memory architecture — intrinsic load reflects element interactivity demanding simultaneous WM retention; extraneous load arises from avoidable WM competition; germane load is WM deployed for schema construction in [[long-term-memory]].]
 
@@ -454,7 +454,7 @@ The existence of the phonological loop and the visuospatial sketchpad as separat
 > 1. **Empirical productivity**: The model has generated thousands of testable predictions and guided five decades of experimental research.
 > 2. **Component dissociation**: Domain-specific impairments in patients (verbal vs. spatial memory) strongly validate the component architecture.
 > 3. **Dual-task paradigm**: The experimental methodology has proven extraordinarily powerful and is now standard across cognitive science.
-> 4. **Applied reach**: [[cognitive-load-theory]], multimedia learning, neuropsychological assessment, educational psychology, and cognitive ageing research all derive principal organising constructs from Baddeley's framework.
+> 4. **Applied reach**: [[Cognitive Load Theory (CLT)]], multimedia learning, neuropsychological assessment, educational psychology, and cognitive ageing research all derive principal organising constructs from Baddeley's framework.
 
 ### Persistent Limitations and Criticisms
 
@@ -531,8 +531,8 @@ The model should be understood not as a final architecture but as a **working hy
 - **Baddeley, A. D. (2007)**. *Working Memory, Thought, and Action*. Oxford University Press. The definitive authoritative treatment by the model's primary architect.
 - **Cowan, N. (2001)**. The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*. Landmark re-evaluation of capacity estimates with extensive peer commentary.
 - **Engle, R. W., Tuholski, S. W., Laughlin, J. E., & Conway, A. R. A. (1999)**. Working memory, short-term memory, and general fluid intelligence. *Journal of Experimental Psychology: General*. Key paper establishing WM capacity as executive attention and its relationship to fluid intelligence.
-- **Miller, G. A. (1956)**. The magical number seven, plus or minus two. *Psychological Review*. Pre-Baddeley classic establishing capacity limits and [[chunking]].
-- **Sweller, J. (1988)**. Cognitive load during problem solving. *Cognitive Science*. The seminal application of working memory architecture to instructional design, founding [[cognitive-load-theory]].
+- **Miller, G. A. (1956)**. The magical number seven, plus or minus two. *Psychological Review*. Pre-Baddeley classic establishing capacity limits and [[Chunk (Miller, 1956; Chase & Simon, 1973)]].
+- **Sweller, J. (1988)**. Cognitive load during problem solving. *Cognitive Science*. The seminal application of working memory architecture to instructional design, founding [[Cognitive Load Theory (CLT)]].
 - **Gathercole, S. E., & Baddeley, A. D. (1993)**. *Working Memory and Language*. Psychology Press. Comprehensive treatment of phonological loop's role in language and development.
 
 ---
@@ -545,7 +545,7 @@ This report synthesises primary theoretical sources (Baddeley, 1974, 2000, 2007;
 
 ### D. 🔗 Related Topics for PKB Expansion
 
-1. **[[cognitive-load-theory]]**
+1. **[[Cognitive Load Theory (CLT)]]**
    - *Connection*: CLT is the direct instructional-design application of working memory capacity limits — intrinsic, extraneous, and germane loads map precisely onto Baddeley's architecture
    - *Depth Potential*: Full treatment of CLT's design principles (worked examples, split-attention, modality, redundancy effects) builds on this report as foundational prerequisite
    - *Knowledge Graph Role*: Primary downstream node — the most applied and educationally consequential consequence of working memory science

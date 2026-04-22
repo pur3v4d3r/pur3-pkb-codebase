@@ -82,7 +82,7 @@ Source: `= this.source`
 ---
 
 > [!summary] Abstract
-> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[organismic-integration-theory]], [[cognitive-evaluation-theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.
+> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[organismic-integration-theory]], [[cognitive-evaluation-theory-cet]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.
 
 ## Phase 1: Overture
 
@@ -178,7 +178,7 @@ Therefore, we must rigorously eliminate "Controlling" UI elements from our perso
 ## Phase 3: Connective Tissue
 
 > [!connections] Internal Network
-> * [[cognitive-load-theory]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.
+> * [[Cognitive Load Theory (CLT)]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.
 > * [[Luhmann’s Zettelkasten]]: The practical application of SDT. Autonomy (no topic silos), Competence (writing as understanding), Relatedness (communication partner).
 > * [[metacognition]]: The awareness of one's own learning process is essential for *Integrated Regulation*. We must be aware of *why* we are noting to align it with the self.
 > * [[Zeigarnik Effect]]: Open loops create tension. Autonomy allows us to close loops that don't matter and focus on those that drive curiosity.

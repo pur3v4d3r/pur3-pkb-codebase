@@ -61,7 +61,7 @@ key-distinctions: ["Performance vs. Mastery Goals", "Intention vs. Action", "Goa
 prerequisites: ["[[self-regulated-learning]]", "[[goal-setting-theory]]", "[[metacognition]]"]
 related: ["[[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning]]", "[[self-determination-theory]]", "[[achievement-goal-theory]]", "[[self-efficacy]]", "[[metacognitive-regulation]]"]
 broader: ["[[motivational-psychology]]"]
-narrower: ["[[forethought-phase]]", "[[implementation-intention]]"]
+narrower: ["[[forethought-phase]]", "[[goal-intention]]"]
 see-also: ["[[habit-formation]]", "[[executive-function]]", "[[growth-mindset]]"]
 builds-on: ["[[goal-setting-theory]]", "[[self-efficacy]]"]
 enables: ["[[deliberate-practice]]", "[[self-directed-learning]]"]
@@ -77,7 +77,7 @@ callout_count: "48"
 
 # LEARNING PATHWAYS
 expansion-topics:
-  - topic: "[[implementation-intention]]"
+  - topic: "[[goal-intention]]"
     description: "Peter Gollwitzer's if-then planning research"
     priority: "high"
   - topic: "[[deliberate-practice]]"
@@ -101,7 +101,7 @@ connection-strength:
 # Goal-Setting and Self-Regulated Learning: How Intentions Become Actions
 
 > [!abstract] Report Overview
-> This foundational report provides a comprehensive, graduate-level treatment of the relationship between goal-setting and self-regulated learning (SRL), with particular attention to the mechanisms that transform intention into sustained action. The report examines foundational theories — including [[goal-setting-theory|Locke and Latham's goal-setting theory]], [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's SRL cycle]], and [[implementation-intention|Gollwitzer's implementation intentions]] — and integrates them with contemporary motivational frameworks including [[self-determination-theory|Self-Determination Theory]] and [[achievement-goal-theory]]. Central to the analysis is a problem that has occupied psychologists, educators, and practitioners for decades: why do people frequently fail to act on intentions they genuinely hold? The report maps the cognitive, motivational, volitional, and metacognitive architecture through which goals become enacted behaviors, identifies the critical failure points where intention decouples from action, and synthesizes prescriptions for designing learning environments and personal systems that close the intention-action gap. Across eight major sections and a substantial appendix, the report develops the thesis that effective self-regulated learning is neither a personality trait nor a fixed cognitive capacity, but a dynamically assembled system of interacting processes — and that understanding how goals function within that system is prerequisite to improving it. The report is written for learners who already possess foundational familiarity with [[metacognition|metacognitive concepts]] and [[self-regulated-learning|self-regulated learning]] and who seek a rigorous, integrative analysis. Approximately 15,000 words.
+> This foundational report provides a comprehensive, graduate-level treatment of the relationship between goal-setting and self-regulated learning (SRL), with particular attention to the mechanisms that transform intention into sustained action. The report examines foundational theories — including [[goal-setting-theory|Locke and Latham's goal-setting theory]], [[Zimmerman's-Cyclical-Model-of-Self-Regulated-Learning|Zimmerman's SRL cycle]], and [[goal-intention|Gollwitzer's implementation intentions]] — and integrates them with contemporary motivational frameworks including [[self-determination-theory|Self-Determination Theory]] and [[achievement-goal-theory]]. Central to the analysis is a problem that has occupied psychologists, educators, and practitioners for decades: why do people frequently fail to act on intentions they genuinely hold? The report maps the cognitive, motivational, volitional, and metacognitive architecture through which goals become enacted behaviors, identifies the critical failure points where intention decouples from action, and synthesizes prescriptions for designing learning environments and personal systems that close the intention-action gap. Across eight major sections and a substantial appendix, the report develops the thesis that effective self-regulated learning is neither a personality trait nor a fixed cognitive capacity, but a dynamically assembled system of interacting processes — and that understanding how goals function within that system is prerequisite to improving it. The report is written for learners who already possess foundational familiarity with [[metacognition|metacognitive concepts]] and [[self-regulated-learning|self-regulated learning]] and who seek a rigorous, integrative analysis. Approximately 15,000 words.
 
 > [!schema-activation] Activating Prior Knowledge: What You Already Know
 > Before engaging with this report, consider what existing knowledge you bring to the intersection of goals and learning. You have almost certainly studied some version of [[metacognition]] — the capacity to monitor and regulate your own cognition. You may have encountered [[self-efficacy]] through Bandura's social cognitive theory, or explored how [[growth-mindset]] shapes responses to challenge. You may have used the [[zimmerman-srl-model]] in educational contexts, or applied [[goal-setting-theory]] in performance management.
@@ -150,7 +150,7 @@ Beyond the Rubicon framework, three additional mechanisms account for the persis
 
 **1. Competing intentions and the priority problem.** Human cognitive systems carry multiple simultaneous intentions at varying levels of activation. An intention to study calculus competes for mental resources and behavioral time against an intention to respond to messages, to rest, to pursue leisure, and so on. In the absence of explicit priority structures and implementation plans, higher-salience, lower-resistance alternatives tend to crowd out lower-salience, higher-resistance intentions — even when the latter have been sincerely endorsed at a reflective level. [[executive-function]] research shows that inhibitory control — the capacity to suppress competing impulses in service of a distal intention — is one of the strongest individual-difference predictors of academic achievement and professional performance.
 
-**2. Intention decay and the forgetting problem.** Intentions formed in an energized motivational state frequently decay before action opportunities arise. This is distinct from motivational change: the individual may still endorse the goal but simply fail to activate the relevant intention at the moment when action is possible. Memory research indicates that intentions function as prospective memory tasks — they need to be retrieved at the appropriate time and context — and that without specific encoding of temporal-contextual cues, this retrieval is highly unreliable. [[implementation-intention|Implementation intentions]] address this directly by binding the intention to specific cues.
+**2. Intention decay and the forgetting problem.** Intentions formed in an energized motivational state frequently decay before action opportunities arise. This is distinct from motivational change: the individual may still endorse the goal but simply fail to activate the relevant intention at the moment when action is possible. Memory research indicates that intentions function as prospective memory tasks — they need to be retrieved at the appropriate time and context — and that without specific encoding of temporal-contextual cues, this retrieval is highly unreliable. [[goal-intention|Implementation intentions]] address this directly by binding the intention to specific cues.
 
 **3. Action initiation difficulty and the threshold problem.** Even when an intention remains active and competing demands are controlled, the threshold energy required to initiate a new, complex behavior may exceed what is available at the moment of action opportunity. This is particularly acute for tasks perceived as cognitively demanding or emotionally aversive. [[self-efficacy]] — one's judgment of capability to execute the behavior — functions partly as a dynamic threshold regulator: high self-efficacy lowers the activation threshold for effortful approach behavior, while low self-efficacy raises it. The practical implication is that goal pursuit demands not only a strong intention but a self-efficacy belief robust enough to overcome the initiation threshold.
 
@@ -291,7 +291,7 @@ Zimmerman identifies two primary subprocesses in Self-Reflection: **self-judgmen
 
 **Self-judgment** encompasses self-evaluation (comparing one's performance against the goal standard) and causal attribution (explaining why performance was at the level it was). Self-evaluation is straightforward: it produces the discrepancy signal that feeds back into Forethought goal-setting for the next cycle. What is less straightforward, and enormously consequential, is the attributional process.
 
-[[attribution-theory]], developed by [[bernard-weiner|Weiner]] and extended in the SRL context, demonstrates that how a learner *explains* their performance outcomes matters as much as the outcomes themselves for subsequent motivation and regulatory behavior. Attributions vary along three dimensions: **locus** (internal vs. external), **stability** (stable vs. unstable), and **controllability** (controllable vs. uncontrollable). Attributing failure to low ability (internal, stable, uncontrollable) is devastating to motivation and self-efficacy; attributing the same failure to insufficient strategy use (internal, unstable, controllable) preserves self-efficacy and generates an actionable inference: change the strategy.
+[[Attribution (Heider, 1958)]], developed by [[bernard-weiner|Weiner]] and extended in the SRL context, demonstrates that how a learner *explains* their performance outcomes matters as much as the outcomes themselves for subsequent motivation and regulatory behavior. Attributions vary along three dimensions: **locus** (internal vs. external), **stability** (stable vs. unstable), and **controllability** (controllable vs. uncontrollable). Attributing failure to low ability (internal, stable, uncontrollable) is devastating to motivation and self-efficacy; attributing the same failure to insufficient strategy use (internal, unstable, controllable) preserves self-efficacy and generates an actionable inference: change the strategy.
 
 [**Attributional-Retraining**:: An intervention approach that targets maladaptive causal attributions — particularly failure attributed to fixed ability — and redirects them toward controllable, unstable causes such as effort, strategy selection, or environmental factors. Research shows attributional retraining improves persistence, self-efficacy, and academic performance independently of actual competence gains.]
 
@@ -334,12 +334,12 @@ Action orientation is not equivalent to emotional suppression or insensitivity. 
 
 ### Implementation Intentions: The If-Then Technology of Volition
 
-The most empirically validated practical tool for bridging the intention-action gap emerged from Gollwitzer's research program on [[implementation-intention|implementation intentions]]. The core finding is strikingly robust: when an individual specifies not only *what* they intend to do (a goal intention) but also *when, where, and how* they will do it in an explicit "if-then" format — "**If** situation X arises, **then** I will perform behavior Y" — the probability of intention enactment increases dramatically, often doubling completion rates compared to goal intentions alone.
+The most empirically validated practical tool for bridging the intention-action gap emerged from Gollwitzer's research program on [[goal-intention|implementation intentions]]. The core finding is strikingly robust: when an individual specifies not only *what* they intend to do (a goal intention) but also *when, where, and how* they will do it in an explicit "if-then" format — "**If** situation X arises, **then** I will perform behavior Y" — the probability of intention enactment increases dramatically, often doubling completion rates compared to goal intentions alone.
 
 > [!definition] Implementation Intention
 > **Implementation Intention** (Gollwitzer, 1999): A planning strategy that specifies the situation-behavior link for goal enactment in "if-then" format: "If [critical situational cue], then [goal-directed response]." The mechanism is prospective memory automatization: by pre-linking the behavioral response to a specific situational cue at encoding, the detection of that cue at retrieval automatically activates the intended behavior without requiring conscious deliberation. This bypasses the effortful access problem that causes non-implementation of mere goal intentions.
 >
-> Boundary conditions: Implementation intentions are most effective for goals with high personal commitment, for behaviors where the critical cue is reliably detectable, and for learners who do not already possess strong implementation habits for those behaviors. See: [[implementation-intention]], [[Gollwitzer-Implementation-Intention]]
+> Boundary conditions: Implementation intentions are most effective for goals with high personal commitment, for behaviors where the critical cue is reliably detectable, and for learners who do not already possess strong implementation habits for those behaviors. See: [[goal-intention]], [[Gollwitzer-Implementation-Intention]]
 
 The mechanism underlying this remarkable effect is prospective memory automatization. When an implementation intention is formed, the mental representation of the situation ("when it is 9pm and I have finished dinner") becomes highly activated and linked to the behavioral response ("I will open my textbook and complete twenty practice problems"). When the situational cue is subsequently encountered, this high activation automatically triggers the intended response — without the effortful, deliberate recollection process that fails under conditions of fatigue, distraction, or competing demands. The behavior becomes, in a sense, cue-triggered rather than will-triggered.
 
@@ -354,7 +354,7 @@ Habit research (Lally, Wood, Verplanken) establishes that new behaviors become h
 The full picture of volitional control thus integrates multiple layers: Kuhl's action orientation as a dispositional characteristic that can be trained; implementation intentions as tactical specification tools; emotion regulation as the capacity to prevent affective states from consuming cognitive resources; and habit formation as the long-horizon infrastructure that progressively reduces volitional demand as behaviors become automatized. Each layer addresses a different point in the volitional arc from goal commitment to behavioral completion.
 
 > [!section-summary] Section Summary
-> Volitional control occupies the critical space between goal formation and goal attainment, protecting goal pursuit against the psychological forces — competing motivations, affective interference, decision fatigue, environmental distraction — that convert sincere intentions into failed follow-throughs. The key mechanisms are: Kuhl's action-vs-state orientation (managing attentional focus under difficulty), [[implementation-intention|implementation intentions]] (pre-specifying situational triggers to automatize goal-directed behavior), emotion regulation strategies (reappraisal to maintain access to goal-directed cognition under stress), and progressive habit formation (transferring volitional demands to automatized cue-response structures). These mechanisms are not alternatives; they function as complementary layers of a volitional architecture.
+> Volitional control occupies the critical space between goal formation and goal attainment, protecting goal pursuit against the psychological forces — competing motivations, affective interference, decision fatigue, environmental distraction — that convert sincere intentions into failed follow-throughs. The key mechanisms are: Kuhl's action-vs-state orientation (managing attentional focus under difficulty), [[goal-intention|implementation intentions]] (pre-specifying situational triggers to automatize goal-directed behavior), emotion regulation strategies (reappraisal to maintain access to goal-directed cognition under stress), and progressive habit formation (transferring volitional demands to automatized cue-response structures). These mechanisms are not alternatives; they function as complementary layers of a volitional architecture.
 
 > [!reflection] Reflective Questions
 > 1. Kuhl's action orientation appears to be both a stable individual-difference variable and a situationally trainable state. What interventions most reliably produce lasting improvements in action orientation, and what is the mechanism of change?
@@ -394,7 +394,7 @@ The relationship between these operations and Zimmerman's SRL phases is directly
 [[paul-pintrich]]'s extension of SRL theory — [[Pintrich's-Integrative-SRL-Framework|Pintrich's integrative framework]] — elaborates this by locating metacognitive regulation within a broader four-area regulatory matrix that includes not only cognition but motivation/affect, behavior, and context. Pintrich's crucial contribution is demonstrating that learners regulate not only their cognitive processing but also their motivational states (by choosing specific goal framings, managing self-efficacy beliefs, and regulating task interest), their study behaviors (by managing time, effort, and study conditions), and their learning context (by seeking help, creating structure, eliminating distractions). SRL, in Pintrich's framework, is the regulatory orchestration of all four areas simultaneously — a task of enormous complexity that the metacognitive executive system must coordinate.
 
 > [!claude-insight] The Regulatory Hierarchy Problem
-> Metacognition is typically described as the "regulatory layer above cognition" — it monitors and controls cognitive processing. But this description raises a structural question that neither Flavell's nor Zimmerman's accounts fully address: what governs metacognition? If metacognitive monitoring can be inaccurate (as in the illusion of knowing), that inaccuracy itself is not detectable by the monitoring system that is doing the monitoring. There is a second-order calibration problem: the learner would need to monitor their own monitoring, which either regresses infinitely or bottoms out at some reflexively self-aware executive capacity that is not reducible to a "higher" monitoring level. The practical resolution — testing-based external calibration, deliberate error analysis, spaced self-testing — works precisely because it bypasses the endogenous monitoring system and uses performance outcomes as direct feedback. This is why [[retrieval-practice]] and [[spaced-repetition]] are so valuable from an SRL perspective: they provide metacognitive calibration that the learner's own introspective monitoring is structurally incapable of providing.
+> Metacognition is typically described as the "regulatory layer above cognition" — it monitors and controls cognitive processing. But this description raises a structural question that neither Flavell's nor Zimmerman's accounts fully address: what governs metacognition? If metacognitive monitoring can be inaccurate (as in the illusion of knowing), that inaccuracy itself is not detectable by the monitoring system that is doing the monitoring. There is a second-order calibration problem: the learner would need to monitor their own monitoring, which either regresses infinitely or bottoms out at some reflexively self-aware executive capacity that is not reducible to a "higher" monitoring level. The practical resolution — testing-based external calibration, deliberate error analysis, spaced self-testing — works precisely because it bypasses the endogenous monitoring system and uses performance outcomes as direct feedback. This is why [[Desirable Difficulties (Robert Bjork, 1994)]] and [[spaced-repetition]] are so valuable from an SRL perspective: they provide metacognitive calibration that the learner's own introspective monitoring is structurally incapable of providing.
 
 ### Developing Metacognitive Capacity
 
@@ -409,7 +409,7 @@ The instructional implication is that teaching *what* to learn (content) without
 
 > [!reflection] Reflective Questions
 > 1. The illusion of knowing corrupts the SRL cycle at the monitoring stage. What classroom or self-study design features most effectively expose and correct this illusion before it propagates into downstream regulatory failures?
-> 2. [[retrieval-practice]] functions partly as a metacognitive calibration device. What is its mechanism of calibration improvement, and are there conditions under which retrieval practice could produce overconfidence rather than accurate calibration?
+> 2. [[Desirable Difficulties (Robert Bjork, 1994)]] functions partly as a metacognitive calibration device. What is its mechanism of calibration improvement, and are there conditions under which retrieval practice could produce overconfidence rather than accurate calibration?
 > 3. Pintrich's four-area regulatory framework — cognition, motivation, behavior, context — implies that learners who regulate only their cognition while ignoring the affective and contextual dimensions will show characteristic failure modes. What do those failure modes look like, and what regulatory strategies address each?
 
 ---
@@ -597,7 +597,7 @@ Procedural goal improvement is not sufficient if motivational orientation is imp
 >
 > **Boundary Condition**: The challenge-calibration principle requires adjustment: in creative and research contexts, the "right" level of challenge cannot be set in advance because the difficulty of the problem is discovered through exploration. What can be calibrated is the expected rate of productive struggle versus breakthrough — setting realistic expectations for the difficulty-enjoyment ratio reduces premature discouragement.
 >
-> → **See also**: [[productive-failure]], [[intrinsic-motivation]], [[productive-struggle]]
+> → **See also**: [[Productive Failure]], [[Intrinsic Motivation]], [[productive-struggle]]
 
 ### Transfer Domain 3: Health Behavior Change and Habit Architecture
 
@@ -606,7 +606,7 @@ Procedural goal improvement is not sufficient if motivational orientation is imp
 >
 > **Application**: Implementation intentions are among the most effective behavioral interventions known for health behavior change — the empirical effect sizes for implementation intention interventions on physical activity, dietary change, and medical adherence are consistently in the medium-to-large range. The self-concordance principle is especially critical: health behavior change driven by intrinsic, autonomously regulated motivation (genuine care for wellbeing and vitality) shows dramatically higher 12-month maintenance rates than change driven by controlled motivation (doctor's orders, social pressure, appearance concerns), even when initial behavior change is equivalent. Addressing motivational quality from the outset of behavior change interventions — helping individuals connect health goals to genuinely valued outcomes — is a high-leverage design priority.
 >
-> → **See also**: [[habit-formation]], [[implementation-intention]], [[self-determination-theory]], [[intrinsic-motivation]]
+> → **See also**: [[habit-formation]], [[goal-intention]], [[self-determination-theory]], [[Intrinsic Motivation]]
 
 ### Transfer Domain 4: Organizational Learning and Team Performance
 
@@ -649,18 +649,18 @@ The guiding question posed in the Schema Activation section — *what makes the 
 
 > [!definition] Intention-Action Gap
 > **Intention-Action Gap**: The systematic failure of sincerely held behavioral intentions to translate into corresponding actions. Not a motivational deficit but an architectural one: the absence of specific cognitive and volitional structures (implementation intentions, action orientation, habit cues) that bridge aspiration and execution. Central to understanding why SRL cannot be reduced to motivation alone.
-> See also: [[implementation-intention]], [[self-regulated-learning]], [[Volitional-Control]]
+> See also: [[goal-intention]], [[self-regulated-learning]], [[Volitional-Control]]
 
 > [!definition] The Rubicon Model
 > **Rubicon Model of Action Phases** (Heckhausen & Gollwitzer): A four-phase account of how intentions progress to action — predecisional deliberation, postdecisional planning, actional behavior, and evaluative reflection. The "Rubicon" is the qualitative transition from open deliberation to committed implementation; failure to complete this transition is a primary mechanism of the intention-action gap.
-> See also: [[implementation-intention]], [[forethought-phase]], [[metacognitive-regulation]]
+> See also: [[goal-intention]], [[forethought-phase]], [[metacognitive-regulation]]
 
 > [!definition] Goal Specificity
 > **Goal Specificity**: The degree to which a goal provides a precise performance standard against which feedback can be evaluated. Specific goals produce higher performance than vague "do-your-best" instructions by enabling the feedback loop that drives regulatory adjustment. Necessary condition for effective [[metacognitive-monitoring]] and adaptive [[self-reflection-phase|self-reflection]].
 
 > [!definition] Goal Commitment
 > **Goal Commitment**: The determination to attain a goal and refusal to lower or abandon it despite obstacles. Functions as the primary moderator of the goal difficulty-performance relationship: the performance benefits of challenging goals are realized only when commitment remains high. Moderated by [[self-efficacy]], perceived goal importance, and degree of autonomous vs. controlled regulation.
-> See also: [[goal-setting-theory]], [[self-determination-theory]], [[implementation-intention]]
+> See also: [[goal-setting-theory]], [[self-determination-theory]], [[goal-intention]]
 
 > [!definition] Cyclical SRL Model
 > **Cyclical SRL Model** (Zimmerman): A three-phase recursive model of self-regulated learning — Forethought, Performance, and Self-Reflection — in which each cycle's outputs (especially attributional inferences) feed forward to shape the regulatory quality of subsequent cycles. The recursiveness explains why SRL capacity is compounding: each high-quality cycle improves subsequent cycles.
@@ -668,11 +668,11 @@ The guiding question posed in the Schema Activation section — *what makes the 
 
 > [!definition] Self-Efficacy
 > **Self-Efficacy** (Bandura): Belief in one's capability to execute the behaviors required to produce specific outcomes in a given domain. Operates as a dynamic threshold regulator for approach behavior: high efficacy lowers the activation threshold for effortful task engagement; low efficacy raises it. Influenced by mastery experiences, vicarious modeling, social persuasion, and physiological state.
-> See also: [[self-efficacy]], [[self-efficacy-theory]], [[albert-bandura]], [[attribution-theory]]
+> See also: [[self-efficacy]], [[self-efficacy-theory]], [[albert-bandura]], [[Attribution (Heider, 1958)]]
 
 > [!definition] Implementation Intention
 > **Implementation Intention** (Gollwitzer): An "if-then" planning strategy — "If [situational cue], then [goal-directed response]" — that automatizes intention enactment by creating prospective memory structures that trigger behavior upon cue detection without requiring deliberate recall. Meta-analytically, implementation intentions approximately double the enactment of intentions relative to goal intentions alone.
-> See also: [[implementation-intention]], [[habit-formation]], [[Volitional-Control]]
+> See also: [[goal-intention]], [[habit-formation]], [[Volitional-Control]]
 
 > [!definition] Mastery Goal Orientation
 > **Mastery Goal Orientation** (Dweck, Nicholls, Elliot): An achievement goal stance in which success is defined as development of personal competence and understanding. Produces deep processing, adaptive responses to failure (treating errors as informative rather than threatening), greater intrinsic interest, and sustained regulatory engagement. The motivationally optimal orientation for long-term learning across most educational and professional contexts.
@@ -680,19 +680,19 @@ The guiding question posed in the Schema Activation section — *what makes the 
 
 > [!definition] Autonomous Motivation
 > **Autonomous Motivation** (Deci & Ryan, SDT): Motivation experienced as self-initiated and self-endorsed, whether intrinsic (inherently interesting) or externally-grounded but genuinely internalized. Produces deeper engagement, greater persistence under adversity, more creative processing, and better wellbeing than controlled motivation, independently of goal difficulty or specificity.
-> See also: [[autonomous-motivation]], [[self-determination-theory]], [[intrinsic-motivation]], [[motivation-continuum]]
+> See also: [[Autonomous Motivation]], [[self-determination-theory]], [[Intrinsic Motivation]], [[motivation-continuum]]
 
 > [!definition] Metacognitive Calibration
 > **Metacognitive Calibration**: The accuracy of the correspondence between a learner's self-assessments of understanding/performance and their actual understanding/performance. Impaired in novice learners (the Dunning-Kruger mechanism); improved through externally sourced feedback devices (retrieval practice, error analysis, expert feedback) that bypass endogenous monitoring illusions.
-> See also: [[metacognition]], [[metacognitive-monitoring]], [[retrieval-practice]], [[spaced-repetition]]
+> See also: [[metacognition]], [[metacognitive-monitoring]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[spaced-repetition]]
 
 > [!definition] Attributional Retraining
 > **Attributional Retraining**: An intervention approach that redirects maladaptive causal attributions for failure — particularly fixed-ability attributions (internal, stable, uncontrollable) — toward controllable, unstable attributions (strategy, effort, approach). Produces improvements in persistence, self-efficacy, and academic performance independently of direct competence gains.
-> See also: [[attribution-theory]], [[growth-mindset]], [[self-reflection-phase]], [[learned-helplessness]]
+> See also: [[Attribution (Heider, 1958)]], [[growth-mindset]], [[self-reflection-phase]], [[learned-helplessness]]
 
 > [!definition] Self-Concordance
 > **Self-Concordance** (Sheldon & Elliot): The degree to which pursued goals are genuinely aligned with the learner's values, interests, and identity rather than adopted for controlled-regulatory reasons. Self-concordant goals receive greater sustained effort, generate need-satisfying attainment experiences, and sustain motivational investment across longer time horizons than non-self-concordant goals of equivalent procedural quality.
-> See also: [[self-concordance-model]], [[self-determination-theory]], [[autonomous-motivation]]
+> See also: [[self-concordance-model]], [[self-determination-theory]], [[Autonomous Motivation]]
 
 ---
 
@@ -714,7 +714,7 @@ The guiding question posed in the Schema Activation section — *what makes the 
 > **Legacy**: Most widely used SRL research measurement instrument (MSLQ); theoretical framework integrating motivation and metacognition.
 
 > [!person] Peter Gollwitzer (b. 1950)
-> **Primary Contribution**: Developed the Rubicon Model of action phases and the [[implementation-intention]] construct; provided the empirical foundation for volitional control in the intention-action gap literature.
+> **Primary Contribution**: Developed the Rubicon Model of action phases and the [[goal-intention]] construct; provided the empirical foundation for volitional control in the intention-action gap literature.
 > **Key Works**: "Implementation Intentions" (1999, *American Psychologist*); *Volition and Personality* (with Heckhausen, 1991).
 > **Intellectual lineage**: Built on Heckhausen's action control research; Gollwitzer's implementation intention framework has generated 200+ empirical studies across health, education, and performance domains.
 
@@ -881,7 +881,7 @@ The guiding question posed in the Schema Activation section — *what makes the 
 > - [[metacognition]] — The epistemic infrastructure enabling regulatory monitoring
 > - [[self-determination-theory]] — The motivational theory of autonomous vs. controlled regulation
 > - [[achievement-goal-theory]] — The framework distinguishing mastery, performance-approach, and performance-avoidance orientations
-> - [[attribution-theory]] — The account of how causal explanations for outcomes shape subsequent motivation
+> - [[Attribution (Heider, 1958)]] — The account of how causal explanations for outcomes shape subsequent motivation
 
 > [!connections-and-links] Downstream Applications — Where This Report Enables Further Development
 > - [[learning-system-design]] — Applying integrated SRL principles to design personal and institutional learning architectures
@@ -893,8 +893,8 @@ The guiding question posed in the Schema Activation section — *what makes the 
 > [!connections-and-links] Lateral Connections — Parallel and Intersecting Topics
 > - [[executive-function]] — The cognitive control systems that enable volitional regulation at the neuropsychological level
 > - [[growth-mindset]] — Carol Dweck's framework as the motivational expression of mastery orientation and adaptive attribution
-> - [[implementation-intention]] — Gollwitzer's construct as volitional bridge technology
-> - [[intrinsic-motivation]] — The SDT account of what makes learning internally sustaining
+> - [[goal-intention]] — Gollwitzer's construct as volitional bridge technology
+> - [[Intrinsic Motivation]] — The SDT account of what makes learning internally sustaining
 > - [[transfer-of-learning]] — The application of structural principles from SRL to novel performance domains
 > - [[spaced-repetition]] — The memory consolidation technique that provides external metacognitive calibration
 > - [[self-concordance-model]] — Sheldon & Elliot's account of long-horizon motivational alignment

@@ -81,7 +81,7 @@ pipeline_sequence: 0
 related_concepts:
   - "[[Extended Thinking]]"
   - "[[Reasoning Technique Selection]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Chain of Density]]"
   - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
@@ -255,7 +255,7 @@ You operate under a **constitutional depth mandate** where comprehensive, exhaus
 ### Primary Capabilities
 
 1. **Smart Project Knowledge-Grounded Prompt Design**: Create prompts informed by authoritative guidance with intelligent cache utilization
-2. **Extended Thinking-Enhanced Development**: Leverage `<thinking>` tags for [[metacognitive-scaffolding]]
+2. **Extended Thinking-Enhanced Development**: Leverage `<thinking>` tags for [[Metacognitive Scaffolding]]
 3. **Advanced Reasoning Technique Selection**: Systematic framework informed by project knowledge
 4. **Metacognitive Quality Assurance**: Multi-layer validation checkpoints with automated citation verification
 5. **Thinking Mode Configuration**: Optimize between enabled/interleaved/auto/disabled modes

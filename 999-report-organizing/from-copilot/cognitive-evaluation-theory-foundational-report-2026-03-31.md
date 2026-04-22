@@ -115,7 +115,7 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[self-determination-theory]]"
-  - "[[intrinsic-motivation]]"
+  - "[[Intrinsic Motivation]]"
   - "[[basic-psychological-needs-theory]]"
 
 related:
@@ -142,12 +142,12 @@ see-also:
   - "[[autonomy-supportive-teaching-and-learning-environments]]"
   - "[[growth-mindset]]"
   - "[[feedback-design-for-autonomy-and-mastery]]"
-  - "[[attribution-theory]]"
+  - "[[Attribution (Heider, 1958)]]"
 
 contrasts-with:
   - "[[behaviorist-vs.-cognitive-theories-of-learning]]"
   - "[[extrinsic-motivation]]"
-  - "[[controlled-motivation]]"
+  - "[[Controlled Motivation]]"
 
 applied-in:
   - "[[autonomy-supportive-teaching-and-learning-environments]]"
@@ -160,8 +160,8 @@ applied-in:
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[self-determination-theory]]"
-  - "[[intrinsic-motivation]]"
-  - "[[attribution-theory]]"
+  - "[[Intrinsic Motivation]]"
+  - "[[Attribution (Heider, 1958)]]"
   - "[[autonomy-need]]"
   - "[[competence-need]]"
 
@@ -217,9 +217,9 @@ original_contributions:
 
 ## Phase I: Orientation & Context Setting
 
-One of the most consequential and counterintuitive findings in twentieth-century motivational psychology is that rewarding people for activities they already enjoy can — under specifiable and now well-understood conditions — systematically destroy their motivation to engage in those activities. This finding, which emerged from Edward Deci's early laboratory experiments in the 1970s and was subsequently given theoretical architecture through [[cognitive-evaluation-theory]], challenged decades of behaviorist assumptions about the universally reinforcing function of rewards and redirected the study of motivation toward an examination of the qualitative experience of engagement itself.
+One of the most consequential and counterintuitive findings in twentieth-century motivational psychology is that rewarding people for activities they already enjoy can — under specifiable and now well-understood conditions — systematically destroy their motivation to engage in those activities. This finding, which emerged from Edward Deci's early laboratory experiments in the 1970s and was subsequently given theoretical architecture through [[cognitive-evaluation-theory-cet]], challenged decades of behaviorist assumptions about the universally reinforcing function of rewards and redirected the study of motivation toward an examination of the qualitative experience of engagement itself.
 
-[[cognitive-evaluation-theory]] (CET) is a mini-theory within the macro-framework of [[self-determination-theory]] (SDT), developed by [[edward-deci]] and [[richard-ryan]] to explain how external events — including tangible rewards, verbal praise, feedback, surveillance, deadlines, and competitive structures — affect the quality and durability of [[intrinsic-motivation]]. CET does not treat all external events as equivalent in their motivational consequences. Instead, it proposes that the motivational impact of any external event depends on the functional significance that the recipient ascribes to the event — specifically, whether the event is experienced as providing information about competence or as exerting control over behavior.
+[[cognitive-evaluation-theory-cet]] (CET) is a mini-theory within the macro-framework of [[self-determination-theory]] (SDT), developed by [[edward-deci]] and [[richard-ryan]] to explain how external events — including tangible rewards, verbal praise, feedback, surveillance, deadlines, and competitive structures — affect the quality and durability of [[Intrinsic Motivation]]. CET does not treat all external events as equivalent in their motivational consequences. Instead, it proposes that the motivational impact of any external event depends on the functional significance that the recipient ascribes to the event — specifically, whether the event is experienced as providing information about competence or as exerting control over behavior.
 
 The theory's intellectual significance extends well beyond the laboratory manipulation of rewards. CET provides a conceptual vocabulary for analyzing the motivational ecology of schools, workplaces, families, clinical settings, and digital environments. It grounds a substantial research tradition linking autonomous motivation to superior learning outcomes, creative performance, persistence, and psychological well-being. It informs the design of feedback systems, incentive structures, parenting practices, and teacher behaviors. And it occupies a central node in the theoretical architecture of SDT, which has become the dominant framework for understanding human motivation across cultures, developmental stages, and life domains.
 
@@ -242,9 +242,9 @@ The report unfolds across six analytical phases. **Phase II** establishes the co
 
 ### The Problem CET Was Designed to Solve
 
-To understand [[cognitive-evaluation-theory]], it is necessary to understand the theoretical problem it was constructed to address. By the time [[edward-deci]] began his experimental program in the early 1970s, motivational psychology was dominated by behaviorist assumptions. Reinforcement theory, drawing from Thorndike's law of effect and Skinner's operant conditioning program, held that behavior is a function of its consequences: behaviors followed by rewards increase in frequency, and the stronger or more consistent the reward, the more firmly the behavior is established. On this account, motivation is essentially synonymous with the external contingencies that regulate behavior — an assumption that leaves no conceptual room for the distinction between intrinsically and extrinsically motivated behavior, because all behavior is, in effect, extrinsically maintained.
+To understand [[cognitive-evaluation-theory-cet]], it is necessary to understand the theoretical problem it was constructed to address. By the time [[edward-deci]] began his experimental program in the early 1970s, motivational psychology was dominated by behaviorist assumptions. Reinforcement theory, drawing from Thorndike's law of effect and Skinner's operant conditioning program, held that behavior is a function of its consequences: behaviors followed by rewards increase in frequency, and the stronger or more consistent the reward, the more firmly the behavior is established. On this account, motivation is essentially synonymous with the external contingencies that regulate behavior — an assumption that leaves no conceptual room for the distinction between intrinsically and extrinsically motivated behavior, because all behavior is, in effect, extrinsically maintained.
 
-The problem with this view was that it could not account for a category of behavior that was both empirically obvious and theoretically significant: behavior undertaken for its own sake, in the absence of any external contingency. People engage in exploration, play, artistic creation, and intellectual inquiry without any apparent external incentive, and often with high levels of sustained engagement, creativity, and performance quality. The concept of [[intrinsic-motivation]] — the propensity to engage in activities because they are inherently interesting, enjoyable, or satisfying — had been proposed by Robert White (1959) under the rubric of "effectance motivation" and been taken up by cognitive theorists, but it lacked the theoretical precision needed to generate testable predictions.
+The problem with this view was that it could not account for a category of behavior that was both empirically obvious and theoretically significant: behavior undertaken for its own sake, in the absence of any external contingency. People engage in exploration, play, artistic creation, and intellectual inquiry without any apparent external incentive, and often with high levels of sustained engagement, creativity, and performance quality. The concept of [[Intrinsic Motivation]] — the propensity to engage in activities because they are inherently interesting, enjoyable, or satisfying — had been proposed by Robert White (1959) under the rubric of "effectance motivation" and been taken up by cognitive theorists, but it lacked the theoretical precision needed to generate testable predictions.
 
 > [!definition] **Intrinsic Motivation (White, 1959; Deci & Ryan, 1985)**
 > Intrinsic motivation refers to the propensity to engage in activities for their inherent interest, challenge, or enjoyment — that is, for the qualitative experience of the activity itself rather than for any separable outcome or external consequence. Intrinsically motivated behavior is engaged in freely, without external pressure or inducement, and is typically characterized by higher levels of curiosity, spontaneous exploration, creativity, and willingness to persist in the face of challenge. Intrinsic motivation is not a personality trait but a functional state that is both enabled and undermined by specific psychological and interpersonal conditions.
@@ -253,7 +253,7 @@ The problem with this view was that it could not account for a category of behav
 >
 > **Research Status:** Intrinsic motivation has been operationalized primarily through free-choice behavior paradigms (time spent with an activity after experimental conditions are terminated) and self-report measures. Both operationalizations have been criticized, and their relationship is not always consistent. The construct's validity is nevertheless supported by extensive convergent evidence.
 >
-> **See also:** [[extrinsic-motivation]], [[autonomous-motivation]], [[self-determination-theory]], [[intrinsic-motivation]], [[free-choice-behaviour]]
+> **See also:** [[extrinsic-motivation]], [[Autonomous Motivation]], [[self-determination-theory]], [[Intrinsic Motivation]], [[free-choice-behaviour]]
 
 Deci's 1971 experiments provided the first controlled evidence that introducing tangible extrinsic rewards for engaging in an intrinsically interesting activity — specifically, monetary payment for solving SOMA cube puzzles — reduced subsequent intrinsic motivation as measured by free-choice behavior during an ostensibly unmonitored period. This finding, replicated in subsequent studies, generated what Deci called the "undermining effect" — and what Lepper, Greene, and Nisbett (1973) independently labeled the [[overjustification-effect]], based on attribution-theoretic reasoning.
 
@@ -270,7 +270,7 @@ The first and arguably most foundational construct in CET is the [[perceived-loc
 >
 > **Common Misconception:** It is frequently assumed that behavior is either intrinsically or extrinsically motivated in an all-or-nothing sense. The PLOC is better understood as a continuum — behavior can be experienced as more or less self-determined, and the same external event can shift the PLOC in either direction depending on the context and the individual.
 >
-> **See also:** [[autonomy-need]], [[autonomous-motivation]], [[controlled-motivation]], [[intrinsic-motivation]], [[external-regulation]]
+> **See also:** [[autonomy-need]], [[Autonomous Motivation]], [[Controlled Motivation]], [[Intrinsic Motivation]], [[External Regulation]]
 
 CET proposes that when external events shift the perceived locus of causality from internal to external — when an individual begins to experience themselves as doing an activity because of the external event rather than because of their genuine interest — intrinsic motivation for that activity decreases. The mechanism is fundamentally interpretive: external events acquire their motivational valence through the meaning the agent assigns to them, not through their reinforcing or punishing properties per se. This was a direct challenge to the behaviorist framework, which had no theoretical construct equivalent to the PLOC.
 
@@ -330,7 +330,7 @@ Deci and Ryan (1985) formalized CET into seven propositions that structure its e
 
 ### Situating CET Within the SDT Family
 
-[[cognitive-evaluation-theory]] occupies a specific analytical niche within the SDT framework. SDT, as a macro-theory, comprises six interrelated mini-theories, each addressing a different facet of motivation and personality. CET is specifically concerned with the conditions under which [[intrinsic-motivation]] is maintained, enhanced, or undermined by external events. It does not address — and explicitly declines to address — the full internalization spectrum for extrinsically motivated behavior, which is the province of [[organismic-integration-theory]] (OIT). The relationship between CET and OIT is complementary: CET explains what happens to intrinsic motivation when the environment introduces external events; OIT explains how initially external motivation can become progressively internalized and autonomous through a developmental process.
+[[cognitive-evaluation-theory-cet]] occupies a specific analytical niche within the SDT framework. SDT, as a macro-theory, comprises six interrelated mini-theories, each addressing a different facet of motivation and personality. CET is specifically concerned with the conditions under which [[Intrinsic Motivation]] is maintained, enhanced, or undermined by external events. It does not address — and explicitly declines to address — the full internalization spectrum for extrinsically motivated behavior, which is the province of [[organismic-integration-theory]] (OIT). The relationship between CET and OIT is complementary: CET explains what happens to intrinsic motivation when the environment introduces external events; OIT explains how initially external motivation can become progressively internalized and autonomous through a developmental process.
 
 The other SDT mini-theories — [[basic-psychological-needs-theory]], [[causality-orientations-theory]], [[goal-contents-theory]], and Relationship Motivation Theory — each provide different lenses on the motivational landscape. CET draws most heavily on [[basic-psychological-needs-theory]]'s claim that [[autonomy-need|autonomy]] and [[competence-need|competence]] (along with relatedness) are universal psychological needs whose satisfaction is necessary for well-being and effective functioning. The needs for autonomy and competence are the specific psychological substrates through which CET's mechanisms operate: external events undermine intrinsic motivation primarily by frustrating autonomy (via the PLOC shift) and, in some cases, by undermining perceived competence.
 
@@ -382,7 +382,7 @@ The Deci et al. (1999) meta-analysis of 128 studies found that: (a) all expected
 
 **In relation to [[achievement-goal-theory]]**: Achievement goal theory, associated with Elliot and Harackiewicz building on Dweck and Ames, distinguishes between mastery goals (focused on learning and personal improvement) and performance goals (focused on demonstrating ability relative to others). CET's prediction that controlling, performance-focused contexts undermine intrinsic motivation maps onto achievement goal theory's finding that ego-involving, performance-approach and performance-avoidance goal contexts are associated with reduced intrinsic motivation and diminished deep processing. The frameworks are complementary and mutually reinforcing, with CET providing the psychological mechanism (PLOC shift and competence need frustration) through which goal structures produce their motivational effects.
 
-**In relation to [[attribution-theory]]**: The overlap between CET and attribution theory, particularly the application of the discounting principle to intrinsic motivation, was recognized by both Deci and Lepper et al. from the outset. However, CET departs from pure attribution theory by grounding the mechanism in basic psychological needs (autonomy and competence) rather than in attributional inference per se. This distinction is theoretically significant: need-satisfaction dynamics are not reducible to cognitive attributional operations and carry additional predictions about well-being and affect that attribution theory alone cannot generate.
+**In relation to [[Attribution (Heider, 1958)]]**: The overlap between CET and attribution theory, particularly the application of the discounting principle to intrinsic motivation, was recognized by both Deci and Lepper et al. from the outset. However, CET departs from pure attribution theory by grounding the mechanism in basic psychological needs (autonomy and competence) rather than in attributional inference per se. This distinction is theoretically significant: need-satisfaction dynamics are not reducible to cognitive attributional operations and carry additional predictions about well-being and affect that attribution theory alone cannot generate.
 
 **In relation to [[growth-mindset]] theory**: Dweck's entity/incremental theory of intelligence framework generates predictions that partially overlap with CET. The claim that entity theory environments (which signal that intelligence is fixed and being evaluated) produce defensive motivational orientations is congruent with CET's claim that ego-involving, controlling environments undermine intrinsic motivation. However, CET provides the motivational process account — through needs for autonomy and competence — that Dweck's framework does not specify.
 
@@ -530,19 +530,19 @@ The deepest value of CET as a theoretical contribution lies not in its specific 
 >
 > **Boundary:** CET applies specifically to activities with an established intrinsic motivation baseline. It does not predict effects for activities that were never intrinsically motivated. CET also does not cover the internalization of extrinsically motivated behavior — that is OIT's domain.
 >
-> **See also:** [[self-determination-theory]], [[intrinsic-motivation]], [[overjustification-effect]], [[perceived-locus-of-causality]], [[basic-psychological-needs-theory]]
+> **See also:** [[self-determination-theory]], [[Intrinsic Motivation]], [[overjustification-effect]], [[perceived-locus-of-causality]], [[basic-psychological-needs-theory]]
 
 > [!definition] **Overjustification Effect (Lepper, Greene & Nisbett, 1973)**
 > The overjustification effect refers to the reduction in intrinsic motivation that occurs when an individual receives an expected extrinsic reward for engaging in an activity they were already intrinsically motivated to perform. The term derives from Kelley's attribution-theoretic discounting principle: when both an internal cause (intrinsic interest) and an external cause (extrinsic reward) are present, the individual "overjustifies" their behavior by attributing it primarily to the more salient external cause, thereby discounting the internal cause and reducing subsequent intrinsic motivation. The effect is reliably observed for expected, tangible, engagement-contingent rewards but not for unexpected rewards or verbal praise under autonomy-supportive conditions.
 >
 > **Historical Note:** The term originated in Lepper et al.'s 1973 study using preschool children and reward certificates for drawing, and was originally grounded in attribution theory. Deci and Ryan later retheorized the mechanism through need satisfaction language (PLOC shift and competence modulation) rather than purely attributional inference.
 >
-> **See also:** [[overjustification-effect]], [[intrinsic-motivation]], [[perceived-locus-of-causality]], [[engagement-contingent-reward]], [[the-undermining-effect]]
+> **See also:** [[overjustification-effect]], [[Intrinsic Motivation]], [[perceived-locus-of-causality]], [[engagement-contingent-reward]], [[the-undermining-effect]]
 
 > [!definition] **Perceived Locus of Causality — PLOC (de Charms, 1968; Deci & Ryan, 1985)**
 > See full definition in Phase II. The PLOC is the subjective sense that one's behavior is self-determined (internal PLOC) or externally caused (external PLOC). In CET, controlling events shift the PLOC toward external; informational events preserve or enhance the internal PLOC. The PLOC mediates the relationship between external event type and intrinsic motivation.
 >
-> **See also:** [[perceived-locus-of-causality]], [[autonomy-need]], [[autonomous-motivation]], [[controlled-motivation]], [[external-regulation]]
+> **See also:** [[perceived-locus-of-causality]], [[autonomy-need]], [[Autonomous Motivation]], [[Controlled Motivation]], [[External Regulation]]
 
 > [!definition] **Functional Significance — Informational, Controlling, Amotivating (Deci & Ryan, 1985)**
 > See full definition in Phase II. Functional significance is the perceived motivational role of an external event — the function the agent interprets the event as serving. Three aspects are identified: informational (competence-affirming, autonomy-preserving), controlling (pressure toward specific outcomes), and amotivating (competence-disconfirming). The dominant aspect in an individual's interpretation determines the motivational consequence of the event.
@@ -559,7 +559,7 @@ The deepest value of CET as a theoretical contribution lies not in its specific 
 > [!definition] **Engagement-Contingent Reward (Deci, Koestner & Ryan, 1999)**
 > An engagement-contingent reward is an external incentive whose receipt is conditional on engaging with the target activity — the individual receives the reward simply for working on the task, regardless of how well they perform. Within the reward contingency taxonomy of CET, engagement-contingent rewards constitute the paradigm case of the undermining effect: they introduce a controlling external contingency that transforms the activity from a spontaneous expression of interest into an instrument for obtaining an extrinsic outcome.
 >
-> **See also:** [[engagement-contingent-reward]], [[reward-contingency-types]], [[overjustification-effect]], [[intrinsic-motivation]]
+> **See also:** [[engagement-contingent-reward]], [[reward-contingency-types]], [[overjustification-effect]], [[Intrinsic Motivation]]
 
 > [!definition] **Ego Involvement (Nicholls, 1984; Ryan & Deci, 2000)**
 > See definition in Phase IV. Ego involvement refers to a motivational state in which performance is driven by the contingency between outcome and self-worth, functioning as an intrapersonal analogue to external controlling pressure. CET predicts that ego involvement undermines intrinsic motivation through the same mechanism as external control — by shifting the perceived locus of causality from the activity's intrinsic features to self-evaluative agenda management.
@@ -573,12 +573,12 @@ The deepest value of CET as a theoretical contribution lies not in its specific 
 >
 > **Research Status:** The free-choice paradigm has been criticized for conflating intrinsic motivation with satiation and for potential experimenter demand effects. Multiple studies use both measures simultaneously; the Deci et al. (1999) meta-analysis addressed these concerns systematically.
 >
-> **See also:** [[free-choice-behaviour]], [[intrinsic-motivation]], [[Intrinsic-Motivation-Research-Deci-1971]]
+> **See also:** [[free-choice-behaviour]], [[Intrinsic Motivation]], [[Intrinsic-Motivation-Research-Deci-1971]]
 
 > [!definition] **Reward Contingency (Deci, Koestner & Ryan, 1999)**
 > Reward contingency refers to the relationship structure between a reward and the behavior or outcome for which it is delivered. CET distinguishes: task-noncontingent (reward independent of engagement), [[engagement-contingent-reward|engagement-contingent]] (reward for engaging), completion-contingent (reward for finishing), and performance-contingent (reward for performing above a standard). The contingency structure determines, to a significant degree, the functional significance of the reward: engagement- and completion-contingent rewards are most reliably controlling; unexpected, task-noncontingent rewards are least likely to undermine intrinsic motivation; performance-contingent rewards have the most mixed effects, reflecting competition between informational and controlling functional aspects.
 >
-> **See also:** [[reward-contingency-types]], [[engagement-contingent-reward]], [[overjustification-effect]], [[intrinsic-motivation]]
+> **See also:** [[reward-contingency-types]], [[engagement-contingent-reward]], [[overjustification-effect]], [[Intrinsic Motivation]]
 
 > [!definition] **Amotivation (Deci & Ryan, 1985, 2000)**
 > Amotivation refers to the absence of intentionality and volition with respect to an activity — the state in which an individual has neither intrinsic motivation nor any form of extrinsic motivation, typically resulting from repeated experiences of incompetence, learned helplessness, or the perception that no engagement with the activity can produce desired outcomes. CET identifies amotivating events — those that convey the impossibility of effective action — as producing amotivation. Amotivation is the most autonomous-need-depriving motivational state and is associated with the most negative outcomes across performance, well-being, and persistence dimensions.
@@ -653,7 +653,7 @@ The deepest value of CET as a theoretical contribution lies not in its specific 
 >
 > **Current Evidence:** Meta-analyses show that reward effects on free-choice behavior and self-reported interest converge in direction but often differ in magnitude, with self-report measures showing larger positive feedback effects and smaller undermining effects than behavioral measures.
 >
-> **See also:** [[free-choice-behaviour]], [[intrinsic-motivation]], [[mslq]]
+> **See also:** [[free-choice-behaviour]], [[Intrinsic Motivation]], [[mslq]]
 
 > [!open-question] **The Generalizability of CET to Uninteresting Tasks**
 > CET's undermining effect predictions explicitly presuppose an established intrinsic motivation baseline. For activities that are initially tedious or aversive — tasks for which there is no baseline intrinsic motivation to undermine — does the functional significance analysis still apply, or does CET become irrelevant?
@@ -916,9 +916,9 @@ The deepest value of CET as a theoretical contribution lies not in its specific 
 >
 > **Upstream Dependencies — What This Report Builds On**
 > - **[[self-determination-theory]]** ([[self-determination-theory-foundational-report-2026-03-11]]): CET is a mini-theory nested within SDT; the SDT foundational report provides the overarching framework within which CET's claims are situated.
-> - **[[intrinsic-motivation]]** and **[[extrinsic-motivation]]**: CET's subject matter — how external events affect intrinsic motivation — presupposes the distinction between intrinsic and extrinsic motivation as foundational.
+> - **[[Intrinsic Motivation]]** and **[[extrinsic-motivation]]**: CET's subject matter — how external events affect intrinsic motivation — presupposes the distinction between intrinsic and extrinsic motivation as foundational.
 > - **[[basic-psychological-needs-theory]]**: The needs for autonomy and competence are the psychological substrates through which CET's mechanisms operate; BPNT provides the need-satisfaction framework that grounds CET's mechanistic account.
-> - **[[attribution-theory]]**: The overjustification effect draws on Kelley's attribution-theoretic discounting principle; the parallel development of CET and attribution-theoretic accounts of reward effects is historically significant.
+> - **[[Attribution (Heider, 1958)]]**: The overjustification effect draws on Kelley's attribution-theoretic discounting principle; the parallel development of CET and attribution-theoretic accounts of reward effects is historically significant.
 >
 > **Downstream Applications — What This Report Enables**
 > - **[[autonomy-supportive-teaching-and-learning-environments]]**: CET provides the theoretical basis for autonomy-supportive teaching research; reports on autonomy-supportive pedagogy build directly on CET's functional significance framework.
@@ -936,7 +936,7 @@ The deepest value of CET as a theoretical contribution lies not in its specific 
 > - **[[overjustification-effect]]**: This permanent note exists as a node; CET provides the full theoretical architecture through which the overjustification effect's mechanism and boundary conditions are understood.
 > - **[[perceived-locus-of-causality]]**: The PLOC node is enriched by the full mechanistic account of how it mediates between external events and intrinsic motivation.
 > - **[[Intrinsic-Motivation-Research-Deci-1971]]**: The original Deci experiments are contextualized within the theoretical trajectory that led to CET.
-> - **[[autonomous-motivation]]** and **[[controlled-motivation]]**: The contrast between these regulatory forms is grounded in CET's functional significance account.
+> - **[[Autonomous Motivation]]** and **[[Controlled Motivation]]**: The contrast between these regulatory forms is grounded in CET's functional significance account.
 >
 > **Pattern Observation**: The connections to this report form a densely connected motivational sub-network within the PKB — CET sits at the intersection of SDT theory, educational psychology, feedback design research, and regulatory quality research. Strengthening this node strengthens all of these adjacent clusters simultaneously.
 

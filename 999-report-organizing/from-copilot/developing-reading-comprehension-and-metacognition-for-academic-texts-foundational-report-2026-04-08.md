@@ -89,10 +89,10 @@ treatment-type: foundational-analytical
 # ═══════════════════════════════════════════════════════════════
 core-concepts: ["Reading Comprehension", "Metacognition", "Academic Texts", "Self-Regulated Learning", "Comprehension Monitoring"]
 key-distinctions: ["Decoding vs. Comprehension", "Metacognitive Knowledge vs. Metacognitive Regulation", "Surface vs. Deep Processing"]
-prerequisites: ["[[metacognition]]", "[[cognitive-load-theory]]", "[[long-term-memory]]"]
-related: ["[[metacognitive-monitoring]]", "[[comprehension-monitoring]]", "[[self-regulated-learning]]", "[[elaborative-interrogation]]", "[[advance-organizer]]"]
+prerequisites: ["[[metacognition]]", "[[Cognitive Load Theory (CLT)]]", "[[long-term-memory]]"]
+related: ["[[metacognitive-monitoring]]", "[[comprehension-monitoring]]", "[[self-regulated-learning]]", "[[Elaborative Interrogation]]", "[[advance-organizer]]"]
 broader: ["[[cognitive-psychology]]", "[[educational-psychology]]"]
-narrower: ["[[kwl-strategy]]", "[[metacognitive-scaffolding]]", "[[comprehension-monitoring-training-protocols]]"]
+narrower: ["[[kwl-strategy]]", "[[Metacognitive Scaffolding]]", "[[comprehension-monitoring-training-protocols]]"]
 see-also: ["[[cog-sci-pkm-reading-fluency-and-comprehension-in-pkm]]", "[[metacognition-silent-reading-focused-analysis-2026-03-21]]"]
 builds-on: ["[[metacognitive-knowledge]]", "[[levels-of-processing-theory]]", "[[mental-models]]"]
 enables: ["[[knowledge-telling-vs.-knowledge-transforming]]", "[[active-note-making]]", "[[deep-processing]]"]
@@ -150,13 +150,13 @@ This foundational report provides a comprehensive, graduate-level examination of
 >
 > Before entering this report's detailed terrain, pause to activate what you already know. You have been a reader for most of your life, and you likely carry strong intuitions about the following:
 >
-> - **When you "get it" and when you don't.** You know the feeling of processing text fluently without constructing genuine understanding — the illusion that [[fluency-illusion|familiarity masquerades as comprehension]]. You may have experienced this in dense academic passages where eye movement continues while comprehension fails silently.
+> - **When you "get it" and when you don't.** You know the feeling of processing text fluently without constructing genuine understanding — the illusion that [[Fluency Illusion|familiarity masquerades as comprehension]]. You may have experienced this in dense academic passages where eye movement continues while comprehension fails silently.
 >
-> - **The role of background knowledge.** You likely notice that reading in a domain you know well is qualitatively different from reading in an unfamiliar domain. The former feels like fitting puzzle pieces into a familiar frame; the latter like building the frame while fitting the pieces simultaneously. This is the [[schema-theory|schema effect]] made phenomenologically explicit.
+> - **The role of background knowledge.** You likely notice that reading in a domain you know well is qualitatively different from reading in an unfamiliar domain. The former feels like fitting puzzle pieces into a familiar frame; the latter like building the frame while fitting the pieces simultaneously. This is the [[schema-theory-and-knowledge-organization|schema effect]] made phenomenologically explicit.
 >
 > - **What "reading strategies" actually mean to you.** You may have been taught to summarize, to ask questions, to identify main ideas — but in practice these often feel mechanical. The question this report addresses is: under what conditions do these strategies become genuine cognitive tools rather than compliance tasks?
 >
-> - **Connect to:** [[metacognition]], [[metacognition-in-learning-focused-analysis-2026-03-20]], [[self-regulated-learning]], [[cognitive-load-theory]]
+> - **Connect to:** [[metacognition]], [[metacognition-in-learning-focused-analysis-2026-03-20]], [[self-regulated-learning]], [[Cognitive Load Theory (CLT)]]
 >
 > **Guiding Question for this Report:** *What does it mean to truly comprehend an academic text, and what cognitive and metacognitive mechanisms must a reader develop to reliably achieve that comprehension — not just once, but consistently across unfamiliar domains?*
 
@@ -220,7 +220,7 @@ However, the Simple View has well-documented limitations when applied to advance
 >
 > **Boundary:** "Cognitive architecture" as used here is functional, not purely neurobiological. It describes how the cognitive system behaves during reading, without claiming direct correspondence to brain regions except where neuroscientific evidence is directly relevant.
 >
-> **See also:** [[working-memory]], [[working-memory-in-reading]], [[cognitive-load-theory]], [[long-term-memory]], [[schema-theory]], [[automaticity]]
+> **See also:** [[working-memory]], [[working-memory-in-reading]], [[Cognitive Load Theory (CLT)]], [[long-term-memory]], [[schema-theory-and-knowledge-organization]], [[automaticity]]
 
 ### 2.1 Working Memory: The Bottleneck of Comprehension
 
@@ -228,7 +228,7 @@ The [[working-memory|working memory system]] — particularly as conceptualized 
 
 For reading comprehension, the phonological loop handles the active rehearsal of sentence content while subsequent sentences are parsed. Critically, [[working-memory-capacity|working memory capacity]] is highly correlated with reading comprehension performance: Daneman and Carpenter's landmark 1980 study showed that working memory span — measured by the need to simultaneously process and remember sentence-final words — was among the strongest predictors of comprehension. This correlation has been replicated extensively and raises a fundamental challenge: if working memory is limited, how do skilled readers parse complex academic sentences while simultaneously maintaining earlier content and building a coherent situation model?
 
-The answer, developed extensively within [[cognitive-load-theory|Cognitive Load Theory]] (Sweller, 1988; Sweller, van Merriënboer & Paas, 1998), lies in the relationship between working memory and long-term memory. Working memory does not operate on raw information but on *schemas* — highly organized knowledge structures stored in long-term memory that can be retrieved and operated on as single units rather than as collections of individual elements. When a reader has rich, organized schemas for the domain of a text, comprehension draws on well-indexed knowledge chunks, each serving as a cognitive unit rather than consuming additional working memory resources. For the novice reading in an unfamiliar domain, each new concept must be actively managed in working memory because no schema exists to consolidate it.
+The answer, developed extensively within [[Cognitive Load Theory (CLT)|Cognitive Load Theory]] (Sweller, 1988; Sweller, van Merriënboer & Paas, 1998), lies in the relationship between working memory and long-term memory. Working memory does not operate on raw information but on *schemas* — highly organized knowledge structures stored in long-term memory that can be retrieved and operated on as single units rather than as collections of individual elements. When a reader has rich, organized schemas for the domain of a text, comprehension draws on well-indexed knowledge chunks, each serving as a cognitive unit rather than consuming additional working memory resources. For the novice reading in an unfamiliar domain, each new concept must be actively managed in working memory because no schema exists to consolidate it.
 
 > [!claude-insight] The Working Memory Paradox of Academic Reading
 >
@@ -236,7 +236,7 @@ The answer, developed extensively within [[cognitive-load-theory|Cognitive Load 
 
 ### 2.2 Schema Theory and Prior Knowledge
 
-[[schema-theory|Schema Theory]], developed from Bartlett's (1932) reconstructive memory research and elaborated by Rumelhart and colleagues in the 1970s, holds that all knowledge is organized into mental structures — schemas — that shape how new information is perceived, interpreted, and retained. For reading comprehension, schemas operate at multiple levels simultaneously: phonological schemas (recognizing word forms automatically), syntactic schemas (parsing sentence structure), semantic schemas (mapping words to concepts), and discourse schemas (recognizing genre conventions, text structure, and rhetorical organization).
+[[schema-theory-and-knowledge-organization|Schema Theory]], developed from Bartlett's (1932) reconstructive memory research and elaborated by Rumelhart and colleagues in the 1970s, holds that all knowledge is organized into mental structures — schemas — that shape how new information is perceived, interpreted, and retained. For reading comprehension, schemas operate at multiple levels simultaneously: phonological schemas (recognizing word forms automatically), syntactic schemas (parsing sentence structure), semantic schemas (mapping words to concepts), and discourse schemas (recognizing genre conventions, text structure, and rhetorical organization).
 
 Schemas accelerate comprehension by providing [[prior-knowledge-activation|prior knowledge activation]] pathways: when a word or phrase activates a relevant schema, comprehension leaps forward as the reader fills in implied content from the schema network rather than laboriously inferring it from the text alone. Bransford & Johnson's (1972) classic experiment demonstrated this vividly: readers given a thematic schema before reading an ambiguous text comprehended and recalled it dramatically better than readers without the schema. Schema availability is thus not merely a background resource but an active comprehension mechanism.
 
@@ -246,13 +246,13 @@ The educational implication is significant: [[prior-knowledge|prior knowledge]] 
 
 ### 2.3 Cognitive Load in Academic Reading
 
-[[cognitive-load-theory|Cognitive Load Theory]] provides the most systematic framework for understanding how the demands of academic texts interact with working memory constraints. The theory distinguishes three forms of cognitive load: intrinsic load (inherent complexity of the material, determined by element interactivity), extraneous load (cognitive demands imposed by poor instructional design or presentation), and germane load (processing devoted to schema construction and automation).
+[[Cognitive Load Theory (CLT)|Cognitive Load Theory]] provides the most systematic framework for understanding how the demands of academic texts interact with working memory constraints. The theory distinguishes three forms of cognitive load: intrinsic load (inherent complexity of the material, determined by element interactivity), extraneous load (cognitive demands imposed by poor instructional design or presentation), and germane load (processing devoted to schema construction and automation).
 
 For the academic reader, intrinsic load is high when texts cover complex, densely connected topics in unfamiliar domains — when each new concept requires integrating multiple prior concepts that are themselves not yet fully schematized. Extraneous load is elevated by poorly organized texts, fragmented presentation, absence of advance organizers, and distraction. Germane load — the productive cognitive investment — is what the skilled reader directs toward building rich situation models and updating schemas.
 
 > [!warning] The Fluency Illusion: Architecture's Most Dangerous Failure Mode
 >
-> The cognitive architecture of reading creates a specific vulnerability known as the [[fluency-illusion|Fluency Illusion]] — the subjective experience of comprehension that can accompany smooth reading even when genuine understanding is absent. Because fluent readers process words automatically, the absence of decoding effort generates a metacognitive signal that can be misread as comprehension rather than merely as decoding success. Academic readers are particularly susceptible to this illusion in domains where they recognize vocabulary without understanding it — where the surface form of scientific, legal, or philosophical prose creates a compelling phenomenology of understanding. The Fluency Illusion is the architectural basis of the "I read it but didn't learn it" experience so common in student populations. Metacognitive training directly targets this illusion by teaching readers to distinguish the feeling of processing from the evidence of understanding.
+> The cognitive architecture of reading creates a specific vulnerability known as the [[Fluency Illusion|Fluency Illusion]] — the subjective experience of comprehension that can accompany smooth reading even when genuine understanding is absent. Because fluent readers process words automatically, the absence of decoding effort generates a metacognitive signal that can be misread as comprehension rather than merely as decoding success. Academic readers are particularly susceptible to this illusion in domains where they recognize vocabulary without understanding it — where the surface form of scientific, legal, or philosophical prose creates a compelling phenomenology of understanding. The Fluency Illusion is the architectural basis of the "I read it but didn't learn it" experience so common in student populations. Metacognitive training directly targets this illusion by teaching readers to distinguish the feeling of processing from the evidence of understanding.
 
 ### 2.4 The Matthew Effect in Academic Reading
 
@@ -357,7 +357,7 @@ The most fundamental structural distinction is between **narrative text** and **
 > [!definition] **Text Structure Knowledge (Expository Genre Literacy)**
 > Text structure knowledge refers to the reader's understanding of the organizational conventions of different expository text types, and the ability to use that knowledge to build more organized, accessible mental representations of text content. A reader with good text structure knowledge for a research article can immediately organize incoming information into problem-background, methods, results, and interpretation slots — each primed to receive and organize specific types of content. Without text structure knowledge, the same information arrives without structural scaffolding, taxing working memory with the need to simultaneously parse content and infer organization.
 >
-> **Report-Specific Significance:** In academic reading, text structure knowledge is a form of [[schema-theory|schema]] — a genre schema — that profoundly affects comprehension efficiency and depth. Its explicit development is one of the most directly teachable reading skills and one of the most neglected.
+> **Report-Specific Significance:** In academic reading, text structure knowledge is a form of [[schema-theory-and-knowledge-organization|schema]] — a genre schema — that profoundly affects comprehension efficiency and depth. Its explicit development is one of the most directly teachable reading skills and one of the most neglected.
 >
 > **See also:** [[text-structure]], [[situation-models-in-text-comprehension]], [[schema-theory-and-learning]]
 
@@ -403,7 +403,7 @@ The seminal research on generative processing comes from Wittrock's (1990) gener
 
 ### 5.2 Elaborative Interrogation
 
-[[elaborative-interrogation|Elaborative interrogation]] is a metacognitive reading strategy in which the reader, after reading each distinct fact or claim in a text, poses the question "Why is this true?" and attempts to generate a plausible answer before reading on. The strategy was systematically investigated by Pressley, Symons, McDaniel, Snyder, and Turnure (1988) and has since accumulated a substantial evidence base for its effectiveness with informational texts.
+[[Elaborative Interrogation|Elaborative interrogation]] is a metacognitive reading strategy in which the reader, after reading each distinct fact or claim in a text, poses the question "Why is this true?" and attempts to generate a plausible answer before reading on. The strategy was systematically investigated by Pressley, Symons, McDaniel, Snyder, and Turnure (1988) and has since accumulated a substantial evidence base for its effectiveness with informational texts.
 
 The mechanism of elaborative interrogation's effectiveness is well-understood. When a reader asks "Why is this true?" and searches for an answer, several powerful cognitive processes are triggered: (1) *prior knowledge activation* — retrieving schemas and prior beliefs relevant to the claim; (2) *semantic elaboration* — connecting the claim to a network of related propositions, thus creating multiple retrieval pathways; (3) *inference generation* — producing causal-logical inferences that go beyond literal text information; and (4) *comprehension monitoring* — if no plausible "why" can be generated, the reader has reliable evidence of comprehension failure of the underlying concept.
 
@@ -421,7 +421,7 @@ For academic reading specifically, self-explanation is most powerful when direct
 
 Perhaps the most robust finding in applied cognitive science of learning is the [[Testing-Effect|testing effect]] — the well-replicated demonstration that retrieving information from memory produces stronger, more durable learning than re-studying the same material. The effect, documented across hundreds of studies spanning a century of research, applies directly and powerfully to academic reading comprehension.
 
-[[retrieval-practice|Retrieval practice]] after reading means attempting to recall content before re-reading: after completing a section, closing the text and writing down everything recalled, then consulting the text to check accuracy and identify gaps. Research by Roediger, Karpicke, and colleagues (2006, 2008) demonstrated that students who read a passage once and then practiced retrieval significantly outperformed students who read the passage three times on both immediate and delayed tests. The advantage is particularly pronounced on delayed tests (days or weeks later) — conditions that actually approximate real academic assessment.
+[[Desirable Difficulties (Robert Bjork, 1994)|Retrieval practice]] after reading means attempting to recall content before re-reading: after completing a section, closing the text and writing down everything recalled, then consulting the text to check accuracy and identify gaps. Research by Roediger, Karpicke, and colleagues (2006, 2008) demonstrated that students who read a passage once and then practiced retrieval significantly outperformed students who read the passage three times on both immediate and delayed tests. The advantage is particularly pronounced on delayed tests (days or weeks later) — conditions that actually approximate real academic assessment.
 
 The mechanism of retrieval practice effects involves both memory reconsolidation (each retrieval strengthens the memory trace) and metacognitive calibration (failed retrieval attempts accurately identify knowledge gaps, allowing targeted re-study). For academic reading, retrieval practice immediately after reading sections — before proceeding to the next section — serves both memory and metacognitive functions simultaneously. The inability to retrieve a key concept accurately is direct evidence of comprehension failure that motivates targeted re-reading (with a specific repair goal, not passive re-exposure).
 
@@ -484,7 +484,7 @@ The development of schemas through reading is thus both the purpose of academic 
 >
 > **Boundary:** Schemas are powerful facilitators when appropriate but sources of systematic distortion when inappropriate schemas are applied: readers assimilate unfamiliar information into existing schemas, potentially misinterpreting atypical information that doesn't fit familiar patterns.
 >
-> **See also:** [[schema-theory-and-learning]], [[prior-knowledge-activation]], [[situation-models-in-text-comprehension]], [[cognitive-load-theory]]
+> **See also:** [[schema-theory-and-learning]], [[prior-knowledge-activation]], [[situation-models-in-text-comprehension]], [[Cognitive Load Theory (CLT)]]
 
 ### 6.3 Advance Organizers and Schema Activation Instruction
 
@@ -525,7 +525,7 @@ For the academic reader developing expertise in a new domain, strategic vocabula
 
 The theoretical foundation for developmental approaches to reading comprehension instruction derives from Vygotsky's [[vygotsky|Zone of Proximal Development (ZPD)]] — the range of tasks that a learner cannot yet accomplish independently but can accomplish with appropriate support from a more capable partner. The ZPD framework implies that optimal instruction occupies the space just beyond current independent capability: neither so easy that no challenge is presented nor so difficult that the learner cannot participate meaningfully even with support. Applied to reading comprehension, the ZPD defines the productive instructional space — the texts and tasks where supported comprehension is possible but unsupported comprehension would fail.
 
-[[scaffolding|Scaffolding]] — the provision of expert support that enables the learner to accomplish tasks they could not accomplish independently, with gradual removal of support as competence develops — is the primary pedagogical mechanism for operating in the ZPD. For reading comprehension instruction, scaffolding takes many forms: expert think-alouds that make strategic reading processes visible, structured discussion that provides scaffolded interpretation of difficult passages, graphic organizers that provide external organizational support for text structure, guided question sequences that progressively hand over comprehension responsibility, and explicit strategy instruction with supported practice before independent application.
+[[Scaffolded Fading|Scaffolding]] — the provision of expert support that enables the learner to accomplish tasks they could not accomplish independently, with gradual removal of support as competence develops — is the primary pedagogical mechanism for operating in the ZPD. For reading comprehension instruction, scaffolding takes many forms: expert think-alouds that make strategic reading processes visible, structured discussion that provides scaffolded interpretation of difficult passages, graphic organizers that provide external organizational support for text structure, guided question sequences that progressively hand over comprehension responsibility, and explicit strategy instruction with supported practice before independent application.
 
 The developmental trajectory of reading comprehension instruction, from this perspective, moves through a sequence of scaffolding reduction: from *modeled strategic reading* (teacher demonstrates complete reading process aloud) through *guided strategic reading* (teacher and students jointly construct meaning with teacher taking primary responsibility) through *collaborative strategic reading* (students jointly construct meaning with teacher available for difficulty) to *independent strategic reading* (student self-regulates entire reading process). This I-We-You progression is the hallmark of effective scaffolded instruction, and its consistent implementation is a significant predictor of student reading competence development.
 
@@ -543,7 +543,7 @@ One of the most powerful and underused instructional techniques for reading comp
 
 Research by Davey (1983) identified key categories of think-aloud content that, when modeled, most effectively support strategy development: making predictions and hypotheses, describing mental images prompted by the text, making analogies to prior knowledge, monitoring comprehension and verbalizing confusion, and demonstrating fix-up strategy selection. Follow-up research by Wilhelm (2001, 2012) demonstrated that think-aloud programs that make cognitive processes visible show substantial effects on strategy acquisition and transfer to independent reading.
 
-[[metacognitive-scaffolding|Metacognitive scaffolding]] — scaffolding directed specifically at developing self-monitoring and self-regulation processes — extends think-aloud modeling into student practice. Structured reading protocols where students are required to compose think-aloud records (written or oral) while reading develop metacognitive monitoring through externalization: the requirement to articulate one's comprehension state forces monitoring to become explicit and thus develops the metacognitive awareness that will be internalized over time. Gradually removing the externalization requirement — moving from required written think-alouds to prompted self-questioning to unprompted self-monitoring — is the scaffolding reduction trajectory for metacognitive skill development.
+[[Metacognitive Scaffolding|Metacognitive scaffolding]] — scaffolding directed specifically at developing self-monitoring and self-regulation processes — extends think-aloud modeling into student practice. Structured reading protocols where students are required to compose think-aloud records (written or oral) while reading develop metacognitive monitoring through externalization: the requirement to articulate one's comprehension state forces monitoring to become explicit and thus develops the metacognitive awareness that will be internalized over time. Gradually removing the externalization requirement — moving from required written think-alouds to prompted self-questioning to unprompted self-monitoring — is the scaffolding reduction trajectory for metacognitive skill development.
 
 ### 7.4 Self-Regulated Learning and Autonomous Academic Reading
 
@@ -579,7 +579,7 @@ In the **self-reflection phase**, the self-regulated reader evaluates the outcom
 
 The formal education system provides, at its best, the initial scaffolded development of reading comprehension and metacognitive skills. But the productive lifespan of academic reading extends far beyond formal schooling — lifelong intellectual engagement, professional knowledge development, personal domain exploration, and continuing education across decades all depend on sustainable, self-directed academic reading practices. The transition from schooled reader (operating within teacher-directed, curriculum-structured reading environments) to [[self-directed-learning|self-directed]] academic learner (independently selecting texts, setting learning goals, designing reading practices, and evaluating comprehension without external assessment) is among the most important and least explicitly supported developments in academic literacy.
 
-Research on [[lifelong-learning|lifelong learning]] in academic contexts identifies several characteristics that distinguish adult readers who sustain robust intellectual engagement with academic literature from those who disengage after formal schooling ends. These characteristics include reading self-efficacy (generalized confidence in one's ability to comprehend academic texts, which predicts engagement with challenging texts rather than avoidance), reading intrinsic motivation (the internalized value of reading for understanding, beyond external assessment requirements), and — critically — metacognitive self-regulation proficiency (the capacity to diagnose one's own comprehension difficulties and implement appropriate remediation without teacher guidance).
+Research on [[Lifelong Learning|lifelong learning]] in academic contexts identifies several characteristics that distinguish adult readers who sustain robust intellectual engagement with academic literature from those who disengage after formal schooling ends. These characteristics include reading self-efficacy (generalized confidence in one's ability to comprehend academic texts, which predicts engagement with challenging texts rather than avoidance), reading intrinsic motivation (the internalized value of reading for understanding, beyond external assessment requirements), and — critically — metacognitive self-regulation proficiency (the capacity to diagnose one's own comprehension difficulties and implement appropriate remediation without teacher guidance).
 
 ### 8.2 Personal Knowledge Management as a Reading Architecture
 
@@ -588,11 +588,11 @@ For lifelong academic readers, [[personal-knowledge-management|Personal Knowledg
 Contemporary PKM practices applied to academic reading commonly integrate several evidence-supported elements: **progressive summarization** (creating layered summaries that strip text to essential content through multiple passes), **atomic note-making** (capturing individual ideas in discrete notes that can be independently accessed and linked), **spaced review** (revisiting captured content at increasing intervals to exploit the [[spaced-repetition|spacing effect]]), and **link-building** (explicitly connecting new knowledge to existing notes, creating a personal knowledge graph). Each of these practices maps onto research-supported principles of deep encoding — the willingness to invest in them as permanent practices, rather than temporary study strategies, is itself a metacognitive decision about how to manage the inevitable memory limitations of extended academic engagement.
 
 > [!definition] **The Fluency Illusion in Academic Reading (Metacognitive Deception)**
-> The [[fluency-illusion|Fluency Illusion]] is the systematic tendency to overestimate comprehension of text that has been repeatedly processed, because the *ease of processing* (fluency) is misinterpreted as evidence of *depth of understanding* (comprehension). Familiar text feels more comprehensible even when conceptual understanding has not improved — because perceptual fluency (faster word recognition, smoother syntactic parsing) is a salient, cognitively available cue that is consciously experienced, while comprehension depth (situation model quality) is not directly introspectable. The Fluency Illusion is a primary driver of the passive re-reading trap: re-reading increases fluency, increasing the felt sense of understanding, increasing false metacognitive confidence. Academic readers who have read foundational domain texts multiple times are particularly vulnerable to Fluency Illusion: the texts feel deeply comprehended, but retrieval testing often reveals surprisingly shallow conceptual understanding beneath the fluency surface.
+> The [[Fluency Illusion|Fluency Illusion]] is the systematic tendency to overestimate comprehension of text that has been repeatedly processed, because the *ease of processing* (fluency) is misinterpreted as evidence of *depth of understanding* (comprehension). Familiar text feels more comprehensible even when conceptual understanding has not improved — because perceptual fluency (faster word recognition, smoother syntactic parsing) is a salient, cognitively available cue that is consciously experienced, while comprehension depth (situation model quality) is not directly introspectable. The Fluency Illusion is a primary driver of the passive re-reading trap: re-reading increases fluency, increasing the felt sense of understanding, increasing false metacognitive confidence. Academic readers who have read foundational domain texts multiple times are particularly vulnerable to Fluency Illusion: the texts feel deeply comprehended, but retrieval testing often reveals surprisingly shallow conceptual understanding beneath the fluency surface.
 >
 > **Boundary:** The Fluency Illusion does not mean fluency is deceitful — processing fluency is a real cognitive advantage. But it is not a reliable proxy for situation model depth, and metacognitive calibration requires distinguishing the two.
 >
-> **See also:** [[fluency-illusion]], [[comprehension-monitoring]], [[metacognitive-accuracy]], [[retrieval-practice]]
+> **See also:** [[Fluency Illusion]], [[comprehension-monitoring]], [[metacognitive-accuracy]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 ### 8.3 Writing to Learn as the Highest-Order Comprehension Test
 
@@ -656,7 +656,7 @@ The research synthesized in this report generates structural principles that app
 >
 > **Concrete application:** Strategic self-questioning before video lectures ("What do I already know about this topic? What do I want to learn?"), pausing for retrieval practice after lecture segments, and translating lecture content to written notes (a form of generative processing) are all direct transfers of text-based comprehension strategies to digital learning media. The retrieval practice effect is media-independent: the mechanism (memory reconsolidation, metacognitive calibration) functions with any encoded content.
 >
-> **See also:** [[multimedia-learning]], [[cognitive-load-theory]], [[retrieval-practice]], [[self-regulated-learning]]
+> **See also:** [[multimedia-learning]], [[Cognitive Load Theory (CLT)]], [[Desirable Difficulties (Robert Bjork, 1994)]], [[self-regulated-learning]]
 
 > [!far-transfer] Transfer Domain 3: Interpersonal Comprehension and Argumentation
 >
@@ -695,7 +695,7 @@ The guiding question posed in the Schema Activation section — *What would chan
 >
 > **Boundary:** Fluent word recognition and syntactic parsing are necessary but not sufficient for comprehension in the academic sense. Comprehension failure can occur despite fully accurate decoding when background knowledge, inference capacity, text structure knowledge, or metacognitive regulation is inadequate.
 >
-> **See also:** [[reading-comprehension]], [[situation-models-in-text-comprehension]], [[metacognition]], [[schema-theory]]
+> **See also:** [[reading-comprehension]], [[situation-models-in-text-comprehension]], [[metacognition]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **Situation Model (Kintsch, 1988)**
 > A situation model is the reader's mental representation of the *situation described by a text* — incorporating not just the explicit propositions of the text but prior knowledge, spatial relationships, causal structure, temporal sequence, motivational states, and the reader's evaluative stance. It is the richest level of the three-level text representation hierarchy (surface code → textbase → situation model) and the level most predictive of performance on higher-order comprehension tasks including problem-solving and transfer.
@@ -714,7 +714,7 @@ The guiding question posed in the Schema Activation section — *What would chan
 > [!definition] **Cognitive Load (Three Types)**
 > Cognitive load refers to the demands placed on working memory — the limited-capacity system responsible for holding and manipulating information during active processing. Three types are distinguished: (1) **Intrinsic load** — load generated by the inherent complexity of the material being processed (measured in interacting elements); (2) **Extraneous load** — load generated by processing demands that do not contribute to learning (e.g., poor text organization, unnecessary complexity, unclear presentation); (3) **Germane load** — load devoted to schema construction and automation, which is productive. Instructional design for academic reading should minimize extraneous load to preserve working memory capacity for germane (learning-directed) processing.
 >
-> **See also:** [[cognitive-load-theory]], [[working-memory]], [[schema-theory-and-learning]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[working-memory]], [[schema-theory-and-learning]]
 
 > [!definition] **Schema (Reading Context)**
 > See Section 6.2 definition above.
@@ -722,7 +722,7 @@ The guiding question posed in the Schema Activation section — *What would chan
 > [!definition] **Elaborative Interrogation**
 > Elaborative interrogation is a reading strategy in which, after encountering a factual claim or explanatory statement, the reader generates the question "Why is this true?" and attempts to answer it by activating relevant prior knowledge and drawing inferences. The strategy promotes semantic elaboration (connecting the claim to a broader knowledge network) and serves simultaneously as a comprehension monitoring check (inability to generate a plausible "why" indicates shallow comprehension of the underlying concept).
 >
-> **See also:** [[elaborative-interrogation]], [[deep-processing]], [[retrieval-practice]]
+> **See also:** [[Elaborative Interrogation]], [[deep-processing]], [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 > [!definition] **The Fluency Illusion**
 > See Section 8.2 definition above.
@@ -1010,7 +1010,7 @@ Flavell (1976) ─→ Metacognition → Brown → Reciprocal Teaching
 > *Connection to this report:* Section 7.2 presents RT as the most validated reading comprehension intervention but provides only an overview of its mechanism and evidence. A dedicated RT analysis would provide the critical depth needed for instructional application.
 > *Priority:* High
 > *Suggested report type:* Annotated Critical Analysis
-> *Prerequisites:* [[metacognition]], [[scaffolding]], [[self-regulated-learning]]
+> *Prerequisites:* [[metacognition]], [[Scaffolded Fading]], [[self-regulated-learning]]
 
 > [!topic-idea] **[[metacognitive-calibration-training]]** — Interventions for Improving Monitoring Accuracy
 > *Description:* A systematic examination of empirically tested interventions for improving metacognitive accuracy — the correlation between comprehension confidence and actual performance. Focus on delayed summarization, self-testing with feedback, think-aloud training, and metacognitive prompting protocols, with effect size data and boundary conditions.
@@ -1038,7 +1038,7 @@ Flavell (1976) ─→ Metacognition → Brown → Reciprocal Teaching
 > *Connection to this report:* Section 5.3 presents self-explanation as one of the highest-utility strategies for academic comprehension — a claim with rich supporting research that warrants deeper treatment.
 > *Priority:* Medium
 > *Suggested report type:* Annotated Critical Analysis
-> *Prerequisites:* [[self-explanation-effect]], [[elaborative-interrogation]], [[deep-processing]]
+> *Prerequisites:* [[self-explanation-effect]], [[Elaborative Interrogation]], [[deep-processing]]
 
 ---
 
@@ -1049,7 +1049,7 @@ Flavell (1976) ─→ Metacognition → Brown → Reciprocal Teaching
 **Upstream Dependencies** (this report builds on these concepts):
 
 - [[metacognition]] — This report's entire Section 3 and the metacognitive architecture threading through all other sections depend on the foundations of metacognition science. Every practical recommendation in this report is grounded in the metacognition literature.
-- [[cognitive-load-theory]] — The cognitive architecture of academic reading (Section 2) is fundamentally explained through cognitive load theory's account of working memory limits and schema-based compression. Without CLT, the rationale for many strategy recommendations is incomplete.
+- [[Cognitive Load Theory (CLT)]] — The cognitive architecture of academic reading (Section 2) is fundamentally explained through cognitive load theory's account of working memory limits and schema-based compression. Without CLT, the rationale for many strategy recommendations is incomplete.
 - [[schema-theory-and-learning]] — Schema theory (Section 6.2) provides the mechanism connecting prior knowledge to comprehension quality, explaining both the Matthew Effect and the rationale for advance organizer and vocabulary development investments.
 - [[self-regulated-learning]] — The self-regulated learning framework (Section 7.4) provides the overarching architecture for the entire reading development trajectory from instructed scaffolding to autonomous lifelong reading practice.
 - [[working-memory]] — The working memory bottleneck is foundational to why decoding automaticity, schema availability, and cognitive load management matter for comprehension.
@@ -1064,9 +1064,9 @@ Flavell (1976) ─→ Metacognition → Brown → Reciprocal Teaching
 
 **Lateral Connections** (mutual enrichment):
 
-- [[desirable-difficulties]] — The "desirable difficulties" framework (Bjork) mutually strengthens the strategy recommendation hierarchy: retrieval practice and elaborative interrogation are both desirable difficulties that improve long-term learning by making acquisition more effortful. Understanding desirable difficulties explains *why* high-utility strategies often feel less effective during learning than low-utility strategies.
+- [[Desirable Difficulties (Robert Bjork, 1994)]] — The "desirable difficulties" framework (Bjork) mutually strengthens the strategy recommendation hierarchy: retrieval practice and elaborative interrogation are both desirable difficulties that improve long-term learning by making acquisition more effortful. Understanding desirable difficulties explains *why* high-utility strategies often feel less effective during learning than low-utility strategies.
 - [[zone-of-proximal-development]] — The ZPD framework (Section 7.1) is specifically applied here to reading comprehension scaffolding, enriching both the ZPD concept and the scaffolded instruction section through the concrete reading application.
-- [[retrieval-practice]] — The retrieval practice literature (testing effect) is applied specifically to reading comprehension in Section 5.4 — both the reading comprehension framework and the retrieval practice concept are enriched by their intersection here.
+- [[Desirable Difficulties (Robert Bjork, 1994)]] — The retrieval practice literature (testing effect) is applied specifically to reading comprehension in Section 5.4 — both the reading comprehension framework and the retrieval practice concept are enriched by their intersection here.
 - [[productive-struggle]] — The concept of productive struggle is laterally connected to the self-explanation and desirable difficulty principles invoked in Section 5: approaching difficult academic passages with self-explanation habits rather than disengaging represents the productive struggle pattern as applied to reading.
 - [[advance-organizer]] — Ausubel's advance organizer concept is laterally connected to the prior knowledge activation and schema theory sections. The advance organizer literature provides direct instructional operationalization of the schema-based comprehension principles in Section 6.
 - [[cog-sci-pkm-metacognition-and-its-role-in-pkm]] — This PKB note on metacognition in personal knowledge management is directly enriched by the comprehensive academic reading metacognition framework here, and conversely: the PKM metacognition context extends the academic reading metacognition framework into ongoing knowledge management contexts.

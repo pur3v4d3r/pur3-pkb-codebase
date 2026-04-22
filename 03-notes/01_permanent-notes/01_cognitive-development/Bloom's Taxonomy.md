@@ -37,7 +37,7 @@ link-related:
   - "[[ACER Framework]]"
   - "[[paul-elder-framework]]"
   - "[[Critical-Thinking-Frameworks]]"
-  - "[[cognitive-architecture]]"
+  - "[[Cognitive Architecture]]"
   - "[[critical-thinking]]"
 status: active
 

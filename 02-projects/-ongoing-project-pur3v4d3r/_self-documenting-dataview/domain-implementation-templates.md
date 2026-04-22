@@ -81,7 +81,7 @@ Application notes (research papers, study analyses, experimental designs) should
 2. **Theories**::`[[Theory 1]], [[Theory 2]]`
    - **Purpose**: Which theoretical frameworks the research engages with
    - **Format**: Array of wiki-links to theory concept notes
-   - **Example**: `Theories:: [[working-memory]], [[cognitive-load-theory]]`
+   - **Example**: `Theories:: [[working-memory]], [[Cognitive Load Theory (CLT)]]`
 
 3. **Paradigm**::`<value>`
    - **Purpose**: Broader research paradigm or school of thought
@@ -448,7 +448,7 @@ SORT StudyType ASC
 
 ### Common Applications
 
-- **[[cognitive-load-theory]]** directly builds on WM capacity limitations
+- **[[Cognitive Load Theory (CLT)]]** directly builds on WM capacity limitations
 - Educational interventions designed to reduce WM load
 - Clinical assessments of cognitive impairment
 - Human-computer interaction research
@@ -456,12 +456,12 @@ SORT StudyType ASC
 ## 🔗 Related Concepts
 
 ### Theoretical Connections
-- [[cognitive-load-theory]] - Explains learning difficulty based on WM limits
+- [[Cognitive Load Theory (CLT)]] - Explains learning difficulty based on WM limits
 - [[attention]] - Central executive function overlaps with attentional control
 - [[long-term-memory]] - Information transfer mechanisms
 
 ### Related Phenomena
-- [[chunking]] - Strategy to overcome capacity limits
+- [[Chunk (Miller, 1956; Chase & Simon, 1973)]] - Strategy to overcome capacity limits
 - [[Cognitive Interference]] - Disruption of WM processing
 
 ### Methodological Links
@@ -621,7 +621,7 @@ This has major implications for my [[learning-system-design]] notes:
 - Focus on domain-specific practice with meaningful contexts
 - Consider if PKB development itself is a form of "cognitive training" - does it transfer?
 
-Relevant to [[cognitive-load-theory]] application in my vault design:
+Relevant to [[Cognitive Load Theory (CLT)]] application in my vault design:
 - If WM capacity is relatively fixed, offloading to external systems (PKB) becomes even more critical
 - This justifies investment in automation and smart note-taking systems
 

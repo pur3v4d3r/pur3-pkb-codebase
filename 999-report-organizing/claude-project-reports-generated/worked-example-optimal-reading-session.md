@@ -62,11 +62,11 @@ related:
   - "[[metacognitive-monitoring]]"
   - "[[active-note-making]]"
   - "[[note-making-vs.-note-taking]]"
-  - "[[elaborative-interrogation]]"
-  - "[[self-explanation]]"
-  - "[[retrieval-practice]]"
+  - "[[Elaborative Interrogation]]"
+  - "[[self-explanation-effect]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
   - "[[prior-knowledge-activation]]"
-  - "[[desirable-difficulties]]"
+  - "[[Desirable Difficulties (Robert Bjork, 1994)]]"
 
 see-also:
   - "[[forethought-phase]]"
@@ -269,7 +269,7 @@ foundational-for-future-learning: true
 > The diagnostic the text implies (though doesn't state quite explicitly): if your inference ends the inquiry rather than continuing it — if "this is hard" is the *final* attribution rather than the *starting point* for a more specific analysis — then it is likely defensive. Adaptive inference always produces a *specific* next action. Defensive inference produces *withdrawal* or *deferral*.
 
 > [!reading-flag]+ ⚠️ Flag — The Desirable Difficulties Connection
-> The text cites Bjork (1994): *"conditions that feel easier during learning... typically produce worse long-term retention and transfer."* This connects to [[desirable-difficulties]], which I know separately. The implication is sharp: the difficulty that triggers defensive inference is often *exactly the difficulty that produces the deepest learning*. Defensive inference is therefore not just psychologically costly — it's epistemically costly. It exits you from the condition that would have produced the most durable understanding.
+> The text cites Bjork (1994): *"conditions that feel easier during learning... typically produce worse long-term retention and transfer."* This connects to [[Desirable Difficulties (Robert Bjork, 1994)]], which I know separately. The implication is sharp: the difficulty that triggers defensive inference is often *exactly the difficulty that produces the deepest learning*. Defensive inference is therefore not just psychologically costly — it's epistemically costly. It exits you from the condition that would have produced the most durable understanding.
 
 ---
 
@@ -288,7 +288,7 @@ foundational-for-future-learning: true
 > [!reading-key-claim]+ ✴️ Key Claim — The Cold Reconstruction Protocol
 > *"Immediately after closing the text, open a blank Obsidian note... Write everything you can reconstruct about the key claims, distinctions, mechanisms, and connections in the text — from memory only. Do not consult the text or existing notes. When complete, compare this reconstruction to the actual text. The gaps between your reconstruction and the original content are the most accurate representation of what you did not deeply process."*
 >
-> **Why this is superior to reviewing notes:** It operationalizes the [[retrieval-practice]] / [[Testing-Effect]] insight — that actively retrieving from memory strengthens memory traces more than restudying. But more importantly here, it makes comprehension gaps *visible*. The fluency illusion makes things feel understood while being skimmed; cold reconstruction forces the gap between feeling-of-understanding and actual-understanding into view.
+> **Why this is superior to reviewing notes:** It operationalizes the [[Desirable Difficulties (Robert Bjork, 1994)]] / [[Testing-Effect]] insight — that actively retrieving from memory strengthens memory traces more than restudying. But more importantly here, it makes comprehension gaps *visible*. The fluency illusion makes things feel understood while being skimmed; cold reconstruction forces the gap between feeling-of-understanding and actual-understanding into view.
 
 > [!reading-connection]+ 🔗 Connection — The Fluency Illusion
 > This is a direct operationalization of [[the-fluency-illusion]]: the experience of reading fluently creates a false sense of comprehension. The cold reconstruction protocol is specifically designed to bypass this illusion — because you cannot reconstruct what you did not actually encode. The gap is uncomfortable precisely because it reveals the illusion. That discomfort is the learning signal.
@@ -483,7 +483,7 @@ foundational-for-future-learning: true
 
 **PKB notes to create or update:**
 - `[[forethought-phase]]` — update with two-subsystem architecture detail
-- `[[causal-attribution]]` — create note on Weiner's locus/stability/controllability framework
+- `[[Attribution (Heider, 1958)]]` — create note on Weiner's locus/stability/controllability framework
 - `[[the-fluency-illusion]]` — link to Cold Reconstruction Protocol as the primary PKB instrument for bypassing it
 - `[[defensive-inference]]` — create note with the diagnostic heuristic: adaptive inference produces specific next action; defensive inference produces deferral
 

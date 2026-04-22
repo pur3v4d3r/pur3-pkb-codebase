@@ -518,7 +518,7 @@ Now you'll create a note that USES the concept, which will automatically appear 
 ## 📊 Research Metadata
 
 StudyType:: Experimental
-Theories:: [[working-memory]], [[cognitive-load-theory]]
+Theories:: [[working-memory]], [[Cognitive Load Theory (CLT)]]
 Paradigm:: Cognitivist
 Population:: University students, N=85
 KeyFindings:: WM training showed no far transfer to fluid intelligence

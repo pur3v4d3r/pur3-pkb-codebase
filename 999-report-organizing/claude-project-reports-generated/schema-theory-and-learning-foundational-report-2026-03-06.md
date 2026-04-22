@@ -129,7 +129,7 @@ prerequisites:
   - "[[Constructivism in Learning Theory]]"
 
 related:
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[metacognition-and-lifelong-learning|Metacognition and Lifelong Learning]]"
   - "[[transfer-of-learning|Transfer of Learning]]"
   - "[[Prior Knowledge Activation in Instruction]]"
@@ -155,7 +155,7 @@ see-also:
 contrasts-with:
   - "[[Behaviorism — Stimulus-Response Learning]]"
   - "[[Rote Memorization Approaches]]"
-  - "[[information-processing-model|Information Processing Model (Pure Stage Model)]]"
+  - "[[Winne's-information-processing-model|Information Processing Model (Pure Stage Model)]]"
 
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
@@ -179,7 +179,7 @@ enables:
   - "[[Expert Reasoning and Adaptive Expertise]]"
 
 expansion-topics:
-  - topic: "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - topic: "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
     description: "Schema theory's direct descendant in instructional science: how schema acquisition reduces intrinsic cognitive load, how worked examples support schema formation, and how automation of schemas frees working memory for higher-order reasoning."
     priority: high
   - topic: "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
@@ -263,7 +263,7 @@ generation-date: "2026-03-06"
 
 Consider the following scenario. A student reads a passage about a famous battle — names, dates, troop movements — and recalls it well the next morning. Two weeks later, some facts have drifted, others have been silently replaced by plausible-sounding alternatives that the student never read. The names became slightly more familiar-sounding. The tactics aligned, somehow, with what the student already knew about military strategy. What happened? Why did memory apparently *improve* on the text? The answer, as [[frederic-bartlett|Frederic Bartlett]] first argued in 1932, is that memory does not work like a recording device. It works like a storyteller, and schemas are the storyteller's narrative conventions.
 
-[[schema-theory|Schema theory]] is among the most influential conceptual frameworks in cognitive psychology and learning science. At its core, the theory proposes that long-term knowledge is organized not as isolated facts but as structured mental frameworks — schemas — that represent generalized knowledge about the world, about events, about people, about texts, and about how to act. These frameworks are simultaneously the containers in which new information arrives, the lenses through which it is interpreted, and the reconstructive templates through which it is later recalled. Understanding schemas means understanding something fundamental about why people learn, mislearn, forget, and remember the way they do.
+[[schema-theory-and-knowledge-organization|Schema theory]] is among the most influential conceptual frameworks in cognitive psychology and learning science. At its core, the theory proposes that long-term knowledge is organized not as isolated facts but as structured mental frameworks — schemas — that represent generalized knowledge about the world, about events, about people, about texts, and about how to act. These frameworks are simultaneously the containers in which new information arrives, the lenses through which it is interpreted, and the reconstructive templates through which it is later recalled. Understanding schemas means understanding something fundamental about why people learn, mislearn, forget, and remember the way they do.
 
 **Why this topic matters.** The practical stakes of schema theory are high. For educators, schema theory offers a principled explanation of the role of prior knowledge in learning — not merely as background information but as the cognitive architecture that new learning must attach to, reorganize, or displace. For instructional designers, it provides a framework for sequencing content, designing [[advance-organizers|advance organizers]], and anticipating the ways in which learners' existing frameworks will shape what they take from instruction. For learners themselves, understanding schemas supports [[metacognitive-awareness|metacognitive awareness]] — the ability to recognize when one's existing frameworks are facilitating, distorting, or blocking comprehension.
 
@@ -451,7 +451,7 @@ Schema theory's explanatory power is real but bounded. Several limitations deser
 > Schemas are not universal — they are constructed through individual and cultural experience. Bartlett's original cross-cultural data showed that schemas vary dramatically across cultural contexts. The large majority of schema research has been conducted with Western, university-educated participants, creating genuine questions about the generalizability of findings about default schema content, typical schema activation patterns, and the effects of schema mismatch. Instruction designed on the assumption that students share relevant schemas may disadvantage students whose cultural backgrounds have equipped them with different frameworks.
 
 > [!important] **Underspecification of Schema Formation Mechanisms**
-> Schema theory is considerably stronger as an account of how schemas operate (activation, slot-filling, reconstruction) than as an account of how they form. The processes by which experience is abstracted into schematic knowledge — through what exposure conditions, at what grain size, with what sensitivity to individual versus prototypical instances — remain incompletely understood. [[cognitive-load-theory|Cognitive load theory]] and research on [[spaced-practice|spaced practice]] and [[interleaved practice]] have begun to address the conditions that support schema formation, but the field lacks a fully adequate theory of the formation process itself.
+> Schema theory is considerably stronger as an account of how schemas operate (activation, slot-filling, reconstruction) than as an account of how they form. The processes by which experience is abstracted into schematic knowledge — through what exposure conditions, at what grain size, with what sensitivity to individual versus prototypical instances — remain incompletely understood. [[Cognitive Load Theory (CLT)|Cognitive load theory]] and research on [[spaced-practice|spaced practice]] and [[interleaved practice]] have begun to address the conditions that support schema formation, but the field lacks a fully adequate theory of the formation process itself.
 
 **Common misconceptions.** Two misconceptions about schema theory deserve explicit correction. First, schema theory does not imply that all prior knowledge facilitates learning — as the interference literature abundantly shows, the quality and accuracy of prior schemas matter enormously. Second, schema theory is not an argument against direct instruction or explicit knowledge transfer; it is an argument that instruction must be designed with an understanding of the cognitive frameworks that learners bring, regardless of whether instruction is direct or discovery-based.
 
@@ -489,7 +489,7 @@ Several important questions remain open. How exactly are schemas formed from exp
 >
 > - **[[metacognition-and-critical-thinking|Metacognition and Critical Thinking]]** — The Paul-Elder framework's emphasis on questioning assumptions connects directly to schema theory's account of schema interference: critical thinking, in part, is the capacity to surface, examine, and test the schemas through which one is currently interpreting a situation. Schön's reflection-in-action and reflection-on-action are, schema-theoretically, processes of schema examination during and after deployment. The Reflective Judgment Model's developmental progression maps neatly onto the schema-theoretic account of how knowledge frameworks become increasingly differentiated, calibrated, and epistemically aware.
 >
-> - **[[cognitive-load-theory|Cognitive Load Theory]]** (anticipated expansion) — Schema theory is the conceptual foundation of cognitive load theory: Sweller's account of intrinsic cognitive load rests on the claim that schemas, when formed, chunk information into single units that can be handled as one element in working memory — dramatically reducing the load of processing familiar material. The development of expertise, in CLT, is fundamentally the development of an extensive, well-organized repertoire of schemas. Reports on these two frameworks should be read as complementary: schema theory describes the structure; CLT describes the processing consequences.
+> - **[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]** (anticipated expansion) — Schema theory is the conceptual foundation of cognitive load theory: Sweller's account of intrinsic cognitive load rests on the claim that schemas, when formed, chunk information into single units that can be handled as one element in working memory — dramatically reducing the load of processing familiar material. The development of expertise, in CLT, is fundamentally the development of an extensive, well-organized repertoire of schemas. Reports on these two frameworks should be read as complementary: schema theory describes the structure; CLT describes the processing consequences.
 >
 > The pattern across these connections reveals that schema theory is less a self-contained framework than a conceptual foundation that recurs throughout the learning sciences: metacognition is the monitoring of one's schemas; critical thinking is the examination of one's schemas; cognitive load is reduced by the formation and automation of schemas; transfer is enabled by the abstraction of schemas across contexts. To understand schemas is to understand a central organizing theme of the entire field.
 

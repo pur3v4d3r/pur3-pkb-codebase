@@ -834,7 +834,7 @@ related_concepts:
   - "[[Chain-of-Verification]]"
   - "[[Reflexion]]"
   - "[[extended-thinking-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive Scaffolding]]"
   - "[[Research-Methodology]]"
 
 # GOVERNANCE & VERSIONING

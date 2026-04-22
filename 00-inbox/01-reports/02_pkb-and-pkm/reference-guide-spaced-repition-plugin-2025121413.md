@@ -1161,7 +1161,7 @@ tags: [#flashcards/<% tp.file.folder() %>]
 **[[Tasks-Plugin]]:**
 Track "Create flashcards for X" tasks:
 ```markdown
-- [ ] Convert [[cognitive-load-theory]] notes to flashcards #task/learning
+- [ ] Convert [[Cognitive Load Theory (CLT)]] notes to flashcards #task/learning
 ```
 
 ---
@@ -1183,7 +1183,7 @@ Track "Create flashcards for X" tasks:
 3. **[[Effective Flashcard Design]]**
    - *Connection*: Principles for creating high-quality flashcards that maximize retention
    - *Depth Potential*: Atomic card principle, context preservation, mnemonic techniques, multi-modal learning
-   - *Knowledge Graph Role*: Practical application of [[cognitive-load-theory]], [[dual-coding-theory]], and [[desirable-difficulties]]
+   - *Knowledge Graph Role*: Practical application of [[Cognitive Load Theory (CLT)]], [[dual-coding-theory]], and [[Desirable Difficulties (Robert Bjork, 1994)]]
 
 4. **[[Active Recall vs. Passive Review]]**
    - *Connection*: The cognitive mechanism that makes spaced repetition effective

@@ -447,7 +447,7 @@ extraction_summary:
 - [[vygotsky]]
 - [[william-james]]
 - [[critical-thinking]]
-- [[desirable-difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[domain-knowledge]]
 - [[dysrationalia]]
 - [[metacognition]]
@@ -494,7 +494,7 @@ extraction_summary:
 | 35 | [[john-hattie]] | — | — | Designing Learning Experiences for Me... | 406 |
 | 36 | [[Gregory-Yates]] | — | — | Designing Learning Experiences for Me... | 406 |
 | 37 | [[paul-elder-framework]] | — | — | Designing Learning Experiences for Me... | 408 |
-| 38 | [[desirable-difficulties]] | — | — | Designing Learning Experiences for Me... | 410 |
+| 38 | [[Desirable Difficulties (Robert Bjork, 1994)]] | — | — | Designing Learning Experiences for Me... | 410 |
 | 39 | [[King-and-Kitchener]] | — | — | Designing Learning Experiences for Me... | 413 |
 | 40 | [[self-regulated-learning]] | — | — | Designing Learning Experiences for Me... | 415 |
 | 41 | [[metacognition]] | — | — | The Unified Picture | 449 |
@@ -558,7 +558,7 @@ extraction_summary:
 - [[vygotsky]]
 - [[william-james]]
 - [[critical-thinking]]
-- [[desirable-difficulties]]
+- [[Desirable Difficulties (Robert Bjork, 1994)]]
 - [[domain-knowledge]]
 - [[dysrationalia]]
 - [[metacognition]]

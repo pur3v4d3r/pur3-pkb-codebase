@@ -1311,10 +1311,10 @@ Schema theory is closely related to — but not identical to — semantic networ
 
 ### 3.6 The Cognitive Load Architecture: Working Memory as Schema's Processing Interface
 
-The interaction between schemas and [[cognitive-load-theory]] reveals an important structural feature of schema-based cognition. Schemas reside in [[long-term-memory]] and are retrieved into [[working-memory]] for application. But the retrieval process itself has a critical architectural implication: **an automated schema occupies minimal working memory capacity when active**, regardless of the schema's complexity.
+The interaction between schemas and [[Cognitive Load Theory (CLT)]] reveals an important structural feature of schema-based cognition. Schemas reside in [[long-term-memory]] and are retrieved into [[working-memory]] for application. But the retrieval process itself has a critical architectural implication: **an automated schema occupies minimal working memory capacity when active**, regardless of the schema's complexity.
 
 > [!technical-detail] **Technical Detail: Schema Automation and Working Memory Load Reduction**
-> Sweller, van Merrienboer, and Paas's [[cognitive-load-theory]] specifies that working memory has severe capacity limits (~4 elements, ~150s retention without rehearsal). Performance on complex tasks would be impossible if each element of a complex task required full working memory representation.
+> Sweller, van Merrienboer, and Paas's [[Cognitive Load Theory (CLT)]] specifies that working memory has severe capacity limits (~4 elements, ~150s retention without rehearsal). Performance on complex tasks would be impossible if each element of a complex task required full working memory representation.
 >
 > The resolution is schema automation (Sweller 1988):
 > - A well-automated schema in [[long-term-memory]] can be loaded into working memory as a *single element*, regardless of the number of components it encodes
@@ -1465,7 +1465,7 @@ Schema dynamics also include a developmental trajectory from effortful, consciou
 > **Stage 3 — Autonomous (Automatic) Stage:**
 > Full schema automation. The schema is activated by the appropriate cues without deliberate effort, and application proceeds without consuming working memory capacity. The learner can no longer easily introspect the schema — they feel they are simply "perceiving" the pattern, not applying a rule. Experts at this stage often cannot articulate their schemas despite using them flawlessly.
 >
-> **The tacit knowledge problem:** As schemas automate, they become tacit — inaccessible to conscious inspection and verbal report. This is why expert instructors often make poor novice teachers: they have lost conscious access to the sub-schemas they apply automatically, and therefore cannot articulate what novices need to learn. [[expert-blind-spot]] is partly the result of schema automation.
+> **The tacit knowledge problem:** As schemas automate, they become tacit — inaccessible to conscious inspection and verbal report. This is why expert instructors often make poor novice teachers: they have lost conscious access to the sub-schemas they apply automatically, and therefore cannot articulate what novices need to learn. [[Expert Blind Spot]] is partly the result of schema automation.
 
 [**Schema-Automation-Tacit-Knowledge**:: Schema automation produces tacit knowledge — the expert can apply the schema flawlessly but cannot introspect or articulate its structure; this inaccessibility is the mechanism behind expert blindness and the difficulty experts have in teaching novices who lack automated sub-schemas.]
 
@@ -1536,7 +1536,7 @@ The oldest and most replicated edge case in schema theory is the **schema intrus
 
 ### 5.2 The Expert Blindness Paradox: When Schema Richness Causes Misses
 
-Expert schema automation produces a paradox: highly expert processing is simultaneously more accurate (on typical instances) and more vulnerable to systematic misses of atypical instances. This is the **[[expert-blind-spot]]** phenomenon, but the mechanism here is specifically the schema suppression effect on schema-incongruent information.
+Expert schema automation produces a paradox: highly expert processing is simultaneously more accurate (on typical instances) and more vulnerable to systematic misses of atypical instances. This is the **[[Expert Blind Spot]]** phenomenon, but the mechanism here is specifically the schema suppression effect on schema-incongruent information.
 
 > [!edge-case] **Edge Case: Expert Schema Suppression of Anomalous Cues**
 > **The case:** When an expert's well-automated schema is activated by a highly typical pattern of cues, the top-down constraint from the activated schema actively suppresses attention to cues that don't fit the schema. The expert has less conscious access to anomalous features than a novice would, because the novice's less-dominant schema has weaker suppressive effects.
@@ -1802,7 +1802,7 @@ A neuroscience-level frontier question concerns how schemas bind their variable 
 > - How binding errors (misattributing features to the wrong schema slot) are related to gamma coherence disruptions
 > - Whether schema instantiation binding is computationally equivalent to object-feature binding in perception (gamma coherence), or whether these are distinct mechanisms
 >
-> **Implications for [[cognitive-load-theory]]:** If binding requires working memory resources, then simultaneously instantiating multiple schemas with multiple variable bindings should produce additive cognitive load — a prediction that maps onto the "intrinsic cognitive load" concept in Sweller's framework.
+> **Implications for [[Cognitive Load Theory (CLT)]]:** If binding requires working memory resources, then simultaneously instantiating multiple schemas with multiple variable bindings should produce additive cognitive load — a prediction that maps onto the "intrinsic cognitive load" concept in Sweller's framework.
 
 > [!section-summary] **Level 6 Summary: The Frontier**
 > At edge cases level, schema theory was constrained and enriched by specific boundary conditions. At frontier level, we can see where schema theory is being actively extended:
@@ -1884,7 +1884,7 @@ The most speculative frontier in schema theory's applied context concerns whethe
 >
 > **Potential mechanism:** If schemas form through statistical regularities extracted from multiple exposures, then artificial provision of a large number of rich, varied instances — via simulation, case library, pattern-extraction exercises — might approximate years of clinical experience in compressed time. Not by replacing real experience but by pre-populating the statistical regularities that make real experience more efficiently processed.
 >
-> **The challenge:** This requires knowing what statistical regularities the target schema should encode — which means experts need to reverse-engineer their own tacit schemas (tacit knowledge extraction). Since expert schemas are automated and tacit (Level 4), this reverse engineering is systematically difficult. The [[expert-blind-spot]] problem recurs here: experts may not be able to specify the schemas they use, making it hard to design experiences that install them.
+> **The challenge:** This requires knowing what statistical regularities the target schema should encode — which means experts need to reverse-engineer their own tacit schemas (tacit knowledge extraction). Since expert schemas are automated and tacit (Level 4), this reverse engineering is systematically difficult. The [[Expert Blind Spot]] problem recurs here: experts may not be able to specify the schemas they use, making it hard to design experiences that install them.
 >
 > **The AI angle:** Large language models, having been trained on text that encodes millions of instances of domain-relevant patterns, may contain a form of statistical regularization of domain schemas. If users can interact with these models in ways that transmit statistical regularities (not just facts), and if those regularities are organized at the schema level, then AI interaction might function as a form of accelerated schema pre-installation.
 >
@@ -2378,7 +2378,7 @@ The following 12 seeds are designed for importation into a spaced-repetition sys
 > **Suggested report type:** Foundational Report or Deep Dive
 > **Topic:** CLT's full account — intrinsic, extraneous, and germane load; element interactivity; worked examples; expertise reversal; split-attention; modality effects; instructional design predictions.
 > **Connection:** Level 3 (Substructure) established the schema-WM interface; CLT is the operationalized theory for educational application of this interface.
-> **Starting point:** Sweller et al. (1998); [[cognitive-load-theory]]; [[germane-cognitive-load]]
+> **Starting point:** Sweller et al. (1998); [[Cognitive Load Theory (CLT)]]; [[Cognitive Load Theory (CLT)]]
 > **Depth potential:** High — established field with many well-replicated effects and ongoing boundary condition research.
 
 > [!rabbit-hole] **Expansion: Sleep and Memory Consolidation — The Neurobiological Mechanism**
@@ -2404,7 +2404,7 @@ The following vault wiki-links were cited or implicated in this report, organize
 **Level 1 — Surface**
 - [[bartlett]] — Foundational experimental work on reconstructive memory
 - [[reconstructive-memory]] — Core mechanism: memory as re-generation not replay
-- [[schema-theory]] — Parent theoretical tradition
+- [[schema-theory-and-knowledge-organization]] — Parent theoretical tradition
 - [[mental-models]] — Adjacent construct to schemas; contrast relationship
 - [[Scripts-Schank-Abelson]] — Temporal sub-class of schemas
 - [[Prototype-Theory]] — Alternative model of categorical knowledge
@@ -2425,7 +2425,7 @@ The following vault wiki-links were cited or implicated in this report, organize
 - [[Attractor-Networks-Hopfield]] — Connectionist attractor basin model
 - [[schema-hierarchy]] — Hierarchical nesting of sub-schemas
 - [[spreading-activation]] — Collins & Loftus activation model
-- [[cognitive-load-theory]] — WM-schema interface (Sweller)
+- [[Cognitive Load Theory (CLT)]] — WM-schema interface (Sweller)
 - [[working-memory]] — Baddeley's model; interface with schema automation
 - [[long-term-memory]] — Schema as long-term knowledge organization
 

@@ -129,14 +129,14 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[memory-systems|Memory Systems]]"
   - "[[self-regulated-learning|Self-Regulated Learning]]"
 
 related:
   - "[[automaticity]]"
   - "[[self-efficacy-theory|Self-Efficacy Theory]]"
-  - "[[attribution-theory|Attribution Theory]]"
+  - "[[Attribution (Heider, 1958)|Attribution Theory]]"
   - "[[growth-mindset|Growth Mindset]]"
   - "[[metacognitive-regulation|Metacognitive Regulation]]"
   - "[[volitional-congruence]]"
@@ -149,10 +149,10 @@ broader:
 narrower:
   - "[[identity-based-habits]]"
   - "[[cortico-striatal-learning-loops]]"
-  - "[[implementation-intentions|Implementation Intentions]]"
+  - "[[goal-intention|Implementation Intentions]]"
 
 see-also:
-  - "[[schema-theory]]"
+  - "[[schema-theory-and-knowledge-organization]]"
   - "[[levels-of-processing-theory]]"
   - "[[procedural-memory]]"
   - "[[flow]]"
@@ -160,7 +160,7 @@ see-also:
 
 contrasts-with:
   - "[[goal-orientation]]"
-  - "[[intrinsic-motivation]]"
+  - "[[Intrinsic Motivation]]"
 
 applied-in:
   - "[[self-directed-learning]]"
@@ -171,7 +171,7 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[cognitive-load-theory|Cognitive Load Theory]]"
+  - "[[Cognitive Load Theory (CLT)|Cognitive Load Theory]]"
   - "[[memory-systems|Memory Systems]]"
   - "[[self-determination-theory|Self-Determination Theory]]"
   - "[[achievement-goal-theory|Achievement Goal Theory]]"
@@ -182,7 +182,7 @@ enables:
   - "[[Metacognition-&-Lifelong-Learning]]"
 
 expansion-topics:
-  - topic: "[[implementation-intentions|Implementation Intentions]]"
+  - topic: "[[goal-intention|Implementation Intentions]]"
     description: "Gollwitzer's if-then planning as a technology for bridging intention-behavior gaps; meta-analytic evidence and mechanisms"
     priority: "high"
   - topic: "[[Cue-Routine-Reward-Loop]]"
@@ -262,7 +262,7 @@ Consider the last hour of your morning. Did you make explicit decisions about br
 
 Habit science sits at a compelling intersection. It is simultaneously a branch of neuroscience (concerned with the basal ganglia and dopaminergic reinforcement circuits), cognitive psychology (concerned with [[automaticity]], [[procedural-memory]], and cognitive resource liberation), motivational theory (concerned with why we initiate, sustain, and abandon behavioral routines), and learning theory (concerned with what distinguishes learning that persists versus learning that dissolves). For students of [[self-regulated-learning]], habit formation represents the volitional horizon toward which all disciplined practice aims: the point at which effortful regulation becomes second nature.
 
-This report does not attempt to cover all human behavior change. Its scope is specifically the formation, maintenance, modification, and extinction of habitual behavioral patterns — automatic, context-triggered responses that have been acquired through experience. It does not comprehensively cover willpower as a construct, emotion regulation, or clinical behavior therapy except where these bear directly on habit mechanisms. Readers seeking a comprehensive treatment of [[self-regulated-learning]] or [[attribution-theory]] should consult those dedicated reports; this report assumes familiarity with the general architecture of [[cognitive-load-theory]] and [[memory-systems]] without recapitulating those frameworks in depth.
+This report does not attempt to cover all human behavior change. Its scope is specifically the formation, maintenance, modification, and extinction of habitual behavioral patterns — automatic, context-triggered responses that have been acquired through experience. It does not comprehensively cover willpower as a construct, emotion regulation, or clinical behavior therapy except where these bear directly on habit mechanisms. Readers seeking a comprehensive treatment of [[self-regulated-learning]] or [[Attribution (Heider, 1958)]] should consult those dedicated reports; this report assumes familiarity with the general architecture of [[Cognitive Load Theory (CLT)]] and [[memory-systems]] without recapitulating those frameworks in depth.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, pause and identify three habits you currently hold — one you regard as positive, one you regard as negative, and one that feels neutral. For each, ask yourself: *How did this habit form? What triggers it? What reward does it deliver?* Articulating your existing intuitions now will make the theoretical content land with far more precision.
@@ -291,7 +291,7 @@ The term "habit" carries considerable colloquial weight, which makes a careful t
 >
 > **Boundary:** Automaticity exists on a continuum rather than as a binary state. Even well-practiced routines retain some sensitivity to disruption, attention, and context change. The claim that habits are "fully automatic" is an idealization; degrees of automaticity is the more accurate framing.
 >
-> **See also:** [[cognitive-load-theory]], [[chunking]], [[Skill-Acquisition]], [[schema-automation]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Chunk (Miller, 1956; Chase & Simon, 1973)]], [[Skill-Acquisition]], [[Schema Automation]]
 
 The distinction between [[habit]] and goal-directed action is foundational to the entire field. Goal-directed actions are instrumental: they are performed because the agent values the outcome and currently believes the action produces that outcome. Habits are stimulus-bound: they are triggered by context regardless of whether the agent, in the current moment, values the outcome. When a rat trained to press a lever for food pellets continues pressing even after the pellets have been made unpalatable (through devaluation procedures), it is exhibiting habitual behavior. When it stops pressing after devaluation, it is exhibiting goal-directed behavior. This devaluation paradigm — pioneered in rodent neuroscience and increasingly adapted for human studies — provides the gold standard for distinguishing the two systems empirically.
 
@@ -300,19 +300,19 @@ The distinction between [[habit]] and goal-directed action is foundational to th
 >
 > **Boundary:** Not all cues are consciously noticed. Much habit-triggering occurs sub-attentionally — the individual executes the routine without having registered the cue as salient. This is precisely why habit modification requires deliberate cue identification work.
 >
-> **See also:** [[behavioral-modification]], [[cortico-striatal-learning-loops]], [[schema-theory]]
+> **See also:** [[behavioral-modification]], [[cortico-striatal-learning-loops]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **Routine**
 > The behavioral sequence that constitutes the habitual response itself — the "middle term" of the habit loop. Routines may be simple (a single motor gesture) or complex (an extended behavioral chain). What unifies them is that the entire sequence is packaged as a single executable unit in memory, typically through the process of chunking in the [[basal-ganglia|basal ganglia]].
 >
-> **See also:** [[chunking]], [[procedural-memory]], [[Skill-Acquisition]]
+> **See also:** [[Chunk (Miller, 1956; Chase & Simon, 1973)]], [[procedural-memory]], [[Skill-Acquisition]]
 
 > [!definition] **Reward (Habit Reinforcer)**
 > The positive outcome — whether hedonic, social, or informational — that follows a routine and reinforces the cue-routine association through dopaminergic signaling. Crucially, in established habits, the *anticipation* of reward (craving) becomes as motivationally significant as reward receipt itself, creating the pull that makes habits self-sustaining.
 >
 > **Boundary:** The reward need not be a conscious pleasure. Stress reduction, social belonging, or a sense of completion can all function as habit-maintaining rewards. Many destructive habits persist through negative reinforcement — the reduction of an aversive state — rather than positive reinforcement.
 >
-> **See also:** [[intrinsic-motivation]], [[extrinsic-motivation]], [[self-determination-theory]]
+> **See also:** [[Intrinsic Motivation]], [[extrinsic-motivation]], [[self-determination-theory]]
 
 ### The Intellectual Genealogy of Habit Science
 
@@ -353,7 +353,7 @@ This has counterintuitive implications. A behavior performed every day but alway
 
 ### Implementation Intentions: Bridging Intention and Action
 
-One of the most practically important theoretical contributions to habit formation is Peter Gollwitzer's work on [[implementation-intentions|implementation intentions]] (1999). Gollwitzer identified a critical gap in standard motivational frameworks: the fact that people frequently hold strong intentions to perform a behavior without reliably executing it — the intention-action gap. Implementation intentions address this gap through if-then planning: *if situation X arises, then I will perform behavior Y*. This pre-commitment to a specific action in a specific situation effectively creates an automatic cue-routine link before the situation is encountered.
+One of the most practically important theoretical contributions to habit formation is Peter Gollwitzer's work on [[goal-intention|implementation intentions]] (1999). Gollwitzer identified a critical gap in standard motivational frameworks: the fact that people frequently hold strong intentions to perform a behavior without reliably executing it — the intention-action gap. Implementation intentions address this gap through if-then planning: *if situation X arises, then I will perform behavior Y*. This pre-commitment to a specific action in a specific situation effectively creates an automatic cue-routine link before the situation is encountered.
 
 > [!key-claim] **The Meta-Analytic Effect of Implementation Intentions**
 > A meta-analysis of 94 independent studies (Gollwitzer & Sheeran, 2006) found that implementation intentions had a medium-to-large effect on goal-directed behavior (d ≈ 0.65), roughly doubling the likelihood of goal achievement compared to mere motivational intentions. The proposed mechanism is that if-then planning creates a prospective memory cue: when the situational trigger is encountered, the intended response comes to mind automatically, without requiring deliberate recollection.
@@ -370,7 +370,7 @@ The connection between implementation intentions and [[habit-formation]] is theo
 > [!key-claim] **Identity as a Habit Maintenance Mechanism**
 > The identity-based account predicts that habits built on identity-level commitments are more robust to motivational variability than habits built on outcome-level goals. An outcome-focused individual abandons their exercise habit when the goal is achieved or seems unattainable; an identity-focused individual continues because cessation would threaten self-concept coherence.
 
-This framework connects productively to the PKB's existing work on [[growth-mindset]] — Dweck's research on implicit theories of ability operates partly through identity-level mechanisms — and to [[self-determination-theory]]'s account of integrated regulation, in which external behaviors are progressively internalized into the self-concept. When a habit reaches the [[integrated-regulation]] level in the SDT continuum, it is experienced not as an obligation but as an expression of who one is.
+This framework connects productively to the PKB's existing work on [[growth-mindset]] — Dweck's research on implicit theories of ability operates partly through identity-level mechanisms — and to [[self-determination-theory]]'s account of integrated regulation, in which external behaviors are progressively internalized into the self-concept. When a habit reaches the [[Integrated Regulation]] level in the SDT continuum, it is experienced not as an obligation but as an expression of who one is.
 
 > [!reflection] **Engaging the Landscape**
 > 1. The habit loop account and the identity-based account operate at different levels of description. Do they conflict, or can both be true simultaneously? Can a habit be well-explained by a neurological cue-routine-reward account and *also* by an identity-consistency account?
@@ -417,7 +417,7 @@ This has important implications for designing PKB workflows, study routines, and
 
 ### Habit and Cognitive Load: The Liberation Mechanism
 
-A critical connection to [[cognitive-load-theory]] follows directly from the automaticity account. When a behavior is habitual, it requires minimal working-memory resources to execute — it does not compete for the limited cognitive bandwidth of System 2. This "liberation mechanism" is the primary reason that skilled practitioners in any domain — expert surgeons, virtuoso musicians, master teachers — can engage in complex adaptive thinking while simultaneously executing highly practiced routines. The routine runs on habit circuits; the thinking runs on prefrontal resources.
+A critical connection to [[Cognitive Load Theory (CLT)]] follows directly from the automaticity account. When a behavior is habitual, it requires minimal working-memory resources to execute — it does not compete for the limited cognitive bandwidth of System 2. This "liberation mechanism" is the primary reason that skilled practitioners in any domain — expert surgeons, virtuoso musicians, master teachers — can engage in complex adaptive thinking while simultaneously executing highly practiced routines. The routine runs on habit circuits; the thinking runs on prefrontal resources.
 
 For learners, this has a direct implication: the earlier in a learning sequence that foundational procedural skills (reading fluency, basic computation, vocabulary retrieval) are made habitual, the more cognitive resources are available for higher-order comprehension, synthesis, and problem-solving. [[levels-of-processing-theory]] complements this perspective: deep encoding of information in early practice is what enables later automatic retrieval, freeing attention from basic decoding tasks.
 
@@ -461,7 +461,7 @@ The *WEIRD-sample concern* is significant: much of the human habit research has 
 > Many popular accounts imply that once a habit is formed, no further mental resources are required. The empirical reality is more nuanced: even well-established habits are not truly "automatic" in an absolute sense. They remain susceptible to disruption by high cognitive load, emotional stress, and cue environment changes. The claim should be understood as *relative* automaticity — habits require substantially fewer resources than equivalent non-habitual behaviors, not zero resources.
 
 > [!warning] **The Habit Trap: When Automation Impedes Growth**
-> Habits optimize for consistency within stable conditions, but learning and expertise development require ongoing challenge and adaptation. The expert learner faces the paradox that habitualized study routines — while cognitively efficient — can become ruts: producing the comfortable feeling of activity without the generative struggle that drives genuine learning. [[productive-failure]] research (Kapur) suggests that desirable difficulties — conditions that feel inefficient but drive deeper encoding — are precisely what habitual routines tend to eliminate. The skilled self-regulated learner must maintain awareness of when habitual routines have become comfortable and when disruptive challenge is needed.
+> Habits optimize for consistency within stable conditions, but learning and expertise development require ongoing challenge and adaptation. The expert learner faces the paradox that habitualized study routines — while cognitively efficient — can become ruts: producing the comfortable feeling of activity without the generative struggle that drives genuine learning. [[Productive Failure]] research (Kapur) suggests that desirable difficulties — conditions that feel inefficient but drive deeper encoding — are precisely what habitual routines tend to eliminate. The skilled self-regulated learner must maintain awareness of when habitual routines have become comfortable and when disruptive challenge is needed.
 
 > [!reflection] **From Understanding to Action**
 > 1. Given the context-dependency of habit triggers, what is one specific environmental change in your study or work context that would strengthen a desired habit you are trying to build?
@@ -487,7 +487,7 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 >
 > **Upstream Dependencies (this report builds on):**
 >
-> - **[[cognitive-load-theory]]** — The liberation mechanism at the heart of habit formation *is* a cognitive load phenomenon: automaticity shifts the processing of routine behaviors from high-load working-memory systems to low-load basal ganglia circuits, directly instantiating CLT's prediction that expertise involves the gradual migration of element interactivity from intrinsic to managed resources.
+> - **[[Cognitive Load Theory (CLT)]]** — The liberation mechanism at the heart of habit formation *is* a cognitive load phenomenon: automaticity shifts the processing of routine behaviors from high-load working-memory systems to low-load basal ganglia circuits, directly instantiating CLT's prediction that expertise involves the gradual migration of element interactivity from intrinsic to managed resources.
 >
 > - **[[memory-systems]]** — Habit formation is fundamentally a shift in the *type* of memory encoding: from declarative, consciously accessible memory (encoding what the behavior is) to non-declarative, procedural memory (encoding how the behavior runs). This report's mechanistic account depends on the multi-system memory architecture established in the Memory Systems report.
 >
@@ -503,9 +503,9 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 >
 > **Lateral Connections (mutual enrichment):**
 >
-> - **[[schema-theory]]** — Schemas and habits are both automatized cognitive structures: schemas are knowledge organizations that enable pattern recognition without effortful deliberation, while habits are behavioral programs that execute without effortful goal activation. The processes of schema construction and habit formation share the same reduction-of-cognitive-load architecture and the same context-dependency mechanisms.
+> - **[[schema-theory-and-knowledge-organization]]** — Schemas and habits are both automatized cognitive structures: schemas are knowledge organizations that enable pattern recognition without effortful deliberation, while habits are behavioral programs that execute without effortful goal activation. The processes of schema construction and habit formation share the same reduction-of-cognitive-load architecture and the same context-dependency mechanisms.
 >
-> - **[[attribution-theory]]** — How individuals attribute their successes and failures in habit formation significantly shapes whether they persist through the slow, discouraging early phase or abandon the attempt. Mastery-oriented attribution patterns (attributing setbacks to strategy and effort rather than fixed ability) are functionally necessary for surviving the 66-day formation curve.
+> - **[[Attribution (Heider, 1958)]]** — How individuals attribute their successes and failures in habit formation significantly shapes whether they persist through the slow, discouraging early phase or abandon the attempt. Mastery-oriented attribution patterns (attributing setbacks to strategy and effort rather than fixed ability) are functionally necessary for surviving the 66-day formation curve.
 >
 > - **[[growth-mindset]]** — The growth mindset framework is, among other things, a framework about the habitualibility of the learning process itself: the belief that ability can be developed is essentially the belief that the right practice can create habitual competence where none previously existed. The theoretical connection is deep.
 >
@@ -553,7 +553,7 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 >
 > **Boundary:** Chunking is not simple memorization. A chunk is not merely recalled but *executed* — it is a performance program, not a retrieval record.
 >
-> **See also:** [[cortico-striatal-learning-loops]], [[Skill-Acquisition]], [[schema-automation]], [[memory-systems]]
+> **See also:** [[cortico-striatal-learning-loops]], [[Skill-Acquisition]], [[Schema Automation]], [[memory-systems]]
 
 > [!definition] **Habit Devaluation Paradigm**
 > An experimental procedure in which the reward value associated with a habitual behavior is reduced *after* the habit is established, allowing researchers to test whether the behavior persists (indicating habit) or ceases (indicating goal-directedness). The persistence of behavior after devaluation is the operational criterion for habit in the behavioral neuroscience literature.
@@ -561,23 +561,23 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 > **See also:** [[cortico-striatal-learning-loops]], [[behavioral-modification]]
 
 > [!definition] **Automaticity (Shiffrin & Schneider, 1977; Bargh, 1994)**
-> The property of cognitive processes and behavioral routines that execute rapidly, without deliberate initiation, without consuming significant attentional resources, and without being accessible to introspective modification during execution. [[automaticity]] is the functional signature of well-established habits and the primary mechanism through which repeated practice reduces the [[cognitive-load]] of skilled performance.
+> The property of cognitive processes and behavioral routines that execute rapidly, without deliberate initiation, without consuming significant attentional resources, and without being accessible to introspective modification during execution. [[automaticity]] is the functional signature of well-established habits and the primary mechanism through which repeated practice reduces the [[Cognitive Load Theory (CLT)]] of skilled performance.
 >
 > **Boundary:** Automaticity is not a binary state but a continuum. The terms "fully automatic" and "completely controlled" describe theoretical poles; real behaviors occupy intermediate positions, with automaticity increasing as a function of practice.
 >
-> **See also:** [[cognitive-load-theory]], [[schema-automation]], [[levels-of-processing-theory]], [[procedural-memory]]
+> **See also:** [[Cognitive Load Theory (CLT)]], [[Schema Automation]], [[levels-of-processing-theory]], [[procedural-memory]]
 
 > [!definition] **Context-Dependency of Habit**
 > The empirical phenomenon, documented extensively by Wendy Wood and colleagues, in which habitual behavior is strongly bound to the specific contextual features present during habit formation — including location, time, social environment, and preceding events. The same individual may show dramatically different habit strength for the same behavior across different contexts.
 >
 > **Boundary:** Context-dependency does not mean habits are infinitely fragile. Strong habits survive moderate context disruption; what matters is the degree of overlap between the original encoding context and the current performance context.
 >
-> **See also:** [[habit-formation]], [[behavioral-modification]], [[schema-theory]]
+> **See also:** [[habit-formation]], [[behavioral-modification]], [[schema-theory-and-knowledge-organization]]
 
 > [!definition] **Craving (Clear, 2018; Schultz dopamine research)**
 > The anticipatory motivational state triggered by a habit cue — the desire for the reward before any action has occurred. Craving is proposed to be the motivational bridge between cue and routine, and the primary source of the "pull" that makes established habits feel compelling rather than merely automatic.
 >
-> **See also:** [[intrinsic-motivation]], [[extrinsic-motivation]], [[cortico-striatal-learning-loops]]
+> **See also:** [[Intrinsic Motivation]], [[extrinsic-motivation]], [[cortico-striatal-learning-loops]]
 
 ---
 
@@ -629,7 +629,7 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 >
 > **This Report's Position:** Position B is theoretically preferable. The relevant level of autonomy is the identity level, not the moment-to-moment decision level. But this claim requires empirical validation.
 >
-> **See also:** [[self-determination-theory]], [[intrinsic-motivation]], [[integrated-regulation]], [[Metacognition-&-Motivation]]
+> **See also:** [[self-determination-theory]], [[Intrinsic Motivation]], [[Integrated Regulation]], [[Metacognition-&-Motivation]]
 
 > [!open-question] **What Is the Upper Limit of Habitualization for Complex Cognitive Skills?**
 >
@@ -641,7 +641,7 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 >
 > **Why It Matters:** For PKB design and academic reading practice, the answer to this question determines how much of one's learning workflow can be made automatic and how much must remain effortful and adaptive.
 >
-> **See also:** [[Skill-Acquisition]], [[levels-of-processing-theory]], [[metacognitive-regulation]], [[schema-automation]]
+> **See also:** [[Skill-Acquisition]], [[levels-of-processing-theory]], [[metacognitive-regulation]], [[Schema Automation]]
 
 ---
 
@@ -834,7 +834,7 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[implementation-intentions|Implementation Intentions]]
+> > [!topic-idea] [[goal-intention|Implementation Intentions]]
 > > **Description:** Gollwitzer's if-then planning framework deserves a dedicated foundational node in the PKB. Such a report would cover the theoretical mechanism (prospective memory automation), the meta-analytic evidence base (Gollwitzer & Sheeran, 2006, d ≈ 0.65), the conditions under which implementation intentions are most and least effective, and the relationship to volition, self-regulation, and habit formation theory. Implementation intentions occupy a crucial functional niche: they are the deliberate scaffolding that enables habit formation to begin before the automatic loop is established.
 > > **Connection to This Report:** Phase III directly introduces implementation intentions as a habit-formation technology; this report treats them too briefly for their importance.
 > > **Priority:** High
@@ -853,7 +853,7 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 > > **Connection to This Report:** The context-dependency mechanism established in Phase IV has direct design implications developed only briefly in Phase V.
 > > **Priority:** High
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[habit-formation]], [[cognitive-load-theory]], [[self-directed-learning]]
+> > **Prerequisites:** [[habit-formation]], [[Cognitive Load Theory (CLT)]], [[self-directed-learning]]
 >
 > > [!topic-idea] [[Habit-Reversal-Training]]
 > > **Description:** Clinical and behavioral protocols for disrupting unwanted habits, including: the habit reversal training (HRT) protocol originally developed for tics and trichotillomania, awareness training components, competing response procedures, and the relationship to the neuroscience of habit suppression and extinction. This expansion is especially relevant for learners with established unproductive study habits (passive re-reading, highlighting without annotation) that need to be replaced.
@@ -874,7 +874,7 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 > > **Connection to This Report:** Phase V develops friction design but does not cover commitment devices or the behavioral economics of reward timing.
 > > **Priority:** Exploratory
 > > **Suggested Type:** Focused Analysis
-> > **Prerequisites:** [[habit-formation]], [[intrinsic-motivation]], [[self-determination-theory]]
+> > **Prerequisites:** [[habit-formation]], [[Intrinsic Motivation]], [[self-determination-theory]]
 
 ---
 
@@ -887,7 +887,7 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 >
 > **Upstream Dependencies:**
 >
-> - **[[cognitive-load-theory]]** — The liberation mechanism is a cognitive load claim: habitualization shifts behavioral control from the resource-intensive prefrontal system to the resource-efficient basal ganglia, directly reducing the intrinsic cognitive load of the routine and freeing working memory for higher-order processing. Without CLT's architecture, the PKB import of habit automaticity would be unclear.
+> - **[[Cognitive Load Theory (CLT)]]** — The liberation mechanism is a cognitive load claim: habitualization shifts behavioral control from the resource-intensive prefrontal system to the resource-efficient basal ganglia, directly reducing the intrinsic cognitive load of the routine and freeing working memory for higher-order processing. Without CLT's architecture, the PKB import of habit automaticity would be unclear.
 >
 > - **[[memory-systems]]** — Habit formation is a memory phenomenon: specifically, a shift from declarative encoding (how to perform the behavior, explicitly recalled) to procedural non-declarative encoding (the behavior executed without explicit recall). The multi-store memory architecture is the prerequisite for understanding why habitualized behaviors do not "tax" the same systems as novel behaviors.
 >
@@ -903,11 +903,11 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 >
 > **Lateral Connections:**
 >
-> - **[[attribution-theory]]** — Attribution patterns during the habit formation window are critical: learners who attribute early failures to strategy inadequacy (controllable, unstable) rather than ability (uncontrollable, stable) are more likely to persist through the effortful formation phase. Attribution theory enriches the practical account of habit resilience.
+> - **[[Attribution (Heider, 1958)]]** — Attribution patterns during the habit formation window are critical: learners who attribute early failures to strategy inadequacy (controllable, unstable) rather than ability (uncontrollable, stable) are more likely to persist through the effortful formation phase. Attribution theory enriches the practical account of habit resilience.
 >
 > - **[[growth-mindset]]** — The growth mindset framework is implicitly a theory about the habitualibility of competence: the belief that ability develops through practice is the belief that repeated effortful action can create automatic competence where none existed. Every habit formation success is evidence for the growth mindset ontology.
 >
-> - **[[schema-theory]]** — Schemas and habits both represent automatized cognitive structures encoding patterns that can be rapidly recognized and executed. The schema construction literature illuminates *cognitive* habituation (knowledge becomes schematic); the habit formation literature illuminates *behavioral* habituation. Together they describe the full arc from explicit learning to fluent performance.
+> - **[[schema-theory-and-knowledge-organization]]** — Schemas and habits both represent automatized cognitive structures encoding patterns that can be rapidly recognized and executed. The schema construction literature illuminates *cognitive* habituation (knowledge becomes schematic); the habit formation literature illuminates *behavioral* habituation. Together they describe the full arc from explicit learning to fluent performance.
 >
 > **Strengthened Permanent Notes:**
 >
@@ -945,4 +945,4 @@ The unresolved questions are genuine. How precisely do identity-level commitment
 > **Recommendations for Future Revision:**
 > - Expand Phase V with a more detailed treatment of habit reversal protocols
 > - Add Appendix Section 6 (Argument Maps) in next revision to visualize the habit loop, the cortical-to-striatal shift, and the SRL-habit connection
-> - Once [[implementation-intentions|Implementation Intentions]] is generated as a dedicated report, link it explicitly to Phase III and update the expansion section
+> - Once [[goal-intention|Implementation Intentions]] is generated as a dedicated report, link it explicitly to Phase III and update the expansion section
