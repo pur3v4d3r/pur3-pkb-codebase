@@ -124,7 +124,7 @@ def test_candidates_from_validated_skips_titleless(tmp_path: Path) -> None:
 
 def test_candidates_from_validated_carries_frontmatter() -> None:
     payload = _validated_payload(
-        [{"title": "X", "type": "definition", "body": "y", "line_number": 1}],
+        [{"title": "Real-Concept", "type": "definition", "body": "y", "line_number": 1}],
         domain="philosophy", confidence="medium",
     )
     cands = s3.candidates_from_validated(payload, batch="b", file="f.json")
@@ -137,7 +137,7 @@ def test_candidates_from_validated_handles_extracted_content_alias(tmp_path: Pat
     payload = {
         "document_metadata": {"frontmatter": {}},
         "extracted_content": {
-            "callouts": [{"title": "X", "type": "definition", "body": "y", "line_number": 1}],
+            "callouts": [{"title": "Real-Concept", "type": "definition", "body": "y", "line_number": 1}],
             "wiki_links": [],
         },
     }

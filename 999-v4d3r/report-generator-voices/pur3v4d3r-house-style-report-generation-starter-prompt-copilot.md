@@ -239,7 +239,7 @@ Emoji for Completion: ✅
 
 `````markdown
 Generate a report on: [TOPIC]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\not-extracted]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
 
 <style-directive>

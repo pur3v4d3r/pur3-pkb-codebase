@@ -110,6 +110,36 @@ _AUTHOR_CITATION_EXEMPT: Final[re.Pattern[str]] = re.compile(
 # Forbidden characters that break Obsidian links or indicate parser garbage.
 _DISALLOWED_CHARS: Final[re.Pattern[str]] = re.compile(r"[<>{}|\\^`\[\]]")
 
+# APA-style citation signature. Triggers on any string that looks like a
+# bibliography entry slugified into a wiki-link target. Three independent
+# signals must all be present:
+#   (1) a surname-then-initial pattern: ``Surname,-X.`` or ``Surname,-X.-Y.``
+#   (2) a 4-digit year (1850-2099)
+#   (3) at least one period after the surname (citation punctuation)
+# This combination is virtually never present in a legitimate concept name.
+# Phase 1.5 leak-fix: the audit showed 1000+ unresolved targets of this shape
+# (e.g. ``Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations-...``).
+_CITATION_PATTERN: Final[re.Pattern[str]] = re.compile(
+    r"^[A-Z][a-z\u00C0-\u017F'’\-]+,[\s\-]*[A-Z]\."   # "Surname,-X."
+    r".*?\b(?:18[5-9]\d|19\d{2}|20\d{2})\b",          # plus 4-digit year somewhere
+)
+
+# Author-bio signature. The extractor sometimes captures section headings of
+# the form "Albert Bandura (1925–2021) — Stanford University" as wiki-link
+# targets. After slugification these become unresolvable and self-fragmenting:
+# every report restates the affiliation slightly differently and produces a
+# distinct broken link. Detect the lifespan/affiliation marker:
+#   (1) en-dash (U+2013) or em-dash (U+2014) anywhere
+#   (2) AND either a 4-digit year OR a multi-word affiliation token
+# Phase 1.5 leak-fix: audit showed ~10 distinct author-bio leaks each with 80+
+# refs (e.g. ``Albert-Bandura-1925–2021-—-Stanford-University``).
+_AUTHOR_BIO_PATTERN: Final[re.Pattern[str]] = re.compile(
+    r"[\u2013\u2014]"                              # en-dash or em-dash
+    r".*?(?:\b(?:18[5-9]\d|19\d{2}|20\d{2})\b"     # year OR
+    r"|\b(?:University|Institute|College|Center|Centre|School|Laboratory|Lab|present)\b)",
+    re.IGNORECASE,
+)
+
 
 # ════════════════════════════════════════════════════════════════════════════
 # Reason codes  (stable identifiers — downstream depends on these strings)
@@ -128,6 +158,8 @@ REASON_CODES: Final[frozenset[str]] = frozenset({
     "no-alphabetic",
     "disallowed-chars",
     "report-filename",
+    "citation",
+    "author-bio",
     "too-many-tokens",
     "sentence-shaped",
 })
@@ -203,6 +235,12 @@ def is_valid_concept(name: str) -> tuple[bool, str]:
 
     if _REPORT_FILENAME_PATTERN.search(stripped):
         return (False, "report-filename")
+
+    if _CITATION_PATTERN.search(stripped):
+        return (False, "citation")
+
+    if _AUTHOR_BIO_PATTERN.search(stripped):
+        return (False, "author-bio")
 
     word_tokens = stripped.split()
     if len(word_tokens) > MAX_CONCEPT_TOKENS:

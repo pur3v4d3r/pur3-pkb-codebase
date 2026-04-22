@@ -89,7 +89,19 @@ GARBAGE_CASES: list[tuple[str, str]] = [
     ("sdt-comparative-synthesis-2026-03-19",                  "report-filename"),
     ("metacog-dialectical-re-examination-2026-04-15",         "report-filename"),
     ("learning-first-principles-2025-11-30",                  "report-filename"),
+    # ── APA-style citation slugs (Phase 1.5 leak fix) ─────────────────
+    ("Bjork,-R.-A.-1994.-Memory-and-metamemory-considerations", "citation"),
+    ("Bandura,-A.-1997.-Self-efficacy-The-exercise-of-control", "citation"),
+    ("Boekaerts,-M.-1996.-Self-regulated-learning-at-the-junction", "citation"),
+    ("Ahrens,-S.-2017.-How-to-Take-Smart-Notes",                "citation"),
+    ("Abramson,-L.-Y.,-Seligman,-M.-E.-P.,-1978.-Learned",      "citation"),
 
+    # ── author-bio with lifespan/affiliation (Phase 1.5 leak fix) ───────
+    ("Albert-Bandura-1925–2021-—-Stanford-University",            "author-bio"),
+    ("Anastasia-Efklides-1949–-,-Aristotle-University-of-Thessaloniki", "author-bio"),
+    ("Barry-J.-Zimmerman-1942–-,-CUNY-Graduate-Center",          "author-bio"),
+    ("Ann-L.-Brown-1943–1999-—-University-of-California",        "author-bio"),
+    ("Annemarie-Sullivan-Palincsar-—-University-of-Michigan",   "author-bio"),
     # ── too many tokens (sentence-shaped by length) ────────────────────
     (" ".join(["word"] * (MAX_CONCEPT_TOKENS + 1)),           "too-many-tokens"),
     ("This concept has way too many words to be a valid concept name", "too-many-tokens"),
@@ -155,6 +167,12 @@ VALID_CASES: list[str] = [
     # Phase 1.5 tuning: legitimate 9–10 token concept titles
     "The Forgetting Curve and the Power of Retrieval Practice",
     "Token Economics and Cost Optimization for Production LLM Systems",
+    # Phase 1.5 leak-fix guard: legitimate concepts that LOOK borderline
+    # but must NOT trip citation / author-bio patterns.
+    "Self-Determination Theory",                          # plain concept
+    "Locke and Latham Goal Setting",                      # author-named theory, no year
+    "K-12 Education in the United States",                # has 'United States' but no dash/year
+    "Pre-1900 Educational Reform",                        # year present but no dash & no surname-comma
 ]
 
 

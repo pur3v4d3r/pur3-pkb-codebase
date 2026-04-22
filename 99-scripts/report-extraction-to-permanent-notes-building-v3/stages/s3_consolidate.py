@@ -78,6 +78,7 @@ from lib.candidate import (  # noqa: E402
     SourceReport,
     normalize_name,
 )
+from lib.link_validator import is_valid_concept  # noqa: E402
 
 
 __version__ = "1.0.0"
@@ -223,12 +224,22 @@ def _strip_wiki_links(text: str) -> str:
 
 
 def _clean_title(title: str) -> str:
-    """Normalize a callout title; return ``""`` if it is noise."""
+    """Normalize a callout title; return ``""`` if it is noise.
+
+    Phase 1.5 leak-fix: titles that match ``link_validator.is_valid_concept``
+    rejection rules (APA citations, author bios with affiliation, report
+    filenames, sentence-shaped headings) are also treated as noise so they
+    never become Candidate primary_names. Without this gate they propagate
+    into hundreds of unresolvable wiki-links during rendering.
+    """
     cleaned = _HEADER_PREFIX_RE.sub("", title or "").strip()
     cleaned = _strip_wiki_links(cleaned).strip()
     if not cleaned:
         return ""
     if cleaned.casefold() in _NOISE_TITLES:
+        return ""
+    valid, _reason = is_valid_concept(cleaned)
+    if not valid:
         return ""
     return cleaned
 
