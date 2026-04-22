@@ -215,6 +215,65 @@ Which direction do you want to take? Or should I start with #1 (highest ROI, no 
 
 
 
+## V3 Pipeline Improvement and LLM Capacity
+
+### Key Locations
+
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> Home of all of V3 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3\00-master-spec.md` -> The master spec for the V3 pipeline, including detailed breakdowns of each stage, proposed improvements, and LLM integration points.
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3\README.md` -> Overview and usage instructions for the V3 pipeline
+`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports` -> Reports to test the pipeline on. These are the same reports that were used in the V2 pipeline, ensuring consistency in testing and comparison.
+
+These are things I would like to incorperate into the pipeliune, in order of priority and impact:
+
+### P1 — Vector-based fuzzy matcher (LOCAL LLM, RTX 4090) — high impact
+
+This is where the GPU starts to earn its keep. Replace `difflib.SequenceMatcher` with **sentence embeddings + cosine similarity** in note_matcher.py.
+
+**Why it matters:**
+- Catches `Achievement-Goal-Theory` ↔ `Achievement-Goal-Framework` (paraphrase)
+- Catches `SDT` ↔ `Self-Determination Theory` (acronym/expansion)
+- Catches `Cognitive Load Theory (Sweller)` ↔ `Sweller Cognitive Load` (reordering)
+- Catches `Working Memory Capacity` ↔ `Span of Apprehension` (synonyms)
+
+**Stack:**
+- `sentence-transformers` with **`BAAI/bge-small-en-v1.5`** (~33M params, 384-dim, runs in ~50ms/batch on 4090, 90%+ recall on STS benchmarks)
+- Pre-compute embeddings for all 1094 existing notes' `(stem, title, aliases)` once → cache in `_pipeline-output/notes_embeddings.npz`
+- Invalidate cache by `(filepath, mtime)` per note — only re-embed changed notes
+- Hybrid scoring: `0.4 * difflib + 0.6 * cosine_sim` (string sim guards against pure-semantic false positives like `Growth Mindset` ↔ `Growth Hacking`)
+- Two thresholds preserved: ≥0.92 auto-match, 0.80–0.92 review queue, <0.80 = new note
 
 
 
+
+### P2 — LLM-assisted concept extraction & cleanup (LOCAL LLM, RTX 4090)
+
+Two specific places where small local LLMs dramatically outperform regex:
+
+**2a. Callout title parsing** (`report_parser.parse_definition_title`)
+The regex parser handles `"Concept** (Domain — Author, Year)"` but breaks on natural variations. A 3B–8B model can extract structured fields from messy titles with near-100% accuracy.
+
+**2b. Concept normalization & alias mining**
+Run a one-shot pass that, for each candidate concept, asks: "Give me the canonical name + 3-5 aliases + 1-line definition + parent domain." Stack:
+- **Qwen2.5-7B-Instruct** or **Llama-3.1-8B-Instruct** via `vllm` or `llama.cpp` w/ Q5_K_M GGUF — both fit in 24GB VRAM with ~6K context
+- Batch 32 concepts per request → ~2–3s per batch on 4090
+- Use **structured output** (JSON schema with `outlines` or `lm-format-enforcer`) to guarantee parseable results
+- Cache responses keyed by concept-name hash → idempotent re-runs are free
+
+This gives you **(a)** higher-quality aliases (the audit shows aliases are sparsely populated), **(b)** automatic disambiguation suggestions for the review queue, and **(c)** stub bodies that aren't empty.
+
+
+### P3 — LLM-summarized "Core Explanation" (LOCAL LLM, optional)
+
+When a concept has 5+ pieces of evidence/insight scattered across reports, the current builder concatenates them as a list of callouts. Optionally, run a synthesis pass: "Given these 8 evidence/insight callouts about [Concept], write a 150-word integrated `## Synthesis` section that preserves all distinct claims and cites the source reports."
+
+Adds at top of note. Original callouts stay below as the receipt. **Toggle behind `--llm-synthesize` flag** so it's opt-in per run.
+
+
+
+### P4 — Automatic MOC + concept-graph generation
+
+`auto_moc_generator.py` is in the directory but I didn't see it wired into `pipeline_v2`. Add as Stage 7.5:
+- Per top-level `domain:` field, generate a Map of Content listing all notes
+- Per `subdomain:` cluster ≥ 5 notes, generate a sub-MOC
+- Compute and embed a Mermaid graph of strongest 20 concept-to-concept links per MOC
