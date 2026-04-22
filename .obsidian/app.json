@@ -31,9 +31,21 @@
   "tabSize": 2,
   "vimMode": false,
   "userIgnoreFilters": [
-    "04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/",
-    "04_library/01_cognitive-science/_reference/_incremental-learning/",
-    "99_Outputs/repomix-output.md"
+    ".smart-env/",
+    ".venv/",
+    ".git/",
+    "node_modules/",
+    "__LOCAL-REPO/",
+    "99-scripts/report-extraction-to-permanent-notes-building-v3/_v3-output/",
+    "99-scripts/",
+    "99-archive/",
+    "999-codebase+pkb/",
+    "999-report-organizing/_extractor-output/",
+    "999-report-organizing/__pur3v4d3r-house-voice-reports/_v3-output/",
+    "999-v4d3r/__prompt-engineering-guidance/research-papers/",
+    "999-v4d3r/__prompt-engineering-guidance/_generative-ai-for-beginners-main/",
+    "00-inbox/_file/",
+    "00-inbox/999-stoicism/books/"
   ],
   "showUnsupportedFiles": false,
   "uriCallbacks": false

@@ -27,7 +27,12 @@ EXTRACTOR_OUTPUT_DIR: Path = REPORTS_ROOT / "_extractor-output"
 PERMANENT_NOTES_DIR: Path = REPORTS_ROOT / "_permanent-notes" / "_permanent-notes"
 
 # v3 outputs
-V3_OUTPUT_DIR: Path = SCRIPTS_DIR / "_v3-output"
+# NOTE: 2026-04-22 — moved OUT of vault to keep Obsidian's indexer from
+# choking on multi-MB pipeline JSONs (consolidated-candidates.json hit
+# 90 MB and crashed the renderer). Override with env var V3_OUTPUT_DIR
+# if you need a different location for ad-hoc runs.
+import os as _os
+V3_OUTPUT_DIR: Path = Path(_os.environ.get("V3_OUTPUT_DIR", r"D:/v3-pipeline-output"))
 EMBEDDINGS_CACHE_DIR: Path = V3_OUTPUT_DIR / "embeddings"
 LLM_CACHE_DIR: Path = V3_OUTPUT_DIR / "llm-cache"
 RUNS_DIR: Path = V3_OUTPUT_DIR / "runs"

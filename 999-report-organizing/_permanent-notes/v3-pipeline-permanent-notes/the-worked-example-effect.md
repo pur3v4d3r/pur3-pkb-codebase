@@ -1,0 +1,88 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "the-worked-example-effect"
+aliases:
+  - "the-worked-example-effect"
+type: permanent-note
+status: seedling
+confidence: low
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - seedling
+  - concept-stub
+  - other
+
+domain: other
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-04-22
+updated: 2026-04-22
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 96
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+see-also:
+  - "[[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]"
+  - "[[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]"
+  - "[[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]"
+  - "[[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]"
+  - "[[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]"
+  - "[[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]"
+  - "[[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]"
+  - "[[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]"
+  - "[[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]"
+  - "[[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: high
+---
+
+# the-worked-example-effect
+
+> [!definition] **the-worked-example-effect**
+> *Stub note — concept referenced by 96 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+*Auto-generated stub — referenced by 96 permanent notes.*
+
+## Referenced By
+
+- [[4CID-Blueprint-Completeness-Checklist|4CID Blueprint Completeness Checklist]]
+- [[4CID-Dual-Mechanism-Architecture|4CID Dual-Mechanism Architecture]]
+- [[4CID-and-Individual-Differences-Beyond-One-Size-Fits-All-Sequencing|4CID and Individual Differences Beyond One-Size-Fits-All Sequencing]]
+- [[Adaptive-4CID-Optimal-Real-Time-Adjustment-Algorithms|Adaptive 4CID Optimal Real-Time Adjustment Algorithms]]
+- [[Adaptive-Instruction-Real-Time-Learning-Environment-Optimization|Adaptive Instruction Real-Time Learning Environment Optimization]]
+- [[Anderson,-J.-R.-1983.-The-Architecture-of-Cognition.-Harvard-University-Press|Anderson, J. R. (1983). The Architecture of Cognition. Harvard University Press]]
+- [[Applying-the-Ten-Steps-Teacher-Education|Applying the Ten Steps Teacher Education]]
+- [[Bridging-to-Your-Existing-Knowledge|Bridging to Your Existing Knowledge]]
+- [[Cognitive-Load-Theory-CLT|Cognitive Load Theory (CLT)]]
+- [[Cognitive-Task-Analysis-Methods,-Validity,-and-Design-Integration|Cognitive Task Analysis Methods, Validity, and Design Integration]]
+- [[Complex-Learning|Complex Learning]]
+- [[Deliberate-Practice-Ericsson's-Framework-and-Its-Cognitive-Architecture|Deliberate Practice Ericsson's Framework and Its Cognitive Architecture]]
+- [[Directions-for-Future-Investigation|Directions for Future Investigation]]
+- [[Element-Interactivity-Sweller,-2010|Element Interactivity (Sweller, 2010)]]
+- [[Epistemic-Transparency-Statement|Epistemic Transparency Statement]]
+- [[Final-Integration-Before-the-Appendix|Final Integration Before the Appendix]]
+- [[Four-Component-Instructional-Design-4CID-van-Merriënboer,-1997|Four-Component Instructional Design (4CID) (van Merriënboer, 1997)]]
+- [[Fred-Paas-b.-1963|Fred Paas (b. 1963)]]
+- [[Germane-Load-Theoretical-Construct-or-Explanatory-Artifact|Germane Load Theoretical Construct or Explanatory Artifact]]
+- [[Guidance-vs.-Discovery-The-Scaffold-Fading-Dilemma|Guidance vs. Discovery The Scaffold-Fading Dilemma]]
+- *...and 76 more permanent notes*

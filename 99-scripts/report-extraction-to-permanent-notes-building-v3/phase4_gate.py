@@ -231,15 +231,21 @@ def gate4_precision(pairs: list[list[str]], model) -> tuple[bool, dict]:
 
 
 def main() -> int:
+    # Defaults reference V3_OUTPUT_DIR (now D:/v3-pipeline-output by default;
+    # override via $V3_OUTPUT_DIR env var). See config_v3.py.
+    try:
+        from config_v3 import V3_OUTPUT_DIR as _V3OUT
+    except Exception:  # fallback if invoked outside the package
+        _V3OUT = Path("D:/v3-pipeline-output")
     parser = argparse.ArgumentParser(description="Phase 4 gate validation")
     parser.add_argument("--target-dir", type=Path,
-                        default=Path("_v3-output/phase-3-sandbox"))
+                        default=_V3OUT / "phase-3-sandbox")
     parser.add_argument("--cache", type=Path,
-                        default=Path("_v3-output/embeddings/notes.npz"))
+                        default=_V3OUT / "embeddings" / "notes.npz")
     parser.add_argument("--fixture", type=Path,
                         default=Path("tests/fixtures/phase4_match_pairs.json"))
     parser.add_argument("--report", type=Path,
-                        default=Path("_v3-output/phase-4-gate/report.json"))
+                        default=_V3OUT / "phase-4-gate" / "report.json")
     parser.add_argument("--no-gpu", action="store_true")
     args = parser.parse_args()
 

@@ -121,13 +121,25 @@
 │   ├── test_matcher.py
 │   ├── test_renderer.py
 │   └── fixtures/                   # Sample _extracted.json files
-├── _v3-output/                     # Run logs, audits, embeddings cache
-│   ├── embeddings/                 # .npz files keyed by note path hash
-│   ├── llm-cache/                  # JSON responses keyed by content hash
-│   ├── runs/                       # Per-run logs and reports
-│   └── _pipeline-state.json
 └── README.md
 ```
+
+### 1.2.1 Output directory (external to vault — 2026-04-22)
+
+Pipeline output (run logs, audits, embeddings, LLM cache, intermediate
+JSONs) is written **outside** the vault to keep Obsidian's indexer from
+choking on multi-MB pipeline JSONs. Default path:
+
+```
+D:/v3-pipeline-output/
+├── embeddings/                 # .npz files keyed by note path hash
+├── llm-cache/                  # JSON responses keyed by content hash
+├── runs/                       # Per-run logs and reports
+├── batch-<date>/               # Per-batch workspace dirs
+└── _pipeline-state.json
+```
+
+Override via `V3_OUTPUT_DIR` env var or by editing `config_v3.V3_OUTPUT_DIR`.
 
 ### 1.3 Coexistence with v2
 

@@ -244,7 +244,7 @@ This is where the GPU starts to earn its keep. Replace `difflib.SequenceMatcher`
 - Two thresholds preserved: ≥0.92 auto-match, 0.80–0.92 review queue, <0.80 = new note
 
 
-
+ollama pull qwen2.5:7b-instruct-q5_K_M
 
 ### P2 — LLM-assisted concept extraction & cleanup (LOCAL LLM, RTX 4090)
 
@@ -277,3 +277,23 @@ Adds at top of note. Original callouts stay below as the receipt. **Toggle behin
 - Per top-level `domain:` field, generate a Map of Content listing all notes
 - Per `subdomain:` cluster ≥ 5 notes, generate a sub-MOC
 - Compute and embed a Mermaid graph of strongest 20 concept-to-concept links per MOC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

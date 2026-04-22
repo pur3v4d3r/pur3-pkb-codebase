@@ -1,0 +1,76 @@
+---
+title: "Self-Assessment — Foundational Report on PKB/PKM Planning and Cognitive Science"
+aliases: [self-assessment report, PKB/PKM planning report, cognitive science synthesis report]
+type: permanent-note
+status: evergreen
+confidence: high
+domain: Personal Knowledge Management
+subdomains: [Cognitive Science, Self-Regulated Learning, Information Architecture]
+tags: [permanent-note, personal-knowledge-management, cognitive-science, self-regulated-learning, information-architecture]
+created: '2026-04-22'
+updated: '2026-04-22'
+complexity: comprehensive foundational treatment
+importance: critical
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: "3.0.0"
+  source-reports: [pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+---
+
+# Self-Assessment — Foundational Report on PKB/PKM Planning and Cognitive Science
+
+> [!definition] Self-Assessment — Foundational Report on PKB/PKM Planning and Cognitive Science
+> *Definition pending — derived from 1 source report(s).*
+
+## Core Explanation
+
+> [!evidence] Self-Assessment — Foundational Report on PKB/PKM Planning and Cognitive Science
+> | Dimension | Score | Evidence | Notes |
+> |-----------|-------|----------|-------|
+> | Depth of Coverage | 9/10 | Seven major cognitive science domains synthesized; each treated with multi-layer elaboration | Minor gap: social/collaborative dimensions of PKM underexplored |
+> | Structural Completeness | 9/10 | All 7 sections, far transfer with 4 domains, synthesis, 11/12 appendix subsections | Cross-Report Navigation omitted (appropriate — not a series) |
+> | Complexity Appropriateness | 9/10 | Graduate-level throughout; technical precision without jargon overload | Could benefit from more worked examples for practitioner accessibility |
+> | Coverage Completeness | 8/10 | Core cognitive-scientific evidence well-represented | Gaps: affect/emotion in learning, social cognition, creativity/insight generation |
+> | Accuracy & Evidence | 9/10 | All citations are real, well-attributed sources; claims are properly qualified | Ecological validity caveat noted — lab-to-practice transfer is assumed |
+> | Knowledge Graph Contribution | 9/10 | 120+ wiki-links, 6 upstream + 5 downstream + 5 lateral connections, 4 strengthened nodes | Comprehensive integration with existing permanent note network |
+> | Practical Utility | 8/10 | Encoding checklist, weekly health check protocol, design audit checklist | Could include more tool-specific implementation guidance |
+> | Originality | 8/10 | Seven-problem framework, externalized schema network, metacognitive prosthesis, motivation-regulation entanglement | Syntheses are well-motivated but await empirical validation |
+> | **Composite Score** | **8.63/10** | | **PASS** (threshold: 8.0) |
+>
+> **Identified Limitations:**
+>
+> 1. **Ecological validity gap.** The cognitive-scientific evidence was generated in controlled settings; the transfer to naturalistic PKM practice involves unverified assumptions. This limitation is acknowledged throughout but not resolved.
+>
+> 2. **Social dimension underexplored.** PKM is treated as a predominantly individual practice. The social, collaborative, and community dimensions of knowledge management — knowledge sharing, collective sense-making, communities of practice — receive only brief mention (relatedness in Section 6) and warrant dedicated treatment.
+>
+> 3. **Affective dimension absent.** The role of emotion in learning, knowledge management, and cognitive processing is not addressed. Affect influences encoding (emotional memories are encoded differently), motivation (affect regulation is a component of SRL), and retrieval (mood-congruent memory effects). A complete framework would integrate affective dimensions.
+>
+> 4. **Tool-specific implementation guidance limited.** While the report provides general design principles, it does not include detailed implementation guides for specific tools (Obsidian, Anki, Dataview, etc.). This is intentional (principles over tools) but limits immediate practical applicability.
+>
+> 5. **Longitudinal validation absent.** The seven-problem framework is offered as a theoretically grounded hypothesis, not an empirically validated prescription. No longitudinal studies of cognitively aligned PKM systems are available to validate or falsify the framework's predictions.
+>
+> **Recommendations for Future Revision:**
+>
+> 1. Add a dedicated section on the social and collaborative dimensions of PKM, drawing on communities-of-practice theory (Wenger) and social constructivism.
+> 2. Integrate affective dimensions — particularly affect regulation as a component of SRL and emotion's role in encoding durability.
+> 3. Develop tool-specific companion documents that translate the seven principles into implementation guides for specific PKM tools.
+> 4. Update as empirical evidence from PKM-specific studies becomes available — the framework should evolve with the evidence base.
+> *— [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]*
+
+## Connections
+
+**Related:** [[personal-knowledge-base]] · [[personal-knowledge-management]] · [[cognitive-science]] · [[schema-theory]] · [[cognitive-load-theory]] · [[levels-of-processing]] · [[Self-Regulated-Learning-—-SRL]] · [[self-determination-theory]] · [[long-term-memory]] · [[cognitive-architecture]] · [[working-memory]] · [[declarative-memory]] · [[procedural-memory]] · [[schema-construction]] · [[retrieval-practice]] · [[spaced-repetition]] · [[metacognition]] · [[personal-knowledge-management]] · [[Building-a-Second-Brain]] · [[personal-knowledge-management]] · [[personal-knowledge-base]] · [[knowledge-management]] · [[Zettelkasten-Method]] · [[cognitive-architecture]] · [[spaced-repetition]] · [[cognitive-load-theory]] · [[Zettelkasten-Method]] · [[schema-construction]] · [[spreading-activation]] · [[generation-effect]] · [[deep-processing]] · [[information-processing-theory]] · [[working-memory]] · [[long-term-memory]] · [[schema-theory]] · [[cognitive-load-theory]] · [[levels-of-processing]] · [[encoding-specificity-principle]] · [[desirable-difficulties]] · [[metacognition]] · [[Self-Regulated-Learning-—-SRL]] · [[self-determination-theory]] · [[levels-of-processing]] · [[shallow-processing]] · [[deep-processing]] · [[deep-processing-elaborative-encoding]] · [[levels-of-processing-theory]] · [[encoding-specificity-principle]] · [[note-making-vs.-note-taking]] · [[active-note-making]] · [[generation-effect]] · [[encoding-specificity-principle]] · [[schema-theory]] · [[dual-coding-theory]] · [[cognitive-theory-of-multimedia-learning]] · [[elaborative-interrogation]] · [[schema-theory]] · [[spreading-activation]] · [[chunking]] · [[schema-theory]] · [[long-term-memory]] · [[schema-construction]] · [[schema-automation]] · [[cognitive-load-theory]] · [[schema-construction]] · [[schema-automation]] · [[schema-theory-and-knowledge-organization]] · [[Schema-Theory-Bartlett,-Rumelhart]] · [[transfer-of-learning]] · [[spreading-activation]] · [[personal-knowledge-base]] · [[chunking]] · [[Zettelkasten-Method]] · [[Knowledge-Graph]] · [[obsidian]] · [[cognitive-load-theory]] · [[schema-theory]] · [[working-memory]] · [[instructional-design]] · [[cognitive-load-theory-and-pkb-design]] · [[retrieval-practice]] · [[Testing-Effect]] · [[spaced-repetition]] · [[desirable-difficulties]] · [[retrieval-practice]] · [[Testing-Effect]] · [[testing-effect-retrieval-practice-effect]] · [[Retrieval-Practice-and-the-Testing-Effect]] · [[evidence-based-learning-strategies]] · [[metacognitive-monitoring]] · [[spaced-repetition]] · [[spaced-repetition-systems]] · [[personal-knowledge-management-systems-and-spaced-repetition]] · [[interleaving]] · [[desirable-difficulties]] · [[metacognition]] · [[metacognition]] · [[metacognitive-knowledge]] · [[metacognitive-control]] · [[metacognitive-monitoring]] · [[metacognitive-knowledge]] · [[metacognitive-monitoring]] · [[metacognitive-control]] · [[metacognitive-strategies]] · [[metacognitive-calibration]] · [[externalized-metacognition]] · [[Self-Regulated-Learning-—-SRL]] · [[barry-zimmerman]] · [[zimmerman-srl-model]] · [[forethought-phase]] · [[cognitive-load-theory]] · [[metacognitive-calibration]] · [[Pintrich's-Integrative-SRL-Framework]] · [[self-determination-theory]] · [[habit-formation]] · [[self-efficacy]] · [[self-determination-theory]] · [[basic-psychological-needs-theory]] · [[intrinsic-motivation]] · [[intrinsic-motivation-and-extrinsic-motivation]] · [[autonomous-motivation]] · [[Self-Determination-Theory-and-Motivation]] · [[autonomous-motivation]] · [[intrinsic-motivation]] · [[basic-psychological-needs-theory]] · [[habit-formation]] · [[implementation-intentions]] · [[self-efficacy]] · [[The-SRL-SDT-Interface-Motivational-Quality-as-the-Meta-Regulator-of-Regulation-Q]] · [[cognitive-load-theory]] · [[cognitive-load-theory-and-pkb-design]] · [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load-in-pkm]] · [[germane-cognitive-load]] · [[cognitive-load-theory]] · [[germane-cognitive-load]] · [[extraneous-cognitive-load-in-pkm]] · [[intrinsic-cognitive-load]] · [[Cognitive-Overload]] · [[zone-of-proximal-development]] · [[transfer-of-learning]] · [[spreading-activation]] · [[knowledge-management]] · [[Organizational-Learning]] · [[Zettelkasten-Method]] · [[Single-Responsibility-Principle]] · [[schema-theory]] · [[Software-Architecture]] · [[Information-Architecture]] · [[Cognitive-Overload]] · [[cognitive-load-theory]] · [[Evidence-Based-Medicine]] · [[Spatial-Cognition]] · [[Information-Architecture]] · [[schema-theory]] · [[long-term-memory]] · [[levels-of-processing-theory]] · [[Elaborative-Processing]] · [[deep-processing]] · [[long-term-memory]] · [[schema-theory]] · [[schema-construction]] · [[schema-automation]] · [[Schema-Theory-Bartlett,-Rumelhart]] · [[spreading-activation]] · [[Associative-Learning]] · [[Knowledge-Graph]] · [[Testing-Effect]] · [[retrieval-practice]] · [[Testing-Effect]] · [[testing-effect-retrieval-practice-effect]] · [[desirable-difficulties]] · [[spaced-repetition]] · [[interleaving]] · [[metacognition]] · [[metacognitive-knowledge]] · [[metacognitive-monitoring]] · [[metacognitive-control]] · [[Self-Regulated-Learning-—-SRL]] · [[zimmerman-srl-model]] · [[forethought-phase]] · [[cyclical-srl-model]] · [[working-memory]] · [[long-term-memory]] · [[cognitive-load-theory]] · [[germane-cognitive-load]] · [[extraneous-cognitive-load-in-pkm]] · [[intrinsic-cognitive-load]] · [[self-determination-theory]] · [[intrinsic-motivation]] · [[autonomous-motivation]] · [[basic-psychological-needs-theory]] · [[implementation-intentions]] · [[habit-formation]] · [[Goal-Setting]] · [[levels-of-processing-theory]] · [[episodic-memory]] · [[semantic-memory]] · [[encoding-specificity-principle]] · [[cognitive-load-theory]] · [[Self-Regulated-Learning-—-SRL]] · [[metacognition]] · [[self-determination-theory]] · [[desirable-difficulties]] · [[Zettelkasten-Method]] · [[externalized-metacognition]] · [[metacognition]] · [[Self-Regulated-Learning-—-SRL]] · [[cognitive-load-theory]] · [[desirable-difficulties]] · [[retrieval-practice]] · [[spaced-repetition]] · [[cognitive-load-theory]] · [[schema-theory]] · [[schema-theory]] · [[schema-construction]] · [[cognitive-load-theory]] · [[transfer-of-learning]] · [[transfer-of-learning]] · [[encoding-specificity-principle]] · [[levels-of-processing-theory]] · [[dual-process-theory]] · [[dual-process-theory]] · [[metacognition]] · [[cognitive-load-theory]] · [[cognitive-load-theory]] · [[schema-theory]] · [[Self-Regulated-Learning-—-SRL]] · [[retrieval-practice]] · [[levels-of-processing-theory]] · [[self-determination-theory]] · [[cognitive-load-theory-and-pkb-design]] · [[personal-knowledge-management-systems-and-spaced-repetition]] · [[metacognitive-strategies]] · [[personal-workflow-architecture]] · [[obsidian-pkb-architecture]] · [[Zettelkasten-Method]] · [[evidence-based-learning-strategies]] · [[Knowledge-Graph]] · [[constructivism]] · [[Information-Architecture]] · [[Elaborative-Processing]] · [[spreading-activation]] · [[metacognitive-monitoring]] · [[desirable-difficulties]]
+
+```dataview
+LIST FROM [[Self-Assessment — Foundational Report on PKBPKM Planning and Cognitive Science]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

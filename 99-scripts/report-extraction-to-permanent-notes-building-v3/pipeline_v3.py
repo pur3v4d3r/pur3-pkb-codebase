@@ -60,6 +60,7 @@ import config_v3  # noqa: F401  (kept for PIPELINE_VERSION surfacing)
 from stages import (
     s2_validate,
     s3_consolidate,
+    s4_normalize,
     s5_match,
     s6_render,
     s7_stubs,
@@ -67,22 +68,25 @@ from stages import (
     s9_normalize_links,
     s10_audit,
 )
+from lib.llm_client import OllamaClient, OllamaUnavailableError
 
 
 # ═════════════════════════════════════════════════════════════════════════
 # Constants
 # ═════════════════════════════════════════════════════════════════════════
 
-__version__ = "3.1.0-phase5-wired"
+__version__ = "3.2.0-stage4-wired"
 
-# Stages wired in this dispatcher (stage 4 opt-in LLM, stages 11-12 deferred).
-PIPELINE_STAGES: frozenset[int] = frozenset({1, 2, 3, 5, 6, 7, 8, 9, 10})
+# Stages wired in this dispatcher (stage 4 is opt-in via --llm-normalize;
+# the dispatcher always considers it but it is a no-op without the flag).
+# Stages 11-12 deferred.
+PIPELINE_STAGES: frozenset[int] = frozenset({1, 2, 3, 4, 5, 6, 7, 8, 9, 10})
 
 STAGES: tuple[tuple[int, str, str], ...] = (
     (1, "extract",         "Run pkb_extractor on report directories"),
     (2, "validate",        "Strip garbage links from extracted JSON"),
     (3, "consolidate",     "Merge candidates across batches"),
-    (4, "normalize",       "[opt-in] LLM concept normalization (skipped)"),
+    (4, "normalize",       "[opt-in] LLM concept normalization (--llm-normalize)"),
     (5, "match",           "Embed + hybrid-score against existing notes"),
     (6, "render",          "Render slim template to permanent notes"),
     (7, "stubs",           "Generate stubs for unresolved real concepts"),
@@ -230,6 +234,87 @@ def _run_stage_3(
         click.echo("  (dry-run — snapshot not written)")
 
 
+def _run_stage_4(
+    consolidated_dir: Path | None,
+    *,
+    enabled: bool,
+    execute: bool,
+    strict: bool,
+    verbose: int,
+) -> None:
+    """Stage 4 (opt-in): LLM concept normalization.
+
+    No-op unless ``enabled`` (i.e. ``--llm-normalize``) is set.
+
+    Reads ``_consolidated-candidates.json`` from ``consolidated_dir`` and
+    writes ``_normalized-candidates.json`` next to it. Stage 5 prefers the
+    normalized file when present.
+    """
+    if not enabled:
+        click.echo("\n[STAGE 4] SKIPPED — --llm-normalize not set.")
+        return
+    if consolidated_dir is None:
+        click.echo("\n[STAGE 4] SKIPPED — --consolidated-dir not set.")
+        return
+    candidates_path = consolidated_dir / s3_consolidate.OUTPUT_FILENAME
+    if not candidates_path.exists():
+        click.echo(
+            f"\n[STAGE 4] SKIPPED — consolidated candidates not found: "
+            f"{candidates_path}"
+        )
+        return
+    mode = "EXECUTE" if execute else "DRY-RUN"
+    click.echo(
+        f"\n[STAGE 4] normalize ({mode}) {candidates_path} → "
+        f"{consolidated_dir / s4_normalize.OUTPUT_FILENAME}"
+    )
+    if not execute:
+        click.echo("  (dry-run — skipping LLM calls)")
+        return
+
+    candidates, upstream = s4_normalize.load_consolidated(candidates_path)
+    if not candidates:
+        click.echo("  no candidates to normalize — skipping")
+        return
+    click.echo(f"  normalizing {len(candidates)} candidate(s) via {config_v3.LLM_MODEL_NORMALIZE}")
+
+    try:
+        with OllamaClient(
+            model=config_v3.LLM_MODEL_NORMALIZE,
+            url=config_v3.OLLAMA_URL,
+            cache_dir=config_v3.LLM_CACHE_DIR,
+            timeout_s=config_v3.LLM_REQUEST_TIMEOUT_S,
+            max_retries=config_v3.LLM_MAX_RETRIES,
+        ) as client:
+            if not client.ping():
+                raise click.ClickException(
+                    f"Ollama unreachable at {config_v3.OLLAMA_URL}"
+                )
+            normalized, stats = s4_normalize.normalize_all(candidates, client)
+    except OllamaUnavailableError as e:
+        raise click.ClickException(f"Ollama unreachable: {e}") from e
+
+    output_path = consolidated_dir / s4_normalize.OUTPUT_FILENAME
+    s4_normalize.write_output(normalized, upstream, stats, output_path)
+    click.echo(
+        f"  ok={stats['ok']} cached={stats['cached']} "
+        f"changed={stats['changed']} failed={stats['failed']}"
+    )
+    click.echo(f"  wrote {output_path}")
+    if strict and stats["failed"]:
+        raise click.ClickException(
+            f"--strict-normalize: {stats['failed']} candidate(s) failed normalization"
+        )
+
+
+def _stage5_candidates_path(consolidated_dir: Path) -> Path:
+    """Stage 5 input resolver: prefer normalized over consolidated."""
+    normalized = consolidated_dir / s4_normalize.OUTPUT_FILENAME
+    if normalized.exists():
+        return normalized
+    return consolidated_dir / s3_consolidate.OUTPUT_FILENAME
+
+
 def _run_stage_5(
     consolidated_dir: Path | None,
     target_dir: Path | None,
@@ -245,7 +330,7 @@ def _run_stage_5(
     if consolidated_dir is None:
         click.echo("\n[STAGE 5] SKIPPED — --consolidated-dir not set.")
         return
-    candidates_path = consolidated_dir / s3_consolidate.OUTPUT_FILENAME
+    candidates_path = _stage5_candidates_path(consolidated_dir)
     if not candidates_path.exists():
         click.echo(
             f"\n[STAGE 5] SKIPPED — consolidated candidates not found: {candidates_path}"
@@ -286,7 +371,7 @@ def _run_stage_6(
         return
     if target_dir is None:
         raise click.ClickException("stage 6 requires --target-dir or --workspace-dir")
-    candidates_path = consolidated_dir / s3_consolidate.OUTPUT_FILENAME
+    candidates_path = _stage5_candidates_path(consolidated_dir)
     if not candidates_path.exists():
         if not consolidated_dir.is_dir():
             click.echo(
@@ -429,7 +514,11 @@ def _stages_require_target_dir(stages: list[int]) -> bool:
                    "gate lift (~84%→97%) comes from stubs; expect "
                    "GATE_MIN_RESOLUTION_RATE to fail unless --no-fail-gates is set.")
 @click.option("--llm-normalize", is_flag=True,
-              help="Enable Stage 4 LLM normalization (not yet implemented).")
+              help="Enable Stage 4 LLM concept normalization "
+                   "(via Ollama; uses config_v3.LLM_MODEL_NORMALIZE).")
+@click.option("--strict-normalize", is_flag=True,
+              help="Fail the run if any candidate fails LLM normalization "
+                   "(requires --llm-normalize).")
 @click.option("--llm-synthesize", is_flag=True,
               help="Enable LLM synthesis pass (not yet implemented).")
 @click.option("--incremental", is_flag=True,
@@ -455,6 +544,7 @@ def main(  # noqa: PLR0912, PLR0913, PLR0915
     no_fail_gates: bool,
     skip_stubs: bool,
     llm_normalize: bool,
+    strict_normalize: bool,
     llm_synthesize: bool,
     incremental: bool,
     verbose: int,
@@ -464,12 +554,17 @@ def main(  # noqa: PLR0912, PLR0913, PLR0915
     click.echo(f"pipeline_v3 v{__version__}")
 
     for flag, label in (
-        (llm_normalize, "--llm-normalize"),
         (llm_synthesize, "--llm-synthesize"),
         (incremental, "--incremental"),
     ):
         if flag:
             click.echo(f"  NOTE: {label} is not yet wired; flag ignored.", err=True)
+
+    if strict_normalize and not llm_normalize:
+        click.echo(
+            "  NOTE: --strict-normalize requires --llm-normalize; flag ignored.",
+            err=True,
+        )
 
     stages_to_run = _select_stage_range(to_stage, from_stage)
     if skip_stubs and 7 in stages_to_run:
@@ -535,6 +630,14 @@ def main(  # noqa: PLR0912, PLR0913, PLR0915
                 _run_stage_3(
                     paths["validated"], paths["consolidated"],
                     execute=execute, verbose=verbose,
+                )
+            elif n == 4:
+                _run_stage_4(
+                    paths["consolidated"],
+                    enabled=llm_normalize,
+                    execute=execute,
+                    strict=strict_normalize,
+                    verbose=verbose,
                 )
             elif n == 5:
                 _run_stage_5(

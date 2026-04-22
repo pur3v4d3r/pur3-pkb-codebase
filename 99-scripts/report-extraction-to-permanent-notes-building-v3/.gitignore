@@ -1,0 +1,11 @@
+# Pipeline v3 — local artefacts that must never enter the vault/git
+# As of 2026-04-22, default output is D:/v3-pipeline-output/ (outside vault).
+# This belt-and-braces ignore catches any stray local runs.
+
+_v3-output/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/

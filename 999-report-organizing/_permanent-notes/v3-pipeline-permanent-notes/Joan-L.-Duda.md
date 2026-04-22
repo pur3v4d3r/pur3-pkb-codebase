@@ -1,0 +1,88 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Joan-L.-Duda"
+aliases:
+  - "Joan-L.-Duda"
+type: permanent-note
+status: seedling
+confidence: low
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - seedling
+  - concept-stub
+  - other
+
+domain: other
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-04-22
+updated: 2026-04-22
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: stub-generation
+extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+referenced-by-count: 74
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+see-also:
+  - "[[A-Common-Misreading|A Common Misreading]]"
+  - "[[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]"
+  - "[[Achievement-Goal|Achievement Goal]]"
+  - "[[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]"
+  - "[[Adaptive-Help-Seeking|Adaptive Help-Seeking]]"
+  - "[[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]"
+  - "[[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]"
+  - "[[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]"
+  - "[[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]"
+  - "[[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: high
+---
+
+# Joan-L.-Duda
+
+> [!definition] **Joan-L.-Duda**
+> *Stub note — concept referenced by 74 permanent notes. Expand with formal definition, theoretical context, and PKM implications.*
+
+*Auto-generated stub — referenced by 74 permanent notes.*
+
+## Referenced By
+
+- [[A-Common-Misreading|A Common Misreading]]
+- [[A-Single-Learner-Through-Multiple-Lenses|A Single Learner Through Multiple Lenses]]
+- [[Achievement-Goal|Achievement Goal]]
+- [[Achievement-Goal-Achievement-Goal-Theory-tradition|Achievement Goal (Achievement Goal Theory tradition)]]
+- [[Adaptive-Help-Seeking|Adaptive Help-Seeking]]
+- [[Ames,-C.-1992.-Classrooms-Goals,-structures,-and-student-motivation.-Journal-of|Ames, C. (1992). Classrooms Goals, structures, and student motivation. Journal of Educational Psychology, 84(3), 261–271]]
+- [[Ames,-C.,-&-Archer,-J.-1988.-Achievement-goals-in-the-classroom-Students'-learni|Ames, C., & Archer, J. (1988). Achievement goals in the classroom Students' learning strategies and motivation]]
+- [[Andrew-J.-Elliot-1962–-—-University-of-Rochester|Andrew J. Elliot (1962– ) — University of Rochester]]
+- [[Athletic-Training-and-Performance-Development|Athletic Training and Performance Development]]
+- [[Bridging-from-What-You-Already-Know|Bridging from What You Already Know]]
+- [[Carol-Ames-1942–-—-Michigan-State-University|Carol Ames (1942– ) — Michigan State University]]
+- [[Carol-Dweck-1946–-—-Stanford-University,-formerly-Columbia-and-University-of-Ill|Carol Dweck (1946– ) — Stanford University, formerly Columbia and University of Illinois]]
+- [[Carol-Midgley-1947–2002-—-University-of-Michigan|Carol Midgley (1947–2002) — University of Michigan]]
+- [[Clinical-and-Therapeutic-Recovery|Clinical and Therapeutic Recovery]]
+- [[Conception-of-Ability-Nicholls|Conception of Ability (Nicholls)]]
+- [[Distinguish-adaptive-help-seeking-from-avoidant-help-seeking-and-from-executive|Distinguish adaptive help-seeking from avoidant help-seeking and from executive help-seeking]]
+- [[Dweck,-C.-S.-1986.-Motivational-processes-affecting-learning.-American-Psycholog|Dweck, C. S. (1986). Motivational processes affecting learning. American Psychologist, 41(10), 1040–1048]]
+- [[Dweck,-C.-S.,-&-Leggett,-E.-L.-1988.-A-social-cognitive-approach-to-motivation-a|Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. Psychological Review,]]
+- [[Elliot,-A.-J.,-&-Harackiewicz,-J.-M.-1996.-Approach-and-avoidance-achievement-go|Elliot, A. J., & Harackiewicz, J. M. (1996). Approach and avoidance achievement goals and intrinsic motivation A]]
+- [[Elliot,-A.-J.,-&-McGregor,-H.-A.-2001.-A-2×2-achievement-goal-framework.-Journal|Elliot, A. J., & McGregor, H. A. (2001). A 2×2 achievement goal framework. Journal of Personality and Social]]
+- *...and 54 more permanent notes*

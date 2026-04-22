@@ -204,10 +204,28 @@ _NOISE_TITLES: frozenset[str] = frozenset({
 #: Strip leading markdown header markers and surrounding whitespace from a title.
 _HEADER_PREFIX_RE = re.compile(r"^\s*#{1,6}\s+")
 
+#: Match a wiki-link of the form ``[[target|display]]`` or ``[[target]]``.
+#: Group 1 = target slug; group 2 = display text (may be empty).
+_WIKI_LINK_RE = re.compile(r"\[\[([^\[\]|]+?)(?:\|([^\[\]]+?))?\]\]")
+
+
+def _strip_wiki_links(text: str) -> str:
+    """Replace ``[[target|display]]`` with ``display`` (or ``target`` if no display).
+
+    Also removes any stray unmatched ``[[`` or ``]]`` markers so that
+    downstream filename construction never sees wiki-link syntax.
+    """
+    if "[[" not in text and "]]" not in text:
+        return text
+    replaced = _WIKI_LINK_RE.sub(lambda m: (m.group(2) or m.group(1)).strip(), text)
+    # Defensive: kill any orphan markers left behind by malformed input.
+    return replaced.replace("[[", "").replace("]]", "")
+
 
 def _clean_title(title: str) -> str:
     """Normalize a callout title; return ``""`` if it is noise."""
     cleaned = _HEADER_PREFIX_RE.sub("", title or "").strip()
+    cleaned = _strip_wiki_links(cleaned).strip()
     if not cleaned:
         return ""
     if cleaned.casefold() in _NOISE_TITLES:

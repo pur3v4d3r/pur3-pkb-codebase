@@ -37,7 +37,26 @@ stages/                 # One module per pipeline stage
 lib/                    # Shared utilities
 templates/              # Jinja2 templates for note rendering
 tests/                  # pytest suite + fixtures
-_v3-output/             # Run logs, embeddings cache, LLM cache
+```
+
+### Output location (external to vault)
+
+As of **2026-04-22**, all pipeline output (runs, embeddings cache, LLM cache,
+audit reports, intermediate JSONs) is written to:
+
+```
+D:/v3-pipeline-output/        # default — set in config_v3.py
+```
+
+Reason: pipeline artefacts grew to 90+ MB single-file JSONs which crashed
+Obsidian's metadata indexer when stored inside the vault. Keeping them out
+of the vault avoids that and prevents `.smart-env/` from indexing them.
+
+Override per-run with the `V3_OUTPUT_DIR` environment variable, e.g.:
+
+```bash
+V3_OUTPUT_DIR="D:/v3-experiments/2026-04-22-llm-synth" \
+  python pipeline_v3.py --to-stage 10 --execute
 ```
 
 ## Phase rollout

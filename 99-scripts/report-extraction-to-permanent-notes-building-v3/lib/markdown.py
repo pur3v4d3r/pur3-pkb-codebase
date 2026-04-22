@@ -24,7 +24,7 @@ import unicodedata
 from typing import Iterable
 
 #: Characters Obsidian disallows in filenames.
-_FORBIDDEN_FILENAME = re.compile(r'[\\/:*?"<>|]')
+_FORBIDDEN_FILENAME = re.compile(r'[\\/:*?"<>|\[\]]')
 
 #: Run-of-non-alphanumerics for kebab-case conversion.
 _NON_ALNUM = re.compile(r"[^a-z0-9]+")

@@ -1,0 +1,47 @@
+---
+title: "The Phenomenological Opacity Argument"
+aliases: [phenomenal opacity argument, opacity argument]
+type: permanent-note
+status: evergreen
+confidence: high
+domain: Cognitive Psychology
+subdomains: [Decision Science, Behavioral Economics, Philosophy of Mind]
+tags: [permanent-note, cognitive-psychology, decision-science, behavioral-economics, philosophy-of-mind]
+created: '2026-04-22'
+updated: '2026-04-22'
+complexity: comprehensive foundational treatment
+importance: critical
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: "3.0.0"
+  source-reports: [dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+---
+
+# The Phenomenological Opacity Argument
+
+> [!definition] The Phenomenological Opacity Argument
+> *Definition pending — derived from 1 source report(s).*
+
+## Core Explanation
+
+> [!analytical-insight] The Phenomenological Opacity Argument
+> The most distinctive contribution of dual-process theory to the philosophy of mind, in my view, is not its taxonomy of two processing modes but a claim it makes only implicitly: that **the phenomenology of having reasoned is systematically dissociable from the actual occurrence of reasoning**. When Type 1 substitution operates, the agent does not experience themselves as having substituted one question for another; they experience themselves as having addressed the original question — and crucially, this experience is the same experience they have when Type 2 processing has actually addressed the original question. There is no phenomenological marker that reliably distinguishes a Type 1 substitution from a Type 2 deliberation, because both produce outputs that arrive in conscious awareness with the same flavour of having been thought. This is what I will call the **phenomenological opacity argument**, and its implications run deep. It implies that introspection, even careful introspection, cannot reliably tell us whether our beliefs and judgments are the products of reasoning or of substitution. It implies that disagreements between people who each feel they have reasoned carefully are not necessarily disagreements about facts; they may be downstream consequences of different Type 1 substitutions that each agent has experienced as deliberation. And it implies that the cultivation of intellectual virtue cannot rest on the reliability of phenomenological self-reports about whether one has thought carefully — it must rest instead on external markers (showing one's work, testing predictions against feedback, exposing reasoning to peer scrutiny) that are not subject to the same opacity. This is not a finding that any single dual-process paper makes; it is an implication that runs through the entire framework, and it is, I think, the framework's most consequential philosophical contribution. Its epistemic status is well-motivated synthesis rather than established empirical claim — it integrates established findings about substitution and metacognitive failure into a unified philosophical thesis that the literature has gestured at but not, to my knowledge, articulated as a single argument.
+> *— [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]*
+
+## Connections
+
+**Related:** [[daniel-kahneman]] · [[heuristics-and-biases-program]] · [[jonathan-evans]] · [[keith-stanovich]] · [[dual-process-theory]] · [[human-reasoning]] · [[gerd-gigerenzer]] · [[replication-crisis-in-psychology]] · [[Debiasing-Interventions]] · [[Nudge-Theory]] · [[cognitive-forcing-functions-in-clinical-reasoning]] · [[working-memory]] · [[automaticity]] · [[cognitive-load-theory]] · [[dual-process-theory]] · [[system-1-and-system-2]] · [[type-1-processing]] · [[type-2-processing]] · [[heuristics-and-biases]] · [[keith-stanovich]] · [[jonathan-evans]] · [[type-1-processing]] · [[working-memory]] · [[type-2-processing]] · [[working-memory]] · [[daniel-kahneman]] · [[gary-klein]] · [[dual-process-theory]] · [[dual-process-theory]] · [[working-memory]] · [[automaticity]] · [[automaticity-gradient]] · [[system-1]] · [[heuristics-and-biases]] · [[working-memory]] · [[daniel-kahneman]] · [[gary-klein]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[cognitive-miserliness]] · [[daniel-kahneman]] · [[jonathan-evans]] · [[keith-stanovich]] · [[system-1-and-system-2]] · [[cognitive-miserliness]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[mindware]] · [[confirmation-bias]] · [[myside-bias]] · [[keith-stanovich]] · [[dual-process-theory]] · [[daniel-kahneman]] · [[the-substitution-trap]] · [[phenomenological-substitution]] · [[heuristics-and-biases]] · [[availability-heuristic]] · [[representativeness-heuristic]] · [[Anchoring-and-Adjustment]] · [[the-substitution-trap]] · [[heuristics-and-biases-program]] · [[availability-heuristic]] · [[accessibility-heuristic]] · [[representativeness-heuristic]] · [[Anchoring-and-Adjustment]] · [[anchoring-effects]] · [[Loss-aversion]] · [[Status-quo-bias]] · [[Affect-as-Information-Theory]] · [[cognitive-biases]] · [[Nudge-Theory]] · [[cognitive-forcing-functions-in-clinical-reasoning]] · [[daniel-kahneman]] · [[gary-klein]] · [[peter-wason]] · [[philip-johnson-laird]] · [[amos-tversky]] · [[daniel-kahneman]] · [[heuristics-and-biases-program]] · [[Prospect-Theory]] · [[jonathan-evans]] · [[keith-stanovich]] · [[keith-stanovich]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[daniel-kahneman]] · [[gerd-gigerenzer]] · [[replication-crisis-in-psychology]] · [[dual-process-theory]] · [[gerd-gigerenzer]] · [[replication-crisis-in-psychology]] · [[Fast-and-Frugal-Heuristics]] · [[Ecological-Rationality]] · [[Wayne-De-Neys]] · [[replication-crisis-in-psychology]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[heuristics-and-biases]] · [[WEIRD-Sample-Bias]] · [[dual-process-theory]] · [[Nudge-Theory]] · [[Debiasing-Interventions]] · [[Active-Open-Mindedness]] · [[cognitive-forcing-functions-in-clinical-reasoning]] · [[Clinical-Reasoning]] · [[diagnostic-reasoning]] · [[Differential-Diagnosis]] · [[cognitive-forcing-functions-in-clinical-reasoning]] · [[Cass-Sunstein]] · [[behavioural-economics]] · [[dual-process-theory]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[dual-process-theory]] · [[transfer-of-learning]] · [[Organisational-Routines]] · [[Decision-Architecture]] · [[High-Reliability-Organisations]] · [[AI-Alignment]] · [[Reasoning-in-LLMs]] · [[Chain-of-Thought-Prompting]] · [[deliberate-practice]] · [[automaticity-gradient]] · [[Worked-Examples-Effect]] · [[cognitive-load-theory]] · [[personal-knowledge-management]] · [[reflective-practice]] · [[metacognition]] · [[spaced-repetition]] · [[dual-process-theory]] · [[dual-process-theory]] · [[system-1]] · [[automaticity]] · [[heuristics-and-biases]] · [[automaticity-gradient]] · [[system-2]] · [[working-memory]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[system-1-and-system-2]] · [[cognitive-miserliness]] · [[mindware]] · [[heuristics-and-biases]] · [[the-substitution-trap]] · [[phenomenological-substitution]] · [[availability-heuristic]] · [[cognitive-miserliness]] · [[Active-Open-Mindedness]] · [[reflective-disposition]] · [[mindware]] · [[Statistical-Literacy]] · [[Numeracy]] · [[naturalistic-decision-making]] · [[Recognition-Primed-Decision]] · [[Expert-Intuition]] · [[cognitive-forcing-functions-in-clinical-reasoning]] · [[Differential-Diagnosis]] · [[Checklist-Manifesto]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[Active-Open-Mindedness]] · [[metacognition]] · [[Conditions-for-Valid-Intuition-Kahneman-Klein-Synthesis]] · [[dual-process-theory]] · [[naturalistic-decision-making]] · [[Recognition-Primed-Decision]] · [[cognitive-forcing-functions-in-clinical-reasoning]] · [[dual-process-theory]] · [[diagnostic-reasoning]] · [[Differential-Diagnosis]] · [[Heuristics-and-Biases-vs-Fast-and-Frugal-Heuristics]] · [[heuristics-and-biases]] · [[Fast-and-Frugal-Heuristics]] · [[Ecological-Rationality]] · [[Metacognition-and-the-Limits-of-Self-Knowledge]] · [[metacognition]] · [[Introspection]] · [[Self-Knowledge]] · [[The-Replication-Crisis-and-Dual-Process-Findings]] · [[replication-crisis-in-psychology]] · [[dual-process-theory]] · [[working-memory]] · [[heuristics-and-biases]] · [[metacognition]] · [[bounded-rationality]] · [[cognitive-load-theory]] · [[Debiasing-Interventions]] · [[Nudge-Theory]] · [[cognitive-forcing-functions-in-clinical-reasoning]] · [[diagnostic-reasoning]] · [[behavioural-economics]] · [[naturalistic-decision-making]] · [[confirmation-bias]] · [[Fast-and-Frugal-Heuristics]] · [[predictive-processing]] · [[Default-Mode-Network]] · [[daniel-kahneman]] · [[heuristics-and-biases]] · [[working-memory]] · [[Cognitive-Reflection-Test-and-Rationality-Quotient]] · [[behavioural-economics]] · [[Clinical-Reasoning]]
+
+```dataview
+LIST FROM [[The Phenomenological Opacity Argument]]
+WHERE file.path != this.file.path
+SORT file.mtime DESC
+LIMIT 10
+```
+
+---
+
+**Sources:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]
