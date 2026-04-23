@@ -122,8 +122,13 @@ I have a pipeline that extracts concepts from reports and creates permanent note
 ---
 
 
+# Report -> Permanent Note Workflow using Lacoal LLM
 
-
+I have a workflow for extracting permanent note material from previously generated academic reports.
+I want to take aspects from that pipeline and develop V4 of the pipeline that can extract material for permanent notes and then have the Local LLM review the information and format it into a more condensed and well developed permanent note format. Which I have already constructed.
+ - The pipeline creates JSON files that contain all the extracted information, I theorizing that the local LLM can take that JSON file as input and then generate a markdown file that is formatted according to the permanent note format I have been using in Obsidian. This would involve creating a prompt for the LLM that instructs it on how to structure the markdown file, what sections to include, and how to summarize the information from the JSON file effectively.
+- The LLM would need to be guided by a clear prompt template that includes the necessary context for each note, such as the title, domain, existing links, and any relevant metadata. The prompt should also specify the required sections for the permanent note, such as the definition callout, core explanation, practical implications, key figures, related concepts, and any open questions or tensions.
+- The workflow should be efficient, allowing for batch processing of multiple stubs and updating them in Obsidian without manual copy-pasting. This could involve writing a script that iterates through the JSON files, calls the LLM to generate the markdown content, and then writes the output directly to the appropriate location in the Obsidian vault. The script should also handle any necessary frontmatter updates to reflect the enriched status of the notes and ensure that the metadata is accurate and up-to-date.
 
 
 

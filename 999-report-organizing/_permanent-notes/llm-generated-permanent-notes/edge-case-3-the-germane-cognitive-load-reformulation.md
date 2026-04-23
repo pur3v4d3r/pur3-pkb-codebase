@@ -1,0 +1,54 @@
+---
+title: 'Edge Case 3: The Germane Cognitive Load Reformulation'
+aliases:
+- 'Edge Case 3: The Germane Cognitive Load Reformulation'
+- edge-case-3-the-germane-cognitive-load-reformulation
+type: permanent-note
+status: evergreen
+confidence: medium
+domain: cognitive-psychology
+subdomains: []
+tags:
+- permanent-note
+- cognitive-psychology
+created: '2026-04-22'
+updated: '2026-04-22'
+complexity: intermediate
+importance: medium
+review-frequency: quarterly
+mastery-stage: seedling
+provenance:
+  source-type: report-extraction
+  pipeline-version: 3.0.0
+  source-reports:
+  - cognitive-load-theory-element-interactivity-deep-dive-2026-04-20
+  extraction-method: pkb-extractor-v1 → pipeline-v3
+  definition-source: llm-filled
+  definition-model: qwen2.5:7b-instruct-q5_K_M
+  definition-filled-at: '2026-04-23'
+---
+# Edge Case 3: The Germane Cognitive Load Reformulation
+
+> [!definition] Edge Case 3: The Germane Cognitive Load Reformulation
+> Edge Case 3: The Germane Cognitive Load Reformulation refers to the reclassification of germane load as a functional category describing how working-memory resources are allocated to processing intrinsic load, rather than as an independent source of cognitive load.
+
+## Core Explanation
+
+> [!evidence] Edge Case 3: The Germane Cognitive Load Reformulation
+> **The case:** the construct of [[Cognitive Load Theory (CLT)]] was introduced into CLT in 1998 as a third, productive source of load, distinguished from intrinsic load (inherent to the material) and extraneous load (imposed by presentation) as the load corresponding to cognitive resources devoted to schema construction itself. For more than a decade the three-load taxonomy was treated as canonical. But by the early 2010s, the germane-load construct had come under sustained criticism on the grounds that it was either *circular* (defined as whatever load contributes to learning, and therefore unable to make independent predictions about learning) or *redundant* (just intrinsic load processed effectively, with no separate quantity to be measured).
+>
+> **What standard understanding predicts (and Sweller now endorses):** germane load should be reformulated as a *functional category* describing how working-memory resources are *allocated* to dealing with intrinsic load, rather than as a third *source* of load with independent magnitude. There is no germane load *separate from* intrinsic load; there is intrinsic load that can be processed productively (in which case the processing is "germane") or unproductively (in which case it is not).
+>
+> **What actually happens in current literature:** the field has not fully converged. Some researchers continue to use germane load as a third source; others have adopted the functional-category reformulation; still others have proposed alternative frameworks (e.g., distinguishing *germane resources* from *germane load*, or reframing the entire taxonomy in terms of *productive vs. unproductive engagement* rather than *additive sources*).
+>
+> **Why this matters:** if germane load is not a third source of load, then the standard three-load taxonomy at Level 1 is genuinely misleading, not just incomplete. The reformulation does not change the practical recommendations of CLT in most cases (worked examples are still good for novices, integrated displays are still better than split-attention displays), but it does change the theoretical structure within which those recommendations are derived.
+>
+> **Implications:** the germane-load reformulation is the clearest evidence that CLT is a *living* theory undergoing active revision, and any specialist treatment of CLT must acknowledge the contested status of this construct. The Original-Synthesis note [[Germane-Load-as-a-Functional-Category,-Not-a-Source-Category]] in the PKB tracks this reformulation in detail.
+> *— [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]*
+
+## Connections
+
+**Related:** [[Technical Detail: The relationship between element interactivity and working-memory load]] · [[Cognitive Load Theory (CLT)]] · [[Expertise Reversal Effect (Kalyuga, Ayres, Chandler, Sweller, 2003)]] · [[isolated-elements]] · [[the-worked-example-effect]] · [[long-term-memory]] · [[long-term-working-memory]] · [[working-memory]] · [[Schema Construction]] · [[guidance-fading-principle]] · [[Relational Complexity]] · [[Modality Effect]] · [[Schema Automation]] · [[split-attention-effect]] · [[redundancy-effect]] · [[Chunk (Miller, 1956; Chase & Simon, 1973)]] · [[john-sweller]] · [[Kirschner,-Sweller-&-Clark]] · [[Cognitive-Architecture-Working-Memory-&-Long-Term-Memory]] · [[educational-psychology]] · [[baddeley-s-model-of-working-memory]] · [[Germane-Load-as-a-Functional-Category,-Not-a-Source-Category]] · [[Fred Paas]] · [[multimedia-learning-theory]] · [[chunk]]
+---
+
+**Sources:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]
