@@ -731,3 +731,137 @@ python 99-scripts/wikipedia_downloader.py [TITLE] [OPTIONS]
 | `2` | Invalid CLI arguments (no title and no URL) |
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# V4 Pipeline Executing Process Reference
+---
+
+## Setup (run once per session)
+
+```powershell
+# Activate the virtual environment (PowerShell)
+& "d:\10_pur3v4d3r's-vault\.venv\Scripts\Activate.ps1"
+
+# Confirm Ollama is running and the model is present
+ollama list
+```
+
+---
+
+## The V4 Pipeline — pipeline_v4.py
+
+**Reads:** `_extractor-output/**/*_extracted.json`  
+**Writes:** `_permanent-notes/v4-llm-condensed/<kebab-title>.md`
+
+```powershell
+# ── STEP 1: DRY RUN — preview only, no files written ──────────────────────────
+# Good first step to sanity-check output quality before committing.
+python "99-scripts/report-extraction-to-permanent-notes-building-v4/pipeline_v4.py" `
+  --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" `
+  --dry-run --limit 3 -v
+
+# ── STEP 2: SINGLE REPORT — run on one report by name substring ───────────────
+# Replace the substring with any part of the report filename (case-insensitive).
+python "99-scripts/report-extraction-to-permanent-notes-building-v4/pipeline_v4.py" `
+  --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" `
+  --report "self-determination-theory" -v
+
+# ── STEP 3: SAFE BATCH — write to a preview folder, originals untouched ───────
+# Lets you diff/inspect before deciding to promote to the real output dir.
+python "99-scripts/report-extraction-to-permanent-notes-building-v4/pipeline_v4.py" `
+  --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" `
+  --output-dir "D:/v4-preview" --limit 20 -v
+
+# ── STEP 4: FULL BATCH — all reports in the house-voice directory ─────────────
+python "99-scripts/report-extraction-to-permanent-notes-building-v4/pipeline_v4.py" `
+  --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" `
+  --strict -v
+
+# ── STEP 5: RE-RUN WITH OVERWRITE — re-process already-written notes ──────────
+# Use when you've bumped the prompt or model and want fresh output.
+python "99-scripts/report-extraction-to-permanent-notes-building-v4/pipeline_v4.py" `
+  --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" `
+  --mode overwrite --bypass-cache -v
+
+# ── STEP 6: INCLUDE KEY-CLAIM CALLOUTS as additional concept sources ──────────
+# Mines [!key-claim] in addition to [!definition] — more notes, more noise.
+python "99-scripts/report-extraction-to-permanent-notes-building-v4/pipeline_v4.py" `
+  --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" `
+  --include-key-claims --dry-run --limit 5 -v
+
+# ── STEP 7: DISABLE WORTHINESS GATE — force a note for every definition ───────
+# The LLM normally rejects generic concepts (e.g. "Learning", "Process").
+# Use --no-gate to override and get a note for everything.
+python "99-scripts/report-extraction-to-permanent-notes-building-v4/pipeline_v4.py" `
+  --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" `
+  --no-gate --limit 10 -v
+
+# ── STEP 8: USE A DIFFERENT MODEL ─────────────────────────────────────────────
+python "99-scripts/report-extraction-to-permanent-notes-building-v4/pipeline_v4.py" `
+  --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" `
+  --model "llama3.1:8b" --limit 5 --dry-run -v
+```
+
+---
+
+## Flag Quick Reference
+
+| Flag | What it does |
+|---|---|
+| `--report SUBSTRING` | Filter to one report by filename substring |
+| `--limit N` | Process only first N concepts (great for testing) |
+| `--dry-run` / `-n` | LLM calls run + cache, but **no files written** |
+| `--output-dir PATH` | Write to a separate folder instead of the default |
+| `--mode overwrite` | Replace existing notes (default is `skip`) |
+| `--bypass-cache` | Force fresh LLM calls, ignore cached responses |
+| `--include-key-claims` | Also mine `[!key-claim]` callouts as concepts |
+| `--no-gate` | Disable the LLM's worthiness filter |
+| `--strict` | Exit code 5 if any concept fails |
+| `-v` / `-vv` | INFO / DEBUG verbosity |
+| `-q` | Quiet — errors only |
+
+---
+
+## Recommended Learning Sequence
+
+1. Start with **Step 1** (dry-run, limit 3) — inspect the console output, no risk
+2. Move to **Step 2** (single report) — see real files appear in `v4-llm-condensed/`
+3. Open a generated `.md` in Obsidian — verify the `[!definition]` callout is filled
+4. When confident, run **Step 4** (full batch) with `--strict` to catch any failuresContinued with Autopilot: Task not yet completeGenerated a complete command reference for the V4 pipeline covering all common workflows: dry-run preview, single-report targeting, safe batch with output-dir, full batch, overwrite/re-run, key-claims mode, no-gate mode, and alternate model usage, plus a flag quick-reference table and recommended learning sequence. 
+
+
+
+You've used 51% of your weekly rate limit. Your weekly rate limit will reset on April 26 at 8:00 PM. [Learn More](https://aka.ms/github-copilot-rate-limit-error)

@@ -125,30 +125,39 @@ I have a pipeline that extracts concepts from reports and creates permanent note
 # Report -> Permanent Note Workflow using Lacoal LLM
 
 I have a workflow for extracting permanent note material from previously generated academic reports.
-I want to take aspects from that pipeline and develop V4 of the pipeline that can extract material for permanent notes and then have the Local LLM review the information and format it into a more condensed and well developed permanent note format. Which I have already constructed.
- - The pipeline creates JSON files that contain all the extracted information, I theorizing that the local LLM can take that JSON file as input and then generate a markdown file that is formatted according to the permanent note format I have been using in Obsidian. This would involve creating a prompt for the LLM that instructs it on how to structure the markdown file, what sections to include, and how to summarize the information from the JSON file effectively.
+I want to take aspects from that pipeline and develop V4 of the pipeline that can extract material for permanent notes and then have the Local LLM review the information and format it into a more condensed and well developed permanent note format.
+- The pipeline creates JSON files that contain all the extracted information, Im theorizing that the local LLM can take that JSON file as input and then generate a markdown file that is formatted according to the permanent note format I have been using in Obsidian. This would involve creating a prompt for the LLM that instructs it on how to structure the markdown file, what sections to include, and how to summarize the information from the JSON file effectively. The naming convention should be kebab-case and match the title of the permanent note for easy integration into Obsidian.
 - The LLM would need to be guided by a clear prompt template that includes the necessary context for each note, such as the title, domain, existing links, and any relevant metadata. The prompt should also specify the required sections for the permanent note, such as the definition callout, core explanation, practical implications, key figures, related concepts, and any open questions or tensions.
-- The workflow should be efficient, allowing for batch processing of multiple stubs and updating them in Obsidian without manual copy-pasting. This could involve writing a script that iterates through the JSON files, calls the LLM to generate the markdown content, and then writes the output directly to the appropriate location in the Obsidian vault. The script should also handle any necessary frontmatter updates to reflect the enriched status of the notes and ensure that the metadata is accurate and up-to-date.
+- The workflow should be efficient, allowing for batch processing of multiple reports and then creating or adding to the permanent notes in Obsidian without manual copy-pasting. This could involve writing a script that iterates through the JSON files, calls the LLM to generate the markdown content, and then writes the output directly to the appropriate location. The script should also handle any necessary frontmatter updates to reflect the enriched status of the notes and ensure that the metadata is accurate and up-to-date.
+
+## Key Locations
+
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> Home of all of V3 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building` -> Home of all of V2 pipeline
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output` -> Extractor Output directory, contains JSON files with extracted information from reports. These JSON files will be the input for the LLM to generate enriched permanent notes.
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes` -> Home of the current permanent notes.
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\permanent-note-pack\permanent-note-template.md` -> The Original permanent Note Template. Feel free to modify or update this template as needed for the new enriched notes. The LLM will be guided to follow this format when generating the markdown content for each permanent note.
+
+---
+
+
+
+I have a workflow for extracting permanent note material from previously generated academic reports.
+- `D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> This is the home of the new V4 pipeline, which will incorporate the local LLM for enriching permanent notes. This directory will contain all the scripts and resources needed for the new pipeline.
+
+I need you to run the pipline on the reports in `D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports` 
+As a Test, I want to run the pipeline on a subset of the reports in the `__pur3v4d3r-house-voice-reports` directory to see how well the local LLM can enrich the permanent notes. This will allow me to evaluate the quality of the generated content and make any necessary adjustments to the prompt or workflow before processing the entire set of reports.
+
+
+Great, can you generate some commands as templates that I can use to run the pipeline myself? I would like to learn it and be able to run it on my own.
 
 
 
 
 
+Can you run this pipeline for me on a set of extracted material fgound here: `D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\2026-04-21-__pur3v4d3r-house-voice-reports` -> This directory contains the JSON files with the extracted material from the reports. The pipeline will take these JSON files as input, use the local LLM to generate enriched permanent notes in markdown format, and then save the output in the appropriate location within Obsidian.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v5` -> v5 pipeline -> Run this
 
 
 
