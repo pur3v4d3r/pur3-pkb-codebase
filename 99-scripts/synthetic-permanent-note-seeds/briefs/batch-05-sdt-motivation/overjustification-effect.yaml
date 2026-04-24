@@ -1,0 +1,37 @@
+concept: Overjustification Effect
+domain: motivation-research
+secondary_domains:
+- psychology
+- behavioural-economics
+aliases:
+- crowding out of intrinsic motivation
+broader:
+- intrinsic-motivation-research
+related:
+- self-determination-theory
+- lepper-greene-nisbett
+- external-rewards
+- cognitive-evaluation-theory
+confidence: high
+callouts:
+- type: definition
+  title: Overjustification Effect
+  body: The Overjustification Effect, demonstrated by Lepper, Greene, and Nisbett
+    (1973), is the empirical finding that introducing tangible extrinsic rewards for
+    an already intrinsically motivating activity reduces subsequent intrinsic motivation
+    when the reward is removed, because the activity becomes cognitively reframed
+    as instrumental rather than self-endorsed.
+- type: key-claim
+  title: Key claim about Overjustification Effect
+  body: 'The Overjustification Effect undermines a naive behaviourist assumption that
+    reward always strengthens behaviour: when the target behaviour is already intrinsically
+    motivated, contingent tangible rewards can systematically undermine subsequent
+    autonomous engagement, with the strongest effects for expected, salient, controlling
+    rewards.'
+- type: warning
+  title: Common pitfall regarding Overjustification Effect
+  body: The Overjustification Effect is sometimes overgeneralised into a blanket prohibition
+    on rewards in education and work, but the meta-analytic evidence (Deci, Koestner,
+    & Ryan, 1999) shows that rewards delivered as informational feedback for high-quality
+    performance do not produce the effect; the practical lesson is to deliver rewards
+    informationally rather than controllingly, not to abandon recognition altogether.

@@ -1,0 +1,39 @@
+concept: Semantic Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- knowledge-representation
+aliases:
+- conceptual memory
+- generic memory
+broader:
+- declarative-memory
+- long-term-memory
+related:
+- episodic-memory
+- schema-theory
+- spreading-activation
+- priming
+prerequisites:
+- long-term-memory
+- declarative-memory
+confidence: high
+callouts:
+- type: definition
+  title: Semantic Memory
+  body: Semantic Memory is the long-term store of context-free general knowledge —
+    facts, concepts, word meanings, and category structure — that is accessed without
+    recollection of the learning episode in which it was acquired, distinguished by
+    Tulving from the autobiographical contents of [[episodic-memory]].
+- type: key-claim
+  title: Key claim about Semantic Memory
+  body: Semantic Memory is built incrementally from many [[episodic-memory]] traces
+    whose contextual details fade while their schematic content abstracts and integrates,
+    which is why repeated encounters across varied contexts produce robust semantic
+    knowledge while a single vivid episode rarely does.
+- type: warning
+  title: Common pitfall regarding Semantic Memory
+  body: Semantic Memory is sometimes treated as a static "fact warehouse," but it
+    is constantly being restructured by new episodes; treating it as immutable misleads
+    instructional design that assumes knowledge "sticks" once delivered, when in fact
+    unrevisited semantic content drifts and decays just as other memory contents do.

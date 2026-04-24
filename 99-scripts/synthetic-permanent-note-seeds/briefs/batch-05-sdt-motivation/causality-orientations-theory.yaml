@@ -1,0 +1,39 @@
+concept: Causality Orientations Theory
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- personality-psychology
+aliases:
+- COT
+- SDT causality orientations
+broader:
+- self-determination-theory
+related:
+- general-causality-orientations-scale
+- autonomous-regulation
+- locus-of-causality
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Causality Orientations Theory
+  body: Causality Orientations Theory is the SDT subtheory addressing relatively stable
+    individual differences in motivational orientation — the degree to which a person
+    characteristically experiences action as autonomous, controlled, or impersonal
+    — and bridges SDT's situational analysis with personality-level explanation of
+    consistent motivational patterns.
+- type: key-claim
+  title: Key claim about Causality Orientations Theory
+  body: Causality Orientations Theory predicts that the same situation can produce
+    systematically different motivational experiences depending on the person's orientation,
+    and that orientations themselves develop over time through cumulative exposure
+    to need-supportive vs. need-thwarting environments — connecting SDT's developmental
+    and individual-difference levels of analysis.
+- type: warning
+  title: Common pitfall regarding Causality Orientations Theory
+  body: 'Causality Orientations Theory should not be used to explain away environmental
+    effects: telling a controlled-oriented learner to become more autonomous is no
+    more effective than telling a depressed person to cheer up; orientations are partly
+    a downstream consequence of environment, and intervention should typically address
+    need-thwarting conditions rather than the orientations they produced.'

@@ -1,0 +1,36 @@
+concept: Prior Knowledge
+domain: learning-science
+secondary_domains:
+- cognitive-science
+aliases:
+- background knowledge
+- prior learning
+broader:
+- knowledge-types
+related:
+- knowledge-schemas
+- prior-knowledge-activation
+- meaningful-learning-theory
+- matthew-effect
+confidence: high
+callouts:
+- type: definition
+  title: Prior Knowledge
+  body: Prior Knowledge is the totality of relevant declarative, procedural, and conceptual
+    knowledge a learner brings to a new learning situation — including correct concepts,
+    partial understandings, misconceptions, and skill — and is the single strongest
+    predictor of how much will be learned from any given instructional episode.
+- type: key-claim
+  title: Key claim about Prior Knowledge
+  body: 'Prior Knowledge produces a Matthew effect in cognition: learners with richer
+    Prior Knowledge encode more from the same exposure, integrate it with more existing
+    structure, and retrieve it from more cues, which compounds initial differences
+    over time and explains why early literacy and early-domain exposure have such
+    lasting consequences.'
+- type: warning
+  title: Common pitfall regarding Prior Knowledge
+  body: 'Prior Knowledge is heterogeneous and often incorrect: a learner who has heard
+    "atoms are little solar systems" enters an instruction unit on atomic structure
+    with active misconceptions that can defeat well-designed instruction; pedagogy
+    must elicit and probe Prior Knowledge rather than merely "build on" an assumed
+    clean baseline.'

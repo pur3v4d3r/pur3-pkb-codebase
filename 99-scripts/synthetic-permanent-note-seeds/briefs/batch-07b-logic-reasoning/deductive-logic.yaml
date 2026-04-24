@@ -1,0 +1,41 @@
+concept: Deductive Logic
+domain: logic
+secondary_domains:
+- philosophy
+- mathematics
+aliases:
+- formal deductive logic
+broader:
+- logic
+narrower:
+- propositional-logic
+- predicate-logic
+related:
+- deductive-reasoning
+- validity
+- completeness
+- soundness
+confidence: high
+callouts:
+- type: definition
+  title: Deductive Logic
+  body: Deductive Logic is the formal study of the inferential structures that make
+    conclusions follow necessarily from premises — comprising propositional logic
+    (which analyses inferences in terms of sentence-level connectives), predicate
+    logic (which adds quantifiers and predicates), and modal extensions — and provides
+    the mathematical infrastructure for reasoning about validity.
+- type: key-claim
+  title: Key claim about Deductive Logic
+  body: 'Deductive Logic, since the formalisation by Frege, Russell, and Tarski, has
+    provided rigorous machinery for analysing reasoning that no informal vocabulary
+    can match: arguments can be checked for validity mechanically, soundness can be
+    proved formally, and entire theories can be axiomatised, which is why mathematical
+    disciplines that adopt Deductive Logic gain a level of rigour that informal disciplines
+    rarely achieve.'
+- type: warning
+  title: Common pitfall regarding Deductive Logic
+  body: 'Deductive Logic captures only a narrow slice of how humans actually reason:
+    most ordinary inference is non-monotonic, defeasible, and probabilistic in ways
+    that classical Deductive Logic cannot represent, and treating Deductive Logic
+    as a normative model of all reasoning misjudges what it is good for — it is the
+    logic of necessity, not the logic of practical reasoning under uncertainty.'

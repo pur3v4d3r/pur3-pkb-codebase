@@ -1,0 +1,38 @@
+concept: Academic Emotions
+domain: educational-psychology
+secondary_domains:
+- emotion-research
+- learning-science
+aliases:
+- achievement emotions
+broader:
+- educational-psychology
+- emotion-research
+related:
+- emotional-regulation
+- control-value-theory
+- pekrun
+- test-anxiety
+- boredom
+confidence: high
+callouts:
+- type: definition
+  title: Academic Emotions
+  body: Academic Emotions, as theorised by Reinhard Pekrun's control-value theory,
+    are the affective experiences specifically tied to academic activities and outcomes
+    — enjoyment, hope, pride, anxiety, anger, shame, hopelessness, boredom — and are
+    predicted by learners' appraisals of control over and value of academic outcomes.
+- type: key-claim
+  title: Key claim about Academic Emotions
+  body: Academic Emotions exert measurable effects on learning processes and outcomes
+    — positive activating emotions support engagement and deep processing, while negative
+    deactivating emotions like hopelessness and boredom produce withdrawal — making
+    attention to Academic Emotions a non-optional component of pedagogy aimed at sustained
+    engagement.
+- type: warning
+  title: Common pitfall regarding Academic Emotions
+  body: Academic Emotions are often treated as side-effects to be managed rather than
+    as central design targets, but in the control-value theory they are downstream
+    of curricular and pedagogical choices about control and value; reducing test anxiety,
+    for instance, is more durably accomplished by reshaping the structures that produce
+    uncontrollable high-stakes evaluation than by teaching individual coping strategies.

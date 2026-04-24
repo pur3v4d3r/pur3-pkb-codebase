@@ -1,0 +1,39 @@
+concept: Far Transfer
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- education
+aliases:
+- distal transfer
+broader:
+- knowledge-transfer
+related:
+- near-transfer
+- encoding-specificity-principle
+- problem-isomorphs
+- abstract-principles
+prerequisites:
+- knowledge-transfer
+confidence: high
+callouts:
+- type: definition
+  title: Far Transfer
+  body: Far Transfer is the application of learning to contexts substantially different
+    from those of original acquisition — different surface features, different domains,
+    different problem structures — and is the form of transfer most often invoked
+    to justify general-skills curricula and most often absent in empirical tests.
+- type: key-claim
+  title: Key claim about Far Transfer
+  body: 'Far Transfer is empirically rare: meta-analyses across decades consistently
+    find that learners trained in one domain transfer their gains very modestly to
+    ostensibly related domains, and the conditions that produce Far Transfer when
+    it does occur (multiple varied examples, abstract principle extraction, explicit
+    comparison) are demanding enough that they constitute a distinct pedagogical agenda
+    rather than a side effect of ordinary instruction.'
+- type: warning
+  title: Common pitfall regarding Far Transfer
+  body: Far Transfer claims are the most frequent overreach in educational marketing
+    — "learn coding to think like a scientist," "play chess to improve mathematics"
+    — and almost never survive controlled testing; consumers should require Far Transfer
+    evidence rather than accept theoretical plausibility, and curricula should be
+    evaluated against the transfer they actually produce, not the transfer they advertise.

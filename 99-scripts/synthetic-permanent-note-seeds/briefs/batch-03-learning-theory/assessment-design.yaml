@@ -1,0 +1,40 @@
+concept: Assessment Design
+domain: learning-science
+secondary_domains:
+- educational-measurement
+- instructional-design
+aliases:
+- educational assessment
+broader:
+- educational-psychology
+related:
+- formative-assessment
+- summative-assessment
+- validity
+- reliability
+- backward-design
+prerequisites:
+- educational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Assessment Design
+  body: Assessment Design is the principled construction of tasks, prompts, and rubrics
+    intended to measure learning outcomes — covering formative assessment (during
+    learning, to inform adjustment) and summative assessment (after learning, to certify
+    achievement) — under explicit constraints of validity, reliability, and consequential
+    impact on instruction.
+- type: key-claim
+  title: Key claim about Assessment Design
+  body: 'Assessment Design exerts more pedagogical leverage than most other instructional
+    choices because *assessment determines what learners attend to*: the constructive
+    alignment principle (Biggs) holds that learning outcomes, learning activities,
+    and assessments must be aligned, and misalignment between intended outcomes and
+    what is assessed reliably reshapes learning toward the assessment.'
+- type: warning
+  title: Common pitfall regarding Assessment Design
+  body: 'Assessment Design is regularly compromised by what is convenient to grade
+    rather than by what matters: multiple-choice items survive because they scale,
+    even when they encourage surface processing of content whose intended outcome
+    was deep restructuring; pedagogy should resist the gravity that pulls assessment
+    toward measurability at the cost of validity.'

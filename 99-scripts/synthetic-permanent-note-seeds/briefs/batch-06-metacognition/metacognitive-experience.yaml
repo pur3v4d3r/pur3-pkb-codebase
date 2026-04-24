@@ -1,0 +1,41 @@
+concept: Metacognitive Experience
+domain: metacognition-research
+secondary_domains:
+- cognitive-psychology
+aliases:
+- Flavell metacognitive experiences
+broader:
+- metacognition
+narrower:
+- metacognitive-feelings
+- metacognitive-judgments
+related:
+- metacognitive-knowledge
+- flavell
+- task-difficulty-experience
+prerequisites:
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Metacognitive Experience
+  body: Metacognitive Experience, in Flavell's foundational tripartite framework,
+    is the conscious cognitive or affective experience that accompanies and pertains
+    to an intellectual enterprise — feelings, judgements, perceptions of difficulty
+    or fluency — and is one of the three components alongside metacognitive knowledge
+    and metacognitive strategies.
+- type: key-claim
+  title: Key claim about Metacognitive Experience
+  body: 'Metacognitive Experience is the most pedagogically tractable of Flavell''s
+    three components because it occurs in real time during task performance and can
+    be directly probed and trained: prompting learners to report their experience
+    of difficulty, confidence, or confusion at structured moments creates the substrate
+    on which monitoring and regulation can be deliberately trained.'
+- type: warning
+  title: Common pitfall regarding Metacognitive Experience
+  body: 'Metacognitive Experience is often confused with Metacognitive Knowledge in
+    casual writing about metacognition, but Flavell''s distinction matters: a learner
+    can have rich Metacognitive Knowledge ("I know I have trouble with statistics")
+    without the in-the-moment Metacognitive Experience that flags a specific problem
+    ("this current calculation feels wrong") — and behaviour change requires the latter,
+    not just the former.'

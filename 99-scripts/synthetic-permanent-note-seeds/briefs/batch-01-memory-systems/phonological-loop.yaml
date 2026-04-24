@@ -1,0 +1,38 @@
+concept: Phonological Loop
+domain: cognitive-science
+secondary_domains:
+- working-memory
+- language-processing
+aliases:
+- articulatory loop
+broader:
+- working-memory
+related:
+- central-executive
+- visuospatial-sketchpad
+- episodic-buffer
+- short-term-memory
+- subvocal-rehearsal
+prerequisites:
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Phonological Loop
+  body: The Phonological Loop is the slave system in Baddeley's model dedicated to
+    the temporary storage and rehearsal of speech-based information, comprising a
+    passive phonological store that holds material for roughly two seconds and an
+    articulatory rehearsal process that refreshes the store via subvocal repetition.
+- type: key-claim
+  title: Key claim about Phonological Loop
+  body: The Phonological Loop is supported by signature behavioural effects — the
+    phonological similarity effect, the word-length effect, articulatory suppression,
+    and the irrelevant speech effect — whose joint pattern is hard to explain without
+    positing a domain-specific verbal store separate from a domain-general workspace.
+- type: warning
+  title: Common pitfall regarding Phonological Loop
+  body: The Phonological Loop is often invoked as the primary substrate for "verbal
+    working memory" in classroom contexts, but its capacity limits are easily breached
+    and it is highly vulnerable to interference from background speech and music;
+    designing study environments without accounting for irrelevant-speech effects
+    systematically degrades verbal learning.

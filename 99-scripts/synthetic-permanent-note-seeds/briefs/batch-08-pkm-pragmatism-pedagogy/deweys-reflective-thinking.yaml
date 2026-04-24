@@ -1,0 +1,46 @@
+concept: Deweys Reflective Thinking
+domain: philosophy-of-education
+secondary_domains:
+- pragmatism
+- critical-thinking
+aliases:
+- Dewey's reflective thinking
+- Dewey's model of inquiry
+broader:
+- reflective-thinking
+- pragmatism
+related:
+- reflective-thinking
+- pragmatism
+- dewey
+- how-we-think
+- experience-and-education
+prerequisites:
+- reflective-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Deweys Reflective Thinking
+  body: Deweys Reflective Thinking refers specifically to the model of disciplined
+    inquiry developed in John Dewey's *How We Think* (1910, revised 1933), in which
+    thinking is the active resolution of a felt difficulty through phases of problem-definition,
+    hypothesis-generation, reasoning-out of consequences, and empirical or experiential
+    testing — the prototype for subsequent models of scientific reasoning, problem-based
+    learning, and reflective practice.
+- type: key-claim
+  title: Key claim about Deweys Reflective Thinking
+  body: Deweys Reflective Thinking is the philosophical-educational source from which
+    much subsequent work on critical thinking, scientific inquiry pedagogy, problem-based
+    learning, and reflective practice descends; tracing those traditions back to Dewey
+    reveals that they share a common ancestor and a common diagnosis of unreflective
+    thinking as habitual or impulsive, and a common prescription of disciplined inquiry
+    as the developmental remedy.
+- type: warning
+  title: Common pitfall regarding Deweys Reflective Thinking
+  body: Deweys Reflective Thinking is regularly invoked in education without engagement
+    with what Dewey actually argued — his insistence on the *phasic* structure of
+    inquiry, his rejection of dualisms between thought and action, his demand that
+    reflection terminate in tested experience rather than in unverified narrative
+    — and contemporary "reflective practice" literature is criticised for retaining
+    Dewey's vocabulary while abandoning the disciplined-inquiry substance that gave
+    it cognitive value.

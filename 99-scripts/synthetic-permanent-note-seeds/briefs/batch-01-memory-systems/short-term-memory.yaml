@@ -1,0 +1,43 @@
+concept: Short-Term Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- learning-science
+aliases:
+- STM
+- primary memory
+broader:
+- memory-systems
+- multi-store-model
+narrower:
+- working-memory
+- phonological-loop
+- visuospatial-sketchpad
+related:
+- long-term-memory
+- working-memory-capacity
+- magical-number-seven
+- maintenance-rehearsal
+prerequisites:
+- memory-systems
+confidence: high
+callouts:
+- type: definition
+  title: Short-Term Memory
+  body: Short-Term Memory is the limited-capacity, time-limited store that briefly
+    retains a small number of items in an immediately accessible state, classically
+    theorised as the second stage of the [[multi-store-model]] between sensory registration
+    and consolidation into [[long-term-memory]]; without active rehearsal its contents
+    decay within roughly 15-30 seconds.
+- type: key-claim
+  title: Key claim about Short-Term Memory
+  body: 'Short-Term Memory is functionally distinguishable from working memory: it
+    is conceived as a passive holding buffer characterised by capacity ([[magical-number-seven]])
+    and decay, whereas [[working-memory]] adds executive manipulation on top of those
+    storage components.'
+- type: warning
+  title: Common pitfall regarding Short-Term Memory
+  body: Short-Term Memory is often used as a loose synonym for [[working-memory]]
+    in popular writing, but conflating the two erases the central theoretical move
+    of Baddeley's revision and obscures why [[working-memory-capacity]] (not raw STM
+    span) predicts complex cognition.

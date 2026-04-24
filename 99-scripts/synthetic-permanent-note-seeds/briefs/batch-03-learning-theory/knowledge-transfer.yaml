@@ -1,0 +1,40 @@
+concept: Knowledge Transfer
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- education
+aliases:
+- transfer of learning
+broader:
+- learning-processes
+narrower:
+- far-transfer
+- near-transfer
+related:
+- encoding-specificity-principle
+- analogical-transfer
+- situated-learning-theory
+prerequisites:
+- learning-processes
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Transfer
+  body: Knowledge Transfer is the application of learning acquired in one context
+    to performance in a different context, ranging from near transfer (highly similar
+    contexts) to far transfer (substantially different domains), and is the criterion
+    against which any pedagogy claiming to teach generalisable skills must ultimately
+    be judged.
+- type: key-claim
+  title: Key claim about Knowledge Transfer
+  body: 'Knowledge Transfer is harder to produce and demonstrate than the educational
+    discourse usually admits: most well-controlled studies find robust near transfer
+    but weak or absent far transfer, which forces a re-evaluation of curricula whose
+    advertised payoff is far transfer they cannot demonstrate.'
+- type: warning
+  title: Common pitfall regarding Knowledge Transfer
+  body: 'Knowledge Transfer is often confused with surface generalisation: a learner
+    who can apply a procedure to structurally similar problems with different cover
+    stories has not demonstrated transfer in the deeper sense of reorganising approach
+    in the face of structurally novel demands; pedagogy that conflates the two over-claims
+    its impact.'

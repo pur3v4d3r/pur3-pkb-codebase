@@ -1,0 +1,108 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "batch-08-pkm-pragmatism-pedagogy",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-batch-08-pkm-pragmatism-pedagogy.md",
+    "notes": "Batch 8 of 8 (final). Mixed-domain batch: PKM tooling and practice\n(Obsidian, Zettelkasten, wiki-links, PKB, note-making vs note-taking,\nactive note-making), pragmatism (pragmatism, pragmatic maxim, fallibilism),\npedagogy + double-loop learning + Dewey reflective thinking + heutagogy.\nPer-term `domain` overrides default where appropriate.\nNote: 'hetogogy' preserved as the user's spelling for 'heutagogy'."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/batch-08-pkm-pragmatism-pedagogy",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-batch-08-pkm-pragmatism-pedagogy"
+  },
+  "counts": {
+    "parsed": 14,
+    "accepted": 14,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Obsidian",
+      "kebab": "obsidian",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/obsidian.yaml",
+      "expected_seed_filename": "obsidian-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Zettelkasten",
+      "kebab": "zettelkasten",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/zettelkasten.yaml",
+      "expected_seed_filename": "zettelkasten-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Wiki Links",
+      "kebab": "wiki-links",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/wiki-links.yaml",
+      "expected_seed_filename": "wiki-links-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Personal Knowledge Base",
+      "kebab": "personal-knowledge-base",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/personal-knowledge-base.yaml",
+      "expected_seed_filename": "personal-knowledge-base-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Note Making vs Note Taking",
+      "kebab": "note-making-vs-note-taking",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/note-making-vs-note-taking.yaml",
+      "expected_seed_filename": "note-making-vs-note-taking-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Active Note Making",
+      "kebab": "active-note-making",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/active-note-making.yaml",
+      "expected_seed_filename": "active-note-making-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Pedagogy",
+      "kebab": "pedagogy",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/pedagogy.yaml",
+      "expected_seed_filename": "pedagogy-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Hetogogy",
+      "kebab": "hetogogy",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/hetogogy.yaml",
+      "expected_seed_filename": "hetogogy-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Reflective Thinking",
+      "kebab": "reflective-thinking",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/reflective-thinking.yaml",
+      "expected_seed_filename": "reflective-thinking-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Pragmatism",
+      "kebab": "pragmatism",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/pragmatism.yaml",
+      "expected_seed_filename": "pragmatism-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Pragmatic Maxim",
+      "kebab": "pragmatic-maxim",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/pragmatic-maxim.yaml",
+      "expected_seed_filename": "pragmatic-maxim-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Fallibilism",
+      "kebab": "fallibilism",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/fallibilism.yaml",
+      "expected_seed_filename": "fallibilism-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Double Loop Learning",
+      "kebab": "double-loop-learning",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/double-loop-learning.yaml",
+      "expected_seed_filename": "double-loop-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Deweys Reflective Thinking",
+      "kebab": "deweys-reflective-thinking",
+      "brief_path": "briefs/batch-08-pkm-pragmatism-pedagogy/deweys-reflective-thinking.yaml",
+      "expected_seed_filename": "deweys-reflective-thinking-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

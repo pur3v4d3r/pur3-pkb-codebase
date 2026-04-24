@@ -1,0 +1,39 @@
+concept: Propositional Logic
+domain: logic
+secondary_domains:
+- philosophy
+- mathematics
+aliases:
+- sentential logic
+- propositional calculus
+broader:
+- deductive-logic
+related:
+- predicate-logic
+- truth-tables
+- connectives
+- boolean-algebra
+prerequisites:
+- deductive-logic
+confidence: high
+callouts:
+- type: definition
+  title: Propositional Logic
+  body: Propositional Logic is the branch of formal logic that analyses inferences
+    in terms of sentence-level connectives — and, or, not, if-then, if-and-only-if
+    — without reference to the internal structure of the sentences, and provides the
+    foundation on which predicate and modal logics are built.
+- type: key-claim
+  title: Key claim about Propositional Logic
+  body: Propositional Logic is decidable — there is a mechanical procedure (truth
+    tables, satisfiability solvers) that determines whether any propositional argument
+    is valid — making it the first formal system in which the validity of arbitrary
+    arguments can be checked algorithmically rather than judged intuitively, which
+    is the foundational achievement of modern logic.
+- type: warning
+  title: Common pitfall regarding Propositional Logic
+  body: Propositional Logic captures the inferential structure that depends purely
+    on connectives, which is a small fraction of the inferential structure of natural-language
+    reasoning; arguments that depend on quantification ("all," "some"), identity,
+    or modality cannot be adequately analysed in Propositional Logic alone, which
+    is why predicate and modal extensions were developed.

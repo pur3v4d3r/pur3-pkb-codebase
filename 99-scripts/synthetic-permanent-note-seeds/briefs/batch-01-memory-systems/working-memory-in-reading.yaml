@@ -1,0 +1,40 @@
+concept: Working Memory in Reading
+domain: cognitive-science
+secondary_domains:
+- reading-research
+- learning-science
+aliases:
+- reading working memory
+broader:
+- working-memory
+- working-memory-capacity
+related:
+- phonological-loop
+- central-executive
+- reading-comprehension
+- reading-span-task
+prerequisites:
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Working Memory in Reading
+  body: Working Memory in Reading refers to the role of capacity-limited maintenance
+    and integration during text comprehension — holding the just-processed clause
+    active while parsing the next, integrating anaphoric reference, building situation
+    models, and inhibiting irrelevant interpretations — and is the construct measured
+    by Daneman and Carpenter's reading-span task.
+- type: key-claim
+  title: Key claim about Working Memory in Reading
+  body: Working Memory in Reading correlates strongly with comprehension performance
+    because complex text continually demands simultaneous storage of partial representations
+    and active processing of incoming content, which makes reading among the most
+    attention-demanding everyday cognitive activities and explains why distraction
+    so reliably degrades comprehension.
+- type: warning
+  title: Common pitfall regarding Working Memory in Reading
+  body: Working Memory in Reading limits cannot be eliminated by motivation or effort;
+    pedagogical regimes that demand sustained reading of high-density text without
+    scaffolding (chunking, advance organisers, retrieval prompts) systematically overload
+    novice readers and produce the surface symptoms — slow reading, re-reading, comprehension
+    failure — that are then misattributed to "low ability."

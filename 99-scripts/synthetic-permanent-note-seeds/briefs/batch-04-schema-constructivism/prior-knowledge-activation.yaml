@@ -1,0 +1,39 @@
+concept: Prior Knowledge Activation
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- instructional-design
+aliases:
+- activating prior knowledge
+- prior-knowledge prompting
+broader:
+- prior-knowledge
+related:
+- advance-organiser
+- meaningful-learning-theory
+- anticipation-guide
+- KWL-chart
+prerequisites:
+- prior-knowledge
+confidence: high
+callouts:
+- type: definition
+  title: Prior Knowledge Activation
+  body: Prior Knowledge Activation refers to deliberate instructional moves — pre-questions,
+    advance organisers, predictions, KWL prompts, conceptual diagnostic items — that
+    bring relevant existing knowledge into working memory before new content is introduced,
+    so that the new content has anchoring concepts available during encoding.
+- type: key-claim
+  title: Key claim about Prior Knowledge Activation
+  body: Prior Knowledge Activation reliably improves comprehension and retention of
+    subsequently presented material when the activated knowledge is *relevant and
+    correct*; the effect is strongest for texts that are otherwise hard for the reader
+    and weakest for texts that are already well within the reader's domain.
+- type: warning
+  title: Common pitfall regarding Prior Knowledge Activation
+  body: 'Prior Knowledge Activation can backfire when it activates *incorrect* prior
+    knowledge: an unprompted brainstorm at the start of a science unit can entrench
+    misconceptions by giving them a public airing without subsequent confrontation,
+    which is why effective Prior Knowledge Activation pairs elicitation with explicit
+    subsequent revision rather than treating the activation step as sufficient on
+    its own.'

@@ -1,0 +1,41 @@
+concept: Bloom's Taxonomy
+domain: education
+secondary_domains:
+- learning-science
+- instructional-design
+aliases:
+- Bloom taxonomy
+- revised Bloom's
+broader:
+- educational-psychology
+related:
+- remembering
+- understanding
+- applying
+- analysing
+- evaluating
+- creating
+confidence: high
+callouts:
+- type: definition
+  title: Bloom's Taxonomy
+  body: Bloom's Taxonomy is the hierarchical classification of cognitive learning
+    objectives — published by Benjamin Bloom and colleagues in 1956 and revised by
+    Anderson and Krathwohl in 2001 — that orders cognitive processes from lower-order
+    (remember, understand, apply) to higher-order (analyse, evaluate, create), and
+    serves as a planning framework for instructional design and assessment.
+- type: key-claim
+  title: Key claim about Bloom's Taxonomy
+  body: Bloom's Taxonomy provides a vocabulary that exposes the gap between what curricula
+    *say* they teach and what their assessments actually measure; the routine finding
+    that learning objectives invoke higher-order verbs while assessments only test
+    lower-order recall is one of the most consistently identified misalignments in
+    instructional audits using the Taxonomy.
+- type: warning
+  title: Common pitfall regarding Bloom's Taxonomy
+  body: Bloom's Taxonomy is widely treated as a strict hierarchy in which lower levels
+    must be mastered before higher levels are addressed, but the empirical evidence
+    for strict hierarchical dependency is weak; pedagogically, higher-order thinking
+    can be productively engaged on partially-understood content, and waiting for "mastery"
+    before allowing analysis or evaluation often defers the very engagement that consolidates
+    lower-order knowledge.

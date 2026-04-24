@@ -1,0 +1,35 @@
+concept: Humanistic Psychology
+domain: psychology
+secondary_domains:
+- philosophy
+- education
+aliases:
+- humanistic-existential psychology
+broader:
+- psychology
+related:
+- maslow
+- carl-rogers
+- self-determination-theory
+- positive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Humanistic Psychology
+  body: Humanistic Psychology is the mid-20th-century "third force" — organised against
+    psychoanalysis and behaviourism by Maslow, Rogers, and others — that centred subjective
+    experience, agency, meaning-making, self-actualisation, and the conditions of
+    psychological flourishing as the proper subject matter of psychology.
+- type: key-claim
+  title: Key claim about Humanistic Psychology
+  body: 'Humanistic Psychology established the conceptual ground from which [[self-determination-theory]]
+    and [[positive-psychology]] later emerged with empirical methodology: the central
+    claim that humans have intrinsic motivational tendencies toward growth, integration,
+    and meaning continues as the kernel of contemporary motivation science.'
+- type: warning
+  title: Common pitfall regarding Humanistic Psychology
+  body: Humanistic Psychology's classical formulations (Maslow's hierarchy, Rogerian
+    core conditions) are widely cited but weakly supported empirically in their original
+    strict form; importing them into pedagogy as established science overstates their
+    evidential standing, while the empirically updated descendants (SDT, Csikszentmihalyi's
+    flow research) carry the productive insights forward on firmer ground.

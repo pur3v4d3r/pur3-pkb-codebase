@@ -1,0 +1,42 @@
+concept: Self-Reflection Phase
+domain: self-regulated-learning
+secondary_domains:
+- metacognition-research
+- learning-science
+aliases:
+- Zimmerman self-reflection phase
+broader:
+- self-regulated-learning
+- zimmerman-srl-model
+related:
+- forethought-phase
+- performance-phase
+- self-judgment
+- self-reaction
+- causal-attribution
+prerequisites:
+- self-regulated-learning
+confidence: high
+callouts:
+- type: definition
+  title: Self-Reflection Phase
+  body: The Self-Reflection Phase, in Zimmerman's three-phase SRL model, is the post-performance
+    phase in which the learner makes self-judgments (evaluating performance against
+    criteria, making causal attributions for outcomes) and self-reactions (affective
+    response, adaptive vs. defensive inference for next-cycle planning), feeding back
+    into the next forethought phase.
+- type: key-claim
+  title: Key claim about Self-Reflection Phase
+  body: 'The Self-Reflection Phase is the phase where the SRL cycle either closes
+    productively or breaks: learners who attribute outcomes to controllable causes
+    (effort, strategy) and respond adaptively (revising plan for next cycle) maintain
+    self-regulation, while learners who attribute outcomes to stable uncontrollable
+    causes (ability, luck) and respond defensively (avoidance, learned helplessness)
+    exit the cycle.'
+- type: warning
+  title: Common pitfall regarding Self-Reflection Phase
+  body: The Self-Reflection Phase is often reduced to a written reflection assignment
+    that learners produce as performance for a teacher rather than as genuine self-evaluation;
+    the structure that elicits authentic Self-Reflection is private, formative, and
+    tied to actual next-cycle decisions, not graded reflective writing whose outputs
+    predict grade rather than genuine reorganisation of the learner's approach.

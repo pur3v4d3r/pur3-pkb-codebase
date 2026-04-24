@@ -1,0 +1,40 @@
+concept: Dunning-Kruger Effect
+domain: metacognition-research
+secondary_domains:
+- judgement-and-decision-making
+- social-psychology
+aliases:
+- DK effect
+broader:
+- metacognitive-calibration
+related:
+- overconfidence
+- unskilled-and-unaware
+- metacognitive-judgments
+- double-curse
+prerequisites:
+- metacognitive-calibration
+confidence: high
+callouts:
+- type: definition
+  title: Dunning-Kruger Effect
+  body: The Dunning-Kruger Effect, as published by Kruger and Dunning (1999), is the
+    empirical finding that people in the lowest performance quartile of a domain systematically
+    overestimate their performance, while top performers tend to slightly underestimate,
+    producing a characteristic gap that the original authors framed as a "double curse"
+    of incompetence and unawareness of incompetence.
+- type: key-claim
+  title: Key claim about Dunning-Kruger Effect
+  body: The Dunning-Kruger Effect's pedagogical implication is that the learners least
+    equipped to identify their own errors are the ones most in need of doing so, which
+    means external diagnostic feedback (well-designed assessments, criterion-referenced
+    rubrics, peer comparison with proper calibration support) is structurally necessary
+    — self-assessment cannot be the primary feedback channel for novices.
+- type: warning
+  title: Common pitfall regarding Dunning-Kruger Effect
+  body: The Dunning-Kruger Effect has been heavily over-stated and partly mis-explained
+    in popular discourse — the original effect size is modest, much of the apparent
+    pattern in the original data is driven by regression to the mean and ceiling/floor
+    effects (Nuhfer et al., Gignac & Zajenkowski), and confident incompetents are
+    not as systematically distinct from confident competents as the meme suggests;
+    cite the underlying research rather than the popular caricature.

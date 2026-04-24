@@ -1,0 +1,40 @@
+concept: Magical Number Seven
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- history-of-cognitive-science
+aliases:
+- magical number seven plus or minus two
+- Miller's seven
+- working-memory span limit
+broader:
+- working-memory
+- short-term-memory
+related:
+- working-memory-capacity
+- cognitive-chunking
+- span-of-apprehension
+prerequisites:
+- short-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Magical Number Seven
+  body: The Magical Number Seven, named after George Miller's 1956 paper, is the empirical
+    generalisation that the immediate-memory span across diverse modalities clusters
+    around seven plus or minus two items, and is the historical anchor for all subsequent
+    capacity-limit work in cognitive psychology.
+- type: key-claim
+  title: Key claim about Magical Number Seven
+  body: 'The Magical Number Seven is best understood as a limit on *chunks* rather
+    than raw items: the same span that holds seven random digits also holds seven
+    memorised digit triplets — twenty-one digits — which establishes that capacity
+    is jointly determined by working memory and by the long-term knowledge that supports
+    [[cognitive-chunking]].'
+- type: warning
+  title: Common pitfall regarding Magical Number Seven
+  body: 'The Magical Number Seven has been substantially revised: more recent work
+    (Cowan, 2001) places the true capacity at around four chunks under conditions
+    that prevent rehearsal and chunking, with seven appearing only when those strategies
+    are available; treating "seven" as the bedrock capacity overstates the limit and
+    underweights the role of strategy in apparent span.'

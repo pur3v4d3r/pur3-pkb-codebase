@@ -1,0 +1,40 @@
+concept: Declarative Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- neuroscience
+aliases:
+- explicit memory
+broader:
+- long-term-memory
+- memory-systems
+narrower:
+- semantic-memory
+- episodic-memory
+related:
+- procedural-memory
+- non-declarative-memory
+- hippocampus
+prerequisites:
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Declarative Memory
+  body: Declarative Memory is the long-term subsystem for consciously accessible knowledge
+    that can be verbally reported — encompassing both [[semantic-memory]] (facts and
+    concepts) and [[episodic-memory]] (events) — and is selectively impaired by medial-temporal-lobe
+    damage that spares motor skills and conditioned responses.
+- type: key-claim
+  title: Key claim about Declarative Memory
+  body: 'Declarative Memory and [[procedural-memory]] are functionally and neurally
+    dissociable: the same patient can lose new declarative learning while continuing
+    to acquire skills, which establishes that "memory" is not a single faculty but
+    a federation of systems with distinct rules.'
+- type: warning
+  title: Common pitfall regarding Declarative Memory
+  body: Declarative Memory's introspective accessibility makes it deceptively easy
+    to assess (you can ask the learner), whereas [[procedural-memory]] often requires
+    behavioural probes; over-relying on verbal report as a measure of "what was learned"
+    systematically undercounts implicit competence and overcounts shallow declarative
+    knowledge.

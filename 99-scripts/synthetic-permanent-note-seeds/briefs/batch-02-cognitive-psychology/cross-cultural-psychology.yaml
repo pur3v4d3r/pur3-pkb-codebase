@@ -1,0 +1,35 @@
+concept: Cross-Cultural Psychology
+domain: psychology
+secondary_domains:
+- anthropology
+- methodology
+aliases:
+- cross-cultural research
+broader:
+- psychology
+related:
+- cultural-psychology
+- weird-samples
+- indigenous-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Cross-Cultural Psychology
+  body: Cross-Cultural Psychology systematically compares psychological processes
+    across cultural groups to determine which aspects of human cognition, emotion,
+    and behaviour are universal versus culturally constructed, and serves as a methodological
+    corrective to claims that generalise from a narrow demographic base.
+- type: key-claim
+  title: Key claim about Cross-Cultural Psychology
+  body: Cross-Cultural Psychology's central empirical contribution since Henrich and
+    colleagues' 2010 critique is the demonstration that much of psychology's evidence
+    base derives from "WEIRD" populations (Western, Educated, Industrialised, Rich,
+    Democratic) that are systematically unrepresentative of humanity, requiring that
+    any claim of universality survive cross-cultural test.
+- type: warning
+  title: Common pitfall regarding Cross-Cultural Psychology
+  body: 'Cross-Cultural Psychology is sometimes used to defend extreme cultural relativism
+    that denies any human universals, but the productive use of the field is the opposite:
+    it identifies which findings *do* survive cross-cultural test (basic memory architecture,
+    infant cognitive milestones, color perception primitives) and which collapse,
+    allowing more accurate calibration of generalisability.'

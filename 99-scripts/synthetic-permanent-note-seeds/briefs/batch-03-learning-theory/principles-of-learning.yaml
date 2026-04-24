@@ -1,0 +1,38 @@
+concept: Principles of Learning
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- instructional-design
+aliases:
+- learning principles
+broader:
+- psychology-of-learning
+related:
+- learning-strategies
+- desirable-difficulties
+- testing-effect
+- spacing-effect
+prerequisites:
+- psychology-of-learning
+confidence: high
+callouts:
+- type: definition
+  title: Principles of Learning
+  body: Principles of Learning are the well-replicated empirical generalisations governing
+    acquisition and retention — including spacing, retrieval practice, interleaving,
+    generation, dual coding, elaboration, worked examples, feedback timing, and desirable
+    difficulties — that constitute the operational core of evidence-based pedagogy.
+- type: key-claim
+  title: Key claim about Principles of Learning
+  body: 'Principles of Learning are characterised by a recurring counter-intuition:
+    practices that *feel* effective in the moment (re-reading, blocked practice, immediate
+    feedback) often produce weaker long-term outcomes than practices that feel harder
+    (testing, interleaving, delayed feedback), and the pedagogical implication is
+    that subjective fluency is an unreliable guide to whether learning is occurring.'
+- type: warning
+  title: Common pitfall regarding Principles of Learning
+  body: 'Principles of Learning are often presented as a checklist that practitioners
+    can apply uniformly, but their effects interact: adding interleaving without sufficient
+    base learning produces confusion rather than discrimination; introducing desirable
+    difficulties to overloaded novices produces failure rather than retrieval strength;
+    principles are levers to be calibrated, not switches to be flipped.'

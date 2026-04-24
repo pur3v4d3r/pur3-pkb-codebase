@@ -1,0 +1,39 @@
+concept: Metacognitive Calibration
+domain: metacognition-research
+secondary_domains:
+- judgement-and-decision-making
+- learning-science
+aliases:
+- confidence calibration
+- calibration of metacognition
+broader:
+- metacognition
+related:
+- metacognitive-judgments
+- overconfidence
+- underconfidence
+- dunning-kruger-effect
+prerequisites:
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Metacognitive Calibration
+  body: Metacognitive Calibration is the alignment between a learner's confidence
+    in their knowledge and the actual accuracy of that knowledge — well-calibrated
+    learners are confident when correct and uncertain when wrong — and is measured
+    through correlations between item-level confidence judgements and item-level accuracy.
+- type: key-claim
+  title: Key claim about Metacognitive Calibration
+  body: 'Metacognitive Calibration is the binding constraint on effective self-regulated
+    learning: a learner cannot allocate study time efficiently to weak areas if they
+    cannot tell which areas are weak, and the well-documented overconfidence patterns
+    (especially among lower-performing learners) explain a large portion of why learners
+    often fail to improve despite available study time.'
+- type: warning
+  title: Common pitfall regarding Metacognitive Calibration
+  body: Metacognitive Calibration can be improved through specific practices — receiving
+    accuracy feedback after confidence judgements, generating retrieval attempts before
+    judging knowing, comparing predicted vs. actual performance — but these practices
+    are rarely embedded in standard instruction; learners left to their own devices
+    typically remain miscalibrated, so explicit calibration training is needed.

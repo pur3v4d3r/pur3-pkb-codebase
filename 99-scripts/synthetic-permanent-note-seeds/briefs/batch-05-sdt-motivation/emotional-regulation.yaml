@@ -1,0 +1,39 @@
+concept: Emotional Regulation
+domain: emotion-research
+secondary_domains:
+- clinical-psychology
+- developmental-psychology
+aliases:
+- emotion regulation
+- affect regulation
+broader:
+- self-regulation
+related:
+- academic-emotions
+- gross-process-model
+- reappraisal
+- suppression
+- metacognitive-regulation
+confidence: high
+callouts:
+- type: definition
+  title: Emotional Regulation
+  body: Emotional Regulation is the set of processes — automatic and controlled, conscious
+    and unconscious — by which people influence which emotions they have, when they
+    have them, and how they experience and express them, formalised by Gross's process
+    model into antecedent-focused (situation selection, situation modification, attention
+    deployment, cognitive change) and response-focused (response modulation) strategies.
+- type: key-claim
+  title: Key claim about Emotional Regulation
+  body: 'Emotional Regulation strategy choice has substantial consequences for outcomes:
+    cognitive reappraisal (reframing the meaning of emotion-eliciting situations)
+    is associated with better well-being and performance than expressive suppression
+    (inhibiting emotion display while continuing to feel it), making strategy training
+    a tractable target for intervention.'
+- type: warning
+  title: Common pitfall regarding Emotional Regulation
+  body: Emotional Regulation is often mistakenly equated with emotion suppression
+    — "don't let it show" — which is the strategy with the worst outcomes in the empirical
+    literature; effective Emotional Regulation pedagogy must distinguish among strategies
+    and explicitly teach the more adaptive ones, rather than promoting the implicit
+    suppression model that schools often reinforce.

@@ -1,0 +1,40 @@
+concept: Wiki Links
+domain: personal-knowledge-management
+secondary_domains:
+- note-taking
+- hypertext
+aliases:
+- wikilinks
+- internal links
+- double-bracket links
+broader:
+- hypertext
+related:
+- obsidian
+- zettelkasten
+- bidirectional-links
+- backlinks
+confidence: high
+callouts:
+- type: definition
+  title: Wiki Links
+  body: Wiki Links are the double-bracket reference syntax (`[[target]]`) originating
+    in the WikiWiki tradition and adopted by modern PKM tools (Obsidian, Logseq, Roam,
+    Foam) to create bidirectional links between notes — where the target is created
+    on first reference and accumulates *backlinks* from every note that points to
+    it.
+- type: key-claim
+  title: Key claim about Wiki Links
+  body: Wiki Links, unlike conventional one-way hyperlinks, create *bidirectional*
+    connections that make a note discoverable from every other note that references
+    it; this property is what enables the emergent associative network of a PKM system,
+    since the network is built incrementally as a side effect of writing without requiring
+    an upfront table of contents or explicit topic taxonomy.
+- type: warning
+  title: Common pitfall regarding Wiki Links
+  body: Wiki Links are sometimes treated as a substitute for genuine conceptual organisation
+    — a note dense with `[[term]]` mentions is mistaken for a note that has thought
+    through how the linked concepts actually relate — but a list of bracketed terms
+    is not an argument; the productive use of Wiki Links is to mark connections that
+    the surrounding prose actually develops, and link-bombing without conceptual work
+    degrades the network.

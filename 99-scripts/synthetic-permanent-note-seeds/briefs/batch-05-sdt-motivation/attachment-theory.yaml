@@ -1,0 +1,39 @@
+concept: Attachment Theory
+domain: developmental-psychology
+secondary_domains:
+- clinical-psychology
+- relationship-research
+aliases:
+- Bowlby attachment theory
+broader:
+- developmental-psychology
+related:
+- relatedness-need
+- bowlby
+- ainsworth
+- secure-attachment
+- insecure-attachment
+confidence: high
+callouts:
+- type: definition
+  title: Attachment Theory
+  body: Attachment Theory, founded by John Bowlby and elaborated by Mary Ainsworth,
+    is the developmental and clinical framework that explains how patterns of early
+    caregiver responsiveness shape internal working models of self, other, and relationships
+    that organise emotional regulation and interpersonal behaviour across the lifespan.
+- type: key-claim
+  title: Key claim about Attachment Theory
+  body: Attachment Theory predicts that secure-base experiences in childhood — caregivers
+    who are responsive, predictable, and emotionally available — produce internal
+    working models supportive of confident exploration and trustful relationships,
+    while patterns of unresponsive, inconsistent, or frightening caregiving produce
+    insecure attachment patterns associated with measurable interpersonal and regulatory
+    difficulties.
+- type: warning
+  title: Common pitfall regarding Attachment Theory
+  body: Attachment Theory's classifications (secure, avoidant, anxious, disorganised)
+    are often misused as diagnostic labels that overstate stability and underestimate
+    context; attachment patterns are more responsive to current relationships than
+    the popular literature suggests, and treating someone as "an avoidant" obscures
+    both the developmental conditions that produced the pattern and the relational
+    conditions that could revise it.

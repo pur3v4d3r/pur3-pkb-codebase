@@ -1,0 +1,36 @@
+concept: Intellectual Humility
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- philosophy
+aliases:
+- epistemic humility
+broader:
+- intellectual-virtues
+related:
+- virtue-epistemology
+- open-mindedness
+- fallibilism
+- epistemic-courage
+confidence: high
+callouts:
+- type: definition
+  title: Intellectual Humility
+  body: Intellectual Humility is the disposition to recognise the limits of one's
+    own knowledge and reasoning — including one's susceptibility to bias, the partiality
+    of one's evidence, and the possibility that one is wrong — and to engage with
+    disagreement as potentially informative rather than as threat to be defended against.
+- type: key-claim
+  title: Key claim about Intellectual Humility
+  body: Intellectual Humility is associated in the empirical literature with better
+    belief updating in response to new evidence, more productive disagreement, and
+    reduced susceptibility to motivated reasoning — making it not merely a moral virtue
+    but an epistemic capacity with measurable consequences for the accuracy of one's
+    beliefs.
+- type: warning
+  title: Common pitfall regarding Intellectual Humility
+  body: Intellectual Humility can be performatively imitated ("I might be wrong about
+    this, but...") without the underlying disposition that makes it operative; the
+    test of Intellectual Humility is not what one professes about one's fallibility
+    but how one responds when an interlocutor presents evidence one's professed beliefs
+    are wrong, and many self-professed humble thinkers fail that test.

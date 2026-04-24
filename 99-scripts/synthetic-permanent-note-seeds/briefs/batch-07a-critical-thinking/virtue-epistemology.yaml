@@ -1,0 +1,38 @@
+concept: Virtue Epistemology
+domain: epistemology
+secondary_domains:
+- philosophy
+- virtue-ethics
+aliases:
+- virtue-theoretic epistemology
+broader:
+- epistemology
+related:
+- intellectual-humility
+- intellectual-virtues
+- zagzebski
+- sosa
+- reliabilism
+confidence: high
+callouts:
+- type: definition
+  title: Virtue Epistemology
+  body: Virtue Epistemology is the family of epistemological theories — developed
+    by Linda Zagzebski, Ernest Sosa, and others — that analyses knowledge and rational
+    belief in terms of the intellectual virtues exercised by the believer (open-mindedness,
+    intellectual humility, intellectual courage, fairness, thoroughness) rather than
+    purely in terms of belief-evidence relations or external reliability.
+- type: key-claim
+  title: Key claim about Virtue Epistemology
+  body: Virtue Epistemology argues that what distinguishes knowledge from mere true
+    belief is the *competence* with which the belief was formed — the exercise of
+    intellectual virtues that reliably track truth — and this framing connects epistemology
+    with character formation, education, and the cultivation of intellectual habits.
+- type: warning
+  title: Common pitfall regarding Virtue Epistemology
+  body: Virtue Epistemology has been criticised for circularity (intellectual virtues
+    defined as those that produce true beliefs, true beliefs identified by virtuously-formed
+    inquiry) and for difficulty operationalising what counts as a virtue in contested
+    domains; treating Virtue Epistemology as a complete theory of knowledge runs into
+    these problems, while treating it as a productive complement to other epistemologies
+    preserves its insights.

@@ -1,0 +1,40 @@
+concept: Socratic Method
+domain: critical-thinking
+secondary_domains:
+- philosophy
+- pedagogy
+aliases:
+- Socratic questioning
+- elenchus
+broader:
+- pedagogy
+- critical-thinking
+related:
+- plato
+- paul-elder-framework
+- intellectual-standards
+- productive-questioning
+confidence: high
+callouts:
+- type: definition
+  title: Socratic Method
+  body: The Socratic Method is the dialectical pedagogical practice — modelled on
+    Socrates as represented in the Platonic dialogues — of advancing inquiry through
+    systematic questioning that elicits the interlocutor's beliefs, surfaces their
+    assumptions and implications, exposes inconsistencies, and motivates revision
+    toward more defensible positions.
+- type: key-claim
+  title: Key claim about Socratic Method
+  body: The Socratic Method, in its productive form, treats the interlocutor as a
+    partner in inquiry whose existing beliefs are to be examined collaboratively rather
+    than refuted; the questioning is structured to make the interlocutor's own reasoning
+    visible to them, which produces more durable revision than direct argumentation
+    does.
+- type: warning
+  title: Common pitfall regarding Socratic Method
+  body: The Socratic Method is widely degraded into "Socratic ambush" — a teacher
+    uses leading questions to guide students to a predetermined conclusion while preserving
+    the appearance of inquiry — and in this degraded form it loses its developmental
+    value while actively training learners in performative compliance rather than
+    in genuine inquiry; the genuine Socratic Method is open to the possibility that
+    the inquiry will go somewhere the questioner did not anticipate.

@@ -1,0 +1,144 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "batch-07a-critical-thinking",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-batch-07a-critical-thinking.md",
+    "notes": "Batch 7a of 8. Focus: critical thinking foundations and dispositions,\nintellectual standards/humility, virtue epistemology, motivated reasoning\nand major heuristics/biases, dual-process system 1/2, inference,\nBloom's taxonomy, Paul-Elder framework, 2x2, argument analysis,\nSocratic method, Delphi report."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/batch-07a-critical-thinking",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-batch-07a-critical-thinking"
+  },
+  "counts": {
+    "parsed": 20,
+    "accepted": 20,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Critical Thinking",
+      "kebab": "critical-thinking",
+      "brief_path": "briefs/batch-07a-critical-thinking/critical-thinking.yaml",
+      "expected_seed_filename": "critical-thinking-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Critical Reasoning",
+      "kebab": "critical-reasoning",
+      "brief_path": "briefs/batch-07a-critical-thinking/critical-reasoning.yaml",
+      "expected_seed_filename": "critical-reasoning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Intellectual Standards",
+      "kebab": "intellectual-standards",
+      "brief_path": "briefs/batch-07a-critical-thinking/intellectual-standards.yaml",
+      "expected_seed_filename": "intellectual-standards-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Intellectual Humility",
+      "kebab": "intellectual-humility",
+      "brief_path": "briefs/batch-07a-critical-thinking/intellectual-humility.yaml",
+      "expected_seed_filename": "intellectual-humility-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Virtue Epistemology",
+      "kebab": "virtue-epistemology",
+      "brief_path": "briefs/batch-07a-critical-thinking/virtue-epistemology.yaml",
+      "expected_seed_filename": "virtue-epistemology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Motivated Reasoning",
+      "kebab": "motivated-reasoning",
+      "brief_path": "briefs/batch-07a-critical-thinking/motivated-reasoning.yaml",
+      "expected_seed_filename": "motivated-reasoning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Confirmation Bias",
+      "kebab": "confirmation-bias",
+      "brief_path": "briefs/batch-07a-critical-thinking/confirmation-bias.yaml",
+      "expected_seed_filename": "confirmation-bias-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Availability Heuristic",
+      "kebab": "availability-heuristic",
+      "brief_path": "briefs/batch-07a-critical-thinking/availability-heuristic.yaml",
+      "expected_seed_filename": "availability-heuristic-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "System 1",
+      "kebab": "system-1",
+      "brief_path": "briefs/batch-07a-critical-thinking/system-1.yaml",
+      "expected_seed_filename": "system-1-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "System 2",
+      "kebab": "system-2",
+      "brief_path": "briefs/batch-07a-critical-thinking/system-2.yaml",
+      "expected_seed_filename": "system-2-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Inference",
+      "kebab": "inference",
+      "brief_path": "briefs/batch-07a-critical-thinking/inference.yaml",
+      "expected_seed_filename": "inference-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Disposition",
+      "kebab": "disposition",
+      "brief_path": "briefs/batch-07a-critical-thinking/disposition.yaml",
+      "expected_seed_filename": "disposition-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Epistemic Vigilance",
+      "kebab": "epistemic-vigilance",
+      "brief_path": "briefs/batch-07a-critical-thinking/epistemic-vigilance.yaml",
+      "expected_seed_filename": "epistemic-vigilance-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Bloom's Taxonomy",
+      "kebab": "blooms-taxonomy",
+      "brief_path": "briefs/batch-07a-critical-thinking/blooms-taxonomy.yaml",
+      "expected_seed_filename": "blooms-taxonomy-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Paul-Elder Framework",
+      "kebab": "paul-elder-framework",
+      "brief_path": "briefs/batch-07a-critical-thinking/paul-elder-framework.yaml",
+      "expected_seed_filename": "paul-elder-framework-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Paul-Elder Critical Thinking Framework",
+      "kebab": "paul-elder-critical-thinking-framework",
+      "brief_path": "briefs/batch-07a-critical-thinking/paul-elder-critical-thinking-framework.yaml",
+      "expected_seed_filename": "paul-elder-critical-thinking-framework-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "2x2 Framework",
+      "kebab": "2x2-framework",
+      "brief_path": "briefs/batch-07a-critical-thinking/2x2-framework.yaml",
+      "expected_seed_filename": "2x2-framework-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Argument Analysis",
+      "kebab": "argument-analysis",
+      "brief_path": "briefs/batch-07a-critical-thinking/argument-analysis.yaml",
+      "expected_seed_filename": "argument-analysis-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Socratic Method",
+      "kebab": "socratic-method",
+      "brief_path": "briefs/batch-07a-critical-thinking/socratic-method.yaml",
+      "expected_seed_filename": "socratic-method-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Delphi Report",
+      "kebab": "delphi-report",
+      "brief_path": "briefs/batch-07a-critical-thinking/delphi-report.yaml",
+      "expected_seed_filename": "delphi-report-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

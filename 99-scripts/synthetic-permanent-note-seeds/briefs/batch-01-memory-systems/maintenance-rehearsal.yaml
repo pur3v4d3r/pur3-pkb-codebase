@@ -1,0 +1,40 @@
+concept: Maintenance Rehearsal
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- working-memory
+aliases:
+- rote rehearsal
+- shallow rehearsal
+broader:
+- rehearsal
+related:
+- elaborative-rehearsal
+- phonological-loop
+- levels-of-processing
+- short-term-memory
+prerequisites:
+- working-memory
+- short-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Maintenance Rehearsal
+  body: Maintenance Rehearsal is the surface-level repetition of material — typically
+    subvocal articulation in the [[phonological-loop]] — that holds information active
+    in [[short-term-memory]] without engaging in deeper semantic processing, and is
+    the strategy children spontaneously deploy long before they discover elaborative
+    alternatives.
+- type: key-claim
+  title: Key claim about Maintenance Rehearsal
+  body: Maintenance Rehearsal stabilises items in working memory but produces only
+    weak long-term retention relative to time-equated [[elaborative-rehearsal]], which
+    establishes that long-term storage benefits depend on *what* is done with information
+    during rehearsal, not on the duration of attention itself.
+- type: warning
+  title: Common pitfall regarding Maintenance Rehearsal
+  body: Maintenance Rehearsal is the default study strategy of struggling students
+    ("re-reading the highlights"), and its short-term feeling of fluency creates an
+    [[fluency-illusion]] that the material is mastered; the gap between this subjective
+    fluency and actual delayed recall is one of the most consistent findings in metacognitive
+    research.

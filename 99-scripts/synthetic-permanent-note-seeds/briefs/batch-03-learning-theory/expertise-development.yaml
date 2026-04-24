@@ -1,0 +1,40 @@
+concept: Expertise Development
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- deliberate-practice
+aliases:
+- expertise acquisition
+broader:
+- learning-processes
+related:
+- deliberate-practice
+- ten-year-rule
+- cognitive-chunking
+- automaticity
+- schema-theory-and-learning
+prerequisites:
+- learning-processes
+confidence: high
+callouts:
+- type: definition
+  title: Expertise Development
+  body: Expertise Development is the multi-year trajectory by which novices become
+    experts in a domain through accumulated deliberate practice, characterised by
+    progressively richer schemas, recognition-based pattern matching, automated subroutines,
+    freed-up working-memory capacity, and qualitatively different problem representations.
+- type: key-claim
+  title: Key claim about Expertise Development
+  body: Expertise Development requires deliberate practice — focused work on tasks
+    at the edge of current competence with immediate feedback and explicit revision
+    — rather than mere accumulated experience; experienced practitioners who have
+    stopped engaging in deliberate practice plateau at intermediate levels regardless
+    of years served.
+- type: warning
+  title: Common pitfall regarding Expertise Development
+  body: 'Expertise Development''s "10,000-hour rule" is widely cited but empirically
+    overstated: the original Ericsson research showed deliberate practice as a *necessary*
+    contributor, not a sufficient one, and the proportion of variance explained varies
+    enormously by domain (high for chess and music, lower for sports, lowest for professions);
+    citing the round number without these qualifications misrepresents the underlying
+    science.'

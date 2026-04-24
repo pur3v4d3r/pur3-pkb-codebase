@@ -1,0 +1,41 @@
+concept: Philosophy of Science
+domain: philosophy-of-science
+secondary_domains:
+- philosophy
+- methodology
+aliases:
+- phil sci
+- philosophy of the sciences
+broader:
+- philosophy
+related:
+- scientific-reasoning
+- scientific-realism
+- underdetermination
+- demarcation-problem
+- paradigm
+confidence: high
+callouts:
+- type: definition
+  title: Philosophy of Science
+  body: The Philosophy of Science is the philosophical subfield investigating the
+    nature, structure, and warrant of scientific knowledge — encompassing questions
+    about scientific method, theory confirmation and falsification, scientific explanation,
+    the demarcation of science from non-science, scientific realism vs. anti-realism,
+    and the social structure of scientific communities.
+- type: key-claim
+  title: Key claim about Philosophy of Science
+  body: The Philosophy of Science has substantially shifted across the 20th century
+    from logical-empiricist and Popperian models that idealised science as cumulative
+    testing, through Kuhnian and post-Kuhnian models that emphasised paradigms and
+    incommensurability, to contemporary integrated approaches drawing on history,
+    sociology, and cognitive science of science — with the consequence that no single
+    picture of "the scientific method" is endorsed by current scholarship.
+- type: warning
+  title: Common pitfall regarding Philosophy of Science
+  body: 'The Philosophy of Science is often invoked rhetorically by scientists and
+    science communicators to defend or attack specific claims, but the field''s own
+    conclusions are subtler than the slogans imported from it: "science is falsifiable"
+    (Popper), "paradigm shifts" (Kuhn), "what doesn''t kill it makes it stronger"
+    (Lakatos) are caricatures of more careful positions, and consumers of philosophy-of-science
+    arguments should consult primary sources rather than the popular adaptations.'

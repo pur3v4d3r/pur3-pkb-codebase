@@ -1,0 +1,41 @@
+concept: Hetogogy
+domain: education
+secondary_domains:
+- learning-science
+- adult-learning
+aliases:
+- heutagogy
+- self-determined learning
+broader:
+- adult-learning
+related:
+- pedagogy
+- andragogy
+- self-directed-learning
+- hase-and-kenyon
+confidence: high
+callouts:
+- type: definition
+  title: Hetogogy
+  body: Hetogogy (heutagogy), proposed by Hase and Kenyon (2000), is the theory of
+    self-determined learning in which the learner takes responsibility not only for
+    the *path* of learning (as in self-directed learning) but for *what is learned*
+    — choosing the goals, the content, the methods, and the criteria of success —
+    and is positioned as the developmental successor to pedagogy and andragogy along
+    an autonomy continuum.
+- type: key-claim
+  title: Key claim about Hetogogy
+  body: Hetogogy describes the learning posture appropriate to mature, self-aware
+    learners operating in domains of high uncertainty where the instructor cannot
+    prescribe what should be learned because the relevant knowledge is emergent or
+    context-specific; this includes much of contemporary professional development,
+    advanced research training, and self-led PKM-supported study, which is why Hetogogy
+    has gained traction as adult-learning contexts have shifted.
+- type: warning
+  title: Common pitfall regarding Hetogogy
+  body: Hetogogy presupposes substantial *capability for* self-determined learning
+    — metacognitive skill, domain awareness sufficient to identify gaps, motivational
+    regulation, evaluative discipline — and learners pushed into Hetogogy without
+    these capacities reliably under-perform learners under more directive pedagogy;
+    Hetogogy is a developmental endpoint, not a starting condition, and treating it
+    as universally applicable harms the learners least equipped for it.

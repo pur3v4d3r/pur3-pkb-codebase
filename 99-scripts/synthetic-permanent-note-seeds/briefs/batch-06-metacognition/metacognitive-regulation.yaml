@@ -1,0 +1,39 @@
+concept: Metacognitive Regulation
+domain: metacognition-research
+secondary_domains:
+- self-regulation
+- learning-science
+aliases:
+- regulation of cognition
+broader:
+- metacognition
+related:
+- metacognitive-knowledge
+- metacognitive-self-regulation
+- planning-monitoring-evaluating
+- metacognitive-calibration
+prerequisites:
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Metacognitive Regulation
+  body: Metacognitive Regulation, in Schraw and Moshman's framework, is one of the
+    two components of metacognition (alongside metacognitive knowledge) and consists
+    of the active processes of *planning* (selecting strategies, allocating resources),
+    *monitoring* (tracking comprehension and progress), and *evaluating* (judging
+    the products and processes of learning).
+- type: key-claim
+  title: Key claim about Metacognitive Regulation
+  body: Metacognitive Regulation is more responsive to instruction than metacognitive
+    knowledge — learners can be taught planning, monitoring, and evaluation routines
+    through structured practice and explicit prompting — making it a higher-leverage
+    instructional target than waiting for declarative metacognitive knowledge to translate
+    spontaneously into regulated behaviour.
+- type: warning
+  title: Common pitfall regarding Metacognitive Regulation
+  body: 'Metacognitive Regulation can become routinised in ways that defeat its purpose:
+    a learner who mechanically completes a planning template, a monitoring checklist,
+    and an evaluation rubric without actually engaging with the questions has performed
+    Metacognitive Regulation in form but not in substance, and the resulting practice
+    can produce documentation without insight.'

@@ -1,0 +1,39 @@
+concept: Reconstructive Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- social-cognition
+aliases:
+- reconstructive recall
+- schema-driven recall
+broader:
+- episodic-memory
+- long-term-memory
+related:
+- schema-theory
+- confirmation-bias
+- motivated-reasoning
+prerequisites:
+- episodic-memory
+- schema-theory
+confidence: high
+callouts:
+- type: definition
+  title: Reconstructive Memory
+  body: Reconstructive Memory is the principle, traceable to Bartlett's *Remembering*
+    (1932), that recall is not a literal readout of stored content but an active reconstruction
+    guided by current schemas, expectations, and goals — producing outputs that feel
+    like veridical memories yet incorporate inferences, interpolations, and outright
+    distortions.
+- type: key-claim
+  title: Key claim about Reconstructive Memory
+  body: 'Reconstructive Memory predicts that confidence and accuracy are weakly coupled:
+    a learner can be vividly certain of a recalled event whose details have been silently
+    rewritten by the schemas active at retrieval, which undermines self-report as
+    a reliable assessment of acquired knowledge.'
+- type: warning
+  title: Common pitfall regarding Reconstructive Memory
+  body: Reconstructive Memory does not license the conclusion that "memory is unreliable,
+    period"; the same reconstructive mechanism that introduces distortion also enables
+    productive inference, gist extraction, and transfer, and pedagogy should exploit
+    the constructive side rather than treat reconstruction as a defect to be eliminated.

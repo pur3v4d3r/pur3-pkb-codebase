@@ -1,0 +1,38 @@
+concept: Abductive Logic
+domain: logic
+secondary_domains:
+- philosophy-of-science
+- ai
+aliases:
+- logic of abduction
+broader:
+- logic
+related:
+- abductive-reasoning
+- explanatory-coherence
+- inference-to-the-best-explanation
+- diagnostic-reasoning
+confidence: medium
+callouts:
+- type: definition
+  title: Abductive Logic
+  body: Abductive Logic is the formal and computational study of inference to the
+    best explanation — including logical-AI frameworks for abductive computation,
+    explanation-based learning, diagnostic reasoning systems, and philosophical analyses
+    of explanatory virtues — and provides the technical machinery for the Abductive
+    Reasoning patterns that pervade scientific and diagnostic practice.
+- type: key-claim
+  title: Key claim about Abductive Logic
+  body: 'Abductive Logic faces a foundational challenge that Deductive and Inductive
+    Logic do not: the criterion of "best" explanation is comparative across a candidate
+    set and depends on explanatory virtues (simplicity, coherence, scope, fertility)
+    that are themselves contested; current Abductive Logic frameworks make these virtues
+    explicit and tractable but cannot fully resolve the underlying philosophical debates
+    about what makes an explanation good.'
+- type: warning
+  title: Common pitfall regarding Abductive Logic
+  body: Abductive Logic is sometimes presented in AI literature as a settled formal
+    framework, but the underlying question of what makes one explanation "better"
+    than another remains open, and abductive systems whose explanatory metric is not
+    justified can produce confident outputs that rest on contestable assumptions about
+    what explanation means in the relevant domain.

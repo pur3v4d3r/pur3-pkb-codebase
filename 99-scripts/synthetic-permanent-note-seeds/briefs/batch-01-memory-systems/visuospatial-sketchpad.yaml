@@ -1,0 +1,39 @@
+concept: Visuospatial Sketchpad
+domain: cognitive-science
+secondary_domains:
+- working-memory
+- spatial-cognition
+aliases:
+- visuospatial scratchpad
+- visuo-spatial sketchpad
+broader:
+- working-memory
+related:
+- phonological-loop
+- central-executive
+- episodic-buffer
+- mental-imagery
+prerequisites:
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Visuospatial Sketchpad
+  body: The Visuospatial Sketchpad is the slave system in Baddeley's model that maintains
+    and manipulates visual and spatial information — object identity, location, and
+    movement — supporting tasks such as mental rotation, navigation, and visual imagery,
+    and is functionally separable from the verbal [[phonological-loop]].
+- type: key-claim
+  title: Key claim about Visuospatial Sketchpad
+  body: 'The Visuospatial Sketchpad''s separation from the Phonological Loop is supported
+    by selective interference: a concurrent visuospatial task (pattern-tapping, mental
+    rotation) impairs visuospatial recall while leaving verbal recall intact, and
+    the converse holds for articulatory suppression — establishing modality-specific
+    resources rather than a single workspace.'
+- type: warning
+  title: Common pitfall regarding Visuospatial Sketchpad
+  body: The Visuospatial Sketchpad is often treated as a unitary store, but more recent
+    work splits it into dissociable visual ("what") and spatial ("where") components;
+    pedagogical claims about "visual learners" routinely conflate these subsystems
+    and ignore that visual presentation does not automatically engage the appropriate
+    component for the task at hand.

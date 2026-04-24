@@ -1,0 +1,156 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "batch-03-learning-theory",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-batch-03-learning-theory.md",
+    "notes": "Batch 3 of 8. Focus: educational psychology, learning theories,\nlearning processes and strategies, knowledge transfer and expertise,\nschema theory in learning, inquiry-based and discovery learning,\nmeaningful learning, conceptual change, assessment design."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/batch-03-learning-theory",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-batch-03-learning-theory"
+  },
+  "counts": {
+    "parsed": 22,
+    "accepted": 22,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Educational Psychology",
+      "kebab": "educational-psychology",
+      "brief_path": "briefs/batch-03-learning-theory/educational-psychology.yaml",
+      "expected_seed_filename": "educational-psychology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Educational Development",
+      "kebab": "educational-development",
+      "brief_path": "briefs/batch-03-learning-theory/educational-development.yaml",
+      "expected_seed_filename": "educational-development-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Educational Technology",
+      "kebab": "educational-technology",
+      "brief_path": "briefs/batch-03-learning-theory/educational-technology.yaml",
+      "expected_seed_filename": "educational-technology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Psychology of Learning",
+      "kebab": "psychology-of-learning",
+      "brief_path": "briefs/batch-03-learning-theory/psychology-of-learning.yaml",
+      "expected_seed_filename": "psychology-of-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Principles of Learning",
+      "kebab": "principles-of-learning",
+      "brief_path": "briefs/batch-03-learning-theory/principles-of-learning.yaml",
+      "expected_seed_filename": "principles-of-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Learning Theories",
+      "kebab": "learning-theories",
+      "brief_path": "briefs/batch-03-learning-theory/learning-theories.yaml",
+      "expected_seed_filename": "learning-theories-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Learning Science",
+      "kebab": "learning-science",
+      "brief_path": "briefs/batch-03-learning-theory/learning-science.yaml",
+      "expected_seed_filename": "learning-science-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Learning Strategies",
+      "kebab": "learning-strategies",
+      "brief_path": "briefs/batch-03-learning-theory/learning-strategies.yaml",
+      "expected_seed_filename": "learning-strategies-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Learning Processes",
+      "kebab": "learning-processes",
+      "brief_path": "briefs/batch-03-learning-theory/learning-processes.yaml",
+      "expected_seed_filename": "learning-processes-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cognitive Theories of Learning",
+      "kebab": "cognitive-theories-of-learning",
+      "brief_path": "briefs/batch-03-learning-theory/cognitive-theories-of-learning.yaml",
+      "expected_seed_filename": "cognitive-theories-of-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Generative Learning Theory",
+      "kebab": "generative-learning-theory",
+      "brief_path": "briefs/batch-03-learning-theory/generative-learning-theory.yaml",
+      "expected_seed_filename": "generative-learning-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Situated Learning Theory",
+      "kebab": "situated-learning-theory",
+      "brief_path": "briefs/batch-03-learning-theory/situated-learning-theory.yaml",
+      "expected_seed_filename": "situated-learning-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Meaningful Learning Theory",
+      "kebab": "meaningful-learning-theory",
+      "brief_path": "briefs/batch-03-learning-theory/meaningful-learning-theory.yaml",
+      "expected_seed_filename": "meaningful-learning-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Discovery Learning",
+      "kebab": "discovery-learning",
+      "brief_path": "briefs/batch-03-learning-theory/discovery-learning.yaml",
+      "expected_seed_filename": "discovery-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Inquiry-Based Learning",
+      "kebab": "inquiry-based-learning",
+      "brief_path": "briefs/batch-03-learning-theory/inquiry-based-learning.yaml",
+      "expected_seed_filename": "inquiry-based-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Conceptual Change",
+      "kebab": "conceptual-change",
+      "brief_path": "briefs/batch-03-learning-theory/conceptual-change.yaml",
+      "expected_seed_filename": "conceptual-change-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Schema Theory and Learning",
+      "kebab": "schema-theory-and-learning",
+      "brief_path": "briefs/batch-03-learning-theory/schema-theory-and-learning.yaml",
+      "expected_seed_filename": "schema-theory-and-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Expertise Development",
+      "kebab": "expertise-development",
+      "brief_path": "briefs/batch-03-learning-theory/expertise-development.yaml",
+      "expected_seed_filename": "expertise-development-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Knowledge Transfer",
+      "kebab": "knowledge-transfer",
+      "brief_path": "briefs/batch-03-learning-theory/knowledge-transfer.yaml",
+      "expected_seed_filename": "knowledge-transfer-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Far Transfer",
+      "kebab": "far-transfer",
+      "brief_path": "briefs/batch-03-learning-theory/far-transfer.yaml",
+      "expected_seed_filename": "far-transfer-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Tacit Knowledge",
+      "kebab": "tacit-knowledge",
+      "brief_path": "briefs/batch-03-learning-theory/tacit-knowledge.yaml",
+      "expected_seed_filename": "tacit-knowledge-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Assessment Design",
+      "kebab": "assessment-design",
+      "brief_path": "briefs/batch-03-learning-theory/assessment-design.yaml",
+      "expected_seed_filename": "assessment-design-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

@@ -1,0 +1,39 @@
+concept: Relationship Motivation Theory
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- relationship-research
+aliases:
+- RMT
+broader:
+- self-determination-theory
+related:
+- relatedness-need
+- attachment-theory
+- interdependence
+- autonomy-in-relationships
+prerequisites:
+- self-determination-theory
+confidence: medium
+callouts:
+- type: definition
+  title: Relationship Motivation Theory
+  body: Relationship Motivation Theory is the SDT subtheory addressing how the basic
+    psychological needs operate within close relationships — friendships, romantic
+    partnerships, parent-child relationships — and explains why high-quality relationships
+    are characterised by mutual need support and why need thwarting in relationships
+    predicts distress and dissolution.
+- type: key-claim
+  title: Key claim about Relationship Motivation Theory
+  body: Relationship Motivation Theory predicts that the *highest-quality* relationships
+    are not those in which partners are merely warm but those in which partners actively
+    support each other's autonomy as well as relatedness; relationships that maximise
+    relatedness at the cost of autonomy (enmeshment, controlling closeness) are predicted
+    to be less satisfying and less stable than those that integrate the two.
+- type: warning
+  title: Common pitfall regarding Relationship Motivation Theory
+  body: Relationship Motivation Theory is sometimes critiqued as importing individualistic
+    Western values about autonomy into relationship analysis; SDT responds that the
+    autonomy at issue is *self-endorsement* (compatible with deeply interdependent
+    relationships) rather than *independence*, but consumers of Relationship Motivation
+    Theory should attend to this distinction to avoid misapplying the framework cross-culturally.

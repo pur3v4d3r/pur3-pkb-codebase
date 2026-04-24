@@ -1,0 +1,38 @@
+concept: Availability Heuristic
+domain: judgement-and-decision-making
+secondary_domains:
+- cognitive-psychology
+- behavioural-economics
+aliases:
+- availability bias
+broader:
+- heuristics-and-biases
+- cognitive-bias
+related:
+- representativeness-heuristic
+- anchoring-heuristic
+- tversky-and-kahneman
+- ease-of-recall
+confidence: high
+callouts:
+- type: definition
+  title: Availability Heuristic
+  body: The Availability Heuristic, identified by Tversky and Kahneman (1973), is
+    the cognitive shortcut in which probability or frequency judgements are based
+    on how easily relevant instances come to mind — leading to systematic over-estimation
+    of vivid, recent, or emotionally charged events (plane crashes, shark attacks,
+    terrorism deaths) and under-estimation of routine, statistical events.
+- type: key-claim
+  title: Key claim about Availability Heuristic
+  body: 'The Availability Heuristic explains a wide range of risk-perception errors:
+    news-driven attention to dramatic but rare hazards crowds out attention to mundane
+    but high-frequency hazards, and the resulting risk priorities (security spending
+    vs. road-safety spending, for example) systematically misallocate resources relative
+    to underlying base rates.'
+- type: warning
+  title: Common pitfall regarding Availability Heuristic
+  body: 'The Availability Heuristic is harder to debias than people typically expect:
+    knowing about it does not eliminate it, and even decision-makers who are explicitly
+    trained in base-rate reasoning continue to display the bias when judgements are
+    made under time pressure — which means structural correctives (decision aids that
+    surface base rates) typically outperform purely educational ones.'

@@ -1,0 +1,41 @@
+concept: Personal Knowledge Base
+domain: personal-knowledge-management
+secondary_domains:
+- knowledge-management
+- note-taking
+aliases:
+- PKB
+- personal knowledge management system
+broader:
+- knowledge-management
+related:
+- obsidian
+- zettelkasten
+- second-brain
+- evergreen-notes
+- building-a-second-brain
+confidence: high
+callouts:
+- type: definition
+  title: Personal Knowledge Base
+  body: A Personal Knowledge Base is an individually-owned, long-horizon repository
+    of one's working knowledge — capturing ideas, source material, syntheses, and
+    project-specific notes in an interlinked structure — and is the working medium
+    of Personal Knowledge Management (PKM) practice as developed in the Zettelkasten,
+    Building-a-Second-Brain, and evergreen-notes traditions.
+- type: key-claim
+  title: Key claim about Personal Knowledge Base
+  body: 'A Personal Knowledge Base differs from a notebook or document folder in being
+    *interlinked, evolving, and reusable*: the same atomic concepts feed multiple
+    projects, syntheses written for one purpose seed others years later, and the cumulative
+    network produces leverage that linear file-and-folder organisation does not, which
+    is why long-horizon scholars and writers increasingly treat PKB construction as
+    a primary professional investment.'
+- type: warning
+  title: Common pitfall regarding Personal Knowledge Base
+  body: A Personal Knowledge Base requires sustained investment in writing discipline,
+    link maintenance, and periodic restructuring; PKB construction has a long-tail
+    payoff curve in which the early months produce mostly costs (capture, formatting,
+    linking) and the later years produce most of the benefits (reuse, synthesis, unexpected
+    connections), and practitioners who abandon a PKB during the cost phase rarely
+    realise its value.

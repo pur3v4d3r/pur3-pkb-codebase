@@ -1,0 +1,39 @@
+concept: Information Processing Theory
+domain: cognitive-science
+secondary_domains:
+- psychology
+- learning-science
+aliases:
+- IP theory
+- information-processing model
+broader:
+- cognitive-psychology
+related:
+- multi-store-model
+- working-memory
+- cognitive-load-theory
+- cognitive-architecture
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Information Processing Theory
+  body: Information Processing Theory models human cognition as a sequence of operations
+    on internal representations — encoding, storage, transformation, retrieval, response
+    — analogous to computation, and provides the framework within which capacity limits,
+    processing stages, and serial-versus-parallel debates have been formulated.
+- type: key-claim
+  title: Key claim about Information Processing Theory
+  body: Information Processing Theory's central contribution to education is the explicit
+    identification of *bottlenecks* (sensory register capacity, working-memory span,
+    attentional selection) whose location dictates where instructional design must
+    intervene; [[cognitive-load-theory]] is the most influential pedagogical descendant
+    of this commitment.
+- type: warning
+  title: Common pitfall regarding Information Processing Theory
+  body: Information Processing Theory has been criticised for treating cognition as
+    disembodied, sequential, and context-free; its predictions hold best for tasks
+    that resemble its original test cases (digit span, paired-associate learning)
+    and weaken substantially for ecologically rich, temporally extended, socially
+    distributed activities — exactly the tasks education most needs to support.

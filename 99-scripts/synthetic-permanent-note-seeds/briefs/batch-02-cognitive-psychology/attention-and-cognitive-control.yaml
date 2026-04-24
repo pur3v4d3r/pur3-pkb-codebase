@@ -1,0 +1,40 @@
+concept: Attention and Cognitive Control
+domain: cognitive-science
+secondary_domains:
+- neuroscience
+- learning-science
+aliases:
+- attentional control
+broader:
+- cognitive-control
+- executive-function
+related:
+- selective-attention
+- attention-and-selective-processing
+- working-memory-capacity
+- interference-resolution
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Attention and Cognitive Control
+  body: Attention and Cognitive Control refers to the set of mechanisms by which limited
+    processing resources are deliberately allocated to task-relevant information and
+    protected from interference — encompassing selection, sustained vigilance, switching,
+    and conflict resolution — and is operationalised by paradigms such as Stroop,
+    flanker, and antisaccade tasks.
+- type: key-claim
+  title: Key claim about Attention and Cognitive Control
+  body: 'Attention and Cognitive Control is the proximate determinant of how much
+    of a learning episode actually reaches durable encoding: a learner whose attention
+    is captured by irrelevant stimuli or whose control fails to sustain focus encodes
+    a fragmented trace regardless of how good the materials are, which is why classroom
+    and digital-environment design materially shape outcomes.'
+- type: warning
+  title: Common pitfall regarding Attention and Cognitive Control
+  body: Attention and Cognitive Control is often invoked to blame individual learners
+    for distraction, but the controlling environment is at least as causal; phone
+    notifications, multitasking norms, and visually busy interfaces routinely defeat
+    even high-control individuals, and policy interventions (notification suppression,
+    single-window study, blocked time) typically outperform attempts to "train willpower."

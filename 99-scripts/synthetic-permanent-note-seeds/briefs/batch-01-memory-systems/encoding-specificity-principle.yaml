@@ -1,0 +1,41 @@
+concept: Encoding Specificity Principle
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- learning-science
+aliases:
+- encoding specificity
+- transfer-appropriate processing
+broader:
+- retrieval-practice
+- long-term-memory
+related:
+- episodic-memory
+- context-dependent-memory
+- state-dependent-memory
+prerequisites:
+- long-term-memory
+- episodic-memory
+confidence: high
+callouts:
+- type: definition
+  title: Encoding Specificity Principle
+  body: The Encoding Specificity Principle, articulated by Tulving and Thomson (1973),
+    holds that retrieval is most effective when the cues present at retrieval overlap
+    with the features encoded at the time of learning, making the *match* between
+    encoding and retrieval contexts — not the absolute strength of the trace — the
+    proximate determinant of recall.
+- type: key-claim
+  title: Key claim about Encoding Specificity Principle
+  body: 'The Encoding Specificity Principle reframes "knowing something" as relational
+    rather than absolute: a learner who reliably retrieves a fact in the classroom
+    may fail to retrieve it in a clinical or workplace setting whose cues do not overlap
+    with those of original encoding, which makes [[far-transfer]] hard precisely because
+    it asks for retrieval under maximally different cue conditions.'
+- type: warning
+  title: Common pitfall regarding Encoding Specificity Principle
+  body: 'The Encoding Specificity Principle is sometimes read as endorsing study-context
+    restriction ("study where you''ll be tested"), but the more robust pedagogical
+    inference is the opposite: deliberately *vary* encoding contexts so that the trace
+    is bound to multiple cue sets and becomes retrievable from a wider range of future
+    situations.'

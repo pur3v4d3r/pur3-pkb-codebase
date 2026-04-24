@@ -1,0 +1,44 @@
+concept: Constructivism
+domain: learning-science
+secondary_domains:
+- philosophy
+- education
+aliases:
+- constructivist learning theory
+broader:
+- learning-theories
+narrower:
+- radical-constructivism
+- social-constructivism
+- cognitive-constructivism
+related:
+- genetic-epistemology
+- situated-learning-theory
+- vygotsky
+- discovery-learning
+prerequisites:
+- learning-theories
+confidence: high
+callouts:
+- type: definition
+  title: Constructivism
+  body: Constructivism is the family of learning theories holding that learners actively
+    construct knowledge through engagement with experience rather than receiving it
+    from an external source — encompassing cognitive constructivism (Piaget), social
+    constructivism (Vygotsky), and radical constructivism (von Glasersfeld) — and
+    standing in deliberate contrast to transmissionist accounts of teaching.
+- type: key-claim
+  title: Key claim about Constructivism
+  body: 'Constructivism''s central pedagogical implication is that the learner''s
+    existing structure mediates all learning: the same input produces different acquisition
+    depending on what the learner brings, so instruction must engage with learner
+    construction rather than treating learners as passive recipients — a commitment
+    that informs everything from formative assessment to inquiry pedagogy.'
+- type: warning
+  title: Common pitfall regarding Constructivism
+  body: Constructivism is widely conflated with "discovery learning" or "minimal guidance,"
+    but the underlying epistemological commitment (learners construct) does not entail
+    any particular instructional method; high-guidance, explicit instruction is fully
+    compatible with Constructivism, and the Kirschner-Sweller-Clark critique of "constructivist
+    teaching" is best read as a critique of unguided discovery, not of Constructivism
+    per se.

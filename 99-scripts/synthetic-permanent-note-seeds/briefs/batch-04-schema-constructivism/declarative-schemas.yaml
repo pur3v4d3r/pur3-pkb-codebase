@@ -1,0 +1,40 @@
+concept: Declarative Schemas
+domain: cognitive-science
+secondary_domains:
+- learning-science
+- knowledge-representation
+aliases:
+- declarative knowledge schemas
+broader:
+- schema-theory
+- knowledge-schemas
+related:
+- procedural-schemas
+- declarative-memory
+- semantic-memory
+- concept-formation
+prerequisites:
+- schema-theory
+confidence: high
+callouts:
+- type: definition
+  title: Declarative Schemas
+  body: Declarative Schemas are organised structures of factual and conceptual knowledge
+    — categories, hierarchies, propositional networks, conceptual frames — that represent
+    *what* a learner knows about a domain and support recognition, classification,
+    and verbal description, in contrast to procedural schemas that represent *how
+    to do* things.
+- type: key-claim
+  title: Key claim about Declarative Schemas
+  body: Declarative Schemas are the first knowledge structures novices typically build,
+    often through explicit instruction, and provide the conceptual anchors onto which
+    procedural schemas later attach; pedagogy that demands procedural performance
+    before adequate Declarative Schemas exist produces brittle skill that fails when
+    the learner needs to reason about edge cases.
+- type: warning
+  title: Common pitfall regarding Declarative Schemas
+  body: Declarative Schemas can be elaborate and verbalisable yet *inert* — present
+    in semantic memory but not retrieved when relevant — which is the well-documented
+    phenomenon of inert knowledge; making Declarative Schemas usable requires conditionalising
+    them on retrieval cues from authentic problem contexts, not merely strengthening
+    the declarative trace itself.

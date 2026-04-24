@@ -1,0 +1,40 @@
+concept: Double Loop Learning
+domain: organisational-learning
+secondary_domains:
+- systems-thinking
+- management
+aliases:
+- double-loop learning
+- governing-variable revision
+broader:
+- organisational-learning
+related:
+- reflective-thinking
+- argyris-and-schon
+- single-loop-learning
+- mental-models
+confidence: high
+callouts:
+- type: definition
+  title: Double Loop Learning
+  body: Double Loop Learning, formulated by Chris Argyris and Donald Schön (1974,
+    1978), is the form of learning in which not only the *strategies* used to achieve
+    goals but also the *governing variables* (goals, assumptions, framings) themselves
+    are examined and revised — distinguished from *single-loop learning* in which
+    strategies are corrected within unexamined goal frames.
+- type: key-claim
+  title: Key claim about Double Loop Learning
+  body: 'Double Loop Learning is the learning capacity that distinguishes adaptive
+    from merely efficient organisations: single-loop learning improves execution within
+    an existing model but cannot detect or correct a model that has become inappropriate
+    to the environment, while Double Loop Learning is what allows the model itself
+    to evolve — making Double Loop Learning the core competency for organisations
+    operating in non-stationary domains.'
+- type: warning
+  title: Common pitfall regarding Double Loop Learning
+  body: Double Loop Learning is hard to enact even when individuals are capable of
+    it, because it threatens existing power structures, identity commitments, and
+    sunk-cost investments in current models; Argyris's later work extensively documented
+    "defensive routines" that systematically suppress Double Loop Learning at the
+    organisational level, which is why Double Loop Learning capacity does not naturally
+    propagate from individuals to institutions without explicit structural support.

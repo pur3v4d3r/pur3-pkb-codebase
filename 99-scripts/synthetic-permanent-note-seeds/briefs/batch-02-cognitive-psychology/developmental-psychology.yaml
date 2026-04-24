@@ -1,0 +1,36 @@
+concept: Developmental Psychology
+domain: psychology
+secondary_domains:
+- education
+- neuroscience
+aliases:
+- developmental science
+broader:
+- psychology
+related:
+- genetic-epistemology
+- lifespan-development
+- piaget
+- vygotsky
+confidence: high
+callouts:
+- type: definition
+  title: Developmental Psychology
+  body: Developmental Psychology is the scientific study of systematic change in cognition,
+    emotion, and behaviour across the life span — from prenatal development through
+    old age — combining longitudinal, cross-sectional, microgenetic, and increasingly
+    neural methods to explain *how* and *why* psychological capacities change.
+- type: key-claim
+  title: Key claim about Developmental Psychology
+  body: 'Developmental Psychology''s central pedagogical contribution is the recognition
+    that learners are not undersized adults: cognitive capacities, motivational structures,
+    social cognition, and self-regulation undergo non-linear transformations that
+    determine which instructional approaches will work at which age, which is why
+    universal "best practices" routinely fail when applied across developmental windows.'
+- type: warning
+  title: Common pitfall regarding Developmental Psychology
+  body: Developmental Psychology has historically over-relied on age-graded stage
+    models (especially Piagetian) whose sequence and necessity have been substantially
+    qualified by later research; treating stage descriptions as rigid timetables rather
+    than as approximate trajectories causes pedagogy to underestimate younger learners
+    and overestimate older ones in domain-dependent ways.

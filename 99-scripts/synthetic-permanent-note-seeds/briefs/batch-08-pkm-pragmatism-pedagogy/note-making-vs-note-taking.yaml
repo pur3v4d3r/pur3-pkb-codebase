@@ -1,0 +1,39 @@
+concept: Note Making vs Note Taking
+domain: personal-knowledge-management
+secondary_domains:
+- study-skills
+- learning-science
+aliases:
+- note-making vs. note-taking distinction
+broader:
+- note-taking
+related:
+- active-note-making
+- zettelkasten
+- generative-processing
+- encoding
+confidence: high
+callouts:
+- type: definition
+  title: Note Making vs Note Taking
+  body: The Note Making vs Note Taking distinction, popularised in PKM discourse by
+    Sönke Ahrens and others, contrasts *note-taking* (transcription or summary of
+    source material, often verbatim, primarily for later retrieval) with *note-making*
+    (active reformulation of ideas in one's own words, reconnected to prior knowledge,
+    primarily for thinking) — and treats note-making as the cognitively productive
+    form.
+- type: key-claim
+  title: Key claim about Note Making vs Note Taking
+  body: 'The Note Making vs Note Taking distinction maps onto the empirically established
+    difference between shallow and generative encoding: notes that paraphrase, restructure,
+    and connect new material to existing knowledge produce the encoding strength and
+    retrieval cues that support durable learning, while notes that transcribe the
+    source verbatim produce weaker memory traces and rarely support later reuse.'
+- type: warning
+  title: Common pitfall regarding Note Making vs Note Taking
+  body: The Note Making vs Note Taking distinction is sometimes preached as an absolute
+    dichotomy in which note-taking is bad, but capturing source material accurately
+    is sometimes necessary (for citation, for fidelity to nuance, for source-checkable
+    extracts), and the productive use of the distinction is to distinguish *capture*
+    (which can be verbatim) from *processing* (which must be generative), with both
+    serving distinct functions.

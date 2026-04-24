@@ -1,0 +1,39 @@
+concept: Discovery Learning
+domain: learning-science
+secondary_domains:
+- education
+- instructional-design
+aliases:
+- pure discovery
+- unguided discovery
+broader:
+- learning-theories
+related:
+- inquiry-based-learning
+- guided-discovery
+- bruner
+- productive-failure
+prerequisites:
+- learning-theories
+confidence: high
+callouts:
+- type: definition
+  title: Discovery Learning
+  body: Discovery Learning is the instructional approach — championed by Bruner —
+    in which learners are presented with problems, materials, or phenomena and expected
+    to discover the underlying concepts, relations, or procedures themselves rather
+    than receiving them via direct instruction.
+- type: key-claim
+  title: Key claim about Discovery Learning
+  body: Discovery Learning in its pure unguided form has been repeatedly shown to
+    underperform direct instruction for novice learners (Mayer 2004; Kirschner, Sweller
+    & Clark 2006), because the cognitive resources consumed by search and dead-end
+    exploration leave inadequate capacity for the schema-construction the discovery
+    is supposed to trigger.
+- type: warning
+  title: Common pitfall regarding Discovery Learning
+  body: Discovery Learning's empirical weakness applies specifically to *unguided*
+    discovery; *guided* discovery (with worked-example fading, scaffolded prompts,
+    structured feedback) consistently performs well, and the productive lesson is
+    not "abandon discovery" but "guide it" — the same critique that Mayer (2004) titled
+    "Should there be a three-strikes rule against pure discovery learning?"

@@ -1,0 +1,40 @@
+concept: Paul-Elder Critical Thinking Framework
+domain: critical-thinking
+secondary_domains:
+- education
+- philosophy
+aliases:
+- Paul-Elder critical thinking model
+broader:
+- paul-elder-framework
+- critical-thinking
+related:
+- paul-elder-framework
+- intellectual-standards
+- elements-of-reasoning
+prerequisites:
+- paul-elder-framework
+confidence: high
+callouts:
+- type: definition
+  title: Paul-Elder Critical Thinking Framework
+  body: The Paul-Elder Critical Thinking Framework is the canonical full name for
+    the Paul-Elder Framework when the focus is specifically its application to critical
+    thinking rather than to its component pieces — comprising the elements of thought,
+    the universal intellectual standards, and the intellectual virtues — and is the
+    version most cited in educational standards and assessment instruments.
+- type: key-claim
+  title: Key claim about Paul-Elder Critical Thinking Framework
+  body: 'The Paul-Elder Critical Thinking Framework operationalises critical thinking
+    as the *sustained application of intellectual standards to the elements of thought*:
+    a critical thinker takes any piece of reasoning, identifies its elements (what''s
+    the purpose? the question? the assumptions?), and evaluates each against the intellectual
+    standards (clear? accurate? relevant? deep?), making the framework concrete and
+    trainable.'
+- type: warning
+  title: Common pitfall regarding Paul-Elder Critical Thinking Framework
+  body: The Paul-Elder Critical Thinking Framework can be misapplied as a checklist
+    that learners run through mechanically, producing documentation of elements and
+    standards without genuine evaluative engagement; the framework is intended as
+    scaffolding for *internalised* critical disposition, and instruction that stops
+    at the checklist stage produces compliance rather than capacity.

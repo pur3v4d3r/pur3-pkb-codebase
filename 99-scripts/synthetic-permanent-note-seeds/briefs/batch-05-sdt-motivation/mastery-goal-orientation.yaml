@@ -1,0 +1,38 @@
+concept: Mastery Goal Orientation
+domain: motivation-research
+secondary_domains:
+- achievement-goal-theory
+- education
+aliases:
+- learning goal orientation
+- mastery orientation
+broader:
+- achievement-goal-theory
+related:
+- performance-goal-orientation
+- intrinsic-motivation
+- deep-learning
+- task-involvement
+confidence: high
+callouts:
+- type: definition
+  title: Mastery Goal Orientation
+  body: A Mastery Goal Orientation is the tendency to construe achievement situations
+    as opportunities to develop competence — focusing on learning, improvement, and
+    task mastery — rather than as opportunities to demonstrate competence relative
+    to others, and is associated with adaptive patterns of effort, persistence, and
+    deep processing.
+- type: key-claim
+  title: Key claim about Mastery Goal Orientation
+  body: A Mastery Goal Orientation predicts more adaptive responses to setback (effort
+    attribution, strategy revision) and more durable learning (deep processing, conceptual
+    integration) than performance orientations, particularly in challenging domains
+    where short-term performance comparisons can be discouraging.
+- type: warning
+  title: Common pitfall regarding Mastery Goal Orientation
+  body: A Mastery Goal Orientation is often promoted in education without recognising
+    that institutional structures (grading curves, comparative ranking, scholarship
+    competition) actively reward performance-orientation responses; exhorting Mastery
+    Goal Orientation in environments that systematically reinforce performance comparisons
+    is asking learners to swim against the institutional current with predictable
+    outcomes.

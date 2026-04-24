@@ -1,0 +1,126 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "batch-04-schema-constructivism",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-batch-04-schema-constructivism.md",
+    "notes": "Batch 4 of 8. Focus: schema variants (declarative, procedural, knowledge),\nprior knowledge and its activation, Piagetian constructivist machinery\n(assimilation, accommodation, disequilibrium, genetic epistemology),\ncommunities of practice, elaboration techniques, interleaving,\nand mindset-related theories of intelligence."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/batch-04-schema-constructivism",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-batch-04-schema-constructivism"
+  },
+  "counts": {
+    "parsed": 17,
+    "accepted": 17,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Declarative Schemas",
+      "kebab": "declarative-schemas",
+      "brief_path": "briefs/batch-04-schema-constructivism/declarative-schemas.yaml",
+      "expected_seed_filename": "declarative-schemas-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Procedural Schemas",
+      "kebab": "procedural-schemas",
+      "brief_path": "briefs/batch-04-schema-constructivism/procedural-schemas.yaml",
+      "expected_seed_filename": "procedural-schemas-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Knowledge Schemas",
+      "kebab": "knowledge-schemas",
+      "brief_path": "briefs/batch-04-schema-constructivism/knowledge-schemas.yaml",
+      "expected_seed_filename": "knowledge-schemas-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Prior Knowledge",
+      "kebab": "prior-knowledge",
+      "brief_path": "briefs/batch-04-schema-constructivism/prior-knowledge.yaml",
+      "expected_seed_filename": "prior-knowledge-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Prior Knowledge Activation",
+      "kebab": "prior-knowledge-activation",
+      "brief_path": "briefs/batch-04-schema-constructivism/prior-knowledge-activation.yaml",
+      "expected_seed_filename": "prior-knowledge-activation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Assimilation",
+      "kebab": "assimilation",
+      "brief_path": "briefs/batch-04-schema-constructivism/assimilation.yaml",
+      "expected_seed_filename": "assimilation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Accommodation",
+      "kebab": "accommodation",
+      "brief_path": "briefs/batch-04-schema-constructivism/accommodation.yaml",
+      "expected_seed_filename": "accommodation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cognitive Disequilibrium",
+      "kebab": "cognitive-disequilibrium",
+      "brief_path": "briefs/batch-04-schema-constructivism/cognitive-disequilibrium.yaml",
+      "expected_seed_filename": "cognitive-disequilibrium-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Genetic Epistemology",
+      "kebab": "genetic-epistemology",
+      "brief_path": "briefs/batch-04-schema-constructivism/genetic-epistemology.yaml",
+      "expected_seed_filename": "genetic-epistemology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Constructivism",
+      "kebab": "constructivism",
+      "brief_path": "briefs/batch-04-schema-constructivism/constructivism.yaml",
+      "expected_seed_filename": "constructivism-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Communities of Practice",
+      "kebab": "communities-of-practice",
+      "brief_path": "briefs/batch-04-schema-constructivism/communities-of-practice.yaml",
+      "expected_seed_filename": "communities-of-practice-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Elaboration",
+      "kebab": "elaboration",
+      "brief_path": "briefs/batch-04-schema-constructivism/elaboration.yaml",
+      "expected_seed_filename": "elaboration-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Elaboration Interrogation",
+      "kebab": "elaboration-interrogation",
+      "brief_path": "briefs/batch-04-schema-constructivism/elaboration-interrogation.yaml",
+      "expected_seed_filename": "elaboration-interrogation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Interleaving Effect",
+      "kebab": "interleaving-effect",
+      "brief_path": "briefs/batch-04-schema-constructivism/interleaving-effect.yaml",
+      "expected_seed_filename": "interleaving-effect-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Fixed Mindset",
+      "kebab": "fixed-mindset",
+      "brief_path": "briefs/batch-04-schema-constructivism/fixed-mindset.yaml",
+      "expected_seed_filename": "fixed-mindset-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Entity Theory of Intelligence",
+      "kebab": "entity-theory-of-intelligence",
+      "brief_path": "briefs/batch-04-schema-constructivism/entity-theory-of-intelligence.yaml",
+      "expected_seed_filename": "entity-theory-of-intelligence-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Incremental Theory of Intelligence",
+      "kebab": "incremental-theory-of-intelligence",
+      "brief_path": "briefs/batch-04-schema-constructivism/incremental-theory-of-intelligence.yaml",
+      "expected_seed_filename": "incremental-theory-of-intelligence-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

@@ -1,0 +1,41 @@
+concept: Critical Thinking
+domain: critical-thinking
+secondary_domains:
+- philosophy
+- education
+aliases:
+- CT
+broader:
+- reasoning
+narrower:
+- critical-reasoning
+- informal-logic
+- argument-analysis
+related:
+- critical-reasoning
+- intellectual-standards
+- paul-elder-framework
+- delphi-report
+confidence: high
+callouts:
+- type: definition
+  title: Critical Thinking
+  body: Critical Thinking is the disciplined process of actively conceptualising,
+    applying, analysing, synthesising, and evaluating information gathered from observation,
+    experience, reflection, reasoning, or communication as a guide to belief and action
+    — a definition that integrates the cognitive-skills tradition (Ennis, Facione)
+    with the dispositional tradition (Paul, Elder).
+- type: key-claim
+  title: Key claim about Critical Thinking
+  body: Critical Thinking, on the consensus Delphi-report definition, is best understood
+    as the integration of *cognitive skills* (analysis, evaluation, inference, interpretation,
+    explanation, self-regulation) and *dispositional habits of mind* (truth-seeking,
+    open-mindedness, intellectual humility, systematicity, analyticity); skills without
+    dispositions produce sophistry, dispositions without skills produce sincere confusion.
+- type: warning
+  title: Common pitfall regarding Critical Thinking
+  body: Critical Thinking is widely promoted as a transferable skill but the empirical
+    literature on transfer is sobering — much of what passes for Critical Thinking
+    instruction produces domain-specific gains that do not generalise to ostensibly
+    related domains, and pedagogy claiming broad-spectrum Critical Thinking outcomes
+    should be required to produce evidence at the transfer distances it advertises.

@@ -1,0 +1,38 @@
+concept: Memory Consolidation
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- neuroscience
+- sleep-research
+aliases:
+- consolidation
+broader:
+- long-term-memory
+related:
+- reconstructive-memory
+- spacing-effect
+- sleep-and-learning
+- hippocampus
+prerequisites:
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Memory Consolidation
+  body: Memory Consolidation is the time-dependent set of neural processes by which
+    a labile, hippocampally-supported trace becomes a stable, distributed cortical
+    representation, occurring across cellular timescales (minutes to hours) and systems
+    timescales (days to years), and depending heavily on offline replay during sleep.
+- type: key-claim
+  title: Key claim about Memory Consolidation
+  body: 'Memory Consolidation reframes "what was learned today" as inherently provisional:
+    the trace continues to be modified, integrated, and stabilised long after the
+    study session ends, which is why the timing of subsequent rest, sleep, and review
+    materially shapes what survives.'
+- type: warning
+  title: Common pitfall regarding Memory Consolidation
+  body: Memory Consolidation is sometimes invoked as a hand-wave that "sleep fixes
+    everything," but consolidation strengthens whatever is encoded — including misconceptions,
+    errors, and surface features — so the strategy "study heavily, then sleep" can
+    entrench wrong material as efficiently as right material if no error correction
+    happens before the consolidation window closes.

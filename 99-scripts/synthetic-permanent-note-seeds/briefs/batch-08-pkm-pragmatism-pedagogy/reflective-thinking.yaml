@@ -1,0 +1,40 @@
+concept: Reflective Thinking
+domain: critical-thinking
+secondary_domains:
+- philosophy-of-education
+- pragmatism
+aliases:
+- reflective inquiry
+- reflection
+broader:
+- critical-thinking
+related:
+- deweys-reflective-thinking
+- dewey
+- double-loop-learning
+- reflective-practice
+confidence: high
+callouts:
+- type: definition
+  title: Reflective Thinking
+  body: Reflective Thinking, as theorised by John Dewey in *How We Think* (1910/1933),
+    is the active, persistent, and careful consideration of any belief or supposed
+    form of knowledge in light of the grounds that support it and the further conclusions
+    to which it tends — distinguished from impulsive belief-formation and from routine
+    habitual cognition by its disciplined, evidence-engaging character.
+- type: key-claim
+  title: Key claim about Reflective Thinking
+  body: Reflective Thinking, in Dewey's analysis, proceeds through identifiable phases
+    — encountering a felt difficulty, locating and defining the problem, generating
+    possible explanations or solutions, developing those by reasoning, and testing
+    through observation or experiment — which provides a working model of inquiry
+    that anticipates much later work in problem-solving, scientific reasoning, and
+    reflective practice.
+- type: warning
+  title: Common pitfall regarding Reflective Thinking
+  body: Reflective Thinking is widely invoked in education and professional development
+    as a goal but is rarely operationalised with the rigour Dewey specified; "being
+    reflective" in practice often means writing personal-experience narratives without
+    the disciplined evidence-engaging structure Dewey described, and the resulting
+    reflective-practice literature has been criticised for confusing self-narration
+    with genuine Reflective Thinking.

@@ -1,0 +1,41 @@
+concept: Learning Theories
+domain: learning-science
+secondary_domains:
+- psychology
+- education
+aliases:
+- theories of learning
+broader:
+- learning-science
+narrower:
+- cognitive-theories-of-learning
+- constructivism
+- behaviourism
+- social-learning-theory
+related:
+- psychology-of-learning
+- learning-science
+- connectivism
+confidence: high
+callouts:
+- type: definition
+  title: Learning Theories
+  body: Learning Theories are the families of theoretical frameworks — behaviourist,
+    cognitivist, constructivist, social-cognitive, situated, connectivist — that propose
+    distinct mechanisms by which acquisition occurs, distinct explanatory primitives
+    (associations, representations, schemas, communities, networks), and distinct
+    prescriptions for instructional design.
+- type: key-claim
+  title: Key claim about Learning Theories
+  body: 'Learning Theories are best treated as overlapping rather than competing:
+    each captures a real subset of learning phenomena, and skilled pedagogical reasoning
+    involves recognising which Learning Theory applies to which acquisition target,
+    rather than treating one as universally correct.'
+- type: warning
+  title: Common pitfall regarding Learning Theories
+  body: Learning Theories are commonly misused as ideological banners — "I'm a constructivist"
+    — that license pedagogical commitments far beyond what the underlying theory supports;
+    treating Learning Theories as identity markers obscures that competent teaching
+    routinely deploys behaviourist (drill, contingent reinforcement), cognitivist
+    (worked examples, retrieval practice), and constructivist (discovery, project
+    work) techniques in disciplined combination.

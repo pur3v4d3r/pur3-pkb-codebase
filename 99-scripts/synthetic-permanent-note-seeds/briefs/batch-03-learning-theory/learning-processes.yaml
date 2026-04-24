@@ -1,0 +1,38 @@
+concept: Learning Processes
+domain: learning-science
+secondary_domains:
+- cognitive-science
+aliases:
+- processes of learning
+broader:
+- psychology-of-learning
+related:
+- learning-strategies
+- memory-consolidation
+- encoding
+- retrieval
+- transfer-of-learning
+prerequisites:
+- psychology-of-learning
+confidence: high
+callouts:
+- type: definition
+  title: Learning Processes
+  body: Learning Processes are the underlying cognitive operations through which acquisition
+    occurs — encoding, consolidation, retrieval, transfer, integration, restructuring
+    — and are the level at which [[learning-strategies]] (deliberate techniques) connect
+    to the [[principles-of-learning]] (empirical generalisations) they exploit.
+- type: key-claim
+  title: Key claim about Learning Processes
+  body: 'Learning Processes is the most useful organising frame for pedagogical decision-making:
+    rather than asking "what strategy should I use," ask "which Learning Process is
+    currently bottlenecking acquisition" (encoding fails → reduce load; retrieval
+    weak → add testing; integration absent → require comparison) and select the strategy
+    that targets that process.'
+- type: warning
+  title: Common pitfall regarding Learning Processes
+  body: Learning Processes are often invoked descriptively without measurement; teachers
+    and learners report which processes they *think* are operating, but without objective
+    probes (delayed test, transfer task, error analysis) the diagnosis is unreliable,
+    and well-intentioned strategy selection based on intuited Learning Processes can
+    systematically miss the actual bottleneck.

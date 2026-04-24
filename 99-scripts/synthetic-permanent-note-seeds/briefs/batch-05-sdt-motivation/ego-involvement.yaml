@@ -1,0 +1,37 @@
+concept: Ego Involvement
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- achievement-goal-theory
+aliases:
+- ego involvement in tasks
+- contingent self-worth in tasks
+broader:
+- introjected-regulation
+related:
+- performance-goal-orientation
+- task-involvement
+- controlled-regulation
+- self-esteem
+confidence: high
+callouts:
+- type: definition
+  title: Ego Involvement
+  body: Ego Involvement, in SDT and achievement-goal frameworks, is the state in which
+    a person's self-worth becomes contingent on task performance — succeeding feels
+    like proving the self, failing feels like the self is deficient — and is a form
+    of internalised pressure characteristic of introjected regulation.
+- type: key-claim
+  title: Key claim about Ego Involvement
+  body: 'Ego Involvement produces high short-term effort but at substantial cost:
+    anxiety, self-handicapping when failure looms, withdrawal when failure occurs,
+    and reduced creativity due to the narrowing effects of self-protective focus,
+    which is why ego-involving practices that boost grades in the short term often
+    degrade learning and well-being in the long term.'
+- type: warning
+  title: Common pitfall regarding Ego Involvement
+  body: Ego Involvement is particularly easily induced by adults who praise *the person*
+    rather than *the work* ("you're so smart" rather than "you found a productive
+    approach"); person-praise has been shown by Mueller and Dweck (1998) and replicated
+    since to induce Ego Involvement and the maladaptive responses to challenge that
+    follow, even when intended as encouragement.

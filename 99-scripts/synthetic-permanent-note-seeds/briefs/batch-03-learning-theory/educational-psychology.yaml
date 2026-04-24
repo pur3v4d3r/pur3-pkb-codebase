@@ -1,0 +1,35 @@
+concept: Educational Psychology
+domain: learning-science
+secondary_domains:
+- psychology
+- education
+aliases:
+- ed psych
+broader:
+- psychology
+- learning-science
+related:
+- psychology-of-learning
+- learning-theories
+- instructional-design
+confidence: high
+callouts:
+- type: definition
+  title: Educational Psychology
+  body: Educational Psychology is the scientific discipline that applies psychological
+    theory and method to questions of learning, instruction, motivation, assessment,
+    and individual differences in educational settings, mediating between basic cognitive
+    and developmental science and the practical design of teaching.
+- type: key-claim
+  title: Key claim about Educational Psychology
+  body: 'Educational Psychology provides the empirical foundation that distinguishes
+    evidence-based pedagogy from craft tradition: practices like spaced retrieval,
+    formative assessment, and worked-example study are pedagogical commitments grounded
+    in decades of Educational Psychology research rather than intuitions about teaching.'
+- type: warning
+  title: Common pitfall regarding Educational Psychology
+  body: Educational Psychology has a recurrent translation problem — laboratory findings
+    frequently fail to scale to classrooms because the controlled conditions that
+    produce robust effects are rarely available; treating Educational Psychology results
+    as turnkey prescriptions without classroom-scale replication is one of the most
+    common sources of failed reform.

@@ -1,0 +1,39 @@
+concept: Disposition
+domain: critical-thinking
+secondary_domains:
+- psychology
+- virtue-epistemology
+aliases:
+- thinking dispositions
+- intellectual dispositions
+broader:
+- critical-thinking
+related:
+- intellectual-humility
+- virtue-epistemology
+- need-for-cognition
+- actively-open-minded-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Disposition
+  body: A Disposition, in critical-thinking and virtue-epistemology research, is a
+    stable inclination to engage one's cognitive abilities in particular ways — to
+    seek out alternative views, to follow evidence where it leads, to revise beliefs
+    when warranted, to think carefully under uncertainty — and stands in contrast
+    to *abilities* (what one can do) by specifying what one is *inclined* to do.
+- type: key-claim
+  title: Key claim about Disposition
+  body: A Disposition is what determines whether available critical-thinking abilities
+    actually get deployed; a learner with high analytic ability who is disinclined
+    to use it on welcome conclusions, or who is disinclined to apply it under social
+    pressure, will produce poor reasoning outcomes despite having the requisite skills,
+    which is why disposition cultivation is an irreducible part of critical-thinking
+    education.
+- type: warning
+  title: Common pitfall regarding Disposition
+  body: A Disposition is not directly observable and must be inferred from behaviour
+    across situations; self-report measures of intellectual Disposition have well-documented
+    social-desirability problems, and behavioural measures (actually-open-minded responses
+    to disconfirming evidence under pressure) are needed to validate that claimed
+    Dispositions are actually present.

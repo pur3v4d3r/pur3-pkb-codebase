@@ -1,0 +1,108 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "batch-07b-logic-reasoning",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-batch-07b-logic-reasoning.md",
+    "notes": "Batch 7b of 8. Focus: deductive/inductive/abductive reasoning and logic,\nanalogical reasoning/logic, logical fallacies, propositional/predicate/modal\nlogic, scientific reasoning, philosophy of science."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/batch-07b-logic-reasoning",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-batch-07b-logic-reasoning"
+  },
+  "counts": {
+    "parsed": 14,
+    "accepted": 14,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Deductive Reasoning",
+      "kebab": "deductive-reasoning",
+      "brief_path": "briefs/batch-07b-logic-reasoning/deductive-reasoning.yaml",
+      "expected_seed_filename": "deductive-reasoning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Inductive Reasoning",
+      "kebab": "inductive-reasoning",
+      "brief_path": "briefs/batch-07b-logic-reasoning/inductive-reasoning.yaml",
+      "expected_seed_filename": "inductive-reasoning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Abductive Reasoning",
+      "kebab": "abductive-reasoning",
+      "brief_path": "briefs/batch-07b-logic-reasoning/abductive-reasoning.yaml",
+      "expected_seed_filename": "abductive-reasoning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Deductive Logic",
+      "kebab": "deductive-logic",
+      "brief_path": "briefs/batch-07b-logic-reasoning/deductive-logic.yaml",
+      "expected_seed_filename": "deductive-logic-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Inductive Logic",
+      "kebab": "inductive-logic",
+      "brief_path": "briefs/batch-07b-logic-reasoning/inductive-logic.yaml",
+      "expected_seed_filename": "inductive-logic-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Abductive Logic",
+      "kebab": "abductive-logic",
+      "brief_path": "briefs/batch-07b-logic-reasoning/abductive-logic.yaml",
+      "expected_seed_filename": "abductive-logic-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Analogical Reasoning",
+      "kebab": "analogical-reasoning",
+      "brief_path": "briefs/batch-07b-logic-reasoning/analogical-reasoning.yaml",
+      "expected_seed_filename": "analogical-reasoning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Analogical Logic",
+      "kebab": "analogical-logic",
+      "brief_path": "briefs/batch-07b-logic-reasoning/analogical-logic.yaml",
+      "expected_seed_filename": "analogical-logic-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Logical Fallacies",
+      "kebab": "logical-fallacies",
+      "brief_path": "briefs/batch-07b-logic-reasoning/logical-fallacies.yaml",
+      "expected_seed_filename": "logical-fallacies-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Propositional Logic",
+      "kebab": "propositional-logic",
+      "brief_path": "briefs/batch-07b-logic-reasoning/propositional-logic.yaml",
+      "expected_seed_filename": "propositional-logic-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Predicate Logic",
+      "kebab": "predicate-logic",
+      "brief_path": "briefs/batch-07b-logic-reasoning/predicate-logic.yaml",
+      "expected_seed_filename": "predicate-logic-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Modal Logic",
+      "kebab": "modal-logic",
+      "brief_path": "briefs/batch-07b-logic-reasoning/modal-logic.yaml",
+      "expected_seed_filename": "modal-logic-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Scientific Reasoning",
+      "kebab": "scientific-reasoning",
+      "brief_path": "briefs/batch-07b-logic-reasoning/scientific-reasoning.yaml",
+      "expected_seed_filename": "scientific-reasoning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Philosophy of Science",
+      "kebab": "philosophy-of-science",
+      "brief_path": "briefs/batch-07b-logic-reasoning/philosophy-of-science.yaml",
+      "expected_seed_filename": "philosophy-of-science-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

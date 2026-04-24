@@ -1,0 +1,41 @@
+concept: Communities of Practice
+domain: learning-science
+secondary_domains:
+- anthropology
+- organisational-learning
+aliases:
+- CoP
+broader:
+- situated-learning-theory
+related:
+- lave-and-wenger
+- legitimate-peripheral-participation
+- distributed-cognition
+- apprenticeship
+- social-learning
+prerequisites:
+- situated-learning-theory
+confidence: high
+callouts:
+- type: definition
+  title: Communities of Practice
+  body: Communities of Practice, theorised by Lave and Wenger, are groups of people
+    bound together by shared engagement in a domain of practice — developing shared
+    repertoires of tools, discourse, and identity — through which newcomers gradually
+    become old-timers via [[legitimate-peripheral-participation]], and which constitute
+    the social substrate of much real-world learning.
+- type: key-claim
+  title: Key claim about Communities of Practice
+  body: 'Communities of Practice reframe learning as identity transformation rather
+    than information acquisition: becoming a midwife, a software engineer, or a scholar
+    is not primarily a matter of internalising propositions but of becoming a recognised
+    participant whose contributions and judgements the community accepts, which has
+    direct implications for what counts as a learning outcome.'
+- type: warning
+  title: Common pitfall regarding Communities of Practice
+  body: Communities of Practice can be exclusionary, slow to admit newcomers, resistant
+    to needed change, and replicators of existing inequities; the romantic framing
+    of CoPs as inherently nurturing learning environments obscures that they are also
+    political structures, and pedagogical proposals to "build communities of practice"
+    must address access, voice, and equity rather than assuming the form delivers
+    the substance.

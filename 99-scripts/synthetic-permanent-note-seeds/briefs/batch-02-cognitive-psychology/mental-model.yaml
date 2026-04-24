@@ -1,0 +1,38 @@
+concept: Mental Model
+domain: cognitive-science
+secondary_domains:
+- knowledge-representation
+- learning-science
+aliases:
+- mental models
+broader:
+- knowledge-representation
+related:
+- situation-model
+- schema-theory
+- analogical-reasoning
+- causal-reasoning
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Mental Model
+  body: A Mental Model is an internal representation of a domain's structure — entities,
+    relations, and causal dynamics — that supports simulation, prediction, and inference
+    about situations the model represents, and was systematically theorised by Johnson-Laird
+    (1983) as the substrate of deductive reasoning and discourse comprehension.
+- type: key-claim
+  title: Key claim about Mental Model
+  body: 'A Mental Model differs from a propositional or schematic representation by
+    being analog and runnable: the learner can mentally manipulate the model to derive
+    consequences not explicitly stated, which is why instruction that builds a working
+    Mental Model produces more flexible transfer than instruction that delivers equivalent
+    propositions in list form.'
+- type: warning
+  title: Common pitfall regarding Mental Model
+  body: A Mental Model is often *incomplete*, *inconsistent*, or *unstable* in non-experts,
+    and learners typically don't notice these deficiencies until they generate predictions
+    that fail; pedagogy that demands explicit prediction-and-test (rather than only
+    exposition) is what surfaces and corrects faulty Mental Models, which is why expository
+    teaching alone tends to leave naive misconceptions intact.

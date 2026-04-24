@@ -1,0 +1,39 @@
+concept: Elaboration
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- study-strategies
+aliases:
+- elaborative encoding
+broader:
+- generative-learning-theory
+- learning-strategies
+related:
+- elaboration-interrogation
+- elaborative-rehearsal
+- deep-processing
+- self-explanation
+prerequisites:
+- generative-learning-theory
+confidence: high
+callouts:
+- type: definition
+  title: Elaboration
+  body: Elaboration is the encoding strategy in which a learner enriches incoming
+    material by generating connections to prior knowledge — examples, analogies, causal
+    explanations, comparisons, contrasts, applications — increasing the number and
+    quality of associative routes by which the trace can later be retrieved.
+- type: key-claim
+  title: Key claim about Elaboration
+  body: Elaboration produces durable retention gains across content types and ages,
+    and is the mechanism behind the effectiveness of self-explanation, elaborative
+    interrogation, generative summarisation, and worked-example study — making it
+    one of the most generally applicable [[learning-strategies]] in the evidence-based
+    toolkit.
+- type: warning
+  title: Common pitfall regarding Elaboration
+  body: 'Elaboration carries a quality requirement that is easy to violate: spurious
+    or incorrect Elaboration (relating new material to a misconception, generating
+    misleading examples) embeds the trace inside an inaccurate network and makes subsequent
+    correction harder; without feedback or accuracy checks, sustained Elaboration
+    can entrench errors as efficiently as it consolidates correct understanding.'

@@ -1,0 +1,39 @@
+concept: Learning Strategies
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- study-skills
+aliases:
+- study strategies
+broader:
+- psychology-of-learning
+related:
+- principles-of-learning
+- learning-processes
+- retrieval-practice
+- self-regulated-learning
+prerequisites:
+- psychology-of-learning
+confidence: high
+callouts:
+- type: definition
+  title: Learning Strategies
+  body: Learning Strategies are the deliberate cognitive and metacognitive techniques
+    learners deploy to acquire, organise, and consolidate knowledge — including retrieval
+    practice, spaced review, interleaving, elaborative interrogation, self-explanation,
+    and concrete-example generation — and constitute the actionable surface of [[principles-of-learning]]
+    for individual study.
+- type: key-claim
+  title: Key claim about Learning Strategies
+  body: 'Learning Strategies vary substantially in evidence base, and the Dunlosky
+    et al. (2013) review remains the canonical map: practice testing and distributed
+    practice are top-tier; elaborative interrogation, self-explanation, and interleaved
+    practice are well-supported; and the popular favourites (highlighting, re-reading,
+    summarisation) sit at the bottom of the evidence ladder.'
+- type: warning
+  title: Common pitfall regarding Learning Strategies
+  body: Learning Strategies are often packaged as universal "study tips," but their
+    effectiveness depends on the *content* (interleaving works for discriminating
+    similar categories; less for unrelated topics), the *learner* (worked examples
+    help novices, hinder experts), and the *time horizon* (massed practice can be
+    acceptable for short-term performance, lethal for long-term retention).

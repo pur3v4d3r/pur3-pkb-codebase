@@ -1,0 +1,37 @@
+concept: Ecological Psychology
+domain: psychology
+secondary_domains:
+- perception-research
+- philosophy-of-mind
+aliases:
+- Gibsonian psychology
+broader:
+- psychology
+related:
+- embodied-cognition
+- affordance
+- direct-perception
+- 4e-cognition
+confidence: high
+callouts:
+- type: definition
+  title: Ecological Psychology
+  body: Ecological Psychology, founded by James J. Gibson, holds that perception is
+    direct pickup of information specifying [[affordance|affordances]] in the organism-environment
+    system rather than inferential construction from impoverished sensory data, and
+    reframes cognitive science around the meaningful structure of the lawful organism-environment
+    relation.
+- type: key-claim
+  title: Key claim about Ecological Psychology
+  body: 'Ecological Psychology challenges the representation-centric assumption underlying
+    classical [[cognitive-psychology]]: many tasks (catching a ball, navigating a
+    hallway) are better explained by lawful information pickup from optic flow than
+    by internal model construction, which has been a central source of ideas in [[4e-cognition]]
+    and motor learning.'
+- type: warning
+  title: Common pitfall regarding Ecological Psychology
+  body: Ecological Psychology is often invoked to reject internal representation altogether,
+    but the strongest position is more nuanced — direct perception accounts well for
+    tightly coupled action-perception loops while struggling with off-line, displaced,
+    or symbolic cognition; pedagogy that universalises ecological commitments under-resources
+    what classical cognitive accounts handle better.

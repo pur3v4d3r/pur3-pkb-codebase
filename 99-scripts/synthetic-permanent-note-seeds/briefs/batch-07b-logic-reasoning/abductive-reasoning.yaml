@@ -1,0 +1,42 @@
+concept: Abductive Reasoning
+domain: logic
+secondary_domains:
+- reasoning
+- philosophy-of-science
+aliases:
+- abduction
+- inference to the best explanation
+broader:
+- reasoning
+- inference
+related:
+- deductive-reasoning
+- inductive-reasoning
+- abductive-logic
+- peirce
+- explanatory-virtues
+confidence: high
+callouts:
+- type: definition
+  title: Abductive Reasoning
+  body: Abductive Reasoning, named by C.S. Peirce, is the form of inference in which
+    one accepts a hypothesis because it provides the *best available explanation*
+    for the observed evidence — distinguished from deduction (which guarantees the
+    conclusion) and from induction (which extends observed patterns) by its explanatory
+    rather than enumerative character.
+- type: key-claim
+  title: Key claim about Abductive Reasoning
+  body: Abductive Reasoning, formalised by Peter Lipton as "inference to the best
+    explanation," is the dominant pattern of inference in scientific theorising, medical
+    diagnosis, criminal investigation, and historical interpretation; it is what produces
+    the explanatory hypotheses that subsequent deductive consequences and inductive
+    testing then evaluate, making Abductive Reasoning the generative engine of investigative
+    inquiry.
+- type: warning
+  title: Common pitfall regarding Abductive Reasoning
+  body: 'Abductive Reasoning is only as good as the candidate-explanation set it considers
+    — "the best available explanation" can still be a poor explanation if a better
+    one was not generated — and is famously vulnerable to the *bad lot* objection:
+    confident inference to the best of a bad lot of hypotheses is a recurring source
+    of error in domains where investigators failed to consider hypotheses that turned
+    out to be true.'

@@ -1,0 +1,38 @@
+concept: Situation Model
+domain: cognitive-science
+secondary_domains:
+- reading-research
+- discourse-comprehension
+aliases:
+- event model
+broader:
+- mental-model
+related:
+- working-memory-in-reading
+- reading-comprehension
+- event-segmentation-theory
+prerequisites:
+- mental-model
+confidence: high
+callouts:
+- type: definition
+  title: Situation Model
+  body: A Situation Model is the integrated representation a reader or listener constructs
+    of the *state of affairs* described by a text — the entities, locations, times,
+    intentions, and causal connections — distinct from both the surface form (verbatim)
+    and the propositional textbase (paraphrase-equivalent meaning), and is the level
+    at which deep comprehension occurs.
+- type: key-claim
+  title: Key claim about Situation Model
+  body: A Situation Model is what supports inference, integration across paragraphs,
+    and recall after surface details have faded; readers who fail to build a Situation
+    Model can pass paraphrase tests yet fail comprehension probes that require integrating
+    across distant text, which is the pattern characteristic of "shallow but fluent"
+    reading.
+- type: warning
+  title: Common pitfall regarding Situation Model
+  body: A Situation Model is built incrementally and depends on working-memory resources
+    to bridge across sentences; texts that exceed the reader's capacity to hold prior
+    context active (long sentences, distant referents, dense terminology) cause Situation
+    Model construction to fail silently — the reader's eyes continue moving but integration
+    stops, producing the illusion of reading without comprehension.

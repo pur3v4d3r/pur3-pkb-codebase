@@ -1,0 +1,168 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "batch-01-memory-systems",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-batch-01-memory-systems.md",
+    "notes": "Batch 1 of 8 from the user-supplied custom seed list (164 net-new terms after\ndedup against v6-llm-elaborated/). Focus: human memory systems, the\nmulti-store / working-memory architecture, encoding/storage/retrieval\nprimitives, and the levels-of-processing tradition. These notes anchor the\nprerequisite layer for downstream notes on study strategy, metacognition,\nand instructional design."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/batch-01-memory-systems",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-batch-01-memory-systems"
+  },
+  "counts": {
+    "parsed": 24,
+    "accepted": 24,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Short-Term Memory",
+      "kebab": "short-term-memory",
+      "brief_path": "briefs/batch-01-memory-systems/short-term-memory.yaml",
+      "expected_seed_filename": "short-term-memory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Semantic Memory",
+      "kebab": "semantic-memory",
+      "brief_path": "briefs/batch-01-memory-systems/semantic-memory.yaml",
+      "expected_seed_filename": "semantic-memory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Episodic Memory",
+      "kebab": "episodic-memory",
+      "brief_path": "briefs/batch-01-memory-systems/episodic-memory.yaml",
+      "expected_seed_filename": "episodic-memory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Declarative Memory",
+      "kebab": "declarative-memory",
+      "brief_path": "briefs/batch-01-memory-systems/declarative-memory.yaml",
+      "expected_seed_filename": "declarative-memory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Procedural Memory",
+      "kebab": "procedural-memory",
+      "brief_path": "briefs/batch-01-memory-systems/procedural-memory.yaml",
+      "expected_seed_filename": "procedural-memory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Non-Declarative Memory",
+      "kebab": "non-declarative-memory",
+      "brief_path": "briefs/batch-01-memory-systems/non-declarative-memory.yaml",
+      "expected_seed_filename": "non-declarative-memory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Memory Systems",
+      "kebab": "memory-systems",
+      "brief_path": "briefs/batch-01-memory-systems/memory-systems.yaml",
+      "expected_seed_filename": "memory-systems-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Memory Consolidation",
+      "kebab": "memory-consolidation",
+      "brief_path": "briefs/batch-01-memory-systems/memory-consolidation.yaml",
+      "expected_seed_filename": "memory-consolidation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Reconstructive Memory",
+      "kebab": "reconstructive-memory",
+      "brief_path": "briefs/batch-01-memory-systems/reconstructive-memory.yaml",
+      "expected_seed_filename": "reconstructive-memory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Encoding Specificity Principle",
+      "kebab": "encoding-specificity-principle",
+      "brief_path": "briefs/batch-01-memory-systems/encoding-specificity-principle.yaml",
+      "expected_seed_filename": "encoding-specificity-principle-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Working Memory Capacity",
+      "kebab": "working-memory-capacity",
+      "brief_path": "briefs/batch-01-memory-systems/working-memory-capacity.yaml",
+      "expected_seed_filename": "working-memory-capacity-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Episodic Buffer",
+      "kebab": "episodic-buffer",
+      "brief_path": "briefs/batch-01-memory-systems/episodic-buffer.yaml",
+      "expected_seed_filename": "episodic-buffer-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Multi-Store Model",
+      "kebab": "multi-store-model",
+      "brief_path": "briefs/batch-01-memory-systems/multi-store-model.yaml",
+      "expected_seed_filename": "multi-store-model-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Central Executive",
+      "kebab": "central-executive",
+      "brief_path": "briefs/batch-01-memory-systems/central-executive.yaml",
+      "expected_seed_filename": "central-executive-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Phonological Loop",
+      "kebab": "phonological-loop",
+      "brief_path": "briefs/batch-01-memory-systems/phonological-loop.yaml",
+      "expected_seed_filename": "phonological-loop-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Visuospatial Sketchpad",
+      "kebab": "visuospatial-sketchpad",
+      "brief_path": "briefs/batch-01-memory-systems/visuospatial-sketchpad.yaml",
+      "expected_seed_filename": "visuospatial-sketchpad-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Working Memory in Reading",
+      "kebab": "working-memory-in-reading",
+      "brief_path": "briefs/batch-01-memory-systems/working-memory-in-reading.yaml",
+      "expected_seed_filename": "working-memory-in-reading-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Elaborative Rehearsal",
+      "kebab": "elaborative-rehearsal",
+      "brief_path": "briefs/batch-01-memory-systems/elaborative-rehearsal.yaml",
+      "expected_seed_filename": "elaborative-rehearsal-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Maintenance Rehearsal",
+      "kebab": "maintenance-rehearsal",
+      "brief_path": "briefs/batch-01-memory-systems/maintenance-rehearsal.yaml",
+      "expected_seed_filename": "maintenance-rehearsal-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Priming",
+      "kebab": "priming",
+      "brief_path": "briefs/batch-01-memory-systems/priming.yaml",
+      "expected_seed_filename": "priming-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Deep Processing",
+      "kebab": "deep-processing",
+      "brief_path": "briefs/batch-01-memory-systems/deep-processing.yaml",
+      "expected_seed_filename": "deep-processing-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cognitive Chunking",
+      "kebab": "cognitive-chunking",
+      "brief_path": "briefs/batch-01-memory-systems/cognitive-chunking.yaml",
+      "expected_seed_filename": "cognitive-chunking-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Magical Number Seven",
+      "kebab": "magical-number-seven",
+      "brief_path": "briefs/batch-01-memory-systems/magical-number-seven.yaml",
+      "expected_seed_filename": "magical-number-seven-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Dual Coding Theory",
+      "kebab": "dual-coding-theory",
+      "brief_path": "briefs/batch-01-memory-systems/dual-coding-theory.yaml",
+      "expected_seed_filename": "dual-coding-theory-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

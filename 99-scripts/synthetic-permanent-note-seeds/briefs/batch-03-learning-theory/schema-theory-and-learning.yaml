@@ -1,0 +1,40 @@
+concept: Schema Theory and Learning
+domain: learning-science
+secondary_domains:
+- cognitive-science
+aliases:
+- schema theory in learning
+broader:
+- cognitive-theories-of-learning
+related:
+- schema-theory
+- prior-knowledge
+- chunking
+- abstraction
+- assimilation
+- accommodation
+prerequisites:
+- cognitive-theories-of-learning
+confidence: high
+callouts:
+- type: definition
+  title: Schema Theory and Learning
+  body: Schema Theory and Learning applies the construct of schemas — organised knowledge
+    structures representing patterns, scripts, and conceptual relations — to explain
+    how prior knowledge structures the encoding, retention, and retrieval of new material,
+    and how expertise consists in the gradual elaboration of richer, more interconnected
+    schemas.
+- type: key-claim
+  title: Key claim about Schema Theory and Learning
+  body: 'Schema Theory and Learning predicts that the same instruction produces dramatically
+    different acquisition depending on the schemas the learner already has: novices
+    encode surface features and miss structural patterns, while experts encode deep
+    structure and abstract away surface, which is the well-replicated novice-expert
+    distinction in problem categorisation.'
+- type: warning
+  title: Common pitfall regarding Schema Theory and Learning
+  body: Schema Theory and Learning has been criticised for being descriptively rich
+    but mechanistically vague; "build better schemas" is not in itself a pedagogical
+    instruction, and productive use of the framework requires specifying *which* schemas
+    matter, *how* to elicit and probe them, and *what* sequence of experiences reliably
+    restructures them.

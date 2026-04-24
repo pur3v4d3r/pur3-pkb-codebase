@@ -1,0 +1,39 @@
+concept: Fluid Intelligence
+domain: cognitive-science
+secondary_domains:
+- intelligence-research
+- individual-differences
+aliases:
+- Gf
+- fluid reasoning
+broader:
+- intelligence
+related:
+- crystallized-intelligence
+- working-memory-capacity
+- executive-function
+- g-factor
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Fluid Intelligence
+  body: Fluid Intelligence, in Cattell's distinction, is the capacity to reason and
+    solve novel problems independently of acquired knowledge — pattern detection,
+    rule induction, abstract analogy — typically measured by Raven's Progressive Matrices
+    and similar non-verbal tasks, and peaks in early adulthood before slow decline.
+- type: key-claim
+  title: Key claim about Fluid Intelligence
+  body: Fluid Intelligence correlates strongly with [[working-memory-capacity]] and
+    [[executive-function]], suggesting these are partially overlapping constructs
+    whose common core is controlled attention and the ability to hold and manipulate
+    novel relations under interference.
+- type: warning
+  title: Common pitfall regarding Fluid Intelligence
+  body: 'Fluid Intelligence has resisted training: claims that working-memory training
+    raises Fluid Intelligence have repeatedly failed independent replication, and
+    the more durable strategy for raising performance on fluid-intelligence-loaded
+    tasks is to *convert them to crystallized tasks* by building domain knowledge
+    that turns reasoning problems into pattern-recognition problems for the trained
+    learner.'

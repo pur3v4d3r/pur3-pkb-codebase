@@ -1,0 +1,38 @@
+concept: Episodic Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- autobiographical-memory
+aliases:
+- autobiographical memory
+- event memory
+broader:
+- declarative-memory
+- long-term-memory
+related:
+- semantic-memory
+- reconstructive-memory
+- encoding-specificity-principle
+prerequisites:
+- long-term-memory
+- declarative-memory
+confidence: high
+callouts:
+- type: definition
+  title: Episodic Memory
+  body: Episodic Memory is the long-term system that stores personally experienced
+    events together with their spatial, temporal, and emotional context, supporting
+    the conscious "mental time travel" through which a learner re-experiences a particular
+    moment of acquisition rather than merely knowing the resulting fact.
+- type: key-claim
+  title: Key claim about Episodic Memory
+  body: 'Episodic Memory provides the substrate from which [[semantic-memory]] is
+    abstracted: repeated episodes lose their idiosyncratic context while their common
+    conceptual structure consolidates, a transformation that explains why deliberate
+    variation of study context strengthens later semantic retrieval.'
+- type: warning
+  title: Common pitfall regarding Episodic Memory
+  body: Episodic Memory is highly [[reconstructive-memory|reconstructive]] rather
+    than veridical; treating recalled episodes as faithful recordings ignores decades
+    of evidence on confabulation, schema-driven distortion, and post-event misinformation,
+    with serious consequences in educational testimony and self-assessment.

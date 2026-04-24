@@ -1,0 +1,41 @@
+concept: Logical Fallacies
+domain: logic
+secondary_domains:
+- critical-thinking
+- rhetoric
+aliases:
+- fallacies of reasoning
+- informal fallacies
+broader:
+- logic
+- critical-thinking
+related:
+- argument-analysis
+- ad-hominem
+- straw-man
+- false-dichotomy
+- appeal-to-authority
+confidence: high
+callouts:
+- type: definition
+  title: Logical Fallacies
+  body: Logical Fallacies are recurring patterns of defective reasoning that resemble
+    valid arguments but fail to support their conclusions — encompassing formal fallacies
+    (deductively invalid moves like affirming the consequent), informal fallacies
+    of relevance (ad hominem, appeal to emotion), and informal fallacies of presumption
+    (false dichotomy, begging the question, hasty generalisation).
+- type: key-claim
+  title: Key claim about Logical Fallacies
+  body: Logical Fallacies are useful as a diagnostic vocabulary for naming patterns
+    of bad reasoning, but their pedagogical leverage comes from recognising the patterns
+    in real arguments — particularly in one's own — rather than from memorising the
+    canonical list, since the list is long, taxonomies disagree, and many real arguments
+    instantiate multiple fallacies or borderline cases.
+- type: warning
+  title: Common pitfall regarding Logical Fallacies
+  body: Logical Fallacies are routinely weaponised in online discourse as conversation-stoppers
+    — "that's an ad hominem!" deployed against substantive criticisms of a claimant's
+    relevant track record, "straw man!" deployed against any reformulation of one's
+    view — and this rhetorical use is itself a misapplication; a charge of fallacy
+    must be argued, not asserted, and the underlying fallacy taxonomies are subtler
+    than the slogans suggest.

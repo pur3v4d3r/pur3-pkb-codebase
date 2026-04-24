@@ -1,0 +1,39 @@
+concept: Elaboration Interrogation
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- study-strategies
+aliases:
+- elaborative interrogation
+broader:
+- elaboration
+- learning-strategies
+related:
+- self-explanation
+- why-questions
+- deep-processing
+- generative-learning-theory
+prerequisites:
+- elaboration
+confidence: high
+callouts:
+- type: definition
+  title: Elaboration Interrogation
+  body: Elaboration Interrogation is the specific elaboration strategy in which a
+    learner asks themselves *why* a stated fact is true and attempts to generate or
+    retrieve an explanatory answer, transforming declarative content into a causally
+    connected schema and producing measurably better retention than re-reading.
+- type: key-claim
+  title: Key claim about Elaboration Interrogation
+  body: Elaboration Interrogation is rated by Dunlosky et al. (2013) as a moderate-utility
+    strategy with consistent benefits across age ranges and content types, particularly
+    for factual material that has explicable underlying causes — biology, history,
+    physics — where asking "why" recruits relevant prior knowledge that anchors the
+    fact.
+- type: warning
+  title: Common pitfall regarding Elaboration Interrogation
+  body: Elaboration Interrogation works best when learners possess the prior knowledge
+    needed to answer their own "why" questions; for genuine novices, repeated *why*
+    prompts produce shrugs or made-up answers that can be worse than no elaboration
+    at all, which is why the strategy presupposes some baseline domain knowledge before
+    being deployed.

@@ -1,0 +1,156 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "batch-02-cognitive-psychology",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-batch-02-cognitive-psychology.md",
+    "notes": "Batch 2 of 8. Focus: foundations of cognitive psychology, the\ninformation-processing tradition, attention and executive control,\nintelligence, multimedia-learning theory, and the post-classical\nparadigms (4E cognition, predictive processing, ecological,\ndevelopmental, humanistic, cross-cultural)."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/batch-02-cognitive-psychology",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-batch-02-cognitive-psychology"
+  },
+  "counts": {
+    "parsed": 22,
+    "accepted": 22,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Cognitive Psychology",
+      "kebab": "cognitive-psychology",
+      "brief_path": "briefs/batch-02-cognitive-psychology/cognitive-psychology.yaml",
+      "expected_seed_filename": "cognitive-psychology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cognitive Psychology Foundations",
+      "kebab": "cognitive-psychology-foundations",
+      "brief_path": "briefs/batch-02-cognitive-psychology/cognitive-psychology-foundations.yaml",
+      "expected_seed_filename": "cognitive-psychology-foundations-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Information Processing Theory",
+      "kebab": "information-processing-theory",
+      "brief_path": "briefs/batch-02-cognitive-psychology/information-processing-theory.yaml",
+      "expected_seed_filename": "information-processing-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Executive Function",
+      "kebab": "executive-function",
+      "brief_path": "briefs/batch-02-cognitive-psychology/executive-function.yaml",
+      "expected_seed_filename": "executive-function-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Attention and Cognitive Control",
+      "kebab": "attention-and-cognitive-control",
+      "brief_path": "briefs/batch-02-cognitive-psychology/attention-and-cognitive-control.yaml",
+      "expected_seed_filename": "attention-and-cognitive-control-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Attention and Selective Processing",
+      "kebab": "attention-and-selective-processing",
+      "brief_path": "briefs/batch-02-cognitive-psychology/attention-and-selective-processing.yaml",
+      "expected_seed_filename": "attention-and-selective-processing-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Selective Attention",
+      "kebab": "selective-attention",
+      "brief_path": "briefs/batch-02-cognitive-psychology/selective-attention.yaml",
+      "expected_seed_filename": "selective-attention-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Mental Model",
+      "kebab": "mental-model",
+      "brief_path": "briefs/batch-02-cognitive-psychology/mental-model.yaml",
+      "expected_seed_filename": "mental-model-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Situation Model",
+      "kebab": "situation-model",
+      "brief_path": "briefs/batch-02-cognitive-psychology/situation-model.yaml",
+      "expected_seed_filename": "situation-model-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Fluid Intelligence",
+      "kebab": "fluid-intelligence",
+      "brief_path": "briefs/batch-02-cognitive-psychology/fluid-intelligence.yaml",
+      "expected_seed_filename": "fluid-intelligence-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Crystallized Intelligence",
+      "kebab": "crystallized-intelligence",
+      "brief_path": "briefs/batch-02-cognitive-psychology/crystallized-intelligence.yaml",
+      "expected_seed_filename": "crystallized-intelligence-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cognitive Theory of Multimedia Learning",
+      "kebab": "cognitive-theory-of-multimedia-learning",
+      "brief_path": "briefs/batch-02-cognitive-psychology/cognitive-theory-of-multimedia-learning.yaml",
+      "expected_seed_filename": "cognitive-theory-of-multimedia-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Redundancy Effect",
+      "kebab": "redundancy-effect",
+      "brief_path": "briefs/batch-02-cognitive-psychology/redundancy-effect.yaml",
+      "expected_seed_filename": "redundancy-effect-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Distributed Cognition",
+      "kebab": "distributed-cognition",
+      "brief_path": "briefs/batch-02-cognitive-psychology/distributed-cognition.yaml",
+      "expected_seed_filename": "distributed-cognition-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Embodied Cognition",
+      "kebab": "embodied-cognition",
+      "brief_path": "briefs/batch-02-cognitive-psychology/embodied-cognition.yaml",
+      "expected_seed_filename": "embodied-cognition-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "4E Cognition",
+      "kebab": "4e-cognition",
+      "brief_path": "briefs/batch-02-cognitive-psychology/4e-cognition.yaml",
+      "expected_seed_filename": "4e-cognition-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Predictive Processing",
+      "kebab": "predictive-processing",
+      "brief_path": "briefs/batch-02-cognitive-psychology/predictive-processing.yaml",
+      "expected_seed_filename": "predictive-processing-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Ecological Psychology",
+      "kebab": "ecological-psychology",
+      "brief_path": "briefs/batch-02-cognitive-psychology/ecological-psychology.yaml",
+      "expected_seed_filename": "ecological-psychology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Functional Psychology",
+      "kebab": "functional-psychology",
+      "brief_path": "briefs/batch-02-cognitive-psychology/functional-psychology.yaml",
+      "expected_seed_filename": "functional-psychology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Developmental Psychology",
+      "kebab": "developmental-psychology",
+      "brief_path": "briefs/batch-02-cognitive-psychology/developmental-psychology.yaml",
+      "expected_seed_filename": "developmental-psychology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Humanistic Psychology",
+      "kebab": "humanistic-psychology",
+      "brief_path": "briefs/batch-02-cognitive-psychology/humanistic-psychology.yaml",
+      "expected_seed_filename": "humanistic-psychology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cross-Cultural Psychology",
+      "kebab": "cross-cultural-psychology",
+      "brief_path": "briefs/batch-02-cognitive-psychology/cross-cultural-psychology.yaml",
+      "expected_seed_filename": "cross-cultural-psychology-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

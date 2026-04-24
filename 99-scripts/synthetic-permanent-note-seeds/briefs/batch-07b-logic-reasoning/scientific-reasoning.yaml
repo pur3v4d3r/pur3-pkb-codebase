@@ -1,0 +1,43 @@
+concept: Scientific Reasoning
+domain: philosophy-of-science
+secondary_domains:
+- reasoning
+- methodology
+aliases:
+- scientific method
+- scientific inference
+broader:
+- reasoning
+- philosophy-of-science
+related:
+- hypothesis-testing
+- falsificationism
+- bayesian-confirmation
+- inductive-reasoning
+- abductive-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Scientific Reasoning
+  body: Scientific Reasoning is the family of inferential and investigative practices
+    used to generate, test, and revise empirical knowledge — including hypothesis
+    generation, prediction, controlled observation and experimentation, statistical
+    inference, theory comparison, and meta-analytic synthesis — and is the methodological
+    core of the empirical sciences.
+- type: key-claim
+  title: Key claim about Scientific Reasoning
+  body: 'Scientific Reasoning is not a single algorithm but a *cluster of practices*
+    whose specific composition varies across disciplines: the inferential profile
+    of high-energy physics differs from that of evolutionary biology, which differs
+    again from that of clinical epidemiology and from the human sciences, and pedagogy
+    that teaches a generic "scientific method" misrepresents the diversity of what
+    working scientists actually do.'
+- type: warning
+  title: Common pitfall regarding Scientific Reasoning
+  body: Scientific Reasoning is widely taught as the simple Popperian falsification
+    model, but contemporary philosophy of science (Kuhn, Lakatos, Laudan, contemporary
+    Bayesians) has substantially complicated this picture — theories are rarely abandoned
+    on single failed predictions, auxiliary assumptions absorb most disconfirmation,
+    and theory choice involves comparison rather than isolated testing — so consumers
+    of science should not expect actual practice to match the simplified textbook
+    account.

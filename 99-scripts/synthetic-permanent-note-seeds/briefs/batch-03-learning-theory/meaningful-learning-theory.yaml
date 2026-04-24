@@ -1,0 +1,39 @@
+concept: Meaningful Learning Theory
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- education
+aliases:
+- Ausubel's theory
+- subsumption theory
+broader:
+- cognitive-theories-of-learning
+related:
+- schema-theory-and-learning
+- prior-knowledge
+- advance-organiser
+- assimilation
+prerequisites:
+- cognitive-theories-of-learning
+confidence: high
+callouts:
+- type: definition
+  title: Meaningful Learning Theory
+  body: Meaningful Learning Theory, developed by David Ausubel, distinguishes meaningful
+    from rote acquisition by whether new material is consciously related to relevant
+    existing concepts in the learner's cognitive structure, and holds that "the most
+    important single factor influencing learning is what the learner already knows."
+- type: key-claim
+  title: Key claim about Meaningful Learning Theory
+  body: Meaningful Learning Theory operationalises its central claim through the [[advance-organiser]]
+    — a high-level conceptual scaffold presented before detailed material — that activates
+    relevant prior knowledge and provides anchoring concepts to which new content
+    can be assimilated, producing measurably better integration and retention than
+    expository teaching alone.
+- type: warning
+  title: Common pitfall regarding Meaningful Learning Theory
+  body: Meaningful Learning Theory's prescription presupposes that the learner *has*
+    relevant prior knowledge to anchor to; for genuine novices in a domain, advance
+    organisers can present a vocabulary the learner cannot yet parse, creating a second
+    layer of confusion rather than scaffolding — which is why advance-organiser effectiveness
+    is moderated by prior-knowledge level.

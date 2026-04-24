@@ -1,0 +1,40 @@
+concept: Confirmation Bias
+domain: cognitive-psychology
+secondary_domains:
+- judgement-and-decision-making
+- social-psychology
+aliases:
+- confirmatory bias
+- my-side bias
+broader:
+- cognitive-bias
+related:
+- motivated-reasoning
+- selective-exposure
+- disconfirmation-bias
+- wason-task
+confidence: high
+callouts:
+- type: definition
+  title: Confirmation Bias
+  body: Confirmation Bias, named by Wason (1960), is the systematic tendency to seek,
+    interpret, and remember information in ways that confirm pre-existing beliefs
+    and to under-weight, dismiss, or fail to recall disconfirming information — a
+    robust pattern observed across hypothesis testing, belief evaluation, and information
+    consumption.
+- type: key-claim
+  title: Key claim about Confirmation Bias
+  body: Confirmation Bias is one of the most thoroughly replicated cognitive biases
+    in the literature, operating across topic areas (politics, science, social judgement)
+    and through multiple mechanisms (selective exposure, biased interpretation of
+    mixed evidence, asymmetric scrutiny of supportive vs. contrary information, biased
+    memory retrieval), making it a structural rather than incidental feature of human
+    cognition.
+- type: warning
+  title: Common pitfall regarding Confirmation Bias
+  body: Confirmation Bias is frequently invoked as an all-purpose explanation for
+    any belief one disagrees with, but the diagnosis "you have Confirmation Bias"
+    tends to be itself an instance of Confirmation Bias if applied selectively to
+    the other side; rigorous application requires looking for the same patterns in
+    one's own reasoning, which is psychologically aversive enough that it is rarely
+    done.

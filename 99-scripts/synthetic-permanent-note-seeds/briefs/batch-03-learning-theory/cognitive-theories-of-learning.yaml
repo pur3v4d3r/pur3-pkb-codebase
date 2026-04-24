@@ -1,0 +1,42 @@
+concept: Cognitive Theories of Learning
+domain: learning-science
+secondary_domains:
+- cognitive-science
+aliases:
+- cognitivist learning theory
+broader:
+- learning-theories
+narrower:
+- information-processing-theory
+- schema-theory-and-learning
+- cognitive-load-theory
+- cognitive-theory-of-multimedia-learning
+related:
+- psychology-of-learning
+- constructivism
+prerequisites:
+- learning-theories
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Theories of Learning
+  body: Cognitive Theories of Learning are the family of accounts that explain acquisition
+    in terms of internal mental representations and processes — schemas, working memory,
+    attention, encoding, retrieval — rather than in terms of stimulus-response associations
+    or social practice, and provide the dominant theoretical foundation of contemporary
+    instructional design.
+- type: key-claim
+  title: Key claim about Cognitive Theories of Learning
+  body: 'Cognitive Theories of Learning differ in commitments (symbolic vs. connectionist,
+    modular vs. unified, rule-based vs. case-based) but share the move that makes
+    evidence-based pedagogy possible: the postulation of internal mechanisms whose
+    properties (capacity limits, encoding rules, retrieval dynamics) generate testable
+    predictions about which instructional conditions will work.'
+- type: warning
+  title: Common pitfall regarding Cognitive Theories of Learning
+  body: Cognitive Theories of Learning have historically under-weighted social, motivational,
+    and embodied dimensions of acquisition; a curriculum designed purely from Cognitive
+    Theories of Learning often produces well-encoded but unmotivated learners whose
+    acquired knowledge fails to transfer to authentic practice — which is the recurring
+    complaint that constructivist and situated theorists raise.

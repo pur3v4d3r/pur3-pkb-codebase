@@ -1,0 +1,40 @@
+concept: Procedural Schemas
+domain: cognitive-science
+secondary_domains:
+- learning-science
+- skill-acquisition
+aliases:
+- procedural knowledge schemas
+- production rules
+broader:
+- schema-theory
+- knowledge-schemas
+related:
+- declarative-schemas
+- procedural-memory
+- automaticity
+- act-r
+prerequisites:
+- schema-theory
+confidence: high
+callouts:
+- type: definition
+  title: Procedural Schemas
+  body: Procedural Schemas are organised structures encoding *how* to perform tasks
+    — condition-action rules, action sequences, problem-solving operators — that mediate
+    skilled performance and become increasingly automatic and tacit with practice,
+    in contrast to the declarative knowledge structures that describe domains.
+- type: key-claim
+  title: Key claim about Procedural Schemas
+  body: Procedural Schemas in cognitive architectures like ACT-R are typically formalised
+    as condition-action production rules whose firing patterns produce skilled behaviour;
+    this formalism captures the empirical pattern that procedural skill becomes faster,
+    less error-prone, and less attention-demanding with practice while remaining hard
+    to verbalise.
+- type: warning
+  title: Common pitfall regarding Procedural Schemas
+  body: Procedural Schemas acquired through practice on narrow problem types do not
+    automatically generalise to structurally similar but superficially different problems;
+    the [[encoding-specificity-principle]] applies — Procedural Schemas are bound
+    to the cue conditions present during their acquisition, which is why varied practice
+    is required to produce procedurally robust performance.

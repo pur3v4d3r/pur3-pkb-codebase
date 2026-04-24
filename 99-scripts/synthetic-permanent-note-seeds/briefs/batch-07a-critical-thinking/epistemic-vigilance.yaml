@@ -1,0 +1,39 @@
+concept: Epistemic Vigilance
+domain: epistemology
+secondary_domains:
+- evolutionary-psychology
+- social-cognition
+aliases:
+- vigilance toward testimony
+broader:
+- epistemology
+- social-cognition
+related:
+- sperber
+- mercier-and-sperber
+- testimony
+- deception-detection
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Vigilance
+  body: Epistemic Vigilance, theorised by Dan Sperber and colleagues (2010), is the
+    suite of cognitive mechanisms that humans deploy to evaluate the trustworthiness
+    of testimony and the plausibility of communicated content — calibrating belief
+    against source competence and benevolence, and against the content's coherence
+    with one's existing knowledge.
+- type: key-claim
+  title: Key claim about Epistemic Vigilance
+  body: 'Epistemic Vigilance, in Mercier and Sperber''s argumentative theory of reasoning,
+    is the evolutionary context for human reasoning capacities: reasoning evolved
+    primarily for the social tasks of evaluating others'' arguments and producing
+    defensible ones, which explains why reasoning works well in dialectical contexts
+    and so often produces motivated, biased outputs in solitary belief-formation.'
+- type: warning
+  title: Common pitfall regarding Epistemic Vigilance
+  body: Epistemic Vigilance is well-tuned for face-to-face communication with known
+    individuals but is poorly adapted for contemporary information environments —
+    anonymous online sources, algorithmically curated feeds, deepfakes — where the
+    cues Epistemic Vigilance evolved to use (social context, identifiable source,
+    coherent reputation) are absent or simulated; productive deployment in these environments
+    requires explicit augmentation rather than reliance on intuitive vigilance alone.

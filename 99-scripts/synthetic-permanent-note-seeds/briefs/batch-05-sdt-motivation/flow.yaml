@@ -1,0 +1,38 @@
+concept: Flow
+domain: motivation-research
+secondary_domains:
+- positive-psychology
+- performance-psychology
+aliases:
+- flow state
+- optimal experience
+broader:
+- intrinsic-motivation-research
+related:
+- csikszentmihalyi
+- autotelic-experience
+- challenge-skill-balance
+- deep-work
+confidence: high
+callouts:
+- type: definition
+  title: Flow
+  body: Flow, as defined by Mihaly Csikszentmihalyi, is the autotelic experience of
+    complete absorption in an activity that occurs when challenge and skill are both
+    high and roughly matched, characterised by merged action and awareness, intense
+    concentration, distorted time perception, and intrinsic reward derived from the
+    activity itself.
+- type: key-claim
+  title: Key claim about Flow
+  body: Flow predicts high engagement, intrinsic motivation, and skill development
+    because the conditions that produce it — clear goals, immediate feedback, optimal
+    challenge — are also the conditions that produce sustained deliberate practice;
+    designing environments that reliably afford Flow is therefore a high-leverage
+    intervention for both performance and well-being.
+- type: warning
+  title: Common pitfall regarding Flow
+  body: Flow is sometimes treated as a universal good, but it can occur during ethically
+    problematic activities (skilled gambling, manipulative work, violent games) and
+    can become addictive in ways that crowd out other valued activities; the experience
+    of Flow is content-neutral, and its goodness depends on the goodness of what one
+    is absorbed in.

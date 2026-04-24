@@ -1,0 +1,42 @@
+concept: Cognitive Theory of Multimedia Learning
+domain: cognitive-science
+secondary_domains:
+- learning-science
+- instructional-design
+aliases:
+- CTML
+- Mayer's CTML
+broader:
+- learning-theories
+- cognitive-load-theory
+related:
+- dual-coding-theory
+- redundancy-effect
+- modality-effect
+- coherence-principle
+prerequisites:
+- cognitive-load-theory
+- dual-coding-theory
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Theory of Multimedia Learning
+  body: The Cognitive Theory of Multimedia Learning, developed by Richard Mayer, integrates
+    [[dual-coding-theory]], [[cognitive-load-theory]], and active-learning constructivism
+    into an empirically tested framework for designing instruction that uses words
+    and pictures together, formalised as a set of design principles each backed by
+    experimental contrast studies.
+- type: key-claim
+  title: Key claim about Cognitive Theory of Multimedia Learning
+  body: The Cognitive Theory of Multimedia Learning's principles — coherence, signaling,
+    redundancy, spatial contiguity, temporal contiguity, segmenting, pre-training,
+    modality, multimedia, personalisation, voice — are the most empirically validated
+    set of instructional-design rules in the field, with dozens of independent replications
+    across content domains.
+- type: warning
+  title: Common pitfall regarding Cognitive Theory of Multimedia Learning
+  body: The Cognitive Theory of Multimedia Learning's principles assume novice learners;
+    many of them reverse for experts (the "expertise-reversal effect") because what
+    scaffolds a novice becomes redundant and load-inducing for an expert, which is
+    why generic application of CTML rules to advanced learners can degrade rather
+    than improve learning.

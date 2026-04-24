@@ -1,0 +1,42 @@
+concept: Dual Coding Theory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- multimedia-learning
+aliases:
+- dual-coding
+- DCT
+- Paivio's theory
+broader:
+- memory-systems
+- levels-of-processing
+related:
+- cognitive-theory-of-multimedia-learning
+- modality-effect
+- elaborative-rehearsal
+- mental-imagery
+prerequisites:
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Dual Coding Theory
+  body: Dual Coding Theory, developed by Allan Paivio, holds that human cognition
+    is supported by two functionally and structurally distinct symbolic systems —
+    a verbal system processing language-like representations and a non-verbal imagery
+    system processing analog representations — that interact bidirectionally and jointly
+    support memory and meaning.
+- type: key-claim
+  title: Key claim about Dual Coding Theory
+  body: Dual Coding Theory predicts that material encoded in both systems is remembered
+    better than material encoded in only one, because two independent retrieval routes
+    exist; this prediction has driven decades of research on imagery-based mnemonic
+    devices, illustrated text effects, and the multimedia design principles formalised
+    by Mayer's [[cognitive-theory-of-multimedia-learning]].
+- type: warning
+  title: Common pitfall regarding Dual Coding Theory
+  body: Dual Coding Theory is often invoked to justify "always add a picture," but
+    the gain depends on the picture being semantically integrative rather than decorative;
+    irrelevant or merely-illustrative imagery can compete for limited resources rather
+    than augment them, and the [[redundancy-effect]] from CLT identifies cases where
+    the supposedly dual encoding produces interference instead of facilitation.

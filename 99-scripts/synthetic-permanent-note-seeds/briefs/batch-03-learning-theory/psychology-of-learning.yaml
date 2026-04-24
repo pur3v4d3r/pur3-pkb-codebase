@@ -1,0 +1,40 @@
+concept: Psychology of Learning
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- psychology
+aliases:
+- learning psychology
+broader:
+- educational-psychology
+- learning-science
+related:
+- principles-of-learning
+- learning-theories
+- learning-processes
+- behaviourism
+prerequisites:
+- educational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Psychology of Learning
+  body: The Psychology of Learning is the subfield investigating how organisms acquire,
+    retain, and modify knowledge and skill — historically organised around behaviourist
+    conditioning paradigms and now dominated by cognitive accounts of memory, attention,
+    and skill acquisition — and provides the bridge between basic cognitive science
+    and instructional design.
+- type: key-claim
+  title: Key claim about Psychology of Learning
+  body: The Psychology of Learning establishes that learning is not a single phenomenon
+    but a federation of processes (conditioning, perceptual learning, declarative
+    encoding, skill acquisition, social learning) each governed by partially distinct
+    rules; pedagogy that conflates them under "learning" misapplies findings from
+    one process to a context governed by another.
+- type: warning
+  title: Common pitfall regarding Psychology of Learning
+  body: The Psychology of Learning's most well-replicated findings (spacing, retrieval
+    practice, interleaving) are widely cited but unevenly applied; the gap between
+    knowing the Psychology of Learning principles and embedding them in routine practice
+    is large enough that practitioner training in *implementation*, not just principles,
+    is the binding constraint on uptake.

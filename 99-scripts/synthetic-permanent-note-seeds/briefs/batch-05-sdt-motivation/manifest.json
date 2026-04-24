@@ -1,0 +1,156 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "batch-05-sdt-motivation",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-batch-05-sdt-motivation.md",
+    "notes": "Batch 5 of 8. Focus: self-determination theory subtheories\n(basic psychological needs, causality orientations, relationships,\ngoal contents), need-support and thwarting, autonomous regulation,\ngoal orientations, attachment, flow, eudaimonia, emotions in learning."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/batch-05-sdt-motivation",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-batch-05-sdt-motivation"
+  },
+  "counts": {
+    "parsed": 22,
+    "accepted": 22,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Autonomy Need",
+      "kebab": "autonomy-need",
+      "brief_path": "briefs/batch-05-sdt-motivation/autonomy-need.yaml",
+      "expected_seed_filename": "autonomy-need-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Competence Need",
+      "kebab": "competence-need",
+      "brief_path": "briefs/batch-05-sdt-motivation/competence-need.yaml",
+      "expected_seed_filename": "competence-need-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Relatedness Need",
+      "kebab": "relatedness-need",
+      "brief_path": "briefs/batch-05-sdt-motivation/relatedness-need.yaml",
+      "expected_seed_filename": "relatedness-need-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Need Thwarting",
+      "kebab": "need-thwarting",
+      "brief_path": "briefs/batch-05-sdt-motivation/need-thwarting.yaml",
+      "expected_seed_filename": "need-thwarting-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Need Support",
+      "kebab": "need-support",
+      "brief_path": "briefs/batch-05-sdt-motivation/need-support.yaml",
+      "expected_seed_filename": "need-support-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Autonomous Regulation",
+      "kebab": "autonomous-regulation",
+      "brief_path": "briefs/batch-05-sdt-motivation/autonomous-regulation.yaml",
+      "expected_seed_filename": "autonomous-regulation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "General Causality Orientations Scale",
+      "kebab": "general-causality-orientations-scale",
+      "brief_path": "briefs/batch-05-sdt-motivation/general-causality-orientations-scale.yaml",
+      "expected_seed_filename": "general-causality-orientations-scale-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Causality Orientations Theory",
+      "kebab": "causality-orientations-theory",
+      "brief_path": "briefs/batch-05-sdt-motivation/causality-orientations-theory.yaml",
+      "expected_seed_filename": "causality-orientations-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Relationship Motivation Theory",
+      "kebab": "relationship-motivation-theory",
+      "brief_path": "briefs/batch-05-sdt-motivation/relationship-motivation-theory.yaml",
+      "expected_seed_filename": "relationship-motivation-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Goal Contents Theory",
+      "kebab": "goal-contents-theory",
+      "brief_path": "briefs/batch-05-sdt-motivation/goal-contents-theory.yaml",
+      "expected_seed_filename": "goal-contents-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Overjustification Effect",
+      "kebab": "overjustification-effect",
+      "brief_path": "briefs/batch-05-sdt-motivation/overjustification-effect.yaml",
+      "expected_seed_filename": "overjustification-effect-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Motivational Interviewing",
+      "kebab": "motivational-interviewing",
+      "brief_path": "briefs/batch-05-sdt-motivation/motivational-interviewing.yaml",
+      "expected_seed_filename": "motivational-interviewing-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Attachment Theory",
+      "kebab": "attachment-theory",
+      "brief_path": "briefs/batch-05-sdt-motivation/attachment-theory.yaml",
+      "expected_seed_filename": "attachment-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Flow",
+      "kebab": "flow",
+      "brief_path": "briefs/batch-05-sdt-motivation/flow.yaml",
+      "expected_seed_filename": "flow-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Amotivation",
+      "kebab": "amotivation",
+      "brief_path": "briefs/batch-05-sdt-motivation/amotivation.yaml",
+      "expected_seed_filename": "amotivation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Eudaimonia",
+      "kebab": "eudaimonia",
+      "brief_path": "briefs/batch-05-sdt-motivation/eudaimonia.yaml",
+      "expected_seed_filename": "eudaimonia-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Mastery Goal Orientation",
+      "kebab": "mastery-goal-orientation",
+      "brief_path": "briefs/batch-05-sdt-motivation/mastery-goal-orientation.yaml",
+      "expected_seed_filename": "mastery-goal-orientation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Performance Goal Orientation",
+      "kebab": "performance-goal-orientation",
+      "brief_path": "briefs/batch-05-sdt-motivation/performance-goal-orientation.yaml",
+      "expected_seed_filename": "performance-goal-orientation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Ego Involvement",
+      "kebab": "ego-involvement",
+      "brief_path": "briefs/batch-05-sdt-motivation/ego-involvement.yaml",
+      "expected_seed_filename": "ego-involvement-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Feedback Design for Autonomy and Mastery",
+      "kebab": "feedback-design-for-autonomy-and-mastery",
+      "brief_path": "briefs/batch-05-sdt-motivation/feedback-design-for-autonomy-and-mastery.yaml",
+      "expected_seed_filename": "feedback-design-for-autonomy-and-mastery-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Academic Emotions",
+      "kebab": "academic-emotions",
+      "brief_path": "briefs/batch-05-sdt-motivation/academic-emotions.yaml",
+      "expected_seed_filename": "academic-emotions-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Emotional Regulation",
+      "kebab": "emotional-regulation",
+      "brief_path": "briefs/batch-05-sdt-motivation/emotional-regulation.yaml",
+      "expected_seed_filename": "emotional-regulation-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

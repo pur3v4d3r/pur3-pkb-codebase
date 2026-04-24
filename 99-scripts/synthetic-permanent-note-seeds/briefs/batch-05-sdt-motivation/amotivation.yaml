@@ -1,0 +1,39 @@
+concept: Amotivation
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+aliases:
+- absence of motivation
+broader:
+- self-determination-theory
+- organismic-integration-theory
+related:
+- learned-helplessness
+- demoralisation
+- autonomous-regulation
+- controlled-regulation
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Amotivation
+  body: Amotivation, in Self-Determination Theory, is the state of acting without
+    intentionality or with a sense that the action is meaningless or beyond one's
+    control — distinct from intrinsic and extrinsic motivation in that it represents
+    the absence of regulation rather than a particular regulatory style — and is predicted
+    by chronic need thwarting and helplessness experiences.
+- type: key-claim
+  title: Key claim about Amotivation
+  body: Amotivation predicts disengagement, withdrawal, and poor performance more
+    reliably than any single deficit in autonomous regulation, and is the typical
+    end-state of sustained exposure to controlling, incompetence-inducing, or rejecting
+    environments — which is why SDT treats Amotivation as a clinical-significance
+    signal rather than as a mere motivation deficit.
+- type: warning
+  title: Common pitfall regarding Amotivation
+  body: 'Amotivation is often misread as laziness or character defect, but SDT''s
+    analysis points to environmental causation: a learner who has been chronically
+    need-thwarted will appear amotivated even in subsequently supportive environments
+    because the working model that "effort doesn''t matter" persists; rebuilding requires
+    sustained need support, not exhortation.'

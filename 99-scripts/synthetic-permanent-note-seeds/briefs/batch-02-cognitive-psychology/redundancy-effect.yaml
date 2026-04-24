@@ -1,0 +1,38 @@
+concept: Redundancy Effect
+domain: cognitive-science
+secondary_domains:
+- learning-science
+- instructional-design
+aliases:
+- redundancy principle
+broader:
+- cognitive-theory-of-multimedia-learning
+- cognitive-load-theory
+related:
+- modality-effect
+- expertise-reversal-effect
+- split-attention-effect
+prerequisites:
+- cognitive-load-theory
+confidence: high
+callouts:
+- type: definition
+  title: Redundancy Effect
+  body: The Redundancy Effect is the empirical finding that adding on-screen text
+    that *duplicates* spoken narration degrades rather than improves multimedia learning,
+    because the learner is forced to mentally reconcile two redundant verbal streams
+    that compete for the same phonological-loop resources.
+- type: key-claim
+  title: Key claim about Redundancy Effect
+  body: 'The Redundancy Effect is one of the most counter-intuitive findings in instructional
+    design: pedagogically well-meaning practices like simultaneous narration plus
+    full-text captions for non-disabled learners actively reduce learning, which has
+    guided Mayer''s coherence-related principles toward eliminating, not adding, redundant
+    verbal channels.'
+- type: warning
+  title: Common pitfall regarding Redundancy Effect
+  body: 'The Redundancy Effect does not generalise to all learners or all conditions:
+    for second-language learners, hearing-impaired learners, or learners encountering
+    technical vocabulary for the first time, captions cease to be redundant and become
+    essential; the Redundancy Effect is a default for fluent native learners that
+    must be conditionally suspended in accessibility-sensitive design.'

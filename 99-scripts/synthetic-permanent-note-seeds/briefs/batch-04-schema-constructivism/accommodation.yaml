@@ -1,0 +1,42 @@
+concept: Accommodation
+domain: cognitive-science
+secondary_domains:
+- developmental-psychology
+- learning-science
+aliases:
+- Piagetian accommodation
+broader:
+- genetic-epistemology
+- learning-processes
+related:
+- assimilation
+- cognitive-disequilibrium
+- conceptual-change
+- schema-theory
+prerequisites:
+- genetic-epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Accommodation
+  body: Accommodation, in Piaget's framework, is the cognitive process by which existing
+    schemas are restructured to fit input that resists [[assimilation]] — a child
+    confronted with the structural difference between zebras and horses revises the
+    animal schema to accommodate the new category — and is the productive but effortful
+    pole of cognitive adaptation.
+- type: key-claim
+  title: Key claim about Accommodation
+  body: 'Accommodation is triggered by [[cognitive-disequilibrium]]: when the gap
+    between schema and input becomes too large to ignore through assimilation, the
+    system either restructures (Accommodation) or rejects the input; pedagogy that
+    wants to produce structural learning must engineer the disequilibrium that motivates
+    Accommodation rather than allowing learners to assimilate the input into unchanged
+    structure.'
+- type: warning
+  title: Common pitfall regarding Accommodation
+  body: Accommodation is cognitively expensive and is selectively avoided by motivated
+    reasoning when the existing schema is identity-relevant or socially important;
+    understanding why people resist updating their views about politically charged
+    scientific findings (climate, vaccines) requires recognising that Accommodation
+    is not a purely cold cognitive computation but is gated by motivational defences
+    against schema change.

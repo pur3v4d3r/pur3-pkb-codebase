@@ -1,0 +1,40 @@
+concept: Generative Learning Theory
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- instructional-design
+aliases:
+- generative learning
+- GLT
+broader:
+- cognitive-theories-of-learning
+related:
+- elaboration
+- self-explanation
+- summarisation
+- concept-mapping
+- deep-processing
+prerequisites:
+- cognitive-theories-of-learning
+confidence: high
+callouts:
+- type: definition
+  title: Generative Learning Theory
+  body: Generative Learning Theory, traceable to Wittrock (1974) and updated by Fiorella
+    and Mayer (2016), holds that meaningful learning occurs when learners actively
+    *generate* relations between new material and prior knowledge through specific
+    activities — summarising, mapping, drawing, imagining, self-testing, self-explaining,
+    teaching, enacting — rather than passively receiving content.
+- type: key-claim
+  title: Key claim about Generative Learning Theory
+  body: Generative Learning Theory predicts that the same exposure produces qualitatively
+    different learning depending on whether the learner generates connections during
+    study; meta-analyses confirm moderate-to-large benefits across the generative
+    activities, with the strongest evidence for self-explanation and self-testing.
+- type: warning
+  title: Common pitfall regarding Generative Learning Theory
+  body: Generative Learning Theory is commonly mistranslated as "any active task is
+    better than passive reading," but generative *activity* must operate on the *target
+    content* and produce semantic integration; busy-work generation (transcribing
+    notes, recopying highlights) feels active but does not generate the integrative
+    connections the theory specifies and therefore yields little benefit.

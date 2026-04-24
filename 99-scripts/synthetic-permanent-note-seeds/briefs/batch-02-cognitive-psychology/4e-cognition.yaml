@@ -1,0 +1,42 @@
+concept: 4E Cognition
+domain: cognitive-science
+secondary_domains:
+- philosophy-of-mind
+aliases:
+- 4e cognition
+- embodied embedded enactive extended
+broader:
+- cognitive-science
+narrower:
+- embodied-cognition
+- enactive-cognition
+- extended-mind
+- embedded-cognition
+related:
+- distributed-cognition
+- ecological-psychology
+- predictive-processing
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: 4E Cognition
+  body: 4E Cognition is the umbrella term for four post-classical commitments — Embodied
+    (constituted by bodily systems), Embedded (continuously coupled to context), Enactive
+    (emerging through action-environment dynamics), and Extended (legitimately incorporating
+    external tools) — that together challenge the brain-bound, computational picture
+    of mind.
+- type: key-claim
+  title: Key claim about 4E Cognition
+  body: '4E Cognition reframes the unit of analysis for understanding cognitive performance:
+    rather than asking what is "in the head," analysis should specify the brain-body-environment
+    system whose joint dynamics produce the behaviour, which has direct payoff for
+    designing learning environments rather than only learners.'
+- type: warning
+  title: Common pitfall regarding 4E Cognition
+  body: 4E Cognition is a family of partially overlapping and partially conflicting
+    positions, not a single theory; pedagogical proposals that invoke "4E" as if it
+    were unified usually pick favourite elements (embodiment for gesture, extended
+    mind for note-taking) without committing to the deeper enactive critique that
+    they often presuppose.

@@ -1,0 +1,41 @@
+concept: Active Note Making
+domain: personal-knowledge-management
+secondary_domains:
+- learning-science
+- study-skills
+aliases:
+- active note-making
+- generative note-making
+broader:
+- note-making-vs-note-taking
+related:
+- note-making-vs-note-taking
+- zettelkasten
+- elaboration
+- self-explanation
+prerequisites:
+- note-making-vs-note-taking
+confidence: high
+callouts:
+- type: definition
+  title: Active Note Making
+  body: Active Note Making is the disciplined practice of producing notes through
+    generative cognitive operations — reformulating in one's own words, connecting
+    to prior knowledge, identifying open questions, recording disagreements with the
+    source — rather than through transcription or passive summary, and is the cognitive
+    engine that makes a Personal Knowledge Base durable rather than archival.
+- type: key-claim
+  title: Key claim about Active Note Making
+  body: Active Note Making is the practical implementation of the elaboration and
+    self-explanation interventions that the empirical learning-science literature
+    has shown to substantially improve retention and transfer; the cognitive operations
+    that make those interventions work — paraphrase, comparison, integration, question-generation
+    — are precisely what Active Note Making routinely demands.
+- type: warning
+  title: Common pitfall regarding Active Note Making
+  body: Active Note Making is more cognitively demanding than transcription and is
+    therefore reliably skipped under time pressure in favour of capture-only practices
+    that *feel* productive but produce little durable understanding; sustaining Active
+    Note Making requires explicit time allocation rather than fitting it into the
+    residual after capture, and PKM systems whose design encourages capture without
+    processing reliably starve Active Note Making.

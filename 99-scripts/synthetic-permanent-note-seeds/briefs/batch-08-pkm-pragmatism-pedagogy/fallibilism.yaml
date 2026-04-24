@@ -1,0 +1,39 @@
+concept: Fallibilism
+domain: epistemology
+secondary_domains:
+- philosophy
+- philosophy-of-science
+aliases:
+- epistemic fallibilism
+broader:
+- epistemology
+related:
+- pragmatism
+- intellectual-humility
+- scepticism
+- peirce
+- popper
+confidence: high
+callouts:
+- type: definition
+  title: Fallibilism
+  body: Fallibilism is the epistemological position — central to Peirce's pragmatism
+    and prominent in Popperian and contemporary epistemology — that no empirical belief
+    is immune to revision in light of further evidence or argument, even beliefs we
+    are presently most warranted in holding, and that this in-principle revisability
+    does not undermine warrant but is constitutive of responsible inquiry.
+- type: key-claim
+  title: Key claim about Fallibilism
+  body: 'Fallibilism is the position that resolves the false dichotomy between dogmatic
+    certainty and corrosive scepticism: one can rationally hold a belief with high
+    confidence while acknowledging that confidence could in principle be defeated
+    by evidence, and the openness to defeat is what distinguishes Fallibilism from
+    dogmatism, while the high-confidence holding is what distinguishes it from scepticism.'
+- type: warning
+  title: Common pitfall regarding Fallibilism
+  body: 'Fallibilism is often equated with "I might be wrong about anything," but
+    the productive form of Fallibilism is *calibrated*: one is more fallible about
+    some beliefs than others, and the discipline is in correctly tracking which beliefs
+    are well-warranted and which are weakly warranted — a discipline that requires
+    substantive evidential engagement rather than blanket professions of fallibility
+    that make no distinctions.'

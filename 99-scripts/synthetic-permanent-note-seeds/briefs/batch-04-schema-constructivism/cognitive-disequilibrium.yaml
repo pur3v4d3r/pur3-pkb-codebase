@@ -1,0 +1,39 @@
+concept: Cognitive Disequilibrium
+domain: cognitive-science
+secondary_domains:
+- developmental-psychology
+- learning-science
+aliases:
+- disequilibration
+broader:
+- genetic-epistemology
+- learning-processes
+related:
+- assimilation
+- accommodation
+- productive-failure
+- conceptual-change
+prerequisites:
+- genetic-epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Disequilibrium
+  body: Cognitive Disequilibrium, in Piagetian terms, is the state in which a learner
+    encounters input that cannot be assimilated by existing schemas — producing surprise,
+    confusion, contradiction, or conflict — and which motivates the schema restructuring
+    (accommodation) that constitutes structural learning.
+- type: key-claim
+  title: Key claim about Cognitive Disequilibrium
+  body: 'Cognitive Disequilibrium is the engine of conceptual change: pedagogies that
+    successfully produce schema restructuring (Socratic questioning, productive failure,
+    counter-example sequences, anomalous data) all share the strategy of inducing
+    Cognitive Disequilibrium and then supporting the learner through resolution rather
+    than relieving the disequilibrium prematurely.'
+- type: warning
+  title: Common pitfall regarding Cognitive Disequilibrium
+  body: Cognitive Disequilibrium is productive only when the learner has the resources
+    to resolve it; when disequilibrium exceeds the learner's capacity, it produces
+    frustration, withdrawal, or the entrenchment of the original schema as a defensive
+    response, which is why "challenging" instruction without adequate scaffolding
+    so reliably backfires for novices.

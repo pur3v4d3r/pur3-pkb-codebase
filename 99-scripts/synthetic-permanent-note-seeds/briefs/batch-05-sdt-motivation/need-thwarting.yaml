@@ -1,0 +1,40 @@
+concept: Need Thwarting
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- well-being-research
+aliases:
+- psychological-need thwarting
+broader:
+- self-determination-theory
+related:
+- need-support
+- ill-being
+- controlling-environment
+- psychological-need-frustration
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Need Thwarting
+  body: Need Thwarting, in Self-Determination Theory, refers to environmental conditions
+    and interactions that *actively frustrate* the basic psychological needs — controlling
+    pressure that thwarts autonomy, demeaning feedback that thwarts competence, rejecting
+    or conditional treatment that thwarts relatedness — distinct from mere absence
+    of support.
+- type: key-claim
+  title: Key claim about Need Thwarting
+  body: Need Thwarting predicts ill-being, defensive disengagement, and psychopathology
+    more strongly than mere need *non*-support predicts well-being; the asymmetry
+    is empirically robust and has the practical implication that removing thwarting
+    conditions is more urgent than adding supportive ones — bad environments harm
+    more than good environments help.
+- type: warning
+  title: Common pitfall regarding Need Thwarting
+  body: 'Need Thwarting is often invisible to the thwarting party: well-intentioned
+    controlling pressure ("for your own good") thwarts autonomy regardless of intent,
+    and well-meant comparative feedback ("you''re doing better than X") can thwart
+    competence by recasting performance as zero-sum; reducing Need Thwarting requires
+    explicit attention to the *experience* of those affected, not the intent of those
+    acting.'

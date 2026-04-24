@@ -1,0 +1,42 @@
+concept: Performance Phase
+domain: self-regulated-learning
+secondary_domains:
+- metacognition-research
+- learning-science
+aliases:
+- Zimmerman performance phase
+- volitional control phase
+broader:
+- self-regulated-learning
+- zimmerman-srl-model
+related:
+- forethought-phase
+- self-reflection-phase
+- self-control
+- self-observation
+- task-strategies
+prerequisites:
+- self-regulated-learning
+confidence: high
+callouts:
+- type: definition
+  title: Performance Phase
+  body: The Performance Phase, in Zimmerman's three-phase model of self-regulated
+    learning, is the phase in which the learner executes the planned approach while
+    engaging in self-control (using attention focusing, task strategies, self-instruction,
+    environmental structuring) and self-observation (monitoring performance through
+    self-recording and metacognitive monitoring).
+- type: key-claim
+  title: Key claim about Performance Phase
+  body: 'The Performance Phase is where forethought either pays off or breaks down:
+    well-formulated plans from the forethought phase still require deliberate enactment,
+    monitoring, and adjustment in the Performance Phase, and learners with rich planning
+    vocabularies but weak Performance Phase routines reliably fail to convert intentions
+    into outcomes.'
+- type: warning
+  title: Common pitfall regarding Performance Phase
+  body: The Performance Phase is the hardest phase to support remotely or asynchronously
+    because it occurs *during* the work itself; instructional approaches that focus
+    heavily on pre-task planning and post-task reflection but provide no scaffolding
+    during the Performance Phase systematically miss the moment where most regulation
+    actually happens or fails to happen.

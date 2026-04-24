@@ -1,0 +1,40 @@
+concept: Multi-Store Model
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- history-of-cognitive-science
+aliases:
+- Atkinson-Shiffrin model
+- modal model
+broader:
+- memory-systems
+- cognitive-architecture
+related:
+- short-term-memory
+- long-term-memory
+- working-memory
+- sensory-memory
+prerequisites:
+- memory-systems
+confidence: high
+callouts:
+- type: definition
+  title: Multi-Store Model
+  body: The Multi-Store Model, proposed by Atkinson and Shiffrin (1968), partitions
+    human memory into three sequential stores — sensory register, short-term store,
+    and long-term store — connected by control processes such as attention, rehearsal,
+    and retrieval, providing the framework against which all subsequent working-memory
+    theories were developed.
+- type: key-claim
+  title: Key claim about Multi-Store Model
+  body: The Multi-Store Model's central commitment is that information must pass through
+    a limited-capacity short-term stage to enter long-term storage, which makes the
+    bottleneck at [[short-term-memory]] the principal locus of instructional design
+    — a commitment inherited by [[cognitive-load-theory]] decades later.
+- type: warning
+  title: Common pitfall regarding Multi-Store Model
+  body: 'The Multi-Store Model has been substantially superseded: it cannot accommodate
+    evidence that long-term knowledge influences short-term performance (chunking),
+    that [[working-memory]] supports manipulation as well as storage, or that brain
+    damage can dissociate STM and LTM in either direction; treating it as a current
+    theory rather than an influential historical scaffold misrepresents the field.'

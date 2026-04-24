@@ -1,0 +1,38 @@
+concept: Obsidian
+domain: personal-knowledge-management
+secondary_domains:
+- tools
+- software
+aliases:
+- Obsidian.md
+- Obsidian app
+broader:
+- pkm-tools
+related:
+- zettelkasten
+- wiki-links
+- personal-knowledge-base
+- markdown
+- plugin-ecosystem
+confidence: high
+callouts:
+- type: definition
+  title: Obsidian
+  body: Obsidian is a local-first, markdown-based personal knowledge management application
+    built around bidirectional wiki-links and a graph view, with a substantial third-party
+    plugin ecosystem (Dataview, Templater, Tasks, QuickAdd, Meta-Bind) that extends
+    the core app into a programmable knowledge environment.
+- type: key-claim
+  title: Key claim about Obsidian
+  body: Obsidian's design choices — plain-text markdown files in a local folder, wiki-links
+    as the primary connection mechanism, plugin-based extensibility — make it especially
+    well-suited to long-horizon personal knowledge bases where data portability, longevity,
+    and customisation matter more than collaboration features or polish, which is
+    why it has become the dominant tool for serious Zettelkasten and PKM practitioners.
+- type: warning
+  title: Common pitfall regarding Obsidian
+  body: 'Obsidian''s plugin ecosystem produces real value but also a real risk: heavy
+    plugin reliance creates lock-in to specific plugin behaviours and frontmatter
+    conventions, and notes whose meaning depends on Dataview queries or Templater
+    scripts are no longer just markdown — they are markdown-plus-implicit-runtime,
+    which limits the portability that motivated choosing Obsidian in the first place.'

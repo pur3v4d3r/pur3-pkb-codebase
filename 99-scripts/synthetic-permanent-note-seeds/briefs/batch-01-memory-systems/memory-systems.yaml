@@ -1,0 +1,38 @@
+concept: Memory Systems
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- cognitive-architecture
+aliases:
+- multiple memory systems
+broader:
+- cognitive-architecture
+narrower:
+- declarative-memory
+- non-declarative-memory
+- working-memory
+- sensory-memory
+related:
+- multi-store-model
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Memory Systems
+  body: Memory Systems is the theoretical framework — most associated with Squire
+    and Tulving — that treats human memory not as a single faculty but as a coordinated
+    set of dissociable subsystems (working, declarative, non-declarative, perceptual)
+    each with its own neural substrate, encoding rules, and forgetting dynamics.
+- type: key-claim
+  title: Key claim about Memory Systems
+  body: Memory Systems theory is supported by triple dissociations from neuropsychology
+    and neuroimaging in which selective damage spares some subsystems while abolishing
+    others, establishing that "improving memory" is not a single goal but a system-specific
+    design choice.
+- type: warning
+  title: Common pitfall regarding Memory Systems
+  body: 'Memory Systems should not be reified into rigid boxes: the subsystems interact
+    constantly during normal cognition (an episodic retrieval recruits semantic content;
+    a procedural skill is initially scaffolded by declarative knowledge), and pedagogy
+    that targets only one subsystem in isolation forfeits the integration that gives
+    expertise its flexibility.'

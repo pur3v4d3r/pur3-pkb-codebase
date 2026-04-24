@@ -1,0 +1,40 @@
+concept: Goal Contents Theory
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- well-being-research
+aliases:
+- GCT
+- intrinsic vs extrinsic goals
+broader:
+- self-determination-theory
+related:
+- eudaimonia
+- intrinsic-aspirations
+- extrinsic-aspirations
+- aspirations-index
+prerequisites:
+- self-determination-theory
+confidence: medium
+callouts:
+- type: definition
+  title: Goal Contents Theory
+  body: Goal Contents Theory is the SDT subtheory distinguishing *intrinsic* life
+    goals (personal growth, close relationships, community contribution, health) from
+    *extrinsic* life goals (wealth, fame, image), and predicting that pursuit of intrinsic
+    goals yields greater well-being while pursuit of extrinsic goals — even successful
+    pursuit — does not.
+- type: key-claim
+  title: Key claim about Goal Contents Theory
+  body: Goal Contents Theory is supported by a robust cross-cultural evidence base
+    showing that placing relative emphasis on extrinsic over intrinsic aspirations
+    predicts lower well-being, more mental-health symptoms, and worse interpersonal
+    functioning, even after controlling for absolute attainment levels — a finding
+    with serious implications for cultures that valorise extrinsic success.
+- type: warning
+  title: Common pitfall regarding Goal Contents Theory
+  body: Goal Contents Theory should not be misread as a moral injunction against ever
+    pursuing extrinsic goals; income, recognition, and reputation matter for survival
+    and security, and the empirical claim is about the *relative weight* given to
+    extrinsic vs. intrinsic goals, not about renouncing the former altogether — a
+    distinction lost in popularisations that treat the theory as ascetic.

@@ -1,0 +1,40 @@
+concept: Pragmatic Maxim
+domain: philosophy
+secondary_domains:
+- epistemology
+- semantics
+aliases:
+- Peirce's pragmatic maxim
+broader:
+- pragmatism
+related:
+- pragmatism
+- peirce
+- meaning
+- verificationism
+prerequisites:
+- pragmatism
+confidence: high
+callouts:
+- type: definition
+  title: Pragmatic Maxim
+  body: The Pragmatic Maxim, formulated by Peirce in "How to Make Our Ideas Clear"
+    (1878), holds that the meaning of a concept is exhausted by the practical consequences
+    one would expect a thing falling under that concept to have — "consider what effects,
+    that might conceivably have practical bearings, we conceive the object of our
+    conception to have" — and is the methodological core of classical pragmatism.
+- type: key-claim
+  title: Key claim about Pragmatic Maxim
+  body: 'The Pragmatic Maxim is a *clarification rule* rather than a verification
+    criterion: its function is to render abstract concepts cognitively manageable
+    by tying them to expected experience, not to dismiss as meaningless any concept
+    lacking direct empirical content; this distinction is what differentiates Peirce''s
+    Pragmatic Maxim from the later logical-positivist verification principle that
+    it is sometimes wrongly assimilated to.'
+- type: warning
+  title: Common pitfall regarding Pragmatic Maxim
+  body: The Pragmatic Maxim is famously susceptible to multiple non-equivalent formulations
+    even within Peirce's own corpus, and James's, Dewey's, and contemporary neo-pragmatist
+    readings differ further; treating "the" Pragmatic Maxim as a single doctrine misrepresents
+    the family of related principles that pragmatist philosophers have endorsed, and
+    substantive engagement requires specifying which formulation is being deployed.

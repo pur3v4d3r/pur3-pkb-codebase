@@ -1,0 +1,36 @@
+concept: Attention and Selective Processing
+domain: cognitive-science
+secondary_domains:
+- perception-research
+- cognitive-control
+aliases:
+- attentional selection
+broader:
+- attention-and-cognitive-control
+related:
+- selective-attention
+- bottleneck-models
+- load-theory-of-attention
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Attention and Selective Processing
+  body: Attention and Selective Processing names the mechanism by which the cognitive
+    system filters the vast incoming sensory and mental stream so that only a subset
+    receives full perceptual analysis and access to working memory, with the remainder
+    either rejected, processed shallowly, or held in implicit traces.
+- type: key-claim
+  title: Key claim about Attention and Selective Processing
+  body: 'Attention and Selective Processing operates at multiple loci — early perceptual,
+    late semantic, and post-categorical — and the locus of selection depends on task
+    load, which is the central insight of Lavie''s load theory: under low perceptual
+    load, irrelevant material is processed; under high load, it is filtered automatically.'
+- type: warning
+  title: Common pitfall regarding Attention and Selective Processing
+  body: 'Attention and Selective Processing carries an inherent cost: information
+    selected against is not merely unattended but can be actively suppressed, and
+    that suppression sometimes persists beyond the immediate task — a learner instructed
+    to ignore a distractor can later show impaired access to its content even when
+    it becomes relevant, which complicates "ignore the noise" pedagogical advice.'

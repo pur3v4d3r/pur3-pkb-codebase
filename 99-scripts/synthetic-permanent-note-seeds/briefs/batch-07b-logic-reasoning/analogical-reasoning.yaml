@@ -1,0 +1,39 @@
+concept: Analogical Reasoning
+domain: reasoning
+secondary_domains:
+- cognitive-science
+- problem-solving
+aliases:
+- reasoning by analogy
+broader:
+- reasoning
+related:
+- analogical-logic
+- structure-mapping
+- gentner
+- case-based-reasoning
+- far-transfer
+confidence: high
+callouts:
+- type: definition
+  title: Analogical Reasoning
+  body: Analogical Reasoning is the form of inference in which structural correspondence
+    between a familiar source domain and an unfamiliar target domain licenses the
+    projection of relations from source to target — formalised in Dedre Gentner's
+    structure-mapping theory and ubiquitous in scientific discovery, learning, and
+    ordinary problem-solving.
+- type: key-claim
+  title: Key claim about Analogical Reasoning
+  body: Analogical Reasoning is one of the most powerful cognitive operations available
+    for transferring knowledge across domains, but its productive use depends on attending
+    to *structural* (relational) similarity rather than to *surface* (object-property)
+    similarity — a distinction novices reliably miss, which explains why analogical
+    transfer is observed routinely in experts and rarely in novices on the same source-target
+    pairs.
+- type: warning
+  title: Common pitfall regarding Analogical Reasoning
+  body: Analogical Reasoning produces *false* projections as readily as true ones
+    — the Bohr-atom-as-solar-system analogy, the brain-as-computer analogy, the body-as-machine
+    analogy — because nothing in the structural correspondence by itself guarantees
+    that the projected relations actually obtain in the target; analogies are sources
+    of hypothesis, not of conclusion, and require independent verification.

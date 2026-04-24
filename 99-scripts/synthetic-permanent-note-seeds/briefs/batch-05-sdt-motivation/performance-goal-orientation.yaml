@@ -1,0 +1,37 @@
+concept: Performance Goal Orientation
+domain: motivation-research
+secondary_domains:
+- achievement-goal-theory
+- education
+aliases:
+- ego-goal orientation
+- ability-goal orientation
+broader:
+- achievement-goal-theory
+related:
+- mastery-goal-orientation
+- ego-involvement
+- performance-approach
+- performance-avoidance
+confidence: high
+callouts:
+- type: definition
+  title: Performance Goal Orientation
+  body: A Performance Goal Orientation is the tendency to construe achievement situations
+    as opportunities to demonstrate competence relative to others — through outperforming
+    peers (performance-approach) or avoiding being outperformed (performance-avoidance)
+    — with social comparison rather than personal mastery as the criterion of success.
+- type: key-claim
+  title: Key claim about Performance Goal Orientation
+  body: 'A Performance Goal Orientation produces a mixed pattern: performance-approach
+    can support effort and engagement when challenges are manageable, but performance-avoidance
+    reliably predicts maladaptive responses (anxiety, surface processing, self-handicapping),
+    and Performance Goal Orientations as a class shift attention from learning to
+    looking competent in ways that compromise transfer.'
+- type: warning
+  title: Common pitfall regarding Performance Goal Orientation
+  body: A Performance Goal Orientation is often inadvertently induced by teaching
+    practices that are intended as mastery-supportive — public recognition of top
+    scorers, comparative grade displays, "exemplary work" boards — which signal to
+    learners that comparative performance is what is valued, regardless of stated
+    mastery emphasis; design must align signals with stated goals.

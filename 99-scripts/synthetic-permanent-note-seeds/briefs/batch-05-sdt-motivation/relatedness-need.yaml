@@ -1,0 +1,40 @@
+concept: Relatedness Need
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- psychology
+aliases:
+- need for relatedness
+- need to belong
+broader:
+- basic-psychological-needs
+- self-determination-theory
+related:
+- autonomy-need
+- competence-need
+- attachment-theory
+- belongingness
+- sense-of-community
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Relatedness Need
+  body: The Relatedness Need, in Self-Determination Theory, is the basic psychological
+    requirement to feel connected to others — to care and be cared for, to belong
+    to a community — and is satisfied by warm, responsive relationships in which the
+    person feels valued for who they are rather than for instrumental performance.
+- type: key-claim
+  title: Key claim about Relatedness Need
+  body: The Relatedness Need is the most often-overlooked of the three SDT basic needs
+    in instructional design, yet relatedness with teachers and peers is a strong predictor
+    of engagement, persistence, and well-being, particularly for learners from groups
+    for whom belonging in the educational setting cannot be taken for granted.
+- type: warning
+  title: Common pitfall regarding Relatedness Need
+  body: The Relatedness Need is undermined by conditional regard — affection contingent
+    on performance — even when the conditions are well-meant; teachers and parents
+    who only show warmth following success or compliance compromise Relatedness Need
+    satisfaction in ways that undermine the very autonomous motivation they hope to
+    cultivate.

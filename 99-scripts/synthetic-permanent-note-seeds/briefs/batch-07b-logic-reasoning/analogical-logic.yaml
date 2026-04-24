@@ -1,0 +1,42 @@
+concept: Analogical Logic
+domain: reasoning
+secondary_domains:
+- cognitive-science
+- ai
+aliases:
+- logic of analogy
+broader:
+- reasoning
+- non-classical-logic
+related:
+- analogical-reasoning
+- structure-mapping-engine
+- case-based-reasoning
+- similarity-metrics
+prerequisites:
+- analogical-reasoning
+confidence: medium
+callouts:
+- type: definition
+  title: Analogical Logic
+  body: Analogical Logic is the formal and computational study of analogy as an inferential
+    operation — including structure-mapping engines, case-based reasoning systems,
+    similarity metrics, and philosophical analyses of analogical inference — and provides
+    the technical machinery for evaluating when an analogical projection is warranted
+    and how strongly.
+- type: key-claim
+  title: Key claim about Analogical Logic
+  body: 'Analogical Logic, in Gentner''s structure-mapping framework and its computational
+    implementations, demonstrates that analogical inference can be made tractable
+    and partially formalisable: systematicity (preferring deeper relational matches
+    over isolated property matches) and one-to-one mapping constraints provide principled
+    criteria that distinguish strong from weak analogies in ways that match human
+    judgements of analogical quality.'
+- type: warning
+  title: Common pitfall regarding Analogical Logic
+  body: Analogical Logic remains less formally developed than deductive and inductive
+    logic, and the formal frameworks that exist (structure-mapping, case-based reasoning)
+    capture some but not all of what makes analogies illuminating; treating computational
+    analogical systems as complete models of analogical reasoning misses the role
+    of pragmatic context, conversational purpose, and aesthetic judgement in human
+    analogical practice.

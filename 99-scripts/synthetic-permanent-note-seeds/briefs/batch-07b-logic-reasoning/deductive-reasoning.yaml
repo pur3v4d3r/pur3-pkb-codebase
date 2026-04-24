@@ -1,0 +1,38 @@
+concept: Deductive Reasoning
+domain: logic
+secondary_domains:
+- reasoning
+- philosophy
+aliases:
+- deduction
+broader:
+- reasoning
+- inference
+related:
+- inductive-reasoning
+- abductive-reasoning
+- deductive-logic
+- validity
+- soundness
+confidence: high
+callouts:
+- type: definition
+  title: Deductive Reasoning
+  body: Deductive Reasoning is the form of inference in which the conclusion is asserted
+    to follow *necessarily* from the premises — if the premises are true and the inferential
+    structure is valid, the conclusion cannot be false — and is the form of reasoning
+    formalised by classical logic and exemplified by mathematical proof.
+- type: key-claim
+  title: Key claim about Deductive Reasoning
+  body: Deductive Reasoning offers certainty conditional on premises but obtains nothing
+    the premises did not already implicitly contain; this trade-off — guaranteed conclusions
+    in exchange for restricting outputs to what is implicit in inputs — explains why
+    mathematics and logic can produce certain knowledge while empirical science, which
+    requires going beyond data, cannot proceed by deduction alone.
+- type: warning
+  title: Common pitfall regarding Deductive Reasoning
+  body: Deductive Reasoning is often confused in everyday speech with "good reasoning"
+    generally, but a deductively valid argument with false premises produces a false
+    conclusion as reliably as a good argument produces a true one; evaluating Deductive
+    Reasoning requires checking *both* validity (the inferential structure) *and*
+    premise truth, and casual reasoners frequently focus on one and ignore the other.

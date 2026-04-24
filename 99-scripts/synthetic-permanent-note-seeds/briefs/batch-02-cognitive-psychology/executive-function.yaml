@@ -1,0 +1,41 @@
+concept: Executive Function
+domain: cognitive-science
+secondary_domains:
+- neuroscience
+- developmental-psychology
+aliases:
+- executive functions
+- cognitive control
+broader:
+- cognitive-control
+narrower:
+- working-memory
+- inhibitory-control
+- cognitive-flexibility
+related:
+- central-executive
+- attention-and-cognitive-control
+- prefrontal-cortex
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Executive Function
+  body: Executive Function names the family of top-down control processes — typically
+    decomposed into updating (working-memory refresh), inhibition (suppressing prepotent
+    responses), and shifting (switching between tasks or rule-sets) — that coordinate
+    goal-directed behaviour and are anchored neurally in prefrontal-parietal networks.
+- type: key-claim
+  title: Key claim about Executive Function
+  body: Executive Function predicts academic achievement, self-regulation, and life
+    outcomes more robustly than many traditional ability measures because it captures
+    the capacity to maintain and pursue goals against interference, which is the demand
+    structure of nearly every complex learning task.
+- type: warning
+  title: Common pitfall regarding Executive Function
+  body: Executive Function is often treated as a unitary "muscle" that can be trained
+    with brief computer games, but the bulk of the evidence shows narrow task-specific
+    gains with weak transfer; the intervention that most reliably *produces* executive-function
+    gains is sustained engagement with cognitively demanding domains (instruments,
+    second languages, sports), not isolated training programmes.

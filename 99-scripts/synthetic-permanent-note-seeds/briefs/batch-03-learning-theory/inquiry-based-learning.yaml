@@ -1,0 +1,39 @@
+concept: Inquiry-Based Learning
+domain: learning-science
+secondary_domains:
+- education
+aliases:
+- inquiry learning
+- IBL
+broader:
+- learning-theories
+- discovery-learning
+related:
+- problem-based-learning
+- project-based-learning
+- guided-discovery
+- productive-failure
+prerequisites:
+- discovery-learning
+confidence: high
+callouts:
+- type: definition
+  title: Inquiry-Based Learning
+  body: Inquiry-Based Learning is the instructional family in which learners drive
+    acquisition by formulating questions, gathering and evaluating evidence, and constructing
+    explanations under varying degrees of teacher guidance, ranging from highly structured
+    guided inquiry to open inquiry that approaches authentic disciplinary practice.
+- type: key-claim
+  title: Key claim about Inquiry-Based Learning
+  body: 'Inquiry-Based Learning''s effectiveness depends critically on the level of
+    guidance: structured and guided variants consistently outperform unguided inquiry,
+    and the meta-analytic pattern (Furtak et al. 2012; Lazonder & Harmsen 2016) shows
+    that explicit scaffolding of inquiry processes is what differentiates productive
+    from unproductive inquiry.'
+- type: warning
+  title: Common pitfall regarding Inquiry-Based Learning
+  body: Inquiry-Based Learning is often defended on motivational grounds without measuring
+    learning outcomes; learners frequently *enjoy* inquiry while learning less than
+    they would from explicit instruction, and the pedagogically honest position is
+    to hold Inquiry-Based Learning to learning-outcome evidence rather than to engagement
+    evidence alone.

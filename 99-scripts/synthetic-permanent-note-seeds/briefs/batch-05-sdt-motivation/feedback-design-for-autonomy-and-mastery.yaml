@@ -1,0 +1,42 @@
+concept: Feedback Design for Autonomy and Mastery
+domain: instructional-design
+secondary_domains:
+- self-determination-theory
+- learning-science
+aliases:
+- autonomy-supportive feedback
+- mastery-supportive feedback
+broader:
+- feedback
+- instructional-design
+related:
+- need-support
+- informational-feedback
+- controlling-feedback
+- mastery-goal-orientation
+prerequisites:
+- need-support
+confidence: high
+callouts:
+- type: definition
+  title: Feedback Design for Autonomy and Mastery
+  body: Feedback Design for Autonomy and Mastery is the family of practices that deliver
+    evaluative information in ways that simultaneously support competence (informative
+    about quality and progress), autonomy (non-controlling, respectful of choice),
+    and mastery focus (oriented to learning rather than to comparative ranking) —
+    operationalising SDT and achievement-goal principles in concrete instructional
+    moves.
+- type: key-claim
+  title: Key claim about Feedback Design for Autonomy and Mastery
+  body: 'Feedback Design for Autonomy and Mastery emphasises specific moves: feedback
+    on the work rather than the person, clear progress information against task criteria
+    rather than against peers, suggestions framed as options rather than demands,
+    and explicit acknowledgement of the learner''s perspective — practices that consistently
+    produce better learning and well-being than evaluative-controlling feedback.'
+- type: warning
+  title: Common pitfall regarding Feedback Design for Autonomy and Mastery
+  body: Feedback Design for Autonomy and Mastery can degrade into vacuous praise or
+    non-evaluative warmth that fails to provide the informational signal learners
+    need; the autonomy-support and mastery focus do not require *withholding* judgement
+    but rather *delivering* judgement in informational rather than controlling form,
+    a distinction that is hard to maintain under time pressure.

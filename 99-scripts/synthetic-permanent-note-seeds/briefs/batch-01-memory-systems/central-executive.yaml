@@ -1,0 +1,41 @@
+concept: Central Executive
+domain: cognitive-science
+secondary_domains:
+- working-memory
+- executive-function
+aliases:
+- executive controller
+- attentional controller
+broader:
+- working-memory
+- executive-function
+related:
+- phonological-loop
+- visuospatial-sketchpad
+- episodic-buffer
+- attention-and-cognitive-control
+prerequisites:
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Central Executive
+  body: The Central Executive is the supervisory component of Baddeley's working-memory
+    model responsible for allocating attention, coordinating the slave systems, switching
+    between tasks, suppressing irrelevant material, and interfacing working memory
+    with [[long-term-memory]]; it is conceived as attentional rather than as a storage
+    buffer.
+- type: key-claim
+  title: Key claim about Central Executive
+  body: The Central Executive is the working-memory locus that does the most work
+    explaining individual differences in [[working-memory-capacity]], [[fluid-intelligence]],
+    and reasoning, because the cognitive operations it implements — controlled attention,
+    interference resolution, goal maintenance — are precisely those that distinguish
+    skilled from unskilled performance on novel problems.
+- type: warning
+  title: Common pitfall regarding Central Executive
+  body: The Central Executive is the most under-specified component of the working-memory
+    model and has been criticised as a "homunculus" that absorbs whatever the slave
+    systems cannot explain; treating it as a unitary mechanism obscures that contemporary
+    work has fractionated executive function into at least three partially separable
+    processes (updating, switching, inhibition).

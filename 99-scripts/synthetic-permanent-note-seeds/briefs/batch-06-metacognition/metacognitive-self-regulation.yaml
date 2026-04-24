@@ -1,0 +1,41 @@
+concept: Metacognitive Self-Regulation
+domain: metacognition-research
+secondary_domains:
+- self-regulation
+- learning-science
+aliases:
+- metacognitive SRL
+broader:
+- self-regulated-learning
+- metacognition
+related:
+- metacognitive-regulation
+- zimmerman-srl-model
+- forethought-phase
+- performance-phase
+- self-reflection-phase
+prerequisites:
+- self-regulated-learning
+confidence: high
+callouts:
+- type: definition
+  title: Metacognitive Self-Regulation
+  body: Metacognitive Self-Regulation is the metacognition-driven subset of self-regulated
+    learning — the deliberate planning, monitoring, controlling, and reflecting on
+    one's own cognitive processes during learning — and is the executive arm through
+    which knowledge of cognition (metacognitive knowledge) is converted into adjusted
+    behaviour during study and performance.
+- type: key-claim
+  title: Key claim about Metacognitive Self-Regulation
+  body: 'Metacognitive Self-Regulation is the engine that distinguishes effective
+    self-directed learners from those who execute study-strategy lists mechanically:
+    it is the moment-to-moment adjustment — re-reading the section that was confusing,
+    switching strategies when one isn''t working, allocating extra time to weak areas
+    — that converts knowing about strategies into actually deploying them adaptively.'
+- type: warning
+  title: Common pitfall regarding Metacognitive Self-Regulation
+  body: Metacognitive Self-Regulation depends on accurate metacognitive monitoring,
+    and learners who are systematically miscalibrated (over- or under-confident) self-regulate
+    badly even when they intend well; pedagogy must therefore target *monitoring accuracy*
+    before or alongside regulation strategies, because regulation built on bad monitoring
+    directs effort to the wrong places.

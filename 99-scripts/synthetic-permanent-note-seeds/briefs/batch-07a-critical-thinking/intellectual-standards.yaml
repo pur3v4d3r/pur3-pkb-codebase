@@ -1,0 +1,40 @@
+concept: Intellectual Standards
+domain: critical-thinking
+secondary_domains:
+- philosophy
+- education
+aliases:
+- Paul-Elder intellectual standards
+broader:
+- critical-thinking
+- paul-elder-framework
+related:
+- paul-elder-critical-thinking-framework
+- intellectual-humility
+- clarity
+- accuracy
+- precision
+prerequisites:
+- critical-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Intellectual Standards
+  body: Intellectual Standards, in the Paul-Elder framework, are the criteria — clarity,
+    accuracy, precision, relevance, depth, breadth, logic, significance, fairness
+    — that thought must satisfy to be considered well-reasoned, and provide the evaluative
+    vocabulary by which thinking is assessed and improved.
+- type: key-claim
+  title: Key claim about Intellectual Standards
+  body: 'Intellectual Standards function as a diagnostic checklist: when thinking
+    goes wrong, it typically fails one or more specific Intellectual Standards (unclear,
+    inaccurate, irrelevant, superficial, narrow, illogical, trivial, unfair) and identifying
+    which standards are failing converts vague dissatisfaction with reasoning into
+    actionable revision.'
+- type: warning
+  title: Common pitfall regarding Intellectual Standards
+  body: Intellectual Standards are often taught as labels to memorise rather than
+    as a working vocabulary deployed during real reasoning; the productive use of
+    Intellectual Standards is in *Socratic questioning* of one's own and others' thinking
+    ("could you be more precise? what evidence supports that? what's an alternative?")
+    and instruction that stops at definitions rarely produces this working facility.

@@ -1,0 +1,38 @@
+concept: Eudaimonia
+domain: well-being-research
+secondary_domains:
+- philosophy
+- positive-psychology
+aliases:
+- eudaimonic well-being
+- flourishing
+broader:
+- well-being-research
+related:
+- hedonic-well-being
+- aristotle
+- virtue-ethics
+- goal-contents-theory
+- meaning-in-life
+confidence: high
+callouts:
+- type: definition
+  title: Eudaimonia
+  body: Eudaimonia is the Aristotelian conception of well-being as living in accord
+    with virtue and one's true self — translated as "flourishing" rather than mere
+    "happiness" — and contrasts in well-being research with hedonic conceptions that
+    equate well-being with subjective pleasure or life satisfaction.
+- type: key-claim
+  title: Key claim about Eudaimonia
+  body: Eudaimonia in contemporary research (Ryff, Deci & Ryan, Waterman) operationalises
+    flourishing as a profile including autonomy, competence, relatedness, purpose,
+    growth, and self-acceptance, and predicts outcomes — physical health, longevity,
+    resilience — that hedonic well-being alone does not, suggesting that the two traditions
+    track partly distinct psychological realities.
+- type: warning
+  title: Common pitfall regarding Eudaimonia
+  body: Eudaimonia is normatively loaded in ways that hedonic measures are not — to
+    operationalise flourishing one must take a stance on what counts as virtue and
+    meaningful living — and consumers should be aware that "eudaimonic well-being"
+    measures encode philosophical commitments that might not transfer cleanly across
+    cultural traditions, despite their authors' universalist intent.

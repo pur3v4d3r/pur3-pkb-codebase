@@ -1,0 +1,40 @@
+concept: Motivational Interviewing
+domain: clinical-psychology
+secondary_domains:
+- behaviour-change
+- counselling
+aliases:
+- MI
+broader:
+- counselling
+- behaviour-change-techniques
+related:
+- self-determination-theory
+- stages-of-change
+- change-talk
+- ambivalence
+- autonomy-need
+confidence: high
+callouts:
+- type: definition
+  title: Motivational Interviewing
+  body: Motivational Interviewing, developed by Miller and Rollnick, is a person-centred
+    counselling approach that elicits and strengthens the client's own motivation
+    for change by exploring and resolving ambivalence rather than imposing change
+    from outside, using core skills of open questions, affirmations, reflective listening,
+    and summaries.
+- type: key-claim
+  title: Key claim about Motivational Interviewing
+  body: 'Motivational Interviewing is one of the most extensively evidence-based behaviour-change
+    approaches in clinical practice, with meta-analytic support across substance use,
+    health behaviour, and adherence — and its mechanism aligns closely with SDT: MI''s
+    autonomy-supportive practices reliably increase autonomous regulation for change,
+    which then mediates behavioural outcomes.'
+- type: warning
+  title: Common pitfall regarding Motivational Interviewing
+  body: Motivational Interviewing has a high "lethal dose" of training — practitioners
+    exposed to brief workshops without supervised practice routinely believe they
+    are doing MI when audio-coding shows they are doing directive counselling; competence
+    in Motivational Interviewing requires sustained training with feedback rather
+    than weekend workshops, which limits its real-world implementation despite the
+    strong outcome evidence.

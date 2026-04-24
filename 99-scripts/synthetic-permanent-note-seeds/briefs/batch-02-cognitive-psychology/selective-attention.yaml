@@ -1,0 +1,35 @@
+concept: Selective Attention
+domain: cognitive-science
+secondary_domains:
+- perception-research
+aliases:
+- focused attention
+broader:
+- attention-and-selective-processing
+related:
+- attention-and-cognitive-control
+- cocktail-party-effect
+- dichotic-listening
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Selective Attention
+  body: Selective Attention is the capacity to focus processing on a chosen stream
+    of stimulation — an auditory channel, a visual location, a feature dimension —
+    while excluding others, and is the construct measured by classic dichotic-listening,
+    visual-search, and flanker paradigms.
+- type: key-claim
+  title: Key claim about Selective Attention
+  body: 'Selective Attention is not all-or-none: unattended channels still receive
+    some processing (the listener''s name in the unattended ear is detected reliably),
+    demonstrating that selection sets a *gain* on processing rather than a hard gate,
+    with consequences for how unattended educational stimuli (background video, peer
+    screens) leak into encoding.'
+- type: warning
+  title: Common pitfall regarding Selective Attention
+  body: Selective Attention is asymmetric across modalities and ages; auditory selective
+    attention develops later and remains weaker than visual, and design choices that
+    assume listeners can ignore competing speech (open-plan classrooms, podcast-while-reading)
+    systematically degrade comprehension regardless of the listener's stated preference.

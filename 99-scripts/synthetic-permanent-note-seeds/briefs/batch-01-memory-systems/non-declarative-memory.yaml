@@ -1,0 +1,39 @@
+concept: Non-Declarative Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- implicit-cognition
+aliases:
+- implicit memory
+broader:
+- long-term-memory
+- memory-systems
+narrower:
+- procedural-memory
+- priming
+- classical-conditioning
+related:
+- declarative-memory
+- automaticity
+prerequisites:
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Non-Declarative Memory
+  body: Non-Declarative Memory is the umbrella category for long-term memory subsystems
+    whose contents influence behaviour without conscious recollection, including [[procedural-memory]],
+    [[priming]], conditioning, and habituation, and is typically intact in patients
+    with [[declarative-memory]] deficits.
+- type: key-claim
+  title: Key claim about Non-Declarative Memory
+  body: 'Non-Declarative Memory establishes that influence on behaviour is not the
+    same as availability to introspection: a learner can be reliably affected by experiences
+    they cannot recall, which forces any complete account of learning to range beyond
+    what can be elicited by direct questioning.'
+- type: warning
+  title: Common pitfall regarding Non-Declarative Memory
+  body: Non-Declarative Memory's invisibility to self-report makes it easy to ignore
+    in instructional contexts, but it carries much of what counts as expertise; assuming
+    that "if the learner cannot articulate it, they have not learned it" systematically
+    underestimates competence built through extended practice.

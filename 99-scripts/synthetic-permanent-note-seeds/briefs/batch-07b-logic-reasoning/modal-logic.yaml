@@ -1,0 +1,41 @@
+concept: Modal Logic
+domain: logic
+secondary_domains:
+- philosophy
+- computer-science
+aliases:
+- logic of necessity and possibility
+broader:
+- non-classical-logic
+- deductive-logic
+related:
+- possible-worlds
+- kripke-semantics
+- deontic-logic
+- epistemic-logic
+prerequisites:
+- predicate-logic
+confidence: high
+callouts:
+- type: definition
+  title: Modal Logic
+  body: Modal Logic is the branch of formal logic that adds operators for *necessity*
+    and *possibility* to classical logic — and by extension for related modalities
+    such as obligation/permission (deontic), knowledge/belief (epistemic), and temporal
+    relations — and is given a model-theoretic semantics through Saul Kripke's possible-worlds
+    framework.
+- type: key-claim
+  title: Key claim about Modal Logic
+  body: 'Modal Logic provides the formal infrastructure for reasoning about contexts
+    where classical logic is insufficient: counterfactuals in philosophy, knowledge
+    and belief in epistemology and AI, obligation in ethics and law, computational
+    state in computer science — and Kripke''s possible-worlds semantics gives all
+    of these a unified mathematical treatment.'
+- type: warning
+  title: Common pitfall regarding Modal Logic
+  body: Modal Logic comes in many systems (T, S4, S5, K and many more) corresponding
+    to different assumptions about the underlying modal accessibility relation; choosing
+    the wrong system for a given application — using S5 for epistemic logic when knowledge
+    is not factive across iterations, for instance — produces formally valid arguments
+    whose conclusions don't survive scrutiny, so system selection is itself a substantive
+    philosophical decision.

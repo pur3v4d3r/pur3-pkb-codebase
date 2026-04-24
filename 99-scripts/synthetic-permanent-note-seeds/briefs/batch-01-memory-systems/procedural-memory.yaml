@@ -1,0 +1,40 @@
+concept: Procedural Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- motor-learning
+aliases:
+- skill memory
+- motor memory
+broader:
+- non-declarative-memory
+- long-term-memory
+related:
+- declarative-memory
+- automaticity
+- deliberate-practice
+- power-law-of-practice
+prerequisites:
+- long-term-memory
+- non-declarative-memory
+confidence: high
+callouts:
+- type: definition
+  title: Procedural Memory
+  body: Procedural Memory is the long-term system supporting the acquisition and execution
+    of skills, habits, and rule-governed sequences whose performance does not require
+    conscious access to their underlying representations, classically demonstrated
+    by H.M.'s preserved mirror-tracing learning despite dense declarative amnesia.
+- type: key-claim
+  title: Key claim about Procedural Memory
+  body: Procedural Memory is acquired gradually through repetition and feedback rather
+    than through single-trial declarative encoding, which is why a learner can describe
+    a skill perfectly without being able to perform it and conversely can perform
+    fluently without being able to articulate the rules in play.
+- type: warning
+  title: Common pitfall regarding Procedural Memory
+  body: 'Procedural Memory is sometimes conflated with [[automaticity]], but the two
+    are distinct: automaticity refers to a *property* a procedure can acquire (speed,
+    low attentional cost), whereas Procedural Memory refers to the *substrate* in
+    which the procedure lives; instructional schemes that pursue speed before correct
+    procedural encoding produce fast but wrong performance.'

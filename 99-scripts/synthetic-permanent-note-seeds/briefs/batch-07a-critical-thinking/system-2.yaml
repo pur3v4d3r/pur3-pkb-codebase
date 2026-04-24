@@ -1,0 +1,37 @@
+concept: System 2
+domain: cognitive-psychology
+secondary_domains:
+- judgement-and-decision-making
+- dual-process-theory
+aliases:
+- Type 2 processing
+- deliberative system
+broader:
+- dual-process-theory
+related:
+- system-1
+- working-memory
+- deliberation
+- slow-thinking
+confidence: high
+callouts:
+- type: definition
+  title: System 2
+  body: System 2, in Kahneman's terminology, refers to the family of slow, effortful,
+    deliberate, working-memory-intensive cognitive processes that perform rule-based
+    reasoning, controlled attention, and explicit calculation — and stands in contrast
+    to System 1's fast, automatic, intuitive processing.
+- type: key-claim
+  title: Key claim about System 2
+  body: System 2 is the locus of the cognitive operations that override System 1 intuitions
+    when those intuitions are wrong — but System 2 is also expensive (slow, fatiguing,
+    working-memory-limited) and lazy (defaulting to endorsing System 1 outputs unless
+    a conflict is detected), which is why even well-trained reasoners frequently fail
+    to deploy System 2 when it would correct System 1 errors.
+- type: warning
+  title: Common pitfall regarding System 2
+  body: System 2 is not always more accurate than System 1; in domains where System
+    1 has accumulated extensive valid pattern-matching (expert chess intuition, native
+    language comprehension, well-learned motor skill), forced System 2 deliberation
+    can degrade rather than improve performance, which is why "always think more carefully"
+    is bad advice in domains of genuine expertise.

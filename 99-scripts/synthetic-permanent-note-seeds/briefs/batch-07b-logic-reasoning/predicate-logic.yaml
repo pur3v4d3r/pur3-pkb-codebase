@@ -1,0 +1,42 @@
+concept: Predicate Logic
+domain: logic
+secondary_domains:
+- philosophy
+- mathematics
+aliases:
+- first-order logic
+- quantificational logic
+- FOL
+broader:
+- deductive-logic
+related:
+- propositional-logic
+- quantifiers
+- frege
+- completeness-theorem
+prerequisites:
+- propositional-logic
+confidence: high
+callouts:
+- type: definition
+  title: Predicate Logic
+  body: Predicate Logic is the branch of formal logic that extends propositional logic
+    by analysing the internal structure of sentences in terms of predicates, terms,
+    variables, and quantifiers (universal "for all" and existential "there exists")
+    — formalised by Frege and standardised in the 20th century — and is the foundational
+    logic of modern mathematics.
+- type: key-claim
+  title: Key claim about Predicate Logic
+  body: Predicate Logic is expressive enough to formalise most mathematical reasoning
+    and to capture the inferential structure of quantified arguments that propositional
+    logic cannot — and Gödel's completeness theorem (1929) establishes that the standard
+    axiom system for first-order Predicate Logic captures *all* and only the valid
+    first-order arguments, a result of remarkable depth.
+- type: warning
+  title: Common pitfall regarding Predicate Logic
+  body: 'Predicate Logic, despite its expressive power, has well-known limitations:
+    it cannot quantify over predicates (second-order needed), cannot directly express
+    modality (modal logic needed), and Gödel''s incompleteness theorems show that
+    for any sufficiently rich axiom system formalisable in Predicate Logic, there
+    are true statements that the system cannot prove — limitations that constrain
+    ambitions of fully formalising mathematics in first-order logic.'

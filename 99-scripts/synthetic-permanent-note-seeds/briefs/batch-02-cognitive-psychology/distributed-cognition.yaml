@@ -1,0 +1,39 @@
+concept: Distributed Cognition
+domain: cognitive-science
+secondary_domains:
+- anthropology
+- hci
+aliases:
+- DCog
+broader:
+- cognitive-science
+related:
+- embodied-cognition
+- situated-learning-theory
+- communities-of-practice
+- external-representation
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Distributed Cognition
+  body: Distributed Cognition, developed primarily by Edwin Hutchins, treats cognitive
+    processes as constituted across people, artefacts, and environments rather than
+    confined to a single skull — analysing, for example, ship navigation as a computation
+    distributed over instruments, charts, and crew members coordinated through socially
+    defined practices.
+- type: key-claim
+  title: Key claim about Distributed Cognition
+  body: 'Distributed Cognition reframes "smart performance" as a property of socio-technical
+    systems rather than individuals: the same human becomes a different cognitive
+    agent depending on which artefacts, notations, and collaborators are present,
+    which has direct implications for how PKB design (notes, links, dashboards) constitutes
+    thinking rather than merely recording it.'
+- type: warning
+  title: Common pitfall regarding Distributed Cognition
+  body: Distributed Cognition is sometimes used to dissolve the individual altogether,
+    but the original framing preserves individual cognition as one component of the
+    larger system; pedagogy that swings to the extreme — "all learning is social"
+    — loses sight of the durable knowledge structures individuals must internalise
+    to participate competently in distributed systems.

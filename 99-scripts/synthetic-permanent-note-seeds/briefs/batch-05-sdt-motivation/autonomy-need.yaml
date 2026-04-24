@@ -1,0 +1,40 @@
+concept: Autonomy Need
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- psychology
+aliases:
+- need for autonomy
+broader:
+- basic-psychological-needs
+- self-determination-theory
+related:
+- competence-need
+- relatedness-need
+- autonomous-regulation
+- deci-and-ryan
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Autonomy Need
+  body: The Autonomy Need, in Self-Determination Theory, is the basic psychological
+    requirement to experience one's actions as volitional and self-endorsed — as expressions
+    of the integrated self rather than as compelled by external pressure or internal
+    compulsion — and is one of the three needs Deci and Ryan identify as universal
+    across cultures.
+- type: key-claim
+  title: Key claim about Autonomy Need
+  body: 'The Autonomy Need is satisfied not by absence of structure but by the experience
+    of *self-endorsement* of one''s engagement: a learner can experience high autonomy
+    within demanding curricula if the demands are perceived as personally meaningful,
+    while a learner in a permissive environment can experience low autonomy if engagement
+    feels arbitrary or unconnected to self.'
+- type: warning
+  title: Common pitfall regarding Autonomy Need
+  body: The Autonomy Need is widely confused with independence or freedom of choice;
+    SDT explicitly distinguishes Autonomy Need satisfaction from independence (an
+    interdependent person can be highly autonomous) and from sheer choice (token choices
+    among trivial options do not satisfy the Autonomy Need), and pedagogical "autonomy
+    support" that conflates these targets the wrong construct.

@@ -1,0 +1,42 @@
+concept: Priming
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- implicit-cognition
+- social-psychology
+aliases:
+- implicit priming
+broader:
+- non-declarative-memory
+narrower:
+- semantic-priming
+- perceptual-priming
+- repetition-priming
+related:
+- spreading-activation
+- semantic-memory
+- implicit-memory
+prerequisites:
+- non-declarative-memory
+confidence: high
+callouts:
+- type: definition
+  title: Priming
+  body: Priming is the implicit memory phenomenon in which prior exposure to a stimulus
+    facilitates its later processing — speeded recognition, lowered identification
+    thresholds, biased completion — without the perceiver's awareness that the prior
+    exposure is influencing current performance.
+- type: key-claim
+  title: Key claim about Priming
+  body: Priming demonstrates that mere exposure leaves measurable, behaviourally consequential
+    traces independently of any conscious recollection, which is among the strongest
+    empirical grounds for positing [[non-declarative-memory]] as a system distinct
+    from explicit recall.
+- type: warning
+  title: Common pitfall regarding Priming
+  body: Priming has been at the centre of the replication crisis in social psychology,
+    where many high-profile "behavioural priming" claims (elderly stereotypes slowing
+    walking, money concepts affecting prosociality) have failed to reproduce; the
+    well-replicated core of priming is *cognitive* (lexical, semantic, perceptual),
+    and extrapolating from it to large behavioural effects requires evidence that
+    has often not survived scrutiny.

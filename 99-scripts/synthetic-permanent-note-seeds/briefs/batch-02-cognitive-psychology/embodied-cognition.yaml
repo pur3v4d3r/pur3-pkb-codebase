@@ -1,0 +1,39 @@
+concept: Embodied Cognition
+domain: cognitive-science
+secondary_domains:
+- philosophy-of-mind
+- neuroscience
+aliases:
+- embodiment
+- grounded cognition
+broader:
+- cognitive-science
+- 4e-cognition
+related:
+- distributed-cognition
+- sensorimotor-grounding
+- mirror-neurons
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Embodied Cognition
+  body: Embodied Cognition holds that cognitive processes are deeply shaped by the
+    body's sensorimotor systems and its specific physical capabilities — that concepts
+    are partially constituted by simulations in modality-specific neural substrates,
+    and that thinking recruits the same systems used for perception and action rather
+    than running on amodal symbols.
+- type: key-claim
+  title: Key claim about Embodied Cognition
+  body: Embodied Cognition is supported by behavioural evidence (action-sentence compatibility
+    effects, gesture-aided learning), neuroimaging (motor-cortex activation during
+    action verbs), and computational models, and motivates pedagogy that engages bodily
+    action and gesture as integral to concept formation rather than mere illustration.
+- type: warning
+  title: Common pitfall regarding Embodied Cognition
+  body: Embodied Cognition is often overstated as the claim that *all* cognition is
+    bodily; the more defensible position is that some concepts are deeply embodied
+    while others (logical, mathematical, abstract) are at most weakly grounded, and
+    pedagogy that demands embodiment for every concept manufactures unmotivated movement
+    that fails to scaffold learning.

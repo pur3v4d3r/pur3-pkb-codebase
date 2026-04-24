@@ -1,0 +1,38 @@
+concept: Tacit Knowledge
+domain: learning-science
+secondary_domains:
+- philosophy
+- expertise-research
+aliases:
+- implicit knowledge
+broader:
+- knowledge-types
+related:
+- procedural-memory
+- expertise-development
+- polanyi
+- know-how
+confidence: high
+callouts:
+- type: definition
+  title: Tacit Knowledge
+  body: Tacit Knowledge, named by Michael Polanyi in *The Tacit Dimension* (1966),
+    is the knowledge a competent practitioner possesses but cannot fully articulate
+    — embodied skills, perceptual discriminations, situated judgements — captured
+    in the formula "we know more than we can tell" and standing in contrast to explicit
+    propositional knowledge.
+- type: key-claim
+  title: Key claim about Tacit Knowledge
+  body: Tacit Knowledge is acquired primarily through participation, observation,
+    and apprenticeship rather than verbal transmission, which explains why textbooks
+    and lectures persistently underdeliver in domains where competence depends on
+    tacit components — clinical diagnosis, craft skill, design judgement, ethnographic
+    interpretation.
+- type: warning
+  title: Common pitfall regarding Tacit Knowledge
+  body: Tacit Knowledge can be partially externalised through deliberate articulation
+    practices (think-aloud protocols, reflective writing, structured debrief), and
+    treating it as wholly inarticulable abandons productive pedagogical strategies;
+    the productive position is that Tacit Knowledge has an articulable surface that
+    explicit work can reach, surrounding a residue that must still be acquired through
+    practice.

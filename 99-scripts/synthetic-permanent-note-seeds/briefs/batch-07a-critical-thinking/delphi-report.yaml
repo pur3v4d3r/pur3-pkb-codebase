@@ -1,0 +1,39 @@
+concept: Delphi Report
+domain: critical-thinking
+secondary_domains:
+- philosophy
+- education
+aliases:
+- APA Delphi Report
+- 1990 Delphi Report
+broader:
+- critical-thinking
+related:
+- critical-thinking
+- facione
+- expert-consensus
+- ccss-test
+confidence: high
+callouts:
+- type: definition
+  title: Delphi Report
+  body: The Delphi Report is the 1990 American Philosophical Association consensus
+    statement, edited by Peter Facione, in which a panel of forty-six critical-thinking
+    experts produced a Delphi-method consensus definition of critical thinking — analytic
+    and dispositional — that has shaped subsequent assessment instruments (the California
+    Critical Thinking Skills Test) and curricular standards.
+- type: key-claim
+  title: Key claim about Delphi Report
+  body: The Delphi Report is significant because it demonstrated substantial expert
+    consensus on the operative components of critical thinking — six core cognitive
+    skills (interpretation, analysis, evaluation, inference, explanation, self-regulation)
+    and a list of dispositional habits — providing an empirical basis for an otherwise
+    contested concept and making subsequent assessment work tractable.
+- type: warning
+  title: Common pitfall regarding Delphi Report
+  body: The Delphi Report represents a snapshot of expert consensus from a specific
+    community at a specific time and should not be treated as the final word on critical
+    thinking; later work has questioned the universality of its dispositional list
+    across cultures, the assessability of self-regulation as defined, and the boundary
+    between "critical thinking" skills and adjacent constructs (problem-solving, scientific
+    reasoning, decision-making).

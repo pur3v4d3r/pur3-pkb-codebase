@@ -1,0 +1,35 @@
+concept: Entity Theory of Intelligence
+domain: motivation-research
+secondary_domains:
+- psychology
+- education
+aliases:
+- entity theory
+broader:
+- implicit-theories-of-intelligence
+related:
+- fixed-mindset
+- incremental-theory-of-intelligence
+- implicit-theories
+- carol-dweck
+confidence: medium
+callouts:
+- type: definition
+  title: Entity Theory of Intelligence
+  body: The Entity Theory of Intelligence is the implicit belief — central to Dweck's
+    research programme — that intelligence is a fixed entity ("you have a certain
+    amount and that's it"), in contrast to the [[incremental-theory-of-intelligence]]
+    that holds intelligence is malleable through effort and learning.
+- type: key-claim
+  title: Key claim about Entity Theory of Intelligence
+  body: 'The Entity Theory of Intelligence is the cognitive substrate of the [[fixed-mindset]]
+    behavioural pattern: holding the belief that ability is fixed leads to performance
+    goals, ego-involvement in tasks, and helpless responses to failure, because effort
+    and struggle become diagnostic of low ability rather than of growth in progress.'
+- type: warning
+  title: Common pitfall regarding Entity Theory of Intelligence
+  body: The Entity Theory of Intelligence is correlationally linked to maladaptive
+    patterns, but the causal direction and intervention leverage are more contested
+    than the popular literature suggests; large field replications find weaker and
+    more conditional effects than early laboratory studies, and the Entity Theory
+    framing should be treated as one productive lens, not a foundational cause.

@@ -1,0 +1,41 @@
+concept: Cognitive Psychology
+domain: cognitive-science
+secondary_domains:
+- psychology
+- history-of-cognitive-science
+aliases:
+- cognitivism
+broader:
+- psychology
+- cognitive-science
+narrower:
+- cognitive-psychology-foundations
+- information-processing-theory
+- memory-systems
+related:
+- behaviourism
+- neuroscience
+- cognitive-revolution
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Psychology
+  body: Cognitive Psychology is the branch of psychology that investigates the internal
+    mental processes — perception, attention, memory, language, reasoning, problem-solving,
+    and decision-making — through experimental and computational methods, treating
+    the mind as an information-processing system whose mechanisms can be inferred
+    from behaviour and brain measurement.
+- type: key-claim
+  title: Key claim about Cognitive Psychology
+  body: Cognitive Psychology emerged from the 1950s "cognitive revolution" as a rejection
+    of strict behaviourism, establishing that internal representations and processes
+    are legitimate scientific objects rather than unobservable theoretical fictions,
+    and providing the conceptual scaffold on which contemporary learning science,
+    [[human-computer-interaction]], and cognitive neuroscience are built.
+- type: warning
+  title: Common pitfall regarding Cognitive Psychology
+  body: Cognitive Psychology has historically privileged controlled laboratory paradigms
+    whose ecological validity is contested; pedagogical claims drawn directly from
+    short laboratory tasks (e.g., list learning) without testing in classroom-relevant
+    durations and contexts have repeatedly failed to scale, which is why translational
+    efforts now demand classroom replications before adoption.

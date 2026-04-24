@@ -1,0 +1,42 @@
+concept: Elaborative Rehearsal
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- learning-strategies
+aliases:
+- deep rehearsal
+- semantic rehearsal
+broader:
+- rehearsal
+- deep-processing
+related:
+- maintenance-rehearsal
+- levels-of-processing
+- elaboration
+- elaborative-interrogation
+- deep-processing
+prerequisites:
+- working-memory
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Elaborative Rehearsal
+  body: Elaborative Rehearsal is the encoding strategy in which a learner connects
+    new material to existing knowledge through meaning-based processing — generating
+    examples, paraphrasing, comparing, or relating new content to personal experience
+    — rather than merely repeating it verbatim; it is the high-payoff pole on the
+    levels-of-processing continuum.
+- type: key-claim
+  title: Key claim about Elaborative Rehearsal
+  body: Elaborative Rehearsal produces substantially better long-term retention than
+    [[maintenance-rehearsal]] of equivalent duration because the additional semantic
+    associations create multiple retrieval routes back to the trace, increasing the
+    probability that some cue available at retrieval will reach it.
+- type: warning
+  title: Common pitfall regarding Elaborative Rehearsal
+  body: Elaborative Rehearsal is not merely "more rehearsal" — it must be semantically
+    appropriate elaboration; *spurious* elaboration (relating material to false or
+    misleading prior content) embeds the trace inside an incorrect schema and can
+    produce confident but wrong recall, which is why elaboration without feedback
+    is risky.

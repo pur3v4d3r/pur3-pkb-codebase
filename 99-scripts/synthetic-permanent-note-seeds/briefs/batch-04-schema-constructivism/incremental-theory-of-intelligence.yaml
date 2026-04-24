@@ -1,0 +1,38 @@
+concept: Incremental Theory of Intelligence
+domain: motivation-research
+secondary_domains:
+- psychology
+- education
+aliases:
+- incremental theory
+- malleable view of intelligence
+broader:
+- implicit-theories-of-intelligence
+related:
+- growth-mindset
+- entity-theory-of-intelligence
+- implicit-theories
+- carol-dweck
+confidence: medium
+callouts:
+- type: definition
+  title: Incremental Theory of Intelligence
+  body: The Incremental Theory of Intelligence is the implicit belief that intelligence
+    is a malleable quality that grows through effort, strategy, and instruction, in
+    contrast to the [[entity-theory-of-intelligence]] that holds it fixed; it underwrites
+    the behavioural pattern Dweck calls a [[growth-mindset]].
+- type: key-claim
+  title: Key claim about Incremental Theory of Intelligence
+  body: 'The Incremental Theory of Intelligence predicts adaptive responses to academic
+    challenge: learners holding it set learning goals, treat effort as the path to
+    competence, and interpret failure as informative rather than diagnostic of stable
+    trait deficits, producing more persistent engagement and steeper learning trajectories
+    under difficulty.'
+- type: warning
+  title: Common pitfall regarding Incremental Theory of Intelligence
+  body: 'The Incremental Theory of Intelligence is widely promoted in education without
+    adequate attention to its limits: the implicit theory must be paired with effective
+    strategies (effort without strategy doesn''t reliably produce growth) and with
+    structural opportunity (effort within a broken system still doesn''t produce growth),
+    so promoting Incremental Theory beliefs in isolation risks blaming learners whose
+    context constrains the gains the theory promises.'

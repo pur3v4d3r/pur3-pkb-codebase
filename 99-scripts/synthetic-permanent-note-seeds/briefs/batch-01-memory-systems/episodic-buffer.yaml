@@ -1,0 +1,37 @@
+concept: Episodic Buffer
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- working-memory
+broader:
+- working-memory
+related:
+- phonological-loop
+- visuospatial-sketchpad
+- central-executive
+- episodic-memory
+- long-term-memory
+prerequisites:
+- working-memory
+- multi-store-model
+confidence: high
+callouts:
+- type: definition
+  title: Episodic Buffer
+  body: The Episodic Buffer is the fourth component added to Baddeley's working-memory
+    model in 2000, a limited-capacity store that integrates information from the [[phonological-loop]],
+    the [[visuospatial-sketchpad]], and [[long-term-memory]] into coherent multimodal
+    episodes available to consciousness and to the [[central-executive]].
+- type: key-claim
+  title: Key claim about Episodic Buffer
+  body: The Episodic Buffer was added to address phenomena Baddeley's original three-component
+    model could not explain — chunking effects from long-term memory, cross-modal
+    binding, and recall of prose passages whose span vastly exceeds the slave systems
+    — by positing an explicit integrative workspace.
+- type: warning
+  title: Common pitfall regarding Episodic Buffer
+  body: The Episodic Buffer should not be treated as an unbounded "scratchpad" that
+    resolves capacity limits; it remains capacity-limited, depends on the [[central-executive]]
+    for attentional binding, and its proposed role in long-term-memory integration
+    is still empirically contested by alternative accounts that locate binding inside
+    long-term memory itself.

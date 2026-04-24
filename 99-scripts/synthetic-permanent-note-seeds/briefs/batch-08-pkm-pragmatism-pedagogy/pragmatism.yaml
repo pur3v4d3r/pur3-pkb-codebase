@@ -1,0 +1,42 @@
+concept: Pragmatism
+domain: philosophy
+secondary_domains:
+- epistemology
+- ethics
+aliases:
+- pragmatist tradition
+- classical pragmatism
+broader:
+- philosophy
+related:
+- pragmatic-maxim
+- fallibilism
+- deweys-reflective-thinking
+- peirce
+- james
+- dewey
+confidence: high
+callouts:
+- type: definition
+  title: Pragmatism
+  body: Pragmatism is the philosophical tradition originating with Charles Sanders
+    Peirce, William James, and John Dewey in late-19th and early-20th-century America
+    that grounds the meaning and warrant of beliefs in their practical consequences
+    for inquiry and action, treating knowledge as fallibilistic, inquiry as community-situated,
+    and theory as instrumentally continuous with practice.
+- type: key-claim
+  title: Key claim about Pragmatism
+  body: Pragmatism's central insight is that philosophical disputes about meaning
+    and truth are productively reframed as questions about *what difference would
+    the dispute make in practice*; if no practical difference can be specified, the
+    dispute is empty, and if practical differences can be specified, those become
+    the criterion by which the dispute is settled — the move that motivates the pragmatic
+    maxim and underlies pragmatist treatments of truth, meaning, and value.
+- type: warning
+  title: Common pitfall regarding Pragmatism
+  body: Pragmatism is regularly conflated with the colloquial "pragmatic" sense of
+    "what works" or "what's expedient," but classical Pragmatism in Peirce's strict
+    version is a *theory of inquiry* with substantive epistemological commitments
+    to long-run convergence, community-based correction, and fallibilism — not an
+    endorsement of doing whatever is locally convenient — and the colloquial reading
+    produces persistent misreadings of what pragmatist philosophers actually argued.

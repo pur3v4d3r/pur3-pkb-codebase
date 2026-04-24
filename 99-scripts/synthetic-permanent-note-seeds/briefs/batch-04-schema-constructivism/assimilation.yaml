@@ -1,0 +1,39 @@
+concept: Assimilation
+domain: cognitive-science
+secondary_domains:
+- developmental-psychology
+- learning-science
+aliases:
+- Piagetian assimilation
+broader:
+- genetic-epistemology
+- learning-processes
+related:
+- accommodation
+- cognitive-disequilibrium
+- schema-theory
+- piaget
+prerequisites:
+- genetic-epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Assimilation
+  body: Assimilation, in Piaget's framework, is the cognitive process by which the
+    learner incorporates new information into existing schemas without modifying those
+    schemas — a child who calls a zebra "horse" is assimilating the new instance to
+    a pre-existing animal schema — and is the conservative pole of cognitive adaptation.
+- type: key-claim
+  title: Key claim about Assimilation
+  body: 'Assimilation is the default response to novelty: the system attempts to interpret
+    new input through existing structure before considering structural revision, which
+    makes Assimilation simultaneously efficient (most input does fit) and risky (when
+    input genuinely doesn''t fit, Assimilation can produce systematic distortion that
+    the learner doesn''t notice).'
+- type: warning
+  title: Common pitfall regarding Assimilation
+  body: 'Assimilation should not be moralised as a learning failure — it is a normal
+    and necessary cognitive process — but its dominance in any given learning episode
+    should be treated as a diagnostic signal: if learners are predominantly assimilating,
+    they are not undergoing [[conceptual-change]], and more cognitive challenge or
+    contradiction is needed to provoke [[accommodation]].'

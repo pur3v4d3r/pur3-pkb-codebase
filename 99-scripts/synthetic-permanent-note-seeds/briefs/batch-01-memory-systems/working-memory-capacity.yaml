@@ -1,0 +1,39 @@
+concept: Working Memory Capacity
+domain: cognitive-science
+secondary_domains:
+- individual-differences
+- intelligence-research
+aliases:
+- WMC
+- working-memory span
+broader:
+- working-memory
+related:
+- fluid-intelligence
+- cognitive-load-theory
+- executive-function
+- magical-number-seven
+prerequisites:
+- working-memory
+- short-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Working Memory Capacity
+  body: Working Memory Capacity is the individual-difference variable indexing how
+    much information a learner can simultaneously maintain *and* manipulate under
+    conditions of interference, typically measured by complex span tasks (operation
+    span, reading span) that require concurrent processing alongside storage.
+- type: key-claim
+  title: Key claim about Working Memory Capacity
+  body: Working Memory Capacity correlates substantially with [[fluid-intelligence]]
+    and predicts performance on tasks requiring controlled attention, conflict resolution,
+    and novel problem-solving — making it among the strongest single cognitive predictors
+    of complex skill acquisition.
+- type: warning
+  title: Common pitfall regarding Working Memory Capacity
+  body: 'Working Memory Capacity has resisted durable training: brief gains on trained
+    tasks rarely transfer to untrained tasks of the same construct, so commercial
+    "brain training" programmes promising broad WMC enlargement consistently overstate
+    their evidence and the more robust intervention is to *reduce demands* on WMC
+    through schema-building and external scaffolding.'

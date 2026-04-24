@@ -1,0 +1,41 @@
+concept: Inference
+domain: logic
+secondary_domains:
+- reasoning
+- philosophy
+aliases:
+- inferential reasoning
+- drawing inferences
+broader:
+- reasoning
+narrower:
+- deductive-reasoning
+- inductive-reasoning
+- abductive-reasoning
+related:
+- argument-analysis
+- validity
+- soundness
+confidence: high
+callouts:
+- type: definition
+  title: Inference
+  body: Inference is the cognitive operation of moving from accepted premises to a
+    conclusion by virtue of a logical or evidential relation between them — encompassing
+    deductive Inference (where the conclusion necessarily follows), inductive Inference
+    (where the conclusion is supported with some probability), and abductive Inference
+    (where the conclusion is the best available explanation).
+- type: key-claim
+  title: Key claim about Inference
+  body: 'Inference quality is what argument analysis and critical reasoning ultimately
+    evaluate: a complete evaluation of an argument requires assessing both *premise
+    truth* and *Inference strength*, and many real-world disagreements stem from disputes
+    about Inference strength (does this evidence really support that conclusion?)
+    rather than about the premises themselves.'
+- type: warning
+  title: Common pitfall regarding Inference
+  body: Inference is often taught as a purely formal matter of logical validity, but
+    most real-world Inference is non-deductive — evidential, inductive, or abductive
+    — and pedagogy that focuses on formal validity to the exclusion of inductive and
+    abductive reasoning leaves learners unprepared for the actual Inference patterns
+    they will encounter in news, science, and ordinary judgement.

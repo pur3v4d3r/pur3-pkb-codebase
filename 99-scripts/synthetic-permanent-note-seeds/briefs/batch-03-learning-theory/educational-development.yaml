@@ -1,0 +1,35 @@
+concept: Educational Development
+domain: learning-science
+secondary_domains:
+- education
+- developmental-psychology
+aliases:
+- educational growth
+broader:
+- education
+- developmental-psychology
+related:
+- educational-psychology
+- curriculum-design
+- teacher-development
+confidence: medium
+callouts:
+- type: definition
+  title: Educational Development
+  body: Educational Development is the field concerned with the systematic improvement
+    of educational systems, programmes, and individual capacity over time — encompassing
+    curriculum reform, teacher professional development, institutional research, and
+    the deliberate cultivation of pedagogical practice across an organisation.
+- type: key-claim
+  title: Key claim about Educational Development
+  body: 'Educational Development reframes "education" from a set of teacher behaviours
+    to an organisational learning problem: durable improvement requires aligned change
+    in curriculum, assessment, professional development, and incentives, which is
+    why isolated teacher-training interventions consistently produce smaller and shorter-lived
+    effects than coordinated system change.'
+- type: warning
+  title: Common pitfall regarding Educational Development
+  body: Educational Development can drift into managerialism that mistakes activity
+    (workshops attended, frameworks adopted) for outcome (student learning gains);
+    the pedagogical rule of thumb is to require evidence of learner-level change before
+    treating an Educational Development initiative as successful.

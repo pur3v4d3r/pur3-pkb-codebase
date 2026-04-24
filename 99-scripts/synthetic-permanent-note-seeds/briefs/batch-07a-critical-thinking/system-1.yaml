@@ -1,0 +1,39 @@
+concept: System 1
+domain: cognitive-psychology
+secondary_domains:
+- judgement-and-decision-making
+- dual-process-theory
+aliases:
+- Type 1 processing
+- intuitive system
+broader:
+- dual-process-theory
+related:
+- system-2
+- heuristics-and-biases
+- kahneman
+- fast-thinking
+confidence: high
+callouts:
+- type: definition
+  title: System 1
+  body: System 1, in Kahneman's *Thinking Fast and Slow* terminology drawing on Stanovich
+    and Evans, refers to the family of fast, automatic, effortless, often emotional
+    cognitive processes that produce intuitive judgements and rapid pattern recognition
+    — and stands in contrast to System 2's slow, deliberate, effortful, rule-based
+    processing.
+- type: key-claim
+  title: Key claim about System 1
+  body: System 1 is responsible for the majority of moment-to-moment cognition and
+    is highly competent in familiar, well-learned domains, but it produces systematic
+    errors when its associative pattern matching is applied to problems that require
+    statistical, base-rate, or counter-intuitive reasoning — which is the domain in
+    which the heuristics-and-biases tradition has documented predictable departures
+    from normative responses.
+- type: warning
+  title: Common pitfall regarding System 1
+  body: System 1 vs. System 2 is a useful expository simplification rather than a
+    clean neuroscientific division; current dual-process theorists (Evans, Stanovich)
+    explicitly note that System 1 is not a single homogeneous system but a family
+    of automatic processes with different mechanisms, and citing System 1 as a unitary
+    cause of an error often obscures more than it explains.

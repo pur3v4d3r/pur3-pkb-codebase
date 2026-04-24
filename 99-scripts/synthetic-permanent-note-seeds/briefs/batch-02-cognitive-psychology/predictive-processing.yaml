@@ -1,0 +1,38 @@
+concept: Predictive Processing
+domain: cognitive-science
+secondary_domains:
+- neuroscience
+- philosophy-of-mind
+aliases:
+- predictive coding
+- free-energy framework
+broader:
+- cognitive-science
+related:
+- active-inference
+- bayesian-brain
+- 4e-cognition
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Predictive Processing
+  body: Predictive Processing is the framework — most associated with Karl Friston,
+    Andy Clark, and Jakob Hohwy — that models the brain as a hierarchical prediction
+    machine continually generating top-down expectations and adjusting internal models
+    on the basis of prediction error from bottom-up sensory input, unifying perception,
+    action, and learning under a single inferential principle.
+- type: key-claim
+  title: Key claim about Predictive Processing
+  body: Predictive Processing reframes attention as the precision-weighting of prediction
+    error, learning as model update, and action as the selection of behaviours that
+    minimise expected future prediction error; this gives a single computational story
+    for what previously required separate accounts.
+- type: warning
+  title: Common pitfall regarding Predictive Processing
+  body: Predictive Processing is sometimes presented as if it has won the explanatory
+    contest, but its empirical commitments at the level of specific tasks remain underdetermined,
+    and many of its claimed predictions are also derivable from non-predictive frameworks;
+    importing it into educational theory before its scope and limits are settled risks
+    attaching pedagogical recommendations to an evolving target.

@@ -1,0 +1,40 @@
+concept: Cognitive Chunking
+domain: cognitive-science
+secondary_domains:
+- working-memory
+- expertise-research
+aliases:
+- chunking
+broader:
+- chunking
+- working-memory
+related:
+- magical-number-seven
+- schema-theory
+- hierarchical-chunk-structure
+- expertise-development
+prerequisites:
+- working-memory
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Chunking
+  body: Cognitive Chunking is the process by which a learner exploits long-term-memory
+    structures to group several elements into a single higher-order unit, effectively
+    expanding working-memory throughput by replacing many low-level items with fewer
+    chunks that can each be manipulated as a single entity.
+- type: key-claim
+  title: Key claim about Cognitive Chunking
+  body: 'Cognitive Chunking is the principal mechanism by which experts circumvent
+    the [[magical-number-seven]] limit: chess masters do not have larger raw working
+    memory than novices, but they encode positions in terms of meaningful piece configurations,
+    allowing them to reproduce a chessboard from a single glance that would defeat
+    a novice''s item-by-item encoding.'
+- type: warning
+  title: Common pitfall regarding Cognitive Chunking
+  body: Cognitive Chunking depends on prior schema availability, so it cannot be invoked
+    as a quick fix for novice overload; instructing a beginner to "chunk the material"
+    presupposes the very long-term knowledge they are trying to acquire, and the productive
+    intervention is to *build* the schemas that will eventually permit chunking, not
+    to ask for chunking before those schemas exist.

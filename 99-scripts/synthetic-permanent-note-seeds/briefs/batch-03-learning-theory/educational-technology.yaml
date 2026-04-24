@@ -1,0 +1,37 @@
+concept: Educational Technology
+domain: learning-science
+secondary_domains:
+- hci
+- instructional-design
+aliases:
+- ed tech
+- EdTech
+broader:
+- education
+related:
+- educational-psychology
+- cognitive-theory-of-multimedia-learning
+- learning-analytics
+confidence: high
+callouts:
+- type: definition
+  title: Educational Technology
+  body: Educational Technology is the systematic design, deployment, and evaluation
+    of digital and analogue tools intended to support learning — encompassing learning-management
+    systems, multimedia, intelligent tutoring, simulation, adaptive assessment, and
+    PKB tools — and the methodological tradition of testing whether such tools produce
+    learning gains rather than mere engagement.
+- type: key-claim
+  title: Key claim about Educational Technology
+  body: 'Educational Technology research repeatedly finds that the *medium* matters
+    less than the *instructional design* it carries: the same content delivered through
+    different technologies produces similar learning when design quality is matched,
+    which is why technology adoption uncoupled from pedagogical redesign rarely improves
+    outcomes.'
+- type: warning
+  title: Common pitfall regarding Educational Technology
+  body: Educational Technology is dominated commercially by tools optimised for engagement
+    metrics (time-on-platform, click-through) rather than learning outcomes; uncritical
+    adoption of widely marketed Educational Technology products has repeatedly displaced
+    cheaper, better-evidenced practices, and procurement decisions should require
+    learning-outcome evidence rather than usage statistics.

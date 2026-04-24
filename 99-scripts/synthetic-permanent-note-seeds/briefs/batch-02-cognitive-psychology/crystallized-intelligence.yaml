@@ -1,0 +1,38 @@
+concept: Crystallized Intelligence
+domain: cognitive-science
+secondary_domains:
+- intelligence-research
+- learning-science
+aliases:
+- Gc
+- crystallized ability
+broader:
+- intelligence
+related:
+- fluid-intelligence
+- semantic-memory
+- expertise-development
+- knowledge-base
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Crystallized Intelligence
+  body: Crystallized Intelligence is the body of acquired knowledge, vocabulary, and
+    culturally transmitted skill that an individual can deploy on familiar tasks,
+    conceived in Cattell's theory as the accumulated deposit of [[fluid-intelligence]]
+    applied across the life span and supported by [[semantic-memory]] and [[procedural-memory]].
+- type: key-claim
+  title: Key claim about Crystallized Intelligence
+  body: Crystallized Intelligence continues to grow into late adulthood even as [[fluid-intelligence]]
+    declines, which is the empirical basis for the observation that older experts
+    often outperform younger novices on real-world tasks despite slower reasoning
+    on abstract puzzles — knowledge structures compensate for reduced raw processing.
+- type: warning
+  title: Common pitfall regarding Crystallized Intelligence
+  body: 'Crystallized Intelligence is domain-bounded: high crystallized ability in
+    one field rarely transfers to another, and the popular framing of "wisdom" or
+    "general expertise" overstates the breadth of what cumulates; pedagogy aimed at
+    building Crystallized Intelligence must be explicit about which domain it is building
+    knowledge *in*.'

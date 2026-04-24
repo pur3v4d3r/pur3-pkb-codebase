@@ -1,0 +1,39 @@
+concept: Conceptual Change
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- philosophy-of-science
+aliases:
+- conceptual restructuring
+broader:
+- learning-processes
+related:
+- cognitive-disequilibrium
+- accommodation
+- misconception
+- ontological-shift
+- schema-theory-and-learning
+prerequisites:
+- learning-processes
+confidence: high
+callouts:
+- type: definition
+  title: Conceptual Change
+  body: Conceptual Change is the deep restructuring of a learner's existing concepts
+    — not merely accretion of new facts — required when prior conceptions are systematically
+    incompatible with the target understanding, as in the shift from naive impetus
+    theory to Newtonian mechanics or from a flat-Earth conception to a spherical one.
+- type: key-claim
+  title: Key claim about Conceptual Change
+  body: Conceptual Change typically requires confrontation with the inadequacy of
+    the existing conception (cognitive dissonance with anomalous data), provision
+    of an intelligible and plausible alternative, and demonstration of the alternative's
+    superior generative power — the conditions specified by Posner et al.'s (1982)
+    classical model and refined by subsequent ontological-shift accounts.
+- type: warning
+  title: Common pitfall regarding Conceptual Change
+  body: 'Conceptual Change is *slow* and *non-monotonic*: learners who appear to have
+    adopted a target conception frequently revert to the prior conception under stress,
+    novel transfer, or reduced reasoning resources, which means assessment must probe
+    robustness across contexts rather than confirming surface adoption from a single
+    test.'

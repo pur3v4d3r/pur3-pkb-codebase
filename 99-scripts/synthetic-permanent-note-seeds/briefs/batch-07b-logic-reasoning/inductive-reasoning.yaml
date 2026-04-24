@@ -1,0 +1,40 @@
+concept: Inductive Reasoning
+domain: logic
+secondary_domains:
+- reasoning
+- philosophy-of-science
+aliases:
+- induction
+broader:
+- reasoning
+- inference
+related:
+- deductive-reasoning
+- abductive-reasoning
+- inductive-logic
+- problem-of-induction
+- hume
+confidence: high
+callouts:
+- type: definition
+  title: Inductive Reasoning
+  body: Inductive Reasoning is the form of inference in which conclusions are supported
+    with *some degree of probability* rather than necessity — extending observed patterns
+    to unobserved cases, generalising from samples to populations, projecting future
+    from past — and is the form of reasoning fundamental to empirical science and
+    everyday prediction.
+- type: key-claim
+  title: Key claim about Inductive Reasoning
+  body: 'Inductive Reasoning is what makes new knowledge possible: deduction unpacks
+    what is already implicit in premises, while induction extends knowledge beyond
+    observed cases to unobserved ones, which is why induction is indispensable to
+    empirical science despite being formally invalid (the conclusion can be false
+    even when premises are true).'
+- type: warning
+  title: Common pitfall regarding Inductive Reasoning
+  body: Inductive Reasoning faces Hume's *problem of induction* — the inference from
+    observed regularities to unobserved cases assumes the future will resemble the
+    past, which itself can be justified only by an inductive argument and so is circular
+    — and although working scientists and reasoners proceed pragmatically as though
+    induction is licensed, the philosophical question of *why* it works has no fully
+    satisfying answer.

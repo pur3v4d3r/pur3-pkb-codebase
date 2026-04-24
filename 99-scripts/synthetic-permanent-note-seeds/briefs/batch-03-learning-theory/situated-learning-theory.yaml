@@ -1,0 +1,40 @@
+concept: Situated Learning Theory
+domain: learning-science
+secondary_domains:
+- anthropology
+- education
+aliases:
+- situated cognition
+- situated learning
+broader:
+- learning-theories
+related:
+- communities-of-practice
+- distributed-cognition
+- legitimate-peripheral-participation
+- apprenticeship
+prerequisites:
+- learning-theories
+confidence: high
+callouts:
+- type: definition
+  title: Situated Learning Theory
+  body: Situated Learning Theory, developed by Jean Lave and Etienne Wenger, holds
+    that learning is fundamentally a process of becoming a participant in a community
+    of practice — acquiring identity, tools, and skill through legitimate peripheral
+    participation in authentic activity — rather than the abstract acquisition of
+    decontextualised knowledge.
+- type: key-claim
+  title: Key claim about Situated Learning Theory
+  body: Situated Learning Theory reframes "knowledge" as inseparable from the practice
+    in which it is exercised, predicting that decontextualised classroom learning
+    will produce knowledge that fails to transfer to the practice settings it ostensibly
+    prepares learners for — a prediction substantially borne out by the [[far-transfer]]
+    literature.
+- type: warning
+  title: Common pitfall regarding Situated Learning Theory
+  body: Situated Learning Theory is sometimes used to dismiss formal instruction altogether
+    in favour of pure apprenticeship, but apprenticeship has its own well-documented
+    failure modes (idiosyncratic exposure, slow progression, dependence on master
+    availability); the productive synthesis combines situated practice with explicit
+    instruction targeting the components apprenticeship leaves implicit.

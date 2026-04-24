@@ -1,0 +1,36 @@
+concept: Learning Science
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- education
+aliases:
+- the learning sciences
+- sciences of learning
+broader:
+- educational-psychology
+related:
+- learning-theories
+- educational-technology
+- design-based-research
+confidence: high
+callouts:
+- type: definition
+  title: Learning Science
+  body: Learning Science is the interdisciplinary field — drawing on cognitive psychology,
+    neuroscience, computer science, anthropology, and education — that studies how
+    people learn in real-world settings and uses that understanding to design more
+    effective learning environments, tools, and curricula.
+- type: key-claim
+  title: Key claim about Learning Science
+  body: Learning Science distinguishes itself from classical educational psychology
+    through its commitment to *design-based research* — iterative cycles of design,
+    deployment in authentic contexts, measurement, and revision — that treats classrooms
+    as both subjects and partners of inquiry rather than as passive sites of intervention
+    testing.
+- type: warning
+  title: Common pitfall regarding Learning Science
+  body: Learning Science's design-based methodology is methodologically less tractable
+    than randomised trials, and findings from Learning Science studies often resist
+    clean causal inference; consumers should recognise this trade-off — design-based
+    work buys ecological validity at the cost of some inferential strength — and weight
+    evidence accordingly rather than rejecting either methodology categorically.

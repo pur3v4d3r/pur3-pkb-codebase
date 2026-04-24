@@ -1,0 +1,38 @@
+concept: Paul-Elder Framework
+domain: critical-thinking
+secondary_domains:
+- education
+- philosophy
+aliases:
+- Paul-Elder model
+broader:
+- critical-thinking
+related:
+- paul-elder-critical-thinking-framework
+- intellectual-standards
+- elements-of-thought
+- intellectual-humility
+prerequisites:
+- critical-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Paul-Elder Framework
+  body: The Paul-Elder Framework is the integrated model of critical thinking developed
+    by Richard Paul and Linda Elder consisting of *eight elements of thought* (purpose,
+    question, information, inferences, concepts, assumptions, implications, point
+    of view), *nine intellectual standards* by which those elements are evaluated,
+    and *intellectual virtues* that govern their use over time.
+- type: key-claim
+  title: Key claim about Paul-Elder Framework
+  body: The Paul-Elder Framework is among the most fully-elaborated practical critical-thinking
+    frameworks available, providing a working vocabulary that can be applied to virtually
+    any reasoning task and that has been empirically associated with improved disciplined
+    thinking when systematically taught and practised across multiple courses.
+- type: warning
+  title: Common pitfall regarding Paul-Elder Framework
+  body: The Paul-Elder Framework requires substantial sustained instruction and practice
+    to internalise; brief workshop introductions reliably produce learners who can
+    recite the elements and standards without using them in their actual reasoning,
+    which is why the Foundation for Critical Thinking explicitly recommends multi-course
+    integration rather than one-off deployment.

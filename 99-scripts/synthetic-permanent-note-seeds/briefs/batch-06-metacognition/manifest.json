@@ -1,0 +1,78 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "batch-06-metacognition",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-batch-06-metacognition.md",
+    "notes": "Batch 6 of 8. Focus: metacognitive regulation and its components,\nmetacognitive feelings/calibration/judgements/experience,\nDunning-Kruger, and Zimmerman SRL phases."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/batch-06-metacognition",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-batch-06-metacognition"
+  },
+  "counts": {
+    "parsed": 9,
+    "accepted": 9,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Metacognitive Self-Regulation",
+      "kebab": "metacognitive-self-regulation",
+      "brief_path": "briefs/batch-06-metacognition/metacognitive-self-regulation.yaml",
+      "expected_seed_filename": "metacognitive-self-regulation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Metacognitive Regulation",
+      "kebab": "metacognitive-regulation",
+      "brief_path": "briefs/batch-06-metacognition/metacognitive-regulation.yaml",
+      "expected_seed_filename": "metacognitive-regulation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Metacognitive Feelings",
+      "kebab": "metacognitive-feelings",
+      "brief_path": "briefs/batch-06-metacognition/metacognitive-feelings.yaml",
+      "expected_seed_filename": "metacognitive-feelings-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Metacognitive Calibration",
+      "kebab": "metacognitive-calibration",
+      "brief_path": "briefs/batch-06-metacognition/metacognitive-calibration.yaml",
+      "expected_seed_filename": "metacognitive-calibration-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Metacognitive Judgments",
+      "kebab": "metacognitive-judgments",
+      "brief_path": "briefs/batch-06-metacognition/metacognitive-judgments.yaml",
+      "expected_seed_filename": "metacognitive-judgments-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Metacognitive Experience",
+      "kebab": "metacognitive-experience",
+      "brief_path": "briefs/batch-06-metacognition/metacognitive-experience.yaml",
+      "expected_seed_filename": "metacognitive-experience-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Dunning-Kruger Effect",
+      "kebab": "dunning-kruger-effect",
+      "brief_path": "briefs/batch-06-metacognition/dunning-kruger-effect.yaml",
+      "expected_seed_filename": "dunning-kruger-effect-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Performance Phase",
+      "kebab": "performance-phase",
+      "brief_path": "briefs/batch-06-metacognition/performance-phase.yaml",
+      "expected_seed_filename": "performance-phase-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Self-Reflection Phase",
+      "kebab": "self-reflection-phase",
+      "brief_path": "briefs/batch-06-metacognition/self-reflection-phase.yaml",
+      "expected_seed_filename": "self-reflection-phase-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

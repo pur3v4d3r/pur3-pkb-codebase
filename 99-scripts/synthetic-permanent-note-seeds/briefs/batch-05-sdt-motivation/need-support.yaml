@@ -1,0 +1,41 @@
+concept: Need Support
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- instructional-design
+aliases:
+- autonomy-supportive teaching
+- need-supportive practice
+broader:
+- self-determination-theory
+related:
+- need-thwarting
+- autonomy-need
+- competence-need
+- relatedness-need
+- autonomy-supportive-teaching
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Need Support
+  body: Need Support refers to interpersonal and environmental practices that nourish
+    the three SDT basic psychological needs simultaneously — providing meaningful
+    rationale and choice (autonomy), structured challenge with informative feedback
+    (competence), and warm involvement with non-conditional regard (relatedness) —
+    and is the practical operationalisation of SDT for parents, teachers, coaches,
+    and managers.
+- type: key-claim
+  title: Key claim about Need Support
+  body: Need Support across hundreds of intervention studies produces moderate gains
+    in autonomous motivation, engagement, and well-being, with effects that generalise
+    across age, culture, and domain — making Need Support one of the most generalisable
+    evidence-based interpersonal practices identified by motivation research.
+- type: warning
+  title: Common pitfall regarding Need Support
+  body: Need Support is often conflated with permissiveness or warmth alone, but SDT
+    specifies that all three needs must be addressed; warmth without structure (Relatedness
+    without Competence support) is as incomplete as structure without choice (Competence
+    support without Autonomy support), and effective Need Support is the integrated
+    practice, not any one component.

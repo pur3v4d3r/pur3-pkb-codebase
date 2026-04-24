@@ -1,0 +1,40 @@
+concept: Inductive Logic
+domain: logic
+secondary_domains:
+- philosophy-of-science
+- statistics
+aliases:
+- formal inductive logic
+- probabilistic logic
+broader:
+- logic
+related:
+- inductive-reasoning
+- bayesian-inference
+- carnap
+- confirmation-theory
+confidence: high
+callouts:
+- type: definition
+  title: Inductive Logic
+  body: Inductive Logic is the formal study of evidential support relations between
+    premises and conclusions — analysing how strongly evidence confirms or disconfirms
+    hypotheses — and includes Carnapian confirmation theory, contemporary Bayesian
+    inductive logic, and statistical-inferential frameworks that extend formal techniques
+    to non-deductive inference.
+- type: key-claim
+  title: Key claim about Inductive Logic
+  body: 'Inductive Logic in its contemporary Bayesian form provides a rigorous framework
+    for analysing evidential reasoning: prior probabilities updated by likelihood
+    ratios produce posterior probabilities, the framework is internally coherent in
+    ways that informal inductive judgement is not, and it predicts well-documented
+    departures from classical statistical practice in domains where prior information
+    matters.'
+- type: warning
+  title: Common pitfall regarding Inductive Logic
+  body: Inductive Logic in its formal Bayesian guise requires prior probability assignments
+    that are often contested or unavailable, and the choice of priors can substantially
+    influence conclusions — which is why critics from frequentist statistics object
+    to "subjective" Bayesianism while critics from within Bayesianism debate principled
+    priors; the practical implication is that Inductive Logic is a tool that requires
+    judgement, not an algorithm that delivers conclusions automatically.

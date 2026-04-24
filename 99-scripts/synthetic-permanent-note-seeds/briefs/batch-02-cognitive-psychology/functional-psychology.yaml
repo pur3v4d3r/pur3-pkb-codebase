@@ -1,0 +1,34 @@
+concept: Functional Psychology
+domain: psychology
+secondary_domains:
+- history-of-psychology
+aliases:
+- functionalism
+broader:
+- psychology
+related:
+- pragmatism
+- william-james
+- john-dewey
+- evolutionary-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Functional Psychology
+  body: Functional Psychology is the late-19th- and early-20th-century American school
+    — associated with William James, John Dewey, James Angell, and Harvey Carr — that
+    defined psychology's subject matter as the *functions* of mind in adapting the
+    organism to its environment, in deliberate contrast to the structuralist project
+    of cataloguing conscious contents.
+- type: key-claim
+  title: Key claim about Functional Psychology
+  body: 'Functional Psychology established the lineage that runs from [[pragmatism]]
+    through educational reform (Dewey) into modern [[ecological-psychology]] and applied
+    behavioural science: the question "what is this mental capacity *for*?" — its
+    adaptive function in the organism''s life — is its enduring methodological contribution.'
+- type: warning
+  title: Common pitfall regarding Functional Psychology
+  body: Functional Psychology's adaptationist framing can drift into Panglossian over-explanation,
+    where every mental quirk is rationalised as serving some adaptive purpose; modern
+    functional reasoning tightly couples function attribution to evidence (developmental,
+    comparative, neural) rather than to plausibility alone.

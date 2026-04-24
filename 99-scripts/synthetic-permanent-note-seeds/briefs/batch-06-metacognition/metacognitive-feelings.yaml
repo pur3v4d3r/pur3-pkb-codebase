@@ -1,0 +1,42 @@
+concept: Metacognitive Feelings
+domain: metacognition-research
+secondary_domains:
+- cognitive-psychology
+- memory-research
+aliases:
+- feelings of knowing
+- fluency feelings
+broader:
+- metacognition
+- metacognitive-experience
+related:
+- feeling-of-knowing
+- tip-of-the-tongue
+- metacognitive-calibration
+- fluency-as-cue
+prerequisites:
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Metacognitive Feelings
+  body: Metacognitive Feelings are the fast, often non-conscious affective signals
+    that inform metacognitive judgements — the feeling of knowing, the feeling of
+    familiarity, the feeling of difficulty, perceptual and processing fluency — and
+    are the substrate from which deliberate metacognitive judgements are typically
+    constructed.
+- type: key-claim
+  title: Key claim about Metacognitive Feelings
+  body: 'Metacognitive Feelings rest substantially on processing fluency: material
+    that is processed easily produces feelings of knowing and confidence, regardless
+    of whether the underlying knowledge is accurate, which is why presentation manipulations
+    (clearer fonts, easier examples) can inflate confidence judgements without improving
+    learning outcomes.'
+- type: warning
+  title: Common pitfall regarding Metacognitive Feelings
+  body: 'Metacognitive Feelings are systematically misleading in pedagogically important
+    ways: re-reading produces a feeling of knowing that does not predict retrieval
+    success, fluent examples produce illusions of comprehension, and confidently-experienced
+    familiarity can co-exist with no usable knowledge — so pedagogy must teach learners
+    to triangulate Metacognitive Feelings against retrieval-based evidence rather
+    than trusting them.'

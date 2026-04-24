@@ -1,0 +1,43 @@
+concept: Argument Analysis
+domain: critical-thinking
+secondary_domains:
+- logic
+- philosophy
+aliases:
+- argument mapping
+- argument reconstruction
+broader:
+- critical-thinking
+- critical-reasoning
+related:
+- critical-reasoning
+- inference
+- premise
+- conclusion
+- argument-mapping
+prerequisites:
+- critical-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Argument Analysis
+  body: Argument Analysis is the disciplined practice of identifying the structure
+    of an argument — separating premises from conclusions, identifying intermediate
+    inferences, surfacing unstated assumptions, and distinguishing main argument from
+    supporting and qualifying material — as a precondition for evaluating the argument's
+    strength.
+- type: key-claim
+  title: Key claim about Argument Analysis
+  body: 'Argument Analysis often reveals that real-world arguments are different from
+    what they appear to be on the surface: the stated conclusion is not the operative
+    conclusion, the apparent premises depend on unstated assumptions doing the heavy
+    lifting, and the persuasive force comes from rhetorical scaffolding rather than
+    from logical structure — making Argument Analysis a substantive contribution to
+    evaluation, not a clerical preliminary.'
+- type: warning
+  title: Common pitfall regarding Argument Analysis
+  body: Argument Analysis is sometimes practised as adversarial demolition — finding
+    any flaw to discredit the argument — rather than as charitable reconstruction
+    — finding the strongest version of the argument before evaluating it; the intellectually
+    serious form is the latter, and analysts whose Argument Analysis only criticises
+    arguments they disagreed with already are doing rhetoric, not analysis.

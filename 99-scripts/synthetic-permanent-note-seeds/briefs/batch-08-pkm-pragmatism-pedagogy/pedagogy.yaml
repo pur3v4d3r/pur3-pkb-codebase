@@ -1,0 +1,38 @@
+concept: Pedagogy
+domain: education
+secondary_domains:
+- learning-science
+- philosophy-of-education
+aliases:
+- theory of teaching
+broader:
+- education
+related:
+- hetogogy
+- andragogy
+- didactics
+- instructional-design
+confidence: high
+callouts:
+- type: definition
+  title: Pedagogy
+  body: Pedagogy is the theory and practice of teaching — encompassing the principles,
+    methods, and decisions by which an instructor structures learning activities,
+    sequences material, scaffolds practice, and assesses progress — and traditionally
+    refers to the teaching of children but is now used broadly across educational
+    levels.
+- type: key-claim
+  title: Key claim about Pedagogy
+  body: Pedagogy as a field has accumulated substantial evidence about what reliably
+    improves learning (spaced practice, retrieval, worked examples for novices, gradual
+    fading of guidance, formative feedback, productive failure with appropriate scaffolding)
+    — and a defensible Pedagogy is one that systematically deploys these evidence-based
+    moves rather than relying on instructor preference or learner enthusiasm.
+- type: warning
+  title: Common pitfall regarding Pedagogy
+  body: Pedagogy is highly susceptible to fashion cycles (discovery learning, learning
+    styles, "flipping the classroom," various technology-driven enthusiasms) whose
+    adoption regularly outruns the supporting evidence; a serious Pedagogy treats
+    pedagogical innovations as hypotheses to be tested in the local context rather
+    than as commitments to be defended, which requires institutional discipline that
+    is rarer than the rhetoric suggests.

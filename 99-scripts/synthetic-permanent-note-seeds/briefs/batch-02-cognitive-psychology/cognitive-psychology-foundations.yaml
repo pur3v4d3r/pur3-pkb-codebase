@@ -1,0 +1,38 @@
+concept: Cognitive Psychology Foundations
+domain: cognitive-science
+secondary_domains:
+- psychology
+- history-of-cognitive-science
+aliases:
+- foundations of cognitive psychology
+broader:
+- cognitive-psychology
+related:
+- information-processing-theory
+- cognitive-revolution
+- chomskyan-linguistics
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Psychology Foundations
+  body: Cognitive Psychology Foundations refers to the originating theoretical commitments
+    that distinguished mid-20th-century cognitivism from preceding behaviourism —
+    the postulation of internal representations, the computer metaphor of mind, hypothesis-testing
+    experimentation on unobservable mental processes, and the explanatory primacy
+    of structure over response patterns.
+- type: key-claim
+  title: Key claim about Cognitive Psychology Foundations
+  body: 'Cognitive Psychology Foundations rest on four converging influences usually
+    credited together: Chomsky''s critique of Skinnerian language learning, Newell
+    and Simon''s symbolic-processing models, the Atkinson-Shiffrin memory architecture,
+    and Broadbent''s information-flow models of attention; together these established
+    that mental processes were a tractable scientific subject.'
+- type: warning
+  title: Common pitfall regarding Cognitive Psychology Foundations
+  body: Cognitive Psychology Foundations are sometimes taught as a single coherent
+    paradigm, but the original "computer metaphor" framing has been substantially
+    revised — by connectionism, embodied cognition, and predictive processing — and
+    uncritically importing the 1960s symbolic-processing assumptions into modern educational
+    design imports their already-known limitations.

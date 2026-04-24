@@ -1,0 +1,40 @@
+concept: Motivated Reasoning
+domain: cognitive-psychology
+secondary_domains:
+- social-psychology
+- judgement-and-decision-making
+aliases:
+- directional motivated reasoning
+- identity-protective cognition
+broader:
+- reasoning
+- cognitive-bias
+related:
+- confirmation-bias
+- kunda
+- identity-protective-cognition
+- wishful-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Motivated Reasoning
+  body: Motivated Reasoning, formalised in Ziva Kunda's 1990 review, is the empirically
+    robust phenomenon by which preferences, identities, and goals influence which
+    evidence is searched for, attended to, accepted, and remembered, producing a directional
+    bias in beliefs toward conclusions the reasoner is motivated to reach — without
+    the reasoner experiencing the process as biased.
+- type: key-claim
+  title: Key claim about Motivated Reasoning
+  body: Motivated Reasoning operates within the constraint of *plausibility* — people
+    don't believe just anything they want to believe, but they accept lower evidence
+    thresholds for desired conclusions and demand higher evidence for unwelcome ones
+    — which makes Motivated Reasoning particularly hard to detect introspectively
+    because the resulting beliefs feel evidence-based.
+- type: warning
+  title: Common pitfall regarding Motivated Reasoning
+  body: Motivated Reasoning is not eliminated by intelligence, education, or domain
+    expertise; in some research (Kahan et al. on identity-protective cognition), more
+    numerate or scientifically literate participants display *more* polarised reasoning
+    on identity-charged topics, because their greater reasoning capacity is recruited
+    to defend in-group conclusions, which means cognitive sophistication is no defence
+    against Motivated Reasoning.

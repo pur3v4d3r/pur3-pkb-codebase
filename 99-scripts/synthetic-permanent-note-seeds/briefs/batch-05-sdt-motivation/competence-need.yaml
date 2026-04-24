@@ -1,0 +1,39 @@
+concept: Competence Need
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- psychology
+aliases:
+- need for competence
+broader:
+- basic-psychological-needs
+- self-determination-theory
+related:
+- autonomy-need
+- relatedness-need
+- mastery-experience
+- optimal-challenge
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Competence Need
+  body: The Competence Need, in Self-Determination Theory, is the basic psychological
+    requirement to feel effective in one's interactions with the environment — to
+    experience oneself as capable of producing intended outcomes — and is satisfied
+    by optimally challenging activities that yield clear progress and feedback.
+- type: key-claim
+  title: Key claim about Competence Need
+  body: The Competence Need is supported by what SDT calls *structure* — clear expectations,
+    scaffolded difficulty progression, informative feedback — and is undermined by
+    both excessive ease (no efficacy signal) and excessive difficulty without scaffolding
+    (efficacy signal of failure), which together specify the design space for environments
+    that nourish the Competence Need.
+- type: warning
+  title: Common pitfall regarding Competence Need
+  body: 'The Competence Need is sometimes pursued by lowering challenge to ensure
+    "wins," but this strategy backfires: trivial successes do not produce genuine
+    Competence Need satisfaction because the learner is not deceived about the difficulty
+    of what was achieved; sustainable Competence Need satisfaction requires real challenge
+    with appropriate scaffolding, not contrived success.'

@@ -1,0 +1,39 @@
+concept: Genetic Epistemology
+domain: cognitive-science
+secondary_domains:
+- developmental-psychology
+- philosophy
+aliases:
+- Piagetian epistemology
+broader:
+- developmental-psychology
+- epistemology
+related:
+- assimilation
+- accommodation
+- cognitive-disequilibrium
+- piaget
+- constructivism
+confidence: high
+callouts:
+- type: definition
+  title: Genetic Epistemology
+  body: Genetic Epistemology is Piaget's research programme — published in the 1950s
+    and elaborated until his death — that studied the *origins and development of
+    knowledge* by tracing how cognitive structures emerge through the interaction
+    of biological maturation and environmental engagement across childhood, treating
+    epistemology as a developmental science.
+- type: key-claim
+  title: Key claim about Genetic Epistemology
+  body: 'Genetic Epistemology established constructivism as a developmental claim:
+    knowledge is not absorbed from environment nor unfolded from genes but is *constructed*
+    through the child''s active engagement with the world, with the operative mechanisms
+    being assimilation, accommodation, and equilibration acting on increasingly sophisticated
+    cognitive structures.'
+- type: warning
+  title: Common pitfall regarding Genetic Epistemology
+  body: Genetic Epistemology's specific stage sequence (sensorimotor, preoperational,
+    concrete operations, formal operations) has been substantially revised by post-Piagetian
+    research showing earlier competencies than Piaget's tasks revealed and more domain-specific
+    patterns than the universal stages predicted; teaching the strict stage model
+    as current science misrepresents the field.

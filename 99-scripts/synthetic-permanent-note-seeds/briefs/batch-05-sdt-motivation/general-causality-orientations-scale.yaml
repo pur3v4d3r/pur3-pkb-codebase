@@ -1,0 +1,40 @@
+concept: General Causality Orientations Scale
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+- psychometrics
+aliases:
+- GCOS
+- causality orientations scale
+broader:
+- causality-orientations-theory
+related:
+- autonomy-orientation
+- control-orientation
+- impersonal-orientation
+- self-determination-theory
+prerequisites:
+- causality-orientations-theory
+confidence: medium
+callouts:
+- type: definition
+  title: General Causality Orientations Scale
+  body: The General Causality Orientations Scale (Deci & Ryan, 1985) is the self-report
+    instrument that measures three relatively stable individual differences in motivational
+    orientation — autonomy orientation (acting from interest and value), control orientation
+    (acting from internal/external pressure), and impersonal orientation (experiencing
+    action as ineffective) — by asking respondents to report likely reactions to vignettes.
+- type: key-claim
+  title: Key claim about General Causality Orientations Scale
+  body: The General Causality Orientations Scale operationalises SDT's claim that
+    internalisation produces stable individual differences in how people characteristically
+    experience and regulate their actions; GCOS scores predict outcomes across health,
+    work, education, and relationships that match SDT's theoretical predictions.
+- type: warning
+  title: Common pitfall regarding General Causality Orientations Scale
+  body: 'The General Causality Orientations Scale is best treated as measuring *trait-level
+    tendencies* that are nonetheless responsive to context: a person with a moderate
+    autonomy orientation can be pushed into controlled regulation by a heavily contingent
+    environment, and a control-oriented person can be drawn into autonomous regulation
+    by sustained need-supportive conditions, so GCOS scores should not be reified
+    as fixed personality.'

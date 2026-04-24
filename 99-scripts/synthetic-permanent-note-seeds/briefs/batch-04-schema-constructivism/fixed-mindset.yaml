@@ -1,0 +1,37 @@
+concept: Fixed Mindset
+domain: motivation-research
+secondary_domains:
+- psychology
+- education
+aliases:
+- entity mindset
+broader:
+- implicit-theories-of-intelligence
+related:
+- entity-theory-of-intelligence
+- growth-mindset
+- carol-dweck
+- helpless-pattern
+confidence: medium
+callouts:
+- type: definition
+  title: Fixed Mindset
+  body: A Fixed Mindset, in Carol Dweck's framework, is the implicit belief that intelligence
+    and ability are stable traits one has in fixed quantities, leading to performance
+    goals (proving competence), avoidance of challenges that risk exposing low ability,
+    and helpless responses to setbacks interpreted as evidence of trait deficiency.
+- type: key-claim
+  title: Key claim about Fixed Mindset
+  body: A Fixed Mindset predicts maladaptive responses to academic challenge — challenge
+    avoidance, effort minimisation, attribution of failure to stable ability — that
+    compound over time as the learner systematically opts out of the high-effort engagement
+    through which competence develops, which is the mechanism Dweck's research programme
+    identified.
+- type: warning
+  title: Common pitfall regarding Fixed Mindset
+  body: 'A Fixed Mindset and its growth-mindset counterpart have been the subject
+    of major replication concerns: large-scale interventions (Yeager et al. 2019)
+    find effects much smaller than the popular literature suggests, often confined
+    to specific subgroups; treating Fixed Mindset reduction as a high-leverage universal
+    intervention overstates the evidence and underweights the structural factors (curriculum,
+    teaching, opportunity) that are larger drivers of outcomes.'

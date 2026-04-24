@@ -1,0 +1,40 @@
+concept: Autonomous Regulation
+domain: motivation-research
+secondary_domains:
+- self-determination-theory
+aliases:
+- autonomous motivation
+broader:
+- self-determination-theory
+- organismic-integration-theory
+related:
+- controlled-regulation
+- identified-regulation
+- integrated-regulation
+- intrinsic-motivation
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Autonomous Regulation
+  body: Autonomous Regulation, in Self-Determination Theory's organismic integration
+    subtheory, is the family of motivational regulations characterised by self-endorsement
+    — including intrinsic motivation, integrated regulation, and identified regulation
+    — in contrast to controlled regulations (introjected and external) that involve
+    internal or external pressure.
+- type: key-claim
+  title: Key claim about Autonomous Regulation
+  body: Autonomous Regulation predicts qualitatively better outcomes than controlled
+    regulation across virtually every domain studied — deeper learning, greater persistence,
+    more creative problem-solving, better mental and physical health — even when the
+    absolute *amount* of motivation is matched, which is why SDT treats motivational
+    *quality* as more important than motivational *quantity*.
+- type: warning
+  title: Common pitfall regarding Autonomous Regulation
+  body: Autonomous Regulation cannot be installed by exhortation; one cannot simply
+    tell a learner to find their work personally meaningful. The conditions that promote
+    internalisation toward Autonomous Regulation are environmental — meaningful rationale,
+    autonomy support, structure that supports competence — and pedagogy that demands
+    autonomous motivation from learners without providing those conditions sets them
+    up to fail.

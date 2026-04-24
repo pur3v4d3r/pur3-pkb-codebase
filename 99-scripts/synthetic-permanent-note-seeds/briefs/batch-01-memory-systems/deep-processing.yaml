@@ -1,0 +1,42 @@
+concept: Deep Processing
+domain: cognitive-science
+secondary_domains:
+- learning-science
+- memory-research
+aliases:
+- deep encoding
+- semantic processing
+broader:
+- levels-of-processing
+related:
+- elaborative-rehearsal
+- maintenance-rehearsal
+- elaboration
+- self-explanation
+- generative-learning-theory
+prerequisites:
+- levels-of-processing
+confidence: high
+callouts:
+- type: definition
+  title: Deep Processing
+  body: Deep Processing is the end of Craik and Lockhart's [[levels-of-processing]]
+    continuum at which incoming material is analysed for meaning, integrated with
+    prior knowledge, and related to existing schemas — as opposed to surface-level
+    analysis of physical or phonological features — and is the encoding regime that
+    produces durable, retrievable traces.
+- type: key-claim
+  title: Key claim about Deep Processing
+  body: Deep Processing predicts retention better than the duration of study or the
+    number of repetitions, which is why a learner who briefly elaborates on meaning
+    often outperforms a learner who repeatedly re-reads, and why instructional designs
+    that *force* meaning-level engagement (questions, self-explanation, application)
+    outperform those that merely re-expose material.
+- type: warning
+  title: Common pitfall regarding Deep Processing
+  body: Deep Processing has been criticised as circular (depth is sometimes inferred
+    from the very retention it is supposed to explain), and the modern replacement
+    frame — *transfer-appropriate processing* — emphasises that it is not depth per
+    se but the *match* between encoding operations and required retrieval operations
+    that drives performance; treating depth as a one-dimensional ladder oversimplifies
+    the underlying mechanism.

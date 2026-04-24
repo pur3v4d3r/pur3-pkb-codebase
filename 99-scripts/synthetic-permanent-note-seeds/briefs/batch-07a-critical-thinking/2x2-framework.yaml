@@ -1,0 +1,37 @@
+concept: 2x2 Framework
+domain: analytical-frameworks
+secondary_domains:
+- decision-making
+- business-strategy
+aliases:
+- 2x2 matrix
+broader:
+- analytical-frameworks
+related:
+- four-quadrant-analysis
+- eisenhower-matrix
+- swot-analysis
+- boston-matrix
+confidence: medium
+callouts:
+- type: definition
+  title: 2x2 Framework
+  body: A 2x2 Framework is the analytical pattern of crossing two binary or continuous
+    dimensions to produce four quadrants that organise cases, options, or strategies
+    — exemplified by the Eisenhower urgent/important matrix, the BCG growth/share
+    matrix, and many strategic-management tools — and is widely used because it makes
+    trade-offs visible at a glance.
+- type: key-claim
+  title: Key claim about 2x2 Framework
+  body: A 2x2 Framework is most useful when the two dimensions are genuinely orthogonal
+    (independent) and exhaustive (jointly cover the space), in which case the four
+    quadrants reveal the strategically distinct types of cases or options and recommend
+    differentiated responses; the simplicity is the value when those conditions are
+    met.
+- type: warning
+  title: Common pitfall regarding 2x2 Framework
+  body: A 2x2 Framework is regularly applied in domains where the chosen dimensions
+    are not orthogonal or where two dimensions are insufficient, producing forced
+    classifications and false strategic clarity; consumers should ask "are these dimensions
+    really independent?" and "do four cells really cover the space?" before accepting
+    the framework's recommendations as decision-relevant.

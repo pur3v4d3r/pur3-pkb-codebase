@@ -1,0 +1,40 @@
+concept: Interleaving Effect
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- study-strategies
+aliases:
+- interleaved practice
+- mixed practice
+broader:
+- principles-of-learning
+- learning-strategies
+related:
+- blocked-practice
+- discrimination-learning
+- desirable-difficulties
+- spacing-effect
+prerequisites:
+- principles-of-learning
+confidence: high
+callouts:
+- type: definition
+  title: Interleaving Effect
+  body: The Interleaving Effect is the empirical finding that practising multiple
+    categories of problems in mixed order — ABCABC — produces better long-term discrimination
+    and transfer than blocked practice of the same items — AAABBBCCC — despite typically
+    lower performance during the practice itself, making it a paradigmatic [[desirable-difficulty]].
+- type: key-claim
+  title: Key claim about Interleaving Effect
+  body: The Interleaving Effect is robust for category discrimination tasks where
+    learners must recognise *which* procedure or concept applies — algebra problem
+    types, painting styles, bird species — because interleaving forces the learner
+    to perform the discriminative judgement during practice that they will need to
+    perform on novel problems.
+- type: warning
+  title: Common pitfall regarding Interleaving Effect
+  body: The Interleaving Effect is often misapplied as a universal study principle,
+    but its benefits are tied specifically to discrimination tasks; for skill acquisition
+    where the same procedure must be smoothed and automated, blocked practice often
+    outperforms interleaving, and the productive rule is "interleave when discrimination
+    matters; block when execution does."

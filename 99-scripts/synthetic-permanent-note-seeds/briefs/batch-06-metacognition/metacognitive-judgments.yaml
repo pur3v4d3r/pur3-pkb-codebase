@@ -1,0 +1,44 @@
+concept: Metacognitive Judgments
+domain: metacognition-research
+secondary_domains:
+- memory-research
+- learning-science
+aliases:
+- JOLs
+- judgments of learning
+- ease-of-learning judgments
+broader:
+- metacognition
+related:
+- ease-of-learning
+- judgements-of-learning
+- retrospective-confidence
+- metacognitive-feelings
+- metacognitive-calibration
+prerequisites:
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Metacognitive Judgments
+  body: Metacognitive Judgments are the explicit assessments learners make about their
+    own cognitive states — judgments of learning (will I remember this later?), feelings
+    of knowing (could I retrieve this if cued?), retrospective confidence (was that
+    answer right?), and ease-of-learning judgements (how hard will this be?) — and
+    serve as inputs to metacognitive regulation.
+- type: key-claim
+  title: Key claim about Metacognitive Judgments
+  body: Metacognitive Judgments are constructed in real time from cues (fluency, familiarity,
+    partial retrieval) rather than being read off some internal knowledge meter, which
+    means their accuracy depends on the diagnostic value of the available cues — and
+    explains why judgements made immediately after study (when fluency cues dominate)
+    are typically less accurate than judgements made after a delay (when retrieval-based
+    cues become available).
+- type: warning
+  title: Common pitfall regarding Metacognitive Judgments
+  body: Metacognitive Judgments are widely used in self-regulated learning research
+    as proxies for metacognitive monitoring, but their predictive validity for actual
+    recall is modest at best in many studies; consumers of this literature should
+    recognise that "improving JOLs" is not the same as "improving learning outcomes,"
+    and the linkage between judgement accuracy and behavioural change remains the
+    practical bottleneck.

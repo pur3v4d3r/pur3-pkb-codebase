@@ -1,0 +1,43 @@
+concept: Knowledge Schemas
+domain: cognitive-science
+secondary_domains:
+- learning-science
+- knowledge-representation
+aliases:
+- cognitive schemas
+- knowledge structures
+broader:
+- schema-theory
+narrower:
+- declarative-schemas
+- procedural-schemas
+related:
+- prior-knowledge
+- schema-theory-and-learning
+- scripts
+- frames
+prerequisites:
+- schema-theory
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Schemas
+  body: Knowledge Schemas is the umbrella term for the organised cognitive structures
+    — declarative concepts, procedural rules, scripts for events, frames for situations
+    — that constitute the long-term knowledge a learner brings to bear on new situations
+    and through which all new experience is interpreted.
+- type: key-claim
+  title: Key claim about Knowledge Schemas
+  body: Knowledge Schemas determine what learners notice, encode, infer, and remember
+    from any given experience; the same lecture, text, or demonstration produces qualitatively
+    different learning depending on the Knowledge Schemas the learner activates, which
+    is why pre-instructional schema activation is among the most cost-effective pedagogical
+    moves available.
+- type: warning
+  title: Common pitfall regarding Knowledge Schemas
+  body: Knowledge Schemas can be wrong as well as right, and incorrect schemas actively
+    distort new learning toward themselves rather than passively waiting to be replaced;
+    confronting and reorganising faulty Knowledge Schemas (the [[conceptual-change]]
+    task) is qualitatively harder than building schemas where none existed, and pedagogy
+    that merely adds correct content on top of unrevised faulty schemas often leaves
+    the faulty schemas dominant.

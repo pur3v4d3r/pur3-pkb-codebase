@@ -1,0 +1,39 @@
+concept: Critical Reasoning
+domain: critical-thinking
+secondary_domains:
+- logic
+- philosophy
+aliases:
+- analytic reasoning
+broader:
+- critical-thinking
+- reasoning
+related:
+- argument-analysis
+- informal-logic
+- inference
+- evidence-evaluation
+prerequisites:
+- critical-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Critical Reasoning
+  body: Critical Reasoning is the analytic core of critical thinking — the deliberate
+    evaluation of arguments and evidence, identification of assumptions, assessment
+    of inferential relations, and judgement of conclusion strength — and is what makes
+    critical-thinking dispositions actionable in evaluating any specific claim.
+- type: key-claim
+  title: Key claim about Critical Reasoning
+  body: Critical Reasoning operates by making argument structure explicit (premises,
+    intermediate conclusions, final conclusion), assessing each premise for plausibility,
+    evaluating the strength of each inferential step, and identifying unstated assumptions,
+    after which the conclusion can be evaluated rather than merely accepted or rejected
+    on surface impression.
+- type: warning
+  title: Common pitfall regarding Critical Reasoning
+  body: Critical Reasoning is often confused with mere disagreement or scepticism,
+    but reflexive contrarianism is not Critical Reasoning — it is the inverse failure
+    mode, in which any claim is rejected regardless of evidence; genuine Critical
+    Reasoning includes accepting well-supported conclusions one initially disliked,
+    which is the discipline that distinguishes it from oppositional reflex.
