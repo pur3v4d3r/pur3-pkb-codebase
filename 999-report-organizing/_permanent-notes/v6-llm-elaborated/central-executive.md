@@ -1,0 +1,142 @@
+---
+title: "Central Executive"
+aliases:
+  - "Central Executive"
+  - "executive controller"
+  - "attentional controller"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - cognitive-psychology
+
+domain: cognitive-psychology
+subdomains:
+  - working-memory
+  - executive-function
+
+created: 2026-04-24
+updated: 2026-04-24
+
+source-type: report-extraction
+source-reports:
+  - "central-executive-synthetic-seed-2026-04-24"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Working Memory"
+
+related:
+  - "[[Working Memory]]"
+  - "[[Working Memory Capacity]]"
+  - "[[Episodic Buffer]]"
+  - "[[Fluid Intelligence]]"
+prerequisites:
+  - "[[Working Memory]]"
+  - "[[Working Memory Capacity]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[Episodic Buffer]]"
+contrasts-with:
+  - "[[]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[Fluid Intelligence]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Central Executive
+
+> [!definition] **Central Executive**
+> The Central Executive is the supervisory component of Baddeley's working-memory model, responsible for allocating attention and coordinating task switching; it does not store information but rather manages the allocation of attention among different cognitive tasks and systems within working memory. It falls under [[Working Memory]].
+
+## Core Explanation
+
+The Central Executive acts as a central control system in Baddeley's model, orchestrating various cognitive processes such as task switching, interference resolution, and goal maintenance. This component is crucial for managing the allocation of attention among different slave systems like the phonological loop and visuospatial sketchpad, ensuring that information processing remains efficient and focused.
+
+In practice, the Central Executive plays a pivotal role in coordinating between these slave systems. For instance, when engaging in a complex task that requires both verbal and spatial manipulation, the Central Executive ensures that the appropriate attention is directed to each system at the right moment. This coordination is essential for maintaining cognitive flexibility and adaptability.
+
+Theoretical roots of the Central Executive can be traced back to Alan Baddeley's seminal work in the 1980s, which introduced this concept as a key component of working memory. The model posits that the Central Executive is responsible for implementing controlled attention, which allows individuals to focus on specific tasks while suppressing irrelevant information. This mechanism is particularly important for explaining individual differences in working memory capacity and fluid intelligence.
+
+Empirical evidence supports the importance of the Central Executive in various cognitive processes. For example, studies have shown that individuals with higher working memory capacity tend to perform better on tasks requiring sustained attention and task switching, which are facilitated by a more efficient Central Executive.
+
+## Mechanism
+
+The Central Executive operates through several mechanisms, including updating (modifying existing information), inhibition (suppressing irrelevant material), and shifting (switching between different cognitive tasks). These processes work in concert to ensure that the most relevant information is attended to while less pertinent details are suppressed.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> Understanding the Central Executive can inform instructional strategies by emphasizing the importance of task-switching exercises. For example, incorporating activities that require students to switch between different types of cognitive tasks (e.g., from reading a text to solving a math problem) can enhance working memory capacity and fluid intelligence.
+
+> [!example] **Application 2 — Cognitive training**
+> Cognitive training programs can be designed to target the Central Executive by including exercises that require sustained attention, task switching, and interference resolution. These activities help improve the efficiency of the Central Executive, leading to better overall cognitive performance.
+
+> [!example] **Application 3 — Problem-solving strategies**
+> In problem-solving scenarios, recognizing the role of the Central Executive can guide the development of effective strategies. For instance, breaking down complex problems into smaller, manageable tasks and using mental rehearsal techniques can enhance the Central Executive's ability to coordinate these sub-tasks effectively.
+
+## Key Distinctions
+
+> [!key-distinction] **Central Executive vs Episodic Buffer**
+> The Central Executive is distinct from the episodic buffer in that it focuses on attentional control and task switching, whereas the episodic buffer serves as a temporary storage system for integrating information across different slave systems. This distinction highlights the complementary roles of these components within Baddeley's model.
+
+## Key Figures
+
+- **Alan Baddeley** — Alan Baddeley is credited with originating the concept of the Central Executive in his seminal work on working memory, which introduced this component as a key element in understanding cognitive processes.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How does the Central Executive interact with long-term memory?
+>
+> *What would resolve it:* Further research is needed to elucidate the precise mechanisms by which the Central Executive interfaces with long-term memory, particularly in terms of how it retrieves and integrates information from both systems.
+
+> [!open-question] **Question**
+> Can the functions of the Central Executive be further fractionated into more specific processes?
+>
+> *What would resolve it:* Advancements in neuroimaging techniques could provide insights into whether the Central Executive can be broken down into distinct sub-processes, such as updating, shifting, and inhibition.
+
+## Synthesis
+
+The significance of the Central Executive lies in its role in explaining individual differences in working memory capacity and fluid intelligence. By managing attention and coordinating task switching, it enables individuals to perform complex cognitive tasks efficiently. Understanding this component is crucial for developing effective instructional strategies, cognitive training programs, and problem-solving techniques that enhance overall cognitive performance.
+
+The Central Executive's importance extends beyond the realm of working memory, influencing broader domains such as education and cognitive psychology. Its role in explaining individual differences underscores its relevance to understanding human cognition and behavior.
+
+## Connections & Context
+
+**Falls under:** [[Working Memory]]
+
+**Prerequisites:** [[Working Memory]] · [[Working Memory Capacity]]
+
+**Sibling concepts:** [[Episodic Buffer]]
+
+**Applies to:** [[Fluid Intelligence]]
+
+**Source:** [[central-executive-synthetic-seed-2026-04-24]]

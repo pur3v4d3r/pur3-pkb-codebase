@@ -1,0 +1,147 @@
+---
+title: "Relatedness Need"
+aliases:
+  - "Relatedness Need"
+  - "need for relatedness"
+  - "need to belong"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - educational-psychology
+
+domain: educational-psychology
+subdomains:
+  - self-determination-theory
+  - psychology
+
+created: 2026-04-24
+updated: 2026-04-24
+
+source-type: report-extraction
+source-reports:
+  - "relatedness-need-synthetic-seed-2026-04-24"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Self-Determination Theory"
+
+related:
+  - "[[Autonomy Need]]"
+  - "[[Competence Need]]"
+  - "[[Attachment Theory]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[Autonomy Need]]"
+  - "[[Competence Need]]"
+contrasts-with:
+  - "[[Attachment Theory]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Relatedness Need
+
+> [!definition] **Relatedness Need**
+> The Relatedness Need is the psychological requirement to feel connected to others and belong to a community, which is satisfied by warm, responsive relationships where one feels valued for who they are rather than for instrumental performance. It falls under [[Self-Determination Theory]], emphasizing social connection and belongingness over other needs such as autonomy or competence.
+
+> [!attention] **Boundary**
+> This concept excludes other types of needs such as autonomy or competence, focusing specifically on social connection and belongingness.
+
+## Core Explanation
+
+The Relatedness Need is a fundamental aspect of Self-Determination Theory, focusing on the importance of feeling connected to others and belonging in one's community. This need is particularly crucial for learners who may struggle with feelings of exclusion or marginalization within educational settings. When this need is met through supportive relationships, it fosters a sense of security and validation that enhances overall well-being and motivation.
+
+In practice, the Relatedness Need operates by creating an environment where students feel valued and cared for, which in turn promotes engagement and persistence in learning activities. For instance, when teachers provide emotional support and create opportunities for collaboration, they help students develop a sense of belonging, thereby enhancing their intrinsic motivation to learn. Conversely, conditional regard—where affection is contingent on performance—undermines this need by making learners feel valued only under certain conditions, which can lead to decreased motivation and well-being.
+
+Theoretical roots of the Relatedness Need trace back to Self-Determination Theory, which posits that individuals have innate psychological needs for autonomy, competence, and relatedness. While all three are essential, the Relatedness Need is often overlooked in instructional design despite its significant impact on learner engagement and persistence. Research has shown that relatedness with teachers and peers is a strong predictor of academic success and well-being, particularly for students from marginalized backgrounds who may face additional challenges in feeling included.
+
+Empirical evidence supports the importance of the Relatedness Need in educational settings. For example, studies have demonstrated that when teachers provide warm, responsive interactions and create inclusive classroom environments, students are more likely to persist through challenging tasks and exhibit higher levels of intrinsic motivation. This underscores the critical role of relatedness in fostering a positive learning environment.
+
+## Mechanism
+
+The mechanism by which relatedness with teachers and peers positively impacts learners involves creating a sense of security and validation. When students feel valued for who they are, it reduces anxiety and increases their willingness to take risks and engage deeply with the material. This process is facilitated through consistent positive interactions, emotional support, and opportunities for collaboration.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, fostering a sense of relatedness can be achieved by incorporating group activities that encourage peer interaction and collaborative problem-solving. For example, using breakout rooms in online courses or organizing team-based projects can help students build connections with their peers, enhancing their motivation and engagement.
+
+> [!example] **Application 2 — Teacher-student relationships**
+> Teachers can foster relatedness by providing emotional support and creating a welcoming classroom environment. This might involve regular check-ins, acknowledging students' efforts, and showing genuine interest in their well-being. Such practices help students feel valued and supported, which is crucial for their overall motivation and academic success.
+
+> [!example] **Application 3 — Parental involvement**
+> Parents can play a vital role in satisfying the Relatedness Need by being present and supportive in their children's educational journey. This might involve attending school events, showing interest in their child’s progress, and providing emotional support at home. By doing so, parents help create a sense of belonging that extends beyond the classroom.
+
+## Key Distinctions
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> The Relatedness Need is distinct from intrinsic load (the cognitive effort required to process information) and extraneous load (unnecessary cognitive effort due to poor instructional design). While all three are related to learning, the Relatedness Need focuses on social connection and emotional support rather than the cognitive demands of the material. Understanding this distinction helps educators prioritize creating supportive relationships over merely increasing the difficulty or complexity of tasks.
+
+## Key Figures
+
+- **Edward Deci** — Co-originator of Self-Determination Theory, Edward Deci has contributed significantly to our understanding of the Relatedness Need by emphasizing its importance in fostering intrinsic motivation and well-being.
+- **Richard Ryan** — Also a co-originator of Self-Determination Theory, Richard Ryan has further developed the concept of the Relatedness Need through extensive research on how social connections impact motivation and learning.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How does the Relatedness Need interact with other psychological needs?
+>
+> *What would resolve it:* Further empirical research that examines the interplay between autonomy, competence, and relatedness would help clarify how these needs complement or compete with each other.
+
+> [!open-question] **Question**
+> What are the long-term effects of satisfying or neglecting this need?
+>
+> *What would resolve it:* Longitudinal studies tracking students' well-being and academic outcomes over time could provide insights into the lasting impact of meeting or failing to meet the Relatedness Need.
+
+## Synthesis
+
+Understanding the Relatedness Need is crucial for educators and researchers in motivation and learning science because it highlights the importance of social connections in fostering intrinsic motivation and well-being. By recognizing this need, educators can create more supportive and inclusive environments that enhance students' engagement and persistence. This concept also intersects with other psychological needs within Self-Determination Theory, such as autonomy and competence, underscoring the interconnected nature of these fundamental human requirements.
+
+The Relatedness Need is particularly relevant in educational settings where learners from marginalized backgrounds may face additional challenges in feeling included. By addressing this need through supportive relationships and inclusive practices, educators can help create a more equitable learning environment that benefits all students.
+
+## Evidence
+
+Empirical evidence supports the importance of the Relatedness Need in fostering intrinsic motivation and well-being. Studies have shown that when teachers provide warm, responsive interactions and create inclusive classroom environments, students are more likely to persist through challenging tasks and exhibit higher levels of intrinsic motivation. This underscores the critical role of relatedness in enhancing academic success.
+
+## Connections & Context
+
+**Falls under:** [[Self-Determination Theory]]
+
+**Sibling concepts:** [[Autonomy Need]] · [[Competence Need]]
+
+**Contrasts with:** [[Attachment Theory]]
+
+**Source:** [[relatedness-need-synthetic-seed-2026-04-24]]

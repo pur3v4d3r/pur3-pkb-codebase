@@ -1,0 +1,141 @@
+---
+title: "Self-Reflection Phase"
+aliases:
+  - "Self-Reflection Phase"
+  - "Zimmerman self-reflection phase"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - educational-psychology
+
+domain: educational-psychology
+subdomains:
+  - metacognition-research
+  - learning-science
+
+created: 2026-04-24
+updated: 2026-04-24
+
+source-type: report-extraction
+source-reports:
+  - "self-reflection-phase-synthetic-seed-2026-04-24"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Self-Regulated Learning"
+
+related:
+  - "[[Forethought Phase]]"
+  - "[[Performance Phase]]"
+  - "[[Causal Attribution Theory]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[Forethought Phase]]"
+  - "[[Performance Phase]]"
+contrasts-with:
+  - "[[]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[Causal Attribution Theory]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Self-Reflection Phase
+
+> [!definition] **Self-Reflection Phase**
+> The Self-Reflection Phase is a critical component of self-regulated learning (SRL) where learners evaluate their performance, make causal attributions for outcomes, and adjust their strategies accordingly. It falls under [[Self-Regulated Learning]], focusing on post-performance evaluation and adjustment.
+
+> [!attention] **Boundary**
+> This phase excludes pre-performance planning (forethought) and action execution (performance), focusing solely on post-performance evaluation and adjustment.
+
+## Core Explanation
+
+The Self-Reflection Phase is the final phase in the SRL cycle, following the Forethought and Performance phases. During this phase, learners engage in self-judgment by evaluating their performance against established criteria and making causal attributions for outcomes. These attributions can be either controllable (effort, strategy) or uncontrollable (ability, luck).
+
+Self-reaction is a crucial component of the Self-Reflection Phase, involving affective responses and adaptive inferences that guide planning for future cycles. Learners who attribute their performance to controllable causes tend to respond adaptively by revising their plans, while those attributing outcomes to uncontrollable factors may adopt defensive strategies such as avoidance or learned helplessness.
+
+The process of self-reflection is deeply rooted in attribution theory, which posits that how learners interpret the causes of their successes and failures significantly influences their subsequent behavior. For instance, attributing success to effort rather than innate ability can foster a growth mindset, encouraging learners to persist and improve.
+
+Empirical studies have shown that authentic self-reflection, where learners engage in private, formative evaluations tied to actual next-cycle decisions, leads to more effective learning outcomes compared to superficial reflective writing assignments. This is because genuine reflection promotes deeper understanding and strategic adjustment.
+
+## Mechanism
+
+The mechanism of the Self-Reflection Phase involves a step-by-step process where learners first evaluate their performance against specific criteria. They then make causal attributions, distinguishing between controllable (e.g., effort) and uncontrollable (e.g., luck) factors. Based on these attributions, learners respond adaptively or defensively, either revising their strategies for future cycles or adopting maladaptive behaviors.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, fostering genuine self-reflection among students is crucial. Teachers should create opportunities for private and formative reflection that are tied to actual next-cycle decisions rather than graded reflective writing assignments. This ensures that learners engage in meaningful evaluation and strategic adjustment.
+
+> [!example] **Application 2 — Learning interventions**
+> When designing learning interventions, it is essential to incorporate activities that promote authentic self-reflection. For example, providing students with specific criteria for success and encouraging them to reflect on their performance can lead to more effective learning outcomes by fostering a growth mindset.
+
+> [!example] **Application 3 — Feedback mechanisms**
+> Educators should use feedback mechanisms that encourage learners to engage in genuine self-reflection. This involves providing constructive, criterion-based feedback that prompts learners to evaluate their performance and make adaptive responses rather than defensive ones.
+
+## Key Distinctions
+
+> [!key-distinction] **Productive vs Unproductive Self-Reflection**
+> Productive self-reflection is characterized by attributing outcomes to controllable causes (effort, strategy) and responding adaptively. In contrast, unproductive self-reflection involves attributing outcomes to uncontrollable factors (ability, luck) and adopting defensive strategies such as avoidance or learned helplessness.
+
+## Key Figures
+
+- **John Zimmerman** — John Zimmerman is credited with developing the Self-Reflection Phase in his three-phase SRL model. His work emphasizes the importance of self-judgment and self-reaction in maintaining and enhancing self-regulated learning.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How can educators ensure that self-reflection is genuinely formative and not just a performance task?
+>
+> *What would resolve it:* Empirical evidence from studies comparing the impact of authentic versus inauthentic reflection on learning outcomes would help resolve this question.
+
+> [!open-question] **Question**
+> What strategies can be used to promote adaptive rather than defensive self-reactions?
+>
+> *What would resolve it:* Research exploring effective instructional methods and feedback mechanisms that encourage adaptive responses during self-reflection could provide insights into promoting genuine self-regulation.
+
+## Synthesis
+
+The Self-Reflection Phase is a pivotal component of the SRL cycle, playing a crucial role in maintaining and enhancing learning outcomes. By fostering authentic self-reflection, educators can help learners develop a growth mindset, make adaptive responses to challenges, and continuously improve their strategies. This phase connects directly with the Forethought and Performance phases, forming a cohesive framework for effective self-regulated learning.
+
+Understanding the importance of the Self-Reflection Phase extends beyond educational psychology into broader domains such as professional development and lifelong learning. By integrating this concept across various contexts, we can better support individuals in achieving their full potential through continuous reflection and strategic adjustment.
+
+## Connections & Context
+
+**Falls under:** [[Self-Regulated Learning]]
+
+**Sibling concepts:** [[Forethought Phase]] · [[Performance Phase]]
+
+**Applies to:** [[Causal Attribution Theory]]
+
+**Source:** [[self-reflection-phase-synthetic-seed-2026-04-24]]

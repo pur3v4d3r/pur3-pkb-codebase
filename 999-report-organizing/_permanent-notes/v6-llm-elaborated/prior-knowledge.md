@@ -1,0 +1,136 @@
+---
+title: "Prior Knowledge"
+aliases:
+  - "Prior Knowledge"
+  - "background knowledge"
+  - "prior learning"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - learning-science
+
+domain: learning-science
+subdomains:
+  - cognitive-science
+
+created: 2026-04-24
+updated: 2026-04-24
+
+source-type: report-extraction
+source-reports:
+  - "prior-knowledge-synthetic-seed-2026-04-24"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Cognitive Architecture"
+
+related:
+  - "[[Working Memory]]"
+  - "[[Worked Examples]]"
+prerequisites:
+  - "[[Working Memory]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[]]"
+contrasts-with:
+  - "[[]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[Worked Examples]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Prior Knowledge
+
+> [!definition] **Prior Knowledge**
+> Prior Knowledge is the totality of relevant declarative, procedural, and conceptual knowledge a learner brings to a new learning situation — including correct concepts, partial understandings, misconceptions, and skills — and is the single strongest predictor of how much will be learned from any given instructional episode. It falls under [[Cognitive Architecture]].
+
+> [!attention] **Boundary**
+> It includes both correct and incorrect knowledge but excludes other cognitive processes like working memory or attention.
+
+## Core Explanation
+
+Prior Knowledge encompasses all the knowledge a learner brings to a new learning situation, ranging from correct concepts to partial understandings and misconceptions. This knowledge significantly influences learning outcomes by affecting how information is encoded, integrated, and retrieved. For instance, learners with richer Prior Knowledge tend to encode more from the same exposure, integrate it with existing structures, and retrieve it from multiple cues, which can compound initial differences over time.
+
+In practice, Prior Knowledge operates as a foundation upon which new learning builds. A learner's ability to connect new information with their existing knowledge base is crucial for effective learning. For example, if a student has prior experience with basic arithmetic, they are more likely to understand and apply advanced mathematical concepts when introduced in class.
+
+Theoretical roots of Prior Knowledge can be traced back to cognitive psychology, where it is seen as a key component of schema theory. Schema theory posits that our existing knowledge structures (schemas) help us interpret new information by fitting it into these pre-existing frameworks. This means that learners with well-structured schemas are better equipped to process and retain new information.
+
+Empirical evidence supports the importance of Prior Knowledge in learning. For instance, studies have shown that students who enter a course with strong foundational knowledge tend to perform better than those without such a base. This is because their existing knowledge helps them make sense of new material more effectively.
+
+## Mechanism
+
+Prior Knowledge influences the encoding process by providing context and structure for new information. When learners encounter new concepts, they often relate these to their existing knowledge, which aids in the formation of new memories. This mechanism is particularly evident when working with complex topics like atomic structure, where a learner's prior understanding of basic physics can significantly enhance comprehension.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, leveraging Prior Knowledge is crucial for creating effective learning materials. For example, when designing a lesson on atomic structure, it would be beneficial to first assess students' existing knowledge about atoms and their solar system analogy. This allows the instructor to tailor the lesson to address misconceptions and build upon accurate understandings.
+
+> [!example] **Application 2 — Formative assessment**
+> Formative assessments can help teachers identify students' Prior Knowledge, allowing them to adjust instruction accordingly. For instance, a pre-assessment on basic arithmetic could reveal which concepts need reinforcement before introducing more advanced topics like algebra.
+
+## Key Distinctions
+
+> [!key-distinction] **Correct vs Incorrect Prior Knowledge**
+> Prior Knowledge can be either correct or incorrect. Correct Prior Knowledge enhances learning, while incorrect knowledge (misconceptions) can hinder it. For example, a student who believes that atoms are little solar systems will struggle to understand atomic structure if this misconception is not addressed.
+
+## Key Figures
+
+- **John Sweller** — John Sweller is credited with the origin of Prior Knowledge as a concept in learning science, particularly through his work on cognitive load theory. His research highlighted how Prior Knowledge influences learning and the importance of addressing misconceptions.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How do misconceptions affect the learning process?
+>
+> *What would resolve it:* Further empirical studies that systematically investigate the impact of different types of misconceptions on learning outcomes could help resolve this question.
+
+> [!open-question] **Question**
+> What are effective methods for eliciting and probing Prior Knowledge?
+>
+> *What would resolve it:* Developing and validating new assessment tools specifically designed to probe Prior Knowledge in a variety of contexts would provide insights into the most effective methods.
+
+## Synthesis
+
+Understanding Prior Knowledge is crucial because it highlights how existing knowledge shapes our ability to learn new information. By recognizing the role of Prior Knowledge, educators can design more effective instructional strategies that build upon students' existing knowledge while addressing misconceptions. This concept also intersects with other cognitive processes like working memory and attention, further emphasizing its importance in learning science.
+
+The impact of Prior Knowledge extends beyond individual learners to broader educational systems. By leveraging Prior Knowledge effectively, we can improve educational outcomes not only for individuals but also for entire populations by ensuring that instructional materials are tailored to the knowledge base of their intended audience.
+
+## Connections & Context
+
+**Falls under:** [[Cognitive Architecture]]
+
+**Prerequisites:** [[Working Memory]]
+
+**Applies to:** [[Worked Examples]]
+
+**Source:** [[prior-knowledge-synthetic-seed-2026-04-24]]
