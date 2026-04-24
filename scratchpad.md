@@ -2,9 +2,11 @@
 
 
 
-
-
-
+```markdown
+Generate a report on: [TOPIC]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
+```
 
 
 
@@ -521,3 +523,42 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 
 `D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+# Concept Inventory and Gap Analysis
+This is a list of my permanent notes in obsidian, use this to come up with a set of high level concepts that are missing from this set of permanent notes.
+
+
+
+
+
+
+# MOC Prompt/Agent Specialist
+I need you to plan out and then generate a prompt/agent that can plan out and design PKB [obsidian] MOCs [map-of-content] based on a given set of permanent notes. The goal of this prompt/agent is to analyze the content and themes of the permanent notes and then create a structured MOC that organizes these notes in a way that highlights their relationships and makes it easy to navigate the concepts within my PKB. The MOC should be designed to provide a clear overview of the domain or theme it represents, and should link to the relevant permanent notes in a logical and intuitive manner. The prompt/agent should be able to identify common themes, group related concepts together, and create a hierarchy of notes that reflects the structure of the knowledge within my PKB. The output should be a well-organized MOC that serves as a central hub for exploring the concepts contained in the permanent notes, and that can be easily integrated into my Obsidian vault.
+
+Maker sure you use you Tot and Self consistancy to generate this prompt/agent.
+
+## Key Requirements for the MOC Prompt/Agent
+- The prompt should include instructions for analyzing the permanent notes, identifying key themes and relationships, and then structuring the MOC accordingly. It should also specify the format for the MOC, including how to link to the permanent notes and how to organize the content within the MOC for maximum clarity and usability.
+- The agent should be able to take a list of permanent notes as input, analyze their content and metadata, and then generate a MOC that organizes these notes in a way that reflects their relationships and themes. The MOC should be designed to be easily navigable, with clear sections and links to the relevant permanent notes, allowing users to explore the concepts within my PKB in a structured and meaningful way.
+- The Agent should use Chain of Density, Self Consistency, and Tree of Thought prompting techniques to ensure that the generated MOC is coherent, well-structured, and effectively captures the relationships between the permanent notes. The output should be a comprehensive MOC that serves as a valuable resource for navigating and understanding the concepts within my PKB.
+- The agent MUST be a specialist in designing MOCs for PKBs, with a deep understanding of how to structure knowledge in a way that is both intuitive and informative. The agent should be able to create MOCs that not only organize the permanent notes but also enhance the user's ability to discover connections and insights within the PKB. The output MOC should be designed to facilitate learning and exploration, making it easier for users to engage with the content of the permanent notes and to see how different concepts relate to each other within the broader context of the PKB.
+- Each MOC generated MUST include a clear title that reflects the domain or theme it represents, and should be structured with sections and subsections that logically group related permanent notes together. The MOC should also include an introduction that provides an overview of the domain or theme, and should use clear and concise language to guide users through the content. The links to the permanent notes should be formatted in a way that is consistent with Obsidian's linking syntax, allowing for easy navigation between the MOC and the individual notes.
+- Each MOC should contain not only the links to the other permanent notes but also contain detailed descriptions of the concepts, and how they relate to each other. The MOC should serve as a comprehensive guide to the domain or theme it represents, providing users with a clear understanding of the key concepts and their interrelationships. The MOC should be designed to be a valuable resource for both new and experienced users of the PKB, helping them to navigate the content and to discover new insights within the permanent notes.
+- Each MOC should contain up to 10k words, and should be designed to provide a comprehensive overview of the domain or theme it represents. The MOC should be structured in a way that allows users to easily find and access the relevant permanent notes, while also providing enough context and explanation to help them understand the significance of each note and how it fits into the broader knowledge structure of the PKB. The MOC should be designed to facilitate learning and exploration, making it easier for users to engage with the content of the permanent notes and to see how different concepts relate to each other within the broader context of the PKB.
+
+
+
+# MOC Development
+This is a list of my permanent notes in obsidian, use this to design and build a couple of HIGH LEVEL MOC to orginize these concepts.
+Each MOC [map-of-content] should be focused around a specific domain or theme, and should link to the relevant permanent notes that fall under that domain or theme. The MOCs should be designed to provide a clear and intuitive structure for navigating the concepts in my PKB, and should help to highlight the relationships between different concepts. You can use the titles and content of the permanent notes to identify common themes and group related concepts together in the MOCs.
