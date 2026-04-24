@@ -1,0 +1,153 @@
+---
+title: "Assessment for Autonomy"
+aliases:
+  - "Assessment for Autonomy"
+  - "Curriculum Design for SDL"
+  - "Lifelong Learning Curriculum"
+  - "Self-Directed Learning Curriculum Design"
+  - "SDL Curriculum Architecture"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - educational-psychology
+
+domain: educational-psychology
+subdomains:
+  - adult-education
+  - lifelong-learning
+  - self-directed-learning
+  - instructional-design
+
+created: 2026-04-23
+updated: 2026-04-23
+
+source-type: report-extraction
+source-reports:
+  - "curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Self-Regulated Learning"
+
+related:
+  - "[[Self-Directed Learning]]"
+  - "[[Formative Assessment]]"
+  - "[[Scaffolding]]"
+  - "[[Self-Determination Theory]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[Self-Directed Learning]]"
+contrasts-with:
+  - "[[]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[Formative Assessment]]"
+  - "[[Scaffolding]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[Self-Determination Theory]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Assessment for Autonomy
+
+> [!definition] **Assessment for Autonomy**
+> Assessment for autonomy involves designing assessment systems to develop learners' capacity for self-evaluation, rather than primarily serving grading or certification functions. It falls under [[Self-Regulated Learning]], aiming to transfer evaluative authority from assessors to learners through progressively scaffolded feedback mechanisms.
+
+> [!attention] **Boundary**
+> This concept excludes traditional summative assessments that focus on ranking and certifying learners. It is distinct from formative assessment which can also support learning but does not necessarily aim at transferring evaluative authority to the learner.
+
+## Core Explanation
+
+Assessment for autonomy is fundamentally about developing a learner's ability to accurately self-evaluate their work, which is crucial for lifelong learning. This approach shifts the focus away from external grading and certification towards fostering internal evaluative skills that enable learners to monitor and improve their own performance effectively.
+
+In practice, assessment for autonomy operates by providing learners with feedback that encourages them to reflect on their work critically and set personal goals for improvement. For instance, self-assessment tasks where students evaluate their own work against specific criteria help build this capacity. Peer assessment also plays a significant role in developing evaluative perspective-taking skills among learners.
+
+Theoretical roots of assessment for autonomy can be traced back to Self-Determination Theory, which posits that intrinsic motivation is enhanced when individuals have control over their learning processes. By empowering students with the tools and strategies needed for self-evaluation, educators support a more autonomous and self-directed approach to learning.
+
+Historically, the shift towards assessment for autonomy has been driven by critiques of traditional summative assessments that prioritize grades over genuine learning outcomes. For example, John Hattie's work on visible learning highlights how formative feedback can be transformed into a tool for developing self-regulated learners when it is designed to foster accurate self-evaluation.
+
+## Mechanism
+
+The mechanism of assessment for autonomy involves progressively transferring the evaluative function from assessors to learners. This process begins with providing clear criteria and models, then gradually reducing external feedback while increasing opportunities for self-assessment and peer evaluation. The goal is to build a learner's capacity to judge their own work accurately over time.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, assessment for autonomy can be implemented by integrating formative feedback loops that encourage self-reflection and goal-setting. For example, teachers might use rubrics to guide students in evaluating their own work, which helps them develop a deeper understanding of the criteria and standards.
+
+> [!example] **Application 2 — Classroom management**
+> In classroom settings, assessment for autonomy can lead to more engaged and self-directed learners. By reducing reliance on grades and increasing opportunities for self-assessment, teachers can create an environment where students take ownership of their learning process, leading to higher levels of motivation and engagement.
+
+> [!example] **Application 3 — Curriculum development**
+> When developing curricula, assessment for autonomy requires a focus on building long-term evaluative skills rather than short-term performance metrics. This involves designing assessments that provide meaningful feedback and opportunities for learners to apply their knowledge in authentic contexts, fostering deeper learning.
+
+## Key Distinctions
+
+> [!key-distinction] **Assessment for autonomy vs formative assessment**
+> While both forms of assessment aim to support learning, assessment for autonomy specifically focuses on developing self-evaluation skills. Formative assessment can be used as a tool within this approach but is not solely focused on transferring evaluative authority.
+
+> [!key-distinction] **Assessment for autonomy vs summative assessment**
+> Summative assessments primarily serve to rank and certify learners, whereas assessment for autonomy aims to build self-evaluation skills. The key difference lies in the focus: summative assessments are about measuring performance at a point in time, while assessment for autonomy is about developing evaluative capacity over time.
+
+## Key Figures
+
+- **John Hattie** — Hattie's work on visible learning has significantly influenced the development of assessment for autonomy by emphasizing the importance of formative feedback in building self-regulated learners.
+- **Helen Timperley** — Timperley contributed to the theory and practice of assessment for autonomy through her research on feedback design, particularly focusing on how to develop accurate self-evaluative capacity among students.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How can educators ensure that learners are not solely focused on grades when implementing assessment for autonomy?
+>
+> *What would resolve it:* Empirical studies examining the impact of different feedback types and instructional strategies could provide insights into how to balance grade-focused behaviors with self-evaluation skills.
+
+> [!open-question] **Question**
+> What are the long-term effects of assessment for autonomy on student motivation and engagement?
+>
+> *What would resolve it:* Longitudinal research tracking students' academic performance, motivation levels, and self-regulated learning strategies over several years could help determine the sustained benefits of this approach.
+
+## Synthesis
+
+Assessment for autonomy is crucial because it equips learners with the skills necessary to take control of their own learning journey. By fostering accurate self-evaluation, it supports lifelong learning and self-regulated behavior. This concept intersects with other educational theories such as Self-Determination Theory and Scaffolding-Sovereignty Progression, reinforcing its importance in curriculum design for both immediate and long-term benefits.
+
+The implementation of assessment for autonomy has the potential to transform traditional classroom practices by shifting focus from external grading to internal evaluative capacity. This not only enhances learning outcomes but also prepares students for real-world challenges where self-assessment is a critical skill.
+
+## Connections & Context
+
+**Falls under:** [[Self-Regulated Learning]]
+
+**Sibling concepts:** [[Self-Directed Learning]]
+
+**Applies to:** [[Formative Assessment]] · [[Scaffolding]]
+
+**Supports:** [[Self-Determination Theory]]
+
+**Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

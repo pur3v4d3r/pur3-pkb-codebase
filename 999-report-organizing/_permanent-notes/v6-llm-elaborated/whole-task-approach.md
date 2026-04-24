@@ -1,0 +1,152 @@
+---
+title: "Whole-Task Approach"
+aliases:
+  - "Whole-Task Approach"
+  - "4C/ID Model"
+  - "Four Component Instructional Design"
+  - "Ten Steps to Complex Learning"
+  - "van Merriënboer's 4C/ID"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - educational-psychology
+
+domain: educational-psychology
+subdomains:
+  - cognitive-psychology
+  - educational-psychology
+  - learning-sciences
+
+created: 2026-04-23
+updated: 2026-04-23
+
+source-type: report-extraction
+source-reports:
+  - "four-component-instructional-design-model-4cid-foundational-report-2026-04-18"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Instructional Design"
+
+related:
+  - "[[Expertise Reversal Effect]]"
+  - "[[Cognitive Scaffolding]]"
+  - "[[Transfer of Learning]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[Expertise Reversal Effect]]"
+contrasts-with:
+  - "[[]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[Cognitive Scaffolding]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[Transfer of Learning]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Whole-Task Approach
+
+> [!definition] **Whole-Task Approach**
+> The Whole-Task Approach is an instructional design philosophy that maintains the structural integrity of complex tasks throughout training, presenting learners with complete task experiences (albeit simplified and scaffolded) from the earliest stages of instruction, rather than decomposing complex tasks into isolated component skills. It falls under [[Instructional Design]], where it emphasizes integrated competence over atomistic decomposition.
+
+> [!attention] **Boundary**
+> This approach does not mean full complexity; it involves simplifying tasks while preserving their integration. It should not be confused with atomistic decomposition where components are taught separately before integration.
+
+## Core Explanation
+
+The Whole-Task Approach is rooted in the belief that learners benefit more from experiencing complete tasks early on, even if these experiences are simplified and scaffolded to manage cognitive load. This approach ensures that learners understand how different components of a task interrelate, fostering better long-term retention and transfer of skills.
+
+In practice, this means instructors design lessons around full, albeit simplified, versions of complex tasks. For instance, in medical education, students might first engage with a complete diagnostic scenario rather than isolated symptoms or tests. This method helps learners grasp the broader context and interdependencies within the task domain.
+
+Theoretical roots of the Whole-Task Approach can be traced back to cognitive load theory, which posits that managing intrinsic (task-related) and extraneous (non-task-related) loads is crucial for effective learning. By preserving structural integrity, this approach minimizes extraneous load, allowing learners to focus on essential aspects of the task.
+
+Empirical evidence supports the Whole-Task Approach's effectiveness in complex domains like medical education. Studies show that students who learn through complete tasks demonstrate superior integration of skills and better transfer to novel situations compared to those taught isolated components.
+
+## Mechanism
+
+The approach employs cognitive scaffolding, a technique where instructors provide support initially but gradually reduce it as learners become more competent. This ensures that learners can handle the complexity of complete tasks without becoming overwhelmed.
+
+Another key mechanism is the use of worked examples and problem-solving strategies that guide learners through complex tasks step-by-step. These examples help learners understand how to apply their knowledge in different contexts, enhancing transfer.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, the Whole-Task Approach ensures that learning materials are structured around complete, simplified versions of tasks. This method helps learners build a comprehensive understanding from the start, leading to better retention and transfer of skills.
+
+> [!example] **Application 2 — Medical education**
+> In medical education, this approach is particularly effective for teaching diagnostic reasoning. Students learn how to construct differential diagnoses and interpret test results in context, rather than focusing on isolated symptoms or tests.
+
+> [!example] **Application 3 — Professional training**
+> For professional training, such as software development or engineering, the Whole-Task Approach allows trainees to work with complete projects from the beginning. This helps them understand how different components of a project interrelate and develop integrated competence.
+
+## Key Distinctions
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> The Whole-Task Approach focuses on intrinsic load, which is inherent to the task itself, rather than extraneous load, which includes unnecessary elements that can distract learners. By preserving structural integrity and simplifying tasks, it minimizes extraneous load, allowing learners to focus on essential aspects of the task.
+
+## Key Figures
+
+- **John Sweller** — John Sweller originated the Whole-Task Approach in 1988. His foundational work emphasized the importance of maintaining structural integrity in complex tasks, which has since become a cornerstone of instructional design theory and practice.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How does the Whole-Task Approach compare with other instructional design models in terms of long-term retention?
+>
+> *What would resolve it:* Further comparative studies across various learning domains would help determine which approach is more effective for different types of learners and tasks.
+
+> [!open-question] **Question**
+> Can the Whole-Task Approach be effectively applied to all types of learning tasks?
+>
+> *What would resolve it:* Research that explores the applicability of this approach in diverse contexts, such as arts, humanities, or physical sciences, would provide insights into its generalizability.
+
+## Synthesis
+
+The Whole-Task Approach is significant because it addresses a critical gap in traditional instructional design by promoting integrated competence and superior transfer. By preserving the structural integrity of complex tasks, this approach enhances learning outcomes across various domains, from medical education to professional training.
+
+Its integration with cognitive load theory and its emphasis on complete task experiences make it a valuable tool for educators and designers aiming to foster deep understanding and long-term retention.
+
+## Evidence
+
+Empirical evidence supports the Whole-Task Approach's effectiveness in complex, ill-structured domains. Studies have shown that learners who engage with complete tasks demonstrate better integration of skills and superior transfer to novel situations compared to those taught isolated components. This advantage is most pronounced in medical education, where diagnostic reasoning requires a comprehensive understanding of patient presentations.
+
+## Connections & Context
+
+**Falls under:** [[Instructional Design]]
+
+**Sibling concepts:** [[Expertise Reversal Effect]]
+
+**Applies to:** [[Cognitive Scaffolding]]
+
+**Supports:** [[Transfer of Learning]]
+
+**Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

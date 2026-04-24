@@ -865,3 +865,269 @@ python "99-scripts/report-extraction-to-permanent-notes-building-v4/pipeline_v4.
 
 
 You've used 51% of your weekly rate limit. Your weekly rate limit will reset on April 26 at 8:00 PM. [Learn More](https://aka.ms/github-copilot-rate-limit-error)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# V6 Pipeline Executing Process Reference
+
+
+
+Searched for regex `add_argument` (`**/99-scripts/report-extraction-to-permanent-notes-building-v6/pipeline_v6.py`), 15 results
+
+Here are ready-to-paste command templates for V6. All examples assume bash with venv activated and run from the **vault root** (10_pur3v4d3r's-vault).
+
+## V6 Command Templates
+
+### 0. Setup (once per shell)
+
+```bash
+source "/d/10_pur3v4d3r's-vault/.venv/Scripts/activate"
+cd "/d/10_pur3v4d3r's-vault"
+
+# Convenience var so you don't retype the path
+V6="99-scripts/report-extraction-to-permanent-notes-building-v6/pipeline_v6.py"
+SRC="999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports"
+```
+
+---
+
+### 1. Sanity / discovery (no writes, no LLM cost)
+
+```bash
+# Show full CLI surface
+python "$V6" --help
+
+# Show version
+python "$V6" --version
+
+# Dry-run a single report, 2 concepts only — fastest possible smoke test
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" --limit 2 --dry-run -v
+```
+
+---
+
+### 2. First real run — single report, single concept
+
+```bash
+# One report, capped at 1 concept, write actual files
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" --limit 1 -v
+```
+
+Output lands in: `999-report-organizing/_permanent-notes/v6-llm-elaborated/`
+
+---
+
+### 3. Standard production runs
+
+```bash
+# Single report, all concepts
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" -v
+
+# All reports in a directory (full batch)
+python "$V6" --input-dir "$SRC" -v
+
+# Full batch with run report (JSON audit log)
+python "$V6" --input-dir "$SRC" \
+  --report-runs "999-report-organizing/_pipeline-logs/v6-run-$(date +%Y%m%d-%H%M%S).json" \
+  -v
+```
+
+---
+
+### 4. Re-runs / iteration (cache & overwrite)
+
+```bash
+# Default: skip files that already exist (cheap re-run)
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" -v
+
+# Overwrite existing v6 files (re-render after prompt/template tweak)
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" --mode overwrite -v
+
+# Force fresh LLM calls (ignore disk cache) — combine with --mode overwrite
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" \
+  --mode overwrite --bypass-cache -v
+```
+
+---
+
+### 5. Disable the worthiness gate
+
+```bash
+# Force elaboration of every concept even if Pass A says "not worthy"
+# Useful when iterating on prompts and you want to see what Pass B produces
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" \
+  --no-gate --dry-run -v
+```
+
+---
+
+### 6. Include key-claim concepts (broader concept mining)
+
+```bash
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" \
+  --include-key-claims -v
+```
+
+---
+
+### 7. Override model (e.g., test a larger model on RTX 4090)
+
+```bash
+# Bigger / different Ollama model for this run
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" \
+  --model "qwen2.5:14b-instruct-q5_K_M" --bypass-cache -v
+```
+
+---
+
+### 8. Strict mode (fail-fast for CI / scheduled runs)
+
+```bash
+# Exit non-zero (5) if any concept fails — useful for cron / Task Scheduler
+python "$V6" --input-dir "$SRC" --strict -q
+```
+
+---
+
+### 9. Custom output dir (e.g., staging area before merging into vault)
+
+```bash
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" \
+  --output-dir "/tmp/v6-staging" -v
+```
+
+---
+
+### 10. Quiet / scripted invocation
+
+```bash
+# Silent except errors, with a machine-readable run report
+python "$V6" --input-dir "$SRC" -q \
+  --report-runs "999-report-organizing/_pipeline-logs/v6-batch.json"
+echo "Exit: $?"
+```
+
+---
+
+### 11. Tests
+
+```bash
+cd "/d/10_pur3v4d3r's-vault/99-scripts/report-extraction-to-permanent-notes-building-v6"
+python -m pytest tests/ -v
+cd -  # back to vault root
+```
+
+---
+
+### Recommended progression for a fresh batch
+
+```bash
+# Step 1 — sanity
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" --limit 2 --dry-run -v
+
+# Step 2 — write 1 file, eyeball the output quality
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" --limit 1 -v
+
+# Step 3 — full single report
+python "$V6" --input-dir "$SRC" --report "self-determination-theory-foundational" -v
+
+# Step 4 — full batch with audit log
+python "$V6" --input-dir "$SRC" \
+  --report-runs "999-report-organizing/_pipeline-logs/v6-run-$(date +%Y%m%d-%H%M%S).json" -v
+```
+
+### Exit codes (for scripting)
+
+| Code | Meaning |
+|------|---------|
+| 0 | Success |
+| 1 | Uncaught error |
+| 2 | Input dir not found |
+| 4 | No JSONs / no concepts to process |
+| 5 | `--strict` set and ≥1 concept failed |
+| 6 | Ollama unreachable |
+| 130 | Interrupted (Ctrl+C) | 
+
+
+
+## Full-directory V6 batch — all reports, all concepts
+
+```bash
+# Activate venv + cd to vault root (once per shell)
+source "/d/10_pur3v4d3r's-vault/.venv/Scripts/activate"
+cd "/d/10_pur3v4d3r's-vault"
+
+V6="99-scripts/report-extraction-to-permanent-notes-building-v6/pipeline_v6.py"
+SRC="999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports"
+```
+
+### Bare minimum — process everything
+```bash
+python "$V6" --input-dir "$SRC" -v
+```
+
+### Recommended — full batch with audit log
+```bash
+python "$V6" --input-dir "$SRC" \
+  --report-runs "999-report-organizing/_pipeline-logs/v6-run-$(date +%Y%m%d-%H%M%S).json" \
+  -v
+```
+
+### Full batch — strict + audit log (best for unattended / overnight runs)
+```bash
+python "$V6" --input-dir "$SRC" \
+  --strict \
+  --report-runs "999-report-organizing/_pipeline-logs/v6-run-$(date +%Y%m%d-%H%M%S).json" \
+  -v
+```
+
+### Dry-run the full directory first (no writes, but LLM runs + caches — populates the cache so the real run hits cache)
+```bash
+python "$V6" --input-dir "$SRC" --dry-run -v
+```
+
+### Re-process the entire directory after a prompt/template change
+```bash
+python "$V6" --input-dir "$SRC" --mode overwrite --bypass-cache \
+  --report-runs "999-report-organizing/_pipeline-logs/v6-rerun-$(date +%Y%m%d-%H%M%S).json" \
+  -v
+```
+
+**What "full directory" means here:** omit `--report` (no filename filter) and omit `--limit` (no concept cap). The pipeline will discover every `*_extracted.json` under `--input-dir`, mine all `[!definition]` callouts (add `--include-key-claims` for `[!key-claim]` too), and write to `999-report-organizing/_permanent-notes/v6-llm-elaborated/`.  
+
+
+
+
+
+
+
+
+python "$V6" --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" \
+--report-runs "999-report-organizing/_pipeline-logs/v6-run-$(date +%Y%m%d-%H%M%S).json" \
+  -v

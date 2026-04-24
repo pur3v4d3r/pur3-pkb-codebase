@@ -1,0 +1,148 @@
+---
+title: "Performance Goal vs. Learning Goal"
+aliases:
+  - "Performance Goal vs. Learning Goal"
+  - "Goal-Setting Theory Foundational Report"
+  - "GST — Locke and Latham"
+  - "High Performance Cycle Foundational Treatment"
+  - "Goal Setting Mechanisms and Moderators"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - motivation-science
+
+domain: motivation-science
+subdomains:
+  - industrial-organizational-psychology
+  - self-regulated-learning
+  - performance-psychology
+
+created: 2026-04-23
+updated: 2026-04-23
+
+source-type: report-extraction
+source-reports:
+  - "goal-setting-theory-locke-latham-foundational-report-2026-04-20"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Goal-Setting Theory"
+
+related:
+  - "[[Goal-Setting Theory]]"
+  - "[[Achievement Goal Theory]]"
+  - "[[Self-Determination Theory]]"
+  - "[[Expectancy-Value Theory]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[Goal-Setting Theory]]"
+see-also:
+  - "[[]]"
+contrasts-with:
+  - "[[Achievement Goal Theory]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[Self-Determination Theory]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[Expectancy-Value Theory]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Performance Goal vs. Learning Goal
+
+> [!definition] **Performance Goal vs. Learning Goal**
+> A performance goal specifies a desired outcome of action — a quantity to produce, a target to hit, a level to reach. A learning goal, on the other hand, focuses on the process or strategy needed to master a task, treating outcomes as secondary consequences of mastery rather than direct targets. This distinction is not the same as the achievement-goal-theory distinction between performance and mastery orientations; it is more task-strategic in nature, falling under [[Goal-Setting Theory]].
+
+> [!attention] **Boundary**
+> This distinction is not the same as the achievement-goal-theory distinction between performance and mastery orientations; it is more task-strategic in nature.
+
+## Core Explanation
+
+Performance goals are outcome-focused, emphasizing specific results or benchmarks to be achieved. For instance, a salesperson aiming for a certain number of sales per month exemplifies a performance goal. In contrast, learning goals prioritize the process and strategies required to achieve mastery, such as improving one's public speaking skills through regular practice sessions. This strategic focus on methods rather than immediate outcomes is crucial in tasks where the path to success is not immediately clear.
+
+In practical terms, setting performance goals can lead to short-term improvements but may overlook long-term skill development. For example, a student aiming for a specific grade might engage in rote memorization without fully understanding the material. Conversely, learning goals encourage deeper engagement and mastery of underlying concepts, which can enhance overall performance over time. This distinction is particularly relevant in educational settings where both types of goals are often used to foster different aspects of student development.
+
+Theoretical roots of this concept trace back to Goal-Setting Theory, developed by Edwin Locke and Gary Latham. Their work highlighted that specific and challenging goals lead to higher performance compared to vague or easy ones. However, they also recognized the need for a nuanced approach when dealing with tasks requiring strategic learning. For instance, in deliberate practice scenarios, setting difficult goals on the process itself (like improving technique) rather than just achieving outcomes can be more effective.
+
+Empirical evidence supports these distinctions. Studies have shown that while performance goals can boost immediate results, learning goals enhance long-term skill acquisition and adaptability. A meta-analysis by Hunkin et al. (2015) found that setting process-oriented goals led to better retention of knowledge compared to outcome-focused goals.
+
+## Mechanism
+
+The mechanism behind performance vs. learning goals involves the cognitive load theory, where intrinsic and extraneous loads play a significant role. Intrinsic load refers to the inherent difficulty of the task itself, while extraneous load is related to unnecessary complexity introduced by the goal-setting process. Setting clear, specific performance goals can reduce extraneous load by providing concrete targets, whereas learning goals increase intrinsic load as they require deeper engagement with the material.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, setting learning goals can enhance student engagement and long-term retention. For example, a teacher might encourage students to develop their problem-solving skills through regular practice sessions rather than just aiming for high test scores. This approach not only improves immediate performance but also builds foundational knowledge that supports future learning.
+
+> [!example] **Application 2 — Business management**
+> Managers can use both types of goals effectively in different contexts. For instance, setting specific sales targets (performance goal) might boost short-term revenue, while encouraging employees to focus on customer relationship building (learning goal) can lead to sustained business growth and customer loyalty.
+
+> [!example] **Application 3 — Personal development**
+> Individuals aiming for personal growth should prioritize learning goals over performance goals. For example, setting a goal to read 50 books in a year might not significantly improve one's reading skills, whereas focusing on improving comprehension and analytical thinking through regular practice can lead to genuine skill enhancement.
+
+## Key Distinctions
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> Performance goals often reduce extraneous load by providing clear targets, while learning goals increase intrinsic load as they require deeper engagement with the task. This distinction is crucial because it affects how effectively individuals can process and retain information.
+
+## Key Figures
+
+- **Edwin Locke** — Co-originator of Goal-Setting Theory, Edwin Locke emphasized the importance of specific and challenging goals in enhancing performance. His work laid the foundation for understanding how different types of goals influence behavior.
+- **K. Anders Ericsson** — Contributor to the understanding of deliberate practice, K. Anders Ericsson highlighted the role of learning goals in skill acquisition through focused and repetitive practice sessions.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How do performance and learning goals interact in complex tasks?
+>
+> *What would resolve it:* Further research combining both goal-setting theory and cognitive load theory could provide insights into how these two types of goals coexist and influence each other in multifaceted scenarios.
+
+> [!open-question] **Question**
+> What are the long-term effects of focusing on one type of goal over another?
+>
+> *What would resolve it:* Longitudinal studies tracking individuals' performance and skill development over extended periods could help determine the lasting impacts of different types of goals.
+
+## Synthesis
+
+Understanding the distinction between performance and learning goals is crucial for effective goal-setting across various domains. In education, it helps educators design curricula that balance immediate outcomes with long-term skill development. In business, managers can use these concepts to foster both short-term productivity and sustainable growth. From a broader perspective, this distinction aligns with self-determination theory by emphasizing the importance of autonomy in setting meaningful goals. By recognizing the unique roles of performance and learning goals, individuals and organizations can tailor their approaches to achieve optimal outcomes.
+
+## Connections & Context
+
+**Falls under:** [[Goal-Setting Theory]]
+
+**Generalizes to:** [[Goal-Setting Theory]]
+
+**Contrasts with:** [[Achievement Goal Theory]]
+
+**Applies to:** [[Self-Determination Theory]]
+
+**Supports:** [[Expectancy-Value Theory]]
+
+**Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

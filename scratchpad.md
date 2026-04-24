@@ -163,6 +163,52 @@ Can you run this pipeline for me on a set of extracted material fgound here: `D:
 
 
 
+# Update to Pipeline 
+
+I have a pipeline for extracting material from reports and building /modifying permanent notes in my obaisina PKB.
+- Everything is running well, but I feel that the permanent notes themselves should be better structured and have the LLM thats writting them generate much more material per note.
+- Running time doent matter within reason. -> 191400k -> RTX 4090
+  - An example would be for definitions it should be a callout that has an elaborated definiton, Boundry for that definition, and maybe even a wikilink to a more general concept that it falls under.
+    - Another example would be for insights/evidence, instead of just listing them as bullet points, the LLM could synthesize them into a more coherent narrative that explains how they relate to each other and to the overall concept.
+      - Overall I woul;d like to implement a new permanent notes template that can be used by the LLM to generate richer and more comprehensive permanent notes based on the extracted material from the reports. This template would guide the LLM to include specific sections and types of content that would make the permanent notes more valuable and informative for future reference and use in my PKB.
+          - The LLM needs to generate much more material per per permant notes, and it needs to be better structured. I want to design a new permanent note template that includes sections like "Definition," "Core Explanation," "Practical Implications," "Key Figures," "Related Concepts," and "Open Questions." The LLM should be guided by this template to generate content for each section based on the extracted material from the reports, and maybe its own insights, resulting in richer and more comprehensive permanent notes that are well-structured and informative for future reference in my PKB.
+          - I want to design a new version of the pipeline (V6) that incorporates these improvements, and also allows for more flexibility in how the permanent notes are structured and what content is included. The pipeline should still take the extracted material from the reports as input, but the output should be more comprehensive and better formatted for use in Obsidian. I also want to make sure that the new pipeline can be easily run on batches of reports and can update existing permanent notes without creating duplicates or losing existing content.
+
+
+          # Key Locations for Pipeline Reference
+          Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+
+          `D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> V3 pipeline
+          `D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> V4 pipeline
+          `D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v5` -> V5 pipeline
+
+          `D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output` -> Extractor Output directory
+          `D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes` -> Home of the current permanent notes.
+
+          `D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v4-llm-condensed` -> This is where the pipline will output the new notes
+
+          ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
