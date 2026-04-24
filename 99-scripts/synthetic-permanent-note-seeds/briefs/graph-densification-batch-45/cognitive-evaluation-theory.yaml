@@ -1,0 +1,49 @@
+concept: Cognitive Evaluation Theory
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+aliases:
+- CET
+broader:
+- self-determination-theory
+related:
+- intrinsic-motivation
+- extrinsic-motivation
+- autonomy-sdt
+- competence-sdt
+- the-replication-challenge-to-the-undermining-effect
+- perceived-locus-of-causality
+- organismic-integration-theory
+- self-determination-theory
+prerequisites:
+- self-determination-theory
+- intrinsic-motivation
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Evaluation Theory
+  body: Cognitive Evaluation Theory is the first of the six sub-theories of [[self-determination-theory]]
+    (Deci & Ryan), addressing how external events — rewards, deadlines, surveillance,
+    evaluation, choice, positive feedback — affect [[intrinsic-motivation]] by shifting
+    the [[perceived-locus-of-causality]] of the activity from internal to external
+    and by altering perceived [[competence-sdt]]. Cognitive Evaluation Theory generated
+    the original "undermining effect" research and the operational distinction between
+    *informational* and *controlling* events.
+- type: key-claim
+  title: Key claim about Cognitive Evaluation Theory
+  body: 'Cognitive Evaluation Theory established that the *functional significance*
+    of an external event to the recipient — whether the event is experienced as informational
+    or as controlling — determines its motivational consequence, not the event''s
+    surface form: the same reward is undermining when delivered as a control device
+    and supportive when delivered as informational feedback, which is why Cognitive
+    Evaluation Theory''s recommendations are about delivery context rather than reward
+    avoidance.'
+- type: warning
+  title: Common pitfall regarding Cognitive Evaluation Theory
+  body: 'Cognitive Evaluation Theory is routinely caricatured as the claim that "rewards
+    always undermine intrinsic motivation," but the mature Cognitive Evaluation Theory
+    position — refined through [[the-replication-challenge-to-the-undermining-effect]]
+    and the meta-analyses of Deci, Koestner, and Ryan (1999, 2017) — is far narrower:
+    tangible *expected contingent* rewards undermine intrinsic motivation for tasks
+    that are *already intrinsically interesting*, while informational verbal rewards
+    and unexpected tangible rewards do not.'

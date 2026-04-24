@@ -1,0 +1,19 @@
+concept: Generation Effect
+domain: cognitive-science
+confidence: high
+callouts:
+- type: definition
+  title: Generation Effect
+  body: The Generation Effect is the finding that information a learner produces themselves
+    — by completing, predicting, or constructing it — is remembered better than equivalent
+    information that is simply read or copied.
+- type: key-claim
+  title: Key claim about Generation Effect
+  body: The Generation Effect implies that the depth of cognitive engagement at encoding
+    is a stronger predictor of retention than the surface form or duration of exposure,
+    which reframes "study time" as a misleading proxy for "study effort."
+- type: warning
+  title: Common pitfall regarding Generation Effect
+  body: The Generation Effect breaks down when generation produces incorrect answers
+    without timely feedback; the encoded errors then compete with the correct trace
+    at retrieval, so unguided generation drills can actively harm learning.

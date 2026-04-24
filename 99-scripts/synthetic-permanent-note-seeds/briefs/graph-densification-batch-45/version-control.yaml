@@ -1,0 +1,46 @@
+concept: Version Control
+domain: software-engineering
+secondary_domains:
+- developer-tooling
+- computer-science
+aliases:
+- VCS
+- source control
+- version control system
+broader:
+- software-engineering
+related:
+- debugging
+- dependency-management
+- github-copilot
+- integrated-development-environment
+- modular-design
+- virtual-environment
+confidence: high
+callouts:
+- type: definition
+  title: Version Control
+  body: Version Control is the systematic recording of changes to a set of files over
+    time — most often source code — into a queryable history that allows any past
+    state to be reconstructed, any change to be attributed and inspected, and parallel
+    lines of work (branches) to be developed and later merged. Modern Version Control
+    (Git, Mercurial, Fossil) implements a content-addressable distributed graph rather
+    than the centralised linear logs of earlier systems.
+- type: key-claim
+  title: Key claim about Version Control
+  body: 'Version Control is the substrate that makes modern software collaboration
+    possible at all: branching enables parallel development without coordination overhead,
+    merging resolves divergent work without overwriting, and the history-as-graph
+    structure converts what would otherwise be an unmanageable coordination problem
+    into a tractable one — which is why Version Control adoption (specifically Git
+    adoption) is the strongest single discriminator between the productivity of pre-2010
+    and post-2010 software engineering practice.'
+- type: warning
+  title: Common pitfall regarding Version Control
+  body: Version Control is regularly reduced to the surface ritual of `commit` and
+    `push`, ignoring the substantive disciplines that make it valuable — meaningful
+    commit granularity (one logical change per commit), informative commit messages,
+    branch hygiene, and conflict resolution by mechanism rather than by file overwriting;
+    without these disciplines, Version Control's history degenerates into a useless
+    record of "WIP" commits that destroys the very inspectability that justifies the
+    tool.

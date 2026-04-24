@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "high-payoff-ghost-link-cluster",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-high-payoff-ghost-link-cluster.md",
+    "notes": "Top-10 gap-closing concepts ranked by ghost-link reference count across the\nv6-llm-elaborated permanent-notes folder. Worked-Examples (162 refs),\nSelf-Efficacy-Theory (74), Extrinsic-Motivation (47), Self-Efficacy (42),\nAchievement-Goal-Theory (42), Attribution-Theory (34), Growth-Mindset (33),\nScaffolding (24), Expectancy-Value-Theory (24), Automaticity (24).\nAll ten close many edges in the existing graph and have abundant existing\nnotes to wire into via prerequisites/related."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/high-payoff-ghost-link-cluster",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-high-payoff-ghost-link-cluster"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Worked Examples",
+      "kebab": "worked-examples",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/worked-examples.yaml",
+      "expected_seed_filename": "worked-examples-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Self-Efficacy Theory",
+      "kebab": "self-efficacy-theory",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/self-efficacy-theory.yaml",
+      "expected_seed_filename": "self-efficacy-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Extrinsic Motivation",
+      "kebab": "extrinsic-motivation",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/extrinsic-motivation.yaml",
+      "expected_seed_filename": "extrinsic-motivation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Self-Efficacy",
+      "kebab": "self-efficacy",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/self-efficacy.yaml",
+      "expected_seed_filename": "self-efficacy-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Achievement Goal Theory",
+      "kebab": "achievement-goal-theory",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/achievement-goal-theory.yaml",
+      "expected_seed_filename": "achievement-goal-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Attribution Theory",
+      "kebab": "attribution-theory",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/attribution-theory.yaml",
+      "expected_seed_filename": "attribution-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Growth Mindset",
+      "kebab": "growth-mindset",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/growth-mindset.yaml",
+      "expected_seed_filename": "growth-mindset-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Scaffolding",
+      "kebab": "scaffolding",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/scaffolding.yaml",
+      "expected_seed_filename": "scaffolding-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Expectancy-Value Theory",
+      "kebab": "expectancy-value-theory",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/expectancy-value-theory.yaml",
+      "expected_seed_filename": "expectancy-value-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Automaticity",
+      "kebab": "automaticity",
+      "brief_path": "briefs/high-payoff-ghost-link-cluster/automaticity.yaml",
+      "expected_seed_filename": "automaticity-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

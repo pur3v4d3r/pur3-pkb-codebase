@@ -1,0 +1,54 @@
+concept: Achievement Goal Theory
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+aliases:
+- achievement goal framework
+- goal orientation theory
+broader:
+- self-regulated-learning
+narrower:
+- mastery-approach-goal
+- performance-avoidance-goal
+- the-2-2-achievement-goal-framework
+related:
+- achievement-goal
+- mastery-vs-performance-goal-orientation
+- performance-goal-vs-learning-goal
+- mastery-climate
+- mastery-climate-vs-performance-climate
+- the-four-by-four-matrix
+- conception-of-ability
+prerequisites:
+- conception-of-ability
+- task-value
+confidence: high
+callouts:
+- type: definition
+  title: Achievement Goal Theory
+  body: 'Achievement Goal Theory is the family of motivational frameworks — originating
+    in the work of Carol Dweck, John Nicholls, and Carol Ames and refined by Andrew
+    Elliot — that classifies the *purposes* learners pursue in achievement settings
+    according to two orthogonal dimensions: the **definition** of competence (mastery
+    of a task vs. normative comparison to others) and the **valence** of competence
+    (approaching success vs. avoiding failure). The crossing of these dimensions yields
+    [[the-2-2-achievement-goal-framework]] of mastery-approach, mastery-avoidance,
+    performance-approach, and performance-avoidance goals, each with distinct affective,
+    cognitive, and behavioural signatures.'
+- type: key-claim
+  title: Key claim about Achievement Goal Theory
+  body: Achievement Goal Theory predicts that *mastery-approach goals* — pursuing
+    competence for its own sake — most reliably support adaptive learning patterns
+    (deep processing, help-seeking, persistence under failure), whereas *performance-avoidance
+    goals* most reliably produce maladaptive patterns ([[self-handicapping]], surface
+    processing, withdrawal); the theory's central practical lever is the [[mastery-climate]]
+    in which classroom and workplace structures shift learners toward mastery-approach
+    orientation.
+- type: warning
+  title: Common pitfall regarding Achievement Goal Theory
+  body: 'Achievement Goal Theory is frequently flattened to a "mastery good, performance
+    bad" dichotomy, which both misrepresents the empirical record (performance-approach
+    goals reliably predict performance attainment in competitive contexts) and obscures
+    [[the-2-2-achievement-goal-framework]]''s critical contribution: that approach-vs-avoidance
+    valence, not the mastery-vs-performance distinction alone, carries most of the
+    variance in adaptive vs maladaptive outcomes.'

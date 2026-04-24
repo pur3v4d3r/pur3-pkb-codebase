@@ -1,0 +1,47 @@
+concept: Growth Mindset
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+aliases:
+- incremental theory of intelligence
+- malleable mindset
+broader:
+- implicit-theories-of-intelligence
+related:
+- conception-of-ability
+- mastery-approach-goal
+- mastery-vs-performance-goal-orientation
+- attribution-theory
+- the-developmental-differentiation-of-effort-and-ability
+- learned-helplessness
+- achievement-goal-theory
+prerequisites:
+- conception-of-ability
+confidence: high
+callouts:
+- type: definition
+  title: Growth Mindset
+  body: 'Growth Mindset is Carol Dweck''s term for the implicit lay theory that intellectual
+    ability is a malleable, cultivable quality that grows through effort, strategy,
+    and instruction — contrasted with the *fixed mindset* (entity theory) that treats
+    ability as an essentially unchangeable endowment. Growth Mindset is one pole of
+    the broader [[implicit-theories-of-intelligence]] construct and predicts a coherent
+    downstream cluster: mastery-oriented response to setbacks, productive [[causal-attribution]]
+    of failure to controllable factors, willingness to undertake [[desirable-difficulties]],
+    and resilience against [[learned-helplessness]].'
+- type: key-claim
+  title: Key claim about Growth Mindset
+  body: 'Growth Mindset functions as a *meaning system* rather than a single attitude:
+    holding a Growth Mindset reliably predicts that a learner will interpret failure
+    as informative feedback, deploy effort as a strategy rather than a confession
+    of inadequacy, and seek out challenges that maximise [[schema-construction]] —
+    a cluster of behaviours that together produce measurable achievement gains, especially
+    among learners exposed to stereotype threat or chronic underperformance.'
+- type: warning
+  title: Common pitfall regarding Growth Mindset
+  body: Growth Mindset has been widely diluted into a slogan ("praise effort, not
+    ability") whose effect sizes in field-scale interventions are far smaller than
+    the original lab studies suggested; treating Growth Mindset as a one-shot motivational
+    poster — without restructuring the [[mastery-climate]], the assessment regime,
+    and the feedback ecology — typically produces null effects and risks training
+    learners to *perform* effort displays rather than internalise an incremental theory.

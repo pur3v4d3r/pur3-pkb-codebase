@@ -1,0 +1,52 @@
+concept: Social Cognitive Theory
+domain: social-cognitive-psychology
+secondary_domains:
+- motivational-psychology
+- educational-psychology
+aliases:
+- Bandura social cognitive theory
+- SCT
+broader:
+- psychology
+narrower:
+- self-efficacy-theory
+- self-efficacy
+- perceived-self-efficacy
+- triadic-reciprocal-determinism
+- vicarious-experience
+related:
+- self-efficacy
+- outcome-expectation
+- enactive-mastery-experience
+- vicarious-experience
+- verbal-persuasion
+- physiological-and-affective-states
+- the-active-organism-hypothesis
+confidence: high
+callouts:
+- type: definition
+  title: Social Cognitive Theory
+  body: 'Social Cognitive Theory is Albert Bandura''s integrated account of human
+    agency in which behaviour, cognition (including [[perceived-self-efficacy]] and
+    [[outcome-expectation]]), and environmental influences interact in [[triadic-reciprocal-determinism]]
+    — none of the three reducible to the others — and through which people exercise
+    *forethought*, *self-reactiveness*, and *self-reflectiveness*. Social Cognitive
+    Theory is the parent framework from which [[self-efficacy-theory]] is derived
+    and which supplies the four canonical sources of efficacy information: [[enactive-mastery-experience]],
+    [[vicarious-experience]], [[verbal-persuasion]], and [[physiological-and-affective-states]].'
+- type: key-claim
+  title: Key claim about Social Cognitive Theory
+  body: Social Cognitive Theory established that human behaviour cannot be modelled
+    as either pure operant conditioning (behaviourism) or pure cognitive computation
+    (early information-processing) but only as the *bidirectional interaction* of
+    cognition, behaviour, and environment — a position that anticipated and grounds
+    the modern understanding of [[the-active-organism-hypothesis]] and the centrality
+    of [[self-regulated-learning]].
+- type: warning
+  title: Common pitfall regarding Social Cognitive Theory
+  body: Social Cognitive Theory is often reduced to "the self-efficacy theory" (one
+    of its sub-theories) or to "social learning theory" (its 1977 precursor), losing
+    the distinctive [[triadic-reciprocal-determinism]] commitment that distinguishes
+    mature Social Cognitive Theory from both; the truncated readings license interventions
+    that target a single corner of the triad (e.g. modelling without efficacy assessment)
+    and consequently underperform Social Cognitive Theory's predictions.

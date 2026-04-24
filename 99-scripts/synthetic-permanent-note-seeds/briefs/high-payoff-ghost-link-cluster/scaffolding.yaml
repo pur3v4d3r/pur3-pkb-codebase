@@ -1,0 +1,53 @@
+concept: Scaffolding
+domain: educational-psychology
+secondary_domains:
+- instructional-design
+- cognitive-psychology
+aliases:
+- instructional scaffolding
+- learning scaffolding
+broader:
+- instructional-design
+narrower:
+- cognitive-scaffolding
+- metacognitive-scaffolding
+- scaffolded-fading
+- scaffolding-fading-progression
+related:
+- the-metacognitive-scaffolding-principle
+- autonomy-supportive-structure
+- four-component-instructional-design-4c-id
+- supportive-information
+- procedural-information
+- just-in-time-principle
+- the-just-in-time-principle
+- zone-of-proximal-development
+prerequisites:
+- working-memory
+- intrinsic-cognitive-load
+confidence: high
+callouts:
+- type: definition
+  title: Scaffolding
+  body: Scaffolding is the deliberate provision of temporary, calibrated supports
+    that allow a learner to perform a task currently beyond their independent capability,
+    on the explicit precondition that the supports will be progressively withdrawn
+    as competence develops. Coined by Wood, Bruner, and Ross (1976) and grounded in
+    Vygotsky's zone of proximal development, Scaffolding is the parent category from
+    which [[cognitive-scaffolding]], [[metacognitive-scaffolding]], and the [[scaffolded-fading]]
+    / [[scaffolding-fading-progression]] design pattern descend.
+- type: key-claim
+  title: Key claim about Scaffolding
+  body: Scaffolding's defining commitment is **fading** — supports that are not engineered
+    to be withdrawn cease to be Scaffolding and become permanent crutches that block
+    the [[schema-construction]] and [[strategic-automaticity]] the original supports
+    were meant to bootstrap; this is why effective Scaffolding is identified by its
+    *removal trajectory* rather than its initial richness.
+- type: warning
+  title: Common pitfall regarding Scaffolding
+  body: Scaffolding is routinely conflated with "any helpful support a teacher provides,"
+    collapsing the construct into a vague positive term and erasing the engineering
+    discipline that makes it work; without a specified fading schedule, a transferred-control
+    criterion, and a [[cognitive-forcing-function]] that prevents premature dependence,
+    what is offered as Scaffolding is in practice a recipe for the very dependency
+    it claims to prevent.

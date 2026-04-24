@@ -1,0 +1,47 @@
+concept: Environment Variables
+domain: developer-tooling
+secondary_domains:
+- operating-systems
+- software-engineering
+aliases:
+- env vars
+- shell environment variables
+- env
+broader:
+- developer-tooling
+narrower:
+- path-environment-variable
+related:
+- path-environment-variable
+- virtual-environment
+- dependency-management
+- debugging
+- integrated-development-environment
+confidence: high
+callouts:
+- type: definition
+  title: Environment Variables
+  body: Environment Variables are named values held in the shell or process environment
+    that are inherited by child processes and read at runtime to influence program
+    behaviour without requiring code changes — used for configuration ([[path-environment-variable]]
+    for executable lookup, `VIRTUAL_ENV` for active venv, `PYTHONPATH` for module
+    search), credentials (API keys, database URLs), and feature flags. Environment
+    Variables are the conventional channel by which deployment-specific configuration
+    is supplied to otherwise identical code.
+- type: key-claim
+  title: Key claim about Environment Variables
+  body: 'Environment Variables are the modern conventional substrate for *configuration
+    without recompilation*: by reading deployment-specific values from the environment
+    rather than from hardcoded constants, the same code artifact runs across dev,
+    staging, and production environments — a discipline codified in the Twelve-Factor
+    App methodology and underpinning every modern deployment pipeline that separates
+    code from configuration.'
+- type: warning
+  title: Common pitfall regarding Environment Variables
+  body: Environment Variables are regularly misused as a credentials store committed
+    to source control via `.env` files that end up in version-control history — defeating
+    the very purpose of Environment Variables as a configuration channel by leaking
+    secrets; the substantive discipline is that secret Environment Variables must
+    be supplied by the deployment platform (or a secrets manager), never by a file
+    checked into [[version-control]], and the `.env.example` convention exists precisely
+    to document required Environment Variables without exposing their values.

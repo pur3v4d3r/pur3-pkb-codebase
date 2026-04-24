@@ -1,0 +1,51 @@
+concept: Formative Assessment
+domain: educational-psychology
+secondary_domains:
+- learning-science
+- instructional-design
+aliases:
+- assessment for learning
+- AfL
+broader:
+- assessment-for-autonomy
+narrower:
+- self-assessment
+- retrieval-practice
+related:
+- feedback-design-for-autonomy-and-mastery
+- scaffolding
+- calibration
+- metacognitive-monitoring
+- judgment-of-learning
+- mastery-climate
+- backward-design
+prerequisites:
+- calibration
+- metacognitive-monitoring
+confidence: high
+callouts:
+- type: definition
+  title: Formative Assessment
+  body: Formative Assessment is the use of assessment evidence — in-task, between-task,
+    or end-of-unit — to *adjust ongoing teaching and learning* rather than to produce
+    a terminal grade, operationalised through low-stakes retrieval, diagnostic questioning,
+    peer review, and structured self-assessment whose purpose is to surface misconceptions
+    and recalibrate effort while the learning is still in progress. Formative Assessment
+    is the core mechanism by which [[scaffolding]] is calibrated and by which [[metacognitive-monitoring]]
+    is externally informed.
+- type: key-claim
+  title: Key claim about Formative Assessment
+  body: Formative Assessment is the single most evidence-supported instructional intervention
+    in K-16 education (Black & Wiliam 1998 and successors), with effect sizes substantially
+    exceeding those of curriculum reforms or technology adoptions, because Formative
+    Assessment couples the [[retrieval-practice]] mechanism (consolidation) with the
+    [[calibration]] mechanism (correcting [[fluency-illusion]]) within a single instructional
+    move.
+- type: warning
+  title: Common pitfall regarding Formative Assessment
+  body: 'Formative Assessment is regularly counterfeited by *frequent summative testing*
+    — quizzes whose results feed grades but not feedback or instructional adjustment
+    — which inverts the construct: when assessment evidence does not change what is
+    taught next, the activity ceases to be Formative Assessment regardless of its
+    frequency, and the high effect sizes attached to Formative Assessment do not transfer
+    to such counterfeit implementations.'

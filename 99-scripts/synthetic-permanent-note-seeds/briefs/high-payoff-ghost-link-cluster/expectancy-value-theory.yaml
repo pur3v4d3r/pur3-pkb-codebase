@@ -1,0 +1,53 @@
+concept: Expectancy-Value Theory
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+aliases:
+- Eccles expectancy-value theory
+- EVT
+- modern expectancy-value theory
+broader:
+- motivational-psychology
+- achievement-goal-theory
+narrower:
+- task-value
+related:
+- outcome-expectation
+- perceived-self-efficacy
+- intrinsic-motivation
+- attribution-theory
+- achievement-goal
+- conception-of-ability
+- the-2-2-achievement-goal-framework
+- intrinsic-vs-extrinsic-goal-contents
+prerequisites:
+- task-value
+- outcome-expectation
+confidence: high
+callouts:
+- type: definition
+  title: Expectancy-Value Theory
+  body: 'Expectancy-Value Theory is the family of motivational frameworks — most fully
+    developed by Jacquelynne Eccles and Allan Wigfield — that models achievement-relevant
+    choice, persistence, and performance as the multiplicative product of two appraisals:
+    the learner''s *expectancy* of success (closely related to [[perceived-self-efficacy]])
+    and the *subjective value* the learner places on the task. Expectancy-Value Theory
+    decomposes [[task-value]] into four subcomponents — attainment value (identity-fit),
+    intrinsic value (interest), utility value (instrumental usefulness), and cost
+    (effort, opportunity, emotional risk).'
+- type: key-claim
+  title: Key claim about Expectancy-Value Theory
+  body: 'Expectancy-Value Theory predicts that motivation collapses whenever *either*
+    term approaches zero: a learner who believes they can succeed but finds the task
+    valueless will not engage, and a learner who deeply values an outcome but expects
+    to fail will withdraw — making Expectancy-Value Theory the rare motivational framework
+    that natively diagnoses the *interaction* of capability beliefs and value beliefs
+    rather than treating them as independent additive predictors.'
+- type: warning
+  title: Common pitfall regarding Expectancy-Value Theory
+  body: Expectancy-Value Theory is often reduced to a slogan ("motivate by raising
+    expectancy and value"), which obscures the cost component that Eccles' modern
+    formulation introduced; ignoring perceived cost — effort cost, opportunity cost,
+    psychological cost — produces interventions that successfully raise expectancy
+    and value yet fail to change behaviour because the learner's net Expectancy-Value
+    Theory calculation remains negative.

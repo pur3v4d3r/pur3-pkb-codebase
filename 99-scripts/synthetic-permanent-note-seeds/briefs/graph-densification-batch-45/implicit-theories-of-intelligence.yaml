@@ -1,0 +1,53 @@
+concept: Implicit Theories of Intelligence
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- social-cognitive-psychology
+aliases:
+- implicit theories
+- mindset theory
+- lay theories of ability
+broader:
+- motivational-psychology
+- conception-of-ability
+narrower:
+- growth-mindset
+- the-developmental-differentiation-of-effort-and-ability
+related:
+- growth-mindset
+- achievement-goal-theory
+- attribution-theory
+- learned-helplessness
+- conception-of-ability
+- mastery-vs-performance-goal-orientation
+prerequisites:
+- conception-of-ability
+confidence: high
+callouts:
+- type: definition
+  title: Implicit Theories of Intelligence
+  body: 'Implicit Theories of Intelligence are the lay belief systems — entity (fixed)
+    vs. incremental ([[growth-mindset]]) — that learners and observers hold about
+    the *nature* of cognitive ability: whether intelligence is a stable, largely inherited
+    trait that is measured by performance, or a malleable capacity that is *developed*
+    by effort, strategy, and instruction. Carol Dweck''s research program established
+    Implicit Theories of Intelligence as a *meaning system* whose orientation organises
+    a downstream cluster of goals, attributions, and responses to setback.'
+- type: key-claim
+  title: Key claim about Implicit Theories of Intelligence
+  body: 'Implicit Theories of Intelligence function as motivational frames rather
+    than as discrete beliefs: holding the incremental theory predicts mastery-approach
+    goal selection ([[achievement-goal-theory]]), [[causal-attribution]] of failure
+    to controllable factors, persistence under aversive feedback, and resilience against
+    [[learned-helplessness]], whereas holding the entity theory predicts the inverse
+    cluster — and the predictive power of Implicit Theories of Intelligence is greatest
+    precisely under conditions of difficulty and challenge.'
+- type: warning
+  title: Common pitfall regarding Implicit Theories of Intelligence
+  body: Implicit Theories of Intelligence interventions have been widely diluted into
+    "praise the process" slogans whose field-scale effects are far smaller than the
+    original lab studies suggested; treating Implicit Theories of Intelligence as
+    a one-shot motivational message — without restructuring the [[mastery-climate]],
+    the assessment regime, and the feedback ecology that the entity theory exploits
+    — typically produces null or trivial effects and risks training learners to *display*
+    a growth mindset rather than internalise the incremental theory.

@@ -1,0 +1,55 @@
+concept: Self-Regulation
+domain: cognitive-psychology
+secondary_domains:
+- motivational-psychology
+- educational-psychology
+aliases:
+- self-regulatory capacity
+- behavioural self-regulation
+broader:
+- self-regulated-learning
+narrower:
+- metacognitive-control
+- motivational-regulation
+- the-four-areas-of-regulation
+related:
+- self-regulated-learning
+- metacognition
+- metacognitive-monitoring
+- metacognitive-control
+- monitoring-control-loop
+- forethought-phase
+- control-phase
+- reaction-and-reflection-phase
+- executive-function
+prerequisites:
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Self-Regulation
+  body: Self-Regulation is the broad capacity to monitor and modulate one's own cognition,
+    motivation, affect, and behaviour in pursuit of goals — operationalised across
+    psychological sub-fields as the cyclical coupling of forethought (goal setting,
+    planning), performance (monitoring, control), and self-reflection (evaluation,
+    attribution). Self-Regulation is the parent construct from which [[self-regulated-learning]]
+    is derived as the domain-specific application to academic and learning contexts,
+    and from which [[metacognitive-control]] is derived as the cognition-specific
+    layer.
+- type: key-claim
+  title: Key claim about Self-Regulation
+  body: Self-Regulation is the most reliable single non-cognitive predictor of long-term
+    life outcomes — academic attainment, occupational success, health behaviours,
+    relationship stability — across decades of longitudinal research; and the empirical
+    record is consistent that Self-Regulation is *trainable* through structured intervention
+    ([[implementation-intentions]], [[mental-contrasting]], [[mcii]], cognitive-behavioural
+    protocols) rather than being a fixed trait.
+- type: warning
+  title: Common pitfall regarding Self-Regulation
+  body: Self-Regulation is regularly equated with *willpower* or *self-control* as
+    a single depletable resource, but the modern empirical record on ego-depletion
+    is mixed and the construct of Self-Regulation as conceptualised in [[self-regulated-learning]]
+    research is a *cyclical control system*, not a fuel tank; treating Self-Regulation
+    as willpower licenses moralised explanations of regulatory failure that ignore
+    the cyclical-feedback architecture and the [[motivational-ecology]] that actually
+    drive regulatory outcomes.

@@ -1,0 +1,54 @@
+concept: Long-Term Memory
+domain: cognitive-psychology
+secondary_domains:
+- memory-research
+- neuroscience
+aliases:
+- LTM
+- secondary memory
+broader:
+- cognitive-architecture
+narrower:
+- long-term-working-memory
+- schema
+- retrieval-structure
+related:
+- working-memory
+- schema-construction
+- schema-theory
+- schema-automation
+- retrieval-practice
+- the-power-law-of-practice
+- encoding-depth
+- levels-of-processing
+prerequisites:
+- cognitive-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Long-Term Memory
+  body: Long-Term Memory is the cognitive store of effectively unlimited capacity
+    and duration that holds the schemas, episodes, semantic knowledge, and procedural
+    skills which constitute a person's accumulated learning, and which is organised
+    so as to allow retrieval of selected contents into the much smaller [[working-memory]]
+    for active manipulation. In [[cognitive-load-theory]] and [[schema-theory]], Long-Term
+    Memory is not merely a storehouse but the *cognitive architecture* whose contents
+    — schemas — circumvent working-memory limits and thereby make expertise possible.
+- type: key-claim
+  title: Key claim about Long-Term Memory
+  body: 'Long-Term Memory is the *substrate of expertise*: the central finding of
+    skill-acquisition research is that experts do not have larger working memories
+    than novices but possess Long-Term Memory contents (schemas, [[chunking]]-derived
+    units, [[retrieval-structure]]s) that allow [[long-term-working-memory]] to bypass
+    the [[working-memory]] bottleneck — a result that grounds the design imperative
+    to invest instructional effort in Long-Term Memory construction rather than in
+    working-memory training.'
+- type: warning
+  title: Common pitfall regarding Long-Term Memory
+  body: 'Long-Term Memory is regularly described as a passive repository of "what
+    we know," obscuring the *constructive* nature of retrieval that [[schema-theory]]
+    and the testing-effect literature establish: every act of retrieval from Long-Term
+    Memory partially reconstructs and modifies the retrieved content, which is why
+    repeated [[retrieval-practice]] produces both consolidation and distortion, and
+    why Long-Term Memory cannot be treated as an immutable record analogous to a hard
+    disk.'

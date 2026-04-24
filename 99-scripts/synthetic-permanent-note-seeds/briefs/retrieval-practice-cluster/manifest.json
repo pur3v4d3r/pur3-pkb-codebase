@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "retrieval-practice-cluster",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-retrieval-practice-cluster.md",
+    "notes": "Three foundational concepts in the science of memory and learning. Drawn\nfrom the retrieval-practice / spaced-repetition literature; intended as\nprerequisites for permanent notes on study-strategy design."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/retrieval-practice-cluster",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-retrieval-practice-cluster"
+  },
+  "counts": {
+    "parsed": 3,
+    "accepted": 3,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Testing Effect",
+      "kebab": "testing-effect",
+      "brief_path": "briefs/retrieval-practice-cluster/testing-effect.yaml",
+      "expected_seed_filename": "testing-effect-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Generation Effect",
+      "kebab": "generation-effect",
+      "brief_path": "briefs/retrieval-practice-cluster/generation-effect.yaml",
+      "expected_seed_filename": "generation-effect-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Forgetting Curve",
+      "kebab": "forgetting-curve",
+      "brief_path": "briefs/retrieval-practice-cluster/forgetting-curve.yaml",
+      "expected_seed_filename": "forgetting-curve-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

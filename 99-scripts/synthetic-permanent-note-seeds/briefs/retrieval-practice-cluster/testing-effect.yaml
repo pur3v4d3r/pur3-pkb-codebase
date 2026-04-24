@@ -1,0 +1,19 @@
+concept: Testing Effect
+domain: cognitive-science
+confidence: high
+callouts:
+- type: definition
+  title: Testing Effect
+  body: The Testing Effect is the empirical finding that retrieving information from
+    memory — actively producing the answer — strengthens long-term retention more
+    than restudying the same material for an equal amount of time.
+- type: key-claim
+  title: Key claim about Testing Effect
+  body: The Testing Effect demonstrates that the act of retrieval is itself a memory-modifying
+    event, not merely a neutral readout of what is stored; this overturns the intuitive
+    "study = strong, test = neutral" model that dominates naive learning practice.
+- type: warning
+  title: Common pitfall regarding Testing Effect
+  body: The Testing Effect is often misread as endorsing high-stakes evaluation; the
+    empirical effect refers to low-stakes self-testing as a study strategy, and conflating
+    the two leads to test anxiety being mistaken for a learning intervention.

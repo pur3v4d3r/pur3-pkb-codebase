@@ -1,0 +1,44 @@
+concept: "Desirable Difficulties"
+domain: "cognitive-science"
+secondary_domains: ["learning-science"]
+aliases: ["Bjork Desirable Difficulties"]
+broader: ["learning-science"]
+narrower: []
+related: ["spaced-retrieval", "testing-effect", "interleaving"]
+prerequisites: ["long-term-memory"]
+confidence: "high"
+
+callouts:
+  - type: "definition"
+    title: "Desirable Difficulties"
+    body: |
+      Desirable Difficulties names the family of learning conditions, identified by Robert Bjork, that intentionally slow short-term acquisition in order to strengthen long-term retention and transfer. The class includes spacing, [[interleaving]], retrieval practice, and variable practice — interventions whose surface inefficiency masks a deeper consolidation benefit.
+
+      **Boundary:** Not every difficulty is desirable. A difficulty is desirable only when it engages the encoding processes that support durable learning; difficulties that merely add cognitive noise (illegible handwriting, irrelevant distractors) impair learning without compensating retention gains.
+
+      **See also:** [[spaced-retrieval]], [[testing-effect]], [[interleaving]]
+
+  - type: "key-claim"
+    title: "Practice-time performance diverges from learning"
+    body: |
+      A central claim of the [[desirable-difficulties|Desirable Difficulties]] framework is that practice-time performance is a poor proxy for durable learning. Conditions that produce rapid in-session gains often produce shallower long-term retention; conditions that feel laborious during practice frequently produce deeper, more transferable knowledge.
+
+  - type: "key-distinction"
+    title: "Desirable difficulty vs. mere difficulty"
+    body: |
+      Desirable Difficulties is distinct from generic task difficulty. A desirable difficulty engages the consolidation pathway by forcing reconstructive effort; mere difficulty consumes [[working-memory]] without compensating encoding benefit. Conflating the two produces interventions that feel rigorous but harm acquisition.
+
+  - type: "example"
+    title: "Interleaving math problem types"
+    body: |
+      A student who interleaves three problem types — rather than blocking practice on one type at a time — shows lower in-session accuracy but substantially better one-week retention and transfer to novel problems. This is a canonical demonstration of the [[desirable-difficulties|Desirable Difficulties]] principle in action.
+
+  - type: "warning"
+    title: "Difficulty is not virtue"
+    body: |
+      The [[desirable-difficulties|Desirable Difficulties]] framework is sometimes invoked to justify any aversive learning condition. The framework predicts the opposite: only difficulties that engage retrieval, spacing, or variability mechanisms qualify. Adding friction without mechanism is anti-instructional.
+
+  - type: "claude-insight"
+    title: "Desirable Difficulties as a metacognitive trap"
+    body: |
+      The reason [[desirable-difficulties|Desirable Difficulties]] are systematically underused is metacognitive. Learners and instructors both rely on practice-time fluency as a learning signal — and Desirable Difficulties deliberately suppress fluency. The framework therefore requires not only correct intervention design but also explicit suppression of the [[fluency-heuristic]], which is why it transfers poorly to self-directed learners without external scaffolding.

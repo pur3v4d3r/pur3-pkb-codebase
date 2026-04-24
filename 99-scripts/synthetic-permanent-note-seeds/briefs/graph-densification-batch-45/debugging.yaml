@@ -1,0 +1,52 @@
+concept: Debugging
+domain: software-engineering
+secondary_domains:
+- developer-tooling
+- computer-science
+aliases:
+- debug
+- troubleshooting code
+broader:
+- software-engineering
+narrower:
+- breakpoint
+- traceback
+- exception
+related:
+- breakpoint
+- traceback
+- exception
+- integrated-development-environment
+- github-copilot
+- language-server-protocol
+- the-replication-challenge-to-the-undermining-effect
+prerequisites:
+- integrated-development-environment
+confidence: high
+callouts:
+- type: definition
+  title: Debugging
+  body: 'Debugging is the systematic activity of locating, diagnosing, and removing
+    defects in software by formulating hypotheses about a discrepancy between expected
+    and observed behaviour, then constructing controlled observations — instrumented
+    logging, [[breakpoint]] inspection of runtime state, minimal-reproduction isolation,
+    [[traceback]] interpretation — that confirm or falsify each hypothesis. Debugging
+    is conceptually closer to scientific inquiry than to typing: the bottleneck is
+    hypothesis quality, not edit speed.'
+- type: key-claim
+  title: Key claim about Debugging
+  body: 'Debugging skill is the proximal differentiator between novice and expert
+    programmers far more than syntactic fluency or library knowledge: novices treat
+    Debugging as random trial-and-error code modification, while experts treat Debugging
+    as disciplined hypothesis testing — instrument first, hypothesise explicitly,
+    change one variable at a time, falsify before fixing — which is why effective
+    Debugging instruction targets the inquiry process rather than tool features.'
+- type: warning
+  title: Common pitfall regarding Debugging
+  body: Debugging is regularly conflated with *making the symptom go away*, but a
+    change that suppresses the visible failure without identifying the underlying
+    defect leaves the defect in place to re-emerge — often more obscurely — under
+    slightly different conditions; the substantive Debugging discipline ends not when
+    the test passes but when the *causal mechanism* of the original failure is understood,
+    and Debugging that stops short of mechanism risks the cargo-cult code-modification
+    that [[cargo-cult-coding]] research documents.

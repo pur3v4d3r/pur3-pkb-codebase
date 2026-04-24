@@ -1,0 +1,43 @@
+concept: Client-Server Architecture
+domain: computer-science
+secondary_domains:
+- software-engineering
+- systems-design
+aliases:
+- client-server model
+- client/server pattern
+broader:
+- computer-science
+related:
+- language-server-protocol
+- github-copilot
+- integrated-development-environment
+- modular-design
+- the-extension-ecosystem-as-capability-assembly
+confidence: high
+callouts:
+- type: definition
+  title: Client-Server Architecture
+  body: Client-Server Architecture is the distributed-system pattern in which a *client*
+    process initiates requests to a *server* process that holds shared resources and
+    arbitrates access, with the two communicating over a defined protocol — typically
+    over a network but sometimes intra-process or via local IPC. Client-Server Architecture
+    is the foundational pattern for the modern web, for [[language-server-protocol]]
+    (the editor is the client, the language server is the server), and for most multi-user
+    applications.
+- type: key-claim
+  title: Key claim about Client-Server Architecture
+  body: 'Client-Server Architecture''s design contribution is *the separation of presentation
+    from authoritative state*: by concentrating shared state on the server and treating
+    clients as views into that state, Client-Server Architecture allows independent
+    evolution of clients (web, mobile, CLI, editor extension) against a single source
+    of truth — which is why the pattern remains dominant despite peer-to-peer alternatives
+    that periodically claim to supersede it.'
+- type: warning
+  title: Common pitfall regarding Client-Server Architecture
+  body: 'Client-Server Architecture is regularly conflated with *web architecture*
+    specifically, but the pattern is broader: any process that initiates requests
+    to another process holding shared resources implements Client-Server Architecture
+    regardless of transport (HTTP, gRPC, stdio, named pipes); recognising the pattern
+    in non-web contexts — [[language-server-protocol]] is the canonical example —
+    is what allows the same architectural reasoning to transfer between domains.'

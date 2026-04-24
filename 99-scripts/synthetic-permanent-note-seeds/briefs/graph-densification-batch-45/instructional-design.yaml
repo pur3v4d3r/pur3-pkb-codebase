@@ -1,0 +1,56 @@
+concept: Instructional Design
+domain: educational-psychology
+secondary_domains:
+- learning-science
+- cognitive-psychology
+aliases:
+- ID
+- learning design
+- instructional systems design
+broader:
+- educational-psychology
+narrower:
+- four-component-instructional-design-4c-id
+- scaffolding
+- scaffolded-fading
+- backward-design
+- curriculum-design
+related:
+- cognitive-load-theory
+- worked-examples
+- the-worked-example-effect
+- expertise-reversal-effect
+- schema-construction
+- complex-learning
+- the-just-in-time-principle
+prerequisites:
+- cognitive-load-theory
+- schema-theory
+confidence: high
+callouts:
+- type: definition
+  title: Instructional Design
+  body: Instructional Design is the discipline that engineers learning environments
+    — sequences of tasks, supports, feedback, and assessments — to maximise the probability
+    that intended learning outcomes are achieved by the intended learners under the
+    constraints of [[working-memory]], prior knowledge, and motivational ecology.
+    Instructional Design draws on [[cognitive-load-theory]] for its load-management
+    principles, on [[schema-theory]] for its acquisition model, and on [[scaffolding]]
+    / [[scaffolded-fading]] for its support trajectory, and is operationalised in
+    mature frameworks such as [[four-component-instructional-design-4c-id]].
+- type: key-claim
+  title: Key claim about Instructional Design
+  body: 'Instructional Design as a discipline is distinguished from generic teaching
+    by its commitment to *empirical falsifiability*: a design is judged not by its
+    surface plausibility or learner enjoyment but by measurable transfer to authentic
+    post-instruction tasks, which is why Instructional Design has converged on principles
+    ([[worked-examples]], [[the-just-in-time-principle]], [[isolated-elements-effect]])
+    that remain robust across decades of replication while pedagogical fashion churns.'
+- type: warning
+  title: Common pitfall regarding Instructional Design
+  body: Instructional Design is regularly equated with the surface artifacts of e-learning
+    — slide decks, quizzes, LMS modules — collapsing the discipline into a content-production
+    craft; the substantive Instructional Design commitments are diagnostic (assess
+    prior knowledge), structural (sequence by [[element-interactivity]]), and adaptive
+    (fade scaffolds along the [[expertise-reversal-effect]] gradient), and a "well-designed
+    course" that ignores them is Instructional Design in name only.

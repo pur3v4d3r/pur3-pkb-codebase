@@ -1,0 +1,53 @@
+concept: Active Learning
+domain: educational-psychology
+secondary_domains:
+- learning-science
+- cognitive-psychology
+aliases:
+- active learning approach
+- active engagement learning
+broader:
+- educational-psychology
+narrower:
+- retrieval-practice
+- productive-failure
+- self-explanation
+- elaborative-interrogation
+related:
+- retrieval-practice
+- retrieval-practice-as-the-most-potent-single-strategy
+- productive-failure
+- schema-construction
+- germane-cognitive-load
+- fluency-illusion
+- desirable-difficulties
+- the-coordination-thesis-for-schema-construction
+prerequisites:
+- cognitive-load-theory
+confidence: high
+callouts:
+- type: definition
+  title: Active Learning
+  body: Active Learning is the pedagogical category that contrasts with passive reception
+    (lecture, assigned reading) by requiring the learner to *generate* something —
+    answers, explanations, predictions, problem solutions, retrieval attempts — that
+    externalises the cognitive work of [[schema-construction]] and converts the latent
+    [[germane-cognitive-load]] of comprehension into observable learner behaviour.
+    Active Learning encompasses [[retrieval-practice]], [[self-explanation]], [[elaborative-interrogation]],
+    [[productive-failure]], and instructed problem-solving, among others.
+- type: key-claim
+  title: Key claim about Active Learning
+  body: 'Active Learning produces durable learning gains because it eliminates the
+    [[fluency-illusion]] that passive review cultivates: the act of generating a response
+    surfaces gaps in the developing schema in a way that the act of reading does not,
+    and the resulting [[desirable-difficulties]] trigger the consolidation that [[retrieval-practice]]
+    research has documented as the single most reliable study-strategy effect.'
+- type: warning
+  title: Common pitfall regarding Active Learning
+  body: Active Learning is regularly counterfeited by *active behaviours that do not
+    produce active cognition* — colourful group activities, kinesthetic demonstrations,
+    peer chat — collapsing Active Learning into a category of *visible motion* rather
+    than *generative cognition*; the substantive Active Learning commitment is to
+    learner generation of cognitively load-bearing output, and any classroom activity
+    that engages the body without engaging [[germane-cognitive-load]] is Active Learning
+    in surface only.

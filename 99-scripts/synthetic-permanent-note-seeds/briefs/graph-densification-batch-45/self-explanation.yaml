@@ -1,0 +1,48 @@
+concept: Self-Explanation
+domain: cognitive-psychology
+secondary_domains:
+- educational-psychology
+- learning-science
+aliases:
+- self-explanation effect
+broader:
+- elaborative-encoding
+related:
+- elaborative-interrogation
+- worked-examples
+- the-worked-example-effect
+- encoding-depth
+- levels-of-processing
+- schema-construction
+- germane-cognitive-load
+- comprehension-monitoring
+prerequisites:
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Self-Explanation
+  body: Self-Explanation is the learning strategy in which a learner generates *their
+    own explanations* of a presented worked example, text passage, or principle —
+    articulating why a step was taken, how a new idea connects to prior knowledge,
+    or what the underlying mechanism is — rather than passively reading the material.
+    Self-Explanation was identified by Chi, Bassok, Lewis, Reimann, and Glaser (1989)
+    as the behaviour that distinguished successful from unsuccessful learners studying
+    physics worked examples, and has since been replicated as one of the most reliably
+    useful study strategies.
+- type: key-claim
+  title: Key claim about Self-Explanation
+  body: 'Self-Explanation produces durable learning gains because it externalises
+    the [[germane-cognitive-load]] that [[schema-construction]] requires: by forcing
+    the learner to articulate the structural relations binding example elements, Self-Explanation
+    surfaces gaps in the developing schema, triggers [[comprehension-monitoring]],
+    and prevents the [[fluency-illusion]] of having understood a worked example merely
+    because its surface was followed.'
+- type: warning
+  title: Common pitfall regarding Self-Explanation
+  body: Self-Explanation is often conflated with *re-stating* what the text already
+    said — a form of verbal rehearsal that produces no [[encoding-depth]] gain — collapsing
+    the construct into yet another fluency-illusion-prone study tactic; the substantive
+    Self-Explanation commitment is to the *generation* of inferences, justifications,
+    and mechanism descriptions that the source did not supply, and any re-statement
+    of presented content is no more Self-Explanation than reading aloud is comprehension.

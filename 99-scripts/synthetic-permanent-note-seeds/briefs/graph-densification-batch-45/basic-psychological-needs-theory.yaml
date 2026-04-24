@@ -1,0 +1,54 @@
+concept: Basic Psychological Needs Theory
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- well-being-research
+aliases:
+- BPNT
+- needs theory
+broader:
+- self-determination-theory
+narrower:
+- autonomy-sdt
+- competence-sdt
+- relatedness-sdt
+- need-satisfaction
+- need-frustration
+related:
+- the-three-basic-psychological-needs
+- basic-psychological-needs
+- basic-psychological-need
+- autonomous-motivation
+- internalization-continuum
+- organismic-integration-theory
+- the-active-organism-hypothesis
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Basic Psychological Needs Theory
+  body: Basic Psychological Needs Theory is the third of the six sub-theories of [[self-determination-theory]],
+    asserting that human well-being depends on the satisfaction of three innate, universal,
+    and non-substitutable psychological needs — [[autonomy-sdt]], [[competence-sdt]],
+    and [[relatedness-sdt]] — across the lifespan and across cultures. Basic Psychological
+    Needs Theory is the conceptual core that distinguishes [[self-determination-theory]]
+    from desire-fulfilment and preference-satisfaction accounts of motivation and
+    well-being.
+- type: key-claim
+  title: Key claim about Basic Psychological Needs Theory
+  body: 'Basic Psychological Needs Theory''s central empirical claim is the *universality
+    and additivity* of the three needs: across cultures, ages, life domains, and economic
+    conditions, satisfaction of all three needs predicts well-being and adaptive functioning,
+    frustration of any predicts ill-being, and the effects are *additive* rather than
+    substitutable — high relatedness does not compensate for low autonomy, and material
+    reward does not substitute for [[need-satisfaction]].'
+- type: warning
+  title: Common pitfall regarding Basic Psychological Needs Theory
+  body: 'Basic Psychological Needs Theory is widely confused with *Maslow''s hierarchy
+    of needs*, but the constructs differ fundamentally: Basic Psychological Needs
+    Theory''s three needs are *non-hierarchical, concurrent, and psychological* (not
+    biological), and the empirical evidence rejects any universal ordering or prepotency
+    among them; treating Basic Psychological Needs Theory as a Maslow successor obscures
+    both the distinct need set and the [[self-determination-theory]] commitment to
+    non-substitutability.'

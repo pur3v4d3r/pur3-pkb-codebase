@@ -1,0 +1,53 @@
+concept: Schema Theory
+domain: cognitive-psychology
+secondary_domains:
+- educational-psychology
+- learning-science
+aliases:
+- schema-theoretic account
+broader:
+- cognitive-psychology
+narrower:
+- schema
+- schema-construction
+- schema-automation
+- hierarchical-chunk-structure
+related:
+- cognitive-load-theory
+- working-memory
+- long-term-memory
+- chunk
+- retrieval-structure
+- the-coordination-thesis-for-schema-construction
+prerequisites:
+- working-memory
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Schema Theory
+  body: 'Schema Theory is the family of cognitive accounts — originating with Bartlett
+    (1932) and formalised by Rumelhart, Anderson, and the Sweller tradition — that
+    treats long-term knowledge as organised into *schemas*: hierarchical, slot-and-filler
+    structures that compress recurrent regularities of the world into single retrievable
+    units, and that mediate perception, comprehension, problem-solving, and memory
+    by supplying the prior structure into which incoming information is assimilated.
+    Within [[cognitive-load-theory]], Schema Theory grounds the central claim that
+    expertise is the substitution of [[working-memory]]-bound element processing with
+    [[long-term-memory]]-resident schema retrieval.'
+- type: key-claim
+  title: Key claim about Schema Theory
+  body: Schema Theory predicts that the principal bottleneck of learning is not memorisation
+    of items but the *construction of schemas* — the binding of previously unrelated
+    elements into a single unit that can be retrieved and manipulated as one — which
+    is why instructional designs that target [[schema-construction]] (worked examples,
+    isolated-elements sequencing, scaffolded fading) outperform those that target
+    item recall, and why expertise development follows [[the-power-law-of-practice]].
+- type: warning
+  title: Common pitfall regarding Schema Theory
+  body: Schema Theory is frequently weakened into the slogan "activate prior knowledge
+    before teaching new content," collapsing a mechanistic account of [[long-term-working-memory]]
+    into a generic instructional preamble; the empirically substantive Schema Theory
+    commitments — that schemas are *constructed* through [[element-interactivity]]-respecting
+    practice and that premature retrieval of an under-built schema produces interference,
+    not consolidation — survive only when the design discipline survives.

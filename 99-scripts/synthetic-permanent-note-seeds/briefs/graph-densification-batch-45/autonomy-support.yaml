@@ -1,0 +1,54 @@
+concept: Autonomy Support
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- organizational-psychology
+aliases:
+- autonomy-supportive teaching
+- autonomy-supportive parenting
+- autonomy-supportive style
+broader:
+- self-determination-theory
+narrower:
+- autonomy-supportive-structure
+- feedback-design-for-autonomy-and-mastery
+related:
+- autonomy
+- autonomy-sdt
+- basic-psychological-needs
+- controlling-teaching-styles
+- internalization-continuum
+- identified-regulation
+- autonomy-structure-dialectic
+prerequisites:
+- self-determination-theory
+- basic-psychological-needs
+confidence: high
+callouts:
+- type: definition
+  title: Autonomy Support
+  body: Autonomy Support is, within [[self-determination-theory]], the interpersonal
+    and structural practice of taking the other's perspective, acknowledging their
+    feelings, providing rationale for requests, offering meaningful choice, and minimising
+    controlling language and contingent reward — operationalised through a small set
+    of teacher, manager, and clinician behaviours whose net effect is to satisfy the
+    [[autonomy-sdt]] need and thereby support [[internalization]] rather than externally
+    imposed compliance. Autonomy Support is contrasted with [[controlling-teaching-styles]]
+    along the [[autonomy-structure-dialectic]] axis, not with structure or expectations.
+- type: key-claim
+  title: Key claim about Autonomy Support
+  body: Autonomy Support reliably predicts more autonomous regulation, deeper engagement,
+    higher conceptual learning, lower dropout, and better well-being across classroom,
+    clinical, parenting, and workplace settings — a result robust enough that Autonomy
+    Support has become one of the most replicable causal motivational interventions
+    in field psychology, with effects mediated by [[basic-psychological-needs]] satisfaction
+    rather than by reward contingencies.
+- type: warning
+  title: Common pitfall regarding Autonomy Support
+  body: 'Autonomy Support is widely misread as *permissiveness* — the abandonment
+    of structure, expectation, or evaluation — but the [[autonomy-structure-dialectic]]
+    is explicit that Autonomy Support and structure are orthogonal, not opposed: the
+    autonomy-supportive teacher provides clear expectations, informative feedback,
+    and explicit consequences alongside choice and rationale, and removing structure
+    under the banner of Autonomy Support produces the very chaos critics use to discredit
+    [[self-determination-theory]].'

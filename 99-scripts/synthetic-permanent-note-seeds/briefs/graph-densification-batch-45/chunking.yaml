@@ -1,0 +1,53 @@
+concept: Chunking
+domain: cognitive-psychology
+secondary_domains:
+- educational-psychology
+- expertise-research
+aliases:
+- perceptual chunking
+- knowledge chunking
+broader:
+- schema-construction
+narrower:
+- hierarchical-chunk-structure
+- chunk
+related:
+- schema
+- automaticity
+- working-memory
+- long-term-working-memory
+- pattern-recognition
+- retrieval-structure
+- the-power-law-of-practice
+prerequisites:
+- working-memory
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Chunking
+  body: Chunking is the cognitive process by which several previously unrelated elements
+    are bound into a single retrievable unit — a *chunk* — that thereafter occupies
+    one slot of [[working-memory]] rather than several, allowing the freed capacity
+    to be redeployed onto higher-order relations. First identified by Miller (1956)
+    and operationalised by the Chase-and-Simon chess studies (1973), Chunking is the
+    principal mechanism by which expertise expands the *effective* capacity of working
+    memory without altering its raw slot count.
+- type: key-claim
+  title: Key claim about Chunking
+  body: 'Chunking is the proximal explanation for nearly every empirical signature
+    of domain expertise: the expert''s superior recall of structured but not random
+    material, the expert''s faster [[pattern-recognition]], and the expert''s apparent
+    ability to think strategically while novices struggle with surface features all
+    reduce to the same cause — the expert''s [[long-term-memory]] supplies pre-built
+    chunks that bypass [[working-memory]] limits and compose into the [[hierarchical-chunk-structure]]
+    that underwrites [[long-term-working-memory]].'
+- type: warning
+  title: Common pitfall regarding Chunking
+  body: 'Chunking is often confused with mnemonic encoding — turning "1 4 9 2" into
+    "1492" — but the substantive claim of Chunking research is structural, not mnemonic:
+    a chunk is a *meaningful unit in long-term memory* whose retrieval restores the
+    relations among its elements, and treating Chunking as a study trick rather than
+    a [[schema-construction]] outcome produces cargo-cult learning protocols (acronyms
+    without comprehension) that look like Chunking but deliver none of its expertise
+    benefits.'

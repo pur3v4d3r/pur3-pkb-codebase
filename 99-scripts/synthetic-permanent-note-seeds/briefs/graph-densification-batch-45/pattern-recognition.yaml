@@ -1,0 +1,53 @@
+concept: Pattern Recognition
+domain: cognitive-psychology
+secondary_domains:
+- perception
+- expertise-research
+aliases:
+- perceptual pattern recognition
+broader:
+- cognitive-psychology
+- expertise-research
+narrower:
+- chunk
+- hierarchical-chunk-structure
+related:
+- schema
+- schema-construction
+- automaticity
+- long-term-working-memory
+- retrieval-structure
+- type-1-processing
+- dual-process-theory
+prerequisites:
+- long-term-memory
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Pattern Recognition
+  body: 'Pattern Recognition is the cognitive process by which a perceptual or symbolic
+    input is rapidly matched against stored representations — schemas, chunks, exemplars
+    — to produce a categorisation, identification, or affordance reading without an
+    exhaustive feature-by-feature comparison. In skilled domains, Pattern Recognition
+    is the proximal mechanism through which expertise circumvents [[working-memory]]
+    limits: the expert does not see "thirty-two pieces on a board" but a small set
+    of meaningful patterns, each of which contains the relational structure necessary
+    to drive action.'
+- type: key-claim
+  title: Key claim about Pattern Recognition
+  body: 'Pattern Recognition is the dominant process by which experts outperform novices
+    on domain tasks: chess-master perception studies, fire-ground command research,
+    and medical-diagnosis literature converge on the finding that expert speed and
+    accuracy derive primarily from [[schema]]-driven Pattern Recognition rather than
+    from superior reasoning, deliberation, or working-memory capacity, making Pattern
+    Recognition the operational signature of [[automaticity]].'
+- type: warning
+  title: Common pitfall regarding Pattern Recognition
+  body: Pattern Recognition's reliability is bounded by the validity of the environment
+    in which it was acquired ([[high-validity-environment]]); Pattern Recognition
+    trained in low-validity domains — long-range geopolitical forecasting, stock-picking,
+    novel medical syndromes — produces *fluency* indistinguishable from genuine expertise
+    but predictively no better than chance, which is why Pattern Recognition must
+    be diagnosed against the environment that produced it before being trusted as
+    an expertise signal.

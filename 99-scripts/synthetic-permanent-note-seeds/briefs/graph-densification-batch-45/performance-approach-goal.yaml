@@ -1,0 +1,47 @@
+concept: Performance-Approach Goal
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- achievement-motivation
+aliases:
+- normative approach goal
+broader:
+- achievement-goal-theory
+- the-2-2-achievement-goal-framework
+related:
+- mastery-approach-goal
+- performance-avoidance-goal
+- achievement-goal
+- achievement-goal-theory
+- the-2-2-achievement-goal-framework
+- mastery-vs-performance-goal-orientation
+- conception-of-ability
+prerequisites:
+- achievement-goal-theory
+confidence: high
+callouts:
+- type: definition
+  title: Performance-Approach Goal
+  body: 'Performance-Approach Goal is, within [[the-2-2-achievement-goal-framework]],
+    the achievement orientation in which competence is *defined normatively* — relative
+    to others — and *valenced positively* (approaching the demonstration of superior
+    competence rather than avoiding the demonstration of inferior competence). A learner
+    under a Performance-Approach Goal pursues comparative success: outperforming peers,
+    ranking high, demonstrating ability against external standards.'
+- type: key-claim
+  title: Key claim about Performance-Approach Goal
+  body: 'Performance-Approach Goal is the most empirically nuanced cell of [[the-2-2-achievement-goal-framework]]:
+    in competitive, evaluation-rich, and high-stakes-attainment contexts, Performance-Approach
+    Goal reliably predicts *attainment* gains comparable to or exceeding mastery-approach
+    goals — a finding that complicates the simplified "mastery good, performance bad"
+    reading of [[achievement-goal-theory]] and forces a contextual rather than universal
+    evaluation of the Performance-Approach Goal cell.'
+- type: warning
+  title: Common pitfall regarding Performance-Approach Goal
+  body: Performance-Approach Goal is often endorsed without its boundary conditions,
+    but the empirical record is that Performance-Approach Goal degrades into [[performance-avoidance-goal]]
+    under any threat to ability self-image — a single salient failure, a public ranking
+    demotion, or a [[mastery-climate]] absent — which converts Performance-Approach
+    Goal's attainment benefits into [[self-handicapping]] losses; treating Performance-Approach
+    Goal as a stable adaptive orientation ignores its known instability under aversive
+    feedback.

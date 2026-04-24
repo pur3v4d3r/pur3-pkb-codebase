@@ -1,0 +1,49 @@
+concept: Zone of Proximal Development
+domain: educational-psychology
+secondary_domains:
+- developmental-psychology
+- learning-science
+aliases:
+- ZPD
+- zone of proximal development
+broader:
+- scaffolding
+related:
+- scaffolding
+- scaffolded-fading
+- scaffolding-fading-progression
+- cognitive-scaffolding
+- metacognitive-scaffolding
+- the-just-in-time-principle
+- autonomy-supportive-structure
+- cognitive-load-theory
+- expertise-reversal-effect
+confidence: high
+callouts:
+- type: definition
+  title: Zone of Proximal Development
+  body: 'Zone of Proximal Development is Lev Vygotsky''s construct for the band of
+    tasks that a learner *cannot yet perform independently* but *can perform with
+    assistance* from a more capable partner — distinguishing what the learner has
+    consolidated (below the zone) from what is currently beyond reach (above the zone).
+    The Zone of Proximal Development is the conceptual locus at which [[scaffolding]]
+    does its work: supports calibrated to the upper edge of the zone today become
+    unnecessary as that edge advances tomorrow.'
+- type: key-claim
+  title: Key claim about Zone of Proximal Development
+  body: Zone of Proximal Development reframes assessment from a measure of *current
+    independent performance* (which captures only the lower bound of the zone) to
+    a measure of *learnability under support*, which is the predictive quantity instructional
+    design actually needs — a reframing that grounds the case for dynamic assessment,
+    formative testing, and the [[scaffolding-fading-progression]] over static end-of-unit
+    measurement.
+- type: warning
+  title: Common pitfall regarding Zone of Proximal Development
+  body: Zone of Proximal Development is regularly used as a generic synonym for "challenging
+    but doable," collapsing Vygotsky's specific construct into a vague pedagogical
+    heuristic; the substantive Zone of Proximal Development commitments — that the
+    zone is *defined by interaction with a more capable other*, that it *moves* as
+    competence develops, and that assistance must be *withdrawn* in step with development
+    — are precisely what survive translation into modern [[scaffolded-fading]] practice
+    and what are lost when Zone of Proximal Development is treated as a mood word
+    for "appropriate difficulty."

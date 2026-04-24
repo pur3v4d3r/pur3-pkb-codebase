@@ -1,0 +1,51 @@
+concept: Need Satisfaction
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- organizational-psychology
+aliases:
+- psychological need satisfaction
+- BPN satisfaction
+broader:
+- self-determination-theory
+related:
+- basic-psychological-needs
+- basic-psychological-need
+- the-three-basic-psychological-needs
+- need-frustration
+- autonomy-sdt
+- competence-sdt
+- relatedness-sdt
+- autonomous-motivation
+- internalization
+prerequisites:
+- self-determination-theory
+- basic-psychological-needs
+confidence: high
+callouts:
+- type: definition
+  title: Need Satisfaction
+  body: Need Satisfaction is, within [[self-determination-theory]], the experiential
+    state in which the [[the-three-basic-psychological-needs]] — [[autonomy-sdt]],
+    [[competence-sdt]], and [[relatedness-sdt]] — are concurrently met by the prevailing
+    motivational environment, producing the affective and cognitive substrate from
+    which [[autonomous-motivation]] and successful [[internalization]] develop. Need
+    Satisfaction is conceptually and empirically distinct from [[need-frustration]],
+    which is an active pathogenic state rather than the mere absence of Need Satisfaction.
+- type: key-claim
+  title: Key claim about Need Satisfaction
+  body: Need Satisfaction is the *proximal mediator* through which [[self-determination-theory]]
+    converts environmental supports — autonomy-supportive teaching, optimally challenging
+    tasks, warm relational climates — into downstream motivational, cognitive, and
+    well-being outcomes, which is why interventions whose only causal pathway is increased
+    contingent reward reliably fail to deliver Need Satisfaction even when they raise
+    short-term performance.
+- type: warning
+  title: Common pitfall regarding Need Satisfaction
+  body: Need Satisfaction is regularly conflated with *desire satisfaction* (getting
+    what one wants) or *outcome satisfaction* (achieving one's goals), but [[self-determination-theory]]
+    is explicit that Need Satisfaction refers specifically to the three universal
+    psychological needs, *not* to derived preferences; satisfying derived desires
+    (status, wealth, image) without Need Satisfaction reliably fails to produce well-being
+    and may actively erode it through the [[need-frustration]] mechanism that [[intrinsic-vs-extrinsic-goal-contents]]
+    research documents.

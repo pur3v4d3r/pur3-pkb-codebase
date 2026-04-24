@@ -1,0 +1,43 @@
+concept: Code Editor
+domain: developer-tooling
+secondary_domains:
+- software-engineering
+- computer-science
+aliases:
+- text editor for code
+- source-code editor
+broader:
+- developer-tooling
+related:
+- integrated-development-environment
+- integrated-development-environment-ide-vs-code-editor
+- language-server-protocol
+- github-copilot
+- debugging
+- the-extension-ecosystem-as-capability-assembly
+confidence: high
+callouts:
+- type: definition
+  title: Code Editor
+  body: A Code Editor is a text-editing application optimised for source code through
+    syntax highlighting, smart indentation, bracket matching, regex search, and (modernly)
+    integration with [[language-server-protocol]] for completion and diagnostics —
+    but lacking the integrated build, debug, profile, and project-management tooling
+    that distinguishes an [[integrated-development-environment]]. Modern editors (VS
+    Code, Sublime, Vim/Neovim) blur the historical distinction by adopting LSP and
+    rich extension ecosystems.
+- type: key-claim
+  title: Key claim about Code Editor
+  body: 'A Code Editor''s defining characteristic is *minimal default scope with extensible
+    capability*: the editor itself does little beyond editing, and its richness derives
+    from the extension ecosystem the user assembles — a pattern that mirrors [[the-extension-ecosystem-as-capability-assembly]]
+    thesis and that gives the user fine-grained control over which capabilities are
+    present at the cost of requiring the user to assemble the working environment.'
+- type: warning
+  title: Common pitfall regarding Code Editor
+  body: 'A Code Editor is regularly described as "the same as an IDE but lighter,"
+    obscuring the substantive distinction that [[integrated-development-environment-ide-vs-code-editor]]
+    documents: a Code Editor leaves build, debug, project graph, and tool integration
+    to the user (or to extensions), while an IDE bundles them into a coherent default;
+    treating the two as interchangeable misleads new developers about what the tool
+    will and will not do without configuration.'

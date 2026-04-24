@@ -1,0 +1,285 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "graph-densification-batch-45",
+    "date": "2026-04-24",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-24-graph-densification-batch-45.md",
+    "notes": "Gap-analysis batch of 45 concepts ranked by ghost-link reference count\nin the v6-llm-elaborated permanent-notes folder, filtered to exclude\nalias variants of existing notes and report-stem references. Each term\ncloses multiple edges in the existing graph and wires into established\nnotes via prerequisites/related fields."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/graph-densification-batch-45",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-24-graph-densification-batch-45"
+  },
+  "counts": {
+    "parsed": 43,
+    "accepted": 42,
+    "skipped": 1,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Motivational Psychology",
+      "kebab": "motivational-psychology",
+      "brief_path": "briefs/graph-densification-batch-45/motivational-psychology.yaml",
+      "expected_seed_filename": "motivational-psychology-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Schema Theory",
+      "kebab": "schema-theory",
+      "brief_path": "briefs/graph-densification-batch-45/schema-theory.yaml",
+      "expected_seed_filename": "schema-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Pattern Recognition",
+      "kebab": "pattern-recognition",
+      "brief_path": "briefs/graph-densification-batch-45/pattern-recognition.yaml",
+      "expected_seed_filename": "pattern-recognition-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Chunking",
+      "kebab": "chunking",
+      "brief_path": "briefs/graph-densification-batch-45/chunking.yaml",
+      "expected_seed_filename": "chunking-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Autonomy Support",
+      "kebab": "autonomy-support",
+      "brief_path": "briefs/graph-densification-batch-45/autonomy-support.yaml",
+      "expected_seed_filename": "autonomy-support-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Constructivist Learning Theory",
+      "kebab": "constructivist-learning-theory",
+      "brief_path": "briefs/graph-densification-batch-45/constructivist-learning-theory.yaml",
+      "expected_seed_filename": "constructivist-learning-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Heuristics and Biases",
+      "kebab": "heuristics-and-biases",
+      "brief_path": "briefs/graph-densification-batch-45/heuristics-and-biases.yaml",
+      "expected_seed_filename": "heuristics-and-biases-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Instructional Design",
+      "kebab": "instructional-design",
+      "brief_path": "briefs/graph-densification-batch-45/instructional-design.yaml",
+      "expected_seed_filename": "instructional-design-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Implicit Theories of Intelligence",
+      "kebab": "implicit-theories-of-intelligence",
+      "brief_path": "briefs/graph-densification-batch-45/implicit-theories-of-intelligence.yaml",
+      "expected_seed_filename": "implicit-theories-of-intelligence-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Spaced Repetition",
+      "kebab": "spaced-repetition",
+      "brief_path": "briefs/graph-densification-batch-45/spaced-repetition.yaml",
+      "expected_seed_filename": "spaced-repetition-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Formative Assessment",
+      "kebab": "formative-assessment",
+      "brief_path": "briefs/graph-densification-batch-45/formative-assessment.yaml",
+      "expected_seed_filename": "formative-assessment-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Social Cognitive Theory",
+      "kebab": "social-cognitive-theory",
+      "brief_path": "briefs/graph-densification-batch-45/social-cognitive-theory.yaml",
+      "expected_seed_filename": "social-cognitive-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Locus of Control",
+      "kebab": "locus-of-control",
+      "brief_path": "briefs/graph-densification-batch-45/locus-of-control.yaml",
+      "expected_seed_filename": "locus-of-control-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Goal Orientation",
+      "kebab": "goal-orientation",
+      "brief_path": "briefs/graph-densification-batch-45/goal-orientation.yaml",
+      "expected_seed_filename": "goal-orientation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Long-Term Memory",
+      "kebab": "long-term-memory",
+      "brief_path": "briefs/graph-densification-batch-45/long-term-memory.yaml",
+      "expected_seed_filename": "long-term-memory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cognitive Bias",
+      "kebab": "cognitive-bias",
+      "brief_path": "briefs/graph-densification-batch-45/cognitive-bias.yaml",
+      "expected_seed_filename": "cognitive-bias-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Bounded Rationality",
+      "kebab": "bounded-rationality",
+      "brief_path": "briefs/graph-densification-batch-45/bounded-rationality.yaml",
+      "expected_seed_filename": "bounded-rationality-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Learned Helplessness",
+      "kebab": "learned-helplessness",
+      "brief_path": "briefs/graph-densification-batch-45/learned-helplessness.yaml",
+      "expected_seed_filename": "learned-helplessness-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Zone of Proximal Development",
+      "kebab": "zone-of-proximal-development",
+      "brief_path": "briefs/graph-densification-batch-45/zone-of-proximal-development.yaml",
+      "expected_seed_filename": "zone-of-proximal-development-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Self-Regulation",
+      "kebab": "self-regulation",
+      "brief_path": "briefs/graph-densification-batch-45/self-regulation.yaml",
+      "expected_seed_filename": "self-regulation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Self-Explanation",
+      "kebab": "self-explanation",
+      "brief_path": "briefs/graph-densification-batch-45/self-explanation.yaml",
+      "expected_seed_filename": "self-explanation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Habit Formation",
+      "kebab": "habit-formation",
+      "brief_path": "briefs/graph-densification-batch-45/habit-formation.yaml",
+      "expected_seed_filename": "habit-formation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Goal Setting",
+      "kebab": "goal-setting",
+      "brief_path": "briefs/graph-densification-batch-45/goal-setting.yaml",
+      "expected_seed_filename": "goal-setting-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Performance-Approach Goal",
+      "kebab": "performance-approach-goal",
+      "brief_path": "briefs/graph-densification-batch-45/performance-approach-goal.yaml",
+      "expected_seed_filename": "performance-approach-goal-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Mastery-Avoidance Goal",
+      "kebab": "mastery-avoidance-goal",
+      "brief_path": "briefs/graph-densification-batch-45/mastery-avoidance-goal.yaml",
+      "expected_seed_filename": "mastery-avoidance-goal-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Need Satisfaction",
+      "kebab": "need-satisfaction",
+      "brief_path": "briefs/graph-densification-batch-45/need-satisfaction.yaml",
+      "expected_seed_filename": "need-satisfaction-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cognitive Evaluation Theory",
+      "kebab": "cognitive-evaluation-theory",
+      "brief_path": "briefs/graph-densification-batch-45/cognitive-evaluation-theory.yaml",
+      "expected_seed_filename": "cognitive-evaluation-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Basic Psychological Needs Theory",
+      "kebab": "basic-psychological-needs-theory",
+      "brief_path": "briefs/graph-densification-batch-45/basic-psychological-needs-theory.yaml",
+      "expected_seed_filename": "basic-psychological-needs-theory-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Active Learning",
+      "kebab": "active-learning",
+      "brief_path": "briefs/graph-densification-batch-45/active-learning.yaml",
+      "expected_seed_filename": "active-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Transfer of Learning",
+      "kebab": "transfer-of-learning",
+      "brief_path": "briefs/graph-densification-batch-45/transfer-of-learning.yaml",
+      "expected_seed_filename": "transfer-of-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Externalized Metacognition",
+      "kebab": "externalized-metacognition",
+      "brief_path": "briefs/graph-densification-batch-45/externalized-metacognition.yaml",
+      "expected_seed_filename": "externalized-metacognition-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cognitive Strategy Use",
+      "kebab": "cognitive-strategy-use",
+      "brief_path": "briefs/graph-densification-batch-45/cognitive-strategy-use.yaml",
+      "expected_seed_filename": "cognitive-strategy-use-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Cyclical Model of Self-Regulated Learning",
+      "kebab": "cyclical-model-of-self-regulated-learning",
+      "brief_path": "briefs/graph-densification-batch-45/cyclical-model-of-self-regulated-learning.yaml",
+      "expected_seed_filename": "cyclical-model-of-self-regulated-learning-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Controlling Teaching Styles",
+      "kebab": "controlling-teaching-styles",
+      "brief_path": "briefs/graph-densification-batch-45/controlling-teaching-styles.yaml",
+      "expected_seed_filename": "controlling-teaching-styles-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Causal Attribution in Motivation",
+      "kebab": "causal-attribution-in-motivation",
+      "brief_path": "briefs/graph-densification-batch-45/causal-attribution-in-motivation.yaml",
+      "expected_seed_filename": "causal-attribution-in-motivation-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Debugging",
+      "kebab": "debugging",
+      "brief_path": "briefs/graph-densification-batch-45/debugging.yaml",
+      "expected_seed_filename": "debugging-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Version Control",
+      "kebab": "version-control",
+      "brief_path": "briefs/graph-densification-batch-45/version-control.yaml",
+      "expected_seed_filename": "version-control-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Dependency Management",
+      "kebab": "dependency-management",
+      "brief_path": "briefs/graph-densification-batch-45/dependency-management.yaml",
+      "expected_seed_filename": "dependency-management-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Modular Design",
+      "kebab": "modular-design",
+      "brief_path": "briefs/graph-densification-batch-45/modular-design.yaml",
+      "expected_seed_filename": "modular-design-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Code Editor",
+      "kebab": "code-editor",
+      "brief_path": "briefs/graph-densification-batch-45/code-editor.yaml",
+      "expected_seed_filename": "code-editor-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Environment Variables",
+      "kebab": "environment-variables",
+      "brief_path": "briefs/graph-densification-batch-45/environment-variables.yaml",
+      "expected_seed_filename": "environment-variables-synthetic-seed-2026-04-24_extracted.json"
+    },
+    {
+      "term": "Client-Server Architecture",
+      "kebab": "client-server-architecture",
+      "brief_path": "briefs/graph-densification-batch-45/client-server-architecture.yaml",
+      "expected_seed_filename": "client-server-architecture-synthetic-seed-2026-04-24_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Causal Attribution",
+      "kebab": "causal-attribution",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/causal-attribution.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at causal-attribution.md"
+    }
+  ],
+  "warnings": []
+}

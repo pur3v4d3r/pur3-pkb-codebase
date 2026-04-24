@@ -1,0 +1,50 @@
+concept: Self-Efficacy
+domain: motivational-psychology
+secondary_domains:
+- social-cognitive-psychology
+- educational-psychology
+aliases:
+- perceived self-efficacy
+- efficacy belief
+broader:
+- social-cognitive-theory
+- perceived-self-efficacy
+narrower:
+- collective-efficacy
+- efficacy-calibration
+related:
+- outcome-expectation
+- enactive-mastery-experience
+- vicarious-experience
+- verbal-persuasion
+- physiological-and-affective-states
+- triadic-reciprocal-determinism
+- the-centrality-of-efficacy-over-outcome-expectations
+prerequisites:
+- social-cognitive-theory
+confidence: high
+callouts:
+- type: definition
+  title: Self-Efficacy
+  body: 'Self-Efficacy is a person''s domain-specific judgment of their capability
+    to organise and execute the courses of action required to produce a designated
+    level of attainment — that is, the answer to the operational question *"can I
+    do this, in this situation, to this standard?"* — and stands at the centre of
+    [[social-cognitive-theory]] as the most proximal cognitive mediator between past
+    experience and future self-regulated action. Self-Efficacy is built from four
+    converging information sources: [[enactive-mastery-experience]] (the most potent),
+    [[vicarious-experience]], [[verbal-persuasion]], and [[physiological-and-affective-states]].'
+- type: key-claim
+  title: Key claim about Self-Efficacy
+  body: 'Self-Efficacy is causally distinct from [[outcome-expectation]] and from
+    prior performance: at matched skill, learners higher in Self-Efficacy choose harder
+    goals, deploy more effective strategies, persist longer under aversive feedback,
+    and ultimately outperform — establishing efficacy belief as a primary lever for
+    behaviour change rather than a downstream byproduct of past success.'
+- type: warning
+  title: Common pitfall regarding Self-Efficacy
+  body: Self-Efficacy is often equated with optimism, self-esteem, or generic confidence,
+    but the construct is strictly task- and standard-specific; treating Self-Efficacy
+    as a global trait — and attempting to raise it via decontextualised affirmations
+    — produces overconfident, miscalibrated learners and collapses the diagnostic
+    value of [[efficacy-calibration]].

@@ -1,0 +1,53 @@
+concept: Self-Efficacy Theory
+domain: motivational-psychology
+secondary_domains:
+- social-cognitive-psychology
+- educational-psychology
+aliases:
+- Bandura self-efficacy theory
+broader:
+- social-cognitive-theory
+narrower:
+- collective-efficacy
+- efficacy-calibration
+- efficacy-hierarchy
+related:
+- perceived-self-efficacy
+- outcome-expectation
+- triadic-reciprocal-determinism
+- enactive-mastery-experience
+- vicarious-experience
+- verbal-persuasion
+- physiological-and-affective-states
+prerequisites:
+- social-cognitive-theory
+- autonomous-motivation
+confidence: high
+callouts:
+- type: definition
+  title: Self-Efficacy Theory
+  body: Self-Efficacy Theory is Albert Bandura's account, formalised within [[social-cognitive-theory]],
+    of how a person's domain-specific belief in their capability to organise and execute
+    the courses of action required to attain a designated performance — their [[perceived-self-efficacy]]
+    — governs the goals they set, the effort they invest, the persistence they show
+    under setback, and the affective states they experience during pursuit. Self-Efficacy
+    Theory specifies four canonical sources of efficacy information ([[enactive-mastery-experience]],
+    [[vicarious-experience]], [[verbal-persuasion]], and [[physiological-and-affective-states]])
+    and treats efficacy beliefs as the proximal mediator through which biographical
+    experience translates into self-regulated action.
+- type: key-claim
+  title: Key claim about Self-Efficacy Theory
+  body: 'Self-Efficacy Theory establishes that capability beliefs are not redundant
+    with actual capability but causally distinct: at equivalent skill levels, learners
+    with higher [[perceived-self-efficacy]] set more challenging goals, deploy more
+    sophisticated strategies, recover faster from failure, and ultimately attain higher
+    performance — making efficacy beliefs the strongest single predictor of behaviour
+    change in domains as varied as academic achievement, clinical recovery, and occupational
+    performance.'
+- type: warning
+  title: Common pitfall regarding Self-Efficacy Theory
+  body: Self-Efficacy Theory is routinely conflated with self-esteem or generic confidence,
+    but the construct is strictly task-specific and forward-looking; treating it as
+    a global trait collapses [[the-centrality-of-efficacy-over-outcome-expectations]]
+    and licenses the empirically discredited practice of administering generic affirmations
+    as a substitute for the four specific source experiences the theory identifies.

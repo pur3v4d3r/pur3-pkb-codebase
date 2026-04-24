@@ -1,0 +1,52 @@
+concept: Constructivist Learning Theory
+domain: educational-psychology
+secondary_domains:
+- learning-science
+- cognitive-psychology
+aliases:
+- constructivism
+- constructivist epistemology of learning
+broader:
+- learning-science
+narrower:
+- the-coordination-thesis-for-schema-construction
+related:
+- schema-theory
+- schema-construction
+- productive-failure
+- scaffolding
+- zone-of-proximal-development
+- andragogy
+- self-directed-learning
+prerequisites:
+- schema-theory
+confidence: high
+callouts:
+- type: definition
+  title: Constructivist Learning Theory
+  body: Constructivist Learning Theory is the family of educational and cognitive
+    accounts — drawing on Piaget, Vygotsky, Bruner, and Papert — that holds that knowledge
+    is not transmitted intact from teacher to learner but *constructed* by the learner
+    through the active assimilation and accommodation of new experience into existing
+    [[schema]] structures. Constructivist Learning Theory ranges from radical (Piagetian,
+    individual-cognitive) to social (Vygotskian, mediated by interaction within the
+    [[zone-of-proximal-development]]) variants but converges on the design implication
+    that instruction must engineer *opportunities for construction* rather than deliver
+    compressed propositions.
+- type: key-claim
+  title: Key claim about Constructivist Learning Theory
+  body: Constructivist Learning Theory makes the strong claim that the *quality of
+    construction effort* — the [[germane-cognitive-load]] devoted to integrating new
+    elements with existing schemas — is the principal determinant of durable learning,
+    which is why instructional formats that reduce such effort to comfortable consumption
+    (lecture-heavy, fluency-illusion-prone) reliably produce shallow performance no
+    matter how engaging or efficient they appear.
+- type: warning
+  title: Common pitfall regarding Constructivist Learning Theory
+  body: Constructivist Learning Theory is repeatedly invoked to justify *minimally
+    guided instruction* — discovery learning, pure inquiry, unscaffolded problem-based
+    learning — but the Kirschner-Sweller-Clark (2006) critique established that for
+    novices, minimal guidance violates the very [[cognitive-load-theory]] constraints
+    that Constructivist Learning Theory acknowledges; the defensible Constructivist
+    Learning Theory commitment is to *guided* construction (worked examples that fade,
+    scaffolding that withdraws), not to the absence of instruction.

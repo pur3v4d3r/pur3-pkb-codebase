@@ -1,0 +1,52 @@
+concept: Bounded Rationality
+domain: decision-research
+secondary_domains:
+- cognitive-psychology
+- behavioural-economics
+aliases:
+- Simon bounded rationality
+broader:
+- decision-research
+narrower:
+- satisficing
+- cognitive-miserliness
+- attribute-substitution
+related:
+- heuristics-and-biases
+- cognitive-bias
+- dual-process-theory
+- working-memory
+- type-1-processing
+- mindware
+- the-active-organism-hypothesis
+prerequisites:
+- decision-research
+confidence: high
+callouts:
+- type: definition
+  title: Bounded Rationality
+  body: Bounded Rationality is Herbert Simon's account, originating in the 1950s,
+    that human decision-making is constrained by *cognitive limits* (working-memory
+    capacity, attentional bottlenecks, computational cost) and *informational limits*
+    (incomplete knowledge of options, outcomes, probabilities), and that consequently
+    real decision agents do not optimise but *satisfice* — searching until an acceptable
+    option is found rather than until the optimal one is identified. Bounded Rationality
+    is the conceptual ancestor of [[heuristics-and-biases]] and of all subsequent
+    ecological-rationality and dual-process accounts.
+- type: key-claim
+  title: Key claim about Bounded Rationality
+  body: 'Bounded Rationality reframes the descriptive failure of normative rational-choice
+    theory not as a deficiency of human reasoners but as a *correct adaptation to
+    environmental and cognitive constraints*: heuristics that look biased against
+    an idealised optimiser frequently outperform optimal procedures under realistic
+    time, information, and computational budgets — a position elaborated by Gigerenzer''s
+    ecological-rationality programme as a defence and extension of Bounded Rationality
+    rather than a refutation of [[heuristics-and-biases]].'
+- type: warning
+  title: Common pitfall regarding Bounded Rationality
+  body: 'Bounded Rationality is often confused with *irrationality* or with the [[heuristics-and-biases]]
+    critique of intuition, but Simon''s original construct is neutral about the *quality*
+    of the bounded decisions: Bounded Rationality says only that real reasoners satisfice
+    within constraints, not that they err systematically — and the question of whether
+    a given satisficing procedure is *adaptive* depends on the [[high-validity-environment]]
+    criterion that the bare Bounded Rationality framework leaves open.'

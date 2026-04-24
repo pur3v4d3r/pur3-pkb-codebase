@@ -1,0 +1,49 @@
+concept: Habit Formation
+domain: behavioural-psychology
+secondary_domains:
+- neuroscience
+- motivational-psychology
+aliases:
+- habit acquisition
+- automaticity acquisition
+broader:
+- strategic-automaticity
+related:
+- implementation-intention
+- implementation-intentions
+- the-habit-formation-imperative
+- automaticity
+- schema-automation
+- action-phase-model
+- goal-intention
+- intention-behavior-gap
+- mcii
+prerequisites:
+- strategic-automaticity
+confidence: high
+callouts:
+- type: definition
+  title: Habit Formation
+  body: Habit Formation is the behavioural-cognitive process by which a deliberate
+    action sequence — initiated under [[goal-intention]] and [[type-2-processing]]
+    — becomes triggered automatically by stable contextual cues through repeated execution,
+    transferring control of the action from conscious deliberation to cue-driven [[type-1-processing]].
+    Habit Formation is operationalised in the modern empirical literature (Lally et
+    al., 2010) as a saturating-curve trajectory whose median time-to-asymptote is
+    on the order of 66 days for moderate-complexity behaviours.
+- type: key-claim
+  title: Key claim about Habit Formation
+  body: 'Habit Formation is the principal mechanism by which [[implementation-intentions]]
+    and [[mcii]] convert one-shot intentions into sustained behavioural change: by
+    binding the desired action to a specific environmental cue, the [[implementation-intention]]
+    structure delegates execution to the cue-driven Habit Formation pathway, bypassing
+    the [[intention-behavior-gap]] that pure goal-intention work cannot close.'
+- type: warning
+  title: Common pitfall regarding Habit Formation
+  body: Habit Formation is regularly counterfeited by *willpower-based repetition*
+    in unstable contexts — performing the behaviour daily but in different settings,
+    at different times, after different cues — which prevents the cue-binding that
+    defines Habit Formation and produces only episodic compliance; without a stable
+    cue, what looks like Habit Formation is sustained [[goal-intention]] effort whose
+    persistence depends on motivational resources rather than on the cue-driven [[automaticity]]
+    that Habit Formation actually delivers.

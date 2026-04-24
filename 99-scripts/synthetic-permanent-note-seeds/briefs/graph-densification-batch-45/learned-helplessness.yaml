@@ -1,0 +1,53 @@
+concept: Learned Helplessness
+domain: motivational-psychology
+secondary_domains:
+- clinical-psychology
+- attribution-research
+aliases:
+- Seligman learned helplessness
+- helplessness pattern
+broader:
+- attribution-theory
+- motivational-psychology
+related:
+- attributional-vocabulary
+- explanatory-style-attributional-style
+- attribution-retraining
+- causal-attribution
+- controllability-dimension
+- the-stability-expectancy-principle
+- growth-mindset
+- self-efficacy
+prerequisites:
+- attribution-theory
+- causal-attribution
+confidence: high
+callouts:
+- type: definition
+  title: Learned Helplessness
+  body: Learned Helplessness is the motivational, cognitive, and affective syndrome
+    — first identified by Seligman and Maier (1967) in animal research and reformulated
+    for humans by Abramson, Seligman, and Teasdale (1978) — in which prior exposure
+    to *uncontrollable* aversive outcomes generalises into a stable expectancy that
+    future outcomes are also uncontrollable, suppressing initiation of action even
+    when control is now available. The reformulated Learned Helplessness account locates
+    the syndrome's persistence in an internal-stable-global [[explanatory-style-attributional-style]]
+    for failure.
+- type: key-claim
+  title: Key claim about Learned Helplessness
+  body: Learned Helplessness is the canonical demonstration that *the cognition of
+    uncontrollability* — the [[causal-attribution]] of negative outcomes to stable,
+    uncontrollable causes — produces the behavioural and affective deficits of helplessness
+    *independently* of the actual contingency between behaviour and outcome, which
+    is why [[attribution-retraining]] interventions that shift the explanatory style
+    for failure can reverse Learned Helplessness even when the original aversive history
+    remains.
+- type: warning
+  title: Common pitfall regarding Learned Helplessness
+  body: Learned Helplessness is widely misread as a *trait* of helpless individuals,
+    when the central empirical claim of the reformulated theory is that Learned Helplessness
+    is the joint product of an environmental history of uncontrollability *and* a
+    particular [[explanatory-style-attributional-style]]; treating Learned Helplessness
+    as a victim-blaming personality label inverts the construct, which originated
+    in a critique of environments that systematically train uncontrollability into
+    their inhabitants.

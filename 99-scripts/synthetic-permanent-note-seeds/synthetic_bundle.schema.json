@@ -1,0 +1,123 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pur3v4d3r-vault.local/schemas/synthetic_bundle.schema.json",
+  "title": "Synthetic Permanent-Note Seed Bundle (v1)",
+  "description": "Minimum-viable contract that a synthetic *_extracted.json must satisfy to be consumed by the V4/V5/V6 permanent-note pipelines without modification. See SYNTHETIC_BUNDLE_SCHEMA.md for narrative documentation.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["document_metadata", "extracted_items"],
+
+  "properties": {
+    "extraction_metadata": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "source_file": { "type": "string", "minLength": 1 },
+        "script_name": { "type": "string" },
+        "script_version": { "type": "string" },
+        "extraction_timestamp": { "type": "string" }
+      }
+    },
+
+    "document_metadata": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": ["frontmatter"],
+      "properties": {
+        "frontmatter": {
+          "type": "object",
+          "additionalProperties": true,
+          "required": ["title", "primary_domain"],
+          "properties": {
+            "title":             { "type": "string", "minLength": 1 },
+            "primary_domain":    { "type": "string", "minLength": 1, "pattern": "^[a-z0-9][a-z0-9-]*$" },
+            "secondary_domains": { "type": "array", "items": { "type": "string" } },
+            "aliases":           { "type": "array", "items": { "type": "string" } },
+            "confidence":        { "type": "string", "enum": ["high", "medium", "low"] },
+            "related":           { "type": "array", "items": { "type": "string" } },
+            "see-also":          { "type": "array", "items": { "type": "string" } },
+            "broader":           { "type": "array", "items": { "type": "string" } },
+            "narrower":          { "type": "array", "items": { "type": "string" } },
+            "prerequisites":     { "type": "array", "items": { "type": "string" } }
+          }
+        }
+      }
+    },
+
+    "extracted_items": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": ["callouts"],
+      "properties": {
+        "callouts": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 64,
+          "items": { "$ref": "#/$defs/callout" },
+          "contains": {
+            "type": "object",
+            "properties": {
+              "type": { "enum": ["definition", "key-claim"] }
+            },
+            "required": ["type"]
+          },
+          "minContains": 1
+        }
+      }
+    },
+
+    "knowledge_graph": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "unique_wiki_link_targets": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  },
+
+  "$defs": {
+    "callout": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": ["type", "title", "body"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "definition",
+            "key-claim",
+            "key-distinction",
+            "example",
+            "warning",
+            "claude-insight",
+            "important",
+            "principle-point",
+            "evidence",
+            "person",
+            "open-question",
+            "tension",
+            "far-transfer",
+            "original-synthesis",
+            "section-summary"
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 3,
+          "maxLength": 80
+        },
+        "body": {
+          "type": "string",
+          "minLength": 1
+        },
+        "line_number": { "type": ["integer", "null"] },
+        "source":      { "type": ["string",  "null"] },
+        "char_start":  { "type": ["integer", "null"] },
+        "char_end":    { "type": ["integer", "null"] }
+      }
+    }
+  }
+}

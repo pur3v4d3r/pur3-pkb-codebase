@@ -1,0 +1,48 @@
+concept: Modular Design
+domain: software-engineering
+secondary_domains:
+- computer-science
+- systems-design
+aliases:
+- modularity
+- modular architecture
+broader:
+- software-engineering
+related:
+- dependency-management
+- version-control
+- debugging
+- integrated-development-environment
+- github-copilot
+- the-isolation-principle-as-engineering-discipline
+- the-compartmentalization-thesis
+- complex-learning
+- the-architectural-imperative
+confidence: high
+callouts:
+- type: definition
+  title: Modular Design
+  body: Modular Design is the organisation of a software system into discrete, well-bounded
+    components — modules, packages, services — each of which exposes a *narrow interface*
+    and conceals an *implementation* whose internals can be changed without disturbing
+    other modules. Modular Design rests on the principles of *information hiding*
+    (Parnas, 1972), *separation of concerns* (Dijkstra), and *low coupling, high cohesion*,
+    and is the structural prerequisite for tractable maintenance, parallel development,
+    and unit testing.
+- type: key-claim
+  title: Key claim about Modular Design
+  body: 'Modular Design is the principal lever on long-term maintenance cost: a system
+    whose modules have narrow interfaces and hidden implementations can absorb requirement
+    changes locally, while a system whose modules leak implementation details across
+    interfaces propagates each change through the codebase — which is why Modular
+    Design discipline accounts for most of the cross-team variance in defect rates
+    and feature-velocity once a codebase exceeds the size that a single developer
+    can hold in mind.'
+- type: warning
+  title: Common pitfall regarding Modular Design
+  body: Modular Design is regularly counterfeited by *file-level partition* — splitting
+    a monolithic file into many small files without redrawing the interfaces between
+    them — which preserves the original coupling structure under a more decorated
+    surface; the substantive Modular Design commitment is to interface narrowness
+    and implementation hiding, and any decomposition that does not reduce the *information*
+    that crosses module boundaries is Modular Design in surface only.

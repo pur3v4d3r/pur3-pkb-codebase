@@ -1,0 +1,54 @@
+concept: Cognitive Bias
+domain: cognitive-psychology
+secondary_domains:
+- decision-research
+- behavioural-economics
+aliases:
+- systematic bias
+- judgment bias
+broader:
+- heuristics-and-biases
+- dual-process-theory
+narrower:
+- fundamental-attribution-error
+- fluency-illusion
+- attribute-substitution
+- illusion-of-explanatory-depth
+- expert-blind-spot
+related:
+- heuristics-and-biases
+- type-1-processing
+- cognitive-miserliness
+- mindware
+- default-interventionist-architecture
+- bounded-rationality
+prerequisites:
+- heuristics-and-biases
+- dual-process-theory
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Bias
+  body: 'Cognitive Bias is a systematic deviation of judgment, perception, or decision
+    from a normative standard (probability theory, formal logic, base-rate respect,
+    or instructed accuracy) that arises from the operation of [[type-1-processing]]
+    heuristics under conditions where their ecological validity is low. Cognitive
+    Bias is not random error but reproducible directional distortion: the same input
+    reliably produces the same skewed output across populations and across repeated
+    exposures, even after the bias is named and explained.'
+- type: key-claim
+  title: Key claim about Cognitive Bias
+  body: 'Cognitive Bias is *resistant to mere awareness*: the empirical record from
+    [[heuristics-and-biases]] research is that knowing about a Cognitive Bias does
+    not reliably reduce its operation in oneself — debiasing requires explicit [[mindware]],
+    procedural [[cognitive-forcing-functions]], or environmental redesign, not motivational
+    exhortation, which is why so-called "bias training" programmes that teach bias
+    names without procedural countermeasures rarely improve decisions.'
+- type: warning
+  title: Common pitfall regarding Cognitive Bias
+  body: Cognitive Bias is regularly invoked to dismiss any judgment one disagrees
+    with — *"that's just the X bias"* — converting a precise psychological construct
+    into a rhetorical cudgel; the substantive Cognitive Bias claim is narrower than
+    this usage suggests, requires evidence that [[type-1-processing]] in the relevant
+    low-validity environment is the mechanism, and does not license using Cognitive
+    Bias as a synonym for *error* or *wrong opinion*.

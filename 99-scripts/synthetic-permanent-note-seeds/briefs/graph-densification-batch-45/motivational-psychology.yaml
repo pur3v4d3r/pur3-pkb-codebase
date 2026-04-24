@@ -1,0 +1,53 @@
+concept: Motivational Psychology
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- social-cognitive-psychology
+aliases:
+- motivation science
+- psychology of motivation
+broader:
+- psychology
+narrower:
+- self-determination-theory
+- achievement-goal-theory
+- expectancy-value-theory
+- attribution-theory
+- self-efficacy-theory
+- goal-setting-theory
+related:
+- intrinsic-motivation
+- extrinsic-motivation
+- autonomous-motivation
+- controlled-motivation
+- basic-psychological-needs
+confidence: high
+callouts:
+- type: definition
+  title: Motivational Psychology
+  body: Motivational Psychology is the sub-discipline of psychology that studies the
+    *why* of behaviour — the directional, energising, and persistence-related determinants
+    of action — by modelling how needs, goals, expectations, values, and causal attributions
+    interact to produce engagement, choice, effort, and withdrawal across achievement,
+    social, and self-regulatory contexts. Motivational Psychology integrates competing
+    meta-theories — drive reduction, [[expectancy-value-theory]], [[attribution-theory]],
+    [[self-determination-theory]], [[achievement-goal-theory]], [[self-efficacy-theory]],
+    and [[goal-setting-theory]] — into a layered account in which proximal cognitions
+    ([[perceived-self-efficacy]], [[task-value]], [[causal-attribution]]) mediate
+    distal antecedents (needs, climate, history) into observable behaviour.
+- type: key-claim
+  title: Key claim about Motivational Psychology
+  body: 'Motivational Psychology has converged, since the cognitive turn of the 1970s,
+    on a multi-process consensus: motivation is not a unitary energiser but a *layered
+    system* in which need-based ([[basic-psychological-needs]]), goal-based ([[goal-setting-theory]],
+    [[achievement-goal-theory]]), expectancy-based ([[expectancy-value-theory]], [[self-efficacy-theory]]),
+    and attribution-based ([[attribution-theory]]) processes operate concurrently
+    and interact, so any single-construct intervention will leave most variance unexplained.'
+- type: warning
+  title: Common pitfall regarding Motivational Psychology
+  body: Motivational Psychology is regularly conflated with motivational *speech*
+    — generic exhortation and affirmation packaged as evidence-based practice — which
+    inverts the field's actual discipline; the empirically supported levers ([[autonomy-supportive-structure]],
+    [[implementation-intentions]], [[mastery-climate]], [[attribution-retraining]])
+    are structural and procedural, not rhetorical, and Motivational Psychology's clinical
+    track record depends on respecting that distinction.

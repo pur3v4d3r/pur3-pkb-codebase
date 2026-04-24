@@ -1,0 +1,54 @@
+concept: Transfer of Learning
+domain: cognitive-psychology
+secondary_domains:
+- educational-psychology
+- learning-science
+aliases:
+- transfer
+- learning transfer
+broader:
+- educational-psychology
+- cognitive-psychology
+narrower:
+- the-integration-transfer-advantage
+related:
+- schema-construction
+- schema
+- four-component-instructional-design-4c-id
+- complex-learning
+- whole-task-approach
+- the-integration-transfer-advantage
+- expertise-reversal-effect
+- retrieval-practice
+- productive-failure
+prerequisites:
+- schema-theory
+- schema-construction
+confidence: high
+callouts:
+- type: definition
+  title: Transfer of Learning
+  body: 'Transfer of Learning is the application of knowledge, skill, or strategy
+    acquired in one context to performance in a different context — distinguished
+    into *near transfer* (closely matching contexts) and *far transfer* (structurally
+    similar but surface-different contexts). Transfer of Learning is the criterion
+    by which instructional designs are ultimately judged: a design that produces high
+    in-course performance but no Transfer of Learning has produced [[pseudoexpertise]],
+    not durable learning.'
+- type: key-claim
+  title: Key claim about Transfer of Learning
+  body: 'Transfer of Learning depends on the *abstraction level* at which the original
+    learning was encoded: surface-bound learning transfers narrowly or not at all,
+    while learning encoded around [[schema]] structures and explicit principles transfers
+    far more reliably — which is why [[four-component-instructional-design-4c-id]]
+    and the [[whole-task-approach]] privilege variability of practice and integration
+    of partial skills as the principal Transfer of Learning levers.'
+- type: warning
+  title: Common pitfall regarding Transfer of Learning
+  body: Transfer of Learning, especially *far* transfer, has been historically over-promised
+    by educational interventions (brain-training games, generic-thinking-skills curricula)
+    whose evidence base is consistently weak; the substantive Transfer of Learning
+    literature is humbler — far transfer is rare without explicit instruction in *the
+    abstraction itself* and without varied practice across the target transfer surface
+    — and treating Transfer of Learning as an automatic by-product of "good teaching"
+    reliably overestimates what any single instructional unit will deliver.

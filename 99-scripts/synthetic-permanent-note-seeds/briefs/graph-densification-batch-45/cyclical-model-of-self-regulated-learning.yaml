@@ -1,0 +1,54 @@
+concept: Cyclical Model of Self-Regulated Learning
+domain: educational-psychology
+secondary_domains:
+- self-regulated-learning
+- motivational-psychology
+aliases:
+- Zimmerman cyclical model
+- three-phase cyclical model
+broader:
+- self-regulated-learning
+narrower:
+- forethought-phase
+- control-phase
+- reaction-and-reflection-phase
+related:
+- self-regulated-learning
+- pintrich-s-framework-of-self-regulated-learning
+- monitoring-control-loop
+- the-cyclical-feedback-architecture-as-learning-engine
+- forethought-as-regulatory-front-loading
+- reaction-and-reflection-as-cyclic-coupling
+- monitoring-phase
+- metacognitive-monitoring
+- metacognitive-control
+prerequisites:
+- self-regulated-learning
+confidence: high
+callouts:
+- type: definition
+  title: Cyclical Model of Self-Regulated Learning
+  body: 'The Cyclical Model of Self-Regulated Learning is Barry Zimmerman''s three-phase
+    account of [[self-regulated-learning]] in which forethought ([[forethought-phase]]:
+    goal-setting, strategic planning, self-efficacy assessment), performance ([[control-phase]]:
+    self-control and self-observation during action), and self-reflection ([[reaction-and-reflection-phase]]:
+    self-judgment and self-reaction) are coupled into a *closed loop* whose output
+    feeds back into the next forethought episode. The Cyclical Model of Self-Regulated
+    Learning is the canonical operationalisation of [[the-cyclical-feedback-architecture-as-learning-engine]].'
+- type: key-claim
+  title: Key claim about Cyclical Model of Self-Regulated Learning
+  body: The Cyclical Model of Self-Regulated Learning's empirical contribution is
+    the demonstration that *failure to close the loop* — strong forethought without
+    monitoring, strong monitoring without reflective integration, strong reflection
+    without revised forethought — is the modal pattern of self-regulatory failure,
+    and that effective intervention targets the broken edge of the cycle rather than
+    any single phase in isolation.
+- type: warning
+  title: Common pitfall regarding Cyclical Model of Self-Regulated Learning
+  body: The Cyclical Model of Self-Regulated Learning is regularly flattened to a
+    *checklist* of three phases ("plan, do, review") whose mere completion is treated
+    as evidence of self-regulation, but the substantive Cyclical Model of Self-Regulated
+    Learning commitment is to the *causal coupling* between phases — the next forethought
+    episode must be *informed by* the prior reflection — and ritualised three-phase
+    compliance without coupling is decorative self-regulation that delivers none of
+    the model's predicted benefits.

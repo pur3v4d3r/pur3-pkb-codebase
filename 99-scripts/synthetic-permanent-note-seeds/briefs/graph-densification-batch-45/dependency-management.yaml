@@ -1,0 +1,49 @@
+concept: Dependency Management
+domain: software-engineering
+secondary_domains:
+- developer-tooling
+- computer-science
+aliases:
+- package management
+- dependency resolution
+broader:
+- software-engineering
+narrower:
+- requirements-txt
+- virtual-environment
+- python-package
+related:
+- requirements-txt
+- virtual-environment
+- python-package
+- integrated-development-environment
+- version-control
+- modular-design
+- github-copilot
+confidence: high
+callouts:
+- type: definition
+  title: Dependency Management
+  body: Dependency Management is the systematic specification, resolution, installation,
+    and pinning of the external libraries and tools on which a project depends, performed
+    through declarative manifests ([[requirements-txt]], `pyproject.toml`, `package.json`,
+    `Cargo.toml`) and resolved by package managers (pip, uv, npm, cargo) into reproducible
+    installation graphs. Dependency Management is what allows a project to be re-built
+    deterministically across machines, time, and contributors.
+- type: key-claim
+  title: Key claim about Dependency Management
+  body: 'Dependency Management is one of the central reproducibility levers in software
+    engineering: a project whose dependencies are specified by declarative manifest
+    with pinned versions and an explicit resolver lock file (`requirements.txt` +
+    `pip freeze`, `package-lock.json`, `Cargo.lock`) can be re-built years later by
+    anyone with access to the package registry, while a project whose dependencies
+    are implicit ("install whatever pip gives you") cannot be re-built reliably even
+    by its original author six months on.'
+- type: warning
+  title: Common pitfall regarding Dependency Management
+  body: Dependency Management is regularly weakened by the practice of installing
+    packages without recording them in the manifest — relying on the developer's local
+    environment to "just have" the dependency — which produces the *works on my machine*
+    failure mode that destroys the very reproducibility Dependency Management exists
+    to deliver; effective Dependency Management requires that the manifest be the
+    *single source of truth* for what the project depends on.

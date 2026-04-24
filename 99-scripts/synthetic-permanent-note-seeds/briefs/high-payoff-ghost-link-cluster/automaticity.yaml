@@ -1,0 +1,54 @@
+concept: Automaticity
+domain: cognitive-psychology
+secondary_domains:
+- educational-psychology
+- instructional-design
+aliases:
+- skill automatization
+- automatic processing
+broader:
+- schema-automation
+- strategic-automaticity
+related:
+- schema-construction
+- schema
+- the-power-law-of-practice
+- power-law-of-practice
+- deliberate-practice
+- working-memory
+- long-term-working-memory
+- type-1-processing
+- type-2-processing
+- dual-process-theory
+- retrieval-structure
+prerequisites:
+- schema
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Automaticity
+  body: 'Automaticity is the property a cognitive operation acquires after extensive,
+    well-structured practice whereby the operation can be executed quickly, with minimal
+    demand on [[working-memory]], without conscious attentional control, and without
+    interference from concurrent cognitive load. Within [[cognitive-load-theory]]
+    and skill-acquisition research, Automaticity is the terminal state of [[schema-automation]]:
+    the schema has been compiled to the point that its execution no longer competes
+    for the limited capacity that intrinsic and germane processing demand.'
+- type: key-claim
+  title: Key claim about Automaticity
+  body: 'Automaticity is the proximal mechanism by which expertise circumvents [[working-memory]]
+    limits: the expert is not faster because their working memory is larger but because
+    routine sub-operations have been compiled into automatic schemas, freeing the
+    same finite capacity for high-level integration — this is why [[the-power-law-of-practice]]
+    and the [[expertise-reversal-effect]] together imply that instructional design
+    must shift from supporting controlled processing to demanding the practice that
+    produces Automaticity.'
+- type: warning
+  title: Common pitfall regarding Automaticity
+  body: Automaticity is routinely treated as an unalloyed good, but automatic execution
+    is by definition resistant to conscious correction; once a flawed sub-procedure
+    has been practiced to Automaticity it is exceptionally hard to extinguish and
+    tends to reassert itself under stress, which is why deliberate-practice protocols
+    emphasise *catching errors before* they automate rather than relying on later
+    remediation.

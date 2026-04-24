@@ -1,0 +1,51 @@
+concept: Locus of Control
+domain: motivational-psychology
+secondary_domains:
+- personality-psychology
+aliases:
+- Rotter locus of control
+- perceived locus of control
+broader:
+- attribution-theory
+narrower:
+- the-locus-of-causality-dimension
+related:
+- causal-attribution
+- locus-of-causality
+- perceived-locus-of-causality
+- self-efficacy
+- learned-helplessness
+- attribution-theory
+- controllability-dimension
+- stability-dimension
+prerequisites:
+- causal-attribution
+confidence: high
+callouts:
+- type: definition
+  title: Locus of Control
+  body: 'Locus of Control is Julian Rotter''s construct, predating Weiner''s full
+    [[attribution-theory]], that classifies people''s generalised expectancy about
+    *who or what* controls the outcomes of their actions along an internal-external
+    continuum: *internal* Locus of Control attributes outcomes primarily to one''s
+    own effort and ability; *external* Locus of Control attributes them primarily
+    to luck, fate, or powerful others. Locus of Control is conceptually the precursor
+    to the [[locus-of-causality]] dimension Weiner integrated into a multi-dimensional
+    [[attribution-theory]].'
+- type: key-claim
+  title: Key claim about Locus of Control
+  body: 'Locus of Control predicts a coherent cluster of self-regulatory behaviours:
+    internal Locus of Control reliably correlates with proactive coping, [[self-directed-learning]],
+    adaptive [[causal-attribution]] of failure, and resilience against [[learned-helplessness]],
+    whereas external Locus of Control correlates with passive coping and outcome-attribution
+    patterns that license withdrawal — but the predictive power is *moderated* by
+    domain specificity and by environmental controllability.'
+- type: warning
+  title: Common pitfall regarding Locus of Control
+  body: Locus of Control is frequently misread as a static personality trait deserving
+    of single-score classification, but Rotter himself emphasised that Locus of Control
+    is *generalised expectancy*, not invariant disposition — and that in domains where
+    external control is in fact dominant (acute illness, oppressive institutional
+    environments) an *external* Locus of Control may be the more accurate and adaptive
+    reading; treating internal Locus of Control as universally correct risks blaming
+    the situated for circumstances they did not generate.

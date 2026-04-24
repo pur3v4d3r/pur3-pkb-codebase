@@ -1,0 +1,44 @@
+concept: "Spaced Retrieval"
+domain: "cognitive-science"
+secondary_domains: ["learning-science", "memory-research"]
+aliases: ["Spaced Retrieval Practice"]
+broader: ["retrieval-practice"]
+narrower: ["expanding-retrieval"]
+related: ["testing-effect", "desirable-difficulties", "interleaving"]
+prerequisites: ["long-term-memory", "working-memory"]
+confidence: "high"
+
+callouts:
+  - type: "definition"
+    title: "Spaced Retrieval"
+    body: |
+      Spaced Retrieval is a learning technique that combines [[retrieval-practice|retrieval-practice]] with distributed practice — actively recalling target material at progressively wider time intervals rather than in massed blocks. The combination yields stronger long-term retention than either component alone.
+
+      **Boundary:** Spaced Retrieval is not the same as passive review at intervals. The retrieval step — generating the answer from memory rather than re-reading it — is essential. Without effortful retrieval, spacing alone produces the [[familiarity-illusion]] without durable encoding.
+
+      **See also:** [[testing-effect]], [[desirable-difficulties]], [[expanding-retrieval]]
+
+  - type: "key-claim"
+    title: "Spaced Retrieval scales with the spacing interval"
+    body: |
+      A central empirical claim of [[spaced-retrieval|Spaced Retrieval]] research is that long-term retention scales with the spacing gap between practice attempts, up to a domain-specific optimum. Beyond that optimum, performance degrades because the trace becomes irretrievable; below it, the practice approaches massed practice and the spacing benefit collapses.
+
+  - type: "key-distinction"
+    title: "Spaced Retrieval vs. Distributed Re-reading"
+    body: |
+      Spaced Retrieval is distinct from distributed re-reading. Spaced Retrieval requires the learner to generate the target from memory at each interval; distributed re-reading only requires re-exposure. The mechanisms differ — Spaced Retrieval engages the [[retrieval-practice|retrieval-practice]] consolidation pathway, while re-reading produces only stimulus familiarity.
+
+  - type: "example"
+    title: "Vocabulary acquisition with expanding intervals"
+    body: |
+      A learner studying 50 vocabulary items via Spaced Retrieval at expanding intervals (1 day, 3 days, 7 days, 21 days) consistently shows substantially better one-month and three-month retention than a learner who reviews the same items in a single massed session — even when total study time is matched.
+
+  - type: "warning"
+    title: "Spacing without retrieval is not Spaced Retrieval"
+    body: |
+      A common misreading of [[spaced-retrieval|Spaced Retrieval]] equates "spaced study sessions" with the technique. The retrieval component is load-bearing: re-reading at intervals produces familiarity without the consolidation benefit. Spaced Retrieval requires the learner to generate the response from memory, accept the discomfort of partial recall, and only then check the source.
+
+  - type: "claude-insight"
+    title: "Spaced Retrieval as a desirability-of-difficulty case"
+    body: |
+      Spaced Retrieval is the cleanest single instance of the [[desirable-difficulties|Desirable Difficulties]] family: a condition that makes practice feel harder and slower in the moment, but produces measurably more durable knowledge over weeks. Its empirical robustness across ages, domains, and modalities makes it one of the most policy-relevant findings in [[learning-science]] — yet most institutional study protocols still default to massed re-reading because it feels productive in real time.

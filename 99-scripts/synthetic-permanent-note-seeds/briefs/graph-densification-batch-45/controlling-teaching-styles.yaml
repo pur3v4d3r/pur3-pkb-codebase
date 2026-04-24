@@ -1,0 +1,54 @@
+concept: Controlling Teaching Styles
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+aliases:
+- controlling style
+- controlling teaching
+- controlling parenting
+broader:
+- self-determination-theory
+narrower:
+- conditional-regard
+- external-regulation
+- introjected-regulation
+related:
+- autonomy-support
+- autonomy-supportive-structure
+- autonomy-structure-dialectic
+- conditional-regard
+- controlled-motivation
+- need-frustration
+- internalization-continuum
+- organismic-integration-theory
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Controlling Teaching Styles
+  body: Controlling Teaching Styles are, within [[self-determination-theory]], the
+    interpersonal patterns — pressuring language ("you must," "you should"), contingent
+    reward, surveillance, evaluative comparison, withdrawal of warmth contingent on
+    performance — that thwart the [[autonomy-sdt]] need by establishing an external
+    [[perceived-locus-of-causality]] for the student's learning behaviours. Controlling
+    Teaching Styles are the structural opposite of [[autonomy-support]], not its absence,
+    and operate through a distinct causal pathway with its own [[need-frustration]]
+    consequences.
+- type: key-claim
+  title: Key claim about Controlling Teaching Styles
+  body: Controlling Teaching Styles reliably degrade [[autonomous-motivation]], engagement
+    quality, conceptual learning, and well-being, with effects mediated by [[need-frustration]]
+    rather than by mere absence of [[need-satisfaction]] — a finding that establishes
+    Controlling Teaching Styles as an *active* pathogenic factor rather than a neutral
+    baseline, and that grounds the [[self-determination-theory]] claim that controlling
+    and autonomy-supportive practices have distinguishable, non-redundant motivational
+    consequences.
+- type: warning
+  title: Common pitfall regarding Controlling Teaching Styles
+  body: 'Controlling Teaching Styles are routinely defended as *necessary structure*
+    or *high expectations*, but the [[autonomy-structure-dialectic]] is explicit that
+    structure and control are orthogonal: a teacher can sustain demanding standards,
+    clear expectations, and consequential evaluation without Controlling Teaching
+    Styles, and conflating control with structure both licenses pressuring practice
+    and discredits the genuine structure that [[self-determination-theory]] endorses.'

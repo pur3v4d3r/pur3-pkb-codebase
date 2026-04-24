@@ -1,0 +1,54 @@
+concept: Heuristics and Biases
+domain: cognitive-psychology
+secondary_domains:
+- decision-research
+- behavioural-economics
+aliases:
+- heuristics-and-biases program
+- Kahneman-Tversky program
+broader:
+- decision-research
+- dual-process-theory
+narrower:
+- attribute-substitution
+- fundamental-attribution-error-correspondence-bias
+- fluency-illusion
+related:
+- bounded-rationality
+- type-1-processing
+- type-2-processing
+- dual-process-theory
+- cognitive-miserliness
+- mindware
+- default-interventionist-architecture
+prerequisites:
+- dual-process-theory
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Heuristics and Biases
+  body: Heuristics and Biases is the research program — initiated by Tversky and Kahneman
+    in the early 1970s and consolidated in Kahneman's *Thinking, Fast and Slow* —
+    that documents how human judgment under uncertainty systematically departs from
+    the prescriptions of probability theory by relying on a small set of mental shortcuts
+    (representativeness, availability, anchoring, [[attribute-substitution]]) whose
+    ecological successes in routine tasks coexist with reproducible failures in formally
+    structured ones. Heuristics and Biases is the empirical foundation on which [[dual-process-theory]]
+    and [[bounded-rationality]] were elaborated.
+- type: key-claim
+  title: Key claim about Heuristics and Biases
+  body: Heuristics and Biases established the descriptively decisive finding that
+    bias is not a property of *uneducated* or *unmotivated* judges but a structural
+    feature of [[type-1-processing]] that even trained statisticians, physicians,
+    and judges fail to override without explicit [[mindware]] and [[cognitive-forcing-functions]]
+    — which is why awareness of Heuristics and Biases without procedural countermeasures
+    rarely changes behaviour.
+- type: warning
+  title: Common pitfall regarding Heuristics and Biases
+  body: 'Heuristics and Biases is often misread as a wholesale indictment of intuition,
+    but the program''s mature position — Kahneman-Klein (2009), the [[high-validity-environment]]
+    criterion — is more nuanced: Heuristics and Biases predicts systematic failure
+    in low-validity domains and predicts reliable expert performance in high-validity
+    ones, so the operational lesson is to diagnose the environment before trusting
+    or distrusting an intuitive judgment, not to globally privilege [[type-2-processing]].'

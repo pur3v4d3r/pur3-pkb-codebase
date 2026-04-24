@@ -1,0 +1,57 @@
+concept: Cognitive Strategy Use
+domain: cognitive-psychology
+secondary_domains:
+- educational-psychology
+- self-regulated-learning
+aliases:
+- strategy use
+- learning strategies
+broader:
+- self-regulated-learning
+- metacognitive-control
+narrower:
+- retrieval-practice
+- elaborative-interrogation
+- self-explanation
+- summarization
+- fix-up-strategy
+related:
+- metacognitive-control
+- motivational-regulation
+- the-four-areas-of-regulation
+- schema-construction
+- encoding-depth
+- levels-of-processing
+- comprehension-monitoring
+- monitoring-control-coupling
+prerequisites:
+- self-regulated-learning
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Strategy Use
+  body: Cognitive Strategy Use is the deployment, by a learner, of specific cognitive
+    procedures — rehearsal, elaboration, organisation, retrieval, monitoring, repair
+    — selected to advance a particular learning goal under a particular task condition,
+    and adjusted in response to monitoring feedback. Cognitive Strategy Use is one
+    of [[the-four-areas-of-regulation]] in [[pintrich-s-framework-of-self-regulated-learning]]
+    and is the layer at which [[metacognitive-control]] does its visible work.
+- type: key-claim
+  title: Key claim about Cognitive Strategy Use
+  body: 'Cognitive Strategy Use is *the* mediating variable between metacognitive
+    knowledge and learning outcome: a learner who possesses accurate [[metacognitive-knowledge]]
+    but does not deploy the corresponding strategy gains nothing, whereas a learner
+    who deploys the strategy without explicit knowledge often gains the benefit anyway
+    — which is why Cognitive Strategy Use, not metacognitive knowledge per se, is
+    the most reliable cross-sectional predictor of learning outcomes in the [[self-regulated-learning]]
+    literature.'
+- type: warning
+  title: Common pitfall regarding Cognitive Strategy Use
+  body: Cognitive Strategy Use is regularly conflated with *strategy instruction*
+    (teaching learners to name strategies they could use), but the substantive Cognitive
+    Strategy Use literature consistently finds that *naming-without-deploying* is
+    among the least productive interventions in the field; effective Cognitive Strategy
+    Use development requires conditional knowledge (when to deploy which strategy),
+    self-regulatory triggering, and deliberate practice in deployment — none of which
+    is delivered by strategy-list curricula.

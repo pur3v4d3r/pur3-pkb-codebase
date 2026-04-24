@@ -1,0 +1,44 @@
+concept: "Interleaving"
+domain: "cognitive-science"
+secondary_domains: ["learning-science", "instructional-design"]
+aliases: ["Interleaved Practice", "Interleaving Practice"]
+broader: ["desirable-difficulties"]
+narrower: []
+related: ["spaced-retrieval", "blocked-practice", "discrimination-learning"]
+prerequisites: ["working-memory", "long-term-memory"]
+confidence: "high"
+
+callouts:
+  - type: "definition"
+    title: "Interleaving"
+    body: |
+      Interleaving is a practice schedule in which a learner alternates between multiple related problem types, skill variants, or content categories within a session, rather than completing all instances of one type before moving to the next. It is one of the canonical members of the [[desirable-difficulties|Desirable Difficulties]] family.
+
+      **Boundary:** Interleaving is not the same as random or shuffled practice. The categories must be discriminably similar — interleaving genuinely confusable variants drives the discrimination benefit; interleaving unrelated content produces only context noise without the encoding gain.
+
+      **See also:** [[blocked-practice]], [[desirable-difficulties]], [[discrimination-learning]]
+
+  - type: "key-claim"
+    title: "Interleaving improves transfer at the cost of in-session performance"
+    body: |
+      Empirical work on Interleaving consistently shows a performance-learning dissociation: blocked practice produces higher in-session accuracy, but Interleaving produces substantially better delayed retention and — most importantly — better transfer to novel instances of the same problem categories.
+
+  - type: "key-distinction"
+    title: "Interleaving vs. Blocked Practice"
+    body: |
+      Interleaving is distinct from [[blocked-practice|blocked practice]]. Blocked practice groups all instances of one category together (AAA BBB CCC); Interleaving distributes them (ABC ABC ABC). Blocked practice optimizes for in-session fluency; Interleaving optimizes for the discriminative knowledge that supports transfer.
+
+  - type: "example"
+    title: "Interleaving geometry problem types"
+    body: |
+      A student practicing geometric volume calculations who Interleaves problems on spheres, cones, and cylinders within each session — rather than completing all sphere problems first — shows lower per-problem speed during practice but markedly better one-week test performance, including on problems requiring category discrimination.
+
+  - type: "warning"
+    title: "Interleaving requires confusable categories"
+    body: |
+      A common misapplication of Interleaving alternates wholly unrelated topics (Spanish vocabulary, organic chemistry, and tax law) under the assumption that "alternation = interleaving." The mechanism requires that the alternated categories be similar enough to be confused; without that similarity, Interleaving collapses to mere context-switching with no discrimination benefit.
+
+  - type: "claude-insight"
+    title: "Interleaving as a discrimination-learning intervention"
+    body: |
+      The deepest framing of Interleaving treats it not as a scheduling trick but as a forced [[discrimination-learning]] intervention: by juxtaposing similar-but-distinct categories, Interleaving makes the boundaries between them salient in a way that blocked practice cannot. This reframes the practical question — when to use Interleaving — into a category question: which content's value lies in correct discrimination at retrieval rather than within-category fluency.

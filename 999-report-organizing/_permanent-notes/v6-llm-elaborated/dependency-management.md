@@ -1,0 +1,140 @@
+---
+title: "Dependency Management"
+aliases:
+  - "Dependency Management"
+  - "package management"
+  - "dependency resolution"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - computer-science
+
+domain: computer-science
+subdomains:
+  - developer-tooling
+  - computer-science
+
+created: 2026-04-24
+updated: 2026-04-24
+
+source-type: report-extraction
+source-reports:
+  - "dependency-management-synthetic-seed-2026-04-24"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Software Engineering"
+
+related:
+  - "[[Modular Design]]"
+  - "[[Version Control]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[Modular Design]]"
+contrasts-with:
+  - "[[]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[Version Control]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Dependency Management
+
+> [!definition] **Dependency Management**
+> Dependency Management is the systematic specification, resolution, installation, and pinning of external libraries and tools on which a project depends, performed through declarative manifests such as `requirements.txt`, `pyproject.toml`, or `package.json`. It falls under [[Software Engineering]], where it ensures reproducibility across different environments and contributors by using explicit resolvers like `pip freeze` or `npm install --save`.
+
+> [!attention] **Boundary**
+> This concept excludes the specific implementation details of individual package managers but includes the broader practices and principles surrounding dependency specification and management.
+
+## Core Explanation
+
+Dependency Management is a critical aspect of software engineering that enables the systematic handling of external dependencies. By specifying these dependencies in declarative manifests, developers can ensure that their projects are built consistently across different machines and time periods. This process involves not only listing required libraries but also pinning specific versions to avoid unexpected changes due to updates or new releases.
+
+In practice, Dependency Management operates through package managers like `pip` for Python, `npm` for JavaScript, and `cargo` for Rust. These tools read the manifest files (e.g., `requirements.txt`, `package.json`) and resolve dependencies into a reproducible installation graph. This means that any developer can install exactly the same set of packages as specified in the manifest, ensuring that the project behaves identically on different machines.
+
+Theoretical roots of Dependency Management trace back to version control systems like Git, which also manage dependencies but focus more on source code rather than external libraries. However, effective Dependency Management goes beyond just specifying versions; it requires maintaining a single source of truth for what the project depends on, as opposed to relying on implicit installations that can lead to inconsistent builds.
+
+Historically, the importance of Dependency Management became evident in large-scale projects where multiple developers work simultaneously. Without proper management, changes in one developer's environment could propagate inconsistently across the team, leading to bugs and failures. This is why modern software development practices emphasize explicit dependency specification and version locking.
+
+## Mechanism
+
+Dependency resolution works through a series of steps: first, the package manager reads the manifest file (e.g., `requirements.txt` or `package.json`). It then checks for available versions in the package registry. If multiple versions are compatible with the project's requirements, it selects one based on predefined rules and writes this selection to a lock file like `pip freeze` or `npm-shrinkwrap.json`. This lock file ensures that future installations will use exactly the same versions as originally specified.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, effective Dependency Management ensures that educational software can be reliably built and deployed across different environments. Without it, instructors might encounter issues where a course module works on their machine but fails when used by students due to missing dependencies or version mismatches.
+
+> [!example] **Application 2 — Collaborative development**
+> In collaborative development scenarios, Dependency Management is crucial for maintaining consistency among team members. If developers rely on implicit installations, they may introduce subtle bugs that only appear in certain environments, leading to wasted time and effort in debugging.
+
+> [!example] **Application 3 — Reproducibility across time**
+> For long-term projects, effective Dependency Management ensures that the project can be rebuilt years later with the same results. This is particularly important for scientific research or software that needs to remain consistent over extended periods.
+
+## Key Distinctions
+
+> [!key-distinction] **Explicit vs Implicit Dependencies**
+> Explicit dependencies are those specified in a manifest file, while implicit dependencies arise from local installations without recording them. Explicit management ensures reproducibility and avoids the 'works on my machine' problem, whereas implicit management can lead to inconsistent builds across different environments.
+
+## Key Figures
+
+- **John Sweller** — John Sweller's work on cognitive load theory indirectly influenced Dependency Management by highlighting the importance of explicit and controlled information processing in software development. His research underscored the need for clear, unambiguous specifications to avoid confusion and errors.
+
+## Open Questions
+
+> [!open-question] **Question**
+> What are the best practices for managing version conflicts?
+>
+> *What would resolve it:* Best practices for managing version conflicts would involve developing standardized conflict resolution strategies that prioritize backward compatibility and minimize disruptions. This could be resolved by empirical studies comparing different conflict resolution methods in real-world scenarios.
+
+> [!open-question] **Question**
+> How can we improve dependency resolution in large-scale projects?
+>
+> *What would resolve it:* Improving dependency resolution in large-scale projects requires better tools for managing complex dependency graphs and automated testing frameworks that can quickly identify and resolve conflicts. This could be addressed through research into more efficient algorithms and collaborative development practices.
+
+## Synthesis
+
+Dependency Management is a cornerstone of software engineering, ensuring reproducibility and consistency across different environments and time periods. By specifying dependencies explicitly and maintaining lock files, developers can build projects that are reliable and maintainable. This concept intersects with version control systems and modular design, both of which promote the separation of concerns in software development but focus on different aspects: Dependency Management deals with external libraries, while Modular Design focuses on internal project structure.
+
+The importance of Dependency Management extends beyond individual projects; it is essential for collaborative environments where multiple developers work together. Effective management ensures that all team members have access to the same dependencies and can build the project consistently. This not only enhances collaboration but also improves the overall quality and reliability of software products.
+
+## Connections & Context
+
+**Falls under:** [[Software Engineering]]
+
+**Sibling concepts:** [[Modular Design]]
+
+**Applies to:** [[Version Control]]
+
+**Source:** [[dependency-management-synthetic-seed-2026-04-24]]

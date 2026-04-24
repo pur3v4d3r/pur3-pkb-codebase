@@ -1,0 +1,22 @@
+concept: Forgetting Curve
+domain: cognitive-science
+confidence: high
+callouts:
+- type: definition
+  title: Forgetting Curve
+  body: The Forgetting Curve is the empirical relationship — first quantified by Hermann
+    Ebbinghaus in 1885 — between the time elapsed since learning and the proportion
+    of material still retrievable, typically described as a roughly exponential decline
+    that flattens with each successful relearning episode.
+- type: key-claim
+  title: Key claim about Forgetting Curve
+  body: The Forgetting Curve establishes that retention is governed by a predictable
+    temporal function rather than by the learner's perceived familiarity, which is
+    why "feeling like you know it" is a uniquely unreliable cue for scheduling future
+    review.
+- type: warning
+  title: Common pitfall regarding Forgetting Curve
+  body: The Forgetting Curve is often treated as a fixed natural law, but its precise
+    shape depends on material type, prior knowledge, and retrieval conditions; using
+    a single canonical curve to schedule review across all subjects systematically
+    over- or under-schedules large categories of content.

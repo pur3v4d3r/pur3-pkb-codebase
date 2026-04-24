@@ -1,0 +1,48 @@
+concept: Spaced Repetition
+domain: cognitive-psychology
+secondary_domains:
+- educational-psychology
+- memory-research
+aliases:
+- spaced practice
+- distributed practice
+broader:
+- retrieval-practice
+- desirable-difficulties
+related:
+- spacing-effect
+- retrieval-practice
+- retrieval-practice-as-the-most-potent-single-strategy
+- desirable-difficulties
+- testing-effect
+- fluency-illusion
+prerequisites:
+- retrieval-practice
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Spaced Repetition
+  body: Spaced Repetition is the systematic scheduling of [[retrieval-practice]] across
+    expanding time intervals — typically days to weeks rather than minutes — designed
+    to exploit the [[spacing-effect]] by forcing each rehearsal to occur after a degree
+    of forgetting has occurred, thereby producing more durable consolidation than
+    the same number of rehearsals delivered in a massed (single-session) schedule.
+    Modern Spaced Repetition is operationalised in algorithms (SM-2, FSRS) that adjust
+    each item's next interval based on the learner's success at the prior retrieval.
+- type: key-claim
+  title: Key claim about Spaced Repetition
+  body: Spaced Repetition produces the largest empirically documented effect size
+    of any single study-time-allocation policy, because it converts the [[fluency-illusion]]
+    of massed practice into a measurable retrieval failure that triggers genuine [[schema-construction]];
+    the result is that Spaced Repetition consistently outperforms the same total study
+    time delivered in a massed schedule by factors of 1.5–3× on long-delay retention
+    measures.
+- type: warning
+  title: Common pitfall regarding Spaced Repetition
+  body: Spaced Repetition is regularly conflated with *passive review on a schedule*
+    — re-reading flashcards at intervals rather than retrieving them — collapsing
+    the construct into a pacing tactic and discarding the [[retrieval-practice]] mechanism
+    that does the work; Spaced Repetition without retrieval is merely distributed
+    re-reading, and distributed re-reading produces only a fraction of the retention
+    benefit that distributed retrieval delivers.

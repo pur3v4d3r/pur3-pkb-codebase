@@ -1,0 +1,53 @@
+concept: Extrinsic Motivation
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+aliases:
+- externally-regulated motivation
+broader:
+- self-determination-theory
+- organismic-integration-theory
+narrower:
+- external-regulation
+- introjected-regulation
+- identified-regulation
+- integrated-regulation
+related:
+- intrinsic-motivation
+- autonomous-motivation
+- controlled-motivation
+- internalization
+- internalization-continuum
+- intrinsic-vs-extrinsic-goal-contents
+prerequisites:
+- self-determination-theory
+- the-three-basic-psychological-needs
+confidence: high
+callouts:
+- type: definition
+  title: Extrinsic Motivation
+  body: Extrinsic Motivation is, within [[self-determination-theory]], the class of
+    motivational states in which an action is undertaken because it leads to a separable
+    outcome — reward, approval, self-worth contingency, instrumental value — rather
+    than for the inherent satisfaction of the activity itself. [[organismic-integration-theory]]
+    resolves Extrinsic Motivation into a four-step [[internalization-continuum]] running
+    from [[external-regulation]] (compliance under contingent reward), through [[introjected-regulation]]
+    (ego-involved self-pressure), to [[identified-regulation]] (endorsement of personal
+    value) and [[integrated-regulation]] (full assimilation into the self-system).
+- type: key-claim
+  title: Key claim about Extrinsic Motivation
+  body: Extrinsic Motivation is not a uniformly inferior counterpart to [[intrinsic-motivation]]
+    but a graded continuum whose downstream consequences for learning, well-being,
+    and persistence depend on the *quality* of regulation rather than its source;
+    Extrinsic Motivation under [[identified-regulation]] or [[integrated-regulation]]
+    sustains autonomy-relevant outcomes nearly indistinguishable from intrinsic regulation,
+    while [[external-regulation]] and [[introjected-regulation]] forms reliably degrade
+    them.
+- type: warning
+  title: Common pitfall regarding Extrinsic Motivation
+  body: 'Extrinsic Motivation is widely caricatured as "rewards undermine learning"
+    — a misreading that ignores [[organismic-integration-theory]]''s graded structure;
+    the empirically supported claim is narrower: tangible expected rewards undermine
+    [[intrinsic-motivation]] for already-interesting tasks, while well-designed Extrinsic
+    Motivation (informational feedback, autonomy-supportive rationale, value-congruent
+    goals) reliably *facilitates* internalization toward more autonomous regulation.'

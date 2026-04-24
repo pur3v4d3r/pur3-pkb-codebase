@@ -1,0 +1,53 @@
+concept: Goal Setting
+domain: motivational-psychology
+secondary_domains:
+- organizational-psychology
+- educational-psychology
+aliases:
+- goal-setting practice
+- deliberate goal setting
+broader:
+- goal-setting-theory
+narrower:
+- goal-specificity
+- goal-difficulty
+- goal-commitment
+- implementation-intention
+related:
+- goal-setting-theory
+- high-performance-cycle
+- goal-intention
+- implementation-intentions
+- mental-contrasting
+- mcii
+- action-phase-model
+- intention-behavior-gap
+prerequisites:
+- goal-setting-theory
+confidence: high
+callouts:
+- type: definition
+  title: Goal Setting
+  body: Goal Setting is the deliberate practice of formulating and committing to specific,
+    difficult, and proximally testable performance targets that direct attention,
+    mobilise effort, sustain persistence, and trigger task-relevant strategy search
+    — operationalised in [[goal-setting-theory]] as the joint application of [[goal-specificity]]
+    and [[goal-difficulty]] under sufficient [[goal-commitment]]. Goal Setting is
+    the input layer of [[goal-setting-theory]]'s [[high-performance-cycle]].
+- type: key-claim
+  title: Key claim about Goal Setting
+  body: Goal Setting reliably outperforms "do your best" instructions across hundreds
+    of laboratory and field studies because Goal Setting converts the abstract motivational
+    intention into a concrete behavioural target whose attainment can be monitored
+    — a result that gives [[goal-setting-theory]] the rare distinction of being one
+    of the most replicated and effect-size-stable findings in industrial-organisational
+    psychology.
+- type: warning
+  title: Common pitfall regarding Goal Setting
+  body: Goal Setting is widely diluted into the SMART-goals slogan, which preserves
+    *specificity* but discards the [[goal-difficulty]] requirement that does most
+    of the empirical work; without difficulty, Goal Setting collapses into the "easy
+    specific goal" condition that performs no better than "do your best," and the
+    well-attested Goal Setting effect does not transfer — and Goal Setting in low-knowledge
+    domains can actively harm performance unless paired with [[strategic-automaticity]]
+    or learning-goal substitution.

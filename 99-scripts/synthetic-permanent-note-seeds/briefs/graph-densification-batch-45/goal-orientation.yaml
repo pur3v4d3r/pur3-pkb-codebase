@@ -1,0 +1,53 @@
+concept: Goal Orientation
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+aliases:
+- achievement goal orientation
+- motivational orientation
+broader:
+- achievement-goal-theory
+narrower:
+- mastery-approach-goal
+- performance-avoidance-goal
+- mastery-vs-performance-goal-orientation
+related:
+- achievement-goal
+- achievement-goal-theory
+- mastery-climate
+- mastery-vs-performance-goal-orientation
+- the-2-2-achievement-goal-framework
+- performance-goal-vs-learning-goal
+- growth-mindset
+prerequisites:
+- achievement-goal-theory
+- conception-of-ability
+confidence: high
+callouts:
+- type: definition
+  title: Goal Orientation
+  body: Goal Orientation is, within [[achievement-goal-theory]], the relatively stable
+    purpose a learner brings to an achievement situation — the *kind of competence*
+    they are pursuing and the *kind of feedback* against which they evaluate themselves
+    — operationalised as a position within [[the-2-2-achievement-goal-framework]]
+    whose two axes are competence-definition (mastery vs. normative performance) and
+    competence-valence (approach vs. avoidance). Goal Orientation is the trait-like
+    analogue of the situation-specific *achievement goal*.
+- type: key-claim
+  title: Key claim about Goal Orientation
+  body: 'Goal Orientation predicts a coherent and replicable downstream cluster of
+    cognitive and behavioural outcomes: mastery-approach Goal Orientation correlates
+    with deep processing, [[help-seeking]], persistence under failure, and adaptive
+    [[causal-attribution]], whereas performance-avoidance Goal Orientation correlates
+    with [[self-handicapping]], surface processing, and withdrawal — making Goal Orientation
+    one of the most reliable individual-differences predictors of learning quality
+    available to educational psychology.'
+- type: warning
+  title: Common pitfall regarding Goal Orientation
+  body: Goal Orientation is regularly flattened to "mastery good, performance bad,"
+    which both misrepresents the empirical record (performance-approach Goal Orientation
+    reliably predicts attainment in competitive domains) and obscures the more important
+    [[the-2-2-achievement-goal-framework]] insight that *approach vs avoidance* valence
+    carries most of the variance in adaptive vs maladaptive outcomes — meaning the
+    substantive Goal Orientation lever is shifting learners from avoidance to approach,
+    not from performance to mastery.

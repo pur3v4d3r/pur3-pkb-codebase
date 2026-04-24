@@ -1,0 +1,47 @@
+concept: Mastery-Avoidance Goal
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- achievement-motivation
+aliases:
+- task-avoidance goal
+broader:
+- achievement-goal-theory
+- the-2-2-achievement-goal-framework
+related:
+- mastery-approach-goal
+- performance-avoidance-goal
+- performance-approach-goal
+- achievement-goal
+- the-2-2-achievement-goal-framework
+- conception-of-ability
+prerequisites:
+- achievement-goal-theory
+confidence: high
+callouts:
+- type: definition
+  title: Mastery-Avoidance Goal
+  body: Mastery-Avoidance Goal is, within [[the-2-2-achievement-goal-framework]],
+    the achievement orientation in which competence is *defined absolutely* — by reference
+    to the task itself or to one's own prior performance — and *valenced negatively*
+    (avoiding falling short of full task mastery, losing previously acquired skill,
+    or making errors). A learner under a Mastery-Avoidance Goal is preoccupied with
+    not regressing or not failing to master, rather than with positively pursuing
+    mastery as such.
+- type: key-claim
+  title: Key claim about Mastery-Avoidance Goal
+  body: Mastery-Avoidance Goal is the most theoretically distinctive contribution
+    of Elliot's [[the-2-2-achievement-goal-framework]] over the original mastery-vs-performance
+    dichotomy, predicting a maladaptive cluster — anxiety, perfectionism, defensive
+    disengagement — that resembles [[performance-avoidance-goal]] outcomes despite
+    being driven by *task* rather than *normative* concerns; this distinguishes Mastery-Avoidance
+    Goal as the orientation most relevant to expert decline, late-career stagnation,
+    and skill-retention anxiety.
+- type: warning
+  title: Common pitfall regarding Mastery-Avoidance Goal
+  body: Mastery-Avoidance Goal is often misread as a mild, benign form of caution,
+    but the empirical record is that Mastery-Avoidance Goal carries the avoidance-cluster's
+    full motivational cost — surface processing, reduced help-seeking, [[self-handicapping]]
+    — without the attainment compensation that [[performance-approach-goal]] sometimes
+    delivers; designing for Mastery-Avoidance Goal as an acceptable orientation tends
+    to entrench the very stagnation it claims to prevent.

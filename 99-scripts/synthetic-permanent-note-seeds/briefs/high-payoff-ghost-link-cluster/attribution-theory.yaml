@@ -1,0 +1,58 @@
+concept: Attribution Theory
+domain: motivational-psychology
+secondary_domains:
+- social-cognitive-psychology
+- educational-psychology
+aliases:
+- Weiner attribution theory
+- attributional theory of achievement motivation
+broader:
+- motivational-psychology
+narrower:
+- attribution
+- attributional-vocabulary
+- explanatory-style-attributional-style
+- attribution-retraining
+related:
+- causal-attribution
+- locus-of-causality
+- controllability-dimension
+- stability-dimension
+- the-locus-of-causality-dimension
+- the-stability-dimension
+- the-controllability-dimension
+- attribution-dependent-emotion
+- the-attributional-bridge
+- the-fundamental-attribution-error
+prerequisites:
+- causal-attribution
+- perceived-locus-of-causality
+confidence: high
+callouts:
+- type: definition
+  title: Attribution Theory
+  body: Attribution Theory is Bernard Weiner's account of how the *causal explanations*
+    a person constructs for success and failure — rather than the outcomes themselves
+    — govern subsequent affect, expectancy, and motivated behaviour. Attribution Theory
+    organises the space of causal explanations along three structural dimensions —
+    [[locus-of-causality]] (internal vs external), [[stability-dimension]] (stable
+    vs unstable), and [[controllability-dimension]] (controllable vs uncontrollable)
+    — and traces how each dimension carries a distinct motivational signature into
+    the next achievement episode.
+- type: key-claim
+  title: Key claim about Attribution Theory
+  body: 'Attribution Theory establishes that the motivational consequences of failure
+    are determined by *how the failure is explained*, not by the failure itself: attributing
+    a poor result to lack of effort (internal, unstable, controllable) preserves expectancy
+    and re-engagement, whereas attributing the same result to lack of ability (internal,
+    stable, uncontrollable) produces shame, [[learned-helplessness]], and withdrawal
+    — making causal attribution a primary leverage point for [[attribution-retraining]]
+    interventions.'
+- type: warning
+  title: Common pitfall regarding Attribution Theory
+  body: Attribution Theory is regularly misread as endorsing pure effort attributions
+    as a universal corrective, but [[the-stability-expectancy-principle]] and [[the-functional-priority-of-unexpected-and-negative-outcomes]]
+    together imply that effort attributions are protective only when effort was in
+    fact deployed; attributing genuinely strategy-deficient failure to "not trying
+    hard enough" produces [[the-fundamental-attribution-error]] turned inward and
+    licenses repetition of the same failed approach.

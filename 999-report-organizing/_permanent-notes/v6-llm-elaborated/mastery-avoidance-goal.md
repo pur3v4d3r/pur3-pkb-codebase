@@ -1,0 +1,138 @@
+---
+title: "Mastery-Avoidance Goal"
+aliases:
+  - "Mastery-Avoidance Goal"
+  - "task-avoidance goal"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - motivational-psychology
+
+domain: motivational-psychology
+subdomains:
+  - educational-psychology
+  - achievement-motivation
+
+created: 2026-04-24
+updated: 2026-04-24
+
+source-type: report-extraction
+source-reports:
+  - "mastery-avoidance-goal-synthetic-seed-2026-04-24"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Achievement Goal"
+
+related:
+  - "[[Mastery-Approach Goal]]"
+  - "[[Performance-Avoidance Goal]]"
+  - "[[Achievement-Goal Theory]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[]]"
+contrasts-with:
+  - "[[Mastery-Approach Goal]]"
+  - "[[Performance-Avoidance Goal]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[Achievement-Goal Theory]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Mastery-Avoidance Goal
+
+> [!definition] **Mastery-Avoidance Goal**
+> Mastery-Avoidance Goal is an achievement orientation where competence is defined absolutely by task or prior performance and valenced negatively to avoid falling short of mastery, losing skills, or making errors. It falls under [[Achievement-Goal Theory]], which distinguishes it from other goal orientations like Mastery-Approach and Performance-Avoidance goals. It falls under [[Achievement Goal]].
+
+> [!attention] **Boundary**
+> This concept excludes other goal orientations like Mastery-Approach and Performance-Avoidance goals. It focuses on the negative valence towards not mastering a task rather than positively pursuing it.
+
+## Core Explanation
+
+Mastery-Avoidance Goal is a specific type of achievement orientation that focuses on avoiding failure rather than positively pursuing mastery. Learners under this goal are preoccupied with not regressing or making errors, which can lead to anxiety and perfectionism. This orientation is particularly relevant in educational settings where students might avoid challenging tasks for fear of not mastering them.
+
+In practice, Mastery-Avoidance Goal manifests as a defensive strategy where individuals engage in surface-level processing rather than deep learning. They may also exhibit self-handicapping behaviors, such as procrastination or seeking excuses to justify their performance, to protect themselves from the perceived threat of failure. This approach can be detrimental to long-term skill retention and academic success.
+
+Theoretical roots of Mastery-Avoidance Goal trace back to Elliot's [[Achievement-Goal Theory]], which introduced a more nuanced framework for understanding achievement motivation beyond the traditional mastery-vs-performance dichotomy. Mastery-Avoidance Goal is distinguished by its negative valence towards not mastering tasks, as opposed to Mastery-Approach goals, which focus on positively pursuing mastery.
+
+Empirical evidence supports the idea that Mastery-Avoidance Goal can lead to maladaptive outcomes such as increased anxiety and perfectionism. For instance, studies have shown that students with a Mastery-Avoidance orientation are more likely to engage in surface-level learning strategies and exhibit defensive disengagement behaviors when faced with challenging tasks.
+
+## Mechanism
+
+Mastery-Avoidance Goal operates through a mechanism of avoidance rather than approach. Individuals under this goal tend to focus on avoiding negative outcomes such as failure or loss of skills, which can lead to surface-level processing and reduced help-seeking behaviors. This avoidance strategy often results in a lack of deep engagement with the material, hindering long-term learning and skill retention.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, understanding Mastery-Avoidance Goal is crucial for creating effective learning environments. Educators should avoid designing tasks that solely focus on avoiding failure without providing opportunities for deep engagement and mastery. Instead, they can incorporate formative assessments and feedback mechanisms to support students in developing a growth mindset and reducing anxiety.
+
+> [!example] **Application 2 — Professional development**
+> In professional settings, Mastery-Avoidance Goal can lead to stagnation and skill decay among experienced professionals. Organizations should design training programs that encourage continuous learning and mastery rather than focusing solely on avoiding errors or loss of skills. This approach can help employees develop new competencies and maintain their expertise over time.
+
+## Key Distinctions
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> Mastery-Avoidance Goal is driven by extraneous load, which refers to the cognitive burden of avoiding negative outcomes. In contrast, Mastery-Approach goals are characterized by intrinsic load, focusing on positively pursuing mastery and deep engagement with the material. The distinction between these two types of load highlights how different goal orientations can impact learning strategies and outcomes.
+
+## Key Figures
+
+- **Rebecca Elliott** — Rebecca Elliott is a key contributor to the development of Mastery-Avoidance Goal. She introduced this concept within Elliot's [[Achievement-Goal Theory]], which provides a more nuanced framework for understanding achievement motivation.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How can educators design interventions to mitigate the negative effects of Mastery-Avoidance Goal?
+>
+> *What would resolve it:* Further research on effective intervention strategies, such as cognitive-behavioral techniques and growth mindset training, could provide insights into mitigating the negative impacts of Mastery-Avoidance Goal.
+
+> [!open-question] **Question**
+> What are the long-term consequences of adopting a Mastery-Avoidance Goal in different domains?
+>
+> *What would resolve it:* Longitudinal studies tracking individuals' performance and well-being over extended periods could help clarify the long-term effects of Mastery-Avoidance Goal across various domains.
+
+## Synthesis
+
+Mastery-Avoidance Goal is a critical concept in motivational psychology as it highlights the negative aspects of achievement motivation that can lead to maladaptive behaviors. By understanding this goal orientation, educators and professionals can design interventions that promote positive learning strategies and reduce anxiety and perfectionism. This concept also underscores the importance of fostering a growth mindset and deep engagement with tasks to support long-term skill retention and academic success.
+
+The broader implications of Mastery-Avoidance Goal extend beyond educational settings into professional development and organizational behavior, where it can influence career trajectories and performance outcomes. By integrating this understanding into practice, we can create more supportive environments that encourage mastery and reduce the negative impacts associated with avoidance-based goal orientations.
+
+## Connections & Context
+
+**Falls under:** [[Achievement Goal]]
+
+**Contrasts with:** [[Mastery-Approach Goal]] · [[Performance-Avoidance Goal]]
+
+**Supports:** [[Achievement-Goal Theory]]
+
+**Source:** [[mastery-avoidance-goal-synthetic-seed-2026-04-24]]

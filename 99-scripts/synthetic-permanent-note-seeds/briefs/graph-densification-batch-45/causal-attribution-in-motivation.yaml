@@ -1,0 +1,52 @@
+concept: Causal Attribution in Motivation
+domain: motivational-psychology
+secondary_domains:
+- attribution-research
+- educational-psychology
+aliases:
+- motivational attribution
+broader:
+- attribution-theory
+related:
+- causal-attribution
+- attribution-theory
+- attribution-dependent-emotion
+- the-attributional-bridge
+- attributional-vocabulary
+- explanatory-style-attributional-style
+- attribution-retraining
+- the-functional-priority-of-unexpected-and-negative-outcomes
+- learned-helplessness
+- growth-mindset
+prerequisites:
+- attribution-theory
+- causal-attribution
+confidence: high
+callouts:
+- type: definition
+  title: Causal Attribution in Motivation
+  body: Causal Attribution in Motivation is the application of [[attribution-theory]]
+    to the prediction of motivated behaviour — specifically, the chain by which the
+    explanation a person constructs for a prior outcome ([[causal-attribution]] along
+    the locus, stability, and controllability dimensions) generates an [[attribution-dependent-emotion]]
+    (pride, shame, guilt, anger, hopelessness), an updated expectancy for similar
+    future outcomes, and a corresponding behavioural choice (re-engagement, withdrawal,
+    strategy revision). Causal Attribution in Motivation is the operational form of
+    [[the-attributional-bridge]].
+- type: key-claim
+  title: Key claim about Causal Attribution in Motivation
+  body: 'Causal Attribution in Motivation establishes that the motivational signal
+    carried by a success or failure is *encoded by the attribution*, not by the outcome
+    itself: identical outcomes attributed to internal-stable-uncontrollable causes
+    (lack of ability) produce withdrawal, while attributed to internal-unstable-controllable
+    causes (insufficient strategic effort) produce re-engagement — making Causal Attribution
+    in Motivation the principal lever on which [[attribution-retraining]] interventions
+    operate.'
+- type: warning
+  title: Common pitfall regarding Causal Attribution in Motivation
+  body: Causal Attribution in Motivation is regularly diluted into the slogan "attribute
+    failure to effort" without the [[the-stability-expectancy-principle]] qualification
+    that effort attributions are protective only when effort was in fact deployed;
+    attributing strategy-deficient failure to insufficient effort exemplifies [[the-fundamental-attribution-error]]
+    turned inward, sustains repetition of the same failed approach, and is precisely
+    the maladaptive pattern Causal Attribution in Motivation research warns against.

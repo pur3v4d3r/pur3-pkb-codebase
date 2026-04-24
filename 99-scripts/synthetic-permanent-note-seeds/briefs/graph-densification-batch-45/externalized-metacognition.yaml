@@ -1,0 +1,57 @@
+concept: Externalized Metacognition
+domain: cognitive-psychology
+secondary_domains:
+- pkm-and-pkb
+- learning-science
+aliases:
+- external metacognition
+- distributed metacognition
+broader:
+- extended-mind-thesis
+- metacognition
+narrower:
+- the-pkb-as-constitutive-metacognitive-architecture
+related:
+- extended-mind-thesis
+- externalized-cognitive-architecture
+- cognitive-offloading
+- metacognitive-knowledge
+- metacognitive-monitoring
+- metacognitive-control
+- personal-knowledge-management
+- personal-learning-environment
+- the-architectural-imperative
+- cognitive-pre-compilation
+prerequisites:
+- metacognition
+- extended-mind-thesis
+confidence: high
+callouts:
+- type: definition
+  title: Externalized Metacognition
+  body: Externalized Metacognition is the practice of offloading metacognitive functions
+    — monitoring, planning, evaluation, knowledge-of-cognition — into external artifacts
+    (notes, dashboards, review queues, planning systems) so that the cognitive work
+    of regulating one's own learning is partially performed by the structure of the
+    artifact rather than entirely by online cognition. Externalized Metacognition
+    is the [[extended-mind-thesis]] applied specifically to the metacognitive layer
+    of [[self-regulated-learning]] and is the operating principle of the [[the-pkb-as-constitutive-metacognitive-architecture]]
+    thesis.
+- type: key-claim
+  title: Key claim about Externalized Metacognition
+  body: 'Externalized Metacognition is the principal mechanism by which a [[personal-knowledge-management]]
+    system delivers learning value beyond mere note storage: a well-engineered PKB
+    externalises [[metacognitive-monitoring]] (broken-link reports surface what one
+    has forgotten), [[metacognitive-control]] (review queues schedule what is studied
+    next), and [[metacognitive-knowledge]] (the structure itself encodes which strategies
+    work for the user), converting unreliable online metacognition into reliable offline
+    structure.'
+- type: warning
+  title: Common pitfall regarding Externalized Metacognition
+  body: Externalized Metacognition is regularly confused with *cognitive offloading
+    of object-level content* — capturing facts in notes — but the substantive Externalized
+    Metacognition claim is about offloading *meta-level* operations (judgment-of-learning,
+    study-time allocation, gap detection); a PKB that captures only content without
+    encoding the metacognitive scaffolding around it provides no Externalized Metacognition
+    benefit and tends to grow into the read-it-later graveyards that the [[fluency-illusion]]
+    keeps alive.

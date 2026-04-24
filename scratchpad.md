@@ -456,3 +456,68 @@ I have a series of permanent notes that have been extracted from reports but are
 `D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\llm-generated-permanent-notes` -> This directory contains all the permanent notes that have been generated from the report extraction pipeline. These are the notes that need to be organized into MOCs.
 
 `D:\10_pur3v4d3r's-vault\999-report-organizing\_maps-of-content-for-permenent-notes` -> USE THIS DIRECTORY TO STORE ALL GENERATED MOCs. This keeps them organized and separate from individual notes.
+
+
+
+
+
+
+
+
+
+
+# Enhancing Pre-Pipeline Note Generation with Local LLM
+
+I have a pipeline for extracting material from generated academic reports, and building/modifying permanent notes in my Obsidian PKB.
+Currently the pipeline in at V6.
+Where a local llm rerads a extracted JSON file and produces permanent notes based on this information.
+Ive had an Idea to make some of the JSON files that contian the adequete information to build permanent notes from.
+This is to increase the permanent notes , which will allow for better wiki-links and more of them per genbrated academic report.
+I need you to review the complete pipeline.
+Then plan out a workflow to create these JSON file without needeing the Academic Reports.
+
+So you would be skipping the extraction process and building the appropirate JSON files that the LLM can read and generate permanent notes from.
+
+
+# Key Locations for Pipeline Reference
+Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> V3 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> V4 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v5` -> V5 pipeline
+
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output` -> Extractor Output directory
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes` -> Home of the current permanent notes.
+
+
+
+
+
+
+
+
+# Starter Prompt for Running Pipeline for Synthetic Seed
+
+```markdown
+# Pipeline with Seeds
+
+I have a pipeline for creating/modifying permanent notes for my PKB in Obsidian.
+I need you to review the readme's so you get the flow of it and then run the pipeline STARTING FROM the `D:\10_pur3v4d3r's-vault\99-scripts\synthetic-permanent-note-seeds`
+
+
+## How the Pipeline Should Run From This Starting Point
+- Should be something like this:
+
+`Checks the original permanent notes folder for concepts to create` -> `Generate the list of concepts to be made into permanent notes` -> `Turn that into JSON files for the V6 Pipeline to read` -> `Runs the V6 Pipeline to generate permanent notes from the JSON files` -> `Output the generated permanent notes into the appropriate directory in Obsidian.`
+
+
+# Key Locations for Pipeline Reference
+Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> V3 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> V4 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v5` -> V5 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
+
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
+```
