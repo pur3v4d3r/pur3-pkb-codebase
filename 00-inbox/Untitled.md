@@ -1,7 +1,0 @@
-**BOLD**
-*ITALIC*
-
->
-> test
-
-
