@@ -1,0 +1,143 @@
+---
+title: "Theory of Planned Behavior"
+aliases:
+  - "Theory of Planned Behavior"
+  - "TPB"
+  - "Ajzen TPB"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - motivational-psychology
+
+domain: motivational-psychology
+subdomains:
+  - social-psychology
+  - health-psychology
+
+created: 2026-04-25
+updated: 2026-04-25
+
+source-type: report-extraction
+source-reports:
+  - "theory-of-planned-behavior-synthetic-seed-2026-04-25"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Behavior Change Theory"
+
+related:
+  - "[[Theory of Reasoned Action (TRA)]]"
+  - "[[Stages of Change Model]]"
+  - "[[Implementation Intentions]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[]]"
+broader:
+  - "[[Theory of Reasoned Action (TRA)]]"
+see-also:
+  - "[[]]"
+contrasts-with:
+  - "[[Stages of Change Model]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[Implementation Intentions]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Theory of Planned Behavior
+
+> [!definition] **Theory of Planned Behavior**
+> The Theory of Planned Behavior (TPB) is a framework developed by Icek Ajzen that explains how attitudes toward behavior, subjective norms, and perceived behavioral control influence intention to perform a specific behavior, which in turn predicts actual behavior. It falls under [[Behavior Change Theory]], accommodating volitional behaviors by adding perceived behavioral control to its predecessor, the theory of reasoned action.
+
+> [!attention] **Boundary**
+> This theory focuses on volitional behaviors and does not address non-volitional or automatic behaviors. It also does not account for the entire process of behavior change but rather models the factors that lead to intention formation.
+
+## Core Explanation
+
+At the heart of TPB is the idea that our intentions to engage in certain behaviors are shaped by three key factors: attitudes toward the behavior (our positive or negative evaluation of performing it), subjective norms (the perceived social pressure from important others to perform or not perform the behavior), and perceived behavioral control (our belief about how easy or difficult it would be to carry out the behavior). These components interact in a way that forms our intention, which then predicts actual behavior.
+
+For instance, if someone strongly believes that exercising is beneficial for their health (attitude) and feels supported by friends who also exercise (subjective norm), but doubts they have time or energy to do so (perceived behavioral control), TPB would predict a lower intention to exercise. This prediction then influences whether the person actually exercises.
+
+TPB builds upon the theory of reasoned action, which posits that attitudes and subjective norms are sufficient for predicting behavior. However, TPB adds perceived behavioral control as an additional predictor, making it more comprehensive in explaining volitional behaviors—those where we have some degree of conscious control over our actions.
+
+Empirical studies support these claims, showing that interventions targeting all three components can effectively change intentions and subsequent behaviors. For example, campaigns promoting vaccination might focus on increasing perceived efficacy (perceived behavioral control) to boost intention among those who are hesitant.
+
+## Mechanism
+
+The mechanism by which TPB operates involves a step-by-step process: first, attitudes toward the behavior form our initial evaluation. Next, subjective norms influence us based on what we think others expect or approve of. Finally, perceived behavioral control assesses how feasible it is to perform the behavior. These factors collectively shape our intention, and if strong enough, this intention translates into actual behavior.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design for health education programs, TPB can guide the creation of interventions that address all three components. For example, a program to encourage healthy eating might include information on the benefits (attitude), social support from peers and family (subjective norm), and practical tips on how to incorporate healthier choices into daily life (perceived behavioral control).
+
+> [!example] **Application 2 — Environmental conservation**
+> For environmental initiatives, TPB can help design campaigns that not only inform about the importance of recycling but also highlight community support for such practices and provide easy access to recycling bins. This multi-faceted approach is more likely to change intentions and behaviors compared to a single focus on information alone.
+
+> [!example] **Application 3 — Consumer behavior**
+> In marketing, TPB can be used to create advertisements that not only highlight the benefits of a product (attitude) but also show how it fits into one's social life (subjective norm) and is easily accessible or affordable (perceived behavioral control). This comprehensive approach can lead to stronger intentions among consumers.
+
+## Key Distinctions
+
+> [!key-distinction] **Attitude vs. Subjective Norm**
+> While attitudes reflect our personal evaluation of a behavior, subjective norms are based on perceived social pressure from others. For example, someone might have a positive attitude toward vegetarianism but feel pressured by their family to eat meat (high subjective norm). TPB recognizes that both factors play crucial roles in shaping intentions.
+
+## Key Figures
+
+- **Icek Ajzen** — Icek Ajzen is the originator of TPB, developing it in 1985 as an extension of the theory of reasoned action to better predict volitional behaviors.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How can TPB be improved to better predict actual behavior?
+>
+> *What would resolve it:* Further research could explore how additional factors, such as implementation intentions or self-efficacy, might enhance the predictive power of TPB.
+
+> [!open-question] **Question**
+> What are the best strategies to address the intention-behavior gap?
+>
+> *What would resolve it:* Developing more effective interventions that bridge the gap between intention and behavior could involve integrating implementation intentions or other complementary models into TPB-based programs.
+
+## Synthesis
+
+The Theory of Planned Behavior is a cornerstone in motivational psychology, offering a robust framework for understanding and predicting volitional behaviors. Its application spans various domains, from health promotion to environmental conservation and consumer behavior. By addressing the complex interplay between attitudes, subjective norms, and perceived behavioral control, TPB provides valuable insights into how we can design effective interventions that not only change intentions but also lead to lasting changes in behavior.
+
+TPB's influence extends beyond its theoretical contributions; it has inspired numerous empirical studies and practical applications. Its ability to account for volitional behaviors makes it a powerful tool for researchers and practitioners alike, highlighting the importance of considering multiple factors when designing interventions.
+
+## Connections & Context
+
+**Falls under:** [[Behavior Change Theory]]
+
+**Generalizes to:** [[Theory of Reasoned Action (TRA)]]
+
+**Contrasts with:** [[Stages of Change Model]]
+
+**Applies to:** [[Implementation Intentions]]
+
+**Source:** [[theory-of-planned-behavior-synthetic-seed-2026-04-25]]

@@ -1,3 +1,34 @@
+
+
+
+# Starter Prompt for Generating Permanent Note Candidates from Gaps in the Note Network
+
+```markdown
+# Concept Inventory and Gap Analysis
+
+This is a list of my permanent notes in obsidian, use this to come up with a set of 100 new permanent notes that are missing from this set of permanent notes, and can be created.
+List them like this for easy copy and paste ability
+
+```markdown
+# Cognitive Science
+attention-restoration-theory
+cognitive-load-and-affect
+cognitive-load
+worked-example-variability
+semantic-priming
+```
+
+
+
+
+
+
+
+
+
+
+
+
 # Starter Prompt for Running Pipeline for Synthetic Seed
 
 ```markdown
@@ -55,6 +86,7 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 
 # Custom List of Permanent Note Seeds
 
+# Miscellaneous
 the-evolution-of-germane-load
 the-componential-structure-of-working-memory
 baddeley-and-hitch-working-memory-model
@@ -73,6 +105,132 @@ learning-analytics
 multimedia-learning
 analytical-frameworks
 
+# Decision Science & Behavioral Economics
+prospect-theory
+loss-aversion
+hyperbolic-discounting
+present-bias
+status-quo-bias
+choice-architecture
+nudge-theory
+satisficing
+recognition-primed-decision-model
+naturalistic-decision-making
+
+# Neuroscience Substrates
+default-mode-network
+neurogenesis
+synaptic-pruning
+prefrontal-cortex-function
+dopamine-and-learning
+sleep-stages-and-memory
+cortisol-and-memory
+salience-network
+directed-attention-fatigue
+executive-attention-network
+
+# Social Psychology
+social-identity-theory
+cognitive-dissonance
+attitude-formation
+persuasion-theory
+social-proof
+in-group-out-group-bias
+social-facilitation
+stereotype-threat
+bystander-effect
+self-perception-theory
+
+# Creativity
+incubation-effect
+insight-problem-solving
+combinatorial-creativity
+remote-associates-test
+creative-self-efficacy
+impasse-and-restructuring
+conceptual-blending
+analogical-mapping
+constraint-relaxation
+
+# Philosophy of Mind
+functionalism
+phenomenology
+qualia
+intentionality
+mental-causation
+consciousness-theories
+eliminative-materialism
+mind-body-problem
+
+# Epistemology
+justified-true-belief
+epistemic-justification
+foundationalism
+coherentism
+reliabilism
+social-epistemology
+epistemic-injustice
+knowledge-by-acquaintance-vs-description
+
+# PKM Methodology
+para-method
+digital-garden
+interstitial-journaling
+information-architecture
+ontology-design
+tagging-systems
+concept-hierarchy
+slip-box-methodology
+knowledge-decay
+note-taking-systems-comparison
+
+# Language & Cognition
+language-acquisition
+sapir-whorf-hypothesis
+narrative-cognition
+metaphor-and-cognition
+pragmatics
+
+# Positive Psychology & Wellbeing
+broaden-and-build-theory
+learned-optimism
+psychological-resilience
+post-traumatic-growth
+character-strengths
+psychological-flourishing
+benefit-finding
+
+# Systems Thinking
+feedback-loops
+causal-loop-diagrams
+stocks-and-flows
+emergence
+complex-adaptive-systems
+leverage-points
+
+# Intelligence & Expertise
+multiple-intelligences-theory
+triarchic-theory-of-intelligence
+general-factor-g
+practical-intelligence
+wisdom
+
+# Instructional Design
+gagnes-conditions-of-learning
+merrill-s-first-principles
+addie-model
+learning-objectives-taxonomy
+
+# Habit & Behavior Change
+habit-loop
+transtheoretical-model
+behavior-change-techniques
+temptation-bundling
+
+# Writing & Argumentation
+toulmin-argument-model
+explanatory-coherence
+rhetorical-modes
 
 
 

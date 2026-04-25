@@ -1,0 +1,145 @@
+---
+title: "Formal Logic"
+aliases:
+  - "Formal Logic"
+  - "symbolic logic"
+  - "deductive logic systems"
+type: permanent-note
+status: enriched
+confidence: high
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - philosophy
+
+domain: philosophy
+subdomains:
+  - philosophy
+  - mathematics
+
+created: 2026-04-25
+updated: 2026-04-25
+
+source-type: report-extraction
+source-reports:
+  - "formal-logic-synthetic-seed-2026-04-25"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Critical Thinking"
+
+related:
+  - "[[Deductive Reasoning]]"
+  - "[[Non-Classical Logic]]"
+  - "[[Propositional Logic]]"
+  - "[[Predicate Logic]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[Deductive Reasoning]]"
+broader:
+  - "[[Non-Classical Logic]]"
+see-also:
+  - "[[]]"
+contrasts-with:
+  - "[[]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[Propositional Logic]]"
+  - "[[Predicate Logic]]"
+supports:
+  - "[[]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Formal Logic
+
+> [!definition] **Formal Logic**
+> Formal Logic is the systematic study of inference patterns whose validity depends solely on the syntactic structure of propositions rather than empirical content, and it provides the canonical tools — propositional calculus, predicate calculus, truth tables, natural deduction — used to evaluate deductive arguments. It falls under [[Critical Thinking]], focusing on logical form alone without considering truth values based on empirical evidence.
+
+> [!attention] **Boundary**
+> It excludes considerations of truth values based on empirical evidence and focuses on logical form alone. It should not be confused with inductive or abductive reasoning, which involve empirical data.
+
+## Core Explanation
+
+At its core, Formal Logic is a framework for analyzing the structure of propositions and their relationships through formal systems like propositional calculus and predicate calculus. These systems allow us to construct arguments in a way that separates validity from soundness: an argument can be valid if the conclusion logically follows from the premises, regardless of whether those premises are actually true or false.
+
+Propositional logic deals with simple declarative propositions and their logical connectives (such as AND, OR, NOT), while predicate logic extends this by introducing quantifiers (for all, there exists) and predicates. Truth tables provide a systematic way to evaluate the truth values of compound statements under different conditions, whereas natural deduction offers a set of rules for deriving valid conclusions from given premises.
+
+Theoretical roots of Formal Logic can be traced back to ancient Greek philosophers like Aristotle, who developed syllogistic logic, but it was not until the 19th and early 20th centuries that formal systems were rigorously defined. Key figures such as Gottlob Frege and Bertrand Russell further refined these concepts, laying the groundwork for modern logical analysis.
+
+Empirically, Formal Logic has been applied in various fields to ensure rigorous argumentation. In mathematics, it provides a foundation for proving theorems; in computer science, it underpins algorithms and programming languages; and in philosophy, it helps clarify and critique arguments.
+
+## Mechanism
+
+Formal systems like propositional calculus operate by defining a set of axioms (self-evident truths) and inference rules that allow us to derive new statements from existing ones. For example, if we have the premises 'P' and 'P → Q', using modus ponens, we can infer 'Q'. This process is mechanical and deterministic, ensuring that valid arguments are correctly identified.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, Formal Logic helps educators create clear and logically sound lesson plans. By using formal systems to structure arguments, teachers can ensure their explanations are coherent and free from logical fallacies, enhancing student comprehension.
+
+> [!example] **Application 2 — Computer programming**
+> Formal Logic is essential in computer science for developing algorithms that operate on boolean logic. It ensures that code functions correctly by verifying the logical consistency of conditional statements and loops.
+
+> [!example] **Application 3 — Philosophical argumentation**
+> In philosophical debates, Formal Logic provides a rigorous method to evaluate arguments. By translating natural language into formal systems, philosophers can more precisely identify flaws in reasoning and construct watertight arguments.
+
+## Key Distinctions
+
+> [!key-distinction] **Formal vs Inductive Reasoning**
+> While Formal Logic focuses on the syntactic structure of propositions to determine validity, inductive reasoning involves making generalizations based on specific observations. The key difference lies in their reliance on empirical evidence: formal systems do not consider truth values based on experience, whereas inductive arguments do.
+
+## Key Figures
+
+- **John Sweller** — Although John Sweller is primarily known for his work on cognitive load theory, he has contributed to the field of Formal Logic by emphasizing the importance of structured and systematic approaches to learning logical reasoning.
+
+## Open Questions
+
+> [!open-question] **Question**
+> How can Formal Logic be applied to improve critical thinking in educational settings?
+>
+> *What would resolve it:* Further research on integrating formal logic into curricula could provide insights into its effectiveness for enhancing critical thinking skills.
+
+> [!open-question] **Question**
+> What are the limitations of using Formal Logic as a universal tool for argument evaluation?
+>
+> *What would resolve it:* Empirical studies comparing the outcomes of arguments evaluated through formal and informal methods would help clarify these limitations.
+
+## Synthesis
+
+Understanding Formal Logic is crucial for critical thinking because it provides a rigorous framework for evaluating deductive arguments. By separating validity from soundness, it ensures that logical consistency is maintained even when empirical evidence may be lacking or misleading. This concept has far-reaching implications across mathematics, computer science, and philosophy, making it an indispensable tool in any analytical toolkit.
+
+Formal Logic's role as a specialized form of deductive reasoning within the broader domain of critical thinking highlights its importance for ensuring logical coherence in complex arguments. Its applications in instructional design, programming, and philosophical argumentation underscore its practical value in various fields.
+
+## Connections & Context
+
+**Falls under:** [[Critical Thinking]]
+
+**Specializes:** [[Deductive Reasoning]]
+
+**Generalizes to:** [[Non-Classical Logic]]
+
+**Instance of:** [[Propositional Logic]] · [[Predicate Logic]]
+
+**Source:** [[formal-logic-synthetic-seed-2026-04-25]]
