@@ -713,4 +713,30 @@ python folder_review_report.py --input "D:\10_pur3v4d3r's-vault\999-report-organ
 
 ## TASK
 - [ ] Generate script for extracting spaced repetition seeds from academic reports, with output in both Markdown and JSON formats.
-- [ ] run script for fixing links in obasidian
+- [x] run script for fixing links in obasidian
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Dataview and DataviewJS Query Review and Fix
+
+I need you to revciew these two files containing Dataview and DataviewJS queries. Most are not working and throwing errors. I need you to fix these queries and make sure they are working properly in my Obsidian PKB. The queries should be designed to pull the correct information from my permanent notes based on the criteria specified in the original queries, and should be tested to ensure that they are returning the expected results without any errors. The goal is to have a set of functional Dataview and DataviewJS queries that I can use in my Obsidian PKB to effectively manage and review my permanent notes based on various criteria.
+
+- Feel Free to add to the library and dashboard as you see fit, the goal is to have a comprehensive set of queries that can help me manage and review my permanent notes effectively. You can also create new dashboards or sections within existing dashboards to organize the queries in a way that makes sense for my workflow. The key is to ensure that all queries are functional and provide valuable insights into my permanent notes, allowing me to easily identify which notes need attention and to access them directly from the dashboard.
+
+## Files to Review and Fix
+
+`D:\10_pur3v4d3r's-vault\06-dashboards\Review-Dashboard.md`
+`D:\10_pur3v4d3r's-vault\06-dashboards\Review-Queries-Library.md`
+
+
+

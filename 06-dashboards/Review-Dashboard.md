@@ -17,8 +17,7 @@ updated: 2026-04-25
 review-frequency: weekly
 importance: high
 related:
-  - "[[Review Queries Library]]"
-  - "[[Review System README]]"
+  - "[[Review-Queries-Library]]"
 ---
 
 # 🧠 Review Dashboard
@@ -28,43 +27,49 @@ related:
 
 > [!helpful-tip] How to use it
 > 1. Open this note in **Reading View** (the queries don't render in Source Mode).
-> 2. Start with the **🔥 Critical Attention Queue** at the top — it blends every signal into one ranked list.
-> 3. Click any note → review it → log the review by adding `last-reviewed: 2026-04-25` to its frontmatter (or run the `Log Review` Templater command if installed).
-> 4. Re-open this dashboard. Notes you reviewed drop down the queue. The system gets sharper as you adopt the `last-reviewed` field.
+> 2. Start with the **🔥 Critical Attention Queue** — it blends every signal into one ranked list.
+> 3. Click any note → review it → log the review by adding `last-reviewed: 2026-04-25` to its frontmatter.
+> 4. Re-open this dashboard. Notes you reviewed drop down the queue.
 
 > [!attention] Schema fallback chain
-> If a note has no `last-reviewed`, the system uses `updated`, then `file.mtime`. So this works on your existing vault **right now**, before you change anything. See [[Review System README]] for migration guidance.
+> If a note has no `last-reviewed`, the system uses `updated`, then `file.mtime`. So this works on your existing vault **right now**, before you change anything.
+
+> [!important] Configuration
+> All queries below scan `999-report-organizing/_permanent-notes/v6-llm-elaborated`. To point at a different folder, edit the `FOLDER` constant at the top of each `dataviewjs` block, and the `FROM "..."` clause at the top of each `dataview` block.
 
 ---
 
 ## 📊 Vault Pulse
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const notes = dv.pages('"PermanentNotes"').where(p => p.type === "permanent-note");
-// If your permanent notes live elsewhere, change the folder path above,
-// or use:  dv.pages().where(p => p.type === "permanent-note")
+const notes = dv.pages(FOLDER).where(p => p.type === "permanent-note");
 
-const total      = notes.length;
-const overdue    = notes.where(p => REVIEW.isOverdue(p)).length;
-const flagged    = notes.where(p => (p.file.tags || []).includes("#needs-review")).length;
-const hubs       = notes.where(p => REVIEW.isHub(p, 8)).length;
-const orphans    = notes.where(p => REVIEW.isOrphan(p)).length;
-const evergreen  = notes.where(p => REVIEW.statusBucket(p) === "evergreen").length;
-const neverRev   = notes.where(p => !p["last-reviewed"]).length;
+const total = notes.length;
+const safe  = (n) => total ? `${(n / total * 100).toFixed(0)}%` : "—";
+
+const overdue   = notes.where(p => REVIEW.isOverdue(p)).length;
+const flagged   = notes.where(p => (p.file.tags || []).some(t => String(t).toLowerCase() === "#needs-review")).length;
+const hubs      = notes.where(p => REVIEW.isHub(p, 8)).length;
+const orphans   = notes.where(p => REVIEW.isOrphan(p)).length;
+const evergreen = notes.where(p => REVIEW.statusBucket(p) === "evergreen").length;
+const enriched  = notes.where(p => REVIEW.statusBucket(p) === "enriched").length;
+const neverRev  = notes.where(p => !p["last-reviewed"]).length;
 
 dv.table(
     ["Metric", "Count", "% of vault"],
     [
-        ["📚 Total permanent notes",  total,                                       "100%"],
-        ["⚠️ Overdue for review",     overdue,    `${(overdue   / total * 100).toFixed(0)}%`],
-        ["🏷️ Tagged #needs-review",   flagged,    `${(flagged   / total * 100).toFixed(0)}%`],
-        ["🌟 Hubs (≥8 connections)",  hubs,       `${(hubs      / total * 100).toFixed(0)}%`],
-        ["🔌 Orphans (no links)",     orphans,    `${(orphans   / total * 100).toFixed(0)}%`],
-        ["✅ Evergreen status",        evergreen,  `${(evergreen / total * 100).toFixed(0)}%`],
-        ["❓ Never reviewed",          neverRev,   `${(neverRev  / total * 100).toFixed(0)}%`]
+        ["📚 Total permanent notes", total,     "100%"],
+        ["⚠️ Overdue for review",    overdue,   safe(overdue)],
+        ["🏷️ Tagged #needs-review",  flagged,   safe(flagged)],
+        ["🌟 Hubs (≥8 connections)", hubs,      safe(hubs)],
+        ["🔌 Orphans (no links)",    orphans,   safe(orphans)],
+        ["✅ Evergreen status",       evergreen, safe(evergreen)],
+        ["✍️ Enriched status",        enriched,  safe(enriched)],
+        ["❓ Never explicitly reviewed", neverRev, safe(neverRev)]
     ]
 );
 ```
@@ -74,21 +79,22 @@ dv.table(
 ## 🔥 Critical Attention Queue
 
 > [!key-claim] Top 15, blended priority
-> Composite score combines overdue ratio (×5), centrality (log-scaled), declared importance, mastery stage, and the `#needs-review` tag (×3). Notes with explicit user signals always rise above heuristic-only candidates.
+> Composite score combines overdue ratio (×5), centrality (log-scaled), declared importance, status weight, and the `#needs-review` tag (+3 flat). Notes with explicit user signals always rise above heuristic-only candidates.
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const ranked = dv.pages('"PermanentNotes"')
+const ranked = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note")
     .map(p => ({
-        link:     p.file.link,
-        priority: REVIEW.priorityScore(p),
-        ratio:    REVIEW.overdueRatio(p),
-        days:     REVIEW.daysSinceReview(p),
-        density:  REVIEW.relationalDensity(p),
-        status:   REVIEW.statusBucket(p),
+        link:       p.file.link,
+        priority:   REVIEW.priorityScore(p),
+        ratio:      REVIEW.overdueRatio(p),
+        days:       REVIEW.daysSinceReview(p),
+        density:    REVIEW.relationalDensity(p),
+        status:     REVIEW.statusBucket(p),
         importance: p.importance || "—"
     }))
     .sort(r => r.priority, "desc")
@@ -116,10 +122,11 @@ dv.table(
 > A note's review window equals its `review-frequency` field (`daily`, `weekly`, `monthly`, `quarterly`, `yearly`). Overdue = days-since-review > window. Notes with no frequency default to **quarterly (90 days)**.
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const overdue = dv.pages('"PermanentNotes"')
+const overdue = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note" && REVIEW.isOverdue(p))
     .map(p => ({
         link:      p.file.link,
@@ -158,12 +165,12 @@ if (overdue.length === 0) {
 
 ```dataview
 TABLE WITHOUT ID
-    file.link        AS "Note",
-    status           AS "Status",
-    domain           AS "Domain",
+    file.link                            AS "Note",
+    default(status, "—")                 AS "Status",
+    default(domain, "—")                 AS "Domain",
     dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit",
     default(importance, "—")             AS "Importance"
-FROM #needs-review
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated" AND #needs-review
 WHERE type = "permanent-note"
 SORT file.mtime ASC
 ```
@@ -176,12 +183,12 @@ SORT file.mtime ASC
 > Notes whose underlying source material may have evolved while the note hasn't kept up. Especially worth checking on **enriched** notes derived from older reports — has the upstream understanding changed?
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const STALE_THRESHOLD = 180;
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const STALE_THRESHOLD = 180;
-
-const stale = dv.pages('"PermanentNotes"')
+const stale = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note" && REVIEW.daysSinceUpdate(p) > STALE_THRESHOLD)
     .map(p => ({
         link:       p.file.link,
@@ -214,13 +221,14 @@ if (stale.length === 0) {
 ## 🌟 Centrality Hubs (review these carefully — they propagate)
 
 > [!important] Why hubs deserve careful review
-> Errors or gaps in a hub propagate through every note that links to it. A 5-minute correction here saves 30 minutes of downstream confusion later. Hub = total relational density ≥ 8 (outbound relations across all 12 relational fields + Obsidian-resolved inlinks).
+> Errors or gaps in a hub propagate through every note that links to it. A 5-minute correction here saves 30 minutes of downstream confusion later. Hub = total relational density ≥ 8 (outbound across 12 relational fields + Obsidian-resolved inlinks).
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const hubs = dv.pages('"PermanentNotes"')
+const hubs = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note")
     .map(p => {
         const out = REVIEW.outboundRelations(p);
@@ -257,17 +265,18 @@ if (hubs.length === 0) {
 ## 📦 Status Queues
 
 > [!structure] Bucketed by lifecycle status
-> Each row is a clickable count linking to the filtered view. Different statuses warrant different review modes:
+> Each row aggregates a status. Different statuses warrant different review modes:
 > - **Seedling/Budding** → "is this still the best framing?"
 > - **Enriched** → "has the underlying source been superseded?"
 > - **Evergreen** → "any new connections to add?"
 > - **Wilting** → "rescue, archive, or delete?"
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const notes = dv.pages('"PermanentNotes"').where(p => p.type === "permanent-note");
+const notes = dv.pages(FOLDER).where(p => p.type === "permanent-note");
 
 const buckets = {};
 for (const p of notes) {
@@ -280,7 +289,7 @@ for (const p of notes) {
     });
 }
 
-const order = ["seedling", "budding", "enriched", "evergreen", "wilting", "archived"];
+const order = ["seedling", "budding", "enriched", "evergreen", "wilting", "archived", "unspecified"];
 const rows = [];
 
 for (const status of order) {
@@ -314,10 +323,11 @@ dv.table(
 ### Drill-down: Evergreen needing refresh
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const evergreen = dv.pages('"PermanentNotes"')
+const evergreen = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note" && REVIEW.statusBucket(p) === "evergreen")
     .map(p => ({
         link:    p.file.link,
@@ -337,29 +347,61 @@ if (evergreen.length === 0) {
 }
 ```
 
+### Drill-down: Enriched that may need verification
+
+```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
+const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
+
+const enriched = dv.pages(FOLDER)
+    .where(p => p.type === "permanent-note" && REVIEW.statusBucket(p) === "enriched")
+    .map(p => ({
+        link:       p.file.link,
+        days:       REVIEW.daysSinceUpdate(p),
+        confidence: p.confidence || "—",
+        evidence:   p["evidence-quality"] || "—"
+    }))
+    .sort(r => r.days, "desc")
+    .slice(0, 15);
+
+if (enriched.length === 0) {
+    dv.paragraph("_No enriched notes._");
+} else {
+    dv.table(
+        ["Enriched note", "Days since edit", "Confidence", "Evidence"],
+        enriched.map(r => [r.link, REVIEW.ageBadge(r.days), r.confidence, r.evidence])
+    );
+}
+```
+
 ---
 
 ## 🎯 Theme Focus — Filter by Domain
 
 > [!example] Adjust the theme variable below
-> Change `THEME` to any value present in your `domain` or `parent-concept` frontmatter (e.g., `"cognitive-psychology"`, `"philosophy"`, `"educational-psychology"`). The block returns priority-sorted notes within that theme so you can do focused review sessions.
+> Change `THEME` to any value present in your `domain`, `subdomains`, or `parent-concept` frontmatter (e.g., `"cognitive-psychology"`, `"educational-psychology"`, `"instructional-design"`). The block returns priority-sorted notes within that theme so you can do focused review sessions.
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
 // ─── EDIT THIS LINE TO CHANGE THE THEME ─────────────────────────────────
 const THEME = "cognitive-psychology";
 // ────────────────────────────────────────────────────────────────────────
 
-const focus = dv.pages('"PermanentNotes"')
-    .where(p => 
-        p.type === "permanent-note" && (
-            p.domain === THEME ||
-            (p.subdomains && p.subdomains.includes(THEME)) ||
-            p["parent-concept"] === THEME
-        )
-    )
+const norm = (v) => String(v || "").toLowerCase().trim();
+const T = norm(THEME);
+
+const focus = dv.pages(FOLDER)
+    .where(p => {
+        if (p.type !== "permanent-note") return false;
+        if (norm(p.domain) === T) return true;
+        if (norm(p["parent-concept"]) === T) return true;
+        const subs = Array.isArray(p.subdomains) ? p.subdomains : (p.subdomains ? [p.subdomains] : []);
+        return subs.some(s => norm(s) === T);
+    })
     .map(p => ({
         link:     p.file.link,
         priority: REVIEW.priorityScore(p),
@@ -376,7 +418,7 @@ if (focus.length === 0) {
 } else {
     dv.table(
         ["Note", "Priority", "Last reviewed", "Status", "Density"],
-        focus.slice(0, 20).map(r => [
+        focus.slice(0, 25).map(r => [
             r.link,
             REVIEW.priorityBadge(r.priority),
             REVIEW.ageBadge(r.days),
@@ -390,14 +432,20 @@ if (focus.length === 0) {
 ### All available themes (for the variable above)
 
 ```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
 const counts = {};
-const notes = dv.pages('"PermanentNotes"').where(p => p.type === "permanent-note");
+const notes = dv.pages(FOLDER).where(p => p.type === "permanent-note");
 
 for (const p of notes) {
     if (p.domain) counts[p.domain] = (counts[p.domain] || 0) + 1;
-    if (p["parent-concept"]) counts[p["parent-concept"]] = (counts[p["parent-concept"]] || 0) + 1;
+    if (p["parent-concept"]) {
+        const k = p["parent-concept"];
+        counts[k] = (counts[k] || 0) + 1;
+    }
     if (Array.isArray(p.subdomains)) {
         for (const s of p.subdomains) counts[s] = (counts[s] || 0) + 1;
+    } else if (p.subdomains) {
+        counts[p.subdomains] = (counts[p.subdomains] || 0) + 1;
     }
 }
 
@@ -416,10 +464,11 @@ dv.table(
 > Counts notes whose `last-reviewed` (or `updated` if `last-reviewed` is absent) falls within each window. Helps you spot whether the workflow is being used.
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const notes = dv.pages('"PermanentNotes"').where(p => p.type === "permanent-note");
+const notes = dv.pages(FOLDER).where(p => p.type === "permanent-note");
 
 const buckets = { d7: 0, d30: 0, d90: 0 };
 for (const p of notes) {
@@ -429,12 +478,14 @@ for (const p of notes) {
     if (d <= 90) buckets.d90 += 1;
 }
 
+const safe = (n) => notes.length ? `${(n / notes.length * 100).toFixed(0)}%` : "—";
+
 dv.table(
     ["Window", "Notes touched", "% of vault"],
     [
-        ["Last 7 days",  buckets.d7,  `${(buckets.d7  / notes.length * 100).toFixed(0)}%`],
-        ["Last 30 days", buckets.d30, `${(buckets.d30 / notes.length * 100).toFixed(0)}%`],
-        ["Last 90 days", buckets.d90, `${(buckets.d90 / notes.length * 100).toFixed(0)}%`]
+        ["Last 7 days",  buckets.d7,  safe(buckets.d7)],
+        ["Last 30 days", buckets.d30, safe(buckets.d30)],
+        ["Last 90 days", buckets.d90, safe(buckets.d90)]
     ]
 );
 ```
@@ -442,10 +493,11 @@ dv.table(
 ### Recently reviewed (last 30 days)
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const recent = dv.pages('"PermanentNotes"')
+const recent = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note" && REVIEW.daysSinceReview(p) <= 30)
     .map(p => ({
         link:   p.file.link,
@@ -470,13 +522,14 @@ if (recent.length === 0) {
 ## 🔌 Orphans (Graph Health)
 
 > [!caution] Disconnected notes weaken the graph
-> Notes with zero inbound and zero outbound relations. Either they need to be linked into the broader knowledge structure, or they don't belong as permanent notes. Aim for **<5%** orphan ratio.
+> Notes with zero inbound and zero outbound relations (across `file.outlinks` AND the 12 relational frontmatter fields). Either link them in or reconsider whether they belong as permanent notes. Aim for **<5%** orphan ratio.
 
 ```dataviewjs
-const code = await dv.io.load("scripts/dv-review-helpers.js");
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
 const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
 
-const orphans = dv.pages('"PermanentNotes"')
+const orphans = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note" && REVIEW.isOrphan(p))
     .map(p => ({
         link:   p.file.link,
@@ -504,32 +557,61 @@ if (orphans.length === 0) {
 
 ---
 
+## 🧪 Confidence × Staleness Health Matrix
+
+> [!warning] High-confidence-but-stale notes are most concerning
+> They're being trusted but haven't been verified recently. The cell flagged with ⚠️ is the priority-fix quadrant.
+
+```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+const code = await dv.io.load("99-scripts/dv-review-helpers.js");
+const REVIEW = (new Function("dv", code + "\nreturn REVIEW;"))(dv);
+
+const matrix = {
+    high:   { fresh: 0, aging: 0, stale: 0 },
+    medium: { fresh: 0, aging: 0, stale: 0 },
+    low:    { fresh: 0, aging: 0, stale: 0 }
+};
+
+for (const p of dv.pages(FOLDER).where(p => p.type === "permanent-note")) {
+    const conf = (p.confidence || "medium").toString().toLowerCase();
+    const d    = REVIEW.daysSinceUpdate(p);
+    const age  = (d === Infinity || d > 180) ? "stale" : (d > 30 ? "aging" : "fresh");
+    if (matrix[conf]) matrix[conf][age] += 1;
+}
+
+dv.table(
+    ["Confidence ↓ / Age →", "Fresh (<30d)", "Aging (30-180d)", "Stale (>180d)"],
+    [
+        ["high",   matrix.high.fresh,   matrix.high.aging,   `⚠️ ${matrix.high.stale}`],
+        ["medium", matrix.medium.fresh, matrix.medium.aging, matrix.medium.stale],
+        ["low",    matrix.low.fresh,    matrix.low.aging,    matrix.low.stale]
+    ]
+);
+```
+
+---
+
 ## 🔗 Related Topics for PKB Expansion
 
 ### 🎯 Core Extensions
 
-1. **[[Review Queries Library]]**
+1. **[[Review-Queries-Library]]**
    - **Connection**: Standalone DQL/DataviewJS snippets you can paste into any note for ad-hoc review filters without depending on the helper module
    - **Depth Potential**: Query patterns for every relational field, copy-paste-ready
    - **Knowledge Graph Role**: Reference companion to this dashboard
    - **Priority**: High — needed when you want quick filters in context-specific notes (e.g., a domain MOC)
 
-2. **[[Review System README]]**
-   - **Connection**: Setup, schema migration, troubleshooting, the `last-reviewed` adoption strategy
-   - **Depth Potential**: Full operational documentation
-   - **Knowledge Graph Role**: System documentation hub
-   - **Priority**: High — read once, then reference as needed
-
 ### 🌐 Cross-Domain Connections
 
-3. **[[Spaced Repetition]]**
+2. **[[spaced-repetition]]**
    - **Connection**: Review-frequency math is a coarse-grained spaced repetition scheme. The same priority-score architecture extends to a true SM-2 / Anki-style scheduler
-   - **Depth Potential**: Implement an actual SRS algorithm with success/failure feedback adjusting the next-review interval
+   - **Depth Potential**: Implement a real SRS algorithm with success/failure feedback adjusting the next-review interval
    - **Knowledge Graph Role**: Bridge between PKB methodology and learning science
    - **Priority**: Medium
 
-4. **[[Knowledge Graph Health Metrics]]**
-   - **Connection**: Orphan ratio, hub identification, connectivity coefficient — extends the graph-health portion of this dashboard into a dedicated audit
+3. **[[knowledge-graph-topology]]**
+   - **Connection**: Orphan ratio and hub identification extend the graph-health portion of this dashboard into a dedicated audit
    - **Depth Potential**: Full vault audit framework with trend tracking
    - **Knowledge Graph Role**: Bridge to AUDIT mode of the PKB Specialist Agent
    - **Priority**: Medium

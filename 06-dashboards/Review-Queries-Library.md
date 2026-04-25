@@ -15,40 +15,38 @@ tags:
 created: 2026-04-25
 updated: 2026-04-25
 related:
-  - "[[Review Dashboard]]"
-  - "[[Review System README]]"
+  - "[[Review-Dashboard]]"
 ---
 
 # 📚 Review Queries Library
 
 > [!abstract] Why this exists
-> The [[Review Dashboard]] is the day-to-day console. **This** is the cookbook — every snippet here is **standalone**, depends on no helper module, and can be copy-pasted into any note (a domain MOC, a project page, an inbox file). When you want a focused review filter inside a specific context, grab the right block from below.
+> The [[Review-Dashboard]] is the day-to-day console. **This** is the cookbook — every snippet here is **standalone**, depends on no helper module, and can be copy-pasted into any note (a domain MOC, a project page, an inbox file). When you want a focused review filter inside a specific context, grab the right block from below.
 
 > [!helpful-tip] How to choose between DQL and DataviewJS
-> - **DQL** (` ```dataview `) — short, declarative, fast to write. Use for simple filters and tables.
-> - **DataviewJS** (` ```dataviewjs `) — full JavaScript. Use whenever you need computed fields, custom math, multi-field aggregation, or conditional badges.
+> - **DQL** (` ```dataview `) — short, declarative, fast to write. Use for simple filters and tables. **Limitation**: hyphenated frontmatter keys (`last-reviewed`, `review-frequency`, `evidence-quality`, `parent-concept`) cannot be referenced directly in DQL `WHERE` clauses (the hyphen is parsed as subtraction). Use DataviewJS for those.
+> - **DataviewJS** (` ```dataviewjs `) — full JavaScript. Use whenever you need computed fields, hyphenated keys, custom math, multi-field aggregation, or conditional badges.
+
+> [!important] Folder path
+> Every snippet below points at `"999-report-organizing/_permanent-notes/v6-llm-elaborated"`. Adjust the `FROM "..."` (DQL) or `FOLDER` constant (DataviewJS) at the top of each block to target a different folder. See **Section 3** for alternative source patterns.
 
 ---
 
 ## Section 1 — Pure DQL Queries
 
-### 1.1 — Notes Not Reviewed in Last 30 Days
+### 1.1 — Notes Not Edited in Last 30 Days
 
-Uses the `last-reviewed` field if present, falls back to `file.mtime`.
+DQL has no clean way to read `last-reviewed` (hyphenated key). This query uses `file.mtime` as the practical proxy. For true `last-reviewed` logic, see snippet 2.1.
 
 ```dataview
 TABLE WITHOUT ID
-    file.link                                         AS "Note",
-    default(dateformat(date("last-reviewed"), "yyyy-MM-dd"),
-            dateformat(file.mtime, "yyyy-MM-dd"))     AS "Last touched",
-    default(status, "—")                              AS "Status",
-    default(domain, "—")                              AS "Domain"
-FROM "PermanentNotes"
+    file.link                            AS "Note",
+    dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit",
+    default(status, "—")                 AS "Status",
+    default(domain, "—")                 AS "Domain"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
 WHERE type = "permanent-note"
-  AND (
-        (date("last-reviewed") AND date("last-reviewed") < date(today) - dur(30 days))
-     OR (!date("last-reviewed") AND file.mtime           < date(today) - dur(30 days))
-  )
+  AND file.mtime < date(today) - dur(30 days)
 SORT file.mtime ASC
 ```
 
@@ -60,7 +58,7 @@ TABLE WITHOUT ID
     default(status, "—")                 AS "Status",
     default(importance, "—")             AS "Importance",
     dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit"
-FROM #needs-review
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated" AND #needs-review
 WHERE type = "permanent-note"
 SORT file.mtime ASC
 ```
@@ -75,7 +73,7 @@ TABLE WITHOUT ID
     length(file.inlinks)   AS "Inlinks",
     length(file.outlinks)  AS "Outlinks",
     default(status, "—")   AS "Status"
-FROM "PermanentNotes"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
 WHERE type = "permanent-note"
   AND length(file.inlinks) >= 5
 SORT length(file.inlinks) DESC
@@ -89,12 +87,12 @@ TABLE WITHOUT ID
     default(domain, "—")                 AS "Domain",
     default(confidence, "—")             AS "Confidence",
     dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit"
-FROM "PermanentNotes"
-WHERE type = "permanent-note" AND status = "evergreen"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
+WHERE type = "permanent-note" AND status = "enriched"
 SORT file.mtime ASC
 ```
 
-Replace `"evergreen"` with `"enriched"`, `"budding"`, `"seedling"`, `"wilting"`, `"archived"` as needed.
+Replace `"enriched"` with `"evergreen"`, `"budding"`, `"seedling"`, `"wilting"`, `"archived"` as needed.
 
 ### 1.5 — Stale Content (Not Updated in 6+ Months)
 
@@ -104,7 +102,7 @@ TABLE WITHOUT ID
     dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit",
     default(confidence, "—")             AS "Confidence",
     default(status, "—")                 AS "Status"
-FROM "PermanentNotes"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
 WHERE type = "permanent-note"
   AND file.mtime < date(today) - dur(180 days)
 SORT file.mtime ASC
@@ -117,13 +115,15 @@ TABLE WITHOUT ID
     file.link                            AS "Note",
     default(status, "—")                 AS "Status",
     default(confidence, "—")             AS "Confidence",
-    default(importance, "—")             AS "Importance"
-FROM "PermanentNotes"
+    dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
 WHERE type = "permanent-note" AND domain = "cognitive-psychology"
-SORT importance DESC, file.mtime ASC
+SORT file.mtime ASC
 ```
 
 ### 1.7 — Notes Linked to a Specific Concept
+
+The `FROM [[note]]` clause selects every note that has any link **to** that target. Replace `[[working-memory]]` with the target concept.
 
 ```dataview
 TABLE WITHOUT ID
@@ -139,38 +139,71 @@ SORT file.mtime DESC
 
 ```dataview
 TABLE WITHOUT ID
-    file.link                  AS "Note",
-    contains(specializes, [[ecological-psychology]]) AS "Specializes target?",
-    contains(contrasts-with, [[Behaviorism]])        AS "Contrasts target?"
-FROM "PermanentNotes"
+    file.link                                          AS "Note",
+    contains(specializes,    [[cognitive-load-theory]]) AS "Specializes target?",
+    contains(contrasts-with, [[behaviorism]])           AS "Contrasts target?"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
 WHERE type = "permanent-note"
-  AND (contains(specializes, [[ecological-psychology]])
-       OR contains(contrasts-with, [[Behaviorism]]))
+  AND (contains(specializes,    [[cognitive-load-theory]])
+    OR contains(contrasts-with, [[behaviorism]]))
+SORT file.name ASC
 ```
 
-### 1.9 — Combined: Overdue AND High-Importance
+### 1.9 — Combined: Stale AND High-Confidence
+
+The most concerning quadrant — trusted but unverified.
 
 ```dataview
 TABLE WITHOUT ID
     file.link                            AS "Note",
-    importance                           AS "Importance",
+    confidence                           AS "Confidence",
     dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit"
-FROM "PermanentNotes"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
 WHERE type = "permanent-note"
-  AND (importance = "high" OR importance = "critical")
-  AND file.mtime < date(today) - dur(60 days)
-SORT importance DESC, file.mtime ASC
+  AND confidence = "high"
+  AND file.mtime < date(today) - dur(180 days)
+SORT file.mtime ASC
 ```
 
-### 1.10 — Never Reviewed (No `last-reviewed` Field)
+### 1.10 — Group by Status (Counts)
 
 ```dataview
 TABLE WITHOUT ID
-    file.link                            AS "Note",
-    dateformat(file.ctime, "yyyy-MM-dd") AS "Created",
-    default(status, "—")                 AS "Status"
-FROM "PermanentNotes"
-WHERE type = "permanent-note" AND !date("last-reviewed")
+    rows.file.link AS "Notes"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
+WHERE type = "permanent-note"
+GROUP BY default(status, "(unspecified)") AS "Status"
+SORT length(rows) DESC
+```
+
+### 1.11 — Notes by Source Report
+
+Useful for tracing which notes came from which extraction batch.
+
+```dataview
+TABLE WITHOUT ID
+    rows.file.link AS "Notes"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
+WHERE type = "permanent-note" AND source-reports
+FLATTEN source-reports AS report
+GROUP BY report AS "Source Report"
+SORT length(rows) DESC
+LIMIT 20
+```
+
+### 1.12 — Notes With No Outbound Relations
+
+A first-pass orphan check using DQL only.
+
+```dataview
+TABLE WITHOUT ID
+    file.link            AS "Note",
+    default(status, "—") AS "Status",
+    default(domain, "—") AS "Domain"
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
+WHERE type = "permanent-note"
+  AND length(file.outlinks) = 0
+  AND length(file.inlinks)  = 0
 SORT file.ctime ASC
 ```
 
@@ -180,15 +213,24 @@ SORT file.ctime ASC
 
 These blocks are **fully self-contained** — no helper module required. Each one is around 30-60 lines and can be pasted into any note.
 
-### 2.1 — Days Since Review (with fallback chain)
+### 2.1 — Days Since Review (with `last-reviewed` → `updated` → `mtime` fallback)
 
 ```dataviewjs
-// Days-since-review with last-reviewed → updated → mtime fallback
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+
+const toDate = (v) => {
+    if (v == null) return null;
+    if (typeof v === "object" && typeof v.isValid === "boolean") return v.isValid ? v : null;
+    try { const d = dv.date(v); return (d && d.isValid) ? d : null; } catch (e) { return null; }
+};
+
+const lastTouched = (p) =>
+    toDate(p["last-reviewed"]) || toDate(p.updated) || toDate(p.file.mtime);
+
 const daysSinceReview = (p) => {
-    const lr = p["last-reviewed"];
-    const date = lr ? dv.date(lr) : (p.updated ? dv.date(p.updated) : p.file.mtime);
-    if (!date || !date.isValid) return Infinity;
-    return Math.floor(dv.date("now").diff(date, "days").days);
+    const d = lastTouched(p);
+    if (!d) return Infinity;
+    return Math.floor(dv.date("now").diff(d, "days").days);
 };
 
 const ageBadge = (d) => {
@@ -200,34 +242,43 @@ const ageBadge = (d) => {
     return `🟣 ${d}d`;
 };
 
-const rows = dv.pages('"PermanentNotes"')
+const rows = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note")
-    .map(p => [p.file.link, ageBadge(daysSinceReview(p)), daysSinceReview(p)])
-    .sort(r => r[2], "desc")
+    .map(p => ({ link: p.file.link, days: daysSinceReview(p) }))
+    .sort(r => r.days, "desc")
     .slice(0, 20);
 
-dv.table(["Note", "Age", "Days"], rows.map(r => [r[0], r[1], r[2] === Infinity ? "—" : r[2]]));
+dv.table(
+    ["Note", "Age", "Days"],
+    rows.map(r => [r.link, ageBadge(r.days), r.days === Infinity ? "—" : r.days])
+);
 ```
 
 ### 2.2 — Overdue Based on `review-frequency`
 
 ```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+
 const FREQ_DAYS = {
     daily: 1, weekly: 7, biweekly: 14, monthly: 30,
     quarterly: 90, biannual: 180, yearly: 365, annual: 365
 };
 
-const lastTouched = (p) => {
-    const lr = p["last-reviewed"];
-    return lr ? dv.date(lr) : (p.updated ? dv.date(p.updated) : p.file.mtime);
+const toDate = (v) => {
+    if (v == null) return null;
+    if (typeof v === "object" && typeof v.isValid === "boolean") return v.isValid ? v : null;
+    try { const d = dv.date(v); return (d && d.isValid) ? d : null; } catch (e) { return null; }
 };
 
+const lastTouched = (p) =>
+    toDate(p["last-reviewed"]) || toDate(p.updated) || toDate(p.file.mtime);
+
 const daysSince = (d) => {
-    if (!d || !d.isValid) return Infinity;
+    if (!d) return Infinity;
     return Math.floor(dv.date("now").diff(d, "days").days);
 };
 
-const overdue = dv.pages('"PermanentNotes"')
+const overdue = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note")
     .map(p => {
         const window = FREQ_DAYS[(p["review-frequency"] || "quarterly").toLowerCase()] ?? 90;
@@ -240,7 +291,9 @@ const overdue = dv.pages('"PermanentNotes"')
 dv.table(
     ["Note", "Days since", "Window (d)", "Overdue ×"],
     overdue.slice(0, 30).map(r => [
-        r.link, r.days, r.window,
+        r.link,
+        r.days === Infinity ? "🆕 never" : r.days,
+        r.window,
         r.ratio === Infinity ? "🆕 never" : `${r.ratio.toFixed(1)}×`
     ])
 );
@@ -249,6 +302,8 @@ dv.table(
 ### 2.3 — True Relational Density (all 12 fields + inlinks)
 
 ```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+
 const RELATIONAL_FIELDS = [
     "related", "prerequisites", "specializes", "broader", "see-also",
     "contrasts-with", "contradicts", "applies-to", "formalizes",
@@ -256,7 +311,7 @@ const RELATIONAL_FIELDS = [
 ];
 
 const isLiveLink = (v) =>
-    v && typeof v === "object" && v.path && v.path.trim().length > 0;
+    v && typeof v === "object" && v.path && String(v.path).trim().length > 0;
 
 const outboundCount = (p) => {
     let n = 0;
@@ -269,7 +324,7 @@ const outboundCount = (p) => {
     return n;
 };
 
-const ranked = dv.pages('"PermanentNotes"')
+const ranked = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note")
     .map(p => {
         const inb = (p.file.inlinks?.length) || 0;
@@ -288,6 +343,8 @@ dv.table(
 ### 2.4 — Notes Linked to a Set of Key Concepts
 
 ```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+
 // ─── Edit this list ─────────────────────────────────────────────────────
 const KEY_CONCEPTS = ["working-memory", "schema-theory", "self-directed-learning"];
 // ────────────────────────────────────────────────────────────────────────
@@ -313,7 +370,7 @@ const matches = (p) => {
     return false;
 };
 
-const focused = dv.pages('"PermanentNotes"')
+const focused = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note" && matches(p))
     .sort(p => p.file.name);
 
@@ -326,17 +383,22 @@ dv.table(
 
 ### 2.5 — Confidence × Staleness Matrix
 
-A health-check view: high-confidence-but-stale notes are most concerning (they're being trusted but haven't been verified recently).
-
 ```dataviewjs
-const daysSince = (p) => Math.floor(dv.date("now").diff(p.file.mtime, "days").days);
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
 
-const matrix = { high: { fresh: 0, aging: 0, stale: 0 },
-                 medium: { fresh: 0, aging: 0, stale: 0 },
-                 low: { fresh: 0, aging: 0, stale: 0 } };
+const daysSince = (p) => {
+    try { return Math.floor(dv.date("now").diff(p.file.mtime, "days").days); }
+    catch (e) { return Infinity; }
+};
 
-for (const p of dv.pages('"PermanentNotes"').where(p => p.type === "permanent-note")) {
-    const conf = (p.confidence || "medium").toLowerCase();
+const matrix = {
+    high:   { fresh: 0, aging: 0, stale: 0 },
+    medium: { fresh: 0, aging: 0, stale: 0 },
+    low:    { fresh: 0, aging: 0, stale: 0 }
+};
+
+for (const p of dv.pages(FOLDER).where(p => p.type === "permanent-note")) {
+    const conf = (p.confidence || "medium").toString().toLowerCase();
     const d    = daysSince(p);
     const age  = d < 30 ? "fresh" : d < 180 ? "aging" : "stale";
     if (matrix[conf]) matrix[conf][age] += 1;
@@ -355,8 +417,10 @@ dv.table(
 ### 2.6 — Group by Domain with Counts
 
 ```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+
 const grouped = {};
-for (const p of dv.pages('"PermanentNotes"').where(p => p.type === "permanent-note")) {
+for (const p of dv.pages(FOLDER).where(p => p.type === "permanent-note")) {
     const d = p.domain || "(unspecified)";
     if (!grouped[d]) grouped[d] = [];
     grouped[d].push(p);
@@ -375,13 +439,25 @@ for (const [domain, pages] of sorted) {
 Add this at the top of any focused review session note. It surfaces the single highest-priority note matching a filter:
 
 ```dataviewjs
-const FREQ_DAYS = { daily: 1, weekly: 7, monthly: 30, quarterly: 90, yearly: 365 };
-const lastTouched = (p) => p["last-reviewed"] ? dv.date(p["last-reviewed"])
-                         : p.updated         ? dv.date(p.updated)
-                                             : p.file.mtime;
-const daysSince = (d) => Math.floor(dv.date("now").diff(d, "days").days);
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
 
-const candidate = dv.pages('"PermanentNotes"')
+const FREQ_DAYS = { daily: 1, weekly: 7, monthly: 30, quarterly: 90, yearly: 365 };
+
+const toDate = (v) => {
+    if (v == null) return null;
+    if (typeof v === "object" && typeof v.isValid === "boolean") return v.isValid ? v : null;
+    try { const d = dv.date(v); return (d && d.isValid) ? d : null; } catch (e) { return null; }
+};
+
+const lastTouched = (p) =>
+    toDate(p["last-reviewed"]) || toDate(p.updated) || toDate(p.file.mtime);
+
+const daysSince = (d) => {
+    if (!d) return Infinity;
+    return Math.floor(dv.date("now").diff(d, "days").days);
+};
+
+const candidate = dv.pages(FOLDER)
     .where(p => p.type === "permanent-note")
     .map(p => {
         const window = FREQ_DAYS[(p["review-frequency"] || "quarterly").toLowerCase()] ?? 90;
@@ -392,30 +468,149 @@ const candidate = dv.pages('"PermanentNotes"')
 
 if (candidate) {
     dv.header(3, "🎯 Next note to review");
-    dv.paragraph(`**${candidate.p.file.link}** — ${candidate.ratio.toFixed(1)}× overdue`);
+    dv.paragraph(`**${candidate.p.file.link}** — ${candidate.ratio === Infinity ? "🆕 never reviewed" : candidate.ratio.toFixed(1) + "× overdue"}`);
     dv.paragraph(`*Domain: ${candidate.p.domain || "—"} • Status: ${candidate.p.status || "—"}*`);
+} else {
+    dv.paragraph("_No candidates._");
+}
+```
+
+### 2.8 — Notes by Subdomain (Flatten Tags-Like Field)
+
+```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+
+const grouped = {};
+for (const p of dv.pages(FOLDER).where(p => p.type === "permanent-note")) {
+    const subs = Array.isArray(p.subdomains) ? p.subdomains : (p.subdomains ? [p.subdomains] : []);
+    for (const s of subs) {
+        if (!grouped[s]) grouped[s] = [];
+        grouped[s].push(p);
+    }
+}
+
+const sorted = Object.entries(grouped).sort((a, b) => b[1].length - a[1].length);
+dv.table(
+    ["Subdomain", "Note count", "Sample"],
+    sorted.map(([sub, pages]) => [
+        sub,
+        pages.length,
+        pages.slice(0, 3).map(p => p.file.link).join(", ") + (pages.length > 3 ? "…" : "")
+    ])
+);
+```
+
+### 2.9 — Outbound-Field Coverage Audit
+
+How well-populated is each relational field across the vault? Empty columns = unused relation types.
+
+```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+
+const RELATIONAL_FIELDS = [
+    "related", "prerequisites", "specializes", "broader", "see-also",
+    "contrasts-with", "contradicts", "applies-to", "formalizes",
+    "instance-of", "supports", "refines"
+];
+
+const isLiveLink = (v) => v && typeof v === "object" && v.path;
+
+const counts = {};
+for (const f of RELATIONAL_FIELDS) counts[f] = { withField: 0, totalLinks: 0 };
+
+const notes = dv.pages(FOLDER).where(p => p.type === "permanent-note");
+
+for (const p of notes) {
+    for (const f of RELATIONAL_FIELDS) {
+        const v = p[f];
+        if (!v) continue;
+        const arr = Array.isArray(v) ? v : [v];
+        const live = arr.filter(isLiveLink).length;
+        if (live > 0) {
+            counts[f].withField += 1;
+            counts[f].totalLinks += live;
+        }
+    }
+}
+
+const total = notes.length || 1;
+dv.table(
+    ["Field", "Notes using it", "% of vault", "Total links", "Avg per user"],
+    RELATIONAL_FIELDS.map(f => [
+        f,
+        counts[f].withField,
+        `${(counts[f].withField / total * 100).toFixed(0)}%`,
+        counts[f].totalLinks,
+        counts[f].withField ? (counts[f].totalLinks / counts[f].withField).toFixed(1) : "—"
+    ])
+);
+```
+
+### 2.10 — Find Broken / Unresolved Wiki-Links in Frontmatter
+
+Surfaces links pointing at notes that don't exist in the vault. Common after renames.
+
+```dataviewjs
+const FOLDER = '"999-report-organizing/_permanent-notes/v6-llm-elaborated"';
+
+const RELATIONAL_FIELDS = [
+    "related", "prerequisites", "specializes", "broader", "see-also",
+    "contrasts-with", "contradicts", "applies-to", "formalizes",
+    "instance-of", "supports", "refines"
+];
+
+const broken = [];
+for (const p of dv.pages(FOLDER).where(p => p.type === "permanent-note")) {
+    for (const f of RELATIONAL_FIELDS) {
+        const v = p[f];
+        if (!v) continue;
+        const arr = Array.isArray(v) ? v : [v];
+        for (const link of arr) {
+            if (link && link.path) {
+                const target = dv.page(link.path);
+                if (!target) broken.push({ src: p.file.link, field: f, target: link.path });
+            }
+        }
+    }
+}
+
+if (broken.length === 0) {
+    dv.paragraph("✨ All frontmatter relational links resolve.");
+} else {
+    dv.paragraph(`**${broken.length}** broken frontmatter links.`);
+    dv.table(
+        ["Source", "Field", "Missing target"],
+        broken.slice(0, 50).map(r => [r.src, r.field, `\`${r.target}\``])
+    );
 }
 ```
 
 ---
 
-## Section 3 — Folder Filter Note
+## Section 3 — Source Patterns (Folder Filter Recipes)
 
-Every snippet above filters with `dv.pages('"PermanentNotes"')` — adjust this string to your actual folder. Common alternatives:
+Every snippet above filters with a specific folder string — adjust to your needs. Common alternatives:
 
-| Pattern                                        | Meaning                             |
-|------------------------------------------------|-------------------------------------|
-| `dv.pages('"PermanentNotes"')`                 | One specific folder                 |
-| `dv.pages('"Notes/Permanent"')`                | Nested folder path                  |
-| `dv.pages('#permanent-note')`                  | All tagged notes (any folder)       |
-| `dv.pages().where(p => p.type === "permanent-note")` | All notes with the type, vault-wide |
-| `dv.pages('"Notes" and -"Notes/Archive"')`     | Folder minus subfolder              |
+| Pattern | Meaning |
+|---------|---------|
+| `dv.pages('"999-report-organizing/_permanent-notes/v6-llm-elaborated"')` | One specific folder (the vault default) |
+| `dv.pages('"999-report-organizing/_permanent-notes"')` | All permanent-note subfolders combined |
+| `dv.pages('#permanent-note')` | All tagged notes (any folder) |
+| `dv.pages().where(p => p.type === "permanent-note")` | All notes with the type, vault-wide (slow on large vaults) |
+| `dv.pages('"Folder" and -"Folder/Archive"')` | Folder minus subfolder |
+| `dv.pages('"Folder" or #permanent-note')` | Union: folder OR tagged |
 
-The DQL equivalent is `FROM "PermanentNotes"` or `FROM #permanent-note`.
+DQL equivalents:
+
+```text
+FROM "999-report-organizing/_permanent-notes/v6-llm-elaborated"
+FROM #permanent-note
+FROM "999-report-organizing/_permanent-notes" AND -"999-report-organizing/_permanent-notes/v4-llm-condensed"
+```
 
 ---
 
 ## 🔗 Related
 
-- **[[Review Dashboard]]** — the live console that combines every snippet here into one view
-- **[[Review System README]]** — setup, schema migration, troubleshooting
+- **[[Review-Dashboard]]** — the live console that combines every snippet here into one view
+- **[[99-scripts/dv-review-helpers.js]]** — the helper module the dashboard depends on (DataviewJS only)
