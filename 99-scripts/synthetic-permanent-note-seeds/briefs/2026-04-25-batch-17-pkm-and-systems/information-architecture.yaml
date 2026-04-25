@@ -1,0 +1,41 @@
+concept: Information Architecture
+domain: pkm
+secondary_domains:
+- user-experience-design
+- knowledge-organization
+aliases:
+- IA
+broader:
+- knowledge-organization
+related:
+- taxonomy-design
+- ontology-design
+- navigation-design
+- findability
+- rosenfeld-louis
+- morville-peter
+prerequisites:
+- knowledge-organization
+confidence: high
+callouts:
+- type: definition
+  title: Information Architecture
+  body: Information Architecture is the structural design of shared information environments
+    — websites, applications, intranets, knowledge bases — comprising organization
+    systems (categorization), labeling systems (vocabulary), navigation systems (movement
+    paths), and search systems (query mechanisms), with the goal of supporting findability
+    and understandability for the intended users.
+- type: key-claim
+  title: Key claim about Information Architecture
+  body: 'Information Architecture is foundational to whether a knowledge system is
+    *usable*: well-designed IA renders the underlying content discoverable through
+    multiple plausible search paths, while poor IA can render even excellent content
+    effectively invisible to users who do not already know exactly what they are looking
+    for and where it lives.'
+- type: warning
+  title: Common pitfall regarding Information Architecture
+  body: Information Architecture is often confused with visual design or with content
+    strategy; IA is specifically the *structural* layer between content and interface,
+    and conflating IA work with adjacent disciplines leads to projects that ship interfaces
+    atop unsound information structures — a class of failure that no amount of visual
+    polish can repair.

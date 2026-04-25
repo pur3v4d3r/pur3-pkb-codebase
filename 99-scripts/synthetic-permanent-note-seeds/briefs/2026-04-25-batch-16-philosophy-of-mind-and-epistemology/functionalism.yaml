@@ -1,0 +1,43 @@
+concept: Functionalism
+domain: philosophy
+secondary_domains:
+- philosophy-of-mind
+- cognitive-science
+aliases:
+- machine-state functionalism
+- computational functionalism
+broader:
+- theories-of-mind
+related:
+- multiple-realizability
+- computational-theory-of-mind
+- putnam-hilary
+- fodor-jerry
+- qualia
+- eliminative-materialism
+prerequisites:
+- theories-of-mind
+confidence: high
+callouts:
+- type: definition
+  title: Functionalism
+  body: Functionalism is the philosophical thesis, developed by Hilary Putnam and
+    elaborated by Jerry Fodor and others, that mental states are individuated not
+    by their physical substrate but by their *functional role* — their causal relations
+    to sensory inputs, behavioral outputs, and other mental states — so that anything
+    (biological, silicon, or otherwise) implementing the right functional organization
+    realizes the same mental state.
+- type: key-claim
+  title: Key claim about Functionalism
+  body: 'Functionalism''s central virtue is its compatibility with multiple realizability:
+    the empirical fact that pain in humans, octopuses, and (plausibly) future artificial
+    systems involves radically different physical substrates is well accommodated
+    by Functionalism, which forced behaviorism and identity-theory to give ground
+    and remains the working ontology of most cognitive science.'
+- type: warning
+  title: Common pitfall regarding Functionalism
+  body: Functionalism faces serious challenges from qualia-based arguments (the absent-qualia
+    and inverted-qualia objections, Block's Chinese-Nation thought experiment, Searle's
+    Chinese Room) which contend that functional organization alone cannot fix phenomenal
+    character; treating Functionalism as a settled view ignores that these objections
+    remain unresolved within the philosophical literature.

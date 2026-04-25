@@ -1,0 +1,45 @@
+concept: Benefit Finding
+domain: psychology
+secondary_domains:
+- positive-psychology
+- health-psychology
+aliases:
+- silver lining effect
+- finding meaning in adversity
+broader:
+- meaning-making
+related:
+- post-traumatic-growth
+- meaning-making
+- sense-making
+- illness-narratives
+- helgeson-vicki
+- coping-strategies
+prerequisites:
+- meaning-making
+confidence: high
+callouts:
+- type: definition
+  title: Benefit Finding
+  body: Benefit Finding is the cognitive process and outcome by which people identify
+    positive consequences, lessons, or meaning in adverse experiences (illness, loss,
+    trauma) — a construct closely related to but narrower than Post Traumatic Growth,
+    focusing specifically on the *identification of benefits* rather than the broader
+    transformative changes PTG encompasses, and operationalized through scales asking
+    respondents to enumerate benefits derived from a specific adverse event.
+- type: key-claim
+  title: Key claim about Benefit Finding
+  body: Benefit Finding has been studied extensively in health-psychology contexts
+    (cancer, cardiac events, chronic illness) where its presence is associated with
+    better adjustment outcomes, suggesting that the cognitive activity of finding
+    benefits in adversity has psychological-protective value distinct from objective
+    improvement in the underlying situation — a finding with practical implications
+    for therapeutic and patient-support contexts.
+- type: warning
+  title: Common pitfall regarding Benefit Finding
+  body: 'Benefit Finding''s relationship to actual well-being is more complex than
+    early enthusiasm suggested: meta-analyses show heterogeneous effects, some studies
+    find benefit-finding associated with worse adjustment in certain populations or
+    time-frames, and the construct may sometimes reflect denial or socially desirable
+    responding rather than authentic adaptive cognition; presenting Benefit Finding
+    as uniformly beneficial overstates the empirical record.'

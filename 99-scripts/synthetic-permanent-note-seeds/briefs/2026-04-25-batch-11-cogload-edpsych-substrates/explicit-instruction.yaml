@@ -1,0 +1,41 @@
+concept: Explicit Instruction
+domain: educational-psychology
+secondary_domains:
+- instructional-design
+- learning-science
+aliases:
+- direct instruction
+broader:
+- instructional-strategy
+related:
+- worked-example
+- evolutionary-educational-psychology
+- biological-secondary-knowledge
+- cognitive-load
+- scaffolding
+- fading
+prerequisites:
+- biological-secondary-knowledge
+confidence: high
+callouts:
+- type: definition
+  title: Explicit Instruction
+  body: Explicit Instruction is the family of teaching approaches in which the structure,
+    vocabulary, worked steps, and underlying schema of a target skill are *directly
+    shown and named* by the instructor — through demonstration, worked examples, guided
+    practice with immediate feedback, and gradual fading of support — rather than
+    left for the learner to induce from problem-solving experience.
+- type: key-claim
+  title: Key claim about Explicit Instruction
+  body: Explicit Instruction outperforms minimally guided discovery for novices acquiring
+    biologically secondary knowledge because novices lack the [[schema]] needed to
+    filter the problem space, and unguided exploration loads [[working-memory]] with
+    search rather than [[schema]]-construction; the meta-analytic record on this is
+    unusually consistent across decades of comparison studies.
+- type: warning
+  title: Common pitfall regarding Explicit Instruction
+  body: '"Explicit Instruction" is often misread as "lecture-only" or "teacher talks,
+    students passive"; the actual specification includes high-frequency student response,
+    immediate corrective feedback, and gradual transfer of responsibility — Explicit
+    Instruction without active practice and feedback is just lecture, and lecture
+    without practice does *not* show the same effects.'

@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-13-neuroscience-substrates",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-13-neuroscience-substrates.md",
+    "notes": "Neural substrates underlying attention, memory, learning, and self-regulation.\nBridges cognitive-psychology notes to biological mechanism."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-13-neuroscience-substrates",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-13-neuroscience-substrates"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Default Mode Network",
+      "kebab": "default-mode-network",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/default-mode-network.yaml",
+      "expected_seed_filename": "default-mode-network-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Neurogenesis",
+      "kebab": "neurogenesis",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/neurogenesis.yaml",
+      "expected_seed_filename": "neurogenesis-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Synaptic Pruning",
+      "kebab": "synaptic-pruning",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/synaptic-pruning.yaml",
+      "expected_seed_filename": "synaptic-pruning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Prefrontal Cortex Function",
+      "kebab": "prefrontal-cortex-function",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/prefrontal-cortex-function.yaml",
+      "expected_seed_filename": "prefrontal-cortex-function-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Dopamine And Learning",
+      "kebab": "dopamine-and-learning",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/dopamine-and-learning.yaml",
+      "expected_seed_filename": "dopamine-and-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Sleep Stages And Memory",
+      "kebab": "sleep-stages-and-memory",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/sleep-stages-and-memory.yaml",
+      "expected_seed_filename": "sleep-stages-and-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cortisol And Memory",
+      "kebab": "cortisol-and-memory",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/cortisol-and-memory.yaml",
+      "expected_seed_filename": "cortisol-and-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Salience Network",
+      "kebab": "salience-network",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/salience-network.yaml",
+      "expected_seed_filename": "salience-network-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Directed Attention Fatigue",
+      "kebab": "directed-attention-fatigue",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/directed-attention-fatigue.yaml",
+      "expected_seed_filename": "directed-attention-fatigue-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Executive Attention Network",
+      "kebab": "executive-attention-network",
+      "brief_path": "briefs/2026-04-25-batch-13-neuroscience-substrates/executive-attention-network.yaml",
+      "expected_seed_filename": "executive-attention-network-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

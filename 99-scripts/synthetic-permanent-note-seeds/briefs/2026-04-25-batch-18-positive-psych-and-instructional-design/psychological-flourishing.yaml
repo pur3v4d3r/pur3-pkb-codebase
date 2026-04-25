@@ -1,0 +1,46 @@
+concept: Psychological Flourishing
+domain: psychology
+secondary_domains:
+- positive-psychology
+- well-being-research
+aliases:
+- flourishing
+- eudaimonic well-being
+- PERMA
+broader:
+- well-being-theories
+related:
+- eudaimonia
+- hedonic-vs-eudaimonic-well-being
+- perma-model
+- seligman-martin
+- ryff-carol
+- character-strengths
+prerequisites:
+- well-being-theories
+confidence: high
+callouts:
+- type: definition
+  title: Psychological Flourishing
+  body: Psychological Flourishing is the conception of well-being as not merely the
+    presence of positive feelings (hedonic well-being) but the realization of *eudaimonic*
+    goods — meaning, engagement, positive relationships, accomplishment, autonomy,
+    personal growth — typically operationalized through frameworks such as Seligman's
+    PERMA model (Positive emotion, Engagement, Relationships, Meaning, Accomplishment)
+    or Ryff's six-factor model of psychological well-being.
+- type: key-claim
+  title: Key claim about Psychological Flourishing
+  body: 'Psychological Flourishing as a construct dissociates well-being from happiness
+    in the popular sense: empirically, eudaimonic indicators predict different outcomes
+    than hedonic indicators (longer-term mental health, physiological markers, longevity
+    correlations) and are independently modifiable, which justifies treating flourishing
+    as a richer target for psychological intervention than mood-focused happiness
+    research alone.'
+- type: warning
+  title: Common pitfall regarding Psychological Flourishing
+  body: Psychological Flourishing is operationalized differently across the major
+    frameworks (PERMA, Ryff's six factors, Diener's flourishing scale, Keyes's mental-health
+    continuum), and these operationalizations capture overlapping but distinct constructs;
+    cross-study comparisons that treat "flourishing" as a single construct without
+    specifying which operationalization is in use produce systematically misleading
+    comparisons.

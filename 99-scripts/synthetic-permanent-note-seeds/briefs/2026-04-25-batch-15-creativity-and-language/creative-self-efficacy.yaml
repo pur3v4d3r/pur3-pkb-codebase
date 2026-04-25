@@ -1,0 +1,40 @@
+concept: Creative Self Efficacy
+domain: cognitive-science
+secondary_domains:
+- motivation
+- creativity-research
+broader:
+- self-efficacy
+related:
+- self-efficacy
+- creative-identity
+- growth-mindset
+- intrinsic-motivation
+- bandura-albert
+- tierney-pamela
+prerequisites:
+- self-efficacy
+confidence: high
+callouts:
+- type: definition
+  title: Creative Self Efficacy
+  body: Creative Self Efficacy is the domain-specific instantiation of Bandura's self-efficacy
+    construct — the individual's belief in their own capacity to produce creative
+    outcomes in a particular domain — and is empirically distinct from generalized
+    self-efficacy, predicting creative performance and persistence beyond what general
+    efficacy or trait creativity alone account for.
+- type: key-claim
+  title: Key claim about Creative Self Efficacy
+  body: 'Creative Self Efficacy mediates the path from creativity-supportive contexts
+    to creative output: managerial support, autonomy, and skill-development opportunities
+    increase creative behavior largely through their effect on creative self-efficacy
+    beliefs, which makes efficacy beliefs the actionable lever for organizational
+    interventions rather than the contextual variables themselves.'
+- type: warning
+  title: Common pitfall regarding Creative Self Efficacy
+  body: Creative Self Efficacy correlates with self-reported creative output more
+    strongly than with externally-rated creative output; some of the construct's apparent
+    predictive power may reflect a shared self-report bias (people who think they
+    are creative also rate their work as creative), and treating creative self-efficacy
+    as an unalloyed proxy for actual creative performance overstates the construct-validity
+    evidence.

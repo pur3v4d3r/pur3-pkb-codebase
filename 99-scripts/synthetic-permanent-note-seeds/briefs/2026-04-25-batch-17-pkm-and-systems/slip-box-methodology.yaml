@@ -1,0 +1,43 @@
+concept: Slip Box Methodology
+domain: pkm
+secondary_domains:
+- knowledge-management
+- note-taking
+aliases:
+- Zettelkasten method
+- Luhmann method
+broader:
+- pkm-frameworks
+related:
+- zettelkasten-method
+- atomic-notes
+- evergreen-notes
+- luhmann-niklas
+- ahrens-sönke
+- networked-thought
+prerequisites:
+- pkm-frameworks
+confidence: high
+callouts:
+- type: definition
+  title: Slip Box Methodology
+  body: Slip Box Methodology is the note-making approach developed and exemplified
+    by Niklas Luhmann, in which atomic notes — each expressing a single idea in the
+    note-maker's own words — are linked to other relevant notes through explicit cross-references,
+    accumulating over years into a densely interconnected structure that functions
+    as a *thinking partner* rather than a passive archive.
+- type: key-claim
+  title: Key claim about Slip Box Methodology
+  body: 'Slip Box Methodology''s productivity payoff is generative rather than mnemonic:
+    the network of explicit links surfaces unexpected adjacencies between ideas accumulated
+    at different times, supporting recombination that the note-maker could not have
+    anticipated when capturing each note in isolation — Luhmann attributed his prolific
+    output to this generative property of the slip box, not to its archival function.'
+- type: warning
+  title: Common pitfall regarding Slip Box Methodology
+  body: Slip Box Methodology is frequently misapplied as a digital filing scheme decorated
+    with backlinks; the methodology requires *atomic, original-language notes* and
+    *deliberate linking that captures specific conceptual relationships*, and replacing
+    those discipline-intensive practices with auto-generated backlinks and verbatim
+    highlights produces a digital archive whose structural appearance mimics a Zettelkasten
+    without delivering its generative benefits.

@@ -1,0 +1,41 @@
+concept: Bystander Effect
+domain: social-psychology
+secondary_domains:
+- social-influence
+- prosocial-behavior
+aliases:
+- Latane-Darley bystander effect
+- diffusion of responsibility
+broader:
+- prosocial-behavior
+related:
+- diffusion-of-responsibility
+- pluralistic-ignorance
+- latane-bibb
+- darley-john
+- prosocial-intervention
+prerequisites:
+- prosocial-behavior
+confidence: high
+callouts:
+- type: definition
+  title: Bystander Effect
+  body: The Bystander Effect, demonstrated by Latane and Darley following the Kitty
+    Genovese case, is the empirical regularity that the likelihood of any single bystander
+    intervening in an emergency *decreases* as the number of co-present bystanders
+    increases, attributed to diffusion of responsibility, pluralistic ignorance about
+    the seriousness of the event, and audience inhibition.
+- type: key-claim
+  title: Key claim about Bystander Effect
+  body: 'The Bystander Effect demonstrated that prosocial action is not adequately
+    predicted by individual moral character: situational factors — specifically the
+    presence of other potential responders — exert effects that frequently dominate
+    dispositional differences, which made the construct foundational to the situationist
+    turn in social psychology.'
+- type: warning
+  title: Common pitfall regarding Bystander Effect
+  body: The Bystander Effect's most-cited illustrative case (the Kitty Genovese murder
+    reported as having 38 witnesses who did nothing) has been substantially revised
+    by historians; later evidence shows fewer witnesses and at least one intervention
+    call, so the case study commonly used to motivate the effect is misleading even
+    though the experimental evidence for the effect is genuine.

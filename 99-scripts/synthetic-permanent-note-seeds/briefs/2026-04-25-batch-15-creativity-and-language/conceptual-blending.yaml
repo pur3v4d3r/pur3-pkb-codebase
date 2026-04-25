@@ -1,0 +1,43 @@
+concept: Conceptual Blending
+domain: cognitive-science
+secondary_domains:
+- cognitive-linguistics
+- creativity-research
+aliases:
+- conceptual integration
+- Fauconnier-Turner blending
+broader:
+- combinatorial-creativity
+related:
+- combinatorial-creativity
+- analogical-mapping
+- mental-spaces
+- fauconnier-gilles
+- turner-mark
+- conceptual-metaphor
+prerequisites:
+- combinatorial-creativity
+confidence: high
+callouts:
+- type: definition
+  title: Conceptual Blending
+  body: Conceptual Blending, the framework developed by Gilles Fauconnier and Mark
+    Turner, models creative meaning-construction as the integration of elements and
+    relations from two or more *input mental spaces* into a *blended space* with emergent
+    structure not present in either input — the standard worked example being "computer
+    desktop" blending physical-desk and computer-file-system inputs into a third,
+    novel conceptual structure.
+- type: key-claim
+  title: Key claim about Conceptual Blending
+  body: Conceptual Blending claims that this integration operation is not a marginal
+    trick of poetic language but a central, pervasive cognitive process underlying
+    scientific theorizing, mathematical discovery, technological invention, and ordinary
+    language understanding — placing a single representational mechanism at the foundation
+    of much of what counts as creative cognition.
+- type: warning
+  title: Common pitfall regarding Conceptual Blending
+  body: Conceptual Blending as a framework is descriptively flexible enough to "explain"
+    almost any case of meaning construction post-hoc, which has drawn criticism that
+    it lacks falsifiability constraints; treating successful Conceptual-Blending analyses
+    of historical creative cases as evidence the theory makes predictive claims overstates
+    the framework's empirical commitments.

@@ -1,0 +1,44 @@
+concept: Behavior Change Techniques
+domain: behavior-change
+secondary_domains:
+- health-psychology
+- intervention-design
+aliases:
+- BCTs
+- BCT taxonomy
+broader:
+- behavior-change
+related:
+- habit-loop
+- transtheoretical-model
+- implementation-intention
+- self-monitoring
+- michie-susan
+- behaviour-change-wheel
+prerequisites:
+- behavior-change
+confidence: high
+callouts:
+- type: definition
+  title: Behavior Change Techniques
+  body: Behavior Change Techniques (BCTs) are the catalogued, atomic ingredients of
+    behavior-change interventions — goal setting, action planning, self-monitoring,
+    social comparison, prompts, contingency management — formalized by Susan Michie
+    and colleagues into a 93-item taxonomy (BCT Taxonomy v1) so that interventions
+    can be described, replicated, and meta-analyzed at the level of mechanism rather
+    than vague brand name.
+- type: key-claim
+  title: Key claim about Behavior Change Techniques
+  body: 'Behavior Change Techniques as a taxonomy made the intervention literature
+    analyzable: instead of comparing "intervention A" against "intervention B" as
+    opaque packages, researchers can decompose each into its BCT components and identify
+    which specific techniques drive the effect — a methodological advance that has
+    surfaced replicable mechanism-level findings (e.g., self-monitoring + feedback)
+    and discredited weakly-supported ones.'
+- type: warning
+  title: Common pitfall regarding Behavior Change Techniques
+  body: Behavior Change Techniques are often invoked as interchangeable "active ingredients";
+    in practice their effects are highly context-dependent and interaction-laden —
+    self-monitoring helps motivated participants and can demoralize discouraged ones
+    — so picking BCTs from the menu without theoretical grounding for the target behavior,
+    population, and context routinely produces null intervention results.

@@ -1,0 +1,46 @@
+concept: General Factor G
+domain: psychology
+secondary_domains:
+- intelligence-research
+- psychometrics
+aliases:
+- g
+- general intelligence
+- Spearman g
+broader:
+- intelligence-theories
+related:
+- spearman-charles
+- factor-analysis
+- fluid-intelligence
+- crystallized-intelligence
+- multiple-intelligences-theory
+- intelligence-testing
+prerequisites:
+- intelligence-theories
+confidence: high
+callouts:
+- type: definition
+  title: General Factor G
+  body: General Factor G is the statistical factor extracted from the consistent positive
+    intercorrelations among diverse cognitive ability tests — first identified by
+    Charles Spearman in 1904 — interpreted as a general cognitive capacity that contributes
+    to performance across all cognitive tasks, alongside task-specific abilities,
+    and constituting the most-replicated finding in differential psychology over more
+    than a century of research.
+- type: key-claim
+  title: Key claim about General Factor G
+  body: 'General Factor G is exceptionally robust as an empirical regularity: the
+    *positive manifold* (positive correlations among all standard cognitive tests)
+    replicates across decades, cultures, ages, and test types, and g extracted from
+    any sufficiently broad cognitive battery correlates substantially with g extracted
+    from any other — making g one of the best-established constructs in psychology,
+    regardless of theoretical disputes about what underlying mechanism it reflects.'
+- type: warning
+  title: Common pitfall regarding General Factor G
+  body: 'General Factor G''s robustness as a *statistical* regularity does not settle
+    the *mechanistic* interpretation: g is consistent with multiple underlying causal
+    pictures (a single biological capacity, mutualism among independent cognitive
+    abilities, or sampling effects from heterogeneous abilities), and the popular
+    framing of g as "general intelligence" embeds a specific causal interpretation
+    that the statistical evidence alone does not establish.'

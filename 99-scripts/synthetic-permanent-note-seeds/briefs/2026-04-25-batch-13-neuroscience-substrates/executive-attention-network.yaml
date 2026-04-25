@@ -1,0 +1,41 @@
+concept: Executive Attention Network
+domain: neuroscience
+secondary_domains:
+- cognitive-neuroscience
+- attention-research
+aliases:
+- frontoparietal control network
+- executive control network
+broader:
+- large-scale-brain-networks
+related:
+- default-mode-network
+- salience-network
+- working-memory
+- prefrontal-cortex-function
+- posner-attention-networks
+prerequisites:
+- large-scale-brain-networks
+confidence: high
+callouts:
+- type: definition
+  title: Executive Attention Network
+  body: The Executive Attention Network — distributed across dorsolateral prefrontal
+    cortex, posterior parietal cortex, and dorsal anterior cingulate — is the large-scale
+    brain network that supports goal-directed, top-down deployment of attention, conflict
+    monitoring, and flexible task-set reconfiguration, instantiating what Posner's
+    tripartite attention model calls the "executive" attention system.
+- type: key-claim
+  title: Key claim about Executive Attention Network
+  body: The Executive Attention Network is the empirical substrate of *cognitive control*
+    and shows reliable engagement during tasks that require overriding habitual responses
+    (Stroop, flanker, task-switching paradigms); its development through childhood
+    and into adolescence parallels the maturation of executive function and is a leading
+    neural correlate of fluid intelligence individual differences.
+- type: warning
+  title: Common pitfall regarding Executive Attention Network
+  body: The Executive Attention Network is sometimes equated with "willpower" or generic
+    "focus"; the network's computations are specifically goal-maintenance, conflict-monitoring,
+    and biasing of sensory processing — not a domain-general energy reservoir — so
+    executive-attention-based prescriptions ("strengthen your focus muscle") overgeneralize
+    from cleanly-defined paradigms to ill-defined everyday concepts.

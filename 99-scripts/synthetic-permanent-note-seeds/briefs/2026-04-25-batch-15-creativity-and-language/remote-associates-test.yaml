@@ -1,0 +1,41 @@
+concept: Remote Associates Test
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- individual-differences
+aliases:
+- RAT
+- Mednick RAT
+broader:
+- creativity-measurement
+related:
+- insight-problem-solving
+- divergent-thinking
+- mednick-sarnoff
+- associative-hierarchies
+- creative-self-efficacy
+prerequisites:
+- creativity-measurement
+confidence: high
+callouts:
+- type: definition
+  title: Remote Associates Test
+  body: The Remote Associates Test, developed by Sarnoff Mednick, presents triads
+    of words (e.g., COTTAGE / SWISS / CAKE) and requires the participant to identify
+    a fourth word (CHEESE) that is associatively related to all three — operationalizing
+    creativity as the capacity to access remote associates in the semantic network
+    and serving as the workhorse stimulus for laboratory studies of insight cognition.
+- type: key-claim
+  title: Key claim about Remote Associates Test
+  body: The Remote Associates Test has the rare combination of brevity, scoring objectivity,
+    and predictive validity for self-reported creative achievement that made it the
+    dominant individual-differences measure in creativity research, and its triads
+    have served as the standardized stimulus pool through which much of the neuroscience
+    of insight has been characterized.
+- type: warning
+  title: Common pitfall regarding Remote Associates Test
+  body: The Remote Associates Test measures one narrow aspect of creative cognition
+    (verbal-associative reach); its correlation with creative achievement in non-verbal
+    domains (visual art, musical composition, scientific theorizing) is modest, so
+    equating RAT performance with "general creativity" overgeneralizes from a verbal-associative
+    paradigm to creative cognition broadly construed.

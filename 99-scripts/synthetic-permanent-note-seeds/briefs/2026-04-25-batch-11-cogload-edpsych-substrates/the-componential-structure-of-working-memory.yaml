@@ -1,0 +1,41 @@
+concept: The Componential Structure Of Working Memory
+domain: educational-psychology
+secondary_domains:
+- cognitive-psychology
+- memory
+aliases:
+- working memory components
+broader:
+- working-memory
+related:
+- phonological-loop
+- visuospatial-sketchpad
+- central-executive
+- episodic-buffer
+- baddeley-and-hitch-working-memory-model
+prerequisites:
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: The Componential Structure Of Working Memory
+  body: The Componential Structure Of Working Memory is the multi-component model
+    in which short-term cognitive workspace is decomposed into specialized subsystems
+    — a phonological loop for verbal/acoustic material, a visuospatial sketchpad for
+    visual and spatial material, a central executive that allocates attention and
+    coordinates the slave systems, and an episodic buffer that integrates information
+    across modalities and links to long-term memory.
+- type: key-claim
+  title: Key claim about The Componential Structure Of Working Memory
+  body: 'The Componential Structure Of Working Memory predicts dual-task interference
+    patterns that a unitary short-term store cannot: two verbal tasks compete heavily,
+    two spatial tasks compete heavily, but a verbal-and-spatial pair barely interferes
+    — direct behavioural evidence for modality-specific resources rather than one
+    shared buffer.'
+- type: warning
+  title: Common pitfall regarding The Componential Structure Of Working Memory
+  body: Treating The Componential Structure Of Working Memory as a literal anatomical
+    map is a common misreading; the components are functional roles inferred from
+    interference patterns, and current neuroscience suggests overlapping neural substrates
+    rather than cleanly dedicated brain regions, so the model's value is explanatory
+    and predictive, not localizational.

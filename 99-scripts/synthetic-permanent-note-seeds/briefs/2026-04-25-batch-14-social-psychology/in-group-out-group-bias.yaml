@@ -1,0 +1,43 @@
+concept: In Group Out Group Bias
+domain: social-psychology
+secondary_domains:
+- intergroup-relations
+- social-cognition
+aliases:
+- in-group favoritism
+- intergroup bias
+broader:
+- social-identity-theory
+related:
+- social-identity-theory
+- self-categorization-theory
+- minimal-group-paradigm
+- prejudice
+- stereotype-formation
+- contact-hypothesis
+prerequisites:
+- social-identity-theory
+confidence: high
+callouts:
+- type: definition
+  title: In Group Out Group Bias
+  body: In Group Out Group Bias is the systematic tendency to evaluate, allocate resources
+    to, and trust members of one's own social category more favorably than members
+    of other categories — emerging robustly even when group membership is arbitrary
+    and short-lived, as in Tajfel's minimal-group experiments — and forming the proximal
+    mechanism behind much intergroup discrimination and conflict.
+- type: key-claim
+  title: Key claim about In Group Out Group Bias
+  body: 'In Group Out Group Bias is asymmetric in an important way: in-group favoritism
+    appears more readily than out-group derogation, meaning that intergroup discrimination
+    is more often a consequence of *preferential treatment of one''s own* than of
+    *active hostility toward others* — a distinction that has consequences for which
+    interventions (resource-allocation rules vs. attitude-change campaigns) are appropriately
+    targeted.'
+- type: warning
+  title: Common pitfall regarding In Group Out Group Bias
+  body: In Group Out Group Bias is sometimes invoked to explain any intergroup difference
+    in outcomes; structural and historical factors typically dominate population-level
+    inequalities, and attributing disparities primarily to dyadic intergroup bias
+    risks misallocating intervention effort away from the structural mechanisms that
+    account for most variance.

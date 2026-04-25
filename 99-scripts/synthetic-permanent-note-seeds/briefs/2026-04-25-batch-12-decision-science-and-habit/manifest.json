@@ -1,0 +1,108 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-12-decision-science-and-habit",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-12-decision-science-and-habit.md",
+    "notes": "Behavioral economics core (prospect theory, biases, choice architecture)\n+ naturalistic decision-making + behavior-change/habit cluster. Seeds a\nsubstrate the metacognition / motivation / pedagogy notes already\nreference as ghost links."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-12-decision-science-and-habit",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-12-decision-science-and-habit"
+  },
+  "counts": {
+    "parsed": 14,
+    "accepted": 14,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Prospect Theory",
+      "kebab": "prospect-theory",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/prospect-theory.yaml",
+      "expected_seed_filename": "prospect-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Loss Aversion",
+      "kebab": "loss-aversion",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/loss-aversion.yaml",
+      "expected_seed_filename": "loss-aversion-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Hyperbolic Discounting",
+      "kebab": "hyperbolic-discounting",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/hyperbolic-discounting.yaml",
+      "expected_seed_filename": "hyperbolic-discounting-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Present Bias",
+      "kebab": "present-bias",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/present-bias.yaml",
+      "expected_seed_filename": "present-bias-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Status Quo Bias",
+      "kebab": "status-quo-bias",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/status-quo-bias.yaml",
+      "expected_seed_filename": "status-quo-bias-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Choice Architecture",
+      "kebab": "choice-architecture",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/choice-architecture.yaml",
+      "expected_seed_filename": "choice-architecture-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Nudge Theory",
+      "kebab": "nudge-theory",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/nudge-theory.yaml",
+      "expected_seed_filename": "nudge-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Satisficing",
+      "kebab": "satisficing",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/satisficing.yaml",
+      "expected_seed_filename": "satisficing-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Recognition Primed Decision Model",
+      "kebab": "recognition-primed-decision-model",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/recognition-primed-decision-model.yaml",
+      "expected_seed_filename": "recognition-primed-decision-model-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Naturalistic Decision Making",
+      "kebab": "naturalistic-decision-making",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/naturalistic-decision-making.yaml",
+      "expected_seed_filename": "naturalistic-decision-making-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Habit Loop",
+      "kebab": "habit-loop",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/habit-loop.yaml",
+      "expected_seed_filename": "habit-loop-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Transtheoretical Model",
+      "kebab": "transtheoretical-model",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/transtheoretical-model.yaml",
+      "expected_seed_filename": "transtheoretical-model-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Behavior Change Techniques",
+      "kebab": "behavior-change-techniques",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/behavior-change-techniques.yaml",
+      "expected_seed_filename": "behavior-change-techniques-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Temptation Bundling",
+      "kebab": "temptation-bundling",
+      "brief_path": "briefs/2026-04-25-batch-12-decision-science-and-habit/temptation-bundling.yaml",
+      "expected_seed_filename": "temptation-bundling-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

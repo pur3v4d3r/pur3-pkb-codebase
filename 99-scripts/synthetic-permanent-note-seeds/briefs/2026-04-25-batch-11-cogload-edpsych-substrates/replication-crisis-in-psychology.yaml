@@ -1,0 +1,41 @@
+concept: Replication Crisis In Psychology
+domain: research-methods
+secondary_domains:
+- philosophy-of-science
+- meta-science
+aliases:
+- replication crisis
+broader:
+- meta-science
+related:
+- research-methods-in-education
+- p-hacking
+- preregistration
+- registered-reports
+- scientific-communication
+- publication-bias
+prerequisites:
+- scientific-method
+confidence: high
+callouts:
+- type: definition
+  title: Replication Crisis In Psychology
+  body: The Replication Crisis In Psychology is the empirical finding that a substantial
+    fraction of published psychological findings — including landmark, textbook results
+    — fail to replicate when independent teams repeat the studies with adequate power
+    and faithful protocols, exposed most starkly by large-scale projects (Open Science
+    Collaboration 2015, Many Labs) that replicated under 40% of high-profile effects.
+- type: key-claim
+  title: Key claim about Replication Crisis In Psychology
+  body: The Replication Crisis In Psychology was not principally caused by outright
+    fraud but by structural features of the field — small samples, flexible analytic
+    pipelines, publication bias against null results, and HARKing (hypothesizing after
+    results known) — which is why methodological reforms (preregistration, registered
+    reports, open data) target the *system* rather than individual researchers.
+- type: warning
+  title: Common pitfall regarding Replication Crisis In Psychology
+  body: The Replication Crisis In Psychology is sometimes used to dismiss psychology
+    wholesale; the actual lesson is more discriminating — well-powered, preregistered,
+    mechanism-rich findings replicate at much higher rates, and rejecting psychology
+    because of the crisis is symmetrical to the original error of overweighting any
+    single underpowered study.

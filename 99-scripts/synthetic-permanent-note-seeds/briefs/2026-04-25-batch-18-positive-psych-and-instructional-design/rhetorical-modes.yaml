@@ -1,0 +1,51 @@
+concept: Rhetorical Modes
+domain: argumentation
+secondary_domains:
+- rhetoric
+- composition-studies
+- persuasion
+aliases:
+- modes of discourse
+- modes of writing
+- ethos-pathos-logos
+broader:
+- rhetoric
+related:
+- aristotle
+- ethos
+- pathos
+- logos
+- narration
+- exposition
+- description
+- argumentation
+- persuasion
+prerequisites:
+- rhetoric
+confidence: high
+callouts:
+- type: definition
+  title: Rhetorical Modes
+  body: 'Rhetorical Modes is a term used in two related senses: (1) the classical
+    Aristotelian *appeals* — *ethos* (credibility of the speaker), *pathos* (emotional
+    engagement of the audience), and *logos* (logical structure of the argument) —
+    that constitute the persuasive resources available to any speaker, and (2) the
+    composition-studies *modes of discourse* — narration, description, exposition,
+    and argumentation — that classify the dominant purposes of pieces of writing.'
+- type: key-claim
+  title: Key claim about Rhetorical Modes
+  body: 'Rhetorical Modes in the Aristotelian sense remains a productive analytical
+    framework for any persuasive communication: identifying which appeals a piece
+    of communication is making, and which it is neglecting or overusing, is a robust
+    diagnostic that survives the wide variations across media (oral, written, visual,
+    digital) and across centuries of rhetorical practice precisely because it tracks
+    irreducible features of communicative situations rather than features of any particular
+    medium.'
+- type: warning
+  title: Common pitfall regarding Rhetorical Modes
+  body: Rhetorical Modes in the composition-studies sense (narration, description,
+    exposition, argumentation) is a pedagogical taxonomy whose neat separation does
+    not survive examination of actual texts, which routinely blend modes; treating
+    the modes as discrete writing-types to be practiced in isolation produces artificial
+    student writing and ignores how mode-blending is itself a core craft skill of
+    mature prose.

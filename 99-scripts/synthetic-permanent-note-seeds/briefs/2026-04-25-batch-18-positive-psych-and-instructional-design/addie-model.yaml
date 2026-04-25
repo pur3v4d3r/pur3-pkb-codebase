@@ -1,0 +1,46 @@
+concept: Addie Model
+domain: instructional-design
+secondary_domains:
+- educational-psychology
+- training-design
+aliases:
+- ADDIE
+broader:
+- instructional-design-models
+related:
+- analyze-design-develop-implement-evaluate
+- instructional-systems-design
+- gagnes-conditions-of-learning
+- merrill-s-first-principles
+- agile-instructional-design
+- sam-model
+prerequisites:
+- instructional-design-models
+confidence: high
+callouts:
+- type: definition
+  title: Addie Model
+  body: The ADDIE Model is the most widely-used instructional-systems-design process
+    model, organizing instructional development into five phases — *Analysis* (audience,
+    context, needs), *Design* (objectives, sequence, assessments), *Development* (production
+    of instructional materials), *Implementation* (delivery), and *Evaluation* (formative
+    throughout, summative after) — with ADDIE serving as the canonical reference for
+    ID process work despite no single original author and various competing rapid
+    and agile alternatives.
+- type: key-claim
+  title: Key claim about Addie Model
+  body: 'The ADDIE Model''s longevity reflects its function as a *language of organization*
+    for ID work rather than as a prescriptive method: ADDIE phases give cross-organizational
+    ID teams shared vocabulary and shared expectations about what work each phase
+    produces, which is why ADDIE persists as the discipline''s lingua franca even
+    where practitioners follow more iterative or agile execution patterns within each
+    phase.'
+- type: warning
+  title: Common pitfall regarding Addie Model
+  body: The ADDIE Model is frequently caricatured as inherently waterfall and contrasted
+    with "agile" alternatives; in practice ADDIE phases are explicitly meant to be
+    iterative with formative evaluation looping back to earlier phases, and the waterfall
+    reading is a misreading of the model — though the misreading has been widespread
+    enough that practitioners working in agile contexts often need to either rebrand
+    their work as non-ADDIE or actively defend ADDIE against the strawman version
+    of itself.

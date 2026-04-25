@@ -1,0 +1,43 @@
+concept: The History And Evolution Of Cognitive Load Theory
+domain: educational-psychology
+secondary_domains:
+- history-of-psychology
+- instructional-design
+aliases:
+- CLT history
+broader:
+- cognitive-load
+related:
+- the-evolution-of-germane-load
+- schema
+- worked-example
+- evolutionary-educational-psychology
+- biological-primary-knowledge
+- biological-secondary-knowledge
+prerequisites:
+- cognitive-load
+confidence: high
+callouts:
+- type: definition
+  title: The History And Evolution Of Cognitive Load Theory
+  body: The History And Evolution Of Cognitive Load Theory traces the development
+    of CLT from Sweller's original 1988 work on problem-solving and goal-free problems,
+    through the introduction of intrinsic/extraneous/germane categories in the 1990s,
+    the integration with multimedia learning principles, the alignment with evolutionary
+    educational psychology (biological primary vs. secondary knowledge), and the late
+    re-conceptualization of germane load as resource allocation rather than a separate
+    load type.
+- type: key-claim
+  title: Key claim about The History And Evolution Of Cognitive Load Theory
+  body: The History And Evolution Of Cognitive Load Theory shows that the framework's
+    predictive successes (worked-example effect, expertise reversal, redundancy effect)
+    drove its theoretical revisions rather than the reverse — empirical anomalies
+    forced the construct refinement, which is why CLT survived where many cognitive-instructional
+    theories did not.
+- type: warning
+  title: Common pitfall regarding The History And Evolution Of Cognitive Load Theory
+  body: Treating The History And Evolution Of Cognitive Load Theory as a unified,
+    settled theory ignores ongoing internal disputes — measurement of load, the status
+    of germane load, and the boundary between intrinsic and extraneous load all remain
+    contested; "CLT says X" claims should be qualified by which historical layer of
+    the theory is being invoked.

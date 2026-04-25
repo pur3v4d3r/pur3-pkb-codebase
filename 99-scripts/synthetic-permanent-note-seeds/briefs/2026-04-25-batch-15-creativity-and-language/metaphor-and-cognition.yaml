@@ -1,0 +1,44 @@
+concept: Metaphor And Cognition
+domain: cognitive-science
+secondary_domains:
+- cognitive-linguistics
+- conceptual-metaphor-theory
+aliases:
+- conceptual metaphor
+- Lakoff-Johnson metaphor theory
+broader:
+- language-and-thought
+related:
+- conceptual-blending
+- analogical-mapping
+- embodied-cognition
+- lakoff-george
+- johnson-mark
+- image-schemas
+prerequisites:
+- language-and-thought
+confidence: high
+callouts:
+- type: definition
+  title: Metaphor And Cognition
+  body: Metaphor And Cognition, in the Lakoff-Johnson tradition of Conceptual Metaphor
+    Theory, holds that metaphor is not merely a literary ornament but a pervasive
+    cognitive operation in which abstract conceptual domains (TIME, ARGUMENT, MORALITY)
+    are systematically structured by mappings from concrete source domains (SPACE,
+    WAR, CLEANLINESS), with the source-domain inferential structure imported into
+    reasoning about the target.
+- type: key-claim
+  title: Key claim about Metaphor And Cognition
+  body: Metaphor And Cognition predicts that surface linguistic metaphors ("time is
+    running out," "we attacked his argument") reflect underlying conceptual mappings
+    whose inferential consequences shape reasoning even when no metaphorical language
+    is present — a claim that has found empirical support in priming studies showing
+    that subtle metaphor manipulations measurably shift judgments about crime policy,
+    economic decisions, and moral reasoning.
+- type: warning
+  title: Common pitfall regarding Metaphor And Cognition
+  body: Metaphor And Cognition's strong cognitive-priming effects have been a target
+    of replication concern; while the broader thesis that metaphors structure abstract
+    reasoning is well supported, the specific claim that small metaphor primes produce
+    reliable downstream judgment shifts has shown weaker replication than the original
+    literature implied.

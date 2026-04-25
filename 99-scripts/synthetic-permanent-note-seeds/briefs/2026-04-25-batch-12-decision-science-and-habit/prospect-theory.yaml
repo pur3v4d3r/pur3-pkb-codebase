@@ -1,0 +1,41 @@
+concept: Prospect Theory
+domain: decision-science
+secondary_domains:
+- behavioral-economics
+- cognitive-psychology
+aliases:
+- Kahneman-Tversky prospect theory
+broader:
+- decision-under-uncertainty
+related:
+- loss-aversion
+- expected-utility-theory
+- framing-effect
+- reference-dependence
+- kahneman-daniel
+- tversky-amos
+prerequisites:
+- expected-utility-theory
+confidence: high
+callouts:
+- type: definition
+  title: Prospect Theory
+  body: Prospect Theory is the descriptive theory of decision under risk, developed
+    by Kahneman and Tversky in 1979, in which people evaluate outcomes as *gains and
+    losses relative to a reference point* rather than as final wealth states, weight
+    probabilities non-linearly (overweighting small probabilities, underweighting
+    moderate-to-large ones), and exhibit asymmetric sensitivity in which losses loom
+    roughly twice as large as equivalent gains.
+- type: key-claim
+  title: Key claim about Prospect Theory
+  body: Prospect Theory replaced expected-utility theory as the standard descriptive
+    account of risky choice because it predicts a wide menu of robust anomalies —
+    the certainty effect, the reflection effect, the isolation effect, framing reversals
+    — with a single value-function-plus-weighting-function structure, where expected-utility
+    theory required *post-hoc* exceptions for each.
+- type: warning
+  title: Common pitfall regarding Prospect Theory
+  body: Prospect Theory is descriptive, not normative; using it to argue that loss-averse
+    choices are "rational" or that expected-utility is "wrong" conflates two questions
+    — Prospect Theory describes how people *do* choose, expected-utility describes
+    how a coherent agent *should* choose, and the gap between them is the entire point.

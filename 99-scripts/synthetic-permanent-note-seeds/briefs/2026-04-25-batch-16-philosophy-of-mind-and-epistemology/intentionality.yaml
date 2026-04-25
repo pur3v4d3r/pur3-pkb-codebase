@@ -1,0 +1,42 @@
+concept: Intentionality
+domain: philosophy
+secondary_domains:
+- philosophy-of-mind
+- philosophy-of-language
+aliases:
+- aboutness
+broader:
+- philosophy-of-mind
+related:
+- phenomenology
+- mental-content
+- brentano-franz
+- searle-john
+- computational-theory-of-mind
+- representationalism
+prerequisites:
+- philosophy-of-mind
+confidence: high
+callouts:
+- type: definition
+  title: Intentionality
+  body: Intentionality, in the philosophical sense established by Franz Brentano and
+    refined throughout twentieth-century philosophy of mind, is the property of mental
+    states by which they are *about* or *directed toward* objects, properties, or
+    states of affairs — beliefs are about propositions, desires about possible states,
+    perceptions about scenes — a feature Brentano took to demarcate the mental from
+    the physical.
+- type: key-claim
+  title: Key claim about Intentionality
+  body: 'Intentionality poses a foundational challenge to physicalist theories of
+    mind: physical states do not appear, on their face, to exhibit aboutness, so any
+    naturalistic account of mind owes an explanation of how aboutness could arise
+    from non-intentional physical substrate — the "naturalization of intentionality"
+    project pursued by Fodor, Dretske, Millikan, and others, with no consensus solution.'
+- type: warning
+  title: Common pitfall regarding Intentionality
+  body: Intentionality is often informally used as a synonym for "intent" or "purpose";
+    the philosophical sense is broader (any directedness toward content, including
+    beliefs and perceptions, not just goals) and the conflation produces miscommunication
+    between philosophers and applied audiences who hear "intentionality" through the
+    everyday meaning.

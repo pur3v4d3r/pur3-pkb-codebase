@@ -1,0 +1,43 @@
+concept: Epistemic Injustice
+domain: epistemology
+secondary_domains:
+- social-epistemology
+- political-philosophy
+aliases:
+- Fricker epistemic injustice
+broader:
+- social-epistemology
+related:
+- testimonial-injustice
+- hermeneutical-injustice
+- fricker-miranda
+- credibility-economy
+- standpoint-theory
+- identity-prejudice
+prerequisites:
+- social-epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Injustice
+  body: Epistemic Injustice, developed by Miranda Fricker, is the family of distinctively
+    *epistemic* wrongs done to a person in their capacity as a knower — most prominently
+    *testimonial injustice* (a hearer accords reduced credibility to a speaker because
+    of identity prejudice) and *hermeneutical injustice* (the resources for a marginalized
+    group to interpret and articulate their own experience are absent from the collective
+    conceptual repertoire).
+- type: key-claim
+  title: Key claim about Epistemic Injustice
+  body: Epistemic Injustice extends moral and political philosophy into the epistemic
+    domain by identifying wrongs that are not reducible to material harm or general
+    moral wrong but are *constitutively epistemic* — being wronged as a knower — and
+    gives a framework that has been extensively applied across feminist epistemology,
+    critical race theory, disability studies, and clinical communication research.
+- type: warning
+  title: Common pitfall regarding Epistemic Injustice
+  body: Epistemic Injustice as a concept has been criticized for over-extension in
+    applied uses, where any disagreement involving a marginalized speaker is sometimes
+    labeled testimonial injustice without verification that *identity prejudice* (rather
+    than ordinary disagreement) is the operative mechanism; the original framework
+    requires that prejudice cause the credibility deficit, and casual applications
+    that skip this requirement weaken the construct.

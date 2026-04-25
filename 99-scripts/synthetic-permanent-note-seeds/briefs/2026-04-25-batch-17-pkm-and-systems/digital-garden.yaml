@@ -1,0 +1,41 @@
+concept: Digital Garden
+domain: pkm
+secondary_domains:
+- knowledge-management
+- web-publishing
+aliases:
+- digital gardening
+- public PKM
+broader:
+- pkm-publishing
+related:
+- zettelkasten-method
+- evergreen-notes
+- networked-thought
+- appleton-maggie
+- learning-in-public
+prerequisites:
+- pkm-publishing
+confidence: high
+callouts:
+- type: definition
+  title: Digital Garden
+  body: A Digital Garden is a non-chronological, networked, perpetually-revised personal
+    website that publishes work-in-progress thinking organized by topic and link rather
+    than by date — a deliberate contrast with the blog format's reverse-chronological
+    timeline — emphasizing growth over time of an interconnected body of notes the
+    gardener tends rather than discrete posts the blogger publishes.
+- type: key-claim
+  title: Key claim about Digital Garden
+  body: 'A Digital Garden treats publishing as part of the *thinking process* rather
+    than its terminal output: ideas are released in tentative, partially-formed states
+    (seedlings) and revised toward maturity (evergreens) over months and years, which
+    lowers the activation energy for sharing thought and supports the kind of slow
+    knowledge-construction that the polished-essay format actively discourages.'
+- type: warning
+  title: Common pitfall regarding Digital Garden
+  body: A Digital Garden requires sustained tending or it degrades into a navigationally
+    hostile sprawl of half-finished notes; the format that succeeds when actively
+    gardened can produce a worse user experience than a tidy blog when neglected,
+    so adopting the format without committing to ongoing curation usually delivers
+    worse outcomes than the conventional alternative it was meant to improve on.

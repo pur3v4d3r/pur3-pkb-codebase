@@ -1,0 +1,42 @@
+concept: Justified True Belief
+domain: epistemology
+secondary_domains:
+- analytic-epistemology
+aliases:
+- JTB
+- classical analysis of knowledge
+broader:
+- theories-of-knowledge
+related:
+- gettier-problem
+- epistemic-justification
+- foundationalism
+- coherentism
+- reliabilism
+- plato-theaetetus
+prerequisites:
+- theories-of-knowledge
+confidence: high
+callouts:
+- type: definition
+  title: Justified True Belief
+  body: Justified True Belief is the classical analysis of knowledge — traceable to
+    Plato's Theaetetus and dominant through most of the twentieth century — that holds
+    a subject S knows that p iff (1) p is true, (2) S believes p, and (3) S is justified
+    in believing p, with the three conditions taken to be jointly sufficient as well
+    as severally necessary for knowledge.
+- type: key-claim
+  title: Key claim about Justified True Belief
+  body: Justified True Belief was decisively challenged in 1963 by Edmund Gettier's
+    three-page paper presenting cases (now called Gettier cases) where the three JTB
+    conditions are satisfied but the subject intuitively does not know — driving a
+    half-century research program in epistemology to either find the missing fourth
+    condition, replace justification with a more demanding notion, or argue that knowledge
+    resists analysis altogether.
+- type: warning
+  title: Common pitfall regarding Justified True Belief
+  body: Justified True Belief is often taught as if it were a straightforwardly defective
+    account refuted by Gettier; the modern dialectic is more complex — some epistemologists
+    (Williamson) argue knowledge is unanalyzable, others defend modified JTB, and
+    Gettier's intuitions themselves have been contested by experimental philosophers
+    — so the simple "JTB is dead" narrative misrepresents an active debate.

@@ -1,0 +1,42 @@
+concept: Choice Architecture
+domain: decision-science
+secondary_domains:
+- behavioral-economics
+- public-policy
+- design
+aliases:
+- decision architecture
+broader:
+- behavioral-economics
+related:
+- nudge-theory
+- default-effect
+- status-quo-bias
+- libertarian-paternalism
+- thaler-richard
+- sunstein-cass
+prerequisites:
+- decision-biases
+confidence: high
+callouts:
+- type: definition
+  title: Choice Architecture
+  body: Choice Architecture is the deliberate design of the context in which decisions
+    are made — the ordering and framing of options, the choice of defaults, the salience
+    of information, the presence or absence of friction — recognizing that there is
+    no neutral way to present a choice and that the architect's design choices systematically
+    shape what is chosen, regardless of intent.
+- type: key-claim
+  title: Key claim about Choice Architecture
+  body: Choice Architecture establishes that "letting people choose freely" is a coherent
+    principle only relative to a specific architecture; since *some* architecture
+    must exist, the question is not whether to influence choice but which influence
+    to exert, which reframes paternalism from an on/off switch into a design dimension
+    to be argued explicitly rather than denied.
+- type: warning
+  title: Common pitfall regarding Choice Architecture
+  body: Choice Architecture is sometimes presented as costless behavior change; in
+    practice, choice-architecture interventions can backfire when defaults conflict
+    with strong preferences, when the architect misjudges which option is "in the
+    chooser's interest," or when transparency about the architecture undermines its
+    effect — none of which appear in the simplified policy-paper version of the concept.

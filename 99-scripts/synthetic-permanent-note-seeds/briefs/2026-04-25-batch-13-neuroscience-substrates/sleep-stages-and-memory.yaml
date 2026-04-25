@@ -1,0 +1,44 @@
+concept: Sleep Stages And Memory
+domain: neuroscience
+secondary_domains:
+- sleep-research
+- memory-consolidation
+aliases:
+- sleep-dependent memory consolidation
+broader:
+- memory-consolidation
+related:
+- memory-consolidation
+- slow-wave-sleep
+- REM-sleep
+- hippocampus
+- episodic-memory
+- procedural-memory
+- sleep-spindles
+prerequisites:
+- memory-consolidation
+- sleep-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Sleep Stages And Memory
+  body: 'Sleep Stages And Memory describes the differential contribution of sleep
+    architecture to memory consolidation: slow-wave sleep (NREM3) supports consolidation
+    of declarative/episodic memories via hippocampal-neocortical replay coordinated
+    with sleep spindles and slow oscillations, while REM sleep preferentially supports
+    consolidation of emotional and procedural memories and is implicated in creative
+    recombination of memory traces.'
+- type: key-claim
+  title: Key claim about Sleep Stages And Memory
+  body: Sleep Stages And Memory establishes that sleep is not a passive recovery state
+    but an *active processing window* during which memory traces acquired during wake
+    are reactivated, stabilized, and integrated into existing knowledge structures
+    — a finding that licenses sleep deprivation as a serious pedagogical concern rather
+    than a tolerable lifestyle cost for learners.
+- type: warning
+  title: Common pitfall regarding Sleep Stages And Memory
+  body: Sleep Stages And Memory findings are sometimes used to motivate aggressive
+    sleep-engineering claims (e.g., scheduled napping, targeted memory reactivation)
+    whose effect sizes outside the laboratory are smaller and less reliable than press
+    accounts suggest; the robust takeaway is "don't sacrifice sleep when learning
+    matters," not "specific stage-targeting yields large gains."

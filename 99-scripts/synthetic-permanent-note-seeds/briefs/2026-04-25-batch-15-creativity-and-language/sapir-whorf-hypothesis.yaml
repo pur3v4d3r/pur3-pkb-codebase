@@ -1,0 +1,43 @@
+concept: Sapir Whorf Hypothesis
+domain: cognitive-science
+secondary_domains:
+- linguistic-relativity
+- cognitive-linguistics
+aliases:
+- linguistic relativity
+- Whorfian hypothesis
+broader:
+- language-and-thought
+related:
+- language-acquisition
+- color-categorization
+- spatial-cognition
+- whorf-benjamin-lee
+- sapir-edward
+- weak-vs-strong-relativity
+prerequisites:
+- language-and-thought
+confidence: high
+callouts:
+- type: definition
+  title: Sapir Whorf Hypothesis
+  body: The Sapir Whorf Hypothesis is the family of claims that the structure of a
+    speaker's native language influences habitual cognition — its strong form (linguistic
+    determinism) holds that language *constrains* what can be thought, while its weak
+    form (linguistic relativity) holds that language *biases* attention, categorization,
+    and memory in measurable ways without making non-linguistic cognition impossible.
+- type: key-claim
+  title: Key claim about Sapir Whorf Hypothesis
+  body: The Sapir Whorf Hypothesis in its strong form has been empirically rejected
+    (speakers of languages without exact lexical equivalents can readily learn new
+    categories), but the weak form has accumulated supportive evidence in domains
+    including color discrimination, spatial reference frames, grammatical-gender-driven
+    object categorization, and time-as-spatial-metaphor, supporting linguistic relativity
+    as a real but bounded effect.
+- type: warning
+  title: Common pitfall regarding Sapir Whorf Hypothesis
+  body: The Sapir Whorf Hypothesis is frequently illustrated with the apocryphal "Eskimo
+    words for snow" claim — both the original count and the inference are misleading
+    — and broader popular treatments routinely overstate effect sizes; the rigorous
+    form of the hypothesis worth defending is much narrower than the colorful version
+    that dominates non-specialist discussion.

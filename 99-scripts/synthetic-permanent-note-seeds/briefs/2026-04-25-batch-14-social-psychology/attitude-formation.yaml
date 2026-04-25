@@ -1,0 +1,40 @@
+concept: Attitude Formation
+domain: social-psychology
+secondary_domains:
+- social-cognition
+- attitude-research
+broader:
+- attitude-research
+related:
+- persuasion-theory
+- classical-conditioning
+- mere-exposure-effect
+- self-perception-theory
+- attitude-strength
+- implicit-attitudes
+prerequisites:
+- attitude-research
+confidence: high
+callouts:
+- type: definition
+  title: Attitude Formation
+  body: Attitude Formation is the process by which evaluative dispositions toward
+    objects, people, or issues are acquired through three principal routes — affective
+    conditioning (object becomes associated with positive or negative affect), behavioral
+    inference (attitude inferred from one's own behavior, per self-perception theory),
+    and cognitive evaluation (attitude derived from beliefs about object attributes
+    weighted by evaluation).
+- type: key-claim
+  title: Key claim about Attitude Formation
+  body: Attitude Formation processes operate concurrently and produce attitudes that
+    vary in *strength* — accessibility, certainty, importance, behavioral predictiveness
+    — and the strength dimension matters more than the direction for predicting whether
+    an attitude will resist persuasion, guide behavior, or remain stable over time,
+    a fact that early attitude-direction-only research systematically obscured.
+- type: warning
+  title: Common pitfall regarding Attitude Formation
+  body: Attitude Formation models often imply that attitudes determine behavior; the
+    attitude-behavior correlation is reliably moderate (around r ≈ 0.3 in early reviews,
+    higher only under specific conditions of attitude-behavior measurement compatibility),
+    so behavior prediction from attitudes alone is a weaker inferential tool than
+    introductory texts often suggest.

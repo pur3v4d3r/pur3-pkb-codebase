@@ -1,0 +1,43 @@
+concept: Consciousness Theories
+domain: philosophy
+secondary_domains:
+- philosophy-of-mind
+- cognitive-neuroscience
+broader:
+- theories-of-mind
+related:
+- global-workspace-theory
+- integrated-information-theory
+- higher-order-theories
+- qualia
+- hard-problem-of-consciousness
+- dehaene-stanislas
+prerequisites:
+- theories-of-mind
+confidence: high
+callouts:
+- type: definition
+  title: Consciousness Theories
+  body: 'Consciousness Theories are the family of competing scientific and philosophical
+    accounts of what consciousness is and how it arises, including Global Workspace
+    Theory (Baars, Dehaene: consciousness is information broadcast across a global
+    workspace), Integrated Information Theory (Tononi: consciousness is identical
+    to integrated information Φ), Higher-Order theories (a state is conscious iff
+    it is the object of a higher-order representation), and various predictive-processing
+    accounts.'
+- type: key-claim
+  title: Key claim about Consciousness Theories
+  body: Consciousness Theories now constitute a tractable scientific subfield rather
+    than purely philosophical speculation, with active empirical programs operationalizing
+    each leading theory in ways that yield differentiable predictions (e.g., the recent
+    adversarial-collaboration tests pitting GWT against IIT) — a development that
+    has shifted "what is consciousness?" from a stalemated philosophy question to
+    a contested but progressing research program.
+- type: warning
+  title: Common pitfall regarding Consciousness Theories
+  body: Consciousness Theories often address different explananda — *access* consciousness
+    vs. *phenomenal* consciousness, the Easy Problems vs. the Hard Problem — and theories
+    are sometimes compared as if they competed on the same playing field when they
+    target different phenomena; assessing competing consciousness theories without
+    first clarifying which sense of consciousness they explain produces misleading
+    verdicts.

@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-14-social-psychology",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-14-social-psychology.md",
+    "notes": "Core social-psychology substrate: identity, attitudes, persuasion, and\nclassic group/situational effects. Connects metacognition, motivation,\nand behavior-change clusters to the social context they operate in."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-14-social-psychology",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-14-social-psychology"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Social Identity Theory",
+      "kebab": "social-identity-theory",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/social-identity-theory.yaml",
+      "expected_seed_filename": "social-identity-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cognitive Dissonance",
+      "kebab": "cognitive-dissonance",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/cognitive-dissonance.yaml",
+      "expected_seed_filename": "cognitive-dissonance-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Attitude Formation",
+      "kebab": "attitude-formation",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/attitude-formation.yaml",
+      "expected_seed_filename": "attitude-formation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Persuasion Theory",
+      "kebab": "persuasion-theory",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/persuasion-theory.yaml",
+      "expected_seed_filename": "persuasion-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Social Proof",
+      "kebab": "social-proof",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/social-proof.yaml",
+      "expected_seed_filename": "social-proof-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "In Group Out Group Bias",
+      "kebab": "in-group-out-group-bias",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/in-group-out-group-bias.yaml",
+      "expected_seed_filename": "in-group-out-group-bias-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Social Facilitation",
+      "kebab": "social-facilitation",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/social-facilitation.yaml",
+      "expected_seed_filename": "social-facilitation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Stereotype Threat",
+      "kebab": "stereotype-threat",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/stereotype-threat.yaml",
+      "expected_seed_filename": "stereotype-threat-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Bystander Effect",
+      "kebab": "bystander-effect",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/bystander-effect.yaml",
+      "expected_seed_filename": "bystander-effect-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Self Perception Theory",
+      "kebab": "self-perception-theory",
+      "brief_path": "briefs/2026-04-25-batch-14-social-psychology/self-perception-theory.yaml",
+      "expected_seed_filename": "self-perception-theory-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

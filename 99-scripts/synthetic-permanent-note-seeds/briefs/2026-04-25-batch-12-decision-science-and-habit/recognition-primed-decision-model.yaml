@@ -1,0 +1,43 @@
+concept: Recognition Primed Decision Model
+domain: decision-science
+secondary_domains:
+- naturalistic-decision-making
+- expertise-research
+aliases:
+- RPD model
+broader:
+- naturalistic-decision-making
+related:
+- naturalistic-decision-making
+- expertise
+- mental-simulation
+- klein-gary
+- intuition
+- pattern-recognition
+prerequisites:
+- naturalistic-decision-making
+confidence: high
+callouts:
+- type: definition
+  title: Recognition Primed Decision Model
+  body: The Recognition Primed Decision Model, developed by Gary Klein, is an account
+    of how experts make rapid decisions in time-pressured, ambiguous, high-stakes
+    settings (firefighters, emergency-room physicians, military commanders) — through
+    *recognition* of the situation as a typical case, retrieval of an associated course
+    of action, and mental *simulation* of that action's likely outcome before commitment,
+    rather than comparison of multiple options.
+- type: key-claim
+  title: Key claim about Recognition Primed Decision Model
+  body: The Recognition Primed Decision Model dissolves the apparent contradiction
+    between expert intuition and "rational" decision-making by showing that experts
+    compress option-comparison into pattern-matching against a vast library of cases,
+    and validate their first candidate via mental simulation — which is why expert
+    decisions look both fast and sound while novices need explicit comparison to approximate
+    the same outcome.
+- type: warning
+  title: Common pitfall regarding Recognition Primed Decision Model
+  body: The Recognition Primed Decision Model is calibrated to *high-validity environments*
+    where pattern-feedback is rapid and reliable; in low-validity environments (long-range
+    geopolitical forecasting, stock picking) the same pattern-matching machinery generates
+    confident but unreliable judgments, so transferring the RPD model out of its evidential
+    home is a documented source of overconfident expert error.

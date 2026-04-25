@@ -1,0 +1,45 @@
+concept: Multiple Intelligences Theory
+domain: psychology
+secondary_domains:
+- intelligence-research
+- education
+aliases:
+- Gardner MI theory
+broader:
+- intelligence-theories
+related:
+- gardner-howard
+- general-factor-g
+- triarchic-theory-of-intelligence
+- intelligence-testing
+- modularity-of-mind
+- learning-styles
+prerequisites:
+- intelligence-theories
+confidence: high
+callouts:
+- type: definition
+  title: Multiple Intelligences Theory
+  body: Multiple Intelligences Theory, proposed by Howard Gardner, is the framework
+    that posits human intelligence is not a single general capacity but a collection
+    of relatively independent intelligences — originally seven, later expanded — including
+    linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal,
+    intrapersonal, and naturalist intelligences, each with its own developmental trajectory,
+    neural substrate, and end-states of expertise.
+- type: key-claim
+  title: Key claim about Multiple Intelligences Theory
+  body: Multiple Intelligences Theory had substantial influence on educational practice
+    and on the cultural framing of "different kinds of smart," and its historical
+    contribution is the legitimation of non-academic forms of capacity within institutions
+    previously dominated by linguistic and logical-mathematical assessment — an effect
+    on educational discourse that persists even as the theory's empirical foundations
+    have been heavily contested.
+- type: warning
+  title: Common pitfall regarding Multiple Intelligences Theory
+  body: 'Multiple Intelligences Theory is, by mainstream intelligence-research consensus,
+    *not empirically supported* as a theory of intelligence: the proposed intelligences
+    fail standard tests of independence (they correlate with each other and with g),
+    the theory was constructed on conceptual rather than psychometric grounds, and
+    Gardner himself has acknowledged the limited empirical support; presenting MI
+    Theory as established intelligence science misrepresents both the evidence and
+    the disciplinary verdict.'

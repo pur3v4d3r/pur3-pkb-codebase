@@ -1,0 +1,120 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-17-pkm-and-systems",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-17-pkm-and-systems.md",
+    "notes": "Two clusters: PKM methodology (10) + systems thinking (6). Anchors the\npractitioner-facing notes the vault depends on for its own structure\nand the systems-thinking vocabulary that recurs across cognition,\norganization, and behavior-change notes."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-17-pkm-and-systems",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-17-pkm-and-systems"
+  },
+  "counts": {
+    "parsed": 16,
+    "accepted": 16,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Para Method",
+      "kebab": "para-method",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/para-method.yaml",
+      "expected_seed_filename": "para-method-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Digital Garden",
+      "kebab": "digital-garden",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/digital-garden.yaml",
+      "expected_seed_filename": "digital-garden-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Interstitial Journaling",
+      "kebab": "interstitial-journaling",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/interstitial-journaling.yaml",
+      "expected_seed_filename": "interstitial-journaling-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Information Architecture",
+      "kebab": "information-architecture",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/information-architecture.yaml",
+      "expected_seed_filename": "information-architecture-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Ontology Design",
+      "kebab": "ontology-design",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/ontology-design.yaml",
+      "expected_seed_filename": "ontology-design-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Tagging Systems",
+      "kebab": "tagging-systems",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/tagging-systems.yaml",
+      "expected_seed_filename": "tagging-systems-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Concept Hierarchy",
+      "kebab": "concept-hierarchy",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/concept-hierarchy.yaml",
+      "expected_seed_filename": "concept-hierarchy-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Slip Box Methodology",
+      "kebab": "slip-box-methodology",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/slip-box-methodology.yaml",
+      "expected_seed_filename": "slip-box-methodology-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Knowledge Decay",
+      "kebab": "knowledge-decay",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/knowledge-decay.yaml",
+      "expected_seed_filename": "knowledge-decay-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Note Taking Systems Comparison",
+      "kebab": "note-taking-systems-comparison",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/note-taking-systems-comparison.yaml",
+      "expected_seed_filename": "note-taking-systems-comparison-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Feedback Loops",
+      "kebab": "feedback-loops",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/feedback-loops.yaml",
+      "expected_seed_filename": "feedback-loops-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Causal Loop Diagrams",
+      "kebab": "causal-loop-diagrams",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/causal-loop-diagrams.yaml",
+      "expected_seed_filename": "causal-loop-diagrams-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Stocks And Flows",
+      "kebab": "stocks-and-flows",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/stocks-and-flows.yaml",
+      "expected_seed_filename": "stocks-and-flows-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Emergence",
+      "kebab": "emergence",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/emergence.yaml",
+      "expected_seed_filename": "emergence-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Complex Adaptive Systems",
+      "kebab": "complex-adaptive-systems",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/complex-adaptive-systems.yaml",
+      "expected_seed_filename": "complex-adaptive-systems-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Leverage Points",
+      "kebab": "leverage-points",
+      "brief_path": "briefs/2026-04-25-batch-17-pkm-and-systems/leverage-points.yaml",
+      "expected_seed_filename": "leverage-points-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

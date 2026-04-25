@@ -1,0 +1,38 @@
+concept: Research Methods In Education
+domain: research-methods
+secondary_domains:
+- educational-psychology
+- learning-science
+related:
+- randomized-controlled-trial
+- quasi-experiment
+- design-based-research
+- replication-crisis-in-psychology
+- educational-assessment
+- learning-analytics
+prerequisites:
+- scientific-method
+confidence: high
+callouts:
+- type: definition
+  title: Research Methods In Education
+  body: Research Methods In Education is the methodological landscape covering how
+    educational claims are tested — encompassing randomized controlled trials of interventions,
+    quasi-experiments where randomization is infeasible, design-based research that
+    iteratively refines instructional artifacts in classrooms, qualitative studies
+    of teaching practice, and large-scale observational studies leveraging assessment
+    and learning-analytics data.
+- type: key-claim
+  title: Key claim about Research Methods In Education
+  body: Research Methods In Education must contend with constraints physics and biology
+    rarely face — non-random assignment is the norm, intervention fidelity is hard
+    to verify, teacher and context effects rival treatment effects in size, and ethical
+    limits forbid many comparisons — which is why methodological pluralism is principled,
+    not lazy, in the field.
+- type: warning
+  title: Common pitfall regarding Research Methods In Education
+  body: Importing the "gold standard" rhetoric of medical RCTs into Research Methods
+    In Education without adjustment is a known failure mode; the question of *whether*
+    an intervention works rarely matters in education without knowing *for whom*,
+    *under what implementation conditions*, and *at what dosage*, which RCTs alone
+    are poorly equipped to answer.

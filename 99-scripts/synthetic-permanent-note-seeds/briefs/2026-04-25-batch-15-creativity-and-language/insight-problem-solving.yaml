@@ -1,0 +1,43 @@
+concept: Insight Problem Solving
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- cognitive-psychology
+aliases:
+- aha-moment
+- eureka problem solving
+broader:
+- problem-solving
+related:
+- incubation-effect
+- impasse-and-restructuring
+- remote-associates-test
+- creative-self-efficacy
+- fixation
+- gestalt-psychology
+prerequisites:
+- problem-solving
+confidence: high
+callouts:
+- type: definition
+  title: Insight Problem Solving
+  body: Insight Problem Solving refers to the class of problems whose solution involves
+    a sudden, qualitative restructuring of the problem representation rather than
+    incremental search through a well-defined problem space — phenomenologically marked
+    by an "Aha!" experience and characterized empirically by impasse, restructuring,
+    and a discontinuous shift in solution availability.
+- type: key-claim
+  title: Key claim about Insight Problem Solving
+  body: Insight Problem Solving operationalizes a distinction between *analytic* (search-based,
+    incremental) and *insightful* (restructuring-based, discontinuous) cognition,
+    and neuroimaging evidence (Jung-Beeman, Kounios) reveals dissociable neural correlates
+    — right-temporal-lobe activity preceding insight solutions but not analytic ones
+    — supporting insight as a genuine cognitive kind rather than a phenomenological
+    label.
+- type: warning
+  title: Common pitfall regarding Insight Problem Solving
+  body: Insight Problem Solving research is conducted almost exclusively with toy
+    puzzles (matchstick problems, remote-associates triads) whose ecological validity
+    for real-world creative work is contested; transferring insight-research prescriptions
+    ("encourage incubation") to professional creative settings rests on assumptions
+    about generalizability that the field has not robustly demonstrated.

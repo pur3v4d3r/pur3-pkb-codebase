@@ -1,0 +1,42 @@
+concept: Reliabilism
+domain: epistemology
+secondary_domains:
+- analytic-epistemology
+- externalism
+aliases:
+- process reliabilism
+broader:
+- externalist-epistemology
+related:
+- epistemic-justification
+- internalism-vs-externalism
+- goldman-alvin
+- generality-problem
+- virtue-epistemology
+- proper-function
+prerequisites:
+- externalist-epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Reliabilism
+  body: Reliabilism, developed by Alvin Goldman, is the externalist theory of justification
+    that holds a belief is justified iff it is produced by a *reliable* belief-forming
+    process — one that produces a sufficiently high ratio of true to false beliefs
+    across relevant counterfactual circumstances — making justification a function
+    of the actual reliability of cognitive mechanisms rather than the believer's reflective
+    access to evidence.
+- type: key-claim
+  title: Key claim about Reliabilism
+  body: Reliabilism aligns the theory of justification with the kinds of properties
+    that empirical cognitive science actually measures (accuracy, calibration, base-rate
+    sensitivity), giving epistemology a closer connection to psychology than internalist
+    theories permit, and naturally accommodating the justified beliefs of young children
+    and non-human animals who lack reflective access to their cognitive mechanisms.
+- type: warning
+  title: Common pitfall regarding Reliabilism
+  body: 'Reliabilism faces the *generality problem*: any token belief is produced
+    by indefinitely many process types of varying reliability ("perception in normal
+    lighting" vs. "vision" vs. "perception of red things"), and Reliabilism does not
+    specify which process-type''s reliability matters for justification, leaving the
+    theory underdeterminate at the application level despite its theoretical economy.'

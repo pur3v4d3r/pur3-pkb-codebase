@@ -1,0 +1,45 @@
+concept: Triarchic Theory Of Intelligence
+domain: psychology
+secondary_domains:
+- intelligence-research
+aliases:
+- Sternberg triarchic theory
+broader:
+- intelligence-theories
+related:
+- sternberg-robert
+- analytical-intelligence
+- creative-intelligence
+- practical-intelligence
+- general-factor-g
+- multiple-intelligences-theory
+prerequisites:
+- intelligence-theories
+confidence: high
+callouts:
+- type: definition
+  title: Triarchic Theory Of Intelligence
+  body: The Triarchic Theory Of Intelligence, developed by Robert Sternberg, is the
+    framework partitioning intelligence into three components — *analytical* intelligence
+    (the capacities measured by standard IQ tests), *creative* intelligence (the capacity
+    to deal with novelty and produce original work), and *practical* intelligence
+    (the capacity to apply knowledge to real-world contexts, sometimes glossed as
+    "tacit knowledge" or "street smarts") — and arguing that conventional intelligence
+    assessment overweights analytical at the expense of the other two.
+- type: key-claim
+  title: Key claim about Triarchic Theory Of Intelligence
+  body: 'The Triarchic Theory Of Intelligence retains more empirical respectability
+    than Multiple Intelligences Theory: the analytical-creative-practical distinction
+    has accumulated some incremental-validity evidence (practical intelligence measures
+    predict job performance beyond what cognitive ability tests predict, in some studies),
+    giving the framework a more defensible empirical posture even if it remains contested
+    whether the three components are genuinely separable from g.'
+- type: warning
+  title: Common pitfall regarding Triarchic Theory Of Intelligence
+  body: The Triarchic Theory Of Intelligence's empirical support, while better than
+    MI Theory's, is itself contested — the incremental-validity findings for practical
+    intelligence have not consistently replicated, the construct of "tacit knowledge"
+    overlaps substantially with conscientiousness and domain expertise, and Sternberg's
+    measures have faced methodological critiques; advocates and critics disagree,
+    and presenting the triarchic theory as either established or refuted overstates
+    the resolution of an active debate.

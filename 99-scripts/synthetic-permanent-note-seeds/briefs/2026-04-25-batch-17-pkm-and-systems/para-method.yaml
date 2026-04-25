@@ -1,0 +1,43 @@
+concept: Para Method
+domain: pkm
+secondary_domains:
+- productivity
+- knowledge-management
+aliases:
+- PARA
+- Projects-Areas-Resources-Archives
+- Forte PARA
+broader:
+- pkm-frameworks
+related:
+- zettelkasten-method
+- building-a-second-brain
+- forte-tiago
+- gtd-method
+- knowledge-organization
+- file-architecture
+prerequisites:
+- pkm-frameworks
+confidence: high
+callouts:
+- type: definition
+  title: Para Method
+  body: The PARA Method, developed by Tiago Forte, is a four-bucket information-organization
+    framework — *Projects* (short-term outcomes with deadlines), *Areas* (long-term
+    responsibilities to be sustained), *Resources* (topics of ongoing interest), and
+    *Archives* (inactive items from the other three) — designed to organize personal
+    information by *actionability and time-horizon* rather than by topic.
+- type: key-claim
+  title: Key claim about Para Method
+  body: 'The PARA Method''s central insight is that information-organization should
+    mirror the structure of action rather than the structure of subject matter: organizing
+    by Project surfaces what is currently demanding attention, while topic-based organization
+    (the default for most filing systems) buries actionable material under thematic
+    hierarchies that do not match how cognitive prioritization actually works.'
+- type: warning
+  title: Common pitfall regarding Para Method
+  body: The PARA Method is sometimes adopted as a complete PKM solution; it is in
+    fact an *organizational* framework that says little about capture, processing,
+    or knowledge-graph construction, so combining PARA with a complementary content-side
+    method (Zettelkasten, Building a Second Brain) is generally needed for a functioning
+    end-to-end PKM system rather than just a tidier file structure.

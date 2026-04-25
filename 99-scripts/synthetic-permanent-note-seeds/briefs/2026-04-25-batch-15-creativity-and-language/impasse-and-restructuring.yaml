@@ -1,0 +1,44 @@
+concept: Impasse And Restructuring
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- problem-solving
+aliases:
+- impasse-restructuring
+- gestalt restructuring
+broader:
+- insight-problem-solving
+related:
+- insight-problem-solving
+- fixation
+- incubation-effect
+- gestalt-psychology
+- problem-representation
+- constraint-relaxation
+prerequisites:
+- insight-problem-solving
+confidence: high
+callouts:
+- type: definition
+  title: Impasse And Restructuring
+  body: 'Impasse And Restructuring describes the canonical two-phase trajectory of
+    insight problem solving: an *impasse* phase in which the solver exhausts available
+    moves within the current problem representation and progress halts, followed (under
+    favorable conditions) by *restructuring* in which the problem representation itself
+    is reorganized — constraints relaxed, elements re-grouped, goal re-described —
+    making previously inaccessible solution moves visible.'
+- type: key-claim
+  title: Key claim about Impasse And Restructuring
+  body: Impasse And Restructuring identifies the specific cognitive failure mode (an
+    inadequate problem representation) and the specific operation that resolves it
+    (representational change), which moves insight from an unanalyzed phenomenological
+    label to a process model that explains why incubation, hint-giving, and analogical
+    priming differentially help — they all act on the representation, not on search
+    effort.
+- type: warning
+  title: Common pitfall regarding Impasse And Restructuring
+  body: Impasse And Restructuring as a model is built on toy puzzles where representational
+    change is sharply localized; in real-world ill-defined problems, the boundary
+    between "the same representation with new moves" and "a new representation" is
+    much blurrier, so transferring the impasse-restructuring vocabulary to professional
+    problem solving requires careful redefinition of what counts as restructuring.

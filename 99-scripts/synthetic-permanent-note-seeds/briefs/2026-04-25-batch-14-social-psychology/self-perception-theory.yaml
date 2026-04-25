@@ -1,0 +1,42 @@
+concept: Self Perception Theory
+domain: social-psychology
+secondary_domains:
+- attitude-formation
+- self-knowledge
+aliases:
+- Bem self-perception theory
+broader:
+- attitude-formation
+related:
+- attitude-formation
+- cognitive-dissonance
+- bem-daryl
+- overjustification-effect
+- embodied-cognition
+prerequisites:
+- attitude-formation
+confidence: high
+callouts:
+- type: definition
+  title: Self Perception Theory
+  body: Self Perception Theory, proposed by Daryl Bem, holds that individuals come
+    to know their own attitudes, emotions, and internal states partly by *observing
+    their own behavior and the context in which it occurs* — making self-knowledge
+    an inferential process much like other-perception, rather than direct introspective
+    access to internal states.
+- type: key-claim
+  title: Key claim about Self Perception Theory
+  body: 'Self Perception Theory offered an alternative explanation for the dissonance-reduction
+    findings without invoking aversive arousal: when external justification for a
+    counter-attitudinal behavior is insufficient, individuals infer that they must
+    hold the attitude consistent with the behavior — an inference, not a motivated
+    reduction of discomfort. The central paradigms (e.g., Festinger-Carlsmith) are
+    explained by either theory, and decades of research have shown the two operate
+    in different conditions rather than one supplanting the other.'
+- type: warning
+  title: Common pitfall regarding Self Perception Theory
+  body: Self Perception Theory is frequently overgeneralized to claim that all self-knowledge
+    is post-hoc inference; the theory's strongest evidential domain is *attitudes
+    and judgments about which the person has weak prior knowledge* — extending the
+    framework to claim that introspection is generally illusory overreaches what the
+    original work supports.

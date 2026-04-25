@@ -1,0 +1,37 @@
+concept: Salience Network
+domain: neuroscience
+secondary_domains:
+- cognitive-neuroscience
+- attention-research
+broader:
+- large-scale-brain-networks
+related:
+- default-mode-network
+- executive-attention-network
+- anterior-insula
+- anterior-cingulate-cortex
+- attention-orienting
+prerequisites:
+- large-scale-brain-networks
+confidence: high
+callouts:
+- type: definition
+  title: Salience Network
+  body: The Salience Network — anchored in anterior insula and dorsal anterior cingulate
+    cortex — is the large-scale brain network that detects behaviorally relevant stimuli
+    (interoceptive, emotional, or cognitive) and orchestrates dynamic switching between
+    the Default Mode Network and the Executive Attention Network, functioning as the
+    brain's switching gate between internally- and externally-directed cognition.
+- type: key-claim
+  title: Key claim about Salience Network
+  body: 'The Salience Network''s switching role makes it a structural locus of attentional
+    control: dysfunction in salience-driven network switching is implicated in disorders
+    ranging from schizophrenia (impaired salience attribution) to chronic pain (over-attribution
+    of salience to bodily signals) to depression (failure to disengage the Default
+    Mode Network).'
+- type: warning
+  title: Common pitfall regarding Salience Network
+  body: The Salience Network is sometimes treated as a third co-equal "control network";
+    the more accurate framing is that it functions as a *meta*-network whose computations
+    gate the others, and conflating its role with executive control proper produces
+    predictions about attention training that the literature does not support.

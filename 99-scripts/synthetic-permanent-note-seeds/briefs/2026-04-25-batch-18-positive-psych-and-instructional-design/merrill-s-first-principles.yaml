@@ -1,0 +1,45 @@
+concept: Merrill S First Principles
+domain: instructional-design
+secondary_domains:
+- educational-psychology
+aliases:
+- First Principles of Instruction
+- Merrill principles
+broader:
+- instructional-design-theories
+related:
+- merrill-david
+- problem-centered-instruction
+- activation-principle
+- demonstration-principle
+- application-principle
+- integration-principle
+prerequisites:
+- instructional-design-theories
+confidence: high
+callouts:
+- type: definition
+  title: Merrill S First Principles
+  body: 'Merrill S First Principles, formulated by M. David Merrill through synthesis
+    of major instructional-design theories, are five principles that he argued are
+    common to effective instruction across theoretical traditions: instruction is
+    most effective when learners (1) are engaged in solving real-world *problems*,
+    (2) *activate* prior knowledge as a foundation, (3) observe a *demonstration*
+    of new knowledge, (4) *apply* new knowledge, and (5) *integrate* new knowledge
+    into their everyday life.'
+- type: key-claim
+  title: Key claim about Merrill S First Principles
+  body: 'Merrill S First Principles offers a relatively rare cross-theoretical convergence
+    in instructional design: the five principles emerged as common ground from analysis
+    of disparate ID frameworks (Gagné, Reigeluth, van Merriënboer, others), giving
+    practitioners a defensible minimal set of design commitments that does not require
+    choosing among competing ID schools and that has accumulated empirical evaluation
+    in subsequent intervention studies.'
+- type: warning
+  title: Common pitfall regarding Merrill S First Principles
+  body: Merrill S First Principles is sometimes treated as a sufficient ID framework
+    on its own; in practice the principles are deliberately abstract and require complementary
+    mid-level design decisions (sequencing, assessment, scaffolding) that Merrill's
+    framework does not specify, so adopting the First Principles as the entire ID
+    toolkit produces designs that satisfy the principles formally but fall short on
+    the implementation choices the framework intentionally leaves underdetermined.

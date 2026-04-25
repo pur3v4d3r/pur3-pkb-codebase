@@ -1,0 +1,41 @@
+concept: Nudge Theory
+domain: decision-science
+secondary_domains:
+- public-policy
+- behavioral-economics
+aliases:
+- libertarian paternalism
+broader:
+- choice-architecture
+related:
+- choice-architecture
+- default-effect
+- status-quo-bias
+- thaler-richard
+- sunstein-cass
+- behavioral-public-policy
+prerequisites:
+- choice-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Nudge Theory
+  body: Nudge Theory, developed by Thaler and Sunstein, is the policy framework that
+    uses small, low-cost, freedom-preserving modifications to choice architecture
+    — opt-out organ donation, default retirement-savings enrollment, salience changes
+    on cafeteria layouts — to steer behavior toward outcomes the chooser would, on
+    reflection, endorse, without restricting the option set or imposing material penalties.
+- type: key-claim
+  title: Key claim about Nudge Theory
+  body: Nudge Theory's central wager is that population-level behavior can be shifted
+    at scale by interventions whose marginal cost approaches zero, because the existing
+    architecture is already steering choice — switching from a default-no-enrollment
+    to default-yes-enrollment for retirement savings produces multi-percentage-point
+    shifts in participation that incentive-based reforms struggle to match.
+- type: warning
+  title: Common pitfall regarding Nudge Theory
+  body: Nudge Theory has drawn criticism that "small" interventions accumulate into
+    substantial paternalism, that nudges work because they exploit cognitive limitations
+    the citizen has not endorsed, and that effect sizes shrink in pre-registered replications;
+    treating nudges as a universal substitute for incentives or regulation overstates
+    what the evidence supports.

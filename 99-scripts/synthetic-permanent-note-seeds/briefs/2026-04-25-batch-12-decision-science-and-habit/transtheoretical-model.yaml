@@ -1,0 +1,42 @@
+concept: Transtheoretical Model
+domain: behavior-change
+secondary_domains:
+- health-psychology
+- clinical-psychology
+aliases:
+- stages of change
+- TTM
+broader:
+- behavior-change-models
+related:
+- behavior-change-techniques
+- motivational-interviewing
+- self-efficacy
+- prochaska-james
+prerequisites:
+- behavior-change
+confidence: high
+callouts:
+- type: definition
+  title: Transtheoretical Model
+  body: The Transtheoretical Model, developed by Prochaska and DiClemente, describes
+    intentional behavior change as movement through six stages — precontemplation,
+    contemplation, preparation, action, maintenance, termination — with stage-matched
+    processes of change (consciousness raising, self-reevaluation, stimulus control,
+    reinforcement management) that predict which intervention is appropriate for a
+    given person at a given moment.
+- type: key-claim
+  title: Key claim about Transtheoretical Model
+  body: 'The Transtheoretical Model claims that mismatched stage-process pairings
+    explain a large share of intervention failure: pushing action-stage techniques
+    (goal-setting, contingency management) onto a precontemplation-stage person produces
+    resistance rather than change, while contemplation-stage techniques (consciousness
+    raising) on someone already in action wastes the action window.'
+- type: warning
+  title: Common pitfall regarding Transtheoretical Model
+  body: The Transtheoretical Model has weakened in the meta-analytic record over the
+    past two decades — stage assessment is unreliable, stage-matched interventions
+    often fail to outperform stage-unmatched ones, and the discrete-stage assumption
+    may misrepresent what is in fact a continuous process; citing the Transtheoretical
+    Model as established science without acknowledging this evidence base is increasingly
+    unsupportable.

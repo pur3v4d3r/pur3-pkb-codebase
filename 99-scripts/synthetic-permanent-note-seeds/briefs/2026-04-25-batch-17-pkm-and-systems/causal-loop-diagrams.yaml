@@ -1,0 +1,41 @@
+concept: Causal Loop Diagrams
+domain: systems-thinking
+secondary_domains:
+- systems-theory
+- system-dynamics
+aliases:
+- CLD
+broader:
+- systems-modeling
+related:
+- feedback-loops
+- stocks-and-flows
+- system-dynamics
+- leverage-points
+- sterman-john
+- meadows-donella
+prerequisites:
+- feedback-loops
+confidence: high
+callouts:
+- type: definition
+  title: Causal Loop Diagrams
+  body: Causal Loop Diagrams are the standard visual notation in system dynamics for
+    mapping the causal structure of a dynamic system, using labeled nodes for variables,
+    arrows for causal influences (with polarity markers for same-direction or opposite-direction
+    effects), and loop labels (R for reinforcing, B for balancing) to make the system's
+    feedback structure visually inspectable.
+- type: key-claim
+  title: Key claim about Causal Loop Diagrams
+  body: Causal Loop Diagrams convert qualitative systems intuition into a precise
+    enough representation to support productive group conversation and to seed quantitative
+    stock-and-flow models; the diagram's discipline (every link labeled with polarity,
+    every loop classified as R or B) forces participants to commit to specific causal
+    claims that pure verbal descriptions allow them to leave conveniently vague.
+- type: warning
+  title: Common pitfall regarding Causal Loop Diagrams
+  body: Causal Loop Diagrams represent only the *causal-feedback skeleton* of a system,
+    omitting accumulation dynamics (which require stock-and-flow models), delays,
+    and quantitative magnitudes; treating a CLD as a sufficient model — rather than
+    a structural sketch that motivates further modeling — leads to confident systems-level
+    claims unsupported by the underlying dynamics the diagram cannot capture.

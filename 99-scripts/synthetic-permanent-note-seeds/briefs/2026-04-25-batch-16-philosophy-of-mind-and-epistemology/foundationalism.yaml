@@ -1,0 +1,41 @@
+concept: Foundationalism
+domain: epistemology
+secondary_domains:
+- analytic-epistemology
+aliases:
+- foundationalist epistemology
+broader:
+- structure-of-justification
+related:
+- coherentism
+- basic-beliefs
+- regress-argument
+- descartes-rene
+- classical-foundationalism
+- modest-foundationalism
+prerequisites:
+- structure-of-justification
+confidence: high
+callouts:
+- type: definition
+  title: Foundationalism
+  body: Foundationalism is the structural thesis about epistemic justification that
+    holds the body of justified beliefs has a *foundational* layer of *basic beliefs*
+    — beliefs justified non-inferentially (by experience, self-evidence, or some non-doxastic
+    ground) — upon which all other (non-basic, inferentially justified) beliefs rest,
+    terminating the regress of justification at the foundational layer.
+- type: key-claim
+  title: Key claim about Foundationalism
+  body: 'Foundationalism''s core motivation is the regress argument: if every justified
+    belief required justification from a further belief, justification would either
+    continue infinitely, circle back (coherentism''s option), or terminate in unjustified
+    beliefs (skepticism''s outcome) — Foundationalism takes the regress to terminate
+    in non-inferentially justified basic beliefs as the only remaining alternative.'
+- type: warning
+  title: Common pitfall regarding Foundationalism
+  body: Foundationalism in its classical (Cartesian) form, requiring infallible basic
+    beliefs, has been widely abandoned as too demanding; modest foundationalism (basic
+    beliefs are merely *prima facie* justified, defeasibly) is much more defensible
+    but loses some of the original motivation for adopting Foundationalism in the
+    first place — a concession that critics argue weakens the foundationalist position
+    more than its defenders acknowledge.

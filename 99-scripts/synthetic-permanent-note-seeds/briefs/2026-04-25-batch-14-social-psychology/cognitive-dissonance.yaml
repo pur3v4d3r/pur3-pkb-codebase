@@ -1,0 +1,42 @@
+concept: Cognitive Dissonance
+domain: social-psychology
+secondary_domains:
+- attitude-change
+- motivation
+aliases:
+- Festinger cognitive dissonance theory
+broader:
+- consistency-theories
+related:
+- attitude-formation
+- self-perception-theory
+- festinger-leon
+- induced-compliance-paradigm
+- post-decisional-dissonance
+prerequisites:
+- consistency-theories
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Dissonance
+  body: Cognitive Dissonance, formalized by Leon Festinger in 1957, is the aversive
+    psychological state arising when an individual holds simultaneously inconsistent
+    cognitions — an attitude and a behavior that contradict it, two contradictory
+    beliefs, a choice and the foregone alternative — and that motivates dissonance-reduction
+    efforts (attitude change, behavior change, trivialization of one cognition, or
+    addition of consonant cognitions).
+- type: key-claim
+  title: Key claim about Cognitive Dissonance
+  body: 'Cognitive Dissonance reframed attitude change as a *motivated* process rather
+    than a passive response to information: the classic Festinger-Carlsmith induced-compliance
+    experiment showed that participants paid less to lie about a boring task subsequently
+    rated it as more interesting, demonstrating that insufficient external justification
+    forces internal attitude change to restore consistency.'
+- type: warning
+  title: Common pitfall regarding Cognitive Dissonance
+  body: Cognitive Dissonance is often invoked loosely to describe any psychological
+    discomfort with conflicting ideas; the original construct requires *self-relevant*
+    inconsistency producing arousal, and modern accounts (Cooper-Fazio, self-affirmation
+    theory) further restrict the conditions under which dissonance produces attitude
+    change, so casual "dissonance" attributions usually fail to satisfy the theory's
+    actual conditions.

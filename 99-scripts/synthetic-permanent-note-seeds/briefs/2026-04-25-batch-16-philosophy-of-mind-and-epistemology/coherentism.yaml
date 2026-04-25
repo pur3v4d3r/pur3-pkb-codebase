@@ -1,0 +1,40 @@
+concept: Coherentism
+domain: epistemology
+secondary_domains:
+- analytic-epistemology
+aliases:
+- coherentist theory of justification
+broader:
+- structure-of-justification
+related:
+- foundationalism
+- holistic-justification
+- bonjour-laurence
+- lehrer-keith
+- regress-argument
+- isolation-objection
+prerequisites:
+- structure-of-justification
+confidence: high
+callouts:
+- type: definition
+  title: Coherentism
+  body: Coherentism is the structural thesis about epistemic justification that holds
+    a belief is justified by virtue of its membership in a coherent system of beliefs
+    — where coherence is more than mere consistency, requiring positive mutual support,
+    explanatory connections, and relational structure — and that there are no privileged
+    basic beliefs whose justification is non-inferential.
+- type: key-claim
+  title: Key claim about Coherentism
+  body: Coherentism dissolves the regress problem by replacing the linear inferential
+    picture (each belief justified by another) with a holistic one (each belief justified
+    by its place in the network), and offers a unified treatment of justification
+    that avoids what coherentists view as Foundationalism's arbitrary stopping point
+    at allegedly self-justifying basic beliefs.
+- type: warning
+  title: Common pitfall regarding Coherentism
+  body: 'Coherentism faces the *isolation objection*: a maximally coherent belief
+    system may be entirely disconnected from reality (a coherent fictional world),
+    so coherence alone does not appear to be a truth-conducive property, and coherentists''
+    responses (constraints on the belief base, observational input requirements) tend
+    to reintroduce something like foundationalist commitments through the back door.'

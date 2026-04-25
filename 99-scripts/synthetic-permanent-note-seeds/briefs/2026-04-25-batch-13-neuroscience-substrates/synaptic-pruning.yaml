@@ -1,0 +1,37 @@
+concept: Synaptic Pruning
+domain: neuroscience
+secondary_domains:
+- developmental-neuroscience
+- neurodevelopment
+broader:
+- neuroplasticity
+related:
+- neuroplasticity
+- critical-period
+- neurogenesis
+- prefrontal-cortex-function
+- adolescent-brain-development
+prerequisites:
+- neuroplasticity
+confidence: high
+callouts:
+- type: definition
+  title: Synaptic Pruning
+  body: Synaptic Pruning is the developmental elimination of weak or unused synapses,
+    mediated largely by microglia tagging underutilized connections for phagocytosis,
+    that progressively sculpts an over-produced juvenile synaptic landscape into a
+    sparser, more efficient adult network — a process most intense in the first decade
+    of life and continuing into the mid-twenties for prefrontal regions.
+- type: key-claim
+  title: Key claim about Synaptic Pruning
+  body: 'Synaptic Pruning operationalizes a "use-it-or-lose-it" principle at the cellular
+    level and explains why critical-period plasticity windows close: once excess synaptic
+    substrate has been pruned, the substrate for rapid acquisition of perception-,
+    language-, and motor-related capacities is structurally unavailable, which constrains
+    rehabilitation timelines after early-life sensory deprivation.'
+- type: warning
+  title: Common pitfall regarding Synaptic Pruning
+  body: Synaptic Pruning is sometimes invoked to argue that adolescent learning windows
+    are biologically determined and irrecoverable; the empirical picture is more permissive
+    — adult cortex retains substantial structural plasticity — so synaptic-pruning-based
+    pessimism about adult learning is stronger than the evidence supports.

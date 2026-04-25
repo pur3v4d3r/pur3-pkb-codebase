@@ -1,0 +1,38 @@
+concept: Biological Secondary Knowledge
+domain: educational-psychology
+secondary_domains:
+- evolutionary-psychology
+- learning-science
+- instructional-design
+broader:
+- evolutionary-educational-psychology
+related:
+- biological-primary-knowledge
+- explicit-instruction
+- cognitive-load
+- schema
+- worked-example
+prerequisites:
+- evolutionary-educational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Biological Secondary Knowledge
+  body: Biological Secondary Knowledge is the class of cognitive content — literacy,
+    formal mathematics, scientific reasoning, formal logic, second-language grammar
+    — that is evolutionarily novel, has no dedicated cognitive mechanism, and therefore
+    requires deliberate instruction, sustained practice, and external scaffolding
+    to acquire, even though humans use general-purpose learning machinery to do so.
+- type: key-claim
+  title: Key claim about Biological Secondary Knowledge
+  body: Biological Secondary Knowledge is the domain in which [[cognitive-load]] effects
+    are most pronounced; because no evolved support exists, all the work falls on
+    [[working-memory]] and [[schema]] construction, which is why instructional design
+    choices (worked examples, fading, explicit instruction) have measurable effects
+    on secondary content but largely vanish in primary domains.
+- type: warning
+  title: Common pitfall regarding Biological Secondary Knowledge
+  body: Biological Secondary Knowledge does not mean "harder" or "more important"
+    knowledge in any normative sense; it just means evolutionarily unsupported, and
+    treating the primary/secondary boundary as a value judgement (rather than a cognitive-architecture
+    fact) leads to misapplied pedagogical prescriptions.

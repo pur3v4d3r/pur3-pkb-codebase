@@ -1,0 +1,40 @@
+concept: Incubation Effect
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- problem-solving
+broader:
+- creativity-research
+related:
+- insight-problem-solving
+- mind-wandering
+- default-mode-network
+- sleep-and-creativity
+- impasse-and-restructuring
+- opportunistic-assimilation
+prerequisites:
+- creativity-research
+confidence: high
+callouts:
+- type: definition
+  title: Incubation Effect
+  body: The Incubation Effect is the empirical pattern in which setting aside an unsolved
+    problem and engaging in unrelated activity (or sleep) increases the probability
+    of subsequent solution upon return, relative to continuous work on the problem
+    — robustly demonstrated for insight problems and creative-generation tasks, with
+    effect sizes that scale with the difficulty of the problem and the duration of
+    the incubation period.
+- type: key-claim
+  title: Key claim about Incubation Effect
+  body: 'The Incubation Effect provides empirical support for non-conscious problem
+    solving: the candidate mechanisms (opportunistic assimilation triggered by environmental
+    cues, fatigue dissipation allowing release of fixation, spreading activation continuing
+    below awareness) all entail that productive cognitive work continues during the
+    incubation interval, rather than that the brain merely "rests."'
+- type: warning
+  title: Common pitfall regarding Incubation Effect
+  body: The Incubation Effect is sometimes promoted as a productivity hack ("just
+    take a walk and ideas will come"); the meta-analytic record shows the effect is
+    real but moderate, depends on prior engagement with the problem (no incubation
+    without prior immersion), and is not a substitute for the focused work that establishes
+    the problem representation in the first place.

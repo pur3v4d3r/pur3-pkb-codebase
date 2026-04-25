@@ -1,0 +1,42 @@
+concept: Concept Hierarchy
+domain: pkm
+secondary_domains:
+- knowledge-organization
+- ontology
+aliases:
+- taxonomic hierarchy
+- IS-A hierarchy
+broader:
+- knowledge-representation
+related:
+- taxonomy-design
+- ontology-design
+- classification
+- basic-level-categories
+- hyponymy
+- semantic-network
+prerequisites:
+- knowledge-representation
+confidence: high
+callouts:
+- type: definition
+  title: Concept Hierarchy
+  body: A Concept Hierarchy is a tree-structured organization of concepts in which
+    each concept stands in an *IS-A* (subsumption) relation to its parent — instances
+    of the child concept are ipso facto instances of the parent — supporting inheritance
+    of properties down the hierarchy and enabling efficient reasoning by reducing
+    claims about specific concepts to claims about their ancestors.
+- type: key-claim
+  title: Key claim about Concept Hierarchy
+  body: Concept Hierarchies remain the backbone of most usable knowledge organization
+    despite the popularity of network alternatives, because the IS-A relation is the
+    most reliably-recognized and reliably-applied conceptual relation in human cognition,
+    which makes hierarchies that rest on it dramatically more navigable for human
+    users than equivalent flat or arbitrary-relational structures.
+- type: warning
+  title: Common pitfall regarding Concept Hierarchy
+  body: Concept Hierarchies break down for concepts that legitimately belong under
+    multiple parents (multiple inheritance, "platypus" under both *mammal* and *egg-laying-animal*)
+    and for concepts that lack a clear superordinate; treating Concept Hierarchies
+    as universally adequate when much real-world content is irreducibly multi-faceted
+    forces awkward placement decisions that degrade the system's overall coherence.

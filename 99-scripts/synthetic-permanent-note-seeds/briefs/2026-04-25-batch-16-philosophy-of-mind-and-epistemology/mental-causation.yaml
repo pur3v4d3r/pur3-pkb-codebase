@@ -1,0 +1,40 @@
+concept: Mental Causation
+domain: philosophy
+secondary_domains:
+- philosophy-of-mind
+- metaphysics
+aliases:
+- mind-body causation problem
+broader:
+- mind-body-problem
+related:
+- mind-body-problem
+- supervenience
+- kim-jaegwon
+- epiphenomenalism
+- multiple-realizability
+- exclusion-problem
+prerequisites:
+- mind-body-problem
+confidence: high
+callouts:
+- type: definition
+  title: Mental Causation
+  body: Mental Causation is the philosophical problem of how mental states — beliefs,
+    desires, intentions — can be genuine causes of physical events (notably bodily
+    action) given the apparent causal closure of the physical domain, the supervenience
+    of the mental on the physical, and the threat that any physical effect already
+    has a sufficient physical cause.
+- type: key-claim
+  title: Key claim about Mental Causation
+  body: 'Mental Causation is sharpened by Jaegwon Kim''s *exclusion problem*: if every
+    physical effect has a sufficient physical cause, and mental causes are not identical
+    to physical causes, then mental causes appear to be either redundant (overdetermination)
+    or excluded (epiphenomenal) — a trilemma that drives much of contemporary non-reductive
+    physicalism and remains a live constraint on theories of mind.'
+- type: warning
+  title: Common pitfall regarding Mental Causation
+  body: Mental Causation discussions sometimes presuppose causal closure of the physical
+    as an unargued empirical premise; the principle is well supported but is itself
+    a substantive metaphysical commitment, and presentations that treat causal closure
+    as obviously true mask the dialectical role it plays in motivating exclusion arguments.

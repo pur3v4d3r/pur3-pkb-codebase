@@ -1,0 +1,44 @@
+concept: Explanatory Coherence
+domain: argumentation
+secondary_domains:
+- philosophy-of-science
+- cognitive-science
+aliases:
+- Thagard's explanatory coherence
+- ECHO
+broader:
+- theory-evaluation
+related:
+- thagard-paul
+- inference-to-the-best-explanation
+- theoretical-virtues
+- explanation
+- coherentism
+- scientific-reasoning
+prerequisites:
+- theory-evaluation
+confidence: high
+callouts:
+- type: definition
+  title: Explanatory Coherence
+  body: Explanatory Coherence, developed by Paul Thagard, is a theory of theory-evaluation
+    that holds the acceptability of a hypothesis is determined by its *coherence*
+    with other accepted propositions, where coherence is operationalized through seven
+    principles (symmetry, explanation, analogy, data priority, contradiction, competition,
+    acceptance) and computed via Thagard's ECHO connectionist model that takes propositions
+    as nodes and coherence/incoherence relations as weighted links.
+- type: key-claim
+  title: Key claim about Explanatory Coherence
+  body: Explanatory Coherence operationalizes the otherwise hand-waved notion of "inference
+    to the best explanation" by giving precise meaning to *better explanation* — a
+    hypothesis is better when it explains more, is explained by other accepted propositions,
+    displays analogies to accepted explanations, and is not contradicted by data —
+    making theory-choice a tractable computation rather than a purely intuitive comparison.
+- type: warning
+  title: Common pitfall regarding Explanatory Coherence
+  body: Explanatory Coherence's ECHO model, while a major formal contribution to philosophy
+    of science, depends on prior choices about which propositions to include and what
+    coherence/incoherence relations to assert, and these choices smuggle in much of
+    the work that the model is supposed to perform; treating Explanatory Coherence
+    as an objective metric of theory acceptability obscures the role of upstream judgment
+    in setting up the inputs the algorithm then operates on.

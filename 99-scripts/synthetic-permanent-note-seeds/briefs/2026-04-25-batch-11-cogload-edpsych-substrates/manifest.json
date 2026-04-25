@@ -1,0 +1,131 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-11-cogload-edpsych-substrates",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-11-cogload-edpsych-substrates.md",
+    "notes": "Cognitive Load Theory historical/structural substrate + adjacent\neducational-psychology foundations. Seeds the parent-concepts that\nCLT-flavored notes (working-memory, schema, retrieval-practice,\nworked-example) repeatedly reference but currently link to as ghosts."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-11-cogload-edpsych-substrates",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-11-cogload-edpsych-substrates"
+  },
+  "counts": {
+    "parsed": 17,
+    "accepted": 15,
+    "skipped": 2,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "The Evolution Of Germane Load",
+      "kebab": "the-evolution-of-germane-load",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/the-evolution-of-germane-load.yaml",
+      "expected_seed_filename": "the-evolution-of-germane-load-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "The Componential Structure Of Working Memory",
+      "kebab": "the-componential-structure-of-working-memory",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/the-componential-structure-of-working-memory.yaml",
+      "expected_seed_filename": "the-componential-structure-of-working-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Baddeley And Hitch Working Memory Model",
+      "kebab": "baddeley-and-hitch-working-memory-model",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/baddeley-and-hitch-working-memory-model.yaml",
+      "expected_seed_filename": "baddeley-and-hitch-working-memory-model-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "The History And Evolution Of Cognitive Load Theory",
+      "kebab": "the-history-and-evolution-of-cognitive-load-theory",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/the-history-and-evolution-of-cognitive-load-theory.yaml",
+      "expected_seed_filename": "the-history-and-evolution-of-cognitive-load-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Scientific Communication",
+      "kebab": "scientific-communication",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/scientific-communication.yaml",
+      "expected_seed_filename": "scientific-communication-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Evolutionary Educational Psychology",
+      "kebab": "evolutionary-educational-psychology",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/evolutionary-educational-psychology.yaml",
+      "expected_seed_filename": "evolutionary-educational-psychology-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Explicit Instruction",
+      "kebab": "explicit-instruction",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/explicit-instruction.yaml",
+      "expected_seed_filename": "explicit-instruction-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Biological Primary Knowledge",
+      "kebab": "biological-primary-knowledge",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/biological-primary-knowledge.yaml",
+      "expected_seed_filename": "biological-primary-knowledge-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Biological Secondary Knowledge",
+      "kebab": "biological-secondary-knowledge",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/biological-secondary-knowledge.yaml",
+      "expected_seed_filename": "biological-secondary-knowledge-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Domain Specific Knowledge",
+      "kebab": "domain-specific-knowledge",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/domain-specific-knowledge.yaml",
+      "expected_seed_filename": "domain-specific-knowledge-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Research Methods In Education",
+      "kebab": "research-methods-in-education",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/research-methods-in-education.yaml",
+      "expected_seed_filename": "research-methods-in-education-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Replication Crisis In Psychology",
+      "kebab": "replication-crisis-in-psychology",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/replication-crisis-in-psychology.yaml",
+      "expected_seed_filename": "replication-crisis-in-psychology-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Educational Assessment",
+      "kebab": "educational-assessment",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/educational-assessment.yaml",
+      "expected_seed_filename": "educational-assessment-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Multimedia Learning",
+      "kebab": "multimedia-learning",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/multimedia-learning.yaml",
+      "expected_seed_filename": "multimedia-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Analytical Frameworks",
+      "kebab": "analytical-frameworks",
+      "brief_path": "briefs/2026-04-25-batch-11-cogload-edpsych-substrates/analytical-frameworks.yaml",
+      "expected_seed_filename": "analytical-frameworks-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [
+    {
+      "term": "Developmental Psychology",
+      "kebab": "developmental-psychology",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/developmental-psychology.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at developmental-psychology.md"
+    },
+    {
+      "term": "Learning Analytics",
+      "kebab": "learning-analytics",
+      "note_path": "D:/10_pur3v4d3r's-vault/999-report-organizing/_permanent-notes/v6-llm-elaborated/learning-analytics.md",
+      "exists": true,
+      "decision": "skip",
+      "reason": "permanent note already exists at learning-analytics.md"
+    }
+  ],
+  "warnings": []
+}

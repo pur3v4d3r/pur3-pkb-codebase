@@ -1,0 +1,43 @@
+concept: Combinatorial Creativity
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- cognitive-science
+aliases:
+- combinatorial play
+- recombinant creativity
+broader:
+- creativity-types
+related:
+- conceptual-blending
+- analogical-mapping
+- exploratory-creativity
+- transformational-creativity
+- boden-margaret
+prerequisites:
+- creativity-types
+confidence: high
+callouts:
+- type: definition
+  title: Combinatorial Creativity
+  body: Combinatorial Creativity, in Margaret Boden's tripartite typology, is the
+    form of creativity that produces novel outcomes by combining familiar ideas in
+    unfamiliar ways — joining existing concepts, methods, or representations to form
+    novel composites — distinguished from *exploratory* creativity (novel results
+    within existing conceptual space) and *transformational* creativity (modification
+    of the conceptual space itself).
+- type: key-claim
+  title: Key claim about Combinatorial Creativity
+  body: 'Combinatorial Creativity provides the cognitive substrate for the "ideas
+    have sex" intuition: most everyday creative output is combinatorial rather than
+    transformational, which licenses the practical implication that broad cross-domain
+    knowledge intake is high-leverage for creative output, even though combinatorial
+    creativity is typologically the *least* cognitively demanding of Boden''s three
+    forms.'
+- type: warning
+  title: Common pitfall regarding Combinatorial Creativity
+  body: Combinatorial Creativity is sometimes used to argue that all creativity is
+    combinatorial; Boden's framework explicitly preserves transformational creativity
+    as a distinct kind requiring conceptual-space modification (think Picasso's Cubism,
+    Einstein's relativity), and collapsing the typology underestimates what genuinely
+    paradigm-shifting creative work involves.

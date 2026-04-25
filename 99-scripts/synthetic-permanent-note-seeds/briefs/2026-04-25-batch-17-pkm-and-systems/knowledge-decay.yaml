@@ -1,0 +1,41 @@
+concept: Knowledge Decay
+domain: pkm
+secondary_domains:
+- knowledge-management
+- organizational-learning
+aliases:
+- content rot
+- information staleness
+broader:
+- knowledge-management
+related:
+- knowledge-graph-maintenance
+- evergreen-notes
+- link-rot
+- pkm-curation
+- organizational-memory
+prerequisites:
+- knowledge-management
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Decay
+  body: Knowledge Decay is the progressive degradation in accuracy, relevance, and
+    accessibility of recorded knowledge over time — facts become outdated as the world
+    changes, links break as referents move, context erodes as the original audience
+    dissolves, and language conventions drift — producing a knowledge base whose nominal
+    contents diverge from its actually-useful contents.
+- type: key-claim
+  title: Key claim about Knowledge Decay
+  body: 'Knowledge Decay is not optional: any knowledge base persisting over years
+    requires explicit anti-decay maintenance (review cadences, update protocols, deprecation
+    conventions), and PKM systems that do not budget for ongoing curation reliably
+    degrade into archives whose retrieval cost exceeds the value of their content
+    within a few years of intensive accumulation.'
+- type: warning
+  title: Common pitfall regarding Knowledge Decay
+  body: Knowledge Decay is often treated as a problem to be solved by capture-side
+    discipline (better notes, more atomic, more cross-referenced); the empirical pattern
+    is that *no* level of capture quality eliminates the need for periodic review
+    and revision, so anti-decay strategies that focus only on the input side under-allocate
+    effort to the maintenance side where the dominant variance lives.

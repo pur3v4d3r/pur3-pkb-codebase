@@ -1,0 +1,41 @@
+concept: Phenomenology
+domain: philosophy
+secondary_domains:
+- philosophy-of-mind
+- continental-philosophy
+aliases:
+- phenomenological method
+broader:
+- philosophy-of-mind
+related:
+- husserl-edmund
+- heidegger-martin
+- merleau-ponty-maurice
+- intentionality
+- embodied-cognition
+- qualia
+prerequisites:
+- philosophy-of-mind
+confidence: high
+callouts:
+- type: definition
+  title: Phenomenology
+  body: Phenomenology is the philosophical tradition founded by Edmund Husserl and
+    developed by Heidegger, Merleau-Ponty, and others, whose program is the rigorous
+    description of conscious experience *as experienced* — bracketing (epoché) questions
+    about the existence and nature of an external world to attend to the structures
+    of intentional consciousness, embodied perception, and lived temporality.
+- type: key-claim
+  title: Key claim about Phenomenology
+  body: Phenomenology established that first-person experiential structure is a legitimate
+    object of systematic inquiry, distinct from both introspective psychology and
+    third-person cognitive science, and its descriptions of intentionality, the lifeworld,
+    and embodied perception have substantively informed contemporary research programs
+    in embodied cognition, enactivism, and the science of consciousness.
+- type: warning
+  title: Common pitfall regarding Phenomenology
+  body: Phenomenology in its rigorous Husserlian form is methodologically demanding
+    (the practice of phenomenological reduction is non-trivial and contested) and
+    is frequently invoked in popular and applied settings as little more than a label
+    for "first-person reflection," a usage that the philosophical tradition would
+    not endorse.

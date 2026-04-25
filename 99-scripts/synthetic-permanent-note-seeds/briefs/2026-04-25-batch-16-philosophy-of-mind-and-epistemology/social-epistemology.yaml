@@ -1,0 +1,43 @@
+concept: Social Epistemology
+domain: epistemology
+secondary_domains:
+- analytic-epistemology
+- social-philosophy
+aliases:
+- collective epistemology
+broader:
+- epistemology
+related:
+- testimony
+- epistemic-injustice
+- group-belief
+- peer-disagreement
+- fricker-miranda
+- goldman-alvin
+prerequisites:
+- epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Social Epistemology
+  body: Social Epistemology is the branch of epistemology concerned with the social
+    dimensions of knowledge — testimony as a knowledge source, epistemic dependence
+    on experts, peer disagreement, group belief, the design of knowledge-producing
+    institutions (science, journalism, courts), and the social distribution of epistemic
+    credibility — distinct from individualistic epistemology in taking the social
+    as constitutive rather than incidental to knowledge.
+- type: key-claim
+  title: Key claim about Social Epistemology
+  body: Social Epistemology has shifted from a fringe to a central area of analytic
+    epistemology over the past three decades, in part because most actual human knowledge
+    is acquired via testimony and institutional intermediaries rather than first-personal
+    observation, so an epistemology that does not theorize the social transmission
+    of knowledge omits the dominant pathway by which most beliefs are acquired and
+    credentialed.
+- type: warning
+  title: Common pitfall regarding Social Epistemology
+  body: Social Epistemology covers very heterogeneous projects — formal modeling of
+    group belief, normative theorizing about expert deference, critical analysis of
+    credibility hierarchies — and conflating these subprograms (especially the descriptive
+    and the normative) produces miscommunication about what "social epistemology"
+    claims; specifying which strand is at issue is necessary for productive engagement.

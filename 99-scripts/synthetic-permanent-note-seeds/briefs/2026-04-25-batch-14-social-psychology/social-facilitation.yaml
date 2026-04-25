@@ -1,0 +1,40 @@
+concept: Social Facilitation
+domain: social-psychology
+secondary_domains:
+- social-influence
+- performance-research
+aliases:
+- audience effects
+- Zajonc social facilitation
+broader:
+- social-influence
+related:
+- evaluation-apprehension
+- drive-theory
+- mere-presence
+- zajonc-robert
+- choking-under-pressure
+prerequisites:
+- social-influence
+confidence: high
+callouts:
+- type: definition
+  title: Social Facilitation
+  body: Social Facilitation is the empirical pattern, formalized by Robert Zajonc,
+    in which the mere presence of others enhances performance on simple or well-learned
+    tasks (where the dominant response is correct) but impairs performance on complex
+    or novel tasks (where the dominant response is likely incorrect), an effect attributed
+    to physiological arousal that strengthens dominant responses.
+- type: key-claim
+  title: Key claim about Social Facilitation
+  body: Social Facilitation links a robust performance effect (audience presence shifts
+    outcomes) to a specific moderator (task dominance) that predicts the *direction*
+    of the effect — making it one of the few social-influence findings with a quantitatively
+    specified theoretical structure rather than a directional but unmoderated description,
+    and giving practical implications for when audiences help vs. harm performance.
+- type: warning
+  title: Common pitfall regarding Social Facilitation
+  body: Social Facilitation effects are reliable but small in modern meta-analyses,
+    and the audience-effect literature has not cleanly resolved among competing mechanisms
+    (mere-presence vs. evaluation apprehension vs. distraction-conflict); citing social
+    facilitation as a clean confirmation of any single mechanism overreads the evidence.

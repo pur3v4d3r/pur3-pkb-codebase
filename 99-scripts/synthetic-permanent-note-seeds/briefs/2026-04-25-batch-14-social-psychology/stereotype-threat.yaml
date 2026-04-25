@@ -1,0 +1,41 @@
+concept: Stereotype Threat
+domain: social-psychology
+secondary_domains:
+- social-cognition
+- performance-research
+- education
+aliases:
+- Steele-Aronson stereotype threat
+broader:
+- stereotype-effects
+related:
+- stereotype-formation
+- working-memory
+- self-efficacy
+- identity-safety
+- steele-claude
+prerequisites:
+- stereotype-effects
+confidence: high
+callouts:
+- type: definition
+  title: Stereotype Threat
+  body: Stereotype Threat, demonstrated by Claude Steele and Joshua Aronson, is the
+    performance decrement that occurs when members of a negatively-stereotyped group
+    are placed in a setting where the stereotype is salient and applicable to the
+    task, attributed to working-memory consumption by stereotype-monitoring and emotion-regulation
+    processes that compete with task-relevant cognition.
+- type: key-claim
+  title: Key claim about Stereotype Threat
+  body: Stereotype Threat provides a non-essentialist explanation for portions of
+    the achievement gap on standardized tests — performance differences that disappear
+    or shrink when the stereotype is rendered non-applicable (e.g., framing the test
+    as non-diagnostic) — and shifts the explanatory burden from stable group differences
+    to context-dependent situational factors.
+- type: warning
+  title: Common pitfall regarding Stereotype Threat
+  body: 'Stereotype Threat has been a focal target of the replication crisis: meta-analyses
+    suggest publication-bias-corrected effect sizes substantially smaller than the
+    original literature implied, and several pre-registered replications have failed
+    to find the effect; treating stereotype threat as a settled, large-effect phenomenon
+    overstates the current evidential consensus.'

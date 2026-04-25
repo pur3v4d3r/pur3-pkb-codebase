@@ -1,0 +1,47 @@
+concept: Toulmin Argument Model
+domain: argumentation
+secondary_domains:
+- rhetoric
+- critical-thinking
+- philosophy-of-argument
+aliases:
+- Toulmin model
+- Toulmin scheme
+broader:
+- argumentation-models
+related:
+- toulmin-stephen
+- claim-data-warrant
+- argumentation-theory
+- rhetorical-analysis
+- informal-logic
+- rebuttal
+prerequisites:
+- argumentation-models
+confidence: high
+callouts:
+- type: definition
+  title: Toulmin Argument Model
+  body: The Toulmin Argument Model, developed by Stephen Toulmin in *The Uses of Argument*
+    (1958), is a structural model of practical argument that decomposes arguments
+    into six components — *claim* (the conclusion advanced), *data* (the grounds supporting
+    it), *warrant* (the inferential principle licensing the move from data to claim),
+    *backing* (support for the warrant), *qualifier* (the strength of the claim, e.g.,
+    "presumably"), and *rebuttal* (conditions under which the claim would not hold)
+    — providing a tool for analyzing real-world reasoning that formal logic was not
+    designed to model.
+- type: key-claim
+  title: Key claim about Toulmin Argument Model
+  body: The Toulmin Argument Model became foundational to contemporary informal-logic
+    and argumentation studies because it captured features of real arguments — defeasibility,
+    field-dependence of warrants, qualified conclusions — that classical logic abstracts
+    away, giving rhetoric, composition studies, and applied epistemology a structural
+    vocabulary suited to the kinds of arguments people actually make outside formalized
+    contexts.
+- type: warning
+  title: Common pitfall regarding Toulmin Argument Model
+  body: The Toulmin Argument Model is frequently taught as a rigid template for *constructing*
+    arguments, often producing wooden writing in which every essay marches through
+    claim-data-warrant in fixed order; Toulmin's purpose was *analysis* of existing
+    arguments rather than a writing template, and the prescriptive use distorts both
+    the model and the writing it shapes.

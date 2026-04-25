@@ -1,0 +1,43 @@
+concept: Stocks And Flows
+domain: systems-thinking
+secondary_domains:
+- systems-theory
+- system-dynamics
+aliases:
+- stock-and-flow models
+broader:
+- systems-modeling
+related:
+- causal-loop-diagrams
+- feedback-loops
+- system-dynamics
+- accumulation
+- forrester-jay
+- sterman-john
+prerequisites:
+- systems-modeling
+confidence: high
+callouts:
+- type: definition
+  title: Stocks And Flows
+  body: Stocks And Flows is the system-dynamics modeling formalism in which *stocks*
+    represent accumulations (water in a bathtub, money in an account, atmospheric
+    CO₂) and *flows* represent the rates at which stocks change (inflow, outflow),
+    with the central insight that stocks change only through their flows and that
+    human reasoning systematically underestimates how stocks behave under given flow
+    patterns.
+- type: key-claim
+  title: Key claim about Stocks And Flows
+  body: 'Stocks And Flows captures a class of *accumulation* phenomena that pure causal
+    reasoning routinely mishandles: the well-documented "stock-flow failure" (Sterman)
+    shows that even quantitatively trained adults misjudge how a stock will respond
+    to inflow-outflow imbalances, which is why climate-change mitigation timing, retirement-savings
+    adequacy, and pandemic-curve interpretation are predictably mis-reasoned by those
+    without explicit stock-flow training.'
+- type: warning
+  title: Common pitfall regarding Stocks And Flows
+  body: Stocks And Flows reasoning is non-trivial to internalize and is not adequately
+    conveyed by single-graphic illustrations; popularizations that present "the bathtub
+    model" without supporting practice in actually computing stock trajectories from
+    flow patterns leave readers with a memorable analogy but with the same stock-flow
+    reasoning errors the analogy was meant to correct.

@@ -1,0 +1,42 @@
+concept: Qualia
+domain: philosophy
+secondary_domains:
+- philosophy-of-mind
+- consciousness-studies
+aliases:
+- phenomenal properties
+- raw feels
+broader:
+- consciousness-theories
+related:
+- hard-problem-of-consciousness
+- functionalism
+- inverted-qualia
+- knowledge-argument
+- nagel-thomas
+- chalmers-david
+prerequisites:
+- consciousness-theories
+confidence: high
+callouts:
+- type: definition
+  title: Qualia
+  body: Qualia are the subjective, qualitative, intrinsic properties of conscious
+    experience — the redness of red, the painfulness of pain, the taste of coffee
+    — that constitute *what it is like* to undergo a mental state, and whose status
+    in physicalist ontology is the central battleground between reductive and non-reductive
+    accounts of consciousness.
+- type: key-claim
+  title: Key claim about Qualia
+  body: 'Qualia ground the Hard Problem of Consciousness (Chalmers): even a complete
+    functional and neural account of cognition appears to leave unanswered why those
+    processes are accompanied by subjective experience at all, an explanatory gap
+    that Frank Jackson''s Knowledge Argument (Mary the color scientist) and Thomas
+    Nagel''s "What Is It Like to Be a Bat?" attempt to formalize.'
+- type: warning
+  title: Common pitfall regarding Qualia
+  body: 'Qualia talk is contested at the foundational level: Daniel Dennett and other
+    eliminativists deny that qualia (in the strong sense of intrinsic, ineffable,
+    private properties) exist at all, treating them as a confused theoretical posit;
+    presenting qualia as an uncontroversial datum of philosophical analysis sidesteps
+    a substantive metaphysical disagreement.'

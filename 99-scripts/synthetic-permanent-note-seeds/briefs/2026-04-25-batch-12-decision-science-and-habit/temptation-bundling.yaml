@@ -1,0 +1,38 @@
+concept: Temptation Bundling
+domain: behavior-change
+secondary_domains:
+- behavioral-economics
+- self-regulation
+broader:
+- behavior-change-techniques
+related:
+- implementation-intention
+- commitment-device
+- present-bias
+- hyperbolic-discounting
+- milkman-katy
+prerequisites:
+- behavior-change-techniques
+confidence: high
+callouts:
+- type: definition
+  title: Temptation Bundling
+  body: Temptation Bundling, named and tested by Katy Milkman, is the self-control
+    strategy of pairing an instantly gratifying activity that is easy to overconsume
+    (binge-watching a series, listening to a beloved podcast) exclusively with an
+    aversive but valuable activity (gym workouts, household chores) so that access
+    to the temptation requires engaging in the should-do behavior.
+- type: key-claim
+  title: Key claim about Temptation Bundling
+  body: 'Temptation Bundling is one of the few self-control strategies with experimental
+    evidence for genuine, not just self-reported, behavior change: in the original
+    gym-and-audiobook study, the bundled-treatment group''s gym attendance rose substantially
+    over no-treatment controls, demonstrating that the want/should asymmetry can be
+    re-engineered rather than just willed away.'
+- type: warning
+  title: Common pitfall regarding Temptation Bundling
+  body: Temptation Bundling depends on the temptation remaining genuinely tempting
+    and the should-do remaining tolerable while bundled; the strategy degrades when
+    the temptation loses novelty or the should-do becomes acutely aversive, and treating
+    Temptation Bundling as a permanent fix rather than a periodically-refreshed scaffold
+    is the documented reason most bundling habits decay within months.

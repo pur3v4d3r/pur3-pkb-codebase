@@ -1,0 +1,41 @@
+concept: Social Proof
+domain: social-psychology
+secondary_domains:
+- social-influence
+- behavioral-economics
+aliases:
+- informational social influence
+broader:
+- social-influence
+related:
+- conformity
+- herd-behavior
+- descriptive-norms
+- cialdini-robert
+- nudge-theory
+- choice-architecture
+prerequisites:
+- social-influence
+confidence: high
+callouts:
+- type: definition
+  title: Social Proof
+  body: Social Proof, as catalogued by Robert Cialdini, is the principle that individuals
+    look to the behavior of others — particularly similar others, and particularly
+    under uncertainty — as evidence about the appropriate or correct course of action,
+    producing conformity that is informational (others know something I don't) rather
+    than normative (I want to fit in).
+- type: key-claim
+  title: Key claim about Social Proof
+  body: 'Social Proof produces measurable behavior shifts at population scale: descriptive-norm
+    interventions ("most people in your neighborhood conserve water") routinely outperform
+    informational appeals about the right thing to do, which has made social-proof
+    messaging a workhorse of behavioral public-policy practice from energy conservation
+    to tax compliance.'
+- type: warning
+  title: Common pitfall regarding Social Proof
+  body: Social Proof can backfire through *boomerang effects* when descriptive norms
+    are used to discourage common behaviors — telling people most others over-consume
+    signals that over-consumption is normal — so applied social-proof interventions
+    require pairing the descriptive norm with an injunctive norm (approval/disapproval
+    signal) to avoid licensing the very behavior they intend to suppress.

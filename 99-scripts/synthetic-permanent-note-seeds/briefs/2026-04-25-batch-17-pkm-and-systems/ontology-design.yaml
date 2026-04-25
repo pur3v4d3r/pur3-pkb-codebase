@@ -1,0 +1,44 @@
+concept: Ontology Design
+domain: pkm
+secondary_domains:
+- knowledge-engineering
+- semantic-web
+aliases:
+- ontology engineering
+broader:
+- knowledge-representation
+related:
+- taxonomy-design
+- information-architecture
+- semantic-web
+- owl
+- rdf
+- knowledge-graphs
+- gruber-thomas
+prerequisites:
+- knowledge-representation
+confidence: high
+callouts:
+- type: definition
+  title: Ontology Design
+  body: Ontology Design is the construction of explicit, machine-processable specifications
+    of a conceptual vocabulary for a domain — classes, properties, hierarchical relations,
+    and constraints — that constitute a shared model of what entities exist and how
+    they relate, supporting reasoning, integration across data sources, and semantic
+    interoperability of systems.
+- type: key-claim
+  title: Key claim about Ontology Design
+  body: 'Ontology Design is what makes a knowledge graph more than a collection of
+    typed links: the ontology specifies which inferences the graph licenses, which
+    constraints data must satisfy, and how heterogeneous sources can be merged on
+    common vocabulary, which is why scientifically and operationally serious knowledge-graph
+    projects (biomedical ontologies, schema.org) invest substantially in ontology
+    design.'
+- type: warning
+  title: Common pitfall regarding Ontology Design
+  body: Ontology Design is often over-applied to projects that would be better served
+    by simpler taxonomies or controlled vocabularies; full ontology design carries
+    substantial maintenance overhead and stakeholder-coordination cost, and adopting
+    OWL-style ontologies for problems whose semantics do not benefit from formal reasoning
+    produces a system that is harder to maintain than a flat tag scheme without commensurate
+    gain.

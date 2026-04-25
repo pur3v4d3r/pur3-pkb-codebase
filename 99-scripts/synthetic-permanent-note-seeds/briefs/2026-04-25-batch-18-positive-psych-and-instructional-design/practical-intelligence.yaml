@@ -1,0 +1,45 @@
+concept: Practical Intelligence
+domain: psychology
+secondary_domains:
+- intelligence-research
+- organizational-psychology
+aliases:
+- tacit knowledge
+- street smarts
+broader:
+- intelligence-theories
+related:
+- triarchic-theory-of-intelligence
+- sternberg-robert
+- tacit-knowledge
+- expertise
+- common-sense
+- social-intelligence
+prerequisites:
+- triarchic-theory-of-intelligence
+confidence: high
+callouts:
+- type: definition
+  title: Practical Intelligence
+  body: Practical Intelligence, in Sternberg's program, is the cognitive capacity
+    to apply knowledge effectively to real-world contexts — characterized by the acquisition
+    and use of *tacit knowledge* (knowledge of how to do things that is rarely explicitly
+    taught and is often acquired implicitly from experience) — and contrasted with
+    the analytical intelligence measured by conventional IQ tests, which assesses
+    well-defined problems with known correct answers.
+- type: key-claim
+  title: Key claim about Practical Intelligence
+  body: Practical Intelligence as a construct attempts to operationalize the long-standing
+    observation that conventional IQ tests fail to capture some cognitive capacities
+    relevant to everyday and professional success; the strongest version of the empirical
+    case is that tacit-knowledge measures predict job performance with some incremental
+    validity over IQ in certain occupations, justifying the construct as worth measuring
+    rather than dismissing.
+- type: warning
+  title: Common pitfall regarding Practical Intelligence
+  body: 'Practical Intelligence''s empirical record is mixed: the incremental-validity
+    claims have been challenged on methodological grounds (Gottfredson and others
+    have argued the apparent incremental validity disappears under more rigorous controls,
+    and the construct overlaps substantially with conscientiousness and job-specific
+    expertise), so adopting Practical Intelligence as an established complement to
+    IQ understates the contested status of the supporting evidence.'

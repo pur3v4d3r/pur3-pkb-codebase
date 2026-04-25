@@ -1,0 +1,45 @@
+concept: Leverage Points
+domain: systems-thinking
+secondary_domains:
+- systems-theory
+- intervention-design
+aliases:
+- Meadows leverage points
+broader:
+- systems-thinking
+related:
+- feedback-loops
+- system-dynamics
+- paradigm-shift
+- meadows-donella
+- intervention-design
+- system-archetypes
+prerequisites:
+- systems-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Leverage Points
+  body: 'Leverage Points, in Donella Meadows''s framework, are places within a complex
+    system where a small intervention can produce a large change in system behavior,
+    ranked from least to most powerful: numerical parameters (least leverage), buffer
+    sizes, system structure, delays, feedback-loop strength, information flows, system
+    rules, system goals, the paradigm out of which the system arises, and (most leverage)
+    the power to transcend paradigms.'
+- type: key-claim
+  title: Key claim about Leverage Points
+  body: 'Leverage Points sharply contradicts the practitioner intuition that the leverage
+    is in the parameters: Meadows argues — and case studies routinely confirm — that
+    the most-attempted interventions (changing tax rates, adjusting quotas, hiring
+    more staff) are at the lowest-leverage end of the hierarchy, while the highest-leverage
+    interventions (changing system goals, paradigms, and information flows) are the
+    rarely-attempted ones whose neglect explains why so many policy interventions
+    fail.'
+- type: warning
+  title: Common pitfall regarding Leverage Points
+  body: Leverage Points as a framework is qualitative and the ranking is heuristic
+    rather than empirically validated against a large case base; using Meadows's hierarchy
+    as a recipe ("always intervene at the paradigm level") ignores that paradigm-level
+    interventions are also the ones most likely to fail outright when the practitioner
+    lacks the political capital to land them, so the hierarchy is best read as a search-order
+    heuristic rather than a prescription.

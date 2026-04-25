@@ -1,0 +1,41 @@
+concept: Baddeley And Hitch Working Memory Model
+domain: educational-psychology
+secondary_domains:
+- cognitive-psychology
+- memory
+aliases:
+- Baddeley-Hitch model
+broader:
+- working-memory
+- the-componential-structure-of-working-memory
+related:
+- phonological-loop
+- visuospatial-sketchpad
+- central-executive
+- episodic-buffer
+- short-term-memory
+prerequisites:
+- short-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Baddeley And Hitch Working Memory Model
+  body: The Baddeley And Hitch Working Memory Model is the 1974 cognitive architecture
+    that replaced Atkinson and Shiffrin's unitary short-term store with a three-component
+    active workspace — central executive, phonological loop, visuospatial sketchpad
+    — later extended in 2000 by Baddeley with the episodic buffer to explain cross-modal
+    binding and chunking with long-term memory.
+- type: key-claim
+  title: Key claim about Baddeley And Hitch Working Memory Model
+  body: The Baddeley And Hitch Working Memory Model reframed short-term memory from
+    a passive temporary store into an *active processing system* whose limits are
+    not just capacity but also the coordination overhead of the central executive,
+    which is why working-memory limits explain reasoning and comprehension performance
+    better than digit-span ever did.
+- type: warning
+  title: Common pitfall regarding Baddeley And Hitch Working Memory Model
+  body: The Baddeley And Hitch Working Memory Model is often confused with general
+    "[[working-memory]]" as a folk term; the model is a *specific theoretical commitment*
+    to component decomposition and rivals exist (Cowan's embedded-process model, Engle's
+    controlled-attention view), so citing the model implies endorsement of those structural
+    claims, not just the broad idea that short-term workspace is limited.

@@ -1,0 +1,45 @@
+concept: Character Strengths
+domain: psychology
+secondary_domains:
+- positive-psychology
+- virtue-ethics
+aliases:
+- VIA character strengths
+- signature strengths
+broader:
+- positive-psychology
+related:
+- virtues
+- peterson-christopher
+- seligman-martin
+- via-classification
+- signature-strengths
+- psychological-flourishing
+prerequisites:
+- positive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Character Strengths
+  body: Character Strengths, in the VIA classification developed by Christopher Peterson
+    and Martin Seligman, are 24 positive personality traits organized under six broad
+    virtues (wisdom, courage, humanity, justice, temperance, transcendence) and identified
+    through cross-cultural and historical analysis as morally-valued capacities universally
+    recognized across major moral traditions, providing positive psychology with a
+    non-pathology-based parallel to the DSM's classification of disorders.
+- type: key-claim
+  title: Key claim about Character Strengths
+  body: Character Strengths gives positive psychology a structured, measurable taxonomy
+    of positive traits — an explicit corrective to the field's prior focus on what
+    goes wrong — and the related "signature strengths" intervention (identifying one's
+    top strengths and deliberately deploying them in new ways) has accumulated experimental
+    support as a relatively reliable producer of well-being gains, with effect sizes
+    comparable to many established positive interventions.
+- type: warning
+  title: Common pitfall regarding Character Strengths
+  body: Character Strengths' cross-cultural universality claim is sometimes overstated;
+    the VIA classification was derived from a curated set of philosophical and religious
+    traditions, and the universality argument is closer to "broadly recognized across
+    these traditions" than to "empirically universal across all human cultures," so
+    framing the 24 strengths as scientifically established cultural universals overshoots
+    what the construction methodology actually warranted.

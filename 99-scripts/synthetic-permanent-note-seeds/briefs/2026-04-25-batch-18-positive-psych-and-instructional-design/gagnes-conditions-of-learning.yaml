@@ -1,0 +1,47 @@
+concept: Gagnes Conditions Of Learning
+domain: instructional-design
+secondary_domains:
+- educational-psychology
+aliases:
+- Gagne nine events of instruction
+- Conditions of Learning
+broader:
+- instructional-design-theories
+related:
+- gagne-robert
+- nine-events-of-instruction
+- learning-hierarchies
+- instructional-design-models
+- addie-model
+- merrill-s-first-principles
+prerequisites:
+- instructional-design-theories
+confidence: high
+callouts:
+- type: definition
+  title: Gagnes Conditions Of Learning
+  body: Gagnes Conditions Of Learning is the instructional-design framework developed
+    by Robert Gagné that identifies five categories of learning outcomes (intellectual
+    skills, cognitive strategies, verbal information, motor skills, attitudes) and
+    specifies the *internal* and *external* conditions required for each, operationalized
+    for instructional practice through Gagné's *Nine Events of Instruction* — a sequenced
+    template (gain attention, inform learners of objectives, stimulate recall of prior
+    learning, present content, provide guidance, elicit performance, provide feedback,
+    assess performance, enhance retention and transfer) that organizes the conditions
+    into a teaching workflow.
+- type: key-claim
+  title: Key claim about Gagnes Conditions Of Learning
+  body: 'Gagnes Conditions Of Learning was foundational to the emergence of instructional
+    design as a discipline distinct from educational psychology and pedagogy: by tying
+    specific instructional events to specific learning processes, Gagné gave instructional
+    designers a principled basis for designing instruction rather than relying on
+    craft intuition, an influence visible in the structure of nearly all subsequent
+    ID models including ADDIE and Merrill''s First Principles.'
+- type: warning
+  title: Common pitfall regarding Gagnes Conditions Of Learning
+  body: 'Gagnes Conditions Of Learning is sometimes mechanically applied as a script
+    rather than as a principled framework: the Nine Events were intended as conditions
+    to be satisfied (potentially in various orders, using various techniques) rather
+    than as a fixed nine-step sequence to be marched through, and lock-step applications
+    of the events miss Gagné''s underlying point about matching instructional events
+    to the conditions actually needed for the targeted learning outcome.'

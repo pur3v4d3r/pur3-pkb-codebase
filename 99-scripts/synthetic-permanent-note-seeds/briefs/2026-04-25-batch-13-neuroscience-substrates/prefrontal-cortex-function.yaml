@@ -1,0 +1,43 @@
+concept: Prefrontal Cortex Function
+domain: neuroscience
+secondary_domains:
+- cognitive-neuroscience
+- executive-function
+aliases:
+- PFC
+- prefrontal function
+broader:
+- cortical-functional-organization
+related:
+- executive-function
+- working-memory
+- dorsolateral-prefrontal-cortex
+- ventromedial-prefrontal-cortex
+- default-mode-network
+- executive-attention-network
+prerequisites:
+- cortical-functional-organization
+confidence: high
+callouts:
+- type: definition
+  title: Prefrontal Cortex Function
+  body: Prefrontal Cortex Function refers to the cluster of higher-order cognitive
+    operations — working-memory maintenance, top-down attentional control, response
+    inhibition, planning, value-based decision-making, and social-cognitive regulation
+    — supported by the prefrontal cortex's dense reciprocal connections with sensory,
+    motor, limbic, and subcortical systems, organized along a posterior-to-anterior
+    gradient of abstraction.
+- type: key-claim
+  title: Key claim about Prefrontal Cortex Function
+  body: Prefrontal Cortex Function provides the mechanistic substrate for *cognitive
+    control* — the capacity to override prepotent responses in service of internally-represented
+    goals — and its protracted maturation through the mid-twenties explains both adolescent
+    risk-taking and the slow developmental trajectory of executive function competencies
+    that pedagogy depends on.
+- type: warning
+  title: Common pitfall regarding Prefrontal Cortex Function
+  body: Prefrontal Cortex Function is often glossed as "the seat of executive function"
+    or "the rational brain"; this localization is misleading because executive function
+    depends on distributed networks (PFC + parietal + striatal nodes), and "rational
+    vs. emotional brain" framings ignore that ventromedial PFC is centrally implicated
+    in *emotion* and value computation, not its absence.

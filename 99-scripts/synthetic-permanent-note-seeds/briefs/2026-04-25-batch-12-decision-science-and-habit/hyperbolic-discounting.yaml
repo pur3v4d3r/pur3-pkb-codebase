@@ -1,0 +1,41 @@
+concept: Hyperbolic Discounting
+domain: decision-science
+secondary_domains:
+- behavioral-economics
+- neuroeconomics
+aliases:
+- present-biased preferences
+broader:
+- intertemporal-choice
+related:
+- present-bias
+- exponential-discounting
+- time-preference
+- delay-discounting
+- akrasia
+- self-control
+prerequisites:
+- intertemporal-choice
+confidence: high
+callouts:
+- type: definition
+  title: Hyperbolic Discounting
+  body: 'Hyperbolic Discounting is the empirical pattern in which the subjective value
+    of a future reward declines steeply over short delays and then much more gradually
+    over long ones — fitting a hyperbolic rather than exponential function — producing
+    preference reversals: an agent prefers $110 in 31 days over $100 in 30 days, but
+    prefers $100 today over $110 tomorrow.'
+- type: key-claim
+  title: Key claim about Hyperbolic Discounting
+  body: Hyperbolic Discounting formally predicts time-inconsistent preferences and
+    is the leading mathematical account of self-control failures, procrastination,
+    and addictive choice; the preference reversals it generates are not noise but
+    a structural consequence of the discount function's shape, which is why exponential-discounting
+    models systematically underpredict these failures.
+- type: warning
+  title: Common pitfall regarding Hyperbolic Discounting
+  body: Hyperbolic Discounting is sometimes invoked to argue that humans are "irrational"
+    about the future; the more careful claim is that hyperbolic discounting is *time-inconsistent*
+    with respect to a single agent's own earlier preferences — the agent at t=0 disagrees
+    with the agent at t=29 — which is a coordination problem across temporal selves
+    rather than a defect in any single decision.

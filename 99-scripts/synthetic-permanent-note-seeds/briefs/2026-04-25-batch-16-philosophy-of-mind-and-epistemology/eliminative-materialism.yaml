@@ -1,0 +1,42 @@
+concept: Eliminative Materialism
+domain: philosophy
+secondary_domains:
+- philosophy-of-mind
+- philosophy-of-science
+aliases:
+- eliminativism
+broader:
+- physicalism
+related:
+- folk-psychology
+- churchland-paul
+- churchland-patricia
+- intentionality
+- qualia
+- theory-theory
+prerequisites:
+- physicalism
+confidence: high
+callouts:
+- type: definition
+  title: Eliminative Materialism
+  body: Eliminative Materialism, defended most prominently by Paul and Patricia Churchland,
+    is the position that *folk-psychological* categories (beliefs, desires, propositional
+    attitudes) are posits of a defective theory and will be eliminated in favor of
+    more accurate neuroscientific concepts — analogous to the way "phlogiston," "vital
+    force," and "ether" were eliminated rather than reduced.
+- type: key-claim
+  title: Key claim about Eliminative Materialism
+  body: 'Eliminative Materialism takes seriously the possibility that the mind sciences
+    will, on the scale of generations, *replace* rather than vindicate everyday mental
+    vocabulary, which raises a sharp meta-scientific question that other physicalist
+    positions soften: physicalism alone does not entail that folk psychology will
+    survive in any form, and Eliminative Materialism is the consistent extreme of
+    taking that contingency seriously.'
+- type: warning
+  title: Common pitfall regarding Eliminative Materialism
+  body: Eliminative Materialism is often dismissed as self-refuting (the eliminativist
+    must believe there are no beliefs); the Churchlands' careful response is that
+    the appearance of self-refutation depends on assuming the very folk-psychological
+    framework whose adequacy is in question, and dismissals that do not engage this
+    response misrepresent the dialectic.

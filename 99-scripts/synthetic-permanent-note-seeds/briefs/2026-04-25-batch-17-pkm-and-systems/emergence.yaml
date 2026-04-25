@@ -1,0 +1,40 @@
+concept: Emergence
+domain: systems-thinking
+secondary_domains:
+- complexity-science
+- philosophy-of-science
+broader:
+- complex-systems
+related:
+- complex-adaptive-systems
+- downward-causation
+- weak-emergence
+- strong-emergence
+- reductionism
+- self-organization
+prerequisites:
+- complex-systems
+confidence: high
+callouts:
+- type: definition
+  title: Emergence
+  body: Emergence is the property by which a system exhibits collective behaviors,
+    patterns, or capacities at a higher level of organization that are not directly
+    present in or trivially deducible from the properties of its components in isolation
+    — exemplified by traffic-jam dynamics emerging from individual driver behaviors,
+    market prices from individual traders, or consciousness (controversially) from
+    neuronal activity.
+- type: key-claim
+  title: Key claim about Emergence
+  body: Emergence is real and consequential in the *weak* sense — many higher-level
+    patterns are practically unpredictable from component-level descriptions even
+    when in-principle reducibility is granted — which validates higher-level explanations
+    as scientifically legitimate even when the underlying components are physically
+    well-characterized.
+- type: warning
+  title: Common pitfall regarding Emergence
+  body: Emergence is often invoked rhetorically to suggest that higher-level phenomena
+    escape physical explanation altogether (*strong* emergence with downward causation),
+    a metaphysically substantial claim that is much harder to defend than the weaker
+    explanatory-autonomy point usually intended; conflating weak and strong emergence
+    licenses metaphysical conclusions that the supporting cases do not actually warrant.

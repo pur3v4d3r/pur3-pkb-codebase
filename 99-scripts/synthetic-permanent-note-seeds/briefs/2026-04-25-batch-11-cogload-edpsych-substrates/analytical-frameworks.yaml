@@ -1,0 +1,40 @@
+concept: Analytical Frameworks
+domain: epistemology
+secondary_domains:
+- research-methods
+- critical-thinking
+aliases:
+- conceptual frameworks
+broader:
+- thinking-tools
+related:
+- theoretical-framework
+- mental-model
+- conceptual-scheme
+- decision-framework
+- systems-thinking
+prerequisites:
+- conceptual-frameworks
+confidence: high
+callouts:
+- type: definition
+  title: Analytical Frameworks
+  body: 'Analytical Frameworks are explicit conceptual structures — sets of categories,
+    relations, and inferential rules — that an analyst imposes on a problem to render
+    it tractable: PESTEL for environment scanning, SWOT for strategic position, Porter''s
+    Five Forces for industry analysis, Toulmin''s argument model for reasoning structure,
+    the OODA loop for decision contexts.'
+- type: key-claim
+  title: Key claim about Analytical Frameworks
+  body: 'Analytical Frameworks earn their value through *constraint*: by deciding
+    in advance what categories are admissible and what relations matter, a framework
+    prevents the analyst from drifting through the problem space and surfaces gaps
+    that ad-hoc reasoning would silently skip — which is why framework choice is itself
+    a substantive analytic act, not a presentational one.'
+- type: warning
+  title: Common pitfall regarding Analytical Frameworks
+  body: Analytical Frameworks become liabilities when they ossify into checklists;
+    the moment "did we apply the framework?" replaces "does the framework illuminate
+    this case?" the framework is generating false confidence rather than insight,
+    and seasoned analysts treat frameworks as scaffolds to be abandoned once the problem's
+    actual structure becomes visible.

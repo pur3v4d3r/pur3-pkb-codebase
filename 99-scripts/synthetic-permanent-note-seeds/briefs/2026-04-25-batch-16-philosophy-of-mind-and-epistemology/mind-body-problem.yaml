@@ -1,0 +1,43 @@
+concept: Mind Body Problem
+domain: philosophy
+secondary_domains:
+- philosophy-of-mind
+- metaphysics
+aliases:
+- mind-body problem
+- mind-brain problem
+broader:
+- philosophy-of-mind
+related:
+- dualism
+- physicalism
+- mental-causation
+- qualia
+- descartes-rene
+- supervenience
+prerequisites:
+- philosophy-of-mind
+confidence: high
+callouts:
+- type: definition
+  title: Mind Body Problem
+  body: The Mind Body Problem is the perennial philosophical problem of characterizing
+    the relationship between mental phenomena and physical phenomena — whether they
+    are distinct substances (substance dualism), distinct properties of one substance
+    (property dualism), identical (identity theory), functionally related (functionalism),
+    or one reducible to the other (eliminative or reductive physicalism) — together
+    with the question of how, on any answer, mental and physical can causally interact.
+- type: key-claim
+  title: Key claim about Mind Body Problem
+  body: The Mind Body Problem is not a single problem but a family — the metaphysical
+    question (what mind is), the explanatory question (how to explain experience),
+    the causal question (mental causation), and the epistemological question (how
+    mind is known) — and progress on one need not entail progress on the others, which
+    is why the problem persists despite genuine advances in cognitive neuroscience.
+- type: warning
+  title: Common pitfall regarding Mind Body Problem
+  body: The Mind Body Problem is sometimes declared dissolved by appeal to neuroscientific
+    success; the dissolution is at best partial — neuroscience addresses the *easy*
+    problems of cognitive function while the hard problem of phenomenal consciousness
+    remains contested, and triumphalist dissolutions overstate what current empirical
+    advances actually settle.

@@ -1,0 +1,45 @@
+concept: Analogical Mapping
+domain: cognitive-science
+secondary_domains:
+- cognitive-science
+- problem-solving
+aliases:
+- structure mapping
+- analogical reasoning
+broader:
+- analogical-reasoning
+related:
+- structure-mapping-theory
+- gentner-dedre
+- transfer-of-learning
+- problem-solving
+- conceptual-blending
+- schema-induction
+prerequisites:
+- analogical-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Analogical Mapping
+  body: Analogical Mapping, formalized by Dedre Gentner's Structure Mapping Theory,
+    is the cognitive process of identifying systematic relational correspondences
+    between a familiar *base* and an unfamiliar *target* — preferentially aligning
+    higher-order relations over surface attributes — and projecting candidate inferences
+    from base to target, providing the operational mechanism behind cross-domain problem
+    solving and instructional analogies.
+- type: key-claim
+  title: Key claim about Analogical Mapping
+  body: Analogical Mapping accounts for both the power of analogy in instruction (a
+    well-chosen base imports an entire relational structure into the target domain)
+    and the difficulty of *spontaneous* analogy use (learners cued by surface features
+    fail to retrieve structurally relevant bases); the structure-vs-surface dissociation
+    explains why transfer of learning is so much harder than acquisition of the original
+    case.
+- type: warning
+  title: Common pitfall regarding Analogical Mapping
+  body: Analogical Mapping research has identified retrieval as the bottleneck for
+    spontaneous analogy use; instructional prescriptions to "use more analogies" frequently
+    neglect that learners need explicit cuing or repeated abstract schema encounters
+    before analogical retrieval reliably operates without prompting, so the prescription
+    as commonly given underspecifies the conditions under which analogies actually
+    transfer.

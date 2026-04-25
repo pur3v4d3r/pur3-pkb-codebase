@@ -1,0 +1,43 @@
+concept: Complex Adaptive Systems
+domain: systems-thinking
+secondary_domains:
+- complexity-science
+- ecology
+- organizational-theory
+aliases:
+- CAS
+broader:
+- complex-systems
+related:
+- emergence
+- self-organization
+- agent-based-modeling
+- holland-john
+- evolutionary-dynamics
+- sante-fe-institute
+prerequisites:
+- complex-systems
+confidence: high
+callouts:
+- type: definition
+  title: Complex Adaptive Systems
+  body: Complex Adaptive Systems are dynamic systems composed of many interacting
+    agents that follow local rules, exhibit emergent collective behavior, and *adapt*
+    over time through learning, evolution, or selection — categories that include
+    ecosystems, economies, immune systems, brains, and human organizations — characterized
+    by non-linearity, path-dependence, and resistance to reductive prediction.
+- type: key-claim
+  title: Key claim about Complex Adaptive Systems
+  body: 'Complex Adaptive Systems require analytical methods beyond classical equilibrium
+    analysis: agent-based modeling, network analysis, and adaptive-landscape thinking,
+    because CAS routinely exhibit phase transitions, regime shifts, and counter-intuitive
+    responses to interventions that linear models predict away — making CAS-thinking
+    a corrective to policy and management approaches built on equilibrium assumptions.'
+- type: warning
+  title: Common pitfall regarding Complex Adaptive Systems
+  body: Complex Adaptive Systems vocabulary has been adopted in management and self-help
+    contexts in ways that drain it of analytical content ("organizations are CAS,
+    therefore plans don't work"); the rigorous content of CAS theory makes specific
+    predictions about phase transitions, sensitivity to initial conditions, and intervention
+    leverage that loose appropriations omit, so CAS as a buzzword does not license
+    the policy conclusions CAS as a science would.

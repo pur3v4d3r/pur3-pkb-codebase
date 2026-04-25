@@ -1,0 +1,40 @@
+concept: Feedback Loops
+domain: systems-thinking
+secondary_domains:
+- systems-theory
+- cybernetics
+broader:
+- systems-thinking
+related:
+- reinforcing-loops
+- balancing-loops
+- causal-loop-diagrams
+- systems-dynamics
+- meadows-donella
+- wiener-norbert
+prerequisites:
+- systems-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Feedback Loops
+  body: Feedback Loops are the structural patterns in dynamic systems in which an
+    output of a process is routed back as input, producing either *reinforcing* feedback
+    (the output amplifies the same direction of change, as in compound interest or
+    population growth) or *balancing* feedback (the output dampens or reverses the
+    change, as in thermostats or homeostasis), and constituting the fundamental causal
+    building block of system dynamics.
+- type: key-claim
+  title: Key claim about Feedback Loops
+  body: 'Feedback Loops give systems thinking its distinctive explanatory power: behavioral
+    patterns that look mysterious when each event is treated in isolation (sudden
+    collapses, persistent oscillations, runaway growth) become predictable consequences
+    of the loop structure, which is why competent systems analysis identifies the
+    operative loops first and reasons about specific events second.'
+- type: warning
+  title: Common pitfall regarding Feedback Loops
+  body: Feedback Loops are often misidentified at the level of intuitive narrative
+    without the rigor of explicit loop diagrams; the resulting "feedback loops" cited
+    in popular systems-thinking commentary frequently turn out to be unidirectional
+    causal chains or correlations rather than genuine loops, which undermines the
+    analytical advantage the construct is supposed to provide.

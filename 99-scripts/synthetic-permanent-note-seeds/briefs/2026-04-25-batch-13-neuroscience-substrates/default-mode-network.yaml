@@ -1,0 +1,41 @@
+concept: Default Mode Network
+domain: neuroscience
+secondary_domains:
+- cognitive-neuroscience
+- consciousness-studies
+aliases:
+- DMN
+- default network
+broader:
+- large-scale-brain-networks
+related:
+- salience-network
+- executive-attention-network
+- mind-wandering
+- self-referential-thought
+- prefrontal-cortex-function
+prerequisites:
+- large-scale-brain-networks
+confidence: high
+callouts:
+- type: definition
+  title: Default Mode Network
+  body: The Default Mode Network is a large-scale brain network — anchored in medial
+    prefrontal cortex, posterior cingulate cortex, and bilateral angular gyri — that
+    increases its activity during rest, mind-wandering, autobiographical recall, future
+    planning, and self-referential thought, and decreases during externally-directed
+    attention tasks, making it the canonical "task-negative" system of the human brain.
+- type: key-claim
+  title: Key claim about Default Mode Network
+  body: 'The Default Mode Network reframes the resting brain as *actively constructive*
+    rather than idle: rather than being the absence of cognition, baseline brain activity
+    is dominated by an internally-oriented self-modeling system whose dysregulation
+    is implicated in depression (excess rumination), Alzheimer''s disease (DMN-anchored
+    amyloid deposition), and ADHD (failure to suppress DMN during focused tasks).'
+- type: warning
+  title: Common pitfall regarding Default Mode Network
+  body: The Default Mode Network is often colloquially equated with "mind-wandering"
+    or "the wandering mind"; the network's actual computational role is broader —
+    autobiographical memory, social cognition, theory-of-mind — and the casual conflation
+    produces popular-science claims (e.g., "shut down your default network for focus")
+    that the empirical literature does not warrant.

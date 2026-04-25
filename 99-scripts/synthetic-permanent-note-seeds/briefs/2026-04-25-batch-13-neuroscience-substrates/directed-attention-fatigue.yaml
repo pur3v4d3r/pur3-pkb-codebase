@@ -1,0 +1,43 @@
+concept: Directed Attention Fatigue
+domain: neuroscience
+secondary_domains:
+- environmental-psychology
+- attention-restoration
+aliases:
+- DAF
+- attention fatigue
+broader:
+- attention-restoration-theory
+related:
+- attention-restoration-theory
+- executive-attention-network
+- ego-depletion
+- kaplan-rachel
+- kaplan-stephen
+- biophilia-hypothesis
+prerequisites:
+- attention-restoration-theory
+confidence: high
+callouts:
+- type: definition
+  title: Directed Attention Fatigue
+  body: Directed Attention Fatigue is the temporary depletion of voluntary, top-down
+    attentional capacity that follows sustained effort to suppress distracting stimuli
+    and maintain focus on a task — distinct from physical fatigue or sleepiness —
+    and that is hypothesized in Attention Restoration Theory to be alleviated by exposure
+    to environments (notably natural settings) which engage involuntary attention
+    without taxing the directed-attention system.
+- type: key-claim
+  title: Key claim about Directed Attention Fatigue
+  body: 'Directed Attention Fatigue grounds Attention Restoration Theory''s empirical
+    predictions: short walks in natural settings (vs. urban) reliably restore performance
+    on attention-demanding tasks, an effect attributed not to mood lift alone but
+    to differential demand on the directed-attention system, providing one of the
+    cleanest mechanistic links from environmental design to cognitive performance.'
+- type: warning
+  title: Common pitfall regarding Directed Attention Fatigue
+  body: Directed Attention Fatigue effect sizes in the broader replication record
+    are smaller than the early literature implied, and the construct overlaps substantially
+    with general mental fatigue and ego depletion (whose own replicability is under
+    serious challenge); presenting Directed Attention Fatigue as a robustly distinct,
+    well-measured construct overstates the current evidential consensus.

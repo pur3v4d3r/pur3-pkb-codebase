@@ -1,0 +1,44 @@
+concept: Psychological Resilience
+domain: psychology
+secondary_domains:
+- positive-psychology
+- clinical-psychology
+aliases:
+- resilience
+broader:
+- positive-psychology
+related:
+- post-traumatic-growth
+- broaden-and-build-theory
+- coping-strategies
+- hardiness
+- masten-ann
+- ego-resiliency
+prerequisites:
+- positive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Psychological Resilience
+  body: Psychological Resilience is the capacity to maintain or recover psychological
+    functioning in the face of adversity, trauma, threat, or significant stress —
+    operationalized in the empirical literature as the absence of expected adverse
+    outcomes (chronic PTSD, prolonged depression) following exposure to events that
+    typically produce them — distinct from both passive lack of distress and active
+    coping in being characterized by *adaptive functional continuity*.
+- type: key-claim
+  title: Key claim about Psychological Resilience
+  body: 'Psychological Resilience is, contrary to popular framing, the *modal* adult
+    outcome following most adverse events: empirical work by Bonanno and others shows
+    that the majority of adults exposed to bereavement, disaster, or trauma exhibit
+    resilience trajectories rather than chronic disturbance, recasting resilience
+    as the typical case rather than the exceptional achievement and shifting research
+    attention toward understanding the minority who do not exhibit it.'
+- type: warning
+  title: Common pitfall regarding Psychological Resilience
+  body: 'Psychological Resilience as a construct is contested at the boundaries: definitions
+    vary across studies (absence of pathology vs. presence of growth vs. functional
+    continuity), measurement is heterogeneous, and the construct can shade into victim-blaming
+    when individual resilience is invoked to explain away the role of structural conditions
+    in producing distress; using "resilience" without specifying the operationalization
+    invites these confusions.'

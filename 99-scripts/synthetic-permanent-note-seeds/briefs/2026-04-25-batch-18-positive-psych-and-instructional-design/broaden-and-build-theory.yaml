@@ -1,0 +1,44 @@
+concept: Broaden And Build Theory
+domain: psychology
+secondary_domains:
+- positive-psychology
+- emotion-regulation
+aliases:
+- Fredrickson broaden-and-build
+broader:
+- positive-emotion-theory
+related:
+- positive-emotions
+- fredrickson-barbara
+- undoing-effect
+- upward-spirals
+- psychological-resilience
+- character-strengths
+prerequisites:
+- positive-emotion-theory
+confidence: high
+callouts:
+- type: definition
+  title: Broaden And Build Theory
+  body: Broaden And Build Theory, developed by Barbara Fredrickson, is the positive-psychology
+    account of the function of positive emotions, holding that whereas negative emotions
+    narrow attention and behavioral repertoires for immediate threat response, positive
+    emotions *broaden* momentary thought-action repertoires and over time *build*
+    enduring personal resources — physical, intellectual, social, and psychological
+    — that remain available long after the triggering emotion has passed.
+- type: key-claim
+  title: Key claim about Broaden And Build Theory
+  body: 'Broaden And Build Theory reframes positive emotions as functional rather
+    than ornamental: they are not simply pleasant by-products of well-being but evolved
+    mechanisms whose adaptive role is the long-term construction of resource reserves,
+    which gives positive psychology a principled functional account complementary
+    to the well-established functional accounts of negative emotions in evolutionary
+    affective science.'
+- type: warning
+  title: Common pitfall regarding Broaden And Build Theory
+  body: Broaden And Build Theory's experimental support is real but uneven across
+    its specific claims; the broadening of attention has the strongest empirical foundation,
+    while the long-term resource-building claims rely on longitudinal evidence with
+    the inferential limitations that domain inherits, so practitioner applications
+    that promise specific resource gains from positive-emotion induction overstate
+    what the underlying evidence actually establishes.

@@ -1,0 +1,120 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-16-philosophy-of-mind-and-epistemology",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-16-philosophy-of-mind-and-epistemology.md",
+    "notes": "Two clusters: philosophy of mind (8) + epistemology (8). Bridges\ncognitive-science substrate notes to the normative questions about\nknowledge and consciousness those sciences inherit."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-16-philosophy-of-mind-and-epistemology"
+  },
+  "counts": {
+    "parsed": 16,
+    "accepted": 16,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Functionalism",
+      "kebab": "functionalism",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/functionalism.yaml",
+      "expected_seed_filename": "functionalism-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Phenomenology",
+      "kebab": "phenomenology",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/phenomenology.yaml",
+      "expected_seed_filename": "phenomenology-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Qualia",
+      "kebab": "qualia",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/qualia.yaml",
+      "expected_seed_filename": "qualia-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Intentionality",
+      "kebab": "intentionality",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/intentionality.yaml",
+      "expected_seed_filename": "intentionality-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Mental Causation",
+      "kebab": "mental-causation",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/mental-causation.yaml",
+      "expected_seed_filename": "mental-causation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Consciousness Theories",
+      "kebab": "consciousness-theories",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/consciousness-theories.yaml",
+      "expected_seed_filename": "consciousness-theories-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Eliminative Materialism",
+      "kebab": "eliminative-materialism",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/eliminative-materialism.yaml",
+      "expected_seed_filename": "eliminative-materialism-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Mind Body Problem",
+      "kebab": "mind-body-problem",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/mind-body-problem.yaml",
+      "expected_seed_filename": "mind-body-problem-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Justified True Belief",
+      "kebab": "justified-true-belief",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/justified-true-belief.yaml",
+      "expected_seed_filename": "justified-true-belief-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Epistemic Justification",
+      "kebab": "epistemic-justification",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/epistemic-justification.yaml",
+      "expected_seed_filename": "epistemic-justification-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Foundationalism",
+      "kebab": "foundationalism",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/foundationalism.yaml",
+      "expected_seed_filename": "foundationalism-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Coherentism",
+      "kebab": "coherentism",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/coherentism.yaml",
+      "expected_seed_filename": "coherentism-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Reliabilism",
+      "kebab": "reliabilism",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/reliabilism.yaml",
+      "expected_seed_filename": "reliabilism-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Social Epistemology",
+      "kebab": "social-epistemology",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/social-epistemology.yaml",
+      "expected_seed_filename": "social-epistemology-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Epistemic Injustice",
+      "kebab": "epistemic-injustice",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/epistemic-injustice.yaml",
+      "expected_seed_filename": "epistemic-injustice-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Knowledge By Acquaintance Vs Description",
+      "kebab": "knowledge-by-acquaintance-vs-description",
+      "brief_path": "briefs/2026-04-25-batch-16-philosophy-of-mind-and-epistemology/knowledge-by-acquaintance-vs-description.yaml",
+      "expected_seed_filename": "knowledge-by-acquaintance-vs-description-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

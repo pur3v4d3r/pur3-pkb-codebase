@@ -1,0 +1,42 @@
+concept: Narrative Cognition
+domain: cognitive-science
+secondary_domains:
+- cognitive-science
+- discourse-comprehension
+aliases:
+- narrative comprehension
+- story comprehension
+broader:
+- discourse-comprehension
+related:
+- situation-models
+- mental-simulation
+- episodic-memory
+- theory-of-mind
+- narrative-transportation
+- bruner-jerome
+prerequisites:
+- discourse-comprehension
+confidence: high
+callouts:
+- type: definition
+  title: Narrative Cognition
+  body: Narrative Cognition is the body of cognitive processes by which humans comprehend,
+    remember, generate, and reason about temporally-organized causal sequences involving
+    agents and goals — including construction of *situation models* that integrate
+    spatial, temporal, causal, intentional, and protagonist dimensions of the narrated
+    events into a unified mental representation.
+- type: key-claim
+  title: Key claim about Narrative Cognition
+  body: 'Narrative Cognition is a distinct cognitive mode, not a mere stylistic packaging
+    of information: narrative-formatted material is encoded faster, recalled more
+    durably, and produces more persuasion-relevant attitude change than the same propositional
+    content in non-narrative format, supporting Jerome Bruner''s distinction between
+    narrative and paradigmatic modes of thought as cognitively non-equivalent.'
+- type: warning
+  title: Common pitfall regarding Narrative Cognition
+  body: 'Narrative Cognition''s processing advantages can be exploited adversarially:
+    the same mechanisms that aid comprehension and recall also reduce critical scrutiny
+    (narrative transportation suppresses counterarguing), so prescriptions to "communicate
+    via story" inherit a responsibility burden that pure-information communication
+    does not, a trade-off applied science-communication advocacy frequently understates.'

@@ -1,0 +1,39 @@
+concept: Domain Specific Knowledge
+domain: educational-psychology
+secondary_domains:
+- cognitive-science
+- expertise-research
+broader:
+- knowledge-types
+related:
+- domain-general-knowledge
+- schema
+- expertise
+- transfer-of-learning
+- biological-secondary-knowledge
+prerequisites:
+- schema
+confidence: high
+callouts:
+- type: definition
+  title: Domain Specific Knowledge
+  body: Domain Specific Knowledge is content tied to a particular subject area — the
+    facts, procedures, conventions, and conceptual schemas of, say, chess, organic
+    chemistry, or constitutional law — that does not transfer freely to unrelated
+    domains because its structure, vocabulary, and inference patterns are local to
+    that subject.
+- type: key-claim
+  title: Key claim about Domain Specific Knowledge
+  body: Domain Specific Knowledge is the largest predictor of expert performance within
+    a field, dwarfing general intelligence and domain-general strategies once a threshold
+    of practice is met; this is why subject-matter [[schema]] density, not general
+    "thinking skills" training, is the reliable lever for advancing competence in
+    any specific domain.
+- type: warning
+  title: Common pitfall regarding Domain Specific Knowledge
+  body: The dominance of Domain Specific Knowledge is sometimes overgeneralized into
+    "transfer never happens"; transfer is rare and conditional rather than absent,
+    and shared deep structure (analogical mapping, abstract principles) can produce
+    real if modest cross-domain transfer when explicitly bridged — the point is that
+    general-skills training without domain content is a poor bet, not that transfer
+    is impossible.

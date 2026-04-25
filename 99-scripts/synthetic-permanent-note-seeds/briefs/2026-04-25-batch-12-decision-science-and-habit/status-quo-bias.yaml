@@ -1,0 +1,38 @@
+concept: Status Quo Bias
+domain: decision-science
+secondary_domains:
+- behavioral-economics
+- choice-architecture
+broader:
+- decision-biases
+related:
+- loss-aversion
+- endowment-effect
+- default-effect
+- choice-architecture
+- nudge-theory
+- omission-bias
+prerequisites:
+- loss-aversion
+confidence: high
+callouts:
+- type: definition
+  title: Status Quo Bias
+  body: Status Quo Bias is the tendency to disproportionately prefer the current state
+    of affairs over alternatives, even when the alternatives would be chosen if the
+    current state were not labelled as default — a pattern most cleanly demonstrated
+    in default-option experiments where simply changing which option is pre-selected
+    produces large shifts in chosen behavior.
+- type: key-claim
+  title: Key claim about Status Quo Bias
+  body: 'Status Quo Bias is an emergent consequence of [[loss-aversion]] applied to
+    a moving reference point: the current state becomes the reference, deviations
+    are coded as losses (which are weighted more heavily than the foregone gains of
+    switching), so the asymmetry shows up as inertia even when the switch is materially
+    attractive.'
+- type: warning
+  title: Common pitfall regarding Status Quo Bias
+  body: Status Quo Bias is sometimes equated with "laziness" or "irrationality"; in
+    many contexts it is a sensible heuristic — defaults often encode accumulated wisdom,
+    and switching costs are real — so the bias is best framed as systematic deviation
+    from indifference, not as a defect to be eliminated wherever it appears.

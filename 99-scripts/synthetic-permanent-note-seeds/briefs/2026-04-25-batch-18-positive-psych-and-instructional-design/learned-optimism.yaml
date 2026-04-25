@@ -1,0 +1,44 @@
+concept: Learned Optimism
+domain: psychology
+secondary_domains:
+- positive-psychology
+- cognitive-therapy
+aliases:
+- Seligman learned optimism
+- optimistic explanatory style
+broader:
+- explanatory-style
+related:
+- learned-helplessness
+- explanatory-style
+- seligman-martin
+- cognitive-restructuring
+- attributional-style
+- depression-prevention
+prerequisites:
+- explanatory-style
+confidence: high
+callouts:
+- type: definition
+  title: Learned Optimism
+  body: Learned Optimism, developed by Martin Seligman, is the cognitive-behavioral
+    framework that characterizes optimism and pessimism as *learned explanatory styles*
+    — habitual ways of explaining good and bad events along three dimensions (permanence,
+    pervasiveness, personalization) — and demonstrates that pessimistic explanatory
+    style can be modified through cognitive techniques to confer measurable benefits
+    in mood, performance, and resilience.
+- type: key-claim
+  title: Key claim about Learned Optimism
+  body: Learned Optimism gives optimism a non-mystical operationalization (a measurable
+    explanatory-style profile) and a teachable mechanism (cognitive disputation of
+    pessimistic explanations), placing it on the same methodological footing as cognitive
+    therapy for depression — to which it is in fact closely related, as Seligman's
+    work on learned helplessness directly informed Beck's cognitive theory of depression.
+- type: warning
+  title: Common pitfall regarding Learned Optimism
+  body: Learned Optimism is sometimes oversold in popular self-help adaptations as
+    a guarantee of life outcomes; the empirical effects, though real, are moderate,
+    are most reliable for affective and motivational outcomes rather than objective
+    achievement, and can be counterproductive when optimism is detached from accurate
+    reality assessment — defensive pessimism, for instance, is the better strategy
+    for some personality profiles.

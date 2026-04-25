@@ -1,0 +1,44 @@
+concept: Wisdom
+domain: psychology
+secondary_domains:
+- positive-psychology
+- philosophy
+aliases:
+- psychological wisdom
+- Berlin wisdom paradigm
+broader:
+- character-strengths
+related:
+- practical-intelligence
+- baltes-paul
+- sternberg-robert
+- character-strengths
+- expertise-fundamental-pragmatics-of-life
+- judgment
+prerequisites:
+- character-strengths
+confidence: high
+callouts:
+- type: definition
+  title: Wisdom
+  body: Wisdom, in the empirical psychological tradition (notably the Berlin Wisdom
+    Paradigm of Paul Baltes and colleagues), is operationalized as expert-level knowledge
+    about the *fundamental pragmatics of life* — uncertain and conflict-laden problems
+    of human existence — and is assessed through structured think-aloud responses
+    to dilemmas, scored against criteria including factual knowledge, procedural knowledge,
+    lifespan contextualism, value relativism, and recognition and management of uncertainty.
+- type: key-claim
+  title: Key claim about Wisdom
+  body: Wisdom in the Berlin paradigm and related programs has been moved from a purely
+    philosophical or popular notion into a measurable psychological construct with
+    documented developmental, individual-difference, and intervention findings — including
+    the empirical regularity that wisdom-related performance does not increase monotonically
+    with age (contradicting the folk assumption) but is associated with specific combinations
+    of personality, professional experience, and cognitive style.
+- type: warning
+  title: Common pitfall regarding Wisdom
+  body: Wisdom is operationalized differently across competing programs (Berlin, Sternberg's
+    balance theory, Ardelt's three-dimensional model, Grossmann's wise-reasoning paradigm),
+    and these operationalizations measure overlapping but distinct phenomena; treating
+    "wisdom" as a single construct in cross-program syntheses produces conclusions
+    that depend on unacknowledged choices about which operationalization is privileged.

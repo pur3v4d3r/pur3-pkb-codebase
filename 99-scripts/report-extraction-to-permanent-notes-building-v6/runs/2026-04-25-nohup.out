@@ -1,0 +1,37 @@
+nohup: ignoring input
+--- batch: 2026-04-25-2026-04-25-batch-11-cogload-edpsych-substrates ---
+    input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-11-cogload-edpsych-substrates
+05:39:05 [INFO] __main__: Discovered 15 JSON file(s)
+05:39:05 [INFO] __main__: Mined 15 concept candidate(s)
+  V6 elaborating — The History And Evolution Of Cognitive L ------ 15/15 0:11:…
+
+=== V6 Summary ===
+  JSONs scanned     : 15
+  Concepts mined    : 15
+  Written/dry-ran   : 15
+  Skipped (collision): 0
+  Unworthy (gate)   : 0
+  Failed            : 0
+  LLM cache hits    : 0
+
+05:50:13 [INFO] __main__: Wrote V6 report → runs\2026-04-25-v6-2026-04-25-2026-04-25-batch-11-cogload-edpsych-substrates.json
+--- batch: 2026-04-25-2026-04-25-batch-12-decision-science-and-habit ---
+    input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-12-decision-science-and-habit
+05:50:14 [INFO] __main__: Discovered 14 JSON file(s)
+05:50:14 [INFO] __main__: Mined 14 concept candidate(s)
+  V6 elaborating — Transtheoretical Model ----------------------- 14/14 0:10:56
+
+=== V6 Summary ===
+  JSONs scanned     : 14
+  Concepts mined    : 14
+  Written/dry-ran   : 14
+  Skipped (collision): 0
+  Unworthy (gate)   : 0
+  Failed            : 0
+  LLM cache hits    : 0
+
+06:01:11 [INFO] __main__: Wrote V6 report → runs\2026-04-25-v6-2026-04-25-2026-04-25-batch-12-decision-science-and-habit.json
+--- batch: 2026-04-25-2026-04-25-batch-13-neuroscience-substrates ---
+    input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-13-neuroscience-substrates
+06:01:11 [INFO] __main__: Discovered 10 JSON file(s)
+06:01:11 [INFO] __main__: Mined 10 concept candidate(s)

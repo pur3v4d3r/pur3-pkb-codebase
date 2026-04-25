@@ -1,0 +1,47 @@
+concept: Learning Objectives Taxonomy
+domain: instructional-design
+secondary_domains:
+- educational-psychology
+- assessment
+aliases:
+- Bloom's taxonomy
+- revised Bloom's taxonomy
+broader:
+- educational-objectives
+related:
+- bloom-benjamin
+- anderson-krathwohl
+- cognitive-domain
+- affective-domain
+- psychomotor-domain
+- learning-objectives
+- marzano-taxonomy
+prerequisites:
+- educational-objectives
+confidence: high
+callouts:
+- type: definition
+  title: Learning Objectives Taxonomy
+  body: Learning Objectives Taxonomy refers to the family of hierarchical classifications
+    of educational objectives — most prominently Bloom's Taxonomy (1956) for the cognitive
+    domain, organized as Knowledge, Comprehension, Application, Analysis, Synthesis,
+    Evaluation, with the Anderson-Krathwohl revision (2001) reframing the levels as
+    verbs (Remember, Understand, Apply, Analyze, Evaluate, Create) and elevating Create
+    to the top — used to specify and assess the cognitive complexity targeted by instruction.
+- type: key-claim
+  title: Key claim about Learning Objectives Taxonomy
+  body: Learning Objectives Taxonomy gave education a shared vocabulary for *cognitive
+    complexity* in objectives and assessment, allowing curricula to be examined for
+    whether they over-target the lower levels (recall) at the expense of higher-order
+    thinking (analysis, evaluation, creation) — an analytical capability that has
+    structured curriculum reform, assessment design, and instructional planning across
+    decades and educational systems.
+- type: warning
+  title: Common pitfall regarding Learning Objectives Taxonomy
+  body: 'Learning Objectives Taxonomy levels are not as cleanly hierarchical as the
+    original visual presentation suggests: tasks routinely engage multiple levels
+    simultaneously, "higher" levels can sometimes be achieved without mastery of "lower"
+    levels in the traditional sequence, and the empirical evidence for the strict
+    hierarchy has always been modest; using the taxonomy as a rigid scaffold rather
+    than a heuristic vocabulary embeds assumptions the underlying theory does not
+    warrant.'

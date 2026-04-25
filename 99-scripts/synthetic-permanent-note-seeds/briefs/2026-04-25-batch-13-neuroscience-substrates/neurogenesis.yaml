@@ -1,0 +1,41 @@
+concept: Neurogenesis
+domain: neuroscience
+secondary_domains:
+- developmental-neuroscience
+- learning-and-memory
+aliases:
+- adult neurogenesis
+broader:
+- neuroplasticity
+related:
+- neuroplasticity
+- hippocampus
+- BDNF
+- synaptic-pruning
+- exercise-and-cognition
+- sleep-stages-and-memory
+prerequisites:
+- neuroplasticity
+confidence: high
+callouts:
+- type: definition
+  title: Neurogenesis
+  body: Neurogenesis is the generation of new neurons from neural stem cells, occurring
+    extensively during embryonic development and persisting in adulthood at restricted
+    sites — most prominently the dentate gyrus of the hippocampus — where newly generated
+    granule neurons integrate into existing circuits and contribute to pattern separation
+    in episodic memory.
+- type: key-claim
+  title: Key claim about Neurogenesis
+  body: 'Neurogenesis in the adult hippocampus is modulated by experience: aerobic
+    exercise, environmental enrichment, and learning increase neurogenesis, while
+    chronic stress and elevated glucocorticoids suppress it, providing a mechanistic
+    substrate by which lifestyle variables exert measurable effects on memory function
+    and mood regulation.'
+- type: warning
+  title: Common pitfall regarding Neurogenesis
+  body: Neurogenesis claims about adult humans are still contested — a 2018 Cell paper
+    failed to find adult human hippocampal neurogenesis, while subsequent studies
+    using different methods reported it does occur — so neurogenesis-based interventions
+    ("grow new brain cells with exercise") are presented in popular media with more
+    confidence than the human evidence base supports.

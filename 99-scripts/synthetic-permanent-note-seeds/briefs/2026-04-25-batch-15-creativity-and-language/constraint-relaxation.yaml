@@ -1,0 +1,43 @@
+concept: Constraint Relaxation
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- problem-solving
+aliases:
+- constraint-relaxation theory
+broader:
+- insight-problem-solving
+related:
+- insight-problem-solving
+- impasse-and-restructuring
+- fixation
+- knoblich-guenther
+- matchstick-problems
+- representational-change-theory
+prerequisites:
+- insight-problem-solving
+confidence: high
+callouts:
+- type: definition
+  title: Constraint Relaxation
+  body: Constraint Relaxation, in Günther Knoblich's representational-change theory
+    of insight, is the cognitive operation in which an implicit, self-imposed constraint
+    on the problem representation is identified and *relaxed*, opening previously-prohibited
+    moves and enabling the restructuring that yields the solution — the canonical
+    demonstration being matchstick arithmetic problems where the constraint "do not
+    move the operator" must be relaxed to solve.
+- type: key-claim
+  title: Key claim about Constraint Relaxation
+  body: 'Constraint Relaxation identifies a specific, testable mechanism for the otherwise
+    mysterious "restructuring" step in insight: rather than treating restructuring
+    as a black-box reorganization, the constraint-relaxation account predicts which
+    problems will be hard (those whose unstated constraints are deeply chunked) and
+    which hints will help (those that surface or weaken the operative constraint),
+    making insight cognition empirically tractable.'
+- type: warning
+  title: Common pitfall regarding Constraint Relaxation
+  body: Constraint Relaxation's evidential base is concentrated in geometric and matchstick
+    puzzles whose constraint structure is unusually sharp; in ill-defined creative
+    tasks, the constraints to be relaxed are typically less crisp, so constraint-relaxation
+    predictions in real-world creative cognition rest on extrapolations that the puzzle-based
+    literature does not strictly license.

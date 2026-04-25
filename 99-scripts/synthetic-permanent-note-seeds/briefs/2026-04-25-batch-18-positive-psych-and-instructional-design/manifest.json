@@ -1,0 +1,138 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-18-positive-psych-and-instructional-design",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-18-positive-psych-and-instructional-design.md",
+    "notes": "Final batch covering positive psychology (7), intelligence theory (4),\ninstructional design (4), and argumentation theory (3) leftovers.\nPer-term domain overrides applied for instructional-design and\nargumentation clusters."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-18-positive-psych-and-instructional-design",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-18-positive-psych-and-instructional-design"
+  },
+  "counts": {
+    "parsed": 19,
+    "accepted": 19,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Broaden And Build Theory",
+      "kebab": "broaden-and-build-theory",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/broaden-and-build-theory.yaml",
+      "expected_seed_filename": "broaden-and-build-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Learned Optimism",
+      "kebab": "learned-optimism",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/learned-optimism.yaml",
+      "expected_seed_filename": "learned-optimism-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Psychological Resilience",
+      "kebab": "psychological-resilience",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/psychological-resilience.yaml",
+      "expected_seed_filename": "psychological-resilience-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Post Traumatic Growth",
+      "kebab": "post-traumatic-growth",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/post-traumatic-growth.yaml",
+      "expected_seed_filename": "post-traumatic-growth-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Character Strengths",
+      "kebab": "character-strengths",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/character-strengths.yaml",
+      "expected_seed_filename": "character-strengths-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Psychological Flourishing",
+      "kebab": "psychological-flourishing",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/psychological-flourishing.yaml",
+      "expected_seed_filename": "psychological-flourishing-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Benefit Finding",
+      "kebab": "benefit-finding",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/benefit-finding.yaml",
+      "expected_seed_filename": "benefit-finding-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Multiple Intelligences Theory",
+      "kebab": "multiple-intelligences-theory",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/multiple-intelligences-theory.yaml",
+      "expected_seed_filename": "multiple-intelligences-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Triarchic Theory Of Intelligence",
+      "kebab": "triarchic-theory-of-intelligence",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/triarchic-theory-of-intelligence.yaml",
+      "expected_seed_filename": "triarchic-theory-of-intelligence-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "General Factor G",
+      "kebab": "general-factor-g",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/general-factor-g.yaml",
+      "expected_seed_filename": "general-factor-g-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Practical Intelligence",
+      "kebab": "practical-intelligence",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/practical-intelligence.yaml",
+      "expected_seed_filename": "practical-intelligence-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Wisdom",
+      "kebab": "wisdom",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/wisdom.yaml",
+      "expected_seed_filename": "wisdom-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Gagnes Conditions Of Learning",
+      "kebab": "gagnes-conditions-of-learning",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/gagnes-conditions-of-learning.yaml",
+      "expected_seed_filename": "gagnes-conditions-of-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Merrill S First Principles",
+      "kebab": "merrill-s-first-principles",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/merrill-s-first-principles.yaml",
+      "expected_seed_filename": "merrill-s-first-principles-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Addie Model",
+      "kebab": "addie-model",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/addie-model.yaml",
+      "expected_seed_filename": "addie-model-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Learning Objectives Taxonomy",
+      "kebab": "learning-objectives-taxonomy",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/learning-objectives-taxonomy.yaml",
+      "expected_seed_filename": "learning-objectives-taxonomy-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Toulmin Argument Model",
+      "kebab": "toulmin-argument-model",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/toulmin-argument-model.yaml",
+      "expected_seed_filename": "toulmin-argument-model-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Explanatory Coherence",
+      "kebab": "explanatory-coherence",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/explanatory-coherence.yaml",
+      "expected_seed_filename": "explanatory-coherence-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Rhetorical Modes",
+      "kebab": "rhetorical-modes",
+      "brief_path": "briefs/2026-04-25-batch-18-positive-psych-and-instructional-design/rhetorical-modes.yaml",
+      "expected_seed_filename": "rhetorical-modes-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

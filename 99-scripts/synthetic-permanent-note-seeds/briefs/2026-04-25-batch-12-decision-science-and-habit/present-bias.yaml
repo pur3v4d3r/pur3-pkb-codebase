@@ -1,0 +1,40 @@
+concept: Present Bias
+domain: decision-science
+secondary_domains:
+- behavioral-economics
+- self-regulation
+aliases:
+- immediacy bias
+broader:
+- hyperbolic-discounting
+related:
+- hyperbolic-discounting
+- akrasia
+- self-control
+- implementation-intention
+- commitment-device
+prerequisites:
+- hyperbolic-discounting
+confidence: high
+callouts:
+- type: definition
+  title: Present Bias
+  body: Present Bias is the asymmetric weighting of immediate versus delayed payoffs
+    in which the *present moment* receives an extra premium beyond what any smooth
+    time-discount function would predict, producing a sharp discontinuity between
+    "now" and "any future at all" that is responsible for much of the predictive power
+    of quasi-hyperbolic (β-δ) discounting models.
+- type: key-claim
+  title: Key claim about Present Bias
+  body: Present Bias predicts that people will rationally pre-commit against their
+    future selves — joining gym memberships they will resent, locking savings into
+    illiquid accounts, deleting apps from phones — because they correctly anticipate
+    that their future self will reweight the immediate moment in ways their current
+    self disapproves of; this is the empirical basis of [[commitment-device]] design.
+- type: warning
+  title: Common pitfall regarding Present Bias
+  body: Present Bias is sometimes confused with simple impatience; the distinguishing
+    diagnostic is *preference reversal* — an impatient but time-consistent agent will
+    not change ranking as the decision moment approaches, but a present-biased one
+    will, and only the present-biased pattern licenses the welfare-improving role
+    of commitment devices.

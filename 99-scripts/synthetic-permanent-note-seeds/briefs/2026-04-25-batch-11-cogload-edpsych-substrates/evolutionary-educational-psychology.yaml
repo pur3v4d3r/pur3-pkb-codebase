@@ -1,0 +1,41 @@
+concept: Evolutionary Educational Psychology
+domain: educational-psychology
+secondary_domains:
+- evolutionary-psychology
+- learning-science
+broader:
+- educational-psychology
+related:
+- biological-primary-knowledge
+- biological-secondary-knowledge
+- cognitive-load
+- explicit-instruction
+- geary-david
+prerequisites:
+- educational-psychology
+- evolutionary-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Evolutionary Educational Psychology
+  body: Evolutionary Educational Psychology is the framework, developed primarily
+    by David Geary, that distinguishes between *biologically primary knowledge* —
+    abilities humans acquire effortlessly through enculturation because evolutionary
+    pressure shaped dedicated cognitive mechanisms (basic language, social inference,
+    folk physics) — and *biologically secondary knowledge* — culturally invented domains
+    (literacy, algebra, formal logic) that require deliberate instruction because
+    no evolved mechanism supports their acquisition.
+- type: key-claim
+  title: Key claim about Evolutionary Educational Psychology
+  body: 'Evolutionary Educational Psychology supplies the theoretical justification
+    for [[explicit-instruction]] in formal academic content: because biologically
+    secondary knowledge is evolutionarily novel, the brain has no module designed
+    to acquire it incidentally, so discovery-based pedagogies systematically misallocate
+    effort by treating secondary content as if it were primary.'
+- type: warning
+  title: Common pitfall regarding Evolutionary Educational Psychology
+  body: Evolutionary Educational Psychology is sometimes invoked to argue that *all*
+    discovery learning is wasteful or that *all* direct instruction is superior; the
+    actual claim is conditional on knowledge type, and within biologically primary
+    domains (early language, social skill development) discovery-rich environments
+    remain appropriate — the framework targets *secondary* content specifically.

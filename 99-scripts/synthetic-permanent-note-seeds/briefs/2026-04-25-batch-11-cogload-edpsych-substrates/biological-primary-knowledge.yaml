@@ -1,0 +1,38 @@
+concept: Biological Primary Knowledge
+domain: educational-psychology
+secondary_domains:
+- evolutionary-psychology
+- cognitive-development
+broader:
+- evolutionary-educational-psychology
+related:
+- biological-secondary-knowledge
+- language-acquisition
+- folk-physics
+- theory-of-mind
+- geary-david
+prerequisites:
+- evolutionary-educational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Biological Primary Knowledge
+  body: Biological Primary Knowledge is the class of cognitive competencies — basic
+    spoken language, face recognition, social-attention reading, intuitive number
+    sense, folk physics — that humans acquire effortlessly across cultures because
+    evolutionary pressure has built dedicated processing mechanisms for them, requiring
+    exposure rather than instruction to develop.
+- type: key-claim
+  title: Key claim about Biological Primary Knowledge
+  body: Biological Primary Knowledge is the implicit baseline that makes much of cognitive
+    development look "automatic"; recognizing which competencies are primary clarifies
+    why early childhood looks like spontaneous mastery in some domains while later
+    academic learning requires sustained deliberate effort — the difference is evolutionary
+    ancestry, not learner motivation.
+- type: warning
+  title: Common pitfall regarding Biological Primary Knowledge
+  body: Labeling something as Biological Primary Knowledge is not a license to assume
+    zero environmental input is needed; primary domains still require species-typical
+    exposure (a child without language input does not develop language), and the "primary"
+    label refers to the *type* of cognitive support, not the absence of any developmental
+    requirement.

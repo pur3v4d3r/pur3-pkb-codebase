@@ -1,0 +1,44 @@
+concept: Language Acquisition
+domain: cognitive-science
+secondary_domains:
+- psycholinguistics
+- developmental-psychology
+aliases:
+- first-language acquisition
+broader:
+- developmental-psycholinguistics
+related:
+- universal-grammar
+- statistical-learning
+- critical-period
+- sapir-whorf-hypothesis
+- chomsky-noam
+- tomasello-michael
+prerequisites:
+- developmental-psycholinguistics
+confidence: high
+callouts:
+- type: definition
+  title: Language Acquisition
+  body: Language Acquisition is the developmental process by which children, in roughly
+    the first five years and largely without explicit instruction, acquire the phonology,
+    morphology, syntax, semantics, and pragmatics of one or more native languages
+    — a process whose speed, regularity across cultures, and robustness under degraded
+    input has made the underlying mechanism a central battleground between nativist
+    (universal-grammar) and usage-based (statistical-learning) theoretical traditions.
+- type: key-claim
+  title: Key claim about Language Acquisition
+  body: 'Language Acquisition''s striking developmental regularities — the sequence
+    of milestones, the U-shaped overgeneralization curves for morphology, the closing
+    of critical-period sensitivity for native-like phonology — constrain any candidate
+    theory of cognitive development: a theory that does not predict at least these
+    regularities is empirically inadequate, and the contemporary debate is over which
+    mixture of innate biases and statistical-learning mechanisms is necessary and
+    sufficient.'
+- type: warning
+  title: Common pitfall regarding Language Acquisition
+  body: Language Acquisition is sometimes presented as a settled victory for one theoretical
+    camp; in fact the nativist-vs-usage-based debate remains genuinely open, with
+    the strongest contemporary positions admitting both substantial domain-specific
+    learning biases *and* substantial statistical-learning capacity, so polemic accounts
+    that present either position as fully ascendant misrepresent the field.

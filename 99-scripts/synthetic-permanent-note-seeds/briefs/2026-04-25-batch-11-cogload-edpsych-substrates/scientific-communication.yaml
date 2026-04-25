@@ -1,0 +1,37 @@
+concept: Scientific Communication
+domain: research-methods
+secondary_domains:
+- philosophy-of-science
+- science-of-science
+related:
+- scientific-method
+- peer-review
+- replication-crisis-in-psychology
+- evidence-evaluation
+- expertise-recognition
+prerequisites:
+- scientific-method
+confidence: high
+callouts:
+- type: definition
+  title: Scientific Communication
+  body: Scientific Communication is the family of practices by which research findings
+    are encoded, transmitted, evaluated, and integrated into the cumulative knowledge
+    base — encompassing manuscript writing, peer review, conference presentation,
+    preprint posting, replication reporting, and public-facing science communication
+    — each with its own epistemic norms about what counts as evidence, attribution,
+    and warranted confidence.
+- type: key-claim
+  title: Key claim about Scientific Communication
+  body: 'Scientific Communication is not a transparent transport layer for findings
+    but a *generative* process: the choice of journal, framing, statistical reporting,
+    and figure design materially shape which results get cited, replicated, and built
+    upon, which is why methodological reform efforts target communication norms (preregistration,
+    registered reports) rather than just researcher behavior.'
+- type: warning
+  title: Common pitfall regarding Scientific Communication
+  body: Treating Scientific Communication as synonymous with "explaining science to
+    laypeople" misses the harder problem — peer-to-peer scientific communication itself
+    fails routinely (incomplete methods sections, p-hacking obscured by selective
+    reporting, terminology drift across subfields), and these intra-scientific failures
+    are upstream of the public communication problems that get most of the attention.

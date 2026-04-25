@@ -1,0 +1,43 @@
+concept: Note Taking Systems Comparison
+domain: pkm
+secondary_domains:
+- knowledge-management
+- productivity
+aliases:
+- PKM systems comparison
+broader:
+- pkm-frameworks
+related:
+- zettelkasten-method
+- para-method
+- slip-box-methodology
+- building-a-second-brain
+- gtd-method
+- evergreen-notes
+prerequisites:
+- pkm-frameworks
+confidence: high
+callouts:
+- type: definition
+  title: Note Taking Systems Comparison
+  body: Note Taking Systems Comparison is the practitioner-oriented analysis of how
+    the major contemporary PKM frameworks — Zettelkasten/slip-box, PARA, Building
+    a Second Brain, GTD, evergreen notes, digital gardens — differ in their emphasis
+    on capture, organization, distillation, retrieval, and creative output, and which
+    framework best fits which user purposes (academic research, project execution,
+    public publishing, lifelong learning).
+- type: key-claim
+  title: Key claim about Note Taking Systems Comparison
+  body: 'Note Taking Systems Comparison establishes that no single framework dominates:
+    the frameworks differentiate on dimensions (action-orientation vs. idea-development,
+    hierarchical vs. networked, capture-heavy vs. distillation-heavy), and a user''s
+    purposes select different optimal frameworks, so the productive question is not
+    "which is the best PKM system?" but "which combination matches my specific cognitive
+    work?"'
+- type: warning
+  title: Common pitfall regarding Note Taking Systems Comparison
+  body: Note Taking Systems Comparison discussions in popular PKM discourse often
+    treat the frameworks as competing brands rather than as overlapping toolsets;
+    in practice most successful long-term PKM users blend elements (PARA file structure
+    with Zettelkasten note-content discipline, for instance), so framework-purist
+    advocacy obscures how successful practice actually composes the available patterns.

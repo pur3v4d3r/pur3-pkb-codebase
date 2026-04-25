@@ -1,0 +1,38 @@
+concept: Loss Aversion
+domain: decision-science
+secondary_domains:
+- behavioral-economics
+- cognitive-psychology
+broader:
+- prospect-theory
+related:
+- endowment-effect
+- status-quo-bias
+- sunk-cost-fallacy
+- framing-effect
+- reference-dependence
+prerequisites:
+- prospect-theory
+confidence: high
+callouts:
+- type: definition
+  title: Loss Aversion
+  body: Loss Aversion is the empirical regularity, central to Prospect Theory, that
+    the psychological pain of a loss of magnitude X exceeds the psychological pleasure
+    of an equivalent gain of magnitude X by roughly a factor of two, producing systematic
+    asymmetries in choice — risk aversion in the gain domain, risk seeking in the
+    loss domain, and reluctance to accept fair gambles.
+- type: key-claim
+  title: Key claim about Loss Aversion
+  body: Loss Aversion is the proximal cause of several economically consequential
+    anomalies — the [[endowment-effect]] (people demand more to give up an item than
+    they would pay to acquire it), [[status-quo-bias]], and the disposition effect
+    in investing — making it one of the highest-yield single constructs in behavioral
+    economics for explaining real-world choice.
+- type: warning
+  title: Common pitfall regarding Loss Aversion
+  body: Loss Aversion has been challenged in recent meta-analyses as smaller and more
+    context-sensitive than the canonical "2x" estimate suggests; treating Loss Aversion
+    as a fixed psychological constant — rather than a parameter that varies with stakes,
+    framing, and population — is a form of pseudo-precision the original literature
+    does not actually support.

@@ -1,0 +1,44 @@
+concept: Persuasion Theory
+domain: social-psychology
+secondary_domains:
+- attitude-change
+- communication
+aliases:
+- elaboration likelihood model
+- ELM
+broader:
+- attitude-change
+related:
+- attitude-formation
+- cognitive-dissonance
+- central-vs-peripheral-route
+- petty-richard
+- cacioppo-john
+- heuristic-systematic-model
+prerequisites:
+- attitude-research
+confidence: high
+callouts:
+- type: definition
+  title: Persuasion Theory
+  body: 'Persuasion Theory in its dominant modern formulation (Petty and Cacioppo''s
+    Elaboration Likelihood Model, with Chaiken''s parallel Heuristic-Systematic Model)
+    holds that attitude change occurs via two routes: a *central* route in which recipients
+    carefully evaluate argument quality (when motivation and ability to process are
+    high), and a *peripheral* route in which they rely on heuristic cues (source credibility,
+    message length, communicator attractiveness) when motivation or ability is low.'
+- type: key-claim
+  title: Key claim about Persuasion Theory
+  body: 'Persuasion Theory''s dual-route framework predicts a critical moderation:
+    high-quality arguments outperform low-quality arguments only under high-elaboration
+    conditions, while peripheral cues (e.g., expert source) move attitudes only under
+    low-elaboration conditions — explaining why the same persuasive ingredient succeeds
+    in one context and fails in another, and why "stronger arguments" do not uniformly
+    produce stronger persuasion.'
+- type: warning
+  title: Common pitfall regarding Persuasion Theory
+  body: Persuasion Theory's two routes are often described as discrete; the original
+    ELM frames them as poles of a continuum, and the simplistic "central good / peripheral
+    bad" gloss misses that peripheral processing is normatively appropriate when ability
+    to process is genuinely limited — a nuance that "high-road persuasion" advocacy
+    in applied settings frequently elides.

@@ -1,0 +1,38 @@
+concept: The Evolution Of Germane Load
+domain: educational-psychology
+secondary_domains:
+- cognitive-load-theory
+- instructional-design
+broader:
+- cognitive-load
+related:
+- intrinsic-load
+- extraneous-load
+- schema-acquisition
+- working-memory
+prerequisites:
+- cognitive-load
+confidence: high
+callouts:
+- type: definition
+  title: The Evolution Of Germane Load
+  body: The Evolution Of Germane Load is the historical re-positioning of "germane
+    load" inside Cognitive Load Theory, moving it from a third additive category of
+    working-memory load (alongside intrinsic and extraneous) to a description of the
+    *learner's allocation of working-memory resources to schema-construction processes
+    acting on intrinsic load*, rather than a separate kind of load to be measured
+    or budgeted.
+- type: key-claim
+  title: Key claim about The Evolution Of Germane Load
+  body: The Evolution Of Germane Load resolved a measurement contradiction in the
+    original triple-additive model — if all three loads sum to a fixed working-memory
+    ceiling, manipulating one should predictably trade off with the others, but germane
+    manipulations did not behave that way; treating germane processing as *re-investment
+    of freed-up capacity* into [[schema]] formation made the theory internally consistent.
+- type: warning
+  title: Common pitfall regarding The Evolution Of Germane Load
+  body: Citing The Evolution Of Germane Load to claim that "germane load doesn't exist
+    anymore" overstates the move; the construct was not eliminated, it was relocated
+    — instructional designers still need to plan for whether learners will spend freed
+    [[working-memory]] resources on productive schema-construction, which is precisely
+    what the revised germane construct captures.

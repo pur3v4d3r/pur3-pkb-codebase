@@ -1,0 +1,40 @@
+concept: Educational Assessment
+domain: educational-psychology
+secondary_domains:
+- educational-psychology
+- measurement
+- psychometrics
+broader:
+- assessment
+related:
+- formative-assessment
+- summative-assessment
+- validity
+- reliability
+- learning-analytics
+- retrieval-practice
+- testing-effect
+prerequisites:
+- psychometrics
+confidence: high
+callouts:
+- type: definition
+  title: Educational Assessment
+  body: Educational Assessment is the systematic process of gathering evidence about
+    what learners know and can do — through tests, performance tasks, portfolios,
+    observations, and process traces — and interpreting that evidence against intended
+    learning outcomes, encompassing both *formative* assessment that informs ongoing
+    instruction and *summative* assessment that certifies attainment.
+- type: key-claim
+  title: Key claim about Educational Assessment
+  body: Educational Assessment is itself an instructional intervention, not merely
+    a measurement instrument; the act of being tested produces the [[testing-effect]]
+    that strengthens retention, and the form of assessment shapes what learners attend
+    to and rehearse — meaning assessment design is curriculum design by another name.
+- type: warning
+  title: Common pitfall regarding Educational Assessment
+  body: Reducing Educational Assessment to "testing" obscures the validity question
+    that does the real work — a perfectly reliable test of the wrong construct is
+    worse than a noisy test of the right one — and high-stakes summative regimes routinely
+    degrade the construct they measure by inducing teaching-to-the-test behaviors
+    that hollow out the underlying competence.

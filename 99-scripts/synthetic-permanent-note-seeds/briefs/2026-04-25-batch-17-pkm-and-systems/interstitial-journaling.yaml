@@ -1,0 +1,42 @@
+concept: Interstitial Journaling
+domain: pkm
+secondary_domains:
+- productivity
+- journaling
+aliases:
+- Wenger interstitial journaling
+broader:
+- journaling-techniques
+related:
+- stream-journaling
+- daily-notes
+- time-tracking
+- focus-techniques
+- wenger-tony
+- metacognition
+prerequisites:
+- journaling-techniques
+confidence: high
+callouts:
+- type: definition
+  title: Interstitial Journaling
+  body: Interstitial Journaling, named by Tony Stubblebine, is the practice of writing
+    brief journal entries *between* tasks throughout the day — typically a few sentences
+    capturing what was just completed, what comes next, and present mental state —
+    using the transition moments as the journaling occasions rather than reserving
+    journaling for a dedicated end-of-day session.
+- type: key-claim
+  title: Key claim about Interstitial Journaling
+  body: Interstitial Journaling exploits the cognitive fact that task transitions
+    are the natural points where attention de-couples from the previous task and is
+    vulnerable to distraction; using those moments to write briefly redirects the
+    freed attention into a structured reorientation toward the next task, simultaneously
+    generating a passive log of the day's actual flow that supports later review and
+    decision-making.
+- type: warning
+  title: Common pitfall regarding Interstitial Journaling
+  body: Interstitial Journaling can become a procrastination habit when the journaling
+    itself displaces work, and the value of the captured log degrades unless it is
+    periodically reviewed; treating Interstitial Journaling as inherently productive
+    without a review cadence converts a deliberate metacognitive practice into a self-indulgent
+    text-stream that consumes time without compounding into insight.

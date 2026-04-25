@@ -1,0 +1,41 @@
+concept: Epistemic Justification
+domain: epistemology
+secondary_domains:
+- analytic-epistemology
+aliases:
+- theory of justification
+broader:
+- epistemology
+related:
+- justified-true-belief
+- foundationalism
+- coherentism
+- reliabilism
+- internalism-vs-externalism
+- evidentialism
+prerequisites:
+- epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Justification
+  body: Epistemic Justification is the property a belief possesses when the believer
+    has appropriate epistemic grounds for it — evidence, reliable cognitive processes,
+    coherence with other justified beliefs, or some combination — and is the central
+    evaluative notion in epistemology, distinct from truth (a justified belief can
+    still be false) and from mere belief (an unjustified belief is still a belief).
+- type: key-claim
+  title: Key claim about Epistemic Justification
+  body: 'Epistemic Justification splits the field along the internalism-vs-externalism
+    axis: internalists hold that what justifies a belief must be cognitively accessible
+    to the believer (evidentialism, classical foundationalism), while externalists
+    hold that justification depends on objective features of the belief-forming process
+    (reliabilism, proper function) regardless of accessibility — a divide that organizes
+    most contemporary work in the theory of justification.'
+- type: warning
+  title: Common pitfall regarding Epistemic Justification
+  body: Epistemic Justification is sometimes equated with rationality or with truth-tracking;
+    the construct is more constrained — it is specifically the property whose presence
+    is needed (alongside truth and belief) for knowledge — and conflating justification
+    with broader normative notions in epistemology systematically blurs important
+    distinctions among competing theories.

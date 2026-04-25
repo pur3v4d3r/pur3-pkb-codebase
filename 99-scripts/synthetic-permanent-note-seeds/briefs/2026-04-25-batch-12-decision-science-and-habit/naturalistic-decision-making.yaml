@@ -1,0 +1,45 @@
+concept: Naturalistic Decision Making
+domain: decision-science
+secondary_domains:
+- decision-science
+- expertise-research
+- applied-cognitive-psychology
+aliases:
+- NDM
+broader:
+- decision-science
+related:
+- recognition-primed-decision-model
+- expertise
+- situation-awareness
+- klein-gary
+- ecological-rationality
+- fast-and-frugal-heuristics
+prerequisites:
+- decision-science
+confidence: high
+callouts:
+- type: definition
+  title: Naturalistic Decision Making
+  body: Naturalistic Decision Making is the research program studying how experienced
+    practitioners actually make decisions in real-world settings characterized by
+    time pressure, high stakes, ill-defined goals, dynamic conditions, and incomplete
+    information — distinct from classical decision theory by virtue of its descriptive
+    fieldwork orientation and its focus on expertise rather than population-average
+    choice.
+- type: key-claim
+  title: Key claim about Naturalistic Decision Making
+  body: Naturalistic Decision Making demonstrated empirically that expert decision-making
+    in field settings does not look like the option-comparison procedures classical
+    decision theory prescribes; instead it relies on situation assessment, mental
+    simulation, and recognition-driven action selection, which forced classical decision
+    theory to acknowledge a domain where its prescriptions are descriptively wrong
+    and arguably normatively unhelpful.
+- type: warning
+  title: Common pitfall regarding Naturalistic Decision Making
+  body: Naturalistic Decision Making findings should not be over-extrapolated to *all*
+    expert judgment; the program's strongest evidence comes from domains where experts
+    get rapid, unambiguous feedback (firefighting, chess), and Daniel Kahneman's collaboration
+    with Gary Klein explicitly delimited where expert intuition is and isn't trustworthy
+    — Naturalistic Decision Making's prescriptions need to be paired with that boundary
+    condition to avoid licensing intuition in unsuitable domains.

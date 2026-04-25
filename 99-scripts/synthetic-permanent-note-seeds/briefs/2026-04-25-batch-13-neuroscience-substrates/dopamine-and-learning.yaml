@@ -1,0 +1,43 @@
+concept: Dopamine And Learning
+domain: neuroscience
+secondary_domains:
+- cognitive-neuroscience
+- reinforcement-learning
+aliases:
+- dopamine reward prediction error
+- RPE
+broader:
+- neuromodulation
+related:
+- reward-prediction-error
+- reinforcement-learning
+- basal-ganglia
+- motivation-systems
+- addiction-neuroscience
+- schultz-wolfram
+prerequisites:
+- neuromodulation
+confidence: high
+callouts:
+- type: definition
+  title: Dopamine And Learning
+  body: 'Dopamine And Learning refers to the body of evidence — anchored by Wolfram
+    Schultz''s recordings of midbrain dopamine neurons — that phasic dopamine release
+    does not signal reward per se but a *reward prediction error*: the difference
+    between received and expected reward, with positive signals reinforcing predictive
+    cues and negative signals weakening them, computationally instantiating temporal-difference
+    reinforcement learning in striatal circuits.'
+- type: key-claim
+  title: Key claim about Dopamine And Learning
+  body: 'Dopamine And Learning unifies behavioral conditioning, addiction, motivation,
+    and motor learning under a single computational framework: the same prediction-error
+    signal that supports adaptive learning of food cues is hijacked by drugs of abuse
+    (which produce non-decreasing dopamine release), explaining why addictive learning
+    resists extinction in ways normal appetitive learning does not.'
+- type: warning
+  title: Common pitfall regarding Dopamine And Learning
+  body: Dopamine And Learning popular framings often equate dopamine with "pleasure"
+    or "reward"; the prediction-error account is precisely that dopamine signals *change
+    in expected reward*, not pleasure, and the wanting-vs-liking distinction (Berridge)
+    shows dopamine's role is closer to incentive salience than hedonic experience
+    — confusions that produce widely-circulated but incorrect "dopamine detox" advice.

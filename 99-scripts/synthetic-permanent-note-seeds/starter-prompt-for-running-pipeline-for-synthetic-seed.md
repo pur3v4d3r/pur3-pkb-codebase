@@ -231,5 +231,4 @@ temptation-bundling
 toulmin-argument-model
 explanatory-coherence
 rhetorical-modes
-
 ```

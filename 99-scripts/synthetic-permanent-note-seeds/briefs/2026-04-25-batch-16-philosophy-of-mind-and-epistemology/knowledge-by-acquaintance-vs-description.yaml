@@ -1,0 +1,43 @@
+concept: Knowledge By Acquaintance Vs Description
+domain: epistemology
+secondary_domains:
+- analytic-epistemology
+- philosophy-of-language
+aliases:
+- Russell knowledge by acquaintance
+broader:
+- theories-of-knowledge
+related:
+- russell-bertrand
+- sense-data
+- definite-descriptions
+- propositional-knowledge
+- demonstrative-thought
+prerequisites:
+- theories-of-knowledge
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge By Acquaintance Vs Description
+  body: 'Knowledge By Acquaintance Vs Description is Bertrand Russell''s distinction
+    between two ways of knowing an object: *knowledge by acquaintance* is direct cognitive
+    contact with an object (Russell''s candidates were sense-data, universals, and
+    possibly oneself), unmediated by descriptive content, while *knowledge by description*
+    is knowledge of an object as the unique satisfier of some descriptive condition
+    ("the F").'
+- type: key-claim
+  title: Key claim about Knowledge By Acquaintance Vs Description
+  body: 'Knowledge By Acquaintance Vs Description grounds Russell''s broader epistemological
+    program: every proposition we can grasp must, ultimately, be analyzable into constituents
+    with which we are directly acquainted, so the apparent reference to objects we
+    have never met (Julius Caesar, distant stars) must be analyzed away in favor of
+    descriptions whose constituents trace back to acquaintance — a constraint that
+    drives Russell''s theory of definite descriptions.'
+- type: warning
+  title: Common pitfall regarding Knowledge By Acquaintance Vs Description
+  body: Knowledge By Acquaintance Vs Description has been substantially superseded
+    in mainstream philosophy of language by direct-reference theories (Kripke, Kaplan)
+    that allow genuine reference to objects we have not met without reductive paraphrase;
+    presenting Russell's distinction as a settled framework rather than a historically
+    influential but now-contested position misrepresents the current state of the
+    field.

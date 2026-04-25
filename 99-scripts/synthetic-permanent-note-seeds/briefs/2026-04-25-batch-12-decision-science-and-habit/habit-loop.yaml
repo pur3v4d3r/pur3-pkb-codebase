@@ -1,0 +1,41 @@
+concept: Habit Loop
+domain: behavior-change
+secondary_domains:
+- behavioral-psychology
+- neuroscience
+aliases:
+- cue-routine-reward loop
+broader:
+- habit-formation
+related:
+- behavior-change-techniques
+- implementation-intention
+- temptation-bundling
+- cue-reactivity
+- basal-ganglia
+- dopamine
+prerequisites:
+- habit-formation
+confidence: high
+callouts:
+- type: definition
+  title: Habit Loop
+  body: The Habit Loop is the three-component cycle — *cue* (a triggering context
+    or stimulus), *routine* (the automatized behavior), *reward* (the outcome that
+    reinforces the cue→routine link) — popularized by Charles Duhigg and grounded
+    in basal-ganglia research on stimulus-response learning, that describes how a
+    deliberate behavior becomes a context-cued automatic response over repetition.
+- type: key-claim
+  title: Key claim about Habit Loop
+  body: The Habit Loop predicts that durable behavior change is easier when the *cue*
+    is engineered (consistent context, time-of-day, location anchor) and the *reward*
+    is immediate and reliably linked to the routine; attempts to change the routine
+    without cue-engineering or reward redesign tend to fail because the existing loop's
+    reinforcement structure remains intact.
+- type: warning
+  title: Common pitfall regarding Habit Loop
+  body: The Habit Loop is a useful simplification but understates the role of *goals*
+    and *motivation* in flexible everyday behavior; treating all behavior change as
+    habit-engineering misses that many target behaviors are goal-directed rather than
+    habitual, and the cue-routine-reward framing applied to genuinely goal-directed
+    action systematically misallocates the change effort.

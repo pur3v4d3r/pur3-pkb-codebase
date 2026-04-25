@@ -1,0 +1,43 @@
+concept: Tagging Systems
+domain: pkm
+secondary_domains:
+- knowledge-organization
+- folksonomy
+aliases:
+- tag taxonomies
+- folksonomies
+broader:
+- knowledge-organization
+related:
+- taxonomy-design
+- controlled-vocabulary
+- folksonomy
+- hashtags
+- faceted-classification
+- information-architecture
+prerequisites:
+- knowledge-organization
+confidence: high
+callouts:
+- type: definition
+  title: Tagging Systems
+  body: Tagging Systems are knowledge-organization schemes that allow items to be
+    assigned one or more labels (tags) drawn from either a *controlled vocabulary*
+    (a fixed, curated list) or a *folksonomy* (an emergent, user-contributed pool),
+    supporting flexible cross-classification that pure hierarchical taxonomies cannot
+    — a single item can carry tags from multiple orthogonal facets without committing
+    to a single primary location.
+- type: key-claim
+  title: Key claim about Tagging Systems
+  body: 'Tagging Systems'' strength over strict hierarchies is their support for *multi-faceted
+    access*: an item about cognitive load in instructional design can be tagged for
+    both *cognitive-psychology* and *instructional-design* facets, allowing retrieval
+    from either entry point — a capability hierarchical filing systems either prohibit
+    or simulate awkwardly through symlinks and duplicate placement.'
+- type: warning
+  title: Common pitfall regarding Tagging Systems
+  body: 'Tagging Systems degrade into noise when uncurated: tag proliferation, near-synonyms
+    (`#productivity` / `#productive` / `#getting-stuff-done`), inconsistent capitalization,
+    and abandoned vestigial tags accumulate quickly, making systematic retrieval less
+    reliable than a smaller controlled vocabulary; the freedom that makes folksonomies
+    attractive is also the mechanism that produces their long-term entropy problem.'

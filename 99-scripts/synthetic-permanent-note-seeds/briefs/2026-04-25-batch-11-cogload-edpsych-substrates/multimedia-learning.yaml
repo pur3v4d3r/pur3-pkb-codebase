@@ -1,0 +1,41 @@
+concept: Multimedia Learning
+domain: educational-psychology
+secondary_domains:
+- instructional-design
+- cognitive-load-theory
+aliases:
+- Mayer multimedia principles
+broader:
+- instructional-design
+related:
+- cognitive-load
+- dual-coding-theory
+- modality-effect
+- redundancy-effect
+- signaling-principle
+- mayer-richard
+prerequisites:
+- cognitive-load
+confidence: high
+callouts:
+- type: definition
+  title: Multimedia Learning
+  body: Multimedia Learning is the field, developed primarily by Richard Mayer, that
+    studies how people learn from combinations of words and pictures — text plus diagrams,
+    narration plus animation — and identifies the design principles (multimedia, modality,
+    redundancy, signaling, coherence, contiguity) that align presentations with the
+    dual-channel, limited-capacity, active-processing constraints of human cognition.
+- type: key-claim
+  title: Key claim about Multimedia Learning
+  body: 'Multimedia Learning shows that adding more information is not neutral: redundant
+    on-screen text alongside narration *decreases* learning compared to narration
+    alone, because both feed into the same verbal channel and create [[cognitive-load]]
+    — a non-obvious result that undermines the intuition that "more channels = better
+    explanation."'
+- type: warning
+  title: Common pitfall regarding Multimedia Learning
+  body: Multimedia Learning principles are population-level effects measured against
+    novices; they reverse for experts (the [[expertise-reversal-effect]]), so a multimedia
+    design optimized for beginners can actively hurt advanced learners, and applying
+    Mayer's principles uniformly across a course's expertise range is a documented
+    failure mode.

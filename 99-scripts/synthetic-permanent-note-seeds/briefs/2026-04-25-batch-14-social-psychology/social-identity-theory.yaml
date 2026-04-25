@@ -1,0 +1,43 @@
+concept: Social Identity Theory
+domain: social-psychology
+secondary_domains:
+- intergroup-relations
+- social-cognition
+aliases:
+- SIT
+- Tajfel-Turner social identity theory
+broader:
+- self-concept-theories
+related:
+- in-group-out-group-bias
+- self-categorization-theory
+- stereotype-threat
+- tajfel-henri
+- turner-john
+- intergroup-conflict
+prerequisites:
+- self-concept-theories
+confidence: high
+callouts:
+- type: definition
+  title: Social Identity Theory
+  body: Social Identity Theory, developed by Henri Tajfel and John Turner, holds that
+    a substantial portion of self-concept derives from membership in social groups
+    (nationality, profession, fandom, ideology), that individuals are motivated to
+    maintain a positive social identity, and that this motive produces in-group favoritism
+    and inter-group differentiation even in the absence of any material conflict,
+    as demonstrated in the minimal-group paradigm.
+- type: key-claim
+  title: Key claim about Social Identity Theory
+  body: 'Social Identity Theory established that intergroup bias is not solely a product
+    of resource competition or personality pathology: arbitrary categorization alone
+    (the minimal-group experiments) suffices to produce in-group favoritism, which
+    forces explanations of prejudice and intergroup conflict to take *categorization
+    itself* as a primary causal variable rather than a downstream consequence.'
+- type: warning
+  title: Common pitfall regarding Social Identity Theory
+  body: Social Identity Theory is sometimes used to argue that intergroup hostility
+    is biologically inevitable; the theory's actual claim is more limited — that categorization
+    plus identity motives produce *favoritism*, not necessarily out-group hostility
+    — and conflating favoritism with hostility licenses fatalist conclusions about
+    prejudice that the original framework does not support.

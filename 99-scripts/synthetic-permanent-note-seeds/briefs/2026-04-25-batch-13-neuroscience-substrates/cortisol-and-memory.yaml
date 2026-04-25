@@ -1,0 +1,42 @@
+concept: Cortisol And Memory
+domain: neuroscience
+secondary_domains:
+- psychoneuroendocrinology
+- stress-research
+aliases:
+- stress-and-memory
+- glucocorticoids and memory
+broader:
+- stress-physiology
+related:
+- hippocampus
+- amygdala
+- chronic-stress
+- allostatic-load
+- working-memory
+- prefrontal-cortex-function
+prerequisites:
+- stress-physiology
+confidence: high
+callouts:
+- type: definition
+  title: Cortisol And Memory
+  body: 'Cortisol And Memory refers to the inverted-U relationship between glucocorticoid
+    exposure and memory function: moderate, time-limited cortisol elevation enhances
+    consolidation of emotionally salient memories via amygdala-hippocampal interactions,
+    while chronic or extreme elevation impairs hippocampal-dependent encoding and
+    retrieval and, in sustained form, promotes hippocampal dendritic atrophy.'
+- type: key-claim
+  title: Key claim about Cortisol And Memory
+  body: Cortisol And Memory mechanistically explains why acute stress can strengthen
+    memory of the stressful event itself while simultaneously impairing retrieval
+    of unrelated material — a phasic-vs-tonic distinction with direct implications
+    for examination performance, eyewitness testimony reliability, and the degraded
+    learning observed in chronically-stressed populations.
+- type: warning
+  title: Common pitfall regarding Cortisol And Memory
+  body: Cortisol And Memory findings are frequently extrapolated to claims about "stress
+    causing brain damage"; the human evidence is most robust for chronic, severe stress
+    (PTSD, prolonged depression) and weaker for everyday workplace or academic stress,
+    so cortisol-as-villain framings overstate what moderate stress exposure actually
+    predicts.

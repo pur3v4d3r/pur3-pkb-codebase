@@ -1,0 +1,108 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-15-creativity-and-language",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-15-creativity-and-language.md",
+    "notes": "Two clusters in one batch — creativity/insight cognition (9 terms) and\nlanguage/cognition (5 terms). Both bridge cognitive-psychology to\nphilosophy-of-mind notes scheduled for batch 16."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-15-creativity-and-language",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-15-creativity-and-language"
+  },
+  "counts": {
+    "parsed": 14,
+    "accepted": 14,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Incubation Effect",
+      "kebab": "incubation-effect",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/incubation-effect.yaml",
+      "expected_seed_filename": "incubation-effect-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Insight Problem Solving",
+      "kebab": "insight-problem-solving",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/insight-problem-solving.yaml",
+      "expected_seed_filename": "insight-problem-solving-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Combinatorial Creativity",
+      "kebab": "combinatorial-creativity",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/combinatorial-creativity.yaml",
+      "expected_seed_filename": "combinatorial-creativity-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Remote Associates Test",
+      "kebab": "remote-associates-test",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/remote-associates-test.yaml",
+      "expected_seed_filename": "remote-associates-test-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Creative Self Efficacy",
+      "kebab": "creative-self-efficacy",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/creative-self-efficacy.yaml",
+      "expected_seed_filename": "creative-self-efficacy-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Impasse And Restructuring",
+      "kebab": "impasse-and-restructuring",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/impasse-and-restructuring.yaml",
+      "expected_seed_filename": "impasse-and-restructuring-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Conceptual Blending",
+      "kebab": "conceptual-blending",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/conceptual-blending.yaml",
+      "expected_seed_filename": "conceptual-blending-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Analogical Mapping",
+      "kebab": "analogical-mapping",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/analogical-mapping.yaml",
+      "expected_seed_filename": "analogical-mapping-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Constraint Relaxation",
+      "kebab": "constraint-relaxation",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/constraint-relaxation.yaml",
+      "expected_seed_filename": "constraint-relaxation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Language Acquisition",
+      "kebab": "language-acquisition",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/language-acquisition.yaml",
+      "expected_seed_filename": "language-acquisition-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Sapir Whorf Hypothesis",
+      "kebab": "sapir-whorf-hypothesis",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/sapir-whorf-hypothesis.yaml",
+      "expected_seed_filename": "sapir-whorf-hypothesis-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Narrative Cognition",
+      "kebab": "narrative-cognition",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/narrative-cognition.yaml",
+      "expected_seed_filename": "narrative-cognition-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Metaphor And Cognition",
+      "kebab": "metaphor-and-cognition",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/metaphor-and-cognition.yaml",
+      "expected_seed_filename": "metaphor-and-cognition-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Pragmatics",
+      "kebab": "pragmatics",
+      "brief_path": "briefs/2026-04-25-batch-15-creativity-and-language/pragmatics.yaml",
+      "expected_seed_filename": "pragmatics-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

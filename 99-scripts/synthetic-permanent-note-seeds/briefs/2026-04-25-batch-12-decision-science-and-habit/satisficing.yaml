@@ -1,0 +1,38 @@
+concept: Satisficing
+domain: decision-science
+secondary_domains:
+- decision-science
+- bounded-rationality
+broader:
+- bounded-rationality
+related:
+- bounded-rationality
+- heuristics-and-biases
+- optimization
+- simon-herbert
+- fast-and-frugal-heuristics
+prerequisites:
+- bounded-rationality
+confidence: high
+callouts:
+- type: definition
+  title: Satisficing
+  body: Satisficing, coined by Herbert Simon, is the decision strategy of searching
+    alternatives sequentially and stopping at the first option that meets a pre-specified
+    aspiration level — "good enough" — rather than enumerating the full option set
+    and selecting the global maximum, which is computationally infeasible under realistic
+    time and information constraints.
+- type: key-claim
+  title: Key claim about Satisficing
+  body: Satisficing is not a degraded form of optimization but a *different* solution
+    concept appropriate to environments where the option set is open-ended, evaluation
+    is costly, and time is bounded; in these conditions, satisficing strategies routinely
+    outperform optimization attempts, because the cost of continued search exceeds
+    the expected value of marginal improvement.
+- type: warning
+  title: Common pitfall regarding Satisficing
+  body: Satisficing is sometimes treated as synonymous with "settling" or laziness;
+    the original construct presupposes a *deliberate* aspiration level chosen with
+    full awareness of the trade-off, and Satisficing without an articulated aspiration
+    collapses into impulsive acceptance — which is a different failure mode that bounded
+    rationality literature does not endorse.

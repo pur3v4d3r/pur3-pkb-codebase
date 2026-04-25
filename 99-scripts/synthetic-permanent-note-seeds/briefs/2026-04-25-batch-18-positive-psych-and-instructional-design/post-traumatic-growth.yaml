@@ -1,0 +1,45 @@
+concept: Post Traumatic Growth
+domain: psychology
+secondary_domains:
+- positive-psychology
+- trauma-studies
+aliases:
+- PTG
+- Tedeschi-Calhoun PTG
+broader:
+- positive-psychology
+related:
+- psychological-resilience
+- trauma
+- meaning-making
+- tedeschi-richard
+- calhoun-lawrence
+- benefit-finding
+prerequisites:
+- psychological-resilience
+confidence: high
+callouts:
+- type: definition
+  title: Post Traumatic Growth
+  body: Post Traumatic Growth, formalized by Richard Tedeschi and Lawrence Calhoun,
+    is the phenomenon in which a person reports positive psychological changes — in
+    self-perception, relationships, life philosophy, sense of new possibilities, or
+    spiritual development — *as a consequence of* the cognitive struggle following
+    a major life crisis, and is characterized as growth that goes beyond mere recovery
+    to a higher level of functioning than pre-trauma baseline.
+- type: key-claim
+  title: Key claim about Post Traumatic Growth
+  body: 'Post Traumatic Growth is empirically distinguishable from resilience: where
+    resilience is functional continuity through adversity, PTG is *transformative
+    change emerging from* adversity, with both occurring at meaningful rates in trauma-exposed
+    populations and predicted by partly different individual and contextual variables
+    — establishing positive trauma sequelae as a legitimate research target alongside
+    the long-dominant focus on PTSD.'
+- type: warning
+  title: Common pitfall regarding Post Traumatic Growth
+  body: Post Traumatic Growth measurement relies on self-report and is vulnerable
+    to *perceived* growth that does not correspond to *actual* behavioral or functional
+    improvement; longitudinal and informant-rated studies show meaningful but smaller
+    effects than the cross-sectional self-report literature suggests, so claims about
+    PTG should specify the measurement approach to avoid inheriting the inflation
+    built into the most commonly cited self-report-only estimates.

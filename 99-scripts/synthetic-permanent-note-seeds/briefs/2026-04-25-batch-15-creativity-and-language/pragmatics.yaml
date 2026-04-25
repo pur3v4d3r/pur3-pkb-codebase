@@ -1,0 +1,41 @@
+concept: Pragmatics
+domain: cognitive-science
+secondary_domains:
+- linguistics
+- philosophy-of-language
+aliases:
+- pragmatic inference
+- conversational implicature
+broader:
+- linguistics
+related:
+- grice-paul
+- cooperative-principle
+- conversational-implicature
+- speech-act-theory
+- relevance-theory
+- theory-of-mind
+prerequisites:
+- linguistics
+confidence: high
+callouts:
+- type: definition
+  title: Pragmatics
+  body: Pragmatics is the linguistic and philosophical study of how language users
+    derive meaning that goes beyond the literal semantic content of utterances — including
+    conversational implicature (Grice), speech-act force (Austin, Searle), reference
+    resolution, and relevance-driven inference — by exploiting shared assumptions
+    about cooperative communication and mutual knowledge.
+- type: key-claim
+  title: Key claim about Pragmatics
+  body: 'Pragmatics establishes that linguistic communication systematically under-specifies
+    its intended meaning and relies on hearer inference to recover it: Grice''s Cooperative
+    Principle and its maxims provide the substantive theory of how this inference
+    proceeds, and the framework explains a wide range of phenomena (irony, indirect
+    requests, scalar implicatures) that pure semantics cannot.'
+- type: warning
+  title: Common pitfall regarding Pragmatics
+  body: Pragmatics has been challenged by Relevance Theory (Sperber and Wilson) which
+    argues Grice's maxim-based account is descriptively over-rich and cognitively
+    implausible; treating the Gricean framework as the settled foundation of pragmatic
+    theory misrepresents an active, unresolved theoretical debate within the field.
