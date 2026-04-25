@@ -1,0 +1,40 @@
+concept: Flashbulb Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- emotion-and-memory
+aliases:
+- emotional flashbulb
+broader:
+- autobiographical-memory
+- episodic-memory
+related:
+- autobiographical-memory
+- source-amnesia
+- false-memory
+- memory-consolidation
+prerequisites:
+- long-term-memory
+- autobiographical-memory
+confidence: high
+callouts:
+- type: definition
+  title: Flashbulb Memory
+  body: Flashbulb Memory is the term coined by Brown and Kulik in 1977 for the unusually
+    vivid, detailed, and confidently held recollection of the personal circumstances
+    surrounding the reception of surprising and emotionally consequential public news,
+    often described phenomenologically as a photograph-like trace of the moment of
+    learning.
+- type: key-claim
+  title: Key claim about Flashbulb Memory
+  body: Flashbulb Memory is best understood as ordinary autobiographical memory accompanied
+    by inflated metacognitive confidence; longitudinal studies repeatedly show that
+    the content of flashbulb memories degrades and distorts at rates comparable to
+    mundane memories, even as the subjective sense of vividness and certainty remains
+    stable.
+- type: warning
+  title: Common pitfall regarding Flashbulb Memory
+  body: Flashbulb Memory is often invoked to argue that strong emotion produces accurate
+    memory, but the empirical finding is the opposite; the diagnostic feature of flashbulb
+    memories is the dissociation between subjective vividness and objective accuracy,
+    not enhanced fidelity.

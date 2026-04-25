@@ -62,7 +62,15 @@ the-history-and-evolution-of-cognitive-load-theory
 scientific-communication
 evolutionary-educational-psychology
 explicit-instruction
-
+biological-primary-knowledge
+biological-secondary-knowledge
+domain-specific-knowledge
+research-methods-in-education
+replication-crisis-in-psychology
+developmental-psychology
+educational-assessment
+learning-analytics
+multimedia-learning
 
 
 

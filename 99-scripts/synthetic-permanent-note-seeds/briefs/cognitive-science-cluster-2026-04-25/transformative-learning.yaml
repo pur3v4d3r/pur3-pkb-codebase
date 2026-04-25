@@ -1,0 +1,40 @@
+concept: Transformative Learning
+domain: cognitive-science
+secondary_domains:
+- adult-learning
+- educational-development
+aliases:
+- Mezirow's theory
+- perspective transformation
+broader:
+- andragogy
+- learning-theories
+related:
+- andragogy
+- double-loop-learning
+- conceptual-change
+- reflective-thinking
+prerequisites:
+- adult-learning
+- reflective-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Transformative Learning
+  body: Transformative Learning, the theory developed by Jack Mezirow beginning in
+    1978, describes a distinct adult-learning process in which a disorienting dilemma
+    destabilizes a previously taken-for-granted frame of reference and triggers critical
+    reflection on one's assumptions, producing a structurally revised meaning perspective
+    rather than the additive accumulation of new content within an unchanged frame.
+- type: key-claim
+  title: Key claim about Transformative Learning
+  body: Transformative Learning differs from instrumental and communicative learning
+    in that its endpoint is a reorganized epistemological framework rather than expanded
+    content within the existing one; this is what makes it the canonical model for
+    the developmental shifts that characterize adult education at its most significant.
+- type: warning
+  title: Common pitfall regarding Transformative Learning
+  body: Transformative Learning is sometimes invoked for any subjectively meaningful
+    insight, but Mezirow's construct requires structural change in habits of mind
+    verified by altered action patterns; mere emotional resonance or temporary perspective-taking
+    does not satisfy the criterion of perspective transformation.

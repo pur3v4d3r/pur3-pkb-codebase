@@ -1,0 +1,40 @@
+concept: False Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- eyewitness-research
+aliases:
+- memory distortion
+- memory illusion
+broader:
+- reconstructive-memory
+- episodic-memory
+related:
+- source-amnesia
+- autobiographical-memory
+- reconstructive-memory
+- source-monitoring
+prerequisites:
+- long-term-memory
+- reconstructive-memory
+confidence: high
+callouts:
+- type: definition
+  title: False Memory
+  body: False Memory is the confident recollection of events or details that did not
+    in fact occur as remembered, produced by reconstructive processes that integrate
+    gist representations, schema expectations, post-event suggestion, and source-monitoring
+    failures into a coherent narrative indistinguishable phenomenologically from veridical
+    recall.
+- type: key-claim
+  title: Key claim about False Memory
+  body: False Memory research, especially the DRM paradigm and eyewitness-suggestion
+    studies, establishes that memory is constructive at retrieval rather than purely
+    reproductive, and that the same mechanisms producing veridical recall also produce
+    systematic distortions whenever stored gist conflicts with verbatim trace.
+- type: warning
+  title: Common pitfall regarding False Memory
+  body: False Memory should not be taken to imply that memory is generally unreliable;
+    the same reconstructive system produces accurate gist recall most of the time,
+    and the diagnostic concern is specifically when high subjective confidence coexists
+    with verifiable error.

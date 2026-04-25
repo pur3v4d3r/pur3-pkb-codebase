@@ -1,0 +1,36 @@
+concept: Sustained Attention
+domain: cognitive-science
+secondary_domains:
+- attention-research
+- vigilance
+aliases:
+- vigilance
+- tonic alertness
+broader:
+- attention-and-cognitive-control
+related:
+- mind-wandering
+- attention-restoration-theory
+- executive-function
+prerequisites:
+- selective-attention
+confidence: high
+callouts:
+- type: definition
+  title: Sustained Attention
+  body: Sustained Attention is the capacity to maintain alert focus on a non-stimulating
+    task or signal stream over extended intervals, typically measured by vigilance
+    paradigms such as the Mackworth Clock or continuous performance tests, and characterized
+    by a reliable performance decrement as a function of time on task.
+- type: key-claim
+  title: Key claim about Sustained Attention
+  body: Sustained Attention is not a passive state but an effortful self-regulated
+    process whose decrement curve reflects the cost of maintaining endogenous attentional
+    control against accumulating mental fatigue, mind-wandering pressure, and habituation
+    to monitored stimuli.
+- type: warning
+  title: Common pitfall regarding Sustained Attention
+  body: Sustained Attention is often conflated with selective attention, but they
+    tap distinct mechanisms; a person can be highly selective in resisting distractors
+    over short intervals while showing pronounced vigilance decrements over long ones,
+    and training one does not transfer to the other.

@@ -1,0 +1,39 @@
+concept: Prospective Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- executive-function
+aliases:
+- memory for intentions
+- future memory
+broader:
+- memory-systems
+related:
+- implementation-intentions
+- executive-function
+- working-memory
+- episodic-memory
+prerequisites:
+- long-term-memory
+- executive-function
+confidence: high
+callouts:
+- type: definition
+  title: Prospective Memory
+  body: Prospective Memory is the memory system responsible for remembering to perform
+    a planned action at an appropriate future moment — either when a target time arrives
+    (time-based) or when a triggering cue is encountered (event-based) — and uniquely
+    combines retrospective storage of the intention with executive monitoring for
+    the retrieval context.
+- type: key-claim
+  title: Key claim about Prospective Memory
+  body: 'Prospective Memory failures are dissociable from retrospective memory failures:
+    a person who can readily report what they intended to do nonetheless fails to
+    act at the right moment, demonstrating that the executive-monitoring component
+    of intention retrieval is the typical point of breakdown rather than content storage.'
+- type: warning
+  title: Common pitfall regarding Prospective Memory
+  body: Prospective Memory is often equated with a to-do list or general planning
+    capacity, but it specifically denotes the cognitive system that bridges intention
+    formation and context-cued retrieval; offloading intentions to external reminders
+    bypasses prospective memory rather than training it.

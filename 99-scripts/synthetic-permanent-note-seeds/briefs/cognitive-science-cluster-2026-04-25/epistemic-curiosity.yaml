@@ -1,0 +1,40 @@
+concept: Epistemic Curiosity
+domain: cognitive-science
+secondary_domains:
+- motivational-psychology
+- curiosity-research
+aliases:
+- intellectual curiosity
+- knowledge-seeking curiosity
+broader:
+- curiosity
+- motivational-psychology
+related:
+- curiosity
+- intrinsic-motivation
+- need-for-cognition
+- four-phase-model-of-interest-development
+prerequisites:
+- curiosity
+- intrinsic-motivation
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Curiosity
+  body: Epistemic Curiosity is the desire to acquire new information for its own sake,
+    distinguished by Berlyne and elaborated by Litman into two facets — interest-type
+    curiosity that anticipates the pleasure of new knowledge and deprivation-type
+    curiosity that responds aversively to a felt gap in understanding — both of which
+    energize information-seeking behavior independent of instrumental reward.
+- type: key-claim
+  title: Key claim about Epistemic Curiosity
+  body: Epistemic Curiosity is dissociable into the I-type and D-type facets identified
+    by Litman, with the deprivation form predicting persistence on difficult information-seeking
+    tasks better than the interest form, supporting the view that the aversive "knowledge
+    gap" signal is the engine of sustained intellectual inquiry.
+- type: warning
+  title: Common pitfall regarding Epistemic Curiosity
+  body: Epistemic Curiosity is sometimes treated as an undifferentiated appetite for
+    novelty, but the I-type/D-type distinction matters because they have different
+    antecedents, different time courses, and different relations to academic outcomes;
+    collapsing them obscures the mechanism.

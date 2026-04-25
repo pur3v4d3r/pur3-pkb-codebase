@@ -1,0 +1,42 @@
+concept: Kolb Experiential Learning Cycle
+domain: cognitive-science
+secondary_domains:
+- adult-learning
+- instructional-design
+aliases:
+- Kolb cycle
+- experiential learning model
+- ELT
+broader:
+- learning-theories
+- andragogy
+related:
+- reflective-thinking
+- deweys-reflective-thinking
+- double-loop-learning
+- transformative-learning
+prerequisites:
+- reflective-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Kolb Experiential Learning Cycle
+  body: The Kolb Experiential Learning Cycle, formalized by David Kolb in 1984, describes
+    learning as a four-phase recursive process — concrete experience, reflective observation,
+    abstract conceptualization, and active experimentation — through which knowledge
+    is created by the transformation of experience and in which a complete learning
+    episode requires traversal of all four modes.
+- type: key-claim
+  title: Key claim about Kolb Experiential Learning Cycle
+  body: 'The Kolb Experiential Learning Cycle frames learning as a structurally complete
+    cycle rather than an act of acquisition: omitting any quadrant — for example,
+    jumping from experience to action without reflection or abstraction — produces
+    characteristic learning failures that the cycle''s diagnostic structure makes
+    recognizable.'
+- type: warning
+  title: Common pitfall regarding Kolb Experiential Learning Cycle
+  body: The Kolb Experiential Learning Cycle is often reduced to a personality typology
+    of "learning styles" via Kolb's Learning Style Inventory, but the empirical evidence
+    for stable, instruction-relevant style preferences is weak; the cycle's value
+    lies in its account of phases of learning, not in matching teaching to fixed individual
+    types.

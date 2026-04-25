@@ -1,0 +1,39 @@
+concept: Social Comparison Theory
+domain: cognitive-science
+secondary_domains:
+- social-psychology
+- motivational-psychology
+aliases:
+- Festinger's social comparison theory
+broader:
+- social-cognitive-theory
+- motivational-psychology
+related:
+- self-efficacy
+- vicarious-experience
+- self-concept
+- mastery-climate-vs-performance-climate
+prerequisites:
+- self-concept
+confidence: high
+callouts:
+- type: definition
+  title: Social Comparison Theory
+  body: Social Comparison Theory, advanced by Leon Festinger in 1954, holds that humans
+    possess a fundamental drive to evaluate their opinions and abilities, and in the
+    absence of objective standards they do so by comparing themselves to similar others,
+    with upward comparisons typically motivating self-improvement and downward comparisons
+    typically protecting self-esteem.
+- type: key-claim
+  title: Key claim about Social Comparison Theory
+  body: Social Comparison Theory establishes that self-evaluation is intrinsically
+    relational rather than absolute, which explains why classroom-level comparison
+    structures — visible rankings, public grading distributions, ability-grouping
+    practices — exert outsized effects on motivation and self-concept independent
+    of objective performance.
+- type: warning
+  title: Common pitfall regarding Social Comparison Theory
+  body: Social Comparison Theory is often simplified to "upward = bad, downward =
+    good," but the consequences depend on the comparer's identification with the target
+    and on the construal as inspiring versus contrastive; the same upward comparison
+    can produce motivation in one frame and demoralization in another.

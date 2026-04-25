@@ -1,0 +1,39 @@
+concept: Achievement Emotions
+domain: cognitive-science
+secondary_domains:
+- motivational-psychology
+- educational-psychology
+aliases:
+- academic emotions
+- achievement-related emotions
+broader:
+- motivational-psychology
+- academic-emotions
+related:
+- control-value-theory
+- academic-emotions
+- attribution-dependent-emotion
+- attribution-theory
+prerequisites:
+- academic-emotions
+confidence: high
+callouts:
+- type: definition
+  title: Achievement Emotions
+  body: Achievement Emotions are the discrete affective states experienced in achievement
+    contexts — enjoyment, hope, pride, anxiety, anger, shame, hopelessness, boredom,
+    and relief — that emerge from appraisals of control and value over learning activities
+    and their outcomes, and that systematically channel attention, motivation, strategy
+    use, and self-regulation in characteristic directions.
+- type: key-claim
+  title: Key claim about Achievement Emotions
+  body: 'Achievement Emotions are not by-products of cognition but causally efficacious
+    regulators of learning behavior: they bias which information is encoded, which
+    strategies are deployed, and how persistence is allocated, with reciprocal feedback
+    loops in which strategy success and failure further modulate emotional experience.'
+- type: warning
+  title: Common pitfall regarding Achievement Emotions
+  body: Achievement Emotions are often grouped under broad labels like "academic affect,"
+    but the construct depends on the discrete-emotions distinction; treating boredom
+    and anxiety as interchangeable negative states erases their opposite implications
+    for engagement and intervention.

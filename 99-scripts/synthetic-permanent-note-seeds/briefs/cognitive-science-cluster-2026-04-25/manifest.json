@@ -1,0 +1,324 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "cognitive-science-cluster-2026-04-25",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-cognitive-science-cluster.md",
+    "notes": "Forty-nine foundational concepts spanning attention, memory systems,\ninstructional design, motivation, self-regulated learning, reasoning,\ncognitive biases, PKM, wellbeing, and the neuroscience of learning.\nAuthored to densify the wiki-link graph in v6-llm-elaborated/ where\neach term is currently a missing target referenced by other notes."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/cognitive-science-cluster-2026-04-25",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-cognitive-science-cluster-2026-04-25"
+  },
+  "counts": {
+    "parsed": 50,
+    "accepted": 50,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Attention Restoration Theory",
+      "kebab": "attention-restoration-theory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/attention-restoration-theory.yaml",
+      "expected_seed_filename": "attention-restoration-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Inattentional Blindness",
+      "kebab": "inattentional-blindness",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/inattentional-blindness.yaml",
+      "expected_seed_filename": "inattentional-blindness-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Attentional Blink",
+      "kebab": "attentional-blink",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/attentional-blink.yaml",
+      "expected_seed_filename": "attentional-blink-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Perceptual Load Theory",
+      "kebab": "perceptual-load-theory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/perceptual-load-theory.yaml",
+      "expected_seed_filename": "perceptual-load-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cognitive Flexibility",
+      "kebab": "cognitive-flexibility",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/cognitive-flexibility.yaml",
+      "expected_seed_filename": "cognitive-flexibility-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Sustained Attention",
+      "kebab": "sustained-attention",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/sustained-attention.yaml",
+      "expected_seed_filename": "sustained-attention-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Working Memory Updating",
+      "kebab": "working-memory-updating",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/working-memory-updating.yaml",
+      "expected_seed_filename": "working-memory-updating-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Autobiographical Memory",
+      "kebab": "autobiographical-memory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/autobiographical-memory.yaml",
+      "expected_seed_filename": "autobiographical-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Flashbulb Memory",
+      "kebab": "flashbulb-memory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/flashbulb-memory.yaml",
+      "expected_seed_filename": "flashbulb-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Prospective Memory",
+      "kebab": "prospective-memory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/prospective-memory.yaml",
+      "expected_seed_filename": "prospective-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "False Memory",
+      "kebab": "false-memory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/false-memory.yaml",
+      "expected_seed_filename": "false-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Source Amnesia",
+      "kebab": "source-amnesia",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/source-amnesia.yaml",
+      "expected_seed_filename": "source-amnesia-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Long-Term Potentiation",
+      "kebab": "long-term-potentiation",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/long-term-potentiation.yaml",
+      "expected_seed_filename": "long-term-potentiation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Transformative Learning",
+      "kebab": "transformative-learning",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/transformative-learning.yaml",
+      "expected_seed_filename": "transformative-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Kolb Experiential Learning Cycle",
+      "kebab": "kolb-experiential-learning-cycle",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/kolb-experiential-learning-cycle.yaml",
+      "expected_seed_filename": "kolb-experiential-learning-cycle-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cooperative Learning",
+      "kebab": "cooperative-learning",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/cooperative-learning.yaml",
+      "expected_seed_filename": "cooperative-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Transfer-Appropriate Processing",
+      "kebab": "transfer-appropriate-processing",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/transfer-appropriate-processing.yaml",
+      "expected_seed_filename": "transfer-appropriate-processing-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Near Transfer",
+      "kebab": "near-transfer",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/near-transfer.yaml",
+      "expected_seed_filename": "near-transfer-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Seductive Details Effect",
+      "kebab": "seductive-details-effect",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/seductive-details-effect.yaml",
+      "expected_seed_filename": "seductive-details-effect-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Coherence Principle",
+      "kebab": "coherence-principle",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/coherence-principle.yaml",
+      "expected_seed_filename": "coherence-principle-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Pre-Training Principle",
+      "kebab": "pre-training-principle",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/pre-training-principle.yaml",
+      "expected_seed_filename": "pre-training-principle-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Psychological Reactance",
+      "kebab": "psychological-reactance",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/psychological-reactance.yaml",
+      "expected_seed_filename": "psychological-reactance-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Four-Phase Model of Interest Development",
+      "kebab": "four-phase-model-of-interest-development",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/four-phase-model-of-interest-development.yaml",
+      "expected_seed_filename": "four-phase-model-of-interest-development-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Control-Value Theory",
+      "kebab": "control-value-theory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/control-value-theory.yaml",
+      "expected_seed_filename": "control-value-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Social Comparison Theory",
+      "kebab": "social-comparison-theory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/social-comparison-theory.yaml",
+      "expected_seed_filename": "social-comparison-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Epistemic Curiosity",
+      "kebab": "epistemic-curiosity",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/epistemic-curiosity.yaml",
+      "expected_seed_filename": "epistemic-curiosity-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Achievement Emotions",
+      "kebab": "achievement-emotions",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/achievement-emotions.yaml",
+      "expected_seed_filename": "achievement-emotions-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Regulatory Fit Theory",
+      "kebab": "regulatory-fit-theory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/regulatory-fit-theory.yaml",
+      "expected_seed_filename": "regulatory-fit-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Winne's Model of Self-Regulated Learning",
+      "kebab": "winnes-model-of-self-regulated-learning",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/winnes-model-of-self-regulated-learning.yaml",
+      "expected_seed_filename": "winnes-model-of-self-regulated-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "WOOP Method",
+      "kebab": "woop-method",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/woop-method.yaml",
+      "expected_seed_filename": "woop-method-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Action Control Theory",
+      "kebab": "action-control-theory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/action-control-theory.yaml",
+      "expected_seed_filename": "action-control-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Lateral Thinking",
+      "kebab": "lateral-thinking",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/lateral-thinking.yaml",
+      "expected_seed_filename": "lateral-thinking-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Divergent Thinking",
+      "kebab": "divergent-thinking",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/divergent-thinking.yaml",
+      "expected_seed_filename": "divergent-thinking-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Counterfactual Reasoning",
+      "kebab": "counterfactual-reasoning",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/counterfactual-reasoning.yaml",
+      "expected_seed_filename": "counterfactual-reasoning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Creative Problem-Solving",
+      "kebab": "creative-problem-solving",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/creative-problem-solving.yaml",
+      "expected_seed_filename": "creative-problem-solving-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Reasoning Under Uncertainty",
+      "kebab": "reasoning-under-uncertainty",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/reasoning-under-uncertainty.yaml",
+      "expected_seed_filename": "reasoning-under-uncertainty-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Planning Fallacy",
+      "kebab": "planning-fallacy",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/planning-fallacy.yaml",
+      "expected_seed_filename": "planning-fallacy-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Sunk Cost Fallacy",
+      "kebab": "sunk-cost-fallacy",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/sunk-cost-fallacy.yaml",
+      "expected_seed_filename": "sunk-cost-fallacy-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Anchoring Bias",
+      "kebab": "anchoring-bias",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/anchoring-bias.yaml",
+      "expected_seed_filename": "anchoring-bias-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Framing Effect",
+      "kebab": "framing-effect",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/framing-effect.yaml",
+      "expected_seed_filename": "framing-effect-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Representativeness Heuristic",
+      "kebab": "representativeness-heuristic",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/representativeness-heuristic.yaml",
+      "expected_seed_filename": "representativeness-heuristic-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Construal Level Theory",
+      "kebab": "construal-level-theory",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/construal-level-theory.yaml",
+      "expected_seed_filename": "construal-level-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Second Brain",
+      "kebab": "second-brain",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/second-brain.yaml",
+      "expected_seed_filename": "second-brain-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Knowledge Distillation",
+      "kebab": "knowledge-distillation",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/knowledge-distillation.yaml",
+      "expected_seed_filename": "knowledge-distillation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Idea Emergence",
+      "kebab": "idea-emergence",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/idea-emergence.yaml",
+      "expected_seed_filename": "idea-emergence-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Linking Your Thinking",
+      "kebab": "linking-your-thinking",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/linking-your-thinking.yaml",
+      "expected_seed_filename": "linking-your-thinking-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Psychological Safety",
+      "kebab": "psychological-safety",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/psychological-safety.yaml",
+      "expected_seed_filename": "psychological-safety-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Self-Compassion",
+      "kebab": "self-compassion",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/self-compassion.yaml",
+      "expected_seed_filename": "self-compassion-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Dopaminergic Reward System",
+      "kebab": "dopaminergic-reward-system",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/dopaminergic-reward-system.yaml",
+      "expected_seed_filename": "dopaminergic-reward-system-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Stress and Learning",
+      "kebab": "stress-and-learning",
+      "brief_path": "briefs/cognitive-science-cluster-2026-04-25/stress-and-learning.yaml",
+      "expected_seed_filename": "stress-and-learning-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

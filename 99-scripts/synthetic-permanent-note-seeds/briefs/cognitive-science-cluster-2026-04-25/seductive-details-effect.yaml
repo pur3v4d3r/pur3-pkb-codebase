@@ -1,0 +1,42 @@
+concept: Seductive Details Effect
+domain: cognitive-science
+secondary_domains:
+- multimedia-learning
+- instructional-design
+aliases:
+- seductive details
+- interesting irrelevancies
+broader:
+- coherence-principle
+- cognitive-load-theory
+related:
+- coherence-principle
+- cognitive-theory-of-multimedia-learning
+- extraneous-cognitive-load
+- redundancy-effect
+prerequisites:
+- cognitive-load-theory
+- cognitive-theory-of-multimedia-learning
+confidence: high
+callouts:
+- type: definition
+  title: Seductive Details Effect
+  body: The Seductive Details Effect is the empirical finding, established by Garner,
+    Brown, and Sanders in 1989 and replicated extensively by Mayer's group, that adding
+    interesting but instructionally irrelevant material to a lesson — anecdotes, photographs,
+    sound effects — reduces retention and transfer of the core content despite raising
+    self-reported interest and engagement.
+- type: key-claim
+  title: Key claim about Seductive Details Effect
+  body: 'The Seductive Details Effect demonstrates that subjective engagement and
+    learning outcomes can dissociate sharply: the very features that make a lesson
+    feel more interesting can divert limited working-memory capacity from the essential
+    schema-construction work, producing an inverse relation between rated engagement
+    and measured comprehension.'
+- type: warning
+  title: Common pitfall regarding Seductive Details Effect
+  body: The Seductive Details Effect is often misread as a blanket prohibition on
+    illustrations or stories, but the boundary condition is whether the added material
+    competes with the conceptual core for processing capacity; coherent narratives
+    that carry the explanation forward do not produce the effect, while ornamental
+    anecdotes do.

@@ -1,0 +1,43 @@
+concept: Stress and Learning
+domain: cognitive-science
+secondary_domains:
+- neuroscience-of-learning
+- emotion-and-memory
+aliases:
+- stress-learning interaction
+- cortisol and memory
+broader:
+- neuroscience-of-learning
+- memory-consolidation
+related:
+- memory-consolidation
+- long-term-potentiation
+- dopaminergic-reward-system
+- achievement-emotions
+prerequisites:
+- memory-consolidation
+- long-term-potentiation
+confidence: high
+callouts:
+- type: definition
+  title: Stress and Learning
+  body: Stress and Learning denotes the bidirectional empirical relationship between
+    physiological stress responses — principally hypothalamic-pituitary-adrenal axis
+    activation and the resulting glucocorticoid release — and learning processes such
+    as encoding, consolidation, and retrieval, with the canonical finding that the
+    relationship is shaped jointly by stressor timing, intensity, and the phase of
+    memory under examination.
+- type: key-claim
+  title: Key claim about Stress and Learning
+  body: Stress and Learning interact according to an inverted-U dose-response in which
+    moderate stress around encoding enhances long-term consolidation through glucocorticoid-amygdala-hippocampal
+    interactions, while severe or chronic stress impairs hippocampal function and
+    biases the system toward inflexible procedural learning, producing predictable
+    shifts in what is learned rather than uniform enhancement or impairment.
+- type: warning
+  title: Common pitfall regarding Stress and Learning
+  body: Stress and Learning should not be summarized as "stress is bad for learning";
+    the empirical pattern is timing-and-phase-specific, with moderate post-encoding
+    stress reliably enhancing consolidation while severe pre-retrieval stress impairs
+    reinstatement of the same memory, and curricular implications differ sharply across
+    these conditions.

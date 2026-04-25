@@ -1,0 +1,42 @@
+concept: Control-Value Theory
+domain: cognitive-science
+secondary_domains:
+- motivational-psychology
+- achievement-emotions-research
+aliases:
+- CVT
+- Pekrun's control-value theory
+broader:
+- achievement-emotions
+- motivational-psychology
+related:
+- achievement-emotions
+- attribution-theory
+- self-efficacy
+- expectancy-value-theory
+prerequisites:
+- attribution-theory
+- self-efficacy
+confidence: high
+callouts:
+- type: definition
+  title: Control-Value Theory
+  body: Control-Value Theory, developed by Reinhard Pekrun, is an integrative framework
+    for achievement emotions in which the type and intensity of emotion experienced
+    in achievement settings is determined jointly by two appraisals — the perceived
+    controllability of the activity or outcome and the subjective value placed on
+    it — yielding a systematic taxonomy of activity, prospective-outcome, and retrospective-outcome
+    emotions.
+- type: key-claim
+  title: Key claim about Control-Value Theory
+  body: 'Control-Value Theory predicts the emotional consequences of any achievement
+    situation by intersecting control and value: high control combined with high positive
+    value produces enjoyment and pride, low control combined with high value produces
+    anxiety and hopelessness, and these distinct emotions then channel attention,
+    motivation, and self-regulation in characteristic ways.'
+- type: warning
+  title: Common pitfall regarding Control-Value Theory
+  body: Control-Value Theory is sometimes treated as a list of academic emotions,
+    but its theoretical contribution is the appraisal-based generative mechanism;
+    cataloguing emotions without modeling the control and value appraisals that produce
+    them strips the theory of its predictive structure.

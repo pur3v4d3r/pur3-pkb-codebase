@@ -1,0 +1,42 @@
+concept: Counterfactual Reasoning
+domain: cognitive-science
+secondary_domains:
+- reasoning-and-decision-making
+- causal-cognition
+aliases:
+- counterfactual thinking
+- what-if reasoning
+broader:
+- reasoning-under-uncertainty
+- causal-attribution
+related:
+- causal-attribution
+- reasoning-under-uncertainty
+- hindsight-bias
+- regulatory-fit-theory
+prerequisites:
+- causal-attribution
+- mental-model
+confidence: high
+callouts:
+- type: definition
+  title: Counterfactual Reasoning
+  body: Counterfactual Reasoning is the capacity to construct and evaluate mental
+    simulations of how the world would have been if some past event had unfolded differently,
+    and underpins causal inference, regret and relief, attribution of responsibility,
+    learning from outcomes, and the construction of "if only" alternatives that drive
+    both negative emotion and adaptive future planning.
+- type: key-claim
+  title: Key claim about Counterfactual Reasoning
+  body: 'Counterfactual Reasoning is the principal cognitive bridge between outcome
+    experience and learning: the alternatives a person spontaneously generates after
+    an outcome shape attributions, emotional reactions, and behavioral adjustments,
+    which is why interventions that train upward-additive counterfactuals produce
+    measurable gains in subsequent performance.'
+- type: warning
+  title: Common pitfall regarding Counterfactual Reasoning
+  body: Counterfactual Reasoning should not be treated as inherently maladaptive on
+    the basis of regret research; the same machinery that produces ruminative regret
+    also produces preparatory planning and causal learning, and the adaptive value
+    depends on the direction (upward vs downward) and structure (additive vs subtractive)
+    of the alternative generated.

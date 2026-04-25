@@ -1,0 +1,39 @@
+concept: Sunk Cost Fallacy
+domain: cognitive-science
+secondary_domains:
+- decision-research
+- behavioral-economics
+aliases:
+- sunk cost effect
+- escalation of commitment
+broader:
+- cognitive-bias
+related:
+- cognitive-bias
+- framing-effect
+- anchoring-bias
+- planning-fallacy
+prerequisites:
+- cognitive-bias
+confidence: high
+callouts:
+- type: definition
+  title: Sunk Cost Fallacy
+  body: The Sunk Cost Fallacy is the tendency to continue investing resources in a
+    course of action because of previously incurred and irrecoverable costs, in violation
+    of the normative principle that only marginal future costs and benefits should
+    determine current choice; the fallacy underwrites escalating commitment to failing
+    projects, ventures, and relationships.
+- type: key-claim
+  title: Key claim about Sunk Cost Fallacy
+  body: The Sunk Cost Fallacy is robust to expertise and statistical instruction because
+    it is supported by intuitions about waste-aversion and consistency that operate
+    at a deep level of decision representation; debiasing interventions that target
+    the marginal-only principle abstractly tend to fail, while interventions that
+    reframe the choice as a fresh decision are more effective.
+- type: warning
+  title: Common pitfall regarding Sunk Cost Fallacy
+  body: The Sunk Cost Fallacy should not be invoked whenever someone persists with
+    a difficult project; persistence based on a prospective expected-value calculation
+    is rational, and the fallacy is specifically the case where past investment is
+    the operative reason for continuation rather than future expected return.

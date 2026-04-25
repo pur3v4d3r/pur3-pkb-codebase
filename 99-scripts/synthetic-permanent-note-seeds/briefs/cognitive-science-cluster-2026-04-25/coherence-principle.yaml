@@ -1,0 +1,40 @@
+concept: Coherence Principle
+domain: cognitive-science
+secondary_domains:
+- multimedia-learning
+- instructional-design
+aliases:
+- coherence rule
+- exclusion principle
+broader:
+- cognitive-theory-of-multimedia-learning
+related:
+- seductive-details-effect
+- redundancy-effect
+- extraneous-cognitive-load
+- cognitive-theory-of-multimedia-learning
+prerequisites:
+- cognitive-theory-of-multimedia-learning
+- cognitive-load-theory
+confidence: high
+callouts:
+- type: definition
+  title: Coherence Principle
+  body: The Coherence Principle, one of the design principles of Mayer's Cognitive
+    Theory of Multimedia Learning, states that people learn more deeply from multimedia
+    presentations when extraneous words, pictures, and sounds are excluded rather
+    than included, because every additional element competes for limited working-memory
+    capacity even when it is intrinsically appealing.
+- type: key-claim
+  title: Key claim about Coherence Principle
+  body: The Coherence Principle predicts a reliable retention and transfer benefit
+    when interesting-but-irrelevant material is removed from a lesson, with effect
+    sizes typically in the d = 0.3 to 0.5 range across multimedia studies, establishing
+    exclusion of inessentials as a more effective design move than inclusion of supposedly
+    motivating extras.
+- type: warning
+  title: Common pitfall regarding Coherence Principle
+  body: The Coherence Principle is often resisted on the intuition that "more is more"
+    or that extra elements add motivation; the empirical record consistently shows
+    the opposite, and treating coherence as optional polish rather than core architecture
+    produces measurably worse instruction.

@@ -1,0 +1,41 @@
+concept: Anchoring Bias
+domain: cognitive-science
+secondary_domains:
+- judgment-research
+- decision-research
+aliases:
+- anchoring effect
+- anchoring-and-adjustment
+broader:
+- cognitive-bias
+- heuristics-and-biases
+related:
+- cognitive-bias
+- heuristics-and-biases
+- framing-effect
+- availability-heuristic
+prerequisites:
+- cognitive-bias
+- heuristics-and-biases
+confidence: high
+callouts:
+- type: definition
+  title: Anchoring Bias
+  body: Anchoring Bias is the systematic influence of an initially considered numerical
+    value — even when transparently arbitrary — on subsequent quantitative judgments,
+    demonstrated repeatedly by Tversky and Kahneman and explained by insufficient
+    adjustment from the anchor and by selective accessibility of anchor-consistent
+    information during the judgment process.
+- type: key-claim
+  title: Key claim about Anchoring Bias
+  body: Anchoring Bias is one of the most replicable findings in judgment research,
+    occurring even when participants are warned about the anchor, when the anchor
+    is patently irrelevant, and when expert judgments are at stake; this resilience
+    marks anchoring as a fundamental feature of the comparison-based judgment system
+    rather than a correctable error.
+- type: warning
+  title: Common pitfall regarding Anchoring Bias
+  body: Anchoring Bias is often described as a problem of insufficient cognitive effort,
+    but the selective-accessibility evidence shows that anchors bias judgment by changing
+    what comes to mind during deliberation, not only by truncating adjustment; this
+    means more careful thinking does not eliminate the bias and may even amplify it.

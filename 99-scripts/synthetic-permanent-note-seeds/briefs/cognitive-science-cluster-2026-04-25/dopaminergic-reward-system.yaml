@@ -1,0 +1,42 @@
+concept: Dopaminergic Reward System
+domain: cognitive-science
+secondary_domains:
+- neuroscience-of-learning
+- motivational-neuroscience
+aliases:
+- mesolimbic dopamine system
+- reward prediction error system
+broader:
+- neuroscience-of-learning
+- motivational-psychology
+related:
+- intrinsic-motivation
+- long-term-potentiation
+- neuroplasticity
+- dopamine-reward-prediction-error
+prerequisites:
+- neuroplasticity
+confidence: high
+callouts:
+- type: definition
+  title: Dopaminergic Reward System
+  body: The Dopaminergic Reward System is the family of midbrain dopaminergic projections
+    — principally from the ventral tegmental area to the nucleus accumbens, prefrontal
+    cortex, and amygdala — whose phasic firing encodes a reward prediction error signal
+    that drives reinforcement learning and shapes the assignment of motivational value
+    to predictive cues, formalized in the Schultz model of dopamine as a teaching
+    signal.
+- type: key-claim
+  title: Key claim about Dopaminergic Reward System
+  body: The Dopaminergic Reward System encodes a quantitative reward prediction error
+    — the difference between received and expected reward — rather than reward magnitude
+    itself, and this prediction-error coding is the cellular implementation of temporal-difference
+    reinforcement learning that links behavioral conditioning, addiction, and modern
+    reward-based AI on a common computational substrate.
+- type: warning
+  title: Common pitfall regarding Dopaminergic Reward System
+  body: The Dopaminergic Reward System should not be glossed as the brain's "pleasure
+    center"; the Berridge dissociation between wanting (incentive salience, dopamine-mediated)
+    and liking (hedonic impact, opioid-mediated) shows that dopamine signals motivational
+    value rather than pleasure per se, and conflating the two has propagated significant
+    misunderstandings into popular accounts.

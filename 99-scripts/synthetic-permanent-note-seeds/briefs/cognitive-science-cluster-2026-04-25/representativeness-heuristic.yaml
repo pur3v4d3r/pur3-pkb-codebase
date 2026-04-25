@@ -1,0 +1,40 @@
+concept: Representativeness Heuristic
+domain: cognitive-science
+secondary_domains:
+- judgment-research
+- heuristics-research
+aliases:
+- representativeness
+- similarity heuristic
+broader:
+- heuristics-and-biases
+- cognitive-bias
+related:
+- heuristics-and-biases
+- base-rate-neglect
+- availability-heuristic
+- attribute-substitution
+prerequisites:
+- heuristics-and-biases
+confidence: high
+callouts:
+- type: definition
+  title: Representativeness Heuristic
+  body: The Representativeness Heuristic, identified by Tversky and Kahneman in 1972,
+    is the cognitive shortcut by which people judge the probability that an instance
+    belongs to a category by the degree to which it resembles the category's prototypical
+    features, often producing systematic violations of probability theory such as
+    base-rate neglect, the conjunction fallacy, and insensitivity to sample size.
+- type: key-claim
+  title: Key claim about Representativeness Heuristic
+  body: The Representativeness Heuristic explains a coherent family of biases — base-rate
+    neglect, the conjunction fallacy (Linda problem), regression neglect, and the
+    gambler's fallacy — as expressions of the same underlying substitution of similarity
+    judgment for probability judgment, which is why these biases pattern together
+    across populations rather than reflecting independent errors.
+- type: warning
+  title: Common pitfall regarding Representativeness Heuristic
+  body: The Representativeness Heuristic should not be dismissed as a mere error;
+    similarity-based judgment is fast, often accurate, and frequently the best available
+    strategy when statistical information is absent or unreliable, and the diagnostic
+    problem is specifically when statistical information is present and ignored.

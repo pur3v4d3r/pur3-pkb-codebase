@@ -1,0 +1,42 @@
+concept: Action Control Theory
+domain: cognitive-science
+secondary_domains:
+- motivational-psychology
+- self-regulation
+aliases:
+- Kuhl's action control theory
+- state vs action orientation theory
+broader:
+- motivational-psychology
+- volitional-control
+related:
+- volitional-control
+- implementation-intentions
+- woop-method
+- intention-behavior-gap
+prerequisites:
+- volitional-control
+- motivational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Action Control Theory
+  body: Action Control Theory, developed by Julius Kuhl, distinguishes the post-decisional
+    volitional processes that translate an intention into action from the pre-decisional
+    motivational processes that produce the intention itself, and identifies a chronic
+    individual difference between action-oriented persons who efficiently disengage
+    from rumination and state-oriented persons who tend to dwell on past states or
+    future possibilities.
+- type: key-claim
+  title: Key claim about Action Control Theory
+  body: 'Action Control Theory explains the intention-behavior gap as a failure of
+    volitional self-regulation rather than weak motivation: state-oriented individuals
+    form intentions of equal strength but show systematically poorer translation into
+    action under demanding conditions, with affect-regulation deficits as the proximal
+    mechanism.'
+- type: warning
+  title: Common pitfall regarding Action Control Theory
+  body: Action Control Theory should not be read as classifying people into permanent
+    "action" or "state" types; the distinction is dimensional, context-sensitive,
+    and trainable, and treating it as a fixed personality category misses its diagnostic
+    value for identifying when self-regulatory support is needed.

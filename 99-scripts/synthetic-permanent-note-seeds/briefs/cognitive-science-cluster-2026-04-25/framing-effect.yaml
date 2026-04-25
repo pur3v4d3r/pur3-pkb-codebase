@@ -1,0 +1,41 @@
+concept: Framing Effect
+domain: cognitive-science
+secondary_domains:
+- decision-research
+- behavioral-economics
+aliases:
+- framing bias
+- attribute framing
+- risky choice framing
+broader:
+- cognitive-bias
+- heuristics-and-biases
+related:
+- cognitive-bias
+- anchoring-bias
+- sunk-cost-fallacy
+- prospect-theory
+prerequisites:
+- cognitive-bias
+confidence: high
+callouts:
+- type: definition
+  title: Framing Effect
+  body: The Framing Effect is the systematic shift in preference produced by logically
+    equivalent reformulations of the same decision problem — most famously the gain-versus-loss
+    framing in Tversky and Kahneman's Asian disease problem — and is taken by prospect
+    theory as evidence that choice is governed by reference-dependent value functions
+    rather than expected-utility maximization over absolute outcomes.
+- type: key-claim
+  title: Key claim about Framing Effect
+  body: 'The Framing Effect demonstrates that the descriptive invariance assumption
+    of classical decision theory fails systematically: the same decision-maker reliably
+    reverses preferences when the same outcomes are described as gains versus losses,
+    indicating that the cognitive representation of a problem is itself a determinant
+    of choice rather than a transparent window onto stable preferences.'
+- type: warning
+  title: Common pitfall regarding Framing Effect
+  body: The Framing Effect should not be treated as a sign of irrationality to be
+    eliminated; reference-dependent valuation is also adaptive in many environments,
+    and the diagnostic concern is specifically when frame manipulation is used to
+    engineer choices that the chooser would not endorse on reflective consideration.

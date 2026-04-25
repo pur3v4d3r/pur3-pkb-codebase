@@ -1,0 +1,38 @@
+concept: Attention Restoration Theory
+domain: cognitive-science
+secondary_domains:
+- environmental-psychology
+- cognitive-neuroscience
+aliases:
+- ART
+- Kaplan ART
+broader:
+- attention-and-cognitive-control
+related:
+- sustained-attention
+- mind-wandering
+- cognitive-load-theory
+prerequisites:
+- executive-function
+- selective-attention
+confidence: high
+callouts:
+- type: definition
+  title: Attention Restoration Theory
+  body: Attention Restoration Theory is the proposition, advanced by Stephen and Rachel
+    Kaplan in 1989, that directed attention is a finite cognitive resource that fatigues
+    with sustained voluntary effort and is restored most effectively through exposure
+    to environments rich in soft fascination — typically natural settings — that engage
+    involuntary attention without depleting executive control.
+- type: key-claim
+  title: Key claim about Attention Restoration Theory
+  body: Attention Restoration Theory predicts a measurable rebound in performance
+    on tasks taxing directed attention (such as proofreading or dichotic listening)
+    following brief exposure to natural environments, an effect not produced by equally
+    pleasant but attentionally demanding urban scenes.
+- type: warning
+  title: Common pitfall regarding Attention Restoration Theory
+  body: Attention Restoration Theory is sometimes invoked as a general "nature is
+    good for you" claim, but the theoretical mechanism is specifically about replenishing
+    top-down attentional control; using it to justify any pleasant break confuses
+    restoration of attention with mere mood improvement.

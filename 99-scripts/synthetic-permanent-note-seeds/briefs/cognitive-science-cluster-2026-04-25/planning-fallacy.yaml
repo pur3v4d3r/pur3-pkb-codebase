@@ -1,0 +1,40 @@
+concept: Planning Fallacy
+domain: cognitive-science
+secondary_domains:
+- judgment-research
+- project-management
+aliases:
+- Kahneman planning fallacy
+- optimism in planning
+broader:
+- cognitive-bias
+- optimism-bias
+related:
+- cognitive-bias
+- sunk-cost-fallacy
+- anchoring-bias
+- hindsight-bias
+prerequisites:
+- cognitive-bias
+confidence: high
+callouts:
+- type: definition
+  title: Planning Fallacy
+  body: The Planning Fallacy, introduced by Daniel Kahneman and Amos Tversky in 1979,
+    is the systematic tendency for individuals and organizations to underestimate
+    the time, cost, and risk of future actions while overestimating their benefits,
+    even when the same individuals know that comparable past projects routinely overran
+    their forecasts.
+- type: key-claim
+  title: Key claim about Planning Fallacy
+  body: The Planning Fallacy persists despite contradicting reference-class evidence
+    because forecasters anchor on the inside view — features specific to the current
+    plan — rather than the outside view that aggregates the base rate of comparable
+    past projects; this is why reference-class forecasting reliably outperforms intuitive
+    estimation even with no additional task knowledge.
+- type: warning
+  title: Common pitfall regarding Planning Fallacy
+  body: The Planning Fallacy should not be treated as remediable by simple exhortation
+    to "be realistic"; the bias is robust against feedback because the inside view
+    feels more diagnostic than base rates, and durable correction requires structural
+    debiasing such as mandatory reference-class comparison rather than greater self-discipline.

@@ -1,0 +1,36 @@
+concept: Cognitive Flexibility
+domain: cognitive-science
+secondary_domains:
+- executive-function
+- developmental-psychology
+aliases:
+- mental flexibility
+- set-shifting
+broader:
+- executive-function
+related:
+- working-memory
+- inhibitory-control
+- metacognitive-regulation
+prerequisites:
+- attention-and-cognitive-control
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Flexibility
+  body: Cognitive Flexibility is the executive capacity to disengage from an established
+    cognitive set and engage an alternative one in response to changing task demands,
+    indexed by performance on shifting paradigms such as the Wisconsin Card Sorting
+    Test and the task-switching paradigm.
+- type: key-claim
+  title: Key claim about Cognitive Flexibility
+  body: Cognitive Flexibility is partially dissociable from working memory and inhibitory
+    control, forming one of three core executive functions in Miyake's unity-and-diversity
+    model and contributing unique variance to higher-level outcomes such as creative
+    problem-solving and academic achievement.
+- type: warning
+  title: Common pitfall regarding Cognitive Flexibility
+  body: Cognitive Flexibility is often confused with mere willingness to consider
+    alternatives, but the construct measures the cost-bearing operation of switching
+    between active task sets; switching always incurs measurable response-time and
+    accuracy costs even in highly flexible individuals.

@@ -1,0 +1,38 @@
+concept: Pre-Training Principle
+domain: cognitive-science
+secondary_domains:
+- multimedia-learning
+- instructional-design
+aliases:
+- pre-training
+- vocabulary pre-instruction
+broader:
+- cognitive-theory-of-multimedia-learning
+related:
+- cognitive-theory-of-multimedia-learning
+- cognitive-load-theory
+- prior-knowledge-activation
+- schema-construction
+prerequisites:
+- cognitive-theory-of-multimedia-learning
+- cognitive-load-theory
+confidence: high
+callouts:
+- type: definition
+  title: Pre-Training Principle
+  body: The Pre-Training Principle, one of Mayer's multimedia design principles, holds
+    that learning of complex material is improved when learners first acquire the
+    names and characteristics of the key components in a brief preparatory phase,
+    so that during the main lesson working memory can be devoted to integrating cause-and-effect
+    relations rather than simultaneously bootstrapping a vocabulary.
+- type: key-claim
+  title: Key claim about Pre-Training Principle
+  body: The Pre-Training Principle predicts that even very brief prior exposure to
+    component names and features substantially improves transfer from a subsequent
+    system-level explanation, because pre-training shifts intrinsic load onto a separate
+    phase rather than competing with relational processing during the main lesson.
+- type: warning
+  title: Common pitfall regarding Pre-Training Principle
+  body: The Pre-Training Principle should not be applied as if more prior detail is
+    always better; the empirical sweet spot is brief vocabulary-and-feature pre-training,
+    and exhaustive front-loading can produce the same overload it was meant to prevent.

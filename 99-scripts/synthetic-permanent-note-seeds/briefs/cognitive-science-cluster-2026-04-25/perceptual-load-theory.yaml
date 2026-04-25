@@ -1,0 +1,36 @@
+concept: Perceptual Load Theory
+domain: cognitive-science
+secondary_domains:
+- perception
+- attention-research
+aliases:
+- Lavie's load theory
+broader:
+- selective-attention
+related:
+- inattentional-blindness
+- cognitive-load-theory
+- working-memory
+prerequisites:
+- attention-and-selective-processing
+confidence: high
+callouts:
+- type: definition
+  title: Perceptual Load Theory
+  body: 'Perceptual Load Theory, developed by Nilli Lavie in the 1990s, holds that
+    selective attention''s locus depends on the perceptual demands of the primary
+    task: under high perceptual load, attention exhausts capacity at early sensory
+    stages and excludes irrelevant stimuli, while under low perceptual load spare
+    capacity spills over and processes distractors involuntarily.'
+- type: key-claim
+  title: Key claim about Perceptual Load Theory
+  body: Perceptual Load Theory predicts a counterintuitive distractor-interference
+    pattern in which difficult tasks produce less distractor processing than easy
+    tasks, because the early-vs-late selection question is settled by whether the
+    target task saturates perceptual capacity.
+- type: warning
+  title: Common pitfall regarding Perceptual Load Theory
+  body: Perceptual Load Theory is sometimes generalized to all forms of cognitive
+    demand, but the theoretical mechanism is specifically about perceptual capacity;
+    high working-memory load actually has the opposite effect, increasing distractor
+    interference by depleting executive control needed for late selection.

@@ -1,0 +1,39 @@
+concept: Divergent Thinking
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- individual-differences
+aliases:
+- generative thinking
+broader:
+- creative-problem-solving
+related:
+- creative-problem-solving
+- lateral-thinking
+- fluid-intelligence
+- cognitive-flexibility
+prerequisites:
+- creative-problem-solving
+confidence: high
+callouts:
+- type: definition
+  title: Divergent Thinking
+  body: Divergent Thinking is the cognitive capacity, theorized by J. P. Guilford
+    in 1956, to generate many varied and original responses to an open-ended prompt
+    — typically scored on fluency, flexibility, originality, and elaboration via tasks
+    such as the Alternative Uses Test — and contrasted with convergent thinking that
+    searches for the single correct answer.
+- type: key-claim
+  title: Key claim about Divergent Thinking
+  body: 'Divergent Thinking is necessary but not sufficient for creative achievement:
+    scores on divergent-thinking tasks correlate modestly with real-world creative
+    output, and the additional ingredients are the convergent evaluation that selects
+    among generated alternatives and the domain-specific knowledge that constrains
+    generation to viable possibilities.'
+- type: warning
+  title: Common pitfall regarding Divergent Thinking
+  body: Divergent Thinking is often treated as a synonym for creativity, but the construct
+    only captures the generative phase; high divergent-thinking scores without the
+    evaluative and knowledge-driven phases produce volume without quality, and creativity
+    research consistently identifies the integration of generation and evaluation
+    as the operative skill.

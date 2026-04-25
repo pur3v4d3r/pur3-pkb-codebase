@@ -1,0 +1,38 @@
+concept: Working Memory Updating
+domain: cognitive-science
+secondary_domains:
+- executive-function
+- working-memory
+aliases:
+- WM updating
+- content monitoring
+broader:
+- working-memory
+related:
+- executive-function
+- cognitive-flexibility
+- central-executive
+prerequisites:
+- working-memory-capacity
+- central-executive
+confidence: high
+callouts:
+- type: definition
+  title: Working Memory Updating
+  body: Working Memory Updating is the executive process responsible for the dynamic
+    monitoring and revision of items currently held in working memory — adding incoming
+    information, evaluating its relevance, and replacing now-outdated content — and
+    constitutes one of three core executive functions in Miyake's framework alongside
+    shifting and inhibition.
+- type: key-claim
+  title: Key claim about Working Memory Updating
+  body: Working Memory Updating predicts performance on the n-back paradigm and complex
+    span tasks better than passive storage capacity does, supporting the view that
+    working memory's contribution to fluid intelligence flows through the active maintenance
+    and replacement of relevant content rather than through raw buffer size.
+- type: warning
+  title: Common pitfall regarding Working Memory Updating
+  body: Working Memory Updating is often equated with rehearsal or refreshing, but
+    the construct specifically requires evaluative replacement of stored items; pure
+    rehearsal preserves content unchanged and recruits distinct phonological-loop
+    machinery.

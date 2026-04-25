@@ -1,0 +1,40 @@
+concept: Linking Your Thinking
+domain: cognitive-science
+secondary_domains:
+- personal-knowledge-management
+- note-making
+aliases:
+- LYT
+- Nick Milo LYT
+- MOC method
+broader:
+- personal-knowledge-management
+- maps-of-content
+related:
+- maps-of-content
+- atomic-notes
+- knowledge-graph
+- second-brain
+prerequisites:
+- personal-knowledge-management
+- maps-of-content
+confidence: high
+callouts:
+- type: definition
+  title: Linking Your Thinking
+  body: Linking Your Thinking, the framework articulated by Nick Milo, is a personal-knowledge-management
+    approach centered on Maps of Content — curated index notes that group related
+    material — as the primary structuring device for an evolving note network, contrasted
+    with rigid hierarchical folders and with pure bottom-up Zettelkasten practice.
+- type: key-claim
+  title: Key claim about Linking Your Thinking
+  body: Linking Your Thinking treats Maps of Content as living scaffolds that evolve
+    with the note collection rather than as fixed taxonomies imposed in advance, which
+    is the structural feature that distinguishes the LYT approach from both top-down
+    classification systems and from purely emergent linking practices.
+- type: warning
+  title: Common pitfall regarding Linking Your Thinking
+  body: Linking Your Thinking should not be reduced to "just make MOCs"; the framework
+    explicitly emphasizes the iterative interplay of capture, atomic note-making,
+    and Map of Content curation, and skipping the atomic-note layer leaves nothing
+    meaningful for the maps to organize.

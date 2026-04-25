@@ -1,0 +1,40 @@
+concept: Regulatory Fit Theory
+domain: cognitive-science
+secondary_domains:
+- motivational-psychology
+- decision-research
+aliases:
+- Higgins regulatory fit
+- fit theory
+broader:
+- regulatory-focus-theory
+- motivational-psychology
+related:
+- regulatory-focus-theory
+- intrinsic-motivation
+- motivational-regulation
+- self-determination-theory
+prerequisites:
+- regulatory-focus-theory
+confidence: high
+callouts:
+- type: definition
+  title: Regulatory Fit Theory
+  body: Regulatory Fit Theory, advanced by E. Tory Higgins, proposes that motivation
+    and value are intensified when the manner of pursuing a goal matches the goal-pursuer's
+    chronic or situational regulatory focus — promotion focus paired with eagerness
+    strategies, prevention focus paired with vigilance strategies — producing a "feeling
+    right" state that strengthens engagement, persuasion, and persistence independent
+    of outcome value.
+- type: key-claim
+  title: Key claim about Regulatory Fit Theory
+  body: Regulatory Fit Theory predicts that the value of a chosen action is amplified
+    when strategy and orientation align, even when the action's objective outcome
+    is held constant; this turns "fit" into an additional source of value that operates
+    over and above the standard expectancy-value calculus.
+- type: warning
+  title: Common pitfall regarding Regulatory Fit Theory
+  body: 'Regulatory Fit Theory is often confused with regulatory focus theory itself,
+    but they are distinct: regulatory focus identifies promotion and prevention orientations,
+    while regulatory fit specifies the match between orientation and strategy as the
+    proximal mechanism producing the value-amplification effect.'

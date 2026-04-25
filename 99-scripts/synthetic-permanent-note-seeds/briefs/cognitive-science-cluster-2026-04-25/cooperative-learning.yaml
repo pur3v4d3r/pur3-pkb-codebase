@@ -1,0 +1,40 @@
+concept: Cooperative Learning
+domain: cognitive-science
+secondary_domains:
+- instructional-design
+- social-learning
+aliases:
+- Johnson and Johnson cooperative learning
+- structured peer learning
+broader:
+- social-cognitive-theory
+- learning-theories
+related:
+- reciprocal-teaching
+- communities-of-practice
+- social-cognitive-theory
+- observational-learning
+prerequisites:
+- social-cognitive-theory
+confidence: high
+callouts:
+- type: definition
+  title: Cooperative Learning
+  body: Cooperative Learning is an instructional approach, codified by David and Roger
+    Johnson and by Robert Slavin, in which small heterogeneous groups work together
+    on learning tasks under conditions of positive interdependence, individual accountability,
+    promotive interaction, deliberate use of social skills, and structured group processing
+    — five features that distinguish it from unstructured group work.
+- type: key-claim
+  title: Key claim about Cooperative Learning
+  body: Cooperative Learning produces consistent positive effects on academic achievement,
+    intergroup relations, and motivation across grade levels and subjects when the
+    five constitutive conditions are present, but the effect collapses to zero or
+    negative when groups lack positive interdependence or individual accountability
+    — making structure, not grouping per se, the active ingredient.
+- type: warning
+  title: Common pitfall regarding Cooperative Learning
+  body: 'Cooperative Learning is often confused with simply assigning students to
+    groups, but the empirical literature is consistent: unstructured group work produces
+    free-riding, sucker effects, and unequal participation; the term Cooperative Learning
+    is reserved for designs that engineer the five conditions explicitly.'

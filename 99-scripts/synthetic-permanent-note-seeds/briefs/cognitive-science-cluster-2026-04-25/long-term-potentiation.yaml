@@ -1,0 +1,41 @@
+concept: Long-Term Potentiation
+domain: cognitive-science
+secondary_domains:
+- neuroscience-of-learning
+- synaptic-plasticity
+aliases:
+- LTP
+- Hebbian potentiation
+broader:
+- neuroplasticity
+- memory-consolidation
+related:
+- memory-consolidation
+- neuroplasticity
+- sleep-and-memory-consolidation
+- dopaminergic-reward-system
+prerequisites:
+- neuroplasticity
+confidence: high
+callouts:
+- type: definition
+  title: Long-Term Potentiation
+  body: Long-Term Potentiation is the persistent activity-dependent strengthening
+    of synaptic transmission produced when a presynaptic input repeatedly succeeds
+    in driving postsynaptic firing, first demonstrated by Bliss and Lømo in the rabbit
+    hippocampus in 1973 and now accepted as the principal cellular mechanism by which
+    experience encodes durable changes in the strength of neural connections.
+- type: key-claim
+  title: Key claim about Long-Term Potentiation
+  body: Long-Term Potentiation provides the strongest available cellular candidate
+    for the Hebbian "neurons that fire together, wire together" principle, and its
+    NMDA-receptor-dependent induction phase implements a precise coincidence-detection
+    rule that links cellular plasticity directly to associative learning at the behavioral
+    level.
+- type: warning
+  title: Common pitfall regarding Long-Term Potentiation
+  body: Long-Term Potentiation is often described as "the cellular basis of memory"
+    without qualification, but the empirical bridge from synaptic strengthening in
+    slice preparations to specific behavioral memories is much weaker than the slogan
+    implies; LTP is necessary for many forms of learning but not sufficient evidence
+    that any particular memory is stored at any particular synapse.

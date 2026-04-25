@@ -1,0 +1,38 @@
+concept: Creative Problem-Solving
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- problem-solving
+aliases:
+- CPS
+- Osborn-Parnes process
+broader:
+- problem-based-learning
+related:
+- divergent-thinking
+- lateral-thinking
+- productive-failure
+- productive-struggle
+prerequisites:
+- divergent-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Creative Problem-Solving
+  body: Creative Problem-Solving denotes both the broad cognitive capacity to produce
+    novel and useful solutions to ill-structured problems and the specific staged
+    process — clarifying, ideating, developing, implementing — codified by Alex Osborn
+    and Sidney Parnes that alternates divergent and convergent thinking at each stage
+    to channel creative production toward viable solutions.
+- type: key-claim
+  title: Key claim about Creative Problem-Solving
+  body: Creative Problem-Solving requires the disciplined alternation of divergent
+    and convergent phases at each stage of the process; mixing the two prematurely
+    — for instance, evaluating ideas during ideation — predictably collapses the solution
+    space and produces conventional rather than creative outputs.
+- type: warning
+  title: Common pitfall regarding Creative Problem-Solving
+  body: Creative Problem-Solving is often equated with brainstorming, but brainstorming
+    is a single technique used inside the ideation stage; the full Creative Problem-Solving
+    process includes problem clarification, solution development, and implementation
+    planning, and shortcutting any phase typically degrades the final product.

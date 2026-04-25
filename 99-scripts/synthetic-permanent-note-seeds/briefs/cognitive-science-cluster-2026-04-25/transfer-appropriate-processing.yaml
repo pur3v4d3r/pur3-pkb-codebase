@@ -1,0 +1,40 @@
+concept: Transfer-Appropriate Processing
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- learning-science
+aliases:
+- TAP framework
+- encoding-retrieval match
+broader:
+- encoding-specificity-principle
+- levels-of-processing
+related:
+- encoding-specificity-principle
+- levels-of-processing
+- context-dependent-memory
+- near-transfer
+prerequisites:
+- encoding-specificity-principle
+- levels-of-processing
+confidence: high
+callouts:
+- type: definition
+  title: Transfer-Appropriate Processing
+  body: Transfer-Appropriate Processing, articulated by Morris, Bransford, and Franks
+    in 1977, is the principle that retention performance depends not on the depth
+    of encoding per se but on the degree of overlap between the cognitive operations
+    engaged at study and those required at test; encoding is "good" only relative
+    to the demands of the eventual retrieval task.
+- type: key-claim
+  title: Key claim about Transfer-Appropriate Processing
+  body: Transfer-Appropriate Processing reframes the levels-of-processing finding
+    by predicting cases where shallow encoding outperforms deep encoding — for instance,
+    when the test requires rhyme recognition rather than semantic recognition — thereby
+    exposing the relational rather than absolute nature of encoding quality.
+- type: warning
+  title: Common pitfall regarding Transfer-Appropriate Processing
+  body: 'Transfer-Appropriate Processing is often confused with the encoding-specificity
+    principle, but they are distinct: encoding specificity emphasizes overlap of cues
+    and contexts, while transfer-appropriate processing specifically concerns overlap
+    of cognitive operations and processing demands.'

@@ -1,0 +1,38 @@
+concept: Autobiographical Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- developmental-psychology
+aliases:
+- self-referential memory
+broader:
+- episodic-memory
+- declarative-memory
+related:
+- flashbulb-memory
+- source-amnesia
+- false-memory
+- semantic-memory
+prerequisites:
+- long-term-memory
+- episodic-memory
+confidence: high
+callouts:
+- type: definition
+  title: Autobiographical Memory
+  body: Autobiographical Memory is the memory system that integrates episodic recollections
+    of personally experienced events with semantic knowledge about one's own life
+    history, producing a temporally extended self-narrative that supports identity
+    continuity, future-event simulation, and social communication of past experience.
+- type: key-claim
+  title: Key claim about Autobiographical Memory
+  body: Autobiographical Memory exhibits a robust reminiscence bump in which adults
+    disproportionately recall events from late adolescence and early adulthood, reflecting
+    the formative encoding of self-defining experiences during the period of identity
+    consolidation rather than mere recency or rehearsal.
+- type: warning
+  title: Common pitfall regarding Autobiographical Memory
+  body: Autobiographical Memory is intuitively treated as a faithful replay of past
+    experience, but its reconstructive nature means that current goals, mood, and
+    post-event information routinely reshape recollections; high subjective vividness
+    is not evidence of accuracy.

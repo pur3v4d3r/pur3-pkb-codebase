@@ -1,0 +1,42 @@
+concept: Winne's Model of Self-Regulated Learning
+domain: cognitive-science
+secondary_domains:
+- self-regulated-learning
+- metacognition
+aliases:
+- Winne and Hadwin model
+- four-stage SRL model
+broader:
+- self-regulated-learning
+- metacognition
+related:
+- self-regulated-learning
+- metacognitive-monitoring
+- metacognitive-regulation
+- monitoring-control-loop
+prerequisites:
+- self-regulated-learning
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Winne's Model of Self-Regulated Learning
+  body: Winne's Model of Self-Regulated Learning, developed by Philip Winne and Allyson
+    Hadwin in 1998, decomposes SRL into a four-stage information-processing cycle
+    — task definition, goal setting and planning, enactment of strategies, and adaptation
+    — within which monitoring continuously compares evolving products against standards
+    and triggers cognitive, behavioral, or motivational control responses.
+- type: key-claim
+  title: Key claim about Winne's Model of Self-Regulated Learning
+  body: Winne's Model of Self-Regulated Learning treats SRL as a monitoring-and-control
+    loop running on cognitive operations rather than as a sequence of phases with
+    sharp boundaries, which makes it especially well-suited to fine-grained trace
+    methodologies such as study-tactic logging and eye-tracking that capture moment-by-moment
+    regulation.
+- type: warning
+  title: Common pitfall regarding Winne's Model of Self-Regulated Learning
+  body: Winne's Model of Self-Regulated Learning is frequently confused with Zimmerman's
+    cyclical phase model; both describe SRL but at different grain sizes, and the
+    Winne model's information-processing emphasis on continuous monitoring within
+    cognitive operations is distinct from Zimmerman's macro-cyclical forethought–performance–reflection
+    structure.

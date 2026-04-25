@@ -1,0 +1,41 @@
+concept: Psychological Reactance
+domain: cognitive-science
+secondary_domains:
+- motivational-psychology
+- social-psychology
+aliases:
+- reactance theory
+- freedom restoration motivation
+broader:
+- motivational-psychology
+- autonomy
+related:
+- autonomy
+- intrinsic-motivation
+- controlling-teaching-styles
+- self-determination-theory
+prerequisites:
+- motivational-psychology
+- autonomy
+confidence: high
+callouts:
+- type: definition
+  title: Psychological Reactance
+  body: Psychological Reactance is the motivational state, theorized by Jack Brehm
+    in 1966, that arises when a person perceives a salient freedom of choice as threatened
+    or eliminated, producing an energized drive to restore the threatened freedom
+    — often by performing the prohibited act, derogating the source of restriction,
+    or seeking alternative routes to the same end.
+- type: key-claim
+  title: Key claim about Psychological Reactance
+  body: 'Psychological Reactance explains why directive and controlling persuasion
+    frequently backfires: the perceived threat to autonomy activates a freedom-restoration
+    motive that competes with — and in many cases overrides — the intended persuasive
+    influence, producing the boomerang effect documented across health-communication,
+    education, and parenting research.'
+- type: warning
+  title: Common pitfall regarding Psychological Reactance
+  body: Psychological Reactance is often invoked as a synonym for stubbornness, but
+    the construct is specifically about freedom-restoration motivation triggered by
+    perceived threat to choice; not all opposition to a request reflects reactance,
+    and not all reactance manifests as overt defiance.

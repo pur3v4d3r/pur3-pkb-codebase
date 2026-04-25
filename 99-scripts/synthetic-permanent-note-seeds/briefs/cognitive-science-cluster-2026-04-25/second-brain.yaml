@@ -1,0 +1,40 @@
+concept: Second Brain
+domain: cognitive-science
+secondary_domains:
+- personal-knowledge-management
+- productivity
+aliases:
+- Forte second brain
+- building a second brain
+- BASB
+broader:
+- personal-knowledge-management
+- externalized-cognitive-architecture
+related:
+- personal-knowledge-base
+- externalized-cognitive-architecture
+- cognitive-offloading
+- knowledge-distillation
+prerequisites:
+- personal-knowledge-management
+confidence: high
+callouts:
+- type: definition
+  title: Second Brain
+  body: A Second Brain, in the sense popularized by Tiago Forte in 2022, is a deliberately
+    maintained external system for capturing, organizing, distilling, and expressing
+    personally meaningful information so that it can be retrieved and recombined over
+    years without depending on biological memory, supporting the broader claim that
+    an externalized knowledge architecture functions as a working extension of cognition.
+- type: key-claim
+  title: Key claim about Second Brain
+  body: A Second Brain reframes personal-knowledge management as a productivity infrastructure
+    rather than a research practice, with its CODE workflow (Capture, Organize, Distill,
+    Express) prescribing a pipeline that converts raw inputs into reusable creative
+    output rather than archived information for its own sake.
+- type: warning
+  title: Common pitfall regarding Second Brain
+  body: A Second Brain is often interpreted as a recommendation to capture more, but
+    Forte's emphasis on Distill and Express makes clear that capture without progressive
+    summarization and reuse produces a hoard rather than an extension of cognition;
+    the diagnostic feature of an effective Second Brain is leverage, not volume.

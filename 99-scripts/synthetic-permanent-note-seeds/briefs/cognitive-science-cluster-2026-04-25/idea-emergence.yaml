@@ -1,0 +1,41 @@
+concept: Idea Emergence
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- personal-knowledge-management
+aliases:
+- emergent ideation
+- bottom-up insight
+broader:
+- creative-problem-solving
+- knowledge-graph
+related:
+- creative-problem-solving
+- knowledge-graph
+- knowledge-distillation
+- linking-your-thinking
+prerequisites:
+- creative-problem-solving
+- knowledge-graph
+confidence: high
+callouts:
+- type: definition
+  title: Idea Emergence
+  body: Idea Emergence, in the personal-knowledge-management and creativity tradition,
+    denotes the bottom-up arising of novel insights from the dense interaction of
+    accumulated atomic notes and their links rather than from top-down deliberate
+    problem-solving, formalized by Niklas Luhmann's Zettelkasten claim that the slip-box
+    is a thinking partner whose surprising suggestions arise from local link density.
+- type: key-claim
+  title: Key claim about Idea Emergence
+  body: 'Idea Emergence reframes creativity as a property of well-connected knowledge
+    graphs rather than an act of solitary cognition: the emergent insight is structurally
+    available in the graph before any individual realization, and the practitioner''s
+    role is to maintain the conditions under which encounters with the relevant juxtaposition
+    become probable.'
+- type: warning
+  title: Common pitfall regarding Idea Emergence
+  body: Idea Emergence is often invoked as a justification for collecting notes without
+    consequence, but the empirical evidence from productive PKM practitioners is that
+    emergence requires both atomicity (so ideas are recombinable) and active linking
+    (so juxtapositions surface), and a passive corpus produces neither.

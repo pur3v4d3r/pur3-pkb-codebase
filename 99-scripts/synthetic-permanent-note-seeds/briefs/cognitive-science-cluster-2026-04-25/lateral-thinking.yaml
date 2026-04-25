@@ -1,0 +1,40 @@
+concept: Lateral Thinking
+domain: cognitive-science
+secondary_domains:
+- creativity-research
+- problem-solving
+aliases:
+- De Bono lateral thinking
+- sideways thinking
+broader:
+- creative-problem-solving
+- divergent-thinking
+related:
+- divergent-thinking
+- creative-problem-solving
+- first-principles-thinking
+- productive-failure
+prerequisites:
+- divergent-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Lateral Thinking
+  body: Lateral Thinking, a term coined by Edward de Bono in 1967, designates problem-solving
+    by deliberate restructuring of the problem representation through provocative
+    perturbations such as random entry, reversal, fractionation, and concept challenge,
+    contrasted with vertical thinking that proceeds by sequential logical refinement
+    within a fixed frame.
+- type: key-claim
+  title: Key claim about Lateral Thinking
+  body: Lateral Thinking treats the solution space as bounded primarily by the problem's
+    framing rather than by available evidence, which is why provocations that violate
+    the current framing can unblock progress even when they are illogical in their
+    own right — a strategy fundamentally different from improving the search within
+    the current frame.
+- type: warning
+  title: Common pitfall regarding Lateral Thinking
+  body: Lateral Thinking is often equated with general creativity, but the term denotes
+    a specific set of frame-restructuring techniques that complement rather than replace
+    analytical thinking; treating it as an alternative to evidence-based reasoning
+    misuses the construct.

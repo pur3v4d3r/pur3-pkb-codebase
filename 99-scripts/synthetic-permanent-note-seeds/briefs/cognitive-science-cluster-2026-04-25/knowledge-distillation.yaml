@@ -1,0 +1,40 @@
+concept: Knowledge Distillation
+domain: cognitive-science
+secondary_domains:
+- personal-knowledge-management
+- learning-science
+aliases:
+- progressive distillation
+- summarization layering
+broader:
+- personal-knowledge-management
+- knowledge-compilation
+related:
+- progressive-summarization
+- knowledge-compilation
+- atomic-notes
+- second-brain
+prerequisites:
+- personal-knowledge-management
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Distillation
+  body: Knowledge Distillation, in the personal-knowledge-management sense, is the
+    iterative reduction of captured material into progressively higher-leverage summaries
+    — typically through layered highlighting, restating in one's own words, and atomicizing
+    into single-claim notes — designed to produce retrieval-friendly forms of knowledge
+    whose cost of re-access is much lower than the original source.
+- type: key-claim
+  title: Key claim about Knowledge Distillation
+  body: Knowledge Distillation predicts that the value of a personal-knowledge system
+    scales not with the volume of captured information but with the quality of distillation
+    passes performed on it; well-distilled small corpora outperform poorly-distilled
+    large ones for the operative task of leveraging past learning into future work.
+- type: warning
+  title: Common pitfall regarding Knowledge Distillation
+  body: Knowledge Distillation should not be confused with mere summarization; the
+    distinguishing feature is iterative re-encounter and re-encoding across time,
+    and a single one-shot summary produced at capture and never revisited fails to
+    deliver the consolidation and integration benefits that distillation is intended
+    to produce.

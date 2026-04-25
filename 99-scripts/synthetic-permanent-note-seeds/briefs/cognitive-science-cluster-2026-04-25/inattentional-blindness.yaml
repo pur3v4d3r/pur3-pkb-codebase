@@ -1,0 +1,38 @@
+concept: Inattentional Blindness
+domain: cognitive-science
+secondary_domains:
+- perception
+- attention-research
+aliases:
+- perceptual blindness
+- the gorilla effect
+broader:
+- selective-attention
+related:
+- perceptual-load-theory
+- attentional-blink
+- cognitive-load-theory
+prerequisites:
+- working-memory
+- attention-and-selective-processing
+confidence: high
+callouts:
+- type: definition
+  title: Inattentional Blindness
+  body: Inattentional Blindness is the failure to consciously perceive an unexpected
+    but fully visible stimulus when attention is engaged on another task or location,
+    demonstrated most famously by the Simons and Chabris invisible-gorilla study and
+    explained by attention's role as a precondition for conscious access rather than
+    as a mere intensifier of perception.
+- type: key-claim
+  title: Key claim about Inattentional Blindness
+  body: 'Inattentional Blindness shows that attention is constitutive of conscious
+    perception rather than merely modulatory: stimuli that fall outside the current
+    attentional set can be looked at directly without producing any reportable awareness,
+    even when they are large, salient, and persistent.'
+- type: warning
+  title: Common pitfall regarding Inattentional Blindness
+  body: Inattentional Blindness is often misread as a general weakness of vision,
+    but the underlying claim is narrower — it concerns conscious access under high
+    attentional load; the unattended stimulus is still processed perceptually, which
+    is why subliminal-priming effects can survive a failure of conscious report.

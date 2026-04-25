@@ -1,0 +1,40 @@
+concept: Psychological Safety
+domain: cognitive-science
+secondary_domains:
+- organizational-psychology
+- team-research
+aliases:
+- team psychological safety
+- Edmondson safety
+broader:
+- organizational-psychology
+- social-cognitive-theory
+related:
+- self-compassion
+- productive-failure
+- communities-of-practice
+- growth-mindset
+prerequisites:
+- social-cognitive-theory
+confidence: high
+callouts:
+- type: definition
+  title: Psychological Safety
+  body: Psychological Safety, defined by Amy Edmondson in 1999, is the shared belief
+    among team members that the team is safe for interpersonal risk-taking — for asking
+    questions, admitting mistakes, raising concerns, and proposing untested ideas
+    — without fear of humiliation, punishment, or career penalty, and is now recognized
+    as a critical antecedent of team learning behavior and performance.
+- type: key-claim
+  title: Key claim about Psychological Safety
+  body: Psychological Safety is the strongest single team-level predictor of effective
+    learning behaviors such as error reporting, help-seeking, and constructive challenge,
+    and Google's Project Aristotle identified it as the most consistent differentiator
+    of high-performing teams across the dimensions they studied.
+- type: warning
+  title: Common pitfall regarding Psychological Safety
+  body: Psychological Safety should not be confused with comfort or absence of conflict;
+    high-safety teams routinely engage in vigorous disagreement and hold high performance
+    standards, and the operative distinction is the absence of interpersonal threat
+    for raising substantive concerns rather than the absence of substantive concerns
+    themselves.

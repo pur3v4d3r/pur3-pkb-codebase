@@ -1,0 +1,38 @@
+concept: Near Transfer
+domain: cognitive-science
+secondary_domains:
+- learning-science
+- transfer-research
+aliases:
+- proximal transfer
+- low-road transfer
+broader:
+- transfer-of-learning
+related:
+- far-transfer
+- transfer-of-learning
+- transfer-appropriate-processing
+- knowledge-transfer
+prerequisites:
+- transfer-of-learning
+confidence: high
+callouts:
+- type: definition
+  title: Near Transfer
+  body: Near Transfer is the application of learned knowledge or skill to a new task
+    that shares substantial surface and structural features with the original training
+    context, contrasted with far transfer to dissimilar contexts; near transfer typically
+    arises from highly automated procedural knowledge and shows reliably in trained
+    populations whereas far transfer remains empirically scarce.
+- type: key-claim
+  title: Key claim about Near Transfer
+  body: Near Transfer is robust and ubiquitous in skill learning while far transfer
+    is rare and usually requires explicit instruction in abstract principles; this
+    asymmetry is one of the most stable findings in transfer research and underwrites
+    the recommendation to teach for transfer explicitly rather than hoping it emerges.
+- type: warning
+  title: Common pitfall regarding Near Transfer
+  body: Near Transfer should not be dismissed as "merely" doing a similar task; it
+    is the workhorse of practical skill acquisition, and overstating its ease while
+    pursuing far transfer leads to curricula that achieve neither — failing to automate
+    the proximal application while assuming distant generalization will follow.

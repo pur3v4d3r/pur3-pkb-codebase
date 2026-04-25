@@ -1,0 +1,42 @@
+concept: Self-Compassion
+domain: cognitive-science
+secondary_domains:
+- positive-psychology
+- emotion-regulation
+aliases:
+- Neff self-compassion
+- compassionate self-relating
+broader:
+- emotional-regulation
+- self-concept
+related:
+- psychological-safety
+- growth-mindset
+- emotional-regulation
+- self-concept
+prerequisites:
+- emotional-regulation
+- self-concept
+confidence: high
+callouts:
+- type: definition
+  title: Self-Compassion
+  body: Self-Compassion, formalized by Kristin Neff in 2003, is a triadic stance toward
+    one's own suffering composed of self-kindness rather than self-judgment, recognition
+    of common humanity rather than isolation, and mindful awareness rather than over-identification
+    with painful states; it is psychometrically distinct from self-esteem and predicts
+    adaptive responses to failure independent of self-evaluative content.
+- type: key-claim
+  title: Key claim about Self-Compassion
+  body: Self-Compassion predicts persistence and growth after failure better than
+    self-esteem does, because it stabilizes a constructive stance toward setbacks
+    without requiring positive self-evaluation; this dissociation explains why self-compassion
+    interventions improve outcomes that self-esteem interventions characteristically
+    fail to budge.
+- type: warning
+  title: Common pitfall regarding Self-Compassion
+  body: 'Self-Compassion is often conflated with self-indulgence or lowered standards,
+    but the empirical literature is consistent in showing the opposite: high self-compassion
+    is associated with stronger personal accountability, greater willingness to acknowledge
+    mistakes, and higher sustained achievement striving, because it removes the threat
+    that drives defensive avoidance.'

@@ -1,0 +1,42 @@
+concept: Construal Level Theory
+domain: cognitive-science
+secondary_domains:
+- social-psychology
+- decision-research
+aliases:
+- CLT social-psychology
+- psychological distance theory
+broader:
+- social-cognitive-theory
+- motivational-psychology
+related:
+- motivational-psychology
+- regulatory-focus-theory
+- regulatory-fit-theory
+- planning-fallacy
+prerequisites:
+- motivational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Construal Level Theory
+  body: 'Construal Level Theory, developed by Yaacov Trope and Nira Liberman, holds
+    that psychological distance — temporal, spatial, social, or hypothetical — systematically
+    shifts the abstractness of mental representation: distant entities are construed
+    in high-level abstract terms that emphasize core features and goals, while near
+    entities are construed in low-level concrete terms that emphasize incidental features
+    and means.'
+- type: key-claim
+  title: Key claim about Construal Level Theory
+  body: Construal Level Theory predicts a coherent family of effects across temporal
+    discounting, prediction, planning, persuasion, and self-control by linking psychological
+    distance to representation abstractness, with distance-induced abstraction producing
+    more goal-consistent and value-consistent choices when the relevant judgment is
+    at the high level of construal.
+- type: warning
+  title: Common pitfall regarding Construal Level Theory
+  body: Construal Level Theory should not be confused with construct-level distinctions
+    such as concrete vs abstract reasoning per se; the theory's specific contribution
+    is the systematic relationship between psychological distance and construal level,
+    and treating any concrete-versus-abstract framing as a CLT effect dilutes the
+    construct.

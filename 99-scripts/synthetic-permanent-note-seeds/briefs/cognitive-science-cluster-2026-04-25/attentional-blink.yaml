@@ -1,0 +1,36 @@
+concept: Attentional Blink
+domain: cognitive-science
+secondary_domains:
+- perception
+- attention-research
+aliases:
+- AB phenomenon
+broader:
+- attention-and-cognitive-control
+related:
+- working-memory
+- inattentional-blindness
+- perceptual-load-theory
+prerequisites:
+- selective-attention
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Attentional Blink
+  body: The Attentional Blink is the temporary inability to detect a second target
+    stimulus presented roughly 200–500 milliseconds after a successfully detected
+    first target in a rapid serial visual presentation, reflecting a transient bottleneck
+    in the consolidation of perceptual representations into reportable working memory.
+- type: key-claim
+  title: Key claim about Attentional Blink
+  body: The Attentional Blink reveals that conscious perception of discrete targets
+    is rate-limited not by sensory processing but by the time required to encode each
+    target into a stable working-memory representation, with the second target failing
+    to clear the consolidation gate while the first is still being processed.
+- type: warning
+  title: Common pitfall regarding Attentional Blink
+  body: The Attentional Blink should not be conflated with general slow reaction time;
+    the deficit is specific to consciously reporting the second target, and an "unseen"
+    T2 still shows electrophysiological and priming evidence of having been perceptually
+    processed.

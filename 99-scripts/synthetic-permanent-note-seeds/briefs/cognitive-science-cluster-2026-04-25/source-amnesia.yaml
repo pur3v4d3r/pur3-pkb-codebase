@@ -1,0 +1,39 @@
+concept: Source Amnesia
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- source-monitoring-research
+aliases:
+- source-monitoring failure
+- source memory deficit
+broader:
+- source-monitoring
+related:
+- source-monitoring
+- false-memory
+- autobiographical-memory
+- semantic-memory
+prerequisites:
+- long-term-memory
+- source-monitoring
+confidence: high
+callouts:
+- type: definition
+  title: Source Amnesia
+  body: Source Amnesia is the dissociation between preserved memory for content and
+    impaired memory for the origin of that content — the speaker, location, modality,
+    or time at which it was learned — and is characteristic of medial-temporal-lobe
+    and frontal-lobe dysfunction as well as ordinary forgetting over long retention
+    intervals.
+- type: key-claim
+  title: Key claim about Source Amnesia
+  body: 'Source Amnesia explains why misinformation, rumor, and the illusory-truth
+    effect are so resistant to correction: once the content trace decouples from its
+    source attribution, the originally discredited claim re-enters memory as a free-standing
+    fact whose epistemic status can no longer be re-evaluated against its provenance.'
+- type: warning
+  title: Common pitfall regarding Source Amnesia
+  body: Source Amnesia is sometimes treated as a neurological symptom alone, but the
+    underlying source-monitoring failure is a graded property of normal memory that
+    intensifies with delay, divided attention at encoding, and source-content similarity;
+    clinical and everyday source amnesia lie on a single continuum.

@@ -1,0 +1,42 @@
+concept: Four-Phase Model of Interest Development
+domain: cognitive-science
+secondary_domains:
+- motivational-psychology
+- educational-psychology
+aliases:
+- Hidi Renninger model
+- four-phase interest model
+broader:
+- motivational-psychology
+- individual-interest
+- situational-interest
+related:
+- individual-interest
+- situational-interest
+- intrinsic-motivation
+- curiosity
+prerequisites:
+- individual-interest
+- situational-interest
+confidence: high
+callouts:
+- type: definition
+  title: Four-Phase Model of Interest Development
+  body: The Four-Phase Model of Interest Development, proposed by Suzanne Hidi and
+    K. Ann Renninger in 2006, describes interest as a developmental construct that
+    progresses through four sequential phases — triggered situational interest, maintained
+    situational interest, emerging individual interest, and well-developed individual
+    interest — each requiring distinct external supports for transition to the next.
+- type: key-claim
+  title: Key claim about Four-Phase Model of Interest Development
+  body: The Four-Phase Model of Interest Development reframes interest as a developmental
+    trajectory rather than a stable trait, and identifies the maintained-situational
+    phase as the critical bottleneck where most learners fail to internalize a triggered
+    interest into an enduring personal interest unless content-relevant tasks and
+    meaningful purpose are scaffolded.
+- type: warning
+  title: Common pitfall regarding Four-Phase Model of Interest Development
+  body: The Four-Phase Model of Interest Development should not be read as implying
+    that all triggered interest will or should progress to individual interest; the
+    model is descriptive of the conditions under which progression is possible, not
+    a normative claim that every spark must be cultivated to maturity.

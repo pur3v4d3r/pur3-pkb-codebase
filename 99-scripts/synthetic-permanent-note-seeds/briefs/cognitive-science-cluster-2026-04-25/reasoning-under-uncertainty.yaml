@@ -1,0 +1,41 @@
+concept: Reasoning Under Uncertainty
+domain: cognitive-science
+secondary_domains:
+- reasoning-and-decision-making
+- judgment-research
+aliases:
+- probabilistic reasoning
+- judgment under uncertainty
+broader:
+- probabilistic-thinking
+- bayesian-reasoning
+related:
+- probabilistic-thinking
+- bayesian-reasoning
+- heuristics-and-biases
+- dual-process-theory
+prerequisites:
+- probabilistic-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Reasoning Under Uncertainty
+  body: Reasoning Under Uncertainty is the family of judgment processes by which people
+    draw inferences and choose actions when relevant outcomes, probabilities, or states
+    of the world are not known with certainty, encompassing both formal probabilistic
+    competence and the heuristic shortcuts described by Tversky and Kahneman that
+    produce systematic departures from normative Bayesian inference.
+- type: key-claim
+  title: Key claim about Reasoning Under Uncertainty
+  body: Reasoning Under Uncertainty in everyday cognition is characteristically heuristic
+    rather than calculative, with availability, representativeness, anchoring, and
+    affect substituting for formal probability assessment; this is adaptive in many
+    environments but produces predictable biases when statistical structure violates
+    the heuristic's assumptions.
+- type: warning
+  title: Common pitfall regarding Reasoning Under Uncertainty
+  body: 'Reasoning Under Uncertainty is often discussed as if it required formal probability
+    instruction to remediate, but the empirical evidence supports a more nuanced view:
+    representing problems in frequency formats, providing visual outcome arrays, and
+    using natural-sample design substantially improve performance without explicit
+    Bayesian training.'

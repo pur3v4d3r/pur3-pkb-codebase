@@ -1,0 +1,43 @@
+concept: WOOP Method
+domain: cognitive-science
+secondary_domains:
+- self-regulation
+- motivational-psychology
+aliases:
+- WOOP
+- Wish Outcome Obstacle Plan
+- mental contrasting with implementation intentions
+broader:
+- mental-contrasting
+- implementation-intentions
+related:
+- mental-contrasting
+- implementation-intentions
+- goal-setting
+- action-control-theory
+prerequisites:
+- mental-contrasting
+- implementation-intentions
+confidence: high
+callouts:
+- type: definition
+  title: WOOP Method
+  body: The WOOP Method, developed by Gabriele Oettingen, is a structured self-regulation
+    protocol that integrates mental contrasting with implementation intentions through
+    four sequential steps — identifying a meaningful Wish, vividly imagining the best
+    Outcome, identifying the chief inner Obstacle, and forming an if-then Plan — and
+    has been validated as a transferable life-skill for translating intentions into
+    reliable action.
+- type: key-claim
+  title: Key claim about WOOP Method
+  body: The WOOP Method outperforms either mental contrasting or implementation intentions
+    alone in head-to-head trials because it uses the contrast step to bind motivation
+    to the realistic obstacle and the if-then step to automate the response when the
+    obstacle is encountered, exploiting the complementary strengths of the two component
+    techniques.
+- type: warning
+  title: Common pitfall regarding WOOP Method
+  body: The WOOP Method should not be applied to wishes the person cannot influence;
+    mental contrasting with infeasible outcomes produces disengagement rather than
+    energization, and the WOOP Method's empirical track record presumes the wish lies
+    within the person's plausible reach.
