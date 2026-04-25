@@ -115,3 +115,15 @@ nohup: ignoring input
     input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-18-positive-psych-and-instructional-design
 06:52:10 [INFO] __main__: Discovered 19 JSON file(s)
 06:52:10 [INFO] __main__: Mined 19 concept candidate(s)
+  V6 elaborating — Wisdom --------------------------------------- 19/19 0:15:47
+
+=== V6 Summary ===
+  JSONs scanned     : 19
+  Concepts mined    : 19
+  Written/dry-ran   : 19
+  Skipped (collision): 0
+  Unworthy (gate)   : 0
+  Failed            : 0
+  LLM cache hits    : 0
+
+07:07:57 [INFO] __main__: Wrote V6 report → runs\2026-04-25-v6-2026-04-25-2026-04-25-batch-18-positive-psych-and-instructional-design.json

@@ -744,8 +744,6 @@ I need you to revciew these two files containing Dataview and DataviewJS queries
 
 
 
-Reorganize and update V4D3R Obsidian themes
 
 
 
-Consolidate V4D3R theme files into .obsidian (updated appearance.json and many theme.css files). Remove legacy copies under 999-obsidian-themes and move numerous theme snippet files into a back-up-themes location. Batch cleanup/restructure to avoid duplicated theme assets and keep the active themes in .obsidian/themes.
