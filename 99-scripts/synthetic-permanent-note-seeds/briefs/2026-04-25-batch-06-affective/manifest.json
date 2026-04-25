@@ -1,0 +1,54 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-06-affective",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-06-affective.md",
+    "notes": "Affective & emotional learning cluster. Seeds the emotion-regulation\nand affective-state concepts that interact with the motivation /\nmetacognition / cognitive-load concepts already in vault."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-06-affective",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-06-affective"
+  },
+  "counts": {
+    "parsed": 5,
+    "accepted": 5,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Cognitive Reappraisal",
+      "kebab": "cognitive-reappraisal",
+      "brief_path": "briefs/2026-04-25-batch-06-affective/cognitive-reappraisal.yaml",
+      "expected_seed_filename": "cognitive-reappraisal-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Academic Anxiety",
+      "kebab": "academic-anxiety",
+      "brief_path": "briefs/2026-04-25-batch-06-affective/academic-anxiety.yaml",
+      "expected_seed_filename": "academic-anxiety-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Curiosity",
+      "kebab": "curiosity",
+      "brief_path": "briefs/2026-04-25-batch-06-affective/curiosity.yaml",
+      "expected_seed_filename": "curiosity-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Boredom and Learning",
+      "kebab": "boredom-and-learning",
+      "brief_path": "briefs/2026-04-25-batch-06-affective/boredom-and-learning.yaml",
+      "expected_seed_filename": "boredom-and-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Emotional Intelligence",
+      "kebab": "emotional-intelligence",
+      "brief_path": "briefs/2026-04-25-batch-06-affective/emotional-intelligence.yaml",
+      "expected_seed_filename": "emotional-intelligence-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

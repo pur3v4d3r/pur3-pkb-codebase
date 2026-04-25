@@ -1,0 +1,36 @@
+concept: Procrastination
+domain: motivational-psychology
+secondary_domains:
+- self-regulation
+- behavioral-psychology
+aliases:
+- academic procrastination
+broader:
+- self-regulation
+related:
+- temporal-motivation-theory
+- intention-behavior-gap
+- volitional-control
+- self-handicapping
+prerequisites:
+- self-regulation
+confidence: high
+callouts:
+- type: definition
+  title: Procrastination
+  body: Procrastination is the voluntary delay of an intended course of action despite
+    expecting to be worse off for the delay, distinguished from rational delay by
+    the actor's own anticipation that postponement will produce a worse outcome than
+    acting now would.
+- type: key-claim
+  title: Key claim about Procrastination
+  body: 'Procrastination is most usefully framed as a self-regulation failure of emotion
+    management rather than of time management: the immediate emotional aversiveness
+    of the task drives the avoidance, which is why interventions targeting affect
+    outperform interventions targeting scheduling.'
+- type: warning
+  title: Common pitfall regarding Procrastination
+  body: Diagnosing all delay as Procrastination conflates a self-regulation failure
+    with strategic prioritization; the defining feature is the actor's own expectation
+    of net loss from the delay, and missing this criterion produces both over- and
+    under-diagnosis.

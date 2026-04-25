@@ -1,0 +1,38 @@
+concept: Mind Wandering
+domain: cognitive-science
+secondary_domains:
+- attention
+- consciousness
+aliases:
+- task-unrelated thought
+- stimulus-independent thought
+broader:
+- attention-and-cognitive-control
+related:
+- executive-function
+- default-mode-network
+- boredom-and-learning
+- cognitive-flexibility
+prerequisites:
+- attention-and-cognitive-control
+confidence: high
+callouts:
+- type: definition
+  title: Mind Wandering
+  body: Mind Wandering is the spontaneous shift of attention from an ongoing primary
+    task to internally generated, task-unrelated thoughts, typically without explicit
+    decision and often without awareness at the moment of onset, and is one of the
+    most empirically common states of waking cognition.
+- type: key-claim
+  title: Key claim about Mind Wandering
+  body: 'Mind Wandering is not a unitary failure mode of attention: meta-aware mind-wandering
+    (caught and acknowledged) and tuned-out mind-wandering (ongoing without awareness)
+    have distinct cognitive profiles and distinct relationships to performance, and
+    a measure that lumps them together obscures the meta-awareness component that
+    mediates whether the mind-wandering episode is repaired or extended.'
+- type: warning
+  title: Common pitfall regarding Mind Wandering
+  body: Mind Wandering is often framed as uniformly costly, but the empirical record
+    shows context-dependent benefits — for creative incubation, autobiographical planning,
+    and prospective memory — so a blanket prescription against mind-wandering misreads
+    a state that is sometimes the cognitive operation the situation calls for.

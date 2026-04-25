@@ -1,0 +1,40 @@
+concept: Second-Order Thinking
+domain: critical-thinking
+secondary_domains:
+- decision-making
+- strategy
+aliases:
+- second-order effects
+- downstream thinking
+broader:
+- systems-thinking
+related:
+- first-principles-thinking
+- mental-model
+- unintended-consequences
+- feedback-loops
+prerequisites:
+- systems-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Second-Order Thinking
+  body: Second-Order Thinking is the discipline of explicitly considering the consequences
+    of the consequences of a decision — what happens after the immediate effect has
+    worked itself out, including the responses of other actors, the creation of new
+    equilibria, and the second-round feedback into the system that produced the original
+    decision.
+- type: key-claim
+  title: Key claim about Second-Order Thinking
+  body: 'Second-Order Thinking is the antidote to the most common analytic failure
+    of strategy: stopping the chain of consequences at the first-order effect that
+    motivated the decision, which is why interventions that look unambiguously good
+    on first-order analysis routinely produce net-negative second-order outcomes that
+    were latent in the system structure all along.'
+- type: warning
+  title: Common pitfall regarding Second-Order Thinking
+  body: Second-Order Thinking can devolve into infinite regress that paralyzes action;
+    the discipline's value depends on terminating the chain at a defensible horizon
+    — typically two to three rounds of consequence — and using the resulting analysis
+    to choose, rather than letting fully-traced consequence trees become a substitute
+    for choosing.

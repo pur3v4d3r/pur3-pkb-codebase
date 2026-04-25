@@ -1,0 +1,39 @@
+concept: First-Principles Thinking
+domain: critical-thinking
+secondary_domains:
+- reasoning
+- problem-solving
+aliases:
+- first principles reasoning
+broader:
+- critical-thinking
+related:
+- thought-experiment
+- analogical-reasoning
+- mental-model
+- scientific-reasoning
+prerequisites:
+- critical-thinking
+confidence: high
+callouts:
+- type: definition
+  title: First-Principles Thinking
+  body: First-Principles Thinking is the deliberate practice of decomposing a problem
+    to the most basic claims one is willing to defend — physical constants, definitional
+    truths, robust empirical regularities — and then reconstructing the conclusion
+    from those primitives, in explicit contrast to reasoning by analogy from existing
+    solutions.
+- type: key-claim
+  title: Key claim about First-Principles Thinking
+  body: 'First-Principles Thinking is a discipline against the path-dependency of
+    analogical reasoning: by forcing a return to primitives, it surfaces assumptions
+    that have been silently inherited from existing solutions, which is the form of
+    refactoring required to displace incumbent designs that have ceased to be optimal
+    under changed constraints.'
+- type: warning
+  title: Common pitfall regarding First-Principles Thinking
+  body: First-Principles Thinking is costly and slow, and applied indiscriminately
+    it forfeits the genuine epistemic economy of analogy; the appropriate trigger
+    is a domain in which the inherited solution structure is suspected to be sub-optimal
+    and the primitives are tractable, not every routine engineering decision dressed
+    up as a foundational re-derivation.

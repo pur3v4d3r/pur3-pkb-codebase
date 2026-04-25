@@ -1,0 +1,34 @@
+concept: Source Monitoring
+domain: cognitive-science
+secondary_domains:
+- memory
+- metacognition
+aliases:
+- reality monitoring
+broader:
+- reconstructive-memory
+related:
+- false-memory
+- episodic-memory
+- hindsight-bias
+prerequisites:
+- episodic-memory
+confidence: high
+callouts:
+- type: definition
+  title: Source Monitoring
+  body: Source Monitoring is the cognitive process of attributing a remembered piece
+    of information to its origin — whether it was perceived, imagined, told by another
+    person, or self-generated — and is the mechanism by which the mind decides "where
+    did I get this from?"
+- type: key-claim
+  title: Key claim about Source Monitoring
+  body: Source Monitoring is not a passive lookup of a stored tag but an inferential
+    reconstruction made at retrieval, which is why confidently-held memories can systematically
+    misattribute origin while preserving content.
+- type: warning
+  title: Common pitfall regarding Source Monitoring
+  body: 'Treating Source Monitoring as a binary "true vs. false memory" classifier
+    obscures its real failure mode: high-confidence misattribution of origin without
+    any felt subjective uncertainty, which means strong belief is not a reliable signal
+    of correct sourcing.'

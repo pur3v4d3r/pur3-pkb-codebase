@@ -576,7 +576,7 @@ The guiding question with which this report opened — when instruction fails, w
 >
 > **Report-Specific Significance:** The framework whose architecture, evolution, and application this entire report examines.
 >
-> **See also:** [[cognitive-load-theory]], [[the-history-and-evolution-of-cognitive-load-theory]], [[a-historical-overview-of-cognitive-load-theory]]
+> **See also:** [[cognitive-load-theory]], [[the-history-and-evolution-of-cognitive-load-theory]]
 
 > [!definition] **Working Memory (Baddeley & Hitch, 1974)**
 > The limited-capacity cognitive system responsible for the temporary maintenance and active manipulation of information needed to perform complex cognitive tasks, characterized in the canonical componential model by a central executive coordinating subsidiary phonological loop and visuospatial sketchpad systems.

@@ -1,0 +1,38 @@
+concept: Case-Based Learning
+domain: instructional-design
+secondary_domains:
+- professional-education
+- instructional-method
+aliases:
+- CBL
+- case method
+broader:
+- inquiry-based-learning
+related:
+- problem-based-learning
+- far-transfer
+- schema-construction
+- adaptive-expertise
+prerequisites:
+- inquiry-based-learning
+confidence: high
+callouts:
+- type: definition
+  title: Case-Based Learning
+  body: Case-Based Learning is the instructional method in which learners reason about
+    authentic, often historical or composite cases — full of contextual detail, ambiguity,
+    and competing considerations — typically through structured discussion that surfaces
+    the principles and trade-offs the case instantiates.
+- type: key-claim
+  title: Key claim about Case-Based Learning
+  body: 'Case-Based Learning is best understood as schema-building through varied
+    examples: by exposing learners to many cases that share a deep structure under
+    varied surface features, the method builds the abstracted-relational schema that
+    supports transfer to novel cases, which is the form of knowledge professional
+    practice actually requires.'
+- type: warning
+  title: Common pitfall regarding Case-Based Learning
+  body: Case-Based Learning works only when the case sequence is curated for cross-case
+    structural commonality; an undifferentiated case library produces vivid memories
+    of individual cases without the cross-case abstraction that gives the method its
+    transfer value.

@@ -1,0 +1,38 @@
+concept: Faded Worked Examples
+domain: learning-science
+secondary_domains:
+- cognitive-load-theory
+- instructional-design
+aliases:
+- example-problem fading
+- completion problems
+broader:
+- worked-examples
+related:
+- worked-examples
+- the-worked-example-effect
+- scaffolded-fading
+- cognitive-load-theory
+prerequisites:
+- worked-examples
+confidence: high
+callouts:
+- type: definition
+  title: Faded Worked Examples
+  body: Faded Worked Examples are an instructional sequence in which the learner is
+    given full worked examples first, then partial worked examples with progressively
+    more steps left blank for the learner to complete, until full problem-solving
+    is required — a deliberate transfer of cognitive load from the example to the
+    learner.
+- type: key-claim
+  title: Key claim about Faded Worked Examples
+  body: 'Faded Worked Examples solve the expertise-reversal problem of static worked
+    examples by making the example structure adaptive: as schema construction progresses,
+    the support is withdrawn at the rate the learner can absorb, which is the bridge
+    between worked-example efficacy for novices and problem-solving efficacy for intermediates.'
+- type: warning
+  title: Common pitfall regarding Faded Worked Examples
+  body: Faded Worked Examples lose their advantage when the fading schedule is fixed
+    rather than responsive to learner performance; pre-set fading sequences re-create
+    the expertise-reversal problem at a finer granularity, fading too fast for some
+    learners and too slow for others.

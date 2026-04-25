@@ -1,0 +1,36 @@
+concept: Commonplace Book
+domain: pkm
+secondary_domains:
+- intellectual-history
+- notetaking
+aliases:
+- commonplace
+- florilegium
+broader:
+- personal-knowledge-management
+related:
+- zettelkasten
+- literature-notes
+- progressive-summarization
+prerequisites:
+- personal-knowledge-management
+confidence: high
+callouts:
+- type: definition
+  title: Commonplace Book
+  body: A Commonplace Book is the historical predecessor to modern personal knowledge
+    management — a hand-kept manuscript in which a reader copies, indexes, and cross-references
+    quotations, observations, and arguments encountered across many sources, organizing
+    them by topic for later rhetorical or intellectual reuse.
+- type: key-claim
+  title: Key claim about Commonplace Book
+  body: The Commonplace Book is the institutional memory of how literate cultures
+    handled cross-source synthesis before databases, and its core mechanic — topical
+    re-grouping of fragments excerpted from many works — is the direct ancestor of
+    every tag-based and link-based PKM system that followed.
+- type: warning
+  title: Common pitfall regarding Commonplace Book
+  body: 'Romanticizing the Commonplace Book as a complete model for digital PKM ignores
+    its most important constraint: hand-copying enforced selectivity, and the modern
+    frictionless equivalent (clipping at scale) reproduces the form while destroying
+    the discipline that gave it value.'

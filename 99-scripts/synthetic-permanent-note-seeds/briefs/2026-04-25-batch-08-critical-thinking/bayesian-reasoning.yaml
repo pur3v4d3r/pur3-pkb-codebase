@@ -1,0 +1,40 @@
+concept: Bayesian Reasoning
+domain: critical-thinking
+secondary_domains:
+- statistics
+- formal-epistemology
+aliases:
+- Bayesian inference
+- Bayesian updating
+broader:
+- probabilistic-thinking
+related:
+- base-rate-neglect
+- inference-to-best-explanation
+- predictive-processing
+- calibration
+prerequisites:
+- probabilistic-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Bayesian Reasoning
+  body: Bayesian Reasoning is the application of Bayes' theorem as the normative rule
+    for updating the probability of a hypothesis given new evidence — combining a
+    prior probability with the likelihood of the evidence under each hypothesis to
+    yield a posterior — and is the formal benchmark against which human probability
+    judgments are most often evaluated.
+- type: key-claim
+  title: Key claim about Bayesian Reasoning
+  body: 'Bayesian Reasoning provides the cleanest formal account of why base rates
+    matter even when they feel intuitively irrelevant: a posterior is a function of
+    prior times likelihood, and ignoring the prior is mathematically equivalent to
+    assuming all hypotheses are equally probable a priori — an assumption that is
+    rarely warranted and almost never explicitly endorsed.'
+- type: warning
+  title: Common pitfall regarding Bayesian Reasoning
+  body: Bayesian Reasoning as a normative framework does not entail that explicit
+    Bayesian computation is the right cognitive prescription in everyday judgment;
+    the inputs (priors, likelihoods) are themselves uncertain, and pretending to a
+    precise posterior on the back of guessed inputs produces overconfident conclusions
+    dressed in mathematical authority.

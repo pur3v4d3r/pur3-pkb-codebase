@@ -1,0 +1,39 @@
+concept: Learning Analytics
+domain: instructional-design
+secondary_domains:
+- educational-data-mining
+- assessment
+aliases:
+- LA
+broader:
+- assessment-design
+related:
+- formative-assessment
+- learning-analytics-dashboards
+- educational-data-mining
+- evidence-centered-design
+prerequisites:
+- assessment-design
+confidence: high
+callouts:
+- type: definition
+  title: Learning Analytics
+  body: Learning Analytics is the measurement, collection, analysis, and reporting
+    of data about learners and their contexts for purposes of understanding and optimizing
+    learning and the environments in which it occurs, and is the meta-discipline that
+    turns digital traces of learning activity into actionable evidence for teachers,
+    learners, and institutions.
+- type: key-claim
+  title: Key claim about Learning Analytics
+  body: Learning Analytics derives its theoretical leverage from making previously
+    invisible micro-behaviors of learning visible at scale, which lets researchers
+    and instructors identify patterns — engagement collapses, strategy switches, misconception
+    clusters — that classical assessment cannot detect because it samples too sparsely
+    in time.
+- type: warning
+  title: Common pitfall regarding Learning Analytics
+  body: Learning Analytics dashboards routinely substitute the easy-to-measure for
+    the educationally meaningful; the field's central methodological risk is that
+    what gets logged becomes what gets optimized, and the discipline's own literature
+    warns that uncritical metric-following erodes the very learning processes the
+    analytics were meant to support.

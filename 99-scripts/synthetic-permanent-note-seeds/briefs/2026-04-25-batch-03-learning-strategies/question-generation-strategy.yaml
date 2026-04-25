@@ -1,0 +1,37 @@
+concept: Question Generation Strategy
+domain: learning-science
+secondary_domains:
+- reading-comprehension
+- study-skills
+aliases:
+- self-questioning
+- question generation
+broader:
+- learning-strategies
+related:
+- elaborative-interrogation
+- self-explanation
+- comprehension-monitoring
+prerequisites:
+- comprehension-monitoring
+confidence: high
+callouts:
+- type: definition
+  title: Question Generation Strategy
+  body: The Question Generation Strategy is the study technique in which the learner
+    formulates their own questions about material as they read or study, ranging from
+    factual recall to inferential and integrative questions, and then attempts to
+    answer them — which engages both comprehension monitoring and retrieval practice
+    in a single move.
+- type: key-claim
+  title: Key claim about Question Generation Strategy
+  body: The Question Generation Strategy outperforms passive reading because question
+    construction requires the learner to identify what is important and what is unclear,
+    two judgments that re-reading systematically defers and that are precisely the
+    levers of metacognitive accuracy.
+- type: warning
+  title: Common pitfall regarding Question Generation Strategy
+  body: The Question Generation Strategy produces little benefit when the questions
+    generated are uniformly factual; the strategy's transfer-relevant gains come from
+    inferential and integrative questions, and learners must be explicitly coached
+    toward higher-order question types or they default to surface ones.

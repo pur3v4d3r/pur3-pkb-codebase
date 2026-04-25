@@ -1,0 +1,39 @@
+concept: Academic Anxiety
+domain: educational-psychology
+secondary_domains:
+- educational-psychology
+- emotion
+aliases:
+- test anxiety
+- math anxiety
+broader:
+- academic-emotions
+related:
+- working-memory-capacity
+- cognitive-load-theory
+- self-worth-theory
+- attentional-control-theory
+prerequisites:
+- academic-emotions
+confidence: high
+callouts:
+- type: definition
+  title: Academic Anxiety
+  body: Academic Anxiety is the family of anxiety responses triggered by evaluative
+    academic situations — including test anxiety, math anxiety, and writing anxiety
+    — and is characterized by intrusive task-irrelevant thoughts, physiological arousal,
+    and the consumption of working-memory resources that would otherwise be available
+    for the academic task.
+- type: key-claim
+  title: Key claim about Academic Anxiety
+  body: 'Academic Anxiety degrades performance primarily through working-memory hijack
+    rather than through skill deficit: anxious learners often possess the relevant
+    skill but cannot deploy it under evaluative load because the worry stream occupies
+    the very capacity the task requires, which is why interventions that off-load
+    worry (e.g., expressive writing) produce immediate performance gains.'
+- type: warning
+  title: Common pitfall regarding Academic Anxiety
+  body: 'Academic Anxiety is often framed as a motivational deficit ("they don''t
+    care enough to perform"), which inverts the empirical pattern: high-anxiety learners
+    typically care intensely, and prescribing additional pressure as a remedy reliably
+    worsens both the anxiety and the performance it impairs.'

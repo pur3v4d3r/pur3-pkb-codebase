@@ -1,0 +1,38 @@
+concept: Metacognitive Accuracy
+domain: cognitive-science
+secondary_domains:
+- metacognition
+- decision-making
+aliases:
+- metacognitive calibration accuracy
+- monitoring accuracy
+broader:
+- metacognitive-calibration
+related:
+- calibration
+- judgment-of-learning
+- retrospective-confidence-judgment
+- illusion-of-knowing
+prerequisites:
+- metacognitive-monitoring
+confidence: high
+callouts:
+- type: definition
+  title: Metacognitive Accuracy
+  body: Metacognitive Accuracy is the degree of correspondence between a person's
+    metacognitive judgment about their cognition (e.g., a confidence rating, a judgment
+    of learning) and the actual state being judged (e.g., the probability of correct
+    retrieval), and is operationalized through measures such as calibration curves,
+    Goodman-Kruskal gamma, and meta-d'.
+- type: key-claim
+  title: Key claim about Metacognitive Accuracy
+  body: 'Metacognitive Accuracy is a partially dissociable cognitive capacity from
+    first-order ability: two people with the same task accuracy can differ substantially
+    in how well their confidence tracks their accuracy, which means calibration is
+    a trainable target rather than a byproduct of competence.'
+- type: warning
+  title: Common pitfall regarding Metacognitive Accuracy
+  body: Metacognitive Accuracy aggregated to a single number conceals the more diagnostic
+    distinction between resolution (the discriminative power of confidence) and bias
+    (systematic over- or under-confidence); a single calibration metric can hide the
+    fact that a learner is well-resolved but biased, or unbiased but unresolved.

@@ -1,0 +1,39 @@
+concept: Simulation-Based Learning
+domain: instructional-design
+secondary_domains:
+- medical-education
+- training-design
+aliases:
+- SBL
+- simulation training
+broader:
+- instructional-design
+related:
+- deliberate-practice
+- formative-assessment
+- fidelity
+- debriefing
+prerequisites:
+- deliberate-practice
+confidence: high
+callouts:
+- type: definition
+  title: Simulation-Based Learning
+  body: Simulation-Based Learning is the use of immersive recreations of authentic
+    task environments — physical, virtual, or hybrid — combined with structured debriefing,
+    to allow learners to practice complex performances under conditions in which errors
+    are recoverable and the cost of failure is borne by the simulation rather than
+    by real stakeholders.
+- type: key-claim
+  title: Key claim about Simulation-Based Learning
+  body: 'Simulation-Based Learning derives its central educational value from the
+    debriefing, not from the simulation itself: meta-analyses consistently find that
+    simulation without structured debriefing produces only modest gains, while simulation
+    paired with high-quality debriefing produces among the largest effect sizes in
+    the professional-education literature.'
+- type: warning
+  title: Common pitfall regarding Simulation-Based Learning
+  body: Simulation-Based Learning programs that invest heavily in fidelity hardware
+    while skimping on debriefer training reliably under-perform; the costliest component
+    of an effective simulation program is human, not technological, and budget allocations
+    that invert this priority predict program failure.

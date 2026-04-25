@@ -1,0 +1,78 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-01-memory-encoding",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-01-memory-encoding.md",
+    "notes": "Memory & encoding cluster. Seeds the substrate concepts that make\nretrieval-practice / spaced-retrieval / desirable-difficulties notes\nlink into a coherent memory-systems sub-graph."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-01-memory-encoding",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-01-memory-encoding"
+  },
+  "counts": {
+    "parsed": 9,
+    "accepted": 9,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Source Monitoring",
+      "kebab": "source-monitoring",
+      "brief_path": "briefs/2026-04-25-batch-01-memory-encoding/source-monitoring.yaml",
+      "expected_seed_filename": "source-monitoring-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Transactive Memory Systems",
+      "kebab": "transactive-memory-systems",
+      "brief_path": "briefs/2026-04-25-batch-01-memory-encoding/transactive-memory-systems.yaml",
+      "expected_seed_filename": "transactive-memory-systems-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Reconsolidation",
+      "kebab": "reconsolidation",
+      "brief_path": "briefs/2026-04-25-batch-01-memory-encoding/reconsolidation.yaml",
+      "expected_seed_filename": "reconsolidation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Context-Dependent Memory",
+      "kebab": "context-dependent-memory",
+      "brief_path": "briefs/2026-04-25-batch-01-memory-encoding/context-dependent-memory.yaml",
+      "expected_seed_filename": "context-dependent-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Semantic Priming",
+      "kebab": "semantic-priming",
+      "brief_path": "briefs/2026-04-25-batch-01-memory-encoding/semantic-priming.yaml",
+      "expected_seed_filename": "semantic-priming-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Interference Theory",
+      "kebab": "interference-theory",
+      "brief_path": "briefs/2026-04-25-batch-01-memory-encoding/interference-theory.yaml",
+      "expected_seed_filename": "interference-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Sleep and Memory Consolidation",
+      "kebab": "sleep-and-memory-consolidation",
+      "brief_path": "briefs/2026-04-25-batch-01-memory-encoding/sleep-and-memory-consolidation.yaml",
+      "expected_seed_filename": "sleep-and-memory-consolidation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Encoding Variability",
+      "kebab": "encoding-variability",
+      "brief_path": "briefs/2026-04-25-batch-01-memory-encoding/encoding-variability.yaml",
+      "expected_seed_filename": "encoding-variability-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Knowledge Compilation",
+      "kebab": "knowledge-compilation",
+      "brief_path": "briefs/2026-04-25-batch-01-memory-encoding/knowledge-compilation.yaml",
+      "expected_seed_filename": "knowledge-compilation-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

@@ -1,0 +1,35 @@
+concept: Transactive Memory Systems
+domain: cognitive-science
+secondary_domains:
+- social-cognition
+- organizational-psychology
+aliases:
+- TMS
+broader:
+- distributed-cognition
+related:
+- communities-of-practice
+- collective-efficacy
+- externalized-cognitive-architecture
+prerequisites:
+- semantic-memory
+confidence: high
+callouts:
+- type: definition
+  title: Transactive Memory Systems
+  body: Transactive Memory Systems are the shared cognitive division of labor by which
+    members of a group encode, store, and retrieve information by relying on each
+    other as specialized memory stores, with each person remembering who knows what
+    rather than duplicating the knowledge themselves.
+- type: key-claim
+  title: Key claim about Transactive Memory Systems
+  body: Transactive Memory Systems shift the unit of analysis for memory from the
+    individual to the dyad or group, and predict that team performance depends as
+    much on accurate metaknowledge of "who knows what" as on the sum of individual
+    knowledge.
+- type: warning
+  title: Common pitfall regarding Transactive Memory Systems
+  body: Transactive Memory Systems break down catastrophically when key members exit,
+    because the remaining members have not stored the offloaded content — only the
+    index; under-investing in shared documentation in the name of TMS efficiency creates
+    fragile group expertise.

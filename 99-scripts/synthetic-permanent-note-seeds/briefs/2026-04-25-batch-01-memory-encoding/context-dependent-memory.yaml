@@ -1,0 +1,35 @@
+concept: Context-Dependent Memory
+domain: cognitive-science
+secondary_domains:
+- cognitive-psychology
+- memory
+aliases:
+- context-dependent retrieval
+broader:
+- encoding-specificity-principle
+related:
+- state-dependent-memory
+- encoding-variability
+- cue-utilization-framework
+prerequisites:
+- encoding-specificity-principle
+confidence: high
+callouts:
+- type: definition
+  title: Context-Dependent Memory
+  body: Context-Dependent Memory is the empirical phenomenon that retrieval is more
+    successful when the external environmental context at recall matches the context
+    that was present at encoding, because contextual features become retrieval cues
+    bound to the trace.
+- type: key-claim
+  title: Key claim about Context-Dependent Memory
+  body: Context-Dependent Memory implies that the boundary between "what is memorized"
+    and "where it was memorized" is not crisp; the surrounding context is encoded
+    as part of the trace, so manipulating context is a lever on retrieval, not a confound
+    to ignore.
+- type: warning
+  title: Common pitfall regarding Context-Dependent Memory
+  body: Context-Dependent Memory effects are typically modest and easily masked when
+    the to-be-remembered material is intrinsically meaningful or deeply elaborated;
+    treating context-matching as a primary study tactic underweights the much larger
+    gains from elaborative and retrieval-based encoding.

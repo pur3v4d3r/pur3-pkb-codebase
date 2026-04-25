@@ -1,0 +1,38 @@
+concept: Approach-Avoidance Motivation
+domain: motivational-psychology
+secondary_domains:
+- neuroscience
+- personality-psychology
+aliases:
+- approach motivation
+- avoidance motivation
+- BAS-BIS
+broader:
+- motivational-psychology
+related:
+- regulatory-focus-theory
+- performance-approach-goal
+- performance-avoidance-goal
+prerequisites:
+- motivational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Approach-Avoidance Motivation
+  body: Approach-Avoidance Motivation is the broad theoretical distinction — instantiated
+    in Gray's BAS/BIS, Elliot's achievement-goal valences, and Higgins's regulatory
+    foci — between motivational systems that orient action toward desired end-states
+    (approach) and systems that orient action away from undesired end-states (avoidance),
+    each with distinct neural, affective, and behavioral signatures.
+- type: key-claim
+  title: Key claim about Approach-Avoidance Motivation
+  body: 'Approach-Avoidance Motivation is a more fundamental dimension than valence
+    of outcome: a positive outcome can be pursued via approach (move toward gain)
+    or avoidance (move away from non-attainment), and the strategies, costs, and downstream
+    affect differ systematically between the two even when the nominal goal is identical.'
+- type: warning
+  title: Common pitfall regarding Approach-Avoidance Motivation
+  body: Approach-Avoidance Motivation is sometimes mapped onto good vs. bad motivation,
+    but each system has appropriate domains; chronic dominance of either at the expense
+    of the other produces characteristic dysfunctions, and the theoretically interesting
+    question is not which is better but which fits the situation.

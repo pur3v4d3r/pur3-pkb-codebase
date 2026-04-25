@@ -1,0 +1,72 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-07-instructional-design",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-07-instructional-design.md",
+    "notes": "Instructional design cluster. Seeds the named instructional-method\nfamilies (PBL, direct instruction, case-based, simulation, cognitive\napprenticeship, mastery learning, project-based) plus learning-analytics\nas the measurement layer."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-07-instructional-design",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-07-instructional-design"
+  },
+  "counts": {
+    "parsed": 8,
+    "accepted": 8,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Learning Analytics",
+      "kebab": "learning-analytics",
+      "brief_path": "briefs/2026-04-25-batch-07-instructional-design/learning-analytics.yaml",
+      "expected_seed_filename": "learning-analytics-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Problem-Based Learning",
+      "kebab": "problem-based-learning",
+      "brief_path": "briefs/2026-04-25-batch-07-instructional-design/problem-based-learning.yaml",
+      "expected_seed_filename": "problem-based-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Direct Instruction",
+      "kebab": "direct-instruction",
+      "brief_path": "briefs/2026-04-25-batch-07-instructional-design/direct-instruction.yaml",
+      "expected_seed_filename": "direct-instruction-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Case-Based Learning",
+      "kebab": "case-based-learning",
+      "brief_path": "briefs/2026-04-25-batch-07-instructional-design/case-based-learning.yaml",
+      "expected_seed_filename": "case-based-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Simulation-Based Learning",
+      "kebab": "simulation-based-learning",
+      "brief_path": "briefs/2026-04-25-batch-07-instructional-design/simulation-based-learning.yaml",
+      "expected_seed_filename": "simulation-based-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cognitive Apprenticeship",
+      "kebab": "cognitive-apprenticeship",
+      "brief_path": "briefs/2026-04-25-batch-07-instructional-design/cognitive-apprenticeship.yaml",
+      "expected_seed_filename": "cognitive-apprenticeship-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Mastery Learning",
+      "kebab": "mastery-learning",
+      "brief_path": "briefs/2026-04-25-batch-07-instructional-design/mastery-learning.yaml",
+      "expected_seed_filename": "mastery-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Project-Based Learning",
+      "kebab": "project-based-learning",
+      "brief_path": "briefs/2026-04-25-batch-07-instructional-design/project-based-learning.yaml",
+      "expected_seed_filename": "project-based-learning-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

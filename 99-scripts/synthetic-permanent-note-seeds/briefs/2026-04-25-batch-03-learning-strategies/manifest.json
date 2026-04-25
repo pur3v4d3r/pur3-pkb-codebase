@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-03-learning-strategies",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-03-learning-strategies.md",
+    "notes": "Learning-strategies cluster. Seeds the active-strategy techniques\n(mnemonics, concept/mind mapping, summarization, question generation,\nfaded worked examples, observational learning) that complement the\nretrieval-practice / spaced-retrieval / desirable-difficulties layer."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-03-learning-strategies",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-03-learning-strategies"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Mnemonic Strategies",
+      "kebab": "mnemonic-strategies",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/mnemonic-strategies.yaml",
+      "expected_seed_filename": "mnemonic-strategies-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Pre-Testing Effect",
+      "kebab": "pre-testing-effect",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/pre-testing-effect.yaml",
+      "expected_seed_filename": "pre-testing-effect-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Productive Struggle",
+      "kebab": "productive-struggle",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/productive-struggle.yaml",
+      "expected_seed_filename": "productive-struggle-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Observational Learning",
+      "kebab": "observational-learning",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/observational-learning.yaml",
+      "expected_seed_filename": "observational-learning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Worked-Example Variability",
+      "kebab": "worked-example-variability",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/worked-example-variability.yaml",
+      "expected_seed_filename": "worked-example-variability-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Concept Mapping",
+      "kebab": "concept-mapping",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/concept-mapping.yaml",
+      "expected_seed_filename": "concept-mapping-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Mind Mapping",
+      "kebab": "mind-mapping",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/mind-mapping.yaml",
+      "expected_seed_filename": "mind-mapping-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Summarization Strategy",
+      "kebab": "summarization-strategy",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/summarization-strategy.yaml",
+      "expected_seed_filename": "summarization-strategy-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Question Generation Strategy",
+      "kebab": "question-generation-strategy",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/question-generation-strategy.yaml",
+      "expected_seed_filename": "question-generation-strategy-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Faded Worked Examples",
+      "kebab": "faded-worked-examples",
+      "brief_path": "briefs/2026-04-25-batch-03-learning-strategies/faded-worked-examples.yaml",
+      "expected_seed_filename": "faded-worked-examples-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

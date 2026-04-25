@@ -1,0 +1,39 @@
+concept: Base-Rate Neglect
+domain: critical-thinking
+secondary_domains:
+- judgment
+- heuristics-and-biases
+aliases:
+- base-rate fallacy
+- neglect of base rates
+broader:
+- cognitive-bias
+related:
+- bayesian-reasoning
+- representativeness-heuristic
+- probabilistic-thinking
+- prosecutor-fallacy
+prerequisites:
+- cognitive-bias
+confidence: high
+callouts:
+- type: definition
+  title: Base-Rate Neglect
+  body: Base-Rate Neglect is the empirical pattern, documented in the heuristics-and-biases
+    literature, in which judges underweight the prior probability (the base rate)
+    of an outcome when individuating information about a specific case is available,
+    producing posterior probability estimates that are dominated by the case-specific
+    information almost regardless of its actual diagnosticity.
+- type: key-claim
+  title: Key claim about Base-Rate Neglect
+  body: 'Base-Rate Neglect is the cleanest empirical demonstration of the dissociation
+    between intuitive judgment and Bayesian normativity: the bias is reliably produced
+    even by participants who, when asked separately, can compute the correct posterior,
+    which shows that the failure is one of spontaneous deployment rather than of underlying
+    capacity.'
+- type: warning
+  title: Common pitfall regarding Base-Rate Neglect
+  body: Base-Rate Neglect is routinely cited as proof of human irrationality, but
+    the bias is sharply moderated when the same problem is presented in natural-frequency
+    rather than probability format; the appropriate inference is about the cognitive-representational
+    format of the problem, not about a stable defect of human reasoning.

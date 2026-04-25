@@ -1,0 +1,36 @@
+concept: Mnemonic Strategies
+domain: learning-science
+secondary_domains:
+- memory
+- cognitive-psychology
+aliases:
+- mnemonic devices
+- mnemonics
+broader:
+- learning-strategies
+related:
+- elaborative-encoding
+- retrieval-structure
+- dual-coding-theory
+prerequisites:
+- encoding-depth
+confidence: high
+callouts:
+- type: definition
+  title: Mnemonic Strategies
+  body: Mnemonic Strategies are deliberate encoding techniques — including the method
+    of loci, peg systems, acronyms, keyword links, and chunking schemes — that impose
+    pre-existing organized structure on otherwise arbitrary material so that the new
+    content inherits the retrieval routes of the structure.
+- type: key-claim
+  title: Key claim about Mnemonic Strategies
+  body: Mnemonic Strategies work not because they make material easier but because
+    they substitute organized retrieval cues for absent ones, which is why their effects
+    scale with how much native structure the target material lacks rather than with
+    how clever the mnemonic feels.
+- type: warning
+  title: Common pitfall regarding Mnemonic Strategies
+  body: Mnemonic Strategies excel at preserved-form recall (lists, sequences, vocabulary)
+    but transfer poorly to conceptual flexibility; relying on mnemonics for material
+    whose value depends on flexible reasoning produces high recall accuracy alongside
+    low understanding.

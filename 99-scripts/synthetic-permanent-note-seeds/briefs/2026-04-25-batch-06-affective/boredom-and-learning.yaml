@@ -1,0 +1,39 @@
+concept: Boredom and Learning
+domain: educational-psychology
+secondary_domains:
+- academic-emotions
+- educational-psychology
+aliases:
+- academic boredom
+broader:
+- academic-emotions
+related:
+- mind-wandering
+- situational-interest
+- the-control-value-theory-of-achievement-emotions
+- flow
+prerequisites:
+- academic-emotions
+confidence: high
+callouts:
+- type: definition
+  title: Boredom and Learning
+  body: Boredom and Learning denotes the body of educational-psychology research on
+    academic boredom — operationalized in Pekrun's control-value theory as the achievement
+    emotion arising when the activity has neither high subjective control nor high
+    subjective value — and on its bidirectional relation with attention, mind-wandering,
+    and learning outcomes.
+- type: key-claim
+  title: Key claim about Boredom and Learning
+  body: 'Boredom and Learning research overturns the folk view that boredom is a benign
+    byproduct of repetitive tasks: boredom is empirically associated with shallow
+    processing, increased mind-wandering, and lower long-run motivation, and it functions
+    as a signal that the value-control structure of the activity is misaligned for
+    the learner.'
+- type: warning
+  title: Common pitfall regarding Boredom and Learning
+  body: Boredom and Learning interventions that target only the surface of an activity
+    — adding novelty or entertainment — often fail because they leave the underlying
+    control-value structure intact; the diagnostic question is whether the learner
+    sees the activity as both within their reach and personally meaningful, and surface
+    enrichment without addressing both dimensions has limited effect.

@@ -1,0 +1,38 @@
+concept: Problem-Based Learning
+domain: instructional-design
+secondary_domains:
+- medical-education
+- instructional-method
+aliases:
+- PBL
+broader:
+- inquiry-based-learning
+related:
+- case-based-learning
+- project-based-learning
+- productive-failure
+- the-zone-of-proximal-development
+prerequisites:
+- inquiry-based-learning
+confidence: high
+callouts:
+- type: definition
+  title: Problem-Based Learning
+  body: Problem-Based Learning is the instructional method in which student groups,
+    guided by a tutor, work on ill-structured authentic problems as the starting point
+    for learning — identifying what they know, what they need to know, and how to
+    find it — and acquire content knowledge in the service of solving the problem
+    rather than as a prelude to it.
+- type: key-claim
+  title: Key claim about Problem-Based Learning
+  body: Problem-Based Learning inverts the conventional content-then-application sequence
+    and treats the problem itself as the curriculum-organizing unit, which makes the
+    resulting knowledge organized around problem schemas (the form in which it will
+    be retrieved in practice) rather than around topical hierarchies.
+- type: warning
+  title: Common pitfall regarding Problem-Based Learning
+  body: Problem-Based Learning is reliably effective for clinical-reasoning and process-skill
+    outcomes but produces mixed results on factual-knowledge measures, especially
+    without expert tutor support; treating PBL as a universal substitute for direct
+    instruction over-generalizes the medical-education evidence to settings where
+    the supporting structures do not transfer.

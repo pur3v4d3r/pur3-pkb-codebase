@@ -1,0 +1,40 @@
+concept: Cognitive Ease
+domain: cognitive-science
+secondary_domains:
+- metacognition
+- dual-process-theory
+aliases:
+- processing fluency
+- ease of processing
+broader:
+- processing-fluency
+related:
+- fluency-illusion
+- illusion-of-knowing
+- system-1
+- dual-process-theory
+- cognitive-miserliness
+prerequisites:
+- dual-process-theory
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Ease
+  body: Cognitive Ease is the subjective sense that mental processing is unfolding
+    smoothly, fluently, and without strain, and is the affective signal — popularized
+    in Kahneman's writing — that the mind uses as a default cue for truth, familiarity,
+    liking, and confidence in the absence of more diagnostic information.
+- type: key-claim
+  title: Key claim about Cognitive Ease
+  body: 'Cognitive Ease is the central mechanism by which System 1 substitutes a fluency
+    judgment for a substantive judgment of accuracy: the felt smoothness of processing
+    systematically biases the mind toward accepting fluent claims as true, which is
+    why repeated exposure to a claim increases belief in it independent of evidence
+    (the illusory-truth effect).'
+- type: warning
+  title: Common pitfall regarding Cognitive Ease
+  body: Cognitive Ease cannot be reliably countered by knowing about it; the cue is
+    generated automatically and the warning lives in System 2, so corrective interventions
+    must operate at the structural level (e.g., altering the surface fluency of presented
+    information) rather than relying on the deliberate vigilance the situation systematically
+    dis-affords.

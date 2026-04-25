@@ -1,0 +1,38 @@
+concept: Retrospective Confidence Judgment
+domain: cognitive-science
+secondary_domains:
+- metacognition
+- decision-making
+aliases:
+- RCJ
+- post-decisional confidence
+broader:
+- metacognitive-judgments
+related:
+- judgment-of-learning
+- calibration
+- hypercorrection-effect
+- overconfidence-bias
+prerequisites:
+- metacognitive-judgments
+confidence: high
+callouts:
+- type: definition
+  title: Retrospective Confidence Judgment
+  body: A Retrospective Confidence Judgment is a metacognitive rating made after producing
+    an answer or completing a task, indexing how certain the actor is that the answer
+    is correct, and is the workhorse measure for studies of calibration accuracy and
+    overconfidence in decision-making and memory research.
+- type: key-claim
+  title: Key claim about Retrospective Confidence Judgment
+  body: 'The Retrospective Confidence Judgment is dissociable from accuracy: people
+    can be highly accurate while poorly calibrated, or moderately inaccurate while
+    well calibrated, which is why confidence and accuracy must be measured separately
+    rather than treated as proxies for each other.'
+- type: warning
+  title: Common pitfall regarding Retrospective Confidence Judgment
+  body: Retrospective Confidence Judgment data are routinely misread as direct windows
+    into the underlying memory or decision strength; the judgments are themselves
+    inferential constructions that depend on the cues available at the moment of judging,
+    which is why changing post-hoc cues can shift confidence without changing the
+    underlying response.

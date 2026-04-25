@@ -1,0 +1,38 @@
+concept: Situational Interest
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- motivation
+aliases:
+- triggered situational interest
+- maintained situational interest
+broader:
+- interest
+related:
+- individual-interest
+- curiosity
+- hidi-renninger-model
+- intrinsic-motivation
+prerequisites:
+- motivational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Situational Interest
+  body: Situational Interest is the temporary, environment-triggered form of interest
+    in Hidi and Renninger's four-phase model — typically catalyzed by novelty, surprise,
+    complexity, or vividness in a learning task — and is distinguished from individual
+    interest by its dependence on features of the immediate context rather than on
+    the learner's stable dispositions.
+- type: key-claim
+  title: Key claim about Situational Interest
+  body: 'Situational Interest is the developmental gateway to enduring individual
+    interest: stable interests originate as triggered situational interest that, with
+    sustained engagement and felt competence, transitions into the maintained and
+    then well-developed phases of the Hidi-Renninger sequence.'
+- type: warning
+  title: Common pitfall regarding Situational Interest
+  body: Designing instruction around Situational Interest at the trigger level alone
+    produces engagement that does not survive the removal of the triggering features;
+    without scaffolding the transition to maintained situational interest, the gains
+    evaporate at the end of the activity.

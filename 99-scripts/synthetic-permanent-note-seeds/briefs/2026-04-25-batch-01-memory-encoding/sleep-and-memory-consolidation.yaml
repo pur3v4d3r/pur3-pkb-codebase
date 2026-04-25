@@ -1,0 +1,35 @@
+concept: Sleep and Memory Consolidation
+domain: cognitive-science
+secondary_domains:
+- neuroscience
+- memory
+aliases:
+- sleep-dependent memory consolidation
+broader:
+- memory-consolidation
+related:
+- reconsolidation
+- slow-wave-sleep
+- rem-sleep
+prerequisites:
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Sleep and Memory Consolidation
+  body: Sleep and Memory Consolidation refers to the body of evidence that sleep —
+    particularly slow-wave sleep for declarative material and REM sleep for procedural
+    and emotional material — is an active processing window during which recently
+    encoded traces are stabilized, integrated with prior knowledge, and selectively
+    strengthened.
+- type: key-claim
+  title: Key claim about Sleep and Memory Consolidation
+  body: Sleep and Memory Consolidation reframes sleep from a passive recovery state
+    into an obligatory cognitive operation, implying that the schedule of sleep around
+    learning is a first-class variable of learning outcomes, not a hygiene factor.
+- type: warning
+  title: Common pitfall regarding Sleep and Memory Consolidation
+  body: Sleep and Memory Consolidation effects are robust at the population level
+    but are routinely overstated as "sleep makes you smarter"; the gains are specific,
+    modest, and depend on adequate prior encoding — sleep cannot consolidate what
+    was never properly learned.

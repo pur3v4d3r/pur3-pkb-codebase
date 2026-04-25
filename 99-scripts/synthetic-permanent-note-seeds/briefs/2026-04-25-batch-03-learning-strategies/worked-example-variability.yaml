@@ -1,0 +1,37 @@
+concept: Worked-Example Variability
+domain: learning-science
+secondary_domains:
+- cognitive-load-theory
+- instructional-design
+aliases:
+- variability of worked examples
+broader:
+- worked-examples
+related:
+- the-worked-example-effect
+- far-transfer
+- schema-construction
+- cognitive-load-theory
+prerequisites:
+- worked-examples
+confidence: high
+callouts:
+- type: definition
+  title: Worked-Example Variability
+  body: Worked-Example Variability is the cognitive-load-theory principle that worked
+    examples drawn from diverse surface contexts but sharing the same underlying solution
+    structure produce stronger and more transferable schemata than the same number
+    of examples drawn from a narrow context, because the variation forces abstraction
+    over surface features.
+- type: key-claim
+  title: Key claim about Worked-Example Variability
+  body: 'Worked-Example Variability supplies the transfer mechanism that pure example-multiplication
+    lacks: the schema constructed across varied examples is necessarily framed in
+    terms of the deep structure they share, which is precisely the representation
+    transfer requires.'
+- type: warning
+  title: Common pitfall regarding Worked-Example Variability
+  body: Worked-Example Variability incurs additional intrinsic load and is counter-productive
+    for novices whose working memory cannot yet hold the to-be-abstracted invariant;
+    the principle is reliably beneficial only once a baseline schema is in place to
+    anchor the variation.

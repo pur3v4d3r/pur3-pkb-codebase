@@ -1,0 +1,34 @@
+concept: Fleeting Notes
+domain: pkm
+secondary_domains:
+- zettelkasten
+- notetaking
+aliases:
+- scratch notes
+- capture notes
+broader:
+- zettelkasten
+related:
+- literature-notes
+- evergreen-notes
+- atomic-notes
+prerequisites:
+- zettelkasten
+confidence: high
+callouts:
+- type: definition
+  title: Fleeting Notes
+  body: Fleeting Notes are the first layer of the Zettelkasten workflow — short, low-friction
+    captures of in-the-moment thoughts, observations, or quotes — that are deliberately
+    discardable and serve only as raw material to be processed within a short window
+    into Literature or Permanent notes.
+- type: key-claim
+  title: Key claim about Fleeting Notes
+  body: Fleeting Notes derive their value from being processed quickly and then discarded;
+    their permanence is a workflow anti-pattern, because an inbox of unprocessed Fleeting
+    Notes silently degrades the trust the writer places in capture itself.
+- type: warning
+  title: Common pitfall regarding Fleeting Notes
+  body: The most common Fleeting Notes failure is treating them as durable storage
+    — using a "captures" folder as a perpetual inbox — which inverts the design and
+    recreates the read-it-later graveyard the layer was meant to prevent.

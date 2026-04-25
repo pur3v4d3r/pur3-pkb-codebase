@@ -1,0 +1,35 @@
+concept: Concept Mapping
+domain: learning-science
+secondary_domains:
+- knowledge-representation
+- instructional-design
+aliases:
+- Novakian concept mapping
+broader:
+- knowledge-graph
+related:
+- mind-mapping
+- schema-construction
+- meaningful-learning-theory
+prerequisites:
+- meaningful-learning-theory
+confidence: high
+callouts:
+- type: definition
+  title: Concept Mapping
+  body: Concept Mapping is Joseph Novak's externalization technique — grounded in
+    Ausubel's meaningful-learning theory — in which the learner draws concept nodes
+    connected by labeled propositional edges, producing a hierarchical graph that
+    makes the learner's current understanding visible and revisable.
+- type: key-claim
+  title: Key claim about Concept Mapping
+  body: 'Concept Mapping derives its learning value not from the resulting diagram
+    but from the production process: the requirement to assign explicit labels to
+    every link forces the learner to commit to an interpretation of each relationship,
+    exposing implicit confusions that prose hides.'
+- type: warning
+  title: Common pitfall regarding Concept Mapping
+  body: Concept Mapping is often degraded into mind-mapping-with-extra-steps when
+    learners draw nodes and edges without labeling the relations; the unlabeled graph
+    forfeits the propositional discipline that distinguishes concept maps from generic
+    visual organizers.

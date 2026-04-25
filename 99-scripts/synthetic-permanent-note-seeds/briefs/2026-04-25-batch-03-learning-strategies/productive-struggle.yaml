@@ -1,0 +1,34 @@
+concept: Productive Struggle
+domain: learning-science
+secondary_domains:
+- instructional-design
+- mathematics-education
+broader:
+- desirable-difficulties
+related:
+- productive-failure
+- scaffolding
+- the-zone-of-proximal-development
+- cognitive-load-theory
+prerequisites:
+- desirable-difficulties
+confidence: high
+callouts:
+- type: definition
+  title: Productive Struggle
+  body: Productive Struggle is the instructional design principle — anchored in mathematics-education
+    research — that learners should work on problems that are within reach but require
+    effortful, partly-unsuccessful problem-solving before instruction is given, because
+    the struggle itself prepares the cognitive ground for the subsequent explanation.
+- type: key-claim
+  title: Key claim about Productive Struggle
+  body: Productive Struggle reframes "the explanation" as a complement to prior effortful
+    failure rather than as a substitute for it, which inverts the default lecture-then-practice
+    sequence and predicts that pre-instruction struggle produces deeper schemata than
+    post-instruction practice alone.
+- type: warning
+  title: Common pitfall regarding Productive Struggle
+  body: Productive Struggle becomes counter-productive when the gap between learner
+    capacity and task demand is too large; without scaffolding it collapses into unproductive
+    frustration, and the principle's effectiveness depends on a careful read of the
+    learner's current zone of proximal development.

@@ -1,0 +1,30 @@
+concept: Reconsolidation
+domain: cognitive-science
+secondary_domains:
+- neuroscience
+- memory
+broader:
+- memory-consolidation
+related:
+- reconstructive-memory
+- sleep-and-memory-consolidation
+prerequisites:
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Reconsolidation
+  body: Reconsolidation is the post-retrieval process by which a previously consolidated
+    memory trace re-enters a labile, modifiable state and must be re-stabilized, providing
+    a window in which the trace can be updated, strengthened, or weakened.
+- type: key-claim
+  title: Key claim about Reconsolidation
+  body: Reconsolidation reframes long-term memory as periodically rewritable rather
+    than permanently fixed once consolidated, which means every act of remembering
+    is also an act of editing the trace being remembered.
+- type: warning
+  title: Common pitfall regarding Reconsolidation
+  body: The Reconsolidation window is a real but fragile mechanism, not a license
+    for the popular claim that "all memories can be rewritten on demand"; the conditions
+    that open the window are narrow and overgeneralizing the finding distorts both
+    the science and the therapeutic promises built on it.

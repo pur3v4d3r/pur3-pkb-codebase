@@ -1,0 +1,37 @@
+concept: Self-Worth Theory
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- achievement-motivation
+aliases:
+- self-worth motive
+broader:
+- achievement-goal-theory
+related:
+- self-handicapping
+- performance-avoidance-goal
+- fixed-mindset
+- ego-involvement
+prerequisites:
+- achievement-goal-theory
+confidence: high
+callouts:
+- type: definition
+  title: Self-Worth Theory
+  body: Self-Worth Theory is Covington's account of academic motivation, holding that
+    students are primarily motivated to maintain a sense of personal worth, that worth
+    is widely equated with ability, and that this equation makes effort a double-edged
+    sword — visible effort that produces failure becomes evidence of low ability,
+    motivating self-protective avoidance strategies.
+- type: key-claim
+  title: Key claim about Self-Worth Theory
+  body: 'Self-Worth Theory predicts the apparently paradoxical pattern in which capable
+    students under-prepare or self-handicap before high-stakes evaluations: when failure-with-effort
+    threatens the worth-equals-ability identity, withdrawing effort preserves the
+    attribution of failure to circumstance rather than to lack of ability.'
+- type: warning
+  title: Common pitfall regarding Self-Worth Theory
+  body: Self-Worth Theory is sometimes read as endorsing effort-avoidance as rational;
+    the theory describes a defense mechanism, not a strategy worth recommending, and
+    interventions that detach worth from ability — by reframing ability as malleable
+    — undercut the threat that makes the defense feel necessary.

@@ -1,0 +1,38 @@
+concept: Curiosity
+domain: educational-psychology
+secondary_domains:
+- motivation
+- cognitive-psychology
+aliases:
+- epistemic curiosity
+- perceptual curiosity
+broader:
+- intrinsic-motivation
+related:
+- situational-interest
+- individual-interest
+- the-information-gap-hypothesis
+- cognitive-disequilibrium
+prerequisites:
+- motivational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Curiosity
+  body: Curiosity is the motivational state that orients attention and effort toward
+    acquiring information for its own sake, most usefully decomposed into Berlyne's
+    perceptual variant (driven by novelty in the immediate environment) and the epistemic
+    variant (driven by awareness of a gap between what one knows and what one would
+    like to know).
+- type: key-claim
+  title: Key claim about Curiosity
+  body: Curiosity is most powerfully evoked by manageable knowledge gaps — Loewenstein's
+    information-gap hypothesis predicts an inverted-U over the size of the gap — which
+    is why instructional design that explicitly surfaces the learner's incomplete
+    prior model outperforms designs that present complete information at the outset.
+- type: warning
+  title: Common pitfall regarding Curiosity
+  body: Curiosity is sometimes treated as a stable trait to be either present or absent
+    in a learner; the empirical pattern is that curiosity is highly state-dependent
+    and gap-driven, and the appropriate intervention question is not whether the learner
+    is curious but whether the situation has surfaced a gap they can hope to close.

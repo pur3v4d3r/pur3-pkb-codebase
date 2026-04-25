@@ -1,0 +1,32 @@
+concept: Encoding Variability
+domain: cognitive-science
+secondary_domains:
+- cognitive-psychology
+- learning-science
+broader:
+- encoding-specificity-principle
+related:
+- context-dependent-memory
+- interleaving
+- desirable-difficulties
+prerequisites:
+- encoding-specificity-principle
+confidence: high
+callouts:
+- type: definition
+  title: Encoding Variability
+  body: Encoding Variability is the principle that varying the contexts, modalities,
+    and cue structures under which a single piece of material is studied produces
+    a richer set of retrieval routes to that material, improving long-term flexibility
+    of access at the cost of slower initial gains.
+- type: key-claim
+  title: Key claim about Encoding Variability
+  body: 'Encoding Variability supplies the theoretical underpinning of interleaving
+    and varied-practice schedules: the cost of changing context during study is paid
+    in encoding effort but recovered as a gain in transfer-appropriate retrieval.'
+- type: warning
+  title: Common pitfall regarding Encoding Variability
+  body: Encoding Variability is sometimes invoked to justify any kind of variation,
+    but the variability must remain meaningfully tied to the target concept; introducing
+    irrelevant surface variation increases extraneous load without producing the multiple-route
+    encoding that the principle predicts.

@@ -1,5 +1,5 @@
 {
-  "cssTheme": "V4D3R Crimson",
+  "cssTheme": "V4D3R Red",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -11,7 +11,8 @@
     "09-dataview",
     "block-quote-gradient",
     "callout-minimal-outline",
-    "pur3v4d3r-ultimate-callout-system"
+    "pur3v4d3r-ultimate-callout-system",
+    "callout-base"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",

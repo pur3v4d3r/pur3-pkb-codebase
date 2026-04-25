@@ -1,0 +1,40 @@
+concept: Self-Concept
+domain: educational-psychology
+secondary_domains:
+- social-psychology
+- developmental-psychology
+aliases:
+- self-schema
+- self-knowledge
+broader:
+- self-and-identity
+related:
+- academic-identity
+- self-efficacy
+- possible-selves
+- self-determination-theory
+prerequisites:
+- educational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Self-Concept
+  body: Self-Concept is the cognitive representation of who one is — the organized
+    set of self-relevant beliefs, attributes, identities, and roles — distinguished
+    from self-esteem (the evaluative dimension) and from self-efficacy (the situation-specific
+    competence judgment), and is most usefully modeled as a hierarchically organized
+    network of domain-specific self-schemas.
+- type: key-claim
+  title: Key claim about Self-Concept
+  body: 'Self-Concept derives its predictive power for behavior not from being an
+    undifferentiated global construct but from its domain-specific structure: academic
+    self-concept predicts academic outcomes, athletic self-concept predicts athletic
+    outcomes, and global self-esteem reliably under-predicts both relative to the
+    domain-matched constructs.'
+- type: warning
+  title: Common pitfall regarding Self-Concept
+  body: Self-Concept research is routinely conflated with self-esteem research in
+    popular writing, but the constructs have different antecedents and different consequences;
+    interventions that successfully raise global self-esteem do not reliably alter
+    domain-specific self-concept, and using one literature to support claims drawn
+    from the other reproduces a long-standing methodological confusion.

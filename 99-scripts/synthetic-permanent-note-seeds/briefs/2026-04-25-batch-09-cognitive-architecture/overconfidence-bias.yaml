@@ -1,0 +1,40 @@
+concept: Overconfidence Bias
+domain: cognitive-science
+secondary_domains:
+- metacognition
+- decision-making
+aliases:
+- overconfidence effect
+- miscalibration
+broader:
+- cognitive-bias
+related:
+- calibration
+- retrospective-confidence-judgment
+- dunning-kruger-effect
+- illusion-of-knowing
+prerequisites:
+- metacognitive-calibration
+confidence: high
+callouts:
+- type: definition
+  title: Overconfidence Bias
+  body: Overconfidence Bias is the empirical pattern in which subjective probability
+    judgments systematically exceed objective accuracy — most cleanly demonstrated
+    by calibration curves in which 90%-confidence answers are correct substantially
+    less than 90% of the time — and decomposes into overprecision, overestimation,
+    and overplacement variants that have distinct empirical signatures.
+- type: key-claim
+  title: Key claim about Overconfidence Bias
+  body: 'Overconfidence Bias is not a uniform deficit of self-knowledge: the three
+    variants dissociate empirically (a person can be overprecise but well-calibrated
+    on absolute accuracy), and the most consequential variant for decision-making
+    is overprecision, the systematic narrowness of subjective probability distributions
+    relative to the actual error distribution of one''s estimates.'
+- type: warning
+  title: Common pitfall regarding Overconfidence Bias
+  body: Overconfidence Bias is sometimes invoked as a universal human flaw, but the
+    bias is moderated by domain familiarity, feedback frequency, and question format;
+    the diagnostic question is not whether the person is overconfident but whether
+    the conditions that produce calibration (rapid, frequent, outcome-coupled feedback)
+    are present in the domain at hand.

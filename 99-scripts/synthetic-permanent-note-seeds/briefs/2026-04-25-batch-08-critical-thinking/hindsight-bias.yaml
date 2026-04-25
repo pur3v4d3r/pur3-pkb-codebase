@@ -1,0 +1,39 @@
+concept: Hindsight Bias
+domain: critical-thinking
+secondary_domains:
+- decision-making
+- judgment
+aliases:
+- knew-it-all-along effect
+- creeping determinism
+broader:
+- cognitive-bias
+related:
+- overconfidence-bias
+- source-monitoring
+- confirmation-bias
+- narrative-fallacy
+prerequisites:
+- cognitive-bias
+confidence: high
+callouts:
+- type: definition
+  title: Hindsight Bias
+  body: Hindsight Bias is the tendency, after an outcome is known, to overestimate
+    the probability one would have assigned to that outcome in advance — to feel that
+    the outcome was foreseeable when in fact it was not — and to misremember one's
+    own prior predictions as having been more confident in the realized outcome than
+    they actually were.
+- type: key-claim
+  title: Key claim about Hindsight Bias
+  body: Hindsight Bias is not a memory failure for the prior prediction alone; it
+    is a systematic reconstruction in which knowledge of the outcome reshapes the
+    perceived prior probability, which means it cannot be debiased by trying harder
+    to remember and instead requires structural debiasing such as recorded prior probabilities.
+- type: warning
+  title: Common pitfall regarding Hindsight Bias
+  body: 'Hindsight Bias is routinely treated as a curiosity rather than a serious
+    epistemic threat, but it corrupts the entire post-mortem-and-lesson-learned genre:
+    post-event reviews uncorrected for hindsight systematically over-blame predictable
+    failures and under-credit predictable successes, distorting both accountability
+    and future planning.'

@@ -1,0 +1,38 @@
+concept: Self-Concordance Model
+domain: motivational-psychology
+secondary_domains:
+- self-determination-theory
+- goal-pursuit
+aliases:
+- self-concordance
+broader:
+- self-determination-theory
+related:
+- autonomous-motivation
+- internalization-continuum
+- goal-contents-theory
+- well-being
+prerequisites:
+- self-determination-theory
+confidence: high
+callouts:
+- type: definition
+  title: Self-Concordance Model
+  body: The Self-Concordance Model is Sheldon's extension of self-determination theory
+    to goal pursuit, holding that goals pursued for autonomous reasons (intrinsic
+    interest or identified value) yield more sustained effort, greater attainment,
+    and more well-being benefit than equivalent goals pursued for controlled reasons
+    (external pressure or guilt).
+- type: key-claim
+  title: Key claim about Self-Concordance Model
+  body: The Self-Concordance Model identifies a positive feedback loop in which autonomous
+    goals produce attainment, attainment produces need-satisfaction, and need-satisfaction
+    reinforces autonomous goal-setting — an upward spiral that explains why two people
+    pursuing the same nominal goal can show divergent trajectories of persistence
+    and welfare.
+- type: warning
+  title: Common pitfall regarding Self-Concordance Model
+  body: The Self-Concordance Model does not imply that controlled motivation cannot
+    produce attainment in the short term; the model's distinctive prediction is about
+    sustained pursuit and well-being downstream of attainment, not about peak effort
+    in any single episode.

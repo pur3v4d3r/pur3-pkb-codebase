@@ -1,0 +1,40 @@
+concept: Emotional Intelligence
+domain: educational-psychology
+secondary_domains:
+- personality-psychology
+- social-cognition
+aliases:
+- EI
+- EQ
+broader:
+- individual-differences
+related:
+- emotional-regulation
+- self-awareness
+- empathy
+- social-cognition
+prerequisites:
+- emotional-regulation
+confidence: high
+callouts:
+- type: definition
+  title: Emotional Intelligence
+  body: Emotional Intelligence is the cluster of constructs — most clearly articulated
+    in Mayer and Salovey's ability model — that comprise the perception, use, understanding,
+    and regulation of emotion in oneself and others, and that are conceptualized as
+    a set of measurable abilities distinct from general cognitive ability and from
+    personality.
+- type: key-claim
+  title: Key claim about Emotional Intelligence
+  body: Emotional Intelligence as an ability construct shows incremental predictive
+    validity over general intelligence and personality for outcomes that depend on
+    emotion-laden judgment (negotiation, leadership, clinical performance), which
+    is the empirical core that survives once the more popular trait and mixed models
+    are bracketed.
+- type: warning
+  title: Common pitfall regarding Emotional Intelligence
+  body: Emotional Intelligence in popular usage routinely conflates the ability model
+    with mixed-model self-report instruments that overlap heavily with personality;
+    the practical and research literatures behave very differently depending on which
+    instrument is used, and citing one body of evidence as if it supported the other
+    produces persistent confusion about what EI actually predicts.

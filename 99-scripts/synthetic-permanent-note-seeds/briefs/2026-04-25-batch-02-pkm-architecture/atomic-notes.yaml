@@ -1,0 +1,35 @@
+concept: Atomic Notes
+domain: pkm
+secondary_domains:
+- zettelkasten
+- notetaking
+aliases:
+- atomic note
+- zettel
+broader:
+- zettelkasten
+related:
+- evergreen-notes
+- maps-of-content
+- the-link-supremacy-thesis
+prerequisites:
+- zettelkasten
+confidence: high
+callouts:
+- type: definition
+  title: Atomic Notes
+  body: Atomic Notes are notes that capture exactly one self-contained idea per file,
+    named so that the note's title itself is a usable claim or concept, which makes
+    each note independently linkable and reusable across multiple contexts without
+    requiring the surrounding context that produced it.
+- type: key-claim
+  title: Key claim about Atomic Notes
+  body: 'Atomic Notes are what make a notes network behave like a knowledge graph
+    rather than a document store: only when each idea has its own addressable identity
+    can it become a node that other ideas connect to, which is the precondition for
+    emergent structure.'
+- type: warning
+  title: Common pitfall regarding Atomic Notes
+  body: Pursuing atomicity as a length target — splitting any note over N words —
+    misses the principle, which is conceptual unity; a 1,500-word note about one idea
+    is more atomic than three 200-word notes that fragment a single argument.

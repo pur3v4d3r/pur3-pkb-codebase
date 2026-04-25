@@ -1,0 +1,54 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-09-cognitive-architecture",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-09-cognitive-architecture.md",
+    "notes": "Cognitive architecture cluster. Seeds the executive-function /\nattentional-control / fluency-cue / overconfidence concepts that\ncomplement the working-memory / cognitive-load / dual-process notes\nalready in vault."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-09-cognitive-architecture",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-09-cognitive-architecture"
+  },
+  "counts": {
+    "parsed": 5,
+    "accepted": 5,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Mind Wandering",
+      "kebab": "mind-wandering",
+      "brief_path": "briefs/2026-04-25-batch-09-cognitive-architecture/mind-wandering.yaml",
+      "expected_seed_filename": "mind-wandering-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Neuroplasticity",
+      "kebab": "neuroplasticity",
+      "brief_path": "briefs/2026-04-25-batch-09-cognitive-architecture/neuroplasticity.yaml",
+      "expected_seed_filename": "neuroplasticity-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Inhibitory Control",
+      "kebab": "inhibitory-control",
+      "brief_path": "briefs/2026-04-25-batch-09-cognitive-architecture/inhibitory-control.yaml",
+      "expected_seed_filename": "inhibitory-control-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cognitive Ease",
+      "kebab": "cognitive-ease",
+      "brief_path": "briefs/2026-04-25-batch-09-cognitive-architecture/cognitive-ease.yaml",
+      "expected_seed_filename": "cognitive-ease-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Overconfidence Bias",
+      "kebab": "overconfidence-bias",
+      "brief_path": "briefs/2026-04-25-batch-09-cognitive-architecture/overconfidence-bias.yaml",
+      "expected_seed_filename": "overconfidence-bias-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

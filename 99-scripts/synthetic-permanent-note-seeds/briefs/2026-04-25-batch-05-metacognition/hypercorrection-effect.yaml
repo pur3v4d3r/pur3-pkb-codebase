@@ -1,0 +1,36 @@
+concept: Hypercorrection Effect
+domain: cognitive-science
+secondary_domains:
+- memory
+- metacognition
+aliases:
+- hypercorrection
+broader:
+- metacognitive-monitoring
+related:
+- retrieval-practice
+- retrospective-confidence-judgment
+- error-correction
+- productive-failure
+prerequisites:
+- metacognitive-monitoring
+confidence: high
+callouts:
+- type: definition
+  title: Hypercorrection Effect
+  body: The Hypercorrection Effect is the empirical finding that errors made with
+    high confidence are more likely to be corrected — and to stay corrected — after
+    feedback than errors made with low confidence, contrary to the intuitive prediction
+    that strongly-held wrong beliefs would be the hardest to dislodge.
+- type: key-claim
+  title: Key claim about Hypercorrection Effect
+  body: The Hypercorrection Effect implies that surprise produced by the gap between
+    expected accuracy and actual accuracy is itself a learning signal, which is why
+    high-confidence errors — where the surprise is largest — produce the deepest re-encoding
+    of the correct answer.
+- type: warning
+  title: Common pitfall regarding Hypercorrection Effect
+  body: The Hypercorrection Effect is sometimes invoked as a license to elicit confident
+    wrong answers in instruction; the effect requires immediate, clear corrective
+    feedback, and the high-confidence-error pattern produces durable misconceptions
+    when the feedback step is omitted or delayed.

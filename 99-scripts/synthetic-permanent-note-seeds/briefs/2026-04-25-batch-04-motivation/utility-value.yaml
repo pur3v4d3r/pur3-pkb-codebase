@@ -1,0 +1,36 @@
+concept: Utility Value
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- expectancy-value
+aliases:
+- perceived utility
+broader:
+- task-value
+related:
+- expectancy-value-theory
+- intrinsic-vs-extrinsic-goal-contents
+- identified-regulation
+prerequisites:
+- expectancy-value-theory
+confidence: high
+callouts:
+- type: definition
+  title: Utility Value
+  body: Utility Value is one of the four task-value components in Eccles's expectancy-value
+    model — alongside intrinsic value, attainment value, and cost — and captures the
+    perceived usefulness of a task for the learner's own future goals, distinct from
+    inherent enjoyment or identity-relevance.
+- type: key-claim
+  title: Key claim about Utility Value
+  body: 'Utility Value interventions are among the most reliably replicated motivational
+    interventions in education: brief writing exercises that prompt students to articulate
+    the personal usefulness of course material produce measurable downstream gains,
+    especially for students with low initial expectancy, by routing the material into
+    the learner''s pre-existing goal structure.'
+- type: warning
+  title: Common pitfall regarding Utility Value
+  body: Utility Value interventions backfire when delivered as direct external persuasion
+    ("here is why this matters to you"); the effect depends on the learner generating
+    their own utility connection, which means scripted utility-arguments imposed from
+    outside reproduce the very pressure they were meant to dissolve.

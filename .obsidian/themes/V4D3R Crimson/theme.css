@@ -491,6 +491,7 @@ CONTRAST VALIDATION RESULTS:
    Bold text gets Imperial Gold color
    ══════════════════════════════════════════════════════════ */
 .theme-dark .markdown-preview-view strong,
+.theme-dark .markdown-reading-view strong,
 .theme-dark .markdown-source-view.mod-cm6 .cm-strong,
 .cm-strong {
   color: rgb(255, 0, 0) !important;  
@@ -498,6 +499,7 @@ CONTRAST VALIDATION RESULTS:
   font-weight: 600 !important;                /* Semi-bold weight */
 }
 .theme-dark .markdown-preview-view em,
+.theme-dark .markdown-reading-view em,
 .theme-dark .markdown-source-view.mod-cm6 .cm-em,
 .cm-em {
   font-style: italic !important;

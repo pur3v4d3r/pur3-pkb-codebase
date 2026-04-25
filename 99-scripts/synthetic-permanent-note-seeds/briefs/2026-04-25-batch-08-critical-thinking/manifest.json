@@ -1,0 +1,78 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-08-critical-thinking",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-08-critical-thinking.md",
+    "notes": "Critical-thinking & reasoning cluster. Seeds the formal-reasoning\nfamilies (Bayesian, IBE, probabilistic, systems, first-principles,\nsecond-order) and the canonical reasoning biases (hindsight, base-rate\nneglect) that the dual-process / heuristics-and-biases notes already\nin vault need as link targets."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-08-critical-thinking",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-08-critical-thinking"
+  },
+  "counts": {
+    "parsed": 9,
+    "accepted": 9,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Hindsight Bias",
+      "kebab": "hindsight-bias",
+      "brief_path": "briefs/2026-04-25-batch-08-critical-thinking/hindsight-bias.yaml",
+      "expected_seed_filename": "hindsight-bias-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Bayesian Reasoning",
+      "kebab": "bayesian-reasoning",
+      "brief_path": "briefs/2026-04-25-batch-08-critical-thinking/bayesian-reasoning.yaml",
+      "expected_seed_filename": "bayesian-reasoning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Thought Experiment",
+      "kebab": "thought-experiment",
+      "brief_path": "briefs/2026-04-25-batch-08-critical-thinking/thought-experiment.yaml",
+      "expected_seed_filename": "thought-experiment-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Probabilistic Thinking",
+      "kebab": "probabilistic-thinking",
+      "brief_path": "briefs/2026-04-25-batch-08-critical-thinking/probabilistic-thinking.yaml",
+      "expected_seed_filename": "probabilistic-thinking-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Inference to the Best Explanation",
+      "kebab": "inference-to-the-best-explanation",
+      "brief_path": "briefs/2026-04-25-batch-08-critical-thinking/inference-to-the-best-explanation.yaml",
+      "expected_seed_filename": "inference-to-the-best-explanation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Systems Thinking",
+      "kebab": "systems-thinking",
+      "brief_path": "briefs/2026-04-25-batch-08-critical-thinking/systems-thinking.yaml",
+      "expected_seed_filename": "systems-thinking-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "First-Principles Thinking",
+      "kebab": "first-principles-thinking",
+      "brief_path": "briefs/2026-04-25-batch-08-critical-thinking/first-principles-thinking.yaml",
+      "expected_seed_filename": "first-principles-thinking-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Second-Order Thinking",
+      "kebab": "second-order-thinking",
+      "brief_path": "briefs/2026-04-25-batch-08-critical-thinking/second-order-thinking.yaml",
+      "expected_seed_filename": "second-order-thinking-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Base-Rate Neglect",
+      "kebab": "base-rate-neglect",
+      "brief_path": "briefs/2026-04-25-batch-08-critical-thinking/base-rate-neglect.yaml",
+      "expected_seed_filename": "base-rate-neglect-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

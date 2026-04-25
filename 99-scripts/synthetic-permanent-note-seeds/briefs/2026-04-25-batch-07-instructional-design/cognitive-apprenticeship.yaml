@@ -1,0 +1,39 @@
+concept: Cognitive Apprenticeship
+domain: instructional-design
+secondary_domains:
+- situated-learning
+- instructional-method
+aliases:
+- Collins-Brown-Holum cognitive apprenticeship
+broader:
+- situated-learning-theory
+related:
+- scaffolding
+- communities-of-practice
+- observational-learning
+- the-zone-of-proximal-development
+prerequisites:
+- situated-learning-theory
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Apprenticeship
+  body: Cognitive Apprenticeship is Collins, Brown, and Holum's instructional framework
+    that adapts the traditional craft-apprenticeship sequence (modeling, coaching,
+    scaffolding, articulation, reflection, exploration) to the teaching of cognitive
+    skills, deliberately externalizing the otherwise invisible thinking processes
+    of expert practitioners.
+- type: key-claim
+  title: Key claim about Cognitive Apprenticeship
+  body: 'Cognitive Apprenticeship''s distinctive contribution is its insistence on
+    making expert thinking visible through articulation: cognitive skills, unlike
+    physical craft skills, cannot be observed by the learner unless the expert is
+    required to externalize the reasoning, which is why thinking-aloud and worked
+    solutions are central rather than optional in the framework.'
+- type: warning
+  title: Common pitfall regarding Cognitive Apprenticeship
+  body: Cognitive Apprenticeship is often invoked as a justification for any expert-novice
+    pairing, but the framework is a structured six-element sequence with specific
+    demands on the expert; mentorship that omits the articulation and reflection elements
+    produces accidental tacit transmission rather than the explicit cognitive-skill
+    teaching the framework specifies.

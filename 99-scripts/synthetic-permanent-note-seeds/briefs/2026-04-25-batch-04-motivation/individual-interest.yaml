@@ -1,0 +1,37 @@
+concept: Individual Interest
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- motivation
+aliases:
+- personal interest
+broader:
+- interest
+related:
+- situational-interest
+- intrinsic-motivation
+- hidi-renninger-model
+- expertise-development
+prerequisites:
+- motivational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Individual Interest
+  body: Individual Interest is the stable, well-developed phase of interest in the
+    Hidi-Renninger model — a relatively enduring predisposition to re-engage with
+    a particular content domain over time, anchored by accumulated knowledge, value,
+    and positive affect — and contrasts with situational interest in being a property
+    of the person rather than of the immediate situation.
+- type: key-claim
+  title: Key claim about Individual Interest
+  body: 'Individual Interest is most usefully understood as the durable end-state
+    of an interest-development trajectory rather than as a stable trait: well-developed
+    individual interest is built, not discovered, and the building is mediated by
+    the situational-interest experiences that preceded it.'
+- type: warning
+  title: Common pitfall regarding Individual Interest
+  body: Individual Interest is sometimes invoked as a justification for "letting students
+    follow their interests," but well-developed individual interest is rare in any
+    given domain at the entry phase, and using its absence as a reason to avoid a
+    domain forecloses the very experiences that would have produced it.

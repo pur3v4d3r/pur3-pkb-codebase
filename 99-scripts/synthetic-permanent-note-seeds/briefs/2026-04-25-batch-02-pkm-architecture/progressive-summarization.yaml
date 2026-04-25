@@ -1,0 +1,37 @@
+concept: Progressive Summarization
+domain: pkm
+secondary_domains:
+- notetaking
+- knowledge-management
+aliases:
+- PS
+broader:
+- note-making-vs-note-taking
+related:
+- evergreen-notes
+- literature-notes
+- atomic-notes
+- commonplace-book
+prerequisites:
+- personal-knowledge-management
+confidence: high
+callouts:
+- type: definition
+  title: Progressive Summarization
+  body: Progressive Summarization is Tiago Forte's notetaking technique in which a
+    captured source is distilled in successive layers — bolding the key passages,
+    then highlighting the most essential of those bolds, then writing an executive
+    summary — so that future re-encounters with the note can land at whichever depth
+    the situation requires.
+- type: key-claim
+  title: Key claim about Progressive Summarization
+  body: 'Progressive Summarization treats compression as a future-discoverability
+    problem rather than a comprehension problem: each layer is added at the moment
+    of demonstrated demand, which prevents the upfront-summarization tax that derails
+    most highlighting workflows.'
+- type: warning
+  title: Common pitfall regarding Progressive Summarization
+  body: Progressive Summarization is often performed all-at-once on capture, which
+    collapses it back into ordinary highlighting and loses the temporal structure
+    that makes the method work; the layers are valuable only when they are added at
+    separate moments of genuine re-engagement.

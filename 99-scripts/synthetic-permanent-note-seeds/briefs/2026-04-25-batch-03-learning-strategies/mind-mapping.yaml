@@ -1,0 +1,36 @@
+concept: Mind Mapping
+domain: learning-science
+secondary_domains:
+- creativity
+- notetaking
+aliases:
+- mind map
+- idea mapping
+broader:
+- externalized-cognitive-architecture
+related:
+- concept-mapping
+- brainstorming
+- divergent-thinking
+prerequisites:
+- externalized-cognitive-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Mind Mapping
+  body: Mind Mapping is Tony Buzan's radial diagramming technique in which a central
+    topic anchors successively branching associations, with each branch carrying a
+    single keyword and visual emphasis, producing a fan-shaped externalization of
+    associative thinking that prioritizes generation over organization.
+- type: key-claim
+  title: Key claim about Mind Mapping
+  body: Mind Mapping is best understood as a divergent-thinking aid rather than a
+    knowledge-representation format; its value lies in lowering the activation threshold
+    for associations during ideation, not in producing a defensible structure of the
+    topic.
+- type: warning
+  title: Common pitfall regarding Mind Mapping
+  body: Mind Mapping is routinely sold as equivalent to concept mapping, but the absence
+    of labeled relations and the imposed radial geometry produce diagrams that look
+    organized while encoding only proximity — confusing the two methods leads to choosing
+    the wrong tool for the cognitive task at hand.

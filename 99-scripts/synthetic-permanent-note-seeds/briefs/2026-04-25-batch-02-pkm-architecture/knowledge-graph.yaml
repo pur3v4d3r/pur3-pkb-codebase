@@ -1,0 +1,36 @@
+concept: Knowledge Graph
+domain: pkm
+secondary_domains:
+- graph-theory
+- knowledge-management
+aliases:
+- PKM knowledge graph
+broader:
+- externalized-cognitive-architecture
+related:
+- atomic-notes
+- knowledge-graph-topology
+- maps-of-content
+- zettelkasten
+prerequisites:
+- personal-knowledge-management
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Graph
+  body: A Knowledge Graph in the PKM context is a network whose nodes are atomic concept-notes
+    and whose edges are typed or untyped links between them, treated as the primary
+    representation of the writer's knowledge rather than as a navigation aid layered
+    on top of folders.
+- type: key-claim
+  title: Key claim about Knowledge Graph
+  body: A Knowledge Graph differs from a hyperlinked document collection in that the
+    graph itself — its nodes, edges, and emergent topology — is the artifact being
+    maintained, which is why graph-aware tools surface affordances (orphan detection,
+    hub analysis, link suggestion) that document-centric tools cannot.
+- type: warning
+  title: Common pitfall regarding Knowledge Graph
+  body: A Knowledge Graph is not automatically valuable because it exists; without
+    disciplined atomicity and link curation, the same set of notes produces a graph
+    that reflects only the accidents of historical capture rather than any defensible
+    ontology of the domain.

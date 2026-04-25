@@ -1,0 +1,36 @@
+concept: Evergreen Notes
+domain: pkm
+secondary_domains:
+- zettelkasten
+- notetaking
+aliases:
+- evergreen note
+broader:
+- atomic-notes
+related:
+- zettelkasten
+- literature-notes
+- progressive-summarization
+- maps-of-content
+prerequisites:
+- zettelkasten
+confidence: high
+callouts:
+- type: definition
+  title: Evergreen Notes
+  body: Evergreen Notes are Andy Matuschak's formulation of permanent notes — notes
+    that are atomic, concept-oriented, densely linked, and continually refined over
+    years rather than written once and archived — and that are designed to compound
+    in value as the network around them grows.
+- type: key-claim
+  title: Key claim about Evergreen Notes
+  body: Evergreen Notes treat the note as a position the writer is willing to defend
+    at this date, which is why their refinement is a first-class long-running activity
+    rather than a write-once-and-archive event, and why the refactoring habit is the
+    load-bearing mechanism of the practice.
+- type: warning
+  title: Common pitfall regarding Evergreen Notes
+  body: Evergreen Notes degrade into a vanity collection when the refinement habit
+    lapses — once notes stop being revisited and re-linked, the network loses its
+    compounding property and becomes indistinguishable from any other static notes
+    folder.

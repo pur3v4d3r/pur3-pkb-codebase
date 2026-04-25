@@ -1,0 +1,35 @@
+concept: Pre-Testing Effect
+domain: learning-science
+secondary_domains:
+- memory
+- cognitive-psychology
+aliases:
+- prequestion effect
+- pretesting effect
+broader:
+- testing-effect
+related:
+- retrieval-practice
+- generation-effect
+- productive-failure
+prerequisites:
+- testing-effect
+confidence: high
+callouts:
+- type: definition
+  title: Pre-Testing Effect
+  body: The Pre-Testing Effect is the empirical finding that attempting to answer
+    questions about material before studying it — even when the answers are unknown
+    and the responses are wrong — improves later memory for the correct answers compared
+    to studying the material directly.
+- type: key-claim
+  title: Key claim about Pre-Testing Effect
+  body: The Pre-Testing Effect implies that the act of unsuccessful retrieval primes
+    the learner's encoding of the eventual correct answer, which is why "failed" pretests
+    are not wasted effort but a form of preparatory encoding scaffolding.
+- type: warning
+  title: Common pitfall regarding Pre-Testing Effect
+  body: The Pre-Testing Effect is sometimes confused with the testing effect proper,
+    but the two operate at different points in the study cycle; treating pre-testing
+    as a substitute for post-study retrieval practice forfeits the larger effect of
+    post-encoding retrieval.

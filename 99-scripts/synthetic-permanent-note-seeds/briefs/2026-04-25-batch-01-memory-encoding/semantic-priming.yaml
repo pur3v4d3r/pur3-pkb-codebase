@@ -1,0 +1,32 @@
+concept: Semantic Priming
+domain: cognitive-science
+secondary_domains:
+- cognitive-psychology
+- psycholinguistics
+broader:
+- priming
+related:
+- spreading-activation
+- semantic-memory
+- processing-fluency
+prerequisites:
+- semantic-memory
+confidence: high
+callouts:
+- type: definition
+  title: Semantic Priming
+  body: Semantic Priming is the empirical effect that processing a word or concept
+    is faster and more accurate when it has been preceded by a semantically related
+    word or concept, taken as evidence that activation spreads through a network of
+    meaning-related representations.
+- type: key-claim
+  title: Key claim about Semantic Priming
+  body: Semantic Priming provides the cleanest behavioral evidence for the network
+    organization of semantic memory, demonstrating that meaning is stored as a set
+    of typed relations between concepts rather than as isolated lexical entries.
+- type: warning
+  title: Common pitfall regarding Semantic Priming
+  body: Semantic Priming effects are real but small and easily inflated by experimenter
+    degrees of freedom; treating priming magnitude as a direct readout of "how connected"
+    two concepts are in the mind ignores task-specific strategic processes that ride
+    on top of automatic activation.

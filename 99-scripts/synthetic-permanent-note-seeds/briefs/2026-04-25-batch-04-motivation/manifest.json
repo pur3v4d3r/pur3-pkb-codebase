@@ -1,0 +1,90 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-04-motivation",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-04-motivation.md",
+    "notes": "Motivation cluster. Seeds the goal-content / regulation-style /\nexpectancy-value / interest-development concepts that complete the\nmotivational-psychology sub-graph beyond the SDT core already in vault."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-04-motivation",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-04-motivation"
+  },
+  "counts": {
+    "parsed": 11,
+    "accepted": 11,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Regulatory Focus Theory",
+      "kebab": "regulatory-focus-theory",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/regulatory-focus-theory.yaml",
+      "expected_seed_filename": "regulatory-focus-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Procrastination",
+      "kebab": "procrastination",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/procrastination.yaml",
+      "expected_seed_filename": "procrastination-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Need for Cognition",
+      "kebab": "need-for-cognition",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/need-for-cognition.yaml",
+      "expected_seed_filename": "need-for-cognition-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Self-Concordance Model",
+      "kebab": "self-concordance-model",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/self-concordance-model.yaml",
+      "expected_seed_filename": "self-concordance-model-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Situational Interest",
+      "kebab": "situational-interest",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/situational-interest.yaml",
+      "expected_seed_filename": "situational-interest-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Individual Interest",
+      "kebab": "individual-interest",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/individual-interest.yaml",
+      "expected_seed_filename": "individual-interest-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Volitional Control",
+      "kebab": "volitional-control",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/volitional-control.yaml",
+      "expected_seed_filename": "volitional-control-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Temporal Motivation Theory",
+      "kebab": "temporal-motivation-theory",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/temporal-motivation-theory.yaml",
+      "expected_seed_filename": "temporal-motivation-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Self-Worth Theory",
+      "kebab": "self-worth-theory",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/self-worth-theory.yaml",
+      "expected_seed_filename": "self-worth-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Approach-Avoidance Motivation",
+      "kebab": "approach-avoidance-motivation",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/approach-avoidance-motivation.yaml",
+      "expected_seed_filename": "approach-avoidance-motivation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Utility Value",
+      "kebab": "utility-value",
+      "brief_path": "briefs/2026-04-25-batch-04-motivation/utility-value.yaml",
+      "expected_seed_filename": "utility-value-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

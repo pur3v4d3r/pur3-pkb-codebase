@@ -55,5 +55,35 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 
 # Custom List of Permanent Note Seeds
 
+the-evolution-of-germane-load
+the-componential-structure-of-working-memory
+baddeley-and-hitch-working-memory-model
+the-history-and-evolution-of-cognitive-load-theory
+scientific-communication
+evolutionary-educational-psychology
+explicit-instruction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```

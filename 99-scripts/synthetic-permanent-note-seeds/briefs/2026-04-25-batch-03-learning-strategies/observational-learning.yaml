@@ -1,0 +1,36 @@
+concept: Observational Learning
+domain: learning-science
+secondary_domains:
+- social-cognition
+- developmental-psychology
+aliases:
+- modeling
+- vicarious learning
+broader:
+- social-cognitive-theory
+related:
+- vicarious-experience
+- cognitive-apprenticeship
+- communities-of-practice
+prerequisites:
+- social-cognitive-theory
+confidence: high
+callouts:
+- type: definition
+  title: Observational Learning
+  body: Observational Learning is Bandura's account of how new behaviors and cognitive
+    patterns are acquired by attending to a model's actions and outcomes — without
+    direct reinforcement of the observer — through the four sub-processes of attention,
+    retention, reproduction, and motivation.
+- type: key-claim
+  title: Key claim about Observational Learning
+  body: Observational Learning is the mechanism by which culture-level skill is transmitted
+    faster than individual trial-and-error could account for, and it shows that reinforcement
+    is not required for acquisition — only for performance — which separates learning
+    from doing more sharply than behaviorist accounts allow.
+- type: warning
+  title: Common pitfall regarding Observational Learning
+  body: Observational Learning is often misread as "watching is enough"; the retention
+    and reproduction sub-processes require active rehearsal, and a learner who observes
+    without rehearsing acquires a recognition-grade representation that fails when
+    production is required.

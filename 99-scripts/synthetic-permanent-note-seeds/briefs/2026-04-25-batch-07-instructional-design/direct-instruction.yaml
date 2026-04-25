@@ -1,0 +1,39 @@
+concept: Direct Instruction
+domain: instructional-design
+secondary_domains:
+- explicit-instruction
+- instructional-method
+aliases:
+- DI
+- Direct Instruction (Engelmann)
+- explicit instruction
+broader:
+- instructional-design
+related:
+- worked-examples
+- scaffolded-fading
+- faded-worked-examples
+- mastery-learning
+prerequisites:
+- instructional-design
+confidence: high
+callouts:
+- type: definition
+  title: Direct Instruction
+  body: Direct Instruction is a tightly scripted, mastery-oriented instructional method
+    — most famously codified in Engelmann's DI program — that sequences carefully
+    designed examples and non-examples, uses choral and individual responses for high-frequency
+    formative checks, and proceeds only when prerequisite skills are confirmed mastered.
+- type: key-claim
+  title: Key claim about Direct Instruction
+  body: Direct Instruction has accumulated unusually large and consistent effect sizes
+    for the acquisition of well-defined academic skills (early reading, arithmetic,
+    decoding), and the meta-analytic record makes it one of the best-supported instructional
+    methods for those outcomes — a finding that survives the recurring ideological
+    controversy around the method.
+- type: warning
+  title: Common pitfall regarding Direct Instruction
+  body: Direct Instruction is often confused with the broader category of "explicit
+    instruction" in casual writing, but the named program is tightly engineered and
+    not interchangeable with any teacher-led lecture; transferring conclusions from
+    one to the other in either direction misrepresents the evidence base.

@@ -1,0 +1,40 @@
+concept: Systems Thinking
+domain: critical-thinking
+secondary_domains:
+- systems-theory
+- complexity-science
+aliases:
+- systems analysis
+- dynamic systems thinking
+broader:
+- critical-thinking
+related:
+- second-order-thinking
+- feedback-loops
+- emergence
+- mental-model
+prerequisites:
+- critical-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Systems Thinking
+  body: Systems Thinking is the discipline of analyzing phenomena in terms of the
+    structure of feedback loops, stocks and flows, and time delays among interacting
+    components — descended from cybernetics, system dynamics, and ecology — that explain
+    behavior through the configuration of the system rather than through the properties
+    of any single element.
+- type: key-claim
+  title: Key claim about Systems Thinking
+  body: 'Systems Thinking re-locates explanation from the actor to the structure:
+    many behavioral patterns that look like individual choices are emergent properties
+    of the system''s loop structure, which is why interventions targeting individuals
+    reliably under-perform interventions that change the loops the individuals are
+    embedded in.'
+- type: warning
+  title: Common pitfall regarding Systems Thinking
+  body: Systems Thinking is often invoked as a license to deflect personal responsibility
+    ("the system made me do it") or, oppositely, to claim universal explanatory power
+    for any vague network metaphor; the discipline's value depends on actually identifying
+    specific loops, stocks, and delays, and the term loses meaning when used as a
+    generic gesture toward complexity.

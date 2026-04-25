@@ -1,0 +1,38 @@
+concept: Tip-of-the-Tongue Phenomenon
+domain: cognitive-science
+secondary_domains:
+- psycholinguistics
+- memory
+aliases:
+- TOT
+- tip-of-the-tongue state
+broader:
+- metacognitive-experience
+related:
+- feeling-of-knowing
+- semantic-memory
+- cue-encoding-bottleneck
+- metacognitive-feelings
+prerequisites:
+- metacognitive-experience
+confidence: high
+callouts:
+- type: definition
+  title: Tip-of-the-Tongue Phenomenon
+  body: The Tip-of-the-Tongue Phenomenon is the strong subjective experience of being
+    on the verge of recalling a known word — typically accompanied by partial information
+    such as initial letters, syllable count, or semantically related candidates —
+    without successful retrieval of the word itself.
+- type: key-claim
+  title: Key claim about Tip-of-the-Tongue Phenomenon
+  body: 'The Tip-of-the-Tongue Phenomenon provides one of the clearest dissociations
+    of access from storage in cognitive psychology: the partial-information accompaniments
+    demonstrate that the target representation is present and partially accessible,
+    ruling out trace-loss explanations and isolating retrieval failure as the locus
+    of the impasse.'
+- type: warning
+  title: Common pitfall regarding Tip-of-the-Tongue Phenomenon
+  body: The Tip-of-the-Tongue Phenomenon is often interpreted as evidence that the
+    answer "is in there"; the inference is approximately right for high-frequency
+    lexical items but generalizes poorly to conceptual or skill knowledge, where the
+    felt-imminence cue is much less diagnostic of actual presence.

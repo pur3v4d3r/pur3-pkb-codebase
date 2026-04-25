@@ -1,0 +1,40 @@
+concept: Inhibitory Control
+domain: cognitive-science
+secondary_domains:
+- executive-function
+- developmental-psychology
+aliases:
+- response inhibition
+- behavioral inhibition
+broader:
+- executive-function
+related:
+- working-memory-capacity
+- cognitive-flexibility
+- self-regulation
+- the-stop-signal-task
+prerequisites:
+- executive-function
+confidence: high
+callouts:
+- type: definition
+  title: Inhibitory Control
+  body: Inhibitory Control is the executive-function component that suppresses pre-potent
+    or automatic responses in favor of goal-relevant ones — encompassing both behavioral
+    response inhibition (stopping an action) and cognitive interference control (suppressing
+    irrelevant information) — and is one of the three core executive functions in
+    the Miyake unity-and-diversity model.
+- type: key-claim
+  title: Key claim about Inhibitory Control
+  body: Inhibitory Control is causally implicated in a wide range of self-regulatory
+    outcomes — from delay of gratification to academic achievement — and Diamond's
+    developmental work shows that it can be specifically improved by interventions
+    that load it under conditions of joy and competence, distinguishing genuine inhibitory
+    training from generic executive-function programs that fail to transfer.
+- type: warning
+  title: Common pitfall regarding Inhibitory Control
+  body: Inhibitory Control is often promoted as a master variable that explains broad
+    self-regulatory differences, but the empirical pattern shows that the construct
+    is composite at best — behavioral and cognitive inhibition correlate only modestly
+    — and treating any single inhibition task as a measure of "inhibition in general"
+    over-aggregates a structured set of distinct sub-abilities.

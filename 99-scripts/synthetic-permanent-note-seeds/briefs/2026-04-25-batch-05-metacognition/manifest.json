@@ -1,0 +1,54 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-05-metacognition",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-05-metacognition.md",
+    "notes": "Metacognition cluster. Seeds the monitoring-judgment family\n(hypercorrection, retrospective confidence, illusion of knowing,\ntip-of-the-tongue, calibration accuracy) that complements the\nmetacognitive-monitoring / metacognitive-control core in vault."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-05-metacognition",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-05-metacognition"
+  },
+  "counts": {
+    "parsed": 5,
+    "accepted": 5,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Hypercorrection Effect",
+      "kebab": "hypercorrection-effect",
+      "brief_path": "briefs/2026-04-25-batch-05-metacognition/hypercorrection-effect.yaml",
+      "expected_seed_filename": "hypercorrection-effect-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Retrospective Confidence Judgment",
+      "kebab": "retrospective-confidence-judgment",
+      "brief_path": "briefs/2026-04-25-batch-05-metacognition/retrospective-confidence-judgment.yaml",
+      "expected_seed_filename": "retrospective-confidence-judgment-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Illusion of Knowing",
+      "kebab": "illusion-of-knowing",
+      "brief_path": "briefs/2026-04-25-batch-05-metacognition/illusion-of-knowing.yaml",
+      "expected_seed_filename": "illusion-of-knowing-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Tip-of-the-Tongue Phenomenon",
+      "kebab": "tip-of-the-tongue-phenomenon",
+      "brief_path": "briefs/2026-04-25-batch-05-metacognition/tip-of-the-tongue-phenomenon.yaml",
+      "expected_seed_filename": "tip-of-the-tongue-phenomenon-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Metacognitive Accuracy",
+      "kebab": "metacognitive-accuracy",
+      "brief_path": "briefs/2026-04-25-batch-05-metacognition/metacognitive-accuracy.yaml",
+      "expected_seed_filename": "metacognitive-accuracy-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

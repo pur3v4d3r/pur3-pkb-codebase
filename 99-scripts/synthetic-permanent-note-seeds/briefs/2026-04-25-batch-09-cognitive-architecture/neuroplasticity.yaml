@@ -1,0 +1,37 @@
+concept: Neuroplasticity
+domain: cognitive-science
+secondary_domains:
+- neuroscience
+- learning-science
+aliases:
+- brain plasticity
+broader:
+- cognitive-architecture
+related:
+- memory-consolidation
+- sleep-and-memory-consolidation
+- deliberate-practice
+- the-power-law-of-practice
+prerequisites:
+- cognitive-architecture
+confidence: high
+callouts:
+- type: definition
+  title: Neuroplasticity
+  body: Neuroplasticity is the capacity of the nervous system to modify its structural
+    and functional organization in response to experience — through synaptic strengthening
+    and weakening, dendritic remodeling, and in limited regions adult neurogenesis
+    — and is the biological substrate that makes learning possible across the lifespan.
+- type: key-claim
+  title: Key claim about Neuroplasticity
+  body: 'Neuroplasticity is heavily constrained: the organism does not rewrite arbitrary
+    structure on demand but exhibits experience-dependent changes governed by molecular
+    and circuit-level rules, which is why "neuroplasticity" is an enabling condition
+    for learning rather than an explanation of any specific learning outcome.'
+- type: warning
+  title: Common pitfall regarding Neuroplasticity
+  body: Neuroplasticity is the most over-claimed concept in popular brain literature,
+    routinely invoked to license claims that any desired change is achievable through
+    any preferred practice; the appropriate inference from plasticity is that change
+    is possible under appropriate conditions, not that any specific intervention will
+    produce any specific change.

@@ -1,0 +1,36 @@
+concept: Maps of Content
+domain: pkm
+secondary_domains:
+- zettelkasten
+- notetaking
+aliases:
+- MOC
+- MOCs
+broader:
+- knowledge-graph-topology
+related:
+- atomic-notes
+- evergreen-notes
+- knowledge-graph
+prerequisites:
+- atomic-notes
+confidence: high
+callouts:
+- type: definition
+  title: Maps of Content
+  body: Maps of Content are curated index notes — popularized by Nick Milo's LYT framework
+    — that group, sequence, and contextualize a set of related atomic notes, providing
+    the navigational scaffolding that pure tag-and-link networks lack while preserving
+    the atomic structure of the underlying notes.
+- type: key-claim
+  title: Key claim about Maps of Content
+  body: 'Maps of Content resolve the tension between atomicity and navigability: the
+    atomic notes carry the load-bearing knowledge, while the MOC carries the editorial
+    perspective on how those notes should be encountered, and conflating the two layers
+    degrades both.'
+- type: warning
+  title: Common pitfall regarding Maps of Content
+  body: A common Maps of Content failure mode is to write the MOC first as a placeholder
+    for notes that do not yet exist; this re-creates a folder hierarchy with extra
+    steps and forfeits the bottom-up emergent-structure property that made MOCs a
+    useful intermediate layer.

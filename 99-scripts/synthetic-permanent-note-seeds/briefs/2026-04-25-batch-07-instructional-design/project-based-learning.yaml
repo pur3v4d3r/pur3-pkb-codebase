@@ -1,0 +1,38 @@
+concept: Project-Based Learning
+domain: instructional-design
+secondary_domains:
+- k-12-education
+- instructional-method
+aliases:
+- PjBL
+broader:
+- inquiry-based-learning
+related:
+- problem-based-learning
+- case-based-learning
+- authentic-assessment
+- situated-learning-theory
+prerequisites:
+- inquiry-based-learning
+confidence: high
+callouts:
+- type: definition
+  title: Project-Based Learning
+  body: Project-Based Learning is the instructional method in which students engage
+    in an extended, authentic project that culminates in a public product or performance,
+    with disciplinary content and skills acquired through the demands of the project,
+    structured by a driving question and supported by ongoing feedback and revision.
+- type: key-claim
+  title: Key claim about Project-Based Learning
+  body: 'Project-Based Learning''s distinctive contribution among inquiry methods
+    is its commitment to a public product: the externalization requirement creates
+    a fixed quality criterion that disciplines the learning trajectory in a way that
+    open-ended exploration alone does not, and it is the public-product feature that
+    most consistently predicts measured gains across program evaluations.'
+- type: warning
+  title: Common pitfall regarding Project-Based Learning
+  body: Project-Based Learning is frequently confused with project-as-dessert — a
+    project tacked onto the end of a content unit — when the framework's core claim
+    is that the project organizes the entire learning sequence; the dessert version
+    produces the appearance of PjBL while preserving the conventional content-first
+    structure the method was designed to displace.

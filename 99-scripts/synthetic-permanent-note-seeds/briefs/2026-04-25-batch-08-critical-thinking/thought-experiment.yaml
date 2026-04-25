@@ -1,0 +1,38 @@
+concept: Thought Experiment
+domain: critical-thinking
+secondary_domains:
+- philosophy
+- scientific-reasoning
+aliases:
+- Gedankenexperiment
+broader:
+- scientific-reasoning
+related:
+- first-principles-thinking
+- analogical-reasoning
+- modal-logic
+- the-method-of-counterexample
+prerequisites:
+- scientific-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Thought Experiment
+  body: A Thought Experiment is a controlled imaginative scenario constructed to test
+    the consequences of a principle, definition, or theory under conditions that may
+    be physically inaccessible, logically extreme, or experimentally infeasible —
+    used in philosophy and theoretical science to expose hidden commitments and incoherences
+    in a position.
+- type: key-claim
+  title: Key claim about Thought Experiment
+  body: 'A Thought Experiment functions as a probe of conceptual structure rather
+    than as a source of empirical evidence: its epistemic force comes from showing
+    that a position has consequences its defenders had not anticipated and would not
+    endorse, which is the form of refutation that scales with the rigor of the imaginative
+    construction rather than with the realism of the scenario.'
+- type: warning
+  title: Common pitfall regarding Thought Experiment
+  body: A Thought Experiment is often dismissed for being unrealistic, but realism
+    is not the criterion of validity — relevance to the contested principle is — and
+    the symmetric over-reach is to treat a thought experiment as if it had settled
+    an empirical matter, when its only legitimate target is conceptual.

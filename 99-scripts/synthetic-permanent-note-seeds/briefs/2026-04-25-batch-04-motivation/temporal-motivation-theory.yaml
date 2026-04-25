@@ -1,0 +1,37 @@
+concept: Temporal Motivation Theory
+domain: motivational-psychology
+secondary_domains:
+- behavioral-economics
+- self-regulation
+aliases:
+- TMT
+broader:
+- motivational-psychology
+related:
+- procrastination
+- expectancy-value-theory
+- hyperbolic-discounting
+- intention-behavior-gap
+prerequisites:
+- expectancy-value-theory
+confidence: high
+callouts:
+- type: definition
+  title: Temporal Motivation Theory
+  body: Temporal Motivation Theory is Steel and König's integrative model that expresses
+    the utility of pursuing a task as expectancy multiplied by value, divided by the
+    product of impulsiveness and delay — yielding the prediction that motivation rises
+    sharply as deadlines approach and falls when delay-discounting is steep.
+- type: key-claim
+  title: Key claim about Temporal Motivation Theory
+  body: Temporal Motivation Theory unifies expectancy-value theory with hyperbolic-discounting
+    work on procrastination, deriving the empirical procrastination pattern (effort
+    concentrated near deadlines) as a direct consequence of how delay enters the utility
+    function rather than as a separate phenomenon to be explained.
+- type: warning
+  title: Common pitfall regarding Temporal Motivation Theory
+  body: Temporal Motivation Theory is a useful integrative model but is sometimes
+    treated as a complete theory of motivation; it inherits the limits of its components
+    — especially the assumption that expectancy and value are stably accessible to
+    introspection — and over-stretching it into territory those components do not
+    cover produces false precision.

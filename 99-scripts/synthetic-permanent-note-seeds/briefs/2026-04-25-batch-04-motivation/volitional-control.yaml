@@ -1,0 +1,38 @@
+concept: Volitional Control
+domain: motivational-psychology
+secondary_domains:
+- self-regulation
+- action-control
+aliases:
+- volition
+- action control
+broader:
+- self-regulation
+related:
+- implementation-intentions
+- the-rubicon-model-of-action-phases
+- intention-behavior-gap
+- procrastination
+prerequisites:
+- self-regulation
+confidence: high
+callouts:
+- type: definition
+  title: Volitional Control
+  body: Volitional Control is Heckhausen and Kuhl's term for the post-decisional self-regulatory
+    processes — distinct from motivational deliberation — that protect a chosen intention
+    from competing impulses, distractions, and rival goals, comprising attention control,
+    emotion control, motivation control, and environment control.
+- type: key-claim
+  title: Key claim about Volitional Control
+  body: 'Volitional Control is causally distinct from motivation: a fully motivated
+    person can still fail to act if the volitional sub-processes that shield the intention
+    break down, which is why interventions that boost motivation alone systematically
+    under-perform interventions that also strengthen the post-decisional shielding
+    mechanisms.'
+- type: warning
+  title: Common pitfall regarding Volitional Control
+  body: Treating Volitional Control as synonymous with willpower collapses a structured
+    set of distinct sub-processes into a single resource metaphor and forecloses the
+    more diagnostic question — which specific volitional sub-process is failing in
+    this particular intention-behavior gap.

@@ -1,0 +1,34 @@
+concept: Interference Theory
+domain: cognitive-science
+secondary_domains:
+- cognitive-psychology
+- memory
+aliases:
+- interference theory of forgetting
+broader:
+- forgetting-curve
+related:
+- proactive-interference
+- retroactive-interference
+- encoding-variability
+prerequisites:
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Interference Theory
+  body: Interference Theory is the account of forgetting which holds that loss of
+    access to a memory is caused primarily by competition from other similar memories
+    — earlier learning blocking later (proactive) or later learning blocking earlier
+    (retroactive) — rather than by passive decay of the trace.
+- type: key-claim
+  title: Key claim about Interference Theory
+  body: Interference Theory is the strongest explanation for why time-since-learning
+    predicts forgetting only weakly once the amount of intervening similar learning
+    is controlled, displacing pure decay as the default model of long-term forgetting.
+- type: warning
+  title: Common pitfall regarding Interference Theory
+  body: Interference Theory does not entail that all forgetting is reducible to competition;
+    cue overload, retrieval-induced forgetting, and consolidation failure each contribute,
+    and reading any single forgetting event as "interference proved" overfits the
+    framework.

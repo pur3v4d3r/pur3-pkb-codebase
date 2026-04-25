@@ -1,0 +1,36 @@
+concept: Summarization Strategy
+domain: learning-science
+secondary_domains:
+- reading-comprehension
+- study-skills
+aliases:
+- summarization
+- summary writing
+broader:
+- learning-strategies
+related:
+- self-explanation
+- elaborative-interrogation
+- progressive-summarization
+prerequisites:
+- comprehension-monitoring
+confidence: high
+callouts:
+- type: definition
+  title: Summarization Strategy
+  body: The Summarization Strategy is the study technique of writing a condensed restatement
+    of a text in one's own words, capturing main ideas and their relationships, and
+    is consistently rated as a moderately effective comprehension and retention strategy
+    when summaries are written rather than copied.
+- type: key-claim
+  title: Key claim about Summarization Strategy
+  body: 'The Summarization Strategy works through forced selection and reformulation:
+    the learner must decide what to keep and how to recompose it, which is a comprehension
+    test masquerading as a study activity and exposes failures of understanding that
+    re-reading would conceal.'
+- type: warning
+  title: Common pitfall regarding Summarization Strategy
+  body: The Summarization Strategy collapses to ineffective highlighting when learners
+    produce summaries by stitching together verbatim sentences from the source; without
+    the reformulation step, the strategy degrades into a search-and-paste exercise
+    that does not engage the comprehension processes that give it its effect.

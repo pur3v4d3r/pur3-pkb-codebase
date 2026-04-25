@@ -1,0 +1,38 @@
+concept: Mastery Learning
+domain: instructional-design
+secondary_domains:
+- instructional-method
+- assessment
+aliases:
+- Bloom mastery learning
+- learning for mastery
+broader:
+- instructional-design
+related:
+- formative-assessment
+- direct-instruction
+- the-2-sigma-problem
+- criterion-referenced-assessment
+prerequisites:
+- formative-assessment
+confidence: high
+callouts:
+- type: definition
+  title: Mastery Learning
+  body: Mastery Learning is Benjamin Bloom's instructional framework in which learners
+    progress to new content only after demonstrating mastery of prerequisite content
+    on a criterion-referenced check, with corrective instruction provided to those
+    who do not yet meet the criterion — a deliberate substitution of time-varying
+    instruction for outcome-varying instruction.
+- type: key-claim
+  title: Key claim about Mastery Learning
+  body: Mastery Learning produces the largest reliable effect sizes in instructional
+    research when implemented with fidelity, anchored in Bloom's "2-sigma" finding,
+    by ensuring that the cumulative knowledge gaps that ordinarily compound across
+    a curriculum are repaired at the point they emerge rather than allowed to widen.
+- type: warning
+  title: Common pitfall regarding Mastery Learning
+  body: Mastery Learning is routinely diluted in practice into "give a quiz, allow
+    retakes," which preserves the surface form but discards the load-bearing components
+    — diagnostic formative assessment, structured corrective instruction, criterion-referenced
+    standards — and the diluted versions reliably under-perform the original.

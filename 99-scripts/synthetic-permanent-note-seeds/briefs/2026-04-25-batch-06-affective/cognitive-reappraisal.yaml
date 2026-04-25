@@ -1,0 +1,38 @@
+concept: Cognitive Reappraisal
+domain: educational-psychology
+secondary_domains:
+- emotion-regulation
+- clinical-psychology
+aliases:
+- reappraisal
+- cognitive reframing
+broader:
+- emotional-regulation
+related:
+- academic-anxiety
+- cognitive-flexibility
+- attribution-retraining
+- growth-mindset
+prerequisites:
+- emotional-regulation
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Reappraisal
+  body: Cognitive Reappraisal is the antecedent-focused emotion-regulation strategy
+    in Gross's process model in which a person reinterprets the meaning of an emotion-eliciting
+    situation before the full emotional response unfolds, dampening or transforming
+    the emotion at its construal stage rather than at its expression stage.
+- type: key-claim
+  title: Key claim about Cognitive Reappraisal
+  body: 'Cognitive Reappraisal differs in long-run cost-benefit profile from suppression-based
+    regulation: by changing the meaning of the eliciting event, reappraisal reduces
+    the affective load without the depletion and social costs that expressive suppression
+    incurs, which is why it is the regulatory strategy most consistently associated
+    with well-being outcomes.'
+- type: warning
+  title: Common pitfall regarding Cognitive Reappraisal
+  body: Cognitive Reappraisal is not universally adaptive; in situations the person
+    can change, reappraisal can substitute for instrumental action and entrench passivity,
+    and the strategy's benefits depend on its being deployed when the situation is
+    genuinely uncontrollable rather than as a default for all aversive events.

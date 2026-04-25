@@ -1,0 +1,37 @@
+concept: Regulatory Focus Theory
+domain: motivational-psychology
+secondary_domains:
+- self-regulation
+- social-psychology
+aliases:
+- RFT
+- promotion-prevention focus
+broader:
+- motivational-psychology
+related:
+- approach-avoidance-motivation
+- goal-orientation
+- self-determination-theory
+prerequisites:
+- motivational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Regulatory Focus Theory
+  body: Regulatory Focus Theory is Higgins's account of how people pursue goals through
+    one of two distinct self-regulatory orientations — a promotion focus oriented
+    toward gains, ideals, and the presence of positive outcomes, or a prevention focus
+    oriented toward safety, oughts, and the absence of negative outcomes — each with
+    characteristic strategies and emotional signatures.
+- type: key-claim
+  title: Key claim about Regulatory Focus Theory
+  body: 'Regulatory Focus Theory is not a re-labeling of approach-avoidance: the two
+    foci differ in the type of end-state pursued (ideal vs. ought), the strategic
+    means preferred (eagerness vs. vigilance), and the felt outcomes of success and
+    failure (cheerfulness/dejection vs. quiescence/agitation).'
+- type: warning
+  title: Common pitfall regarding Regulatory Focus Theory
+  body: Regulatory Focus Theory is often collapsed into a personality typology, but
+    Higgins's claim is that focus is partly chronic and partly situationally induced;
+    treating any one person as purely promotion- or prevention-focused over-simplifies
+    the theory's central regulatory-fit prediction.

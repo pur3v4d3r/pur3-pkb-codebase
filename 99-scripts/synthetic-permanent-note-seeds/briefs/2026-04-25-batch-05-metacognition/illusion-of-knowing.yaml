@@ -1,0 +1,37 @@
+concept: Illusion of Knowing
+domain: cognitive-science
+secondary_domains:
+- metacognition
+- reading-comprehension
+aliases:
+- illusion of comprehension
+broader:
+- metacognitive-monitoring
+related:
+- fluency-illusion
+- judgment-of-learning
+- comprehension-monitoring
+- illusion-of-explanatory-depth
+prerequisites:
+- metacognitive-monitoring
+confidence: high
+callouts:
+- type: definition
+  title: Illusion of Knowing
+  body: The Illusion of Knowing is the phenomenon in which a learner judges that material
+    has been understood or memorized when an objective test would reveal that understanding
+    or recall is markedly weaker than the felt confidence implies — most reliably
+    produced by ease-of-processing cues that are diagnostic of fluency rather than
+    of comprehension.
+- type: key-claim
+  title: Key claim about Illusion of Knowing
+  body: 'The Illusion of Knowing exposes the central failure of fluency-based monitoring:
+    the cues the mind defaults to (re-reading ease, familiarity, processing speed)
+    are correlated with prior exposure rather than with current retrieval accessibility,
+    which is why retrieval-based monitoring beats reading-based monitoring on calibration.'
+- type: warning
+  title: Common pitfall regarding Illusion of Knowing
+  body: The Illusion of Knowing is not eliminated by warning learners about it; explicit
+    knowledge of the illusion does not change the monitoring cues the system spontaneously
+    uses, so corrective interventions must replace the cue (e.g., by inserting retrieval
+    attempts) rather than merely flagging the bias.

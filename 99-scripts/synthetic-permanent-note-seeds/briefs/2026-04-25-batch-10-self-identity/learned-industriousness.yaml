@@ -1,0 +1,39 @@
+concept: Learned Industriousness
+domain: educational-psychology
+secondary_domains:
+- behavioral-psychology
+- motivation
+aliases:
+- Eisenberger learned industriousness
+broader:
+- motivational-psychology
+related:
+- grit
+- deliberate-practice
+- effort-based-decision-making
+- intrinsic-motivation
+prerequisites:
+- motivational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Learned Industriousness
+  body: Learned Industriousness is Eisenberger's behavioral-psychology theory that
+    high effort can become secondarily rewarding through a learning history in which
+    effortful behavior has been reliably reinforced — producing a generalized disposition
+    to expend effort across new tasks, anchored not in personality but in conditioned
+    reinforcement history.
+- type: key-claim
+  title: Key claim about Learned Industriousness
+  body: 'Learned Industriousness reframes "effortful disposition" from a stable trait
+    into a learning history: the willingness to work hard on novel tasks reflects
+    the cumulative reinforcement of effortful behavior across prior tasks, which is
+    why early environments that reliably reward effort produce downstream patterns
+    that look temperamental but are not.'
+- type: warning
+  title: Common pitfall regarding Learned Industriousness
+  body: Learned Industriousness is sometimes mobilized to recommend that any effortful
+    behavior be reinforced regardless of its quality; the theory's empirical support
+    concerns the reinforcement of effort that is actually demanded by the task, and
+    arbitrary external rewards for unjustified effort produce the overjustification
+    pattern rather than the industriousness pattern.

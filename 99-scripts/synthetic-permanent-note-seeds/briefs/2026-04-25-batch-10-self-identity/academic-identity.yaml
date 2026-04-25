@@ -1,0 +1,40 @@
+concept: Academic Identity
+domain: educational-psychology
+secondary_domains:
+- educational-psychology
+- identity-development
+aliases:
+- academic self
+- scholar identity
+broader:
+- self-concept
+related:
+- self-concept
+- possible-selves
+- situated-learning-theory
+- communities-of-practice
+prerequisites:
+- self-concept
+confidence: high
+callouts:
+- type: definition
+  title: Academic Identity
+  body: Academic Identity is the dimension of self-concept that captures the extent
+    to which a person sees themselves as a learner, scholar, or member of a particular
+    academic discipline — comprising felt belonging, perceived competence, and projected
+    future self — and is among the strongest predictors of long-run educational persistence
+    above and beyond ability and prior achievement.
+- type: key-claim
+  title: Key claim about Academic Identity
+  body: 'Academic Identity is constructed through participation rather than discovered
+    through introspection: the empirical pattern is that students develop disciplinary
+    identities by being treated as members of the discipline (taking on its practices,
+    its language, its quality criteria), which means identity is downstream of legitimate
+    participation rather than a precondition for it.'
+- type: warning
+  title: Common pitfall regarding Academic Identity
+  body: Academic Identity interventions that target only the felt-belonging dimension
+    — without changing the participatory practices that legitimize membership — produce
+    short-lived effects that fade once the intervention is withdrawn; the durable
+    construction of academic identity requires structural access to disciplinary practice,
+    not affirmation alone.

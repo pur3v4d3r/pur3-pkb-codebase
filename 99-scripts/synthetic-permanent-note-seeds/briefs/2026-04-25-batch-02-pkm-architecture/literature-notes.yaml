@@ -1,0 +1,37 @@
+concept: Literature Notes
+domain: pkm
+secondary_domains:
+- zettelkasten
+- notetaking
+aliases:
+- reference notes
+- source notes
+broader:
+- zettelkasten
+related:
+- fleeting-notes
+- evergreen-notes
+- atomic-notes
+- progressive-summarization
+prerequisites:
+- zettelkasten
+confidence: high
+callouts:
+- type: definition
+  title: Literature Notes
+  body: Literature Notes are the second layer of the Zettelkasten workflow — restatements
+    of source material in the reader's own words, indexed to the source — that sit
+    between raw fleeting notes and the permanent atomic-note network and serve as
+    the staging area for ideas that may eventually become permanent.
+- type: key-claim
+  title: Key claim about Literature Notes
+  body: Literature Notes are not a summary archive; their purpose is to force the
+    act of reformulation that exposes whether a source has actually been understood,
+    which is why copy-pasted highlights cannot substitute for them even when they
+    look superficially complete.
+- type: warning
+  title: Common pitfall regarding Literature Notes
+  body: Treating Literature Notes as the final destination of a reading session —
+    instead of as input to the permanent-note layer — produces a growing pile of source-keyed
+    notes that never fuse into the writer's own thinking, which is the most common
+    failure mode of beginner Zettelkasten practice.

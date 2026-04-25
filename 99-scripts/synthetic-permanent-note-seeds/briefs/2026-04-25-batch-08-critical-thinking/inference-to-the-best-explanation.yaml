@@ -1,0 +1,41 @@
+concept: Inference to the Best Explanation
+domain: critical-thinking
+secondary_domains:
+- philosophy-of-science
+- abductive-reasoning
+aliases:
+- IBE
+- abductive inference
+broader:
+- abductive-reasoning
+related:
+- bayesian-reasoning
+- scientific-reasoning
+- fallibilism
+- charles-peirce
+prerequisites:
+- abductive-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Inference to the Best Explanation
+  body: Inference to the Best Explanation is the form of non-deductive reasoning —
+    descended from Peirce's abduction and developed in modern philosophy of science
+    by Harman and Lipton — in which a hypothesis is accepted on the grounds that,
+    among the available competitors, it provides the best explanation of the evidence,
+    where "best" is judged by criteria such as scope, depth, simplicity, and fit with
+    background knowledge.
+- type: key-claim
+  title: Key claim about Inference to the Best Explanation
+  body: Inference to the Best Explanation captures the form of reasoning actually
+    used in scientific theory choice and historical inference, where deductive proof
+    is unavailable and Bayesian computation requires priors that are themselves the
+    subject of dispute; it is the discipline that distinguishes a comparative defense
+    of a hypothesis from an isolated fit to data.
+- type: warning
+  title: Common pitfall regarding Inference to the Best Explanation
+  body: Inference to the Best Explanation is only as strong as the candidate set considered;
+    its central failure mode is inference to the only explanation thought of, in which
+    a hypothesis is endorsed because no alternative was generated rather than because
+    the alternatives generated were defeated, and this collapse is the most common
+    abuse of the form in casual reasoning.

@@ -1,0 +1,78 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-batch-02-pkm-architecture",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-batch-02-pkm-architecture.md",
+    "notes": "PKM & Knowledge Architecture cluster. Seeds the foundational\nnotetaking-method concepts (Zettelkasten lineage, Forte's CODE/PARA\nlineage, MOC architecture) so downstream notes link into a coherent\nPKM sub-graph."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-batch-02-pkm-architecture",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-batch-02-pkm-architecture"
+  },
+  "counts": {
+    "parsed": 9,
+    "accepted": 9,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Progressive Summarization",
+      "kebab": "progressive-summarization",
+      "brief_path": "briefs/2026-04-25-batch-02-pkm-architecture/progressive-summarization.yaml",
+      "expected_seed_filename": "progressive-summarization-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Literature Notes",
+      "kebab": "literature-notes",
+      "brief_path": "briefs/2026-04-25-batch-02-pkm-architecture/literature-notes.yaml",
+      "expected_seed_filename": "literature-notes-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Fleeting Notes",
+      "kebab": "fleeting-notes",
+      "brief_path": "briefs/2026-04-25-batch-02-pkm-architecture/fleeting-notes.yaml",
+      "expected_seed_filename": "fleeting-notes-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Commonplace Book",
+      "kebab": "commonplace-book",
+      "brief_path": "briefs/2026-04-25-batch-02-pkm-architecture/commonplace-book.yaml",
+      "expected_seed_filename": "commonplace-book-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Knowledge Graph Topology",
+      "kebab": "knowledge-graph-topology",
+      "brief_path": "briefs/2026-04-25-batch-02-pkm-architecture/knowledge-graph-topology.yaml",
+      "expected_seed_filename": "knowledge-graph-topology-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Evergreen Notes",
+      "kebab": "evergreen-notes",
+      "brief_path": "briefs/2026-04-25-batch-02-pkm-architecture/evergreen-notes.yaml",
+      "expected_seed_filename": "evergreen-notes-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Maps of Content",
+      "kebab": "maps-of-content",
+      "brief_path": "briefs/2026-04-25-batch-02-pkm-architecture/maps-of-content.yaml",
+      "expected_seed_filename": "maps-of-content-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Atomic Notes",
+      "kebab": "atomic-notes",
+      "brief_path": "briefs/2026-04-25-batch-02-pkm-architecture/atomic-notes.yaml",
+      "expected_seed_filename": "atomic-notes-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Knowledge Graph",
+      "kebab": "knowledge-graph",
+      "brief_path": "briefs/2026-04-25-batch-02-pkm-architecture/knowledge-graph.yaml",
+      "expected_seed_filename": "knowledge-graph-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

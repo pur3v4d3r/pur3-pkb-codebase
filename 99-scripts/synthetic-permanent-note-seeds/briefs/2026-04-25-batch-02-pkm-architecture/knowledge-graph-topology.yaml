@@ -1,0 +1,36 @@
+concept: Knowledge Graph Topology
+domain: pkm
+secondary_domains:
+- graph-theory
+- knowledge-management
+aliases:
+- PKM graph topology
+broader:
+- knowledge-graph
+related:
+- maps-of-content
+- atomic-notes
+- the-link-supremacy-thesis
+prerequisites:
+- knowledge-graph
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Graph Topology
+  body: Knowledge Graph Topology is the structural shape of a personal knowledge graph
+    — the distribution of node degrees, the presence and size of connected components,
+    the prevalence of hubs versus orphans — and is the lens through which the health
+    of a notes network can be diagnosed independently of the content of any single
+    note.
+- type: key-claim
+  title: Key claim about Knowledge Graph Topology
+  body: 'Knowledge Graph Topology, not raw note count, predicts whether a PKM will
+    support discovery: a graph with hubs and short path lengths surfaces unexpected
+    connections, while a graph with the same notes but tree-like topology behaves
+    like a folder system that merely happens to support links.'
+- type: warning
+  title: Common pitfall regarding Knowledge Graph Topology
+  body: Optimizing Knowledge Graph Topology by adding links indiscriminately — to
+    make the network look denser — produces a graph in which everything is close to
+    everything and nothing is meaningfully proximate, which destroys the discriminative
+    value that made topology informative in the first place.

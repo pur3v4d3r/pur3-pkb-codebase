@@ -1,0 +1,36 @@
+concept: Need for Cognition
+domain: motivational-psychology
+secondary_domains:
+- personality-psychology
+- social-cognition
+aliases:
+- NFC
+broader:
+- individual-differences
+related:
+- intellectual-humility
+- dual-process-theory
+- cognitive-miserliness
+prerequisites:
+- dual-process-theory
+confidence: high
+callouts:
+- type: definition
+  title: Need for Cognition
+  body: Need for Cognition is the stable individual-difference dimension introduced
+    by Cacioppo and Petty that captures the extent to which a person enjoys and seeks
+    out effortful cognitive activity for its own sake, with high-NFC individuals voluntarily
+    engaging in deliberation that low-NFC individuals avoid.
+- type: key-claim
+  title: Key claim about Need for Cognition
+  body: Need for Cognition predicts a wide pattern of consequential behavior — from
+    message processing under the elaboration likelihood model to academic persistence
+    and resistance to cognitive miserliness — by capturing the chronic disposition
+    to deploy System-2 processing when System-1 would have sufficed for immediate
+    action.
+- type: warning
+  title: Common pitfall regarding Need for Cognition
+  body: Need for Cognition is sometimes treated as a proxy for cognitive ability;
+    the construct is an enjoyment-and-seeking measure orthogonal to ability, and conflating
+    the two erases the theoretically central distinction between can and wants-to
+    think hard.

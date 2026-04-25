@@ -1,0 +1,35 @@
+concept: Knowledge Compilation
+domain: cognitive-science
+secondary_domains:
+- cognitive-architecture
+- expertise
+aliases:
+- proceduralization
+broader:
+- schema-automation
+related:
+- automaticity
+- deliberate-practice
+- the-power-law-of-practice
+prerequisites:
+- declarative-memory
+- procedural-memory
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Compilation
+  body: Knowledge Compilation is the process — central to ACT-R-style cognitive architectures
+    — by which slow, interpreted declarative knowledge is gradually converted into
+    fast, domain-specific procedural rules through repeated application, producing
+    the speed and effortlessness characteristic of expertise.
+- type: key-claim
+  title: Key claim about Knowledge Compilation
+  body: 'Knowledge Compilation explains why expertise development is non-substitutable
+    by mere reading: the procedural-rule layer can only be constructed by actual rule-application,
+    which is why "knowing about" a skill is causally distinct from "being able to"
+    perform it.'
+- type: warning
+  title: Common pitfall regarding Knowledge Compilation
+  body: Knowledge Compilation produces speed and accuracy at the cost of flexibility;
+    compiled procedures resist re-decomposition, which is why expert performance can
+    be brittle when the task surface changes in ways the compiled rules cannot inspect.

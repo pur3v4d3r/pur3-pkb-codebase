@@ -1,0 +1,38 @@
+concept: Probabilistic Thinking
+domain: critical-thinking
+secondary_domains:
+- decision-making
+- statistics
+aliases:
+- probabilistic reasoning
+broader:
+- critical-thinking
+related:
+- bayesian-reasoning
+- base-rate-neglect
+- calibration
+- cognitive-bias
+prerequisites:
+- critical-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Probabilistic Thinking
+  body: Probabilistic Thinking is the disposition and skill of representing uncertain
+    claims as ranges of probability rather than as binary truths, of attending to
+    the base rates and reference classes that determine those probabilities, and of
+    updating them in light of new evidence in roughly the direction Bayes' theorem
+    prescribes.
+- type: key-claim
+  title: Key claim about Probabilistic Thinking
+  body: 'Probabilistic Thinking is the disposition that most reliably distinguishes
+    superforecasters from chance-level predictors in the long-running forecasting
+    tournaments: not formal Bayesian computation, but the chronic habit of refusing
+    to collapse uncertain claims into binary categories and of updating in small increments
+    as evidence accumulates.'
+- type: warning
+  title: Common pitfall regarding Probabilistic Thinking
+  body: Probabilistic Thinking is sometimes confused with hedging — surrounding every
+    claim with qualifications — when the theoretically central feature is calibration
+    of explicit probabilities, not the verbal softening of confidence; vague hedging
+    without a probability range fails to deliver the discipline of the practice.
