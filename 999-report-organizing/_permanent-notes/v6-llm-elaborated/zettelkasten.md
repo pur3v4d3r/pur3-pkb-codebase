@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Personal Knowledge Management"
 
 related:
-  - "[[Wiki-Links]]"
-  - "[[Obsidian]]"
-  - "[[Evergreen Notes]]"
+  - "[[wiki-links]]"
+  - "[[obsidian]]"
+  - "[[evergreen-notes]]"
 prerequisites:
-  - "[[Wiki-Links]]"
+  - "[[wiki-links]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,8 +49,8 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Obsidian]]"
-  - "[[Evergreen Notes]]"
+  - "[[obsidian]]"
+  - "[[evergreen-notes]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Zettelkasten
 
 > [!definition] **Zettelkasten**
-> The Zettelkasten is a note-taking system developed by sociologist Niklas Luhmann where each idea is captured as an atomic note, linked to related notes, and accumulated over time into a knowledge base. It falls under [[Personal Knowledge Management]], focusing on rich linking and the accumulation of atomic notes rather than mere volume or linear thinking processes.
+> The Zettelkasten is a note-taking system developed by sociologist Niklas Luhmann where each idea is captured as an atomic note, linked to related notes, and accumulated over time into a knowledge base. It falls under [[personal-knowledge-management]], focusing on rich linking and the accumulation of atomic notes rather than mere volume or linear thinking processes.
 
 > [!attention] **Boundary**
 > This concept excludes other note-taking systems that do not focus on rich linking and accumulation of atomic notes. It does not encompass individual notes or linear thinking processes alone.
@@ -133,10 +133,10 @@ The concept of Zettelkasten also has implications beyond personal knowledge mana
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Prerequisites:** [[Wiki-Links]]
+**Prerequisites:** [[wiki-links]]
 
-**Applies to:** [[Obsidian]] · [[Evergreen Notes]]
+**Applies to:** [[obsidian]] · [[evergreen-notes]]
 
 **Source:** [[zettelkasten-synthetic-seed-2026-04-24]]

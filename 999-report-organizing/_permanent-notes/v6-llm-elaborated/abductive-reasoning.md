@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Inference to the Best Explanation]]"
-  - "[[Deductive Reasoning]]"
-  - "[[Inductive Reasoning]]"
+  - "[[inference-to-the-best-explanation]]"
+  - "[[deductive-reasoning]]"
+  - "[[inductive-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,10 +43,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Inference to the Best Explanation]]"
+  - "[[inference-to-the-best-explanation]]"
 contrasts-with:
-  - "[[Deductive Reasoning]]"
-  - "[[Inductive Reasoning]]"
+  - "[[deductive-reasoning]]"
+  - "[[inductive-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Abductive Reasoning
 
 > [!definition] **Abductive Reasoning**
-> Abductive Reasoning involves forming hypotheses that best explain observed evidence, a concept formalized by C.S. Peirce and further developed by Peter Lipton, which distinguishes it from deduction (guaranteed conclusions) and induction (patterns from observations). It falls under [[Inference to the Best Explanation]], where one accepts a hypothesis because it provides the *best available explanation* for the observed evidence.
+> Abductive Reasoning involves forming hypotheses that best explain observed evidence, a concept formalized by C.S. Peirce and further developed by Peter Lipton, which distinguishes it from deduction (guaranteed conclusions) and induction (patterns from observations). It falls under [[inference-to-the-best-explanation]], where one accepts a hypothesis because it provides the *best available explanation* for the observed evidence.
 
 > [!attention] **Boundary**
 > This concept excludes deductive reasoning (which guarantees conclusions) and inductive reasoning (which extends patterns from observations).
@@ -135,8 +135,8 @@ Understanding Abductive Reasoning is crucial because it serves as the generative
 
 ## Connections & Context
 
-**Sibling concepts:** [[Inference to the Best Explanation]]
+**Sibling concepts:** [[inference-to-the-best-explanation]]
 
-**Contrasts with:** [[Deductive Reasoning]] · [[Inductive Reasoning]]
+**Contrasts with:** [[deductive-reasoning]] · [[inductive-reasoning]]
 
 **Source:** [[abductive-reasoning-synthetic-seed-2026-04-24]]

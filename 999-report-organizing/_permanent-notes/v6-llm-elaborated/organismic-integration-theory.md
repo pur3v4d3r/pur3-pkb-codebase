@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Goal Contents Theory]]"
-  - "[[Controlling Teaching Styles]]"
+  - "[[goal-contents-theory]]"
+  - "[[controlling-teaching-styles]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Goal Contents Theory]]"
-  - "[[Controlling Teaching Styles]]"
+  - "[[goal-contents-theory]]"
+  - "[[controlling-teaching-styles]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Organismic Integration Theory
 
 > [!definition] **Organismic Integration Theory**
-> Organismic Integration Theory (OIT) is a sub-theory of Self-Determination Theory that describes the process through which behaviors not done for their own sake can come to be self-endorsed, operationalizing the internalization continuum. It falls under [[Self-Determination Theory]], focusing on extrinsic motivation and its transformation into integrated regulation, while excluding intrinsic motivation or other psychological theories outside of SDT.
+> Organismic Integration Theory (OIT) is a sub-theory of Self-Determination Theory that describes the process through which behaviors not done for their own sake can come to be self-endorsed, operationalizing the internalization continuum. It falls under [[self-determination-theory]], focusing on extrinsic motivation and its transformation into integrated regulation, while excluding intrinsic motivation or other psychological theories outside of SDT.
 
 > [!attention] **Boundary**
 > This theory focuses on extrinsic motivation and its transformation into integrated regulation. It does not address intrinsic motivation or other psychological theories outside of SDT.
@@ -132,8 +132,8 @@ The importance of OIT extends beyond educational psychology into other domains s
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Contrasts with:** [[Goal Contents Theory]] · [[Controlling Teaching Styles]]
+**Contrasts with:** [[goal-contents-theory]] · [[controlling-teaching-styles]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

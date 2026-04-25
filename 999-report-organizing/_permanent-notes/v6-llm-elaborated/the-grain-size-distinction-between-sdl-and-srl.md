@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Directed Learning]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[self-directed-learning]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,8 +45,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Directed Learning]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[self-directed-learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -76,7 +76,7 @@ provenance:
 # The Grain-Size Distinction Between SDL and SRL
 
 > [!definition] **The Grain-Size Distinction Between SDL and SRL**
-> Self-regulated learning (SRL) focuses on managing cognitive, motivational, and behavioral processes within a defined task, while self-directed learning (SDL) encompasses the broader management of an entire learning project from need identification to evaluation. This distinction excludes specific teaching methods or individual psychological traits but includes the interplay between SRL and SDL in comprehensive learner autonomy, falling under [[Self-Regulated Learning]].
+> Self-regulated learning (SRL) focuses on managing cognitive, motivational, and behavioral processes within a defined task, while self-directed learning (SDL) encompasses the broader management of an entire learning project from need identification to evaluation. This distinction excludes specific teaching methods or individual psychological traits but includes the interplay between SRL and SDL in comprehensive learner autonomy, falling under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This distinction excludes other aspects such as specific teaching methods or individual psychological traits but includes the interplay between SRL and SDL in comprehensive learner autonomy.
@@ -135,8 +135,8 @@ This distinction also has broader implications across adult education and lifelo
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Directed Learning]] · [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-directed-learning]] · [[self-regulated-learning]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]

@@ -37,9 +37,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Cognitive Evaluation Theory]]"
+  - "[[cognitive-evaluation-theory]]"
   - "[[Intrinsic Motivation and Extrinsic Motivation]]"
-  - "[[Autonomy-Support]]"
+  - "[[autonomy-support]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,13 +47,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Evaluation Theory]]"
+  - "[[cognitive-evaluation-theory]]"
 contrasts-with:
   - "[[Intrinsic Motivation and Extrinsic Motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomy-Support]]"
+  - "[[autonomy-support]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Perceived Locus of Causality
 
 > [!definition] **Perceived Locus of Causality**
-> The individual's subjective attribution of the origin of action — whether behavior is experienced as self-initiated (internal PLOC) or driven by external forces (external PLOC). This concept falls under [[Self-Regulated Learning]], where it bridges metatheory and mechanism, translating environmental events into motivational consequences.
+> The individual's subjective attribution of the origin of action — whether behavior is experienced as self-initiated (internal PLOC) or driven by external forces (external PLOC). This concept falls under [[self-regulated-learning]], where it bridges metatheory and mechanism, translating environmental events into motivational consequences.
 
 > [!attention] **Boundary**
 > PLOC is a subjective experience and not an objective classification. It bridges metatheory and mechanism in Self-Determination Theory.
@@ -133,12 +133,12 @@ PLOC also connects to other concepts like intrinsic versus extrinsic motivation 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Cognitive Evaluation Theory]]
+**Sibling concepts:** [[cognitive-evaluation-theory]]
 
 **Contrasts with:** [[Intrinsic Motivation and Extrinsic Motivation]]
 
-**Applies to:** [[Autonomy-Support]]
+**Applies to:** [[autonomy-support]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

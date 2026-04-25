@@ -34,23 +34,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[self-regulated-learning]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Cognitive Safety Net
 
 > [!definition] **Cognitive Safety Net**
-> A cognitive safety net is a structure or practice that reduces the psychological cost of failure, thereby increasing willingness to attempt challenging or uncertain tasks. It falls under [[Cognitive Architecture]], as it enables reversible experimentation and enhances self-efficacy (confidence in one's ability to succeed). In software development, Git’s version control serves as a cognitive safety net by making every state of the code recoverable, which converts risky activities into safe ones.
+> A cognitive safety net is a structure or practice that reduces the psychological cost of failure, thereby increasing willingness to attempt challenging or uncertain tasks. It falls under [[cognitive-architecture]], as it enables reversible experimentation and enhances self-efficacy (confidence in one's ability to succeed). In software development, Git’s version control serves as a cognitive safety net by making every state of the code recoverable, which converts risky activities into safe ones.
 
 > [!attention] **Boundary**
 > This concept excludes specific tools and technologies but focuses on the broader principle of reducing psychological barriers through reversibility and recovery mechanisms.
@@ -130,12 +130,12 @@ The concept of cognitive safety nets also intersects with other related concepts
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[python-development-in-vscode-with-copilot-annotated-critical-analysis-2026-04-19]]

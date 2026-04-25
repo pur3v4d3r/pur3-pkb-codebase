@@ -32,19 +32,19 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Schema Theory]]"
-  - "[[Accommodation]]"
+  - "[[schema-theory]]"
+  - "[[accommodation]]"
   - "[[Piagetian Developmental Stages]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Accommodation]]"
+  - "[[accommodation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Assimilation
 
 > [!definition] **Assimilation**
-> Assimilation is the process by which new information is incorporated into existing schemas without altering them, a key component of Piaget's theory of cognitive development. It falls under [[Cognitive Architecture]], where it operates as the default response to novelty: the system attempts to interpret new input through existing structure before considering structural revision.
+> Assimilation is the process by which new information is incorporated into existing schemas without altering them, a key component of Piaget's theory of cognitive development. It falls under [[cognitive-architecture]], where it operates as the default response to novelty: the system attempts to interpret new input through existing structure before considering structural revision.
 
 > [!attention] **Boundary**
 > This concept excludes structural changes to schemas (accommodation) and broader theories of learning such as constructivism or behaviorism.
@@ -131,11 +131,11 @@ The importance of assimilation extends beyond individual cognition to broader th
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Schema Theory]]
+**Generalizes to:** [[schema-theory]]
 
-**Contrasts with:** [[Accommodation]]
+**Contrasts with:** [[accommodation]]
 
 **Applies to:** [[Piagetian Developmental Stages]]
 

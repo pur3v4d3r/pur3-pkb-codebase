@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Transactive Memory Systems
 
 > [!definition] **Transactive Memory Systems**
-> Transactive Memory Systems represent a shared cognitive division of labor where group members encode, store, and retrieve information by relying on each other as specialized memory stores, rather than duplicating the knowledge themselves. This concept falls under [[Cognitive Architecture]], focusing specifically on the interdependent nature of knowledge distribution within groups.
+> Transactive Memory Systems represent a shared cognitive division of labor where group members encode, store, and retrieve information by relying on each other as specialized memory stores, rather than duplicating the knowledge themselves. This concept falls under [[cognitive-architecture]], focusing specifically on the interdependent nature of knowledge distribution within groups.
 
 > [!attention] **Boundary**
 > This concept excludes individual memory systems and focuses specifically on the interdependent nature of knowledge distribution within groups. It should not be confused with externalized cognitive architectures or distributed cognition alone.
@@ -130,10 +130,10 @@ The application of Transactive Memory Systems extends to various domains such as
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[transactive-memory-systems-synthetic-seed-2026-04-25]]

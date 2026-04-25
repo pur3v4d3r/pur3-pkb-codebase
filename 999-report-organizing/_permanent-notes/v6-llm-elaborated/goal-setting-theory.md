@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Achievement-Goal Theory]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Expectancy-Value Theory]]"
-  - "[[Implementation Intention]]"
+  - "[[achievement-goal-theory]]"
+  - "[[self-determination-theory]]"
+  - "[[expectancy-value-theory]]"
+  - "[[implementation-intention]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,14 +47,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Achievement-Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 contrasts-with:
-  - "[[Self-Determination Theory]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[expectancy-value-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implementation Intention]]"
+  - "[[implementation-intention]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Goal Setting Theory
 
 > [!definition] **Goal Setting Theory**
-> Goal Setting Theory posits that setting specific, challenging goals enhances performance by directing attention, increasing effort, and improving task strategies. It falls under [[Motivational Psychology]], but applies only to conscious, accepted goals on quantifiable tasks where the performer has sufficient ability; it does not address subconscious or rejected goals nor tasks without adequate strategy.
+> Goal Setting Theory posits that setting specific, challenging goals enhances performance by directing attention, increasing effort, and improving task strategies. It falls under [[motivational-psychology]], but applies only to conscious, accepted goals on quantifiable tasks where the performer has sufficient ability; it does not address subconscious or rejected goals nor tasks without adequate strategy.
 
 > [!attention] **Boundary**
 > The theory applies to conscious, accepted goals on quantifiable tasks where the performer has sufficient ability; it does not address subconscious or rejected goals nor tasks without adequate strategy.
@@ -138,12 +138,12 @@ The theory's dynamic nature, as captured by the High Performance Cycle, undersco
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Sibling concepts:** [[Achievement-Goal Theory]]
+**Sibling concepts:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Self-Determination Theory]] · [[Expectancy-Value Theory]]
+**Contrasts with:** [[self-determination-theory]] · [[expectancy-value-theory]]
 
-**Applies to:** [[Implementation Intention]]
+**Applies to:** [[implementation-intention]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

@@ -2,6 +2,7 @@
 title: "Type 2 Processing"
 aliases:
   - "Type 2 Processing"
+  - "Type-2 Processing"
   - "Dual Process Theory"
   - "Two Systems Theory"
   - "System 1 and System 2"
@@ -36,11 +37,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[System 1 Processing]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -52,7 +53,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +77,7 @@ provenance:
 # Type 2 Processing
 
 > [!definition] **Type 2 Processing**
-> Type 2 processing is a style of cognitive processing that requires working memory, deliberate engagement, and outputs that feel like judgments. It falls under [[Cognitive Architecture]], characterized by effortful reasoning and can be biased or motivated. Unlike Type 1 processing, it is not synonymous with 'rationality' or 'consciousness' in the broadest sense; rather, it is a specific mode of cognitive processing distinct from Type 1.
+> Type 2 processing is a style of cognitive processing that requires working memory, deliberate engagement, and outputs that feel like judgments. It falls under [[cognitive-architecture]], characterized by effortful reasoning and can be biased or motivated. Unlike Type 1 processing, it is not synonymous with 'rationality' or 'consciousness' in the broadest sense; rather, it is a specific mode of cognitive processing distinct from Type 1.
 
 > [!attention] **Boundary**
 > Not synonymous with 'rationality' or 'consciousness' in the broadest sense; it is a specific mode of cognitive processing distinct from Type 1 processing.
@@ -137,12 +138,12 @@ The dual-process framework has significant implications for fields like psycholo
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[System 1 Processing]]
 
-**Applies to:** [[Cognitive Load Theory]]
+**Applies to:** [[cognitive-load-theory]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

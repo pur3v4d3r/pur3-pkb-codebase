@@ -32,14 +32,14 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Assimilation]]"
-  - "[[Accommodation]]"
-  - "[[Productive Failure]]"
-  - "[[Conceptual Change]]"
-  - "[[Genetic Epistemology]]"
+  - "[[assimilation]]"
+  - "[[accommodation]]"
+  - "[[productive-failure]]"
+  - "[[conceptual-change]]"
+  - "[[genetic-epistemology]]"
 prerequisites:
-  - "[[Assimilation]]"
-  - "[[Accommodation]]"
+  - "[[assimilation]]"
+  - "[[accommodation]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,14 +51,14 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Productive Failure]]"
-  - "[[Conceptual Change]]"
+  - "[[productive-failure]]"
+  - "[[conceptual-change]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Genetic Epistemology]]"
+  - "[[genetic-epistemology]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Cognitive Disequilibrium
 
 > [!definition] **Cognitive Disequilibrium**
-> Cognitive Disequilibrium refers to the state where new information conflicts with existing schemas, leading to confusion or contradiction that motivates schema restructuring. It falls under [[Cognitive Architecture]], as it is a fundamental process in how learners adapt their cognitive structures to accommodate new knowledge.
+> Cognitive Disequilibrium refers to the state where new information conflicts with existing schemas, leading to confusion or contradiction that motivates schema restructuring. It falls under [[cognitive-architecture]], as it is a fundamental process in how learners adapt their cognitive structures to accommodate new knowledge.
 
 > [!attention] **Boundary**
 > This concept excludes situations where learners are not capable of resolving the disequilibrium, which can lead to frustration rather than learning.
@@ -135,12 +135,12 @@ Moreover, the interplay between assimilation and accommodation in cognitive dise
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Assimilation]] · [[Accommodation]]
+**Prerequisites:** [[assimilation]] · [[accommodation]]
 
-**Applies to:** [[Productive Failure]] · [[Conceptual Change]]
+**Applies to:** [[productive-failure]] · [[conceptual-change]]
 
-**Supports:** [[Genetic Epistemology]]
+**Supports:** [[genetic-epistemology]]
 
 **Source:** [[cognitive-disequilibrium-synthetic-seed-2026-04-24]]

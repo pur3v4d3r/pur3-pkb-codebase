@@ -2,6 +2,7 @@
 title: "Dual Coding Theory"
 aliases:
   - "Dual Coding Theory"
+  - "Dual-Coding Theory"
   - "dual-coding"
   - "DCT"
   - "Paivio's theory"
@@ -34,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,7 +46,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +74,7 @@ provenance:
 # Dual Coding Theory
 
 > [!definition] **Dual Coding Theory**
-> Dual Coding Theory posits that human cognition involves two distinct symbolic systems: a verbal system processing language-like representations and a non-verbal imagery system handling analog representations, which interact bidirectionally to support memory and meaning. This theory falls under [[Cognitive Architecture]], excluding single-system models like those based purely on language or imagery alone.
+> Dual Coding Theory posits that human cognition involves two distinct symbolic systems: a verbal system processing language-like representations and a non-verbal imagery system handling analog representations, which interact bidirectionally to support memory and meaning. This theory falls under [[cognitive-architecture]], excluding single-system models like those based purely on language or imagery alone.
 
 > [!attention] **Boundary**
 > This theory excludes single-system models like those based purely on language or imagery alone. It also does not encompass all aspects of cognitive psychology but focuses specifically on how these dual systems interact in information processing.
@@ -136,10 +137,10 @@ Empirical research has consistently supported Dual Coding Theory by demonstratin
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
 **Source:** [[dual-coding-theory-synthetic-seed-2026-04-24]]

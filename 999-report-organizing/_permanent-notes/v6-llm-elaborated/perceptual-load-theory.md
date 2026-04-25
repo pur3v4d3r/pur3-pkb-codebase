@@ -32,23 +32,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Selective Attention]]"
-  - "[[Inattentional Blindness]]"
+  - "[[working-memory]]"
+  - "[[selective-attention]]"
+  - "[[inattentional-blindness]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Selective Attention]]"
+  - "[[selective-attention]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Inattentional Blindness]]"
+  - "[[inattentional-blindness]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Perceptual Load Theory
 
 > [!definition] **Perceptual Load Theory**
-> Perceptual Load Theory, developed by Nilli Lavie in the 1990s, explains how the allocation of attentional resources depends on the perceptual demands of a task, influencing whether irrelevant stimuli are processed or ignored. It falls under [[Cognitive Architecture]], focusing specifically on the role of perceptual load in determining selective attention and does not address other forms of cognitive load such as working memory capacity.
+> Perceptual Load Theory, developed by Nilli Lavie in the 1990s, explains how the allocation of attentional resources depends on the perceptual demands of a task, influencing whether irrelevant stimuli are processed or ignored. It falls under [[cognitive-architecture]], focusing specifically on the role of perceptual load in determining selective attention and does not address other forms of cognitive load such as working memory capacity.
 
 > [!attention] **Boundary**
 > This theory focuses specifically on the role of perceptual load in determining selective attention and does not address other forms of cognitive load such as working memory capacity.
@@ -131,12 +131,12 @@ The theory also complements other theories of selective attention, offering a sp
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Selective Attention]]
+**Sibling concepts:** [[selective-attention]]
 
-**Applies to:** [[Inattentional Blindness]]
+**Applies to:** [[inattentional-blindness]]
 
 **Source:** [[perceptual-load-theory-synthetic-seed-2026-04-25]]

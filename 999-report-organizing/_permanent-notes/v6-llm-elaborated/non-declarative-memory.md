@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Memory Systems"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Declarative Memory]]"
+  - "[[working-memory]]"
+  - "[[declarative-memory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -43,7 +43,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Declarative Memory]]"
+  - "[[declarative-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -71,7 +71,7 @@ provenance:
 # Non-Declarative Memory
 
 > [!definition] **Non-Declarative Memory**
-> Non-Declarative Memory is an umbrella category for long-term memory subsystems whose contents influence behavior without conscious recollection, including procedural memory, priming, conditioning, and habituation. It falls under [[Memory Systems]], establishing that the influence on behavior is not the same as availability to introspection.
+> Non-Declarative Memory is an umbrella category for long-term memory subsystems whose contents influence behavior without conscious recollection, including procedural memory, priming, conditioning, and habituation. It falls under [[memory-systems]], establishing that the influence on behavior is not the same as availability to introspection.
 
 > [!attention] **Boundary**
 > This concept excludes declarative memory, which involves consciously accessible information such as facts and events. Non-Declarative Memory is typically intact in patients with declarative memory deficits.
@@ -130,10 +130,10 @@ The study of Non-Declarative Memory has profound implications for fields ranging
 
 ## Connections & Context
 
-**Falls under:** [[Memory Systems]]
+**Falls under:** [[memory-systems]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Declarative Memory]]
+**Contrasts with:** [[declarative-memory]]
 
 **Source:** [[non-declarative-memory-synthetic-seed-2026-04-24]]

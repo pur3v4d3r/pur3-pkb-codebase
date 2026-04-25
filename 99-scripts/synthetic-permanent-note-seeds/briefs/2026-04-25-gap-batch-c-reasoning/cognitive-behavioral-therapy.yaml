@@ -1,0 +1,38 @@
+concept: Cognitive Behavioral Therapy
+domain: clinical-psychology
+secondary_domains:
+- psychotherapy
+- motivational-psychology
+aliases:
+- CBT
+broader:
+- psychotherapy
+related:
+- cognitive-restructuring
+- behavioral-activation
+- attribution-retraining
+- learned-helplessness
+- explanatory-style
+prerequisites:
+- cognitive-restructuring
+- attribution-theory
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Behavioral Therapy
+  body: Cognitive Behavioral Therapy is a structured, time-limited psychotherapy in
+    which the therapist and client identify the interlocking thoughts, behaviours,
+    and emotional responses that maintain the presenting problem and intervene on
+    each in turn through cognitive restructuring, behavioural experiments, and homework.
+- type: key-claim
+  title: Key claim about Cognitive Behavioral Therapy
+  body: Cognitive Behavioral Therapy is the most empirically supported psychotherapy
+    across a wide range of disorders — depression, anxiety, OCD, PTSD, eating disorders
+    — and the active mechanism appears to be the modification of the thought-behaviour-emotion
+    loops rather than insight or therapeutic alliance alone.
+- type: warning
+  title: Common pitfall regarding Cognitive Behavioral Therapy
+  body: Cognitive Behavioral Therapy is widely diluted in self-help and workplace-wellness
+    contexts into "think positive" advice; this diluted Cognitive Behavioral Therapy
+    lacks the structured protocols, behavioural experiments, and clinical supervision
+    that produce the effect sizes the research literature reports.

@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Personal Knowledge Management"
 
 related:
-  - "[[Zettelkasten]]"
-  - "[[Progressive Summarization]]"
+  - "[[zettelkasten]]"
+  - "[[progressive-summarization]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,13 +42,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Progressive Summarization]]"
+  - "[[progressive-summarization]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Commonplace Book
 
 > [!definition] **Commonplace Book**
-> A Commonplace Book is a hand-kept manuscript where readers copy, index, and cross-reference quotations, observations, and arguments from various sources to organize them by topic for later reuse. It falls under [[Personal Knowledge Management]], as its core mechanic — topical re-grouping of fragments excerpted from many works — is the direct ancestor of every tag-based and link-based PKM system that followed.
+> A Commonplace Book is a hand-kept manuscript where readers copy, index, and cross-reference quotations, observations, and arguments from various sources to organize them by topic for later reuse. It falls under [[personal-knowledge-management]], as its core mechanic — topical re-grouping of fragments excerpted from many works — is the direct ancestor of every tag-based and link-based PKM system that followed.
 
 > [!attention] **Boundary**
 > It stops at the practice of hand-copying and indexing; modern digital tools like zettelkasten systems are considered their descendants but not direct equivalents.
@@ -131,10 +131,10 @@ The evolution from handwritten to digital commonplace books reflects broader cha
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Sibling concepts:** [[Zettelkasten]]
+**Sibling concepts:** [[zettelkasten]]
 
-**Applies to:** [[Progressive Summarization]]
+**Applies to:** [[progressive-summarization]]
 
 **Source:** [[commonplace-book-synthetic-seed-2026-04-25]]

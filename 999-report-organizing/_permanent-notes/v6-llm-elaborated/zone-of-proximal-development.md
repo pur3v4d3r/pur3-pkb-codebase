@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Scaffolding]]"
+  - "[[cognitive-load-theory]]"
+  - "[[scaffolding]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scaffolding]]"
+  - "[[scaffolding]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Zone of Proximal Development
 
 > [!definition] **Zone of Proximal Development**
-> The Zone of Proximal Development (ZPD) is a construct by Lev Vygotsky that defines the range of tasks a learner cannot yet perform independently but can accomplish with assistance from a more capable partner, distinguishing between what they have already mastered and what remains beyond their current capabilities. It falls under [[Cognitive Architecture]], reframing assessment from a measure of *current independent performance* to one of *learnability under support*, which is the predictive quantity instructional design actually needs.
+> The Zone of Proximal Development (ZPD) is a construct by Lev Vygotsky that defines the range of tasks a learner cannot yet perform independently but can accomplish with assistance from a more capable partner, distinguishing between what they have already mastered and what remains beyond their current capabilities. It falls under [[cognitive-architecture]], reframing assessment from a measure of *current independent performance* to one of *learnability under support*, which is the predictive quantity instructional design actually needs.
 
 > [!attention] **Boundary**
 > This concept excludes static measures of performance and focuses on learnability under support. It does not encompass general pedagogical advice or difficulty levels without the context of interaction and development.
@@ -131,10 +131,10 @@ Beyond education, the principles underlying ZPD have broader implications for fi
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
-**Applies to:** [[Scaffolding]]
+**Applies to:** [[scaffolding]]
 
 **Source:** [[zone-of-proximal-development-synthetic-seed-2026-04-24]]

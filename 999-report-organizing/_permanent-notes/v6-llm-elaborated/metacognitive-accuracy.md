@@ -33,12 +33,12 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Calibration]]"
-  - "[[Illusion-of-Knowing]]"
-  - "[[Judgment-of-Learning]]"
-  - "[[Retrospective-Confidence-Judgment]]"
+  - "[[calibration]]"
+  - "[[illusion-of-knowing]]"
+  - "[[judgment-of-learning]]"
+  - "[[retrospective-confidence-judgment]]"
 prerequisites:
-  - "[[Calibration]]"
+  - "[[calibration]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,12 +46,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Illusion-of-Knowing]]"
+  - "[[illusion-of-knowing]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Judgment-of-Learning]]"
-  - "[[Retrospective-Confidence-Judgment]]"
+  - "[[judgment-of-learning]]"
+  - "[[retrospective-confidence-judgment]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Metacognitive Accuracy
 
 > [!definition] **Metacognitive Accuracy**
-> Metacognitive Accuracy refers to the degree of correspondence between an individual's confidence in their knowledge or ability and their actual performance, often measured through calibration curves and statistical metrics like Goodman-Kruskal gamma and meta-d'. It falls under [[Cognitive Architecture]], where it is a partially dissociable cognitive capacity from first-order ability: two people with the same task accuracy can differ substantially in how well their confidence tracks their accuracy.
+> Metacognitive Accuracy refers to the degree of correspondence between an individual's confidence in their knowledge or ability and their actual performance, often measured through calibration curves and statistical metrics like Goodman-Kruskal gamma and meta-d'. It falls under [[cognitive-architecture]], where it is a partially dissociable cognitive capacity from first-order ability: two people with the same task accuracy can differ substantially in how well their confidence tracks their accuracy.
 
 > [!attention] **Boundary**
 > This concept excludes other aspects of metacognition such as self-efficacy and metacognitive strategies but focuses specifically on the accuracy of confidence judgments.
@@ -132,12 +132,12 @@ Metacognitive Accuracy is a crucial concept in cognitive science because it brid
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Calibration]]
+**Prerequisites:** [[calibration]]
 
-**Contrasts with:** [[Illusion-of-Knowing]]
+**Contrasts with:** [[illusion-of-knowing]]
 
-**Applies to:** [[Judgment-of-Learning]] · [[Retrospective-Confidence-Judgment]]
+**Applies to:** [[judgment-of-learning]] · [[retrospective-confidence-judgment]]
 
 **Source:** [[metacognitive-accuracy-synthetic-seed-2026-04-25]]

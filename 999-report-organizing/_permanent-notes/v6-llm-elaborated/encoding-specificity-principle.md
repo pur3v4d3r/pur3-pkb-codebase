@@ -2,6 +2,7 @@
 title: "Encoding Specificity Principle"
 aliases:
   - "Encoding Specificity Principle"
+  - "Encoding-Specificity Principle"
   - "encoding specificity"
   - "transfer-appropriate processing"
 type: permanent-note
@@ -33,9 +34,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Far-Transfer]]"
+  - "[[far-transfer]]"
   - "[[State-Dependent Memory]]"
-  - "[[Episodic Memory]]"
+  - "[[episodic-memory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +46,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Far-Transfer]]"
+  - "[[far-transfer]]"
   - "[[State-Dependent Memory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Episodic Memory]]"
+  - "[[episodic-memory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +75,7 @@ provenance:
 # Encoding Specificity Principle
 
 > [!definition] **Encoding Specificity Principle**
-> The Encoding Specificity Principle posits that retrieval is most effective when the cues present at retrieval overlap with those encoded during learning, making it a relational rather than absolute measure of memory strength. It falls under [[Cognitive Architecture]], where it highlights how context influences both memory formation and recall.
+> The Encoding Specificity Principle posits that retrieval is most effective when the cues present at retrieval overlap with those encoded during learning, making it a relational rather than absolute measure of memory strength. It falls under [[cognitive-architecture]], where it highlights how context influences both memory formation and recall.
 
 > [!attention] **Boundary**
 > This principle focuses on the relationship between encoding and retrieval contexts. It does not address absolute strength of memory traces or other cognitive processes like attention or motivation directly.
@@ -137,10 +138,10 @@ Moreover, the principle challenges traditional views of memory strength by empha
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Far-Transfer]] · [[State-Dependent Memory]]
+**Contrasts with:** [[far-transfer]] · [[State-Dependent Memory]]
 
-**Applies to:** [[Episodic Memory]]
+**Applies to:** [[episodic-memory]]
 
 **Source:** [[encoding-specificity-principle-synthetic-seed-2026-04-24]]

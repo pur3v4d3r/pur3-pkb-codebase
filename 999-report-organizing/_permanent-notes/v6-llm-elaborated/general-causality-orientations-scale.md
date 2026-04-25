@@ -34,13 +34,13 @@ parent-concept: "Self-Determination Theory"
 
 related:
   - "[[Autonomy-Orientation]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[Autonomy-Orientation]]"
 broader:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -72,7 +72,7 @@ provenance:
 # General Causality Orientations Scale
 
 > [!definition] **General Causality Orientations Scale**
-> The General Causality Orientations Scale (GCOS) is a self-report instrument that measures three relatively stable motivational orientations: autonomy, control, and impersonal. It assesses how individuals typically experience and regulate their actions in various situations, falling under [[Self-Determination Theory]]. This scale focuses on individual differences in motivational orientation but does not account for situational factors or short-term changes in motivation.
+> The General Causality Orientations Scale (GCOS) is a self-report instrument that measures three relatively stable motivational orientations: autonomy, control, and impersonal. It assesses how individuals typically experience and regulate their actions in various situations, falling under [[self-determination-theory]]. This scale focuses on individual differences in motivational orientation but does not account for situational factors or short-term changes in motivation.
 
 ## Core Explanation
 
@@ -136,10 +136,10 @@ Empirical evidence from numerous studies demonstrates that GCOS scores predict o
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
 **Specializes:** [[Autonomy-Orientation]]
 
-**Generalizes to:** [[Self-Determination Theory]]
+**Generalizes to:** [[self-determination-theory]]
 
 **Source:** [[general-causality-orientations-scale-synthetic-seed-2026-04-24]]

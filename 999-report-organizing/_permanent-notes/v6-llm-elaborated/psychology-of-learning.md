@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Learning Science"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Psychology of Learning
 
 > [!definition] **Psychology of Learning**
-> The Psychology of Learning is the study of how organisms acquire, retain, and modify knowledge and skills through various cognitive and behavioral mechanisms. It falls under [[Learning Science]], investigating a federation of processes including conditioning, perceptual learning, declarative encoding, skill acquisition, and social learning, each governed by distinct rules.
+> The Psychology of Learning is the study of how organisms acquire, retain, and modify knowledge and skills through various cognitive and behavioral mechanisms. It falls under [[learning-science]], investigating a federation of processes including conditioning, perceptual learning, declarative encoding, skill acquisition, and social learning, each governed by distinct rules.
 
 > [!attention] **Boundary**
 > It excludes broader fields like general cognitive science or specific educational practices without theoretical underpinnings. It also does not cover purely physiological aspects of learning such as brain chemistry alone.
@@ -132,10 +132,10 @@ The concept also intersects with related fields such as working memory and worke
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[psychology-of-learning-synthetic-seed-2026-04-24]]

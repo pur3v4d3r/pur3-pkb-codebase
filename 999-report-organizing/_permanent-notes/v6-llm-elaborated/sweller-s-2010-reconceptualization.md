@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Sweller's 2010 Reconceptualization of Cognitive Load
 
 > [!definition] **Sweller's 2010 Reconceptualization of Cognitive Load**
-> In Sweller's (2010) pivotal theoretical paper, germane load is redefined not as an independent source of cognitive load but rather as a description of how working memory resources are directed toward intrinsic cognitive load for learning purposes. This concept falls under [[Cognitive Architecture]], focusing on the manner in which intrinsic load is processed to facilitate schema construction.
+> In Sweller's (2010) pivotal theoretical paper, germane load is redefined not as an independent source of cognitive load but rather as a description of how working memory resources are directed toward intrinsic cognitive load for learning purposes. This concept falls under [[cognitive-architecture]], focusing on the manner in which intrinsic load is processed to facilitate schema construction.
 
 > [!attention] **Boundary**
 > This concept excludes the idea that germane load is an independent source of cognitive load and instead focuses on its role in schema construction within working memory.
@@ -131,10 +131,10 @@ This redefinition also contributes to the broader field of cognitive psychology 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

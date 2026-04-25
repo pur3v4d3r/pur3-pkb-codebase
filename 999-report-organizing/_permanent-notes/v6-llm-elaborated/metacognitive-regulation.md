@@ -32,19 +32,19 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Regulated Learning]]"
-  - "[[Metacognitive Knowledge]]"
+  - "[[self-regulated-learning]]"
+  - "[[metacognitive-knowledge]]"
   - "[[Planning-Monitoring-Evaluating Routines]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Metacognitive Knowledge]]"
+  - "[[metacognitive-knowledge]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Metacognitive Regulation
 
 > [!definition] **Metacognitive Regulation**
-> Metacognitive Regulation involves the active processes of planning (selecting strategies and allocating resources), monitoring (tracking comprehension and progress), and evaluating (judging the products and processes of learning). It falls under [[Self-Regulated Learning]], focusing on dynamic, process-oriented aspects rather than static knowledge.
+> Metacognitive Regulation involves the active processes of planning (selecting strategies and allocating resources), monitoring (tracking comprehension and progress), and evaluating (judging the products and processes of learning). It falls under [[self-regulated-learning]], focusing on dynamic, process-oriented aspects rather than static knowledge.
 
 > [!attention] **Boundary**
 > This concept excludes metacognitive knowledge, which is declarative understanding about cognition. Metacognitive Regulation focuses on the dynamic processes rather than static knowledge.
@@ -134,11 +134,11 @@ Understanding Metacognitive Regulation also bridges the gap between intrinsic an
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Self-Regulated Learning]]
+**Generalizes to:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Metacognitive Knowledge]]
+**Contrasts with:** [[metacognitive-knowledge]]
 
 **Applies to:** [[Planning-Monitoring-Evaluating Routines]]
 

@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Automaticity]]"
-  - "[[Declarative Schemas]]"
+  - "[[automaticity]]"
+  - "[[declarative-schemas]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
 contrasts-with:
-  - "[[Declarative Schemas]]"
+  - "[[declarative-schemas]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Procedural Schemas
 
 > [!definition] **Procedural Schemas**
-> Procedural Schemas are structured sets of condition-action rules that encode how to perform tasks, becoming increasingly automatic and tacit with practice (in contrast to declarative schemas which deal with what is known). It falls under [[Cognitive Architecture]], particularly in cognitive architectures like ACT-R where these schemas are formalized as condition-action production rules.
+> Procedural Schemas are structured sets of condition-action rules that encode how to perform tasks, becoming increasingly automatic and tacit with practice (in contrast to declarative schemas which deal with what is known). It falls under [[cognitive-architecture]], particularly in cognitive architectures like ACT-R where these schemas are formalized as condition-action production rules.
 
 > [!attention] **Boundary**
 > This concept excludes the encoding and retrieval of factual information (declarative schemas) and focuses on the procedural aspects of task performance.
@@ -131,10 +131,10 @@ Moreover, the study of Procedural Schemas has significant implications for field
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Automaticity]]
+**Sibling concepts:** [[automaticity]]
 
-**Contrasts with:** [[Declarative Schemas]]
+**Contrasts with:** [[declarative-schemas]]
 
 **Source:** [[procedural-schemas-synthetic-seed-2026-04-24]]

@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Modality Effect
 
 > [!definition] **Modality Effect**
-> The Modality Effect refers to the enhancement of working memory capacity when information is presented through both auditory and visual channels, rather than a single channel, as it distributes processing across the phonological loop and visuospatial sketchpad. It falls under Cognitive Load Theory, where it requires that the two sources provide genuinely complementary information and that the auditory channel is not overloaded; otherwise, it can increase extraneous load. It falls under [[Cognitive Architecture]].
+> The Modality Effect refers to the enhancement of working memory capacity when information is presented through both auditory and visual channels, rather than a single channel, as it distributes processing across the phonological loop and visuospatial sketchpad. It falls under Cognitive Load Theory, where it requires that the two sources provide genuinely complementary information and that the auditory channel is not overloaded; otherwise, it can increase extraneous load. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This effect requires that the two sources provide complementary information and does not apply if the auditory channel is overloaded. It interacts with redundancy effects in multimedia learning theory.
@@ -137,10 +137,10 @@ The Modality Effect underscores the need for a nuanced approach to instructional
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

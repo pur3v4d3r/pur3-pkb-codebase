@@ -1,0 +1,38 @@
+concept: Goal Orientation Framework
+domain: motivational-psychology
+secondary_domains:
+- achievement-goal-theory
+- organizational-psychology
+aliases:
+- goal-orientation theory
+- GO framework
+broader:
+- achievement-goal-theory
+related:
+- mastery-vs-performance-goals
+- 2x2-framework
+- implicit-theory-of-intelligence
+- learning-goal-orientation
+prerequisites:
+- achievement-goal-theory
+confidence: high
+callouts:
+- type: definition
+  title: Goal Orientation Framework
+  body: The Goal Orientation Framework is a body of theory in achievement and organisational
+    psychology that classifies the dispositional and situational reasons learners
+    or workers engage with achievement tasks, originally as mastery versus performance
+    and later refined into the 2x2 Elliot-McGregor matrix.
+- type: key-claim
+  title: Key claim about Goal Orientation Framework
+  body: The Goal Orientation Framework predicts a coherent pattern of cognitive, affective,
+    and behavioural outcomes — strategy use, persistence, anxiety, help-seeking —
+    that the simpler intrinsic-vs-extrinsic motivation distinction does not, which
+    is why the Goal Orientation Framework remains the dominant taxonomy in achievement-motivation
+    research.
+- type: warning
+  title: Common pitfall regarding Goal Orientation Framework
+  body: The Goal Orientation Framework is often applied as a static trait classification,
+    but goal orientations are partly situational and partly induced by classroom and
+    workplace climate; treating the Goal Orientation Framework as a fixed personality
+    categorisation misses the design lever that situational induction provides.

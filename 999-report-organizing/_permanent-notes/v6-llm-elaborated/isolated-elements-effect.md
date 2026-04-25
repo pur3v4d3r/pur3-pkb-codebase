@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Isolated Elements Effect
 
 > [!definition] **Isolated Elements Effect**
-> The Isolated Elements Effect is a finding that suggests learning can be improved by initially presenting elements of complex material in isolation before reintroducing their interrelations once the elements have been encoded. It falls under [[Cognitive Load Theory]], specifically addressing how managing intrinsic load through initial element isolation enhances learning, while stopping at the point where relational structure is re-introduced and not including long-term memory consolidation or automaticity development.
+> The Isolated Elements Effect is a finding that suggests learning can be improved by initially presenting elements of complex material in isolation before reintroducing their interrelations once the elements have been encoded. It falls under [[cognitive-load-theory]], specifically addressing how managing intrinsic load through initial element isolation enhances learning, while stopping at the point where relational structure is re-introduced and not including long-term memory consolidation or automaticity development.
 
 > [!attention] **Boundary**
 > This effect stops at the point where the relational structure is re-introduced, and does not include the subsequent stages of long-term memory consolidation or automaticity development.
@@ -127,10 +127,10 @@ The Isolated Elements Effect also contributes to the field of educational psycho
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

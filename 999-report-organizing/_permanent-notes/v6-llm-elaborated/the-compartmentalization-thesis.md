@@ -36,16 +36,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # Compartmentalization Thesis
 
 > [!definition] **Compartmentalization Thesis**
-> The Compartmentalization Thesis posits that decomposing complex tasks into isolated sub-skills without attention to their integration leads to inert knowledge, which does not transfer well to new contexts. This outcome is a predictable consequence of instructional architectures that violate the structural demands of complex learning, falling under [[Cognitive Architecture]].
+> The Compartmentalization Thesis posits that decomposing complex tasks into isolated sub-skills without attention to their integration leads to inert knowledge, which does not transfer well to new contexts. This outcome is a predictable consequence of instructional architectures that violate the structural demands of complex learning, falling under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept excludes the benefits of deliberate practice and cognitive scaffolding when they are applied systematically to integrate sub-skills.
@@ -131,10 +131,10 @@ The Compartmentalization Thesis has significant implications across educational 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Cognitive Load Theory]]
+**Sibling concepts:** [[cognitive-load-theory]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

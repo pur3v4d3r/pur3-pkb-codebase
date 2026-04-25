@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
   - "[[Self-Esteem]]"
-  - "[[Emotional Regulation]]"
+  - "[[emotional-regulation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contrasts-with:
   - "[[Self-Esteem]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Emotional Regulation]]"
+  - "[[emotional-regulation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Self-Compassion
 
 > [!definition] **Self-Compassion**
-> Self-Compassion, formalized by Kristin Neff in 2003, involves treating oneself with kindness during suffering rather than judgment, recognizing shared human experiences to avoid isolation, and maintaining mindful awareness without over-identifying with pain. It falls under [[Cognitive Psychology]], focusing on emotional regulation and personal accountability while distinct from self-esteem.
+> Self-Compassion, formalized by Kristin Neff in 2003, involves treating oneself with kindness during suffering rather than judgment, recognizing shared human experiences to avoid isolation, and maintaining mindful awareness without over-identifying with pain. It falls under [[cognitive-psychology]], focusing on emotional regulation and personal accountability while distinct from self-esteem.
 
 > [!attention] **Boundary**
 > It is distinct from self-esteem and focuses on emotional regulation and personal accountability. It should not be confused with self-indulgence or lowered standards.
@@ -139,12 +139,12 @@ Empirical evidence supports that self-compassion predicts persistence and growth
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Sibling concepts:** [[Growth Mindset]]
+**Sibling concepts:** [[growth-mindset]]
 
 **Contrasts with:** [[Self-Esteem]]
 
-**Applies to:** [[Emotional Regulation]]
+**Applies to:** [[emotional-regulation]]
 
 **Source:** [[self-compassion-synthetic-seed-2026-04-25]]

@@ -38,7 +38,7 @@ parent-concept: "Self-Regulated Learning"
 related:
   - "[[Metacognitive Monitoring Accuracy]]"
   - "[[Self-Regulatory Loop]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -58,7 +58,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Calibration-Adaptation Engine
 
 > [!definition] **Calibration-Adaptation Engine**
-> The Calibration-Adaptation Engine is a proposed scaffolded feedback system that integrates three components: prediction-outcome comparison, multidimensional self-assessment rubrics, and forward-looking adaptive planning prompts to progressively improve metacognitive accuracy and strategic effectiveness. It falls under [[Self-Regulated Learning]], focusing on the mechanism for enhancing metacognitive calibration and strategic adjustment through iterative cycles of study.
+> The Calibration-Adaptation Engine is a proposed scaffolded feedback system that integrates three components: prediction-outcome comparison, multidimensional self-assessment rubrics, and forward-looking adaptive planning prompts to progressively improve metacognitive accuracy and strategic effectiveness. It falls under [[self-regulated-learning]], focusing on the mechanism for enhancing metacognitive calibration and strategic adjustment through iterative cycles of study.
 
 > [!attention] **Boundary**
 > This concept excludes empirical validation of the integrated system as a whole. It focuses on the mechanism for enhancing metacognitive calibration and strategic adjustment through iterative cycles of study.
@@ -136,12 +136,12 @@ The Calibration-Adaptation Engine holds significant value by bridging theoretica
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Specializes:** [[Metacognitive Monitoring Accuracy]]
 
 **Applies to:** [[Self-Regulatory Loop]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

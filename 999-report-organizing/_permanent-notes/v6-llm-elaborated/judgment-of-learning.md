@@ -2,6 +2,7 @@
 title: "Judgment of Learning"
 aliases:
   - "Judgment of Learning"
+  - "Judgment-of-Learning"
   - "Nelson-Narens Framework"
   - "Metacognitive Control Framework"
   - "Two-Level Model of Metacognition"
@@ -38,23 +39,23 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Calibration]]"
-  - "[[Metacognitive Monitoring]]"
-  - "[[Cue Utilization Framework]]"
+  - "[[calibration]]"
+  - "[[metacognitive-monitoring]]"
+  - "[[cue-utilization-framework]]"
 prerequisites:
-  - "[[Calibration]]"
+  - "[[calibration]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Metacognitive Monitoring]]"
+  - "[[metacognitive-monitoring]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cue Utilization Framework]]"
+  - "[[cue-utilization-framework]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +79,7 @@ provenance:
 # Judgment of Learning
 
 > [!definition] **Judgment of Learning**
-> Judgments of Learning (JOLs) are metacognitive assessments made during or shortly after study, reflecting the meta-level's prediction about the likelihood of successfully retrieving studied material on a future test. JOLs are predictive judgments about future performance and not assessments of current understanding; they fall under [[Metacognition]].
+> Judgments of Learning (JOLs) are metacognitive assessments made during or shortly after study, reflecting the meta-level's prediction about the likelihood of successfully retrieving studied material on a future test. JOLs are predictive judgments about future performance and not assessments of current understanding; they fall under [[metacognition]].
 
 > [!attention] **Boundary**
 > JOLs are predictive judgments about future performance and not assessments of current understanding. They should not be confused with immediate post-study confidence ratings.
@@ -139,12 +140,12 @@ Judgments of Learning (JOLs) are crucial for understanding metacognitive process
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Prerequisites:** [[Calibration]]
+**Prerequisites:** [[calibration]]
 
-**Sibling concepts:** [[Metacognitive Monitoring]]
+**Sibling concepts:** [[metacognitive-monitoring]]
 
-**Applies to:** [[Cue Utilization Framework]]
+**Applies to:** [[cue-utilization-framework]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]

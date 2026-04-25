@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Organizational Psychology"
 
 related:
-  - "[[Self-Compassion]]"
-  - "[[Growth Mindset]]"
+  - "[[self-compassion]]"
+  - "[[growth-mindset]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,13 +42,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Compassion]]"
+  - "[[self-compassion]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -134,8 +134,8 @@ Psychological Safety is a critical concept in organizational psychology that has
 
 **Falls under:** [[Organizational Psychology]]
 
-**Sibling concepts:** [[Self-Compassion]]
+**Sibling concepts:** [[self-compassion]]
 
-**Applies to:** [[Growth Mindset]]
+**Applies to:** [[growth-mindset]]
 
 **Source:** [[psychological-safety-synthetic-seed-2026-04-25]]

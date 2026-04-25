@@ -36,14 +36,14 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Constructivist Learning Theory]]"
-  - "[[Self-Determination Theory]]"
+  - "[[constructivist-learning-theory]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Constructivist Learning Theory]]"
+  - "[[constructivist-learning-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -57,7 +57,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -134,10 +134,10 @@ The model's strength lies in its holistic approach, which addresses the multifac
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Constructivist Learning Theory]]
+**Generalizes to:** [[constructivist-learning-theory]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]

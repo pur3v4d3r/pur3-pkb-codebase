@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Spaced Repetition]]"
-  - "[[Retrieval Practice]]"
-  - "[[Generative Learning Theory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[spaced-repetition]]"
+  - "[[retrieval-practice]]"
+  - "[[generative-learning-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,19 +47,19 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Spaced Repetition]]"
+  - "[[spaced-repetition]]"
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Retrieval Practice]]"
+  - "[[retrieval-practice]]"
 supports:
-  - "[[Generative Learning Theory]]"
+  - "[[generative-learning-theory]]"
 refines:
   - "[[]]"
 
@@ -77,7 +77,7 @@ provenance:
 # Desirable Difficulties
 
 > [!definition] **Desirable Difficulties**
-> Desirable difficulties are conditions that make initial learning more effortful and error-prone but produce superior long-term retention and transfer compared to easier conditions. Coined by Robert A. Bjork (1994), these conditions fall under [[Cognitive Architecture]], capturing the paradox that seemingly less productive conditions often lead to better long-term memory, provided they do not exceed a learner's capacity.
+> Desirable difficulties are conditions that make initial learning more effortful and error-prone but produce superior long-term retention and transfer compared to easier conditions. Coined by Robert A. Bjork (1994), these conditions fall under [[cognitive-architecture]], capturing the paradox that seemingly less productive conditions often lead to better long-term memory, provided they do not exceed a learner's capacity.
 
 > [!attention] **Boundary**
 > The framework excludes difficulties that exceed a learner's capacity, becoming simply difficulty. It applies primarily to encoding and retrieval conditions in cognitive and motor learning contexts.
@@ -136,14 +136,14 @@ The application of desirable difficulties in instructional design, motor skill a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Cognitive Load Theory]]
+**Sibling concepts:** [[cognitive-load-theory]]
 
-**Applies to:** [[Spaced Repetition]]
+**Applies to:** [[spaced-repetition]]
 
-**Instance of:** [[Retrieval Practice]]
+**Instance of:** [[retrieval-practice]]
 
-**Supports:** [[Generative Learning Theory]]
+**Supports:** [[generative-learning-theory]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]

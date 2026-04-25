@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Expectancy-Value Theory]]"
-  - "[[Self-Efficacy]]"
+  - "[[expectancy-value-theory]]"
+  - "[[self-efficacy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Control-Value Theory
 
 > [!definition] **Control-Value Theory**
-> Control-Value Theory, developed by Reinhard Pekrun, is an integrative framework for understanding the emotional responses to achievement situations based on perceived controllability and value of the activity or outcome. It falls under [[Motivational Psychology]], providing a systematic taxonomy of emotions in these contexts without addressing other types of emotions or cognitive processes outside such settings.
+> Control-Value Theory, developed by Reinhard Pekrun, is an integrative framework for understanding the emotional responses to achievement situations based on perceived controllability and value of the activity or outcome. It falls under [[motivational-psychology]], providing a systematic taxonomy of emotions in these contexts without addressing other types of emotions or cognitive processes outside such settings.
 
 > [!attention] **Boundary**
 > This theory focuses specifically on emotions in achievement settings and does not address other types of emotions or cognitive processes outside these contexts.
@@ -134,10 +134,10 @@ The theory's focus on controllability and value appraisals makes it particularly
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Contrasts with:** [[Expectancy-Value Theory]]
+**Contrasts with:** [[expectancy-value-theory]]
 
-**Applies to:** [[Self-Efficacy]]
+**Applies to:** [[self-efficacy]]
 
 **Source:** [[control-value-theory-synthetic-seed-2026-04-25]]

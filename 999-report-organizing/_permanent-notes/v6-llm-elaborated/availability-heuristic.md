@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Heuristics"
 
 related:
-  - "[[Representativeness Heuristic]]"
+  - "[[representativeness-heuristic]]"
   - "[[Anchoring Heuristic]]"
   - "[[Base Rate Fallacy]]"
 prerequisites:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Representativeness Heuristic]]"
+  - "[[representativeness-heuristic]]"
   - "[[Anchoring Heuristic]]"
 contradicts:
   - "[[]]"
@@ -135,7 +135,7 @@ The Availability Heuristic also has significant implications across various doma
 
 **Falls under:** [[Heuristics]]
 
-**Contrasts with:** [[Representativeness Heuristic]] · [[Anchoring Heuristic]]
+**Contrasts with:** [[representativeness-heuristic]] · [[Anchoring Heuristic]]
 
 **Applies to:** [[Base Rate Fallacy]]
 

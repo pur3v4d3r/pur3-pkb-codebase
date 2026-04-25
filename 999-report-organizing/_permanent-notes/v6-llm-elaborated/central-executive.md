@@ -33,25 +33,25 @@ depth-level: elaborated
 parent-concept: "Working Memory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Working Memory Capacity]]"
-  - "[[Episodic Buffer]]"
-  - "[[Fluid Intelligence]]"
+  - "[[working-memory]]"
+  - "[[working-memory-capacity]]"
+  - "[[episodic-buffer]]"
+  - "[[fluid-intelligence]]"
 prerequisites:
-  - "[[Working Memory]]"
-  - "[[Working Memory Capacity]]"
+  - "[[working-memory]]"
+  - "[[working-memory-capacity]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Episodic Buffer]]"
+  - "[[episodic-buffer]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Fluid Intelligence]]"
+  - "[[fluid-intelligence]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Central Executive
 
 > [!definition] **Central Executive**
-> The Central Executive is the supervisory component of Baddeley's working-memory model, responsible for allocating attention and coordinating task switching; it does not store information but rather manages the allocation of attention among different cognitive tasks and systems within working memory. It falls under [[Working Memory]].
+> The Central Executive is the supervisory component of Baddeley's working-memory model, responsible for allocating attention and coordinating task switching; it does not store information but rather manages the allocation of attention among different cognitive tasks and systems within working memory. It falls under [[working-memory]].
 
 ## Core Explanation
 
@@ -131,12 +131,12 @@ The Central Executive's importance extends beyond the realm of working memory, i
 
 ## Connections & Context
 
-**Falls under:** [[Working Memory]]
+**Falls under:** [[working-memory]]
 
-**Prerequisites:** [[Working Memory]] · [[Working Memory Capacity]]
+**Prerequisites:** [[working-memory]] · [[working-memory-capacity]]
 
-**Sibling concepts:** [[Episodic Buffer]]
+**Sibling concepts:** [[episodic-buffer]]
 
-**Applies to:** [[Fluid Intelligence]]
+**Applies to:** [[fluid-intelligence]]
 
 **Source:** [[central-executive-synthetic-seed-2026-04-24]]

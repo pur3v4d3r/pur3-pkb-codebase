@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Schema Theory]]"
-  - "[[Assimilation]]"
+  - "[[schema-theory]]"
+  - "[[assimilation]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 see-also:
-  - "[[Assimilation]]"
+  - "[[assimilation]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Meaningful Learning Theory
 
 > [!definition] **Meaningful Learning Theory**
-> Meaningful Learning Theory, developed by David Ausubel, posits that learning is most effective when new information is related to existing knowledge in the learner's cognitive structure. It falls under [[Cognitive Architecture]], focusing on how prior knowledge influences learning and does not address other aspects such as motivation or emotional factors.
+> Meaningful Learning Theory, developed by David Ausubel, posits that learning is most effective when new information is related to existing knowledge in the learner's cognitive structure. It falls under [[cognitive-architecture]], focusing on how prior knowledge influences learning and does not address other aspects such as motivation or emotional factors.
 
 > [!attention] **Boundary**
 > This theory focuses on how prior knowledge influences learning and does not address other aspects of educational psychology such as motivation or emotional factors.
@@ -134,10 +134,10 @@ The theory's focus on prior knowledge aligns well with schema theory, which also
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Schema Theory]]
+**Generalizes to:** [[schema-theory]]
 
-**Sibling concepts:** [[Assimilation]]
+**Sibling concepts:** [[assimilation]]
 
 **Source:** [[meaningful-learning-theory-synthetic-seed-2026-04-24]]

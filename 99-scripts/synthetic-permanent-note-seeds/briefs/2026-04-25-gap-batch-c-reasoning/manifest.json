@@ -1,0 +1,90 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-gap-batch-c-reasoning",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-gap-batch-C-reasoning.md",
+    "notes": "Gap-analysis batch C — formal logic, reasoning, and critical-thinking\nconcepts referenced by existing notes but missing files."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-gap-batch-c-reasoning",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-gap-batch-c-reasoning"
+  },
+  "counts": {
+    "parsed": 11,
+    "accepted": 11,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Formal Logic",
+      "kebab": "formal-logic",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/formal-logic.yaml",
+      "expected_seed_filename": "formal-logic-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Non Classical Logic",
+      "kebab": "non-classical-logic",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/non-classical-logic.yaml",
+      "expected_seed_filename": "non-classical-logic-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Logical Reasoning",
+      "kebab": "logical-reasoning",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/logical-reasoning.yaml",
+      "expected_seed_filename": "logical-reasoning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Elements of Thought",
+      "kebab": "elements-of-thought",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/elements-of-thought.yaml",
+      "expected_seed_filename": "elements-of-thought-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Case Based Reasoning",
+      "kebab": "case-based-reasoning",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/case-based-reasoning.yaml",
+      "expected_seed_filename": "case-based-reasoning-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Structure Mapping Theory",
+      "kebab": "structure-mapping-theory",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/structure-mapping-theory.yaml",
+      "expected_seed_filename": "structure-mapping-theory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Truth Tables",
+      "kebab": "truth-tables",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/truth-tables.yaml",
+      "expected_seed_filename": "truth-tables-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Behaviorism",
+      "kebab": "behaviorism",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/behaviorism.yaml",
+      "expected_seed_filename": "behaviorism-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Epistemology",
+      "kebab": "epistemology",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/epistemology.yaml",
+      "expected_seed_filename": "epistemology-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cognitive Science",
+      "kebab": "cognitive-science",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/cognitive-science.yaml",
+      "expected_seed_filename": "cognitive-science-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cognitive Behavioral Therapy",
+      "kebab": "cognitive-behavioral-therapy",
+      "brief_path": "briefs/2026-04-25-gap-batch-c-reasoning/cognitive-behavioral-therapy.yaml",
+      "expected_seed_filename": "cognitive-behavioral-therapy-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

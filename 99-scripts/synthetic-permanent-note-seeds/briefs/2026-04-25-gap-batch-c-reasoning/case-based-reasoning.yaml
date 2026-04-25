@@ -1,0 +1,41 @@
+concept: Case Based Reasoning
+domain: cognitive-science
+secondary_domains:
+- artificial-intelligence
+- education
+aliases:
+- CBR
+- case-based problem solving
+broader:
+- reasoning
+related:
+- analogical-reasoning
+- structure-mapping-theory
+- expert-cognition
+- schema-theory
+- case-based-learning
+prerequisites:
+- analogical-reasoning
+- schema-theory
+confidence: high
+callouts:
+- type: definition
+  title: Case Based Reasoning
+  body: Case Based Reasoning is a problem-solving strategy in which a new problem
+    is solved by retrieving a similar prior case from memory, adapting the prior solution
+    to fit the new situation, evaluating the adapted solution, and storing the resulting
+    case for future reuse, and it is a foundational paradigm in both cognitive science
+    and AI.
+- type: key-claim
+  title: Key claim about Case Based Reasoning
+  body: Case Based Reasoning models the way experts in domains such as medicine, law,
+    and engineering actually solve problems — by retrieval and adaptation of prior
+    episodes — far better than rule-based or first-principles models, which is why
+    Case Based Reasoning is the dominant cognitive account of expertise in ill-structured
+    domains.
+- type: warning
+  title: Common pitfall regarding Case Based Reasoning
+  body: Case Based Reasoning is bounded by the quality and coverage of the case library;
+    novices attempting Case Based Reasoning before they have a useful case library
+    make systematic surface-similarity errors, so Case Based Reasoning is not a substitute
+    for the slow accumulation of cases that produces expert intuition.

@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Reasoning"
 
 related:
-  - "[[Deductive Reasoning]]"
-  - "[[Inductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
-  - "[[Argument Analysis]]"
+  - "[[deductive-reasoning]]"
+  - "[[inductive-reasoning]]"
+  - "[[abductive-reasoning]]"
+  - "[[argument-analysis]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Deductive Reasoning]]"
-  - "[[Inductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
+  - "[[deductive-reasoning]]"
+  - "[[inductive-reasoning]]"
+  - "[[abductive-reasoning]]"
 broader:
   - "[[]]"
 see-also:
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Argument Analysis]]"
+  - "[[argument-analysis]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -140,8 +140,8 @@ The study of inference also raises important questions about how these forms int
 
 **Falls under:** [[Reasoning]]
 
-**Specializes:** [[Deductive Reasoning]] · [[Inductive Reasoning]] · [[Abductive Reasoning]]
+**Specializes:** [[deductive-reasoning]] · [[inductive-reasoning]] · [[abductive-reasoning]]
 
-**Applies to:** [[Argument Analysis]]
+**Applies to:** [[argument-analysis]]
 
 **Source:** [[inference-synthetic-seed-2026-04-24]]

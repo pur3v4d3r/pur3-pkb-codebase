@@ -31,9 +31,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Integrated Regulation]]"
-  - "[[Identified Regulation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[integrated-regulation]]"
+  - "[[identified-regulation]]"
   - "[[Controlled Regulation]]"
 prerequisites:
   - "[[]]"
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
-  - "[[Integrated Regulation]]"
-  - "[[Identified Regulation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[integrated-regulation]]"
+  - "[[identified-regulation]]"
 contrasts-with:
   - "[[Controlled Regulation]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Autonomous Regulation
 
 > [!definition] **Autonomous Regulation**
-> Autonomous Regulation refers to motivational regulations characterized by self-endorsement, including intrinsic motivation, integrated regulation, and identified regulation, as opposed to controlled regulations that involve internal or external pressure. It falls under [[Self-Regulated Learning]], where it is seen as a key component in fostering deep learning and long-term engagement.
+> Autonomous Regulation refers to motivational regulations characterized by self-endorsement, including intrinsic motivation, integrated regulation, and identified regulation, as opposed to controlled regulations that involve internal or external pressure. It falls under [[self-regulated-learning]], where it is seen as a key component in fostering deep learning and long-term engagement.
 
 > [!attention] **Boundary**
 > This concept excludes controlled regulations such as introjected and external motivations. It should not be confused with other forms of motivation like extrinsic motivation or amotivation.
@@ -138,9 +138,9 @@ Empirical evidence consistently shows that autonomous motivation leads to better
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Intrinsic Motivation]] · [[Integrated Regulation]] · [[Identified Regulation]]
+**Sibling concepts:** [[intrinsic-motivation]] · [[integrated-regulation]] · [[identified-regulation]]
 
 **Contrasts with:** [[Controlled Regulation]]
 

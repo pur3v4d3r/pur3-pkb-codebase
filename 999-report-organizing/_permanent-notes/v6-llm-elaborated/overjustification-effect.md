@@ -33,8 +33,8 @@ parent-concept: "Motivation Research"
 
 related:
   - "[[Intrinsic Motivation Research]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Cognitive Evaluation Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[cognitive-evaluation-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Evaluation Theory]]"
+  - "[[cognitive-evaluation-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -134,8 +134,8 @@ The Overjustification Effect also intersects with broader concepts like Self-Det
 
 **Specializes:** [[Intrinsic Motivation Research]]
 
-**Contrasts with:** [[Self-Determination Theory]]
+**Contrasts with:** [[self-determination-theory]]
 
-**Applies to:** [[Cognitive Evaluation Theory]]
+**Applies to:** [[cognitive-evaluation-theory]]
 
 **Source:** [[overjustification-effect-synthetic-seed-2026-04-24]]

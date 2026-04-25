@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Achievement Emotions
 
 > [!definition] **Achievement Emotions**
-> Achievement Emotions are discrete affective states experienced in achievement contexts such as enjoyment, hope, pride, anxiety, anger, shame, hopelessness, boredom, and relief, which bias learning behaviors through their impact on attention, motivation, strategy use, and self-regulation. They fall under [[Self-Regulated Learning]], as they play a crucial role in guiding how learners engage with tasks and allocate resources for persistence.
+> Achievement Emotions are discrete affective states experienced in achievement contexts such as enjoyment, hope, pride, anxiety, anger, shame, hopelessness, boredom, and relief, which bias learning behaviors through their impact on attention, motivation, strategy use, and self-regulation. They fall under [[self-regulated-learning]], as they play a crucial role in guiding how learners engage with tasks and allocate resources for persistence.
 
 > [!attention] **Boundary**
 > This concept excludes general emotional experiences not tied to achievement contexts and does not encompass broader constructs like mood or temperament.
@@ -131,10 +131,10 @@ The integration of Achievement Emotions with working memory and worked examples 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[achievement-emotions-synthetic-seed-2026-04-25]]

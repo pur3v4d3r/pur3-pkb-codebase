@@ -72,7 +72,7 @@ provenance:
 # Code Editor
 
 > [!definition] **Code Editor**
-> A Code Editor is a text-editing application optimized for source code through features like syntax highlighting and smart indentation but lacking the integrated build, debug, profile, and project-management tooling found in Integrated Development Environments (IDEs). It falls under [[Integrated Development Environment]] as it provides essential editing capabilities while leaving more complex tasks to user-assembled extensions.
+> A Code Editor is a text-editing application optimized for source code through features like syntax highlighting and smart indentation but lacking the integrated build, debug, profile, and project-management tooling found in Integrated Development Environments (IDEs). It falls under [[integrated-development-environment]] as it provides essential editing capabilities while leaving more complex tasks to user-assembled extensions.
 
 > [!attention] **Boundary**
 > This concept excludes IDEs which bundle additional tooling such as project management and debugging. It also does not include the broader category of text editors that do not specialize in source code.
@@ -128,7 +128,7 @@ The integration of Code Editors into broader developer tooling ecosystems highli
 
 ## Connections & Context
 
-**Falls under:** [[Integrated Development Environment]]
+**Falls under:** [[integrated-development-environment]]
 
 **Contrasts with:** [[Integrated Development Environment (IDE)]]
 

@@ -34,9 +34,9 @@ depth-level: elaborated
 parent-concept: "Learning Theories"
 
 related:
-  - "[[Reflective Thinking]]"
-  - "[[Transformative Learning]]"
-  - "[[Andragogy]]"
+  - "[[reflective-thinking]]"
+  - "[[transformative-learning]]"
+  - "[[andragogy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,12 +46,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Reflective Thinking]]"
-  - "[[Transformative Learning]]"
+  - "[[reflective-thinking]]"
+  - "[[transformative-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Andragogy]]"
+  - "[[andragogy]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Kolb Experiential Learning Cycle
 
 > [!definition] **Kolb Experiential Learning Cycle**
-> The Kolb Experiential Learning Cycle is a four-phase process that describes how individuals learn through experience, reflection, abstraction, and experimentation. It falls under [[Learning Theories]], focusing on the transformation of experience into knowledge and not addressing other learning theories or models in detail.
+> The Kolb Experiential Learning Cycle is a four-phase process that describes how individuals learn through experience, reflection, abstraction, and experimentation. It falls under [[learning-theories]], focusing on the transformation of experience into knowledge and not addressing other learning theories or models in detail.
 
 > [!attention] **Boundary**
 > This cycle focuses on the transformation of experience into knowledge and does not address other learning theories or models in detail.
@@ -134,10 +134,10 @@ The Kolb Experiential Learning Cycle complements other models like Dewey's refle
 
 ## Connections & Context
 
-**Falls under:** [[Learning Theories]]
+**Falls under:** [[learning-theories]]
 
-**Contrasts with:** [[Reflective Thinking]] · [[Transformative Learning]]
+**Contrasts with:** [[reflective-thinking]] · [[transformative-learning]]
 
-**Applies to:** [[Andragogy]]
+**Applies to:** [[andragogy]]
 
 **Source:** [[kolb-experiential-learning-cycle-synthetic-seed-2026-04-25]]

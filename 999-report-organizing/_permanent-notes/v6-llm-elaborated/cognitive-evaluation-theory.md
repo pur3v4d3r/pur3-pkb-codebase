@@ -31,8 +31,8 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -40,9 +40,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contrasts-with:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -70,7 +70,7 @@ provenance:
 # Cognitive Evaluation Theory
 
 > [!definition] **Cognitive Evaluation Theory**
-> Cognitive Evaluation Theory (CET) is a sub-theory of Self-Determination Theory that explains how external events like rewards or evaluations influence intrinsic motivation by altering perceived causality and competence. It falls under [[Self-Determination Theory]], focusing on the impact of these events on intrinsic motivation, excluding other aspects such as extrinsic motivation or self-efficacy.
+> Cognitive Evaluation Theory (CET) is a sub-theory of Self-Determination Theory that explains how external events like rewards or evaluations influence intrinsic motivation by altering perceived causality and competence. It falls under [[self-determination-theory]], focusing on the impact of these events on intrinsic motivation, excluding other aspects such as extrinsic motivation or self-efficacy.
 
 > [!attention] **Boundary**
 > This theory focuses on the impact of external events on intrinsic motivation, excluding other aspects of motivation such as extrinsic motivation or self-efficacy.
@@ -127,10 +127,10 @@ The theory’s emphasis on perceived autonomy and competence aligns with other c
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Intrinsic Motivation]]
+**Sibling concepts:** [[intrinsic-motivation]]
 
-**Contrasts with:** [[Extrinsic Motivation]]
+**Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[cognitive-evaluation-theory-synthetic-seed-2026-04-24]]

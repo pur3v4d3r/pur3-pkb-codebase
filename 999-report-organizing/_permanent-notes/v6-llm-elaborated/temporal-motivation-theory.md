@@ -33,8 +33,8 @@ parent-concept: "Motivational Psychology"
 
 related:
   - "[[Hyperbolic Discounting]]"
-  - "[[Expectancy-Value Theory]]"
-  - "[[Procrastination]]"
+  - "[[expectancy-value-theory]]"
+  - "[[procrastination]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[Hyperbolic Discounting]]"
 contrasts-with:
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Procrastination]]"
+  - "[[procrastination]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Temporal Motivation Theory
 
 > [!definition] **Temporal Motivation Theory**
-> Temporal Motivation Theory (TMT) is an integrative model developed by Steel and König that explains how the utility of pursuing a task depends on expectancy, value, impulsiveness, and delay. It falls under [[Motivational Psychology]], unifying elements from expectancy-value theory with hyperbolic-discounting work to provide a comprehensive framework for understanding motivation.
+> Temporal Motivation Theory (TMT) is an integrative model developed by Steel and König that explains how the utility of pursuing a task depends on expectancy, value, impulsiveness, and delay. It falls under [[motivational-psychology]], unifying elements from expectancy-value theory with hyperbolic-discounting work to provide a comprehensive framework for understanding motivation.
 
 > [!attention] **Boundary**
 > The theory excludes individual components like expectancy or value as standalone concepts but integrates them into a unified framework. It does not cover all aspects of motivation, such as intrinsic vs. extrinsic motivation or self-determination theory.
@@ -129,12 +129,12 @@ TMT fits into broader theories by complementing intrinsic vs extrinsic motivatio
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
 **Sibling concepts:** [[Hyperbolic Discounting]]
 
-**Contrasts with:** [[Expectancy-Value Theory]]
+**Contrasts with:** [[expectancy-value-theory]]
 
-**Applies to:** [[Procrastination]]
+**Applies to:** [[procrastination]]
 
 **Source:** [[temporal-motivation-theory-synthetic-seed-2026-04-25]]

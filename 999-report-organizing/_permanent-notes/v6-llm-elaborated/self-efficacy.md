@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Self-Efficacy
 
 > [!definition] **Self-Efficacy**
-> Self-Efficacy refers to an individual's belief in their capability to execute the necessary courses of action to achieve specific goals within a particular domain or context. It falls under [[Cognitive Architecture]], as it is built from four converging information sources: enactive mastery experience, vicarious experience, verbal persuasion, and physiological/affective states.
+> Self-Efficacy refers to an individual's belief in their capability to execute the necessary courses of action to achieve specific goals within a particular domain or context. It falls under [[cognitive-architecture]], as it is built from four converging information sources: enactive mastery experience, vicarious experience, verbal persuasion, and physiological/affective states.
 
 > [!attention] **Boundary**
 > Self-Efficacy is task- and standard-specific; it does not encompass broader constructs like optimism or self-esteem. It is distinct from outcome expectations and past performance.
@@ -134,10 +134,10 @@ The malleability of Self-Efficacy underscores its importance in fostering resili
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[self-efficacy-synthetic-seed-2026-04-24]]

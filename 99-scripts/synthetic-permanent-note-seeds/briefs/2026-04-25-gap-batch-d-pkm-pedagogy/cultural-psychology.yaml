@@ -1,0 +1,37 @@
+concept: Cultural Psychology
+domain: psychology
+secondary_domains:
+- cross-cultural-psychology
+- anthropology
+aliases:
+- cultural psychology of mind
+broader:
+- psychology
+related:
+- cross-cultural-psychology
+- social-cognition
+- self-construal
+- weird-samples-problem
+- individualism-collectivism
+confidence: high
+callouts:
+- type: definition
+  title: Cultural Psychology
+  body: Cultural Psychology is the branch of psychology that treats culture and mind
+    as mutually constitutive, holding that psychological processes are shaped by,
+    and themselves shape, the cultural meanings, practices, and institutions in which
+    they develop, contrasting with cross-cultural psychology's comparative stance.
+- type: key-claim
+  title: Key claim about Cultural Psychology
+  body: Cultural Psychology has documented that many phenomena once treated as universal
+    — fundamental attribution error, dissonance reduction, self-enhancement, even
+    some perceptual effects — vary systematically with cultural context, which is
+    why the WEIRD-samples critique of psychology was largely articulated from within
+    Cultural Psychology.
+- type: warning
+  title: Common pitfall regarding Cultural Psychology
+  body: Cultural Psychology is sometimes read as licensing a soft cultural relativism,
+    but the field's stronger and more interesting claim is that cultural variation
+    provides the comparative data needed to specify which mechanisms are truly universal;
+    treating Cultural Psychology as "everything is just culture" misses its scientific
+    contribution.

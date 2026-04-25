@@ -34,12 +34,12 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Intrinsic Load]]"
   - "[[Germane Load]]"
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Element Interactivity
 
 > [!definition] **Element Interactivity**
-> Element interactivity refers to the number of information elements that must be processed simultaneously for material to be understood, where two elements interact if their meaning depends on each other in a manner that prevents independent processing. It falls under [[Cognitive Load Theory]], as it is a key mechanism underlying intrinsic load and its boundary conditions are relative to the learner's existing schemas.
+> Element interactivity refers to the number of information elements that must be processed simultaneously for material to be understood, where two elements interact if their meaning depends on each other in a manner that prevents independent processing. It falls under [[cognitive-load-theory]], as it is a key mechanism underlying intrinsic load and its boundary conditions are relative to the learner's existing schemas.
 
 > [!attention] **Boundary**
 > This concept is distinct from intrinsic load and focuses specifically on how learners process relational structures within working memory. It does not encompass the broader aspects of cognitive architecture or learning strategies.
@@ -132,12 +132,12 @@ The dynamic nature of element interactivity also highlights its importance in re
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Intrinsic Load]] · [[Germane Load]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

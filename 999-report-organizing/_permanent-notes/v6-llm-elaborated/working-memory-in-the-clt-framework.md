@@ -36,12 +36,12 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Chunking]]"
-  - "[[Intrinsic Cognitive Load]]"
-  - "[[Extraneous Cognitive Load]]"
-  - "[[Germane Cognitive Load]]"
+  - "[[chunking]]"
+  - "[[intrinsic-cognitive-load]]"
+  - "[[extraneous-cognitive-load]]"
+  - "[[germane-cognitive-load]]"
 prerequisites:
-  - "[[Chunking]]"
+  - "[[chunking]]"
 specializes:
   - "[[]]"
 broader:
@@ -53,9 +53,9 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Intrinsic Cognitive Load]]"
-  - "[[Extraneous Cognitive Load]]"
-  - "[[Germane Cognitive Load]]"
+  - "[[intrinsic-cognitive-load]]"
+  - "[[extraneous-cognitive-load]]"
+  - "[[germane-cognitive-load]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -79,7 +79,7 @@ provenance:
 # Working Memory
 
 > [!definition] **Working Memory**
-> Working memory is the cognitive subsystem responsible for processing, manipulating, and temporarily maintaining novel information, with a severe capacity limitation of approximately four to seven elements at a time. It falls under Cognitive Load Theory, where its limitations specifically apply to unorganized, novel information; once material has been encoded into schemas in long-term memory, it can be retrieved as single units, effectively circumventing the capacity constraint. It falls under [[Cognitive Architecture]].
+> Working memory is the cognitive subsystem responsible for processing, manipulating, and temporarily maintaining novel information, with a severe capacity limitation of approximately four to seven elements at a time. It falls under Cognitive Load Theory, where its limitations specifically apply to unorganized, novel information; once material has been encoded into schemas in long-term memory, it can be retrieved as single units, effectively circumventing the capacity constraint. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This definition excludes long-term memory, which stores encoded schemas that can be retrieved as single units in working memory, effectively circumventing its capacity constraint.
@@ -138,10 +138,10 @@ The broader implications extend beyond education into various domains where comp
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Chunking]]
+**Prerequisites:** [[chunking]]
 
-**Applies to:** [[Intrinsic Cognitive Load]] · [[Extraneous Cognitive Load]] · [[Germane Cognitive Load]]
+**Applies to:** [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]] · [[germane-cognitive-load]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

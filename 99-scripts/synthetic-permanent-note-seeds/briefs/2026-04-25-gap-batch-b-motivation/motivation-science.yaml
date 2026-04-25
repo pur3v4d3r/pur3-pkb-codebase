@@ -1,0 +1,37 @@
+concept: Motivation Science
+domain: motivational-psychology
+secondary_domains:
+- psychology
+- educational-psychology
+aliases:
+- motivation research
+- science of motivation
+broader:
+- psychology
+related:
+- self-determination-theory
+- achievement-goal-theory
+- expectancy-value-theory
+- attribution-theory
+- control-value-theory
+confidence: high
+callouts:
+- type: definition
+  title: Motivation Science
+  body: Motivation Science is the interdisciplinary research field that studies the
+    processes initiating, directing, sustaining, and terminating goal-directed behaviour,
+    integrating evidence from cognitive psychology, social psychology, neuroscience,
+    and educational research.
+- type: key-claim
+  title: Key claim about Motivation Science
+  body: Modern Motivation Science is not a single grand theory but a family of mid-range
+    theories — SDT, achievement-goal theory, expectancy-value theory, control-value
+    theory, attribution theory — each addressing a different slice of the motivational
+    system, and Motivation Science is most useful when these theories are read as
+    complementary rather than competing.
+- type: warning
+  title: Common pitfall regarding Motivation Science
+  body: Popular accounts of Motivation Science routinely cherry-pick a single mechanism
+    — dopamine, mindset, autonomy, grit — and present it as the whole story; serious
+    Motivation Science treats the mechanism in question as one constituent of a multi-process
+    system, and any monocausal claim should be read as a red flag.

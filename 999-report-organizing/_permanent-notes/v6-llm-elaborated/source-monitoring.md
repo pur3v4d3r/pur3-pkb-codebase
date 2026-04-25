@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[False Memory]]"
-  - "[[Reconstructive Memory]]"
-  - "[[Episodic Memory]]"
+  - "[[false-memory]]"
+  - "[[reconstructive-memory]]"
+  - "[[episodic-memory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,12 +44,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[False Memory]]"
-  - "[[Reconstructive Memory]]"
+  - "[[false-memory]]"
+  - "[[reconstructive-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Episodic Memory]]"
+  - "[[episodic-memory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Source Monitoring
 
 > [!definition] **Source Monitoring**
-> Source monitoring is the cognitive process of attributing a remembered piece of information to its origin — whether it was perceived, imagined, told by another person, or self-generated — and is the mechanism by which the mind decides 'where did I get this from?' This concept falls under [[Cognitive Architecture]], as it involves how we manage and retrieve information within our cognitive system.
+> Source monitoring is the cognitive process of attributing a remembered piece of information to its origin — whether it was perceived, imagined, told by another person, or self-generated — and is the mechanism by which the mind decides 'where did I get this from?' This concept falls under [[cognitive-architecture]], as it involves how we manage and retrieve information within our cognitive system.
 
 > [!attention] **Boundary**
 > This concept excludes other memory processes like encoding, retrieval, and false memory formation but focuses on the specific task of identifying where information came from.
@@ -126,16 +126,16 @@ The process of source monitoring involves several stages. First, during encoding
 
 ## Synthesis
 
-Understanding source monitoring is crucial for cognitive science as it provides insights into how we manage and retrieve information within our cognitive system. It falls under [[Cognitive Architecture]], which encompasses various processes involved in memory, attention, and decision-making. By studying source monitoring, researchers can better understand the complexities of human memory and develop strategies to improve memory accuracy in educational settings and legal contexts.
+Understanding source monitoring is crucial for cognitive science as it provides insights into how we manage and retrieve information within our cognitive system. It falls under [[cognitive-architecture]], which encompasses various processes involved in memory, attention, and decision-making. By studying source monitoring, researchers can better understand the complexities of human memory and develop strategies to improve memory accuracy in educational settings and legal contexts.
 
 Source monitoring also has broader implications for related concepts such as false memory and reconstructive memory. While all these phenomena involve errors in memory retrieval, they differ in their specific mechanisms and outcomes. For instance, false memory often involves the creation of entirely new memories, whereas source monitoring focuses on misattributing the origin of existing information. By differentiating between these processes, we can develop more effective interventions to enhance memory accuracy.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[False Memory]] · [[Reconstructive Memory]]
+**Contrasts with:** [[false-memory]] · [[reconstructive-memory]]
 
-**Applies to:** [[Episodic Memory]]
+**Applies to:** [[episodic-memory]]
 
 **Source:** [[source-monitoring-synthetic-seed-2026-04-25]]

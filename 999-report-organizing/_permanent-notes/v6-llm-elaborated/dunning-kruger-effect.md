@@ -34,7 +34,7 @@ parent-concept: "Self-Regulated Learning"
 related:
   - "[[Unskilled-and-Unaware]]"
   - "[[Overconfidence]]"
-  - "[[Metacognitive Judgments]]"
+  - "[[metacognitive-judgments]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Metacognitive Judgments]]"
+  - "[[metacognitive-judgments]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Dunning-Kruger Effect
 
 > [!definition] **Dunning-Kruger Effect**
-> The Dunning-Kruger Effect refers to the phenomenon where individuals with low ability at a particular task overestimate their competence, while highly skilled individuals tend to underestimate theirs. This concept falls under [[Self-Regulated Learning]], focusing on the relationship between performance and self-assessment in specific domains.
+> The Dunning-Kruger Effect refers to the phenomenon where individuals with low ability at a particular task overestimate their competence, while highly skilled individuals tend to underestimate theirs. This concept falls under [[self-regulated-learning]], focusing on the relationship between performance and self-assessment in specific domains.
 
 > [!attention] **Boundary**
 > This concept focuses on the relationship between performance and self-assessment in specific domains. It does not encompass broader issues of confidence or general cognitive biases.
@@ -132,12 +132,12 @@ Beyond its educational applications, the Dunning-Kruger Effect intersects with b
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Sibling concepts:** [[Unskilled-and-Unaware]]
 
 **Contrasts with:** [[Overconfidence]]
 
-**Applies to:** [[Metacognitive Judgments]]
+**Applies to:** [[metacognitive-judgments]]
 
 **Source:** [[dunning-kruger-effect-synthetic-seed-2026-04-24]]

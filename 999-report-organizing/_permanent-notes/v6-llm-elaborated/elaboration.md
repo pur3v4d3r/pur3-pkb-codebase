@@ -32,23 +32,23 @@ depth-level: elaborated
 parent-concept: "Learning Strategies"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Explanation]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[self-explanation]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Explanation]]"
+  - "[[self-explanation]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Elaboration
 
 > [!definition] **Elaboration**
-> Elaboration involves enriching new information by connecting it to prior knowledge, enhancing memory retention and understanding. It falls under [[Learning Strategies]], as it is a key mechanism for encoding new material in ways that make it more accessible and meaningful.
+> Elaboration involves enriching new information by connecting it to prior knowledge, enhancing memory retention and understanding. It falls under [[learning-strategies]], as it is a key mechanism for encoding new material in ways that make it more accessible and meaningful.
 
 > [!attention] **Boundary**
 > This concept excludes specific techniques like self-explanation or worked examples, which are elaborative strategies but not the broader mechanism of elaboration itself.
@@ -128,12 +128,12 @@ Beyond its practical applications, elaboration also has broader implications for
 
 ## Connections & Context
 
-**Falls under:** [[Learning Strategies]]
+**Falls under:** [[learning-strategies]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Self-Explanation]]
+**Sibling concepts:** [[self-explanation]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[elaboration-synthetic-seed-2026-04-24]]

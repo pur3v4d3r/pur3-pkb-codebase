@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Goal-Intention]]"
-  - "[[Automaticity]]"
-  - "[[Habit-Formation]]"
+  - "[[goal-intention]]"
+  - "[[automaticity]]"
+  - "[[habit-formation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,13 +46,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Goal-Intention]]"
+  - "[[goal-intention]]"
 contrasts-with:
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Habit-Formation]]"
+  - "[[habit-formation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Implementation Intention
 
 > [!definition] **Implementation Intention**
-> An implementation intention is a specific plan to perform an action when a certain cue is encountered, designed to bridge the gap between goal intentions and actual behavior. It falls under [[Self-Regulated Learning]], as it strategically pre-links cues to behaviors, enhancing the likelihood of their execution without relying on willpower or belief change.
+> An implementation intention is a specific plan to perform an action when a certain cue is encountered, designed to bridge the gap between goal intentions and actual behavior. It falls under [[self-regulated-learning]], as it strategically pre-links cues to behaviors, enhancing the likelihood of their execution without relying on willpower or belief change.
 
 > [!attention] **Boundary**
 > It stops at the strategic automaticity achieved by pre-linking cues to behaviors, excluding habits or mere reminders. It does not involve belief change or motivational amplification but rather cognitive engineering of perception-action links.
@@ -136,12 +136,12 @@ Understanding implementation intentions is crucial for self-regulation and goal 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Goal-Intention]]
+**Sibling concepts:** [[goal-intention]]
 
-**Contrasts with:** [[Automaticity]]
+**Contrasts with:** [[automaticity]]
 
-**Applies to:** [[Habit-Formation]]
+**Applies to:** [[habit-formation]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

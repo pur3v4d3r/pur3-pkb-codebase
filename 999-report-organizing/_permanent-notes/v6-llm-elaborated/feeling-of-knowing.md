@@ -78,7 +78,7 @@ provenance:
 # Feeling of Knowing
 
 > [!definition] **Feeling of Knowing**
-> The Feeling of Knowing (FOK) is a metacognitive judgment made after a retrieval failure, indicating the likelihood that unrecalled information will be recognized in the future. It falls under [[Metacognition]], as it reflects the meta-level's assessment of memory state beyond what can be directly retrieved.
+> The Feeling of Knowing (FOK) is a metacognitive judgment made after a retrieval failure, indicating the likelihood that unrecalled information will be recognized in the future. It falls under [[metacognition]], as it reflects the meta-level's assessment of memory state beyond what can be directly retrieved.
 
 > [!attention] **Boundary**
 > FOK judgments are post-retrieval-failure assessments and should not be confused with pre-retrieval judgments like Judgment of Learning (JOL) or retrospective confidence judgments following successful retrieval.
@@ -140,7 +140,7 @@ Beyond its practical applications, FOK also contributes to broader debates in co
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
 **Contrasts with:** [[Judgment of Learning (JOL)]] · [[Retrospective Confidence Judgments]]
 

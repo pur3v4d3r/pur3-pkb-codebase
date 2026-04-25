@@ -33,8 +33,8 @@ parent-concept: "Educational Psychology"
 
 related:
   - "[[Didactics]]"
-  - "[[Andragogy]]"
-  - "[[Instructional Design]]"
+  - "[[andragogy]]"
+  - "[[instructional-design]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[Didactics]]"
 contrasts-with:
-  - "[[Andragogy]]"
+  - "[[andragogy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Instructional Design]]"
+  - "[[instructional-design]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Pedagogy
 
 > [!definition] **Pedagogy**
-> Pedagogy is the theory and practice of teaching, encompassing principles, methods, and decisions that structure learning activities and assess progress. It falls under [[Educational Psychology]], traditionally focusing on children but now broadly applicable across educational levels.
+> Pedagogy is the theory and practice of teaching, encompassing principles, methods, and decisions that structure learning activities and assess progress. It falls under [[educational-psychology]], traditionally focusing on children but now broadly applicable across educational levels.
 
 > [!attention] **Boundary**
 > While pedagogy traditionally refers to the teaching of children, it now broadly applies across educational levels. It does not include specific teaching techniques or individual theories but rather the overarching framework guiding them.
@@ -133,12 +133,12 @@ Pedagogical principles are supported by substantial evidence from cognitive scie
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
 **Sibling concepts:** [[Didactics]]
 
-**Contrasts with:** [[Andragogy]]
+**Contrasts with:** [[andragogy]]
 
-**Applies to:** [[Instructional Design]]
+**Applies to:** [[instructional-design]]
 
 **Source:** [[pedagogy-synthetic-seed-2026-04-24]]

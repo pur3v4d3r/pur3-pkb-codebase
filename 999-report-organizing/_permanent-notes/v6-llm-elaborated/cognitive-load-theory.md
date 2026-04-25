@@ -36,23 +36,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Element Interactivity]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[element-interactivity]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Element Interactivity]]"
+  - "[[element-interactivity]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Cognitive Load Theory
 
 > [!definition] **Cognitive Load Theory**
-> Cognitive Load Theory (CLT) is a theory of instructional design that addresses the limited capacity of working memory and its implications for learning, particularly in initial instruction. It falls under [[Working Memory]], focusing on cognitive processing demands while excluding motivational, affective, or social dimensions of learning. It falls under [[Cognitive Architecture]].
+> Cognitive Load Theory (CLT) is a theory of instructional design that addresses the limited capacity of working memory and its implications for learning, particularly in initial instruction. It falls under [[working-memory]], focusing on cognitive processing demands while excluding motivational, affective, or social dimensions of learning. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > CLT focuses on cognitive processing demands; it does not model motivational, affective, or social dimensions of learning. Its prescriptions apply most directly to initial instruction rather than consolidation or transfer.
@@ -136,12 +136,12 @@ Cognitive Load Theory is crucial for understanding instructional design because 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Element Interactivity]]
+**Sibling concepts:** [[element-interactivity]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

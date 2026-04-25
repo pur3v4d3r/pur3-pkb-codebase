@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Active Learning
 
 > [!definition] **Active Learning**
-> Active Learning involves learner-generated responses to externalize cognitive work, contrasting with passive reception methods like lectures or reading assignments. It falls under [[Cognitive Architecture]], as it leverages the principles of working memory and schema construction to facilitate durable learning gains.
+> Active Learning involves learner-generated responses to externalize cognitive work, contrasting with passive reception methods like lectures or reading assignments. It falls under [[cognitive-architecture]], as it leverages the principles of working memory and schema construction to facilitate durable learning gains.
 
 > [!attention] **Boundary**
 > Active Learning excludes activities that merely appear active but do not engage the learner's cognitive processes, such as superficial group discussions without substantive generation of knowledge.
@@ -133,10 +133,10 @@ Empirical evidence supports the effectiveness of Active Learning. For instance, 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[active-learning-synthetic-seed-2026-04-24]]

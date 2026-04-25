@@ -2,6 +2,7 @@
 title: "Goal Contents Theory"
 aliases:
   - "Goal Contents Theory"
+  - "Goal-Contents Theory"
   - "GCT"
   - "intrinsic vs extrinsic goals"
 type: permanent-note
@@ -33,19 +34,19 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[self-determination-theory]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 broader:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +74,7 @@ provenance:
 # Goal Contents Theory
 
 > [!definition] **Goal Contents Theory**
-> Goal Contents Theory is a subtheory of Self-Determination Theory that distinguishes between intrinsic life goals (personal growth, close relationships) and extrinsic ones (wealth, fame), predicting better well-being from pursuing the former over the latter. It falls under [[Self-Determination Theory]], focusing on the distinction between intrinsic and extrinsic goals but not addressing other motivational theories or specific psychological mechanisms in detail.
+> Goal Contents Theory is a subtheory of Self-Determination Theory that distinguishes between intrinsic life goals (personal growth, close relationships) and extrinsic ones (wealth, fame), predicting better well-being from pursuing the former over the latter. It falls under [[self-determination-theory]], focusing on the distinction between intrinsic and extrinsic goals but not addressing other motivational theories or specific psychological mechanisms in detail.
 
 > [!attention] **Boundary**
 > This theory focuses on the distinction between intrinsic and extrinsic goals but does not address other motivational theories or specific psychological mechanisms in detail.
@@ -137,12 +138,12 @@ Empirical evidence supports Goal Contents Theory, showing that placing a relativ
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Specializes:** [[Intrinsic Motivation]]
+**Specializes:** [[intrinsic-motivation]]
 
-**Generalizes to:** [[Self-Determination Theory]]
+**Generalizes to:** [[self-determination-theory]]
 
-**Contrasts with:** [[Extrinsic Motivation]]
+**Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[goal-contents-theory-synthetic-seed-2026-04-24]]

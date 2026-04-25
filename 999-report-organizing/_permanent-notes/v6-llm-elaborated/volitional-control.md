@@ -33,15 +33,15 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Regulation]]"
+  - "[[self-regulation]]"
   - "[[Willpower]]"
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Regulation]]"
+  - "[[self-regulation]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Volitional Control
 
 > [!definition] **Volitional Control**
-> Volitional Control refers to the post-decisional self-regulatory processes that protect chosen intentions from competing impulses, distractions, and rival goals, comprising attention control, emotion regulation, motivation control, and environment control. It falls under [[Self-Regulated Learning]], distinct from motivational deliberation and should not be conflated with willpower alone.
+> Volitional Control refers to the post-decisional self-regulatory processes that protect chosen intentions from competing impulses, distractions, and rival goals, comprising attention control, emotion regulation, motivation control, and environment control. It falls under [[self-regulated-learning]], distinct from motivational deliberation and should not be conflated with willpower alone.
 
 > [!attention] **Boundary**
 > This includes attention control, emotion control, motivation control, and environment control. It is distinct from motivational deliberation and should not be conflated with willpower alone.
@@ -135,12 +135,12 @@ The integration of Volitional Control into broader self-regulatory processes hig
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Self-Regulation]]
+**Generalizes to:** [[self-regulation]]
 
 **Contrasts with:** [[Willpower]]
 
-**Applies to:** [[Implementation Intentions]]
+**Applies to:** [[implementation-intentions]]
 
 **Source:** [[volitional-control-synthetic-seed-2026-04-25]]

@@ -32,11 +32,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Reading Comprehension]]"
-  - "[[Phonological Loop]]"
+  - "[[phonological-loop]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[Reading Comprehension]]"
 contrasts-with:
-  - "[[Phonological Loop]]"
+  - "[[phonological-loop]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Working Memory in Reading
 
 > [!definition] **Working Memory in Reading**
-> Working Memory in Reading refers to the cognitive capacity for holding and integrating information during text comprehension, crucial for parsing sentences and understanding complex texts. It falls under [[Cognitive Architecture]], focusing specifically on the role of working memory in reading tasks without encompassing broader aspects like long-term memory storage.
+> Working Memory in Reading refers to the cognitive capacity for holding and integrating information during text comprehension, crucial for parsing sentences and understanding complex texts. It falls under [[cognitive-architecture]], focusing specifically on the role of working memory in reading tasks without encompassing broader aspects like long-term memory storage.
 
 > [!attention] **Boundary**
 > This concept focuses on the role of working memory specifically in reading tasks. It does not encompass broader aspects of working memory outside of reading or other cognitive processes like long-term memory storage.
@@ -131,12 +131,12 @@ The significance of Working Memory in Reading extends beyond reading itself, inf
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Reading Comprehension]]
 
-**Contrasts with:** [[Phonological Loop]]
+**Contrasts with:** [[phonological-loop]]
 
 **Source:** [[working-memory-in-reading-synthetic-seed-2026-04-24]]

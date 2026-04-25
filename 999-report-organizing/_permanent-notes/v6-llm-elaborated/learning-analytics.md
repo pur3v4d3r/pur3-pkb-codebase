@@ -33,7 +33,7 @@ parent-concept: "Learning Science"
 
 related:
   - "[[Educational Data Mining]]"
-  - "[[Formative Assessment]]"
+  - "[[formative-assessment]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Formative Assessment]]"
+  - "[[formative-assessment]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Learning Analytics
 
 > [!definition] **Learning Analytics**
-> Learning Analytics involves the measurement, collection, analysis, and reporting of data about learners and their contexts to optimize learning environments and support decision-making. It falls under [[Learning Science]], focusing on digital traces of learning activity rather than traditional assessment methods that sample behaviors sparsely in time.
+> Learning Analytics involves the measurement, collection, analysis, and reporting of data about learners and their contexts to optimize learning environments and support decision-making. It falls under [[learning-science]], focusing on digital traces of learning activity rather than traditional assessment methods that sample behaviors sparsely in time.
 
 > [!attention] **Boundary**
 > It excludes traditional assessment methods that sample learning behaviors sparsely in time and focuses on digital traces of learning activity.
@@ -130,10 +130,10 @@ Moreover, Learning Analytics aligns with broader trends in educational data mini
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
 **Generalizes to:** [[Educational Data Mining]]
 
-**Applies to:** [[Formative Assessment]]
+**Applies to:** [[formative-assessment]]
 
 **Source:** [[learning-analytics-synthetic-seed-2026-04-25]]

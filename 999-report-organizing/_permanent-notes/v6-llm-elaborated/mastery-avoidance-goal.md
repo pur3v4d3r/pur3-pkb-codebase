@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Achievement Goal"
 
 related:
-  - "[[Mastery-Approach Goal]]"
-  - "[[Performance-Avoidance Goal]]"
-  - "[[Achievement-Goal Theory]]"
+  - "[[mastery-approach-goal]]"
+  - "[[performance-avoidance-goal]]"
+  - "[[achievement-goal-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Mastery-Approach Goal]]"
-  - "[[Performance-Avoidance Goal]]"
+  - "[[mastery-approach-goal]]"
+  - "[[performance-avoidance-goal]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -55,7 +55,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Achievement-Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 refines:
   - "[[]]"
 
@@ -73,7 +73,7 @@ provenance:
 # Mastery-Avoidance Goal
 
 > [!definition] **Mastery-Avoidance Goal**
-> Mastery-Avoidance Goal is an achievement orientation where competence is defined absolutely by task or prior performance and valenced negatively to avoid falling short of mastery, losing skills, or making errors. It falls under [[Achievement-Goal Theory]], which distinguishes it from other goal orientations like Mastery-Approach and Performance-Avoidance goals. It falls under [[Achievement Goal]].
+> Mastery-Avoidance Goal is an achievement orientation where competence is defined absolutely by task or prior performance and valenced negatively to avoid falling short of mastery, losing skills, or making errors. It falls under [[achievement-goal-theory]], which distinguishes it from other goal orientations like Mastery-Approach and Performance-Avoidance goals. It falls under [[achievement-goal]].
 
 > [!attention] **Boundary**
 > This concept excludes other goal orientations like Mastery-Approach and Performance-Avoidance goals. It focuses on the negative valence towards not mastering a task rather than positively pursuing it.
@@ -84,7 +84,7 @@ Mastery-Avoidance Goal is a specific type of achievement orientation that focuse
 
 In practice, Mastery-Avoidance Goal manifests as a defensive strategy where individuals engage in surface-level processing rather than deep learning. They may also exhibit self-handicapping behaviors, such as procrastination or seeking excuses to justify their performance, to protect themselves from the perceived threat of failure. This approach can be detrimental to long-term skill retention and academic success.
 
-Theoretical roots of Mastery-Avoidance Goal trace back to Elliot's [[Achievement-Goal Theory]], which introduced a more nuanced framework for understanding achievement motivation beyond the traditional mastery-vs-performance dichotomy. Mastery-Avoidance Goal is distinguished by its negative valence towards not mastering tasks, as opposed to Mastery-Approach goals, which focus on positively pursuing mastery.
+Theoretical roots of Mastery-Avoidance Goal trace back to Elliot's [[achievement-goal-theory]], which introduced a more nuanced framework for understanding achievement motivation beyond the traditional mastery-vs-performance dichotomy. Mastery-Avoidance Goal is distinguished by its negative valence towards not mastering tasks, as opposed to Mastery-Approach goals, which focus on positively pursuing mastery.
 
 Empirical evidence supports the idea that Mastery-Avoidance Goal can lead to maladaptive outcomes such as increased anxiety and perfectionism. For instance, studies have shown that students with a Mastery-Avoidance orientation are more likely to engage in surface-level learning strategies and exhibit defensive disengagement behaviors when faced with challenging tasks.
 
@@ -107,7 +107,7 @@ Mastery-Avoidance Goal operates through a mechanism of avoidance rather than app
 
 ## Key Figures
 
-- **Rebecca Elliott** — Rebecca Elliott is a key contributor to the development of Mastery-Avoidance Goal. She introduced this concept within Elliot's [[Achievement-Goal Theory]], which provides a more nuanced framework for understanding achievement motivation.
+- **Rebecca Elliott** — Rebecca Elliott is a key contributor to the development of Mastery-Avoidance Goal. She introduced this concept within Elliot's [[achievement-goal-theory]], which provides a more nuanced framework for understanding achievement motivation.
 
 ## Open Questions
 
@@ -129,10 +129,10 @@ The broader implications of Mastery-Avoidance Goal extend beyond educational set
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal]]
+**Falls under:** [[achievement-goal]]
 
-**Contrasts with:** [[Mastery-Approach Goal]] · [[Performance-Avoidance Goal]]
+**Contrasts with:** [[mastery-approach-goal]] · [[performance-avoidance-goal]]
 
-**Supports:** [[Achievement-Goal Theory]]
+**Supports:** [[achievement-goal-theory]]
 
 **Source:** [[mastery-avoidance-goal-synthetic-seed-2026-04-24]]

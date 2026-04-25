@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Goal-Setting Theory"
 
 related:
-  - "[[Goal Commitment]]"
-  - "[[Self-Efficacy]]"
+  - "[[goal-commitment]]"
+  - "[[self-efficacy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,8 +47,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Goal Commitment]]"
-  - "[[Self-Efficacy]]"
+  - "[[goal-commitment]]"
+  - "[[self-efficacy]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # Translation Window
 
 > [!definition] **Translation Window**
-> The Translation Window is the region of conditions within which goal-achieving activities coincide with desired reinforcement; defined operationally by proxy fidelity, honest attainability, measurement adequacy, and failure tolerance. It falls under [[Goal-Setting Theory]], providing a unified diagnostic for distinguishing applications likely to produce benefits from those likely to produce pathology.
+> The Translation Window is the region of conditions within which goal-achieving activities coincide with desired reinforcement; defined operationally by proxy fidelity, honest attainability, measurement adequacy, and failure tolerance. It falls under [[goal-setting-theory]], providing a unified diagnostic for distinguishing applications likely to produce benefits from those likely to produce pathology.
 
 > [!attention] **Boundary**
 > This concept stops at the operational conditions that must be met for a goal to align with desired reinforcement; it does not encompass broader motivational theories or specific implementation strategies.
@@ -138,8 +138,8 @@ The Translation Window also highlights the importance of operational conditions 
 
 ## Connections & Context
 
-**Falls under:** [[Goal-Setting Theory]]
+**Falls under:** [[goal-setting-theory]]
 
-**Contrasts with:** [[Goal Commitment]] · [[Self-Efficacy]]
+**Contrasts with:** [[goal-commitment]] · [[self-efficacy]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

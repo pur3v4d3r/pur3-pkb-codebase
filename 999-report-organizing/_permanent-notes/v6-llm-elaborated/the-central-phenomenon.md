@@ -35,19 +35,19 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Schema Theory]]"
-  - "[[Pattern Recognition]]"
+  - "[[working-memory]]"
+  - "[[schema-theory]]"
+  - "[[pattern-recognition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Pattern Recognition]]"
+  - "[[pattern-recognition]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # The Central Phenomenon
 
 > [!definition] **The Central Phenomenon**
-> The Central Phenomenon refers to the substitution of recognition-based processing for analytic processing by experts, facilitated by prior knowledge structures like chunks and schemas. It falls under [[Cognitive Architecture]], where it illustrates how expertise is built through deliberate practice and the construction of these cognitive units.
+> The Central Phenomenon refers to the substitution of recognition-based processing for analytic processing by experts, facilitated by prior knowledge structures like chunks and schemas. It falls under [[cognitive-architecture]], where it illustrates how expertise is built through deliberate practice and the construction of these cognitive units.
 
 > [!attention] **Boundary**
 > This concept excludes faster execution of novice processes and is distinct from other cognitive phenomena such as automaticity or procedural memory.
@@ -133,12 +133,12 @@ This phenomenon also intersects with other concepts like schema theory and patte
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Generalizes to:** [[Schema Theory]]
+**Generalizes to:** [[schema-theory]]
 
-**Contrasts with:** [[Pattern Recognition]]
+**Contrasts with:** [[pattern-recognition]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

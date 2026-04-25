@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Forethought Phase]]"
-  - "[[Self-Reflection Phase]]"
-  - "[[Metacognition]]"
+  - "[[forethought-phase]]"
+  - "[[self-reflection-phase]]"
+  - "[[metacognition]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,14 +46,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Forethought Phase]]"
-  - "[[Self-Reflection Phase]]"
+  - "[[forethought-phase]]"
+  - "[[self-reflection-phase]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Control Phase
 
 > [!definition] **Control Phase**
-> The Control Phase is a regulatory phase during performance where learners adjust their strategies based on monitoring signals to optimize cognition, motivation, behavior, and context. It falls under [[Self-Regulated Learning]], focusing on the diagnostic deployment of specific moves matched to specific monitoring signals, distinguishing it from initial planning or post-task reflection.
+> The Control Phase is a regulatory phase during performance where learners adjust their strategies based on monitoring signals to optimize cognition, motivation, behavior, and context. It falls under [[self-regulated-learning]], focusing on the diagnostic deployment of specific moves matched to specific monitoring signals, distinguishing it from initial planning or post-task reflection.
 
 > [!attention] **Boundary**
 > This phase stops at the deployment of specific moves matched to monitoring signals. It does not include the initial planning or goal-setting phases (forethought) nor the reflection after task completion (self-reflection).
@@ -137,10 +137,10 @@ The Control Phase also has broader implications across various domains within ed
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Forethought Phase]] · [[Self-Reflection Phase]]
+**Sibling concepts:** [[forethought-phase]] · [[self-reflection-phase]]
 
-**Applies to:** [[Metacognition]]
+**Applies to:** [[metacognition]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

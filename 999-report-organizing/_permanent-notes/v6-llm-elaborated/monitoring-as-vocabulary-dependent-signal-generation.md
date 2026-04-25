@@ -36,19 +36,19 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Regulated Learning]]"
-  - "[[Metacognition]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[self-regulated-learning]]"
+  - "[[metacognition]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 see-also:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # Monitoring as Vocabulary-Dependent Signal Generation
 
 > [!definition] **Monitoring as Vocabulary-Dependent Signal Generation**
-> Monitoring is the process by which learners interpret and regulate their cognitive, motivational, behavioral, and contextual states to inform control decisions, influenced by their vocabulary for these states. It falls under [[Self-Regulated Learning]], where it serves as a critical regulatory activity that transforms specific states into inputs for control subsystems.
+> Monitoring is the process by which learners interpret and regulate their cognitive, motivational, behavioral, and contextual states to inform control decisions, influenced by their vocabulary for these states. It falls under [[self-regulated-learning]], where it serves as a critical regulatory activity that transforms specific states into inputs for control subsystems.
 
 > [!attention] **Boundary**
 > This concept does not include awareness in a phenomenological sense but focuses on the technical regulatory activity of generating signals from specific states. It excludes broader concepts like metacognition or self-regulated learning as a whole.
@@ -139,12 +139,12 @@ The importance of monitoring extends beyond educational psychology to fields suc
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Self-Regulated Learning]]
+**Generalizes to:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Metacognition]]
+**Sibling concepts:** [[metacognition]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

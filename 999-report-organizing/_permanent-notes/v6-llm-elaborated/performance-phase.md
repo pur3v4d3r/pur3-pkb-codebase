@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Forethought Phase]]"
-  - "[[Self-Reflection Phase]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[forethought-phase]]"
+  - "[[self-reflection-phase]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,8 +43,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Forethought Phase]]"
-  - "[[Self-Reflection Phase]]"
+  - "[[forethought-phase]]"
+  - "[[self-reflection-phase]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -56,7 +56,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Performance Phase
 
 > [!definition] **Performance Phase**
-> The Performance Phase is the stage in which learners execute their planned approach while engaging in self-control and self-observation during task execution. It falls under [[Self-Regulated Learning]], where learners use attention focusing, task strategies, self-instruction, environmental structuring, and monitoring to regulate their performance, but stops at the point where they begin to reflect on or evaluate their performance, transitioning into the reflection phase.
+> The Performance Phase is the stage in which learners execute their planned approach while engaging in self-control and self-observation during task execution. It falls under [[self-regulated-learning]], where learners use attention focusing, task strategies, self-instruction, environmental structuring, and monitoring to regulate their performance, but stops at the point where they begin to reflect on or evaluate their performance, transitioning into the reflection phase.
 
 > [!attention] **Boundary**
 > This phase stops at the point where learners begin to reflect on or evaluate their performance, transitioning into the reflection phase. It does not include pre-task planning (forethought) or post-task evaluation (self-reflection).
@@ -133,10 +133,10 @@ Understanding the Performance Phase also has implications for cognitive load the
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Forethought Phase]] · [[Self-Reflection Phase]]
+**Sibling concepts:** [[forethought-phase]] · [[self-reflection-phase]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[performance-phase-synthetic-seed-2026-04-24]]

@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Controlling-Teaching-Styles]]"
+  - "[[controlling-teaching-styles]]"
   - "[[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments]]"
   - "[[Conditional-Regard-Research]]"
 prerequisites:
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Controlling-Teaching-Styles]]"
+  - "[[controlling-teaching-styles]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Basic Psychological Needs
 
 > [!definition] **Basic Psychological Needs**
-> The three universal psychological needs — autonomy, competence, and relatedness — are essential for sustained well-being and successful internalization according to Self-Determination Theory (SDT). These needs are distinguished from casual uses of 'needs' by their universality and specific developmental roles in the internalization process. They fall under [[Self-Regulated Learning]], as they are central to fostering a supportive learning environment that promotes intrinsic motivation.
+> The three universal psychological needs — autonomy, competence, and relatedness — are essential for sustained well-being and successful internalization according to Self-Determination Theory (SDT). These needs are distinguished from casual uses of 'needs' by their universality and specific developmental roles in the internalization process. They fall under [[self-regulated-learning]], as they are central to fostering a supportive learning environment that promotes intrinsic motivation.
 
 > [!attention] **Boundary**
 > These needs are distinguished from casual uses of 'needs' by their universality and specific developmental roles in the internalization process. They do not include more specialized or debated concepts like beneficence or novelty.
@@ -131,9 +131,9 @@ The importance of these needs extends beyond individual well-being to broader so
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Controlling-Teaching-Styles]]
+**Sibling concepts:** [[controlling-teaching-styles]]
 
 **Applies to:** [[Autonomy-Support-in-Digital-and-AI-Mediated-Learning-Environments]] · [[Conditional-Regard-Research]]
 

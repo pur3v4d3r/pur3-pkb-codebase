@@ -35,8 +35,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Growth Mindset]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[growth-mindset]]"
+  - "[[self-efficacy-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,11 +46,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Explanatory Style
 
 > [!definition] **Explanatory Style**
-> Explanatory style refers to an individual's habitual pattern of generating causal attributions for events along the dimensions of internality (whether a cause is internal or external), stability (whether it is fixed or variable over time), and globality (whether it affects one’s entire life or just a specific domain). This concept falls under [[Cognitive Architecture]], as it pertains to how individuals process information about causes and effects, shaping their beliefs and behaviors. It stops at the level of a trait-like tendency rather than specific attributions for particular events.
+> Explanatory style refers to an individual's habitual pattern of generating causal attributions for events along the dimensions of internality (whether a cause is internal or external), stability (whether it is fixed or variable over time), and globality (whether it affects one’s entire life or just a specific domain). This concept falls under [[cognitive-architecture]], as it pertains to how individuals process information about causes and effects, shaping their beliefs and behaviors. It stops at the level of a trait-like tendency rather than specific attributions for particular events.
 
 > [!attention] **Boundary**
 > This concept stops at the level of a trait-like tendency rather than specific attributions for particular events. It should not be confused with state-level attributions or situational factors.
@@ -131,10 +131,10 @@ Understanding explanatory style is crucial for its broad implications across var
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Growth Mindset]]
+**Contrasts with:** [[growth-mindset]]
 
-**Applies to:** [[Self-Efficacy Theory]]
+**Applies to:** [[self-efficacy-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

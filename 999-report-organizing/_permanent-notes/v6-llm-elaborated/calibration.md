@@ -35,9 +35,9 @@ depth-level: elaborated
 parent-concept: "Metacognitive Monitoring"
 
 related:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Sensitivity]]"
-  - "[[Fluency Illusion]]"
+  - "[[fluency-illusion]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,13 +45,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[Sensitivity]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Fluency Illusion]]"
+  - "[[fluency-illusion]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Calibration
 
 > [!definition] **Calibration**
-> Calibration refers to the degree of alignment between a reader's confidence in their comprehension and their actual performance, distinct from sensitivity which measures discriminative accuracy. It falls under [[Metacognitive Monitoring]], as it is a critical component that ensures the monitoring–control loop operates effectively.
+> Calibration refers to the degree of alignment between a reader's confidence in their comprehension and their actual performance, distinct from sensitivity which measures discriminative accuracy. It falls under [[metacognitive-monitoring]], as it is a critical component that ensures the monitoring–control loop operates effectively.
 
 > [!attention] **Boundary**
 > The concept stops at the structural differences between calibration and sensitivity. It does not include generalized cognitive deficits or other forms of metacognitive failure modes like poor sensitivity.
@@ -134,12 +134,12 @@ Calibration also intersects with other concepts like sensitivity and fluency ill
 
 ## Connections & Context
 
-**Falls under:** [[Metacognitive Monitoring]]
+**Falls under:** [[metacognitive-monitoring]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
 **Contrasts with:** [[Sensitivity]]
 
-**Applies to:** [[Fluency Illusion]]
+**Applies to:** [[fluency-illusion]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

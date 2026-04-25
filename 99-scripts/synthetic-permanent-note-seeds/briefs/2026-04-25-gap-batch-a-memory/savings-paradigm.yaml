@@ -1,0 +1,38 @@
+concept: Savings Paradigm
+domain: cognitive-science
+secondary_domains:
+- memory-research
+- learning-science
+aliases:
+- savings method
+- relearning method
+broader:
+- memory-research-methods
+related:
+- forgetting-curve
+- ebbinghaus
+- long-term-memory
+- encoding-specificity-principle
+prerequisites:
+- long-term-memory
+- forgetting-curve
+confidence: high
+callouts:
+- type: definition
+  title: Savings Paradigm
+  body: The Savings Paradigm is Ebbinghaus's experimental method in which retention
+    is measured not by direct recall but by the reduction in trials required to relearn
+    previously studied material to the original criterion, providing a sensitive index
+    of residual memory below the recognition threshold.
+- type: key-claim
+  title: Key claim about Savings Paradigm
+  body: The Savings Paradigm reveals that material can appear completely forgotten
+    by recall or recognition tests yet still leave a measurable trace, which is why
+    the Savings Paradigm remains the most sensitive of the classical memory measures
+    and why "forgotten" is not the same as "absent from memory".
+- type: warning
+  title: Common pitfall regarding Savings Paradigm
+  body: Modern study designs rarely use the Savings Paradigm because it is procedurally
+    expensive and requires controlled relearning conditions; treating recall or recognition
+    data as if they captured what the Savings Paradigm would have detected systematically
+    underestimates long-term retention.

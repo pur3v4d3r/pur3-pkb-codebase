@@ -1,0 +1,38 @@
+concept: Mastery vs Performance Goals
+domain: motivational-psychology
+secondary_domains:
+- achievement-goal-theory
+- educational-psychology
+aliases:
+- task-vs-ego goals
+- learning-vs-performance goals
+broader:
+- achievement-goal-theory
+related:
+- mastery-goal
+- performance-approach-goal
+- performance-avoidance-goal
+- 2x2-framework
+prerequisites:
+- achievement-goal-theory
+- achievement-goal
+confidence: high
+callouts:
+- type: definition
+  title: Mastery vs Performance Goals
+  body: Mastery vs Performance Goals is the central distinction in achievement-goal
+    theory between goals oriented toward developing competence relative to the task
+    or one's prior self versus goals oriented toward demonstrating competence relative
+    to others.
+- type: key-claim
+  title: Key claim about Mastery vs Performance Goals
+  body: 'Mastery vs Performance Goals predict different downstream patterns: mastery
+    goals reliably link to deep processing, persistence after failure, and help-seeking,
+    whereas performance goals — especially performance-avoidance — link to surface
+    strategies, anxiety, and avoidance of challenging tasks.'
+- type: warning
+  title: Common pitfall regarding Mastery vs Performance Goals
+  body: Mastery vs Performance Goals are not mutually exclusive; learners commonly
+    hold both, and the empirically interesting question is the goal-complex pattern
+    rather than which single Mastery vs Performance Goals category dominates, so dichotomous
+    classifications misrepresent the construct.

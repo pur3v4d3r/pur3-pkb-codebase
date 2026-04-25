@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Sustained Attention]]"
-  - "[[Executive Function]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[sustained-attention]]"
+  - "[[executive-function]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,10 +45,10 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Sustained Attention]]"
-  - "[[Executive Function]]"
+  - "[[sustained-attention]]"
+  - "[[executive-function]]"
 contradicts:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 applies-to:
   - "[[]]"
 formalizes:
@@ -74,7 +74,7 @@ provenance:
 # Attention Restoration Theory
 
 > [!definition] **Attention Restoration Theory**
-> Attention Restoration Theory (ART) is a framework that explains how exposure to natural settings can restore directed attention by engaging involuntary attention without depleting executive control. It falls under [[Cognitive Architecture]], focusing specifically on the restoration of directed attention and not addressing other forms of cognitive load or attentional states like sustained attention, mind-wandering, or cognitive fatigue in non-natural environments.
+> Attention Restoration Theory (ART) is a framework that explains how exposure to natural settings can restore directed attention by engaging involuntary attention without depleting executive control. It falls under [[cognitive-architecture]], focusing specifically on the restoration of directed attention and not addressing other forms of cognitive load or attentional states like sustained attention, mind-wandering, or cognitive fatigue in non-natural environments.
 
 > [!attention] **Boundary**
 > This theory focuses on the restoration of directed attention and does not address other forms of cognitive load or attentional states like sustained attention, mind-wandering, or cognitive fatigue in non-natural environments.
@@ -138,10 +138,10 @@ Empirical evidence supports ART's claims, showing measurable improvements in per
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Sustained Attention]] · [[Executive Function]]
+**Contrasts with:** [[sustained-attention]] · [[executive-function]]
 
-**Contradicts:** [[Cognitive Load Theory]]
+**Contradicts:** [[cognitive-load-theory]]
 
 **Source:** [[attention-restoration-theory-synthetic-seed-2026-04-25]]

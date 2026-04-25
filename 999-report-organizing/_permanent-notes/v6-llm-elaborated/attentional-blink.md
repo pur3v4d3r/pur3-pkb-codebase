@@ -32,19 +32,19 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Selective Attention]]"
-  - "[[Perceptual Load Theory]]"
+  - "[[working-memory]]"
+  - "[[selective-attention]]"
+  - "[[perceptual-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Selective Attention]]"
+  - "[[selective-attention]]"
 contrasts-with:
-  - "[[Perceptual Load Theory]]"
+  - "[[perceptual-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Attentional Blink
 
 > [!definition] **Attentional Blink**
-> The Attentional Blink refers to the temporary inability to detect a second target stimulus presented roughly 200–500 milliseconds after a successfully detected first target in rapid serial visual presentation, reflecting a transient bottleneck in the consolidation of perceptual representations into reportable working memory. It falls under [[Cognitive Architecture]], as it highlights limitations in how information is processed and stored temporarily.
+> The Attentional Blink refers to the temporary inability to detect a second target stimulus presented roughly 200–500 milliseconds after a successfully detected first target in rapid serial visual presentation, reflecting a transient bottleneck in the consolidation of perceptual representations into reportable working memory. It falls under [[cognitive-architecture]], as it highlights limitations in how information is processed and stored temporarily.
 
 > [!attention] **Boundary**
 > This concept excludes general slow reaction times and is specific to the failure of consciously reporting the second target. It should not be conflated with inattentional blindness or other perceptual phenomena.
@@ -131,12 +131,12 @@ The Attentional Blink also intersects with other related concepts like perceptua
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Selective Attention]]
+**Sibling concepts:** [[selective-attention]]
 
-**Contrasts with:** [[Perceptual Load Theory]]
+**Contrasts with:** [[perceptual-load-theory]]
 
 **Source:** [[attentional-blink-synthetic-seed-2026-04-25]]

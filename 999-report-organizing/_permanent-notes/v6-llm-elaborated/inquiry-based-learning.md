@@ -33,8 +33,8 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[Guided-Discovery]]"
-  - "[[Problem-Based Learning]]"
-  - "[[Project-Based Learning]]"
+  - "[[problem-based-learning]]"
+  - "[[project-based-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Problem-Based Learning]]"
-  - "[[Project-Based Learning]]"
+  - "[[problem-based-learning]]"
+  - "[[project-based-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Inquiry-Based Learning
 
 > [!definition] **Inquiry-Based Learning**
-> Inquiry-Based Learning (IBL) is an instructional approach where learners drive their own learning by formulating questions, gathering evidence, and constructing explanations under varying degrees of teacher guidance, ranging from highly structured guided inquiry to open inquiry that approaches authentic disciplinary practice. It falls under [[Self-Regulated Learning]], emphasizing the learner's active role in the educational process.
+> Inquiry-Based Learning (IBL) is an instructional approach where learners drive their own learning by formulating questions, gathering evidence, and constructing explanations under varying degrees of teacher guidance, ranging from highly structured guided inquiry to open inquiry that approaches authentic disciplinary practice. It falls under [[self-regulated-learning]], emphasizing the learner's active role in the educational process.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of student-centered learning such as problem-based learning or project-based learning, which may not involve the same level of structured inquiry processes.
@@ -136,10 +136,10 @@ Empirical evidence supports the effectiveness of structured and guided inquiry w
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Specializes:** [[Guided-Discovery]]
 
-**Contrasts with:** [[Problem-Based Learning]] · [[Project-Based Learning]]
+**Contrasts with:** [[problem-based-learning]] · [[project-based-learning]]
 
 **Source:** [[inquiry-based-learning-synthetic-seed-2026-04-24]]

@@ -37,8 +37,8 @@ parent-concept: "Achievement Goal Theory"
 
 related:
   - "[[Mastery vs Performance Goals]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Attribution Theory]]"
+  - "[[self-efficacy-theory]]"
+  - "[[attribution-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,11 +48,11 @@ broader:
 see-also:
   - "[[Mastery vs Performance Goals]]"
 contrasts-with:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Self-Handicapping
 
 > [!definition] **Self-Handicapping**
-> Self-handicapping involves strategically reducing one's effort or creating obstacles before an achievement situation to provide a non-ability explanation for potential failure — for example, deliberately not studying for an exam so that poor performance can be attributed to lack of preparation rather than lack of ability. It falls under [[Achievement Goal Theory]], where it is particularly diagnostic of the performance-avoidance orientation.
+> Self-handicapping involves strategically reducing one's effort or creating obstacles before an achievement situation to provide a non-ability explanation for potential failure — for example, deliberately not studying for an exam so that poor performance can be attributed to lack of preparation rather than lack of ability. It falls under [[achievement-goal-theory]], where it is particularly diagnostic of the performance-avoidance orientation.
 
 > [!attention] **Boundary**
 > This concept is distinct from genuine procrastination and post-hoc external attribution after failure. It specifically refers to pre-emptive behaviors aimed at protecting one's self-esteem by avoiding the perception of personal inadequacy.
@@ -138,12 +138,12 @@ Self-handicapping intersects with other key concepts in educational psychology, 
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
 **Sibling concepts:** [[Mastery vs Performance Goals]]
 
-**Contrasts with:** [[Self-Efficacy Theory]]
+**Contrasts with:** [[self-efficacy-theory]]
 
-**Applies to:** [[Attribution Theory]]
+**Applies to:** [[attribution-theory]]
 
 **Source:** [[goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20]]

@@ -37,8 +37,8 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Autonomy]]"
-  - "[[Competence]]"
+  - "[[autonomy]]"
+  - "[[competence]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,8 +46,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Autonomy]]"
-  - "[[Competence]]"
+  - "[[autonomy]]"
+  - "[[competence]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -140,8 +140,8 @@ The broader implications of relatedness extend beyond individual psychology into
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Autonomy]] · [[Competence]]
+**Sibling concepts:** [[autonomy]] · [[competence]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

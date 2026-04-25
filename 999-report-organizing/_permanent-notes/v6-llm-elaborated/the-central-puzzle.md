@@ -36,11 +36,11 @@ depth-level: elaborated
 parent-concept: "Motivation Science"
 
 related:
-  - "[[Forethought-Phase]]"
-  - "[[Goal-Setting Theory]]"
-  - "[[Automaticity]]"
+  - "[[forethought-phase]]"
+  - "[[goal-setting-theory]]"
+  - "[[automaticity]]"
 prerequisites:
-  - "[[Forethought-Phase]]"
+  - "[[forethought-phase]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,11 +48,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Goal-Setting Theory]]"
+  - "[[goal-setting-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -137,10 +137,10 @@ This concept also has broader implications for motivation science and volitional
 
 **Falls under:** [[Motivation Science]]
 
-**Prerequisites:** [[Forethought-Phase]]
+**Prerequisites:** [[forethought-phase]]
 
-**Contrasts with:** [[Goal-Setting Theory]]
+**Contrasts with:** [[goal-setting-theory]]
 
-**Applies to:** [[Automaticity]]
+**Applies to:** [[automaticity]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

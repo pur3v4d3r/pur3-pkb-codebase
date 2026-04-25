@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Self-Determination Theory]]"
-  - "[[Attribution Theory]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[self-determination-theory]]"
+  - "[[attribution-theory]]"
+  - "[[intrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +45,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Determination Theory]]"
-  - "[[Attribution Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Expectancy-Value Theory
 
 > [!definition] **Expectancy-Value Theory**
-> Expectancy-Value Theory is a motivational framework that models achievement-relevant choice, persistence, and performance as the product of expectancy (the belief in success) and value (the importance placed on the task). It falls under [[Motivational Psychology]], focusing specifically on the interaction between these two components but not addressing other motivational factors like self-efficacy or attribution.
+> Expectancy-Value Theory is a motivational framework that models achievement-relevant choice, persistence, and performance as the product of expectancy (the belief in success) and value (the importance placed on the task). It falls under [[motivational-psychology]], focusing specifically on the interaction between these two components but not addressing other motivational factors like self-efficacy or attribution.
 
 > [!attention] **Boundary**
 > This theory focuses specifically on the interaction between expectancy and value but does not address other motivational factors like self-efficacy or attribution.
@@ -131,10 +131,10 @@ Moreover, Expectancy-Value Theory has practical implications for various domains
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Contrasts with:** [[Self-Determination Theory]] · [[Attribution Theory]]
+**Contrasts with:** [[self-determination-theory]] · [[attribution-theory]]
 
-**Applies to:** [[Intrinsic Motivation]]
+**Applies to:** [[intrinsic-motivation]]
 
 **Source:** [[expectancy-value-theory-synthetic-seed-2026-04-24]]

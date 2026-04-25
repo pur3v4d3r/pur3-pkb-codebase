@@ -1,0 +1,36 @@
+concept: Cued Recall
+domain: cognitive-science
+secondary_domains:
+- memory-research
+aliases:
+- prompted retrieval
+broader:
+- retrieval-practice
+related:
+- free-recall
+- recognition-memory
+- encoding-specificity-principle
+- transfer-appropriate-processing
+prerequisites:
+- long-term-memory
+- retrieval-practice
+confidence: high
+callouts:
+- type: definition
+  title: Cued Recall
+  body: Cued Recall is a memory test in which the learner is given a partial cue —
+    a category label, a paired-associate stem, a fill-in-the-blank context — and must
+    produce the missing target, occupying the middle band of retrieval difficulty
+    between recognition and free recall.
+- type: key-claim
+  title: Key claim about Cued Recall
+  body: Cued Recall reveals knowledge that free recall fails to surface because the
+    cue diagnoses accessibility rather than availability, demonstrating the well-established
+    distinction that memory traces can be stored but inaccessible without an appropriate
+    Cued Recall prompt.
+- type: warning
+  title: Common pitfall regarding Cued Recall
+  body: A high Cued Recall score does not imply that the learner can use the same
+    knowledge under uncued conditions; transfer to free production environments such
+    as essays or open-ended problem solving requires explicit practice beyond Cued
+    Recall drills.

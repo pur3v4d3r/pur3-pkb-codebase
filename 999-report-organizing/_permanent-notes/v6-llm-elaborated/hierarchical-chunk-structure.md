@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Pattern Recognition]]"
+  - "[[working-memory]]"
+  - "[[pattern-recognition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Pattern Recognition]]"
+  - "[[pattern-recognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Hierarchical Chunk Structure
 
 > [!definition] **Hierarchical Chunk Structure**
-> The Hierarchical Chunk Structure is a model of how experts organize knowledge into nested levels, where higher-order chunks integrate co-occurring lower-level configurations to facilitate efficient processing and reasoning. It falls under [[Cognitive Architecture]], as it allows the cognitive system to operate at the appropriate level of granularity while preserving access to finer-grained components when needed.
+> The Hierarchical Chunk Structure is a model of how experts organize knowledge into nested levels, where higher-order chunks integrate co-occurring lower-level configurations to facilitate efficient processing and reasoning. It falls under [[cognitive-architecture]], as it allows the cognitive system to operate at the appropriate level of granularity while preserving access to finer-grained components when needed.
 
 > [!attention] **Boundary**
 > This concept excludes simple categorization trees that treat higher levels as abstractions of lower levels. It focuses on the integration of co-occurring lower-level configurations within a hierarchy.
@@ -133,10 +133,10 @@ The hierarchical chunk structure is deeply intertwined with other concepts in co
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Pattern Recognition]]
+**Applies to:** [[pattern-recognition]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

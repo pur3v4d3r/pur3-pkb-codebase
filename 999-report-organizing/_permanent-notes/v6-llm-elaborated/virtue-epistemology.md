@@ -33,7 +33,7 @@ parent-concept: "Epistemology"
 
 related:
   - "[[Reliabilism]]"
-  - "[[Intellectual Humility]]"
+  - "[[intellectual-humility]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -51,7 +51,7 @@ applies-to:
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Intellectual Humility]]"
+  - "[[intellectual-humility]]"
 supports:
   - "[[]]"
 refines:
@@ -135,6 +135,6 @@ Moreover, Virtue Epistemology complements other epistemological theories by offe
 
 **Contrasts with:** [[Reliabilism]]
 
-**Instance of:** [[Intellectual Humility]]
+**Instance of:** [[intellectual-humility]]
 
 **Source:** [[virtue-epistemology-synthetic-seed-2026-04-24]]

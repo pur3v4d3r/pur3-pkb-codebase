@@ -36,19 +36,19 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Strategic Automaticity]]"
-  - "[[Implementation Intentions]]"
-  - "[[Automaticity]]"
+  - "[[strategic-automaticity]]"
+  - "[[implementation-intentions]]"
+  - "[[automaticity]]"
 prerequisites:
-  - "[[Strategic Automaticity]]"
+  - "[[strategic-automaticity]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 contrasts-with:
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # Cognitive Pre-Compilation
 
 > [!definition] **Cognitive Pre-Compilation**
-> Cognitive pre-compilation refers to the process of transforming high-level, deliberative goal intentions into cue-triggered representations that can be executed with minimal cognitive overhead at the moment of action. It falls under [[Self-Regulated Learning]], offering a heuristic analogy for understanding implementation intentions as a form of strategic automaticity.
+> Cognitive pre-compilation refers to the process of transforming high-level, deliberative goal intentions into cue-triggered representations that can be executed with minimal cognitive overhead at the moment of action. It falls under [[self-regulated-learning]], offering a heuristic analogy for understanding implementation intentions as a form of strategic automaticity.
 
 > [!attention] **Boundary**
 > This concept excludes literal claims about actual cognitive compilation processes and focuses on a heuristic analogy for understanding implementation intentions.
@@ -135,12 +135,12 @@ Moreover, the distinction between cognitive pre-compilation and ordinary automat
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Strategic Automaticity]]
+**Prerequisites:** [[strategic-automaticity]]
 
-**Sibling concepts:** [[Implementation Intentions]]
+**Sibling concepts:** [[implementation-intentions]]
 
-**Contrasts with:** [[Automaticity]]
+**Contrasts with:** [[automaticity]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Metacognitive Calibration
 
 > [!definition] **Metacognitive Calibration**
-> Metacognitive Calibration refers to the alignment between a learner's confidence in their knowledge and the actual accuracy of that knowledge — well-calibrated learners are confident when correct and uncertain when wrong — and is measured through correlations between item-level confidence judgements and item-level accuracy. This concept falls under [[Self-Regulated Learning]], as it is crucial for effective self-regulation in learning processes.
+> Metacognitive Calibration refers to the alignment between a learner's confidence in their knowledge and the actual accuracy of that knowledge — well-calibrated learners are confident when correct and uncertain when wrong — and is measured through correlations between item-level confidence judgements and item-level accuracy. This concept falls under [[self-regulated-learning]], as it is crucial for effective self-regulation in learning processes.
 
 > [!attention] **Boundary**
 > This concept excludes broader discussions on metacognition as a whole, focusing specifically on the calibration aspect related to confidence and accuracy.
@@ -131,10 +131,10 @@ Understanding metacognitive calibration also intersects with other concepts in l
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[metacognitive-calibration-synthetic-seed-2026-04-24]]

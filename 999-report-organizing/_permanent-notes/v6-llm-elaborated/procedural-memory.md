@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Declarative Memory]]"
-  - "[[Automaticity]]"
-  - "[[Deliberate Practice]]"
+  - "[[declarative-memory]]"
+  - "[[automaticity]]"
+  - "[[deliberate-practice]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +45,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Declarative Memory]]"
-  - "[[Automaticity]]"
+  - "[[declarative-memory]]"
+  - "[[automaticity]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Deliberate Practice]]"
+  - "[[deliberate-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Procedural Memory
 
 > [!definition] **Procedural Memory**
-> Procedural memory is the long-term system that supports the acquisition and execution of skills, habits, and rule-governed sequences without conscious access to their underlying representations. It falls under [[Cognitive Architecture]], as it involves the gradual refinement of neural processes through repetition and feedback, distinct from declarative memory which can be articulated explicitly.
+> Procedural memory is the long-term system that supports the acquisition and execution of skills, habits, and rule-governed sequences without conscious access to their underlying representations. It falls under [[cognitive-architecture]], as it involves the gradual refinement of neural processes through repetition and feedback, distinct from declarative memory which can be articulated explicitly.
 
 > [!attention] **Boundary**
 > It excludes declarative memory, which involves explicit knowledge and can be articulated. Procedural memory should not be confused with automaticity, a property of procedures rather than the substrate in which they live.
@@ -130,10 +130,10 @@ Procedural memory is interconnected with other forms of memory, such as declarat
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Declarative Memory]] · [[Automaticity]]
+**Contrasts with:** [[declarative-memory]] · [[automaticity]]
 
-**Applies to:** [[Deliberate Practice]]
+**Applies to:** [[deliberate-practice]]
 
 **Source:** [[procedural-memory-synthetic-seed-2026-04-24]]

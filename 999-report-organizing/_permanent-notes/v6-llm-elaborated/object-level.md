@@ -38,25 +38,25 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Long-Term Memory]]"
-  - "[[Metacognitive Monitoring]]"
+  - "[[working-memory]]"
+  - "[[long-term-memory]]"
+  - "[[metacognitive-monitoring]]"
   - "[[Judgment-of-Learning (JOL)]]"
   - "[[Feeling of Knowing (FOK)]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Long-Term Memory]]"
+  - "[[long-term-memory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Metacognitive Monitoring]]"
+  - "[[metacognitive-monitoring]]"
   - "[[Judgment-of-Learning (JOL)]]"
   - "[[Feeling of Knowing (FOK)]]"
 formalizes:
@@ -82,7 +82,7 @@ provenance:
 # Object-Level
 
 > [!definition] **Object-Level**
-> The Object-Level is the level of cognitive processing whose operations are monitored and controlled by the Meta-Level, encompassing processes like encoding, storage, and retrieval. It does not imply lesser complexity; it refers to the target of monitoring rather than the source. The Object-Level falls under [[Cognitive Architecture]], where it operates as a critical component in the two-level architecture of metacognitive regulation.
+> The Object-Level is the level of cognitive processing whose operations are monitored and controlled by the Meta-Level, encompassing processes like encoding, storage, and retrieval. It does not imply lesser complexity; it refers to the target of monitoring rather than the source. The Object-Level falls under [[cognitive-architecture]], where it operates as a critical component in the two-level architecture of metacognitive regulation.
 
 > [!attention] **Boundary**
 > It does not imply lesser complexity; it refers to the target of monitoring rather than the source. It can include any cognitive process subject to metacognitive oversight.
@@ -138,12 +138,12 @@ The Object-Level's role in the broader context of cognitive architecture undersc
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Long-Term Memory]]
+**Sibling concepts:** [[long-term-memory]]
 
-**Applies to:** [[Metacognitive Monitoring]] · [[Judgment-of-Learning (JOL)]] · [[Feeling of Knowing (FOK)]]
+**Applies to:** [[metacognitive-monitoring]] · [[Judgment-of-Learning (JOL)]] · [[Feeling of Knowing (FOK)]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]

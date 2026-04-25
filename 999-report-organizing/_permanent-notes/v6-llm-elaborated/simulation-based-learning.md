@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Deliberate Practice]]"
-  - "[[Formative Assessment]]"
+  - "[[deliberate-practice]]"
+  - "[[formative-assessment]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,13 +48,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Deliberate Practice]]"
+  - "[[deliberate-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Formative Assessment]]"
+  - "[[formative-assessment]]"
 refines:
   - "[[]]"
 
@@ -72,7 +72,7 @@ provenance:
 # Simulation-Based Learning
 
 > [!definition] **Simulation-Based Learning**
-> Simulation-Based Learning (SBL) is an educational approach where learners practice complex tasks in simulated environments, followed by debriefing sessions to enhance learning through reflection and error correction. It falls under [[Instructional Design]], focusing on the integration of immersive environments with structured feedback for skill development, rather than relying solely on traditional classroom instruction without simulations or structured debriefing.
+> Simulation-Based Learning (SBL) is an educational approach where learners practice complex tasks in simulated environments, followed by debriefing sessions to enhance learning through reflection and error correction. It falls under [[instructional-design]], focusing on the integration of immersive environments with structured feedback for skill development, rather than relying solely on traditional classroom instruction without simulations or structured debriefing.
 
 > [!attention] **Boundary**
 > This concept excludes traditional classroom instruction without simulations or structured feedback. It focuses on the integration of immersive environments with debriefing for skill development.
@@ -138,10 +138,10 @@ Meta-analyses consistently find that simulation-based learning produces among th
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Applies to:** [[Deliberate Practice]]
+**Applies to:** [[deliberate-practice]]
 
-**Supports:** [[Formative Assessment]]
+**Supports:** [[formative-assessment]]
 
 **Source:** [[simulation-based-learning-synthetic-seed-2026-04-25]]

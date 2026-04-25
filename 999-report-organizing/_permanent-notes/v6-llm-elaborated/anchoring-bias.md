@@ -33,24 +33,24 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive Bias]]"
-  - "[[Heuristics and Biases]]"
-  - "[[Framing Effect]]"
-  - "[[Availability Heuristic]]"
+  - "[[cognitive-bias]]"
+  - "[[heuristics-and-biases]]"
+  - "[[framing-effect]]"
+  - "[[availability-heuristic]]"
 prerequisites:
-  - "[[Cognitive Bias]]"
+  - "[[cognitive-bias]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Heuristics and Biases]]"
+  - "[[heuristics-and-biases]]"
 contrasts-with:
-  - "[[Framing Effect]]"
+  - "[[framing-effect]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Availability Heuristic]]"
+  - "[[availability-heuristic]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Anchoring Bias
 
 > [!definition] **Anchoring Bias**
-> Anchoring Bias is the tendency to rely too heavily on an initial piece of information (the 'anchor') when making decisions, even if that anchor is arbitrary or irrelevant. It falls under [[Cognitive Architecture]], where it demonstrates how our judgment systems are influenced by initial pieces of information in a way that can lead to systematic errors.
+> Anchoring Bias is the tendency to rely too heavily on an initial piece of information (the 'anchor') when making decisions, even if that anchor is arbitrary or irrelevant. It falls under [[cognitive-architecture]], where it demonstrates how our judgment systems are influenced by initial pieces of information in a way that can lead to systematic errors.
 
 > [!attention] **Boundary**
 > This concept excludes other cognitive biases and heuristics like confirmation bias or availability heuristic, which operate through different mechanisms but can interact with anchoring effects.
@@ -140,14 +140,14 @@ The study of Anchoring Bias also intersects with other concepts like Heuristics 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Cognitive Bias]]
+**Prerequisites:** [[cognitive-bias]]
 
-**Sibling concepts:** [[Heuristics and Biases]]
+**Sibling concepts:** [[heuristics-and-biases]]
 
-**Contrasts with:** [[Framing Effect]]
+**Contrasts with:** [[framing-effect]]
 
-**Applies to:** [[Availability Heuristic]]
+**Applies to:** [[availability-heuristic]]
 
 **Source:** [[anchoring-bias-synthetic-seed-2026-04-25]]

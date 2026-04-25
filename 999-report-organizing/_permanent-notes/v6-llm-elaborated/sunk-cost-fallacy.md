@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Cognitive Bias]]"
-  - "[[Anchoring Bias]]"
-  - "[[Framing Effect]]"
+  - "[[cognitive-bias]]"
+  - "[[anchoring-bias]]"
+  - "[[framing-effect]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,10 +43,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Bias]]"
+  - "[[cognitive-bias]]"
 contrasts-with:
-  - "[[Anchoring Bias]]"
-  - "[[Framing Effect]]"
+  - "[[anchoring-bias]]"
+  - "[[framing-effect]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Sunk Cost Fallacy
 
 > [!definition] **Sunk Cost Fallacy**
-> The Sunk Cost Fallacy is the tendency to continue investing resources in a course of action because of previously incurred and irrecoverable costs, despite evidence that it may not be the most rational choice; it falls under [[Cognitive Bias]] as a type of irrational decision-making driven by intuitions about waste-aversion and consistency rather than future expected returns.
+> The Sunk Cost Fallacy is the tendency to continue investing resources in a course of action because of previously incurred and irrecoverable costs, despite evidence that it may not be the most rational choice; it falls under [[cognitive-bias]] as a type of irrational decision-making driven by intuitions about waste-aversion and consistency rather than future expected returns.
 
 > [!attention] **Boundary**
 > This concept excludes cases where persistence is based on prospective expected-value calculations. It specifically refers to situations where past investment drives continuation rather than future returns.
@@ -136,8 +136,8 @@ The Sunk Cost Fallacy also intersects with other cognitive biases like anchoring
 
 ## Connections & Context
 
-**Sibling concepts:** [[Cognitive Bias]]
+**Sibling concepts:** [[cognitive-bias]]
 
-**Contrasts with:** [[Anchoring Bias]] · [[Framing Effect]]
+**Contrasts with:** [[anchoring-bias]] · [[framing-effect]]
 
 **Source:** [[sunk-cost-fallacy-synthetic-seed-2026-04-25]]

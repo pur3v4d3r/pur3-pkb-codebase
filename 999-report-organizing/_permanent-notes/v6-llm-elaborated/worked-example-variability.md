@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Worked-Example Variability
 
 > [!definition] **Worked-Example Variability**
-> Worked-Example Variability is a cognitive-load-theory principle that suggests varying the surface features of worked examples while maintaining their underlying structure enhances schema construction and transferability. It falls under [[Cognitive Architecture]], as it leverages how learners process information to build robust, transferable knowledge structures.
+> Worked-Example Variability is a cognitive-load-theory principle that suggests varying the surface features of worked examples while maintaining their underlying structure enhances schema construction and transferability. It falls under [[cognitive-architecture]], as it leverages how learners process information to build robust, transferable knowledge structures.
 
 > [!attention] **Boundary**
 > This concept focuses on how variability in example presentation affects learning, excluding discussions on specific instructional design techniques or individual cognitive processes not directly related to variability.
@@ -130,10 +130,10 @@ The concept also has implications beyond education, touching on fields such as i
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[worked-example-variability-synthetic-seed-2026-04-25]]

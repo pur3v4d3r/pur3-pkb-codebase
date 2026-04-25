@@ -36,24 +36,24 @@ depth-level: elaborated
 parent-concept: "Goal Orientation Framework"
 
 related:
-  - "[[Achievement Goal Theory]]"
-  - "[[Implicit Theories of Intelligence]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[achievement-goal-theory]]"
+  - "[[implicit-theories-of-intelligence]]"
+  - "[[self-efficacy-theory]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Achievement Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Implicit Theories of Intelligence]]"
+  - "[[implicit-theories-of-intelligence]]"
 contradicts:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 applies-to:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -141,12 +141,12 @@ The concept of conception of ability intersects with other key areas in educatio
 
 **Falls under:** [[Goal Orientation Framework]]
 
-**Generalizes to:** [[Achievement Goal Theory]]
+**Generalizes to:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Implicit Theories of Intelligence]]
+**Contrasts with:** [[implicit-theories-of-intelligence]]
 
-**Contradicts:** [[Self-Efficacy Theory]]
+**Contradicts:** [[self-efficacy-theory]]
 
-**Applies to:** [[Self-Regulated Learning]]
+**Applies to:** [[self-regulated-learning]]
 
 **Source:** [[goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20]]

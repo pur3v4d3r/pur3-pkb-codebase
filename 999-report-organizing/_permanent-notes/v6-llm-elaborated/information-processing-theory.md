@@ -2,6 +2,7 @@
 title: "Information Processing Theory"
 aliases:
   - "Information Processing Theory"
+  - "Information-Processing Theory"
   - "IP theory"
   - "information-processing model"
 type: permanent-note
@@ -33,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +73,7 @@ provenance:
 # Information Processing Theory
 
 > [!definition] **Information Processing Theory**
-> Information Processing Theory models human cognition as a sequence of operations on internal representations — encoding, storage, transformation, retrieval, and response — analogous to computational processes. It falls under [[Cognitive Psychology]], focusing on mental processing stages without considering physical or social contexts.
+> Information Processing Theory models human cognition as a sequence of operations on internal representations — encoding, storage, transformation, retrieval, and response — analogous to computational processes. It falls under [[cognitive-psychology]], focusing on mental processing stages without considering physical or social contexts.
 
 > [!attention] **Boundary**
 > This theory excludes biological mechanisms underlying cognitive functions and focuses on the mental processing stages without considering physical or social contexts.
@@ -83,7 +84,7 @@ At its core, Information Processing Theory conceptualizes the human mind as a se
 
 The theory operates in practice by identifying bottlenecks such as the limited capacity of sensory registers, working memory, and attentional selection. These limitations dictate where instructional design must intervene to optimize learning outcomes. For instance, reducing extraneous cognitive load can enhance the effectiveness of educational materials by minimizing distractions and focusing on essential information.
 
-Theoretical roots of Information Processing Theory trace back to early models of computation, which posited that mental processes could be understood as a series of discrete steps or operations. This framework has been influential in shaping subsequent cognitive theories, including [[Cognitive Load Theory]], which applies these principles directly to educational settings by emphasizing the importance of managing cognitive load.
+Theoretical roots of Information Processing Theory trace back to early models of computation, which posited that mental processes could be understood as a series of discrete steps or operations. This framework has been influential in shaping subsequent cognitive theories, including [[cognitive-load-theory]], which applies these principles directly to educational settings by emphasizing the importance of managing cognitive load.
 
 Empirical evidence supporting Information Processing Theory comes from studies on memory span and attentional selection tasks, such as digit span tests and paired-associate learning. These experiments have shown that human capacity for processing information is limited, particularly in STM, which has a finite capacity and duration.
 
@@ -122,16 +123,16 @@ Information flows through different memory stores: sensory register, short-term 
 
 ## Synthesis
 
-Information Processing Theory matters because it provides a foundational framework for understanding cognitive processes and their limitations. By identifying bottlenecks such as working memory capacity and attentional selection, the theory offers practical applications in educational design that can enhance learning outcomes. Its influence extends to related concepts like [[Cognitive Load Theory]], which further refines these principles for real-world implementation.
+Information Processing Theory matters because it provides a foundational framework for understanding cognitive processes and their limitations. By identifying bottlenecks such as working memory capacity and attentional selection, the theory offers practical applications in educational design that can enhance learning outcomes. Its influence extends to related concepts like [[cognitive-load-theory]], which further refines these principles for real-world implementation.
 
 The theory's focus on mental processing stages without considering physical or social contexts highlights its limitations but also underscores its value as a starting point for more comprehensive cognitive models.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Cognitive Load Theory]]
+**Applies to:** [[cognitive-load-theory]]
 
 **Source:** [[information-processing-theory-synthetic-seed-2026-04-24]]

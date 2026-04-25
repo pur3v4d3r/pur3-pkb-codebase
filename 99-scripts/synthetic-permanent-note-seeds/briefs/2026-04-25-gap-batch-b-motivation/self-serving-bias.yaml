@@ -1,0 +1,38 @@
+concept: Self Serving Bias
+domain: cognitive-science
+secondary_domains:
+- attribution-theory
+- social-psychology
+aliases:
+- self-enhancement bias
+broader:
+- cognitive-bias
+related:
+- attribution-theory
+- fundamental-attribution-error
+- ego-protective-attribution
+- self-esteem
+prerequisites:
+- attribution-theory
+- attributional-vocabulary
+confidence: high
+callouts:
+- type: definition
+  title: Self Serving Bias
+  body: Self Serving Bias is the systematic tendency to attribute one's successes
+    to internal, stable, controllable causes while attributing one's failures to external,
+    unstable, uncontrollable causes, producing an asymmetry in causal explanations
+    that protects self-esteem.
+- type: key-claim
+  title: Key claim about Self Serving Bias
+  body: Self Serving Bias is robust across cultures but moderated by self-construal,
+    achievement domain, and audience; the magnitude of Self Serving Bias drops in
+    private settings and in collectivist contexts, indicating that Self Serving Bias
+    is partly a self-presentation strategy rather than a purely automatic cognitive
+    distortion.
+- type: warning
+  title: Common pitfall regarding Self Serving Bias
+  body: Self Serving Bias is not always maladaptive — moderate Self Serving Bias correlates
+    with persistence and well-being — but extreme Self Serving Bias blocks learning
+    from failure and corrupts feedback loops, which is why feedback-design must distinguish
+    protective Self Serving Bias from pathological externalisation.

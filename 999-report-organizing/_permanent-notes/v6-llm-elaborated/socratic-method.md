@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Socratic Method
 
 > [!definition] **Socratic Method**
-> The Socratic Method is a dialectical inquiry technique that uses systematic questioning to explore beliefs, assumptions, and implications, aiming for more defensible positions through collaborative examination of reasoning. It falls under [[Critical Thinking]], treating the interlocutor as a partner in inquiry rather than an adversary or mere recipient of information.
+> The Socratic Method is a dialectical inquiry technique that uses systematic questioning to explore beliefs, assumptions, and implications, aiming for more defensible positions through collaborative examination of reasoning. It falls under [[critical-thinking]], treating the interlocutor as a partner in inquiry rather than an adversary or mere recipient of information.
 
 > [!attention] **Boundary**
 > This concept excludes the use of leading questions to guide students to predetermined conclusions without genuine inquiry. It also does not encompass all forms of questioning in education but focuses specifically on this method's structured approach to critical thinking.
@@ -132,10 +132,10 @@ The Socratic Method's role extends beyond education into professional developmen
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[socratic-method-synthetic-seed-2026-04-24]]

@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Locus of Control]]"
-  - "[[Stability Dimension]]"
+  - "[[locus-of-control]]"
+  - "[[stability-dimension]]"
   - "[[Attributional Style]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,14 +46,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Locus of Control]]"
-  - "[[Stability Dimension]]"
+  - "[[locus-of-control]]"
+  - "[[stability-dimension]]"
 contrasts-with:
   - "[[Attributional Style]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Controllability Dimension
 
 > [!definition] **Controllability Dimension**
-> The Controllability Dimension classifies causes as either controllable by the individual (effort, strategy) or uncontrollable (ability, luck). It falls under [[Cognitive Architecture]], where it influences social-moral emotions and behaviors based on whether a cause is within one's control. This dimension does not consider whether an outcome can be controlled but rather focuses on the factors that led to the outcome.
+> The Controllability Dimension classifies causes as either controllable by the individual (effort, strategy) or uncontrollable (ability, luck). It falls under [[cognitive-architecture]], where it influences social-moral emotions and behaviors based on whether a cause is within one's control. This dimension does not consider whether an outcome can be controlled but rather focuses on the factors that led to the outcome.
 
 > [!attention] **Boundary**
 > This dimension is about the nature of the cause, not the outcome. It does not consider whether an individual can control what happened but rather if they could have controlled the factor that made it happen.
@@ -133,12 +133,12 @@ The importance of the Controllability Dimension extends beyond individual psycho
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Locus of Control]] · [[Stability Dimension]]
+**Sibling concepts:** [[locus-of-control]] · [[stability-dimension]]
 
 **Contrasts with:** [[Attributional Style]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

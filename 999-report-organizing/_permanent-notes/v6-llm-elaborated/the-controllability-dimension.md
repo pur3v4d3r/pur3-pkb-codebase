@@ -36,8 +36,8 @@ parent-concept: "Attribution Theory"
 
 related:
   - "[[Locus Dimension]]"
-  - "[[Stability Dimension]]"
-  - "[[Self-Determination Theory]]"
+  - "[[stability-dimension]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,13 +46,13 @@ broader:
   - "[[]]"
 see-also:
   - "[[Locus Dimension]]"
-  - "[[Stability Dimension]]"
+  - "[[stability-dimension]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -139,10 +139,10 @@ Empirical evidence from Weiner’s research demonstrates that attributions to co
 
 ## Connections & Context
 
-**Falls under:** [[Attribution Theory]]
+**Falls under:** [[attribution-theory]]
 
-**Sibling concepts:** [[Locus Dimension]] · [[Stability Dimension]]
+**Sibling concepts:** [[Locus Dimension]] · [[stability-dimension]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

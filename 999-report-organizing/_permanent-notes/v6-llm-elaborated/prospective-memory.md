@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Episodic Memory]]"
+  - "[[working-memory]]"
+  - "[[episodic-memory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Episodic Memory]]"
+  - "[[episodic-memory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Prospective Memory
 
 > [!definition] **Prospective Memory**
-> Prospective Memory refers to the ability to remember to perform an intended action at a specific future moment, either based on time or a triggering event. It falls under [[Cognitive Architecture]], uniquely combining retrospective storage of intentions with executive monitoring for context-based retrieval.
+> Prospective Memory refers to the ability to remember to perform an intended action at a specific future moment, either based on time or a triggering event. It falls under [[cognitive-architecture]], uniquely combining retrospective storage of intentions with executive monitoring for context-based retrieval.
 
 > [!attention] **Boundary**
 > It excludes general planning capacity and is distinct from retrospective memory. Prospective Memory involves both storing intentions and monitoring contexts for their retrieval.
@@ -131,10 +131,10 @@ By bridging episodic memory with executive function, prospective memory highligh
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Episodic Memory]]
+**Sibling concepts:** [[episodic-memory]]
 
 **Source:** [[prospective-memory-synthetic-seed-2026-04-25]]

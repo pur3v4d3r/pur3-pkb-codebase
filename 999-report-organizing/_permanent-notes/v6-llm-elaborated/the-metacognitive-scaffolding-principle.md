@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Retrieval Practice]]"
+  - "[[cognitive-load-theory]]"
+  - "[[retrieval-practice]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,11 +47,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Retrieval Practice]]"
+  - "[[retrieval-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Metacognitive Scaffolding Principle
 
 > [!definition] **Metacognitive Scaffolding Principle**
-> The Metacognitive Scaffolding Principle posits that a Personal Knowledge Management (PKM) system should support the learner's metacognition by making their knowledge state visible, detecting gaps and inconsistencies, and prompting strategic adjustments. It does not replace the learner’s internal metacognition but rather extends and supports it, compensating for the well-documented limitations of unaided metacognitive monitoring. This principle falls under [[Cognitive Architecture]].
+> The Metacognitive Scaffolding Principle posits that a Personal Knowledge Management (PKM) system should support the learner's metacognition by making their knowledge state visible, detecting gaps and inconsistencies, and prompting strategic adjustments. It does not replace the learner’s internal metacognition but rather extends and supports it, compensating for the well-documented limitations of unaided metacognitive monitoring. This principle falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This principle does not replace the learner’s internal metacognition but rather extends and supports it. It is distinct from mere storage or retrieval mechanisms.
@@ -134,10 +134,10 @@ Understanding the Metacognitive Scaffolding Principle also highlights the import
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
-**Applies to:** [[Retrieval Practice]]
+**Applies to:** [[retrieval-practice]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

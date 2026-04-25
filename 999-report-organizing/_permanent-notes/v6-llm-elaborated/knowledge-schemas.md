@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Knowledge Schemas
 
 > [!definition] **Knowledge Schemas**
-> Knowledge Schemas are organized cognitive structures that include declarative concepts, procedural rules, scripts for events, and frames for situations, which shape what learners notice, encode, infer, and remember from new experiences. It falls under [[Cognitive Architecture]], focusing on long-term knowledge structures rather than short-term memory or neural network physical structure.
+> Knowledge Schemas are organized cognitive structures that include declarative concepts, procedural rules, scripts for events, and frames for situations, which shape what learners notice, encode, infer, and remember from new experiences. It falls under [[cognitive-architecture]], focusing on long-term knowledge structures rather than short-term memory or neural network physical structure.
 
 > [!attention] **Boundary**
 > This term excludes specific types of schemas like working memory or short-term memory, focusing instead on long-term knowledge structures. It also does not encompass the physical structure of neural networks but rather the conceptual organization within them.
@@ -132,10 +132,10 @@ Empirical evidence supports the effectiveness of schema activation strategies, p
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[knowledge-schemas-synthetic-seed-2026-04-24]]

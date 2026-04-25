@@ -33,9 +33,9 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Error Correction]]"
-  - "[[Productive Failure]]"
-  - "[[Retrieval Practice]]"
-  - "[[Metacognitive Monitoring]]"
+  - "[[productive-failure]]"
+  - "[[retrieval-practice]]"
+  - "[[metacognitive-monitoring]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +45,12 @@ broader:
 see-also:
   - "[[Error Correction]]"
 contrasts-with:
-  - "[[Productive Failure]]"
+  - "[[productive-failure]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Retrieval Practice]]"
-  - "[[Metacognitive Monitoring]]"
+  - "[[retrieval-practice]]"
+  - "[[metacognitive-monitoring]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Hypercorrection Effect
 
 > [!definition] **Hypercorrection Effect**
-> The Hypercorrection Effect is the empirical finding that errors made with high confidence are more likely to be corrected and retained after feedback than errors made with low confidence, contrary to the intuitive prediction that strongly-held wrong beliefs would be the hardest to dislodge. It falls under [[Cognitive Architecture]], where it highlights how our cognitive processes interact with learning outcomes.
+> The Hypercorrection Effect is the empirical finding that errors made with high confidence are more likely to be corrected and retained after feedback than errors made with low confidence, contrary to the intuitive prediction that strongly-held wrong beliefs would be the hardest to dislodge. It falls under [[cognitive-architecture]], where it highlights how our cognitive processes interact with learning outcomes.
 
 > [!attention] **Boundary**
 > This concept focuses on the relationship between error confidence, feedback, and learning outcomes. It does not cover other aspects of metacognition or cognitive biases.
@@ -131,12 +131,12 @@ Understanding the Hypercorrection Effect is crucial for education and cognitive 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Sibling concepts:** [[Error Correction]]
 
-**Contrasts with:** [[Productive Failure]]
+**Contrasts with:** [[productive-failure]]
 
-**Applies to:** [[Retrieval Practice]] · [[Metacognitive Monitoring]]
+**Applies to:** [[retrieval-practice]] · [[metacognitive-monitoring]]
 
 **Source:** [[hypercorrection-effect-synthetic-seed-2026-04-25]]

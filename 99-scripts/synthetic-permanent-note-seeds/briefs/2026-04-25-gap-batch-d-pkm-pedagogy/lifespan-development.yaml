@@ -1,0 +1,37 @@
+concept: Lifespan Development
+domain: developmental-psychology
+secondary_domains:
+- psychology
+- educational-psychology
+aliases:
+- lifespan developmental psychology
+- life-span development
+broader:
+- developmental-psychology
+related:
+- developmental-psychology
+- adult-development
+- baltes-lifespan-theory
+- gain-loss-dynamics
+- plasticity
+confidence: high
+callouts:
+- type: definition
+  title: Lifespan Development
+  body: Lifespan Development is the branch of developmental psychology, articulated
+    most influentially by Paul Baltes and colleagues, that studies psychological change
+    across the entire lifespan from infancy to old age, treating development as a
+    continuous gain-and-loss dynamic rather than a process that ends in early adulthood.
+- type: key-claim
+  title: Key claim about Lifespan Development
+  body: Lifespan Development reframes adulthood and ageing as periods of genuine developmental
+    change — not merely decline — by showing that across every life phase there is
+    co-occurring growth, maintenance, and loss, and that the relative balance shifts
+    but the developmental dynamic continues.
+- type: warning
+  title: Common pitfall regarding Lifespan Development
+  body: Lifespan Development is sometimes flattened into either a "stages of life"
+    narrative or a "decline-and-loss" narrative, but the field's distinctive contribution
+    is exactly the rejection of both flattenings; treating Lifespan Development as
+    a list of life stages obscures the multidirectional, multidimensional, and contextual
+    nature of the actual evidence.

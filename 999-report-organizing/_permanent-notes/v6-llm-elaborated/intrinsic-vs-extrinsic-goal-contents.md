@@ -38,8 +38,8 @@ parent-concept: "Motivational Psychology"
 
 related:
   - "[[Intrinsic Motivation and Extrinsic Motivation]]"
-  - "[[Autonomy-Support]]"
-  - "[[Basic Psychological Needs Theory]]"
+  - "[[autonomy-support]]"
+  - "[[basic-psychological-needs-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -53,13 +53,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomy-Support]]"
+  - "[[autonomy-support]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Basic Psychological Needs Theory]]"
+  - "[[basic-psychological-needs-theory]]"
 refines:
   - "[[]]"
 
@@ -77,7 +77,7 @@ provenance:
 # Intrinsic vs. Extrinsic Goal Contents
 
 > [!definition] **Intrinsic vs. Extrinsic Goal Contents**
-> Intrinsic goal contents refer to aspirations that directly satisfy basic psychological needs such as personal growth and community contribution, while extrinsic goal contents are outcomes that serve as substitutes for need satisfaction like wealth or fame. It falls under [[Motivational Psychology]], where it explores the nature of goals in relation to psychological need fulfillment.
+> Intrinsic goal contents refer to aspirations that directly satisfy basic psychological needs such as personal growth and community contribution, while extrinsic goal contents are outcomes that serve as substitutes for need satisfaction like wealth or fame. It falls under [[motivational-psychology]], where it explores the nature of goals in relation to psychological need fulfillment.
 
 > [!attention] **Boundary**
 > This concept excludes specific examples of goals and focuses on the nature of the goals themselves in relation to psychological need satisfaction. It should not be confused with other motivational theories such as achievement-goal-theory or flow-theory.
@@ -137,12 +137,12 @@ This concept intersects with other motivational theories such as Intrinsic Motiv
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
 **Contrasts with:** [[Intrinsic Motivation and Extrinsic Motivation]]
 
-**Applies to:** [[Autonomy-Support]]
+**Applies to:** [[autonomy-support]]
 
-**Supports:** [[Basic Psychological Needs Theory]]
+**Supports:** [[basic-psychological-needs-theory]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

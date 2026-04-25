@@ -37,7 +37,7 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[Mastery-Approach Orientation]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Executive Help-Seeking]]"
   - "[[Help-Avoidance]]"
 prerequisites:
@@ -47,7 +47,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[Executive Help-Seeking]]"
   - "[[Help-Avoidance]]"
@@ -78,7 +78,7 @@ provenance:
 # Adaptive Help-Seeking
 
 > [!definition] **Adaptive Help-Seeking**
-> Adaptive help-seeking is the pursuit of assistance that enables continued independent work, such as seeking hints or conceptual frameworks rather than answers directly (executive help-seeking) or avoiding available help altogether (help-avoidance). It falls under [[Self-Regulated Learning]], where it serves as a behavioral marker for mastery-approach orientation.
+> Adaptive help-seeking is the pursuit of assistance that enables continued independent work, such as seeking hints or conceptual frameworks rather than answers directly (executive help-seeking) or avoiding available help altogether (help-avoidance). It falls under [[self-regulated-learning]], where it serves as a behavioral marker for mastery-approach orientation.
 
 > [!attention] **Boundary**
 > It stops at the distinction from executive help-seeking and help-avoidance. It does not include seeking answers directly (executive help-seeking) or systematically avoiding available help (help-avoidance).
@@ -138,11 +138,11 @@ Understanding adaptive help-seeking also has significant practical applications 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Specializes:** [[Mastery-Approach Orientation]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
 **Contrasts with:** [[Executive Help-Seeking]] · [[Help-Avoidance]]
 

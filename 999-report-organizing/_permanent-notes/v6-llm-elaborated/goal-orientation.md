@@ -33,14 +33,14 @@ parent-concept: "Achievement Goal Theory"
 
 related:
   - "[[Mastery vs. Performance Goals]]"
-  - "[[Achievement Goal Theory]]"
+  - "[[achievement-goal-theory]]"
   - "[[Help-Seeking Behavior]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[Mastery vs. Performance Goals]]"
 broader:
-  - "[[Achievement Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -72,7 +72,7 @@ provenance:
 # Goal Orientation
 
 > [!definition] **Goal Orientation**
-> Goal Orientation is the relatively stable purpose a learner brings to an achievement situation — the kind of competence they are pursuing and the kind of feedback against which they evaluate themselves — operationalized as a position within Achievement Goal Theory's 2x2 framework, whose two axes are competence-definition (mastery vs. normative performance) and competence-valence (approach vs. avoidance). It falls under [[Achievement Goal Theory]].
+> Goal Orientation is the relatively stable purpose a learner brings to an achievement situation — the kind of competence they are pursuing and the kind of feedback against which they evaluate themselves — operationalized as a position within Achievement Goal Theory's 2x2 framework, whose two axes are competence-definition (mastery vs. normative performance) and competence-valence (approach vs. avoidance). It falls under [[achievement-goal-theory]].
 
 > [!attention] **Boundary**
 > It excludes specific achievement goals or situational factors but includes the broader motivational orientation within achievement goal theory.
@@ -132,11 +132,11 @@ Understanding Goal Orientation is crucial for educators, parents, and researcher
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
 **Specializes:** [[Mastery vs. Performance Goals]]
 
-**Generalizes to:** [[Achievement Goal Theory]]
+**Generalizes to:** [[achievement-goal-theory]]
 
 **Applies to:** [[Help-Seeking Behavior]]
 

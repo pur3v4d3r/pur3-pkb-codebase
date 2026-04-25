@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Goal-Intention]]"
-  - "[[Mental-Contrasting]]"
+  - "[[goal-intention]]"
+  - "[[mental-contrasting]]"
   - "[[Theory-of-Planned-Behavior]]"
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,14 +47,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Goal-Intention]]"
-  - "[[Mental-Contrasting]]"
+  - "[[goal-intention]]"
+  - "[[mental-contrasting]]"
 contrasts-with:
   - "[[Theory-of-Planned-Behavior]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Intention-Behavior Gap
 
 > [!definition] **Intention-Behavior Gap**
-> The Intention-Behavior Gap refers to the discrepancy between strong intentions to perform a behavior and the actual performance of that behavior, which is empirically documented as explaining only about 25% of behavioral variance. This gap does not include motivational states or cognitive processes unrelated to the initiation of specific behaviors; it focuses on the transition from intention to action. It falls under [[Self-Regulated Learning]].
+> The Intention-Behavior Gap refers to the discrepancy between strong intentions to perform a behavior and the actual performance of that behavior, which is empirically documented as explaining only about 25% of behavioral variance. This gap does not include motivational states or cognitive processes unrelated to the initiation of specific behaviors; it focuses on the transition from intention to action. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This gap does not include motivational states or cognitive processes unrelated to the initiation of specific behaviors. It focuses on the transition from intention to action.
@@ -137,12 +137,12 @@ The Intention-Behavior Gap underscores the importance of specific action plans i
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Goal-Intention]] · [[Mental-Contrasting]]
+**Sibling concepts:** [[goal-intention]] · [[mental-contrasting]]
 
 **Contrasts with:** [[Theory-of-Planned-Behavior]]
 
-**Applies to:** [[Automaticity]]
+**Applies to:** [[automaticity]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

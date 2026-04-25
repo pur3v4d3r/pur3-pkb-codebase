@@ -34,8 +34,8 @@ depth-level: elaborated
 parent-concept: "Externalized Cognitive Architecture"
 
 related:
-  - "[[Cognitive Offloading]]"
-  - "[[Personal Knowledge Base]]"
+  - "[[cognitive-offloading]]"
+  - "[[personal-knowledge-base]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,11 +45,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Offloading]]"
+  - "[[cognitive-offloading]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Personal Knowledge Base]]"
+  - "[[personal-knowledge-base]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Second Brain
 
 > [!definition] **Second Brain**
-> A Second Brain is a deliberately maintained external system for capturing, organizing, distilling, and expressing personally meaningful information to extend cognitive capabilities over time, reframing personal knowledge management as a productivity infrastructure rather than a research practice; it falls under [[Externalized Cognitive Architecture]].
+> A Second Brain is a deliberately maintained external system for capturing, organizing, distilling, and expressing personally meaningful information to extend cognitive capabilities over time, reframing personal knowledge management as a productivity infrastructure rather than a research practice; it falls under [[externalized-cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It stops at the point where personal knowledge management systems cease to function as an extension of cognition through leverage rather than volume alone.
@@ -132,10 +132,10 @@ The Second Brain concept also has implications for instructional design, persona
 
 ## Connections & Context
 
-**Falls under:** [[Externalized Cognitive Architecture]]
+**Falls under:** [[externalized-cognitive-architecture]]
 
-**Contrasts with:** [[Cognitive Offloading]]
+**Contrasts with:** [[cognitive-offloading]]
 
-**Applies to:** [[Personal Knowledge Base]]
+**Applies to:** [[personal-knowledge-base]]
 
 **Source:** [[second-brain-synthetic-seed-2026-04-25]]

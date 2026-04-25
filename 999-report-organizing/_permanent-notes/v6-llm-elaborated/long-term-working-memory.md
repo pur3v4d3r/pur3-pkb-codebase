@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Pattern Recognition]]"
+  - "[[working-memory]]"
+  - "[[pattern-recognition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Pattern Recognition]]"
+  - "[[pattern-recognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Long-Term Working Memory
 
 > [!definition] **Long-Term Working Memory**
-> Long-Term Working Memory is an emergent functional architecture that allows experts to access large amounts of domain-relevant information rapidly, effectively extending their working memory capacity through retrieval cues maintained in standard working memory and long-term memory. It operates within a specific domain and does not function outside the trained expertise area; it falls under [[Cognitive-Architecture]]. It falls under [[Cognitive Architecture]].
+> Long-Term Working Memory is an emergent functional architecture that allows experts to access large amounts of domain-relevant information rapidly, effectively extending their working memory capacity through retrieval cues maintained in standard working memory and long-term memory. It operates within a specific domain and does not function outside the trained expertise area; it falls under [[cognitive-architecture]]. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It operates within a specific domain and does not function outside the trained expertise area. It should not be confused with separate memory systems but rather as an integrated mechanism that leverages both short-term and long-term memory.
@@ -130,10 +130,10 @@ Beyond its practical applications, LTWM highlights the dynamic nature of cogniti
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Pattern Recognition]]
+**Applies to:** [[pattern-recognition]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

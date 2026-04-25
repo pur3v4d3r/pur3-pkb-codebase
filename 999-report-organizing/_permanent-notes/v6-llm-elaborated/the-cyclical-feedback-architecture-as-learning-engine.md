@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Cyclical Feedback Architecture
 
 > [!definition] **Cyclical Feedback Architecture**
-> The Cyclical Feedback Architecture is a model of self-regulated learning where forethought, performance, self-reflection, and adaptive inference form a continuous loop, driving effective learning over time. It falls under [[Self-Regulated Learning]], with the power of Zimmerman's model lying not in any individual phase but in the cyclical feedback architecture connecting them.
+> The Cyclical Feedback Architecture is a model of self-regulated learning where forethought, performance, self-reflection, and adaptive inference form a continuous loop, driving effective learning over time. It falls under [[self-regulated-learning]], with the power of Zimmerman's model lying not in any individual phase but in the cyclical feedback architecture connecting them.
 
 > [!attention] **Boundary**
 > This concept excludes individual phases like forethought or reflection as standalone processes but includes the interaction between them in a feedback loop. It should not be confused with single-step cognitive processes such as memory recall alone.
@@ -134,10 +134,10 @@ Beyond education, this architecture has broader implications for cognitive scien
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

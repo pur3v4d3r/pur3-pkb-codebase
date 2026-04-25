@@ -1,0 +1,41 @@
+concept: Theory of Planned Behavior
+domain: motivational-psychology
+secondary_domains:
+- social-psychology
+- health-psychology
+aliases:
+- TPB
+- Ajzen TPB
+broader:
+- behaviour-change-theory
+related:
+- theory-of-reasoned-action
+- implementation-intentions
+- stages-of-change-model
+- attitude-behaviour-gap
+- perceived-behavioural-control
+prerequisites:
+- motivation-theory
+- attitude
+confidence: high
+callouts:
+- type: definition
+  title: Theory of Planned Behavior
+  body: The Theory of Planned Behavior is Icek Ajzen's social-cognitive model in which
+    intention to perform a behaviour is determined by attitudes toward the behaviour,
+    subjective norms, and perceived behavioural control, with intention together with
+    perceived behavioural control predicting actual behaviour.
+- type: key-claim
+  title: Key claim about Theory of Planned Behavior
+  body: The Theory of Planned Behavior remains the most widely cited social-cognitive
+    model of behaviour change because it accommodates volitional behaviours by adding
+    perceived behavioural control to its predecessor (the theory of reasoned action),
+    and it has produced thousands of empirical applications across health, environment,
+    and consumer domains.
+- type: warning
+  title: Common pitfall regarding Theory of Planned Behavior
+  body: The Theory of Planned Behavior predicts intention more strongly than it predicts
+    behaviour, leaving an "intention-behaviour gap" that the Theory of Planned Behavior
+    itself does not adequately model; using the Theory of Planned Behavior to design
+    behaviour-change interventions without complementary models such as implementation
+    intentions systematically underperforms.

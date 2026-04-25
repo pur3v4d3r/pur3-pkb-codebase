@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Social-Cognitive Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Perceived Self-Efficacy
 
 > [!definition] **Perceived Self-Efficacy**
-> Perceived self-efficacy refers to an individual's belief in their capability to organize and execute the necessary actions to achieve specific goals under certain conditions. It falls under [[Social-Cognitive Theory]], where it is specifically focused on future performance capabilities within particular tasks or situations, rather than general measures of confidence or personality traits.
+> Perceived self-efficacy refers to an individual's belief in their capability to organize and execute the necessary actions to achieve specific goals under certain conditions. It falls under [[social-cognitive-theory]], where it is specifically focused on future performance capabilities within particular tasks or situations, rather than general measures of confidence or personality traits.
 
 > [!attention] **Boundary**
 > Self-efficacy is not a general measure of confidence, self-esteem, or personality traits; it is specifically focused on future performance capabilities within particular tasks or situations.
@@ -136,10 +136,10 @@ The concept of perceived self-efficacy also has broader implications for underst
 
 ## Connections & Context
 
-**Falls under:** [[Social-Cognitive Theory]]
+**Falls under:** [[social-cognitive-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Pattern Recognition]]"
+  - "[[working-memory]]"
+  - "[[pattern-recognition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Pattern Recognition]]"
+  - "[[pattern-recognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Deliberate Practice
 
 > [!definition] **Deliberate Practice**
-> Deliberate practice is a specific form of practice characterized by clear improvement goals, targeting weaknesses identified through performance analysis, operating at the edge of current capability, immediate informative feedback, and sustained effort over time. It differs sharply from ordinary task engagement in that it is designed for architectural improvement rather than mere performance enhancement, falling under [[Cognitive Architecture]].
+> Deliberate practice is a specific form of practice characterized by clear improvement goals, targeting weaknesses identified through performance analysis, operating at the edge of current capability, immediate informative feedback, and sustained effort over time. It differs sharply from ordinary task engagement in that it is designed for architectural improvement rather than mere performance enhancement, falling under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It excludes general forms of practice or experience without specific conditions for improvement, such as performing tasks without clear goals or feedback.
@@ -133,10 +133,10 @@ The concept of deliberate practice also has broader implications for organizatio
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Pattern Recognition]]
+**Applies to:** [[pattern-recognition]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

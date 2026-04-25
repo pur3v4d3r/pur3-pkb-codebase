@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Episodic Memory]]"
-  - "[[Semantic Memory]]"
+  - "[[episodic-memory]]"
+  - "[[semantic-memory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -41,9 +41,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Episodic Memory]]"
+  - "[[episodic-memory]]"
 contrasts-with:
-  - "[[Semantic Memory]]"
+  - "[[semantic-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -71,7 +71,7 @@ provenance:
 # Autobiographical Memory
 
 > [!definition] **Autobiographical Memory**
-> Autobiographical memory refers to the recollection of personally experienced events and their integration with semantic knowledge about one's life history, producing a temporally extended self-narrative that supports identity continuity, future-event simulation, and social communication of past experience. It falls under [[Cognitive Architecture]].
+> Autobiographical memory refers to the recollection of personally experienced events and their integration with semantic knowledge about one's life history, producing a temporally extended self-narrative that supports identity continuity, future-event simulation, and social communication of past experience. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This includes episodic memories but excludes non-personal experiences, such as those from reading or watching movies.
@@ -128,10 +128,10 @@ Autobiographical memory is a critical component of human cognition, playing a vi
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Episodic Memory]]
+**Sibling concepts:** [[episodic-memory]]
 
-**Contrasts with:** [[Semantic Memory]]
+**Contrasts with:** [[semantic-memory]]
 
 **Source:** [[autobiographical-memory-synthetic-seed-2026-04-25]]

@@ -36,24 +36,24 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Implementation Intentions]]"
-  - "[[Forethought-Phase]]"
+  - "[[implementation-intentions]]"
+  - "[[forethought-phase]]"
   - "[[Intention-Action Gap]]"
-  - "[[Goal Setting Theory]]"
+  - "[[goal-setting-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Forethought-Phase]]"
+  - "[[forethought-phase]]"
 contrasts-with:
   - "[[Intention-Action Gap]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Goal Setting Theory]]"
+  - "[[goal-setting-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Action Phase Model
 
 > [!definition] **Action Phase Model**
-> The Action Phase Model partitions goal pursuit into four phases: predecisional deliberation, postdecisional preplanning, actional execution, and postactional evaluation. Implementation intentions are a specific kind of preplanning that bridge the gap between these phases, forming cognitive structures that govern actional execution. It falls under [[Self-Regulated Learning]].
+> The Action Phase Model partitions goal pursuit into four phases: predecisional deliberation, postdecisional preplanning, actional execution, and postactional evaluation. Implementation intentions are a specific kind of preplanning that bridge the gap between these phases, forming cognitive structures that govern actional execution. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This model is not about neural implementation but rather describes cognitive processes involved in goal pursuit. It does not cover motivational aspects before or after the four phases.
@@ -141,14 +141,14 @@ The Action Phase Model and its core component, implementation intentions, are cr
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Specializes:** [[Implementation Intentions]]
+**Specializes:** [[implementation-intentions]]
 
-**Sibling concepts:** [[Forethought-Phase]]
+**Sibling concepts:** [[forethought-phase]]
 
 **Contrasts with:** [[Intention-Action Gap]]
 
-**Applies to:** [[Goal Setting Theory]]
+**Applies to:** [[goal-setting-theory]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

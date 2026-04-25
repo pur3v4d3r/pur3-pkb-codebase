@@ -33,7 +33,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Case-Based Reasoning]]"
-  - "[[Far-Transfer]]"
+  - "[[far-transfer]]"
   - "[[Structure-Mapping Theory]]"
 prerequisites:
   - "[[]]"
@@ -49,7 +49,7 @@ contradicts:
   - "[[]]"
 applies-to:
   - "[[Case-Based Reasoning]]"
-  - "[[Far-Transfer]]"
+  - "[[far-transfer]]"
 formalizes:
   - "[[Structure-Mapping Theory]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Analogical Reasoning
 
 > [!definition] **Analogical Reasoning**
-> Analogical Reasoning is the process of transferring knowledge from a familiar source domain to an unfamiliar target domain based on structural similarity, as formalized by Dedre Gentner's structure-mapping theory. It falls under [[Cognitive Architecture]], focusing on relational correspondences rather than surface-level similarities and facilitating the projection of relations from one domain to another.
+> Analogical Reasoning is the process of transferring knowledge from a familiar source domain to an unfamiliar target domain based on structural similarity, as formalized by Dedre Gentner's structure-mapping theory. It falls under [[cognitive-architecture]], focusing on relational correspondences rather than surface-level similarities and facilitating the projection of relations from one domain to another.
 
 > [!attention] **Boundary**
 > This concept excludes surface-level similarities and focuses on relational correspondences. It does not encompass all forms of reasoning or analogy but specifically refers to the transfer of knowledge through structural mapping.
@@ -132,9 +132,9 @@ By recognizing the distinctions between structural and surface-level similaritie
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Applies to:** [[Case-Based Reasoning]] · [[Far-Transfer]]
+**Applies to:** [[Case-Based Reasoning]] · [[far-transfer]]
 
 **Formalizes:** [[Structure-Mapping Theory]]
 

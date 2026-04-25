@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Zimmerman's Model of Self-Regulated Learning]]"
 prerequisites:
   - "[[]]"
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[Zimmerman's Model of Self-Regulated Learning]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Winne's Model of Self-Regulated Learning
 
 > [!definition] **Winne's Model of Self-Regulated Learning**
-> Winne's Model of Self-Regulated Learning, developed by Philip Winne and Allyson Hadwin in 1998, decomposes SRL into a four-stage information-processing cycle — task definition, goal setting and planning, enactment of strategies, and adaptation — within which monitoring continuously compares evolving products against standards and triggers cognitive, behavioral, or motivational control responses. This model focuses on the continuous monitoring and control processes within cognitive operations rather than discrete phases, making it distinct from other models like Zimmerman's cyclical phase model, and falls under [[Self-Regulated Learning]].
+> Winne's Model of Self-Regulated Learning, developed by Philip Winne and Allyson Hadwin in 1998, decomposes SRL into a four-stage information-processing cycle — task definition, goal setting and planning, enactment of strategies, and adaptation — within which monitoring continuously compares evolving products against standards and triggers cognitive, behavioral, or motivational control responses. This model focuses on the continuous monitoring and control processes within cognitive operations rather than discrete phases, making it distinct from other models like Zimmerman's cyclical phase model, and falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This model focuses on the continuous monitoring and control processes within cognitive operations rather than discrete phases, making it distinct from other models like Zimmerman's cyclical phase model.
@@ -129,9 +129,9 @@ The model’s emphasis on real-time adjustments and fine-grained analysis makes 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
 **Contrasts with:** [[Zimmerman's Model of Self-Regulated Learning]]
 

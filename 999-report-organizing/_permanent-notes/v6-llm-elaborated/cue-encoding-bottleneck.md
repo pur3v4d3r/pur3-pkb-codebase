@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Implementation Intentions]]"
-  - "[[Encoding Specificity Principle]]"
+  - "[[implementation-intentions]]"
+  - "[[encoding-specificity-principle]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,7 +45,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -57,7 +57,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Encoding Specificity Principle]]"
+  - "[[encoding-specificity-principle]]"
 refines:
   - "[[]]"
 
@@ -75,7 +75,7 @@ provenance:
 # Cue-Encoding Bottleneck
 
 > [!definition] **Cue-Encoding Bottleneck**
-> The Cue-Encoding Bottleneck is a hypothesis that suggests the most common failure point for implementation intentions is the quality of cue specification, where vague or context-dependent cues fail to be reliably detected by the perceptual system. It falls under [[Self-Regulated Learning]], as it pertains specifically to the encoding and detection of cues in goal-directed behavior.
+> The Cue-Encoding Bottleneck is a hypothesis that suggests the most common failure point for implementation intentions is the quality of cue specification, where vague or context-dependent cues fail to be reliably detected by the perceptual system. It falls under [[self-regulated-learning]], as it pertains specifically to the encoding and detection of cues in goal-directed behavior.
 
 > [!attention] **Boundary**
 > This concept focuses on the specific issue of cue encoding in implementation intentions and does not encompass broader issues like goal disengagement or automaticity drift.
@@ -138,10 +138,10 @@ The Cue-Encoding Bottleneck is a critical concept within self-regulated learning
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Implementation Intentions]]
+**Sibling concepts:** [[implementation-intentions]]
 
-**Supports:** [[Encoding Specificity Principle]]
+**Supports:** [[encoding-specificity-principle]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

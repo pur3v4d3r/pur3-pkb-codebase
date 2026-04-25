@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Encoding Depth
 
 > [!definition] **Encoding Depth**
-> Encoding depth refers to the level of processing at which information is encoded, impacting memory durability. It involves deeper levels such as semantic elaboration and self-referential processing compared to shallow processing like font or color attention. This concept falls under [[Cognitive Architecture]], where it emphasizes the quality of encoding rather than quantity.
+> Encoding depth refers to the level of processing at which information is encoded, impacting memory durability. It involves deeper levels such as semantic elaboration and self-referential processing compared to shallow processing like font or color attention. This concept falls under [[cognitive-architecture]], where it emphasizes the quality of encoding rather than quantity.
 
 > [!attention] **Boundary**
 > This concept excludes duration in short-term memory and repetition as factors for memory trace durability. It focuses on the quality of encoding rather than quantity.
@@ -134,10 +134,10 @@ The concept of encoding depth also intersects with other cognitive load factors,
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

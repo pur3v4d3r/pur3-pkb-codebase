@@ -1,0 +1,96 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-gap-batch-d-pkm-pedagogy",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-gap-batch-D-pkm-pedagogy.md",
+    "notes": "Gap-analysis batch D — knowledge-management, pedagogy, and supporting\nsocial-science concepts that are referenced by existing notes but lack files."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-gap-batch-d-pkm-pedagogy",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-gap-batch-d-pkm-pedagogy"
+  },
+  "counts": {
+    "parsed": 12,
+    "accepted": 12,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Knowledge Management",
+      "kebab": "knowledge-management",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/knowledge-management.yaml",
+      "expected_seed_filename": "knowledge-management-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Zettelkasten Workflow",
+      "kebab": "zettelkasten-workflow",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/zettelkasten-workflow.yaml",
+      "expected_seed_filename": "zettelkasten-workflow-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cultural Psychology",
+      "kebab": "cultural-psychology",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/cultural-psychology.yaml",
+      "expected_seed_filename": "cultural-psychology-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Social Cognition",
+      "kebab": "social-cognition",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/social-cognition.yaml",
+      "expected_seed_filename": "social-cognition-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Theory of Planned Behavior",
+      "kebab": "theory-of-planned-behavior",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/theory-of-planned-behavior.yaml",
+      "expected_seed_filename": "theory-of-planned-behavior-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Stages of Change Model",
+      "kebab": "stages-of-change-model",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/stages-of-change-model.yaml",
+      "expected_seed_filename": "stages-of-change-model-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Task Analysis",
+      "kebab": "task-analysis",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/task-analysis.yaml",
+      "expected_seed_filename": "task-analysis-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Strategy Instruction",
+      "kebab": "strategy-instruction",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/strategy-instruction.yaml",
+      "expected_seed_filename": "strategy-instruction-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Summarization",
+      "kebab": "summarization",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/summarization.yaml",
+      "expected_seed_filename": "summarization-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Test Anxiety",
+      "kebab": "test-anxiety",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/test-anxiety.yaml",
+      "expected_seed_filename": "test-anxiety-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Guided Discovery",
+      "kebab": "guided-discovery",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/guided-discovery.yaml",
+      "expected_seed_filename": "guided-discovery-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Lifespan Development",
+      "kebab": "lifespan-development",
+      "brief_path": "briefs/2026-04-25-gap-batch-d-pkm-pedagogy/lifespan-development.yaml",
+      "expected_seed_filename": "lifespan-development-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

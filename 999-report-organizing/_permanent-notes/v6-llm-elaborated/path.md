@@ -34,7 +34,7 @@ depth-level: elaborated
 parent-concept: "Operating System Configuration"
 
 related:
-  - "[[Environment Variables]]"
+  - "[[environment-variables]]"
   - "[[Virtual Environments]]"
 prerequisites:
   - "[[]]"
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Environment Variables]]"
+  - "[[environment-variables]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -134,7 +134,7 @@ The PATH variable is deeply intertwined with other concepts like virtual environ
 
 **Falls under:** [[Operating System Configuration]]
 
-**Sibling concepts:** [[Environment Variables]]
+**Sibling concepts:** [[environment-variables]]
 
 **Applies to:** [[Virtual Environments]]
 

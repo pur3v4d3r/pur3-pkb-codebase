@@ -1,0 +1,37 @@
+concept: Feeling of Knowing FOK
+domain: cognitive-science
+secondary_domains:
+- metacognition
+- memory-research
+aliases:
+- FOK
+- feeling-of-knowing judgment
+broader:
+- metacognitive-monitoring
+related:
+- judgment-of-learning-jol
+- tip-of-the-tongue-phenomenon
+- cue-utilization-framework
+prerequisites:
+- metacognition
+- semantic-memory
+confidence: high
+callouts:
+- type: definition
+  title: Feeling of Knowing FOK
+  body: A Feeling of Knowing FOK is a metacognitive judgment that an unrecalled item
+    is nonetheless stored in memory and would be recognized if presented, distinguishing
+    genuine retrieval failure from genuine non-encoding within the Nelson-Narens monitoring
+    architecture.
+- type: key-claim
+  title: Key claim about Feeling of Knowing FOK
+  body: The Feeling of Knowing FOK is generated heuristically from cue familiarity
+    and partial-information accessibility rather than from direct inspection of the
+    memory trace, which explains why Feeling of Knowing FOK accuracy is reliably above
+    chance but well below ceiling.
+- type: warning
+  title: Common pitfall regarding Feeling of Knowing FOK
+  body: A high Feeling of Knowing FOK does not guarantee that the item will be produced
+    under retrieval conditions; treating Feeling of Knowing FOK as evidence of mastery
+    — rather than as evidence of partial accessibility — is a common metacognitive
+    error that suppresses corrective study behaviour.

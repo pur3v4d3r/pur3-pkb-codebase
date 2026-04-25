@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Inquiry-Based Learning]]"
-  - "[[Productive Failure]]"
+  - "[[inquiry-based-learning]]"
+  - "[[productive-failure]]"
   - "[[Guided Discovery]]"
 prerequisites:
   - "[[]]"
@@ -45,8 +45,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Inquiry-Based Learning]]"
-  - "[[Productive Failure]]"
+  - "[[inquiry-based-learning]]"
+  - "[[productive-failure]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Discovery Learning
 
 > [!definition] **Discovery Learning**
-> Discovery Learning is an instructional method where learners are presented with problems or materials to discover underlying concepts on their own, rather than receiving direct instruction. It falls under [[Cognitive Psychology]], and while it aims for deep understanding through active engagement, its pure unguided form has been shown to be less effective for novice learners compared to direct instruction (Mayer 2004; Kirschner, Sweller & Clark 2006).
+> Discovery Learning is an instructional method where learners are presented with problems or materials to discover underlying concepts on their own, rather than receiving direct instruction. It falls under [[cognitive-psychology]], and while it aims for deep understanding through active engagement, its pure unguided form has been shown to be less effective for novice learners compared to direct instruction (Mayer 2004; Kirschner, Sweller & Clark 2006).
 
 > [!attention] **Boundary**
 > This concept excludes guided discovery methods that provide scaffolding and support. It should not be confused with inquiry-based learning or productive failure, which can incorporate elements of both guided and unguided discovery.
@@ -137,9 +137,9 @@ Empirical studies have shown that unguided discovery can be less effective for n
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Contrasts with:** [[Inquiry-Based Learning]] · [[Productive Failure]]
+**Contrasts with:** [[inquiry-based-learning]] · [[productive-failure]]
 
 **Applies to:** [[Guided Discovery]]
 

@@ -35,7 +35,7 @@ parent-concept: "Cognitive Architecture"
 related:
   - "[[Self-Esteem]]"
   - "[[Possible Selves]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Self-Concept
 
 > [!definition] **Self-Concept**
-> Self-Concept refers to the cognitive representation of who one is, including self-relevant beliefs, attributes, identities, and roles, organized into domain-specific networks. It falls under [[Cognitive Architecture]], distinguishing it from self-esteem (the evaluative dimension) and self-efficacy (situation-specific competence judgment).
+> Self-Concept refers to the cognitive representation of who one is, including self-relevant beliefs, attributes, identities, and roles, organized into domain-specific networks. It falls under [[cognitive-architecture]], distinguishing it from self-esteem (the evaluative dimension) and self-efficacy (situation-specific competence judgment).
 
 > [!attention] **Boundary**
 > It should not be confused with self-esteem (the evaluative dimension) or self-efficacy (situation-specific competence judgment).
@@ -133,10 +133,10 @@ The concept of Self-Concept also intersects with other constructs such as Possib
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Contrasts with:** [[Self-Esteem]] · [[Possible Selves]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
 **Source:** [[self-concept-synthetic-seed-2026-04-25]]

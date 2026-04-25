@@ -34,7 +34,7 @@ parent-concept: "Self-Determination Theory"
 
 related:
   - "[[Autonomy-Supportive Teaching]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,7 +43,7 @@ broader:
   - "[[]]"
 see-also:
   - "[[Autonomy-Supportive Teaching]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -73,7 +73,7 @@ provenance:
 # Need Support
 
 > [!definition] **Need Support**
-> Need Support is a practice that nourishes the three basic psychological needs of autonomy, competence, and relatedness simultaneously in interpersonal interactions, falling under [[Self-Determination Theory]]. It involves providing meaningful rationale and choice (autonomy), structured challenge with informative feedback (competence), and warm involvement with non-conditional regard (relatedness).
+> Need Support is a practice that nourishes the three basic psychological needs of autonomy, competence, and relatedness simultaneously in interpersonal interactions, falling under [[self-determination-theory]]. It involves providing meaningful rationale and choice (autonomy), structured challenge with informative feedback (competence), and warm involvement with non-conditional regard (relatedness).
 
 > [!attention] **Boundary**
 > This concept focuses on practices that address all three basic psychological needs but does not include situations where only one or two needs are addressed.
@@ -136,8 +136,8 @@ The broader implications of Need Support extend beyond individual psychology to 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Autonomy-Supportive Teaching]] · [[Self-Determination Theory]]
+**Sibling concepts:** [[Autonomy-Supportive Teaching]] · [[self-determination-theory]]
 
 **Source:** [[need-support-synthetic-seed-2026-04-24]]

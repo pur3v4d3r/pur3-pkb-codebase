@@ -2,6 +2,7 @@
 title: "Levels of Processing"
 aliases:
   - "Levels of Processing"
+  - "Levels-of-Processing"
   - "PKM Planning Cognitive Science"
   - "Cognitive Science of Personal Knowledge Management"
   - "PKB Design and Cognitive Architecture"
@@ -37,7 +38,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Elaborative Processing]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,7 +48,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +76,7 @@ provenance:
 # Levels of Processing
 
 > [!definition] **Levels of Processing**
-> The Levels of Processing is a framework suggesting that the durability of memory traces depends on the depth rather than duration or repetition of processing — the degree to which encoding involves semantic analysis and meaningful interpretation, falling under [[Cognitive Architecture]].
+> The Levels of Processing is a framework suggesting that the durability of memory traces depends on the depth rather than duration or repetition of processing — the degree to which encoding involves semantic analysis and meaningful interpretation, falling under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept focuses on the quality of encoding and does not include other factors like cognitive load or working memory capacity.
@@ -134,10 +135,10 @@ This concept also bridges cognitive psychology with practical applications in PK
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Specializes:** [[Elaborative Processing]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

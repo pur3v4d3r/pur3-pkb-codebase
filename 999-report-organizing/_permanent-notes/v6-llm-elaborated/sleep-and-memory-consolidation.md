@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Sleep and Memory Consolidation
 
 > [!definition] **Sleep and Memory Consolidation**
-> Sleep and Memory Consolidation is the process by which sleep, particularly slow-wave sleep for declarative material and REM sleep for procedural and emotional content, actively processes recently encoded memories, integrating them with existing knowledge and stabilizing them for long-term storage. It falls under [[Cognitive Architecture]], reframing sleep from a passive recovery state into an obligatory cognitive operation that significantly influences learning outcomes.
+> Sleep and Memory Consolidation is the process by which sleep, particularly slow-wave sleep for declarative material and REM sleep for procedural and emotional content, actively processes recently encoded memories, integrating them with existing knowledge and stabilizing them for long-term storage. It falls under [[cognitive-architecture]], reframing sleep from a passive recovery state into an obligatory cognitive operation that significantly influences learning outcomes.
 
 > [!attention] **Boundary**
 > This concept excludes the role of other cognitive functions during wakefulness in memory formation and does not encompass all aspects of sleep's benefits on cognition.
@@ -132,10 +132,10 @@ The integration of sleep-dependent consolidation into educational practices not 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[sleep-and-memory-consolidation-synthetic-seed-2026-04-25]]

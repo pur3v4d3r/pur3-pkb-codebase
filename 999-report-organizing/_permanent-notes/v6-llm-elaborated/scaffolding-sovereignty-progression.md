@@ -39,8 +39,8 @@ parent-concept: "Self-Regulated Learning"
 related:
   - "[[Zone of Proximal Development (ZPD)]]"
   - "[[Self-Determination Theory (SDT)]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Heutagogy]]"
+  - "[[self-regulated-learning]]"
+  - "[[heutagogy]]"
 prerequisites:
   - "[[Zone of Proximal Development (ZPD)]]"
 specializes:
@@ -48,9 +48,9 @@ specializes:
 broader:
   - "[[Self-Determination Theory (SDT)]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
-  - "[[Heutagogy]]"
+  - "[[heutagogy]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -78,7 +78,7 @@ provenance:
 # Scaffolding-Sovereignty Progression
 
 > [!definition] **Scaffolding-Sovereignty Progression**
-> The Scaffolding-Sovereignty Progression is a five-phase developmental framework that integrates constructs from Vygotsky, Zimmerman, Self-Determination Theory (SDT), and heutagogy to describe how curriculum design can transform dependent learners into self-directed ones. It falls under [[Self-Regulated Learning]], as it aims to foster the development of learner autonomy through structured support and gradual independence.
+> The Scaffolding-Sovereignty Progression is a five-phase developmental framework that integrates constructs from Vygotsky, Zimmerman, Self-Determination Theory (SDT), and heutagogy to describe how curriculum design can transform dependent learners into self-directed ones. It falls under [[self-regulated-learning]], as it aims to foster the development of learner autonomy through structured support and gradual independence.
 
 > [!attention] **Boundary**
 > This progression is not a fixed sequence but rather a recursive and domain-specific process. It does not include the specific educational practices or assessment methods that are deployed within each phase.
@@ -137,14 +137,14 @@ This framework aligns with the broader goals of self-regulated learning by empha
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Prerequisites:** [[Zone of Proximal Development (ZPD)]]
 
 **Generalizes to:** [[Self-Determination Theory (SDT)]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Heutagogy]]
+**Contrasts with:** [[heutagogy]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

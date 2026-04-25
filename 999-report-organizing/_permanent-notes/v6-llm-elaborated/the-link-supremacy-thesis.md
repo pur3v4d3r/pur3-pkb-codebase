@@ -36,21 +36,21 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Spreading Activation]]"
-  - "[[Schema Theory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[spreading-activation]]"
+  - "[[schema-theory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Spreading Activation]]"
+  - "[[spreading-activation]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 applies-to:
   - "[[]]"
 formalizes:
@@ -76,7 +76,7 @@ provenance:
 # Link Supremacy Thesis
 
 > [!definition] **Link Supremacy Thesis**
-> The Link Supremacy Thesis posits that in a PKM system designed to mirror the associative architecture of long-term memory, the linking structure is not supplementary metadata but the primary organizational mechanism. The value of a note is proportional not to the quality of its folder placement but to the density and semantic coherence of its connections. It falls under [[Cognitive Architecture]].
+> The Link Supremacy Thesis posits that in a PKM system designed to mirror the associative architecture of long-term memory, the linking structure is not supplementary metadata but the primary organizational mechanism. The value of a note is proportional not to the quality of its folder placement but to the density and semantic coherence of its connections. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This thesis excludes hierarchical navigation as the main retrieval method and focuses on semantic coherence and density of connections for note retrievability.
@@ -132,12 +132,12 @@ Beyond PKM systems, the principles of the Link Supremacy Thesis can inform instr
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Spreading Activation]]
+**Prerequisites:** [[spreading-activation]]
 
-**Sibling concepts:** [[Schema Theory]]
+**Sibling concepts:** [[schema-theory]]
 
-**Contradicts:** [[Cognitive Load Theory]]
+**Contradicts:** [[cognitive-load-theory]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

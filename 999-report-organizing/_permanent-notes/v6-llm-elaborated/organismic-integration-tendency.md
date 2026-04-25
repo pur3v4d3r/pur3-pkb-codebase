@@ -37,9 +37,9 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Self-Determination Theory (SDT)]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,10 +47,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Self-Determination Theory (SDT)]]"
 contrasts-with:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -78,7 +78,7 @@ provenance:
 # Organismic Integration Tendency
 
 > [!definition] **Organismic Integration Tendency**
-> The inherent, natural human tendency to internalize and integrate ambient social values, practices, and regulatory norms into a coherent, unified self-structure. This process is not passive absorption but an active one where external material becomes genuinely part of the individual's own beliefs and behaviors. It falls under [[Self-Determination Theory]], which treats human beings as inherently active, growth-oriented organisms. It falls under [[Motivational Psychology]].
+> The inherent, natural human tendency to internalize and integrate ambient social values, practices, and regulatory norms into a coherent, unified self-structure. This process is not passive absorption but an active one where external material becomes genuinely part of the individual's own beliefs and behaviors. It falls under [[self-determination-theory]], which treats human beings as inherently active, growth-oriented organisms. It falls under [[motivational-psychology]].
 
 > [!attention] **Boundary**
 > This concept does not include passive absorption of external material or conformity. It specifically refers to the active processing and integration of these elements by the individual.
@@ -141,10 +141,10 @@ Moreover, the integration tendency connects intrinsic motivation (a key componen
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Sibling concepts:** [[Intrinsic Motivation]] · [[Self-Determination Theory (SDT)]]
+**Sibling concepts:** [[intrinsic-motivation]] · [[Self-Determination Theory (SDT)]]
 
-**Contrasts with:** [[Extrinsic Motivation]]
+**Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

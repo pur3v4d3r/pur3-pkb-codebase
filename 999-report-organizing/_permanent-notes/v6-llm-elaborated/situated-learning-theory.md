@@ -34,8 +34,8 @@ parent-concept: "Learning Theories"
 
 related:
   - "[[Legitimate Peripheral Participation]]"
-  - "[[Communities of Practice]]"
-  - "[[Distributed Cognition]]"
+  - "[[communities-of-practice]]"
+  - "[[distributed-cognition]]"
 prerequisites:
   - "[[Legitimate Peripheral Participation]]"
 specializes:
@@ -43,9 +43,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Communities of Practice]]"
+  - "[[communities-of-practice]]"
 contrasts-with:
-  - "[[Distributed Cognition]]"
+  - "[[distributed-cognition]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Situated Learning Theory
 
 > [!definition] **Situated Learning Theory**
-> Situated Learning Theory, developed by Jean Lave and Etienne Wenger, posits that learning is fundamentally a process of becoming a participant in a community of practice — acquiring identity, tools, and skill through legitimate peripheral participation in authentic activity — rather than the abstract acquisition of decontextualised knowledge. It falls under [[Learning Theories]], emphasizing the social and practical aspects of learning within communities.
+> Situated Learning Theory, developed by Jean Lave and Etienne Wenger, posits that learning is fundamentally a process of becoming a participant in a community of practice — acquiring identity, tools, and skill through legitimate peripheral participation in authentic activity — rather than the abstract acquisition of decontextualised knowledge. It falls under [[learning-theories]], emphasizing the social and practical aspects of learning within communities.
 
 > [!attention] **Boundary**
 > This theory excludes the notion of isolated or decontextualized learning, focusing instead on the social and practical aspects of learning within communities.
@@ -133,12 +133,12 @@ This concept also intersects with other theories like Communities of Practice an
 
 ## Connections & Context
 
-**Falls under:** [[Learning Theories]]
+**Falls under:** [[learning-theories]]
 
 **Prerequisites:** [[Legitimate Peripheral Participation]]
 
-**Sibling concepts:** [[Communities of Practice]]
+**Sibling concepts:** [[communities-of-practice]]
 
-**Contrasts with:** [[Distributed Cognition]]
+**Contrasts with:** [[distributed-cognition]]
 
 **Source:** [[situated-learning-theory-synthetic-seed-2026-04-24]]

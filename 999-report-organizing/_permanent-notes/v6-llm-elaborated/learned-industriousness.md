@@ -33,8 +33,8 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[Effort-Based Decision-Making]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Deliberate Practice]]"
+  - "[[intrinsic-motivation]]"
+  - "[[deliberate-practice]]"
 prerequisites:
   - "[[Effort-Based Decision-Making]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Deliberate Practice]]"
+  - "[[deliberate-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Learned Industriousness
 
 > [!definition] **Learned Industriousness**
-> Learned Industriousness is a behavioral-psychology theory that suggests high effort can become secondarily rewarding through reinforcement history, leading to a generalized disposition to work hard on new tasks. It falls under [[Self-Regulated Learning]], reframing 'effortful disposition' from a stable trait into a learning history: the willingness to work hard on novel tasks reflects the cumulative reinforcement of effortful behavior across prior tasks.
+> Learned Industriousness is a behavioral-psychology theory that suggests high effort can become secondarily rewarding through reinforcement history, leading to a generalized disposition to work hard on new tasks. It falls under [[self-regulated-learning]], reframing 'effortful disposition' from a stable trait into a learning history: the willingness to work hard on novel tasks reflects the cumulative reinforcement of effortful behavior across prior tasks.
 
 > [!attention] **Boundary**
 > This concept excludes personality traits and focuses on the learned behavior of effortful engagement in tasks, distinct from intrinsic motivation or deliberate practice.
@@ -83,7 +83,7 @@ Learned Industriousness posits that individuals develop an inclination towards e
 
 In practice, Learned Industriousness operates as a feedback loop: when individuals repeatedly engage in tasks and receive positive reinforcement for their efforts, they begin to associate effort with success. This association becomes internalized over time, leading them to approach new challenges with the same level of dedication, even without explicit rewards each time. The theory underscores that early environments play a crucial role in shaping this learned industriousness.
 
-Theoretical roots of Learned Industriousness can be traced back to behavioral psychology and its focus on observable behaviors rather than internal states or traits. It builds upon the idea that reinforcement history shapes behavior, but extends it by suggesting that effort itself can become a secondary reinforcer through repeated positive associations. This aligns with the broader concept of [[Self-Regulated Learning]], where learners develop strategies to manage their own learning processes effectively.
+Theoretical roots of Learned Industriousness can be traced back to behavioral psychology and its focus on observable behaviors rather than internal states or traits. It builds upon the idea that reinforcement history shapes behavior, but extends it by suggesting that effort itself can become a secondary reinforcer through repeated positive associations. This aligns with the broader concept of [[self-regulated-learning]], where learners develop strategies to manage their own learning processes effectively.
 
 Empirical evidence supporting Learned Industriousness comes from studies showing how consistent reinforcement for effort in early educational settings leads to higher levels of industrious behavior in later tasks. For instance, children who are rewarded for trying hard on homework assignments may carry this pattern into more complex academic challenges without needing external incentives.
 
@@ -128,12 +128,12 @@ The importance of Learned Industriousness extends beyond educational settings in
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Prerequisites:** [[Effort-Based Decision-Making]]
 
-**Contrasts with:** [[Intrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]]
 
-**Applies to:** [[Deliberate Practice]]
+**Applies to:** [[deliberate-practice]]
 
 **Source:** [[learned-industriousness-synthetic-seed-2026-04-25]]

@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Learning Processes"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Conceptual Change
 
 > [!definition] **Conceptual Change**
-> Conceptual Change refers to the deep restructuring of a learner's existing concepts when prior conceptions are systematically incompatible with new understanding, such as shifting from naive impetus theory to Newtonian mechanics or from a flat-Earth conception to a spherical one. It falls under [[Learning Processes]], focusing on fundamental shifts in cognitive structures and frameworks rather than superficial changes in knowledge or simple fact acquisition.
+> Conceptual Change refers to the deep restructuring of a learner's existing concepts when prior conceptions are systematically incompatible with new understanding, such as shifting from naive impetus theory to Newtonian mechanics or from a flat-Earth conception to a spherical one. It falls under [[learning-processes]], focusing on fundamental shifts in cognitive structures and frameworks rather than superficial changes in knowledge or simple fact acquisition.
 
 > [!attention] **Boundary**
 > This concept excludes superficial changes in knowledge or simple fact acquisition. It focuses on fundamental shifts in cognitive structures and frameworks.
@@ -130,10 +130,10 @@ The concept's relevance extends beyond education into fields like psychology and
 
 ## Connections & Context
 
-**Falls under:** [[Learning Processes]]
+**Falls under:** [[learning-processes]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[conceptual-change-synthetic-seed-2026-04-24]]

@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Autonomy Need]]"
-  - "[[Competence Need]]"
-  - "[[Attachment Theory]]"
+  - "[[autonomy-need]]"
+  - "[[competence-need]]"
+  - "[[attachment-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,10 +43,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Autonomy Need]]"
-  - "[[Competence Need]]"
+  - "[[autonomy-need]]"
+  - "[[competence-need]]"
 contrasts-with:
-  - "[[Attachment Theory]]"
+  - "[[attachment-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Relatedness Need
 
 > [!definition] **Relatedness Need**
-> The Relatedness Need is the psychological requirement to feel connected to others and belong to a community, which is satisfied by warm, responsive relationships where one feels valued for who they are rather than for instrumental performance. It falls under [[Self-Determination Theory]], emphasizing social connection and belongingness over other needs such as autonomy or competence.
+> The Relatedness Need is the psychological requirement to feel connected to others and belong to a community, which is satisfied by warm, responsive relationships where one feels valued for who they are rather than for instrumental performance. It falls under [[self-determination-theory]], emphasizing social connection and belongingness over other needs such as autonomy or competence.
 
 > [!attention] **Boundary**
 > This concept excludes other types of needs such as autonomy or competence, focusing specifically on social connection and belongingness.
@@ -138,10 +138,10 @@ Empirical evidence supports the importance of the Relatedness Need in fostering 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Autonomy Need]] · [[Competence Need]]
+**Sibling concepts:** [[autonomy-need]] · [[competence-need]]
 
-**Contrasts with:** [[Attachment Theory]]
+**Contrasts with:** [[attachment-theory]]
 
 **Source:** [[relatedness-need-synthetic-seed-2026-04-24]]

@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Four Component Instructional Design (4C/ID)
 
 > [!definition] **Four Component Instructional Design (4C/ID)**
-> Complex learning involves the acquisition, integration, and coordinated application of knowledge, skills, and attitudes across multiple interacting skill domains, where the performance of the whole task requires simultaneous attention to elements that interact in ways not predictable from the individual elements alone. It falls under [[Instructional Design]], as it provides a framework for designing training programs that address these challenges by emphasizing the integration of knowledge, skills, and attitudes within authentic, whole-task contexts.
+> Complex learning involves the acquisition, integration, and coordinated application of knowledge, skills, and attitudes across multiple interacting skill domains, where the performance of the whole task requires simultaneous attention to elements that interact in ways not predictable from the individual elements alone. It falls under [[instructional-design]], as it provides a framework for designing training programs that address these challenges by emphasizing the integration of knowledge, skills, and attitudes within authentic, whole-task contexts.
 
 > [!attention] **Boundary**
 > It focuses on complex learning where coordination demands are critical and cannot be simplified by decomposition. It does not apply to simple or rote learning tasks with low element interactivity.
@@ -134,10 +134,10 @@ The PKM-4C/ID structural analogy highlights the model's relevance beyond instruc
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

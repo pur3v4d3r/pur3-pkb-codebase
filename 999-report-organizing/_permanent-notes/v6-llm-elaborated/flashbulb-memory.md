@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Autobiographical Memory"
 
 related:
-  - "[[Autobiographical Memory]]"
-  - "[[Source Amnesia]]"
-  - "[[False Memory]]"
-  - "[[Memory Consolidation]]"
+  - "[[autobiographical-memory]]"
+  - "[[source-amnesia]]"
+  - "[[false-memory]]"
+  - "[[memory-consolidation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,14 +43,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Autobiographical Memory]]"
+  - "[[autobiographical-memory]]"
 contrasts-with:
-  - "[[Source Amnesia]]"
-  - "[[False Memory]]"
+  - "[[source-amnesia]]"
+  - "[[false-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Memory Consolidation]]"
+  - "[[memory-consolidation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Flashbulb Memory
 
 > [!definition] **Flashbulb Memory**
-> Flashbulb memory is a vivid and detailed recollection of personal circumstances surrounding the reception of surprising and emotionally consequential public news events, best understood as ordinary autobiographical memory accompanied by inflated metacognitive confidence; it falls under [[Autobiographical Memory]].
+> Flashbulb memory is a vivid and detailed recollection of personal circumstances surrounding the reception of surprising and emotionally consequential public news events, best understood as ordinary autobiographical memory accompanied by inflated metacognitive confidence; it falls under [[autobiographical-memory]].
 
 > [!attention] **Boundary**
 > This concept excludes mundane memories that are not associated with strong emotions or significant public events. It should not be confused with ordinary autobiographical memory, which does not exhibit inflated metacognitive confidence.
@@ -134,12 +134,12 @@ By recognizing the dissociation between vividness and accuracy in flashbulb memo
 
 ## Connections & Context
 
-**Falls under:** [[Autobiographical Memory]]
+**Falls under:** [[autobiographical-memory]]
 
-**Sibling concepts:** [[Autobiographical Memory]]
+**Sibling concepts:** [[autobiographical-memory]]
 
-**Contrasts with:** [[Source Amnesia]] · [[False Memory]]
+**Contrasts with:** [[source-amnesia]] · [[false-memory]]
 
-**Applies to:** [[Memory Consolidation]]
+**Applies to:** [[memory-consolidation]]
 
 **Source:** [[flashbulb-memory-synthetic-seed-2026-04-25]]

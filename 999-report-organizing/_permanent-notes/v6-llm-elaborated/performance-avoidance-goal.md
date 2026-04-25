@@ -2,6 +2,7 @@
 title: "Performance-Avoidance Goal"
 aliases:
   - "Performance-Avoidance Goal"
+  - "Performance Avoidance Goal"
   - "Achievement Goal Theory"
   - "Mastery vs Performance Goals"
   - "AGT"
@@ -36,8 +37,8 @@ depth-level: elaborated
 parent-concept: "Achievement Goal Theory"
 
 related:
-  - "[[Mastery-Avoidance Goal]]"
-  - "[[Performance-Approach Goal]]"
+  - "[[mastery-avoidance-goal]]"
+  - "[[performance-approach-goal]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,8 +48,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Mastery-Avoidance Goal]]"
-  - "[[Performance-Approach Goal]]"
+  - "[[mastery-avoidance-goal]]"
+  - "[[performance-approach-goal]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +77,7 @@ provenance:
 # Performance-Avoidance Goal
 
 > [!definition] **Performance-Avoidance Goal**
-> A performance-avoidance goal is an achievement goal focused on not appearing incompetent relative to others, rather than demonstrating competence or mastery of a task. It falls under [[Achievement Goal Theory]], where it is distinguished from both performance-approach goals and mastery-avoidance goals.
+> A performance-avoidance goal is an achievement goal focused on not appearing incompetent relative to others, rather than demonstrating competence or mastery of a task. It falls under [[achievement-goal-theory]], where it is distinguished from both performance-approach goals and mastery-avoidance goals.
 
 > [!attention] **Boundary**
 > This concept excludes goals that focus on personal improvement or mastery and distinguishes it from performance-approach goals which seek to demonstrate high competence. It also differs from mastery-avoidance goals, which aim to maintain one's prior level of competence.
@@ -135,8 +136,8 @@ This concept intersects with broader issues in motivation and well-being, partic
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Mastery-Avoidance Goal]] · [[Performance-Approach Goal]]
+**Contrasts with:** [[mastery-avoidance-goal]] · [[performance-approach-goal]]
 
 **Source:** [[goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20]]

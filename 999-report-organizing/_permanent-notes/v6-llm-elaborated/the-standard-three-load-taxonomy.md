@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Standard Three-Load Taxonomy
 
 > [!definition] **Standard Three-Load Taxonomy**
-> The standard three-load taxonomy in cognitive load theory categorizes the types of cognitive loads into intrinsic (ICL), extraneous (ECL), and germane (GCL) loads. It falls under [[Cognitive Load Theory]], which focuses on how the complexity of learning materials and their presentation affect working memory capacity, with ICL being the inherent complexity of the material itself, ECL arising from instructional design choices, and GCL representing productive cognitive resources devoted to schema construction.
+> The standard three-load taxonomy in cognitive load theory categorizes the types of cognitive loads into intrinsic (ICL), extraneous (ECL), and germane (GCL) loads. It falls under [[cognitive-load-theory]], which focuses on how the complexity of learning materials and their presentation affect working memory capacity, with ICL being the inherent complexity of the material itself, ECL arising from instructional design choices, and GCL representing productive cognitive resources devoted to schema construction.
 
 > [!attention] **Boundary**
 > This taxonomy does not include other aspects of cognitive processing such as affective or motivational factors, nor does it encompass all forms of learning or memory processes.
@@ -132,10 +132,10 @@ The taxonomy also highlights the importance of working memory capacity in learni
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

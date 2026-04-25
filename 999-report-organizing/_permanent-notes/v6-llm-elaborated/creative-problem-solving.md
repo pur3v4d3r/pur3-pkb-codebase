@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Divergent Thinking]]"
-  - "[[Lateral Thinking]]"
-  - "[[Problem-Based Learning]]"
+  - "[[divergent-thinking]]"
+  - "[[lateral-thinking]]"
+  - "[[problem-based-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Divergent Thinking]]"
+  - "[[divergent-thinking]]"
 contrasts-with:
-  - "[[Lateral Thinking]]"
+  - "[[lateral-thinking]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Problem-Based Learning]]"
+  - "[[problem-based-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Creative Problem-Solving
 
 > [!definition] **Creative Problem-Solving**
-> Creative Problem-Solving is a structured process that alternates divergent and convergent thinking phases to generate innovative solutions, originating from the Osborn-Parnes model. It falls under [[Cognitive Architecture]], as it involves systematic cognitive processes designed to enhance creative production toward viable solutions.
+> Creative Problem-Solving is a structured process that alternates divergent and convergent thinking phases to generate innovative solutions, originating from the Osborn-Parnes model. It falls under [[cognitive-architecture]], as it involves systematic cognitive processes designed to enhance creative production toward viable solutions.
 
 > [!attention] **Boundary**
 > It excludes unstructured brainstorming sessions without a defined problem statement or implementation plan. It should not be confused with spontaneous creative activities that lack systematic structure.
@@ -126,16 +126,16 @@ The process of Creative Problem-Solving alternates between divergent and converg
 
 Creative Problem-Solving is a valuable framework for enhancing creative thinking and innovation across various domains. By integrating divergent and convergent thinking, it provides a structured approach to problem-solving that can be applied in educational settings to foster productive struggle and failure, leading to deeper learning outcomes. In professional environments, it promotes innovation by ensuring that teams consider a wide range of potential solutions before selecting the most practical ones.
 
-This method falls under [[Cognitive Architecture]], as it involves systematic cognitive processes designed to enhance creative production toward viable solutions. Its application in problem-based learning frameworks further underscores its importance in fostering engagement and creativity among students.
+This method falls under [[cognitive-architecture]], as it involves systematic cognitive processes designed to enhance creative production toward viable solutions. Its application in problem-based learning frameworks further underscores its importance in fostering engagement and creativity among students.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Divergent Thinking]]
+**Sibling concepts:** [[divergent-thinking]]
 
-**Contrasts with:** [[Lateral Thinking]]
+**Contrasts with:** [[lateral-thinking]]
 
-**Applies to:** [[Problem-Based Learning]]
+**Applies to:** [[problem-based-learning]]
 
 **Source:** [[creative-problem-solving-synthetic-seed-2026-04-25]]

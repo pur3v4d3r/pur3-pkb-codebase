@@ -1,0 +1,39 @@
+concept: Cognitive Science
+domain: cognitive-science
+secondary_domains:
+- interdisciplinary
+- psychology
+- philosophy
+aliases:
+- cognitive sciences
+- the cognitive sciences
+broader:
+- interdisciplinary-research
+related:
+- cognitive-psychology
+- neuroscience
+- artificial-intelligence
+- philosophy-of-mind
+- linguistics
+- anthropology
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Science
+  body: Cognitive Science is the interdisciplinary study of mind and intelligence
+    that integrates psychology, computer science and artificial intelligence, neuroscience,
+    philosophy, linguistics, and anthropology around the unifying assumption that
+    cognition is a form of information processing realisable in multiple substrates.
+- type: key-claim
+  title: Key claim about Cognitive Science
+  body: Cognitive Science is defined less by its subject matter than by its commitment
+    to multi-level explanation — Marr's computational, algorithmic, and implementational
+    levels are the canonical articulation — which is why Cognitive Science treats
+    explanation as triangulation across disciplines rather than reduction to any single
+    one.
+- type: warning
+  title: Common pitfall regarding Cognitive Science
+  body: Cognitive Science is sometimes equated with cognitive psychology or with computational
+    modelling; both equations are too narrow, and they obscure the genuinely interdisciplinary
+    integration that distinguishes Cognitive Science from each of its constituent
+    disciplines taken alone.

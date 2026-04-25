@@ -77,7 +77,7 @@ provenance:
 # Discrepancy-Reduction Model of Study Time Allocation
 
 > [!definition] **Discrepancy-Reduction Model of Study Time Allocation**
-> The Discrepancy-Reduction Model of Study Time Allocation posits that learners allocate study time to reduce the gap between their current assessment of an item's memorability and a desired criterion state, falling under [[Cognitive Architecture]]. This model focuses on how learners decide where to allocate study effort based on perceived gaps in knowledge, excluding other factors like intrinsic motivation or environmental influences.
+> The Discrepancy-Reduction Model of Study Time Allocation posits that learners allocate study time to reduce the gap between their current assessment of an item's memorability and a desired criterion state, falling under [[cognitive-architecture]]. This model focuses on how learners decide where to allocate study effort based on perceived gaps in knowledge, excluding other factors like intrinsic motivation or environmental influences.
 
 ## Core Explanation
 
@@ -131,7 +131,7 @@ The Discrepancy-Reduction Model of Study Time Allocation is a crucial component 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Generalizes to:** [[Metacognitive Control Framework]]
 

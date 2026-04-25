@@ -1,0 +1,90 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-gap-batch-a-memory",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-gap-batch-A-memory.md",
+    "notes": "Gap-analysis batch A — memory and metacognitive-judgment concepts that are\nreferenced repeatedly across existing permanent notes but lack their own\nfiles. Closes high-payoff edges in the memory / metacognition cluster."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-gap-batch-a-memory",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-gap-batch-a-memory"
+  },
+  "counts": {
+    "parsed": 11,
+    "accepted": 11,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Judgment of Learning JOL",
+      "kebab": "judgment-of-learning-jol",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/judgment-of-learning-jol.yaml",
+      "expected_seed_filename": "judgment-of-learning-jol-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Feeling of Knowing FOK",
+      "kebab": "feeling-of-knowing-fok",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/feeling-of-knowing-fok.yaml",
+      "expected_seed_filename": "feeling-of-knowing-fok-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "State Dependent Memory",
+      "kebab": "state-dependent-memory",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/state-dependent-memory.yaml",
+      "expected_seed_filename": "state-dependent-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Blocked Practice",
+      "kebab": "blocked-practice",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/blocked-practice.yaml",
+      "expected_seed_filename": "blocked-practice-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Mastery Experience",
+      "kebab": "mastery-experience",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/mastery-experience.yaml",
+      "expected_seed_filename": "mastery-experience-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Cued Recall",
+      "kebab": "cued-recall",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/cued-recall.yaml",
+      "expected_seed_filename": "cued-recall-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Free Recall",
+      "kebab": "free-recall",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/free-recall.yaml",
+      "expected_seed_filename": "free-recall-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Proactive Interference",
+      "kebab": "proactive-interference",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/proactive-interference.yaml",
+      "expected_seed_filename": "proactive-interference-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Retroactive Interference",
+      "kebab": "retroactive-interference",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/retroactive-interference.yaml",
+      "expected_seed_filename": "retroactive-interference-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Recognition Memory",
+      "kebab": "recognition-memory",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/recognition-memory.yaml",
+      "expected_seed_filename": "recognition-memory-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Savings Paradigm",
+      "kebab": "savings-paradigm",
+      "brief_path": "briefs/2026-04-25-gap-batch-a-memory/savings-paradigm.yaml",
+      "expected_seed_filename": "savings-paradigm-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

@@ -34,8 +34,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Anchoring Bias]]"
-  - "[[Sunk Cost Fallacy]]"
+  - "[[anchoring-bias]]"
+  - "[[sunk-cost-fallacy]]"
   - "[[Prospect Theory]]"
 prerequisites:
   - "[[]]"
@@ -46,8 +46,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Anchoring Bias]]"
-  - "[[Sunk Cost Fallacy]]"
+  - "[[anchoring-bias]]"
+  - "[[sunk-cost-fallacy]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Framing Effect
 
 > [!definition] **Framing Effect**
-> The Framing Effect is the tendency for people to make different choices based on how a problem is presented, even when the outcomes are logically equivalent. It falls under [[Cognitive Architecture]], demonstrating that choice is influenced by reference-dependent value functions rather than expected-utility maximization over absolute outcomes.
+> The Framing Effect is the tendency for people to make different choices based on how a problem is presented, even when the outcomes are logically equivalent. It falls under [[cognitive-architecture]], demonstrating that choice is influenced by reference-dependent value functions rather than expected-utility maximization over absolute outcomes.
 
 > [!attention] **Boundary**
 > This concept excludes specific examples of framing and focuses on the general phenomenon where reference-dependent value functions influence choice over absolute outcomes.
@@ -135,9 +135,9 @@ The Framing Effect also highlights the importance of framing in various fields s
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Anchoring Bias]] · [[Sunk Cost Fallacy]]
+**Contrasts with:** [[anchoring-bias]] · [[sunk-cost-fallacy]]
 
 **Supports:** [[Prospect Theory]]
 

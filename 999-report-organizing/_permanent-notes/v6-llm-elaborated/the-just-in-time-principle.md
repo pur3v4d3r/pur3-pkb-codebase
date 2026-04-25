@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Just-in-Time Principle
 
 > [!definition] **Just-in-Time Principle**
-> The Just-in-Time Principle is a timing strategy in instructional design where procedural information for recurrent skills is presented just as it is needed, reducing cognitive load and improving learning efficiency. It falls under [[Cognitive Architecture]], specifically addressing the management of working memory during skill acquisition.
+> The Just-in-Time Principle is a timing strategy in instructional design where procedural information for recurrent skills is presented just as it is needed, reducing cognitive load and improving learning efficiency. It falls under [[cognitive-architecture]], specifically addressing the management of working memory during skill acquisition.
 
 > [!attention] **Boundary**
 > This principle does not apply to the presentation of declarative knowledge or when information can be effectively pre-learned. It focuses specifically on procedural skills within the context of complex learning tasks.
@@ -134,10 +134,10 @@ Understanding JIT is essential for instructional designers as it provides a fram
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

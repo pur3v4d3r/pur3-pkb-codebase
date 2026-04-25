@@ -1,0 +1,40 @@
+concept: Strategy Instruction
+domain: educational-psychology
+secondary_domains:
+- self-regulated-learning
+- metacognition
+aliases:
+- learning-strategy instruction
+- cognitive strategy instruction
+broader:
+- instructional-design
+related:
+- self-regulated-learning
+- metacognitive-strategy
+- cognitive-strategy-use
+- scaffolding
+- reciprocal-teaching
+prerequisites:
+- self-regulated-learning
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Strategy Instruction
+  body: Strategy Instruction is the explicit teaching of cognitive and metacognitive
+    learning strategies — summarisation, self-questioning, elaborative interrogation,
+    planning, monitoring, evaluating — together with the conditional knowledge of
+    when and why to apply each one, so that learners can deploy the strategies on
+    their own across tasks.
+- type: key-claim
+  title: Key claim about Strategy Instruction
+  body: Strategy Instruction produces durable transfer only when the conditional ("when
+    and why") knowledge is taught alongside the procedural knowledge of how to execute
+    the strategy; Strategy Instruction limited to procedure produces strategies the
+    learner uses only in the original task context.
+- type: warning
+  title: Common pitfall regarding Strategy Instruction
+  body: Strategy Instruction is sometimes reduced to handing learners a strategy checklist,
+    but the meta-analytic evidence shows that effective Strategy Instruction requires
+    modelling, scaffolded practice, and metacognitive reflection on strategy fit,
+    so checklist-only Strategy Instruction systematically under-delivers on its promise.

@@ -35,7 +35,7 @@ parent-concept: "Software Engineering"
 related:
   - "[[Testing]]"
   - "[[Troubleshooting]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -137,6 +137,6 @@ The importance of debugging extends beyond individual projects; it is a fundamen
 
 **Contrasts with:** [[Testing]] · [[Troubleshooting]]
 
-**Applies to:** [[Cognitive Load Theory]]
+**Applies to:** [[cognitive-load-theory]]
 
 **Source:** [[debugging-synthetic-seed-2026-04-24]]

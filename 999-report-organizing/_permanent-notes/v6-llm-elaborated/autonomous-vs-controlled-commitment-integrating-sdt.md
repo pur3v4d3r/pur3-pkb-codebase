@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
-  - "[[Self-Determination Theory]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,9 +46,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
-  - "[[Self-Determination Theory]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
+  - "[[self-determination-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -138,8 +138,8 @@ The implications of this concept extend beyond individual behavior to organizati
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Intrinsic Motivation]] · [[Extrinsic Motivation]] · [[Self-Determination Theory]]
+**Sibling concepts:** [[intrinsic-motivation]] · [[extrinsic-motivation]] · [[self-determination-theory]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

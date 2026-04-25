@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Cognitive Scaffolding
 
 > [!definition] **Cognitive Scaffolding**
-> Cognitive scaffolding is a support structure that enables learners to accomplish tasks beyond their current capabilities by providing external assistance, which is gradually removed as competence develops. It falls under [[Cognitive Architecture]], focusing on the dynamic interaction between learner and environment where tools or more knowledgeable others reduce cognitive demand until independence is achieved.
+> Cognitive scaffolding is a support structure that enables learners to accomplish tasks beyond their current capabilities by providing external assistance, which is gradually removed as competence develops. It falls under [[cognitive-architecture]], focusing on the dynamic interaction between learner and environment where tools or more knowledgeable others reduce cognitive demand until independence is achieved.
 
 > [!attention] **Boundary**
 > This concept excludes direct instruction and rote learning methods. It focuses on the dynamic interaction between learner and environment where external support is provided and then reduced over time.
@@ -129,10 +129,10 @@ The integration of VS Code, Python, and Copilot exemplifies how cognitive scaffo
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[python-development-in-vscode-with-copilot-annotated-critical-analysis-2026-04-19]]

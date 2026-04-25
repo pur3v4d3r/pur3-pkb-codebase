@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # The Developmental Imperative
 
 > [!definition] **The Developmental Imperative**
-> The Developmental Imperative is the principle that effective metacognitive scaffolding should systematically work toward its own removal, training internal capacities rather than permanently supporting functions. It falls under [[Self-Regulated Learning]], emphasizing a dynamic process of fostering development through temporary assistance.
+> The Developmental Imperative is the principle that effective metacognitive scaffolding should systematically work toward its own removal, training internal capacities rather than permanently supporting functions. It falls under [[self-regulated-learning]], emphasizing a dynamic process of fostering development through temporary assistance.
 
 > [!attention] **Boundary**
 > This concept excludes permanent support mechanisms and focuses on the dynamic process of fostering development through temporary assistance.
@@ -128,16 +128,16 @@ Scaffolds can be designed to systematically work toward their own removal throug
 
 ## Synthesis
 
-The Developmental Imperative is crucial for fostering long-term cognitive development through effective metacognitive practices. By systematically working toward their own removal, scaffolds not only enhance immediate learning outcomes but also promote the development of independent thinking and problem-solving skills. This concept aligns with broader principles in [[Self-Regulated Learning]] and has significant implications for educational design, study planning, and personal knowledge management.
+The Developmental Imperative is crucial for fostering long-term cognitive development through effective metacognitive practices. By systematically working toward their own removal, scaffolds not only enhance immediate learning outcomes but also promote the development of independent thinking and problem-solving skills. This concept aligns with broader principles in [[self-regulated-learning]] and has significant implications for educational design, study planning, and personal knowledge management.
 
 Understanding The Developmental Imperative is particularly important in the context of working memory and worked examples. By designing scaffolds that reduce extraneous load and encourage internal capacity building, educators can create more effective learning environments that support long-term cognitive growth.
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

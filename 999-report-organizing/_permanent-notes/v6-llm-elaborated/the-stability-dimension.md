@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Attribution Theory"
 
 related:
-  - "[[Locus of Control]]"
+  - "[[locus-of-control]]"
   - "[[Controllability]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Implicit Theories of Intelligence]]"
+  - "[[self-efficacy-theory]]"
+  - "[[implicit-theories-of-intelligence]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,15 +46,15 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Locus of Control]]"
+  - "[[locus-of-control]]"
   - "[[Controllability]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Implicit Theories of Intelligence]]"
+  - "[[self-efficacy-theory]]"
+  - "[[implicit-theories-of-intelligence]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -130,10 +130,10 @@ This concept also highlights the importance of meta-beliefs (like Dweck's implic
 
 ## Connections & Context
 
-**Falls under:** [[Attribution Theory]]
+**Falls under:** [[attribution-theory]]
 
-**Sibling concepts:** [[Locus of Control]] · [[Controllability]]
+**Sibling concepts:** [[locus-of-control]] · [[Controllability]]
 
-**Applies to:** [[Self-Efficacy Theory]] · [[Implicit Theories of Intelligence]]
+**Applies to:** [[self-efficacy-theory]] · [[implicit-theories-of-intelligence]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

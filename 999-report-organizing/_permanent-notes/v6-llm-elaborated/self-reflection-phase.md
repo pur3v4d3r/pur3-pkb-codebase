@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Forethought Phase]]"
-  - "[[Performance Phase]]"
+  - "[[forethought-phase]]"
+  - "[[performance-phase]]"
   - "[[Causal Attribution Theory]]"
 prerequisites:
   - "[[]]"
@@ -42,8 +42,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Forethought Phase]]"
-  - "[[Performance Phase]]"
+  - "[[forethought-phase]]"
+  - "[[performance-phase]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -73,7 +73,7 @@ provenance:
 # Self-Reflection Phase
 
 > [!definition] **Self-Reflection Phase**
-> The Self-Reflection Phase is a critical component of self-regulated learning (SRL) where learners evaluate their performance, make causal attributions for outcomes, and adjust their strategies accordingly. It falls under [[Self-Regulated Learning]], focusing on post-performance evaluation and adjustment.
+> The Self-Reflection Phase is a critical component of self-regulated learning (SRL) where learners evaluate their performance, make causal attributions for outcomes, and adjust their strategies accordingly. It falls under [[self-regulated-learning]], focusing on post-performance evaluation and adjustment.
 
 > [!attention] **Boundary**
 > This phase excludes pre-performance planning (forethought) and action execution (performance), focusing solely on post-performance evaluation and adjustment.
@@ -132,9 +132,9 @@ Understanding the importance of the Self-Reflection Phase extends beyond educati
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Forethought Phase]] · [[Performance Phase]]
+**Sibling concepts:** [[forethought-phase]] · [[performance-phase]]
 
 **Applies to:** [[Causal Attribution Theory]]
 

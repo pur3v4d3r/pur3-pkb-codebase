@@ -34,14 +34,14 @@ depth-level: elaborated
 parent-concept: "Educational Psychology"
 
 related:
-  - "[[Mastery Learning]]"
-  - "[[Worked Examples]]"
+  - "[[mastery-learning]]"
+  - "[[worked-examples]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Mastery Learning]]"
+  - "[[mastery-learning]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Direct Instruction
 
 > [!definition] **Direct Instruction**
-> Direct Instruction (DI) is a tightly scripted, mastery-oriented instructional method that sequences carefully designed examples and non-examples to ensure students master prerequisite skills before moving on. It falls under [[Educational Psychology]], emphasizing the use of worked examples and non-examples to facilitate skill acquisition, making it distinct from less structured or more loosely defined forms of explicit instruction.
+> Direct Instruction (DI) is a tightly scripted, mastery-oriented instructional method that sequences carefully designed examples and non-examples to ensure students master prerequisite skills before moving on. It falls under [[educational-psychology]], emphasizing the use of worked examples and non-examples to facilitate skill acquisition, making it distinct from less structured or more loosely defined forms of explicit instruction.
 
 > [!attention] **Boundary**
 > This concept excludes less structured or more loosely defined forms of explicit instruction. DI should not be confused with general teaching methods like lectures or open-ended explorations.
@@ -132,10 +132,10 @@ The principles of DI also align with broader educational goals such as fostering
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
-**Generalizes to:** [[Mastery Learning]]
+**Generalizes to:** [[mastery-learning]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[direct-instruction-synthetic-seed-2026-04-25]]

@@ -34,8 +34,8 @@ parent-concept: ""
 
 related:
   - "[[Self-Determination Theory (SDT)]]"
-  - "[[Locus of Causality]]"
-  - "[[Autonomous Regulation]]"
+  - "[[locus-of-causality]]"
+  - "[[autonomous-regulation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[Self-Determination Theory (SDT)]]"
 see-also:
-  - "[[Locus of Causality]]"
+  - "[[locus-of-causality]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomous Regulation]]"
+  - "[[autonomous-regulation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -135,8 +135,8 @@ The theory's focus on need-supportive vs. need-thwarting environments offers pra
 
 **Generalizes to:** [[Self-Determination Theory (SDT)]]
 
-**Sibling concepts:** [[Locus of Causality]]
+**Sibling concepts:** [[locus-of-causality]]
 
-**Applies to:** [[Autonomous Regulation]]
+**Applies to:** [[autonomous-regulation]]
 
 **Source:** [[causality-orientations-theory-synthetic-seed-2026-04-24]]

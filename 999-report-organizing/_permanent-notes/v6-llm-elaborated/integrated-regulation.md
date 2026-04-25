@@ -34,8 +34,8 @@ parent-concept: "Self-Determination Theory"
 
 related:
   - "[[Self-Determination Index]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,8 +45,8 @@ broader:
 see-also:
   - "[[Self-Determination Index]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Integrated Regulation
 
 > [!definition] **Integrated Regulation**
-> Integrated regulation is the most fully internalized form of extrinsic motivation in Self-Determination Theory (SDT), where the value served by a behavior has been brought into coherence with one's overall self-identity, eliminating chronic conflicts. It falls under [[Self-Determination Theory]], distinguishing it from intrinsic motivation which is driven by inherent interest rather than external value.
+> Integrated regulation is the most fully internalized form of extrinsic motivation in Self-Determination Theory (SDT), where the value served by a behavior has been brought into coherence with one's overall self-identity, eliminating chronic conflicts. It falls under [[self-determination-theory]], distinguishing it from intrinsic motivation which is driven by inherent interest rather than external value.
 
 > [!attention] **Boundary**
 > It stops at behaviors that are fully aligned with personal values and identity, distinguishing it from intrinsic motivation which is driven by inherent interest rather than external value.
@@ -130,10 +130,10 @@ The importance of integrated regulation extends beyond individual psychology to 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
 **Sibling concepts:** [[Self-Determination Index]]
 
-**Contrasts with:** [[Intrinsic Motivation]] · [[Extrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]] · [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

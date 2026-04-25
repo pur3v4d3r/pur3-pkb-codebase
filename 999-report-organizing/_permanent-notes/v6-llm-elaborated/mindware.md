@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Heuristics-and-Biases]]"
-  - "[[Cognitive-Bias]]"
+  - "[[heuristics-and-biases]]"
+  - "[[cognitive-bias]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,9 +47,9 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Heuristics-and-Biases]]"
+  - "[[heuristics-and-biases]]"
 contradicts:
-  - "[[Cognitive-Bias]]"
+  - "[[cognitive-bias]]"
 applies-to:
   - "[[]]"
 formalizes:
@@ -75,7 +75,7 @@ provenance:
 # Mindware
 
 > [!definition] **Mindware**
-> Mindware refers to the procedural and conceptual tools a person has internalized for active deployment during Type 2 processing, enabling complex reasoning and problem-solving when needed. It falls under [[Cognitive Architecture]], as it is part of the cognitive processes that enable deeper thinking beyond automatic responses.
+> Mindware refers to the procedural and conceptual tools a person has internalized for active deployment during Type 2 processing, enabling complex reasoning and problem-solving when needed. It falls under [[cognitive-architecture]], as it is part of the cognitive processes that enable deeper thinking beyond automatic responses.
 
 > [!attention] **Boundary**
 > It is not synonymous with general knowledge but specifically denotes procedural and conceptual tools available for active deployment. It does not include declarative knowledge that may not be operationalizable.
@@ -131,10 +131,10 @@ The importance of mindware extends beyond individual decision-making; it also ha
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Heuristics-and-Biases]]
+**Contrasts with:** [[heuristics-and-biases]]
 
-**Contradicts:** [[Cognitive-Bias]]
+**Contradicts:** [[cognitive-bias]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

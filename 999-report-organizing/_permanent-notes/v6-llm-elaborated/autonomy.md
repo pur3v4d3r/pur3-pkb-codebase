@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Volition]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,10 +43,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Volition]]"
 contrasts-with:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Autonomy
 
 > [!definition] **Autonomy**
-> Autonomy, in the context of Self-Determination Theory (SDT), refers to the experience of acting from one's own volition rather than under pressure, characterized by volitional endorsement of actions even when they align with external expectations or group norms. It falls under [[Self-Determination Theory]], where it is distinguished from independence and individual choice-making in that autonomy specifically pertains to the felt sense of self-endorsed action.
+> Autonomy, in the context of Self-Determination Theory (SDT), refers to the experience of acting from one's own volition rather than under pressure, characterized by volitional endorsement of actions even when they align with external expectations or group norms. It falls under [[self-determination-theory]], where it is distinguished from independence and individual choice-making in that autonomy specifically pertains to the felt sense of self-endorsed action.
 
 > [!attention] **Boundary**
 > This concept excludes independence and individual choice-making. It is distinguished from these in that autonomy specifically pertains to the felt sense of self-endorsed action, not merely acting without others' input.
@@ -138,10 +138,10 @@ Autonomy is a fundamental concept in SDT that has significant implications acros
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Intrinsic Motivation]] · [[Volition]]
+**Sibling concepts:** [[intrinsic-motivation]] · [[Volition]]
 
-**Contrasts with:** [[Extrinsic Motivation]]
+**Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

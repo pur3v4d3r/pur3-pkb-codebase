@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Flexibility]]"
+  - "[[working-memory]]"
+  - "[[cognitive-flexibility]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Flexibility]]"
+  - "[[cognitive-flexibility]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Working Memory Updating
 
 > [!definition] **Working Memory Updating**
-> Working Memory Updating refers to the executive process of monitoring and revising items currently held in working memory, adding relevant new information and replacing outdated content. It falls under [[Cognitive Architecture]], constituting one of three core executive functions alongside shifting and inhibition.
+> Working Memory Updating refers to the executive process of monitoring and revising items currently held in working memory, adding relevant new information and replacing outdated content. It falls under [[cognitive-architecture]], constituting one of three core executive functions alongside shifting and inhibition.
 
 > [!attention] **Boundary**
 > This concept excludes passive storage capacity and is distinct from rehearsal or refreshing processes that preserve unchanged content.
@@ -132,10 +132,10 @@ Empirical evidence supports the importance of Working Memory Updating in predict
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Cognitive Flexibility]]
+**Applies to:** [[cognitive-flexibility]]
 
 **Source:** [[working-memory-updating-synthetic-seed-2026-04-25]]

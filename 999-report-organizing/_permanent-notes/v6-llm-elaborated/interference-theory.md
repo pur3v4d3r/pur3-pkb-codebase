@@ -32,11 +32,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Retrieval Failure]]"
   - "[[Decay Theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -72,7 +72,7 @@ provenance:
 # Interference Theory
 
 > [!definition] **Interference Theory**
-> Interference Theory posits that forgetting primarily results from competition between similar memories, either earlier (proactive) or later (retroactive), rather than the passive fading of memory traces. It falls under [[Cognitive Architecture]], emphasizing active interference over passive decay.
+> Interference Theory posits that forgetting primarily results from competition between similar memories, either earlier (proactive) or later (retroactive), rather than the passive fading of memory traces. It falls under [[cognitive-architecture]], emphasizing active interference over passive decay.
 
 > [!attention] **Boundary**
 > This theory excludes other factors like cue overload, retrieval-induced forgetting, and consolidation failure as primary causes of forgetting. It focuses on the role of similarity in memory interference.
@@ -130,9 +130,9 @@ Moreover, Interference Theory's emphasis on active processes within cognitive ar
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[Retrieval Failure]]
 

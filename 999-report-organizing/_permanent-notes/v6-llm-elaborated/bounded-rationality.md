@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Decision Science"
 
 related:
-  - "[[Heuristics-and-Biases]]"
-  - "[[Dual-Process Theory]]"
+  - "[[heuristics-and-biases]]"
+  - "[[dual-process-theory]]"
   - "[[Satisficing]]"
 prerequisites:
   - "[[]]"
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Heuristics-and-Biases]]"
-  - "[[Dual-Process Theory]]"
+  - "[[heuristics-and-biases]]"
+  - "[[dual-process-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -134,7 +134,7 @@ The significance of bounded rationality extends beyond individual decision-makin
 
 **Falls under:** [[Decision Science]]
 
-**Contrasts with:** [[Heuristics-and-Biases]] · [[Dual-Process Theory]]
+**Contrasts with:** [[heuristics-and-biases]] · [[dual-process-theory]]
 
 **Applies to:** [[Satisficing]]
 

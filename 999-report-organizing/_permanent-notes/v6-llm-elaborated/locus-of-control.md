@@ -32,18 +32,18 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Attribution Theory]]"
-  - "[[Self-Efficacy]]"
+  - "[[attribution-theory]]"
+  - "[[self-efficacy]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -71,7 +71,7 @@ provenance:
 # Locus of Control
 
 > [!definition] **Locus of Control**
-> Locus of Control refers to the generalised expectancy that individuals attribute outcomes of their actions to either internal factors (effort, ability) or external factors (luck, fate). It falls under [[Self-Regulated Learning]], as it influences how people manage and control their learning environments.
+> Locus of Control refers to the generalised expectancy that individuals attribute outcomes of their actions to either internal factors (effort, ability) or external factors (luck, fate). It falls under [[self-regulated-learning]], as it influences how people manage and control their learning environments.
 
 > [!attention] **Boundary**
 > This concept excludes specific attribution theories and personality traits. It is not a static trait but a generalised expectancy.
@@ -130,10 +130,10 @@ Locus of Control also intersects with the domain of self-efficacy, offering a nu
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Attribution Theory]]
+**Generalizes to:** [[attribution-theory]]
 
-**Contrasts with:** [[Self-Efficacy]]
+**Contrasts with:** [[self-efficacy]]
 
 **Source:** [[locus-of-control-synthetic-seed-2026-04-24]]

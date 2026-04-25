@@ -33,7 +33,7 @@ parent-concept: "Implicit Theories"
 
 related:
   - "[[Implicit Theories]]"
-  - "[[Incremental Theory of Intelligence]]"
+  - "[[incremental-theory-of-intelligence]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,7 +43,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Incremental Theory of Intelligence]]"
+  - "[[incremental-theory-of-intelligence]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -134,6 +134,6 @@ This concept intersects with broader theories in motivation research and psychol
 
 **Generalizes to:** [[Implicit Theories]]
 
-**Contrasts with:** [[Incremental Theory of Intelligence]]
+**Contrasts with:** [[incremental-theory-of-intelligence]]
 
 **Source:** [[entity-theory-of-intelligence-synthetic-seed-2026-04-24]]

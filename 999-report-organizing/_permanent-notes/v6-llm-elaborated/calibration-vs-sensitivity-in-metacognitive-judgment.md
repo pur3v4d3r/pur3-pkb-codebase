@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Advance Organizers]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -74,7 +74,7 @@ provenance:
 # Calibration vs. Sensitivity
 
 > [!definition] **Calibration vs. Sensitivity**
-> Calibration and sensitivity are two distinct aspects of metacognitive judgments that fall under [[Metacognition]]. Calibration refers to the alignment between confidence in one's judgment and the actual accuracy of that judgment, while sensitivity measures how well higher confidence correlates with better performance. These concepts do not include general cognitive abilities or absolute performance levels but focus on the relationship between confidence and accuracy in judgment processes.
+> Calibration and sensitivity are two distinct aspects of metacognitive judgments that fall under [[metacognition]]. Calibration refers to the alignment between confidence in one's judgment and the actual accuracy of that judgment, while sensitivity measures how well higher confidence correlates with better performance. These concepts do not include general cognitive abilities or absolute performance levels but focus on the relationship between confidence and accuracy in judgment processes.
 
 > [!attention] **Boundary**
 > This concept does not include general cognitive abilities or absolute performance levels but focuses on the relationship between confidence and accuracy in judgment processes.
@@ -133,9 +133,9 @@ The insights from calibration and sensitivity also have broader implications for
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Applies to:** [[Advance Organizers]]
 

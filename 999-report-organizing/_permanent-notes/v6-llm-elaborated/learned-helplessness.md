@@ -34,9 +34,9 @@ parent-concept: "Motivational Psychology"
 
 related:
   - "[[Explanatory Style]]"
-  - "[[Self-Efficacy]]"
-  - "[[Growth Mindset]]"
-  - "[[Attribution Theory]]"
+  - "[[self-efficacy]]"
+  - "[[growth-mindset]]"
+  - "[[attribution-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,14 +50,14 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy]]"
-  - "[[Growth Mindset]]"
+  - "[[self-efficacy]]"
+  - "[[growth-mindset]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 refines:
   - "[[]]"
 
@@ -75,7 +75,7 @@ provenance:
 # Learned Helplessness
 
 > [!definition] **Learned Helplessness**
-> Learned Helplessness is a psychological syndrome where exposure to uncontrollable negative events leads individuals to expect future outcomes as uncontrollable, resulting in reduced motivation and action even when control is available. It falls under [[Motivational Psychology]], as it directly impacts an individual's motivational state by altering their cognitive appraisals of controllability.
+> Learned Helplessness is a psychological syndrome where exposure to uncontrollable negative events leads individuals to expect future outcomes as uncontrollable, resulting in reduced motivation and action even when control is available. It falls under [[motivational-psychology]], as it directly impacts an individual's motivational state by altering their cognitive appraisals of controllability.
 
 > [!attention] **Boundary**
 > This concept excludes specific instances of helplessness that are not due to an expectation of uncontrollability. It does not encompass all forms of motivational deficits or cognitive syndromes.
@@ -132,12 +132,12 @@ Learned Helplessness is a critical concept in motivational psychology because it
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
 **Sibling concepts:** [[Explanatory Style]]
 
-**Applies to:** [[Self-Efficacy]] · [[Growth Mindset]]
+**Applies to:** [[self-efficacy]] · [[growth-mindset]]
 
-**Supports:** [[Attribution Theory]]
+**Supports:** [[attribution-theory]]
 
 **Source:** [[learned-helplessness-synthetic-seed-2026-04-24]]

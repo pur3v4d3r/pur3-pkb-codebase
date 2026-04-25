@@ -35,17 +35,17 @@ depth-level: elaborated
 parent-concept: "Social-Cognitive Theory"
 
 related:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Social-Cognitive Theory]]"
+  - "[[self-efficacy-theory]]"
+  - "[[social-cognitive-theory]]"
   - "[[Environmental Determinism]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Social-Cognitive Theory]]"
+  - "[[social-cognitive-theory]]"
   - "[[Environmental Determinism]]"
 contrasts-with:
   - "[[]]"
@@ -76,7 +76,7 @@ provenance:
 # Triadic Reciprocal Determinism
 
 > [!definition] **Triadic Reciprocal Determinism**
-> Triadic reciprocal determinism posits that personal factors, behavioral factors, and environmental factors continuously interact and influence each other bidirectionally. This principle falls under [[Social-Cognitive-Theory]], where it asserts the mutual conditioning of these three classes of factors across various contexts, rejecting both environmental determinism (where the environment is the unilateral cause of behavior) and personal determinism (where the person is the sole cause). The relative contribution of each class varies with conditions but all are causally active in every situation. It falls under [[Social-Cognitive Theory]].
+> Triadic reciprocal determinism posits that personal factors, behavioral factors, and environmental factors continuously interact and influence each other bidirectionally. This principle falls under [[social-cognitive-theory]], where it asserts the mutual conditioning of these three classes of factors across various contexts, rejecting both environmental determinism (where the environment is the unilateral cause of behavior) and personal determinism (where the person is the sole cause). The relative contribution of each class varies with conditions but all are causally active in every situation. It falls under [[social-cognitive-theory]].
 
 > [!attention] **Boundary**
 > This principle does not claim equal weight for all three classes of factors in every situation; rather, it asserts their mutual conditioning across various contexts.
@@ -135,10 +135,10 @@ The theory's emphasis on mutual conditioning challenges traditional deterministi
 
 ## Connections & Context
 
-**Falls under:** [[Social-Cognitive Theory]]
+**Falls under:** [[social-cognitive-theory]]
 
-**Specializes:** [[Self-Efficacy Theory]]
+**Specializes:** [[self-efficacy-theory]]
 
-**Sibling concepts:** [[Social-Cognitive Theory]] · [[Environmental Determinism]]
+**Sibling concepts:** [[social-cognitive-theory]] · [[Environmental Determinism]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

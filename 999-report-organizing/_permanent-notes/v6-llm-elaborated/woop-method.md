@@ -34,16 +34,16 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Mental Contrasting]]"
-  - "[[Implementation Intentions]]"
-  - "[[Goal-Setting Theory]]"
+  - "[[mental-contrasting]]"
+  - "[[implementation-intentions]]"
+  - "[[goal-setting-theory]]"
 prerequisites:
-  - "[[Mental Contrasting]]"
-  - "[[Implementation Intentions]]"
+  - "[[mental-contrasting]]"
+  - "[[implementation-intentions]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Goal-Setting Theory]]"
+  - "[[goal-setting-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -75,7 +75,7 @@ provenance:
 # WOOP Method
 
 > [!definition] **WOOP Method**
-> The WOOP Method is a structured self-regulation protocol developed by Gabriele Oettingen that integrates mental contrasting with implementation intentions to enhance goal achievement. It falls under [[Self-Regulated Learning]], providing a systematic approach for translating intentions into reliable action.
+> The WOOP Method is a structured self-regulation protocol developed by Gabriele Oettingen that integrates mental contrasting with implementation intentions to enhance goal achievement. It falls under [[self-regulated-learning]], providing a systematic approach for translating intentions into reliable action.
 
 > [!attention] **Boundary**
 > This concept stops at the specific steps and mechanisms of the WOOP Method. It does not include broader theories or other techniques in cognitive science.
@@ -140,10 +140,10 @@ The WOOP Method's importance extends beyond its immediate effectiveness in achie
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Mental Contrasting]] · [[Implementation Intentions]]
+**Prerequisites:** [[mental-contrasting]] · [[implementation-intentions]]
 
-**Generalizes to:** [[Goal-Setting Theory]]
+**Generalizes to:** [[goal-setting-theory]]
 
 **Source:** [[woop-method-synthetic-seed-2026-04-25]]

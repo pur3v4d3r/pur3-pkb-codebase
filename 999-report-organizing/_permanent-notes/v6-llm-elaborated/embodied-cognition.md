@@ -34,7 +34,7 @@ parent-concept: "4e-Cognition"
 
 related:
   - "[[Sensorimotor Grounding]]"
-  - "[[Distributed Cognition]]"
+  - "[[distributed-cognition]]"
   - "[[Mirror Neurons]]"
 prerequisites:
   - "[[Sensorimotor Grounding]]"
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Distributed Cognition]]"
+  - "[[distributed-cognition]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Embodied Cognition
 
 > [!definition] **Embodied Cognition**
-> Embodied Cognition is the theory that our thoughts and concepts are deeply influenced by our bodily experiences, particularly through perception and action. It falls under [[4e-Cognition]], where it emphasizes how cognitive processes are shaped by sensorimotor systems rather than being purely amodal or symbolic in nature.
+> Embodied Cognition is the theory that our thoughts and concepts are deeply influenced by our bodily experiences, particularly through perception and action. It falls under [[4e-cognition]], where it emphasizes how cognitive processes are shaped by sensorimotor systems rather than being purely amodal or symbolic in nature.
 
 > [!attention] **Boundary**
 > This concept excludes claims that all cognition is purely physical; some cognitive processes may be weakly grounded or amodal in nature.
@@ -135,11 +135,11 @@ Embodied Cognition is supported by behavioral evidence such as action-sentence c
 
 ## Connections & Context
 
-**Falls under:** [[4e-Cognition]]
+**Falls under:** [[4e-cognition]]
 
 **Prerequisites:** [[Sensorimotor Grounding]]
 
-**Contrasts with:** [[Distributed Cognition]]
+**Contrasts with:** [[distributed-cognition]]
 
 **Supports:** [[Mirror Neurons]]
 

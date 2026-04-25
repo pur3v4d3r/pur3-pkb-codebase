@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Forethought Phase]]"
-  - "[[Causal Attribution]]"
+  - "[[forethought-phase]]"
+  - "[[causal-attribution]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,13 +45,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Forethought Phase]]"
+  - "[[forethought-phase]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Causal Attribution]]"
+  - "[[causal-attribution]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Reaction and Reflection Phase
 
 > [!definition] **Reaction and Reflection Phase**
-> The Reaction and Reflection Phase is a structured regulatory activity following task performance where learners evaluate their strategies, form causal attributions for outcomes, update beliefs about efficacy and value, and plan future actions based on these evaluations. It falls under [[Self-Regulated Learning]], and its distinct structure sets it apart from undifferentiated post-task thinking or rumination.
+> The Reaction and Reflection Phase is a structured regulatory activity following task performance where learners evaluate their strategies, form causal attributions for outcomes, update beliefs about efficacy and value, and plan future actions based on these evaluations. It falls under [[self-regulated-learning]], and its distinct structure sets it apart from undifferentiated post-task thinking or rumination.
 
 > [!attention] **Boundary**
 > This phase stops at the point where the learner's evaluation and planning are complete and before any new forethought begins. It should not be confused with undifferentiated post-task thinking or rumination.
@@ -137,10 +137,10 @@ The Reaction and Reflection Phase also has broader implications for instructiona
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Forethought Phase]]
+**Sibling concepts:** [[forethought-phase]]
 
-**Applies to:** [[Causal Attribution]]
+**Applies to:** [[causal-attribution]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

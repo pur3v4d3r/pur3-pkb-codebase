@@ -35,16 +35,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Chunking]]"
+  - "[[working-memory]]"
+  - "[[chunking]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Chunking]]"
+  - "[[chunking]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Retrieval Structure
 
 > [!definition] **Retrieval Structure**
-> Retrieval structures are cognitive architectures built through extensive domain-specific practice that allow rapid access to specific chunks of information stored in long-term memory, enabling efficient expert performance. They fall under [[Cognitive Architecture]], as they represent a specialized form of internal organization that enhances the practical capacity of long-term working memory.
+> Retrieval structures are cognitive architectures built through extensive domain-specific practice that allow rapid access to specific chunks of information stored in long-term memory, enabling efficient expert performance. They fall under [[cognitive-architecture]], as they represent a specialized form of internal organization that enhances the practical capacity of long-term working memory.
 
 > [!attention] **Boundary**
 > Not an external index but internal cognitive structures dependent on the presence of relevant chunks in long-term memory. Adjacent concepts include working memory and chunking.
@@ -133,10 +133,10 @@ The importance of retrieval structures extends beyond individual cognition to or
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Chunking]]
+**Sibling concepts:** [[chunking]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

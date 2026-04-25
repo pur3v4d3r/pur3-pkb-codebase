@@ -37,9 +37,9 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Perceived Locus of Causality]]"
+  - "[[perceived-locus-of-causality]]"
   - "[[Intrinsic vs. Extrinsic Motivation]]"
-  - "[[Autonomy Support]]"
+  - "[[autonomy-support]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,13 +47,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Perceived Locus of Causality]]"
+  - "[[perceived-locus-of-causality]]"
 contrasts-with:
   - "[[Intrinsic vs. Extrinsic Motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomy Support]]"
+  - "[[autonomy-support]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Functional Significance
 
 > [!definition] **Functional Significance**
-> Functional significance refers to the psychological meaning of an external event as experienced by the recipient, determined by whether its controlling aspect (pressure toward outcomes) or informational aspect (competence feedback) is more salient. It falls under [[Self-Determination Theory]], where it explains how events impact intrinsic motivation through their perceived autonomy and competence feedback.
+> Functional significance refers to the psychological meaning of an external event as experienced by the recipient, determined by whether its controlling aspect (pressure toward outcomes) or informational aspect (competence feedback) is more salient. It falls under [[self-determination-theory]], where it explains how events impact intrinsic motivation through their perceived autonomy and competence feedback.
 
 > [!attention] **Boundary**
 > This concept focuses on the interaction between a person and an event, not just the properties of the event itself. It does not encompass broader motivational theories but rather provides a mechanism within Self-Determination Theory to explain intrinsic motivation.
@@ -140,12 +140,12 @@ The application of functional significance extends beyond educational and organi
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Perceived Locus of Causality]]
+**Sibling concepts:** [[perceived-locus-of-causality]]
 
 **Contrasts with:** [[Intrinsic vs. Extrinsic Motivation]]
 
-**Applies to:** [[Autonomy Support]]
+**Applies to:** [[autonomy-support]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

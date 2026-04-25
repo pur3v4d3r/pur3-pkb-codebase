@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Expertise Development
 
 > [!definition] **Expertise Development**
-> Expertise Development is the multi-year trajectory by which novices become experts in a domain through accumulated deliberate practice, characterized by progressively richer schemas and automated subroutines, leading to enhanced problem-solving abilities. It falls under [[Cognitive Architecture]], focusing on how cognitive processes evolve with focused, structured effort over time.
+> Expertise Development is the multi-year trajectory by which novices become experts in a domain through accumulated deliberate practice, characterized by progressively richer schemas and automated subroutines, leading to enhanced problem-solving abilities. It falls under [[cognitive-architecture]], focusing on how cognitive processes evolve with focused, structured effort over time.
 
 > [!attention] **Boundary**
 > This concept excludes general experience accumulation without focused practice and does not encompass all forms of learning or skill acquisition.
@@ -130,10 +130,10 @@ The integration of Expertise Development with other concepts like working memory
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[expertise-development-synthetic-seed-2026-04-24]]

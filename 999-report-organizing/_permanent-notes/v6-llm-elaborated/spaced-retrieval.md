@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Learning Science"
 
 related:
-  - "[[Retrieval Practice]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Testing Effect]]"
+  - "[[retrieval-practice]]"
+  - "[[desirable-difficulties]]"
+  - "[[testing-effect]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,13 +42,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Retrieval Practice]]"
+  - "[[retrieval-practice]]"
 contrasts-with:
-  - "[[Desirable Difficulties]]"
+  - "[[desirable-difficulties]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Testing Effect]]"
+  - "[[testing-effect]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Spaced Retrieval
 
 > [!definition] **Spaced Retrieval**
-> Spaced Retrieval is a learning technique that combines retrieval practice with distributed practice by recalling target material at progressively wider intervals, enhancing long-term retention compared to massed practice or passive review. It falls under [[Learning Science]], as it leverages the principles of active recall and spaced repetition to optimize memory consolidation.
+> Spaced Retrieval is a learning technique that combines retrieval practice with distributed practice by recalling target material at progressively wider intervals, enhancing long-term retention compared to massed practice or passive review. It falls under [[learning-science]], as it leverages the principles of active recall and spaced repetition to optimize memory consolidation.
 
 > [!attention] **Boundary**
 > This concept excludes techniques like distributed re-reading, which does not involve active recall from memory. Spaced Retrieval specifically requires the learner to generate responses rather than simply re-read material.
@@ -131,12 +131,12 @@ Spaced Retrieval also intersects with other concepts like retrieval practice and
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
-**Sibling concepts:** [[Retrieval Practice]]
+**Sibling concepts:** [[retrieval-practice]]
 
-**Contrasts with:** [[Desirable Difficulties]]
+**Contrasts with:** [[desirable-difficulties]]
 
-**Applies to:** [[Testing Effect]]
+**Applies to:** [[testing-effect]]
 
 **Source:** [[spaced-retrieval-synthetic-seed-2026-04-24]]

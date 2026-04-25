@@ -32,23 +32,23 @@ depth-level: elaborated
 parent-concept: "Learning Science"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Learning Theories]]"
-  - "[[Instructional Design]]"
+  - "[[cognitive-load-theory]]"
+  - "[[learning-theories]]"
+  - "[[instructional-design]]"
 prerequisites:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Learning Theories]]"
+  - "[[learning-theories]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Instructional Design]]"
+  - "[[instructional-design]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Educational Psychology
 
 > [!definition] **Educational Psychology**
-> Educational Psychology is the scientific discipline that applies psychological theory and method to questions of learning, instruction, motivation, assessment, and individual differences in educational settings, mediating between basic cognitive and developmental science and the practical design of teaching. It falls under [[Learning Science]], where it provides a bridge from foundational theories to evidence-based pedagogical practices.
+> Educational Psychology is the scientific discipline that applies psychological theory and method to questions of learning, instruction, motivation, assessment, and individual differences in educational settings, mediating between basic cognitive and developmental science and the practical design of teaching. It falls under [[learning-science]], where it provides a bridge from foundational theories to evidence-based pedagogical practices.
 
 > [!attention] **Boundary**
 > This field stops at the application of psychological principles to education; it does not include basic cognitive or developmental science nor practical classroom management techniques.
@@ -135,12 +135,12 @@ Educational Psychology's empirical foundation is evident in its support for evid
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
-**Prerequisites:** [[Cognitive Load Theory]]
+**Prerequisites:** [[cognitive-load-theory]]
 
-**Sibling concepts:** [[Learning Theories]]
+**Sibling concepts:** [[learning-theories]]
 
-**Applies to:** [[Instructional Design]]
+**Applies to:** [[instructional-design]]
 
 **Source:** [[educational-psychology-synthetic-seed-2026-04-24]]

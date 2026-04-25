@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Systems-Thinking"
 
 related:
-  - "[[First-Principles-Thinking]]"
+  - "[[first-principles-thinking]]"
   - "[[Feedback-Loops]]"
 prerequisites:
   - "[[]]"
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[First-Principles-Thinking]]"
+  - "[[first-principles-thinking]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Second-Order Thinking
 
 > [!definition] **Second-Order Thinking**
-> Second-Order Thinking involves explicitly considering the long-term consequences of a decision, including how other actors will respond and any new equilibria that may be created. It falls under [[Systems-Thinking]], which emphasizes understanding complex interactions within systems to make informed decisions.
+> Second-Order Thinking involves explicitly considering the long-term consequences of a decision, including how other actors will respond and any new equilibria that may be created. It falls under [[systems-thinking]], which emphasizes understanding complex interactions within systems to make informed decisions.
 
 > [!attention] **Boundary**
 > This concept stops at the point where one begins to consider the immediate effects of a decision. It excludes deeper levels of analysis beyond three rounds of consequence tracing.
@@ -135,9 +135,9 @@ Empirical evidence from various fields supports the value of Second-Order Thinki
 
 ## Connections & Context
 
-**Falls under:** [[Systems-Thinking]]
+**Falls under:** [[systems-thinking]]
 
-**Contrasts with:** [[First-Principles-Thinking]]
+**Contrasts with:** [[first-principles-thinking]]
 
 **Applies to:** [[Feedback-Loops]]
 

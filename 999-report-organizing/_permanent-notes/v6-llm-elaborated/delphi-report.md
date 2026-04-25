@@ -73,7 +73,7 @@ provenance:
 # Delphi Report
 
 > [!definition] **Delphi Report**
-> The Delphi Report is a 1990 consensus statement defining critical thinking as a combination of cognitive skills and dispositional habits, edited by Peter Facione. This definition falls under [[Critical Thinking]], focusing on the core cognitive skills and dispositional habits but not covering all aspects of related constructs like problem-solving or decision-making.
+> The Delphi Report is a 1990 consensus statement defining critical thinking as a combination of cognitive skills and dispositional habits, edited by Peter Facione. This definition falls under [[critical-thinking]], focusing on the core cognitive skills and dispositional habits but not covering all aspects of related constructs like problem-solving or decision-making.
 
 > [!attention] **Boundary**
 > This definition focuses on the core cognitive skills and dispositional habits of critical thinking but does not cover all aspects of critical thinking or related constructs like problem-solving or decision-making.
@@ -129,7 +129,7 @@ The Delphi Report's influence underscores the importance of consensus in definin
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
 **Applies to:** [[California Critical Thinking Skills Test (CCTST)]] · [[Critical-Thinking Curricular Standards]]
 

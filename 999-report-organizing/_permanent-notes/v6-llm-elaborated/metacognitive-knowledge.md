@@ -36,16 +36,16 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[working-memory]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # Metacognitive Knowledge
 
 > [!definition] **Metacognitive Knowledge**
-> Metacognitive knowledge refers to an individual's understanding of their cognitive processes, including beliefs about cognition, tasks as demands, and strategies as tools. It is declarative in character (knowing *that*), procedural in application (knowing *how*), and conditional in deployment (knowing *when* and *why*). This knowledge falls under [[Self-Regulated Learning]], where it serves as a foundational component for effective self-regulation.
+> Metacognitive knowledge refers to an individual's understanding of their cognitive processes, including beliefs about cognition, tasks as demands, and strategies as tools. It is declarative in character (knowing *that*), procedural in application (knowing *how*), and conditional in deployment (knowing *when* and *why*). This knowledge falls under [[self-regulated-learning]], where it serves as a foundational component for effective self-regulation.
 
 > [!attention] **Boundary**
 > It excludes domain-specific knowledge (subject matter) and metacognitive regulation (the active process of monitoring and controlling cognition).
@@ -140,10 +140,10 @@ The application of metacognitive knowledge in learning strategies like goal-sett
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

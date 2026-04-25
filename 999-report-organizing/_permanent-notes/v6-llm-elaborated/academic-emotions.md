@@ -33,8 +33,8 @@ parent-concept: "Educational Psychology"
 
 related:
   - "[[Test Anxiety]]"
-  - "[[Emotional Regulation]]"
-  - "[[Control-Value Theory]]"
+  - "[[emotional-regulation]]"
+  - "[[control-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,9 +48,9 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Emotional Regulation]]"
+  - "[[emotional-regulation]]"
 formalizes:
-  - "[[Control-Value Theory]]"
+  - "[[control-value-theory]]"
 instance-of:
   - "[[]]"
 supports:
@@ -72,7 +72,7 @@ provenance:
 # Academic Emotions
 
 > [!definition] **Academic Emotions**
-> Academic Emotions are specific affective responses tied to academic activities and outcomes, as theorized by Reinhard Pekrun's control-value theory. These emotions fall under [[Educational Psychology]], encompassing a range of feelings such as enjoyment, hope, pride, anxiety, anger, shame, hopelessness, and boredom, which are predicted by learners' appraisals of control over and value of academic outcomes.
+> Academic Emotions are specific affective responses tied to academic activities and outcomes, as theorized by Reinhard Pekrun's control-value theory. These emotions fall under [[educational-psychology]], encompassing a range of feelings such as enjoyment, hope, pride, anxiety, anger, shame, hopelessness, and boredom, which are predicted by learners' appraisals of control over and value of academic outcomes.
 
 > [!attention] **Boundary**
 > This concept excludes general emotional states not specifically linked to academic contexts. It does not encompass broader psychological or physiological emotions outside of educational settings.
@@ -135,12 +135,12 @@ Empirical research supports the impact of Academic Emotions on learning processe
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
 **Contrasts with:** [[Test Anxiety]]
 
-**Applies to:** [[Emotional Regulation]]
+**Applies to:** [[emotional-regulation]]
 
-**Formalizes:** [[Control-Value Theory]]
+**Formalizes:** [[control-value-theory]]
 
 **Source:** [[academic-emotions-synthetic-seed-2026-04-24]]

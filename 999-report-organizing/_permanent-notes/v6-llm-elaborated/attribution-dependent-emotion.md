@@ -35,16 +35,16 @@ depth-level: elaborated
 parent-concept: "Causal Attribution in Motivation"
 
 related:
-  - "[[Causal Attribution in Motivation]]"
+  - "[[causal-attribution-in-motivation]]"
   - "[[Outcome-Dependent Emotions]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Growth Mindset]]"
+  - "[[self-efficacy-theory]]"
+  - "[[growth-mindset]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Causal Attribution in Motivation]]"
+  - "[[causal-attribution-in-motivation]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -52,8 +52,8 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Growth Mindset]]"
+  - "[[self-efficacy-theory]]"
+  - "[[growth-mindset]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Attribution-Dependent Emotion
 
 > [!definition] **Attribution-Dependent Emotion**
-> An attribution-dependent emotion is an affective state whose specific quality is determined not by the success or failure of an outcome per se but by the causal attribution constructed to explain that outcome. These emotions are distinct from outcome-dependent emotions like happiness or sadness, which are elicited directly by outcomes without causal processing. It falls under [[Causal Attribution in Motivation]].
+> An attribution-dependent emotion is an affective state whose specific quality is determined not by the success or failure of an outcome per se but by the causal attribution constructed to explain that outcome. These emotions are distinct from outcome-dependent emotions like happiness or sadness, which are elicited directly by outcomes without causal processing. It falls under [[causal-attribution-in-motivation]].
 
 > [!attention] **Boundary**
 > Attribution-dependent emotions are distinct from outcome-dependent emotions like happiness or sadness, which are elicited directly by outcomes without causal processing.
@@ -136,12 +136,12 @@ This theory also has implications for broader domains such as self-efficacy and 
 
 ## Connections & Context
 
-**Falls under:** [[Causal Attribution in Motivation]]
+**Falls under:** [[causal-attribution-in-motivation]]
 
-**Generalizes to:** [[Causal Attribution in Motivation]]
+**Generalizes to:** [[causal-attribution-in-motivation]]
 
 **Contrasts with:** [[Outcome-Dependent Emotions]]
 
-**Applies to:** [[Self-Efficacy Theory]] · [[Growth Mindset]]
+**Applies to:** [[self-efficacy-theory]] · [[growth-mindset]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

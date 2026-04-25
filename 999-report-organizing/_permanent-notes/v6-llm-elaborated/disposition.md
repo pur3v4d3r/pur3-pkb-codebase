@@ -33,23 +33,23 @@ depth-level: elaborated
 parent-concept: "Critical-Thinking"
 
 related:
-  - "[[Virtue-Epistemology]]"
-  - "[[Intellectual Humility]]"
-  - "[[Need for Cognition]]"
+  - "[[virtue-epistemology]]"
+  - "[[intellectual-humility]]"
+  - "[[need-for-cognition]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Virtue-Epistemology]]"
+  - "[[virtue-epistemology]]"
 see-also:
-  - "[[Intellectual Humility]]"
+  - "[[intellectual-humility]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Need for Cognition]]"
+  - "[[need-for-cognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Disposition
 
 > [!definition] **Disposition**
-> A Disposition is a stable inclination to engage one's cognitive abilities in specific ways—such as seeking alternative views and revising beliefs when warranted—which stands in contrast to mere intellectual abilities by specifying what one is inclined to do, falling under [[Critical-Thinking]].
+> A Disposition is a stable inclination to engage one's cognitive abilities in specific ways—such as seeking alternative views and revising beliefs when warranted—which stands in contrast to mere intellectual abilities by specifying what one is inclined to do, falling under [[critical-thinking]].
 
 > [!attention] **Boundary**
 > This concept excludes the direct observable behaviors themselves but includes the underlying stable inclinations that determine their deployment. It should not be confused with cognitive abilities or skills.
@@ -132,12 +132,12 @@ The concept of dispositions extends beyond critical thinking into broader episte
 
 ## Connections & Context
 
-**Falls under:** [[Critical-Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Generalizes to:** [[Virtue-Epistemology]]
+**Generalizes to:** [[virtue-epistemology]]
 
-**Sibling concepts:** [[Intellectual Humility]]
+**Sibling concepts:** [[intellectual-humility]]
 
-**Applies to:** [[Need for Cognition]]
+**Applies to:** [[need-for-cognition]]
 
 **Source:** [[disposition-synthetic-seed-2026-04-24]]

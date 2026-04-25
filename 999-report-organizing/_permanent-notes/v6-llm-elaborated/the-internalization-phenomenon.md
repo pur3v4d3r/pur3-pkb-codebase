@@ -33,12 +33,12 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Autonomy-Supportive Teaching]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 broader:
   - "[[]]"
 see-also:
@@ -72,7 +72,7 @@ provenance:
 # Internalization Phenomenon
 
 > [!definition] **Internalization Phenomenon**
-> The Internalization Phenomenon refers to the process by which an initially externally motivated behavior becomes internally driven, characterized by self-initiation and persistence without external pressure. It falls under [[Self-Determination Theory]], where it is described as a deepening of motivation that moves from surface-level compliance to genuine engagement.
+> The Internalization Phenomenon refers to the process by which an initially externally motivated behavior becomes internally driven, characterized by self-initiation and persistence without external pressure. It falls under [[self-determination-theory]], where it is described as a deepening of motivation that moves from surface-level compliance to genuine engagement.
 
 > [!attention] **Boundary**
 > This concept excludes behaviors that remain externally regulated or those that are not integrated into one's voluntary activity stream. It should not be confused with mere compliance or surface-level engagement.
@@ -132,9 +132,9 @@ The importance of internalization extends beyond education into other domains su
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Specializes:** [[Intrinsic Motivation]]
+**Specializes:** [[intrinsic-motivation]]
 
 **Applies to:** [[Autonomy-Supportive Teaching]]
 

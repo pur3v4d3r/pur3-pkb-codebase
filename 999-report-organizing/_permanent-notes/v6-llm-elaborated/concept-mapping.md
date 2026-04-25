@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Meaningful Learning"
 
 related:
-  - "[[Mind Mapping]]"
-  - "[[Schema Construction]]"
+  - "[[mind-mapping]]"
+  - "[[schema-construction]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,11 +43,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Mind Mapping]]"
+  - "[[mind-mapping]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Schema Construction]]"
+  - "[[schema-construction]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -136,8 +136,8 @@ Empirical evidence supports the effectiveness of concept mapping in enhancing le
 
 **Falls under:** [[Meaningful Learning]]
 
-**Contrasts with:** [[Mind Mapping]]
+**Contrasts with:** [[mind-mapping]]
 
-**Applies to:** [[Schema Construction]]
+**Applies to:** [[schema-construction]]
 
 **Source:** [[concept-mapping-synthetic-seed-2026-04-25]]

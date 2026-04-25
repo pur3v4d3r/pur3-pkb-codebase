@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Fluid Intelligence]]"
-  - "[[Expertise Development]]"
-  - "[[Semantic Memory]]"
-  - "[[Procedural Memory]]"
+  - "[[fluid-intelligence]]"
+  - "[[expertise-development]]"
+  - "[[semantic-memory]]"
+  - "[[procedural-memory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,18 +46,18 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Fluid Intelligence]]"
+  - "[[fluid-intelligence]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Expertise Development]]"
+  - "[[expertise-development]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Semantic Memory]]"
-  - "[[Procedural Memory]]"
+  - "[[semantic-memory]]"
+  - "[[procedural-memory]]"
 refines:
   - "[[]]"
 
@@ -131,12 +131,12 @@ The concept of crystallized intelligence also has broader implications across re
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Contrasts with:** [[Fluid Intelligence]]
+**Contrasts with:** [[fluid-intelligence]]
 
-**Applies to:** [[Expertise Development]]
+**Applies to:** [[expertise-development]]
 
-**Supports:** [[Semantic Memory]] · [[Procedural Memory]]
+**Supports:** [[semantic-memory]] · [[procedural-memory]]
 
 **Source:** [[crystallized-intelligence-synthetic-seed-2026-04-24]]

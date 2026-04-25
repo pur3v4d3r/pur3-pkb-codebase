@@ -2,6 +2,7 @@
 title: "Implementation Intentions"
 aliases:
   - "Implementation Intentions"
+  - "Implementation-Intentions"
   - "PKM Planning Cognitive Science"
   - "Cognitive Science of Personal Knowledge Management"
   - "PKB Design and Cognitive Architecture"
@@ -36,7 +37,7 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
   - "[[Self-Regulated Learning (SRL)]]"
 prerequisites:
   - "[[]]"
@@ -47,7 +48,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +76,7 @@ provenance:
 # Implementation Intentions
 
 > [!definition] **Implementation Intentions**
-> Implementation intentions are specific 'if-then' plans that link a situational cue to a planned behavioral response, delegating action initiation from conscious deliberation to environmental detection. This concept falls under [[Cognitive Architecture]], and it is most effective for simple behaviors; however, its utility diminishes with complex tasks requiring flexible adaptation.
+> Implementation intentions are specific 'if-then' plans that link a situational cue to a planned behavioral response, delegating action initiation from conscious deliberation to environmental detection. This concept falls under [[cognitive-architecture]], and it is most effective for simple behaviors; however, its utility diminishes with complex tasks requiring flexible adaptation.
 
 > [!attention] **Boundary**
 > This concept is most effective for simple behaviors and less so for complex ones requiring flexible adaptation. It should not be confused with general goal-setting techniques or habit formation strategies.
@@ -132,9 +133,9 @@ Implementation intentions are a crucial concept within PKM and cognitive science
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Metacognition]]
+**Contrasts with:** [[metacognition]]
 
 **Applies to:** [[Self-Regulated Learning (SRL)]]
 

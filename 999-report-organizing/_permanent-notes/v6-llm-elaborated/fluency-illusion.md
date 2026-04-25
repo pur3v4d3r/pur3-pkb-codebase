@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Fluency Illusion
 
 > [!definition] **Fluency Illusion**
-> The Fluency Illusion refers to the misuse of fluent processing as a comprehension cue, leading to high confidence in understanding even when actual comprehension may be lacking. It falls under [[Metacognition]], where metacognitive monitoring systems use fluency as an indirect indicator of comprehension because no direct cues are available; however, several pervasive sources of fluency (familiarity, visual clarity) can produce fluent processing without corresponding comprehension.
+> The Fluency Illusion refers to the misuse of fluent processing as a comprehension cue, leading to high confidence in understanding even when actual comprehension may be lacking. It falls under [[metacognition]], where metacognitive monitoring systems use fluency as an indirect indicator of comprehension because no direct cues are available; however, several pervasive sources of fluency (familiarity, visual clarity) can produce fluent processing without corresponding comprehension.
 
 > [!attention] **Boundary**
 > This concept excludes cases where fluency directly reflects comprehension and focuses on situations where fluency arises from sources unrelated to comprehension.
@@ -131,10 +131,10 @@ Understanding and addressing the Fluency Illusion is crucial for effective metac
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

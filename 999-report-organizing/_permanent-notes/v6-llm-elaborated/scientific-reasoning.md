@@ -36,7 +36,7 @@ related:
   - "[[Falsificationism]]"
   - "[[Hypothesis Testing]]"
   - "[[Bayesian Confirmation]]"
-  - "[[Inductive Reasoning]]"
+  - "[[inductive-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -52,7 +52,7 @@ contradicts:
 applies-to:
   - "[[Hypothesis Testing]]"
   - "[[Bayesian Confirmation]]"
-  - "[[Inductive Reasoning]]"
+  - "[[inductive-reasoning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -134,6 +134,6 @@ Scientific reasoning also has broader implications for philosophy, psychology, a
 
 **Contrasts with:** [[Falsificationism]]
 
-**Applies to:** [[Hypothesis Testing]] · [[Bayesian Confirmation]] · [[Inductive Reasoning]]
+**Applies to:** [[Hypothesis Testing]] · [[Bayesian Confirmation]] · [[inductive-reasoning]]
 
 **Source:** [[scientific-reasoning-synthetic-seed-2026-04-24]]

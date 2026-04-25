@@ -36,18 +36,18 @@ depth-level: elaborated
 parent-concept: "Metacognitive Scaffolding"
 
 related:
-  - "[[Scaffolded Fading]]"
-  - "[[Zone of Proximal Development]]"
+  - "[[scaffolded-fading]]"
+  - "[[zone-of-proximal-development]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Scaffolded Fading]]"
+  - "[[scaffolded-fading]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Zone of Proximal Development]]"
+  - "[[zone-of-proximal-development]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Developmental Arc Model
 
 > [!definition] **Developmental Arc Model**
-> The Developmental Arc Model is a four-stage framework describing the progression of metacognitive scaffolding from full dependence to reflective mastery in Personal Knowledge Base (PKB) systems. It falls under [[Metacognitive Scaffolding]], detailing how scaffolded fading works within each stage, and does not prescribe fixed timelines but rather depends on practice volume, domain complexity, and individual differences.
+> The Developmental Arc Model is a four-stage framework describing the progression of metacognitive scaffolding from full dependence to reflective mastery in Personal Knowledge Base (PKB) systems. It falls under [[metacognitive-scaffolding]], detailing how scaffolded fading works within each stage, and does not prescribe fixed timelines but rather depends on practice volume, domain complexity, and individual differences.
 
 > [!attention] **Boundary**
 > This model describes a developmental trajectory, not a typology of learners. It does not prescribe timelines and stage transitions depend on practice volume, domain complexity, and individual differences.
@@ -132,10 +132,10 @@ The Developmental Arc Model is crucial for understanding how learners develop me
 
 ## Connections & Context
 
-**Falls under:** [[Metacognitive Scaffolding]]
+**Falls under:** [[metacognitive-scaffolding]]
 
-**Specializes:** [[Scaffolded Fading]]
+**Specializes:** [[scaffolded-fading]]
 
-**Contrasts with:** [[Zone of Proximal Development]]
+**Contrasts with:** [[zone-of-proximal-development]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

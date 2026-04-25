@@ -35,14 +35,14 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Mastery Learning]]"
+  - "[[self-efficacy-theory]]"
+  - "[[mastery-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Mastery Learning]]"
+  - "[[mastery-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Enactive Mastery Experience
 
 > [!definition] **Enactive Mastery Experience**
-> Enactive mastery experience refers to the direct personal experience of successfully performing a task, which enhances one's belief in their capability to perform similar tasks in the future. It falls under [[Self-Efficacy Theory]], where it is a core component that involves not just exposure or attempted performance but requires an enacted attempt and an outcome interpreted as evidence about capability. It falls under [[Self-Regulated Learning]].
+> Enactive mastery experience refers to the direct personal experience of successfully performing a task, which enhances one's belief in their capability to perform similar tasks in the future. It falls under [[self-efficacy-theory]], where it is a core component that involves not just exposure or attempted performance but requires an enacted attempt and an outcome interpreted as evidence about capability. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This concept excludes experiences that are not personally enacted or whose outcomes are dismissed by the individual. It also does not encompass exposure to tasks without performance or attempts with inconclusive outcomes.
@@ -131,10 +131,10 @@ Enactive mastery experience matters because it plays a critical role in self-reg
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Self-Efficacy Theory]]
+**Generalizes to:** [[self-efficacy-theory]]
 
-**Applies to:** [[Mastery Learning]]
+**Applies to:** [[mastery-learning]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

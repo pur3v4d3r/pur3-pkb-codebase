@@ -33,13 +33,13 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Working Memory Capacity]]"
-  - "[[Executive Function]]"
+  - "[[working-memory-capacity]]"
+  - "[[executive-function]]"
   - "[[G-factor]]"
-  - "[[Crystallized Intelligence]]"
+  - "[[crystallized-intelligence]]"
 prerequisites:
-  - "[[Working Memory Capacity]]"
-  - "[[Executive Function]]"
+  - "[[working-memory-capacity]]"
+  - "[[executive-function]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Crystallized Intelligence]]"
+  - "[[crystallized-intelligence]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Fluid Intelligence
 
 > [!definition] **Fluid Intelligence**
-> Fluid Intelligence is the capacity to reason and solve novel problems independently of acquired knowledge — pattern detection, rule induction, abstract analogy — typically measured by Raven's Progressive Matrices and similar non-verbal tasks, and peaks in early adulthood before a slow decline. It falls under [[Cognitive Psychology]].
+> Fluid Intelligence is the capacity to reason and solve novel problems independently of acquired knowledge — pattern detection, rule induction, abstract analogy — typically measured by Raven's Progressive Matrices and similar non-verbal tasks, and peaks in early adulthood before a slow decline. It falls under [[cognitive-psychology]].
 
 > [!attention] **Boundary**
 > It excludes crystallized intelligence, which relies on accumulated knowledge and skills. Fluid Intelligence peaks in early adulthood before a slow decline.
@@ -134,12 +134,12 @@ The distinction between Fluid and Crystallized Intelligence highlights the compl
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Prerequisites:** [[Working Memory Capacity]] · [[Executive Function]]
+**Prerequisites:** [[working-memory-capacity]] · [[executive-function]]
 
 **Generalizes to:** [[G-factor]]
 
-**Contrasts with:** [[Crystallized Intelligence]]
+**Contrasts with:** [[crystallized-intelligence]]
 
 **Source:** [[fluid-intelligence-synthetic-seed-2026-04-24]]

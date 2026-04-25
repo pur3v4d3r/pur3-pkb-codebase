@@ -33,12 +33,12 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Motivational Regulation]]"
-  - "[[Regulatory Focus Theory]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[motivational-regulation]]"
+  - "[[regulatory-focus-theory]]"
+  - "[[self-determination-theory]]"
+  - "[[intrinsic-motivation]]"
 prerequisites:
-  - "[[Motivational Regulation]]"
+  - "[[motivational-regulation]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,17 +46,17 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Regulatory Focus Theory]]"
+  - "[[regulatory-focus-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Regulatory Fit Theory
 
 > [!definition] **Regulatory Fit Theory**
-> Regulatory Fit Theory, advanced by E. Tory Higgins, suggests that the value of a chosen action is amplified when the strategy used to pursue it aligns with one's chronic or situational regulatory focus (promotion or prevention), falling under [[Motivational Psychology]]. It proposes that this alignment produces a 'feeling right' state that enhances engagement, persuasion, and persistence independent of outcome value.
+> Regulatory Fit Theory, advanced by E. Tory Higgins, suggests that the value of a chosen action is amplified when the strategy used to pursue it aligns with one's chronic or situational regulatory focus (promotion or prevention), falling under [[motivational-psychology]]. It proposes that this alignment produces a 'feeling right' state that enhances engagement, persuasion, and persistence independent of outcome value.
 
 > [!attention] **Boundary**
 > This theory focuses on the alignment between goal-pursuit strategies and regulatory foci, excluding broader motivational theories like self-determination theory.
@@ -134,14 +134,14 @@ Regulatory Fit Theory is significant for understanding motivational processes be
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Prerequisites:** [[Motivational Regulation]]
+**Prerequisites:** [[motivational-regulation]]
 
-**Contrasts with:** [[Regulatory Focus Theory]]
+**Contrasts with:** [[regulatory-focus-theory]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
-**Supports:** [[Intrinsic Motivation]]
+**Supports:** [[intrinsic-motivation]]
 
 **Source:** [[regulatory-fit-theory-synthetic-seed-2026-04-25]]

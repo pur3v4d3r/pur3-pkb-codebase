@@ -36,7 +36,7 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Cyclical Model of Self-Regulated Learning]]"
+  - "[[cyclical-model-of-self-regulated-learning]]"
   - "[[Motivated Strategies for Learning Questionnaire (MSLQ)]]"
 prerequisites:
   - "[[]]"
@@ -47,7 +47,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cyclical Model of Self-Regulated Learning]]"
+  - "[[cyclical-model-of-self-regulated-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Pintrich's Framework of Self-Regulated Learning
 
 > [!definition] **Pintrich's Framework of Self-Regulated Learning**
-> Pintrich's Framework of Self-Regulated Learning is a four-by-four architectural model that delineates the regulatory activities during a learning episode, focusing on forethought and planning, monitoring, control, and reaction and reflection phases. It falls under [[Self-Regulated Learning]], providing a detailed model for understanding self-regulation in learning without specifying developmental stages or age-related failures.
+> Pintrich's Framework of Self-Regulated Learning is a four-by-four architectural model that delineates the regulatory activities during a learning episode, focusing on forethought and planning, monitoring, control, and reaction and reflection phases. It falls under [[self-regulated-learning]], providing a detailed model for understanding self-regulation in learning without specifying developmental stages or age-related failures.
 
 > [!attention] **Boundary**
 > This framework does not specify developmental stages or age-related failures but rather provides a detailed model for understanding self-regulation in learning. It is distinct from other frameworks by its emphasis on the regulation of motivation, behavior, and context as well as cognition.
@@ -134,9 +134,9 @@ The framework's emphasis on regulating motivation, behavior, and context sets it
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Cyclical Model of Self-Regulated Learning]]
+**Contrasts with:** [[cyclical-model-of-self-regulated-learning]]
 
 **Applies to:** [[Motivated Strategies for Learning Questionnaire (MSLQ)]]
 

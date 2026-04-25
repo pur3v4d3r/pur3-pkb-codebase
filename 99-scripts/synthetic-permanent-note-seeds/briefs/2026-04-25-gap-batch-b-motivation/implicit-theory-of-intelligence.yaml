@@ -1,0 +1,39 @@
+concept: Implicit Theory of Intelligence
+domain: motivational-psychology
+secondary_domains:
+- educational-psychology
+- social-cognition
+aliases:
+- Dweck mindsets
+- lay theories of intelligence
+broader:
+- implicit-theories
+related:
+- growth-mindset
+- entity-theory-of-intelligence
+- learned-helplessness
+- mastery-vs-performance-goals
+- attribution-theory
+prerequisites:
+- implicit-theories
+confidence: high
+callouts:
+- type: definition
+  title: Implicit Theory of Intelligence
+  body: An Implicit Theory of Intelligence is a learner's lay belief about whether
+    intelligence is a fixed trait or a malleable quality that can be developed through
+    effort and strategy, and it is the cognitive antecedent of the broader fixed-versus-growth
+    mindset distinction.
+- type: key-claim
+  title: Key claim about Implicit Theory of Intelligence
+  body: 'An Implicit Theory of Intelligence shapes downstream goal choice, attribution,
+    and persistence: an entity Implicit Theory of Intelligence funnels learners toward
+    performance goals and helpless attributions after failure, while an incremental
+    Implicit Theory of Intelligence supports mastery goals and effort-based attributions.'
+- type: warning
+  title: Common pitfall regarding Implicit Theory of Intelligence
+  body: An Implicit Theory of Intelligence is sometimes treated as a stable personality
+    trait, but it is domain-specific and modifiable through brief interventions; the
+    reproducibility crisis around generic mindset interventions reflects misuse of
+    the construct rather than failure of Implicit Theory of Intelligence research
+    itself.

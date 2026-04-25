@@ -37,8 +37,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Scaffolding]]"
-  - "[[Self-Determination Theory]]"
+  - "[[scaffolding]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -52,13 +52,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scaffolding]]"
+  - "[[scaffolding]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Autonomy-Structure Dialectic
 
 > [!definition] **Autonomy-Structure Dialectic**
-> The Autonomy-Structure Dialectic is the productive tension between providing external structure to learners and fostering their autonomy, recognizing that this balance evolves with development. It falls under [[Self-Regulated Learning]], where the dialectic is resolved not by choosing one pole over the other but by recognizing structure and autonomy as developmentally sequenced rather than opposed. The resolution through developmental sequencing depends on the assumption that learners are capable of progressively internalizing external regulation — an assumption that may not hold for all learners in all contexts.
+> The Autonomy-Structure Dialectic is the productive tension between providing external structure to learners and fostering their autonomy, recognizing that this balance evolves with development. It falls under [[self-regulated-learning]], where the dialectic is resolved not by choosing one pole over the other but by recognizing structure and autonomy as developmentally sequenced rather than opposed. The resolution through developmental sequencing depends on the assumption that learners are capable of progressively internalizing external regulation — an assumption that may not hold for all learners in all contexts.
 
 > [!attention] **Boundary**
 > This concept excludes static approaches where either structure or autonomy is prioritized over the other. It also does not encompass contexts where learners are not capable of internalizing external regulation.
@@ -134,10 +134,10 @@ Understanding the Autonomy-Structure Dialectic is crucial for effective curricul
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Applies to:** [[Scaffolding]]
+**Applies to:** [[scaffolding]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

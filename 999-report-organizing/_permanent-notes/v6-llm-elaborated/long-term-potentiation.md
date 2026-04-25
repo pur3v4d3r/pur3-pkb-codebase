@@ -33,14 +33,14 @@ depth-level: elaborated
 parent-concept: "Neuroplasticity"
 
 related:
-  - "[[Neuroplasticity]]"
-  - "[[Memory Consolidation]]"
+  - "[[neuroplasticity]]"
+  - "[[memory-consolidation]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Neuroplasticity]]"
+  - "[[neuroplasticity]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Memory Consolidation]]"
+  - "[[memory-consolidation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Long-Term Potentiation
 
 > [!definition] **Long-Term Potentiation**
-> Long-Term Potentiation (LTP) is the persistent strengthening of synaptic transmission produced when a presynaptic input repeatedly succeeds in driving postsynaptic firing, first demonstrated by Bliss and Lømo in the rabbit hippocampus in 1973. It falls under [[Neuroplasticity]], providing the strongest available cellular candidate for the Hebbian 'neurons that fire together, wire together' principle.
+> Long-Term Potentiation (LTP) is the persistent strengthening of synaptic transmission produced when a presynaptic input repeatedly succeeds in driving postsynaptic firing, first demonstrated by Bliss and Lømo in the rabbit hippocampus in 1973. It falls under [[neuroplasticity]], providing the strongest available cellular candidate for the Hebbian 'neurons that fire together, wire together' principle.
 
 > [!attention] **Boundary**
 > It focuses specifically on synaptic changes and does not encompass broader cognitive processes or other forms of neural plasticity.
@@ -129,10 +129,10 @@ LTP's role in neuroplasticity underscores its importance in the broader context 
 
 ## Connections & Context
 
-**Falls under:** [[Neuroplasticity]]
+**Falls under:** [[neuroplasticity]]
 
-**Generalizes to:** [[Neuroplasticity]]
+**Generalizes to:** [[neuroplasticity]]
 
-**Applies to:** [[Memory Consolidation]]
+**Applies to:** [[memory-consolidation]]
 
 **Source:** [[long-term-potentiation-synthetic-seed-2026-04-25]]

@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Goal Setting Theory"
 
 related:
-  - "[[Goal Specificity]]"
-  - "[[Implementation Intentions]]"
+  - "[[goal-specificity]]"
+  - "[[implementation-intentions]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,9 +45,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Goal Specificity]]"
+  - "[[goal-specificity]]"
 contrasts-with:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Specificity-Difficulty Conjunction
 
 > [!definition] **Specificity-Difficulty Conjunction**
-> The Specificity-Difficulty Conjunction refers to the combination of goal specificity and difficulty, which together produce the largest and most reliable performance gains according to Goal Setting Theory. It falls under [[Goal Setting Theory]], where specificity provides a discriminative criterion for evaluating performance, while difficulty mobilizes resources necessary to meet that criterion.
+> The Specificity-Difficulty Conjunction refers to the combination of goal specificity and difficulty, which together produce the largest and most reliable performance gains according to Goal Setting Theory. It falls under [[goal-setting-theory]], where specificity provides a discriminative criterion for evaluating performance, while difficulty mobilizes resources necessary to meet that criterion.
 
 > [!attention] **Boundary**
 > This concept focuses on the interaction between goal specificity and difficulty. It does not encompass other aspects of goal setting such as commitment or proximity.
@@ -135,10 +135,10 @@ The Specificity-Difficulty Conjunction also bridges the gap between theoretical 
 
 ## Connections & Context
 
-**Falls under:** [[Goal Setting Theory]]
+**Falls under:** [[goal-setting-theory]]
 
-**Sibling concepts:** [[Goal Specificity]]
+**Sibling concepts:** [[goal-specificity]]
 
-**Contrasts with:** [[Implementation Intentions]]
+**Contrasts with:** [[implementation-intentions]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

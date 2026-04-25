@@ -2,6 +2,7 @@
 title: "Need Frustration"
 aliases:
   - "Need Frustration"
+  - "Need-Frustration"
   - "SDT Foundational Report"
   - "Self-Determination Theory Report"
   - "Deci and Ryan Motivation Theory"
@@ -37,9 +38,9 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Need Satisfaction]]"
-  - "[[Autonomy Support]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[need-satisfaction]]"
+  - "[[autonomy-support]]"
+  - "[[intrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,17 +50,17 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Need Satisfaction]]"
+  - "[[need-satisfaction]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomy Support]]"
+  - "[[autonomy-support]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 refines:
   - "[[]]"
 
@@ -136,12 +137,12 @@ The distinction between need satisfaction and frustration is particularly import
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Contrasts with:** [[Need Satisfaction]]
+**Contrasts with:** [[need-satisfaction]]
 
-**Applies to:** [[Autonomy Support]]
+**Applies to:** [[autonomy-support]]
 
-**Supports:** [[Intrinsic Motivation]]
+**Supports:** [[intrinsic-motivation]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

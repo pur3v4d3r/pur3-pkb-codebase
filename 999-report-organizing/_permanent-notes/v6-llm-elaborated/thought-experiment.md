@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Theoretical Science"
 
 related:
-  - "[[Analogical Reasoning]]"
-  - "[[Modal Logic]]"
+  - "[[analogical-reasoning]]"
+  - "[[modal-logic]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,11 +43,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Analogical Reasoning]]"
+  - "[[analogical-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Modal Logic]]"
+  - "[[modal-logic]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,8 +133,8 @@ The concept of Thought Experiments is closely related to modal logic, which form
 
 **Falls under:** [[Theoretical Science]]
 
-**Contrasts with:** [[Analogical Reasoning]]
+**Contrasts with:** [[analogical-reasoning]]
 
-**Applies to:** [[Modal Logic]]
+**Applies to:** [[modal-logic]]
 
 **Source:** [[thought-experiment-synthetic-seed-2026-04-25]]

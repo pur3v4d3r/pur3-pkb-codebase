@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Theories of Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Schema Theory
 
 > [!definition] **Schema Theory**
-> Schema Theory is a cognitive framework that explains how prior knowledge structures the encoding, retention, and retrieval of new information, with expertise characterized by richer, more interconnected schemas. It falls under [[Cognitive Theories of Learning]], focusing on the role of pre-existing knowledge structures (schemas) in learning processes without delving into specific neurobiological mechanisms or detailed pedagogical techniques beyond schema development.
+> Schema Theory is a cognitive framework that explains how prior knowledge structures the encoding, retention, and retrieval of new information, with expertise characterized by richer, more interconnected schemas. It falls under [[cognitive-theories-of-learning]], focusing on the role of pre-existing knowledge structures (schemas) in learning processes without delving into specific neurobiological mechanisms or detailed pedagogical techniques beyond schema development.
 
 > [!attention] **Boundary**
 > This theory focuses on the role of pre-existing knowledge structures (schemas) in learning processes. It does not delve into specific neurobiological mechanisms or detailed pedagogical techniques beyond schema development.
@@ -130,10 +130,10 @@ Schema Theory significantly enhances our understanding of how prior knowledge in
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Theories of Learning]]
+**Falls under:** [[cognitive-theories-of-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[schema-theory-and-learning-synthetic-seed-2026-04-24]]

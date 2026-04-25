@@ -34,7 +34,7 @@ depth-level: elaborated
 parent-concept: "System Configuration"
 
 related:
-  - "[[Environment Variables]]"
+  - "[[environment-variables]]"
   - "[[System Paths]]"
 prerequisites:
   - "[[]]"
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Environment Variables]]"
+  - "[[environment-variables]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -137,7 +137,7 @@ The PATH variable is deeply intertwined with broader concepts in computer scienc
 
 **Falls under:** [[System Configuration]]
 
-**Sibling concepts:** [[Environment Variables]]
+**Sibling concepts:** [[environment-variables]]
 
 **Applies to:** [[System Paths]]
 

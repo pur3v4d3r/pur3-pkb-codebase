@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Deep Processing]]"
-  - "[[Levels-of-Processing]]"
-  - "[[Maintenance Rehearsal]]"
+  - "[[deep-processing]]"
+  - "[[levels-of-processing]]"
+  - "[[maintenance-rehearsal]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,10 +43,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Deep Processing]]"
-  - "[[Levels-of-Processing]]"
+  - "[[deep-processing]]"
+  - "[[levels-of-processing]]"
 contrasts-with:
-  - "[[Maintenance Rehearsal]]"
+  - "[[maintenance-rehearsal]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Elaborative Rehearsal
 
 > [!definition] **Elaborative Rehearsal**
-> Elaborative Rehearsal involves connecting new material to existing knowledge through meaning-based processing — generating examples, paraphrasing, comparing, or relating content to personal experience — rather than merely repeating it verbatim; it is the high-payoff pole on the levels-of-processing continuum and falls under [[Cognitive Architecture]].
+> Elaborative Rehearsal involves connecting new material to existing knowledge through meaning-based processing — generating examples, paraphrasing, comparing, or relating content to personal experience — rather than merely repeating it verbatim; it is the high-payoff pole on the levels-of-processing continuum and falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept excludes simple repetition (maintenance rehearsal) and focuses on the semantic associations that enhance long-term memory retention.
@@ -134,10 +134,10 @@ Empirical evidence supports the effectiveness of elaborative rehearsal in enhanc
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Deep Processing]] · [[Levels-of-Processing]]
+**Sibling concepts:** [[deep-processing]] · [[levels-of-processing]]
 
-**Contrasts with:** [[Maintenance Rehearsal]]
+**Contrasts with:** [[maintenance-rehearsal]]
 
 **Source:** [[elaborative-rehearsal-synthetic-seed-2026-04-24]]

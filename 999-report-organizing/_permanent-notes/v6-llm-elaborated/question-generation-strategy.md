@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Question Generation Strategy
 
 > [!definition] **Question Generation Strategy**
-> The Question Generation Strategy is a study technique where learners formulate their own questions about material, aiming to engage both comprehension monitoring and retrieval practice. It falls under [[Self-Regulated Learning]], as it encourages active engagement with the content that enhances metacognitive accuracy.
+> The Question Generation Strategy is a study technique where learners formulate their own questions about material, aiming to engage both comprehension monitoring and retrieval practice. It falls under [[self-regulated-learning]], as it encourages active engagement with the content that enhances metacognitive accuracy.
 
 > [!attention] **Boundary**
 > This strategy stops at the point where it no longer involves active question formulation but rather passive reading or rote memorization. It should not be confused with other techniques like elaborative interrogation or self-explanation that do not involve generating questions.
@@ -131,10 +131,10 @@ This strategy also complements other techniques like worked examples, where stud
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[question-generation-strategy-synthetic-seed-2026-04-25]]

@@ -1,0 +1,39 @@
+concept: Guided Discovery
+domain: instructional-design
+secondary_domains:
+- educational-psychology
+- cognitive-load-theory
+aliases:
+- guided inquiry
+- scaffolded discovery
+broader:
+- instructional-strategy
+related:
+- discovery-learning
+- direct-instruction
+- scaffolding
+- worked-examples
+- expertise-reversal-effect
+- problem-based-learning
+prerequisites:
+- instructional-design
+confidence: high
+callouts:
+- type: definition
+  title: Guided Discovery
+  body: Guided Discovery is the instructional strategy in which learners are positioned
+    to discover principles, patterns, or solutions for themselves but with deliberate
+    instructional scaffolding — prompts, hints, partially worked examples, structured
+    questioning — that channels their exploration toward the target understanding.
+- type: key-claim
+  title: Key claim about Guided Discovery
+  body: Guided Discovery occupies the empirically defensible middle ground in the
+    long-running discovery-vs-direct-instruction debate; pure discovery learning routinely
+    underperforms because of cognitive overload, while Guided Discovery preserves
+    the motivational and transfer benefits of discovery without imposing the load.
+- type: warning
+  title: Common pitfall regarding Guided Discovery
+  body: 'Guided Discovery is a moving target whose effectiveness depends sensitively
+    on prior knowledge: as learners'' expertise grows, the optimal level of guidance
+    drops (the expertise reversal effect), so an instructional design that is appropriate
+    Guided Discovery for novices becomes counterproductive over-scaffolding for experts.'

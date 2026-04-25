@@ -34,7 +34,7 @@ parent-concept: "Personal Knowledge Management"
 
 related:
   - "[[Markdown]]"
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 prerequisites:
   - "[[Markdown]]"
 specializes:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Obsidian
 
 > [!definition] **Obsidian**
-> Obsidian is a local-first, markdown-based personal knowledge management application built around bidirectional wiki-links and a graph view, with a substantial third-party plugin ecosystem that extends the core app into a programmable knowledge environment. It falls under [[Personal Knowledge Management]], where its design choices — plain-text markdown files in a local folder, wiki-links as the primary connection mechanism, and plugin-based extensibility — make it especially well-suited to long-horizon personal knowledge bases.
+> Obsidian is a local-first, markdown-based personal knowledge management application built around bidirectional wiki-links and a graph view, with a substantial third-party plugin ecosystem that extends the core app into a programmable knowledge environment. It falls under [[personal-knowledge-management]], where its design choices — plain-text markdown files in a local folder, wiki-links as the primary connection mechanism, and plugin-based extensibility — make it especially well-suited to long-horizon personal knowledge bases.
 
 > [!attention] **Boundary**
 > This definition excludes collaboration features and polished user interfaces typical of other knowledge management tools. It focuses on Obsidian's core functionalities and design choices.
@@ -131,10 +131,10 @@ In the broader context of personal knowledge management tools, Obsidian stands o
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
 **Prerequisites:** [[Markdown]]
 
-**Applies to:** [[Zettelkasten]]
+**Applies to:** [[zettelkasten]]
 
 **Source:** [[obsidian-synthetic-seed-2026-04-24]]

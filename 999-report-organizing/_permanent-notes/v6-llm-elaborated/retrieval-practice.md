@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Spaced Repetition]]"
+  - "[[working-memory]]"
+  - "[[spaced-repetition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Spaced Repetition]]"
+  - "[[spaced-repetition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Retrieval Practice
 
 > [!definition] **Retrieval Practice**
-> Retrieval practice involves actively reconstructing information from memory rather than passively re-reading it, leading to stronger and more durable memory traces (Roediger & Karpicke, 2006; Roediger & Butler, 2011). It falls under [[Cognitive Architecture]], as it leverages the cognitive processes that underpin effective learning strategies.
+> Retrieval practice involves actively reconstructing information from memory rather than passively re-reading it, leading to stronger and more durable memory traces (Roediger & Karpicke, 2006; Roediger & Butler, 2011). It falls under [[cognitive-architecture]], as it leverages the cognitive processes that underpin effective learning strategies.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of review like re-studying or passive reading. It is distinct from generative learning techniques but often complements them in a cognitive strategy framework.
@@ -134,10 +134,10 @@ The broader implications of retrieval practice extend beyond individual learners
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Spaced Repetition]]
+**Applies to:** [[spaced-repetition]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]

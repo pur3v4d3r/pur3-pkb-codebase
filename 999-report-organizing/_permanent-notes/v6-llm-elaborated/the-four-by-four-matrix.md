@@ -36,7 +36,7 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Cyclical Model of Self-Regulated Learning]]"
+  - "[[cyclical-model-of-self-regulated-learning]]"
   - "[[Metacognition Framework]]"
   - "[[Motivated Strategies for Learning Questionnaire (MSLQ)]]"
 prerequisites:
@@ -46,7 +46,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cyclical Model of Self-Regulated Learning]]"
+  - "[[cyclical-model-of-self-regulated-learning]]"
 contrasts-with:
   - "[[Metacognition Framework]]"
 contradicts:
@@ -76,7 +76,7 @@ provenance:
 # Four-by-Four Matrix
 
 > [!definition] **Four-by-Four Matrix**
-> The Four-by-Four Matrix is an analytical tool in educational psychology that organizes self-regulation into four phases (forethought, monitoring, control, reaction-and-reflection) and four areas (cognition, motivation/affect, behavior, context). It falls under [[Self-Regulated Learning]], providing a diagnostic and pedagogical framework for understanding the complex interplay of these elements in learning processes. This matrix does not claim the cells are psychologically discrete but rather offers a continuous interaction model that enhances our understanding of self-regulation.
+> The Four-by-Four Matrix is an analytical tool in educational psychology that organizes self-regulation into four phases (forethought, monitoring, control, reaction-and-reflection) and four areas (cognition, motivation/affect, behavior, context). It falls under [[self-regulated-learning]], providing a diagnostic and pedagogical framework for understanding the complex interplay of these elements in learning processes. This matrix does not claim the cells are psychologically discrete but rather offers a continuous interaction model that enhances our understanding of self-regulation.
 
 > [!attention] **Boundary**
 > This matrix does not claim the cells are psychologically discrete but rather provides a diagnostic and pedagogical framework for understanding self-regulated learning processes.
@@ -138,9 +138,9 @@ This framework also contributes to broader discussions on metacognition and self
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Cyclical Model of Self-Regulated Learning]]
+**Sibling concepts:** [[cyclical-model-of-self-regulated-learning]]
 
 **Contrasts with:** [[Metacognition Framework]]
 

@@ -34,23 +34,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Chunking]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[chunking]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Chunking]]"
+  - "[[chunking]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Element Interactivity
 
 > [!definition] **Element Interactivity**
-> Element interactivity refers to the number of mutually constraining elements that must be processed simultaneously in working memory for a learner to understand the material, where two elements interact when their meanings depend on one another. It falls under [[Cognitive-Load-Theory]], and its variability highlights how understanding is not solely determined by the content itself but also by the learner's existing knowledge and processing capacity. It falls under [[Cognitive Load Theory]].
+> Element interactivity refers to the number of mutually constraining elements that must be processed simultaneously in working memory for a learner to understand the material, where two elements interact when their meanings depend on one another. It falls under [[cognitive-load-theory]], and its variability highlights how understanding is not solely determined by the content itself but also by the learner's existing knowledge and processing capacity. It falls under [[cognitive-load-theory]].
 
 > [!attention] **Boundary**
 > This concept excludes static properties of the material itself and focuses on the dynamic interaction between the learner's existing knowledge and the new information being learned. It is not about the physical structure of the content but rather how it is processed by the learner.
@@ -133,12 +133,12 @@ Understanding element interactivity also has broader implications for fields suc
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Chunking]]
+**Sibling concepts:** [[chunking]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

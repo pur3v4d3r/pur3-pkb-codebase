@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Learning Strategies"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Mnemonic Strategies
 
 > [!definition] **Mnemonic Strategies**
-> Mnemonic Strategies are deliberate encoding techniques that impose organized structure on arbitrary material, facilitating recall by substituting retrieval cues. These strategies fall under [[Learning Strategies]], enhancing memory through structured encoding and operate not because they make material easier but because they substitute organized retrieval cues for absent ones.
+> Mnemonic Strategies are deliberate encoding techniques that impose organized structure on arbitrary material, facilitating recall by substituting retrieval cues. These strategies fall under [[learning-strategies]], enhancing memory through structured encoding and operate not because they make material easier but because they substitute organized retrieval cues for absent ones.
 
 > [!attention] **Boundary**
 > This includes methods like the method of loci, peg systems, acronyms, keyword links, and chunking schemes. It excludes other forms of memory aids or learning strategies not specifically designed to enhance retrieval through structured encoding.
@@ -131,10 +131,10 @@ Understanding mnemonic strategies also has broader implications for the field of
 
 ## Connections & Context
 
-**Falls under:** [[Learning Strategies]]
+**Falls under:** [[learning-strategies]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[mnemonic-strategies-synthetic-seed-2026-04-25]]

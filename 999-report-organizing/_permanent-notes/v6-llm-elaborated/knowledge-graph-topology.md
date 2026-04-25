@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Personal Knowledge Management"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Knowledge Graph Topology
 
 > [!definition] **Knowledge Graph Topology**
-> Knowledge Graph Topology refers to the structural shape of a personal knowledge graph — including node degrees, connected components, and the prevalence of hubs versus orphans — which influences note discovery independently of individual note content. It falls under [[Personal Knowledge Management]].
+> Knowledge Graph Topology refers to the structural shape of a personal knowledge graph — including node degrees, connected components, and the prevalence of hubs versus orphans — which influences note discovery independently of individual note content. It falls under [[personal-knowledge-management]].
 
 > [!attention] **Boundary**
 > This concept focuses on the structural aspects of a knowledge graph and does not include the content or metadata of individual notes.
@@ -131,10 +131,10 @@ Empirical evidence supports the claim that graphs with hubs and short path lengt
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[knowledge-graph-topology-synthetic-seed-2026-04-25]]

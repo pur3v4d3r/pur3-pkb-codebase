@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Competence-Need]]"
-  - "[[Relatedness-Need]]"
-  - "[[Self-Determination Theory]]"
+  - "[[competence-need]]"
+  - "[[relatedness-need]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Competence-Need]]"
-  - "[[Relatedness-Need]]"
-  - "[[Self-Determination Theory]]"
+  - "[[competence-need]]"
+  - "[[relatedness-need]]"
+  - "[[self-determination-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Autonomy Need
 
 > [!definition] **Autonomy Need**
-> The Autonomy Need refers to the psychological requirement for individuals to experience their actions as volitional and self-endorsed, rather than compelled by external pressure or internal compulsion. It falls under [[Self-Determination Theory]], where it is one of three fundamental needs that contribute to motivation and well-being. It falls under [[Self-Regulated Learning]].
+> The Autonomy Need refers to the psychological requirement for individuals to experience their actions as volitional and self-endorsed, rather than compelled by external pressure or internal compulsion. It falls under [[self-determination-theory]], where it is one of three fundamental needs that contribute to motivation and well-being. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This concept excludes the need for competence (the desire to be competent) and relatedness (the desire for positive social connections), which are distinct but related needs in Self-Determination Theory.
@@ -141,8 +141,8 @@ Empirical research supports the importance of the Autonomy Need, showing that wh
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Competence-Need]] · [[Relatedness-Need]] · [[Self-Determination Theory]]
+**Sibling concepts:** [[competence-need]] · [[relatedness-need]] · [[self-determination-theory]]
 
 **Source:** [[autonomy-need-synthetic-seed-2026-04-24]]

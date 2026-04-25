@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Metacognition]]"
-  - "[[Goal-Orientation]]"
+  - "[[metacognition]]"
+  - "[[goal-orientation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,13 +45,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Goal-Orientation]]"
+  - "[[goal-orientation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Reaction and Reflection as Cyclic Coupling
 
 > [!definition] **Reaction and Reflection as Cyclic Coupling**
-> Reaction and reflection as cyclic coupling refers to the process where outcomes of a task are evaluated, leading to adjustments in strategies for subsequent tasks. This cycle is integral to self-regulated learning, as it falls under [[Self-Regulated Learning]], ensuring that regulatory activities are structured and cognitively focused rather than undifferentiated post-task thinking.
+> Reaction and reflection as cyclic coupling refers to the process where outcomes of a task are evaluated, leading to adjustments in strategies for subsequent tasks. This cycle is integral to self-regulated learning, as it falls under [[self-regulated-learning]], ensuring that regulatory activities are structured and cognitively focused rather than undifferentiated post-task thinking.
 
 > [!attention] **Boundary**
 > This concept does not include rumination or undifferentiated post-task thinking but focuses on structured regulatory activities with specific cognitive content.
@@ -137,10 +137,10 @@ The cyclical nature of reaction and reflection as cyclic coupling underscores it
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Metacognition]]
+**Sibling concepts:** [[metacognition]]
 
-**Applies to:** [[Goal-Orientation]]
+**Applies to:** [[goal-orientation]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

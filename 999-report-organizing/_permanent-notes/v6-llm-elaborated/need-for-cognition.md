@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Intellectual Humility]]"
-  - "[[Dual-Process Theory]]"
-  - "[[Cognitive Miserliness]]"
+  - "[[intellectual-humility]]"
+  - "[[dual-process-theory]]"
+  - "[[cognitive-miserliness]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,12 +44,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intellectual Humility]]"
-  - "[[Dual-Process Theory]]"
+  - "[[intellectual-humility]]"
+  - "[[dual-process-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Miserliness]]"
+  - "[[cognitive-miserliness]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Need for Cognition
 
 > [!definition] **Need for Cognition**
-> Need for Cognition (NFC) is a personality trait that measures an individual's tendency to engage in and enjoy thinking about complex issues, as opposed to relying on heuristics or avoiding cognitive effort. It falls under [[Cognitive Architecture]], capturing the chronic disposition to deploy System-2 processing when System-1 would have sufficed for immediate action.
+> Need for Cognition (NFC) is a personality trait that measures an individual's tendency to engage in and enjoy thinking about complex issues, as opposed to relying on heuristics or avoiding cognitive effort. It falls under [[cognitive-architecture]], capturing the chronic disposition to deploy System-2 processing when System-1 would have sufficed for immediate action.
 
 > [!attention] **Boundary**
 > This concept excludes measures of general intelligence or cognitive ability; NFC specifically refers to the enjoyment and seeking of cognitive activity for its own sake.
@@ -133,10 +133,10 @@ NFC intersects with related concepts such as intellectual humility and dual-proc
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Intellectual Humility]] · [[Dual-Process Theory]]
+**Contrasts with:** [[intellectual-humility]] · [[dual-process-theory]]
 
-**Applies to:** [[Cognitive Miserliness]]
+**Applies to:** [[cognitive-miserliness]]
 
 **Source:** [[need-for-cognition-synthetic-seed-2026-04-25]]

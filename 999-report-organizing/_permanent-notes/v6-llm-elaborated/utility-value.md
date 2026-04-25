@@ -35,7 +35,7 @@ related:
   - "[[Attainment Value]]"
   - "[[Cost]]"
   - "[[Intrinsic Value]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -56,7 +56,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Utility Value
 
 > [!definition] **Utility Value**
-> Utility Value is one of the four task-value components in Eccles's expectancy-value model — alongside intrinsic value, attainment value, and cost — capturing the perceived usefulness of a task for learners' future goals, distinct from inherent enjoyment or identity-relevance. It falls under [[Motivational Psychology]].
+> Utility Value is one of the four task-value components in Eccles's expectancy-value model — alongside intrinsic value, attainment value, and cost — capturing the perceived usefulness of a task for learners' future goals, distinct from inherent enjoyment or identity-relevance. It falls under [[motivational-psychology]].
 
 > [!attention] **Boundary**
 > It is distinct from intrinsic value (enjoyment), attainment value (importance to future success), and cost (effort required).
@@ -134,12 +134,12 @@ Empirical evidence supports the reliability of Utility Value interventions in ed
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
 **Sibling concepts:** [[Attainment Value]] · [[Cost]]
 
 **Contrasts with:** [[Intrinsic Value]]
 
-**Supports:** [[Expectancy-Value Theory]]
+**Supports:** [[expectancy-value-theory]]
 
 **Source:** [[utility-value-synthetic-seed-2026-04-25]]

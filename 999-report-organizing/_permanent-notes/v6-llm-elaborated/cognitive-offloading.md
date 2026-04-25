@@ -36,20 +36,20 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Externalized Metacognition]]"
-  - "[[Metacognitive Regulation]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[working-memory]]"
+  - "[[externalized-metacognition]]"
+  - "[[metacognitive-regulation]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Externalized Metacognition]]"
+  - "[[externalized-metacognition]]"
 contrasts-with:
-  - "[[Metacognitive Regulation]]"
+  - "[[metacognitive-regulation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -59,7 +59,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -77,7 +77,7 @@ provenance:
 # Cognitive Offloading
 
 > [!definition] **Cognitive Offloading**
-> Cognitive offloading involves delegating cognitive work from internal biological resources to external artefacts that carry informational or procedural content, replacing rather than augmenting the need for internal maintenance. It falls under [[Metacognition]], as it pertains to the delegation of metacognitive functions to external tools.
+> Cognitive offloading involves delegating cognitive work from internal biological resources to external artefacts that carry informational or procedural content, replacing rather than augmenting the need for internal maintenance. It falls under [[metacognition]], as it pertains to the delegation of metacognitive functions to external tools.
 
 > [!attention] **Boundary**
 > This concept excludes cases where external tools merely augment cognitive processes without fully replacing them. It also does not encompass all tool use but specifically refers to offloading of metacognitive functions.
@@ -133,14 +133,14 @@ Cognitive offloading intersects with broader concepts in cognitive science such 
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Externalized Metacognition]]
+**Sibling concepts:** [[externalized-metacognition]]
 
-**Contrasts with:** [[Metacognitive Regulation]]
+**Contrasts with:** [[metacognitive-regulation]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

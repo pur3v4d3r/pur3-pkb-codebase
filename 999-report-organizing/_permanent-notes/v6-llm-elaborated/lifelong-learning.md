@@ -78,7 +78,7 @@ provenance:
 # Scaffolding-Sovereignty Progression
 
 > [!definition] **Scaffolding-Sovereignty Progression**
-> The Scaffolding-Sovereignty Progression describes a five-phase framework through which curriculum design transforms dependent learners into self-directed ones, integrating guided dependence, structured exploration, negotiated autonomy, supported independence, and autonomous sovereignty. It falls under [[Curriculum Design]], focusing on the transformation of learning from dependency to autonomy within an educational context.
+> The Scaffolding-Sovereignty Progression describes a five-phase framework through which curriculum design transforms dependent learners into self-directed ones, integrating guided dependence, structured exploration, negotiated autonomy, supported independence, and autonomous sovereignty. It falls under [[curriculum-design]], focusing on the transformation of learning from dependency to autonomy within an educational context.
 
 > [!attention] **Boundary**
 > This concept focuses on the transformation of learning from dependency to autonomy within a curriculum design context. It does not encompass all aspects of lifelong learning or self-directed learning but specifically addresses how educational structures support this transition.
@@ -140,7 +140,7 @@ The concept extends beyond educational settings by influencing broader domains s
 
 ## Connections & Context
 
-**Falls under:** [[Curriculum Design]]
+**Falls under:** [[curriculum-design]]
 
 **Contrasts with:** [[Guided Instruction]] · [[Independent Study]]
 

@@ -1,0 +1,36 @@
+concept: Self Esteem
+domain: motivational-psychology
+secondary_domains:
+- clinical-psychology
+- social-psychology
+aliases:
+- global self-worth
+broader:
+- self-concept
+related:
+- self-efficacy
+- self-worth-theory
+- self-serving-bias
+- contingent-self-esteem
+prerequisites:
+- self-concept
+confidence: high
+callouts:
+- type: definition
+  title: Self Esteem
+  body: Self Esteem is a person's overall affective evaluation of their own worth
+    as a person, distinct from domain-specific competence beliefs such as self-efficacy
+    and from descriptive self-concept content, and it is typically measured as a stable
+    trait with state-level fluctuations.
+- type: key-claim
+  title: Key claim about Self Esteem
+  body: Self Esteem is correlated with — but does not causally produce — achievement,
+    well-being, or pro-social behaviour; the meta-analytic evidence shows that interventions
+    raising Self Esteem without changing the underlying competencies fail to improve
+    outcomes, overturning the 1980s "self-esteem movement" assumption.
+- type: warning
+  title: Common pitfall regarding Self Esteem
+  body: Self Esteem is often confused with self-efficacy or narcissism; conflating
+    Self Esteem with task confidence misdirects intervention design, and conflating
+    high Self Esteem with narcissism — which is contingent and fragile — leads to
+    the misreading that all high Self Esteem is socially harmful.

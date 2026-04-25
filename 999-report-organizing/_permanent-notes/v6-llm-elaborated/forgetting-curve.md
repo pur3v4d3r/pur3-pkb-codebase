@@ -30,10 +30,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,7 +45,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -69,7 +69,7 @@ provenance:
 # Forgetting Curve
 
 > [!definition] **Forgetting Curve**
-> The Forgetting Curve is the empirical relationship between the time elapsed since learning and the proportion of material still retrievable, typically described as a roughly exponential decline that flattens with each successful relearning episode. It falls under [[Cognitive Architecture]], focusing on objective retention rates rather than subjective measures of familiarity.
+> The Forgetting Curve is the empirical relationship between the time elapsed since learning and the proportion of material still retrievable, typically described as a roughly exponential decline that flattens with each successful relearning episode. It falls under [[cognitive-architecture]], focusing on objective retention rates rather than subjective measures of familiarity.
 
 > [!attention] **Boundary**
 > This concept excludes subjective measures of familiarity and focuses on objective retention rates. It does not account for individual differences in memory or external factors affecting recall.
@@ -128,10 +128,10 @@ The Forgetting Curve also highlights the importance of spaced repetition in vari
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[forgetting-curve-synthetic-seed-2026-04-24]]

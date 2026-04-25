@@ -73,7 +73,7 @@ provenance:
 # Predictive Processing
 
 > [!definition] **Predictive Processing**
-> Predictive Processing is a theoretical framework that models the brain as a hierarchical prediction machine, continually generating top-down expectations and adjusting internal models based on prediction error from bottom-up sensory input. It falls under [[Cognitive Architecture]], unifying perception, action, and learning under a single inferential principle.
+> Predictive Processing is a theoretical framework that models the brain as a hierarchical prediction machine, continually generating top-down expectations and adjusting internal models based on prediction error from bottom-up sensory input. It falls under [[cognitive-architecture]], unifying perception, action, and learning under a single inferential principle.
 
 > [!attention] **Boundary**
 > This concept excludes specific neural mechanisms or detailed psychological processes but includes broader cognitive functions like perception, action, and learning.
@@ -131,7 +131,7 @@ The framework's implications extend beyond cognitive science into fields like ed
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Contrasts with:** [[Bayesian Brain]] · [[Active Inference]]
 

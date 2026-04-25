@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Active Note Making
 
 > [!definition] **Active Note Making**
-> Active Note Making is the disciplined practice of producing notes through generative cognitive operations such as paraphrasing and connecting to prior knowledge, rather than transcription or passive summary. It falls under [[Cognitive Psychology]], enhancing understanding and retention by engaging in elaboration and self-explanation interventions.
+> Active Note Making is the disciplined practice of producing notes through generative cognitive operations such as paraphrasing and connecting to prior knowledge, rather than transcription or passive summary. It falls under [[cognitive-psychology]], enhancing understanding and retention by engaging in elaboration and self-explanation interventions.
 
 > [!attention] **Boundary**
 > This concept excludes simple transcription or summarization practices. It focuses on the cognitive processes that enhance understanding and retention.
@@ -131,10 +131,10 @@ The concept extends beyond individual learning to influence broader domains such
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[active-note-making-synthetic-seed-2026-04-24]]

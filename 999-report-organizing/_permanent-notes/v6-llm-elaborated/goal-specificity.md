@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Motivation Science"
 
 related:
-  - "[[Goal Difficulty]]"
-  - "[[Goal Commitment]]"
+  - "[[goal-difficulty]]"
+  - "[[goal-commitment]]"
   - "[[Goal Proximity]]"
 prerequisites:
   - "[[]]"
@@ -46,8 +46,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Goal Difficulty]]"
-  - "[[Goal Commitment]]"
+  - "[[goal-difficulty]]"
+  - "[[goal-commitment]]"
   - "[[Goal Proximity]]"
 contrasts-with:
   - "[[]]"
@@ -143,6 +143,6 @@ The concept of goal specificity is deeply rooted in motivation science and has s
 
 **Falls under:** [[Motivation Science]]
 
-**Sibling concepts:** [[Goal Difficulty]] · [[Goal Commitment]] · [[Goal Proximity]]
+**Sibling concepts:** [[goal-difficulty]] · [[goal-commitment]] · [[Goal Proximity]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

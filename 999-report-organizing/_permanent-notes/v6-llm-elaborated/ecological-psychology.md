@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Cognitive Science"
 
 related:
-  - "[[Embodied Cognition]]"
+  - "[[embodied-cognition]]"
   - "[[Affordance]]"
 prerequisites:
   - "[[]]"
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Embodied Cognition]]"
+  - "[[embodied-cognition]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -82,7 +82,7 @@ Ecological Psychology fundamentally challenges traditional views by asserting th
 
 The core mechanism of ecological psychology operates through lawful information pickup from the environment. Optic flow, for example, provides direct cues about motion and spatial relationships, enabling organisms to navigate their surroundings without needing to infer or construct a mental model of the space. This is evident in how we catch balls or walk down hallways; our actions are guided by the immediate sensory input rather than an internal representation.
 
-Theoretical roots of ecological psychology can be traced back to Gibson's work on direct perception and his rejection of the idea that perception involves constructing a mental model of the world. Instead, he argued for a more direct interaction with the environment where information about what actions are possible is picked up directly from sensory input. This perspective aligns with the broader field of [[Embodied Cognition]], which also emphasizes the importance of physical engagement in cognitive processes.
+Theoretical roots of ecological psychology can be traced back to Gibson's work on direct perception and his rejection of the idea that perception involves constructing a mental model of the world. Instead, he argued for a more direct interaction with the environment where information about what actions are possible is picked up directly from sensory input. This perspective aligns with the broader field of [[embodied-cognition]], which also emphasizes the importance of physical engagement in cognitive processes.
 
 Empirical evidence supporting ecological psychology comes from studies showing that perception and action are tightly coupled, as seen in experiments where participants can quickly adapt to changes in their environment without needing time for internal processing. For example, Gibson's work on visual cliff experiments demonstrated how infants perceive depth directly through sensory input rather than through a constructed mental model.
 
@@ -124,13 +124,13 @@ The mechanism of ecological psychology involves the direct pickup of information
 
 ## Synthesis
 
-Ecological Psychology offers a valuable framework for understanding perception and cognition by emphasizing direct interaction with the environment. Its focus on affordances and lawful information pickup provides insights into how organisms can navigate their surroundings efficiently without relying on complex internal representations. This perspective aligns well with [[Embodied Cognition]], which also highlights the importance of physical engagement in cognitive processes. By integrating ecological principles, researchers and practitioners can design more intuitive interfaces, robots, and learning environments that enhance human performance and interaction.
+Ecological Psychology offers a valuable framework for understanding perception and cognition by emphasizing direct interaction with the environment. Its focus on affordances and lawful information pickup provides insights into how organisms can navigate their surroundings efficiently without relying on complex internal representations. This perspective aligns well with [[embodied-cognition]], which also highlights the importance of physical engagement in cognitive processes. By integrating ecological principles, researchers and practitioners can design more intuitive interfaces, robots, and learning environments that enhance human performance and interaction.
 
 ## Connections & Context
 
 **Falls under:** [[Cognitive Science]]
 
-**Sibling concepts:** [[Embodied Cognition]]
+**Sibling concepts:** [[embodied-cognition]]
 
 **Instance of:** [[Affordance]]
 

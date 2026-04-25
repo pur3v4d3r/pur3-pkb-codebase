@@ -33,17 +33,17 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Type-1 Processing]]"
-  - "[[Dual Process Theory]]"
-  - "[[Heuristics and Biases]]"
+  - "[[type-1-processing]]"
+  - "[[dual-process-theory]]"
+  - "[[heuristics-and-biases]]"
 prerequisites:
-  - "[[Type-1 Processing]]"
+  - "[[type-1-processing]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Dual Process Theory]]"
+  - "[[dual-process-theory]]"
 see-also:
-  - "[[Heuristics and Biases]]"
+  - "[[heuristics-and-biases]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -130,12 +130,12 @@ Cognitive Bias intersects with other related concepts like heuristics and dual p
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Type-1 Processing]]
+**Prerequisites:** [[type-1-processing]]
 
-**Generalizes to:** [[Dual Process Theory]]
+**Generalizes to:** [[dual-process-theory]]
 
-**Sibling concepts:** [[Heuristics and Biases]]
+**Sibling concepts:** [[heuristics-and-biases]]
 
 **Source:** [[cognitive-bias-synthetic-seed-2026-04-24]]

@@ -471,10 +471,10 @@ I have a series of permanent notes that have been extracted from reports but are
 # Enhancing Pre-Pipeline Note Generation with Local LLM
 
 I have a pipeline for extracting material from generated academic reports, and building/modifying permanent notes in my Obsidian PKB.
-Currently the pipeline in at V6.
-Where a local llm rerads a extracted JSON file and produces permanent notes based on this information.
+Currently the pipeline is at V6.
+Where a local llm reads a extracted JSON file and produces permanent notes based on this information.
 Ive had an Idea to make some of the JSON files that contian the adequete information to build permanent notes from.
-This is to increase the permanent notes , which will allow for better wiki-links and more of them per genbrated academic report.
+This is to increase the permanent notes , which will allow for better wiki-links and more of them per generated academic report.
 I need you to review the complete pipeline.
 Then plan out a workflow to create these JSON file without needeing the Academic Reports.
 
@@ -607,7 +607,7 @@ stress-and-learning
 
 # Concept Inventory and Gap Analysis
 
-This is a list of my permanent notes in obsidian, use this to come up with a set of 50 new permanent notes that are missing from this set of permanent notes, and can be created.
+This is a list of my permanent notes in obsidian, use this to come up with a set of 100 new permanent notes that are missing from this set of permanent notes, and can be created.
 List them like this for easy copy and paste ability
 
 ```markdown

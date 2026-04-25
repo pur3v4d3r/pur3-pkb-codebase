@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Heuristics and Biases]]"
-  - "[[Base-Rate Neglect]]"
+  - "[[heuristics-and-biases]]"
+  - "[[base-rate-neglect]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Heuristics and Biases]]"
+  - "[[heuristics-and-biases]]"
 contrasts-with:
-  - "[[Base-Rate Neglect]]"
+  - "[[base-rate-neglect]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Representativeness Heuristic
 
 > [!definition] **Representativeness Heuristic**
-> The Representativeness Heuristic is a cognitive shortcut where people judge the probability of an instance belonging to a category based on its similarity to prototypical features, often leading to systematic biases in judgment. It falls under [[Cognitive Architecture]], as it operates within the framework of how our minds process and make decisions quickly but sometimes inaccurately.
+> The Representativeness Heuristic is a cognitive shortcut where people judge the probability of an instance belonging to a category based on its similarity to prototypical features, often leading to systematic biases in judgment. It falls under [[cognitive-architecture]], as it operates within the framework of how our minds process and make decisions quickly but sometimes inaccurately.
 
 > [!attention] **Boundary**
 > This concept excludes other heuristics like availability heuristic and base-rate neglect, which are distinct but related cognitive shortcuts.
@@ -128,14 +128,14 @@ The Representativeness Heuristic operates by comparing an instance to a prototyp
 
 Understanding the Representativeness Heuristic is essential for cognitive science as it provides a framework for understanding how our minds process and make decisions quickly but inaccurately. This heuristic has significant implications across various fields, including psychology, law, marketing, and education. By recognizing its role in decision-making errors, we can develop strategies to mitigate these biases and improve overall judgment accuracy.
 
-The Representativeness Heuristic is part of a broader family of cognitive biases that fall under the domain of [[Heuristics and Biases]]. Its study contributes to our understanding of how statistical information is often ignored or misinterpreted in favor of more intuitive but less accurate judgments. This knowledge can be applied to improve decision-making processes, reduce errors, and enhance the reliability of judgments across different domains.
+The Representativeness Heuristic is part of a broader family of cognitive biases that fall under the domain of [[heuristics-and-biases]]. Its study contributes to our understanding of how statistical information is often ignored or misinterpreted in favor of more intuitive but less accurate judgments. This knowledge can be applied to improve decision-making processes, reduce errors, and enhance the reliability of judgments across different domains.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Heuristics and Biases]]
+**Sibling concepts:** [[heuristics-and-biases]]
 
-**Contrasts with:** [[Base-Rate Neglect]]
+**Contrasts with:** [[base-rate-neglect]]
 
 **Source:** [[representativeness-heuristic-synthetic-seed-2026-04-25]]

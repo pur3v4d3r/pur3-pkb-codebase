@@ -33,20 +33,20 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Introjected Regulation]]"
-  - "[[External Regulation]]"
-  - "[[Autonomous Motivation]]"
+  - "[[introjected-regulation]]"
+  - "[[external-regulation]]"
+  - "[[autonomous-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Introjected Regulation]]"
-  - "[[External Regulation]]"
+  - "[[introjected-regulation]]"
+  - "[[external-regulation]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Autonomous Motivation]]"
+  - "[[autonomous-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Controlled Motivation
 
 > [!definition] **Controlled Motivation**
-> Controlled motivation refers to the experience of pressure, whether external or internalized, which contrasts with autonomous motivation characterized by volition and self-endorsement. It falls under [[Self-Determination Theory]], where it includes both introjected regulation and external regulation, and is associated with poorer well-being outcomes compared to autonomous motivation.
+> Controlled motivation refers to the experience of pressure, whether external or internalized, which contrasts with autonomous motivation characterized by volition and self-endorsement. It falls under [[self-determination-theory]], where it includes both introjected regulation and external regulation, and is associated with poorer well-being outcomes compared to autonomous motivation.
 
 > [!attention] **Boundary**
 > This concept excludes experiences of volition and self-endorsement found in autonomous motivation. It is adjacent but distinct from introjected regulation within the continuum of regulatory styles.
@@ -137,10 +137,10 @@ The concept of controlled motivation also intersects with other related concepts
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Specializes:** [[Introjected Regulation]] · [[External Regulation]]
+**Specializes:** [[introjected-regulation]] · [[external-regulation]]
 
-**Contrasts with:** [[Autonomous Motivation]]
+**Contrasts with:** [[autonomous-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

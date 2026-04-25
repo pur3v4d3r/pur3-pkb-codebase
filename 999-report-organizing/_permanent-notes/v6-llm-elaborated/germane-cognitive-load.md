@@ -34,9 +34,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Intrinsic Cognitive Load]]"
-  - "[[Extraneous Cognitive Load]]"
-  - "[[Schema Construction]]"
+  - "[[intrinsic-cognitive-load]]"
+  - "[[extraneous-cognitive-load]]"
+  - "[[schema-construction]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,14 +44,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Cognitive Load]]"
-  - "[[Extraneous Cognitive Load]]"
+  - "[[intrinsic-cognitive-load]]"
+  - "[[extraneous-cognitive-load]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Schema Construction]]"
+  - "[[schema-construction]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Germane Cognitive Load
 
 > [!definition] **Germane Cognitive Load**
-> Germane cognitive load refers to the mental effort devoted to schema construction and automation, which is part of the total cognitive load in cognitive load theory. It falls under [[Cognitive Load Theory]], focusing on productive processing rather than intrinsic or extraneous loads.
+> Germane cognitive load refers to the mental effort devoted to schema construction and automation, which is part of the total cognitive load in cognitive load theory. It falls under [[cognitive-load-theory]], focusing on productive processing rather than intrinsic or extraneous loads.
 
 > [!attention] **Boundary**
 > It does not include intrinsic or extraneous loads but focuses on productive processing. It should not be confused with working memory capacity limits.
@@ -130,14 +130,14 @@ Germane cognitive load operates through a step-by-step process where learners en
 
 Understanding Germane cognitive load is crucial for educators and instructional designers as it provides a framework for optimizing learning environments. By focusing on productive processing, this concept helps learners construct robust schemas and automate skills, leading to more efficient and effective knowledge acquisition. The integration of Germane cognitive load into educational practices can significantly enhance learning outcomes, making it an essential component of modern pedagogical approaches.
 
-Germane cognitive load is deeply interconnected with other concepts in [[Cognitive Load Theory]], particularly schema construction and automation. Its role in promoting long-term retention and transfer of information underscores its importance across various domains such as education, training, and professional development.
+Germane cognitive load is deeply interconnected with other concepts in [[cognitive-load-theory]], particularly schema construction and automation. Its role in promoting long-term retention and transfer of information underscores its importance across various domains such as education, training, and professional development.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Sibling concepts:** [[Intrinsic Cognitive Load]] · [[Extraneous Cognitive Load]]
+**Sibling concepts:** [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]]
 
-**Applies to:** [[Schema Construction]]
+**Applies to:** [[schema-construction]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

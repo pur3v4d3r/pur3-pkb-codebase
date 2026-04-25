@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Supportive Information]]"
-  - "[[Schema Automation]]"
+  - "[[cognitive-load-theory]]"
+  - "[[supportive-information]]"
+  - "[[schema-automation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,9 +46,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contrasts-with:
-  - "[[Supportive Information]]"
+  - "[[supportive-information]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -58,7 +58,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Schema Automation]]"
+  - "[[schema-automation]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Procedural Information
 
 > [!definition] **Procedural Information**
-> Procedural information refers to step-by-step instructions, rules, and procedures that specify how to perform recurrent aspects of complex skills just-in-time during task execution. It falls under [[Instructional Design]], serving the schema automation mechanism by connecting to ACT-R knowledge compilation and automaticity literature.
+> Procedural information refers to step-by-step instructions, rules, and procedures that specify how to perform recurrent aspects of complex skills just-in-time during task execution. It falls under [[instructional-design]], serving the schema automation mechanism by connecting to ACT-R knowledge compilation and automaticity literature.
 
 > [!attention] **Boundary**
 > It does not include all step-by-step content or non-recurrent aspects of learning tasks. Procedural information is specifically for recurrent constituent skills and contrasts with the before-task-class timing of supportive information.
@@ -132,12 +132,12 @@ The concept of procedural information underscores the importance of carefully ti
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Sibling concepts:** [[Cognitive Load Theory]]
+**Sibling concepts:** [[cognitive-load-theory]]
 
-**Contrasts with:** [[Supportive Information]]
+**Contrasts with:** [[supportive-information]]
 
-**Supports:** [[Schema Automation]]
+**Supports:** [[schema-automation]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

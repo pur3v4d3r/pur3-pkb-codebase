@@ -1,0 +1,40 @@
+concept: Formal Logic
+domain: critical-thinking
+secondary_domains:
+- philosophy
+- mathematics
+aliases:
+- symbolic logic
+- deductive logic systems
+broader:
+- logic
+related:
+- non-classical-logic
+- deductive-reasoning
+- propositional-logic
+- predicate-logic
+- truth-tables
+prerequisites:
+- deductive-reasoning
+- deductive-logic
+confidence: high
+callouts:
+- type: definition
+  title: Formal Logic
+  body: Formal Logic is the systematic study of inference patterns whose validity
+    depends solely on the syntactic structure of the propositions involved rather
+    than on the empirical content, and it provides the canonical tools — propositional
+    calculus, predicate calculus, truth tables, natural deduction — used to evaluate
+    deductive arguments.
+- type: key-claim
+  title: Key claim about Formal Logic
+  body: Formal Logic separates the question of validity (does the conclusion follow
+    from the premises?) from the question of soundness (are the premises true?), which
+    is why a Formal Logic analysis can declare an argument valid even when it is empirically
+    absurd, and unsound even when its conclusion happens to be true.
+- type: warning
+  title: Common pitfall regarding Formal Logic
+  body: Formal Logic is necessary but not sufficient for everyday critical thinking;
+    many real arguments are inductive, abductive, or rely on background warrants that
+    Formal Logic does not represent, so treating Formal Logic as the universal tool
+    for argument evaluation produces a narrow and unhelpful understanding of reasoning.

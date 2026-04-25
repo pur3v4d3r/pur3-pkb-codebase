@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Pintrich's Framework of Self-Regulated Learning]]"
 prerequisites:
   - "[[]]"
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[Pintrich's Framework of Self-Regulated Learning]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Cyclical Model of Self-Regulated Learning
 
 > [!definition] **Cyclical Model of Self-Regulated Learning**
-> The Cyclical Model of Self-Regulated Learning is a three-phase framework proposed by Barry Zimmerman that describes the process of self-regulation through forethought (goal-setting and strategic planning), performance (self-control during action), and reaction and reflection (self-judgment and integration). It falls under [[Self-Regulated Learning]], emphasizing the cyclical nature of self-regulation, where each phase informs the next in a closed loop.
+> The Cyclical Model of Self-Regulated Learning is a three-phase framework proposed by Barry Zimmerman that describes the process of self-regulation through forethought (goal-setting and strategic planning), performance (self-control during action), and reaction and reflection (self-judgment and integration). It falls under [[self-regulated-learning]], emphasizing the cyclical nature of self-regulation, where each phase informs the next in a closed loop.
 
 > [!attention] **Boundary**
 > This model focuses on the cyclical nature of self-regulation and does not include other models or frameworks that do not emphasize this closed-loop structure.
@@ -129,9 +129,9 @@ The Cyclical Model of Self-Regulated Learning is crucial for understanding how l
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
 **Contrasts with:** [[Pintrich's Framework of Self-Regulated Learning]]
 

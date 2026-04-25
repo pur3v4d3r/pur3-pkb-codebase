@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Four Components of 4C/ID
 
 > [!definition] **Four Components of 4C/ID**
-> The Four Components of 4C/ID is a framework in instructional design that specifies four interrelated elements to support the development and integration of knowledge, skills, and attitudes for complex learning tasks. It falls under [[Cognitive Architecture]], focusing on the instructional environment rather than the cognitive processes themselves, as it does not cover the actual mental activities learners engage in during learning but rather what designers must provide to facilitate effective learning.
+> The Four Components of 4C/ID is a framework in instructional design that specifies four interrelated elements to support the development and integration of knowledge, skills, and attitudes for complex learning tasks. It falls under [[cognitive-architecture]], focusing on the instructional environment rather than the cognitive processes themselves, as it does not cover the actual mental activities learners engage in during learning but rather what designers must provide to facilitate effective learning.
 
 > [!attention] **Boundary**
 > This model focuses on the instructional environment rather than the cognitive processes themselves. It does not cover the actual mental activities learners engage in during learning but rather what designers must provide to facilitate effective learning.
@@ -136,10 +136,10 @@ The model's emphasis on whole-task experiences and just-in-time support makes it
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

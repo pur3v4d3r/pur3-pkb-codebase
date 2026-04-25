@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Epistemology"
 
 related:
-  - "[[Pragmatism]]"
+  - "[[pragmatism]]"
   - "[[Skepticism]]"
-  - "[[Intellectual Humility]]"
+  - "[[intellectual-humility]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,13 +42,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Pragmatism]]"
+  - "[[pragmatism]]"
 contrasts-with:
   - "[[Skepticism]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Intellectual Humility]]"
+  - "[[intellectual-humility]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -137,10 +137,10 @@ This concept also intersects with related epistemological ideas such as pragmati
 
 **Falls under:** [[Epistemology]]
 
-**Sibling concepts:** [[Pragmatism]]
+**Sibling concepts:** [[pragmatism]]
 
 **Contrasts with:** [[Skepticism]]
 
-**Applies to:** [[Intellectual Humility]]
+**Applies to:** [[intellectual-humility]]
 
 **Source:** [[fallibilism-synthetic-seed-2026-04-24]]

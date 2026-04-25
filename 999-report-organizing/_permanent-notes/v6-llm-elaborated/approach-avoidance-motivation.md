@@ -34,9 +34,9 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Performance Approach Goal]]"
-  - "[[Performance Avoidance Goal]]"
-  - "[[Regulatory Focus Theory]]"
+  - "[[performance-approach-goal]]"
+  - "[[performance-avoidance-goal]]"
+  - "[[regulatory-focus-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,14 +50,14 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Performance Approach Goal]]"
-  - "[[Performance Avoidance Goal]]"
+  - "[[performance-approach-goal]]"
+  - "[[performance-avoidance-goal]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Regulatory Focus Theory]]"
+  - "[[regulatory-focus-theory]]"
 refines:
   - "[[]]"
 
@@ -75,7 +75,7 @@ provenance:
 # Approach-Avoidance Motivation
 
 > [!definition] **Approach-Avoidance Motivation**
-> Approach-Avoidance Motivation refers to the theoretical distinction between motivational systems oriented towards desired end-states (approach) and those oriented away from undesired end-states (avoidance). It falls under [[Motivational Psychology]], instantiated in Gray's BAS/BIS, Elliot's achievement-goal valences, and Higgins's regulatory foci, each with distinct neural, affective, and behavioral signatures.
+> Approach-Avoidance Motivation refers to the theoretical distinction between motivational systems oriented towards desired end-states (approach) and those oriented away from undesired end-states (avoidance). It falls under [[motivational-psychology]], instantiated in Gray's BAS/BIS, Elliot's achievement-goal valences, and Higgins's regulatory foci, each with distinct neural, affective, and behavioral signatures.
 
 > [!attention] **Boundary**
 > This concept excludes specific instances of approach or avoidance behaviors but focuses on the broader motivational systems that drive these behaviors.
@@ -134,8 +134,8 @@ Moreover, this concept intersects with other key theories such as Regulatory Foc
 
 ## Connections & Context
 
-**Applies to:** [[Performance Approach Goal]] · [[Performance Avoidance Goal]]
+**Applies to:** [[performance-approach-goal]] · [[performance-avoidance-goal]]
 
-**Supports:** [[Regulatory Focus Theory]]
+**Supports:** [[regulatory-focus-theory]]
 
 **Source:** [[approach-avoidance-motivation-synthetic-seed-2026-04-25]]

@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Extrinsic Motivation]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
+  - "[[intrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -129,10 +129,10 @@ The Internalization Continuum also intersects with broader theories such as Goal
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Extrinsic Motivation]]
+**Sibling concepts:** [[extrinsic-motivation]]
 
-**Contrasts with:** [[Intrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

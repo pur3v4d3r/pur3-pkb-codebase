@@ -30,10 +30,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,7 +45,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -69,7 +69,7 @@ provenance:
 # Testing Effect
 
 > [!definition] **Testing Effect**
-> The Testing Effect is the empirical finding that retrieving information from memory — actively producing the answer — strengthens long-term retention more than restudying the same material for an equal amount of time. It falls under [[Self-Regulated Learning]], where it serves as a powerful tool for enhancing learning efficiency and effectiveness.
+> The Testing Effect is the empirical finding that retrieving information from memory — actively producing the answer — strengthens long-term retention more than restudying the same material for an equal amount of time. It falls under [[self-regulated-learning]], where it serves as a powerful tool for enhancing learning efficiency and effectiveness.
 
 > [!attention] **Boundary**
 > This concept excludes high-stakes testing as a learning intervention and focuses on low-stakes self-testing as a study strategy.
@@ -128,10 +128,10 @@ Moreover, the Testing Effect connects to broader concepts in cognitive science, 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[testing-effect-synthetic-seed-2026-04-24]]

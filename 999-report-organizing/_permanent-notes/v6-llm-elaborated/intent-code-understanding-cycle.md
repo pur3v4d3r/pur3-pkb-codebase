@@ -34,8 +34,8 @@ depth-level: elaborated
 parent-concept: "Learning Through Technology"
 
 related:
-  - "[[Active Learning]]"
-  - "[[Worked Examples]]"
+  - "[[active-learning]]"
+  - "[[worked-examples]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Active Learning]]"
+  - "[[active-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -131,8 +131,8 @@ The cycle's importance extends beyond individual development practices; it has i
 
 **Falls under:** [[Learning Through Technology]]
 
-**Sibling concepts:** [[Active Learning]]
+**Sibling concepts:** [[active-learning]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[python-development-in-vscode-with-copilot-annotated-critical-analysis-2026-04-19]]

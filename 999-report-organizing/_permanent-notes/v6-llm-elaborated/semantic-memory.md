@@ -33,25 +33,25 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Declarative Memory]]"
-  - "[[Episodic Memory]]"
-  - "[[Procedural Memory]]"
-  - "[[Spreading Activation]]"
+  - "[[declarative-memory]]"
+  - "[[episodic-memory]]"
+  - "[[procedural-memory]]"
+  - "[[spreading-activation]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Declarative Memory]]"
+  - "[[declarative-memory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Episodic Memory]]"
-  - "[[Procedural Memory]]"
+  - "[[episodic-memory]]"
+  - "[[procedural-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Spreading Activation]]"
+  - "[[spreading-activation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Semantic Memory
 
 > [!definition] **Semantic Memory**
-> Semantic Memory is the long-term store of context-free general knowledge — facts, concepts, word meanings, and category structure — that can be accessed without recollection of how or when it was learned, distinguished by Tulving from the autobiographical contents of episodic memory. It falls under [[Cognitive Architecture]].
+> Semantic Memory is the long-term store of context-free general knowledge — facts, concepts, word meanings, and category structure — that can be accessed without recollection of how or when it was learned, distinguished by Tulving from the autobiographical contents of episodic memory. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It excludes episodic memory, which involves specific events and experiences with a temporal and spatial context. Semantic Memory is also distinct from procedural memory, which pertains to skills and actions.
@@ -131,12 +131,12 @@ Semantic Memory's broader implications also touch on the study of language acqui
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Declarative Memory]]
+**Generalizes to:** [[declarative-memory]]
 
-**Contrasts with:** [[Episodic Memory]] · [[Procedural Memory]]
+**Contrasts with:** [[episodic-memory]] · [[procedural-memory]]
 
-**Applies to:** [[Spreading Activation]]
+**Applies to:** [[spreading-activation]]
 
 **Source:** [[semantic-memory-synthetic-seed-2026-04-24]]

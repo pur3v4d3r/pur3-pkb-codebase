@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Memory Systems"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Multi-Store Model
 
 > [!definition] **Multi-Store Model**
-> The Multi-Store Model, proposed by Atkinson and Shiffrin (1968), partitions human memory into three sequential stores: sensory register, short-term store, and long-term store, connected by control processes such as attention, rehearsal, and retrieval. It falls under [[Memory Systems]], with the central commitment that information must pass through a limited-capacity short-term stage to enter long-term storage, making it an influential historical scaffold for subsequent theories like working memory.
+> The Multi-Store Model, proposed by Atkinson and Shiffrin (1968), partitions human memory into three sequential stores: sensory register, short-term store, and long-term store, connected by control processes such as attention, rehearsal, and retrieval. It falls under [[memory-systems]], with the central commitment that information must pass through a limited-capacity short-term stage to enter long-term storage, making it an influential historical scaffold for subsequent theories like working memory.
 
 > [!attention] **Boundary**
 > This model excludes modern theories that suggest bidirectional influences between short-term and long-term memory or the role of working memory in processing information.
@@ -129,10 +129,10 @@ The Multi-Store Model's legacy is evident in how it paved the way for more sophi
 
 ## Connections & Context
 
-**Falls under:** [[Memory Systems]]
+**Falls under:** [[memory-systems]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Cognitive Load Theory]]
+**Applies to:** [[cognitive-load-theory]]
 
 **Source:** [[multi-store-model-synthetic-seed-2026-04-24]]

@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Self-Directed Learning"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Self-Determination Theory]]"
+  - "[[intrinsic-motivation]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,7 +47,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -57,7 +57,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -75,7 +75,7 @@ provenance:
 # Autonomy in Self-Directed Learning
 
 > [!definition] **Autonomy in Self-Directed Learning**
-> Autonomy in self-directed learning refers to the experience of volition and self-endorsement in one's actions, driving persistence, deeper cognitive processing, creative problem-solving, and effective transfer of knowledge. It falls under [[Self-Directed Learning]], where learners feel their choices are meaningful and aligned with their values, fostering a sense of ownership rather than mere independence.
+> Autonomy in self-directed learning refers to the experience of volition and self-endorsement in one's actions, driving persistence, deeper cognitive processing, creative problem-solving, and effective transfer of knowledge. It falls under [[self-directed-learning]], where learners feel their choices are meaningful and aligned with their values, fostering a sense of ownership rather than mere independence.
 
 > [!attention] **Boundary**
 > This concept focuses on autonomy as a motivational driver for self-directed learning. It does not encompass other motivational theories or specific teaching techniques.
@@ -135,10 +135,10 @@ By integrating insights from Self-Determination Theory, educators can design ins
 
 ## Connections & Context
 
-**Falls under:** [[Self-Directed Learning]]
+**Falls under:** [[self-directed-learning]]
 
-**Contrasts with:** [[Intrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]

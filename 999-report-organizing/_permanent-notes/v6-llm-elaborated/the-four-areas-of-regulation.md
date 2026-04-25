@@ -36,16 +36,16 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Goal-Orientation]]"
-  - "[[Metacognition]]"
+  - "[[goal-orientation]]"
+  - "[[metacognition]]"
 prerequisites:
-  - "[[Goal-Orientation]]"
+  - "[[goal-orientation]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # The Four Areas of Regulation
 
 > [!definition] **The Four Areas of Regulation**
-> The Four Areas of Regulation are a model that categorizes self-regulated learning into cognition, motivation and affect, behavior, and context. Each area represents distinct yet interconnected aspects of how learners manage their own learning processes, falling under [[Self-Regulated Learning]].
+> The Four Areas of Regulation are a model that categorizes self-regulated learning into cognition, motivation and affect, behavior, and context. Each area represents distinct yet interconnected aspects of how learners manage their own learning processes, falling under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This framework does not include specific instructional strategies or detailed psychological theories but rather provides an overarching structure for understanding self-regulation in learning.
@@ -131,10 +131,10 @@ Furthermore, this framework has implications for broader educational psychology 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Goal-Orientation]]
+**Prerequisites:** [[goal-orientation]]
 
-**Sibling concepts:** [[Metacognition]]
+**Sibling concepts:** [[metacognition]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

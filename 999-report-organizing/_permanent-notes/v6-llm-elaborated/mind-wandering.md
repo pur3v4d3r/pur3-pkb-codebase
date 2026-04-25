@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Flexibility]]"
+  - "[[working-memory]]"
+  - "[[cognitive-flexibility]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Flexibility]]"
+  - "[[cognitive-flexibility]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Mind Wandering
 
 > [!definition] **Mind Wandering**
-> Mind wandering refers to the spontaneous shift of attention from an ongoing task to internally generated, task-unrelated thoughts without explicit decision or awareness at onset. It falls under [[Cognitive Architecture]], as it involves shifts in cognitive focus that can impact performance and creativity.
+> Mind wandering refers to the spontaneous shift of attention from an ongoing task to internally generated, task-unrelated thoughts without explicit decision or awareness at onset. It falls under [[cognitive-architecture]], as it involves shifts in cognitive focus that can impact performance and creativity.
 
 > [!attention] **Boundary**
 > It excludes deliberate daydreaming and is distinct from other states like boredom or mindless repetition.
@@ -128,10 +128,10 @@ The concept of mind wandering bridges the gap between theoretical models of cogn
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Cognitive Flexibility]]
+**Sibling concepts:** [[cognitive-flexibility]]
 
 **Source:** [[mind-wandering-synthetic-seed-2026-04-25]]

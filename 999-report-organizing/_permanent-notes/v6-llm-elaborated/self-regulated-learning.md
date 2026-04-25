@@ -37,10 +37,10 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Metacognition]]"
-  - "[[Self-Directed Learning]]"
+  - "[[metacognition]]"
+  - "[[self-directed-learning]]"
 prerequisites:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Directed Learning]]"
+  - "[[self-directed-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # Self-Regulated Learning
 
 > [!definition] **Self-Regulated Learning**
-> Self-regulated learning (SRL) refers to the degree to which learners are metacognitively, motivationally, and behaviorally active participants in their own learning process. Unlike self-directed learning (SDL), SRL operates within the bounds of a given learning task, addressing how the learner manages their cognition, motivation, and behavior to achieve an externally assigned goal. It falls under [[Self-Directed Learning]], where it provides the internal regulatory mechanisms that SDL requires for learners to function autonomously.
+> Self-regulated learning (SRL) refers to the degree to which learners are metacognitively, motivationally, and behaviorally active participants in their own learning process. Unlike self-directed learning (SDL), SRL operates within the bounds of a given learning task, addressing how the learner manages their cognition, motivation, and behavior to achieve an externally assigned goal. It falls under [[self-directed-learning]], where it provides the internal regulatory mechanisms that SDL requires for learners to function autonomously.
 
 > [!attention] **Boundary**
 > It operates within the bounds of a given learning task, addressing how the learner manages their cognition, motivation, and behavior to achieve an externally assigned goal. It is distinct from self-directed learning, which involves setting one's own goals and agendas.
@@ -134,12 +134,12 @@ Barry Zimmerman's cyclical model of SRL provides a detailed framework for unders
 
 Self-regulated learning is crucial for lifelong and self-directed learning because it equips learners with the internal regulatory mechanisms necessary to manage their own learning processes effectively. By fostering metacognitive, motivational, and behavioral competencies, SRL prepares students not only for academic success but also for personal growth and adaptability in an ever-changing world.
 
-SRL falls under [[Self-Directed Learning]], where it provides foundational capacities that enable learners to take control of their learning agendas. Understanding the nuances of SRL helps educators design curricula that support both internal regulation and external autonomy, ultimately promoting self-determination and lifelong learning.
+SRL falls under [[self-directed-learning]], where it provides foundational capacities that enable learners to take control of their learning agendas. Understanding the nuances of SRL helps educators design curricula that support both internal regulation and external autonomy, ultimately promoting self-determination and lifelong learning.
 
 ## Connections & Context
 
-**Prerequisites:** [[Metacognition]]
+**Prerequisites:** [[metacognition]]
 
-**Contrasts with:** [[Self-Directed Learning]]
+**Contrasts with:** [[self-directed-learning]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

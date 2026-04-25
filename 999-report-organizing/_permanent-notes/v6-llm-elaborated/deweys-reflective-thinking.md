@@ -34,8 +34,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Critical Thinking]]"
-  - "[[Problem-Based Learning]]"
+  - "[[critical-thinking]]"
+  - "[[problem-based-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Critical Thinking]]"
+  - "[[critical-thinking]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Problem-Based Learning]]"
+  - "[[problem-based-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Dewey's Reflective Thinking
 
 > [!definition] **Dewey's Reflective Thinking**
-> Dewey's Reflective Thinking is a model of disciplined inquiry developed by John Dewey, emphasizing the active resolution of difficulties through phases of problem-definition, hypothesis-generation, reasoning-out consequences, and empirical testing. It falls under [[Cognitive Psychology]], as it integrates cognitive processes with educational practices to foster critical thinking and reflective practice.
+> Dewey's Reflective Thinking is a model of disciplined inquiry developed by John Dewey, emphasizing the active resolution of difficulties through phases of problem-definition, hypothesis-generation, reasoning-out consequences, and empirical testing. It falls under [[cognitive-psychology]], as it integrates cognitive processes with educational practices to foster critical thinking and reflective practice.
 
 > [!attention] **Boundary**
 > This concept excludes unstructured or impulsive thinking processes that do not follow the phasic structure of inquiry described by Dewey. It should not be confused with other models of critical thinking that may lack the emphasis on experiential testing and disciplined inquiry.
@@ -127,10 +127,10 @@ Dewey's Reflective Thinking is a foundational concept that bridges the gap betwe
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Sibling concepts:** [[Critical Thinking]]
+**Sibling concepts:** [[critical-thinking]]
 
-**Applies to:** [[Problem-Based Learning]]
+**Applies to:** [[problem-based-learning]]
 
 **Source:** [[deweys-reflective-thinking-synthetic-seed-2026-04-24]]

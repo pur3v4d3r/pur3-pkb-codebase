@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Situational Interest]]"
-  - "[[Expertise Development]]"
+  - "[[intrinsic-motivation]]"
+  - "[[situational-interest]]"
+  - "[[expertise-development]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,12 +44,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
-  - "[[Situational Interest]]"
+  - "[[intrinsic-motivation]]"
+  - "[[situational-interest]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Expertise Development]]"
+  - "[[expertise-development]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Individual Interest
 
 > [!definition] **Individual Interest**
-> Individual Interest is a stable, well-developed phase of interest that persists over time within a specific domain, characterized by accumulated knowledge, value, and positive affect. It falls under [[Motivational Psychology]], contrasting with situational interest which is more transient and context-dependent.
+> Individual Interest is a stable, well-developed phase of interest that persists over time within a specific domain, characterized by accumulated knowledge, value, and positive affect. It falls under [[motivational-psychology]], contrasting with situational interest which is more transient and context-dependent.
 
 > [!attention] **Boundary**
 > It contrasts with situational interest, which is more transient and context-dependent. Individual Interest should not be confused with intrinsic motivation or expertise development.
@@ -136,10 +136,10 @@ The concept of Individual Interest also intersects with other areas such as intr
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Contrasts with:** [[Intrinsic Motivation]] · [[Situational Interest]]
+**Contrasts with:** [[intrinsic-motivation]] · [[situational-interest]]
 
-**Applies to:** [[Expertise Development]]
+**Applies to:** [[expertise-development]]
 
 **Source:** [[individual-interest-synthetic-seed-2026-04-25]]

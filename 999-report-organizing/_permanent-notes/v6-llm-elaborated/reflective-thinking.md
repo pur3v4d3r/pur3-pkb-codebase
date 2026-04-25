@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Critical Thinking]]"
+  - "[[critical-thinking]]"
   - "[[Reflective Practice]]"
-  - "[[Double-Loop Learning]]"
+  - "[[double-loop-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,14 +43,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Critical Thinking]]"
+  - "[[critical-thinking]]"
   - "[[Reflective Practice]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Double-Loop Learning]]"
+  - "[[double-loop-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Reflective Thinking
 
 > [!definition] **Reflective Thinking**
-> Reflective Thinking involves the active, persistent, and careful consideration of beliefs or knowledge in light of supporting grounds and further conclusions, distinguishing it from impulsive belief-formation and routine cognition by its disciplined, evidence-engaging character. It falls under [[Critical Thinking]].
+> Reflective Thinking involves the active, persistent, and careful consideration of beliefs or knowledge in light of supporting grounds and further conclusions, distinguishing it from impulsive belief-formation and routine cognition by its disciplined, evidence-engaging character. It falls under [[critical-thinking]].
 
 > [!attention] **Boundary**
 > This concept excludes impulsive thinking and habitual cognition. It is distinguished by its disciplined, evidence-engaging character.
@@ -133,10 +133,10 @@ Reflective Thinking's broader implications extend beyond education into fields s
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Sibling concepts:** [[Critical Thinking]] · [[Reflective Practice]]
+**Sibling concepts:** [[critical-thinking]] · [[Reflective Practice]]
 
-**Applies to:** [[Double-Loop Learning]]
+**Applies to:** [[double-loop-learning]]
 
 **Source:** [[reflective-thinking-synthetic-seed-2026-04-24]]

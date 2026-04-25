@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Overconfidence-Bias]]"
-  - "[[Confirmation-Bias]]"
+  - "[[overconfidence-bias]]"
+  - "[[confirmation-bias]]"
   - "[[Narrative-Fallacy]]"
-  - "[[Source-Monitoring]]"
+  - "[[source-monitoring]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,13 +46,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Overconfidence-Bias]]"
-  - "[[Confirmation-Bias]]"
+  - "[[overconfidence-bias]]"
+  - "[[confirmation-bias]]"
   - "[[Narrative-Fallacy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Source-Monitoring]]"
+  - "[[source-monitoring]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Hindsight Bias
 
 > [!definition] **Hindsight Bias**
-> Hindsight Bias refers to the tendency to overestimate how predictable an outcome was after it has occurred, often leading to misremembering one's prior confidence in that outcome. It falls under [[Cognitive Architecture]], where it distorts the perception of past predictions by reshaping perceived probabilities based on known outcomes.
+> Hindsight Bias refers to the tendency to overestimate how predictable an outcome was after it has occurred, often leading to misremembering one's prior confidence in that outcome. It falls under [[cognitive-architecture]], where it distorts the perception of past predictions by reshaping perceived probabilities based on known outcomes.
 
 > [!attention] **Boundary**
 > This concept excludes memory failures and focuses on the systematic reconstruction of perceived probabilities based on known outcomes. It should not be confused with other biases like overconfidence or confirmation bias.
@@ -135,10 +135,10 @@ The distinction between Hindsight Bias and related cognitive biases like overcon
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Overconfidence-Bias]] · [[Confirmation-Bias]] · [[Narrative-Fallacy]]
+**Contrasts with:** [[overconfidence-bias]] · [[confirmation-bias]] · [[Narrative-Fallacy]]
 
-**Applies to:** [[Source-Monitoring]]
+**Applies to:** [[source-monitoring]]
 
 **Source:** [[hindsight-bias-synthetic-seed-2026-04-25]]

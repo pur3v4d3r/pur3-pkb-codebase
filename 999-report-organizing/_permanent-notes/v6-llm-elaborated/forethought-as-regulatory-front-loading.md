@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Forethought as Regulatory Front-Loading
 
 > [!definition] **Forethought as Regulatory Front-Loading**
-> Forethought as Regulatory Front-Loading refers to the strategic placement of regulatory activities such as goal setting and strategy selection at the beginning of a task or learning process, rather than during execution when they become more costly. It falls under [[Self-Regulated Learning]], where it is distinct from motivational regulation strategies that occur throughout the learning process but focuses specifically on the preparatory phase.
+> Forethought as Regulatory Front-Loading refers to the strategic placement of regulatory activities such as goal setting and strategy selection at the beginning of a task or learning process, rather than during execution when they become more costly. It falls under [[self-regulated-learning]], where it is distinct from motivational regulation strategies that occur throughout the learning process but focuses specifically on the preparatory phase.
 
 > [!attention] **Boundary**
 > This concept excludes the performance phase where monitoring and control are actively engaged. It is distinct from motivational regulation strategies that occur throughout the learning process but focuses specifically on the preparatory phase.
@@ -134,10 +134,10 @@ This concept also has broader implications for project management and other fiel
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

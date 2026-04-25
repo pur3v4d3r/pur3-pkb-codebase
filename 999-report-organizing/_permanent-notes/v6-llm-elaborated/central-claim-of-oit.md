@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Central Claim of OIT
 
 > [!definition] **Central Claim of OIT**
-> The central claim of Overlapping Integrative Theory (OIT) posits that extrinsic regulatory styles are qualitatively distinct architectures of regulation, not a gradient of internalization. This concept excludes the idea of a linear progression in internalization and focuses on the functional differences between external regulation, introjection, identification, and integration. It falls under [[Self-Determination Theory]].
+> The central claim of Overlapping Integrative Theory (OIT) posits that extrinsic regulatory styles are qualitatively distinct architectures of regulation, not a gradient of internalization. This concept excludes the idea of a linear progression in internalization and focuses on the functional differences between external regulation, introjection, identification, and integration. It falls under [[self-determination-theory]].
 
 ## Core Explanation
 
@@ -126,8 +126,8 @@ The practical implications of OIT extend beyond education into various domains i
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Contrasts with:** [[Intrinsic Motivation]] · [[Extrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]] · [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

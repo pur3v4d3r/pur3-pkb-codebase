@@ -40,7 +40,7 @@ parent-concept: "Metacognition"
 related:
   - "[[Judgment of Learning (JOL)]]"
   - "[[Feeling of Knowing (FOK)]]"
-  - "[[Calibration]]"
+  - "[[calibration]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -55,7 +55,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Calibration]]"
+  - "[[calibration]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -79,7 +79,7 @@ provenance:
 # Ease-of-Learning Judgment
 
 > [!definition] **Ease-of-Learning Judgment**
-> Ease-of-Learning judgments are prospective metacognitive assessments made before the acquisition of material, reflecting the meta-level's prediction about how easy or difficult the material will be to learn. These judgments are based on prior knowledge and surface features rather than direct experience with the current material, making them particularly susceptible to heuristic biases. It falls under [[Metacognition]].
+> Ease-of-Learning judgments are prospective metacognitive assessments made before the acquisition of material, reflecting the meta-level's prediction about how easy or difficult the material will be to learn. These judgments are based on prior knowledge and surface features rather than direct experience with the current material, making them particularly susceptible to heuristic biases. It falls under [[metacognition]].
 
 > [!attention] **Boundary**
 > EOL judgments are distinct from judgments of learning (JOLs), which are made during or after study rather than before it. They are based on prior knowledge and surface features rather than direct experience with the current material, making them particularly susceptible to heuristic biases.
@@ -138,10 +138,10 @@ The concept of EOL judgments intersects with other metacognitive processes like 
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
 **Contrasts with:** [[Judgment of Learning (JOL)]] · [[Feeling of Knowing (FOK)]]
 
-**Applies to:** [[Calibration]]
+**Applies to:** [[calibration]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]

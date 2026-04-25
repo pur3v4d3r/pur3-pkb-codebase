@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Paul-Elder Critical Thinking Framework]]"
+  - "[[paul-elder-critical-thinking-framework]]"
   - "[[Socratic Questioning]]"
 prerequisites:
   - "[[]]"
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Paul-Elder Critical Thinking Framework]]"
+  - "[[paul-elder-critical-thinking-framework]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -71,7 +71,7 @@ provenance:
 # Intellectual Standards
 
 > [!definition] **Intellectual Standards**
-> Intellectual Standards are criteria — clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness — that thought must satisfy to be considered well-reasoned, providing the evaluative vocabulary by which thinking is assessed and improved. It falls under [[Critical Thinking]].
+> Intellectual Standards are criteria — clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness — that thought must satisfy to be considered well-reasoned, providing the evaluative vocabulary by which thinking is assessed and improved. It falls under [[critical-thinking]].
 
 > [!attention] **Boundary**
 > This concept excludes specific examples of reasoning but includes the evaluative vocabulary used in critical thinking.
@@ -127,9 +127,9 @@ Their integration into broader critical thinking frameworks like the Paul-Elder 
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Sibling concepts:** [[Paul-Elder Critical Thinking Framework]]
+**Sibling concepts:** [[paul-elder-critical-thinking-framework]]
 
 **Applies to:** [[Socratic Questioning]]
 

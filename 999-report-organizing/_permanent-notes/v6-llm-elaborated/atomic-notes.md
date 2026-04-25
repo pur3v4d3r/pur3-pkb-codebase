@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Knowledge Management"
 
 related:
-  - "[[Evergreen Notes]]"
-  - "[[Worked Examples]]"
+  - "[[evergreen-notes]]"
+  - "[[worked-examples]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Evergreen Notes]]"
+  - "[[evergreen-notes]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,8 +133,8 @@ The broader implications extend beyond individual note-taking practices to influ
 
 **Falls under:** [[Knowledge Management]]
 
-**Contrasts with:** [[Evergreen Notes]]
+**Contrasts with:** [[evergreen-notes]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[atomic-notes-synthetic-seed-2026-04-25]]

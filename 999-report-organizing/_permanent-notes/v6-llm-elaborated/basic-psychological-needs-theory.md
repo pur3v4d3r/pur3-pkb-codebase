@@ -34,13 +34,13 @@ parent-concept: "Self-Determination Theory"
 
 related:
   - "[[Autonomy-Self Determination Theory]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[Autonomy-Self Determination Theory]]"
 broader:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -132,10 +132,10 @@ The theory's applications extend beyond individual well-being to broader societa
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
 **Specializes:** [[Autonomy-Self Determination Theory]]
 
-**Generalizes to:** [[Self-Determination Theory]]
+**Generalizes to:** [[self-determination-theory]]
 
 **Source:** [[basic-psychological-needs-theory-synthetic-seed-2026-04-24]]

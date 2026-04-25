@@ -33,14 +33,14 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Dual-Process Theory]]"
-  - "[[Bounded Rationality]]"
+  - "[[dual-process-theory]]"
+  - "[[bounded-rationality]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Bounded Rationality]]"
+  - "[[bounded-rationality]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -129,10 +129,10 @@ The ongoing research into Heuristics and Biases continues to refine our understa
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Dual-Process Theory]]
+**Generalizes to:** [[dual-process-theory]]
 
-**Applies to:** [[Bounded Rationality]]
+**Applies to:** [[bounded-rationality]]
 
 **Source:** [[heuristics-and-biases-synthetic-seed-2026-04-24]]

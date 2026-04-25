@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Causal Attribution"
 
 related:
-  - "[[Locus of Control]]"
-  - "[[Controllability Dimension]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Implicit Theories of Intelligence]]"
+  - "[[locus-of-control]]"
+  - "[[controllability-dimension]]"
+  - "[[self-efficacy-theory]]"
+  - "[[implicit-theories-of-intelligence]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,15 +46,15 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Locus of Control]]"
-  - "[[Controllability Dimension]]"
+  - "[[locus-of-control]]"
+  - "[[controllability-dimension]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Implicit Theories of Intelligence]]"
+  - "[[self-efficacy-theory]]"
+  - "[[implicit-theories-of-intelligence]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Stability Dimension
 
 > [!definition] **Stability Dimension**
-> The Stability Dimension classifies causes as enduring (stable) or temporary (unstable), influencing future expectancy through the perceived persistence of outcomes. It falls under [[Causal Attribution]], where stable causes produce expectations that similar outcomes will recur, while unstable causes leave room for different outcomes in the future.
+> The Stability Dimension classifies causes as enduring (stable) or temporary (unstable), influencing future expectancy through the perceived persistence of outcomes. It falls under [[causal-attribution]], where stable causes produce expectations that similar outcomes will recur, while unstable causes leave room for different outcomes in the future.
 
 > [!attention] **Boundary**
 > This dimension focuses on the temporal stability of causal attributions, excluding other dimensions like locus and controllability which are part of Weiner's three-dimensional taxonomy.
@@ -138,10 +138,10 @@ The Stability Dimension is crucial for understanding how causal attributions sha
 
 ## Connections & Context
 
-**Falls under:** [[Causal Attribution]]
+**Falls under:** [[causal-attribution]]
 
-**Sibling concepts:** [[Locus of Control]] · [[Controllability Dimension]]
+**Sibling concepts:** [[locus-of-control]] · [[controllability-dimension]]
 
-**Applies to:** [[Self-Efficacy Theory]] · [[Implicit Theories of Intelligence]]
+**Applies to:** [[self-efficacy-theory]] · [[implicit-theories-of-intelligence]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

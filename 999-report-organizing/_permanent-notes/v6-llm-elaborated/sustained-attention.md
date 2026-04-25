@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Working Memory]]"
-  - "[[Selective Attention]]"
+  - "[[working-memory]]"
+  - "[[selective-attention]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Selective Attention]]"
+  - "[[selective-attention]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Sustained Attention
 
 > [!definition] **Sustained Attention**
-> Sustained Attention refers to the capacity to maintain alert focus on a non-stimulating task or signal stream over extended intervals, typically measured by vigilance paradigms such as the Mackworth Clock or continuous performance tests, and is characterized by a reliable performance decrement as a function of time on task. It falls under [[Working Memory]], building upon its capacity for maintaining information over short periods.
+> Sustained Attention refers to the capacity to maintain alert focus on a non-stimulating task or signal stream over extended intervals, typically measured by vigilance paradigms such as the Mackworth Clock or continuous performance tests, and is characterized by a reliable performance decrement as a function of time on task. It falls under [[working-memory]], building upon its capacity for maintaining information over short periods.
 
 > [!attention] **Boundary**
 > This concept excludes passive states and is distinct from selective attention. Sustained Attention involves an effortful self-regulated process that can show a decrement curve reflecting mental fatigue and habituation over time.
@@ -131,8 +131,8 @@ The concept of sustained attention also intersects with working memory, highligh
 
 ## Connections & Context
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Selective Attention]]
+**Contrasts with:** [[selective-attention]]
 
 **Source:** [[sustained-attention-synthetic-seed-2026-04-25]]

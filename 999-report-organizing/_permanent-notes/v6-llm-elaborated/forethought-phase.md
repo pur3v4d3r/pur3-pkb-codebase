@@ -2,6 +2,7 @@
 title: "Forethought Phase"
 aliases:
   - "Forethought Phase"
+  - "Forethought-Phase"
   - "Pintrich Self-Regulation"
   - "Pintrich SRL Framework"
   - "Pintrich 4x4 Model"
@@ -36,10 +37,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Goal-Setting]]"
+  - "[[goal-setting]]"
   - "[[Task Analysis]]"
   - "[[Strategic Planning]]"
-  - "[[Motivational Regulation]]"
+  - "[[motivational-regulation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,7 +48,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Goal-Setting]]"
+  - "[[goal-setting]]"
   - "[[Task Analysis]]"
   - "[[Strategic Planning]]"
 contrasts-with:
@@ -55,7 +56,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Motivational Regulation]]"
+  - "[[motivational-regulation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -79,7 +80,7 @@ provenance:
 # Forethought Phase
 
 > [!definition] **Forethought Phase**
-> The Forethought Phase is the regulatory phase preceding actual performance, where learners set goals, analyze tasks, select strategies, activate motivational beliefs (especially task-value), plan effort and time allocation, and arrange their environment. It falls under [[Self-Regulated Learning]], as it involves setting up conditions for effective monitoring and control during subsequent phases of learning.
+> The Forethought Phase is the regulatory phase preceding actual performance, where learners set goals, analyze tasks, select strategies, activate motivational beliefs (especially task-value), plan effort and time allocation, and arrange their environment. It falls under [[self-regulated-learning]], as it involves setting up conditions for effective monitoring and control during subsequent phases of learning.
 
 > [!attention] **Boundary**
 > This phase stops at the point when performance begins. It does not include the execution of these plans during performance itself.
@@ -139,10 +140,10 @@ Understanding the Forethought Phase is particularly important for educators, par
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Goal-Setting]] · [[Task Analysis]] · [[Strategic Planning]]
+**Sibling concepts:** [[goal-setting]] · [[Task Analysis]] · [[Strategic Planning]]
 
-**Applies to:** [[Motivational Regulation]]
+**Applies to:** [[motivational-regulation]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

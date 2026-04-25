@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Illusion of Knowing
 
 > [!definition] **Illusion of Knowing**
-> The Illusion of Knowing is a cognitive phenomenon where learners overestimate their understanding or recall of material due to ease-of-processing cues such as familiarity and fluency, rather than actual comprehension. It falls under [[Cognitive Architecture]], highlighting the misalignment between perceived confidence and true knowledge.
+> The Illusion of Knowing is a cognitive phenomenon where learners overestimate their understanding or recall of material due to ease-of-processing cues such as familiarity and fluency, rather than actual comprehension. It falls under [[cognitive-architecture]], highlighting the misalignment between perceived confidence and true knowledge.
 
 > [!attention] **Boundary**
 > This concept excludes other biases in judgment and focuses specifically on the misalignment between perceived confidence and actual knowledge.
@@ -130,10 +130,10 @@ The Illusion of Knowing also has broader implications across cognitive science a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[illusion-of-knowing-synthetic-seed-2026-04-25]]

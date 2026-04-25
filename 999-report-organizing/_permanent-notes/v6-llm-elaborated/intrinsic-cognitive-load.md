@@ -36,23 +36,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Element Interactivity]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[element-interactivity]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Element Interactivity]]"
+  - "[[element-interactivity]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Intrinsic Cognitive Load
 
 > [!definition] **Intrinsic Cognitive Load**
-> Intrinsic cognitive load is the working memory demand imposed by the inherent complexity of the material to be learned, determined by the number of information elements that must be processed simultaneously and their degree of interaction. It falls under [[Cognitive Architecture]], as it pertains to how the brain processes complex information, and cannot be altered by changing instructional format or presentation method but can only be modified through changes in what is taught or in the learner's existing knowledge base.
+> Intrinsic cognitive load is the working memory demand imposed by the inherent complexity of the material to be learned, determined by the number of information elements that must be processed simultaneously and their degree of interaction. It falls under [[cognitive-architecture]], as it pertains to how the brain processes complex information, and cannot be altered by changing instructional format or presentation method but can only be modified through changes in what is taught or in the learner's existing knowledge base.
 
 > [!attention] **Boundary**
 > It cannot be altered by changing instructional format or presentation method but can only be modified through changes in what is taught or in the learner's existing knowledge base.
@@ -135,12 +135,12 @@ The implications of intrinsic cognitive load extend beyond education into fields
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Element Interactivity]]
+**Sibling concepts:** [[element-interactivity]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

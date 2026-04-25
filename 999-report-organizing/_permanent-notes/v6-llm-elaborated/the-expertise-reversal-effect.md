@@ -37,8 +37,8 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Intrinsic vs Extraneous Load]]"
-  - "[[Scaffolding]]"
-  - "[[Worked Examples]]"
+  - "[[scaffolding]]"
+  - "[[worked-examples]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,11 +48,11 @@ broader:
 see-also:
   - "[[Intrinsic vs Extraneous Load]]"
 contrasts-with:
-  - "[[Scaffolding]]"
+  - "[[scaffolding]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Expertise Reversal Effect
 
 > [!definition] **Expertise Reversal Effect**
-> The Expertise Reversal Effect is the phenomenon where instructional techniques that are effective for novices can become ineffective or even counterproductive for more knowledgeable learners, due to redundancy of support that was previously necessary. It falls under [[Cognitive Architecture]], as it pertains to how schemas develop and interact with instructional methods.
+> The Expertise Reversal Effect is the phenomenon where instructional techniques that are effective for novices can become ineffective or even counterproductive for more knowledgeable learners, due to redundancy of support that was previously necessary. It falls under [[cognitive-architecture]], as it pertains to how schemas develop and interact with instructional methods.
 
 > [!attention] **Boundary**
 > This effect does not pertain to motivational factors but rather to the cognitive load imposed by redundant instructional supports. It should not be confused with the worked example effect, which specifically refers to the benefits of using examples in instruction for novices.
@@ -135,12 +135,12 @@ This effect also underscores the importance of considering cognitive load theory
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Sibling concepts:** [[Intrinsic vs Extraneous Load]]
 
-**Contrasts with:** [[Scaffolding]]
+**Contrasts with:** [[scaffolding]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

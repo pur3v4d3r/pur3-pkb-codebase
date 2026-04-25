@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Memory Consolidation]]"
-  - "[[Dopaminergic Reward System]]"
-  - "[[Long-Term Potentiation]]"
+  - "[[memory-consolidation]]"
+  - "[[dopaminergic-reward-system]]"
+  - "[[long-term-potentiation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Memory Consolidation]]"
+  - "[[memory-consolidation]]"
 contrasts-with:
-  - "[[Dopaminergic Reward System]]"
+  - "[[dopaminergic-reward-system]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Long-Term Potentiation]]"
+  - "[[long-term-potentiation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Stress and Learning
 
 > [!definition] **Stress and Learning**
-> Stress and Learning refers to the bidirectional relationship between physiological stress responses — principally hypothalamic-pituitary-adrenal axis activation and glucocorticoid release — and learning processes such as encoding, consolidation, and retrieval. It falls under [[Cognitive Architecture]], where moderate stress can enhance long-term memory consolidation through glucocorticoid-amygdala-hippocampal interactions, while severe or chronic stress impairs hippocampal function and biases the system toward inflexible procedural learning.
+> Stress and Learning refers to the bidirectional relationship between physiological stress responses — principally hypothalamic-pituitary-adrenal axis activation and glucocorticoid release — and learning processes such as encoding, consolidation, and retrieval. It falls under [[cognitive-architecture]], where moderate stress can enhance long-term memory consolidation through glucocorticoid-amygdala-hippocampal interactions, while severe or chronic stress impairs hippocampal function and biases the system toward inflexible procedural learning.
 
 > [!attention] **Boundary**
 > This concept excludes acute physical injuries and focuses on psychological stressors affecting cognitive functions like encoding, consolidation, and retrieval.
@@ -132,12 +132,12 @@ The bidirectional relationship between stress and learning intersects with other
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Memory Consolidation]]
+**Sibling concepts:** [[memory-consolidation]]
 
-**Contrasts with:** [[Dopaminergic Reward System]]
+**Contrasts with:** [[dopaminergic-reward-system]]
 
-**Applies to:** [[Long-Term Potentiation]]
+**Applies to:** [[long-term-potentiation]]
 
 **Source:** [[stress-and-learning-synthetic-seed-2026-04-25]]

@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Mastery Climate vs Performance Climate]]"
-  - "[[Self-Efficacy]]"
+  - "[[mastery-climate-vs-performance-climate]]"
+  - "[[self-efficacy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,11 +43,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Mastery Climate vs Performance Climate]]"
+  - "[[mastery-climate-vs-performance-climate]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Social Comparison Theory
 
 > [!definition] **Social Comparison Theory**
-> Social Comparison Theory, advanced by Leon Festinger in 1954, posits that individuals evaluate their opinions and abilities relative to others, often leading to self-improvement or protection of self-esteem through upward or downward comparisons. It falls under [[Cognitive Architecture]], focusing on the relational nature of self-evaluation rather than absolute standards.
+> Social Comparison Theory, advanced by Leon Festinger in 1954, posits that individuals evaluate their opinions and abilities relative to others, often leading to self-improvement or protection of self-esteem through upward or downward comparisons. It falls under [[cognitive-architecture]], focusing on the relational nature of self-evaluation rather than absolute standards.
 
 > [!attention] **Boundary**
 > This theory focuses on the relational nature of self-evaluation and does not encompass all aspects of social psychology or cognitive processes.
@@ -133,10 +133,10 @@ The theory's relevance is further underscored by its connections to other concep
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Mastery Climate vs Performance Climate]]
+**Contrasts with:** [[mastery-climate-vs-performance-climate]]
 
-**Applies to:** [[Self-Efficacy]]
+**Applies to:** [[self-efficacy]]
 
 **Source:** [[social-comparison-theory-synthetic-seed-2026-04-25]]

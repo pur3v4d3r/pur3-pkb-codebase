@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Element Interactivity
 
 > [!definition] **Element Interactivity**
-> Element interactivity refers to the complexity of interactions among elements within a learning task, which directly determines the intrinsic load on the learner's cognitive system. It falls under [[Cognitive Load Theory]], where it is described as the cause side that permits prediction, measurement, and instructional intervention.
+> Element interactivity refers to the complexity of interactions among elements within a learning task, which directly determines the intrinsic load on the learner's cognitive system. It falls under [[cognitive-load-theory]], where it is described as the cause side that permits prediction, measurement, and instructional intervention.
 
 > [!attention] **Boundary**
 > It does not include extraneous or germane load; it focuses solely on the inherent difficulty of processing information in a given task.
@@ -129,10 +129,10 @@ The integration of element interactivity into broader cognitive processes highli
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

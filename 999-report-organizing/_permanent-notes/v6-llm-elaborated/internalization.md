@@ -37,12 +37,12 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Need Satisfaction]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
-  - "[[Autonomy Support]]"
+  - "[[need-satisfaction]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
+  - "[[autonomy-support]]"
 prerequisites:
-  - "[[Need Satisfaction]]"
+  - "[[need-satisfaction]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,12 +50,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomy Support]]"
+  - "[[autonomy-support]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -79,7 +79,7 @@ provenance:
 # Internalization
 
 > [!definition] **Internalization**
-> Internalization is the process by which individuals incorporate external values, attitudes, and behavioral regulations into their personal principles, transforming them from externally enforced requirements to personally endorsed beliefs. It falls under [[Self-Determination Theory]], where it is not a binary event but a gradual process with identifiable intermediate stages, each characterized by distinct regulatory styles, phenomenological qualities, and functional consequences.
+> Internalization is the process by which individuals incorporate external values, attitudes, and behavioral regulations into their personal principles, transforming them from externally enforced requirements to personally endorsed beliefs. It falls under [[self-determination-theory]], where it is not a binary event but a gradual process with identifiable intermediate stages, each characterized by distinct regulatory styles, phenomenological qualities, and functional consequences.
 
 > [!attention] **Boundary**
 > This concept does not require that the behavior become intrinsically motivated; fully integrated extrinsic motivation remains extrinsic but functionally similar to intrinsic motivation. It is a gradual process with identifiable stages and driven by need satisfaction.
@@ -138,12 +138,12 @@ The concept of internalization also has far-reaching implications for value tran
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Prerequisites:** [[Need Satisfaction]]
+**Prerequisites:** [[need-satisfaction]]
 
-**Contrasts with:** [[Intrinsic Motivation]] · [[Extrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]] · [[extrinsic-motivation]]
 
-**Applies to:** [[Autonomy Support]]
+**Applies to:** [[autonomy-support]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

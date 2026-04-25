@@ -35,7 +35,7 @@ parent-concept: "Cognitive Psychology"
 
 related:
   - "[[Challenge-Skill Balance]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Autotelic Experience]]"
 prerequisites:
   - "[[Challenge-Skill Balance]]"
@@ -44,7 +44,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Autotelic Experience]]"
 contrasts-with:
   - "[[]]"
@@ -75,7 +75,7 @@ provenance:
 # Flow State
 
 > [!definition] **Flow State**
-> Flow state, as defined by Mihaly Csikszentmihalyi, is an optimal experience of complete absorption in an activity where challenge and skill are balanced, leading to intense concentration and intrinsic reward. It falls under [[Cognitive Psychology]], characterized by clear goals, immediate feedback, and optimal challenge, which distinguishes it from experiences that lack these elements or do not result in intrinsic motivation.
+> Flow state, as defined by Mihaly Csikszentmihalyi, is an optimal experience of complete absorption in an activity where challenge and skill are balanced, leading to intense concentration and intrinsic reward. It falls under [[cognitive-psychology]], characterized by clear goals, immediate feedback, and optimal challenge, which distinguishes it from experiences that lack these elements or do not result in intrinsic motivation.
 
 > [!attention] **Boundary**
 > Flow state excludes experiences that lack the balance between challenge and skill or do not result in intrinsic motivation. It should not be confused with states like mindlessness or overconfidence.
@@ -134,10 +134,10 @@ The study of flow state contributes to our knowledge of intrinsic motivation and
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
 **Prerequisites:** [[Challenge-Skill Balance]]
 
-**Sibling concepts:** [[Intrinsic Motivation]] · [[Autotelic Experience]]
+**Sibling concepts:** [[intrinsic-motivation]] · [[Autotelic Experience]]
 
 **Source:** [[flow-synthetic-seed-2026-04-24]]

@@ -33,15 +33,15 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Prior Knowledge Activation]]"
-  - "[[Schema Construction]]"
+  - "[[cognitive-load-theory]]"
+  - "[[prior-knowledge-activation]]"
+  - "[[schema-construction]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -49,13 +49,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Prior Knowledge Activation]]"
+  - "[[prior-knowledge-activation]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Schema Construction]]"
+  - "[[schema-construction]]"
 refines:
   - "[[]]"
 
@@ -73,7 +73,7 @@ provenance:
 # Pre-Training Principle
 
 > [!definition] **Pre-Training Principle**
-> The Pre-Training Principle is a cognitive design principle suggesting that prior exposure to the names and characteristics of key components improves subsequent learning by reducing working memory load. It falls under [[Cognitive Architecture]], as it leverages preparatory phases to enhance learning efficiency, particularly in complex material.
+> The Pre-Training Principle is a cognitive design principle suggesting that prior exposure to the names and characteristics of key components improves subsequent learning by reducing working memory load. It falls under [[cognitive-architecture]], as it leverages preparatory phases to enhance learning efficiency, particularly in complex material.
 
 > [!attention] **Boundary**
 > This concept focuses on the preparatory phase before main instruction, excluding detailed content delivery or instructional methods beyond vocabulary pre-instruction.
@@ -132,12 +132,12 @@ The Pre-Training Principle supports schema construction by helping learners buil
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Cognitive Load Theory]]
+**Generalizes to:** [[cognitive-load-theory]]
 
-**Applies to:** [[Prior Knowledge Activation]]
+**Applies to:** [[prior-knowledge-activation]]
 
-**Supports:** [[Schema Construction]]
+**Supports:** [[schema-construction]]
 
 **Source:** [[pre-training-principle-synthetic-seed-2026-04-25]]

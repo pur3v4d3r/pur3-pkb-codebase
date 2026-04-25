@@ -1,0 +1,36 @@
+concept: Mastery Experience
+domain: educational-psychology
+secondary_domains:
+- motivational-psychology
+aliases:
+- enactive mastery
+- performance accomplishment
+broader:
+- self-efficacy-theory
+related:
+- enactive-mastery-experience
+- vicarious-experience
+- verbal-persuasion
+- self-efficacy
+prerequisites:
+- self-efficacy
+- social-cognitive-theory
+confidence: high
+callouts:
+- type: definition
+  title: Mastery Experience
+  body: A Mastery Experience is a first-person episode of successfully accomplishing
+    a challenging task that, in Bandura's social-cognitive theory, serves as the most
+    potent and durable source of self-efficacy beliefs about a given domain.
+- type: key-claim
+  title: Key claim about Mastery Experience
+  body: A Mastery Experience raises self-efficacy more strongly than any other source
+    — vicarious modelling, verbal persuasion, or physiological inference — because
+    a Mastery Experience supplies direct, attribution-bearing evidence that effort
+    and strategy produced the outcome.
+- type: warning
+  title: Common pitfall regarding Mastery Experience
+  body: Not every successful performance functions as a Mastery Experience; a success
+    attributed to luck, low difficulty, or external help fails to update efficacy
+    beliefs, which is why instructional designers must scaffold both the success itself
+    and the causal attribution that converts the success into a usable Mastery Experience.

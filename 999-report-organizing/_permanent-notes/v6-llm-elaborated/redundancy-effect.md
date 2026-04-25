@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Modality Effect]]"
-  - "[[Split-Attention Effect]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[modality-effect]]"
+  - "[[split-attention-effect]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Modality Effect]]"
-  - "[[Split-Attention Effect]]"
+  - "[[modality-effect]]"
+  - "[[split-attention-effect]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -55,7 +55,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -73,7 +73,7 @@ provenance:
 # Redundancy Effect
 
 > [!definition] **Redundancy Effect**
-> The Redundancy Effect is the phenomenon where adding on-screen text that duplicates spoken narration degrades multimedia learning by overloading cognitive resources, falling under [[Cognitive Architecture]]. It does not apply to all learners or conditions; for instance, second-language learners and those encountering technical vocabulary for the first time may benefit from redundant verbal channels.
+> The Redundancy Effect is the phenomenon where adding on-screen text that duplicates spoken narration degrades multimedia learning by overloading cognitive resources, falling under [[cognitive-architecture]]. It does not apply to all learners or conditions; for instance, second-language learners and those encountering technical vocabulary for the first time may benefit from redundant verbal channels.
 
 > [!attention] **Boundary**
 > This concept excludes cases where redundancy can be beneficial, such as for second-language learners or those encountering technical vocabulary for the first time.
@@ -129,10 +129,10 @@ The Redundancy Effect also intersects with other cognitive load-related effects 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Modality Effect]] · [[Split-Attention Effect]]
+**Contrasts with:** [[modality-effect]] · [[split-attention-effect]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[redundancy-effect-synthetic-seed-2026-04-24]]

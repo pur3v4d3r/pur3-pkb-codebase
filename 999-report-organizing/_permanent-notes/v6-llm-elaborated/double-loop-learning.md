@@ -34,7 +34,7 @@ parent-concept: "Organizational Learning"
 
 related:
   - "[[Single-Loop Learning]]"
-  - "[[Reflective Thinking]]"
+  - "[[reflective-thinking]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,7 +45,7 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[Single-Loop Learning]]"
-  - "[[Reflective Thinking]]"
+  - "[[reflective-thinking]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -138,6 +138,6 @@ The concept is deeply intertwined with broader themes in organizational learning
 
 **Falls under:** [[Organizational Learning]]
 
-**Contrasts with:** [[Single-Loop Learning]] · [[Reflective Thinking]]
+**Contrasts with:** [[Single-Loop Learning]] · [[reflective-thinking]]
 
 **Source:** [[double-loop-learning-synthetic-seed-2026-04-24]]

@@ -71,7 +71,7 @@ provenance:
 # Attachment Theory
 
 > [!definition] **Attachment Theory**
-> Attachment Theory is a framework that explains how early caregiver-child interactions shape emotional regulation and interpersonal behavior throughout life. It falls under [[Developmental Psychology]], focusing on the impact of these early relationships, while excluding later-life attachment patterns formed in adulthood or therapeutic settings.
+> Attachment Theory is a framework that explains how early caregiver-child interactions shape emotional regulation and interpersonal behavior throughout life. It falls under [[developmental-psychology]], focusing on the impact of these early relationships, while excluding later-life attachment patterns formed in adulthood or therapeutic settings.
 
 > [!attention] **Boundary**
 > This theory focuses on the impact of early relationships, excluding later-life attachment patterns formed in adulthood or therapeutic settings.
@@ -135,7 +135,7 @@ Empirical evidence supports the predictive power of Attachment Theory. For examp
 
 ## Connections & Context
 
-**Falls under:** [[Developmental Psychology]]
+**Falls under:** [[developmental-psychology]]
 
 **Contrasts with:** [[Insecure Attachment]]
 

@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Confirmation Bias]]"
-  - "[[Motivated Reasoning]]"
+  - "[[confirmation-bias]]"
+  - "[[motivated-reasoning]]"
   - "[[Social Cognition]]"
 prerequisites:
   - "[[]]"
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Confirmation Bias]]"
-  - "[[Motivated Reasoning]]"
+  - "[[confirmation-bias]]"
+  - "[[motivated-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -130,7 +130,7 @@ Understanding Epistemic Vigilance is crucial for navigating the complex landscap
 
 ## Connections & Context
 
-**Contrasts with:** [[Confirmation Bias]] · [[Motivated Reasoning]]
+**Contrasts with:** [[confirmation-bias]] · [[motivated-reasoning]]
 
 **Applies to:** [[Social Cognition]]
 

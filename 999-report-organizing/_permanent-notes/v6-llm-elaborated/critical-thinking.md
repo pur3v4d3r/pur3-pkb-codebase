@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Critical Thinking
 
 > [!definition] **Critical Thinking**
-> Critical Thinking is the disciplined process of actively conceptualising, applying, analysing, synthesising, and evaluating information gathered from observation, experience, reflection, reasoning, or communication as a guide to belief and action — a definition that integrates cognitive skills (analysis, evaluation, inference, interpretation, explanation, self-regulation) with dispositional habits of mind (truth-seeking, open-mindedness, intellectual humility, systematicity, analyticity); it falls under [[Cognitive Architecture]].
+> Critical Thinking is the disciplined process of actively conceptualising, applying, analysing, synthesising, and evaluating information gathered from observation, experience, reflection, reasoning, or communication as a guide to belief and action — a definition that integrates cognitive skills (analysis, evaluation, inference, interpretation, explanation, self-regulation) with dispositional habits of mind (truth-seeking, open-mindedness, intellectual humility, systematicity, analyticity); it falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It excludes mere opinion or unstructured thinking but includes structured reasoning processes. It should not be confused with informal logic alone, which focuses more on argument analysis without the broader cognitive skills and dispositions.
@@ -134,10 +134,10 @@ The concept of Critical Thinking also has broader implications for educational p
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[critical-thinking-synthetic-seed-2026-04-24]]

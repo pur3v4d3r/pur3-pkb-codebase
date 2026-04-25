@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Divergent Thinking
 
 > [!definition] **Divergent Thinking**
-> Divergent Thinking is the cognitive capacity to generate many varied and original responses to an open-ended prompt, typically scored on fluency, flexibility, originality, and elaboration via tasks such as the Alternative Uses Test. It falls under [[Cognitive Architecture]], but excludes convergent thinking, which focuses on finding a single correct answer, and does not encompass all aspects of creativity such as evaluation and domain-specific knowledge.
+> Divergent Thinking is the cognitive capacity to generate many varied and original responses to an open-ended prompt, typically scored on fluency, flexibility, originality, and elaboration via tasks such as the Alternative Uses Test. It falls under [[cognitive-architecture]], but excludes convergent thinking, which focuses on finding a single correct answer, and does not encompass all aspects of creativity such as evaluation and domain-specific knowledge.
 
 > [!attention] **Boundary**
 > It excludes convergent thinking, which focuses on finding a single correct answer, and does not encompass all aspects of creativity such as evaluation and domain-specific knowledge.
@@ -130,10 +130,10 @@ The relationship between divergent thinking and other cognitive processes highli
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[divergent-thinking-synthetic-seed-2026-04-25]]

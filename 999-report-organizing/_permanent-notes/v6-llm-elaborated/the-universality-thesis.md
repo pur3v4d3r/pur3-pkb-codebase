@@ -38,7 +38,7 @@ parent-concept: "Self-Determination Theory"
 
 related:
   - "[[Intrinsic vs. Extrinsic Motivation]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # The Universality Thesis
 
 > [!definition] **The Universality Thesis**
-> The Universality Thesis posits that the three basic psychological needs—autonomy, competence, and relatedness—are universally satisfied across cultures to promote well-being and frustration to produce ill-being. This thesis falls under [[Self-Determination Theory]], which asserts that regardless of cultural emphasis on independence or interdependence, competition or cooperation, individual achievement or communal harmony, these needs predict positive outcomes when met and negative ones when frustrated.
+> The Universality Thesis posits that the three basic psychological needs—autonomy, competence, and relatedness—are universally satisfied across cultures to promote well-being and frustration to produce ill-being. This thesis falls under [[self-determination-theory]], which asserts that regardless of cultural emphasis on independence or interdependence, competition or cooperation, individual achievement or communal harmony, these needs predict positive outcomes when met and negative ones when frustrated.
 
 > [!attention] **Boundary**
 > This thesis does not claim identical cultural expressions or satisfaction forms but focuses on the functional universality of need satisfaction and its outcomes.
@@ -136,10 +136,10 @@ The Universality Thesis is particularly relevant for the study of self-regulated
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
 **Contrasts with:** [[Intrinsic vs. Extrinsic Motivation]]
 
-**Applies to:** [[Self-Regulated Learning]]
+**Applies to:** [[self-regulated-learning]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

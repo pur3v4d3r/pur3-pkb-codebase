@@ -34,16 +34,16 @@ depth-level: elaborated
 parent-concept: "Educational Psychology"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Schema Theory]]"
-  - "[[Scaffolding]]"
-  - "[[Working Memory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[schema-theory]]"
+  - "[[scaffolding]]"
+  - "[[working-memory]]"
   - "[[Four-Component Instructional Design (4C/ID)]]"
 prerequisites:
-  - "[[Cognitive Load Theory]]"
-  - "[[Schema Theory]]"
-  - "[[Scaffolding]]"
-  - "[[Working Memory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[schema-theory]]"
+  - "[[scaffolding]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -138,9 +138,9 @@ Instructional Design's role extends beyond traditional classroom settings into e
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
-**Prerequisites:** [[Cognitive Load Theory]] · [[Schema Theory]] · [[Scaffolding]] · [[Working Memory]]
+**Prerequisites:** [[cognitive-load-theory]] · [[schema-theory]] · [[scaffolding]] · [[working-memory]]
 
 **Applies to:** [[Four-Component Instructional Design (4C/ID)]]
 

@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Efficacy]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[self-efficacy]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
   - "[[Person-Praise]]"
 prerequisites:
   - "[[]]"
@@ -44,10 +44,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Ego Involvement
 
 > [!definition] **Ego Involvement**
-> Ego Involvement refers to a state where an individual's self-worth becomes contingent on task performance, leading to high short-term effort but often at the cost of long-term well-being and creativity. It falls under [[Self-Regulated Learning]], characterized by internalized pressure that drives individuals to prove their worth through success or fear failure as a reflection of personal deficiency.
+> Ego Involvement refers to a state where an individual's self-worth becomes contingent on task performance, leading to high short-term effort but often at the cost of long-term well-being and creativity. It falls under [[self-regulated-learning]], characterized by internalized pressure that drives individuals to prove their worth through success or fear failure as a reflection of personal deficiency.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of motivation such as intrinsic motivation or extrinsic rewards that do not involve a direct link between personal worth and task success.
@@ -138,11 +138,11 @@ Empirical evidence from Mueller and Dweck (1998) demonstrates that person-praise
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Efficacy]]
+**Sibling concepts:** [[self-efficacy]]
 
-**Contrasts with:** [[Intrinsic Motivation]] · [[Extrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]] · [[extrinsic-motivation]]
 
 **Applies to:** [[Person-Praise]]
 

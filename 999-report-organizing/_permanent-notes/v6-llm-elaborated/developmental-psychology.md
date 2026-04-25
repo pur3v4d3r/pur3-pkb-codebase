@@ -32,15 +32,15 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Genetic Epistemology]]"
-  - "[[Cognitive Psychology]]"
+  - "[[genetic-epistemology]]"
+  - "[[cognitive-psychology]]"
   - "[[Lifespan Development]]"
 prerequisites:
-  - "[[Genetic Epistemology]]"
+  - "[[genetic-epistemology]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Cognitive Psychology]]"
+  - "[[cognitive-psychology]]"
 see-also:
   - "[[Lifespan Development]]"
 contrasts-with:
@@ -72,7 +72,7 @@ provenance:
 # Developmental Psychology
 
 > [!definition] **Developmental Psychology**
-> Developmental Psychology is the scientific study of systematic changes in cognition, emotion, and behavior from prenatal development through old age, focusing on understanding how and why psychological capacities change over time, excluding static or non-systematic changes. It falls under [[Cognitive Architecture]], as it examines the developmental trajectories that shape cognitive processes.
+> Developmental Psychology is the scientific study of systematic changes in cognition, emotion, and behavior from prenatal development through old age, focusing on understanding how and why psychological capacities change over time, excluding static or non-systematic changes. It falls under [[cognitive-architecture]], as it examines the developmental trajectories that shape cognitive processes.
 
 > [!attention] **Boundary**
 > It focuses on understanding how and why psychological capacities change over time, excluding static or non-systematic changes.
@@ -128,15 +128,15 @@ Developmental changes are driven by a combination of biological maturation and e
 
 Developmental Psychology matters because it provides a framework for understanding how cognitive, emotional, and behavioral capacities change over time. By integrating biological, psychological, and sociocultural factors, this field offers valuable insights into educational practices, parenting strategies, and policy-making. Its contributions extend beyond individual development to inform broader societal issues related to education, health, and social welfare.
 
-The concept of Developmental Psychology is closely linked with [[Genetic Epistemology]] and [[Lifespan Development]], as it shares a focus on changes over the life span but from a more specific perspective. By examining age-related changes in cognitive architecture, this field enriches our understanding of human development across different domains.
+The concept of Developmental Psychology is closely linked with [[genetic-epistemology]] and [[Lifespan Development]], as it shares a focus on changes over the life span but from a more specific perspective. By examining age-related changes in cognitive architecture, this field enriches our understanding of human development across different domains.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Genetic Epistemology]]
+**Prerequisites:** [[genetic-epistemology]]
 
-**Generalizes to:** [[Cognitive Psychology]]
+**Generalizes to:** [[cognitive-psychology]]
 
 **Sibling concepts:** [[Lifespan Development]]
 

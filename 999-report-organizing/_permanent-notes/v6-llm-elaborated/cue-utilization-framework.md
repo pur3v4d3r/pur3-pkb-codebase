@@ -2,6 +2,7 @@
 title: "Cue-Utilization Framework"
 aliases:
   - "Cue-Utilization Framework"
+  - "Cue Utilization Framework"
   - "Nelson-Narens Framework"
   - "Metacognitive Control Framework"
   - "Two-Level Model of Metacognition"
@@ -38,7 +39,7 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Metacognitive Monitoring]]"
+  - "[[metacognitive-monitoring]]"
   - "[[Judgment-of-Learning (JOL)]]"
   - "[[Feeling-of-Knowing (FOK)]]"
 prerequisites:
@@ -48,7 +49,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Metacognitive Monitoring]]"
+  - "[[metacognitive-monitoring]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -79,7 +80,7 @@ provenance:
 # Cue-Utilization Framework
 
 > [!definition] **Cue-Utilization Framework**
-> The Cue-Utilization Framework, developed by Asher Koriat, proposes that metacognitive judgments are based on heuristic inferences from available cues rather than direct access to memory traces. It falls under [[Metacognition]], focusing on the process of forming metacognitive judgments through intrinsic, extrinsic, and mnemonic cues without delving into specific computational mechanisms.
+> The Cue-Utilization Framework, developed by Asher Koriat, proposes that metacognitive judgments are based on heuristic inferences from available cues rather than direct access to memory traces. It falls under [[metacognition]], focusing on the process of forming metacognitive judgments through intrinsic, extrinsic, and mnemonic cues without delving into specific computational mechanisms.
 
 > [!attention] **Boundary**
 > This framework focuses on the process of forming metacognitive judgments based on available cues; it does not delve into the specific computational mechanisms or the broader architecture of cognitive monitoring and control.
@@ -133,9 +134,9 @@ The Cue-Utilization Framework is significant because it provides a detailed unde
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Sibling concepts:** [[Metacognitive Monitoring]]
+**Sibling concepts:** [[metacognitive-monitoring]]
 
 **Applies to:** [[Judgment-of-Learning (JOL)]] · [[Feeling-of-Knowing (FOK)]]
 

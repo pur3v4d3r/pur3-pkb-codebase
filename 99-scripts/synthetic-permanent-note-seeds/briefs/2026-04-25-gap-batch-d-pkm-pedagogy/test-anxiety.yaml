@@ -1,0 +1,39 @@
+concept: Test Anxiety
+domain: educational-psychology
+secondary_domains:
+- clinical-psychology
+- achievement-emotions
+aliases:
+- evaluative anxiety
+- exam anxiety
+broader:
+- achievement-emotions
+related:
+- cognitive-load-theory
+- working-memory
+- achievement-emotions
+- attentional-control-theory
+- control-value-theory
+prerequisites:
+- achievement-emotions
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Test Anxiety
+  body: Test Anxiety is the multi-component aversive state — combining cognitive worry,
+    physiological arousal, and behavioural avoidance — that some learners experience
+    in evaluative situations, and it is one of the most studied negative achievement
+    emotions in educational psychology.
+- type: key-claim
+  title: Key claim about Test Anxiety
+  body: Test Anxiety harms performance primarily through its cognitive worry component,
+    which consumes working-memory capacity that the task itself requires, so the well-documented
+    Test Anxiety performance decrement is largest on cognitively demanding tasks and
+    small or absent on low-load tasks.
+- type: warning
+  title: Common pitfall regarding Test Anxiety
+  body: Test Anxiety is sometimes treated as a global personality trait, but contemporary
+    work decomposes Test Anxiety into worry, emotionality, and avoidance components
+    with different antecedents and different intervention targets; treating Test Anxiety
+    as a single variable misses the design lever each component provides.

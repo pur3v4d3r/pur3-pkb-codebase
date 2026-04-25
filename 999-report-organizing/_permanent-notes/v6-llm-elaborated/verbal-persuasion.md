@@ -35,14 +35,14 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Feedback Design for Autonomy and Mastery]]"
+  - "[[self-efficacy-theory]]"
+  - "[[feedback-design-for-autonomy-and-mastery]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Feedback Design for Autonomy and Mastery]]"
+  - "[[feedback-design-for-autonomy-and-mastery]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Verbal Persuasion
 
 > [!definition] **Verbal Persuasion**
-> Verbal persuasion involves the use of verbal communications to convey appraisals of one's capability, including direct statements ('you can do this'), specific feedback on performance, and indirect signals about expected capability. Its efficacy impact is conditional on persuader credibility, the realism of the capability appraisal, the specificity of the persuasive content, and the convergence of the persuasion with the person's other sources of efficacy information. It falls under [[Self-Efficacy Theory]]. It falls under [[Self-Regulated Learning]].
+> Verbal persuasion involves the use of verbal communications to convey appraisals of one's capability, including direct statements ('you can do this'), specific feedback on performance, and indirect signals about expected capability. Its efficacy impact is conditional on persuader credibility, the realism of the capability appraisal, the specificity of the persuasive content, and the convergence of the persuasion with the person's other sources of efficacy information. It falls under [[self-efficacy-theory]]. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > It does not encompass all forms of feedback or instruction but specifically concerns the capability-relevant content of social communication.
@@ -131,10 +131,10 @@ The integration of verbal persuasion into educational settings, clinical practic
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Self-Efficacy Theory]]
+**Generalizes to:** [[self-efficacy-theory]]
 
-**Applies to:** [[Feedback Design for Autonomy and Mastery]]
+**Applies to:** [[feedback-design-for-autonomy-and-mastery]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

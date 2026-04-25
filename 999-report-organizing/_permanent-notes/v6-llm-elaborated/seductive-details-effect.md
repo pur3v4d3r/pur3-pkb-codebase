@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Coherence Principle]]"
-  - "[[Redundancy Effect]]"
+  - "[[working-memory]]"
+  - "[[coherence-principle]]"
+  - "[[redundancy-effect]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,9 +45,9 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Coherence Principle]]"
+  - "[[coherence-principle]]"
 contradicts:
-  - "[[Redundancy Effect]]"
+  - "[[redundancy-effect]]"
 applies-to:
   - "[[]]"
 formalizes:
@@ -73,7 +73,7 @@ provenance:
 # Seductive Details Effect
 
 > [!definition] **Seductive Details Effect**
-> The Seductive Details Effect is the phenomenon where adding interesting but instructionally irrelevant material to a lesson can reduce retention and transfer of core content, despite increasing self-reported interest. It falls under [[Cognitive Load Theory]], as it highlights how extraneous cognitive load can interfere with essential learning processes.
+> The Seductive Details Effect is the phenomenon where adding interesting but instructionally irrelevant material to a lesson can reduce retention and transfer of core content, despite increasing self-reported interest. It falls under [[cognitive-load-theory]], as it highlights how extraneous cognitive load can interfere with essential learning processes.
 
 > [!attention] **Boundary**
 > This effect does not apply when the added material enhances the explanation or carries it forward coherently; instead, it refers to ornamental details that compete with essential learning tasks for cognitive resources.
@@ -127,12 +127,12 @@ Understanding this effect also has implications for technology-enhanced learning
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Coherence Principle]]
+**Contrasts with:** [[coherence-principle]]
 
-**Contradicts:** [[Redundancy Effect]]
+**Contradicts:** [[redundancy-effect]]
 
 **Source:** [[seductive-details-effect-synthetic-seed-2026-04-25]]

@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Pseudoexpertise
 
 > [!definition] **Pseudoexpertise**
-> Pseudoexpertise is a condition where an individual feels confident and fluent in a domain without the underlying chunking architecture necessary for genuine expertise, typically due to degraded feedback that fails to correct mistaken chunks. It falls under [[Cognitive Architecture]], as it arises from the same mechanisms but lacks accurate performance benchmarks.
+> Pseudoexpertise is a condition where an individual feels confident and fluent in a domain without the underlying chunking architecture necessary for genuine expertise, typically due to degraded feedback that fails to correct mistaken chunks. It falls under [[cognitive-architecture]], as it arises from the same mechanisms but lacks accurate performance benchmarks.
 
 > [!attention] **Boundary**
 > It stops at the point where performance against external benchmarks can distinguish pseudoexpertise from genuine expertise. It does not include personal failures or individual differences in learning speed.
@@ -133,10 +133,10 @@ The implications of pseudoexpertise extend beyond individual skill acquisition, 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

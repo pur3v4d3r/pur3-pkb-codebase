@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Personal Knowledge Management"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Knowledge Distillation
 
 > [!definition] **Knowledge Distillation**
-> Knowledge distillation is the iterative reduction of captured material into progressively higher-leverage summaries — typically through layered highlighting, restating in one's own words, and atomicizing into single-claim notes — designed to produce retrieval-friendly forms of knowledge whose cost of re-access is much lower than the original source. It falls under [[Personal Knowledge Management]], where it enhances information retention by focusing on consolidation and integration benefits rather than mere volume.
+> Knowledge distillation is the iterative reduction of captured material into progressively higher-leverage summaries — typically through layered highlighting, restating in one's own words, and atomicizing into single-claim notes — designed to produce retrieval-friendly forms of knowledge whose cost of re-access is much lower than the original source. It falls under [[personal-knowledge-management]], where it enhances information retention by focusing on consolidation and integration benefits rather than mere volume.
 
 > [!attention] **Boundary**
 > This process excludes one-shot summaries that are not revisited over time and focuses on the iterative re-encounter and re-encoding across time for consolidation and integration benefits.
@@ -131,10 +131,10 @@ Furthermore, knowledge distillation contributes to broader cognitive architectur
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[knowledge-distillation-synthetic-seed-2026-04-25]]

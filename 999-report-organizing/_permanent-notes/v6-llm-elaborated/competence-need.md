@@ -33,7 +33,7 @@ parent-concept: "Self-Determination Theory"
 
 related:
   - "[[Optimal-Challenge]]"
-  - "[[Autonomy-Need]]"
+  - "[[autonomy-need]]"
   - "[[Mastery-Experience]]"
 prerequisites:
   - "[[Optimal-Challenge]]"
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Autonomy-Need]]"
+  - "[[autonomy-need]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Competence Need
 
 > [!definition] **Competence Need**
-> The Competence Need is the psychological requirement to feel effective in one's interactions with the environment — to experience oneself as capable of producing intended outcomes — and it falls under [[Self-Determination Theory]]. It is satisfied by optimally challenging activities that yield clear progress and feedback.
+> The Competence Need is the psychological requirement to feel effective in one's interactions with the environment — to experience oneself as capable of producing intended outcomes — and it falls under [[self-determination-theory]]. It is satisfied by optimally challenging activities that yield clear progress and feedback.
 
 > [!attention] **Boundary**
 > This concept excludes other basic psychological needs like autonomy and relatedness but focuses on the feeling of efficacy and capability.
@@ -131,11 +131,11 @@ The Competence Need is deeply intertwined with other psychological needs like au
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
 **Prerequisites:** [[Optimal-Challenge]]
 
-**Sibling concepts:** [[Autonomy-Need]]
+**Sibling concepts:** [[autonomy-need]]
 
 **Applies to:** [[Mastery-Experience]]
 

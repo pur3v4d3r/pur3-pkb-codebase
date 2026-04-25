@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Problem-Based Learning]]"
-  - "[[Case-Based Learning]]"
+  - "[[problem-based-learning]]"
+  - "[[case-based-learning]]"
   - "[[Authentic Assessment]]"
-  - "[[Situated Learning Theory]]"
+  - "[[situated-learning-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,8 +45,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Problem-Based Learning]]"
-  - "[[Case-Based Learning]]"
+  - "[[problem-based-learning]]"
+  - "[[case-based-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -56,7 +56,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Situated Learning Theory]]"
+  - "[[situated-learning-theory]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Project-Based Learning
 
 > [!definition] **Project-Based Learning**
-> Project-Based Learning (PjBL) is an instructional approach where students engage in extended, authentic projects that culminate in public products or performances, integrating disciplinary content and skills through a driving question and ongoing feedback. It falls under [[Instructional Design]], with its distinctive feature being the commitment to a public product, which disciplines the learning trajectory in ways open-ended exploration alone cannot achieve.
+> Project-Based Learning (PjBL) is an instructional approach where students engage in extended, authentic projects that culminate in public products or performances, integrating disciplinary content and skills through a driving question and ongoing feedback. It falls under [[instructional-design]], with its distinctive feature being the commitment to a public product, which disciplines the learning trajectory in ways open-ended exploration alone cannot achieve.
 
 > [!attention] **Boundary**
 > This concept excludes project-as-dessert approaches, which are superficial implementations of PjBL without restructuring the learning sequence around the project.
@@ -133,12 +133,12 @@ PjBL's alignment with situated learning theory further underscores its value, as
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Contrasts with:** [[Problem-Based Learning]] · [[Case-Based Learning]]
+**Contrasts with:** [[problem-based-learning]] · [[case-based-learning]]
 
 **Applies to:** [[Authentic Assessment]]
 
-**Supports:** [[Situated Learning Theory]]
+**Supports:** [[situated-learning-theory]]
 
 **Source:** [[project-based-learning-synthetic-seed-2026-04-25]]

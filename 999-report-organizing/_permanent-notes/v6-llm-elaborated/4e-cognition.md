@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Distributed Cognition]]"
-  - "[[Predictive Processing]]"
+  - "[[distributed-cognition]]"
+  - "[[predictive-processing]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,11 +43,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Distributed Cognition]]"
+  - "[[distributed-cognition]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Predictive Processing]]"
+  - "[[predictive-processing]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -127,8 +127,8 @@ The application of 4E Cognition in educational settings and artificial intellige
 
 ## Connections & Context
 
-**Contrasts with:** [[Distributed Cognition]]
+**Contrasts with:** [[distributed-cognition]]
 
-**Applies to:** [[Predictive Processing]]
+**Applies to:** [[predictive-processing]]
 
 **Source:** [[4e-cognition-synthetic-seed-2026-04-24]]

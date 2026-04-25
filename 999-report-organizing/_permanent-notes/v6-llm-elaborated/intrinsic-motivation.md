@@ -2,6 +2,7 @@
 title: "Intrinsic Motivation"
 aliases:
   - "Intrinsic Motivation"
+  - "Intrinsic-Motivation"
   - "SDT Foundational Report"
   - "Self-Determination Theory Report"
   - "Deci and Ryan Motivation Theory"
@@ -37,18 +38,18 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Autonomous Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[autonomous-motivation]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Autonomous Motivation]]"
+  - "[[autonomous-motivation]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +77,7 @@ provenance:
 # Intrinsic Motivation
 
 > [!definition] **Intrinsic Motivation**
-> Intrinsic motivation refers to engaging in an activity for the inherent satisfaction, interest, or enjoyment derived from the activity itself, rather than for any separable external reward. It falls under [[Motivational Psychology]], where it serves as a foundational concept that distinguishes between motivations based on their source of regulation and perceived autonomy.
+> Intrinsic motivation refers to engaging in an activity for the inherent satisfaction, interest, or enjoyment derived from the activity itself, rather than for any separable external reward. It falls under [[motivational-psychology]], where it serves as a foundational concept that distinguishes between motivations based on their source of regulation and perceived autonomy.
 
 > [!attention] **Boundary**
 > Not all autonomous motivation is intrinsic; integrated extrinsic motivation — performing an activity for its value rather than inherent enjoyment — remains extrinsic because the behavioral reason is separable from the activity itself.
@@ -136,10 +137,10 @@ Intrinsic motivation also has broader implications across various domains such a
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Specializes:** [[Autonomous Motivation]]
+**Specializes:** [[autonomous-motivation]]
 
-**Contrasts with:** [[Extrinsic Motivation]]
+**Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

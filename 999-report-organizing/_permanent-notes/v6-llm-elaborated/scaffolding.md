@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Scaffolding
 
 > [!definition] **Scaffolding**
-> Scaffolding involves providing temporary, calibrated supports to help learners perform tasks beyond their current capabilities, which are progressively withdrawn as competence develops. It falls under [[Instructional Design]], and its defining commitment is fading—supports that are not engineered to be withdrawn cease to be Scaffolding and become permanent crutches that block the schema construction and strategic automaticity it aims to facilitate.
+> Scaffolding involves providing temporary, calibrated supports to help learners perform tasks beyond their current capabilities, which are progressively withdrawn as competence develops. It falls under [[instructional-design]], and its defining commitment is fading—supports that are not engineered to be withdrawn cease to be Scaffolding and become permanent crutches that block the schema construction and strategic automaticity it aims to facilitate.
 
 > [!attention] **Boundary**
 > Scaffolding is distinct from any supportive structure that does not have a specified fading schedule and engineered removal trajectory. It should not be confused with general helpful support provided by educators without a structured plan for withdrawal.
@@ -131,10 +131,10 @@ Moreover, scaffolding aligns with broader theories in educational psychology, su
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[scaffolding-synthetic-seed-2026-04-24]]

@@ -76,7 +76,7 @@ provenance:
 # The Active Organism Hypothesis
 
 > [!definition] **The Active Organism Hypothesis**
-> The Active Organism Hypothesis posits that organisms are inherently active and growth-oriented, suggesting that motivation arises naturally from within rather than needing to be generated externally. It falls under [[Self-Determination Theory]], which reframes the central question of motivational science not on generating motivation but on how social environments either support or undermine these natural tendencies.
+> The Active Organism Hypothesis posits that organisms are inherently active and growth-oriented, suggesting that motivation arises naturally from within rather than needing to be generated externally. It falls under [[self-determination-theory]], which reframes the central question of motivational science not on generating motivation but on how social environments either support or undermine these natural tendencies.
 
 > [!attention] **Boundary**
 > This hypothesis excludes the idea that external factors can entirely generate or suppress intrinsic motivation. It focuses on how social environments support or undermine natural motivational tendencies.
@@ -134,7 +134,7 @@ The Active Organism Hypothesis is crucial for understanding human motivation bec
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
 **Contrasts with:** [[Intrinsic vs. Extrinsic Motivation]]
 

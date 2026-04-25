@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Event Segmentation Theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -71,7 +71,7 @@ provenance:
 # Situation Model
 
 > [!definition] **Situation Model**
-> A Situation Model is an integrated representation of the state of affairs described by a text, distinct from both surface form (verbatim) and propositional meaning, which is essential for deep comprehension and inference. It falls under [[Cognitive Architecture]], as it relies on working memory resources to construct and maintain this understanding.
+> A Situation Model is an integrated representation of the state of affairs described by a text, distinct from both surface form (verbatim) and propositional meaning, which is essential for deep comprehension and inference. It falls under [[cognitive-architecture]], as it relies on working memory resources to construct and maintain this understanding.
 
 > [!attention] **Boundary**
 > It stops at the level of deep comprehension and does not include surface-level details or propositional paraphrases.
@@ -131,9 +131,9 @@ Empirical evidence supports the importance of Situation Models in reading compre
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Event Segmentation Theory]]
 

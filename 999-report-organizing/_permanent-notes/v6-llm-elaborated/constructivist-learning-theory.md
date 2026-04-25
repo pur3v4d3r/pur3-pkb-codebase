@@ -33,18 +33,18 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Schema-Theory]]"
-  - "[[Zone-of-Proximal-Development]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[schema-theory]]"
+  - "[[zone-of-proximal-development]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Schema-Theory]]"
+  - "[[schema-theory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Zone-of-Proximal-Development]]"
-  - "[[Cognitive-Load-Theory]]"
+  - "[[zone-of-proximal-development]]"
+  - "[[cognitive-load-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Constructivist Learning Theory
 
 > [!definition] **Constructivist Learning Theory**
-> Constructivist Learning Theory posits that learning occurs through the active construction of new knowledge by the learner, integrating it with existing schemas or frameworks. It falls under [[Cognitive Architecture]], emphasizing that knowledge is not transmitted intact but constructed through assimilation and accommodation. This theory excludes passive transmission of knowledge and focuses on the active role of the learner in constructing understanding.
+> Constructivist Learning Theory posits that learning occurs through the active construction of new knowledge by the learner, integrating it with existing schemas or frameworks. It falls under [[cognitive-architecture]], emphasizing that knowledge is not transmitted intact but constructed through assimilation and accommodation. This theory excludes passive transmission of knowledge and focuses on the active role of the learner in constructing understanding.
 
 > [!attention] **Boundary**
 > This theory excludes passive transmission of knowledge and focuses on the active role of the learner in constructing understanding. It does not encompass theories focused solely on cognitive load without an emphasis on construction.
@@ -134,10 +134,10 @@ The theory also has implications beyond education, influencing fields such as in
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Schema-Theory]]
+**Prerequisites:** [[schema-theory]]
 
-**Sibling concepts:** [[Zone-of-Proximal-Development]] · [[Cognitive-Load-Theory]]
+**Sibling concepts:** [[zone-of-proximal-development]] · [[cognitive-load-theory]]
 
 **Source:** [[constructivist-learning-theory-synthetic-seed-2026-04-24]]

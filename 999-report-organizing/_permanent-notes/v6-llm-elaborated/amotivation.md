@@ -31,19 +31,19 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Autonomous Regulation]]"
-  - "[[Learned Helplessness]]"
+  - "[[autonomous-regulation]]"
+  - "[[learned-helplessness]]"
   - "[[Demoralization]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Autonomous Regulation]]"
+  - "[[autonomous-regulation]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Learned Helplessness]]"
+  - "[[learned-helplessness]]"
   - "[[Demoralization]]"
 contradicts:
   - "[[]]"
@@ -72,7 +72,7 @@ provenance:
 # Amotivation
 
 > [!definition] **Amotivation**
-> Amotivation refers to a state of acting without intentionality or with a sense that actions are meaningless or beyond one's control, distinct from intrinsic and extrinsic motivation in that it represents the absence of regulation rather than a particular regulatory style. It falls under [[Self-Determination Theory]], where it is seen as a critical signal for disengagement and poor performance.
+> Amotivation refers to a state of acting without intentionality or with a sense that actions are meaningless or beyond one's control, distinct from intrinsic and extrinsic motivation in that it represents the absence of regulation rather than a particular regulatory style. It falls under [[self-determination-theory]], where it is seen as a critical signal for disengagement and poor performance.
 
 > [!attention] **Boundary**
 > This concept excludes states where there is intentional action driven by internal or external rewards but does not include situations where an individual simply lacks interest in a task.
@@ -135,10 +135,10 @@ The distinction between amotivation and other states like learned helplessness i
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Specializes:** [[Autonomous Regulation]]
+**Specializes:** [[autonomous-regulation]]
 
-**Contrasts with:** [[Learned Helplessness]] · [[Demoralization]]
+**Contrasts with:** [[learned-helplessness]] · [[Demoralization]]
 
 **Source:** [[amotivation-synthetic-seed-2026-04-24]]

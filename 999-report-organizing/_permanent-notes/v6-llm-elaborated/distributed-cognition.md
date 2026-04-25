@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Embodied Cognition]]"
-  - "[[Situated Learning Theory]]"
-  - "[[Communities of Practice]]"
+  - "[[embodied-cognition]]"
+  - "[[situated-learning-theory]]"
+  - "[[communities-of-practice]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,12 +44,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Embodied Cognition]]"
-  - "[[Situated Learning Theory]]"
+  - "[[embodied-cognition]]"
+  - "[[situated-learning-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Communities of Practice]]"
+  - "[[communities-of-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Distributed Cognition
 
 > [!definition] **Distributed Cognition**
-> Distributed Cognition treats cognitive processes as distributed across people, artefacts, and environments rather than confined to a single individual's mind. It falls under [[Cognitive Architecture]], analyzing how external tools and social interactions contribute to problem-solving and decision-making.
+> Distributed Cognition treats cognitive processes as distributed across people, artefacts, and environments rather than confined to a single individual's mind. It falls under [[cognitive-architecture]], analyzing how external tools and social interactions contribute to problem-solving and decision-making.
 
 > [!attention] **Boundary**
 > It excludes the idea that cognition is solely an internal process within an individual brain. Instead, it focuses on how external tools and social interactions contribute to problem-solving and decision-making.
@@ -129,10 +129,10 @@ Furthermore, Distributed Cognition intersects with other theories like Embodied 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Embodied Cognition]] · [[Situated Learning Theory]]
+**Contrasts with:** [[embodied-cognition]] · [[situated-learning-theory]]
 
-**Applies to:** [[Communities of Practice]]
+**Applies to:** [[communities-of-practice]]
 
 **Source:** [[distributed-cognition-synthetic-seed-2026-04-24]]

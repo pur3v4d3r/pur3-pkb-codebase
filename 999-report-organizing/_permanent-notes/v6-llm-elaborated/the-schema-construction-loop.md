@@ -34,11 +34,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Chunking]]"
-  - "[[Automaticity]]"
+  - "[[working-memory]]"
+  - "[[chunking]]"
+  - "[[automaticity]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,11 +46,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Chunking]]"
+  - "[[chunking]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -131,12 +131,12 @@ The Schema-Construction Loop is a critical concept in cognitive psychology, offe
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Chunking]]
+**Contrasts with:** [[chunking]]
 
-**Applies to:** [[Automaticity]]
+**Applies to:** [[automaticity]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

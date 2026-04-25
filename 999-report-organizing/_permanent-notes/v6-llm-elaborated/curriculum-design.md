@@ -37,17 +37,17 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Heutagogy]]"
-  - "[[Andragogy]]"
-  - "[[Self-Directed Learning]]"
+  - "[[heutagogy]]"
+  - "[[andragogy]]"
+  - "[[self-directed-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Heutagogy]]"
+  - "[[heutagogy]]"
 broader:
-  - "[[Andragogy]]"
+  - "[[andragogy]]"
 see-also:
-  - "[[Self-Directed Learning]]"
+  - "[[self-directed-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -77,7 +77,7 @@ provenance:
 # Curriculum Design for Lifelong Learning and Self-Directed Learning
 
 > [!definition] **Curriculum Design for Lifelong Learning and Self-Directed Learning**
-> Curriculum design for lifelong learning and self-directed learning involves the deliberate, systematic planning of environments that build learners' capacity to continue learning autonomously over their lifetimes, emphasizing structure that supports autonomy. It falls under [[Self-Regulated Learning]], focusing on the intentional engineering of the learning experience to foster ongoing, voluntary, and self-motivated pursuit of knowledge and competence.
+> Curriculum design for lifelong learning and self-directed learning involves the deliberate, systematic planning of environments that build learners' capacity to continue learning autonomously over their lifetimes, emphasizing structure that supports autonomy. It falls under [[self-regulated-learning]], focusing on the intentional engineering of the learning experience to foster ongoing, voluntary, and self-motivated pursuit of knowledge and competence.
 
 > [!attention] **Boundary**
 > This concept excludes specific teaching practices and focuses on the structural aspects of educational environments designed to foster lifelong and self-directed learning. It is not synonymous with teaching or merely content selection but rather the intentional engineering of the learning experience.
@@ -88,7 +88,7 @@ At its core, curriculum design for lifelong and self-directed learning operates 
 
 This design faces a fundamental challenge: balancing sufficient structure with high autonomy support. Effective designs combine clear expectations, explicit rationales, and meaningful choices within well-defined boundaries, satisfying learners' needs for competence and autonomy simultaneously. This balance is crucial because it internalises the learning process, fostering intrinsic motivation even as external demands increase.
 
-Theoretical roots of this approach can be traced back to John Dewey's experience-based education and Larsen Lindeman's situation-centred curriculum design, both sharing a common epistemological commitment that knowledge is actively constructed through person-world relationships. This shared foundation bridges the gap between progressive education and contemporary theories like [[Andragogy]], highlighting the evolution of educational thought towards more autonomous learning.
+Theoretical roots of this approach can be traced back to John Dewey's experience-based education and Larsen Lindeman's situation-centred curriculum design, both sharing a common epistemological commitment that knowledge is actively constructed through person-world relationships. This shared foundation bridges the gap between progressive education and contemporary theories like [[andragogy]], highlighting the evolution of educational thought towards more autonomous learning.
 
 Empirically, this approach has been supported by research on self-regulated learning (SRL), which acts as a bridge between external structure and internal autonomy. Through repeated cycles of practice and reflection, learners gradually internalise initial external regulations provided by the curriculum into self-regulatory capacity.
 
@@ -134,18 +134,18 @@ The most effective curriculum designs for cultivating self-directed learning are
 
 ## Synthesis
 
-This concept is crucial for education because it addresses the ongoing need for learners to adapt and grow throughout their lives. By fostering self-regulated learning, curriculum design for lifelong and self-directed learning not only enhances individual capabilities but also contributes to broader societal goals of a more adaptable and resilient workforce. It aligns with [[Self-Directed Learning]], [[Andragogy]], and [[Heutagogy]], each offering different perspectives on the learner's role in their own education journey.
+This concept is crucial for education because it addresses the ongoing need for learners to adapt and grow throughout their lives. By fostering self-regulated learning, curriculum design for lifelong and self-directed learning not only enhances individual capabilities but also contributes to broader societal goals of a more adaptable and resilient workforce. It aligns with [[self-directed-learning]], [[andragogy]], and [[heutagogy]], each offering different perspectives on the learner's role in their own education journey.
 
 Moreover, this approach has significant implications for policy makers, educators, and learners themselves. Policymakers can use it to develop frameworks that support lifelong learning, while educators can apply these principles to create more effective curricula. For learners, understanding how to design their own educational paths is empowering, leading to greater personal fulfillment and career success.
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Specializes:** [[Heutagogy]]
+**Specializes:** [[heutagogy]]
 
-**Generalizes to:** [[Andragogy]]
+**Generalizes to:** [[andragogy]]
 
-**Sibling concepts:** [[Self-Directed Learning]]
+**Sibling concepts:** [[self-directed-learning]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

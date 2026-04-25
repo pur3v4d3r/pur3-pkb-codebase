@@ -36,11 +36,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Elaborative Interrogation]]"
-  - "[[Spaced Repetition]]"
+  - "[[working-memory]]"
+  - "[[elaborative-interrogation]]"
+  - "[[spaced-repetition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,11 +48,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Elaborative Interrogation]]"
+  - "[[elaborative-interrogation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Spaced Repetition]]"
+  - "[[spaced-repetition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Retrieval Practice
 
 > [!definition] **Retrieval Practice**
-> Retrieval practice involves actively reconstructing information from memory rather than passively re-reading it, a strategy that has been shown to enhance long-term retention and transfer of knowledge. It falls under [[Cognitive Architecture]], as it leverages the mechanisms by which memories are encoded and retrieved.
+> Retrieval practice involves actively reconstructing information from memory rather than passively re-reading it, a strategy that has been shown to enhance long-term retention and transfer of knowledge. It falls under [[cognitive-architecture]], as it leverages the mechanisms by which memories are encoded and retrieved.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of learning strategies such as elaborative interrogation or spaced repetition but focuses on the act of retrieval itself as a powerful learning event.
@@ -135,12 +135,12 @@ The integration of retrieval practice with other cognitive strategies such as sp
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Elaborative Interrogation]]
+**Contrasts with:** [[elaborative-interrogation]]
 
-**Applies to:** [[Spaced Repetition]]
+**Applies to:** [[spaced-repetition]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]

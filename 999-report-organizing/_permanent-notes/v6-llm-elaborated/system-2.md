@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Dual-Process Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[System 1]]"
+  - "[[working-memory]]"
+  - "[[system-1]]"
   - "[[Deliberation]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[System 1]]"
+  - "[[system-1]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # System 2
 
 > [!definition] **System 2**
-> System 2 refers to the slow, effortful, and deliberate cognitive processes that override intuitive System 1 responses when necessary. It falls under [[Dual-Process Theory]], where it is characterized by rule-based reasoning, controlled attention, and explicit calculation, contrasting with the fast, automatic, and intuitive processing of System 1.
+> System 2 refers to the slow, effortful, and deliberate cognitive processes that override intuitive System 1 responses when necessary. It falls under [[dual-process-theory]], where it is characterized by rule-based reasoning, controlled attention, and explicit calculation, contrasting with the fast, automatic, and intuitive processing of System 1.
 
 > [!attention] **Boundary**
 > It excludes fast, automatic, and intuitive processing (System 1) and does not encompass all forms of reasoning or decision-making.
@@ -132,11 +132,11 @@ The significance of System 2 extends beyond individual cognition; it has implica
 
 ## Connections & Context
 
-**Falls under:** [[Dual-Process Theory]]
+**Falls under:** [[dual-process-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[System 1]]
+**Contrasts with:** [[system-1]]
 
 **Applies to:** [[Deliberation]]
 

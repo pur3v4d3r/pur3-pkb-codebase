@@ -37,7 +37,7 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[Monitoring Signal]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[Monitoring Signal]]"
 specializes:
@@ -47,7 +47,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Control as Diagnostic Response, Not Habitual Response
 
 > [!definition] **Control as Diagnostic Response, Not Habitual Response**
-> Control as Diagnostic Response, Not Habitual Response refers to how effective control in self-regulated learning is a response to specific monitoring signals based on their diagnostic content, rather than being habitual and unthinking. It falls under [[Self-Regulated Learning]], where the selection of a control move depends on the structure of the deficit detected by the monitoring signal.
+> Control as Diagnostic Response, Not Habitual Response refers to how effective control in self-regulated learning is a response to specific monitoring signals based on their diagnostic content, rather than being habitual and unthinking. It falls under [[self-regulated-learning]], where the selection of a control move depends on the structure of the deficit detected by the monitoring signal.
 
 > [!attention] **Boundary**
 > This concept focuses on the selection of control moves in self-regulated learning. It does not cover other aspects of self-regulation such as goal-setting or motivation directly.
@@ -134,10 +134,10 @@ The broader implications of this concept extend beyond individual learners to in
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Prerequisites:** [[Monitoring Signal]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

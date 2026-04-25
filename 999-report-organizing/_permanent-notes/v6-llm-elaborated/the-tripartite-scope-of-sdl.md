@@ -36,30 +36,30 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Heutagogy]]"
-  - "[[Andragogy]]"
-  - "[[Constructivist Learning Theory]]"
-  - "[[Self-Determination Theory]]"
+  - "[[heutagogy]]"
+  - "[[andragogy]]"
+  - "[[constructivist-learning-theory]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Heutagogy]]"
+  - "[[heutagogy]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Andragogy]]"
+  - "[[andragogy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Constructivist Learning Theory]]"
+  - "[[constructivist-learning-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -77,7 +77,7 @@ provenance:
 # The Tripartite Scope of Self-Directed Learning
 
 > [!definition] **The Tripartite Scope of Self-Directed Learning**
-> Self-Directed Learning (SDL) functions simultaneously as a description of a learning process, a characterization of a learner disposition, and a normative goal of educational design. Conflating these three senses is the single most common source of conceptual confusion in the SDL literature, because claims that are true of SDL-as-process (e.g., 'SDL is situational and context-dependent') may appear to contradict claims that are true of SDL-as-trait (e.g., 'some individuals are consistently more self-directed than others'), when in fact the claims operate at different levels of analysis. It falls under [[Self-Regulated Learning]].
+> Self-Directed Learning (SDL) functions simultaneously as a description of a learning process, a characterization of a learner disposition, and a normative goal of educational design. Conflating these three senses is the single most common source of conceptual confusion in the SDL literature, because claims that are true of SDL-as-process (e.g., 'SDL is situational and context-dependent') may appear to contradict claims that are true of SDL-as-trait (e.g., 'some individuals are consistently more self-directed than others'), when in fact the claims operate at different levels of analysis. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This concept does not include specific pedagogical techniques or individual psychological traits but rather focuses on the multifaceted nature of SDL across different analytical levels.
@@ -137,14 +137,14 @@ The integration of SDL into educational curricula requires a holistic approach t
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Specializes:** [[Heutagogy]]
+**Specializes:** [[heutagogy]]
 
-**Contrasts with:** [[Andragogy]]
+**Contrasts with:** [[andragogy]]
 
-**Applies to:** [[Constructivist Learning Theory]]
+**Applies to:** [[constructivist-learning-theory]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]

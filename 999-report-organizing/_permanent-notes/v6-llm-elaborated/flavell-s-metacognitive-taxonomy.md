@@ -38,16 +38,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[working-memory]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -77,7 +77,7 @@ provenance:
 # Flavell's Metacognitive Taxonomy
 
 > [!definition] **Flavell's Metacognitive Taxonomy**
-> Flavell's Metacognitive Taxonomy categorizes metacognition into four components: metacognitive knowledge (beliefs about one's own cognition, tasks, and strategies), metacognitive experiences (conscious feelings and judgments that accompany cognitive activity), goals or tasks (the objectives driving cognitive engagement), and actions or strategies (behavioral responses to achieve those objectives). It falls under [[Cognitive Architecture]], providing a descriptive framework rather than detailing the computational relationships between its components.
+> Flavell's Metacognitive Taxonomy categorizes metacognition into four components: metacognitive knowledge (beliefs about one's own cognition, tasks, and strategies), metacognitive experiences (conscious feelings and judgments that accompany cognitive activity), goals or tasks (the objectives driving cognitive engagement), and actions or strategies (behavioral responses to achieve those objectives). It falls under [[cognitive-architecture]], providing a descriptive framework rather than detailing the computational relationships between its components.
 
 > [!attention] **Boundary**
 > This taxonomy does not specify the computational relationships between its components; it is a descriptive framework that identifies distinct aspects of metacognition without detailing their interactions.
@@ -129,10 +129,10 @@ Moreover, Flavell's work has paved the way for subsequent research, such as Nels
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]

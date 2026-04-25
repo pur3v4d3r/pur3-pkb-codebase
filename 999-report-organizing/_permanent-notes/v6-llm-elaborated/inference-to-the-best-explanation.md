@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Bayesian Reasoning]]"
-  - "[[Scientific Reasoning]]"
+  - "[[bayesian-reasoning]]"
+  - "[[scientific-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Bayesian Reasoning]]"
+  - "[[bayesian-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scientific Reasoning]]"
+  - "[[scientific-reasoning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Inference to the Best Explanation
 
 > [!definition] **Inference to the Best Explanation**
-> Inference to the Best Explanation (IBE) is a form of non-deductive reasoning where hypotheses are accepted based on their explanatory power, judged by criteria such as scope, depth, simplicity, and fit with background knowledge. It falls under [[Critical Thinking]], capturing the form of reasoning actually used in scientific theory choice and historical inference, where deductive proof is unavailable and Bayesian computation requires priors that are themselves the subject of dispute; it is the discipline that distinguishes a comparative defense of a hypothesis from an isolated fit to data.
+> Inference to the Best Explanation (IBE) is a form of non-deductive reasoning where hypotheses are accepted based on their explanatory power, judged by criteria such as scope, depth, simplicity, and fit with background knowledge. It falls under [[critical-thinking]], capturing the form of reasoning actually used in scientific theory choice and historical inference, where deductive proof is unavailable and Bayesian computation requires priors that are themselves the subject of dispute; it is the discipline that distinguishes a comparative defense of a hypothesis from an isolated fit to data.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of inference like deduction or Bayesian reasoning, focusing specifically on abductive reasoning used in theory choice and historical inference.
@@ -133,10 +133,10 @@ IBE's application extends beyond science into fields like medical diagnosis and 
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Contrasts with:** [[Bayesian Reasoning]]
+**Contrasts with:** [[bayesian-reasoning]]
 
-**Applies to:** [[Scientific Reasoning]]
+**Applies to:** [[scientific-reasoning]]
 
 **Source:** [[inference-to-the-best-explanation-synthetic-seed-2026-04-25]]

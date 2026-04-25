@@ -37,23 +37,23 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Heutagogy]]"
-  - "[[Inquiry-Based Learning]]"
-  - "[[Backward Design]]"
+  - "[[heutagogy]]"
+  - "[[inquiry-based-learning]]"
+  - "[[backward-design]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Heutagogy]]"
+  - "[[heutagogy]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Inquiry-Based Learning]]"
+  - "[[inquiry-based-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Backward Design]]"
+  - "[[backward-design]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Learning Contract
 
 > [!definition] **Learning Contract**
-> A Learning Contract is a negotiated agreement between a learner and a facilitator that outlines specific learning goals, strategies, resources, evidence of accomplishment, and evaluation criteria, all co-determined by the learner. It falls under [[Self-Regulated Learning]], functioning as a curriculum mechanism for developing self-regulatory capacity through negotiation and self-directed planning.
+> A Learning Contract is a negotiated agreement between a learner and a facilitator that outlines specific learning goals, strategies, resources, evidence of accomplishment, and evaluation criteria, all co-determined by the learner. It falls under [[self-regulated-learning]], functioning as a curriculum mechanism for developing self-regulatory capacity through negotiation and self-directed planning.
 
 > [!attention] **Boundary**
 > It stops at the Negotiated Autonomy phase of the Scaffolding-Sovereignty Progression and does not include superficial or derivative goals.
@@ -139,12 +139,12 @@ The Scaffolding-Sovereignty Progression, as described in this report, underscore
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Heutagogy]]
+**Generalizes to:** [[heutagogy]]
 
-**Contrasts with:** [[Inquiry-Based Learning]]
+**Contrasts with:** [[inquiry-based-learning]]
 
-**Applies to:** [[Backward Design]]
+**Applies to:** [[backward-design]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

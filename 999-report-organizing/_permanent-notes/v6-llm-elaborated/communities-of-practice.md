@@ -33,8 +33,8 @@ parent-concept: "Social Learning"
 
 related:
   - "[[Apprenticeship]]"
-  - "[[Situated Learning Theory]]"
-  - "[[Distributed Cognition]]"
+  - "[[situated-learning-theory]]"
+  - "[[distributed-cognition]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[Apprenticeship]]"
 contrasts-with:
-  - "[[Situated Learning Theory]]"
+  - "[[situated-learning-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Distributed Cognition]]"
+  - "[[distributed-cognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -134,8 +134,8 @@ Understanding Communities of Practice is crucial for learning science because it
 
 **Sibling concepts:** [[Apprenticeship]]
 
-**Contrasts with:** [[Situated Learning Theory]]
+**Contrasts with:** [[situated-learning-theory]]
 
-**Applies to:** [[Distributed Cognition]]
+**Applies to:** [[distributed-cognition]]
 
 **Source:** [[communities-of-practice-synthetic-seed-2026-04-24]]

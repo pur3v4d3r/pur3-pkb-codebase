@@ -35,14 +35,14 @@ depth-level: elaborated
 parent-concept: "Social-Cognitive Psychology"
 
 related:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
   - "[[Group Cohesion]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -135,7 +135,7 @@ The theory of collective efficacy also opens up new avenues for research, partic
 
 **Falls under:** [[Social-Cognitive Psychology]]
 
-**Generalizes to:** [[Self-Efficacy Theory]]
+**Generalizes to:** [[self-efficacy-theory]]
 
 **Contrasts with:** [[Group Cohesion]]
 

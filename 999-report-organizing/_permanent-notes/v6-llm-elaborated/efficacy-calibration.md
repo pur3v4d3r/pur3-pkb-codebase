@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
   - "[[Confidence Calibration]]"
 prerequisites:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 specializes:
   - "[[]]"
 broader:
@@ -74,7 +74,7 @@ provenance:
 # Efficacy Calibration
 
 > [!definition] **Efficacy Calibration**
-> Efficacy calibration refers to the alignment of a person's self-efficacy beliefs with their actual capability for performing specific tasks, ensuring that overconfident or underconfident beliefs are adjusted based on feedback and experience. It falls under [[Self-Regulated Learning]], where well-calibrated beliefs match capability, overconfident beliefs exceed capability, and underconfident beliefs fall below it.
+> Efficacy calibration refers to the alignment of a person's self-efficacy beliefs with their actual capability for performing specific tasks, ensuring that overconfident or underconfident beliefs are adjusted based on feedback and experience. It falls under [[self-regulated-learning]], where well-calibrated beliefs match capability, overconfident beliefs exceed capability, and underconfident beliefs fall below it.
 
 > [!attention] **Boundary**
 > This concept specifically concerns the alignment of efficacy belief with capability for defined performance domains. It is distinct from general accuracy in self-perception and varies across different tasks depending on the richness of feedback received.
@@ -133,9 +133,9 @@ Understanding efficacy calibration also bridges the gap between metacognition an
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Metacognition]]
+**Prerequisites:** [[metacognition]]
 
 **Contrasts with:** [[Confidence Calibration]]
 

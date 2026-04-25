@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Software Engineering"
 
 related:
-  - "[[Modular Design]]"
-  - "[[Version Control]]"
+  - "[[modular-design]]"
+  - "[[version-control]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,13 +42,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Modular Design]]"
+  - "[[modular-design]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Version Control]]"
+  - "[[version-control]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,8 +133,8 @@ The importance of Dependency Management extends beyond individual projects; it i
 
 **Falls under:** [[Software Engineering]]
 
-**Sibling concepts:** [[Modular Design]]
+**Sibling concepts:** [[modular-design]]
 
-**Applies to:** [[Version Control]]
+**Applies to:** [[version-control]]
 
 **Source:** [[dependency-management-synthetic-seed-2026-04-24]]

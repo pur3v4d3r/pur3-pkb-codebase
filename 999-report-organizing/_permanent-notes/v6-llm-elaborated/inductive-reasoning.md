@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Epistemology"
 
 related:
-  - "[[Deductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
+  - "[[deductive-reasoning]]"
+  - "[[abductive-reasoning]]"
   - "[[Empirical Science]]"
 prerequisites:
   - "[[]]"
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Deductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
+  - "[[deductive-reasoning]]"
+  - "[[abductive-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -135,7 +135,7 @@ The concept of inductive reasoning intersects with other epistemological concept
 
 **Falls under:** [[Epistemology]]
 
-**Contrasts with:** [[Deductive Reasoning]] · [[Abductive Reasoning]]
+**Contrasts with:** [[deductive-reasoning]] · [[abductive-reasoning]]
 
 **Applies to:** [[Empirical Science]]
 

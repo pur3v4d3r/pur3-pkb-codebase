@@ -1,0 +1,38 @@
+concept: Judgment of Learning JOL
+domain: cognitive-science
+secondary_domains:
+- metacognition
+- memory-research
+aliases:
+- JOL
+- judgment of learning
+broader:
+- metacognitive-monitoring
+related:
+- feeling-of-knowing-fok
+- calibration
+- ease-of-learning-judgment
+- retrieval-practice
+prerequisites:
+- metacognition
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Judgment of Learning JOL
+  body: A Judgment of Learning JOL is a learner's prospective estimate, made shortly
+    after study, of the probability that a recently encoded item will be retrievable
+    on a later test, and it is the most widely studied class of metacognitive monitoring
+    judgment in the Nelson-Narens framework.
+- type: key-claim
+  title: Key claim about Judgment of Learning JOL
+  body: Judgment of Learning JOL accuracy improves dramatically when the judgment
+    is made on a delay rather than immediately after study, because delayed Judgment
+    of Learning JOL relies on retrieval cues that diagnose long-term retention rather
+    than on momentary fluency in [[working-memory]].
+- type: warning
+  title: Common pitfall regarding Judgment of Learning JOL
+  body: A Judgment of Learning JOL is systematically inflated by perceptual fluency
+    cues such as font legibility, fluent re-reading, and massed repetition; conflating
+    high Judgment of Learning JOL confidence with actual learning is the mechanism
+    behind the [[illusion-of-fluency]] and overconfident exam preparation.

@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Growth Mindset]]"
-  - "[[Achievement Goal Theory]]"
-  - "[[Causal Attribution]]"
-  - "[[Mastery Climate]]"
+  - "[[growth-mindset]]"
+  - "[[achievement-goal-theory]]"
+  - "[[causal-attribution]]"
+  - "[[mastery-climate]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,15 +45,15 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Achievement Goal Theory]]"
-  - "[[Causal Attribution]]"
-  - "[[Mastery Climate]]"
+  - "[[achievement-goal-theory]]"
+  - "[[causal-attribution]]"
+  - "[[mastery-climate]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Implicit Theories of Intelligence
 
 > [!definition] **Implicit Theories of Intelligence**
-> Implicit Theories of Intelligence are lay belief systems about the nature of cognitive ability, distinguishing between a fixed (entity) theory and an incremental (growth) theory. These theories function as motivational frames rather than discrete beliefs, influencing downstream goals, attributions, and responses to setbacks. It falls under [[Motivational Psychology]].
+> Implicit Theories of Intelligence are lay belief systems about the nature of cognitive ability, distinguishing between a fixed (entity) theory and an incremental (growth) theory. These theories function as motivational frames rather than discrete beliefs, influencing downstream goals, attributions, and responses to setbacks. It falls under [[motivational-psychology]].
 
 > [!attention] **Boundary**
 > This concept excludes specific psychological theories like attribution theory or learned helplessness but includes related motivational frameworks such as achievement goal theory and mastery climate.
@@ -136,10 +136,10 @@ The concept also intersects with other motivational frameworks such as achieveme
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Sibling concepts:** [[Growth Mindset]]
+**Sibling concepts:** [[growth-mindset]]
 
-**Applies to:** [[Achievement Goal Theory]] · [[Causal Attribution]] · [[Mastery Climate]]
+**Applies to:** [[achievement-goal-theory]] · [[causal-attribution]] · [[mastery-climate]]
 
 **Source:** [[implicit-theories-of-intelligence-synthetic-seed-2026-04-24]]

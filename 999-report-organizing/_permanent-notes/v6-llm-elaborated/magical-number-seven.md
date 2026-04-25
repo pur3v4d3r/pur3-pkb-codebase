@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory Capacity]]"
-  - "[[Cognitive Chunking]]"
+  - "[[working-memory-capacity]]"
+  - "[[cognitive-chunking]]"
 prerequisites:
-  - "[[Working Memory Capacity]]"
+  - "[[working-memory-capacity]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Chunking]]"
+  - "[[cognitive-chunking]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Magical Number Seven
 
 > [!definition] **Magical Number Seven**
-> The Magical Number Seven refers to the empirical observation that humans can typically hold around seven items of information in their working memory, plus or minus two, depending on how those items are chunked. This concept falls under [[Cognitive Architecture]], as it pertains to the span limit of immediate memory and is closely related to the mechanisms of working memory and cognitive chunking.
+> The Magical Number Seven refers to the empirical observation that humans can typically hold around seven items of information in their working memory, plus or minus two, depending on how those items are chunked. This concept falls under [[cognitive-architecture]], as it pertains to the span limit of immediate memory and is closely related to the mechanisms of working memory and cognitive chunking.
 
 > [!attention] **Boundary**
 > This concept is primarily about the span limit of immediate memory and does not encompass long-term memory capacity or other cognitive processes like attention or perception.
@@ -131,10 +131,10 @@ The concept of the Magical Number Seven is crucial for understanding human memor
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory Capacity]]
+**Prerequisites:** [[working-memory-capacity]]
 
-**Applies to:** [[Cognitive Chunking]]
+**Applies to:** [[cognitive-chunking]]
 
 **Source:** [[magical-number-seven-synthetic-seed-2026-04-24]]

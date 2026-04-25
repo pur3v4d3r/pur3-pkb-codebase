@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Metacognitive Knowledge]]"
+  - "[[working-memory]]"
+  - "[[metacognitive-knowledge]]"
   - "[[Strategy Instruction]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Metacognitive Knowledge]]"
+  - "[[metacognitive-knowledge]]"
   - "[[Strategy Instruction]]"
 contradicts:
   - "[[]]"
@@ -130,10 +130,10 @@ The concept has broader implications across cognitive psychology and education, 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Metacognitive Knowledge]] · [[Strategy Instruction]]
+**Contrasts with:** [[metacognitive-knowledge]] · [[Strategy Instruction]]
 
 **Source:** [[cognitive-strategy-use-synthetic-seed-2026-04-24]]

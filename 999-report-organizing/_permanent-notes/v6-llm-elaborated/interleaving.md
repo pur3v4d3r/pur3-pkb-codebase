@@ -35,7 +35,7 @@ parent-concept: "Desirable Difficulties"
 related:
   - "[[Discrimination Learning]]"
   - "[[Blocked Practice]]"
-  - "[[Spaced Retrieval]]"
+  - "[[spaced-retrieval]]"
 prerequisites:
   - "[[Discrimination Learning]]"
 specializes:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Spaced Retrieval]]"
+  - "[[spaced-retrieval]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Interleaving
 
 > [!definition] **Interleaving**
-> Interleaving is a practice schedule where learners alternate between multiple related problem types or skill variants within a session, rather than completing all instances of one type before moving to the next. It falls under [[Desirable Difficulties]], and it requires discriminably similar categories for effective learning; otherwise, it collapses into mere context-switching without the intended benefits.
+> Interleaving is a practice schedule where learners alternate between multiple related problem types or skill variants within a session, rather than completing all instances of one type before moving to the next. It falls under [[desirable-difficulties]], and it requires discriminably similar categories for effective learning; otherwise, it collapses into mere context-switching without the intended benefits.
 
 > [!attention] **Boundary**
 > It is distinct from random or shuffled practice and requires discriminably similar categories for effective learning. Interleaving does not apply when unrelated content is alternated without similarity.
@@ -137,12 +137,12 @@ Empirical evidence consistently shows that interleaving improves delayed retenti
 
 ## Connections & Context
 
-**Falls under:** [[Desirable Difficulties]]
+**Falls under:** [[desirable-difficulties]]
 
 **Prerequisites:** [[Discrimination Learning]]
 
 **Contrasts with:** [[Blocked Practice]]
 
-**Applies to:** [[Spaced Retrieval]]
+**Applies to:** [[spaced-retrieval]]
 
 **Source:** [[interleaving-synthetic-seed-2026-04-24]]

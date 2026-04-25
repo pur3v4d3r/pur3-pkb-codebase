@@ -1,0 +1,38 @@
+concept: Autonomy Supportive Teaching
+domain: educational-psychology
+secondary_domains:
+- self-determination-theory
+- motivational-psychology
+aliases:
+- autonomy-supportive instruction
+- ASI
+broader:
+- autonomy-support
+related:
+- autonomy-need
+- controlling-teaching-styles
+- structure
+- self-determination-theory-sdt
+prerequisites:
+- autonomy-support
+- self-determination-theory-sdt
+confidence: high
+callouts:
+- type: definition
+  title: Autonomy Supportive Teaching
+  body: Autonomy Supportive Teaching is the instructional style in which teachers
+    nurture students' inner motivational resources by acknowledging students' perspectives,
+    providing meaningful rationales, offering choice within structure, and minimising
+    controlling language and contingent rewards.
+- type: key-claim
+  title: Key claim about Autonomy Supportive Teaching
+  body: Autonomy Supportive Teaching is empirically associated with deeper conceptual
+    learning, higher persistence, and lower dropout than controlling teaching styles,
+    and the effect is mediated by satisfaction of the basic psychological needs that
+    self-determination theory specifies.
+- type: warning
+  title: Common pitfall regarding Autonomy Supportive Teaching
+  body: Autonomy Supportive Teaching is often confused with permissive or unstructured
+    teaching; in fact Autonomy Supportive Teaching combines high responsiveness with
+    high structure, and removing structure in the name of "giving students freedom"
+    undermines the very autonomy Autonomy Supportive Teaching is meant to support.

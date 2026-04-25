@@ -74,7 +74,7 @@ provenance:
 # Cargo-Cult Coding
 
 > [!definition] **Cargo-Cult Coding**
-> Cargo-cult coding is the practice of accepting and using generated or copied code that works without understanding why it works, leading to fragile competence. It falls under [[Cognitive Architecture]], as it pertains to how developers' mental models and knowledge structures influence their ability to understand and modify software.
+> Cargo-cult coding is the practice of accepting and using generated or copied code that works without understanding why it works, leading to fragile competence. It falls under [[cognitive-architecture]], as it pertains to how developers' mental models and knowledge structures influence their ability to understand and modify software.
 
 > [!attention] **Boundary**
 > This concept excludes situations where the developer fully understands the code but chooses not to understand for efficiency reasons. It is distinct from accidental bugs in code.
@@ -133,7 +133,7 @@ Cargo-cult coding also underscores the need for tools like GitHub Copilot to be 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Contrasts with:** [[Rote Learning]] · [[Accidental Bugs]]
 

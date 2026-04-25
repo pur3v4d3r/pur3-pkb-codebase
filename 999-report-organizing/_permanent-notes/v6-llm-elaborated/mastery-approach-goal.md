@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Goal Orientation Framework"
 
 related:
-  - "[[Performance-Approach Goal]]"
-  - "[[Mastery-Avoidance Goal]]"
-  - "[[Performance-Avoidance Goal]]"
-  - "[[Growth Mindset]]"
+  - "[[performance-approach-goal]]"
+  - "[[mastery-avoidance-goal]]"
+  - "[[performance-avoidance-goal]]"
+  - "[[growth-mindset]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,10 +49,10 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Performance-Approach Goal]]"
-  - "[[Mastery-Avoidance Goal]]"
-  - "[[Performance-Avoidance Goal]]"
-  - "[[Growth Mindset]]"
+  - "[[performance-approach-goal]]"
+  - "[[mastery-avoidance-goal]]"
+  - "[[performance-avoidance-goal]]"
+  - "[[growth-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -139,6 +139,6 @@ Mastery-approach goals are significant in educational psychology because they pr
 
 **Falls under:** [[Goal Orientation Framework]]
 
-**Contrasts with:** [[Performance-Approach Goal]] · [[Mastery-Avoidance Goal]] · [[Performance-Avoidance Goal]] · [[Growth Mindset]]
+**Contrasts with:** [[performance-approach-goal]] · [[mastery-avoidance-goal]] · [[performance-avoidance-goal]] · [[growth-mindset]]
 
 **Source:** [[goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20]]

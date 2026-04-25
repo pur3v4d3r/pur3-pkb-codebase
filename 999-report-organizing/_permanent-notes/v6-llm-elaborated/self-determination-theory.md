@@ -36,21 +36,21 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Basic Psychological Needs Theory]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[basic-psychological-needs-theory]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Basic Psychological Needs Theory]]"
+  - "[[basic-psychological-needs-theory]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -78,7 +78,7 @@ provenance:
 # Self-Determination Theory
 
 > [!definition] **Self-Determination Theory**
-> Self-Determination Theory (SDT), developed by Edward Deci and Richard Ryan, posits that sustained engagement requires satisfaction of three basic psychological needs: autonomy (the sense of volitional agency over one's actions), competence (the sense of effective interaction with the environment), and relatedness (the sense of connection to others). It falls under [[Cognitive Architecture]], as SDT provides a framework for understanding how these needs influence motivation. While intrinsic motivation is often seen as ideal, SDT does not claim it is always necessary; identified and integrated forms of extrinsic motivation can also sustain high-quality engagement, with the key variable being the degree of autonomy.
+> Self-Determination Theory (SDT), developed by Edward Deci and Richard Ryan, posits that sustained engagement requires satisfaction of three basic psychological needs: autonomy (the sense of volitional agency over one's actions), competence (the sense of effective interaction with the environment), and relatedness (the sense of connection to others). It falls under [[cognitive-architecture]], as SDT provides a framework for understanding how these needs influence motivation. While intrinsic motivation is often seen as ideal, SDT does not claim it is always necessary; identified and integrated forms of extrinsic motivation can also sustain high-quality engagement, with the key variable being the degree of autonomy.
 
 > [!attention] **Boundary**
 > SDT does not claim intrinsic motivation is always necessary; identified and integrated forms of extrinsic motivation can also sustain high-quality engagement. The key variable is the degree of autonomy, not the presence or absence of intrinsic motivation.
@@ -128,12 +128,12 @@ SDT matters because it provides a comprehensive framework for understanding huma
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Basic Psychological Needs Theory]]
+**Generalizes to:** [[basic-psychological-needs-theory]]
 
-**Sibling concepts:** [[Intrinsic Motivation]] · [[Extrinsic Motivation]]
+**Sibling concepts:** [[intrinsic-motivation]] · [[extrinsic-motivation]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

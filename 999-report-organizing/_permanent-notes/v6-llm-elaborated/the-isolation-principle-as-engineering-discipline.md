@@ -36,16 +36,16 @@ depth-level: elaborated
 parent-concept: "Modular Design"
 
 related:
-  - "[[Modular Design]]"
-  - "[[Dependency Management]]"
+  - "[[modular-design]]"
+  - "[[dependency-management]]"
 prerequisites:
-  - "[[Modular Design]]"
+  - "[[modular-design]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Dependency Management]]"
+  - "[[dependency-management]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # The Isolation Principle
 
 > [!definition] **The Isolation Principle**
-> The Isolation Principle in software development requires each project to have its own virtual environment, ensuring explicit and reproducible dependencies. This principle falls under [[Modular Design]], as it ensures that components do not share hidden dependencies, which can create coupling and fragility in systems.
+> The Isolation Principle in software development requires each project to have its own virtual environment, ensuring explicit and reproducible dependencies. This principle falls under [[modular-design]], as it ensures that components do not share hidden dependencies, which can create coupling and fragility in systems.
 
 > [!attention] **Boundary**
 > This principle excludes the use of shared system-wide Python installations for projects, focusing on isolated environments with explicit dependency management.
@@ -134,10 +134,10 @@ The Isolation Principle also has implications for collaborative development and 
 
 ## Connections & Context
 
-**Falls under:** [[Modular Design]]
+**Falls under:** [[modular-design]]
 
-**Prerequisites:** [[Modular Design]]
+**Prerequisites:** [[modular-design]]
 
-**Sibling concepts:** [[Dependency Management]]
+**Sibling concepts:** [[dependency-management]]
 
 **Source:** [[python-development-in-vscode-with-copilot-foundational-report-2026-04-19]]

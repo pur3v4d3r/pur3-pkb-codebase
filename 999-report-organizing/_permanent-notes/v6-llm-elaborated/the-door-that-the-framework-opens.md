@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Achievement Goal Theory]]"
-  - "[[Cognitive Strategy Use]]"
+  - "[[achievement-goal-theory]]"
+  - "[[cognitive-strategy-use]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,11 +47,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Achievement Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Strategy Use]]"
+  - "[[cognitive-strategy-use]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Regulation of Motivation
 
 > [!definition] **Regulation of Motivation**
-> The Regulation of Motivation is the process by which individuals control and direct their motivational states to achieve learning goals, as articulated in Pintrich's framework. It falls under [[Self-Regulated Learning]], where motivation is treated not just as an input but as a regulated object that can be developed through deliberate practice, similar to cognitive strategy use.
+> The Regulation of Motivation is the process by which individuals control and direct their motivational states to achieve learning goals, as articulated in Pintrich's framework. It falls under [[self-regulated-learning]], where motivation is treated not just as an input but as a regulated object that can be developed through deliberate practice, similar to cognitive strategy use.
 
 > [!attention] **Boundary**
 > This concept focuses on the regulation of motivation but excludes other aspects such as cognitive strategies or external factors influencing motivation.
@@ -86,7 +86,7 @@ Pintrich’s framework fundamentally shifts the way we understand and approach m
 
 In practical terms, this shift allows educators and researchers to design interventions aimed at improving students' ability to regulate their own motivation effectively. For instance, by teaching students specific techniques to set realistic goals, monitor progress, and adjust their efforts based on feedback, they can develop a more adaptive approach to learning challenges. This not only enhances their academic performance but also builds resilience and self-efficacy.
 
-The theoretical roots of this concept lie in the broader field of [[Self-Regulated Learning]], where motivation is seen as one of several key components that influence learning outcomes. However, Pintrich’s framework provides a more nuanced understanding by explicitly treating motivational regulation as a learnable skill, distinct from other aspects such as cognitive strategies or external factors influencing motivation.
+The theoretical roots of this concept lie in the broader field of [[self-regulated-learning]], where motivation is seen as one of several key components that influence learning outcomes. However, Pintrich’s framework provides a more nuanced understanding by explicitly treating motivational regulation as a learnable skill, distinct from other aspects such as cognitive strategies or external factors influencing motivation.
 
 Empirically, this shift has had significant implications for educational practice. For example, studies have shown that interventions designed to enhance students' ability to regulate their motivation lead to improved academic performance and greater persistence in challenging tasks. This underscores the practical value of Pintrich’s framework in guiding effective teaching strategies.
 
@@ -115,7 +115,7 @@ Deliberate practice plays a crucial role in developing motivational regulation, 
 
 ## Key Figures
 
-- **John Sweller** — Although John Sweller’s work on [[Working Memory]] provided foundational insights into how information is processed in the brain, his contributions to Pintrich's framework were instrumental. Sweller helped establish the importance of cognitive load theory, which influenced Pintrich’s approach to understanding and regulating motivation within a learning context.
+- **John Sweller** — Although John Sweller’s work on [[working-memory]] provided foundational insights into how information is processed in the brain, his contributions to Pintrich's framework were instrumental. Sweller helped establish the importance of cognitive load theory, which influenced Pintrich’s approach to understanding and regulating motivation within a learning context.
 
 ## Open Questions
 
@@ -137,10 +137,10 @@ The concept of motivational regulation is particularly valuable because it bridg
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Achievement Goal Theory]]
+**Contrasts with:** [[achievement-goal-theory]]
 
-**Applies to:** [[Cognitive Strategy Use]]
+**Applies to:** [[cognitive-strategy-use]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

@@ -33,7 +33,7 @@ parent-concept: "Critical Thinking"
 
 related:
   - "[[Informal Logic]]"
-  - "[[Argument Analysis]]"
+  - "[[argument-analysis]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[Informal Logic]]"
 see-also:
-  - "[[Argument Analysis]]"
+  - "[[argument-analysis]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -71,7 +71,7 @@ provenance:
 # Critical Reasoning
 
 > [!definition] **Critical Reasoning**
-> Critical Reasoning involves the deliberate evaluation of arguments and evidence to assess the strength of conclusions and identify underlying assumptions, making it a core component of [[Critical Thinking]]. It operates by breaking down argument structures into premises, intermediate conclusions, and final conclusions, assessing each premise for plausibility, evaluating inferential steps, and identifying unstated assumptions before reaching a judgment on the conclusion's validity.
+> Critical Reasoning involves the deliberate evaluation of arguments and evidence to assess the strength of conclusions and identify underlying assumptions, making it a core component of [[critical-thinking]]. It operates by breaking down argument structures into premises, intermediate conclusions, and final conclusions, assessing each premise for plausibility, evaluating inferential steps, and identifying unstated assumptions before reaching a judgment on the conclusion's validity.
 
 > [!attention] **Boundary**
 > This includes making argument structure explicit, assessing each premise for plausibility, evaluating inferential steps, and identifying unstated assumptions. It does not include mere disagreement or skepticism without considering evidence.
@@ -130,10 +130,10 @@ As a subset of informal logic, critical reasoning complements formal logical met
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
 **Generalizes to:** [[Informal Logic]]
 
-**Sibling concepts:** [[Argument Analysis]]
+**Sibling concepts:** [[argument-analysis]]
 
 **Source:** [[critical-reasoning-synthetic-seed-2026-04-24]]

@@ -1,0 +1,37 @@
+concept: Possible Selves
+domain: motivational-psychology
+secondary_domains:
+- self-concept
+- identity-psychology
+aliases:
+- Markus-Nurius possible selves
+broader:
+- self-concept
+related:
+- feared-self
+- ideal-self
+- identity-based-motivation
+- future-self-continuity
+- goal-setting-theory
+prerequisites:
+- self-concept
+confidence: high
+callouts:
+- type: definition
+  title: Possible Selves
+  body: Possible Selves are the cognitively elaborated images a person holds of who
+    they might become, who they would like to become, and who they fear becoming,
+    and they function as personalised motivational structures that link the present
+    self to specific future trajectories.
+- type: key-claim
+  title: Key claim about Possible Selves
+  body: Possible Selves are most motivationally effective when they are paired with
+    concrete strategies for reaching the desired Possible Selves and avoiding the
+    feared Possible Selves; without this strategy linkage, Possible Selves operate
+    as fantasies that can actually depress goal pursuit.
+- type: warning
+  title: Common pitfall regarding Possible Selves
+  body: Possible Selves are often mistaken for general aspirations or values; the
+    empirical construct requires vivid, self-relevant, and contextually situated representations,
+    so generic "be successful" goals do not function as Possible Selves and do not
+    produce the motivational effects the literature documents.

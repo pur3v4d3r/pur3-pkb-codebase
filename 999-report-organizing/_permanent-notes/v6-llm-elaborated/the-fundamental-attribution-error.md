@@ -37,7 +37,7 @@ parent-concept: "Cognitive Architecture"
 related:
   - "[[Actor-Observer Asymmetry]]"
   - "[[Self-Serving Bias]]"
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Fundamental Attribution Error
 
 > [!definition] **Fundamental Attribution Error**
-> The Fundamental Attribution Error (FAE) is a cognitive bias where people tend to attribute others' behavior to their dispositions or personality traits rather than situational factors, underweighting the latter's influence. It falls under [[Cognitive Architecture]], as it reflects the structure of information processing and perceptual salience effects in social cognition.
+> The Fundamental Attribution Error (FAE) is a cognitive bias where people tend to attribute others' behavior to their dispositions or personality traits rather than situational factors, underweighting the latter's influence. It falls under [[cognitive-architecture]], as it reflects the structure of information processing and perceptual salience effects in social cognition.
 
 > [!attention] **Boundary**
 > This concept specifically refers to attributions of other people's behaviors and does not apply to self-attributions. It should not be confused with similar cognitive biases like the actor-observer asymmetry or the self-serving bias.
@@ -139,10 +139,10 @@ The FAE also highlights the importance of considering situational factors when e
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Contrasts with:** [[Actor-Observer Asymmetry]] · [[Self-Serving Bias]]
 
-**Applies to:** [[Dual-Process Theory]]
+**Applies to:** [[dual-process-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

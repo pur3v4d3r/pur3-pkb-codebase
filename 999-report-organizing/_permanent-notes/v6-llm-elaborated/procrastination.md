@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Intention-Behavior Gap]]"
-  - "[[Volitional Control]]"
-  - "[[Self-Handicapping]]"
-  - "[[Temporal Motivation Theory]]"
+  - "[[intention-behavior-gap]]"
+  - "[[volitional-control]]"
+  - "[[self-handicapping]]"
+  - "[[temporal-motivation-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,9 +45,9 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intention-Behavior Gap]]"
-  - "[[Volitional Control]]"
-  - "[[Self-Handicapping]]"
+  - "[[intention-behavior-gap]]"
+  - "[[volitional-control]]"
+  - "[[self-handicapping]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -57,7 +57,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Temporal Motivation Theory]]"
+  - "[[temporal-motivation-theory]]"
 refines:
   - "[[]]"
 
@@ -75,7 +75,7 @@ provenance:
 # Procrastination
 
 > [!definition] **Procrastination**
-> Procrastination is the voluntary delay of an intended course of action despite expecting to be worse off for the delay, distinguished from rational delay by the actor's own anticipation that postponement will produce a worse outcome than acting now would. It falls under [[Self-Regulated Learning]], where it represents a self-regulation failure in emotion management rather than time management.
+> Procrastination is the voluntary delay of an intended course of action despite expecting to be worse off for the delay, distinguished from rational delay by the actor's own anticipation that postponement will produce a worse outcome than acting now would. It falls under [[self-regulated-learning]], where it represents a self-regulation failure in emotion management rather than time management.
 
 > [!attention] **Boundary**
 > This concept excludes strategic prioritization and conflates self-regulation failures with other behaviors. It should not be confused with time management issues or deliberate scheduling delays.
@@ -131,10 +131,10 @@ Procrastination also has implications for time management and strategic prioriti
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Intention-Behavior Gap]] · [[Volitional Control]] · [[Self-Handicapping]]
+**Contrasts with:** [[intention-behavior-gap]] · [[volitional-control]] · [[self-handicapping]]
 
-**Supports:** [[Temporal Motivation Theory]]
+**Supports:** [[temporal-motivation-theory]]
 
 **Source:** [[procrastination-synthetic-seed-2026-04-25]]

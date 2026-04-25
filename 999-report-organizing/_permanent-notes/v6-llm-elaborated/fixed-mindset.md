@@ -32,18 +32,18 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Implicit Theories of Intelligence]]"
-  - "[[Growth Mindset]]"
+  - "[[implicit-theories-of-intelligence]]"
+  - "[[growth-mindset]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Implicit Theories of Intelligence]]"
+  - "[[implicit-theories-of-intelligence]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -71,7 +71,7 @@ provenance:
 # Fixed Mindset
 
 > [!definition] **Fixed Mindset**
-> A Fixed Mindset is the belief that one's intelligence and abilities are fixed traits, leading to avoidance of challenges and attributing failure to lack of ability. This concept falls under [[Self-Regulated Learning]], where it contrasts with a growth mindset, which promotes development through effort.
+> A Fixed Mindset is the belief that one's intelligence and abilities are fixed traits, leading to avoidance of challenges and attributing failure to lack of ability. This concept falls under [[self-regulated-learning]], where it contrasts with a growth mindset, which promotes development through effort.
 
 > [!attention] **Boundary**
 > This concept excludes beliefs about malleable or growth-oriented views of intelligence and does not encompass all forms of self-perception or motivation.
@@ -130,10 +130,10 @@ The Fixed Mindset concept also intersects with other related concepts such as Im
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Implicit Theories of Intelligence]]
+**Generalizes to:** [[implicit-theories-of-intelligence]]
 
-**Contrasts with:** [[Growth Mindset]]
+**Contrasts with:** [[growth-mindset]]
 
 **Source:** [[fixed-mindset-synthetic-seed-2026-04-24]]

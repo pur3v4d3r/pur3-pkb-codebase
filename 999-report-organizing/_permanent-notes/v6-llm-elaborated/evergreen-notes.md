@@ -32,23 +32,23 @@ depth-level: elaborated
 parent-concept: "Zettelkasten"
 
 related:
-  - "[[Atomic Notes]]"
-  - "[[Zettelkasten]]"
-  - "[[Progressive Summarization]]"
+  - "[[atomic-notes]]"
+  - "[[zettelkasten]]"
+  - "[[progressive-summarization]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Atomic Notes]]"
+  - "[[atomic-notes]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Progressive Summarization]]"
+  - "[[progressive-summarization]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Evergreen Notes
 
 > [!definition] **Evergreen Notes**
-> Evergreen Notes are atomic, concept-oriented notes that are continually refined over years rather than written once and archived, designed to compound in value as the network around them grows. This practice falls under [[Zettelkasten]], where it is a specialized form of interconnected note-taking that emphasizes ongoing refinement and linking.
+> Evergreen Notes are atomic, concept-oriented notes that are continually refined over years rather than written once and archived, designed to compound in value as the network around them grows. This practice falls under [[zettelkasten]], where it is a specialized form of interconnected note-taking that emphasizes ongoing refinement and linking.
 
 > [!attention] **Boundary**
 > This concept excludes static notes that are not revisited or linked. Evergreen Notes focus on ongoing refinement and interconnectedness rather than a one-time write-and-archive approach.
@@ -131,12 +131,12 @@ The importance of Evergreen Notes extends beyond individual knowledge management
 
 ## Connections & Context
 
-**Falls under:** [[Zettelkasten]]
+**Falls under:** [[zettelkasten]]
 
-**Specializes:** [[Atomic Notes]]
+**Specializes:** [[atomic-notes]]
 
-**Sibling concepts:** [[Zettelkasten]]
+**Sibling concepts:** [[zettelkasten]]
 
-**Applies to:** [[Progressive Summarization]]
+**Applies to:** [[progressive-summarization]]
 
 **Source:** [[evergreen-notes-synthetic-seed-2026-04-25]]

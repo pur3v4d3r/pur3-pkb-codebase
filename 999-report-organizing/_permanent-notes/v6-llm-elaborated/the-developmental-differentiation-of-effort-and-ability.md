@@ -35,8 +35,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Growth Mindset]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[growth-mindset]]"
+  - "[[self-efficacy-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,11 +46,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Developmental Differentiation of Effort and Ability
 
 > [!definition] **Developmental Differentiation of Effort and Ability**
-> The Developmental Differentiation of Effort and Ability refers to the cognitive transition from viewing effort and ability as fused concepts to recognizing them as distinct, where high effort often signals low ability. This concept falls under [[Cognitive Architecture]], highlighting a pivotal shift in how children understand their own competence.
+> The Developmental Differentiation of Effort and Ability refers to the cognitive transition from viewing effort and ability as fused concepts to recognizing them as distinct, where high effort often signals low ability. This concept falls under [[cognitive-architecture]], highlighting a pivotal shift in how children understand their own competence.
 
 > [!attention] **Boundary**
 > This concept does not include discussions on specific attribution theories or models but focuses on the cognitive development aspect of understanding effort and ability separately.
@@ -130,10 +130,10 @@ This concept also intersects with related theories such as Self-Efficacy Theory 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Growth Mindset]]
+**Contrasts with:** [[growth-mindset]]
 
-**Applies to:** [[Self-Efficacy Theory]]
+**Applies to:** [[self-efficacy-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

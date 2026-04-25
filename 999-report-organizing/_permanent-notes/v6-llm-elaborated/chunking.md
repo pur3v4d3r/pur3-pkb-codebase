@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Pattern Recognition]]"
-  - "[[Schema Construction]]"
+  - "[[working-memory]]"
+  - "[[pattern-recognition]]"
+  - "[[schema-construction]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Pattern Recognition]]"
+  - "[[pattern-recognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -57,7 +57,7 @@ instance-of:
 supports:
   - "[[]]"
 refines:
-  - "[[Schema Construction]]"
+  - "[[schema-construction]]"
 
 review-frequency: quarterly
 mastery-stage: budding
@@ -73,7 +73,7 @@ provenance:
 # Chunking
 
 > [!definition] **Chunking**
-> Chunking is the cognitive process by which several previously unrelated elements are bound into a single retrievable unit — a *chunk* — that thereafter occupies one slot of working memory rather than several, allowing the freed capacity to be redeployed onto higher-order relations. It falls under [[Cognitive Architecture]], enhancing recall and pattern recognition by organizing information into meaningful units in long-term memory.
+> Chunking is the cognitive process by which several previously unrelated elements are bound into a single retrievable unit — a *chunk* — that thereafter occupies one slot of working memory rather than several, allowing the freed capacity to be redeployed onto higher-order relations. It falls under [[cognitive-architecture]], enhancing recall and pattern recognition by organizing information into meaningful units in long-term memory.
 
 > [!attention] **Boundary**
 > Chunking focuses on the binding of elements into meaningful units in long-term memory. It does not include mnemonic techniques or surface-level encoding strategies.
@@ -132,12 +132,12 @@ Chunking is a key component in schema construction, which organizes knowledge hi
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Pattern Recognition]]
+**Applies to:** [[pattern-recognition]]
 
-**Refines:** [[Schema Construction]]
+**Refines:** [[schema-construction]]
 
 **Source:** [[chunking-synthetic-seed-2026-04-24]]

@@ -32,23 +32,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Active Learning]]"
-  - "[[Zettelkasten]]"
+  - "[[working-memory]]"
+  - "[[active-learning]]"
+  - "[[zettelkasten]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Active Learning]]"
+  - "[[active-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Note Making vs Note Taking
 
 > [!definition] **Note Making vs Note Taking**
-> The Note Making vs Note Taking distinction contrasts note-taking (transcription or summary of source material for later retrieval) with note-making (active reformulation of ideas in one's own words, reconnected to prior knowledge, primarily for thinking), and treats note-making as the cognitively productive form. It falls under [[Cognitive Architecture]].
+> The Note Making vs Note Taking distinction contrasts note-taking (transcription or summary of source material for later retrieval) with note-making (active reformulation of ideas in one's own words, reconnected to prior knowledge, primarily for thinking), and treats note-making as the cognitively productive form. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept excludes passive transcription and focuses on the cognitive processes involved in generating new knowledge through note-making.
@@ -131,12 +131,12 @@ Furthermore, recognizing the importance of generative processing in learning ali
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Active Learning]]
+**Sibling concepts:** [[active-learning]]
 
-**Applies to:** [[Zettelkasten]]
+**Applies to:** [[zettelkasten]]
 
 **Source:** [[note-making-vs-note-taking-synthetic-seed-2026-04-24]]

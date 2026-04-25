@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Goal Setting"
 
 related:
-  - "[[Goal Specificity]]"
-  - "[[Self-Efficacy]]"
+  - "[[goal-specificity]]"
+  - "[[self-efficacy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,9 +45,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Goal Specificity]]"
+  - "[[goal-specificity]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Goal Difficulty
 
 > [!definition] **Goal Difficulty**
-> Goal difficulty is the degree to which a goal exceeds what the performer would otherwise produce in its absence; operationalized as the percentage of subjects able to achieve the goal. It falls under [[Goal Setting]], where it supplies an energetic gradient that mobilizes resources beyond default operating levels, but is bounded above by perceived attainability — exceeding this limit can collapse commitment rather than intensify effort.
+> Goal difficulty is the degree to which a goal exceeds what the performer would otherwise produce in its absence; operationalized as the percentage of subjects able to achieve the goal. It falls under [[goal-setting]], where it supplies an energetic gradient that mobilizes resources beyond default operating levels, but is bounded above by perceived attainability — exceeding this limit can collapse commitment rather than intensify effort.
 
 > [!attention] **Boundary**
 > Goal difficulty is bounded above by perceived attainability; goals exceeding this limit can reduce commitment rather than intensify effort. It does not address subconscious or unaccepted goals.
@@ -135,10 +135,10 @@ The application of goal difficulty extends beyond individual performance to orga
 
 ## Connections & Context
 
-**Falls under:** [[Goal Setting]]
+**Falls under:** [[goal-setting]]
 
-**Sibling concepts:** [[Goal Specificity]]
+**Sibling concepts:** [[goal-specificity]]
 
-**Contrasts with:** [[Self-Efficacy]]
+**Contrasts with:** [[self-efficacy]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

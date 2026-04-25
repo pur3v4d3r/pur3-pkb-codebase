@@ -37,8 +37,8 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,9 +46,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contrasts-with:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # Autonomy (SDT)
 
 > [!definition] **Autonomy (SDT)**
-> In Self-Determination Theory (SDT), autonomy refers to the sense that one's behavior emanates from their own values and interests rather than external pressures or internal compulsions experienced as alien to the self. Autonomy in SDT does not equate with independence; it means the felt ownership of behavior, which is compatible with freely chosen compliance, interdependence, and reliance on others. It falls under [[Self-Determination Theory]].
+> In Self-Determination Theory (SDT), autonomy refers to the sense that one's behavior emanates from their own values and interests rather than external pressures or internal compulsions experienced as alien to the self. Autonomy in SDT does not equate with independence; it means the felt ownership of behavior, which is compatible with freely chosen compliance, interdependence, and reliance on others. It falls under [[self-determination-theory]].
 
 > [!attention] **Boundary**
 > Autonomy in SDT does not equate with independence; it means the felt ownership of behavior, which is compatible with freely chosen compliance, interdependence, and reliance on others. It stops at the experience of volition and self-endorsement, distinct from autonomy-as-independence.
@@ -139,10 +139,10 @@ Autonomy also bridges the gap between intrinsic and extrinsic motivation by emph
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Intrinsic Motivation]]
+**Sibling concepts:** [[intrinsic-motivation]]
 
-**Contrasts with:** [[Extrinsic Motivation]]
+**Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

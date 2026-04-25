@@ -36,23 +36,23 @@ depth-level: elaborated
 parent-concept: "Complex Learning"
 
 related:
-  - "[[Schema Construction]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Transfer-of-Learning]]"
+  - "[[schema-construction]]"
+  - "[[cognitive-load-theory]]"
+  - "[[transfer-of-learning]]"
 prerequisites:
-  - "[[Schema Construction]]"
+  - "[[schema-construction]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Transfer-of-Learning]]"
+  - "[[transfer-of-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Learning Task
 
 > [!definition] **Learning Task**
-> A Learning Task is an authentic whole-task experience organized into task classes of increasing complexity, designed to integrate multiple skills within a single performance context and serve as the backbone of the Four Component Instructional Design (4C/ID) model. It falls under [[Complex Learning]], where its defining characteristic is the integration of all constituent skills in a real-world scenario, rather than isolating individual skill components.
+> A Learning Task is an authentic whole-task experience organized into task classes of increasing complexity, designed to integrate multiple skills within a single performance context and serve as the backbone of the Four Component Instructional Design (4C/ID) model. It falls under [[complex-learning]], where its defining characteristic is the integration of all constituent skills in a real-world scenario, rather than isolating individual skill components.
 
 > [!attention] **Boundary**
 > Learning tasks are not exercises that isolate individual skill components but require learners to coordinate and apply all constituent skills in a real-world scenario. They should not be confused with part-task practice or traditional instructional methods that decompose complex skills into isolated sub-skills.
@@ -135,12 +135,12 @@ The 4C/ID model's emphasis on whole-task practice and systematic scaffold fading
 
 ## Connections & Context
 
-**Falls under:** [[Complex Learning]]
+**Falls under:** [[complex-learning]]
 
-**Prerequisites:** [[Schema Construction]]
+**Prerequisites:** [[schema-construction]]
 
-**Sibling concepts:** [[Cognitive Load Theory]]
+**Sibling concepts:** [[cognitive-load-theory]]
 
-**Applies to:** [[Transfer-of-Learning]]
+**Applies to:** [[transfer-of-learning]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

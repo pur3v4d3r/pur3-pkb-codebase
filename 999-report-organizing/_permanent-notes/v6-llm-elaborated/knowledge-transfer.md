@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Learning Processes"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Knowledge Transfer
 
 > [!definition] **Knowledge Transfer**
-> Knowledge Transfer is the application of learning from one context to another, ranging from near transfer (highly similar contexts) to far transfer (substantially different domains), and it falls under [[Learning Processes]]. This concept excludes surface generalization, focusing on deeper reorganization of approach in structurally novel demands.
+> Knowledge Transfer is the application of learning from one context to another, ranging from near transfer (highly similar contexts) to far transfer (substantially different domains), and it falls under [[learning-processes]]. This concept excludes surface generalization, focusing on deeper reorganization of approach in structurally novel demands.
 
 > [!attention] **Boundary**
 > This concept excludes surface generalization and focuses on deeper reorganization of approach in structurally novel demands.
@@ -134,10 +134,10 @@ Well-controlled studies have consistently shown that while near transfer is robu
 
 ## Connections & Context
 
-**Falls under:** [[Learning Processes]]
+**Falls under:** [[learning-processes]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[knowledge-transfer-synthetic-seed-2026-04-24]]

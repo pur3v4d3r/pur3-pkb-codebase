@@ -33,20 +33,20 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Directed Learning]]"
-  - "[[Pedagogy]]"
-  - "[[Andragogy]]"
+  - "[[self-directed-learning]]"
+  - "[[pedagogy]]"
+  - "[[andragogy]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Self-Directed Learning]]"
+  - "[[self-directed-learning]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Pedagogy]]"
-  - "[[Andragogy]]"
+  - "[[pedagogy]]"
+  - "[[andragogy]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Hetogogy
 
 > [!definition] **Hetogogy**
-> Hetogogy, proposed by Hase and Kenyon (2000), is the theory of self-determined learning where learners take full responsibility for both the path and content of their learning, making it a developmental successor to pedagogy and andragogy along an autonomy continuum. It falls under [[Self-Regulated Learning]].
+> Hetogogy, proposed by Hase and Kenyon (2000), is the theory of self-determined learning where learners take full responsibility for both the path and content of their learning, making it a developmental successor to pedagogy and andragogy along an autonomy continuum. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > Hetogogy excludes more directive forms of learning such as pedagogy and andragogy, focusing instead on mature, autonomous learners in uncertain domains.
@@ -132,10 +132,10 @@ Hetogogy matters because it provides a framework for self-determined learning th
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Specializes:** [[Self-Directed Learning]]
+**Specializes:** [[self-directed-learning]]
 
-**Contrasts with:** [[Pedagogy]] · [[Andragogy]]
+**Contrasts with:** [[pedagogy]] · [[andragogy]]
 
 **Source:** [[hetogogy-synthetic-seed-2026-04-24]]

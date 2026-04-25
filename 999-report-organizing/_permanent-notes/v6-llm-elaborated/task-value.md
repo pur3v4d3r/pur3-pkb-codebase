@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Self-Efficacy]]"
+  - "[[intrinsic-motivation]]"
+  - "[[self-efficacy]]"
   - "[[Interest Development]]"
 prerequisites:
   - "[[]]"
@@ -46,9 +46,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # Task Value
 
 > [!definition] **Task Value**
-> Task value is a multidimensional construct comprising intrinsic value (enjoyment), attainment value (importance to identity), utility value (usefulness for goals), and cost (negative consequences of engagement). It falls under [[Self-Regulated Learning]], where it conditions the learner's willingness to engage and persist, making it particularly amenable to deliberate activation in the forethought phase.
+> Task value is a multidimensional construct comprising intrinsic value (enjoyment), attainment value (importance to identity), utility value (usefulness for goals), and cost (negative consequences of engagement). It falls under [[self-regulated-learning]], where it conditions the learner's willingness to engage and persist, making it particularly amenable to deliberate activation in the forethought phase.
 
 > [!attention] **Boundary**
 > It should not be confused with interest, which is more about personal enjoyment. Task value includes both stable traits and deliberately activatable motivational dimensions.
@@ -136,11 +136,11 @@ Task value's importance extends beyond education into broader domains such as wo
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Intrinsic Motivation]]
+**Sibling concepts:** [[intrinsic-motivation]]
 
-**Contrasts with:** [[Self-Efficacy]]
+**Contrasts with:** [[self-efficacy]]
 
 **Applies to:** [[Interest Development]]
 

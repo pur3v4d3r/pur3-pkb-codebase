@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Generative Learning Theory
 
 > [!definition] **Generative Learning Theory**
-> Generative Learning Theory posits that meaningful learning occurs when learners actively generate connections between new material and prior knowledge through specific activities such as summarizing, mapping, and self-explanation. It falls under [[Cognitive Architecture]], focusing on the active generation of semantic connections rather than passive reception of information.
+> Generative Learning Theory posits that meaningful learning occurs when learners actively generate connections between new material and prior knowledge through specific activities such as summarizing, mapping, and self-explanation. It falls under [[cognitive-architecture]], focusing on the active generation of semantic connections rather than passive reception of information.
 
 > [!attention] **Boundary**
 > This theory focuses on the active generation of semantic connections rather than passive reception of information. It does not include busy-work or superficial engagement with content.
@@ -125,7 +125,7 @@ The mechanism behind generative learning involves the active processing of infor
 
 ## Synthesis
 
-Generative Learning Theory is crucial for enhancing educational practices by promoting active engagement and deep processing of information. By integrating generative activities into teaching methods, educators can foster meaningful learning experiences that lead to better retention and application of knowledge. This theory also aligns with the broader field of [[Working Memory]], where it provides a framework for understanding how learners process new information within their existing cognitive structures.
+Generative Learning Theory is crucial for enhancing educational practices by promoting active engagement and deep processing of information. By integrating generative activities into teaching methods, educators can foster meaningful learning experiences that lead to better retention and application of knowledge. This theory also aligns with the broader field of [[working-memory]], where it provides a framework for understanding how learners process new information within their existing cognitive structures.
 
 Moreover, Generative Learning Theory has practical implications across various domains, from instructional design to self-directed learning. Its emphasis on active generation of connections ensures that students are not just passive recipients of information but active participants in the learning process.
 
@@ -135,10 +135,10 @@ Empirical evidence supports the benefits of generative activities, with meta-ana
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[generative-learning-theory-synthetic-seed-2026-04-24]]

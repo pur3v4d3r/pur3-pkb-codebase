@@ -35,8 +35,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Dual-Process Theory]]"
-  - "[[Self-Determination Theory]]"
+  - "[[dual-process-theory]]"
+  - "[[self-determination-theory]]"
   - "[[Cognitive-Behavioral Therapy]]"
 prerequisites:
   - "[[]]"
@@ -47,11 +47,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
   - "[[Cognitive-Behavioral Therapy]]"
 formalizes:
   - "[[]]"
@@ -76,7 +76,7 @@ provenance:
 # Two-Stage Architecture of Attribution Retraining
 
 > [!definition] **Two-Stage Architecture of Attribution Retraining**
-> The Two-Stage Architecture of Attribution Retraining is a structured approach to changing maladaptive attributional patterns, involving an induction stage and a consolidation stage. It falls under [[Cognitive Architecture]], where interventions that include both stages produce substantially larger and more durable effects than those relying solely on the induction stage (Perry et al., 2010).
+> The Two-Stage Architecture of Attribution Retraining is a structured approach to changing maladaptive attributional patterns, involving an induction stage and a consolidation stage. It falls under [[cognitive-architecture]], where interventions that include both stages produce substantially larger and more durable effects than those relying solely on the induction stage (Perry et al., 2010).
 
 > [!attention] **Boundary**
 > This concept focuses on the specific stages and processes involved in retraining attributions. It does not cover broader theories or models of motivation but rather the detailed steps within effective interventions.
@@ -135,10 +135,10 @@ Moreover, the Two-Stage Architecture aligns with broader theories such as Self-D
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Dual-Process Theory]]
+**Contrasts with:** [[dual-process-theory]]
 
-**Applies to:** [[Self-Determination Theory]] · [[Cognitive-Behavioral Therapy]]
+**Applies to:** [[self-determination-theory]] · [[Cognitive-Behavioral Therapy]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

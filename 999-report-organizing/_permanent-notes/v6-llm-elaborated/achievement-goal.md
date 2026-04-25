@@ -37,8 +37,8 @@ parent-concept: "Goal Orientation"
 
 related:
   - "[[Implicit Theory of Intelligence]]"
-  - "[[Attribution Theory]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[attribution-theory]]"
+  - "[[self-efficacy-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,11 +49,11 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[Implicit Theory of Intelligence]]"
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Achievement Goal
 
 > [!definition] **Achievement Goal**
-> An achievement goal is a cognitive representation of the purpose a learner pursues in an achievement situation, influencing their behavior, cognition, and affect towards that situation. It falls under [[Goal Orientation]], specifying both the type of competence being pursued (mastery vs. performance) and the valence of approach toward that competence (approach vs. avoidance). This framework is distinct from specific outcome targets but rather a higher-order organizing structure that determines how any specific target will be pursued and interpreted.
+> An achievement goal is a cognitive representation of the purpose a learner pursues in an achievement situation, influencing their behavior, cognition, and affect towards that situation. It falls under [[goal-orientation]], specifying both the type of competence being pursued (mastery vs. performance) and the valence of approach toward that competence (approach vs. avoidance). This framework is distinct from specific outcome targets but rather a higher-order organizing structure that determines how any specific target will be pursued and interpreted.
 
 > [!attention] **Boundary**
 > It does not refer to specific outcome targets but rather higher-order frames that influence how any specific target will be pursued and interpreted. It is distinct from task goals or desired outcomes.
@@ -140,10 +140,10 @@ The 2×2 Achievement Goal Framework offers a nuanced understanding of how learne
 
 ## Connections & Context
 
-**Falls under:** [[Goal Orientation]]
+**Falls under:** [[goal-orientation]]
 
-**Contrasts with:** [[Implicit Theory of Intelligence]] · [[Attribution Theory]]
+**Contrasts with:** [[Implicit Theory of Intelligence]] · [[attribution-theory]]
 
-**Applies to:** [[Self-Efficacy Theory]]
+**Applies to:** [[self-efficacy-theory]]
 
 **Source:** [[goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20]]

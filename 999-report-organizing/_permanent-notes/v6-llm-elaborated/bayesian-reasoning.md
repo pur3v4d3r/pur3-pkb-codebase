@@ -72,7 +72,7 @@ provenance:
 # Bayesian Reasoning
 
 > [!definition] **Bayesian Reasoning**
-> Bayesian Reasoning is the application of Bayes' theorem to update the probability of a hypothesis given new evidence, combining prior probabilities with likelihoods to derive posterior probabilities. It falls under [[Probabilistic Thinking]], providing the cleanest formal account of why base rates matter even when they feel intuitively irrelevant: a posterior is a function of prior times likelihood, and ignoring the prior is mathematically equivalent to assuming all hypotheses are equally probable a priori — an assumption that is rarely warranted and almost never explicitly endorsed.
+> Bayesian Reasoning is the application of Bayes' theorem to update the probability of a hypothesis given new evidence, combining prior probabilities with likelihoods to derive posterior probabilities. It falls under [[probabilistic-thinking]], providing the cleanest formal account of why base rates matter even when they feel intuitively irrelevant: a posterior is a function of prior times likelihood, and ignoring the prior is mathematically equivalent to assuming all hypotheses are equally probable a priori — an assumption that is rarely warranted and almost never explicitly endorsed.
 
 > [!attention] **Boundary**
 > This concept excludes subjective interpretations and informal uses of probabilistic reasoning that do not follow the formal rules of Bayesian updating. It also does not encompass all forms of statistical inference or decision-making under uncertainty.
@@ -128,7 +128,7 @@ The distinction between Bayesian and frequentist inference highlights the import
 
 ## Connections & Context
 
-**Falls under:** [[Probabilistic Thinking]]
+**Falls under:** [[probabilistic-thinking]]
 
 **Sibling concepts:** [[Bayesian Updating]]
 

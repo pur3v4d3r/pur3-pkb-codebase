@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Educational Psychology"
 
 related:
-  - "[[Schema Construction]]"
-  - "[[Complex Learning]]"
+  - "[[schema-construction]]"
+  - "[[complex-learning]]"
   - "[[Four-Component Instructional Design (4C/ID)]]"
 prerequisites:
   - "[[]]"
@@ -43,8 +43,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Schema Construction]]"
-  - "[[Complex Learning]]"
+  - "[[schema-construction]]"
+  - "[[complex-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Transfer of Learning
 
 > [!definition] **Transfer of Learning**
-> Transfer of Learning is the application of knowledge, skill, or strategy acquired in one context to performance in a different context, distinguished into near transfer (closely matching contexts) and far transfer (structurally similar but surface-different contexts). It falls under [[Educational Psychology]], where it serves as a critical criterion for evaluating instructional designs: effective learning should not only produce high in-course performance but also enable the application of learned knowledge across diverse scenarios.
+> Transfer of Learning is the application of knowledge, skill, or strategy acquired in one context to performance in a different context, distinguished into near transfer (closely matching contexts) and far transfer (structurally similar but surface-different contexts). It falls under [[educational-psychology]], where it serves as a critical criterion for evaluating instructional designs: effective learning should not only produce high in-course performance but also enable the application of learned knowledge across diverse scenarios.
 
 > [!attention] **Boundary**
 > This concept excludes specific examples of learning strategies and focuses on the broader phenomenon of applying learned knowledge across different scenarios.
@@ -133,9 +133,9 @@ Transfer of Learning intersects with other educational concepts like Complex Lea
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
-**Sibling concepts:** [[Schema Construction]] · [[Complex Learning]]
+**Sibling concepts:** [[schema-construction]] · [[complex-learning]]
 
 **Applies to:** [[Four-Component Instructional Design (4C/ID)]]
 

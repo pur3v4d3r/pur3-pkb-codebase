@@ -33,18 +33,18 @@ depth-level: elaborated
 parent-concept: "Cognitive Bias"
 
 related:
-  - "[[Cognitive Bias]]"
-  - "[[Anchoring Bias]]"
+  - "[[cognitive-bias]]"
+  - "[[anchoring-bias]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Cognitive Bias]]"
+  - "[[cognitive-bias]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Anchoring Bias]]"
+  - "[[anchoring-bias]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Planning Fallacy
 
 > [!definition] **Planning Fallacy**
-> The Planning Fallacy is the tendency to underestimate time, cost, and risk while overestimating benefits of future actions, despite evidence from past projects. It falls under [[Cognitive Bias]], as it represents a systematic error in planning and forecasting that persists even when individuals are aware of similar past failures.
+> The Planning Fallacy is the tendency to underestimate time, cost, and risk while overestimating benefits of future actions, despite evidence from past projects. It falls under [[cognitive-bias]], as it represents a systematic error in planning and forecasting that persists even when individuals are aware of similar past failures.
 
 > [!attention] **Boundary**
 > This concept excludes other biases like sunk-cost fallacy or hindsight bias but focuses on the specific cognitive error in planning and forecasting.
@@ -132,10 +132,10 @@ The concept also underscores the importance of integrating empirical evidence an
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Bias]]
+**Falls under:** [[cognitive-bias]]
 
-**Generalizes to:** [[Cognitive Bias]]
+**Generalizes to:** [[cognitive-bias]]
 
-**Contrasts with:** [[Anchoring Bias]]
+**Contrasts with:** [[anchoring-bias]]
 
 **Source:** [[planning-fallacy-synthetic-seed-2026-04-25]]

@@ -32,18 +32,18 @@ depth-level: elaborated
 parent-concept: "Working Memory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Episodic Buffer]]"
-  - "[[Central Executive]]"
+  - "[[working-memory]]"
+  - "[[episodic-buffer]]"
+  - "[[central-executive]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Episodic Buffer]]"
-  - "[[Central Executive]]"
+  - "[[episodic-buffer]]"
+  - "[[central-executive]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -73,7 +73,7 @@ provenance:
 # Phonological Loop
 
 > [!definition] **Phonological Loop**
-> The Phonological Loop is a component of Baddeley's working memory model, responsible for the temporary storage and rehearsal of speech-based information. It falls under [[Working Memory]], comprising a passive phonological store that holds material for roughly two seconds and an articulatory rehearsal process that refreshes the store via subvocal repetition.
+> The Phonological Loop is a component of Baddeley's working memory model, responsible for the temporary storage and rehearsal of speech-based information. It falls under [[working-memory]], comprising a passive phonological store that holds material for roughly two seconds and an articulatory rehearsal process that refreshes the store via subvocal repetition.
 
 > [!attention] **Boundary**
 > It excludes visual or spatial information processing and focuses specifically on verbal material.
@@ -133,10 +133,10 @@ Empirical evidence supports the existence of the Phonological Loop through behav
 
 ## Connections & Context
 
-**Falls under:** [[Working Memory]]
+**Falls under:** [[working-memory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Episodic Buffer]] · [[Central Executive]]
+**Sibling concepts:** [[episodic-buffer]] · [[central-executive]]
 
 **Source:** [[phonological-loop-synthetic-seed-2026-04-24]]

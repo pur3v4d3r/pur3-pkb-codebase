@@ -1,0 +1,40 @@
+concept: Stages of Change Model
+domain: clinical-psychology
+secondary_domains:
+- health-psychology
+- motivational-psychology
+aliases:
+- transtheoretical model
+- TTM
+- Prochaska-DiClemente stages
+broader:
+- behaviour-change-theory
+related:
+- theory-of-planned-behavior
+- motivational-interviewing
+- decisional-balance
+- self-efficacy
+prerequisites:
+- behaviour-change-theory
+confidence: medium
+callouts:
+- type: definition
+  title: Stages of Change Model
+  body: 'The Stages of Change Model — formally the Transtheoretical Model — is Prochaska
+    and DiClemente''s framework that classifies a person''s progress toward behavioural
+    change into five stages: precontemplation, contemplation, preparation, action,
+    and maintenance, with characteristic processes of change at each stage.'
+- type: key-claim
+  title: Key claim about Stages of Change Model
+  body: The Stages of Change Model has been highly influential in clinical and public-health
+    practice because it suggests stage-matched interventions — different processes
+    for someone in precontemplation than for someone in maintenance — and the Stages
+    of Change Model thereby reframes "non-compliance" as stage-mismatched intervention
+    design.
+- type: warning
+  title: Common pitfall regarding Stages of Change Model
+  body: 'The Stages of Change Model has been criticised on empirical grounds: the
+    discrete stages may be a convenient classification rather than genuine qualitative
+    shifts, and stage-matched interventions have produced inconsistent effects in
+    randomised trials, so the Stages of Change Model is best treated as a heuristic
+    organiser rather than a validated mechanistic theory.'

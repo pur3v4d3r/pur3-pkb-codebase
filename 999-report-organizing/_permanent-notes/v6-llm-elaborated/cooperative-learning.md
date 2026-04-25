@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Educational Psychology"
 
 related:
-  - "[[Communities of Practice]]"
-  - "[[Reciprocal Teaching]]"
-  - "[[Observational Learning]]"
-  - "[[Social-Cognitive Theory]]"
+  - "[[communities-of-practice]]"
+  - "[[reciprocal-teaching]]"
+  - "[[observational-learning]]"
+  - "[[social-cognitive-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,18 +46,18 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Communities of Practice]]"
+  - "[[communities-of-practice]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Reciprocal Teaching]]"
-  - "[[Observational Learning]]"
+  - "[[reciprocal-teaching]]"
+  - "[[observational-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Social-Cognitive Theory]]"
+  - "[[social-cognitive-theory]]"
 refines:
   - "[[]]"
 
@@ -75,7 +75,7 @@ provenance:
 # Cooperative Learning
 
 > [!definition] **Cooperative Learning**
-> Cooperative Learning is an instructional approach that involves small heterogeneous groups working together on learning tasks under specific conditions to enhance academic achievement, intergroup relations, and motivation. It falls under [[Educational Psychology]], as it focuses on the application of psychological principles in educational settings, particularly through structured group work that includes positive interdependence, individual accountability, promotive interaction, social skills use, and structured processing — features that distinguish it from unstructured group work which lacks these conditions.
+> Cooperative Learning is an instructional approach that involves small heterogeneous groups working together on learning tasks under specific conditions to enhance academic achievement, intergroup relations, and motivation. It falls under [[educational-psychology]], as it focuses on the application of psychological principles in educational settings, particularly through structured group work that includes positive interdependence, individual accountability, promotive interaction, social skills use, and structured processing — features that distinguish it from unstructured group work which lacks these conditions.
 
 > [!attention] **Boundary**
 > This concept excludes unstructured group work which lacks the five distinguishing features of positive interdependence, individual accountability, promotive interaction, social skills use, and structured processing.
@@ -136,12 +136,12 @@ Cooperative Learning is a valuable framework for enhancing educational outcomes 
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
-**Contrasts with:** [[Communities of Practice]]
+**Contrasts with:** [[communities-of-practice]]
 
-**Applies to:** [[Reciprocal Teaching]] · [[Observational Learning]]
+**Applies to:** [[reciprocal-teaching]] · [[observational-learning]]
 
-**Supports:** [[Social-Cognitive Theory]]
+**Supports:** [[social-cognitive-theory]]
 
 **Source:** [[cooperative-learning-synthetic-seed-2026-04-25]]

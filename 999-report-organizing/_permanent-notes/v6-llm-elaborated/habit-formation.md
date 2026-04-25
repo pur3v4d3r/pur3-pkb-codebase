@@ -33,18 +33,18 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Implementation Intention]]"
-  - "[[Type-2 Processing]]"
-  - "[[Automaticity]]"
+  - "[[implementation-intention]]"
+  - "[[type-2-processing]]"
+  - "[[automaticity]]"
 prerequisites:
-  - "[[Implementation Intention]]"
-  - "[[Type-2 Processing]]"
+  - "[[implementation-intention]]"
+  - "[[type-2-processing]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -133,10 +133,10 @@ The integration of Habit Formation into broader cognitive architectures highligh
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Implementation Intention]] · [[Type-2 Processing]]
+**Prerequisites:** [[implementation-intention]] · [[type-2-processing]]
 
-**Sibling concepts:** [[Automaticity]]
+**Sibling concepts:** [[automaticity]]
 
 **Source:** [[habit-formation-synthetic-seed-2026-04-24]]

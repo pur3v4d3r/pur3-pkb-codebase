@@ -33,7 +33,7 @@ parent-concept: "Developmental Psychology"
 
 related:
   - "[[Cognitive Development Theory]]"
-  - "[[Constructivism]]"
+  - "[[constructivism]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[Cognitive Development Theory]]"
 see-also:
-  - "[[Constructivism]]"
+  - "[[constructivism]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -71,7 +71,7 @@ provenance:
 # Genetic Epistemology
 
 > [!definition] **Genetic Epistemology**
-> Genetic Epistemology, developed by Jean Piaget in the 1950s, studies the origins and development of knowledge by tracing how cognitive structures emerge from biological maturation and environmental engagement across childhood (it falls under [[Developmental Psychology]]). This concept focuses on the developmental aspects of epistemology and does not address adult cognition or non-developmental epistemological theories.
+> Genetic Epistemology, developed by Jean Piaget in the 1950s, studies the origins and development of knowledge by tracing how cognitive structures emerge from biological maturation and environmental engagement across childhood (it falls under [[developmental-psychology]]). This concept focuses on the developmental aspects of epistemology and does not address adult cognition or non-developmental epistemological theories.
 
 ## Core Explanation
 
@@ -127,10 +127,10 @@ Moreover, Genetic Epistemology's emphasis on constructivism aligns with broader 
 
 ## Connections & Context
 
-**Falls under:** [[Developmental Psychology]]
+**Falls under:** [[developmental-psychology]]
 
 **Generalizes to:** [[Cognitive Development Theory]]
 
-**Sibling concepts:** [[Constructivism]]
+**Sibling concepts:** [[constructivism]]
 
 **Source:** [[genetic-epistemology-synthetic-seed-2026-04-24]]

@@ -36,18 +36,18 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Metacognitive Monitoring]]"
-  - "[[Forethought Phase]]"
-  - "[[Control Phase]]"
+  - "[[metacognitive-monitoring]]"
+  - "[[forethought-phase]]"
+  - "[[control-phase]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Metacognitive Monitoring]]"
+  - "[[metacognitive-monitoring]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Forethought Phase]]"
-  - "[[Control Phase]]"
+  - "[[forethought-phase]]"
+  - "[[control-phase]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -77,7 +77,7 @@ provenance:
 # Monitoring Phase
 
 > [!definition] **Monitoring Phase**
-> The Monitoring Phase is a regulatory phase during performance where learners compare their cognitive, motivational, behavioral, and contextual states against forethought standards to generate control signals. It falls under [[Self-Regulated Learning]], as it involves the technical activity by which specific regulatable states become available as control inputs, with its quality depending on both mechanism sensitivity and the learner's vocabulary for naming what is monitored.
+> The Monitoring Phase is a regulatory phase during performance where learners compare their cognitive, motivational, behavioral, and contextual states against forethought standards to generate control signals. It falls under [[self-regulated-learning]], as it involves the technical activity by which specific regulatable states become available as control inputs, with its quality depending on both mechanism sensitivity and the learner's vocabulary for naming what is monitored.
 
 > [!attention] **Boundary**
 > This concept stops at the technical activity of generating control inputs from specific regulatable states. It does not include awareness of thoughts or broader self-regulation processes.
@@ -140,10 +140,10 @@ The concept of monitoring also has broader implications for the field of educati
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Specializes:** [[Metacognitive Monitoring]]
+**Specializes:** [[metacognitive-monitoring]]
 
-**Sibling concepts:** [[Forethought Phase]] · [[Control Phase]]
+**Sibling concepts:** [[forethought-phase]] · [[control-phase]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

@@ -36,30 +36,30 @@ depth-level: elaborated
 parent-concept: "Goal-Setting Theory"
 
 related:
-  - "[[Goal-Setting Theory]]"
-  - "[[Achievement Goal Theory]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[goal-setting-theory]]"
+  - "[[achievement-goal-theory]]"
+  - "[[self-determination-theory]]"
+  - "[[expectancy-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Goal-Setting Theory]]"
+  - "[[goal-setting-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Achievement Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 refines:
   - "[[]]"
 
@@ -77,7 +77,7 @@ provenance:
 # Performance Goal vs. Learning Goal
 
 > [!definition] **Performance Goal vs. Learning Goal**
-> A performance goal specifies a desired outcome of action — a quantity to produce, a target to hit, a level to reach. A learning goal, on the other hand, focuses on the process or strategy needed to master a task, treating outcomes as secondary consequences of mastery rather than direct targets. This distinction is not the same as the achievement-goal-theory distinction between performance and mastery orientations; it is more task-strategic in nature, falling under [[Goal-Setting Theory]].
+> A performance goal specifies a desired outcome of action — a quantity to produce, a target to hit, a level to reach. A learning goal, on the other hand, focuses on the process or strategy needed to master a task, treating outcomes as secondary consequences of mastery rather than direct targets. This distinction is not the same as the achievement-goal-theory distinction between performance and mastery orientations; it is more task-strategic in nature, falling under [[goal-setting-theory]].
 
 > [!attention] **Boundary**
 > This distinction is not the same as the achievement-goal-theory distinction between performance and mastery orientations; it is more task-strategic in nature.
@@ -135,14 +135,14 @@ Understanding the distinction between performance and learning goals is crucial 
 
 ## Connections & Context
 
-**Falls under:** [[Goal-Setting Theory]]
+**Falls under:** [[goal-setting-theory]]
 
-**Generalizes to:** [[Goal-Setting Theory]]
+**Generalizes to:** [[goal-setting-theory]]
 
-**Contrasts with:** [[Achievement Goal Theory]]
+**Contrasts with:** [[achievement-goal-theory]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
-**Supports:** [[Expectancy-Value Theory]]
+**Supports:** [[expectancy-value-theory]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

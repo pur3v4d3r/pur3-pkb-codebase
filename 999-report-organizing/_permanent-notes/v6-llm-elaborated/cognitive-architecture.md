@@ -2,6 +2,7 @@
 title: "Cognitive Architecture"
 aliases:
   - "Cognitive Architecture"
+  - "Cognitive-Architecture"
   - "Cognitive Strategies for PKB Learning"
   - "PKM Cognitive Strategy Architecture"
   - "Learning Strategies and Knowledge Base Design"
@@ -36,25 +37,25 @@ depth-level: elaborated
 parent-concept: "Cognitive Science"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Long-Term Memory]]"
-  - "[[Schema Theory]]"
-  - "[[Metacognition]]"
+  - "[[working-memory]]"
+  - "[[long-term-memory]]"
+  - "[[schema-theory]]"
+  - "[[metacognition]]"
 prerequisites:
-  - "[[Working Memory]]"
-  - "[[Long-Term Memory]]"
+  - "[[working-memory]]"
+  - "[[long-term-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -89,7 +90,7 @@ At its core, cognitive architecture encompasses the fundamental mechanisms that 
 
 In practice, these constraints manifest as specific design principles for PKBs (Personal Knowledge Bases). For instance, to accommodate working memory's limited capacity, PKB workflows must demand active cognitive construction at every point of knowledge integration, not merely passive capture or reformatting. This ensures that learners can effectively encode information in a way that enhances its retrievability and usability.
 
-Theoretical roots of cognitive architecture trace back to the work of John Sweller, who developed [[Cognitive Load Theory]], which identifies intrinsic, extraneous, and germane loads as critical factors influencing learning efficiency. These concepts provide a diagnostic framework for evaluating PKB architectures, ensuring that they align with the principles of effective cognitive processing.
+Theoretical roots of cognitive architecture trace back to the work of John Sweller, who developed [[cognitive-load-theory]], which identifies intrinsic, extraneous, and germane loads as critical factors influencing learning efficiency. These concepts provide a diagnostic framework for evaluating PKB architectures, ensuring that they align with the principles of effective cognitive processing.
 
 Empirical evidence from studies on working memory and long-term memory supports these theoretical underpinnings. For example, research has shown that learners who engage in active elaboration and generation of knowledge are more likely to construct robust schemas in long-term memory, leading to better retention and transfer of information.
 
@@ -115,7 +116,7 @@ The interaction between working memory, long-term memory, and schema constructio
 
 ## Key Figures
 
-- **John Sweller** — Developer of [[Cognitive Load Theory]], John Sweller's work has been instrumental in understanding the constraints imposed by working memory and long-term memory on learning. His identification of intrinsic, extraneous, and germane loads provides a diagnostic framework for evaluating PKB architectures.
+- **John Sweller** — Developer of [[cognitive-load-theory]], John Sweller's work has been instrumental in understanding the constraints imposed by working memory and long-term memory on learning. His identification of intrinsic, extraneous, and germane loads provides a diagnostic framework for evaluating PKB architectures.
 
 ## Open Questions
 
@@ -139,10 +140,10 @@ The broader implications extend beyond individual learning strategies into the r
 
 **Falls under:** [[Cognitive Science]]
 
-**Prerequisites:** [[Working Memory]] · [[Long-Term Memory]]
+**Prerequisites:** [[working-memory]] · [[long-term-memory]]
 
-**Sibling concepts:** [[Schema Theory]]
+**Sibling concepts:** [[schema-theory]]
 
-**Applies to:** [[Metacognition]]
+**Applies to:** [[metacognition]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]

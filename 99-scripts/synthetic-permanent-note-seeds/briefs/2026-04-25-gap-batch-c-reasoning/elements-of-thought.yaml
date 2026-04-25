@@ -1,0 +1,40 @@
+concept: Elements of Thought
+domain: critical-thinking
+secondary_domains:
+- education
+- philosophy
+aliases:
+- Paul-Elder elements
+- eight elements of reasoning
+broader:
+- critical-thinking
+related:
+- intellectual-standards
+- intellectual-traits
+- paul-elder-framework
+- argument-analysis
+prerequisites:
+- critical-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Elements of Thought
+  body: The Elements of Thought are the eight structural components of any act of
+    reasoning identified in the Paul-Elder critical-thinking framework — purpose,
+    question, information, interpretation, concept, assumption, implication, and point
+    of view — and they provide the analytic vocabulary used to dissect arguments in
+    that tradition.
+- type: key-claim
+  title: Key claim about Elements of Thought
+  body: 'The Elements of Thought are not a checklist but an interlocking system: changing
+    the purpose changes the relevant question, which constrains the information needed,
+    which shapes interpretation, which depends on concepts and assumptions, all of
+    which combine to produce implications from a particular point of view, so Elements
+    of Thought analysis is structural rather than additive.'
+- type: warning
+  title: Common pitfall regarding Elements of Thought
+  body: The Elements of Thought are widely taught in introductory courses as a routine
+    grid to fill in, but a mechanical application produces shallow analyses; the framework
+    only delivers value when paired with the intellectual standards (clarity, accuracy,
+    depth, etc.) that the same framework specifies, and the Elements of Thought without
+    those standards becomes formulaic.

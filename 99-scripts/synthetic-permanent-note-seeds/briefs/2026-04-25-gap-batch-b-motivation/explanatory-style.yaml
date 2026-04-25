@@ -1,0 +1,40 @@
+concept: Explanatory Style
+domain: motivational-psychology
+secondary_domains:
+- attribution-theory
+- clinical-psychology
+aliases:
+- attributional style
+- optimistic-pessimistic explanatory style
+broader:
+- attribution-theory
+related:
+- learned-helplessness
+- attribution-retraining
+- locus-of-control
+- controllability-dimension
+- stability-dimension
+prerequisites:
+- attribution-theory
+- attributional-vocabulary
+confidence: high
+callouts:
+- type: definition
+  title: Explanatory Style
+  body: Explanatory Style is the habitual cross-situational pattern by which a person
+    explains the causes of negative and positive events along three dimensions — internal
+    versus external, stable versus unstable, and global versus specific — and it forms
+    the cognitive substrate of learned helplessness theory.
+- type: key-claim
+  title: Key claim about Explanatory Style
+  body: A pessimistic Explanatory Style — internal, stable, and global causes for
+    failure — predicts depression, low achievement, and poor health outcomes more
+    reliably than situational measures, while an optimistic Explanatory Style predicts
+    persistence and recovery, making Explanatory Style a stable individual-difference
+    moderator of stress.
+- type: warning
+  title: Common pitfall regarding Explanatory Style
+  body: Explanatory Style is sometimes flattened into a generic "optimism vs pessimism"
+    trait, but the diagnostic and clinical value of Explanatory Style depends on assessing
+    each of the three dimensions independently; treating Explanatory Style as a single
+    bipolar variable loses the predictive precision the construct provides.

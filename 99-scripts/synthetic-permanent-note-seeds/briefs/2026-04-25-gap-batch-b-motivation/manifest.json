@@ -1,0 +1,96 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "2026-04-25-gap-batch-b-motivation",
+    "date": "2026-04-25",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-25-gap-batch-B-motivation.md",
+    "notes": "Gap-analysis batch B — motivation and self-belief concepts that are referenced\nby SDT, attribution-theory, and self-efficacy notes but lack their own files."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/2026-04-25-gap-batch-b-motivation",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-25-2026-04-25-gap-batch-b-motivation"
+  },
+  "counts": {
+    "parsed": 12,
+    "accepted": 12,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Intrinsic vs Extrinsic Motivation",
+      "kebab": "intrinsic-vs-extrinsic-motivation",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/intrinsic-vs-extrinsic-motivation.yaml",
+      "expected_seed_filename": "intrinsic-vs-extrinsic-motivation-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Autonomy Supportive Teaching",
+      "kebab": "autonomy-supportive-teaching",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/autonomy-supportive-teaching.yaml",
+      "expected_seed_filename": "autonomy-supportive-teaching-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Mastery vs Performance Goals",
+      "kebab": "mastery-vs-performance-goals",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/mastery-vs-performance-goals.yaml",
+      "expected_seed_filename": "mastery-vs-performance-goals-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Explanatory Style",
+      "kebab": "explanatory-style",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/explanatory-style.yaml",
+      "expected_seed_filename": "explanatory-style-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Self Serving Bias",
+      "kebab": "self-serving-bias",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/self-serving-bias.yaml",
+      "expected_seed_filename": "self-serving-bias-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Self Esteem",
+      "kebab": "self-esteem",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/self-esteem.yaml",
+      "expected_seed_filename": "self-esteem-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Possible Selves",
+      "kebab": "possible-selves",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/possible-selves.yaml",
+      "expected_seed_filename": "possible-selves-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Goal Orientation Framework",
+      "kebab": "goal-orientation-framework",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/goal-orientation-framework.yaml",
+      "expected_seed_filename": "goal-orientation-framework-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Implicit Theory of Intelligence",
+      "kebab": "implicit-theory-of-intelligence",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/implicit-theory-of-intelligence.yaml",
+      "expected_seed_filename": "implicit-theory-of-intelligence-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Pintrich's 4x4 Matrix",
+      "kebab": "pintrichs-4x4-matrix",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/pintrichs-4x4-matrix.yaml",
+      "expected_seed_filename": "pintrichs-4x4-matrix-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Motivated Strategies for Learning Questionnaire MSLQ",
+      "kebab": "motivated-strategies-for-learning-questionnaire-mslq",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/motivated-strategies-for-learning-questionnaire-mslq.yaml",
+      "expected_seed_filename": "motivated-strategies-for-learning-questionnaire-mslq-synthetic-seed-2026-04-25_extracted.json"
+    },
+    {
+      "term": "Motivation Science",
+      "kebab": "motivation-science",
+      "brief_path": "briefs/2026-04-25-gap-batch-b-motivation/motivation-science.yaml",
+      "expected_seed_filename": "motivation-science-synthetic-seed-2026-04-25_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

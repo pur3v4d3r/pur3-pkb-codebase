@@ -37,8 +37,8 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Cognitive Evaluation Theory]]"
-  - "[[Achievement Goal Theory]]"
+  - "[[cognitive-evaluation-theory]]"
+  - "[[achievement-goal-theory]]"
   - "[[Intrinsic Motivation and Extrinsic Motivation]]"
 prerequisites:
   - "[[]]"
@@ -47,13 +47,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Evaluation Theory]]"
+  - "[[cognitive-evaluation-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Achievement Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Organismic Metatheory
 
 > [!definition] **Organismic Metatheory**
-> Organismic metatheory is a foundational philosophical position of Self-Determination Theory (SDT) asserting that humans are inherently active organisms oriented toward psychological growth and the development of a unified self-structure, standing in contrast to mechanistic views. This metatheory posits an inherent tendency towards growth which depends on environmental support for psychological nutriments; it falls under [[Motivational Psychology]].
+> Organismic metatheory is a foundational philosophical position of Self-Determination Theory (SDT) asserting that humans are inherently active organisms oriented toward psychological growth and the development of a unified self-structure, standing in contrast to mechanistic views. This metatheory posits an inherent tendency towards growth which depends on environmental support for psychological nutriments; it falls under [[motivational-psychology]].
 
 > [!attention] **Boundary**
 > This metatheory does not claim that growth proceeds automatically regardless of conditions; it posits an inherent tendency towards growth which depends on environmental support for psychological nutriments.
@@ -136,11 +136,11 @@ The broader role of organismic metatheory in SDT's framework is to guide empiric
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Sibling concepts:** [[Cognitive Evaluation Theory]]
+**Sibling concepts:** [[cognitive-evaluation-theory]]
 
-**Applies to:** [[Achievement Goal Theory]]
+**Applies to:** [[achievement-goal-theory]]
 
 **Supports:** [[Intrinsic Motivation and Extrinsic Motivation]]
 

@@ -32,17 +32,17 @@ depth-level: elaborated
 parent-concept: "Social-Cognitive Theory"
 
 related:
-  - "[[Perceived Self-Efficacy]]"
-  - "[[Social-Cognitive Theory]]"
-  - "[[Outcome Expectation]]"
+  - "[[perceived-self-efficacy]]"
+  - "[[social-cognitive-theory]]"
+  - "[[outcome-expectation]]"
 prerequisites:
-  - "[[Perceived Self-Efficacy]]"
+  - "[[perceived-self-efficacy]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Social-Cognitive Theory]]"
+  - "[[social-cognitive-theory]]"
 see-also:
-  - "[[Outcome Expectation]]"
+  - "[[outcome-expectation]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Self-Efficacy Theory
 
 > [!definition] **Self-Efficacy Theory**
-> Self-Efficacy Theory, formalized within Social-Cognitive Theory by Albert Bandura, explains how an individual's belief in their capability to execute necessary actions to achieve a goal influences their behavior and performance. It falls under [[Social-Cognitive Theory]], where efficacy beliefs are seen as the proximal mediator through which biographical experience translates into self-regulated action.
+> Self-Efficacy Theory, formalized within Social-Cognitive Theory by Albert Bandura, explains how an individual's belief in their capability to execute necessary actions to achieve a goal influences their behavior and performance. It falls under [[social-cognitive-theory]], where efficacy beliefs are seen as the proximal mediator through which biographical experience translates into self-regulated action.
 
 > [!attention] **Boundary**
 > This theory focuses on the role of perceived self-efficacy in motivation and does not encompass broader constructs like general confidence or self-esteem.
@@ -131,12 +131,12 @@ The theory's emphasis on task-specific efficacy beliefs highlights its importanc
 
 ## Connections & Context
 
-**Falls under:** [[Social-Cognitive Theory]]
+**Falls under:** [[social-cognitive-theory]]
 
-**Prerequisites:** [[Perceived Self-Efficacy]]
+**Prerequisites:** [[perceived-self-efficacy]]
 
-**Generalizes to:** [[Social-Cognitive Theory]]
+**Generalizes to:** [[social-cognitive-theory]]
 
-**Sibling concepts:** [[Outcome Expectation]]
+**Sibling concepts:** [[outcome-expectation]]
 
 **Source:** [[self-efficacy-theory-synthetic-seed-2026-04-24]]

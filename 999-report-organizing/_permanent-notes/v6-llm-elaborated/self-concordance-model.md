@@ -32,23 +32,23 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Goal-Contents Theory]]"
-  - "[[Autonomous Motivation]]"
-  - "[[Internalization Continuum]]"
+  - "[[goal-contents-theory]]"
+  - "[[autonomous-motivation]]"
+  - "[[internalization-continuum]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Goal-Contents Theory]]"
+  - "[[goal-contents-theory]]"
 see-also:
-  - "[[Autonomous Motivation]]"
+  - "[[autonomous-motivation]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Internalization Continuum]]"
+  - "[[internalization-continuum]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Self-Concordance Model
 
 > [!definition] **Self-Concordance Model**
-> The Self-Concordance Model is a framework that extends self-determination theory to explain how autonomous goals lead to greater persistence, attainment, and well-being compared to controlled goals. It falls under [[Self-Determination Theory]], focusing on the relationship between goal pursuit motivations and outcomes.
+> The Self-Concordance Model is a framework that extends self-determination theory to explain how autonomous goals lead to greater persistence, attainment, and well-being compared to controlled goals. It falls under [[self-determination-theory]], focusing on the relationship between goal pursuit motivations and outcomes.
 
 > [!attention] **Boundary**
 > This model focuses on the relationship between goal pursuit motivations and outcomes, excluding other motivational theories or psychological constructs not directly related to this specific framework.
@@ -131,12 +131,12 @@ The model's emphasis on autonomous motivations also has practical implications f
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Generalizes to:** [[Goal-Contents Theory]]
+**Generalizes to:** [[goal-contents-theory]]
 
-**Sibling concepts:** [[Autonomous Motivation]]
+**Sibling concepts:** [[autonomous-motivation]]
 
-**Applies to:** [[Internalization Continuum]]
+**Applies to:** [[internalization-continuum]]
 
 **Source:** [[self-concordance-model-synthetic-seed-2026-04-25]]

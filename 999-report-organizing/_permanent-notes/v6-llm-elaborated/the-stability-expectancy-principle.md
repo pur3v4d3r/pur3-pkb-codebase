@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Attribution Theory"
 
 related:
-  - "[[Attribution Theory]]"
-  - "[[Growth Mindset]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[attribution-theory]]"
+  - "[[growth-mindset]]"
+  - "[[self-determination-theory]]"
+  - "[[self-efficacy-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,14 +46,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contrasts-with:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[self-efficacy-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Stability-Expectancy Principle
 
 > [!definition] **Stability-Expectancy Principle**
-> The Stability-Expectancy Principle states that the stability of an attributed cause is the primary determinant of expectancy change following an outcome. Attributing an outcome to a stable cause shifts expectancy in the direction of that outcome (success → expect more success; failure → expect more failure). This principle falls under [[Attribution Theory]], where it operates independently of locus and controllability dimensions, focusing instead on the stability of causes.
+> The Stability-Expectancy Principle states that the stability of an attributed cause is the primary determinant of expectancy change following an outcome. Attributing an outcome to a stable cause shifts expectancy in the direction of that outcome (success → expect more success; failure → expect more failure). This principle falls under [[attribution-theory]], where it operates independently of locus and controllability dimensions, focusing instead on the stability of causes.
 
 > [!attention] **Boundary**
 > This principle focuses on how stable or unstable causes affect expectancies and does not address locus (internal vs. external) or controllability dimensions directly.
@@ -134,12 +134,12 @@ The Stability-Expectancy Principle is crucial for understanding how individuals 
 
 ## Connections & Context
 
-**Falls under:** [[Attribution Theory]]
+**Falls under:** [[attribution-theory]]
 
-**Sibling concepts:** [[Attribution Theory]]
+**Sibling concepts:** [[attribution-theory]]
 
-**Contrasts with:** [[Growth Mindset]]
+**Contrasts with:** [[growth-mindset]]
 
-**Applies to:** [[Self-Determination Theory]] · [[Self-Efficacy Theory]]
+**Applies to:** [[self-determination-theory]] · [[self-efficacy-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

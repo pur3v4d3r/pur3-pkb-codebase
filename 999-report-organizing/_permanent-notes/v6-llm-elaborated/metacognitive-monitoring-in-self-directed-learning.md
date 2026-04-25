@@ -36,30 +36,30 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Constructivist Learning Theory]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[working-memory]]"
+  - "[[self-regulated-learning]]"
+  - "[[constructivist-learning-theory]]"
+  - "[[self-efficacy-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Constructivist Learning Theory]]"
+  - "[[constructivist-learning-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 refines:
   - "[[]]"
 
@@ -77,7 +77,7 @@ provenance:
 # Metacognitive Monitoring
 
 > [!definition] **Metacognitive Monitoring**
-> Metacognitive monitoring involves the learner's ongoing assessment of their cognitive states — their current level of understanding, the accuracy of their knowledge, the effectiveness of their learning strategy, and progress towards goals. This process is crucial for self-directed learners who lack external feedback, falling under [[Self-Regulated Learning]].
+> Metacognitive monitoring involves the learner's ongoing assessment of their cognitive states — their current level of understanding, the accuracy of their knowledge, the effectiveness of their learning strategy, and progress towards goals. This process is crucial for self-directed learners who lack external feedback, falling under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This concept excludes simple self-awareness and focuses on specific judgments that guide regulatory decisions in learning contexts.
@@ -88,7 +88,7 @@ Metacognitive monitoring is a critical component of self-directed learning that 
 
 In practice, metacognitive monitoring operates as a self-regulatory mechanism where learners generate internal signals of comprehension or confusion. For instance, when reading a complex text, a learner might pause and ask themselves if they fully understand the content. If they feel uncertain, they may reread the section or seek additional resources to clarify their understanding. This process is akin to the feedback loop that formal assessments provide but adapted for self-directed learning environments.
 
-Theoretical roots of metacognitive monitoring can be traced back to [[Self-Regulated Learning]], which emphasizes learner autonomy and regulation. Self-determination theory also plays a significant role, as it posits that learners who have high levels of intrinsic motivation are more likely to engage in effective metacognitive monitoring. Furthermore, self-efficacy theory suggests that learners with higher confidence in their abilities are better equipped to monitor their cognitive states accurately.
+Theoretical roots of metacognitive monitoring can be traced back to [[self-regulated-learning]], which emphasizes learner autonomy and regulation. Self-determination theory also plays a significant role, as it posits that learners who have high levels of intrinsic motivation are more likely to engage in effective metacognitive monitoring. Furthermore, self-efficacy theory suggests that learners with higher confidence in their abilities are better equipped to monitor their cognitive states accurately.
 
 Empirical evidence supports the importance of metacognitive monitoring in self-directed learning. For example, studies have shown that students who regularly engage in metacognitive activities tend to perform better academically and develop stronger problem-solving skills. These findings underscore the value of fostering metacognitive monitoring as a key strategy for enhancing learning outcomes.
 
@@ -131,14 +131,14 @@ Metacognitive monitoring is essential for self-directed learning as it enables l
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
-**Applies to:** [[Constructivist Learning Theory]]
+**Applies to:** [[constructivist-learning-theory]]
 
-**Supports:** [[Self-Efficacy Theory]]
+**Supports:** [[self-efficacy-theory]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]

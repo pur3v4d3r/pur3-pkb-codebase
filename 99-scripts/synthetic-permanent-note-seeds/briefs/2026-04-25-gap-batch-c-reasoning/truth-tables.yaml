@@ -1,0 +1,40 @@
+concept: Truth Tables
+domain: critical-thinking
+secondary_domains:
+- mathematics
+- formal-logic
+aliases:
+- truth-table method
+- semantic tables
+broader:
+- propositional-logic
+related:
+- formal-logic
+- propositional-logic
+- validity
+- tautology
+- semantic-validity
+prerequisites:
+- propositional-logic
+confidence: high
+callouts:
+- type: definition
+  title: Truth Tables
+  body: Truth Tables are the canonical semantic technique in propositional logic for
+    determining the truth value of compound propositions under every possible assignment
+    of truth values to their atomic components, and they provide a mechanical decision
+    procedure for validity in propositional calculus.
+- type: key-claim
+  title: Key claim about Truth Tables
+  body: Truth Tables establish the validity of an argument by exhaustive search rather
+    than by proof construction, and the exhaustive nature of Truth Tables guarantees
+    a decision in finite time for propositional logic — a guarantee that does not
+    extend to predicate logic, which is why Truth Tables play a more central role
+    in propositional than in first-order systems.
+- type: warning
+  title: Common pitfall regarding Truth Tables
+  body: Truth Tables grow exponentially with the number of atomic propositions, so
+    Truth Tables become unmanageable for arguments with more than five or six atoms;
+    treating Truth Tables as the practical method of choice for serious logical analysis
+    ignores the existence of more efficient proof systems such as natural deduction
+    and tableau methods.

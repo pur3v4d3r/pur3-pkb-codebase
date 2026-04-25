@@ -1,0 +1,39 @@
+concept: Pintrich's 4x4 Matrix
+domain: educational-psychology
+secondary_domains:
+- self-regulated-learning
+- metacognition
+aliases:
+- Pintrich SRL matrix
+- four-phases-by-four-areas
+broader:
+- self-regulated-learning
+related:
+- pintrich-self-regulation-foundational-report-2026-04-19
+- forethought-phase
+- control-phase
+- self-regulation
+- cyclical-model-of-self-regulated-learning
+prerequisites:
+- self-regulated-learning
+confidence: high
+callouts:
+- type: definition
+  title: Pintrich's 4x4 Matrix
+  body: Pintrich's 4x4 Matrix is the organising framework of Paul Pintrich's self-regulated-learning
+    model in which the four temporal phases — forethought, monitoring, control, and
+    reaction — are crossed with the four areas of regulation — cognition, motivation/affect,
+    behaviour, and context — yielding sixteen distinct self-regulatory activities.
+- type: key-claim
+  title: Key claim about Pintrich's 4x4 Matrix
+  body: Pintrich's 4x4 Matrix advances on earlier SRL models by treating motivation,
+    behaviour, and context as first-class targets of self-regulation alongside cognition,
+    which is why Pintrich's 4x4 Matrix remains the most comprehensive descriptive
+    scaffold for educational interventions targeting self-regulated learning.
+- type: warning
+  title: Common pitfall regarding Pintrich's 4x4 Matrix
+  body: Pintrich's 4x4 Matrix is descriptive rather than mechanistic; it organises
+    the territory of self-regulation but does not by itself specify which cells are
+    causally upstream of which others, so Pintrich's 4x4 Matrix should be paired with
+    process-level models such as Winne's COPES when explanation rather than classification
+    is required.

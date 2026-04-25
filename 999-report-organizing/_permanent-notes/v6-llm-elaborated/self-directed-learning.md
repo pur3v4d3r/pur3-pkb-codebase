@@ -37,23 +37,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Andragogy]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[andragogy]]"
+  - "[[self-regulated-learning]]"
+  - "[[intrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Andragogy]]"
+  - "[[andragogy]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Self-Directed Learning
 
 > [!definition] **Self-Directed Learning**
-> Self-directed learning (SDL) is both a process and a personal attribute where learners take the initiative in diagnosing their needs, setting goals, identifying resources, selecting strategies, and evaluating outcomes. It falls under [[Cognitive Architecture]], as it involves the development of metacognitive, self-regulatory, and motivational capacities that enable lifelong autonomous learning. This concept excludes self-teaching in isolation or the absence of any structure, distinguishing itself from self-regulated learning (SRL), which focuses more on managing tasks assigned by others.
+> Self-directed learning (SDL) is both a process and a personal attribute where learners take the initiative in diagnosing their needs, setting goals, identifying resources, selecting strategies, and evaluating outcomes. It falls under [[cognitive-architecture]], as it involves the development of metacognitive, self-regulatory, and motivational capacities that enable lifelong autonomous learning. This concept excludes self-teaching in isolation or the absence of any structure, distinguishing itself from self-regulated learning (SRL), which focuses more on managing tasks assigned by others.
 
 > [!attention] **Boundary**
 > This concept excludes self-teaching in isolation or the absence of any structure. It also distinguishes itself from self-regulated learning, which focuses more on managing tasks assigned by others.
@@ -137,12 +137,12 @@ The dual nature of SDL — both as a goal and a process — makes it particularl
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Andragogy]]
+**Generalizes to:** [[andragogy]]
 
-**Contrasts with:** [[Self-Regulated Learning]]
+**Contrasts with:** [[self-regulated-learning]]
 
-**Applies to:** [[Intrinsic Motivation]]
+**Applies to:** [[intrinsic-motivation]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

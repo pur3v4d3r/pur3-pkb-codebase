@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Achievement Goal Theory"
 
 related:
-  - "[[Ego-Involvement]]"
-  - "[[Mastery Goal Orientation]]"
+  - "[[ego-involvement]]"
+  - "[[mastery-goal-orientation]]"
   - "[[Performance-Approach]]"
   - "[[Performance-Avoidance]]"
 prerequisites:
@@ -44,9 +44,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Ego-Involvement]]"
+  - "[[ego-involvement]]"
 contrasts-with:
-  - "[[Mastery Goal Orientation]]"
+  - "[[mastery-goal-orientation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Performance Goal Orientation
 
 > [!definition] **Performance Goal Orientation**
-> A Performance Goal Orientation refers to the tendency to focus on demonstrating competence relative to others, either by outperforming peers (performance-approach) or avoiding being outperformed (performance-avoidance). It falls under [[Achievement Goal Theory]], where social comparison rather than personal mastery is the criterion of success.
+> A Performance Goal Orientation refers to the tendency to focus on demonstrating competence relative to others, either by outperforming peers (performance-approach) or avoiding being outperformed (performance-avoidance). It falls under [[achievement-goal-theory]], where social comparison rather than personal mastery is the criterion of success.
 
 > [!attention] **Boundary**
 > This concept excludes intrinsic motivation and mastery goals, which are focused on personal improvement rather than social comparison.
@@ -134,11 +134,11 @@ The implications of Performance Goal Orientation extend beyond individual learne
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
-**Sibling concepts:** [[Ego-Involvement]]
+**Sibling concepts:** [[ego-involvement]]
 
-**Contrasts with:** [[Mastery Goal Orientation]]
+**Contrasts with:** [[mastery-goal-orientation]]
 
 **Instance of:** [[Performance-Approach]] · [[Performance-Avoidance]]
 

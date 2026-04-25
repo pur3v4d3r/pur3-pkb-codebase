@@ -1,0 +1,36 @@
+concept: Proactive Interference
+domain: cognitive-science
+secondary_domains:
+- memory-research
+aliases:
+- proactive inhibition
+- PI
+broader:
+- memory-interference
+related:
+- retroactive-interference
+- release-from-proactive-interference
+- similarity-based-confusion
+prerequisites:
+- long-term-memory
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Proactive Interference
+  body: Proactive Interference is the phenomenon in which previously learned material
+    disrupts the encoding or retrieval of subsequently learned similar material, and
+    it is one of the two principal interference mechanisms recognised in the classical
+    memory literature.
+- type: key-claim
+  title: Key claim about Proactive Interference
+  body: Proactive Interference scales with the semantic and structural similarity
+    between old and new material, which is why Proactive Interference is the primary
+    explanation for the difficulty of learning a second list of paired associates
+    that overlaps with a recently learned first list.
+- type: warning
+  title: Common pitfall regarding Proactive Interference
+  body: Proactive Interference is often confused with simple forgetting; it is specifically
+    a competition effect, and reducing Proactive Interference requires distinctiveness
+    manipulations or release procedures rather than additional study time on the interfering
+    material.

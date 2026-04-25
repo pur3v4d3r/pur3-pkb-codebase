@@ -31,12 +31,12 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Working Memory]]"
-  - "[[Metacognitive Knowledge]]"
+  - "[[working-memory]]"
+  - "[[metacognitive-knowledge]]"
   - "[[Metacognitive Strategies]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,12 +44,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Metacognitive Knowledge]]"
+  - "[[metacognitive-knowledge]]"
   - "[[Metacognitive Strategies]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Metacognitive Experience
 
 > [!definition] **Metacognitive Experience**
-> Metacognitive Experience refers to the conscious cognitive or affective experience that accompanies an intellectual task, such as feelings of difficulty or fluency, and is one component of Flavell's metacognitive framework. It falls under [[Metacognition]], alongside metacognitive knowledge and strategies, but differs in its focus on real-time experiences rather than understanding or planning.
+> Metacognitive Experience refers to the conscious cognitive or affective experience that accompanies an intellectual task, such as feelings of difficulty or fluency, and is one component of Flavell's metacognitive framework. It falls under [[metacognition]], alongside metacognitive knowledge and strategies, but differs in its focus on real-time experiences rather than understanding or planning.
 
 > [!attention] **Boundary**
 > It excludes metacognitive knowledge (understanding about cognition) and metacognitive strategies (planning and regulating cognitive processes).
@@ -130,10 +130,10 @@ Understanding and enhancing Metacognitive Experience is crucial for improving le
 
 ## Connections & Context
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Metacognitive Knowledge]] · [[Metacognitive Strategies]]
+**Contrasts with:** [[metacognitive-knowledge]] · [[Metacognitive Strategies]]
 
-**Applies to:** [[Self-Regulated Learning]]
+**Applies to:** [[self-regulated-learning]]
 
 **Source:** [[metacognitive-experience-synthetic-seed-2026-04-24]]

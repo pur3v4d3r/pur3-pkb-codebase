@@ -35,17 +35,17 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[self-efficacy-theory]]"
+  - "[[self-regulated-learning]]"
   - "[[Outcome Expectations]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[Outcome Expectations]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # The Centrality of Efficacy Over Outcome Expectations
 
 > [!definition] **The Centrality of Efficacy Over Outcome Expectations**
-> The belief that one can successfully perform a specific behavior is more influential on actual performance than the anticipated outcome of performing that behavior. This concept falls under [[Self-Regulated Learning]], where it emphasizes the role of perceived capability (efficacy) over expected outcomes in shaping behavior.
+> The belief that one can successfully perform a specific behavior is more influential on actual performance than the anticipated outcome of performing that behavior. This concept falls under [[self-regulated-learning]], where it emphasizes the role of perceived capability (efficacy) over expected outcomes in shaping behavior.
 
 > [!attention] **Boundary**
 > This concept focuses on the relative importance of perceived capability (efficacy) versus expected outcomes in shaping behavior, excluding discussions about other psychological constructs like motivation or external rewards.
@@ -131,11 +131,11 @@ This principle has significant implications for various fields, including educat
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Self-Efficacy Theory]]
+**Generalizes to:** [[self-efficacy-theory]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
 **Contrasts with:** [[Outcome Expectations]]
 

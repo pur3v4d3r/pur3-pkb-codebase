@@ -7,7 +7,7 @@ I have a pipeline for creating/modifying permanent notes for my PKB in Obsidian.
 I need you to review the readme's so you get the flow of it and then run the pipeline STARTING FROM the `D:\10_pur3v4d3r's-vault\99-scripts\synthetic-permanent-note-seeds`
 
 # GoaL
-40-50 New Permanent Notes in the vault, seeded from scratch with no human-written input, based on gaps in the existing note network.
+50-100 New Permanent Notes in the vault, seeded from scratch with no human-written input, based on gaps in the existing note network.
 
 ## How the Pipeline Should Run From This Starting Point
 - Should be something like this:

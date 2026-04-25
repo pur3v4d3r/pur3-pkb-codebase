@@ -33,19 +33,19 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Selective Attention]]"
-  - "[[Attentional Blink]]"
-  - "[[Perceptual Load Theory]]"
+  - "[[selective-attention]]"
+  - "[[attentional-blink]]"
+  - "[[perceptual-load-theory]]"
 prerequisites:
-  - "[[Selective Attention]]"
+  - "[[selective-attention]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Attentional Blink]]"
+  - "[[attentional-blink]]"
 contrasts-with:
-  - "[[Perceptual Load Theory]]"
+  - "[[perceptual-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Inattentional Blindness
 
 > [!definition] **Inattentional Blindness**
-> Inattentional Blindness refers to the phenomenon where individuals fail to perceive an unexpected stimulus when their attention is focused on another task or location, despite the stimulus being fully visible. This concept falls under [[Cognitive Architecture]], as it highlights how attention acts as a precondition for conscious perception rather than merely modulating sensory input.
+> Inattentional Blindness refers to the phenomenon where individuals fail to perceive an unexpected stimulus when their attention is focused on another task or location, despite the stimulus being fully visible. This concept falls under [[cognitive-architecture]], as it highlights how attention acts as a precondition for conscious perception rather than merely modulating sensory input.
 
 > [!attention] **Boundary**
 > This concept excludes general visual processing deficits and focuses specifically on conscious perception under high attentional load. It should not be confused with perceptual load theory or subliminal priming effects that do not involve a failure of conscious report.
@@ -133,12 +133,12 @@ The distinction between Inattentional Blindness and related concepts like percep
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Selective Attention]]
+**Prerequisites:** [[selective-attention]]
 
-**Sibling concepts:** [[Attentional Blink]]
+**Sibling concepts:** [[attentional-blink]]
 
-**Contrasts with:** [[Perceptual Load Theory]]
+**Contrasts with:** [[perceptual-load-theory]]
 
 **Source:** [[inattentional-blindness-synthetic-seed-2026-04-25]]

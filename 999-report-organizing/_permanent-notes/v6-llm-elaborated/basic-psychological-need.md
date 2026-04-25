@@ -37,19 +37,19 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[self-determination-theory]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 broader:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -137,12 +137,12 @@ The integration of SDT with other motivational theories, such as achievement goa
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Specializes:** [[Intrinsic Motivation]]
+**Specializes:** [[intrinsic-motivation]]
 
-**Generalizes to:** [[Self-Determination Theory]]
+**Generalizes to:** [[self-determination-theory]]
 
-**Contrasts with:** [[Extrinsic Motivation]]
+**Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

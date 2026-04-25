@@ -32,24 +32,24 @@ depth-level: elaborated
 parent-concept: "Cognitive Development"
 
 related:
-  - "[[Cognitive Disequilibrium]]"
-  - "[[Schema Theory]]"
-  - "[[Assimilation]]"
-  - "[[Conceptual Change]]"
+  - "[[cognitive-disequilibrium]]"
+  - "[[schema-theory]]"
+  - "[[assimilation]]"
+  - "[[conceptual-change]]"
 prerequisites:
-  - "[[Cognitive Disequilibrium]]"
+  - "[[cognitive-disequilibrium]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 contrasts-with:
-  - "[[Assimilation]]"
+  - "[[assimilation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Conceptual Change]]"
+  - "[[conceptual-change]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -129,12 +129,12 @@ Understanding accommodation is essential for developing effective educational st
 
 **Falls under:** [[Cognitive Development]]
 
-**Prerequisites:** [[Cognitive Disequilibrium]]
+**Prerequisites:** [[cognitive-disequilibrium]]
 
-**Sibling concepts:** [[Schema Theory]]
+**Sibling concepts:** [[schema-theory]]
 
-**Contrasts with:** [[Assimilation]]
+**Contrasts with:** [[assimilation]]
 
-**Applies to:** [[Conceptual Change]]
+**Applies to:** [[conceptual-change]]
 
 **Source:** [[accommodation-synthetic-seed-2026-04-24]]

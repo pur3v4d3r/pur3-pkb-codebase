@@ -1,0 +1,36 @@
+concept: State Dependent Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+aliases:
+- state-dependent retrieval
+- mood-congruent recall
+broader:
+- encoding-specificity-principle
+related:
+- context-dependent-memory
+- transfer-appropriate-processing
+- encoding-variability
+prerequisites:
+- encoding-specificity-principle
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: State Dependent Memory
+  body: State Dependent Memory is the empirical phenomenon that material encoded while
+    a learner is in a particular internal state — pharmacological, emotional, or physiological
+    — is retrieved more effectively when the same internal state is reinstated at
+    test, even when the external context is held constant.
+- type: key-claim
+  title: Key claim about State Dependent Memory
+  body: State Dependent Memory is a special case of the encoding-specificity principle
+    in which the matching cue is internal rather than environmental, and the size
+    of the State Dependent Memory effect scales with how distinctive the encoding
+    state is from the learner's baseline.
+- type: warning
+  title: Common pitfall regarding State Dependent Memory
+  body: State Dependent Memory is sometimes invoked to explain everyday forgetting,
+    but the effect is largest in pharmacological studies and substantially weaker
+    for ordinary mood fluctuations; over-generalizing State Dependent Memory to "I
+    learn better when I'm in a good mood" misrepresents the empirical scope.

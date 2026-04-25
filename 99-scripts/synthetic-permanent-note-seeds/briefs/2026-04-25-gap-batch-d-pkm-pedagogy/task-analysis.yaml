@@ -1,0 +1,37 @@
+concept: Task Analysis
+domain: instructional-design
+secondary_domains:
+- cognitive-psychology
+- human-factors
+aliases:
+- cognitive task analysis
+- hierarchical task analysis
+broader:
+- instructional-design
+related:
+- cognitive-task-analysis
+- four-component-instructional-design-model-4cid
+- expert-knowledge-elicitation
+- scaffolding
+prerequisites:
+- instructional-design
+confidence: high
+callouts:
+- type: definition
+  title: Task Analysis
+  body: Task Analysis is the systematic decomposition of a target performance into
+    its constituent goals, sub-goals, knowledge requirements, and actions, performed
+    prior to instructional design so that learning materials and assessments target
+    the cognitive structures the performance actually requires.
+- type: key-claim
+  title: Key claim about Task Analysis
+  body: Task Analysis is the empirically essential precondition of effective instructional
+    design — most prominently in the 4C/ID model — because instruction designed without
+    Task Analysis tends to teach the surface features of the performance rather than
+    the underlying cognitive operations.
+- type: warning
+  title: Common pitfall regarding Task Analysis
+  body: Task Analysis is most informative for routine, well-structured tasks; for
+    ill-structured creative or strategic work the decomposition itself becomes a research
+    project, and naive Task Analysis can produce instruction that drills atomic sub-skills
+    the expert never decomposes that way in practice.

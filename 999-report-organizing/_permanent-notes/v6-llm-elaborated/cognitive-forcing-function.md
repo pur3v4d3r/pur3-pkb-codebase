@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Cognitive Forcing Function
 
 > [!definition] **Cognitive Forcing Function**
-> A deliberately designed environmental feature that compels engagement of Type 2 reasoning at specific decision points, even when Type 1 pattern-matching would otherwise produce a confident default. Cognitive forcing functions are structural compensations for predictable failure modes of expert intuition under specific conditions and fall under [[Cognitive Architecture]].
+> A deliberately designed environmental feature that compels engagement of Type 2 reasoning at specific decision points, even when Type 1 pattern-matching would otherwise produce a confident default. Cognitive forcing functions are structural compensations for predictable failure modes of expert intuition under specific conditions and fall under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept does not include spontaneous decisions or interventions that are not structurally designed to interrupt predictable failure modes of expert intuition under specific conditions.
@@ -134,10 +134,10 @@ The integration of cognitive forcing functions into existing practices can lead 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

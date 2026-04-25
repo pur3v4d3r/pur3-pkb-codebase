@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Far Transfer]]"
-  - "[[Transfer-Appropriate Processing]]"
-  - "[[Worked Examples]]"
+  - "[[far-transfer]]"
+  - "[[transfer-appropriate-processing]]"
+  - "[[worked-examples]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +45,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Far Transfer]]"
-  - "[[Transfer-Appropriate Processing]]"
+  - "[[far-transfer]]"
+  - "[[transfer-appropriate-processing]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Near Transfer
 
 > [!definition] **Near Transfer**
-> Near Transfer is the application of learned knowledge or skill to a new task that shares substantial surface and structural features with the original training context, as opposed to far transfer which occurs between dissimilar contexts; it falls under [[Cognitive Architecture]].
+> Near Transfer is the application of learned knowledge or skill to a new task that shares substantial surface and structural features with the original training context, as opposed to far transfer which occurs between dissimilar contexts; it falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It excludes tasks that are completely different from the original learning context (far transfer) and focuses on tasks that share similar surface-level characteristics but may differ in underlying principles.
@@ -133,10 +133,10 @@ The robust and ubiquitous nature of Near Transfer underscores its practical valu
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Far Transfer]] · [[Transfer-Appropriate Processing]]
+**Contrasts with:** [[far-transfer]] · [[transfer-appropriate-processing]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[near-transfer-synthetic-seed-2026-04-25]]

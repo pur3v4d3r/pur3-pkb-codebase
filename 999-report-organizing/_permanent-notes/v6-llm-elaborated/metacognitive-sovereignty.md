@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Efficacy]]"
-  - "[[Autonomy]]"
+  - "[[self-efficacy]]"
+  - "[[autonomy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,8 +47,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
-  - "[[Autonomy]]"
+  - "[[self-efficacy]]"
+  - "[[autonomy]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # Metacognitive Sovereignty
 
 > [!definition] **Metacognitive Sovereignty**
-> Metacognitive sovereignty refers to the capacity to function as one's own epistemologist, monitoring, evaluating, and regulating one's learning processes without external assessment. It falls under [[Self-Regulated Learning]], encompassing three interacting dimensions: metacognitive knowledge (knowing about one's own cognition), metacognitive monitoring (real-time awareness of comprehension and performance), and metacognitive control (strategic adjustment based on monitoring outputs). This sovereignty does not imply infallibility but rather the ability for honest self-assessment, including recognizing the limits of one's knowledge.
+> Metacognitive sovereignty refers to the capacity to function as one's own epistemologist, monitoring, evaluating, and regulating one's learning processes without external assessment. It falls under [[self-regulated-learning]], encompassing three interacting dimensions: metacognitive knowledge (knowing about one's own cognition), metacognitive monitoring (real-time awareness of comprehension and performance), and metacognitive control (strategic adjustment based on monitoring outputs). This sovereignty does not imply infallibility but rather the ability for honest self-assessment, including recognizing the limits of one's knowledge.
 
 > [!attention] **Boundary**
 > It does not imply infallibility but rather the ability for honest self-assessment and recognizing the limits of one's knowledge. It is distinct from mere autonomy or self-efficacy.
@@ -133,8 +133,8 @@ Metacognitive sovereignty is central to understanding self-directed learning as 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Self-Efficacy]] · [[Autonomy]]
+**Contrasts with:** [[self-efficacy]] · [[autonomy]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]

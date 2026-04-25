@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Attention and Selective Processing
 
 > [!definition] **Attention and Selective Processing**
-> Attention and Selective Processing refers to the mechanism by which the brain filters incoming sensory information, allowing only relevant stimuli to be processed deeply while others are either rejected or processed shallowly. This concept falls under [[Cognitive Architecture]], as it is a fundamental aspect of how cognitive systems manage and prioritize information.
+> Attention and Selective Processing refers to the mechanism by which the brain filters incoming sensory information, allowing only relevant stimuli to be processed deeply while others are either rejected or processed shallowly. This concept falls under [[cognitive-architecture]], as it is a fundamental aspect of how cognitive systems manage and prioritize information.
 
 > [!attention] **Boundary**
 > This concept excludes unconscious processing that occurs without attentional selection and focuses on the selective filtering of perceptual and mental streams for deeper analysis.
@@ -131,10 +131,10 @@ This concept also has broader implications for fields such as neuroscience and a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[attention-and-selective-processing-synthetic-seed-2026-04-24]]

@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Learning Science"
 
 related:
-  - "[[Generation Effect]]"
-  - "[[Retrieval Practice]]"
+  - "[[generation-effect]]"
+  - "[[retrieval-practice]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Generation Effect]]"
+  - "[[generation-effect]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Retrieval Practice]]"
+  - "[[retrieval-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Pre-Testing Effect
 
 > [!definition] **Pre-Testing Effect**
-> The Pre-Testing Effect is the empirical finding that attempting to answer questions about material before studying it — even when the answers are unknown and the responses are wrong — improves later memory for the correct answers compared to studying the material directly. It falls under [[Learning Science]], where it operates as a form of preparatory encoding scaffolding, enhancing long-term retention.
+> The Pre-Testing Effect is the empirical finding that attempting to answer questions about material before studying it — even when the answers are unknown and the responses are wrong — improves later memory for the correct answers compared to studying the material directly. It falls under [[learning-science]], where it operates as a form of preparatory encoding scaffolding, enhancing long-term retention.
 
 > [!attention] **Boundary**
 > This effect does not include situations where pre-testing is used as a substitute for post-study retrieval practice, which has its own distinct benefits.
@@ -131,10 +131,10 @@ The Pre-Testing Effect is particularly valuable when combined with other learnin
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
-**Contrasts with:** [[Generation Effect]]
+**Contrasts with:** [[generation-effect]]
 
-**Applies to:** [[Retrieval Practice]]
+**Applies to:** [[retrieval-practice]]
 
 **Source:** [[pre-testing-effect-synthetic-seed-2026-04-25]]

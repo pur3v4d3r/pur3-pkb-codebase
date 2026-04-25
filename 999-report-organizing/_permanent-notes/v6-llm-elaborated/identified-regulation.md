@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contrasts-with:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Identified Regulation
 
 > [!definition] **Identified Regulation**
-> Identified regulation is a regulatory style in Self-Determination Theory where an individual consciously endorses the value of a behavior, recognizing it as personally important even when not inherently enjoyable. It falls under [[Self-Determination Theory]], distinguished from introjected and external regulations by its conscious endorsement and intrinsic importance to the individual.
+> Identified regulation is a regulatory style in Self-Determination Theory where an individual consciously endorses the value of a behavior, recognizing it as personally important even when not inherently enjoyable. It falls under [[self-determination-theory]], distinguished from introjected and external regulations by its conscious endorsement and intrinsic importance to the individual.
 
 > [!attention] **Boundary**
 > This concept excludes behaviors that are endorsed without conscious value-endorsement (introjected regulation) or fully integrated into one's self-value structure (integrated regulation).
@@ -135,10 +135,10 @@ The concept of identified regulation also has broader implications across variou
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Intrinsic Motivation]]
+**Sibling concepts:** [[intrinsic-motivation]]
 
-**Contrasts with:** [[Extrinsic Motivation]]
+**Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

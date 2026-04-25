@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulation"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Emotional Regulation
 
 > [!definition] **Emotional Regulation**
-> Emotional Regulation involves the processes — both automatic and controlled, conscious and unconscious — by which individuals influence when they experience emotions, how they are experienced, and how they are expressed. It falls under [[Self-Regulation]], as it is a critical component of managing one's emotional responses effectively.
+> Emotional Regulation involves the processes — both automatic and controlled, conscious and unconscious — by which individuals influence when they experience emotions, how they are experienced, and how they are expressed. It falls under [[self-regulation]], as it is a critical component of managing one's emotional responses effectively.
 
 > [!attention] **Boundary**
 > This includes both automatic and controlled strategies but excludes purely physiological responses to emotional stimuli.
@@ -135,10 +135,10 @@ Empirical evidence supports the effectiveness of cognitive reappraisal over expr
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulation]]
+**Falls under:** [[self-regulation]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
 **Source:** [[emotional-regulation-synthetic-seed-2026-04-24]]

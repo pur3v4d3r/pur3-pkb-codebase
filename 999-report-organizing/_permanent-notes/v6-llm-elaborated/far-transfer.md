@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Knowledge Transfer"
 
 related:
-  - "[[Near Transfer]]"
-  - "[[Encoding-Specificity Principle]]"
+  - "[[near-transfer]]"
+  - "[[encoding-specificity-principle]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,8 +43,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Near Transfer]]"
-  - "[[Encoding-Specificity Principle]]"
+  - "[[near-transfer]]"
+  - "[[encoding-specificity-principle]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Far Transfer
 
 > [!definition] **Far Transfer**
-> Far Transfer is the application of learned knowledge or skills to new, dissimilar situations that differ in surface features and problem structures, falling under [[Knowledge Transfer]]. It excludes near transfer (applying learning within similar contexts) and does not encompass all forms of skill acquisition or knowledge application.
+> Far Transfer is the application of learned knowledge or skills to new, dissimilar situations that differ in surface features and problem structures, falling under [[knowledge-transfer]]. It excludes near transfer (applying learning within similar contexts) and does not encompass all forms of skill acquisition or knowledge application.
 
 ## Core Explanation
 
@@ -134,8 +134,8 @@ Empirical evidence from meta-analyses across decades consistently shows that lea
 
 ## Connections & Context
 
-**Falls under:** [[Knowledge Transfer]]
+**Falls under:** [[knowledge-transfer]]
 
-**Contrasts with:** [[Near Transfer]] · [[Encoding-Specificity Principle]]
+**Contrasts with:** [[near-transfer]] · [[encoding-specificity-principle]]
 
 **Source:** [[far-transfer-synthetic-seed-2026-04-24]]

@@ -32,19 +32,19 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Self-Determination Theory]]"
-  - "[[Attachment Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[attachment-theory]]"
   - "[[Interdependence]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Attachment Theory]]"
+  - "[[attachment-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Relationship Motivation Theory
 
 > [!definition] **Relationship Motivation Theory**
-> Relationship Motivation Theory (RMT) is a subtheory of Self-Determination Theory (SDT) that explains how basic psychological needs operate within close relationships such as friendships, romantic partnerships, and parent-child relationships, focusing on autonomy and relatedness. It falls under [[Self-Determination Theory]], aiming to understand why high-quality relationships are characterized by mutual need support and why need thwarting in relationships predicts distress and dissolution.
+> Relationship Motivation Theory (RMT) is a subtheory of Self-Determination Theory (SDT) that explains how basic psychological needs operate within close relationships such as friendships, romantic partnerships, and parent-child relationships, focusing on autonomy and relatedness. It falls under [[self-determination-theory]], aiming to understand why high-quality relationships are characterized by mutual need support and why need thwarting in relationships predicts distress and dissolution.
 
 > [!attention] **Boundary**
 > It focuses specifically on the operation of basic psychological needs in close relationships such as friendships, romantic partnerships, and parent-child relationships. It does not address broader motivational theories outside these contexts.
@@ -132,11 +132,11 @@ Moreover, RMT complements other theories like attachment theory and interdepende
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Generalizes to:** [[Self-Determination Theory]]
+**Generalizes to:** [[self-determination-theory]]
 
-**Contrasts with:** [[Attachment Theory]]
+**Contrasts with:** [[attachment-theory]]
 
 **Applies to:** [[Interdependence]]
 

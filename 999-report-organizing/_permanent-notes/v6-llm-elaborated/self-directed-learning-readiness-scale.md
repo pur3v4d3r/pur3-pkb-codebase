@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Heutagogy]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[heutagogy]]"
+  - "[[self-efficacy-theory]]"
   - "[[Personal Responsibility Orientation]]"
-  - "[[Constructivist Learning Theory]]"
+  - "[[constructivist-learning-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,14 +47,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Heutagogy]]"
+  - "[[heutagogy]]"
 contrasts-with:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
   - "[[Personal Responsibility Orientation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Constructivist Learning Theory]]"
+  - "[[constructivist-learning-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Self-Directed Learning Readiness Scale
 
 > [!definition] **Self-Directed Learning Readiness Scale**
-> The Self-Directed Learning Readiness Scale is a psychometric tool designed to assess an individual's preparedness and inclination towards self-directed learning, encompassing various cognitive, motivational, and developmental factors. It falls under [[Self-Regulated Learning]], focusing on readiness for self-directed learning rather than actual behavior.
+> The Self-Directed Learning Readiness Scale is a psychometric tool designed to assess an individual's preparedness and inclination towards self-directed learning, encompassing various cognitive, motivational, and developmental factors. It falls under [[self-regulated-learning]], focusing on readiness for self-directed learning rather than actual behavior.
 
 > [!attention] **Boundary**
 > This scale focuses on readiness for self-directed learning rather than actual behavior. It does not measure the effectiveness of self-directed learning practices or outcomes but rather the learner's attitude and capability to engage in such learning.
@@ -140,12 +140,12 @@ The SDLRS's significance extends beyond adult education into K-12 settings, wher
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Heutagogy]]
+**Sibling concepts:** [[heutagogy]]
 
-**Contrasts with:** [[Self-Efficacy Theory]] · [[Personal Responsibility Orientation]]
+**Contrasts with:** [[self-efficacy-theory]] · [[Personal Responsibility Orientation]]
 
-**Applies to:** [[Constructivist Learning Theory]]
+**Applies to:** [[constructivist-learning-theory]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]

@@ -35,7 +35,7 @@ parent-concept: "Well-being Research"
 related:
   - "[[Meaning in Life]]"
   - "[[Hedonic Well-Being]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -137,6 +137,6 @@ Eudaimonia's unique contributions extend beyond individual well-being to inform 
 
 **Contrasts with:** [[Hedonic Well-Being]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
 **Source:** [[eudaimonia-synthetic-seed-2026-04-24]]

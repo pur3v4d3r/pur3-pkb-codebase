@@ -35,9 +35,9 @@ depth-level: elaborated
 parent-concept: "Attribution Theory"
 
 related:
-  - "[[Self-Determination Theory]]"
-  - "[[Learned Helplessness]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[learned-helplessness]]"
+  - "[[expectancy-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,11 +47,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 contradicts:
-  - "[[Learned Helplessness]]"
+  - "[[learned-helplessness]]"
 applies-to:
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Functional Priority of Unexpected and Negative Outcomes
 
 > [!definition] **Functional Priority of Unexpected and Negative Outcomes**
-> The Functional Priority of Unexpected and Negative Outcomes refers to a cognitive mechanism that prioritizes causal analysis for unexpected, negative, or personally important outcomes over expected or positive ones. It falls under [[Attribution Theory]], where the asymmetry in cognitive resource allocation is seen as a design feature ensuring that critical information is processed more thoroughly.
+> The Functional Priority of Unexpected and Negative Outcomes refers to a cognitive mechanism that prioritizes causal analysis for unexpected, negative, or personally important outcomes over expected or positive ones. It falls under [[attribution-theory]], where the asymmetry in cognitive resource allocation is seen as a design feature ensuring that critical information is processed more thoroughly.
 
 > [!attention] **Boundary**
 > This concept excludes situations where outcomes are neither unexpected nor negative, as well as scenarios involving routine or trivial events. It is distinct from general attribution theory but builds upon it by focusing on specific conditions that trigger cognitive processing.
@@ -131,12 +131,12 @@ The relevance of this concept extends beyond individual psychology to educationa
 
 ## Connections & Context
 
-**Falls under:** [[Attribution Theory]]
+**Falls under:** [[attribution-theory]]
 
-**Contrasts with:** [[Self-Determination Theory]]
+**Contrasts with:** [[self-determination-theory]]
 
-**Contradicts:** [[Learned Helplessness]]
+**Contradicts:** [[learned-helplessness]]
 
-**Applies to:** [[Expectancy-Value Theory]]
+**Applies to:** [[expectancy-value-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

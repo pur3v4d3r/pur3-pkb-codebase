@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
-  - "[[Self-Efficacy]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
+  - "[[self-efficacy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +45,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -129,10 +129,10 @@ Understanding the Three Basic Psychological Needs is crucial for enhancing human
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Contrasts with:** [[Intrinsic Motivation]] · [[Extrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]] · [[extrinsic-motivation]]
 
-**Applies to:** [[Self-Efficacy]]
+**Applies to:** [[self-efficacy]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

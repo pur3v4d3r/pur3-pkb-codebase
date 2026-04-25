@@ -38,19 +38,19 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Regulated Learning]]"
-  - "[[Metacognitive Monitoring]]"
+  - "[[self-regulated-learning]]"
+  - "[[metacognitive-monitoring]]"
   - "[[Judgment-of-Learning (JOL)]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Metacognitive Monitoring]]"
+  - "[[metacognitive-monitoring]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -78,7 +78,7 @@ provenance:
 # Metacognitive Control
 
 > [!definition] **Metacognitive Control**
-> Metacognitive control is the process by which higher-level cognitive functions direct and modify lower-level cognitive operations based on monitoring outputs, ensuring effective learning and memory retention. It falls under [[Self-Regulated Learning]], focusing specifically on regulatory actions informed by monitoring accuracy rather than willpower or effortful self-discipline.
+> Metacognitive control is the process by which higher-level cognitive functions direct and modify lower-level cognitive operations based on monitoring outputs, ensuring effective learning and memory retention. It falls under [[self-regulated-learning]], focusing specifically on regulatory actions informed by monitoring accuracy rather than willpower or effortful self-discipline.
 
 > [!attention] **Boundary**
 > It does not encompass willpower or effortful self-discipline but focuses specifically on regulatory actions informed by monitoring accuracy.
@@ -140,11 +140,11 @@ Understanding the nuances of metacognitive control not only enriches our theoret
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Self-Regulated Learning]]
+**Generalizes to:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Metacognitive Monitoring]]
+**Contrasts with:** [[metacognitive-monitoring]]
 
 **Applies to:** [[Judgment-of-Learning (JOL)]]
 

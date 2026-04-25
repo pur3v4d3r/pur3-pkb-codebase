@@ -36,25 +36,25 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Intrinsic Cognitive Load]]"
-  - "[[Extraneous Cognitive Load]]"
-  - "[[Long-Term Memory]]"
-  - "[[Schema Construction]]"
+  - "[[intrinsic-cognitive-load]]"
+  - "[[extraneous-cognitive-load]]"
+  - "[[long-term-memory]]"
+  - "[[schema-construction]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Intrinsic Cognitive Load]]"
-  - "[[Extraneous Cognitive Load]]"
+  - "[[intrinsic-cognitive-load]]"
+  - "[[extraneous-cognitive-load]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Long-Term Memory]]"
+  - "[[long-term-memory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Schema Construction]]"
+  - "[[schema-construction]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Working Memory
 
 > [!definition] **Working Memory**
-> Working memory is a cognitive system responsible for temporarily maintaining and manipulating novel information during complex tasks, with severe capacity limits (approximately 4±1 elements) and decays quickly without rehearsal. It falls under the broader concept of [[Cognitive Architecture]], where its limitations form the basis of Cognitive Load Theory.
+> Working memory is a cognitive system responsible for temporarily maintaining and manipulating novel information during complex tasks, with severe capacity limits (approximately 4±1 elements) and decays quickly without rehearsal. It falls under the broader concept of [[cognitive-architecture]], where its limitations form the basis of Cognitive Load Theory.
 
 > [!attention] **Boundary**
 > This definition excludes specific models like Baddeley's multi-component model, focusing on the capacity constraint rather than its components.
@@ -134,12 +134,12 @@ The importance of working memory extends beyond education into fields like human
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Specializes:** [[Intrinsic Cognitive Load]] · [[Extraneous Cognitive Load]]
+**Specializes:** [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]]
 
-**Sibling concepts:** [[Long-Term Memory]]
+**Sibling concepts:** [[long-term-memory]]
 
-**Applies to:** [[Schema Construction]]
+**Applies to:** [[schema-construction]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

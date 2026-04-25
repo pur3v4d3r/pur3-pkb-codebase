@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Regulation]]"
-  - "[[Attribution Theory]]"
-  - "[[Growth Mindset]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[self-regulation]]"
+  - "[[attribution-theory]]"
+  - "[[growth-mindset]]"
+  - "[[expectancy-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,14 +46,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulation]]"
+  - "[[self-regulation]]"
 contrasts-with:
-  - "[[Attribution Theory]]"
-  - "[[Growth Mindset]]"
+  - "[[attribution-theory]]"
+  - "[[growth-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Efficacy Hierarchy
 
 > [!definition] **Efficacy Hierarchy**
-> The Efficacy Hierarchy is a hierarchically organized structure in which a person's efficacy beliefs are arranged across levels of generality, where broader beliefs at higher levels constrain but do not fully determine the narrower beliefs at lower levels. This hierarchy operates more probabilistically and analytically than as a strict containment relationship; instead, structural relationships between domains are partially constructed by the individual’s perception of similarity rather than objective domain features. It falls under [[Self-Regulated Learning]].
+> The Efficacy Hierarchy is a hierarchically organized structure in which a person's efficacy beliefs are arranged across levels of generality, where broader beliefs at higher levels constrain but do not fully determine the narrower beliefs at lower levels. This hierarchy operates more probabilistically and analytically than as a strict containment relationship; instead, structural relationships between domains are partially constructed by the individual’s perception of similarity rather than objective domain features. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This hierarchy is not a strict containment relationship; instead, it is more probabilistic and analytic, with structural relationships between domains being partially constructed by the individual’s perception of similarity rather than objective domain features.
@@ -134,12 +134,12 @@ Understanding the Efficacy Hierarchy is crucial for cognitive psychology and sel
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Regulation]]
+**Sibling concepts:** [[self-regulation]]
 
-**Contrasts with:** [[Attribution Theory]] · [[Growth Mindset]]
+**Contrasts with:** [[attribution-theory]] · [[growth-mindset]]
 
-**Applies to:** [[Expectancy-Value Theory]]
+**Applies to:** [[expectancy-value-theory]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

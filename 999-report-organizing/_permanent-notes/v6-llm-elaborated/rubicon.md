@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Implementation Intentions]]"
-  - "[[Goal-Setting Theory]]"
-  - "[[Dual-Process Theory]]"
+  - "[[implementation-intentions]]"
+  - "[[goal-setting-theory]]"
+  - "[[dual-process-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,10 +46,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 contrasts-with:
-  - "[[Goal-Setting Theory]]"
-  - "[[Dual-Process Theory]]"
+  - "[[goal-setting-theory]]"
+  - "[[dual-process-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -77,7 +77,7 @@ provenance:
 # Rubicon
 
 > [!definition] **Rubicon**
-> The Rubicon is a metaphor for the transition from open-minded deliberation to commitment-protective implementation, often used in the context of goal pursuit and implementation intentions. It falls under [[Self-Regulated Learning]], highlighting the qualitative shift from considering multiple goals to planning and enacting a chosen one.
+> The Rubicon is a metaphor for the transition from open-minded deliberation to commitment-protective implementation, often used in the context of goal pursuit and implementation intentions. It falls under [[self-regulated-learning]], highlighting the qualitative shift from considering multiple goals to planning and enacting a chosen one.
 
 > [!attention] **Boundary**
 > This concept excludes specific examples or individual applications but focuses on the general principle of crossing from predecisional to preactional phases.
@@ -131,10 +131,10 @@ Understanding the Rubicon is crucial for self-regulated learning as it provides 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Implementation Intentions]]
+**Sibling concepts:** [[implementation-intentions]]
 
-**Contrasts with:** [[Goal-Setting Theory]] · [[Dual-Process Theory]]
+**Contrasts with:** [[goal-setting-theory]] · [[dual-process-theory]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

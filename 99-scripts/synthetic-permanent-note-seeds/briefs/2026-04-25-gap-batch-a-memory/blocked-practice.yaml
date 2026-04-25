@@ -1,0 +1,36 @@
+concept: Blocked Practice
+domain: cognitive-science
+secondary_domains:
+- learning-science
+- instructional-design
+aliases:
+- massed practice schedule
+broader:
+- practice-schedule
+related:
+- interleaving
+- desirable-difficulties
+- distributed-practice
+- spacing-effect
+prerequisites:
+- long-term-memory
+- transfer-of-learning
+confidence: high
+callouts:
+- type: definition
+  title: Blocked Practice
+  body: Blocked Practice is a training schedule in which all trials of a single skill,
+    problem type, or concept are completed consecutively before moving to the next,
+    contrasting with interleaved schedules that intermix categories within a session.
+- type: key-claim
+  title: Key claim about Blocked Practice
+  body: Blocked Practice produces faster within-session performance gains and higher
+    learner-perceived fluency than interleaved practice, but it consistently yields
+    weaker long-term retention and weaker transfer to novel discrimination problems
+    — a textbook case of performance-during-training diverging from learning.
+- type: warning
+  title: Common pitfall regarding Blocked Practice
+  body: The superior in-session performance of Blocked Practice creates a metacognitive
+    trap in which both learners and instructors prefer Blocked Practice because it
+    feels productive, even though the comparative literature treats Blocked Practice
+    as the inferior schedule for any goal that requires durable category discrimination.

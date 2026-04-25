@@ -36,25 +36,25 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive Scaffolding]]"
-  - "[[Intrinsic Cognitive Load]]"
-  - "[[Worked Examples]]"
-  - "[[Complex Learning]]"
+  - "[[cognitive-scaffolding]]"
+  - "[[intrinsic-cognitive-load]]"
+  - "[[worked-examples]]"
+  - "[[complex-learning]]"
 prerequisites:
-  - "[[Cognitive Scaffolding]]"
+  - "[[cognitive-scaffolding]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Cognitive Load]]"
+  - "[[intrinsic-cognitive-load]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
-  - "[[Complex Learning]]"
+  - "[[worked-examples]]"
+  - "[[complex-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Task Class
 
 > [!definition] **Task Class**
-> A task class is a category of learning tasks at the same level of complexity, where all tasks address the same set of interacting elements but vary in surface features and context. Task classes are sequenced from simple to complex, with each new class introducing additional interacting elements. This concept falls under [[Cognitive Architecture]], as it provides a structured approach for managing cognitive load through systematic scaffold fading within each task class.
+> A task class is a category of learning tasks at the same level of complexity, where all tasks address the same set of interacting elements but vary in surface features and context. Task classes are sequenced from simple to complex, with each new class introducing additional interacting elements. This concept falls under [[cognitive-architecture]], as it provides a structured approach for managing cognitive load through systematic scaffold fading within each task class.
 
 > [!attention] **Boundary**
 > Task classes do not represent difficulty levels based on surface features or arbitrary grading criteria; they are defined by genuine differences in structural complexity due to the number of interacting elements that must be coordinated.
@@ -137,12 +137,12 @@ Beyond their practical applications, task classes also contribute to broader the
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Cognitive Scaffolding]]
+**Prerequisites:** [[cognitive-scaffolding]]
 
-**Sibling concepts:** [[Intrinsic Cognitive Load]]
+**Sibling concepts:** [[intrinsic-cognitive-load]]
 
-**Applies to:** [[Worked Examples]] · [[Complex Learning]]
+**Applies to:** [[worked-examples]] · [[complex-learning]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

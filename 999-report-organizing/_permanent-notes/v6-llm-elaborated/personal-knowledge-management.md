@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Personal Knowledge Management
 
 > [!definition] **Personal Knowledge Management**
-> Personal Knowledge Management (PKM) is the practice of capturing, organizing, integrating, retrieving, and applying knowledge to support intellectual and professional growth. It involves using tools and strategies to manage one's own knowledge effectively, falling under [[Cognitive Architecture]] as it enhances individual cognitive processes and extends beyond mere data storage into meaningful understanding.
+> Personal Knowledge Management (PKM) is the practice of capturing, organizing, integrating, retrieving, and applying knowledge to support intellectual and professional growth. It involves using tools and strategies to manage one's own knowledge effectively, falling under [[cognitive-architecture]] as it enhances individual cognitive processes and extends beyond mere data storage into meaningful understanding.
 
 > [!attention] **Boundary**
 > PKM focuses on individual cognitive processes and tools rather than institutional or collective knowledge management systems.
@@ -134,10 +134,10 @@ The importance of PKM extends beyond individual benefits; it plays a vital role 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

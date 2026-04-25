@@ -33,23 +33,23 @@ depth-level: elaborated
 parent-concept: "Dual-Process Theory"
 
 related:
-  - "[[Dual-Process Theory]]"
-  - "[[System 2]]"
-  - "[[Heuristics and Biases]]"
+  - "[[dual-process-theory]]"
+  - "[[system-2]]"
+  - "[[heuristics-and-biases]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[System 2]]"
+  - "[[system-2]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Heuristics and Biases]]"
+  - "[[heuristics-and-biases]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # System 1
 
 > [!definition] **System 1**
-> System 1 refers to the family of fast, automatic, and often emotional cognitive processes that produce intuitive judgments and rapid pattern recognition, as described by Kahneman in *Thinking Fast and Slow*. It falls under [[Dual-Process Theory]], where it stands in contrast to System 2's slow, deliberate, and rule-based processing.
+> System 1 refers to the family of fast, automatic, and often emotional cognitive processes that produce intuitive judgments and rapid pattern recognition, as described by Kahneman in *Thinking Fast and Slow*. It falls under [[dual-process-theory]], where it stands in contrast to System 2's slow, deliberate, and rule-based processing.
 
 > [!attention] **Boundary**
 > It is distinct from System 2's slow, deliberate, and rule-based processing. System 1 should not be confused with the entirety of unconscious cognition or automaticity in general.
@@ -135,12 +135,12 @@ System 1's importance extends beyond psychology into fields such as economics an
 
 ## Connections & Context
 
-**Falls under:** [[Dual-Process Theory]]
+**Falls under:** [[dual-process-theory]]
 
-**Generalizes to:** [[Dual-Process Theory]]
+**Generalizes to:** [[dual-process-theory]]
 
-**Contrasts with:** [[System 2]]
+**Contrasts with:** [[system-2]]
 
-**Applies to:** [[Heuristics and Biases]]
+**Applies to:** [[heuristics-and-biases]]
 
 **Source:** [[system-1-synthetic-seed-2026-04-24]]

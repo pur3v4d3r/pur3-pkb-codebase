@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Illusion of Explanatory Depth
 
 > [!definition] **Illusion of Explanatory Depth**
-> The illusion of explanatory depth refers to the belief that one understands a topic well enough to explain it, which is often contradicted by an inability to articulate a coherent explanation when required. This concept specifically pertains to the gap between felt comprehension and actual understanding in explaining topics, falling under [[Cognitive Architecture]].
+> The illusion of explanatory depth refers to the belief that one understands a topic well enough to explain it, which is often contradicted by an inability to articulate a coherent explanation when required. This concept specifically pertains to the gap between felt comprehension and actual understanding in explaining topics, falling under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept specifically pertains to the gap between felt comprehension and actual understanding in explaining topics. It does not apply to other forms of knowledge such as recognition or classification.
@@ -128,10 +128,10 @@ The concept of the illusion of explanatory depth is crucial for understanding ho
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

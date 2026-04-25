@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -57,7 +57,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -75,7 +75,7 @@ provenance:
 # Metacognitive Bootstrapping Problem
 
 > [!definition] **Metacognitive Bootstrapping Problem**
-> The Metacognitive Bootstrapping Problem refers to the paradox where learners need metacognitive regulation, which requires cognitive resources, but learning novel material consumes these same resources, making effective regulation difficult. It falls under [[Self-Regulated Learning]], as it pertains to the internal regulatory processes necessary for effective learning.
+> The Metacognitive Bootstrapping Problem refers to the paradox where learners need metacognitive regulation, which requires cognitive resources, but learning novel material consumes these same resources, making effective regulation difficult. It falls under [[self-regulated-learning]], as it pertains to the internal regulatory processes necessary for effective learning.
 
 > [!attention] **Boundary**
 > This concept focuses on the challenge of regulating one's own learning and does not include discussions about external factors that do not directly relate to this internal regulatory process.
@@ -130,14 +130,14 @@ External scaffolding resolves this paradox not by increasing the learner's cogni
 
 Understanding the Metacognitive Bootstrapping Problem is crucial for effective learning and planning because it underscores the delicate balance between cognitive resources and metacognitive regulation. By recognizing this challenge, educators can design more supportive environments that facilitate deeper learning. This concept also intersects with broader discussions in cognitive psychology about how external aids can enhance intrinsic cognitive processes, making it a foundational idea in both educational theory and practice.
 
-The Metacognitive Bootstrapping Problem is particularly relevant to the field of [[Cognitive Load Theory]], as it provides a specific example of how intrinsic load impacts metacognitive regulation. By addressing this problem, we can better understand how to optimize learning environments for all types of cognitive tasks.
+The Metacognitive Bootstrapping Problem is particularly relevant to the field of [[cognitive-load-theory]], as it provides a specific example of how intrinsic load impacts metacognitive regulation. By addressing this problem, we can better understand how to optimize learning environments for all types of cognitive tasks.
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive-Bias]]"
-  - "[[Heuristics-and-Biases]]"
-  - "[[Bounded-Rationality]]"
+  - "[[cognitive-bias]]"
+  - "[[heuristics-and-biases]]"
+  - "[[bounded-rationality]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,14 +46,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive-Bias]]"
+  - "[[cognitive-bias]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Heuristics-and-Biases]]"
-  - "[[Bounded-Rationality]]"
+  - "[[heuristics-and-biases]]"
+  - "[[bounded-rationality]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Attribute Substitution
 
 > [!definition] **Attribute Substitution**
-> Attribute substitution is a cognitive process where the brain, faced with a difficult question that is computationally demanding for Type 2 processing, substitutes an easier heuristic question to answer instead, often without the individual's awareness. This mechanism falls under [[Cognitive Architecture]], as it operates within the dual-process theory framework of System 1 and System 2 cognition.
+> Attribute substitution is a cognitive process where the brain, faced with a difficult question that is computationally demanding for Type 2 processing, substitutes an easier heuristic question to answer instead, often without the individual's awareness. This mechanism falls under [[cognitive-architecture]], as it operates within the dual-process theory framework of System 1 and System 2 cognition.
 
 > [!attention] **Boundary**
 > This concept does not encompass ignorance or laziness; it specifically refers to the mismatch between the actual and intended questions answered by Type 1 processing. It is distinct from other cognitive biases but is closely related to them.
@@ -142,10 +142,10 @@ The concept of attribute substitution also underscores the importance of careful
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Cognitive-Bias]]
+**Sibling concepts:** [[cognitive-bias]]
 
-**Applies to:** [[Heuristics-and-Biases]] · [[Bounded-Rationality]]
+**Applies to:** [[heuristics-and-biases]] · [[bounded-rationality]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

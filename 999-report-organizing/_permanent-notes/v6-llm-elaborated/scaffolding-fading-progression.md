@@ -37,16 +37,16 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Zone of Proximal Development]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Formative Assessment]]"
-  - "[[Feedback Design for Autonomy and Mastery]]"
+  - "[[zone-of-proximal-development]]"
+  - "[[self-regulated-learning]]"
+  - "[[formative-assessment]]"
+  - "[[feedback-design-for-autonomy-and-mastery]]"
 prerequisites:
-  - "[[Zone of Proximal Development]]"
+  - "[[zone-of-proximal-development]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -54,8 +54,8 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Formative Assessment]]"
-  - "[[Feedback Design for Autonomy and Mastery]]"
+  - "[[formative-assessment]]"
+  - "[[feedback-design-for-autonomy-and-mastery]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -79,7 +79,7 @@ provenance:
 # Scaffolding-Fading Progression
 
 > [!definition] **Scaffolding-Fading Progression**
-> The scaffolding-fading progression is a pedagogical technique that provides structured support for learning tasks and gradually withdraws this support as the learner develops independence, mirroring Vygotsky's zone of proximal development. It falls under [[Self-Regulated Learning]], where it operates through the transfer of regulatory function from external scaffolding to internal self-regulation; it is not a gradual reduction in task difficulty but rather a reduction in external support while maintaining or increasing challenge.
+> The scaffolding-fading progression is a pedagogical technique that provides structured support for learning tasks and gradually withdraws this support as the learner develops independence, mirroring Vygotsky's zone of proximal development. It falls under [[self-regulated-learning]], where it operates through the transfer of regulatory function from external scaffolding to internal self-regulation; it is not a gradual reduction in task difficulty but rather a reduction in external support while maintaining or increasing challenge.
 
 > [!attention] **Boundary**
 > This concept does not refer to a gradual reduction in task difficulty but rather a reduction in external support while maintaining or increasing challenge. It is distinct from simple skill acquisition models that focus solely on task complexity.
@@ -140,12 +140,12 @@ The scaffolding-fading progression not only enhances immediate learning outcomes
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Zone of Proximal Development]]
+**Prerequisites:** [[zone-of-proximal-development]]
 
-**Generalizes to:** [[Self-Regulated Learning]]
+**Generalizes to:** [[self-regulated-learning]]
 
-**Applies to:** [[Formative Assessment]] · [[Feedback Design for Autonomy and Mastery]]
+**Applies to:** [[formative-assessment]] · [[feedback-design-for-autonomy-and-mastery]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

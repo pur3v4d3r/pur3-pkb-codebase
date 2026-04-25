@@ -71,7 +71,7 @@ provenance:
 # Assessment Design
 
 > [!definition] **Assessment Design**
-> Assessment Design is the principled construction of tasks, prompts, and rubrics intended to measure learning outcomes — covering formative assessment (during learning, to inform adjustment) and summative assessment (after learning, to certify achievement) — under explicit constraints of validity, reliability, and consequential impact on instruction. It falls under [[Educational Psychology]], as it directly influences how learners engage with content and what they ultimately learn.
+> Assessment Design is the principled construction of tasks, prompts, and rubrics intended to measure learning outcomes — covering formative assessment (during learning, to inform adjustment) and summative assessment (after learning, to certify achievement) — under explicit constraints of validity, reliability, and consequential impact on instruction. It falls under [[educational-psychology]], as it directly influences how learners engage with content and what they ultimately learn.
 
 > [!attention] **Boundary**
 > It excludes the operational details of specific assessment tools or techniques but includes considerations of formative and summative assessments aligned with learning objectives.
@@ -130,7 +130,7 @@ Assessment Design intersects with other concepts like constructive alignment and
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
 **Prerequisites:** [[Validity and Reliability]]
 

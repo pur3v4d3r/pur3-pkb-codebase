@@ -36,8 +36,8 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[Mastery Experience]]"
-  - "[[Verbal Persuasion]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[verbal-persuasion]]"
+  - "[[self-efficacy-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,8 +46,8 @@ broader:
   - "[[]]"
 see-also:
   - "[[Mastery Experience]]"
-  - "[[Verbal Persuasion]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[verbal-persuasion]]"
+  - "[[self-efficacy-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -77,7 +77,7 @@ provenance:
 # Vicarious Experience
 
 > [!definition] **Vicarious Experience**
-> Vicarious experience involves acquiring efficacy information through observation of others' performances, leading to the extraction of judgments about one's own capability based on the model's outcomes. It falls under [[Self-Regulated Learning]], where it contributes significantly to self-efficacy formation by requiring active inferential engagement from the observer.
+> Vicarious experience involves acquiring efficacy information through observation of others' performances, leading to the extraction of judgments about one's own capability based on the model's outcomes. It falls under [[self-regulated-learning]], where it contributes significantly to self-efficacy formation by requiring active inferential engagement from the observer.
 
 > [!attention] **Boundary**
 > This concept excludes passive viewing without inferential engagement and focuses specifically on the active extraction of capability-relevant inferences from observed models.
@@ -135,8 +135,8 @@ Vicarious experience is a fundamental concept in social-cognitive theory and pla
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Mastery Experience]] · [[Verbal Persuasion]] · [[Self-Efficacy Theory]]
+**Sibling concepts:** [[Mastery Experience]] · [[verbal-persuasion]] · [[self-efficacy-theory]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

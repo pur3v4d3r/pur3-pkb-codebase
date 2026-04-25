@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Achievement Goal Theory"
 
 related:
-  - "[[Performance Goal Orientation]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Deep Processing]]"
+  - "[[performance-goal-orientation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[deep-processing]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +45,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Performance Goal Orientation]]"
+  - "[[performance-goal-orientation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Intrinsic Motivation]]"
-  - "[[Deep Processing]]"
+  - "[[intrinsic-motivation]]"
+  - "[[deep-processing]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Mastery Goal Orientation
 
 > [!definition] **Mastery Goal Orientation**
-> Mastery Goal Orientation is the tendency to focus on learning, improvement, and task mastery rather than demonstrating competence relative to others. It falls under [[Achievement Goal Theory]], where it contrasts with performance goal orientation, which emphasizes showing competence through comparison with others.
+> Mastery Goal Orientation is the tendency to focus on learning, improvement, and task mastery rather than demonstrating competence relative to others. It falls under [[achievement-goal-theory]], where it contrasts with performance goal orientation, which emphasizes showing competence through comparison with others.
 
 > [!attention] **Boundary**
 > This concept excludes performance goal orientation, which focuses on demonstrating competence through comparison with others. It should not be confused with intrinsic motivation or deep processing alone.
@@ -134,10 +134,10 @@ Understanding Mastery Goal Orientation also has important applications in relate
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Performance Goal Orientation]]
+**Contrasts with:** [[performance-goal-orientation]]
 
-**Applies to:** [[Intrinsic Motivation]] · [[Deep Processing]]
+**Applies to:** [[intrinsic-motivation]] · [[deep-processing]]
 
 **Source:** [[mastery-goal-orientation-synthetic-seed-2026-04-24]]

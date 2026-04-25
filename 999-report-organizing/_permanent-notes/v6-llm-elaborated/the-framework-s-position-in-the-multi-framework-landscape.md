@@ -38,8 +38,8 @@ parent-concept: "Self-Regulated Learning"
 related:
   - "[[Flavell’s Metacognition Framework]]"
   - "[[Zimmerman’s Cyclical Model of Self-Regulated Learning]]"
-  - "[[Achievement Goal Theory]]"
-  - "[[Self-Efficacy]]"
+  - "[[achievement-goal-theory]]"
+  - "[[self-efficacy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -54,13 +54,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Achievement Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 refines:
   - "[[]]"
 
@@ -78,7 +78,7 @@ provenance:
 # Pintrich's Framework of Self-Regulated Learning
 
 > [!definition] **Pintrich's Framework of Self-Regulated Learning**
-> Pintrich's Framework of Self-Regulated Learning is a comprehensive model that spans the full range of regulatory phenomena in self-regulated learning, supported by empirical research through the MSLQ (Motivated Strategies for Learning Questionnaire). It falls under [[Self-Regulated Learning]], and while it includes motivational and cognitive strategies, it excludes other theories focusing solely on metacognition or achievement goals.
+> Pintrich's Framework of Self-Regulated Learning is a comprehensive model that spans the full range of regulatory phenomena in self-regulated learning, supported by empirical research through the MSLQ (Motivated Strategies for Learning Questionnaire). It falls under [[self-regulated-learning]], and while it includes motivational and cognitive strategies, it excludes other theories focusing solely on metacognition or achievement goals.
 
 > [!attention] **Boundary**
 > The framework includes motivational and cognitive strategies but excludes other theories focusing solely on metacognition or achievement goals.
@@ -138,12 +138,12 @@ The framework's position as a synthesis-level architecture also means that it ca
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Contrasts with:** [[Flavell’s Metacognition Framework]] · [[Zimmerman’s Cyclical Model of Self-Regulated Learning]]
 
-**Applies to:** [[Achievement Goal Theory]]
+**Applies to:** [[achievement-goal-theory]]
 
-**Supports:** [[Self-Efficacy]]
+**Supports:** [[self-efficacy]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

@@ -37,9 +37,9 @@ parent-concept: "Educational Psychology"
 
 related:
   - "[[Pintrich's 4×4 Matrix]]"
-  - "[[Achievement Goal Theory]]"
-  - "[[Attribution Theory]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[achievement-goal-theory]]"
+  - "[[attribution-theory]]"
+  - "[[self-efficacy-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,13 +47,13 @@ specializes:
 broader:
   - "[[Pintrich's 4×4 Matrix]]"
 see-also:
-  - "[[Achievement Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 contrasts-with:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # TARGET Framework
 
 > [!definition] **TARGET Framework**
-> The TARGET Framework is a six-dimensional design tool developed by Carol Ames to configure classroom environments towards mastery or performance orientations, influencing students' goal orientations and learning outcomes. It falls under [[Educational Psychology]], focusing on the configuration of task, authority, recognition, grouping, evaluation, and time dimensions within classrooms without measuring orientation but providing guidelines for instructional design.
+> The TARGET Framework is a six-dimensional design tool developed by Carol Ames to configure classroom environments towards mastery or performance orientations, influencing students' goal orientations and learning outcomes. It falls under [[educational-psychology]], focusing on the configuration of task, authority, recognition, grouping, evaluation, and time dimensions within classrooms without measuring orientation but providing guidelines for instructional design.
 
 > [!attention] **Boundary**
 > It focuses on the configuration of task, authority, recognition, grouping, evaluation, and time dimensions within classrooms. It does not measure orientation but provides guidelines for instructional design.
@@ -136,14 +136,14 @@ TARGET's impact on educational psychology is profound, as it bridges theoretical
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
 **Generalizes to:** [[Pintrich's 4×4 Matrix]]
 
-**Sibling concepts:** [[Achievement Goal Theory]]
+**Sibling concepts:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Attribution Theory]]
+**Contrasts with:** [[attribution-theory]]
 
-**Applies to:** [[Self-Efficacy Theory]]
+**Applies to:** [[self-efficacy-theory]]
 
 **Source:** [[goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20]]

@@ -35,8 +35,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Growth Mindset]]"
-  - "[[Self-Determination Theory]]"
+  - "[[growth-mindset]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,11 +46,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Attribution Theory
 
 > [!definition] **Attribution Theory**
-> Attribution theory is the cognitive process of assigning a cause to an observed event, outcome, or behavior. It involves identifying why something happened based on internal (personal) or external factors, stability over time, and controllability by the individual. Attribution falls under [[Cognitive Architecture]], as it is a fundamental mechanism through which individuals construct explanatory accounts that guide future actions and expectations.
+> Attribution theory is the cognitive process of assigning a cause to an observed event, outcome, or behavior. It involves identifying why something happened based on internal (personal) or external factors, stability over time, and controllability by the individual. Attribution falls under [[cognitive-architecture]], as it is a fundamental mechanism through which individuals construct explanatory accounts that guide future actions and expectations.
 
 > [!attention] **Boundary**
 > Attribution theory focuses specifically on causal explanations and does not include perception (noting what happened), evaluation (judging whether it was good or bad), or prediction (estimating future outcomes).
@@ -134,10 +134,10 @@ The theory's impact extends beyond its immediate domain; it informs related conc
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Growth Mindset]]
+**Contrasts with:** [[growth-mindset]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

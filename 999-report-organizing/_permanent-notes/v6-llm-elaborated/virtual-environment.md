@@ -35,8 +35,8 @@ parent-concept: "Dependency Management"
 
 related:
   - "[[Containerization]]"
-  - "[[Dependency Management]]"
-  - "[[Version Control]]"
+  - "[[dependency-management]]"
+  - "[[version-control]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,8 +50,8 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Dependency Management]]"
-  - "[[Version Control]]"
+  - "[[dependency-management]]"
+  - "[[version-control]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Virtual Environment
 
 > [!definition] **Virtual Environment**
-> A virtual environment is an isolated Python installation that contains its own copy of the interpreter, `pip`, and `site-packages` directory, ensuring no conflicts between projects. It falls under [[Dependency Management]], as it provides a specific implementation for managing project dependencies without affecting other projects or the global Python installation.
+> A virtual environment is an isolated Python installation that contains its own copy of the interpreter, `pip`, and `site-packages` directory, ensuring no conflicts between projects. It falls under [[dependency-management]], as it provides a specific implementation for managing project dependencies without affecting other projects or the global Python installation.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of isolation like containers or virtual machines. It also does not cover broader software engineering principles such as dependency management in general.
@@ -137,10 +137,10 @@ The use of virtual environments in conjunction with version control systems like
 
 ## Connections & Context
 
-**Falls under:** [[Dependency Management]]
+**Falls under:** [[dependency-management]]
 
 **Contrasts with:** [[Containerization]]
 
-**Applies to:** [[Dependency Management]] · [[Version Control]]
+**Applies to:** [[dependency-management]] · [[version-control]]
 
 **Source:** [[python-development-in-vscode-practitioners-field-guide-2026-04-19]]

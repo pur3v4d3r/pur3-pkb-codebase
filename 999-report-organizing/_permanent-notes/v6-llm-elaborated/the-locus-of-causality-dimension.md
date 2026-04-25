@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Growth Mindset]]"
-  - "[[Dual-Process Theory]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[growth-mindset]]"
+  - "[[dual-process-theory]]"
+  - "[[self-determination-theory]]"
+  - "[[expectancy-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,13 +48,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Growth Mindset]]"
-  - "[[Dual-Process Theory]]"
+  - "[[growth-mindset]]"
+  - "[[dual-process-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[expectancy-value-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -138,10 +138,10 @@ Moreover, the locus of causality is closely related to other theories such as Se
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Growth Mindset]] · [[Dual-Process Theory]]
+**Contrasts with:** [[growth-mindset]] · [[dual-process-theory]]
 
-**Applies to:** [[Self-Determination Theory]] · [[Expectancy-Value Theory]]
+**Applies to:** [[self-determination-theory]] · [[expectancy-value-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

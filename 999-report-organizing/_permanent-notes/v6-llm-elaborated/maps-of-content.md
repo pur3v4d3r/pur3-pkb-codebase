@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Knowledge Management"
 
 related:
-  - "[[Evergreen Notes]]"
-  - "[[Atomic Notes]]"
+  - "[[evergreen-notes]]"
+  - "[[atomic-notes]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Evergreen Notes]]"
-  - "[[Atomic Notes]]"
+  - "[[evergreen-notes]]"
+  - "[[atomic-notes]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -135,6 +135,6 @@ Moreover, Maps of Content align with broader concepts in cognitive load theory a
 
 **Falls under:** [[Knowledge Management]]
 
-**Contrasts with:** [[Evergreen Notes]] · [[Atomic Notes]]
+**Contrasts with:** [[evergreen-notes]] · [[atomic-notes]]
 
 **Source:** [[maps-of-content-synthetic-seed-2026-04-25]]

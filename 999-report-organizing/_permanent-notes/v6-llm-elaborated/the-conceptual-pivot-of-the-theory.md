@@ -37,8 +37,8 @@ parent-concept: "Achievement Goal Theory"
 
 related:
   - "[[Implicit Theory of Intelligence]]"
-  - "[[Attribution Theory]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[attribution-theory]]"
+  - "[[self-efficacy-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,11 +49,11 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[Implicit Theory of Intelligence]]"
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Conceptual Frame of Mastery vs Performance Goals
 
 > [!definition] **Conceptual Frame of Mastery vs Performance Goals**
-> The Conceptual Frame of Mastery vs Performance Goals refers to the reference point individuals use when evaluating their competence, distinguishing between focusing on personal growth and comparing oneself to others. It falls under [[Achievement Goal Theory]], where every downstream effect — from strategy selection to persistence and achievement outcomes — stems from this fundamental distinction in conceptual frame.
+> The Conceptual Frame of Mastery vs Performance Goals refers to the reference point individuals use when evaluating their competence, distinguishing between focusing on personal growth and comparing oneself to others. It falls under [[achievement-goal-theory]], where every downstream effect — from strategy selection to persistence and achievement outcomes — stems from this fundamental distinction in conceptual frame.
 
 > [!attention] **Boundary**
 > This concept stops at the distinction between using one's own developing capacity as a reference (mastery) versus the distribution of capacities around oneself (performance). It does not include motivational strength or external factors influencing behavior.
@@ -139,10 +139,10 @@ This theory also intersects with other motivational theories like implicit theor
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Implicit Theory of Intelligence]] · [[Attribution Theory]]
+**Contrasts with:** [[Implicit Theory of Intelligence]] · [[attribution-theory]]
 
-**Applies to:** [[Self-Efficacy Theory]]
+**Applies to:** [[self-efficacy-theory]]
 
 **Source:** [[goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20]]

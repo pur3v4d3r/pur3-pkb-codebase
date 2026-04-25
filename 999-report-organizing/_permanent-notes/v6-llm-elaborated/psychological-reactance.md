@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Self-Determination Theory]]"
+  - "[[intrinsic-motivation]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -54,7 +54,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -72,7 +72,7 @@ provenance:
 # Psychological Reactance
 
 > [!definition] **Psychological Reactance**
-> Psychological Reactance is a motivational state that arises when an individual perceives their freedom of choice as threatened or eliminated, leading to a drive to restore that freedom — often by performing the prohibited act, derogating the source of restriction, or seeking alternative routes to the same end. It falls under [[Motivational Psychology]], where it focuses on the specific context of autonomy and how perceived threats to this can trigger strong motivational responses.
+> Psychological Reactance is a motivational state that arises when an individual perceives their freedom of choice as threatened or eliminated, leading to a drive to restore that freedom — often by performing the prohibited act, derogating the source of restriction, or seeking alternative routes to the same end. It falls under [[motivational-psychology]], where it focuses on the specific context of autonomy and how perceived threats to this can trigger strong motivational responses.
 
 > [!attention] **Boundary**
 > This concept focuses on the motivational state and does not encompass broader theories of motivation such as self-determination theory or specific behaviors like compliance or defiance.
@@ -131,10 +131,10 @@ The concept of psychological reactance also intersects with broader theories lik
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Contrasts with:** [[Intrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[psychological-reactance-synthetic-seed-2026-04-25]]

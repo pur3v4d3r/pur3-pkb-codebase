@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Modality Effect
 
 > [!definition] **Modality Effect**
-> The Modality Effect refers to the phenomenon where presenting verbal information auditorily while visual information is presented visually reduces cognitive load compared to presenting both types of information visually, due to the dual-channel structure of working memory. It falls under [[Cognitive Load Theory]].
+> The Modality Effect refers to the phenomenon where presenting verbal information auditorily while visual information is presented visually reduces cognitive load compared to presenting both types of information visually, due to the dual-channel structure of working memory. It falls under [[cognitive-load-theory]].
 
 > [!attention] **Boundary**
 > This effect does not account for other factors influencing cognitive load such as intrinsic and extraneous load. It specifically pertains to how different modalities are processed in working memory.
@@ -129,10 +129,10 @@ The Modality Effect also has broader implications in fields such as educational 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

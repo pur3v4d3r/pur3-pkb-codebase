@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Externalized Cognitive Architecture
 
 > [!definition] **Externalized Cognitive Architecture**
-> Externalized Cognitive Architecture is the principle that cognitive processes can be partially constituted by external structures such as project directories and notes, rather than being confined to internal mental representations. It falls under [[Cognitive Architecture]], where it extends our understanding of how tools and systems augment human thinking processes.
+> Externalized Cognitive Architecture is the principle that cognitive processes can be partially constituted by external structures such as project directories and notes, rather than being confined to internal mental representations. It falls under [[cognitive-architecture]], where it extends our understanding of how tools and systems augment human thinking processes.
 
 > [!attention] **Boundary**
 > This concept excludes the purely internal aspects of cognition and focuses on how external tools and systems augment human thinking processes.
@@ -128,10 +128,10 @@ Empirical evidence from studies on software development shows that well-organize
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[python-development-in-vscode-with-copilot-annotated-critical-analysis-2026-04-19]]

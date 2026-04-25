@@ -1,0 +1,37 @@
+concept: Retroactive Interference
+domain: cognitive-science
+secondary_domains:
+- memory-research
+aliases:
+- retroactive inhibition
+- RI
+broader:
+- memory-interference
+related:
+- proactive-interference
+- consolidation
+- sleep-and-memory
+- similarity-based-confusion
+prerequisites:
+- long-term-memory
+- memory-consolidation
+confidence: high
+callouts:
+- type: definition
+  title: Retroactive Interference
+  body: Retroactive Interference is the phenomenon in which newly learned material
+    disrupts the retention of previously learned similar material, operating in the
+    opposite temporal direction from proactive interference and providing a major
+    theoretical account of forgetting.
+- type: key-claim
+  title: Key claim about Retroactive Interference
+  body: Retroactive Interference is greatest when the interpolated material is semantically
+    similar to the original learning, which is why interleaving heterogeneous material
+    reduces Retroactive Interference compared with stacking similar topics back-to-back
+    in a single session.
+- type: warning
+  title: Common pitfall regarding Retroactive Interference
+  body: Retroactive Interference is sometimes mistaken for trace decay; the empirical
+    signature of Retroactive Interference is that the original material is recoverable
+    when the interpolated material is removed or reinstated, so attributing all forgetting
+    to Retroactive Interference overstates a real but bounded mechanism.

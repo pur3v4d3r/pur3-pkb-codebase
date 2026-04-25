@@ -33,15 +33,15 @@ depth-level: elaborated
 parent-concept: "Learning Strategies"
 
 related:
-  - "[[Desirable Difficulties]]"
+  - "[[desirable-difficulties]]"
   - "[[Blocked Practice]]"
-  - "[[Spacing Effect]]"
+  - "[[spacing-effect]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Desirable Difficulties]]"
+  - "[[desirable-difficulties]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Spacing Effect]]"
+  - "[[spacing-effect]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Interleaving Effect
 
 > [!definition] **Interleaving Effect**
-> The Interleaving Effect is a learning strategy where problems from multiple categories are practiced in mixed order, leading to better long-term discrimination and transfer compared to blocked practice of the same items. It falls under [[Learning Strategies]], as it enhances the ability to distinguish between different types of problems or concepts, making it particularly effective for category discrimination tasks.
+> The Interleaving Effect is a learning strategy where problems from multiple categories are practiced in mixed order, leading to better long-term discrimination and transfer compared to blocked practice of the same items. It falls under [[learning-strategies]], as it enhances the ability to distinguish between different types of problems or concepts, making it particularly effective for category discrimination tasks.
 
 > [!attention] **Boundary**
 > This concept focuses on the benefits of interleaved practice for category discrimination tasks. It does not apply to skill acquisition where the same procedure must be automated through repetition.
@@ -126,18 +126,18 @@ The cognitive processes involved in performing discriminative judgments during m
 
 ## Synthesis
 
-The Interleaving Effect plays a crucial role in enhancing learning outcomes by improving discrimination and transfer. By integrating this strategy into educational practices, learners can better recognize when to apply different procedures or concepts, leading to more effective long-term retention. Within the broader context of [[Learning Strategies]], interleaving complements other desirable difficulties such as spacing effect and blocked practice, contributing to a richer and more robust learning environment.
+The Interleaving Effect plays a crucial role in enhancing learning outcomes by improving discrimination and transfer. By integrating this strategy into educational practices, learners can better recognize when to apply different procedures or concepts, leading to more effective long-term retention. Within the broader context of [[learning-strategies]], interleaving complements other desirable difficulties such as spacing effect and blocked practice, contributing to a richer and more robust learning environment.
 
 The Interleaving Effect is particularly valuable for tasks that require recognizing the appropriate application of a concept or procedure. Its integration into instructional design, self-study, and workplace training can significantly improve learners' ability to transfer knowledge across different contexts. As research continues to explore its optimal conditions and generalizability, the Interleaving Effect will likely become an even more integral part of educational strategies.
 
 ## Connections & Context
 
-**Falls under:** [[Learning Strategies]]
+**Falls under:** [[learning-strategies]]
 
-**Generalizes to:** [[Desirable Difficulties]]
+**Generalizes to:** [[desirable-difficulties]]
 
 **Contrasts with:** [[Blocked Practice]]
 
-**Applies to:** [[Spacing Effect]]
+**Applies to:** [[spacing-effect]]
 
 **Source:** [[interleaving-effect-synthetic-seed-2026-04-24]]

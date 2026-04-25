@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Procedural Information]]"
+  - "[[procedural-information]]"
   - "[[Learning Tasks]]"
-  - "[[Schema Construction]]"
+  - "[[schema-construction]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,7 +48,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Procedural Information]]"
+  - "[[procedural-information]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -58,7 +58,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Schema Construction]]"
+  - "[[schema-construction]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Supportive Information
 
 > [!definition] **Supportive Information**
-> Supportive information connects learners' existing knowledge to the non-recurrent aspects of complex tasks, facilitating schema construction and meaningful learning. It specifically targets non-recurrent skill aspects requiring flexible reasoning rather than routine execution, falling under [[Cognitive Architecture]].
+> Supportive information connects learners' existing knowledge to the non-recurrent aspects of complex tasks, facilitating schema construction and meaningful learning. It specifically targets non-recurrent skill aspects requiring flexible reasoning rather than routine execution, falling under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It specifically targets non-recurrent skill aspects requiring flexible reasoning rather than routine execution. It does not include procedural information for recurrent skills.
@@ -135,12 +135,12 @@ The importance of supportive information is further underscored by its role in m
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Procedural Information]]
+**Contrasts with:** [[procedural-information]]
 
 **Applies to:** [[Learning Tasks]]
 
-**Supports:** [[Schema Construction]]
+**Supports:** [[schema-construction]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

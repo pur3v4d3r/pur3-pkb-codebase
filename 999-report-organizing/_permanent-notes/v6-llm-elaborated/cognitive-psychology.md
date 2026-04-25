@@ -34,7 +34,7 @@ parent-concept: "Cognitive Science"
 related:
   - "[[Behaviorism]]"
   - "[[Neuroscience]]"
-  - "[[Information-Processing Theory]]"
+  - "[[information-processing-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,7 +50,7 @@ contradicts:
 applies-to:
   - "[[Neuroscience]]"
 formalizes:
-  - "[[Information-Processing Theory]]"
+  - "[[information-processing-theory]]"
 instance-of:
   - "[[]]"
 supports:
@@ -135,6 +135,6 @@ Moreover, its focus on internal mental representations challenges traditional be
 
 **Applies to:** [[Neuroscience]]
 
-**Formalizes:** [[Information-Processing Theory]]
+**Formalizes:** [[information-processing-theory]]
 
 **Source:** [[cognitive-psychology-synthetic-seed-2026-04-24]]

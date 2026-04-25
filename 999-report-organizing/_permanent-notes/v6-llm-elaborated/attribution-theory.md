@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Locus of Control]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[locus-of-control]]"
+  - "[[self-efficacy-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Locus of Control]]"
+  - "[[locus-of-control]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Attribution Theory
 
 > [!definition] **Attribution Theory**
-> Attribution Theory is Bernard Weiner's account of how the causal explanations a person constructs for success and failure — rather than the outcomes themselves — govern subsequent affect, expectancy, and motivated behavior. It falls under [[Motivational Psychology]], focusing on individual attributions that influence future actions and emotions.
+> Attribution Theory is Bernard Weiner's account of how the causal explanations a person constructs for success and failure — rather than the outcomes themselves — govern subsequent affect, expectancy, and motivated behavior. It falls under [[motivational-psychology]], focusing on individual attributions that influence future actions and emotions.
 
 > [!attention] **Boundary**
 > This theory focuses on individual attributions rather than external factors or outcomes themselves. It does not address broader social or cultural influences on attributional processes.
@@ -135,10 +135,10 @@ Supporting evidence for Attribution Theory comes from numerous studies showing t
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Contrasts with:** [[Locus of Control]]
+**Contrasts with:** [[locus-of-control]]
 
-**Applies to:** [[Self-Efficacy Theory]]
+**Applies to:** [[self-efficacy-theory]]
 
 **Source:** [[attribution-theory-synthetic-seed-2026-04-24]]

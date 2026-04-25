@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Learning Strategies"
 
 related:
-  - "[[Self-Explanation]]"
-  - "[[Generative Learning Theory]]"
+  - "[[self-explanation]]"
+  - "[[generative-learning-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -41,13 +41,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Explanation]]"
+  - "[[self-explanation]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Generative Learning Theory]]"
+  - "[[generative-learning-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Elaboration Interrogation
 
 > [!definition] **Elaboration Interrogation**
-> Elaboration Interrogation is a specific elaboration strategy where learners ask themselves 'why' a stated fact is true and attempt to generate or retrieve an explanatory answer, transforming declarative content into a causally connected schema. It falls under [[Learning Strategies]], and it works best when learners possess the prior knowledge needed to answer their own 'why' questions, producing measurably better retention than re-reading.
+> Elaboration Interrogation is a specific elaboration strategy where learners ask themselves 'why' a stated fact is true and attempt to generate or retrieve an explanatory answer, transforming declarative content into a causally connected schema. It falls under [[learning-strategies]], and it works best when learners possess the prior knowledge needed to answer their own 'why' questions, producing measurably better retention than re-reading.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of self-explanation that do not involve asking 'why' questions and generating answers. It also does not encompass all types of deep processing but focuses on the 'why' aspect specifically.
@@ -127,10 +127,10 @@ This concept aligns with Generative Learning Theory, which posits that active ge
 
 ## Connections & Context
 
-**Falls under:** [[Learning Strategies]]
+**Falls under:** [[learning-strategies]]
 
-**Sibling concepts:** [[Self-Explanation]]
+**Sibling concepts:** [[self-explanation]]
 
-**Applies to:** [[Generative Learning Theory]]
+**Applies to:** [[generative-learning-theory]]
 
 **Source:** [[elaboration-interrogation-synthetic-seed-2026-04-24]]

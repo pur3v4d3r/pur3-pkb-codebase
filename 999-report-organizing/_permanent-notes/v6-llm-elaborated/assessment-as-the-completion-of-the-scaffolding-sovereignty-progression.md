@@ -37,24 +37,24 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Scaffolding]]"
-  - "[[Self-Directed Learning]]"
-  - "[[Self-Regulation]]"
-  - "[[Formative Assessment]]"
+  - "[[scaffolding]]"
+  - "[[self-directed-learning]]"
+  - "[[self-regulation]]"
+  - "[[formative-assessment]]"
 prerequisites:
-  - "[[Scaffolding]]"
+  - "[[scaffolding]]"
 specializes:
-  - "[[Self-Directed Learning]]"
+  - "[[self-directed-learning]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulation]]"
+  - "[[self-regulation]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Formative Assessment]]"
+  - "[[formative-assessment]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Assessment as the Completion of the Scaffolding-Sovereignty Progression
 
 > [!definition] **Assessment as the Completion of the Scaffolding-Sovereignty Progression**
-> Assessment as the Completion of the Scaffolding-Sovereignty Progression refers to the transfer of evaluative functions from external assessors to learners, marking a crucial phase in their development towards full autonomy. It falls under [[Self-Directed Learning]], where learners internalize not only regulatory capacities but also evaluative standards for judging their own learning. It falls under [[Self-Regulated Learning]].
+> Assessment as the Completion of the Scaffolding-Sovereignty Progression refers to the transfer of evaluative functions from external assessors to learners, marking a crucial phase in their development towards full autonomy. It falls under [[self-directed-learning]], where learners internalize not only regulatory capacities but also evaluative standards for judging their own learning. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This concept excludes scenarios where learners are assessed solely by peers or through self-assessment without the internalization of evaluative standards. It is distinct from mere content mastery and focuses on the internalization of learning criteria.
@@ -137,14 +137,14 @@ This progression also has significant implications for curriculum design and tea
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Scaffolding]]
+**Prerequisites:** [[scaffolding]]
 
-**Specializes:** [[Self-Directed Learning]]
+**Specializes:** [[self-directed-learning]]
 
-**Sibling concepts:** [[Self-Regulation]]
+**Sibling concepts:** [[self-regulation]]
 
-**Applies to:** [[Formative Assessment]]
+**Applies to:** [[formative-assessment]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

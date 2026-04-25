@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Memory Systems"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Long-Term Memory]]"
+  - "[[working-memory]]"
+  - "[[long-term-memory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Long-Term Memory]]"
+  - "[[long-term-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Short-Term Memory
 
 > [!definition] **Short-Term Memory**
-> Short-Term Memory (STM) is a limited-capacity, time-limited store that briefly retains a small number of items in an immediately accessible state, classically theorised as the second stage of the multi-store model between sensory registration and consolidation into long-term memory; without active rehearsal its contents decay within roughly 15-30 seconds. It falls under cognitive psychology. It falls under [[Memory Systems]].
+> Short-Term Memory (STM) is a limited-capacity, time-limited store that briefly retains a small number of items in an immediately accessible state, classically theorised as the second stage of the multi-store model between sensory registration and consolidation into long-term memory; without active rehearsal its contents decay within roughly 15-30 seconds. It falls under cognitive psychology. It falls under [[memory-systems]].
 
 > [!attention] **Boundary**
 > It should not be confused with working memory, which includes active manipulation of information in addition to storage.
@@ -129,10 +129,10 @@ STM also plays a significant role in the broader field of cognitive psychology b
 
 ## Connections & Context
 
-**Falls under:** [[Memory Systems]]
+**Falls under:** [[memory-systems]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Long-Term Memory]]
+**Contrasts with:** [[long-term-memory]]
 
 **Source:** [[short-term-memory-synthetic-seed-2026-04-24]]

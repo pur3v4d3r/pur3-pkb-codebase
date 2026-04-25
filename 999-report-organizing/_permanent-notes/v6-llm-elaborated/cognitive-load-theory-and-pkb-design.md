@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Cognitive Load Theory
 
 > [!definition] **Cognitive Load Theory**
-> Cognitive load theory is a framework that explains how the structure of information can affect learning by influencing the cognitive resources required to process it. It falls under [[Cognitive Architecture]], focusing on working memory limitations and their impact on learning, excluding broader discussions on long-term memory or other psychological theories not directly related to processing new information.
+> Cognitive load theory is a framework that explains how the structure of information can affect learning by influencing the cognitive resources required to process it. It falls under [[cognitive-architecture]], focusing on working memory limitations and their impact on learning, excluding broader discussions on long-term memory or other psychological theories not directly related to processing new information.
 
 > [!attention] **Boundary**
 > This concept focuses on working memory limitations and their impact on learning, excluding broader discussions on long-term memory or other psychological theories not directly related to processing new information.
@@ -134,10 +134,10 @@ The application of cognitive load theory extends beyond PKB systems into broader
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

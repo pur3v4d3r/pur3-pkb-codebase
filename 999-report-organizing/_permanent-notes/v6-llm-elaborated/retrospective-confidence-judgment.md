@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Overconfidence Bias]]"
-  - "[[Judgment-of-Learning]]"
-  - "[[Calibration]]"
+  - "[[overconfidence-bias]]"
+  - "[[judgment-of-learning]]"
+  - "[[calibration]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Overconfidence Bias]]"
+  - "[[overconfidence-bias]]"
 contrasts-with:
-  - "[[Judgment-of-Learning]]"
+  - "[[judgment-of-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Calibration]]"
+  - "[[calibration]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Retrospective Confidence Judgment
 
 > [!definition] **Retrospective Confidence Judgment**
-> A Retrospective Confidence Judgment is a metacognitive rating made after completing a task, indicating the certainty of the answer's correctness, and it falls under [[Cognitive Architecture]]. This judgment is distinct from accuracy because people can be highly accurate while poorly calibrated or moderately inaccurate while well calibrated, which underscores why confidence and accuracy must be measured separately rather than treated as proxies for each other.
+> A Retrospective Confidence Judgment is a metacognitive rating made after completing a task, indicating the certainty of the answer's correctness, and it falls under [[cognitive-architecture]]. This judgment is distinct from accuracy because people can be highly accurate while poorly calibrated or moderately inaccurate while well calibrated, which underscores why confidence and accuracy must be measured separately rather than treated as proxies for each other.
 
 > [!attention] **Boundary**
 > This concept excludes direct measures of accuracy and focuses on the judgment process rather than the outcome itself.
@@ -127,12 +127,12 @@ The implications of RCJ extend beyond individual performance to broader societal
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Overconfidence Bias]]
+**Sibling concepts:** [[overconfidence-bias]]
 
-**Contrasts with:** [[Judgment-of-Learning]]
+**Contrasts with:** [[judgment-of-learning]]
 
-**Applies to:** [[Calibration]]
+**Applies to:** [[calibration]]
 
 **Source:** [[retrospective-confidence-judgment-synthetic-seed-2026-04-25]]

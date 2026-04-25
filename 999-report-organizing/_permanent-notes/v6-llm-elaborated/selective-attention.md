@@ -31,11 +31,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Divided Attention]]"
-  - "[[Sustained Attention]]"
+  - "[[sustained-attention]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[Divided Attention]]"
-  - "[[Sustained Attention]]"
+  - "[[sustained-attention]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Selective Attention
 
 > [!definition] **Selective Attention**
-> Selective Attention is the capacity to focus processing on a chosen stream of stimulation while excluding others, measured by classic dichotic-listening, visual-search, and flanker paradigms. It falls under [[Cognitive Architecture]], where it operates as part of the broader mechanisms that govern how we process information selectively rather than in an all-or-none fashion.
+> Selective Attention is the capacity to focus processing on a chosen stream of stimulation while excluding others, measured by classic dichotic-listening, visual-search, and flanker paradigms. It falls under [[cognitive-architecture]], where it operates as part of the broader mechanisms that govern how we process information selectively rather than in an all-or-none fashion.
 
 > [!attention] **Boundary**
 > This concept excludes broader constructs like general cognitive control or more specific mechanisms like attentional blink. It focuses specifically on the selective filtering process in perception and cognition.
@@ -131,10 +131,10 @@ Future research should focus on elucidating the neural mechanisms underlying gai
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Divided Attention]] · [[Sustained Attention]]
+**Contrasts with:** [[Divided Attention]] · [[sustained-attention]]
 
 **Source:** [[selective-attention-synthetic-seed-2026-04-24]]

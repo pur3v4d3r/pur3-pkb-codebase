@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Controlled Motivation"
 
 related:
-  - "[[External Regulation]]"
-  - "[[Integrated Regulation]]"
-  - "[[Autonomous Motivation]]"
+  - "[[external-regulation]]"
+  - "[[integrated-regulation]]"
+  - "[[autonomous-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,9 +45,9 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[External Regulation]]"
-  - "[[Integrated Regulation]]"
-  - "[[Autonomous Motivation]]"
+  - "[[external-regulation]]"
+  - "[[integrated-regulation]]"
+  - "[[autonomous-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Introjected Regulation
 
 > [!definition] **Introjected Regulation**
-> Introjected regulation is a form of controlled motivation where the individual internalizes external contingencies but lacks conscious endorsement, regulating behavior to avoid negative or pursue positive internal experiences (Deci & Ryan, 2018). It falls under [[Controlled Motivation]], characterized by pressure and poorer well-being outcomes compared to autonomous motivation.
+> Introjected regulation is a form of controlled motivation where the individual internalizes external contingencies but lacks conscious endorsement, regulating behavior to avoid negative or pursue positive internal experiences (Deci & Ryan, 2018). It falls under [[controlled-motivation]], characterized by pressure and poorer well-being outcomes compared to autonomous motivation.
 
 > [!attention] **Boundary**
 > It stops at behaviors regulated by internalized contingencies without value-endorsement and does not include fully integrated or autonomous motivations.
@@ -135,8 +135,8 @@ The concept of introjected regulation also has implications for digital and AI-m
 
 ## Connections & Context
 
-**Falls under:** [[Controlled Motivation]]
+**Falls under:** [[controlled-motivation]]
 
-**Contrasts with:** [[External Regulation]] · [[Integrated Regulation]] · [[Autonomous Motivation]]
+**Contrasts with:** [[external-regulation]] · [[integrated-regulation]] · [[autonomous-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

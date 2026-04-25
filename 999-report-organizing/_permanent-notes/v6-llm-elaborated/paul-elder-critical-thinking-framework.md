@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Intellectual Standards]]"
+  - "[[intellectual-standards]]"
   - "[[Elements of Thought]]"
   - "[[Critical Thinking Skills]]"
 prerequisites:
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intellectual Standards]]"
+  - "[[intellectual-standards]]"
   - "[[Elements of Thought]]"
 contrasts-with:
   - "[[]]"
@@ -73,7 +73,7 @@ provenance:
 # Paul-Elder Critical Thinking Framework
 
 > [!definition] **Paul-Elder Critical Thinking Framework**
-> The Paul-Elder Critical Thinking Framework is a structured approach to developing and evaluating critical thinking, comprising elements of thought and universal intellectual standards, operationalizing it as the sustained application of these standards to reasoning processes: a critical thinker identifies the purpose, question, assumptions, and other elements in any piece of reasoning and evaluates them against criteria such as clarity, accuracy, relevance, and depth. It falls under [[Critical Thinking]].
+> The Paul-Elder Critical Thinking Framework is a structured approach to developing and evaluating critical thinking, comprising elements of thought and universal intellectual standards, operationalizing it as the sustained application of these standards to reasoning processes: a critical thinker identifies the purpose, question, assumptions, and other elements in any piece of reasoning and evaluates them against criteria such as clarity, accuracy, relevance, and depth. It falls under [[critical-thinking]].
 
 > [!attention] **Boundary**
 > This framework focuses on the application of intellectual standards to the elements of thought in reasoning processes. It does not include specific pedagogical methods or detailed psychological theories beyond its core components.
@@ -131,9 +131,9 @@ The Paul-Elder Critical Thinking Framework is significant because it provides a 
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Sibling concepts:** [[Intellectual Standards]] · [[Elements of Thought]]
+**Sibling concepts:** [[intellectual-standards]] · [[Elements of Thought]]
 
 **Applies to:** [[Critical Thinking Skills]]
 

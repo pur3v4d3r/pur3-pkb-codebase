@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Directed Learning]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Heutagogy]]"
-  - "[[Constructivist Learning Theory]]"
+  - "[[self-directed-learning]]"
+  - "[[self-regulated-learning]]"
+  - "[[heutagogy]]"
+  - "[[constructivist-learning-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,14 +47,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Directed Learning]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[self-directed-learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
-  - "[[Heutagogy]]"
+  - "[[heutagogy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Constructivist Learning Theory]]"
+  - "[[constructivist-learning-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # SDL-SRL Grain-Size Continuum
 
 > [!definition] **SDL-SRL Grain-Size Continuum**
-> The SDL-SRL Grain-Size Continuum is a proposed framework that reconceives the relationship between self-directed learning (SDL) and self-regulated learning (SRL) as positions on a continuum of grain size, rather than as categorically distinct constructs. It falls under [[Self-Regulated Learning]], integrating these concepts into an integrative perspective.
+> The SDL-SRL Grain-Size Continuum is a proposed framework that reconceives the relationship between self-directed learning (SDL) and self-regulated learning (SRL) as positions on a continuum of grain size, rather than as categorically distinct constructs. It falls under [[self-regulated-learning]], integrating these concepts into an integrative perspective.
 
 > [!attention] **Boundary**
 > This framework does not replace existing theories but rather provides an integrative perspective, excluding the idea that SDL and SRL are categorically distinct constructs or synonyms.
@@ -134,12 +134,12 @@ By recognizing the continuum as a spectrum rather than distinct constructs, this
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Directed Learning]] · [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-directed-learning]] · [[self-regulated-learning]]
 
-**Contrasts with:** [[Heutagogy]]
+**Contrasts with:** [[heutagogy]]
 
-**Applies to:** [[Constructivist Learning Theory]]
+**Applies to:** [[constructivist-learning-theory]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]

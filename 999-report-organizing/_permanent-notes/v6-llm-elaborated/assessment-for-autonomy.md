@@ -37,10 +37,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Directed Learning]]"
-  - "[[Formative Assessment]]"
-  - "[[Scaffolding]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-directed-learning]]"
+  - "[[formative-assessment]]"
+  - "[[scaffolding]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,20 +48,20 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Directed Learning]]"
+  - "[[self-directed-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Formative Assessment]]"
-  - "[[Scaffolding]]"
+  - "[[formative-assessment]]"
+  - "[[scaffolding]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -79,7 +79,7 @@ provenance:
 # Assessment for Autonomy
 
 > [!definition] **Assessment for Autonomy**
-> Assessment for autonomy involves designing assessment systems to develop learners' capacity for self-evaluation, rather than primarily serving grading or certification functions. It falls under [[Self-Regulated Learning]], aiming to transfer evaluative authority from assessors to learners through progressively scaffolded feedback mechanisms.
+> Assessment for autonomy involves designing assessment systems to develop learners' capacity for self-evaluation, rather than primarily serving grading or certification functions. It falls under [[self-regulated-learning]], aiming to transfer evaluative authority from assessors to learners through progressively scaffolded feedback mechanisms.
 
 > [!attention] **Boundary**
 > This concept excludes traditional summative assessments that focus on ranking and certifying learners. It is distinct from formative assessment which can also support learning but does not necessarily aim at transferring evaluative authority to the learner.
@@ -142,12 +142,12 @@ The implementation of assessment for autonomy has the potential to transform tra
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Directed Learning]]
+**Sibling concepts:** [[self-directed-learning]]
 
-**Applies to:** [[Formative Assessment]] · [[Scaffolding]]
+**Applies to:** [[formative-assessment]] · [[scaffolding]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

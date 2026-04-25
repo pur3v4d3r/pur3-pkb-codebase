@@ -32,17 +32,17 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Attribution Theory]]"
-  - "[[Learned Helplessness]]"
+  - "[[attribution-theory]]"
+  - "[[learned-helplessness]]"
   - "[[Explanatory Style]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 see-also:
-  - "[[Learned Helplessness]]"
+  - "[[learned-helplessness]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Causal Attribution in Motivation
 
 > [!definition] **Causal Attribution in Motivation**
-> Causal Attribution in Motivation is the application of attribution theory to predict motivated behaviors by examining how individuals explain outcomes along dimensions of locus, stability, and controllability, which then influence emotions, expectations, and subsequent actions. It falls under [[Motivational Psychology]], focusing on the motivational aspects influenced by attributions but not covering broader psychological phenomena like cognitive dissonance or self-efficacy directly.
+> Causal Attribution in Motivation is the application of attribution theory to predict motivated behaviors by examining how individuals explain outcomes along dimensions of locus, stability, and controllability, which then influence emotions, expectations, and subsequent actions. It falls under [[motivational-psychology]], focusing on the motivational aspects influenced by attributions but not covering broader psychological phenomena like cognitive dissonance or self-efficacy directly.
 
 > [!attention] **Boundary**
 > This concept focuses on the motivational aspects influenced by attributions but does not cover broader psychological phenomena like cognitive dissonance or self-efficacy directly.
@@ -134,11 +134,11 @@ Moreover, the concept of Causal Attribution in Motivation intersects with broade
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Generalizes to:** [[Attribution Theory]]
+**Generalizes to:** [[attribution-theory]]
 
-**Sibling concepts:** [[Learned Helplessness]]
+**Sibling concepts:** [[learned-helplessness]]
 
 **Applies to:** [[Explanatory Style]]
 

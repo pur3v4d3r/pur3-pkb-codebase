@@ -32,11 +32,11 @@ depth-level: elaborated
 parent-concept: "Knowledge Types"
 
 related:
-  - "[[Procedural Memory]]"
+  - "[[procedural-memory]]"
   - "[[Explicit Knowledge]]"
-  - "[[Expertise Development]]"
+  - "[[expertise-development]]"
 prerequisites:
-  - "[[Procedural Memory]]"
+  - "[[procedural-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Expertise Development]]"
+  - "[[expertise-development]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,10 +133,10 @@ The implications of Tacit Knowledge extend beyond educational settings into fiel
 
 **Falls under:** [[Knowledge Types]]
 
-**Prerequisites:** [[Procedural Memory]]
+**Prerequisites:** [[procedural-memory]]
 
 **Contrasts with:** [[Explicit Knowledge]]
 
-**Applies to:** [[Expertise Development]]
+**Applies to:** [[expertise-development]]
 
 **Source:** [[tacit-knowledge-synthetic-seed-2026-04-24]]

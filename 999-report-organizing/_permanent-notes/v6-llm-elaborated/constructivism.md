@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Learning Theories"
 
 related:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Social Learning Theory]]"
   - "[[Behaviorism]]"
 prerequisites:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Social Learning Theory]]"
   - "[[Behaviorism]]"
 contradicts:
@@ -132,8 +132,8 @@ Constructivism is a foundational concept in educational psychology because it fu
 
 ## Connections & Context
 
-**Falls under:** [[Learning Theories]]
+**Falls under:** [[learning-theories]]
 
-**Contrasts with:** [[Cognitive Load Theory]] · [[Social Learning Theory]] · [[Behaviorism]]
+**Contrasts with:** [[cognitive-load-theory]] · [[Social Learning Theory]] · [[Behaviorism]]
 
 **Source:** [[constructivism-synthetic-seed-2026-04-24]]

@@ -36,23 +36,23 @@ depth-level: elaborated
 parent-concept: "Self-Directed Learning"
 
 related:
-  - "[[Self-Directed Learning]]"
-  - "[[Communities of Practice]]"
-  - "[[Personal Knowledge Management]]"
+  - "[[self-directed-learning]]"
+  - "[[communities-of-practice]]"
+  - "[[personal-knowledge-management]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Self-Directed Learning]]"
+  - "[[self-directed-learning]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Communities of Practice]]"
+  - "[[communities-of-practice]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Personal Knowledge Management]]"
+  - "[[personal-knowledge-management]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Personal Learning Environment
 
 > [!definition] **Personal Learning Environment**
-> A Personal Learning Environment (PLE) is a self-curated digital ecosystem of tools, platforms, communities, and resources that learners construct to support their ongoing learning across domains and over time. Unlike institutional learning management systems, PLEs are owned and controlled by the learner and persist beyond any single course or program. It falls under [[Self-Directed Learning]].
+> A Personal Learning Environment (PLE) is a self-curated digital ecosystem of tools, platforms, communities, and resources that learners construct to support their ongoing learning across domains and over time. Unlike institutional learning management systems, PLEs are owned and controlled by the learner and persist beyond any single course or program. It falls under [[self-directed-learning]].
 
 > [!attention] **Boundary**
 > A PLE is not simply a collection of bookmarks or tools; it implies deliberate curation and ongoing management of a learning infrastructure aligned with the learner's goals and needs. It should be distinguished from institutional learning management systems, which are typically controlled by educational institutions rather than individual learners.
@@ -133,12 +133,12 @@ The significance of Personal Learning Environments (PLEs) in contemporary self-d
 
 ## Connections & Context
 
-**Falls under:** [[Self-Directed Learning]]
+**Falls under:** [[self-directed-learning]]
 
-**Specializes:** [[Self-Directed Learning]]
+**Specializes:** [[self-directed-learning]]
 
-**Contrasts with:** [[Communities of Practice]]
+**Contrasts with:** [[communities-of-practice]]
 
-**Applies to:** [[Personal Knowledge Management]]
+**Applies to:** [[personal-knowledge-management]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]

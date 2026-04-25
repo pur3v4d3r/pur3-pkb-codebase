@@ -34,8 +34,8 @@ parent-concept: "Critical Thinking"
 
 related:
   - "[[Premise-Conclusion Mapping]]"
-  - "[[Critical Reasoning]]"
-  - "[[Inference]]"
+  - "[[critical-reasoning]]"
+  - "[[inference]]"
 prerequisites:
   - "[[Premise-Conclusion Mapping]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Critical Reasoning]]"
+  - "[[critical-reasoning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Inference]]"
+  - "[[inference]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Argument Analysis
 
 > [!definition] **Argument Analysis**
-> Argument Analysis is the disciplined practice of identifying the structure of an argument — separating premises from conclusions, identifying intermediate inferences, surfacing unstated assumptions, and distinguishing main argument from supporting and qualifying material — as a precondition for evaluating the argument's strength. It falls under [[Critical Thinking]], focusing on reconstructing and evaluating the logical structure of arguments rather than mere surface-level reading or casual interpretation.
+> Argument Analysis is the disciplined practice of identifying the structure of an argument — separating premises from conclusions, identifying intermediate inferences, surfacing unstated assumptions, and distinguishing main argument from supporting and qualifying material — as a precondition for evaluating the argument's strength. It falls under [[critical-thinking]], focusing on reconstructing and evaluating the logical structure of arguments rather than mere surface-level reading or casual interpretation.
 
 > [!attention] **Boundary**
 > It excludes mere surface-level reading or casual interpretation; instead, it focuses on reconstructing and evaluating the logical structure of arguments.
@@ -126,18 +126,18 @@ The process of reconstructing an argument involves several steps: first, identif
 
 ## Synthesis
 
-Argument Analysis is a critical component of [[Critical Thinking]] because it equips individuals with the tools to evaluate arguments effectively. By understanding how to break down and reconstruct arguments, people can make more informed decisions and engage in more productive discussions. This concept has broad implications across various domains, from education to law and policy analysis, where clear and logical reasoning is essential.
+Argument Analysis is a critical component of [[critical-thinking]] because it equips individuals with the tools to evaluate arguments effectively. By understanding how to break down and reconstruct arguments, people can make more informed decisions and engage in more productive discussions. This concept has broad implications across various domains, from education to law and policy analysis, where clear and logical reasoning is essential.
 
 The integration of Argument Analysis into educational curricula could significantly improve critical thinking skills among students. By teaching this method systematically, educators can help learners develop the ability to analyze arguments rigorously, which is crucial for navigating complex information environments.
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
 **Prerequisites:** [[Premise-Conclusion Mapping]]
 
-**Sibling concepts:** [[Critical Reasoning]]
+**Sibling concepts:** [[critical-reasoning]]
 
-**Applies to:** [[Inference]]
+**Applies to:** [[inference]]
 
 **Source:** [[argument-analysis-synthetic-seed-2026-04-24]]

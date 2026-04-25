@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Extraneous Cognitive Load
 
 > [!definition] **Extraneous Cognitive Load**
-> Extraneous Cognitive Load refers to the cognitive load imposed by instructional design choices that are not required by the material itself, such as split-attention displays or modality mismatches. It falls under [[Cognitive Load Theory]], which aims to optimize learning outcomes by managing the total cognitive load, ensuring it remains within a learner's capacity without being overwhelming.
+> Extraneous Cognitive Load refers to the cognitive load imposed by instructional design choices that are not required by the material itself, such as split-attention displays or modality mismatches. It falls under [[cognitive-load-theory]], which aims to optimize learning outcomes by managing the total cognitive load, ensuring it remains within a learner's capacity without being overwhelming.
 
 > [!attention] **Boundary**
 > It does not include intrinsic cognitive load (ICL), which is inherent in the complexity of the material, nor germane cognitive load (GCL), which involves schema construction and automation.
@@ -132,10 +132,10 @@ This concept also has broader implications across educational psychology and tec
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

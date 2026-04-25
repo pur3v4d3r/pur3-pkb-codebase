@@ -37,7 +37,7 @@ parent-concept: "Cognitive Architecture"
 related:
   - "[[Self-Serving Bias]]"
   - "[[Actor-Observed Asymmetry]]"
-  - "[[Attribution Retraining]]"
+  - "[[attribution-retraining]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Attribution Retraining]]"
+  - "[[attribution-retraining]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Fundamental Attribution Error
 
 > [!definition] **Fundamental Attribution Error**
-> The Fundamental Attribution Error is a cognitive bias where people tend to overestimate the influence of personal characteristics (dispositional factors) and underestimate situational influences on others' behavior. It falls under [[Cognitive Architecture]], as it pertains to how we process information about others, but specifically applies to explanations of *others'* behaviors, not one's own, which follows different patterns known as actor-observer asymmetry.
+> The Fundamental Attribution Error is a cognitive bias where people tend to overestimate the influence of personal characteristics (dispositional factors) and underestimate situational influences on others' behavior. It falls under [[cognitive-architecture]], as it pertains to how we process information about others, but specifically applies to explanations of *others'* behaviors, not one's own, which follows different patterns known as actor-observer asymmetry.
 
 > [!attention] **Boundary**
 > This concept applies specifically to explanations of others' behaviors, not one's own, which follows different patterns known as actor-observer asymmetry. It is a bias rather than an error in every context, as dispositional attributions can be appropriate under certain circumstances.
@@ -138,10 +138,10 @@ This concept matters because it challenges our assumptions about human behavior 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Contrasts with:** [[Self-Serving Bias]] · [[Actor-Observed Asymmetry]]
 
-**Applies to:** [[Attribution Retraining]]
+**Applies to:** [[attribution-retraining]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

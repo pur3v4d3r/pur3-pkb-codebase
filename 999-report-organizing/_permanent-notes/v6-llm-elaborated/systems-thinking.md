@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Systems Analysis"
 
 related:
-  - "[[Second-Order Thinking]]"
+  - "[[second-order-thinking]]"
   - "[[Mental Models]]"
   - "[[Feedback Loops]]"
 prerequisites:
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Second-Order Thinking]]"
+  - "[[second-order-thinking]]"
   - "[[Mental Models]]"
 contradicts:
   - "[[]]"
@@ -135,7 +135,7 @@ Moreover, Systems Thinking aligns with other related concepts such as second-ord
 
 **Falls under:** [[Systems Analysis]]
 
-**Contrasts with:** [[Second-Order Thinking]] · [[Mental Models]]
+**Contrasts with:** [[second-order-thinking]] · [[Mental Models]]
 
 **Instance of:** [[Feedback Loops]]
 

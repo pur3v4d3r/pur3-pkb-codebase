@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Personal Knowledge Management"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Progressive Summarization
 
 > [!definition] **Progressive Summarization**
-> Progressive Summarization is a notetaking method where captured information is distilled into layers of increasing abstraction, allowing for flexible re-engagement at different levels of detail. It falls under [[Personal Knowledge Management]], treating compression as a future-discoverability problem rather than a comprehension problem: each layer is added at the moment of demonstrated demand, which prevents the upfront-summarization tax that derails most highlighting workflows.
+> Progressive Summarization is a notetaking method where captured information is distilled into layers of increasing abstraction, allowing for flexible re-engagement at different levels of detail. It falls under [[personal-knowledge-management]], treating compression as a future-discoverability problem rather than a comprehension problem: each layer is added at the moment of demonstrated demand, which prevents the upfront-summarization tax that derails most highlighting workflows.
 
 > [!attention] **Boundary**
 > This technique stops with the final executive summary and does not include the initial capture or raw notes. It also excludes other summarization methods that do not involve progressive refinement over time.
@@ -130,10 +130,10 @@ The technique's application in worked examples further underscores its utility b
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[progressive-summarization-synthetic-seed-2026-04-25]]

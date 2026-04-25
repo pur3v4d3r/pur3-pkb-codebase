@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Prior Knowledge
 
 > [!definition] **Prior Knowledge**
-> Prior Knowledge is the totality of relevant declarative, procedural, and conceptual knowledge a learner brings to a new learning situation — including correct concepts, partial understandings, misconceptions, and skills — and is the single strongest predictor of how much will be learned from any given instructional episode. It falls under [[Cognitive Architecture]].
+> Prior Knowledge is the totality of relevant declarative, procedural, and conceptual knowledge a learner brings to a new learning situation — including correct concepts, partial understandings, misconceptions, and skills — and is the single strongest predictor of how much will be learned from any given instructional episode. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It includes both correct and incorrect knowledge but excludes other cognitive processes like working memory or attention.
@@ -127,10 +127,10 @@ The impact of Prior Knowledge extends beyond individual learners to broader educ
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[prior-knowledge-synthetic-seed-2026-04-24]]

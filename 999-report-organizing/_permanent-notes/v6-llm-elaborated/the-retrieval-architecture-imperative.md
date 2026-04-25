@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Retrieval Architecture Imperative
 
 > [!definition] **Retrieval Architecture Imperative**
-> The Retrieval Architecture Imperative asserts that a personal knowledge management (PKM) system must incorporate deliberate retrieval practice mechanisms to ensure long-term retention of information. It falls under [[Cognitive Architecture]], emphasizing the necessity of these practices in PKM systems, and does not address other aspects like encoding or organizational features directly.
+> The Retrieval Architecture Imperative asserts that a personal knowledge management (PKM) system must incorporate deliberate retrieval practice mechanisms to ensure long-term retention of information. It falls under [[cognitive-architecture]], emphasizing the necessity of these practices in PKM systems, and does not address other aspects like encoding or organizational features directly.
 
 > [!attention] **Boundary**
 > This concept focuses on the necessity of incorporating retrieval practices in PKM systems and does not address other aspects of PKM like encoding or organizational features directly.
@@ -134,10 +134,10 @@ Understanding the importance of retrieval practice in PKM systems connects it to
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

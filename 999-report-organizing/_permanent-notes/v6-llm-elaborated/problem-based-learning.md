@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Case-Based Learning]]"
-  - "[[Direct Instruction]]"
-  - "[[Project-Based Learning]]"
+  - "[[case-based-learning]]"
+  - "[[direct-instruction]]"
+  - "[[project-based-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,12 +44,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Case-Based Learning]]"
-  - "[[Direct Instruction]]"
+  - "[[case-based-learning]]"
+  - "[[direct-instruction]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Project-Based Learning]]"
+  - "[[project-based-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Problem-Based Learning
 
 > [!definition] **Problem-Based Learning**
-> Problem-Based Learning (PBL) is an instructional approach where students work in groups to solve complex, real-world problems, driving their learning process and acquiring knowledge relevant to the problem at hand. It falls under [[Instructional Design]], focusing on solving ill-structured authentic problems rather than presenting content first.
+> Problem-Based Learning (PBL) is an instructional approach where students work in groups to solve complex, real-world problems, driving their learning process and acquiring knowledge relevant to the problem at hand. It falls under [[instructional-design]], focusing on solving ill-structured authentic problems rather than presenting content first.
 
 > [!attention] **Boundary**
 > PBL focuses on solving ill-structured authentic problems rather than presenting content first. It does not include other forms of learning such as direct instruction or rote memorization.
@@ -136,10 +136,10 @@ Empirical evidence supports PBL's effectiveness in enhancing clinical-reasoning 
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Contrasts with:** [[Case-Based Learning]] · [[Direct Instruction]]
+**Contrasts with:** [[case-based-learning]] · [[direct-instruction]]
 
-**Applies to:** [[Project-Based Learning]]
+**Applies to:** [[project-based-learning]]
 
 **Source:** [[problem-based-learning-synthetic-seed-2026-04-25]]

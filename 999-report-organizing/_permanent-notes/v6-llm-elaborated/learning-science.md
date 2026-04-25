@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive Psychology]]"
+  - "[[cognitive-psychology]]"
   - "[[Design-Based Research]]"
-  - "[[Educational Technology]]"
+  - "[[educational-technology]]"
 prerequisites:
-  - "[[Cognitive Psychology]]"
+  - "[[cognitive-psychology]]"
 specializes:
   - "[[Design-Based Research]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Educational Technology]]"
+  - "[[educational-technology]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Learning Science
 
 > [!definition] **Learning Science**
-> Learning Science is the interdisciplinary field that studies how people learn in real-world settings and uses this understanding to design more effective learning environments, tools, and curricula. It falls under [[Cognitive Architecture]], drawing on cognitive psychology, neuroscience, computer science, anthropology, and education.
+> Learning Science is the interdisciplinary field that studies how people learn in real-world settings and uses this understanding to design more effective learning environments, tools, and curricula. It falls under [[cognitive-architecture]], drawing on cognitive psychology, neuroscience, computer science, anthropology, and education.
 
 > [!attention] **Boundary**
 > It excludes classical educational psychology's focus on individual cognitive processes without contextual application. It also does not encompass all aspects of education but focuses specifically on the scientific study of learning mechanisms and their application.
@@ -127,12 +127,12 @@ Learning Science is crucial for advancing our understanding of learning processe
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Cognitive Psychology]]
+**Prerequisites:** [[cognitive-psychology]]
 
 **Specializes:** [[Design-Based Research]]
 
-**Applies to:** [[Educational Technology]]
+**Applies to:** [[educational-technology]]
 
 **Source:** [[learning-science-synthetic-seed-2026-04-24]]

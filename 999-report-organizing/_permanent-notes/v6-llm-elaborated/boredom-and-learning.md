@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Educational Psychology"
 
 related:
-  - "[[Situational Interest]]"
-  - "[[Mind-Wandering]]"
-  - "[[Flow]]"
+  - "[[situational-interest]]"
+  - "[[mind-wandering]]"
+  - "[[flow]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,10 +42,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Situational Interest]]"
+  - "[[situational-interest]]"
 contrasts-with:
-  - "[[Mind-Wandering]]"
-  - "[[Flow]]"
+  - "[[mind-wandering]]"
+  - "[[flow]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Boredom and Learning
 
 > [!definition] **Boredom and Learning**
-> Boredom and Learning is the study of academic boredom as an achievement emotion characterized by low subjective control and value, and its bidirectional relationship with attention, mind-wandering, and learning outcomes. It falls under [[Educational Psychology]], overturning the folk view that boredom is benign; instead, it is empirically linked to shallow processing, increased mind-wandering, and lower long-run motivation.
+> Boredom and Learning is the study of academic boredom as an achievement emotion characterized by low subjective control and value, and its bidirectional relationship with attention, mind-wandering, and learning outcomes. It falls under [[educational-psychology]], overturning the folk view that boredom is benign; instead, it is empirically linked to shallow processing, increased mind-wandering, and lower long-run motivation.
 
 > [!attention] **Boundary**
 > This concept excludes the folk view that boredom is benign and focuses on the specific psychological mechanisms and educational implications of academic boredom.
@@ -126,14 +126,14 @@ Academic boredom affects attention by reducing the learner's focus on the task a
 
 ## Synthesis
 
-Understanding Boredom and Learning is crucial for educators, as it highlights the importance of aligning educational activities with learners' subjective perceptions. By addressing both control and value dimensions, educators can create more engaging learning environments that foster deeper engagement and better learning outcomes. This concept also intersects with other areas in [[Educational Psychology]], such as motivation and attention, underscoring its significance for broader educational practices.
+Understanding Boredom and Learning is crucial for educators, as it highlights the importance of aligning educational activities with learners' subjective perceptions. By addressing both control and value dimensions, educators can create more engaging learning environments that foster deeper engagement and better learning outcomes. This concept also intersects with other areas in [[educational-psychology]], such as motivation and attention, underscoring its significance for broader educational practices.
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
-**Sibling concepts:** [[Situational Interest]]
+**Sibling concepts:** [[situational-interest]]
 
-**Contrasts with:** [[Mind-Wandering]] · [[Flow]]
+**Contrasts with:** [[mind-wandering]] · [[flow]]
 
 **Source:** [[boredom-and-learning-synthetic-seed-2026-04-25]]

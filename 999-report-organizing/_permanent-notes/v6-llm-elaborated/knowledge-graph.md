@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Personal Knowledge Management"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Knowledge Graph
 
 > [!definition] **Knowledge Graph**
-> A Knowledge Graph in PKM is a network where nodes represent atomic concept-notes and edges are typed or untyped links between them, serving as the primary representation of knowledge rather than just navigation aids. It falls under [[Personal Knowledge Management]], focusing on the graph's topology and emergent properties.
+> A Knowledge Graph in PKM is a network where nodes represent atomic concept-notes and edges are typed or untyped links between them, serving as the primary representation of knowledge rather than just navigation aids. It falls under [[personal-knowledge-management]], focusing on the graph's topology and emergent properties.
 
 > [!attention] **Boundary**
 > This definition excludes traditional document collections that use hyperlinks for navigation. It also does not include the physical structure of folders used to organize notes, focusing instead on the graph's topology and emergent properties.
@@ -82,7 +82,7 @@ In PKM, a Knowledge Graph is a network that organizes information into nodes (at
 
 Nodes in a Knowledge Graph represent individual concepts, each encapsulated as an atomic note. These notes can be interconnected through edges that reflect relationships such as causation, correlation, or hierarchy. The edges provide context and meaning to the nodes, enabling a richer understanding of the domain being studied. This interconnectedness allows for a more coherent ontology of the subject matter.
 
-The creation and maintenance of a Knowledge Graph involve a disciplined approach to atomicity and link curation. Atomic notes ensure that each piece of information is self-contained and well-defined, while curated links maintain the integrity and coherence of the graph. This process mirrors the principles of [[Working Memory]], where information is processed and integrated into long-term memory through meaningful connections.
+The creation and maintenance of a Knowledge Graph involve a disciplined approach to atomicity and link curation. Atomic notes ensure that each piece of information is self-contained and well-defined, while curated links maintain the integrity and coherence of the graph. This process mirrors the principles of [[working-memory]], where information is processed and integrated into long-term memory through meaningful connections.
 
 Practically, a Knowledge Graph enhances knowledge organization by providing a visual representation of how different concepts interrelate. It facilitates retrieval by allowing users to navigate through interconnected nodes, making it easier to find related information. Furthermore, the graph's topology can reveal patterns and insights that might not be apparent in linear document structures.
 
@@ -124,16 +124,16 @@ Nodes are created as atomic concept-notes, each capturing a specific idea or pie
 
 ## Synthesis
 
-The importance of Knowledge Graphs lies in their ability to enhance cognitive architecture through better knowledge management. By organizing information into interconnected nodes and edges, these graphs facilitate deeper understanding and more efficient retrieval of knowledge. This aligns with the principles of [[Working Memory]], where meaningful connections between pieces of information are crucial for long-term retention.
+The importance of Knowledge Graphs lies in their ability to enhance cognitive architecture through better knowledge management. By organizing information into interconnected nodes and edges, these graphs facilitate deeper understanding and more efficient retrieval of knowledge. This aligns with the principles of [[working-memory]], where meaningful connections between pieces of information are crucial for long-term retention.
 
 Knowledge Graphs also have implications beyond PKM, extending to fields such as instructional design and research. In instructional design, they can improve learning outcomes by providing a structured representation of course content. For researchers, these graphs facilitate the synthesis of diverse data sources, leading to more robust theories and hypotheses.
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[knowledge-graph-synthetic-seed-2026-04-25]]

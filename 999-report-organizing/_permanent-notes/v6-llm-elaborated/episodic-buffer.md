@@ -31,20 +31,20 @@ depth-level: elaborated
 parent-concept: "Working Memory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Central Executive]]"
-  - "[[Phonological Loop]]"
-  - "[[Visuospatial Sketchpad]]"
+  - "[[working-memory]]"
+  - "[[central-executive]]"
+  - "[[phonological-loop]]"
+  - "[[visuospatial-sketchpad]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Central Executive]]"
-  - "[[Phonological Loop]]"
-  - "[[Visuospatial Sketchpad]]"
+  - "[[central-executive]]"
+  - "[[phonological-loop]]"
+  - "[[visuospatial-sketchpad]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Episodic Buffer
 
 > [!definition] **Episodic Buffer**
-> The Episodic Buffer is a component of Baddeley's working-memory model that integrates information from the phonological loop and visuospatial sketchpad into coherent episodes available to consciousness and central executive attention, distinct from other components like the central executive or long-term memory itself. It falls under [[Working Memory]].
+> The Episodic Buffer is a component of Baddeley's working-memory model that integrates information from the phonological loop and visuospatial sketchpad into coherent episodes available to consciousness and central executive attention, distinct from other components like the central executive or long-term memory itself. It falls under [[working-memory]].
 
 > [!attention] **Boundary**
 > It stops at being an integrative workspace for multimodal information, distinct from other components like the central executive or long-term memory itself.
@@ -130,10 +130,10 @@ By understanding the Episodic Buffer, researchers and practitioners can develop 
 
 ## Connections & Context
 
-**Falls under:** [[Working Memory]]
+**Falls under:** [[working-memory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Central Executive]] · [[Phonological Loop]] · [[Visuospatial Sketchpad]]
+**Sibling concepts:** [[central-executive]] · [[phonological-loop]] · [[visuospatial-sketchpad]]
 
 **Source:** [[episodic-buffer-synthetic-seed-2026-04-24]]

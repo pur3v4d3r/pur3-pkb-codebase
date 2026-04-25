@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Elaborative Rehearsal]]"
+  - "[[working-memory]]"
+  - "[[elaborative-rehearsal]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Elaborative Rehearsal]]"
+  - "[[elaborative-rehearsal]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -132,10 +132,10 @@ Empirical evidence consistently shows that maintenance rehearsal alone leads to 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Elaborative Rehearsal]]
+**Contrasts with:** [[elaborative-rehearsal]]
 
 **Source:** [[maintenance-rehearsal-synthetic-seed-2026-04-24]]

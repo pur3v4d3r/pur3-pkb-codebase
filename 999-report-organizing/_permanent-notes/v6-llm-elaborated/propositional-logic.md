@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Formal Logic"
 
 related:
-  - "[[Predicate Logic]]"
-  - "[[Modal Logic]]"
+  - "[[predicate-logic]]"
+  - "[[modal-logic]]"
   - "[[Truth Tables]]"
   - "[[Boolean Algebra]]"
 prerequisites:
@@ -42,8 +42,8 @@ prerequisites:
 specializes:
   - "[[]]"
 broader:
-  - "[[Predicate Logic]]"
-  - "[[Modal Logic]]"
+  - "[[predicate-logic]]"
+  - "[[modal-logic]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -133,7 +133,7 @@ The foundational achievement of Propositional Logic lies in its ability to provi
 
 **Falls under:** [[Formal Logic]]
 
-**Generalizes to:** [[Predicate Logic]] · [[Modal Logic]]
+**Generalizes to:** [[predicate-logic]] · [[modal-logic]]
 
 **Applies to:** [[Truth Tables]]
 

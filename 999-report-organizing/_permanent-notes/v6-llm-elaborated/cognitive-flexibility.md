@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Executive Function"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Inhibitory Control]]"
+  - "[[working-memory]]"
+  - "[[inhibitory-control]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Inhibitory Control]]"
+  - "[[inhibitory-control]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Cognitive Flexibility
 
 > [!definition] **Cognitive Flexibility**
-> Cognitive Flexibility refers to the ability to switch between different concepts or tasks in response to changing demands, a core executive function that falls under [[Executive Function]]. It involves disengaging from an established cognitive set and engaging an alternative one, as indexed by performance on shifting paradigms such as the Wisconsin Card Sorting Test and task-switching experiments.
+> Cognitive Flexibility refers to the ability to switch between different concepts or tasks in response to changing demands, a core executive function that falls under [[executive-function]]. It involves disengaging from an established cognitive set and engaging an alternative one, as indexed by performance on shifting paradigms such as the Wisconsin Card Sorting Test and task-switching experiments.
 
 > [!attention] **Boundary**
 > This definition excludes mere willingness to consider alternatives, focusing on the cost-bearing operation of switching task sets.
@@ -128,10 +128,10 @@ Cognitive flexibility also intersects with related concepts like working memory 
 
 ## Connections & Context
 
-**Falls under:** [[Executive Function]]
+**Falls under:** [[executive-function]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Inhibitory Control]]
+**Sibling concepts:** [[inhibitory-control]]
 
 **Source:** [[cognitive-flexibility-synthetic-seed-2026-04-25]]

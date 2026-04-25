@@ -32,11 +32,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Adult Neurogenesis]]"
-  - "[[Deliberate Practice]]"
+  - "[[deliberate-practice]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[Adult Neurogenesis]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Deliberate Practice]]"
+  - "[[deliberate-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Neuroplasticity
 
 > [!definition] **Neuroplasticity**
-> Neuroplasticity refers to the brain's ability to change its structure and function in response to experience through synaptic modifications and dendritic remodeling, and is a key enabling condition for learning across the lifespan. It falls under [[Cognitive Architecture]], as it supports the dynamic reorganization of neural networks that underpin cognitive processes.
+> Neuroplasticity refers to the brain's ability to change its structure and function in response to experience through synaptic modifications and dendritic remodeling, and is a key enabling condition for learning across the lifespan. It falls under [[cognitive-architecture]], as it supports the dynamic reorganization of neural networks that underpin cognitive processes.
 
 > [!attention] **Boundary**
 > This concept does not encompass all forms of brain change, such as those due to injury or degenerative diseases. It is specifically about changes enabled by learning and experience.
@@ -131,12 +131,12 @@ The integration of neuroplasticity with other concepts like working memory and d
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Specializes:** [[Adult Neurogenesis]]
 
-**Applies to:** [[Deliberate Practice]]
+**Applies to:** [[deliberate-practice]]
 
 **Source:** [[neuroplasticity-synthetic-seed-2026-04-25]]

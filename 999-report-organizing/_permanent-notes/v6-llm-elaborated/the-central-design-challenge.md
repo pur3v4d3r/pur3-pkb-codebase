@@ -37,32 +37,32 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Heutagogy]]"
-  - "[[Andragogy]]"
-  - "[[Scaffolding]]"
-  - "[[Formative Assessment]]"
-  - "[[Self-Directed Learning Readiness Scale]]"
+  - "[[heutagogy]]"
+  - "[[andragogy]]"
+  - "[[scaffolding]]"
+  - "[[formative-assessment]]"
+  - "[[self-directed-learning-readiness-scale]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Heutagogy]]"
+  - "[[heutagogy]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Andragogy]]"
+  - "[[andragogy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scaffolding]]"
-  - "[[Formative Assessment]]"
+  - "[[scaffolding]]"
+  - "[[formative-assessment]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Directed Learning Readiness Scale]]"
+  - "[[self-directed-learning-readiness-scale]]"
 refines:
   - "[[]]"
 
@@ -80,7 +80,7 @@ provenance:
 # Central Design Challenge
 
 > [!definition] **Central Design Challenge**
-> The Central Design Challenge refers to the paradox faced by curricula designed for lifelong and self-directed learning: they must provide sufficient structure while simultaneously fostering learners' capacity to function independently without that structure. This challenge falls under [[Self-Regulated Learning]], as it involves developing metacognitive, self-regulatory, and motivational capacities in learners.
+> The Central Design Challenge refers to the paradox faced by curricula designed for lifelong and self-directed learning: they must provide sufficient structure while simultaneously fostering learners' capacity to function independently without that structure. This challenge falls under [[self-regulated-learning]], as it involves developing metacognitive, self-regulatory, and motivational capacities in learners.
 
 > [!attention] **Boundary**
 > This concept excludes specific pedagogical techniques like scaffolding or formative assessment, focusing instead on the overarching philosophical challenge of educational authority and learner autonomy.
@@ -140,14 +140,14 @@ This challenge intersects with other related concepts like scaffolding and forma
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Heutagogy]]
+**Generalizes to:** [[heutagogy]]
 
-**Contrasts with:** [[Andragogy]]
+**Contrasts with:** [[andragogy]]
 
-**Applies to:** [[Scaffolding]] · [[Formative Assessment]]
+**Applies to:** [[scaffolding]] · [[formative-assessment]]
 
-**Supports:** [[Self-Directed Learning Readiness Scale]]
+**Supports:** [[self-directed-learning-readiness-scale]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

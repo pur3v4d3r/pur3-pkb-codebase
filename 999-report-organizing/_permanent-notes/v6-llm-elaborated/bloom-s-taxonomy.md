@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Educational Psychology"
 
 related:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Learning Objectives]]"
-  - "[[Instructional Design]]"
+  - "[[instructional-design]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +45,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
   - "[[Learning Objectives]]"
-  - "[[Instructional Design]]"
+  - "[[instructional-design]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Bloom's Taxonomy
 
 > [!definition] **Bloom's Taxonomy**
-> Bloom's Taxonomy is a hierarchical classification of cognitive learning objectives that orders processes from lower-order (remember, understand, apply) to higher-order (analyze, evaluate, create), and serves as a planning framework for instructional design and assessment. It falls under [[Educational Psychology]], providing educators with a vocabulary to align their teaching goals with the intended outcomes of student learning.
+> Bloom's Taxonomy is a hierarchical classification of cognitive learning objectives that orders processes from lower-order (remember, understand, apply) to higher-order (analyze, evaluate, create), and serves as a planning framework for instructional design and assessment. It falls under [[educational-psychology]], providing educators with a vocabulary to align their teaching goals with the intended outcomes of student learning.
 
 > [!attention] **Boundary**
 > It stops at the categorization of cognitive processes and does not delve into specific pedagogical techniques or individual learning styles.
@@ -134,10 +134,10 @@ Moreover, Bloom's Taxonomy connects to other concepts like Cognitive Load Theory
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
-**Applies to:** [[Learning Objectives]] · [[Instructional Design]]
+**Applies to:** [[Learning Objectives]] · [[instructional-design]]
 
 **Source:** [[blooms-taxonomy-synthetic-seed-2026-04-24]]

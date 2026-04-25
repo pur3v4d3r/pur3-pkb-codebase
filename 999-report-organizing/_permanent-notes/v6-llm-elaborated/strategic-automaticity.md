@@ -36,11 +36,11 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Automaticity]]"
-  - "[[Habit Formation]]"
-  - "[[Dual-Process Theory]]"
-  - "[[Cue-Utilization Framework]]"
-  - "[[Goal Setting Theory]]"
+  - "[[automaticity]]"
+  - "[[habit-formation]]"
+  - "[[dual-process-theory]]"
+  - "[[cue-utilization-framework]]"
+  - "[[goal-setting-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,19 +50,19 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Automaticity]]"
-  - "[[Habit Formation]]"
+  - "[[automaticity]]"
+  - "[[habit-formation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Dual-Process Theory]]"
-  - "[[Cue-Utilization Framework]]"
+  - "[[dual-process-theory]]"
+  - "[[cue-utilization-framework]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Goal Setting Theory]]"
+  - "[[goal-setting-theory]]"
 refines:
   - "[[]]"
 
@@ -80,7 +80,7 @@ provenance:
 # Strategic Automaticity
 
 > [!definition] **Strategic Automaticity**
-> Strategic automaticity refers to a cognitive state where a behavior, having been pre-linked to a specific cue through deliberate planning, operates with enhanced efficiency and resistance to interference without requiring prolonged repetition or deep procedural memory formation. It falls under [[Self-Regulated Learning]], as it involves the controlled engineering of perception-action links that can be retracted by conscious decision-making.
+> Strategic automaticity refers to a cognitive state where a behavior, having been pre-linked to a specific cue through deliberate planning, operates with enhanced efficiency and resistance to interference without requiring prolonged repetition or deep procedural memory formation. It falls under [[self-regulated-learning]], as it involves the controlled engineering of perception-action links that can be retracted by conscious decision-making.
 
 > [!attention] **Boundary**
 > This concept excludes behaviors that are driven by long-term habit formation and does not involve true automaticity achieved through extensive practice. It is also distinct from self-hypnosis or motivational amplification techniques.
@@ -143,12 +143,12 @@ The significance of strategic automaticity extends beyond individual behaviors; 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Automaticity]] · [[Habit Formation]]
+**Contrasts with:** [[automaticity]] · [[habit-formation]]
 
-**Applies to:** [[Dual-Process Theory]] · [[Cue-Utilization Framework]]
+**Applies to:** [[dual-process-theory]] · [[cue-utilization-framework]]
 
-**Supports:** [[Goal Setting Theory]]
+**Supports:** [[goal-setting-theory]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

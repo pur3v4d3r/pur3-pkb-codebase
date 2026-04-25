@@ -32,12 +32,12 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Information-Processing Theory]]"
+  - "[[information-processing-theory]]"
   - "[[Behaviorism]]"
   - "[[Connectionism]]"
-  - "[[Predictive Processing]]"
+  - "[[predictive-processing]]"
 prerequisites:
-  - "[[Information-Processing Theory]]"
+  - "[[information-processing-theory]]"
 specializes:
   - "[[]]"
 broader:
@@ -58,7 +58,7 @@ supports:
   - "[[]]"
 refines:
   - "[[Connectionism]]"
-  - "[[Predictive Processing]]"
+  - "[[predictive-processing]]"
 
 review-frequency: quarterly
 mastery-stage: budding
@@ -74,7 +74,7 @@ provenance:
 # Cognitive Psychology Foundations
 
 > [!definition] **Cognitive Psychology Foundations**
-> Cognitive Psychology Foundations refer to the theoretical commitments that emerged from mid-20th-century cognitivism, emphasizing internal representations, hypothesis-testing experiments, and the computer metaphor of mind. It falls under [[Cognitive Architecture]], distinguishing itself from earlier behaviorist approaches and more recent cognitive theories like connectionism and predictive processing.
+> Cognitive Psychology Foundations refer to the theoretical commitments that emerged from mid-20th-century cognitivism, emphasizing internal representations, hypothesis-testing experiments, and the computer metaphor of mind. It falls under [[cognitive-architecture]], distinguishing itself from earlier behaviorist approaches and more recent cognitive theories like connectionism and predictive processing.
 
 > [!attention] **Boundary**
 > This concept excludes earlier behaviorist approaches and more recent cognitive theories like connectionism and predictive processing.
@@ -139,12 +139,12 @@ The significance of Cognitive Psychology Foundations extends beyond cognitive sc
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Information-Processing Theory]]
+**Prerequisites:** [[information-processing-theory]]
 
 **Contrasts with:** [[Behaviorism]]
 
-**Refines:** [[Connectionism]] · [[Predictive Processing]]
+**Refines:** [[Connectionism]] · [[predictive-processing]]
 
 **Source:** [[cognitive-psychology-foundations-synthetic-seed-2026-04-24]]

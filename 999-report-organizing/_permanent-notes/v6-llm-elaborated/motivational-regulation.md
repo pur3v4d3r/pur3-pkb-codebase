@@ -36,26 +36,26 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Efficacy]]"
-  - "[[Metacognition]]"
-  - "[[Goal Orientation]]"
-  - "[[Achievement Goal Theory]]"
-  - "[[Cognitive Strategy Use]]"
+  - "[[self-efficacy]]"
+  - "[[metacognition]]"
+  - "[[goal-orientation]]"
+  - "[[achievement-goal-theory]]"
+  - "[[cognitive-strategy-use]]"
 prerequisites:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Metacognition]]"
-  - "[[Goal Orientation]]"
+  - "[[metacognition]]"
+  - "[[goal-orientation]]"
 contrasts-with:
-  - "[[Achievement Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Strategy Use]]"
+  - "[[cognitive-strategy-use]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -79,7 +79,7 @@ provenance:
 # Motivational Regulation
 
 > [!definition] **Motivational Regulation**
-> Motivational regulation refers to the deliberate management of motivational states such as interest, value, efficacy, goal orientation, and affect through a set of strategies that learners can deploy. It falls under [[Self-Regulated Learning]], where it operates within the limits set by deeper dispositional factors and external contextual influences outside the learner's regulatory scope.
+> Motivational regulation refers to the deliberate management of motivational states such as interest, value, efficacy, goal orientation, and affect through a set of strategies that learners can deploy. It falls under [[self-regulated-learning]], where it operates within the limits set by deeper dispositional factors and external contextual influences outside the learner's regulatory scope.
 
 > [!attention] **Boundary**
 > This concept stops at the active management of motivational states; it does not include deeper dispositional factors or external contextual influences outside the learner's regulatory scope.
@@ -135,14 +135,14 @@ The framework's influence extends beyond education into fields like psychology a
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Self-Efficacy]]
+**Prerequisites:** [[self-efficacy]]
 
-**Sibling concepts:** [[Metacognition]] · [[Goal Orientation]]
+**Sibling concepts:** [[metacognition]] · [[goal-orientation]]
 
-**Contrasts with:** [[Achievement Goal Theory]]
+**Contrasts with:** [[achievement-goal-theory]]
 
-**Applies to:** [[Cognitive Strategy Use]]
+**Applies to:** [[cognitive-strategy-use]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

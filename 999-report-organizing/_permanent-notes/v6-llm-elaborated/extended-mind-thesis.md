@@ -36,16 +36,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive Offloading]]"
-  - "[[Externalized Metacognition]]"
+  - "[[cognitive-offloading]]"
+  - "[[externalized-metacognition]]"
 prerequisites:
-  - "[[Cognitive Offloading]]"
+  - "[[cognitive-offloading]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Externalized Metacognition]]"
+  - "[[externalized-metacognition]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # Extended Mind Thesis
 
 > [!definition] **Extended Mind Thesis**
-> The Extended Mind Thesis posits that cognitive processes can extend beyond the brain to include external artefacts when these are reliably available, regularly consulted, and functionally integrated into workflows. This thesis challenges the assumption that cognition is confined within the skull and remains contested in philosophy of mind. It falls under [[Cognitive Architecture]], providing a philosophical foundation for treating PKB scaffolds as constitutive components rather than mere external aids.
+> The Extended Mind Thesis posits that cognitive processes can extend beyond the brain to include external artefacts when these are reliably available, regularly consulted, and functionally integrated into workflows. This thesis challenges the assumption that cognition is confined within the skull and remains contested in philosophy of mind. It falls under [[cognitive-architecture]], providing a philosophical foundation for treating PKB scaffolds as constitutive components rather than mere external aids.
 
 > [!attention] **Boundary**
 > This thesis is a philosophical framework, not an empirical finding. It challenges the assumption that cognition is confined within the skull and remains contested in philosophy of mind.
@@ -135,10 +135,10 @@ By integrating the extended mind thesis into PKB design and instructional practi
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Cognitive Offloading]]
+**Prerequisites:** [[cognitive-offloading]]
 
-**Sibling concepts:** [[Externalized Metacognition]]
+**Sibling concepts:** [[externalized-metacognition]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

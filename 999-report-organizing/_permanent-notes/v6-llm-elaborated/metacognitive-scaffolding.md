@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Metacognitive Scaffolding
 
 > [!definition] **Metacognitive Scaffolding**
-> Metacognitive scaffolding refers to external structures, tools, templates, or protocols that make metacognitive processes visible, impose regulatory structure where self-regulation is absent, and create feedback loops for learners to calibrate their self-assessments. It falls under [[Self-Regulated Learning]], as it supports the regulation of one's own learning processes.
+> Metacognitive scaffolding refers to external structures, tools, templates, or protocols that make metacognitive processes visible, impose regulatory structure where self-regulation is absent, and create feedback loops for learners to calibrate their self-assessments. It falls under [[self-regulated-learning]], as it supports the regulation of one's own learning processes.
 
 > [!attention] **Boundary**
 > This concept excludes instructional scaffolding broadly conceived, which focuses on content acquisition rather than the regulation of learning processes. It also does not encompass all forms of external support but specifically targets metacognitive functions.
@@ -132,10 +132,10 @@ The developmental imperative of metacognitive scaffolding is particularly import
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Cognitive Load Theory]]
+**Applies to:** [[cognitive-load-theory]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

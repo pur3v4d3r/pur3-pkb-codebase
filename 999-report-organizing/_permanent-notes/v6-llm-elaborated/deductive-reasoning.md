@@ -33,8 +33,8 @@ parent-concept: "Logical Reasoning"
 
 related:
   - "[[Validity]]"
-  - "[[Inductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
+  - "[[inductive-reasoning]]"
+  - "[[abductive-reasoning]]"
 prerequisites:
   - "[[Validity]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Inductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
+  - "[[inductive-reasoning]]"
+  - "[[abductive-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -139,6 +139,6 @@ Understanding deductive reasoning connects to broader concepts like inductive an
 
 **Prerequisites:** [[Validity]]
 
-**Contrasts with:** [[Inductive Reasoning]] · [[Abductive Reasoning]]
+**Contrasts with:** [[inductive-reasoning]] · [[abductive-reasoning]]
 
 **Source:** [[deductive-reasoning-synthetic-seed-2026-04-24]]

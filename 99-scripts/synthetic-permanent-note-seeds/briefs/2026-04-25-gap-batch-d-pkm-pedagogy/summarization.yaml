@@ -1,0 +1,41 @@
+concept: Summarization
+domain: educational-psychology
+secondary_domains:
+- reading-research
+- learning-strategies
+aliases:
+- summarisation
+- summary writing as a study strategy
+broader:
+- learning-strategies
+related:
+- self-explanation
+- elaborative-interrogation
+- retrieval-practice
+- comprehension-monitoring
+- reading-comprehension
+prerequisites:
+- learning-strategies
+- reading-comprehension
+confidence: medium
+callouts:
+- type: definition
+  title: Summarization
+  body: Summarization is the learning strategy in which a student produces a condensed
+    restatement of studied material in their own words, requiring selection of main
+    ideas, deletion of trivial detail, generalisation across specific instances, and
+    integration into a coherent reduced text.
+- type: key-claim
+  title: Key claim about Summarization
+  body: Summarization can be a moderately effective study strategy when learners have
+    been explicitly trained in the constituent operations, but in the Dunlosky et
+    al. evidence-based ranking of study strategies Summarization receives only a "low
+    utility" rating because untrained Summarization frequently produces verbatim copying
+    or random extraction.
+- type: warning
+  title: Common pitfall regarding Summarization
+  body: 'Summarization is a deceptive case in the learning-strategies literature:
+    students subjectively feel that Summarization is producing learning, while objective
+    measures show weak gains compared with retrieval practice; conflating the felt
+    productivity of Summarization with the actual learning gain is a textbook fluency
+    illusion.'

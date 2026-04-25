@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
   - "[[Controlling Environment]]"
 prerequisites:
   - "[[]]"
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 contrasts-with:
   - "[[Controlling Environment]]"
 contradicts:
@@ -71,7 +71,7 @@ provenance:
 # Need Thwarting
 
 > [!definition] **Need Thwarting**
-> Need Thwarting refers to environmental conditions that actively frustrate basic psychological needs such as autonomy, competence, and relatedness, distinct from mere absence of support. It falls under [[Self-Determination Theory]], where it is defined by controlling pressure that thwarts autonomy, demeaning feedback that thwarts competence, and rejecting or conditional treatment that thwarts relatedness.
+> Need Thwarting refers to environmental conditions that actively frustrate basic psychological needs such as autonomy, competence, and relatedness, distinct from mere absence of support. It falls under [[self-determination-theory]], where it is defined by controlling pressure that thwarts autonomy, demeaning feedback that thwarts competence, and rejecting or conditional treatment that thwarts relatedness.
 
 > [!attention] **Boundary**
 > This concept excludes situations where there is no active frustration of the needs but only a lack of support. It also does not encompass all forms of negative feedback or controlling behavior, focusing specifically on conditions that thwart these basic psychological needs.
@@ -134,9 +134,9 @@ The distinction between Need Thwarting and other related concepts like controlli
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Self-Determination Theory]]
+**Sibling concepts:** [[self-determination-theory]]
 
 **Contrasts with:** [[Controlling Environment]]
 

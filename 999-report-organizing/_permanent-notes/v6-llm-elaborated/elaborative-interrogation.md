@@ -36,25 +36,25 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Generative Production]]"
-  - "[[Self-Explanation]]"
-  - "[[Spaced Repetition]]"
+  - "[[self-explanation]]"
+  - "[[spaced-repetition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
   - "[[Generative Production]]"
-  - "[[Self-Explanation]]"
+  - "[[self-explanation]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Spaced Repetition]]"
+  - "[[spaced-repetition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Elaborative Interrogation
 
 > [!definition] **Elaborative Interrogation**
-> Elaborative interrogation is a cognitive strategy where learners generate explanations for stated facts or relationships by asking and answering 'why' and 'how' questions, enhancing memory traces through active construction of knowledge. It falls under [[Cognitive Architecture]], as it leverages the learner's working memory to integrate new information with existing schemas.
+> Elaborative interrogation is a cognitive strategy where learners generate explanations for stated facts or relationships by asking and answering 'why' and 'how' questions, enhancing memory traces through active construction of knowledge. It falls under [[cognitive-architecture]], as it leverages the learner's working memory to integrate new information with existing schemas.
 
 > [!attention] **Boundary**
 > This concept excludes passive information reception strategies and focuses on the active generation of explanations. It does not cover other encoding techniques like rote rehearsal or simple repetition.
@@ -137,12 +137,12 @@ The concept of elaborative interrogation also has implications for working memor
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Generative Production]] · [[Self-Explanation]]
+**Sibling concepts:** [[Generative Production]] · [[self-explanation]]
 
-**Applies to:** [[Spaced Repetition]]
+**Applies to:** [[spaced-repetition]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]

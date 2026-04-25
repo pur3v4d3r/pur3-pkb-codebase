@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Retrieval Practice]]"
-  - "[[Schema Theory]]"
+  - "[[working-memory]]"
+  - "[[retrieval-practice]]"
+  - "[[schema-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,13 +49,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Retrieval Practice]]"
+  - "[[retrieval-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 refines:
   - "[[]]"
 
@@ -73,7 +73,7 @@ provenance:
 # Long-Term Memory
 
 > [!definition] **Long-Term Memory**
-> Long-Term Memory (LTM) is the cognitive store of effectively unlimited capacity and duration that holds schemas, episodes, semantic knowledge, and procedural skills, constituting a person's accumulated learning. It falls under [[cognitive architecture]], where its organized contents—schemas—circumvent working-memory limits, making expertise possible.
+> Long-Term Memory (LTM) is the cognitive store of effectively unlimited capacity and duration that holds schemas, episodes, semantic knowledge, and procedural skills, constituting a person's accumulated learning. It falls under [[cognitive-architecture]], where its organized contents—schemas—circumvent working-memory limits, making expertise possible.
 
 > [!attention] **Boundary**
 > It excludes short-term or sensory memory and focuses on the storage and organization of learned information that can be retrieved for long periods.
@@ -132,12 +132,12 @@ Long-Term Memory's role in bypassing working-memory limitations is particularly 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Retrieval Practice]]
+**Applies to:** [[retrieval-practice]]
 
-**Supports:** [[Schema Theory]]
+**Supports:** [[schema-theory]]
 
 **Source:** [[long-term-memory-synthetic-seed-2026-04-24]]

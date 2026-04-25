@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Spaced Repetition
 
 > [!definition] **Spaced Repetition**
-> Spaced Repetition is a study technique that involves reviewing material at increasing intervals to enhance long-term retention, leveraging the spacing effect and retrieval practice. It falls under [[Cognitive Architecture]], where it optimizes memory consolidation by forcing each rehearsal after a degree of forgetting has occurred, thereby producing more durable schema construction than massed practice.
+> Spaced Repetition is a study technique that involves reviewing material at increasing intervals to enhance long-term retention, leveraging the spacing effect and retrieval practice. It falls under [[cognitive-architecture]], where it optimizes memory consolidation by forcing each rehearsal after a degree of forgetting has occurred, thereby producing more durable schema construction than massed practice.
 
 > [!attention] **Boundary**
 > This concept excludes passive review schedules without active retrieval and focuses on the mechanism of spaced retrieval rather than just time distribution.
@@ -135,10 +135,10 @@ Empirical evidence supports the efficacy of Spaced Repetition, showing that it c
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[spaced-repetition-synthetic-seed-2026-04-24]]

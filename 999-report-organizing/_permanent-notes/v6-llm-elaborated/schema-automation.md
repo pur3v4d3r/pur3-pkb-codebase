@@ -34,9 +34,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Automaticity]]"
-  - "[[Chunking]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[automaticity]]"
+  - "[[chunking]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,9 +44,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Automaticity]]"
-  - "[[Chunking]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[automaticity]]"
+  - "[[chunking]]"
+  - "[[cognitive-load-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -76,7 +76,7 @@ provenance:
 # Schema Automation
 
 > [!definition] **Schema Automation**
-> Schema automation is the further-stage cognitive process by which a constructed schema becomes deployable with minimal working-memory demand and conscious effort; achieved through extensive practice, it falls under [[Cognitive Load Theory]]. It falls under [[Cognitive Architecture]].
+> Schema automation is the further-stage cognitive process by which a constructed schema becomes deployable with minimal working-memory demand and conscious effort; achieved through extensive practice, it falls under [[cognitive-load-theory]]. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept stops at the point where automatic processes no longer require active cognitive resources. It excludes deliberate and controlled processing stages that still engage working memory.
@@ -135,8 +135,8 @@ The significance of schema automation extends beyond educational settings, influ
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Automaticity]] · [[Chunking]] · [[Cognitive Load Theory]]
+**Sibling concepts:** [[automaticity]] · [[chunking]] · [[cognitive-load-theory]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Concept Mapping]]"
+  - "[[concept-mapping]]"
   - "[[Brainstorming]]"
 prerequisites:
   - "[[]]"
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Concept Mapping]]"
+  - "[[concept-mapping]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Mind Mapping
 
 > [!definition] **Mind Mapping**
-> Mind Mapping is a radial diagramming technique developed by Tony Buzan, used to visually organize information around a central topic, with branches representing key ideas and their associations. It falls under [[Cognitive Architecture]], focusing on enhancing divergent thinking rather than structured knowledge representation.
+> Mind Mapping is a radial diagramming technique developed by Tony Buzan, used to visually organize information around a central topic, with branches representing key ideas and their associations. It falls under [[cognitive-architecture]], focusing on enhancing divergent thinking rather than structured knowledge representation.
 
 > [!attention] **Boundary**
 > It stops at the point where it diverges from concept mapping, which includes labeled relations and a more structured format.
@@ -131,9 +131,9 @@ The distinction between Mind Mapping and concept mapping highlights the importan
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Concept Mapping]]
+**Contrasts with:** [[concept-mapping]]
 
 **Applies to:** [[Brainstorming]]
 

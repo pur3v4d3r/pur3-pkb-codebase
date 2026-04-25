@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Fluid Intelligence]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Executive Function]]"
+  - "[[fluid-intelligence]]"
+  - "[[cognitive-load-theory]]"
+  - "[[executive-function]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,9 +43,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Fluid Intelligence]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Executive Function]]"
+  - "[[fluid-intelligence]]"
+  - "[[cognitive-load-theory]]"
+  - "[[executive-function]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # Working Memory Capacity
 
 > [!definition] **Working Memory Capacity**
-> Working Memory Capacity (WMC) refers to the amount of information an individual can simultaneously maintain and manipulate under conditions of interference, typically measured by complex span tasks like operation or reading span. It falls under [[Cognitive Architecture]], as it is a critical component in how we process and retain information temporarily while performing cognitive tasks.
+> Working Memory Capacity (WMC) refers to the amount of information an individual can simultaneously maintain and manipulate under conditions of interference, typically measured by complex span tasks like operation or reading span. It falls under [[cognitive-architecture]], as it is a critical component in how we process and retain information temporarily while performing cognitive tasks.
 
 > [!attention] **Boundary**
 > It excludes short-term memory capacity without concurrent processing demands and does not encompass long-term memory storage capabilities.
@@ -131,8 +131,8 @@ The broader implications of WMC extend beyond education into fields such as clin
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Fluid Intelligence]] · [[Cognitive Load Theory]] · [[Executive Function]]
+**Sibling concepts:** [[fluid-intelligence]] · [[cognitive-load-theory]] · [[executive-function]]
 
 **Source:** [[working-memory-capacity-synthetic-seed-2026-04-24]]

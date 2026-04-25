@@ -37,8 +37,8 @@ parent-concept: "Achievement Goal Theory"
 
 related:
   - "[[Implicit Theory of Intelligence]]"
-  - "[[Attribution Theory]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[attribution-theory]]"
+  - "[[self-efficacy-theory]]"
   - "[[Pintrich's 4×4 Matrix]]"
   - "[[Elliot and colleagues' 3×2 framework]]"
 prerequisites:
@@ -51,11 +51,11 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[Implicit Theory of Intelligence]]"
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -80,7 +80,7 @@ provenance:
 # 2×2 Achievement Goal Framework
 
 > [!definition] **2×2 Achievement Goal Framework**
-> The 2×2 Achievement Goal Framework is a motivational typology that classifies learners' goals into four categories based on their focus on mastery or performance and whether they approach or avoid these goals. It falls under [[Achievement-Goal-Theory]], distinguishing between mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance orientations, each predicting a unique pattern of cognition, affect, strategy, and outcome. This framework does not include the more complex refinements found in Pintrich's 4×4 Matrix or Elliot and colleagues' 3×2 framework, which integrate goal orientation with self-regulated learning and other standards. It falls under [[Achievement Goal Theory]].
+> The 2×2 Achievement Goal Framework is a motivational typology that classifies learners' goals into four categories based on their focus on mastery or performance and whether they approach or avoid these goals. It falls under [[achievement-goal-theory]], distinguishing between mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance orientations, each predicting a unique pattern of cognition, affect, strategy, and outcome. This framework does not include the more complex refinements found in Pintrich's 4×4 Matrix or Elliot and colleagues' 3×2 framework, which integrate goal orientation with self-regulated learning and other standards. It falls under [[achievement-goal-theory]].
 
 ## Core Explanation
 
@@ -139,11 +139,11 @@ The 2×2 Achievement Goal Framework's practical implications extend beyond the c
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Implicit Theory of Intelligence]] · [[Attribution Theory]]
+**Contrasts with:** [[Implicit Theory of Intelligence]] · [[attribution-theory]]
 
-**Applies to:** [[Self-Efficacy Theory]]
+**Applies to:** [[self-efficacy-theory]]
 
 **Refines:** [[Pintrich's 4×4 Matrix]] · [[Elliot and colleagues' 3×2 framework]]
 

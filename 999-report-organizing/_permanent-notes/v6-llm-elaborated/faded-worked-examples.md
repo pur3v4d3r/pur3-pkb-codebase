@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Scaffolded Fading]]"
-  - "[[Worked Examples]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[scaffolded-fading]]"
+  - "[[worked-examples]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,17 +45,17 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Scaffolded Fading]]"
+  - "[[scaffolded-fading]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -73,7 +73,7 @@ provenance:
 # Faded Worked Examples
 
 > [!definition] **Faded Worked Examples**
-> Faded Worked Examples are an instructional sequence where learners start with full worked examples and gradually complete more steps themselves as the support is withdrawn at a rate that matches their cognitive development. This approach falls under [[Cognitive Architecture]], addressing the expertise-reversal problem by making example structure adaptive to learner performance.
+> Faded Worked Examples are an instructional sequence where learners start with full worked examples and gradually complete more steps themselves as the support is withdrawn at a rate that matches their cognitive development. This approach falls under [[cognitive-architecture]], addressing the expertise-reversal problem by making example structure adaptive to learner performance.
 
 > [!attention] **Boundary**
 > This concept excludes static worked examples, which do not adapt to the learner's progress. It also does not include scaffolding techniques that do not involve fading of example support.
@@ -132,12 +132,12 @@ The impact of Faded Worked Examples extends beyond individual classrooms; they h
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Scaffolded Fading]]
+**Contrasts with:** [[scaffolded-fading]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[faded-worked-examples-synthetic-seed-2026-04-25]]

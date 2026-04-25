@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Self-Determination Theory]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Growth Mindset]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[self-efficacy-theory]]"
+  - "[[growth-mindset]]"
+  - "[[expectancy-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -52,10 +52,10 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Growth Mindset]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[self-efficacy-theory]]"
+  - "[[growth-mindset]]"
+  - "[[expectancy-value-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -79,7 +79,7 @@ provenance:
 # The Attributional Bridge
 
 > [!definition] **The Attributional Bridge**
-> The Attributional Bridge is an integrative conceptualization that positions attribution as the interpretive layer through which constructs from other motivational theories acquire their specific psychological content, converting raw experience into motivationally significant causal narratives. It falls under [[Cognitive Architecture]], synthesizing existing relationships between attribution and other theories into a coherent framework without making new empirical claims.
+> The Attributional Bridge is an integrative conceptualization that positions attribution as the interpretive layer through which constructs from other motivational theories acquire their specific psychological content, converting raw experience into motivationally significant causal narratives. It falls under [[cognitive-architecture]], synthesizing existing relationships between attribution and other theories into a coherent framework without making new empirical claims.
 
 > [!attention] **Boundary**
 > This concept stops at the architectural metaphor and does not delve into empirical claims or detailed mechanisms. It should not be confused with individual theories it integrates but rather seen as a framework for understanding their interplay.
@@ -138,8 +138,8 @@ The Attributional Bridge's significance extends beyond its theoretical contribut
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Applies to:** [[Self-Determination Theory]] · [[Self-Efficacy Theory]] · [[Growth Mindset]] · [[Expectancy-Value Theory]]
+**Applies to:** [[self-determination-theory]] · [[self-efficacy-theory]] · [[growth-mindset]] · [[expectancy-value-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Situational Interest]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Curiosity]]"
+  - "[[situational-interest]]"
+  - "[[intrinsic-motivation]]"
+  - "[[curiosity]]"
 prerequisites:
-  - "[[Situational Interest]]"
+  - "[[situational-interest]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,11 +45,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Curiosity]]"
+  - "[[curiosity]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Four-Phase Model of Interest Development
 
 > [!definition] **Four-Phase Model of Interest Development**
-> The Four-Phase Model of Interest Development is a framework that describes how interest evolves from triggered situational interest to well-developed individual interest through four distinct phases: triggered situational interest, maintained situational interest, emerging individual interest, and well-developed individual interest. It falls under [[Motivational Psychology]], reframing interest as a developmental trajectory rather than a stable trait.
+> The Four-Phase Model of Interest Development is a framework that describes how interest evolves from triggered situational interest to well-developed individual interest through four distinct phases: triggered situational interest, maintained situational interest, emerging individual interest, and well-developed individual interest. It falls under [[motivational-psychology]], reframing interest as a developmental trajectory rather than a stable trait.
 
 > [!attention] **Boundary**
 > This model focuses on the development of interest over time and does not address other motivational constructs like achievement or self-efficacy directly.
@@ -136,12 +136,12 @@ The model's emphasis on the developmental nature of interest aligns with other c
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Prerequisites:** [[Situational Interest]]
+**Prerequisites:** [[situational-interest]]
 
-**Contrasts with:** [[Intrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]]
 
-**Applies to:** [[Curiosity]]
+**Applies to:** [[curiosity]]
 
 **Source:** [[four-phase-model-of-interest-development-synthetic-seed-2026-04-25]]

@@ -37,9 +37,9 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
-  - "[[Self-Efficacy]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
+  - "[[self-efficacy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,9 +47,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
-  - "[[Self-Efficacy]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
+  - "[[self-efficacy]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -136,8 +136,8 @@ By integrating insights from neuroimaging studies with traditional behavioral re
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Intrinsic Motivation]] · [[Extrinsic Motivation]] · [[Self-Efficacy]]
+**Sibling concepts:** [[intrinsic-motivation]] · [[extrinsic-motivation]] · [[self-efficacy]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

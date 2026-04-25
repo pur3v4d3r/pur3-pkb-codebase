@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Power Law of Practice
 
 > [!definition] **Power Law of Practice**
-> The Power Law of Practice describes how the time required to perform a task decreases as a power function of the number of times the task has been performed, with large gains early in practice and progressively smaller gains as the chunk store matures. It falls under [[Cognitive Architecture]], specifically highlighting the role of long-term memory in skill acquisition.
+> The Power Law of Practice describes how the time required to perform a task decreases as a power function of the number of times the task has been performed, with large gains early in practice and progressively smaller gains as the chunk store matures. It falls under [[cognitive-architecture]], specifically highlighting the role of long-term memory in skill acquisition.
 
 > [!attention] **Boundary**
 > This law applies specifically to skill acquisition under effective conditions; it does not account for pseudoexpertise developed through degraded feedback.
@@ -133,10 +133,10 @@ The Power Law of Practice is deeply intertwined with other concepts such as work
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Self-Determination Theory]]"
-  - "[[Goal-Setting Theory]]"
-  - "[[Self-Efficacy Theory]]"
-  - "[[Attribution Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[goal-setting-theory]]"
+  - "[[self-efficacy-theory]]"
+  - "[[attribution-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Determination Theory]]"
-  - "[[Goal-Setting Theory]]"
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[goal-setting-theory]]"
+  - "[[self-efficacy-theory]]"
 contrasts-with:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # Motivational Psychology
 
 > [!definition] **Motivational Psychology**
-> Motivational Psychology is the sub-discipline of psychology that studies the directional, energizing, and persistence-related determinants of action by modeling how needs, goals, expectations, values, and causal attributions interact to produce engagement, choice, effort, and withdrawal. It falls under [[Cognitive Psychology]], integrating competing meta-theories into a layered account in which proximal cognitions mediate distal antecedents into observable behavior.
+> Motivational Psychology is the sub-discipline of psychology that studies the directional, energizing, and persistence-related determinants of action by modeling how needs, goals, expectations, values, and causal attributions interact to produce engagement, choice, effort, and withdrawal. It falls under [[cognitive-psychology]], integrating competing meta-theories into a layered account in which proximal cognitions mediate distal antecedents into observable behavior.
 
 > [!attention] **Boundary**
 > It excludes purely biological or neurological explanations for motivation and focuses on psychological processes. It should not be confused with motivational speech, which is often conflated with it but lacks empirical support.
@@ -133,10 +133,10 @@ The concept also bridges with related fields such as Self-Determination Theory a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Sibling concepts:** [[Self-Determination Theory]] · [[Goal-Setting Theory]] · [[Self-Efficacy Theory]]
+**Sibling concepts:** [[self-determination-theory]] · [[goal-setting-theory]] · [[self-efficacy-theory]]
 
-**Contrasts with:** [[Attribution Theory]]
+**Contrasts with:** [[attribution-theory]]
 
 **Source:** [[motivational-psychology-synthetic-seed-2026-04-24]]

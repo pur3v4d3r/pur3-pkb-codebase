@@ -1,0 +1,39 @@
+concept: Structure Mapping Theory
+domain: cognitive-science
+secondary_domains:
+- analogical-reasoning
+- artificial-intelligence
+aliases:
+- Gentner structure mapping
+- SMT
+broader:
+- analogical-reasoning
+related:
+- analogical-reasoning
+- structure-mapping-engine
+- case-based-reasoning
+- relational-thinking
+- schema-construction
+prerequisites:
+- analogical-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Structure Mapping Theory
+  body: Structure Mapping Theory is Dedre Gentner's account of analogical reasoning
+    in which analogy is defined as the alignment of relational structure between a
+    base domain and a target domain, with object attributes secondary, and the systematicity
+    principle giving preference to mappings that preserve higher-order relations.
+- type: key-claim
+  title: Key claim about Structure Mapping Theory
+  body: Structure Mapping Theory predicts that good analogies are recognised and remembered
+    for their relational rather than surface similarity, which is why expert analogical
+    transfer is reliably superior to novice transfer and why Structure Mapping Theory
+    has displaced earlier feature-overlap accounts of similarity.
+- type: warning
+  title: Common pitfall regarding Structure Mapping Theory
+  body: Structure Mapping Theory describes the alignment process well but is silent
+    about retrieval; real analogical reasoning failures usually involve failure to
+    retrieve a structurally relevant base, not failure to align it once retrieved,
+    so Structure Mapping Theory must be paired with retrieval models to explain everyday
+    analogical performance.

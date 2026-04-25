@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Critical Thinking]]"
-  - "[[Argument Analysis]]"
+  - "[[critical-thinking]]"
+  - "[[argument-analysis]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,13 +42,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Critical Thinking]]"
+  - "[[critical-thinking]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Argument Analysis]]"
+  - "[[argument-analysis]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Logical Fallacies
 
 > [!definition] **Logical Fallacies**
-> Logical fallacies are recurring patterns of defective reasoning that resemble valid arguments but fail to support their conclusions — encompassing formal fallacies (deductively invalid moves like affirming the consequent), informal fallacies of relevance (ad hominem, appeal to emotion), and informal fallacies of presumption (false dichotomy, begging the question, hasty generalisation). It falls under [[Critical Thinking]], where it serves as a diagnostic vocabulary for naming patterns of bad reasoning.
+> Logical fallacies are recurring patterns of defective reasoning that resemble valid arguments but fail to support their conclusions — encompassing formal fallacies (deductively invalid moves like affirming the consequent), informal fallacies of relevance (ad hominem, appeal to emotion), and informal fallacies of presumption (false dichotomy, begging the question, hasty generalisation). It falls under [[critical-thinking]], where it serves as a diagnostic vocabulary for naming patterns of bad reasoning.
 
 > [!attention] **Boundary**
 > This concept excludes correct logical reasoning and does not cover every possible error in argumentation; it focuses on specific patterns of flawed reasoning.
@@ -125,16 +125,16 @@ The mechanism of logical fallacies often involves a diversion from the core issu
 
 ## Synthesis
 
-Logical fallacies matter because they highlight the importance of critical thinking in evaluating arguments. By understanding these patterns, individuals can better navigate complex discussions and make more informed decisions. This concept intersects with [[Argument Analysis]] by providing tools for identifying flawed reasoning, and it is a cornerstone of [[Critical Thinking]], fostering a deeper appreciation for rigorous argumentation.
+Logical fallacies matter because they highlight the importance of critical thinking in evaluating arguments. By understanding these patterns, individuals can better navigate complex discussions and make more informed decisions. This concept intersects with [[argument-analysis]] by providing tools for identifying flawed reasoning, and it is a cornerstone of [[critical-thinking]], fostering a deeper appreciation for rigorous argumentation.
 
 The study of logical fallacies also has broader implications in fields such as psychology, where it informs our understanding of cognitive biases, and in education, where it guides the development of critical thinking skills. By recognizing and addressing these fallacies, we can enhance our ability to engage in constructive dialogue and make more reasoned judgments.
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Sibling concepts:** [[Critical Thinking]]
+**Sibling concepts:** [[critical-thinking]]
 
-**Applies to:** [[Argument Analysis]]
+**Applies to:** [[argument-analysis]]
 
 **Source:** [[logical-fallacies-synthetic-seed-2026-04-24]]

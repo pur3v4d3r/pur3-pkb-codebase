@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[working-memory]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Attention and Cognitive Control
 
 > [!definition] **Attention and Cognitive Control**
-> Attention and Cognitive Control refers to the mechanisms by which limited processing resources are allocated to task-relevant information, protecting it from interference — encompassing selection, sustained vigilance, switching, and conflict resolution — and is operationalised by paradigms such as Stroop, flanker, and antisaccade tasks. It falls under [[Cognitive Architecture]], where it plays a crucial role in how we selectively attend to relevant information and manage our cognitive resources effectively.
+> Attention and Cognitive Control refers to the mechanisms by which limited processing resources are allocated to task-relevant information, protecting it from interference — encompassing selection, sustained vigilance, switching, and conflict resolution — and is operationalised by paradigms such as Stroop, flanker, and antisaccade tasks. It falls under [[cognitive-architecture]], where it plays a crucial role in how we selectively attend to relevant information and manage our cognitive resources effectively.
 
 > [!attention] **Boundary**
 > This includes selection, sustained vigilance, switching, and conflict resolution. It does not encompass broader cognitive processes like memory or perception but focuses on the selective attention aspect of these processes.
@@ -129,10 +129,10 @@ This concept also intersects with self-regulated learning strategies, where indi
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Self-Regulated Learning]]
+**Applies to:** [[self-regulated-learning]]
 
 **Source:** [[attention-and-cognitive-control-synthetic-seed-2026-04-24]]

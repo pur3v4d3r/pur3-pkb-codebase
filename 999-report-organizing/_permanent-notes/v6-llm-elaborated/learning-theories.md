@@ -33,19 +33,19 @@ parent-concept: "Learning Science"
 
 related:
   - "[[Behaviorism]]"
-  - "[[Social-Cognitive Theory]]"
+  - "[[social-cognitive-theory]]"
   - "[[Situated Learning]]"
   - "[[Connectivism]]"
-  - "[[Cognitive Theories of Learning]]"
+  - "[[cognitive-theories-of-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[Behaviorism]]"
-  - "[[Social-Cognitive Theory]]"
+  - "[[social-cognitive-theory]]"
   - "[[Situated Learning]]"
   - "[[Connectivism]]"
 broader:
-  - "[[Cognitive Theories of Learning]]"
+  - "[[cognitive-theories-of-learning]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -77,7 +77,7 @@ provenance:
 # Learning Theories
 
 > [!definition] **Learning Theories**
-> Learning Theories are families of theoretical frameworks — such as behaviorist, cognitivist, constructivist, social-cognitive, situated, and connectivist approaches — that propose distinct mechanisms by which learning occurs. These theories fall under [[Learning Science]], each capturing a real subset of learning phenomena, and skilled pedagogical reasoning involves recognizing which Learning Theory applies to specific acquisition targets rather than treating one as universally correct.
+> Learning Theories are families of theoretical frameworks — such as behaviorist, cognitivist, constructivist, social-cognitive, situated, and connectivist approaches — that propose distinct mechanisms by which learning occurs. These theories fall under [[learning-science]], each capturing a real subset of learning phenomena, and skilled pedagogical reasoning involves recognizing which Learning Theory applies to specific acquisition targets rather than treating one as universally correct.
 
 > [!attention] **Boundary**
 > This concept excludes specific pedagogical techniques or individual theories not part of the broader family of Learning Theories. It also does not include other psychological phenomena like motivation or emotion that are relevant to learning but distinct from these theoretical frameworks.
@@ -137,10 +137,10 @@ Understanding the distinctions between these theories also helps in addressing o
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
-**Specializes:** [[Behaviorism]] · [[Social-Cognitive Theory]] · [[Situated Learning]] · [[Connectivism]]
+**Specializes:** [[Behaviorism]] · [[social-cognitive-theory]] · [[Situated Learning]] · [[Connectivism]]
 
-**Generalizes to:** [[Cognitive Theories of Learning]]
+**Generalizes to:** [[cognitive-theories-of-learning]]
 
 **Source:** [[learning-theories-synthetic-seed-2026-04-24]]

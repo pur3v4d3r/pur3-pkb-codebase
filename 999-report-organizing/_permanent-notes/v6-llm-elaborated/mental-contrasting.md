@@ -2,6 +2,7 @@
 title: "Mental Contrasting"
 aliases:
   - "Mental Contrasting"
+  - "Mental-Contrasting"
   - "Implementation Intentions"
   - "If-Then Plans"
   - "Gollwitzer Implementation Intentions"
@@ -36,8 +37,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Goal-Setting Theory]]"
-  - "[[Implementation Intentions]]"
+  - "[[goal-setting-theory]]"
+  - "[[implementation-intentions]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,11 +48,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Goal-Setting Theory]]"
+  - "[[goal-setting-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +76,7 @@ provenance:
 # Mental Contrasting
 
 > [!definition] **Mental Contrasting**
-> Mental Contrasting involves vividly imagining a desired future outcome and then contrasting it with present obstacles to produce expectancy-dependent commitment. It falls under [[Self-Regulated Learning]], focusing on commitment formation rather than direct behavior change, and is often combined with implementation intentions in the compound intervention known as MCII.
+> Mental Contrasting involves vividly imagining a desired future outcome and then contrasting it with present obstacles to produce expectancy-dependent commitment. It falls under [[self-regulated-learning]], focusing on commitment formation rather than direct behavior change, and is often combined with implementation intentions in the compound intervention known as MCII.
 
 > [!attention] **Boundary**
 > This concept excludes the action initiation aspect, which is primarily handled by implementation intentions. It focuses on commitment formation rather than direct behavior change.
@@ -131,16 +132,16 @@ The mechanism behind Mental Contrasting involves a two-step process: first, vivi
 
 ## Synthesis
 
-Mental Contrasting is a powerful tool for enhancing commitment to goals by integrating vivid visualization with realistic obstacle recognition. By falling under [[Self-Regulated Learning]], it complements other theories and techniques such as goal-setting theory and implementation intentions, providing a more comprehensive approach to goal pursuit. Its practical applications in various domains highlight its value in education, health, and professional development, making it an essential concept for understanding volitional processes.
+Mental Contrasting is a powerful tool for enhancing commitment to goals by integrating vivid visualization with realistic obstacle recognition. By falling under [[self-regulated-learning]], it complements other theories and techniques such as goal-setting theory and implementation intentions, providing a more comprehensive approach to goal pursuit. Its practical applications in various domains highlight its value in education, health, and professional development, making it an essential concept for understanding volitional processes.
 
 The integration of Mental Contrasting with implementation intentions through the MCII compound intervention represents a significant advancement in self-regulated learning frameworks. This combination addresses both commitment formation and action initiation, providing a more robust approach to goal achievement. As research continues to explore its long-term effects and interactions with other techniques, Mental Contrasting is likely to play an increasingly important role in promoting effective goal pursuit across diverse contexts.
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Goal-Setting Theory]]
+**Contrasts with:** [[goal-setting-theory]]
 
-**Applies to:** [[Implementation Intentions]]
+**Applies to:** [[implementation-intentions]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

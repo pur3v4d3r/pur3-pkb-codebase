@@ -35,12 +35,12 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Explanation]]"
+  - "[[working-memory]]"
+  - "[[self-explanation]]"
   - "[[Summarization]]"
-  - "[[Reciprocal Teaching]]"
+  - "[[reciprocal-teaching]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,12 +48,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Explanation]]"
+  - "[[self-explanation]]"
   - "[[Summarization]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Reciprocal Teaching]]"
+  - "[[reciprocal-teaching]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Fix-Up Strategy
 
 > [!definition] **Fix-Up Strategy**
-> A fix-up strategy is a specific type of metacognitive action employed by readers to address comprehension issues, such as rereading or looking up information. It falls under [[Cognitive Architecture]], focusing on the reactive measures taken during reading to restore understanding.
+> A fix-up strategy is a specific type of metacognitive action employed by readers to address comprehension issues, such as rereading or looking up information. It falls under [[cognitive-architecture]], focusing on the reactive measures taken during reading to restore understanding.
 
 > [!attention] **Boundary**
 > This concept excludes anticipatory strategies and planning techniques used before reading begins. It also does not encompass the broader cognitive architecture but focuses on the reactive measures taken during reading.
@@ -134,12 +134,12 @@ Fix-up strategies are crucial for maintaining and restoring comprehension during
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Self-Explanation]] · [[Summarization]]
+**Contrasts with:** [[self-explanation]] · [[Summarization]]
 
-**Applies to:** [[Reciprocal Teaching]]
+**Applies to:** [[reciprocal-teaching]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

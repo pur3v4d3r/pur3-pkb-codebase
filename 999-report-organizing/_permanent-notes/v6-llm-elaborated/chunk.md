@@ -35,11 +35,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Schema Theory]]"
-  - "[[Pattern Recognition]]"
+  - "[[working-memory]]"
+  - "[[schema-theory]]"
+  - "[[pattern-recognition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,11 +47,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Pattern Recognition]]"
+  - "[[pattern-recognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Chunk
 
 > [!definition] **Chunk**
-> A chunk is a unit of information that the cognitive system treats as a single item against working memory's capacity limit, integrating co-occurring elements into an integrated whole through experience. It falls under [[Cognitive Architecture]], representing a foundational construct in understanding how expertise develops by allowing domain-typical configurations to be perceived as units rather than assemblies of parts.
+> A chunk is a unit of information that the cognitive system treats as a single item against working memory's capacity limit, integrating co-occurring elements into an integrated whole through experience. It falls under [[cognitive-architecture]], representing a foundational construct in understanding how expertise develops by allowing domain-typical configurations to be perceived as units rather than assemblies of parts.
 
 > [!attention] **Boundary**
 > Chunks are distinct from memorized lists and schemas; they represent integrated representations rather than mere associations or abstract frameworks.
@@ -131,12 +131,12 @@ The chunking theory also intersects with other concepts like pattern recognition
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Schema Theory]]
+**Contrasts with:** [[schema-theory]]
 
-**Applies to:** [[Pattern Recognition]]
+**Applies to:** [[pattern-recognition]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

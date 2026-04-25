@@ -33,18 +33,18 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Introjected Regulation]]"
-  - "[[Autonomous Motivation]]"
+  - "[[introjected-regulation]]"
+  - "[[autonomous-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Introjected Regulation]]"
+  - "[[introjected-regulation]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Autonomous Motivation]]"
+  - "[[autonomous-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -129,10 +129,10 @@ The broader implications of Conditional Regard extend beyond education into vari
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Specializes:** [[Introjected Regulation]]
+**Specializes:** [[introjected-regulation]]
 
-**Contrasts with:** [[Autonomous Motivation]]
+**Contrasts with:** [[autonomous-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

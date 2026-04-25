@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Self-Explanation
 
 > [!definition] **Self-Explanation**
-> Self-Explanation involves generating one's own explanations of presented material, such as worked examples or text passages, to articulate why steps were taken, how new ideas connect to prior knowledge, or what the underlying mechanisms are. It falls under [[Cognitive Architecture]], and differs from passive reading by requiring active cognitive engagement that surfaces schema gaps, triggers comprehension monitoring, and prevents fluency illusions.
+> Self-Explanation involves generating one's own explanations of presented material, such as worked examples or text passages, to articulate why steps were taken, how new ideas connect to prior knowledge, or what the underlying mechanisms are. It falls under [[cognitive-architecture]], and differs from passive reading by requiring active cognitive engagement that surfaces schema gaps, triggers comprehension monitoring, and prevents fluency illusions.
 
 > [!attention] **Boundary**
 > This concept excludes passive reading and re-stating content without generating inferences. It is distinct from verbal rehearsal and focuses on active cognitive engagement.
@@ -128,10 +128,10 @@ Self-Explanation is a crucial concept in cognitive psychology that enhances lear
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[self-explanation-synthetic-seed-2026-04-24]]

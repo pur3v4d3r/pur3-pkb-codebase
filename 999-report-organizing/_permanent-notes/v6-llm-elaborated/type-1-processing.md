@@ -2,6 +2,7 @@
 title: "Type 1 Processing"
 aliases:
   - "Type 1 Processing"
+  - "Type-1 Processing"
   - "Dual Process Theory"
   - "Two Systems Theory"
   - "System 1 and System 2"
@@ -36,10 +37,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[System 2 (Type 2) Processing]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -75,7 +76,7 @@ provenance:
 # Type 1 Processing
 
 > [!definition] **Type 1 Processing**
-> Type 1 processing refers to a style of cognitive processing characterized by autonomy from working-memory resources, parallel execution, automatic engagement, opacity to introspection, and outputs that feel like perceptions. It falls under [[Cognitive Architecture]], where it operates independently of the limited capacity of working memory, allowing for rapid and efficient information processing.
+> Type 1 processing refers to a style of cognitive processing characterized by autonomy from working-memory resources, parallel execution, automatic engagement, opacity to introspection, and outputs that feel like perceptions. It falls under [[cognitive-architecture]], where it operates independently of the limited capacity of working memory, allowing for rapid and efficient information processing.
 
 > [!attention] **Boundary**
 > This definition excludes conscious deliberation (System 2) and unconscious processes in the psychoanalytic sense. It also does not encompass all forms of expertise or intuition.
@@ -131,9 +132,9 @@ The significance of Type 1 processing extends beyond cognitive psychology into f
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[System 2 (Type 2) Processing]]
 

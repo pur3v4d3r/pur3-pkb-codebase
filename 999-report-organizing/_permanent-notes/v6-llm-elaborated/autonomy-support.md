@@ -34,24 +34,24 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Basic Psychological Needs]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Controlling Teaching Styles]]"
-  - "[[Internalization]]"
+  - "[[basic-psychological-needs]]"
+  - "[[self-determination-theory]]"
+  - "[[controlling-teaching-styles]]"
+  - "[[internalization]]"
 prerequisites:
-  - "[[Basic Psychological Needs]]"
+  - "[[basic-psychological-needs]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 contrasts-with:
-  - "[[Controlling Teaching Styles]]"
+  - "[[controlling-teaching-styles]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Internalization]]"
+  - "[[internalization]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Autonomy Support
 
 > [!definition] **Autonomy Support**
-> Autonomy Support is a practice within Self-Determination Theory that involves providing individuals with choice, rationale, and meaningful feedback while minimizing controlling language and rewards, thereby fostering internal motivation and well-being. It falls under [[Self-Determination Theory]], where it specifically aims to satisfy the autonomy need and support internalization rather than external compliance.
+> Autonomy Support is a practice within Self-Determination Theory that involves providing individuals with choice, rationale, and meaningful feedback while minimizing controlling language and rewards, thereby fostering internal motivation and well-being. It falls under [[self-determination-theory]], where it specifically aims to satisfy the autonomy need and support internalization rather than external compliance.
 
 > [!attention] **Boundary**
 > This concept excludes permissive teaching styles that lack structure or clear expectations. Autonomy Support is distinct from merely offering choices without guidance or feedback.
@@ -139,14 +139,14 @@ Autonomy Support has been shown to reliably predict higher levels of autonomous 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Prerequisites:** [[Basic Psychological Needs]]
+**Prerequisites:** [[basic-psychological-needs]]
 
-**Sibling concepts:** [[Self-Determination Theory]]
+**Sibling concepts:** [[self-determination-theory]]
 
-**Contrasts with:** [[Controlling Teaching Styles]]
+**Contrasts with:** [[controlling-teaching-styles]]
 
-**Applies to:** [[Internalization]]
+**Applies to:** [[internalization]]
 
 **Source:** [[autonomy-support-synthetic-seed-2026-04-24]]

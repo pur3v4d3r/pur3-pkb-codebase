@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Extrinsic Motivation"
 
 related:
-  - "[[Introjected Regulation]]"
-  - "[[Identified Regulation]]"
-  - "[[Integrated Regulation]]"
-  - "[[Autonomous Motivation]]"
+  - "[[introjected-regulation]]"
+  - "[[identified-regulation]]"
+  - "[[integrated-regulation]]"
+  - "[[autonomous-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Introjected Regulation]]"
-  - "[[Identified Regulation]]"
-  - "[[Integrated Regulation]]"
+  - "[[introjected-regulation]]"
+  - "[[identified-regulation]]"
+  - "[[integrated-regulation]]"
 contrasts-with:
-  - "[[Autonomous Motivation]]"
+  - "[[autonomous-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # External Regulation
 
 > [!definition] **External Regulation**
-> External regulation refers to behavior that is contingent on present external contingencies such as rewards or punishments. The behavior persists only while these contingencies are present and salient. It falls under [[Extrinsic Motivation]], where the person's actions are driven by external factors rather than internal desires or values.
+> External regulation refers to behavior that is contingent on present external contingencies such as rewards or punishments. The behavior persists only while these contingencies are present and salient. It falls under [[extrinsic-motivation]], where the person's actions are driven by external factors rather than internal desires or values.
 
 > [!attention] **Boundary**
 > This concept excludes internalized forms of motivation like introjection, identification, and integration, which involve the person's conscious endorsement of the regulation.
@@ -136,10 +136,10 @@ The broader implications of external regulation extend beyond education into wor
 
 ## Connections & Context
 
-**Falls under:** [[Extrinsic Motivation]]
+**Falls under:** [[extrinsic-motivation]]
 
-**Sibling concepts:** [[Introjected Regulation]] · [[Identified Regulation]] · [[Integrated Regulation]]
+**Sibling concepts:** [[introjected-regulation]] · [[identified-regulation]] · [[integrated-regulation]]
 
-**Contrasts with:** [[Autonomous Motivation]]
+**Contrasts with:** [[autonomous-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

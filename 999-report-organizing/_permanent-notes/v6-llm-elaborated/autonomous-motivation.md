@@ -37,19 +37,19 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Controlled Motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[self-determination-theory]]"
+  - "[[controlled-motivation]]"
 prerequisites:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Controlled Motivation]]"
+  - "[[controlled-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -77,7 +77,7 @@ provenance:
 # Autonomous Motivation
 
 > [!definition] **Autonomous Motivation**
-> Autonomous motivation refers to the regulation of behavior through processes experienced as volitional, self-endorsed, and emanating from the self, encompassing intrinsic motivation, integrated regulation, and identified regulation. Contrasted with controlled motivation, which operates through processes experienced as pressured or externally imposed, autonomous motivation is not identical to intrinsic motivation; identified and integrated regulation are autonomous but extrinsic — the behavior serves a valued goal rather than being performed for inherent enjoyment. It falls under [[Motivational Psychology]].
+> Autonomous motivation refers to the regulation of behavior through processes experienced as volitional, self-endorsed, and emanating from the self, encompassing intrinsic motivation, integrated regulation, and identified regulation. Contrasted with controlled motivation, which operates through processes experienced as pressured or externally imposed, autonomous motivation is not identical to intrinsic motivation; identified and integrated regulation are autonomous but extrinsic — the behavior serves a valued goal rather than being performed for inherent enjoyment. It falls under [[motivational-psychology]].
 
 > [!attention] **Boundary**
 > It is not identical to intrinsic motivation; identified and integrated regulation are autonomous but extrinsic — the behavior serves a valued goal rather than being performed for inherent enjoyment.
@@ -137,12 +137,12 @@ The broader implications of autonomous motivation extend beyond education, healt
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Prerequisites:** [[Intrinsic Motivation]]
+**Prerequisites:** [[intrinsic-motivation]]
 
-**Generalizes to:** [[Self-Determination Theory]]
+**Generalizes to:** [[self-determination-theory]]
 
-**Contrasts with:** [[Controlled Motivation]]
+**Contrasts with:** [[controlled-motivation]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

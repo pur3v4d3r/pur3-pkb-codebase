@@ -37,7 +37,7 @@ parent-concept: "Debugging"
 
 related:
   - "[[Exception Handling]]"
-  - "[[Breakpoint]]"
+  - "[[breakpoint]]"
   - "[[Error Types (SyntaxError, NameError, TypeError, ImportError)]]"
 prerequisites:
   - "[[Exception Handling]]"
@@ -46,7 +46,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Breakpoint]]"
+  - "[[breakpoint]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -76,7 +76,7 @@ provenance:
 # Traceback
 
 > [!definition] **Traceback**
-> A traceback is a diagnostic output produced by Python when an unhandled exception occurs during script execution, indicating the sequence of function invocations at the moment of error and providing details about the specific problem encountered. It falls under [[Debugging]], as it helps in identifying where errors occur but does not necessarily pinpoint their origin.
+> A traceback is a diagnostic output produced by Python when an unhandled exception occurs during script execution, indicating the sequence of function invocations at the moment of error and providing details about the specific problem encountered. It falls under [[debugging]], as it helps in identifying where errors occur but does not necessarily pinpoint their origin.
 
 > [!attention] **Boundary**
 > A traceback reports where an error was detected but not necessarily where it was introduced. It does not include information on how to fix the issue or the exact cause of the error.
@@ -135,11 +135,11 @@ Tracebacks are not just diagnostic tools but also form the basis of broader debu
 
 ## Connections & Context
 
-**Falls under:** [[Debugging]]
+**Falls under:** [[debugging]]
 
 **Prerequisites:** [[Exception Handling]]
 
-**Sibling concepts:** [[Breakpoint]]
+**Sibling concepts:** [[breakpoint]]
 
 **Applies to:** [[Error Types (SyntaxError, NameError, TypeError, ImportError)]]
 

@@ -1,0 +1,41 @@
+concept: Motivated Strategies for Learning Questionnaire MSLQ
+domain: educational-psychology
+secondary_domains:
+- self-regulated-learning
+- psychometrics
+aliases:
+- MSLQ
+- Pintrich MSLQ
+broader:
+- educational-assessment-instrument
+related:
+- self-regulated-learning
+- pintrich-s-4-4-matrix
+- cognitive-strategy-use
+- metacognitive-strategy
+- self-efficacy
+prerequisites:
+- self-regulated-learning
+- educational-assessment
+confidence: high
+callouts:
+- type: definition
+  title: Motivated Strategies for Learning Questionnaire MSLQ
+  body: The Motivated Strategies for Learning Questionnaire MSLQ is a self-report
+    instrument developed by Pintrich and colleagues that assesses college students'
+    motivational orientations and use of cognitive, metacognitive, and resource-management
+    strategies across 81 items organised into 15 sub-scales.
+- type: key-claim
+  title: Key claim about Motivated Strategies for Learning Questionnaire MSLQ
+  body: The Motivated Strategies for Learning Questionnaire MSLQ is the most widely
+    used assessment in self-regulated-learning research and has been translated into
+    dozens of languages, providing the empirical bridge between Pintrich's theoretical
+    SRL model and decades of correlational and intervention studies.
+- type: warning
+  title: Common pitfall regarding Motivated Strategies for Learning Questionnaire
+    MSLQ
+  body: The Motivated Strategies for Learning Questionnaire MSLQ is a self-report
+    instrument and shares the well-documented limitations of self-report — desirability
+    bias, limited insight into automatic processes, course-context confounds — so
+    Motivated Strategies for Learning Questionnaire MSLQ scores should not be treated
+    as direct measurements of strategy use without behavioural triangulation.

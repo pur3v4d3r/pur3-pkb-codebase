@@ -33,23 +33,23 @@ depth-level: elaborated
 parent-concept: "Executive Function"
 
 related:
-  - "[[Working Memory Capacity]]"
-  - "[[Cognitive Flexibility]]"
-  - "[[Self-Regulation]]"
+  - "[[working-memory-capacity]]"
+  - "[[cognitive-flexibility]]"
+  - "[[self-regulation]]"
 prerequisites:
-  - "[[Working Memory Capacity]]"
+  - "[[working-memory-capacity]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Flexibility]]"
+  - "[[cognitive-flexibility]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Regulation]]"
+  - "[[self-regulation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Inhibitory Control
 
 > [!definition] **Inhibitory Control**
-> Inhibitory Control refers to the ability to suppress pre-potent or automatic responses in favor of goal-relevant ones, encompassing both behavioral response inhibition (stopping an action) and cognitive interference control (suppressing irrelevant information). It falls under [[Executive Function]], which includes other executive functions like working memory capacity and cognitive flexibility.
+> Inhibitory Control refers to the ability to suppress pre-potent or automatic responses in favor of goal-relevant ones, encompassing both behavioral response inhibition (stopping an action) and cognitive interference control (suppressing irrelevant information). It falls under [[executive-function]], which includes other executive functions like working memory capacity and cognitive flexibility.
 
 > [!attention] **Boundary**
 > This concept stops at the executive function level and does not include other aspects of cognition like perception or sensory processing.
@@ -137,12 +137,12 @@ Empirical evidence supports the role of Inhibitory Control in various self-regul
 
 ## Connections & Context
 
-**Falls under:** [[Executive Function]]
+**Falls under:** [[executive-function]]
 
-**Prerequisites:** [[Working Memory Capacity]]
+**Prerequisites:** [[working-memory-capacity]]
 
-**Sibling concepts:** [[Cognitive Flexibility]]
+**Sibling concepts:** [[cognitive-flexibility]]
 
-**Applies to:** [[Self-Regulation]]
+**Applies to:** [[self-regulation]]
 
 **Source:** [[inhibitory-control-synthetic-seed-2026-04-25]]

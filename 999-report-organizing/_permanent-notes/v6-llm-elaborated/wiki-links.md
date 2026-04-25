@@ -133,7 +133,7 @@ The use of Wiki Links also aligns with broader principles in cognitive science, 
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
 **Generalizes to:** [[Hypertext]]
 

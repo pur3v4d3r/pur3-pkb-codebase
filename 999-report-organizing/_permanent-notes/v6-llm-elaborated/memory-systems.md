@@ -32,18 +32,18 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Declarative Memory]]"
-  - "[[Non-Declarative Memory]]"
+  - "[[working-memory]]"
+  - "[[declarative-memory]]"
+  - "[[non-declarative-memory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Declarative Memory]]"
-  - "[[Non-Declarative Memory]]"
+  - "[[declarative-memory]]"
+  - "[[non-declarative-memory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -73,7 +73,7 @@ provenance:
 # Memory Systems
 
 > [!definition] **Memory Systems**
-> Memory Systems refers to the theoretical framework that posits human memory as a coordinated set of dissociable subsystems, each with its own neural substrate, encoding rules, and forgetting dynamics. It falls under [[Cognitive Architecture]], treating memory not as a single faculty but as a system-specific design choice.
+> Memory Systems refers to the theoretical framework that posits human memory as a coordinated set of dissociable subsystems, each with its own neural substrate, encoding rules, and forgetting dynamics. It falls under [[cognitive-architecture]], treating memory not as a single faculty but as a system-specific design choice.
 
 > [!attention] **Boundary**
 > This concept excludes individual memory components like sensory or short-term memory but includes their interaction during normal cognition. It should not be confused with specific memory types such as episodic or semantic memory.
@@ -137,10 +137,10 @@ Supporting evidence for Memory Systems theory comes from neuropsychological stud
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Declarative Memory]] · [[Non-Declarative Memory]]
+**Sibling concepts:** [[declarative-memory]] · [[non-declarative-memory]]
 
 **Source:** [[memory-systems-synthetic-seed-2026-04-24]]

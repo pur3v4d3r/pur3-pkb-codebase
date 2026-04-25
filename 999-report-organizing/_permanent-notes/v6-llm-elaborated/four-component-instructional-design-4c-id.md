@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Four-Component Instructional Design (4C/ID)
 
 > [!definition] **Four-Component Instructional Design (4C/ID)**
-> The Four-Component Instructional Design (4C/ID) is a holistic model that organizes instruction around four interrelated components: learning tasks, supportive information, procedural information, and part-task practice. It falls under [[Instructional-Design]], focusing on teaching complex cognitive skills characterized by high element interactivity and the coordination of multiple constituent skill components. This model does not address general-purpose curriculum frameworks or theories of learning beyond its specific scope.
+> The Four-Component Instructional Design (4C/ID) is a holistic model that organizes instruction around four interrelated components: learning tasks, supportive information, procedural information, and part-task practice. It falls under [[instructional-design]], focusing on teaching complex cognitive skills characterized by high element interactivity and the coordination of multiple constituent skill components. This model does not address general-purpose curriculum frameworks or theories of learning beyond its specific scope.
 
 > [!attention] **Boundary**
 > This model focuses on teaching complex cognitive skills characterized by high element interactivity and the coordination of multiple constituent skill components. It does not address general-purpose curriculum frameworks or theories of learning beyond its specific scope.
@@ -137,10 +137,10 @@ The 4C/ID model also contributes to the broader field of instructional design by
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

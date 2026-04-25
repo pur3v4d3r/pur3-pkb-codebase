@@ -35,9 +35,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Comprehension Monitoring]]"
+  - "[[comprehension-monitoring]]"
   - "[[Fix-Up Strategies]]"
-  - "[[Reciprocal Teaching]]"
+  - "[[reciprocal-teaching]]"
   - "[[Construction-Integration Model]]"
 prerequisites:
   - "[[]]"
@@ -46,14 +46,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Comprehension Monitoring]]"
+  - "[[comprehension-monitoring]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
   - "[[Fix-Up Strategies]]"
-  - "[[Reciprocal Teaching]]"
+  - "[[reciprocal-teaching]]"
   - "[[Construction-Integration Model]]"
 formalizes:
   - "[[]]"
@@ -78,7 +78,7 @@ provenance:
 # The Central Diagnostic Phenomenon
 
 > [!definition] **The Central Diagnostic Phenomenon**
-> The Central Diagnostic Phenomenon refers to silent comprehension failures that produce an unwarranted sense of understanding, preventing necessary regulatory responses like rereading or asking questions. It falls under [[Self-Regulated Learning]], focusing on the failure of monitoring during reading rather than explicit comprehension errors.
+> The Central Diagnostic Phenomenon refers to silent comprehension failures that produce an unwarranted sense of understanding, preventing necessary regulatory responses like rereading or asking questions. It falls under [[self-regulated-learning]], focusing on the failure of monitoring during reading rather than explicit comprehension errors.
 
 > [!attention] **Boundary**
 > This concept focuses on silent comprehension failures and does not include explicit comprehension errors or difficulties in decoding text. It is distinct from general cognitive processes but is closely related to metacognition and self-regulated learning.
@@ -137,10 +137,10 @@ Understanding this phenomenon also has broader implications for educational prac
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Comprehension Monitoring]]
+**Sibling concepts:** [[comprehension-monitoring]]
 
-**Applies to:** [[Fix-Up Strategies]] · [[Reciprocal Teaching]] · [[Construction-Integration Model]]
+**Applies to:** [[Fix-Up Strategies]] · [[reciprocal-teaching]] · [[Construction-Integration Model]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

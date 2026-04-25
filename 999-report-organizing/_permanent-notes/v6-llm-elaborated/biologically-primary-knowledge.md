@@ -74,7 +74,7 @@ provenance:
 # Biologically Primary Knowledge
 
 > [!definition] **Biologically Primary Knowledge**
-> Biologically primary knowledge refers to specialized cognitive systems humans have evolved for certain domains such as face recognition and native language acquisition, which operate through mechanisms distinct from standard schema construction. It falls under [[Cognitive Architecture]], where it is distinguished by its evolutionary basis and the bypassing of the standard schema-construction loop.
+> Biologically primary knowledge refers to specialized cognitive systems humans have evolved for certain domains such as face recognition and native language acquisition, which operate through mechanisms distinct from standard schema construction. It falls under [[cognitive-architecture]], where it is distinguished by its evolutionary basis and the bypassing of the standard schema-construction loop.
 
 > [!attention] **Boundary**
 > This concept excludes general learning processes and focuses on specific, evolutionarily adapted cognitive functions. It should not be confused with intrinsic load in cognitive load theory, which pertains to the inherent difficulty of tasks within a domain.
@@ -133,7 +133,7 @@ The study of biologically primary knowledge intersects with other domains such a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Contrasts with:** [[Schema Construction Loop]] · [[Intrinsic Load]]
 

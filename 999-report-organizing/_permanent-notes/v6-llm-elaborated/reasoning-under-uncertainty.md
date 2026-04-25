@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Heuristics and Biases]]"
-  - "[[Probabilistic Thinking]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[heuristics-and-biases]]"
+  - "[[probabilistic-thinking]]"
+  - "[[bayesian-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,13 +45,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Heuristics and Biases]]"
+  - "[[heuristics-and-biases]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Probabilistic Thinking]]"
+  - "[[probabilistic-thinking]]"
 formalizes:
-  - "[[Bayesian Reasoning]]"
+  - "[[bayesian-reasoning]]"
 instance-of:
   - "[[]]"
 supports:
@@ -73,7 +73,7 @@ provenance:
 # Reasoning Under Uncertainty
 
 > [!definition] **Reasoning Under Uncertainty**
-> Reasoning Under Uncertainty refers to the cognitive processes by which individuals make inferences and decisions when faced with uncertain or incomplete information, encompassing both formal probabilistic reasoning and heuristic shortcuts; it falls under [[Cognitive Architecture]].
+> Reasoning Under Uncertainty refers to the cognitive processes by which individuals make inferences and decisions when faced with uncertain or incomplete information, encompassing both formal probabilistic reasoning and heuristic shortcuts; it falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept encompasses both formal probabilistic reasoning and heuristic shortcuts, but excludes deterministic decision-making under full certainty.
@@ -135,12 +135,12 @@ This concept also bridges the gap between formal probabilistic reasoning and heu
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Heuristics and Biases]]
+**Contrasts with:** [[heuristics-and-biases]]
 
-**Applies to:** [[Probabilistic Thinking]]
+**Applies to:** [[probabilistic-thinking]]
 
-**Formalizes:** [[Bayesian Reasoning]]
+**Formalizes:** [[bayesian-reasoning]]
 
 **Source:** [[reasoning-under-uncertainty-synthetic-seed-2026-04-25]]

@@ -33,7 +33,7 @@ parent-concept: "Epistemology"
 
 related:
   - "[[Open-Mindedness]]"
-  - "[[Fallibilism]]"
+  - "[[fallibilism]]"
 prerequisites:
   - "[[Open-Mindedness]]"
 specializes:
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Fallibilism]]"
+  - "[[fallibilism]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -141,6 +141,6 @@ Empirical studies have consistently shown that individuals who exhibit Intellect
 
 **Prerequisites:** [[Open-Mindedness]]
 
-**Sibling concepts:** [[Fallibilism]]
+**Sibling concepts:** [[fallibilism]]
 
 **Source:** [[intellectual-humility-synthetic-seed-2026-04-24]]

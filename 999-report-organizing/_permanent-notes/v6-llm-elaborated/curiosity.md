@@ -33,23 +33,23 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Cognitive-Disequilibrium]]"
-  - "[[Situational-Interest]]"
-  - "[[Intrinsic-Motivation]]"
+  - "[[cognitive-disequilibrium]]"
+  - "[[situational-interest]]"
+  - "[[intrinsic-motivation]]"
 prerequisites:
-  - "[[Cognitive-Disequilibrium]]"
+  - "[[cognitive-disequilibrium]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Situational-Interest]]"
+  - "[[situational-interest]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Intrinsic-Motivation]]"
+  - "[[intrinsic-motivation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Curiosity
 
 > [!definition] **Curiosity**
-> Curiosity is a motivational state that drives attention and effort towards acquiring information, particularly when there is an awareness of a gap between current knowledge and desired understanding. It falls under [[Motivational Psychology]], where it is most powerfully evoked by manageable knowledge gaps — Loewenstein's information-gap hypothesis predicts an inverted-U over the size of the gap.
+> Curiosity is a motivational state that drives attention and effort towards acquiring information, particularly when there is an awareness of a gap between current knowledge and desired understanding. It falls under [[motivational-psychology]], where it is most powerfully evoked by manageable knowledge gaps — Loewenstein's information-gap hypothesis predicts an inverted-U over the size of the gap.
 
 > [!attention] **Boundary**
 > This definition excludes other forms of motivation like intrinsic or extrinsic rewards but focuses on the specific drive to acquire new information.
@@ -128,7 +128,7 @@ The mechanism of perceptual and epistemic curiosity involves cognitive disequili
 
 Understanding curiosity is crucial for effective educational practices because it directly influences how students engage with and retain information. By leveraging perceptual and epistemic curiosity, educators can create more dynamic and engaging learning environments that foster deeper understanding and long-term retention of knowledge.
 
-Curiosity also connects to broader concepts in [[Educational Psychology]], such as intrinsic motivation and cognitive disequilibrium. Recognizing the state-dependent nature of curiosity helps educators design interventions that are tailored to specific learning contexts, ultimately enhancing overall educational outcomes.
+Curiosity also connects to broader concepts in [[educational-psychology]], such as intrinsic motivation and cognitive disequilibrium. Recognizing the state-dependent nature of curiosity helps educators design interventions that are tailored to specific learning contexts, ultimately enhancing overall educational outcomes.
 
 ## Evidence
 
@@ -136,12 +136,12 @@ Empirical evidence supports the idea that curiosity is most powerfully evoked by
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Prerequisites:** [[Cognitive-Disequilibrium]]
+**Prerequisites:** [[cognitive-disequilibrium]]
 
-**Sibling concepts:** [[Situational-Interest]]
+**Sibling concepts:** [[situational-interest]]
 
-**Applies to:** [[Intrinsic-Motivation]]
+**Applies to:** [[intrinsic-motivation]]
 
 **Source:** [[curiosity-synthetic-seed-2026-04-25]]

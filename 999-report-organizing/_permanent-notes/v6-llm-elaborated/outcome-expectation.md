@@ -35,13 +35,13 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
   - "[[Efficacy Expectation]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 broader:
   - "[[]]"
 see-also:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Outcome Expectation
 
 > [!definition] **Outcome Expectation**
-> Outcome expectation refers to the belief that a specific behavior will produce a particular outcome, distinct from the belief in one's ability to perform the behavior. It falls under [[Self-Regulated Learning]], where it plays a crucial role in predicting how individuals will respond to different behaviors based on their anticipated outcomes.
+> Outcome expectation refers to the belief that a specific behavior will produce a particular outcome, distinct from the belief in one's ability to perform the behavior. It falls under [[self-regulated-learning]], where it plays a crucial role in predicting how individuals will respond to different behaviors based on their anticipated outcomes.
 
 > [!attention] **Boundary**
 > This concept is about the prediction of outcomes based on behaviors and does not include efficacy expectations or self-regulation mechanisms.
@@ -134,12 +134,12 @@ The broader implications of this concept extend beyond educational settings into
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Specializes:** [[Self-Efficacy]]
+**Specializes:** [[self-efficacy]]
 
 **Contrasts with:** [[Efficacy Expectation]]
 
-**Applies to:** [[Expectancy-Value Theory]]
+**Applies to:** [[expectancy-value-theory]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

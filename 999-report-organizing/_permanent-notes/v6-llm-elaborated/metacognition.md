@@ -35,16 +35,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[working-memory]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Metacognition
 
 > [!definition] **Metacognition**
-> Metacognition involves the processes by which an individual monitors, evaluates, and regulates their own thinking, encompassing knowledge about one's cognitive processes, online sensations during cognitive activity, and control of cognitive activities through planning, monitoring, and evaluation. It falls under [[Cognitive Architecture]], as it provides a framework for understanding how individuals manage their cognitive resources effectively.
+> Metacognition involves the processes by which an individual monitors, evaluates, and regulates their own thinking, encompassing knowledge about one's cognitive processes, online sensations during cognitive activity, and control of cognitive activities through planning, monitoring, and evaluation. It falls under [[cognitive-architecture]], as it provides a framework for understanding how individuals manage their cognitive resources effectively.
 
 > [!attention] **Boundary**
 > Metacognition is not synonymous with consciousness, intelligence, executive function, or self-awareness more broadly; it specifically refers to the assessment and regulation of one's own cognitive processes.
@@ -134,10 +134,10 @@ The importance of metacognition extends to its transferability across different 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

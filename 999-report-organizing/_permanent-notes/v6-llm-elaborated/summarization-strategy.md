@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Learning Strategies"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Summarization Strategy
 
 > [!definition] **Summarization Strategy**
-> The Summarization Strategy involves writing a condensed restatement of text in one's own words, capturing main ideas and their relationships, which enhances comprehension and retention. It falls under [[Learning Strategies]], focusing on the process of forced selection and reformulation to test understanding rather than verbatim copying or highlighting.
+> The Summarization Strategy involves writing a condensed restatement of text in one's own words, capturing main ideas and their relationships, which enhances comprehension and retention. It falls under [[learning-strategies]], focusing on the process of forced selection and reformulation to test understanding rather than verbatim copying or highlighting.
 
 > [!attention] **Boundary**
 > This concept excludes the use of verbatim copying or highlighting as ineffective summarization techniques. It focuses on the process of forced selection and reformulation to test understanding.
@@ -83,7 +83,7 @@ The Summarization Strategy is a powerful learning technique that involves rewrit
 
 In practice, this technique operates as a form of self-explanation, where learners must articulate the relationships between different pieces of information. This process is akin to a comprehension test masquerading as a study activity, exposing any gaps in understanding that might be hidden when simply re-reading the text. The learner's ability to condense and reformulate the material into their own words serves as an indicator of true mastery.
 
-Theoretical roots of this strategy can be traced back to cognitive load theory, which posits that working memory has limited capacity. Summarization helps manage intrinsic (inherent) and extraneous (unnecessary) loads by focusing on essential information while reducing the cognitive burden associated with unnecessary details. This aligns with the concept of [[Working Memory]], where summarization aids in processing and retaining complex information.
+Theoretical roots of this strategy can be traced back to cognitive load theory, which posits that working memory has limited capacity. Summarization helps manage intrinsic (inherent) and extraneous (unnecessary) loads by focusing on essential information while reducing the cognitive burden associated with unnecessary details. This aligns with the concept of [[working-memory]], where summarization aids in processing and retaining complex information.
 
 Empirical evidence supports the effectiveness of this strategy, particularly when compared to passive reading or highlighting. Studies have shown that students who use summarization techniques tend to perform better on tests and retain more information over time. This is because summarizing forces learners to engage actively with the material, leading to deeper understanding and improved retention.
 
@@ -122,16 +122,16 @@ The Summarization Strategy operates through a process of forced selection and re
 
 ## Synthesis
 
-The Summarization Strategy is a critical component of effective learning strategies, particularly within the broader domain of [[Learning Strategies]]. By engaging learners in active processing and deepening their understanding through forced selection and reformulation, this technique enhances both comprehension and retention. Its integration into instructional design and self-study practices can significantly improve educational outcomes, making it an indispensable tool for educators and students alike.
+The Summarization Strategy is a critical component of effective learning strategies, particularly within the broader domain of [[learning-strategies]]. By engaging learners in active processing and deepening their understanding through forced selection and reformulation, this technique enhances both comprehension and retention. Its integration into instructional design and self-study practices can significantly improve educational outcomes, making it an indispensable tool for educators and students alike.
 
 Moreover, the Summarization Strategy aligns with cognitive load theory by managing intrinsic and extraneous loads effectively. This alignment underscores its importance in optimizing learning processes and supports broader applications across various educational settings.
 
 ## Connections & Context
 
-**Falls under:** [[Learning Strategies]]
+**Falls under:** [[learning-strategies]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[summarization-strategy-synthetic-seed-2026-04-25]]

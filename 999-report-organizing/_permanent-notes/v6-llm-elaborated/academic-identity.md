@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Concept]]"
+  - "[[self-concept]]"
   - "[[Possible-Selves]]"
-  - "[[Situated Learning Theory]]"
+  - "[[situated-learning-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Concept]]"
+  - "[[self-concept]]"
 contrasts-with:
   - "[[Possible-Selves]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Situated Learning Theory]]"
+  - "[[situated-learning-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Academic Identity
 
 > [!definition] **Academic Identity**
-> Academic Identity refers to the extent to which an individual perceives themselves as a learner, scholar, or member of a particular academic discipline, encompassing felt belonging, perceived competence, and projected future self. It falls under [[Self-Regulated Learning]], where it is among the strongest predictors of long-run educational persistence above and beyond ability and prior achievement.
+> Academic Identity refers to the extent to which an individual perceives themselves as a learner, scholar, or member of a particular academic discipline, encompassing felt belonging, perceived competence, and projected future self. It falls under [[self-regulated-learning]], where it is among the strongest predictors of long-run educational persistence above and beyond ability and prior achievement.
 
 > [!attention] **Boundary**
 > This concept excludes other aspects of identity not related to academic contexts, such as personal identity or social identity outside educational settings.
@@ -135,12 +135,12 @@ The integration of Academic Identity into broader educational frameworks highlig
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Concept]]
+**Sibling concepts:** [[self-concept]]
 
 **Contrasts with:** [[Possible-Selves]]
 
-**Applies to:** [[Situated Learning Theory]]
+**Applies to:** [[situated-learning-theory]]
 
 **Source:** [[academic-identity-synthetic-seed-2026-04-25]]

@@ -35,12 +35,12 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Metacognitive Monitoring]]"
-  - "[[Fluency Illusion]]"
-  - "[[Reciprocal Teaching]]"
+  - "[[working-memory]]"
+  - "[[metacognitive-monitoring]]"
+  - "[[fluency-illusion]]"
+  - "[[reciprocal-teaching]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,12 +48,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Metacognitive Monitoring]]"
-  - "[[Fluency Illusion]]"
+  - "[[metacognitive-monitoring]]"
+  - "[[fluency-illusion]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Reciprocal Teaching]]"
+  - "[[reciprocal-teaching]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Knowledge of Cognition
 
 > [!definition] **Knowledge of Cognition**
-> Knowledge of cognition is the durable, long-term-memory representation a learner carries about cognitive functioning, partitioned into person, task, and strategy knowledge. It falls under [[Self-Regulated Learning]], providing the foundation for strategic reading but distinct from real-time regulation of cognition or introspective accuracy in laboratory settings.
+> Knowledge of cognition is the durable, long-term-memory representation a learner carries about cognitive functioning, partitioned into person, task, and strategy knowledge. It falls under [[self-regulated-learning]], providing the foundation for strategic reading but distinct from real-time regulation of cognition or introspective accuracy in laboratory settings.
 
 > [!attention] **Boundary**
 > It does not include real-time regulation of cognition or introspective accuracy in laboratory settings. It is distinct from metacognitive monitoring alone, which must be grounded in this knowledge base to produce strategic reading.
@@ -136,12 +136,12 @@ This concept also has broader implications across cognitive psychology and educa
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Metacognitive Monitoring]] · [[Fluency Illusion]]
+**Contrasts with:** [[metacognitive-monitoring]] · [[fluency-illusion]]
 
-**Applies to:** [[Reciprocal Teaching]]
+**Applies to:** [[reciprocal-teaching]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

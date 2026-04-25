@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Learning Strategies
 
 > [!definition] **Learning Strategies**
-> Learning Strategies are deliberate techniques learners use to acquire, organize, and consolidate knowledge, including practices like retrieval practice and spaced review, falling under the broader umbrella of [[Self-Regulated Learning]].
+> Learning Strategies are deliberate techniques learners use to acquire, organize, and consolidate knowledge, including practices like retrieval practice and spaced review, falling under the broader umbrella of [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This includes specific techniques such as elaborative interrogation and self-explanation but excludes broader concepts like the principles of learning or cognitive architectures.
@@ -130,10 +130,10 @@ Understanding the nuances of these strategies is essential for educators and lea
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[learning-strategies-synthetic-seed-2026-04-24]]

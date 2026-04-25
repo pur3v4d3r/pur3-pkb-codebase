@@ -2,6 +2,7 @@
 title: "Social Cognitive Theory"
 aliases:
   - "Social Cognitive Theory"
+  - "Social-Cognitive Theory"
   - "Bandura social cognitive theory"
   - "SCT"
 type: permanent-note
@@ -33,13 +34,13 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
   - "[[Behaviorism]]"
   - "[[Cognitive Processing Theory]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Self-Efficacy Theory]]"
+  - "[[self-efficacy-theory]]"
 broader:
   - "[[]]"
 see-also:
@@ -74,7 +75,7 @@ provenance:
 # Social Cognitive Theory
 
 > [!definition] **Social Cognitive Theory**
-> Social Cognitive Theory, developed by Albert Bandura, is an integrated framework that explains how people learn through the interaction of personal factors (cognition), environmental influences, and behavioral responses in a triadic reciprocal process. It falls under [[Cognitive Architecture]], emphasizing the bidirectional interactions between cognition, behavior, and environment rather than reducing human agency to any single factor.
+> Social Cognitive Theory, developed by Albert Bandura, is an integrated framework that explains how people learn through the interaction of personal factors (cognition), environmental influences, and behavioral responses in a triadic reciprocal process. It falls under [[cognitive-architecture]], emphasizing the bidirectional interactions between cognition, behavior, and environment rather than reducing human agency to any single factor.
 
 > [!attention] **Boundary**
 > This theory excludes purely behaviorist or cognitive approaches, focusing instead on the bidirectional interactions between cognition, behavior, and environment. It does not reduce human agency to any single factor but rather emphasizes their interdependence.
@@ -131,9 +132,9 @@ Social Cognitive Theory matters because it offers a comprehensive framework for 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Specializes:** [[Self-Efficacy Theory]]
+**Specializes:** [[self-efficacy-theory]]
 
 **Contrasts with:** [[Behaviorism]] · [[Cognitive Processing Theory]]
 

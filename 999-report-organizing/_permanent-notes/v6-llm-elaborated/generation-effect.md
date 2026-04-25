@@ -30,10 +30,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,7 +45,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -69,7 +69,7 @@ provenance:
 # Generation Effect
 
 > [!definition] **Generation Effect**
-> The Generation Effect is the finding that information a learner produces themselves — by completing, predicting, or constructing it — is remembered better than equivalent information that is simply read or copied. This phenomenon falls under [[Cognitive Architecture]], as it highlights how deep cognitive engagement during encoding significantly impacts retention.
+> The Generation Effect is the finding that information a learner produces themselves — by completing, predicting, or constructing it — is remembered better than equivalent information that is simply read or copied. This phenomenon falls under [[cognitive-architecture]], as it highlights how deep cognitive engagement during encoding significantly impacts retention.
 
 > [!attention] **Boundary**
 > This concept focuses on the encoding process and its impact on retention. It does not cover other aspects of memory such as retrieval or long-term storage mechanisms.
@@ -128,10 +128,10 @@ The Generation Effect is closely related to working memory, as both concepts hig
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[generation-effect-synthetic-seed-2026-04-24]]

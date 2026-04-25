@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Problem-Based Learning]]"
-  - "[[Worked Examples]]"
+  - "[[problem-based-learning]]"
+  - "[[worked-examples]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Problem-Based Learning]]"
+  - "[[problem-based-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Case-Based Learning
 
 > [!definition] **Case-Based Learning**
-> Case-Based Learning (CBL) involves learners reasoning about authentic cases through structured discussions to build abstracted-relational schemas for transferable knowledge. It falls under [[Instructional Design]], focusing specifically on the use of case studies in building schema construction and transfer, rather than rote memorization or lecture-based instruction.
+> Case-Based Learning (CBL) involves learners reasoning about authentic cases through structured discussions to build abstracted-relational schemas for transferable knowledge. It falls under [[instructional-design]], focusing specifically on the use of case studies in building schema construction and transfer, rather than rote memorization or lecture-based instruction.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of learning such as rote memorization or lecture-based instruction, focusing specifically on the use of case studies in building schema construction and transfer.
@@ -131,10 +131,10 @@ The concept of CBL also intersects with other forms of experiential learning, su
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Contrasts with:** [[Problem-Based Learning]]
+**Contrasts with:** [[problem-based-learning]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[case-based-learning-synthetic-seed-2026-04-25]]

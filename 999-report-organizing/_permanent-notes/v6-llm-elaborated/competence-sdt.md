@@ -37,9 +37,9 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Self-Efficacy]]"
-  - "[[Autonomy Support]]"
+  - "[[intrinsic-motivation]]"
+  - "[[self-efficacy]]"
+  - "[[autonomy-support]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,13 +47,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomy Support]]"
+  - "[[autonomy-support]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Competence
 
 > [!definition] **Competence**
-> Competence in Self-Determination Theory (SDT) refers to the subjective experience of effectiveness and the ability to navigate one's environment successfully. It is a foundational need that contributes to overall well-being and intrinsic motivation, falling under [[Self-Determination Theory]]. Competence is not equivalent to self-efficacy, which is task-specific; instead, it represents a more generalized sense of personal efficacy relevant across various domains.
+> Competence in Self-Determination Theory (SDT) refers to the subjective experience of effectiveness and the ability to navigate one's environment successfully. It is a foundational need that contributes to overall well-being and intrinsic motivation, falling under [[self-determination-theory]]. Competence is not equivalent to self-efficacy, which is task-specific; instead, it represents a more generalized sense of personal efficacy relevant across various domains.
 
 > [!attention] **Boundary**
 > Competence as defined here does not equate to self-efficacy, which is task-specific, but rather a more generalized sense of personal efficacy relevant across various domains. It should not be confused with measured skill levels or objective performance metrics.
@@ -140,12 +140,12 @@ The importance of competence extends beyond education into other domains such as
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Intrinsic Motivation]]
+**Sibling concepts:** [[intrinsic-motivation]]
 
-**Contrasts with:** [[Self-Efficacy]]
+**Contrasts with:** [[self-efficacy]]
 
-**Applies to:** [[Autonomy Support]]
+**Applies to:** [[autonomy-support]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

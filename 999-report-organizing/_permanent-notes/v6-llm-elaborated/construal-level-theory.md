@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Regulatory Focus Theory]]"
-  - "[[Motivational Psychology]]"
+  - "[[regulatory-focus-theory]]"
+  - "[[motivational-psychology]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Regulatory Focus Theory]]"
+  - "[[regulatory-focus-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Motivational Psychology]]"
+  - "[[motivational-psychology]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Construal Level Theory
 
 > [!definition] **Construal Level Theory**
-> Construal Level Theory (CLT), developed by Yaacov Trope and Nira Liberman, is a framework that explains how the abstractness of mental representations changes with perceived psychological distance — temporal, spatial, social, or hypothetical. This theory falls under [[Cognitive Psychology]], focusing on the systematic relationship between distance and representation abstractness, rather than concrete reasoning per se.
+> Construal Level Theory (CLT), developed by Yaacov Trope and Nira Liberman, is a framework that explains how the abstractness of mental representations changes with perceived psychological distance — temporal, spatial, social, or hypothetical. This theory falls under [[cognitive-psychology]], focusing on the systematic relationship between distance and representation abstractness, rather than concrete reasoning per se.
 
 > [!attention] **Boundary**
 > The theory focuses on psychological distance — temporal, spatial, social, or hypothetical — and its effect on construal level. It does not address concrete reasoning per se but rather the systematic relationship between distance and abstractness in mental representation.
@@ -126,16 +126,16 @@ The process by which CLT operates involves a shift in cognitive focus based on t
 
 ## Synthesis
 
-CLT is a powerful tool for understanding how psychological distance shapes our judgments and behaviors. By linking abstractness to mental representations, it provides a framework that can be applied across various domains such as instructional design, persuasion, and self-control. The theory's implications extend beyond individual decision-making to broader cognitive processes, making it an essential concept in [[Cognitive Psychology]].
+CLT is a powerful tool for understanding how psychological distance shapes our judgments and behaviors. By linking abstractness to mental representations, it provides a framework that can be applied across various domains such as instructional design, persuasion, and self-control. The theory's implications extend beyond individual decision-making to broader cognitive processes, making it an essential concept in [[cognitive-psychology]].
 
 Furthermore, CLT intersects with other theories like Regulatory Focus Theory, both dealing with goal-directed behavior but from different perspectives. By integrating these insights, we can gain a more comprehensive understanding of how people make decisions and manage their goals.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Contrasts with:** [[Regulatory Focus Theory]]
+**Contrasts with:** [[regulatory-focus-theory]]
 
-**Applies to:** [[Motivational Psychology]]
+**Applies to:** [[motivational-psychology]]
 
 **Source:** [[construal-level-theory-synthetic-seed-2026-04-25]]

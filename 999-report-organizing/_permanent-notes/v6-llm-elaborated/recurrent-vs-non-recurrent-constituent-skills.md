@@ -36,11 +36,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Automaticity]]"
-  - "[[Deliberate Practice]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[automaticity]]"
+  - "[[deliberate-practice]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Automaticity]]"
+  - "[[automaticity]]"
 specializes:
   - "[[]]"
 broader:
@@ -52,13 +52,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Deliberate Practice]]"
+  - "[[deliberate-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Recurrent vs. Non-Recurrent Constituent Skills
 
 > [!definition] **Recurrent vs. Non-Recurrent Constituent Skills**
-> Recurrent constituent skills are performed consistently in various contexts, following consistent rules or procedures regardless of the specific task context, while non-recurrent skills require adaptation to the specific features of each problem situation. This distinction falls under [[Cognitive Architecture]], where it is used to determine which instructional components should be deployed for each skill level.
+> Recurrent constituent skills are performed consistently in various contexts, following consistent rules or procedures regardless of the specific task context, while non-recurrent skills require adaptation to the specific features of each problem situation. This distinction falls under [[cognitive-architecture]], where it is used to determine which instructional components should be deployed for each skill level.
 
 > [!attention] **Boundary**
 > This concept excludes individual tasks and focuses on the skill level at which a task is executed across different problem situations.
@@ -135,12 +135,12 @@ The 4C/ID model, which incorporates this distinction, offers a practical approac
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Automaticity]]
+**Prerequisites:** [[automaticity]]
 
-**Applies to:** [[Deliberate Practice]]
+**Applies to:** [[deliberate-practice]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

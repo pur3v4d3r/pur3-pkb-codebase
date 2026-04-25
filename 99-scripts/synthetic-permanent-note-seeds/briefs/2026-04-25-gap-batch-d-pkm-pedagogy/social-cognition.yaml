@@ -1,0 +1,37 @@
+concept: Social Cognition
+domain: psychology
+secondary_domains:
+- cognitive-science
+- social-psychology
+aliases:
+- social-cognitive psychology
+broader:
+- cognitive-psychology
+related:
+- theory-of-mind
+- attribution-theory
+- social-cognitive-theory
+- schema-theory
+- dual-process-theory
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Social Cognition
+  body: Social Cognition is the branch of psychology that studies how people perceive,
+    encode, store, retrieve, and use information about themselves, other people, and
+    social situations, applying the conceptual and methodological tools of cognitive
+    psychology to the social domain.
+- type: key-claim
+  title: Key claim about Social Cognition
+  body: Social Cognition has shown that ordinary social judgement relies heavily on
+    schema-driven, dual-process inference — fast, automatic associations supplemented
+    by slower deliberative correction — which is why Social Cognition has become the
+    dominant theoretical lens in modern social psychology.
+- type: warning
+  title: Common pitfall regarding Social Cognition
+  body: Social Cognition is often equated with the study of cognitive biases in social
+    judgement, but the field is much broader, and reducing Social Cognition to a catalogue
+    of biases misses its central project of explaining the architecture that produces
+    both ordinary accurate social inference and its characteristic failures.

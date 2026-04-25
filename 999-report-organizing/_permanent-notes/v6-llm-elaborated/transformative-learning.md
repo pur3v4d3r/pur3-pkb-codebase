@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Adult Learning"
 
 related:
-  - "[[Andragogy]]"
-  - "[[Double-Loop Learning]]"
+  - "[[andragogy]]"
+  - "[[double-loop-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Andragogy]]"
+  - "[[andragogy]]"
 contrasts-with:
-  - "[[Double-Loop Learning]]"
+  - "[[double-loop-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -124,14 +124,14 @@ The mechanism of transformative learning involves several key steps: first, an i
 
 Transformative learning is crucial for understanding adult education because it highlights the importance of critical reflection in fostering deep, meaningful change. By reorganizing one’s epistemological framework, individuals can develop new perspectives that lead to more effective problem-solving and decision-making. This concept bridges the gap between cognitive science and educational theory, offering a robust framework for both research and practice.
 
-The theory also connects with related concepts such as [[Andragogy]], which focuses on adult learning from a different theoretical perspective. While transformative learning emphasizes reorganizing one’s epistemological framework, Andragogy is more concerned with the unique characteristics of adult learners. Together, these theories provide a comprehensive understanding of how adults learn and grow throughout their lives.
+The theory also connects with related concepts such as [[andragogy]], which focuses on adult learning from a different theoretical perspective. While transformative learning emphasizes reorganizing one’s epistemological framework, Andragogy is more concerned with the unique characteristics of adult learners. Together, these theories provide a comprehensive understanding of how adults learn and grow throughout their lives.
 
 ## Connections & Context
 
 **Falls under:** [[Adult Learning]]
 
-**Sibling concepts:** [[Andragogy]]
+**Sibling concepts:** [[andragogy]]
 
-**Contrasts with:** [[Double-Loop Learning]]
+**Contrasts with:** [[double-loop-learning]]
 
 **Source:** [[transformative-learning-synthetic-seed-2026-04-25]]

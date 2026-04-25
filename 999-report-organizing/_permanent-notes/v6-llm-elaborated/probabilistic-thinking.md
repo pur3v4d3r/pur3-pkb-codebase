@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Critical-Thinking"
 
 related:
-  - "[[Base Rate Neglect]]"
-  - "[[Calibration]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[base-rate-neglect]]"
+  - "[[calibration]]"
+  - "[[bayesian-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,13 +44,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Base Rate Neglect]]"
+  - "[[base-rate-neglect]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Calibration]]"
+  - "[[calibration]]"
 formalizes:
-  - "[[Bayesian Reasoning]]"
+  - "[[bayesian-reasoning]]"
 instance-of:
   - "[[]]"
 supports:
@@ -72,7 +72,7 @@ provenance:
 # Probabilistic Thinking
 
 > [!definition] **Probabilistic Thinking**
-> Probabilistic Thinking involves representing uncertain claims as ranges of probability rather than binary truths, updating these probabilities based on new evidence, and considering base rates and reference classes. It falls under [[Critical-Thinking]], emphasizing the importance of chronic habit over formal Bayesian computation.
+> Probabilistic Thinking involves representing uncertain claims as ranges of probability rather than binary truths, updating these probabilities based on new evidence, and considering base rates and reference classes. It falls under [[critical-thinking]], emphasizing the importance of chronic habit over formal Bayesian computation.
 
 > [!attention] **Boundary**
 > This concept excludes the use of formal Bayesian computation but includes the chronic habit of updating probabilities in light of new evidence.
@@ -131,12 +131,12 @@ The importance of Probabilistic Thinking extends beyond individual decision-maki
 
 ## Connections & Context
 
-**Falls under:** [[Critical-Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Contrasts with:** [[Base Rate Neglect]]
+**Contrasts with:** [[base-rate-neglect]]
 
-**Applies to:** [[Calibration]]
+**Applies to:** [[calibration]]
 
-**Formalizes:** [[Bayesian Reasoning]]
+**Formalizes:** [[bayesian-reasoning]]
 
 **Source:** [[probabilistic-thinking-synthetic-seed-2026-04-25]]

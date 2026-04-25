@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Architectural Invariance Thesis
 
 > [!definition] **Architectural Invariance Thesis**
-> The Architectural Invariance Thesis posits that working memory's capacity for processing novel elements is fixed and cannot be expanded through training, motivation, or instructional techniques; it falls under [[Cognitive Architecture]]. This means that effective instruction must work around this bottleneck by facilitating the construction of schemas in long-term memory to reduce the load on working memory.
+> The Architectural Invariance Thesis posits that working memory's capacity for processing novel elements is fixed and cannot be expanded through training, motivation, or instructional techniques; it falls under [[cognitive-architecture]]. This means that effective instruction must work around this bottleneck by facilitating the construction of schemas in long-term memory to reduce the load on working memory.
 
 > [!attention] **Boundary**
 > This thesis excludes the possibility of increasing working memory capacity but focuses on strategies to manage its limited resources effectively.
@@ -86,7 +86,7 @@ The central claim of the Architectural Invariance Thesis is rooted in the idea t
 
 The thesis suggests that effective instruction should aim to reduce the cognitive load by breaking down complex information into manageable chunks and facilitating the automation of these processes in long-term memory. By doing so, instructors can help learners treat complex information as single elements within working memory, thereby enhancing their ability to process new information efficiently.
 
-This approach is grounded in the broader framework of [[Cognitive Architecture]], which posits that human cognitive processing involves a hierarchical structure where lower-level tasks are processed by working memory while higher-level tasks rely on long-term memory. The thesis emphasizes the importance of leveraging this architecture to optimize learning outcomes, particularly through the use of worked examples and minimizing split-attention effects.
+This approach is grounded in the broader framework of [[cognitive-architecture]], which posits that human cognitive processing involves a hierarchical structure where lower-level tasks are processed by working memory while higher-level tasks rely on long-term memory. The thesis emphasizes the importance of leveraging this architecture to optimize learning outcomes, particularly through the use of worked examples and minimizing split-attention effects.
 
 Empirical evidence supports the notion that working memory capacity is indeed fixed and cannot be expanded. For instance, studies have shown that even with extensive practice, individuals do not significantly increase their working memory capacity; instead, they develop more efficient strategies for managing information within these constraints.
 
@@ -134,10 +134,10 @@ This concept also has broader implications across various domains, including use
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

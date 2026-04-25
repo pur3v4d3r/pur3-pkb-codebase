@@ -34,11 +34,11 @@ depth-level: elaborated
 parent-concept: "Formal Logic"
 
 related:
-  - "[[Propositional Logic]]"
+  - "[[propositional-logic]]"
   - "[[Second-Order Logic]]"
-  - "[[Modal Logic]]"
+  - "[[modal-logic]]"
 prerequisites:
-  - "[[Propositional Logic]]"
+  - "[[propositional-logic]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,7 +46,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Modal Logic]]"
+  - "[[modal-logic]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -135,10 +135,10 @@ The interplay between Predicate Logic and related concepts like propositional lo
 
 **Falls under:** [[Formal Logic]]
 
-**Prerequisites:** [[Propositional Logic]]
+**Prerequisites:** [[propositional-logic]]
 
 **Generalizes to:** [[Second-Order Logic]]
 
-**Contrasts with:** [[Modal Logic]]
+**Contrasts with:** [[modal-logic]]
 
 **Source:** [[predicate-logic-synthetic-seed-2026-04-24]]

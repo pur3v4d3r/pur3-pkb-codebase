@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Recurrent Constituent Skill
 
 > [!definition] **Recurrent Constituent Skill**
-> A recurrent constituent skill is a component of complex cognitive performance executed in the same way regardless of context, governed by automated rules and procedures. It falls under [[Cognitive Architecture]], where it is distinguished from non-recurrent skills that require reasoning and problem-solving adaptable to specific contexts.
+> A recurrent constituent skill is a component of complex cognitive performance executed in the same way regardless of context, governed by automated rules and procedures. It falls under [[cognitive-architecture]], where it is distinguished from non-recurrent skills that require reasoning and problem-solving adaptable to specific contexts.
 
 > [!attention] **Boundary**
 > This concept excludes skills that vary across contexts (non-recurrent constituent skills) and focuses on procedural aspects rather than conceptual elaboration.
@@ -134,10 +134,10 @@ The integration of recurrent constituent skills into training programs has broad
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

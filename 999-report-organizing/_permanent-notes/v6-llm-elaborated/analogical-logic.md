@@ -73,7 +73,7 @@ provenance:
 # Analogical Logic
 
 > [!definition] **Analogical Logic**
-> Analogical Logic is the formal and computational study of analogy as an inferential operation, including structure-mapping engines and case-based reasoning systems to evaluate when and how strongly analogies are warranted. It falls under [[Cognitive Architecture]], demonstrating that analogical inference can be made tractable and partially formalizable through systematicity (preferring deeper relational matches over isolated property matches) and one-to-one mapping constraints.
+> Analogical Logic is the formal and computational study of analogy as an inferential operation, including structure-mapping engines and case-based reasoning systems to evaluate when and how strongly analogies are warranted. It falls under [[cognitive-architecture]], demonstrating that analogical inference can be made tractable and partially formalizable through systematicity (preferring deeper relational matches over isolated property matches) and one-to-one mapping constraints.
 
 > [!attention] **Boundary**
 > It excludes purely qualitative or subjective aspects of analogical reasoning that cannot be formalized, such as pragmatic context and aesthetic judgement.
@@ -132,7 +132,7 @@ The importance of Analogical Logic extends beyond its immediate applications; it
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Generalizes to:** [[Non-Classical Logic]]
 

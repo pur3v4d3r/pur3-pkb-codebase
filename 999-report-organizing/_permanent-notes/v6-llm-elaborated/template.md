@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Chunk]]"
-  - "[[Schema]]"
+  - "[[chunk]]"
+  - "[[schema]]"
 prerequisites:
-  - "[[Chunk]]"
+  - "[[chunk]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,7 +46,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Schema]]"
+  - "[[schema]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Template
 
 > [!definition] **Template**
-> A template is a domain-specific memory structure built from frequently co-occurring chunks that integrates a stable core of relationships with variable slots for context-specific values. Templates allow experts to handle variations within familiar patterns without rebuilding the underlying structure, falling under [[Cognitive Architecture]]. They are not generic schemas but specific to the domain and retain recognizable patterns from which they were built.
+> A template is a domain-specific memory structure built from frequently co-occurring chunks that integrates a stable core of relationships with variable slots for context-specific values. Templates allow experts to handle variations within familiar patterns without rebuilding the underlying structure, falling under [[cognitive-architecture]]. They are not generic schemas but specific to the domain and retain recognizable patterns from which they were built.
 
 > [!attention] **Boundary**
 > Templates are not generic schemas but specific to the domain and retain recognizable patterns from which they were built. They do not include broader cognitive architectures or more general learning theories.
@@ -133,10 +133,10 @@ The study of templates also highlights the importance of chunking and deliberate
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Chunk]]
+**Prerequisites:** [[chunk]]
 
-**Contrasts with:** [[Schema]]
+**Contrasts with:** [[schema]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

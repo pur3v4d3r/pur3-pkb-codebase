@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[State-Dependent Memory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -71,7 +71,7 @@ provenance:
 # Context-Dependent Memory
 
 > [!definition] **Context-Dependent Memory**
-> Context-Dependent Memory is the phenomenon where memory retrieval is more successful when the external context at recall matches the context present during encoding, as contextual features become bound to the memory trace. It falls under [[Cognitive Architecture]], implying that the boundary between 'what is memorized' and 'where it was memorized' is not crisp; the surrounding context is encoded as part of the trace, so manipulating context is a lever on retrieval, not a confound to ignore.
+> Context-Dependent Memory is the phenomenon where memory retrieval is more successful when the external context at recall matches the context present during encoding, as contextual features become bound to the memory trace. It falls under [[cognitive-architecture]], implying that the boundary between 'what is memorized' and 'where it was memorized' is not crisp; the surrounding context is encoded as part of the trace, so manipulating context is a lever on retrieval, not a confound to ignore.
 
 > [!attention] **Boundary**
 > This concept does not include intrinsic or elaborative memory processes that are independent of environmental context. It also excludes state-dependent memory effects, which are similar but focus on physiological states rather than environmental contexts.
@@ -82,7 +82,7 @@ Context-Dependent Memory suggests that our memories are not isolated from their 
 
 Empirical evidence supports this phenomenon. For instance, studies have shown that students who study in an environment similar to where they will later take a test tend to perform better than those who study and test in different environments. This effect is particularly noticeable when the material being studied lacks intrinsic meaning or depth; however, it can still be observed even with deeply meaningful content.
 
-Theoretical roots of Context-Dependent Memory trace back to the broader framework of [[Cognitive Architecture]], which posits that memory is not a standalone process but one that is influenced by various contextual factors. This concept challenges the traditional view of memory as an isolated cognitive function and instead emphasizes its integration with environmental cues.
+Theoretical roots of Context-Dependent Memory trace back to the broader framework of [[cognitive-architecture]], which posits that memory is not a standalone process but one that is influenced by various contextual factors. This concept challenges the traditional view of memory as an isolated cognitive function and instead emphasizes its integration with environmental cues.
 
 Historically, John Sweller's work in 1988 laid foundational groundwork for understanding how context influences memory. His research highlighted the importance of environmental context in memory retrieval, paving the way for further exploration into this phenomenon.
 
@@ -121,15 +121,15 @@ During encoding, contextual features such as sights, sounds, and smells become b
 
 ## Synthesis
 
-Context-Dependent Memory is a critical concept within [[Cognitive Architecture]], emphasizing the interplay between memory and environmental factors. By understanding how contextual cues influence retrieval, educators can design more effective learning strategies that enhance retention and recall. This concept also has implications for fields like psychology and education, where it can inform instructional practices and study habits.
+Context-Dependent Memory is a critical concept within [[cognitive-architecture]], emphasizing the interplay between memory and environmental factors. By understanding how contextual cues influence retrieval, educators can design more effective learning strategies that enhance retention and recall. This concept also has implications for fields like psychology and education, where it can inform instructional practices and study habits.
 
 Moreover, Context-Dependent Memory bridges the gap between intrinsic and extraneous load by showing how external context can be harnessed to support memory processes. By integrating this knowledge with other cognitive theories, we can develop a more comprehensive understanding of human memory and learning.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[State-Dependent Memory]]
 

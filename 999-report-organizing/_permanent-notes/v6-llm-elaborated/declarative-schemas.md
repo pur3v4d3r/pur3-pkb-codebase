@@ -33,19 +33,19 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Concept Formation]]"
-  - "[[Schema Theory]]"
-  - "[[Semantic Memory]]"
-  - "[[Procedural Schemas]]"
+  - "[[schema-theory]]"
+  - "[[semantic-memory]]"
+  - "[[procedural-schemas]]"
 prerequisites:
   - "[[Concept Formation]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 see-also:
-  - "[[Semantic Memory]]"
+  - "[[semantic-memory]]"
 contrasts-with:
-  - "[[Procedural Schemas]]"
+  - "[[procedural-schemas]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Declarative Schemas
 
 > [!definition] **Declarative Schemas**
-> Declarative Schemas are organised structures of factual and conceptual knowledge — categories, hierarchies, propositional networks, and conceptual frames — that represent what a learner knows about a domain, supporting recognition, classification, and verbal description. They fall under [[Cognitive Architecture]], contrasting with procedural schemas which focus on how to perform tasks.
+> Declarative Schemas are organised structures of factual and conceptual knowledge — categories, hierarchies, propositional networks, and conceptual frames — that represent what a learner knows about a domain, supporting recognition, classification, and verbal description. They fall under [[cognitive-architecture]], contrasting with procedural schemas which focus on how to perform tasks.
 
 > [!attention] **Boundary**
 > This concept excludes procedural schemas, which focus on how to perform tasks, and instead focuses on the declarative aspect of knowledge representation.
@@ -130,14 +130,14 @@ Declarative Schemas play a critical role in cognitive architecture by providing 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Prerequisites:** [[Concept Formation]]
 
-**Generalizes to:** [[Schema Theory]]
+**Generalizes to:** [[schema-theory]]
 
-**Sibling concepts:** [[Semantic Memory]]
+**Sibling concepts:** [[semantic-memory]]
 
-**Contrasts with:** [[Procedural Schemas]]
+**Contrasts with:** [[procedural-schemas]]
 
 **Source:** [[declarative-schemas-synthetic-seed-2026-04-24]]

@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Coherence Principle
 
 > [!definition] **Coherence Principle**
-> The Coherence Principle states that excluding extraneous words, pictures, and sounds from multimedia presentations enhances deep learning by reducing cognitive load; it falls under [[Cognitive Architecture]].
+> The Coherence Principle states that excluding extraneous words, pictures, and sounds from multimedia presentations enhances deep learning by reducing cognitive load; it falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This principle excludes the inclusion of additional elements that do not contribute to the core message or learning objectives. It is distinct from principles that focus on intrinsic versus extraneous cognitive load.
@@ -131,10 +131,10 @@ The Coherence Principle has significant implications for various learning contex
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[coherence-principle-synthetic-seed-2026-04-25]]

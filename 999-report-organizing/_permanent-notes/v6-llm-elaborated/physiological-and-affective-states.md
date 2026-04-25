@@ -36,7 +36,7 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[Mastery Experiences]]"
-  - "[[Verbal Persuasion]]"
+  - "[[verbal-persuasion]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,7 +45,7 @@ broader:
   - "[[]]"
 see-also:
   - "[[Mastery Experiences]]"
-  - "[[Verbal Persuasion]]"
+  - "[[verbal-persuasion]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # Physiological and Affective States
 
 > [!definition] **Physiological and Affective States**
-> Physiological and affective states refer to bodily and emotional signals that an individual interprets as information about their capability for a specific behavior, influencing self-efficacy through personal interpretation rather than the signal itself. This concept falls under [[Self-Regulated Learning]], focusing on the interpretative process of these states in relation to perceived capability.
+> Physiological and affective states refer to bodily and emotional signals that an individual interprets as information about their capability for a specific behavior, influencing self-efficacy through personal interpretation rather than the signal itself. This concept falls under [[self-regulated-learning]], focusing on the interpretative process of these states in relation to perceived capability.
 
 > [!attention] **Boundary**
 > This concept focuses on the interpretative process of physiological and affective states in relation to perceived capability. It does not include unconscious processing or signals without efficacy implications.
@@ -137,8 +137,8 @@ This concept intersects with other areas such as anxiety management, emotional i
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Mastery Experiences]] · [[Verbal Persuasion]]
+**Sibling concepts:** [[Mastery Experiences]] · [[verbal-persuasion]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

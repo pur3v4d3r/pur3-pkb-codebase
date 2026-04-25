@@ -2,6 +2,7 @@
 title: "Implementation Intention"
 aliases:
   - "Implementation Intention"
+  - "Goal-Intention"
   - "Implementation Intentions"
   - "If-Then Plans"
   - "Gollwitzer Implementation Intentions"
@@ -36,8 +37,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Goal-Setting Theory]]"
-  - "[[Dual-Process Theory]]"
+  - "[[goal-setting-theory]]"
+  - "[[dual-process-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,11 +48,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Goal-Setting Theory]]"
+  - "[[goal-setting-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +76,7 @@ provenance:
 # Implementation Intention
 
 > [!definition] **Implementation Intention**
-> An implementation intention is a specific plan to perform an action when a certain cue is detected, formulated as 'When X occurs, I will Y.' It falls under [[Self-Regulated Learning]], where it serves as a subordinate planning structure that pre-links a specific anticipated cue to a specific intended response. Implementation intentions are distinct from goal intentions (which specify desired outcomes) and operate by transferring control of the planned behavior from deliberative goal pursuit to a strategically engineered, cue-triggered initiation routine.
+> An implementation intention is a specific plan to perform an action when a certain cue is detected, formulated as 'When X occurs, I will Y.' It falls under [[self-regulated-learning]], where it serves as a subordinate planning structure that pre-links a specific anticipated cue to a specific intended response. Implementation intentions are distinct from goal intentions (which specify desired outcomes) and operate by transferring control of the planned behavior from deliberative goal pursuit to a strategically engineered, cue-triggered initiation routine.
 
 > [!attention] **Boundary**
 > This concept excludes general goal intentions and habits. It focuses on the preplanning phase of behavior enactment.
@@ -134,10 +135,10 @@ The integration of implementation intentions with other theories such as goal-se
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Goal-Setting Theory]]
+**Contrasts with:** [[goal-setting-theory]]
 
-**Applies to:** [[Dual-Process Theory]]
+**Applies to:** [[dual-process-theory]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]

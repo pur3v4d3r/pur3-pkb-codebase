@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Analogical Reasoning]]"
-  - "[[Scientific Reasoning]]"
+  - "[[analogical-reasoning]]"
+  - "[[scientific-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,11 +43,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Analogical Reasoning]]"
+  - "[[analogical-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scientific Reasoning]]"
+  - "[[scientific-reasoning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # First-Principles Thinking
 
 > [!definition] **First-Principles Thinking**
-> First-Principles Thinking is a method of reasoning that involves breaking down a complex problem into its most basic components, analyzing them individually, and then reassembling the solution from these fundamentals rather than relying on existing solutions or analogies. It falls under [[Critical Thinking]], as it requires a rigorous examination of foundational principles to derive new insights and solutions.
+> First-Principles Thinking is a method of reasoning that involves breaking down a complex problem into its most basic components, analyzing them individually, and then reassembling the solution from these fundamentals rather than relying on existing solutions or analogies. It falls under [[critical-thinking]], as it requires a rigorous examination of foundational principles to derive new insights and solutions.
 
 > [!attention] **Boundary**
 > This concept excludes methods that rely heavily on analogy or past solutions without decomposing problems to their core elements. It is distinct from other forms of reasoning such as heuristic thinking or intuition-based problem-solving.
@@ -128,10 +128,10 @@ First-Principles Thinking is a powerful tool for innovation and problem-solving,
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Contrasts with:** [[Analogical Reasoning]]
+**Contrasts with:** [[analogical-reasoning]]
 
-**Applies to:** [[Scientific Reasoning]]
+**Applies to:** [[scientific-reasoning]]
 
 **Source:** [[first-principles-thinking-synthetic-seed-2026-04-25]]

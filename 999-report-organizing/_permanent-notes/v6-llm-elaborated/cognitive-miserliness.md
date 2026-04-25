@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Heuristics-and-Biases]]"
+  - "[[working-memory]]"
+  - "[[heuristics-and-biases]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Heuristics-and-Biases]]"
+  - "[[heuristics-and-biases]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Cognitive Miserliness
 
 > [!definition] **Cognitive Miserliness**
-> Cognitive miserliness refers to the tendency of the cognitive system to minimize effortful Type 2 processing by default, relying on quick Type 1 responses when confident enough. It falls under [[Cognitive-Architecture]], and is not a moral failing or character flaw but rather an evolutionarily and developmentally sensible default given the metabolic cost of sustained Type 2 engagement. It falls under [[Cognitive Architecture]].
+> Cognitive miserliness refers to the tendency of the cognitive system to minimize effortful Type 2 processing by default, relying on quick Type 1 responses when confident enough. It falls under [[cognitive-architecture]], and is not a moral failing or character flaw but rather an evolutionarily and developmentally sensible default given the metabolic cost of sustained Type 2 engagement. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept does not include moral or character flaws but rather focuses on the evolutionary and developmental reasons for minimizing cognitive load. It is distinct from active open-mindedness and reflective disposition.
@@ -134,10 +134,10 @@ The importance of cognitive miserliness lies in its implications for education, 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Heuristics-and-Biases]]
+**Applies to:** [[heuristics-and-biases]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

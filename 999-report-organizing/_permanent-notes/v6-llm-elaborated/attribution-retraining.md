@@ -36,8 +36,8 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Explanatory Style]]"
-  - "[[Growth Mindset]]"
-  - "[[Self-Determination Theory]]"
+  - "[[growth-mindset]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,11 +47,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Attribution Retraining
 
 > [!definition] **Attribution Retraining**
-> Attribution retraining is a family of intervention techniques that redirect habitual causal attributions from maladaptive to adaptive dimensions, altering expectancy, emotion, and behavior. It falls under [[Cognitive Architecture]], targeting the interpretive mechanism rather than providing new skills or resources; it changes how existing experiences are causally interpreted.
+> Attribution retraining is a family of intervention techniques that redirect habitual causal attributions from maladaptive to adaptive dimensions, altering expectancy, emotion, and behavior. It falls under [[cognitive-architecture]], targeting the interpretive mechanism rather than providing new skills or resources; it changes how existing experiences are causally interpreted.
 
 > [!attention] **Boundary**
 > This concept focuses on the interpretive mechanism rather than providing new skills or resources. It does not target informational substrates but changes how existing experiences are causally interpreted.
@@ -135,12 +135,12 @@ Attribution retraining also intersects with self-determination theory and growth
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Specializes:** [[Explanatory Style]]
 
-**Contrasts with:** [[Growth Mindset]]
+**Contrasts with:** [[growth-mindset]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

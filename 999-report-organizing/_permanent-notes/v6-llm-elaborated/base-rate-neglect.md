@@ -2,6 +2,7 @@
 title: "Base-Rate Neglect"
 aliases:
   - "Base-Rate Neglect"
+  - "Base Rate Neglect"
   - "base-rate fallacy"
   - "neglect of base rates"
 type: permanent-note
@@ -33,9 +34,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Representativeness Heuristic]]"
+  - "[[representativeness-heuristic]]"
   - "[[Prosecutor's Fallacy]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[bayesian-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +46,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Representativeness Heuristic]]"
+  - "[[representativeness-heuristic]]"
   - "[[Prosecutor's Fallacy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Bayesian Reasoning]]"
+  - "[[bayesian-reasoning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +75,7 @@ provenance:
 # Base-Rate Neglect
 
 > [!definition] **Base-Rate Neglect**
-> Base-Rate Neglect refers to the tendency of individuals to ignore general statistical information (base rates) when making judgments about specific cases, even when this information is highly relevant. It falls under [[Cognitive Architecture]], as it highlights a dissociation between intuitive judgment and Bayesian normativity.
+> Base-Rate Neglect refers to the tendency of individuals to ignore general statistical information (base rates) when making judgments about specific cases, even when this information is highly relevant. It falls under [[cognitive-architecture]], as it highlights a dissociation between intuitive judgment and Bayesian normativity.
 
 > [!attention] **Boundary**
 > This concept excludes biases that are specifically related to overconfidence or confirmation bias and focuses on the underweighting of base rates in judgment processes.
@@ -128,7 +129,7 @@ The cognitive processes involved in Base-Rate Neglect can be understood through 
 
 ## Synthesis
 
-Base-Rate Neglect is a critical concept in understanding human judgment processes, particularly within the broader field of [[Cognitive Architecture]]. By highlighting the dissociation between intuitive reasoning and Bayesian normativity, it underscores the importance of integrating statistical information into decision-making. This concept has significant implications across various domains, including legal judgments, medical diagnoses, and instructional design. Addressing Base-Rate Neglect can lead to more accurate and fair outcomes in these areas, making it a vital area of study for cognitive psychologists and practitioners alike.
+Base-Rate Neglect is a critical concept in understanding human judgment processes, particularly within the broader field of [[cognitive-architecture]]. By highlighting the dissociation between intuitive reasoning and Bayesian normativity, it underscores the importance of integrating statistical information into decision-making. This concept has significant implications across various domains, including legal judgments, medical diagnoses, and instructional design. Addressing Base-Rate Neglect can lead to more accurate and fair outcomes in these areas, making it a vital area of study for cognitive psychologists and practitioners alike.
 
 The contrast with Bayesian reasoning further emphasizes the need for interventions that help individuals better integrate base rates into their decision-making processes. By understanding and addressing Base-Rate Neglect, we can improve our overall judgment accuracy and reduce biases in critical fields such as medicine and law.
 
@@ -138,10 +139,10 @@ Empirical evidence supporting Base-Rate Neglect comes from numerous studies wher
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Representativeness Heuristic]] · [[Prosecutor's Fallacy]]
+**Contrasts with:** [[representativeness-heuristic]] · [[Prosecutor's Fallacy]]
 
-**Applies to:** [[Bayesian Reasoning]]
+**Applies to:** [[bayesian-reasoning]]
 
 **Source:** [[base-rate-neglect-synthetic-seed-2026-04-25]]

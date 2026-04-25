@@ -38,7 +38,7 @@ parent-concept: "Cognitive Architecture"
 related:
   - "[[Stable Causal Structure]]"
   - "[[Reliable Feedback]]"
-  - "[[Dual Process Theory]]"
+  - "[[dual-process-theory]]"
 prerequisites:
   - "[[Stable Causal Structure]]"
   - "[[Reliable Feedback]]"
@@ -47,7 +47,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Dual Process Theory]]"
+  - "[[dual-process-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -77,7 +77,7 @@ provenance:
 # High-Validity Environment
 
 > [!definition] **High-Validity Environment**
-> A high-validity environment is a decision setting characterized by stable causal structure and reliable feedback, enabling the development of intuitive expertise through practice. It falls under [[Cognitive Architecture]], as it provides the structural conditions necessary for Type 1 processes to learn and apply heuristics effectively.
+> A high-validity environment is a decision setting characterized by stable causal structure and reliable feedback, enabling the development of intuitive expertise through practice. It falls under [[cognitive-architecture]], as it provides the structural conditions necessary for Type 1 processes to learn and apply heuristics effectively.
 
 > [!attention] **Boundary**
 > This concept excludes environments that are not stable or provide unreliable feedback, such as long-term political forecasting or unfamiliar domains in clinical psychology.
@@ -136,10 +136,10 @@ The concept also intersects with other related concepts such as naturalistic dec
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Prerequisites:** [[Stable Causal Structure]] · [[Reliable Feedback]]
 
-**Sibling concepts:** [[Dual Process Theory]]
+**Sibling concepts:** [[dual-process-theory]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

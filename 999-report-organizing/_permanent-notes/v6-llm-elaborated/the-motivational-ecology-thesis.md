@@ -37,9 +37,9 @@ depth-level: elaborated
 parent-concept: "Self-Directed Learning"
 
 related:
-  - "[[Scaffolding]]"
-  - "[[Formative Assessment]]"
-  - "[[Self-Determination Theory]]"
+  - "[[scaffolding]]"
+  - "[[formative-assessment]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -53,14 +53,14 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scaffolding]]"
-  - "[[Formative Assessment]]"
+  - "[[scaffolding]]"
+  - "[[formative-assessment]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -78,7 +78,7 @@ provenance:
 # Motivational Ecology Thesis
 
 > [!definition] **Motivational Ecology Thesis**
-> The Motivational Ecology Thesis posits that sustained lifelong learning requires an interconnected and adaptive system of motivational conditions, rather than relying on any single force. It falls under [[Self-Directed Learning]], emphasizing the dynamic interplay between multiple motivational forces to support continuous learning.
+> The Motivational Ecology Thesis posits that sustained lifelong learning requires an interconnected and adaptive system of motivational conditions, rather than relying on any single force. It falls under [[self-directed-learning]], emphasizing the dynamic interplay between multiple motivational forces to support continuous learning.
 
 > [!attention] **Boundary**
 > This concept excludes the idea that a single motivational factor (such as intrinsic interest or career relevance) alone can sustain lifelong learning. It focuses specifically on the dynamic interplay between multiple motivational forces.
@@ -137,10 +137,10 @@ The Motivational Ecology Thesis also intersects with other theories such as Self
 
 ## Connections & Context
 
-**Falls under:** [[Self-Directed Learning]]
+**Falls under:** [[self-directed-learning]]
 
-**Applies to:** [[Scaffolding]] · [[Formative Assessment]]
+**Applies to:** [[scaffolding]] · [[formative-assessment]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

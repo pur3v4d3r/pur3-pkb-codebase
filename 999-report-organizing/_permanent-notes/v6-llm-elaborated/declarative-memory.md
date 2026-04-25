@@ -32,22 +32,22 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Semantic Memory]]"
-  - "[[Episodic Memory]]"
-  - "[[Procedural Memory]]"
-  - "[[Non-Declarative Memory]]"
+  - "[[semantic-memory]]"
+  - "[[episodic-memory]]"
+  - "[[procedural-memory]]"
+  - "[[non-declarative-memory]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Semantic Memory]]"
-  - "[[Episodic Memory]]"
+  - "[[semantic-memory]]"
+  - "[[episodic-memory]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Procedural Memory]]"
-  - "[[Non-Declarative Memory]]"
+  - "[[procedural-memory]]"
+  - "[[non-declarative-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -131,8 +131,8 @@ Declarative memory's role in education and therapy also emphasizes its practical
 
 ## Connections & Context
 
-**Specializes:** [[Semantic Memory]] · [[Episodic Memory]]
+**Specializes:** [[semantic-memory]] · [[episodic-memory]]
 
-**Contrasts with:** [[Procedural Memory]] · [[Non-Declarative Memory]]
+**Contrasts with:** [[procedural-memory]] · [[non-declarative-memory]]
 
 **Source:** [[declarative-memory-synthetic-seed-2026-04-24]]

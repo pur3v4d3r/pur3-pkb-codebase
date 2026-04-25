@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Implicit Theories of Intelligence]]"
-  - "[[Learned Helplessness]]"
-  - "[[Self-Efficacy]]"
-  - "[[Self-Determination Theory]]"
+  - "[[implicit-theories-of-intelligence]]"
+  - "[[learned-helplessness]]"
+  - "[[self-efficacy]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,13 +48,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Implicit Theories of Intelligence]]"
-  - "[[Learned Helplessness]]"
+  - "[[implicit-theories-of-intelligence]]"
+  - "[[learned-helplessness]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Efficacy]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-efficacy]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Causal Attribution
 
 > [!definition] **Causal Attribution**
-> Causal attribution is the cognitive process through which an individual identifies and assigns a cause to an observed event, outcome, or behavior—constructing an explanatory account that connects what happened to why it happened. This process is not neutral; the particular cause selected reshapes the attributor's emotional experience, future expectations, and subsequent behavioral tendencies in systematic and predictable ways. It falls under [[Attribution Theory]], which posits that this mechanism links objective events to their motivational meaning.
+> Causal attribution is the cognitive process through which an individual identifies and assigns a cause to an observed event, outcome, or behavior—constructing an explanatory account that connects what happened to why it happened. This process is not neutral; the particular cause selected reshapes the attributor's emotional experience, future expectations, and subsequent behavioral tendencies in systematic and predictable ways. It falls under [[attribution-theory]], which posits that this mechanism links objective events to their motivational meaning.
 
 > [!attention] **Boundary**
 > This concept stops at the specific explanatory register of linking events to their origins. It does not include mere description (noting 'what' happened) or evaluation (judging 'whether' something was good or bad).
@@ -137,8 +137,8 @@ By acting as the medium of inner speech, causal attributions mediate between exp
 
 ## Connections & Context
 
-**Contrasts with:** [[Implicit Theories of Intelligence]] · [[Learned Helplessness]]
+**Contrasts with:** [[implicit-theories-of-intelligence]] · [[learned-helplessness]]
 
-**Applies to:** [[Self-Efficacy]] · [[Self-Determination Theory]]
+**Applies to:** [[self-efficacy]] · [[self-determination-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

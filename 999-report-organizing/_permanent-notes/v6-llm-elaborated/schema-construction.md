@@ -34,13 +34,13 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Intrinsic Cognitive Load (ICL)]]"
   - "[[Germane Cognitive Load (GCL)]]"
-  - "[[Chunking]]"
+  - "[[chunking]]"
   - "[[Extraneous Cognitive Load (ECL)]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Intrinsic Cognitive Load (ICL)]]"
   - "[[Germane Cognitive Load (GCL)]]"
 specializes:
@@ -48,7 +48,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Chunking]]"
+  - "[[chunking]]"
   - "[[Extraneous Cognitive Load (ECL)]]"
 contrasts-with:
   - "[[]]"
@@ -79,7 +79,7 @@ provenance:
 # Schema Construction
 
 > [!definition] **Schema Construction**
-> Schema construction is the process by which interrelated information elements are bound into a single integrated mental representation in long-term memory, enabling efficient processing in working memory as chunks. It falls under [[Cognitive Architecture]], focusing on the outcome of this binding process rather than the detailed mechanisms within working memory or specific instructional design techniques that reduce extraneous cognitive load.
+> Schema construction is the process by which interrelated information elements are bound into a single integrated mental representation in long-term memory, enabling efficient processing in working memory as chunks. It falls under [[cognitive-architecture]], focusing on the outcome of this binding process rather than the detailed mechanisms within working memory or specific instructional design techniques that reduce extraneous cognitive load.
 
 > [!attention] **Boundary**
 > This concept excludes the detailed mechanisms of how individual elements are processed within working memory and focuses on the outcome of this binding process. It also does not cover the specific instructional design techniques that reduce extraneous cognitive load.
@@ -138,10 +138,10 @@ Understanding schema construction also has implications for instructional design
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]] · [[Intrinsic Cognitive Load (ICL)]] · [[Germane Cognitive Load (GCL)]]
+**Prerequisites:** [[working-memory]] · [[Intrinsic Cognitive Load (ICL)]] · [[Germane Cognitive Load (GCL)]]
 
-**Sibling concepts:** [[Chunking]] · [[Extraneous Cognitive Load (ECL)]]
+**Sibling concepts:** [[chunking]] · [[Extraneous Cognitive Load (ECL)]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

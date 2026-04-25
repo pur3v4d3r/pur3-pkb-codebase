@@ -1,0 +1,40 @@
+concept: Zettelkasten Workflow
+domain: personal-knowledge-management
+secondary_domains:
+- knowledge-management
+- learning-science
+aliases:
+- Zettelkasten method
+- slip-box workflow
+broader:
+- zettelkasten
+related:
+- zettelkasten
+- atomic-notes
+- evergreen-notes
+- fleeting-notes
+- literature-notes
+- permanent-notes
+prerequisites:
+- zettelkasten
+confidence: high
+callouts:
+- type: definition
+  title: Zettelkasten Workflow
+  body: A Zettelkasten Workflow is the operational sequence by which raw inputs —
+    readings, conversations, observations — are processed into atomic, linked, durable
+    notes through the canonical stages of fleeting capture, literature notes, permanent
+    atomic notes, and structural index notes.
+- type: key-claim
+  title: Key claim about Zettelkasten Workflow
+  body: The Zettelkasten Workflow distinguishes itself from generic note-taking by
+    enforcing atomicity (one idea per note), durability (notes are written in the
+    author's own words), and connectivity (every new note must link into the existing
+    network), which is what produces the compounding intellectual value Luhmann's
+    slip-box famously demonstrated.
+- type: warning
+  title: Common pitfall regarding Zettelkasten Workflow
+  body: A Zettelkasten Workflow is frequently confused with the use of a particular
+    tool such as Obsidian or Roam; the tool is incidental, the workflow is what produces
+    the effect, and a sophisticated tool used without the Zettelkasten Workflow discipline
+    merely accelerates the production of low-quality notes.

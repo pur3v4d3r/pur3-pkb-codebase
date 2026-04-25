@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Metacognitive Scaffolding"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Scaffolded Fading
 
 > [!definition] **Scaffolded Fading**
-> Scaffolded fading refers to the gradual withdrawal of external support as learners develop internal competence in a skill, ensuring long-term independence without dependency. It falls under [[Metacognitive Scaffolding]], resolving the scaffold paradox by providing a monitored and reversible trajectory from full support through partial support to independent performance.
+> Scaffolded fading refers to the gradual withdrawal of external support as learners develop internal competence in a skill, ensuring long-term independence without dependency. It falls under [[metacognitive-scaffolding]], resolving the scaffold paradox by providing a monitored and reversible trajectory from full support through partial support to independent performance.
 
 > [!attention] **Boundary**
 > This process is not abrupt but rather a monitored and reversible trajectory from full support through partial support to independent performance. It should not be confused with sudden or unmonitored removal of scaffolding.
@@ -132,10 +132,10 @@ Scaffolded fading is a critical concept within metacognitive scaffolding because
 
 ## Connections & Context
 
-**Falls under:** [[Metacognitive Scaffolding]]
+**Falls under:** [[metacognitive-scaffolding]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

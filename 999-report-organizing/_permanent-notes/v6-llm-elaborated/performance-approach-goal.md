@@ -2,6 +2,7 @@
 title: "Performance-Approach Goal"
 aliases:
   - "Performance-Approach Goal"
+  - "Performance Approach Goal"
   - "normative approach goal"
 type: permanent-note
 status: enriched
@@ -32,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Achievement Goal Theory"
 
 related:
-  - "[[Mastery-Approach Goal]]"
-  - "[[Performance-Avoidance Goal]]"
+  - "[[mastery-approach-goal]]"
+  - "[[performance-avoidance-goal]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Mastery-Approach Goal]]"
-  - "[[Performance-Avoidance Goal]]"
+  - "[[mastery-approach-goal]]"
+  - "[[performance-avoidance-goal]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +73,7 @@ provenance:
 # Performance-Approach Goal
 
 > [!definition] **Performance-Approach Goal**
-> A Performance-Approach Goal is an orientation in which competence is defined normatively relative to others and valenced positively, focusing on outperforming peers rather than avoiding inferior performance. It falls under [[Achievement Goal Theory]], where it contrasts with the mastery-approach goal, which values competence intrinsically for personal growth, and the performance-avoidance goal, which focuses on avoiding inferior performance.
+> A Performance-Approach Goal is an orientation in which competence is defined normatively relative to others and valenced positively, focusing on outperforming peers rather than avoiding inferior performance. It falls under [[achievement-goal-theory]], where it contrasts with the mastery-approach goal, which values competence intrinsically for personal growth, and the performance-avoidance goal, which focuses on avoiding inferior performance.
 
 > [!attention] **Boundary**
 > It excludes the mastery-approach goal, where competence is defined intrinsically and valued for personal growth, as well as the performance-avoidance goal, which focuses on avoiding inferior performance rather than achieving superior performance.
@@ -128,8 +129,8 @@ The concept of Performance-Approach Goals also intersects with other achievement
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Mastery-Approach Goal]] · [[Performance-Avoidance Goal]]
+**Contrasts with:** [[mastery-approach-goal]] · [[performance-avoidance-goal]]
 
 **Source:** [[performance-approach-goal-synthetic-seed-2026-04-24]]

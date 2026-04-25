@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Spacing Effect
 
 > [!definition] **Spacing Effect**
-> The Spacing Effect is the phenomenon where distributing study sessions over time leads to better long-term retention compared to massed practice in a single session. It falls under [[Cognitive Architecture]], as it pertains to how information is encoded and consolidated over time, influencing memory and learning efficiency.
+> The Spacing Effect is the phenomenon where distributing study sessions over time leads to better long-term retention compared to massed practice in a single session. It falls under [[cognitive-architecture]], as it pertains to how information is encoded and consolidated over time, influencing memory and learning efficiency.
 
 > [!attention] **Boundary**
 > This concept does not include other forms of distributed learning like interleaving or varied practice, which are distinct but related phenomena.
@@ -134,10 +134,10 @@ The Spacing Effect's importance extends beyond individual learners to broader ed
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]

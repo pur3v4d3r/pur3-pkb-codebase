@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Elaborative Rehearsal]]"
+  - "[[working-memory]]"
+  - "[[elaborative-rehearsal]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Elaborative Rehearsal]]"
+  - "[[elaborative-rehearsal]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Deep Processing
 
 > [!definition] **Deep Processing**
-> Deep Processing refers to the analysis of material for meaning, integration with prior knowledge, and relating it to existing schemas, as opposed to surface-level analysis of physical or phonological features. It falls under [[Cognitive Architecture]], where it is a key mechanism in encoding information that leads to durable memory traces.
+> Deep Processing refers to the analysis of material for meaning, integration with prior knowledge, and relating it to existing schemas, as opposed to surface-level analysis of physical or phonological features. It falls under [[cognitive-architecture]], where it is a key mechanism in encoding information that leads to durable memory traces.
 
 > [!attention] **Boundary**
 > This excludes shallow processing, which focuses on physical or phonological features rather than semantic content. It also does not encompass all forms of elaborative rehearsal but specifically refers to deep semantic engagement.
@@ -131,10 +131,10 @@ Moreover, Deep Processing has implications for educational psychology by informi
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Elaborative Rehearsal]]
+**Sibling concepts:** [[elaborative-rehearsal]]
 
 **Source:** [[deep-processing-synthetic-seed-2026-04-24]]

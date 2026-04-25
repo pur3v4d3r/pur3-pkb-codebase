@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Creative Problem-Solving]]"
-  - "[[Linking Your Thinking]]"
+  - "[[creative-problem-solving]]"
+  - "[[linking-your-thinking]]"
   - "[[Knowledge Graphs]]"
 prerequisites:
   - "[[]]"
@@ -49,8 +49,8 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Creative Problem-Solving]]"
-  - "[[Linking Your Thinking]]"
+  - "[[creative-problem-solving]]"
+  - "[[linking-your-thinking]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Idea Emergence
 
 > [!definition] **Idea Emergence**
-> Idea Emergence refers to the bottom-up generation of novel insights from interconnected notes rather than deliberate problem-solving, as claimed by Niklas Luhmann's Zettelkasten method. It falls under [[Cognitive Architecture]], reframing creativity as a property of well-connected knowledge graphs where emergent insights are structurally available before any individual realization.
+> Idea Emergence refers to the bottom-up generation of novel insights from interconnected notes rather than deliberate problem-solving, as claimed by Niklas Luhmann's Zettelkasten method. It falls under [[cognitive-architecture]], reframing creativity as a property of well-connected knowledge graphs where emergent insights are structurally available before any individual realization.
 
 > [!attention] **Boundary**
 > This concept excludes top-down cognitive processes and focuses on the structural properties of knowledge graphs for generating insights.
@@ -136,9 +136,9 @@ The importance of Idea Emergence lies in its potential to transform passive note
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Applies to:** [[Creative Problem-Solving]] · [[Linking Your Thinking]]
+**Applies to:** [[creative-problem-solving]] · [[linking-your-thinking]]
 
 **Instance of:** [[Knowledge Graphs]]
 

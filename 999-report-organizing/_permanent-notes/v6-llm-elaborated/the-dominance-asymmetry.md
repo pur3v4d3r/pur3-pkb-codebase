@@ -38,11 +38,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
   - "[[Monitoring-Control Architecture]]"
   - "[[Imperfection of Meta-Level Model]]"
 prerequisites:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 specializes:
   - "[[]]"
 broader:
@@ -79,7 +79,7 @@ provenance:
 # Dominance Asymmetry
 
 > [!definition] **Dominance Asymmetry**
-> The Dominance Asymmetry is a principle where the meta-level (e.g., metacognition) exerts control over the object-level (e.g., cognition), initiating, modifying, or terminating operations, while the object-level informs but does not reciprocate. This asymmetry is what makes metacognitive regulation possible — without it, the monitoring-control loop would lack a decision-maker, and the system would have no basis for determining when to continue, change, or abandon an ongoing cognitive strategy. It falls under [[Cognitive Architecture]].
+> The Dominance Asymmetry is a principle where the meta-level (e.g., metacognition) exerts control over the object-level (e.g., cognition), initiating, modifying, or terminating operations, while the object-level informs but does not reciprocate. This asymmetry is what makes metacognitive regulation possible — without it, the monitoring-control loop would lack a decision-maker, and the system would have no basis for determining when to continue, change, or abandon an ongoing cognitive strategy. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This asymmetry excludes reciprocal control and focuses on the direction of influence from the meta-level to the object-level in metacognitive regulation.
@@ -138,9 +138,9 @@ By recognizing the dominance asymmetry, researchers and practitioners can design
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Metacognition]]
+**Prerequisites:** [[metacognition]]
 
 **Sibling concepts:** [[Monitoring-Control Architecture]] · [[Imperfection of Meta-Level Model]]
 

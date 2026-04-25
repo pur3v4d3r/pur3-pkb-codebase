@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Dual Process Theory"
 
 related:
-  - "[[Cognitive-Bias]]"
-  - "[[Heuristics-and-Biases]]"
-  - "[[Bounded-Rationality]]"
+  - "[[cognitive-bias]]"
+  - "[[heuristics-and-biases]]"
+  - "[[bounded-rationality]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,17 +48,17 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive-Bias]]"
+  - "[[cognitive-bias]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Heuristics-and-Biases]]"
+  - "[[heuristics-and-biases]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Bounded-Rationality]]"
+  - "[[bounded-rationality]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Default-Interventionist Architecture
 
 > [!definition] **Default-Interventionist Architecture**
-> Default-interventionist architecture is a model of cognitive processing where Type 1 generates a default response to nearly every situation, while Type 2 intervenes only when specific conditions such as perceived difficulty or explicit instruction are met. This framework falls under [[Dual-Process Theory]], providing a predictive mechanism for understanding errors and corrections in judgment. It falls under [[Dual Process Theory]].
+> Default-interventionist architecture is a model of cognitive processing where Type 1 generates a default response to nearly every situation, while Type 2 intervenes only when specific conditions such as perceived difficulty or explicit instruction are met. This framework falls under [[dual-process-theory]], providing a predictive mechanism for understanding errors and corrections in judgment. It falls under [[dual-process-theory]].
 
 > [!attention] **Boundary**
 > This is not a claim that Type 1 always runs first in some absolute temporal sense; for some carefully framed problems, Type 2 engages from the outset. It is a claim about the default setting of the cognitive system, where Type 1 responses are endorsed without further scrutiny unless triggered by specific conditions.
@@ -135,12 +135,12 @@ This architecture also has broader implications for fields such as heuristics-an
 
 ## Connections & Context
 
-**Falls under:** [[Dual Process Theory]]
+**Falls under:** [[dual-process-theory]]
 
-**Contrasts with:** [[Cognitive-Bias]]
+**Contrasts with:** [[cognitive-bias]]
 
-**Applies to:** [[Heuristics-and-Biases]]
+**Applies to:** [[heuristics-and-biases]]
 
-**Supports:** [[Bounded-Rationality]]
+**Supports:** [[bounded-rationality]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

@@ -31,10 +31,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,7 +46,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -70,7 +70,7 @@ provenance:
 # Learning Processes
 
 > [!definition] **Learning Processes**
-> Learning Processes are the underlying cognitive mechanisms through which knowledge is acquired, including encoding, consolidation, retrieval, and transfer. These processes fall under [[Cognitive Architecture]], as they represent the core operations that connect to broader principles of learning such as working memory and worked examples.
+> Learning Processes are the underlying cognitive mechanisms through which knowledge is acquired, including encoding, consolidation, retrieval, and transfer. These processes fall under [[cognitive-architecture]], as they represent the core operations that connect to broader principles of learning such as working memory and worked examples.
 
 > [!attention] **Boundary**
 > This concept excludes specific teaching strategies and focuses on the cognitive operations themselves. It does not encompass broader theories of learning or individual psychological traits.
@@ -132,10 +132,10 @@ Moreover, integrating Learning Processes into broader cognitive architectures su
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[learning-processes-synthetic-seed-2026-04-24]]

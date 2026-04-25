@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Heuristics-and-Biases]]"
+  - "[[working-memory]]"
+  - "[[heuristics-and-biases]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Heuristics-and-Biases]]"
+  - "[[heuristics-and-biases]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Dual-Process Theory
 
 > [!definition] **Dual-Process Theory**
-> Dual-process theory characterizes human cognition through two qualitatively different processing styles: System 1 (Type 1) and System 2 (Type 2). These systems are not anatomically segregated but represent distinct modes of processing characterized by their demands on working-memory resources. It falls under [[Cognitive Architecture]], providing a framework for understanding how reasoning, judgment, and decision-making occur.
+> Dual-process theory characterizes human cognition through two qualitatively different processing styles: System 1 (Type 1) and System 2 (Type 2). These systems are not anatomically segregated but represent distinct modes of processing characterized by their demands on working-memory resources. It falls under [[cognitive-architecture]], providing a framework for understanding how reasoning, judgment, and decision-making occur.
 
 > [!attention] **Boundary**
 > This framework does not claim that the brain contains two homunculi or that all cognition can be cleanly sorted into one mode or the other. It is a descriptive construct over a multidimensional space of processing characteristics, not an anatomical map.
@@ -135,10 +135,10 @@ The theory's value lies not only in its descriptive power but also in its practi
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Heuristics-and-Biases]]
+**Applies to:** [[heuristics-and-biases]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

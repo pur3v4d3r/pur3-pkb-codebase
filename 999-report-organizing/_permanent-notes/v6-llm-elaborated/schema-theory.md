@@ -32,23 +32,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Element Interactivity]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[element-interactivity]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Element Interactivity]]"
+  - "[[element-interactivity]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Schema Theory
 
 > [!definition] **Schema Theory**
-> Schema Theory is a family of cognitive accounts that treat long-term knowledge as organized into hierarchical, slot-and-filler structures called schemas, which mediate perception, comprehension, problem-solving, and memory by supplying the prior structure into which incoming information is assimilated. It falls under [[cognitive-architecture]], focusing on how schemas are constructed through practice and how they facilitate learning, rather than delving into neurobiological mechanisms of schema formation or detailed psychological processes within working memory. It falls under [[Cognitive Architecture]].
+> Schema Theory is a family of cognitive accounts that treat long-term knowledge as organized into hierarchical, slot-and-filler structures called schemas, which mediate perception, comprehension, problem-solving, and memory by supplying the prior structure into which incoming information is assimilated. It falls under [[cognitive-architecture]], focusing on how schemas are constructed through practice and how they facilitate learning, rather than delving into neurobiological mechanisms of schema formation or detailed psychological processes within working memory. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > Schema Theory focuses on how schemas are constructed through practice and how they facilitate learning. It does not delve into the neurobiological mechanisms of schema formation or the detailed psychological processes within working memory.
@@ -134,12 +134,12 @@ The theory's emphasis on element interactivity and the power-law of practice und
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Cognitive Load Theory]]
+**Sibling concepts:** [[cognitive-load-theory]]
 
-**Applies to:** [[Element Interactivity]]
+**Applies to:** [[element-interactivity]]
 
 **Source:** [[schema-theory-synthetic-seed-2026-04-24]]

@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Working Memory"
 
 related:
-  - "[[Phonological Loop]]"
-  - "[[Episodic Buffer]]"
+  - "[[phonological-loop]]"
+  - "[[episodic-buffer]]"
   - "[[Mental Imagery]]"
 prerequisites:
   - "[[]]"
@@ -43,8 +43,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Phonological Loop]]"
-  - "[[Episodic Buffer]]"
+  - "[[phonological-loop]]"
+  - "[[episodic-buffer]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Visuospatial Sketchpad
 
 > [!definition] **Visuospatial Sketchpad**
-> The Visuospatial Sketchpad is a component of Baddeley's working memory model that maintains and manipulates visual and spatial information such as object identity, location, and movement, supporting tasks like mental rotation and navigation (Baddeley, 1986). It falls under [[Working Memory]], functioning independently from the Phonological Loop, which handles verbal information.
+> The Visuospatial Sketchpad is a component of Baddeley's working memory model that maintains and manipulates visual and spatial information such as object identity, location, and movement, supporting tasks like mental rotation and navigation (Baddeley, 1986). It falls under [[working-memory]], functioning independently from the Phonological Loop, which handles verbal information.
 
 > [!attention] **Boundary**
 > It excludes verbal and episodic components, focusing specifically on visual and spatial processing.
@@ -135,9 +135,9 @@ Selective interference studies have shown that concurrent visuospatial tasks imp
 
 ## Connections & Context
 
-**Falls under:** [[Working Memory]]
+**Falls under:** [[working-memory]]
 
-**Sibling concepts:** [[Phonological Loop]] · [[Episodic Buffer]]
+**Sibling concepts:** [[phonological-loop]] · [[episodic-buffer]]
 
 **Applies to:** [[Mental Imagery]]
 

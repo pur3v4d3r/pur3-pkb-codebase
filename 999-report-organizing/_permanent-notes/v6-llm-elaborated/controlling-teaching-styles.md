@@ -33,24 +33,24 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Perceived Locus of Causality]]"
-  - "[[Conditional Regard]]"
-  - "[[Autonomy-Support]]"
-  - "[[Need-Frustration]]"
+  - "[[perceived-locus-of-causality]]"
+  - "[[conditional-regard]]"
+  - "[[autonomy-support]]"
+  - "[[need-frustration]]"
 prerequisites:
-  - "[[Perceived Locus of Causality]]"
+  - "[[perceived-locus-of-causality]]"
 specializes:
-  - "[[Conditional Regard]]"
+  - "[[conditional-regard]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Autonomy-Support]]"
+  - "[[autonomy-support]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Need-Frustration]]"
+  - "[[need-frustration]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,14 +133,14 @@ The implications extend beyond the classroom to broader educational policies and
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Prerequisites:** [[Perceived Locus of Causality]]
+**Prerequisites:** [[perceived-locus-of-causality]]
 
-**Specializes:** [[Conditional Regard]]
+**Specializes:** [[conditional-regard]]
 
-**Sibling concepts:** [[Autonomy-Support]]
+**Sibling concepts:** [[autonomy-support]]
 
-**Applies to:** [[Need-Frustration]]
+**Applies to:** [[need-frustration]]
 
 **Source:** [[controlling-teaching-styles-synthetic-seed-2026-04-24]]

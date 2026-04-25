@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Creative Problem-Solving"
 
 related:
-  - "[[Divergent-Thinking]]"
-  - "[[First-Principles-Thinking]]"
+  - "[[divergent-thinking]]"
+  - "[[first-principles-thinking]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Divergent-Thinking]]"
+  - "[[divergent-thinking]]"
 contrasts-with:
-  - "[[First-Principles-Thinking]]"
+  - "[[first-principles-thinking]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Lateral Thinking
 
 > [!definition] **Lateral Thinking**
-> Lateral Thinking involves solving problems by deliberately restructuring the problem representation through provocative perturbations such as random entry, reversal, fractionation, and concept challenge, contrasting with vertical thinking that proceeds within a fixed frame. It falls under [[Creative Problem-Solving]], focusing on re-framing problems to unblock progress even when the provocations are initially illogical.
+> Lateral Thinking involves solving problems by deliberately restructuring the problem representation through provocative perturbations such as random entry, reversal, fractionation, and concept challenge, contrasting with vertical thinking that proceeds within a fixed frame. It falls under [[creative-problem-solving]], focusing on re-framing problems to unblock progress even when the provocations are initially illogical.
 
 > [!attention] **Boundary**
 > This concept excludes general creativity and is distinct from evidence-based reasoning. It focuses on re-framing problems to unblock progress even when the provocations are initially illogical.
@@ -131,10 +131,10 @@ The importance of Lateral Thinking extends beyond cognitive psychology into fiel
 
 ## Connections & Context
 
-**Falls under:** [[Creative Problem-Solving]]
+**Falls under:** [[creative-problem-solving]]
 
-**Sibling concepts:** [[Divergent-Thinking]]
+**Sibling concepts:** [[divergent-thinking]]
 
-**Contrasts with:** [[First-Principles-Thinking]]
+**Contrasts with:** [[first-principles-thinking]]
 
 **Source:** [[lateral-thinking-synthetic-seed-2026-04-25]]

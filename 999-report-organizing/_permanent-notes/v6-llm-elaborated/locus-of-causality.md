@@ -35,8 +35,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Self-Determination Theory]]"
-  - "[[Attribution Theory]]"
+  - "[[self-determination-theory]]"
+  - "[[attribution-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,13 +50,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Locus of Causality
 
 > [!definition] **Locus of Causality**
-> The Locus of Causality Dimension classifies causes as internal to the person (ability, effort) or external (task difficulty, luck), distinguishing it from locus of control — a dispositional belief rather than a situation-specific causal classification. It falls under [[Cognitive Architecture]].
+> The Locus of Causality Dimension classifies causes as internal to the person (ability, effort) or external (task difficulty, luck), distinguishing it from locus of control — a dispositional belief rather than a situation-specific causal classification. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It should not be confused with locus of control, which is a dispositional belief rather than a situation-specific causal classification.
@@ -133,10 +133,10 @@ The Locus of Causality Dimension also has implications for public policy, partic
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
-**Supports:** [[Attribution Theory]]
+**Supports:** [[attribution-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

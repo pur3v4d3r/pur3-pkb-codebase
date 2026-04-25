@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Spreading Activation]]"
-  - "[[Semantic Memory]]"
+  - "[[spreading-activation]]"
+  - "[[semantic-memory]]"
 prerequisites:
-  - "[[Spreading Activation]]"
+  - "[[spreading-activation]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Semantic Memory]]"
+  - "[[semantic-memory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Priming
 
 > [!definition] **Priming**
-> Priming is an implicit memory phenomenon where prior exposure to a stimulus facilitates its later processing — speeded recognition and lowered identification thresholds — without the perceiver's awareness that this prior exposure is influencing current performance, falling under [[Cognitive Architecture]].
+> Priming is an implicit memory phenomenon where prior exposure to a stimulus facilitates its later processing — speeded recognition and lowered identification thresholds — without the perceiver's awareness that this prior exposure is influencing current performance, falling under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept excludes explicit recollection and conscious awareness; it focuses on unconscious influences on perception and cognition.
@@ -128,10 +128,10 @@ Priming's implications extend beyond cognitive science into broader domains like
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Spreading Activation]]
+**Prerequisites:** [[spreading-activation]]
 
-**Applies to:** [[Semantic Memory]]
+**Applies to:** [[semantic-memory]]
 
 **Source:** [[priming-synthetic-seed-2026-04-24]]

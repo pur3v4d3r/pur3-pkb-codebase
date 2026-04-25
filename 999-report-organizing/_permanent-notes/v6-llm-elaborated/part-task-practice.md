@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Complex Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Part-Task Practice
 
 > [!definition] **Part-Task Practice**
-> Part-task practice involves additional exercises targeting isolated recurrent constituent skills that require very high levels of automaticity for effective whole-task performance. Employed only when the volume of practice provided by learning tasks alone is insufficient to reach the required automation threshold, it complements whole-task learning tasks in the 4C/ID model and falls under [[Complex Learning]].
+> Part-task practice involves additional exercises targeting isolated recurrent constituent skills that require very high levels of automaticity for effective whole-task performance. Employed only when the volume of practice provided by learning tasks alone is insufficient to reach the required automation threshold, it complements whole-task learning tasks in the 4C/ID model and falls under [[complex-learning]].
 
 > [!attention] **Boundary**
 > This concept is not equivalent to traditional part-task instruction but rather a selective supplement for specific recurrent skills within a holistic framework.
@@ -131,10 +131,10 @@ The dual-mechanism instructional logic of the 4C/ID model underscores the need t
 
 ## Connections & Context
 
-**Falls under:** [[Complex Learning]]
+**Falls under:** [[complex-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

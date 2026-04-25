@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Mental Model
 
 > [!definition] **Mental Model**
-> A Mental Model is an internal representation of a domain's structure — entities, relations, and causal dynamics — that supports simulation, prediction, and inference about situations the model represents. It differs from propositional or schematic representations by being analog and runnable: learners can mentally manipulate the model to derive consequences not explicitly stated. This concept falls under [[Cognitive Architecture]].
+> A Mental Model is an internal representation of a domain's structure — entities, relations, and causal dynamics — that supports simulation, prediction, and inference about situations the model represents. It differs from propositional or schematic representations by being analog and runnable: learners can mentally manipulate the model to derive consequences not explicitly stated. This concept falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This includes entities, relations, and causal dynamics but excludes propositional or schematic representations which lack the ability to be mentally manipulated for deriving consequences.
@@ -130,10 +130,10 @@ The integration of Mental Models with other cognitive constructs, such as workin
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[mental-model-synthetic-seed-2026-04-24]]

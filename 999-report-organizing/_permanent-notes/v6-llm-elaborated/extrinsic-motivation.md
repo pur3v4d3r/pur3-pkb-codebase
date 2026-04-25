@@ -31,9 +31,9 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Autonomous Motivation]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Internalization Continuum]]"
+  - "[[autonomous-motivation]]"
+  - "[[intrinsic-motivation]]"
+  - "[[internalization-continuum]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -41,13 +41,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Autonomous Motivation]]"
+  - "[[autonomous-motivation]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Internalization Continuum]]"
+  - "[[internalization-continuum]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Extrinsic Motivation
 
 > [!definition] **Extrinsic Motivation**
-> Extrinsic Motivation refers to the class of motivational states where actions are performed for external rewards or outcomes, rather than for their inherent satisfaction. It falls under [[Motivational Psychology]], and its four stages of regulation (external, introjected, identified, integrated) form a continuum within Organismic Integration Theory.
+> Extrinsic Motivation refers to the class of motivational states where actions are performed for external rewards or outcomes, rather than for their inherent satisfaction. It falls under [[motivational-psychology]], and its four stages of regulation (external, introjected, identified, integrated) form a continuum within Organismic Integration Theory.
 
 > [!attention] **Boundary**
 > This concept excludes intrinsic motivation, which is driven by internal satisfaction and interest in the activity itself. It also does not encompass other forms of regulation such as identified or integrated regulation within the internalization continuum.
@@ -131,12 +131,12 @@ The broader implications of Extrinsic Motivation extend beyond individual behavi
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Sibling concepts:** [[Autonomous Motivation]]
+**Sibling concepts:** [[autonomous-motivation]]
 
-**Contrasts with:** [[Intrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]]
 
-**Applies to:** [[Internalization Continuum]]
+**Applies to:** [[internalization-continuum]]
 
 **Source:** [[extrinsic-motivation-synthetic-seed-2026-04-24]]

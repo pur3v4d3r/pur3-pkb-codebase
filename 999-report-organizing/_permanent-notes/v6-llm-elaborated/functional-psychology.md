@@ -31,17 +31,17 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Ecological Psychology]]"
-  - "[[Pragmatism]]"
+  - "[[ecological-psychology]]"
+  - "[[pragmatism]]"
   - "[[Behaviorism]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Ecological Psychology]]"
+  - "[[ecological-psychology]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Pragmatism]]"
+  - "[[pragmatism]]"
 contrasts-with:
   - "[[Behaviorism]]"
 contradicts:
@@ -71,7 +71,7 @@ provenance:
 # Functional Psychology
 
 > [!definition] **Functional Psychology**
-> Functional Psychology is an American school of thought that focuses on the adaptive functions of mental processes in response to environmental demands, contrasting with structuralist approaches by excluding static analyses of conscious contents and emphasizing dynamic adaptation over static structure. It falls under [[Cognitive Psychology]].
+> Functional Psychology is an American school of thought that focuses on the adaptive functions of mental processes in response to environmental demands, contrasting with structuralist approaches by excluding static analyses of conscious contents and emphasizing dynamic adaptation over static structure. It falls under [[cognitive-psychology]].
 
 > [!attention] **Boundary**
 > It excludes static analyses of conscious contents and emphasizes dynamic adaptation over static structure.
@@ -128,11 +128,11 @@ The concept of functional reasoning also challenges traditional structuralist ap
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Specializes:** [[Ecological Psychology]]
+**Specializes:** [[ecological-psychology]]
 
-**Sibling concepts:** [[Pragmatism]]
+**Sibling concepts:** [[pragmatism]]
 
 **Contrasts with:** [[Behaviorism]]
 

@@ -34,7 +34,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Identity-Protective Cognition]]"
-  - "[[Confirmation Bias]]"
+  - "[[confirmation-bias]]"
   - "[[Wishful Thinking]]"
 prerequisites:
   - "[[]]"
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Confirmation Bias]]"
+  - "[[confirmation-bias]]"
   - "[[Wishful Thinking]]"
 contradicts:
   - "[[]]"
@@ -74,7 +74,7 @@ provenance:
 # Motivated Reasoning
 
 > [!definition] **Motivated Reasoning**
-> Motivated Reasoning refers to the phenomenon where personal preferences, identities, and goals influence which evidence is sought out, attended to, accepted, and remembered, leading to a directional bias in beliefs towards desired conclusions without the reasoner experiencing it as biased. It falls under [[Cognitive Architecture]], operating within the constraint of plausibility — people don't believe just anything they want to believe, but they accept lower evidence thresholds for desired conclusions and demand higher evidence for unwelcome ones.
+> Motivated Reasoning refers to the phenomenon where personal preferences, identities, and goals influence which evidence is sought out, attended to, accepted, and remembered, leading to a directional bias in beliefs towards desired conclusions without the reasoner experiencing it as biased. It falls under [[cognitive-architecture]], operating within the constraint of plausibility — people don't believe just anything they want to believe, but they accept lower evidence thresholds for desired conclusions and demand higher evidence for unwelcome ones.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of cognitive biases that do not involve motivational influences, such as confirmation bias or anchoring effects. It focuses specifically on how motivations shape reasoning processes.
@@ -131,10 +131,10 @@ Understanding Motivated Reasoning is crucial for cognitive science and related f
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Specializes:** [[Identity-Protective Cognition]]
 
-**Contrasts with:** [[Confirmation Bias]] · [[Wishful Thinking]]
+**Contrasts with:** [[confirmation-bias]] · [[Wishful Thinking]]
 
 **Source:** [[motivated-reasoning-synthetic-seed-2026-04-24]]

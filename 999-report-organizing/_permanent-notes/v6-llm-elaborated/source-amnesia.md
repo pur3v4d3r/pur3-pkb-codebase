@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[False Memory]]"
+  - "[[working-memory]]"
+  - "[[false-memory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[False Memory]]"
+  - "[[false-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Source Amnesia
 
 > [!definition] **Source Amnesia**
-> Source Amnesia is the dissociation between preserved memory for content and impaired memory for the origin of that content — such as the speaker, location, modality, or time at which it was learned. It falls under [[Cognitive Architecture]], where it highlights how memory systems can fail to accurately track the provenance of information, leading to misattribution and misinformation.
+> Source Amnesia is the dissociation between preserved memory for content and impaired memory for the origin of that content — such as the speaker, location, modality, or time at which it was learned. It falls under [[cognitive-architecture]], where it highlights how memory systems can fail to accurately track the provenance of information, leading to misattribution and misinformation.
 
 > [!attention] **Boundary**
 > This concept excludes cases where memory loss affects both content and source equally, and does not encompass all forms of forgetting or misinformation.
@@ -134,10 +134,10 @@ The integration of Source Amnesia with other memory phenomena like semantic and 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[False Memory]]
+**Contrasts with:** [[false-memory]]
 
 **Source:** [[source-amnesia-synthetic-seed-2026-04-25]]

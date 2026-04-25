@@ -33,7 +33,7 @@ parent-concept: "Learning Science"
 
 related:
   - "[[Teacher Development]]"
-  - "[[Curriculum Design]]"
+  - "[[curriculum-design]]"
   - "[[Institutional Research]]"
 prerequisites:
   - "[[Teacher Development]]"
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Curriculum Design]]"
+  - "[[curriculum-design]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Educational Development
 
 > [!definition] **Educational Development**
-> Educational Development focuses on the systematic improvement of educational systems, programs, and individual capacity over time through curriculum reform, teacher professional development, institutional research, and pedagogical practice. It falls under [[Learning Science]], as it seeks to enhance learning outcomes by aligning various components of an educational system in a coordinated manner.
+> Educational Development focuses on the systematic improvement of educational systems, programs, and individual capacity over time through curriculum reform, teacher professional development, institutional research, and pedagogical practice. It falls under [[learning-science]], as it seeks to enhance learning outcomes by aligning various components of an educational system in a coordinated manner.
 
 > [!attention] **Boundary**
 > This concept excludes isolated interventions that do not align with broader system changes and does not encompass purely theoretical aspects of education without practical application.
@@ -138,11 +138,11 @@ Educational Development initiatives have shown significant promise in improving 
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
 **Prerequisites:** [[Teacher Development]]
 
-**Applies to:** [[Curriculum Design]]
+**Applies to:** [[curriculum-design]]
 
 **Instance of:** [[Institutional Research]]
 

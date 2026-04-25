@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Spaced Repetition]]"
+  - "[[cognitive-load-theory]]"
+  - "[[spaced-repetition]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,11 +47,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Spaced Repetition]]"
+  - "[[spaced-repetition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Habit Formation Imperative
 
 > [!definition] **Habit Formation Imperative**
-> The Habit Formation Imperative is the principle that sustained personal knowledge management (PKM) practice depends on forming automated behavioral routines rather than perpetual motivation. It falls under [[Cognitive Architecture]], focusing on the formation of PKM habits and not covering motivational theories or comprehensive system design strategies in detail.
+> The Habit Formation Imperative is the principle that sustained personal knowledge management (PKM) practice depends on forming automated behavioral routines rather than perpetual motivation. It falls under [[cognitive-architecture]], focusing on the formation of PKM habits and not covering motivational theories or comprehensive system design strategies in detail.
 
 > [!attention] **Boundary**
 > This concept focuses on the formation of PKM habits and does not cover motivational theories or comprehensive system design strategies in detail.
@@ -135,10 +135,10 @@ The evidence supporting the Habit Formation Imperative comes from studies showin
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
-**Applies to:** [[Spaced Repetition]]
+**Applies to:** [[spaced-repetition]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

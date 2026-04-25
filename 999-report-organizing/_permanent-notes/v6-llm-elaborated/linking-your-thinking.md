@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Personal Knowledge Management"
 
 related:
-  - "[[Maps of Content]]"
-  - "[[Zettelkasten]]"
+  - "[[maps-of-content]]"
+  - "[[zettelkasten]]"
 prerequisites:
-  - "[[Maps of Content]]"
+  - "[[maps-of-content]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Linking Your Thinking
 
 > [!definition] **Linking Your Thinking**
-> Linking Your Thinking, articulated by Nick Milo, is a method for organizing and managing personal notes through Maps of Content (MOCs), which are living scaffolds that evolve with the note collection rather than fixed taxonomies. It falls under [[Personal Knowledge Management]], emphasizing an iterative approach to capturing, organizing, and linking information.
+> Linking Your Thinking, articulated by Nick Milo, is a method for organizing and managing personal notes through Maps of Content (MOCs), which are living scaffolds that evolve with the note collection rather than fixed taxonomies. It falls under [[personal-knowledge-management]], emphasizing an iterative approach to capturing, organizing, and linking information.
 
 > [!attention] **Boundary**
 > This concept stops at the specific framework and practice of Linking Your Thinking. It does not encompass broader knowledge management systems or other cognitive architectures.
@@ -135,10 +135,10 @@ The importance of Linking Your Thinking lies in its ability to bridge the gap be
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Prerequisites:** [[Maps of Content]]
+**Prerequisites:** [[maps-of-content]]
 
-**Contrasts with:** [[Zettelkasten]]
+**Contrasts with:** [[zettelkasten]]
 
 **Source:** [[linking-your-thinking-synthetic-seed-2026-04-25]]

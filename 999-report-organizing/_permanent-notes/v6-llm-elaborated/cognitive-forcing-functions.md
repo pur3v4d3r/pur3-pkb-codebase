@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Dual Process Theory"
 
 related:
-  - "[[Dual Process Theory]]"
-  - "[[Heuristics-and-Biases]]"
-  - "[[Bounded Rationality]]"
+  - "[[dual-process-theory]]"
+  - "[[heuristics-and-biases]]"
+  - "[[bounded-rationality]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,19 +46,19 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Dual Process Theory]]"
+  - "[[dual-process-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Heuristics-and-Biases]]"
+  - "[[heuristics-and-biases]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Bounded Rationality]]"
+  - "[[bounded-rationality]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Cognitive Forcing Functions
 
 > [!definition] **Cognitive Forcing Functions**
-> Cognitive forcing functions are deliberately designed environmental features that compel engagement of Type 2 reasoning at specific decision points, even when Type 1 pattern-matching would otherwise produce a confident default. They fall under [[Dual Process Theory]], as they strategically alter the conditions for Type 2 reasoning to enhance decision quality.
+> Cognitive forcing functions are deliberately designed environmental features that compel engagement of Type 2 reasoning at specific decision points, even when Type 1 pattern-matching would otherwise produce a confident default. They fall under [[dual-process-theory]], as they strategically alter the conditions for Type 2 reasoning to enhance decision quality.
 
 > [!attention] **Boundary**
 > This concept excludes interventions that do not specifically target the triggering conditions for Type 2 reasoning and does not encompass all forms of cognitive bias mitigation or expertise development.
@@ -136,12 +136,12 @@ The strategic use of cognitive forcing functions aligns with the dual-process fr
 
 ## Connections & Context
 
-**Falls under:** [[Dual Process Theory]]
+**Falls under:** [[dual-process-theory]]
 
-**Sibling concepts:** [[Dual Process Theory]]
+**Sibling concepts:** [[dual-process-theory]]
 
-**Applies to:** [[Heuristics-and-Biases]]
+**Applies to:** [[heuristics-and-biases]]
 
-**Supports:** [[Bounded Rationality]]
+**Supports:** [[bounded-rationality]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

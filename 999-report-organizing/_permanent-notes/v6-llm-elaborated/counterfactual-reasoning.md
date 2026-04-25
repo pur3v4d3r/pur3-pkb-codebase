@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Reasoning Under Uncertainty]]"
-  - "[[Hindsight Bias]]"
-  - "[[Causal Attribution]]"
+  - "[[reasoning-under-uncertainty]]"
+  - "[[hindsight-bias]]"
+  - "[[causal-attribution]]"
 prerequisites:
-  - "[[Reasoning Under Uncertainty]]"
+  - "[[reasoning-under-uncertainty]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,11 +45,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Hindsight Bias]]"
+  - "[[hindsight-bias]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Causal Attribution]]"
+  - "[[causal-attribution]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Counterfactual Reasoning
 
 > [!definition] **Counterfactual Reasoning**
-> Counterfactual Reasoning involves imagining alternative scenarios to past events in order to understand causality, learn from outcomes, and plan for future actions. It falls under [[Cognitive Architecture]], as it is a critical component of how we process information and make decisions based on our experiences.
+> Counterfactual Reasoning involves imagining alternative scenarios to past events in order to understand causality, learn from outcomes, and plan for future actions. It falls under [[cognitive-architecture]], as it is a critical component of how we process information and make decisions based on our experiences.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of reasoning such as hypothetical reasoning or purely speculative thinking. It focuses on the mental simulations that follow an outcome and shape attributions, emotions, and behaviors.
@@ -135,12 +135,12 @@ Counterfactual Reasoning is also essential for advancing our understanding of co
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Reasoning Under Uncertainty]]
+**Prerequisites:** [[reasoning-under-uncertainty]]
 
-**Contrasts with:** [[Hindsight Bias]]
+**Contrasts with:** [[hindsight-bias]]
 
-**Applies to:** [[Causal Attribution]]
+**Applies to:** [[causal-attribution]]
 
 **Source:** [[counterfactual-reasoning-synthetic-seed-2026-04-25]]

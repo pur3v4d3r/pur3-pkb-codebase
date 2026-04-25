@@ -2,6 +2,7 @@
 title: "Split Attention Effect"
 aliases:
   - "Split Attention Effect"
+  - "Split-Attention Effect"
   - "CLT Foundational Report"
   - "Cognitive Load Theory Report"
   - "Sweller CLT Comprehensive Treatment"
@@ -36,10 +37,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +76,7 @@ provenance:
 # Split Attention Effect
 
 > [!definition] **Split Attention Effect**
-> The Split Attention Effect refers to the impairment of learning when learners must mentally integrate two or more physically or temporally separated sources of information that are unintelligible in isolation, consuming working memory resources for extraneous processing. It falls under [[Cognitive Architecture]], as it pertains to how information is processed and integrated within the cognitive system.
+> The Split Attention Effect refers to the impairment of learning when learners must mentally integrate two or more physically or temporally separated sources of information that are unintelligible in isolation, consuming working memory resources for extraneous processing. It falls under [[cognitive-architecture]], as it pertains to how information is processed and integrated within the cognitive system.
 
 > [!attention] **Boundary**
 > This effect is limited to cases where the separated sources are mutually referential; if each source is self-contained, physical separation does not produce the effect. It should not be confused with other cognitive load effects such as intrinsic or germane load.
@@ -136,10 +137,10 @@ The effect also has broader implications in user interface and human-computer in
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

@@ -35,16 +35,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Pattern Recognition]]"
+  - "[[working-memory]]"
+  - "[[pattern-recognition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Pattern Recognition]]"
+  - "[[pattern-recognition]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Expert Blind Spot
 
 > [!definition] **Expert Blind Spot**
-> The Expert Blind Spot is the systematic difficulty experts have in recognizing and explaining the challenges faced by novices because their cognitive processes are integrated into chunks that operate below conscious awareness. It falls under [[Cognitive Architecture]], as it arises from the very mechanisms that enable expert performance but can also hinder effective teaching.
+> The Expert Blind Spot is the systematic difficulty experts have in recognizing and explaining the challenges faced by novices because their cognitive processes are integrated into chunks that operate below conscious awareness. It falls under [[cognitive-architecture]], as it arises from the very mechanisms that enable expert performance but can also hinder effective teaching.
 
 > [!attention] **Boundary**
 > This concept does not include instances of carelessness or unwillingness to explain, but rather a structural consequence of expert cognition. It should not be confused with simple lack of knowledge or expertise in teaching methods.
@@ -133,10 +133,10 @@ The Expert Blind Spot also has broader implications for fields such as psycholog
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Pattern Recognition]]
+**Sibling concepts:** [[pattern-recognition]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

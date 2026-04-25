@@ -38,8 +38,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Metacognition]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[metacognition]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,13 +47,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Architectural Imperative
 
 > [!definition] **Architectural Imperative**
-> The Architectural Imperative refers to the requirement of a specific two-level architecture in metacognition, where self-directed cognitive processes are organized into distinct levels with formal information flow channels. It falls under [[Cognitive Architecture]], as it organizes these processes in a structured manner that is essential for theoretical grounding and practical application.
+> The Architectural Imperative refers to the requirement of a specific two-level architecture in metacognition, where self-directed cognitive processes are organized into distinct levels with formal information flow channels. It falls under [[cognitive-architecture]], as it organizes these processes in a structured manner that is essential for theoretical grounding and practical application.
 
 > [!attention] **Boundary**
 > This concept excludes descriptions of metacognitive phenomena without an architectural framework and does not encompass all aspects of metacognition or cognitive architectures.
@@ -131,10 +131,10 @@ The Architectural Imperative is crucial for advancing our understanding of metac
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Metacognition]]
+**Sibling concepts:** [[metacognition]]
 
-**Applies to:** [[Self-Regulated Learning]]
+**Applies to:** [[self-regulated-learning]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]

@@ -1,0 +1,40 @@
+concept: Intrinsic vs Extrinsic Motivation
+domain: motivational-psychology
+secondary_domains:
+- self-determination-theory
+- educational-psychology
+aliases:
+- intrinsic-extrinsic distinction
+- IM vs EM
+broader:
+- motivation-theory
+related:
+- intrinsic-motivation
+- extrinsic-motivation
+- autonomous-motivation
+- controlled-motivation
+- self-determination-theory-sdt
+prerequisites:
+- intrinsic-motivation
+- extrinsic-motivation
+confidence: high
+callouts:
+- type: definition
+  title: Intrinsic vs Extrinsic Motivation
+  body: Intrinsic vs Extrinsic Motivation is the foundational classification scheme
+    in motivation science that distinguishes behaviour driven by inherent interest,
+    enjoyment, or volitional engagement from behaviour driven by separable consequences
+    such as rewards, deadlines, or social approval.
+- type: key-claim
+  title: Key claim about Intrinsic vs Extrinsic Motivation
+  body: The Intrinsic vs Extrinsic Motivation distinction is not a clean dichotomy
+    but a continuum, and self-determination theory's organismic integration sub-theory
+    shows that extrinsic motivations differ enormously among themselves in how autonomously
+    they regulate behaviour.
+- type: warning
+  title: Common pitfall regarding Intrinsic vs Extrinsic Motivation
+  body: The Intrinsic vs Extrinsic Motivation distinction is frequently misread as
+    "intrinsic = good, extrinsic = bad", but well-internalised extrinsic motivation
+    can be as functional and durable as intrinsic motivation, and treating Intrinsic
+    vs Extrinsic Motivation as a moral binary leads to design failures in school and
+    workplace incentive systems.

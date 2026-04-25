@@ -37,7 +37,7 @@ parent-concept: "Client-Server Architecture"
 
 related:
   - "[[JSON-RPC]]"
-  - "[[Client-Server Architecture]]"
+  - "[[client-server-architecture]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -55,7 +55,7 @@ applies-to:
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Client-Server Architecture]]"
+  - "[[client-server-architecture]]"
 supports:
   - "[[]]"
 refines:
@@ -75,7 +75,7 @@ provenance:
 # Language Server Protocol
 
 > [!definition] **Language Server Protocol**
-> The Language Server Protocol (LSP) is a standardized communication protocol between a code editor and a language analysis engine that enables features like code completion and error detection to be developed once for a language and used by any editor supporting the protocol. It falls under [[Client-Server-Architecture]], where the LSP facilitates asynchronous, heavy computational analysis performed by the server while the client handles user interaction. It falls under [[Client-Server Architecture]].
+> The Language Server Protocol (LSP) is a standardized communication protocol between a code editor and a language analysis engine that enables features like code completion and error detection to be developed once for a language and used by any editor supporting the protocol. It falls under [[client-server-architecture]], where the LSP facilitates asynchronous, heavy computational analysis performed by the server while the client handles user interaction. It falls under [[client-server-architecture]].
 
 > [!attention] **Boundary**
 > It does not execute code but focuses on static analysis of source code, excluding runtime behavior and dynamic type changes.
@@ -134,10 +134,10 @@ LSP's importance extends beyond individual developers; it plays a key role in co
 
 ## Connections & Context
 
-**Falls under:** [[Client-Server Architecture]]
+**Falls under:** [[client-server-architecture]]
 
 **Applies to:** [[JSON-RPC]]
 
-**Instance of:** [[Client-Server Architecture]]
+**Instance of:** [[client-server-architecture]]
 
 **Source:** [[python-development-in-vscode-with-copilot-foundational-report-2026-04-19]]

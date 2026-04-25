@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Productive Failure
 
 > [!definition] **Productive Failure**
-> Productive failure is a phenomenon where learners who attempt complex problems without sufficient initial guidance learn the relevant concepts better than those receiving structured instruction from the start; it falls under [[Cognitive Load Theory]] as it leverages cognitive load to facilitate learning through schema construction.
+> Productive failure is a phenomenon where learners who attempt complex problems without sufficient initial guidance learn the relevant concepts better than those receiving structured instruction from the start; it falls under [[cognitive-load-theory]] as it leverages cognitive load to facilitate learning through schema construction.
 
 > [!attention] **Boundary**
 > This concept does not include situations where learners fail due to insufficient knowledge or lack of effort, but rather refers to a specific instructional strategy that leverages cognitive load theory for effective learning.
@@ -129,10 +129,10 @@ Understanding productive failure also has broader implications for fields such a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

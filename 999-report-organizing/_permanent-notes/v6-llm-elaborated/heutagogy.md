@@ -37,17 +37,17 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Metacognition]]"
-  - "[[Andragogy]]"
-  - "[[Self-Directed Learning]]"
+  - "[[metacognition]]"
+  - "[[andragogy]]"
+  - "[[self-directed-learning]]"
 prerequisites:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 specializes:
-  - "[[Andragogy]]"
+  - "[[andragogy]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Directed Learning]]"
+  - "[[self-directed-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -136,12 +136,12 @@ The concept of heutagogy also has broader implications for the field of educatio
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Metacognition]]
+**Prerequisites:** [[metacognition]]
 
-**Specializes:** [[Andragogy]]
+**Specializes:** [[andragogy]]
 
-**Sibling concepts:** [[Self-Directed Learning]]
+**Sibling concepts:** [[self-directed-learning]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

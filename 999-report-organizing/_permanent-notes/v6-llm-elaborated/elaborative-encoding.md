@@ -36,17 +36,17 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Schema Theory]]"
-  - "[[Worked Examples]]"
-  - "[[Retrieval Practice]]"
-  - "[[Metacognition]]"
+  - "[[working-memory]]"
+  - "[[schema-theory]]"
+  - "[[worked-examples]]"
+  - "[[retrieval-practice]]"
+  - "[[metacognition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -54,14 +54,14 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
-  - "[[Retrieval Practice]]"
+  - "[[worked-examples]]"
+  - "[[retrieval-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 refines:
   - "[[]]"
 
@@ -79,7 +79,7 @@ provenance:
 # Elaborative Encoding
 
 > [!definition] **Elaborative Encoding**
-> Elaborative encoding enriches incoming information by adding additional meaning, connections, and contextual associations during initial processing, producing more distinctive and retrievable memory traces compared to surface-level processing. It falls under [[Cognitive Architecture]], as it enhances the integration of new knowledge with existing schemas, thereby strengthening memory retention.
+> Elaborative encoding enriches incoming information by adding additional meaning, connections, and contextual associations during initial processing, producing more distinctive and retrievable memory traces compared to surface-level processing. It falls under [[cognitive-architecture]], as it enhances the integration of new knowledge with existing schemas, thereby strengthening memory retention.
 
 > [!attention] **Boundary**
 > This concept excludes surface-level processing and irrelevant elaboration. It focuses on the creation of multiple retrieval paths and integration with existing knowledge.
@@ -135,14 +135,14 @@ By integrating elaborative encoding into PKB workflows, practitioners can create
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Generalizes to:** [[Schema Theory]]
+**Generalizes to:** [[schema-theory]]
 
-**Applies to:** [[Worked Examples]] · [[Retrieval Practice]]
+**Applies to:** [[worked-examples]] · [[retrieval-practice]]
 
-**Supports:** [[Metacognition]]
+**Supports:** [[metacognition]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]

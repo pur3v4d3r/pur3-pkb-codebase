@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Pattern Recognition
 
 > [!definition] **Pattern Recognition**
-> Pattern Recognition is the rapid categorization of perceptual or symbolic inputs against stored schemas, chunks, or exemplars without exhaustive feature-by-feature comparison. It falls under [[Cognitive Architecture]], where it operates as a key mechanism that allows experts to circumvent working-memory limits by recognizing meaningful patterns rather than processing each element individually.
+> Pattern Recognition is the rapid categorization of perceptual or symbolic inputs against stored schemas, chunks, or exemplars without exhaustive feature-by-feature comparison. It falls under [[cognitive-architecture]], where it operates as a key mechanism that allows experts to circumvent working-memory limits by recognizing meaningful patterns rather than processing each element individually.
 
 > [!attention] **Boundary**
 > It excludes deliberate, slow reasoning processes and is distinct from general memory retrieval mechanisms.
@@ -128,10 +128,10 @@ Understanding Pattern Recognition is crucial for cognitive psychology as it prov
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pattern-recognition-synthetic-seed-2026-04-24]]

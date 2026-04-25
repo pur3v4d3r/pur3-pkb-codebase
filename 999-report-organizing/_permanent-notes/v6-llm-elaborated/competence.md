@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Autonomy]]"
-  - "[[Relatedness]]"
+  - "[[autonomy]]"
+  - "[[relatedness]]"
   - "[[Achievement]]"
 prerequisites:
   - "[[]]"
@@ -43,8 +43,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Autonomy]]"
-  - "[[Relatedness]]"
+  - "[[autonomy]]"
+  - "[[relatedness]]"
 contrasts-with:
   - "[[Achievement]]"
 contradicts:
@@ -130,9 +130,9 @@ By recognizing the unique role of competence in promoting stable and autonomous 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Autonomy]] · [[Relatedness]]
+**Sibling concepts:** [[autonomy]] · [[relatedness]]
 
 **Contrasts with:** [[Achievement]]
 

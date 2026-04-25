@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,7 +46,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Comprehension Monitoring
 
 > [!definition] **Comprehension Monitoring**
-> Comprehension monitoring is the metacognitive process by which a reader continuously evaluates the state of their developing comprehension during reading and detects breakdowns when the developing representation fails to cohere with the incoming text, operating against criteria collectively known as the standard of coherence. It falls under [[Metacognition]], focusing on online awareness during reading rather than the underlying construction of meaning or post-hoc evaluation.
+> Comprehension monitoring is the metacognitive process by which a reader continuously evaluates the state of their developing comprehension during reading and detects breakdowns when the developing representation fails to cohere with the incoming text, operating against criteria collectively known as the standard of coherence. It falls under [[metacognition]], focusing on online awareness during reading rather than the underlying construction of meaning or post-hoc evaluation.
 
 > [!attention] **Boundary**
 > It is distinct from both the underlying construction of meaning and post-hoc evaluation, focusing on online awareness during reading.
@@ -124,10 +124,10 @@ Comprehension monitoring is a vital component of skilled metacognitive reading, 
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

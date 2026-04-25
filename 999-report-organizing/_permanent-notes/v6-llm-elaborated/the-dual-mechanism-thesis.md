@@ -36,17 +36,17 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Schema Theory]]"
-  - "[[Expertise Reversal Effect]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[schema-theory]]"
+  - "[[expertise-reversal-effect]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Expertise Reversal Effect]]"
+  - "[[expertise-reversal-effect]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -58,7 +58,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Dual-Mechanism Thesis
 
 > [!definition] **Dual-Mechanism Thesis**
-> The Dual-Mechanism Thesis posits that expert performance in complex domains depends on schema construction and schema automation, which are distinct yet complementary cognitive processes. It falls under [[Cognitive Architecture]], as these mechanisms are foundational to how knowledge is organized and utilized.
+> The Dual-Mechanism Thesis posits that expert performance in complex domains depends on schema construction and schema automation, which are distinct yet complementary cognitive processes. It falls under [[cognitive-architecture]], as these mechanisms are foundational to how knowledge is organized and utilized.
 
 > [!attention] **Boundary**
 > This concept focuses on the two mechanisms of schema construction and schema automation. It does not cover other aspects of learning such as motivation or affective states.
@@ -137,12 +137,12 @@ The Dual-Mechanism Thesis complements other concepts like Schema Theory and Cogn
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Schema Theory]]
+**Prerequisites:** [[schema-theory]]
 
-**Sibling concepts:** [[Expertise Reversal Effect]]
+**Sibling concepts:** [[expertise-reversal-effect]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

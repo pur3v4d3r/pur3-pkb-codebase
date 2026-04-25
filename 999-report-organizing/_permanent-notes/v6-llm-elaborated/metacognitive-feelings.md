@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Fluency as a Cue]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -72,7 +72,7 @@ provenance:
 # Metacognitive Feelings
 
 > [!definition] **Metacognitive Feelings**
-> Metacognitive Feelings are the fast, often non-conscious affective signals that inform metacognitive judgements such as feeling of knowing or fluency, and they fall under [[Metacognition]]. These feelings rest substantially on processing fluency: material that is processed easily produces feelings of knowing and confidence, regardless of whether the underlying knowledge is accurate.
+> Metacognitive Feelings are the fast, often non-conscious affective signals that inform metacognitive judgements such as feeling of knowing or fluency, and they fall under [[metacognition]]. These feelings rest substantially on processing fluency: material that is processed easily produces feelings of knowing and confidence, regardless of whether the underlying knowledge is accurate.
 
 > [!attention] **Boundary**
 > This concept excludes conscious reflective processes and focuses on the automatic, affective signals that guide metacognitive judgments.
@@ -131,9 +131,9 @@ The implications of this concept extend beyond education into broader fields suc
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[Fluency as a Cue]]
 

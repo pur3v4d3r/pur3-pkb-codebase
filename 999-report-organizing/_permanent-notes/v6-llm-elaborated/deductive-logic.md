@@ -32,14 +32,14 @@ depth-level: elaborated
 parent-concept: "Formal Logic"
 
 related:
-  - "[[Propositional Logic]]"
-  - "[[Predicate Logic]]"
+  - "[[propositional-logic]]"
+  - "[[predicate-logic]]"
   - "[[Non-Monotonic Logic]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Propositional Logic]]"
-  - "[[Predicate Logic]]"
+  - "[[propositional-logic]]"
+  - "[[predicate-logic]]"
 broader:
   - "[[]]"
 see-also:
@@ -136,7 +136,7 @@ Understanding these limitations highlights the need for extending Deductive Logi
 
 **Falls under:** [[Formal Logic]]
 
-**Specializes:** [[Propositional Logic]] · [[Predicate Logic]]
+**Specializes:** [[propositional-logic]] · [[predicate-logic]]
 
 **Contrasts with:** [[Non-Monotonic Logic]]
 

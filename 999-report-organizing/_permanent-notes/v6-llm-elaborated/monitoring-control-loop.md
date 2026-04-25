@@ -35,16 +35,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[working-memory]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Monitoring–Control Loop
 
 > [!definition] **Monitoring–Control Loop**
-> The Monitoring–Control Loop is a two-level cognitive architecture where an *object level* performs primary cognitive work (such as decoding and integrating information) while a *meta level* monitors the object level's state and intervenes when necessary to regulate processing. This loop operates largely outside awareness, producing felt experiences without explicit verbal thought, falling under [[Cognitive Architecture]].
+> The Monitoring–Control Loop is a two-level cognitive architecture where an *object level* performs primary cognitive work (such as decoding and integrating information) while a *meta level* monitors the object level's state and intervenes when necessary to regulate processing. This loop operates largely outside awareness, producing felt experiences without explicit verbal thought, falling under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This loop does not encompass introspection in the philosophical sense, nor is it merely a metaphor for conscious thought. It operates largely outside awareness, producing felt experiences without explicit verbal thought.
@@ -131,14 +131,14 @@ The loop operates as a sampling system rather than a continuous tracker. The met
 
 ## Synthesis
 
-The Monitoring–Control Loop is a foundational concept in cognitive science because it explains how selective and efficient self-regulated cognition is possible. It operates within the constraints of working memory capacity and provides a framework for understanding metacognitive processes. This loop is central to both [[Working Memory]] and [[Self-Regulated Learning]], making it essential for advancing our understanding of cognitive self-regulation in various domains.
+The Monitoring–Control Loop is a foundational concept in cognitive science because it explains how selective and efficient self-regulated cognition is possible. It operates within the constraints of working memory capacity and provides a framework for understanding metacognitive processes. This loop is central to both [[working-memory]] and [[self-regulated-learning]], making it essential for advancing our understanding of cognitive self-regulation in various domains.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

@@ -33,19 +33,19 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Semantic Memory]]"
-  - "[[Reconstructive Memory]]"
+  - "[[working-memory]]"
+  - "[[semantic-memory]]"
+  - "[[reconstructive-memory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Semantic Memory]]"
+  - "[[semantic-memory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Reconstructive Memory]]"
+  - "[[reconstructive-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Episodic Memory
 
 > [!definition] **Episodic Memory**
-> Episodic memory is the long-term system that stores personally experienced events along with their spatial, temporal, and emotional context, enabling mental time travel through re-experiencing specific moments of acquisition. It falls under [[Cognitive Architecture]], as it plays a crucial role in how we process and recall personal experiences.
+> Episodic memory is the long-term system that stores personally experienced events along with their spatial, temporal, and emotional context, enabling mental time travel through re-experiencing specific moments of acquisition. It falls under [[cognitive-architecture]], as it plays a crucial role in how we process and recall personal experiences.
 
 > [!attention] **Boundary**
 > It excludes other forms of memory like procedural or semantic memory, which do not involve personal experience or contextual details.
@@ -133,12 +133,12 @@ Research supports the idea that episodic memories can be influenced by subsequen
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Generalizes to:** [[Semantic Memory]]
+**Generalizes to:** [[semantic-memory]]
 
-**Contrasts with:** [[Reconstructive Memory]]
+**Contrasts with:** [[reconstructive-memory]]
 
 **Source:** [[episodic-memory-synthetic-seed-2026-04-24]]

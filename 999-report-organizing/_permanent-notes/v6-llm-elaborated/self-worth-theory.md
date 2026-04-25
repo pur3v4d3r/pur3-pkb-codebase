@@ -32,11 +32,11 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Ego-Involvement]]"
-  - "[[Fixed-Mindset]]"
-  - "[[Achievement-Goal Theory]]"
+  - "[[ego-involvement]]"
+  - "[[fixed-mindset]]"
+  - "[[achievement-goal-theory]]"
 prerequisites:
-  - "[[Ego-Involvement]]"
+  - "[[ego-involvement]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Fixed-Mindset]]"
+  - "[[fixed-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Achievement-Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Self-Worth Theory
 
 > [!definition] **Self-Worth Theory**
-> Self-Worth Theory, developed by Markus V. Covington, posits that students are primarily motivated to maintain their sense of personal worth through achievement in school settings. It falls under [[Motivational Psychology]], where it focuses on the motivational aspect related to maintaining self-worth and does not cover other aspects such as intrinsic or extrinsic motivators.
+> Self-Worth Theory, developed by Markus V. Covington, posits that students are primarily motivated to maintain their sense of personal worth through achievement in school settings. It falls under [[motivational-psychology]], where it focuses on the motivational aspect related to maintaining self-worth and does not cover other aspects such as intrinsic or extrinsic motivators.
 
 > [!attention] **Boundary**
 > This theory focuses on the motivational aspect related to maintaining self-worth and does not cover other aspects of motivation such as intrinsic or extrinsic motivators.
@@ -134,12 +134,12 @@ The theory's focus on the psychological impact of effort and failure highlights 
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Prerequisites:** [[Ego-Involvement]]
+**Prerequisites:** [[ego-involvement]]
 
-**Contrasts with:** [[Fixed-Mindset]]
+**Contrasts with:** [[fixed-mindset]]
 
-**Applies to:** [[Achievement-Goal Theory]]
+**Applies to:** [[achievement-goal-theory]]
 
 **Source:** [[self-worth-theory-synthetic-seed-2026-04-25]]

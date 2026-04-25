@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Achievement Goal Theory"
 
 related:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Attribution Theory]]"
+  - "[[self-efficacy-theory]]"
+  - "[[attribution-theory]]"
   - "[[Pintrich's 4×4 Matrix]]"
 prerequisites:
   - "[[]]"
@@ -48,8 +48,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Attribution Theory]]"
+  - "[[self-efficacy-theory]]"
+  - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -77,7 +77,7 @@ provenance:
 # Mastery Climate vs Performance Climate
 
 > [!definition] **Mastery Climate vs Performance Climate**
-> A mastery climate is a learning environment whose configuration of structural features (tasks, authority distribution, recognition criteria, grouping practices, evaluation methods, time organization) jointly elicits mastery-approach goal orientation in the learners operating within it. A performance climate, on the other hand, emphasizes performance outcomes and often leads to avoidance goals, making it an active producer of orientation through the meanings it assigns to achievement situations. It falls under [[Achievement Goal Theory]].
+> A mastery climate is a learning environment whose configuration of structural features (tasks, authority distribution, recognition criteria, grouping practices, evaluation methods, time organization) jointly elicits mastery-approach goal orientation in the learners operating within it. A performance climate, on the other hand, emphasizes performance outcomes and often leads to avoidance goals, making it an active producer of orientation through the meanings it assigns to achievement situations. It falls under [[achievement-goal-theory]].
 
 > [!attention] **Boundary**
 > This concept focuses on the learning environment's configuration rather than individual student characteristics or specific instructional methods. It does not encompass broader theories of motivation like self-efficacy or attribution theory, nor does it cover assessment design specifics.
@@ -88,7 +88,7 @@ In a mastery climate, tasks are designed to be challenging yet achievable, encou
 
 Practically, this means that evaluation methods in a mastery climate are criterion-referenced, focusing on whether learners meet specific standards or criteria, rather than comparing them to their peers. This approach helps build intrinsic motivation by emphasizing personal growth and understanding over competition.
 
-Theoretical roots of the mastery climate can be traced back to [[Achievement Goal Theory]], which posits that goal orientations are not fixed but are shaped by the learning environment. The performance climate, in contrast, aligns more closely with avoidance goals, where learners may avoid challenging tasks for fear of failure or negative evaluation.
+Theoretical roots of the mastery climate can be traced back to [[achievement-goal-theory]], which posits that goal orientations are not fixed but are shaped by the learning environment. The performance climate, in contrast, aligns more closely with avoidance goals, where learners may avoid challenging tasks for fear of failure or negative evaluation.
 
 Historically, the distinction between mastery and performance climates has been supported by empirical research showing that students in mastery-oriented environments tend to exhibit higher levels of intrinsic motivation and better academic outcomes over time.
 
@@ -136,9 +136,9 @@ This concept also intersects with broader theories such as self-efficacy and att
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Self-Efficacy Theory]] · [[Attribution Theory]]
+**Contrasts with:** [[self-efficacy-theory]] · [[attribution-theory]]
 
 **Applies to:** [[Pintrich's 4×4 Matrix]]
 

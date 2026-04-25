@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Approach-Avoidance Motivation]]"
-  - "[[Self-Determination Theory]]"
+  - "[[approach-avoidance-motivation]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Approach-Avoidance Motivation]]"
+  - "[[approach-avoidance-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Regulatory Focus Theory
 
 > [!definition] **Regulatory Focus Theory**
-> Regulatory Focus Theory, developed by Tedeschi and Higgins, explains how individuals pursue goals through a promotion focus on gains or prevention focus on safety, each with distinct strategies and emotional outcomes. It falls under [[Motivational Psychology]], where it differentiates from approach-avoidance motivation in focusing on the type of end-state pursued (ideal vs. ought), strategic means preferred (eagerness vs. vigilance), and felt outcomes of success and failure (cheerfulness/dejection vs. quiescence/agitation).
+> Regulatory Focus Theory, developed by Tedeschi and Higgins, explains how individuals pursue goals through a promotion focus on gains or prevention focus on safety, each with distinct strategies and emotional outcomes. It falls under [[motivational-psychology]], where it differentiates from approach-avoidance motivation in focusing on the type of end-state pursued (ideal vs. ought), strategic means preferred (eagerness vs. vigilance), and felt outcomes of success and failure (cheerfulness/dejection vs. quiescence/agitation).
 
 > [!attention] **Boundary**
 > This theory does not equate to approach-avoidance motivation but rather focuses on the type of end-state pursued (ideal vs. ought), strategic means preferred (eagerness vs. vigilance), and felt outcomes of success and failure (cheerfulness/dejection vs. quiescence/agitation).
@@ -130,8 +130,8 @@ Regulatory Focus Theory matters because it offers a nuanced understanding of how
 
 ## Connections & Context
 
-**Contrasts with:** [[Approach-Avoidance Motivation]]
+**Contrasts with:** [[approach-avoidance-motivation]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
 **Source:** [[regulatory-focus-theory-synthetic-seed-2026-04-25]]

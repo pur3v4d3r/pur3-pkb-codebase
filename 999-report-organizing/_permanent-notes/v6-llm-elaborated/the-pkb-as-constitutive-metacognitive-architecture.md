@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # PKB as Constitutive Metacognitive Architecture
 
 > [!definition] **PKB as Constitutive Metacognitive Architecture**
-> The PKB (Personal Knowledge Base) is a structured externalized system that integrates with the learner's metacognitive processes, becoming an integral part of their regulatory architecture similar to how eyeglasses integrate into vision. It falls under [[Metacognition]], functioning not as an optional supplement but as a constitutive component of the learner’s cognitive and metacognitive systems.
+> The PKB (Personal Knowledge Base) is a structured externalized system that integrates with the learner's metacognitive processes, becoming an integral part of their regulatory architecture similar to how eyeglasses integrate into vision. It falls under [[metacognition]], functioning not as an optional supplement but as a constitutive component of the learner’s cognitive and metacognitive systems.
 
 > [!attention] **Boundary**
 > This concept excludes standalone tools or systems that do not functionally integrate with the user’s cognitive and metacognitive processes. It is distinct from externalized memory aids that are not habitually used or integrated into regular practice.
@@ -134,10 +134,10 @@ The PKB as a constitutive metacognitive architecture also aligns with broader th
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

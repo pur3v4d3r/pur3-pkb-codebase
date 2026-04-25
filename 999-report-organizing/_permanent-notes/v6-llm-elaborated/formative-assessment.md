@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Formative Assessment
 
 > [!definition] **Formative Assessment**
-> Formative Assessment involves using assessment evidence — in-task, between-task, or end-of-unit — to adjust ongoing teaching and learning rather than producing a terminal grade, operationalized through low-stakes retrieval, diagnostic questioning, peer review, and structured self-assessment aimed at surfacing misconceptions and recalibrating effort while the learning is still in progress. It falls under [[Self-Regulated Learning]], as it supports students in monitoring their own understanding and adjusting their strategies accordingly.
+> Formative Assessment involves using assessment evidence — in-task, between-task, or end-of-unit — to adjust ongoing teaching and learning rather than producing a terminal grade, operationalized through low-stakes retrieval, diagnostic questioning, peer review, and structured self-assessment aimed at surfacing misconceptions and recalibrating effort while the learning is still in progress. It falls under [[self-regulated-learning]], as it supports students in monitoring their own understanding and adjusting their strategies accordingly.
 
 > [!attention] **Boundary**
 > This concept excludes activities that do not adjust instruction or feedback based on the assessment evidence, such as frequent summative testing that does not inform teaching adjustments.
@@ -132,10 +132,10 @@ The concept of Formative Assessment also intersects with other related concepts 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[formative-assessment-synthetic-seed-2026-04-24]]

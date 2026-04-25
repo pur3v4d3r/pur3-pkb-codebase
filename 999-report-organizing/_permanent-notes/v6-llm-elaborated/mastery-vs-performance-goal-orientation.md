@@ -36,18 +36,18 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Goal Setting Theory]]"
-  - "[[Self-Efficacy]]"
+  - "[[goal-setting-theory]]"
+  - "[[self-efficacy]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Goal Setting Theory]]"
+  - "[[goal-setting-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -138,10 +138,10 @@ The implications of mastery vs. performance goal orientations extend beyond indi
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Goal Setting Theory]]
+**Generalizes to:** [[goal-setting-theory]]
 
-**Contrasts with:** [[Self-Efficacy]]
+**Contrasts with:** [[self-efficacy]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]

@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Integration-Transfer Advantage
 
 > [!definition] **Integration-Transfer Advantage**
-> The Integration-Transfer Advantage refers to the superior integration of constituent skills and transfer to novel task contexts achieved through a whole-task approach compared to traditional atomistic instruction. It falls under [[Cognitive Architecture]], as it pertains to how complex learning is structured and facilitated.
+> The Integration-Transfer Advantage refers to the superior integration of constituent skills and transfer to novel task contexts achieved through a whole-task approach compared to traditional atomistic instruction. It falls under [[cognitive-architecture]], as it pertains to how complex learning is structured and facilitated.
 
 > [!attention] **Boundary**
 > This concept is about the comparative effectiveness of instructional approaches in complex, ill-structured domains. It does not cover simple or well-structured tasks where atomistic instruction may be more effective.
@@ -134,10 +134,10 @@ Understanding the Integration-Transfer Advantage also connects it to broader the
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Memory Consolidation
 
 > [!definition] **Memory Consolidation**
-> Memory Consolidation is the process by which labile, hippocampally-supported memories become stable, distributed cortical representations over time, often enhanced during sleep. It falls under [[Cognitive Architecture]], as it involves the integration and stabilization of information across different neural systems and timescales.
+> Memory Consolidation is the process by which labile, hippocampally-supported memories become stable, distributed cortical representations over time, often enhanced during sleep. It falls under [[cognitive-architecture]], as it involves the integration and stabilization of information across different neural systems and timescales.
 
 > [!attention] **Boundary**
 > This concept excludes short-term memory and immediate encoding processes but includes long-term memory stabilization and offline replay during sleep.
@@ -131,10 +131,10 @@ Memory Consolidation intersects with other concepts in cognitive science, such a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[memory-consolidation-synthetic-seed-2026-04-24]]

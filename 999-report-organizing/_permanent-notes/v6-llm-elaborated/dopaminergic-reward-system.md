@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Neuroscience of Learning"
 
 related:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Temporal-Difference Learning]]"
 prerequisites:
   - "[[]]"
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -133,7 +133,7 @@ This concept also highlights the importance of distinguishing between motivation
 
 **Falls under:** [[Neuroscience of Learning]]
 
-**Contrasts with:** [[Intrinsic Motivation]]
+**Contrasts with:** [[intrinsic-motivation]]
 
 **Applies to:** [[Temporal-Difference Learning]]
 

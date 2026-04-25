@@ -41,7 +41,7 @@ related:
   - "[[Metamemory]]"
   - "[[Judgment-of-Learning (JOL)]]"
   - "[[Self-Assessment]]"
-  - "[[Calibration]]"
+  - "[[calibration]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -55,7 +55,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Calibration]]"
+  - "[[calibration]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -79,7 +79,7 @@ provenance:
 # Metacognitive Monitoring
 
 > [!definition] **Metacognitive Monitoring**
-> Metacognitive monitoring is the upward flow of information from the object-level to the meta-level, through which the meta-level constructs and updates its model of the object-level's state based on available cues such as processing fluency and retrieval latency. Monitoring is not equivalent to accurate self-assessment; it depends on the diagnosticity of the cues available and falls under [[Cognitive Architecture]].
+> Metacognitive monitoring is the upward flow of information from the object-level to the meta-level, through which the meta-level constructs and updates its model of the object-level's state based on available cues such as processing fluency and retrieval latency. Monitoring is not equivalent to accurate self-assessment; it depends on the diagnosticity of the cues available and falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > Monitoring is not equivalent to accurate self-assessment; it depends on the diagnosticity of the cues available. It does not include the actual performance or the object-level itself but focuses on the meta-level's inference about its own state.
@@ -139,7 +139,7 @@ By integrating insights from metacognitive monitoring into these fields, practit
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Generalizes to:** [[Metamemory]]
 
@@ -147,6 +147,6 @@ By integrating insights from metacognitive monitoring into these fields, practit
 
 **Contrasts with:** [[Self-Assessment]]
 
-**Applies to:** [[Calibration]]
+**Applies to:** [[calibration]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]

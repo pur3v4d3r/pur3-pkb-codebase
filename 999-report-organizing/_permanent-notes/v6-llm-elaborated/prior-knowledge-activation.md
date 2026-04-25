@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Advance Organizer]]"
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Prior Knowledge Activation
 
 > [!definition] **Prior Knowledge Activation**
-> Prior Knowledge Activation involves instructional strategies that bring relevant existing knowledge into working memory before new content is introduced, enhancing comprehension and retention. It falls under [[Cognitive Architecture]], focusing on the activation of relevant background knowledge to support encoding and understanding.
+> Prior Knowledge Activation involves instructional strategies that bring relevant existing knowledge into working memory before new content is introduced, enhancing comprehension and retention. It falls under [[cognitive-architecture]], focusing on the activation of relevant background knowledge to support encoding and understanding.
 
 > [!attention] **Boundary**
 > This concept excludes the activation of irrelevant or incorrect prior knowledge, which can hinder learning. It also does not encompass all forms of pre-reading activities but focuses on those specifically designed to activate relevant background knowledge.
@@ -130,12 +130,12 @@ Prior Knowledge Activation is a critical component in instructional design becau
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Advance Organizer]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[prior-knowledge-activation-synthetic-seed-2026-04-24]]

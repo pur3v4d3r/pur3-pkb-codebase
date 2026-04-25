@@ -34,11 +34,11 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Retrospective Confidence]]"
   - "[[Ease-of-Learning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -74,7 +74,7 @@ provenance:
 # Metacognitive Judgments
 
 > [!definition] **Metacognitive Judgments**
-> Metacognitive Judgments are explicit assessments learners make about their own cognitive states, such as ease-of-learning or confidence in recall, and serve as inputs to metacognitive regulation. These judgments fall under [[Self-Regulated Learning]], constructed from cues like fluency and familiarity rather than read off an internal knowledge meter.
+> Metacognitive Judgments are explicit assessments learners make about their own cognitive states, such as ease-of-learning or confidence in recall, and serve as inputs to metacognitive regulation. These judgments fall under [[self-regulated-learning]], constructed from cues like fluency and familiarity rather than read off an internal knowledge meter.
 
 > [!attention] **Boundary**
 > This concept excludes internal knowledge meters and focuses on the real-time construction of judgments from cues like fluency and familiarity.
@@ -136,9 +136,9 @@ The concept of Metacognitive Judgments also intersects with working memory and e
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Retrospective Confidence]]
 

@@ -33,17 +33,17 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Attention and Cognitive Control]]"
+  - "[[working-memory]]"
+  - "[[attention-and-cognitive-control]]"
   - "[[Prefrontal Cortex]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Attention and Cognitive Control]]"
+  - "[[attention-and-cognitive-control]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -73,7 +73,7 @@ provenance:
 # Executive Function
 
 > [!definition] **Executive Function**
-> Executive Function refers to a family of top-down control processes — typically decomposed into updating (working-memory refresh), inhibition (suppressing prepotent responses), and shifting (switching between tasks or rule-sets) — that coordinate goal-directed behavior. It falls under [[Cognitive Architecture]], as it involves the orchestration of cognitive resources to achieve complex goals, which is a key aspect of how the brain organizes information and processes tasks.
+> Executive Function refers to a family of top-down control processes — typically decomposed into updating (working-memory refresh), inhibition (suppressing prepotent responses), and shifting (switching between tasks or rule-sets) — that coordinate goal-directed behavior. It falls under [[cognitive-architecture]], as it involves the orchestration of cognitive resources to achieve complex goals, which is a key aspect of how the brain organizes information and processes tasks.
 
 > [!attention] **Boundary**
 > This concept excludes specific cognitive processes not involving top-down control, such as sensory processing or reflexive actions.
@@ -136,11 +136,11 @@ Research supports the robust predictive power of Executive Function for academic
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Attention and Cognitive Control]]
+**Sibling concepts:** [[attention-and-cognitive-control]]
 
 **Applies to:** [[Prefrontal Cortex]]
 

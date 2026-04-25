@@ -35,7 +35,7 @@ parent-concept: "Debugging"
 
 related:
   - "[[Conditional Breakpoint]]"
-  - "[[Debugging]]"
+  - "[[debugging]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Debugging]]"
+  - "[[debugging]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -73,7 +73,7 @@ provenance:
 # Breakpoint
 
 > [!definition] **Breakpoint**
-> A breakpoint is a marker set in code to pause execution at a specific line, allowing developers to inspect the program's state during debugging (it falls under [[Debugging]]). This mechanism enables detailed examination of variable values and call stacks, making it an essential tool for understanding how programs operate.
+> A breakpoint is a marker set in code to pause execution at a specific line, allowing developers to inspect the program's state during debugging (it falls under [[debugging]]). This mechanism enables detailed examination of variable values and call stacks, making it an essential tool for understanding how programs operate.
 
 > [!attention] **Boundary**
 > Excludes other debugging tools like watches or conditional breakpoints but includes the concept of pausing execution for inspection purposes.
@@ -132,10 +132,10 @@ Breakpoints also play a significant role in hypothesis testing by allowing resea
 
 ## Connections & Context
 
-**Falls under:** [[Debugging]]
+**Falls under:** [[debugging]]
 
 **Specializes:** [[Conditional Breakpoint]]
 
-**Sibling concepts:** [[Debugging]]
+**Sibling concepts:** [[debugging]]
 
 **Source:** [[python-development-in-vscode-with-copilot-annotated-critical-analysis-2026-04-19]]

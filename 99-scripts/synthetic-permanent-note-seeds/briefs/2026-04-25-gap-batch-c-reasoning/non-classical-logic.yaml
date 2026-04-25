@@ -1,0 +1,41 @@
+concept: Non Classical Logic
+domain: critical-thinking
+secondary_domains:
+- philosophy
+- mathematics
+aliases:
+- alternative logics
+- non-classical systems
+broader:
+- logic
+related:
+- formal-logic
+- modal-logic
+- fuzzy-logic
+- intuitionistic-logic
+- paraconsistent-logic
+- temporal-logic
+prerequisites:
+- formal-logic
+confidence: high
+callouts:
+- type: definition
+  title: Non Classical Logic
+  body: Non Classical Logic is the family of formal systems that depart from classical
+    bivalent two-valued logic in at least one of its core assumptions — bivalence,
+    the law of excluded middle, ex contradictione quodlibet, or material implication
+    — and it includes modal, intuitionistic, fuzzy, paraconsistent, relevance, and
+    many-valued logics.
+- type: key-claim
+  title: Key claim about Non Classical Logic
+  body: Non Classical Logic is not a rejection of classical logic but a controlled
+    relaxation of its assumptions to model phenomena classical logic cannot represent
+    gracefully, such as necessity and possibility (modal), constructive proof (intuitionistic),
+    graded truth (fuzzy), or contradictions without explosion (paraconsistent).
+- type: warning
+  title: Common pitfall regarding Non Classical Logic
+  body: Non Classical Logic is sometimes invoked as if it licensed loose reasoning
+    ("logic is just one option"), but each Non Classical Logic system is at least
+    as rigorous as classical logic; treating Non Classical Logic as permission for
+    ambiguity reverses the actual relationship between formal systems and informal
+    reasoning.

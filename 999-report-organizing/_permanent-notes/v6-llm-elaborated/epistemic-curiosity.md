@@ -33,23 +33,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Need for Cognition]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Four-Phase Model of Interest Development]]"
+  - "[[need-for-cognition]]"
+  - "[[intrinsic-motivation]]"
+  - "[[four-phase-model-of-interest-development]]"
 prerequisites:
-  - "[[Need for Cognition]]"
+  - "[[need-for-cognition]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Four-Phase Model of Interest Development]]"
+  - "[[four-phase-model-of-interest-development]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Epistemic Curiosity
 
 > [!definition] **Epistemic Curiosity**
-> Epistemic Curiosity is the desire to acquire new information for its own sake, driven by the anticipation of pleasure from new knowledge (interest-type) and the aversion to a felt gap in understanding (deprivation-type), both of which energize information-seeking behavior. It falls under [[Cognitive Architecture]].
+> Epistemic Curiosity is the desire to acquire new information for its own sake, driven by the anticipation of pleasure from new knowledge (interest-type) and the aversion to a felt gap in understanding (deprivation-type), both of which energize information-seeking behavior. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept excludes other forms of curiosity like exploratory or novelty-seeking curiosity. It focuses specifically on the cognitive drive towards acquiring and integrating new knowledge.
@@ -132,12 +132,12 @@ The study of epistemic curiosity not only enhances our understanding of cognitiv
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Need for Cognition]]
+**Prerequisites:** [[need-for-cognition]]
 
-**Sibling concepts:** [[Intrinsic Motivation]]
+**Sibling concepts:** [[intrinsic-motivation]]
 
-**Applies to:** [[Four-Phase Model of Interest Development]]
+**Applies to:** [[four-phase-model-of-interest-development]]
 
 **Source:** [[epistemic-curiosity-synthetic-seed-2026-04-25]]

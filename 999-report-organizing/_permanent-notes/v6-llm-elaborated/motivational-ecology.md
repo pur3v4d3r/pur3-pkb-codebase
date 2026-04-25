@@ -37,10 +37,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Self-Determination Theory]]"
+  - "[[intrinsic-motivation]]"
+  - "[[self-determination-theory]]"
 prerequisites:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # Motivational Ecology
 
 > [!definition] **Motivational Ecology**
-> Motivational Ecology is an interconnected system of motivational conditions — including intrinsic interest, identity commitment, social belonging, practical relevance, and competence satisfaction — that together create a self-sustaining motivational system characterised by diversity, redundancy, development, social embeddedness, and metacognitive awareness. It falls under [[Self-Regulated Learning]], as it focuses on the dynamic interplay between multiple motivational factors within a learner's environment.
+> Motivational Ecology is an interconnected system of motivational conditions — including intrinsic interest, identity commitment, social belonging, practical relevance, and competence satisfaction — that together create a self-sustaining motivational system characterised by diversity, redundancy, development, social embeddedness, and metacognitive awareness. It falls under [[self-regulated-learning]], as it focuses on the dynamic interplay between multiple motivational factors within a learner's environment.
 
 > [!attention] **Boundary**
 > This concept excludes single-motivation theories like intrinsic motivation alone. It focuses on the dynamic interplay between multiple motivational factors within a learner's environment.
@@ -135,10 +135,10 @@ This concept also has broader implications for fields such as community developm
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Intrinsic Motivation]]
+**Prerequisites:** [[intrinsic-motivation]]
 
-**Contrasts with:** [[Self-Determination Theory]]
+**Contrasts with:** [[self-determination-theory]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

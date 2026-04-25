@@ -31,23 +31,23 @@ depth-level: elaborated
 parent-concept: "Learning Theories"
 
 related:
-  - "[[Information Processing Theory]]"
-  - "[[Constructivism]]"
-  - "[[Schema Theory and Learning]]"
+  - "[[information-processing-theory]]"
+  - "[[constructivism]]"
+  - "[[schema-theory-and-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Information Processing Theory]]"
+  - "[[information-processing-theory]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Constructivism]]"
+  - "[[constructivism]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Schema Theory and Learning]]"
+  - "[[schema-theory-and-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Cognitive Theories of Learning
 
 > [!definition] **Cognitive Theories of Learning**
-> Cognitive Theories of Learning are the family of accounts that explain acquisition in terms of internal mental representations and processes such as schemas, working memory, attention, encoding, and retrieval, rather than stimulus-response associations or social practice. It falls under [[Learning Theories]], providing a dominant theoretical foundation for contemporary instructional design.
+> Cognitive Theories of Learning are the family of accounts that explain acquisition in terms of internal mental representations and processes such as schemas, working memory, attention, encoding, and retrieval, rather than stimulus-response associations or social practice. It falls under [[learning-theories]], providing a dominant theoretical foundation for contemporary instructional design.
 
 > [!attention] **Boundary**
 > This concept excludes theories focused on external factors like social interaction or embodied learning. It also does not encompass all aspects of cognitive psychology but focuses specifically on the mechanisms underlying learning.
@@ -127,12 +127,12 @@ The importance of Cognitive Theories of Learning extends beyond education into f
 
 ## Connections & Context
 
-**Falls under:** [[Learning Theories]]
+**Falls under:** [[learning-theories]]
 
-**Specializes:** [[Information Processing Theory]]
+**Specializes:** [[information-processing-theory]]
 
-**Contrasts with:** [[Constructivism]]
+**Contrasts with:** [[constructivism]]
 
-**Applies to:** [[Schema Theory and Learning]]
+**Applies to:** [[schema-theory-and-learning]]
 
 **Source:** [[cognitive-theories-of-learning-synthetic-seed-2026-04-24]]

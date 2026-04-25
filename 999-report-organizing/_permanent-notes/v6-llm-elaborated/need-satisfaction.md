@@ -139,7 +139,7 @@ Research supports the importance of Need Satisfaction by demonstrating its posit
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
 **Applies to:** [[Autonomy-Supportive Teaching]] · [[Competence-Supportive Tasks]] · [[Relatedness-Supportive Climates]]
 

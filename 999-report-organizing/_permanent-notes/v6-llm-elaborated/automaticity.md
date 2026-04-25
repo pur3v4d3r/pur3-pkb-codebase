@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Automaticity
 
 > [!definition] **Automaticity**
-> Automaticity refers to the ability to perform a task quickly and without conscious attention after extensive practice, often involving the compilation of schemas into automatic processes that do not compete with working memory for cognitive resources. It falls under [[Cognitive Architecture]], where it is seen as the terminal state of schema automation, allowing experts to bypass the limitations of working memory by automating routine sub-operations.
+> Automaticity refers to the ability to perform a task quickly and without conscious attention after extensive practice, often involving the compilation of schemas into automatic processes that do not compete with working memory for cognitive resources. It falls under [[cognitive-architecture]], where it is seen as the terminal state of schema automation, allowing experts to bypass the limitations of working memory by automating routine sub-operations.
 
 > [!attention] **Boundary**
 > Automaticity is distinct from simple procedural memory or rote learning; it involves the compilation of schemas into automatic processes that do not compete with working memory for cognitive resources.
@@ -131,10 +131,10 @@ Understanding automaticity connects to broader discussions in cognitive architec
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[automaticity-synthetic-seed-2026-04-24]]

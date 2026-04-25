@@ -32,19 +32,19 @@ depth-level: elaborated
 parent-concept: "Implicit Theories of Intelligence"
 
 related:
-  - "[[Implicit Theories of Intelligence]]"
-  - "[[Attribution Theory]]"
+  - "[[implicit-theories-of-intelligence]]"
+  - "[[attribution-theory]]"
   - "[[Mastery-Oriented Goals]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Implicit Theories of Intelligence]]"
+  - "[[implicit-theories-of-intelligence]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Growth Mindset
 
 > [!definition] **Growth Mindset**
-> Growth Mindset, developed by Carol Dweck, refers to the belief that intellectual abilities can be developed through dedication and hard work, contrasting with the fixed mindset (entity theory) which views intelligence as an unchangeable trait. It falls under [[Implicit Theories of Intelligence]], predicting a coherent downstream cluster of behaviors such as mastery-oriented responses to setbacks and resilience against learned helplessness.
+> Growth Mindset, developed by Carol Dweck, refers to the belief that intellectual abilities can be developed through dedication and hard work, contrasting with the fixed mindset (entity theory) which views intelligence as an unchangeable trait. It falls under [[implicit-theories-of-intelligence]], predicting a coherent downstream cluster of behaviors such as mastery-oriented responses to setbacks and resilience against learned helplessness.
 
 > [!attention] **Boundary**
 > This concept excludes fixed mindset (entity theory) which views intelligence as an unchangeable trait. Growth Mindset is part of a broader construct of implicit theories of intelligence.
@@ -131,11 +131,11 @@ Promoting a Growth Mindset aligns with the broader goals of fostering resilience
 
 ## Connections & Context
 
-**Falls under:** [[Implicit Theories of Intelligence]]
+**Falls under:** [[implicit-theories-of-intelligence]]
 
-**Generalizes to:** [[Implicit Theories of Intelligence]]
+**Generalizes to:** [[implicit-theories-of-intelligence]]
 
-**Contrasts with:** [[Attribution Theory]]
+**Contrasts with:** [[attribution-theory]]
 
 **Applies to:** [[Mastery-Oriented Goals]]
 

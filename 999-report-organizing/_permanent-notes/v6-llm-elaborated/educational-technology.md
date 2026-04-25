@@ -34,8 +34,8 @@ parent-concept: "Learning Science"
 
 related:
   - "[[Learning Management Systems (LMS)]]"
-  - "[[Learning Analytics]]"
-  - "[[Cognitive Theory of Multimedia Learning]]"
+  - "[[learning-analytics]]"
+  - "[[cognitive-theory-of-multimedia-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,13 +50,13 @@ contradicts:
   - "[[]]"
 applies-to:
   - "[[Learning Management Systems (LMS)]]"
-  - "[[Learning Analytics]]"
+  - "[[learning-analytics]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Theory of Multimedia Learning]]"
+  - "[[cognitive-theory-of-multimedia-learning]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Educational Technology
 
 > [!definition] **Educational Technology**
-> Educational Technology refers to the use of digital and analogue tools designed to support learning, including learning-management systems, multimedia, intelligent tutoring, simulation, adaptive assessment, and knowledge-base tools. It falls under [[Learning Science]], focusing on the design, deployment, and evaluation of technology in education, with a key distinction being that its effectiveness is more dependent on instructional design quality than the medium used.
+> Educational Technology refers to the use of digital and analogue tools designed to support learning, including learning-management systems, multimedia, intelligent tutoring, simulation, adaptive assessment, and knowledge-base tools. It falls under [[learning-science]], focusing on the design, deployment, and evaluation of technology in education, with a key distinction being that its effectiveness is more dependent on instructional design quality than the medium used.
 
 > [!attention] **Boundary**
 > This concept excludes non-technology-based educational methods and focuses on the design, deployment, and evaluation of technology in education.
@@ -137,10 +137,10 @@ Educational Technology research consistently shows that instructional design qua
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
-**Applies to:** [[Learning Management Systems (LMS)]] · [[Learning Analytics]]
+**Applies to:** [[Learning Management Systems (LMS)]] · [[learning-analytics]]
 
-**Supports:** [[Cognitive Theory of Multimedia Learning]]
+**Supports:** [[cognitive-theory-of-multimedia-learning]]
 
 **Source:** [[educational-technology-synthetic-seed-2026-04-24]]

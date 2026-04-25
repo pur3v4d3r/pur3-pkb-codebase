@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
   - "[[Volitional Congruence]]"
-  - "[[Implementation Intention]]"
-  - "[[Expectancy-Value Theory]]"
+  - "[[implementation-intention]]"
+  - "[[expectancy-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,18 +49,18 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
   - "[[Volitional Congruence]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implementation Intention]]"
+  - "[[implementation-intention]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Expectancy-Value Theory]]"
+  - "[[expectancy-value-theory]]"
 refines:
   - "[[]]"
 
@@ -78,7 +78,7 @@ provenance:
 # Goal Commitment
 
 > [!definition] **Goal Commitment**
-> Goal commitment refers to the determination to attain a goal, characterized by sustained effort despite challenges. It involves both perceived importance of the goal and its perceived attainability, falling under [[Motivational Psychology]]. Commitment is not merely accepting a goal but actively pursuing it even when faced with difficulties, making it distinct from mere acceptance or self-efficacy.
+> Goal commitment refers to the determination to attain a goal, characterized by sustained effort despite challenges. It involves both perceived importance of the goal and its perceived attainability, falling under [[motivational-psychology]]. Commitment is not merely accepting a goal but actively pursuing it even when faced with difficulties, making it distinct from mere acceptance or self-efficacy.
 
 > [!attention] **Boundary**
 > Goal commitment is distinct from mere acceptance of a goal; it implies active determination that sustains pursuit under difficult conditions. It is not confused with self-efficacy or volitional congruence, which are related but different constructs.
@@ -144,12 +144,12 @@ The concept of goal commitment also has broader implications for motivational ps
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Contrasts with:** [[Self-Efficacy]] · [[Volitional Congruence]]
+**Contrasts with:** [[self-efficacy]] · [[Volitional Congruence]]
 
-**Applies to:** [[Implementation Intention]]
+**Applies to:** [[implementation-intention]]
 
-**Supports:** [[Expectancy-Value Theory]]
+**Supports:** [[expectancy-value-theory]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

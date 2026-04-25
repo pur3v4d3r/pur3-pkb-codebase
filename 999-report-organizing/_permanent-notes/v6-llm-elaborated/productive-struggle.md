@@ -31,10 +31,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,7 +46,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -70,7 +70,7 @@ provenance:
 # Productive Struggle
 
 > [!definition] **Productive Struggle**
-> Productive Struggle is a pedagogical approach where learners engage in effortful problem-solving before receiving an explanation, preparing their cognitive ground for subsequent instruction. It falls under [[Cognitive Architecture]], as it leverages the principles of how the brain processes and retains information to foster deep understanding through challenge rather than unproductive frustration.
+> Productive Struggle is a pedagogical approach where learners engage in effortful problem-solving before receiving an explanation, preparing their cognitive ground for subsequent instruction. It falls under [[cognitive-architecture]], as it leverages the principles of how the brain processes and retains information to foster deep understanding through challenge rather than unproductive frustration.
 
 > [!attention] **Boundary**
 > This concept excludes scenarios where struggle leads to unproductive frustration due to a gap between learner capacity and task demand. It is not about making learning difficult for its own sake but rather about fostering deep understanding through challenge.
@@ -130,10 +130,10 @@ Productive Struggle is a critical concept for educational practice and research 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[productive-struggle-synthetic-seed-2026-04-25]]

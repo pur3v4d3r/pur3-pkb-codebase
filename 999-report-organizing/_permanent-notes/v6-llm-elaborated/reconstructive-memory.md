@@ -33,25 +33,25 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Schema Theory]]"
-  - "[[Confirmation Bias]]"
-  - "[[Episodic Memory]]"
-  - "[[Long-Term Memory]]"
+  - "[[schema-theory]]"
+  - "[[confirmation-bias]]"
+  - "[[episodic-memory]]"
+  - "[[long-term-memory]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Schema Theory]]"
+  - "[[schema-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Confirmation Bias]]"
+  - "[[confirmation-bias]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Episodic Memory]]"
-  - "[[Long-Term Memory]]"
+  - "[[episodic-memory]]"
+  - "[[long-term-memory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Reconstructive Memory
 
 > [!definition] **Reconstructive Memory**
-> Reconstructive Memory is the principle that recall involves active reconstruction of stored content, guided by current schemas, expectations, and goals, leading to outputs that feel veridical yet may include distortions or inferences. It falls under [[Cognitive Architecture]], where it explains how past experiences are reinterpreted based on present knowledge structures.
+> Reconstructive Memory is the principle that recall involves active reconstruction of stored content, guided by current schemas, expectations, and goals, leading to outputs that feel veridical yet may include distortions or inferences. It falls under [[cognitive-architecture]], where it explains how past experiences are reinterpreted based on present knowledge structures.
 
 > [!attention] **Boundary**
 > This concept excludes literal readouts of stored information and focuses on the reconstructive nature of memory retrieval. It should not be confused with simple misinformation effects or false memories.
@@ -132,12 +132,12 @@ Reconstructive memory also intersects with other areas such as episodic and long
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Schema Theory]]
+**Generalizes to:** [[schema-theory]]
 
-**Contrasts with:** [[Confirmation Bias]]
+**Contrasts with:** [[confirmation-bias]]
 
-**Applies to:** [[Episodic Memory]] · [[Long-Term Memory]]
+**Applies to:** [[episodic-memory]] · [[long-term-memory]]
 
 **Source:** [[reconstructive-memory-synthetic-seed-2026-04-24]]

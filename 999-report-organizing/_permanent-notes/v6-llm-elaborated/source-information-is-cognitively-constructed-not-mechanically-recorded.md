@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[working-memory]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Cognitively Constructed Information
 
 > [!definition] **Cognitively Constructed Information**
-> Source information is not passively recorded but actively constructed through cognitive processes that vary among individuals and over time. It falls under [[Cognitive Architecture]], as the way we process and interpret raw material from various sources shapes our beliefs and understanding.
+> Source information is not passively recorded but actively constructed through cognitive processes that vary among individuals and over time. It falls under [[cognitive-architecture]], as the way we process and interpret raw material from various sources shapes our beliefs and understanding.
 
 > [!attention] **Boundary**
 > This concept excludes the idea of mechanical recording, focusing on the active construction of beliefs from raw material provided by various sources.
@@ -136,10 +136,10 @@ By integrating this understanding into broader cognitive architectures, we can d
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Self-Regulated Learning]]
+**Applies to:** [[self-regulated-learning]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

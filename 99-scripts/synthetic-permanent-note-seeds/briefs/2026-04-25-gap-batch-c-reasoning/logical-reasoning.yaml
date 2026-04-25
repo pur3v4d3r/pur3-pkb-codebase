@@ -1,0 +1,40 @@
+concept: Logical Reasoning
+domain: critical-thinking
+secondary_domains:
+- psychology
+- philosophy
+aliases:
+- logical inference
+- structured reasoning
+broader:
+- reasoning
+related:
+- deductive-reasoning
+- inductive-reasoning
+- abductive-reasoning
+- formal-logic
+- critical-thinking
+prerequisites:
+- reasoning
+- critical-thinking
+confidence: high
+callouts:
+- type: definition
+  title: Logical Reasoning
+  body: Logical Reasoning is the cognitive activity of drawing conclusions from premises
+    in accordance with the canonical inference patterns — deductive, inductive, abductive
+    — studied by logic, and it is one of the central competencies that critical thinking
+    aims to develop.
+- type: key-claim
+  title: Key claim about Logical Reasoning
+  body: 'Logical Reasoning performance in laboratory tasks is highly content-sensitive:
+    the same abstract inference pattern is solved at very different rates depending
+    on the familiarity of the materials, which is why theories of Logical Reasoning
+    have moved from purely formal accounts toward dual-process and pragmatic-reasoning-schema
+    accounts.'
+- type: warning
+  title: Common pitfall regarding Logical Reasoning
+  body: Logical Reasoning is often equated with formal logic, but most everyday Logical
+    Reasoning is defeasible and probabilistic; teaching Logical Reasoning by drilling
+    truth tables and syllogisms produces transfer failures because real reasoning
+    environments rarely supply the closed premise sets formal logic requires.

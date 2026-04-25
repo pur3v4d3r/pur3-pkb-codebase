@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Relational Complexity
 
 > [!definition] **Relational Complexity**
-> Relational Complexity is a measure of cognitive task difficulty based on the number of simultaneous relations that must be processed (binary, ternary, quaternary), falling under [[Cognitive Load Theory]]. It does not include specific techniques or models for improving learning efficiency but focuses on the inherent complexity of tasks.
+> Relational Complexity is a measure of cognitive task difficulty based on the number of simultaneous relations that must be processed (binary, ternary, quaternary), falling under [[cognitive-load-theory]]. It does not include specific techniques or models for improving learning efficiency but focuses on the inherent complexity of tasks.
 
 ## Core Explanation
 
@@ -126,10 +126,10 @@ The flexibility and productive ambiguity of Relational Complexity make it a valu
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

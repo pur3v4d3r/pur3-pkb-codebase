@@ -37,7 +37,7 @@ parent-concept: "Software Development Tools"
 
 related:
   - "[[Source Code Editor]]"
-  - "[[Code Editor]]"
+  - "[[code-editor]]"
   - "[[Build Automation Tools]]"
 prerequisites:
   - "[[Source Code Editor]]"
@@ -48,7 +48,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Code Editor]]"
+  - "[[code-editor]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -138,7 +138,7 @@ The importance of IDEs in modern software development workflows cannot be overst
 
 **Prerequisites:** [[Source Code Editor]]
 
-**Contrasts with:** [[Code Editor]]
+**Contrasts with:** [[code-editor]]
 
 **Applies to:** [[Build Automation Tools]]
 

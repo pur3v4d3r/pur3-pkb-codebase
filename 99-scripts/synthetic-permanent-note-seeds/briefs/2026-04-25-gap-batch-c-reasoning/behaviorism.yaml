@@ -1,0 +1,40 @@
+concept: Behaviorism
+domain: psychology
+secondary_domains:
+- learning-science
+- philosophy-of-psychology
+aliases:
+- behaviourism
+- behaviorist psychology
+broader:
+- learning-theory
+related:
+- classical-conditioning
+- operant-conditioning
+- reinforcement
+- cognitive-revolution
+- learning-theories
+prerequisites:
+- learning-theory
+confidence: high
+callouts:
+- type: definition
+  title: Behaviorism
+  body: Behaviorism is the school of psychology, dominant in the early twentieth century,
+    that restricts the legitimate objects of psychological science to publicly observable
+    behaviour and the environmental contingencies — stimuli, responses, reinforcements
+    — that shape it, methodologically excluding mental states from explanation.
+- type: key-claim
+  title: Key claim about Behaviorism
+  body: Behaviorism produced a durable empirical legacy — schedules of reinforcement,
+    behavioural assessment, applied behaviour analysis — even after the cognitive
+    revolution rejected its strict ontological claims, which is why a contemporary
+    understanding of Behaviorism distinguishes its methodological contributions from
+    its philosophical commitments.
+- type: warning
+  title: Common pitfall regarding Behaviorism
+  body: Behaviorism is frequently caricatured as denying the existence of mental states;
+    the more accurate reading is that methodological Behaviorism brackets mental states
+    for scientific tractability, while radical Behaviorism (Skinner) reframes them
+    as covert behaviours, so dismissing Behaviorism as "ignoring the mind" misses
+    the actual theoretical position.

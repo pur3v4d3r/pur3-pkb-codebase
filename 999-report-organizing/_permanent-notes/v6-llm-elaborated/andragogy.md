@@ -37,17 +37,17 @@ depth-level: elaborated
 parent-concept: "Self-Directed Learning"
 
 related:
-  - "[[Heutagogy]]"
-  - "[[Self-Directed Learning]]"
-  - "[[Self-Determination Theory]]"
+  - "[[heutagogy]]"
+  - "[[self-directed-learning]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Heutagogy]]"
+  - "[[heutagogy]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Directed Learning]]"
+  - "[[self-directed-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -59,7 +59,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -77,7 +77,7 @@ provenance:
 # Andragogy
 
 > [!definition] **Andragogy**
-> Andragogy is the theory and practice of adult education developed by Malcolm Knowles based on assumptions about adult learners: that they need to understand the rationale for learning, bring significant experience as a learning resource, are ready to learn when they perceive a life-relevant need, prefer problem-centered orientation, and are primarily motivated by internal factors. It falls under [[Self-Directed Learning]], emphasizing autonomy in the learning process.
+> Andragogy is the theory and practice of adult education developed by Malcolm Knowles based on assumptions about adult learners: that they need to understand the rationale for learning, bring significant experience as a learning resource, are ready to learn when they perceive a life-relevant need, prefer problem-centered orientation, and are primarily motivated by internal factors. It falls under [[self-directed-learning]], emphasizing autonomy in the learning process.
 
 > [!attention] **Boundary**
 > Andragogy focuses specifically on adult learners and does not apply to children or adolescents. It should not be confused with pedagogy, which is geared towards younger learners.
@@ -139,12 +139,12 @@ The concept of andragogy also aligns with self-determined learning (heutagogy) b
 
 ## Connections & Context
 
-**Falls under:** [[Self-Directed Learning]]
+**Falls under:** [[self-directed-learning]]
 
-**Specializes:** [[Heutagogy]]
+**Specializes:** [[heutagogy]]
 
-**Sibling concepts:** [[Self-Directed Learning]]
+**Sibling concepts:** [[self-directed-learning]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

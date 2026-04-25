@@ -36,8 +36,8 @@ depth-level: elaborated
 parent-concept: "Goal-Setting Theory"
 
 related:
-  - "[[Self-Efficacy]]"
-  - "[[Achievement-Goal Theory]]"
+  - "[[self-efficacy]]"
+  - "[[achievement-goal-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,11 +47,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Achievement-Goal Theory]]"
+  - "[[achievement-goal-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -137,10 +137,10 @@ The cycle's structural identity allows us to understand both its proudest achiev
 
 ## Connections & Context
 
-**Falls under:** [[Goal-Setting Theory]]
+**Falls under:** [[goal-setting-theory]]
 
-**Contrasts with:** [[Self-Efficacy]]
+**Contrasts with:** [[self-efficacy]]
 
-**Applies to:** [[Achievement-Goal Theory]]
+**Applies to:** [[achievement-goal-theory]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

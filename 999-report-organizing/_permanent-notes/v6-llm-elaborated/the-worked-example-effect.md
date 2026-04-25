@@ -36,11 +36,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Extraneous Cognitive Load]]"
+  - "[[extraneous-cognitive-load]]"
   - "[[Means-Ends Analysis]]"
-  - "[[Scaffolding]]"
+  - "[[scaffolding]]"
 prerequisites:
-  - "[[Extraneous Cognitive Load]]"
+  - "[[extraneous-cognitive-load]]"
 specializes:
   - "[[]]"
 broader:
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scaffolding]]"
+  - "[[scaffolding]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Worked Example Effect
 
 > [!definition] **Worked Example Effect**
-> The Worked Example Effect is a learning phenomenon where novices learn more effectively from studying step-by-step solutions to problems rather than solving similar problems independently. It falls under [[Cognitive Architecture]], as it leverages the architecture of human processing constraints to reduce extraneous cognitive load, thereby facilitating schema construction and improving learning outcomes.
+> The Worked Example Effect is a learning phenomenon where novices learn more effectively from studying step-by-step solutions to problems rather than solving similar problems independently. It falls under [[cognitive-architecture]], as it leverages the architecture of human processing constraints to reduce extraneous cognitive load, thereby facilitating schema construction and improving learning outcomes.
 
 > [!attention] **Boundary**
 > This effect applies specifically to novice learners and problem-solving tasks, excluding advanced learners who have developed relevant schemas.
@@ -135,12 +135,12 @@ The Worked Example Effect also contributes to our understanding of Cognitive Loa
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Extraneous Cognitive Load]]
+**Prerequisites:** [[extraneous-cognitive-load]]
 
 **Contrasts with:** [[Means-Ends Analysis]]
 
-**Applies to:** [[Scaffolding]]
+**Applies to:** [[scaffolding]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]

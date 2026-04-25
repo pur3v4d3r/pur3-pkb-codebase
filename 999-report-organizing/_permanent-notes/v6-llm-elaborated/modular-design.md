@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Software Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -124,7 +124,7 @@ The mechanism behind Modular Design involves defining clear interfaces between m
 
 Modular Design is a critical principle in software engineering because it enhances long-term maintainability and scalability. By reducing coupling and increasing cohesion, modular systems allow for more efficient development and maintenance practices. This concept also aligns with broader principles like separation of concerns and low coupling, making it an essential component of modern software architecture.
 
-Understanding Modular Design is further supported by the foundational concepts in [[Working Memory]], which highlight the limitations of human cognitive capacity. By breaking down complex systems into manageable modules, developers can better handle information and reduce errors.
+Understanding Modular Design is further supported by the foundational concepts in [[working-memory]], which highlight the limitations of human cognitive capacity. By breaking down complex systems into manageable modules, developers can better handle information and reduce errors.
 
 ## Evidence
 
@@ -134,8 +134,8 @@ Empirical evidence from studies shows that modular designs lead to lower defect 
 
 **Falls under:** [[Software Architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[modular-design-synthetic-seed-2026-04-24]]

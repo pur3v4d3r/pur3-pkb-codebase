@@ -33,12 +33,12 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Levels-of-Processing]]"
-  - "[[Encoding-Specificity Principle]]"
-  - "[[Context-Dependent Memory]]"
-  - "[[Near-Transfer]]"
+  - "[[levels-of-processing]]"
+  - "[[encoding-specificity-principle]]"
+  - "[[context-dependent-memory]]"
+  - "[[near-transfer]]"
 prerequisites:
-  - "[[Levels-of-Processing]]"
+  - "[[levels-of-processing]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,12 +46,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Encoding-Specificity Principle]]"
+  - "[[encoding-specificity-principle]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Context-Dependent Memory]]"
-  - "[[Near-Transfer]]"
+  - "[[context-dependent-memory]]"
+  - "[[near-transfer]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Transfer-Appropriate Processing
 
 > [!definition] **Transfer-Appropriate Processing**
-> Transfer-Appropriate Processing (TAP) is the idea that memory retention depends on how well the encoding process matches the retrieval task, rather than the depth of processing alone; it falls under [[Cognitive Architecture]]. This concept excludes absolute measures of encoding quality and focuses specifically on the overlap between cognitive operations during study and those required at test.
+> Transfer-Appropriate Processing (TAP) is the idea that memory retention depends on how well the encoding process matches the retrieval task, rather than the depth of processing alone; it falls under [[cognitive-architecture]]. This concept excludes absolute measures of encoding quality and focuses specifically on the overlap between cognitive operations during study and those required at test.
 
 ## Core Explanation
 
@@ -128,12 +128,12 @@ TAP also challenges traditional views on memory by emphasizing the relational na
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Levels-of-Processing]]
+**Prerequisites:** [[levels-of-processing]]
 
-**Contrasts with:** [[Encoding-Specificity Principle]]
+**Contrasts with:** [[encoding-specificity-principle]]
 
-**Applies to:** [[Context-Dependent Memory]] · [[Near-Transfer]]
+**Applies to:** [[context-dependent-memory]] · [[near-transfer]]
 
 **Source:** [[transfer-appropriate-processing-synthetic-seed-2026-04-25]]

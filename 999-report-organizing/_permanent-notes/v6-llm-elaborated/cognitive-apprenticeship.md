@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Scaffolding]]"
-  - "[[Worked Examples]]"
+  - "[[scaffolding]]"
+  - "[[worked-examples]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,8 +47,8 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scaffolding]]"
-  - "[[Worked Examples]]"
+  - "[[scaffolding]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Cognitive Apprenticeship
 
 > [!definition] **Cognitive Apprenticeship**
-> Cognitive Apprenticeship is an instructional framework developed by Collins, Brown, and Holum that adapts the traditional craft-apprenticeship sequence to teach cognitive skills, making expert thinking visible through articulation, coaching, scaffolding, reflection, and exploration. It falls under [[Instructional Design]], focusing on the explicit teaching of mental processes rather than physical or procedural tasks.
+> Cognitive Apprenticeship is an instructional framework developed by Collins, Brown, and Holum that adapts the traditional craft-apprenticeship sequence to teach cognitive skills, making expert thinking visible through articulation, coaching, scaffolding, reflection, and exploration. It falls under [[instructional-design]], focusing on the explicit teaching of mental processes rather than physical or procedural tasks.
 
 > [!attention] **Boundary**
 > This concept focuses on the teaching of cognitive skills rather than physical or procedural tasks. It does not cover general pedagogical strategies but is specific to the explicit teaching of mental processes.
@@ -136,8 +136,8 @@ Beyond its immediate impact on teaching practices, Cognitive Apprenticeship also
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Applies to:** [[Scaffolding]] · [[Worked Examples]]
+**Applies to:** [[scaffolding]] · [[worked-examples]]
 
 **Source:** [[cognitive-apprenticeship-synthetic-seed-2026-04-25]]

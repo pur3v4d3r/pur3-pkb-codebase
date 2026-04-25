@@ -33,20 +33,20 @@ depth-level: elaborated
 parent-concept: "Zettelkasten Workflow"
 
 related:
-  - "[[Atomic Notes]]"
-  - "[[Fleeting Notes]]"
-  - "[[Evergreen Notes]]"
+  - "[[atomic-notes]]"
+  - "[[fleeting-notes]]"
+  - "[[evergreen-notes]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Atomic Notes]]"
+  - "[[atomic-notes]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Fleeting Notes]]"
-  - "[[Evergreen Notes]]"
+  - "[[fleeting-notes]]"
+  - "[[evergreen-notes]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -138,8 +138,8 @@ The concept of Literature Notes has broader implications across various domains,
 
 **Falls under:** [[Zettelkasten Workflow]]
 
-**Specializes:** [[Atomic Notes]]
+**Specializes:** [[atomic-notes]]
 
-**Contrasts with:** [[Fleeting Notes]] · [[Evergreen Notes]]
+**Contrasts with:** [[fleeting-notes]] · [[evergreen-notes]]
 
 **Source:** [[literature-notes-synthetic-seed-2026-04-25]]

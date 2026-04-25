@@ -35,16 +35,16 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Metacognition]]"
-  - "[[Comprehension Monitoring]]"
+  - "[[metacognition]]"
+  - "[[comprehension-monitoring]]"
 prerequisites:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Comprehension Monitoring]]"
+  - "[[comprehension-monitoring]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Reciprocal Teaching
 
 > [!definition] **Reciprocal Teaching**
-> Reciprocal teaching is a small-group instructional method that enhances reading comprehension through the use of four strategies: predicting, questioning, clarifying, and summarizing. It involves gradual transfer of responsibility from teacher to students, with social interaction providing modeling, feedback, and accountability. This concept falls under [[Self-Regulated Learning]], as it builds upon the principles of metacognition by externalizing the monitoring loop and scaffolding its internalization through collaborative practice.
+> Reciprocal teaching is a small-group instructional method that enhances reading comprehension through the use of four strategies: predicting, questioning, clarifying, and summarizing. It involves gradual transfer of responsibility from teacher to students, with social interaction providing modeling, feedback, and accountability. This concept falls under [[self-regulated-learning]], as it builds upon the principles of metacognition by externalizing the monitoring loop and scaffolding its internalization through collaborative practice.
 
 > [!attention] **Boundary**
 > This concept excludes other reading instruction methods not involving these specific four strategies or the gradual transfer of responsibility model. It is distinct from solitary reading practices that lack social interaction and externalized monitoring.
@@ -137,10 +137,10 @@ The broader implications of reciprocal teaching extend beyond reading comprehens
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Metacognition]]
+**Prerequisites:** [[metacognition]]
 
-**Sibling concepts:** [[Comprehension Monitoring]]
+**Sibling concepts:** [[comprehension-monitoring]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

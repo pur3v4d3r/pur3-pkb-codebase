@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Expertise Reversal Effect]]"
-  - "[[Cognitive Scaffolding]]"
-  - "[[Transfer of Learning]]"
+  - "[[expertise-reversal-effect]]"
+  - "[[cognitive-scaffolding]]"
+  - "[[transfer-of-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,19 +46,19 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Expertise Reversal Effect]]"
+  - "[[expertise-reversal-effect]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Scaffolding]]"
+  - "[[cognitive-scaffolding]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Transfer of Learning]]"
+  - "[[transfer-of-learning]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Whole-Task Approach
 
 > [!definition] **Whole-Task Approach**
-> The Whole-Task Approach is an instructional design philosophy that maintains the structural integrity of complex tasks throughout training, presenting learners with complete task experiences (albeit simplified and scaffolded) from the earliest stages of instruction, rather than decomposing complex tasks into isolated component skills. It falls under [[Instructional Design]], where it emphasizes integrated competence over atomistic decomposition.
+> The Whole-Task Approach is an instructional design philosophy that maintains the structural integrity of complex tasks throughout training, presenting learners with complete task experiences (albeit simplified and scaffolded) from the earliest stages of instruction, rather than decomposing complex tasks into isolated component skills. It falls under [[instructional-design]], where it emphasizes integrated competence over atomistic decomposition.
 
 > [!attention] **Boundary**
 > This approach does not mean full complexity; it involves simplifying tasks while preserving their integration. It should not be confused with atomistic decomposition where components are taught separately before integration.
@@ -141,12 +141,12 @@ Empirical evidence supports the Whole-Task Approach's effectiveness in complex, 
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Sibling concepts:** [[Expertise Reversal Effect]]
+**Sibling concepts:** [[expertise-reversal-effect]]
 
-**Applies to:** [[Cognitive Scaffolding]]
+**Applies to:** [[cognitive-scaffolding]]
 
-**Supports:** [[Transfer of Learning]]
+**Supports:** [[transfer-of-learning]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

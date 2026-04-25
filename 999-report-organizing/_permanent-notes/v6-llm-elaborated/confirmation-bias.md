@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Motivated Reasoning]]"
+  - "[[working-memory]]"
+  - "[[motivated-reasoning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Motivated Reasoning]]"
+  - "[[motivated-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Confirmation Bias
 
 > [!definition] **Confirmation Bias**
-> Confirmation Bias is the systematic tendency to seek, interpret, and remember information in ways that confirm pre-existing beliefs while under-weighting, dismissing, or failing to recall disconfirming information — a robust pattern observed across hypothesis testing, belief evaluation, and information consumption. It falls under [[Cognitive Architecture]], as it pertains to how our cognitive systems process and integrate information.
+> Confirmation Bias is the systematic tendency to seek, interpret, and remember information in ways that confirm pre-existing beliefs while under-weighting, dismissing, or failing to recall disconfirming information — a robust pattern observed across hypothesis testing, belief evaluation, and information consumption. It falls under [[cognitive-architecture]], as it pertains to how our cognitive systems process and integrate information.
 
 > [!attention] **Boundary**
 > This concept does not include other cognitive biases like disconfirmation bias but focuses on the specific mechanism of seeking confirmation over disconfirmation.
@@ -128,16 +128,16 @@ Confirmation Bias operates through several concrete mechanisms. Selective exposu
 
 ## Synthesis
 
-Understanding Confirmation Bias is crucial for grasping how our cognitive systems process and integrate information. It falls under [[Cognitive Architecture]], highlighting its role in shaping decision-making across various domains such as politics, science, and everyday life. By recognizing the mechanisms behind this bias, we can develop strategies to mitigate its effects, fostering more informed and balanced reasoning.
+Understanding Confirmation Bias is crucial for grasping how our cognitive systems process and integrate information. It falls under [[cognitive-architecture]], highlighting its role in shaping decision-making across various domains such as politics, science, and everyday life. By recognizing the mechanisms behind this bias, we can develop strategies to mitigate its effects, fostering more informed and balanced reasoning.
 
 The broader impact of Confirmation Bias extends beyond individual cognition into societal dynamics. It contributes to polarization and fragmented social discourse, making it essential for cognitive psychology to address these issues. Integrating insights from related concepts like Working Memory and Motivated Reasoning can provide a comprehensive framework for understanding and addressing the implications of this bias.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Motivated Reasoning]]
+**Contrasts with:** [[motivated-reasoning]]
 
 **Source:** [[confirmation-bias-synthetic-seed-2026-04-24]]

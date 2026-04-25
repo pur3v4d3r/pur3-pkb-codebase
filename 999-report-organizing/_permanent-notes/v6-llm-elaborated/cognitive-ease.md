@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Dual-Process Theory]]"
+  - "[[working-memory]]"
+  - "[[dual-process-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Cognitive Ease
 
 > [!definition] **Cognitive Ease**
-> Cognitive Ease refers to the subjective sense of smooth, fluent mental processing without strain, often used as an automatic cue for truth or familiarity. It falls under [[Cognitive Architecture]], where it operates as a default heuristic that biases judgments towards fluency over accuracy.
+> Cognitive Ease refers to the subjective sense of smooth, fluent mental processing without strain, often used as an automatic cue for truth or familiarity. It falls under [[cognitive-architecture]], where it operates as a default heuristic that biases judgments towards fluency over accuracy.
 
 > [!attention] **Boundary**
 > This concept excludes specific instances of ease that are not related to mental processing (e.g., physical comfort). It also does not encompass all forms of fluency in communication or expression.
@@ -128,10 +128,10 @@ The concept of Cognitive Ease has significant implications across various domain
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Dual-Process Theory]]
+**Contrasts with:** [[dual-process-theory]]
 
 **Source:** [[cognitive-ease-synthetic-seed-2026-04-25]]

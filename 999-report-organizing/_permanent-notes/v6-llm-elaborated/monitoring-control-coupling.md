@@ -36,12 +36,12 @@ depth-level: elaborated
 parent-concept: "Metacognitive Architecture"
 
 related:
-  - "[[Metacognitive Monitoring]]"
-  - "[[Metacognitive Control]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[metacognitive-monitoring]]"
+  - "[[metacognitive-control]]"
+  - "[[self-regulated-learning]]"
 prerequisites:
-  - "[[Metacognitive Monitoring]]"
-  - "[[Metacognitive Control]]"
+  - "[[metacognitive-monitoring]]"
+  - "[[metacognitive-control]]"
 specializes:
   - "[[]]"
 broader:
@@ -53,7 +53,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -138,8 +138,8 @@ The tight coupling between monitoring and control is not only a theoretical cons
 
 **Falls under:** [[Metacognitive Architecture]]
 
-**Prerequisites:** [[Metacognitive Monitoring]] · [[Metacognitive Control]]
+**Prerequisites:** [[metacognitive-monitoring]] · [[metacognitive-control]]
 
-**Applies to:** [[Self-Regulated Learning]]
+**Applies to:** [[self-regulated-learning]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]

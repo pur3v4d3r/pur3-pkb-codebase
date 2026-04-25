@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Semantic Memory]]"
+  - "[[working-memory]]"
+  - "[[semantic-memory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Semantic Memory]]"
+  - "[[semantic-memory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Tip-of-the-Tongue Phenomenon
 
 > [!definition] **Tip-of-the-Tongue Phenomenon**
-> The Tip-of-the-Tongue Phenomenon is the strong subjective experience of being on the verge of recalling a known word — typically accompanied by partial information such as initial letters, syllable count, or semantically related candidates — without successful retrieval of the word itself. It falls under [[Cognitive Psychology]], providing one of the clearest dissociations between access and storage in cognitive psychology.
+> The Tip-of-the-Tongue Phenomenon is the strong subjective experience of being on the verge of recalling a known word — typically accompanied by partial information such as initial letters, syllable count, or semantically related candidates — without successful retrieval of the word itself. It falls under [[cognitive-psychology]], providing one of the clearest dissociations between access and storage in cognitive psychology.
 
 > [!attention] **Boundary**
 > This phenomenon excludes cases where the target word cannot be recalled due to memory loss or interference from other words. It focuses specifically on retrieval failures in semantic memory.
@@ -131,10 +131,10 @@ The Tip-of-the-Tongue Phenomenon also highlights the importance of metacognitive
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Semantic Memory]]
+**Sibling concepts:** [[semantic-memory]]
 
 **Source:** [[tip-of-the-tongue-phenomenon-synthetic-seed-2026-04-25]]

@@ -35,10 +35,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Learned Helplessness]]"
-  - "[[Growth Mindset]]"
-  - "[[Dual-Process Theory]]"
+  - "[[self-efficacy-theory]]"
+  - "[[learned-helplessness]]"
+  - "[[growth-mindset]]"
+  - "[[dual-process-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,13 +48,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy Theory]]"
-  - "[[Learned Helplessness]]"
+  - "[[self-efficacy-theory]]"
+  - "[[learned-helplessness]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Growth Mindset]]"
-  - "[[Dual-Process Theory]]"
+  - "[[growth-mindset]]"
+  - "[[dual-process-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Attributional Vocabulary
 
 > [!definition] **Attributional Vocabulary**
-> The attributional vocabulary refers to the range of causal explanation sentences available for inner speech, which constrains the dimensional space within which the attributional mechanism can operate. An expanded vocabulary enables more dimensionally varied self-explanations, supporting more flexible motivational responses. It falls under [[Cognitive Architecture]]. This concept is an original synthesis of attribution theory with inner speech research and is not yet a formalized construct in empirical literature.
+> The attributional vocabulary refers to the range of causal explanation sentences available for inner speech, which constrains the dimensional space within which the attributional mechanism can operate. An expanded vocabulary enables more dimensionally varied self-explanations, supporting more flexible motivational responses. It falls under [[cognitive-architecture]]. This concept is an original synthesis of attribution theory with inner speech research and is not yet a formalized construct in empirical literature.
 
 > [!attention] **Boundary**
 > This concept is an original synthesis of attribution theory with inner speech research; it does not yet have a formalized construct in empirical literature and should not be confused with established theories like self-efficacy or learned helplessness.
@@ -137,10 +137,10 @@ Understanding the attributional vocabulary also has practical implications for e
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Self-Efficacy Theory]] · [[Learned Helplessness]]
+**Contrasts with:** [[self-efficacy-theory]] · [[learned-helplessness]]
 
-**Applies to:** [[Growth Mindset]] · [[Dual-Process Theory]]
+**Applies to:** [[growth-mindset]] · [[dual-process-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

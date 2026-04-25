@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Metacognition]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[metacognition]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # The Convergence Thesis
 
 > [!definition] **The Convergence Thesis**
-> The Convergence Thesis posits that every significant design decision in PKM planning corresponds to a well-characterized cognitive mechanism, and the effectiveness of the resulting system depends on respecting these constraints. It falls under [[Cognitive Architecture]], as it integrates principles from applied cognitive science into personal knowledge management (PKM) systems.
+> The Convergence Thesis posits that every significant design decision in PKM planning corresponds to a well-characterized cognitive mechanism, and the effectiveness of the resulting system depends on respecting these constraints. It falls under [[cognitive-architecture]], as it integrates principles from applied cognitive science into personal knowledge management (PKM) systems.
 
 > [!attention] **Boundary**
 > This concept excludes specific examples or individual mechanisms but focuses on the overarching principle that PKM planning is fundamentally applied cognitive engineering.
@@ -137,10 +137,10 @@ The Convergence Thesis also highlights the importance of metacognition in PKM pl
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Metacognition]]
+**Prerequisites:** [[metacognition]]
 
-**Contrasts with:** [[Cognitive Load Theory]]
+**Contrasts with:** [[cognitive-load-theory]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

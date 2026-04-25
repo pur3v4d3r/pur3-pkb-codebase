@@ -31,12 +31,12 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Interleaving]]"
-  - "[[Context-Dependent Memory]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Encoding-Specificity Principle]]"
+  - "[[interleaving]]"
+  - "[[context-dependent-memory]]"
+  - "[[desirable-difficulties]]"
+  - "[[encoding-specificity-principle]]"
 prerequisites:
-  - "[[Interleaving]]"
+  - "[[interleaving]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,17 +44,17 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Context-Dependent Memory]]"
+  - "[[context-dependent-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Desirable Difficulties]]"
+  - "[[desirable-difficulties]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Encoding-Specificity Principle]]"
+  - "[[encoding-specificity-principle]]"
 refines:
   - "[[]]"
 
@@ -72,7 +72,7 @@ provenance:
 # Encoding Variability
 
 > [!definition] **Encoding Variability**
-> Encoding Variability is the principle that varying the contexts, modalities, and cue structures under which a single piece of material is studied produces a richer set of retrieval routes to that material, improving long-term flexibility of access at the cost of slower initial gains. It falls under [[Cognitive Architecture]], as it enhances memory by leveraging the structure of cognitive systems.
+> Encoding Variability is the principle that varying the contexts, modalities, and cue structures under which a single piece of material is studied produces a richer set of retrieval routes to that material, improving long-term flexibility of access at the cost of slower initial gains. It falls under [[cognitive-architecture]], as it enhances memory by leveraging the structure of cognitive systems.
 
 > [!attention] **Boundary**
 > This concept excludes surface-level variations that do not meaningfully tie to the target material, as these can increase extraneous cognitive load without enhancing retrieval routes.
@@ -83,7 +83,7 @@ Encoding Variability involves altering study contexts and modalities to create m
 
 In practice, educators can apply Encoding Variability to improve student learning outcomes. By varying the study conditions, such as changing the time of day, location, or even the type of media used for studying, students are more likely to remember the material in different contexts. This is because each variation creates a unique encoding context that becomes a retrieval cue.
 
-Theoretical roots of Encoding Variability can be traced back to the [[Encoding-Specificity Principle]], which posits that the context during encoding influences how well we retrieve information later. By varying these contexts, learners create multiple routes to access the same information, making it more flexible and robust in memory.
+Theoretical roots of Encoding Variability can be traced back to the [[encoding-specificity-principle]], which posits that the context during encoding influences how well we retrieve information later. By varying these contexts, learners create multiple routes to access the same information, making it more flexible and robust in memory.
 
 Empirical evidence supports this approach. For example, a study by Sweller (1988) demonstrated that students who studied material under varied conditions performed better on transfer tasks compared to those who studied under consistent conditions.
 
@@ -125,20 +125,20 @@ The mechanism behind Encoding Variability involves the creation of multiple retr
 
 ## Synthesis
 
-Encoding Variability is a critical principle in cognitive science and educational psychology because it provides a robust framework for enhancing memory through varied encoding. By creating multiple retrieval routes, learners can access information more flexibly and effectively. This concept supports the broader goals of cognitive architecture by aligning with principles like the [[Encoding-Specificity Principle]] and the [[Desirable Difficulties Framework]].
+Encoding Variability is a critical principle in cognitive science and educational psychology because it provides a robust framework for enhancing memory through varied encoding. By creating multiple retrieval routes, learners can access information more flexibly and effectively. This concept supports the broader goals of cognitive architecture by aligning with principles like the [[encoding-specificity-principle]] and the [[Desirable Difficulties Framework]].
 
 Moreover, Encoding Variability offers practical benefits in diverse learning environments, from instructional design to workplace training. Its application can lead to more adaptable learners who are better equipped to handle real-world challenges.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Interleaving]]
+**Prerequisites:** [[interleaving]]
 
-**Contrasts with:** [[Context-Dependent Memory]]
+**Contrasts with:** [[context-dependent-memory]]
 
-**Applies to:** [[Desirable Difficulties]]
+**Applies to:** [[desirable-difficulties]]
 
-**Supports:** [[Encoding-Specificity Principle]]
+**Supports:** [[encoding-specificity-principle]]
 
 **Source:** [[encoding-variability-synthetic-seed-2026-04-25]]

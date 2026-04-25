@@ -35,11 +35,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Pattern Recognition]]"
+  - "[[pattern-recognition]]"
   - "[[Routine Expertise]]"
-  - "[[Deliberate Practice]]"
+  - "[[deliberate-practice]]"
 prerequisites:
-  - "[[Pattern Recognition]]"
+  - "[[pattern-recognition]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Deliberate Practice]]"
+  - "[[deliberate-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Adaptive Expertise
 
 > [!definition] **Adaptive Expertise**
-> Adaptive expertise is a form of expertise that combines mastery of routine cases with the metacognitive monitoring and analytical capacity needed to recognize and reason productively about novel cases that fall outside standard chunk stores. It falls under [[Cognitive Architecture]], as it builds upon the chunking architecture but requires an additional layer of metacognitive monitoring.
+> Adaptive expertise is a form of expertise that combines mastery of routine cases with the metacognitive monitoring and analytical capacity needed to recognize and reason productively about novel cases that fall outside standard chunk stores. It falls under [[cognitive-architecture]], as it builds upon the chunking architecture but requires an additional layer of metacognitive monitoring.
 
 > [!attention] **Boundary**
 > It stops at the capacity for recognizing and reasoning about non-routine cases, excluding purely procedural or automatic performance.
@@ -134,12 +134,12 @@ Adaptive expertise bridges the gap between cognitive architecture and creative p
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Pattern Recognition]]
+**Prerequisites:** [[pattern-recognition]]
 
 **Contrasts with:** [[Routine Expertise]]
 
-**Applies to:** [[Deliberate Practice]]
+**Applies to:** [[deliberate-practice]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]

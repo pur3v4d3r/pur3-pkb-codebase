@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Intellectual Standards]]"
+  - "[[intellectual-standards]]"
   - "[[Elements of Thought]]"
 prerequisites:
   - "[[]]"
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intellectual Standards]]"
+  - "[[intellectual-standards]]"
   - "[[Elements of Thought]]"
 contrasts-with:
   - "[[]]"
@@ -72,7 +72,7 @@ provenance:
 # Paul-Elder Framework
 
 > [!definition] **Paul-Elder Framework**
-> The Paul-Elder Framework is an integrated model of critical thinking developed by Richard Paul and Linda Elder, consisting of eight elements of thought (purpose, question, information, inferences, concepts, assumptions, implications, point of view) and nine intellectual standards. It falls under [[Critical Thinking]], providing a comprehensive structure for evaluating reasoning tasks and enhancing disciplined thinking.
+> The Paul-Elder Framework is an integrated model of critical thinking developed by Richard Paul and Linda Elder, consisting of eight elements of thought (purpose, question, information, inferences, concepts, assumptions, implications, point of view) and nine intellectual standards. It falls under [[critical-thinking]], providing a comprehensive structure for evaluating reasoning tasks and enhancing disciplined thinking.
 
 > [!attention] **Boundary**
 > It excludes other models of critical thinking but includes the specific elements and standards it defines.
@@ -133,8 +133,8 @@ Empirical evidence supports the effectiveness of the Paul-Elder Framework, with 
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Sibling concepts:** [[Intellectual Standards]] · [[Elements of Thought]]
+**Sibling concepts:** [[intellectual-standards]] · [[Elements of Thought]]
 
 **Source:** [[paul-elder-framework-synthetic-seed-2026-04-24]]

@@ -1,0 +1,37 @@
+concept: Recognition Memory
+domain: cognitive-science
+secondary_domains:
+- memory-research
+aliases:
+- old-new recognition
+- recognition test
+broader:
+- retrieval-practice
+related:
+- cued-recall
+- free-recall
+- dual-process-theory-of-recognition
+- familiarity-recollection
+prerequisites:
+- long-term-memory
+- retrieval-practice
+confidence: high
+callouts:
+- type: definition
+  title: Recognition Memory
+  body: Recognition Memory is the ability to identify a previously encountered item
+    as familiar when it is re-presented among distractors, and it is widely modelled
+    as the joint output of a fast familiarity signal and a slower recollective retrieval
+    process.
+- type: key-claim
+  title: Key claim about Recognition Memory
+  body: Recognition Memory is preserved at far higher levels than free recall for
+    the same studied material, which is why Recognition Memory tests systematically
+    overestimate the depth of learning that has been achieved and why educators should
+    not equate "recognising the right answer" with mastery.
+- type: warning
+  title: Common pitfall regarding Recognition Memory
+  body: A strong Recognition Memory signal can be supported by familiarity alone with
+    no recollection of source or context, so high Recognition Memory performance can
+    coexist with an inability to use the information productively — the textbook gap
+    between recognition and recall.

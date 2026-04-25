@@ -38,7 +38,7 @@ parent-concept: "AI-Assisted Development Workflows"
 related:
   - "[[AI-Assisted Development Workflows]]"
   - "[[Autocomplete]]"
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -141,6 +141,6 @@ Beyond its immediate benefits in speeding up coding tasks, GitHub Copilot also c
 
 **Contrasts with:** [[Autocomplete]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[python-development-in-vscode-with-copilot-foundational-report-2026-04-19]]

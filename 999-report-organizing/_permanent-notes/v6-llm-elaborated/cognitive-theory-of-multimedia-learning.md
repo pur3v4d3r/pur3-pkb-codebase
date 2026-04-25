@@ -33,13 +33,13 @@ depth-level: elaborated
 parent-concept: "Learning Theories"
 
 related:
-  - "[[Dual-Coding Theory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[dual-coding-theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Active-Learning Constructivism]]"
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Dual-Coding Theory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[dual-coding-theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Active-Learning Constructivism]]"
 specializes:
   - "[[]]"
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Cognitive Theory of Multimedia Learning
 
 > [!definition] **Cognitive Theory of Multimedia Learning**
-> The Cognitive Theory of Multimedia Learning (CTML) is a framework developed by Richard Mayer that integrates dual-coding theory, cognitive load theory, and active-learning constructivism to guide the design of instructional materials using words and pictures. It falls under [[Learning Theories]], focusing on how multimedia elements can be combined to enhance learning but does not cover other aspects such as motivation or affective learning.
+> The Cognitive Theory of Multimedia Learning (CTML) is a framework developed by Richard Mayer that integrates dual-coding theory, cognitive load theory, and active-learning constructivism to guide the design of instructional materials using words and pictures. It falls under [[learning-theories]], focusing on how multimedia elements can be combined to enhance learning but does not cover other aspects such as motivation or affective learning.
 
 > [!attention] **Boundary**
 > This theory focuses on how multimedia elements can be combined to enhance learning but does not cover other aspects of educational psychology such as motivation or affective learning.
@@ -137,10 +137,10 @@ The importance of CTML extends beyond instructional design; it also contributes 
 
 ## Connections & Context
 
-**Falls under:** [[Learning Theories]]
+**Falls under:** [[learning-theories]]
 
-**Prerequisites:** [[Dual-Coding Theory]] · [[Cognitive Load Theory]] · [[Active-Learning Constructivism]]
+**Prerequisites:** [[dual-coding-theory]] · [[cognitive-load-theory]] · [[Active-Learning Constructivism]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-theory-of-multimedia-learning-synthetic-seed-2026-04-24]]

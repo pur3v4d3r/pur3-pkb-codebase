@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Informational Feedback]]"
   - "[[Controlling Feedback]]"
 prerequisites:
@@ -41,7 +41,7 @@ prerequisites:
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -74,7 +74,7 @@ provenance:
 # Feedback Design for Autonomy and Mastery
 
 > [!definition] **Feedback Design for Autonomy and Mastery**
-> Feedback Design for Autonomy and Mastery is the practice of delivering evaluative information that supports competence, autonomy, and mastery focus in learners. It falls under [[Self-Regulated Learning]], emphasizing specific moves such as feedback on work rather than person, clear progress information against task criteria, suggestions framed as options, and explicit acknowledgment of the learner's perspective — practices that consistently produce better learning and well-being than evaluative-controlling feedback.
+> Feedback Design for Autonomy and Mastery is the practice of delivering evaluative information that supports competence, autonomy, and mastery focus in learners. It falls under [[self-regulated-learning]], emphasizing specific moves such as feedback on work rather than person, clear progress information against task criteria, suggestions framed as options, and explicit acknowledgment of the learner's perspective — practices that consistently produce better learning and well-being than evaluative-controlling feedback.
 
 > [!attention] **Boundary**
 > This concept excludes feedback that is controlling or focuses on comparative ranking rather than learning progress. It also does not encompass all forms of feedback but specifically those that support intrinsic motivation and self-regulated learning.
@@ -128,9 +128,9 @@ The evidence supporting Feedback Design for Autonomy and Mastery comes from vari
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Self-Regulated Learning]]
+**Generalizes to:** [[self-regulated-learning]]
 
 **Contrasts with:** [[Informational Feedback]] · [[Controlling Feedback]]
 

@@ -36,10 +36,10 @@ depth-level: elaborated
 parent-concept: "Goal-Setting Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Directive Function
 
 > [!definition] **Directive Function**
-> The directive function organizes attention preferentially toward goal-relevant activities, suppressing irrelevant ones. It operates within working memory and falls under [[Goal-Setting Theory]], where it is the mechanism by which committed goals focus effort on relevant tasks while filtering out distractions.
+> The directive function organizes attention preferentially toward goal-relevant activities, suppressing irrelevant ones. It operates within working memory and falls under [[goal-setting-theory]], where it is the mechanism by which committed goals focus effort on relevant tasks while filtering out distractions.
 
 > [!attention] **Boundary**
 > This concept excludes mechanisms that do not involve selective attention or goal-directed behavior. It does not encompass broader motivational theories like self-determination theory or achievement-goal theory.
@@ -135,10 +135,10 @@ The directive function's role extends beyond individual performance to broader m
 
 ## Connections & Context
 
-**Falls under:** [[Goal-Setting Theory]]
+**Falls under:** [[goal-setting-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]

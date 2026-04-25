@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Direct Instruction]]"
-  - "[[Formative Assessment]]"
+  - "[[direct-instruction]]"
+  - "[[formative-assessment]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Direct Instruction]]"
+  - "[[direct-instruction]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Formative Assessment]]"
+  - "[[formative-assessment]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Mastery Learning
 
 > [!definition] **Mastery Learning**
-> Mastery Learning is an instructional approach where learners progress only after demonstrating mastery of prerequisite content using criterion-referenced assessments and corrective instruction. It falls under [[Instructional Design]], ensuring that cumulative knowledge gaps are repaired at the point they emerge rather than allowed to widen, as highlighted by Bloom's '2-sigma' finding.
+> Mastery Learning is an instructional approach where learners progress only after demonstrating mastery of prerequisite content using criterion-referenced assessments and corrective instruction. It falls under [[instructional-design]], ensuring that cumulative knowledge gaps are repaired at the point they emerge rather than allowed to widen, as highlighted by Bloom's '2-sigma' finding.
 
 > [!attention] **Boundary**
 > This concept excludes superficial implementations that lack diagnostic formative assessment, structured corrective instruction, or criterion-referenced standards.
@@ -131,10 +131,10 @@ The concept of Mastery Learning intersects with other educational frameworks lik
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Contrasts with:** [[Direct Instruction]]
+**Contrasts with:** [[direct-instruction]]
 
-**Applies to:** [[Formative Assessment]]
+**Applies to:** [[formative-assessment]]
 
 **Source:** [[mastery-learning-synthetic-seed-2026-04-25]]

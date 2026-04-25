@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Vicarious Experience]]"
-  - "[[Cognitive Apprenticeship]]"
-  - "[[Social-Cognitive Theory]]"
+  - "[[vicarious-experience]]"
+  - "[[cognitive-apprenticeship]]"
+  - "[[social-cognitive-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,17 +45,17 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Vicarious Experience]]"
+  - "[[vicarious-experience]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Apprenticeship]]"
+  - "[[cognitive-apprenticeship]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Social-Cognitive Theory]]"
+  - "[[social-cognitive-theory]]"
 refines:
   - "[[]]"
 
@@ -73,7 +73,7 @@ provenance:
 # Observational Learning
 
 > [!definition] **Observational Learning**
-> Observational Learning is the process by which new behaviors or cognitive patterns are acquired through observing a model's actions without direct reinforcement, involving attention, retention, reproduction, and motivation. It falls under [[Cognitive Architecture]], as it involves mental processes that enable learning from observation rather than personal trial-and-error.
+> Observational Learning is the process by which new behaviors or cognitive patterns are acquired through observing a model's actions without direct reinforcement, involving attention, retention, reproduction, and motivation. It falls under [[cognitive-architecture]], as it involves mental processes that enable learning from observation rather than personal trial-and-error.
 
 > [!attention] **Boundary**
 > This concept excludes learning that occurs solely through direct experience or innate mechanisms. It focuses on the acquisition of knowledge and skills via observation rather than personal trial-and-error.
@@ -135,12 +135,12 @@ Observational learning also has practical implications across various domains, f
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Vicarious Experience]]
+**Contrasts with:** [[vicarious-experience]]
 
-**Applies to:** [[Cognitive Apprenticeship]]
+**Applies to:** [[cognitive-apprenticeship]]
 
-**Supports:** [[Social-Cognitive Theory]]
+**Supports:** [[social-cognitive-theory]]
 
 **Source:** [[observational-learning-synthetic-seed-2026-04-25]]

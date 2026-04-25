@@ -36,16 +36,16 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Schema Automation]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[schema-automation]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Schema Automation]]"
+  - "[[schema-automation]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # The Coordination Thesis for Schema Construction
 
 > [!definition] **The Coordination Thesis for Schema Construction**
-> The Coordination Thesis for Schema Construction posits that effective schema construction requires the systematic coordination of supportive information and learning tasks to build flexible, transferable schemas. This falls under [[Instructional Design]], as it emphasizes how instructional elements must work together rather than in isolation.
+> The Coordination Thesis for Schema Construction posits that effective schema construction requires the systematic coordination of supportive information and learning tasks to build flexible, transferable schemas. This falls under [[instructional-design]], as it emphasizes how instructional elements must work together rather than in isolation.
 
 > [!attention] **Boundary**
 > This concept excludes individual elements like supportive information or learning tasks alone. It focuses on their coordinated interaction in instructional design.
@@ -134,10 +134,10 @@ The Coordination Thesis's focus on coordinated interaction aligns well with the 
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Specializes:** [[Schema Automation]]
+**Specializes:** [[schema-automation]]
 
-**Sibling concepts:** [[Cognitive Load Theory]]
+**Sibling concepts:** [[cognitive-load-theory]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

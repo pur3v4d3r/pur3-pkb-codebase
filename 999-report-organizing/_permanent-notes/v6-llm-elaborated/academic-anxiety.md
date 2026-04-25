@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Academic Anxiety
 
 > [!definition] **Academic Anxiety**
-> Academic Anxiety is a family of anxiety responses triggered by evaluative academic situations such as tests and writing assignments, characterized by intrusive task-irrelevant thoughts, physiological arousal, and the consumption of working-memory resources that would otherwise be available for the academic task. It falls under [[Cognitive Architecture]], where it disrupts cognitive processes through working-memory hijack rather than skill deficit.
+> Academic Anxiety is a family of anxiety responses triggered by evaluative academic situations such as tests and writing assignments, characterized by intrusive task-irrelevant thoughts, physiological arousal, and the consumption of working-memory resources that would otherwise be available for the academic task. It falls under [[cognitive-architecture]], where it disrupts cognitive processes through working-memory hijack rather than skill deficit.
 
 > [!attention] **Boundary**
 > This concept excludes motivational deficits and focuses on the cognitive and emotional processes that interfere with academic performance under pressure.
@@ -131,10 +131,10 @@ The concept of Academic Anxiety intersects with other areas such as working memo
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[academic-anxiety-synthetic-seed-2026-04-25]]

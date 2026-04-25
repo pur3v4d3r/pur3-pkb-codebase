@@ -1,0 +1,36 @@
+concept: Free Recall
+domain: cognitive-science
+secondary_domains:
+- memory-research
+aliases:
+- unaided recall
+broader:
+- retrieval-practice
+related:
+- cued-recall
+- recognition-memory
+- serial-position-effect
+- encoding-variability
+prerequisites:
+- long-term-memory
+- retrieval-practice
+confidence: high
+callouts:
+- type: definition
+  title: Free Recall
+  body: Free Recall is a memory test in which the learner is asked to produce as much
+    of the studied material as possible in any order, with no external cues beyond
+    the general retrieval instruction, making Free Recall the most stringent of the
+    standard memory measures.
+- type: key-claim
+  title: Key claim about Free Recall
+  body: Free Recall is a more diagnostic test of durable, transfer-ready knowledge
+    than recognition or cued recall because the absence of external cues forces the
+    learner to generate retrieval pathways internally, which is why Free Recall practice
+    produces stronger long-term retention than re-reading or recognition study.
+- type: warning
+  title: Common pitfall regarding Free Recall
+  body: Free Recall is also the most punishing test format for beginners; using Free
+    Recall too early in the learning curve can produce repeated retrieval failure,
+    which damages motivation without producing the testing-effect benefits that emerge
+    once partial knowledge is in place.

@@ -37,11 +37,11 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Scaffolding]]"
-  - "[[Self-Determination Theory]]"
+  - "[[intrinsic-motivation]]"
+  - "[[scaffolding]]"
+  - "[[self-determination-theory]]"
 prerequisites:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 specializes:
   - "[[]]"
 broader:
@@ -53,13 +53,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scaffolding]]"
+  - "[[scaffolding]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -77,7 +77,7 @@ provenance:
 # Autonomy-Supportive Structure
 
 > [!definition] **Autonomy-Supportive Structure**
-> An autonomy-supportive structure in curriculum design combines clear expectations, explicit rationale, and meaningful choice within well-defined boundaries to support self-directed learning. It falls under [[Self-Determination Theory]], as it aligns with the core tenets of satisfying learners' needs for competence and autonomy simultaneously. It falls under [[Self-Regulated Learning]].
+> An autonomy-supportive structure in curriculum design combines clear expectations, explicit rationale, and meaningful choice within well-defined boundaries to support self-directed learning. It falls under [[self-determination-theory]], as it aligns with the core tenets of satisfying learners' needs for competence and autonomy simultaneously. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This concept excludes purely unstructured or overly rigid approaches. It focuses on the balance between providing necessary guidance and fostering learner autonomy.
@@ -137,12 +137,12 @@ Moreover, autonomy-supportive structures contribute to broader educational goals
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Intrinsic Motivation]]
+**Prerequisites:** [[intrinsic-motivation]]
 
-**Applies to:** [[Scaffolding]]
+**Applies to:** [[scaffolding]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

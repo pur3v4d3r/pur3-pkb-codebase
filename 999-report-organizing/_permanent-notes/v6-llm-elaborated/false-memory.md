@@ -33,24 +33,24 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Episodic Memory]]"
-  - "[[Source Monitoring]]"
-  - "[[Autobiographical Memory]]"
+  - "[[working-memory]]"
+  - "[[episodic-memory]]"
+  - "[[source-monitoring]]"
+  - "[[autobiographical-memory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Episodic Memory]]"
+  - "[[episodic-memory]]"
 contrasts-with:
-  - "[[Source Monitoring]]"
+  - "[[source-monitoring]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autobiographical Memory]]"
+  - "[[autobiographical-memory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # False Memory
 
 > [!definition] **False Memory**
-> False memory refers to the confident recollection of events or details that did not actually occur, often due to reconstructive processes integrating various sources of information into a coherent narrative. It falls under [[Cognitive Architecture]], where it highlights how our memory is constructive at retrieval rather than purely reproductive.
+> False memory refers to the confident recollection of events or details that did not actually occur, often due to reconstructive processes integrating various sources of information into a coherent narrative. It falls under [[cognitive-architecture]], where it highlights how our memory is constructive at retrieval rather than purely reproductive.
 
 > [!attention] **Boundary**
 > This concept excludes cases where memory is generally unreliable but focuses on specific instances where high confidence coexists with verifiable error. It does not encompass all forms of memory distortion or suggest unreliability in general memory functions.
@@ -131,14 +131,14 @@ The concept of false memory is crucial because it challenges our understanding o
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Episodic Memory]]
+**Sibling concepts:** [[episodic-memory]]
 
-**Contrasts with:** [[Source Monitoring]]
+**Contrasts with:** [[source-monitoring]]
 
-**Applies to:** [[Autobiographical Memory]]
+**Applies to:** [[autobiographical-memory]]
 
 **Source:** [[false-memory-synthetic-seed-2026-04-25]]

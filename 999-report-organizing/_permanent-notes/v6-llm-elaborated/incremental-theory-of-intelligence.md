@@ -34,8 +34,8 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[Implicit Theories]]"
-  - "[[Growth Mindset]]"
-  - "[[Entity Theory of Intelligence]]"
+  - "[[growth-mindset]]"
+  - "[[entity-theory-of-intelligence]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,9 +43,9 @@ specializes:
 broader:
   - "[[Implicit Theories]]"
 see-also:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contrasts-with:
-  - "[[Entity Theory of Intelligence]]"
+  - "[[entity-theory-of-intelligence]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Incremental Theory of Intelligence
 
 > [!definition] **Incremental Theory of Intelligence**
-> The Incremental Theory of Intelligence is the belief that intelligence can be developed through effort and instruction, contrasting with the fixed view (entity theory) which holds intelligence as a static trait not influenced by learning or effort. It falls under [[Self-Regulated Learning]], where it influences how learners approach challenges and adapt their strategies accordingly.
+> The Incremental Theory of Intelligence is the belief that intelligence can be developed through effort and instruction, contrasting with the fixed view (entity theory) which holds intelligence as a static trait not influenced by learning or effort. It falls under [[self-regulated-learning]], where it influences how learners approach challenges and adapt their strategies accordingly.
 
 > [!attention] **Boundary**
 > This concept excludes the idea that intelligence is a static trait not influenced by learning or effort. It also does not encompass all theories of motivation but focuses specifically on how beliefs about intelligence influence behavior.
@@ -129,12 +129,12 @@ This concept intersects with other related theories such as the Growth Mindset a
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Generalizes to:** [[Implicit Theories]]
 
-**Sibling concepts:** [[Growth Mindset]]
+**Sibling concepts:** [[growth-mindset]]
 
-**Contrasts with:** [[Entity Theory of Intelligence]]
+**Contrasts with:** [[entity-theory-of-intelligence]]
 
 **Source:** [[incremental-theory-of-intelligence-synthetic-seed-2026-04-24]]

@@ -1,0 +1,36 @@
+concept: Epistemology
+domain: philosophy
+secondary_domains:
+- critical-thinking
+- philosophy-of-science
+aliases:
+- theory of knowledge
+broader:
+- philosophy
+related:
+- virtue-epistemology
+- justified-true-belief
+- foundationalism
+- coherentism
+- gettier-problem
+- intellectual-humility
+confidence: high
+callouts:
+- type: definition
+  title: Epistemology
+  body: Epistemology is the branch of philosophy that investigates the nature, sources,
+    scope, and justification of knowledge, taking as its central questions what knowledge
+    is, how it is acquired, and how knowledge claims are evaluated against alternatives
+    such as belief, opinion, and ignorance.
+- type: key-claim
+  title: Key claim about Epistemology
+  body: Contemporary Epistemology has moved well beyond the classical justified-true-belief
+    analysis of knowledge — destabilised by Gettier cases — into virtue, reliabilist,
+    contextualist, and social Epistemology, and ignoring this internal pluralism produces
+    oversimplified accounts of what "really knowing" something means.
+- type: warning
+  title: Common pitfall regarding Epistemology
+  body: Epistemology is often invoked rhetorically in non-philosophical writing as
+    a synonym for "perspective" or "way of knowing"; this usage drains the term of
+    its analytic content and conflates Epistemology proper with cultural studies of
+    knowledge, which obscures the genuinely philosophical questions Epistemology asks.

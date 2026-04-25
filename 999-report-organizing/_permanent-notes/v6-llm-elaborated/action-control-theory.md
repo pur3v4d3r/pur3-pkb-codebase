@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Volitional-Control]]"
-  - "[[Implementation-Intentions]]"
-  - "[[Woop-Method]]"
+  - "[[volitional-control]]"
+  - "[[implementation-intentions]]"
+  - "[[woop-method]]"
 prerequisites:
-  - "[[Volitional-Control]]"
+  - "[[volitional-control]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,8 +49,8 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implementation-Intentions]]"
-  - "[[Woop-Method]]"
+  - "[[implementation-intentions]]"
+  - "[[woop-method]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Action Control Theory
 
 > [!definition] **Action Control Theory**
-> Action Control Theory, developed by Julius Kuhl, is a model that distinguishes between the motivational processes leading to intention formation and the volitional processes involved in translating those intentions into actions. It falls under [[Cognitive Architecture]], focusing on post-decisional volitional processes rather than pre-decisional motivational ones.
+> Action Control Theory, developed by Julius Kuhl, is a model that distinguishes between the motivational processes leading to intention formation and the volitional processes involved in translating those intentions into actions. It falls under [[cognitive-architecture]], focusing on post-decisional volitional processes rather than pre-decisional motivational ones.
 
 > [!attention] **Boundary**
 > This theory focuses on post-decisional volitional processes rather than pre-decisional motivational ones. It does not address the cognitive mechanisms underlying decision-making itself, nor does it delve deeply into the neurological bases of these processes.
@@ -133,10 +133,10 @@ The theory's implications extend beyond cognitive psychology into broader fields
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Volitional-Control]]
+**Prerequisites:** [[volitional-control]]
 
-**Applies to:** [[Implementation-Intentions]] · [[Woop-Method]]
+**Applies to:** [[implementation-intentions]] · [[woop-method]]
 
 **Source:** [[action-control-theory-synthetic-seed-2026-04-25]]

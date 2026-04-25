@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Logical Reasoning"
 
 related:
-  - "[[Deductive Reasoning]]"
-  - "[[Inductive Reasoning]]"
+  - "[[deductive-reasoning]]"
+  - "[[inductive-reasoning]]"
   - "[[Explanatory Coherence]]"
 prerequisites:
   - "[[]]"
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Deductive Reasoning]]"
-  - "[[Inductive Reasoning]]"
+  - "[[deductive-reasoning]]"
+  - "[[inductive-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -134,7 +134,7 @@ The study of abductive logic also intersects with deductive and inductive reason
 
 **Falls under:** [[Logical Reasoning]]
 
-**Contrasts with:** [[Deductive Reasoning]] · [[Inductive Reasoning]]
+**Contrasts with:** [[deductive-reasoning]] · [[inductive-reasoning]]
 
 **Applies to:** [[Explanatory Coherence]]
 

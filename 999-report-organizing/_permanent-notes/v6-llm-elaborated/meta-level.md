@@ -38,24 +38,24 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Metacognitive Monitoring]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[working-memory]]"
+  - "[[metacognitive-monitoring]]"
+  - "[[self-regulated-learning]]"
   - "[[Judgment-of-Learning (JOL)]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Metacognitive Monitoring]]"
+  - "[[metacognitive-monitoring]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Judgment-of-Learning (JOL)]]"
 formalizes:
   - "[[]]"
@@ -80,7 +80,7 @@ provenance:
 # Meta-Level
 
 > [!definition] **Meta-Level**
-> The meta-level is the level of cognitive processing that contains an imperfect model of the object-level's state and operations, guiding control decisions based on monitoring information. It falls under [[Cognitive Architecture]], where it operates as a functional description rather than a neuroanatomical structure or fixed module.
+> The meta-level is the level of cognitive processing that contains an imperfect model of the object-level's state and operations, guiding control decisions based on monitoring information. It falls under [[cognitive-architecture]], where it operates as a functional description rather than a neuroanatomical structure or fixed module.
 
 > [!attention] **Boundary**
 > It does not refer to neuroanatomical structures or fixed cognitive modules but rather a functional description of cognitive architecture. It should not be confused with specific neural substrates or individual cognitive processes.
@@ -142,12 +142,12 @@ The meta-level framework's emphasis on an imperfect but dynamic model provides a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Metacognitive Monitoring]]
+**Sibling concepts:** [[metacognitive-monitoring]]
 
-**Applies to:** [[Self-Regulated Learning]] · [[Judgment-of-Learning (JOL)]]
+**Applies to:** [[self-regulated-learning]] · [[Judgment-of-Learning (JOL)]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]

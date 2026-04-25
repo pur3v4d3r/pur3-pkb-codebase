@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Recurrent Constituent Skill]]"
+  - "[[recurrent-constituent-skill]]"
   - "[[Schema Formation]]"
-  - "[[Cognitive Scaffolding]]"
+  - "[[cognitive-scaffolding]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,7 +48,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Recurrent Constituent Skill]]"
+  - "[[recurrent-constituent-skill]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -58,7 +58,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Scaffolding]]"
+  - "[[cognitive-scaffolding]]"
 refines:
   - "[[]]"
 
@@ -76,7 +76,7 @@ provenance:
 # Non-Recurrent Constituent Skill
 
 > [!definition] **Non-Recurrent Constituent Skill**
-> A non-recurrent constituent skill is a component of complex cognitive performance that requires adaptation to specific problem contexts, involving reasoning and decision-making rather than automated rule-following. It falls under [[Cognitive Architecture]], where it is distinguished from recurrent skills by the variability in its execution across different situations.
+> A non-recurrent constituent skill is a component of complex cognitive performance that requires adaptation to specific problem contexts, involving reasoning and decision-making rather than automated rule-following. It falls under [[cognitive-architecture]], where it is distinguished from recurrent skills by the variability in its execution across different situations.
 
 > [!attention] **Boundary**
 > This concept excludes skills that are executed in the same way across different situations (recurring skills) and focuses on those requiring context-specific reasoning and decision-making.
@@ -133,12 +133,12 @@ Non-recurrent constituent skills play a critical role in complex learning by ena
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Recurrent Constituent Skill]]
+**Contrasts with:** [[recurrent-constituent-skill]]
 
 **Applies to:** [[Schema Formation]]
 
-**Supports:** [[Cognitive Scaffolding]]
+**Supports:** [[cognitive-scaffolding]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]

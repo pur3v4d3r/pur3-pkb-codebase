@@ -35,7 +35,7 @@ related:
   - "[[Ambivalence]]"
   - "[[Stages of Change Model]]"
   - "[[Change Talk]]"
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -55,7 +55,7 @@ formalizes:
 instance-of:
   - "[[Change Talk]]"
 supports:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 refines:
   - "[[]]"
 
@@ -141,6 +141,6 @@ The integration of MI within broader cognitive-behavioral therapy (CBT) framewor
 
 **Instance of:** [[Change Talk]]
 
-**Supports:** [[Self-Determination Theory]]
+**Supports:** [[self-determination-theory]]
 
 **Source:** [[motivational-interviewing-synthetic-seed-2026-04-24]]

@@ -35,19 +35,19 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Comprehension Monitoring]]"
-  - "[[Fluency Illusion]]"
+  - "[[working-memory]]"
+  - "[[comprehension-monitoring]]"
+  - "[[fluency-illusion]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Comprehension Monitoring]]"
+  - "[[comprehension-monitoring]]"
 contrasts-with:
-  - "[[Fluency Illusion]]"
+  - "[[fluency-illusion]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Standard of Coherence
 
 > [!definition] **Standard of Coherence**
-> The standard of coherence is the implicit configuration of expectations a reader applies to evaluate their understanding during reading, ranging from lexical (word recognition) through structural (paragraph-level cohesion) and informational (rhetorical promises). It falls under [[Cognitive Architecture]], as it operates within the broader framework of how readers process information and monitor comprehension. This standard is not tied to the reader's ability but rather to the level at which they monitor their understanding, distinguishing it from cognitive biases like the fluency illusion.
+> The standard of coherence is the implicit configuration of expectations a reader applies to evaluate their understanding during reading, ranging from lexical (word recognition) through structural (paragraph-level cohesion) and informational (rhetorical promises). It falls under [[cognitive-architecture]], as it operates within the broader framework of how readers process information and monitor comprehension. This standard is not tied to the reader's ability but rather to the level at which they monitor their understanding, distinguishing it from cognitive biases like the fluency illusion.
 
 > [!attention] **Boundary**
 > It does not refer to the reader's ability but rather the level at which they monitor comprehension. It is distinct from the fluency illusion and other cognitive biases.
@@ -129,12 +129,12 @@ Understanding the standard of coherence is crucial for improving reading compreh
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Comprehension Monitoring]]
+**Sibling concepts:** [[comprehension-monitoring]]
 
-**Contrasts with:** [[Fluency Illusion]]
+**Contrasts with:** [[fluency-illusion]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]

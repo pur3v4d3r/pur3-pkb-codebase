@@ -37,7 +37,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Active Open-Mindedness]]"
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 prerequisites:
   - "[[Active Open-Mindedness]]"
 specializes:
@@ -45,7 +45,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Metacognition]]"
+  - "[[metacognition]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # Reflective Disposition
 
 > [!definition] **Reflective Disposition**
-> Reflective disposition refers to the tendency to engage in deliberate and reflective thinking rather than relying on intuitive judgments. It is a metacognitive trait that varies across individuals and contexts, partially independent of cognitive capacity (which Stanovich calls the 'algorithmic mind'), and can be trained through practices that lower the threshold for engaging metacognitive scrutiny. Reflective disposition falls under [[Cognitive Architecture]].
+> Reflective disposition refers to the tendency to engage in deliberate and reflective thinking rather than relying on intuitive judgments. It is a metacognitive trait that varies across individuals and contexts, partially independent of cognitive capacity (which Stanovich calls the 'algorithmic mind'), and can be trained through practices that lower the threshold for engaging metacognitive scrutiny. Reflective disposition falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept does not include cognitive capacity or algorithmic processing, which are separate aspects of cognitive function as described by Stanovich's 'algorithmic mind'.
@@ -134,10 +134,10 @@ Reflective disposition is closely related to metacognition and active open-minde
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Prerequisites:** [[Active Open-Mindedness]]
 
-**Sibling concepts:** [[Metacognition]]
+**Sibling concepts:** [[metacognition]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]

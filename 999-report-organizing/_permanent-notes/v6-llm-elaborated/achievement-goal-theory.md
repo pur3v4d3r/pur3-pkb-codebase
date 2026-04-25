@@ -2,6 +2,7 @@
 title: "Achievement Goal Theory"
 aliases:
   - "Achievement Goal Theory"
+  - "Achievement-Goal Theory"
   - "achievement goal framework"
   - "goal orientation theory"
 type: permanent-note
@@ -32,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Self-Regulated Learning]]"
-  - "[[Mastery Climate]]"
+  - "[[self-regulated-learning]]"
+  - "[[mastery-climate]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,11 +48,11 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Mastery Climate]]"
+  - "[[mastery-climate]]"
 supports:
   - "[[]]"
 refines:
@@ -71,7 +72,7 @@ provenance:
 # Achievement Goal Theory
 
 > [!definition] **Achievement Goal Theory**
-> Achievement Goal Theory is a motivational framework that classifies learners' goals into mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance based on their focus on competence definition (mastery vs. normative comparison) and valence of competence pursuit (approaching success vs. avoiding failure). It falls under [[Motivational Psychology]], providing a detailed lens through which to understand how learners' goals influence their motivation and learning outcomes.
+> Achievement Goal Theory is a motivational framework that classifies learners' goals into mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance based on their focus on competence definition (mastery vs. normative comparison) and valence of competence pursuit (approaching success vs. avoiding failure). It falls under [[motivational-psychology]], providing a detailed lens through which to understand how learners' goals influence their motivation and learning outcomes.
 
 > [!attention] **Boundary**
 > This theory excludes other motivational theories that do not specifically address the dual dimensions of competence definition and valence in achievement settings.
@@ -132,10 +133,10 @@ The theory's implications extend beyond education into broader domains of psycho
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Applies to:** [[Self-Regulated Learning]]
+**Applies to:** [[self-regulated-learning]]
 
-**Instance of:** [[Mastery Climate]]
+**Instance of:** [[mastery-climate]]
 
 **Source:** [[achievement-goal-theory-synthetic-seed-2026-04-24]]

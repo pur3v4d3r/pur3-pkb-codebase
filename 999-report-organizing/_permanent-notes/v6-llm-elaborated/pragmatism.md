@@ -35,7 +35,7 @@ parent-concept: ""
 related:
   - "[[Epistemology]]"
   - "[[Community-Based Inquiry]]"
-  - "[[Fallibilism]]"
+  - "[[fallibilism]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -55,7 +55,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Fallibilism]]"
+  - "[[fallibilism]]"
 refines:
   - "[[]]"
 
@@ -137,6 +137,6 @@ Pragmatism's emphasis on community-based correction and fallibilism aligns with 
 
 **Applies to:** [[Community-Based Inquiry]]
 
-**Supports:** [[Fallibilism]]
+**Supports:** [[fallibilism]]
 
 **Source:** [[pragmatism-synthetic-seed-2026-04-24]]

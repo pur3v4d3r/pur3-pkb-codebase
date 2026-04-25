@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Individual Interest]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[individual-interest]]"
+  - "[[intrinsic-motivation]]"
   - "[[Hidi-Renninger Model]]"
 prerequisites:
   - "[[]]"
@@ -45,8 +45,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Individual Interest]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[individual-interest]]"
+  - "[[intrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Situational Interest
 
 > [!definition] **Situational Interest**
-> Situational Interest is a temporary form of interest that arises from features such as novelty, surprise, complexity, or vividness in a learning task, according to Hidi and Renninger's model. It falls under [[Motivational Psychology]], differing from stable individual interests by its dependence on the immediate context rather than the learner’s inherent preferences.
+> Situational Interest is a temporary form of interest that arises from features such as novelty, surprise, complexity, or vividness in a learning task, according to Hidi and Renninger's model. It falls under [[motivational-psychology]], differing from stable individual interests by its dependence on the immediate context rather than the learner’s inherent preferences.
 
 > [!attention] **Boundary**
 > This concept excludes stable individual interests and is distinct from intrinsic motivation. It focuses on the transient nature of interest triggered by situational factors.
@@ -133,9 +133,9 @@ Situational Interest plays a pivotal role in the Hidi-Renninger model, which emp
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Contrasts with:** [[Individual Interest]] · [[Intrinsic Motivation]]
+**Contrasts with:** [[individual-interest]] · [[intrinsic-motivation]]
 
 **Supports:** [[Hidi-Renninger Model]]
 

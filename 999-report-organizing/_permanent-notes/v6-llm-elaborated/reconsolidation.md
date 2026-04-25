@@ -31,10 +31,10 @@ depth-level: elaborated
 parent-concept: "Memory Consolidation"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,7 +46,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -70,7 +70,7 @@ provenance:
 # Reconsolidation
 
 > [!definition] **Reconsolidation**
-> Reconsolidation is the process by which a previously consolidated memory becomes labile again after retrieval, allowing it to be updated or modified before being re-consolidated into long-term storage. It falls under [[Memory Consolidation]], reframing long-term memory as periodically rewritable rather than permanently fixed once consolidated.
+> Reconsolidation is the process by which a previously consolidated memory becomes labile again after retrieval, allowing it to be updated or modified before being re-consolidated into long-term storage. It falls under [[memory-consolidation]], reframing long-term memory as periodically rewritable rather than permanently fixed once consolidated.
 
 > [!attention] **Boundary**
 > This concept does not include the initial consolidation of memories or the mechanisms involved in the formation of new memories. It focuses specifically on the post-retrieval process that allows for memory modification.
@@ -126,10 +126,10 @@ Reconsolidation also intersects with other related concepts such as working memo
 
 ## Connections & Context
 
-**Falls under:** [[Memory Consolidation]]
+**Falls under:** [[memory-consolidation]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[reconsolidation-synthetic-seed-2026-04-25]]

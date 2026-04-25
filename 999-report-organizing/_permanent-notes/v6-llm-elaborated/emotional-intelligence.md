@@ -74,7 +74,7 @@ provenance:
 # Emotional Intelligence
 
 > [!definition] **Emotional Intelligence**
-> Emotional Intelligence (EI) is the ability to perceive, use, understand, and regulate emotions effectively in oneself and others, distinct from general cognitive abilities and personality traits. It falls under [[Cognitive Architecture]], as it involves specific emotional processing skills that are separate from broader intelligence or personality characteristics.
+> Emotional Intelligence (EI) is the ability to perceive, use, understand, and regulate emotions effectively in oneself and others, distinct from general cognitive abilities and personality traits. It falls under [[cognitive-architecture]], as it involves specific emotional processing skills that are separate from broader intelligence or personality characteristics.
 
 > [!attention] **Boundary**
 > EI focuses on emotional perception, use, understanding, and regulation, excluding broader constructs like overall intelligence or personality traits.
@@ -141,7 +141,7 @@ The ability model of EI has demonstrated incremental predictive validity over ge
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Sibling concepts:** [[Self-Awareness]] · [[Empathy]]
 

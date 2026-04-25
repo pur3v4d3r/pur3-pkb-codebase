@@ -36,7 +36,7 @@ parent-concept: "Interactive Learning"
 related:
   - "[[Interactive Programming]]"
   - "[[Integrated Development Environment (IDE)]]"
-  - "[[Debugging]]"
+  - "[[debugging]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Debugging]]"
+  - "[[debugging]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -139,6 +139,6 @@ Beyond its practical applications in development, the concept of a REPL also has
 
 **Contrasts with:** [[Integrated Development Environment (IDE)]]
 
-**Applies to:** [[Debugging]]
+**Applies to:** [[debugging]]
 
 **Source:** [[python-development-in-vscode-practitioners-field-guide-2026-04-19]]

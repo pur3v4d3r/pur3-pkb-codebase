@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Learning Science"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Principles of Learning
 
 > [!definition] **Principles of Learning**
-> Principles of Learning are well-replicated empirical generalizations that guide effective learning, including spacing, retrieval practice, interleaving, and feedback timing. These principles fall under [[Learning Science]], as they constitute the operational core of evidence-based pedagogy.
+> Principles of Learning are well-replicated empirical generalizations that guide effective learning, including spacing, retrieval practice, interleaving, and feedback timing. These principles fall under [[learning-science]], as they constitute the operational core of evidence-based pedagogy.
 
 > [!attention] **Boundary**
 > This concept excludes individual learning strategies like spaced repetition or dual coding, which are specific applications rather than overarching principles.
@@ -131,10 +131,10 @@ Empirical evidence supports the effectiveness of Principles of Learning through 
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[principles-of-learning-synthetic-seed-2026-04-24]]

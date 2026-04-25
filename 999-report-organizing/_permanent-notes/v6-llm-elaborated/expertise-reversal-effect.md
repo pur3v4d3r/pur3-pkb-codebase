@@ -34,7 +34,7 @@ depth-level: elaborated
 parent-concept: "Cognitive Load Theory"
 
 related:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Intrinsic Load]]"
   - "[[Extraneous Load]]"
 prerequisites:
@@ -44,7 +44,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Intrinsic Load]]"
   - "[[Extraneous Load]]"
 contrasts-with:
@@ -76,7 +76,7 @@ provenance:
 # Expertise Reversal Effect
 
 > [!definition] **Expertise Reversal Effect**
-> The Expertise Reversal Effect refers to the phenomenon where instructional supports that benefit novices can hinder expert performance by adding extraneous cognitive load. It falls under [[Cognitive Load Theory]], which posits that managing the three types of cognitive load—extraneous, intrinsic, and germane—is crucial for effective learning design.
+> The Expertise Reversal Effect refers to the phenomenon where instructional supports that benefit novices can hinder expert performance by adding extraneous cognitive load. It falls under [[cognitive-load-theory]], which posits that managing the three types of cognitive load—extraneous, intrinsic, and germane—is crucial for effective learning design.
 
 > [!attention] **Boundary**
 > This effect is specific to the interaction between instructional design and learner expertise, excluding cases of novice learners or situations unrelated to cognitive load theory.
@@ -135,8 +135,8 @@ This effect also has broader implications for knowledge management practices (KM
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Load Theory]]
+**Falls under:** [[cognitive-load-theory]]
 
-**Sibling concepts:** [[Cognitive Load Theory]] · [[Intrinsic Load]] · [[Extraneous Load]]
+**Sibling concepts:** [[cognitive-load-theory]] · [[Intrinsic Load]] · [[Extraneous Load]]
 
 **Source:** [[cognitive-load-theory-element-interactivity-deep-dive-2026-04-20]]

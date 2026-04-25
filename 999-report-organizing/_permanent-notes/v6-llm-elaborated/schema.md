@@ -36,13 +36,13 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Procedural Knowledge]]"
   - "[[Declarative Knowledge]]"
-  - "[[Elaborative Interrogation]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[elaborative-interrogation]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -55,13 +55,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Elaborative Interrogation]]"
+  - "[[elaborative-interrogation]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -138,14 +138,14 @@ Schemas bridge the gap between working memory's limited capacity and long-term m
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Procedural Knowledge]] · [[Declarative Knowledge]]
 
-**Applies to:** [[Elaborative Interrogation]]
+**Applies to:** [[elaborative-interrogation]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]

@@ -1,0 +1,37 @@
+concept: Knowledge Management
+domain: information-science
+secondary_domains:
+- organizational-psychology
+- personal-knowledge-management
+aliases:
+- KM
+- organisational knowledge management
+broader:
+- information-science
+related:
+- personal-knowledge-management
+- zettelkasten
+- communities-of-practice
+- transactive-memory-systems
+- tacit-knowledge
+confidence: high
+callouts:
+- type: definition
+  title: Knowledge Management
+  body: Knowledge Management is the field of practice and research concerned with
+    how organisations and individuals capture, organise, retrieve, share, and apply
+    knowledge so that it remains usable and improvable over time, integrating the
+    people, processes, and technology dimensions of knowledge work.
+- type: key-claim
+  title: Key claim about Knowledge Management
+  body: Knowledge Management distinguishes explicit from tacit knowledge and recognises
+    that the most valuable organisational knowledge is tacit; this is why Knowledge
+    Management programs that focus exclusively on document repositories systematically
+    underperform programs that combine repositories with communities of practice and
+    apprenticeship structures.
+- type: warning
+  title: Common pitfall regarding Knowledge Management
+  body: Knowledge Management is frequently reduced to "buy a document management system",
+    but the empirical track record of pure-tooling Knowledge Management initiatives
+    is poor; serious Knowledge Management treats culture, incentives, and tacit-to-explicit
+    conversion as first-class concerns alongside the tooling.

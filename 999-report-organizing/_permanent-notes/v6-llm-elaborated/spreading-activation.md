@@ -36,9 +36,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Schema Theory]]"
-  - "[[Chunking]]"
-  - "[[Retrieval Practice]]"
+  - "[[schema-theory]]"
+  - "[[chunking]]"
+  - "[[retrieval-practice]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,12 +48,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Schema Theory]]"
-  - "[[Chunking]]"
+  - "[[schema-theory]]"
+  - "[[chunking]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Retrieval Practice]]"
+  - "[[retrieval-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Spreading Activation
 
 > [!definition] **Spreading Activation**
-> Spreading activation is a mechanism where the activation of one concept node in a semantic network propagates along associative links to related nodes, with the strength of propagation determined by associative weight. This model falls under [[Cognitive Architecture]], as it provides a foundational understanding of how memory retrieval operates within cognitive systems.
+> Spreading activation is a mechanism where the activation of one concept node in a semantic network propagates along associative links to related nodes, with the strength of propagation determined by associative weight. This model falls under [[cognitive-architecture]], as it provides a foundational understanding of how memory retrieval operates within cognitive systems.
 
 > [!attention] **Boundary**
 > This model does not account for strategic retrieval processes, contextual constraints, or inhibitory mechanisms within memory.
@@ -133,10 +133,10 @@ The link supremacy thesis, which posits that the linking structure rather than f
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Schema Theory]] · [[Chunking]]
+**Contrasts with:** [[schema-theory]] · [[chunking]]
 
-**Applies to:** [[Retrieval Practice]]
+**Applies to:** [[retrieval-practice]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]

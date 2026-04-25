@@ -38,7 +38,7 @@ parent-concept: "Curriculum Design"
 
 related:
   - "[[Forward Design]]"
-  - "[[Instructional Design]]"
+  - "[[instructional-design]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Instructional Design]]"
+  - "[[instructional-design]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Backward Design
 
 > [!definition] **Backward Design**
-> Backward Design is a curriculum design framework that starts with the identification of desired understandings and transfer goals, then determines acceptable evidence of those understandings, and only then plans learning experiences and instruction. It falls under [[Curriculum Design]], prioritizing long-term capacity over immediate content mastery.
+> Backward Design is a curriculum design framework that starts with the identification of desired understandings and transfer goals, then determines acceptable evidence of those understandings, and only then plans learning experiences and instruction. It falls under [[curriculum-design]], prioritizing long-term capacity over immediate content mastery.
 
 > [!attention] **Boundary**
 > This concept excludes forward design approaches where content coverage drives the structure of the curriculum. It also does not encompass all aspects of instructional design but focuses specifically on the sequencing of curriculum development based on transfer goals.
@@ -135,10 +135,10 @@ The application of Backward Design across various educational contexts, from pro
 
 ## Connections & Context
 
-**Falls under:** [[Curriculum Design]]
+**Falls under:** [[curriculum-design]]
 
 **Contrasts with:** [[Forward Design]]
 
-**Applies to:** [[Instructional Design]]
+**Applies to:** [[instructional-design]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]

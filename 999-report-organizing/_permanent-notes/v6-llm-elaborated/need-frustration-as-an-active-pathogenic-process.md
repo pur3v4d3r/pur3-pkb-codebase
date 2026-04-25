@@ -37,9 +37,9 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
-  - "[[Autonomy Support]]"
+  - "[[intrinsic-motivation]]"
+  - "[[extrinsic-motivation]]"
+  - "[[autonomy-support]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,13 +47,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 contrasts-with:
-  - "[[Extrinsic Motivation]]"
+  - "[[extrinsic-motivation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomy Support]]"
+  - "[[autonomy-support]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -77,7 +77,7 @@ provenance:
 # Need Frustration as an Active Pathogenic Process
 
 > [!definition] **Need Frustration as an Active Pathogenic Process**
-> Need Frustration as an Active Pathogenic Process posits that chronic need frustration is not merely the absence of positive conditions but an active process leading to specific psychological dysfunctions. It falls under [[Self-Determination Theory]], where each need frustration produces a characteristic pattern: autonomy frustration → oppositional defiance, rigid compliance, or withdrawal; competence frustration → helplessness, avoidance of challenge, performance anxiety; relatedness frustration → social withdrawal, loneliness, attachment insecurity. These patterns are not merely correlated with psychopathology — SDT proposes that they are among the mechanisms through which psychopathology develops, particularly when need frustration is chronic, pervasive, and begins in developmentally sensitive periods.
+> Need Frustration as an Active Pathogenic Process posits that chronic need frustration is not merely the absence of positive conditions but an active process leading to specific psychological dysfunctions. It falls under [[self-determination-theory]], where each need frustration produces a characteristic pattern: autonomy frustration → oppositional defiance, rigid compliance, or withdrawal; competence frustration → helplessness, avoidance of challenge, performance anxiety; relatedness frustration → social withdrawal, loneliness, attachment insecurity. These patterns are not merely correlated with psychopathology — SDT proposes that they are among the mechanisms through which psychopathology develops, particularly when need frustration is chronic, pervasive, and begins in developmentally sensitive periods.
 
 > [!attention] **Boundary**
 > This concept excludes acute, situational frustrations and focuses on chronic, pervasive need frustrations in developmentally sensitive periods.
@@ -140,12 +140,12 @@ By recognizing the role of need frustration, practitioners can develop more effe
 
 ## Connections & Context
 
-**Falls under:** [[Self-Determination Theory]]
+**Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Intrinsic Motivation]]
+**Sibling concepts:** [[intrinsic-motivation]]
 
-**Contrasts with:** [[Extrinsic Motivation]]
+**Contrasts with:** [[extrinsic-motivation]]
 
-**Applies to:** [[Autonomy Support]]
+**Applies to:** [[autonomy-support]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]

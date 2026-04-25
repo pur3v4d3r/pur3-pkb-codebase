@@ -38,11 +38,11 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Judgment of Learning (JOL)]]"
   - "[[Ease-of-Learning (EOL)]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -78,7 +78,7 @@ provenance:
 # Processing Fluency
 
 > [!definition] **Processing Fluency**
-> Processing fluency refers to the ease with which information is perceived, encoded, or retrieved. It serves as a cue for monitoring memory strength, comprehension depth, or learning quality in metacognitive processes. However, it does not equate to actual learning strength; increases in fluency can occur without corresponding increases in learning, leading to potential overconfidence and the fluency illusion (it falls under [[Metacognition]]).
+> Processing fluency refers to the ease with which information is perceived, encoded, or retrieved. It serves as a cue for monitoring memory strength, comprehension depth, or learning quality in metacognitive processes. However, it does not equate to actual learning strength; increases in fluency can occur without corresponding increases in learning, leading to potential overconfidence and the fluency illusion (it falls under [[metacognition]]).
 
 > [!attention] **Boundary**
 > Processing fluency does not equate to actual learning strength; it can increase without corresponding increases in learning, leading to potential overconfidence and the fluency illusion.
@@ -137,9 +137,9 @@ The implications of processing fluency extend beyond individual learning to educ
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Judgment of Learning (JOL)]]
 

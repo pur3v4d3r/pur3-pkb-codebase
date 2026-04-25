@@ -31,8 +31,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Semantic Memory]]"
-  - "[[Spreading Activation]]"
+  - "[[semantic-memory]]"
+  - "[[spreading-activation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -40,13 +40,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Semantic Memory]]"
+  - "[[semantic-memory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Spreading Activation]]"
+  - "[[spreading-activation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -70,7 +70,7 @@ provenance:
 # Semantic Priming
 
 > [!definition] **Semantic Priming**
-> Semantic Priming is the phenomenon where processing a word or concept becomes faster and more accurate when it follows a semantically related word or concept, indicating interconnectedness in semantic memory. It falls under [[Cognitive Architecture]], providing empirical evidence for how meaning is stored as a network of typed relations between concepts rather than isolated lexical entries.
+> Semantic Priming is the phenomenon where processing a word or concept becomes faster and more accurate when it follows a semantically related word or concept, indicating interconnectedness in semantic memory. It falls under [[cognitive-architecture]], providing empirical evidence for how meaning is stored as a network of typed relations between concepts rather than isolated lexical entries.
 
 > [!attention] **Boundary**
 > This effect does not include priming due to non-semantic factors such as frequency of occurrence or physical similarity between words.
@@ -126,10 +126,10 @@ Moreover, Semantic Priming bridges the gap between theoretical models and empiri
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Semantic Memory]]
+**Sibling concepts:** [[semantic-memory]]
 
-**Applies to:** [[Spreading Activation]]
+**Applies to:** [[spreading-activation]]
 
 **Source:** [[semantic-priming-synthetic-seed-2026-04-25]]

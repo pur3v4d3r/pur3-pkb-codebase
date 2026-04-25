@@ -33,25 +33,25 @@ depth-level: elaborated
 parent-concept: "Cognitive Bias"
 
 related:
-  - "[[Cognitive Bias]]"
-  - "[[Dunning-Kruger Effect]]"
-  - "[[Illusion of Knowing]]"
-  - "[[Metacognitive Calibration]]"
+  - "[[cognitive-bias]]"
+  - "[[dunning-kruger-effect]]"
+  - "[[illusion-of-knowing]]"
+  - "[[metacognitive-calibration]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Cognitive Bias]]"
+  - "[[cognitive-bias]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Dunning-Kruger Effect]]"
-  - "[[Illusion of Knowing]]"
+  - "[[dunning-kruger-effect]]"
+  - "[[illusion-of-knowing]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Metacognitive Calibration]]"
+  - "[[metacognitive-calibration]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Overconfidence Bias
 
 > [!definition] **Overconfidence Bias**
-> Overconfidence Bias refers to the tendency of individuals to overestimate their accuracy or knowledge, leading to miscalibrated probability judgments. It falls under [[Cognitive Bias]], specifically as a form of miscalibration that affects metacognition and decision-making.
+> Overconfidence Bias refers to the tendency of individuals to overestimate their accuracy or knowledge, leading to miscalibrated probability judgments. It falls under [[cognitive-bias]], specifically as a form of miscalibration that affects metacognition and decision-making.
 
 > [!attention] **Boundary**
 > This concept excludes other cognitive biases that do not specifically involve miscalibration in subjective probability judgments. It is distinct from overprecision, overestimation, and overplacement variants but encompasses them under a broader framework of miscalibration.
@@ -134,12 +134,12 @@ The importance of Overconfidence Bias extends beyond individual decision-making 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Bias]]
+**Falls under:** [[cognitive-bias]]
 
-**Generalizes to:** [[Cognitive Bias]]
+**Generalizes to:** [[cognitive-bias]]
 
-**Contrasts with:** [[Dunning-Kruger Effect]] · [[Illusion of Knowing]]
+**Contrasts with:** [[dunning-kruger-effect]] · [[illusion-of-knowing]]
 
-**Applies to:** [[Metacognitive Calibration]]
+**Applies to:** [[metacognitive-calibration]]
 
 **Source:** [[overconfidence-bias-synthetic-seed-2026-04-25]]

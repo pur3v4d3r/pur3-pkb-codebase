@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Metacognitive Self-Regulation
 
 > [!definition] **Metacognitive Self-Regulation**
-> Metacognitive Self-Regulation is the process of planning, monitoring, controlling, and reflecting on one's own cognitive processes during learning, guided by metacognitive knowledge. It falls under [[Self-Regulated Learning]], where it serves as the executive arm through which knowledge of cognition (metacognitive knowledge) is converted into adjusted behavior during study and performance.
+> Metacognitive Self-Regulation is the process of planning, monitoring, controlling, and reflecting on one's own cognitive processes during learning, guided by metacognitive knowledge. It falls under [[self-regulated-learning]], where it serves as the executive arm through which knowledge of cognition (metacognitive knowledge) is converted into adjusted behavior during study and performance.
 
 > [!attention] **Boundary**
 > It excludes broader concepts like general self-regulated learning or narrower aspects such as specific study techniques.
@@ -130,10 +130,10 @@ Understanding Metacognitive Self-Regulation also has broader implications for th
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[metacognitive-self-regulation-synthetic-seed-2026-04-24]]
