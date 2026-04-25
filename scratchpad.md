@@ -802,7 +802,7 @@ Pintrich's Model of Self-Regulated Learning
 Zimmerman's Model of Self-Regulated Learning
 Winne's Model of Self-Regulated Learning
 Self Regulated Learning
-Schema Theory
+Schema Theory✅
 Constructivism
 Connectivism
 Writing To Learn
@@ -836,15 +836,15 @@ Semantic Memory
 Episodic Memory
 Procedural Memory
 Declarative Memory
-Spreading Activation Theory
-Connectionist Schema Theory
+Spreading Activation Theory✅
+Connectionist Schema Theory✅
 ACT-R Theory
 Metacognitive Scaffolding for Studying✅
 Metacognitive Scaffolding for Problem Solving
 Metacognitive Scaffolding for Reading
 Scaffold Fading
 4C/ID Model of Instruction
-Schema Construction
+Schema Construction✅
 Schema Activation
 Zone of Proximal Development
 Socratic Questioning
@@ -904,16 +904,10 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-per
 
 
 
-Generate a report on: [TOPIC]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
 
-Generate a report on: [TOPIC]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
 
-Generate a report on: [TOPIC]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
+
+
+
 
 
