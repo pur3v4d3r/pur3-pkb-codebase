@@ -22,7 +22,7 @@ version: 1.0.0
 > **Motivation, Agency & Self-Regulation** is the study of *why* people initiate, sustain, and direct their own learning — and what psychological conditions make autonomous, self-directed engagement more or less likely. This MOC organizes ~168 permanent notes spanning Self-Determination Theory (SDT), goal architecture, attribution theory, self-efficacy, metacognition, self-regulated learning (SRL), and self-directed learning (SDL). It is structured as a **hub-and-spoke architecture** centered on the concept of *self-determined agency* — the capacity to pursue goals from an internal locus of causality with full psychological engagement.
 >
 > **For**: Educators designing autonomy-supportive environments; coaches and practitioners; learners seeking to understand and optimize their own motivational psychology.
-> **Companion MOCs**: [[MOC - Cognitive Architecture & Learning Science]], [[MOC - Reasoning, Critical Thinking & Epistemology]]
+> **Companion MOCs**: [[moc-cognitive-architecture-learning-science]], [[moc-reasoning-critical-thinking-epistemology]]
 > **Reading time**: ~28 min full read; the SDT core (§1–§2) is the essential prerequisite for all other sections.
 
 ## 🗺️ Navigation

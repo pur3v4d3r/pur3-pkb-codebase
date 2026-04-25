@@ -71,6 +71,7 @@ developmental-psychology
 educational-assessment
 learning-analytics
 multimedia-learning
+analytical-frameworks
 
 
 

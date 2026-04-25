@@ -22,7 +22,7 @@ version: 1.0.0
 > **Reasoning, Critical Thinking & Epistemology** is the study of *how people should think* (normative logic), *how people actually think* (cognitive bias and heuristics), and *what intellectual character supports good thinking* (epistemic virtue). This MOC organizes ~62 permanent notes spanning formal logic, informal reasoning patterns, dual-process theory and biases, critical thinking frameworks, and epistemic virtues. It is structured as a **cluster architecture** — five co-equal sub-domains, each internally coherent but richly interconnected.
 >
 > **For**: Anyone developing systematic reasoning capacities; practitioners applying argumentation; researchers in epistemology or cognitive science.
-> **Companion MOCs**: [[MOC - Cognitive Architecture & Learning Science]] (dual-process theory), [[MOC - Motivation, Agency & Self-Regulation]] (motivated reasoning)
+> **Companion MOCs**: [[moc-cognitive-architecture-learning-science]] (dual-process theory), [[moc-motivation-agency-self-regulation]] (motivated reasoning)
 > **Reading time**: ~18 min full read; clusters can be entered independently.
 
 ## 🗺️ Navigation

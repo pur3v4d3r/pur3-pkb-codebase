@@ -691,3 +691,8 @@ python pkb_report_generator.py "D:\10_pur3v4d3r's-vault\999-report-organizing\_p
 
 
 python folder_review_report.py --input "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated"
+
+
+## TASK
+- [ ] Generate script for extracting spaced repetition seeds from academic reports, with output in both Markdown and JSON formats.
+- [ ] run script for fixing links in obasidian
