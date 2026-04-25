@@ -35,3 +35,83 @@ nohup: ignoring input
     input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-13-neuroscience-substrates
 06:01:11 [INFO] __main__: Discovered 10 JSON file(s)
 06:01:11 [INFO] __main__: Mined 10 concept candidate(s)
+  V6 elaborating — Synaptic Pruning ----------------------------- 10/10 0:07:15
+
+=== V6 Summary ===
+  JSONs scanned     : 10
+  Concepts mined    : 10
+  Written/dry-ran   : 10
+  Skipped (collision): 0
+  Unworthy (gate)   : 0
+  Failed            : 0
+  LLM cache hits    : 0
+
+06:08:26 [INFO] __main__: Wrote V6 report → runs\2026-04-25-v6-2026-04-25-2026-04-25-batch-13-neuroscience-substrates.json
+--- batch: 2026-04-25-2026-04-25-batch-14-social-psychology ---
+    input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-14-social-psychology
+06:08:27 [INFO] __main__: Discovered 10 JSON file(s)
+06:08:27 [INFO] __main__: Mined 10 concept candidate(s)
+  V6 elaborating — Stereotype Threat ---------------------------- 10/10 0:08:04
+
+=== V6 Summary ===
+  JSONs scanned     : 10
+  Concepts mined    : 10
+  Written/dry-ran   : 10
+  Skipped (collision): 0
+  Unworthy (gate)   : 0
+  Failed            : 0
+  LLM cache hits    : 0
+
+06:16:31 [INFO] __main__: Wrote V6 report → runs\2026-04-25-v6-2026-04-25-2026-04-25-batch-14-social-psychology.json
+--- batch: 2026-04-25-2026-04-25-batch-15-creativity-and-language ---
+    input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-15-creativity-and-language
+06:16:32 [INFO] __main__: Discovered 14 JSON file(s)
+06:16:32 [INFO] __main__: Mined 14 concept candidate(s)
+  V6 elaborating — Sapir Whorf Hypothesis ----------------------- 14/14 0:10:41
+
+=== V6 Summary ===
+  JSONs scanned     : 14
+  Concepts mined    : 14
+  Written/dry-ran   : 14
+  Skipped (collision): 0
+  Unworthy (gate)   : 0
+  Failed            : 0
+  LLM cache hits    : 0
+
+06:27:13 [INFO] __main__: Wrote V6 report → runs\2026-04-25-v6-2026-04-25-2026-04-25-batch-15-creativity-and-language.json
+--- batch: 2026-04-25-2026-04-25-batch-16-philosophy-of-mind-and-epistemology ---
+    input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-16-philosophy-of-mind-and-epistemology
+06:27:13 [INFO] __main__: Discovered 16 JSON file(s)
+06:27:13 [INFO] __main__: Mined 16 concept candidate(s)
+  V6 elaborating — Social Epistemology -------------------------- 16/16 0:12:32
+
+=== V6 Summary ===
+  JSONs scanned     : 16
+  Concepts mined    : 16
+  Written/dry-ran   : 16
+  Skipped (collision): 0
+  Unworthy (gate)   : 0
+  Failed            : 0
+  LLM cache hits    : 0
+
+06:39:45 [INFO] __main__: Wrote V6 report → runs\2026-04-25-v6-2026-04-25-2026-04-25-batch-16-philosophy-of-mind-and-epistemology.json
+--- batch: 2026-04-25-2026-04-25-batch-17-pkm-and-systems ---
+    input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-17-pkm-and-systems
+06:39:46 [INFO] __main__: Discovered 16 JSON file(s)
+06:39:46 [INFO] __main__: Mined 16 concept candidate(s)
+  V6 elaborating — Tagging Systems ------------------------------ 16/16 0:12:23
+
+=== V6 Summary ===
+  JSONs scanned     : 16
+  Concepts mined    : 16
+  Written/dry-ran   : 16
+  Skipped (collision): 0
+  Unworthy (gate)   : 0
+  Failed            : 0
+  LLM cache hits    : 0
+
+06:52:09 [INFO] __main__: Wrote V6 report → runs\2026-04-25-v6-2026-04-25-2026-04-25-batch-17-pkm-and-systems.json
+--- batch: 2026-04-25-2026-04-25-batch-18-positive-psych-and-instructional-design ---
+    input: D:\10_pur3v4d3r's-vault\999-report-organizing\_extractor-output\_synthetic-seeds\2026-04-25-2026-04-25-batch-18-positive-psych-and-instructional-design
+06:52:10 [INFO] __main__: Discovered 19 JSON file(s)
+06:52:10 [INFO] __main__: Mined 19 concept candidate(s)

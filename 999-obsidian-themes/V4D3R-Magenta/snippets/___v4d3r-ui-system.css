@@ -149,7 +149,7 @@
 
 
 
-┌──────────────────────────────────────────────────────────────────────────────┐
+/*┌──────────────────────────────────────────────────────────────────────────────┐
    │ 1.2 ANIMATION & TRANSITION VARIABLES                                         │
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
@@ -249,7 +249,8 @@
   font-style: italic !important;
   color: var(--ui-text-bright) !important;    /* Bright text for italics */
 }
-─────────────────────────────────────────────────────────────────────────────
+
+/*─────────────────────────────────────────────────────────────────────────────
 3.2 TABS - Modern rounded style
 ──────────────────────────────────────────────────────────────────
 ──────────── */
@@ -408,7 +409,7 @@
 /* --- BEGIN TOGGLE: Colored Ribbon Accent --- */
 
 .workspace-ribbon.mod-left {
-  --titlebar-background-focused: var(--v4d3r-purple-dark) !important;  background-color: var(--v4d3r-purple-dark)!important !important;}
+  --titlebar-background-focused: var(--v4d3r-purple-dark) !important;  background-color: var(--v4d3r-purple-dark)!important;}
 
 .workspace-ribbon.mod-left::before,
 .workspace-ribbon.mod-left > .sidebar-toggle-button {
@@ -427,7 +428,7 @@
    │ Toggle: Ribbon fades/hides when sidebar is collapsed                         │
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
- --- BEGIN TOGGLE: Immersive Ribbon (Hide on Collapse) --- */
+
 .workspace-ribbon.mod-left.is-collapsed {
   background-color: transparent !important;  transition: background-color var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
 .workspace-ribbon.mod-left.is-collapsed 
@@ -577,10 +578,10 @@
 /* --- BEGIN TOGGLE: Vertical Label Navigation --- */
 
 .mod-left-split .mod-top .workspace-tab-header-container {
-  flex-direction: column-reverse !important !important;  height: auto !important;  width: 100% !important;}
+  flex-direction: column-reverse !important;  height: auto !important;  width: 100% !important;}
 
 .mod-left-split .mod-top .workspace-tab-header-container .workspace-tab-container-inner {
-  flex-direction: column !important !important;  background-color: var(--v4d3r-bg-secondary) !important;  gap: 0 !important;  padding: var(--v4d3r-spacing-sm) var(--v4d3r-spacing-md) !important;}
+  flex-direction: column !important;  background-color: var(--v4d3r-bg-secondary) !important;  gap: 0 !important;  padding: var(--v4d3r-spacing-sm) var(--v4d3r-spacing-md) !important;}
 
 .mod-left-split .mod-top .workspace-tab-header {
   padding: 0 !important;  margin-bottom: 2px !important;  height: auto !important;}
@@ -636,7 +637,7 @@
 
 /* --- BEGIN TOGGLE: Square Tabs --- */
 .workspace-tab-header {
-  border-radius: 0 !important !important;}
+  border-radius: 0 !important;}
 
 .workspace-tab-header-inner {
   border-radius: 0 !important;}
@@ -1540,181 +1541,3 @@ textarea::placeholder {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-═══════════════════════════════════════════════════════════════════════════════
-   V4D3R UI SYSTEM - COMPLETE
-   
-   📁 File: v4d3r-ui-system.css
-   🎨 Theme: RED / BLACK / GREY
-   📦 Total Toggleable Sections: 50+
-   
-   ═══════════════════════════════════════════════════════════════════════════════
-   
-   USAGE INSTRUCTIONS:
-   
-   1. ENABLE SNIPPET:
-      Settings → Appearance → CSS Snippets → Enable "v4d3r-ui-system"
-   
-   2. TOGGLE FEATURES:
-      • Active features are uncommented (default ON)
-      • Disabled features are wrapped in /* ... */ comments
-      • To ENABLE: Remove /* at start and */ at end of the toggle block
-      • To DISABLE: Add /* at start and */ at end of the toggle block
-   
-   3. TOGGLE BLOCK FORMAT:
-      /* --- BEGIN TOGGLE: Feature Name --- */
-      [CSS rules here]
-      /* --- END TOGGLE: Feature Name --- */
-   
-   4. CUSTOMIZATION:
-      • Modify colors in Section 1.1 (V4D3R Color Palette)
-      • Adjust timing in Section 1.2 (Animation Variables)
-      • All variables use --v4d3r-* namespace
-   
-   5. LIGHT THEME:
-      • Uncomment the :root.theme-light section in Part 1
-      • Colors will automatically adjust for light mode
-   
-   ═══════════════════════════════════════════════════════════════════════════════
-   
-   PARTS SUMMARY:
-   
-   Part 1: Core Variables & Foundations (Sections 1.1-1.4)
-   Part 2: Ribbon & Sidebar (Sections 2.1-2.8)
-   Part 3: Tabs & Tab Bar (Sections 3.1-3.10)
-   Part 4: Status Bar & Titlebar (Sections 4.1-4.11)
-   Part 5: File Explorer & Navigation (Sections 5.1-5.10)
-   Part 6: Advanced Features (Sections 6.1-6.15)
-   
-   ═══════════════════════════════════════════════════════════════════════════════
-   
-   Created by: V4D3R UI System Generator
-   Version: 1.0.0
-   Last Updated: December 2025
-   
-   ═══════════════════════════════════════════════════════════════════════════════ */
-
-
-
-
-   
-   ═══════════════════════════════════════════════════════════
-   SNIPPET NAME: JetBrains Mono Light Font
-   Purpose: Apply JetBrains Mono Light globally across Obsidian
-   Author: Pur3v4d3r
-   Date: 2025-12-14
-   Obsidian Version: 1.5+
-   Dependencies: None
-   Installation: Place in .obsidian/snippets/ and enable in Settings
-   
-   Description:
-   Sets JetBrains Mono Light (weight: 300) as the default font
-   for all editor, preview, and interface text. Provides clean,
-   consistent typography throughout the application.
-   
-   Font Installation:
-   Download JetBrains Mono from: https://www.jetbrains.com/lp/mono/
-   Install all font weights for best results.
-  ═══════════════════════════════════════════════════════════
-  */
-  
-  /* [SECTION 1: Global Font Variables] */
-  body {
-    --font-text: "JetBrains Mono", monospace !important;
-    --font-monospace: "JetBrains Mono", monospace !important;
-    --font-interface: "JetBrains Mono", monospace !important;
-    --font-text-weight: 100 !important; /* ← Changed to 100 */
-  }
-  
-  body, .theme-dark body {
-    font-family: "JetBrains Mono", "Courier New", monospace !important;
-    font-weight: 100 !important; /* ← Changed to 100 */
-  }
-  
-  /* [SECTION 2: Editor Text] */
-  .markdown-source-view,
-  .markdown-source-view.mod-cm6,
-  .cm-editor,
-  .cm-content,
-  .cm-scroller,
-  .cm-line {
-    font-family: "JetBrains Mono", "Courier New", monospace !important;
-    font-weight: 100 !important; /* ← Changed to 100 */
-  }
-  
-  /* [SECTION 3: Preview/Reading Mode] */
-  .markdown-preview-view,
-  .markdown-rendered {
-    font-family: "JetBrains Mono", "Courier New", monospace !important;
-    font-weight: 100 !important; /* ← Changed to 100 */
-  }
-  
-  /* [SECTION 4: Interface Elements] */
-  .workspace,
-  .nav-file-title,
-  .nav-folder-title,
-  .search-result-file-title,
-  .workspace-tab-header-inner,
-  .titlebar,
-  .status-bar {
-    font-family: "JetBrains Mono", "Courier New", monospace !important;
-    font-weight: 100 !important; /* ← Changed to 100 */
-  }
-  
-  /* [SECTION 5: Code Blocks] */
-  code,
-  pre,
-  .cm-inline-code,
-  .markdown-preview-view code {
-    font-family: "JetBrains Mono", "Courier New", monospace !important;
-    font-weight: 100 !important; /* ✓ Already 100 */
-  }
-  
-  /* [SECTION 6: Headings Override] */
-  h1, h2, h3, h4, h5, h6,
-  .cm-header-1, .cm-header-2, .cm-header-3,
-  .cm-header-4, .cm-header-5, .cm-header-6 {
-    font-family: "JetBrains Mono", "Courier New", monospace !important;
-    font-weight: 100 !important; /* ← Changed to 100 */
-  }
-  
-  /* [SECTION 7: Accessibility - Reduced Motion] */
-  @media (prefers-reduced-motion: reduce) {
-    * {
-      animation: none !important;
-      transition: none !important;
-    }
-  }
-  .popover.hover-popover,
-  .menu,
-  .suggestion-container {
-    box-shadow: 0 0px 48px rgba(103, 98, 95, 0.3) !important;
-  }

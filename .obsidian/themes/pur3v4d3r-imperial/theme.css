@@ -289,8 +289,7 @@
 .markdown-rendered table thead {
   background: color(srgb red green rgb(20, 20, 20))
 
-
-}  background: linear-gradient(135deg, var(--theme-red-vivid) 0%, var(--theme-red-dim) 100%);
+}
 
 .markdown-rendered table th {
   color: var(--theme-black-base);

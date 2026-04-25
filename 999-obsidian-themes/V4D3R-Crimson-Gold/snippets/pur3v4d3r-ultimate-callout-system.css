@@ -47,14 +47,8 @@
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
 ║  TOGGLE INSTRUCTIONS:                                                        ║
-║  To disable a section, wrap it with: /* DISABLED and */ /* END DISABLED     ║
-║  To disable a single callout, add /* before and */ after its block          ║
-║                                                                              ║
-║  WCAG 2.1 AA COMPLIANCE:                                                     ║
-║  All color combinations have been validated for 4.5:1+ contrast ratio        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
+║  To disable a section, wrap it with: /* DISABLED and */ /* END DISABLED      ║
+║  To disable a single callout, add /* before and */ after its block          
 
 
 /* ═══════════════════════════════════════════════════════════════════════════

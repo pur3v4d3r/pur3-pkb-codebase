@@ -264,6 +264,17 @@
   --v4d3r-shadow-mint-sm: 0 0 8px var(--v4d3r-mint-alpha-30);
   --v4d3r-shadow-mint-md: 0 0 12px var(--v4d3r-mint-alpha-50);
   --v4d3r-shadow-mint-lg: 0 0 16px var(--v4d3r-mint-alpha-50);
+  /* Composite halo for floating surfaces (modals, palette, popovers) */
+  --v4d3r-shadow-mint-xl:
+    0 0 0 1px var(--v4d3r-mint-alpha-30),
+    0 8px 32px var(--v4d3r-black-alpha-70),
+    0 0 32px var(--v4d3r-mint-alpha-30),
+    0 0 64px var(--v4d3r-mint-alpha-15);
+  /* Lighter halo for frequently-opened surfaces (menus, suggestions) */
+  --v4d3r-shadow-mint-halo:
+    0 0 0 1px var(--v4d3r-mint-alpha-30),
+    0 4px 16px var(--v4d3r-black-alpha-70),
+    0 0 18px var(--v4d3r-mint-alpha-30);
   
   /* ─── Z-INDEX LAYERS ─── */
   --v4d3r-z-base: 0;                 /* Base layer */
@@ -491,6 +502,7 @@ CONTRAST VALIDATION RESULTS:
    Bold text gets Imperial Gold color
    ══════════════════════════════════════════════════════════ */
 .theme-dark .markdown-preview-view strong,
+.theme-dark .markdown-reading-view strong,
 .theme-dark .markdown-source-view.mod-cm6 .cm-strong,
 .cm-strong {
   color: rgb(27, 243, 128) !important;  
@@ -498,6 +510,7 @@ CONTRAST VALIDATION RESULTS:
   font-weight: 600 !important;                /* Semi-bold weight */
 }
 .theme-dark .markdown-preview-view em,
+.theme-dark .markdown-reading-view em,
 .theme-dark .markdown-source-view.mod-cm6 .cm-em,
 .cm-em {
   font-style: italic !important;
@@ -823,6 +836,109 @@ button.mod-warning {
    PART 8: MODALS, POPOVERS & NOTICES [MODALS]
    Modal dialogs, suggestion containers, notification styling
    ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- SECTION: Red-Glow Floating Surfaces --- */
+/* Applies the V4D3R Mint glow language to every floating overlay:
+   modals, command palette / quick switcher, autocomplete suggestions,
+   right-click menus, hover popovers, and toast notices. */
+
+.modal,
+.modal-container .modal,
+.prompt {
+  background-color: var(--v4d3r-bg-primary) !important;
+  border: 1px solid var(--v4d3r-mint-alpha-30) !important;
+  border-radius: var(--v4d3r-radius-lg) !important;
+  box-shadow: var(--v4d3r-shadow-mint-xl) !important;
+}
+
+.suggestion-container,
+.menu,
+.popover.hover-popover,
+.tooltip,
+.tippy-box {
+  background-color: var(--v4d3r-bg-secondary) !important;
+  border: 1px solid var(--v4d3r-mint-alpha-30) !important;
+  border-radius: var(--v4d3r-radius-md) !important;
+  box-shadow: var(--v4d3r-shadow-mint-halo) !important;
+  overflow: visible !important; /* prevent the outer glow from being clipped */
+}
+
+/* Right-click editor context menu — stronger XL halo for emphasis */
+.menu.mod-context,
+.menu {
+  box-shadow: var(--v4d3r-shadow-mint-xl) !important;
+  border-color: var(--v4d3r-mint-alpha-50) !important;
+}
+
+/* Ensure inner scroll wrapper doesn't paint over the glow */
+.menu .menu-scroll,
+.menu-scroll {
+  background-color: transparent !important;
+  overflow: visible !important;
+}
+
+.notice {
+  background-color: var(--v4d3r-bg-primary) !important;
+  border: 1px solid var(--v4d3r-mint-alpha-30) !important;
+  border-radius: var(--v4d3r-radius-md) !important;
+  box-shadow: var(--v4d3r-shadow-mint-halo) !important;
+  color: var(--v4d3r-grey-light) !important;
+}
+
+/* Highlight the active row in command palette / quick switcher / autocomplete */
+.suggestion-item.is-selected,
+.prompt-results .suggestion-item.is-selected,
+.suggestion-container .is-selected {
+  background-color: var(--v4d3r-mint-alpha-15) !important;
+  box-shadow: inset 3px 0 0 var(--v4d3r-mint-primary),
+              0 0 12px var(--v4d3r-mint-alpha-30) !important;
+  color: var(--v4d3r-mint-bright) !important;
+}
+
+/* Modal backdrop dimmer with a faint red wash */
+.modal-bg,
+.modal-container .modal-bg {
+  background-color: var(--v4d3r-black-alpha-70) !important;
+}
+
+/* TRANSLUCENCY: only active when user enables "Translucent window" in Obsidian.
+   Provides a frosted-glass effect over the desktop. Solid fallback above. */
+body.is-translucent .modal,
+body.is-translucent .prompt,
+body.is-translucent .suggestion-container,
+body.is-translucent .menu,
+body.is-translucent .popover.hover-popover,
+body.is-translucent .notice {
+  background-color: rgba(18, 18, 18, 0.72) !important;
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  backdrop-filter: blur(14px) saturate(140%);
+}
+
+/* Subtle entrance animation (respects reduced-motion preference) */
+@media (prefers-reduced-motion: no-preference) {
+  .modal,
+  .prompt,
+  .suggestion-container,
+  .menu,
+  .popover.hover-popover,
+  .notice {
+    animation: v4d3r-glow-in 180ms var(--v4d3r-ease-default, ease-out);
+  }
+}
+
+@keyframes v4d3r-glow-in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px) scale(0.98);
+    box-shadow: 0 0 0 1px var(--v4d3r-mint-alpha-15);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* --- SECTION END: Red-Glow Floating Surfaces --- */
 
    .menu-item {
      color: var(--v4d3r-grey-light) !important;
@@ -2920,22 +3036,6 @@ h6 {
    }
    
    
-   /* ═══════════════════════════════════════════════════════════════════════════
-      SECTION 12: ACCESSIBILITY — Reduced Motion
-      ═══════════════════════════════════════════════════════════════════════════ */
-   
-   @media (prefers-reduced-motion: reduce) {
-     .callout {
-       animation: none !important;
-       transition: none !important;
-     }
-     .callout::before {
-       animation: none !important;
-     }
-     .callout-icon {
-       transition: none !important;
-     }
-   }
    
    /* ── Print: Strip effects ───────────────────────────────────────────────── */
    @media print {
@@ -2966,35 +3066,633 @@ h6 {
    
 
 
+/* === END OF FILE: theme.css === */
+
+
+
+
+:root {
+  /* The "Apple" feel: Fast start, smooth brake */
+  --anim-motion: cubic-bezier(0.25, 0.1, 0.25, 1.0); 
+  
+  /* The "Mechanical" feel: Instant snap */
+  --anim-snap: cubic-bezier(0.0, 0.0, 0.2, 1); 
+  
+  /* Keep durations SHORT. 300ms is too slow for UI. */
+  --anim-duration-fast: 150ms;
+}
+
+
+
+/* === DARK THEME VARIANT (DEFAULT) === */
+.theme-dark {
+  /* ─── PRIMARY RED PALETTE ─── */
+  --v4d3r-purple-primary: #726d6a !important;
+  --v4d3r-purple-secondary: #847e7a !important;
+  --v4d3r-purple-accent: #928c89 !important;
+  --v4d3r-purple-muted: #45413f !important;
+  --v4d3r-purple-dark: #2d2b2a !important;
+  
+  /* ─── BLACK SPECTRUM ─── */
+  --v4d3r-black-pure: #000000 !important;
+  --v4d3r-black-deep: #0a0a0a !important;
+  --v4d3r-black-rich: #121212 !important;
+  --v4d3r-black-soft: #1a1a1a !important;
+  --v4d3r-black-elevated: #1e1e1e !important;
+  
+  /* ─── GREY SPECTRUM ─── */
+  --v4d3r-grey-darkest: #252525 !important;
+  --v4d3r-grey-dark: #2d2d2d !important;
+  --v4d3r-grey-mid: #3d3d3d !important;
+  --v4d3r-grey-light: #555555 !important;
+  --v4d3r-grey-lighter: #707070 !important;
+  --v4d3r-grey-lightest: #9a9a9a !important;
+  
+  /* ─── SEMANTIC COLORS ─── */
+  --v4d3r-bg-primary: var(--v4d3r-black-rich) !important;
+  --v4d3r-bg-secondary: var(--v4d3r-black-soft) !important;
+  --v4d3r-bg-tertiary: var(--v4d3r-grey-darkest) !important;
+  --v4d3r-bg-hover: var(--v4d3r-grey-dark) !important;
+  --v4d3r-bg-active: var(--v4d3r-purple-dark) !important;
+  
+  --v4d3r-text-primary: #e8e8e8 !important;
+  --v4d3r-text-secondary: #b0b0b0 !important;
+  --v4d3r-text-muted: #707070 !important;
+  --v4d3r-text-accent: var(--v4d3r-purple-accent) !important;
+  
+  --v4d3r-border-default: var(--v4d3r-grey-dark) !important;
+  --v4d3r-border-subtle: var(--v4d3r-grey-darkest) !important;
+  --v4d3r-border-accent: var(--v4d3r-purple-muted) !important;
+  
+  /* ─── INTERACTIVE STATES ─── */
+  --v4d3r-interactive-normal: var(--v4d3r-grey-dark) !important;
+  --v4d3r-interactive-hover: var(--v4d3r-grey-mid) !important;
+  --v4d3r-interactive-active: var(--v4d3r-purple-dark) !important;
+  --v4d3r-interactive-accent: var(--v4d3r-purple-primary) !important;
+  
+  /* ─── SHADOWS & GLOWS ─── */
+  --v4d3r-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.5) !important;
+  --v4d3r-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.6) !important;
+  --v4d3r-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.7) !important;
+  --v4d3r-glow-red: 0 0 10px rgba(114, 109, 106, 0.3) !important;
+  --v4d3r-glow-red-intense: 0 0 20px rgba(114, 109, 106, 0.5) !important;
+}
+
+/*┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 1.2 ANIMATION & TRANSITION VARIABLES                                         │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+:root {
+  /* ─── TIMING ─── */
+  --v4d3r-transition-fast: 100ms !important;
+  --v4d3r-transition-normal: 200ms !important;
+  --v4d3r-transition-slow: 300ms !important;
+  --v4d3r-transition-slower: 500ms !important;
+  
+  /* ─── EASING ─── */
+  --v4d3r-ease-default: ease-in-out !important;
+  --v4d3r-ease-smooth: cubic-bezier(0.4, 0, 0.2, 1) !important;
+  --v4d3r-ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55) !important;
+  --v4d3r-ease-snap: cubic-bezier(0.25, 1, 0.5, 1) !important;
+  
+  /* ─── SPACING ─── */
+  --v4d3r-spacing-xs: 4px !important;
+  --v4d3r-spacing-sm: 8px !important;
+  --v4d3r-spacing-md: 12px !important;
+  --v4d3r-spacing-lg: 16px !important;
+  --v4d3r-spacing-xl: 24px !important;
+  
+  /* ─── BORDER RADIUS ─── */
+  --v4d3r-radius-sm: 4px !important;
+  --v4d3r-radius-md: 6px !important;
+  --v4d3r-radius-lg: 8px !important;
+  --v4d3r-radius-xl: 12px !important;
+  --v4d3r-radius-full: 9999px !important;
+}
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 1.3 OBSIDIAN VARIABLE OVERRIDES                                              │
+   │ Toggle: Comment out to use default Obsidian colors                           │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Core Color Overrides --- */
+  .theme-dark {
+  /* ─── OBSIDIAN ACCENT COLOR ─── */
+  --accent-h: 352 !important;
+  --accent-s: 81% !important;
+  --accent-l: 55% !important;
+  
+  /* ─── BACKGROUND OVERRIDES ─── */
+  --background-primary: var(--v4d3r-bg-primary) !important;
+  --background-primary-alt: var(--v4d3r-bg-secondary) !important;
+  --background-secondary: var(--v4d3r-bg-secondary) !important;
+  --background-secondary-alt: var(--v4d3r-bg-tertiary) !important;
+  --background-modifier-hover: var(--v4d3r-bg-hover) !important;
+  --background-modifier-active-hover: var(--v4d3r-bg-active) !important;
+  --background-modifier-border: var(--v4d3r-border-default) !important;
+  --background-modifier-border-hover: var(--v4d3r-border-accent) !important;
+  --background-modifier-border-focus: var(--v4d3r-purple-primary) !important;
+  
+  /* ─── TEXT OVERRIDES ─── */
+  --text-normal: var(--v4d3r-text-primary) !important;
+  --text-muted: var(--v4d3r-text-secondary) !important;
+  --text-faint: var(--v4d3r-text-muted) !important;
+  --text-accent: var(--v4d3r-purple-accent) !important;
+  --text-accent-hover: var(--v4d3r-purple-secondary) !important;
+  
+  /* ─── INTERACTIVE OVERRIDES ─── */
+  --interactive-normal: var(--v4d3r-interactive-normal) !important;
+  --interactive-hover: var(--v4d3r-interactive-hover) !important;
+  --interactive-accent: var(--v4d3r-purple-primary) !important;
+  --interactive-accent-hover: var(--v4d3r-purple-secondary) !important;
+}
+/* --- END TOGGLE: Core Color Overrides --- */
+
+
+/* ══════════════════════════════════════════════════════════
+   TEXT FORMATTING - Bold and Italic
+   Bold text gets Imperial Gold color
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view strong,
+.theme-dark .markdown-source-view.mod-cm6 .cm-strong
+.theme-dark .markdown-preview-view strong
+.theme-dark .markdown-reading-view.mod-cm6 .cm-strong,
+.theme-dark .markdown-source-view.mod-cm6 .cm-strong {
+  color: rgb(27, 243, 128) !important;    /* Bright red for bold text */
+  text-shadow:
+    0 0 5px rgba(27, 243, 128, 0.50),
+    0 0 12px rgba(27, 243, 128, 0.25) !important;
+}
+
+.theme-dark .markdown-preview-view em,
+.cm-strong {
+  color: rgb(27, 243, 128) !important;  
+  text-transform: uppercase !important;  /* Capitalize bold text */
+  font-weight: 600 !important;                /* Semi-bold weight */
+}
+.theme-dark .markdown-preview-view em,
+.theme-dark .markdown-source-view.mod-cm6 .cm-em,
+.cm-em {
+  font-style: italic !important;
+  color: rgb(27, 243, 128) !important;    /* Bright text for italics */
+}
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.13 CARD LAYOUT MODE                                                        │
+   │ Toggle: Card-style layout for workspace leaves                               │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Card Layout Mode --- */
+
+.workspace-leaf {
+  background-color: var(--v4d3r-bg-secondary) !important;
+  border: 1px solid var(--v4d3r-border-subtle) !important;
+  border-radius: var(--v4d3r-radius-lg) !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2) !important;
+  margin: 16px !important;
+  overflow: hidden !important;
+  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -webkit-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -moz-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -ms-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -o-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+}
+
+.workspace-leaf:hover {
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3) !important;
+  transform: translateY(-4px) !important;
+  -webkit-transform: translateY(-4px) !important;
+  -moz-transform: translateY(-4px) !important;
+  -ms-transform: translateY(-4px) !important;
+  -o-transform: translateY(-4px) !important;
+}
+.workspace-leaf .workspace-leaf-content {
+  border-radius: var(--v4d3r-radius-lg) !important;
+  overflow: hidden !important;
+}
+/* --- END TOGGLE: Card Layout Mode --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.11 SETTINGS PANEL STYLING                                                  │
+   │ Toggle: Enhanced settings modal appearance                                   │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Settings Panel Styling --- */
+.modal.mod-settings {
+  background-color: var(--v4d3r-bg-primary) !important;}
+
+.vertical-tab-header {
+  background-color: var(--v4d3r-bg-secondary) !important;  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.vertical-tab-nav-item {
+  color: red !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.vertical-tab-nav-item:hover {
+  color: var(--v4d3r-text-primary) !important;  background-color: var(--v4d3r-bg-hover) !important;}
+
+.vertical-tab-nav-item.is-active {
+  color: rgb(255, 255, 255) !important;  background-color: var(--v4d3r-bg-active) !important;  border-left: 3px solid var(--v4d3r-purple-primary) !important;}
+
+.setting-item {
+  border-top: 1px solid rgba(27, 243, 128, 0.234) !important;  padding: 16px 0 !important;}
+
+.setting-item-name {
+  color: rgba(255, 255, 255, 0.73) !important;  font-weight: 500 !important;}
+
+.setting-item-description {
+  color: rgba(27, 243, 128, 0.234) !important;}
+/* --- END TOGGLE: Settings Panel Styling --- */
+
+
+
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.8 BUTTON STYLING                                                           │
+   │ Toggle: Enhanced button appearance                                           │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Button Styling --- */
+button {
+  background-color: var(--v4d3r-bg-tertiary) !important;  color: var(--v4d3r-text-secondary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-md) !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+button:hover {
+  background-color: rgba(27, 243, 128, 0.234) !important;  color: var(--v4d3r-text-primary) !important;  border-color: var(--v4d3r-grey-base) !important;}
+
+button.mod-cta {
+  background-color: var(--v4d3r-purple-primary) !important;  color: #ffffff !important;  border-color: var(--v4d3r-purple-primary) !important;}
+
+button.mod-cta:hover {
+  background-color: rgba(27, 243, 128, 0.234) !important;  border-color: var(--v4d3r-purple-accent) !important;}
+
+button.mod-warning {
+  background-color: transparent !important;  color: rgba(27, 243, 128, 0.234) !important;  border-color: var(--v4d3r-purple-primary) !important;}
+
+button.mod-warning:hover {
+  background-color: var(--v4d3r-purple-muted) !important;}
+/* --- END TOGGLE: Button Styling --- */
+
+
 /* ═══════════════════════════════════════════════════════════════════════════
-   PART 21: ACCESSIBILITY & REDUCED MOTION [A11Y]
-   Respects user motion preferences and print media
+   PART 22: V4D3R ENHANCEMENTS v1.2.0 [ENHANCEMENTS]
+   - Status bar: red top accent + hover glow
+   - Ribbon: icon hover glow + scale
+   - Workspace: active leaf crimson frame
+   - Blockquotes: code-block aesthetic (gradient + red border + drop shadow)
    ═══════════════════════════════════════════════════════════════════════════ */
 
-@media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
-    animation-duration: 0.001ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.001ms !important;
+/* --- SECTION: Status Bar Red Accent (overrides legacy purple) --- */
+.status-bar {
+  border-top: 2px solid var(--v4d3r-mint-primary) !important;
+  box-shadow: 0 -4px 16px var(--v4d3r-mint-alpha-15) !important;
+}
+
+.status-bar-item {
+  padding: 0 8px !important;
+  border-radius: var(--v4d3r-radius-sm) !important;
+  transition:
+    color var(--v4d3r-transition-fast) var(--v4d3r-ease-default),
+    background-color var(--v4d3r-transition-fast) var(--v4d3r-ease-default),
+    text-shadow var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
+}
+
+.status-bar-item:hover {
+  color: var(--v4d3r-mint-bright) !important;
+  background-color: var(--v4d3r-mint-alpha-10) !important;
+  text-shadow: 0 0 6px var(--v4d3r-mint-alpha-50) !important;
+}
+
+.status-bar-item.plugin-word-count {
+  color: var(--v4d3r-mint-bright) !important;
+}
+.status-bar-item.plugin-word-count:hover {
+  color: var(--v4d3r-mint-primary) !important;
+  text-shadow: 0 0 8px var(--v4d3r-mint-alpha-50) !important;
+}
+/* --- SECTION END: Status Bar Red Accent --- */
+
+
+/* --- SECTION: Ribbon Icon Hover Glow + Scale --- */
+.side-dock-ribbon-action,
+.workspace-ribbon .side-dock-ribbon-action {
+  border-radius: var(--v4d3r-radius-md) !important;
+  transition:
+    transform 160ms var(--v4d3r-ease-default),
+    color 160ms var(--v4d3r-ease-default),
+    background-color 160ms var(--v4d3r-ease-default),
+    box-shadow 160ms var(--v4d3r-ease-default) !important;
+}
+
+.side-dock-ribbon-action:hover,
+.workspace-ribbon .side-dock-ribbon-action:hover {
+  color: var(--v4d3r-mint-bright) !important;
+  background-color: var(--v4d3r-mint-alpha-15) !important;
+  box-shadow:
+    0 0 0 1px var(--v4d3r-mint-alpha-30),
+    0 0 14px var(--v4d3r-mint-alpha-30) !important;
+  transform: scale(1.12) !important;
+}
+
+.side-dock-ribbon-action.is-active,
+.workspace-ribbon .side-dock-ribbon-action.is-active {
+  color: var(--v4d3r-mint-primary) !important;
+  background-color: var(--v4d3r-mint-alpha-15) !important;
+  box-shadow: inset 2px 0 0 var(--v4d3r-mint-primary) !important;
+}
+/* --- SECTION END: Ribbon Icon Hover Glow --- */
+
+
+/* --- SECTION: Active Leaf Frame (split-view focus indicator) --- */
+/* Inset 1px crimson border on the focused workspace leaf so you always
+   know where keyboard focus is in multi-pane layouts. Uses inset box-shadow
+   to avoid shifting layout (a real `border` would). */
+.workspace-leaf.mod-active .workspace-leaf-content {
+  box-shadow:
+    inset 0 0 0 1px var(--v4d3r-mint-alpha-50),
+    inset 0 0 12px var(--v4d3r-mint-alpha-15) !important;
+  transition: box-shadow 200ms var(--v4d3r-ease-default) !important;
+}
+
+/* Slightly stronger accent on the active tab header */
+.workspace-tab-header.is-active::after {
+  content: "";
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  bottom: 0;
+  height: 2px;
+  background: var(--v4d3r-mint-primary);
+  box-shadow: 0 0 8px var(--v4d3r-mint-alpha-50);
+  border-radius: 2px;
+  pointer-events: none;
+}
+/* --- SECTION END: Active Leaf Frame --- */
+
+
+/* --- SECTION: Active Tab Underline + Glow (Enhanced) --- */
+/* Tabs need position:relative for the absolutely-positioned ::after pseudo-element. */
+.workspace-tab-header {
+  position: relative !important;
+  transition:
+    color 160ms var(--v4d3r-ease-default),
+    background-color 160ms var(--v4d3r-ease-default) !important;
+}
+
+/* Hover state on inactive tabs — faint preview of the red accent */
+.workspace-tab-header:not(.is-active):hover::after {
+  content: "";
+  position: absolute;
+  left: 12px;
+  right: 12px;
+  bottom: 0;
+  height: 2px;
+  background: var(--v4d3r-mint-alpha-30);
+  border-radius: 2px;
+  pointer-events: none;
+}
+.workspace-tab-header:not(.is-active):hover {
+  color: var(--v4d3r-mint-bright) !important;
+  background-color: var(--v4d3r-mint-alpha-10) !important;
+}
+
+/* Active tab — brighter underline + halo + animated pulse */
+.workspace-tab-header.is-active {
+  color: var(--v4d3r-mint-bright) !important;
+  background-color: var(--v4d3r-mint-alpha-10) !important;
+}
+
+.workspace-tab-header.is-active::after {
+  content: "";
+  position: absolute;
+  left: 6px;
+  right: 6px;
+  bottom: 0;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    var(--v4d3r-mint-alpha-50) 0%,
+    var(--v4d3r-mint-primary) 50%,
+    var(--v4d3r-mint-alpha-50) 100%
+  );
+  box-shadow:
+    0 0 8px var(--v4d3r-mint-primary),
+    0 0 16px var(--v4d3r-mint-alpha-50),
+    0 2px 12px var(--v4d3r-mint-alpha-30);
+  border-radius: 2px 2px 0 0;
+  pointer-events: none;
+}
+
+/* Subtle pulse on the active tab underline (respects reduced-motion) */
+@media (prefers-reduced-motion: no-preference) {
+  .workspace-tab-header.is-active::after {
+    animation: v4d3r-tab-pulse 2.4s ease-in-out infinite;
   }
 }
 
-@media print {
-  .callout {
-    box-shadow: none !important;
-    border: 1px solid #666 !important;
-    border-left: 4px solid #333 !important;
-    background: #fff !important;
+@keyframes v4d3r-tab-pulse {
+  0%, 100% {
+    opacity: 1;
+    box-shadow:
+      0 0 8px var(--v4d3r-mint-primary),
+      0 0 16px var(--v4d3r-mint-alpha-50),
+      0 2px 12px var(--v4d3r-mint-alpha-30);
   }
-  .callout-title {
-    background: #f0f0f0 !important;
-    color: #333 !important;
-  }
-  .callout-content {
-    color: #000 !important;
+  50% {
+    opacity: 0.85;
+    box-shadow:
+      0 0 4px var(--v4d3r-mint-primary),
+      0 0 8px var(--v4d3r-mint-alpha-30);
   }
 }
+
+/* Active tab title gets a faint text glow */
+.workspace-tab-header.is-active .workspace-tab-header-inner-title {
+  text-shadow: 0 0 6px var(--v4d3r-mint-alpha-50) !important;
+}
+/* --- SECTION END: Active Tab Underline --- */
+
+
+/* --- SECTION: Cursor & Selection Glow --- */
+/* The blinking text caret — the "|" that follows your typing.
+   CM6 renders it as a div with a left border, so we override border-left-color.
+   `caret-color` covers regular inputs/textareas/contenteditable. */
+
+.theme-dark,
+.theme-dark .cm-editor,
+.theme-dark input,
+.theme-dark textarea,
+.theme-dark [contenteditable="true"] {
+  caret-color: var(--v4d3r-mint-primary) !important;
+}
+
+/* CodeMirror 6 caret (the actual editor caret div) */
+.theme-dark .cm-editor .cm-cursor,
+.theme-dark .cm-editor .cm-cursor-primary,
+.theme-dark .cm-editor .cm-cursorLayer .cm-cursor,
+.theme-dark .cm-editor.cm-focused .cm-cursor {
+  border-left: 2px solid var(--v4d3r-mint-primary) !important;
+  border-left-color: var(--v4d3r-mint-primary) !important;
+  background-color: var(--v4d3r-mint-primary) !important; /* fallback if caret renders as bg */
+  box-shadow:
+    0 0 4px var(--v4d3r-mint-primary),
+    0 0 10px var(--v4d3r-mint-alpha-50) !important;
+}
+
+/* Make the caret blink feel alive (CM6 native blink animates opacity) */
+.theme-dark .cm-editor.cm-focused .cm-cursorLayer {
+  animation: v4d3r-cursor-pulse 1.05s ease-in-out infinite !important;
+}
+
+@keyframes v4d3r-cursor-pulse {
+  0%, 100% {
+    filter: drop-shadow(0 0 2px var(--v4d3r-mint-primary));
+  }
+  50% {
+    filter: drop-shadow(0 0 6px var(--v4d3r-mint-primary))
+            drop-shadow(0 0 12px var(--v4d3r-mint-alpha-50));
+  }
+}
+
+/* Selection — red wash with a subtle outer glow.
+   Cover BOTH the editor (CM6) AND general document/textareas/inputs. */
+.theme-dark .cm-editor .cm-selectionBackground,
+.theme-dark .cm-editor.cm-focused .cm-selectionBackground,
+.theme-dark .cm-editor ::selection,
+.theme-dark ::selection,
+.theme-dark .markdown-preview-view ::selection,
+.theme-dark input::selection,
+.theme-dark textarea::selection {
+  background-color: var(--v4d3r-mint-alpha-30) !important;
+  color: var(--v4d3r-grey-lightest) !important;
+  text-shadow: 0 0 6px var(--v4d3r-mint-alpha-50) !important;
+}
+
+/* Selection on the active line gets an additional faint outline */
+.theme-dark .cm-editor .cm-line ::selection,
+.theme-dark .cm-editor .cm-activeLine ::selection {
+  background-color: var(--v4d3r-mint-alpha-30) !important;
+}
+
+/* Active line highlight — very faint red wash so the cursor's line glows softly */
+.theme-dark .cm-editor.cm-focused .cm-activeLine {
+  background-color: var(--v4d3r-mint-alpha-10) !important;
+  box-shadow: inset 2px 0 0 var(--v4d3r-mint-alpha-30) !important;
+}
+
+/* Active line gutter number — brighter red */
+.theme-dark .cm-editor .cm-activeLineGutter {
+  background-color: var(--v4d3r-mint-alpha-15) !important;
+  color: var(--v4d3r-mint-bright) !important;
+}
+
+/* Reduce-motion fallback — kill the cursor pulse */
+@media (prefers-reduced-motion: reduce) {
+  .theme-dark .cm-editor.cm-focused .cm-cursorLayer {
+    animation: none !important;
+  }
+  .workspace-tab-header.is-active::after {
+    animation: none !important;
+  }
+}
+/* --- SECTION END: Cursor & Selection Glow --- */
+
+
+/* --- SECTION: Blockquote Code-Block Aesthetic --- */
+/* Mirrors PART 14 code-block styling: gradient background, red border,
+   rounded corners, red drop-shadow. Applies to both Reading View and
+   Live Preview (CodeMirror 6). */
+
+/* READING / PREVIEW MODE */
+.theme-dark .markdown-preview-view blockquote,
+.theme-dark .markdown-rendered blockquote {
+  position: relative !important;
+  background: linear-gradient(135deg, rgba(32, 223, 83, 0.08) 0%, #0A0A0A 100%) !important;
+  border: 2px solid var(--v4d3r-mint-alpha-30) !important;
+  border-left: 4px solid var(--v4d3r-mint-primary) !important;
+  border-radius: 12px !important;
+  box-shadow:
+    6px 6px 14px var(--v4d3r-mint-alpha-20),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04) !important;
+  padding: 16px 20px !important;
+  margin: 16px 0 !important;
+  color: var(--v4d3r-grey-light) !important;
+  font-style: normal !important;
+}
+
+/* Decorative open-quote glyph (top-right, mirrors language label position) */
+.theme-dark .markdown-preview-view blockquote::before,
+.theme-dark .markdown-rendered blockquote::before {
+  content: "" !important;
+  position: absolute !important;
+  top: 4px !important;
+  right: 14px !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 32px !important;
+  line-height: 1 !important;
+  color: var(--v4d3r-mint-alpha-30) !important;
+  pointer-events: none !important;
+  z-index: 1 !important;
+}
+
+/* Nested blockquotes — slightly tinted, same shape */
+.theme-dark .markdown-preview-view blockquote blockquote,
+.theme-dark .markdown-rendered blockquote blockquote {
+  background: linear-gradient(135deg, rgba(32, 223, 83, 0.12) 0%, #111 100%) !important;
+  margin: 12px 0 !important;
+  box-shadow:
+    4px 4px 10px var(--v4d3r-mint-alpha-15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.03) !important;
+}
+
+/* LIVE PREVIEW (CM6) - HyperMD quote lines */
+.theme-dark .markdown-source-view.mod-cm6 .HyperMD-quote {
+  background: linear-gradient(135deg, rgba(32, 223, 83, 0.08) 0%, #0A0A0A 100%) !important;
+  padding: 0 20px !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: inset 4px 0 0 var(--v4d3r-mint-primary) !important;
+  color: var(--v4d3r-grey-light) !important;
+}
+
+/* First quote line — top rounded corners + top border */
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-quote-1:not(.HyperMD-quote-1 + .HyperMD-quote-1),
+.theme-dark .markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-quote-begin {
+  border-radius: 12px 12px 0 0 !important;
+  padding-top: 14px !important;
+  margin-top: 8px !important;
+  box-shadow:
+    inset 4px 0 0 var(--v4d3r-mint-primary),
+    inset 0 2px 0 var(--v4d3r-mint-alpha-30),
+    0 4px 18px var(--v4d3r-mint-alpha-15) !important;
+}
+
+/* Last quote line — bottom rounded corners + bottom border */
+.theme-dark .markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-quote-end,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-quote-1:has(+ .cm-line:not(.HyperMD-quote)) {
+  border-radius: 0 0 12px 12px !important;
+  padding-bottom: 14px !important;
+  margin-bottom: 8px !important;
+  box-shadow:
+    inset 4px 0 0 var(--v4d3r-mint-primary),
+    inset 0 -2px 0 var(--v4d3r-mint-alpha-30),
+    0 8px 18px var(--v4d3r-mint-alpha-15) !important;
+}
+
+/* Don't double-style blockquotes that live INSIDE callouts (callouts have their own design) */
+.callout blockquote,
+.callout-content blockquote {
+  background: transparent !important;
+  border: none !important;
+  border-left: 3px solid var(--v4d3r-mint-alpha-50) !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 8px 14px !important;
+}
+.callout blockquote::before,
+.callout-content blockquote::before {
+  content: none !important;
+}
+/* --- SECTION END: Blockquote Code-Block Aesthetic --- */
+
 
 /* === END OF FILE: theme.css === */
+
+
