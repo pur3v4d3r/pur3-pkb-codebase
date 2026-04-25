@@ -5,12 +5,12 @@ These are the note names of my permanent note collection use these as the Wiki-l
 
 # 📁 v6-llm-elaborated
 
-**Generated:** 2026-04-25T07:35:45.638Z
-**Generation time:** 6 ms
-**Items processed:** 623
+**Generated:** 2026-04-25T08:39:59.477Z
+**Generation time:** 5 ms
+**Items processed:** 669
 
 ## Directory tree
-```
+```markdown
 📁 v6-llm-elaborated
 ──────────────────────────────────────────────────
 ├── 2x2-framework.md
@@ -64,6 +64,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── autonomy-structure-dialectic.md
 ├── autonomy-support.md
 ├── autonomy-supportive-structure.md
+├── autonomy-supportive-teaching.md
 ├── autonomy.md
 ├── availability-heuristic.md
 ├── backward-design.md
@@ -72,7 +73,9 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── basic-psychological-needs-theory.md
 ├── basic-psychological-needs.md
 ├── bayesian-reasoning.md
+├── behaviorism.md
 ├── biologically-primary-knowledge.md
+├── blocked-practice.md
 ├── bloom-s-taxonomy.md
 ├── boredom-and-learning.md
 ├── bounded-rationality.md
@@ -82,6 +85,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── calibration.md
 ├── cargo-cult-coding.md
 ├── case-based-learning.md
+├── case-based-reasoning.md
 ├── causal-attribution-in-motivation.md
 ├── causal-attribution.md
 ├── causality-orientations-theory.md
@@ -93,6 +97,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── code-editor.md
 ├── cognitive-apprenticeship.md
 ├── cognitive-architecture.md
+├── cognitive-behavioral-therapy.md
 ├── cognitive-bias.md
 ├── cognitive-chunking.md
 ├── cognitive-disequilibrium.md
@@ -111,6 +116,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── cognitive-reappraisal.md
 ├── cognitive-safety-net.md
 ├── cognitive-scaffolding.md
+├── cognitive-science.md
 ├── cognitive-strategy-use.md
 ├── cognitive-theories-of-learning.md
 ├── cognitive-theory-of-multimedia-learning.md
@@ -147,6 +153,8 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── crystallized-intelligence.md
 ├── cue-encoding-bottleneck.md
 ├── cue-utilization-framework.md
+├── cued-recall.md
+├── cultural-psychology.md
 ├── curiosity.md
 ├── curriculum-design.md
 ├── cyclical-model-of-self-regulated-learning.md
@@ -190,6 +198,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── elaborative-rehearsal.md
 ├── element-interactivity.md
 ├── element.md
+├── elements-of-thought.md
 ├── embodied-cognition.md
 ├── emotional-intelligence.md
 ├── emotional-regulation.md
@@ -203,6 +212,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── episodic-memory.md
 ├── epistemic-curiosity.md
 ├── epistemic-vigilance.md
+├── epistemology.md
 ├── eudaimonia.md
 ├── evergreen-notes.md
 ├── exception.md
@@ -212,6 +222,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── expertise-development.md
 ├── expertise-reversal-effect.md
 ├── explanatory-style-attributional-style.md
+├── explanatory-style.md
 ├── extended-mind-thesis.md
 ├── external-regulation.md
 ├── externalized-cognitive-architecture.md
@@ -223,6 +234,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── false-memory.md
 ├── far-transfer.md
 ├── feedback-design-for-autonomy-and-mastery.md
+├── feeling-of-knowing-fok.md
 ├── feeling-of-knowing.md
 ├── first-principles-thinking.md
 ├── fix-up-strategy.md
@@ -236,10 +248,12 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── forethought-as-regulatory-front-loading.md
 ├── forethought-phase.md
 ├── forgetting-curve.md
+├── formal-logic.md
 ├── formative-assessment.md
 ├── four-component-instructional-design-4c-id.md
 ├── four-phase-model-of-interest-development.md
 ├── framing-effect.md
+├── free-recall.md
 ├── functional-psychology.md
 ├── functional-significance.md
 ├── fundamental-attribution-error-correspondence-bias.md
@@ -254,11 +268,13 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── goal-contents-theory.md
 ├── goal-difficulty.md
 ├── goal-intention.md
+├── goal-orientation-framework.md
 ├── goal-orientation.md
 ├── goal-setting-theory.md
 ├── goal-setting.md
 ├── goal-specificity.md
 ├── growth-mindset.md
+├── guided-discovery.md
 ├── habit-formation.md
 ├── hetogogy.md
 ├── heuristics-and-biases.md
@@ -276,6 +292,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── implementation-intention.md
 ├── implementation-intentions.md
 ├── implicit-theories-of-intelligence.md
+├── implicit-theory-of-intelligence.md
 ├── inattentional-blindness.md
 ├── incremental-theory-of-intelligence.md
 ├── individual-interest.md
@@ -301,13 +318,16 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── intrinsic-cognitive-load.md
 ├── intrinsic-motivation.md
 ├── intrinsic-vs-extrinsic-goal-contents.md
+├── intrinsic-vs-extrinsic-motivation.md
 ├── introjected-regulation.md
 ├── isolated-elements-effect.md
+├── judgment-of-learning-jol.md
 ├── judgment-of-learning.md
 ├── knowledge-compilation.md
 ├── knowledge-distillation.md
 ├── knowledge-graph-topology.md
 ├── knowledge-graph.md
+├── knowledge-management.md
 ├── knowledge-of-cognition.md
 ├── knowledge-schemas.md
 ├── knowledge-transfer.md
@@ -325,11 +345,13 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── learning-theories.md
 ├── levels-of-processing.md
 ├── lifelong-learning.md
+├── lifespan-development.md
 ├── linking-your-thinking.md
 ├── literature-notes.md
 ├── locus-of-causality.md
 ├── locus-of-control.md
 ├── logical-fallacies.md
+├── logical-reasoning.md
 ├── long-term-memory.md
 ├── long-term-potentiation.md
 ├── long-term-working-memory.md
@@ -340,9 +362,11 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── mastery-avoidance-goal.md
 ├── mastery-climate-vs-performance-climate.md
 ├── mastery-climate.md
+├── mastery-experience.md
 ├── mastery-goal-orientation.md
 ├── mastery-learning.md
 ├── mastery-vs-performance-goal-orientation.md
+├── mastery-vs-performance-goals.md
 ├── meaningful-learning-theory.md
 ├── memory-consolidation.md
 ├── memory-systems.md
@@ -376,6 +400,8 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── monitoring-control-loop.md
 ├── monitoring-phase.md
 ├── motivated-reasoning.md
+├── motivated-strategies-for-learning-questionnaire-mslq.md
+├── motivation-science.md
 ├── motivational-ecology.md
 ├── motivational-interviewing.md
 ├── motivational-psychology.md
@@ -389,6 +415,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── need-support.md
 ├── need-thwarting.md
 ├── neuroplasticity.md
+├── non-classical-logic.md
 ├── non-declarative-memory.md
 ├── non-recurrent-constituent-skill.md
 ├── note-making-vs-note-taking.md
@@ -422,8 +449,10 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── philosophy-of-science.md
 ├── phonological-loop.md
 ├── physiological-and-affective-states.md
+├── pintrich-s-4x4-matrix.md
 ├── pintrich-s-framework-of-self-regulated-learning.md
 ├── planning-fallacy.md
+├── possible-selves.md
 ├── power-law-of-practice.md
 ├── pragmatic-maxim.md
 ├── pragmatism.md
@@ -435,6 +464,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── principles-of-learning.md
 ├── prior-knowledge-activation.md
 ├── prior-knowledge.md
+├── proactive-interference.md
 ├── probabilistic-thinking.md
 ├── problem-based-learning.md
 ├── procedural-information.md
@@ -458,6 +488,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── reaction-and-reflection-phase.md
 ├── reasoning-under-uncertainty.md
 ├── reciprocal-teaching.md
+├── recognition-memory.md
 ├── reconsolidation.md
 ├── reconstructive-memory.md
 ├── recurrent-constituent-skill.md
@@ -478,8 +509,10 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── retrieval-practice-as-the-most-potent-single-strategy.md
 ├── retrieval-practice.md
 ├── retrieval-structure.md
+├── retroactive-interference.md
 ├── retrospective-confidence-judgment.md
 ├── rubicon.md
+├── savings-paradigm.md
 ├── scaffolded-fading.md
 ├── scaffolding-fading-progression.md
 ├── scaffolding-sovereignty-progression.md
@@ -503,11 +536,13 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── self-directed-learning.md
 ├── self-efficacy-theory.md
 ├── self-efficacy.md
+├── self-esteem.md
 ├── self-explanation.md
 ├── self-handicapping.md
 ├── self-reflection-phase.md
 ├── self-regulated-learning.md
 ├── self-regulation.md
+├── self-serving-bias.md
 ├── self-worth-theory.md
 ├── semantic-memory.md
 ├── semantic-priming.md
@@ -517,6 +552,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── situation-model.md
 ├── situational-interest.md
 ├── sleep-and-memory-consolidation.md
+├── social-cognition.md
 ├── social-cognitive-theory.md
 ├── social-comparison-theory.md
 ├── socratic-method.md
@@ -529,10 +565,15 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── split-attention-effect.md
 ├── spreading-activation.md
 ├── stability-dimension.md
+├── stages-of-change-model.md
 ├── standard-of-coherence.md
+├── state-dependent-memory.md
 ├── strategic-automaticity.md
+├── strategy-instruction.md
 ├── stress-and-learning.md
+├── structure-mapping-theory.md
 ├── summarization-strategy.md
+├── summarization.md
 ├── sunk-cost-fallacy.md
 ├── supportive-information.md
 ├── sustained-attention.md
@@ -542,10 +583,12 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── systems-thinking.md
 ├── tacit-knowledge.md
 ├── target-framework.md
+├── task-analysis.md
 ├── task-class.md
 ├── task-value.md
 ├── template.md
 ├── temporal-motivation-theory.md
+├── test-anxiety.md
 ├── testing-effect.md
 ├── the-2-2-achievement-goal-framework.md
 ├── the-active-organism-hypothesis.md
@@ -603,6 +646,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── the-two-stage-architecture-of-attribution-retraining.md
 ├── the-universality-thesis.md
 ├── the-worked-example-effect.md
+├── theory-of-planned-behavior.md
 ├── thought-experiment.md
 ├── tip-of-the-tongue-phenomenon.md
 ├── traceback.md
@@ -612,6 +656,7 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── transformative-learning.md
 ├── translation-window-original-to-this-report.md
 ├── triadic-reciprocal-determinism.md
+├── truth-tables.md
 ├── type-1-processing.md
 ├── type-2-processing.md
 ├── utility-value.md
@@ -634,5 +679,8 @@ These are the note names of my permanent note collection use these as the Wiki-l
 ├── working-memory-in-the-clt-framework.md
 ├── working-memory-updating.md
 ├── working-memory.md
+├── zettelkasten-workflow.md
 ├── zettelkasten.md
-└── zone-of-proximal-development.md```
+└── zone-of-proximal-development.md
+
+```

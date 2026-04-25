@@ -1,0 +1,421 @@
+---
+title: "Review Queries Library"
+aliases:
+  - "DQL Snippets"
+  - "Review Query Cookbook"
+  - "Dataview Cookbook"
+type: reference
+status: evergreen
+tags:
+  - reference
+  - dataview-query
+  - dataviewjs
+  - pkb-meta
+  - review-workflow
+created: 2026-04-25
+updated: 2026-04-25
+related:
+  - "[[Review Dashboard]]"
+  - "[[Review System README]]"
+---
+
+# 📚 Review Queries Library
+
+> [!abstract] Why this exists
+> The [[Review Dashboard]] is the day-to-day console. **This** is the cookbook — every snippet here is **standalone**, depends on no helper module, and can be copy-pasted into any note (a domain MOC, a project page, an inbox file). When you want a focused review filter inside a specific context, grab the right block from below.
+
+> [!helpful-tip] How to choose between DQL and DataviewJS
+> - **DQL** (` ```dataview `) — short, declarative, fast to write. Use for simple filters and tables.
+> - **DataviewJS** (` ```dataviewjs `) — full JavaScript. Use whenever you need computed fields, custom math, multi-field aggregation, or conditional badges.
+
+---
+
+## Section 1 — Pure DQL Queries
+
+### 1.1 — Notes Not Reviewed in Last 30 Days
+
+Uses the `last-reviewed` field if present, falls back to `file.mtime`.
+
+```dataview
+TABLE WITHOUT ID
+    file.link                                         AS "Note",
+    default(dateformat(date("last-reviewed"), "yyyy-MM-dd"),
+            dateformat(file.mtime, "yyyy-MM-dd"))     AS "Last touched",
+    default(status, "—")                              AS "Status",
+    default(domain, "—")                              AS "Domain"
+FROM "PermanentNotes"
+WHERE type = "permanent-note"
+  AND (
+        (date("last-reviewed") AND date("last-reviewed") < date(today) - dur(30 days))
+     OR (!date("last-reviewed") AND file.mtime           < date(today) - dur(30 days))
+  )
+SORT file.mtime ASC
+```
+
+### 1.2 — Tagged `#needs-review`
+
+```dataview
+TABLE WITHOUT ID
+    file.link                            AS "Note",
+    default(status, "—")                 AS "Status",
+    default(importance, "—")             AS "Importance",
+    dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit"
+FROM #needs-review
+WHERE type = "permanent-note"
+SORT file.mtime ASC
+```
+
+### 1.3 — High-Centrality Notes (≥ N inlinks)
+
+Pure DQL only sees Obsidian's resolved inlinks (it can't aggregate the 12 frontmatter relational fields in a single expression — see DataviewJS section 2.3 for true density).
+
+```dataview
+TABLE WITHOUT ID
+    file.link              AS "Note",
+    length(file.inlinks)   AS "Inlinks",
+    length(file.outlinks)  AS "Outlinks",
+    default(status, "—")   AS "Status"
+FROM "PermanentNotes"
+WHERE type = "permanent-note"
+  AND length(file.inlinks) >= 5
+SORT length(file.inlinks) DESC
+```
+
+### 1.4 — By Status (Evergreen, Enriched, Budding, etc.)
+
+```dataview
+TABLE WITHOUT ID
+    file.link                            AS "Note",
+    default(domain, "—")                 AS "Domain",
+    default(confidence, "—")             AS "Confidence",
+    dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit"
+FROM "PermanentNotes"
+WHERE type = "permanent-note" AND status = "evergreen"
+SORT file.mtime ASC
+```
+
+Replace `"evergreen"` with `"enriched"`, `"budding"`, `"seedling"`, `"wilting"`, `"archived"` as needed.
+
+### 1.5 — Stale Content (Not Updated in 6+ Months)
+
+```dataview
+TABLE WITHOUT ID
+    file.link                            AS "Note",
+    dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit",
+    default(confidence, "—")             AS "Confidence",
+    default(status, "—")                 AS "Status"
+FROM "PermanentNotes"
+WHERE type = "permanent-note"
+  AND file.mtime < date(today) - dur(180 days)
+SORT file.mtime ASC
+```
+
+### 1.6 — Notes in a Specific Domain
+
+```dataview
+TABLE WITHOUT ID
+    file.link                            AS "Note",
+    default(status, "—")                 AS "Status",
+    default(confidence, "—")             AS "Confidence",
+    default(importance, "—")             AS "Importance"
+FROM "PermanentNotes"
+WHERE type = "permanent-note" AND domain = "cognitive-psychology"
+SORT importance DESC, file.mtime ASC
+```
+
+### 1.7 — Notes Linked to a Specific Concept
+
+```dataview
+TABLE WITHOUT ID
+    file.link            AS "Note",
+    default(status, "—") AS "Status",
+    default(domain, "—") AS "Domain"
+FROM [[working-memory]]
+WHERE type = "permanent-note"
+SORT file.mtime DESC
+```
+
+### 1.8 — Notes That Specialize / Contrast With Another
+
+```dataview
+TABLE WITHOUT ID
+    file.link                  AS "Note",
+    contains(specializes, [[ecological-psychology]]) AS "Specializes target?",
+    contains(contrasts-with, [[Behaviorism]])        AS "Contrasts target?"
+FROM "PermanentNotes"
+WHERE type = "permanent-note"
+  AND (contains(specializes, [[ecological-psychology]])
+       OR contains(contrasts-with, [[Behaviorism]]))
+```
+
+### 1.9 — Combined: Overdue AND High-Importance
+
+```dataview
+TABLE WITHOUT ID
+    file.link                            AS "Note",
+    importance                           AS "Importance",
+    dateformat(file.mtime, "yyyy-MM-dd") AS "Last edit"
+FROM "PermanentNotes"
+WHERE type = "permanent-note"
+  AND (importance = "high" OR importance = "critical")
+  AND file.mtime < date(today) - dur(60 days)
+SORT importance DESC, file.mtime ASC
+```
+
+### 1.10 — Never Reviewed (No `last-reviewed` Field)
+
+```dataview
+TABLE WITHOUT ID
+    file.link                            AS "Note",
+    dateformat(file.ctime, "yyyy-MM-dd") AS "Created",
+    default(status, "—")                 AS "Status"
+FROM "PermanentNotes"
+WHERE type = "permanent-note" AND !date("last-reviewed")
+SORT file.ctime ASC
+```
+
+---
+
+## Section 2 — DataviewJS Snippets (Standalone)
+
+These blocks are **fully self-contained** — no helper module required. Each one is around 30-60 lines and can be pasted into any note.
+
+### 2.1 — Days Since Review (with fallback chain)
+
+```dataviewjs
+// Days-since-review with last-reviewed → updated → mtime fallback
+const daysSinceReview = (p) => {
+    const lr = p["last-reviewed"];
+    const date = lr ? dv.date(lr) : (p.updated ? dv.date(p.updated) : p.file.mtime);
+    if (!date || !date.isValid) return Infinity;
+    return Math.floor(dv.date("now").diff(date, "days").days);
+};
+
+const ageBadge = (d) => {
+    if (d === Infinity) return "—";
+    if (d < 7)   return `🟢 ${d}d`;
+    if (d < 30)  return `🟡 ${d}d`;
+    if (d < 90)  return `🟠 ${d}d`;
+    if (d < 180) return `🔴 ${d}d`;
+    return `🟣 ${d}d`;
+};
+
+const rows = dv.pages('"PermanentNotes"')
+    .where(p => p.type === "permanent-note")
+    .map(p => [p.file.link, ageBadge(daysSinceReview(p)), daysSinceReview(p)])
+    .sort(r => r[2], "desc")
+    .slice(0, 20);
+
+dv.table(["Note", "Age", "Days"], rows.map(r => [r[0], r[1], r[2] === Infinity ? "—" : r[2]]));
+```
+
+### 2.2 — Overdue Based on `review-frequency`
+
+```dataviewjs
+const FREQ_DAYS = {
+    daily: 1, weekly: 7, biweekly: 14, monthly: 30,
+    quarterly: 90, biannual: 180, yearly: 365, annual: 365
+};
+
+const lastTouched = (p) => {
+    const lr = p["last-reviewed"];
+    return lr ? dv.date(lr) : (p.updated ? dv.date(p.updated) : p.file.mtime);
+};
+
+const daysSince = (d) => {
+    if (!d || !d.isValid) return Infinity;
+    return Math.floor(dv.date("now").diff(d, "days").days);
+};
+
+const overdue = dv.pages('"PermanentNotes"')
+    .where(p => p.type === "permanent-note")
+    .map(p => {
+        const window = FREQ_DAYS[(p["review-frequency"] || "quarterly").toLowerCase()] ?? 90;
+        const days   = daysSince(lastTouched(p));
+        return { link: p.file.link, days, window, ratio: days / window };
+    })
+    .where(r => r.ratio > 1)
+    .sort(r => r.ratio, "desc");
+
+dv.table(
+    ["Note", "Days since", "Window (d)", "Overdue ×"],
+    overdue.slice(0, 30).map(r => [
+        r.link, r.days, r.window,
+        r.ratio === Infinity ? "🆕 never" : `${r.ratio.toFixed(1)}×`
+    ])
+);
+```
+
+### 2.3 — True Relational Density (all 12 fields + inlinks)
+
+```dataviewjs
+const RELATIONAL_FIELDS = [
+    "related", "prerequisites", "specializes", "broader", "see-also",
+    "contrasts-with", "contradicts", "applies-to", "formalizes",
+    "instance-of", "supports", "refines"
+];
+
+const isLiveLink = (v) =>
+    v && typeof v === "object" && v.path && v.path.trim().length > 0;
+
+const outboundCount = (p) => {
+    let n = 0;
+    for (const f of RELATIONAL_FIELDS) {
+        const v = p[f];
+        if (!v) continue;
+        const arr = Array.isArray(v) ? v : [v];
+        n += arr.filter(isLiveLink).length;
+    }
+    return n;
+};
+
+const ranked = dv.pages('"PermanentNotes"')
+    .where(p => p.type === "permanent-note")
+    .map(p => {
+        const inb = (p.file.inlinks?.length) || 0;
+        const out = outboundCount(p);
+        return { link: p.file.link, inb, out, total: inb + out };
+    })
+    .sort(r => r.total, "desc")
+    .slice(0, 20);
+
+dv.table(
+    ["Note", "Inlinks", "Outbound (frontmatter)", "Total density"],
+    ranked.map(r => [r.link, r.inb, r.out, r.total])
+);
+```
+
+### 2.4 — Notes Linked to a Set of Key Concepts
+
+```dataviewjs
+// ─── Edit this list ─────────────────────────────────────────────────────
+const KEY_CONCEPTS = ["working-memory", "schema-theory", "self-directed-learning"];
+// ────────────────────────────────────────────────────────────────────────
+
+const RELATIONAL_FIELDS = [
+    "related", "prerequisites", "specializes", "broader", "see-also",
+    "contrasts-with", "contradicts", "applies-to", "formalizes",
+    "instance-of", "supports", "refines"
+];
+
+const matches = (p) => {
+    for (const f of RELATIONAL_FIELDS) {
+        const v = p[f];
+        if (!v) continue;
+        const arr = Array.isArray(v) ? v : [v];
+        for (const link of arr) {
+            if (link && link.path) {
+                const name = link.path.split("/").pop().replace(/\.md$/, "");
+                if (KEY_CONCEPTS.includes(name)) return true;
+            }
+        }
+    }
+    return false;
+};
+
+const focused = dv.pages('"PermanentNotes"')
+    .where(p => p.type === "permanent-note" && matches(p))
+    .sort(p => p.file.name);
+
+dv.paragraph(`**${focused.length}** notes linked to: ${KEY_CONCEPTS.map(c => `\`${c}\``).join(", ")}`);
+dv.table(
+    ["Note", "Status", "Domain"],
+    focused.map(p => [p.file.link, p.status || "—", p.domain || "—"])
+);
+```
+
+### 2.5 — Confidence × Staleness Matrix
+
+A health-check view: high-confidence-but-stale notes are most concerning (they're being trusted but haven't been verified recently).
+
+```dataviewjs
+const daysSince = (p) => Math.floor(dv.date("now").diff(p.file.mtime, "days").days);
+
+const matrix = { high: { fresh: 0, aging: 0, stale: 0 },
+                 medium: { fresh: 0, aging: 0, stale: 0 },
+                 low: { fresh: 0, aging: 0, stale: 0 } };
+
+for (const p of dv.pages('"PermanentNotes"').where(p => p.type === "permanent-note")) {
+    const conf = (p.confidence || "medium").toLowerCase();
+    const d    = daysSince(p);
+    const age  = d < 30 ? "fresh" : d < 180 ? "aging" : "stale";
+    if (matrix[conf]) matrix[conf][age] += 1;
+}
+
+dv.table(
+    ["Confidence ↓ / Age →", "Fresh (<30d)", "Aging (30-180d)", "Stale (>180d)"],
+    [
+        ["high",   matrix.high.fresh,   matrix.high.aging,   `⚠️ ${matrix.high.stale}`],
+        ["medium", matrix.medium.fresh, matrix.medium.aging, matrix.medium.stale],
+        ["low",    matrix.low.fresh,    matrix.low.aging,    matrix.low.stale]
+    ]
+);
+```
+
+### 2.6 — Group by Domain with Counts
+
+```dataviewjs
+const grouped = {};
+for (const p of dv.pages('"PermanentNotes"').where(p => p.type === "permanent-note")) {
+    const d = p.domain || "(unspecified)";
+    if (!grouped[d]) grouped[d] = [];
+    grouped[d].push(p);
+}
+
+const sorted = Object.entries(grouped).sort((a, b) => b[1].length - a[1].length);
+
+for (const [domain, pages] of sorted) {
+    dv.header(4, `${domain} (${pages.length})`);
+    dv.list(pages.sort(p => p.file.name).map(p => p.file.link));
+}
+```
+
+### 2.7 — Quick "Review This One" Logger Helper
+
+Add this at the top of any focused review session note. It surfaces the single highest-priority note matching a filter:
+
+```dataviewjs
+const FREQ_DAYS = { daily: 1, weekly: 7, monthly: 30, quarterly: 90, yearly: 365 };
+const lastTouched = (p) => p["last-reviewed"] ? dv.date(p["last-reviewed"])
+                         : p.updated         ? dv.date(p.updated)
+                                             : p.file.mtime;
+const daysSince = (d) => Math.floor(dv.date("now").diff(d, "days").days);
+
+const candidate = dv.pages('"PermanentNotes"')
+    .where(p => p.type === "permanent-note")
+    .map(p => {
+        const window = FREQ_DAYS[(p["review-frequency"] || "quarterly").toLowerCase()] ?? 90;
+        return { p, ratio: daysSince(lastTouched(p)) / window };
+    })
+    .sort(r => r.ratio, "desc")
+    .first();
+
+if (candidate) {
+    dv.header(3, "🎯 Next note to review");
+    dv.paragraph(`**${candidate.p.file.link}** — ${candidate.ratio.toFixed(1)}× overdue`);
+    dv.paragraph(`*Domain: ${candidate.p.domain || "—"} • Status: ${candidate.p.status || "—"}*`);
+}
+```
+
+---
+
+## Section 3 — Folder Filter Note
+
+Every snippet above filters with `dv.pages('"PermanentNotes"')` — adjust this string to your actual folder. Common alternatives:
+
+| Pattern                                        | Meaning                             |
+|------------------------------------------------|-------------------------------------|
+| `dv.pages('"PermanentNotes"')`                 | One specific folder                 |
+| `dv.pages('"Notes/Permanent"')`                | Nested folder path                  |
+| `dv.pages('#permanent-note')`                  | All tagged notes (any folder)       |
+| `dv.pages().where(p => p.type === "permanent-note")` | All notes with the type, vault-wide |
+| `dv.pages('"Notes" and -"Notes/Archive"')`     | Folder minus subfolder              |
+
+The DQL equivalent is `FROM "PermanentNotes"` or `FROM #permanent-note`.
+
+---
+
+## 🔗 Related
+
+- **[[Review Dashboard]]** — the live console that combines every snippet here into one view
+- **[[Review System README]]** — setup, schema migration, troubleshooting
