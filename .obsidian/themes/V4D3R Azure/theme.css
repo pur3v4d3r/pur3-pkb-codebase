@@ -158,6 +158,58 @@
   /* ─── HIGHLIGHTING ─── */
   --text-highlight-bg: var(--v4d3r-azure-alpha-20);            /* Highlight bg */
   --text-highlight-bg-active: var(--v4d3r-azure-alpha-30);     /* Active highlight */
+
+  /* ─── LINK COLORS (applies to Live Preview AND Reading Mode) ─── */
+  --link-color: var(--v4d3r-azure-primary);                    /* Internal [[wiki-links]] — deeper crimson pop */
+  --link-color-hover: var(--v4d3r-azure-bright);               /* Internal link hover — brighten on hover */
+  --link-external-color: var(--v4d3r-azure-primary);           /* External markdown links */
+  --link-external-color-hover: var(--v4d3r-azure-bright);      /* External link hover */
+  --link-unresolved-color: var(--v4d3r-azure-dark);            /* Unresolved [[ghost-links]] */
+  --link-unresolved-opacity: 0.85;                           /* Slight fade for ghosts */
+  --link-unresolved-decoration-style: dashed;
+  --link-unresolved-decoration-color: var(--v4d3r-azure-dark);
+  --link-weight: inherit;                                     /* Don't force bold */
+  --link-decoration: underline;                               /* Underline in reading mode */
+  --link-decoration-hover: underline;
+  --link-decoration-thickness: 1px;
+}
+
+/* ─── LINK COLOR ENFORCEMENT — Reading Mode + Live Preview parity ───────────
+   Obsidian's --link-color variable covers most surfaces, but some plugins
+   (e.g., Dataview rendered output, embedded markdown) override anchor color.
+   These rules guarantee the crimson palette wins in Reading Mode.
+   ─────────────────────────────────────────────────────────────────────────── */
+.markdown-reading-view a.internal-link,
+.markdown-preview-view a.internal-link,
+.markdown-rendered a.internal-link {
+  color: var(--link-color);
+  text-decoration: var(--link-decoration);
+  text-decoration-thickness: var(--link-decoration-thickness);
+}
+.markdown-reading-view a.internal-link:hover,
+.markdown-preview-view a.internal-link:hover,
+.markdown-rendered a.internal-link:hover {
+  color: var(--link-color-hover);
+}
+.markdown-reading-view a.external-link,
+.markdown-preview-view a.external-link,
+.markdown-rendered a.external-link {
+  color: var(--link-external-color);
+  text-decoration: var(--link-decoration);
+  text-decoration-thickness: var(--link-decoration-thickness);
+}
+.markdown-reading-view a.external-link:hover,
+.markdown-preview-view a.external-link:hover,
+.markdown-rendered a.external-link:hover {
+  color: var(--link-external-color-hover);
+}
+.markdown-reading-view a.internal-link.is-unresolved,
+.markdown-preview-view a.internal-link.is-unresolved,
+.markdown-rendered a.internal-link.is-unresolved {
+  color: var(--link-unresolved-color);
+  opacity: var(--link-unresolved-opacity);
+  text-decoration-style: var(--link-unresolved-decoration-style);
+  text-decoration-color: var(--link-unresolved-decoration-color);
 }
 
 /* ═══════════════════════════════════════════════════════════════════════════
