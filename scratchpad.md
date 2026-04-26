@@ -783,11 +783,11 @@ Critical Thinking✅
 Paul Elder Framework
 Blooms Taxonomy
 Attribution Theory
-Achievement Goal Theory
+Achievement Goal Theory✅
 Elaborative Interrogation
 Self Explanation Effect
 Generative Learning Theory✅
-Desirable Difficulties
+Desirable Difficulties✅
 Formative Assessment✅
 Implicit Theories of Intelligence✅
 Goal Mindset Theory✅
@@ -825,8 +825,7 @@ Encoding Specificity Principle
 Memory Systems
 Levels of Processing Theory
 Self Directed Learning
-Implicit Intentions
-Implementation Intentions
+Implementation Intentions✅
 Distributed Cognition
 Extended Mind Theory
 Situated Cognition
@@ -858,10 +857,11 @@ Intrinsic, Extraneous, and Germane Cognitive Load
 Retrieval Practice Effect
 The Spacing Effect
 Motivated Forgetting
-Inhibitory Control
+Inhibitory Control✅
 Cognitive Flexibility
 Goal Setting in SRL✅
-
+Cue Utilization in SRL
+Cue Utilization Theory
 
 
 
@@ -896,7 +896,6 @@ Cognitive Science and Personal Knowledge Management for Personal Growth and Self
 Generate a report on: [Socratic Questioning]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
-
 
 
 
