@@ -1,0 +1,37 @@
+concept: Ad Hominem
+domain: critical-thinking
+secondary_domains:
+- logic
+- argumentation
+aliases:
+- argumentum ad hominem
+- attack on the person
+broader:
+- informal-fallacy
+related:
+- genetic-fallacy
+- tu-quoque
+- principle-of-charity
+- argument-analysis
+prerequisites:
+- argument-analysis
+confidence: high
+callouts:
+- type: definition
+  title: Ad Hominem
+  body: An Ad Hominem fallacy occurs when a critic responds to an argument by attacking
+    a property or motive of the person making the argument rather than engaging with
+    the argument's content, treating an irrelevant feature of the speaker as if it
+    bore on the truth of the conclusion.
+- type: key-claim
+  title: Key claim about Ad Hominem
+  body: Ad Hominem reasoning is fallacious because the credibility, character, or
+    motives of an arguer are logically independent of whether their premises support
+    their conclusion; identifying a flawed messenger never substitutes for identifying
+    a flawed inference.
+- type: warning
+  title: Common pitfall regarding Ad Hominem
+  body: Ad Hominem is often misapplied to any negative statement about a person, but
+    pointing out that an arguer is biased, lying, or unqualified is not Ad Hominem
+    when their reliability is itself the relevant question — for instance in eyewitness
+    testimony or expert appeals.

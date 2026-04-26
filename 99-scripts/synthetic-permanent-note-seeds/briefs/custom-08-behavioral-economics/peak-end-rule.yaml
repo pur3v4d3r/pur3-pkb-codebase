@@ -1,0 +1,39 @@
+concept: Peak End Rule
+domain: behavioral-economics
+secondary_domains:
+- memory
+- hedonic-psychology
+aliases:
+- peak-end heuristic
+- Kahneman peak-end
+broader:
+- retrospective-evaluation
+related:
+- duration-neglect
+- affective-forecasting
+- hedonic-adaptation
+- experiencing-vs-remembering-self
+prerequisites:
+- hedonic-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Peak End Rule
+  body: The Peak End Rule is the empirical finding, established by Kahneman, Fredrickson,
+    and colleagues, that retrospective evaluations of an extended hedonic experience
+    are well predicted by the average of its most intense moment and its final moment,
+    with surprisingly little weight given to the experience's overall duration.
+- type: key-claim
+  title: Key claim about Peak End Rule
+  body: The Peak End Rule produces the counterintuitive prediction — confirmed in
+    the cold-pressor and colonoscopy studies — that adding a period of mild discomfort
+    to the end of an unpleasant experience can improve its remembered evaluation,
+    because the milder ending lowers the "end" anchor while the peak is unchanged
+    and duration is largely ignored.
+- type: warning
+  title: Common pitfall regarding Peak End Rule
+  body: The Peak End Rule applies to retrospective summaries used in future decisions,
+    not to the moment-by-moment experience itself; designing interventions around
+    the Peak End Rule risks improving memories at the cost of total experienced wellbeing,
+    raising a serious normative question about whether the experiencing self or the
+    remembering self should govern the design of services and treatments.

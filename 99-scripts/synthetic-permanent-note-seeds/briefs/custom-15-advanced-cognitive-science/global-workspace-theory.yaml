@@ -1,0 +1,44 @@
+concept: Global Workspace Theory
+domain: cognitive-science
+secondary_domains:
+- consciousness-studies
+- cognitive-neuroscience
+aliases:
+- GWT
+- Baars global workspace
+- Dehaene global neuronal workspace
+broader:
+- theories-of-consciousness
+related:
+- integrated-information-theory
+- attention
+- working-memory
+- neural-correlates-of-consciousness
+prerequisites:
+- consciousness-studies
+confidence: medium
+callouts:
+- type: definition
+  title: Global Workspace Theory
+  body: Global Workspace Theory, originally proposed by Bernard Baars and developed
+    neurally by Stanislas Dehaene as Global Neuronal Workspace Theory, models conscious
+    access as the broadcast of selected information from local specialist processors
+    to a brain-wide workspace, where it becomes available to working memory, report,
+    and flexible behavior.
+- type: key-claim
+  title: Key claim about Global Workspace Theory
+  body: Global Workspace Theory predicts a specific neural signature of conscious
+    access — the "ignition" of large-scale, late, recurrent activity in fronto-parietal
+    networks distinct from the early local processing of unconscious stimuli — and
+    substantial evidence from masking and attentional-blink paradigms supports a sharp
+    ignition threshold, providing one of the strongest empirical bridges between a
+    theoretical framework and the neural correlates of consciousness.
+- type: warning
+  title: Common pitfall regarding Global Workspace Theory
+  body: Global Workspace Theory is a theory of conscious access (what makes information
+    reportable and globally available) rather than of phenomenal experience (what
+    makes there be something it is like to undergo a state), and conflating the two
+    is the most persistent error in its reception; competing theories such as Integrated
+    Information Theory explicitly target phenomenal consciousness, and any apparent
+    direct competition between Global Workspace Theory and IIT first requires settling
+    which explanandum is in question.

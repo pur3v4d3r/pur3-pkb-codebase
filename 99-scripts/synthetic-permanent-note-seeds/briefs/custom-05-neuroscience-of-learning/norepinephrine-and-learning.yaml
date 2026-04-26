@@ -1,0 +1,39 @@
+concept: Norepinephrine and Learning
+domain: neuroscience-of-learning
+secondary_domains:
+- cognitive-neuroscience
+- memory-science
+- stress-physiology
+aliases:
+- noradrenergic system and learning
+- NE and learning
+broader:
+- neuromodulation-and-learning
+related:
+- acetylcholine-and-memory
+- amygdala-and-learning
+- emotional-memory-enhancement
+- locus-coeruleus
+prerequisites:
+- neurotransmission
+- neuromodulation-and-learning
+confidence: high
+callouts:
+- type: definition
+  title: Norepinephrine and Learning
+  body: Norepinephrine and Learning refers to the role of the noradrenergic system
+    — projecting from the locus coeruleus to the amygdala, hippocampus, and cortex
+    — in tagging arousing, surprising, or behaviorally significant events for enhanced
+    consolidation through phasic noradrenaline release at encoding.
+- type: key-claim
+  title: Key claim about Norepinephrine and Learning
+  body: 'Norepinephrine and Learning research shows an inverted-U relationship between
+    noradrenergic activation and memory performance: too little produces under-encoding,
+    too much produces over-consolidation of central detail at the expense of peripheral
+    context, the Yerkes-Dodson curve at the cellular level.'
+- type: warning
+  title: Common pitfall regarding Norepinephrine and Learning
+  body: Norepinephrine and Learning is often invoked to justify "high-arousal study"
+    interventions, but the inverted-U is steep and individual differences are large,
+    so generic "make studying exciting" advice can land learners on either side of
+    the optimum without principled calibration.

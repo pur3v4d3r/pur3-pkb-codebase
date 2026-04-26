@@ -1,0 +1,40 @@
+concept: Scope Insensitivity
+domain: behavioral-economics
+secondary_domains:
+- valuation
+- environmental-economics
+aliases:
+- scope neglect
+- embedding effect
+broader:
+- judgment-bias
+related:
+- contingent-valuation
+- identifiable-victim-effect
+- affect-heuristic
+- willingness-to-pay
+prerequisites:
+- valuation
+confidence: high
+callouts:
+- type: definition
+  title: Scope Insensitivity
+  body: Scope Insensitivity is the finding from contingent-valuation studies that
+    stated willingness to pay for a public good is largely insensitive to the magnitude
+    of the good provided — for example, comparable amounts are offered to save 2,000,
+    20,000, or 200,000 birds — undermining the assumption that elicited valuations
+    track underlying preferences over quantity.
+- type: key-claim
+  title: Key claim about Scope Insensitivity
+  body: 'Scope Insensitivity is best understood as a consequence of valuation-by-prototype:
+    respondents form an affective image of the prototypical scenario (a single oiled
+    bird) and price that image, so quantitative scope information never enters the
+    valuation, which is why Scope Insensitivity persists even when respondents are
+    explicitly given the larger numbers.'
+- type: warning
+  title: Common pitfall regarding Scope Insensitivity
+  body: Scope Insensitivity poses a foundational challenge to using contingent-valuation
+    surveys for cost-benefit analysis of public goods; ignoring the bias and aggregating
+    stated WTP across populations produces estimates that respond to question framing
+    rather than to the policy magnitudes they purport to measure, so policy applications
+    must explicitly address Scope Insensitivity rather than assume it away.

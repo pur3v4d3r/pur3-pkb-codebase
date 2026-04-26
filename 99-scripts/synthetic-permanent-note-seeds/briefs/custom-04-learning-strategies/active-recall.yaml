@@ -1,0 +1,37 @@
+concept: Active Recall
+domain: learning-science
+secondary_domains:
+- memory-science
+- study-strategy
+aliases:
+- retrieval-based study
+- self-testing
+broader:
+- retrieval-practice
+- testing-effect
+related:
+- feynman-technique
+- leitner-system
+- spaced-retrieval
+- desirable-difficulties
+prerequisites:
+- retrieval-practice
+- testing-effect
+confidence: high
+callouts:
+- type: definition
+  title: Active Recall
+  body: Active Recall is the study practice of producing target information from memory
+    in response to a cue — without consulting source material — as the principal mode
+    of study, rather than relying on rereading or highlighting that allow the source
+    to do the retrieval work.
+- type: key-claim
+  title: Key claim about Active Recall
+  body: Active Recall consistently outperforms passive review on long-term retention
+    because the act of retrieval itself reconsolidates the trace, even when retrieval
+    initially feels harder and produces lower in-session confidence than rereading.
+- type: warning
+  title: Common pitfall regarding Active Recall
+  body: Active Recall is often confused with re-exposure to questions; copying down
+    the answer after looking it up is not Active Recall, and learners frequently overestimate
+    how much retrieval their study actually involves because lookup feels like recall.

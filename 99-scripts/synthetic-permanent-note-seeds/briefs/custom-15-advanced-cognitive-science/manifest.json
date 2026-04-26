@@ -1,0 +1,60 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-15-advanced-cognitive-science",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-15-advanced-cognitive-science.md",
+    "notes": "Custom seeding batch 15: advanced cognitive-science frameworks spanning\ncomputational, dynamical, predictive-processing, and consciousness theories."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-15-advanced-cognitive-science",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-15-advanced-cognitive-science"
+  },
+  "counts": {
+    "parsed": 6,
+    "accepted": 6,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Active Inference",
+      "kebab": "active-inference",
+      "brief_path": "briefs/custom-15-advanced-cognitive-science/active-inference.yaml",
+      "expected_seed_filename": "active-inference-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Computational Theory of Mind",
+      "kebab": "computational-theory-of-mind",
+      "brief_path": "briefs/custom-15-advanced-cognitive-science/computational-theory-of-mind.yaml",
+      "expected_seed_filename": "computational-theory-of-mind-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Dynamic Systems Theory of Cognition",
+      "kebab": "dynamic-systems-theory-of-cognition",
+      "brief_path": "briefs/custom-15-advanced-cognitive-science/dynamic-systems-theory-of-cognition.yaml",
+      "expected_seed_filename": "dynamic-systems-theory-of-cognition-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Free Energy Principle",
+      "kebab": "free-energy-principle",
+      "brief_path": "briefs/custom-15-advanced-cognitive-science/free-energy-principle.yaml",
+      "expected_seed_filename": "free-energy-principle-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Global Workspace Theory",
+      "kebab": "global-workspace-theory",
+      "brief_path": "briefs/custom-15-advanced-cognitive-science/global-workspace-theory.yaml",
+      "expected_seed_filename": "global-workspace-theory-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Integrated Information Theory",
+      "kebab": "integrated-information-theory",
+      "brief_path": "briefs/custom-15-advanced-cognitive-science/integrated-information-theory.yaml",
+      "expected_seed_filename": "integrated-information-theory-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

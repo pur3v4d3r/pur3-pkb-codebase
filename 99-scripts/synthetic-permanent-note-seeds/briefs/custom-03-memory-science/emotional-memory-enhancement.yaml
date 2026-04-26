@@ -1,0 +1,36 @@
+concept: Emotional Memory Enhancement
+domain: memory-science
+secondary_domains:
+- cognitive-neuroscience
+- emotion
+aliases:
+- emotional enhancement of memory
+- EEM
+broader:
+- memory-consolidation
+related:
+- amygdala-and-learning
+- mood-congruent-memory
+- flashbulb-memory
+prerequisites:
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Emotional Memory Enhancement
+  body: Emotional Memory Enhancement is the empirical phenomenon in which events with
+    high emotional salience — positive or negative — are encoded more strongly and
+    retained longer than affectively neutral events, mediated by amygdala-driven modulation
+    of hippocampal consolidation.
+- type: key-claim
+  title: Key claim about Emotional Memory Enhancement
+  body: 'Emotional Memory Enhancement does not improve memory uniformly: it sharpens
+    central, emotionally relevant details (the "weapon focus" effect) while degrading
+    peripheral details, producing memories that feel vivid and accurate but are systematically
+    narrowed.'
+- type: warning
+  title: Common pitfall regarding Emotional Memory Enhancement
+  body: Emotional Memory Enhancement is often misread as evidence for the high reliability
+    of vivid memories, but the same neuromodulatory cascade that strengthens central
+    detail also increases susceptibility to post-event distortion, so subjective vividness
+    is not a credible cue to factual fidelity.

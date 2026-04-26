@@ -1,0 +1,34 @@
+concept: Method of Loci
+domain: memory-science
+secondary_domains:
+- learning-science
+- mnemonic-technique
+aliases:
+- memory palace
+- loci method
+broader:
+- mnemonic-technique
+related:
+- keyword-mnemonic-method
+- dual-coding
+- spatial-memory
+prerequisites:
+- spatial-memory
+- episodic-memory
+confidence: high
+callouts:
+- type: definition
+  title: Method of Loci
+  body: The Method of Loci is an ancient mnemonic technique in which items to be remembered
+    are placed at distinct locations along a well-known mental route, so that retrieval
+    consists of mentally walking the route and "picking up" the items in order.
+- type: key-claim
+  title: Key claim about Method of Loci
+  body: The Method of Loci works because it offloads sequential information onto pre-existing
+    spatial schemata, exploiting the brain's evolutionarily over-trained navigational
+    system to provide structured retrieval cues for arbitrary content.
+- type: warning
+  title: Common pitfall regarding Method of Loci
+  body: The Method of Loci is sometimes presented as a panacea for all memory problems,
+    but its benefits concentrate on serial-list recall and decline sharply for material
+    that must be retrieved in flexible, query-driven ways rather than as a fixed sequence.

@@ -37,9 +37,9 @@
 .theme-dark,
 .theme-light {
   /* ── Neon Red Palette ─────────────────────────────────────────────────── */
-  --nrs-red:            255, 171, 30;       /* Primary neon red              */
-  --nrs-red-dark:       180, 84, 20;       /* Darker red for links          */
-  --nrs-red-deep:       140, 44, 10;       /* Even deeper for hover states  */
+  --nrs-red:            183, 127, 0;       /* Primary neon red              */
+  --nrs-red-dark:       140, 80, 0;       /* Darker red for links          */
+  --nrs-red-deep:       114, 55, 0;       /* Even deeper for hover states  */
 
   /* ── Surface ──────────────────────────────────────────────────────────── */
   --nrs-bg:             0, 0, 0;           /* Pure black background         */
@@ -239,7 +239,7 @@
 
 
 /* ═══════════════════════════════════════════════════════════════════════════
-   SECTION 5: LINKS — Dark Crimson Gold + Dotted Underline
+   SECTION 5: LINKS — Dark Red + Dotted Underline
    Covers both wiki-links and external links in both reading & live preview
    ═══════════════════════════════════════════════════════════════════════════ */
 
@@ -474,24 +474,24 @@
   .callout {
     box-shadow: none !important;
     border: 1px solid #999 !important;
-    border-left: 4px solid #cc5300 !important;
+    border-left: 4px solid #975d00 !important;
     background: #fff !important;
     animation: none !important;
   }
   .callout-title-inner {
-    color: #cc5300 !important;
+    color: #975d00 !important;
     text-shadow: none !important;
   }
   .callout-content {
     color: #000 !important;
   }
   .callout-content a {
-    color: #992a00 !important;
+    color: #783e00 !important;
     text-decoration: underline !important;
   }
   .callout-content strong,
   .callout-content em {
-    color: #cc5300 !important;
+    color: #975d00 !important;
     text-shadow: none !important;
   }
 }

@@ -1,0 +1,38 @@
+concept: Conformity
+domain: social-psychology
+secondary_domains:
+- group-dynamics
+- influence
+aliases:
+- social conformity
+- majority influence
+broader:
+- social-influence
+related:
+- obedience-to-authority
+- groupthink
+- normative-influence
+- informational-influence
+prerequisites:
+- social-influence
+confidence: high
+callouts:
+- type: definition
+  title: Conformity
+  body: Conformity is the adjustment of an individual's beliefs, judgments, or behaviors
+    to align with those expressed by a real or imagined group, encompassing both surface-level
+    public compliance and deeper private acceptance of the group's position.
+- type: key-claim
+  title: Key claim about Conformity
+  body: Conformity is driven by two analytically distinct motives — informational
+    influence, in which the group is treated as evidence about an uncertain reality,
+    and normative influence, in which divergence is avoided to preserve social standing
+    — and Asch-style line-judgment paradigms isolate normative Conformity by holding
+    informational ambiguity near zero.
+- type: warning
+  title: Common pitfall regarding Conformity
+  body: Conformity effect sizes vary dramatically with cultural context, group composition,
+    and task ambiguity, and the iconic Asch findings are routinely overgeneralized;
+    replication work shows that even a single dissenting confederate collapses Conformity
+    rates, so the "75% conformed at least once" headline conceals a much more fragile
+    phenomenon.

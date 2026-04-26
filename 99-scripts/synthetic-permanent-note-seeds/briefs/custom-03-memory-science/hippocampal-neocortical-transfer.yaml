@@ -1,0 +1,37 @@
+concept: Hippocampal Neocortical Transfer
+domain: cognitive-neuroscience
+secondary_domains:
+- memory-science
+- neuroscience-of-learning
+aliases:
+- systems consolidation
+- complementary learning systems
+broader:
+- memory-consolidation
+related:
+- sleep-dependent-consolidation
+- schema-theory
+- declarative-memory
+prerequisites:
+- hippocampus
+- long-term-memory
+confidence: high
+callouts:
+- type: definition
+  title: Hippocampal Neocortical Transfer
+  body: Hippocampal Neocortical Transfer is the model of long-term memory consolidation
+    in which initially hippocampus-dependent episodic traces are gradually integrated
+    into distributed neocortical representations through repeated reactivation, especially
+    during sleep, eventually becoming retrievable without hippocampal mediation.
+- type: key-claim
+  title: Key claim about Hippocampal Neocortical Transfer
+  body: Hippocampal Neocortical Transfer explains why retrograde amnesia following
+    hippocampal damage typically follows a temporal gradient — recent memories are
+    lost while remote memories are spared — because remote memories have already been
+    transferred to networks the lesion does not affect.
+- type: warning
+  title: Common pitfall regarding Hippocampal Neocortical Transfer
+  body: Hippocampal Neocortical Transfer is easily caricatured as a one-way "upload"
+    from hippocampus to cortex; the modern view treats consolidation as continuous
+    re-encoding and re-integration, so a "consolidated" memory is not a fixed file
+    but a recurrently re-constructed representation.

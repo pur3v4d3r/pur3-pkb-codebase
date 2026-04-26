@@ -1,0 +1,37 @@
+concept: Appeal to Authority
+domain: critical-thinking
+secondary_domains:
+- logic
+- epistemology
+aliases:
+- argumentum ad verecundiam
+- argument from authority
+broader:
+- informal-fallacy
+related:
+- expert-testimony
+- ad-hominem
+- epistemic-autonomy
+- principle-of-charity
+prerequisites:
+- argument-analysis
+confidence: high
+callouts:
+- type: definition
+  title: Appeal to Authority
+  body: Appeal to Authority is the inferential pattern in which the truth of a claim
+    is supposed to follow from the fact that an authority asserts it; the move becomes
+    a fallacy when the cited authority is irrelevant, unreliable, or speaking outside
+    their domain of competence.
+- type: key-claim
+  title: Key claim about Appeal to Authority
+  body: Appeal to Authority is not fallacious in itself — non-experts must defer to
+    legitimate expertise to function — but becomes fallacious when the appeal substitutes
+    for the reasoning the authority would themselves use, transferring epistemic weight
+    without transferring epistemic justification.
+- type: warning
+  title: Common pitfall regarding Appeal to Authority
+  body: Treating every Appeal to Authority as illegitimate produces a corrosive scepticism
+    that confuses personal verification with epistemic warrant; the relevant test
+    is calibration of the authority to the question, not the bare fact that an authority
+    was cited.

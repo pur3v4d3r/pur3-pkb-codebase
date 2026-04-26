@@ -1,0 +1,72 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-01-logical-fallacies",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-01-logical-fallacies.md",
+    "notes": "Custom seeding batch 01: classical informal logical fallacies. Targets ghost\nlinks from existing argument-analysis and reasoning notes."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-01-logical-fallacies",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-01-logical-fallacies"
+  },
+  "counts": {
+    "parsed": 8,
+    "accepted": 8,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Ad Hominem",
+      "kebab": "ad-hominem",
+      "brief_path": "briefs/custom-01-logical-fallacies/ad-hominem.yaml",
+      "expected_seed_filename": "ad-hominem-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Appeal to Authority",
+      "kebab": "appeal-to-authority",
+      "brief_path": "briefs/custom-01-logical-fallacies/appeal-to-authority.yaml",
+      "expected_seed_filename": "appeal-to-authority-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Circular Reasoning",
+      "kebab": "circular-reasoning",
+      "brief_path": "briefs/custom-01-logical-fallacies/circular-reasoning.yaml",
+      "expected_seed_filename": "circular-reasoning-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Conjunction Fallacy",
+      "kebab": "conjunction-fallacy",
+      "brief_path": "briefs/custom-01-logical-fallacies/conjunction-fallacy.yaml",
+      "expected_seed_filename": "conjunction-fallacy-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "False Dichotomy",
+      "kebab": "false-dichotomy",
+      "brief_path": "briefs/custom-01-logical-fallacies/false-dichotomy.yaml",
+      "expected_seed_filename": "false-dichotomy-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Gamblers Fallacy",
+      "kebab": "gamblers-fallacy",
+      "brief_path": "briefs/custom-01-logical-fallacies/gamblers-fallacy.yaml",
+      "expected_seed_filename": "gamblers-fallacy-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Slippery Slope Fallacy",
+      "kebab": "slippery-slope-fallacy",
+      "brief_path": "briefs/custom-01-logical-fallacies/slippery-slope-fallacy.yaml",
+      "expected_seed_filename": "slippery-slope-fallacy-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Straw Man Fallacy",
+      "kebab": "straw-man-fallacy",
+      "brief_path": "briefs/custom-01-logical-fallacies/straw-man-fallacy.yaml",
+      "expected_seed_filename": "straw-man-fallacy-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

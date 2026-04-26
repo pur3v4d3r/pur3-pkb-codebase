@@ -1,0 +1,41 @@
+concept: Active Inference
+domain: cognitive-science
+secondary_domains:
+- computational-neuroscience
+- predictive-processing
+aliases:
+- Friston active inference
+- action-as-inference
+broader:
+- predictive-processing
+related:
+- free-energy-principle
+- predictive-coding
+- bayesian-brain
+- embodied-cognition
+prerequisites:
+- free-energy-principle
+- predictive-processing
+confidence: medium
+callouts:
+- type: definition
+  title: Active Inference
+  body: 'Active Inference is a corollary of the Free Energy Principle developed by
+    Karl Friston in which action and perception are unified under a single imperative:
+    the organism minimizes long-term variational free energy by either updating its
+    internal generative model to match sensory input (perception) or by acting on
+    the world to make sensory input match the model (action).'
+- type: key-claim
+  title: Key claim about Active Inference
+  body: 'Active Inference''s most striking theoretical move is to dissolve the distinction
+    between control and inference: motor commands are reframed as proprioceptive predictions
+    whose prediction errors are minimized by the spinal reflex arc moving the limb,
+    so action becomes the resolution of self-fulfilling predictions rather than the
+    output of a separate motor controller.'
+- type: warning
+  title: Common pitfall regarding Active Inference
+  body: Active Inference is mathematically elegant but empirically underdetermined;
+    the same Active Inference equations can be made consistent with almost any observed
+    behavior by adjusting the prior preferences of the generative model, and critics
+    have argued the framework risks unfalsifiability unless its priors are independently
+    constrained.

@@ -1,0 +1,39 @@
+concept: Personal Epistemology
+domain: pkm
+secondary_domains:
+- epistemology
+- metacognition
+aliases:
+- individual epistemology
+- epistemic stance
+broader:
+- metacognition
+related:
+- epistemic-autonomy
+- calibration
+- intellectual-virtue
+- source-evaluation
+prerequisites:
+- epistemology
+confidence: medium
+callouts:
+- type: definition
+  title: Personal Epistemology
+  body: Personal Epistemology is the structured set of an individual's working commitments
+    about how knowledge is acquired, justified, and revised — including how confident
+    to be in what kinds of sources, how to handle disagreement among experts, and
+    how to update beliefs in light of new evidence.
+- type: key-claim
+  title: Key claim about Personal Epistemology
+  body: Personal Epistemology shapes PKM practice because every operational choice
+    — whether to record sources, how to handle conflicting evidence, when to mark
+    a note as established versus provisional — is an expression of underlying epistemic
+    commitments; making Personal Epistemology explicit is the move that converts PKM
+    from accumulation into a coherent epistemic practice.
+- type: warning
+  title: Common pitfall regarding Personal Epistemology
+  body: Personal Epistemology can be confused with intellectual taste or with rejection
+    of disliked sources rebadged as principled skepticism; without external checks
+    (calibration tracking, peer feedback, exposure to disconfirming evidence), Personal
+    Epistemology drifts into self-confirming patterns that look principled from the
+    inside while degrading belief quality from the outside.

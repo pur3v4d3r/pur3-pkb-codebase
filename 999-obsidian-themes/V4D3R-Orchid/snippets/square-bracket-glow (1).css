@@ -5,10 +5,10 @@
 
 /* ═══ CORE VARIABLES ═══ */
 :root {
-  --orchid-glow: #67625fff;
-  --orchid-glow-bright: #7c7673;
-  --orchid-shadow: rgba(103, 98, 95, 0.7);
-  --bracket-shadow: 0 0 3px var(--orchid-shadow), 0 0 5px var(--orchid-shadow);
+  --red-glow: #67625fff;
+  --red-glow-bright: #7c7673;
+  --red-shadow: rgba(103, 98, 95, 0.7);
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 5px var(--red-shadow);
 }
 
 /* ═══ OBSIDIAN INTERNAL LINKS - Most Common Use Case ═══ */
@@ -22,10 +22,10 @@ body .cm-content .cm-formatting.cm-formatting-link,
 body .cm-content .cm-line .cm-formatting-link,
 .workspace-leaf-content .cm-formatting.cm-formatting-link,
 div.cm-editor .cm-formatting-link {
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: 900 !important;
-  filter: brightness(1.2) drop-shadow(0 0 3px var(--orchid-shadow)) !important;
+  filter: brightness(1.2) drop-shadow(0 0 3px var(--red-shadow)) !important;
   opacity: 1 !important;
   display: inline !important;
   visibility: visible !important;
@@ -33,7 +33,7 @@ div.cm-editor .cm-formatting-link {
 
 /* Live Preview - color native brackets on all lines */
 body .markdown-source-view.mod-cm6.is-live-preview .cm-formatting-link {
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: 900 !important;
   opacity: 1 !important;
@@ -49,7 +49,7 @@ body .markdown-source-view.mod-cm6.is-live-preview .cm-line:not(.cm-active) .cm-
 /* Source Mode - Force visibility */
 body .markdown-source-view:not(.is-live-preview) .cm-formatting-link,
 .markdown-source-view.mod-cm6 .cm-content .cm-formatting-link {
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: 900 !important;
   opacity: 1 !important;
@@ -58,7 +58,7 @@ body .markdown-source-view:not(.is-live-preview) .cm-formatting-link,
 
 /* Legacy CM5 support */
 .cm-s-obsidian .cm-formatting.cm-formatting-link {
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: 900 !important;
 }
@@ -72,7 +72,7 @@ body .cm-content .cm-bracket,
 body .cm-punctuation,
 .token.punctuation.bracket,
 span.cm-bracket {
-  color: var(--orchid-glow-bright) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
   opacity: 1 !important;
   visibility: visible !important;
@@ -84,7 +84,7 @@ body .cm-link .cm-formatting,
 body .markdown-source-view .cm-hmd-internal-link .cm-formatting,
 body .cm-line .cm-hmd-internal-link,
 .HyperMD-internal-link .cm-formatting {
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
   opacity: 1 !important;
@@ -94,8 +94,8 @@ body .cm-line .cm-hmd-internal-link,
 /* ═══ TAG FORMATTING BRACKETS ═══ */
 .cm-formatting.cm-formatting-hashtag,
 .cm-hashtag .cm-formatting {
-  color: var(--orchid-glow-bright) !important;
-  text-shadow: var(--orchid-glow-bright) !important;
+  color: var(--red-glow-bright) !important;
+  text-shadow: var(--red-glow-bright) !important;
 }
 
 /* ═══ READING MODE - ADD VISUAL BRACKETS ═══ */
@@ -106,22 +106,22 @@ body .cm-line .cm-hmd-internal-link,
 .markdown-reading-view .internal-link::before,
 .markdown-reading-view .markdown-rendered .internal-link::before {
   content: '[[' !important;
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
   margin-right: 0px;
-  filter: drop-shadow(0 0 3px var(--orchid-shadow)) !important;
+  filter: drop-shadow(0 0 3px var(--red-shadow)) !important;
 }
 
 .markdown-preview-view .internal-link::after,
 .markdown-reading-view .internal-link::after,
 .markdown-reading-view .markdown-rendered .internal-link::after {
   content: ']]' !important;
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
   margin-left: 0px;
-  filter: drop-shadow(0 0 3px var(--orchid-shadow)) !important;
+  filter: drop-shadow(0 0 3px var(--red-shadow)) !important;
 }
 
 /* ═══ DATAVIEW INLINE FIELDS - READING MODE BRACKETS ═══ */
@@ -137,20 +137,20 @@ body .cm-line .cm-hmd-internal-link,
 /* GLOBAL FALLBACK — matches reading mode, live-preview widget, and any other context */
 .dataview.inline-field::before {
   content: '[' !important;
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
   display: inline !important;
-  -webkit-text-fill-color: var(--orchid-glow) !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
 }
 
 .dataview.inline-field::after {
   content: ']' !important;
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
   display: inline !important;
-  -webkit-text-fill-color: var(--orchid-glow) !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
 }
 
 /* SCOPED — reading-mode container selectors for extra specificity */
@@ -160,11 +160,11 @@ body .cm-line .cm-hmd-internal-link,
 .markdown-preview-section .dataview.inline-field::before,
 .view-content .dataview.inline-field::before {
   content: '[' !important;
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
   display: inline !important;
-  -webkit-text-fill-color: var(--orchid-glow) !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
 }
 
 .markdown-preview-view .dataview.inline-field::after,
@@ -173,11 +173,11 @@ body .cm-line .cm-hmd-internal-link,
 .markdown-preview-section .dataview.inline-field::after,
 .view-content .dataview.inline-field::after {
   content: ']' !important;
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
   display: inline !important;
-  -webkit-text-fill-color: var(--orchid-glow) !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
 }
 
 
@@ -188,7 +188,7 @@ body .cm-line .cm-hmd-internal-link,
 .cm-s-obsidian.cm-s-obsidian .cm-bracket,
 pre[class*="language-"] .token.bracket,
 .hljs-selector-attr {
-  color: var(--orchid-glow-bright) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
@@ -198,28 +198,28 @@ pre[class*="language-"] .token.bracket,
 .language-js .token.bracket,
 .language-typescript .token.bracket,
 .language-ts .token.bracket {
-  color: var(--orchid-glow-bright) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
 /* Python list/dict brackets */
 .language-python .token.bracket,
 .language-py .token.bracket {
-  color: var(--orchid-glow-bright) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
 /* CSS attribute selectors */
 .language-css .token.selector,
 .language-scss .token.selector {
-  color: var(--orchid-glow-bright) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
 /* ═══ DATAVIEW PLUGIN SUPPORT ═══ */
 .block-language-dataview .cm-bracket,
 .block-language-dataviewjs .cm-bracket {
-  color: var(--orchid-glow-bright) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
 }
@@ -228,19 +228,19 @@ pre[class*="language-"] .token.bracket,
 /* ═══ TEMPLATER PLUGIN SUPPORT ═══ */
 .templater-command,
 .tp-command {
-  color: var(--orchid-glow-bright) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --orchid-shadow: rgba(103, 98, 95, 0.7);
-  --bracket-shadow: 0 0 3px var(--orchid-shadow), 0 0 5px var(--orchid-shadow);
+  --red-shadow: rgba(103, 98, 95, 0.7);
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 5px var(--red-shadow);
 }
 
 .theme-light {
-  --orchid-shadow: rgba(103, 98, 95, 0.55);
-  --bracket-shadow: 0 0 2px var(--orchid-shadow), 0 0 4px var(--orchid-shadow);
+  --red-shadow: rgba(103, 98, 95, 0.55);
+  --bracket-shadow: 0 0 2px var(--red-shadow), 0 0 4px var(--red-shadow);
 }
 
 /* ═══ NUCLEAR OPTION - CATCH-ALL ═══ */
@@ -254,7 +254,7 @@ pre[class*="language-"] .token.bracket,
 
 .workspace-leaf-content *:has-text('['),
 .workspace-leaf-content *:has-text(']') {
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 */
@@ -263,7 +263,7 @@ pre[class*="language-"] .token.bracket,
 /* Add class="test-brackets" to any element to test the effect */
 /*.test-brackets,
 .test-brackets * {
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   background: rgba(103, 98, 95, 1) !important;
 }
@@ -278,28 +278,28 @@ pre[class*="language-"] .token.bracket,
 /* SUBTLE GLOW - Uncomment this section for minimal effect */
 /*
 :root {
-  --bracket-shadow: 0 0 1px var(--orchid-shadow);
+  --bracket-shadow: 0 0 1px var(--red-shadow);
 }
 */
 
 /* MEDIUM GLOW - Uncomment this section for balanced effect */
 /*:root {
-  --bracket-shadow: 0 0 3px var(--orchid-shadow), 0 0 6px var(--orchid-shadow);
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 6px var(--red-shadow);
 }
 
 /* INTENSE GLOW - Uncomment this section for maximum effect */
 
 :root {
-  --bracket-shadow: 0 0 4px var(--orchid-shadow), 0 0 6px var(--orchid-shadow), 0 0 12px var(--orchid-shadow)! important;
+  --bracket-shadow: 0 0 4px var(--red-shadow), 0 0 6px var(--red-shadow), 0 0 12px var(--red-shadow)! important;
 }
 :root {
-  --bracket-shadow: 0 0 3px var(--orchid-shadow), 0 0 6px var(--orchid-shadow), 0 0 12px var(--orchid-shadow) , 0 0 18px var(--orchid-shadow) !important;
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 6px var(--red-shadow), 0 0 12px var(--red-shadow) , 0 0 18px var(--red-shadow) !important;
 }
 /* PULSE EFFECT - Uncomment this section for animated pulsing */
 
 @keyframes bracket-pulse {
-  0%, 100% { text-shadow: 0 0 3px var(--orchid-shadow); }
-  50% { text-shadow: 0 0 5px var(--orchid-shadow), 0 0 8px var(--orchid-shadow)! important; }
+  0%, 100% { text-shadow: 0 0 3px var(--red-shadow); }
+  50% { text-shadow: 0 0 5px var(--red-shadow), 0 0 8px var(--red-shadow)! important; }
 }
 
 /* Apply pulse to ALL bracket formatting - NOT to link text */
@@ -320,13 +320,13 @@ body .markdown-source-view .cm-formatting-link,
 body .workspace-leaf-content[data-type="markdown"] .cm-formatting-link,
 body .view-content .cm-formatting.cm-formatting-link,
 body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
-  color: var(--orchid-glow) !important;
+  color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: 900 !important;
   opacity: 1 !important;
   display: inline !important;
   visibility: visible !important;
-  -webkit-text-fill-color: var(--orchid-glow) !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
 }
 
 /* ═══ LIVE PREVIEW MODE - native bracket rendering only ═══ */
@@ -364,24 +364,24 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 /* BLUE VARIANT */
 /*
 :root {
-  --orchid-glow: #67625f;
-  --orchid-shadow: rgba(103, 98, 95, 0.9);
+  --red-glow: #67625f;
+  --red-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* GREEN VARIANT */
 /*
 :root {
-  --orchid-glow: #67625f;
-  --orchid-shadow: rgba(103, 98, 95, 0.9);
+  --red-glow: #67625f;
+  --red-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 
 /* PURPLE VARIANT */
 /*
 :root {
-  --orchid-glow: #67625f;
-  --orchid-shadow: rgba(103, 98, 95, 0.9);
+  --red-glow: #67625f;
+  --red-shadow: rgba(103, 98, 95, 0.9);
 }
 */
 /* ══════════════════════════════════════════════════════════════════════════════════ */

@@ -58,7 +58,7 @@
   --co-pink:         103, 98, 95;     /* #67625F — Hot Pink / Magenta      */
   --co-blue:         103, 98, 95;     /* #67625F — Electric Blue           */
   --co-amber:        103, 98, 95;     /* #67625F — Amber / Gold            */
-  --co-red:          103, 98, 95;      /* #67625F — Ocean             */
+  --co-red:          103, 98, 95;      /* #67625F — Crimson Red             */
   --co-orange:       103, 98, 95;     /* #67625F — Warm Orange             */
   --co-teal:         83, 79, 76;     /* #534F4C — Teal                    */
   --co-lavender:     158, 153, 150;   /* #9E9996 — Soft Lavender           */
@@ -418,7 +418,7 @@
   --callout-color: var(--co-amber);
 }
 
-/* ─── GROUP 5: Danger & Error — Ocean ─────────────────────────────── */
+/* ─── GROUP 5: Danger & Error — Crimson Red ─────────────────────────────── */
 .callout[data-callout="danger"],
 .callout[data-callout="error"],
 .callout[data-callout="bug"],

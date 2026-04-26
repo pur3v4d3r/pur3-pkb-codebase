@@ -1,0 +1,40 @@
+concept: Gettier Problem
+domain: epistemology
+secondary_domains:
+- analytic-epistemology
+- philosophy-of-language
+aliases:
+- Gettier cases
+- Gettier counterexamples
+broader:
+- theory-of-knowledge
+related:
+- justified-true-belief
+- epistemic-luck
+- no-false-lemmas
+- safety-condition
+prerequisites:
+- justified-true-belief
+confidence: high
+callouts:
+- type: definition
+  title: Gettier Problem
+  body: The Gettier Problem is the foundational challenge raised by Edmund Gettier's
+    1963 paper, which presented short cases of justified true belief that nevertheless
+    intuitively fail to constitute knowledge, thereby refuting the traditional analysis
+    of knowledge as justified true belief and launching the contemporary post-JTB
+    literature.
+- type: key-claim
+  title: Key claim about Gettier Problem
+  body: The Gettier Problem's deep lesson is not merely that JTB is insufficient but
+    that justification can be satisfied via reasoning that passes through false lemmas
+    or coincidental connections; this is why proposed fixes — no-false-lemmas, defeasibility,
+    sensitivity, safety, virtue conditions — all attempt to insulate knowledge from
+    a specific structural form of luck rather than to add a single missing condition.
+- type: warning
+  title: Common pitfall regarding Gettier Problem
+  body: A growing body of experimental epistemology suggests that Gettier intuitions
+    vary with culture, education, and case framing, raising the methodological question
+    of whose intuitions the Gettier Problem is a problem for; the standard interpretation
+    of the Gettier Problem as identifying a universal feature of "knowledge" may overstate
+    the universality of the underlying intuitions.

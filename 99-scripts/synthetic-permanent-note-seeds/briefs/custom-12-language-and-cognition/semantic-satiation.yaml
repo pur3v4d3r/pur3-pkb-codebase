@@ -1,0 +1,39 @@
+concept: Semantic Satiation
+domain: language-and-cognition
+secondary_domains:
+- psycholinguistics
+- attention
+aliases:
+- word satiation
+- lexical satiation
+broader:
+- word-recognition
+related:
+- lexical-access
+- repetition-suppression
+- adaptation
+- neural-fatigue
+prerequisites:
+- word-recognition
+confidence: high
+callouts:
+- type: definition
+  title: Semantic Satiation
+  body: Semantic Satiation is the phenomenon in which prolonged or rapid repetition
+    of a word causes the word to temporarily lose its associated meaning for the perceiver,
+    leaving the phonological or orthographic form intact while the semantic representation
+    appears to become inaccessible.
+- type: key-claim
+  title: Key claim about Semantic Satiation
+  body: 'Semantic Satiation provides behavioral evidence that semantic activation
+    is not a passive lookup but a fatigable neural process: repeated activation of
+    the same lexical-semantic representation produces a measurable suppression effect
+    that selectively impairs subsequent semantic-relatedness judgments while leaving
+    formal lexical decisions relatively unaffected.'
+- type: warning
+  title: Common pitfall regarding Semantic Satiation
+  body: Semantic Satiation is often described as "the word loses meaning," but this
+    folk gloss overstates the effect; rigorous studies show the satiation is partial,
+    transient, and confined to specific semantic-judgment tasks, and competing accounts
+    dispute whether the locus is in semantic memory itself or in the comparison processes
+    that operate over it.

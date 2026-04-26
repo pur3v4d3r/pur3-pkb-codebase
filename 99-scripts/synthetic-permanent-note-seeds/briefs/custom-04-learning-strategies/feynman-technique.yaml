@@ -1,0 +1,35 @@
+concept: Feynman Technique
+domain: learning-science
+secondary_domains:
+- study-strategy
+- metacognition
+aliases:
+- explain-it-to-a-child technique
+broader:
+- self-explanation
+related:
+- active-recall
+- self-explanation
+- elaborative-interrogation
+prerequisites:
+- self-explanation
+confidence: high
+callouts:
+- type: definition
+  title: Feynman Technique
+  body: The Feynman Technique is a four-step study procedure — pick a concept, explain
+    it in simple language as if to a novice, identify gaps where the explanation breaks
+    down, and study to repair those gaps before re-explaining — designed to surface
+    unrecognized comprehension failures.
+- type: key-claim
+  title: Key claim about Feynman Technique
+  body: The Feynman Technique works because it forces the learner to translate technical
+    vocabulary into ordinary language, a translation that fails wherever the learner
+    has only memorized terminology rather than mastered the underlying conceptual
+    structure.
+- type: warning
+  title: Common pitfall regarding Feynman Technique
+  body: The Feynman Technique can degrade into vague paraphrase if the "simple language"
+    rule is interpreted as removing precision rather than removing jargon; the technique
+    requires that the simplified explanation still preserve the inferential commitments
+    of the original, not merely sound accessible.

@@ -1,0 +1,72 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-11-pkm-knowledge-work",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-11-pkm-knowledge-work.md",
+    "notes": "Custom seeding batch 11: PKM and knowledge-work constructs."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-11-pkm-knowledge-work",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-11-pkm-knowledge-work"
+  },
+  "counts": {
+    "parsed": 8,
+    "accepted": 8,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Bi Directional Linking",
+      "kebab": "bi-directional-linking",
+      "brief_path": "briefs/custom-11-pkm-knowledge-work/bi-directional-linking.yaml",
+      "expected_seed_filename": "bi-directional-linking-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Idea Compression",
+      "kebab": "idea-compression",
+      "brief_path": "briefs/custom-11-pkm-knowledge-work/idea-compression.yaml",
+      "expected_seed_filename": "idea-compression-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Information Diet",
+      "kebab": "information-diet",
+      "brief_path": "briefs/custom-11-pkm-knowledge-work/information-diet.yaml",
+      "expected_seed_filename": "information-diet-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Knowledge Compounding",
+      "kebab": "knowledge-compounding",
+      "brief_path": "briefs/custom-11-pkm-knowledge-work/knowledge-compounding.yaml",
+      "expected_seed_filename": "knowledge-compounding-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Networked Thought",
+      "kebab": "networked-thought",
+      "brief_path": "briefs/custom-11-pkm-knowledge-work/networked-thought.yaml",
+      "expected_seed_filename": "networked-thought-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Note Maturation",
+      "kebab": "note-maturation",
+      "brief_path": "briefs/custom-11-pkm-knowledge-work/note-maturation.yaml",
+      "expected_seed_filename": "note-maturation-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Personal Epistemology",
+      "kebab": "personal-epistemology",
+      "brief_path": "briefs/custom-11-pkm-knowledge-work/personal-epistemology.yaml",
+      "expected_seed_filename": "personal-epistemology-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Reading Workflow",
+      "kebab": "reading-workflow",
+      "brief_path": "briefs/custom-11-pkm-knowledge-work/reading-workflow.yaml",
+      "expected_seed_filename": "reading-workflow-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

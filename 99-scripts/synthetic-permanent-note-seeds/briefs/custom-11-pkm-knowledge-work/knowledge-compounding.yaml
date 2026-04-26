@@ -1,0 +1,40 @@
+concept: Knowledge Compounding
+domain: pkm
+secondary_domains:
+- learning-theory
+- expertise
+aliases:
+- compound learning
+- knowledge interest
+broader:
+- expertise-development
+related:
+- networked-thought
+- idea-compression
+- retrieval-practice
+- deliberate-practice
+prerequisites:
+- learning-theory
+confidence: medium
+callouts:
+- type: definition
+  title: Knowledge Compounding
+  body: Knowledge Compounding is the property by which previously acquired and well-organized
+    knowledge accelerates the acquisition and integration of new knowledge, so that
+    the marginal value of an hour of learning is an increasing function of accumulated,
+    accessible prior knowledge.
+- type: key-claim
+  title: Key claim about Knowledge Compounding
+  body: Knowledge Compounding distinguishes expertise development from rote accumulation
+    because compounding requires the prior knowledge to be schematically organized
+    and retrievable on demand; this is the cognitive-science backing for why systems
+    that emphasize active retrieval and explicit linking outperform passive note hoarding,
+    which accumulates volume without compounding leverage.
+- type: warning
+  title: Common pitfall regarding Knowledge Compounding
+  body: Knowledge Compounding is sometimes invoked to justify indefinite tool-building
+    and note-organizing in advance of actual research output, on the theory that compounding
+    will eventually arrive; in practice, the compounding payoff materializes only
+    when the knowledge is exercised on real problems, so PKM systems optimized purely
+    for collection without exercise can simulate the inputs of Knowledge Compounding
+    while producing none of its returns.

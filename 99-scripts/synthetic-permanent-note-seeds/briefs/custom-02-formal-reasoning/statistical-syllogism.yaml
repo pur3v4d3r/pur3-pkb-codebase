@@ -1,0 +1,38 @@
+concept: Statistical Syllogism
+domain: logic
+secondary_domains:
+- inductive-reasoning
+- probability
+- critical-thinking
+aliases:
+- direct inference
+- proportional syllogism
+broader:
+- inductive-inference
+related:
+- base-rate-neglect
+- argument-from-analogy
+- probability-judgment
+prerequisites:
+- probability
+- argument-analysis
+confidence: high
+callouts:
+- type: definition
+  title: Statistical Syllogism
+  body: A Statistical Syllogism is an inductive inference of the form "Most F are
+    G; this is an F; therefore probably this is G," extending categorical syllogism
+    to cases where the major premise is a statistical regularity rather than a universal
+    generalization.
+- type: key-claim
+  title: Key claim about Statistical Syllogism
+  body: A Statistical Syllogism inherits its rational force from the reference class
+    chosen, so the same individual can be assigned different probabilities depending
+    on which reference class is invoked, a feature known as the "reference-class problem"
+    that resists fully principled solution.
+- type: warning
+  title: Common pitfall regarding Statistical Syllogism
+  body: A Statistical Syllogism can lead to fallacious conclusions when the chosen
+    reference class is too broad or too narrow relative to the question; ignoring
+    more specific information that is available constitutes the inferential vice the
+    bias literature calls base-rate misuse.

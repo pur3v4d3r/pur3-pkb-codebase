@@ -22,8 +22,8 @@
 
 :root {
   --gb-color:  #ffffff;
-  --gb-shadow: 0 0 3px rgb(136, 255, 0), 0 0 6px rgb(136, 255, 0);
-  --gb-filter: drop-shadow(0 0 3px rgb(136, 255, 0));
+  --gb-shadow: 0 0 3px rgb(79, 160, 0), 0 0 6px rgb(79, 160, 0);
+  --gb-filter: drop-shadow(0 0 3px rgb(79, 160, 0));
 }
 
 

@@ -1,0 +1,41 @@
+concept: Summative Assessment
+domain: instructional-design
+secondary_domains:
+- assessment
+- educational-measurement
+aliases:
+- final assessment
+- assessment of learning
+broader:
+- assessment
+related:
+- formative-assessment
+- criterion-referenced-assessment
+- validity
+- reliability
+prerequisites:
+- assessment
+confidence: high
+callouts:
+- type: definition
+  title: Summative Assessment
+  body: Summative Assessment is evaluation conducted at the conclusion of an instructional
+    unit, course, or program for the purpose of certifying or judging learning against
+    established standards, contrasted with formative assessment whose purpose is to
+    inform ongoing instruction.
+- type: key-claim
+  title: Key claim about Summative Assessment
+  body: Summative Assessment's defining feature is its function rather than its instrument;
+    the same test item can serve summative purposes in one administration and formative
+    purposes in another, so reform efforts that try to "replace summative with formative
+    assessment" misframe the issue — the policy question is which decisions require
+    certification-grade Summative Assessment and how to design instruments fit for
+    that decision-making purpose.
+- type: warning
+  title: Common pitfall regarding Summative Assessment
+  body: 'Summative Assessment systems exert powerful washback on instruction: when
+    high-stakes Summative Assessment narrowly samples a domain, instruction reliably
+    narrows to match, often degrading the very competencies the assessment was meant
+    to certify. Treating Summative Assessment as a neutral measurement instrument
+    while ignoring its incentive effects misunderstands how it actually shapes the
+    educational system in which it is embedded.'

@@ -1,0 +1,42 @@
+concept: Formal Operational Stage
+domain: developmental-psychology
+secondary_domains:
+- cognitive-development
+- education
+aliases:
+- Piaget formal operations
+- abstract reasoning stage
+broader:
+- piagetian-stages
+related:
+- concrete-operational-stage
+- hypothetico-deductive-reasoning
+- abstract-thought
+- scientific-reasoning
+prerequisites:
+- piagetian-stages
+- concrete-operational-stage
+confidence: medium
+callouts:
+- type: definition
+  title: Formal Operational Stage
+  body: The Formal Operational Stage is the fourth and final stage in Jean Piaget's
+    theory of cognitive development, beginning roughly at age eleven, characterized
+    by the capacity for hypothetico-deductive reasoning, systematic manipulation of
+    variables, and reasoning over propositions and possibilities rather than only
+    over concrete objects.
+- type: key-claim
+  title: Key claim about Formal Operational Stage
+  body: 'The Formal Operational Stage''s distinguishing cognitive achievement is the
+    inversion of the relation between the real and the possible: where the concrete-operational
+    child reasons from what is actually present, the formal-operational reasoner treats
+    the actual as one case within a space of logical possibilities, enabling combinatorial
+    reasoning and the design of controlled experiments.'
+- type: warning
+  title: Common pitfall regarding Formal Operational Stage
+  body: The Formal Operational Stage is the most empirically contested of Piaget's
+    stages; cross-cultural research finds that many adults from non-schooled populations
+    fail standard formal-operational tasks, and even within Western samples performance
+    is highly domain-specific, suggesting that the Formal Operational Stage is better
+    understood as a learned skillset tied to formal education than as a universal
+    developmental endpoint.

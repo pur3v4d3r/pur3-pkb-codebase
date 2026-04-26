@@ -1,0 +1,37 @@
+concept: Imagination Inflation
+domain: memory-science
+secondary_domains:
+- cognitive-psychology
+- false-memory
+aliases:
+- imagined-event inflation
+broader:
+- false-memory
+- source-monitoring
+related:
+- misinformation-effect
+- source-monitoring-error
+- cryptomnesia
+prerequisites:
+- episodic-memory
+- source-monitoring
+confidence: high
+callouts:
+- type: definition
+  title: Imagination Inflation
+  body: Imagination Inflation is the experimentally demonstrated phenomenon in which
+    merely imagining a counterfactual event increases the subjective confidence that
+    the event actually occurred in one's past, with the inflation effect rising as
+    imagination is repeated and elaborated.
+- type: key-claim
+  title: Key claim about Imagination Inflation
+  body: 'Imagination Inflation reflects a failure of source monitoring: the perceptual
+    and contextual richness produced by vivid imagination resembles the cues people
+    normally use to distinguish memory from imagination, eroding the boundary precisely
+    as elaboration increases.'
+- type: warning
+  title: Common pitfall regarding Imagination Inflation
+  body: 'Imagination Inflation has direct forensic implications: any therapeutic,
+    journalistic, or interrogative practice that asks a subject to repeatedly imagine
+    a possible past event is likely to produce false confidence in that event, whether
+    or not the practitioner intends to suggest it.'

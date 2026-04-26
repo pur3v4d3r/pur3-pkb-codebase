@@ -1,0 +1,39 @@
+concept: Networked Thought
+domain: pkm
+secondary_domains:
+- tools-for-thought
+- cognitive-science
+aliases:
+- networked thinking
+- associative thought
+broader:
+- tools-for-thought
+related:
+- bi-directional-linking
+- zettelkasten
+- knowledge-graph
+- associative-network-theory
+prerequisites:
+- hypertext
+confidence: medium
+callouts:
+- type: definition
+  title: Networked Thought
+  body: Networked Thought is a model of thinking that treats ideas as nodes in a graph
+    of associative relationships rather than as items in a hierarchy, and that designs
+    note-taking and knowledge-management systems to mirror and reinforce this graph
+    structure.
+- type: key-claim
+  title: Key claim about Networked Thought
+  body: Networked Thought is theoretically grounded in associative network models
+    of long-term memory, where retrieval operates by spreading activation across linked
+    concepts; PKM systems that externalize and densely connect ideas are predicted
+    to extend this native cognitive architecture by providing reliable, queryable
+    storage that the unaided memory cannot supply.
+- type: warning
+  title: Common pitfall regarding Networked Thought
+  body: Networked Thought as a marketing slogan often outruns its evidence base; the
+    empirical case for note-graph density producing better thinking is weak and confounded
+    by selection effects (people who maintain dense note graphs differ in many ways
+    from those who do not). Networked Thought is best treated as a working hypothesis
+    about tool design rather than as an established cognitive enhancement.

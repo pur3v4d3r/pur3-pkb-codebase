@@ -1,0 +1,40 @@
+concept: Moral Development
+domain: developmental-psychology
+secondary_domains:
+- moral-psychology
+- ethics
+aliases:
+- Kohlberg stages
+- moral reasoning development
+broader:
+- moral-psychology
+related:
+- theory-of-mind
+- perspective-taking
+- ethics-of-care
+- social-domain-theory
+prerequisites:
+- perspective-taking
+confidence: medium
+callouts:
+- type: definition
+  title: Moral Development
+  body: Moral Development refers to the age-graded changes in how people reason about
+    and respond to ethical problems, most influentially modeled by Lawrence Kohlberg
+    as a six-stage progression from preconventional self-interest, through conventional
+    rule-following, to postconventional principled reasoning.
+- type: key-claim
+  title: Key claim about Moral Development
+  body: Kohlberg's framework for Moral Development claims that the sequence of stages
+    is invariant and culturally universal because higher stages are structurally more
+    adequate at coordinating perspectives, not merely more socially approved — making
+    the model a structural-developmental theory rather than a description of cultural
+    moral content.
+- type: warning
+  title: Common pitfall regarding Moral Development
+  body: 'Moral Development as Kohlberg operationalized it has been seriously challenged:
+    Carol Gilligan argued the framework systematically devalues a "care" orientation
+    more common in women, Jonathan Haidt''s social-intuitionist work shows reasoning
+    often rationalizes prior intuitions rather than driving judgment, and cross-cultural
+    research finds the postconventional stage is rarely reached outside Western liberal
+    samples.'

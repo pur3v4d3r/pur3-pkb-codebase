@@ -1,0 +1,72 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-08-behavioral-economics",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-08-behavioral-economics.md",
+    "notes": "Custom seeding batch 08: behavioral-economics constructs."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-08-behavioral-economics",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-08-behavioral-economics"
+  },
+  "counts": {
+    "parsed": 8,
+    "accepted": 8,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Affect Heuristic",
+      "kebab": "affect-heuristic",
+      "brief_path": "briefs/custom-08-behavioral-economics/affect-heuristic.yaml",
+      "expected_seed_filename": "affect-heuristic-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Decision Fatigue",
+      "kebab": "decision-fatigue",
+      "brief_path": "briefs/custom-08-behavioral-economics/decision-fatigue.yaml",
+      "expected_seed_filename": "decision-fatigue-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Endowment Effect",
+      "kebab": "endowment-effect",
+      "brief_path": "briefs/custom-08-behavioral-economics/endowment-effect.yaml",
+      "expected_seed_filename": "endowment-effect-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Expected Utility Theory",
+      "kebab": "expected-utility-theory",
+      "brief_path": "briefs/custom-08-behavioral-economics/expected-utility-theory.yaml",
+      "expected_seed_filename": "expected-utility-theory-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Intertemporal Choice",
+      "kebab": "intertemporal-choice",
+      "brief_path": "briefs/custom-08-behavioral-economics/intertemporal-choice.yaml",
+      "expected_seed_filename": "intertemporal-choice-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Mental Accounting",
+      "kebab": "mental-accounting",
+      "brief_path": "briefs/custom-08-behavioral-economics/mental-accounting.yaml",
+      "expected_seed_filename": "mental-accounting-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Peak End Rule",
+      "kebab": "peak-end-rule",
+      "brief_path": "briefs/custom-08-behavioral-economics/peak-end-rule.yaml",
+      "expected_seed_filename": "peak-end-rule-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Scope Insensitivity",
+      "kebab": "scope-insensitivity",
+      "brief_path": "briefs/custom-08-behavioral-economics/scope-insensitivity.yaml",
+      "expected_seed_filename": "scope-insensitivity-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

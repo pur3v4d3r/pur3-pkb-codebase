@@ -1,0 +1,39 @@
+concept: Flipped Classroom
+domain: instructional-design
+secondary_domains:
+- pedagogy
+- blended-learning
+aliases:
+- inverted classroom
+- flipped learning
+broader:
+- blended-learning
+related:
+- active-learning
+- peer-instruction
+- asynchronous-instruction
+- cognitive-load-theory
+prerequisites:
+- pedagogy
+confidence: medium
+callouts:
+- type: definition
+  title: Flipped Classroom
+  body: The Flipped Classroom is an instructional model in which direct-instruction
+    content (typically delivered as recorded video) is moved out of class time and
+    assigned as preparation, freeing in-class time for higher-order activities such
+    as problem solving, discussion, and individualized support.
+- type: key-claim
+  title: Key claim about Flipped Classroom
+  body: The Flipped Classroom's defensible theoretical claim is not "video lectures
+    are better than live ones" but rather that synchronous instructor presence is
+    a scarce resource that should be allocated to the cognitive activities that most
+    benefit from real-time scaffolding — questioning, troubleshooting, and feedback
+    — rather than to one-way information transmission.
+- type: warning
+  title: Common pitfall regarding Flipped Classroom
+  body: Flipped Classroom outcomes depend almost entirely on whether students complete
+    the pre-class preparation and on whether in-class time is genuinely restructured
+    around active learning; flipping that combines uncompleted video assignments with
+    a class hour that reverts to lecture produces strictly worse outcomes than either
+    pure mode, so the Flipped Classroom is not robust to partial implementation.

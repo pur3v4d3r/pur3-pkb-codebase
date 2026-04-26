@@ -1,0 +1,40 @@
+concept: Idea Compression
+domain: pkm
+secondary_domains:
+- writing
+- learning-theory
+aliases:
+- conceptual compression
+- distillation
+broader:
+- knowledge-distillation
+related:
+- atomic-notes
+- note-maturation
+- retrieval-practice
+- generative-summarization
+prerequisites:
+- knowledge-representation
+confidence: medium
+callouts:
+- type: definition
+  title: Idea Compression
+  body: Idea Compression is the practice of restating a complex idea in progressively
+    shorter, more precise formulations — culminating in a single sentence or claim
+    that captures its essential commitment — as a method for testing and deepening
+    understanding.
+- type: key-claim
+  title: Key claim about Idea Compression
+  body: 'Idea Compression functions as a generative learning mechanism rather than
+    as mere summary: forcing reduction to a minimal formulation surfaces hidden assumptions
+    and exposes which parts of the idea the writer cannot actually defend, so the
+    compressed output is less valuable than the act of compression itself, which acts
+    as a diagnostic of comprehension depth.'
+- type: warning
+  title: Common pitfall regarding Idea Compression
+  body: Idea Compression can produce confident but degraded representations when applied
+    to ideas the writer does not yet adequately understand; the compressed slogan
+    reads as authoritative while quietly amputating the qualifications that did the
+    actual epistemic work in the original. Idea Compression therefore needs to be
+    coupled to the source — typically through a citation discipline — rather than
+    allowed to stand alone.

@@ -1,0 +1,39 @@
+concept: Peer Instruction
+domain: instructional-design
+secondary_domains:
+- active-learning
+- higher-education
+aliases:
+- Mazur peer instruction
+- ConcepTests
+broader:
+- active-learning
+related:
+- flipped-classroom
+- formative-assessment
+- elaborative-feedback
+- social-constructivism
+prerequisites:
+- active-learning
+confidence: high
+callouts:
+- type: definition
+  title: Peer Instruction
+  body: Peer Instruction is an active-learning method developed by Eric Mazur in which
+    students respond to a conceptual question (a ConcepTest) individually, then discuss
+    their reasoning with peers, then re-respond — converting lecture into a structured
+    cycle of commitment, dialogue, and revision.
+- type: key-claim
+  title: Key claim about Peer Instruction
+  body: 'Peer Instruction''s empirical robustness, particularly in introductory physics,
+    is grounded in two mechanisms: the initial individual commitment forces retrieval
+    and exposes misconceptions, and peer dialogue is more effective than instructor
+    exposition because near-peers can articulate the cognitive bridge from the misconception
+    to the correct conception in a way an expert often cannot.'
+- type: warning
+  title: Common pitfall regarding Peer Instruction
+  body: Peer Instruction depends on a non-trivial supply of well-designed ConcepTests
+    that target known misconceptions and on initial response distributions in the
+    productive 30-70% correct range; using questions with near-uniform initial correctness
+    produces uninformative discussion and converts Peer Instruction into a procedural
+    ritual without the conceptual change it was designed to produce.

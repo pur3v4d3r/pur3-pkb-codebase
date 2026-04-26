@@ -1,0 +1,39 @@
+concept: Endowment Effect
+domain: behavioral-economics
+secondary_domains:
+- judgment
+- market-behavior
+aliases:
+- divestiture aversion
+- ownership effect
+broader:
+- loss-aversion
+related:
+- loss-aversion
+- status-quo-bias
+- prospect-theory
+- willingness-to-accept-pay-gap
+prerequisites:
+- prospect-theory
+confidence: high
+callouts:
+- type: definition
+  title: Endowment Effect
+  body: The Endowment Effect is the empirical regularity, identified by Thaler and
+    demonstrated in Kahneman-Knetsch-Thaler mug experiments, that individuals demand
+    substantially more compensation to give up an object they own than they would
+    pay to acquire the identical object, opening a gap between willingness-to-accept
+    and willingness-to-pay.
+- type: key-claim
+  title: Key claim about Endowment Effect
+  body: 'The Endowment Effect is most parsimoniously explained by reference-dependent
+    loss aversion: ownership shifts the reference point so that giving up the object
+    is coded as a loss rather than as forgoing a gain, and losses loom roughly twice
+    as large as equivalent gains in prospect-theory utility.'
+- type: warning
+  title: Common pitfall regarding Endowment Effect
+  body: The Endowment Effect attenuates or disappears among experienced traders, in
+    repeated market settings, and across some cross-cultural samples; treating it
+    as a universal psychological constant misrepresents the literature and obscures
+    the conditions — novelty, market inexperience, ambiguous valuation — under which
+    the Endowment Effect actually generates the WTA-WTP gap.

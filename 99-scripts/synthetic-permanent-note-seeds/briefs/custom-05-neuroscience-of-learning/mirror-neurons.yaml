@@ -1,0 +1,37 @@
+concept: Mirror Neurons
+domain: cognitive-neuroscience
+secondary_domains:
+- neuroscience-of-learning
+- social-cognition
+aliases:
+- mirror neuron system
+- MNS
+broader:
+- neural-coding
+related:
+- theory-of-mind
+- observational-learning
+- embodied-cognition
+prerequisites:
+- motor-cortex
+confidence: medium
+callouts:
+- type: definition
+  title: Mirror Neurons
+  body: Mirror Neurons are a class of cells, originally identified in macaque ventral
+    premotor cortex, that fire both when an animal performs a goal-directed action
+    and when it observes another agent performing a similar action, providing a candidate
+    neural substrate for action understanding and imitation.
+- type: key-claim
+  title: Key claim about Mirror Neurons
+  body: Mirror Neurons gained outsized influence because the simple "I see, I do"
+    mapping was offered as a unified neural explanation for imitation, empathy, language
+    evolution, and theory of mind, becoming the textbook example of how a clean experimental
+    finding can be over-extended into a master explanation.
+- type: warning
+  title: Common pitfall regarding Mirror Neurons
+  body: Mirror Neurons in the strict single-cell sense have been confirmed only in
+    macaques; human evidence is largely indirect (fMRI suppression, EEG mu-rhythm)
+    and does not establish the existence of cells with the macaque mirror property,
+    so theoretical claims that import the macaque circuitry into human cognition should
+    be discounted accordingly.

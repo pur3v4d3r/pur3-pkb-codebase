@@ -1,0 +1,39 @@
+concept: Intertemporal Choice
+domain: behavioral-economics
+secondary_domains:
+- decision-science
+- self-regulation
+aliases:
+- temporal discounting
+- delay discounting
+broader:
+- decision-theory
+related:
+- hyperbolic-discounting
+- present-bias
+- time-preference
+- commitment-devices
+prerequisites:
+- decision-theory
+confidence: high
+callouts:
+- type: definition
+  title: Intertemporal Choice
+  body: Intertemporal Choice is the study of how decision-makers trade off costs and
+    benefits that occur at different points in time, encompassing both the descriptive
+    question of how people actually discount the future and the normative question
+    of how they ought to.
+- type: key-claim
+  title: Key claim about Intertemporal Choice
+  body: Intertemporal Choice research consistently finds that discounting is hyperbolic
+    rather than exponential, meaning the ratio of preferences between two delayed
+    rewards depends on whether both are evaluated from a near or distant present —
+    generating predictable preference reversals as the earlier option approaches and
+    yielding the formal signature of present-biased self-control failure.
+- type: warning
+  title: Common pitfall regarding Intertemporal Choice
+  body: The standard Intertemporal Choice paradigm of "smaller-sooner vs. larger-later"
+    monetary rewards has weak external validity for many real-world decisions; people
+    who choose patiently in laboratory tasks often fail at consumption decisions,
+    and lab discount rates correlate inconsistently with field outcomes, so Intertemporal
+    Choice findings should be generalized to behavior with care.

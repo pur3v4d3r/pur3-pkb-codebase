@@ -1,0 +1,35 @@
+concept: Affective Forecasting
+domain: positive-psychology
+secondary_domains:
+- decision-science
+- emotion
+aliases:
+- emotional forecasting
+- hedonic forecasting
+broader:
+- emotion-regulation
+related:
+- hedonic-adaptation
+- peak-end-rule
+- focusing-illusion
+prerequisites:
+- emotion
+confidence: high
+callouts:
+- type: definition
+  title: Affective Forecasting
+  body: Affective Forecasting is the cognitive process by which people predict the
+    intensity and duration of their future emotional reactions to anticipated events,
+    and the accumulated empirical record on its systematic biases.
+- type: key-claim
+  title: Key claim about Affective Forecasting
+  body: Affective Forecasting research shows that people robustly overestimate both
+    the intensity and the duration of their future affective reactions — a phenomenon
+    called the "impact bias" — because forecasts ignore hedonic adaptation and the
+    cognitive immune system that buffers actual experience.
+- type: warning
+  title: Common pitfall regarding Affective Forecasting
+  body: Affective Forecasting failures cannot be repaired simply by warning people
+    about the impact bias; the bias persists even when subjects are explicitly told
+    about it, suggesting it is grounded in the simulation mechanism itself rather
+    than in ignorance about its outputs.

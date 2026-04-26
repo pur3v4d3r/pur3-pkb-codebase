@@ -1,0 +1,40 @@
+concept: Gamification
+domain: instructional-design
+secondary_domains:
+- motivation
+- behavioral-design
+aliases:
+- educational gamification
+- points-and-badges
+broader:
+- motivational-design
+related:
+- game-based-learning
+- self-determination-theory
+- intrinsic-motivation
+- extrinsic-rewards
+prerequisites:
+- motivation-theory
+confidence: medium
+callouts:
+- type: definition
+  title: Gamification
+  body: Gamification is the application of game design elements — points, badges,
+    leaderboards, levels, narrative framing — to non-game contexts including instruction,
+    in order to increase engagement, motivation, and persistence with the underlying
+    activity.
+- type: key-claim
+  title: Key claim about Gamification
+  body: Gamification's effects on intrinsic motivation are predicted by self-determination
+    theory to depend on whether the game elements support competence and autonomy
+    or function as controlling extrinsic rewards; when leaderboards and badges are
+    perceived as controlling, Gamification can reduce intrinsic motivation through
+    the overjustification effect, exactly opposite to its design intent.
+- type: warning
+  title: Common pitfall regarding Gamification
+  body: Gamification is often deployed as a generic engagement intervention without
+    analysis of the underlying activity; when the underlying instruction is intrinsically
+    dull or pedagogically unsound, Gamification adds a thin extrinsic reward layer
+    that produces short-term compliance and long-term disengagement once the rewards
+    are withdrawn, a failure mode well documented across educational and workplace
+    deployments.

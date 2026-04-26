@@ -1,0 +1,40 @@
+concept: Bi Directional Linking
+domain: pkm
+secondary_domains:
+- tools-for-thought
+- hypertext
+aliases:
+- backlinks
+- two-way links
+broader:
+- hypertext-systems
+related:
+- networked-thought
+- zettelkasten
+- graph-view
+- transclusion
+prerequisites:
+- hypertext
+confidence: high
+callouts:
+- type: definition
+  title: Bi Directional Linking
+  body: Bi Directional Linking is a hypertext property in which a link from note A
+    to note B is automatically reflected as a link from B to A, so that each note
+    exposes not only its outgoing references but also the set of notes that reference
+    it (its backlinks).
+- type: key-claim
+  title: Key claim about Bi Directional Linking
+  body: 'Bi Directional Linking changes the epistemic affordances of a note collection:
+    with one-way links, references decay because the target has no record of being
+    referenced, while with Bi Directional Linking each note becomes a hub that surfaces
+    its incoming context on every visit, enabling associative discovery without explicit
+    search and converting the note collection into a queryable graph.'
+- type: warning
+  title: Common pitfall regarding Bi Directional Linking
+  body: Bi Directional Linking is sometimes treated as the defining feature that makes
+    a tool a "tool for thought," but link presence does not imply link quality; a
+    graph of trivial mentions produces backlink panels that are noisy rather than
+    informative, and Bi Directional Linking only earns its epistemic value when paired
+    with disciplined linking practice that distinguishes substantive references from
+    incidental mentions.

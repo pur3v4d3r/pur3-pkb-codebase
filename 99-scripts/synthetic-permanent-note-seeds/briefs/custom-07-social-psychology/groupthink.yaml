@@ -1,0 +1,37 @@
+concept: Groupthink
+domain: social-psychology
+secondary_domains:
+- decision-science
+- organizational-behavior
+aliases:
+- Janis groupthink
+broader:
+- group-decision-making
+related:
+- conformity
+- confirmation-bias
+- polarization
+- dissent-suppression
+prerequisites:
+- group-decision-making
+confidence: medium
+callouts:
+- type: definition
+  title: Groupthink
+  body: Groupthink, theorized by Irving Janis, is a pattern of defective group decision-making
+    in which a cohesive in-group's striving for unanimity overrides realistic appraisal
+    of alternatives, producing premature consensus, suppression of dissent, and an
+    illusion of moral and analytic superiority.
+- type: key-claim
+  title: Key claim about Groupthink
+  body: Groupthink's central diagnostic claim is that high group cohesion under threat
+    is not protective but pathogenic for decision quality, because cohesion converts
+    the social cost of dissent into a strong incentive to self-censor, and the resulting
+    unanimity is then misread by the group as evidence of the decision's correctness.
+- type: warning
+  title: Common pitfall regarding Groupthink
+  body: Empirical tests of Groupthink as a coherent syndrome have been mixed; while
+    specific antecedents (insulated leader, directive leadership, time pressure) reliably
+    degrade decisions, the full Janis model bundling cohesion, structural faults,
+    and symptoms has not held together cleanly, so invoking Groupthink as a unified
+    explanation often outruns the evidence.

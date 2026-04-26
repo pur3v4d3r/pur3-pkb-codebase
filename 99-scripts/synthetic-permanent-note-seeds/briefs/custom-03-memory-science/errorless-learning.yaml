@@ -1,0 +1,37 @@
+concept: Errorless Learning
+domain: learning-science
+secondary_domains:
+- memory-science
+- instructional-design
+- neuropsychology
+aliases:
+- errorless training
+broader:
+- instructional-method
+related:
+- productive-failure
+- scaffolding
+- retrieval-practice
+- desirable-difficulties
+prerequisites:
+- explicit-memory
+- implicit-memory
+confidence: high
+callouts:
+- type: definition
+  title: Errorless Learning
+  body: Errorless Learning is an instructional approach in which the learner is prevented
+    from making errors during acquisition by tightly scaffolded prompts and gradual
+    fading, so that no incorrect responses are encoded into the trace.
+- type: key-claim
+  title: Key claim about Errorless Learning
+  body: Errorless Learning shows the largest benefit for populations with impaired
+    explicit memory — most famously amnesic patients — because their preserved implicit
+    system would otherwise consolidate erroneous responses without the explicit corrective
+    tagging healthy learners use.
+- type: warning
+  title: Common pitfall regarding Errorless Learning
+  body: Errorless Learning is sometimes generalized as superior for all learners,
+    but in intact populations the literature on desirable difficulties shows that
+    productive errors followed by feedback typically outperform Errorless Learning
+    on long-term retention and transfer.

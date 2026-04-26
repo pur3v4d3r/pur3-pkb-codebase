@@ -1,0 +1,39 @@
+concept: Note Maturation
+domain: pkm
+secondary_domains:
+- zettelkasten
+- writing
+aliases:
+- note evolution
+- evergreen notes
+broader:
+- knowledge-management
+related:
+- zettelkasten
+- atomic-notes
+- idea-compression
+- knowledge-compounding
+prerequisites:
+- knowledge-management
+confidence: medium
+callouts:
+- type: definition
+  title: Note Maturation
+  body: Note Maturation is the practice of treating notes as evolving artifacts that
+    move through stages — from rough capture through revision and refactoring to durable,
+    reusable claims — rather than as static records, with explicit conventions for
+    marking and progressing each stage.
+- type: key-claim
+  title: Key claim about Note Maturation
+  body: 'Note Maturation is the operational mechanism that distinguishes PKM systems
+    with compounding returns from journaling: the value of a mature note compounds
+    because it can be linked to and built on with confidence, whereas immature notes
+    function as noise that must be re-evaluated on every encounter, eroding the time
+    that should be spent on new thinking.'
+- type: warning
+  title: Common pitfall regarding Note Maturation
+  body: 'Note Maturation discipline can become a procedural endpoint that displaces
+    external output: time spent perfecting "evergreen" notes is time not spent producing
+    essays, code, or decisions that the notes were meant to support. Note Maturation
+    therefore needs an external pull — a real publication or decision pipeline — to
+    keep maturation work calibrated to downstream use rather than to aesthetic completion.'

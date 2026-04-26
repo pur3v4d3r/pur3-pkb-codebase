@@ -1,0 +1,45 @@
+concept: Integrated Information Theory
+domain: cognitive-science
+secondary_domains:
+- consciousness-studies
+- philosophy-of-mind
+aliases:
+- IIT
+- Tononi IIT
+- phi theory of consciousness
+broader:
+- theories-of-consciousness
+related:
+- global-workspace-theory
+- panpsychism
+- neural-correlates-of-consciousness
+- computational-theory-of-mind
+prerequisites:
+- consciousness-studies
+confidence: medium
+callouts:
+- type: definition
+  title: Integrated Information Theory
+  body: Integrated Information Theory, developed by Giulio Tononi, identifies consciousness
+    with the quantity and structure of integrated information (denoted phi) generated
+    by a physical system — information that is irreducible to the information in the
+    system's parts taken independently — and proposes that any system with non-zero
+    phi has some degree of phenomenal experience.
+- type: key-claim
+  title: Key claim about Integrated Information Theory
+  body: 'Integrated Information Theory inverts the standard explanatory order of consciousness
+    science: rather than starting from neural mechanisms and asking which produce
+    consciousness, it begins from axioms about the intrinsic properties of experience
+    and derives the physical substrate that must instantiate them, leading to the
+    controversial prediction that simple feed-forward networks (including most current
+    AI systems) have zero phi and therefore no experience regardless of their behavioral
+    sophistication.'
+- type: warning
+  title: Common pitfall regarding Integrated Information Theory
+  body: 'Integrated Information Theory''s commitments lead it into territory many
+    cognitive scientists treat as a reductio: it implies a graded panpsychism in which
+    simple physical systems possess minimal experience, it has been formally shown
+    to be in principle incomputable for systems of realistic size, and a 2023 open
+    letter from over a hundred scientists labeled it "pseudoscience" — a charge that
+    itself remains contested but illustrates the depth of methodological disagreement
+    Integrated Information Theory provokes.'

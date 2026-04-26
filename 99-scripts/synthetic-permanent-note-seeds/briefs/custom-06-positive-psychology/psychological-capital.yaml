@@ -1,0 +1,38 @@
+concept: Psychological Capital
+domain: positive-psychology
+secondary_domains:
+- organizational-psychology
+- applied-psychology
+aliases:
+- PsyCap
+broader:
+- positive-organizational-behavior
+related:
+- self-efficacy
+- hope-theory
+- optimism
+- resilience
+prerequisites:
+- self-efficacy
+- hope-theory
+confidence: medium
+callouts:
+- type: definition
+  title: Psychological Capital
+  body: Psychological Capital is a higher-order construct in positive organizational
+    behavior comprising four state-like resources — self-efficacy, hope, optimism,
+    and resilience — proposed to jointly predict performance, satisfaction, and wellbeing
+    in occupational contexts.
+- type: key-claim
+  title: Key claim about Psychological Capital
+  body: 'Psychological Capital is theoretically defended as state-like rather than
+    trait-like, which is its key practical commitment: if PsyCap is malleable, then
+    targeted interventions on its four components should produce measurable performance
+    gains, a prediction the intervention literature has partially supported.'
+- type: warning
+  title: Common pitfall regarding Psychological Capital
+  body: Psychological Capital research is concentrated in organizational settings
+    where outcome measures are aligned with employer interests; generalizing PsyCap
+    as a model of human wellbeing risks importing the workplace framing — productivity,
+    engagement, performance — into life domains where those outcomes are not the relevant
+    criteria.

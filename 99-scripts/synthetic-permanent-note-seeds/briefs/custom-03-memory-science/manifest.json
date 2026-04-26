@@ -1,0 +1,72 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-03-memory-science",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-03-memory-science.md",
+    "notes": "Custom seeding batch 03: memory-science concepts not yet covered. Augments\nthe existing retrieval-practice / spacing cluster."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-03-memory-science",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-03-memory-science"
+  },
+  "counts": {
+    "parsed": 8,
+    "accepted": 8,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Emotional Memory Enhancement",
+      "kebab": "emotional-memory-enhancement",
+      "brief_path": "briefs/custom-03-memory-science/emotional-memory-enhancement.yaml",
+      "expected_seed_filename": "emotional-memory-enhancement-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Errorless Learning",
+      "kebab": "errorless-learning",
+      "brief_path": "briefs/custom-03-memory-science/errorless-learning.yaml",
+      "expected_seed_filename": "errorless-learning-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Forward Testing Effect",
+      "kebab": "forward-testing-effect",
+      "brief_path": "briefs/custom-03-memory-science/forward-testing-effect.yaml",
+      "expected_seed_filename": "forward-testing-effect-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Hippocampal Neocortical Transfer",
+      "kebab": "hippocampal-neocortical-transfer",
+      "brief_path": "briefs/custom-03-memory-science/hippocampal-neocortical-transfer.yaml",
+      "expected_seed_filename": "hippocampal-neocortical-transfer-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Imagination Inflation",
+      "kebab": "imagination-inflation",
+      "brief_path": "briefs/custom-03-memory-science/imagination-inflation.yaml",
+      "expected_seed_filename": "imagination-inflation-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Keyword Mnemonic Method",
+      "kebab": "keyword-mnemonic-method",
+      "brief_path": "briefs/custom-03-memory-science/keyword-mnemonic-method.yaml",
+      "expected_seed_filename": "keyword-mnemonic-method-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Method of Loci",
+      "kebab": "method-of-loci",
+      "brief_path": "briefs/custom-03-memory-science/method-of-loci.yaml",
+      "expected_seed_filename": "method-of-loci-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Mood Congruent Memory",
+      "kebab": "mood-congruent-memory",
+      "brief_path": "briefs/custom-03-memory-science/mood-congruent-memory.yaml",
+      "expected_seed_filename": "mood-congruent-memory-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

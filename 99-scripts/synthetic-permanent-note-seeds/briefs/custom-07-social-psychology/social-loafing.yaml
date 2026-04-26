@@ -1,0 +1,39 @@
+concept: Social Loafing
+domain: social-psychology
+secondary_domains:
+- group-performance
+- motivation
+aliases:
+- Ringelmann effect
+- free riding
+broader:
+- group-performance
+related:
+- diffusion-of-responsibility
+- social-facilitation
+- accountability
+- group-size-effect
+prerequisites:
+- group-dynamics
+confidence: high
+callouts:
+- type: definition
+  title: Social Loafing
+  body: Social Loafing is the empirical finding that individuals exert less effort
+    when their contribution to a collective output is pooled and unidentifiable than
+    when their individual performance is evaluated, generalizing the original Ringelmann
+    rope-pulling observation to cognitive and creative tasks.
+- type: key-claim
+  title: Key claim about Social Loafing
+  body: Social Loafing is moderated by identifiability and task meaningfulness rather
+    than by group size alone; when individual contributions can be measured or when
+    the task is personally engaging and the group is valued, Social Loafing shrinks
+    substantially or reverses into social compensation, suggesting the effect is fundamentally
+    about evaluation potential, not about crowds dampening effort.
+- type: warning
+  title: Common pitfall regarding Social Loafing
+  body: Social Loafing is often invoked as a generic argument against group work,
+    but in tasks requiring genuine integration of expertise the comparison "individual
+    effort vs. group effort per person" is ill-posed; loss of individual effort can
+    be more than offset by gains from coordination and division of labor, so Social
+    Loafing critiques apply mainly to additive tasks where pooling buys no synergy.

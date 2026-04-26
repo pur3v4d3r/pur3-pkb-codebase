@@ -1,0 +1,38 @@
+concept: Grit
+domain: positive-psychology
+secondary_domains:
+- motivation
+- individual-differences
+aliases:
+- perseverance and passion
+- Duckworth Grit
+broader:
+- self-regulation
+- conscientiousness
+related:
+- growth-mindset
+- conscientiousness
+- self-efficacy
+- hope-theory
+prerequisites:
+- self-regulation
+confidence: medium
+callouts:
+- type: definition
+  title: Grit
+  body: Grit is a personality construct introduced by Angela Duckworth defined as
+    the trait-level combination of perseverance of effort and consistency of interest
+    in pursuit of long-term goals, distinguished from short-burst motivation by its
+    emphasis on stability across years.
+- type: key-claim
+  title: Key claim about Grit
+  body: Grit is theoretically distinct from conscientiousness in that it specifically
+    targets the consistency of long-horizon goals, but meta-analytic work has found
+    Grit's incremental predictive validity over conscientiousness to be small, raising
+    questions about whether it earns its status as a separate construct.
+- type: warning
+  title: Common pitfall regarding Grit
+  body: Grit risks becoming a moralized explanation for life outcomes that are largely
+    structural; framing achievement gaps as Grit gaps shifts attention away from material
+    conditions and instructional quality and onto a personal trait that the same research
+    suggests is only modestly modifiable.

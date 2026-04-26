@@ -1,0 +1,35 @@
+concept: Glial Cells and Cognition
+domain: cognitive-neuroscience
+secondary_domains:
+- neuroscience-of-learning
+aliases:
+- neuroglia and cognition
+- astrocyte computation
+broader:
+- cellular-neuroscience
+related:
+- synaptic-plasticity
+- hippocampal-neocortical-transfer
+- neuromodulation-and-learning
+prerequisites:
+- neurotransmission
+confidence: medium
+callouts:
+- type: definition
+  title: Glial Cells and Cognition
+  body: Glial Cells and Cognition refers to the increasingly documented contribution
+    of non-neuronal brain cells — principally astrocytes, oligodendrocytes, and microglia
+    — to information processing, learning, and memory through synapse modulation,
+    myelination, and structural remodelling rather than action-potential signalling.
+- type: key-claim
+  title: Key claim about Glial Cells and Cognition
+  body: 'Glial Cells and Cognition research has overturned the long-standing "support-cell"
+    view of glia: astrocytic calcium signalling actively gates synaptic transmission,
+    and activity-dependent myelination by oligodendrocytes is a learning mechanism
+    that operates on the timing of axonal conduction itself.'
+- type: warning
+  title: Common pitfall regarding Glial Cells and Cognition
+  body: Glial Cells and Cognition is a rapidly moving area, and many strong cognitive
+    claims about glial contributions rest on a small number of preparations or species;
+    readers should treat strong glia-centric reframings of cognition as suggestive
+    rather than as a stable consensus.

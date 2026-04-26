@@ -1,0 +1,35 @@
+concept: Argument from Analogy
+domain: logic
+secondary_domains:
+- critical-thinking
+- reasoning
+aliases:
+- analogical argument
+broader:
+- inductive-reasoning
+- analogical-reasoning
+related:
+- analogical-mapping
+- abductive-reasoning
+- modus-ponens
+prerequisites:
+- argument-analysis
+confidence: high
+callouts:
+- type: definition
+  title: Argument from Analogy
+  body: An Argument from Analogy is an inductive inference in which similarities between
+    two cases on a set of relevant features are used as grounds for concluding that
+    they share an additional feature, with the strength of the argument depending
+    on the number, relevance, and asymmetry of the shared properties.
+- type: key-claim
+  title: Key claim about Argument from Analogy
+  body: An Argument from Analogy is evaluated by the relevance of the mapped features
+    rather than their count, so adding many superficial similarities does not strengthen
+    an analogy whose core mapping fails on the property doing the explanatory work.
+- type: warning
+  title: Common pitfall regarding Argument from Analogy
+  body: An Argument from Analogy can degenerate into a "false analogy" when the source
+    and target differ in a feature that is causally responsible for the property in
+    dispute; spotting this disanalogy is the standard rebuttal move and is more diagnostic
+    than counting matched features.

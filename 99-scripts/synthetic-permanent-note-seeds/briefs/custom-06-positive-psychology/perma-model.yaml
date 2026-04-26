@@ -1,0 +1,37 @@
+concept: PERMA Model
+domain: positive-psychology
+secondary_domains:
+- wellbeing
+- applied-psychology
+aliases:
+- Seligman PERMA
+- PERMA wellbeing model
+broader:
+- wellbeing-theory
+related:
+- psychological-capital
+- savoring
+- hope-theory
+- eudaimonia
+prerequisites:
+- wellbeing
+confidence: medium
+callouts:
+- type: definition
+  title: PERMA Model
+  body: The PERMA Model, proposed by Martin Seligman, frames human flourishing as
+    the cultivation of five distinguishable elements — Positive emotion, Engagement,
+    Relationships, Meaning, and Accomplishment — each of which is independently pursued
+    for its own sake and jointly constitutive of wellbeing.
+- type: key-claim
+  title: Key claim about PERMA Model
+  body: The PERMA Model's central theoretical move is to deny that wellbeing reduces
+    to subjective happiness; by treating engagement, meaning, and accomplishment as
+    components rather than means, it provides a normative framework for interventions
+    that improve flourishing without necessarily increasing positive affect.
+- type: warning
+  title: Common pitfall regarding PERMA Model
+  body: The PERMA Model's five components are derived from theoretical commitments
+    more than from a rigorous factor-analytic separation; empirical work has questioned
+    whether the elements are truly distinct dimensions of wellbeing rather than correlated
+    facets of a general flourishing factor.

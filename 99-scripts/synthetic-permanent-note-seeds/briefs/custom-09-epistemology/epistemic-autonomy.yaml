@@ -1,0 +1,39 @@
+concept: Epistemic Autonomy
+domain: epistemology
+secondary_domains:
+- social-epistemology
+- ethics
+aliases:
+- intellectual autonomy
+- doxastic autonomy
+broader:
+- intellectual-virtue
+related:
+- testimony
+- principle-of-charity
+- epistemic-paternalism
+- expert-deference
+prerequisites:
+- social-epistemology
+confidence: medium
+callouts:
+- type: definition
+  title: Epistemic Autonomy
+  body: Epistemic Autonomy is the capacity and disposition to form beliefs through
+    one's own rational evaluation of evidence rather than by uncritical deference
+    to others, treated by some as a constitutive intellectual virtue and by others
+    as a regulative ideal that must be balanced against epistemic dependence.
+- type: key-claim
+  title: Key claim about Epistemic Autonomy
+  body: 'Epistemic Autonomy is in genuine tension with the empirical fact of cognitive
+    division of labor: expertise is real, life is short, and rational reliance on
+    testimony often produces better-calibrated beliefs than personal reasoning; so
+    Epistemic Autonomy cannot be a blanket norm but must be a context-sensitive virtue
+    that specifies when independent evaluation is appropriate.'
+- type: warning
+  title: Common pitfall regarding Epistemic Autonomy
+  body: Epistemic Autonomy is frequently invoked to justify rejecting expert consensus
+    ("doing my own research"), but the autonomy literature is clear that genuine autonomy
+    requires the meta-cognitive skills to recognize one's own limits; conflating Epistemic
+    Autonomy with credentialed-expertise rejection produces worse beliefs and corrupts
+    the very ideal it claims to invoke.

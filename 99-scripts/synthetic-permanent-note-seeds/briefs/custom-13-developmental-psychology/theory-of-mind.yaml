@@ -1,0 +1,43 @@
+concept: Theory of Mind
+domain: developmental-psychology
+secondary_domains:
+- social-cognition
+- autism-research
+aliases:
+- ToM
+- mentalizing
+- mindreading
+broader:
+- social-cognition
+related:
+- false-belief-task
+- perspective-taking
+- autism
+- pragmatic-inference
+prerequisites:
+- perspective-taking
+confidence: high
+callouts:
+- type: definition
+  title: Theory of Mind
+  body: Theory of Mind is the cognitive capacity to attribute unobservable mental
+    states — beliefs, desires, intentions, knowledge — to oneself and others, and
+    to use those attributions to explain and predict behavior, classically operationalized
+    via the false-belief task in which a child must predict an actor's behavior based
+    on the actor's incorrect belief.
+- type: key-claim
+  title: Key claim about Theory of Mind
+  body: Theory of Mind has been argued to undergo a discrete developmental transition
+    around age four, when children begin to pass standard false-belief tasks; this
+    finding shaped decades of research, but newer implicit measures using anticipatory
+    looking suggest that an earlier non-verbal Theory of Mind may be present in infancy,
+    raising the question of whether the four-year shift reflects representational
+    change or executive-function maturation.
+- type: warning
+  title: Common pitfall regarding Theory of Mind
+  body: 'Theory of Mind is frequently treated as a unitary trait that one either has
+    or lacks, but the construct fractionates: cognitive perspective-taking, affective
+    empathy, and spontaneous mentalizing dissociate empirically, and labeling autistic
+    individuals as having "no Theory of Mind" misrepresents a heterogeneous profile
+    in which some Theory of Mind components are intact while others differ from neurotypical
+    patterns.'

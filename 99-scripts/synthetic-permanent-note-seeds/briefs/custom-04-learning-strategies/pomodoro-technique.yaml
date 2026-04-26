@@ -1,0 +1,36 @@
+concept: Pomodoro Technique
+domain: learning-science
+secondary_domains:
+- study-strategy
+- productivity
+- attention
+aliases:
+- pomodoro method
+- 25/5 technique
+broader:
+- time-management-technique
+related:
+- attention-restoration-theory
+- deep-work
+- leitner-system
+prerequisites:
+- attention
+confidence: high
+callouts:
+- type: definition
+  title: Pomodoro Technique
+  body: The Pomodoro Technique is a time-management method in which work is performed
+    in fixed timed intervals — traditionally 25 minutes — separated by short breaks,
+    with longer breaks after a set number of intervals, intended to bound the cost
+    of focused effort and reduce procrastination.
+- type: key-claim
+  title: Key claim about Pomodoro Technique
+  body: 'The Pomodoro Technique works less by optimizing attentional capacity than
+    by lowering the activation threshold to begin work: committing to a single short
+    interval is psychologically cheaper than committing to a vague stretch of "studying."'
+- type: warning
+  title: Common pitfall regarding Pomodoro Technique
+  body: The Pomodoro Technique can become a form of productivity theatre when the
+    timer becomes the goal; checking off pomodoros without tracking task progress
+    lets the technique substitute completed intervals for completed work, especially
+    on tasks that demand longer continuous concentration.

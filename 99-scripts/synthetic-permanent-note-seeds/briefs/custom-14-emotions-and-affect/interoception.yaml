@@ -1,0 +1,42 @@
+concept: Interoception
+domain: emotion
+secondary_domains:
+- neuroscience
+- affective-science
+aliases:
+- interoceptive awareness
+- visceral perception
+broader:
+- perception
+related:
+- emotional-granularity
+- alexithymia
+- predictive-processing
+- insula
+prerequisites:
+- perception
+confidence: high
+callouts:
+- type: definition
+  title: Interoception
+  body: Interoception is the perception of the internal state of the body — heartbeat,
+    respiration, gut sensations, temperature, fatigue — and is theoretically partitioned
+    into interoceptive accuracy (objective task performance), interoceptive sensibility
+    (self-reported attention to bodily signals), and interoceptive awareness (the
+    metacognitive correspondence between the two).
+- type: key-claim
+  title: Key claim about Interoception
+  body: 'Interoception is now widely argued to be the bodily substrate of subjective
+    emotional experience: theories from Damasio''s somatic markers to Barrett''s constructed
+    emotion treat affective feelings as the brain''s interpretation of Interoceptive
+    signals, predicting that disorders of Interoception should produce characteristic
+    affective and decision-making disturbances, a prediction supported by anxiety,
+    depression, and eating-disorder research.'
+- type: warning
+  title: Common pitfall regarding Interoception
+  body: Interoception's three components do not move together, and treating "interoception"
+    as a single ability is the most common error in the literature; high interoceptive
+    sensibility (paying a lot of attention to the body) without accuracy is in fact
+    a vulnerability factor for anxiety and somatic symptom disorders, so Interoception
+    interventions need to target the awareness-accuracy alignment rather than simply
+    increase attention to the body.

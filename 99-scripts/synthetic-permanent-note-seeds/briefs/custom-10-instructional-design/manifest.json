@@ -1,0 +1,72 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-10-instructional-design",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-10-instructional-design.md",
+    "notes": "Custom seeding batch 10: instructional-design constructs."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-10-instructional-design",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-10-instructional-design"
+  },
+  "counts": {
+    "parsed": 8,
+    "accepted": 8,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "ARCS Motivation Model",
+      "kebab": "arcs-motivation-model",
+      "brief_path": "briefs/custom-10-instructional-design/arcs-motivation-model.yaml",
+      "expected_seed_filename": "arcs-motivation-model-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Competency Based Education",
+      "kebab": "competency-based-education",
+      "brief_path": "briefs/custom-10-instructional-design/competency-based-education.yaml",
+      "expected_seed_filename": "competency-based-education-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Elaborative Feedback",
+      "kebab": "elaborative-feedback",
+      "brief_path": "briefs/custom-10-instructional-design/elaborative-feedback.yaml",
+      "expected_seed_filename": "elaborative-feedback-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Flipped Classroom",
+      "kebab": "flipped-classroom",
+      "brief_path": "briefs/custom-10-instructional-design/flipped-classroom.yaml",
+      "expected_seed_filename": "flipped-classroom-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Game Based Learning",
+      "kebab": "game-based-learning",
+      "brief_path": "briefs/custom-10-instructional-design/game-based-learning.yaml",
+      "expected_seed_filename": "game-based-learning-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Gamification",
+      "kebab": "gamification",
+      "brief_path": "briefs/custom-10-instructional-design/gamification.yaml",
+      "expected_seed_filename": "gamification-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Peer Instruction",
+      "kebab": "peer-instruction",
+      "brief_path": "briefs/custom-10-instructional-design/peer-instruction.yaml",
+      "expected_seed_filename": "peer-instruction-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Summative Assessment",
+      "kebab": "summative-assessment",
+      "brief_path": "briefs/custom-10-instructional-design/summative-assessment.yaml",
+      "expected_seed_filename": "summative-assessment-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

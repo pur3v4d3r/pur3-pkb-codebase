@@ -1,0 +1,38 @@
+concept: Eriksons Psychosocial Stages
+domain: developmental-psychology
+secondary_domains:
+- personality-psychology
+- lifespan-development
+aliases:
+- Erikson psychosocial development
+- eight stages of man
+broader:
+- stage-theories-of-development
+related:
+- identity-formation
+- generativity
+- psychoanalytic-theory
+- lifespan-development
+prerequisites:
+- psychoanalytic-theory
+confidence: medium
+callouts:
+- type: definition
+  title: Eriksons Psychosocial Stages
+  body: Eriksons Psychosocial Stages is the eight-stage lifespan model proposed by
+    Erik Erikson in which personality development unfolds through a series of normative
+    crises — from trust versus mistrust in infancy to integrity versus despair in
+    old age — each defined by a tension whose resolution shapes ego strength.
+- type: key-claim
+  title: Key claim about Eriksons Psychosocial Stages
+  body: Eriksons Psychosocial Stages broke from orthodox Freudian theory by extending
+    development beyond adolescence and reframing each stage around a social rather
+    than purely sexual conflict, locating personality formation in the negotiation
+    between the individual ego and culturally-mediated demands across the entire lifespan.
+- type: warning
+  title: Common pitfall regarding Eriksons Psychosocial Stages
+  body: Eriksons Psychosocial Stages has weak empirical support for its strict stage
+    sequence and culturally-loaded content; the identity-versus-role-confusion stage
+    in particular reflects mid-twentieth-century Western adolescent experience, and
+    cross-cultural research finds that the timing and even the existence of Erikson's
+    stages varies substantially across societies.

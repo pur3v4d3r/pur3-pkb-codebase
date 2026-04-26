@@ -1,0 +1,40 @@
+concept: Object Permanence
+domain: developmental-psychology
+secondary_domains:
+- cognitive-development
+- infant-cognition
+aliases:
+- Piaget object permanence
+- A-not-B error
+broader:
+- piagetian-stages
+- sensorimotor-stage
+related:
+- a-not-b-error
+- core-knowledge
+- violation-of-expectation
+- working-memory
+prerequisites:
+- sensorimotor-stage
+confidence: high
+callouts:
+- type: definition
+  title: Object Permanence
+  body: Object Permanence is the understanding that objects continue to exist when
+    they are no longer perceptible — out of sight, hearing, or touch — identified
+    by Piaget as a major sensorimotor-stage achievement attained gradually across
+    the first two years of life.
+- type: key-claim
+  title: Key claim about Object Permanence
+  body: 'Subsequent infant-cognition research using violation-of-expectation paradigms
+    has dramatically revised the Object Permanence timeline: looking-time studies
+    suggest infants as young as three to four months represent occluded objects, indicating
+    that Piaget''s reaching-based tasks underestimated competence by conflating Object
+    Permanence with the motor and inhibitory demands of search.'
+- type: warning
+  title: Common pitfall regarding Object Permanence
+  body: The mature Object Permanence literature is now divided over whether early
+    looking-time successes reflect genuine conceptual representation of hidden objects
+    or low-level perceptual mechanisms; treating Object Permanence as either fully
+    present at three months or fully absent before eight months ignores the dissociation
+    between recognition and action that the data actually show.

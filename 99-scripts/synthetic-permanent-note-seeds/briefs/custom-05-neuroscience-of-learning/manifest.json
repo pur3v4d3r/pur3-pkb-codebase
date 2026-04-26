@@ -1,0 +1,60 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-05-neuroscience-of-learning",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-05-neuroscience-of-learning.md",
+    "notes": "Custom seeding batch 05: neuroscientific substrates of learning and memory."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-05-neuroscience-of-learning",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-05-neuroscience-of-learning"
+  },
+  "counts": {
+    "parsed": 6,
+    "accepted": 6,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Acetylcholine and Memory",
+      "kebab": "acetylcholine-and-memory",
+      "brief_path": "briefs/custom-05-neuroscience-of-learning/acetylcholine-and-memory.yaml",
+      "expected_seed_filename": "acetylcholine-and-memory-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Amygdala and Learning",
+      "kebab": "amygdala-and-learning",
+      "brief_path": "briefs/custom-05-neuroscience-of-learning/amygdala-and-learning.yaml",
+      "expected_seed_filename": "amygdala-and-learning-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Glial Cells and Cognition",
+      "kebab": "glial-cells-and-cognition",
+      "brief_path": "briefs/custom-05-neuroscience-of-learning/glial-cells-and-cognition.yaml",
+      "expected_seed_filename": "glial-cells-and-cognition-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Mirror Neurons",
+      "kebab": "mirror-neurons",
+      "brief_path": "briefs/custom-05-neuroscience-of-learning/mirror-neurons.yaml",
+      "expected_seed_filename": "mirror-neurons-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Neuromodulation and Learning",
+      "kebab": "neuromodulation-and-learning",
+      "brief_path": "briefs/custom-05-neuroscience-of-learning/neuromodulation-and-learning.yaml",
+      "expected_seed_filename": "neuromodulation-and-learning-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Norepinephrine and Learning",
+      "kebab": "norepinephrine-and-learning",
+      "brief_path": "briefs/custom-05-neuroscience-of-learning/norepinephrine-and-learning.yaml",
+      "expected_seed_filename": "norepinephrine-and-learning-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

@@ -1,0 +1,41 @@
+concept: Speech Acts
+domain: language-and-cognition
+secondary_domains:
+- pragmatics
+- philosophy-of-language
+aliases:
+- Austin speech act theory
+- illocutionary acts
+- Searle speech acts
+broader:
+- pragmatics
+related:
+- grice-maxims
+- illocutionary-force
+- performative-utterances
+- pragmatic-inference
+prerequisites:
+- pragmatics
+confidence: high
+callouts:
+- type: definition
+  title: Speech Acts
+  body: Speech Acts, as analyzed by J. L. Austin and elaborated by John Searle, are
+    utterances understood as actions — promising, ordering, warning, declaring — decomposed
+    into the locutionary act (saying something), the illocutionary act (the action
+    performed in saying it), and the perlocutionary act (the effect produced by saying
+    it).
+- type: key-claim
+  title: Key claim about Speech Acts
+  body: 'Speech Acts theory''s pivotal claim is that meaning is not exhausted by truth-conditions:
+    many utterances such as "I promise" or "I name this ship" do not describe the
+    world but constitute social actions whose felicity depends on conventional and
+    institutional conditions, dissolving the descriptive-fallacy assumption that statements
+    are paradigmatic of language use.'
+- type: warning
+  title: Common pitfall regarding Speech Acts
+  body: Speech Acts taxonomy has been criticized as culturally and institutionally
+    bound; Searle's five-fold classification presupposes Western legal and social
+    conventions for declarations, commissives, and directives, and applying Speech
+    Acts categories cross-culturally without adjustment risks importing those conventions
+    as if they were features of language itself.

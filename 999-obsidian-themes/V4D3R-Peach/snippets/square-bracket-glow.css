@@ -234,7 +234,7 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --purple-shadow: rgb(237, 94, 33);
+  --purple-shadow: rgb(248, 78, 0);
   --bracket-shadow: 0 0 3px var(--purple-shadow), 0 0 5px var(--purple-shadow);
 }
 

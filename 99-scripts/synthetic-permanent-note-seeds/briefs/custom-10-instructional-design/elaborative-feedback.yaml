@@ -1,0 +1,41 @@
+concept: Elaborative Feedback
+domain: instructional-design
+secondary_domains:
+- learning-theory
+- assessment
+aliases:
+- elaborative formative feedback
+- explanatory feedback
+broader:
+- formative-feedback
+related:
+- retrieval-practice
+- deliberate-practice
+- formative-assessment
+- knowledge-of-results
+prerequisites:
+- formative-assessment
+confidence: high
+callouts:
+- type: definition
+  title: Elaborative Feedback
+  body: Elaborative Feedback is feedback that, in addition to indicating whether a
+    response is correct or incorrect, explains the underlying principle, identifies
+    the source of the error, or models the correct reasoning process — going beyond
+    simple knowledge-of-results to support conceptual change.
+- type: key-claim
+  title: Key claim about Elaborative Feedback
+  body: Elaborative Feedback typically outperforms verification-only ("right/wrong")
+    feedback for transfer and conceptual learning, but the meta-analytic record is
+    more nuanced for retention of well-defined facts, where elaborative content can
+    sometimes interfere with consolidation; the practical implication is that Elaborative
+    Feedback should be calibrated to the nature of the learning objective rather than
+    applied uniformly.
+- type: warning
+  title: Common pitfall regarding Elaborative Feedback
+  body: Elaborative Feedback can become counterproductive when delivered in volumes
+    that exceed working-memory capacity, when delivered immediately for procedural
+    skills (where delayed feedback often promotes better transfer), or when it provides
+    the answer in a way that bypasses the desirable difficulty of generation; "more
+    elaboration is better" is not a defensible reading of the Elaborative Feedback
+    evidence.

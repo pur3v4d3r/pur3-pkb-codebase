@@ -1,0 +1,38 @@
+concept: Amygdala and Learning
+domain: neuroscience-of-learning
+secondary_domains:
+- cognitive-neuroscience
+- emotion
+- memory-science
+aliases:
+- amygdala memory modulation
+- amygdala fear learning
+broader:
+- emotional-memory-enhancement
+related:
+- emotional-memory-enhancement
+- fear-conditioning
+- mood-congruent-memory
+prerequisites:
+- limbic-system
+- neurotransmission
+confidence: high
+callouts:
+- type: definition
+  title: Amygdala and Learning
+  body: Amygdala and Learning refers to the role of the amygdaloid complex — particularly
+    the basolateral nucleus — in modulating the consolidation of memories for emotionally
+    arousing events, primarily through stress-hormone-driven enhancement of hippocampal
+    and neocortical encoding.
+- type: key-claim
+  title: Key claim about Amygdala and Learning
+  body: Amygdala and Learning research shows that the amygdala does not store explicit
+    emotional memories itself; rather, it tags concurrent activity in other memory
+    systems as "important," producing the well-attested enhancement of emotional content
+    over neutral content in long-term retention.
+- type: warning
+  title: Common pitfall regarding Amygdala and Learning
+  body: Amygdala and Learning is often equated with fear learning specifically, but
+    the same modulatory mechanism enhances memory for positive arousing events; framing
+    the amygdala as a "fear centre" misrepresents the broader role of arousal-driven
+    consolidation.

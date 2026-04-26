@@ -1,0 +1,37 @@
+concept: Hedonic Adaptation
+domain: positive-psychology
+secondary_domains:
+- emotion
+- decision-science
+aliases:
+- hedonic treadmill
+- adaptation-level theory
+broader:
+- emotion-regulation
+related:
+- affective-forecasting
+- peak-end-rule
+- savoring
+prerequisites:
+- emotion
+confidence: high
+callouts:
+- type: definition
+  title: Hedonic Adaptation
+  body: Hedonic Adaptation is the empirical regularity that affective responses to
+    recurring stimuli — both pleasant and unpleasant — diminish over time as the experience
+    becomes a baseline against which subsequent variation is judged, returning subjective
+    wellbeing toward a stable set point.
+- type: key-claim
+  title: Key claim about Hedonic Adaptation
+  body: Hedonic Adaptation explains why major life events — winning a lottery, acquiring
+    a chronic illness — produce smaller and more transient changes in long-run wellbeing
+    than affective forecasts predict, because the adaptation mechanism is precisely
+    what the forecaster fails to anticipate.
+- type: warning
+  title: Common pitfall regarding Hedonic Adaptation
+  body: Hedonic Adaptation is sometimes used to justify resignation to bad circumstances,
+    but the rate and ceiling of adaptation differ markedly across stimulus types;
+    chronic interpersonal stress, noise, and financial insecurity show much weaker
+    adaptation than discrete life events, and the literature is misused when these
+    distinctions are flattened.

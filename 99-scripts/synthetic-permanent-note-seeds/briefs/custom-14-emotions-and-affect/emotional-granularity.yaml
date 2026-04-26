@@ -1,0 +1,39 @@
+concept: Emotional Granularity
+domain: emotion
+secondary_domains:
+- emotion-regulation
+- affective-science
+aliases:
+- emotion differentiation
+- fine-grained emotion experience
+broader:
+- emotion-regulation
+related:
+- affect-labeling
+- alexithymia
+- constructed-emotion
+- interoception
+prerequisites:
+- emotion
+confidence: high
+callouts:
+- type: definition
+  title: Emotional Granularity
+  body: Emotional Granularity is the degree to which an individual experiences and
+    represents emotional states with specificity — distinguishing, for example, "frustrated"
+    from "irritated" from "resentful" — rather than collapsing them into broad valence-arousal
+    categories such as "bad" or "upset."
+- type: key-claim
+  title: Key claim about Emotional Granularity
+  body: Lisa Feldman Barrett's research program has shown that high Emotional Granularity
+    is associated with more flexible emotion regulation, lower psychopathology, and
+    better health outcomes, and her constructed-emotion theory frames Emotional Granularity
+    as the conceptual vocabulary the brain uses to make predictions about its own
+    affective states.
+- type: warning
+  title: Common pitfall regarding Emotional Granularity
+  body: Emotional Granularity is sometimes promoted as if simply learning more emotion
+    words automatically increases it, but the construct depends on differentiated
+    experience, not differentiated vocabulary; vocabulary expansion without corresponding
+    interoceptive practice can produce the appearance of granularity in self-report
+    while leaving the underlying representational structure unchanged.

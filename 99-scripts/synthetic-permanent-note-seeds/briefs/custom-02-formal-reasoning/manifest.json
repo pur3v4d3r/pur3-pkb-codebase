@@ -1,0 +1,48 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-02-formal-reasoning",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-02-formal-reasoning.md",
+    "notes": "Custom seeding batch 02: core formal-reasoning patterns. Companion to the\nlogical-fallacies batch; supplies the positive inferential primitives."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-02-formal-reasoning",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-02-formal-reasoning"
+  },
+  "counts": {
+    "parsed": 4,
+    "accepted": 4,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Argument from Analogy",
+      "kebab": "argument-from-analogy",
+      "brief_path": "briefs/custom-02-formal-reasoning/argument-from-analogy.yaml",
+      "expected_seed_filename": "argument-from-analogy-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Modus Ponens",
+      "kebab": "modus-ponens",
+      "brief_path": "briefs/custom-02-formal-reasoning/modus-ponens.yaml",
+      "expected_seed_filename": "modus-ponens-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Modus Tollens",
+      "kebab": "modus-tollens",
+      "brief_path": "briefs/custom-02-formal-reasoning/modus-tollens.yaml",
+      "expected_seed_filename": "modus-tollens-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Statistical Syllogism",
+      "kebab": "statistical-syllogism",
+      "brief_path": "briefs/custom-02-formal-reasoning/statistical-syllogism.yaml",
+      "expected_seed_filename": "statistical-syllogism-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

@@ -1,0 +1,335 @@
+{
+  "vault_root": "D:\\10_pur3v4d3r's-vault",
+  "theme_source": ".obsidian\\themes\\V4D3R Crimson",
+  "snippets_source": ".obsidian\\snippets",
+  "output_dir": "999-obsidian-themes",
+  "source_hue": null,
+  "sat_min": 0.12,
+  "hue_tolerance": 60.0,
+  "preserve_patterns": [
+    "--[\\w-]*-?(success|valid|positive)\\b",
+    "--[\\w-]*-?(warning|warn|caution)\\b",
+    "--[\\w-]*-?(error|danger|fail|invalid|negative)\\b",
+    "--[\\w-]*-?(info|notice)\\b"
+  ],
+  "schemes": [
+    {
+      "name": "Teal",
+      "slug": "teal",
+      "target_hue": 190.7,
+      "description": "Dark theme with vibrant Teal, Black, and Grey palette"
+    },
+    {
+      "name": "Purple",
+      "slug": "purple",
+      "target_hue": 300.7,
+      "description": "Dark theme with vibrant Purple, Black, and Grey palette"
+    },
+    {
+      "name": "Lime",
+      "slug": "lime",
+      "target_hue": 131.4,
+      "description": "Dark theme with vibrant Lime Green, Black, and Grey palette",
+      "chroma_mult": 1.1
+    },
+    {
+      "name": "Crimson Gold",
+      "slug": "crimson-gold",
+      "target_hue": 84.1,
+      "description": "Dark theme with Crimson and Gold palette",
+      "secondary_hue": 29.2
+    },
+    {
+      "name": "Blue",
+      "slug": "blue",
+      "target_hue": 260.3,
+      "description": "Dark theme with vibrant Blue, Black, and Grey palette"
+    },
+    {
+      "name": "Orange",
+      "slug": "orange",
+      "target_hue": 44.8,
+      "description": "Dark theme with vibrant Orange, Black, and Grey palette",
+      "chroma_mult": 1.05
+    },
+    {
+      "name": "Pink",
+      "slug": "pink",
+      "target_hue": 2.5,
+      "description": "Dark theme with vibrant Pink, Black, and Grey palette"
+    },
+    {
+      "name": "Emerald",
+      "slug": "emerald",
+      "target_hue": 155.1,
+      "description": "Dark theme with Emerald Green, Black, and Grey palette"
+    },
+    {
+      "name": "Amber",
+      "slug": "amber",
+      "target_hue": 69.1,
+      "description": "Dark theme with Amber, Black, and Grey palette",
+      "chroma_mult": 1.1
+    },
+    {
+      "name": "Cyan",
+      "slug": "cyan",
+      "target_hue": 224.3,
+      "description": "Dark theme with vibrant Cyan, Black, and Grey palette",
+      "chroma_mult": 1.05
+    },
+    {
+      "name": "Magenta",
+      "slug": "magenta",
+      "target_hue": 328.4,
+      "description": "Dark theme with vibrant Magenta, Black, and Grey palette",
+      "chroma_mult": 1.05
+    },
+    {
+      "name": "Yellow",
+      "slug": "yellow",
+      "target_hue": 109.8,
+      "description": "Dark theme with vibrant Yellow, Black, and Grey palette",
+      "chroma_mult": 1.1
+    },
+    {
+      "name": "Green",
+      "slug": "green",
+      "target_hue": 142.5,
+      "description": "Dark theme with vibrant Green, Black, and Grey palette"
+    },
+    {
+      "name": "Red",
+      "slug": "red",
+      "target_hue": 29.2,
+      "description": "Dark theme with vibrant Red, Black, and Grey palette"
+    },
+    {
+      "name": "Indigo",
+      "slug": "indigo",
+      "target_hue": 265.7,
+      "description": "Dark theme with vibrant Indigo, Black, and Grey palette"
+    },
+    {
+      "name": "Violet",
+      "slug": "violet",
+      "target_hue": 293.6,
+      "description": "Dark theme with vibrant Violet, Black, and Grey palette"
+    },
+    {
+      "name": "Golden",
+      "slug": "golden",
+      "target_hue": 84.1,
+      "description": "Dark theme with vibrant Golden, Black, and Grey palette",
+      "chroma_mult": 1.1
+    },
+    {
+      "name": "Rose",
+      "slug": "rose",
+      "target_hue": 20.8,
+      "description": "Dark theme with vibrant Rose, Black, and Grey palette"
+    },
+    {
+      "name": "Scarlet",
+      "slug": "scarlet",
+      "target_hue": 29.8,
+      "description": "Dark theme with vivid Scarlet, Black, and Grey palette",
+      "chroma_mult": 1.08
+    },
+    {
+      "name": "Rust",
+      "slug": "rust",
+      "target_hue": 30.9,
+      "description": "Dark theme with earthy Rust Red, Black, and Grey palette",
+      "chroma_mult": 0.85,
+      "lightness_offset": -0.04
+    },
+    {
+      "name": "Coral",
+      "slug": "coral",
+      "target_hue": 32.6,
+      "description": "Dark theme with warm Coral, Black, and Grey palette",
+      "chroma_mult": 1.05
+    },
+    {
+      "name": "Peach",
+      "slug": "peach",
+      "target_hue": 37.0,
+      "description": "Dark theme with soft Peach, Black, and Grey palette",
+      "chroma_mult": 0.85,
+      "lightness_offset": 0.03
+    },
+    {
+      "name": "Copper",
+      "slug": "copper",
+      "target_hue": 41.1,
+      "description": "Dark theme with warm Copper, Black, and Grey palette",
+      "chroma_mult": 0.88
+    },
+    {
+      "name": "Burgundy",
+      "slug": "burgundy",
+      "target_hue": 13.2,
+      "description": "Dark theme with deep Burgundy Wine, Black, and Grey palette",
+      "chroma_mult": 0.78,
+      "lightness_offset": -0.05
+    },
+    {
+      "name": "Maroon",
+      "slug": "maroon",
+      "target_hue": 26.4,
+      "description": "Dark theme with deep Maroon, Black, and Grey palette",
+      "chroma_mult": 1.1,
+      "lightness_offset": -0.03
+    },
+    {
+      "name": "Chartreuse",
+      "slug": "chartreuse",
+      "target_hue": 134.9,
+      "description": "Dark theme with electric Chartreuse, Black, and Grey palette",
+      "chroma_mult": 1.12
+    },
+    {
+      "name": "Sage",
+      "slug": "sage",
+      "target_hue": 141.0,
+      "description": "Dark theme with muted Sage Green, Black, and Grey palette",
+      "chroma_mult": 0.68
+    },
+    {
+      "name": "Neon Green",
+      "slug": "neon-green",
+      "target_hue": 142.0,
+      "description": "Dark theme with electric Neon Green, Black, and Grey palette",
+      "chroma_mult": 1.2
+    },
+    {
+      "name": "Forest",
+      "slug": "forest",
+      "target_hue": 143.1,
+      "description": "Dark theme with deep Forest Green, Black, and Grey palette",
+      "chroma_mult": 0.82,
+      "lightness_offset": -0.04
+    },
+    {
+      "name": "Mint",
+      "slug": "mint",
+      "target_hue": 149.8,
+      "description": "Dark theme with fresh Mint Green, Black, and Grey palette",
+      "chroma_mult": 0.9,
+      "lightness_offset": 0.03
+    },
+    {
+      "name": "Turquoise",
+      "slug": "turquoise",
+      "target_hue": 178.3,
+      "description": "Dark theme with vivid Turquoise, Black, and Grey palette"
+    },
+    {
+      "name": "Sky",
+      "slug": "sky",
+      "target_hue": 242.0,
+      "description": "Dark theme with bright Sky Blue, Black, and Grey palette",
+      "chroma_mult": 0.88,
+      "lightness_offset": 0.04
+    },
+    {
+      "name": "Azure",
+      "slug": "azure",
+      "target_hue": 251.8,
+      "description": "Dark theme with vibrant Azure Blue, Black, and Grey palette"
+    },
+    {
+      "name": "Steel",
+      "slug": "steel",
+      "target_hue": 256.3,
+      "description": "Dark theme with cool Steel Blue, Black, and Grey palette",
+      "chroma_mult": 0.65
+    },
+    {
+      "name": "Navy",
+      "slug": "navy",
+      "target_hue": 263.3,
+      "description": "Dark theme with deep Navy Blue, Black, and Grey palette",
+      "chroma_mult": 0.82,
+      "lightness_offset": -0.05
+    },
+    {
+      "name": "Cobalt",
+      "slug": "cobalt",
+      "target_hue": 264.2,
+      "description": "Dark theme with deep Cobalt Blue, Black, and Grey palette",
+      "chroma_mult": 1.05
+    },
+    {
+      "name": "Periwinkle",
+      "slug": "periwinkle",
+      "target_hue": 264.1,
+      "description": "Dark theme with soft Periwinkle Blue-Violet, Black, and Grey palette",
+      "chroma_mult": 0.85
+    },
+    {
+      "name": "Lavender",
+      "slug": "lavender",
+      "target_hue": 268.8,
+      "description": "Dark theme with soft Lavender, Black, and Grey palette",
+      "chroma_mult": 0.75
+    },
+    {
+      "name": "Deep Purple",
+      "slug": "deep-purple",
+      "target_hue": 282.8,
+      "description": "Dark theme with deep Royal Purple, Black, and Grey palette",
+      "chroma_mult": 1.08
+    },
+    {
+      "name": "Lilac",
+      "slug": "lilac",
+      "target_hue": 310.7,
+      "description": "Dark theme with soft Lilac, Black, and Grey palette",
+      "chroma_mult": 0.78
+    },
+    {
+      "name": "Orchid",
+      "slug": "orchid",
+      "target_hue": 320.6,
+      "description": "Dark theme with vibrant Orchid, Black, and Grey palette",
+      "chroma_mult": 1.02
+    },
+    {
+      "name": "Fuchsia",
+      "slug": "fuchsia",
+      "target_hue": 340.4,
+      "description": "Dark theme with electric Fuchsia, Black, and Grey palette",
+      "chroma_mult": 1.08
+    },
+    {
+      "name": "Hot Pink",
+      "slug": "hot-pink",
+      "target_hue": 352.3,
+      "description": "Dark theme with vivid Hot Pink, Black, and Grey palette",
+      "chroma_mult": 1.05
+    },
+    {
+      "name": "Ocean",
+      "slug": "ocean",
+      "target_hue": 231.6,
+      "description": "Dark theme with Ocean Blue dual-tone, Black, and Grey palette",
+      "secondary_hue": 260.3
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora",
+      "target_hue": 160.1,
+      "description": "",
+      "secondary_hue": 293.6
+    },
+    {
+      "name": "Sunset",
+      "slug": "sunset",
+      "target_hue": 53.0,
+      "description": "",
+      "secondary_hue": 15.5
+    }
+  ]
+}

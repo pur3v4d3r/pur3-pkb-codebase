@@ -1,0 +1,45 @@
+concept: Free Energy Principle
+domain: cognitive-science
+secondary_domains:
+- computational-neuroscience
+- theoretical-biology
+aliases:
+- FEP
+- Friston free energy principle
+- variational free energy
+broader:
+- predictive-processing
+related:
+- active-inference
+- predictive-coding
+- bayesian-brain
+- markov-blankets
+prerequisites:
+- predictive-processing
+- bayesian-inference
+confidence: medium
+callouts:
+- type: definition
+  title: Free Energy Principle
+  body: The Free Energy Principle, formulated by Karl Friston, is the claim that any
+    self-organizing system at non-equilibrium steady state with its environment must,
+    by mathematical necessity, act so as to minimize a quantity called variational
+    free energy — an information-theoretic upper bound on the surprise of its sensory
+    observations under its internal generative model.
+- type: key-claim
+  title: Key claim about Free Energy Principle
+  body: 'The Free Energy Principle attempts to derive the existence of perception,
+    action, and learning from a single principle: in this framing, the brain does
+    not minimize free energy as one objective among others, but is the kind of thing
+    that exists at all only because it minimizes free energy, making the principle
+    a candidate for a unified theory of biological self-organization rather than merely
+    of neural function.'
+- type: warning
+  title: Common pitfall regarding Free Energy Principle
+  body: The Free Energy Principle is contested both mathematically and methodologically;
+    critics including Andy Clark, Jakob Hohwy, and others have argued that the principle
+    is either trivially true (because variational free energy can be defined post-hoc
+    to fit any system) or substantively false (because real brains do not implement
+    the assumed Markov-blanket structure), and the literature is still working out
+    which interpretation of the Free Energy Principle, if any, makes empirically testable
+    predictions.

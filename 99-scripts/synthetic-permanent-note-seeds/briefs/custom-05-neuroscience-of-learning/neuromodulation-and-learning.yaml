@@ -1,0 +1,37 @@
+concept: Neuromodulation and Learning
+domain: neuroscience-of-learning
+secondary_domains:
+- cognitive-neuroscience
+- memory-science
+aliases:
+- neuromodulatory systems in learning
+broader:
+- synaptic-plasticity
+related:
+- acetylcholine-and-memory
+- norepinephrine-and-learning
+- dopamine-and-reward
+- amygdala-and-learning
+prerequisites:
+- neurotransmission
+- synaptic-plasticity
+confidence: high
+callouts:
+- type: definition
+  title: Neuromodulation and Learning
+  body: Neuromodulation and Learning refers to the role of slow-acting, broadly projecting
+    neurotransmitter systems — dopaminergic, noradrenergic, cholinergic, and serotonergic
+    — in setting the gain on synaptic plasticity, so that the same Hebbian event produces
+    more or less durable change depending on the modulatory state at encoding.
+- type: key-claim
+  title: Key claim about Neuromodulation and Learning
+  body: Neuromodulation and Learning frames learning rate as a context-dependent variable
+    rather than a fixed property of synapses; arousal, novelty, reward, and uncertainty
+    selectively bias which experiences are tagged for long-term storage and which
+    decay as background.
+- type: warning
+  title: Common pitfall regarding Neuromodulation and Learning
+  body: Neuromodulation and Learning is often summarized as "neuromodulators turn
+    plasticity on," but each system has antagonistic and time-locked effects depending
+    on receptor subtype and circuit; lumping them together hides the functional dissociations
+    the literature actually requires.

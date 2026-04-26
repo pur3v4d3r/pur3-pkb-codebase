@@ -1,0 +1,38 @@
+concept: Decision Fatigue
+domain: behavioral-economics
+secondary_domains:
+- self-regulation
+- judgment
+aliases:
+- decision depletion
+- choice fatigue
+broader:
+- self-regulation
+related:
+- ego-depletion
+- default-bias
+- choice-overload
+- willpower
+prerequisites:
+- self-regulation
+confidence: low
+callouts:
+- type: definition
+  title: Decision Fatigue
+  body: Decision Fatigue is the proposed phenomenon that the quality of decisions
+    deteriorates after a long sequence of choices, manifesting as increased reliance
+    on defaults, greater impulsivity, and avoidance of further deliberate choice,
+    and theoretically grounded in a limited-resource model of executive control.
+- type: key-claim
+  title: Key claim about Decision Fatigue
+  body: Decision Fatigue gained prominence through observational findings such as
+    parole judges granting fewer favorable rulings later in sessions, with the interpretation
+    that depleted decision-makers default to the status-quo option (denial), making
+    sequence position a non-trivial determinant of life-altering decisions.
+- type: warning
+  title: Common pitfall regarding Decision Fatigue
+  body: Decision Fatigue and the closely related ego-depletion construct have weathered
+    serious replication failures and methodological critiques; the parole-judge result
+    has been challenged on grounds of case-ordering confounds, and large-scale registered
+    replications of ego depletion have produced near-zero effects, so confident clinical
+    or policy recommendations grounded in Decision Fatigue are currently unwarranted.

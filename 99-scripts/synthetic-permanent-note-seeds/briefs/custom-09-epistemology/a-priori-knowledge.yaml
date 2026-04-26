@@ -1,0 +1,39 @@
+concept: A Priori Knowledge
+domain: epistemology
+secondary_domains:
+- philosophy-of-mind
+- philosophy-of-mathematics
+aliases:
+- a priori
+- non-empirical knowledge
+broader:
+- theory-of-knowledge
+related:
+- analytic-synthetic-distinction
+- rationalism
+- empiricism
+- necessary-truth
+prerequisites:
+- theory-of-knowledge
+confidence: high
+callouts:
+- type: definition
+  title: A Priori Knowledge
+  body: A Priori Knowledge is knowledge whose justification is independent of sense
+    experience — typically exemplified by mathematical and logical truths and by conceptual
+    analyses — as contrasted with a posteriori knowledge whose justification requires
+    empirical investigation.
+- type: key-claim
+  title: Key claim about A Priori Knowledge
+  body: A Priori Knowledge is not equivalent to innate knowledge or to certainty;
+    it is a thesis about the source of justification, which is why mathematical truths
+    discovered late in life through reasoning still count as A Priori, and why fallibilist
+    accounts now treat much A Priori knowledge as defeasible despite its non-empirical
+    warrant.
+- type: warning
+  title: Common pitfall regarding A Priori Knowledge
+  body: Quine's "Two Dogmas of Empiricism" challenges the very analytic-synthetic
+    distinction on which standard accounts of A Priori Knowledge depend, arguing that
+    no statement is immune to revision in light of recalcitrant experience; the contemporary
+    debate has not settled this challenge, so treating A Priori Knowledge as an unproblematic
+    category papers over a live foundational dispute.

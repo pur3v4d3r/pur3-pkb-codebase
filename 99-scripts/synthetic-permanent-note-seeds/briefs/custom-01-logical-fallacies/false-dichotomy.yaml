@@ -1,0 +1,37 @@
+concept: False Dichotomy
+domain: critical-thinking
+secondary_domains:
+- logic
+- rhetoric
+aliases:
+- false dilemma
+- either-or fallacy
+- black-and-white thinking
+broader:
+- informal-fallacy
+related:
+- straw-man-fallacy
+- principle-of-charity
+- argument-analysis
+prerequisites:
+- argument-analysis
+confidence: high
+callouts:
+- type: definition
+  title: False Dichotomy
+  body: A False Dichotomy is presented when an argument frames a question as having
+    exactly two mutually exclusive options, when in fact the option space is larger
+    or contains overlap, forcing the audience to accept one undesirable side by suppressing
+    genuine alternatives.
+- type: key-claim
+  title: Key claim about False Dichotomy
+  body: False Dichotomy is rhetorically powerful because it converts a substantive
+    question about the structure of the option space into a forced choice between
+    two named alternatives, smuggling in the unstated premise that the framing itself
+    is exhaustive.
+- type: warning
+  title: Common pitfall regarding False Dichotomy
+  body: Not every either-or framing is a False Dichotomy — many real choices are genuinely
+    binary — so the diagnosis requires showing the existence of a third option that
+    the framing illegitimately excluded, not merely asserting that "things are more
+    complicated."

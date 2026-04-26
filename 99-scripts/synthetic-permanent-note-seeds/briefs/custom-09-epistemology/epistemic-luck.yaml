@@ -1,0 +1,39 @@
+concept: Epistemic Luck
+domain: epistemology
+secondary_domains:
+- analytic-epistemology
+- ethics-of-belief
+aliases:
+- veritic luck
+- lucky knowledge
+broader:
+- theory-of-knowledge
+related:
+- gettier-problem
+- safety-condition
+- sensitivity-condition
+- justified-true-belief
+prerequisites:
+- justified-true-belief
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Luck
+  body: Epistemic Luck is the broad category of cases in which a true belief is held
+    only because of luck, and the central anti-luck program in epistemology aims to
+    specify the kind of luck (typically "veritic" luck, where the belief could too
+    easily have been false) that is incompatible with knowledge.
+- type: key-claim
+  title: Key claim about Epistemic Luck
+  body: 'Epistemic Luck is the unifying diagnosis of a wide range of post-Gettier
+    counterexamples: the standard "safety" condition states that a known belief could
+    not easily have been false in nearby possible worlds, ruling out veritic Epistemic
+    Luck while preserving the more benign forms of luck (e.g., being born into a culture
+    with reliable testimony) that knowledge tolerates.'
+- type: warning
+  title: Common pitfall regarding Epistemic Luck
+  body: 'Anti-luck conditions like safety and sensitivity are themselves contested:
+    each generates its own counterexamples (sensitivity blocks knowledge of necessary
+    truths and rules out closure-under-known-entailment; safety threatens to over-permit
+    lucky inductive beliefs), so claims that Epistemic Luck has been theoretically
+    tamed go beyond what the current state of the literature supports.'

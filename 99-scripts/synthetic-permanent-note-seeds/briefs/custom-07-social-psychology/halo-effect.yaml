@@ -1,0 +1,38 @@
+concept: Halo Effect
+domain: social-psychology
+secondary_domains:
+- person-perception
+- judgment
+aliases:
+- halo bias
+- evaluative halo
+broader:
+- cognitive-bias
+related:
+- implicit-bias
+- attractiveness-stereotype
+- fundamental-attribution-error
+- anchoring
+prerequisites:
+- person-perception
+confidence: high
+callouts:
+- type: definition
+  title: Halo Effect
+  body: The Halo Effect is the cognitive bias in which an evaluator's overall positive
+    (or negative) impression of a person, brand, or object causes ratings of that
+    target's specific, logically independent attributes to be inflated (or deflated)
+    toward the global impression.
+- type: key-claim
+  title: Key claim about Halo Effect
+  body: The Halo Effect is best understood not as a single perceptual error but as
+    a consequence of evaluative coherence — the mind reduces ambiguous attribute information
+    to its global affective summary — which is why the Halo Effect grows as raters
+    become less informed about the specific attributes they are scoring.
+- type: warning
+  title: Common pitfall regarding Halo Effect
+  body: The Halo Effect is routinely confused with mere correlation among traits;
+    some attributes (warmth and trustworthiness) genuinely covary in people, and labeling
+    that covariation as a Halo Effect treats real structure in the world as bias,
+    which both inflates the perceived prevalence of the effect and obscures the cases
+    where it actually distorts judgment.

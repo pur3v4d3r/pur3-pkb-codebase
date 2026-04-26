@@ -1,0 +1,34 @@
+concept: Modus Ponens
+domain: logic
+secondary_domains:
+- propositional-logic
+- deductive-reasoning
+aliases:
+- affirming the antecedent
+broader:
+- deductive-inference
+related:
+- modus-tollens
+- circular-reasoning
+- argument-analysis
+prerequisites:
+- propositional-logic
+confidence: high
+callouts:
+- type: definition
+  title: Modus Ponens
+  body: Modus Ponens is the deductively valid inference rule licensing the conclusion
+    "Q" from the premises "If P then Q" and "P", and is one of the two foundational
+    rules — together with Modus Tollens — for classical propositional reasoning.
+- type: key-claim
+  title: Key claim about Modus Ponens
+  body: Modus Ponens is so central that classical logic is sometimes characterized
+    as the discipline of preserving truth under repeated application of Modus Ponens;
+    rejecting Modus Ponens is tantamount to rejecting the standard interpretation
+    of the conditional itself.
+- type: warning
+  title: Common pitfall regarding Modus Ponens
+  body: Modus Ponens is reliable only when the conditional premise is genuinely material,
+    so apparent counter-examples typically arise from conversational conditionals
+    (subjunctive, indicative-with-presupposition) where the conditional's truth conditions
+    are not the classical material conditional Modus Ponens assumes.

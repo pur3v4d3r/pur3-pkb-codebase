@@ -1,0 +1,41 @@
+concept: Expected Utility Theory
+domain: behavioral-economics
+secondary_domains:
+- decision-theory
+- normative-economics
+aliases:
+- EUT
+- von Neumann-Morgenstern utility
+broader:
+- decision-theory
+related:
+- prospect-theory
+- allais-paradox
+- risk-aversion
+- axioms-of-rationality
+prerequisites:
+- probability-theory
+- preference-theory
+confidence: high
+callouts:
+- type: definition
+  title: Expected Utility Theory
+  body: Expected Utility Theory is the normative decision framework axiomatized by
+    von Neumann and Morgenstern in which a rational agent facing risky prospects evaluates
+    each option by summing the utilities of its possible outcomes weighted by their
+    objective probabilities, and chooses the option with the highest expected utility.
+- type: key-claim
+  title: Key claim about Expected Utility Theory
+  body: 'Expected Utility Theory''s normative force derives from its representation
+    theorem: any agent whose preferences satisfy completeness, transitivity, continuity,
+    and independence behaves as if maximizing expected utility, so violations of EUT
+    are not merely empirical anomalies but indictments of one of these axioms — most
+    often independence, as in the Allais paradox.'
+- type: warning
+  title: Common pitfall regarding Expected Utility Theory
+  body: Treating Expected Utility Theory as a descriptive theory of human choice has
+    been decisively refuted by demonstrations like the Allais and Ellsberg paradoxes
+    and by the emergence of prospect theory; conversely, treating EUT as the unique
+    normative standard ignores live debates about the status of the independence axiom,
+    ambiguity, and state-dependent preferences, where the normative case for EUT is
+    genuinely contested.

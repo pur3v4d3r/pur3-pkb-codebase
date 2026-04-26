@@ -1,0 +1,35 @@
+concept: Modus Tollens
+domain: logic
+secondary_domains:
+- propositional-logic
+- deductive-reasoning
+aliases:
+- denying the consequent
+broader:
+- deductive-inference
+related:
+- modus-ponens
+- falsification
+- scientific-reasoning
+prerequisites:
+- propositional-logic
+confidence: high
+callouts:
+- type: definition
+  title: Modus Tollens
+  body: 'Modus Tollens is the deductively valid inference rule licensing the conclusion
+    "not P" from the premises "If P then Q" and "not Q", capturing the formal structure
+    of falsification: a hypothesis that entails a prediction is overturned when the
+    prediction fails.'
+- type: key-claim
+  title: Key claim about Modus Tollens
+  body: Modus Tollens is the formal backbone of Karl Popper's falsificationist account
+    of science; an entire methodology of empirical inquiry is built on the asymmetry
+    between confirming and disconfirming a hypothesis that Modus Tollens encodes at
+    the propositional level.
+- type: warning
+  title: Common pitfall regarding Modus Tollens
+  body: Modus Tollens applied to a complex theoretical claim rarely refutes a single
+    proposition; the Duhem-Quine thesis observes that empirical disconfirmation can
+    always be redirected to an auxiliary assumption, so the practical force of Modus
+    Tollens depends on the holism of what gets falsified.

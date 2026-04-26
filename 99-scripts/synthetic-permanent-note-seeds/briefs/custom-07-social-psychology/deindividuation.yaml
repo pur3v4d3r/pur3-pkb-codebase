@@ -1,0 +1,39 @@
+concept: Deindividuation
+domain: social-psychology
+secondary_domains:
+- group-dynamics
+- self-regulation
+aliases:
+- loss of self-awareness
+- crowd anonymity
+broader:
+- group-processes
+related:
+- groupthink
+- conformity
+- social-identity-theory
+- mob-behavior
+prerequisites:
+- self-awareness
+confidence: medium
+callouts:
+- type: definition
+  title: Deindividuation
+  body: Deindividuation is the psychological state, classically associated with anonymity
+    and immersion in a group, in which individuals experience reduced self-awareness
+    and weakened internal regulation of behavior, often resulting in actions they
+    would not perform when individuated.
+- type: key-claim
+  title: Key claim about Deindividuation
+  body: Contemporary work — particularly the SIDE (Social Identity model of Deindividuation
+    Effects) account — argues that Deindividuation does not produce a generic loss
+    of standards but a shift from personal to social identity, so anonymous group
+    members enact the salient group's norms more strongly rather than abandoning norms
+    altogether.
+- type: warning
+  title: Common pitfall regarding Deindividuation
+  body: 'Popular treatments of Deindividuation as "anonymity causes antisocial behavior"
+    misread the evidence: anonymous online groups can become more prosocial when the
+    salient group identity is prosocial, and invoking Deindividuation to explain crowd
+    violence often substitutes a label for an explanation of the specific norms in
+    play.'

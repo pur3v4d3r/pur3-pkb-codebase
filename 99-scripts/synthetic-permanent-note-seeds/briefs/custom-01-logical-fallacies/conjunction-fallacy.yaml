@@ -1,0 +1,36 @@
+concept: Conjunction Fallacy
+domain: cognitive-psychology
+secondary_domains:
+- judgment-and-decision-making
+- probability
+aliases:
+- Linda problem
+broader:
+- representativeness-heuristic
+- cognitive-bias
+related:
+- base-rate-neglect
+- probability-judgment
+- representativeness-heuristic
+prerequisites:
+- probability
+confidence: high
+callouts:
+- type: definition
+  title: Conjunction Fallacy
+  body: The Conjunction Fallacy is the empirically robust judgment error in which
+    people rate a conjunctive event "A and B" as more probable than a constituent
+    event "A" alone, violating the basic axiom of probability that the probability
+    of a conjunction can never exceed the probability of either conjunct.
+- type: key-claim
+  title: Key claim about Conjunction Fallacy
+  body: The Conjunction Fallacy demonstrates that intuitive probability judgments
+    are dominated by representativeness — how well a description fits a stereotype
+    — rather than by extensional logic, and the bias survives explicit training in
+    elementary probability.
+- type: warning
+  title: Common pitfall regarding Conjunction Fallacy
+  body: The Conjunction Fallacy is sometimes dismissed as a mere wording artefact,
+    but it persists across between-subjects designs, monetary incentives, and statistically
+    sophisticated samples, indicating a genuine deviation from coherent probabilistic
+    reasoning rather than a comprehension failure.

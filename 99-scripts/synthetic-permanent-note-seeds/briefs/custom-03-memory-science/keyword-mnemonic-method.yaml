@@ -1,0 +1,37 @@
+concept: Keyword Mnemonic Method
+domain: learning-science
+secondary_domains:
+- memory-science
+- vocabulary-acquisition
+aliases:
+- keyword method
+- Atkinson keyword method
+broader:
+- mnemonic-technique
+related:
+- method-of-loci
+- dual-coding
+- elaborative-encoding
+prerequisites:
+- working-memory
+- encoding-specificity
+confidence: high
+callouts:
+- type: definition
+  title: Keyword Mnemonic Method
+  body: The Keyword Mnemonic Method is a vocabulary-learning technique in which a
+    foreign word is bound to a phonetically similar native-language "keyword" and
+    an interactive mental image links that keyword to the word's meaning, leveraging
+    dual coding to anchor an arbitrary form-meaning mapping.
+- type: key-claim
+  title: Key claim about Keyword Mnemonic Method
+  body: The Keyword Mnemonic Method consistently produces large initial gains in vocabulary
+    acquisition relative to rote rehearsal, because the technique converts a sparse
+    phonological cue into a richly interconnected episodic representation that retrieval
+    can re-enter through multiple paths.
+- type: warning
+  title: Common pitfall regarding Keyword Mnemonic Method
+  body: The Keyword Mnemonic Method shows weaker advantages on long-term, productive
+    use of vocabulary; the keyword scaffolding can interfere with fluent retrieval
+    once it must be dropped, so the technique should be staged into spaced retrieval
+    practice rather than treated as a stable end-state.

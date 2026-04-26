@@ -1,0 +1,66 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-09-epistemology",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-09-epistemology.md",
+    "notes": "Custom seeding batch 09: epistemology constructs."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-09-epistemology",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-09-epistemology"
+  },
+  "counts": {
+    "parsed": 7,
+    "accepted": 7,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "A Priori Knowledge",
+      "kebab": "a-priori-knowledge",
+      "brief_path": "briefs/custom-09-epistemology/a-priori-knowledge.yaml",
+      "expected_seed_filename": "a-priori-knowledge-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Correspondence Theory of Truth",
+      "kebab": "correspondence-theory-of-truth",
+      "brief_path": "briefs/custom-09-epistemology/correspondence-theory-of-truth.yaml",
+      "expected_seed_filename": "correspondence-theory-of-truth-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Epistemic Autonomy",
+      "kebab": "epistemic-autonomy",
+      "brief_path": "briefs/custom-09-epistemology/epistemic-autonomy.yaml",
+      "expected_seed_filename": "epistemic-autonomy-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Epistemic Luck",
+      "kebab": "epistemic-luck",
+      "brief_path": "briefs/custom-09-epistemology/epistemic-luck.yaml",
+      "expected_seed_filename": "epistemic-luck-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Gettier Problem",
+      "kebab": "gettier-problem",
+      "brief_path": "briefs/custom-09-epistemology/gettier-problem.yaml",
+      "expected_seed_filename": "gettier-problem-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Principle of Charity",
+      "kebab": "principle-of-charity",
+      "brief_path": "briefs/custom-09-epistemology/principle-of-charity.yaml",
+      "expected_seed_filename": "principle-of-charity-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Underdetermination Thesis",
+      "kebab": "underdetermination-thesis",
+      "brief_path": "briefs/custom-09-epistemology/underdetermination-thesis.yaml",
+      "expected_seed_filename": "underdetermination-thesis-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

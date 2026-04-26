@@ -1,0 +1,36 @@
+concept: Forward Testing Effect
+domain: memory-science
+secondary_domains:
+- learning-science
+- cognitive-psychology
+aliases:
+- test-potentiated new learning
+- FTE
+broader:
+- testing-effect
+related:
+- retrieval-practice
+- proactive-interference
+- retrieval-induced-facilitation
+prerequisites:
+- testing-effect
+- working-memory
+confidence: high
+callouts:
+- type: definition
+  title: Forward Testing Effect
+  body: The Forward Testing Effect is the finding that testing on an earlier list
+    of material improves the learning of subsequent, unrelated material, in addition
+    to the well-known benefit testing confers on the tested material itself.
+- type: key-claim
+  title: Key claim about Forward Testing Effect
+  body: The Forward Testing Effect is theoretically important because it cannot be
+    reduced to direct strengthening of the tested items; it shows that retrieval acts
+    as a metacognitive reset that releases the learner from accumulated proactive
+    interference and recalibrates encoding for what comes next.
+- type: warning
+  title: Common pitfall regarding Forward Testing Effect
+  body: The Forward Testing Effect is sometimes mis-cited as evidence that any quiz,
+    of any kind, helps subsequent learning; the experimental literature shows the
+    effect requires meaningful retrieval — recognition tests and cued cues with low
+    retrieval demand often fail to produce it.

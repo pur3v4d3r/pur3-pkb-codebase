@@ -1,0 +1,39 @@
+concept: Prototype Theory of Concepts
+domain: language-and-cognition
+secondary_domains:
+- cognitive-psychology
+- semantics
+aliases:
+- Rosch prototype theory
+- prototype semantics
+broader:
+- theories-of-concepts
+related:
+- exemplar-theory
+- basic-level-categories
+- family-resemblance
+- classical-theory-of-concepts
+prerequisites:
+- categorization
+confidence: high
+callouts:
+- type: definition
+  title: Prototype Theory of Concepts
+  body: The Prototype Theory of Concepts, developed primarily by Eleanor Rosch, holds
+    that natural categories are mentally represented around a central "prototype"
+    — a most-typical exemplar or feature cluster — with category membership determined
+    by graded similarity to that prototype rather than by satisfaction of necessary
+    and sufficient conditions.
+- type: key-claim
+  title: Key claim about Prototype Theory of Concepts
+  body: 'The Prototype Theory of Concepts predicts and explains the robust empirical
+    finding of typicality effects: subjects rate "robin" as a better example of "bird"
+    than "penguin," verify category membership faster for typical than atypical instances,
+    and produce typical members first in free listing — all anomalies under the classical
+    definitional view of concepts.'
+- type: warning
+  title: Common pitfall regarding Prototype Theory of Concepts
+  body: The Prototype Theory of Concepts struggles with compositionality; the prototype
+    of "pet fish" is not derivable from the prototypes of "pet" and "fish," which
+    is a serious problem because productive thought clearly composes concepts, and
+    this gap motivated the development of exemplar and theory-theory accounts.

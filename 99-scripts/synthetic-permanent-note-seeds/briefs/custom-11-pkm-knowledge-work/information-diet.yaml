@@ -1,0 +1,39 @@
+concept: Information Diet
+domain: pkm
+secondary_domains:
+- attention
+- media-ecology
+aliases:
+- information consumption
+- info diet
+broader:
+- attention-management
+related:
+- reading-workflow
+- deep-work
+- signal-to-noise-ratio
+- source-curation
+prerequisites:
+- attention-management
+confidence: medium
+callouts:
+- type: definition
+  title: Information Diet
+  body: An Information Diet is the curated set of regular information sources — feeds,
+    newsletters, books, social streams — that an individual consumes over time, treated
+    as an object of deliberate design analogous to a nutritional diet rather than
+    as the incidental output of recommender systems.
+- type: key-claim
+  title: Key claim about Information Diet
+  body: Information Diet design has compounding effects on cognition because the marginal
+    source disproportionately shapes future associative recall and the categories
+    one thinks in; this is why the high-leverage move is not consuming more sources
+    but pruning low-quality recurring inputs, since recurring noise crowds out the
+    residency time that nutritive sources need to integrate.
+- type: warning
+  title: Common pitfall regarding Information Diet
+  body: Information Diet metaphors borrow nutritional intuitions that do not always
+    transfer; "balanced exposure" across viewpoints, for example, can in practice
+    produce false-balance pathologies when the underlying domain has asymmetric epistemic
+    standing. Information Diet design therefore requires domain-specific epistemic
+    judgment, not a mechanical pursuit of variety.

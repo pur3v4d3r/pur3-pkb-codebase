@@ -1,0 +1,37 @@
+concept: Hope Theory
+domain: positive-psychology
+secondary_domains:
+- motivation
+- clinical-psychology
+aliases:
+- Snyder Hope Theory
+broader:
+- motivation-theory
+related:
+- self-efficacy
+- grit
+- psychological-capital
+- perma-model
+prerequisites:
+- motivation
+- self-efficacy
+confidence: medium
+callouts:
+- type: definition
+  title: Hope Theory
+  body: 'Hope Theory, developed by C. R. Snyder, defines hope as a goal-directed cognitive
+    set comprising two components: agency thinking (the perceived capacity to initiate
+    and sustain action toward a goal) and pathways thinking (the perceived ability
+    to generate routes to that goal).'
+- type: key-claim
+  title: Key claim about Hope Theory
+  body: Hope Theory distinguishes hope from both optimism and self-efficacy by treating
+    it as a content-specific goal-pursuit construct, in which agency without pathways
+    produces frustrated motivation and pathways without agency produce passive planning.
+- type: warning
+  title: Common pitfall regarding Hope Theory
+  body: Hope Theory's measurement instruments correlate strongly with self-efficacy
+    and conscientiousness, raising the question of whether the construct's incremental
+    validity justifies its separate theoretical status; treating Hope Theory results
+    as discoveries beyond what efficacy and trait conscientiousness already predict
+    is methodologically risky.

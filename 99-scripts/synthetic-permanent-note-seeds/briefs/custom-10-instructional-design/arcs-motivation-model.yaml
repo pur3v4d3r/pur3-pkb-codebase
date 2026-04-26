@@ -1,0 +1,40 @@
+concept: ARCS Motivation Model
+domain: instructional-design
+secondary_domains:
+- motivation
+- learning-theory
+aliases:
+- Keller ARCS model
+- ARCS-V
+broader:
+- motivational-design
+related:
+- self-determination-theory
+- expectancy-value-theory
+- gamification
+- intrinsic-motivation
+prerequisites:
+- motivation-theory
+confidence: medium
+callouts:
+- type: definition
+  title: ARCS Motivation Model
+  body: The ARCS Motivation Model, developed by John Keller, is a framework for designing
+    instruction that systematically addresses four motivational categories — Attention,
+    Relevance, Confidence, and Satisfaction — each with specific strategies and diagnostic
+    questions for instructional designers.
+- type: key-claim
+  title: Key claim about ARCS Motivation Model
+  body: The ARCS Motivation Model's distinctive contribution is treating motivation
+    as a designable property of instruction rather than as a learner trait; by decomposing
+    motivation into four conditions that instruction can manipulate, ARCS makes motivational
+    design auditable and provides a vocabulary for diagnosing why a course "feels
+    boring" or "feels overwhelming" beyond impressionistic critique.
+- type: warning
+  title: Common pitfall regarding ARCS Motivation Model
+  body: The ARCS Motivation Model is a heuristic framework rather than a tested causal
+    theory; its categories were derived from synthesis of motivation research rather
+    than from independent empirical validation, and few rigorous studies have isolated
+    the contribution of ARCS-prescribed strategies from confounded design improvements,
+    so the model is best treated as a useful design checklist rather than as evidence-based
+    prescription.

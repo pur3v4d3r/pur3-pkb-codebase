@@ -1,0 +1,54 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-12-language-and-cognition",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-12-language-and-cognition.md",
+    "notes": "Custom seeding batch 12: language-and-cognition constructs spanning pragmatics,\nsemantics, and the psycholinguistic interface between meaning and mind."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-12-language-and-cognition",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-12-language-and-cognition"
+  },
+  "counts": {
+    "parsed": 5,
+    "accepted": 5,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Grice Maxims",
+      "kebab": "grice-maxims",
+      "brief_path": "briefs/custom-12-language-and-cognition/grice-maxims.yaml",
+      "expected_seed_filename": "grice-maxims-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Pragmatic Inference",
+      "kebab": "pragmatic-inference",
+      "brief_path": "briefs/custom-12-language-and-cognition/pragmatic-inference.yaml",
+      "expected_seed_filename": "pragmatic-inference-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Prototype Theory of Concepts",
+      "kebab": "prototype-theory-of-concepts",
+      "brief_path": "briefs/custom-12-language-and-cognition/prototype-theory-of-concepts.yaml",
+      "expected_seed_filename": "prototype-theory-of-concepts-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Semantic Satiation",
+      "kebab": "semantic-satiation",
+      "brief_path": "briefs/custom-12-language-and-cognition/semantic-satiation.yaml",
+      "expected_seed_filename": "semantic-satiation-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Speech Acts",
+      "kebab": "speech-acts",
+      "brief_path": "briefs/custom-12-language-and-cognition/speech-acts.yaml",
+      "expected_seed_filename": "speech-acts-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

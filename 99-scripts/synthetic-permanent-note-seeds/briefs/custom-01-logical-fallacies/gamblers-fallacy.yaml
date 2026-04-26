@@ -1,0 +1,36 @@
+concept: Gamblers Fallacy
+domain: cognitive-psychology
+secondary_domains:
+- judgment-and-decision-making
+- probability
+aliases:
+- Monte Carlo fallacy
+- fallacy of the maturity of chances
+broader:
+- cognitive-bias
+- representativeness-heuristic
+related:
+- hot-hand-fallacy
+- conjunction-fallacy
+- law-of-small-numbers
+prerequisites:
+- probability
+confidence: high
+callouts:
+- type: definition
+  title: Gamblers Fallacy
+  body: The Gamblers Fallacy is the mistaken belief that, in a sequence of independent
+    random events, an outcome that has not occurred for a while becomes more likely
+    on the next trial — as if the underlying process "owed" balance to the recent
+    run.
+- type: key-claim
+  title: Key claim about Gamblers Fallacy
+  body: The Gamblers Fallacy arises because intuition treats short random sequences
+    as if they should locally mirror the long-run distribution; the heuristic confuses
+    representativeness of the sample with statistical independence of its elements.
+- type: warning
+  title: Common pitfall regarding Gamblers Fallacy
+  body: The Gamblers Fallacy is often confused with its inverse, the hot-hand fallacy;
+    the two are opposite errors about the same underlying ignorance of independence,
+    and combating one without the other can simply switch a person from one bias to
+    the other.

@@ -1,0 +1,39 @@
+concept: Affect Labeling
+domain: emotion
+secondary_domains:
+- emotion-regulation
+- neuroscience
+aliases:
+- name it to tame it
+- emotional labeling
+broader:
+- emotion-regulation
+related:
+- emotional-granularity
+- cognitive-reappraisal
+- amygdala-regulation
+- interoception
+prerequisites:
+- emotion-regulation
+confidence: high
+callouts:
+- type: definition
+  title: Affect Labeling
+  body: Affect Labeling is the process of putting feelings into words by assigning
+    a verbal label to a current emotional state, and the consistent finding that doing
+    so attenuates the intensity of the labeled emotion at both subjective and physiological
+    levels.
+- type: key-claim
+  title: Key claim about Affect Labeling
+  body: Neuroimaging work by Matthew Lieberman and colleagues shows that Affect Labeling
+    produces increased activation in right ventrolateral prefrontal cortex coupled
+    with decreased activation in the amygdala — a top-down regulatory signature —
+    even when subjects are not instructed to regulate, suggesting Affect Labeling
+    functions as an incidental form of emotion regulation rather than mere description.
+- type: warning
+  title: Common pitfall regarding Affect Labeling
+  body: Affect Labeling is often misread as a universal emotion-regulation panacea,
+    but its effectiveness depends on accurate, granular labeling; vague or inaccurate
+    labels can entrench rumination rather than reduce it, and chronic over-labeling
+    in clinical populations can shade into the experiential avoidance patterns that
+    emotion-focused therapies explicitly try to undo.

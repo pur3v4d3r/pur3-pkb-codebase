@@ -1,0 +1,38 @@
+concept: Grice Maxims
+domain: language-and-cognition
+secondary_domains:
+- pragmatics
+- philosophy-of-language
+aliases:
+- Gricean maxims
+- conversational maxims
+- cooperative principle
+broader:
+- pragmatics
+related:
+- pragmatic-inference
+- speech-acts
+- relevance-theory
+- cooperative-principle
+prerequisites:
+- pragmatics
+confidence: high
+callouts:
+- type: definition
+  title: Grice Maxims
+  body: The Grice Maxims are the four conversational sub-principles — Quantity, Quality,
+    Relation, and Manner — articulated by H. P. Grice as the operational specification
+    of his Cooperative Principle, which governs how rational interlocutors are expected
+    to contribute to a shared communicative exchange.
+- type: key-claim
+  title: Key claim about Grice Maxims
+  body: 'The central explanatory move of the Grice Maxims is that conversational meaning
+    routinely outruns sentence meaning: when a speaker visibly flouts a Grice Maxim
+    while remaining cooperative, the listener is licensed to derive a "conversational
+    implicature" that reconciles the apparent violation with the assumption of cooperation.'
+- type: warning
+  title: Common pitfall regarding Grice Maxims
+  body: The Grice Maxims have been criticized as culturally parochial and underspecified;
+    Quantity and Manner in particular admit no precise metric, and cross-cultural
+    pragmatics work has shown that what counts as cooperative contribution varies
+    in ways the Grice Maxims framework treats as universal.

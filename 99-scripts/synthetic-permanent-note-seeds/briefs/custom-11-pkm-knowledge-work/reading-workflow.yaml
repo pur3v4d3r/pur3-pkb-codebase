@@ -1,0 +1,40 @@
+concept: Reading Workflow
+domain: pkm
+secondary_domains:
+- writing
+- knowledge-management
+aliases:
+- literature workflow
+- reading pipeline
+broader:
+- knowledge-work-pipelines
+related:
+- zettelkasten
+- literature-notes
+- idea-compression
+- information-diet
+prerequisites:
+- note-taking
+confidence: high
+callouts:
+- type: definition
+  title: Reading Workflow
+  body: A Reading Workflow is the explicit pipeline by which a reader processes a
+    source from initial encounter through annotation, note extraction, integration
+    into a personal knowledge base, and eventual reuse in writing — making each stage's
+    inputs, outputs, and decision criteria deliberate rather than ad hoc.
+- type: key-claim
+  title: Key claim about Reading Workflow
+  body: 'A Reading Workflow''s central design decision is where the cost of distillation
+    is paid: deferring all extraction to "later" predictably produces orphaned highlights
+    that are never re-encountered, while front-loading too much processing into the
+    first read collapses reading speed and discourages exploratory consumption. Mature
+    Reading Workflow design distributes distillation across stages so that each pass
+    adds compression without blocking the next.'
+- type: warning
+  title: Common pitfall regarding Reading Workflow
+  body: Reading Workflow tooling proliferates faster than evidence for any specific
+    configuration, and the most elaborate workflows are often least reproducible across
+    busy weeks; a sustainable Reading Workflow is one that survives low-energy days,
+    so the dominant failure mode is over-engineering a workflow that performs beautifully
+    when motivation is high and collapses entirely when it is not.

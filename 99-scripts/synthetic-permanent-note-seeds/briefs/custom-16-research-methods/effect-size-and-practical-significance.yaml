@@ -1,0 +1,45 @@
+concept: Effect Size and Practical Significance
+domain: research-methods
+secondary_domains:
+- statistics
+- meta-science
+aliases:
+- effect size
+- practical significance
+- magnitude of effect
+broader:
+- inferential-statistics
+related:
+- statistical-significance
+- p-value
+- confidence-interval
+- meta-analysis
+prerequisites:
+- inferential-statistics
+confidence: high
+callouts:
+- type: definition
+  title: Effect Size and Practical Significance
+  body: Effect Size and Practical Significance refers jointly to the standardized
+    magnitude of an empirical relationship — Cohen's d, Pearson's r, odds ratios,
+    and related metrics — and to the substantive judgment of whether that magnitude
+    is large enough to matter in the relevant theoretical or applied context, in contrast
+    to the dichotomous reject/retain output of null-hypothesis significance testing.
+- type: key-claim
+  title: Key claim about Effect Size and Practical Significance
+  body: 'The central methodological argument for foregrounding Effect Size and Practical
+    Significance is that statistical significance is confounded with sample size:
+    with a large enough N, trivially small effects achieve p < .05, while with a small
+    N, theoretically important effects fail to reach significance, so reporting effect
+    sizes with confidence intervals — as the APA, AERA, and most journal standards
+    now require — is the only way to separate the strength of evidence from the strength
+    of effect.'
+- type: warning
+  title: Common pitfall regarding Effect Size and Practical Significance
+  body: Effect Size and Practical Significance is frequently misapplied through Cohen's
+    small/medium/large benchmarks (d = .2/.5/.8) as if they were universal thresholds;
+    Cohen explicitly proposed them as defaults for cases where no domain-specific
+    calibration exists, and reading a d = .2 as "small" in a context like medical
+    mortality or educational achievement gaps inverts the ordinary meaning of practical
+    significance, which is properly determined by domain, comparison class, and cost-benefit
+    structure rather than by ritualized cutoffs.

@@ -1,0 +1,37 @@
+concept: Mood Congruent Memory
+domain: cognitive-psychology
+secondary_domains:
+- memory-science
+- emotion
+aliases:
+- mood congruence effect
+- MCM
+broader:
+- memory-bias
+- encoding-specificity
+related:
+- emotional-memory-enhancement
+- state-dependent-memory
+- depression-cognition
+prerequisites:
+- emotion
+- episodic-memory
+confidence: high
+callouts:
+- type: definition
+  title: Mood Congruent Memory
+  body: Mood Congruent Memory is the empirical regularity that material whose affective
+    valence matches the rememberer's current mood is encoded more deeply and retrieved
+    more readily than material whose valence is incongruent with mood.
+- type: key-claim
+  title: Key claim about Mood Congruent Memory
+  body: 'Mood Congruent Memory provides a cognitive mechanism for the maintenance
+    of affective disorders: a depressed mood selectively recruits negatively-valenced
+    memories, which in turn sustain the mood, producing a self-perpetuating loop that
+    is targeted directly by cognitive therapies.'
+- type: warning
+  title: Common pitfall regarding Mood Congruent Memory
+  body: 'Mood Congruent Memory is often confused with state-dependent memory, but
+    the two effects are dissociable: mood congruence concerns the valence match between
+    content and mood, whereas state dependence concerns reinstatement of the same
+    internal state regardless of content valence.'

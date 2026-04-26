@@ -1,0 +1,60 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-04-learning-strategies",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-04-learning-strategies.md",
+    "notes": "Custom seeding batch 04: concrete study strategies. Pairs with the\nmemory-science batch."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-04-learning-strategies",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-04-learning-strategies"
+  },
+  "counts": {
+    "parsed": 6,
+    "accepted": 6,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Active Recall",
+      "kebab": "active-recall",
+      "brief_path": "briefs/custom-04-learning-strategies/active-recall.yaml",
+      "expected_seed_filename": "active-recall-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Cornell Note Taking",
+      "kebab": "cornell-note-taking",
+      "brief_path": "briefs/custom-04-learning-strategies/cornell-note-taking.yaml",
+      "expected_seed_filename": "cornell-note-taking-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Feynman Technique",
+      "kebab": "feynman-technique",
+      "brief_path": "briefs/custom-04-learning-strategies/feynman-technique.yaml",
+      "expected_seed_filename": "feynman-technique-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Leitner System",
+      "kebab": "leitner-system",
+      "brief_path": "briefs/custom-04-learning-strategies/leitner-system.yaml",
+      "expected_seed_filename": "leitner-system-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Pomodoro Technique",
+      "kebab": "pomodoro-technique",
+      "brief_path": "briefs/custom-04-learning-strategies/pomodoro-technique.yaml",
+      "expected_seed_filename": "pomodoro-technique-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "SQ3R Method",
+      "kebab": "sq3r-method",
+      "brief_path": "briefs/custom-04-learning-strategies/sq3r-method.yaml",
+      "expected_seed_filename": "sq3r-method-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

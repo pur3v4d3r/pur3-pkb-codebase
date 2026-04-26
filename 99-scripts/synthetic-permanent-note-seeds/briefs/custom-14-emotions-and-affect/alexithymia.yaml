@@ -1,0 +1,39 @@
+concept: Alexithymia
+domain: emotion
+secondary_domains:
+- clinical-psychology
+- personality-psychology
+aliases:
+- emotional blindness
+- no-words-for-feelings
+broader:
+- emotion-processing-disorders
+related:
+- interoception
+- affect-labeling
+- emotional-granularity
+- autism
+prerequisites:
+- emotion
+confidence: high
+callouts:
+- type: definition
+  title: Alexithymia
+  body: Alexithymia is a personality construct denoting difficulty identifying feelings,
+    difficulty describing feelings to others, and an externally-oriented thinking
+    style, operationalized chiefly through the Toronto Alexithymia Scale and present
+    at clinically elevated levels in roughly ten percent of the general population.
+- type: key-claim
+  title: Key claim about Alexithymia
+  body: 'Alexithymia accounts for substantial variance in social and emotional difficulties
+    previously attributed to overlapping conditions: when controlling for Alexithymia,
+    much of the empathy deficit attributed to autism disappears, suggesting Alexithymia
+    is a transdiagnostic dimension whose effects have been silently absorbed into
+    other diagnostic categories.'
+- type: warning
+  title: Common pitfall regarding Alexithymia
+  body: Alexithymia is frequently conflated with emotional suppression or avoidance,
+    but the construct as defined targets the upstream identification problem rather
+    than a downstream regulation choice; treating Alexithymia interventions as exposure
+    therapy for "people who avoid feelings" misunderstands a deficit that is more
+    about interoceptive granularity than about motivated avoidance.

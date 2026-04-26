@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-16-research-methods",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-16-research-methods.md",
+    "notes": "Custom seeding batch 16: research-methods constructs covering\ninferential-statistics interpretation and the open-science reform movement."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-16-research-methods",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-16-research-methods"
+  },
+  "counts": {
+    "parsed": 2,
+    "accepted": 2,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Effect Size and Practical Significance",
+      "kebab": "effect-size-and-practical-significance",
+      "brief_path": "briefs/custom-16-research-methods/effect-size-and-practical-significance.yaml",
+      "expected_seed_filename": "effect-size-and-practical-significance-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Open Science Practices",
+      "kebab": "open-science-practices",
+      "brief_path": "briefs/custom-16-research-methods/open-science-practices.yaml",
+      "expected_seed_filename": "open-science-practices-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

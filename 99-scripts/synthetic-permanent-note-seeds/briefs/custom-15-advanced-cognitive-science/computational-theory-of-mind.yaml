@@ -1,0 +1,41 @@
+concept: Computational Theory of Mind
+domain: cognitive-science
+secondary_domains:
+- philosophy-of-mind
+- artificial-intelligence
+aliases:
+- CTM
+- computationalism
+- mind-as-computer
+broader:
+- philosophy-of-mind
+related:
+- language-of-thought
+- symbol-grounding-problem
+- multiple-realizability
+- functionalism
+prerequisites:
+- functionalism
+confidence: high
+callouts:
+- type: definition
+  title: Computational Theory of Mind
+  body: The Computational Theory of Mind is the thesis that mental states are computational
+    states and mental processes are computational operations defined over internal
+    representations, most influentially developed by Jerry Fodor as the conjunction
+    of computationalism with a Language of Thought hypothesis postulating syntactically
+    structured mental symbols.
+- type: key-claim
+  title: Key claim about Computational Theory of Mind
+  body: 'The Computational Theory of Mind''s distinctive explanatory power lies in
+    its account of productivity and systematicity: if thoughts are syntactically structured
+    representations manipulated by formal rules, then the unbounded generativity of
+    thought and its systematic patterns (anyone who can think aRb can think bRa) follow
+    as predictions rather than as anomalies requiring separate explanation.'
+- type: warning
+  title: Common pitfall regarding Computational Theory of Mind
+  body: The Computational Theory of Mind faces unresolved challenges from the symbol-grounding
+    problem (how do internal symbols come to represent anything outside the system?),
+    from connectionist and dynamical-systems alternatives that deny the explanatory
+    necessity of structured symbols, and from embodied-cognition arguments that locate
+    cognitive content in sensorimotor coupling rather than in internal computation.

@@ -1,0 +1,66 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-07-social-psychology",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-07-social-psychology.md",
+    "notes": "Custom seeding batch 07: social-psychology constructs."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-07-social-psychology",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-07-social-psychology"
+  },
+  "counts": {
+    "parsed": 7,
+    "accepted": 7,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Conformity",
+      "kebab": "conformity",
+      "brief_path": "briefs/custom-07-social-psychology/conformity.yaml",
+      "expected_seed_filename": "conformity-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Deindividuation",
+      "kebab": "deindividuation",
+      "brief_path": "briefs/custom-07-social-psychology/deindividuation.yaml",
+      "expected_seed_filename": "deindividuation-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Groupthink",
+      "kebab": "groupthink",
+      "brief_path": "briefs/custom-07-social-psychology/groupthink.yaml",
+      "expected_seed_filename": "groupthink-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Halo Effect",
+      "kebab": "halo-effect",
+      "brief_path": "briefs/custom-07-social-psychology/halo-effect.yaml",
+      "expected_seed_filename": "halo-effect-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Implicit Bias",
+      "kebab": "implicit-bias",
+      "brief_path": "briefs/custom-07-social-psychology/implicit-bias.yaml",
+      "expected_seed_filename": "implicit-bias-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Obedience to Authority",
+      "kebab": "obedience-to-authority",
+      "brief_path": "briefs/custom-07-social-psychology/obedience-to-authority.yaml",
+      "expected_seed_filename": "obedience-to-authority-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Social Loafing",
+      "kebab": "social-loafing",
+      "brief_path": "briefs/custom-07-social-psychology/social-loafing.yaml",
+      "expected_seed_filename": "social-loafing-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

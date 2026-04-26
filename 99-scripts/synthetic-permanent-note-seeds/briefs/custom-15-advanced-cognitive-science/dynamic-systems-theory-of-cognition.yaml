@@ -1,0 +1,42 @@
+concept: Dynamic Systems Theory of Cognition
+domain: cognitive-science
+secondary_domains:
+- embodied-cognition
+- developmental-psychology
+aliases:
+- dynamicism
+- dynamical cognitive science
+broader:
+- cognitive-science
+related:
+- embodied-cognition
+- ecological-psychology
+- attractor-dynamics
+- computational-theory-of-mind
+prerequisites:
+- cognitive-science
+confidence: medium
+callouts:
+- type: definition
+  title: Dynamic Systems Theory of Cognition
+  body: The Dynamic Systems Theory of Cognition is a research program — associated
+    with Esther Thelen, Tim van Gelder, and Linda Smith — that models cognitive processes
+    as the time-evolution of coupled state variables described by differential equations,
+    emphasizing continuous change, multistability, and self-organization over discrete
+    symbol manipulation.
+- type: key-claim
+  title: Key claim about Dynamic Systems Theory of Cognition
+  body: 'The Dynamic Systems Theory of Cognition reframes classical cognitive phenomena
+    that appeared to demand internal representation as products of body-environment
+    coupling: Thelen''s account of infant locomotion development, for instance, replaces
+    the maturation of a central walking program with a dynamical reassembly of leg,
+    postural, and gravitational variables, showing that apparently stage-like cognitive
+    transitions can emerge from continuous parameter change.'
+- type: warning
+  title: Common pitfall regarding Dynamic Systems Theory of Cognition
+  body: 'The Dynamic Systems Theory of Cognition has been criticized for trading explanatory
+    specificity for descriptive elegance: writing down a system of differential equations
+    that fits a cognitive trajectory does not by itself explain the underlying mechanism,
+    and the framework has had limited success accounting for the structured, compositional
+    aspects of higher cognition that classical computational accounts were designed
+    to handle.'

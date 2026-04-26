@@ -1,0 +1,54 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-13-developmental-psychology",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-13-developmental-psychology.md",
+    "notes": "Custom seeding batch 13: developmental-psychology constructs spanning\ncognitive, social, and moral development across the lifespan."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-13-developmental-psychology",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-13-developmental-psychology"
+  },
+  "counts": {
+    "parsed": 5,
+    "accepted": 5,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Eriksons Psychosocial Stages",
+      "kebab": "eriksons-psychosocial-stages",
+      "brief_path": "briefs/custom-13-developmental-psychology/eriksons-psychosocial-stages.yaml",
+      "expected_seed_filename": "eriksons-psychosocial-stages-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Formal Operational Stage",
+      "kebab": "formal-operational-stage",
+      "brief_path": "briefs/custom-13-developmental-psychology/formal-operational-stage.yaml",
+      "expected_seed_filename": "formal-operational-stage-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Moral Development",
+      "kebab": "moral-development",
+      "brief_path": "briefs/custom-13-developmental-psychology/moral-development.yaml",
+      "expected_seed_filename": "moral-development-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Object Permanence",
+      "kebab": "object-permanence",
+      "brief_path": "briefs/custom-13-developmental-psychology/object-permanence.yaml",
+      "expected_seed_filename": "object-permanence-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Theory of Mind",
+      "kebab": "theory-of-mind",
+      "brief_path": "briefs/custom-13-developmental-psychology/theory-of-mind.yaml",
+      "expected_seed_filename": "theory-of-mind-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

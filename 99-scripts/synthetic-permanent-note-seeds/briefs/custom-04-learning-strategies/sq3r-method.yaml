@@ -1,0 +1,36 @@
+concept: SQ3R Method
+domain: learning-science
+secondary_domains:
+- study-strategy
+- reading-comprehension
+aliases:
+- SQ3R
+- survey-question-read-recite-review
+broader:
+- reading-strategy
+related:
+- cornell-note-taking
+- active-recall
+- reading-workflow
+prerequisites:
+- reading-comprehension
+confidence: high
+callouts:
+- type: definition
+  title: SQ3R Method
+  body: The SQ3R Method is a five-step reading strategy — Survey, Question, Read,
+    Recite, Review — devised by Francis Robinson in 1946, in which the reader previews
+    structure, generates questions, reads to answer them, recites answers without
+    the text, and schedules a later review pass.
+- type: key-claim
+  title: Key claim about SQ3R Method
+  body: The SQ3R Method outperforms unstructured reading because each of its five
+    steps embeds a recognized memory principle — generation effects, retrieval practice,
+    and spaced review — within the act of reading itself, rather than treating reading
+    and review as separate stages.
+- type: warning
+  title: Common pitfall regarding SQ3R Method
+  body: The SQ3R Method's effect size collapses when learners perform the Survey and
+    Question steps perfunctorily; the technique relies on the reader generating their
+    own questions, and substituting publisher-supplied chapter-end questions removes
+    the generation effect that does most of the work.

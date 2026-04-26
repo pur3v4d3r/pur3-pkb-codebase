@@ -1,0 +1,40 @@
+concept: Competency Based Education
+domain: instructional-design
+secondary_domains:
+- assessment
+- higher-education
+aliases:
+- CBE
+- mastery-based education
+broader:
+- outcomes-based-education
+related:
+- mastery-learning
+- summative-assessment
+- criterion-referenced-assessment
+- micro-credentialing
+prerequisites:
+- assessment-theory
+confidence: medium
+callouts:
+- type: definition
+  title: Competency Based Education
+  body: Competency Based Education is an instructional model in which progression
+    is determined by demonstrated mastery of clearly specified competencies rather
+    than by time spent in instruction, decoupling credentialing from seat-time and
+    shifting accountability onto criterion-referenced assessment of observable performance.
+- type: key-claim
+  title: Key claim about Competency Based Education
+  body: Competency Based Education's central theoretical commitment is that holding
+    learning constant while letting time vary produces more equitable outcomes than
+    the inverse, the inherited industrial model of holding time constant while letting
+    learning vary; this reframing is what allows CBE to defend asynchronous progression
+    and credit-by-assessment while preserving outcome guarantees.
+- type: warning
+  title: Common pitfall regarding Competency Based Education
+  body: Competency Based Education depends critically on the validity and decomposability
+    of its competency specifications; when competencies are too granular, instruction
+    fragments into checkbox tasks that fail to integrate into deep expertise, and
+    when they are too holistic, assessment becomes subjective and CBE loses its accountability
+    advantage. Programs that adopt the CBE label without solving this granularity
+    problem reproduce traditional pathologies under new branding.

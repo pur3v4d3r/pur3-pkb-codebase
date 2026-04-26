@@ -1,0 +1,33 @@
+concept: Circular Reasoning
+domain: critical-thinking
+secondary_domains:
+- logic
+aliases:
+- petitio principii
+- begging the question
+broader:
+- informal-fallacy
+related:
+- argument-analysis
+- principle-of-charity
+- modus-ponens
+prerequisites:
+- argument-analysis
+confidence: high
+callouts:
+- type: definition
+  title: Circular Reasoning
+  body: Circular Reasoning is an argumentative pattern in which the conclusion is
+    presupposed — explicitly or covertly — by one of the premises, so that the argument
+    does no inferential work even though it may have the surface form of a deduction.
+- type: key-claim
+  title: Key claim about Circular Reasoning
+  body: Circular Reasoning fails not because it is invalid (it is in fact trivially
+    valid) but because it provides no rational basis for accepting the conclusion
+    that is independent of already accepting it, defeating the purpose of giving an
+    argument at all.
+- type: warning
+  title: Common pitfall regarding Circular Reasoning
+  body: Circular Reasoning is easy to disguise through paraphrase, synonym substitution,
+    or distance between premise and conclusion; spotting it reliably requires reconstructing
+    the argument in normal form rather than judging it from its surface presentation.

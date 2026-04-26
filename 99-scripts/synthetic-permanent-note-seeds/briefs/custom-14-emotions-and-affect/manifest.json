@@ -1,0 +1,54 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-14-emotions-and-affect",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-14-emotions-and-affect.md",
+    "notes": "Custom seeding batch 14: emotions-and-affect constructs spanning emotion\nregulation, interoceptive awareness, and the granularity of affective experience."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-14-emotions-and-affect",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-14-emotions-and-affect"
+  },
+  "counts": {
+    "parsed": 5,
+    "accepted": 5,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Affect Labeling",
+      "kebab": "affect-labeling",
+      "brief_path": "briefs/custom-14-emotions-and-affect/affect-labeling.yaml",
+      "expected_seed_filename": "affect-labeling-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Alexithymia",
+      "kebab": "alexithymia",
+      "brief_path": "briefs/custom-14-emotions-and-affect/alexithymia.yaml",
+      "expected_seed_filename": "alexithymia-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Emotional Granularity",
+      "kebab": "emotional-granularity",
+      "brief_path": "briefs/custom-14-emotions-and-affect/emotional-granularity.yaml",
+      "expected_seed_filename": "emotional-granularity-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Emotional Suppression",
+      "kebab": "emotional-suppression",
+      "brief_path": "briefs/custom-14-emotions-and-affect/emotional-suppression.yaml",
+      "expected_seed_filename": "emotional-suppression-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Interoception",
+      "kebab": "interoception",
+      "brief_path": "briefs/custom-14-emotions-and-affect/interoception.yaml",
+      "expected_seed_filename": "interoception-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

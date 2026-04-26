@@ -1,0 +1,40 @@
+concept: Emotional Suppression
+domain: emotion
+secondary_domains:
+- emotion-regulation
+- clinical-psychology
+aliases:
+- expressive suppression
+- response-focused regulation
+broader:
+- emotion-regulation
+related:
+- cognitive-reappraisal
+- gross-process-model
+- experiential-avoidance
+- rumination
+prerequisites:
+- emotion-regulation
+confidence: high
+callouts:
+- type: definition
+  title: Emotional Suppression
+  body: Emotional Suppression, in James Gross's process model of emotion regulation,
+    is a response-focused strategy in which the individual inhibits the outward behavioral
+    expression of an already-generated emotion, contrasted with antecedent-focused
+    strategies such as cognitive reappraisal that intervene earlier in the emotion-generation
+    sequence.
+- type: key-claim
+  title: Key claim about Emotional Suppression
+  body: 'Emotional Suppression is consistently associated with worse outcomes than
+    reappraisal across affective, cognitive, and physiological measures: it does not
+    reduce subjective negative emotion, it impairs memory for the emotional event,
+    and it elevates sympathetic-nervous-system arousal, identifying it as a high-cost
+    regulation strategy that pays an inner price for outer composure.'
+- type: warning
+  title: Common pitfall regarding Emotional Suppression
+  body: The cross-cultural psychology of Emotional Suppression complicates the standard
+    "suppression is bad" reading; in cultures with stronger interdependent self-construals,
+    expressive suppression has weaker or even reversed associations with wellbeing,
+    indicating that the costs of Emotional Suppression are partly mediated by whether
+    suppression is experienced as self-betrayal or as appropriate social calibration.

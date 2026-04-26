@@ -1,0 +1,39 @@
+concept: Obedience to Authority
+domain: social-psychology
+secondary_domains:
+- influence
+- ethics-of-research
+aliases:
+- Milgram obedience
+- authority compliance
+broader:
+- social-influence
+related:
+- conformity
+- deindividuation
+- situationism
+- agentic-state
+prerequisites:
+- social-influence
+confidence: high
+callouts:
+- type: definition
+  title: Obedience to Authority
+  body: Obedience to Authority is the tendency to comply with the directives of a
+    person perceived as legitimately empowered to issue them, even when the directed
+    behavior conflicts with the actor's personal moral standards — the phenomenon
+    famously operationalized by Stanley Milgram's shock-administration experiments.
+- type: key-claim
+  title: Key claim about Obedience to Authority
+  body: Obedience to Authority is not adequately explained by sadistic dispositions
+    or coercion; Milgram's data and subsequent reanalyses suggest that participants
+    comply when an authority absorbs perceived responsibility (the "agentic shift")
+    and when the situation supplies a stepwise escalation that never presents a clear
+    refusal point, making the determinants situational rather than dispositional.
+- type: warning
+  title: Common pitfall regarding Obedience to Authority
+  body: Reanalyses of Milgram's archives show substantial variation across his many
+    experimental conditions and serious questions about how scripted prods, debriefing,
+    and participant suspicion affected results; citing Obedience to Authority as a
+    fixed "65% will torture" finding flattens a much messier evidence base and overstates
+    how lawful the original effect actually was.

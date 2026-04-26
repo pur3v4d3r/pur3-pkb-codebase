@@ -1,0 +1,36 @@
+concept: Savoring
+domain: positive-psychology
+secondary_domains:
+- emotion-regulation
+- mindfulness
+aliases:
+- hedonic savoring
+- positive emotion regulation
+broader:
+- emotion-regulation
+related:
+- hedonic-adaptation
+- mindfulness
+- perma-model
+- gratitude
+prerequisites:
+- emotion-regulation
+confidence: medium
+callouts:
+- type: definition
+  title: Savoring
+  body: Savoring is the deliberate cognitive and behavioral process of attending to,
+    prolonging, and intensifying positive experiences, treating positive emotion regulation
+    as an active skill rather than as the absence of negative-emotion regulation.
+- type: key-claim
+  title: Key claim about Savoring
+  body: 'Savoring counteracts hedonic adaptation by interrupting the automatic baseline-shift
+    that erodes positive feeling: deliberate attentional engagement with a positive
+    experience appears to slow the rate at which it ceases to register as positive
+    against the new baseline.'
+- type: warning
+  title: Common pitfall regarding Savoring
+  body: Savoring can paradoxically dampen positive affect when it shades into self-conscious
+    monitoring; meta-emotional appraisal of "am I enjoying this enough?" tends to
+    disrupt the experience itself, so Savoring practices need to be calibrated to
+    attentional rather than evaluative engagement.

@@ -1,0 +1,37 @@
+concept: Cornell Note Taking
+domain: learning-science
+secondary_domains:
+- study-strategy
+- pkm
+aliases:
+- Cornell method
+- Cornell notes
+broader:
+- note-taking-system
+related:
+- active-note-making
+- sq3r-method
+- feynman-technique
+- active-recall
+prerequisites:
+- note-taking
+confidence: high
+callouts:
+- type: definition
+  title: Cornell Note Taking
+  body: Cornell Note Taking is a structured note-taking format that divides each page
+    into a wide notes column, a narrow cue column on the left, and a summary band
+    at the bottom, requiring the learner to extract cue questions and write a summary
+    as a post-lecture review pass.
+- type: key-claim
+  title: Key claim about Cornell Note Taking
+  body: Cornell Note Taking outperforms unstructured linear note-taking primarily
+    because the cue and summary bands force a deliberate review-and-elaboration phase
+    that converts the page into a self-quiz, embedding active recall into the artefact
+    itself.
+- type: warning
+  title: Common pitfall regarding Cornell Note Taking
+  body: Cornell Note Taking is often reduced to its visual layout, but adopting the
+    three-column page without performing the cue-extraction and summary passes captures
+    none of the benefit; the format is a scaffold for a process, not a study technique
+    on its own.

@@ -1,0 +1,39 @@
+concept: Implicit Bias
+domain: social-psychology
+secondary_domains:
+- intergroup-relations
+- cognitive-psychology
+aliases:
+- implicit attitudes
+- automatic bias
+broader:
+- intergroup-bias
+related:
+- stereotype-threat
+- halo-effect
+- iat
+- prejudice
+prerequisites:
+- attitudes
+confidence: medium
+callouts:
+- type: definition
+  title: Implicit Bias
+  body: Implicit Bias refers to evaluations and stereotypes that are activated automatically
+    — without conscious intent and often in conflict with explicitly endorsed beliefs
+    — as measured by reaction-time tasks such as the Implicit Association Test, and
+    theorized to influence judgment and behavior outside of awareness.
+- type: key-claim
+  title: Key claim about Implicit Bias
+  body: 'Implicit Bias is theoretically important because it predicts that intergroup
+    discrimination can persist even among people with sincere egalitarian beliefs,
+    but its empirical foundations are weaker than the public discourse implies: meta-analyses
+    of the IAT report low test-retest reliability and small, inconsistent correlations
+    with actual behavior.'
+- type: warning
+  title: Common pitfall regarding Implicit Bias
+  body: Implicit Bias trainings built on the assumption that reducing IAT scores reduces
+    discriminatory behavior have largely failed to produce durable behavioral change;
+    treating Implicit Bias as the primary explanatory mechanism for structural disparities
+    can crowd out attention to institutional policies and incentives that operate
+    independently of any individual's automatic associations.

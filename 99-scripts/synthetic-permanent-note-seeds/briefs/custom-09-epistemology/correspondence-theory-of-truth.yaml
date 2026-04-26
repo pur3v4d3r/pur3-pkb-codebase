@@ -1,0 +1,39 @@
+concept: Correspondence Theory of Truth
+domain: epistemology
+secondary_domains:
+- metaphysics
+- philosophy-of-language
+aliases:
+- correspondence theory
+- truthmaker theory
+broader:
+- theories-of-truth
+related:
+- coherence-theory
+- deflationism
+- truthmaker-principle
+- realism
+prerequisites:
+- theories-of-truth
+confidence: high
+callouts:
+- type: definition
+  title: Correspondence Theory of Truth
+  body: The Correspondence Theory of Truth holds that a proposition is true if and
+    only if it corresponds to a fact, state of affairs, or feature of reality — the
+    relation of correspondence is what makes the proposition true and what its truth
+    consists in.
+- type: key-claim
+  title: Key claim about Correspondence Theory of Truth
+  body: The Correspondence Theory of Truth is the default realist account of truth
+    and gains support from its alignment with ordinary intuition, but its theoretical
+    content depends entirely on what is meant by "correspondence" and "fact"; cashing
+    out these notions either requires controversial truthmaker ontology or threatens
+    to collapse the theory into a trivial restatement (Tarski-style disquotation).
+- type: warning
+  title: Common pitfall regarding Correspondence Theory of Truth
+  body: Critics argue that the Correspondence Theory of Truth either says too much
+    (by committing to facts as a category of entity, with all the metaphysical baggage
+    that follows) or too little (by reducing to schemas already accepted by deflationists
+    and coherentists). Proponents of the Correspondence Theory of Truth therefore
+    face a stable dilemma between substantive metaphysics and explanatory triviality.

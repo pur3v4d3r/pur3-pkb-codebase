@@ -1,0 +1,38 @@
+concept: Slippery Slope Fallacy
+domain: critical-thinking
+secondary_domains:
+- logic
+- argumentation
+- rhetoric
+aliases:
+- slippery-slope argument
+- camel's nose argument
+broader:
+- informal-fallacy
+related:
+- false-dichotomy
+- argument-analysis
+- causal-reasoning
+prerequisites:
+- argument-analysis
+- causal-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Slippery Slope Fallacy
+  body: The Slippery Slope Fallacy is committed when an argument claims that a relatively
+    modest first step will inevitably lead to a chain of progressively worse outcomes,
+    without supplying the causal or probabilistic warrant that each transition in
+    the chain actually follows from the previous one.
+- type: key-claim
+  title: Key claim about Slippery Slope Fallacy
+  body: The Slippery Slope Fallacy is fallacious not because chain arguments are inherently
+    bad — many are sound — but because the rhetorical version multiplies low-probability
+    transitions and presents the joint probability as if it were near-certain, obscuring
+    the compounding of uncertainty.
+- type: warning
+  title: Common pitfall regarding Slippery Slope Fallacy
+  body: Dismissing every chain-of-consequences argument as a Slippery Slope Fallacy
+    is itself an error; the legitimate diagnosis requires showing that at least one
+    transition in the predicted chain lacks a defensible causal mechanism, not merely
+    that the chain is long.

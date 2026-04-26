@@ -1,0 +1,66 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "custom-06-positive-psychology",
+    "date": "2026-04-26",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-26-custom-06-positive-psychology.md",
+    "notes": "Custom seeding batch 06: positive-psychology constructs."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/custom-06-positive-psychology",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-26-custom-06-positive-psychology"
+  },
+  "counts": {
+    "parsed": 7,
+    "accepted": 7,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Affective Forecasting",
+      "kebab": "affective-forecasting",
+      "brief_path": "briefs/custom-06-positive-psychology/affective-forecasting.yaml",
+      "expected_seed_filename": "affective-forecasting-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Grit",
+      "kebab": "grit",
+      "brief_path": "briefs/custom-06-positive-psychology/grit.yaml",
+      "expected_seed_filename": "grit-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Hedonic Adaptation",
+      "kebab": "hedonic-adaptation",
+      "brief_path": "briefs/custom-06-positive-psychology/hedonic-adaptation.yaml",
+      "expected_seed_filename": "hedonic-adaptation-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Hope Theory",
+      "kebab": "hope-theory",
+      "brief_path": "briefs/custom-06-positive-psychology/hope-theory.yaml",
+      "expected_seed_filename": "hope-theory-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "PERMA Model",
+      "kebab": "perma-model",
+      "brief_path": "briefs/custom-06-positive-psychology/perma-model.yaml",
+      "expected_seed_filename": "perma-model-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Psychological Capital",
+      "kebab": "psychological-capital",
+      "brief_path": "briefs/custom-06-positive-psychology/psychological-capital.yaml",
+      "expected_seed_filename": "psychological-capital-synthetic-seed-2026-04-26_extracted.json"
+    },
+    {
+      "term": "Savoring",
+      "kebab": "savoring",
+      "brief_path": "briefs/custom-06-positive-psychology/savoring.yaml",
+      "expected_seed_filename": "savoring-synthetic-seed-2026-04-26_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

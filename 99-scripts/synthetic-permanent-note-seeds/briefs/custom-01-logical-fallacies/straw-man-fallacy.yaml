@@ -1,0 +1,37 @@
+concept: Straw Man Fallacy
+domain: critical-thinking
+secondary_domains:
+- logic
+- argumentation
+- rhetoric
+aliases:
+- straw man
+- straw-person argument
+broader:
+- informal-fallacy
+related:
+- principle-of-charity
+- false-dichotomy
+- ad-hominem
+- argument-analysis
+prerequisites:
+- argument-analysis
+confidence: high
+callouts:
+- type: definition
+  title: Straw Man Fallacy
+  body: The Straw Man Fallacy occurs when an arguer responds not to their opponent's
+    actual position but to a distorted, weakened, or caricatured version of it that
+    is easier to refute, then claims victory over the original view by defeating the
+    substitute.
+- type: key-claim
+  title: Key claim about Straw Man Fallacy
+  body: The Straw Man Fallacy persists because attacking a weakened version of an
+    opponent's position is rhetorically efficient and emotionally satisfying, even
+    though it fails the basic dialectical obligation to engage the strongest available
+    form of the opposing view.
+- type: warning
+  title: Common pitfall regarding Straw Man Fallacy
+  body: Diagnosing a Straw Man Fallacy requires the diagnostician to first reconstruct
+    the opponent's actual argument fairly; otherwise the accusation of straw-manning
+    becomes itself a straw-manning move, used to dismiss critique without engagement.

@@ -1,0 +1,41 @@
+concept: Game Based Learning
+domain: instructional-design
+secondary_domains:
+- educational-technology
+- motivation
+aliases:
+- GBL
+- serious games
+broader:
+- educational-technology
+related:
+- gamification
+- simulation-based-learning
+- intrinsic-motivation
+- experiential-learning
+prerequisites:
+- learning-theory
+confidence: medium
+callouts:
+- type: definition
+  title: Game Based Learning
+  body: Game Based Learning is an instructional approach that uses games — designed
+    artifacts with goals, rules, feedback systems, and voluntary participation — as
+    the primary medium for learning, distinguished from gamification by integrating
+    instructional content into gameplay rather than overlaying game elements onto
+    non-game tasks.
+- type: key-claim
+  title: Key claim about Game Based Learning
+  body: Game Based Learning's strongest empirical case is for procedural and decision-making
+    skills in well-defined domains where the game mechanics directly model the target
+    skill (flight simulation, surgical training, strategic reasoning), because the
+    game's feedback loop functions as deliberate practice with embedded scaffolding
+    rather than as decoration.
+- type: warning
+  title: Common pitfall regarding Game Based Learning
+  body: Meta-analyses of Game Based Learning report modest average effects with high
+    heterogeneity, and many positive findings come from comparisons against weak control
+    conditions rather than against well-designed conventional instruction; treating
+    Game Based Learning as inherently superior to non-game instruction misreads the
+    evidence, which more accurately supports "well-designed games" outperforming "poorly
+    designed alternatives" — a much weaker claim.

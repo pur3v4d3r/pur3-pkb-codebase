@@ -1,0 +1,37 @@
+concept: Acetylcholine and Memory
+domain: neuroscience-of-learning
+secondary_domains:
+- cognitive-neuroscience
+- memory-science
+aliases:
+- cholinergic system and memory
+- ACh and memory
+broader:
+- neuromodulation-and-learning
+related:
+- hippocampal-neocortical-transfer
+- attention
+- alzheimers-disease
+prerequisites:
+- neurotransmission
+confidence: high
+callouts:
+- type: definition
+  title: Acetylcholine and Memory
+  body: Acetylcholine and Memory refers to the modulatory role of the cholinergic
+    neurotransmitter acetylcholine — released by basal-forebrain projections to the
+    hippocampus and neocortex — in gating attentional selection during encoding and
+    biasing the hippocampus toward storage of new information rather than retrieval
+    of old patterns.
+- type: key-claim
+  title: Key claim about Acetylcholine and Memory
+  body: The Acetylcholine and Memory literature shows that pharmacological blockade
+    of muscarinic receptors during encoding selectively impairs subsequent recall
+    while leaving recognition relatively intact, supporting a model in which acetylcholine
+    specifically supports the binding of contextual detail into episodic traces.
+- type: warning
+  title: Common pitfall regarding Acetylcholine and Memory
+  body: Acetylcholine and Memory is often summarized as "ACh = memory chemical," but
+    the cholinergic system's contribution is to biasing the encoding/retrieval balance
+    and to attentional gating; treating it as a uniform amplifier of "memory" obscures
+    the dissociations actually observed in the lesion and pharmacology data.

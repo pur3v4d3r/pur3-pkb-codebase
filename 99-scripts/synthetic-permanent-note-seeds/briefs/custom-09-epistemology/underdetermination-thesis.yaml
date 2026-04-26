@@ -1,0 +1,41 @@
+concept: Underdetermination Thesis
+domain: epistemology
+secondary_domains:
+- philosophy-of-science
+- philosophy-of-language
+aliases:
+- underdetermination of theory by evidence
+- Duhem-Quine thesis
+broader:
+- philosophy-of-science
+related:
+- holism
+- theory-ladenness-of-observation
+- scientific-realism
+- ampliative-inference
+prerequisites:
+- philosophy-of-science
+confidence: high
+callouts:
+- type: definition
+  title: Underdetermination Thesis
+  body: The Underdetermination Thesis is the claim, associated with Pierre Duhem and
+    W. V. O. Quine, that for any body of empirical evidence there are in principle
+    multiple, mutually incompatible theories that are equally consistent with that
+    evidence, so evidence alone cannot rationally compel acceptance of any particular
+    theory.
+- type: key-claim
+  title: Key claim about Underdetermination Thesis
+  body: 'The Underdetermination Thesis matters because it forces a choice: either
+    theory selection in science is partly governed by extra-empirical criteria (simplicity,
+    coherence, fruitfulness, conservatism) that themselves require justification,
+    or it is governed by considerations external to rationality narrowly construed
+    — and either horn has serious consequences for scientific realism.'
+- type: warning
+  title: Common pitfall regarding Underdetermination Thesis
+  body: A common overreach treats the Underdetermination Thesis as licensing relativism
+    — "any theory is as good as any other" — but the thesis is about in-principle
+    logical possibility; in scientific practice, genuine empirically-equivalent rivals
+    are vanishingly rare, and most cases cited as Underdetermination are in fact resolved
+    by additional evidence, so the thesis grounds far less skepticism than it is sometimes
+    invoked to support.

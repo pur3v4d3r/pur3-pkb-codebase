@@ -1,0 +1,38 @@
+concept: Mental Accounting
+domain: behavioral-economics
+secondary_domains:
+- consumer-behavior
+- judgment
+aliases:
+- Thaler mental accounting
+broader:
+- behavioral-finance
+related:
+- endowment-effect
+- sunk-cost-fallacy
+- framing-effect
+- fungibility
+prerequisites:
+- prospect-theory
+confidence: high
+callouts:
+- type: definition
+  title: Mental Accounting
+  body: Mental Accounting, developed by Richard Thaler, is the cognitive process by
+    which individuals categorize, label, and evaluate financial activities into separate
+    notional accounts (e.g., "vacation money," "rent money," "windfall"), violating
+    the economic principle that money is fungible.
+- type: key-claim
+  title: Key claim about Mental Accounting
+  body: Mental Accounting predicts systematic deviations from rational consumption
+    — people will simultaneously hold high-interest debt and low-yielding savings,
+    treat a tax refund differently from a wage increase of equal size, and react to
+    identical losses differently depending on which mental account absorbs them —
+    because the accounts impose locally enforced budget constraints.
+- type: warning
+  title: Common pitfall regarding Mental Accounting
+  body: Mental Accounting is not uniformly suboptimal; the same categorical structure
+    that produces inefficiency can also serve as a self-control technology, helping
+    agents protect long-term goals from short-term temptation. Treating Mental Accounting
+    as a pure error reservoir misses that some "irrational" partitioning is precisely
+    what makes household budgeting tractable for cognitively bounded agents.

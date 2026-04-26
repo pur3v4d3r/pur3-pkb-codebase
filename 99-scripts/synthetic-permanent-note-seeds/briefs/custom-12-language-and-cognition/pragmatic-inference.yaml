@@ -1,0 +1,39 @@
+concept: Pragmatic Inference
+domain: language-and-cognition
+secondary_domains:
+- pragmatics
+- psycholinguistics
+aliases:
+- conversational implicature
+- pragmatic enrichment
+broader:
+- pragmatics
+related:
+- grice-maxims
+- relevance-theory
+- theory-of-mind
+- scalar-implicature
+prerequisites:
+- grice-maxims
+- theory-of-mind
+confidence: high
+callouts:
+- type: definition
+  title: Pragmatic Inference
+  body: Pragmatic Inference is the cognitive process by which a comprehender derives
+    intended meaning that goes beyond the linguistically encoded content of an utterance,
+    exploiting context, shared knowledge, and assumptions about the speaker's communicative
+    intentions.
+- type: key-claim
+  title: Key claim about Pragmatic Inference
+  body: 'Pragmatic Inference is not a late, optional embellishment on semantic processing
+    but appears to be incrementally interleaved with parsing: eye-tracking and ERP
+    studies show that scalar implicatures and other Pragmatic Inferences are computed
+    within hundreds of milliseconds, suggesting a tight coupling between literal decoding
+    and pragmatic enrichment.'
+- type: warning
+  title: Common pitfall regarding Pragmatic Inference
+  body: Pragmatic Inference is sometimes treated as a uniform capacity, but its profile
+    dissociates across populations and contexts; autistic individuals, for example,
+    often pass Theory of Mind tasks while showing atypical patterns on specific Pragmatic
+    Inferences, indicating that the construct masks several distinguishable mechanisms.

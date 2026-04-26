@@ -1,0 +1,37 @@
+concept: Leitner System
+domain: learning-science
+secondary_domains:
+- memory-science
+- spaced-repetition
+- study-strategy
+aliases:
+- Leitner box system
+- paper SRS
+broader:
+- spaced-repetition
+related:
+- active-recall
+- spaced-retrieval
+- pomodoro-technique
+- anki
+prerequisites:
+- spaced-repetition
+confidence: high
+callouts:
+- type: definition
+  title: Leitner System
+  body: The Leitner System is a paper-based spaced-repetition scheme in which flashcards
+    are sorted into a series of physical boxes; cards answered correctly graduate
+    to a less-frequently-reviewed box, while cards missed are demoted to the most-frequently-reviewed
+    box.
+- type: key-claim
+  title: Key claim about Leitner System
+  body: 'The Leitner System is the historical prototype of all modern algorithmic
+    spaced-repetition schedulers and embodies the same core idea: review interval
+    should be a function of the recent retrieval success of an item, not of the calendar.'
+- type: warning
+  title: Common pitfall regarding Leitner System
+  body: The Leitner System is often dismissed as obsolete now that software schedulers
+    exist, but the physical version offers a tangible feedback signal — the size of
+    each box — that algorithmic SRS hides, and many learners regulate their workload
+    better with the visible boxes than with an opaque queue.
