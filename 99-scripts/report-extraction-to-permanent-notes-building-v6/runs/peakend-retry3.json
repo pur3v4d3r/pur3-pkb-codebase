@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Peak End Rule",
+    "slug": "peak-end-rule",
+    "report_stem": "peak-end-rule-synthetic-seed-2026-04-26",
+    "ok": false,
+    "cached": false,
+    "written_path": null,
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": "StructuredOutputError: No JSON object found in response: '{\\n  \"elaborated_definition\": \"The Peak End Rule is a principle that suggests people\\'s overall evaluation of an experience depends more on its peak intensity and how it ends, rather than its duration o'"
+  }
+]

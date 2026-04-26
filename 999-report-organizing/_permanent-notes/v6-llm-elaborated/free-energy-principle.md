@@ -1,0 +1,147 @@
+---
+title: "Free Energy Principle"
+aliases:
+  - "Free Energy Principle"
+  - "FEP"
+  - "Friston free energy principle"
+  - "variational free energy"
+type: permanent-note
+status: enriched
+confidence: medium
+
+tags:
+  - permanent-note
+  - v6-llm-elaborated
+  - cognitive-science
+
+domain: cognitive-science
+subdomains:
+  - computational-neuroscience
+  - theoretical-biology
+
+created: 2026-04-26
+updated: 2026-04-26
+
+source-type: report-extraction
+source-reports:
+  - "free-energy-principle-synthetic-seed-2026-04-26"
+evidence-quality: medium
+extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
+
+complexity-level: advanced-practitioner
+depth-level: elaborated
+
+parent-concept: "Predictive Processing"
+
+related:
+  - "[[Active Inference]]"
+  - "[[Predictive Coding]]"
+  - "[[Bayesian Brain Model]]"
+prerequisites:
+  - "[[]]"
+specializes:
+  - "[[Active Inference]]"
+broader:
+  - "[[]]"
+see-also:
+  - "[[Predictive Coding]]"
+contrasts-with:
+  - "[[Bayesian Brain Model]]"
+contradicts:
+  - "[[]]"
+applies-to:
+  - "[[]]"
+formalizes:
+  - "[[]]"
+instance-of:
+  - "[[]]"
+supports:
+  - "[[]]"
+refines:
+  - "[[]]"
+
+review-frequency: quarterly
+mastery-stage: budding
+importance: medium
+
+provenance:
+  pipeline-version: "v6.0.0"
+  outline-contract: "v6-outline-v1"
+  elaborate-contract: "v6-elaborate-v1"
+  passes: 2
+---
+
+# Free Energy Principle
+
+> [!definition] **Free Energy Principle**
+> The Free Energy Principle (FEP) is a theoretical framework proposed by Karl Friston that posits self-organizing systems minimize variational free energy to predict and adapt to their environment, thereby reducing surprise from sensory inputs. It falls under [[Predictive Processing]], where the brain's function can be understood as minimizing this energy to achieve stable perception, action, and learning.
+
+> [!attention] **Boundary**
+> This principle focuses on the minimization of variational free energy in self-organizing systems. It does not cover specific applications or detailed mechanisms outside this core concept.
+
+## Core Explanation
+
+At its core, the Free Energy Principle suggests that self-organizing systems, including biological organisms like humans, minimize variational free energy. This principle is rooted in the idea that by predicting sensory inputs based on internal generative models, these systems can reduce the surprise or uncertainty of incoming data, leading to more efficient and adaptive behavior.
+
+In practice, this means that when a system receives sensory input, it compares its prediction with the actual input. If there's a discrepancy, the system adjusts its model to better predict future inputs, thereby minimizing free energy. This process is continuous and dynamic, allowing organisms to adapt their actions based on predictions of what will happen next.
+
+Theoretical roots of FEP can be traced back to information theory and Bayesian inference. By framing perception, action, and learning as a minimization problem, the principle provides a unifying framework that explains how biological systems can achieve stable states while remaining flexible enough to adapt to changing environments.
+
+Empirically, the Free Energy Principle has been applied in various domains such as neuroscience, psychology, and artificial intelligence. For instance, it helps explain phenomena like attentional focus, where organisms prioritize certain sensory inputs over others based on their predictions.
+
+## Mechanism
+
+Self-organizing systems use generative models to predict sensory inputs by constructing a probabilistic map of the world. These models are updated continuously as new data is received, allowing the system to refine its predictions and reduce surprise from unexpected inputs.
+
+## Practical Implications
+
+> [!example] **Application 1 — Instructional design**
+> In instructional design, FEP suggests that learners' prior knowledge should be leveraged to predict their understanding of new material. By aligning teaching methods with these predictions, educators can minimize cognitive load and enhance learning outcomes.
+
+> [!example] **Application 2 — Robotics**
+> In robotics, FEP provides a framework for designing adaptive robots that can predict sensor inputs based on internal models. This allows the robot to make informed decisions about its actions, leading to more efficient and responsive behavior.
+
+> [!example] **Application 3 — Neuroscience**
+> FEP helps explain how the brain processes sensory information by predicting what it expects to see or feel next. This prediction-based approach can be used to understand disorders like schizophrenia, where there may be a breakdown in predictive processing.
+
+## Key Distinctions
+
+> [!key-distinction] **FEP vs Predictive Coding**
+> While both frameworks focus on prediction and adaptation, FEP emphasizes the minimization of variational free energy as the core principle. In contrast, predictive coding focuses more on error correction through top-down predictions from higher to lower levels of processing.
+
+> [!key-distinction] **FEP vs Bayesian Brain Model**
+> Both models use Bayesian principles but differ in their approach to prediction and learning. FEP specifically aims to minimize free energy, while the Bayesian brain model is a broader framework that includes various probabilistic approaches to cognition.
+
+## Key Figures
+
+- **Karl Friston** — Karl Friston is the primary proponent of the Free Energy Principle and has extensively developed its theoretical foundations in cognitive science and neuroscience.
+
+## Open Questions
+
+> [!open-question] **Question**
+> What are the empirical tests that can validate the Free Energy Principle?
+>
+> *What would resolve it:* Empirical validation would require specific experiments that demonstrate how real brains implement variational free energy minimization, such as neuroimaging studies or computational models.
+
+> [!open-question] **Question**
+> How does the principle apply to non-biological systems?
+>
+> *What would resolve it:* Further research into applying FEP to artificial intelligence and robotics could provide insights into its broader applicability beyond biological systems.
+
+## Synthesis
+
+The Free Energy Principle is significant as a unifying theory of biological self-organization because it provides a coherent framework for understanding perception, action, and learning. By integrating concepts from information theory, Bayesian inference, and predictive processing, FEP offers a comprehensive explanation that can be applied across various domains including neuroscience, psychology, and artificial intelligence.
+
+This principle challenges traditional views by proposing that the brain's primary function is to minimize free energy rather than simply processing sensory inputs. This shift in perspective has profound implications for our understanding of cognitive processes and could lead to new insights into neurological disorders and the development of more adaptive AI systems.
+
+## Connections & Context
+
+**Falls under:** [[Predictive Processing]]
+
+**Specializes:** [[Active Inference]]
+
+**Sibling concepts:** [[Predictive Coding]]
+
+**Contrasts with:** [[Bayesian Brain Model]]
+
+**Source:** [[free-energy-principle-synthetic-seed-2026-04-26]]

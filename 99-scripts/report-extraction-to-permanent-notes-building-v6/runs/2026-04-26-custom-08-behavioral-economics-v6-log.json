@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Affect Heuristic",
+    "slug": "affect-heuristic",
+    "report_stem": "affect-heuristic-synthetic-seed-2026-04-26",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\affect-heuristic.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Decision Fatigue",
+    "slug": "decision-fatigue",
+    "report_stem": "decision-fatigue-synthetic-seed-2026-04-26",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\decision-fatigue.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Endowment Effect",
+    "slug": "endowment-effect",
+    "report_stem": "endowment-effect-synthetic-seed-2026-04-26",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\endowment-effect.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Expected Utility Theory",
+    "slug": "expected-utility-theory",
+    "report_stem": "expected-utility-theory-synthetic-seed-2026-04-26",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\expected-utility-theory.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Intertemporal Choice",
+    "slug": "intertemporal-choice",
+    "report_stem": "intertemporal-choice-synthetic-seed-2026-04-26",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\intertemporal-choice.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Mental Accounting",
+    "slug": "mental-accounting",
+    "report_stem": "mental-accounting-synthetic-seed-2026-04-26",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\mental-accounting.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Peak End Rule",
+    "slug": "peak-end-rule",
+    "report_stem": "peak-end-rule-synthetic-seed-2026-04-26",
+    "ok": false,
+    "cached": false,
+    "written_path": null,
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": "StructuredOutputError: No JSON object found in response: '{\\n  \"elaborated_definition\": \"The Peak End Rule is a principle that suggests people\\'s overall evaluation of an experience depends more on its peak intensity and how it ends, rather than its duration o'"
+  },
+  {
+    "title": "Scope Insensitivity",
+    "slug": "scope-insensitivity",
+    "report_stem": "scope-insensitivity-synthetic-seed-2026-04-26",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\scope-insensitivity.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]
