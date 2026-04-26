@@ -901,11 +901,21 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-per
 
 
 
+# New Theme Test
 
+MAKE SURE TO USE THIS PROMPT FOR THE THEME GENERATION -> `D:\10_pur3v4d3r's-vault\.github\agents\_obsidian-snippet-theme-expert-v1.0.0.md`
 
+I have a theme for Obsidian that I really like called v4d3r Crimson, and Sanguine. I want you to review these themes and analyze the color schemes, design elements, and overall aesthetic, so you understand what patterns of style I like.
+Then I want you to spend time planning out a new theme thats main colors are still Red, Black, Grey.
+This theme should be comprehensive and include the full range of eklements that have been custimized.
+You have free reighn over what you make this theme look and feel like within the bounds of the color scheme.
+I do like the card astehtic
 
+The Goal is to have a new theme that I can switch to that is different then v4d3r Crimson, and v4d3r sanguine
+snaguine is probly my faavorite of the two.
 
-
+`D:\10_pur3v4d3r's-vault\.obsidian\themes\V4D3R Crimson` -> Crimson
+`D:\10_pur3v4d3r's-vault\.obsidian\themes\V4D3R Sanguine` -> Sanguine
 
 
 

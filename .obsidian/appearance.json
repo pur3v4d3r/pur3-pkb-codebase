@@ -1,5 +1,5 @@
 {
-  "cssTheme": "V4D3R Crimson",
+  "cssTheme": "V4D3R Sanguine",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -10,9 +10,7 @@
     "__v4d3r-mermaid-tables-plugins-part3",
     "09-dataview",
     "block-quote-gradient",
-    "callout-minimal-outline",
-    "pur3v4d3r-ultimate-callout-system",
-    "callout-base"
+    "callout-minimal-outline"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
@@ -23,6 +21,6 @@
   "nativeMenus": false,
   "baseFontSize": 16,
   "theme": "obsidian",
-  "accentColor": "",
+  "accentColor": "#ff0000",
   "translucency": true
 }

@@ -1,6 +1,6 @@
 # V4D3R Rose
 
-> Dark theme with vibrant Rose, Black, and Grey palette
+> Soft rose accents
 
 ## About
 
@@ -8,8 +8,8 @@ Color variant of **V4D3R**, generated via perceptually uniform
 OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
-- **Source hue:** 28.4°
-- **Target hue:** 20.8°
+- **Source hue:** 23.5°
+- **Target hue:** 355.0°
 - **Chroma:** preserved
 - **Lightness offset:** +0.00
 

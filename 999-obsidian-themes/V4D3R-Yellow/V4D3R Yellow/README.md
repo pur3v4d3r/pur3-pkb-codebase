@@ -1,6 +1,6 @@
 # V4D3R Yellow
 
-> Dark theme with vibrant Yellow, Black, and Grey palette
+> Yellow accents
 
 ## About
 
@@ -8,8 +8,8 @@ Color variant of **V4D3R**, generated via perceptually uniform
 OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
-- **Source hue:** 28.4°
-- **Target hue:** 109.8°
+- **Source hue:** 23.5°
+- **Target hue:** 95.0°
 - **Chroma:** +10% from source
 - **Lightness offset:** +0.00
 

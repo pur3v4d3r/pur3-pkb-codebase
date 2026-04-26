@@ -1,6 +1,6 @@
         # V4D3R Ocean
 
-        > Dark theme with Ocean Blue dual-tone, Black, and Grey palette
+        > Cyan/blue dual-tone
 
         ## About
 
@@ -8,9 +8,9 @@
         OKLCH hue rotation. Greys, blacks, and out-of-band colors are
         preserved; semantic colors (success/warn/error) are not rotated.
 
-        - **Source hue:** 28.4°
-        - **Target hue:** 231.6°
-- **Secondary hue:** 260.3° (dual-tone)
+        - **Source hue:** 23.5°
+        - **Target hue:** 200.0°
+- **Secondary hue:** 240.0° (dual-tone)
         - **Chroma:** preserved
         - **Lightness offset:** +0.00
 

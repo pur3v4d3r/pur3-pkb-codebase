@@ -1,6 +1,6 @@
 # V4D3R Orange
 
-> Dark theme with vibrant Orange, Black, and Grey palette
+> Warm orange accents
 
 ## About
 
@@ -8,8 +8,8 @@ Color variant of **V4D3R**, generated via perceptually uniform
 OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
-- **Source hue:** 28.4°
-- **Target hue:** 44.8°
+- **Source hue:** 23.5°
+- **Target hue:** 55.0°
 - **Chroma:** +5% from source
 - **Lightness offset:** +0.00
 

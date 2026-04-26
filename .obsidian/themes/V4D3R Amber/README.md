@@ -1,6 +1,6 @@
 # V4D3R Amber
 
-> Dark theme with Amber, Black, and Grey palette
+> Amber-gold accents
 
 ## About
 
@@ -8,8 +8,8 @@ Color variant of **V4D3R**, generated via perceptually uniform
 OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
-- **Source hue:** 28.4°
-- **Target hue:** 69.1°
+- **Source hue:** 23.5°
+- **Target hue:** 80.0°
 - **Chroma:** +10% from source
 - **Lightness offset:** +0.00
 

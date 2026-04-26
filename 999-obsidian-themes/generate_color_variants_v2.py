@@ -79,7 +79,7 @@ __version__ = "2.0.0"
 
 # Default vault layout — overridable via --vault / config.
 DEFAULT_VAULT_ROOT: Path = Path(r"D:\10_pur3v4d3r's-vault")
-DEFAULT_THEME_SOURCE_REL: Path = Path(".obsidian/themes/V4D3R Crimson")
+DEFAULT_THEME_SOURCE_REL: Path = Path("999-obsidian-themes/V4D3R-Sanguine/V4D3R Sanguine")
 DEFAULT_SNIPPETS_SOURCE_REL: Path = Path(".obsidian/snippets")
 DEFAULT_OUTPUT_REL: Path = Path("999-obsidian-themes")
 
@@ -579,19 +579,95 @@ def wcag_grade(ratio: float) -> str:
 # ═════════════════════════════════════════════════════════════════════════
 
 BUILTIN_SCHEMES: tuple[ColorScheme, ...] = (
-    ColorScheme("Teal", "teal", 195.0, "Vibrant teal accents"),
-    ColorScheme("Blue", "blue", 245.0, "Vivid blue accents"),
-    ColorScheme("Purple", "purple", 305.0, "Royal purple accents"),
-    ColorScheme("Magenta", "magenta", 345.0, "Electric magenta accents"),
-    ColorScheme("Pink", "pink", 0.0, "Hot-pink accents"),
-    ColorScheme("Orange", "orange", 55.0, "Warm orange accents", chroma_mult=1.05),
-    ColorScheme("Amber", "amber", 75.0, "Amber-gold accents", chroma_mult=1.1),
-    ColorScheme("Green", "green", 145.0, "Pure green accents"),
-    ColorScheme("Lime", "lime", 130.0, "Lime-green accents", chroma_mult=1.1),
-    ColorScheme("Cyan", "cyan", 200.0, "Bright cyan accents"),
+    # ── Core single-hue (full wheel sweep) ──
     ColorScheme("Crimson", "crimson", 25.0, "Crimson red accents"),
-    ColorScheme("Aurora", "aurora", 160.0, "Teal/violet dual-tone", secondary_hue=305.0),
-    ColorScheme("Sunset", "sunset", 55.0, "Orange/rose dual-tone", secondary_hue=10.0),
+    ColorScheme("Ruby", "ruby", 12.0, "Deep ruby red accents"),
+    ColorScheme("Rose", "rose", 355.0, "Soft rose accents"),
+    ColorScheme("Pink", "pink", 0.0, "Hot-pink accents"),
+    ColorScheme("Magenta", "magenta", 345.0, "Electric magenta accents"),
+    ColorScheme("Fuchsia", "fuchsia", 325.0, "Vivid fuchsia accents"),
+    ColorScheme("Purple", "purple", 305.0, "Royal purple accents"),
+    ColorScheme("Violet", "violet", 285.0, "Deep violet accents"),
+    ColorScheme("Indigo", "indigo", 265.0, "Indigo accents"),
+    ColorScheme("Blue", "blue", 245.0, "Vivid blue accents"),
+    ColorScheme("Sapphire", "sapphire", 230.0, "Sapphire blue accents"),
+    ColorScheme("Sky", "sky", 215.0, "Sky-blue accents"),
+    ColorScheme("Cyan", "cyan", 200.0, "Bright cyan accents"),
+    ColorScheme("Teal", "teal", 190.0, "Vibrant teal accents"),
+    ColorScheme("Mint", "mint", 165.0, "Cool mint accents"),
+    ColorScheme("Emerald", "emerald", 150.0, "Emerald green accents"),
+    ColorScheme("Green", "green", 140.0, "Pure green accents"),
+    ColorScheme("Lime", "lime", 125.0, "Lime-green accents", chroma_mult=1.10),
+    ColorScheme("Olive", "olive", 105.0, "Olive accents",
+                chroma_mult=0.85, lightness_offset=-0.02),
+    ColorScheme("Yellow", "yellow", 95.0, "Yellow accents", chroma_mult=1.10),
+    ColorScheme("Amber", "amber", 80.0, "Amber-gold accents", chroma_mult=1.10),
+    ColorScheme("Gold", "gold", 70.0, "Gold accents", chroma_mult=1.05),
+    ColorScheme("Orange", "orange", 55.0, "Warm orange accents", chroma_mult=1.05),
+    ColorScheme("Tangerine", "tangerine", 40.0, "Tangerine accents", chroma_mult=1.05),
+
+    # ── Pastel set (reduced chroma, slightly lighter) ──
+    ColorScheme("Pastel-Rose", "pastel-rose", 355.0,
+                "Pastel rose accents",
+                chroma_mult=0.55, lightness_offset=0.05),
+    ColorScheme("Pastel-Lavender", "pastel-lavender", 285.0,
+                "Pastel lavender accents",
+                chroma_mult=0.55, lightness_offset=0.05),
+    ColorScheme("Pastel-Sky", "pastel-sky", 215.0,
+                "Pastel sky accents",
+                chroma_mult=0.55, lightness_offset=0.05),
+    ColorScheme("Pastel-Mint", "pastel-mint", 165.0,
+                "Pastel mint accents",
+                chroma_mult=0.55, lightness_offset=0.05),
+    ColorScheme("Pastel-Butter", "pastel-butter", 90.0,
+                "Pastel butter accents",
+                chroma_mult=0.55, lightness_offset=0.05),
+    ColorScheme("Pastel-Peach", "pastel-peach", 40.0,
+                "Pastel peach accents",
+                chroma_mult=0.55, lightness_offset=0.05),
+
+    # ── Muted / dusk set (reduced chroma + darker) ──
+    ColorScheme("Muted-Wine", "muted-wine", 12.0,
+                "Muted wine accents",
+                chroma_mult=0.7, lightness_offset=-0.05),
+    ColorScheme("Muted-Plum", "muted-plum", 305.0,
+                "Muted plum accents",
+                chroma_mult=0.7, lightness_offset=-0.05),
+    ColorScheme("Muted-Slate", "muted-slate", 230.0,
+                "Muted slate-blue accents",
+                chroma_mult=0.6, lightness_offset=-0.04),
+    ColorScheme("Muted-Forest", "muted-forest", 140.0,
+                "Muted forest-green accents",
+                chroma_mult=0.7, lightness_offset=-0.05),
+    ColorScheme("Muted-Bronze", "muted-bronze", 55.0,
+                "Muted bronze accents",
+                chroma_mult=0.7, lightness_offset=-0.04),
+
+    # ── Neon set (boosted chroma) ──
+    ColorScheme("Neon-Magenta", "neon-magenta", 340.0,
+                "Neon magenta accents", chroma_mult=1.30),
+    ColorScheme("Neon-Cyan", "neon-cyan", 200.0,
+                "Neon cyan accents", chroma_mult=1.30),
+    ColorScheme("Neon-Lime", "neon-lime", 125.0,
+                "Neon lime accents", chroma_mult=1.30),
+
+    # ── Dual-tone (analogous / complementary) ──
+    ColorScheme("Aurora", "aurora", 160.0,
+                "Teal/violet dual-tone", secondary_hue=305.0),
+    ColorScheme("Sunset", "sunset", 55.0,
+                "Orange/rose dual-tone", secondary_hue=10.0),
+    ColorScheme("Dusk", "dusk", 270.0,
+                "Indigo/magenta dual-tone", secondary_hue=345.0),
+    ColorScheme("Ocean", "ocean", 200.0,
+                "Cyan/blue dual-tone", secondary_hue=240.0),
+    ColorScheme("Forest", "forest", 140.0,
+                "Green/yellow dual-tone", secondary_hue=90.0),
+    ColorScheme("Berry", "berry", 305.0,
+                "Purple/magenta dual-tone", secondary_hue=345.0),
+    ColorScheme("Volcano", "volcano", 25.0,
+                "Crimson/orange dual-tone", secondary_hue=55.0),
+    ColorScheme("Glacier", "glacier", 200.0,
+                "Cyan/mint dual-tone", secondary_hue=170.0),
 )
 
 

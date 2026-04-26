@@ -474,12 +474,12 @@
   .callout {
     box-shadow: none !important;
     border: 1px solid #999 !important;
-    border-left: 4px solid #00814b !important;
+    border-left: 4px solid #00814a !important;
     background: #fff !important;
     animation: none !important;
   }
   .callout-title-inner {
-    color: #00814b !important;
+    color: #00814a !important;
     text-shadow: none !important;
   }
   .callout-content {
@@ -491,7 +491,7 @@
   }
   .callout-content strong,
   .callout-content em {
-    color: #00814b !important;
+    color: #00814a !important;
     text-shadow: none !important;
   }
 }

@@ -1,6 +1,6 @@
         # V4D3R Aurora
 
-        > Auto-generated color variant.
+        > Teal/violet dual-tone
 
         ## About
 
@@ -8,9 +8,9 @@
         OKLCH hue rotation. Greys, blacks, and out-of-band colors are
         preserved; semantic colors (success/warn/error) are not rotated.
 
-        - **Source hue:** 28.4°
-        - **Target hue:** 160.1°
-- **Secondary hue:** 293.6° (dual-tone)
+        - **Source hue:** 23.5°
+        - **Target hue:** 160.0°
+- **Secondary hue:** 305.0° (dual-tone)
         - **Chroma:** preserved
         - **Lightness offset:** +0.00
 

@@ -1,0 +1,1929 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+ * V4D3R SANGUINE THEME
+ * File: theme.css
+ * Version: 1.0.0
+ * Author: Pur3v4d3r
+ * License: MIT
+ * Min Obsidian: 1.5.0+
+ *
+ * Purpose:
+ *   The scholarly, editorial counterpart to V4D3R Crimson. Same Red/Black/Grey
+ *   palette, fundamentally different voice — noir manuscript instead of
+ *   cyberpunk terminal. Oxblood serif typography, hairline rules, sharp
+ *   corners, drop-cap on H1, manuscript-ribbon callouts.
+ *
+ * Targets:
+ *   - Live Preview: yes
+ *   - Reading View: yes
+ *   - Mobile: yes
+ *
+ * Variables introduced (all prefixed --vsg-* — override in your own snippet):
+ *   See PART 1 below for the full inventory.
+ *
+ * Dependencies: none (IBM Plex stack falls back to system fonts).
+ * Conflicts:    none with V4D3R Crimson (different prefixes; only one theme
+ *               active at a time anyway).
+ *
+ * ───────────────────────────────────────────────────────────────────────────
+ * TABLE OF CONTENTS
+ * ───────────────────────────────────────────────────────────────────────────
+ *   PART 1:  Foundation Variables ...................... [VARS]
+ *   PART 2:  Base Typography ........................... [TYPE]
+ *   PART 3:  Reading Width & Text Formatting ........... [TEXT]
+ *   PART 4:  Workspace & Layout ........................ [LAYOUT]
+ *   PART 5:  File Explorer ............................. [EXPLORER]
+ *   PART 6:  Sidebars & Navigation ..................... [NAV]
+ *   PART 7:  Status Bar ................................ [STATUS]
+ *   PART 8:  Modals, Popovers, Notices ................. [MODALS]
+ *   PART 9:  Buttons & Interactive ..................... [BUTTONS]
+ *   PART 10: Scrollbars ................................ [SCROLL]
+ *   PART 11: Search .................................... [SEARCH]
+ *   PART 12: Headings (Editorial Small-Caps + Drop Cap) [HEADINGS]
+ *   PART 13: Inline Code ............................... [INLINE]
+ *   PART 14: Code Blocks (Square + Left Rule) .......... [CODE]
+ *   PART 15: Brackets (Subtle, No Glow) ................ [BRACKETS]
+ *   PART 16: Tables (Editorial) ........................ [TABLES]
+ *   PART 17: Lists (Typographic § ¶ ·) ................. [LISTS]
+ *   PART 18: HR, Graph, Card Mode ...................... [MISC]
+ *   PART 19: Metadata Container ........................ [META]
+ *   PART 20: Callouts (Manuscript Ribbon) .............. [CALLOUTS]
+ *   PART 21: Accessibility & Reduced Motion ............ [A11Y]
+ * ═══════════════════════════════════════════════════════════════════════════ */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 1: FOUNDATION VARIABLES [VARS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- SECTION: 1.1 Color Palette --- */
+
+.theme-dark,
+:root {
+  /* RED SPECTRUM — desaturated, deep, scholarly */
+  --vsg-red-garnet:        #560047;   /* deepest red — anchors, double-rule outer */
+  --vsg-red-oxblood:       #73005C;   /* PRIMARY ACCENT — left rules, headings, links */
+  --vsg-red-rust:          #A02882;   /* secondary — link hover, italic */
+  --vsg-red-cinnabar:      #C75D99;   /* highlight — success, drop cap fill */
+  --vsg-red-faded:         #68335B;   /* faint annotations, unresolved */
+  --vsg-red-ember:         #48133B;   /* inactive accent */
+
+  /* RED OPACITY VARIANTS */
+  --vsg-red-alpha-08:      rgba(115, 0, 92, 0.08);
+  --vsg-red-alpha-15:      rgba(115, 0, 92, 0.15);
+  --vsg-red-alpha-25:      rgba(115, 0, 92, 0.25);
+  --vsg-red-alpha-40:      rgba(115, 0, 92, 0.40);
+  --vsg-red-alpha-60:      rgba(115, 0, 92, 0.60);
+
+  /* BLACK SPECTRUM — cool near-black, layered (not flat) */
+  --vsg-black-ink:         #050505;   /* deepest — title bar, true black moments */
+  --vsg-black-carbon:      #0E0E0F;   /* PRIMARY BACKGROUND */
+  --vsg-black-soot:        #161618;   /* secondary surface — sidebars, code bg */
+  --vsg-black-ash:         #1F1F22;   /* elevated surface — modals, hover */
+  --vsg-black-tar:         #131315;   /* inbetween soot/carbon */
+
+  /* BLACK OPACITY VARIANTS */
+  --vsg-black-alpha-30:    rgba(5, 5, 5, 0.30);
+  --vsg-black-alpha-50:    rgba(5, 5, 5, 0.50);
+  --vsg-black-alpha-70:    rgba(5, 5, 5, 0.70);
+  --vsg-black-alpha-85:    rgba(5, 5, 5, 0.85);
+
+  /* GREY SPECTRUM — warm parchment, ochre-biased */
+  --vsg-grey-stone:        #2E3236;   /* darkest grey — borders, separators (cool) */
+  --vsg-grey-iron:         #474D52;   /* inactive controls (cool) */
+  --vsg-grey-bone:         #7E868E;   /* MUTED text (cool) */
+  --vsg-grey-parchment:    #A6AFB8;   /* NORMAL text — WCAG AAA on carbon (cool) */
+  --vsg-grey-vellum:       #C4CDD4;   /* emphasis text (cool) */
+  --vsg-grey-chalk:        #E0E7EC;   /* maximum emphasis, drop caps (cool) */
+
+  /* GREY OPACITY VARIANTS */
+  --vsg-grey-alpha-10:     rgba(184, 175, 166, 0.10);
+  --vsg-grey-alpha-20:     rgba(184, 175, 166, 0.20);
+  --vsg-grey-alpha-40:     rgba(184, 175, 166, 0.40);
+}
+
+/* --- SECTION: 1.2 Obsidian Native Variable Overrides --- */
+
+.theme-dark {
+  /* Backgrounds */
+  --background-primary:                       var(--vsg-black-carbon);
+  --background-primary-alt:                   var(--vsg-black-soot);
+  --background-secondary:                     var(--vsg-black-soot);
+  --background-secondary-alt:                 var(--vsg-black-ash);
+  --background-modifier-border:               var(--vsg-grey-stone);
+  --background-modifier-border-hover:         var(--vsg-red-faded);
+  --background-modifier-border-focus:         var(--vsg-red-oxblood);
+  --background-modifier-form-field:           var(--vsg-black-soot);
+  --background-modifier-form-field-highlighted: var(--vsg-black-ash);
+  --background-modifier-box-shadow:           var(--vsg-black-alpha-50);
+  --background-modifier-success:              var(--vsg-red-cinnabar);
+  --background-modifier-error:                var(--vsg-red-rust);
+  --background-modifier-error-hover:          var(--vsg-red-oxblood);
+  --background-modifier-cover:                var(--vsg-black-alpha-85);
+  --background-modifier-hover:                var(--vsg-grey-alpha-10);
+  --background-modifier-active-hover:         var(--vsg-red-alpha-15);
+
+  /* Text */
+  --text-normal:                              var(--vsg-grey-parchment);
+  --text-muted:                               var(--vsg-grey-bone);
+  --text-faint:                               var(--vsg-grey-iron);
+  --text-error:                               var(--vsg-red-rust);
+  --text-accent:                              var(--vsg-red-oxblood);
+  --text-accent-hover:                        var(--vsg-red-rust);
+  --text-selection:                           var(--vsg-red-alpha-25);
+  --text-on-accent:                           var(--vsg-grey-chalk);
+  --text-highlight-bg:                        var(--vsg-red-alpha-15);
+  --text-highlight-bg-active:                 var(--vsg-red-alpha-25);
+
+  /* Interactive */
+  --interactive-normal:                       var(--vsg-black-ash);
+  --interactive-hover:                        var(--vsg-grey-stone);
+  --interactive-accent:                       var(--vsg-red-oxblood);
+  --interactive-accent-hover:                 var(--vsg-red-rust);
+  --interactive-accent-rgb:                   115, 0, 92;
+  --interactive-success:                      var(--vsg-red-cinnabar);
+
+  /* Scrollbars */
+  --scrollbar-bg:                             var(--vsg-black-carbon);
+  --scrollbar-thumb-bg:                       var(--vsg-grey-stone);
+  --scrollbar-active-thumb-bg:                var(--vsg-red-oxblood);
+
+  /* Links */
+  --link-color:                               var(--vsg-red-oxblood);
+  --link-color-hover:                         var(--vsg-red-rust);
+  --link-external-color:                      var(--vsg-red-oxblood);
+  --link-external-color-hover:                var(--vsg-red-rust);
+  --link-unresolved-color:                    var(--vsg-red-faded);
+  --link-unresolved-opacity:                  0.78;
+  --link-unresolved-decoration-style:         dotted;
+  --link-unresolved-decoration-color:         var(--vsg-red-faded);
+  --link-weight:                              inherit;
+  --link-decoration:                          underline;
+  --link-decoration-hover:                    underline;
+  --link-decoration-thickness:                1px;
+
+  /* Selection */
+  --selection-color:                          var(--vsg-red-alpha-40);
+
+  /* Caret (editor cursor) */
+  --caret-color:                              var(--vsg-red-rust);
+}
+
+/* --- SECTION: 1.3 Typography System --- */
+
+:root {
+  /* FONT FAMILIES — JetBrains Mono everywhere */
+  --vsg-font-mono:     "JetBrains Mono", "JetBrainsMono Nerd Font", "IBM Plex Mono", Consolas, "Courier New", monospace;
+  --vsg-font-serif:    var(--vsg-font-mono);
+  --vsg-font-sans:     var(--vsg-font-mono);
+
+  --font-text:         var(--vsg-font-mono);
+  --font-interface:    var(--vsg-font-mono);
+  --font-monospace:    var(--vsg-font-mono);
+  --font-editor:       var(--vsg-font-mono);
+
+  /* WEIGHTS */
+  --vsg-weight-light:    300;
+  --vsg-weight-normal:   400;
+  --vsg-weight-medium:   500;
+  --vsg-weight-semibold: 600;
+  --vsg-weight-bold:     700;
+
+  /* SIZES */
+  --vsg-base-size:       17px;       /* slightly larger for serif legibility */
+  --font-text-size:      var(--vsg-base-size);
+  --font-ui-small:       12px;
+  --font-ui-medium:      13px;
+  --font-ui-large:       15px;
+  --font-editor-size:    var(--vsg-base-size);
+  --font-smallest:       11px;
+  --font-smaller:        12px;
+  --font-small:          13px;
+
+  /* HEADING SIZES — modest, editorial */
+  --h1-size:             2.0em;
+  --h2-size:             1.55em;
+  --h3-size:             1.30em;
+  --h4-size:             1.15em;
+  --h5-size:             1.0em;
+  --h6-size:             0.92em;
+
+  --h1-weight:           var(--vsg-weight-semibold);
+  --h2-weight:           var(--vsg-weight-semibold);
+  --h3-weight:           var(--vsg-weight-medium);
+  --h4-weight:           var(--vsg-weight-medium);
+  --h5-weight:           var(--vsg-weight-normal);
+  --h6-weight:           var(--vsg-weight-normal);
+
+  /* LINE HEIGHT — generous for serif body */
+  --line-height-tight:   1.30;
+  --line-height-normal:  1.65;
+  --line-height-relaxed: 1.85;
+
+  --vsg-lh-ui:           var(--line-height-tight);
+  --vsg-lh-content:      var(--line-height-normal);
+  --vsg-lh-code:         var(--line-height-tight);
+}
+
+/* --- SECTION: 1.4 Spacing, Radius, Borders, Shadows --- */
+
+:root {
+  /* SPACING (4px base) */
+  --vsg-space-2xs:  2px;
+  --vsg-space-xs:   4px;
+  --vsg-space-sm:   8px;
+  --vsg-space-md:   14px;
+  --vsg-space-lg:   22px;
+  --vsg-space-xl:   32px;
+  --vsg-space-2xl:  48px;
+
+  /* RADIUS — sharp / brutalist editorial */
+  --vsg-radius-none: 0;
+  --vsg-radius-sm:   1px;
+  --vsg-radius-md:   2px;
+  --vsg-radius-lg:   3px;
+
+  --radius-s: var(--vsg-radius-sm);
+  --radius-m: var(--vsg-radius-md);
+  --radius-l: var(--vsg-radius-lg);
+  --radius-xl: var(--vsg-radius-lg);
+
+  /* BORDER WIDTHS */
+  --vsg-border-hair:    1px;
+  --vsg-border-rule:    2px;
+  --vsg-border-bold:    3px;
+
+  /* SHADOWS — soft true-black drops, NO color glow */
+  --vsg-shadow-sm:  0 1px 2px var(--vsg-black-alpha-50);
+  --vsg-shadow-md:  0 2px 6px var(--vsg-black-alpha-50);
+  --vsg-shadow-lg:  0 6px 18px var(--vsg-black-alpha-70);
+  --vsg-shadow-xl:  0 14px 40px var(--vsg-black-alpha-85);
+
+  /* TRANSITIONS */
+  --vsg-t-fast:    120ms cubic-bezier(0.4, 0, 0.2, 1);
+  --vsg-t-normal:  220ms cubic-bezier(0.4, 0, 0.2, 1);
+  --vsg-t-slow:    400ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* --- SECTION: 1.5 Component Tokens --- */
+
+:root {
+  /* Reading width */
+  --vsg-reading-max-width:  110ch;
+
+  /* Drop cap (Reading View only, desktop only) */
+  --vsg-dropcap-display:    block;
+  --vsg-dropcap-size:       3.6em;
+  --vsg-dropcap-color:      var(--vsg-red-oxblood);
+  --vsg-dropcap-font:       var(--vsg-font-serif);
+
+  /* Heading rule (hairline beneath each heading) */
+  --vsg-heading-rule-width: 1px;
+  --vsg-heading-rule-color: var(--vsg-grey-stone);
+
+  /* Code block */
+  --vsg-code-rule-width:    3px;
+  --vsg-code-rule-color:    var(--vsg-red-oxblood);
+  --vsg-code-bg:            var(--vsg-black-soot);
+  --vsg-code-text:          var(--vsg-grey-vellum);
+
+  /* Callout (Manuscript Ribbon) */
+  --vsg-callout-rule-width: 3px;
+  --vsg-callout-rule-color: var(--vsg-red-oxblood);
+  --vsg-callout-bg:         var(--vsg-black-soot);
+  --vsg-callout-title-fg:   var(--vsg-red-oxblood);
+  --vsg-callout-body-fg:    var(--vsg-grey-parchment);
+
+  /* Tables */
+  --vsg-table-header-bg:    var(--vsg-black-ash);
+  --vsg-table-header-fg:    var(--vsg-red-oxblood);
+  --vsg-table-zebra-bg:     var(--vsg-black-tar);
+  --vsg-table-grid:         var(--vsg-grey-stone);
+
+  /* Tags (manuscript margin pills) */
+  --vsg-tag-bg:             var(--vsg-black-ash);
+  --vsg-tag-fg:             var(--vsg-red-rust);
+  --vsg-tag-border:         var(--vsg-red-faded);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 2: BASE TYPOGRAPHY [TYPE]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+body {
+  font-family: var(--vsg-font-serif);
+  font-weight: var(--vsg-weight-normal);
+  font-size: var(--vsg-base-size);
+  line-height: var(--vsg-lh-content);
+  color: var(--text-normal);
+  background-color: var(--background-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1, "onum" 1;
+}
+
+/* Editor — serif body for Live Preview */
+.markdown-source-view,
+.markdown-source-view.mod-cm6,
+.cm-editor,
+.cm-content,
+.cm-scroller,
+.cm-line {
+  font-family: var(--vsg-font-serif);
+  font-weight: var(--vsg-weight-normal);
+}
+
+/* Reading View */
+.markdown-preview-view,
+.markdown-rendered {
+  font-family: var(--vsg-font-serif);
+  font-weight: var(--vsg-weight-normal);
+  line-height: var(--vsg-lh-content);
+}
+
+/* Interface — sans for chrome */
+.workspace,
+.nav-file-title,
+.nav-folder-title,
+.search-result-file-title,
+.workspace-tab-header-inner,
+.titlebar,
+.status-bar,
+.menu,
+.suggestion-container {
+  font-family: var(--vsg-font-sans);
+  font-weight: var(--vsg-weight-normal);
+}
+
+/* Code — mono everywhere */
+code,
+pre,
+.cm-inline-code,
+.markdown-preview-view code,
+.HyperMD-codeblock {
+  font-family: var(--vsg-font-mono);
+  font-feature-settings: "calt" 0, "liga" 0;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 3: READING WIDTH & TEXT FORMATTING [TEXT]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-content {
+  max-width: var(--vsg-reading-max-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--vsg-space-lg);
+  padding-right: var(--vsg-space-lg);
+}
+
+/* Body paragraphs in reading mode — slightly justified for editorial feel */
+.markdown-reading-view p,
+.markdown-preview-view p {
+  text-align: left;     /* set to "justify" for true editorial; left preserves rivers-free reading */
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+/* Bold — oxblood, semibold, case preserved (NOT uppercase like Crimson) */
+.theme-dark .markdown-preview-view strong,
+.theme-dark .markdown-reading-view strong,
+.theme-dark .markdown-source-view.mod-cm6 .cm-strong,
+.cm-strong,
+strong {
+  color: var(--vsg-red-oxblood);
+  font-weight: var(--vsg-weight-semibold);
+  text-transform: none;
+}
+
+/* Italic — true serif italic, garnet (deeper than oxblood for visual depth) */
+.theme-dark .markdown-preview-view em,
+.theme-dark .markdown-reading-view em,
+.theme-dark .markdown-source-view.mod-cm6 .cm-em,
+.cm-em,
+em {
+  font-style: italic;
+  color: var(--vsg-red-rust);
+  font-family: var(--vsg-font-serif);
+}
+
+/* Highlight (==text==) — faint oxblood wash with subtle border */
+.theme-dark mark,
+.theme-dark .cm-highlight,
+mark {
+  background-color: var(--vsg-red-alpha-15);
+  color: var(--vsg-grey-vellum);
+  padding: 0 3px;
+  border-bottom: 1px solid var(--vsg-red-faded);
+  border-radius: 0;
+}
+
+/* Strikethrough */
+del, s {
+  color: var(--vsg-grey-iron);
+  text-decoration-color: var(--vsg-red-faded);
+}
+
+/* Selection */
+::selection {
+  background-color: var(--vsg-red-alpha-40);
+  color: var(--vsg-grey-chalk);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 4: WORKSPACE & LAYOUT [LAYOUT]
+   Carbon background, hairline split borders, square leaf corners.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.workspace,
+.workspace-split.mod-root,
+.workspace-leaf,
+.workspace-leaf-content {
+  background-color: var(--vsg-black-carbon);
+}
+
+/* Sharp corners — explicitly override the round-card aesthetic */
+.workspace-leaf {
+  border-radius: var(--vsg-radius-none);
+  margin: 0;
+  box-shadow: none;
+  border: none;
+}
+
+/* Hairline divider between split panes */
+.workspace-split .workspace-leaf-resize-handle {
+  background-color: var(--vsg-grey-stone);
+  width: 1px;
+}
+
+/* Tab headers — square, hairline, oxblood active rule */
+.workspace-tab-header {
+  background-color: var(--vsg-black-soot);
+  border-radius: 0;
+  border-right: 1px solid var(--vsg-grey-stone);
+  color: var(--vsg-grey-bone);
+  transition: var(--vsg-t-fast);
+}
+
+.workspace-tab-header:hover {
+  color: var(--vsg-grey-vellum);
+  background-color: var(--vsg-black-ash);
+}
+
+.workspace-tab-header.is-active {
+  color: var(--vsg-red-oxblood);
+  background-color: var(--vsg-black-carbon);
+  border-bottom: 2px solid var(--vsg-red-oxblood);
+  font-weight: var(--vsg-weight-medium);
+}
+
+.workspace-tab-header-container {
+  background-color: var(--vsg-black-soot);
+  border-bottom: 1px solid var(--vsg-grey-stone);
+}
+
+/* Titlebar */
+.titlebar {
+  background-color: var(--vsg-black-ink);
+  color: var(--vsg-grey-bone);
+  border-bottom: 1px solid var(--vsg-grey-stone);
+}
+
+.titlebar-text {
+  font-family: var(--vsg-font-sans);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.05em;
+  color: var(--vsg-grey-vellum);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 5: FILE EXPLORER [EXPLORER]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.nav-files-container {
+  background-color: var(--vsg-black-soot);
+  padding: var(--vsg-space-sm) var(--vsg-space-xs);
+  font-family: var(--vsg-font-sans);
+  font-size: var(--font-ui-medium);
+}
+
+.nav-folder-title,
+.nav-file-title {
+  border-radius: var(--vsg-radius-sm);
+  padding: 3px var(--vsg-space-sm);
+  color: var(--vsg-grey-parchment);
+  transition: var(--vsg-t-fast);
+  border-left: 2px solid transparent;
+}
+
+.nav-folder-title {
+  font-weight: var(--vsg-weight-medium);
+  color: var(--vsg-grey-vellum);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.04em;
+}
+
+.nav-folder-title:hover,
+.nav-file-title:hover {
+  background-color: var(--vsg-grey-alpha-10);
+  color: var(--vsg-grey-chalk);
+  border-left-color: var(--vsg-red-faded);
+}
+
+.nav-file-title.is-active,
+.nav-file-title.is-active:hover {
+  background-color: var(--vsg-red-alpha-15);
+  color: var(--vsg-red-rust);
+  border-left-color: var(--vsg-red-oxblood);
+  font-weight: var(--vsg-weight-medium);
+}
+
+/* Folder collapse arrow */
+.nav-folder-collapse-indicator {
+  color: var(--vsg-grey-iron);
+}
+
+/* Indent guides */
+.nav-folder-children {
+  position: relative;
+}
+
+.nav-folder-children::before {
+  content: "";
+  position: absolute;
+  left: 8px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background-color: var(--vsg-grey-stone);
+  opacity: 0.5;
+}
+
+/* File extension faint badge */
+.nav-file-tag {
+  color: var(--vsg-grey-iron);
+  font-size: 0.78em;
+  font-family: var(--vsg-font-mono);
+  font-variant-caps: all-small-caps;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 6: SIDEBARS & NAVIGATION [NAV]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.workspace-ribbon,
+.side-dock-ribbon,
+.side-dock {
+  background-color: var(--vsg-black-ink);
+  border-right: 1px solid var(--vsg-grey-stone);
+}
+
+.side-dock-ribbon-action,
+.workspace-ribbon-collapse-btn {
+  color: var(--vsg-grey-iron);
+  border-radius: var(--vsg-radius-sm);
+  transition: var(--vsg-t-fast);
+}
+
+.side-dock-ribbon-action:hover {
+  color: var(--vsg-red-rust);
+  background-color: var(--vsg-grey-alpha-10);
+}
+
+.side-dock-ribbon-action.is-active {
+  color: var(--vsg-red-oxblood);
+  background-color: var(--vsg-red-alpha-15);
+}
+
+/* Sidebar header */
+.workspace-tab-header.mod-active.is-collapsed,
+.view-header {
+  background-color: var(--vsg-black-soot);
+  border-bottom: 1px solid var(--vsg-grey-stone);
+}
+
+.view-header-title {
+  font-family: var(--vsg-font-sans);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.06em;
+  color: var(--vsg-grey-vellum);
+  font-weight: var(--vsg-weight-medium);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 7: STATUS BAR [STATUS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.status-bar {
+  background-color: var(--vsg-black-ink);
+  border-top: 1px solid var(--vsg-grey-stone);
+  color: var(--vsg-grey-bone);
+  font-family: var(--vsg-font-sans);
+  font-size: var(--font-smallest);
+  padding: 2px var(--vsg-space-md);
+}
+
+.status-bar-item {
+  color: var(--vsg-grey-bone);
+  padding: 0 var(--vsg-space-sm);
+  border-right: 1px solid var(--vsg-grey-stone);
+  transition: var(--vsg-t-fast);
+}
+
+.status-bar-item:last-child { border-right: none; }
+
+.status-bar-item:hover {
+  color: var(--vsg-red-rust);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 8: MODALS, POPOVERS, NOTICES [MODALS]
+   Translucent when body.is-translucent, solid fallback otherwise.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.modal-bg {
+  background-color: var(--vsg-black-alpha-85);
+}
+
+.modal {
+  background-color: var(--vsg-black-ash);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-md);
+  box-shadow: var(--vsg-shadow-xl);
+  color: var(--vsg-grey-vellum);
+  font-family: var(--vsg-font-sans);
+}
+
+.modal-title {
+  font-family: var(--vsg-font-serif);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.06em;
+  color: var(--vsg-red-oxblood);
+  font-weight: var(--vsg-weight-semibold);
+  border-bottom: 1px solid var(--vsg-grey-stone);
+  padding-bottom: var(--vsg-space-sm);
+}
+
+/* Translucency enhancement */
+body.is-translucent .modal {
+  background-color: rgba(38, 33, 29, 0.82);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+}
+
+/* Suggestion / command palette */
+.suggestion-container,
+.prompt {
+  background-color: var(--vsg-black-ash);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-md);
+  box-shadow: var(--vsg-shadow-lg);
+  font-family: var(--vsg-font-sans);
+}
+
+body.is-translucent .suggestion-container,
+body.is-translucent .prompt {
+  background-color: rgba(38, 33, 29, 0.85);
+  backdrop-filter: blur(12px) saturate(140%);
+  -webkit-backdrop-filter: blur(12px) saturate(140%);
+}
+
+.suggestion-item {
+  color: var(--vsg-grey-parchment);
+  padding: var(--vsg-space-sm) var(--vsg-space-md);
+  border-radius: var(--vsg-radius-sm);
+  transition: var(--vsg-t-fast);
+}
+
+.suggestion-item.is-selected,
+.suggestion-item:hover {
+  background-color: var(--vsg-red-alpha-15);
+  color: var(--vsg-grey-chalk);
+  border-left: 2px solid var(--vsg-red-oxblood);
+  padding-left: calc(var(--vsg-space-md) - 2px);
+}
+
+.prompt-input {
+  background-color: var(--vsg-black-soot);
+  border: 1px solid var(--vsg-grey-stone);
+  color: var(--vsg-grey-vellum);
+  font-family: var(--vsg-font-sans);
+}
+
+.prompt-input:focus {
+  border-color: var(--vsg-red-oxblood);
+  outline: none;
+}
+
+/* Notices (toasts) */
+.notice {
+  background-color: var(--vsg-black-ash);
+  color: var(--vsg-grey-vellum);
+  border-left: 3px solid var(--vsg-red-oxblood);
+  border-radius: var(--vsg-radius-sm);
+  box-shadow: var(--vsg-shadow-md);
+  font-family: var(--vsg-font-sans);
+  padding: var(--vsg-space-sm) var(--vsg-space-md);
+}
+
+/* Tooltips */
+.tooltip {
+  background-color: var(--vsg-black-ink);
+  color: var(--vsg-grey-vellum);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-sm);
+  font-family: var(--vsg-font-sans);
+  font-size: var(--font-smaller);
+  padding: var(--vsg-space-xs) var(--vsg-space-sm);
+}
+
+/* Menu */
+.menu {
+  background-color: var(--vsg-black-ash);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-md);
+  box-shadow: var(--vsg-shadow-lg);
+}
+
+body.is-translucent .menu {
+  background-color: rgba(38, 33, 29, 0.85);
+  backdrop-filter: blur(12px) saturate(140%);
+  -webkit-backdrop-filter: blur(12px) saturate(140%);
+}
+
+.menu-item {
+  color: var(--vsg-grey-parchment);
+  border-radius: 0;
+  font-family: var(--vsg-font-sans);
+}
+
+.menu-item:hover,
+.menu-item.selected {
+  background-color: var(--vsg-red-alpha-15);
+  color: var(--vsg-grey-chalk);
+}
+
+.menu-separator {
+  background-color: var(--vsg-grey-stone);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 9: BUTTONS & INTERACTIVE [BUTTONS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+button,
+.clickable-icon,
+input[type="button"],
+input[type="submit"] {
+  background-color: var(--vsg-black-ash);
+  color: var(--vsg-grey-vellum);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-sm);
+  font-family: var(--vsg-font-sans);
+  font-weight: var(--vsg-weight-medium);
+  padding: var(--vsg-space-xs) var(--vsg-space-md);
+  transition: var(--vsg-t-fast);
+  cursor: pointer;
+  box-shadow: none;
+}
+
+button:hover,
+.clickable-icon:hover,
+input[type="button"]:hover {
+  background-color: var(--vsg-grey-stone);
+  border-color: var(--vsg-red-faded);
+  color: var(--vsg-grey-chalk);
+}
+
+button.mod-cta,
+button.mod-warning {
+  background-color: var(--vsg-red-oxblood);
+  color: var(--vsg-grey-chalk);
+  border-color: var(--vsg-red-garnet);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.06em;
+}
+
+button.mod-cta:hover {
+  background-color: var(--vsg-red-rust);
+  border-color: var(--vsg-red-oxblood);
+}
+
+button.mod-warning {
+  background-color: var(--vsg-red-rust);
+}
+
+/* Form fields */
+input[type="text"],
+input[type="search"],
+input[type="email"],
+input[type="number"],
+input[type="password"],
+textarea,
+select {
+  background-color: var(--vsg-black-soot);
+  color: var(--vsg-grey-vellum);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-sm);
+  font-family: var(--vsg-font-sans);
+  padding: var(--vsg-space-xs) var(--vsg-space-sm);
+  transition: var(--vsg-t-fast);
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: var(--vsg-red-oxblood);
+  outline: none;
+  box-shadow: 0 0 0 1px var(--vsg-red-alpha-25);
+}
+
+/* Checkboxes & toggles */
+.checkbox-container {
+  background-color: var(--vsg-black-ash);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-sm);
+}
+
+.checkbox-container.is-enabled {
+  background-color: var(--vsg-red-oxblood);
+  border-color: var(--vsg-red-garnet);
+}
+
+.checkbox-container.is-enabled::after {
+  background-color: var(--vsg-grey-chalk);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 10: SCROLLBARS [SCROLL]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  background-color: var(--vsg-black-carbon);
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--vsg-black-carbon);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--vsg-grey-stone);
+  border-radius: 0;
+  border: 2px solid var(--vsg-black-carbon);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--vsg-red-faded);
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: var(--vsg-red-oxblood);
+}
+
+::-webkit-scrollbar-corner {
+  background-color: var(--vsg-black-carbon);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 11: SEARCH [SEARCH]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.search-input-container input {
+  background-color: var(--vsg-black-soot);
+  color: var(--vsg-grey-vellum);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-sm);
+  font-family: var(--vsg-font-sans);
+}
+
+.search-input-container input:focus {
+  border-color: var(--vsg-red-oxblood);
+}
+
+.search-result-file-title {
+  color: var(--vsg-red-oxblood);
+  font-family: var(--vsg-font-sans);
+  font-weight: var(--vsg-weight-medium);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.04em;
+  border-bottom: 1px solid var(--vsg-grey-stone);
+  padding-bottom: var(--vsg-space-xs);
+}
+
+.search-result-file-matched-text {
+  background-color: var(--vsg-red-alpha-25);
+  color: var(--vsg-grey-chalk);
+  padding: 0 2px;
+  border-radius: 0;
+  border-bottom: 1px solid var(--vsg-red-oxblood);
+}
+
+.search-result-file-match {
+  color: var(--vsg-grey-parchment);
+  border-left: 1px solid var(--vsg-grey-stone);
+  padding-left: var(--vsg-space-sm);
+  margin-left: var(--vsg-space-xs);
+  transition: var(--vsg-t-fast);
+}
+
+.search-result-file-match:hover {
+  border-left-color: var(--vsg-red-oxblood);
+  background-color: var(--vsg-grey-alpha-10);
+  color: var(--vsg-grey-vellum);
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 12: HEADINGS — EDITORIAL SMALL-CAPS + DROP CAP [HEADINGS]
+   Mode parity: Live Preview (.HyperMD-header-N) AND Reading View (h1..h6).
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- SECTION: 12.1 Common — Reading View --- */
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6 {
+  font-family: var(--vsg-font-serif);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.04em;
+  line-height: var(--line-height-tight);
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+  text-transform: none;
+  text-shadow: none;       /* explicitly NO neon glow */
+  border-bottom: var(--vsg-heading-rule-width) solid var(--vsg-heading-rule-color);
+  padding-bottom: 0.18em;
+}
+
+/* H1 — oxblood, small caps, hairline rule, drop cap on first paragraph */
+.markdown-preview-view h1,
+.markdown-rendered h1 {
+  color: var(--vsg-red-oxblood);
+  font-size: var(--h1-size);
+  font-weight: var(--h1-weight);
+  border-bottom: 2px solid var(--vsg-red-oxblood);
+}
+
+/* H2 — oxblood, double-rule below */
+.markdown-preview-view h2,
+.markdown-rendered h2 {
+  color: var(--vsg-red-oxblood);
+  font-size: var(--h2-size);
+  font-weight: var(--h2-weight);
+  border-bottom: 1px solid var(--vsg-grey-stone);
+  position: relative;
+}
+.markdown-preview-view h2::after,
+.markdown-rendered h2::after {
+  content: "";
+  display: block;
+  height: 1px;
+  background-color: var(--vsg-grey-stone);
+  margin-top: 2px;
+}
+
+/* H3 — rust */
+.markdown-preview-view h3,
+.markdown-rendered h3 {
+  color: var(--vsg-red-rust);
+  font-size: var(--h3-size);
+  font-weight: var(--h3-weight);
+}
+
+/* H4 — vellum, italic accent */
+.markdown-preview-view h4,
+.markdown-rendered h4 {
+  color: var(--vsg-grey-vellum);
+  font-size: var(--h4-size);
+  font-weight: var(--h4-weight);
+  font-style: italic;
+  border-bottom-style: dotted;
+}
+
+/* H5 — bone */
+.markdown-preview-view h5,
+.markdown-rendered h5 {
+  color: var(--vsg-grey-bone);
+  font-size: var(--h5-size);
+  font-weight: var(--h5-weight);
+  border-bottom: none;
+}
+
+/* H6 — faded */
+.markdown-preview-view h6,
+.markdown-rendered h6 {
+  color: var(--vsg-grey-iron);
+  font-size: var(--h6-size);
+  font-weight: var(--h6-weight);
+  border-bottom: none;
+  font-style: italic;
+}
+
+/* --- SECTION: 12.2 Live Preview parity --- */
+
+.cm-editor .HyperMD-header,
+.cm-editor .cm-header {
+  font-family: var(--vsg-font-serif);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.04em;
+  line-height: var(--line-height-tight);
+  text-transform: none;
+  text-shadow: none;
+}
+
+.cm-editor .HyperMD-header-1 {
+  color: var(--vsg-red-oxblood);
+  font-size: var(--h1-size);
+  font-weight: var(--h1-weight);
+  border-bottom: 2px solid var(--vsg-red-oxblood);
+  padding-bottom: 0.18em;
+}
+.cm-editor .HyperMD-header-2 {
+  color: var(--vsg-red-oxblood);
+  font-size: var(--h2-size);
+  font-weight: var(--h2-weight);
+  border-bottom: 1px solid var(--vsg-grey-stone);
+  padding-bottom: 0.18em;
+}
+.cm-editor .HyperMD-header-3 {
+  color: var(--vsg-red-rust);
+  font-size: var(--h3-size);
+  font-weight: var(--h3-weight);
+}
+.cm-editor .HyperMD-header-4 {
+  color: var(--vsg-grey-vellum);
+  font-size: var(--h4-size);
+  font-weight: var(--h4-weight);
+  font-style: italic;
+}
+.cm-editor .HyperMD-header-5 {
+  color: var(--vsg-grey-bone);
+  font-size: var(--h5-size);
+  font-weight: var(--h5-weight);
+}
+.cm-editor .HyperMD-header-6 {
+  color: var(--vsg-grey-iron);
+  font-size: var(--h6-size);
+  font-weight: var(--h6-weight);
+  font-style: italic;
+}
+
+/* Markdown formatting marks (#) — faded */
+.cm-editor .cm-formatting-header {
+  color: var(--vsg-grey-iron);
+  font-weight: var(--vsg-weight-light);
+  opacity: 0.6;
+}
+
+/* --- SECTION: 12.3 Drop Cap on H1 — Reading View only, desktop only --- */
+
+@media (min-width: 768px) {
+  .markdown-reading-view h1 + p::first-letter,
+  .markdown-preview-view h1 + p::first-letter {
+    display: var(--vsg-dropcap-display);
+    float: left;
+    font-family: var(--vsg-dropcap-font);
+    font-size: var(--vsg-dropcap-size);
+    font-weight: var(--vsg-weight-bold);
+    color: var(--vsg-dropcap-color);
+    line-height: 0.85;
+    margin: 0.05em 0.12em -0.05em 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-variant-caps: normal;
+  }
+}
+
+/* Inline title (H1 from filename) */
+.inline-title {
+  font-family: var(--vsg-font-serif);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.05em;
+  color: var(--vsg-red-oxblood);
+  font-weight: var(--vsg-weight-semibold);
+  font-size: 2.2em;
+  border-bottom: 2px solid var(--vsg-red-oxblood);
+  padding-bottom: 0.18em;
+  margin-bottom: var(--vsg-space-md);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 13: INLINE CODE [INLINE]
+   Oxblood text, thin underline, case PRESERVED (vs Crimson uppercase).
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view code,
+.markdown-rendered code,
+.cm-editor .cm-inline-code,
+code:not(pre code) {
+  font-family: var(--vsg-font-mono);
+  color: var(--vsg-red-oxblood);
+  background-color: var(--vsg-red-alpha-08);
+  border: none;
+  border-bottom: 1px dotted var(--vsg-red-faded);
+  border-radius: 0;
+  padding: 0 3px;
+  font-size: 0.92em;
+  text-transform: none;
+  font-weight: var(--vsg-weight-medium);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 14: CODE BLOCKS — SQUARE + 3PX OXBLOOD LEFT RULE [CODE]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre,
+.markdown-rendered pre,
+.cm-editor .HyperMD-codeblock,
+pre {
+  background-color: var(--vsg-code-bg);
+  color: var(--vsg-code-text);
+  border: 1px solid var(--vsg-grey-stone);
+  border-left: var(--vsg-code-rule-width) solid var(--vsg-code-rule-color);
+  border-radius: 0;
+  padding: var(--vsg-space-md) var(--vsg-space-lg);
+  margin: var(--vsg-space-md) 0;
+  font-family: var(--vsg-font-mono);
+  font-size: 0.92em;
+  line-height: var(--vsg-lh-code);
+  overflow-x: auto;
+  position: relative;
+  box-shadow: none;
+  background-image: none;       /* explicitly NO gradient */
+}
+
+.markdown-preview-view pre code,
+.markdown-rendered pre code {
+  background: transparent;
+  border: none;
+  color: inherit;
+  padding: 0;
+  text-transform: none;
+  font-weight: var(--vsg-weight-normal);
+}
+
+/* Filename badge (top-right) — uses Obsidian's data-language attr if present */
+.markdown-rendered pre[class*="language-"]::before {
+  content: attr(data-line);
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--vsg-red-oxblood);
+  color: var(--vsg-grey-chalk);
+  font-family: var(--vsg-font-sans);
+  font-variant-caps: all-small-caps;
+  font-size: 0.72em;
+  letter-spacing: 0.06em;
+  padding: 2px var(--vsg-space-sm);
+  border-bottom-left-radius: var(--vsg-radius-sm);
+}
+
+/* Live Preview code block backdrop */
+.cm-editor .HyperMD-codeblock-bg {
+  background-color: var(--vsg-code-bg);
+}
+
+.cm-editor .HyperMD-codeblock-begin,
+.cm-editor .HyperMD-codeblock-end {
+  border-left: var(--vsg-code-rule-width) solid var(--vsg-code-rule-color);
+  background-color: var(--vsg-code-bg);
+}
+
+/* Code block syntax — restrained, monochrome-leaning */
+.token.comment,
+.cm-comment   { color: var(--vsg-grey-iron); font-style: italic; }
+.token.keyword,
+.cm-keyword   { color: var(--vsg-red-oxblood); font-weight: var(--vsg-weight-medium); }
+.token.string,
+.cm-string    { color: var(--vsg-red-cinnabar); }
+.token.number,
+.cm-number    { color: var(--vsg-red-rust); }
+.token.function,
+.cm-def,
+.cm-variable-2 { color: var(--vsg-grey-vellum); }
+.token.operator,
+.cm-operator  { color: var(--vsg-grey-bone); }
+.token.punctuation,
+.cm-punctuation { color: var(--vsg-grey-iron); }
+.token.tag,
+.cm-tag       { color: var(--vsg-red-rust); }
+.token.attr-name,
+.cm-attribute { color: var(--vsg-red-cinnabar); font-style: italic; }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 15: BRACKETS — SUBTLE OXBLOOD, NO GLOW [BRACKETS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Wiki-link brackets (Live Preview formatting marks) */
+.cm-editor .cm-formatting-link,
+.cm-editor .cm-formatting-link-string,
+.cm-editor .cm-hmd-internal-link {
+  color: var(--vsg-red-faded);
+  opacity: 0.7;
+}
+
+/* Internal link styling — Reading View AND Live Preview */
+.internal-link,
+.cm-editor .cm-link,
+.cm-editor .cm-hmd-internal-link {
+  color: var(--vsg-red-oxblood);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--vsg-red-faded);
+  text-underline-offset: 2px;
+  font-weight: var(--vsg-weight-normal);
+  text-shadow: none;
+}
+
+.internal-link:hover {
+  color: var(--vsg-red-rust);
+  text-decoration-color: var(--vsg-red-rust);
+  background-color: var(--vsg-red-alpha-08);
+}
+
+.internal-link.is-unresolved {
+  color: var(--vsg-red-faded);
+  text-decoration-style: dotted;
+  opacity: var(--link-unresolved-opacity);
+}
+
+/* External link — same restraint, with subtle marker */
+.external-link {
+  color: var(--vsg-red-oxblood);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--vsg-red-faded);
+  text-underline-offset: 2px;
+  background-image: none;
+  padding-right: 0;
+}
+
+.external-link::after {
+  content: " ↗";
+  font-size: 0.78em;
+  color: var(--vsg-red-faded);
+  vertical-align: super;
+}
+
+.external-link:hover {
+  color: var(--vsg-red-rust);
+  text-decoration-color: var(--vsg-red-rust);
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 16: TABLES — EDITORIAL [TABLES]
+   Small-caps oxblood headers, zebra rows, hairline grid.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-rendered table,
+.markdown-preview-view table,
+table {
+  border-collapse: collapse;
+  border: 1px solid var(--vsg-table-grid);
+  background-color: var(--vsg-black-carbon);
+  margin: var(--vsg-space-md) 0;
+  width: auto;
+  max-width: 100%;
+  font-family: var(--vsg-font-serif);
+  font-size: 0.95em;
+}
+
+.markdown-rendered table th,
+.markdown-preview-view table th,
+table th {
+  background-color: var(--vsg-table-header-bg);
+  color: var(--vsg-table-header-fg);
+  border: 1px solid var(--vsg-table-grid);
+  border-bottom: 2px solid var(--vsg-red-oxblood);
+  padding: var(--vsg-space-sm) var(--vsg-space-md);
+  font-family: var(--vsg-font-sans);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.06em;
+  font-weight: var(--vsg-weight-semibold);
+  text-align: left;
+}
+
+.markdown-rendered table td,
+.markdown-preview-view table td,
+table td {
+  border: 1px solid var(--vsg-table-grid);
+  padding: var(--vsg-space-sm) var(--vsg-space-md);
+  color: var(--vsg-grey-parchment);
+  vertical-align: top;
+}
+
+/* Zebra */
+.markdown-rendered table tbody tr:nth-child(even),
+.markdown-preview-view table tbody tr:nth-child(even) {
+  background-color: var(--vsg-table-zebra-bg);
+}
+
+.markdown-rendered table tbody tr:hover {
+  background-color: var(--vsg-red-alpha-08);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 17: LISTS — TYPOGRAPHIC MARKERS § ¶ · [LISTS]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.markdown-preview-view ul,
+.markdown-rendered ul {
+  list-style: none;
+  padding-left: var(--vsg-space-lg);
+}
+
+.markdown-preview-view ul > li,
+.markdown-rendered ul > li {
+  position: relative;
+  padding-left: var(--vsg-space-md);
+  margin-bottom: 0.3em;
+}
+
+.markdown-preview-view ul > li::before,
+.markdown-rendered ul > li::before {
+  content: "§";
+  position: absolute;
+  left: -2px;
+  top: 0;
+  color: var(--vsg-red-oxblood);
+  font-family: var(--vsg-font-serif);
+  font-weight: var(--vsg-weight-semibold);
+  font-size: 0.95em;
+}
+
+/* Nested level 2 */
+.markdown-preview-view ul ul > li::before,
+.markdown-rendered ul ul > li::before {
+  content: "¶";
+  color: var(--vsg-red-rust);
+  font-size: 0.85em;
+}
+
+/* Nested level 3+ */
+.markdown-preview-view ul ul ul > li::before,
+.markdown-rendered ul ul ul > li::before {
+  content: "·";
+  color: var(--vsg-red-cinnabar);
+  font-size: 1.4em;
+  top: -0.3em;
+}
+
+/* Ordered lists — restrained Roman-feel using counter */
+.markdown-preview-view ol,
+.markdown-rendered ol {
+  list-style: none;
+  counter-reset: vsg-ol;
+  padding-left: var(--vsg-space-lg);
+}
+
+.markdown-preview-view ol > li,
+.markdown-rendered ol > li {
+  position: relative;
+  counter-increment: vsg-ol;
+  padding-left: var(--vsg-space-md);
+  margin-bottom: 0.3em;
+}
+
+.markdown-preview-view ol > li::before,
+.markdown-rendered ol > li::before {
+  content: counter(vsg-ol) ".";
+  position: absolute;
+  left: -8px;
+  top: 0;
+  color: var(--vsg-red-oxblood);
+  font-family: var(--vsg-font-serif);
+  font-weight: var(--vsg-weight-semibold);
+  font-variant-numeric: oldstyle-nums;
+  min-width: 18px;
+  text-align: right;
+}
+
+/* Live Preview list marker tinting */
+.cm-editor .cm-formatting-list,
+.cm-editor .cm-list-1,
+.cm-editor .cm-list-2,
+.cm-editor .cm-list-3 {
+  color: var(--vsg-red-oxblood);
+  font-weight: var(--vsg-weight-semibold);
+}
+
+/* --- SECTION: 17.1 Task Checkboxes --- */
+
+.markdown-rendered input[type="checkbox"],
+.markdown-preview-view input[type="checkbox"],
+.contains-task-list input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 14px;
+  height: 14px;
+  border: 1.5px solid var(--vsg-grey-iron);
+  border-radius: 0;
+  background-color: var(--vsg-black-soot);
+  cursor: pointer;
+  position: relative;
+  vertical-align: middle;
+  margin-right: var(--vsg-space-sm);
+  transition: var(--vsg-t-fast);
+}
+
+.markdown-rendered input[type="checkbox"]:hover,
+.markdown-preview-view input[type="checkbox"]:hover {
+  border-color: var(--vsg-red-rust);
+}
+
+.markdown-rendered input[type="checkbox"]:checked,
+.markdown-preview-view input[type="checkbox"]:checked {
+  background-color: var(--vsg-red-oxblood);
+  border-color: var(--vsg-red-garnet);
+}
+
+.markdown-rendered input[type="checkbox"]:checked::after,
+.markdown-preview-view input[type="checkbox"]:checked::after {
+  content: "✓";
+  position: absolute;
+  top: -3px;
+  left: 1px;
+  font-size: 11px;
+  color: var(--vsg-grey-chalk);
+  font-weight: var(--vsg-weight-bold);
+}
+
+/* Strikethrough completed task */
+.task-list-item-checkbox:checked + span,
+.task-list-item.is-checked {
+  color: var(--vsg-grey-iron);
+  text-decoration: line-through;
+  text-decoration-color: var(--vsg-red-faded);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 18: HORIZONTAL RULES, GRAPH, CARD MODE [MISC]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* HR — double rule, editorial */
+.markdown-preview-view hr,
+.markdown-rendered hr,
+hr {
+  border: none;
+  border-top: 1px solid var(--vsg-grey-stone);
+  border-bottom: 1px solid var(--vsg-grey-stone);
+  height: 3px;
+  background-color: transparent;
+  margin: var(--vsg-space-xl) 0;
+  position: relative;
+}
+
+.markdown-preview-view hr::after,
+.markdown-rendered hr::after {
+  content: "§";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: var(--background-primary);
+  padding: 0 var(--vsg-space-md);
+  color: var(--vsg-red-oxblood);
+  font-family: var(--vsg-font-serif);
+  font-size: 1.1em;
+}
+
+/* Graph view */
+.graph-view.color-fill                   { color: var(--vsg-grey-bone); }
+.graph-view.color-fill-tag               { color: var(--vsg-red-cinnabar); }
+.graph-view.color-fill-attachment        { color: var(--vsg-grey-iron); }
+.graph-view.color-fill-unresolved        { color: var(--vsg-red-faded); }
+.graph-view.color-fill-focused           { color: var(--vsg-red-oxblood); }
+.graph-view.color-fill-highlight         { color: var(--vsg-red-rust); }
+.graph-view.color-arrow                  { color: var(--vsg-grey-iron); }
+.graph-view.color-circle                 { color: var(--vsg-red-oxblood); }
+.graph-view.color-line                   { color: var(--vsg-grey-stone); }
+.graph-view.color-text                   { color: var(--vsg-grey-parchment); }
+
+/* Card mode (file explorer cards / cards plugin) */
+.markdown-rendered .card,
+.canvas-node {
+  background-color: var(--vsg-black-soot);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-md);
+  box-shadow: var(--vsg-shadow-md);
+  color: var(--vsg-grey-vellum);
+}
+
+.canvas-node.is-focused,
+.canvas-node:hover {
+  border-color: var(--vsg-red-oxblood);
+  box-shadow: var(--vsg-shadow-lg);
+}
+
+/* Embeds */
+.markdown-embed {
+  border-left: 2px solid var(--vsg-red-faded);
+  padding-left: var(--vsg-space-md);
+  background-color: var(--vsg-black-tar);
+  border-radius: 0;
+}
+
+.markdown-embed-title {
+  color: var(--vsg-red-rust);
+  font-family: var(--vsg-font-serif);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.04em;
+  font-weight: var(--vsg-weight-medium);
+  border-bottom: 1px solid var(--vsg-grey-stone);
+  padding-bottom: 2px;
+  margin-bottom: var(--vsg-space-xs);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 19: METADATA CONTAINER & TAGS [META]
+   Manuscript-margin pills: italic serif, garnet on parchment-ash.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.metadata-container {
+  background-color: var(--vsg-black-tar);
+  border: 1px solid var(--vsg-grey-stone);
+  border-left: 3px solid var(--vsg-red-faded);
+  border-radius: 0;
+  padding: var(--vsg-space-md) var(--vsg-space-lg);
+  margin-bottom: var(--vsg-space-md);
+  font-family: var(--vsg-font-sans);
+  font-size: 0.9em;
+}
+
+.metadata-property-key {
+  color: var(--vsg-red-rust);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.04em;
+  font-weight: var(--vsg-weight-medium);
+}
+
+.metadata-property-value,
+.metadata-input-longtext,
+.metadata-input-text {
+  color: var(--vsg-grey-vellum);
+  font-family: var(--vsg-font-sans);
+}
+
+/* Tag pills — italic serif, manuscript margin */
+.tag,
+a.tag {
+  background-color: var(--vsg-tag-bg);
+  color: var(--vsg-tag-fg);
+  border: 1px solid var(--vsg-tag-border);
+  border-radius: var(--vsg-radius-md);
+  padding: 1px var(--vsg-space-sm);
+  font-family: var(--vsg-font-serif);
+  font-style: italic;
+  font-size: 0.85em;
+  text-decoration: none;
+  margin: 0 1px;
+  transition: var(--vsg-t-fast);
+}
+
+.tag:hover,
+a.tag:hover {
+  background-color: var(--vsg-red-alpha-15);
+  color: var(--vsg-red-oxblood);
+  border-color: var(--vsg-red-oxblood);
+  text-decoration: none;
+}
+
+/* Frontmatter raw view */
+.cm-editor .HyperMD-frontmatter {
+  font-family: var(--vsg-font-mono);
+  font-size: 0.9em;
+  color: var(--vsg-grey-bone);
+  background-color: var(--vsg-black-tar);
+}
+
+.cm-editor .HyperMD-frontmatter .cm-hmd-frontmatter {
+  color: var(--vsg-red-rust);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 20: CALLOUTS — MANUSCRIPT RIBBON [CALLOUTS]
+   3px oxblood left rule, hanging icon to LEFT (bleeds into margin),
+   serif title in small-caps, body justified Plex Serif parchment.
+   Per-type title color shifts; ribbon rule color shifts subtly.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* --- SECTION: 20.1 Base callout — CARD STYLE --- */
+/*
+ * Card layout: contained block with all-around padding, top accent bar,
+ * inline icon + title row (no hanging absolute positioning), shadowed surface.
+ */
+
+.callout {
+  background-color: var(--vsg-callout-bg);
+  border: 1px solid var(--vsg-grey-stone);
+  border-radius: var(--vsg-radius-md);
+  padding: var(--vsg-space-lg);
+  margin: var(--vsg-space-lg) 0;
+  position: relative;
+  box-shadow: var(--vsg-shadow-sm);
+  --callout-color: var(--vsg-callout-rule-color);
+  --callout-icon: lucide-pen-tool;
+  overflow: hidden;
+}
+
+/* Title is a self-contained pill/chip at the top of the card */
+.callout-title {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--vsg-space-sm);
+  font-family: var(--vsg-font-mono);
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.08em;
+  color: var(--vsg-callout-title-fg);
+  font-weight: var(--vsg-weight-semibold);
+  font-size: 0.92em;
+  padding: 4px 10px;
+  margin: 0 0 var(--vsg-space-md) 0;
+  background: var(--vsg-black-tar);
+  border: 1px solid var(--vsg-callout-rule-color);
+  border-radius: var(--vsg-radius-md);
+  line-height: 1.3;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: 100%;
+}
+
+.callout-title-inner {
+  color: inherit;
+  font-weight: inherit;
+}
+
+/* Inline icon — sits naturally in the title pill */
+.callout-icon {
+  position: static;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  background: transparent;
+  color: var(--vsg-callout-rule-color);
+  padding: 0;
+  margin: 0;
+  border-radius: 0;
+  top: auto;
+  left: auto;
+}
+
+.callout-icon svg {
+  width: 13px;
+  height: 13px;
+  color: inherit;
+  stroke: currentColor;
+}
+
+.callout-content {
+  color: var(--vsg-callout-body-fg);
+  font-family: var(--vsg-font-mono);
+  font-size: 0.94em;
+  line-height: var(--vsg-lh-content);
+  padding: 0;
+  margin: 0;
+}
+
+.callout-content > p {
+  margin: 0.5em 0;
+}
+
+.callout-content > p:first-child { margin-top: 0; }
+.callout-content > p:last-child  { margin-bottom: 0; }
+
+/* Foldable callout chevron — sits inside the title pill at the right */
+.callout-fold {
+  color: var(--vsg-grey-iron);
+  margin-left: var(--vsg-space-xs);
+  flex-shrink: 0;
+}
+
+/* --- SECTION: 20.2 Per-type color shifts --- */
+
+/* note (default) — oxblood */
+.callout[data-callout="note"] {
+  --vsg-callout-rule-color: var(--vsg-red-oxblood);
+  --vsg-callout-title-fg:   var(--vsg-red-oxblood);
+}
+
+/* abstract / summary — rust */
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --vsg-callout-rule-color: var(--vsg-red-rust);
+  --vsg-callout-title-fg:   var(--vsg-red-rust);
+}
+
+/* info — bone (neutral, restrained) */
+.callout[data-callout="info"],
+.callout[data-callout="todo"] {
+  --vsg-callout-rule-color: var(--vsg-grey-bone);
+  --vsg-callout-title-fg:   var(--vsg-grey-vellum);
+}
+
+/* tip / hint — cinnabar (warm highlight) */
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+  --vsg-callout-rule-color: var(--vsg-red-cinnabar);
+  --vsg-callout-title-fg:   var(--vsg-red-cinnabar);
+}
+
+/* success / check / done — cinnabar with bold weight */
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --vsg-callout-rule-color: var(--vsg-red-cinnabar);
+  --vsg-callout-title-fg:   var(--vsg-red-cinnabar);
+}
+
+/* question / help / faq — rust italic */
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"] {
+  --vsg-callout-rule-color: var(--vsg-red-rust);
+  --vsg-callout-title-fg:   var(--vsg-red-rust);
+}
+.callout[data-callout="question"] .callout-title,
+.callout[data-callout="help"] .callout-title,
+.callout[data-callout="faq"] .callout-title {
+  font-style: italic;
+}
+
+/* warning / caution / attention — oxblood */
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  --vsg-callout-rule-color: var(--vsg-red-oxblood);
+  --vsg-callout-title-fg:   var(--vsg-red-oxblood);
+}
+
+/* failure / fail / missing — garnet (deepest) */
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"] {
+  --vsg-callout-rule-color: var(--vsg-red-garnet);
+  --vsg-callout-title-fg:   var(--vsg-red-garnet);
+}
+
+/* danger / error — garnet, deeper shadow */
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  --vsg-callout-rule-color: var(--vsg-red-garnet);
+  --vsg-callout-title-fg:   var(--vsg-red-garnet);
+  box-shadow: var(--vsg-shadow-md);
+}
+
+/* bug — rust */
+.callout[data-callout="bug"] {
+  --vsg-callout-rule-color: var(--vsg-red-rust);
+  --vsg-callout-title-fg:   var(--vsg-red-rust);
+}
+
+/* example — bone, no per-type accent */
+.callout[data-callout="example"] {
+  --vsg-callout-rule-color: var(--vsg-grey-bone);
+  --vsg-callout-title-fg:   var(--vsg-grey-vellum);
+  font-family: var(--vsg-font-mono);
+}
+.callout[data-callout="example"] .callout-title {
+  font-family: var(--vsg-font-serif);
+}
+
+/* quote / cite — italic */
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --vsg-callout-rule-color: var(--vsg-red-faded);
+  --vsg-callout-title-fg:   var(--vsg-grey-vellum);
+  font-style: italic;
+}
+.callout[data-callout="quote"] .callout-content,
+.callout[data-callout="cite"] .callout-content {
+  font-family: var(--vsg-font-mono);
+  font-style: italic;
+  color: var(--vsg-grey-vellum);
+}
+
+/* Blockquote (markdown >) — same manuscript ribbon treatment */
+.markdown-preview-view blockquote,
+.markdown-rendered blockquote,
+blockquote {
+  background-color: var(--vsg-black-tar);
+  border: none;
+  border-left: 3px solid var(--vsg-red-faded);
+  border-radius: 0;
+  padding: var(--vsg-space-sm) var(--vsg-space-lg);
+  margin: var(--vsg-space-md) 0;
+  color: var(--vsg-grey-vellum);
+  font-family: var(--vsg-font-serif);
+  font-style: italic;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PART 21: ACCESSIBILITY & REDUCED MOTION [A11Y]
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Focus rings — always visible, oxblood */
+:focus-visible {
+  outline: 2px solid var(--vsg-red-oxblood);
+  outline-offset: 2px;
+}
+
+/* Reduced motion — disable all animations and transitions */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;     /* !important required to override third-party */
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Increased contrast — bump text to chalk, thicken borders */
+@media (prefers-contrast: more) {
+  .theme-dark {
+    --text-normal: var(--vsg-grey-chalk);
+    --text-muted:  var(--vsg-grey-vellum);
+    --background-modifier-border: var(--vsg-grey-bone);
+  }
+  .markdown-preview-view h1,
+  .markdown-rendered h1,
+  .cm-editor .HyperMD-header-1 {
+    border-bottom-width: 3px;
+  }
+  .callout {
+    border-left-width: 5px;
+  }
+}
+
+/* Mobile adjustments */
+body.is-mobile {
+  --vsg-base-size: 16px;
+  --vsg-reading-max-width: 100%;
+}
+
+body.is-mobile .markdown-reading-view h1 + p::first-letter,
+body.is-mobile .markdown-preview-view h1 + p::first-letter {
+  display: inline;
+  float: none;
+  font-size: inherit;
+  color: inherit;
+  line-height: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body.is-mobile .callout {
+  padding: var(--vsg-space-md);
+}
+
+body.is-mobile button,
+body.is-mobile .clickable-icon {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Print */
+@media print {
+  body { background: white; color: black; }
+  .markdown-preview-view * {
+    color: black !important;
+    background: white !important;
+    box-shadow: none !important;
+  }
+}
+
+/* === END OF FILE: theme.css === */

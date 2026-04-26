@@ -1,0 +1,2054 @@
+/* ============================================================
+ * V4D3R CINDER — OBSIDIAN THEME
+ * ============================================================
+ * Name:           V4D3R Cinder
+ * Version:        1.0.0
+ * Author:         pur3v4d3r
+ * License:        MIT
+ * Min Obsidian:   1.4.0
+ *
+ * Purpose:
+ *   Industrial card-system dark theme. Third theme in the
+ *   V4D3R family. Aesthetic voice: polished design system /
+ *   dark UI component library. Vivid crimson reds, cool blue-
+ *   grey slate surfaces, explicit card elevation, and modern
+ *   weight-based typography.
+ *
+ * Design Contrast from V4D3R Sanguine / Crimson:
+ *   Reds    — Vivid crimson (#8F1622+) vs oxblood (#7A0F1A)
+ *   Greys   — Cool blue-grey slate vs warm ochre-parchment
+ *   Corners — 3px card rounding vs 0-1px brutalist
+ *   Type    — Weight-based hierarchy vs small-caps editorial
+ *   Cards   — Explicit box-shadow elevation vs flat surfaces
+ *   Lists   — — › · markers vs § ¶ · ornamental markers
+ *   Heads   — Colored left accent bars vs double-rule borders
+ *
+ * Variables Introduced:
+ *   --vc-red-*    Red spectrum (vivid crimson family)
+ *   --vc-black-*  Near-black surface stack
+ *   --vc-grey-*   Cool blue-grey slate spectrum
+ *   --vc-font-*   Typography tokens
+ *   --vc-space-*  Spacing scale
+ *   --vc-radius-* Border radius scale
+ *   --vc-shadow-* Elevation shadows
+ *
+ * Targets:      .theme-dark (primary), .theme-light (parity)
+ * Dependencies: None (no external assets)
+ * Conflicts:    None known
+ * ============================================================ */
+
+
+/* ============================================================
+ * PART 1: CUSTOM PROPERTY TOKENS
+ * ============================================================ */
+
+:root {
+
+  /* --- RED SPECTRUM: Vivid Crimson --- */
+  --vc-red-deep:            #3D0810;
+  --vc-red-primary:         #8F1622;
+  --vc-red-mid:             #B52D38;
+  --vc-red-bright:          #D44050;
+  --vc-red-muted:           #7A2530;
+  --vc-red-ember:           #5C1820;
+
+  --vc-red-alpha-05:        rgba(143, 22, 34, 0.05);
+  --vc-red-alpha-08:        rgba(143, 22, 34, 0.08);
+  --vc-red-alpha-15:        rgba(143, 22, 34, 0.15);
+  --vc-red-alpha-25:        rgba(143, 22, 34, 0.25);
+  --vc-red-alpha-40:        rgba(143, 22, 34, 0.40);
+  --vc-red-alpha-60:        rgba(143, 22, 34, 0.60);
+
+  /* --- BLACK SPECTRUM: Near-black, cool tinted --- */
+  --vc-black-void:          #020205;
+  --vc-black-primary:       #0C0C10;
+  --vc-black-surface:       #131318;
+  --vc-black-card:          #1A1A20;
+  --vc-black-raised:        #222229;
+  --vc-black-hover:         #2A2A32;
+
+  --vc-black-alpha-30:      rgba(2, 2, 5, 0.30);
+  --vc-black-alpha-50:      rgba(2, 2, 5, 0.50);
+  --vc-black-alpha-70:      rgba(2, 2, 5, 0.70);
+  --vc-black-alpha-85:      rgba(2, 2, 5, 0.85);
+
+  /* --- GREY SPECTRUM: Cool blue-grey slate — NO warm tones --- */
+  --vc-grey-deep:           #1E2530;
+  --vc-grey-dark:           #32404F;
+  --vc-grey-mid:            #5A6E80;
+  --vc-grey-base:           #8AA0B2;
+  --vc-grey-light:          #AABFCC;
+  --vc-grey-bright:         #C8DCEA;
+
+  --vc-grey-alpha-10:       rgba(138, 160, 178, 0.10);
+  --vc-grey-alpha-20:       rgba(138, 160, 178, 0.20);
+  --vc-grey-alpha-40:       rgba(138, 160, 178, 0.40);
+
+  /* --- TYPOGRAPHY TOKENS --- */
+  --vc-font-mono:           "JetBrains Mono", "IBM Plex Mono", Consolas, "Courier New", monospace;
+  --vc-font-base-size:      17px;
+  --vc-line-height-tight:   1.30;
+  --vc-line-height-normal:  1.65;
+  --vc-line-height-relaxed: 1.85;
+
+  /* --- SPACING TOKENS (4px base) --- */
+  --vc-space-2xs:  2px;
+  --vc-space-xs:   4px;
+  --vc-space-sm:   8px;
+  --vc-space-md:   14px;
+  --vc-space-lg:   22px;
+  --vc-space-xl:   32px;
+  --vc-space-2xl:  48px;
+
+  /* --- BORDER RADIUS TOKENS (card aesthetic) --- */
+  --vc-radius-none: 0px;
+  --vc-radius-sm:   2px;
+  --vc-radius-md:   3px;
+  --vc-radius-lg:   4px;
+  --vc-radius-xl:   6px;
+  --vc-radius-pill: 99px;
+
+  /* --- BORDER WIDTH TOKENS --- */
+  --vc-border-hair: 1px;
+  --vc-border-rule: 2px;
+  --vc-border-bold: 3px;
+
+  /* --- SHADOW / ELEVATION TOKENS --- */
+  --vc-shadow-sm:   0 1px  3px rgba(2, 2, 5, 0.55);
+  --vc-shadow-md:   0 2px  8px rgba(2, 2, 5, 0.65);
+  --vc-shadow-lg:   0 6px 20px rgba(2, 2, 5, 0.75);
+  --vc-shadow-xl:   0 14px 40px rgba(2, 2, 5, 0.85);
+
+  /* --- LAYOUT --- */
+  --vc-max-width: 110ch;
+}
+
+
+/* ============================================================
+ * PART 2: OBSIDIAN VARIABLE OVERRIDES — DARK THEME
+ * ============================================================ */
+
+.theme-dark {
+
+  /* Core color scale */
+  --color-base-00:  #0C0C10;
+  --color-base-05:  #0F0F14;
+  --color-base-10:  #131318;
+  --color-base-20:  #1A1A20;
+  --color-base-25:  #1E2530;
+  --color-base-30:  #222229;
+  --color-base-35:  #2A2A32;
+  --color-base-40:  #32404F;
+  --color-base-50:  #5A6E80;
+  --color-base-60:  #8AA0B2;
+  --color-base-70:  #AABFCC;
+  --color-base-100: #C8DCEA;
+
+  /* Accent */
+  --color-accent:         var(--vc-red-primary);
+  --color-accent-1:       var(--vc-red-mid);
+  --color-accent-2:       var(--vc-red-bright);
+
+  /* Background */
+  --background-primary:              var(--vc-black-primary);
+  --background-primary-alt:          var(--vc-black-surface);
+  --background-secondary:            var(--vc-black-surface);
+  --background-secondary-alt:        var(--vc-black-card);
+  --background-modifier-hover:       var(--vc-red-alpha-08);
+  --background-modifier-active-hover:var(--vc-red-alpha-15);
+  --background-modifier-border:      var(--vc-grey-deep);
+  --background-modifier-border-hover:var(--vc-red-alpha-25);
+  --background-modifier-border-focus:var(--vc-red-primary);
+  --background-modifier-form-field:  var(--vc-black-card);
+  --background-modifier-success:     rgba(138, 160, 178, 0.12);
+  --background-modifier-error:       rgba(143, 22, 34, 0.18);
+  --background-modifier-error-hover: rgba(143, 22, 34, 0.28);
+
+  /* Text */
+  --text-normal:        var(--vc-grey-base);
+  --text-muted:         var(--vc-grey-mid);
+  --text-faint:         var(--vc-grey-dark);
+  --text-on-accent:     var(--vc-grey-bright);
+  --text-accent:        var(--vc-red-primary);
+  --text-accent-hover:  var(--vc-red-mid);
+  --text-selection:     var(--vc-red-alpha-25);
+  --text-highlight-bg:  var(--vc-red-alpha-15);
+  --text-error:         var(--vc-red-mid);
+  --text-success:       var(--vc-grey-light);
+  --text-warning:       var(--vc-red-bright);
+  --text-error-hover:   var(--vc-red-bright);
+
+  /* Interactive */
+  --interactive-normal:        var(--vc-black-card);
+  --interactive-hover:         var(--vc-black-raised);
+  --interactive-accent:        var(--vc-red-primary);
+  --interactive-accent-hover:  var(--vc-red-mid);
+
+  /* Borders */
+  --background-modifier-border:       var(--vc-grey-deep);
+  --divider-color:                    var(--vc-grey-deep);
+  --divider-color-hover:              var(--vc-grey-dark);
+  --modal-border-color:               var(--vc-grey-deep);
+  --prompt-border-color:              var(--vc-grey-deep);
+  --table-border-color:               var(--vc-grey-deep);
+
+  /* Code */
+  --code-background:  var(--vc-black-surface);
+  --code-normal:      var(--vc-grey-base);
+  --code-comment:     var(--vc-grey-mid);
+  --code-function:    var(--vc-grey-light);
+  --code-important:   var(--vc-red-primary);
+  --code-keyword:     var(--vc-red-primary);
+  --code-operator:    var(--vc-grey-base);
+  --code-property:    var(--vc-grey-light);
+  --code-punctuation: var(--vc-grey-dark);
+  --code-string:      var(--vc-red-bright);
+  --code-tag:         var(--vc-red-mid);
+  --code-value:       var(--vc-red-mid);
+
+  /* Callout type colors — all mapped to theme palette */
+  --callout-default:  var(--vc-red-primary);
+  --callout-info:     var(--vc-grey-base);
+  --callout-todo:     var(--vc-grey-light);
+  --callout-warning:  var(--vc-red-mid);
+  --callout-tip:      var(--vc-grey-light);
+  --callout-success:  var(--vc-grey-bright);
+  --callout-question: var(--vc-red-mid);
+  --callout-failure:  var(--vc-red-muted);
+  --callout-danger:   var(--vc-red-deep);
+  --callout-error:    var(--vc-red-primary);
+  --callout-bug:      var(--vc-red-mid);
+  --callout-example:  var(--vc-grey-mid);
+  --callout-quote:    var(--vc-grey-mid);
+  --callout-abstract: var(--vc-red-muted);
+
+  /* Heading colors */
+  --h1-color:  var(--vc-red-primary);
+  --h2-color:  var(--vc-red-mid);
+  --h3-color:  var(--vc-grey-light);
+  --h4-color:  var(--vc-grey-base);
+  --h5-color:  var(--vc-grey-mid);
+  --h6-color:  var(--vc-grey-mid);
+
+  /* Tag */
+  --tag-color:             var(--vc-grey-base);
+  --tag-background:        var(--vc-red-alpha-08);
+  --tag-background-hover:  var(--vc-red-alpha-15);
+  --tag-border-color:      var(--vc-red-muted);
+  --tag-border-color-hover:var(--vc-red-primary);
+  --tag-padding-x:         6px;
+  --tag-padding-y:         2px;
+  --tag-radius:            var(--vc-radius-sm);
+
+  /* Checkbox */
+  --checkbox-color:         var(--vc-red-primary);
+  --checkbox-color-hover:   var(--vc-red-mid);
+  --checkbox-border-color:  var(--vc-grey-dark);
+  --checkbox-marker-color:  var(--vc-black-primary);
+  --checklist-done-color:   var(--vc-grey-mid);
+
+  /* Links */
+  --link-color:             var(--vc-red-primary);
+  --link-color-hover:       var(--vc-red-mid);
+  --link-decoration:        underline;
+  --link-decoration-hover:  underline;
+  --link-external-color:    var(--vc-red-primary);
+  --link-external-color-hover: var(--vc-red-mid);
+  --link-unresolved-color:  var(--vc-red-muted);
+  --link-unresolved-opacity: 0.7;
+  --link-unresolved-decoration-style: dotted;
+  --link-unresolved-decoration-color: var(--vc-red-muted);
+
+  /* Font */
+  --font-text-size:       var(--vc-font-base-size);
+  --font-interface-size:  14px;
+  --font-monospace:       var(--vc-font-mono);
+  --font-text-theme:      var(--vc-font-mono);
+  --font-interface-theme: var(--vc-font-mono);
+
+  /* Input */
+  --input-height:        34px;
+  --input-border-width:  1px;
+  --input-radius:        var(--vc-radius-md);
+  --input-shadow:        none;
+  --input-shadow-hover:  none;
+
+  /* Cursor */
+  --cursor:        text;
+  --cursor-link:   pointer;
+
+  /* Slider */
+  --slider-track-background:     var(--vc-grey-deep);
+  --slider-track-background-hover: var(--vc-grey-dark);
+  --slider-thumb-border-color:   var(--vc-red-primary);
+
+  /* Indentation */
+  --indentation-guide-color:         var(--vc-grey-deep);
+  --indentation-guide-color-active:  var(--vc-red-alpha-25);
+
+  /* Folding */
+  --fold-indicator:         var(--vc-grey-dark);
+
+  /* Border radius (override Obsidian defaults for card aesthetic) */
+  --radius-s:   var(--vc-radius-sm);
+  --radius-m:   var(--vc-radius-md);
+  --radius-l:   var(--vc-radius-lg);
+  --radius-xl:  var(--vc-radius-xl);
+
+  /* Scrollbar */
+  --scrollbar-bg:           transparent;
+  --scrollbar-thumb-bg:     var(--vc-grey-deep);
+  --scrollbar-active-thumb-bg: var(--vc-red-muted);
+}
+
+
+/* ============================================================
+ * PART 3: GLOBAL APP CHROME & BODY
+ * ============================================================ */
+
+body {
+  font-family:    var(--vc-font-mono);
+  font-size:      var(--vc-font-base-size);
+  line-height:    var(--vc-line-height-normal);
+  letter-spacing: 0.01em;
+  -webkit-font-smoothing:  antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* App root background */
+.theme-dark {
+  background-color: var(--vc-black-void);
+}
+
+/* Workspace split handles */
+.workspace-split.mod-root .workspace-leaf-resize-handle {
+  background-color: var(--vc-grey-deep);
+  width: 1px;
+}
+
+
+/* ============================================================
+ * PART 4: LEFT SIDEBAR — FILE EXPLORER
+ * ============================================================ */
+
+/* Sidebar container */
+.nav-files-container {
+  padding: var(--vc-space-xs) 0;
+  background-color: var(--vc-black-surface);
+}
+
+/* Folder headers */
+.nav-folder-title {
+  font-size:      0.78em;
+  font-weight:    var(--vc-font-weight-semi, 600);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color:          var(--vc-grey-mid);
+  padding:        var(--vc-space-xs) var(--vc-space-sm);
+  border-radius:  var(--vc-radius-sm);
+}
+
+.nav-folder-title:hover {
+  background-color: var(--vc-red-alpha-05);
+  color:            var(--vc-grey-light);
+}
+
+.nav-folder.is-collapsed .nav-folder-title {
+  color: var(--vc-grey-dark);
+}
+
+/* File items — card hover blocks */
+.nav-file-title {
+  border-radius:  var(--vc-radius-md);
+  padding:        var(--vc-space-xs) var(--vc-space-sm);
+  color:          var(--vc-grey-base);
+  font-size:      0.85em;
+  transition:     background-color 0.1s ease, color 0.1s ease, border-color 0.1s ease;
+  border-left:    var(--vc-border-bold) solid transparent;
+}
+
+.nav-file-title:hover {
+  background-color: var(--vc-red-alpha-08);
+  color:            var(--vc-grey-light);
+  border-left-color: var(--vc-red-muted);
+}
+
+.nav-file-title.is-active {
+  background-color: var(--vc-red-alpha-15);
+  color:            var(--vc-grey-bright);
+  border-left-color: var(--vc-red-primary);
+  font-weight:      500;
+}
+
+/* Vault title */
+.workspace-leaf .nav-folder.mod-root > .nav-folder-title {
+  display: none;
+}
+
+/* Indent guides */
+.tree-item-children {
+  border-left: var(--vc-border-hair) solid var(--vc-grey-deep);
+  margin-left:  var(--vc-space-sm);
+}
+
+
+/* ============================================================
+ * PART 5: TITLE BAR & TABS
+ * ============================================================ */
+
+.titlebar {
+  background-color: var(--vc-black-void);
+  border-bottom:    var(--vc-border-hair) solid var(--vc-grey-deep);
+}
+
+/* Tab container */
+.workspace-tab-header-container {
+  background-color: var(--vc-black-void);
+  border-bottom:    var(--vc-border-hair) solid var(--vc-grey-deep);
+}
+
+/* Individual tab */
+.workspace-tab-header {
+  background-color: transparent;
+  border-radius:    var(--vc-radius-md) var(--vc-radius-md) 0 0;
+  color:            var(--vc-grey-mid);
+  border:           var(--vc-border-hair) solid transparent;
+  border-bottom:    none;
+  transition:       background-color 0.1s ease, color 0.1s ease;
+  margin-bottom:    0;
+}
+
+.workspace-tab-header:hover {
+  background-color: var(--vc-black-card);
+  color:            var(--vc-grey-light);
+  border-color:     var(--vc-grey-deep);
+  border-bottom-color: transparent;
+}
+
+.workspace-tab-header.is-active {
+  background-color: var(--vc-black-primary);
+  color:            var(--vc-grey-bright);
+  border-color:     var(--vc-grey-deep);
+  border-bottom-color: transparent;
+  font-weight:      500;
+}
+
+/* Active tab accent bar */
+.workspace-tab-header.is-active::after {
+  content:    '';
+  position:   absolute;
+  bottom:     0;
+  left:       8px;
+  right:      8px;
+  height:     2px;
+  background: var(--vc-red-primary);
+  border-radius: var(--vc-radius-sm) var(--vc-radius-sm) 0 0;
+}
+
+.workspace-tab-header {
+  position: relative;
+}
+
+
+/* ============================================================
+ * PART 6: RIBBON (LEFT)
+ * ============================================================ */
+
+.side-dock-ribbon {
+  background-color: var(--vc-black-void);
+  border-right:     var(--vc-border-hair) solid var(--vc-grey-deep);
+  padding:          var(--vc-space-sm) 0;
+}
+
+.side-dock-ribbon-action {
+  color:       var(--vc-grey-dark);
+  border-radius: var(--vc-radius-md);
+  margin:      2px 4px;
+  transition:  color 0.1s ease, background-color 0.1s ease;
+}
+
+.side-dock-ribbon-action:hover {
+  color:            var(--vc-grey-light);
+  background-color: var(--vc-red-alpha-08);
+}
+
+.side-dock-ribbon-action.is-active {
+  color: var(--vc-red-primary);
+}
+
+
+/* ============================================================
+ * PART 7: STATUS BAR
+ * ============================================================ */
+
+.status-bar {
+  background-color: var(--vc-black-void);
+  border-top:       var(--vc-border-hair) solid var(--vc-grey-deep);
+  font-size:        0.72em;
+  letter-spacing:   0.04em;
+}
+
+.status-bar-item {
+  color:       var(--vc-grey-mid);
+  padding:     0 var(--vc-space-sm);
+  border-right: var(--vc-border-hair) solid var(--vc-grey-deep);
+  transition:  color 0.1s ease;
+}
+
+.status-bar-item:hover {
+  color: var(--vc-grey-light);
+}
+
+.status-bar-item:last-child {
+  border-right: none;
+}
+
+
+/* ============================================================
+ * PART 8: WORKSPACE MAIN CONTENT AREA
+ * ============================================================ */
+
+.workspace-leaf-content {
+  background-color: var(--vc-black-primary);
+}
+
+/* Note content container */
+.markdown-source-view,
+.markdown-preview-view {
+  background-color: var(--vc-black-primary);
+  padding:          var(--vc-space-2xl) var(--vc-space-xl);
+}
+
+/* Reading mode content width */
+.markdown-preview-view .markdown-preview-section {
+  max-width:  var(--vc-max-width);
+  margin:     0 auto;
+}
+
+/* Editor content width */
+.cm-editor {
+  max-width:  var(--vc-max-width);
+  margin:     0 auto;
+}
+
+
+/* ============================================================
+ * PART 9: HEADINGS
+ * ============================================================ */
+
+/* --- H1: Vivid crimson, bold, 3px left accent bar --- */
+.markdown-rendered h1,
+.HyperMD-header-1 .cm-header-1 {
+  font-size:      2.0em;
+  font-weight:    700;
+  color:          var(--vc-red-primary);
+  letter-spacing: 0.02em;
+  margin-top:     var(--vc-space-2xl);
+  margin-bottom:  var(--vc-space-md);
+  padding-left:   var(--vc-space-md);
+  border-left:    var(--vc-border-bold) solid var(--vc-red-primary);
+  line-height:    var(--vc-line-height-tight);
+}
+
+/* --- H2: Secondary red, 2px left bar + hairline bottom --- */
+.markdown-rendered h2,
+.HyperMD-header-2 .cm-header-2 {
+  font-size:      1.55em;
+  font-weight:    600;
+  color:          var(--vc-red-mid);
+  letter-spacing: 0.02em;
+  margin-top:     var(--vc-space-xl);
+  margin-bottom:  var(--vc-space-sm);
+  padding-left:   var(--vc-space-md);
+  padding-bottom: var(--vc-space-xs);
+  border-left:    var(--vc-border-rule) solid var(--vc-red-mid);
+  border-bottom:  var(--vc-border-hair) solid var(--vc-grey-deep);
+  line-height:    var(--vc-line-height-tight);
+}
+
+/* --- H3: Light grey, semibold --- */
+.markdown-rendered h3,
+.HyperMD-header-3 .cm-header-3 {
+  font-size:      1.30em;
+  font-weight:    600;
+  color:          var(--vc-grey-light);
+  letter-spacing: 0.015em;
+  margin-top:     var(--vc-space-lg);
+  margin-bottom:  var(--vc-space-xs);
+  padding-left:   var(--vc-space-sm);
+  border-left:    var(--vc-border-hair) solid var(--vc-grey-dark);
+  line-height:    var(--vc-line-height-tight);
+}
+
+/* --- H4: Base grey, italic --- */
+.markdown-rendered h4,
+.HyperMD-header-4 .cm-header-4 {
+  font-size:      1.15em;
+  font-weight:    500;
+  font-style:     italic;
+  color:          var(--vc-grey-base);
+  margin-top:     var(--vc-space-md);
+  margin-bottom:  var(--vc-space-xs);
+  line-height:    var(--vc-line-height-tight);
+}
+
+/* --- H5: Muted, normal weight --- */
+.markdown-rendered h5,
+.HyperMD-header-5 .cm-header-5 {
+  font-size:      1.0em;
+  font-weight:    500;
+  color:          var(--vc-grey-mid);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top:     var(--vc-space-md);
+  margin-bottom:  var(--vc-space-xs);
+  line-height:    var(--vc-line-height-tight);
+}
+
+/* --- H6: Faint, italic --- */
+.markdown-rendered h6,
+.HyperMD-header-6 .cm-header-6 {
+  font-size:      0.92em;
+  font-weight:    400;
+  font-style:     italic;
+  color:          var(--vc-grey-mid);
+  margin-top:     var(--vc-space-sm);
+  margin-bottom:  var(--vc-space-xs);
+  line-height:    var(--vc-line-height-tight);
+}
+
+
+/* ============================================================
+ * PART 10: BODY TEXT — BOLD, ITALIC, HIGHLIGHT, STRIKETHROUGH
+ * ============================================================ */
+
+/* Body paragraph */
+.markdown-rendered p {
+  color:         var(--vc-grey-base);
+  line-height:   var(--vc-line-height-relaxed);
+  margin-bottom: var(--vc-space-md);
+}
+
+/* Bold */
+.markdown-rendered strong,
+.cm-strong {
+  color:       var(--vc-red-mid);
+  font-weight: 600;
+}
+
+/* Italic */
+.markdown-rendered em,
+.cm-em {
+  color:       var(--vc-grey-light);
+  font-style:  italic;
+}
+
+/* Bold + italic */
+.markdown-rendered strong em,
+.markdown-rendered em strong,
+.cm-strong.cm-em {
+  color:       var(--vc-red-bright);
+  font-weight: 600;
+  font-style:  italic;
+}
+
+/* Highlight (==text==) */
+.markdown-rendered mark {
+  background-color: var(--vc-red-alpha-15);
+  color:            var(--vc-grey-light);
+  border-bottom:    var(--vc-border-hair) solid var(--vc-red-muted);
+  border-radius:    var(--vc-radius-sm);
+  padding:          0 var(--vc-space-2xs);
+}
+
+/* Strikethrough */
+.markdown-rendered s,
+.cm-strikethrough {
+  color:              var(--vc-grey-dark);
+  text-decoration:    line-through;
+  text-decoration-color: var(--vc-red-muted);
+}
+
+/* Selection */
+::selection {
+  background-color: var(--vc-red-alpha-25);
+  color:            var(--vc-grey-bright);
+}
+
+
+/* ============================================================
+ * PART 11: LINKS
+ * ============================================================ */
+
+/* Internal links */
+.markdown-rendered a.internal-link {
+  color:           var(--vc-red-primary);
+  text-decoration: underline;
+  text-decoration-color: var(--vc-red-muted);
+  text-underline-offset: 2px;
+  transition:      color 0.1s ease, background-color 0.1s ease;
+}
+
+.markdown-rendered a.internal-link:hover {
+  color:            var(--vc-red-mid);
+  background-color: var(--vc-red-alpha-08);
+  border-radius:    var(--vc-radius-sm);
+  text-decoration-color: var(--vc-red-primary);
+}
+
+/* External links */
+.markdown-rendered a.external-link {
+  color:           var(--vc-red-primary);
+  text-decoration: underline;
+  text-decoration-color: var(--vc-red-muted);
+  text-underline-offset: 2px;
+}
+
+.markdown-rendered a.external-link::after {
+  content:        ' ↗';
+  font-size:      0.75em;
+  color:          var(--vc-grey-mid);
+  vertical-align: super;
+}
+
+.markdown-rendered a.external-link:hover {
+  color:            var(--vc-red-mid);
+  background-color: var(--vc-red-alpha-08);
+  border-radius:    var(--vc-radius-sm);
+}
+
+/* Unresolved links */
+.markdown-rendered a.internal-link.is-unresolved {
+  color:           var(--vc-red-muted);
+  text-decoration: underline dotted;
+  text-decoration-color: var(--vc-red-ember);
+  opacity:         0.75;
+}
+
+
+/* ============================================================
+ * PART 12: INLINE CODE
+ * ============================================================ */
+
+.markdown-rendered code,
+.cm-inline-code {
+  font-family:      var(--vc-font-mono);
+  font-size:        0.88em;
+  color:            var(--vc-red-bright);
+  background-color: var(--vc-red-alpha-08);
+  border:           var(--vc-border-hair) solid var(--vc-red-alpha-15);
+  border-radius:    var(--vc-radius-sm);
+  padding:          0 var(--vc-space-xs);
+  text-decoration:  none;
+}
+
+
+/* ============================================================
+ * PART 13: CODE BLOCKS
+ * ============================================================ */
+
+/* Container */
+.markdown-rendered pre {
+  position:         relative;
+  background-color: var(--vc-black-surface) !important; /* override Obsidian default */
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-left:      var(--vc-border-bold) solid var(--vc-red-primary);
+  border-radius:    0 var(--vc-radius-md) var(--vc-radius-md) 0;
+  padding:          var(--vc-space-lg) var(--vc-space-md);
+  margin:           var(--vc-space-md) 0;
+  overflow-x:       auto;
+  box-shadow:       var(--vc-shadow-md);
+}
+
+.markdown-rendered pre code {
+  font-family:      var(--vc-font-mono);
+  font-size:        0.88em;
+  color:            var(--vc-grey-base);
+  background-color: transparent;
+  border:           none;
+  padding:          0;
+  border-radius:    0;
+  line-height:      var(--vc-line-height-relaxed);
+}
+
+/* Language badge */
+.markdown-rendered pre[class*="language-"]::after,
+.markdown-rendered div[class*="language-"] > pre::before {
+  content:          attr(class);
+  position:         absolute;
+  top:              0;
+  right:            0;
+  font-size:        0.65em;
+  font-weight:      600;
+  letter-spacing:   0.06em;
+  text-transform:   uppercase;
+  color:            var(--vc-grey-mid);
+  background-color: var(--vc-black-card);
+  border-left:      var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-bottom:    var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    0 var(--vc-radius-md) 0 var(--vc-radius-md);
+  padding:          var(--vc-space-2xs) var(--vc-space-sm);
+}
+
+/* Syntax tokens */
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color:       var(--vc-grey-mid);
+  font-style:  italic;
+}
+
+.token.keyword,
+.token.selector,
+.token.important,
+.token.atrule {
+  color:       var(--vc-red-primary);
+  font-weight: 500;
+}
+
+.token.string,
+.token.attr-value,
+.token.char {
+  color: var(--vc-red-bright);
+}
+
+.token.number,
+.token.boolean,
+.token.constant {
+  color: var(--vc-red-mid);
+}
+
+.token.function,
+.token.class-name {
+  color: var(--vc-grey-light);
+}
+
+.token.operator,
+.token.entity {
+  color: var(--vc-grey-base);
+}
+
+.token.punctuation {
+  color: var(--vc-grey-dark);
+}
+
+.token.tag {
+  color: var(--vc-red-mid);
+}
+
+.token.attr-name {
+  color: var(--vc-grey-light);
+}
+
+.token.property {
+  color: var(--vc-grey-light);
+}
+
+.token.variable {
+  color: var(--vc-red-bright);
+}
+
+.token.regex {
+  color: var(--vc-red-bright);
+}
+
+.token.inserted {
+  color: var(--vc-grey-light);
+}
+
+.token.deleted {
+  color: var(--vc-red-primary);
+}
+
+
+/* ============================================================
+ * PART 14: LISTS
+ * ============================================================ */
+
+/* Base list spacing */
+.markdown-rendered ul,
+.markdown-rendered ol {
+  padding-left:  var(--vc-space-lg);
+  margin-bottom: var(--vc-space-sm);
+}
+
+.markdown-rendered li {
+  color:         var(--vc-grey-base);
+  line-height:   var(--vc-line-height-relaxed);
+  margin-bottom: var(--vc-space-2xs);
+}
+
+/* --- Unordered list markers (—, ›, ·) --- */
+.markdown-rendered ul {
+  list-style: none;
+}
+
+.markdown-rendered ul > li::before {
+  content:      '—';
+  color:        var(--vc-red-muted);
+  font-weight:  500;
+  display:      inline-block;
+  width:        1.2em;
+  margin-left:  -1.6em;
+  margin-right: 0.4em;
+}
+
+.markdown-rendered ul ul > li::before {
+  content: '›';
+  color:   var(--vc-grey-mid);
+}
+
+.markdown-rendered ul ul ul > li::before {
+  content: '·';
+  color:   var(--vc-grey-dark);
+}
+
+/* --- Ordered list markers --- */
+.markdown-rendered ol {
+  list-style-type: decimal;
+  counter-reset:   li;
+}
+
+.markdown-rendered ol > li {
+  list-style: none;
+  counter-increment: li;
+}
+
+.markdown-rendered ol > li::before {
+  content:      counter(li) '.';
+  color:        var(--vc-red-primary);
+  font-weight:  600;
+  display:      inline-block;
+  width:        1.8em;
+  margin-left:  -2.2em;
+  margin-right: 0.4em;
+  text-align:   right;
+}
+
+/* Task list checkboxes */
+.markdown-rendered .task-list-item-checkbox {
+  border:        var(--vc-border-rule) solid var(--vc-grey-dark);
+  border-radius: var(--vc-radius-sm);
+  background:    transparent;
+  transition:    border-color 0.1s ease, background-color 0.1s ease;
+}
+
+.markdown-rendered .task-list-item-checkbox:checked {
+  background-color: var(--vc-red-primary);
+  border-color:     var(--vc-red-primary);
+}
+
+.markdown-rendered .task-list-item.is-checked > p,
+.markdown-rendered .task-list-item.is-checked {
+  color:           var(--vc-grey-mid);
+  text-decoration: line-through;
+  text-decoration-color: var(--vc-grey-dark);
+}
+
+
+/* ============================================================
+ * PART 15: BLOCKQUOTES
+ * ============================================================ */
+
+.markdown-rendered blockquote {
+  border-left:      var(--vc-border-bold) solid var(--vc-grey-dark);
+  background-color: var(--vc-black-card);
+  border-radius:    0 var(--vc-radius-md) var(--vc-radius-md) 0;
+  padding:          var(--vc-space-sm) var(--vc-space-md);
+  margin:           var(--vc-space-sm) 0;
+  color:            var(--vc-grey-mid);
+  font-style:       italic;
+}
+
+.markdown-rendered blockquote p {
+  color:         var(--vc-grey-mid);
+  margin-bottom: 0;
+}
+
+
+/* ============================================================
+ * PART 16: TABLES
+ * ============================================================ */
+
+.markdown-rendered table {
+  width:          100%;
+  border-collapse: collapse;
+  border:         var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:  var(--vc-radius-md);
+  overflow:       hidden;
+  margin:         var(--vc-space-md) 0;
+  box-shadow:     var(--vc-shadow-sm);
+}
+
+.markdown-rendered th {
+  background-color: var(--vc-black-card);
+  color:            var(--vc-red-mid);
+  font-weight:      600;
+  text-align:       left;
+  padding:          var(--vc-space-sm) var(--vc-space-md);
+  border-bottom:    var(--vc-border-rule) solid var(--vc-grey-deep);
+  letter-spacing:   0.04em;
+}
+
+.markdown-rendered td {
+  color:        var(--vc-grey-base);
+  padding:      var(--vc-space-xs) var(--vc-space-md);
+  border-bottom: var(--vc-border-hair) solid var(--vc-grey-deep);
+  vertical-align: top;
+}
+
+.markdown-rendered tr:last-child td {
+  border-bottom: none;
+}
+
+.markdown-rendered tr:nth-child(even) td {
+  background-color: var(--vc-black-surface);
+}
+
+.markdown-rendered tr:hover td {
+  background-color: var(--vc-red-alpha-05);
+}
+
+
+/* ============================================================
+ * PART 17: HORIZONTAL RULES
+ * ============================================================ */
+
+.markdown-rendered hr {
+  border:         none;
+  border-top:     var(--vc-border-hair) solid var(--vc-grey-deep);
+  margin:         var(--vc-space-xl) 0;
+  position:       relative;
+}
+
+/* Center marker */
+.markdown-rendered hr::after {
+  content:          '✦';
+  position:         absolute;
+  top:              -0.6em;
+  left:             50%;
+  transform:        translateX(-50%);
+  background-color: var(--vc-black-primary);
+  color:            var(--vc-grey-dark);
+  font-size:        0.7em;
+  padding:          0 var(--vc-space-sm);
+  letter-spacing:   0.3em;
+}
+
+
+/* ============================================================
+ * PART 18: CALLOUTS (CARD SYSTEM)
+ * ============================================================ */
+
+/* Card container base */
+.callout {
+  border-left:      var(--vc-border-bold) solid var(--vc-red-primary);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-left-width: var(--vc-border-bold);
+  background-color: var(--vc-black-card);
+  border-radius:    0 var(--vc-radius-md) var(--vc-radius-md) 0;
+  box-shadow:       var(--vc-shadow-md);
+  margin:           var(--vc-space-md) 0;
+  overflow:         hidden;
+  padding:          0;
+}
+
+/* Callout title bar */
+.callout-title {
+  display:          flex;
+  align-items:      center;
+  gap:              var(--vc-space-xs);
+  padding:          var(--vc-space-sm) var(--vc-space-md);
+  background-color: var(--vc-red-alpha-08);
+  border-bottom:    var(--vc-border-hair) solid var(--vc-grey-deep);
+}
+
+.callout-title-inner {
+  font-size:      0.8em;
+  font-weight:    700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color:          var(--vc-red-primary);
+}
+
+/* Callout content */
+.callout-content {
+  padding:     var(--vc-space-sm) var(--vc-space-md);
+  color:       var(--vc-grey-base);
+  line-height: var(--vc-line-height-relaxed);
+}
+
+.callout-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* --- Type-specific overrides --- */
+
+/* Note / default */
+.callout[data-callout="note"],
+.callout[data-callout="default"] {
+  border-left-color: var(--vc-red-primary);
+}
+.callout[data-callout="note"] .callout-title-inner,
+.callout[data-callout="default"] .callout-title-inner {
+  color: var(--vc-red-primary);
+}
+
+/* Info / todo */
+.callout[data-callout="info"],
+.callout[data-callout="todo"] {
+  border-left-color: var(--vc-grey-light);
+}
+.callout[data-callout="info"] .callout-title-inner,
+.callout[data-callout="todo"] .callout-title-inner {
+  color: var(--vc-grey-light);
+}
+
+/* Warning / caution */
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  border-left-color: var(--vc-red-mid);
+}
+.callout[data-callout="warning"] .callout-title-inner,
+.callout[data-callout="caution"] .callout-title-inner,
+.callout[data-callout="attention"] .callout-title-inner {
+  color: var(--vc-red-mid);
+}
+
+/* Tip / hint / important */
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+  border-left-color: var(--vc-grey-bright);
+}
+.callout[data-callout="tip"] .callout-title-inner,
+.callout[data-callout="hint"] .callout-title-inner,
+.callout[data-callout="important"] .callout-title-inner {
+  color: var(--vc-grey-bright);
+}
+
+/* Success / check / done */
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  border-left-color: var(--vc-grey-light);
+}
+.callout[data-callout="success"] .callout-title-inner,
+.callout[data-callout="check"] .callout-title-inner,
+.callout[data-callout="done"] .callout-title-inner {
+  color: var(--vc-grey-light);
+}
+
+/* Question / help */
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"] {
+  border-left-color: var(--vc-red-mid);
+}
+.callout[data-callout="question"] .callout-title-inner,
+.callout[data-callout="help"] .callout-title-inner,
+.callout[data-callout="faq"] .callout-title-inner {
+  color:       var(--vc-red-mid);
+  font-style:  italic;
+}
+
+/* Danger / error */
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  border-left-color: var(--vc-red-deep);
+  background-color:  rgba(61, 8, 16, 0.2);
+}
+.callout[data-callout="danger"] .callout-title-inner,
+.callout[data-callout="error"] .callout-title-inner {
+  color: var(--vc-red-bright);
+}
+
+/* Failure / fail / missing */
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"] {
+  border-left-color: var(--vc-red-muted);
+}
+.callout[data-callout="failure"] .callout-title-inner,
+.callout[data-callout="fail"] .callout-title-inner,
+.callout[data-callout="missing"] .callout-title-inner {
+  color: var(--vc-red-muted);
+}
+
+/* Bug */
+.callout[data-callout="bug"] {
+  border-left-color: var(--vc-red-mid);
+}
+.callout[data-callout="bug"] .callout-title-inner {
+  color: var(--vc-red-mid);
+}
+
+/* Example */
+.callout[data-callout="example"] {
+  border-left-color: var(--vc-grey-mid);
+}
+.callout[data-callout="example"] .callout-title-inner {
+  color: var(--vc-grey-mid);
+}
+
+/* Quote / cite */
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  border-left-color: var(--vc-grey-dark);
+}
+.callout[data-callout="quote"] .callout-title-inner,
+.callout[data-callout="cite"] .callout-title-inner {
+  color:       var(--vc-grey-mid);
+  font-style:  italic;
+}
+
+/* Abstract / summary / tldr */
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  border-left-color: var(--vc-red-muted);
+}
+.callout[data-callout="abstract"] .callout-title-inner,
+.callout[data-callout="summary"] .callout-title-inner,
+.callout[data-callout="tldr"] .callout-title-inner {
+  color: var(--vc-red-muted);
+}
+
+/* Foldable callout arrow */
+.callout-fold {
+  color: var(--vc-grey-dark);
+  transition: transform 0.15s ease;
+}
+
+.callout.is-collapsed .callout-fold {
+  transform: rotate(-90deg);
+}
+
+
+/* ============================================================
+ * PART 19: TAGS
+ * ============================================================ */
+
+.tag {
+  color:            var(--vc-grey-base);
+  background-color: var(--vc-red-alpha-08);
+  border:           var(--vc-border-hair) solid var(--vc-red-muted);
+  border-radius:    var(--vc-radius-sm);
+  padding:          var(--vc-space-2xs) var(--vc-space-xs);
+  font-size:        0.78em;
+  font-weight:      500;
+  letter-spacing:   0.03em;
+  text-decoration:  none;
+  transition:       background-color 0.1s ease, border-color 0.1s ease, color 0.1s ease;
+}
+
+.tag:hover {
+  background-color: var(--vc-red-alpha-15);
+  border-color:     var(--vc-red-primary);
+  color:            var(--vc-grey-light);
+}
+
+
+/* ============================================================
+ * PART 20: PROPERTIES / METADATA PANEL
+ * ============================================================ */
+
+.metadata-container {
+  border-bottom:    var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-left:      var(--vc-border-bold) solid var(--vc-grey-deep);
+  background-color: var(--vc-black-surface);
+  border-radius:    0 var(--vc-radius-md) var(--vc-radius-md) 0;
+  padding:          var(--vc-space-sm) var(--vc-space-md);
+  margin-bottom:    var(--vc-space-lg);
+  font-size:        0.82em;
+}
+
+.metadata-property-key {
+  color:        var(--vc-grey-mid);
+  font-weight:  500;
+  letter-spacing: 0.04em;
+  min-width:    100px;
+}
+
+.metadata-property-value {
+  color: var(--vc-grey-light);
+}
+
+.metadata-add-button {
+  color:       var(--vc-grey-dark);
+  font-size:   0.78em;
+  margin-top:  var(--vc-space-xs);
+  transition:  color 0.1s ease;
+}
+
+.metadata-add-button:hover {
+  color: var(--vc-red-primary);
+}
+
+
+/* ============================================================
+ * PART 21: FRONTMATTER / YAML
+ * ============================================================ */
+
+.cm-hmd-frontmatter {
+  color:       var(--vc-grey-mid);
+  font-size:   0.85em;
+}
+
+.cm-hmd-frontmatter .cm-meta {
+  color: var(--vc-grey-dark);
+}
+
+.cm-hmd-frontmatter .cm-string {
+  color: var(--vc-grey-base);
+}
+
+.cm-hmd-frontmatter .cm-number {
+  color: var(--vc-red-mid);
+}
+
+.cm-hmd-frontmatter .cm-keyword {
+  color: var(--vc-red-primary);
+}
+
+/* Frontmatter border */
+.cm-hmd-frontmatter,
+.markdown-rendered .frontmatter-container {
+  border-bottom: var(--vc-border-hair) dashed var(--vc-grey-deep);
+  margin-bottom: var(--vc-space-md);
+}
+
+
+/* ============================================================
+ * PART 22: SEARCH & QUICK SWITCHER
+ * ============================================================ */
+
+/* Search container */
+.search-result-container {
+  background-color: var(--vc-black-surface);
+  padding:          var(--vc-space-xs);
+}
+
+/* Individual result — card per result */
+.search-result-file-matches {
+  background-color: var(--vc-black-card);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-md);
+  margin-bottom:    var(--vc-space-xs);
+  overflow:         hidden;
+  box-shadow:       var(--vc-shadow-sm);
+}
+
+/* Result file title */
+.search-result-file-title {
+  background-color: var(--vc-black-raised);
+  color:            var(--vc-red-primary);
+  font-weight:      600;
+  font-size:        0.82em;
+  letter-spacing:   0.04em;
+  padding:          var(--vc-space-xs) var(--vc-space-sm);
+  border-bottom:    var(--vc-border-hair) solid var(--vc-grey-deep);
+}
+
+/* Result match line */
+.search-result-file-match {
+  padding:     var(--vc-space-xs) var(--vc-space-sm);
+  font-size:   0.82em;
+  color:       var(--vc-grey-mid);
+  border-left: var(--vc-border-bold) solid transparent;
+  transition:  border-color 0.1s ease, background-color 0.1s ease;
+}
+
+.search-result-file-match:hover {
+  background-color: var(--vc-red-alpha-08);
+  border-left-color: var(--vc-red-primary);
+}
+
+/* Highlighted match text */
+.search-result-file-match .search-result-file-matched-text {
+  color:            var(--vc-grey-bright);
+  background-color: var(--vc-red-alpha-25);
+  border-radius:    var(--vc-radius-sm);
+  padding:          0 var(--vc-space-2xs);
+}
+
+
+/* ============================================================
+ * PART 23: MODALS & COMMAND PALETTE
+ * ============================================================ */
+
+/* Modal backdrop */
+.modal-bg {
+  background-color: var(--vc-black-alpha-70);
+  backdrop-filter:  blur(4px);
+}
+
+/* Modal card */
+.modal {
+  background-color: var(--vc-black-raised);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-lg);
+  box-shadow:       var(--vc-shadow-xl);
+}
+
+.modal-title {
+  color:          var(--vc-grey-bright);
+  font-weight:    600;
+  font-size:      1.0em;
+  letter-spacing: 0.04em;
+  padding:        var(--vc-space-md) var(--vc-space-lg);
+  border-bottom:  var(--vc-border-hair) solid var(--vc-grey-deep);
+}
+
+/* Prompt / command palette */
+.prompt {
+  background-color: var(--vc-black-raised);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-lg);
+  box-shadow:       var(--vc-shadow-xl);
+  overflow:         hidden;
+}
+
+.prompt-input {
+  background-color: var(--vc-black-card);
+  color:            var(--vc-grey-bright);
+  border-bottom:    var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-lg) var(--vc-radius-lg) 0 0;
+  padding:          var(--vc-space-md) var(--vc-space-lg);
+  font-size:        0.95em;
+}
+
+.prompt-input::placeholder {
+  color: var(--vc-grey-dark);
+}
+
+/* Suggestion items */
+.suggestion-item {
+  color:       var(--vc-grey-base);
+  padding:     var(--vc-space-xs) var(--vc-space-md);
+  border-left: var(--vc-border-bold) solid transparent;
+  transition:  background-color 0.1s ease, color 0.1s ease, border-color 0.1s ease;
+  font-size:   0.88em;
+}
+
+.suggestion-item:hover,
+.suggestion-item.is-selected {
+  background-color: var(--vc-red-alpha-15);
+  color:            var(--vc-grey-bright);
+  border-left-color: var(--vc-red-primary);
+}
+
+.suggestion-highlight {
+  color:  var(--vc-red-bright);
+  font-weight: 600;
+}
+
+.suggestion-sub-item {
+  font-size: 0.78em;
+  color:     var(--vc-grey-mid);
+}
+
+
+/* ============================================================
+ * PART 24: BUTTONS & FORM CONTROLS
+ * ============================================================ */
+
+/* Default button */
+button,
+.mod-cta {
+  font-family:      var(--vc-font-mono);
+  background-color: var(--vc-black-card);
+  color:            var(--vc-grey-light);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-md);
+  padding:          var(--vc-space-xs) var(--vc-space-md);
+  font-size:        0.85em;
+  font-weight:      500;
+  cursor:           pointer;
+  transition:       background-color 0.1s ease, border-color 0.1s ease, color 0.1s ease;
+}
+
+button:hover,
+.mod-cta:hover {
+  background-color: var(--vc-black-raised);
+  border-color:     var(--vc-red-primary);
+  color:            var(--vc-grey-bright);
+}
+
+/* CTA / primary button */
+button.mod-cta {
+  background-color: var(--vc-red-primary);
+  color:            var(--vc-grey-bright);
+  border-color:     var(--vc-red-mid);
+  font-weight:      600;
+}
+
+button.mod-cta:hover {
+  background-color: var(--vc-red-mid);
+  border-color:     var(--vc-red-bright);
+}
+
+/* Warning button */
+button.mod-warning {
+  background-color: var(--vc-red-deep);
+  color:            var(--vc-grey-bright);
+  border-color:     var(--vc-red-primary);
+}
+
+button.mod-warning:hover {
+  background-color: var(--vc-red-primary);
+}
+
+/* Input fields */
+input[type="text"],
+input[type="search"],
+input[type="email"],
+textarea,
+.search-input-container input {
+  font-family:      var(--vc-font-mono);
+  background-color: var(--vc-black-card);
+  color:            var(--vc-grey-base);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-md);
+  padding:          var(--vc-space-xs) var(--vc-space-sm);
+  font-size:        0.88em;
+  outline:          none;
+  transition:       border-color 0.1s ease, box-shadow 0.1s ease;
+}
+
+input[type="text"]:focus,
+input[type="search"]:focus,
+textarea:focus {
+  border-color: var(--vc-red-primary);
+  box-shadow:   0 0 0 2px var(--vc-red-alpha-15);
+}
+
+input::placeholder {
+  color: var(--vc-grey-dark);
+}
+
+/* Toggle / switch */
+.checkbox-container {
+  background-color: var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-pill);
+  transition:       background-color 0.2s ease;
+}
+
+.checkbox-container.is-enabled {
+  background-color: var(--vc-red-primary);
+}
+
+
+/* ============================================================
+ * PART 25: POPOVER / HOVER PREVIEW
+ * ============================================================ */
+
+.popover.hover-popover {
+  background-color: var(--vc-black-raised);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-lg);
+  box-shadow:       var(--vc-shadow-lg);
+  overflow:         hidden;
+}
+
+.popover.hover-popover .markdown-preview-view {
+  padding:     var(--vc-space-md);
+  font-size:   0.88em;
+  background-color: var(--vc-black-raised);
+}
+
+
+/* ============================================================
+ * PART 26: EMBEDS
+ * ============================================================ */
+
+.markdown-embed {
+  background-color: var(--vc-black-surface);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-left:      var(--vc-border-bold) solid var(--vc-grey-dark);
+  border-radius:    0 var(--vc-radius-md) var(--vc-radius-md) 0;
+  padding:          var(--vc-space-sm) var(--vc-space-md);
+  margin:           var(--vc-space-sm) 0;
+}
+
+.embed-title {
+  color:       var(--vc-grey-mid);
+  font-size:   0.75em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-bottom: var(--vc-space-xs);
+  text-decoration: none;
+}
+
+.embed-title:hover {
+  color: var(--vc-red-primary);
+}
+
+
+/* ============================================================
+ * PART 27: SCROLLBARS
+ * ============================================================ */
+
+::-webkit-scrollbar {
+  width:  8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background:    transparent;
+  border-radius: var(--vc-radius-pill);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-pill);
+  border:           2px solid transparent;
+  background-clip:  content-box;
+  transition:       background-color 0.1s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--vc-red-muted);
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: var(--vc-red-primary);
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+
+/* ============================================================
+ * PART 28: FOCUS & ACCESSIBILITY
+ * ============================================================ */
+
+/* Focus ring — always visible, no relying on browser default */
+*:focus-visible {
+  outline:        2px solid var(--vc-red-primary);
+  outline-offset: 2px;
+  border-radius:  var(--vc-radius-sm);
+}
+
+/* Skip link */
+a.skip-nav {
+  position:   absolute;
+  top:        -40px;
+  left:       0;
+  background: var(--vc-red-primary);
+  color:      var(--vc-grey-bright);
+  padding:    var(--vc-space-xs) var(--vc-space-sm);
+  z-index:    9999;
+  transition: top 0.15s ease;
+}
+
+a.skip-nav:focus {
+  top: 0;
+}
+
+
+/* ============================================================
+ * PART 29: REDUCED MOTION
+ * ============================================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration:        0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration:       0.01ms !important;
+    scroll-behavior:           auto !important;
+  }
+}
+
+
+/* ============================================================
+ * PART 30: HIGH CONTRAST MODE
+ * ============================================================ */
+
+@media (prefers-contrast: high) {
+  .theme-dark {
+    --text-normal:   var(--vc-grey-bright);
+    --text-muted:    var(--vc-grey-light);
+    --text-faint:    var(--vc-grey-base);
+    --background-modifier-border: var(--vc-grey-dark);
+  }
+
+  .markdown-rendered h1 { border-left-width: 4px; }
+  .markdown-rendered h2 { border-left-width: 3px; }
+
+  .callout { border-left-width: 4px; }
+
+  .nav-file-title.is-active { border-left-width: 4px; }
+}
+
+
+/* ============================================================
+ * PART 31: MOBILE ADJUSTMENTS
+ * ============================================================ */
+
+@media (max-width: 768px), body.is-mobile {
+  :root {
+    --vc-font-base-size: 16px;
+  }
+
+  .markdown-source-view,
+  .markdown-preview-view {
+    padding: var(--vc-space-md) var(--vc-space-sm);
+  }
+
+  .markdown-rendered h1 { font-size: 1.6em; }
+  .markdown-rendered h2 { font-size: 1.35em; }
+  .markdown-rendered h3 { font-size: 1.15em; }
+
+  /* Simplify callout header on mobile */
+  .callout-title-inner {
+    font-size: 0.75em;
+  }
+
+  /* Full-width tables on mobile with scroll */
+  .markdown-rendered table {
+    display:    block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+
+/* ============================================================
+ * PART 32: LIGHT THEME PARITY
+ * ============================================================ */
+
+.theme-light {
+
+  /* Backgrounds */
+  --background-primary:            #F4F4F6;
+  --background-primary-alt:        #EAEAEE;
+  --background-secondary:          #EAEAEE;
+  --background-secondary-alt:      #E0E0E6;
+  --background-modifier-hover:     rgba(143, 22, 34, 0.06);
+  --background-modifier-form-field:#FFFFFF;
+  --background-modifier-border:    #C8C8D0;
+
+  /* Text */
+  --text-normal:       #2A2A35;
+  --text-muted:        #5A5A70;
+  --text-faint:        #8A8A9A;
+  --text-on-accent:    #F4F4F6;
+  --text-accent:       var(--vc-red-primary);
+  --text-accent-hover: var(--vc-red-mid);
+
+  /* Core scale */
+  --color-base-00:  #F4F4F6;
+  --color-base-10:  #EAEAEE;
+  --color-base-20:  #E0E0E6;
+  --color-base-25:  #C8C8D0;
+  --color-base-30:  #ADADB8;
+  --color-base-40:  #8A8A9A;
+  --color-base-50:  #6A6A7A;
+  --color-base-60:  #4A4A5A;
+  --color-base-70:  #2A2A3A;
+  --color-base-100: #0C0C18;
+
+  /* Accent unchanged */
+  --color-accent:        var(--vc-red-primary);
+  --color-accent-1:      var(--vc-red-mid);
+  --interactive-accent:  var(--vc-red-primary);
+  --interactive-accent-hover: var(--vc-red-mid);
+
+  /* Headings */
+  --h1-color: var(--vc-red-primary);
+  --h2-color: var(--vc-red-mid);
+  --h3-color: #2A2A35;
+  --h4-color: #4A4A5A;
+  --h5-color: #6A6A7A;
+  --h6-color: #6A6A7A;
+
+  /* Code */
+  --code-background: #E8E8EE;
+  --code-normal:     #2A2A35;
+  --code-keyword:    var(--vc-red-primary);
+  --code-string:     #7A1A24;
+  --code-number:     var(--vc-red-mid);
+  --code-function:   #2A2A35;
+
+  /* Dividers */
+  --divider-color:         #C8C8D0;
+  --modal-border-color:    #C8C8D0;
+  --table-border-color:    #C8C8D0;
+}
+
+/* Light mode heading accent bars */
+.theme-light .markdown-rendered h1 {
+  border-left-color: var(--vc-red-primary);
+}
+
+.theme-light .markdown-rendered h2 {
+  border-left-color: var(--vc-red-mid);
+  border-bottom-color: #C8C8D0;
+}
+
+.theme-light .markdown-rendered h3 {
+  border-left-color: #8A8A9A;
+}
+
+/* Light mode code blocks */
+.theme-light .markdown-rendered pre {
+  background-color: #E8E8EE !important;
+  border-left-color: var(--vc-red-primary);
+  border-color:      #C8C8D0;
+}
+
+/* Light mode callouts */
+.theme-light .callout {
+  background-color: #FFFFFF;
+  border-color:     #C8C8D0;
+}
+
+.theme-light .callout-title {
+  background-color: rgba(143, 22, 34, 0.05);
+}
+
+/* Light mode tags */
+.theme-light .tag {
+  color:            #4A4A5A;
+  background-color: rgba(143, 22, 34, 0.06);
+  border-color:     rgba(143, 22, 34, 0.25);
+}
+
+
+/* ============================================================
+ * PART 33: SETTINGS PAGE
+ * ============================================================ */
+
+.vertical-tab-header {
+  background-color: var(--vc-black-surface);
+  border-right:     var(--vc-border-hair) solid var(--vc-grey-deep);
+}
+
+.vertical-tab-nav-item {
+  color:         var(--vc-grey-mid);
+  border-radius: var(--vc-radius-md);
+  padding:       var(--vc-space-xs) var(--vc-space-sm);
+  border-left:   var(--vc-border-bold) solid transparent;
+  transition:    background-color 0.1s ease, color 0.1s ease;
+}
+
+.vertical-tab-nav-item:hover {
+  background-color: var(--vc-red-alpha-08);
+  color:            var(--vc-grey-light);
+  border-left-color: var(--vc-red-muted);
+}
+
+.vertical-tab-nav-item.is-active {
+  background-color: var(--vc-red-alpha-15);
+  color:            var(--vc-grey-bright);
+  border-left-color: var(--vc-red-primary);
+  font-weight:      500;
+}
+
+/* Settings section — card grouping */
+.setting-item {
+  border-bottom:  var(--vc-border-hair) solid var(--vc-grey-deep);
+  padding:        var(--vc-space-md) 0;
+}
+
+.setting-item-name {
+  color:       var(--vc-grey-light);
+  font-weight: 500;
+}
+
+.setting-item-description {
+  color:     var(--vc-grey-mid);
+  font-size: 0.82em;
+}
+
+/* Settings section heading */
+.setting-item.setting-item-heading {
+  background-color: var(--vc-black-card);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-md);
+  padding:          var(--vc-space-sm) var(--vc-space-md);
+  margin:           var(--vc-space-md) 0 0;
+}
+
+.setting-item.setting-item-heading .setting-item-name {
+  color:          var(--vc-red-primary);
+  font-weight:    600;
+  letter-spacing: 0.06em;
+  font-size:      0.8em;
+  text-transform: uppercase;
+}
+
+
+/* ============================================================
+ * PART 34: CANVAS (VISUAL MODE)
+ * ============================================================ */
+
+.canvas-wrapper {
+  background-color: var(--vc-black-void);
+  background-image: radial-gradient(var(--vc-grey-deep) 1px, transparent 1px);
+  background-size:  24px 24px;
+}
+
+.canvas-node-container {
+  background-color: var(--vc-black-card);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-lg);
+  box-shadow:       var(--vc-shadow-md);
+}
+
+.canvas-node-container.is-focused {
+  border-color: var(--vc-red-primary);
+  box-shadow:   var(--vc-shadow-md), 0 0 0 2px var(--vc-red-alpha-25);
+}
+
+.canvas-edge path {
+  stroke: var(--vc-grey-dark);
+  stroke-width: 1.5;
+}
+
+.canvas-edge.is-highlighted path {
+  stroke: var(--vc-red-primary);
+}
+
+
+/* ============================================================
+ * PART 35: GRAPH VIEW
+ * ============================================================ */
+
+.theme-dark .graph-view.color-fill {
+  color: var(--vc-red-primary);
+}
+
+.theme-dark .graph-view.color-fill-tag {
+  color: var(--vc-grey-light);
+}
+
+.theme-dark .graph-view.color-fill-attachment {
+  color: var(--vc-grey-mid);
+}
+
+.theme-dark .graph-view.color-fill-unresolved {
+  color: var(--vc-red-muted);
+}
+
+.theme-dark .graph-view.color-line {
+  color: var(--vc-grey-deep);
+}
+
+.theme-dark .graph-view.color-line-highlight {
+  color: var(--vc-red-mid);
+}
+
+.theme-dark .graph-view.color-text {
+  color: var(--vc-grey-base);
+}
+
+.theme-dark .graph-view.color-background {
+  color: var(--vc-black-primary);
+}
+
+.theme-dark .graph-view.color-background-grid {
+  color: var(--vc-grey-deep);
+}
+
+
+/* ============================================================
+ * PART 36: TRANSLUCENT / GLASSMORPHISM (opt-in)
+ * ============================================================ */
+
+body.is-translucent .workspace-leaf-content,
+body.is-translucent .workspace-ribbon,
+body.is-translucent .side-dock-ribbon {
+  backdrop-filter: blur(16px) saturate(140%);
+}
+
+body.is-translucent .theme-dark {
+  --background-primary:     rgba(12, 12, 16, 0.85);
+  --background-secondary:   rgba(19, 19, 24, 0.85);
+  --background-modifier-border: rgba(30, 37, 48, 0.70);
+}
+
+
+/* ============================================================
+ * PART 37: PLUGIN COMPATIBILITY
+ * ============================================================ */
+
+/* --- Dataview --- */
+.dataview.table-view-table {
+  width:          100%;
+  border-collapse: collapse;
+}
+
+.dataview.table-view-table th {
+  background-color: var(--vc-black-card);
+  color:            var(--vc-red-mid);
+  font-weight:      600;
+  letter-spacing:   0.04em;
+  padding:          var(--vc-space-xs) var(--vc-space-md);
+  border-bottom:    var(--vc-border-rule) solid var(--vc-grey-deep);
+}
+
+.dataview.table-view-table td {
+  color:         var(--vc-grey-base);
+  padding:       var(--vc-space-xs) var(--vc-space-md);
+  border-bottom: var(--vc-border-hair) solid var(--vc-grey-deep);
+}
+
+.dataview.list-view-ul li.dataview-result-list-li {
+  color:       var(--vc-grey-base);
+  padding:     var(--vc-space-2xs) 0;
+}
+
+/* --- Calendar plugin --- */
+.calendar th {
+  color:       var(--vc-grey-mid);
+  font-weight: 600;
+  font-size:   0.75em;
+  letter-spacing: 0.06em;
+}
+
+.calendar td.today {
+  background-color: var(--vc-red-alpha-15);
+  border-radius:    var(--vc-radius-md);
+}
+
+.calendar td:hover {
+  background-color: var(--vc-red-alpha-08);
+  border-radius:    var(--vc-radius-md);
+}
+
+/* --- Kanban plugin --- */
+.kanban-plugin__board {
+  background-color: var(--vc-black-void);
+}
+
+.kanban-plugin__lane {
+  background-color: var(--vc-black-surface);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-lg);
+}
+
+.kanban-plugin__lane-header-wrapper {
+  border-bottom: var(--vc-border-hair) solid var(--vc-grey-deep);
+}
+
+.kanban-plugin__item-wrapper {
+  background-color: var(--vc-black-card);
+  border:           var(--vc-border-hair) solid var(--vc-grey-deep);
+  border-radius:    var(--vc-radius-md);
+  box-shadow:       var(--vc-shadow-sm);
+  transition:       box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.kanban-plugin__item-wrapper:hover {
+  border-color: var(--vc-red-muted);
+  box-shadow:   var(--vc-shadow-md);
+}
+
+/* === END OF FILE: theme.css === */

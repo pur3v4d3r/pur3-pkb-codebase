@@ -175,7 +175,7 @@ keywords:
 # Table of Contents Generator for Obsidian Notes
 
 ```python
-python 99-scripts/obsidian_toc.py "D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\self-efficacy-theory-foundational-report-2026-04-20.md" --execute --no-backup
+python 99-scripts/obsidian_toc.py "D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\connectionist-schema-theory-foundational-report-2026-04-25.md" --execute --no-backup
 ```
 
 # Frontmatter Generator for Obsidian Notes

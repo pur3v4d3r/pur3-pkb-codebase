@@ -1,6 +1,6 @@
         # V4D3R Sunset
 
-        > Auto-generated color variant.
+        > Orange/rose dual-tone
 
         ## About
 
@@ -8,9 +8,9 @@
         OKLCH hue rotation. Greys, blacks, and out-of-band colors are
         preserved; semantic colors (success/warn/error) are not rotated.
 
-        - **Source hue:** 28.4°
-        - **Target hue:** 53.0°
-- **Secondary hue:** 15.5° (dual-tone)
+        - **Source hue:** 23.5°
+        - **Target hue:** 55.0°
+- **Secondary hue:** 10.0° (dual-tone)
         - **Chroma:** preserved
         - **Lightness offset:** +0.00
 

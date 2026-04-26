@@ -302,13 +302,6 @@
   "statusBar": [],
   "pageHeader": [
     {
-      "id": "quickadd:choice:cb6e2de6-e72b-468d-b4d7-bd5fa5dad629",
-      "icon": "lucide-square-plus",
-      "name": "Note-Creation",
-      "mode": "any",
-      "color": "#ffc800"
-    },
-    {
       "id": "quickadd:choice:d492bbf4-06e3-47fa-b752-ca481b39599b",
       "icon": "lucide-clipboard-plus",
       "name": "Prompt Engineering",
@@ -323,15 +316,7 @@
     }
   ],
   "macros": [],
-  "explorer": [
-    {
-      "id": "quickadd:choice:fda96d18-c06b-4f97-baa5-56f7dec4f896",
-      "icon": "lucide-alert-triangle",
-      "name": "Dichotomy of Control",
-      "mode": "any",
-      "color": "#ffdd00"
-    }
-  ],
+  "explorer": [],
   "hide": {
     "statusbar": [
       "sync",

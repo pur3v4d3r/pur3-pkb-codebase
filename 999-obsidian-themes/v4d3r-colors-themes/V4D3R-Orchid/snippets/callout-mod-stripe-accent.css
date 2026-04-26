@@ -1,0 +1,112 @@
+@charset "UTF-8";
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CALLOUT MOD: Stripe Accent                                                  ║
+║  Diagonal stripe pattern overlay on the accent bar/border region             ║
+║                                                                              ║
+║  REQUIRES: callout-base.css enabled                                          ║
+║  CONFLICTS: Other layout/effect mods (enable only ONE mod at a time)         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+/* --- Stripe Container --- */
+.callout {
+  background: rgba(var(--co-surface), 0.95) !important;
+  border: 1px solid rgba(var(--callout-color), 0.2) !important;
+  border-left: none !important;
+  border-radius: var(--co-radius) !important;
+  padding: 0 !important;
+  margin: 1.4em 0 !important;
+  overflow: hidden !important;
+  position: relative !important;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3) !important;
+  transition:
+    box-shadow var(--co-speed) var(--co-ease),
+    border-color var(--co-speed) var(--co-ease) !important;
+}
+
+.callout:hover {
+  border-color: rgba(var(--callout-color), 0.4) !important;
+  box-shadow:
+    0 4px 14px rgba(0, 0, 0, 0.4),
+    0 0 6px rgba(var(--callout-color), 0.1) !important;
+}
+
+/* --- Diagonal Stripe Left Accent --- */
+.callout::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  bottom: 0 !important;
+  width: 8px !important;
+  background: repeating-linear-gradient(
+    -45deg,
+    rgb(var(--callout-color)),
+    rgb(var(--callout-color)) 3px,
+    transparent 3px,
+    transparent 6px
+  ) !important;
+  opacity: 0.7 !important;
+  z-index: 1 !important;
+  transition: opacity var(--co-speed) var(--co-ease) !important;
+}
+
+.callout:hover::before {
+  opacity: 1 !important;
+}
+
+/* --- Subtle stripe on top border --- */
+.callout::after {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  height: 2px !important;
+  background: repeating-linear-gradient(
+    90deg,
+    rgb(var(--callout-color)),
+    rgb(var(--callout-color)) 4px,
+    transparent 4px,
+    transparent 8px
+  ) !important;
+  opacity: 0.4 !important;
+  z-index: 1 !important;
+}
+
+/* --- Title --- */
+.callout-title {
+  background: rgba(var(--callout-color), 0.06) !important;
+  padding: 10px 16px 10px 22px !important;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.12) !important;
+  color: rgb(var(--callout-color)) !important;
+  font-weight: 600 !important;
+}
+
+/* --- Content --- */
+.callout-content {
+  background: transparent !important;
+  padding: 12px 16px 14px 22px !important;
+  color: rgba(var(--co-text), 0.9) !important;
+}
+
+/* --- Icon --- */
+.callout-icon {
+  color: rgb(var(--callout-color)) !important;
+}
+
+/* --- Bold text accent --- */
+.callout-content strong,
+.callout-content b {
+  color: rgb(var(--callout-color)) !important;
+}
+
+/* --- Nested --- */
+.callout .callout {
+  margin-left: 4px !important;
+}
+
+.callout .callout::before {
+  width: 4px !important;
+}

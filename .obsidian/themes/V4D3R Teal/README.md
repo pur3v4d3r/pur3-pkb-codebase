@@ -1,6 +1,6 @@
 # V4D3R Teal
 
-> Dark theme with vibrant Teal, Black, and Grey palette
+> Vibrant teal accents
 
 ## About
 
@@ -8,8 +8,8 @@ Color variant of **V4D3R**, generated via perceptually uniform
 OKLCH hue rotation. Greys, blacks, and out-of-band colors are
 preserved; semantic colors (success/warn/error) are not rotated.
 
-- **Source hue:** 28.4°
-- **Target hue:** 190.7°
+- **Source hue:** 23.5°
+- **Target hue:** 190.0°
 - **Chroma:** preserved
 - **Lightness offset:** +0.00
 
