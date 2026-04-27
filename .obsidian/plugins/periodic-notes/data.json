@@ -5,7 +5,7 @@
   "daily": {
     "format": "",
     "folder": "01_daily-notes",
-    "template": "99-system/01-quickadd/02-templates/_daily-note_template.md",
+    "template": "99-system/01-quickadd/02-templates/daily-note-template-v2.0.0.md",
     "enabled": true
   },
   "weekly": {

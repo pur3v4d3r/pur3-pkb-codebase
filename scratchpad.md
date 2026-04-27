@@ -903,11 +903,8 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-per
 
 # New Theme Test
 
-MAKE SURE TO USE THIS PROMPT FOR THE THEME GENERATION -> `D:\10_pur3v4d3r's-vault\.github\agents\_obsidian-snippet-theme-expert-v1.0.0.md`
-
-I have a theme for Obsidian that I really like called v4d3r Crimson, and Sanguine. I want you to review these themes and analyze the color schemes, design elements, and overall aesthetic, so you understand what patterns of style I like.
-Then I want you to spend time planning out a new theme thats main colors are still Red, Black, Grey.
-This theme should be comprehensive and include the full range of eklements that have been custimized.
+I want you to spend time planning out a new theme thats main colors are Red, Black, Grey.
+This theme should be comprehensive and include the full range of elements that have been custimized.
 You have free reighn over what you make this theme look and feel like within the bounds of the color scheme.
 I do like the card astehtic
 
@@ -946,8 +943,11 @@ snaguine is probly my faavorite of the two.
 
 # Enhancing Existing Permanent Notes with LLM
 
-I have a pipeline that creates seed s for permenant notes and then uses a local LLM to turn thos JSON seeds into full permanent notes. I want to create a new section for the pipeline that, takes a list of permanent notes that have already been created and then goes to each of those notes and add to them, enhances the details they contain.
+I have a pipeline that creates seeds for permenant notes and then uses a local LLM to turn thos JSON seeds into full permanent notes. I want to create a new section for the pipeline that, takes a list of permanent notes that have already been created and then goes to each of those notes and add to them, enhances the details they contain.
+- The goal is to have a new section of the pipeline that can take existing permanent notes and add more details to them, making them richer and more informative. This could involve adding more content to the body of the note, including additional sections or explanations, or enhancing the existing content with more examples, references, or insights. The idea is to use the local LLM to analyze the existing permanent notes and then generate additional content that complements and expands upon what is already there, ultimately creating more comprehensive and valuable permanent notes for my PKB.
 - Model -> qwen3:30b
+
+
 
 
 # Key Locations for Pipeline Reference
@@ -960,7 +960,7 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 
 `D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
 
-
+Please feel free to ask any question you have.
 
 
 

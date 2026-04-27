@@ -521,23 +521,27 @@
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
 /* --- BEGIN TOGGLE: Navigation Connection Lines --- */
-/* File explorer and nav folder connection lines */
+/* DISABLED 2026-04-27: indentation runaway + visible connector lines in deep
+ * folder trees. The selectors below stack across every nested folder level
+ * (because they target `.nav-folder-children .nav-folder-children`), so each
+ * additional depth added another 20px of inset AND another vertical line.
+ * Kept commented for easy revert — uncomment the block to restore. */
+/*
 .nav-folder-children .nav-folder-children {
   margin-left: 10px !important;  padding-left: 10px !important;  border-left: 1px solid var(--v4d3r-grey-dark) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: border-color var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
 
 .nav-folder-children .nav-folder-children:hover {
   border-left-color: var(--v4d3r-purple-muted) !important;}
 
-/* Outline pane connection lines */
 .outline .tree-item-children {
   margin-left: 12px !important;  padding-left: 8px !important;  border-left: 1px solid var(--v4d3r-grey-dark) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: border-color var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
 
 .outline .tree-item-children:hover {
   border-left-color: var(--v4d3r-purple-muted) !important;}
 
-/* Backlinks connection lines */
 .backlink-pane .tree-item-children {
   margin-left: 12px !important;  padding-left: 8px !important;  border-left: 1px solid var(--v4d3r-grey-dark) !important;  border-radius: var(--v4d3r-radius-sm) !important;}
+*/
 /* --- END TOGGLE: Navigation Connection Lines --- */
 
 /* ┌──────────────────────────────────────────────────────────────────────────────┐

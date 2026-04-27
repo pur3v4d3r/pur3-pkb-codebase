@@ -221,3 +221,26 @@ integrated-information-theory
 effect-size-and-practical-significance
 open-science-practices
 ```
+
+
+
+
+
+
+
+# Enhance permanent notes pipeline
+
+I have a pipeline for enahceing permanent notes that it has created. It suses local LLM. I want you to run this pipeline on 100 notes.
+
+
+# Key Locations for Pipeline Reference
+Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> V3 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> V4 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v5` -> V5 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
+
+
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
+

@@ -12,11 +12,15 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "99-system/03-templater/01-templater-scripts",
-  "enable_folder_templates": false,
+  "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "999-report-orginizing/srl-practice/srl-sessions",
       "template": "99-system/01-quickadd/02-templates/SRL-Reading-Session-Template.md"
+    },
+    {
+      "folder": "01_daily-notes",
+      "template": "99-system/01-quickadd/02-templates/daily-note-template-v2.0.0.md"
     }
   ],
   "enable_file_templates": false,

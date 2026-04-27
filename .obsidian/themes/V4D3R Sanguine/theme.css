@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════════════════════════════════════════
  * V4D3R SANGUINE THEME
  * File: theme.css
- * Version: 1.0.0
+ * Version: 1.0.4
  * Author: Pur3v4d3r
  * License: MIT
  * Min Obsidian: 1.5.0+
@@ -343,8 +343,6 @@ body {
 
 /* Interface — sans for chrome */
 .workspace,
-.nav-file-title,
-.nav-folder-title,
 .search-result-file-title,
 .workspace-tab-header-inner,
 .titlebar,
@@ -502,74 +500,16 @@ del, s {
 
 /* ═══════════════════════════════════════════════════════════════════════════
    PART 5: FILE EXPLORER [EXPLORER]
+   ═══════════════════════════════════════════════════════════════════════════
+   REMOVED in 1.0.4 per user request.
+
+   All theme styling for .nav-folder*, .nav-file*, .tree-item*, .nav-files-container,
+   indent guides, connector lines, indentation overrides, and ellipsis truncation
+   has been stripped. Obsidian renders the file explorer with its native defaults.
+
+   To restore styling: see git history for theme.css at version 1.0.3 or earlier,
+   or use the V4D3R Crimson theme as a reference.
    ═══════════════════════════════════════════════════════════════════════════ */
-
-.nav-files-container {
-  background-color: var(--vsg-black-soot);
-  padding: var(--vsg-space-sm) var(--vsg-space-xs);
-  font-family: var(--vsg-font-sans);
-  font-size: var(--font-ui-medium);
-}
-
-.nav-folder-title,
-.nav-file-title {
-  border-radius: var(--vsg-radius-sm);
-  padding: 3px var(--vsg-space-sm);
-  color: var(--vsg-grey-parchment);
-  transition: var(--vsg-t-fast);
-  border-left: 2px solid transparent;
-}
-
-.nav-folder-title {
-  font-weight: var(--vsg-weight-medium);
-  color: var(--vsg-grey-vellum);
-  font-variant-caps: all-small-caps;
-  letter-spacing: 0.04em;
-}
-
-.nav-folder-title:hover,
-.nav-file-title:hover {
-  background-color: var(--vsg-grey-alpha-10);
-  color: var(--vsg-grey-chalk);
-  border-left-color: var(--vsg-red-faded);
-}
-
-.nav-file-title.is-active,
-.nav-file-title.is-active:hover {
-  background-color: var(--vsg-red-alpha-15);
-  color: var(--vsg-red-rust);
-  border-left-color: var(--vsg-red-oxblood);
-  font-weight: var(--vsg-weight-medium);
-}
-
-/* Folder collapse arrow */
-.nav-folder-collapse-indicator {
-  color: var(--vsg-grey-iron);
-}
-
-/* Indent guides */
-.nav-folder-children {
-  position: relative;
-}
-
-.nav-folder-children::before {
-  content: "";
-  position: absolute;
-  left: 8px;
-  top: 0;
-  bottom: 0;
-  width: 1px;
-  background-color: var(--vsg-grey-stone);
-  opacity: 0.5;
-}
-
-/* File extension faint badge */
-.nav-file-tag {
-  color: var(--vsg-grey-iron);
-  font-size: 0.78em;
-  font-family: var(--vsg-font-mono);
-  font-variant-caps: all-small-caps;
-}
 
 
 /* ═══════════════════════════════════════════════════════════════════════════

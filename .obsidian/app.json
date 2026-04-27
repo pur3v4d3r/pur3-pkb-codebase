@@ -48,5 +48,6 @@
     "00-inbox/999-stoicism/books/"
   ],
   "showUnsupportedFiles": false,
-  "uriCallbacks": false
+  "uriCallbacks": false,
+  "openBehavior": "daily"
 }
