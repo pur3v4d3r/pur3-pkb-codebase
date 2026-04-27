@@ -1,0 +1,46 @@
+concept: Willpower
+domain: cognitive-science
+secondary_domains:
+- motivation-science
+- self-regulated-learning
+aliases:
+- volitional effort
+broader:
+- self-control
+- self-regulation
+- volitional-control
+related:
+- self-control
+- ego-involvement
+- intention-behavior-gap
+- implementation-intentions
+- hyperbolic-discounting
+- executive-function
+- inhibitory-control
+- action-control-theory
+- habit-formation
+prerequisites:
+- self-regulation
+- executive-function
+confidence: medium
+callouts:
+- type: definition
+  title: Willpower
+  body: Willpower is the colloquial term for the effortful, conscious, in-the-moment
+    deployment of self-control to resist a temptation, persist at an aversive task,
+    or initiate a difficult action, classically modelled as a limited cognitive resource
+    that is depleted by use and replenished by rest, glucose, or motivation.
+- type: key-claim
+  title: Key claim about Willpower
+  body: The strong form of the Willpower-as-depletable-resource hypothesis — ego depletion
+    — has been substantially weakened by failed pre-registered replications, and the
+    field has migrated toward motivational and belief-based accounts in which Willpower's
+    apparent fatigue depends on the actor's theory of self-control rather than on
+    a literal resource drain.
+- type: warning
+  title: Common pitfall regarding Willpower
+  body: Willpower is the wrong unit of analysis for most behaviour change because
+    it locates the work at the point of temptation, where intervention is least effective;
+    treating Willpower as the lever to pull predicts repeated failure and cultivates
+    self-blame, whereas habit design, environment structuring, and implementation
+    intentions move the leverage upstream.

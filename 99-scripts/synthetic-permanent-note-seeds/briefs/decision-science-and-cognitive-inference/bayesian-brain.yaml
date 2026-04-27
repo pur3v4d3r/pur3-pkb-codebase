@@ -1,0 +1,41 @@
+concept: Bayesian Brain
+domain: neuroscience
+secondary_domains:
+- cognitive-science
+- computational-neuroscience
+aliases:
+- Bayesian brain hypothesis
+broader:
+- predictive-processing
+- free-energy-principle
+related:
+- predictive-coding
+- active-inference
+- free-energy-principle
+- bayesian-reasoning
+- perceptual-load-theory
+- predictive-processing
+prerequisites:
+- bayesian-reasoning
+- probability-judgment
+confidence: high
+callouts:
+- type: definition
+  title: Bayesian Brain
+  body: The Bayesian Brain hypothesis holds that the nervous system represents environmental
+    causes probabilistically and updates those representations in approximate accordance
+    with Bayes' rule, treating perception, motor control, and cognition as varieties
+    of probabilistic inference performed over generative models of the world.
+- type: key-claim
+  title: Key claim about Bayesian Brain
+  body: 'The Bayesian Brain framework unifies disparate phenomena — multisensory integration
+    weighted by reliability, cue combination in depth perception, sensorimotor adaptation,
+    and even certain delusional symptoms — under a single computational principle:
+    optimal combination of prior beliefs with likelihoods derived from sensory evidence.'
+- type: warning
+  title: Common pitfall regarding Bayesian Brain
+  body: The Bayesian Brain hypothesis is sometimes interpreted as the claim that the
+    brain literally computes posterior distributions; the more defensible reading
+    is that neural dynamics *approximate* Bayesian inference under specific energetic
+    and architectural constraints, and confusing the as-if formalism with a literal
+    mechanism inflates explanatory claims beyond the evidence.

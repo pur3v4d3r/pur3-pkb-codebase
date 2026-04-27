@@ -268,7 +268,7 @@
 
 :root {
   /* Reading width */
-  --vsg-reading-max-width:  110ch;
+  --vsg-reading-max-width:  ;
 
   /* Drop cap (Reading View only, desktop only) */
   --vsg-dropcap-display:    block;

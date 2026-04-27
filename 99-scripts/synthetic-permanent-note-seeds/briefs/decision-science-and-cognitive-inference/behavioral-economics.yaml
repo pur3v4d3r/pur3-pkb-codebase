@@ -1,0 +1,42 @@
+concept: Behavioral Economics
+domain: behavioral-economics
+secondary_domains:
+- cognitive-science
+- decision-science
+aliases:
+- behavioural economics
+broader:
+- decision-science
+related:
+- prospect-theory
+- loss-aversion
+- hyperbolic-discounting
+- bounded-rationality
+- heuristics-and-biases
+- dual-process-theory
+- framing-effect
+- endowment-effect
+- status-quo-bias
+prerequisites:
+- expected-utility-theory
+- cognitive-bias
+confidence: high
+callouts:
+- type: definition
+  title: Behavioral Economics
+  body: Behavioral Economics is the branch of economics that integrates psychological
+    findings about cognition, emotion, and social context into models of economic
+    decision-making, replacing the idealised rational agent of classical theory with
+    empirically constrained accounts of how real people value, choose, and exchange.
+- type: key-claim
+  title: Key claim about Behavioral Economics
+  body: Behavioral Economics establishes that systematic, predictable departures from
+    expected-utility maximisation — loss aversion, reference dependence, hyperbolic
+    discounting, framing sensitivity — are not noise around a rational mean but stable
+    features of human choice that any descriptive economic model must accommodate.
+- type: warning
+  title: Common pitfall regarding Behavioral Economics
+  body: Behavioral Economics is often misread as a wholesale refutation of rational-choice
+    theory; in practice it functions as a *correction layer* on top of utility theory,
+    identifying boundary conditions where the rational model fails rather than discarding
+    optimisation as an analytic frame.

@@ -5,7 +5,7 @@
 ```markdown
 Generate a report on: [TOPIC]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 ```
 
 
@@ -523,75 +523,137 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 
 `D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
 
-# Cognitive Science & Attention
-attention-restoration-theory
-inattentional-blindness
-attentional-blink
-perceptual-load-theory
-cognitive-flexibility
-sustained-attention
-working-memory-updating
+# Logical Fallacies
+ad-hominem
+appeal-to-authority
+circular-reasoning
+conjunction-fallacy
+false-dichotomy
+gamblers-fallacy
+slippery-slope-fallacy
+straw-man-fallacy
 
-# Memory Systems
-autobiographical-memory
-flashbulb-memory
-prospective-memory
-false-memory
-source-amnesia
-long-term-potentiation
+# Formal Reasoning
+argument-from-analogy
+modus-ponens
+modus-tollens
+statistical-syllogism
 
-# Learning & Instructional Design
-transformative-learning
-kolb-experiential-learning-cycle
-cooperative-learning
-transfer-appropriate-processing
-near-transfer
-seductive-details-effect
-coherence-principle
-pre-training-principle
+# Memory Science
+emotional-memory-enhancement
+errorless-learning
+forward-testing-effect
+hippocampal-neocortical-transfer
+imagination-inflation
+keyword-mnemonic-method
+method-of-loci
+mood-congruent-memory
 
-# Motivation & Emotion
-psychological-reactance
-four-phase-model-of-interest-development
-control-value-theory
-social-comparison-theory
-epistemic-curiosity
-achievement-emotions
-regulatory-fit-theory
-
-# Self-Regulated Learning & Metacognition
-winne-s-model-of-self-regulated-learning
-woop-method
-action-control-theory
-
-# Reasoning & Critical Thinking
-lateral-thinking
-divergent-thinking
-counterfactual-reasoning
-creative-problem-solving
-reasoning-under-uncertainty
-
-# Cognitive Biases
-planning-fallacy
-sunk-cost-fallacy
-anchoring-bias
-framing-effect
-representativeness-heuristic
-construal-level-theory
-
-# Personal Knowledge Management
-second-brain
-knowledge-distillation
-idea-emergence
-linking-your-thinking
-
-# Psychology & Wellbeing
-psychological-safety
-self-compassion
+# Learning Strategies
+active-recall
+cornell-note-taking
+feynman-technique
+leitner-system
+pomodoro-technique
+sq3r-method
 
 # Neuroscience of Learning
-dopaminergic-reward-system
-stress-and-learning
+acetylcholine-and-memory
+amygdala-and-learning
+glial-cells-and-cognition
+mirror-neurons
+neuromodulation-and-learning
+norepinephrine-and-learning
+
+# Positive Psychology
+affective-forecasting
+grit
+hedonic-adaptation
+hope-theory
+perma-model
+psychological-capital
+savoring
+
+# Social Psychology
+conformity
+deindividuation
+groupthink
+halo-effect
+implicit-bias
+obedience-to-authority
+social-loafing
+
+# Behavioral Economics
+affect-heuristic
+decision-fatigue
+endowment-effect
+expected-utility-theory
+intertemporal-choice
+mental-accounting
+peak-end-rule
+scope-insensitivity
+
+# Epistemology
+a-priori-knowledge
+correspondence-theory-of-truth
+epistemic-autonomy
+epistemic-luck
+gettier-problem
+principle-of-charity
+underdetermination-thesis
+
+# Instructional Design
+arcs-motivation-model
+competency-based-education
+elaborative-feedback
+flipped-classroom
+game-based-learning
+gamification
+peer-instruction
+summative-assessment
+
+# PKM and Knowledge Work
+bi-directional-linking
+idea-compression
+information-diet
+knowledge-compounding
+networked-thought
+note-maturation
+personal-epistemology
+reading-workflow
+
+# Language and Cognition
+grice-maxims
+pragmatic-inference
+prototype-theory-of-concepts
+semantic-satiation
+speech-acts
+
+# Developmental Psychology
+eriksons-psychosocial-stages
+formal-operational-stage
+moral-development
+object-permanence
+theory-of-mind
+
+# Emotions and Affect
+affect-labeling
+alexithymia
+emotional-granularity
+emotional-suppression
+interoception
+
+# Advanced Cognitive Science
+active-inference
+computational-theory-of-mind
+dynamic-systems-theory-of-cognition
+free-energy-principle
+global-workspace-theory
+integrated-information-theory
+
+# Research Methods
+effect-size-and-practical-significance
+open-science-practices
 ```
 
 

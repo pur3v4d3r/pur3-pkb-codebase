@@ -1,0 +1,43 @@
+concept: Diffusion of Responsibility
+domain: social-psychology
+secondary_domains:
+- cognitive-science
+- decision-science
+aliases:
+- responsibility diffusion
+broader:
+- social-cognition
+- social-influence
+related:
+- bystander-effect
+- social-loafing
+- conformity
+- deindividuation
+- groupthink
+- obedience-to-authority
+- social-comparison-theory
+prerequisites:
+- social-cognition
+confidence: high
+callouts:
+- type: definition
+  title: Diffusion of Responsibility
+  body: Diffusion of Responsibility is the social-psychological phenomenon in which
+    the felt obligation to act decreases as the number of co-present others increases,
+    because each individual implicitly assumes that someone else will or should take
+    responsibility, leading to weaker individual response than would obtain if any
+    one person were alone.
+- type: key-claim
+  title: Key claim about Diffusion of Responsibility
+  body: Diffusion of Responsibility is the most parsimonious mechanism behind the
+    bystander effect and a major contributor to social loafing in collaborative tasks;
+    experimentally, manipulations that re-individuate responsibility — naming a specific
+    helper, reducing perceived group size, or assigning explicit roles — restore intervention
+    rates almost to those observed in solo conditions.
+- type: warning
+  title: Common pitfall regarding Diffusion of Responsibility
+  body: Diffusion of Responsibility is sometimes invoked as a complete explanation
+    for bystander non-intervention, but pluralistic ignorance, evaluation apprehension,
+    and ambiguity of the situation co-determine the outcome; treating diffusion as
+    the sole mechanism oversimplifies both the empirical record and the design space
+    for interventions.

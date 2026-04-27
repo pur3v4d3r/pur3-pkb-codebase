@@ -1,0 +1,44 @@
+concept: Probability Judgment
+domain: cognitive-science
+secondary_domains:
+- decision-science
+- statistics
+aliases:
+- subjective probability
+- probabilistic reasoning
+broader:
+- reasoning-under-uncertainty
+- decision-science
+related:
+- bayesian-reasoning
+- base-rate-neglect
+- conjunction-fallacy
+- representativeness-heuristic
+- availability-heuristic
+- gamblers-fallacy
+- anchoring-bias
+- calibration
+prerequisites:
+- bayesian-reasoning
+- cognitive-bias
+confidence: high
+callouts:
+- type: definition
+  title: Probability Judgment
+  body: Probability Judgment is the cognitive process by which people assign degrees
+    of belief to uncertain events and update those beliefs in light of evidence, encompassing
+    both the formal Bayesian benchmark and the heuristic shortcuts that humans actually
+    deploy when statistical computation is intractable in real time.
+- type: key-claim
+  title: Key claim about Probability Judgment
+  body: Research on Probability Judgment shows that human estimates of likelihood
+    are systematically miscalibrated in patterned ways — over-weighting vivid or recent
+    evidence, neglecting base rates, and committing the conjunction fallacy — and
+    that these errors are not eliminated by domain expertise unless feedback environments
+    are explicitly designed to surface them.
+- type: warning
+  title: Common pitfall regarding Probability Judgment
+  body: Probability Judgment errors are often described as irrationality, but several
+    "errors" in the laboratory turn out to be ecologically rational responses to real-world
+    frequency distributions; treating every deviation from Bayes as a defect risks
+    training people out of useful adaptive heuristics.

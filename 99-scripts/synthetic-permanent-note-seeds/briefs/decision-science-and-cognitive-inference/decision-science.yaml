@@ -1,0 +1,46 @@
+concept: Decision Science
+domain: cognitive-science
+secondary_domains:
+- behavioral-economics
+- judgment-and-decision-making
+aliases:
+- judgment and decision making
+- JDM
+broader:
+- cognitive-science
+narrower:
+- behavioral-economics
+- prospect-theory
+- expected-utility-theory
+related:
+- bounded-rationality
+- heuristics-and-biases
+- dual-process-theory
+- satisficing
+- cognitive-bias
+prerequisites:
+- probability-judgment
+- mental-model
+confidence: high
+callouts:
+- type: definition
+  title: Decision Science
+  body: Decision Science is the interdisciplinary study of how individuals and groups
+    choose between alternatives under conditions of uncertainty, risk, and limited
+    cognitive resources, integrating models from psychology, economics, statistics,
+    and neuroscience to describe both how decisions are actually made and how they
+    could be made more rationally.
+- type: key-claim
+  title: Key claim about Decision Science
+  body: Decision Science treats human choice as a dual-natured phenomenon — simultaneously
+    a normative problem (what *ought* one choose given preferences and beliefs) and
+    a descriptive problem (what do people *actually* choose given cognitive constraints)
+    — and most progress in the field has come from quantifying the systematic gap
+    between the two.
+- type: warning
+  title: Common pitfall regarding Decision Science
+  body: 'Decision Science is frequently collapsed into "behavioral economics," but
+    the field is broader: it includes naturalistic-decision-making research on expert
+    intuition, neuroeconomic work on valuation circuitry, and prescriptive engineering
+    of choice architectures, none of which reduce to the heuristics-and-biases program
+    alone.'

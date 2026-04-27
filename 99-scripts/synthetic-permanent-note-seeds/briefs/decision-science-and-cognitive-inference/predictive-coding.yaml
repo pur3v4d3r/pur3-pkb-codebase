@@ -1,0 +1,45 @@
+concept: Predictive Coding
+domain: neuroscience
+secondary_domains:
+- cognitive-science
+- computational-neuroscience
+aliases:
+- predictive coding theory
+broader:
+- predictive-processing
+- free-energy-principle
+narrower:
+- active-inference
+related:
+- bayesian-brain
+- free-energy-principle
+- predictive-processing
+- active-inference
+- perceptual-load-theory
+- attention-and-cognitive-control
+prerequisites:
+- bayesian-reasoning
+- neuroplasticity
+confidence: high
+callouts:
+- type: definition
+  title: Predictive Coding
+  body: Predictive Coding is a neurocomputational framework proposing that the brain
+    continuously generates top-down predictions about its incoming sensory input and
+    propagates only the prediction-error — the unexplained residual — up the cortical
+    hierarchy, so that perception and learning are organised around the minimisation
+    of surprise rather than the passive registration of stimuli.
+- type: key-claim
+  title: Key claim about Predictive Coding
+  body: 'Predictive Coding inverts the classical bottom-up view of perception: rather
+    than building percepts from sensory primitives, the cortex is held to issue prior
+    expectations and update them only when prediction-error signals demand revision,
+    which parsimoniously explains illusions, attentional gain control, and the energetic
+    efficiency of cortical processing.'
+- type: warning
+  title: Common pitfall regarding Predictive Coding
+  body: Predictive Coding is sometimes treated as a settled neural mechanism, but
+    the strongest evidence is computational and behavioural; the canonical cortical
+    microcircuitry that implements prediction-error signalling — putatively superficial
+    vs deep pyramidal cells — is still under active empirical investigation and should
+    not be cited as established neuroanatomy.

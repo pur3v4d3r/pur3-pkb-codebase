@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "decision-science-and-cognitive-inference",
+    "date": "2026-04-27",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-04-27-decision-science-and-cognitive-inference.md",
+    "notes": "Closes 10 high-payoff ghost wiki-links in the decision-science /\nbehavioural-economics / predictive-inference cluster. Each proposed\nterm is referenced 6-20 times across existing v6 permanent notes and\nhas obvious sibling concepts already in the graph (prospect-theory,\nloss-aversion, dual-process-theory, heuristics-and-biases, free-energy-\nprinciple, etc.). Selection prioritises edges that close from many\nsource notes simultaneously (decision-science alone closes 20 edges)."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/decision-science-and-cognitive-inference",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-04-27-decision-science-and-cognitive-inference"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Decision Science",
+      "kebab": "decision-science",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/decision-science.yaml",
+      "expected_seed_filename": "decision-science-synthetic-seed-2026-04-27_extracted.json"
+    },
+    {
+      "term": "Behavioral Economics",
+      "kebab": "behavioral-economics",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/behavioral-economics.yaml",
+      "expected_seed_filename": "behavioral-economics-synthetic-seed-2026-04-27_extracted.json"
+    },
+    {
+      "term": "Probability Judgment",
+      "kebab": "probability-judgment",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/probability-judgment.yaml",
+      "expected_seed_filename": "probability-judgment-synthetic-seed-2026-04-27_extracted.json"
+    },
+    {
+      "term": "Reference Dependence",
+      "kebab": "reference-dependence",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/reference-dependence.yaml",
+      "expected_seed_filename": "reference-dependence-synthetic-seed-2026-04-27_extracted.json"
+    },
+    {
+      "term": "Predictive Coding",
+      "kebab": "predictive-coding",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/predictive-coding.yaml",
+      "expected_seed_filename": "predictive-coding-synthetic-seed-2026-04-27_extracted.json"
+    },
+    {
+      "term": "Bayesian Brain",
+      "kebab": "bayesian-brain",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/bayesian-brain.yaml",
+      "expected_seed_filename": "bayesian-brain-synthetic-seed-2026-04-27_extracted.json"
+    },
+    {
+      "term": "Mental Simulation",
+      "kebab": "mental-simulation",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/mental-simulation.yaml",
+      "expected_seed_filename": "mental-simulation-synthetic-seed-2026-04-27_extracted.json"
+    },
+    {
+      "term": "Self-Control",
+      "kebab": "self-control",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/self-control.yaml",
+      "expected_seed_filename": "self-control-synthetic-seed-2026-04-27_extracted.json"
+    },
+    {
+      "term": "Willpower",
+      "kebab": "willpower",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/willpower.yaml",
+      "expected_seed_filename": "willpower-synthetic-seed-2026-04-27_extracted.json"
+    },
+    {
+      "term": "Diffusion of Responsibility",
+      "kebab": "diffusion-of-responsibility",
+      "brief_path": "briefs/decision-science-and-cognitive-inference/diffusion-of-responsibility.yaml",
+      "expected_seed_filename": "diffusion-of-responsibility-synthetic-seed-2026-04-27_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

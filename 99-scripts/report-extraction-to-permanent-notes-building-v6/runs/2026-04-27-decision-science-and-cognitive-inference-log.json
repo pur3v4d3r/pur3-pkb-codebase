@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Bayesian Brain",
+    "slug": "bayesian-brain",
+    "report_stem": "bayesian-brain-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": null,
+    "skipped_reason": "file exists at bayesian-brain.md",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Behavioral Economics",
+    "slug": "behavioral-economics",
+    "report_stem": "behavioral-economics-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": null,
+    "skipped_reason": "file exists at behavioral-economics.md",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Decision Science",
+    "slug": "decision-science",
+    "report_stem": "decision-science-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": null,
+    "skipped_reason": "file exists at decision-science.md",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Diffusion of Responsibility",
+    "slug": "diffusion-of-responsibility",
+    "report_stem": "diffusion-of-responsibility-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\diffusion-of-responsibility.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Mental Simulation",
+    "slug": "mental-simulation",
+    "report_stem": "mental-simulation-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\mental-simulation.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Predictive Coding",
+    "slug": "predictive-coding",
+    "report_stem": "predictive-coding-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\predictive-coding.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Probability Judgment",
+    "slug": "probability-judgment",
+    "report_stem": "probability-judgment-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\probability-judgment.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Reference Dependence",
+    "slug": "reference-dependence",
+    "report_stem": "reference-dependence-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\reference-dependence.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Self-Control",
+    "slug": "self-control",
+    "report_stem": "self-control-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\self-control.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  },
+  {
+    "title": "Willpower",
+    "slug": "willpower",
+    "report_stem": "willpower-synthetic-seed-2026-04-27",
+    "ok": true,
+    "cached": false,
+    "written_path": "D:\\10_pur3v4d3r's-vault\\999-report-organizing\\_permanent-notes\\v6-llm-elaborated\\willpower.md",
+    "skipped_reason": "",
+    "unworthy_reason": "",
+    "error": ""
+  }
+]

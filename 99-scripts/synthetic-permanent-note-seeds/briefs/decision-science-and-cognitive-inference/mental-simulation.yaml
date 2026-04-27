@@ -1,0 +1,44 @@
+concept: Mental Simulation
+domain: cognitive-science
+secondary_domains:
+- decision-science
+- social-cognition
+aliases:
+- simulation-based reasoning
+- mental scenario construction
+broader:
+- mental-model
+- episodic-memory
+related:
+- counterfactual-reasoning
+- prospective-memory
+- episodic-memory
+- theory-of-mind
+- mental-contrasting
+- woop-method
+- embodied-cognition
+- predictive-processing
+prerequisites:
+- working-memory
+- mental-model
+confidence: high
+callouts:
+- type: definition
+  title: Mental Simulation
+  body: Mental Simulation is the cognitive capacity to internally enact a course of
+    events — perceptual, motor, social, or strategic — without overt action, allowing
+    an agent to evaluate likely outcomes, rehearse procedures, take another's perspective,
+    or compare alternatives before committing to a choice.
+- type: key-claim
+  title: Key claim about Mental Simulation
+  body: Mental Simulation is the common substrate uniting episodic future-thinking,
+    counterfactual reasoning, theory of mind, and motor imagery; converging neuroimaging
+    evidence implicates a shared default-mode/hippocampal network, suggesting that
+    "imagining," "remembering," and "modelling another mind" are surface variants
+    of one underlying simulation engine.
+- type: warning
+  title: Common pitfall regarding Mental Simulation
+  body: Mental Simulation can systematically distort decisions by oversampling vivid,
+    available, or self-flattering scenarios; this is the mechanism behind the planning
+    fallacy, optimism bias in forecasting, and the empathy gap, so the very capacity
+    that enables foresight also seeds predictable forecasting errors.

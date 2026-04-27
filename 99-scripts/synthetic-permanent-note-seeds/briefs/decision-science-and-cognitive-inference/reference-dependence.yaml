@@ -1,0 +1,43 @@
+concept: Reference Dependence
+domain: behavioral-economics
+secondary_domains:
+- cognitive-science
+- decision-science
+aliases:
+- reference-point dependence
+broader:
+- prospect-theory
+- behavioral-economics
+related:
+- loss-aversion
+- framing-effect
+- endowment-effect
+- anchoring-bias
+- status-quo-bias
+- mental-accounting
+- prospect-theory
+prerequisites:
+- prospect-theory
+- expected-utility-theory
+confidence: high
+callouts:
+- type: definition
+  title: Reference Dependence
+  body: Reference Dependence is the principle, central to prospect theory, that people
+    evaluate outcomes not in terms of absolute final wealth or states but in terms
+    of gains and losses relative to a salient reference point, which may be the status
+    quo, an aspiration level, a recent experience, or a socially supplied benchmark.
+- type: key-claim
+  title: Key claim about Reference Dependence
+  body: Reference Dependence explains why the same objective outcome can be experienced
+    as a gain or a loss depending purely on framing and recent history — because the
+    brain encodes value as change from a reference rather than as level — and this
+    re-coding is upstream of loss aversion, the endowment effect, and a wide range
+    of framing effects.
+- type: warning
+  title: Common pitfall regarding Reference Dependence
+  body: Reference Dependence is often discussed as if the reference point were fixed
+    and obvious, but choosing the operative reference is itself a contested empirical
+    question; the literature contains genuine ambiguity about whether the reference
+    point is the status quo, a forecast, an aspiration, or a constructed mental representation,
+    and conclusions about loss aversion can shift accordingly.

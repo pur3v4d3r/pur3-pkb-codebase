@@ -1,0 +1,48 @@
+concept: Self-Control
+domain: cognitive-science
+secondary_domains:
+- motivation-science
+- self-regulated-learning
+aliases:
+- behavioral self-control
+broader:
+- self-regulation
+- executive-function
+narrower:
+- willpower
+- inhibitory-control
+related:
+- willpower
+- self-regulation
+- executive-function
+- inhibitory-control
+- intention-behavior-gap
+- hyperbolic-discounting
+- implementation-intentions
+- temptation-bundling
+- habit-formation
+- ego-involvement
+prerequisites:
+- executive-function
+- inhibitory-control
+confidence: high
+callouts:
+- type: definition
+  title: Self-Control
+  body: Self-Control is the capacity to override an immediate impulse, prepotent response,
+    or short-term reward in service of a more valued long-term goal, integrating attentional,
+    inhibitory, and motivational mechanisms that together regulate behaviour across
+    temporal distance.
+- type: key-claim
+  title: Key claim about Self-Control
+  body: Contemporary research re-conceives Self-Control less as a single "willpower
+    muscle" and more as a portfolio of strategies — situation selection, attentional
+    deployment, cognitive reappraisal, and pre-commitment — with the most successful
+    self-controllers being those who *avoid* needing in-the-moment effort by structuring
+    their environment in advance.
+- type: warning
+  title: Common pitfall regarding Self-Control
+  body: Self-Control is often equated with effortful inhibition in the moment, but
+    this framing predicts exhaustion and failure; the strategic-portfolio view warns
+    that over-relying on suppression at the point of temptation is the *least* effective
+    form of Self-Control and a leading cause of repeated lapses.
