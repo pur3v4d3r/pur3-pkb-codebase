@@ -34,7 +34,7 @@ parent-concept: ""
 related:
   - "[[confirmation-bias]]"
   - "[[motivated-reasoning]]"
-  - "[[Social Cognition]]"
+  - "[[social-cognition]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Social Cognition]]"
+  - "[[social-cognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Epistemic Vigilance
 
 > [!definition] **Epistemic Vigilance**
-> Epistemic Vigilance refers to the cognitive mechanisms humans use to evaluate the trustworthiness of testimony and communicated content, considering factors like source competence and benevolence, as well as coherence with existing knowledge. It falls under [[Epistemology]], where it operates within a social context and involves understanding others' arguments and testimonies.
+> Epistemic Vigilance refers to the cognitive mechanisms humans use to evaluate the trustworthiness of testimony and communicated content, considering factors like source competence and benevolence, as well as coherence with existing knowledge. It falls under [[epistemology]], where it operates within a social context and involves understanding others' arguments and testimonies.
 
 > [!attention] **Boundary**
 > This concept excludes individual cognitive biases unrelated to evaluating testimony and focuses on the social context of information evaluation.
@@ -132,6 +132,6 @@ Understanding Epistemic Vigilance is crucial for navigating the complex landscap
 
 **Contrasts with:** [[confirmation-bias]] · [[motivated-reasoning]]
 
-**Applies to:** [[Social Cognition]]
+**Applies to:** [[social-cognition]]
 
 **Source:** [[epistemic-vigilance-synthetic-seed-2026-04-24]]

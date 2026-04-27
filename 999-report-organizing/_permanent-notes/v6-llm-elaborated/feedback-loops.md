@@ -33,7 +33,7 @@ parent-concept: "Systems Thinking"
 related:
   - "[[Reinforcing Feedback]]"
   - "[[Balancing Feedback]]"
-  - "[[Causal Loop Diagrams]]"
+  - "[[causal-loop-diagrams]]"
   - "[[Systems Dynamics]]"
 prerequisites:
   - "[[]]"
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Causal Loop Diagrams]]"
+  - "[[causal-loop-diagrams]]"
   - "[[Systems Dynamics]]"
 formalizes:
   - "[[]]"
@@ -74,7 +74,7 @@ provenance:
 # Feedback Loops
 
 > [!definition] **Feedback Loops**
-> Feedback Loops are structural patterns in dynamic systems where an output is routed back as input, leading to either reinforcing (amplifying the same direction of change) or balancing (dampening or reversing the change) feedback. This concept falls under [[Systems Thinking]], providing a distinctive explanatory power by revealing how behavioral patterns emerge from loop structures.
+> Feedback Loops are structural patterns in dynamic systems where an output is routed back as input, leading to either reinforcing (amplifying the same direction of change) or balancing (dampening or reversing the change) feedback. This concept falls under [[systems-thinking]], providing a distinctive explanatory power by revealing how behavioral patterns emerge from loop structures.
 
 > [!attention] **Boundary**
 > This definition excludes unidirectional causal chains and correlations that do not form closed loops. It focuses on the role of loops in system dynamics rather than individual events.
@@ -137,10 +137,10 @@ Feedback Loops are integral to Systems Dynamics models and Causal Loop Diagrams,
 
 ## Connections & Context
 
-**Falls under:** [[Systems Thinking]]
+**Falls under:** [[systems-thinking]]
 
 **Specializes:** [[Reinforcing Feedback]] · [[Balancing Feedback]]
 
-**Applies to:** [[Causal Loop Diagrams]] · [[Systems Dynamics]]
+**Applies to:** [[causal-loop-diagrams]] · [[Systems Dynamics]]
 
 **Source:** [[feedback-loops-synthetic-seed-2026-04-25]]

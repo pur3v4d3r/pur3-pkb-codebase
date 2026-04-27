@@ -32,14 +32,14 @@ depth-level: elaborated
 parent-concept: "Instructional Design Theories"
 
 related:
-  - "[[Constructivism]]"
-  - "[[Problem-Based Learning]]"
+  - "[[constructivism]]"
+  - "[[problem-based-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Constructivism]]"
+  - "[[constructivism]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Problem-Based Learning]]"
+  - "[[problem-based-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -130,8 +130,8 @@ These principles align closely with problem-based learning approaches and suppor
 
 **Falls under:** [[Instructional Design Theories]]
 
-**Generalizes to:** [[Constructivism]]
+**Generalizes to:** [[constructivism]]
 
-**Applies to:** [[Problem-Based Learning]]
+**Applies to:** [[problem-based-learning]]
 
 **Source:** [[merrill-s-first-principles-synthetic-seed-2026-04-25]]

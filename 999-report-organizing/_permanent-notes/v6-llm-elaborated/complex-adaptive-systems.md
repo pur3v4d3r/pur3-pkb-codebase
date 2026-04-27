@@ -33,12 +33,12 @@ depth-level: elaborated
 parent-concept: "Systems-Thinking"
 
 related:
-  - "[[Emergence]]"
+  - "[[emergence]]"
   - "[[Evolutionary Dynamics]]"
   - "[[Self-Organization]]"
   - "[[Agent-Based Modeling]]"
 prerequisites:
-  - "[[Emergence]]"
+  - "[[emergence]]"
   - "[[Evolutionary Dynamics]]"
 specializes:
   - "[[]]"
@@ -75,7 +75,7 @@ provenance:
 # Complex Adaptive Systems
 
 > [!definition] **Complex Adaptive Systems**
-> Complex Adaptive Systems are dynamic systems composed of many interacting agents that follow local rules, exhibit emergent collective behavior, and adapt over time through learning, evolution, or selection — categories that include ecosystems, economies, immune systems, brains, and human organizations. These systems fall under [[Systems-Thinking]], characterized by non-linearity, path-dependence, and resistance to reductive prediction.
+> Complex Adaptive Systems are dynamic systems composed of many interacting agents that follow local rules, exhibit emergent collective behavior, and adapt over time through learning, evolution, or selection — categories that include ecosystems, economies, immune systems, brains, and human organizations. These systems fall under [[systems-thinking]], characterized by non-linearity, path-dependence, and resistance to reductive prediction.
 
 > [!attention] **Boundary**
 > This concept excludes static systems and those without adaptive capabilities. It should not be confused with simple adaptive systems or non-adaptive complex systems.
@@ -131,9 +131,9 @@ CAS also highlight the importance of considering emergent properties and self-or
 
 ## Connections & Context
 
-**Falls under:** [[Systems-Thinking]]
+**Falls under:** [[systems-thinking]]
 
-**Prerequisites:** [[Emergence]] · [[Evolutionary Dynamics]]
+**Prerequisites:** [[emergence]] · [[Evolutionary Dynamics]]
 
 **Sibling concepts:** [[Self-Organization]]
 

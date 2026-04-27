@@ -35,7 +35,7 @@ parent-concept: "Theory of Knowledge"
 related:
   - "[[Safety Condition]]"
   - "[[Sensitivity Condition]]"
-  - "[[Justified True Belief]]"
+  - "[[justified-true-belief]]"
 prerequisites:
   - "[[Safety Condition]]"
 specializes:
@@ -55,7 +55,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Justified True Belief]]"
+  - "[[justified-true-belief]]"
 refines:
   - "[[]]"
 
@@ -135,6 +135,6 @@ Understanding Epistemic Luck has broader implications across [[Theory of Knowled
 
 **Contrasts with:** [[Sensitivity Condition]]
 
-**Supports:** [[Justified True Belief]]
+**Supports:** [[justified-true-belief]]
 
 **Source:** [[epistemic-luck-synthetic-seed-2026-04-26]]

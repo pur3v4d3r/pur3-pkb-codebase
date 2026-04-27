@@ -35,7 +35,7 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Mastery Experience]]"
+  - "[[mastery-experience]]"
   - "[[verbal-persuasion]]"
   - "[[self-efficacy-theory]]"
 prerequisites:
@@ -45,7 +45,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Mastery Experience]]"
+  - "[[mastery-experience]]"
   - "[[verbal-persuasion]]"
   - "[[self-efficacy-theory]]"
 contrasts-with:
@@ -137,6 +137,6 @@ Vicarious experience is a fundamental concept in social-cognitive theory and pla
 
 **Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Mastery Experience]] · [[verbal-persuasion]] · [[self-efficacy-theory]]
+**Sibling concepts:** [[mastery-experience]] · [[verbal-persuasion]] · [[self-efficacy-theory]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]

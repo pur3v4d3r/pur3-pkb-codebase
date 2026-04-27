@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Growth Mindset]]"
-  - "[[Attribution Theory]]"
+  - "[[growth-mindset]]"
+  - "[[attribution-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 contrasts-with:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Implicit Theory of Intelligence
 
 > [!definition] **Implicit Theory of Intelligence**
-> An Implicit Theory of Intelligence is a learner's belief about whether intelligence is fixed or malleable, influencing goal choice, attribution, and persistence. It falls under [[Motivational Psychology]], where it serves as the cognitive antecedent to broader mindset distinctions.
+> An Implicit Theory of Intelligence is a learner's belief about whether intelligence is fixed or malleable, influencing goal choice, attribution, and persistence. It falls under [[motivational-psychology]], where it serves as the cognitive antecedent to broader mindset distinctions.
 
 > [!attention] **Boundary**
 > It stops at the cognitive antecedent of broader mindset distinctions; it does not encompass specific interventions or personality traits.
@@ -131,10 +131,10 @@ This theory also intersects with Attribution Theory, highlighting the importance
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
-**Sibling concepts:** [[Growth Mindset]]
+**Sibling concepts:** [[growth-mindset]]
 
-**Contrasts with:** [[Attribution Theory]]
+**Contrasts with:** [[attribution-theory]]
 
 **Source:** [[implicit-theory-of-intelligence-synthetic-seed-2026-04-25]]

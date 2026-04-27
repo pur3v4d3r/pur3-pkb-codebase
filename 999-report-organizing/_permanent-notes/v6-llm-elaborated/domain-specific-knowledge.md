@@ -31,10 +31,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,7 +46,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -70,7 +70,7 @@ provenance:
 # Domain Specific Knowledge
 
 > [!definition] **Domain Specific Knowledge**
-> Domain Specific Knowledge refers to specialized content and procedures unique to a particular subject area that does not transfer freely to unrelated domains; it falls under [[Cognitive Architecture]] as the structured knowledge essential for expert performance within specific fields.
+> Domain Specific Knowledge refers to specialized content and procedures unique to a particular subject area that does not transfer freely to unrelated domains; it falls under [[cognitive-architecture]] as the structured knowledge essential for expert performance within specific fields.
 
 > [!attention] **Boundary**
 > It is distinct from domain-general knowledge and biological secondary knowledge, which can be more broadly applicable. Domain Specific Knowledge should not be confused with general intelligence or transfer-of-learning mechanisms.
@@ -130,10 +130,10 @@ Empirical evidence supports the critical role of Domain Specific Knowledge in ex
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[domain-specific-knowledge-synthetic-seed-2026-04-25]]

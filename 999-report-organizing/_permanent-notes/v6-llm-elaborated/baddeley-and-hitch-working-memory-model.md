@@ -27,12 +27,12 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Cognitive Architecture
 related:
-  - '[[Working Memory]]'
-  - '[[Episodic Buffer]]'
+  - '[[working-memory]]'
+  - '[[episodic-buffer]]'
 prerequisites:
-  - '[[Working Memory]]'
+  - '[[working-memory]]'
 specializes:
-  - '[[Episodic Buffer]]'
+  - '[[episodic-buffer]]'
 broader:
   - '[[]]'
 see-also:
@@ -70,7 +70,7 @@ provenance:
 # Baddeley And Hitch Working Memory Model
 
 > [!definition] **Baddeley And Hitch Working Memory Model**
-> The Baddeley And Hitch Working Memory Model is a cognitive architecture that decomposes short-term memory into distinct components: central executive, phonological loop, and visuospatial sketchpad. It falls under [[Working Memory]], reframing it from a passive temporary store into an active processing system whose limits are not just capacity but also the coordination overhead of the central executive.
+> The Baddeley And Hitch Working Memory Model is a cognitive architecture that decomposes short-term memory into distinct components: central executive, phonological loop, and visuospatial sketchpad. It falls under [[working-memory]], reframing it from a passive temporary store into an active processing system whose limits are not just capacity but also the coordination overhead of the central executive.
 
 > [!attention] **Boundary**
 > This model focuses on the componential structure of working memory and does not include long-term memory processes or other cognitive architectures like Atkinson and Shiffrin's model.
@@ -147,10 +147,10 @@ The model's enduring relevance lies in its adaptability: each extension (phonolo
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Specializes:** [[Episodic Buffer]]
+**Specializes:** [[episodic-buffer]]
 
 **Source:** [[baddeley-and-hitch-working-memory-model-synthetic-seed-2026-04-25]]

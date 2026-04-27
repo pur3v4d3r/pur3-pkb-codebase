@@ -33,14 +33,14 @@ depth-level: elaborated
 parent-concept: "Philosophy of Mind"
 
 related:
-  - "[[Functionalism]]"
+  - "[[functionalism]]"
   - "[[Identity Theory]]"
   - "[[Dualism]]"
   - "[[Physicalism]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Functionalism]]"
+  - "[[functionalism]]"
   - "[[Identity Theory]]"
 broader:
   - "[[]]"
@@ -143,7 +143,7 @@ The persistence of the Mind Body Problem highlights the need for interdisciplina
 
 **Falls under:** [[Philosophy of Mind]]
 
-**Specializes:** [[Functionalism]] · [[Identity Theory]]
+**Specializes:** [[functionalism]] · [[Identity Theory]]
 
 **Sibling concepts:** [[Dualism]] · [[Physicalism]]
 

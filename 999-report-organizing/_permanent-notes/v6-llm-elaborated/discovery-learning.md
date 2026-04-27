@@ -35,7 +35,7 @@ parent-concept: "Cognitive Psychology"
 related:
   - "[[inquiry-based-learning]]"
   - "[[productive-failure]]"
-  - "[[Guided Discovery]]"
+  - "[[guided-discovery]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Guided Discovery]]"
+  - "[[guided-discovery]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -141,6 +141,6 @@ Empirical studies have shown that unguided discovery can be less effective for n
 
 **Contrasts with:** [[inquiry-based-learning]] · [[productive-failure]]
 
-**Applies to:** [[Guided Discovery]]
+**Applies to:** [[guided-discovery]]
 
 **Source:** [[discovery-learning-synthetic-seed-2026-04-24]]

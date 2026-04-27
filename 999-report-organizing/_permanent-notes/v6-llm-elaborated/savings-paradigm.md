@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Memory Research Methods"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Encoding Specificity Principle]]"
+  - "[[working-memory]]"
+  - "[[encoding-specificity-principle]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Encoding Specificity Principle]]"
+  - "[[encoding-specificity-principle]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -132,8 +132,8 @@ The Savings Paradigm complements other concepts like working memory and encoding
 
 **Falls under:** [[Memory Research Methods]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Encoding Specificity Principle]]
+**Contrasts with:** [[encoding-specificity-principle]]
 
 **Source:** [[savings-paradigm-synthetic-seed-2026-04-25]]

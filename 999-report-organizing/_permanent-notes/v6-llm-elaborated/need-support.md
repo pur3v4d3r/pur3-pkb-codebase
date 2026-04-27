@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Autonomy-Supportive Teaching]]"
+  - "[[autonomy-supportive-teaching]]"
   - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Autonomy-Supportive Teaching]]"
+  - "[[autonomy-supportive-teaching]]"
   - "[[self-determination-theory]]"
 contrasts-with:
   - "[[]]"
@@ -138,6 +138,6 @@ The broader implications of Need Support extend beyond individual psychology to 
 
 **Falls under:** [[self-determination-theory]]
 
-**Sibling concepts:** [[Autonomy-Supportive Teaching]] · [[self-determination-theory]]
+**Sibling concepts:** [[autonomy-supportive-teaching]] · [[self-determination-theory]]
 
 **Source:** [[need-support-synthetic-seed-2026-04-24]]

@@ -26,11 +26,11 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Cognitive Architecture
 related:
-  - '[[Working Memory]]'
+  - '[[working-memory]]'
   - '[[Folk Physics]]'
-  - '[[Theory of Mind]]'
+  - '[[theory-of-mind]]'
 prerequisites:
-  - '[[Working Memory]]'
+  - '[[working-memory]]'
 specializes:
   - '[[]]'
 broader:
@@ -38,7 +38,7 @@ broader:
 see-also:
   - '[[Folk Physics]]'
 contrasts-with:
-  - '[[Theory of Mind]]'
+  - '[[theory-of-mind]]'
 contradicts:
   - '[[]]'
 applies-to:
@@ -70,7 +70,7 @@ provenance:
 # Biological Primary Knowledge
 
 > [!definition] **Biological Primary Knowledge**
-> Biological Primary Knowledge refers to basic cognitive competencies such as language, face recognition, and intuitive number sense that humans acquire effortlessly across cultures due to evolutionary pressures. It falls under [[Cognitive Architecture]], representing the implicit baseline that makes much of cognitive development look 'automatic'.
+> Biological Primary Knowledge refers to basic cognitive competencies such as language, face recognition, and intuitive number sense that humans acquire effortlessly across cultures due to evolutionary pressures. It falls under [[cognitive-architecture]], representing the implicit baseline that makes much of cognitive development look 'automatic'.
 
 > [!attention] **Boundary**
 > This concept excludes secondary knowledge that requires explicit instruction or cultural transmission. It also does not encompass all aspects of early childhood development but focuses on innate processing mechanisms.
@@ -154,12 +154,12 @@ Recent cross-cultural studies of the Pirahã people in the Amazon, who lack numb
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Folk Physics]]
 
-**Contrasts with:** [[Theory of Mind]]
+**Contrasts with:** [[theory-of-mind]]
 
 **Source:** [[biological-primary-knowledge-synthetic-seed-2026-04-25]]

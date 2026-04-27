@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Epistemology"
 
 related:
-  - "[[Epistemic Autonomy]]"
-  - "[[Metacognition]]"
+  - "[[epistemic-autonomy]]"
+  - "[[metacognition]]"
   - "[[Source Evaluation]]"
 prerequisites:
   - "[[]]"
@@ -43,8 +43,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Epistemic Autonomy]]"
-  - "[[Metacognition]]"
+  - "[[epistemic-autonomy]]"
+  - "[[metacognition]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Personal Epistemology
 
 > [!definition] **Personal Epistemology**
-> Personal Epistemology refers to an individual's structured set of beliefs about how knowledge is acquired, justified, and revised — including how confident to be in what kinds of sources, how to handle disagreement among experts, and how to update beliefs in light of new evidence. It falls under [[Epistemology]], which explores the nature and scope of knowledge.
+> Personal Epistemology refers to an individual's structured set of beliefs about how knowledge is acquired, justified, and revised — including how confident to be in what kinds of sources, how to handle disagreement among experts, and how to update beliefs in light of new evidence. It falls under [[epistemology]], which explores the nature and scope of knowledge.
 
 > [!attention] **Boundary**
 > It excludes personal preferences or tastes but includes the mechanisms for handling evidence and disagreement among experts.
@@ -132,9 +132,9 @@ Studies have shown that awareness of one's Personal Epistemology significantly i
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
-**Sibling concepts:** [[Epistemic Autonomy]] · [[Metacognition]]
+**Sibling concepts:** [[epistemic-autonomy]] · [[metacognition]]
 
 **Applies to:** [[Source Evaluation]]
 

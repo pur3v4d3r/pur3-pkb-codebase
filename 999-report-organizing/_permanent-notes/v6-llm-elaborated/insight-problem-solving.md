@@ -2,6 +2,7 @@
 title: "Insight Problem Solving"
 aliases:
   - "Insight Problem Solving"
+  - "Insight Problem-Solving"
   - "aha-moment"
   - "eureka problem solving"
 type: permanent-note
@@ -33,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +73,7 @@ provenance:
 # Insight Problem Solving
 
 > [!definition] **Insight Problem Solving**
-> Insight Problem Solving refers to the sudden, qualitative restructuring of a problem representation that leads to a solution, often marked by an 'Aha!' experience. It falls under [[Cognitive Architecture]], operationalizing a distinction between *analytic* (search-based, incremental) and *insightful* (restructuring-based, discontinuous) cognition.
+> Insight Problem Solving refers to the sudden, qualitative restructuring of a problem representation that leads to a solution, often marked by an 'Aha!' experience. It falls under [[cognitive-architecture]], operationalizing a distinction between *analytic* (search-based, incremental) and *insightful* (restructuring-based, discontinuous) cognition.
 
 > [!attention] **Boundary**
 > This concept excludes incremental search-based solutions and is distinct from routine problem-solving techniques.
@@ -128,10 +129,10 @@ The concept also has implications for related fields such as working memory and 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[insight-problem-solving-synthetic-seed-2026-04-25]]

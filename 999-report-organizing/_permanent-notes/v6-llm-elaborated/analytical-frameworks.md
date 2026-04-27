@@ -71,7 +71,7 @@ provenance:
 # Analytical Frameworks
 
 > [!definition] **Analytical Frameworks**
-> Analytical Frameworks are explicit conceptual structures that analysts use to organize problems into manageable categories, relations, and inferential rules, earning their value through constraint by deciding in advance what is admissible and what matters, which falls under [[Epistemology]].
+> Analytical Frameworks are explicit conceptual structures that analysts use to organize problems into manageable categories, relations, and inferential rules, earning their value through constraint by deciding in advance what is admissible and what matters, which falls under [[epistemology]].
 
 > [!attention] **Boundary**
 > This concept excludes ad-hoc reasoning and general problem-solving techniques. It is distinct from mental models but can be used in conjunction with them.
@@ -148,7 +148,7 @@ This synthesis positions analytical frameworks not merely as problem-solving too
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Generalizes to:** [[Theoretical Frameworks]]
 

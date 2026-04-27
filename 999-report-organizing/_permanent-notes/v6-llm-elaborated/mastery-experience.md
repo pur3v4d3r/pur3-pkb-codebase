@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Efficacy]]"
-  - "[[Social-Cognitive Theory]]"
+  - "[[self-efficacy]]"
+  - "[[social-cognitive-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -53,7 +53,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Social-Cognitive Theory]]"
+  - "[[social-cognitive-theory]]"
 refines:
   - "[[]]"
 
@@ -71,7 +71,7 @@ provenance:
 # Mastery Experience
 
 > [!definition] **Mastery Experience**
-> A Mastery Experience is a first-person episode of successfully accomplishing a challenging task that serves as the most potent and durable source of self-efficacy beliefs according to Bandura's social-cognitive theory, falling under [[Self-Regulated Learning]].
+> A Mastery Experience is a first-person episode of successfully accomplishing a challenging task that serves as the most potent and durable source of self-efficacy beliefs according to Bandura's social-cognitive theory, falling under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This concept excludes vicarious experiences, verbal persuasion, and physiological inference, focusing solely on direct personal accomplishment that leads to efficacy beliefs.
@@ -124,16 +124,16 @@ The mechanism by which a Mastery Experience raises self-efficacy involves severa
 
 ## Synthesis
 
-Mastery Experiences are crucial for fostering self-efficacy and enhancing learning outcomes. By providing direct evidence that effort and strategy lead to success, these experiences build strong and durable efficacy beliefs. This concept is integral to [[Self-Regulated Learning]] and aligns with broader educational goals of promoting independent problem-solving skills and resilience.
+Mastery Experiences are crucial for fostering self-efficacy and enhancing learning outcomes. By providing direct evidence that effort and strategy lead to success, these experiences build strong and durable efficacy beliefs. This concept is integral to [[self-regulated-learning]] and aligns with broader educational goals of promoting independent problem-solving skills and resilience.
 
 Understanding Mastery Experiences also has implications for instructional design and feedback practices in education. By leveraging these experiences effectively, educators can create more engaging and effective learning environments that support students' development of self-efficacy.
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Efficacy]]
+**Sibling concepts:** [[self-efficacy]]
 
-**Supports:** [[Social-Cognitive Theory]]
+**Supports:** [[social-cognitive-theory]]
 
 **Source:** [[mastery-experience-synthetic-seed-2026-04-25]]

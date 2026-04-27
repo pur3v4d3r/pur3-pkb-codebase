@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Intellectual Standards]]"
-  - "[[Argument Analysis]]"
+  - "[[intellectual-standards]]"
+  - "[[argument-analysis]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,8 +48,8 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Intellectual Standards]]"
-  - "[[Argument Analysis]]"
+  - "[[intellectual-standards]]"
+  - "[[argument-analysis]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Elements of Thought
 
 > [!definition] **Elements of Thought**
-> The Elements of Thought are the eight components (purpose, question, information, interpretation, concept, assumption, implication, and point of view) in the Paul-Elder critical-thinking framework used to dissect arguments. This framework is not a checklist but an interlocking system where changing one element affects others, making it integral to [[Critical Thinking]].
+> The Elements of Thought are the eight components (purpose, question, information, interpretation, concept, assumption, implication, and point of view) in the Paul-Elder critical-thinking framework used to dissect arguments. This framework is not a checklist but an interlocking system where changing one element affects others, making it integral to [[critical-thinking]].
 
 > [!attention] **Boundary**
 > This includes the interlocking nature of these components but excludes specific intellectual standards like clarity or accuracy which are part of a broader framework.
@@ -129,8 +129,8 @@ Moreover, the Elements of Thought are applicable across various domains, from ed
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Applies to:** [[Intellectual Standards]] · [[Argument Analysis]]
+**Applies to:** [[intellectual-standards]] · [[argument-analysis]]
 
 **Source:** [[elements-of-thought-synthetic-seed-2026-04-25]]

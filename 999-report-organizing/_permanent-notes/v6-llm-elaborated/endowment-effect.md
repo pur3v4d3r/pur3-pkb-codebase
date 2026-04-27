@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Decision Science"
 
 related:
-  - "[[Loss Aversion]]"
-  - "[[Status Quo Bias]]"
-  - "[[Prospect Theory]]"
+  - "[[loss-aversion]]"
+  - "[[status-quo-bias]]"
+  - "[[prospect-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,8 +45,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Loss Aversion]]"
-  - "[[Status Quo Bias]]"
+  - "[[loss-aversion]]"
+  - "[[status-quo-bias]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -56,7 +56,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Prospect Theory]]"
+  - "[[prospect-theory]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Endowment Effect
 
 > [!definition] **Endowment Effect**
-> The Endowment Effect is a psychological phenomenon where individuals demand more to give up something they own than they would pay to acquire it, reflecting loss aversion and reference-dependent valuation. It falls under [[Decision Science]], as it pertains to how people make decisions based on their current state of ownership.
+> The Endowment Effect is a psychological phenomenon where individuals demand more to give up something they own than they would pay to acquire it, reflecting loss aversion and reference-dependent valuation. It falls under [[decision-science]], as it pertains to how people make decisions based on their current state of ownership.
 
 > [!attention] **Boundary**
 > This concept excludes specific market conditions or cultural contexts where the effect may not manifest, such as among experienced traders or in repeated market settings.
@@ -134,10 +134,10 @@ The Endowment Effect also has significant implications for fields like marketing
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
-**Contrasts with:** [[Loss Aversion]] · [[Status Quo Bias]]
+**Contrasts with:** [[loss-aversion]] · [[status-quo-bias]]
 
-**Supports:** [[Prospect Theory]]
+**Supports:** [[prospect-theory]]
 
 **Source:** [[endowment-effect-synthetic-seed-2026-04-26]]

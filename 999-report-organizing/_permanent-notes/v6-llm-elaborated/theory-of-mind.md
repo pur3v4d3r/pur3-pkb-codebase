@@ -34,16 +34,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Social Cognition]]"
+  - "[[working-memory]]"
+  - "[[social-cognition]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Social Cognition]]"
+  - "[[social-cognition]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -73,7 +73,7 @@ provenance:
 # Theory of Mind
 
 > [!definition] **Theory of Mind**
-> Theory of Mind is the cognitive capacity to attribute unobservable mental states—beliefs, desires, intentions—to oneself and others, and use these attributions to explain and predict behavior. It falls under [[Cognitive Architecture]], focusing specifically on understanding mental states rather than sensory perception or motor control.
+> Theory of Mind is the cognitive capacity to attribute unobservable mental states—beliefs, desires, intentions—to oneself and others, and use these attributions to explain and predict behavior. It falls under [[cognitive-architecture]], focusing specifically on understanding mental states rather than sensory perception or motor control.
 
 > [!attention] **Boundary**
 > It excludes other cognitive processes like sensory perception or motor control. It also does not encompass all aspects of social cognition but focuses specifically on understanding mental states.
@@ -135,10 +135,10 @@ The study of Theory of Mind also highlights ongoing debates about its developmen
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Social Cognition]]
+**Sibling concepts:** [[social-cognition]]
 
 **Source:** [[theory-of-mind-synthetic-seed-2026-04-26]]

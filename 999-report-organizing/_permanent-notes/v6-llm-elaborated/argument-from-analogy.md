@@ -27,18 +27,18 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Inductive Reasoning
 related:
-  - '[[Inductive Reasoning]]'
-  - '[[Abductive Reasoning]]'
+  - '[[inductive-reasoning]]'
+  - '[[abductive-reasoning]]'
 prerequisites:
   - '[[]]'
 specializes:
   - '[[]]'
 broader:
-  - '[[Inductive Reasoning]]'
+  - '[[inductive-reasoning]]'
 see-also:
   - '[[]]'
 contrasts-with:
-  - '[[Abductive Reasoning]]'
+  - '[[abductive-reasoning]]'
 contradicts:
   - '[[]]'
 applies-to:
@@ -70,7 +70,7 @@ provenance:
 # Argument from Analogy
 
 > [!definition] **Argument from Analogy**
-> An Argument from Analogy is an inductive inference where similarities between two cases on a set of relevant features are used as grounds for concluding that they share an additional feature, with the strength of the argument depending on the number, relevance, and asymmetry of the shared properties. It falls under [[Inductive Reasoning]], which involves drawing general conclusions from specific instances.
+> An Argument from Analogy is an inductive inference where similarities between two cases on a set of relevant features are used as grounds for concluding that they share an additional feature, with the strength of the argument depending on the number, relevance, and asymmetry of the shared properties. It falls under [[inductive-reasoning]], which involves drawing general conclusions from specific instances.
 
 > [!attention] **Boundary**
 > This concept excludes arguments based solely on superficial similarities or unrelated mappings. It also does not encompass all forms of analogical reasoning but focuses specifically on inductive inferences.
@@ -144,10 +144,10 @@ The enduring relevance of argument from analogy lies in its dual role as both a 
 
 ## Connections & Context
 
-**Falls under:** [[Inductive Reasoning]]
+**Falls under:** [[inductive-reasoning]]
 
-**Generalizes to:** [[Inductive Reasoning]]
+**Generalizes to:** [[inductive-reasoning]]
 
-**Contrasts with:** [[Abductive Reasoning]]
+**Contrasts with:** [[abductive-reasoning]]
 
 **Source:** [[argument-from-analogy-synthetic-seed-2026-04-26]]

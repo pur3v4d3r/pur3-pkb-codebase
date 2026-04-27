@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Explanatory Style]]"
+  - "[[explanatory-style]]"
   - "[[self-efficacy]]"
   - "[[growth-mindset]]"
   - "[[attribution-theory]]"
@@ -44,7 +44,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Explanatory Style]]"
+  - "[[explanatory-style]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -134,7 +134,7 @@ Learned Helplessness is a critical concept in motivational psychology because it
 
 **Falls under:** [[motivational-psychology]]
 
-**Sibling concepts:** [[Explanatory Style]]
+**Sibling concepts:** [[explanatory-style]]
 
 **Applies to:** [[self-efficacy]] · [[growth-mindset]]
 

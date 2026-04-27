@@ -33,7 +33,7 @@ parent-concept: "Critical Thinking"
 
 related:
   - "[[intellectual-standards]]"
-  - "[[Elements of Thought]]"
+  - "[[elements-of-thought]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,7 +42,7 @@ broader:
   - "[[]]"
 see-also:
   - "[[intellectual-standards]]"
-  - "[[Elements of Thought]]"
+  - "[[elements-of-thought]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -135,6 +135,6 @@ Empirical evidence supports the effectiveness of the Paul-Elder Framework, with 
 
 **Falls under:** [[critical-thinking]]
 
-**Sibling concepts:** [[intellectual-standards]] · [[Elements of Thought]]
+**Sibling concepts:** [[intellectual-standards]] · [[elements-of-thought]]
 
 **Source:** [[paul-elder-framework-synthetic-seed-2026-04-24]]

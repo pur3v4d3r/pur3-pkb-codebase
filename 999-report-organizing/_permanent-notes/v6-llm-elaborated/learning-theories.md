@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Learning Science"
 
 related:
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
   - "[[social-cognitive-theory]]"
   - "[[Situated Learning]]"
   - "[[Connectivism]]"
@@ -40,7 +40,7 @@ related:
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
   - "[[social-cognitive-theory]]"
   - "[[Situated Learning]]"
   - "[[Connectivism]]"
@@ -139,7 +139,7 @@ Understanding the distinctions between these theories also helps in addressing o
 
 **Falls under:** [[learning-science]]
 
-**Specializes:** [[Behaviorism]] · [[social-cognitive-theory]] · [[Situated Learning]] · [[Connectivism]]
+**Specializes:** [[behaviorism]] · [[social-cognitive-theory]] · [[Situated Learning]] · [[Connectivism]]
 
 **Generalizes to:** [[cognitive-theories-of-learning]]
 

@@ -2,6 +2,7 @@
 title: "State Dependent Memory"
 aliases:
   - "State Dependent Memory"
+  - "State-Dependent Memory"
   - "state-dependent retrieval"
   - "mood-congruent recall"
 type: permanent-note
@@ -32,19 +33,19 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Encoding-Specificity Principle]]"
-  - "[[Context-Dependent Memory]]"
+  - "[[encoding-specificity-principle]]"
+  - "[[context-dependent-memory]]"
   - "[[Transfer-Adequate Processing]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Encoding-Specificity Principle]]"
+  - "[[encoding-specificity-principle]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Context-Dependent Memory]]"
+  - "[[context-dependent-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +73,7 @@ provenance:
 # State Dependent Memory
 
 > [!definition] **State Dependent Memory**
-> State Dependent Memory is the empirical phenomenon where material encoded while a learner is in a particular internal state—pharmacological, emotional, or physiological—is retrieved more effectively when the same internal state is reinstated at test, even when the external context remains constant. This concept falls under [[Cognitive Architecture]], as it pertains to how specific internal states influence memory retrieval.
+> State Dependent Memory is the empirical phenomenon where material encoded while a learner is in a particular internal state—pharmacological, emotional, or physiological—is retrieved more effectively when the same internal state is reinstated at test, even when the external context remains constant. This concept falls under [[cognitive-architecture]], as it pertains to how specific internal states influence memory retrieval.
 
 > [!attention] **Boundary**
 > This concept excludes external context effects and focuses on internal states like emotional or pharmacological conditions.
@@ -129,11 +130,11 @@ State Dependent Memory is crucial for understanding memory retrieval mechanisms 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Encoding-Specificity Principle]]
+**Generalizes to:** [[encoding-specificity-principle]]
 
-**Contrasts with:** [[Context-Dependent Memory]]
+**Contrasts with:** [[context-dependent-memory]]
 
 **Applies to:** [[Transfer-Adequate Processing]]
 

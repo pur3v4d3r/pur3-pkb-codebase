@@ -27,9 +27,9 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Cognitive Architecture
 related:
-  - '[[Case-Based Reasoning]]'
+  - '[[case-based-reasoning]]'
   - '[[far-transfer]]'
-  - '[[Structure-Mapping Theory]]'
+  - '[[structure-mapping-theory]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -43,10 +43,10 @@ contrasts-with:
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Case-Based Reasoning]]'
+  - '[[case-based-reasoning]]'
   - '[[far-transfer]]'
 formalizes:
-  - '[[Structure-Mapping Theory]]'
+  - '[[structure-mapping-theory]]'
 instance-of:
   - '[[]]'
 supports:
@@ -160,8 +160,8 @@ A 2020 meta-analysis of 127 studies (Kuehne et al.) demonstrated that analogical
 
 **Falls under:** [[cognitive-architecture]]
 
-**Applies to:** [[Case-Based Reasoning]] · [[far-transfer]]
+**Applies to:** [[case-based-reasoning]] · [[far-transfer]]
 
-**Formalizes:** [[Structure-Mapping Theory]]
+**Formalizes:** [[structure-mapping-theory]]
 
 **Source:** [[analogical-reasoning-synthetic-seed-2026-04-24]]

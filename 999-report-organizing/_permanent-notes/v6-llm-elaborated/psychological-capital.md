@@ -32,18 +32,18 @@ depth-level: elaborated
 parent-concept: "Positive Organizational Behavior"
 
 related:
-  - "[[Self-Efficacy]]"
-  - "[[Hope Theory]]"
+  - "[[self-efficacy]]"
+  - "[[hope-theory]]"
   - "[[Optimism]]"
   - "[[Resilience]]"
 prerequisites:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Hope Theory]]"
+  - "[[hope-theory]]"
   - "[[Optimism]]"
   - "[[Resilience]]"
 contrasts-with:
@@ -134,8 +134,8 @@ Psychological Capital (PsyCap) is a critical concept in positive organizational 
 
 **Falls under:** [[Positive Organizational Behavior]]
 
-**Prerequisites:** [[Self-Efficacy]]
+**Prerequisites:** [[self-efficacy]]
 
-**Sibling concepts:** [[Hope Theory]] · [[Optimism]] · [[Resilience]]
+**Sibling concepts:** [[hope-theory]] · [[Optimism]] · [[Resilience]]
 
 **Source:** [[psychological-capital-synthetic-seed-2026-04-26]]

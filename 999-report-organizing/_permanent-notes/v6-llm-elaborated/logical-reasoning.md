@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Deductive Reasoning]]"
-  - "[[Inductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
-  - "[[Formal Logic]]"
+  - "[[deductive-reasoning]]"
+  - "[[inductive-reasoning]]"
+  - "[[abductive-reasoning]]"
+  - "[[formal-logic]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Deductive Reasoning]]"
-  - "[[Inductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
+  - "[[deductive-reasoning]]"
+  - "[[inductive-reasoning]]"
+  - "[[abductive-reasoning]]"
 broader:
   - "[[]]"
 see-also:
@@ -54,7 +54,7 @@ contradicts:
 applies-to:
   - "[[]]"
 formalizes:
-  - "[[Formal Logic]]"
+  - "[[formal-logic]]"
 instance-of:
   - "[[]]"
 supports:
@@ -132,10 +132,10 @@ Logical Reasoning also intersects with related concepts like formal logic and ev
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Specializes:** [[Deductive Reasoning]] · [[Inductive Reasoning]] · [[Abductive Reasoning]]
+**Specializes:** [[deductive-reasoning]] · [[inductive-reasoning]] · [[abductive-reasoning]]
 
-**Formalizes:** [[Formal Logic]]
+**Formalizes:** [[formal-logic]]
 
 **Source:** [[logical-reasoning-synthetic-seed-2026-04-25]]

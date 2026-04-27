@@ -29,7 +29,7 @@ parent-concept: Motivational Psychology
 related:
   - '[[attribution-theory]]'
   - '[[learned-helplessness]]'
-  - '[[Explanatory Style]]'
+  - '[[explanatory-style]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -43,7 +43,7 @@ contrasts-with:
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Explanatory Style]]'
+  - '[[explanatory-style]]'
 formalizes:
   - '[[]]'
 instance-of:
@@ -152,6 +152,6 @@ A 2019 meta-analysis by Hattie and Donoghue synthesized 128 studies on attributi
 
 **Sibling concepts:** [[learned-helplessness]]
 
-**Applies to:** [[Explanatory Style]]
+**Applies to:** [[explanatory-style]]
 
 **Source:** [[causal-attribution-in-motivation-synthetic-seed-2026-04-24]]

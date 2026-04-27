@@ -29,7 +29,7 @@ depth-level: enhanced
 parent-concept: Cognitive Psychology
 related:
   - '[[Meaning-Making]]'
-  - '[[Post Traumatic Growth]]'
+  - '[[post-traumatic-growth]]'
   - '[[Coping Strategies]]'
 prerequisites:
   - '[[]]'
@@ -40,7 +40,7 @@ broader:
 see-also:
   - '[[Meaning-Making]]'
 contrasts-with:
-  - '[[Post Traumatic Growth]]'
+  - '[[post-traumatic-growth]]'
 contradicts:
   - '[[]]'
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Benefit Finding
 
 > [!definition] **Benefit Finding**
-> Benefit Finding refers to the cognitive process by which individuals identify positive consequences, lessons, or meaning in adverse experiences, a construct closely related to but narrower than Post Traumatic Growth (PTG), focusing specifically on the identification of benefits rather than broader transformative changes. It falls under [[Cognitive Psychology]].
+> Benefit Finding refers to the cognitive process by which individuals identify positive consequences, lessons, or meaning in adverse experiences, a construct closely related to but narrower than Post Traumatic Growth (PTG), focusing specifically on the identification of benefits rather than broader transformative changes. It falls under [[cognitive-psychology]].
 
 > [!attention] **Boundary**
 > This concept excludes broader constructs like Post Traumatic Growth (PTG), focusing specifically on identifying benefits rather than transformative changes. It also does not encompass all forms of coping strategies but is a distinct mechanism within them.
@@ -138,11 +138,11 @@ A 2019 meta-analysis by Park et al. synthesized 127 studies across diverse popul
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
 **Sibling concepts:** [[Meaning-Making]]
 
-**Contrasts with:** [[Post Traumatic Growth]]
+**Contrasts with:** [[post-traumatic-growth]]
 
 **Applies to:** [[Coping Strategies]]
 

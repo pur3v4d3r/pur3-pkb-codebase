@@ -34,8 +34,8 @@ parent-concept: "Cognitive Psychology"
 
 related:
   - "[[Grice's Maxims]]"
-  - "[[Pragmatics]]"
-  - "[[Theory of Mind]]"
+  - "[[pragmatics]]"
+  - "[[theory-of-mind]]"
   - "[[Relevance Theory]]"
   - "[[Scalar Implicature]]"
 prerequisites:
@@ -45,9 +45,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Pragmatics]]"
+  - "[[pragmatics]]"
 contrasts-with:
-  - "[[Theory of Mind]]"
+  - "[[theory-of-mind]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Pragmatic Inference
 
 > [!definition] **Pragmatic Inference**
-> Pragmatic Inference refers to the cognitive process by which comprehenders derive intended meaning that goes beyond the linguistically encoded content of an utterance, exploiting context, shared knowledge, and assumptions about the speaker's communicative intentions. It falls under [[Cognitive Psychology]], as it involves the interplay between language processing and social cognition.
+> Pragmatic Inference refers to the cognitive process by which comprehenders derive intended meaning that goes beyond the linguistically encoded content of an utterance, exploiting context, shared knowledge, and assumptions about the speaker's communicative intentions. It falls under [[cognitive-psychology]], as it involves the interplay between language processing and social cognition.
 
 > [!attention] **Boundary**
 > This concept excludes literal decoding of words and focuses on the additional meanings derived beyond the explicit linguistic content.
@@ -137,13 +137,13 @@ Pragmatic Inference is also a key concept within the broader field of pragmatics
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
 **Prerequisites:** [[Grice's Maxims]]
 
-**Sibling concepts:** [[Pragmatics]]
+**Sibling concepts:** [[pragmatics]]
 
-**Contrasts with:** [[Theory of Mind]]
+**Contrasts with:** [[theory-of-mind]]
 
 **Applies to:** [[Relevance Theory]]
 

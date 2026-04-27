@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Formative Assessment"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Elaborative Feedback
 
 > [!definition] **Elaborative Feedback**
-> Elaborative Feedback provides detailed explanations of correct or incorrect responses, supporting conceptual change beyond simple right/wrong feedback. It falls under [[Formative Assessment]], as it aims to enhance learning by offering insights into the reasoning behind answers, thereby promoting deeper understanding and transfer of knowledge.
+> Elaborative Feedback provides detailed explanations of correct or incorrect responses, supporting conceptual change beyond simple right/wrong feedback. It falls under [[formative-assessment]], as it aims to enhance learning by offering insights into the reasoning behind answers, thereby promoting deeper understanding and transfer of knowledge.
 
 > [!attention] **Boundary**
 > This concept excludes verification-only ('right/wrong') feedback and focuses on providing explanatory content to aid learning.
@@ -89,10 +89,10 @@ Empirical evidence supports the benefits of elaborative feedback for conceptual 
 
 ## Connections & Context
 
-**Falls under:** [[Formative Assessment]]
+**Falls under:** [[formative-assessment]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[elaborative-feedback-synthetic-seed-2026-04-26]]

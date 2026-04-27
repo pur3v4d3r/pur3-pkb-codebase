@@ -73,7 +73,7 @@ provenance:
 # Underdetermination Thesis
 
 > [!definition] **Underdetermination Thesis**
-> The Underdetermination Thesis is the claim that for any body of empirical evidence, there are multiple theories that can equally explain it, making theory selection not solely dependent on empirical evidence alone. It falls under [[Epistemology]], as it concerns how we justify beliefs and knowledge claims in science.
+> The Underdetermination Thesis is the claim that for any body of empirical evidence, there are multiple theories that can equally explain it, making theory selection not solely dependent on empirical evidence alone. It falls under [[epistemology]], as it concerns how we justify beliefs and knowledge claims in science.
 
 > [!attention] **Boundary**
 > This thesis does not include cases where theories are empirically distinguishable or where extra-empirical criteria (like simplicity) are used to select among them. It focuses specifically on the logical possibility of multiple theories being equally consistent with a given set of evidence.
@@ -133,7 +133,7 @@ The concept also intersects with other areas such as instructional design, where
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Sibling concepts:** [[Holism]]
 

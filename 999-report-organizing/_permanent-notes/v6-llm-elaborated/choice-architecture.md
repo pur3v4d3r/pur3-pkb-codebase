@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Decision Science"
 
 related:
-  - "[[Nudge Theory]]"
+  - "[[nudge-theory]]"
   - "[[Libertarian Paternalism]]"
-  - "[[Behavioral Economics]]"
+  - "[[behavioral-economics]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,14 +43,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Nudge Theory]]"
+  - "[[nudge-theory]]"
   - "[[Libertarian Paternalism]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Behavioral Economics]]"
+  - "[[behavioral-economics]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Choice Architecture
 
 > [!definition] **Choice Architecture**
-> Choice Architecture is the deliberate design of the context in which decisions are made — the ordering and framing of options, the choice of defaults, the salience of information, and the presence or absence of friction. It falls under [[Decision Science]], establishing that 'letting people choose freely' is a coherent principle only relative to a specific architecture; since some architecture must exist, the question is not whether to influence choice but which influence to exert.
+> Choice Architecture is the deliberate design of the context in which decisions are made — the ordering and framing of options, the choice of defaults, the salience of information, and the presence or absence of friction. It falls under [[decision-science]], establishing that 'letting people choose freely' is a coherent principle only relative to a specific architecture; since some architecture must exist, the question is not whether to influence choice but which influence to exert.
 
 > [!attention] **Boundary**
 > This includes the ordering and framing of options, choice of defaults, salience of information, and presence or absence of friction. It does not cover the psychological mechanisms behind decision-making itself but rather how these mechanisms can be influenced by design.
@@ -137,10 +137,10 @@ The concept of Choice Architecture is deeply intertwined with related fields suc
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
-**Sibling concepts:** [[Nudge Theory]] · [[Libertarian Paternalism]]
+**Sibling concepts:** [[nudge-theory]] · [[Libertarian Paternalism]]
 
-**Applies to:** [[Behavioral Economics]]
+**Applies to:** [[behavioral-economics]]
 
 **Source:** [[choice-architecture-synthetic-seed-2026-04-25]]

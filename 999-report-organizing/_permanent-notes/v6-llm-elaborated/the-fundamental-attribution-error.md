@@ -36,7 +36,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Actor-Observer Asymmetry]]"
-  - "[[Self-Serving Bias]]"
+  - "[[self-serving-bias]]"
   - "[[dual-process-theory]]"
 prerequisites:
   - "[[]]"
@@ -48,7 +48,7 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[Actor-Observer Asymmetry]]"
-  - "[[Self-Serving Bias]]"
+  - "[[self-serving-bias]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -141,7 +141,7 @@ The FAE also highlights the importance of considering situational factors when e
 
 **Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Actor-Observer Asymmetry]] · [[Self-Serving Bias]]
+**Contrasts with:** [[Actor-Observer Asymmetry]] · [[self-serving-bias]]
 
 **Applies to:** [[dual-process-theory]]
 

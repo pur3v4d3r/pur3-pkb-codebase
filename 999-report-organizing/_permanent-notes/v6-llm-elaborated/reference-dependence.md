@@ -134,7 +134,7 @@ The strongest evidence for Reference Dependence lies in its explanatory power ac
 
 ## Connections & Context
 
-**Falls under:** [[prospect theory]]
+**Falls under:** [[prospect-theory]]
 
 **Contrasts with:** [[expected-utility-theory]]
 

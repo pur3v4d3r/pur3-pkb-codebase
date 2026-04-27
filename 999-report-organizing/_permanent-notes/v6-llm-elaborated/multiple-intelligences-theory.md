@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Triarchic Theory of Intelligence]]"
+  - "[[triarchic-theory-of-intelligence]]"
   - "[[General Factor Theory (g)]]"
 prerequisites:
   - "[[]]"
@@ -43,7 +43,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Triarchic Theory of Intelligence]]"
+  - "[[triarchic-theory-of-intelligence]]"
   - "[[General Factor Theory (g)]]"
 contradicts:
   - "[[]]"
@@ -72,7 +72,7 @@ provenance:
 # Multiple Intelligences Theory
 
 > [!definition] **Multiple Intelligences Theory**
-> Multiple Intelligences Theory, proposed by Howard Gardner, posits that human intelligence is not a single general capacity but a collection of relatively independent intelligences — originally seven, later expanded to eight, including linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalist intelligences. It falls under [[Educational Psychology]], focusing on distinct types of intelligence rather than a unified general intelligence.
+> Multiple Intelligences Theory, proposed by Howard Gardner, posits that human intelligence is not a single general capacity but a collection of relatively independent intelligences — originally seven, later expanded to eight, including linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalist intelligences. It falls under [[educational-psychology]], focusing on distinct types of intelligence rather than a unified general intelligence.
 
 > [!attention] **Boundary**
 > This theory excludes the idea of a unified general intelligence and focuses on distinct types of intelligence such as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalist.
@@ -131,6 +131,6 @@ The theory's influence extends beyond education into fields like psychology and 
 
 ## Connections & Context
 
-**Contrasts with:** [[Triarchic Theory of Intelligence]] · [[General Factor Theory (g)]]
+**Contrasts with:** [[triarchic-theory-of-intelligence]] · [[General Factor Theory (g)]]
 
 **Source:** [[multiple-intelligences-theory-synthetic-seed-2026-04-25]]

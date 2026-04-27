@@ -35,7 +35,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[self-efficacy-theory]]"
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
   - "[[Cognitive Processing Theory]]"
 prerequisites:
   - "[[]]"
@@ -46,7 +46,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
   - "[[Cognitive Processing Theory]]"
 contradicts:
   - "[[]]"
@@ -136,6 +136,6 @@ Social Cognitive Theory matters because it offers a comprehensive framework for 
 
 **Specializes:** [[self-efficacy-theory]]
 
-**Contrasts with:** [[Behaviorism]] · [[Cognitive Processing Theory]]
+**Contrasts with:** [[behaviorism]] · [[Cognitive Processing Theory]]
 
 **Source:** [[social-cognitive-theory-synthetic-seed-2026-04-24]]

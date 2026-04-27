@@ -33,15 +33,15 @@ depth-level: elaborated
 parent-concept: "Knowledge Distillation"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Knowledge Distillation]]"
+  - "[[cognitive-load-theory]]"
+  - "[[knowledge-distillation]]"
   - "[[Generative Summarization]]"
 prerequisites:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Knowledge Distillation]]"
+  - "[[knowledge-distillation]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -73,7 +73,7 @@ provenance:
 # Idea Compression
 
 > [!definition] **Idea Compression**
-> Idea Compression is the practice of restating a complex idea in progressively shorter, more precise formulations — culminating in a single sentence or claim that captures its essential commitment — as a method for testing and deepening understanding. It falls under [[Knowledge Distillation]], focusing on diagnostic learning rather than mere summarization.
+> Idea Compression is the practice of restating a complex idea in progressively shorter, more precise formulations — culminating in a single sentence or claim that captures its essential commitment — as a method for testing and deepening understanding. It falls under [[knowledge-distillation]], focusing on diagnostic learning rather than mere summarization.
 
 > [!attention] **Boundary**
 > This concept excludes mere summarization and focuses on the process of distilling ideas into their core essence for diagnostic purposes. It should not be confused with simple text compression or data reduction techniques.
@@ -132,11 +132,11 @@ The application of Idea Compression across various domains — from instructiona
 
 ## Connections & Context
 
-**Falls under:** [[Knowledge Distillation]]
+**Falls under:** [[knowledge-distillation]]
 
-**Prerequisites:** [[Cognitive Load Theory]]
+**Prerequisites:** [[cognitive-load-theory]]
 
-**Generalizes to:** [[Knowledge Distillation]]
+**Generalizes to:** [[knowledge-distillation]]
 
 **Applies to:** [[Generative Summarization]]
 

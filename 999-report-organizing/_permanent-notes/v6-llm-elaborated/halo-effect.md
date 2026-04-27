@@ -34,7 +34,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Anchoring]]"
-  - "[[Implicit Bias]]"
+  - "[[implicit-bias]]"
   - "[[Fundamental Attribution Error]]"
   - "[[Attractiveness Stereotype]]"
 prerequisites:
@@ -46,7 +46,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Implicit Bias]]"
+  - "[[implicit-bias]]"
   - "[[Fundamental Attribution Error]]"
 contradicts:
   - "[[]]"
@@ -75,7 +75,7 @@ provenance:
 # Halo Effect
 
 > [!definition] **Halo Effect**
-> The Halo Effect is a cognitive bias where an overall positive (or negative) impression of someone or something influences the evaluation of their specific attributes, leading to inflated (or deflated) ratings. It falls under [[Cognitive Architecture]], as it pertains to how our minds process and integrate information in a way that can distort judgment.
+> The Halo Effect is a cognitive bias where an overall positive (or negative) impression of someone or something influences the evaluation of their specific attributes, leading to inflated (or deflated) ratings. It falls under [[cognitive-architecture]], as it pertains to how our minds process and integrate information in a way that can distort judgment.
 
 > [!attention] **Boundary**
 > This concept does not include mere correlation among traits; it specifically refers to the influence of global impressions on attribute evaluations. It is distinct from other biases like anchoring and fundamental attribution error.
@@ -131,17 +131,17 @@ The mechanism behind the Halo Effect involves evaluative coherence, where the mi
 
 ## Synthesis
 
-The Halo Effect is a critical concept within [[Cognitive Architecture]], highlighting the ways our minds process information and make judgments. Its implications extend across various fields, from marketing to hiring, where initial impressions can significantly influence evaluations of specific attributes. Understanding the Halo Effect helps us recognize when our judgments might be biased and how we can mitigate these biases through awareness and training.
+The Halo Effect is a critical concept within [[cognitive-architecture]], highlighting the ways our minds process information and make judgments. Its implications extend across various fields, from marketing to hiring, where initial impressions can significantly influence evaluations of specific attributes. Understanding the Halo Effect helps us recognize when our judgments might be biased and how we can mitigate these biases through awareness and training.
 
 By differentiating the Halo Effect from other cognitive biases like anchoring and fundamental attribution error, we gain a deeper understanding of the mechanisms underlying judgmental errors. This distinction is crucial for developing effective strategies to reduce bias in decision-making processes.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Prerequisites:** [[Anchoring]]
 
-**Contrasts with:** [[Implicit Bias]] · [[Fundamental Attribution Error]]
+**Contrasts with:** [[implicit-bias]] · [[Fundamental Attribution Error]]
 
 **Applies to:** [[Attractiveness Stereotype]]
 

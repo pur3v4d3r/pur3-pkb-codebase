@@ -33,12 +33,12 @@ depth-level: elaborated
 parent-concept: "Instructional Design"
 
 related:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
   - "[[Four-Component Instructional Design Model (4CID)]]"
   - "[[Expert Knowledge Elicitation]]"
-  - "[[Scaffolding]]"
+  - "[[scaffolding]]"
 prerequisites:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 specializes:
   - "[[]]"
 broader:
@@ -52,7 +52,7 @@ contradicts:
 applies-to:
   - "[[Four-Component Instructional Design Model (4CID)]]"
   - "[[Expert Knowledge Elicitation]]"
-  - "[[Scaffolding]]"
+  - "[[scaffolding]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Task Analysis
 
 > [!definition] **Task Analysis**
-> Task Analysis involves breaking down a task into its component parts to identify the necessary skills, knowledge, and steps required for performing that task effectively. It falls under [[Instructional Design]], serving as an empirically essential precondition of effective instructional design — most prominently in the Four-Component Instructional Design Model (4C/ID) — because instruction designed without Task Analysis tends to teach the surface features of the performance rather than the underlying cognitive operations.
+> Task Analysis involves breaking down a task into its component parts to identify the necessary skills, knowledge, and steps required for performing that task effectively. It falls under [[instructional-design]], serving as an empirically essential precondition of effective instructional design — most prominently in the Four-Component Instructional Design Model (4C/ID) — because instruction designed without Task Analysis tends to teach the surface features of the performance rather than the underlying cognitive operations.
 
 > [!attention] **Boundary**
 > It excludes broader concepts like learning theory or specific pedagogical techniques but focuses on the detailed breakdown of tasks.
@@ -135,10 +135,10 @@ Task Analysis also informs the development of assessments and scaffolding techni
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
-**Prerequisites:** [[Cognitive Load Theory]]
+**Prerequisites:** [[cognitive-load-theory]]
 
-**Applies to:** [[Four-Component Instructional Design Model (4CID)]] · [[Expert Knowledge Elicitation]] · [[Scaffolding]]
+**Applies to:** [[Four-Component Instructional Design Model (4CID)]] · [[Expert Knowledge Elicitation]] · [[scaffolding]]
 
 **Source:** [[task-analysis-synthetic-seed-2026-04-25]]

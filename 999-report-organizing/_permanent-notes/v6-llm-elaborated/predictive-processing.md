@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Bayesian Brain]]"
-  - "[[Active Inference]]"
+  - "[[bayesian-brain]]"
+  - "[[active-inference]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Bayesian Brain]]"
-  - "[[Active Inference]]"
+  - "[[bayesian-brain]]"
+  - "[[active-inference]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -133,6 +133,6 @@ The framework's implications extend beyond cognitive science into fields like ed
 
 **Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Bayesian Brain]] · [[Active Inference]]
+**Contrasts with:** [[bayesian-brain]] · [[active-inference]]
 
 **Source:** [[predictive-processing-synthetic-seed-2026-04-24]]

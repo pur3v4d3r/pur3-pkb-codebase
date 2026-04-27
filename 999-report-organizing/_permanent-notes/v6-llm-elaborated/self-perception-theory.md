@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Embodied Cognition]]"
-  - "[[Cognitive Dissonance]]"
+  - "[[embodied-cognition]]"
+  - "[[cognitive-dissonance]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,9 +43,9 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Embodied Cognition]]"
+  - "[[embodied-cognition]]"
 contradicts:
-  - "[[Cognitive Dissonance]]"
+  - "[[cognitive-dissonance]]"
 applies-to:
   - "[[]]"
 formalizes:
@@ -71,7 +71,7 @@ provenance:
 # Self Perception Theory
 
 > [!definition] **Self Perception Theory**
-> Self Perception Theory, proposed by Daryl Bem, suggests that individuals infer their own attitudes and internal states from observing their behavior in specific contexts, making self-knowledge an inferential process akin to perceiving others' emotions — it falls under [[Cognitive Psychology]]. This theory focuses on how people come to know themselves through observation of their actions rather than direct introspection. It does not address other mechanisms of self-knowledge formation such as direct access or embodiment.
+> Self Perception Theory, proposed by Daryl Bem, suggests that individuals infer their own attitudes and internal states from observing their behavior in specific contexts, making self-knowledge an inferential process akin to perceiving others' emotions — it falls under [[cognitive-psychology]]. This theory focuses on how people come to know themselves through observation of their actions rather than direct introspection. It does not address other mechanisms of self-knowledge formation such as direct access or embodiment.
 
 ## Core Explanation
 
@@ -127,10 +127,10 @@ The theory's relevance extends beyond individual psychology to social and cultur
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Contrasts with:** [[Embodied Cognition]]
+**Contrasts with:** [[embodied-cognition]]
 
-**Contradicts:** [[Cognitive Dissonance]]
+**Contradicts:** [[cognitive-dissonance]]
 
 **Source:** [[self-perception-theory-synthetic-seed-2026-04-25]]

@@ -2,6 +2,7 @@
 title: Case Based Reasoning
 aliases:
   - Case Based Reasoning
+  - "Case-Based Reasoning"
   - CBR
   - case-based problem solving
 type: permanent-note
@@ -28,18 +29,18 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Cognitive Architecture
 related:
-  - '[[Working Memory]]'
-  - '[[Schema Theory]]'
-  - '[[Analogical Reasoning]]'
+  - '[[working-memory]]'
+  - '[[schema-theory]]'
+  - '[[analogical-reasoning]]'
   - '[[Expert Cognition]]'
 prerequisites:
-  - '[[Working Memory]]'
+  - '[[working-memory]]'
 specializes:
   - '[[]]'
 broader:
-  - '[[Schema Theory]]'
+  - '[[schema-theory]]'
 see-also:
-  - '[[Analogical Reasoning]]'
+  - '[[analogical-reasoning]]'
 contrasts-with:
   - '[[]]'
 contradicts:
@@ -73,7 +74,7 @@ provenance:
 # Case Based Reasoning
 
 > [!definition] **Case Based Reasoning**
-> Case Based Reasoning is a problem-solving strategy that involves solving new problems by adapting solutions from similar past cases, falling under [[Cognitive Architecture]]. It excludes rule-based or first-principles models, focusing instead on the retrieval and adaptation of prior experiences to solve novel problems.
+> Case Based Reasoning is a problem-solving strategy that involves solving new problems by adapting solutions from similar past cases, falling under [[cognitive-architecture]]. It excludes rule-based or first-principles models, focusing instead on the retrieval and adaptation of prior experiences to solve novel problems.
 
 ## Core Explanation
 
@@ -151,13 +152,13 @@ A 2017 meta-analysis (Klein et al., Journal of Experimental Psychology) of 42 me
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Generalizes to:** [[Schema Theory]]
+**Generalizes to:** [[schema-theory]]
 
-**Sibling concepts:** [[Analogical Reasoning]]
+**Sibling concepts:** [[analogical-reasoning]]
 
 **Applies to:** [[Expert Cognition]]
 

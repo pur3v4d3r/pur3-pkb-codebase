@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Neuroscience"
 
 related:
-  - "[[Synaptic Pruning]]"
+  - "[[synaptic-pruning]]"
   - "[[BDNF]]"
 prerequisites:
   - "[[]]"
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Synaptic Pruning]]"
+  - "[[synaptic-pruning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -130,7 +130,7 @@ Neurogenesis is a fundamental process that underscores the brain’s capacity fo
 
 **Falls under:** [[Neuroscience]]
 
-**Applies to:** [[Synaptic Pruning]]
+**Applies to:** [[synaptic-pruning]]
 
 **Supports:** [[BDNF]]
 

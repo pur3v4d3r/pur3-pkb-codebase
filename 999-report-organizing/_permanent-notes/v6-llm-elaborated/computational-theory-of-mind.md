@@ -73,7 +73,7 @@ provenance:
 # Computational Theory of Mind
 
 > [!definition] **Computational Theory of Mind**
-> The Computational Theory of Mind posits that mental states are computational states and mental processes are operations over internal representations, most influentially developed by Jerry Fodor as the conjunction of computationalism with a Language of Thought hypothesis postulating syntactically structured mental symbols. It falls under [[Cognitive Architecture]]. This theory excludes other theories like connectionism or dynamical systems approaches which deny the necessity of structured symbols for cognition and does not encompass embodied cognition arguments that locate cognitive content in sensorimotor coupling rather than internal computation.
+> The Computational Theory of Mind posits that mental states are computational states and mental processes are operations over internal representations, most influentially developed by Jerry Fodor as the conjunction of computationalism with a Language of Thought hypothesis postulating syntactically structured mental symbols. It falls under [[cognitive-architecture]]. This theory excludes other theories like connectionism or dynamical systems approaches which deny the necessity of structured symbols for cognition and does not encompass embodied cognition arguments that locate cognitive content in sensorimotor coupling rather than internal computation.
 
 > [!attention] **Boundary**
 > This concept excludes other theories like connectionism or dynamical systems approaches which deny the necessity of structured symbols for cognition. It also does not encompass embodied cognition arguments that locate cognitive content in sensorimotor coupling rather than internal computation.
@@ -132,7 +132,7 @@ This theory also highlights the importance of embodied cognition by acknowledgin
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Sibling concepts:** [[Symbol-Grounding Problem]]
 

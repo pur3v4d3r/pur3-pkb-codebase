@@ -36,7 +36,7 @@ related:
   - "[[Common Sense]]"
   - "[[Analytical Intelligence]]"
   - "[[Expertise]]"
-  - "[[Tacit Knowledge]]"
+  - "[[tacit-knowledge]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -54,7 +54,7 @@ applies-to:
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Tacit Knowledge]]"
+  - "[[tacit-knowledge]]"
 supports:
   - "[[]]"
 refines:
@@ -74,7 +74,7 @@ provenance:
 # Practical Intelligence
 
 > [!definition] **Practical Intelligence**
-> Practical Intelligence refers to the cognitive capacity to apply knowledge effectively in real-world contexts, often through tacit knowledge, which is rarely explicitly taught and acquired implicitly from experience. It falls under [[Cognitive Architecture]], as it involves the application of knowledge in practical scenarios rather than theoretical problem-solving skills measured by conventional IQ tests.
+> Practical Intelligence refers to the cognitive capacity to apply knowledge effectively in real-world contexts, often through tacit knowledge, which is rarely explicitly taught and acquired implicitly from experience. It falls under [[cognitive-architecture]], as it involves the application of knowledge in practical scenarios rather than theoretical problem-solving skills measured by conventional IQ tests.
 
 > [!attention] **Boundary**
 > This concept excludes analytical intelligence measured by conventional IQ tests, focusing instead on practical application rather than theoretical problem-solving skills.
@@ -140,7 +140,7 @@ Empirical evidence supports the incremental validity of Practical Intelligence m
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Sibling concepts:** [[Common Sense]]
 
@@ -148,6 +148,6 @@ Empirical evidence supports the incremental validity of Practical Intelligence m
 
 **Applies to:** [[Expertise]]
 
-**Instance of:** [[Tacit Knowledge]]
+**Instance of:** [[tacit-knowledge]]
 
 **Source:** [[practical-intelligence-synthetic-seed-2026-04-25]]

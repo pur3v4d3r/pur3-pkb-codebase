@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Baddeley-Hitch Model]]"
-  - "[[Episodic Buffer]]"
+  - "[[episodic-buffer]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -53,7 +53,7 @@ applies-to:
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Episodic Buffer]]"
+  - "[[episodic-buffer]]"
 supports:
   - "[[]]"
 refines:
@@ -73,7 +73,7 @@ provenance:
 # Componential Structure of Working Memory
 
 > [!definition] **Componential Structure of Working Memory**
-> The Componential Structure of Working Memory is a multi-component model that decomposes short-term cognitive workspace into specialized subsystems: the phonological loop for verbal/acoustic material, the visuospatial sketchpad for visual and spatial information, the central executive which allocates attention and coordinates these slave systems, and an episodic buffer that integrates information across modalities. This model falls under [[Cognitive Architecture]], focusing on functional roles rather than anatomical localization.
+> The Componential Structure of Working Memory is a multi-component model that decomposes short-term cognitive workspace into specialized subsystems: the phonological loop for verbal/acoustic material, the visuospatial sketchpad for visual and spatial information, the central executive which allocates attention and coordinates these slave systems, and an episodic buffer that integrates information across modalities. This model falls under [[cognitive-architecture]], focusing on functional roles rather than anatomical localization.
 
 > [!attention] **Boundary**
 > This model excludes long-term memory processes and focuses on the functional roles rather than anatomical localization of these components.
@@ -134,12 +134,12 @@ The Componential Structure of Working Memory predicts dual-task interference pat
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Generalizes to:** [[Baddeley-Hitch Model]]
 
-**Instance of:** [[Episodic Buffer]]
+**Instance of:** [[episodic-buffer]]
 
 **Source:** [[the-componential-structure-of-working-memory-synthetic-seed-2026-04-25]]

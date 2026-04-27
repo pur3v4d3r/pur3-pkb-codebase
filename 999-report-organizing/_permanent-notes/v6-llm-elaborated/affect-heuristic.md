@@ -28,8 +28,8 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Heuristics
 related:
-  - '[[Availability Heuristic]]'
-  - '[[Dual-Process Theory]]'
+  - '[[availability-heuristic]]'
+  - '[[dual-process-theory]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -39,7 +39,7 @@ broader:
 see-also:
   - '[[]]'
 contrasts-with:
-  - '[[Availability Heuristic]]'
+  - '[[availability-heuristic]]'
 contradicts:
   - '[[]]'
 applies-to:
@@ -49,7 +49,7 @@ formalizes:
 instance-of:
   - '[[]]'
 supports:
-  - '[[Dual-Process Theory]]'
+  - '[[dual-process-theory]]'
 refines:
   - '[[]]'
 
@@ -147,8 +147,8 @@ Recent meta-analyses have refined understanding of the affect heuristic's bounda
 
 **Falls under:** [[Heuristics]]
 
-**Contrasts with:** [[Availability Heuristic]]
+**Contrasts with:** [[availability-heuristic]]
 
-**Supports:** [[Dual-Process Theory]]
+**Supports:** [[dual-process-theory]]
 
 **Source:** [[affect-heuristic-synthetic-seed-2026-04-26]]

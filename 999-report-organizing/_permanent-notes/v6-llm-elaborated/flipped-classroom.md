@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Blended Learning"
 
 related:
-  - "[[Active Learning]]"
-  - "[[Peer Instruction]]"
+  - "[[active-learning]]"
+  - "[[peer-instruction]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,13 +42,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Active Learning]]"
+  - "[[active-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Peer Instruction]]"
+  - "[[peer-instruction]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,8 +133,8 @@ Beyond instructional design, the Flipped Classroom also has implications for edu
 
 **Falls under:** [[Blended Learning]]
 
-**Sibling concepts:** [[Active Learning]]
+**Sibling concepts:** [[active-learning]]
 
-**Applies to:** [[Peer Instruction]]
+**Applies to:** [[peer-instruction]]
 
 **Source:** [[flipped-classroom-synthetic-seed-2026-04-26]]

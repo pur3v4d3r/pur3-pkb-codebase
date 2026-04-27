@@ -29,8 +29,8 @@ depth-level: enhanced
 parent-concept: Cognitive Architecture
 related:
   - '[[Schema Induction]]'
-  - '[[Transfer of Learning]]'
-  - '[[Structure Mapping Theory]]'
+  - '[[transfer-of-learning]]'
+  - '[[structure-mapping-theory]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -44,9 +44,9 @@ contrasts-with:
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Transfer of Learning]]'
+  - '[[transfer-of-learning]]'
 formalizes:
-  - '[[Structure Mapping Theory]]'
+  - '[[structure-mapping-theory]]'
 instance-of:
   - '[[]]'
 supports:
@@ -72,7 +72,7 @@ provenance:
 # Analogical Mapping
 
 > [!definition] **Analogical Mapping**
-> Analogical Mapping is the cognitive process of identifying systematic relational correspondences between a familiar base and an unfamiliar target, preferentially aligning higher-order relations over surface attributes, to project candidate inferences from one domain to another. It falls under [[Cognitive Architecture]], providing the operational mechanism behind cross-domain problem solving and instructional analogies.
+> Analogical Mapping is the cognitive process of identifying systematic relational correspondences between a familiar base and an unfamiliar target, preferentially aligning higher-order relations over surface attributes, to project candidate inferences from one domain to another. It falls under [[cognitive-architecture]], providing the operational mechanism behind cross-domain problem solving and instructional analogies.
 
 > [!attention] **Boundary**
 > This concept excludes specific examples or instances but focuses on the general mechanism of analogical reasoning. It does not cover all forms of analogy or cognitive processes outside relational mapping.
@@ -151,12 +151,12 @@ Meta-analytic work by Richland et al. (2007) demonstrates that analogical mappin
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Contrasts with:** [[Schema Induction]]
 
-**Applies to:** [[Transfer of Learning]]
+**Applies to:** [[transfer-of-learning]]
 
-**Formalizes:** [[Structure Mapping Theory]]
+**Formalizes:** [[structure-mapping-theory]]
 
 **Source:** [[analogical-mapping-synthetic-seed-2026-04-25]]

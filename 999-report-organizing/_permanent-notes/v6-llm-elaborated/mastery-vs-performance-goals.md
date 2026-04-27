@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Achievement-Goal Theory"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Mastery vs Performance Goals
 
 > [!definition] **Mastery vs Performance Goals**
-> Mastery vs Performance Goals is a central concept in achievement-goal theory, distinguishing between goals focused on developing competence relative to the task or one's prior self versus goals oriented toward demonstrating competence relative to others. It falls under [[Achievement-Goal Theory]].
+> Mastery vs Performance Goals is a central concept in achievement-goal theory, distinguishing between goals focused on developing competence relative to the task or one's prior self versus goals oriented toward demonstrating competence relative to others. It falls under [[achievement-goal-theory]].
 
 > [!attention] **Boundary**
 > This distinction does not include other motivational constructs like intrinsic vs. extrinsic motivation but focuses specifically on the nature of the goal itself (task-oriented vs. ego-oriented).
@@ -131,10 +131,10 @@ The concept of mastery vs performance goals intersects with other motivational c
 
 ## Connections & Context
 
-**Falls under:** [[Achievement-Goal Theory]]
+**Falls under:** [[achievement-goal-theory]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[mastery-vs-performance-goals-synthetic-seed-2026-04-25]]

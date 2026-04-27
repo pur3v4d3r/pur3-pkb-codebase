@@ -71,7 +71,7 @@ provenance:
 # Ecological Psychology
 
 > [!definition] **Ecological Psychology**
-> Ecological Psychology, founded by James J. Gibson, posits that perception is direct pickup of information specifying affordances in the organism-environment system rather than inferential construction from impoverished sensory data, and reframes cognitive science around the meaningful structure of the lawful organism-environment relation. It falls under [[Cognitive Science]].
+> Ecological Psychology, founded by James J. Gibson, posits that perception is direct pickup of information specifying affordances in the organism-environment system rather than inferential construction from impoverished sensory data, and reframes cognitive science around the meaningful structure of the lawful organism-environment relation. It falls under [[cognitive-science]].
 
 > [!attention] **Boundary**
 > This concept excludes internal representation and model construction as primary mechanisms for cognition, focusing instead on lawful information pickup from the environment.
@@ -128,7 +128,7 @@ Ecological Psychology offers a valuable framework for understanding perception a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Science]]
+**Falls under:** [[cognitive-science]]
 
 **Sibling concepts:** [[embodied-cognition]]
 

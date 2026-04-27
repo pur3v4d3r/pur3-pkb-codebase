@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Social Psychology"
 
 related:
-  - "[[Halo Effect]]"
+  - "[[halo-effect]]"
   - "[[Prejudice]]"
-  - "[[Stereotype Threat]]"
+  - "[[stereotype-threat]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,10 +43,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Halo Effect]]"
+  - "[[halo-effect]]"
   - "[[Prejudice]]"
 contrasts-with:
-  - "[[Stereotype Threat]]"
+  - "[[stereotype-threat]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -138,8 +138,8 @@ Implicit Bias intersects with other concepts like Stereotype Threat and the Halo
 
 **Falls under:** [[Social Psychology]]
 
-**Sibling concepts:** [[Halo Effect]] · [[Prejudice]]
+**Sibling concepts:** [[halo-effect]] · [[Prejudice]]
 
-**Contrasts with:** [[Stereotype Threat]]
+**Contrasts with:** [[stereotype-threat]]
 
 **Source:** [[implicit-bias-synthetic-seed-2026-04-26]]

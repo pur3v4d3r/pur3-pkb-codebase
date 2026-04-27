@@ -33,7 +33,7 @@ parent-concept: "Intelligence Theories"
 
 related:
   - "[[General Factor (g)]]"
-  - "[[Multiple Intelligences Theory]]"
+  - "[[multiple-intelligences-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,7 +45,7 @@ see-also:
 contrasts-with:
   - "[[General Factor (g)]]"
 contradicts:
-  - "[[Multiple Intelligences Theory]]"
+  - "[[multiple-intelligences-theory]]"
 applies-to:
   - "[[]]"
 formalizes:
@@ -138,6 +138,6 @@ The Triarchic Theory has gained some empirical support through incremental valid
 
 **Contrasts with:** [[General Factor (g)]]
 
-**Contradicts:** [[Multiple Intelligences Theory]]
+**Contradicts:** [[multiple-intelligences-theory]]
 
 **Source:** [[triarchic-theory-of-intelligence-synthetic-seed-2026-04-25]]

@@ -28,7 +28,7 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Emotion Processing
 related:
-  - '[[Emotional Granularity]]'
+  - '[[emotional-granularity]]'
   - '[[Autism Spectrum Disorder]]'
 prerequisites:
   - '[[]]'
@@ -37,7 +37,7 @@ specializes:
 broader:
   - '[[]]'
 see-also:
-  - '[[Emotional Granularity]]'
+  - '[[emotional-granularity]]'
 contrasts-with:
   - '[[Autism Spectrum Disorder]]'
 contradicts:
@@ -153,7 +153,7 @@ The concept of Alexithymia also intersects with broader discussions on emotion p
 
 **Falls under:** [[Emotion Processing]]
 
-**Sibling concepts:** [[Emotional Granularity]]
+**Sibling concepts:** [[emotional-granularity]]
 
 **Contrasts with:** [[Autism Spectrum Disorder]]
 

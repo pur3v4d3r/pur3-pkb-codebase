@@ -71,7 +71,7 @@ provenance:
 # Atomic Notes
 
 > [!definition] **Atomic Notes**
-> Atomic Notes are notes that capture exactly one self-contained idea per file, named so that the note's title itself is a usable claim or concept, which makes each note independently linkable and reusable across multiple contexts without requiring the surrounding context that produced it. This falls under [[Knowledge Management]], as Atomic Notes enable a notes network to behave like a knowledge graph rather than a document store: only when each idea has its own addressable identity can it become a node that other ideas connect to, which is the precondition for emergent structure.
+> Atomic Notes are notes that capture exactly one self-contained idea per file, named so that the note's title itself is a usable claim or concept, which makes each note independently linkable and reusable across multiple contexts without requiring the surrounding context that produced it. This falls under [[knowledge-management]], as Atomic Notes enable a notes network to behave like a knowledge graph rather than a document store: only when each idea has its own addressable identity can it become a node that other ideas connect to, which is the precondition for emergent structure.
 
 > [!attention] **Boundary**
 > This concept excludes notes that do not contain a single, self-contained idea and notes that lack a clear, addressable identity. It also does not include collections of loosely related ideas or fragments of arguments.
@@ -143,7 +143,7 @@ Atomic Notes operationalize graph theory principles within personal knowledge ma
 
 ## Connections & Context
 
-**Falls under:** [[Knowledge Management]]
+**Falls under:** [[knowledge-management]]
 
 **Contrasts with:** [[evergreen-notes]]
 

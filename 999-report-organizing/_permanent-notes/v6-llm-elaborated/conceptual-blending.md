@@ -34,7 +34,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Mental Spaces]]"
-  - "[[Analogical Mapping]]"
+  - "[[analogical-mapping]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[Mental Spaces]]"
 contrasts-with:
-  - "[[Analogical Mapping]]"
+  - "[[analogical-mapping]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Conceptual Blending
 
 > [!definition] **Conceptual Blending**
-> Conceptual Blending is a framework developed by Gilles Fauconnier and Mark Turner that models how the human mind integrates elements from two or more mental spaces to create novel conceptual structures, often seen in everyday language and creative thinking. It falls under [[Cognitive Architecture]], where it operates as a central mechanism for meaning construction, distinct from pure memory recall or simple analogical reasoning without integration of multiple input spaces.
+> Conceptual Blending is a framework developed by Gilles Fauconnier and Mark Turner that models how the human mind integrates elements from two or more mental spaces to create novel conceptual structures, often seen in everyday language and creative thinking. It falls under [[cognitive-architecture]], where it operates as a central mechanism for meaning construction, distinct from pure memory recall or simple analogical reasoning without integration of multiple input spaces.
 
 > [!attention] **Boundary**
 > It excludes other cognitive processes like pure memory recall or simple analogical reasoning without integration of multiple input spaces. It should not be confused with single-space mental operations or purely linguistic phenomena.
@@ -132,10 +132,10 @@ Blending is part of a broader cognitive architecture that includes mental spaces
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Sibling concepts:** [[Mental Spaces]]
 
-**Contrasts with:** [[Analogical Mapping]]
+**Contrasts with:** [[analogical-mapping]]
 
 **Source:** [[conceptual-blending-synthetic-seed-2026-04-25]]

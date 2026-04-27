@@ -76,7 +76,7 @@ provenance:
 # The Central Puzzle
 
 > [!definition] **The Central Puzzle**
-> The Central Puzzle refers to the gap between behavioral intentions and actual actions that cannot be fully explained by goal commitment, motivational intensity, or behavioral intention alone. It falls under [[Motivation Science]], highlighting a specific causal structure in the space between intending and acting.
+> The Central Puzzle refers to the gap between behavioral intentions and actual actions that cannot be fully explained by goal commitment, motivational intensity, or behavioral intention alone. It falls under [[motivation-science]], highlighting a specific causal structure in the space between intending and acting.
 
 > [!attention] **Boundary**
 > This concept excludes explanations that solely rely on motivational theories of the 1970s and 1980s. It focuses specifically on the causal structure in the space between intending and acting.
@@ -135,7 +135,7 @@ This concept also has broader implications for motivation science and volitional
 
 ## Connections & Context
 
-**Falls under:** [[Motivation Science]]
+**Falls under:** [[motivation-science]]
 
 **Prerequisites:** [[forethought-phase]]
 

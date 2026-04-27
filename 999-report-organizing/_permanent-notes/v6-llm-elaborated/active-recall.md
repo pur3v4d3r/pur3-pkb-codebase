@@ -28,23 +28,23 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Self-Regulated Learning
 related:
-  - '[[Spaced Retrieval]]'
-  - '[[Retrieval Practice]]'
-  - '[[Desirable Difficulties]]'
+  - '[[spaced-retrieval]]'
+  - '[[retrieval-practice]]'
+  - '[[desirable-difficulties]]'
 prerequisites:
   - '[[]]'
 specializes:
   - '[[]]'
 broader:
-  - '[[Spaced Retrieval]]'
+  - '[[spaced-retrieval]]'
 see-also:
-  - '[[Retrieval Practice]]'
+  - '[[retrieval-practice]]'
 contrasts-with:
   - '[[]]'
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Desirable Difficulties]]'
+  - '[[desirable-difficulties]]'
 formalizes:
   - '[[]]'
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Active Recall
 
 > [!definition] **Active Recall**
-> Active Recall is a study technique where learners produce target information from memory in response to a cue without consulting source material, as the principal mode of study, rather than relying on rereading or highlighting that allow the source to do the retrieval work. It falls under [[Self-Regulated Learning]].
+> Active Recall is a study technique where learners produce target information from memory in response to a cue without consulting source material, as the principal mode of study, rather than relying on rereading or highlighting that allow the source to do the retrieval work. It falls under [[self-regulated-learning]].
 
 > [!attention] **Boundary**
 > This concept excludes other forms of review such as rereading or highlighting. It also does not include re-exposure to questions after looking up answers, which is not considered true Active Recall.
@@ -158,7 +158,7 @@ Active Recall is a critical concept in learning science because it provides a ro
 Beyond its immediate benefits, Active Recall has broader implications across the domains of learning science. It contributes to our understanding of memory consolidation and retrieval processes, and its integration into various educational settings demonstrates its versatility as a learning strategy.
 
 <!-- enhancement-pass:1 (2026-04-27) -->
-Active Recall represents a core implementation of retrieval practice within the broader 'desirable difficulties' framework, where the cognitive effort of retrieval itself becomes a learning mechanism rather than a mere assessment tool. Its integration with [[Spaced Retrieval]] and [[Desirable Difficulties]] positions it as a foundational strategy for designing learning environments that prioritize durable knowledge construction over superficial familiarity.
+Active Recall represents a core implementation of retrieval practice within the broader 'desirable difficulties' framework, where the cognitive effort of retrieval itself becomes a learning mechanism rather than a mere assessment tool. Its integration with [[spaced-retrieval]] and [[desirable-difficulties]] positions it as a foundational strategy for designing learning environments that prioritize durable knowledge construction over superficial familiarity.
 
 ## Evidence
 
@@ -166,12 +166,12 @@ Empirical evidence consistently shows that Active Recall outperforms passive rev
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Generalizes to:** [[Spaced Retrieval]]
+**Generalizes to:** [[spaced-retrieval]]
 
-**Sibling concepts:** [[Retrieval Practice]]
+**Sibling concepts:** [[retrieval-practice]]
 
-**Applies to:** [[Desirable Difficulties]]
+**Applies to:** [[desirable-difficulties]]
 
 **Source:** [[active-recall-synthetic-seed-2026-04-26]]

@@ -33,23 +33,23 @@ depth-level: elaborated
 parent-concept: "Organizational Psychology"
 
 related:
-  - "[[Tacit Knowledge]]"
+  - "[[tacit-knowledge]]"
   - "[[Explicit Knowledge]]"
-  - "[[Communities of Practice]]"
-  - "[[Transactive Memory Systems]]"
-  - "[[Personal Knowledge Management]]"
+  - "[[communities-of-practice]]"
+  - "[[transactive-memory-systems]]"
+  - "[[personal-knowledge-management]]"
 prerequisites:
-  - "[[Tacit Knowledge]]"
+  - "[[tacit-knowledge]]"
   - "[[Explicit Knowledge]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Communities of Practice]]"
-  - "[[Transactive Memory Systems]]"
+  - "[[communities-of-practice]]"
+  - "[[transactive-memory-systems]]"
 contrasts-with:
-  - "[[Personal Knowledge Management]]"
+  - "[[personal-knowledge-management]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -139,10 +139,10 @@ Empirical evidence from studies shows that combining document management tools w
 
 **Falls under:** [[Organizational Psychology]]
 
-**Prerequisites:** [[Tacit Knowledge]] · [[Explicit Knowledge]]
+**Prerequisites:** [[tacit-knowledge]] · [[Explicit Knowledge]]
 
-**Sibling concepts:** [[Communities of Practice]] · [[Transactive Memory Systems]]
+**Sibling concepts:** [[communities-of-practice]] · [[transactive-memory-systems]]
 
-**Contrasts with:** [[Personal Knowledge Management]]
+**Contrasts with:** [[personal-knowledge-management]]
 
 **Source:** [[knowledge-management-synthetic-seed-2026-04-25]]

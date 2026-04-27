@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Social Psychology"
 
 related:
-  - "[[Groupthink]]"
-  - "[[Conformity]]"
-  - "[[Social Identity Theory]]"
+  - "[[groupthink]]"
+  - "[[conformity]]"
+  - "[[social-identity-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,8 +45,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Groupthink]]"
-  - "[[Conformity]]"
+  - "[[groupthink]]"
+  - "[[conformity]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -56,7 +56,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Social Identity Theory]]"
+  - "[[social-identity-theory]]"
 refines:
   - "[[]]"
 
@@ -135,8 +135,8 @@ Deindividuation intersects with other concepts like social identity theory and g
 
 **Falls under:** [[Social Psychology]]
 
-**Contrasts with:** [[Groupthink]] · [[Conformity]]
+**Contrasts with:** [[groupthink]] · [[conformity]]
 
-**Supports:** [[Social Identity Theory]]
+**Supports:** [[social-identity-theory]]
 
 **Source:** [[deindividuation-synthetic-seed-2026-04-26]]

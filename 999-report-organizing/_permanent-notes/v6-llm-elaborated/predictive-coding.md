@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Bayesian Brain Hypothesis"
 
 related:
-  - "[[Predictive Processing]]"
-  - "[[Free Energy Principle]]"
-  - "[[Attention and Cognitive Control]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[predictive-processing]]"
+  - "[[free-energy-principle]]"
+  - "[[attention-and-cognitive-control]]"
+  - "[[bayesian-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,15 +43,15 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Predictive Processing]]"
+  - "[[predictive-processing]]"
 contrasts-with:
-  - "[[Free Energy Principle]]"
+  - "[[free-energy-principle]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Attention and Cognitive Control]]"
+  - "[[attention-and-cognitive-control]]"
 formalizes:
-  - "[[Bayesian Reasoning]]"
+  - "[[bayesian-reasoning]]"
 instance-of:
   - "[[]]"
 supports:
@@ -128,12 +128,12 @@ The strongest evidence for Predictive Coding lies in its ability to explain dive
 
 **Falls under:** [[Bayesian Brain Hypothesis]]
 
-**Sibling concepts:** [[Predictive Processing]]
+**Sibling concepts:** [[predictive-processing]]
 
-**Contrasts with:** [[Free Energy Principle]]
+**Contrasts with:** [[free-energy-principle]]
 
-**Applies to:** [[Attention and Cognitive Control]]
+**Applies to:** [[attention-and-cognitive-control]]
 
-**Formalizes:** [[Bayesian Reasoning]]
+**Formalizes:** [[bayesian-reasoning]]
 
 **Source:** [[predictive-coding-synthetic-seed-2026-04-27]]

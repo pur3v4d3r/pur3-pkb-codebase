@@ -33,7 +33,7 @@ parent-concept: "Critical Thinking"
 
 related:
   - "[[intellectual-standards]]"
-  - "[[Elements of Thought]]"
+  - "[[elements-of-thought]]"
   - "[[Critical Thinking Skills]]"
 prerequisites:
   - "[[]]"
@@ -43,7 +43,7 @@ broader:
   - "[[]]"
 see-also:
   - "[[intellectual-standards]]"
-  - "[[Elements of Thought]]"
+  - "[[elements-of-thought]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -133,7 +133,7 @@ The Paul-Elder Critical Thinking Framework is significant because it provides a 
 
 **Falls under:** [[critical-thinking]]
 
-**Sibling concepts:** [[intellectual-standards]] · [[Elements of Thought]]
+**Sibling concepts:** [[intellectual-standards]] · [[elements-of-thought]]
 
 **Applies to:** [[Critical Thinking Skills]]
 

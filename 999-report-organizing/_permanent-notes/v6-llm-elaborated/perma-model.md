@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Positive Psychology"
 
 related:
-  - "[[Savoring]]"
-  - "[[Eudaimonia]]"
-  - "[[Psychological Capital]]"
-  - "[[Hope Theory]]"
+  - "[[savoring]]"
+  - "[[eudaimonia]]"
+  - "[[psychological-capital]]"
+  - "[[hope-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,13 +46,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Savoring]]"
-  - "[[Eudaimonia]]"
+  - "[[savoring]]"
+  - "[[eudaimonia]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Psychological Capital]]"
-  - "[[Hope Theory]]"
+  - "[[psychological-capital]]"
+  - "[[hope-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -145,8 +145,8 @@ The PERMA Model's practical implications are far-reaching, as it can be applied 
 
 **Falls under:** [[Positive Psychology]]
 
-**Contrasts with:** [[Savoring]] · [[Eudaimonia]]
+**Contrasts with:** [[savoring]] · [[eudaimonia]]
 
-**Applies to:** [[Psychological Capital]] · [[Hope Theory]]
+**Applies to:** [[psychological-capital]] · [[hope-theory]]
 
 **Source:** [[perma-model-synthetic-seed-2026-04-26]]

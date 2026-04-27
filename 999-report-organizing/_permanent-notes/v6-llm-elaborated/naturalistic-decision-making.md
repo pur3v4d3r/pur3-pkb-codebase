@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Decision Science"
 
 related:
-  - "[[Recognition-Primed Decision Model]]"
+  - "[[recognition-primed-decision-model]]"
   - "[[Situation Awareness]]"
   - "[[Expertise]]"
   - "[[Ecological Rationality]]"
@@ -45,7 +45,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Recognition-Primed Decision Model]]"
+  - "[[recognition-primed-decision-model]]"
   - "[[Situation Awareness]]"
 contrasts-with:
   - "[[]]"
@@ -78,7 +78,7 @@ provenance:
 # Naturalistic Decision Making
 
 > [!definition] **Naturalistic Decision Making**
-> Naturalistic Decision Making is a research program that studies how experienced practitioners make decisions in real-world settings characterized by time pressure and incomplete information, focusing on expertise rather than population-average choice. It falls under [[Decision Science]], as it seeks to understand the practical decision-making processes of experts in dynamic conditions, distinct from classical decision theory's prescriptive models.
+> Naturalistic Decision Making is a research program that studies how experienced practitioners make decisions in real-world settings characterized by time pressure and incomplete information, focusing on expertise rather than population-average choice. It falls under [[decision-science]], as it seeks to understand the practical decision-making processes of experts in dynamic conditions, distinct from classical decision theory's prescriptive models.
 
 > [!attention] **Boundary**
 > It excludes decision-making scenarios that do not involve rapid, unambiguous feedback or complex, dynamic conditions. It should not be confused with classical decision theory's prescriptive models of rational choice.
@@ -133,9 +133,9 @@ Naturalistic Decision Making provides a valuable framework for understanding the
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
-**Sibling concepts:** [[Recognition-Primed Decision Model]] · [[Situation Awareness]]
+**Sibling concepts:** [[recognition-primed-decision-model]] · [[Situation Awareness]]
 
 **Applies to:** [[Expertise]] · [[Ecological Rationality]] · [[Fast-and-Frugal Heuristics]]
 

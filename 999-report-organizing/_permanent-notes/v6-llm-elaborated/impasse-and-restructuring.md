@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Impasse And Restructuring
 
 > [!definition] **Impasse And Restructuring**
-> Impasse And Restructuring is a two-phase cognitive process in which problem solvers reach an impasse due to an inadequate representation of the problem and then restructure that representation to reveal new solution paths, moving insight from a phenomenological label to a process model. It falls under [[Cognitive Architecture]].
+> Impasse And Restructuring is a two-phase cognitive process in which problem solvers reach an impasse due to an inadequate representation of the problem and then restructure that representation to reveal new solution paths, moving insight from a phenomenological label to a process model. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept focuses on the specific phases and mechanisms of insight problem solving. It does not cover broader aspects of problem-solving strategies or cognitive processes outside these two phases.
@@ -128,10 +128,10 @@ The model's application in instructional design highlights its potential to enha
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[impasse-and-restructuring-synthetic-seed-2026-04-25]]

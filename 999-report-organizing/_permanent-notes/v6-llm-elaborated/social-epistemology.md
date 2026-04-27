@@ -33,7 +33,7 @@ parent-concept: "Epistemology"
 
 related:
   - "[[Group Belief]]"
-  - "[[Epistemic Injustice]]"
+  - "[[epistemic-injustice]]"
   - "[[Testimony]]"
 prerequisites:
   - "[[]]"
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[Group Belief]]"
 contrasts-with:
-  - "[[Epistemic Injustice]]"
+  - "[[epistemic-injustice]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Social Epistemology
 
 > [!definition] **Social Epistemology**
-> Social Epistemology is the branch of epistemology concerned with the social dimensions of knowledge — testimony as a knowledge source, epistemic dependence on experts, peer disagreement, group belief, and the design of knowledge-producing institutions (science, journalism, courts) — distinct from individualistic epistemology in taking the social as constitutive rather than incidental to knowledge. It falls under [[Epistemology]].
+> Social Epistemology is the branch of epistemology concerned with the social dimensions of knowledge — testimony as a knowledge source, epistemic dependence on experts, peer disagreement, group belief, and the design of knowledge-producing institutions (science, journalism, courts) — distinct from individualistic epistemology in taking the social as constitutive rather than incidental to knowledge. It falls under [[epistemology]].
 
 > [!attention] **Boundary**
 > It excludes individualistic epistemology, which focuses solely on personal cognitive processes without considering social dimensions.
@@ -132,11 +132,11 @@ Moreover, Social Epistemology highlights the importance of addressing epistemic 
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Sibling concepts:** [[Group Belief]]
 
-**Contrasts with:** [[Epistemic Injustice]]
+**Contrasts with:** [[epistemic-injustice]]
 
 **Applies to:** [[Testimony]]
 

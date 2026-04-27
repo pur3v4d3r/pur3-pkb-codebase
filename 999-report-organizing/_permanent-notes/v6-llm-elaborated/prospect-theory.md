@@ -32,13 +32,13 @@ depth-level: elaborated
 parent-concept: "Decision Science"
 
 related:
-  - "[[Reference Dependence]]"
-  - "[[Expected-Utility Theory]]"
-  - "[[Framing Effect]]"
+  - "[[reference-dependence]]"
+  - "[[expected-utility-theory]]"
+  - "[[framing-effect]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Reference Dependence]]"
+  - "[[reference-dependence]]"
 broader:
   - "[[]]"
 see-also:
@@ -46,9 +46,9 @@ see-also:
 contrasts-with:
   - "[[]]"
 contradicts:
-  - "[[Expected-Utility Theory]]"
+  - "[[expected-utility-theory]]"
 applies-to:
-  - "[[Framing Effect]]"
+  - "[[framing-effect]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Prospect Theory
 
 > [!definition] **Prospect Theory**
-> Prospect Theory is a descriptive theory of decision-making under risk developed by Kahneman and Tversky in 1979, which explains how people evaluate outcomes relative to a reference point, weight probabilities non-linearly, and exhibit loss aversion. It falls under [[Decision Science]], challenging the assumptions of expected-utility theory by focusing on psychological biases rather than economic rationality.
+> Prospect Theory is a descriptive theory of decision-making under risk developed by Kahneman and Tversky in 1979, which explains how people evaluate outcomes relative to a reference point, weight probabilities non-linearly, and exhibit loss aversion. It falls under [[decision-science]], challenging the assumptions of expected-utility theory by focusing on psychological biases rather than economic rationality.
 
 > [!attention] **Boundary**
 > This concept excludes traditional expected-utility theory and focuses on the psychological aspects of decision-making rather than economic rationality.
@@ -131,12 +131,12 @@ The significance of Prospect Theory lies in its ability to bridge the gap betwee
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
-**Specializes:** [[Reference Dependence]]
+**Specializes:** [[reference-dependence]]
 
-**Contradicts:** [[Expected-Utility Theory]]
+**Contradicts:** [[expected-utility-theory]]
 
-**Applies to:** [[Framing Effect]]
+**Applies to:** [[framing-effect]]
 
 **Source:** [[prospect-theory-synthetic-seed-2026-04-25]]

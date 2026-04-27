@@ -35,7 +35,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Expertise]]"
-  - "[[Practical Intelligence]]"
+  - "[[practical-intelligence]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Practical Intelligence]]"
+  - "[[practical-intelligence]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Psychological Wisdom
 
 > [!definition] **Psychological Wisdom**
-> Psychological wisdom refers to expert-level knowledge about the fundamental pragmatics of life, including uncertain and conflict-laden problems of human existence, operationalized as a measurable psychological construct within the Berlin Wisdom Paradigm, which falls under [[Cognitive Architecture]].
+> Psychological wisdom refers to expert-level knowledge about the fundamental pragmatics of life, including uncertain and conflict-laden problems of human existence, operationalized as a measurable psychological construct within the Berlin Wisdom Paradigm, which falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This definition excludes philosophical or popular notions of wisdom and focuses on its empirical psychological operationalization.
@@ -132,10 +132,10 @@ Psychological wisdom overlaps with practical intelligence but differs from it in
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Generalizes to:** [[Expertise]]
 
-**Applies to:** [[Practical Intelligence]]
+**Applies to:** [[practical-intelligence]]
 
 **Source:** [[wisdom-synthetic-seed-2026-04-25]]

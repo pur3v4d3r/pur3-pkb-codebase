@@ -33,9 +33,9 @@ parent-concept: "Social Influence"
 
 related:
   - "[[Descriptive Norms]]"
-  - "[[Conformity]]"
+  - "[[conformity]]"
   - "[[Herd Behavior]]"
-  - "[[Nudge Theory]]"
+  - "[[nudge-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Conformity]]"
+  - "[[conformity]]"
 contrasts-with:
   - "[[Herd Behavior]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Nudge Theory]]"
+  - "[[nudge-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -143,10 +143,10 @@ Empirical evidence supports the effectiveness of social proof in various context
 
 **Specializes:** [[Descriptive Norms]]
 
-**Sibling concepts:** [[Conformity]]
+**Sibling concepts:** [[conformity]]
 
 **Contrasts with:** [[Herd Behavior]]
 
-**Applies to:** [[Nudge Theory]]
+**Applies to:** [[nudge-theory]]
 
 **Source:** [[social-proof-synthetic-seed-2026-04-25]]

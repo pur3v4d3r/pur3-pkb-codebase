@@ -33,18 +33,18 @@ depth-level: elaborated
 parent-concept: "Theory Evaluation"
 
 related:
-  - "[[Coherentism]]"
-  - "[[Inference to the Best Explanation]]"
+  - "[[coherentism]]"
+  - "[[inference-to-the-best-explanation]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Coherentism]]"
+  - "[[coherentism]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Inference to the Best Explanation]]"
+  - "[[inference-to-the-best-explanation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -130,8 +130,8 @@ The broader implications extend beyond individual theories to the way we underst
 
 **Falls under:** [[Theory Evaluation]]
 
-**Generalizes to:** [[Coherentism]]
+**Generalizes to:** [[coherentism]]
 
-**Contrasts with:** [[Inference to the Best Explanation]]
+**Contrasts with:** [[inference-to-the-best-explanation]]
 
 **Source:** [[explanatory-coherence-synthetic-seed-2026-04-25]]

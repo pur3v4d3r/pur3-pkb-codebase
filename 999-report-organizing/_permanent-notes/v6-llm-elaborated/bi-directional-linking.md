@@ -2,6 +2,7 @@
 title: Bi Directional Linking
 aliases:
   - Bi Directional Linking
+  - "Bi-directional Linking"
   - backlinks
   - two-way links
 type: permanent-note
@@ -28,16 +29,16 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Knowledge Management Systems
 related:
-  - '[[Working Memory]]'
-  - '[[Zettelkasten]]'
+  - '[[working-memory]]'
+  - '[[zettelkasten]]'
 prerequisites:
-  - '[[Working Memory]]'
+  - '[[working-memory]]'
 specializes:
   - '[[]]'
 broader:
   - '[[]]'
 see-also:
-  - '[[Zettelkasten]]'
+  - '[[zettelkasten]]'
 contrasts-with:
   - '[[]]'
 contradicts:
@@ -155,8 +156,8 @@ Bi Directional Linking represents a practical realization of cognitive offloadin
 
 **Falls under:** [[Knowledge Management Systems]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Zettelkasten]]
+**Sibling concepts:** [[zettelkasten]]
 
 **Source:** [[bi-directional-linking-synthetic-seed-2026-04-26]]

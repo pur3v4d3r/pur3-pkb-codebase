@@ -35,8 +35,8 @@ parent-concept: "Argument Analysis"
 
 related:
   - "[[Ad Hominem Fallacy]]"
-  - "[[False Dichotomy]]"
-  - "[[Argument Analysis]]"
+  - "[[false-dichotomy]]"
+  - "[[argument-analysis]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,13 +45,13 @@ broader:
   - "[[]]"
 see-also:
   - "[[Ad Hominem Fallacy]]"
-  - "[[False Dichotomy]]"
+  - "[[false-dichotomy]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Argument Analysis]]"
+  - "[[argument-analysis]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Straw Man Fallacy
 
 > [!definition] **Straw Man Fallacy**
-> The Straw Man Fallacy occurs when an arguer misrepresents their opponent's position to make it easier to attack, then claims victory over the original view by defeating this distorted version. This fallacy is excluded from situations where a debater intentionally simplifies or exaggerates for clarity, as long as they do not claim to refute the original position; it should not be confused with other logical fallacies like ad hominem or false dichotomy. It falls under [[Argument Analysis]].
+> The Straw Man Fallacy occurs when an arguer misrepresents their opponent's position to make it easier to attack, then claims victory over the original view by defeating this distorted version. This fallacy is excluded from situations where a debater intentionally simplifies or exaggerates for clarity, as long as they do not claim to refute the original position; it should not be confused with other logical fallacies like ad hominem or false dichotomy. It falls under [[argument-analysis]].
 
 > [!attention] **Boundary**
 > This concept excludes situations where a debater intentionally simplifies or exaggerates an argument for clarity or emphasis, as long as they do not claim to refute the original position. It should not be confused with other fallacies like ad hominem or false dichotomy.
@@ -137,10 +137,10 @@ The Straw Man Fallacy matters because it challenges us to engage with the strong
 
 ## Connections & Context
 
-**Falls under:** [[Argument Analysis]]
+**Falls under:** [[argument-analysis]]
 
-**Sibling concepts:** [[Ad Hominem Fallacy]] · [[False Dichotomy]]
+**Sibling concepts:** [[Ad Hominem Fallacy]] · [[false-dichotomy]]
 
-**Applies to:** [[Argument Analysis]]
+**Applies to:** [[argument-analysis]]
 
 **Source:** [[straw-man-fallacy-synthetic-seed-2026-04-26]]

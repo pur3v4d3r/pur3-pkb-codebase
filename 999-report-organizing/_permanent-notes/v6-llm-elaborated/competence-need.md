@@ -34,7 +34,7 @@ parent-concept: "Self-Determination Theory"
 related:
   - "[[Optimal-Challenge]]"
   - "[[autonomy-need]]"
-  - "[[Mastery-Experience]]"
+  - "[[mastery-experience]]"
 prerequisites:
   - "[[Optimal-Challenge]]"
 specializes:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Mastery-Experience]]"
+  - "[[mastery-experience]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -137,6 +137,6 @@ The Competence Need is deeply intertwined with other psychological needs like au
 
 **Sibling concepts:** [[autonomy-need]]
 
-**Applies to:** [[Mastery-Experience]]
+**Applies to:** [[mastery-experience]]
 
 **Source:** [[competence-need-synthetic-seed-2026-04-24]]

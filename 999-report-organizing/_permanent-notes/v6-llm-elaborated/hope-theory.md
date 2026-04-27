@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Positive Psychology"
 
 related:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
   - "[[Optimism]]"
 prerequisites:
   - "[[]]"
@@ -43,7 +43,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
   - "[[Optimism]]"
 contradicts:
   - "[[]]"
@@ -136,6 +136,6 @@ The theory's integration with Positive Psychology highlights its broader signifi
 
 **Falls under:** [[Positive Psychology]]
 
-**Contrasts with:** [[Self-Efficacy]] · [[Optimism]]
+**Contrasts with:** [[self-efficacy]] · [[Optimism]]
 
 **Source:** [[hope-theory-synthetic-seed-2026-04-26]]

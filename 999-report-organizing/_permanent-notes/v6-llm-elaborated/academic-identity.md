@@ -29,7 +29,7 @@ depth-level: enhanced
 parent-concept: Self-Regulated Learning
 related:
   - '[[self-concept]]'
-  - '[[Possible-Selves]]'
+  - '[[possible-selves]]'
   - '[[situated-learning-theory]]'
 prerequisites:
   - '[[]]'
@@ -40,7 +40,7 @@ broader:
 see-also:
   - '[[self-concept]]'
 contrasts-with:
-  - '[[Possible-Selves]]'
+  - '[[possible-selves]]'
 contradicts:
   - '[[]]'
 applies-to:
@@ -158,7 +158,7 @@ The integration of Academic Identity into broader educational frameworks highlig
 
 **Sibling concepts:** [[self-concept]]
 
-**Contrasts with:** [[Possible-Selves]]
+**Contrasts with:** [[possible-selves]]
 
 **Applies to:** [[situated-learning-theory]]
 

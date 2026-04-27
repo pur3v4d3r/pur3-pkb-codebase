@@ -36,7 +36,7 @@ depth-level: elaborated
 parent-concept: "Achievement Goal Theory"
 
 related:
-  - "[[Mastery vs Performance Goals]]"
+  - "[[mastery-vs-performance-goals]]"
   - "[[self-efficacy-theory]]"
   - "[[attribution-theory]]"
 prerequisites:
@@ -46,7 +46,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Mastery vs Performance Goals]]"
+  - "[[mastery-vs-performance-goals]]"
 contrasts-with:
   - "[[self-efficacy-theory]]"
 contradicts:
@@ -140,7 +140,7 @@ Self-handicapping intersects with other key concepts in educational psychology, 
 
 **Falls under:** [[achievement-goal-theory]]
 
-**Sibling concepts:** [[Mastery vs Performance Goals]]
+**Sibling concepts:** [[mastery-vs-performance-goals]]
 
 **Contrasts with:** [[self-efficacy-theory]]
 

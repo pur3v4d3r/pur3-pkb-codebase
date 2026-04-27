@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Elaborative Encoding]]"
-  - "[[Dual Coding Theory]]"
+  - "[[working-memory]]"
+  - "[[elaborative-encoding]]"
+  - "[[dual-coding-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,13 +49,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Elaborative Encoding]]"
+  - "[[elaborative-encoding]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Dual Coding Theory]]"
+  - "[[dual-coding-theory]]"
 refines:
   - "[[]]"
 
@@ -73,7 +73,7 @@ provenance:
 # Keyword Mnemonic Method
 
 > [!definition] **Keyword Mnemonic Method**
-> The Keyword Mnemonic Method is a vocabulary-learning strategy that pairs foreign words with phonetically similar native-language keywords to enhance memory through dual coding and elaborative encoding. It falls under [[Cognitive Architecture]], leveraging the principles of how our brain processes information to improve learning efficiency.
+> The Keyword Mnemonic Method is a vocabulary-learning strategy that pairs foreign words with phonetically similar native-language keywords to enhance memory through dual coding and elaborative encoding. It falls under [[cognitive-architecture]], leveraging the principles of how our brain processes information to improve learning efficiency.
 
 > [!attention] **Boundary**
 > This method focuses on the process of linking foreign words to their meanings using familiar keywords and mental imagery, excluding broader discussions on long-term retention strategies or other mnemonic techniques.
@@ -129,12 +129,12 @@ Moreover, the method's reliance on familiar keywords and mental imagery undersco
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Elaborative Encoding]]
+**Applies to:** [[elaborative-encoding]]
 
-**Supports:** [[Dual Coding Theory]]
+**Supports:** [[dual-coding-theory]]
 
 **Source:** [[keyword-mnemonic-method-synthetic-seed-2026-04-26]]

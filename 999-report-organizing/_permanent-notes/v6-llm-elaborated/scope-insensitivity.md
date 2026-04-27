@@ -34,7 +34,7 @@ parent-concept: "Decision Science"
 
 related:
   - "[[Identifiable-Victim Effect]]"
-  - "[[Affect Heuristic]]"
+  - "[[affect-heuristic]]"
   - "[[Contingent Valuation]]"
 prerequisites:
   - "[[]]"
@@ -46,7 +46,7 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[Identifiable-Victim Effect]]"
-  - "[[Affect Heuristic]]"
+  - "[[affect-heuristic]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Scope Insensitivity
 
 > [!definition] **Scope Insensitivity**
-> Scope Insensitivity refers to the phenomenon where individuals' willingness-to-pay for a public good does not significantly change despite variations in its scale, challenging traditional economic assumptions about valuation. It falls under [[Decision Science]], specifically within behavioral economics and decision-making frameworks.
+> Scope Insensitivity refers to the phenomenon where individuals' willingness-to-pay for a public good does not significantly change despite variations in its scale, challenging traditional economic assumptions about valuation. It falls under [[decision-science]], specifically within behavioral economics and decision-making frameworks.
 
 > [!attention] **Boundary**
 > This concept excludes other biases like loss aversion or the endowment effect and is specifically related to how individuals value quantities in contingent-valuation studies.
@@ -130,9 +130,9 @@ Moreover, by differentiating Scope Insensitivity from other judgment biases like
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
-**Contrasts with:** [[Identifiable-Victim Effect]] · [[Affect Heuristic]]
+**Contrasts with:** [[Identifiable-Victim Effect]] · [[affect-heuristic]]
 
 **Applies to:** [[Contingent Valuation]]
 

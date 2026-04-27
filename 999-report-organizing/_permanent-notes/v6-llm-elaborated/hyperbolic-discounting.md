@@ -33,7 +33,7 @@ parent-concept: "Decision-Science"
 
 related:
   - "[[Exponential Discounting]]"
-  - "[[Present Bias]]"
+  - "[[present-bias]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,7 +44,7 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[Exponential Discounting]]"
-  - "[[Present Bias]]"
+  - "[[present-bias]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Hyperbolic Discounting
 
 > [!definition] **Hyperbolic Discounting**
-> Hyperbolic Discounting is a behavioral economic phenomenon where the subjective value of future rewards declines steeply over short delays but more gradually over long ones, leading to preference reversals. It falls under [[Decision-Science]], as it formally predicts time-inconsistent preferences and is the leading mathematical account of self-control failures, procrastination, and addictive choice.
+> Hyperbolic Discounting is a behavioral economic phenomenon where the subjective value of future rewards declines steeply over short delays but more gradually over long ones, leading to preference reversals. It falls under [[decision-science]], as it formally predicts time-inconsistent preferences and is the leading mathematical account of self-control failures, procrastination, and addictive choice.
 
 > [!attention] **Boundary**
 > This concept excludes exponential discounting and other forms of time inconsistency that do not fit a hyperbolic function. It should not be confused with present bias or self-control failures in isolation.
@@ -134,8 +134,8 @@ The concept of Hyperbolic Discounting is deeply intertwined with other decision-
 
 ## Connections & Context
 
-**Falls under:** [[Decision-Science]]
+**Falls under:** [[decision-science]]
 
-**Contrasts with:** [[Exponential Discounting]] · [[Present Bias]]
+**Contrasts with:** [[Exponential Discounting]] · [[present-bias]]
 
 **Source:** [[hyperbolic-discounting-synthetic-seed-2026-04-25]]

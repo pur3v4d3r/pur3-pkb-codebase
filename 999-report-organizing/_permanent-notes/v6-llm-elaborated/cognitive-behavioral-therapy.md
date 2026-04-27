@@ -2,6 +2,7 @@
 title: "Cognitive Behavioral Therapy"
 aliases:
   - "Cognitive Behavioral Therapy"
+  - "Cognitive-Behavioral Therapy"
   - "CBT"
 type: permanent-note
 status: enriched
@@ -32,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Psychotherapy"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -135,8 +136,8 @@ The impact of CBT extends beyond individual treatment to influence broader psych
 
 **Falls under:** [[Psychotherapy]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-behavioral-therapy-synthetic-seed-2026-04-25]]

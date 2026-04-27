@@ -2,6 +2,7 @@
 title: "Post Traumatic Growth"
 aliases:
   - "Post Traumatic Growth"
+  - "Post-Traumatic Growth"
   - "PTG"
   - "Tedeschi-Calhoun PTG"
 type: permanent-note
@@ -33,12 +34,12 @@ depth-level: elaborated
 parent-concept: "Psychological Resilience"
 
 related:
-  - "[[Benefit-Finding]]"
+  - "[[benefit-finding]]"
   - "[[Resilience]]"
   - "[[Meaning-Making]]"
   - "[[Positive Psychology]]"
 prerequisites:
-  - "[[Benefit-Finding]]"
+  - "[[benefit-finding]]"
 specializes:
   - "[[]]"
 broader:
@@ -74,7 +75,7 @@ provenance:
 # Post Traumatic Growth
 
 > [!definition] **Post Traumatic Growth**
-> Post Traumatic Growth (PTG), formalized by Richard Tedeschi and Lawrence Calhoun, refers to positive psychological changes experienced as a result of coping with major life crises. It falls under [[Psychological Resilience]], focusing on transformative change rather than mere functional continuity through adversity.
+> Post Traumatic Growth (PTG), formalized by Richard Tedeschi and Lawrence Calhoun, refers to positive psychological changes experienced as a result of coping with major life crises. It falls under [[psychological-resilience]], focusing on transformative change rather than mere functional continuity through adversity.
 
 > [!attention] **Boundary**
 > PTG is distinct from resilience, focusing on transformative change rather than functional continuity through adversity.
@@ -137,9 +138,9 @@ PTG also has practical implications across various domains, including education,
 
 ## Connections & Context
 
-**Falls under:** [[Psychological Resilience]]
+**Falls under:** [[psychological-resilience]]
 
-**Prerequisites:** [[Benefit-Finding]]
+**Prerequisites:** [[benefit-finding]]
 
 **Sibling concepts:** [[Resilience]]
 

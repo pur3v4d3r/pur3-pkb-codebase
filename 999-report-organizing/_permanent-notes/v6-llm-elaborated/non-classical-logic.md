@@ -2,6 +2,7 @@
 title: "Non Classical Logic"
 aliases:
   - "Non Classical Logic"
+  - "Non-Classical Logic"
   - "alternative logics"
   - "non-classical systems"
 type: permanent-note
@@ -33,16 +34,16 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Modal Logic]]"
+  - "[[modal-logic]]"
   - "[[Intuitionistic Logic]]"
-  - "[[Formal Logic]]"
+  - "[[formal-logic]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Modal Logic]]"
+  - "[[modal-logic]]"
   - "[[Intuitionistic Logic]]"
 broader:
-  - "[[Formal Logic]]"
+  - "[[formal-logic]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -74,7 +75,7 @@ provenance:
 # Non Classical Logic
 
 > [!definition] **Non Classical Logic**
-> Non Classical Logic refers to formal systems that relax core assumptions of classical logic, such as bivalence or the law of excluded middle, to model phenomena not representable by classical logic. It falls under [[Formal Logic]], expanding its scope beyond the binary true/false framework to accommodate a wider range of logical reasoning and applications.
+> Non Classical Logic refers to formal systems that relax core assumptions of classical logic, such as bivalence or the law of excluded middle, to model phenomena not representable by classical logic. It falls under [[formal-logic]], expanding its scope beyond the binary true/false framework to accommodate a wider range of logical reasoning and applications.
 
 > [!attention] **Boundary**
 > This concept excludes classical two-valued logic and other formal systems that do not depart from its core assumptions. It should not be confused with informal reasoning or a rejection of logical rigor.
@@ -136,8 +137,8 @@ The importance of Non Classical Logic lies in its ability to bridge the gap betw
 
 ## Connections & Context
 
-**Specializes:** [[Modal Logic]] · [[Intuitionistic Logic]]
+**Specializes:** [[modal-logic]] · [[Intuitionistic Logic]]
 
-**Generalizes to:** [[Formal Logic]]
+**Generalizes to:** [[formal-logic]]
 
 **Source:** [[non-classical-logic-synthetic-seed-2026-04-25]]

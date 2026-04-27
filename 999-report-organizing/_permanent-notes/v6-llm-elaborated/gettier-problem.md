@@ -34,7 +34,7 @@ parent-concept: "Epistemology"
 
 related:
   - "[[Justified True Belief (JTB)]]"
-  - "[[Epistemic Luck]]"
+  - "[[epistemic-luck]]"
   - "[[Safety Condition]]"
   - "[[No-False-Lemmas Condition]]"
 prerequisites:
@@ -45,7 +45,7 @@ broader:
   - "[[]]"
 see-also:
   - "[[Justified True Belief (JTB)]]"
-  - "[[Epistemic Luck]]"
+  - "[[epistemic-luck]]"
   - "[[Safety Condition]]"
 contrasts-with:
   - "[[]]"
@@ -76,7 +76,7 @@ provenance:
 # Gettier Problem
 
 > [!definition] **Gettier Problem**
-> The Gettier Problem is a series of counterexamples that demonstrate how justified true beliefs can still fail to be knowledge due to specific forms of luck, challenging the traditional analysis of knowledge as justified true belief (JTB). It falls under [[Epistemology]], where it highlights the complexities in defining and achieving genuine knowledge.
+> The Gettier Problem is a series of counterexamples that demonstrate how justified true beliefs can still fail to be knowledge due to specific forms of luck, challenging the traditional analysis of knowledge as justified true belief (JTB). It falls under [[epistemology]], where it highlights the complexities in defining and achieving genuine knowledge.
 
 > [!attention] **Boundary**
 > This concept excludes cases where justification and truth are not in question, focusing on the specific form of luck involved in Gettier's examples.
@@ -133,9 +133,9 @@ The Gettier Problem is pivotal for contemporary epistemology because it reveals 
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
-**Sibling concepts:** [[Justified True Belief (JTB)]] · [[Epistemic Luck]] · [[Safety Condition]]
+**Sibling concepts:** [[Justified True Belief (JTB)]] · [[epistemic-luck]] · [[Safety Condition]]
 
 **Applies to:** [[No-False-Lemmas Condition]]
 

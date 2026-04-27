@@ -34,8 +34,8 @@ parent-concept: ""
 
 related:
   - "[[Peak-End Rule]]"
-  - "[[Affective Forecasting]]"
-  - "[[Savoring]]"
+  - "[[affective-forecasting]]"
+  - "[[savoring]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,8 +49,8 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Affective Forecasting]]"
-  - "[[Savoring]]"
+  - "[[affective-forecasting]]"
+  - "[[savoring]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,6 +133,6 @@ Hedonic adaptation is a crucial concept in positive psychology that has broad im
 
 **Contrasts with:** [[Peak-End Rule]]
 
-**Applies to:** [[Affective Forecasting]] · [[Savoring]]
+**Applies to:** [[affective-forecasting]] · [[savoring]]
 
 **Source:** [[hedonic-adaptation-synthetic-seed-2026-04-26]]

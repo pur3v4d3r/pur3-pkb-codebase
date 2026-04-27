@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Behavior-Change Techniques"
 
 related:
-  - "[[Goal-Setting Theory]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Implementation Intention]]"
-  - "[[Temptation Bundling]]"
+  - "[[goal-setting-theory]]"
+  - "[[self-determination-theory]]"
+  - "[[implementation-intention]]"
+  - "[[temptation-bundling]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,13 +45,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Goal-Setting Theory]]"
-  - "[[Self-Determination Theory]]"
+  - "[[goal-setting-theory]]"
+  - "[[self-determination-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implementation Intention]]"
-  - "[[Temptation Bundling]]"
+  - "[[implementation-intention]]"
+  - "[[temptation-bundling]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Habit Loop
 
 > [!definition] **Habit Loop**
-> The Habit Loop is a three-component cycle — cue (a triggering context or stimulus), routine (the automatized behavior), and reward (the outcome that reinforces the cue→routine link) — popularized by Charles Duhigg, which describes how deliberate behaviors become automatic over time. It falls under [[Behavior-Change Techniques]], focusing on stimulus-response learning rather than intentional goal pursuit.
+> The Habit Loop is a three-component cycle — cue (a triggering context or stimulus), routine (the automatized behavior), and reward (the outcome that reinforces the cue→routine link) — popularized by Charles Duhigg, which describes how deliberate behaviors become automatic over time. It falls under [[behavior-change-techniques]], focusing on stimulus-response learning rather than intentional goal pursuit.
 
 > [!attention] **Boundary**
 > This concept excludes goal-directed actions and focuses on stimulus-response learning rather than intentional goal pursuit.
@@ -137,10 +137,10 @@ The Habit Loop intersects with other concepts like Implementation Intention and 
 
 ## Connections & Context
 
-**Falls under:** [[Behavior-Change Techniques]]
+**Falls under:** [[behavior-change-techniques]]
 
-**Contrasts with:** [[Goal-Setting Theory]] · [[Self-Determination Theory]]
+**Contrasts with:** [[goal-setting-theory]] · [[self-determination-theory]]
 
-**Applies to:** [[Implementation Intention]] · [[Temptation Bundling]]
+**Applies to:** [[implementation-intention]] · [[temptation-bundling]]
 
 **Source:** [[habit-loop-synthetic-seed-2026-04-25]]

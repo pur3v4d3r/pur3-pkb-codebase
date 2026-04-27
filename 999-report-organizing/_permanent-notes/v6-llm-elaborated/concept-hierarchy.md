@@ -35,7 +35,7 @@ parent-concept: ""
 related:
   - "[[Semantic Network]]"
   - "[[Taxonomy Design]]"
-  - "[[Ontology Design]]"
+  - "[[ontology-design]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,7 +50,7 @@ contradicts:
   - "[[]]"
 applies-to:
   - "[[Taxonomy Design]]"
-  - "[[Ontology Design]]"
+  - "[[ontology-design]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -135,6 +135,6 @@ The importance of Concept Hierarchies extends beyond individual applications; th
 
 **Contrasts with:** [[Semantic Network]]
 
-**Applies to:** [[Taxonomy Design]] · [[Ontology Design]]
+**Applies to:** [[Taxonomy Design]] · [[ontology-design]]
 
 **Source:** [[concept-hierarchy-synthetic-seed-2026-04-25]]

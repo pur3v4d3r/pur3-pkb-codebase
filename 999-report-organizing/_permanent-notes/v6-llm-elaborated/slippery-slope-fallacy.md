@@ -34,7 +34,7 @@ depth-level: elaborated
 parent-concept: "Informal Fallacy"
 
 related:
-  - "[[False Dichotomy]]"
+  - "[[false-dichotomy]]"
   - "[[Causal Reasoning]]"
 prerequisites:
   - "[[]]"
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[False Dichotomy]]"
+  - "[[false-dichotomy]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -131,7 +131,7 @@ The concept of the Slippery Slope Fallacy intersects with other informal fallaci
 
 **Falls under:** [[Informal Fallacy]]
 
-**Sibling concepts:** [[False Dichotomy]]
+**Sibling concepts:** [[false-dichotomy]]
 
 **Applies to:** [[Causal Reasoning]]
 

@@ -32,16 +32,16 @@ depth-level: elaborated
 parent-concept: "Decision Science"
 
 related:
-  - "[[Loss Aversion]]"
-  - "[[Hyperbolic Discounting]]"
-  - "[[Prospect Theory]]"
+  - "[[loss-aversion]]"
+  - "[[hyperbolic-discounting]]"
+  - "[[prospect-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Loss Aversion]]"
-  - "[[Hyperbolic Discounting]]"
+  - "[[loss-aversion]]"
+  - "[[hyperbolic-discounting]]"
 broader:
-  - "[[Prospect Theory]]"
+  - "[[prospect-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -73,7 +73,7 @@ provenance:
 # Behavioral Economics
 
 > [!definition] **Behavioral Economics**
-> Behavioral Economics integrates psychological findings into economic models of decision-making, replacing the idealized rational agent with empirically grounded accounts of human behavior. It falls under [[Decision Science]], focusing on empirical observations of real-world choices and excluding purely theoretical constructs from classical economics.
+> Behavioral Economics integrates psychological findings into economic models of decision-making, replacing the idealized rational agent with empirically grounded accounts of human behavior. It falls under [[decision-science]], focusing on empirical observations of real-world choices and excluding purely theoretical constructs from classical economics.
 
 > [!attention] **Boundary**
 > It excludes purely theoretical constructs from classical economics and focuses on empirical observations of real-world choices.
@@ -133,10 +133,10 @@ The integration of Behavioral Economics into broader decision science also enhan
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
-**Specializes:** [[Loss Aversion]] · [[Hyperbolic Discounting]]
+**Specializes:** [[loss-aversion]] · [[hyperbolic-discounting]]
 
-**Generalizes to:** [[Prospect Theory]]
+**Generalizes to:** [[prospect-theory]]
 
 **Source:** [[behavioral-economics-synthetic-seed-2026-04-27]]

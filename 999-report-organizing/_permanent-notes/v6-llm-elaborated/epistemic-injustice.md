@@ -73,7 +73,7 @@ provenance:
 # Epistemic Injustice
 
 > [!definition] **Epistemic Injustice**
-> Epistemic Injustice is a family of distinctively epistemic wrongs that occur when individuals are wronged in their capacity as knowers — most prominently through testimonial and hermeneutical injustice, which fall under [[Social Epistemology]]. These injustices extend moral and political philosophy into the epistemic domain by identifying wrongs that are not reducible to material harm or general moral wrong but are constitutively epistemic — being wronged as a knower.
+> Epistemic Injustice is a family of distinctively epistemic wrongs that occur when individuals are wronged in their capacity as knowers — most prominently through testimonial and hermeneutical injustice, which fall under [[social-epistemology]]. These injustices extend moral and political philosophy into the epistemic domain by identifying wrongs that are not reducible to material harm or general moral wrong but are constitutively epistemic — being wronged as a knower.
 
 > [!attention] **Boundary**
 > This concept focuses on the specific harms to knowledge production and reception but does not encompass broader social or material injustices.
@@ -135,7 +135,7 @@ The broader impact of epistemic injustice extends beyond these specific domains 
 
 ## Connections & Context
 
-**Falls under:** [[Social Epistemology]]
+**Falls under:** [[social-epistemology]]
 
 **Specializes:** [[Testimonial Injustice]] · [[Hermeneutical Injustice]]
 

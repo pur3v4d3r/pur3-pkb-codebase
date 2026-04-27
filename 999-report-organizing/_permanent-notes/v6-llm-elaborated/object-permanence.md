@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Sensorimotor Stage]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -72,7 +72,7 @@ provenance:
 # Object Permanence
 
 > [!definition] **Object Permanence**
-> Object Permanence is the understanding that objects continue to exist even when they are no longer perceptible — out of sight, hearing, or touch. It falls under [[Cognitive Architecture]], as it represents a fundamental milestone in early cognitive development.
+> Object Permanence is the understanding that objects continue to exist even when they are no longer perceptible — out of sight, hearing, or touch. It falls under [[cognitive-architecture]], as it represents a fundamental milestone in early cognitive development.
 
 > [!attention] **Boundary**
 > This concept excludes motor and inhibitory demands of search tasks and focuses on the core understanding of object existence.
@@ -130,9 +130,9 @@ Subsequent research using violation-of-expectation paradigms has shown infants a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Sensorimotor Stage]]
 

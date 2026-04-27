@@ -31,10 +31,10 @@ depth-level: elaborated
 parent-concept: "Memory Testing"
 
 related:
-  - "[[Recognition Memory]]"
-  - "[[Free Recall]]"
-  - "[[Encoding Specificity Principle]]"
-  - "[[Transfer Appropriate Processing]]"
+  - "[[recognition-memory]]"
+  - "[[free-recall]]"
+  - "[[encoding-specificity-principle]]"
+  - "[[transfer-appropriate-processing]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,13 +44,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Recognition Memory]]"
-  - "[[Free Recall]]"
+  - "[[recognition-memory]]"
+  - "[[free-recall]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Encoding Specificity Principle]]"
-  - "[[Transfer Appropriate Processing]]"
+  - "[[encoding-specificity-principle]]"
+  - "[[transfer-appropriate-processing]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -138,8 +138,8 @@ Cued Recall also has practical implications for memory training programs, where 
 
 **Falls under:** [[Memory Testing]]
 
-**Contrasts with:** [[Recognition Memory]] · [[Free Recall]]
+**Contrasts with:** [[recognition-memory]] · [[free-recall]]
 
-**Applies to:** [[Encoding Specificity Principle]] · [[Transfer Appropriate Processing]]
+**Applies to:** [[encoding-specificity-principle]] · [[transfer-appropriate-processing]]
 
 **Source:** [[cued-recall-synthetic-seed-2026-04-25]]

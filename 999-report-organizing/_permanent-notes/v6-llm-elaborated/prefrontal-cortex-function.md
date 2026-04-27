@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Executive Attention Network]]"
+  - "[[working-memory]]"
+  - "[[executive-attention-network]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Executive Attention Network]]"
+  - "[[executive-attention-network]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -72,7 +72,7 @@ provenance:
 # Prefrontal Cortex Function
 
 > [!definition] **Prefrontal Cortex Function**
-> Prefrontal Cortex Function encompasses a cluster of higher-order cognitive operations including working memory, top-down attention control, and value-based decision-making, supported by the prefrontal cortex's dense reciprocal connections with sensory, motor, limbic, and subcortical systems. It falls under [[Cognitive Architecture]], providing the mechanistic substrate for cognitive control — the capacity to override prepotent responses in service of internally-represented goals.
+> Prefrontal Cortex Function encompasses a cluster of higher-order cognitive operations including working memory, top-down attention control, and value-based decision-making, supported by the prefrontal cortex's dense reciprocal connections with sensory, motor, limbic, and subcortical systems. It falls under [[cognitive-architecture]], providing the mechanistic substrate for cognitive control — the capacity to override prepotent responses in service of internally-represented goals.
 
 > [!attention] **Boundary**
 > This definition excludes lower-level sensory or motor functions but includes the interactions with limbic systems for emotional regulation.
@@ -126,10 +126,10 @@ The importance of Prefrontal Cortex Function extends beyond individual cognition
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Executive Attention Network]]
+**Sibling concepts:** [[executive-attention-network]]
 
 **Source:** [[prefrontal-cortex-function-synthetic-seed-2026-04-25]]

@@ -32,7 +32,7 @@ parent-concept: "Neuroplasticity"
 
 related:
   - "[[Critical-Period Plasticity]]"
-  - "[[Neurogenesis]]"
+  - "[[neurogenesis]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,7 +42,7 @@ broader:
 see-also:
   - "[[Critical-Period Plasticity]]"
 contrasts-with:
-  - "[[Neurogenesis]]"
+  - "[[neurogenesis]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -70,7 +70,7 @@ provenance:
 # Synaptic Pruning
 
 > [!definition] **Synaptic Pruning**
-> Synaptic Pruning is the developmental elimination of weak or unused synapses, mediated largely by microglia tagging underutilized connections for phagocytosis, that progressively sculpts an over-produced juvenile synaptic landscape into a sparser, more efficient adult network. This process primarily occurs in the first decade of life and continues into the mid-twenties for prefrontal regions, falling under [[Neuroplasticity]].
+> Synaptic Pruning is the developmental elimination of weak or unused synapses, mediated largely by microglia tagging underutilized connections for phagocytosis, that progressively sculpts an over-produced juvenile synaptic landscape into a sparser, more efficient adult network. This process primarily occurs in the first decade of life and continues into the mid-twenties for prefrontal regions, falling under [[neuroplasticity]].
 
 > [!attention] **Boundary**
 > This process primarily occurs in the first decade of life and continues into the mid-twenties for prefrontal regions. It is distinct from neurogenesis and critical-period plasticity but interacts with them.
@@ -124,10 +124,10 @@ Synaptic Pruning is a fundamental mechanism in brain development that shapes neu
 
 ## Connections & Context
 
-**Falls under:** [[Neuroplasticity]]
+**Falls under:** [[neuroplasticity]]
 
 **Sibling concepts:** [[Critical-Period Plasticity]]
 
-**Contrasts with:** [[Neurogenesis]]
+**Contrasts with:** [[neurogenesis]]
 
 **Source:** [[synaptic-pruning-synthetic-seed-2026-04-25]]

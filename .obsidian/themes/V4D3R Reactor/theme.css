@@ -1,0 +1,1917 @@
+/* ============================================================
+ * V4D3R REACTOR
+ * File: theme.css
+ * Version: 1.0.0
+ * Author: Pur3v4d3r
+ * License: MIT
+ * Min Obsidian: 1.4.0
+ *
+ * Purpose:
+ *   The cyberpunk/neon member of the V4D3R theme family.
+ *   Void-black backgrounds, neon red (#FF1E1E) primary accent,
+ *   static multi-layer glow effects on headings, borders, links,
+ *   and interactive elements. No breathing animations — all glows
+ *   are static box-shadow / text-shadow / filter: drop-shadow.
+ *
+ *   Companion themes: V4D3R Sanguine (noir editorial),
+ *                     V4D3R Cinder (polished card UI).
+ *
+ * Targets:
+ *   - Live Preview: yes
+ *   - Reading View: yes
+ *   - Mobile: yes (reduced glows on touch targets)
+ *
+ * Variables introduced (all prefixed --vr-* — override in snippet):
+ *   See PART 1 below for the full inventory.
+ *
+ * Dependencies: none (JetBrains Mono stack falls back to system fonts)
+ * Conflicts:    none known with other V4D3R themes (different prefix;
+ *               only one theme active at a time anyway)
+ *
+ * ─────────────────────────────────────────────────────────────
+ * TABLE OF CONTENTS
+ * ─────────────────────────────────────────────────────────────
+ *   PART 1:  Foundation Variables ..................... [VARS]
+ *   PART 2:  Base Typography .......................... [TYPE]
+ *   PART 3:  Obsidian Variable Overrides .............. [OVRD]
+ *   PART 4:  Reading Width & Text Formatting .......... [TEXT]
+ *   PART 5:  Workspace & Layout ....................... [LAYOUT]
+ *   PART 6:  File Explorer ........................... [EXPLORER]
+ *   PART 7:  Sidebars & Navigation ................... [NAV]
+ *   PART 8:  Status Bar .............................. [STATUS]
+ *   PART 9:  Modals, Popovers, Notices ............... [MODALS]
+ *   PART 10: Buttons & Interactive ................... [BUTTONS]
+ *   PART 11: Scrollbars ............................. [SCROLL]
+ *   PART 12: Search .................................. [SEARCH]
+ *   PART 13: Headings — Neon Glow ................... [HEADINGS]
+ *   PART 14: Inline Code ............................ [INLINE]
+ *   PART 15: Code Blocks — Neon Left Rule ........... [CODE]
+ *   PART 16: Brackets — Neon Glow ................... [BRACKETS]
+ *   PART 17: Tables ................................. [TABLES]
+ *   PART 18: Lists .................................. [LISTS]
+ *   PART 19: HR, Graph, Canvas ...................... [MISC]
+ *   PART 20: Metadata Container ..................... [META]
+ *   PART 21: Callouts — Neon Border ................. [CALLOUTS]
+ *   PART 22: Accessibility & Reduced Motion ......... [A11Y]
+ *   PART 23: Light Theme ........................... [LIGHT]
+ *   PART 24: Settings Page ......................... [SETTINGS]
+ * ============================================================ */
+
+
+/* ============================================================
+   PART 1: FOUNDATION VARIABLES [VARS]
+   ============================================================ */
+
+/* --- SECTION: 1.1 Color Palette — Neon Red Spectrum --- */
+
+.theme-dark,
+.theme-light,
+:root {
+  /* NEON RED SPECTRUM — fully saturated, vivid cyberpunk red */
+  --vr-red-neon:         #FF1E1E;   /* PRIMARY ACCENT — headings, glows, active states */
+  --vr-red-hot:          #FF4040;   /* secondary — link hover, H2, bright highlights */
+  --vr-red-core:         #CC0A0A;   /* deep — border rules, code left-bar */
+  --vr-red-ember:        #8C0000;   /* inactive accent, unresolved links */
+  --vr-red-pit:          #540000;   /* darkest — deep selection bg tint */
+  --vr-red-flare:        #FF6060;   /* brightest — extreme hover, checked state */
+
+  /* RED OPACITY VARIANTS */
+  --vr-red-alpha-05:     rgba(255, 30, 30, 0.05);
+  --vr-red-alpha-10:     rgba(255, 30, 30, 0.10);
+  --vr-red-alpha-20:     rgba(255, 30, 30, 0.20);
+  --vr-red-alpha-35:     rgba(255, 30, 30, 0.35);
+  --vr-red-alpha-55:     rgba(255, 30, 30, 0.55);
+
+  /* BLACK / VOID SPECTRUM — near-void with subtle cool blue tint */
+  --vr-void:             #020204;   /* absolute void — titlebar, deepest bg */
+  --vr-abyss:            #080A0D;   /* PRIMARY BACKGROUND */
+  --vr-graphite:         #0F1115;   /* secondary surface — sidebars, code bg */
+  --vr-slate:            #171B21;   /* card layer — modals, callout bg */
+  --vr-steel:            #1F242C;   /* raised surface — hover states */
+  --vr-charcoal:         #282E38;   /* hover bg for interactive items */
+
+  /* BLACK OPACITY VARIANTS */
+  --vr-void-alpha-50:    rgba(2, 2, 4, 0.50);
+  --vr-void-alpha-70:    rgba(2, 2, 4, 0.70);
+  --vr-void-alpha-85:    rgba(2, 2, 4, 0.85);
+
+  /* GREY SPECTRUM — cool blue-grey, crisp and cyberpunk */
+  --vr-grey-deep:        #2A3040;   /* borders, separators */
+  --vr-grey-gunmetal:    #3E4A5A;   /* inactive controls */
+  --vr-grey-mist:        #6A7A8E;   /* muted text */
+  --vr-grey-steel:       #94A8BC;   /* normal body text — WCAG AA on --vr-abyss */
+  --vr-grey-frost:       #B8CCE0;   /* emphasis text */
+  --vr-grey-snow:        #D8E8F4;   /* maximum emphasis */
+
+  /* GREY OPACITY VARIANTS */
+  --vr-grey-alpha-08:    rgba(100, 130, 160, 0.08);
+  --vr-grey-alpha-15:    rgba(100, 130, 160, 0.15);
+  --vr-grey-alpha-25:    rgba(100, 130, 160, 0.25);
+}
+
+/* --- SECTION: 1.2 Neon Glow System (static — no animation) --- */
+
+.theme-dark,
+.theme-light,
+:root {
+  /* BOX-SHADOW GLOW LAYERS (combine for intensity) */
+  --vr-glow-sm:          0 0 4px  rgba(255, 30, 30, 0.50);
+  --vr-glow-md:          0 0 10px rgba(255, 30, 30, 0.30);
+  --vr-glow-lg:          0 0 22px rgba(255, 30, 30, 0.18);
+  --vr-glow-xl:          0 0 44px rgba(255, 30, 30, 0.10);
+  --vr-glow-depth:       0 4px 16px rgba(2, 2, 4, 0.75);
+
+  /* COMPOSITE GLOW SHORTCUTS */
+  --vr-glow-3:           var(--vr-glow-sm), var(--vr-glow-md), var(--vr-glow-lg), var(--vr-glow-depth);
+  --vr-glow-4:           var(--vr-glow-sm), var(--vr-glow-md), var(--vr-glow-lg), var(--vr-glow-xl), var(--vr-glow-depth);
+
+  /* TEXT-SHADOW GLOW SYSTEM (cascading opacity, per heading level) */
+  --vr-text-glow-h1:     0 0 3px rgba(255, 30, 30, 0.90),
+                         0 0 8px rgba(255, 30, 30, 0.60),
+                         0 0 16px rgba(255, 30, 30, 0.35),
+                         0 0 30px rgba(255, 30, 30, 0.15);
+  --vr-text-glow-h2:     0 0 3px rgba(255, 30, 30, 0.80),
+                         0 0 8px rgba(255, 30, 30, 0.50),
+                         0 0 16px rgba(255, 30, 30, 0.25);
+  --vr-text-glow-h3:     0 0 3px rgba(255, 30, 30, 0.60),
+                         0 0 8px rgba(255, 30, 30, 0.35),
+                         0 0 14px rgba(255, 30, 30, 0.15);
+  --vr-text-glow-h4:     0 0 3px rgba(255, 30, 30, 0.40),
+                         0 0 8px rgba(255, 30, 30, 0.20);
+  --vr-text-glow-link:   0 0 4px rgba(255, 30, 30, 0.50),
+                         0 0 10px rgba(255, 30, 30, 0.25);
+  --vr-text-glow-subtle: 0 0 3px rgba(255, 30, 30, 0.30),
+                         0 0 6px rgba(255, 30, 30, 0.15);
+}
+
+/* --- SECTION: 1.3 Typography Scale --- */
+
+.theme-dark,
+.theme-light,
+:root {
+  /* FONT STACKS — all monospace, consistent with V4D3R family */
+  --vr-font-mono: "JetBrains Mono", "JetBrainsMono Nerd Font", "IBM Plex Mono", Consolas, "Courier New", monospace;
+
+  /* TYPE SIZES */
+  --vr-text-base:        17px;
+  --vr-text-sm:          0.875em;
+  --vr-text-xs:          0.80em;
+  --vr-text-lg:          1.10em;
+
+  /* HEADING SCALE */
+  --vr-h1-size:          2.00em;
+  --vr-h2-size:          1.55em;
+  --vr-h3-size:          1.30em;
+  --vr-h4-size:          1.15em;
+  --vr-h5-size:          1.00em;
+  --vr-h6-size:          0.92em;
+
+  /* WEIGHTS */
+  --vr-weight-light:     300;
+  --vr-weight-normal:    400;
+  --vr-weight-medium:    500;
+  --vr-weight-semibold:  600;
+  --vr-weight-bold:      700;
+
+  /* LINE HEIGHTS */
+  --vr-lh-tight:         1.30;
+  --vr-lh-normal:        1.65;
+  --vr-lh-relaxed:       1.85;
+
+  /* LETTER SPACING */
+  --vr-ls-tight:        -0.01em;
+  --vr-ls-normal:        0em;
+  --vr-ls-wide:          0.04em;
+  --vr-ls-wider:         0.08em;
+}
+
+/* --- SECTION: 1.4 Spacing Scale (4px base) --- */
+
+.theme-dark,
+.theme-light,
+:root {
+  --vr-sp-2xs:  2px;
+  --vr-sp-xs:   4px;
+  --vr-sp-sm:   8px;
+  --vr-sp-md:   14px;
+  --vr-sp-lg:   22px;
+  --vr-sp-xl:   32px;
+  --vr-sp-2xl:  48px;
+}
+
+/* --- SECTION: 1.5 Radius & Border Scale --- */
+
+.theme-dark,
+.theme-light,
+:root {
+  /* RADIUS — brutally sharp, cyber aesthetic */
+  --vr-radius-none: 0px;
+  --vr-radius-sm:   2px;   /* inline code, tags */
+  --vr-radius-md:   3px;   /* buttons, inputs */
+  --vr-radius-lg:   4px;   /* modals only */
+  --vr-radius-pill: 99px;  /* scrollbar thumb */
+
+  /* BORDER WIDTHS */
+  --vr-border-hair: 1px;
+  --vr-border-rule: 2px;
+  --vr-border-bold: 3px;   /* neon left-bar on code / callouts / headings */
+
+  /* TRANSITION SPEEDS */
+  --vr-transition-fast:   100ms ease;
+  --vr-transition-normal: 200ms ease;
+  --vr-transition-slow:   350ms ease;
+}
+
+/* --- SECTION END: PART-1 --- */
+
+
+/* ============================================================
+   PART 2: BASE TYPOGRAPHY [TYPE]
+   ============================================================ */
+
+body {
+  font-family:      var(--vr-font-mono);
+  font-size:        var(--vr-text-base);
+  font-weight:      var(--vr-weight-normal);
+  line-height:      var(--vr-lh-normal);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Editor (Live Preview + Source) */
+.cm-editor,
+.cm-editor .cm-content,
+.cm-editor .cm-line {
+  font-family: var(--vr-font-mono) !important; /* CodeMirror sets its own font-family inline; override required */
+  font-size:   var(--vr-text-base);
+}
+
+/* Reading view */
+.markdown-preview-view {
+  font-family: var(--vr-font-mono);
+  font-size:   var(--vr-text-base);
+  line-height: var(--vr-lh-normal);
+}
+
+/* Monospace — already mono, but ensure code inherits correctly */
+code, pre, kbd, samp,
+.cm-inline-code {
+  font-family: var(--vr-font-mono) !important; /* browser UA stylesheet sets monospace; must override for JetBrains Mono */
+}
+
+/* --- SECTION END: PART-2 --- */
+
+
+/* ============================================================
+   PART 3: OBSIDIAN VARIABLE OVERRIDES [OVRD]
+   Maps --vr-* tokens into Obsidian's native variable system
+   so plugins that read Obsidian vars get the Reactor palette.
+   ============================================================ */
+
+.theme-dark {
+  /* --- Backgrounds --- */
+  --background-primary:           var(--vr-abyss);
+  --background-primary-alt:       var(--vr-graphite);
+  --background-secondary:         var(--vr-graphite);
+  --background-secondary-alt:     var(--vr-slate);
+  --background-modifier-hover:    var(--vr-steel);
+  --background-modifier-active-hover: var(--vr-red-alpha-10);
+  --background-modifier-border:   var(--vr-grey-deep);
+  --background-modifier-error:    rgba(255, 30, 30, 0.15);
+  --background-modifier-success:  rgba(100, 200, 130, 0.12);
+  --background-modifier-message:  var(--vr-slate);
+
+  /* --- Text --- */
+  --text-normal:                  var(--vr-grey-steel);
+  --text-muted:                   var(--vr-grey-mist);
+  --text-faint:                   var(--vr-grey-gunmetal);
+  --text-on-accent:               var(--vr-grey-snow);
+  --text-error:                   var(--vr-red-neon);
+  --text-success:                 #64C882;
+  --text-selection:               var(--vr-red-alpha-20);
+  --text-accent:                  var(--vr-red-neon);
+  --text-accent-hover:            var(--vr-red-hot);
+
+  /* --- Color accents --- */
+  --color-accent:                 var(--vr-red-neon);
+  --color-accent-1:               var(--vr-red-hot);
+  --color-accent-2:               var(--vr-red-core);
+  --interactive-accent:           var(--vr-red-neon);
+  --interactive-accent-hover:     var(--vr-red-hot);
+
+  /* --- Interactive normal states --- */
+  --interactive-normal:           var(--vr-graphite);
+  --interactive-hover:            var(--vr-steel);
+
+  /* --- Base color scale (color-base-00 = darkest) --- */
+  --color-base-00:  var(--vr-void);
+  --color-base-05:  var(--vr-abyss);
+  --color-base-10:  var(--vr-graphite);
+  --color-base-20:  var(--vr-slate);
+  --color-base-25:  var(--vr-steel);
+  --color-base-30:  var(--vr-charcoal);
+  --color-base-35:  var(--vr-grey-deep);
+  --color-base-40:  var(--vr-grey-gunmetal);
+  --color-base-50:  var(--vr-grey-mist);
+  --color-base-60:  var(--vr-grey-steel);
+  --color-base-70:  var(--vr-grey-frost);
+  --color-base-100: var(--vr-grey-snow);
+
+  /* --- Semantic colors --- */
+  --color-red:    var(--vr-red-neon);
+  --color-orange: #FF7A30;
+  --color-yellow: #FFD230;
+  --color-green:  #4FC880;
+  --color-cyan:   #30C8D0;
+  --color-blue:   #4090E0;
+  --color-purple: #A060D0;
+  --color-pink:   #E060A0;
+
+  /* --- Callout + code component tokens --- */
+  --callout-border-width:         var(--vr-border-bold);
+  --callout-border-opacity:       0.8;
+  --code-background:              var(--vr-graphite);
+  --code-normal:                  var(--vr-grey-frost);
+  --code-comment:                 var(--vr-grey-mist);
+  --code-tag:                     var(--vr-red-neon);
+  --code-string:                  var(--vr-red-hot);
+  --code-value:                   var(--vr-red-flare);
+  --code-keyword:                 var(--vr-red-neon);
+  --code-operator:                var(--vr-grey-frost);
+  --code-property:                var(--vr-grey-snow);
+  --code-punctuation:             var(--vr-grey-steel);
+
+  /* --- Link tokens --- */
+  --link-color:                   var(--vr-red-neon);
+  --link-color-hover:             var(--vr-red-hot);
+  --link-unresolved-color:        var(--vr-red-ember);
+  --link-external-color:          var(--vr-red-hot);
+  --link-external-color-hover:    var(--vr-red-flare);
+
+  /* --- Tag tokens --- */
+  --tag-color:                    var(--vr-grey-frost);
+  --tag-background:               var(--vr-red-alpha-05);
+  --tag-border-color:             var(--vr-red-core);
+
+  /* --- Graph --- */
+  --graph-line:                   var(--vr-grey-gunmetal);
+  --graph-text:                   var(--vr-grey-mist);
+  --graph-node:                   var(--vr-grey-steel);
+  --graph-node-focused:           var(--vr-red-neon);
+  --graph-node-tag:               var(--vr-red-core);
+  --graph-node-attachment:        var(--vr-grey-gunmetal);
+  --graph-node-unresolved:        var(--vr-red-ember);
+
+  /* --- Checkbox --- */
+  --checkbox-color:               var(--vr-red-neon);
+  --checkbox-border-color:        var(--vr-grey-gunmetal);
+  --checkbox-color-hover:         var(--vr-red-hot);
+
+  /* --- Table --- */
+  --table-header-background:      var(--vr-slate);
+  --table-row-alt-background:     var(--vr-graphite);
+  --table-border-color:           var(--vr-grey-deep);
+
+  /* --- Titlebar --- */
+  --titlebar-background:          var(--vr-void);
+  --titlebar-background-focused:  var(--vr-void);
+  --titlebar-text-color:          var(--vr-grey-mist);
+  --titlebar-text-color-focused:  var(--vr-grey-frost);
+}
+
+/* --- SECTION END: PART-3 --- */
+
+
+/* ============================================================
+   PART 4: READING WIDTH & TEXT FORMATTING [TEXT]
+   ============================================================ */
+
+/* --- SECTION: 4.1 Reading Width --- */
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-contentContainer {
+  max-width: 110ch;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+/* --- SECTION: 4.2 Text Formatting --- */
+
+.theme-dark strong,
+.theme-dark .cm-strong {
+  color:       var(--vr-grey-snow);
+  font-weight: var(--vr-weight-bold);
+}
+
+.theme-dark em,
+.theme-dark .cm-em {
+  color:      var(--vr-grey-frost);
+  font-style: italic;
+}
+
+.theme-dark mark,
+.theme-dark .cm-highlight {
+  background: var(--vr-red-alpha-20);
+  color:      var(--vr-grey-snow);
+  border-radius: var(--vr-radius-sm);
+  padding: 0 2px;
+}
+
+/* Selection */
+.theme-dark ::selection {
+  background: var(--vr-red-alpha-20);
+  color:      var(--vr-grey-snow);
+}
+
+.theme-dark .cm-line ::selection {
+  background: var(--vr-red-alpha-20) !important; /* CodeMirror 6 applies its own ::selection; must override */
+}
+
+/* Strikethrough */
+.theme-dark s,
+.theme-dark del,
+.theme-dark .cm-strikethrough {
+  color:           var(--vr-grey-gunmetal);
+  text-decoration: line-through;
+}
+
+/* Horizontal rule — styled in PART 19 */
+
+/* --- SECTION END: PART-4 --- */
+
+
+/* ============================================================
+   PART 5: WORKSPACE & LAYOUT [LAYOUT]
+   ============================================================ */
+
+/* --- SECTION: 5.1 App Chrome --- */
+
+.theme-dark .app-container {
+  background: var(--vr-void);
+}
+
+.theme-dark .workspace {
+  background: var(--vr-abyss);
+}
+
+/* Workspace split resize handles */
+.theme-dark .workspace-split.mod-horizontal > .workspace-split-handle,
+.theme-dark .workspace-split.mod-vertical > .workspace-split-handle {
+  background: var(--vr-grey-deep);
+  transition: background var(--vr-transition-fast);
+}
+.theme-dark .workspace-split.mod-horizontal > .workspace-split-handle:hover,
+.theme-dark .workspace-split.mod-vertical > .workspace-split-handle:hover {
+  background: var(--vr-red-core);
+}
+
+/* --- SECTION: 5.2 Workspace Leaf --- */
+
+.theme-dark .workspace-leaf {
+  background: var(--vr-abyss);
+}
+
+.theme-dark .workspace-leaf-content {
+  background: var(--vr-abyss);
+}
+
+/* Active leaf — subtle neon left border */
+.theme-dark .workspace-leaf.mod-active > .workspace-leaf-resize-handle {
+  background: var(--vr-red-core);
+}
+
+/* --- SECTION: 5.3 Tab Header Bar --- */
+
+.theme-dark .workspace-tab-header-container {
+  background:    var(--vr-void);
+  border-bottom: var(--vr-border-hair) solid var(--vr-grey-deep);
+}
+
+.theme-dark .workspace-tab-header {
+  background:  var(--vr-void);
+  color:       var(--vr-grey-mist);
+  border-right: var(--vr-border-hair) solid var(--vr-grey-deep);
+  transition:  color var(--vr-transition-fast),
+               background var(--vr-transition-fast);
+}
+
+.theme-dark .workspace-tab-header:hover {
+  background: var(--vr-graphite);
+  color:      var(--vr-grey-frost);
+}
+
+.theme-dark .workspace-tab-header.is-active {
+  background: var(--vr-abyss);
+  color:      var(--vr-grey-snow);
+  border-bottom: var(--vr-border-rule) solid var(--vr-red-neon);
+  /* Neon glow on active tab indicator */
+  box-shadow: 0 2px 8px rgba(255, 30, 30, 0.30);
+}
+
+/* View header (note title bar) */
+.theme-dark .view-header {
+  background:    var(--vr-void);
+  border-bottom: var(--vr-border-hair) solid var(--vr-grey-deep);
+}
+
+.theme-dark .view-header-title {
+  color:       var(--vr-grey-frost);
+  font-weight: var(--vr-weight-semibold);
+  letter-spacing: var(--vr-ls-wide);
+}
+
+/* Inline title (show-inline-title feature) */
+.theme-dark .inline-title {
+  color:          var(--vr-red-neon);
+  font-weight:    var(--vr-weight-bold);
+  text-shadow:    var(--vr-text-glow-h1);
+  letter-spacing: var(--vr-ls-tight);
+}
+
+/* --- SECTION END: PART-5 --- */
+
+
+/* ============================================================
+   PART 6: FILE EXPLORER [EXPLORER]
+   ============================================================ */
+
+/* --- SECTION: 6.1 Explorer Container --- */
+
+.theme-dark .nav-files-container,
+.theme-dark .tree-item-children {
+  background: var(--vr-graphite);
+}
+
+/* --- SECTION: 6.2 Folder Titles --- */
+
+.theme-dark .nav-folder-title {
+  color:          var(--vr-grey-steel);
+  font-weight:    var(--vr-weight-semibold);
+  letter-spacing: var(--vr-ls-wide);
+  padding:        var(--vr-sp-xs) var(--vr-sp-sm);
+  border-radius:  var(--vr-radius-none);
+  transition:     color var(--vr-transition-fast),
+                  background var(--vr-transition-fast);
+}
+
+.theme-dark .nav-folder-title:hover {
+  color:      var(--vr-grey-frost);
+  background: var(--vr-steel);
+}
+
+.theme-dark .nav-folder.is-collapsed .nav-folder-title {
+  color: var(--vr-grey-mist);
+}
+
+/* Collapse arrow */
+.theme-dark .nav-folder-collapse-indicator {
+  color: var(--vr-grey-gunmetal);
+  transition: color var(--vr-transition-fast);
+}
+.theme-dark .nav-folder-title:hover .nav-folder-collapse-indicator {
+  color: var(--vr-red-core);
+}
+
+/* --- SECTION: 6.3 File Titles --- */
+
+.theme-dark .nav-file-title {
+  color:         var(--vr-grey-steel);
+  padding:       var(--vr-sp-xs) var(--vr-sp-sm);
+  border-radius: var(--vr-radius-none);
+  transition:    color var(--vr-transition-fast),
+                 background var(--vr-transition-fast),
+                 border var(--vr-transition-fast);
+}
+
+.theme-dark .nav-file-title:hover {
+  color:      var(--vr-grey-frost);
+  background: var(--vr-steel);
+}
+
+/* Active file — neon left border + glow */
+.theme-dark .nav-file-title.is-active {
+  color:        var(--vr-red-neon);
+  background:   var(--vr-red-alpha-05);
+  border-left:  var(--vr-border-bold) solid var(--vr-red-neon);
+  box-shadow:   -4px 0 12px rgba(255, 30, 30, 0.25);
+  text-shadow:  var(--vr-text-glow-subtle);
+}
+
+/* --- SECTION: 6.4 Indent Guides --- */
+
+.theme-dark .nav-indentation-guide {
+  border-left: var(--vr-border-hair) solid var(--vr-grey-deep);
+}
+
+.theme-dark .nav-indentation-guide:hover {
+  border-left-color: var(--vr-red-core);
+}
+
+/* --- SECTION END: PART-6 --- */
+
+
+/* ============================================================
+   PART 7: SIDEBARS & NAVIGATION [NAV]
+   ============================================================ */
+
+/* --- SECTION: 7.1 Sidebars --- */
+
+.theme-dark .workspace-sidedock-vault-profile,
+.theme-dark .workspace-ribbon,
+.theme-dark .side-dock-ribbon {
+  background:    var(--vr-void);
+  border-right:  var(--vr-border-hair) solid var(--vr-grey-deep);
+}
+
+.theme-dark .side-dock {
+  background: var(--vr-graphite);
+}
+
+/* --- SECTION: 7.2 Ribbon Action Buttons --- */
+
+.theme-dark .side-dock-ribbon-action {
+  color:      var(--vr-grey-gunmetal);
+  transition: color var(--vr-transition-fast);
+}
+
+.theme-dark .side-dock-ribbon-action:hover {
+  color: var(--vr-red-neon);
+}
+
+.theme-dark .side-dock-ribbon-action.is-active {
+  color: var(--vr-red-neon);
+  filter: drop-shadow(0 0 4px rgba(255, 30, 30, 0.60));
+}
+
+/* --- SECTION: 7.3 View Headers --- */
+
+.theme-dark .nav-header {
+  background:    var(--vr-graphite);
+  border-bottom: var(--vr-border-hair) solid var(--vr-grey-deep);
+  padding:       var(--vr-sp-sm) var(--vr-sp-md);
+}
+
+.theme-dark .nav-action-button {
+  color: var(--vr-grey-mist);
+  transition: color var(--vr-transition-fast);
+}
+.theme-dark .nav-action-button:hover {
+  color: var(--vr-red-neon);
+}
+
+/* Pane heading text */
+.theme-dark .view-header-nav-buttons {
+  color: var(--vr-grey-mist);
+}
+
+/* --- SECTION END: PART-7 --- */
+
+
+/* ============================================================
+   PART 8: STATUS BAR [STATUS]
+   ============================================================ */
+
+.theme-dark .status-bar {
+  background:  var(--vr-void);
+  border-top:  var(--vr-border-hair) solid var(--vr-grey-deep);
+  color:       var(--vr-grey-gunmetal);
+  font-size:   var(--vr-text-xs);
+  letter-spacing: var(--vr-ls-wide);
+}
+
+.theme-dark .status-bar-item {
+  color: var(--vr-grey-mist);
+  transition: color var(--vr-transition-fast);
+}
+
+.theme-dark .status-bar-item:hover {
+  color: var(--vr-red-neon);
+}
+
+/* --- SECTION END: PART-8 --- */
+
+
+/* ============================================================
+   PART 9: MODALS, POPOVERS, NOTICES [MODALS]
+   ============================================================ */
+
+/* --- SECTION: 9.1 Modal Base --- */
+
+.theme-dark .modal {
+  background:    var(--vr-slate);
+  border:        var(--vr-border-hair) solid var(--vr-grey-deep);
+  border-radius: var(--vr-radius-lg);
+  box-shadow:    0 0 40px rgba(2, 2, 4, 0.85),
+                 0 0 20px rgba(255, 30, 30, 0.08),
+                 0 16px 48px rgba(2, 2, 4, 0.70);
+}
+
+.theme-dark .modal-title {
+  color:          var(--vr-grey-snow);
+  font-weight:    var(--vr-weight-bold);
+  letter-spacing: var(--vr-ls-wide);
+  border-bottom:  var(--vr-border-hair) solid var(--vr-grey-deep);
+  padding-bottom: var(--vr-sp-sm);
+}
+
+/* --- SECTION: 9.2 Command Palette --- */
+
+.theme-dark .prompt {
+  background:    var(--vr-slate);
+  border:        var(--vr-border-hair) solid var(--vr-grey-deep);
+  border-radius: var(--vr-radius-lg);
+  box-shadow:    0 0 40px rgba(2, 2, 4, 0.85),
+                 0 0 24px rgba(255, 30, 30, 0.10),
+                 0 16px 48px rgba(2, 2, 4, 0.70);
+}
+
+.theme-dark .prompt-input-container {
+  background:    var(--vr-graphite);
+  border-bottom: var(--vr-border-hair) solid var(--vr-grey-deep);
+}
+
+.theme-dark .prompt-input {
+  background: transparent;
+  color:      var(--vr-grey-snow);
+  font-family: var(--vr-font-mono);
+}
+
+/* --- SECTION: 9.3 Suggestion Items --- */
+
+.theme-dark .suggestion-item {
+  color:      var(--vr-grey-steel);
+  border-radius: var(--vr-radius-none);
+  transition: background var(--vr-transition-fast),
+              border var(--vr-transition-fast);
+}
+
+.theme-dark .suggestion-item:hover {
+  background: var(--vr-steel);
+  color:      var(--vr-grey-frost);
+}
+
+.theme-dark .suggestion-item.is-selected {
+  background:  var(--vr-red-alpha-10);
+  color:       var(--vr-red-neon);
+  border-left: var(--vr-border-bold) solid var(--vr-red-neon);
+  box-shadow:  -4px 0 10px rgba(255, 30, 30, 0.20);
+}
+
+.theme-dark .suggestion-highlight {
+  color:       var(--vr-red-neon);
+  font-weight: var(--vr-weight-bold);
+}
+
+/* --- SECTION: 9.4 Notices --- */
+
+.theme-dark .notice {
+  background:    var(--vr-slate);
+  border:        var(--vr-border-hair) solid var(--vr-grey-deep);
+  color:         var(--vr-grey-frost);
+  border-radius: var(--vr-radius-md);
+  box-shadow:    var(--vr-glow-3);
+}
+
+/* --- SECTION: 9.5 Popovers (hover previews) --- */
+
+.theme-dark .popover {
+  background:    var(--vr-slate);
+  border:        var(--vr-border-hair) solid var(--vr-grey-deep);
+  border-radius: var(--vr-radius-lg);
+  box-shadow:    0 8px 32px rgba(2, 2, 4, 0.70),
+                 0 0 16px rgba(255, 30, 30, 0.08);
+}
+
+/* --- SECTION END: PART-9 --- */
+
+
+/* ============================================================
+   PART 10: BUTTONS & INTERACTIVE [BUTTONS]
+   ============================================================ */
+
+/* --- SECTION: 10.1 Default Buttons --- */
+
+.theme-dark .button,
+.theme-dark button,
+.theme-dark .clickable-icon {
+  font-family:   var(--vr-font-mono);
+  border-radius: var(--vr-radius-md);
+  transition:    background var(--vr-transition-fast),
+                 color var(--vr-transition-fast),
+                 box-shadow var(--vr-transition-fast);
+}
+
+.theme-dark button:not(.mod-cta):not(.mod-warning) {
+  background:    var(--vr-slate);
+  color:         var(--vr-grey-frost);
+  border:        var(--vr-border-hair) solid var(--vr-grey-deep);
+}
+
+.theme-dark button:not(.mod-cta):not(.mod-warning):hover {
+  background:  var(--vr-steel);
+  color:       var(--vr-grey-snow);
+  border-color: var(--vr-grey-gunmetal);
+}
+
+/* --- SECTION: 10.2 CTA (primary) Buttons --- */
+
+.theme-dark button.mod-cta {
+  background:   var(--vr-red-core);
+  color:        var(--vr-grey-snow);
+  border:       var(--vr-border-hair) solid var(--vr-red-neon);
+  box-shadow:   var(--vr-glow-sm), var(--vr-glow-md);
+}
+
+.theme-dark button.mod-cta:hover {
+  background:  var(--vr-red-neon);
+  border-color: var(--vr-red-flare);
+  box-shadow:   var(--vr-glow-3);
+}
+
+/* --- SECTION: 10.3 Warning Buttons --- */
+
+.theme-dark button.mod-warning {
+  background: rgba(255, 30, 30, 0.15);
+  color:      var(--vr-red-flare);
+  border:     var(--vr-border-hair) solid var(--vr-red-core);
+}
+
+.theme-dark button.mod-warning:hover {
+  background: rgba(255, 30, 30, 0.25);
+  box-shadow: var(--vr-glow-sm);
+}
+
+/* --- SECTION: 10.4 Form Inputs --- */
+
+.theme-dark input[type="text"],
+.theme-dark input[type="search"],
+.theme-dark input[type="email"],
+.theme-dark input[type="password"],
+.theme-dark textarea,
+.theme-dark select {
+  background:    var(--vr-slate);
+  color:         var(--vr-grey-frost);
+  border:        var(--vr-border-hair) solid var(--vr-grey-deep);
+  border-radius: var(--vr-radius-md);
+  font-family:   var(--vr-font-mono);
+  transition:    border-color var(--vr-transition-fast),
+                 box-shadow var(--vr-transition-fast);
+}
+
+.theme-dark input[type="text"]:focus,
+.theme-dark input[type="search"]:focus,
+.theme-dark textarea:focus {
+  border-color: var(--vr-red-neon);
+  box-shadow:   0 0 0 2px var(--vr-red-alpha-20),
+                var(--vr-glow-sm);
+  outline:      none;
+}
+
+/* Toggle switches */
+.theme-dark .checkbox-container {
+  background: var(--vr-grey-gunmetal);
+  border-radius: var(--vr-radius-pill);
+  transition: background var(--vr-transition-normal);
+}
+
+.theme-dark .checkbox-container.is-enabled {
+  background: var(--vr-red-core);
+  box-shadow: var(--vr-glow-sm);
+}
+
+/* --- SECTION END: PART-10 --- */
+
+
+/* ============================================================
+   PART 11: SCROLLBARS [SCROLL]
+   ============================================================ */
+
+.theme-dark ::-webkit-scrollbar {
+  width:  6px;
+  height: 6px;
+}
+
+.theme-dark ::-webkit-scrollbar-track {
+  background:    transparent;
+  border-radius: var(--vr-radius-pill);
+}
+
+.theme-dark ::-webkit-scrollbar-thumb {
+  background:    var(--vr-grey-deep);
+  border-radius: var(--vr-radius-pill);
+  transition:    background var(--vr-transition-fast);
+}
+
+.theme-dark ::-webkit-scrollbar-thumb:hover {
+  background: var(--vr-red-ember);
+}
+
+.theme-dark ::-webkit-scrollbar-thumb:active {
+  background: var(--vr-red-neon);
+  box-shadow: 0 0 6px rgba(255, 30, 30, 0.50);
+}
+
+.theme-dark ::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+/* --- SECTION END: PART-11 --- */
+
+
+/* ============================================================
+   PART 12: SEARCH [SEARCH]
+   ============================================================ */
+
+.theme-dark .search-input-container {
+  background:    var(--vr-graphite);
+  border:        var(--vr-border-hair) solid var(--vr-grey-deep);
+  border-radius: var(--vr-radius-md);
+}
+
+.theme-dark .search-input {
+  background:  transparent;
+  color:       var(--vr-grey-frost);
+  font-family: var(--vr-font-mono);
+}
+
+.theme-dark .search-input:focus {
+  outline: none;
+}
+
+.theme-dark .search-input-container:focus-within {
+  border-color: var(--vr-red-neon);
+  box-shadow:   0 0 0 2px var(--vr-red-alpha-10),
+                var(--vr-glow-sm);
+}
+
+/* Search result items */
+.theme-dark .search-result-file-title {
+  color:       var(--vr-red-neon);
+  font-weight: var(--vr-weight-semibold);
+  text-shadow: var(--vr-text-glow-subtle);
+}
+
+.theme-dark .search-result-file-match {
+  color:         var(--vr-grey-steel);
+  border-radius: var(--vr-radius-none);
+  transition:    background var(--vr-transition-fast),
+                 border var(--vr-transition-fast);
+}
+
+.theme-dark .search-result-file-match:hover {
+  background:  var(--vr-steel);
+  border-left: var(--vr-border-bold) solid var(--vr-red-core);
+}
+
+.theme-dark .search-result-file-matched-text {
+  background:  var(--vr-red-alpha-20);
+  color:       var(--vr-grey-snow);
+  border-radius: var(--vr-radius-sm);
+}
+
+/* --- SECTION END: PART-12 --- */
+
+
+/* ============================================================
+   PART 13: HEADINGS — NEON GLOW [HEADINGS]
+   Primary neon showcase of the Reactor theme.
+   Both Live Preview (.HyperMD-header-*) and Reading View
+   (.markdown-preview-view h*) are fully covered.
+   ============================================================ */
+
+/* --- SECTION: 13.1 Common Heading Reset --- */
+
+.theme-dark .HyperMD-header,
+.theme-dark .markdown-preview-view h1,
+.theme-dark .markdown-preview-view h2,
+.theme-dark .markdown-preview-view h3,
+.theme-dark .markdown-preview-view h4,
+.theme-dark .markdown-preview-view h5,
+.theme-dark .markdown-preview-view h6 {
+  font-family: var(--vr-font-mono);
+  margin-top:  var(--vr-sp-lg);
+  line-height: var(--vr-lh-tight);
+}
+
+/* --- SECTION: 13.2 H1 — Full 4-layer neon glow, red --- */
+
+.theme-dark .HyperMD-header-1,
+.theme-dark .markdown-preview-view h1 {
+  font-size:      var(--vr-h1-size);
+  font-weight:    var(--vr-weight-bold);
+  color:          var(--vr-red-neon);
+  text-shadow:    var(--vr-text-glow-h1);
+  letter-spacing: var(--vr-ls-tight);
+  padding-left:   var(--vr-sp-md);
+  border-left:    var(--vr-border-bold) solid var(--vr-red-neon);
+  /* Neon glow bleeds from left bar */
+  box-shadow:     -4px 0 16px rgba(255, 30, 30, 0.40),
+                  -2px 0 6px rgba(255, 30, 30, 0.60);
+  margin-bottom:  var(--vr-sp-sm);
+}
+
+/* --- SECTION: 13.3 H2 — 3-layer glow, red-hot --- */
+
+.theme-dark .HyperMD-header-2,
+.theme-dark .markdown-preview-view h2 {
+  font-size:      var(--vr-h2-size);
+  font-weight:    var(--vr-weight-semibold);
+  color:          var(--vr-red-hot);
+  text-shadow:    var(--vr-text-glow-h2);
+  letter-spacing: var(--vr-ls-tight);
+  padding-left:   var(--vr-sp-sm);
+  border-left:    var(--vr-border-rule) solid var(--vr-red-core);
+  box-shadow:     -3px 0 10px rgba(255, 30, 30, 0.25),
+                  -1px 0 4px rgba(255, 30, 30, 0.40);
+  margin-bottom:  var(--vr-sp-xs);
+}
+
+/* --- SECTION: 13.4 H3 — 2-layer glow, grey-frost (reduces glow fatigue) --- */
+
+.theme-dark .HyperMD-header-3,
+.theme-dark .markdown-preview-view h3 {
+  font-size:      var(--vr-h3-size);
+  font-weight:    var(--vr-weight-semibold);
+  color:          var(--vr-grey-frost);
+  text-shadow:    var(--vr-text-glow-h3);
+  letter-spacing: var(--vr-ls-normal);
+  padding-left:   var(--vr-sp-sm);
+  border-left:    var(--vr-border-rule) solid var(--vr-grey-deep);
+}
+
+/* --- SECTION: 13.5 H4 — subtle 1-layer glow, italic --- */
+
+.theme-dark .HyperMD-header-4,
+.theme-dark .markdown-preview-view h4 {
+  font-size:   var(--vr-h4-size);
+  font-weight: var(--vr-weight-medium);
+  font-style:  italic;
+  color:       var(--vr-grey-steel);
+  text-shadow: var(--vr-text-glow-h4);
+}
+
+/* --- SECTION: 13.6 H5 — no glow, uppercase tracking --- */
+
+.theme-dark .HyperMD-header-5,
+.theme-dark .markdown-preview-view h5 {
+  font-size:      var(--vr-h5-size);
+  font-weight:    var(--vr-weight-medium);
+  color:          var(--vr-grey-mist);
+  text-transform: uppercase;
+  letter-spacing: var(--vr-ls-wider);
+  text-shadow:    none;
+}
+
+/* --- SECTION: 13.7 H6 — minimal, italic, no glow --- */
+
+.theme-dark .HyperMD-header-6,
+.theme-dark .markdown-preview-view h6 {
+  font-size:   var(--vr-h6-size);
+  font-weight: var(--vr-weight-normal);
+  font-style:  italic;
+  color:       var(--vr-grey-gunmetal);
+  text-shadow: none;
+}
+
+/* --- SECTION END: PART-13 --- */
+
+
+/* ============================================================
+   PART 14: INLINE CODE [INLINE]
+   ============================================================ */
+
+/* Live Preview inline code */
+.theme-dark .cm-inline-code,
+.theme-dark .cm-s-obsidian .cm-inline-code {
+  background:    var(--vr-graphite);
+  color:         var(--vr-red-neon) !important; /* override CodeMirror default */
+  text-shadow:   var(--vr-text-glow-subtle);
+  border-radius: var(--vr-radius-sm);
+  padding:       1px 4px;
+}
+
+/* Reading View inline code */
+.theme-dark .markdown-preview-view code:not(pre code) {
+  background:    var(--vr-graphite);
+  color:         var(--vr-red-neon);
+  text-shadow:   var(--vr-text-glow-subtle);
+  border-radius: var(--vr-radius-sm);
+  border:        var(--vr-border-hair) solid var(--vr-red-alpha-20);
+  padding:       1px 5px;
+}
+
+/* --- SECTION END: PART-14 --- */
+
+
+/* ============================================================
+   PART 15: CODE BLOCKS — NEON LEFT RULE [CODE]
+   ============================================================ */
+
+/* --- SECTION: 15.1 Code Block Container --- */
+
+/* Live Preview */
+.theme-dark .HyperMD-codeblock,
+.theme-dark .cm-s-obsidian .HyperMD-codeblock {
+  background: var(--vr-graphite);
+}
+
+/* Reading View */
+.theme-dark .markdown-preview-view pre {
+  background:    var(--vr-graphite);
+  border-radius: var(--vr-radius-none);
+  border-left:   var(--vr-border-bold) solid var(--vr-red-core);
+  /* Neon glow bleeds leftward from the rule */
+  box-shadow:    -4px 0 16px rgba(255, 30, 30, 0.30),
+                 -2px 0 6px rgba(255, 30, 30, 0.50),
+                 0 4px 16px rgba(2, 2, 4, 0.50);
+  padding:       var(--vr-sp-md) var(--vr-sp-lg);
+  overflow-x:    auto;
+}
+
+.theme-dark .markdown-preview-view pre code {
+  background:  transparent;
+  color:       var(--vr-grey-frost);
+  font-family: var(--vr-font-mono);
+  font-size:   var(--vr-text-sm);
+}
+
+/* --- SECTION: 15.2 Code Block Live Preview --- */
+
+.theme-dark .cm-s-obsidian .HyperMD-codeblock-begin,
+.theme-dark .cm-s-obsidian .HyperMD-codeblock-end {
+  background:  var(--vr-graphite);
+  border-color: var(--vr-grey-deep);
+}
+
+/* Left neon rule in Live Preview code blocks */
+.theme-dark .cm-s-obsidian pre.HyperMD-codeblock {
+  border-left: var(--vr-border-bold) solid var(--vr-red-core);
+  box-shadow:  -4px 0 14px rgba(255, 30, 30, 0.25),
+               -2px 0 5px rgba(255, 30, 30, 0.45);
+}
+
+/* --- SECTION: 15.3 Syntax Token Colors --- */
+
+.theme-dark .cm-keyword,
+.theme-dark code .token.keyword        { color: var(--vr-red-neon); }
+
+.theme-dark .cm-string,
+.theme-dark code .token.string         { color: var(--vr-red-hot); }
+
+.theme-dark .cm-number,
+.theme-dark code .token.number         { color: var(--vr-red-core); }
+
+.theme-dark .cm-comment,
+.theme-dark code .token.comment        { color: var(--vr-grey-mist); font-style: italic; }
+
+.theme-dark .cm-operator,
+.theme-dark code .token.operator       { color: var(--vr-grey-frost); }
+
+.theme-dark .cm-property,
+.theme-dark code .token.property       { color: var(--vr-grey-snow); }
+
+.theme-dark .cm-variable,
+.theme-dark code .token.variable       { color: var(--vr-grey-steel); }
+
+.theme-dark .cm-punctuation,
+.theme-dark code .token.punctuation    { color: var(--vr-grey-steel); }
+
+.theme-dark .cm-tag,
+.theme-dark code .token.tag            { color: var(--vr-red-neon); }
+
+.theme-dark .cm-attribute,
+.theme-dark code .token.attr-name      { color: var(--vr-red-hot); }
+
+.theme-dark .cm-builtin,
+.theme-dark code .token.function       { color: var(--vr-grey-frost); text-shadow: var(--vr-text-glow-subtle); }
+
+/* --- SECTION END: PART-15 --- */
+
+
+/* ============================================================
+   PART 16: BRACKETS — NEON GLOW [BRACKETS]
+   Injects glowing [[ ]] around wiki-links.
+   Targets both Reading View (.internal-link) and
+   Live Preview (.cm-hmd-internal-link span).
+   ============================================================ */
+
+/* --- SECTION: 16.1 Reading View Brackets --- */
+
+.theme-dark .internal-link::before {
+  content:     '[[';
+  color:       var(--vr-red-neon);
+  font-weight: var(--vr-weight-bold);
+  text-shadow: 0 0 3px rgb(255, 30, 30), 0 0 6px rgba(255, 30, 30, 0.60);
+  opacity:     0.9;
+}
+
+.theme-dark .internal-link::after {
+  content:     ']]';
+  color:       var(--vr-red-neon);
+  font-weight: var(--vr-weight-bold);
+  text-shadow: 0 0 3px rgb(255, 30, 30), 0 0 6px rgba(255, 30, 30, 0.60);
+  opacity:     0.9;
+}
+
+.theme-dark .internal-link {
+  color:           var(--vr-grey-frost);
+  text-decoration: none;
+  transition:      color var(--vr-transition-fast),
+                   text-shadow var(--vr-transition-fast);
+}
+
+.theme-dark .internal-link:hover {
+  color:       var(--vr-red-neon);
+  text-shadow: var(--vr-text-glow-link);
+}
+
+/* Unresolved links */
+.theme-dark .internal-link.is-unresolved {
+  color:   var(--vr-red-ember);
+  opacity: 0.7;
+}
+.theme-dark .internal-link.is-unresolved::before,
+.theme-dark .internal-link.is-unresolved::after {
+  color:       var(--vr-red-ember);
+  text-shadow: 0 0 3px rgba(140, 0, 0, 0.50);
+  opacity:     0.6;
+}
+
+/* --- SECTION: 16.2 Live Preview Brackets --- */
+
+/* The bracket characters themselves in Live Preview */
+.theme-dark .cm-hmd-internal-link.cm-link-has-alias ~ .cm-hmd-internal-link,
+.theme-dark .cm-hmd-internal-link {
+  color:       var(--vr-grey-frost);
+  transition:  color var(--vr-transition-fast);
+}
+
+/* Bracket punctuation [[ and ]] */
+.theme-dark span.cm-formatting-link,
+.theme-dark span.cm-formatting-link-end {
+  color:       var(--vr-red-neon) !important; /* CM6 formats link punctuation as --text-normal; must override for neon */
+  text-shadow: 0 0 3px rgb(255, 30, 30), 0 0 6px rgba(255, 30, 30, 0.50);
+  font-weight: var(--vr-weight-bold);
+}
+
+/* External links */
+.theme-dark .external-link {
+  color:           var(--vr-red-hot);
+  text-decoration: underline;
+  text-decoration-color: rgba(255, 64, 64, 0.40);
+  transition:      color var(--vr-transition-fast),
+                   text-shadow var(--vr-transition-fast);
+}
+
+.theme-dark .external-link:hover {
+  color:       var(--vr-red-flare);
+  text-shadow: var(--vr-text-glow-link);
+}
+
+/* --- SECTION END: PART-16 --- */
+
+
+/* ============================================================
+   PART 17: TABLES [TABLES]
+   ============================================================ */
+
+.theme-dark .markdown-preview-view table {
+  border-collapse: collapse;
+  width:           100%;
+  background:      var(--vr-abyss);
+  border:          var(--vr-border-hair) solid var(--vr-grey-deep);
+  border-radius:   var(--vr-radius-none);
+  box-shadow:      0 4px 16px rgba(2, 2, 4, 0.40);
+}
+
+/* Table headers */
+.theme-dark .markdown-preview-view th {
+  background:     var(--vr-slate);
+  color:          var(--vr-red-hot);
+  font-weight:    var(--vr-weight-semibold);
+  letter-spacing: var(--vr-ls-wide);
+  padding:        var(--vr-sp-sm) var(--vr-sp-md);
+  border-bottom:  var(--vr-border-rule) solid var(--vr-red-core);
+  text-shadow:    var(--vr-text-glow-subtle);
+  text-align:     left;
+}
+
+/* Table cells */
+.theme-dark .markdown-preview-view td {
+  color:   var(--vr-grey-steel);
+  padding: var(--vr-sp-sm) var(--vr-sp-md);
+  border-bottom: var(--vr-border-hair) solid var(--vr-grey-deep);
+}
+
+/* Zebra rows */
+.theme-dark .markdown-preview-view tr:nth-child(even) td {
+  background: var(--vr-graphite);
+}
+
+/* Row hover */
+.theme-dark .markdown-preview-view tr:hover td {
+  background:  var(--vr-steel);
+  color:       var(--vr-grey-frost);
+  transition:  background var(--vr-transition-fast);
+}
+
+/* --- SECTION END: PART-17 --- */
+
+
+/* ============================================================
+   PART 18: LISTS [LISTS]
+   ============================================================ */
+
+/* --- SECTION: 18.1 Unordered Lists --- */
+
+/* Level 1: › (right angle) in neon red */
+.theme-dark .markdown-preview-view ul > li::marker {
+  color:   var(--vr-red-core);
+  content: "› ";
+}
+
+/* Level 2: · (mid dot) in muted */
+.theme-dark .markdown-preview-view ul > li > ul > li::marker {
+  color:   var(--vr-grey-mist);
+  content: "· ";
+}
+
+/* Level 3: – (en dash) in faint */
+.theme-dark .markdown-preview-view ul > li > ul > li > ul > li::marker {
+  color:   var(--vr-grey-gunmetal);
+  content: "– ";
+}
+
+/* --- SECTION: 18.2 Ordered Lists --- */
+
+.theme-dark .markdown-preview-view ol {
+  counter-reset: vr-ordered;
+}
+
+.theme-dark .markdown-preview-view ol > li {
+  counter-increment: vr-ordered;
+}
+
+.theme-dark .markdown-preview-view ol > li::marker {
+  color:       var(--vr-red-neon);
+  font-weight: var(--vr-weight-semibold);
+  text-shadow: var(--vr-text-glow-subtle);
+}
+
+/* --- SECTION: 18.3 Task Checkboxes --- */
+
+.theme-dark .task-list-item-checkbox {
+  border:        var(--vr-border-rule) solid var(--vr-grey-gunmetal);
+  border-radius: var(--vr-radius-sm);
+  background:    var(--vr-slate);
+  transition:    border-color var(--vr-transition-fast),
+                 background var(--vr-transition-fast),
+                 box-shadow var(--vr-transition-fast);
+  appearance: none;
+  -webkit-appearance: none;
+  width:  16px;
+  height: 16px;
+  cursor: pointer;
+}
+
+.theme-dark .task-list-item-checkbox:hover {
+  border-color: var(--vr-red-core);
+  box-shadow:   var(--vr-glow-sm);
+}
+
+.theme-dark .task-list-item-checkbox:checked {
+  background:   var(--vr-red-core);
+  border-color: var(--vr-red-neon);
+  box-shadow:   var(--vr-glow-sm), var(--vr-glow-md);
+}
+
+/* Strikethrough checked task text */
+.theme-dark .task-list-item.is-checked > p,
+.theme-dark .task-list-item.is-checked {
+  color:           var(--vr-grey-gunmetal);
+  text-decoration: line-through;
+  text-decoration-color: var(--vr-grey-deep);
+}
+
+/* --- SECTION: 18.4 Blockquotes --- */
+
+.theme-dark .markdown-preview-view blockquote {
+  background:   var(--vr-graphite);
+  border-left:  var(--vr-border-bold) solid var(--vr-grey-gunmetal);
+  border-radius: var(--vr-radius-none);
+  color:        var(--vr-grey-mist);
+  font-style:   italic;
+  padding:      var(--vr-sp-sm) var(--vr-sp-md);
+  margin:       var(--vr-sp-md) 0;
+}
+
+/* --- SECTION END: PART-18 --- */
+
+
+/* ============================================================
+   PART 19: HR, GRAPH, CANVAS [MISC]
+   ============================================================ */
+
+/* --- SECTION: 19.1 Horizontal Rules --- */
+
+.theme-dark .markdown-preview-view hr,
+.theme-dark .cm-line.HyperMD-hr {
+  border:     none;
+  height:     var(--vr-border-hair);
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    var(--vr-red-core) 20%,
+    var(--vr-red-neon) 50%,
+    var(--vr-red-core) 80%,
+    transparent 100%
+  );
+  box-shadow: 0 0 8px rgba(255, 30, 30, 0.35),
+              0 0 16px rgba(255, 30, 30, 0.15);
+  margin: var(--vr-sp-xl) 0;
+}
+
+/* --- SECTION: 19.2 Embeds --- */
+
+.theme-dark .markdown-embed {
+  background:   var(--vr-graphite);
+  border-left:  var(--vr-border-bold) solid var(--vr-grey-gunmetal);
+  border-radius: var(--vr-radius-none);
+  padding:      var(--vr-sp-sm) var(--vr-sp-md);
+}
+
+/* --- SECTION: 19.3 Graph View --- */
+
+.theme-dark .graph-view.color-fill           { color: var(--vr-grey-gunmetal); }
+.theme-dark .graph-view.color-fill-focused   { color: var(--vr-red-neon); }
+.theme-dark .graph-view.color-fill-tag       { color: var(--vr-red-core); }
+.theme-dark .graph-view.color-fill-attachment { color: var(--vr-grey-mist); }
+.theme-dark .graph-view.color-fill-unresolved { color: var(--vr-red-ember); }
+.theme-dark .graph-view.color-arrow          { color: var(--vr-grey-deep); }
+.theme-dark .graph-view.color-circle         { color: var(--vr-grey-deep); }
+.theme-dark .graph-view.color-line           { color: var(--vr-grey-gunmetal); }
+.theme-dark .graph-view.color-text           { color: var(--vr-grey-mist); }
+.theme-dark .graph-view.color-fill-highlight { color: var(--vr-red-hot); }
+.theme-dark .graph-view.color-line-highlight { color: var(--vr-red-core); }
+
+/* Graph background */
+.theme-dark .graph-view-content {
+  background: var(--vr-void);
+}
+
+/* --- SECTION: 19.4 Canvas --- */
+
+.theme-dark .canvas-wrapper {
+  background: var(--vr-void);
+}
+
+.theme-dark .canvas-card {
+  background:    var(--vr-slate);
+  border:        var(--vr-border-hair) solid var(--vr-grey-deep);
+  border-radius: var(--vr-radius-md);
+  box-shadow:    0 4px 16px rgba(2, 2, 4, 0.50);
+}
+
+.theme-dark .canvas-card.is-focused {
+  border-color: var(--vr-red-neon);
+  box-shadow:   var(--vr-glow-3);
+}
+
+/* --- SECTION END: PART-19 --- */
+
+
+/* ============================================================
+   PART 20: METADATA CONTAINER [META]
+   ============================================================ */
+
+/* --- SECTION: 20.1 Properties Panel (frontmatter UI) --- */
+
+.theme-dark .metadata-container {
+  background:   var(--vr-graphite);
+  border-left:  var(--vr-border-bold) solid var(--vr-red-core);
+  box-shadow:   -4px 0 12px rgba(255, 30, 30, 0.20);
+  border-radius: var(--vr-radius-none);
+  padding:      var(--vr-sp-sm) var(--vr-sp-md);
+  font-size:    var(--vr-text-sm);
+  margin-bottom: var(--vr-sp-lg);
+}
+
+.theme-dark .metadata-property-key {
+  color:          var(--vr-red-hot);
+  font-weight:    var(--vr-weight-semibold);
+  text-shadow:    var(--vr-text-glow-subtle);
+  letter-spacing: var(--vr-ls-wide);
+}
+
+.theme-dark .metadata-property-value {
+  color: var(--vr-grey-steel);
+}
+
+/* Frontmatter code block (source mode) */
+.theme-dark .cm-s-obsidian .cm-hmd-frontmatter {
+  color:      var(--vr-grey-steel);
+  background: var(--vr-graphite);
+}
+
+/* --- SECTION: 20.2 Tags --- */
+
+.theme-dark .tag {
+  background:    var(--vr-red-alpha-05);
+  color:         var(--vr-grey-frost);
+  border:        var(--vr-border-hair) solid var(--vr-red-core);
+  border-radius: var(--vr-radius-sm);
+  padding:       1px var(--vr-sp-xs);
+  font-size:     var(--vr-text-xs);
+  text-decoration: none;
+  transition:    background var(--vr-transition-fast),
+                 box-shadow var(--vr-transition-fast),
+                 color var(--vr-transition-fast);
+}
+
+.theme-dark .tag:hover {
+  background: var(--vr-red-alpha-10);
+  color:      var(--vr-red-neon);
+  box-shadow: var(--vr-glow-sm);
+  text-shadow: var(--vr-text-glow-subtle);
+}
+
+/* --- SECTION END: PART-20 --- */
+
+
+/* ============================================================
+   PART 21: CALLOUTS — NEON BORDER [CALLOUTS]
+   14 callout types with per-type color shifts.
+   Static neon glow on container (no animation per user spec).
+   ============================================================ */
+
+/* --- SECTION: 21.1 Base Callout --- */
+
+.theme-dark .callout {
+  background:    var(--vr-slate);
+  border-left:   var(--vr-border-bold) solid var(--callout-color, var(--vr-red-core));
+  border-radius: var(--vr-radius-none);
+  padding:       0;
+  box-shadow:    var(--vr-glow-sm), var(--vr-glow-md), var(--vr-glow-depth);
+  transition:    box-shadow var(--vr-transition-fast);
+}
+
+.theme-dark .callout:hover {
+  box-shadow: var(--vr-glow-3);
+}
+
+/* --- SECTION: 21.2 Callout Title Bar --- */
+
+.theme-dark .callout-title {
+  background:    var(--vr-red-alpha-05);
+  border-bottom: var(--vr-border-hair) solid rgba(255, 30, 30, 0.15);
+  padding:       var(--vr-sp-sm) var(--vr-sp-md);
+  display:       flex;
+  align-items:   center;
+  gap:           var(--vr-sp-sm);
+}
+
+.theme-dark .callout-title-inner {
+  color:          var(--callout-color, var(--vr-red-neon));
+  font-weight:    var(--vr-weight-semibold);
+  letter-spacing: var(--vr-ls-wide);
+  text-shadow:    0 0 4px rgba(var(--callout-color-raw, 255, 30, 30), 0.40),
+                  0 0 10px rgba(var(--callout-color-raw, 255, 30, 30), 0.20);
+}
+
+/* Callout icon */
+.theme-dark .callout-icon {
+  filter: drop-shadow(0 0 4px rgba(255, 30, 30, 0.50));
+}
+
+/* Callout content body */
+.theme-dark .callout-content {
+  padding: var(--vr-sp-sm) var(--vr-sp-md) var(--vr-sp-md);
+  color:   var(--vr-grey-steel);
+}
+
+/* Collapse fold arrow */
+.theme-dark .callout-fold {
+  color: var(--vr-grey-mist);
+}
+
+/* --- SECTION: 21.3 Per-Type Color Overrides --- */
+
+/* note / info / todo — steel/frost (cyan-grey, restrained) */
+.theme-dark .callout[data-callout="note"],
+.theme-dark .callout[data-callout="info"],
+.theme-dark .callout[data-callout="todo"] {
+  --callout-color: var(--vr-grey-frost);
+}
+
+/* abstract / summary / tldr — same cool grey */
+.theme-dark .callout[data-callout="abstract"],
+.theme-dark .callout[data-callout="summary"],
+.theme-dark .callout[data-callout="tldr"] {
+  --callout-color: var(--vr-grey-steel);
+}
+
+/* tip / hint / important — hot red */
+.theme-dark .callout[data-callout="tip"],
+.theme-dark .callout[data-callout="hint"],
+.theme-dark .callout[data-callout="important"] {
+  --callout-color: var(--vr-red-hot);
+}
+
+/* success / check / done — green (semantic success) */
+.theme-dark .callout[data-callout="success"],
+.theme-dark .callout[data-callout="check"],
+.theme-dark .callout[data-callout="done"] {
+  --callout-color: #4FC880;
+}
+
+/* question / help / faq — frost */
+.theme-dark .callout[data-callout="question"],
+.theme-dark .callout[data-callout="help"],
+.theme-dark .callout[data-callout="faq"] {
+  --callout-color: var(--vr-grey-frost);
+}
+
+/* warning / caution / attention — red-hot + darker bg */
+.theme-dark .callout[data-callout="warning"],
+.theme-dark .callout[data-callout="caution"],
+.theme-dark .callout[data-callout="attention"] {
+  --callout-color: var(--vr-red-hot);
+  background: color-mix(in srgb, var(--vr-slate) 90%, rgba(255, 64, 64, 0.15) 10%);
+}
+
+/* failure / fail / missing — deep red */
+.theme-dark .callout[data-callout="failure"],
+.theme-dark .callout[data-callout="fail"],
+.theme-dark .callout[data-callout="missing"] {
+  --callout-color: var(--vr-red-core);
+}
+
+/* danger / error — full neon red, most intense glow */
+.theme-dark .callout[data-callout="danger"],
+.theme-dark .callout[data-callout="error"] {
+  --callout-color: var(--vr-red-neon);
+  background: color-mix(in srgb, var(--vr-slate) 85%, rgba(255, 30, 30, 0.20) 15%);
+  box-shadow: var(--vr-glow-4);
+}
+
+/* bug — neon red with ember left rule */
+.theme-dark .callout[data-callout="bug"] {
+  --callout-color: var(--vr-red-flare);
+}
+
+/* example — steel */
+.theme-dark .callout[data-callout="example"] {
+  --callout-color: var(--vr-grey-steel);
+}
+
+/* quote / cite — gunmetal (minimal) */
+.theme-dark .callout[data-callout="quote"],
+.theme-dark .callout[data-callout="cite"] {
+  --callout-color: var(--vr-grey-gunmetal);
+  font-style: italic;
+}
+
+/* --- SECTION END: PART-21 --- */
+
+
+/* ============================================================
+   PART 22: ACCESSIBILITY & REDUCED MOTION [A11Y]
+   ============================================================ */
+
+/* --- SECTION: 22.1 Focus Rings --- */
+
+.theme-dark *:focus-visible {
+  outline:        2px solid var(--vr-red-neon);
+  outline-offset: 2px;
+  box-shadow:     0 0 6px rgba(255, 30, 30, 0.50);
+}
+
+/* Skip-nav link (screen reader) */
+.theme-dark .skip-nav {
+  background:    var(--vr-abyss);
+  color:         var(--vr-red-neon);
+  border-bottom: var(--vr-border-rule) solid var(--vr-red-core);
+}
+
+/* --- SECTION: 22.2 Reduced Motion --- */
+
+/* All glow theme effects are static (no animations to disable).
+   This block collapses transition durations for users who prefer
+   no motion, while leaving static shadows intact. */
+@media (prefers-reduced-motion: reduce) {
+  .theme-dark *,
+  .theme-dark *::before,
+  .theme-dark *::after {
+    transition-duration: 0.01ms !important; /* prefers-reduced-motion: must override all inline/specificity transitions */
+    animation-duration:  0.01ms !important; /* prefers-reduced-motion: collapse all animations to near-instant */
+    animation-iteration-count: 1 !important; /* prefers-reduced-motion: prevent looping */
+  }
+}
+
+/* --- SECTION: 22.3 High Contrast Mode --- */
+
+@media (forced-colors: active) {
+  .theme-dark .nav-file-title.is-active,
+  .theme-dark .suggestion-item.is-selected {
+    forced-color-adjust: none;
+    border-left-color: Highlight;
+  }
+  .theme-dark .callout {
+    border-left-color: Highlight;
+  }
+}
+
+/* --- SECTION: 22.4 Mobile Adjustments --- */
+
+body.is-mobile .theme-dark,
+body.is-mobile.theme-dark {
+  font-size: 16px;
+}
+
+/* Disable hover glows on mobile (touch has no hover) */
+body.is-mobile.theme-dark .nav-file-title:hover,
+body.is-mobile.theme-dark .nav-folder-title:hover,
+body.is-mobile.theme-dark .callout:hover,
+body.is-mobile.theme-dark .tag:hover {
+  box-shadow:  none;
+  text-shadow: none;
+}
+
+/* Reduce heading sizes on mobile */
+body.is-mobile.theme-dark .HyperMD-header-1,
+body.is-mobile.theme-dark .markdown-preview-view h1 { font-size: 1.70em; }
+body.is-mobile.theme-dark .HyperMD-header-2,
+body.is-mobile.theme-dark .markdown-preview-view h2 { font-size: 1.35em; }
+body.is-mobile.theme-dark .HyperMD-header-3,
+body.is-mobile.theme-dark .markdown-preview-view h3 { font-size: 1.18em; }
+
+/* Full-width scrollable tables on mobile */
+body.is-mobile.theme-dark .markdown-preview-view table {
+  display:    block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* --- SECTION END: PART-22 --- */
+
+
+/* ============================================================
+   PART 23: LIGHT THEME [LIGHT]
+   Neon red is preserved — it reads well on light backgrounds
+   since it's fully saturated. Glow effects are at 50% opacity
+   to avoid looking dirty on light surfaces.
+   ============================================================ */
+
+.theme-light {
+  /* Invert the backgrounds to near-white */
+  --background-primary:        #F2F2F5;
+  --background-primary-alt:    #E8E8EC;
+  --background-secondary:      #E2E2E6;
+  --background-secondary-alt:  #D8D8DE;
+  --background-modifier-hover: #DCDCE2;
+  --background-modifier-border: #C0C0CA;
+
+  /* Text darkens */
+  --text-normal:   #1A1A1E;
+  --text-muted:    #4A4A54;
+  --text-faint:    #8A8A94;
+  --text-on-accent: #F0F0F4;
+  --text-error:    var(--vr-red-neon);
+  --text-accent:   var(--vr-red-core);
+  --text-accent-hover: var(--vr-red-neon);
+
+  /* Accents stay vivid red */
+  --color-accent:              var(--vr-red-core);
+  --color-accent-1:            var(--vr-red-neon);
+  --color-accent-2:            var(--vr-red-hot);
+  --interactive-accent:        var(--vr-red-core);
+  --interactive-accent-hover:  var(--vr-red-neon);
+
+  /* Link colors */
+  --link-color:                var(--vr-red-core);
+  --link-color-hover:          var(--vr-red-neon);
+  --link-unresolved-color:     var(--vr-red-ember);
+
+  /* Reduced glow for light mode */
+  --vr-glow-sm: 0 0 4px  rgba(255, 30, 30, 0.25);
+  --vr-glow-md: 0 0 10px rgba(255, 30, 30, 0.15);
+  --vr-glow-lg: 0 0 22px rgba(255, 30, 30, 0.10);
+
+  --vr-text-glow-h1:   0 0 3px rgba(255, 30, 30, 0.40), 0 0 8px rgba(255, 30, 30, 0.20);
+  --vr-text-glow-h2:   0 0 3px rgba(255, 30, 30, 0.35), 0 0 8px rgba(255, 30, 30, 0.18);
+  --vr-text-glow-h3:   0 0 3px rgba(255, 30, 30, 0.25), 0 0 8px rgba(255, 30, 30, 0.12);
+  --vr-text-glow-h4:   0 0 3px rgba(255, 30, 30, 0.20);
+  --vr-text-glow-link: 0 0 4px rgba(255, 30, 30, 0.25);
+  --vr-text-glow-subtle: 0 0 3px rgba(255, 30, 30, 0.20);
+
+  /* Code */
+  --code-background: #E0E0E6;
+  --code-normal:     #1A1A1E;
+}
+
+/* Light mode heading colors */
+.theme-light .HyperMD-header-1,
+.theme-light .markdown-preview-view h1 {
+  color: var(--vr-red-core);
+}
+
+.theme-light .HyperMD-header-2,
+.theme-light .markdown-preview-view h2 {
+  color: var(--vr-red-neon);
+}
+
+.theme-light .HyperMD-header-3,
+.theme-light .markdown-preview-view h3 {
+  color: #1A1A2E;
+}
+
+/* Light mode active file */
+.theme-light .nav-file-title.is-active {
+  color:       var(--vr-red-core);
+  background:  rgba(204, 10, 10, 0.06);
+  border-left: var(--vr-border-bold) solid var(--vr-red-core);
+}
+
+/* Light mode callout */
+.theme-light .callout {
+  background: #E8E8EE;
+}
+
+/* Light mode code blocks */
+.theme-light .markdown-preview-view pre {
+  background:    #E0E0E6;
+  border-left:   var(--vr-border-bold) solid var(--vr-red-core);
+  box-shadow:    -4px 0 12px rgba(204, 10, 10, 0.20),
+                 0 4px 12px rgba(0, 0, 0, 0.10);
+  color: #1A1A1E;
+}
+
+/* Light scrollbar */
+.theme-light ::-webkit-scrollbar-thumb { background: #BCBCC8; }
+.theme-light ::-webkit-scrollbar-thumb:hover { background: var(--vr-red-ember); }
+.theme-light ::-webkit-scrollbar-thumb:active { background: var(--vr-red-core); }
+
+/* --- SECTION END: PART-23 --- */
+
+
+/* ============================================================
+   PART 24: SETTINGS PAGE [SETTINGS]
+   ============================================================ */
+
+/* Vertical tab nav */
+.theme-dark .vertical-tab-nav-item {
+  color:      var(--vr-grey-mist);
+  border-radius: var(--vr-radius-none);
+  transition: color var(--vr-transition-fast),
+              background var(--vr-transition-fast),
+              border var(--vr-transition-fast);
+}
+
+.theme-dark .vertical-tab-nav-item:hover {
+  color:      var(--vr-grey-frost);
+  background: var(--vr-steel);
+}
+
+.theme-dark .vertical-tab-nav-item.is-active {
+  color:        var(--vr-red-neon);
+  background:   var(--vr-red-alpha-05);
+  border-left:  var(--vr-border-bold) solid var(--vr-red-neon);
+  box-shadow:   -4px 0 10px rgba(255, 30, 30, 0.25);
+  text-shadow:  var(--vr-text-glow-subtle);
+}
+
+/* Settings content area */
+.theme-dark .vertical-tab-content {
+  background: var(--vr-abyss);
+}
+
+/* Setting item */
+.theme-dark .setting-item {
+  border-top:  var(--vr-border-hair) solid var(--vr-grey-deep);
+  padding:     var(--vr-sp-md) 0;
+}
+
+.theme-dark .setting-item-name {
+  color:       var(--vr-grey-frost);
+  font-weight: var(--vr-weight-medium);
+}
+
+.theme-dark .setting-item-description {
+  color:     var(--vr-grey-mist);
+  font-size: var(--vr-text-sm);
+}
+
+/* Hotkey tag in settings */
+.theme-dark .setting-hotkey {
+  background:    var(--vr-slate);
+  color:         var(--vr-grey-frost);
+  border:        var(--vr-border-hair) solid var(--vr-grey-deep);
+  border-radius: var(--vr-radius-sm);
+  font-family:   var(--vr-font-mono);
+  font-size:     var(--vr-text-xs);
+}
+
+/* --- SECTION END: PART-24 --- */
+
+
+/* === END OF FILE: theme.css === */

@@ -78,7 +78,7 @@ provenance:
 # Goal Specificity
 
 > [!definition] **Goal Specificity**
-> Goal specificity refers to the degree to which a goal specifies a measurable, unambiguous criterion for whether the goal has been achieved. It falls under [[Motivation Science]], where it is not limited to quantitative goals but pertains to the clarity of the achievement criterion rather than the numerical or qualitative nature of the goal itself.
+> Goal specificity refers to the degree to which a goal specifies a measurable, unambiguous criterion for whether the goal has been achieved. It falls under [[motivation-science]], where it is not limited to quantitative goals but pertains to the clarity of the achievement criterion rather than the numerical or qualitative nature of the goal itself.
 
 > [!attention] **Boundary**
 > Specificity does not equate to quantification; it pertains to the clarity of the achievement criterion rather than the numerical or qualitative nature of the goal itself.
@@ -141,7 +141,7 @@ The concept of goal specificity is deeply rooted in motivation science and has s
 
 ## Connections & Context
 
-**Falls under:** [[Motivation Science]]
+**Falls under:** [[motivation-science]]
 
 **Sibling concepts:** [[goal-difficulty]] · [[goal-commitment]] · [[Goal Proximity]]
 

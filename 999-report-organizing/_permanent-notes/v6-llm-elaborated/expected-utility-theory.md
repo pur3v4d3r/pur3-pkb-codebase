@@ -2,6 +2,7 @@
 title: "Expected Utility Theory"
 aliases:
   - "Expected Utility Theory"
+  - "Expected-Utility Theory"
   - "EUT"
   - "von Neumann-Morgenstern utility"
 type: permanent-note
@@ -33,7 +34,7 @@ depth-level: elaborated
 parent-concept: "Decision Theory"
 
 related:
-  - "[[Prospect Theory]]"
+  - "[[prospect-theory]]"
   - "[[Risk Aversion]]"
 prerequisites:
   - "[[]]"
@@ -44,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Prospect Theory]]"
+  - "[[prospect-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -134,7 +135,7 @@ The significance of Expected Utility Theory extends beyond economics into variou
 
 **Falls under:** [[Decision Theory]]
 
-**Contrasts with:** [[Prospect Theory]]
+**Contrasts with:** [[prospect-theory]]
 
 **Applies to:** [[Risk Aversion]]
 

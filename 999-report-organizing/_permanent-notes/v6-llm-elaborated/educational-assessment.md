@@ -32,11 +32,11 @@ depth-level: elaborated
 parent-concept: "Educational Psychology"
 
 related:
-  - "[[Formative Assessment]]"
-  - "[[Summative Assessment]]"
+  - "[[formative-assessment]]"
+  - "[[summative-assessment]]"
   - "[[Validity]]"
   - "[[Reliability]]"
-  - "[[Learning Analytics]]"
+  - "[[learning-analytics]]"
   - "[[Psychometrics]]"
 prerequisites:
   - "[[]]"
@@ -45,8 +45,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Formative Assessment]]"
-  - "[[Summative Assessment]]"
+  - "[[formative-assessment]]"
+  - "[[summative-assessment]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -54,7 +54,7 @@ contradicts:
 applies-to:
   - "[[Validity]]"
   - "[[Reliability]]"
-  - "[[Learning Analytics]]"
+  - "[[learning-analytics]]"
 formalizes:
   - "[[Psychometrics]]"
 instance-of:
@@ -78,7 +78,7 @@ provenance:
 # Educational Assessment
 
 > [!definition] **Educational Assessment**
-> Educational Assessment involves systematically gathering evidence about learners' knowledge and skills to interpret against intended learning outcomes, encompassing both formative and summative assessments. It falls under [[Educational Psychology]], where it is recognized as an instructional intervention that shapes what learners attend to and rehearse through the act of being tested.
+> Educational Assessment involves systematically gathering evidence about learners' knowledge and skills to interpret against intended learning outcomes, encompassing both formative and summative assessments. It falls under [[educational-psychology]], where it is recognized as an instructional intervention that shapes what learners attend to and rehearse through the act of being tested.
 
 > [!attention] **Boundary**
 > This concept excludes the specific tools or methods used in assessment (e.g., multiple-choice tests) but includes the broader process of using these tools to inform instruction and measure competence.
@@ -137,11 +137,11 @@ The broader implications of Educational Assessment extend beyond the classroom i
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
-**Sibling concepts:** [[Formative Assessment]] · [[Summative Assessment]]
+**Sibling concepts:** [[formative-assessment]] · [[summative-assessment]]
 
-**Applies to:** [[Validity]] · [[Reliability]] · [[Learning Analytics]]
+**Applies to:** [[Validity]] · [[Reliability]] · [[learning-analytics]]
 
 **Formalizes:** [[Psychometrics]]
 

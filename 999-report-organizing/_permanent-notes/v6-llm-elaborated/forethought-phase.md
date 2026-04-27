@@ -38,7 +38,7 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[goal-setting]]"
-  - "[[Task Analysis]]"
+  - "[[task-analysis]]"
   - "[[Strategic Planning]]"
   - "[[motivational-regulation]]"
 prerequisites:
@@ -49,7 +49,7 @@ broader:
   - "[[]]"
 see-also:
   - "[[goal-setting]]"
-  - "[[Task Analysis]]"
+  - "[[task-analysis]]"
   - "[[Strategic Planning]]"
 contrasts-with:
   - "[[]]"
@@ -142,7 +142,7 @@ Understanding the Forethought Phase is particularly important for educators, par
 
 **Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[goal-setting]] · [[Task Analysis]] · [[Strategic Planning]]
+**Sibling concepts:** [[goal-setting]] · [[task-analysis]] · [[Strategic Planning]]
 
 **Applies to:** [[motivational-regulation]]
 

@@ -72,7 +72,7 @@ provenance:
 # Language Acquisition
 
 > [!definition] **Language Acquisition**
-> Language Acquisition is the developmental process by which children, in roughly the first five years and largely without explicit instruction, acquire the phonology, morphology, syntax, semantics, and pragmatics of one or more native languages — a process whose speed, regularity across cultures, and robustness under degraded input has made the underlying mechanism a central battleground between nativist (universal-grammar) and usage-based (statistical-learning) theoretical traditions. It falls under [[Developmental Psychology]].
+> Language Acquisition is the developmental process by which children, in roughly the first five years and largely without explicit instruction, acquire the phonology, morphology, syntax, semantics, and pragmatics of one or more native languages — a process whose speed, regularity across cultures, and robustness under degraded input has made the underlying mechanism a central battleground between nativist (universal-grammar) and usage-based (statistical-learning) theoretical traditions. It falls under [[developmental-psychology]].
 
 > [!attention] **Boundary**
 > This excludes adult second-language acquisition and other forms of language learning that occur outside of early childhood.
@@ -129,7 +129,7 @@ Understanding Language Acquisition is essential not only for academic research b
 
 ## Connections & Context
 
-**Falls under:** [[Developmental Psychology]]
+**Falls under:** [[developmental-psychology]]
 
 **Specializes:** [[Statistical Learning]]
 

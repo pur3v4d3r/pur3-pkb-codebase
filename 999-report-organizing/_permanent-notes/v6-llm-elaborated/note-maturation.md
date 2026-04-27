@@ -33,23 +33,23 @@ depth-level: elaborated
 parent-concept: "Knowledge Management"
 
 related:
-  - "[[Atomic Notes]]"
-  - "[[Zettelkasten]]"
-  - "[[Idea Compression]]"
+  - "[[atomic-notes]]"
+  - "[[zettelkasten]]"
+  - "[[idea-compression]]"
 prerequisites:
-  - "[[Atomic Notes]]"
+  - "[[atomic-notes]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Idea Compression]]"
+  - "[[idea-compression]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Note Maturation
 
 > [!definition] **Note Maturation**
-> Note Maturation is the practice of treating notes as evolving artifacts that progress through stages from rough capture to durable, reusable claims, rather than static records. It falls under [[Knowledge Management]], distinguishing PKM systems with compounding returns by ensuring mature notes can be linked and built upon confidently, whereas immature notes function as noise.
+> Note Maturation is the practice of treating notes as evolving artifacts that progress through stages from rough capture to durable, reusable claims, rather than static records. It falls under [[knowledge-management]], distinguishing PKM systems with compounding returns by ensuring mature notes can be linked and built upon confidently, whereas immature notes function as noise.
 
 > [!attention] **Boundary**
 > This concept stops at the point where notes are considered mature and ready for use in knowledge compounding. It does not include the actual content or specific techniques used within each stage but focuses on the process of maturation itself.
@@ -135,12 +135,12 @@ Note Maturation also bridges the gap between journaling and more structured note
 
 ## Connections & Context
 
-**Falls under:** [[Knowledge Management]]
+**Falls under:** [[knowledge-management]]
 
-**Prerequisites:** [[Atomic Notes]]
+**Prerequisites:** [[atomic-notes]]
 
-**Sibling concepts:** [[Zettelkasten]]
+**Sibling concepts:** [[zettelkasten]]
 
-**Applies to:** [[Idea Compression]]
+**Applies to:** [[idea-compression]]
 
 **Source:** [[note-maturation-synthetic-seed-2026-04-26]]

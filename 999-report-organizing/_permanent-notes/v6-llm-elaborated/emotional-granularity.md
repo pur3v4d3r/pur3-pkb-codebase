@@ -34,8 +34,8 @@ parent-concept: "Emotion Regulation"
 
 related:
   - "[[Emotion Regulation]]"
-  - "[[Alexithymia]]"
-  - "[[Interoception]]"
+  - "[[alexithymia]]"
+  - "[[interoception]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,11 +45,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Alexithymia]]"
+  - "[[alexithymia]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Interoception]]"
+  - "[[interoception]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -139,8 +139,8 @@ The study of Emotional Granularity not only enriches our understanding of human 
 
 **Specializes:** [[Emotion Regulation]]
 
-**Contrasts with:** [[Alexithymia]]
+**Contrasts with:** [[alexithymia]]
 
-**Applies to:** [[Interoception]]
+**Applies to:** [[interoception]]
 
 **Source:** [[emotional-granularity-synthetic-seed-2026-04-26]]

@@ -34,8 +34,8 @@ depth-level: elaborated
 parent-concept: "Logical Fallacies"
 
 related:
-  - "[[Straw Man Fallacy]]"
-  - "[[Principle of Charity]]"
+  - "[[straw-man-fallacy]]"
+  - "[[principle-of-charity]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,11 +45,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Straw Man Fallacy]]"
+  - "[[straw-man-fallacy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Principle of Charity]]"
+  - "[[principle-of-charity]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # False Dichotomy
 
 > [!definition] **False Dichotomy**
-> A False Dichotomy is a logical fallacy where an argument presents two options as the only possibilities when in fact more options exist or overlap, forcing the audience to accept one undesirable side by suppressing genuine alternatives. It falls under [[Logical Fallacies]], as it manipulates reasoning by limiting the perceived range of choices.
+> A False Dichotomy is a logical fallacy where an argument presents two options as the only possibilities when in fact more options exist or overlap, forcing the audience to accept one undesirable side by suppressing genuine alternatives. It falls under [[logical-fallacies]], as it manipulates reasoning by limiting the perceived range of choices.
 
 > [!attention] **Boundary**
 > This concept excludes situations where genuine binary choices genuinely exist. It also does not encompass every either-or framing but requires showing that a third option was illegitimately excluded.
@@ -135,10 +135,10 @@ The principle of charity, which encourages fair interpretation of arguments, can
 
 ## Connections & Context
 
-**Falls under:** [[Logical Fallacies]]
+**Falls under:** [[logical-fallacies]]
 
-**Contrasts with:** [[Straw Man Fallacy]]
+**Contrasts with:** [[straw-man-fallacy]]
 
-**Applies to:** [[Principle of Charity]]
+**Applies to:** [[principle-of-charity]]
 
 **Source:** [[false-dichotomy-synthetic-seed-2026-04-26]]

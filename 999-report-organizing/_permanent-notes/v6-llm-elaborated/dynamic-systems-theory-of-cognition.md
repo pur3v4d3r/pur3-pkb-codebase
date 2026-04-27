@@ -34,8 +34,8 @@ parent-concept: "Cognitive Science"
 
 related:
   - "[[Attractor Dynamics]]"
-  - "[[Embodied Cognition]]"
-  - "[[Computational Theory of Mind]]"
+  - "[[embodied-cognition]]"
+  - "[[computational-theory-of-mind]]"
 prerequisites:
   - "[[Attractor Dynamics]]"
 specializes:
@@ -43,9 +43,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Embodied Cognition]]"
+  - "[[embodied-cognition]]"
 contrasts-with:
-  - "[[Computational Theory of Mind]]"
+  - "[[computational-theory-of-mind]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Dynamic Systems Theory of Cognition
 
 > [!definition] **Dynamic Systems Theory of Cognition**
-> Dynamic Systems Theory of Cognition models cognitive processes as the continuous evolution of coupled state variables described by differential equations, emphasizing self-organization over discrete symbol manipulation. It falls under [[Cognitive Science]], offering an alternative to traditional computational theories that focus on internal representation and symbolic processing.
+> Dynamic Systems Theory of Cognition models cognitive processes as the continuous evolution of coupled state variables described by differential equations, emphasizing self-organization over discrete symbol manipulation. It falls under [[cognitive-science]], offering an alternative to traditional computational theories that focus on internal representation and symbolic processing.
 
 > [!attention] **Boundary**
 > This theory excludes traditional computational theories that focus on discrete symbol manipulation and internal representation. It is distinct from but related to embodied cognition and ecological psychology.
@@ -129,12 +129,12 @@ Dynamic Systems Theory is significant because it offers a systems perspective on
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Science]]
+**Falls under:** [[cognitive-science]]
 
 **Prerequisites:** [[Attractor Dynamics]]
 
-**Sibling concepts:** [[Embodied Cognition]]
+**Sibling concepts:** [[embodied-cognition]]
 
-**Contrasts with:** [[Computational Theory of Mind]]
+**Contrasts with:** [[computational-theory-of-mind]]
 
 **Source:** [[dynamic-systems-theory-of-cognition-synthetic-seed-2026-04-26]]

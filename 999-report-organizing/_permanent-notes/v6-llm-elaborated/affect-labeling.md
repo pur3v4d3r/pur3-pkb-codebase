@@ -29,8 +29,8 @@ depth-level: enhanced
 parent-concept: Emotion Regulation
 related:
   - '[[Emotion Regulation]]'
-  - '[[Cognitive Reappraisal]]'
-  - '[[Interoception]]'
+  - '[[cognitive-reappraisal]]'
+  - '[[interoception]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -40,8 +40,8 @@ broader:
 see-also:
   - '[[]]'
 contrasts-with:
-  - '[[Cognitive Reappraisal]]'
-  - '[[Interoception]]'
+  - '[[cognitive-reappraisal]]'
+  - '[[interoception]]'
 contradicts:
   - '[[]]'
 applies-to:
@@ -158,6 +158,6 @@ A 2020 meta-analysis by Kross et al. in Psychological Science synthesized 32 stu
 
 **Specializes:** [[Emotion Regulation]]
 
-**Contrasts with:** [[Cognitive Reappraisal]] · [[Interoception]]
+**Contrasts with:** [[cognitive-reappraisal]] · [[interoception]]
 
 **Source:** [[affect-labeling-synthetic-seed-2026-04-26]]

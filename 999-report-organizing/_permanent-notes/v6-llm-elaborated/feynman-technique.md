@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Explanation]]"
-  - "[[Active Recall]]"
+  - "[[self-explanation]]"
+  - "[[active-recall]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -41,13 +41,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Explanation]]"
+  - "[[self-explanation]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Active Recall]]"
+  - "[[active-recall]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Feynman Technique
 
 > [!definition] **Feynman Technique**
-> The Feynman Technique is a method for deep learning that involves explaining a concept in simple terms to identify gaps in understanding and then filling those gaps through further study. It falls under [[Self-Regulated Learning]], focusing on the process of simplifying complex ideas into understandable explanations, excluding broader educational strategies or cognitive processes not directly related to this specific method.
+> The Feynman Technique is a method for deep learning that involves explaining a concept in simple terms to identify gaps in understanding and then filling those gaps through further study. It falls under [[self-regulated-learning]], focusing on the process of simplifying complex ideas into understandable explanations, excluding broader educational strategies or cognitive processes not directly related to this specific method.
 
 > [!attention] **Boundary**
 > This technique focuses on the process of simplifying complex ideas into understandable explanations, excluding broader educational strategies or cognitive processes not directly related to this specific method.
@@ -82,7 +82,7 @@ The Feynman Technique begins with selecting a concept that needs to be mastered.
 
 This technique operates by leveraging the cognitive principle of active engagement, where learners are actively involved in processing information rather than passively receiving it. By explaining a concept in simple terms, learners not only reinforce their own understanding but also uncover any misconceptions or areas of confusion that might have been overlooked during initial study. This iterative process of simplification and refinement helps solidify knowledge by ensuring that the learner can articulate the core concepts clearly and coherently.
 
-Theoretical roots of the Feynman Technique trace back to cognitive psychology, particularly the concept of elaborative interrogation, which involves questioning why something is true or how it works. By engaging in this form of self-explanation, learners are encouraged to think deeply about the underlying principles rather than just memorizing surface-level details. This approach aligns with the broader goal of [[Self-Regulated Learning]], where individuals take an active role in their own learning processes through strategic planning and reflection.
+Theoretical roots of the Feynman Technique trace back to cognitive psychology, particularly the concept of elaborative interrogation, which involves questioning why something is true or how it works. By engaging in this form of self-explanation, learners are encouraged to think deeply about the underlying principles rather than just memorizing surface-level details. This approach aligns with the broader goal of [[self-regulated-learning]], where individuals take an active role in their own learning processes through strategic planning and reflection.
 
 Historically, the technique was popularized by physicist Richard Feynman, who used it to master complex subjects like quantum electrodynamics. His method has since been adopted across various fields, from science and engineering to business and personal development. The technique's effectiveness lies in its ability to bridge the gap between theoretical knowledge and practical application, making it a valuable tool for anyone seeking to deepen their understanding of a subject.
 
@@ -121,16 +121,16 @@ The Feynman Technique works because it forces the learner to translate technical
 
 ## Synthesis
 
-The Feynman Technique matters because it provides a powerful framework for deep learning by encouraging active engagement with material. By aligning with principles of [[Self-Regulated Learning]], it empowers learners to take control of their own education, fostering both understanding and retention. Its application in various contexts—from instructional design to personal development—demonstrates its versatility and value across different domains of learning science.
+The Feynman Technique matters because it provides a powerful framework for deep learning by encouraging active engagement with material. By aligning with principles of [[self-regulated-learning]], it empowers learners to take control of their own education, fostering both understanding and retention. Its application in various contexts—from instructional design to personal development—demonstrates its versatility and value across different domains of learning science.
 
 Moreover, the technique's focus on simplification and self-explanation makes it particularly effective for bridging gaps between theoretical knowledge and practical application. By integrating this method into broader educational strategies, educators can enhance student outcomes and promote lifelong learning.
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Explanation]]
+**Sibling concepts:** [[self-explanation]]
 
-**Applies to:** [[Active Recall]]
+**Applies to:** [[active-recall]]
 
 **Source:** [[feynman-technique-synthetic-seed-2026-04-26]]

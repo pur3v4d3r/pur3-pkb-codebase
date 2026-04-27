@@ -32,15 +32,15 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Non-Classical Logic]]"
+  - "[[non-classical-logic]]"
   - "[[Structure-Mapping Engine]]"
-  - "[[Case-Based Reasoning]]"
+  - "[[case-based-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Non-Classical Logic]]"
+  - "[[non-classical-logic]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -49,7 +49,7 @@ contradicts:
   - "[[]]"
 applies-to:
   - "[[Structure-Mapping Engine]]"
-  - "[[Case-Based Reasoning]]"
+  - "[[case-based-reasoning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -134,8 +134,8 @@ The importance of Analogical Logic extends beyond its immediate applications; it
 
 **Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Non-Classical Logic]]
+**Generalizes to:** [[non-classical-logic]]
 
-**Applies to:** [[Structure-Mapping Engine]] · [[Case-Based Reasoning]]
+**Applies to:** [[Structure-Mapping Engine]] · [[case-based-reasoning]]
 
 **Source:** [[analogical-logic-synthetic-seed-2026-04-24]]

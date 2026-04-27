@@ -34,13 +34,13 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Neuroscience]]"
   - "[[Philosophy of Mind]]"
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
   - "[[Artificial Intelligence]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[Neuroscience]]"
 broader:
@@ -52,7 +52,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
   - "[[Artificial Intelligence]]"
 formalizes:
   - "[[]]"
@@ -139,12 +139,12 @@ The concept of Cognitive Science is particularly valuable for its ability to fos
 
 ## Connections & Context
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Specializes:** [[Neuroscience]]
 
 **Contrasts with:** [[Philosophy of Mind]]
 
-**Applies to:** [[Worked Examples]] · [[Artificial Intelligence]]
+**Applies to:** [[worked-examples]] · [[Artificial Intelligence]]
 
 **Source:** [[cognitive-science-synthetic-seed-2026-04-25]]

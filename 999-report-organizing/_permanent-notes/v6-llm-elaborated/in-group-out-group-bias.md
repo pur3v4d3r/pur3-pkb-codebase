@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Social Identity Theory"
 
 related:
-  - "[[Social Identity Theory]]"
+  - "[[social-identity-theory]]"
   - "[[Self-Categorization Theory]]"
   - "[[Prejudice]]"
   - "[[Minimal-Group Paradigm]]"
@@ -42,7 +42,7 @@ prerequisites:
 specializes:
   - "[[]]"
 broader:
-  - "[[Social Identity Theory]]"
+  - "[[social-identity-theory]]"
 see-also:
   - "[[Self-Categorization Theory]]"
 contrasts-with:
@@ -74,7 +74,7 @@ provenance:
 # In Group Out Group Bias
 
 > [!definition] **In Group Out Group Bias**
-> In Group Out Group Bias is the tendency to favor members of one's own group over those from other groups, even when group membership is arbitrary and short-lived, as in Tajfel's minimal-group experiments — a phenomenon that falls under [[Social Identity Theory]].
+> In Group Out Group Bias is the tendency to favor members of one's own group over those from other groups, even when group membership is arbitrary and short-lived, as in Tajfel's minimal-group experiments — a phenomenon that falls under [[social-identity-theory]].
 
 > [!attention] **Boundary**
 > This concept excludes individual-level biases that are not related to social categorization or intergroup dynamics. It does not encompass all forms of prejudice or discrimination but focuses specifically on the preferential treatment of in-group members.
@@ -133,9 +133,9 @@ In conclusion, In Group Out Group Bias is not just an academic curiosity but a r
 
 ## Connections & Context
 
-**Falls under:** [[Social Identity Theory]]
+**Falls under:** [[social-identity-theory]]
 
-**Generalizes to:** [[Social Identity Theory]]
+**Generalizes to:** [[social-identity-theory]]
 
 **Sibling concepts:** [[Self-Categorization Theory]]
 

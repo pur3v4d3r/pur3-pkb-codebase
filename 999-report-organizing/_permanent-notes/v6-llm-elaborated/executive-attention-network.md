@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Salience Network]]"
+  - "[[working-memory]]"
+  - "[[salience-network]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Salience Network]]"
+  - "[[salience-network]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Executive Attention Network
 
 > [!definition] **Executive Attention Network**
-> The Executive Attention Network is a large-scale brain network that supports goal-directed attention, conflict monitoring, and flexible task-set reconfiguration, falling under the broader cognitive architecture of [[Cognitive Architecture]]. It operates across regions such as the dorsolateral prefrontal cortex, posterior parietal cortex, and dorsal anterior cingulate, and its development parallels the maturation of executive function and is a leading neural correlate of fluid intelligence individual differences.
+> The Executive Attention Network is a large-scale brain network that supports goal-directed attention, conflict monitoring, and flexible task-set reconfiguration, falling under the broader cognitive architecture of [[cognitive-architecture]]. It operates across regions such as the dorsolateral prefrontal cortex, posterior parietal cortex, and dorsal anterior cingulate, and its development parallels the maturation of executive function and is a leading neural correlate of fluid intelligence individual differences.
 
 > [!attention] **Boundary**
 > It excludes other networks like the default-mode or salience networks but includes processes related to working memory and prefrontal cortex function.
@@ -132,10 +132,10 @@ The importance of the Executive Attention Network extends beyond neuroscience in
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Salience Network]]
+**Contrasts with:** [[salience-network]]
 
 **Source:** [[executive-attention-network-synthetic-seed-2026-04-25]]

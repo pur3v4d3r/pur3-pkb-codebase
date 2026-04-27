@@ -73,7 +73,7 @@ provenance:
 # Maps of Content
 
 > [!definition] **Maps of Content**
-> Maps of Content are curated index notes that group, sequence, and contextualize a set of related atomic notes, providing the navigational scaffolding that pure tag-and-link networks lack while preserving the atomic structure of the underlying notes. This concept falls under [[Knowledge Management]], as it enhances the organization and accessibility of knowledge within systems like V6 Pipeline.
+> Maps of Content are curated index notes that group, sequence, and contextualize a set of related atomic notes, providing the navigational scaffolding that pure tag-and-link networks lack while preserving the atomic structure of the underlying notes. This concept falls under [[knowledge-management]], as it enhances the organization and accessibility of knowledge within systems like V6 Pipeline.
 
 > [!attention] **Boundary**
 > This concept excludes pure tag-and-link networks but includes more structured note-taking methods like LYT framework.
@@ -133,7 +133,7 @@ Moreover, Maps of Content align with broader concepts in cognitive load theory a
 
 ## Connections & Context
 
-**Falls under:** [[Knowledge Management]]
+**Falls under:** [[knowledge-management]]
 
 **Contrasts with:** [[evergreen-notes]] · [[atomic-notes]]
 

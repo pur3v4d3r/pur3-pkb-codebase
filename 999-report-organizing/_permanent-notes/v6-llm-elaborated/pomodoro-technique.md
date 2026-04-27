@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Time Management"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Deep Work]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -138,7 +138,7 @@ Empirical evidence supports the effectiveness of the Pomodoro Technique in vario
 
 **Falls under:** [[Time Management]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[Deep Work]]
 

@@ -35,7 +35,7 @@ parent-concept: "Zettelkasten Workflow"
 related:
   - "[[evergreen-notes]]"
   - "[[literature-notes]]"
-  - "[[Zettelkasten Workflow]]"
+  - "[[zettelkasten-workflow]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -53,7 +53,7 @@ applies-to:
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Zettelkasten Workflow]]"
+  - "[[zettelkasten-workflow]]"
 supports:
   - "[[]]"
 refines:
@@ -131,12 +131,12 @@ Fleeting Notes integrate seamlessly with other concepts in the Zettelkasten work
 
 ## Connections & Context
 
-**Falls under:** [[Zettelkasten Workflow]]
+**Falls under:** [[zettelkasten-workflow]]
 
 **Contrasts with:** [[evergreen-notes]]
 
 **Applies to:** [[literature-notes]]
 
-**Instance of:** [[Zettelkasten Workflow]]
+**Instance of:** [[zettelkasten-workflow]]
 
 **Source:** [[fleeting-notes-synthetic-seed-2026-04-25]]

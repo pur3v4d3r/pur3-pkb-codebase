@@ -74,7 +74,7 @@ provenance:
 # Prototype Theory of Concepts
 
 > [!definition] **Prototype Theory of Concepts**
-> The Prototype Theory of Concepts, developed primarily by Eleanor Rosch, posits that natural categories are mentally represented around a central 'prototype' — a most-typical exemplar or feature cluster — with category membership determined by graded similarity to that prototype rather than by satisfaction of necessary and sufficient conditions. It falls under [[Cognitive Architecture]], as it describes how the mind organizes and processes information about categories.
+> The Prototype Theory of Concepts, developed primarily by Eleanor Rosch, posits that natural categories are mentally represented around a central 'prototype' — a most-typical exemplar or feature cluster — with category membership determined by graded similarity to that prototype rather than by satisfaction of necessary and sufficient conditions. It falls under [[cognitive-architecture]], as it describes how the mind organizes and processes information about categories.
 
 > [!attention] **Boundary**
 > This theory excludes the classical definitional view where concepts are defined by rigid criteria. It also does not encompass every possible categorization model but focuses on how typicality influences category membership and processing.
@@ -128,7 +128,7 @@ The Prototype Theory of Concepts is crucial in cognitive psychology as it provid
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Sibling concepts:** [[Family Resemblance]]
 

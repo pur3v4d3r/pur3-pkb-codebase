@@ -33,7 +33,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[working-memory]]"
-  - "[[State-Dependent Memory]]"
+  - "[[state-dependent-memory]]"
 prerequisites:
   - "[[working-memory]]"
 specializes:
@@ -43,7 +43,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[State-Dependent Memory]]"
+  - "[[state-dependent-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -131,6 +131,6 @@ Moreover, Context-Dependent Memory bridges the gap between intrinsic and extrane
 
 **Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[State-Dependent Memory]]
+**Contrasts with:** [[state-dependent-memory]]
 
 **Source:** [[context-dependent-memory-synthetic-seed-2026-04-25]]

@@ -35,7 +35,7 @@ parent-concept: "Cognitive Architecture"
 related:
   - "[[Self-Awareness]]"
   - "[[Empathy]]"
-  - "[[Social Cognition]]"
+  - "[[social-cognition]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Social Cognition]]"
+  - "[[social-cognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -145,6 +145,6 @@ The ability model of EI has demonstrated incremental predictive validity over ge
 
 **Sibling concepts:** [[Self-Awareness]] · [[Empathy]]
 
-**Applies to:** [[Social Cognition]]
+**Applies to:** [[social-cognition]]
 
 **Source:** [[emotional-intelligence-synthetic-seed-2026-04-25]]

@@ -33,19 +33,19 @@ depth-level: elaborated
 parent-concept: "Retrieval Practice"
 
 related:
-  - "[[Retrieval Practice]]"
-  - "[[Testing Effect]]"
-  - "[[Proactive Interference]]"
+  - "[[retrieval-practice]]"
+  - "[[testing-effect]]"
+  - "[[proactive-interference]]"
 prerequisites:
-  - "[[Retrieval Practice]]"
+  - "[[retrieval-practice]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Testing Effect]]"
+  - "[[testing-effect]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Proactive Interference]]"
+  - "[[proactive-interference]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Forward Testing Effect
 
 > [!definition] **Forward Testing Effect**
-> The Forward Testing Effect refers to the phenomenon where testing on earlier material enhances the subsequent learning of unrelated new material, beyond the direct benefit gained from testing the tested items themselves. It falls under [[Retrieval Practice]], as it leverages the principles of retrieval to improve long-term retention and learning efficiency.
+> The Forward Testing Effect refers to the phenomenon where testing on earlier material enhances the subsequent learning of unrelated new material, beyond the direct benefit gained from testing the tested items themselves. It falls under [[retrieval-practice]], as it leverages the principles of retrieval to improve long-term retention and learning efficiency.
 
 > [!attention] **Boundary**
 > This concept is distinct from other forms of retrieval practice and does not include cases where recognition tests or low-demand cues fail to produce the effect.
@@ -132,12 +132,12 @@ Understanding the Forward Testing Effect is essential for bridging gaps between 
 
 ## Connections & Context
 
-**Falls under:** [[Retrieval Practice]]
+**Falls under:** [[retrieval-practice]]
 
-**Prerequisites:** [[Retrieval Practice]]
+**Prerequisites:** [[retrieval-practice]]
 
-**Generalizes to:** [[Testing Effect]]
+**Generalizes to:** [[testing-effect]]
 
-**Contrasts with:** [[Proactive Interference]]
+**Contrasts with:** [[proactive-interference]]
 
 **Source:** [[forward-testing-effect-synthetic-seed-2026-04-26]]

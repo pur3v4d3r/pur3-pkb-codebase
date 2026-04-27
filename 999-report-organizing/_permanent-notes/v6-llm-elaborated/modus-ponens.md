@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Classical Propositional Logic"
 
 related:
-  - "[[Modus Tollens]]"
+  - "[[modus-tollens]]"
   - "[[Conversational Conditionals]]"
 prerequisites:
   - "[[]]"
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Modus Tollens]]"
+  - "[[modus-tollens]]"
 contrasts-with:
   - "[[Conversational Conditionals]]"
 contradicts:
@@ -135,7 +135,7 @@ The concept's importance extends beyond logic into broader epistemological quest
 
 **Falls under:** [[Classical Propositional Logic]]
 
-**Sibling concepts:** [[Modus Tollens]]
+**Sibling concepts:** [[modus-tollens]]
 
 **Contrasts with:** [[Conversational Conditionals]]
 

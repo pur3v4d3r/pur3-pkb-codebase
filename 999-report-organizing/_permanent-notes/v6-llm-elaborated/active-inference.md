@@ -28,19 +28,19 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Predictive Processing
 related:
-  - '[[Free Energy Principle]]'
-  - '[[Predictive Coding]]'
-  - '[[Bayesian Brain]]'
+  - '[[free-energy-principle]]'
+  - '[[predictive-coding]]'
+  - '[[bayesian-brain]]'
 prerequisites:
   - '[[]]'
 specializes:
   - '[[]]'
 broader:
-  - '[[Free Energy Principle]]'
+  - '[[free-energy-principle]]'
 see-also:
-  - '[[Predictive Coding]]'
+  - '[[predictive-coding]]'
 contrasts-with:
-  - '[[Bayesian Brain]]'
+  - '[[bayesian-brain]]'
 contradicts:
   - '[[]]'
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Active Inference
 
 > [!definition] **Active Inference**
-> Active Inference is a theoretical framework developed by Karl Friston that unifies perception and action under the principle of minimizing variational free energy, falling under [[Predictive Processing]]. It extends the Free Energy Principle by integrating motor commands as proprioceptive predictions whose prediction errors are minimized through the spinal reflex arc, thus reframing action as the resolution of self-fulfilling predictions rather than a separate output of a motor controller.
+> Active Inference is a theoretical framework developed by Karl Friston that unifies perception and action under the principle of minimizing variational free energy, falling under [[predictive-processing]]. It extends the Free Energy Principle by integrating motor commands as proprioceptive predictions whose prediction errors are minimized through the spinal reflex arc, thus reframing action as the resolution of self-fulfilling predictions rather than a separate output of a motor controller.
 
 > [!attention] **Boundary**
 > This concept excludes specific implementations or applications of Active Inference, focusing on its core principles and mechanisms.
@@ -159,12 +159,12 @@ The framework's generative nature and emphasis on minimizing prediction errors m
 
 ## Connections & Context
 
-**Falls under:** [[Predictive Processing]]
+**Falls under:** [[predictive-processing]]
 
-**Generalizes to:** [[Free Energy Principle]]
+**Generalizes to:** [[free-energy-principle]]
 
-**Sibling concepts:** [[Predictive Coding]]
+**Sibling concepts:** [[predictive-coding]]
 
-**Contrasts with:** [[Bayesian Brain]]
+**Contrasts with:** [[bayesian-brain]]
 
 **Source:** [[active-inference-synthetic-seed-2026-04-26]]

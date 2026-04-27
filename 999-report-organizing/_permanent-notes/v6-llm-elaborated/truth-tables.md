@@ -34,7 +34,7 @@ parent-concept: "Formal Logic"
 
 related:
   - "[[Natural Deduction]]"
-  - "[[Propositional Logic]]"
+  - "[[propositional-logic]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Propositional Logic]]"
+  - "[[propositional-logic]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Truth Tables
 
 > [!definition] **Truth Tables**
-> Truth Tables are systematic representations used in formal logic to determine the truth value of compound propositions based on all possible assignments of truth values to their atomic components. It falls under [[Formal Logic]], where it provides a mechanical decision procedure for validity in propositional calculus, but not in predicate logic due to its exponential growth with the number of atoms.
+> Truth Tables are systematic representations used in formal logic to determine the truth value of compound propositions based on all possible assignments of truth values to their atomic components. It falls under [[formal-logic]], where it provides a mechanical decision procedure for validity in propositional calculus, but not in predicate logic due to its exponential growth with the number of atoms.
 
 > [!attention] **Boundary**
 > This concept excludes more complex logical systems like predicate logic, where Truth Tables may not provide a practical decision procedure due to exponential growth with the number of atoms.
@@ -129,10 +129,10 @@ Truth Tables are a cornerstone of formal logic, offering a clear and mechanical 
 
 ## Connections & Context
 
-**Falls under:** [[Formal Logic]]
+**Falls under:** [[formal-logic]]
 
 **Contrasts with:** [[Natural Deduction]]
 
-**Applies to:** [[Propositional Logic]]
+**Applies to:** [[propositional-logic]]
 
 **Source:** [[truth-tables-synthetic-seed-2026-04-25]]

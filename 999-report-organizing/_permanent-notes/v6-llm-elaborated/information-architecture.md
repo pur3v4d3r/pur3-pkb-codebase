@@ -33,14 +33,14 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Taxonomy Design]]"
-  - "[[Ontology Design]]"
+  - "[[ontology-design]]"
   - "[[Navigation Design]]"
   - "[[Usability Engineering]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[Taxonomy Design]]"
-  - "[[Ontology Design]]"
+  - "[[ontology-design]]"
   - "[[Navigation Design]]"
 broader:
   - "[[]]"
@@ -75,7 +75,7 @@ provenance:
 # Information Architecture
 
 > [!definition] **Information Architecture**
-> Information Architecture (IA) is the structural design of shared information environments, including categorization, labeling, navigation, and search systems, aimed at supporting findability and understandability for users. It falls under [[Cognitive Architecture]], focusing on the organization and presentation of content to enhance usability.
+> Information Architecture (IA) is the structural design of shared information environments, including categorization, labeling, navigation, and search systems, aimed at supporting findability and understandability for users. It falls under [[cognitive-architecture]], focusing on the organization and presentation of content to enhance usability.
 
 > [!attention] **Boundary**
 > It excludes visual design and content strategy but includes taxonomy, ontology, and navigation design. Poor IA can render even excellent content effectively invisible to users who do not already know exactly what they are looking for and where it lives.
@@ -138,9 +138,9 @@ The importance of Information Architecture extends beyond individual projects; i
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Specializes:** [[Taxonomy Design]] · [[Ontology Design]] · [[Navigation Design]]
+**Specializes:** [[Taxonomy Design]] · [[ontology-design]] · [[Navigation Design]]
 
 **Applies to:** [[Usability Engineering]]
 

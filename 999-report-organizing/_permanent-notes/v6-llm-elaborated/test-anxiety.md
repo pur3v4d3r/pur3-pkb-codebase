@@ -33,12 +33,12 @@ depth-level: elaborated
 parent-concept: "Achievement Emotions"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Attentional Control Theory]]"
-  - "[[Control-Value Theory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[control-value-theory]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,13 +50,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Control-Value Theory]]"
+  - "[[control-value-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Test Anxiety
 
 > [!definition] **Test Anxiety**
-> Test Anxiety is a multi-component aversive state that includes cognitive worry, physiological arousal, and behavioral avoidance, experienced by learners in evaluative situations. It falls under [[Achievement Emotions]], focusing on the situational response to tests rather than broader personality traits or other forms of anxiety.
+> Test Anxiety is a multi-component aversive state that includes cognitive worry, physiological arousal, and behavioral avoidance, experienced by learners in evaluative situations. It falls under [[achievement-emotions]], focusing on the situational response to tests rather than broader personality traits or other forms of anxiety.
 
 > [!attention] **Boundary**
 > This definition excludes other forms of anxiety not specifically related to evaluative testing, such as generalized anxiety disorder or social anxiety. It also does not encompass broader personality traits but focuses on the situational response to tests.
@@ -136,14 +136,14 @@ The study of Test Anxiety has significant implications for instructional design,
 
 ## Connections & Context
 
-**Falls under:** [[Achievement Emotions]]
+**Falls under:** [[achievement-emotions]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[Attentional Control Theory]]
 
-**Applies to:** [[Control-Value Theory]]
+**Applies to:** [[control-value-theory]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[test-anxiety-synthetic-seed-2026-04-25]]

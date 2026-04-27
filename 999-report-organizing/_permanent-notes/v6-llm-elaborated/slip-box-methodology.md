@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Knowledge Management"
 
 related:
-  - "[[Atomic Notes]]"
+  - "[[atomic-notes]]"
   - "[[Zettelkasten Method]]"
-  - "[[Evergreen Notes]]"
+  - "[[evergreen-notes]]"
 prerequisites:
-  - "[[Atomic Notes]]"
+  - "[[atomic-notes]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Evergreen Notes]]"
+  - "[[evergreen-notes]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Slip Box Methodology
 
 > [!definition] **Slip Box Methodology**
-> Slip Box Methodology is a note-taking approach developed by Niklas Luhmann, where atomic notes — each expressing a single idea in the note-maker's own words — are linked to other relevant notes through explicit cross-references. This methodology falls under [[Knowledge Management]], focusing on creating and linking original-language notes rather than merely archiving information.
+> Slip Box Methodology is a note-taking approach developed by Niklas Luhmann, where atomic notes — each expressing a single idea in the note-maker's own words — are linked to other relevant notes through explicit cross-references. This methodology falls under [[knowledge-management]], focusing on creating and linking original-language notes rather than merely archiving information.
 
 > [!attention] **Boundary**
 > This methodology focuses on the creation and linking of original-language notes rather than merely archiving information. It excludes digital filing schemes that lack deliberate linking and atomic note creation.
@@ -132,12 +132,12 @@ The methodology's generative benefits, particularly its ability to surface unexp
 
 ## Connections & Context
 
-**Falls under:** [[Knowledge Management]]
+**Falls under:** [[knowledge-management]]
 
-**Prerequisites:** [[Atomic Notes]]
+**Prerequisites:** [[atomic-notes]]
 
 **Sibling concepts:** [[Zettelkasten Method]]
 
-**Applies to:** [[Evergreen Notes]]
+**Applies to:** [[evergreen-notes]]
 
 **Source:** [[slip-box-methodology-synthetic-seed-2026-04-25]]

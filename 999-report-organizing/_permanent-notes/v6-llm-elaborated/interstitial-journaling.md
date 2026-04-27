@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Interstitial Journaling
 
 > [!definition] **Interstitial Journaling**
-> Interstitial Journaling is the practice of writing brief journal entries between tasks throughout the day, capturing recent activities, future plans, and current mental states during natural task transitions. It falls under [[Cognitive Architecture]], exploiting cognitive facts about attention decoupling to enhance metacognition and decision-making.
+> Interstitial Journaling is the practice of writing brief journal entries between tasks throughout the day, capturing recent activities, future plans, and current mental states during natural task transitions. It falls under [[cognitive-architecture]], exploiting cognitive facts about attention decoupling to enhance metacognition and decision-making.
 
 > [!attention] **Boundary**
 > This concept excludes long-form end-of-day reflections or dedicated journal sessions. It focuses on short, frequent entries that serve as cognitive reorientation tools.
@@ -128,10 +128,10 @@ Interstitial Journaling matters because it integrates seamlessly into the natura
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[interstitial-journaling-synthetic-seed-2026-04-25]]

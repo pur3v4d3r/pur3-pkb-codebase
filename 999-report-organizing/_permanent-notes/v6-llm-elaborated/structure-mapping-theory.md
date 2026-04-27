@@ -2,6 +2,7 @@
 title: "Structure Mapping Theory"
 aliases:
   - "Structure Mapping Theory"
+  - "Structure-Mapping Theory"
   - "Gentner structure mapping"
   - "SMT"
 type: permanent-note
@@ -33,8 +34,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Analogical Reasoning]]"
-  - "[[Case-Based Reasoning]]"
+  - "[[analogical-reasoning]]"
+  - "[[case-based-reasoning]]"
   - "[[Relational Thinking]]"
 prerequisites:
   - "[[]]"
@@ -43,9 +44,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Analogical Reasoning]]"
+  - "[[analogical-reasoning]]"
 contrasts-with:
-  - "[[Case-Based Reasoning]]"
+  - "[[case-based-reasoning]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +74,7 @@ provenance:
 # Structure Mapping Theory
 
 > [!definition] **Structure Mapping Theory**
-> Structure Mapping Theory is an account of analogical reasoning developed by Dedre Gentner, which posits that analogy involves aligning relational structures between a base domain and a target domain, with object attributes secondary to these relations. It falls under [[Cognitive Architecture]], focusing on the alignment of relational structure rather than surface features.
+> Structure Mapping Theory is an account of analogical reasoning developed by Dedre Gentner, which posits that analogy involves aligning relational structures between a base domain and a target domain, with object attributes secondary to these relations. It falls under [[cognitive-architecture]], focusing on the alignment of relational structure rather than surface features.
 
 > [!attention] **Boundary**
 > This theory focuses on the alignment of relational structure rather than surface features, excluding discussions about retrieval processes or other aspects of analogical reasoning not related to structural mapping.
@@ -132,11 +133,11 @@ The theory’s focus on relational structure also connects it to other concepts 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Analogical Reasoning]]
+**Sibling concepts:** [[analogical-reasoning]]
 
-**Contrasts with:** [[Case-Based Reasoning]]
+**Contrasts with:** [[case-based-reasoning]]
 
 **Applies to:** [[Relational Thinking]]
 

@@ -32,25 +32,25 @@ depth-level: elaborated
 parent-concept: "Decision Science"
 
 related:
-  - "[[Hyperbolic Discounting]]"
+  - "[[hyperbolic-discounting]]"
   - "[[Akrasia]]"
-  - "[[Self-Control]]"
-  - "[[Implementation Intention]]"
+  - "[[self-control]]"
+  - "[[implementation-intention]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Hyperbolic Discounting]]"
+  - "[[hyperbolic-discounting]]"
 see-also:
   - "[[]]"
 contrasts-with:
   - "[[Akrasia]]"
-  - "[[Self-Control]]"
+  - "[[self-control]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implementation Intention]]"
+  - "[[implementation-intention]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Present Bias
 
 > [!definition] **Present Bias**
-> Present Bias is a cognitive phenomenon where individuals disproportionately value immediate rewards over future ones, leading to impulsive decisions that may not be in their long-term best interest. It falls under [[Decision Science]], as it pertains specifically to the psychological mechanisms underlying decision-making processes.
+> Present Bias is a cognitive phenomenon where individuals disproportionately value immediate rewards over future ones, leading to impulsive decisions that may not be in their long-term best interest. It falls under [[decision-science]], as it pertains specifically to the psychological mechanisms underlying decision-making processes.
 
 > [!attention] **Boundary**
 > This concept excludes simple impatience and focuses on the specific psychological mechanism of valuing present rewards more heavily than future ones. It should not be confused with general decision-making biases or time inconsistency without preference reversal.
@@ -140,12 +140,12 @@ Present Bias intersects with other related concepts such as hyperbolic discounti
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
-**Generalizes to:** [[Hyperbolic Discounting]]
+**Generalizes to:** [[hyperbolic-discounting]]
 
-**Contrasts with:** [[Akrasia]] · [[Self-Control]]
+**Contrasts with:** [[Akrasia]] · [[self-control]]
 
-**Applies to:** [[Implementation Intention]]
+**Applies to:** [[implementation-intention]]
 
 **Source:** [[present-bias-synthetic-seed-2026-04-25]]

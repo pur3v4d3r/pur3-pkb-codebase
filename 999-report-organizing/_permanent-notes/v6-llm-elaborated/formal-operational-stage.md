@@ -36,7 +36,7 @@ related:
   - "[[Abstract Thought]]"
   - "[[Concrete Operational Stage]]"
   - "[[Hypothetico-Deductive Reasoning]]"
-  - "[[Scientific Reasoning]]"
+  - "[[scientific-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -51,7 +51,7 @@ contradicts:
   - "[[]]"
 applies-to:
   - "[[Hypothetico-Deductive Reasoning]]"
-  - "[[Scientific Reasoning]]"
+  - "[[scientific-reasoning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -138,6 +138,6 @@ Empirical evidence supports the development of formal operational thinking aroun
 
 **Contrasts with:** [[Concrete Operational Stage]]
 
-**Applies to:** [[Hypothetico-Deductive Reasoning]] · [[Scientific Reasoning]]
+**Applies to:** [[Hypothetico-Deductive Reasoning]] · [[scientific-reasoning]]
 
 **Source:** [[formal-operational-stage-synthetic-seed-2026-04-26]]

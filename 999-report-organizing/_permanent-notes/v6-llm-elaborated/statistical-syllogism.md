@@ -34,9 +34,9 @@ depth-level: elaborated
 parent-concept: "Inductive Inference"
 
 related:
-  - "[[Base-Rate Neglect]]"
-  - "[[Argument from Analogy]]"
-  - "[[Probability Judgment]]"
+  - "[[base-rate-neglect]]"
+  - "[[argument-from-analogy]]"
+  - "[[probability-judgment]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,12 +46,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Base-Rate Neglect]]"
-  - "[[Argument from Analogy]]"
+  - "[[base-rate-neglect]]"
+  - "[[argument-from-analogy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Probability Judgment]]"
+  - "[[probability-judgment]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -136,8 +136,8 @@ Statistical Syllogisms also intersect with broader concepts such as probability 
 
 **Falls under:** [[Inductive Inference]]
 
-**Contrasts with:** [[Base-Rate Neglect]] · [[Argument from Analogy]]
+**Contrasts with:** [[base-rate-neglect]] · [[argument-from-analogy]]
 
-**Applies to:** [[Probability Judgment]]
+**Applies to:** [[probability-judgment]]
 
 **Source:** [[statistical-syllogism-synthetic-seed-2026-04-26]]

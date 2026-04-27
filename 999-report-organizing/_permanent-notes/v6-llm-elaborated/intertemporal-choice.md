@@ -33,18 +33,18 @@ depth-level: elaborated
 parent-concept: "Decision Science"
 
 related:
-  - "[[Hyperbolic Discounting]]"
-  - "[[Present Bias]]"
+  - "[[hyperbolic-discounting]]"
+  - "[[present-bias]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Hyperbolic Discounting]]"
+  - "[[hyperbolic-discounting]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Present Bias]]"
+  - "[[present-bias]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Intertemporal Choice
 
 > [!definition] **Intertemporal Choice**
-> Intertemporal Choice involves making decisions between options that have different outcomes at different times, often leading to preferences for immediate rewards over larger future ones. It falls under [[Decision Science]], encompassing both the descriptive question of how people actually discount the future and the normative question of how they ought to.
+> Intertemporal Choice involves making decisions between options that have different outcomes at different times, often leading to preferences for immediate rewards over larger future ones. It falls under [[decision-science]], encompassing both the descriptive question of how people actually discount the future and the normative question of how they ought to.
 
 > [!attention] **Boundary**
 > This concept excludes other decision-making processes not involving time, such as risk assessment or preference for certainty. It also does not encompass all forms of delayed gratification but focuses on the discounting of future rewards relative to present ones.
@@ -141,10 +141,10 @@ Empirical evidence consistently shows that discounting is hyperbolic rather than
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
-**Specializes:** [[Hyperbolic Discounting]]
+**Specializes:** [[hyperbolic-discounting]]
 
-**Contrasts with:** [[Present Bias]]
+**Contrasts with:** [[present-bias]]
 
 **Source:** [[intertemporal-choice-synthetic-seed-2026-04-26]]

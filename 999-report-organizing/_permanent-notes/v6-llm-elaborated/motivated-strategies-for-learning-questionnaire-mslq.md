@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Pintrich's S-4-4 Matrix]]"
-  - "[[Cognitive Strategy Use]]"
+  - "[[cognitive-strategy-use]]"
   - "[[Metacognitive Strategy]]"
 prerequisites:
   - "[[]]"
@@ -44,14 +44,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
   - "[[Pintrich's S-4-4 Matrix]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Strategy Use]]"
+  - "[[cognitive-strategy-use]]"
   - "[[Metacognitive Strategy]]"
 formalizes:
   - "[[]]"
@@ -76,7 +76,7 @@ provenance:
 # Motivated Strategies for Learning Questionnaire MSLQ
 
 > [!definition] **Motivated Strategies for Learning Questionnaire MSLQ**
-> The Motivated Strategies for Learning Questionnaire (MSLQ) is a self-report assessment tool developed by Pintrich and colleagues to evaluate college students' motivation, cognitive, metacognitive, and resource-management strategies. It falls under [[Self-Regulated Learning]], providing the empirical bridge between theoretical models and practical applications in educational settings.
+> The Motivated Strategies for Learning Questionnaire (MSLQ) is a self-report assessment tool developed by Pintrich and colleagues to evaluate college students' motivation, cognitive, metacognitive, and resource-management strategies. It falls under [[self-regulated-learning]], providing the empirical bridge between theoretical models and practical applications in educational settings.
 
 > [!attention] **Boundary**
 > This concept focuses on the MSLQ as an instrument and does not include specific motivational theories or individual learning strategies it measures.
@@ -135,10 +135,10 @@ The MSLQ also plays a crucial role in informing interventions aimed at enhancing
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Sibling concepts:** [[Self-Regulated Learning]] · [[Pintrich's S-4-4 Matrix]]
+**Sibling concepts:** [[self-regulated-learning]] · [[Pintrich's S-4-4 Matrix]]
 
-**Applies to:** [[Cognitive Strategy Use]] · [[Metacognitive Strategy]]
+**Applies to:** [[cognitive-strategy-use]] · [[Metacognitive Strategy]]
 
 **Source:** [[motivated-strategies-for-learning-questionnaire-mslq-synthetic-seed-2026-04-25]]

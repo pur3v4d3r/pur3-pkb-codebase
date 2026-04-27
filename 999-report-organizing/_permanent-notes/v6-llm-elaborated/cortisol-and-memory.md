@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Stress Physiology"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Stress-Physiology]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -134,7 +134,7 @@ This concept also intersects with broader domains such as working memory and pre
 
 **Falls under:** [[Stress Physiology]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Generalizes to:** [[Stress-Physiology]]
 

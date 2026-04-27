@@ -35,7 +35,7 @@ parent-concept: "Formal Logic"
 related:
   - "[[predicate-logic]]"
   - "[[modal-logic]]"
-  - "[[Truth Tables]]"
+  - "[[truth-tables]]"
   - "[[Boolean Algebra]]"
 prerequisites:
   - "[[]]"
@@ -51,7 +51,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Truth Tables]]"
+  - "[[truth-tables]]"
 formalizes:
   - "[[Boolean Algebra]]"
 instance-of:
@@ -75,7 +75,7 @@ provenance:
 # Propositional Logic
 
 > [!definition] **Propositional Logic**
-> Propositional Logic is the branch of formal logic that analyzes inferences based on sentence-level connectives like 'and', 'or', and 'not', without reference to the internal structure of sentences, making it a foundational system within [[Formal Logic]]. It excludes quantifiers ('all', 'some'), identity, and modality, focusing solely on how these connectives affect logical outcomes.
+> Propositional Logic is the branch of formal logic that analyzes inferences based on sentence-level connectives like 'and', 'or', and 'not', without reference to the internal structure of sentences, making it a foundational system within [[formal-logic]]. It excludes quantifiers ('all', 'some'), identity, and modality, focusing solely on how these connectives affect logical outcomes.
 
 > [!attention] **Boundary**
 > It excludes internal sentence structure, quantifiers ('all', 'some'), identity, and modality, focusing solely on how these connectives affect logical outcomes.
@@ -131,11 +131,11 @@ The foundational achievement of Propositional Logic lies in its ability to provi
 
 ## Connections & Context
 
-**Falls under:** [[Formal Logic]]
+**Falls under:** [[formal-logic]]
 
 **Generalizes to:** [[predicate-logic]] · [[modal-logic]]
 
-**Applies to:** [[Truth Tables]]
+**Applies to:** [[truth-tables]]
 
 **Formalizes:** [[Boolean Algebra]]
 

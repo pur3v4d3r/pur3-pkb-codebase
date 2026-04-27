@@ -35,7 +35,7 @@ parent-concept: "Linguistics"
 
 related:
   - "[[Grice's Maxims]]"
-  - "[[Pragmatics]]"
+  - "[[pragmatics]]"
   - "[[Performatives]]"
 prerequisites:
   - "[[]]"
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Pragmatics]]"
+  - "[[pragmatics]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -136,7 +136,7 @@ Understanding Speech Acts is crucial for comprehending language use and social i
 
 **Contrasts with:** [[Grice's Maxims]]
 
-**Applies to:** [[Pragmatics]]
+**Applies to:** [[pragmatics]]
 
 **Instance of:** [[Performatives]]
 

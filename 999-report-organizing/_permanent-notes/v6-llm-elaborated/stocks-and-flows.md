@@ -33,8 +33,8 @@ parent-concept: "System Dynamics"
 
 related:
   - "[[System Dynamics]]"
-  - "[[Feedback Loops]]"
-  - "[[Causal Loop Diagrams]]"
+  - "[[feedback-loops]]"
+  - "[[causal-loop-diagrams]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Feedback Loops]]"
+  - "[[feedback-loops]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Causal Loop Diagrams]]"
+  - "[[causal-loop-diagrams]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -143,8 +143,8 @@ Empirical evidence from John Sterman's research demonstrates that even quantitat
 
 **Generalizes to:** [[System Dynamics]]
 
-**Contrasts with:** [[Feedback Loops]]
+**Contrasts with:** [[feedback-loops]]
 
-**Applies to:** [[Causal Loop Diagrams]]
+**Applies to:** [[causal-loop-diagrams]]
 
 **Source:** [[stocks-and-flows-synthetic-seed-2026-04-25]]

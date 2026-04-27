@@ -33,12 +33,12 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Mnemonic Techniques]]"
-  - "[[Episodic Memory]]"
-  - "[[Dual-Coding Theory]]"
+  - "[[episodic-memory]]"
+  - "[[dual-coding-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -50,13 +50,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Episodic Memory]]"
+  - "[[episodic-memory]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Dual-Coding Theory]]"
+  - "[[dual-coding-theory]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Method of Loci
 
 > [!definition] **Method of Loci**
-> The Method of Loci is an ancient mnemonic technique where items to be remembered are associated with specific locations along a familiar route, aiding recall through spatial cues. It falls under [[Cognitive Architecture]], exploiting the brain's evolutionarily over-trained navigational system for structured retrieval cues.
+> The Method of Loci is an ancient mnemonic technique where items to be remembered are associated with specific locations along a familiar route, aiding recall through spatial cues. It falls under [[cognitive-architecture]], exploiting the brain's evolutionarily over-trained navigational system for structured retrieval cues.
 
 > [!attention] **Boundary**
 > This concept focuses on the use of spatial memory for memorization and does not cover other mnemonic techniques or cognitive processes.
@@ -131,14 +131,14 @@ Understanding the Method of Loci is crucial for enhancing memory enhancement str
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Sibling concepts:** [[Mnemonic Techniques]]
 
-**Applies to:** [[Episodic Memory]]
+**Applies to:** [[episodic-memory]]
 
-**Supports:** [[Dual-Coding Theory]]
+**Supports:** [[dual-coding-theory]]
 
 **Source:** [[method-of-loci-synthetic-seed-2026-04-26]]

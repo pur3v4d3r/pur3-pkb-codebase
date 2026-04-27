@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Philosophy of Mind"
 
 related:
-  - "[[Phenomenology]]"
+  - "[[phenomenology]]"
   - "[[Mental Content]]"
 prerequisites:
-  - "[[Phenomenology]]"
+  - "[[phenomenology]]"
 specializes:
   - "[[]]"
 broader:
@@ -135,7 +135,7 @@ Intentionality is a key concept in both philosophy and the philosophy of mind, s
 
 **Falls under:** [[Philosophy of Mind]]
 
-**Prerequisites:** [[Phenomenology]]
+**Prerequisites:** [[phenomenology]]
 
 **Sibling concepts:** [[Mental Content]]
 

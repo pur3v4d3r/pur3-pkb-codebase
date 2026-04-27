@@ -71,7 +71,7 @@ provenance:
 # Intellectual Humility
 
 > [!definition] **Intellectual Humility**
-> Intellectual Humility is the disposition to recognize the limits of one's own knowledge and reasoning, including susceptibility to bias and partiality, and engaging with disagreement as potentially informative rather than threatening. It falls under [[Epistemology]], focusing specifically on epistemic contexts.
+> Intellectual Humility is the disposition to recognize the limits of one's own knowledge and reasoning, including susceptibility to bias and partiality, and engaging with disagreement as potentially informative rather than threatening. It falls under [[epistemology]], focusing specifically on epistemic contexts.
 
 > [!attention] **Boundary**
 > This concept excludes mere professing of fallibility without corresponding behavior. It does not encompass all forms of humility or open-mindedness but focuses specifically on epistemic contexts.
@@ -137,7 +137,7 @@ Empirical studies have consistently shown that individuals who exhibit Intellect
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Prerequisites:** [[Open-Mindedness]]
 

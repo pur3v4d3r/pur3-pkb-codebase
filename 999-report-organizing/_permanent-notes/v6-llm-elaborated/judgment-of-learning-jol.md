@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Metacognition"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Retrieval Practice]]"
+  - "[[working-memory]]"
+  - "[[retrieval-practice]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Retrieval Practice]]"
+  - "[[retrieval-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Judgment of Learning JOL
 
 > [!definition] **Judgment of Learning JOL**
-> Judgment of Learning (JOL) is a learner's estimate of the probability that recently encoded information will be retrievable on future tests, crucial for metacognitive monitoring. It falls under [[Metacognition]], focusing specifically on prospective estimates of long-term retention rather than immediate recall or judgments made without prior study.
+> Judgment of Learning (JOL) is a learner's estimate of the probability that recently encoded information will be retrievable on future tests, crucial for metacognitive monitoring. It falls under [[metacognition]], focusing specifically on prospective estimates of long-term retention rather than immediate recall or judgments made without prior study.
 
 > [!attention] **Boundary**
 > This concept excludes other types of judgments like confidence in immediate recall or judgments made without prior study. It focuses specifically on prospective estimates of long-term retention.
@@ -129,10 +129,10 @@ Judgment of Learning (JOL) is a vital concept in metacognitive monitoring, offer
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Retrieval Practice]]
+**Applies to:** [[retrieval-practice]]
 
 **Source:** [[judgment-of-learning-jol-synthetic-seed-2026-04-25]]

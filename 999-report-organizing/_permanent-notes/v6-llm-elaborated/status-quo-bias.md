@@ -31,10 +31,10 @@ depth-level: elaborated
 parent-concept: "Decision-Biases"
 
 related:
-  - "[[Loss Aversion]]"
-  - "[[Endowment Effect]]"
+  - "[[loss-aversion]]"
+  - "[[endowment-effect]]"
 prerequisites:
-  - "[[Loss Aversion]]"
+  - "[[loss-aversion]]"
 specializes:
   - "[[]]"
 broader:
@@ -42,7 +42,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Endowment Effect]]"
+  - "[[endowment-effect]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -131,8 +131,8 @@ This bias intersects with other decision-science concepts like the endowment eff
 
 **Falls under:** [[Decision-Biases]]
 
-**Prerequisites:** [[Loss Aversion]]
+**Prerequisites:** [[loss-aversion]]
 
-**Contrasts with:** [[Endowment Effect]]
+**Contrasts with:** [[endowment-effect]]
 
 **Source:** [[status-quo-bias-synthetic-seed-2026-04-25]]

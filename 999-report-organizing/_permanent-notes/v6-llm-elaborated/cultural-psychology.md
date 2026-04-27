@@ -33,8 +33,8 @@ parent-concept: "Psychology"
 
 related:
   - "[[Self-Construal]]"
-  - "[[Cross-Cultural Psychology]]"
-  - "[[Social Cognition]]"
+  - "[[cross-cultural-psychology]]"
+  - "[[social-cognition]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cross-Cultural Psychology]]"
+  - "[[cross-cultural-psychology]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Social Cognition]]"
+  - "[[social-cognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,8 +133,8 @@ Cultural Psychology significantly advances our understanding of human cognition 
 
 **Specializes:** [[Self-Construal]]
 
-**Contrasts with:** [[Cross-Cultural Psychology]]
+**Contrasts with:** [[cross-cultural-psychology]]
 
-**Applies to:** [[Social Cognition]]
+**Applies to:** [[social-cognition]]
 
 **Source:** [[cultural-psychology-synthetic-seed-2026-04-25]]

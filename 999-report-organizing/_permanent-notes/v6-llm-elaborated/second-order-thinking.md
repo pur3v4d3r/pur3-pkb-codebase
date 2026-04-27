@@ -34,7 +34,7 @@ parent-concept: "Systems-Thinking"
 
 related:
   - "[[first-principles-thinking]]"
-  - "[[Feedback-Loops]]"
+  - "[[feedback-loops]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Feedback-Loops]]"
+  - "[[feedback-loops]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -139,6 +139,6 @@ Empirical evidence from various fields supports the value of Second-Order Thinki
 
 **Contrasts with:** [[first-principles-thinking]]
 
-**Applies to:** [[Feedback-Loops]]
+**Applies to:** [[feedback-loops]]
 
 **Source:** [[second-order-thinking-synthetic-seed-2026-04-25]]

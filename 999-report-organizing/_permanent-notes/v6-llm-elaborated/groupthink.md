@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Social Psychology"
 
 related:
-  - "[[Confirmation Bias]]"
+  - "[[confirmation-bias]]"
   - "[[Polarization]]"
   - "[[Dissent-Suppression]]"
 prerequisites:
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Confirmation Bias]]"
+  - "[[confirmation-bias]]"
 contrasts-with:
   - "[[Polarization]]"
 contradicts:
@@ -133,7 +133,7 @@ The study of groupthink also has significant implications for fields such as edu
 
 **Falls under:** [[Social Psychology]]
 
-**Sibling concepts:** [[Confirmation Bias]]
+**Sibling concepts:** [[confirmation-bias]]
 
 **Contrasts with:** [[Polarization]]
 

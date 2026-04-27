@@ -74,7 +74,7 @@ provenance:
 # Literature Notes
 
 > [!definition] **Literature Notes**
-> Literature Notes are restatements of source material in one's own words, indexed to the original source, serving as a staging area for ideas that may become permanent atomic notes. This concept excludes summaries and highlights; it focuses on the act of reformulation, which is why copy-pasted highlights cannot substitute for them even when they look superficially complete. It falls under [[Zettelkasten Workflow]].
+> Literature Notes are restatements of source material in one's own words, indexed to the original source, serving as a staging area for ideas that may become permanent atomic notes. This concept excludes summaries and highlights; it focuses on the act of reformulation, which is why copy-pasted highlights cannot substitute for them even when they look superficially complete. It falls under [[zettelkasten-workflow]].
 
 > [!attention] **Boundary**
 > This concept excludes summaries and highlights; it focuses on the act of reformulation. It should not be confused with fleeting or evergreen notes.
@@ -136,7 +136,7 @@ The concept of Literature Notes has broader implications across various domains,
 
 ## Connections & Context
 
-**Falls under:** [[Zettelkasten Workflow]]
+**Falls under:** [[zettelkasten-workflow]]
 
 **Specializes:** [[atomic-notes]]
 

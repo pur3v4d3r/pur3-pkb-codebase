@@ -35,7 +35,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[far-transfer]]"
-  - "[[State-Dependent Memory]]"
+  - "[[state-dependent-memory]]"
   - "[[episodic-memory]]"
 prerequisites:
   - "[[]]"
@@ -47,7 +47,7 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[far-transfer]]"
-  - "[[State-Dependent Memory]]"
+  - "[[state-dependent-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -140,7 +140,7 @@ Moreover, the principle challenges traditional views of memory strength by empha
 
 **Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[far-transfer]] · [[State-Dependent Memory]]
+**Contrasts with:** [[far-transfer]] · [[state-dependent-memory]]
 
 **Applies to:** [[episodic-memory]]
 

@@ -27,7 +27,7 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Educational Psychology
 related:
-  - '[[Test Anxiety]]'
+  - '[[test-anxiety]]'
   - '[[emotional-regulation]]'
   - '[[control-value-theory]]'
 prerequisites:
@@ -39,7 +39,7 @@ broader:
 see-also:
   - '[[]]'
 contrasts-with:
-  - '[[Test Anxiety]]'
+  - '[[test-anxiety]]'
 contradicts:
   - '[[]]'
 applies-to:
@@ -161,7 +161,7 @@ Empirical research supports the impact of Academic Emotions on learning processe
 
 **Falls under:** [[educational-psychology]]
 
-**Contrasts with:** [[Test Anxiety]]
+**Contrasts with:** [[test-anxiety]]
 
 **Applies to:** [[emotional-regulation]]
 

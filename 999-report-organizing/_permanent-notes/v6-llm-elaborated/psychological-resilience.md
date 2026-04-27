@@ -33,7 +33,7 @@ parent-concept: "Cognitive Psychology"
 
 related:
   - "[[Hardiness]]"
-  - "[[Post-Traumatic Growth]]"
+  - "[[post-traumatic-growth]]"
   - "[[Coping Strategies]]"
 prerequisites:
   - "[[]]"
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[Hardiness]]"
 contrasts-with:
-  - "[[Post-Traumatic Growth]]"
+  - "[[post-traumatic-growth]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Psychological Resilience
 
 > [!definition] **Psychological Resilience**
-> Psychological Resilience refers to the capacity to maintain or recover psychological functioning in the face of adversity, trauma, threat, or significant stress — operationalized as the absence of expected adverse outcomes following exposure to events that typically produce them. It falls under [[Cognitive Psychology]], distinct from both passive lack of distress and active coping, characterized by adaptive functional continuity rather than mere absence of pathology.
+> Psychological Resilience refers to the capacity to maintain or recover psychological functioning in the face of adversity, trauma, threat, or significant stress — operationalized as the absence of expected adverse outcomes following exposure to events that typically produce them. It falls under [[cognitive-psychology]], distinct from both passive lack of distress and active coping, characterized by adaptive functional continuity rather than mere absence of pathology.
 
 > [!attention] **Boundary**
 > It is distinct from passive lack of distress and active coping, characterized by adaptive functional continuity rather than absence of pathology alone.
@@ -134,11 +134,11 @@ Psychological Resilience intersects with other concepts such as hardiness and po
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
 **Sibling concepts:** [[Hardiness]]
 
-**Contrasts with:** [[Post-Traumatic Growth]]
+**Contrasts with:** [[post-traumatic-growth]]
 
 **Applies to:** [[Coping Strategies]]
 

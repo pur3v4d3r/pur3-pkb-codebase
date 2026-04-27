@@ -32,18 +32,18 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
   - "[[Cognitive Biases]]"
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
 broader:
   - "[[]]"
 see-also:
   - "[[Cognitive Biases]]"
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -73,7 +73,7 @@ provenance:
 # Social Cognition
 
 > [!definition] **Social Cognition**
-> Social Cognition refers to the psychological study of how individuals perceive, encode, store, retrieve, and use information about themselves, others, and social situations using cognitive tools. It falls under [[Cognitive Psychology]], focusing on the cognitive mechanisms underlying social judgment and behavior while excluding non-social cognitive processes like memory for non-social content or perceptual processing without a social context.
+> Social Cognition refers to the psychological study of how individuals perceive, encode, store, retrieve, and use information about themselves, others, and social situations using cognitive tools. It falls under [[cognitive-psychology]], focusing on the cognitive mechanisms underlying social judgment and behavior while excluding non-social cognitive processes like memory for non-social content or perceptual processing without a social context.
 
 > [!attention] **Boundary**
 > This field excludes non-social cognitive processes like memory for non-social content or perceptual processing without a social context. It also does not encompass all aspects of social psychology but focuses on the cognitive mechanisms underlying social judgment and behavior.
@@ -126,16 +126,16 @@ The dual-process theory underpins Social Cognition, distinguishing between Syste
 
 ## Synthesis
 
-Social Cognition is a crucial framework for understanding human behavior and decision-making in social contexts because it provides a comprehensive model of how people process information about themselves and others. By integrating cognitive tools from [[Cognitive Psychology]], Social Cognition offers insights into both accurate and inaccurate social inference, making it indispensable for fields ranging from education to therapy and marketing.
+Social Cognition is a crucial framework for understanding human behavior and decision-making in social contexts because it provides a comprehensive model of how people process information about themselves and others. By integrating cognitive tools from [[cognitive-psychology]], Social Cognition offers insights into both accurate and inaccurate social inference, making it indispensable for fields ranging from education to therapy and marketing.
 
 The field's focus on dual-process theory and schema-driven inference highlights the complexity of social judgment, showing how fast, automatic processes can be supplemented by slower, deliberate reasoning. This balance is essential for developing effective interventions that address both cognitive biases and accurate social inference.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Specializes:** [[Dual-Process Theory]]
+**Specializes:** [[dual-process-theory]]
 
-**Sibling concepts:** [[Cognitive Biases]] · [[Attribution Theory]]
+**Sibling concepts:** [[Cognitive Biases]] · [[attribution-theory]]
 
 **Source:** [[social-cognition-synthetic-seed-2026-04-25]]

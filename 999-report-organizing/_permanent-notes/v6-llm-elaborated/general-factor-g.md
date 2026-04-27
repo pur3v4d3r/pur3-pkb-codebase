@@ -34,9 +34,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Fluid Intelligence]]"
-  - "[[Crystallized Intelligence]]"
-  - "[[Multiple Intelligences Theory]]"
+  - "[[fluid-intelligence]]"
+  - "[[crystallized-intelligence]]"
+  - "[[multiple-intelligences-theory]]"
   - "[[Intelligence Testing]]"
 prerequisites:
   - "[[]]"
@@ -45,10 +45,10 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Fluid Intelligence]]"
-  - "[[Crystallized Intelligence]]"
+  - "[[fluid-intelligence]]"
+  - "[[crystallized-intelligence]]"
 contrasts-with:
-  - "[[Multiple Intelligences Theory]]"
+  - "[[multiple-intelligences-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -76,7 +76,7 @@ provenance:
 # General Factor G
 
 > [!definition] **General Factor G**
-> General Factor G, also known as g or general intelligence, refers to the statistical factor extracted from diverse cognitive ability tests that correlates positively across various tasks and is interpreted as a general cognitive capacity contributing to performance in all cognitive tasks. It falls under [[Cognitive Psychology]], where it represents a foundational concept in understanding human cognitive abilities.
+> General Factor G, also known as g or general intelligence, refers to the statistical factor extracted from diverse cognitive ability tests that correlates positively across various tasks and is interpreted as a general cognitive capacity contributing to performance in all cognitive tasks. It falls under [[cognitive-psychology]], where it represents a foundational concept in understanding human cognitive abilities.
 
 > [!attention] **Boundary**
 > This concept excludes specific task-related abilities and focuses on the overarching cognitive capacity that underlies performance across different cognitive domains. It does not encompass other forms of intelligence such as emotional or social intelligence, nor does it address the underlying mechanisms responsible for this general factor.
@@ -138,11 +138,11 @@ General Factor G also intersects with other concepts such as crystallized and fl
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Sibling concepts:** [[Fluid Intelligence]] · [[Crystallized Intelligence]]
+**Sibling concepts:** [[fluid-intelligence]] · [[crystallized-intelligence]]
 
-**Contrasts with:** [[Multiple Intelligences Theory]]
+**Contrasts with:** [[multiple-intelligences-theory]]
 
 **Applies to:** [[Intelligence Testing]]
 

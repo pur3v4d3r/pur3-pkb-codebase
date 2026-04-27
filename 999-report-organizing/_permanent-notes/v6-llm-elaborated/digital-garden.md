@@ -34,8 +34,8 @@ parent-concept: "Personal Knowledge Management"
 
 related:
   - "[[Zettelkasten Method]]"
-  - "[[Networked Thought]]"
-  - "[[Evergreen Notes]]"
+  - "[[networked-thought]]"
+  - "[[evergreen-notes]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,13 +44,13 @@ broader:
   - "[[]]"
 see-also:
   - "[[Zettelkasten Method]]"
-  - "[[Networked Thought]]"
+  - "[[networked-thought]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Evergreen Notes]]"
+  - "[[evergreen-notes]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Digital Garden
 
 > [!definition] **Digital Garden**
-> A Digital Garden is a non-chronological, networked, perpetually-revised personal website that publishes work-in-progress thinking organized by topic and link rather than by date — a deliberate contrast with the blog format's reverse-chronological timeline. It falls under [[Personal Knowledge Management]], emphasizing growth over time of an interconnected body of notes.
+> A Digital Garden is a non-chronological, networked, perpetually-revised personal website that publishes work-in-progress thinking organized by topic and link rather than by date — a deliberate contrast with the blog format's reverse-chronological timeline. It falls under [[personal-knowledge-management]], emphasizing growth over time of an interconnected body of notes.
 
 > [!attention] **Boundary**
 > It excludes the reverse-chronological timeline of blogs and focuses on interconnected notes over time.
@@ -130,10 +130,10 @@ Moreover, the networked nature of these gardens encourages collaboration and sha
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Sibling concepts:** [[Zettelkasten Method]] · [[Networked Thought]]
+**Sibling concepts:** [[Zettelkasten Method]] · [[networked-thought]]
 
-**Applies to:** [[Evergreen Notes]]
+**Applies to:** [[evergreen-notes]]
 
 **Source:** [[digital-garden-synthetic-seed-2026-04-25]]

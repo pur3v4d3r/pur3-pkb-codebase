@@ -32,7 +32,7 @@ parent-concept: "Epistemology"
 
 related:
   - "[[Basic-Beliefs]]"
-  - "[[Coherentism]]"
+  - "[[coherentism]]"
   - "[[Descartes-Rene]]"
   - "[[Regress-Argument]]"
 prerequisites:
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Coherentism]]"
+  - "[[coherentism]]"
   - "[[Descartes-Rene]]"
 contrasts-with:
   - "[[]]"
@@ -73,7 +73,7 @@ provenance:
 # Foundationalism
 
 > [!definition] **Foundationalism**
-> Foundationalism is an epistemological theory that posits justified beliefs have a foundational layer of basic beliefs, which are non-inferentially justified (by experience, self-evidence, or some non-doxastic ground), upon which all other beliefs rest. It falls under [[Epistemology]], addressing the structure of justified beliefs but excluding alternative theories like coherentism and not delving into psychological mechanisms behind belief formation.
+> Foundationalism is an epistemological theory that posits justified beliefs have a foundational layer of basic beliefs, which are non-inferentially justified (by experience, self-evidence, or some non-doxastic ground), upon which all other beliefs rest. It falls under [[epistemology]], addressing the structure of justified beliefs but excluding alternative theories like coherentism and not delving into psychological mechanisms behind belief formation.
 
 > [!attention] **Boundary**
 > This concept excludes alternative theories like coherentism and does not address the psychological mechanisms behind belief formation or justification processes in detail.
@@ -129,11 +129,11 @@ The concept of foundationalism intersects with other epistemological theories li
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Prerequisites:** [[Basic-Beliefs]]
 
-**Sibling concepts:** [[Coherentism]] · [[Descartes-Rene]]
+**Sibling concepts:** [[coherentism]] · [[Descartes-Rene]]
 
 **Applies to:** [[Regress-Argument]]
 

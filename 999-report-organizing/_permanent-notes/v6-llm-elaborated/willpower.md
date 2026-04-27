@@ -32,28 +32,28 @@ depth-level: elaborated
 parent-concept: "Self-Regulation"
 
 related:
-  - "[[Executive Function]]"
-  - "[[Habit Formation]]"
-  - "[[Implementation Intentions]]"
-  - "[[Inhibitory Control]]"
+  - "[[executive-function]]"
+  - "[[habit-formation]]"
+  - "[[implementation-intentions]]"
+  - "[[inhibitory-control]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Executive Function]]"
+  - "[[executive-function]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Habit Formation]]"
+  - "[[habit-formation]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Inhibitory Control]]"
+  - "[[inhibitory-control]]"
 supports:
   - "[[]]"
 refines:
@@ -73,7 +73,7 @@ provenance:
 # Willpower
 
 > [!definition] **Willpower**
-> Willpower, as a colloquial term for the conscious, effortful deployment of self-control in the moment to resist temptation or initiate difficult actions, falls under the broader domain of [[Self-Regulation]]. It is not a literal depletable resource nor the appropriate unit for behavior change, as it incorrectly locates intervention at the point of temptation rather than addressing upstream factors like habit design.
+> Willpower, as a colloquial term for the conscious, effortful deployment of self-control in the moment to resist temptation or initiate difficult actions, falls under the broader domain of [[self-regulation]]. It is not a literal depletable resource nor the appropriate unit for behavior change, as it incorrectly locates intervention at the point of temptation rather than addressing upstream factors like habit design.
 
 > [!attention] **Boundary**
 > Willpower does not refer to a literal, depletable resource (as the ego depletion hypothesis has been weakened), nor is it the appropriate unit of analysis for behavior change (as it focuses on the point of temptation rather than upstream factors like habit design).
@@ -119,14 +119,14 @@ The weakening of the ego depletion hypothesis stems from a series of rigorous pr
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulation]]
+**Falls under:** [[self-regulation]]
 
-**Specializes:** [[Executive Function]]
+**Specializes:** [[executive-function]]
 
-**Contrasts with:** [[Habit Formation]]
+**Contrasts with:** [[habit-formation]]
 
-**Applies to:** [[Implementation Intentions]]
+**Applies to:** [[implementation-intentions]]
 
-**Instance of:** [[Inhibitory Control]]
+**Instance of:** [[inhibitory-control]]
 
 **Source:** [[willpower-synthetic-seed-2026-04-27]]

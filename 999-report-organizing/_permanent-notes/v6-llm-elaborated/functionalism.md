@@ -34,8 +34,8 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Multiple-Realizability]]"
-  - "[[Eliminative Materialism]]"
-  - "[[Computational Theory of Mind]]"
+  - "[[eliminative-materialism]]"
+  - "[[computational-theory-of-mind]]"
 prerequisites:
   - "[[Multiple-Realizability]]"
 specializes:
@@ -43,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Eliminative Materialism]]"
+  - "[[eliminative-materialism]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Computational Theory of Mind]]"
+  - "[[computational-theory-of-mind]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Functionalism
 
 > [!definition] **Functionalism**
-> Functionalism is a philosophical thesis that mental states are defined by their functional role, not by their physical substrate. It posits that anything implementing the right functional organization realizes the same mental state, falling under [[Cognitive Architecture]].
+> Functionalism is a philosophical thesis that mental states are defined by their functional role, not by their physical substrate. It posits that anything implementing the right functional organization realizes the same mental state, falling under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > Functionalism excludes physical substrate considerations and focuses on the functional roles of mental states, distinguishing it from identity theory and behaviorism.
@@ -133,12 +133,12 @@ Moreover, functionalism's impact extends beyond philosophy into practical applic
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Prerequisites:** [[Multiple-Realizability]]
 
-**Sibling concepts:** [[Eliminative Materialism]]
+**Sibling concepts:** [[eliminative-materialism]]
 
-**Applies to:** [[Computational Theory of Mind]]
+**Applies to:** [[computational-theory-of-mind]]
 
 **Source:** [[functionalism-synthetic-seed-2026-04-25]]

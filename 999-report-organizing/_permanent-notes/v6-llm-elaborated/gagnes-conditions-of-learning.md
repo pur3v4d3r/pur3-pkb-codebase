@@ -33,7 +33,7 @@ parent-concept: "Instructional Design"
 
 related:
   - "[[Merrill's First Principles]]"
-  - "[[ADDIE Model]]"
+  - "[[addie-model]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[ADDIE Model]]"
+  - "[[addie-model]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Gagnes Conditions Of Learning
 
 > [!definition] **Gagnes Conditions Of Learning**
-> Gagné's Conditions of Learning is a framework developed by Robert Gagné that outlines the conditions necessary for effective learning, including five categories of learning outcomes (intellectual skills, cognitive strategies, verbal information, motor skills, attitudes) and nine events of instruction. It falls under [[Instructional Design]], providing a principled basis for instructional design rather than relying on craft intuition.
+> Gagné's Conditions of Learning is a framework developed by Robert Gagné that outlines the conditions necessary for effective learning, including five categories of learning outcomes (intellectual skills, cognitive strategies, verbal information, motor skills, attitudes) and nine events of instruction. It falls under [[instructional-design]], providing a principled basis for instructional design rather than relying on craft intuition.
 
 > [!attention] **Boundary**
 > This concept focuses on instructional design principles rather than broader cognitive or educational theories. It does not cover pedagogical methods outside of structured instruction.
@@ -128,10 +128,10 @@ Gagné's Conditions of Learning is a foundational concept that has significantly
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
 **Contrasts with:** [[Merrill's First Principles]]
 
-**Applies to:** [[ADDIE Model]]
+**Applies to:** [[addie-model]]
 
 **Source:** [[gagnes-conditions-of-learning-synthetic-seed-2026-04-25]]

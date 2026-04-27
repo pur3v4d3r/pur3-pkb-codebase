@@ -33,7 +33,7 @@ parent-concept: "Consistency Theories"
 
 related:
   - "[[Consistency Theories]]"
-  - "[[Self-Perception Theory]]"
+  - "[[self-perception-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,7 +43,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Perception Theory]]"
+  - "[[self-perception-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -134,6 +134,6 @@ Cognitive Dissonance also connects to broader consistency theories by emphasizin
 
 **Generalizes to:** [[Consistency Theories]]
 
-**Contrasts with:** [[Self-Perception Theory]]
+**Contrasts with:** [[self-perception-theory]]
 
 **Source:** [[cognitive-dissonance-synthetic-seed-2026-04-25]]

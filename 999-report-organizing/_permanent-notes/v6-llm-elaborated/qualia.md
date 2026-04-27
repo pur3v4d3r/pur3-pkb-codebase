@@ -33,22 +33,22 @@ depth-level: elaborated
 parent-concept: "Consciousness Theories"
 
 related:
-  - "[[Consciousness Theories]]"
+  - "[[consciousness-theories]]"
   - "[[Inverted Qualia]]"
-  - "[[Functionalism]]"
+  - "[[functionalism]]"
   - "[[Knowledge Argument (Mary the color scientist)]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Consciousness Theories]]"
+  - "[[consciousness-theories]]"
 see-also:
   - "[[]]"
 contrasts-with:
   - "[[Inverted Qualia]]"
 contradicts:
-  - "[[Functionalism]]"
+  - "[[functionalism]]"
 applies-to:
   - "[[]]"
 formalizes:
@@ -74,7 +74,7 @@ provenance:
 # Qualia
 
 > [!definition] **Qualia**
-> Qualia are the intrinsic, subjective properties of conscious experiences that make them what they feel like from the inside; these qualitative aspects of experience constitute 'what it is like' to undergo a mental state and form a central battleground in physicalist ontology, as they challenge reductive accounts of consciousness by highlighting an explanatory gap between functional and neural processes and subjective experience. It falls under [[Consciousness Theories]].
+> Qualia are the intrinsic, subjective properties of conscious experiences that make them what they feel like from the inside; these qualitative aspects of experience constitute 'what it is like' to undergo a mental state and form a central battleground in physicalist ontology, as they challenge reductive accounts of consciousness by highlighting an explanatory gap between functional and neural processes and subjective experience. It falls under [[consciousness-theories]].
 
 > [!attention] **Boundary**
 > This definition excludes functional and neural accounts of cognition, focusing on the qualitative aspects of experience.
@@ -128,13 +128,13 @@ Understanding qualia has implications across various domains, including instruct
 
 ## Connections & Context
 
-**Falls under:** [[Consciousness Theories]]
+**Falls under:** [[consciousness-theories]]
 
-**Generalizes to:** [[Consciousness Theories]]
+**Generalizes to:** [[consciousness-theories]]
 
 **Contrasts with:** [[Inverted Qualia]]
 
-**Contradicts:** [[Functionalism]]
+**Contradicts:** [[functionalism]]
 
 **Supports:** [[Knowledge Argument (Mary the color scientist)]]
 

@@ -70,7 +70,7 @@ provenance:
 # 2x2 Framework
 
 > [!definition] **2x2 Framework**
-> A 2x2 Framework is a method of organizing information into four quadrants by crossing two binary or continuous dimensions, often used to analyze cases, options, or strategies — exemplified by the Eisenhower urgent/important matrix and the BCG growth/share matrix. It falls under [[Analytical Frameworks]].
+> A 2x2 Framework is a method of organizing information into four quadrants by crossing two binary or continuous dimensions, often used to analyze cases, options, or strategies — exemplified by the Eisenhower urgent/important matrix and the BCG growth/share matrix. It falls under [[analytical-frameworks]].
 
 > [!attention] **Boundary**
 > This framework excludes more complex multidimensional models and does not apply when the dimensions are not orthogonal or exhaustive.
@@ -157,7 +157,7 @@ The 2x2 Framework represents a strategic simplification heuristic within cogniti
 
 ## Connections & Context
 
-**Falls under:** [[Analytical Frameworks]]
+**Falls under:** [[analytical-frameworks]]
 
 **Contrasts with:** [[SWOT Analysis]]
 

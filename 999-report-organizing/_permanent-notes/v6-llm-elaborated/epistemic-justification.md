@@ -31,23 +31,23 @@ depth-level: elaborated
 parent-concept: "Epistemology"
 
 related:
-  - "[[Foundationalism]]"
-  - "[[Coherentism]]"
-  - "[[Justified-True-Belief]]"
+  - "[[foundationalism]]"
+  - "[[coherentism]]"
+  - "[[justified-true-belief]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Foundationalism]]"
+  - "[[foundationalism]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Coherentism]]"
+  - "[[coherentism]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Justified-True-Belief]]"
+  - "[[justified-true-belief]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Epistemic Justification
 
 > [!definition] **Epistemic Justification**
-> Epistemic Justification is the property a belief possesses when it has appropriate epistemic grounds — evidence, reliable cognitive processes, coherence with other justified beliefs, or some combination — and is distinct from truth (a justified belief can still be false) and mere belief (an unjustified belief is still a belief). It falls under [[Epistemology]], the study of knowledge and belief.
+> Epistemic Justification is the property a belief possesses when it has appropriate epistemic grounds — evidence, reliable cognitive processes, coherence with other justified beliefs, or some combination — and is distinct from truth (a justified belief can still be false) and mere belief (an unjustified belief is still a belief). It falls under [[epistemology]], the study of knowledge and belief.
 
 > [!attention] **Boundary**
 > It excludes concepts like truth (a justified belief can still be false) and belief (an unjustified belief is still a belief).
@@ -128,12 +128,12 @@ Understanding epistemic justification is crucial for grasping knowledge and beli
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
-**Specializes:** [[Foundationalism]]
+**Specializes:** [[foundationalism]]
 
-**Sibling concepts:** [[Coherentism]]
+**Sibling concepts:** [[coherentism]]
 
-**Applies to:** [[Justified-True-Belief]]
+**Applies to:** [[justified-true-belief]]
 
 **Source:** [[epistemic-justification-synthetic-seed-2026-04-25]]

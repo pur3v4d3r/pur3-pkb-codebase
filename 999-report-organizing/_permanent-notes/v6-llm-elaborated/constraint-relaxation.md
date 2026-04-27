@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Constraint Relaxation
 
 > [!definition] **Constraint Relaxation**
-> Constraint Relaxation is the process of identifying and loosening an implicit constraint on a problem representation, enabling new solutions to emerge. This concept falls under [[Cognitive Architecture]], as it pertains specifically to how constraints are managed within problem representations during insight problem-solving.
+> Constraint Relaxation is the process of identifying and loosening an implicit constraint on a problem representation, enabling new solutions to emerge. This concept falls under [[cognitive-architecture]], as it pertains specifically to how constraints are managed within problem representations during insight problem-solving.
 
 > [!attention] **Boundary**
 > This concept focuses on the cognitive operation of relaxing constraints within problem representations. It does not cover broader aspects of problem-solving strategies or other specific theories of insight like representational change theory.
@@ -127,10 +127,10 @@ The integration of Constraint Relaxation with other theories like representation
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[constraint-relaxation-synthetic-seed-2026-04-25]]

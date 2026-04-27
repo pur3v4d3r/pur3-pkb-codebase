@@ -123,7 +123,7 @@ Contemporary research consistently validates the strategic portfolio model over 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulation]]
+**Falls under:** [[self-regulation]]
 
 **Prerequisites:** [[inhibitory-control]]
 

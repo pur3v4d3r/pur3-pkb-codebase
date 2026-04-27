@@ -73,7 +73,7 @@ provenance:
 # Inductive Reasoning
 
 > [!definition] **Inductive Reasoning**
-> Inductive reasoning involves drawing probable conclusions from observed patterns or samples and extending them to unobserved cases, making it essential for scientific inquiry and everyday predictions. It falls under [[Epistemology]], as it is a fundamental method by which new knowledge is generated, though its conclusions are not necessary but rather probable.
+> Inductive reasoning involves drawing probable conclusions from observed patterns or samples and extending them to unobserved cases, making it essential for scientific inquiry and everyday predictions. It falls under [[epistemology]], as it is a fundamental method by which new knowledge is generated, though its conclusions are not necessary but rather probable.
 
 > [!attention] **Boundary**
 > This concept excludes deductive and abductive reasoning, focusing on probabilistic extensions rather than necessary inferences or hypotheses generation.
@@ -133,7 +133,7 @@ The concept of inductive reasoning intersects with other epistemological concept
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Contrasts with:** [[deductive-reasoning]] · [[abductive-reasoning]]
 

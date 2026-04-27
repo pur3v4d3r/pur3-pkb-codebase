@@ -34,7 +34,7 @@ parent-concept: "Developmental Psychology"
 
 related:
   - "[[Baltes Lifespan Theory]]"
-  - "[[Developmental Psychology]]"
+  - "[[developmental-psychology]]"
   - "[[Adult Development]]"
 prerequisites:
   - "[[]]"
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Developmental Psychology]]"
+  - "[[developmental-psychology]]"
   - "[[Adult Development]]"
 contrasts-with:
   - "[[]]"
@@ -74,7 +74,7 @@ provenance:
 # Lifespan Development
 
 > [!definition] **Lifespan Development**
-> Lifespan Development is the study of psychological changes from infancy to old age, emphasizing continuous gain and loss dynamics rather than decline after early adulthood. It falls under [[Developmental Psychology]], treating development as a multidirectional process that continues throughout life.
+> Lifespan Development is the study of psychological changes from infancy to old age, emphasizing continuous gain and loss dynamics rather than decline after early adulthood. It falls under [[developmental-psychology]], treating development as a multidirectional process that continues throughout life.
 
 > [!attention] **Boundary**
 > It excludes the focus on specific developmental stages or linear decline narratives, instead highlighting multidirectional growth and maintenance across all life phases.
@@ -132,14 +132,14 @@ The mechanism underlying Lifespan Development involves the interaction of variou
 
 Understanding Lifespan Development is crucial for comprehending the complex nature of human psychological changes across all life phases. By recognizing that gains and losses coexist throughout life, this theory offers valuable insights into educational practices, healthcare interventions, and policy-making. It challenges traditional views and promotes a more nuanced understanding of development, which can lead to better support systems for individuals at different stages of their lives.
 
-Lifespan Development also bridges the gap between [[Developmental Psychology]] and other related fields such as adult development by emphasizing continuous change rather than fixed stages or decline. This interdisciplinary approach enriches our knowledge of human behavior and enhances our ability to address diverse needs across the lifespan.
+Lifespan Development also bridges the gap between [[developmental-psychology]] and other related fields such as adult development by emphasizing continuous change rather than fixed stages or decline. This interdisciplinary approach enriches our knowledge of human behavior and enhances our ability to address diverse needs across the lifespan.
 
 ## Connections & Context
 
-**Falls under:** [[Developmental Psychology]]
+**Falls under:** [[developmental-psychology]]
 
 **Specializes:** [[Baltes Lifespan Theory]]
 
-**Sibling concepts:** [[Developmental Psychology]] · [[Adult Development]]
+**Sibling concepts:** [[developmental-psychology]] · [[Adult Development]]
 
 **Source:** [[lifespan-development-synthetic-seed-2026-04-25]]

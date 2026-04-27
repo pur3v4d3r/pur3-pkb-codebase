@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Knowledge Management"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Knowledge Decay
 
 > [!definition] **Knowledge Decay**
-> Knowledge Decay refers to the progressive degradation of recorded knowledge over time, leading to inaccuracies, irrelevance, and reduced accessibility. It falls under [[Knowledge Management]], as maintaining an accurate and accessible knowledge base requires ongoing curation and anti-decay strategies.
+> Knowledge Decay refers to the progressive degradation of recorded knowledge over time, leading to inaccuracies, irrelevance, and reduced accessibility. It falls under [[knowledge-management]], as maintaining an accurate and accessible knowledge base requires ongoing curation and anti-decay strategies.
 
 > [!attention] **Boundary**
 > This concept excludes issues related to intentional obfuscation or censorship but includes natural processes such as information staleness and link rot.
@@ -131,10 +131,10 @@ The practical implications of Knowledge Decay underscore its significance. Wheth
 
 ## Connections & Context
 
-**Falls under:** [[Knowledge Management]]
+**Falls under:** [[knowledge-management]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[knowledge-decay-synthetic-seed-2026-04-25]]

@@ -36,7 +36,7 @@ parent-concept: "Cognitive Architecture"
 related:
   - "[[anchoring-bias]]"
   - "[[sunk-cost-fallacy]]"
-  - "[[Prospect Theory]]"
+  - "[[prospect-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -57,7 +57,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Prospect Theory]]"
+  - "[[prospect-theory]]"
 refines:
   - "[[]]"
 
@@ -139,6 +139,6 @@ The Framing Effect also highlights the importance of framing in various fields s
 
 **Contrasts with:** [[anchoring-bias]] · [[sunk-cost-fallacy]]
 
-**Supports:** [[Prospect Theory]]
+**Supports:** [[prospect-theory]]
 
 **Source:** [[framing-effect-synthetic-seed-2026-04-25]]

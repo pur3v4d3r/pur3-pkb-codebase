@@ -31,19 +31,19 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Present Bias]]"
-  - "[[Hyperbolic Discounting]]"
-  - "[[Implementation Intentions]]"
+  - "[[present-bias]]"
+  - "[[hyperbolic-discounting]]"
+  - "[[implementation-intentions]]"
   - "[[Commitment Devices]]"
 prerequisites:
-  - "[[Present Bias]]"
-  - "[[Hyperbolic Discounting]]"
+  - "[[present-bias]]"
+  - "[[hyperbolic-discounting]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
   - "[[Commitment Devices]]"
 contrasts-with:
   - "[[]]"
@@ -74,7 +74,7 @@ provenance:
 # Temptation Bundling
 
 > [!definition] **Temptation Bundling**
-> Temptation Bundling involves pairing an instantly gratifying but easy-to-overconsume activity (e.g., binge-watching) exclusively with an aversive but valuable activity (e.g., gym workouts), making the temptation contingent on engaging in the should-do behavior. This strategy falls under [[Self-Regulated Learning]], leveraging present bias and hyperbolic discounting to enhance self-control.
+> Temptation Bundling involves pairing an instantly gratifying but easy-to-overconsume activity (e.g., binge-watching) exclusively with an aversive but valuable activity (e.g., gym workouts), making the temptation contingent on engaging in the should-do behavior. This strategy falls under [[self-regulated-learning]], leveraging present bias and hyperbolic discounting to enhance self-control.
 
 > [!attention] **Boundary**
 > This concept excludes strategies that do not involve creating a dependency between a tempting and a necessary activity, such as setting goals or using external rewards alone.
@@ -133,7 +133,7 @@ Temptation Bundling operates through the creation of implementation intentions a
 
 ## Synthesis
 
-Temptation Bundling is significant because it offers a practical solution to the challenge of self-control by leveraging psychological mechanisms like present bias and hyperbolic discounting. By pairing tempting activities with necessary ones, this strategy transforms what might otherwise be seen as sacrifices into strategic choices that enhance overall well-being. Its integration within [[Self-Regulated Learning]] makes it applicable across various domains, from education to personal finance and health. The concept's empirical support underscores its potential for genuine behavior change, making it a valuable tool in the toolkit of self-regulation strategies.
+Temptation Bundling is significant because it offers a practical solution to the challenge of self-control by leveraging psychological mechanisms like present bias and hyperbolic discounting. By pairing tempting activities with necessary ones, this strategy transforms what might otherwise be seen as sacrifices into strategic choices that enhance overall well-being. Its integration within [[self-regulated-learning]] makes it applicable across various domains, from education to personal finance and health. The concept's empirical support underscores its potential for genuine behavior change, making it a valuable tool in the toolkit of self-regulation strategies.
 
 Temptation Bundling also highlights the importance of understanding how psychological dependencies can be harnessed to promote positive behaviors. By creating these dependencies, individuals are more likely to engage in necessary activities without relying solely on willpower or external rewards. This approach aligns with broader theories of behavior change and self-regulation, offering a nuanced perspective on how to structure daily routines for optimal outcomes.
 
@@ -143,10 +143,10 @@ In the original gym-and-audiobook study conducted by Katy Milkman, participants 
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Present Bias]] · [[Hyperbolic Discounting]]
+**Prerequisites:** [[present-bias]] · [[hyperbolic-discounting]]
 
-**Sibling concepts:** [[Implementation Intentions]] · [[Commitment Devices]]
+**Sibling concepts:** [[implementation-intentions]] · [[Commitment Devices]]
 
 **Source:** [[temptation-bundling-synthetic-seed-2026-04-25]]

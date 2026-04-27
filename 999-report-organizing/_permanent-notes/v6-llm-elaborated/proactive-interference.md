@@ -33,7 +33,7 @@ parent-concept: "Memory Interference"
 
 related:
   - "[[Similarity-Based Confusion]]"
-  - "[[Retroactive Interference]]"
+  - "[[retroactive-interference]]"
   - "[[Release from Proactive Interference]]"
 prerequisites:
   - "[[Similarity-Based Confusion]]"
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Retroactive Interference]]"
+  - "[[retroactive-interference]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -132,7 +132,7 @@ The study of Proactive Interference intersects with other areas such as Retroact
 
 **Prerequisites:** [[Similarity-Based Confusion]]
 
-**Contrasts with:** [[Retroactive Interference]]
+**Contrasts with:** [[retroactive-interference]]
 
 **Applies to:** [[Release from Proactive Interference]]
 

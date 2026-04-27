@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Cognitive Science"
 
 related:
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
   - "[[Neuroscience]]"
   - "[[information-processing-theory]]"
 prerequisites:
@@ -44,7 +44,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Cognitive Psychology
 
 > [!definition] **Cognitive Psychology**
-> Cognitive Psychology is the branch of psychology that investigates the internal mental processes such as perception, attention, memory, language, reasoning, problem-solving, and decision-making through experimental and computational methods, treating the mind as an information-processing system whose mechanisms can be inferred from behavior and brain measurement. It falls under [[Cognitive Science]], establishing a framework for understanding how these processes work and their implications in various fields.
+> Cognitive Psychology is the branch of psychology that investigates the internal mental processes such as perception, attention, memory, language, reasoning, problem-solving, and decision-making through experimental and computational methods, treating the mind as an information-processing system whose mechanisms can be inferred from behavior and brain measurement. It falls under [[cognitive-science]], establishing a framework for understanding how these processes work and their implications in various fields.
 
 > [!attention] **Boundary**
 > It excludes purely behavioral approaches like strict behaviorism and focuses on internal mental representations and processes.
@@ -129,9 +129,9 @@ Moreover, its focus on internal mental representations challenges traditional be
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Science]]
+**Falls under:** [[cognitive-science]]
 
-**Contrasts with:** [[Behaviorism]]
+**Contrasts with:** [[behaviorism]]
 
 **Applies to:** [[Neuroscience]]
 

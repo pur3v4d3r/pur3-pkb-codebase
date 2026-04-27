@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Hot-Hand Fallacy]]"
   - "[[Law of Small Numbers]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -73,7 +73,7 @@ provenance:
 # Gamblers Fallacy
 
 > [!definition] **Gamblers Fallacy**
-> The Gamblers Fallacy is the mistaken belief that in a sequence of independent random events, an outcome that has not occurred for a while becomes more likely on the next trial — as if the underlying process 'owed' balance to the recent run. This fallacy arises because intuition treats short random sequences as if they should locally mirror the long-run distribution; it falls under [[Cognitive Architecture]].
+> The Gamblers Fallacy is the mistaken belief that in a sequence of independent random events, an outcome that has not occurred for a while becomes more likely on the next trial — as if the underlying process 'owed' balance to the recent run. This fallacy arises because intuition treats short random sequences as if they should locally mirror the long-run distribution; it falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept excludes the idea that past outcomes influence future ones in truly random processes. It should not be confused with the hot-hand fallacy, which is its inverse error about the same underlying ignorance of independence.
@@ -126,15 +126,15 @@ The mechanism behind the Gamblers Fallacy involves a confusion between represent
 
 ## Synthesis
 
-Recognizing and avoiding the Gamblers Fallacy is crucial for improving decision-making in various domains. By understanding how our cognitive biases can lead us astray, we can develop more rational approaches to uncertainty. This concept intersects with broader ideas in [[Cognitive Architecture]], highlighting the importance of education and awareness in combating these biases.
+Recognizing and avoiding the Gamblers Fallacy is crucial for improving decision-making in various domains. By understanding how our cognitive biases can lead us astray, we can develop more rational approaches to uncertainty. This concept intersects with broader ideas in [[cognitive-architecture]], highlighting the importance of education and awareness in combating these biases.
 
 The Gamblers Fallacy also ties into related concepts like the hot-hand fallacy and the Law of Small Numbers. These shared themes underscore the need for a deeper understanding of statistical independence and how our intuition can mislead us.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[Hot-Hand Fallacy]]
 

@@ -34,8 +34,8 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[Conscientiousness]]"
-  - "[[Self-Efficacy]]"
-  - "[[Growth Mindset]]"
+  - "[[self-efficacy]]"
+  - "[[growth-mindset]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,11 +45,11 @@ broader:
 see-also:
   - "[[Conscientiousness]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Growth Mindset]]"
+  - "[[growth-mindset]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Grit
 
 > [!definition] **Grit**
-> Grit is a personality trait defined by Angela Duckworth as perseverance of effort and consistency of interest over long-term goals, distinguishing it from short-burst motivation by its emphasis on stability across years. It falls under [[Self-Regulated Learning]], focusing specifically on the persistence and dedication required to achieve distant objectives.
+> Grit is a personality trait defined by Angela Duckworth as perseverance of effort and consistency of interest over long-term goals, distinguishing it from short-burst motivation by its emphasis on stability across years. It falls under [[self-regulated-learning]], focusing specifically on the persistence and dedication required to achieve distant objectives.
 
 > [!attention] **Boundary**
 > Grit specifically targets the stability of long-horizon goals but can be confused with conscientiousness or self-efficacy in certain contexts.
@@ -132,12 +132,12 @@ Moreover, the concept of grit intersects with broader theories of positive psych
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Sibling concepts:** [[Conscientiousness]]
 
-**Contrasts with:** [[Self-Efficacy]]
+**Contrasts with:** [[self-efficacy]]
 
-**Applies to:** [[Growth Mindset]]
+**Applies to:** [[growth-mindset]]
 
 **Source:** [[grit-synthetic-seed-2026-04-26]]

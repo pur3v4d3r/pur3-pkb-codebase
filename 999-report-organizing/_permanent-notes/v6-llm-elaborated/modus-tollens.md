@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Deductive Inference"
 
 related:
-  - "[[Modus Ponens]]"
+  - "[[modus-ponens]]"
   - "[[Falsificationist Methodology]]"
 prerequisites:
   - "[[]]"
@@ -43,7 +43,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Modus Ponens]]"
+  - "[[modus-ponens]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -129,7 +129,7 @@ The limitations of Modus Tollens, particularly its application to complex theore
 
 **Falls under:** [[Deductive Inference]]
 
-**Contrasts with:** [[Modus Ponens]]
+**Contrasts with:** [[modus-ponens]]
 
 **Applies to:** [[Falsificationist Methodology]]
 

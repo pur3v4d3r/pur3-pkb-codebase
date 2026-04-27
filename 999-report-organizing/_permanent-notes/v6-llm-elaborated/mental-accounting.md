@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Behavioral Finance"
 
 related:
-  - "[[Endowment Effect]]"
-  - "[[Sunk Cost Fallacy]]"
-  - "[[Framing Effect]]"
-  - "[[Prospect Theory]]"
+  - "[[endowment-effect]]"
+  - "[[sunk-cost-fallacy]]"
+  - "[[framing-effect]]"
+  - "[[prospect-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,13 +45,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Endowment Effect]]"
-  - "[[Sunk Cost Fallacy]]"
-  - "[[Framing Effect]]"
+  - "[[endowment-effect]]"
+  - "[[sunk-cost-fallacy]]"
+  - "[[framing-effect]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Prospect Theory]]"
+  - "[[prospect-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -139,8 +139,8 @@ The implications of Mental Accounting extend beyond individual behavior to influ
 
 **Falls under:** [[Behavioral Finance]]
 
-**Contrasts with:** [[Endowment Effect]] · [[Sunk Cost Fallacy]] · [[Framing Effect]]
+**Contrasts with:** [[endowment-effect]] · [[sunk-cost-fallacy]] · [[framing-effect]]
 
-**Applies to:** [[Prospect Theory]]
+**Applies to:** [[prospect-theory]]
 
 **Source:** [[mental-accounting-synthetic-seed-2026-04-26]]

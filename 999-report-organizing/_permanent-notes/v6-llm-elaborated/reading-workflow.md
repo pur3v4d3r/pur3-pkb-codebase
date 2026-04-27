@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Knowledge Work Pipelines"
 
 related:
-  - "[[Zettelkasten]]"
-  - "[[Information Diet]]"
+  - "[[zettelkasten]]"
+  - "[[information-diet]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,13 +42,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Information Diet]]"
+  - "[[information-diet]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -125,7 +125,7 @@ The mechanism of a Reading Workflow involves several key stages: initial encount
 
 ## Synthesis
 
-A structured Reading Workflow is crucial for knowledge workers and learners because it transforms passive reading into an active engagement with the material. By distributing cognitive load across multiple stages, it enhances comprehension, retention, and application of knowledge. This aligns well with broader frameworks like [[Zettelkasten]], which also emphasize structured note-taking and integration. For instructional design and research efficiency, Reading Workflows offer practical benefits that can significantly improve outcomes in both educational and professional settings.
+A structured Reading Workflow is crucial for knowledge workers and learners because it transforms passive reading into an active engagement with the material. By distributing cognitive load across multiple stages, it enhances comprehension, retention, and application of knowledge. This aligns well with broader frameworks like [[zettelkasten]], which also emphasize structured note-taking and integration. For instructional design and research efficiency, Reading Workflows offer practical benefits that can significantly improve outcomes in both educational and professional settings.
 
 Moreover, the concept of a Reading Workflow intersects with the broader domain of information management, where it complements strategies like an Information Diet to manage the volume and quality of consumed information.
 
@@ -137,8 +137,8 @@ Empirical evidence supports the effectiveness of structured Reading Workflows. S
 
 **Falls under:** [[Knowledge Work Pipelines]]
 
-**Sibling concepts:** [[Zettelkasten]]
+**Sibling concepts:** [[zettelkasten]]
 
-**Applies to:** [[Information Diet]]
+**Applies to:** [[information-diet]]
 
 **Source:** [[reading-workflow-synthetic-seed-2026-04-26]]

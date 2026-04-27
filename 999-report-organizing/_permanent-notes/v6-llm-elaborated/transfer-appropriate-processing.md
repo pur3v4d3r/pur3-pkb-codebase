@@ -2,6 +2,7 @@
 title: "Transfer-Appropriate Processing"
 aliases:
   - "Transfer-Appropriate Processing"
+  - "Transfer Appropriate Processing"
   - "TAP framework"
   - "encoding-retrieval match"
 type: permanent-note

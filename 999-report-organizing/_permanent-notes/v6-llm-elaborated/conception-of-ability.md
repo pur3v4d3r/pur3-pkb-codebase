@@ -77,7 +77,7 @@ provenance:
 # Conception of Ability
 
 > [!definition] **Conception of Ability**
-> The conception of ability refers to the implicit theoretical frame through which a learner construes what 'ability' actually is — whether as a fixed entity that can be revealed but not changed, or as a malleable capacity that grows with effort and engagement. It falls under [[Goal Orientation Framework]], serving as the foundational substrate from which goal orientations are adopted; differentiated (fixed) conceptions make performance orientations easily adoptable, while undifferentiated (malleable) conceptions support mastery orientations.
+> The conception of ability refers to the implicit theoretical frame through which a learner construes what 'ability' actually is — whether as a fixed entity that can be revealed but not changed, or as a malleable capacity that grows with effort and engagement. It falls under [[goal-orientation-framework]], serving as the foundational substrate from which goal orientations are adopted; differentiated (fixed) conceptions make performance orientations easily adoptable, while undifferentiated (malleable) conceptions support mastery orientations.
 
 > [!attention] **Boundary**
 > This concept stops at the nature of ability itself; it does not include beliefs about one's level of ability (self-efficacy) or overall evaluation of oneself (self-concept).
@@ -139,7 +139,7 @@ The concept of conception of ability intersects with other key areas in educatio
 
 ## Connections & Context
 
-**Falls under:** [[Goal Orientation Framework]]
+**Falls under:** [[goal-orientation-framework]]
 
 **Generalizes to:** [[achievement-goal-theory]]
 

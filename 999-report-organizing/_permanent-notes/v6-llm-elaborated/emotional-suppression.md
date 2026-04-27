@@ -34,7 +34,7 @@ parent-concept: "Emotion Regulation"
 
 related:
   - "[[Emotion Regulation]]"
-  - "[[Cognitive Reappraisal]]"
+  - "[[cognitive-reappraisal]]"
   - "[[Experiential Avoidance]]"
   - "[[Rumination]]"
 prerequisites:
@@ -46,7 +46,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cognitive Reappraisal]]"
+  - "[[cognitive-reappraisal]]"
   - "[[Experiential Avoidance]]"
   - "[[Rumination]]"
 contradicts:
@@ -143,6 +143,6 @@ Emotional Suppression is consistently associated with worse outcomes than reappr
 
 **Specializes:** [[Emotion Regulation]]
 
-**Contrasts with:** [[Cognitive Reappraisal]] · [[Experiential Avoidance]] · [[Rumination]]
+**Contrasts with:** [[cognitive-reappraisal]] · [[Experiential Avoidance]] · [[Rumination]]
 
 **Source:** [[emotional-suppression-synthetic-seed-2026-04-26]]

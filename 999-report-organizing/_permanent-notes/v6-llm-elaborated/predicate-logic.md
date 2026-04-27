@@ -74,7 +74,7 @@ provenance:
 # Predicate Logic
 
 > [!definition] **Predicate Logic**
-> Predicate Logic extends propositional logic by incorporating predicates, quantifiers, and variables to analyze the internal structure of sentences, making it expressive enough to capture most mathematical arguments. It falls under [[Formal Logic]], where its foundational role in modern mathematics is established through Gödel's completeness theorem (1929), which shows that first-order Predicate Logic captures all valid first-order arguments but has limitations when quantifying over predicates or expressing modality.
+> Predicate Logic extends propositional logic by incorporating predicates, quantifiers, and variables to analyze the internal structure of sentences, making it expressive enough to capture most mathematical arguments. It falls under [[formal-logic]], where its foundational role in modern mathematics is established through Gödel's completeness theorem (1929), which shows that first-order Predicate Logic captures all valid first-order arguments but has limitations when quantifying over predicates or expressing modality.
 
 > [!attention] **Boundary**
 > It stops at the limitations where second-order logic or modal logic are required for certain expressibilities. It should not be confused with propositional logic, which lacks these features.
@@ -133,7 +133,7 @@ The interplay between Predicate Logic and related concepts like propositional lo
 
 ## Connections & Context
 
-**Falls under:** [[Formal Logic]]
+**Falls under:** [[formal-logic]]
 
 **Prerequisites:** [[propositional-logic]]
 

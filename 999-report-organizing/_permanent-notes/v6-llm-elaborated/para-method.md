@@ -35,7 +35,7 @@ parent-concept: "Personal Knowledge Management"
 
 related:
   - "[[GTD Method]]"
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Zettelkasten]]"
+  - "[[zettelkasten]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Para Method
 
 > [!definition] **Para Method**
-> The Para Method, developed by Tiago Forte, is a four-bucket information-organization framework — Projects (short-term outcomes with deadlines), Areas (long-term responsibilities to be sustained), Resources (topics of ongoing interest), and Archives (inactive items from the other three) — designed to organize personal information based on actionability and time-horizon rather than topic. It falls under [[Personal Knowledge Management]].
+> The Para Method, developed by Tiago Forte, is a four-bucket information-organization framework — Projects (short-term outcomes with deadlines), Areas (long-term responsibilities to be sustained), Resources (topics of ongoing interest), and Archives (inactive items from the other three) — designed to organize personal information based on actionability and time-horizon rather than topic. It falls under [[personal-knowledge-management]].
 
 > [!attention] **Boundary**
 > This method excludes traditional topic-based organization systems but includes complementary content-side methods like Zettelkasten for a complete Personal Knowledge Management (PKM) system.
@@ -132,10 +132,10 @@ The Para Method's impact extends beyond individual productivity to organizationa
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
 **Contrasts with:** [[GTD Method]]
 
-**Applies to:** [[Zettelkasten]]
+**Applies to:** [[zettelkasten]]
 
 **Source:** [[para-method-synthetic-seed-2026-04-25]]

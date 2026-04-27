@@ -70,7 +70,7 @@ console = Console()
 DEFAULT_VAULT = Path(r"D:/10_pur3v4d3r's-vault")
 
 DEFAULT_PERM_DIRS = [
-    "999-report-organizing/_permanent-notes/_permanent-notes",
+    "999-report-organizing/_permanent-notes/v6-llm-elaborated",
 ]
 
 IGNORE_DIRS = {

@@ -34,16 +34,16 @@ parent-concept: "Cognitive Psychology"
 
 related:
   - "[[Self-Determination Theory (SDT)]]"
-  - "[[Achievement-Goal Theory]]"
-  - "[[Expectancy-Value Theory]]"
-  - "[[Control-Value Theory]]"
+  - "[[achievement-goal-theory]]"
+  - "[[expectancy-value-theory]]"
+  - "[[control-value-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[Self-Determination Theory (SDT)]]"
-  - "[[Achievement-Goal Theory]]"
-  - "[[Expectancy-Value Theory]]"
-  - "[[Control-Value Theory]]"
+  - "[[achievement-goal-theory]]"
+  - "[[expectancy-value-theory]]"
+  - "[[control-value-theory]]"
 broader:
   - "[[]]"
 see-also:
@@ -77,7 +77,7 @@ provenance:
 # Motivation Science
 
 > [!definition] **Motivation Science**
-> Motivation Science is the interdisciplinary research field that studies the processes initiating, directing, sustaining, and terminating goal-directed behavior, integrating evidence from cognitive psychology, social psychology, neuroscience, and educational research. It falls under [[Cognitive Psychology]], as it explores how individuals are motivated to pursue their goals through a family of mid-range theories rather than relying on single-theory perspectives or monocausal explanations.
+> Motivation Science is the interdisciplinary research field that studies the processes initiating, directing, sustaining, and terminating goal-directed behavior, integrating evidence from cognitive psychology, social psychology, neuroscience, and educational research. It falls under [[cognitive-psychology]], as it explores how individuals are motivated to pursue their goals through a family of mid-range theories rather than relying on single-theory perspectives or monocausal explanations.
 
 > [!attention] **Boundary**
 > It excludes single-theory perspectives or monocausal explanations of motivation, focusing instead on a family of mid-range theories each addressing different aspects of the motivational system.
@@ -137,8 +137,8 @@ The importance of Motivation Science extends beyond individual behavior; it also
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Specializes:** [[Self-Determination Theory (SDT)]] · [[Achievement-Goal Theory]] · [[Expectancy-Value Theory]] · [[Control-Value Theory]]
+**Specializes:** [[Self-Determination Theory (SDT)]] · [[achievement-goal-theory]] · [[expectancy-value-theory]] · [[control-value-theory]]
 
 **Source:** [[motivation-science-synthetic-seed-2026-04-25]]

@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Cultural Psychology"
 
 related:
-  - "[[Cultural Psychology]]"
+  - "[[cultural-psychology]]"
   - "[[Indigenous Psychology]]"
 prerequisites:
   - "[[]]"
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cultural Psychology]]"
+  - "[[cultural-psychology]]"
 contrasts-with:
   - "[[Indigenous Psychology]]"
 contradicts:
@@ -71,7 +71,7 @@ provenance:
 # Cross-Cultural Psychology
 
 > [!definition] **Cross-Cultural Psychology**
-> Cross-Cultural Psychology systematically compares psychological processes across cultural groups to determine which aspects of human cognition, emotion, and behavior are universal versus culturally constructed, serving as a methodological corrective to claims that generalize from a narrow demographic base (WEIRD populations). It falls under [[Cultural Psychology]].
+> Cross-Cultural Psychology systematically compares psychological processes across cultural groups to determine which aspects of human cognition, emotion, and behavior are universal versus culturally constructed, serving as a methodological corrective to claims that generalize from a narrow demographic base (WEIRD populations). It falls under [[cultural-psychology]].
 
 > [!attention] **Boundary**
 > This concept excludes individual cultural studies and focuses on cross-cultural comparisons specifically designed to test for universal human traits or culturally constructed behaviors.
@@ -123,13 +123,13 @@ Cross-Cultural Psychology employs various strategies to ensure that cross-cultur
 
 Cross-Cultural Psychology is crucial for enhancing our understanding of human cognition, emotion, and behavior across cultures. By systematically comparing psychological processes, it helps us identify universal traits that are common to all humans and those that vary based on cultural context. This research not only challenges the assumption of a single human nature but also provides valuable insights into how culture shapes individual experiences and behaviors.
 
-The concept of Cross-Cultural Psychology is closely related to [[Cultural Psychology]], which shares an interest in understanding the role of culture in shaping psychological processes. However, while Cultural Psychology may focus more on local knowledge systems, Cross-Cultural Psychology emphasizes cross-cultural comparisons to test for universality.
+The concept of Cross-Cultural Psychology is closely related to [[cultural-psychology]], which shares an interest in understanding the role of culture in shaping psychological processes. However, while Cultural Psychology may focus more on local knowledge systems, Cross-Cultural Psychology emphasizes cross-cultural comparisons to test for universality.
 
 ## Connections & Context
 
-**Falls under:** [[Cultural Psychology]]
+**Falls under:** [[cultural-psychology]]
 
-**Sibling concepts:** [[Cultural Psychology]]
+**Sibling concepts:** [[cultural-psychology]]
 
 **Contrasts with:** [[Indigenous Psychology]]
 

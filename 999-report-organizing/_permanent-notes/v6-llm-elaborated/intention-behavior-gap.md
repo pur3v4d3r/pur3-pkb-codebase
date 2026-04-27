@@ -38,7 +38,7 @@ parent-concept: "Self-Regulated Learning"
 related:
   - "[[goal-intention]]"
   - "[[mental-contrasting]]"
-  - "[[Theory-of-Planned-Behavior]]"
+  - "[[theory-of-planned-behavior]]"
   - "[[automaticity]]"
 prerequisites:
   - "[[]]"
@@ -50,7 +50,7 @@ see-also:
   - "[[goal-intention]]"
   - "[[mental-contrasting]]"
 contrasts-with:
-  - "[[Theory-of-Planned-Behavior]]"
+  - "[[theory-of-planned-behavior]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -141,7 +141,7 @@ The Intention-Behavior Gap underscores the importance of specific action plans i
 
 **Sibling concepts:** [[goal-intention]] · [[mental-contrasting]]
 
-**Contrasts with:** [[Theory-of-Planned-Behavior]]
+**Contrasts with:** [[theory-of-planned-behavior]]
 
 **Applies to:** [[automaticity]]
 

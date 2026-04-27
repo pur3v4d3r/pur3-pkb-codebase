@@ -33,7 +33,7 @@ parent-concept: "Philosophy of Mind"
 
 related:
   - "[[Non-Reductive Physicalism]]"
-  - "[[Mind-Body Problem]]"
+  - "[[mind-body-problem]]"
   - "[[Epiphenomenalism]]"
   - "[[Supervenience]]"
 prerequisites:
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Mind-Body Problem]]"
+  - "[[mind-body-problem]]"
   - "[[Epiphenomenalism]]"
 contrasts-with:
   - "[[]]"
@@ -137,7 +137,7 @@ Mental Causation also has practical implications for fields such as instructiona
 
 **Specializes:** [[Non-Reductive Physicalism]]
 
-**Sibling concepts:** [[Mind-Body Problem]] · [[Epiphenomenalism]]
+**Sibling concepts:** [[mind-body-problem]] · [[Epiphenomenalism]]
 
 **Applies to:** [[Supervenience]]
 

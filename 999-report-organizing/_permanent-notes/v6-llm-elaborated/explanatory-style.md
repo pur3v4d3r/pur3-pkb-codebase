@@ -33,23 +33,23 @@ depth-level: elaborated
 parent-concept: "Attribution Theory"
 
 related:
-  - "[[Learned Helplessness]]"
-  - "[[Locus of Control]]"
-  - "[[Attribution Retraining]]"
+  - "[[learned-helplessness]]"
+  - "[[locus-of-control]]"
+  - "[[attribution-retraining]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Learned Helplessness]]"
+  - "[[learned-helplessness]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Locus of Control]]"
+  - "[[locus-of-control]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Attribution Retraining]]"
+  - "[[attribution-retraining]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Explanatory Style
 
 > [!definition] **Explanatory Style**
-> Explanatory Style is the habitual cross-situational pattern by which a person explains the causes of negative and positive events along three dimensions — internal versus external, stable versus unstable, and global versus specific — forming the cognitive substrate of learned helplessness theory. It falls under [[Attribution Theory]].
+> Explanatory Style is the habitual cross-situational pattern by which a person explains the causes of negative and positive events along three dimensions — internal versus external, stable versus unstable, and global versus specific — forming the cognitive substrate of learned helplessness theory. It falls under [[attribution-theory]].
 
 > [!attention] **Boundary**
 > This concept excludes situational attributions that are not part of a consistent cross-situational pattern. It also does not encompass all forms of optimism or pessimism but focuses on the cognitive process of attribution.
@@ -136,12 +136,12 @@ Empirical evidence supports the predictive power of Explanatory Style over situa
 
 ## Connections & Context
 
-**Falls under:** [[Attribution Theory]]
+**Falls under:** [[attribution-theory]]
 
-**Generalizes to:** [[Learned Helplessness]]
+**Generalizes to:** [[learned-helplessness]]
 
-**Contrasts with:** [[Locus of Control]]
+**Contrasts with:** [[locus-of-control]]
 
-**Applies to:** [[Attribution Retraining]]
+**Applies to:** [[attribution-retraining]]
 
 **Source:** [[explanatory-style-synthetic-seed-2026-04-25]]

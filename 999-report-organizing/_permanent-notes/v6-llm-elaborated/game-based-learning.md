@@ -2,6 +2,7 @@
 title: "Game Based Learning"
 aliases:
   - "Game Based Learning"
+  - "Game-Based Learning"
   - "GBL"
   - "serious games"
 type: permanent-note
@@ -34,8 +35,8 @@ parent-concept: "Instructional Design"
 
 related:
   - "[[Experiential Learning]]"
-  - "[[Gamification]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[gamification]]"
+  - "[[intrinsic-motivation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,11 +46,11 @@ broader:
 see-also:
   - "[[Experiential Learning]]"
 contrasts-with:
-  - "[[Gamification]]"
+  - "[[gamification]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +74,7 @@ provenance:
 # Game Based Learning
 
 > [!definition] **Game Based Learning**
-> Game Based Learning (GBL) is an instructional approach that uses games — designed artifacts with goals, rules, feedback systems, and voluntary participation — as the primary medium for learning, distinguished from gamification by integrating instructional content into gameplay rather than overlaying game elements onto non-game tasks. It falls under [[Instructional Design]].
+> Game Based Learning (GBL) is an instructional approach that uses games — designed artifacts with goals, rules, feedback systems, and voluntary participation — as the primary medium for learning, distinguished from gamification by integrating instructional content into gameplay rather than overlaying game elements onto non-game tasks. It falls under [[instructional-design]].
 
 > [!attention] **Boundary**
 > GBL excludes gamification, which overlays game elements onto non-game tasks. It also differs from simulation-based learning in its focus on embedding instruction within a game's mechanics rather than simulating real-world scenarios.
@@ -136,12 +137,12 @@ Meta-analyses of GBL report modest average effects with high heterogeneity, sugg
 
 ## Connections & Context
 
-**Falls under:** [[Instructional Design]]
+**Falls under:** [[instructional-design]]
 
 **Sibling concepts:** [[Experiential Learning]]
 
-**Contrasts with:** [[Gamification]]
+**Contrasts with:** [[gamification]]
 
-**Applies to:** [[Intrinsic Motivation]]
+**Applies to:** [[intrinsic-motivation]]
 
 **Source:** [[game-based-learning-synthetic-seed-2026-04-26]]

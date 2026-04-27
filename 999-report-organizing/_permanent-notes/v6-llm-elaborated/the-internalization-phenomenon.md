@@ -34,7 +34,7 @@ parent-concept: "Self-Determination Theory"
 
 related:
   - "[[intrinsic-motivation]]"
-  - "[[Autonomy-Supportive Teaching]]"
+  - "[[autonomy-supportive-teaching]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomy-Supportive Teaching]]"
+  - "[[autonomy-supportive-teaching]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -136,6 +136,6 @@ The importance of internalization extends beyond education into other domains su
 
 **Specializes:** [[intrinsic-motivation]]
 
-**Applies to:** [[Autonomy-Supportive Teaching]]
+**Applies to:** [[autonomy-supportive-teaching]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]

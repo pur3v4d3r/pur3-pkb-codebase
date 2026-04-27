@@ -28,11 +28,11 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Cognitive Architecture
 related:
-  - '[[Hedonic Adaptation]]'
+  - '[[hedonic-adaptation]]'
   - '[[Focusing Illusion]]'
   - '[[Emotion Regulation]]'
 prerequisites:
-  - '[[Hedonic Adaptation]]'
+  - '[[hedonic-adaptation]]'
 specializes:
   - '[[]]'
 broader:
@@ -72,7 +72,7 @@ provenance:
 # Affective Forecasting
 
 > [!definition] **Affective Forecasting**
-> Affective Forecasting is the cognitive process by which individuals predict their emotional reactions to future events, often overestimating both the intensity and duration of these emotions due to biases like hedonic adaptation, a phenomenon that falls under [[Cognitive Architecture]].
+> Affective Forecasting is the cognitive process by which individuals predict their emotional reactions to future events, often overestimating both the intensity and duration of these emotions due to biases like hedonic adaptation, a phenomenon that falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > This concept excludes specific instances or applications of forecasting that do not pertain to emotional predictions, such as financial or physical event forecasts.
@@ -143,9 +143,9 @@ A 2015 meta-analysis by Gilbert, Wilson, and colleagues synthesized 127 studies 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Hedonic Adaptation]]
+**Prerequisites:** [[hedonic-adaptation]]
 
 **Contrasts with:** [[Focusing Illusion]]
 

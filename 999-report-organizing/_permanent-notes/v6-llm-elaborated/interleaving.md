@@ -34,7 +34,7 @@ parent-concept: "Desirable Difficulties"
 
 related:
   - "[[Discrimination Learning]]"
-  - "[[Blocked Practice]]"
+  - "[[blocked-practice]]"
   - "[[spaced-retrieval]]"
 prerequisites:
   - "[[Discrimination Learning]]"
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Blocked Practice]]"
+  - "[[blocked-practice]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -141,7 +141,7 @@ Empirical evidence consistently shows that interleaving improves delayed retenti
 
 **Prerequisites:** [[Discrimination Learning]]
 
-**Contrasts with:** [[Blocked Practice]]
+**Contrasts with:** [[blocked-practice]]
 
 **Applies to:** [[spaced-retrieval]]
 

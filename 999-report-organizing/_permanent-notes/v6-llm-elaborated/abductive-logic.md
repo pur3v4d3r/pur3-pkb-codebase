@@ -29,7 +29,7 @@ parent-concept: Logical Reasoning
 related:
   - '[[deductive-reasoning]]'
   - '[[inductive-reasoning]]'
-  - '[[Explanatory Coherence]]'
+  - '[[explanatory-coherence]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -44,7 +44,7 @@ contrasts-with:
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Explanatory Coherence]]'
+  - '[[explanatory-coherence]]'
 formalizes:
   - '[[]]'
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Abductive Logic
 
 > [!definition] **Abductive Logic**
-> Abductive Logic is the formal and computational study of inference to the best explanation — including logical-AI frameworks for abductive computation, explanation-based learning, diagnostic reasoning systems, and philosophical analyses of explanatory virtues such as simplicity, coherence, scope, and fertility. It falls under [[Logical Reasoning]], providing the technical machinery for the Abductive Reasoning patterns that pervade scientific and diagnostic practice.
+> Abductive Logic is the formal and computational study of inference to the best explanation — including logical-AI frameworks for abductive computation, explanation-based learning, diagnostic reasoning systems, and philosophical analyses of explanatory virtues such as simplicity, coherence, scope, and fertility. It falls under [[logical-reasoning]], providing the technical machinery for the Abductive Reasoning patterns that pervade scientific and diagnostic practice.
 
 > [!attention] **Boundary**
 > It excludes purely deductive or inductive logical processes but includes philosophical analyses of explanatory virtues such as simplicity, coherence, scope, and fertility.
@@ -148,10 +148,10 @@ Meta-analyses of diagnostic reasoning systems (Thagard, 2019) demonstrate that a
 
 ## Connections & Context
 
-**Falls under:** [[Logical Reasoning]]
+**Falls under:** [[logical-reasoning]]
 
 **Contrasts with:** [[deductive-reasoning]] · [[inductive-reasoning]]
 
-**Applies to:** [[Explanatory Coherence]]
+**Applies to:** [[explanatory-coherence]]
 
 **Source:** [[abductive-logic-synthetic-seed-2026-04-24]]

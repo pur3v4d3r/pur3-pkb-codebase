@@ -34,8 +34,8 @@ depth-level: elaborated
 parent-concept: "Behavior Change Theory"
 
 related:
-  - "[[Theory of Planned Behavior]]"
-  - "[[Motivational Interviewing]]"
+  - "[[theory-of-planned-behavior]]"
+  - "[[motivational-interviewing]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,11 +45,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Theory of Planned Behavior]]"
+  - "[[theory-of-planned-behavior]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Motivational Interviewing]]"
+  - "[[motivational-interviewing]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,8 +133,8 @@ The Stages of Change Model is crucial in the field of behavior change because it
 
 **Falls under:** [[Behavior Change Theory]]
 
-**Contrasts with:** [[Theory of Planned Behavior]]
+**Contrasts with:** [[theory-of-planned-behavior]]
 
-**Applies to:** [[Motivational Interviewing]]
+**Applies to:** [[motivational-interviewing]]
 
 **Source:** [[stages-of-change-model-synthetic-seed-2026-04-25]]

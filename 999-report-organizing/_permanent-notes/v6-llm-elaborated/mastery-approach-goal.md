@@ -80,7 +80,7 @@ provenance:
 # Mastery-Approach Goal
 
 > [!definition] **Mastery-Approach Goal**
-> A mastery-approach goal is an achievement goal focused on developing competence relative to one's own prior level, rather than demonstrating or avoiding a loss of competence compared to others. It falls under the broader [[Goal Orientation Framework]], where it is distinguished from mastery-avoidance goals (focusing on not losing competence) and performance-approach goals (demonstrating competence relative to others).
+> A mastery-approach goal is an achievement goal focused on developing competence relative to one's own prior level, rather than demonstrating or avoiding a loss of competence compared to others. It falls under the broader [[goal-orientation-framework]], where it is distinguished from mastery-avoidance goals (focusing on not losing competence) and performance-approach goals (demonstrating competence relative to others).
 
 > [!attention] **Boundary**
 > It excludes mastery-avoidance goals (focusing on not losing competence) and performance-approach goals (demonstrating competence relative to others).
@@ -91,7 +91,7 @@ Mastery-approach goals are central to educational psychology as they emphasize p
 
 In practice, mastery-approach goals are closely tied to intrinsic motivation and self-efficacy. Students who pursue these goals tend to be more engaged and persistent in their efforts, as they derive satisfaction from mastering new skills rather than simply achieving a high score or outperforming others. This approach is supported by the work of researchers like Elliot and Midgley, who have extensively studied how such goals influence student behavior and outcomes.
 
-Theoretical roots of mastery-approach goals can be traced back to the [[Goal Orientation Framework]], which categorizes achievement goals into different types based on their underlying motivations. Mastery-approach goals align with a growth mindset, where learners believe that abilities can be developed through dedication and hard work. This contrasts sharply with performance-approach goals, which are more focused on demonstrating competence relative to others.
+Theoretical roots of mastery-approach goals can be traced back to the [[goal-orientation-framework]], which categorizes achievement goals into different types based on their underlying motivations. Mastery-approach goals align with a growth mindset, where learners believe that abilities can be developed through dedication and hard work. This contrasts sharply with performance-approach goals, which are more focused on demonstrating competence relative to others.
 
 Empirical evidence supports the positive impact of mastery-approach goals in educational settings. For instance, studies have shown that students who adopt a mastery orientation tend to exhibit higher levels of academic engagement and persistence, leading to better long-term outcomes. The concept is also closely linked with the idea of a 'mastery climate' in classrooms, where learning environments are structured to promote these goals.
 
@@ -137,7 +137,7 @@ Mastery-approach goals are significant in educational psychology because they pr
 
 ## Connections & Context
 
-**Falls under:** [[Goal Orientation Framework]]
+**Falls under:** [[goal-orientation-framework]]
 
 **Contrasts with:** [[performance-approach-goal]] · [[mastery-avoidance-goal]] · [[performance-avoidance-goal]] · [[growth-mindset]]
 

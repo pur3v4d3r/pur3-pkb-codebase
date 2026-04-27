@@ -73,7 +73,7 @@ provenance:
 # Deductive Logic
 
 > [!definition] **Deductive Logic**
-> Deductive Logic is the formal study of inferential structures ensuring conclusions follow necessarily from premises, encompassing propositional and predicate logic. It falls under [[Formal Logic]], providing rigorous machinery for analyzing reasoning that no informal vocabulary can match.
+> Deductive Logic is the formal study of inferential structures ensuring conclusions follow necessarily from premises, encompassing propositional and predicate logic. It falls under [[formal-logic]], providing rigorous machinery for analyzing reasoning that no informal vocabulary can match.
 
 > [!attention] **Boundary**
 > It excludes non-monotonic, defeasible, and probabilistic reasoning which Deductive Logic cannot fully represent.
@@ -134,7 +134,7 @@ Understanding these limitations highlights the need for extending Deductive Logi
 
 ## Connections & Context
 
-**Falls under:** [[Formal Logic]]
+**Falls under:** [[formal-logic]]
 
 **Specializes:** [[propositional-logic]] · [[predicate-logic]]
 

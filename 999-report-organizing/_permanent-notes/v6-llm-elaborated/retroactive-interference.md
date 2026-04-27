@@ -32,9 +32,9 @@ depth-level: elaborated
 parent-concept: "Memory"
 
 related:
-  - "[[Proactive Interference]]"
+  - "[[proactive-interference]]"
   - "[[Trace Decay]]"
-  - "[[Memory Consolidation]]"
+  - "[[memory-consolidation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,12 +44,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Proactive Interference]]"
+  - "[[proactive-interference]]"
   - "[[Trace Decay]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Memory Consolidation]]"
+  - "[[memory-consolidation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -139,8 +139,8 @@ Moreover, this concept has broader implications across cognitive science, as it 
 
 **Falls under:** [[Memory]]
 
-**Contrasts with:** [[Proactive Interference]] · [[Trace Decay]]
+**Contrasts with:** [[proactive-interference]] · [[Trace Decay]]
 
-**Applies to:** [[Memory Consolidation]]
+**Applies to:** [[memory-consolidation]]
 
 **Source:** [[retroactive-interference-synthetic-seed-2026-04-25]]

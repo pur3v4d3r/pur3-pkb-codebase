@@ -34,7 +34,7 @@ parent-concept: "Cognitive Architecture"
 related:
   - "[[genetic-epistemology]]"
   - "[[cognitive-psychology]]"
-  - "[[Lifespan Development]]"
+  - "[[lifespan-development]]"
 prerequisites:
   - "[[genetic-epistemology]]"
 specializes:
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[cognitive-psychology]]"
 see-also:
-  - "[[Lifespan Development]]"
+  - "[[lifespan-development]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -128,7 +128,7 @@ Developmental changes are driven by a combination of biological maturation and e
 
 Developmental Psychology matters because it provides a framework for understanding how cognitive, emotional, and behavioral capacities change over time. By integrating biological, psychological, and sociocultural factors, this field offers valuable insights into educational practices, parenting strategies, and policy-making. Its contributions extend beyond individual development to inform broader societal issues related to education, health, and social welfare.
 
-The concept of Developmental Psychology is closely linked with [[genetic-epistemology]] and [[Lifespan Development]], as it shares a focus on changes over the life span but from a more specific perspective. By examining age-related changes in cognitive architecture, this field enriches our understanding of human development across different domains.
+The concept of Developmental Psychology is closely linked with [[genetic-epistemology]] and [[lifespan-development]], as it shares a focus on changes over the life span but from a more specific perspective. By examining age-related changes in cognitive architecture, this field enriches our understanding of human development across different domains.
 
 ## Connections & Context
 
@@ -138,6 +138,6 @@ The concept of Developmental Psychology is closely linked with [[genetic-epistem
 
 **Generalizes to:** [[cognitive-psychology]]
 
-**Sibling concepts:** [[Lifespan Development]]
+**Sibling concepts:** [[lifespan-development]]
 
 **Source:** [[developmental-psychology-synthetic-seed-2026-04-24]]

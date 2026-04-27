@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Alexithymia]]"
-  - "[[Emotional Granularity]]"
+  - "[[alexithymia]]"
+  - "[[emotional-granularity]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Alexithymia]]"
+  - "[[alexithymia]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Emotional Granularity]]"
+  - "[[emotional-granularity]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -126,8 +126,8 @@ Interoception's role in emotional granularity and its potential applications in 
 
 ## Connections & Context
 
-**Contrasts with:** [[Alexithymia]]
+**Contrasts with:** [[alexithymia]]
 
-**Applies to:** [[Emotional Granularity]]
+**Applies to:** [[emotional-granularity]]
 
 **Source:** [[interoception-synthetic-seed-2026-04-26]]

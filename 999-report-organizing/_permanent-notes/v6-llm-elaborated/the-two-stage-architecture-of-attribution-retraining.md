@@ -37,7 +37,7 @@ parent-concept: "Cognitive Architecture"
 related:
   - "[[dual-process-theory]]"
   - "[[self-determination-theory]]"
-  - "[[Cognitive-Behavioral Therapy]]"
+  - "[[cognitive-behavioral-therapy]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -52,7 +52,7 @@ contradicts:
   - "[[]]"
 applies-to:
   - "[[self-determination-theory]]"
-  - "[[Cognitive-Behavioral Therapy]]"
+  - "[[cognitive-behavioral-therapy]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -139,6 +139,6 @@ Moreover, the Two-Stage Architecture aligns with broader theories such as Self-D
 
 **Contrasts with:** [[dual-process-theory]]
 
-**Applies to:** [[self-determination-theory]] · [[Cognitive-Behavioral Therapy]]
+**Applies to:** [[self-determination-theory]] · [[cognitive-behavioral-therapy]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]

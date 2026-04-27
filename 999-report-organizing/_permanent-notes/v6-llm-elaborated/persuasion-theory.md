@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Elaboration Likelihood Model
 
 > [!definition] **Elaboration Likelihood Model**
-> The Elaboration Likelihood Model (ELM) is a theory in social psychology that explains attitude change through two routes: central and peripheral processing. It falls under [[Cognitive Architecture]], focusing on the mechanisms of persuasion but not directly covering other cognitive processes like memory or decision-making.
+> The Elaboration Likelihood Model (ELM) is a theory in social psychology that explains attitude change through two routes: central and peripheral processing. It falls under [[cognitive-architecture]], focusing on the mechanisms of persuasion but not directly covering other cognitive processes like memory or decision-making.
 
 > [!attention] **Boundary**
 > This model focuses on the mechanisms of persuasion but does not cover other theories of cognitive processes like memory or decision-making directly.
@@ -130,10 +130,10 @@ The ELM also has broader implications for cognitive psychology and decision-maki
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[persuasion-theory-synthetic-seed-2026-04-25]]

@@ -29,12 +29,12 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Neuroscience of Learning
 related:
-  - '[[Emotional Memory Enhancement]]'
+  - '[[emotional-memory-enhancement]]'
   - '[[Fear Conditioning]]'
 prerequisites:
   - '[[]]'
 specializes:
-  - '[[Emotional Memory Enhancement]]'
+  - '[[emotional-memory-enhancement]]'
 broader:
   - '[[]]'
 see-also:
@@ -153,7 +153,7 @@ Recent meta-analyses have refined the understanding of valence specificity in am
 
 **Falls under:** [[Neuroscience of Learning]]
 
-**Specializes:** [[Emotional Memory Enhancement]]
+**Specializes:** [[emotional-memory-enhancement]]
 
 **Contrasts with:** [[Fear Conditioning]]
 

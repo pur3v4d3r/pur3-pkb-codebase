@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Psychology"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Lexical Access]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -72,7 +72,7 @@ provenance:
 # Semantic Satiation
 
 > [!definition] **Semantic Satiation**
-> Semantic Satiation is a phenomenon where prolonged or rapid repetition of a word causes the word to temporarily lose its associated meaning for the perceiver, leaving the phonological or orthographic form intact while the semantic representation appears to become inaccessible. It falls under [[Cognitive Psychology]], challenging passive semantic activation models by demonstrating that semantic processing can be fatigued through repeated exposure.
+> Semantic Satiation is a phenomenon where prolonged or rapid repetition of a word causes the word to temporarily lose its associated meaning for the perceiver, leaving the phonological or orthographic form intact while the semantic representation appears to become inaccessible. It falls under [[cognitive-psychology]], challenging passive semantic activation models by demonstrating that semantic processing can be fatigued through repeated exposure.
 
 > [!attention] **Boundary**
 > This definition excludes the effects on non-semantic aspects of language, such as prosody and syntax, and does not encompass broader concepts like lexical access or repetition suppression.
@@ -131,9 +131,9 @@ Moreover, Semantic Satiation highlights the importance of varied practice in lan
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[Lexical Access]]
 

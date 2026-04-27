@@ -72,7 +72,7 @@ provenance:
 # Learning Objectives Taxonomy
 
 > [!definition] **Learning Objectives Taxonomy**
-> Learning Objectives Taxonomy is a hierarchical classification of educational objectives originally developed by Bloom (1956) and later revised by Anderson-Krathwohl (2001), which organizes cognitive complexity into levels such as Remember, Understand, Apply, Analyze, Evaluate, and Create. It falls under [[Cognitive Architecture]], providing a shared vocabulary for specifying and assessing the cognitive complexity targeted by instruction.
+> Learning Objectives Taxonomy is a hierarchical classification of educational objectives originally developed by Bloom (1956) and later revised by Anderson-Krathwohl (2001), which organizes cognitive complexity into levels such as Remember, Understand, Apply, Analyze, Evaluate, and Create. It falls under [[cognitive-architecture]], providing a shared vocabulary for specifying and assessing the cognitive complexity targeted by instruction.
 
 > [!attention] **Boundary**
 > This taxonomy focuses on the cognitive domain and does not include affective or psychomotor domains. It is distinct from other educational frameworks that may address different aspects of learning.
@@ -135,7 +135,7 @@ While the taxonomy remains a valuable tool, ongoing debates about its hierarchic
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Specializes:** [[Bloom's Taxonomy]]
 

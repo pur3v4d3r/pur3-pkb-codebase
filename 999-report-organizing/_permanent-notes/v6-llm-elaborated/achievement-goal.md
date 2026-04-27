@@ -31,7 +31,7 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Goal Orientation
 related:
-  - '[[Implicit Theory of Intelligence]]'
+  - '[[implicit-theory-of-intelligence]]'
   - '[[attribution-theory]]'
   - '[[self-efficacy-theory]]'
 prerequisites:
@@ -43,7 +43,7 @@ broader:
 see-also:
   - '[[]]'
 contrasts-with:
-  - '[[Implicit Theory of Intelligence]]'
+  - '[[implicit-theory-of-intelligence]]'
   - '[[attribution-theory]]'
 contradicts:
   - '[[]]'
@@ -168,7 +168,7 @@ A 2019 meta-analysis by Hulleman et al. in Educational Psychologist synthesized 
 
 **Falls under:** [[goal-orientation]]
 
-**Contrasts with:** [[Implicit Theory of Intelligence]] · [[attribution-theory]]
+**Contrasts with:** [[implicit-theory-of-intelligence]] · [[attribution-theory]]
 
 **Applies to:** [[self-efficacy-theory]]
 

@@ -33,11 +33,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Processes"
 
 related:
-  - "[[Base-rate-neglect]]"
-  - "[[Conjunction-fallacy]]"
-  - "[[Representativeness-heuristic]]"
-  - "[[Calibration]]"
-  - "[[Bayesian Reasoning]]"
+  - "[[base-rate-neglect]]"
+  - "[[conjunction-fallacy]]"
+  - "[[representativeness-heuristic]]"
+  - "[[calibration]]"
+  - "[[bayesian-reasoning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,17 +45,17 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Base-rate-neglect]]"
-  - "[[Conjunction-fallacy]]"
-  - "[[Representativeness-heuristic]]"
+  - "[[base-rate-neglect]]"
+  - "[[conjunction-fallacy]]"
+  - "[[representativeness-heuristic]]"
 contrasts-with:
-  - "[[Calibration]]"
+  - "[[calibration]]"
 contradicts:
   - "[[]]"
 applies-to:
   - "[[]]"
 formalizes:
-  - "[[Bayesian Reasoning]]"
+  - "[[bayesian-reasoning]]"
 instance-of:
   - "[[]]"
 supports:
@@ -125,10 +125,10 @@ Research demonstrates that systematic miscalibrations in Probability Judgment—
 
 **Falls under:** [[Cognitive Processes]]
 
-**Sibling concepts:** [[Base-rate-neglect]] · [[Conjunction-fallacy]] · [[Representativeness-heuristic]]
+**Sibling concepts:** [[base-rate-neglect]] · [[conjunction-fallacy]] · [[representativeness-heuristic]]
 
-**Contrasts with:** [[Calibration]]
+**Contrasts with:** [[calibration]]
 
-**Formalizes:** [[Bayesian Reasoning]]
+**Formalizes:** [[bayesian-reasoning]]
 
 **Source:** [[probability-judgment-synthetic-seed-2026-04-27]]

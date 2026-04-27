@@ -32,20 +32,20 @@ depth-level: elaborated
 parent-concept: "Behavioral Public Policy"
 
 related:
-  - "[[Choice Architecture]]"
-  - "[[Behavioral Economics]]"
-  - "[[Status Quo Bias]]"
+  - "[[choice-architecture]]"
+  - "[[behavioral-economics]]"
+  - "[[status-quo-bias]]"
   - "[[Default Effect]]"
 prerequisites:
-  - "[[Choice Architecture]]"
+  - "[[choice-architecture]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Behavioral Economics]]"
+  - "[[behavioral-economics]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Status Quo Bias]]"
+  - "[[status-quo-bias]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -135,11 +135,11 @@ The theory's emphasis on understanding cognitive biases and heuristics also unde
 
 **Falls under:** [[Behavioral Public Policy]]
 
-**Prerequisites:** [[Choice Architecture]]
+**Prerequisites:** [[choice-architecture]]
 
-**Generalizes to:** [[Behavioral Economics]]
+**Generalizes to:** [[behavioral-economics]]
 
-**Contrasts with:** [[Status Quo Bias]]
+**Contrasts with:** [[status-quo-bias]]
 
 **Applies to:** [[Default Effect]]
 

@@ -72,7 +72,7 @@ provenance:
 # Reliabilism
 
 > [!definition] **Reliabilism**
-> Reliabilism is an externalist theory of justification that posits a belief is justified if it results from a reliable process — one that produces a sufficiently high ratio of true to false beliefs across relevant counterfactual circumstances — making justification a function of the actual reliability of cognitive mechanisms rather than the believer's reflective access to evidence. It falls under [[Epistemology]].
+> Reliabilism is an externalist theory of justification that posits a belief is justified if it results from a reliable process — one that produces a sufficiently high ratio of true to false beliefs across relevant counterfactual circumstances — making justification a function of the actual reliability of cognitive mechanisms rather than the believer's reflective access to evidence. It falls under [[epistemology]].
 
 > [!attention] **Boundary**
 > This concept excludes internalist theories and focuses on the reliability of cognitive processes rather than the believer's reflective access to evidence.
@@ -129,7 +129,7 @@ Reliabilism matters because it offers a bridge between philosophical theories of
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Generalizes to:** [[Externalism]]
 

@@ -34,14 +34,14 @@ depth-level: elaborated
 parent-concept: "Spaced Repetition"
 
 related:
-  - "[[Spaced Repetition]]"
+  - "[[spaced-repetition]]"
   - "[[Anki]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Spaced Repetition]]"
+  - "[[spaced-repetition]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -73,7 +73,7 @@ provenance:
 # Leitner System
 
 > [!definition] **Leitner System**
-> The Leitner System is a paper-based method for spaced repetition where flashcards are sorted into boxes based on their recall success; it falls under [[Spaced Repetition]], embodying the core idea that review intervals should be adjusted according to recent retrieval success, not calendar dates.
+> The Leitner System is a paper-based method for spaced repetition where flashcards are sorted into boxes based on their recall success; it falls under [[spaced-repetition]], embodying the core idea that review intervals should be adjusted according to recent retrieval success, not calendar dates.
 
 > [!attention] **Boundary**
 > This system stops at the physical sorting of cards and does not include digital implementations or specific software algorithms.
@@ -130,9 +130,9 @@ The Leitner System is significant because it embodies the core principles of spa
 
 ## Connections & Context
 
-**Falls under:** [[Spaced Repetition]]
+**Falls under:** [[spaced-repetition]]
 
-**Generalizes to:** [[Spaced Repetition]]
+**Generalizes to:** [[spaced-repetition]]
 
 **Contrasts with:** [[Anki]]
 

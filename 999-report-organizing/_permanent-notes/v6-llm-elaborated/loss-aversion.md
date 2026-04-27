@@ -31,13 +31,13 @@ depth-level: elaborated
 parent-concept: "Behavioral Economics"
 
 related:
-  - "[[Reference Dependence]]"
-  - "[[Endowment Effect]]"
-  - "[[Sunk Cost Fallacy]]"
-  - "[[Framing Effect]]"
-  - "[[Prospect Theory]]"
+  - "[[reference-dependence]]"
+  - "[[endowment-effect]]"
+  - "[[sunk-cost-fallacy]]"
+  - "[[framing-effect]]"
+  - "[[prospect-theory]]"
 prerequisites:
-  - "[[Reference Dependence]]"
+  - "[[reference-dependence]]"
 specializes:
   - "[[]]"
 broader:
@@ -45,18 +45,18 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Endowment Effect]]"
-  - "[[Sunk Cost Fallacy]]"
+  - "[[endowment-effect]]"
+  - "[[sunk-cost-fallacy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Framing Effect]]"
+  - "[[framing-effect]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Prospect Theory]]"
+  - "[[prospect-theory]]"
 refines:
   - "[[]]"
 
@@ -74,7 +74,7 @@ provenance:
 # Loss Aversion
 
 > [!definition] **Loss Aversion**
-> Loss Aversion refers to the psychological phenomenon where individuals feel the pain of losing money or possessions more intensely than they experience pleasure from gaining an equivalent amount, leading to systematic biases in decision-making. It falls under [[Behavioral Economics]], particularly as a key component of Prospect Theory, which explains how people make decisions under risk.
+> Loss Aversion refers to the psychological phenomenon where individuals feel the pain of losing money or possessions more intensely than they experience pleasure from gaining an equivalent amount, leading to systematic biases in decision-making. It falls under [[behavioral-economics]], particularly as a key component of Prospect Theory, which explains how people make decisions under risk.
 
 > [!attention] **Boundary**
 > This concept excludes specific examples and focuses on the general principle that loss aversion is a fundamental driver of behavior in economic and social contexts, distinct from other psychological phenomena like the endowment effect or sunk cost fallacy.
@@ -134,14 +134,14 @@ Loss Aversion is deeply intertwined with other concepts like framing effects and
 
 ## Connections & Context
 
-**Falls under:** [[Behavioral Economics]]
+**Falls under:** [[behavioral-economics]]
 
-**Prerequisites:** [[Reference Dependence]]
+**Prerequisites:** [[reference-dependence]]
 
-**Contrasts with:** [[Endowment Effect]] · [[Sunk Cost Fallacy]]
+**Contrasts with:** [[endowment-effect]] · [[sunk-cost-fallacy]]
 
-**Applies to:** [[Framing Effect]]
+**Applies to:** [[framing-effect]]
 
-**Supports:** [[Prospect Theory]]
+**Supports:** [[prospect-theory]]
 
 **Source:** [[loss-aversion-synthetic-seed-2026-04-25]]

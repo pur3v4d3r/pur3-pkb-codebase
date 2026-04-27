@@ -27,9 +27,9 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Cognitive Architecture
 related:
-  - '[[Interleaving]]'
+  - '[[interleaving]]'
   - '[[Distributed Practice]]'
-  - '[[Spacing Effect]]'
+  - '[[spacing-effect]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -39,12 +39,12 @@ broader:
 see-also:
   - '[[]]'
 contrasts-with:
-  - '[[Interleaving]]'
+  - '[[interleaving]]'
   - '[[Distributed Practice]]'
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Spacing Effect]]'
+  - '[[spacing-effect]]'
 formalizes:
   - '[[]]'
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Blocked Practice
 
 > [!definition] **Blocked Practice**
-> Blocked Practice is a training schedule where all trials of a single skill are completed consecutively before moving to the next, contrasting with interleaved practice which mixes different skills within a session. It falls under [[Cognitive Architecture]], focusing on the consecutive completion of one type of task at a time.
+> Blocked Practice is a training schedule where all trials of a single skill are completed consecutively before moving to the next, contrasting with interleaved practice which mixes different skills within a session. It falls under [[cognitive-architecture]], focusing on the consecutive completion of one type of task at a time.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of practice schedules such as interleaving and distributed practice. It focuses on the consecutive completion of one type of task at a time.
@@ -146,10 +146,10 @@ Recent meta-analyses (e.g., Dunlosky et al., 2013; Rittle-Johnson et al., 2015) 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Interleaving]] · [[Distributed Practice]]
+**Contrasts with:** [[interleaving]] · [[Distributed Practice]]
 
-**Applies to:** [[Spacing Effect]]
+**Applies to:** [[spacing-effect]]
 
 **Source:** [[blocked-practice-synthetic-seed-2026-04-25]]

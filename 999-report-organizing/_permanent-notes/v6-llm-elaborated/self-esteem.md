@@ -33,23 +33,23 @@ parent-concept: "Motivational Psychology"
 
 related:
   - "[[Contingent Self-Esteem]]"
-  - "[[Self-Worth Theory]]"
-  - "[[Self-Efficacy]]"
-  - "[[Self-Serving Bias]]"
+  - "[[self-worth-theory]]"
+  - "[[self-efficacy]]"
+  - "[[self-serving-bias]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[Contingent Self-Esteem]]"
 broader:
-  - "[[Self-Worth Theory]]"
+  - "[[self-worth-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Serving Bias]]"
+  - "[[self-serving-bias]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Self Esteem
 
 > [!definition] **Self Esteem**
-> Self Esteem refers to an individual's overall evaluation of their own worth, distinct from specific competencies or self-concept content, and it is typically measured as a stable trait with state-level fluctuations. It falls under [[Motivational Psychology]].
+> Self Esteem refers to an individual's overall evaluation of their own worth, distinct from specific competencies or self-concept content, and it is typically measured as a stable trait with state-level fluctuations. It falls under [[motivational-psychology]].
 
 > [!attention] **Boundary**
 > It stops at being a stable trait with state-level fluctuations and does not include task-specific confidence (self-efficacy) or fragile high Self Esteem associated with narcissism.
@@ -132,14 +132,14 @@ The concept of Self Esteem also intersects with broader theories like self-worth
 
 ## Connections & Context
 
-**Falls under:** [[Motivational Psychology]]
+**Falls under:** [[motivational-psychology]]
 
 **Specializes:** [[Contingent Self-Esteem]]
 
-**Generalizes to:** [[Self-Worth Theory]]
+**Generalizes to:** [[self-worth-theory]]
 
-**Contrasts with:** [[Self-Efficacy]]
+**Contrasts with:** [[self-efficacy]]
 
-**Applies to:** [[Self-Serving Bias]]
+**Applies to:** [[self-serving-bias]]
 
 **Source:** [[self-esteem-synthetic-seed-2026-04-25]]

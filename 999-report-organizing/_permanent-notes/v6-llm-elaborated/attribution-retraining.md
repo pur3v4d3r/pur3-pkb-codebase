@@ -30,13 +30,13 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Cognitive Architecture
 related:
-  - '[[Explanatory Style]]'
+  - '[[explanatory-style]]'
   - '[[growth-mindset]]'
   - '[[self-determination-theory]]'
 prerequisites:
   - '[[]]'
 specializes:
-  - '[[Explanatory Style]]'
+  - '[[explanatory-style]]'
 broader:
   - '[[]]'
 see-also:
@@ -144,7 +144,7 @@ Meta-analyses of attribution retraining interventions in educational contexts (e
 
 **Falls under:** [[cognitive-architecture]]
 
-**Specializes:** [[Explanatory Style]]
+**Specializes:** [[explanatory-style]]
 
 **Contrasts with:** [[growth-mindset]]
 

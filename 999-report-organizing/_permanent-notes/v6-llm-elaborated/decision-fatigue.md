@@ -35,7 +35,7 @@ parent-concept: "Self-Regulation"
 related:
   - "[[Ego-Depletion]]"
   - "[[Choice Overload]]"
-  - "[[Willpower]]"
+  - "[[willpower]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Willpower]]"
+  - "[[willpower]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Decision Fatigue
 
 > [!definition] **Decision Fatigue**
-> Decision Fatigue refers to the phenomenon where decision-making ability declines after prolonged exposure to making choices, leading to increased reliance on defaults and reduced quality of decisions. It falls under [[Self-Regulation]], as it is a form of willpower depletion in decision-making contexts.
+> Decision Fatigue refers to the phenomenon where decision-making ability declines after prolonged exposure to making choices, leading to increased reliance on defaults and reduced quality of decisions. It falls under [[self-regulation]], as it is a form of willpower depletion in decision-making contexts.
 
 > [!attention] **Boundary**
 > This concept excludes other forms of cognitive depletion like ego-depletion but is related. It does not encompass all aspects of self-regulation or willpower.
@@ -133,10 +133,10 @@ Decision Fatigue also has significant implications for policy and practice. Reco
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulation]]
+**Falls under:** [[self-regulation]]
 
 **Sibling concepts:** [[Ego-Depletion]] · [[Choice Overload]]
 
-**Applies to:** [[Willpower]]
+**Applies to:** [[willpower]]
 
 **Source:** [[decision-fatigue-synthetic-seed-2026-04-26]]

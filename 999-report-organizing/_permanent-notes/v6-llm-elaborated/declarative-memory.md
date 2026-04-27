@@ -75,7 +75,7 @@ provenance:
 # Declarative Memory
 
 > [!definition] **Declarative Memory**
-> Declarative Memory refers to the long-term storage of consciously accessible knowledge that can be verbally reported and encompasses both semantic (facts and concepts) and episodic (events) memory. It falls under [[Cognitive Science]], being selectively impaired by medial-temporal-lobe damage, which spares motor skills and conditioned responses.
+> Declarative Memory refers to the long-term storage of consciously accessible knowledge that can be verbally reported and encompasses both semantic (facts and concepts) and episodic (events) memory. It falls under [[cognitive-science]], being selectively impaired by medial-temporal-lobe damage, which spares motor skills and conditioned responses.
 
 > [!attention] **Boundary**
 > It excludes procedural memory, which involves skills and habits not requiring conscious thought, and non-declarative memory, such as classical conditioning and habit formation.

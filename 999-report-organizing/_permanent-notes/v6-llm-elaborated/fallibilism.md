@@ -72,7 +72,7 @@ provenance:
 # Fallibilism
 
 > [!definition] **Fallibilism**
-> Fallibilism is the epistemological position that no empirical belief can be held with absolute certainty; instead, all beliefs are subject to potential revision in light of new evidence or arguments. It falls under [[Epistemology]], emphasizing a balanced approach where high confidence coexists with openness to revision, distinguishing it from dogmatic certainty and skeptical doubt.
+> Fallibilism is the epistemological position that no empirical belief can be held with absolute certainty; instead, all beliefs are subject to potential revision in light of new evidence or arguments. It falls under [[epistemology]], emphasizing a balanced approach where high confidence coexists with openness to revision, distinguishing it from dogmatic certainty and skeptical doubt.
 
 > [!attention] **Boundary**
 > This position excludes dogmatic certainty and skeptical doubt, emphasizing a balanced approach where high confidence coexists with openness to revision.
@@ -135,7 +135,7 @@ This concept also intersects with related epistemological ideas such as pragmati
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Sibling concepts:** [[pragmatism]]
 

@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Systems-Thinking"
 
 related:
-  - "[[Feedback Loops]]"
+  - "[[feedback-loops]]"
   - "[[System Dynamics]]"
 prerequisites:
   - "[[]]"
@@ -41,7 +41,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Feedback Loops]]"
+  - "[[feedback-loops]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -71,7 +71,7 @@ provenance:
 # Leverage Points
 
 > [!definition] **Leverage Points**
-> Leverage Points are strategic points within a complex system where small changes can lead to significant shifts in behavior, as identified by Donella Meadows. This concept falls under [[Systems-Thinking]], focusing on the qualitative ranking of intervention power within systems and not addressing quantitative measures or specific implementation details.
+> Leverage Points are strategic points within a complex system where small changes can lead to significant shifts in behavior, as identified by Donella Meadows. This concept falls under [[systems-thinking]], focusing on the qualitative ranking of intervention power within systems and not addressing quantitative measures or specific implementation details.
 
 > [!attention] **Boundary**
 > This concept focuses on the qualitative ranking of intervention power within complex systems and does not address quantitative measures or specific implementation details.
@@ -133,9 +133,9 @@ The Leverage Points framework also intersects with other concepts within [[Syste
 
 ## Connections & Context
 
-**Falls under:** [[Systems-Thinking]]
+**Falls under:** [[systems-thinking]]
 
-**Sibling concepts:** [[Feedback Loops]]
+**Sibling concepts:** [[feedback-loops]]
 
 **Applies to:** [[System Dynamics]]
 

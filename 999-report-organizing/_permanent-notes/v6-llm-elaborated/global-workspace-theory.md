@@ -34,12 +34,12 @@ depth-level: elaborated
 parent-concept: "Theories of Consciousness"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Integrated Information Theory (IIT)]]"
   - "[[Attention]]"
   - "[[Neural Correlates of Consciousness (NCC)]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -134,7 +134,7 @@ The theory's integration with other concepts like the Neural Correlates of Consc
 
 **Falls under:** [[Theories of Consciousness]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contradicts:** [[Integrated Information Theory (IIT)]]
 

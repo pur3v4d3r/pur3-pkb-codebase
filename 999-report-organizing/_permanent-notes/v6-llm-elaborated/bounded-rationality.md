@@ -29,7 +29,7 @@ parent-concept: Decision Science
 related:
   - '[[heuristics-and-biases]]'
   - '[[dual-process-theory]]'
-  - '[[Satisficing]]'
+  - '[[satisficing]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -44,7 +44,7 @@ contrasts-with:
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Satisficing]]'
+  - '[[satisficing]]'
 formalizes:
   - '[[]]'
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Bounded Rationality
 
 > [!definition] **Bounded Rationality**
-> Bounded Rationality is the concept that human decision-making is constrained by cognitive and informational limits, leading individuals to satisfice rather than optimise their choices. It falls under [[Decision Science]], reframing the descriptive failure of normative rational-choice theory not as a deficiency of human reasoners but as a correct adaptation to environmental and cognitive constraints.
+> Bounded Rationality is the concept that human decision-making is constrained by cognitive and informational limits, leading individuals to satisfice rather than optimise their choices. It falls under [[decision-science]], reframing the descriptive failure of normative rational-choice theory not as a deficiency of human reasoners but as a correct adaptation to environmental and cognitive constraints.
 
 > [!attention] **Boundary**
 > This concept excludes idealised models of rational choice where unlimited computational resources are assumed. It also does not address the quality or adaptiveness of decisions but focuses on the constraints under which they are made.
@@ -162,10 +162,10 @@ Bounded rationality represents a foundational shift in decision science from ide
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
 **Contrasts with:** [[heuristics-and-biases]] · [[dual-process-theory]]
 
-**Applies to:** [[Satisficing]]
+**Applies to:** [[satisficing]]
 
 **Source:** [[bounded-rationality-synthetic-seed-2026-04-24]]

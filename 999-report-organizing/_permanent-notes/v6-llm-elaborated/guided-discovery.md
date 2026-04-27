@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Instructional Strategy"
 
 related:
-  - "[[Discovery Learning]]"
-  - "[[Direct Instruction]]"
-  - "[[Scaffolding]]"
-  - "[[Worked Examples]]"
+  - "[[discovery-learning]]"
+  - "[[direct-instruction]]"
+  - "[[scaffolding]]"
+  - "[[worked-examples]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,13 +46,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Discovery Learning]]"
-  - "[[Direct Instruction]]"
+  - "[[discovery-learning]]"
+  - "[[direct-instruction]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Scaffolding]]"
-  - "[[Worked Examples]]"
+  - "[[scaffolding]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -134,8 +134,8 @@ The application of Guided Discovery extends beyond individual classrooms to infl
 
 **Falls under:** [[Instructional Strategy]]
 
-**Contrasts with:** [[Discovery Learning]] · [[Direct Instruction]]
+**Contrasts with:** [[discovery-learning]] · [[direct-instruction]]
 
-**Applies to:** [[Scaffolding]] · [[Worked Examples]]
+**Applies to:** [[scaffolding]] · [[worked-examples]]
 
 **Source:** [[guided-discovery-synthetic-seed-2026-04-25]]

@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
   - "[[Community-Based Inquiry]]"
   - "[[fallibilism]]"
 prerequisites:
@@ -41,7 +41,7 @@ prerequisites:
 specializes:
   - "[[]]"
 broader:
-  - "[[Epistemology]]"
+  - "[[epistemology]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -73,7 +73,7 @@ provenance:
 # Pragmatism
 
 > [!definition] **Pragmatism**
-> Pragmatism is a philosophical tradition that grounds the meaning and warrant of beliefs in their practical consequences for inquiry and action, treating knowledge as fallibilistic, inquiry as community-situated, and theory as instrumentally continuous with practice. It falls under [[Epistemology]], focusing on how beliefs are justified through their real-world applications rather than abstract logical structures.
+> Pragmatism is a philosophical tradition that grounds the meaning and warrant of beliefs in their practical consequences for inquiry and action, treating knowledge as fallibilistic, inquiry as community-situated, and theory as instrumentally continuous with practice. It falls under [[epistemology]], focusing on how beliefs are justified through their real-world applications rather than abstract logical structures.
 
 > [!attention] **Boundary**
 > This definition excludes other epistemological theories like positivism or rationalism which focus on different criteria for truth and meaning. It also does not include the colloquial use of 'pragmatic' to mean expedient or practical in a narrow sense.
@@ -133,7 +133,7 @@ Pragmatism's emphasis on community-based correction and fallibilism aligns with 
 
 ## Connections & Context
 
-**Generalizes to:** [[Epistemology]]
+**Generalizes to:** [[epistemology]]
 
 **Applies to:** [[Community-Based Inquiry]]
 

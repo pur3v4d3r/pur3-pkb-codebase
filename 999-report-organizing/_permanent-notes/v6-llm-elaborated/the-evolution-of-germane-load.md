@@ -31,10 +31,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,7 +46,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -70,7 +70,7 @@ provenance:
 # The Evolution Of Germane Load
 
 > [!definition] **The Evolution Of Germane Load**
-> The Evolution Of Germane Load is the historical re-positioning of 'germane load' within Cognitive Load Theory, moving it from a separate category to a description of how learners allocate working-memory resources to schema construction processes acting on intrinsic load. It falls under [[Cognitive Architecture]]. This shift resolved a measurement contradiction in the original triple-additive model by treating germane processing as re-investment of freed-up capacity into schema formation, making the theory internally consistent.
+> The Evolution Of Germane Load is the historical re-positioning of 'germane load' within Cognitive Load Theory, moving it from a separate category to a description of how learners allocate working-memory resources to schema construction processes acting on intrinsic load. It falls under [[cognitive-architecture]]. This shift resolved a measurement contradiction in the original triple-additive model by treating germane processing as re-investment of freed-up capacity into schema formation, making the theory internally consistent.
 
 > [!attention] **Boundary**
 > This concept excludes the original additive model and focuses on the reallocation of working-memory resources for productive learning processes.
@@ -129,10 +129,10 @@ This shift has significant implications for various domains within educational p
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[the-evolution-of-germane-load-synthetic-seed-2026-04-25]]

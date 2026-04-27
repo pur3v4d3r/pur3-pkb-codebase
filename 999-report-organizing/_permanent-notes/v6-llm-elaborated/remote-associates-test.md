@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Creativity Measurement"
 
 related:
-  - "[[Insight Problem-Solving]]"
-  - "[[Divergent Thinking]]"
+  - "[[insight-problem-solving]]"
+  - "[[divergent-thinking]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Insight Problem-Solving]]"
+  - "[[insight-problem-solving]]"
 contrasts-with:
-  - "[[Divergent Thinking]]"
+  - "[[divergent-thinking]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -133,8 +133,8 @@ RAT's focus on verbal-associative reach highlights the importance of associative
 
 **Falls under:** [[Creativity Measurement]]
 
-**Sibling concepts:** [[Insight Problem-Solving]]
+**Sibling concepts:** [[insight-problem-solving]]
 
-**Contrasts with:** [[Divergent Thinking]]
+**Contrasts with:** [[divergent-thinking]]
 
 **Source:** [[remote-associates-test-synthetic-seed-2026-04-25]]

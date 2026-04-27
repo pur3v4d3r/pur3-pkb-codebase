@@ -32,8 +32,8 @@ depth-level: elaborated
 parent-concept: "Philosophy"
 
 related:
-  - "[[Intentionality]]"
-  - "[[Embodied Cognition]]"
+  - "[[intentionality]]"
+  - "[[embodied-cognition]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -41,13 +41,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Intentionality]]"
+  - "[[intentionality]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Embodied Cognition]]"
+  - "[[embodied-cognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -134,8 +134,8 @@ Phenomenology's impact extends beyond philosophy into fields like clinical psych
 
 **Falls under:** [[Philosophy]]
 
-**Sibling concepts:** [[Intentionality]]
+**Sibling concepts:** [[intentionality]]
 
-**Applies to:** [[Embodied Cognition]]
+**Applies to:** [[embodied-cognition]]
 
 **Source:** [[phenomenology-synthetic-seed-2026-04-25]]

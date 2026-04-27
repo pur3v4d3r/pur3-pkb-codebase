@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Motivational Psychology"
 
 related:
-  - "[[Hyperbolic Discounting]]"
+  - "[[hyperbolic-discounting]]"
   - "[[expectancy-value-theory]]"
   - "[[procrastination]]"
 prerequisites:
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Hyperbolic Discounting]]"
+  - "[[hyperbolic-discounting]]"
 contrasts-with:
   - "[[expectancy-value-theory]]"
 contradicts:
@@ -131,7 +131,7 @@ TMT fits into broader theories by complementing intrinsic vs extrinsic motivatio
 
 **Falls under:** [[motivational-psychology]]
 
-**Sibling concepts:** [[Hyperbolic Discounting]]
+**Sibling concepts:** [[hyperbolic-discounting]]
 
 **Contrasts with:** [[expectancy-value-theory]]
 

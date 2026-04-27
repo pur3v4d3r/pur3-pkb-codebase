@@ -29,9 +29,9 @@ depth-level: enhanced
 parent-concept: Motivational Design
 related:
   - '[[Motivational Design]]'
-  - '[[Self-Determination Theory]]'
-  - '[[Expectancy-Value Theory]]'
-  - '[[Intrinsic Motivation]]'
+  - '[[self-determination-theory]]'
+  - '[[expectancy-value-theory]]'
+  - '[[intrinsic-motivation]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -41,12 +41,12 @@ broader:
 see-also:
   - '[[]]'
 contrasts-with:
-  - '[[Self-Determination Theory]]'
-  - '[[Expectancy-Value Theory]]'
+  - '[[self-determination-theory]]'
+  - '[[expectancy-value-theory]]'
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Intrinsic Motivation]]'
+  - '[[intrinsic-motivation]]'
 formalizes:
   - '[[]]'
 instance-of:
@@ -151,8 +151,8 @@ ARCS also bridges the gap between theoretical understanding of motivation and pr
 
 **Specializes:** [[Motivational Design]]
 
-**Contrasts with:** [[Self-Determination Theory]] · [[Expectancy-Value Theory]]
+**Contrasts with:** [[self-determination-theory]] · [[expectancy-value-theory]]
 
-**Applies to:** [[Intrinsic Motivation]]
+**Applies to:** [[intrinsic-motivation]]
 
 **Source:** [[arcs-motivation-model-synthetic-seed-2026-04-26]]

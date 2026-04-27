@@ -31,7 +31,7 @@ depth-level: elaborated
 parent-concept: "Epistemology"
 
 related:
-  - "[[Foundationalism]]"
+  - "[[foundationalism]]"
   - "[[Holistic-Justification]]"
 prerequisites:
   - "[[]]"
@@ -44,7 +44,7 @@ see-also:
 contrasts-with:
   - "[[]]"
 contradicts:
-  - "[[Foundationalism]]"
+  - "[[foundationalism]]"
 applies-to:
   - "[[Holistic-Justification]]"
 formalizes:
@@ -70,7 +70,7 @@ provenance:
 # Coherentism
 
 > [!definition] **Coherentism**
-> Coherentism is a structural thesis in epistemology that holds a belief is justified by virtue of its membership in a coherent system of beliefs — where coherence involves positive mutual support and explanatory connections, rather than mere consistency — and it excludes the idea of basic or self-justifying beliefs. It falls under [[Epistemology]].
+> Coherentism is a structural thesis in epistemology that holds a belief is justified by virtue of its membership in a coherent system of beliefs — where coherence involves positive mutual support and explanatory connections, rather than mere consistency — and it excludes the idea of basic or self-justifying beliefs. It falls under [[epistemology]].
 
 > [!attention] **Boundary**
 > Coherentism excludes the idea of basic or self-justifying beliefs and focuses on the interconnectedness and relational structure within belief systems. It is distinct from foundationalism but related in that both address the problem of epistemic justification.
@@ -127,9 +127,9 @@ The concept's significance extends beyond epistemology into cognitive science an
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
-**Contradicts:** [[Foundationalism]]
+**Contradicts:** [[foundationalism]]
 
 **Applies to:** [[Holistic-Justification]]
 

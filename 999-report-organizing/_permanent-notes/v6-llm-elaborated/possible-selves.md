@@ -34,7 +34,7 @@ parent-concept: "Self-Regulated Learning"
 related:
   - "[[Identity-Based Motivation]]"
   - "[[Future-Self Continuity]]"
-  - "[[Goal-Setting Theory]]"
+  - "[[goal-setting-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,7 +49,7 @@ contradicts:
   - "[[]]"
 applies-to:
   - "[[Future-Self Continuity]]"
-  - "[[Goal-Setting Theory]]"
+  - "[[goal-setting-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Possible Selves
 
 > [!definition] **Possible Selves**
-> Possible Selves are the cognitive images of who one might become, who one would like to become, and who one fears becoming, which function as personalized motivational structures linking present self to specific future trajectories. They fall under [[Self-Regulated Learning]], emphasizing concrete strategies for reaching desired futures while avoiding feared outcomes; without such linkage, they can depress goal pursuit.
+> Possible Selves are the cognitive images of who one might become, who one would like to become, and who one fears becoming, which function as personalized motivational structures linking present self to specific future trajectories. They fall under [[self-regulated-learning]], emphasizing concrete strategies for reaching desired futures while avoiding feared outcomes; without such linkage, they can depress goal pursuit.
 
 > [!attention] **Boundary**
 > This concept excludes general aspirations or values that do not have vivid, self-relevant, and contextually situated representations. Possible Selves are distinct from abstract goals such as 'be successful'.
@@ -133,10 +133,10 @@ Possible Selves also intersect with other motivational constructs like identity-
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
 **Contrasts with:** [[Identity-Based Motivation]]
 
-**Applies to:** [[Future-Self Continuity]] · [[Goal-Setting Theory]]
+**Applies to:** [[Future-Self Continuity]] · [[goal-setting-theory]]
 
 **Source:** [[possible-selves-synthetic-seed-2026-04-25]]

@@ -34,7 +34,7 @@ depth-level: elaborated
 parent-concept: "Pragmatics"
 
 related:
-  - "[[Pragmatic Inference]]"
+  - "[[pragmatic-inference]]"
   - "[[Relevance Theory]]"
 prerequisites:
   - "[[]]"
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Pragmatic Inference]]"
+  - "[[pragmatic-inference]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Grice Maxims
 
 > [!definition] **Grice Maxims**
-> The Grice Maxims are four conversational sub-principles — Quantity, Quality, Relation, and Manner — that specify how rational interlocutors should contribute to a shared communicative exchange according to the Cooperative Principle. It falls under [[Pragmatics]], which is concerned with the relationship between linguistic expressions and their meanings in context.
+> The Grice Maxims are four conversational sub-principles — Quantity, Quality, Relation, and Manner — that specify how rational interlocutors should contribute to a shared communicative exchange according to the Cooperative Principle. It falls under [[pragmatics]], which is concerned with the relationship between linguistic expressions and their meanings in context.
 
 > [!attention] **Boundary**
 > This concept excludes specific cultural variations in cooperative communication and focuses on universal principles of conversation.
@@ -135,9 +135,9 @@ While the Grice Maxims offer valuable insights into conversational behavior, ong
 
 ## Connections & Context
 
-**Falls under:** [[Pragmatics]]
+**Falls under:** [[pragmatics]]
 
-**Contrasts with:** [[Pragmatic Inference]]
+**Contrasts with:** [[pragmatic-inference]]
 
 **Applies to:** [[Relevance Theory]]
 

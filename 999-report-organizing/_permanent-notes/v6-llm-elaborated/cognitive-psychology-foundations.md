@@ -33,7 +33,7 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[information-processing-theory]]"
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
   - "[[Connectionism]]"
   - "[[predictive-processing]]"
 prerequisites:
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -143,7 +143,7 @@ The significance of Cognitive Psychology Foundations extends beyond cognitive sc
 
 **Prerequisites:** [[information-processing-theory]]
 
-**Contrasts with:** [[Behaviorism]]
+**Contrasts with:** [[behaviorism]]
 
 **Refines:** [[Connectionism]] · [[predictive-processing]]
 

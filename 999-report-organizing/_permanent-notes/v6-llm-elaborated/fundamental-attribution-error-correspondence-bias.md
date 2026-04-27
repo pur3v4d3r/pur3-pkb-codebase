@@ -35,7 +35,7 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Self-Serving Bias]]"
+  - "[[self-serving-bias]]"
   - "[[Actor-Observed Asymmetry]]"
   - "[[attribution-retraining]]"
 prerequisites:
@@ -47,7 +47,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Serving Bias]]"
+  - "[[self-serving-bias]]"
   - "[[Actor-Observed Asymmetry]]"
 contradicts:
   - "[[]]"
@@ -140,7 +140,7 @@ This concept matters because it challenges our assumptions about human behavior 
 
 **Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Self-Serving Bias]] · [[Actor-Observed Asymmetry]]
+**Contrasts with:** [[self-serving-bias]] · [[Actor-Observed Asymmetry]]
 
 **Applies to:** [[attribution-retraining]]
 

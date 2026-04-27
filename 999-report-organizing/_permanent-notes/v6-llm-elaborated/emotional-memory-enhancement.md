@@ -33,25 +33,25 @@ depth-level: elaborated
 parent-concept: "Memory Science"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Memory Consolidation]]"
-  - "[[Mood-Congruent Memory]]"
-  - "[[Flashbulb Memory]]"
+  - "[[working-memory]]"
+  - "[[memory-consolidation]]"
+  - "[[mood-congruent-memory]]"
+  - "[[flashbulb-memory]]"
 prerequisites:
-  - "[[Working Memory]]"
-  - "[[Memory Consolidation]]"
+  - "[[working-memory]]"
+  - "[[memory-consolidation]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Mood-Congruent Memory]]"
+  - "[[mood-congruent-memory]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Flashbulb Memory]]"
+  - "[[flashbulb-memory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -136,10 +136,10 @@ Emotional Memory Enhancement intersects with other concepts such as mood-congrue
 
 **Falls under:** [[Memory Science]]
 
-**Prerequisites:** [[Working Memory]] · [[Memory Consolidation]]
+**Prerequisites:** [[working-memory]] · [[memory-consolidation]]
 
-**Sibling concepts:** [[Mood-Congruent Memory]]
+**Sibling concepts:** [[mood-congruent-memory]]
 
-**Applies to:** [[Flashbulb Memory]]
+**Applies to:** [[flashbulb-memory]]
 
 **Source:** [[emotional-memory-enhancement-synthetic-seed-2026-04-26]]

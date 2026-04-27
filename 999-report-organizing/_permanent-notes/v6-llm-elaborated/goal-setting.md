@@ -34,7 +34,7 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[working-memory]]"
-  - "[[Self-Control]]"
+  - "[[self-control]]"
   - "[[worked-examples]]"
 prerequisites:
   - "[[working-memory]]"
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Control]]"
+  - "[[self-control]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -138,7 +138,7 @@ Moreover, Goal Setting intersects with other motivational concepts such as worki
 
 **Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Self-Control]]
+**Sibling concepts:** [[self-control]]
 
 **Applies to:** [[worked-examples]]
 

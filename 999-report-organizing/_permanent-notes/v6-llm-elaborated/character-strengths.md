@@ -35,7 +35,7 @@ parent-concept: "Positive Psychology"
 related:
   - "[[Signature Strengths]]"
   - "[[Virtues]]"
-  - "[[Psychological Flourishing]]"
+  - "[[psychological-flourishing]]"
   - "[[Positive Interventions]]"
 prerequisites:
   - "[[]]"
@@ -50,7 +50,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Psychological Flourishing]]"
+  - "[[psychological-flourishing]]"
   - "[[Positive Interventions]]"
 formalizes:
   - "[[]]"
@@ -148,6 +148,6 @@ Empirical support for the effectiveness of identifying and deploying character s
 
 **Sibling concepts:** [[Virtues]]
 
-**Applies to:** [[Psychological Flourishing]] · [[Positive Interventions]]
+**Applies to:** [[psychological-flourishing]] · [[Positive Interventions]]
 
 **Source:** [[character-strengths-synthetic-seed-2026-04-25]]

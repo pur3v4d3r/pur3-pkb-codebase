@@ -2,6 +2,7 @@
 title: "Cornell Note Taking"
 aliases:
   - "Cornell Note Taking"
+  - "Cornell Note-Taking"
   - "Cornell method"
   - "Cornell notes"
 type: permanent-note
@@ -33,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +73,7 @@ provenance:
 # Cornell Note Taking
 
 > [!definition] **Cornell Note Taking**
-> Cornell Note Taking is a structured format for taking notes that divides each page into a wide notes column, a narrow cue column on the left, and a summary band at the bottom, requiring learners to extract cue questions and write summaries. It falls under [[Self-Regulated Learning]], leveraging principles of working memory to enhance learning through active recall and elaboration.
+> Cornell Note Taking is a structured format for taking notes that divides each page into a wide notes column, a narrow cue column on the left, and a summary band at the bottom, requiring learners to extract cue questions and write summaries. It falls under [[self-regulated-learning]], leveraging principles of working memory to enhance learning through active recall and elaboration.
 
 > [!attention] **Boundary**
 > This concept excludes unstructured note-taking methods and focuses specifically on the structured format and its associated review process.
@@ -135,10 +136,10 @@ Empirical evidence supports the effectiveness of Cornell Note Taking over unstru
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[cornell-note-taking-synthetic-seed-2026-04-26]]

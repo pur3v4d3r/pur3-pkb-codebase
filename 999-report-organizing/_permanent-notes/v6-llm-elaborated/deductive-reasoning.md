@@ -73,7 +73,7 @@ provenance:
 # Deductive Reasoning
 
 > [!definition] **Deductive Reasoning**
-> Deductive Reasoning involves drawing specific conclusions from general principles or premises and falls under [[Logical Reasoning]]. It offers certainty conditional on the truth of its premises but obtains nothing that is not already implicitly contained within them, as exemplified by mathematical proof. If the premises are true and the inferential structure is valid, the conclusion cannot be false.
+> Deductive Reasoning involves drawing specific conclusions from general principles or premises and falls under [[logical-reasoning]]. It offers certainty conditional on the truth of its premises but obtains nothing that is not already implicitly contained within them, as exemplified by mathematical proof. If the premises are true and the inferential structure is valid, the conclusion cannot be false.
 
 > [!attention] **Boundary**
 > This concept excludes inductive reasoning, which draws broader generalizations from specific observations, and abductive reasoning, which infers the most likely explanation for an observed phenomenon.
@@ -135,7 +135,7 @@ Understanding deductive reasoning connects to broader concepts like inductive an
 
 ## Connections & Context
 
-**Falls under:** [[Logical Reasoning]]
+**Falls under:** [[logical-reasoning]]
 
 **Prerequisites:** [[Validity]]
 

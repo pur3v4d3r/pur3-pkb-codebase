@@ -32,13 +32,13 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Guided-Discovery]]"
+  - "[[guided-discovery]]"
   - "[[problem-based-learning]]"
   - "[[project-based-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Guided-Discovery]]"
+  - "[[guided-discovery]]"
 broader:
   - "[[]]"
 see-also:
@@ -138,7 +138,7 @@ Empirical evidence supports the effectiveness of structured and guided inquiry w
 
 **Falls under:** [[self-regulated-learning]]
 
-**Specializes:** [[Guided-Discovery]]
+**Specializes:** [[guided-discovery]]
 
 **Contrasts with:** [[problem-based-learning]] · [[project-based-learning]]
 

@@ -2,6 +2,7 @@
 title: "Hippocampal Neocortical Transfer"
 aliases:
   - "Hippocampal Neocortical Transfer"
+  - "Hippocampal-Neocortical Transfer"
   - "systems consolidation"
   - "complementary learning systems"
 type: permanent-note
@@ -33,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Memory Consolidation"
 
 related:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
   - "[[Synaptic Plasticity]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -72,7 +73,7 @@ provenance:
 # Hippocampal Neocortical Transfer
 
 > [!definition] **Hippocampal Neocortical Transfer**
-> Hippocampal Neocortical Transfer is the process by which episodic memories are gradually integrated into distributed neocortical networks, becoming less dependent on the hippocampus over time. It falls under [[Memory Consolidation]], explaining why retrograde amnesia following hippocampal damage typically follows a temporal gradient — recent memories are lost while remote memories are spared.
+> Hippocampal Neocortical Transfer is the process by which episodic memories are gradually integrated into distributed neocortical networks, becoming less dependent on the hippocampus over time. It falls under [[memory-consolidation]], explaining why retrograde amnesia following hippocampal damage typically follows a temporal gradient — recent memories are lost while remote memories are spared.
 
 > [!attention] **Boundary**
 > This concept excludes short-term memory and immediate recall processes that do not involve consolidation. It also does not encompass all forms of memory transfer but focuses specifically on long-term memory consolidation in episodic memory.
@@ -128,9 +129,9 @@ The concept of Hippocampal Neocortical Transfer bridges working memory and synap
 
 ## Connections & Context
 
-**Falls under:** [[Memory Consolidation]]
+**Falls under:** [[memory-consolidation]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
 **Contrasts with:** [[Synaptic Plasticity]]
 

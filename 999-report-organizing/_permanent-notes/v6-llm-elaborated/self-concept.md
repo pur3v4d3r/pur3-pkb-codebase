@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Self-Esteem]]"
-  - "[[Possible Selves]]"
+  - "[[self-esteem]]"
+  - "[[possible-selves]]"
   - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
@@ -45,8 +45,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Esteem]]"
-  - "[[Possible Selves]]"
+  - "[[self-esteem]]"
+  - "[[possible-selves]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -135,7 +135,7 @@ The concept of Self-Concept also intersects with other constructs such as Possib
 
 **Falls under:** [[cognitive-architecture]]
 
-**Contrasts with:** [[Self-Esteem]] · [[Possible Selves]]
+**Contrasts with:** [[self-esteem]] · [[possible-selves]]
 
 **Applies to:** [[self-determination-theory]]
 

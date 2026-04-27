@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Group Dynamics"
 
 related:
-  - "[[Diffusion of Responsibility]]"
-  - "[[Social Facilitation]]"
+  - "[[diffusion-of-responsibility]]"
+  - "[[social-facilitation]]"
   - "[[Accountability]]"
 prerequisites:
   - "[[]]"
@@ -45,8 +45,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Diffusion of Responsibility]]"
-  - "[[Social Facilitation]]"
+  - "[[diffusion-of-responsibility]]"
+  - "[[social-facilitation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -135,7 +135,7 @@ Social Loafing intersects with broader concepts like accountability and group sy
 
 **Falls under:** [[Group Dynamics]]
 
-**Contrasts with:** [[Diffusion of Responsibility]] · [[Social Facilitation]]
+**Contrasts with:** [[diffusion-of-responsibility]] · [[social-facilitation]]
 
 **Applies to:** [[Accountability]]
 

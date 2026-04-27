@@ -35,7 +35,7 @@ parent-concept: "Systems Analysis"
 related:
   - "[[second-order-thinking]]"
   - "[[Mental Models]]"
-  - "[[Feedback Loops]]"
+  - "[[feedback-loops]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -54,7 +54,7 @@ applies-to:
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Feedback Loops]]"
+  - "[[feedback-loops]]"
 supports:
   - "[[]]"
 refines:
@@ -137,6 +137,6 @@ Moreover, Systems Thinking aligns with other related concepts such as second-ord
 
 **Contrasts with:** [[second-order-thinking]] · [[Mental Models]]
 
-**Instance of:** [[Feedback Loops]]
+**Instance of:** [[feedback-loops]]
 
 **Source:** [[systems-thinking-synthetic-seed-2026-04-25]]

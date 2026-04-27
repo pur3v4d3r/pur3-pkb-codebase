@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Memory Science"
 
 related:
-  - "[[False Memory]]"
+  - "[[false-memory]]"
   - "[[Misinformation Effect]]"
   - "[[Cryptomnesia]]"
 prerequisites:
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[False Memory]]"
+  - "[[false-memory]]"
 contrasts-with:
   - "[[Misinformation Effect]]"
   - "[[Cryptomnesia]]"
@@ -135,7 +135,7 @@ Understanding Imagination Inflation is crucial for grasping the complex nature o
 
 **Falls under:** [[Memory Science]]
 
-**Sibling concepts:** [[False Memory]]
+**Sibling concepts:** [[false-memory]]
 
 **Contrasts with:** [[Misinformation Effect]] · [[Cryptomnesia]]
 

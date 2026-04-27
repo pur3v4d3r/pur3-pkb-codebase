@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Cyclical Model of Self-Regulated Learning]]"
-  - "[[Self-Determination Theory]]"
+  - "[[cyclical-model-of-self-regulated-learning]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cyclical Model of Self-Regulated Learning]]"
+  - "[[cyclical-model-of-self-regulated-learning]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Pintrich's 4x4 Matrix
 
 > [!definition] **Pintrich's 4x4 Matrix**
-> Pintrich's 4x4 Matrix is a model organizing the four temporal phases of forethought, monitoring, control, and reaction with four areas of regulation: cognition, motivation/affect, behavior, and context. It falls under [[Self-Regulated Learning]], advancing earlier models by treating motivation, behavior, and context as first-class targets of self-regulation alongside cognition.
+> Pintrich's 4x4 Matrix is a model organizing the four temporal phases of forethought, monitoring, control, and reaction with four areas of regulation: cognition, motivation/affect, behavior, and context. It falls under [[self-regulated-learning]], advancing earlier models by treating motivation, behavior, and context as first-class targets of self-regulation alongside cognition.
 
 > [!attention] **Boundary**
 > It stops at providing a classification of self-regulatory activities without specifying causal relationships between them.
@@ -131,10 +131,10 @@ The matrix also complements other models like the Cyclical Model of Self-Regulat
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Cyclical Model of Self-Regulated Learning]]
+**Contrasts with:** [[cyclical-model-of-self-regulated-learning]]
 
-**Applies to:** [[Self-Determination Theory]]
+**Applies to:** [[self-determination-theory]]
 
 **Source:** [[pintrichs-4x4-matrix-synthetic-seed-2026-04-25]]

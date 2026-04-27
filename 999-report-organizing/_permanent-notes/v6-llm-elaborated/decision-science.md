@@ -33,21 +33,21 @@ depth-level: elaborated
 parent-concept: "Cognitive Science"
 
 related:
-  - "[[Prospect Theory]]"
-  - "[[Behavioral Economics]]"
-  - "[[Expected Utility Theory]]"
+  - "[[prospect-theory]]"
+  - "[[behavioral-economics]]"
+  - "[[expected-utility-theory]]"
   - "[[Cognitive Biases]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Prospect Theory]]"
+  - "[[prospect-theory]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Behavioral Economics]]"
-  - "[[Expected Utility Theory]]"
+  - "[[behavioral-economics]]"
+  - "[[expected-utility-theory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -75,7 +75,7 @@ provenance:
 # Decision Science
 
 > [!definition] **Decision Science**
-> Decision Science is the interdisciplinary study of how individuals and groups choose between alternatives under conditions of uncertainty, risk, and limited cognitive resources, integrating models from psychology, economics, statistics, and neuroscience to describe both how decisions are actually made and how they could be made more rationally. It falls under [[Cognitive Science]], treating human choice as a dual-natured phenomenon — simultaneously a normative problem (what *ought* one choose given preferences and beliefs) and a descriptive problem (what do people *actually* choose given cognitive constraints).
+> Decision Science is the interdisciplinary study of how individuals and groups choose between alternatives under conditions of uncertainty, risk, and limited cognitive resources, integrating models from psychology, economics, statistics, and neuroscience to describe both how decisions are actually made and how they could be made more rationally. It falls under [[cognitive-science]], treating human choice as a dual-natured phenomenon — simultaneously a normative problem (what *ought* one choose given preferences and beliefs) and a descriptive problem (what do people *actually* choose given cognitive constraints).
 
 > [!attention] **Boundary**
 > It stops at the integration of models from psychology, economics, statistics, and neuroscience to describe both descriptive and normative aspects of decision-making. It does not include specific heuristics or biases alone but rather their application within a broader framework.
@@ -135,11 +135,11 @@ The interdisciplinary nature of Decision Science also makes it relevant to relat
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Science]]
+**Falls under:** [[cognitive-science]]
 
-**Specializes:** [[Prospect Theory]]
+**Specializes:** [[prospect-theory]]
 
-**Contrasts with:** [[Behavioral Economics]] · [[Expected Utility Theory]]
+**Contrasts with:** [[behavioral-economics]] · [[expected-utility-theory]]
 
 **Applies to:** [[Cognitive Biases]]
 

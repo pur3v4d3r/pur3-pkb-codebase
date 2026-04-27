@@ -33,18 +33,18 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Bayesian Reasoning]]"
-  - "[[Predictive Coding]]"
-  - "[[Free-Energy Principle]]"
+  - "[[bayesian-reasoning]]"
+  - "[[predictive-coding]]"
+  - "[[free-energy-principle]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Bayesian Reasoning]]"
+  - "[[bayesian-reasoning]]"
 see-also:
-  - "[[Predictive Coding]]"
-  - "[[Free-Energy Principle]]"
+  - "[[predictive-coding]]"
+  - "[[free-energy-principle]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -74,7 +74,7 @@ provenance:
 # Bayesian Brain Hypothesis
 
 > [!definition] **Bayesian Brain Hypothesis**
-> The Bayesian Brain hypothesis posits that the nervous system represents environmental causes probabilistically and updates these representations in approximate accordance with Bayes' rule to perform optimal inference over generative models of the world, falling under [[Cognitive Architecture]]. This framework unifies disparate phenomena such as multisensory integration weighted by reliability, cue combination in depth perception, sensorimotor adaptation, and even certain delusional symptoms — all under a single computational principle: optimal combination of prior beliefs with likelihoods derived from sensory evidence.
+> The Bayesian Brain hypothesis posits that the nervous system represents environmental causes probabilistically and updates these representations in approximate accordance with Bayes' rule to perform optimal inference over generative models of the world, falling under [[cognitive-architecture]]. This framework unifies disparate phenomena such as multisensory integration weighted by reliability, cue combination in depth perception, sensorimotor adaptation, and even certain delusional symptoms — all under a single computational principle: optimal combination of prior beliefs with likelihoods derived from sensory evidence.
 
 > [!attention] **Boundary**
 > This concept excludes literal computation of posterior distributions and focuses on approximate Bayesian inference under energetic and architectural constraints. It does not encompass all forms of probabilistic reasoning or inference but specifically applies to neural dynamics approximating Bayesian principles in perception, motor control, and cognition.
@@ -137,10 +137,10 @@ This concept matters because it bridges theoretical principles from statistics a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Generalizes to:** [[Bayesian Reasoning]]
+**Generalizes to:** [[bayesian-reasoning]]
 
-**Sibling concepts:** [[Predictive Coding]] · [[Free-Energy Principle]]
+**Sibling concepts:** [[predictive-coding]] · [[free-energy-principle]]
 
 **Source:** [[bayesian-brain-synthetic-seed-2026-04-27]]

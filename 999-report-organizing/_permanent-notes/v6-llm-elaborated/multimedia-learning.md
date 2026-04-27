@@ -32,15 +32,15 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[cognitive-load-theory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Multimedia Learning
 
 > [!definition] **Multimedia Learning**
-> Multimedia Learning is the study of how combining text with images or narration enhances learning, based on Richard Mayer's research into cognitive load theory and dual-channel processing. It falls under [[Cognitive Architecture]], focusing on principles such as modality, redundancy, and signaling that align presentations with the limited-capacity constraints of human cognition.
+> Multimedia Learning is the study of how combining text with images or narration enhances learning, based on Richard Mayer's research into cognitive load theory and dual-channel processing. It falls under [[cognitive-architecture]], focusing on principles such as modality, redundancy, and signaling that align presentations with the limited-capacity constraints of human cognition.
 
 > [!attention] **Boundary**
 > This concept excludes individual theories like working memory but includes principles such as modality, redundancy, and signaling that are specific to multimedia presentations.
@@ -135,12 +135,12 @@ Research has consistently shown that multimedia presentations optimized for cogn
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Generalizes to:** [[Cognitive Load Theory]]
+**Generalizes to:** [[cognitive-load-theory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[multimedia-learning-synthetic-seed-2026-04-25]]

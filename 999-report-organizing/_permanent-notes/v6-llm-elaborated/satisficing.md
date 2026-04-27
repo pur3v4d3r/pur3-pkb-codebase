@@ -31,10 +31,10 @@ depth-level: elaborated
 parent-concept: "Decision Science"
 
 related:
-  - "[[Bounded Rationality]]"
-  - "[[Heuristics and Biases]]"
+  - "[[bounded-rationality]]"
+  - "[[heuristics-and-biases]]"
 prerequisites:
-  - "[[Bounded Rationality]]"
+  - "[[bounded-rationality]]"
 specializes:
   - "[[]]"
 broader:
@@ -42,7 +42,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Heuristics and Biases]]"
+  - "[[heuristics-and-biases]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -70,7 +70,7 @@ provenance:
 # Satisficing
 
 > [!definition] **Satisficing**
-> Satisficing is a decision strategy coined by Herbert Simon, where one searches alternatives sequentially until an option meets a pre-specified aspiration level — 'good enough' — rather than exhaustively searching for the global maximum. It falls under [[Bounded Rationality]], as it operates within the framework of limited information and cognitive resources. It falls under [[Decision Science]].
+> Satisficing is a decision strategy coined by Herbert Simon, where one searches alternatives sequentially until an option meets a pre-specified aspiration level — 'good enough' — rather than exhaustively searching for the global maximum. It falls under [[bounded-rationality]], as it operates within the framework of limited information and cognitive resources. It falls under [[decision-science]].
 
 > [!attention] **Boundary**
 > This concept excludes exhaustive search and optimization strategies that aim to find the absolute best solution. Satisficing is distinct from settling or laziness, as it involves deliberate trade-offs based on cost-benefit analysis.
@@ -127,10 +127,10 @@ Satisficing is a crucial concept in decision science because it provides a pract
 
 ## Connections & Context
 
-**Falls under:** [[Decision Science]]
+**Falls under:** [[decision-science]]
 
-**Prerequisites:** [[Bounded Rationality]]
+**Prerequisites:** [[bounded-rationality]]
 
-**Contrasts with:** [[Heuristics and Biases]]
+**Contrasts with:** [[heuristics-and-biases]]
 
 **Source:** [[satisficing-synthetic-seed-2026-04-25]]

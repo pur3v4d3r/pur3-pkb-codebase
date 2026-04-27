@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Behavior-Change Models"
 
 related:
-  - "[[Motivational Interviewing]]"
-  - "[[Behavior-Change Techniques]]"
+  - "[[motivational-interviewing]]"
+  - "[[behavior-change-techniques]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Motivational Interviewing]]"
+  - "[[motivational-interviewing]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Behavior-Change Techniques]]"
+  - "[[behavior-change-techniques]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -134,8 +134,8 @@ The model's emphasis on stage-matched interventions aligns with other behavior-c
 
 **Falls under:** [[Behavior-Change Models]]
 
-**Contrasts with:** [[Motivational Interviewing]]
+**Contrasts with:** [[motivational-interviewing]]
 
-**Applies to:** [[Behavior-Change Techniques]]
+**Applies to:** [[behavior-change-techniques]]
 
 **Source:** [[transtheoretical-model-synthetic-seed-2026-04-25]]

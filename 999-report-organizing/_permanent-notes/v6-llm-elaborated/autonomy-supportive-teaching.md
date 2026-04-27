@@ -2,6 +2,7 @@
 title: Autonomy Supportive Teaching
 aliases:
   - Autonomy Supportive Teaching
+  - "Autonomy-Supportive Teaching"
   - autonomy-supportive instruction
   - ASI
 type: permanent-note
@@ -28,8 +29,8 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Self-Regulated Learning
 related:
-  - '[[Controlling Teaching Styles]]'
-  - '[[Intrinsic Motivation]]'
+  - '[[controlling-teaching-styles]]'
+  - '[[intrinsic-motivation]]'
   - '[[Self-Determination Theory (SDT)]]'
 prerequisites:
   - '[[]]'
@@ -40,11 +41,11 @@ broader:
 see-also:
   - '[[]]'
 contrasts-with:
-  - '[[Controlling Teaching Styles]]'
+  - '[[controlling-teaching-styles]]'
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Intrinsic Motivation]]'
+  - '[[intrinsic-motivation]]'
 formalizes:
   - '[[]]'
 instance-of:
@@ -72,7 +73,7 @@ provenance:
 # Autonomy Supportive Teaching
 
 > [!definition] **Autonomy Supportive Teaching**
-> Autonomy Supportive Teaching is an instructional style where teachers foster students' inner motivational resources by acknowledging their perspectives, providing meaningful rationales, offering choices within structure, and minimizing controlling language and contingent rewards. It falls under [[Self-Regulated Learning]], emphasizing the importance of autonomy, competence, and relatedness as fundamental psychological needs.
+> Autonomy Supportive Teaching is an instructional style where teachers foster students' inner motivational resources by acknowledging their perspectives, providing meaningful rationales, offering choices within structure, and minimizing controlling language and contingent rewards. It falls under [[self-regulated-learning]], emphasizing the importance of autonomy, competence, and relatedness as fundamental psychological needs.
 
 > [!attention] **Boundary**
 > This concept excludes permissive or unstructured teaching styles that do not provide sufficient structure while aiming to support autonomy. It also does not include controlling teaching styles which are characterized by high control and low responsiveness.
@@ -154,11 +155,11 @@ A 2019 meta-analysis of 127 studies (Vansteenkiste et al.) confirmed that autono
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Controlling Teaching Styles]]
+**Contrasts with:** [[controlling-teaching-styles]]
 
-**Applies to:** [[Intrinsic Motivation]]
+**Applies to:** [[intrinsic-motivation]]
 
 **Supports:** [[Self-Determination Theory (SDT)]]
 

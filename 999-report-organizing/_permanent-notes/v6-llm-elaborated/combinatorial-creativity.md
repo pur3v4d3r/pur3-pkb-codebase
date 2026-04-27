@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Creativity"
 
 related:
-  - "[[Conceptual Blending]]"
+  - "[[conceptual-blending]]"
   - "[[Exploratory Creativity]]"
   - "[[Transformational Creativity]]"
-  - "[[Analogical Mapping]]"
+  - "[[analogical-mapping]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,14 +44,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Conceptual Blending]]"
+  - "[[conceptual-blending]]"
 contrasts-with:
   - "[[Exploratory Creativity]]"
   - "[[Transformational Creativity]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Analogical Mapping]]"
+  - "[[analogical-mapping]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -136,10 +136,10 @@ Combinatorial creativity is part of a broader spectrum of creative processes tha
 
 **Falls under:** [[Creativity]]
 
-**Sibling concepts:** [[Conceptual Blending]]
+**Sibling concepts:** [[conceptual-blending]]
 
 **Contrasts with:** [[Exploratory Creativity]] · [[Transformational Creativity]]
 
-**Applies to:** [[Analogical Mapping]]
+**Applies to:** [[analogical-mapping]]
 
 **Source:** [[combinatorial-creativity-synthetic-seed-2026-04-25]]

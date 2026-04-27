@@ -28,12 +28,12 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Neurotransmission
 related:
-  - '[[Working Memory]]'
+  - '[[working-memory]]'
   - '[[Neuromodulation]]'
-  - '[[Hippocampal-Neocortical Transfer]]'
+  - '[[hippocampal-neocortical-transfer]]'
   - '[[Attention]]'
 prerequisites:
-  - '[[Working Memory]]'
+  - '[[working-memory]]'
 specializes:
   - '[[]]'
 broader:
@@ -46,7 +46,7 @@ contradicts:
   - '[[]]'
 applies-to:
   - '[[Neuromodulation]]'
-  - '[[Hippocampal-Neocortical Transfer]]'
+  - '[[hippocampal-neocortical-transfer]]'
   - '[[Attention]]'
 formalizes:
   - '[[]]'
@@ -150,8 +150,8 @@ Empirical evidence supports the claim that pharmacological blockade of muscarini
 
 **Falls under:** [[Neurotransmission]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Neuromodulation]] · [[Hippocampal-Neocortical Transfer]] · [[Attention]]
+**Applies to:** [[Neuromodulation]] · [[hippocampal-neocortical-transfer]] · [[Attention]]
 
 **Source:** [[acetylcholine-and-memory-synthetic-seed-2026-04-26]]

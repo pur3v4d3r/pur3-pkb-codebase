@@ -32,7 +32,7 @@ depth-level: elaborated
 parent-concept: "Epistemology"
 
 related:
-  - "[[Reliabilism]]"
+  - "[[reliabilism]]"
   - "[[intellectual-humility]]"
 prerequisites:
   - "[[]]"
@@ -43,7 +43,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Reliabilism]]"
+  - "[[reliabilism]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -71,7 +71,7 @@ provenance:
 # Virtue Epistemology
 
 > [!definition] **Virtue Epistemology**
-> Virtue Epistemology is an epistemological theory that analyzes knowledge and rational belief in terms of the intellectual virtues exercised by the believer, such as open-mindedness and fairness, rather than purely in terms of belief-evidence relations or external reliability. It falls under [[Epistemology]], focusing on the role of intellectual virtues in forming true beliefs but not addressing theories that focus solely on evidence or reliability.
+> Virtue Epistemology is an epistemological theory that analyzes knowledge and rational belief in terms of the intellectual virtues exercised by the believer, such as open-mindedness and fairness, rather than purely in terms of belief-evidence relations or external reliability. It falls under [[epistemology]], focusing on the role of intellectual virtues in forming true beliefs but not addressing theories that focus solely on evidence or reliability.
 
 > [!attention] **Boundary**
 > This concept focuses on the role of intellectual virtues in forming true beliefs but does not address other epistemological theories that focus solely on evidence or reliability.
@@ -131,9 +131,9 @@ Moreover, Virtue Epistemology complements other epistemological theories by offe
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
-**Contrasts with:** [[Reliabilism]]
+**Contrasts with:** [[reliabilism]]
 
 **Instance of:** [[intellectual-humility]]
 

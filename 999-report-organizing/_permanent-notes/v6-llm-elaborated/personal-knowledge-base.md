@@ -33,14 +33,14 @@ depth-level: elaborated
 parent-concept: "Knowledge Management"
 
 related:
-  - "[[Knowledge Management]]"
+  - "[[knowledge-management]]"
   - "[[Note-Taking Systems]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Knowledge Management]]"
+  - "[[knowledge-management]]"
 see-also:
   - "[[Note-Taking Systems]]"
 contrasts-with:
@@ -72,7 +72,7 @@ provenance:
 # Personal Knowledge Base
 
 > [!definition] **Personal Knowledge Base**
-> A Personal Knowledge Base is an individually-owned repository of one's working knowledge, capturing ideas, source material, syntheses, and project-specific notes in an interlinked structure. It falls under [[Knowledge Management]], where it serves as a long-horizon tool for organizing and leveraging information across various projects and contexts.
+> A Personal Knowledge Base is an individually-owned repository of one's working knowledge, capturing ideas, source material, syntheses, and project-specific notes in an interlinked structure. It falls under [[knowledge-management]], where it serves as a long-horizon tool for organizing and leveraging information across various projects and contexts.
 
 > [!attention] **Boundary**
 > It stops at the individual level; adjacent but excluded are organizational or shared knowledge bases. It should not be confused with a simple notebook or document folder.
@@ -137,9 +137,9 @@ Moreover, PKBs align with the principles of lifelong learning and continuous imp
 
 ## Connections & Context
 
-**Falls under:** [[Knowledge Management]]
+**Falls under:** [[knowledge-management]]
 
-**Generalizes to:** [[Knowledge Management]]
+**Generalizes to:** [[knowledge-management]]
 
 **Sibling concepts:** [[Note-Taking Systems]]
 

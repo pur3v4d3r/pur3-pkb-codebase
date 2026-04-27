@@ -34,9 +34,9 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Situation Models]]"
-  - "[[Mental Simulation]]"
-  - "[[Theory of Mind]]"
-  - "[[Episodic Memory]]"
+  - "[[mental-simulation]]"
+  - "[[theory-of-mind]]"
+  - "[[episodic-memory]]"
   - "[[Discourse Comprehension]]"
 prerequisites:
   - "[[Situation Models]]"
@@ -45,14 +45,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Mental Simulation]]"
-  - "[[Theory of Mind]]"
+  - "[[mental-simulation]]"
+  - "[[theory-of-mind]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Episodic Memory]]"
+  - "[[episodic-memory]]"
   - "[[Discourse Comprehension]]"
 formalizes:
   - "[[]]"
@@ -77,7 +77,7 @@ provenance:
 # Narrative Cognition
 
 > [!definition] **Narrative Cognition**
-> Narrative Cognition refers to the cognitive processes by which humans comprehend, remember, generate, and reason about temporally-organized causal sequences involving agents and goals — including construction of situation models that integrate spatial, temporal, causal, intentional, and protagonist dimensions. It falls under [[Cognitive Architecture]], as it involves the integration of various mental representations into a unified framework.
+> Narrative Cognition refers to the cognitive processes by which humans comprehend, remember, generate, and reason about temporally-organized causal sequences involving agents and goals — including construction of situation models that integrate spatial, temporal, causal, intentional, and protagonist dimensions. It falls under [[cognitive-architecture]], as it involves the integration of various mental representations into a unified framework.
 
 > [!attention] **Boundary**
 > It includes construction of situation models that integrate spatial, temporal, causal, intentional, and protagonist dimensions but excludes other forms of information processing not involving narrative structures.
@@ -140,12 +140,12 @@ Empirical evidence supports the unique advantages of Narrative Cognition. For ex
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Prerequisites:** [[Situation Models]]
 
-**Sibling concepts:** [[Mental Simulation]] · [[Theory of Mind]]
+**Sibling concepts:** [[mental-simulation]] · [[theory-of-mind]]
 
-**Applies to:** [[Episodic Memory]] · [[Discourse Comprehension]]
+**Applies to:** [[episodic-memory]] · [[Discourse Comprehension]]
 
 **Source:** [[narrative-cognition-synthetic-seed-2026-04-25]]

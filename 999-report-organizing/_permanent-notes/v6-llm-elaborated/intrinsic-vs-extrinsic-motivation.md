@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Motivation Theory"
 
 related:
-  - "[[Autonomous Motivation]]"
-  - "[[Controlled Motivation]]"
+  - "[[autonomous-motivation]]"
+  - "[[controlled-motivation]]"
   - "[[Self-Determination Theory (SDT)]]"
 prerequisites:
   - "[[]]"
@@ -43,8 +43,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Autonomous Motivation]]"
-  - "[[Controlled Motivation]]"
+  - "[[autonomous-motivation]]"
+  - "[[controlled-motivation]]"
   - "[[Self-Determination Theory (SDT)]]"
 contrasts-with:
   - "[[]]"
@@ -140,6 +140,6 @@ The concept of intrinsic vs. extrinsic motivation intersects with other motivati
 
 **Falls under:** [[Motivation Theory]]
 
-**Sibling concepts:** [[Autonomous Motivation]] · [[Controlled Motivation]] · [[Self-Determination Theory (SDT)]]
+**Sibling concepts:** [[autonomous-motivation]] · [[controlled-motivation]] · [[Self-Determination Theory (SDT)]]
 
 **Source:** [[intrinsic-vs-extrinsic-motivation-synthetic-seed-2026-04-25]]

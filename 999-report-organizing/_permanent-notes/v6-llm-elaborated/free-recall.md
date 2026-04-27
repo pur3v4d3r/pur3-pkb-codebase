@@ -31,8 +31,8 @@ depth-level: elaborated
 parent-concept: "Learning Science"
 
 related:
-  - "[[Cued-Recall]]"
-  - "[[Recognition-Memory]]"
+  - "[[cued-recall]]"
+  - "[[recognition-memory]]"
   - "[[Re-Reading]]"
 prerequisites:
   - "[[]]"
@@ -43,8 +43,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Cued-Recall]]"
-  - "[[Recognition-Memory]]"
+  - "[[cued-recall]]"
+  - "[[recognition-memory]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Free Recall
 
 > [!definition] **Free Recall**
-> Free Recall is a memory test where learners produce studied material in any order without external cues, making it the most stringent measure of durable knowledge. It falls under [[Learning Science]], as it provides insights into how well information has been encoded and retained internally.
+> Free Recall is a memory test where learners produce studied material in any order without external cues, making it the most stringent measure of durable knowledge. It falls under [[learning-science]], as it provides insights into how well information has been encoded and retained internally.
 
 > [!attention] **Boundary**
 > This definition excludes other forms of recall like cued-recall and recognition-memory, focusing on the absence of external prompts.
@@ -135,9 +135,9 @@ Empirical evidence supports the effectiveness of Free Recall in producing strong
 
 ## Connections & Context
 
-**Falls under:** [[Learning Science]]
+**Falls under:** [[learning-science]]
 
-**Contrasts with:** [[Cued-Recall]] · [[Recognition-Memory]]
+**Contrasts with:** [[cued-recall]] · [[recognition-memory]]
 
 **Applies to:** [[Re-Reading]]
 

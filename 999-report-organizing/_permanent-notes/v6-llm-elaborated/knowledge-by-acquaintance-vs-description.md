@@ -71,7 +71,7 @@ provenance:
 # Knowledge By Acquaintance Vs Description
 
 > [!definition] **Knowledge By Acquaintance Vs Description**
-> Knowledge By Acquaintance Vs Description is Bertrand Russell's distinction between two ways of knowing an object: direct cognitive contact (acquaintance) with sense-data, universals, or oneself, unmediated by descriptive content, and knowledge of an object as the unique satisfier of some descriptive condition ('the F'). It falls under [[Epistemology]].
+> Knowledge By Acquaintance Vs Description is Bertrand Russell's distinction between two ways of knowing an object: direct cognitive contact (acquaintance) with sense-data, universals, or oneself, unmediated by descriptive content, and knowledge of an object as the unique satisfier of some descriptive condition ('the F'). It falls under [[epistemology]].
 
 > [!attention] **Boundary**
 > This concept excludes other forms of knowledge such as inferential or testimonial knowledge, focusing solely on acquaintance and description.
@@ -125,7 +125,7 @@ The distinction between Knowledge By Acquaintance and Description is crucial for
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Contrasts with:** [[Propositional Knowledge]]
 

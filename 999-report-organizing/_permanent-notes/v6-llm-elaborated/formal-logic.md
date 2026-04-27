@@ -33,16 +33,16 @@ depth-level: elaborated
 parent-concept: "Critical Thinking"
 
 related:
-  - "[[Deductive Reasoning]]"
-  - "[[Non-Classical Logic]]"
-  - "[[Propositional Logic]]"
-  - "[[Predicate Logic]]"
+  - "[[deductive-reasoning]]"
+  - "[[non-classical-logic]]"
+  - "[[propositional-logic]]"
+  - "[[predicate-logic]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Deductive Reasoning]]"
+  - "[[deductive-reasoning]]"
 broader:
-  - "[[Non-Classical Logic]]"
+  - "[[non-classical-logic]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -54,8 +54,8 @@ applies-to:
 formalizes:
   - "[[]]"
 instance-of:
-  - "[[Propositional Logic]]"
-  - "[[Predicate Logic]]"
+  - "[[propositional-logic]]"
+  - "[[predicate-logic]]"
 supports:
   - "[[]]"
 refines:
@@ -75,7 +75,7 @@ provenance:
 # Formal Logic
 
 > [!definition] **Formal Logic**
-> Formal Logic is the systematic study of inference patterns whose validity depends solely on the syntactic structure of propositions rather than empirical content, and it provides the canonical tools — propositional calculus, predicate calculus, truth tables, natural deduction — used to evaluate deductive arguments. It falls under [[Critical Thinking]], focusing on logical form alone without considering truth values based on empirical evidence.
+> Formal Logic is the systematic study of inference patterns whose validity depends solely on the syntactic structure of propositions rather than empirical content, and it provides the canonical tools — propositional calculus, predicate calculus, truth tables, natural deduction — used to evaluate deductive arguments. It falls under [[critical-thinking]], focusing on logical form alone without considering truth values based on empirical evidence.
 
 > [!attention] **Boundary**
 > It excludes considerations of truth values based on empirical evidence and focuses on logical form alone. It should not be confused with inductive or abductive reasoning, which involve empirical data.
@@ -134,12 +134,12 @@ Formal Logic's role as a specialized form of deductive reasoning within the broa
 
 ## Connections & Context
 
-**Falls under:** [[Critical Thinking]]
+**Falls under:** [[critical-thinking]]
 
-**Specializes:** [[Deductive Reasoning]]
+**Specializes:** [[deductive-reasoning]]
 
-**Generalizes to:** [[Non-Classical Logic]]
+**Generalizes to:** [[non-classical-logic]]
 
-**Instance of:** [[Propositional Logic]] · [[Predicate Logic]]
+**Instance of:** [[propositional-logic]] · [[predicate-logic]]
 
 **Source:** [[formal-logic-synthetic-seed-2026-04-25]]

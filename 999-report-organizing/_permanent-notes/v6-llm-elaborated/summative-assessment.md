@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Formative Assessment]]"
+  - "[[formative-assessment]]"
   - "[[Criterion-Referenced Assessment]]"
   - "[[Validity and Reliability]]"
 prerequisites:
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Formative Assessment]]"
+  - "[[formative-assessment]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Summative Assessment
 
 > [!definition] **Summative Assessment**
-> Summative Assessment evaluates learning at the end of an instructional period to certify or judge against established standards, distinct from formative assessment which informs ongoing instruction. It falls under [[Educational Psychology]], and its defining feature is its function rather than its instrument; the same test item can serve summative purposes in one administration and formative purposes in another.
+> Summative Assessment evaluates learning at the end of an instructional period to certify or judge against established standards, distinct from formative assessment which informs ongoing instruction. It falls under [[educational-psychology]], and its defining feature is its function rather than its instrument; the same test item can serve summative purposes in one administration and formative purposes in another.
 
 > [!attention] **Boundary**
 > This concept excludes formative assessment and other types of evaluation that do not serve a certification function. It is also distinct from criterion-referenced assessment in its purpose and application.
@@ -132,7 +132,7 @@ The concept of Summative Assessment intersects with other areas such as formativ
 
 ## Connections & Context
 
-**Contrasts with:** [[Formative Assessment]]
+**Contrasts with:** [[formative-assessment]]
 
 **Applies to:** [[Criterion-Referenced Assessment]]
 

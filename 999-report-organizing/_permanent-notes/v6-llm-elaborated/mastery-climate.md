@@ -37,7 +37,7 @@ parent-concept: "Goal Orientation Theory"
 
 related:
   - "[[achievement-goal-theory]]"
-  - "[[Mastery vs Performance Goals]]"
+  - "[[mastery-vs-performance-goals]]"
   - "[[self-efficacy-theory]]"
 prerequisites:
   - "[[]]"
@@ -46,7 +46,7 @@ specializes:
 broader:
   - "[[achievement-goal-theory]]"
 see-also:
-  - "[[Mastery vs Performance Goals]]"
+  - "[[mastery-vs-performance-goals]]"
 contrasts-with:
   - "[[self-efficacy-theory]]"
 contradicts:
@@ -139,7 +139,7 @@ The concept of mastery climate also intersects with other theories such as achie
 
 **Generalizes to:** [[achievement-goal-theory]]
 
-**Sibling concepts:** [[Mastery vs Performance Goals]]
+**Sibling concepts:** [[mastery-vs-performance-goals]]
 
 **Contrasts with:** [[self-efficacy-theory]]
 

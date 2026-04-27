@@ -34,7 +34,7 @@ parent-concept: "Cognitive Psychology"
 
 related:
   - "[[growth-mindset]]"
-  - "[[Self-Esteem]]"
+  - "[[self-esteem]]"
   - "[[emotional-regulation]]"
 prerequisites:
   - "[[]]"
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[growth-mindset]]"
 contrasts-with:
-  - "[[Self-Esteem]]"
+  - "[[self-esteem]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -143,7 +143,7 @@ Empirical evidence supports that self-compassion predicts persistence and growth
 
 **Sibling concepts:** [[growth-mindset]]
 
-**Contrasts with:** [[Self-Esteem]]
+**Contrasts with:** [[self-esteem]]
 
 **Applies to:** [[emotional-regulation]]
 

@@ -74,7 +74,7 @@ provenance:
 # Information Diet
 
 > [!definition] **Information Diet**
-> An Information Diet is the curated set of regular information sources that an individual consumes over time, designed to enhance cognitive function through deliberate selection and pruning of inputs, falling under [[Cognitive Architecture]]. It excludes incidental consumption driven by recommender systems or passive exposure, focusing on intentional design rather than accidental accumulation.
+> An Information Diet is the curated set of regular information sources that an individual consumes over time, designed to enhance cognitive function through deliberate selection and pruning of inputs, falling under [[cognitive-architecture]]. It excludes incidental consumption driven by recommender systems or passive exposure, focusing on intentional design rather than accidental accumulation.
 
 > [!attention] **Boundary**
 > This concept excludes incidental consumption driven by recommender systems or passive exposure. It focuses on intentional design rather than accidental accumulation of information.
@@ -130,7 +130,7 @@ The concept of an Information Diet intersects with other related concepts such a
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Sibling concepts:** [[Signal-to-Noise Ratio]] · [[Source-Curation]]
 

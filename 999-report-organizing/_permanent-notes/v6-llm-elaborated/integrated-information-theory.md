@@ -34,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Theories of Consciousness"
 
 related:
-  - "[[Global Workspace Theory]]"
+  - "[[global-workspace-theory]]"
   - "[[Panpsychism]]"
   - "[[Neural Correlates of Consciousness]]"
-  - "[[Computational Theory of Mind]]"
+  - "[[computational-theory-of-mind]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -47,13 +47,13 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Global Workspace Theory]]"
+  - "[[global-workspace-theory]]"
   - "[[Panpsychism]]"
 contradicts:
   - "[[]]"
 applies-to:
   - "[[Neural Correlates of Consciousness]]"
-  - "[[Computational Theory of Mind]]"
+  - "[[computational-theory-of-mind]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -136,8 +136,8 @@ Integrated Information Theory is significant because it offers a novel framework
 
 **Falls under:** [[Theories of Consciousness]]
 
-**Contrasts with:** [[Global Workspace Theory]] · [[Panpsychism]]
+**Contrasts with:** [[global-workspace-theory]] · [[Panpsychism]]
 
-**Applies to:** [[Neural Correlates of Consciousness]] · [[Computational Theory of Mind]]
+**Applies to:** [[Neural Correlates of Consciousness]] · [[computational-theory-of-mind]]
 
 **Source:** [[integrated-information-theory-synthetic-seed-2026-04-26]]

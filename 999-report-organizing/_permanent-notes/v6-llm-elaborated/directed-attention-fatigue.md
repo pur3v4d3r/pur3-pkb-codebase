@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Executive Function]]"
-  - "[[Attention Restoration Theory]]"
+  - "[[executive-function]]"
+  - "[[attention-restoration-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,7 +42,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Executive Function]]"
+  - "[[executive-function]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -54,7 +54,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Attention Restoration Theory]]"
+  - "[[attention-restoration-theory]]"
 refines:
   - "[[]]"
 
@@ -72,7 +72,7 @@ provenance:
 # Directed Attention Fatigue
 
 > [!definition] **Directed Attention Fatigue**
-> Directed Attention Fatigue is the temporary depletion of voluntary, top-down attentional capacity that follows sustained effort to suppress distracting stimuli and maintain focus on a task — distinct from physical fatigue or sleepiness — and that is hypothesized in Attention Restoration Theory (ART) to be alleviated by exposure to environments (notably natural settings) which engage involuntary attention without taxing the directed-attention system. It falls under [[Cognitive Architecture]].
+> Directed Attention Fatigue is the temporary depletion of voluntary, top-down attentional capacity that follows sustained effort to suppress distracting stimuli and maintain focus on a task — distinct from physical fatigue or sleepiness — and that is hypothesized in Attention Restoration Theory (ART) to be alleviated by exposure to environments (notably natural settings) which engage involuntary attention without taxing the directed-attention system. It falls under [[cognitive-architecture]].
 
 > [!attention] **Boundary**
 > It is distinct from physical fatigue or sleepiness and should not be confused with general mental fatigue or ego depletion.
@@ -136,10 +136,10 @@ Empirical evidence supports the notion that short walks in natural settings can 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Executive Function]]
+**Sibling concepts:** [[executive-function]]
 
-**Supports:** [[Attention Restoration Theory]]
+**Supports:** [[attention-restoration-theory]]
 
 **Source:** [[directed-attention-fatigue-synthetic-seed-2026-04-25]]

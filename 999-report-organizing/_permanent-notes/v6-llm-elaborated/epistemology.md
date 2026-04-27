@@ -32,20 +32,20 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[Justified True Belief]]"
-  - "[[Foundationalism]]"
-  - "[[Coherentism]]"
-  - "[[Gettier Problem]]"
+  - "[[justified-true-belief]]"
+  - "[[foundationalism]]"
+  - "[[coherentism]]"
+  - "[[gettier-problem]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Justified True Belief]]"
+  - "[[justified-true-belief]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Foundationalism]]"
-  - "[[Coherentism]]"
-  - "[[Gettier Problem]]"
+  - "[[foundationalism]]"
+  - "[[coherentism]]"
+  - "[[gettier-problem]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -131,8 +131,8 @@ Understanding Epistemology helps us navigate a complex world where information i
 
 ## Connections & Context
 
-**Specializes:** [[Justified True Belief]]
+**Specializes:** [[justified-true-belief]]
 
-**Sibling concepts:** [[Foundationalism]] · [[Coherentism]] · [[Gettier Problem]]
+**Sibling concepts:** [[foundationalism]] · [[coherentism]] · [[gettier-problem]]
 
 **Source:** [[epistemology-synthetic-seed-2026-04-25]]

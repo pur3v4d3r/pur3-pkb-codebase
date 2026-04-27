@@ -34,8 +34,8 @@ parent-concept: "Behavior Change Theory"
 
 related:
   - "[[Theory of Reasoned Action (TRA)]]"
-  - "[[Stages of Change Model]]"
-  - "[[Implementation Intentions]]"
+  - "[[stages-of-change-model]]"
+  - "[[implementation-intentions]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,11 +45,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Stages of Change Model]]"
+  - "[[stages-of-change-model]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implementation Intentions]]"
+  - "[[implementation-intentions]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -136,8 +136,8 @@ TPB's influence extends beyond its theoretical contributions; it has inspired nu
 
 **Generalizes to:** [[Theory of Reasoned Action (TRA)]]
 
-**Contrasts with:** [[Stages of Change Model]]
+**Contrasts with:** [[stages-of-change-model]]
 
-**Applies to:** [[Implementation Intentions]]
+**Applies to:** [[implementation-intentions]]
 
 **Source:** [[theory-of-planned-behavior-synthetic-seed-2026-04-25]]

@@ -34,7 +34,7 @@ parent-concept: "Self-Regulated Learning"
 
 related:
   - "[[self-regulation]]"
-  - "[[Willpower]]"
+  - "[[willpower]]"
   - "[[implementation-intentions]]"
 prerequisites:
   - "[[]]"
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Willpower]]"
+  - "[[willpower]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -139,7 +139,7 @@ The integration of Volitional Control into broader self-regulatory processes hig
 
 **Generalizes to:** [[self-regulation]]
 
-**Contrasts with:** [[Willpower]]
+**Contrasts with:** [[willpower]]
 
 **Applies to:** [[implementation-intentions]]
 

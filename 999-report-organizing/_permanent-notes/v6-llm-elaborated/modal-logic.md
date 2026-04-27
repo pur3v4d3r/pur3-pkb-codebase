@@ -35,7 +35,7 @@ related:
   - "[[Deontic Logic]]"
   - "[[Epistemic Logic]]"
   - "[[Temporal Logic]]"
-  - "[[Non-Classical Logic]]"
+  - "[[non-classical-logic]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,7 +43,7 @@ specializes:
   - "[[Epistemic Logic]]"
   - "[[Temporal Logic]]"
 broader:
-  - "[[Non-Classical Logic]]"
+  - "[[non-classical-logic]]"
 see-also:
   - "[[]]"
 contrasts-with:
@@ -75,7 +75,7 @@ provenance:
 # Modal Logic
 
 > [!definition] **Modal Logic**
-> Modal Logic is the branch of formal logic that extends classical logic by adding operators for necessity and possibility, along with related modalities such as obligation, permission, knowledge, belief, and temporal relations. It falls under [[Formal Logic]], providing a framework to reason about contexts where classical logic is insufficient, such as counterfactuals in philosophy or computational state in computer science.
+> Modal Logic is the branch of formal logic that extends classical logic by adding operators for necessity and possibility, along with related modalities such as obligation, permission, knowledge, belief, and temporal relations. It falls under [[formal-logic]], providing a framework to reason about contexts where classical logic is insufficient, such as counterfactuals in philosophy or computational state in computer science.
 
 > [!attention] **Boundary**
 > It excludes non-modal aspects of logic such as propositional or predicate logic without modal operators. Modal Logic also does not cover specific applications in fields unless they are formalized within its framework.
@@ -134,10 +134,10 @@ The unique features of Modal Logic set it apart from other non-classical logics,
 
 ## Connections & Context
 
-**Falls under:** [[Formal Logic]]
+**Falls under:** [[formal-logic]]
 
 **Specializes:** [[Deontic Logic]] · [[Epistemic Logic]] · [[Temporal Logic]]
 
-**Generalizes to:** [[Non-Classical Logic]]
+**Generalizes to:** [[non-classical-logic]]
 
 **Source:** [[modal-logic-synthetic-seed-2026-04-24]]

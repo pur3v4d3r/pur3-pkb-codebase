@@ -33,7 +33,7 @@ parent-concept: "Cognitive Psychology"
 related:
   - "[[ecological-psychology]]"
   - "[[pragmatism]]"
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,7 +43,7 @@ broader:
 see-also:
   - "[[pragmatism]]"
 contrasts-with:
-  - "[[Behaviorism]]"
+  - "[[behaviorism]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -134,6 +134,6 @@ The concept of functional reasoning also challenges traditional structuralist ap
 
 **Sibling concepts:** [[pragmatism]]
 
-**Contrasts with:** [[Behaviorism]]
+**Contrasts with:** [[behaviorism]]
 
 **Source:** [[functional-psychology-synthetic-seed-2026-04-24]]

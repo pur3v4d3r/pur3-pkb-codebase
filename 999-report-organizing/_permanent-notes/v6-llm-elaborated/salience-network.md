@@ -31,8 +31,8 @@ depth-level: elaborated
 parent-concept: "Large-Scale Brain Networks"
 
 related:
-  - "[[Default Mode Network]]"
-  - "[[Executive Attention Network]]"
+  - "[[default-mode-network]]"
+  - "[[executive-attention-network]]"
   - "[[Attention-orienting]]"
 prerequisites:
   - "[[]]"
@@ -41,8 +41,8 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Default Mode Network]]"
-  - "[[Executive Attention Network]]"
+  - "[[default-mode-network]]"
+  - "[[executive-attention-network]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -133,7 +133,7 @@ Understanding the Salience Network also has significant implications for fields 
 
 **Falls under:** [[Large-Scale Brain Networks]]
 
-**Sibling concepts:** [[Default Mode Network]] · [[Executive Attention Network]]
+**Sibling concepts:** [[default-mode-network]] · [[executive-attention-network]]
 
 **Applies to:** [[Attention-orienting]]
 

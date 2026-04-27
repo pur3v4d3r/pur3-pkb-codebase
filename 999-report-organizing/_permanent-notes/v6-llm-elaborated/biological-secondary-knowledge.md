@@ -27,11 +27,11 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Cognitive Architecture
 related:
-  - '[[Working Memory]]'
-  - '[[Worked Examples]]'
-  - '[[Cognitive Load Theory]]'
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
+  - '[[cognitive-load-theory]]'
 prerequisites:
-  - '[[Working Memory]]'
+  - '[[working-memory]]'
 specializes:
   - '[[]]'
 broader:
@@ -43,13 +43,13 @@ contrasts-with:
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Worked Examples]]'
+  - '[[worked-examples]]'
 formalizes:
   - '[[]]'
 instance-of:
   - '[[]]'
 supports:
-  - '[[Cognitive Load Theory]]'
+  - '[[cognitive-load-theory]]'
 refines:
   - '[[]]'
 
@@ -71,7 +71,7 @@ provenance:
 # Biological Secondary Knowledge
 
 > [!definition] **Biological Secondary Knowledge**
-> Biological Secondary Knowledge refers to cognitive content like literacy and formal mathematics that lacks dedicated evolutionary support and requires deliberate instruction and practice. It falls under [[Cognitive Architecture]], as it involves the use of general-purpose learning machinery rather than specialized mechanisms.
+> Biological Secondary Knowledge refers to cognitive content like literacy and formal mathematics that lacks dedicated evolutionary support and requires deliberate instruction and practice. It falls under [[cognitive-architecture]], as it involves the use of general-purpose learning machinery rather than specialized mechanisms.
 
 > [!attention] **Boundary**
 > This concept excludes evolutionarily supported primary knowledge (e.g., basic perceptual skills) and does not encompass all difficult or important knowledge.
@@ -155,12 +155,12 @@ This concept positions cognitive architecture within a broader cultural-historic
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
-**Supports:** [[Cognitive Load Theory]]
+**Supports:** [[cognitive-load-theory]]
 
 **Source:** [[biological-secondary-knowledge-synthetic-seed-2026-04-25]]

@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Neuroscience"
 
 related:
-  - "[[Theory-of-Mind]]"
-  - "[[Embodied Cognition]]"
+  - "[[theory-of-mind]]"
+  - "[[embodied-cognition]]"
   - "[[Neural Coding]]"
 prerequisites:
   - "[[]]"
@@ -45,11 +45,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Theory-of-Mind]]"
+  - "[[theory-of-mind]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Embodied Cognition]]"
+  - "[[embodied-cognition]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -132,9 +132,9 @@ The significance of mirror neurons lies in their potential to bridge the gap bet
 
 **Falls under:** [[Neuroscience]]
 
-**Contrasts with:** [[Theory-of-Mind]]
+**Contrasts with:** [[theory-of-mind]]
 
-**Applies to:** [[Embodied Cognition]]
+**Applies to:** [[embodied-cognition]]
 
 **Supports:** [[Neural Coding]]
 

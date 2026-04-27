@@ -70,7 +70,7 @@ provenance:
 # 4E Cognition
 
 > [!definition] **4E Cognition**
-> 4E Cognition is an umbrella term for four key commitments—embodied, embedded, enactive, and extended—that collectively challenge the brain-bound computational model of mind. It falls under [[Cognitive Science]], reframing cognitive performance analysis to focus on the brain-body-environment system rather than just internal mental processes.
+> 4E Cognition is an umbrella term for four key commitments—embodied, embedded, enactive, and extended—that collectively challenge the brain-bound computational model of mind. It falls under [[cognitive-science]], reframing cognitive performance analysis to focus on the brain-body-environment system rather than just internal mental processes.
 
 > [!attention] **Boundary**
 > This concept excludes traditional cognitive theories that focus solely on internal mental processes. It also does not include specific techniques or models but rather a framework for understanding cognition as an integrated system involving body, environment, action, and tools.

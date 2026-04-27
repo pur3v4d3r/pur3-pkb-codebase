@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Active-Learning"
 
 related:
-  - "[[Flipped Classroom]]"
+  - "[[flipped-classroom]]"
   - "[[ConcepTests]]"
-  - "[[Formative Assessment]]"
+  - "[[formative-assessment]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,13 +49,13 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Flipped Classroom]]"
+  - "[[flipped-classroom]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[ConcepTests]]"
 supports:
-  - "[[Formative Assessment]]"
+  - "[[formative-assessment]]"
 refines:
   - "[[]]"
 
@@ -73,7 +73,7 @@ provenance:
 # Peer Instruction
 
 > [!definition] **Peer Instruction**
-> Peer Instruction is an active-learning technique developed by Eric Mazur that involves students answering conceptual questions individually, discussing their answers with peers, and then re-answering to refine their understanding. It falls under [[Active-Learning]], focusing specifically on the structured cycle of commitment, dialogue, and revision through ConcepTests.
+> Peer Instruction is an active-learning technique developed by Eric Mazur that involves students answering conceptual questions individually, discussing their answers with peers, and then re-answering to refine their understanding. It falls under [[active-learning]], focusing specifically on the structured cycle of commitment, dialogue, and revision through ConcepTests.
 
 > [!attention] **Boundary**
 > This concept excludes other teaching methods like direct instruction or traditional lectures. It focuses specifically on the structured cycle of commitment, dialogue, and revision through ConcepTests.
@@ -137,12 +137,12 @@ Peer Instruction's empirical robustness is grounded in two mechanisms: initial i
 
 ## Connections & Context
 
-**Falls under:** [[Active-Learning]]
+**Falls under:** [[active-learning]]
 
-**Applies to:** [[Flipped Classroom]]
+**Applies to:** [[flipped-classroom]]
 
 **Instance of:** [[ConcepTests]]
 
-**Supports:** [[Formative Assessment]]
+**Supports:** [[formative-assessment]]
 
 **Source:** [[peer-instruction-synthetic-seed-2026-04-26]]

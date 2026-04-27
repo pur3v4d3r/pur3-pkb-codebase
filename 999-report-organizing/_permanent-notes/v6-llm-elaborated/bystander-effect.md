@@ -28,11 +28,11 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Social Psychology
 related:
-  - '[[Diffusion of Responsibility]]'
+  - '[[diffusion-of-responsibility]]'
   - '[[Pluralistic Ignorance]]'
   - '[[Prosocial Behavior]]'
 prerequisites:
-  - '[[Diffusion of Responsibility]]'
+  - '[[diffusion-of-responsibility]]'
 specializes:
   - '[[]]'
 broader:
@@ -157,7 +157,7 @@ A 2019 meta-analysis of 127 studies (Risen et al.) confirmed the Bystander Effec
 
 **Falls under:** [[Social Psychology]]
 
-**Prerequisites:** [[Diffusion of Responsibility]]
+**Prerequisites:** [[diffusion-of-responsibility]]
 
 **Contrasts with:** [[Pluralistic Ignorance]]
 

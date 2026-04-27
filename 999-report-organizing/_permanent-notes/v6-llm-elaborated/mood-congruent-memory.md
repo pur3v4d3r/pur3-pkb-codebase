@@ -2,6 +2,7 @@
 title: "Mood Congruent Memory"
 aliases:
   - "Mood Congruent Memory"
+  - "Mood-Congruent Memory"
   - "mood congruence effect"
   - "MCM"
 type: permanent-note
@@ -33,10 +34,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Emotional Memory Enhancement]]"
+  - "[[working-memory]]"
+  - "[[emotional-memory-enhancement]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Emotional Memory Enhancement]]"
+  - "[[emotional-memory-enhancement]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +73,7 @@ provenance:
 # Mood Congruent Memory
 
 > [!definition] **Mood Congruent Memory**
-> Mood Congruent Memory refers to the phenomenon where memories of events or information that match one's current emotional state are more easily encoded and retrieved than those that do not. It falls under [[Cognitive Architecture]], providing a cognitive mechanism for the maintenance of affective disorders, as a depressed mood selectively recruits negatively-valenced memories, which in turn sustain the mood, producing a self-perpetuating loop.
+> Mood Congruent Memory refers to the phenomenon where memories of events or information that match one's current emotional state are more easily encoded and retrieved than those that do not. It falls under [[cognitive-architecture]], providing a cognitive mechanism for the maintenance of affective disorders, as a depressed mood selectively recruits negatively-valenced memories, which in turn sustain the mood, producing a self-perpetuating loop.
 
 > [!attention] **Boundary**
 > This concept excludes other memory phenomena such as state-dependent memory, which is about recalling information better when in the same state as during encoding, regardless of valence.
@@ -129,10 +130,10 @@ Mood Congruent Memory is a critical concept within cognitive psychology, offerin
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Emotional Memory Enhancement]]
+**Applies to:** [[emotional-memory-enhancement]]
 
 **Source:** [[mood-congruent-memory-synthetic-seed-2026-04-26]]

@@ -34,18 +34,18 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Analogical Mapping]]"
-  - "[[Embodied Cognition]]"
-  - "[[Conceptual Blending]]"
+  - "[[analogical-mapping]]"
+  - "[[embodied-cognition]]"
+  - "[[conceptual-blending]]"
   - "[[Image Schemas]]"
 prerequisites:
-  - "[[Analogical Mapping]]"
+  - "[[analogical-mapping]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Embodied Cognition]]"
+  - "[[embodied-cognition]]"
 see-also:
-  - "[[Conceptual Blending]]"
+  - "[[conceptual-blending]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # Metaphor and Cognition
 
 > [!definition] **Metaphor and Cognition**
-> Metaphor and Cognition is the theory that metaphors are not just linguistic devices but fundamental cognitive operations through which we structure our reasoning about abstract concepts using more concrete ones. It falls under [[Cognitive Architecture]], as it posits that these mappings from concrete to abstract domains are central to how we think, reason, and make decisions.
+> Metaphor and Cognition is the theory that metaphors are not just linguistic devices but fundamental cognitive operations through which we structure our reasoning about abstract concepts using more concrete ones. It falls under [[cognitive-architecture]], as it posits that these mappings from concrete to abstract domains are central to how we think, reason, and make decisions.
 
 > [!attention] **Boundary**
 > This concept excludes metaphorical language as a mere stylistic choice, focusing instead on the underlying cognitive processes of mapping between domains.
@@ -139,13 +139,13 @@ Empirical evidence supports Metaphor and Cognition by demonstrating that subtle 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Analogical Mapping]]
+**Prerequisites:** [[analogical-mapping]]
 
-**Generalizes to:** [[Embodied Cognition]]
+**Generalizes to:** [[embodied-cognition]]
 
-**Sibling concepts:** [[Conceptual Blending]]
+**Sibling concepts:** [[conceptual-blending]]
 
 **Applies to:** [[Image Schemas]]
 

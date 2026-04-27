@@ -34,7 +34,7 @@ parent-concept: "Cognitive Bias"
 
 related:
   - "[[Ego-Protective Attribution]]"
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
   - "[[Fundamental Attribution Error]]"
 prerequisites:
   - "[[Ego-Protective Attribution]]"
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Attribution Theory]]"
+  - "[[attribution-theory]]"
 contrasts-with:
   - "[[Fundamental Attribution Error]]"
 contradicts:
@@ -73,7 +73,7 @@ provenance:
 # Self-Serving Bias
 
 > [!definition] **Self-Serving Bias**
-> Self-Serving Bias refers to the tendency to attribute one's successes internally and controllably while attributing failures externally and uncontrollably, which protects self-esteem. It falls under [[Cognitive Bias]], as it pertains to how individuals interpret events and outcomes in a way that enhances their self-image.
+> Self-Serving Bias refers to the tendency to attribute one's successes internally and controllably while attributing failures externally and uncontrollably, which protects self-esteem. It falls under [[cognitive-bias]], as it pertains to how individuals interpret events and outcomes in a way that enhances their self-image.
 
 > [!attention] **Boundary**
 > This concept excludes other attribution biases like fundamental attribution error or ego-protective attribution, which are distinct in their mechanisms and contexts of application.
@@ -131,11 +131,11 @@ Empirical evidence supports the robustness of Self-Serving Bias across cultures 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Bias]]
+**Falls under:** [[cognitive-bias]]
 
 **Prerequisites:** [[Ego-Protective Attribution]]
 
-**Sibling concepts:** [[Attribution Theory]]
+**Sibling concepts:** [[attribution-theory]]
 
 **Contrasts with:** [[Fundamental Attribution Error]]
 

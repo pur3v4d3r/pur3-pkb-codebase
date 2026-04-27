@@ -33,7 +33,7 @@ parent-concept: "Cognitive-Behavioral Therapy"
 
 related:
   - "[[Ambivalence]]"
-  - "[[Stages of Change Model]]"
+  - "[[stages-of-change-model]]"
   - "[[Change Talk]]"
   - "[[self-determination-theory]]"
 prerequisites:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Stages of Change Model]]"
+  - "[[stages-of-change-model]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Motivational Interviewing
 
 > [!definition] **Motivational Interviewing**
-> Motivational Interviewing (MI) is a counseling approach that helps clients explore and resolve their ambivalence about change through open questions, affirmations, reflective listening, and summaries, aiming to elicit and strengthen the client's intrinsic motivation for change rather than imposing external changes or directives. It falls under [[Cognitive-Behavioral Therapy]], aligning closely with self-determination theory (SDT) by enhancing autonomous regulation for change.
+> Motivational Interviewing (MI) is a counseling approach that helps clients explore and resolve their ambivalence about change through open questions, affirmations, reflective listening, and summaries, aiming to elicit and strengthen the client's intrinsic motivation for change rather than imposing external changes or directives. It falls under [[cognitive-behavioral-therapy]], aligning closely with self-determination theory (SDT) by enhancing autonomous regulation for change.
 
 > [!attention] **Boundary**
 > MI focuses on eliciting and strengthening the client's intrinsic motivation for change rather than imposing external changes or directives.
@@ -133,11 +133,11 @@ The integration of MI within broader cognitive-behavioral therapy (CBT) framewor
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive-Behavioral Therapy]]
+**Falls under:** [[cognitive-behavioral-therapy]]
 
 **Contrasts with:** [[Ambivalence]]
 
-**Applies to:** [[Stages of Change Model]]
+**Applies to:** [[stages-of-change-model]]
 
 **Instance of:** [[Change Talk]]
 

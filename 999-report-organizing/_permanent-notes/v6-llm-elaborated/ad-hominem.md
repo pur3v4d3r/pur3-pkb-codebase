@@ -31,7 +31,7 @@ parent-concept: Informal Fallacy
 related:
   - '[[Genetic Fallacy]]'
   - '[[Tu Quoque]]'
-  - '[[Argument Analysis]]'
+  - '[[argument-analysis]]'
 prerequisites:
   - '[[]]'
 specializes:
@@ -46,7 +46,7 @@ contrasts-with:
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Argument Analysis]]'
+  - '[[argument-analysis]]'
 formalizes:
   - '[[]]'
 instance-of:
@@ -151,7 +151,7 @@ Ad Hominem operates by shifting focus away from the logical structure and eviden
 
 Recognizing Ad Hominem fallacies is crucial for effective argumentation and critical thinking because it helps maintain a focus on the logical structure of arguments rather than personal attacks. By understanding this concept, individuals can better evaluate the validity of claims and engage in more productive debates. This is particularly important in fields like politics, education, and law, where clear reasoning and evidence-based decision-making are essential.
 
-Ad Hominem falls under [[Argument Analysis]], making it a key component in comprehensively analyzing arguments. By integrating insights from cognitive load theory and critical thinking literature, we can develop more robust methods for identifying and mitigating this fallacy, thereby enhancing the quality of discourse across various domains.
+Ad Hominem falls under [[argument-analysis]], making it a key component in comprehensively analyzing arguments. By integrating insights from cognitive load theory and critical thinking literature, we can develop more robust methods for identifying and mitigating this fallacy, thereby enhancing the quality of discourse across various domains.
 
 ## Connections & Context
 
@@ -159,6 +159,6 @@ Ad Hominem falls under [[Argument Analysis]], making it a key component in compr
 
 **Sibling concepts:** [[Genetic Fallacy]] · [[Tu Quoque]]
 
-**Applies to:** [[Argument Analysis]]
+**Applies to:** [[argument-analysis]]
 
 **Source:** [[ad-hominem-synthetic-seed-2026-04-26]]

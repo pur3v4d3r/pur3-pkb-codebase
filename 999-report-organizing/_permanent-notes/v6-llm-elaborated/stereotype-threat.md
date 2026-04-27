@@ -33,12 +33,12 @@ depth-level: elaborated
 parent-concept: "Social Psychology"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Efficacy]]"
+  - "[[working-memory]]"
+  - "[[self-efficacy]]"
   - "[[Identity Safety]]"
   - "[[Stereotype Effects]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -46,7 +46,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
   - "[[Identity Safety]]"
 contradicts:
   - "[[]]"
@@ -141,9 +141,9 @@ Empirical evidence supporting Stereotype Threat comes from numerous studies show
 
 **Falls under:** [[Social Psychology]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[Self-Efficacy]] · [[Identity Safety]]
+**Contrasts with:** [[self-efficacy]] · [[Identity Safety]]
 
 **Applies to:** [[Stereotype Effects]]
 

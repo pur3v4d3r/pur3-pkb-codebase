@@ -34,8 +34,8 @@ parent-concept: "Achievement-Motivation Theory"
 
 related:
   - "[[Intrinsic vs. Extrinsic Motivation]]"
-  - "[[Implicit Theory of Intelligence]]"
-  - "[[Self-Determination Theory]]"
+  - "[[implicit-theory-of-intelligence]]"
+  - "[[self-determination-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Implicit Theory of Intelligence]]"
+  - "[[implicit-theory-of-intelligence]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -57,7 +57,7 @@ instance-of:
 supports:
   - "[[]]"
 refines:
-  - "[[Self-Determination Theory]]"
+  - "[[self-determination-theory]]"
 
 review-frequency: quarterly
 mastery-stage: budding
@@ -138,8 +138,8 @@ The evidence supporting the predictive power of the Goal Orientation Framework i
 
 **Contrasts with:** [[Intrinsic vs. Extrinsic Motivation]]
 
-**Applies to:** [[Implicit Theory of Intelligence]]
+**Applies to:** [[implicit-theory-of-intelligence]]
 
-**Refines:** [[Self-Determination Theory]]
+**Refines:** [[self-determination-theory]]
 
 **Source:** [[goal-orientation-framework-synthetic-seed-2026-04-25]]

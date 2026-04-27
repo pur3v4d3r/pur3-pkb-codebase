@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Personal Knowledge Management"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Zettelkasten Workflow
 
 > [!definition] **Zettelkasten Workflow**
-> The Zettelkasten Workflow is a method for converting raw inputs into durable, interconnected notes through specific stages of processing: fleeting capture, literature notes, permanent atomic notes, and structural index notes. It falls under [[Personal Knowledge Management]], distinguishing itself by enforcing atomicity (one idea per note), durability (notes are written in the author's own words), and connectivity (every new note must link into the existing network).
+> The Zettelkasten Workflow is a method for converting raw inputs into durable, interconnected notes through specific stages of processing: fleeting capture, literature notes, permanent atomic notes, and structural index notes. It falls under [[personal-knowledge-management]], distinguishing itself by enforcing atomicity (one idea per note), durability (notes are written in the author's own words), and connectivity (every new note must link into the existing network).
 
 > [!attention] **Boundary**
 > This workflow stops at the point where notes are fully integrated and linked within a personal knowledge base. It does not include the use of specific tools or software implementations.
@@ -129,10 +129,10 @@ The Zettelkasten Workflow is a powerful tool for personal knowledge management, 
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[zettelkasten-workflow-synthetic-seed-2026-04-25]]

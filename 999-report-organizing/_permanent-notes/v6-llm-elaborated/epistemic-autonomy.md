@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Epistemology"
 
 related:
-  - "[[Principle of Charity]]"
+  - "[[principle-of-charity]]"
   - "[[Testimony]]"
   - "[[Expert-Deferral]]"
 prerequisites:
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Principle of Charity]]"
+  - "[[principle-of-charity]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -74,7 +74,7 @@ provenance:
 # Epistemic Autonomy
 
 > [!definition] **Epistemic Autonomy**
-> Epistemic Autonomy is the capacity and disposition to form beliefs through one's own rational evaluation of evidence rather than by uncritical deference to others; it falls under [[Epistemology]], treated as a regulative ideal that must be balanced against epistemic dependence on testimony. It excludes blind adherence to authority or personal reasoning in isolation, recognizing the importance of cognitive division of labor and expert consensus.
+> Epistemic Autonomy is the capacity and disposition to form beliefs through one's own rational evaluation of evidence rather than by uncritical deference to others; it falls under [[epistemology]], treated as a regulative ideal that must be balanced against epistemic dependence on testimony. It excludes blind adherence to authority or personal reasoning in isolation, recognizing the importance of cognitive division of labor and expert consensus.
 
 > [!attention] **Boundary**
 > This concept excludes blind adherence to authority or personal reasoning in isolation. It should not be confused with epistemic paternalism or the rejection of expert consensus without critical evaluation.
@@ -133,9 +133,9 @@ Epistemic Autonomy also has practical implications across various domains such a
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
-**Contrasts with:** [[Principle of Charity]]
+**Contrasts with:** [[principle-of-charity]]
 
 **Applies to:** [[Testimony]] · [[Expert-Deferral]]
 

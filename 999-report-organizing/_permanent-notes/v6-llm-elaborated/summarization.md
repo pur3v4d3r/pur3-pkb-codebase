@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Self-Regulated Learning"
 
 related:
-  - "[[Self-Explanation]]"
-  - "[[Retrieval Practice]]"
+  - "[[self-explanation]]"
+  - "[[retrieval-practice]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Self-Explanation]]"
-  - "[[Retrieval Practice]]"
+  - "[[self-explanation]]"
+  - "[[retrieval-practice]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -73,7 +73,7 @@ provenance:
 # Summarization
 
 > [!definition] **Summarization**
-> Summarization involves condensing studied material into a concise restatement using one's own words, focusing on main ideas and integrating them coherently. It falls under [[Self-Regulated Learning]], where learners actively engage with the material to enhance comprehension and retention.
+> Summarization involves condensing studied material into a concise restatement using one's own words, focusing on main ideas and integrating them coherently. It falls under [[self-regulated-learning]], where learners actively engage with the material to enhance comprehension and retention.
 
 > [!attention] **Boundary**
 > This concept excludes verbatim copying or random extraction of details without integration. It should not be confused with other study strategies like elaborative interrogation or retrieval practice.
@@ -127,8 +127,8 @@ Summarization is a crucial component of self-regulated learning, as it helps lea
 
 ## Connections & Context
 
-**Falls under:** [[Self-Regulated Learning]]
+**Falls under:** [[self-regulated-learning]]
 
-**Contrasts with:** [[Self-Explanation]] · [[Retrieval Practice]]
+**Contrasts with:** [[self-explanation]] · [[retrieval-practice]]
 
 **Source:** [[summarization-synthetic-seed-2026-04-25]]

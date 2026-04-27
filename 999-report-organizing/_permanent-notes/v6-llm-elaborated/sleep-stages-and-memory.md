@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -47,7 +47,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Sleep Stages And Memory
 
 > [!definition] **Sleep Stages And Memory**
-> Sleep Stages And Memory refers to how different stages of sleep, particularly slow-wave sleep (NREM3) and REM sleep, contribute to the consolidation of various types of memories. It falls under [[Cognitive Architecture]], as it involves active processing during sleep that reactivates, stabilizes, and integrates memory traces acquired during wakefulness.
+> Sleep Stages And Memory refers to how different stages of sleep, particularly slow-wave sleep (NREM3) and REM sleep, contribute to the consolidation of various types of memories. It falls under [[cognitive-architecture]], as it involves active processing during sleep that reactivates, stabilizes, and integrates memory traces acquired during wakefulness.
 
 > [!attention] **Boundary**
 > This concept focuses on the role of specific sleep stages in memory consolidation but does not cover other aspects of sleep physiology or cognitive processes outside of memory.
@@ -127,10 +127,10 @@ The integration of Sleep Stages And Memory with other concepts such as Working M
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[sleep-stages-and-memory-synthetic-seed-2026-04-25]]

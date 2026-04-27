@@ -33,10 +33,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -48,7 +48,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Cognitive Load Theory
 
 > [!definition] **Cognitive Load Theory**
-> Cognitive Load Theory (CLT) is a framework that explains how the human cognitive system processes information during learning tasks, focusing on intrinsic, extraneous, and germane loads. It falls under [[Cognitive Architecture]], building upon the concept of working memory to explain cognitive processing.
+> Cognitive Load Theory (CLT) is a framework that explains how the human cognitive system processes information during learning tasks, focusing on intrinsic, extraneous, and germane loads. It falls under [[cognitive-architecture]], building upon the concept of working memory to explain cognitive processing.
 
 > [!attention] **Boundary**
 > The theory stops at its core constructs and does not include broader educational strategies or specific teaching methods. It should not be confused with other cognitive theories like Dual-Process Theory.
@@ -128,10 +128,10 @@ Moreover, CLT's integration with multimedia learning principles and its alignmen
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[the-history-and-evolution-of-cognitive-load-theory-synthetic-seed-2026-04-25]]

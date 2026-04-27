@@ -34,18 +34,18 @@ depth-level: elaborated
 parent-concept: "Neuromodulation and Learning"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Emotional Memory Enhancement]]"
-  - "[[Neuromodulation and Learning]]"
+  - "[[working-memory]]"
+  - "[[emotional-memory-enhancement]]"
+  - "[[neuromodulation-and-learning]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Emotional Memory Enhancement]]"
-  - "[[Neuromodulation and Learning]]"
+  - "[[emotional-memory-enhancement]]"
+  - "[[neuromodulation-and-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # Norepinephrine and Learning
 
 > [!definition] **Norepinephrine and Learning**
-> Norepinephrine and Learning refers to the role of noradrenaline in enhancing memory consolidation by tagging arousing or significant events through phasic release at encoding. This falls under [[Neuromodulation and Learning]], where it specifically highlights how the noradrenergic system, projecting from the locus coeruleus to the amygdala, hippocampus, and cortex, influences learning processes.
+> Norepinephrine and Learning refers to the role of noradrenaline in enhancing memory consolidation by tagging arousing or significant events through phasic release at encoding. This falls under [[neuromodulation-and-learning]], where it specifically highlights how the noradrenergic system, projecting from the locus coeruleus to the amygdala, hippocampus, and cortex, influences learning processes.
 
 > [!attention] **Boundary**
 > This concept focuses on the noradrenergic system's influence on learning and memory. It does not cover other neurotransmitters or neuromodulators involved in learning but rather specializes in the noradrenaline pathway.
@@ -131,10 +131,10 @@ Moreover, the insights gained from studying norepinephrine's role in learning ha
 
 ## Connections & Context
 
-**Falls under:** [[Neuromodulation and Learning]]
+**Falls under:** [[neuromodulation-and-learning]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Emotional Memory Enhancement]] · [[Neuromodulation and Learning]]
+**Sibling concepts:** [[emotional-memory-enhancement]] · [[neuromodulation-and-learning]]
 
 **Source:** [[norepinephrine-and-learning-synthetic-seed-2026-04-26]]

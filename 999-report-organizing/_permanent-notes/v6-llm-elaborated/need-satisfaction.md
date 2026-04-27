@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Self-Determination Theory"
 
 related:
-  - "[[Autonomy-Supportive Teaching]]"
+  - "[[autonomy-supportive-teaching]]"
   - "[[Competence-Supportive Tasks]]"
   - "[[Relatedness-Supportive Climates]]"
 prerequisites:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autonomy-Supportive Teaching]]"
+  - "[[autonomy-supportive-teaching]]"
   - "[[Competence-Supportive Tasks]]"
   - "[[Relatedness-Supportive Climates]]"
 formalizes:
@@ -141,6 +141,6 @@ Research supports the importance of Need Satisfaction by demonstrating its posit
 
 **Falls under:** [[self-determination-theory]]
 
-**Applies to:** [[Autonomy-Supportive Teaching]] · [[Competence-Supportive Tasks]] · [[Relatedness-Supportive Climates]]
+**Applies to:** [[autonomy-supportive-teaching]] · [[Competence-Supportive Tasks]] · [[Relatedness-Supportive Climates]]
 
 **Source:** [[need-satisfaction-synthetic-seed-2026-04-24]]

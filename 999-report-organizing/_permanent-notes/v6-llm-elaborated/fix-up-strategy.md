@@ -37,7 +37,7 @@ parent-concept: "Cognitive Architecture"
 related:
   - "[[working-memory]]"
   - "[[self-explanation]]"
-  - "[[Summarization]]"
+  - "[[summarization]]"
   - "[[reciprocal-teaching]]"
 prerequisites:
   - "[[working-memory]]"
@@ -49,7 +49,7 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[self-explanation]]"
-  - "[[Summarization]]"
+  - "[[summarization]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -138,7 +138,7 @@ Fix-up strategies are crucial for maintaining and restoring comprehension during
 
 **Prerequisites:** [[working-memory]]
 
-**Contrasts with:** [[self-explanation]] · [[Summarization]]
+**Contrasts with:** [[self-explanation]] · [[summarization]]
 
 **Applies to:** [[reciprocal-teaching]]
 

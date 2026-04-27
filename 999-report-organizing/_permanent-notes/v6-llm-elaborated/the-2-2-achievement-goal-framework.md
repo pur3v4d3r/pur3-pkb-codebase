@@ -36,7 +36,7 @@ depth-level: elaborated
 parent-concept: "Achievement Goal Theory"
 
 related:
-  - "[[Implicit Theory of Intelligence]]"
+  - "[[implicit-theory-of-intelligence]]"
   - "[[attribution-theory]]"
   - "[[self-efficacy-theory]]"
   - "[[Pintrich's 4×4 Matrix]]"
@@ -50,7 +50,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Implicit Theory of Intelligence]]"
+  - "[[implicit-theory-of-intelligence]]"
   - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
@@ -141,7 +141,7 @@ The 2×2 Achievement Goal Framework's practical implications extend beyond the c
 
 **Falls under:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Implicit Theory of Intelligence]] · [[attribution-theory]]
+**Contrasts with:** [[implicit-theory-of-intelligence]] · [[attribution-theory]]
 
 **Applies to:** [[self-efficacy-theory]]
 

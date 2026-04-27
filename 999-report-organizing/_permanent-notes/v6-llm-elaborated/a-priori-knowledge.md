@@ -71,7 +71,7 @@ provenance:
 # A Priori Knowledge
 
 > [!definition] **A Priori Knowledge**
-> A Priori Knowledge is knowledge whose justification is independent of sense experience — typically exemplified by mathematical and logical truths and by conceptual analyses — as contrasted with a posteriori knowledge whose justification requires empirical investigation. It falls under [[Epistemology]], focusing on the source of justification for beliefs rather than innate knowledge or certainty.
+> A Priori Knowledge is knowledge whose justification is independent of sense experience — typically exemplified by mathematical and logical truths and by conceptual analyses — as contrasted with a posteriori knowledge whose justification requires empirical investigation. It falls under [[epistemology]], focusing on the source of justification for beliefs rather than innate knowledge or certainty.
 
 > [!attention] **Boundary**
 > This concept excludes knowledge derived from sensory experience or empirical evidence. It should not be confused with innate knowledge or certainty, but rather focuses on the source of justification for beliefs.
@@ -153,7 +153,7 @@ A Priori Knowledge is a fundamental concept in epistemology that has significant
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Contrasts with:** [[Analytic-Synthetic Distinction]]
 

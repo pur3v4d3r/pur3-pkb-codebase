@@ -35,7 +35,7 @@ parent-concept: "4e-Cognition"
 related:
   - "[[Sensorimotor Grounding]]"
   - "[[distributed-cognition]]"
-  - "[[Mirror Neurons]]"
+  - "[[mirror-neurons]]"
 prerequisites:
   - "[[Sensorimotor Grounding]]"
 specializes:
@@ -55,7 +55,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Mirror Neurons]]"
+  - "[[mirror-neurons]]"
 refines:
   - "[[]]"
 
@@ -141,6 +141,6 @@ Embodied Cognition is supported by behavioral evidence such as action-sentence c
 
 **Contrasts with:** [[distributed-cognition]]
 
-**Supports:** [[Mirror Neurons]]
+**Supports:** [[mirror-neurons]]
 
 **Source:** [[embodied-cognition-synthetic-seed-2026-04-24]]

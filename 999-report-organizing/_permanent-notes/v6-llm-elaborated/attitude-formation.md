@@ -27,12 +27,12 @@ depth-level: enhanced
 parent-concept: Cognitive Psychology
 related:
   - '[[Classical Conditioning]]'
-  - '[[Self-Perception Theory]]'
-  - '[[Persuasion Theory]]'
+  - '[[self-perception-theory]]'
+  - '[[persuasion-theory]]'
 prerequisites:
   - '[[Classical Conditioning]]'
 specializes:
-  - '[[Self-Perception Theory]]'
+  - '[[self-perception-theory]]'
 broader:
   - '[[]]'
 see-also:
@@ -42,7 +42,7 @@ contrasts-with:
 contradicts:
   - '[[]]'
 applies-to:
-  - '[[Persuasion Theory]]'
+  - '[[persuasion-theory]]'
 formalizes:
   - '[[]]'
 instance-of:
@@ -70,7 +70,7 @@ provenance:
 # Attitude Formation
 
 > [!definition] **Attitude Formation**
-> Attitude Formation is the process by which evaluative dispositions toward objects, people, or issues are acquired through three principal routes — affective conditioning (object becomes associated with positive or negative affect), behavioral inference (attitude inferred from one's own behavior, per self-perception theory), and cognitive evaluation (attitude derived from beliefs about object attributes weighted by evaluation). It falls under [[Cognitive Psychology]].
+> Attitude Formation is the process by which evaluative dispositions toward objects, people, or issues are acquired through three principal routes — affective conditioning (object becomes associated with positive or negative affect), behavioral inference (attitude inferred from one's own behavior, per self-perception theory), and cognitive evaluation (attitude derived from beliefs about object attributes weighted by evaluation). It falls under [[cognitive-psychology]].
 
 > [!attention] **Boundary**
 > This includes processes like classical conditioning, mere exposure effect, self-perception theory, and attitude strength. It excludes specific behaviors or individual attitudes not part of this formation process.
@@ -143,12 +143,12 @@ A 2019 meta-analysis by van der Zee et al. in the Journal of Cross-Cultural Psyc
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Psychology]]
+**Falls under:** [[cognitive-psychology]]
 
 **Prerequisites:** [[Classical Conditioning]]
 
-**Specializes:** [[Self-Perception Theory]]
+**Specializes:** [[self-perception-theory]]
 
-**Applies to:** [[Persuasion Theory]]
+**Applies to:** [[persuasion-theory]]
 
 **Source:** [[attitude-formation-synthetic-seed-2026-04-25]]

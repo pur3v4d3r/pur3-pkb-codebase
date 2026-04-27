@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Explanatory Style]]"
+  - "[[explanatory-style]]"
   - "[[Cognitive Therapy for Depression]]"
   - "[[Cognitive Restructuring]]"
   - "[[Resilience]]"
@@ -44,7 +44,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Explanatory Style]]"
+  - "[[explanatory-style]]"
 contrasts-with:
   - "[[Cognitive Therapy for Depression]]"
 contradicts:
@@ -75,7 +75,7 @@ provenance:
 # Learned Optimism
 
 > [!definition] **Learned Optimism**
-> Learned Optimism is a cognitive-behavioral framework developed by Martin Seligman that characterizes optimism and pessimism as learned explanatory styles — habitual ways of explaining good and bad events along three dimensions (permanence, pervasiveness, personalization) — and demonstrates that pessimistic explanatory style can be modified through cognitive techniques. It falls under [[Cognitive Architecture]], placing it on the same methodological footing as cognitive therapy for depression.
+> Learned Optimism is a cognitive-behavioral framework developed by Martin Seligman that characterizes optimism and pessimism as learned explanatory styles — habitual ways of explaining good and bad events along three dimensions (permanence, pervasiveness, personalization) — and demonstrates that pessimistic explanatory style can be modified through cognitive techniques. It falls under [[cognitive-architecture]], placing it on the same methodological footing as cognitive therapy for depression.
 
 > [!attention] **Boundary**
 > This concept focuses on the modification of explanatory styles related to optimism and pessimism, excluding broader discussions on personality or specific clinical diagnoses.
@@ -134,9 +134,9 @@ The integration of Learned Optimism into diverse settings like education, mental
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Explanatory Style]]
+**Sibling concepts:** [[explanatory-style]]
 
 **Contrasts with:** [[Cognitive Therapy for Depression]]
 

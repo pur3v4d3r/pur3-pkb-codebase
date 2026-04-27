@@ -36,7 +36,7 @@ depth-level: elaborated
 parent-concept: "Achievement Goal Theory"
 
 related:
-  - "[[Implicit Theory of Intelligence]]"
+  - "[[implicit-theory-of-intelligence]]"
   - "[[attribution-theory]]"
   - "[[self-efficacy-theory]]"
 prerequisites:
@@ -48,7 +48,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Implicit Theory of Intelligence]]"
+  - "[[implicit-theory-of-intelligence]]"
   - "[[attribution-theory]]"
 contradicts:
   - "[[]]"
@@ -141,7 +141,7 @@ This theory also intersects with other motivational theories like implicit theor
 
 **Falls under:** [[achievement-goal-theory]]
 
-**Contrasts with:** [[Implicit Theory of Intelligence]] · [[attribution-theory]]
+**Contrasts with:** [[implicit-theory-of-intelligence]] · [[attribution-theory]]
 
 **Applies to:** [[self-efficacy-theory]]
 

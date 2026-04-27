@@ -2,6 +2,7 @@
 title: "Free Energy Principle"
 aliases:
   - "Free Energy Principle"
+  - "Free-Energy Principle"
   - "FEP"
   - "Friston free energy principle"
   - "variational free energy"
@@ -34,17 +35,17 @@ depth-level: elaborated
 parent-concept: "Predictive Processing"
 
 related:
-  - "[[Active Inference]]"
-  - "[[Predictive Coding]]"
+  - "[[active-inference]]"
+  - "[[predictive-coding]]"
   - "[[Bayesian Brain Model]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[Active Inference]]"
+  - "[[active-inference]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Predictive Coding]]"
+  - "[[predictive-coding]]"
 contrasts-with:
   - "[[Bayesian Brain Model]]"
 contradicts:
@@ -74,7 +75,7 @@ provenance:
 # Free Energy Principle
 
 > [!definition] **Free Energy Principle**
-> The Free Energy Principle (FEP) is a theoretical framework proposed by Karl Friston that posits self-organizing systems minimize variational free energy to predict and adapt to their environment, thereby reducing surprise from sensory inputs. It falls under [[Predictive Processing]], where the brain's function can be understood as minimizing this energy to achieve stable perception, action, and learning.
+> The Free Energy Principle (FEP) is a theoretical framework proposed by Karl Friston that posits self-organizing systems minimize variational free energy to predict and adapt to their environment, thereby reducing surprise from sensory inputs. It falls under [[predictive-processing]], where the brain's function can be understood as minimizing this energy to achieve stable perception, action, and learning.
 
 > [!attention] **Boundary**
 > This principle focuses on the minimization of variational free energy in self-organizing systems. It does not cover specific applications or detailed mechanisms outside this core concept.
@@ -136,11 +137,11 @@ This principle challenges traditional views by proposing that the brain's primar
 
 ## Connections & Context
 
-**Falls under:** [[Predictive Processing]]
+**Falls under:** [[predictive-processing]]
 
-**Specializes:** [[Active Inference]]
+**Specializes:** [[active-inference]]
 
-**Sibling concepts:** [[Predictive Coding]]
+**Sibling concepts:** [[predictive-coding]]
 
 **Contrasts with:** [[Bayesian Brain Model]]
 

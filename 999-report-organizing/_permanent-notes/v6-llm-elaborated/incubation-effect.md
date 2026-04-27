@@ -31,9 +31,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Insight Problem-Solving]]"
-  - "[[Mind-Wandering]]"
-  - "[[Default-Mode Network]]"
+  - "[[insight-problem-solving]]"
+  - "[[mind-wandering]]"
+  - "[[default-mode-network]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -41,13 +41,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Insight Problem-Solving]]"
+  - "[[insight-problem-solving]]"
 contrasts-with:
-  - "[[Mind-Wandering]]"
+  - "[[mind-wandering]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Default-Mode Network]]"
+  - "[[default-mode-network]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -71,7 +71,7 @@ provenance:
 # Incubation Effect
 
 > [!definition] **Incubation Effect**
-> The Incubation Effect is the phenomenon where setting aside a problem for an interval of time, often engaging in unrelated activities or sleep, increases the likelihood of finding a solution upon return compared to continuous work on the problem. It falls under [[Cognitive Architecture]], as it involves non-conscious cognitive processes such as spreading activation and opportunistic assimilation triggered by environmental cues.
+> The Incubation Effect is the phenomenon where setting aside a problem for an interval of time, often engaging in unrelated activities or sleep, increases the likelihood of finding a solution upon return compared to continuous work on the problem. It falls under [[cognitive-architecture]], as it involves non-conscious cognitive processes such as spreading activation and opportunistic assimilation triggered by environmental cues.
 
 > [!attention] **Boundary**
 > This concept excludes the idea that the brain merely 'rests' during this period; instead, it involves non-conscious cognitive processes such as spreading activation and opportunistic assimilation triggered by environmental cues.
@@ -130,12 +130,12 @@ The Incubation Effect is closely related to other cognitive phenomena such as in
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Insight Problem-Solving]]
+**Sibling concepts:** [[insight-problem-solving]]
 
-**Contrasts with:** [[Mind-Wandering]]
+**Contrasts with:** [[mind-wandering]]
 
-**Applies to:** [[Default-Mode Network]]
+**Applies to:** [[default-mode-network]]
 
 **Source:** [[incubation-effect-synthetic-seed-2026-04-25]]

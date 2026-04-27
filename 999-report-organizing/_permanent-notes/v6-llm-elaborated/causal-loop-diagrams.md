@@ -32,11 +32,11 @@ depth-level: elaborated
 parent-concept: "System Dynamics"
 
 related:
-  - "[[Feedback Loops]]"
+  - "[[feedback-loops]]"
   - "[[Stock-and-Flow Diagrams]]"
-  - "[[Leverage Points]]"
+  - "[[leverage-points]]"
 prerequisites:
-  - "[[Feedback Loops]]"
+  - "[[feedback-loops]]"
 specializes:
   - "[[]]"
 broader:
@@ -49,7 +49,7 @@ contradicts:
   - "[[]]"
 applies-to:
   - "[[Stock-and-Flow Diagrams]]"
-  - "[[Leverage Points]]"
+  - "[[leverage-points]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -132,8 +132,8 @@ The concept's significance extends beyond its immediate applications; it also se
 
 **Falls under:** [[System Dynamics]]
 
-**Prerequisites:** [[Feedback Loops]]
+**Prerequisites:** [[feedback-loops]]
 
-**Applies to:** [[Stock-and-Flow Diagrams]] · [[Leverage Points]]
+**Applies to:** [[Stock-and-Flow Diagrams]] · [[leverage-points]]
 
 **Source:** [[causal-loop-diagrams-synthetic-seed-2026-04-25]]

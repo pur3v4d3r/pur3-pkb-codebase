@@ -32,10 +32,10 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Dual-Process Theory]]"
+  - "[[working-memory]]"
+  - "[[dual-process-theory]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
@@ -53,7 +53,7 @@ formalizes:
 instance-of:
   - "[[]]"
 supports:
-  - "[[Dual-Process Theory]]"
+  - "[[dual-process-theory]]"
 refines:
   - "[[]]"
 
@@ -71,7 +71,7 @@ provenance:
 # Recognition Memory
 
 > [!definition] **Recognition Memory**
-> Recognition Memory refers to the ability to identify previously encountered items as familiar when re-presented among distractors, often assessed through recognition tests. It falls under [[Cognitive Architecture]], where it is widely modelled as the joint output of a fast familiarity signal and a slower recollective retrieval process.
+> Recognition Memory refers to the ability to identify previously encountered items as familiar when re-presented among distractors, often assessed through recognition tests. It falls under [[cognitive-architecture]], where it is widely modelled as the joint output of a fast familiarity signal and a slower recollective retrieval process.
 
 > [!attention] **Boundary**
 > It excludes processes like free recall or cued recall, which involve retrieving information without cues or from memory alone.
@@ -130,10 +130,10 @@ The relationship between Recognition Memory and Working Memory is particularly r
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Supports:** [[Dual-Process Theory]]
+**Supports:** [[dual-process-theory]]
 
 **Source:** [[recognition-memory-synthetic-seed-2026-04-25]]

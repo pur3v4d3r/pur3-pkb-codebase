@@ -34,8 +34,8 @@ related:
   - "[[Randomized Controlled Trial]]"
   - "[[Design-Based Research]]"
   - "[[Qualitative Research]]"
-  - "[[Learning Analytics]]"
-  - "[[Educational Assessment]]"
+  - "[[learning-analytics]]"
+  - "[[educational-assessment]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -51,8 +51,8 @@ contradicts:
   - "[[]]"
 applies-to:
   - "[[Qualitative Research]]"
-  - "[[Learning Analytics]]"
-  - "[[Educational Assessment]]"
+  - "[[learning-analytics]]"
+  - "[[educational-assessment]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -76,7 +76,7 @@ provenance:
 # Research Methods In Education
 
 > [!definition] **Research Methods In Education**
-> Research Methods In Education encompasses the methodologies used to test educational claims, including randomized controlled trials (RCTs), quasi-experiments, design-based research (DBR), qualitative studies, and large-scale observational studies. It falls under [[Educational Psychology]], addressing unique challenges such as non-random assignment and intervention fidelity that are rarely encountered in other fields like medicine or natural sciences.
+> Research Methods In Education encompasses the methodologies used to test educational claims, including randomized controlled trials (RCTs), quasi-experiments, design-based research (DBR), qualitative studies, and large-scale observational studies. It falls under [[educational-psychology]], addressing unique challenges such as non-random assignment and intervention fidelity that are rarely encountered in other fields like medicine or natural sciences.
 
 > [!attention] **Boundary**
 > It excludes methods primarily used in other fields such as medicine (e.g., double-blind placebo-controlled trials) or those specific to natural sciences (e.g., laboratory experiments).
@@ -132,10 +132,10 @@ The integration of RCTs, quasi-experiments, DBR, qualitative studies, and large-
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
 **Specializes:** [[Randomized Controlled Trial]] · [[Design-Based Research]]
 
-**Applies to:** [[Qualitative Research]] · [[Learning Analytics]] · [[Educational Assessment]]
+**Applies to:** [[Qualitative Research]] · [[learning-analytics]] · [[educational-assessment]]
 
 **Source:** [[research-methods-in-education-synthetic-seed-2026-04-25]]

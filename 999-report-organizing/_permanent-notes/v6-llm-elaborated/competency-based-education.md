@@ -33,7 +33,7 @@ depth-level: elaborated
 parent-concept: "Mastery-Based Education"
 
 related:
-  - "[[Mastery Learning]]"
+  - "[[mastery-learning]]"
   - "[[Outcomes-Based Education]]"
   - "[[Micro-Credentialing]]"
 prerequisites:
@@ -43,7 +43,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Mastery Learning]]"
+  - "[[mastery-learning]]"
 contrasts-with:
   - "[[Outcomes-Based Education]]"
 contradicts:
@@ -134,7 +134,7 @@ CBE also intersects meaningfully with other forms of mastery-based education suc
 
 **Falls under:** [[Mastery-Based Education]]
 
-**Sibling concepts:** [[Mastery Learning]]
+**Sibling concepts:** [[mastery-learning]]
 
 **Contrasts with:** [[Outcomes-Based Education]]
 

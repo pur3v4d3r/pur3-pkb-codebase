@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Motivational Design"
 
 related:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Extrinsic Rewards]]"
-  - "[[Game-Based Learning]]"
+  - "[[game-based-learning]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +45,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
+  - "[[intrinsic-motivation]]"
   - "[[Extrinsic Rewards]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Game-Based Learning]]"
+  - "[[game-based-learning]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -135,8 +135,8 @@ Gamification intersects with other motivational techniques like game-based learn
 
 **Falls under:** [[Motivational Design]]
 
-**Contrasts with:** [[Intrinsic Motivation]] · [[Extrinsic Rewards]]
+**Contrasts with:** [[intrinsic-motivation]] · [[Extrinsic Rewards]]
 
-**Applies to:** [[Game-Based Learning]]
+**Applies to:** [[game-based-learning]]
 
 **Source:** [[gamification-synthetic-seed-2026-04-26]]

@@ -36,7 +36,7 @@ related:
   - "[[PARA Methodology]]"
   - "[[Building a Second Brain]]"
   - "[[GTD Method]]"
-  - "[[Evergreen Notes]]"
+  - "[[evergreen-notes]]"
   - "[[Digital Gardens]]"
 prerequisites:
   - "[[]]"
@@ -49,7 +49,7 @@ see-also:
   - "[[PARA Methodology]]"
   - "[[Building a Second Brain]]"
   - "[[GTD Method]]"
-  - "[[Evergreen Notes]]"
+  - "[[evergreen-notes]]"
   - "[[Digital Gardens]]"
 contrasts-with:
   - "[[]]"
@@ -80,7 +80,7 @@ provenance:
 # Note Taking Systems Comparison
 
 > [!definition] **Note Taking Systems Comparison**
-> Note Taking Systems Comparison is the practitioner-oriented analysis of how major contemporary PKM frameworks — Zettelkasten/slip-box, PARA, Building a Second Brain, GTD, evergreen notes, and digital gardens — differ in their emphasis on capture, organization, distillation, retrieval, and creative output. It falls under [[Personal Knowledge Management]], where the goal is to understand which framework best fits specific user purposes such as academic research, project execution, public publishing, or lifelong learning.
+> Note Taking Systems Comparison is the practitioner-oriented analysis of how major contemporary PKM frameworks — Zettelkasten/slip-box, PARA, Building a Second Brain, GTD, evergreen notes, and digital gardens — differ in their emphasis on capture, organization, distillation, retrieval, and creative output. It falls under [[personal-knowledge-management]], where the goal is to understand which framework best fits specific user purposes such as academic research, project execution, public publishing, or lifelong learning.
 
 > [!attention] **Boundary**
 > This concept focuses specifically on PKM systems and does not include broader cognitive or educational theories unless directly related to these systems.
@@ -147,8 +147,8 @@ This concept also has broader implications for fields such as instructional desi
 
 ## Connections & Context
 
-**Falls under:** [[Personal Knowledge Management]]
+**Falls under:** [[personal-knowledge-management]]
 
-**Sibling concepts:** [[Zettelkasten Method]] · [[PARA Methodology]] · [[Building a Second Brain]] · [[GTD Method]] · [[Evergreen Notes]] · [[Digital Gardens]]
+**Sibling concepts:** [[Zettelkasten Method]] · [[PARA Methodology]] · [[Building a Second Brain]] · [[GTD Method]] · [[evergreen-notes]] · [[Digital Gardens]]
 
 **Source:** [[note-taking-systems-comparison-synthetic-seed-2026-04-25]]

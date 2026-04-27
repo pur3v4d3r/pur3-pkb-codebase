@@ -2,6 +2,7 @@
 title: "Default Mode Network"
 aliases:
   - "Default Mode Network"
+  - "Default-Mode Network"
   - "DMN"
   - "default network"
 type: permanent-note
@@ -33,9 +34,9 @@ depth-level: elaborated
 parent-concept: "Large-Scale Brain Networks"
 
 related:
-  - "[[Salience Network]]"
-  - "[[Executive Attention Network]]"
-  - "[[Autobiographical Memory]]"
+  - "[[salience-network]]"
+  - "[[executive-attention-network]]"
+  - "[[autobiographical-memory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -45,12 +46,12 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Salience Network]]"
-  - "[[Executive Attention Network]]"
+  - "[[salience-network]]"
+  - "[[executive-attention-network]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Autobiographical Memory]]"
+  - "[[autobiographical-memory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -138,8 +139,8 @@ The DMN's role extends beyond just rest periods; it is integral to social cognit
 
 **Falls under:** [[Large-Scale Brain Networks]]
 
-**Contrasts with:** [[Salience Network]] · [[Executive Attention Network]]
+**Contrasts with:** [[salience-network]] · [[executive-attention-network]]
 
-**Applies to:** [[Autobiographical Memory]]
+**Applies to:** [[autobiographical-memory]]
 
 **Source:** [[default-mode-network-synthetic-seed-2026-04-25]]

@@ -33,8 +33,8 @@ parent-concept: ""
 
 related:
   - "[[Gettier Cases]]"
-  - "[[Reliabilism]]"
-  - "[[Coherentism]]"
+  - "[[reliabilism]]"
+  - "[[coherentism]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,8 +46,8 @@ see-also:
 contrasts-with:
   - "[[Gettier Cases]]"
 contradicts:
-  - "[[Reliabilism]]"
-  - "[[Coherentism]]"
+  - "[[reliabilism]]"
+  - "[[coherentism]]"
 applies-to:
   - "[[]]"
 formalizes:
@@ -73,7 +73,7 @@ provenance:
 # Justified True Belief
 
 > [!definition] **Justified True Belief**
-> Justified True Belief (JTB) is a classical analysis of knowledge that holds a subject S knows that p if and only if (1) p is true, (2) S believes p, and (3) S is justified in believing p. This framework falls under [[Epistemology]], where the three conditions are jointly sufficient as well as severally necessary for knowledge, though it has been decisively challenged by Gettier cases.
+> Justified True Belief (JTB) is a classical analysis of knowledge that holds a subject S knows that p if and only if (1) p is true, (2) S believes p, and (3) S is justified in believing p. This framework falls under [[epistemology]], where the three conditions are jointly sufficient as well as severally necessary for knowledge, though it has been decisively challenged by Gettier cases.
 
 > [!attention] **Boundary**
 > This concept excludes discussions about the nature of justification beyond the JTB framework and does not address alternative theories of knowledge such as reliabilism or coherentism.
@@ -131,6 +131,6 @@ The concept of JTB also intersects with broader epistemological debates, particu
 
 **Contrasts with:** [[Gettier Cases]]
 
-**Contradicts:** [[Reliabilism]] · [[Coherentism]]
+**Contradicts:** [[reliabilism]] · [[coherentism]]
 
 **Source:** [[justified-true-belief-synthetic-seed-2026-04-25]]

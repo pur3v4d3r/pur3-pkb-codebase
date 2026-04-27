@@ -34,8 +34,8 @@ parent-concept: "Metacognition"
 
 related:
   - "[[Judgment of Learning (JOL)]]"
-  - "[[Tip-of-the-Tongue Phenomenon]]"
-  - "[[Cue Utilization Framework]]"
+  - "[[tip-of-the-tongue-phenomenon]]"
+  - "[[cue-utilization-framework]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -46,11 +46,11 @@ see-also:
   - "[[]]"
 contrasts-with:
   - "[[Judgment of Learning (JOL)]]"
-  - "[[Tip-of-the-Tongue Phenomenon]]"
+  - "[[tip-of-the-tongue-phenomenon]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cue Utilization Framework]]"
+  - "[[cue-utilization-framework]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Feeling of Knowing FOK
 
 > [!definition] **Feeling of Knowing FOK**
-> The Feeling of Knowing (FOK) is a metacognitive judgment that an unrecalled item is stored in memory and would be recognized if presented, distinguishing it from genuine retrieval failure. It falls under [[Metacognition]], as it involves self-assessment of one's knowledge state without direct inspection of the memory trace.
+> The Feeling of Knowing (FOK) is a metacognitive judgment that an unrecalled item is stored in memory and would be recognized if presented, distinguishing it from genuine retrieval failure. It falls under [[metacognition]], as it involves self-assessment of one's knowledge state without direct inspection of the memory trace.
 
 > [!attention] **Boundary**
 > This concept excludes direct inspection of the memory trace and focuses on heuristic judgments based on cue familiarity and partial information accessibility.
@@ -133,10 +133,10 @@ FOK also has implications for broader metacognitive processes, including judgmen
 
 ## Connections & Context
 
-**Falls under:** [[Metacognition]]
+**Falls under:** [[metacognition]]
 
-**Contrasts with:** [[Judgment of Learning (JOL)]] · [[Tip-of-the-Tongue Phenomenon]]
+**Contrasts with:** [[Judgment of Learning (JOL)]] · [[tip-of-the-tongue-phenomenon]]
 
-**Applies to:** [[Cue Utilization Framework]]
+**Applies to:** [[cue-utilization-framework]]
 
 **Source:** [[feeling-of-knowing-fok-synthetic-seed-2026-04-25]]

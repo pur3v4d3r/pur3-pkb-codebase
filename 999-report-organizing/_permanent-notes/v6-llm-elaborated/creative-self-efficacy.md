@@ -31,20 +31,20 @@ depth-level: elaborated
 parent-concept: "Self-Efficacy"
 
 related:
-  - "[[Self-Efficacy]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Growth Mindset]]"
+  - "[[self-efficacy]]"
+  - "[[intrinsic-motivation]]"
+  - "[[growth-mindset]]"
 prerequisites:
   - "[[]]"
 specializes:
   - "[[]]"
 broader:
-  - "[[Self-Efficacy]]"
+  - "[[self-efficacy]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Intrinsic Motivation]]"
-  - "[[Growth Mindset]]"
+  - "[[intrinsic-motivation]]"
+  - "[[growth-mindset]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -72,7 +72,7 @@ provenance:
 # Creative Self Efficacy
 
 > [!definition] **Creative Self Efficacy**
-> Creative Self Efficacy refers to an individual's belief in their ability to produce creative outcomes within a specific domain, distinct from generalized self-efficacy. It falls under [[Self-Efficacy]], as it is the instantiation of Bandura's broader self-efficacy construct specifically for creativity.
+> Creative Self Efficacy refers to an individual's belief in their ability to produce creative outcomes within a specific domain, distinct from generalized self-efficacy. It falls under [[self-efficacy]], as it is the instantiation of Bandura's broader self-efficacy construct specifically for creativity.
 
 > [!attention] **Boundary**
 > It is the instantiation of Bandura's self-efficacy construct specifically for creativity and does not encompass other aspects like intrinsic motivation or growth mindset.
@@ -138,10 +138,10 @@ Empirical evidence supports the role of Creative Self Efficacy in predicting cre
 
 ## Connections & Context
 
-**Falls under:** [[Self-Efficacy]]
+**Falls under:** [[self-efficacy]]
 
-**Generalizes to:** [[Self-Efficacy]]
+**Generalizes to:** [[self-efficacy]]
 
-**Contrasts with:** [[Intrinsic Motivation]] · [[Growth Mindset]]
+**Contrasts with:** [[intrinsic-motivation]] · [[growth-mindset]]
 
 **Source:** [[creative-self-efficacy-synthetic-seed-2026-04-25]]

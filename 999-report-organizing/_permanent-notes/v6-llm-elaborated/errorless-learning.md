@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Instructional Method"
 
 related:
-  - "[[Productive Failure]]"
-  - "[[Retrieval Practice]]"
+  - "[[productive-failure]]"
+  - "[[retrieval-practice]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Productive Failure]]"
+  - "[[productive-failure]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Retrieval Practice]]"
+  - "[[retrieval-practice]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -133,8 +133,8 @@ The application of Errorless Learning has broader implications across learning s
 
 **Falls under:** [[Instructional Method]]
 
-**Contrasts with:** [[Productive Failure]]
+**Contrasts with:** [[productive-failure]]
 
-**Applies to:** [[Retrieval Practice]]
+**Applies to:** [[retrieval-practice]]
 
 **Source:** [[errorless-learning-synthetic-seed-2026-04-26]]

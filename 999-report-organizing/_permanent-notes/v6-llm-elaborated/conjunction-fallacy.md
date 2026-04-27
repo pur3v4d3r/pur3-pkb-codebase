@@ -32,11 +32,11 @@ depth-level: elaborated
 parent-concept: "Cognitive Bias"
 
 related:
-  - "[[Representativeness Heuristic]]"
-  - "[[Base-Rate Neglect]]"
-  - "[[Probability Judgment]]"
+  - "[[representativeness-heuristic]]"
+  - "[[base-rate-neglect]]"
+  - "[[probability-judgment]]"
 prerequisites:
-  - "[[Representativeness Heuristic]]"
+  - "[[representativeness-heuristic]]"
 specializes:
   - "[[]]"
 broader:
@@ -44,11 +44,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Base-Rate Neglect]]"
+  - "[[base-rate-neglect]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Probability Judgment]]"
+  - "[[probability-judgment]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +72,7 @@ provenance:
 # Conjunction Fallacy
 
 > [!definition] **Conjunction Fallacy**
-> The Conjunction Fallacy is the error of judging a specific event 'A and B' as more probable than a general one 'A', violating basic probability rules. It falls under [[Cognitive Bias]], demonstrating that intuitive probability judgments are dominated by representativeness — how well a description fits a stereotype — rather than by extensional logic, and the bias persists despite explicit training in elementary probability.
+> The Conjunction Fallacy is the error of judging a specific event 'A and B' as more probable than a general one 'A', violating basic probability rules. It falls under [[cognitive-bias]], demonstrating that intuitive probability judgments are dominated by representativeness — how well a description fits a stereotype — rather than by extensional logic, and the bias persists despite explicit training in elementary probability.
 
 > [!attention] **Boundary**
 > This concept excludes other types of reasoning errors or biases that do not involve misjudging probabilities in this specific way.
@@ -135,12 +135,12 @@ Empirical evidence supports the persistence of the Conjunction Fallacy despite e
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Bias]]
+**Falls under:** [[cognitive-bias]]
 
-**Prerequisites:** [[Representativeness Heuristic]]
+**Prerequisites:** [[representativeness-heuristic]]
 
-**Contrasts with:** [[Base-Rate Neglect]]
+**Contrasts with:** [[base-rate-neglect]]
 
-**Applies to:** [[Probability Judgment]]
+**Applies to:** [[probability-judgment]]
 
 **Source:** [[conjunction-fallacy-synthetic-seed-2026-04-26]]

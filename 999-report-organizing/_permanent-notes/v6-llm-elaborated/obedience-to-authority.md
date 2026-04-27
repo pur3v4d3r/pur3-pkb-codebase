@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Social Influence"
 
 related:
-  - "[[Conformity]]"
-  - "[[Deindividuation]]"
+  - "[[conformity]]"
+  - "[[deindividuation]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,9 +42,9 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Conformity]]"
+  - "[[conformity]]"
 contrasts-with:
-  - "[[Deindividuation]]"
+  - "[[deindividuation]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -133,8 +133,8 @@ By recognizing the mechanisms of obedience to Authority, researchers and practit
 
 **Falls under:** [[Social Influence]]
 
-**Sibling concepts:** [[Conformity]]
+**Sibling concepts:** [[conformity]]
 
-**Contrasts with:** [[Deindividuation]]
+**Contrasts with:** [[deindividuation]]
 
 **Source:** [[obedience-to-authority-synthetic-seed-2026-04-26]]

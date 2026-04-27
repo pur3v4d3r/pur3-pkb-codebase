@@ -31,8 +31,8 @@ depth-level: elaborated
 parent-concept: "Educational Psychology"
 
 related:
-  - "[[Constructivism]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[constructivism]]"
+  - "[[cognitive-load-theory]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -42,11 +42,11 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Constructivism]]"
+  - "[[constructivism]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Cognitive Load Theory]]"
+  - "[[cognitive-load-theory]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -70,7 +70,7 @@ provenance:
 # Evolutionary Educational Psychology
 
 > [!definition] **Evolutionary Educational Psychology**
-> Evolutionary Educational Psychology is a theoretical framework that distinguishes between biologically primary and secondary knowledge, suggesting specific teaching methods based on the nature of the content. It falls under [[Educational Psychology]], providing a rationale for explicit instruction in formal academic subjects: because these are evolutionarily novel, they require deliberate pedagogical intervention to be effectively acquired.
+> Evolutionary Educational Psychology is a theoretical framework that distinguishes between biologically primary and secondary knowledge, suggesting specific teaching methods based on the nature of the content. It falls under [[educational-psychology]], providing a rationale for explicit instruction in formal academic subjects: because these are evolutionarily novel, they require deliberate pedagogical intervention to be effectively acquired.
 
 > [!attention] **Boundary**
 > It focuses specifically on the acquisition of knowledge types rather than broader educational practices or cognitive processes like memory or attention.
@@ -129,10 +129,10 @@ The framework's emphasis on structured instruction for secondary knowledge align
 
 ## Connections & Context
 
-**Falls under:** [[Educational Psychology]]
+**Falls under:** [[educational-psychology]]
 
-**Contrasts with:** [[Constructivism]]
+**Contrasts with:** [[constructivism]]
 
-**Applies to:** [[Cognitive Load Theory]]
+**Applies to:** [[cognitive-load-theory]]
 
 **Source:** [[evolutionary-educational-psychology-synthetic-seed-2026-04-25]]

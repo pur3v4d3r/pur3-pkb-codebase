@@ -73,7 +73,7 @@ provenance:
 # Erikson's Psychosocial Stages
 
 > [!definition] **Erikson's Psychosocial Stages**
-> Erikson's Psychosocial Stages is an eight-stage model proposing that personality develops through a series of normative crises, each defined by a tension whose resolution shapes ego strength and occurs across the entire lifespan. It falls under [[Lifespan Development]], extending beyond adolescence to address identity formation in cultural contexts.
+> Erikson's Psychosocial Stages is an eight-stage model proposing that personality develops through a series of normative crises, each defined by a tension whose resolution shapes ego strength and occurs across the entire lifespan. It falls under [[lifespan-development]], extending beyond adolescence to address identity formation in cultural contexts.
 
 > [!attention] **Boundary**
 > This model focuses on psychosocial development but does not address physical or cognitive development in detail. It also does not cover all aspects of identity formation beyond adolescence.
@@ -132,7 +132,7 @@ The concept also underscores the need for culturally sensitive approaches in edu
 
 ## Connections & Context
 
-**Falls under:** [[Lifespan Development]]
+**Falls under:** [[lifespan-development]]
 
 **Sibling concepts:** [[Generativity]]
 

@@ -74,7 +74,7 @@ provenance:
 # Behaviorism
 
 > [!definition] **Behaviorism**
-> Behaviorism is a school of psychology that restricts psychological science to observable behavior and environmental stimuli, responses, and reinforcements, excluding mental states from explanation. It falls under [[Cognitive Architecture]], focusing on external behaviors and their environmental determinants while methodologically bracketing internal mental processes.
+> Behaviorism is a school of psychology that restricts psychological science to observable behavior and environmental stimuli, responses, and reinforcements, excluding mental states from explanation. It falls under [[cognitive-architecture]], focusing on external behaviors and their environmental determinants while methodologically bracketing internal mental processes.
 
 > [!attention] **Boundary**
 > It excludes internal mental processes such as thoughts and feelings, focusing solely on external behaviors and their environmental determinants.
@@ -165,7 +165,7 @@ Behaviorism's legacy persists not through its exclusion of mental states but thr
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Sibling concepts:** [[Classical Conditioning]] · [[Operant Conditioning]]
 

@@ -34,21 +34,21 @@ depth-level: elaborated
 parent-concept: ""
 
 related:
-  - "[[PERMA Model]]"
+  - "[[perma-model]]"
   - "[[Ryff's Six-Factor Model of Psychological Well-Being]]"
-  - "[[Eudaimonia]]"
+  - "[[eudaimonia]]"
   - "[[Hedonic Well-Being]]"
 prerequisites:
   - "[[]]"
 specializes:
-  - "[[PERMA Model]]"
+  - "[[perma-model]]"
   - "[[Ryff's Six-Factor Model of Psychological Well-Being]]"
 broader:
   - "[[]]"
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Eudaimonia]]"
+  - "[[eudaimonia]]"
   - "[[Hedonic Well-Being]]"
 contradicts:
   - "[[]]"
@@ -137,8 +137,8 @@ The PERMA model and Ryff's six-factor model offer distinct yet complementary way
 
 ## Connections & Context
 
-**Specializes:** [[PERMA Model]] · [[Ryff's Six-Factor Model of Psychological Well-Being]]
+**Specializes:** [[perma-model]] · [[Ryff's Six-Factor Model of Psychological Well-Being]]
 
-**Contrasts with:** [[Eudaimonia]] · [[Hedonic Well-Being]]
+**Contrasts with:** [[eudaimonia]] · [[Hedonic Well-Being]]
 
 **Source:** [[psychological-flourishing-synthetic-seed-2026-04-25]]

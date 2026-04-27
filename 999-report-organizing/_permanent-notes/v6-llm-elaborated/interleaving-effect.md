@@ -34,7 +34,7 @@ parent-concept: "Learning Strategies"
 
 related:
   - "[[desirable-difficulties]]"
-  - "[[Blocked Practice]]"
+  - "[[blocked-practice]]"
   - "[[spacing-effect]]"
 prerequisites:
   - "[[]]"
@@ -45,7 +45,7 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Blocked Practice]]"
+  - "[[blocked-practice]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -136,7 +136,7 @@ The Interleaving Effect is particularly valuable for tasks that require recogniz
 
 **Generalizes to:** [[desirable-difficulties]]
 
-**Contrasts with:** [[Blocked Practice]]
+**Contrasts with:** [[blocked-practice]]
 
 **Applies to:** [[spacing-effect]]
 

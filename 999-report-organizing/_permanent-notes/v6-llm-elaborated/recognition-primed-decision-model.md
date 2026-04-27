@@ -2,6 +2,7 @@
 title: "Recognition Primed Decision Model"
 aliases:
   - "Recognition Primed Decision Model"
+  - "Recognition-Primed Decision Model"
   - "RPD model"
 type: permanent-note
 status: enriched
@@ -33,8 +34,8 @@ parent-concept: "Cognitive Architecture"
 
 related:
   - "[[Expertise]]"
-  - "[[Naturalistic Decision Making]]"
-  - "[[Mental Simulation]]"
+  - "[[naturalistic-decision-making]]"
+  - "[[mental-simulation]]"
 prerequisites:
   - "[[Expertise]]"
 specializes:
@@ -42,13 +43,13 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Naturalistic Decision Making]]"
+  - "[[naturalistic-decision-making]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Mental Simulation]]"
+  - "[[mental-simulation]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -72,7 +73,7 @@ provenance:
 # Recognition Primed Decision Model
 
 > [!definition] **Recognition Primed Decision Model**
-> The Recognition Primed Decision Model (RPD), developed by Gary Klein, is an account of how experts make rapid decisions in time-pressured, ambiguous, high-stakes settings — through recognition of the situation as a typical case, retrieval of an associated course of action, and mental simulation of that action's likely outcome before commitment. It falls under [[Cognitive Architecture]], where it complements theories on expert decision-making by showing how experts compress option-comparison into pattern-matching against a vast library of cases, validating their first candidate via mental simulation.
+> The Recognition Primed Decision Model (RPD), developed by Gary Klein, is an account of how experts make rapid decisions in time-pressured, ambiguous, high-stakes settings — through recognition of the situation as a typical case, retrieval of an associated course of action, and mental simulation of that action's likely outcome before commitment. It falls under [[cognitive-architecture]], where it complements theories on expert decision-making by showing how experts compress option-comparison into pattern-matching against a vast library of cases, validating their first candidate via mental simulation.
 
 > [!attention] **Boundary**
 > This model focuses on expert decision-making in time-pressured, ambiguous settings; it does not apply to low-validity environments where pattern-matching can lead to unreliable judgments.
@@ -131,12 +132,12 @@ RPD also informs our broader understanding of decision-making by highlighting th
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
 **Prerequisites:** [[Expertise]]
 
-**Sibling concepts:** [[Naturalistic Decision Making]]
+**Sibling concepts:** [[naturalistic-decision-making]]
 
-**Applies to:** [[Mental Simulation]]
+**Applies to:** [[mental-simulation]]
 
 **Source:** [[recognition-primed-decision-model-synthetic-seed-2026-04-25]]

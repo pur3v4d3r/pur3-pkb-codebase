@@ -33,23 +33,23 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Working Memory]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Worked Examples]]"
+  - "[[working-memory]]"
+  - "[[self-regulated-learning]]"
+  - "[[worked-examples]]"
 prerequisites:
-  - "[[Working Memory]]"
+  - "[[working-memory]]"
 specializes:
   - "[[]]"
 broader:
   - "[[]]"
 see-also:
-  - "[[Self-Regulated Learning]]"
+  - "[[self-regulated-learning]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Worked Examples]]"
+  - "[[worked-examples]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Strategy Instruction
 
 > [!definition] **Strategy Instruction**
-> Strategy Instruction involves the explicit teaching of cognitive and metacognitive learning strategies — summarization, self-questioning, elaborative interrogation, planning, monitoring, evaluating — together with the conditional knowledge of when and why to apply each one, so that learners can deploy the strategies on their own across tasks. It falls under [[Cognitive Architecture]], as it enhances how information is processed and retained in working memory.
+> Strategy Instruction involves the explicit teaching of cognitive and metacognitive learning strategies — summarization, self-questioning, elaborative interrogation, planning, monitoring, evaluating — together with the conditional knowledge of when and why to apply each one, so that learners can deploy the strategies on their own across tasks. It falls under [[cognitive-architecture]], as it enhances how information is processed and retained in working memory.
 
 > [!attention] **Boundary**
 > This includes summarization, self-questioning, elaborative interrogation, planning, monitoring, evaluating, and their application contexts. It excludes mere procedural instruction without conditional knowledge.
@@ -123,18 +123,18 @@ Strategy Instruction works through a step-by-step process: first, teachers model
 
 ## Synthesis
 
-Strategy Instruction matters because it provides a framework for enhancing learning efficiency by equipping students with both cognitive tools and metacognitive skills. By integrating these strategies, educators can support deeper understanding and more flexible application of knowledge. This aligns well with the goals of [[Self-Regulated Learning]], which also emphasizes learner autonomy and strategic thinking.
+Strategy Instruction matters because it provides a framework for enhancing learning efficiency by equipping students with both cognitive tools and metacognitive skills. By integrating these strategies, educators can support deeper understanding and more flexible application of knowledge. This aligns well with the goals of [[self-regulated-learning]], which also emphasizes learner autonomy and strategic thinking.
 
 Moreover, Strategy Instruction builds on the principles of working memory capacity, as it helps manage cognitive load effectively. When combined with worked examples, it can further enhance learning by providing concrete models for strategy application.
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Prerequisites:** [[Working Memory]]
+**Prerequisites:** [[working-memory]]
 
-**Sibling concepts:** [[Self-Regulated Learning]]
+**Sibling concepts:** [[self-regulated-learning]]
 
-**Applies to:** [[Worked Examples]]
+**Applies to:** [[worked-examples]]
 
 **Source:** [[strategy-instruction-synthetic-seed-2026-04-25]]

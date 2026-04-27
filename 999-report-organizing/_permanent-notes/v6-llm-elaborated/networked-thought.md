@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Cognitive Architecture"
 
 related:
-  - "[[Bi-directional Linking]]"
-  - "[[Zettelkasten]]"
-  - "[[Knowledge Graph]]"
+  - "[[bi-directional-linking]]"
+  - "[[zettelkasten]]"
+  - "[[knowledge-graph]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,14 +43,14 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Bi-directional Linking]]"
-  - "[[Zettelkasten]]"
+  - "[[bi-directional-linking]]"
+  - "[[zettelkasten]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Knowledge Graph]]"
+  - "[[knowledge-graph]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -74,7 +74,7 @@ provenance:
 # Networked Thought
 
 > [!definition] **Networked Thought**
-> Networked Thought is a model of thinking where ideas are treated as nodes in an associative graph rather than a hierarchical structure, designed to enhance cognitive processes through externalized and interconnected knowledge storage. It falls under [[Cognitive Architecture]], focusing on associative relationships between ideas while excluding traditional hierarchical models.
+> Networked Thought is a model of thinking where ideas are treated as nodes in an associative graph rather than a hierarchical structure, designed to enhance cognitive processes through externalized and interconnected knowledge storage. It falls under [[cognitive-architecture]], focusing on associative relationships between ideas while excluding traditional hierarchical models.
 
 > [!attention] **Boundary**
 > This concept excludes traditional hierarchical models of thought and memory, focusing instead on associative relationships between ideas. It should not be confused with linear or categorical thinking methods.
@@ -131,10 +131,10 @@ Networked Thought is crucial in cognitive architecture because it leverages the 
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Architecture]]
+**Falls under:** [[cognitive-architecture]]
 
-**Sibling concepts:** [[Bi-directional Linking]] · [[Zettelkasten]]
+**Sibling concepts:** [[bi-directional-linking]] · [[zettelkasten]]
 
-**Applies to:** [[Knowledge Graph]]
+**Applies to:** [[knowledge-graph]]
 
 **Source:** [[networked-thought-synthetic-seed-2026-04-26]]

@@ -33,8 +33,8 @@ depth-level: elaborated
 parent-concept: "Social Influence"
 
 related:
-  - "[[Obedience-to-Authority]]"
-  - "[[Groupthink]]"
+  - "[[obedience-to-authority]]"
+  - "[[groupthink]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -44,8 +44,8 @@ broader:
 see-also:
   - "[[]]"
 contrasts-with:
-  - "[[Obedience-to-Authority]]"
-  - "[[Groupthink]]"
+  - "[[obedience-to-authority]]"
+  - "[[groupthink]]"
 contradicts:
   - "[[]]"
 applies-to:
@@ -131,6 +131,6 @@ The variability of conformity across different cultural contexts, group composit
 
 **Falls under:** [[Social Influence]]
 
-**Contrasts with:** [[Obedience-to-Authority]] · [[Groupthink]]
+**Contrasts with:** [[obedience-to-authority]] · [[groupthink]]
 
 **Source:** [[conformity-synthetic-seed-2026-04-26]]

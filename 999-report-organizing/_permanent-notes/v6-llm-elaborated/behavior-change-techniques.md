@@ -2,6 +2,7 @@
 title: Behavior Change Techniques
 aliases:
   - Behavior Change Techniques
+  - "Behavior-Change Techniques"
   - BCTs
   - BCT taxonomy
 type: permanent-note
@@ -28,19 +29,19 @@ complexity-level: advanced-practitioner
 depth-level: enhanced
 parent-concept: Behavioral Interventions
 related:
-  - '[[Implementation Intentions]]'
-  - '[[Transtheoretical Model]]'
+  - '[[implementation-intentions]]'
+  - '[[transtheoretical-model]]'
   - '[[Behavior Change Wheel]]'
 prerequisites:
   - '[[]]'
 specializes:
-  - '[[Implementation Intentions]]'
+  - '[[implementation-intentions]]'
 broader:
   - '[[]]'
 see-also:
   - '[[]]'
 contrasts-with:
-  - '[[Transtheoretical Model]]'
+  - '[[transtheoretical-model]]'
 contradicts:
   - '[[]]'
 applies-to:
@@ -161,9 +162,9 @@ A 2019 meta-analysis in Health Psychology Review (Abraham et al.) analyzed 120 s
 
 **Falls under:** [[Behavioral Interventions]]
 
-**Specializes:** [[Implementation Intentions]]
+**Specializes:** [[implementation-intentions]]
 
-**Contrasts with:** [[Transtheoretical Model]]
+**Contrasts with:** [[transtheoretical-model]]
 
 **Applies to:** [[Behavior Change Wheel]]
 

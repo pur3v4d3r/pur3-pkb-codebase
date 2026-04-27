@@ -35,7 +35,7 @@ parent-concept: "Developmental Psychology"
 related:
   - "[[Perspective-Taking]]"
   - "[[Ethics-of-Care]]"
-  - "[[Theory-of-Mind]]"
+  - "[[theory-of-mind]]"
 prerequisites:
   - "[[Perspective-Taking]]"
 specializes:
@@ -49,7 +49,7 @@ contrasts-with:
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Theory-of-Mind]]"
+  - "[[theory-of-mind]]"
 formalizes:
   - "[[]]"
 instance-of:
@@ -73,7 +73,7 @@ provenance:
 # Moral Development
 
 > [!definition] **Moral Development**
-> Moral Development refers to the age-graded changes in how people reason about and respond to ethical problems, most influentially modeled by Lawrence Kohlberg as a six-stage progression from preconventional self-interest, through conventional rule-following, to postconventional principled reasoning. It falls under [[Developmental Psychology]], focusing on reasoning processes rather than specific cultural moral content.
+> Moral Development refers to the age-graded changes in how people reason about and respond to ethical problems, most influentially modeled by Lawrence Kohlberg as a six-stage progression from preconventional self-interest, through conventional rule-following, to postconventional principled reasoning. It falls under [[developmental-psychology]], focusing on reasoning processes rather than specific cultural moral content.
 
 > [!attention] **Boundary**
 > This concept excludes specific cultural moral content and focuses on reasoning processes rather than societal norms or laws.
@@ -133,12 +133,12 @@ The theory intersects with other concepts like Theory-of-Mind and Perspective-Ta
 
 ## Connections & Context
 
-**Falls under:** [[Developmental Psychology]]
+**Falls under:** [[developmental-psychology]]
 
 **Prerequisites:** [[Perspective-Taking]]
 
 **Contrasts with:** [[Ethics-of-Care]]
 
-**Applies to:** [[Theory-of-Mind]]
+**Applies to:** [[theory-of-mind]]
 
 **Source:** [[moral-development-synthetic-seed-2026-04-26]]

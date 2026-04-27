@@ -72,7 +72,7 @@ provenance:
 # Principle of Charity
 
 > [!definition] **Principle of Charity**
-> The Principle of Charity is an interpretive norm that requires assigning the strongest plausible reading to another's claims or arguments, minimizing attributed error and maximizing rationality and coherence. It falls under [[Epistemology]], as it pertains to how we understand and engage with others' ideas in a way that respects their intellectual integrity.
+> The Principle of Charity is an interpretive norm that requires assigning the strongest plausible reading to another's claims or arguments, minimizing attributed error and maximizing rationality and coherence. It falls under [[epistemology]], as it pertains to how we understand and engage with others' ideas in a way that respects their intellectual integrity.
 
 > [!attention] **Boundary**
 > This principle stops at the point where it demands a fair interpretation without inserting unattributed premises or ignoring evidence. It does not extend to situations where such interpretations would misrepresent the original argument.
@@ -129,7 +129,7 @@ Understanding the Principle of Charity also has broader implications for interdi
 
 ## Connections & Context
 
-**Falls under:** [[Epistemology]]
+**Falls under:** [[epistemology]]
 
 **Contrasts with:** [[Strawman Argument]]
 

@@ -79,7 +79,7 @@ provenance:
 # Cognitive Architecture
 
 > [!definition] **Cognitive Architecture**
-> Cognitive architecture refers to the fixed structural and functional organization of the human cognitive system — the invariant processing constraints, memory systems, and representational formats that determine how information is acquired, stored, retrieved, and applied. Unlike learnable and deployable cognitive strategies which are distinct from these hardware-level constraints within which all learning must operate, it falls under [[Cognitive Science]].
+> Cognitive architecture refers to the fixed structural and functional organization of the human cognitive system — the invariant processing constraints, memory systems, and representational formats that determine how information is acquired, stored, retrieved, and applied. Unlike learnable and deployable cognitive strategies which are distinct from these hardware-level constraints within which all learning must operate, it falls under [[cognitive-science]].
 
 > [!attention] **Boundary**
 > It excludes learnable and deployable cognitive strategies which are distinct from the hardware-level constraints within which all learning must operate.
@@ -138,7 +138,7 @@ The broader implications extend beyond individual learning strategies into the r
 
 ## Connections & Context
 
-**Falls under:** [[Cognitive Science]]
+**Falls under:** [[cognitive-science]]
 
 **Prerequisites:** [[working-memory]] · [[long-term-memory]]
 

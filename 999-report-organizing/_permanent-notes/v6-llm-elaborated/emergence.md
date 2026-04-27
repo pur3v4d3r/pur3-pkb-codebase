@@ -31,7 +31,7 @@ depth-level: elaborated
 parent-concept: "Complex-Systems"
 
 related:
-  - "[[Complex-Adaptive-Systems]]"
+  - "[[complex-adaptive-systems]]"
   - "[[Reductionism]]"
 prerequisites:
   - "[[]]"
@@ -40,7 +40,7 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Complex-Adaptive-Systems]]"
+  - "[[complex-adaptive-systems]]"
   - "[[Reductionism]]"
 contrasts-with:
   - "[[]]"
@@ -132,6 +132,6 @@ Emergence also bridges the gap between component-level descriptions and higher-l
 
 **Falls under:** [[Complex-Systems]]
 
-**Sibling concepts:** [[Complex-Adaptive-Systems]] · [[Reductionism]]
+**Sibling concepts:** [[complex-adaptive-systems]] · [[Reductionism]]
 
 **Source:** [[emergence-synthetic-seed-2026-04-25]]

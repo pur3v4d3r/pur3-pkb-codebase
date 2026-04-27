@@ -33,9 +33,9 @@ depth-level: elaborated
 parent-concept: "Reading Comprehension"
 
 related:
-  - "[[Cornell Note-Taking]]"
-  - "[[Active Recall]]"
-  - "[[Spaced Repetition]]"
+  - "[[cornell-note-taking]]"
+  - "[[active-recall]]"
+  - "[[spaced-repetition]]"
 prerequisites:
   - "[[]]"
 specializes:
@@ -43,19 +43,19 @@ specializes:
 broader:
   - "[[]]"
 see-also:
-  - "[[Cornell Note-Taking]]"
+  - "[[cornell-note-taking]]"
 contrasts-with:
   - "[[]]"
 contradicts:
   - "[[]]"
 applies-to:
-  - "[[Active Recall]]"
+  - "[[active-recall]]"
 formalizes:
   - "[[]]"
 instance-of:
   - "[[]]"
 supports:
-  - "[[Spaced Repetition]]"
+  - "[[spaced-repetition]]"
 refines:
   - "[[]]"
 
@@ -134,10 +134,10 @@ Moreover, its alignment with principles from learning science, such as cognitive
 
 **Falls under:** [[Reading Comprehension]]
 
-**Sibling concepts:** [[Cornell Note-Taking]]
+**Sibling concepts:** [[cornell-note-taking]]
 
-**Applies to:** [[Active Recall]]
+**Applies to:** [[active-recall]]
 
-**Supports:** [[Spaced Repetition]]
+**Supports:** [[spaced-repetition]]
 
 **Source:** [[sq3r-method-synthetic-seed-2026-04-26]]
