@@ -1,20 +1,13 @@
 ---
-# ═══════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════
 title: "Inhibitory Control: The Cognitive Architecture of Suppression, Override, and Selection"
 aliases:
-  - "Inhibitory Control Foundational Report"
-  - "Response Inhibition"
-  - "Cognitive Inhibition"
-  - "Inhibition (Executive Function)"
+  - Inhibitory Control Foundational Report
+  - Response Inhibition
+  - Cognitive Inhibition
+  - Inhibition (Executive Function)
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - foundational-report
@@ -24,83 +17,85 @@ tags:
   - neuroscience/prefrontal-cortex
   - empirical-research
   - evidence-based
-
-# ═══════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════
-created: "2026-04-25"
-updated: "2026-04-25"
-
-# ═══════════════════════════════════════════════════════════════
-# DOCUMENT IDENTIFICATION (Pipeline-Compatible)
-# ═══════════════════════════════════════════════════════════════
-doc_id: "inhibitory-control-foundational-report"
-doc_type: "Foundational Report"
-doc_created: "2026-04-25"
-doc_modified: "2026-04-25"
-author: "Claude (Anthropic)"
-
-# ═══════════════════════════════════════════════════════════════
-# CLASSIFICATION & DISCOVERY
-# ═══════════════════════════════════════════════════════════════
-primary_domain: "Cognitive Science"
-secondary_domains: ["Educational Psychology", "Developmental Neuroscience", "Self-Regulated Learning"]
-knowledge_level: "comprehensive foundational treatment"
-
-# ═══════════════════════════════════════════════════════════════
-# QUALITY & STATUS
-# ═══════════════════════════════════════════════════════════════
-maturity: "highly developed"
-
-# ═══════════════════════════════════════════════════════════════
-# REASONING ARCHITECTURE
-# ═══════════════════════════════════════════════════════════════
+created: 2026-04-25
+updated: 2026-04-25
+doc_id: inhibitory-control-foundational-report
+doc_type: Foundational Report
+doc_created: 2026-04-25
+doc_modified: 2026-04-25
+author: Claude (Anthropic)
+primary_domain: Cognitive Science
+secondary_domains:
+  - Educational Psychology
+  - Developmental Neuroscience
+  - Self-Regulated Learning
+knowledge_level: comprehensive foundational treatment
+maturity: highly developed
 reasoning_tier: "Tier 1: Foundational Understanding"
-reasoning_methods: ["Analytical exposition", "Cross-paradigm synthesis", "Developmental-comparative analysis"]
-reasoning_technique: "Multi-pass chain-of-density with self-consistency architecture selection"
-
-# ═══════════════════════════════════════════════════════════════
-# EPISTEMIC & VALIDATION
-# ═══════════════════════════════════════════════════════════════
-epistemic_status: "well-established with active frontiers (training transfer remains contested)"
-validation_methods: ["Empirical evidence", "Scholarly consensus", "Convergent neuroimaging"]
-factual_verification: "Verified against established literature (Diamond, Miyake, Friedman, Aron, Logan)"
+reasoning_methods:
+  - Analytical exposition
+  - Cross-paradigm synthesis
+  - Developmental-comparative analysis
+reasoning_technique: Multi-pass chain-of-density with self-consistency architecture selection
+epistemic_status: well-established with active frontiers (training transfer remains contested)
+validation_methods:
+  - Empirical evidence
+  - Scholarly consensus
+  - Convergent neuroimaging
+factual_verification: Verified against established literature (Diamond, Miyake, Friedman, Aron, Logan)
 hallucination_check: true
-
-# ═══════════════════════════════════════════════════════════════
-# SOURCE & ATTRIBUTION
-# ═══════════════════════════════════════════════════════════════
-source: "Claude (Anthropic) — academic synthesis"
+source: Claude (Anthropic) — academic synthesis
 source-type: academic-synthesis
-research-base: "empirical-studies"
-evidence-quality: "high"
-key-researchers: ["Adele Diamond", "Akira Miyake", "Naomi Friedman", "Adam Aron", "Gordon Logan", "Walter Mischel", "Russell Barkley"]
-
-# ═══════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════
-word-count: "~16000"
+research-base: empirical-studies
+evidence-quality: high
+key-researchers:
+  - Adele Diamond
+  - Akira Miyake
+  - Naomi Friedman
+  - Adam Aron
+  - Gordon Logan
+  - Walter Mischel
+  - Russell Barkley
+word-count: ~16000
 complexity-level: advanced-practitioner
-target-audience: "Intermediate to advanced learners; cognitive scientists; educators; PKB practitioners"
+target-audience: Intermediate to advanced learners; cognitive scientists; educators; PKB practitioners
 depth-level: comprehensive
 treatment-type: foundational-analytical
-
-# ═══════════════════════════════════════════════════════════════
-# KNOWLEDGE GRAPH INTEGRATION
-# ═══════════════════════════════════════════════════════════════
-core-concepts: ["Response Inhibition", "Interference Control", "Cognitive Inhibition", "Stop-Signal Reaction Time", "Prefrontal Control"]
-key-distinctions: ["Inhibition vs. Working Memory", "Response vs. Cognitive Inhibition", "Reactive vs. Proactive Control"]
-prerequisites: ["[[executive-function]]", "[[working-memory]]", "[[attention-and-cognitive-control]]"]
-related: ["[[self-regulation]]", "[[self-regulated-learning]]", "[[cognitive-flexibility]]", "[[dual-process-theory]]"]
-broader: ["[[executive-function]]", "[[cognitive-science]]"]
-narrower: ["[[selective-attention]]", "[[volitional-control]]"]
-see-also: ["[[metacognitive-control]]", "[[implementation-intention]]"]
-builds-on: ["[[prefrontal-cortex-function]]", "[[working-memory]]"]
-enables: ["[[self-regulated-learning]]", "[[emotional-regulation]]", "[[cognitive-flexibility]]"]
-
-# ═══════════════════════════════════════════════════════════════
-# APPENDIX & DENSITY TRACKING (Pipeline-Compatible)
-# ═══════════════════════════════════════════════════════════════
+core-concepts:
+  - Response Inhibition
+  - Interference Control
+  - Cognitive Inhibition
+  - Stop-Signal Reaction Time
+  - Prefrontal Control
+key-distinctions:
+  - Inhibition vs. Working Memory
+  - Response vs. Cognitive Inhibition
+  - Reactive vs. Proactive Control
+prerequisites:
+  - "[[executive-function]]"
+  - "[[working-memory]]"
+  - "[[attention-and-cognitive-control]]"
+related:
+  - "[[self-regulation]]"
+  - "[[self-regulated-learning]]"
+  - "[[cognitive-flexibility]]"
+  - "[[dual-process-theory]]"
+broader:
+  - "[[cognitive-science]]"
+  - "[[executive-function|Executive Function]]"
+narrower:
+  - "[[selective-attention]]"
+  - "[[volitional-control]]"
+see-also:
+  - "[[metacognitive-control]]"
+  - "[[implementation-intention]]"
+builds-on:
+  - "[[prefrontal-cortex-function]]"
+  - "[[working-memory]]"
+enables:
+  - "[[self-regulated-learning]]"
+  - "[[emotional-regulation]]"
+  - "[[cognitive-flexibility]]"
 appendix_sections_included:
   - lexicon
   - key_figures
@@ -113,38 +108,36 @@ appendix_sections_included:
   - expansion_topics
   - pkb_connections
   - quality_self_assessment
-
 lexicon_term_count: "10"
 reference_count: "12"
 flashcard_seed_count: "10"
 expansion_topic_count: "5"
 wiki_link_count: "120"
 callout_count: "70"
-
-# ═══════════════════════════════════════════════════════════════
-# ORIGINAL CONTRIBUTIONS (Pipeline-Compatible)
-# ═══════════════════════════════════════════════════════════════
 original_contributions:
-  - name: "Inhibition-as-Selection Reframe"
-    type: "theoretical-integration"
-    epistemic_status: "well-motivated-synthesis"
+  - name: Inhibition-as-Selection Reframe
+    type: theoretical-integration
+    epistemic_status: well-motivated-synthesis
     validation_needed: true
-  - name: "PKB-as-External-Inhibitor Hypothesis"
-    type: "novel-construct"
-    epistemic_status: "speculative-proposal"
+  - name: PKB-as-External-Inhibitor Hypothesis
+    type: novel-construct
+    epistemic_status: speculative-proposal
     validation_needed: true
-
-# ═══════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
-importance: "critical"
+importance: critical
 foundational-for-future-learning: true
 connection-strength:
-  high: ["Executive Function", "Self-Regulated Learning", "Working Memory"]
-  medium: ["Attention", "Dual-Process Theory"]
-  exploratory: ["PKB design", "AI alignment"]
+  high:
+    - Executive Function
+    - Self-Regulated Learning
+    - Working Memory
+  medium:
+    - Attention
+    - Dual-Process Theory
+  exploratory:
+    - PKB design
+    - AI alignment
 ---
 
 # Inhibitory Control: The Cognitive Architecture of Suppression, Override, and Selection
