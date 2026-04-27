@@ -32,7 +32,10 @@
       "Bash(grep -E \"\\\\.py$|config\")",
       "Bash(ls -la \"d:\\\\\\\\10_pur3v4d3r's-vault/99-scripts/report-extraction-to-permanent-notes-building-v3/\")",
       "Bash(ls -la \"d:\\\\\\\\10_pur3v4d3r's-vault/99-scripts/report-extraction-to-permanent-notes-building-v3/lib/\")",
-      "Bash(ls -la \"d:\\\\\\\\10_pur3v4d3r's-vault/99-scripts/report-extraction-to-permanent-notes-building-v3/stages/\")"
+      "Bash(ls -la \"d:\\\\\\\\10_pur3v4d3r's-vault/99-scripts/report-extraction-to-permanent-notes-building-v3/stages/\")",
+      "Bash(grep -E \"^\\\\-.*\\\\.css$\")",
+      "Bash(awk '{print $NF}')",
+      "Bash(grep -v \"\\\\.css$\")"
     ]
   }
 }

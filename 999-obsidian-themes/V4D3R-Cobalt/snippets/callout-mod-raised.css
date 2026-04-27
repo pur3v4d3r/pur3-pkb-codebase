@@ -1,0 +1,55 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MOD: RAISED STYLE
+
+ Purpose: Gives all callouts a raised/elevated 3D appearance with deep shadows
+ Usage: Enable this snippet to override the base callout styling
+ Author: Pur3v4d3r
+ Theme: Red & Black with elevated depth
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Override base callout for raised appearance */
+.callout {
+  transform: translateY(-4px) !important;
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.5),
+    0 16px 32px rgba(0, 0, 0, 0.35),
+    0 0 20px rgba(var(--callout-color), 0.2),
+    inset 0 1px 0 rgba(224, 224, 224, 0.1) !important;
+  background: linear-gradient(180deg,
+    rgba(30, 30, 30, 0.9) 0%,
+    rgba(20, 20, 20, 0.7) 100%) !important;
+  border: 1px solid rgba(42, 42, 42, 0.8) !important;
+  border-left: 4px solid rgb(var(--callout-color)) !important;
+}
+
+.callout:hover {
+  transform: translateY(-8px) !important;
+  box-shadow:
+    0 12px 24px rgba(0, 0, 0, 0.6),
+    0 24px 48px rgba(0, 0, 0, 0.4),
+    0 0 30px rgba(var(--callout-color), 0.4),
+    inset 0 1px 0 rgba(224, 224, 224, 0.15) !important;
+}
+
+/* Enhanced title for raised style */
+.callout-title {
+  background: rgba(var(--callout-color), 0.18) !important;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.25) !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6) !important;
+}
+
+.callout:hover .callout-title {
+  background: rgba(var(--callout-color), 0.25) !important;
+  text-shadow: 0 0 10px rgba(var(--callout-color), 0.5) !important;
+}
+
+/* Enhanced content for raised style */
+.callout-content {
+  background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.callout:hover .callout-content {
+  background: rgba(0, 0, 0, 0.4) !important;
+}

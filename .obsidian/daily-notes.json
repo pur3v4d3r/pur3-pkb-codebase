@@ -1,6 +1,6 @@
 {
   "folder": "01_daily-notes",
-  "template": "99_system/01_quickadd/02_templates/_daily-note_template",
+  "template": "99-system/01-quickadd/02-templates/daily-note-template-v2.0.0",
   "format": "",
   "autorun": false
 }
