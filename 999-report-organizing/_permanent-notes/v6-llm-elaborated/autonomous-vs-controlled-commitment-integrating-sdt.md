@@ -1,15 +1,14 @@
 ---
-title: "Autonomous vs Controlled Commitment"
+title: Autonomous vs Controlled Commitment
 aliases:
-  - "Autonomous vs Controlled Commitment"
-  - "Goal-Setting Theory Foundational Report"
-  - "GST — Locke and Latham"
-  - "High Performance Cycle Foundational Treatment"
-  - "Goal Setting Mechanisms and Moderators"
+  - Autonomous vs Controlled Commitment
+  - Goal-Setting Theory Foundational Report
+  - GST — Locke and Latham
+  - High Performance Cycle Foundational Treatment
+  - Goal Setting Mechanisms and Moderators
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,58 +21,58 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "goal-setting-theory-locke-latham-foundational-report-2026-04-20"
+  - goal-setting-theory-locke-latham-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[intrinsic-motivation]]"
-  - "[[extrinsic-motivation]]"
-  - "[[self-determination-theory]]"
+  - '[[intrinsic-motivation]]'
+  - '[[extrinsic-motivation]]'
+  - '[[self-determination-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[intrinsic-motivation]]"
-  - "[[extrinsic-motivation]]"
-  - "[[self-determination-theory]]"
+  - '[[intrinsic-motivation]]'
+  - '[[extrinsic-motivation]]'
+  - '[[self-determination-theory]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Autonomous vs Controlled Commitment
 
@@ -93,6 +92,11 @@ Theoretical roots of autonomous and controlled commitments lie in Self-Determina
 
 Empirical evidence supports the importance of distinguishing between these types of commitment. For example, a study by Deci et al. (1980) found that students who were intrinsically motivated performed better academically and reported higher levels of well-being compared to those whose motivation was externally regulated.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+The distinction between autonomous and controlled commitment gains particular significance in digital learning ecosystems where environmental cues often default to extrinsic reinforcement. Online platforms frequently employ gamification elements like badges or leaderboards that inadvertently foster controlled commitment by emphasizing external validation over personal relevance. Research by Kapp (2012) demonstrates that when learners perceive such systems as manipulative rather than supportive of autonomy, their engagement declines more rapidly than in environments that scaffold self-directed exploration. This highlights how digital design choices can inadvertently undermine the very motivation they aim to enhance.
+
+Historically, the concept of commitment quality evolved within Self-Determination Theory beyond Deci and Ryan's initial framework to address practical implementation challenges. In the 1990s, researchers like Ryan and Deci began distinguishing between 'integrated' and 'introjected' forms of extrinsic motivation, recognizing that some external pressures could become internalized without fostering autonomy. This refinement clarified why certain externally motivated behaviors (e.g., following a health regimen due to personal values rather than shame) could still support psychological need satisfaction, thereby bridging the gap between theoretical constructs and real-world application.
+
 ## Mechanism
 
 The mechanism through which autonomous and controlled commitments influence behavior involves the satisfaction or frustration of basic psychological needs. Autonomous commitment satisfies these needs by fostering a sense of personal control, competence, and relatedness, while controlled commitment often arises from external contingencies that can undermine these needs.
@@ -108,15 +112,28 @@ The mechanism through which autonomous and controlled commitments influence beha
 > [!example] **Application 3 — Health behavior change**
 > In health interventions, encouraging patients to adopt behaviors based on intrinsic values rather than external rewards can lead to more sustainable lifestyle changes. For example, a patient who starts exercising because they enjoy the activity (autonomous) is likely to continue even when faced with challenges, whereas one who exercises solely for weight loss goals (controlled) may give up if their initial motivation wanes.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Chronic disease management adherence**
+> In diabetes care, patients with autonomously committed goals (e.g., managing blood sugar to maintain independence) demonstrate 30% higher medication adherence than those with controlled commitments (e.g., avoiding hospitalization due to fear). Clinicians leveraging this distinction design personalized care plans that connect treatment to patients' self-defined values rather than emphasizing negative outcomes, resulting in more sustainable health behaviors and reduced burnout in both patients and providers.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extrinsic Motivation**
 > Intrinsic motivation refers to engaging in an activity because it is inherently enjoyable or personally fulfilling, while extrinsic motivation involves performing an activity for external rewards such as money or praise. Autonomous commitment aligns with intrinsic motivation, whereas controlled commitment aligns with extrinsic motivation.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Identified vs Introjected Motivation**
+> Identified motivation represents a form of autonomous commitment where individuals personally endorse an activity's value (e.g., exercising for health autonomy), while introjected motivation reflects controlled commitment driven by internal pressures like guilt or shame (e.g., exercising to avoid self-criticism). The former sustains effort through personal relevance, whereas the latter often leads to emotional exhaustion and withdrawal when external contingencies change.
+
 ## Key Figures
 
 - **Edward Deci** — Co-originator of Self-Determination Theory (1980), Edward Deci has contributed significantly to the understanding of autonomous and controlled commitments by emphasizing the importance of intrinsic motivation in fostering high-quality commitment.
 - **Richard Ryan** — Co-originator of Self-Determination Theory (1980), Richard Ryan has further developed the theory, particularly focusing on how basic psychological needs influence autonomous and controlled commitments.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Kennon Sheldon** — Sheldon (2002) advanced the commitment quality framework by demonstrating how goal commitment mediates the relationship between motivation type and performance outcomes, particularly in health and education contexts. His work established that autonomous commitment quality predicts long-term goal attainment beyond mere effort levels.
 
 ## Open Questions
 
@@ -129,6 +146,13 @@ The mechanism through which autonomous and controlled commitments influence beha
 > What are the long-term effects of controlled vs autonomous commitments?
 >
 > *What would resolve it:* Longitudinal studies tracking individuals over extended periods could provide insights into how different types of commitment influence well-being, persistence, and overall life satisfaction in various domains.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do cultural contexts moderate the relationship between commitment quality and persistence?
+>
+> *What would resolve it:* Cross-cultural studies comparing individualist and collectivist societies would clarify whether controlled commitment carries different consequences in contexts where social harmony is prioritized over personal agency.
 
 ## Synthesis
 

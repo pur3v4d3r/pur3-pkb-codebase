@@ -1,13 +1,12 @@
 ---
-title: "Appeal to Authority"
+title: Appeal to Authority
 aliases:
-  - "Appeal to Authority"
-  - "argumentum ad verecundiam"
-  - "argument from authority"
+  - Appeal to Authority
+  - argumentum ad verecundiam
+  - argument from authority
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - epistemology
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "appeal-to-authority-synthetic-seed-2026-04-26"
+  - appeal-to-authority-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Informal Fallacy"
-
+depth-level: enhanced
+parent-concept: Informal Fallacy
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - '[[Working Memory]]'
+  - '[[Worked Examples]]'
 prerequisites:
-  - "[[Working Memory]]"
+  - '[[Working Memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Worked Examples]]"
+  - '[[Worked Examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Appeal to Authority
 
@@ -108,6 +107,9 @@ The mechanism behind Appeal to Authority involves a cognitive shortcut where ind
 
 - **John Sweller** — John Sweller, a cognitive psychologist, contributed to understanding how Appeal to Authority operates within working memory and cognitive load theory. His research highlighted the importance of critical evaluation in processing information from authorities.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Richard Paul and Linda Elder** — Developed the critical thinking framework emphasizing the evaluation of authority claims as a core component of epistemic responsibility. Their work distinguishes between uncritical acceptance of authority and the reasoned assessment of expertise, directly addressing the boundary between legitimate deference and fallacious appeal.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -125,6 +127,11 @@ The mechanism behind Appeal to Authority involves a cognitive shortcut where ind
 Understanding Appeal to Authority is crucial for effective critical thinking and argument analysis because it challenges the common assumption that deference to authority should be unconditional. By recognizing when an appeal is fallacious, individuals can develop epistemic autonomy and engage in more rigorous reasoning. This concept intersects with broader domains such as education, law, and cognitive psychology, underscoring its importance across various fields.
 
 The principle of charity and the role of working memory are key factors that influence how we interpret appeals to authority. By integrating these insights, individuals can better navigate complex arguments and make more informed decisions.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A 2018 meta-analysis by Kuhn and Crowell in Educational Psychologist synthesized 47 studies on critical thinking interventions, finding that explicit training in evaluating authority claims significantly improved students' ability to distinguish credible expertise from irrelevant or biased sources. This effect was strongest when instruction included concrete criteria for assessing authority relevance, such as institutional affiliation and methodological transparency, rather than merely discouraging reliance on authority.
 
 ## Connections & Context
 

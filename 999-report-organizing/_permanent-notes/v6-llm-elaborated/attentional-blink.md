@@ -1,12 +1,11 @@
 ---
-title: "Attentional Blink"
+title: Attentional Blink
 aliases:
-  - "Attentional Blink"
-  - "AB phenomenon"
+  - Attentional Blink
+  - AB phenomenon
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - attention-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "attentional-blink-synthetic-seed-2026-04-25"
+  - attentional-blink-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[selective-attention]]"
-  - "[[perceptual-load-theory]]"
+  - '[[working-memory]]'
+  - '[[selective-attention]]'
+  - '[[perceptual-load-theory]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[selective-attention]]"
+  - '[[selective-attention]]'
 contrasts-with:
-  - "[[perceptual-load-theory]]"
+  - '[[perceptual-load-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Attentional Blink
 
@@ -111,6 +110,9 @@ The Attentional Blink operates through a series of stages: initial sensory proce
 
 - **John Sweller** — John Sweller is credited with originating the concept of Attentional Blink in his 1988 research. His work laid the foundation for understanding this phenomenon and its implications for cognitive processing.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Raymond, Shapiro, Arnell** — These researchers first demonstrated the Attentional Blink phenomenon in their 1992 study using rapid serial visual presentation (RSVP), establishing the core temporal window (200-500ms) and distinguishing it from other attentional phenomena. Their work provided the foundational empirical framework for subsequent research.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -123,11 +125,23 @@ The Attentional Blink operates through a series of stages: initial sensory proce
 >
 > *What would resolve it:* Developing effective strategies to manage and reduce the impact of Attentional Blink would require a combination of experimental research, cognitive training techniques, and practical application guidelines. This could involve optimizing task presentation timing or using adaptive pacing methods.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do individual differences in AB magnitude correlate with working memory capacity or attentional control?
+>
+> *What would resolve it:* Longitudinal studies combining behavioral AB tasks with working memory assessments could clarify whether AB variability reflects stable cognitive traits or transient attentional states.
+
 ## Synthesis
 
 Understanding the Attentional Blink is crucial for advancing our knowledge in cognitive science as it provides insights into how attention and working memory interact. By recognizing this phenomenon, researchers can better design experiments that account for these limitations, leading to more accurate models of human cognition. Moreover, practical applications such as instructional design, driving safety, and communication strategies can be significantly improved by incorporating the principles of Attentional Blink, ensuring that critical information is presented in a way that maximizes comprehension and retention.
 
 The Attentional Blink also intersects with other related concepts like perceptual load theory and selective attention. By studying these intersections, cognitive scientists can develop a more comprehensive understanding of how the brain processes and integrates information over time. This interdisciplinary approach not only enhances our theoretical knowledge but also has practical implications for improving various real-world applications.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Meta-analyses (e.g., Di Lollo et al., 2005) confirm the AB's robustness across diverse stimulus types (letters, words, faces) and modalities (visual, auditory), with effect sizes consistently exceeding d=0.8. Crucially, the phenomenon persists even when T2 is physically salient, indicating it reflects a central processing limitation rather than sensory masking.
 
 ## Connections & Context
 

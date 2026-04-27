@@ -1,13 +1,12 @@
 ---
-title: "Affect Heuristic"
+title: Affect Heuristic
 aliases:
-  - "Affect Heuristic"
-  - "affective heuristic"
-  - "Slovic affect heuristic"
+  - Affect Heuristic
+  - affective heuristic
+  - Slovic affect heuristic
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - emotion
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "affect-heuristic-synthetic-seed-2026-04-26"
+  - affect-heuristic-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Heuristics"
-
+depth-level: enhanced
+parent-concept: Heuristics
 related:
-  - "[[Availability Heuristic]]"
-  - "[[Dual-Process Theory]]"
+  - '[[Availability Heuristic]]'
+  - '[[Dual-Process Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Availability Heuristic]]"
+  - '[[Availability Heuristic]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Dual-Process Theory]]"
+  - '[[Dual-Process Theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Affect Heuristic
 
@@ -102,10 +101,20 @@ The Affect Heuristic operates through a process where individuals quickly assess
 > [!example] **Application 3 — Financial Decisions**
 > In financial decision-making, the Affect Heuristic can lead investors to make choices based on emotional reactions rather than thorough analysis. For instance, a person might invest in a stock because it feels 'safe' or 'secure,' even if the underlying fundamentals suggest otherwise.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Climate Policy Messaging**
+> Climate communication campaigns leveraging the affect heuristic might use visceral imagery of melting glaciers to evoke urgency, bypassing statistical data about long-term projections. This approach could increase public support for mitigation policies by triggering immediate emotional responses, though it risks oversimplifying complex scientific consensus. Research shows such messaging boosts short-term engagement but may reduce long-term policy support when emotional arousal fades without reinforcing factual understanding.
+
 ## Key Distinctions
 
 > [!key-distinction] **Affect Heuristic vs Availability Heuristic**
 > While both heuristics involve quick judgments, the Affect Heuristic relies on emotional reactions, whereas the Availability Heuristic depends on easily recalled information. For example, a person might avoid flying due to fear of air crashes (Affect Heuristic) or because they can quickly recall several recent plane accidents (Availability Heuristic).
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Affect Heuristic vs Framing Effect**
+> While the Affect Heuristic involves emotional responses to an object itself (e.g., feeling fear toward a vaccine), the Framing Effect concerns how information about the same object is presented (e.g., '90% effective' vs '10% ineffective'). The former shapes judgment through affective tagging, the latter through linguistic presentation. For instance, a vaccine might be rejected due to negative affect (Affect Heuristic) rather than the specific wording of its efficacy description (Framing Effect), though both can interact in real-world decisions.
 
 ## Key Figures
 
@@ -128,6 +137,11 @@ The Affect Heuristic operates through a process where individuals quickly assess
 Understanding the Affect Heuristic is crucial for behavioral economics because it highlights how emotions play a significant role in decision-making. By recognizing this heuristic, researchers and practitioners can develop more effective strategies to mitigate biases and improve public health campaigns, financial decisions, and insurance policies.
 
 The Affect Heuristic also intersects with dual-process theories, which explain how emotions and reasoning interact in complex ways. This intersection underscores the need for a nuanced approach to decision-making that considers both cognitive and emotional factors.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Recent meta-analyses have refined understanding of the affect heuristic's boundary conditions. Finucane et al. (2017) demonstrated that the heuristic's influence intensifies with emotional arousal but diminishes when individuals engage in deliberate processing, such as when time pressure is reduced. This explains why the heuristic manifests strongly in spontaneous judgments but weakens in contexts requiring systematic analysis, like financial planning with professional guidance. The effect also varies by emotional valence—negative affect more consistently drives risk perception than positive affect, particularly for novel threats where emotional responses override statistical reasoning.
 
 ## Connections & Context
 

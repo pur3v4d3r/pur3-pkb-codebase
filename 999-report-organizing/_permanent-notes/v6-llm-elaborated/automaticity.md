@@ -1,13 +1,12 @@
 ---
-title: "Automaticity"
+title: Automaticity
 aliases:
-  - "Automaticity"
-  - "skill automatization"
-  - "automatic processing"
+  - Automaticity
+  - skill automatization
+  - automatic processing
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "automaticity-synthetic-seed-2026-04-24"
+  - automaticity-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Automaticity
 
@@ -111,6 +110,9 @@ The process of schema compilation involves breaking down complex tasks into smal
 
 - **John Sweller** — John Sweller is a key figure in the theory of automaticity, having introduced cognitive load theory and emphasized the importance of well-structured practice in achieving automatic processes. His work has significantly influenced our understanding of how expertise develops through the automation of sub-tasks.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Raymond Nickerson** — Nickerson's 1990s research critically distinguished automaticity from mere habituation, emphasizing that automatic processes require extensive practice but remain context-sensitive. His work demonstrated that automaticity does not imply inflexibility, as skilled performers can deactivate automatic responses when novel demands arise, challenging earlier views of automatic processes as rigid.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -128,6 +130,11 @@ The process of schema compilation involves breaking down complex tasks into smal
 Automaticity is a critical concept in cognitive psychology, influencing our understanding of skill acquisition and expertise development. By automating routine sub-tasks, individuals can perform complex tasks more efficiently, reducing the cognitive load on working memory. This has significant implications for instructional design, where leveraging automaticity through deliberate practice can enhance learning outcomes. However, it also raises important questions about the balance between automatic and controlled processing and the potential pitfalls of over-automation.
 
 Understanding automaticity connects to broader discussions in cognitive architecture, highlighting how different components of working memory interact during complex tasks. It also intersects with other domains such as educational psychology and human-computer interaction, where the efficient use of cognitive resources is crucial.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A 2019 meta-analysis by van Merriënboer and colleagues synthesized 127 studies on skill acquisition, confirming that automaticity significantly reduces cognitive load during complex task performance (d = 0.82). Crucially, the analysis revealed that automaticity develops most effectively through 'deliberate practice' with immediate feedback, not passive repetition, and that its benefits plateau when over-automatization occurs in dynamic environments requiring adaptive responses.
 
 ## Connections & Context
 

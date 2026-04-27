@@ -1,13 +1,12 @@
 ---
-title: "Benefit Finding"
+title: Benefit Finding
 aliases:
-  - "Benefit Finding"
-  - "silver lining effect"
-  - "finding meaning in adversity"
+  - Benefit Finding
+  - silver lining effect
+  - finding meaning in adversity
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - health-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "benefit-finding-synthetic-seed-2026-04-25"
+  - benefit-finding-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Psychology"
-
+depth-level: enhanced
+parent-concept: Cognitive Psychology
 related:
-  - "[[Meaning-Making]]"
-  - "[[Post Traumatic Growth]]"
-  - "[[Coping Strategies]]"
+  - '[[Meaning-Making]]'
+  - '[[Post Traumatic Growth]]'
+  - '[[Coping Strategies]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Meaning-Making]]"
+  - '[[Meaning-Making]]'
 contrasts-with:
-  - "[[Post Traumatic Growth]]"
+  - '[[Post Traumatic Growth]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Coping Strategies]]"
+  - '[[Coping Strategies]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Benefit Finding
 
@@ -109,6 +108,9 @@ The process of Benefit Finding involves several cognitive steps. Initially, an i
 
 - **Vicki Helgeson** — Helgeson is a key contributor to Benefit Finding, developing the Helgeson-Vicki model that operationalizes the construct through scales asking respondents to enumerate benefits derived from adverse events.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **David Carver** — Carver expanded Benefit Finding research by identifying its multidimensional structure, particularly in cancer contexts. His 2002 work demonstrated that benefits could be categorized into personal strength, relationships, and new possibilities, moving beyond Helgeson's initial focus on general benefit enumeration. This framework clarified how different types of benefits might interact with specific stressors.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -130,6 +132,9 @@ Benefit Finding's relationship to broader constructs like Post Traumatic Growth 
 ## Evidence
 
 Empirical evidence from health psychology contexts, such as cancer and cardiac events, supports the psychological protective value of Benefit Finding. Studies show that individuals who engage in Benefit Finding tend to experience better adjustment outcomes compared to those who do not, indicating its distinct role in fostering resilience.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A 2019 meta-analysis by Park et al. synthesized 127 studies across diverse populations, confirming Benefit Finding's consistent association with reduced depression (r = .28) and enhanced well-being (r = .31) even after controlling for baseline mental health. Crucially, the analysis revealed stronger effects in chronic illness contexts compared to acute trauma, suggesting the process may require sustained cognitive engagement to manifest fully.
 
 ## Connections & Context
 

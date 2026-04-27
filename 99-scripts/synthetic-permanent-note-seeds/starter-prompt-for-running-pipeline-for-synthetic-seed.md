@@ -231,7 +231,7 @@ open-science-practices
 # Enhance permanent notes pipeline
 
 I have a pipeline for enahceing permanent notes that it has created. It suses local LLM. I want you to run this pipeline on 100 notes.
-
+Review the pipeline for context and details.
 
 # Key Locations for Pipeline Reference
 Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.

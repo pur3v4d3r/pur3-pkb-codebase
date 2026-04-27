@@ -1,13 +1,12 @@
 ---
-title: "Active Inference"
+title: Active Inference
 aliases:
-  - "Active Inference"
-  - "Friston active inference"
-  - "action-as-inference"
+  - Active Inference
+  - Friston active inference
+  - action-as-inference
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - predictive-processing
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "active-inference-synthetic-seed-2026-04-26"
+  - active-inference-synthetic-seed-2026-04-26
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Predictive Processing"
-
+depth-level: enhanced
+parent-concept: Predictive Processing
 related:
-  - "[[Free Energy Principle]]"
-  - "[[Predictive Coding]]"
-  - "[[Bayesian Brain]]"
+  - '[[Free Energy Principle]]'
+  - '[[Predictive Coding]]'
+  - '[[Bayesian Brain]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Free Energy Principle]]"
+  - '[[Free Energy Principle]]'
 see-also:
-  - "[[Predictive Coding]]"
+  - '[[Predictive Coding]]'
 contrasts-with:
-  - "[[Bayesian Brain]]"
+  - '[[Bayesian Brain]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Active Inference
 
@@ -88,9 +87,17 @@ The conceptual nuances of Active Inference highlight its generative nature, emph
 
 Empirically, Active Inference has been applied in various domains of cognitive science, including neuroscience and artificial intelligence. For instance, it can be used to model how humans make decisions under uncertainty by continuously updating their internal models based on sensory feedback and taking actions that reduce prediction errors.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+Active Inference's treatment of uncertainty as a core driver of behavior offers a nuanced perspective beyond simple prediction error minimization. Organisms do not merely seek to reduce prediction errors but actively manage epistemic uncertainty through exploratory actions, where the cost of uncertainty (quantified as the entropy of the generative model) directly influences action selection. This reframes curiosity and exploration as rational responses to uncertainty rather than incidental behaviors, aligning with empirical findings in animal foraging and human decision-making under ambiguity.
+
+The framework's hierarchical structure reveals how action emerges from multi-level prediction errors across cortical and subcortical systems. At higher levels, abstract predictions about environmental states (e.g., 'I am in a safe location') generate action policies that propagate downward through the hierarchy, with lower-level motor commands adjusting proprioceptive predictions to resolve discrepancies. This hierarchical implementation explains why action planning often involves both high-level goals and low-level sensory-motor adjustments without requiring separate control modules.
+
 ## Mechanism
 
 The mechanism of Active Inference involves the continuous minimization of variational free energy through two primary processes: perception and action. Perception updates the generative model to better predict future inputs, while action adjusts the environment to make sensory input more consistent with the internal model. This process is facilitated by the spinal reflex arc, which translates motor commands into proprioceptive predictions that minimize prediction errors.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+The mechanism involves a continuous bidirectional flow of prediction errors between hierarchical brain regions. Higher-level predictions about environmental states (e.g., 'a ball is coming toward me') generate bottom-up prediction errors when sensory input deviates, which are resolved either by updating the generative model (perception) or by generating motor commands that adjust the environment (action). Crucially, motor commands are treated as predictions about proprioceptive states, meaning that actions like reaching for an object are not outputs but predictions that minimize the discrepancy between expected and actual limb position, mediated by descending pathways that modulate sensory processing.
 
 ## Practical Implications
 
@@ -103,14 +110,27 @@ The mechanism of Active Inference involves the continuous minimization of variat
 > [!example] **Application 3 — Artificial Intelligence**
 > In AI, Active Inference offers a principled approach to developing autonomous agents that can learn and adapt in complex environments. By minimizing prediction errors through both perception and action, these agents can make informed decisions based on their internal models of the world.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Adaptive robotics in dynamic environments**
+> In robotics, Active Inference enables machines to handle unpredictable scenarios by treating environmental interactions as inference problems. A robot navigating a cluttered space might generate motor commands that minimize prediction errors about object positions, adjusting its path not through pre-programmed rules but by updating its internal model of the environment through action. This approach allows for robust adaptation to novel obstacles without requiring explicit reprogramming, as the robot's behavior emerges from minimizing free energy through continuous sensorimotor loops.
+
 ## Key Distinctions
 
 > [!key-distinction] **Unified Perception and Action vs Separate Control**
 > Active Inference differs from other predictive processing frameworks like Free Energy Principle or Bayesian Brain by unifying perception and action under a single principle. Unlike these frameworks, which often treat perception as the primary process for updating internal models, Active Inference emphasizes that both perception and action are forms of inference aimed at minimizing prediction errors.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Active Inference vs Bayesian Brain**
+> While the Bayesian Brain framework treats perception as probabilistic inference and action as a separate optimization process, Active Inference integrates both under a single inference principle. Crucially, in Active Inference, actions are not chosen to maximize reward but to minimize prediction errors about sensory states, making action a form of inference rather than a separate decision process. This distinction resolves the 'free energy paradox' where Bayesian models struggle to explain why organisms act to change sensory input rather than merely updating internal models.
+
 ## Key Figures
 
 - **Karl Friston** — Karl Friston is the primary developer of Active Inference. He introduced this framework as an extension of the Free Energy Principle, emphasizing the unification of perception and action under a single principle of minimizing variational free energy.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Thomas Parr** — Parr extended Active Inference to social cognition, demonstrating how agents infer others' intentions through action-perception loops. His work on 'social active inference' shows that joint actions emerge from minimizing prediction errors about others' sensory states, providing a mechanistic account of social coordination without requiring explicit theory-of-mind modules.
 
 ## Open Questions
 
@@ -123,6 +143,13 @@ The mechanism of Active Inference involves the continuous minimization of variat
 > What are the limitations and potential biases in using generative models?
 >
 > *What would resolve it:* Addressing these concerns would involve developing methods for independently constraining priors in generative models, ensuring that they do not lead to unfalsifiable predictions. This could be achieved through cross-validation with independent datasets or by incorporating empirical constraints.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do neural correlates of prediction error minimization differ between perceptual and action-related processes?
+>
+> *What would resolve it:* High-resolution fMRI and electrophysiology studies tracking prediction errors during perceptual vs. motor tasks would clarify whether the same neural substrates handle both processes or if distinct pathways exist, potentially validating the framework's claim of unified inference.
 
 ## Synthesis
 

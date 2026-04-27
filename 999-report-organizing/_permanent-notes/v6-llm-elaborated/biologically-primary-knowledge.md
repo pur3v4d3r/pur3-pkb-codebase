@@ -1,15 +1,14 @@
 ---
-title: "Biologically Primary Knowledge"
+title: Biologically Primary Knowledge
 aliases:
-  - "Biologically Primary Knowledge"
-  - "Element Interactivity Deep Dive"
-  - "CLT Element Interactivity Specialist Report"
-  - "Element Interactivity Mechanism Analysis"
-  - "Sweller CLT Element Interactivity"
+  - Biologically Primary Knowledge
+  - Element Interactivity Deep Dive
+  - CLT Element Interactivity Specialist Report
+  - Element Interactivity Mechanism Analysis
+  - Sweller CLT Element Interactivity
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,59 +16,59 @@ tags:
 
 domain: cognitive-psychology
 subdomains:
-  - ""
+  - ''
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "cognitive-load-theory-element-interactivity-deep-dive-2026-04-20"
+  - cognitive-load-theory-element-interactivity-deep-dive-2026-04-20
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Schema Construction Loop]]"
-  - "[[Intrinsic Load]]"
+  - '[[Schema Construction Loop]]'
+  - '[[Intrinsic Load]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Schema Construction Loop]]"
-  - "[[Intrinsic Load]]"
+  - '[[Schema Construction Loop]]'
+  - '[[Intrinsic Load]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Biologically Primary Knowledge
 
@@ -109,6 +108,11 @@ The specialized mechanisms involved in acquiring and processing biologically pri
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While both intrinsic and extraneous load deal with cognitive load, they operate in distinct domains. Intrinsic load refers to the inherent difficulty of tasks within a domain, whereas biologically primary knowledge pertains to specialized cognitive systems that are evolutionarily adapted for specific tasks. The distinction is important because it highlights how different types of cognitive processes can be optimized through tailored educational strategies.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Biologically Primary vs Secondary**
+> Biologically primary knowledge refers to cognitive functions with evolutionary adaptations for specific tasks (e.g., face recognition), while biologically secondary knowledge involves culturally constructed skills requiring explicit instruction (e.g., reading or algebra). The distinction lies in their acquisition mechanisms: primary knowledge emerges through innate neural pathways with minimal instruction, whereas secondary knowledge depends on schema construction through deliberate learning. This contrast clarifies why some skills (like language acquisition) develop spontaneously in children while others (like mathematical reasoning) require structured pedagogy.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller, a pioneer in cognitive load theory, was one of the first to recognize and study biologically primary knowledge. His work on schema construction laid the groundwork for understanding how certain cognitive functions operate independently of standard learning processes.
@@ -130,6 +134,11 @@ The specialized mechanisms involved in acquiring and processing biologically pri
 Biologically primary knowledge is crucial for understanding the complex interplay between evolution and cognition. By recognizing these specialized systems, we can better design educational strategies that align with natural cognitive processes. This concept also has broader implications for learning theory by highlighting the importance of innate capabilities in shaping how we learn and process information.
 
 The study of biologically primary knowledge intersects with other domains such as schema construction and intrinsic load, enriching our understanding of cognitive architecture. By integrating these insights, we can develop more effective educational practices that leverage both innate abilities and deliberate learning.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Empirical support for biologically primary knowledge is robust in face recognition studies. Research shows infants as young as 2 months exhibit preferential attention to face-like patterns, and neural responses to faces activate specialized fusiform gyrus regions even before language development. Cross-cultural studies confirm consistent face recognition abilities across diverse populations, suggesting a universal biological basis rather than cultural learning. These findings align with the evolutionary advantage hypothesis, where rapid face processing enhanced social coordination in ancestral environments.
 
 ## Connections & Context
 

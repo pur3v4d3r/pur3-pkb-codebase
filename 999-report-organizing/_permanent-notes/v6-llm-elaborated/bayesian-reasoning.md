@@ -1,13 +1,12 @@
 ---
-title: "Bayesian Reasoning"
+title: Bayesian Reasoning
 aliases:
-  - "Bayesian Reasoning"
-  - "Bayesian inference"
-  - "Bayesian updating"
+  - Bayesian Reasoning
+  - Bayesian inference
+  - Bayesian updating
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - formal-epistemology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "bayesian-reasoning-synthetic-seed-2026-04-25"
+  - bayesian-reasoning-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Probabilistic Thinking"
-
+depth-level: enhanced
+parent-concept: Probabilistic Thinking
 related:
-  - "[[Bayesian Updating]]"
-  - "[[Frequentist Inference]]"
+  - '[[Bayesian Updating]]'
+  - '[[Frequentist Inference]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Bayesian Updating]]"
+  - '[[Bayesian Updating]]'
 contrasts-with:
-  - "[[Frequentist Inference]]"
+  - '[[Frequentist Inference]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Bayesian Reasoning
 
@@ -91,6 +90,9 @@ Empirically, Bayesian Reasoning has been shown to improve decision-making by inc
 
 The process of Bayesian updating involves several steps: first, defining the prior probability distribution based on existing knowledge or assumptions. Next, collecting new evidence and calculating its likelihood under each hypothesis. Finally, applying Bayes' theorem to compute the posterior probability, which reflects the updated belief after considering the new evidence.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+The computational feasibility of Bayesian updating relies heavily on approximation techniques like Markov Chain Monte Carlo (MCMC) methods, which generate samples from posterior distributions without requiring explicit integration. These algorithms enable practical application in high-dimensional spaces by iteratively exploring parameter space, though they introduce convergence diagnostics as a critical consideration in implementation, distinguishing Bayesian computation from analytical solutions.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -107,6 +109,9 @@ The process of Bayesian updating involves several steps: first, defining the pri
 ## Key Figures
 
 - **Thomas Bayes** — Thomas Bayes is credited with the development of what would later become known as Bayes' theorem, although his work was published posthumously in 1763. His contributions laid the groundwork for modern Bayesian reasoning.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Pierre-Simon Laplace** — Laplace independently derived Bayes' theorem in 1812, extending it to practical applications in celestial mechanics and probability theory. His work formalized the concept of inverse probability and introduced the principle of indifference, significantly advancing Bayesian methods beyond Bayes' original formulation while acknowledging his predecessor's contribution.
 
 ## Open Questions
 

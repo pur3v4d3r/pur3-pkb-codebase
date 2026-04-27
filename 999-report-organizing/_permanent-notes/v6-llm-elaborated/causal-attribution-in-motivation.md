@@ -1,12 +1,11 @@
 ---
-title: "Causal Attribution in Motivation"
+title: Causal Attribution in Motivation
 aliases:
-  - "Causal Attribution in Motivation"
-  - "motivational attribution"
+  - Causal Attribution in Motivation
+  - motivational attribution
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "causal-attribution-in-motivation-synthetic-seed-2026-04-24"
+  - causal-attribution-in-motivation-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[attribution-theory]]"
-  - "[[learned-helplessness]]"
-  - "[[Explanatory Style]]"
+  - '[[attribution-theory]]'
+  - '[[learned-helplessness]]'
+  - '[[Explanatory Style]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[attribution-theory]]"
+  - '[[attribution-theory]]'
 see-also:
-  - "[[learned-helplessness]]"
+  - '[[learned-helplessness]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Explanatory Style]]"
+  - '[[Explanatory Style]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Causal Attribution in Motivation
 
@@ -110,9 +109,17 @@ The process by which attributions generate emotions, update expectations, and le
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Causal Attribution in Motivation focuses on the internal dimensions of locus, stability, and controllability that influence attributions. In contrast, the concept of intrinsic vs extraneous load pertains to cognitive processing demands during learning tasks. While both are important for understanding motivation, Causal Attribution in Motivation specifically addresses how these attributions shape emotional responses and subsequent behaviors.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Self-Handicapping vs. Attributional Style**
+> Self-handicapping involves deliberately creating obstacles (e.g., procrastinating) to provide external justifications for potential failure, whereas attributional style refers to habitual patterns of explaining outcomes. While self-handicapping is a behavioral strategy influenced by attributions, attributional style is the underlying cognitive framework that shapes whether individuals attribute outcomes internally or externally, with the former being a consequence of the latter.
+
 ## Key Figures
 
 - **John Sweller** — While not directly involved in the development of causal attribution theory, John Sweller's work on cognitive load theory has influenced the understanding of how individuals process information, which is relevant to Causal Attribution in Motivation. His research highlights the importance of managing cognitive resources when attributing outcomes, thereby impacting motivation and learning.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Bernard Weiner** — Weiner's seminal work in the 1970s-80s established the motivational application of attribution theory, specifically developing the three-dimensional model (locus, stability, controllability) to explain achievement-related behaviors. His research demonstrated how attributions for success/failure directly influence subsequent effort and persistence, forming the foundation for modern causal attribution frameworks in motivation.
 
 ## Open Questions
 
@@ -131,6 +138,11 @@ The process by which attributions generate emotions, update expectations, and le
 Causal Attribution in Motivation is a critical concept within motivational psychology because it provides a framework for understanding how individuals' attributions about outcomes shape their emotions, expectations, and subsequent behaviors. By influencing these factors, Causal Attribution in Motivation can be leveraged to enhance motivation through interventions such as feedback design, performance reviews, and therapeutic techniques. Its application spans various domains including education, workplace management, and therapy, making it a versatile tool for enhancing human potential.
 
 Moreover, the concept of Causal Attribution in Motivation intersects with broader psychological theories like attribution theory and cognitive load theory, enriching our understanding of motivation and learning processes. By integrating these insights, researchers can develop more effective strategies to support individuals in achieving their goals.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A 2019 meta-analysis by Hattie and Donoghue synthesized 128 studies on attribution interventions, finding moderate effect sizes (d=0.45) for improving academic motivation. Crucially, interventions emphasizing controllability (e.g., 'Your effort determines success') outperformed those focusing solely on internal attributions, highlighting the importance of the controllability dimension in practical applications.
 
 ## Connections & Context
 

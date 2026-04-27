@@ -1,12 +1,11 @@
 ---
-title: "Availability Heuristic"
+title: Availability Heuristic
 aliases:
-  - "Availability Heuristic"
-  - "availability bias"
+  - Availability Heuristic
+  - availability bias
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - behavioural-economics
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "availability-heuristic-synthetic-seed-2026-04-24"
+  - availability-heuristic-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Heuristics"
-
+depth-level: enhanced
+parent-concept: Heuristics
 related:
-  - "[[representativeness-heuristic]]"
-  - "[[Anchoring Heuristic]]"
-  - "[[Base Rate Fallacy]]"
+  - '[[representativeness-heuristic]]'
+  - '[[Anchoring Heuristic]]'
+  - '[[Base Rate Fallacy]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[representativeness-heuristic]]"
-  - "[[Anchoring Heuristic]]"
+  - '[[representativeness-heuristic]]'
+  - '[[Anchoring Heuristic]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Base Rate Fallacy]]"
+  - '[[Base Rate Fallacy]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Availability Heuristic
 
@@ -88,6 +87,11 @@ The Availability Heuristic also plays a crucial role in decision-making processe
 
 Theoretical roots of this heuristic can be traced back to cognitive psychology, where it is often discussed alongside other heuristics like the Representativeness Heuristic and Anchoring Heuristic. While these heuristics serve similar purposes in simplifying complex judgments, the Availability Heuristic specifically relies on the ease with which relevant instances come to mind.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+The Availability Heuristic's influence extends beyond individual judgment into collective societal patterns, particularly through media ecosystems. When news outlets disproportionately cover rare but dramatic events—such as mass shootings or natural disasters—their framing shapes public perception of risk frequency. This creates a feedback loop where media coverage amplifies the perceived likelihood of such events, influencing policy priorities and public discourse. For instance, coverage of isolated terrorist incidents often leads to heightened security measures despite statistical evidence showing lower risk compared to preventable causes like cardiovascular disease.
+
+Cultural context significantly modulates the Availability Heuristic's expression. In collectivist societies, shared community experiences may heighten availability for group-relevant events (e.g., agricultural disasters), while individualist cultures might prioritize personal anecdotes. Research indicates that cultural narratives about 'typical' events (e.g., 'accidents happen to others') can alter how readily people access relevant memories, suggesting the heuristic operates within culturally constructed memory frameworks rather than universally.
+
 ## Mechanism
 
 The mechanism of the Availability Heuristic involves a cognitive process where individuals retrieve information from memory based on its accessibility. This retrieval is influenced by factors such as emotional impact and recency, leading to an overemphasis on vivid or recent events at the expense of less memorable but more frequent occurrences.
@@ -103,10 +107,20 @@ The mechanism of the Availability Heuristic involves a cognitive process where i
 > [!example] **Application 3 — Public policy**
 > In public policy, the Availability Heuristic can lead to misallocation of resources and priorities. Policymakers may focus on addressing rare but highly visible issues (e.g., terrorism) while overlooking more prevalent problems (e.g., traffic safety). This can result in suboptimal resource allocation and ineffective risk management.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Public health messaging**
+> During the 2020 pandemic, media coverage of rare vaccine side effects created availability bias, leading to disproportionate vaccine hesitancy despite overwhelming data on safety. Health communicators later mitigated this by pairing statistics with relatable narratives of community protection, demonstrating how integrating base rates with accessible stories can counteract availability-driven misjudgments in health contexts.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Availability Heuristic is distinct from the concept of intrinsic versus extraneous load, which pertains to cognitive psychology. While both deal with how information is processed and remembered, the Availability Heuristic focuses on the ease of recall influencing judgment, whereas intrinsic load refers to the inherent difficulty of a task, and extraneous load refers to unnecessary elements that complicate learning.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Availability Heuristic vs Affect Heuristic**
+> While both heuristics involve emotional processing, the Availability Heuristic specifically relies on the ease of recalling instances (e.g., remembering a shark attack), whereas the Affect Heuristic uses immediate emotional reactions to guide judgments (e.g., feeling 'scared' of flying without recalling specific incidents). The former is memory-driven; the latter is emotion-driven, though they often interact in real-world decisions.
 
 ## Key Figures
 
@@ -124,6 +138,13 @@ The mechanism of the Availability Heuristic involves a cognitive process where i
 > What are the long-term effects of relying on the Availability Heuristic in decision-making?
 >
 > *What would resolve it:* Longitudinal studies tracking individuals' decisions over time and their outcomes could provide insights into the cumulative impact of the Availability Heuristic. Such research would help identify patterns and potential negative consequences.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How does algorithmic curation on social media platforms alter the availability of information compared to traditional media?
+>
+> *What would resolve it:* Empirical studies tracking user exposure to algorithmically filtered content versus random news feeds would clarify whether personalized feeds amplify availability bias through selective reinforcement of vivid events.
 
 ## Synthesis
 

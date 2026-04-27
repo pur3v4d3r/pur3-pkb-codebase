@@ -1,13 +1,12 @@
 ---
-title: "Anchoring Bias"
+title: Anchoring Bias
 aliases:
-  - "Anchoring Bias"
-  - "anchoring effect"
-  - "anchoring-and-adjustment"
+  - Anchoring Bias
+  - anchoring effect
+  - anchoring-and-adjustment
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - decision-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "anchoring-bias-synthetic-seed-2026-04-25"
+  - anchoring-bias-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[cognitive-bias]]"
-  - "[[heuristics-and-biases]]"
-  - "[[framing-effect]]"
-  - "[[availability-heuristic]]"
+  - '[[cognitive-bias]]'
+  - '[[heuristics-and-biases]]'
+  - '[[framing-effect]]'
+  - '[[availability-heuristic]]'
 prerequisites:
-  - "[[cognitive-bias]]"
+  - '[[cognitive-bias]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[heuristics-and-biases]]"
+  - '[[heuristics-and-biases]]'
 contrasts-with:
-  - "[[framing-effect]]"
+  - '[[framing-effect]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[availability-heuristic]]"
+  - '[[availability-heuristic]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Anchoring Bias
 
@@ -89,6 +88,11 @@ Theoretical roots and conceptual nuances of Anchoring Bias can be traced back to
 
 Empirical evidence supporting Anchoring Bias comes from numerous studies showing its robustness across different contexts and populations. For example, Tversky and Kahneman's experiments involved participants estimating numerical values after being given an arbitrary starting point, which influenced their final estimates significantly.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+The 1974 Tversky-Kahneman experiment that first demonstrated anchoring bias employed a clever methodological design: participants spun a rigged wheel of fortune to generate a random number, then estimated the percentage of African nations in the UN. Crucially, the random number served as an anchor, with participants' estimates correlating strongly with it despite its irrelevance. This revealed anchoring as a fundamental feature of human cognition rather than a mere statistical artifact, challenging the prevailing view that people process information objectively. The experiment's elegance lay in its use of arbitrary anchors to isolate the bias from meaningful contextual cues.
+
+Contemporary research has revealed anchoring's amplification in digital environments where default values and pre-set options function as potent anchors. Online platforms increasingly exploit this by displaying 'suggested prices' or 'average user bids' that subtly influence consumer decisions without explicit justification. For instance, e-commerce sites showing a 'compare at' price above the actual cost create an anchor that makes the discounted price seem more favorable, even when the comparison point is arbitrary. This digital anchoring operates through similar cognitive mechanisms as traditional settings but leverages the constant exposure to pre-set reference points in algorithmically curated interfaces.
+
 ## Mechanism
 
 The mechanism of Anchoring Bias involves selective accessibility, where information consistent with the anchor becomes more prominent during deliberation. This means that even if a participant is aware of the initial value's arbitrariness, it still influences their subsequent judgments by making related information more accessible in memory.
@@ -107,6 +111,11 @@ The mechanism of Anchoring Bias involves selective accessibility, where informat
 > [!example] **Application 4 — Survey Design**
 > In survey design, anchoring bias can affect responses when questions are framed in a way that includes an arbitrary starting point. For example, if a question asks respondents to estimate the number of people who support a policy after showing them a figure that is either too high or too low, their estimates may be skewed towards this anchor rather than reflecting actual opinions.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 5 — Clinical Diagnoses**
+> In medical settings, initial patient symptoms or preliminary test results often serve as anchors that shape subsequent diagnostic reasoning. A physician presented with a patient's fever and cough might anchor on influenza as the primary diagnosis, leading to selective attention to confirming symptoms while overlooking less common but critical conditions like pneumonia. This can result in delayed or incorrect treatment, particularly when the initial anchor is based on a common but misleading presentation. Studies show that structured diagnostic protocols that require explicit consideration of alternative hypotheses reduce this anchoring effect in clinical decision-making.
+
 ## Key Distinctions
 
 > [!key-distinction] **Anchoring Bias vs. Confirmation Bias**
@@ -114,6 +123,11 @@ The mechanism of Anchoring Bias involves selective accessibility, where informat
 
 > [!key-distinction] **Anchoring Bias vs. Availability Heuristic**
 > Both biases are influenced by readily available information, but anchoring bias specifically refers to the influence of a particular initial value on subsequent judgments, while availability heuristic involves basing judgments on the ease with which relevant instances come to mind.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Anchoring Bias vs. Contrast Effect**
+> Anchoring bias involves using an initial value as a reference point for subsequent judgments, while the contrast effect occurs when an initial stimulus makes a subsequent stimulus appear more extreme in comparison. For example, in anchoring, a high initial price makes a moderate price seem low; in contrast, a high initial price makes a moderate price seem even lower than it would if compared to a neutral reference. The key distinction lies in the mechanism: anchoring adjusts toward the anchor, whereas contrast effect exaggerates differences relative to the anchor.
 
 ## Key Figures
 
@@ -137,6 +151,9 @@ The mechanism of Anchoring Bias involves selective accessibility, where informat
 Understanding Anchoring Bias is crucial for improving decision-making processes across various domains. By recognizing the influence of initial anchors, we can develop strategies to mitigate its effects in fields such as finance, negotiation, and education. This bias highlights the importance of being aware of our cognitive shortcuts and actively seeking out alternative perspectives or data points to ensure more accurate judgments.
 
 The study of Anchoring Bias also intersects with other concepts like Heuristics and Biases, where it serves as a foundational example of how mental shortcuts can lead to systematic errors. By integrating insights from Anchoring Bias into broader theories of cognitive architecture, we can better understand the complex interplay between initial information and subsequent judgments.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Anchoring bias exemplifies the broader framework of bounded rationality, where cognitive limitations systematically shape judgment. It demonstrates how decision-making processes are not merely about information processing but about the structure of available information itself. This perspective positions anchoring not as an isolated error but as a predictable consequence of cognitive architecture, informing interventions that restructure information presentation rather than attempting to override innate processing tendencies.
 
 ## Connections & Context
 

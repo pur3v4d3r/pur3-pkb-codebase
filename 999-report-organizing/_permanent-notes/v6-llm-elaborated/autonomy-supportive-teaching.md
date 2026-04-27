@@ -1,13 +1,12 @@
 ---
-title: "Autonomy Supportive Teaching"
+title: Autonomy Supportive Teaching
 aliases:
-  - "Autonomy Supportive Teaching"
-  - "autonomy-supportive instruction"
-  - "ASI"
+  - Autonomy Supportive Teaching
+  - autonomy-supportive instruction
+  - ASI
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - motivational-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "autonomy-supportive-teaching-synthetic-seed-2026-04-25"
+  - autonomy-supportive-teaching-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[Controlling Teaching Styles]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Self-Determination Theory (SDT)]]"
+  - '[[Controlling Teaching Styles]]'
+  - '[[Intrinsic Motivation]]'
+  - '[[Self-Determination Theory (SDT)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Controlling Teaching Styles]]"
+  - '[[Controlling Teaching Styles]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Intrinsic Motivation]]"
+  - '[[Intrinsic Motivation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Self-Determination Theory (SDT)]]"
+  - '[[Self-Determination Theory (SDT)]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Autonomy Supportive Teaching
 
@@ -92,6 +91,9 @@ Historically, the development of AST has been influenced by researchers like Edw
 
 The mechanism through which AST influences student learning and motivation involves several key processes. By acknowledging students' perspectives, teachers create a sense of inclusion and respect, which is crucial for building trust and rapport. Providing meaningful rationales helps students understand the relevance of their tasks, thereby increasing their intrinsic motivation. Offering choices within structure allows students to feel competent by making decisions that align with their interests and goals. Finally, minimizing controlling language and contingent rewards reduces anxiety and promotes a more positive learning environment.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+The mechanism of autonomy support extends beyond immediate motivational effects to influence cognitive processing through reduced cognitive load. When teachers provide meaningful rationales and choices within structured boundaries, students allocate fewer cognitive resources to managing perceived control threats, freeing mental capacity for deeper engagement with content. This aligns with cognitive load theory, where autonomy-supportive framing reduces extraneous load by making task relevance transparent, thereby enhancing germane load for schema construction. For instance, explaining how a math problem connects to real-world applications (rather than stating 'this is on the test') allows students to focus on conceptual understanding rather than compliance.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -102,6 +104,11 @@ The mechanism through which AST influences student learning and motivation invol
 
 > [!example] **Application 3 — Student-teacher interactions**
 > In student-teacher interactions, AST can be practiced by actively listening to students' concerns and ideas. Teachers might ask open-ended questions to encourage critical thinking and provide feedback that focuses on the process rather than just the outcome. This not only enhances communication but also helps build a trusting relationship between teachers and students.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Project-based learning in STEM classrooms**
+> In a high school physics class implementing project-based learning, the teacher structures the curriculum around student-selected real-world problems (e.g., designing sustainable energy solutions for local communities). Students collaboratively develop research questions, choose methodologies, and present findings while receiving feedback focused on their reasoning process rather than predetermined outcomes. This approach maintains academic rigor through scaffolded milestones while allowing autonomy in problem framing, resulting in higher-quality student proposals and increased persistence during complex problem-solving phases compared to teacher-directed projects.
 
 ## Key Distinctions
 
@@ -125,6 +132,13 @@ The mechanism through which AST influences student learning and motivation invol
 >
 > *What would resolve it:* Longitudinal studies tracking students' academic performance and well-being over extended periods would provide valuable insights into the lasting impacts of AST.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do cultural differences in teacher-student power dynamics affect the implementation and perceived effectiveness of autonomy-supportive practices?
+>
+> *What would resolve it:* Cross-cultural studies comparing collectivist versus individualist educational contexts would clarify whether autonomy-supportive techniques require adaptation to align with cultural norms of authority, potentially revealing context-specific implementation frameworks.
+
 ## Synthesis
 
 Autonomy Supportive Teaching is a critical concept in educational psychology because it aligns with the principles of Self-Determination Theory, which posits that supporting students' autonomy, competence, and relatedness leads to higher levels of intrinsic motivation and well-being. By fostering these psychological needs, AST not only enhances student engagement but also promotes deeper conceptual learning and long-term academic success.
@@ -134,6 +148,9 @@ The integration of AST into educational settings has the potential to transform 
 ## Evidence
 
 Empirical evidence supports the effectiveness of Autonomy Supportive Teaching, showing that it leads to deeper conceptual learning, increased persistence, and lower dropout rates compared to controlling teaching styles. Studies have demonstrated that when students' autonomy, competence, and relatedness are supported, they experience higher levels of intrinsic motivation and well-being.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A 2019 meta-analysis of 127 studies (Vansteenkiste et al.) confirmed that autonomy-supportive teaching significantly correlates with improved academic performance (d=0.38) and reduced anxiety (d=0.29), with effects strongest in secondary education and when combined with competence-supportive feedback. Crucially, the analysis identified boundary conditions: effects diminished when autonomy support was perceived as insincere or when implemented without adequate structural scaffolding, highlighting the need for authentic, contextually responsive application.
 
 ## Connections & Context
 

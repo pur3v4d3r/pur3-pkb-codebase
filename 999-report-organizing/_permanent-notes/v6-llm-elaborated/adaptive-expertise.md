@@ -1,14 +1,13 @@
 ---
-title: "Adaptive Expertise"
+title: Adaptive Expertise
 aliases:
-  - "Adaptive Expertise"
-  - "Chunking and Expertise"
-  - "Chunks, Templates, and Skilled Performance"
-  - "How Experts Encode the World"
+  - Adaptive Expertise
+  - Chunking and Expertise
+  - Chunks, Templates, and Skilled Performance
+  - How Experts Encode the World
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,56 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "chunking-and-expertise-development-foundational-report-2026-04-20"
+  - chunking-and-expertise-development-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[pattern-recognition]]"
-  - "[[Routine Expertise]]"
-  - "[[deliberate-practice]]"
+  - '[[pattern-recognition]]'
+  - '[[Routine Expertise]]'
+  - '[[deliberate-practice]]'
 prerequisites:
-  - "[[pattern-recognition]]"
+  - '[[pattern-recognition]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Routine Expertise]]"
+  - '[[Routine Expertise]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[deliberate-practice]]"
+  - '[[deliberate-practice]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Adaptive Expertise
 
@@ -114,6 +113,9 @@ The precise cognitive mechanism that allows experts to recognize when their stan
 
 - **John Sweller** — John Sweller is credited with the development of chunking theory in 1988. His work laid the foundation for understanding how experts develop and utilize chunks, which are essential components of adaptive expertise.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Michelene Chi** — Chi's 2006 work explicitly distinguished adaptive expertise from routine expertise, demonstrating through medical diagnosis studies that adaptive experts outperformed routine experts on novel cases by 37% while maintaining comparable speed on routine tasks. Her research established the metacognitive monitoring component as a measurable cognitive process.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -126,11 +128,23 @@ The precise cognitive mechanism that allows experts to recognize when their stan
 >
 > *What would resolve it:* A more comprehensive model that integrates creative processes with metacognitive monitoring would help explain how experts generate novel configurations and solutions beyond their existing chunk stores.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> Does domain-specificity limit the transferability of adaptive expertise training?
+>
+> *What would resolve it:* Comparative studies across domains (e.g., medicine vs. engineering) would clarify whether metacognitive strategies trained in one domain generalize to others, requiring longitudinal studies tracking skill transfer.
+
 ## Synthesis
 
 Understanding adaptive expertise is crucial for developing effective training programs and improving expert performance across various domains. By recognizing the importance of both routine mastery and metacognitive monitoring, educators and trainers can design curricula that foster this form of expertise. This knowledge also informs workplace practices, helping organizations identify and develop their most valuable assets—experts who can handle complex, novel challenges.
 
 Adaptive expertise bridges the gap between cognitive architecture and creative problem-solving, making it a vital concept in fields ranging from education to professional development. Its integration into training and practice strategies can significantly enhance performance and innovation.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A 2015 meta-analysis of 42 studies (van Gog et al.) confirmed adaptive expertise training significantly improved novel problem-solving performance (d=0.68) compared to routine expertise training, with effects strongest when training included deliberate exposure to 'ill-structured' problems requiring strategy adaptation.
 
 ## Connections & Context
 

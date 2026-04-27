@@ -1,15 +1,14 @@
 ---
-title: "Adaptive Help-Seeking"
+title: Adaptive Help-Seeking
 aliases:
-  - "Adaptive Help-Seeking"
-  - "Achievement Goal Theory"
-  - "Mastery vs Performance Goals"
-  - "AGT"
-  - "Goal Orientation Framework"
+  - Adaptive Help-Seeking
+  - Achievement Goal Theory
+  - Mastery vs Performance Goals
+  - AGT
+  - Goal Orientation Framework
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,58 +21,58 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20"
+  - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[Mastery-Approach Orientation]]"
-  - "[[self-regulated-learning]]"
-  - "[[Executive Help-Seeking]]"
-  - "[[Help-Avoidance]]"
+  - '[[Mastery-Approach Orientation]]'
+  - '[[self-regulated-learning]]'
+  - '[[Executive Help-Seeking]]'
+  - '[[Help-Avoidance]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Mastery-Approach Orientation]]"
+  - '[[Mastery-Approach Orientation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-regulated-learning]]"
+  - '[[self-regulated-learning]]'
 contrasts-with:
-  - "[[Executive Help-Seeking]]"
-  - "[[Help-Avoidance]]"
+  - '[[Executive Help-Seeking]]'
+  - '[[Help-Avoidance]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Adaptive Help-Seeking
 
@@ -97,6 +96,9 @@ Empirical evidence supports the importance of adaptive help-seeking in fostering
 
 The cognitive processes involved in adaptive help-seeking can be understood through a three-level cascade — attentional, strategic, affective — that shapes downstream behavior. At the attentional level, learners focus on task structure and identify areas where they need support. This is followed by the recruitment of deep strategies at the strategic level, such as seeking out worked examples or conceptual frameworks. Finally, this process is reinforced through engagement-family affect, which sustains effort and adaptive help-seeking.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+Metacognitive monitoring serves as the critical precursor to adaptive help-seeking, where learners continuously assess their task comprehension and resource allocation. This self-monitoring process, distinct from mere task difficulty evaluation, involves recognizing when cognitive resources are insufficient to proceed independently. When learners detect this impasse, they activate a strategic response: seeking conceptual scaffolds rather than solutions. This monitoring is particularly sensitive to the perceived goal orientation of the task; in mastery-oriented contexts, learners are more likely to engage in this self-assessment, whereas performance-oriented contexts may trigger avoidance behaviors. The metacognitive component thus bridges the gap between task engagement and strategic help-seeking behavior.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -108,10 +110,20 @@ The cognitive processes involved in adaptive help-seeking can be understood thro
 > [!example] **Application 3 — Peer collaboration**
 > In peer learning environments, fostering adaptive help-seeking involves creating a supportive atmosphere where students feel comfortable seeking assistance from their peers. This can be achieved through structured group activities that encourage collaborative problem-solving and the sharing of resources.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — AI-Powered Learning Platforms**
+> In adaptive learning systems, AI tutors can detect when students are struggling with conceptual understanding rather than procedural steps, prompting targeted hints that align with adaptive help-seeking principles. For instance, when a student repeatedly attempts algebra problems without progress, the system might offer a visual representation of the underlying concept instead of the solution, encouraging deeper engagement. This approach has shown promise in reducing help-avoidance behaviors in STEM domains by aligning technological support with metacognitive monitoring processes.
+
 ## Key Distinctions
 
 > [!key-distinction] **Adaptive vs Executive Help-Seeking**
 > Adaptive help-seeking involves seeking support to enhance learning, while executive help-seeking substitutes external solutions for internal learning. Adaptive help-seekers focus on understanding and mastering the material, whereas those who engage in executive help-seeking bypass the learning process by directly obtaining answers.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Adaptive Help-Seeking vs. Help-Seeking as Social Strategy**
+> Adaptive help-seeking focuses on cognitive and metacognitive needs to maintain independent learning, whereas help-seeking as a social strategy involves seeking assistance primarily to build relationships or gain social approval. The former is driven by task mastery goals and occurs when learners perceive a genuine knowledge gap, while the latter may manifest as frequent, non-task-relevant requests aimed at social validation. This distinction is crucial in educational settings where students might confuse social interaction with learning support, potentially leading to maladaptive help-seeking patterns.
 
 ## Key Figures
 
@@ -130,11 +142,21 @@ The cognitive processes involved in adaptive help-seeking can be understood thro
 >
 > *What would resolve it:* Longitudinal studies tracking students' help-seeking behaviors over extended periods would offer insights into the lasting impacts of adaptive help-seeking on learning outcomes and motivation.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How does adaptive help-seeking manifest differently in collaborative versus individual learning contexts?
+>
+> *What would resolve it:* Longitudinal studies tracking help-seeking behaviors across different learning structures would clarify whether collaborative environments inherently foster adaptive help-seeking or if specific scaffolding is required to maintain this behavior in group settings.
+
 ## Synthesis
 
 Adaptive help-seeking is a vital component of self-regulated learning, playing a crucial role in fostering effective learning strategies and enhancing academic success. By integrating this concept with other related ideas such as mastery-approach orientation and goal orientation theory, educators can better understand how to support students in developing the skills necessary for independent work. The broader implications extend beyond education into professional development contexts, where continuous learning and adaptation are essential.
 
 Understanding adaptive help-seeking also has significant practical applications in various domains, including workplace learning and performance management systems. By recognizing the importance of this behavior, organizations can create supportive environments that encourage employees to seek out appropriate assistance, leading to improved performance and sustained engagement.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Adaptive help-seeking represents a dynamic intersection between self-regulated learning and social-cognitive processes, where learners actively negotiate their relationship with support systems. It extends beyond simple behavioral choices to encompass a sophisticated understanding of when and how assistance aligns with learning goals. This concept thus occupies a pivotal position within the broader self-regulated learning framework, bridging cognitive processes with motivational orientations and social interactions in learning environments.
 
 ## Connections & Context
 

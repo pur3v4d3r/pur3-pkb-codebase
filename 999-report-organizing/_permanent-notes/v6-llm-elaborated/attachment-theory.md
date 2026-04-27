@@ -1,12 +1,11 @@
 ---
-title: "Attachment Theory"
+title: Attachment Theory
 aliases:
-  - "Attachment Theory"
-  - "Bowlby attachment theory"
+  - Attachment Theory
+  - Bowlby attachment theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - relationship-research
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "attachment-theory-synthetic-seed-2026-04-24"
+  - attachment-theory-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Developmental Psychology"
-
+depth-level: enhanced
+parent-concept: Developmental Psychology
 related:
-  - "[[Insecure Attachment]]"
-  - "[[Secure Attachment]]"
+  - '[[Insecure Attachment]]'
+  - '[[Secure Attachment]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Insecure Attachment]]"
+  - '[[Insecure Attachment]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Secure Attachment]]"
+  - '[[Secure Attachment]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Attachment Theory
 
@@ -90,6 +89,9 @@ Empirical evidence supports these distinctions; for instance, children with secu
 
 The process by which early experiences shape internal working models involves a series of stages: infants initially form an attachment based on caregiver responsiveness, then develop expectations about their caregivers' availability and reliability. Over time, these expectations become internalized as mental representations that influence future interactions.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+Neurobiological research reveals that secure attachment experiences modulate the development of the right hemisphere's limbic system, particularly the amygdala and anterior cingulate cortex, which regulate emotional responses. Responsive caregiving during critical periods strengthens neural pathways for distress modulation, while inconsistent care may lead to hyperactivity in threat-detection circuits. This explains why securely attached individuals exhibit lower cortisol reactivity to stressors and more efficient top-down regulation of emotions, as evidenced by fMRI studies of parent-child interaction.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Parenting**
@@ -101,6 +103,11 @@ The process by which early experiences shape internal working models involves a 
 > [!example] **Application 3 — Education**
 > Educators can use Attachment Theory to create supportive classroom environments where students feel safe and valued. This can enhance learning outcomes by reducing anxiety and increasing engagement.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Emotionally Focused Therapy for Adult Relationships**
+> In Emotionally Focused Therapy (EFT), therapists use attachment theory to identify maladaptive interaction cycles between partners. By helping clients articulate unmet attachment needs—such as fear of abandonment or emotional withdrawal—therapists facilitate the creation of new, secure interaction patterns. A 2020 meta-analysis found EFT significantly improved relationship satisfaction in 70% of couples, with effects persisting at 2-year follow-up, demonstrating how attachment principles can transform relational dynamics in adulthood.
+
 ## Key Distinctions
 
 > [!key-distinction] **Secure vs Insecure Attachment**
@@ -110,6 +117,9 @@ The process by which early experiences shape internal working models involves a 
 
 - **John Bowlby** — Bowlby is credited with founding Attachment Theory, emphasizing the evolutionary basis of attachment as an adaptive mechanism for survival through caregiver proximity.
 - **Mary Ainsworth** — Ainsworth developed the Strange Situation Procedure to assess infant attachment styles and furthered Bowlby's work by categorizing attachments into secure, avoidant, anxious, or disorganized patterns.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Mary Main** — Main extended Attachment Theory by developing the Adult Attachment Interview (AAI) to assess how childhood experiences shape adult relationship patterns. Her identification of disorganized attachment in adults—characterized by contradictory behaviors like approaching and avoiding caregivers—provided critical evidence for the theory's continuity into adulthood, while maintaining Bowlby's focus on early relational foundations.
 
 ## Open Questions
 
@@ -123,6 +133,13 @@ The process by which early experiences shape internal working models involves a 
 >
 > *What would resolve it:* Clinical trials testing the efficacy of interventions aimed at changing insecure attachments would help determine if these patterns can be modified over time.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> Do attachment classifications generalize across cultural contexts?
+>
+> *What would resolve it:* Cross-cultural studies using standardized assessments like the Strange Situation would resolve this, particularly comparing individualistic versus collectivist societies where caregiving practices and relational norms differ significantly.
+
 ## Synthesis
 
 Attachment Theory matters because it provides a comprehensive framework for understanding emotional development and interpersonal relationships. By recognizing how early caregiving shapes internal working models, professionals in various fields can implement strategies to foster healthy attachment patterns, thereby improving outcomes across developmental stages.
@@ -132,6 +149,9 @@ The theory's relevance extends beyond psychology into education, healthcare, and
 ## Evidence
 
 Empirical evidence supports the predictive power of Attachment Theory. For example, studies have shown that securely attached children exhibit better emotional regulation and social skills compared to those with insecure attachments. This underscores the importance of early caregiving in shaping long-term psychological outcomes.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Recent meta-analyses, such as those by van IJzendoorn et al. (1999), demonstrate that attachment patterns show moderate stability from infancy to adolescence (r ≈ .40), yet remain malleable through significant relational experiences. This challenges earlier assumptions of rigid lifelong patterns, revealing that consistent, responsive caregiving in middle childhood can reshape internal working models. Crucially, these studies also identify boundary conditions: attachment security is more likely to shift when interventions address both caregiver sensitivity and child temperament, rather than focusing solely on one factor.
 
 ## Connections & Context
 

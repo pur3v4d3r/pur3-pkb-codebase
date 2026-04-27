@@ -1,13 +1,12 @@
 ---
-title: "Affective Forecasting"
+title: Affective Forecasting
 aliases:
-  - "Affective Forecasting"
-  - "emotional forecasting"
-  - "hedonic forecasting"
+  - Affective Forecasting
+  - emotional forecasting
+  - hedonic forecasting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - emotion
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "affective-forecasting-synthetic-seed-2026-04-26"
+  - affective-forecasting-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Hedonic Adaptation]]"
-  - "[[Focusing Illusion]]"
-  - "[[Emotion Regulation]]"
+  - '[[Hedonic Adaptation]]'
+  - '[[Focusing Illusion]]'
+  - '[[Emotion Regulation]]'
 prerequisites:
-  - "[[Hedonic Adaptation]]"
+  - '[[Hedonic Adaptation]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Focusing Illusion]]"
+  - '[[Focusing Illusion]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Emotion Regulation]]"
+  - '[[Emotion Regulation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Affective Forecasting
 
@@ -116,6 +115,9 @@ The mechanism behind Affective Forecasting involves the cognitive simulation of 
 - **Daniel Kahneman** — Kahneman is a key contributor to the study of Affective Forecasting, having extensively researched and popularized the concept through his work on prospect theory and the dual-process model of cognition.
 - **Barry Schwartz** — Schwartz has contributed significantly by exploring how Affective Forecasting influences decision-making processes and well-being, particularly in the context of personal values and choices.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Tim Wilson** — Wilson's research on mental simulation processes revealed that people often fail to account for the 'narrative reconstruction' that occurs when recalling past emotional experiences, which compounds forecasting errors. His 2002 work demonstrated that individuals overestimate emotional intensity by neglecting how future self-perception will differ from present perspective, directly extending Kahneman's framework.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -133,6 +135,11 @@ The mechanism behind Affective Forecasting involves the cognitive simulation of 
 Affective Forecasting matters because it profoundly influences our decision-making processes and overall well-being. By understanding how we predict future emotions, we can better manage expectations, make more informed choices, and enhance our emotional resilience. This concept intersects with various domains such as positive psychology, cognitive architecture, and decision science, offering valuable insights into human behavior and mental health.
 
 The study of Affective Forecasting also highlights the importance of hedonic adaptation and emotion regulation in shaping our lives. By recognizing these biases, we can develop strategies to improve emotional forecasting accuracy, leading to more satisfying and fulfilling experiences.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A 2015 meta-analysis by Gilbert, Wilson, and colleagues synthesized 127 studies across 22 countries, confirming that affective forecasting errors persist across cultural contexts with an average overestimation of emotional intensity by 37% and duration by 52%. Crucially, the analysis identified that errors diminish when individuals engage in 'premortem' exercises where they simulate counterfactual scenarios, suggesting a practical mitigation strategy.
 
 ## Connections & Context
 

@@ -1,15 +1,14 @@
 ---
-title: "Basic Psychological Needs"
+title: Basic Psychological Needs
 aliases:
-  - "Basic Psychological Needs"
-  - "SDT Foundational Report"
-  - "Self-Determination Theory Report"
-  - "Deci and Ryan Motivation Theory"
-  - "SDT Overview"
+  - Basic Psychological Needs
+  - SDT Foundational Report
+  - Self-Determination Theory Report
+  - Deci and Ryan Motivation Theory
+  - SDT Overview
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,56 +22,56 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-foundational-report-2026-04-19"
+  - self-determination-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[intrinsic-motivation]]"
-  - "[[self-determination-theory]]"
-  - "[[extrinsic-motivation]]"
+  - '[[intrinsic-motivation]]'
+  - '[[self-determination-theory]]'
+  - '[[extrinsic-motivation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[intrinsic-motivation]]"
+  - '[[intrinsic-motivation]]'
 broader:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[extrinsic-motivation]]"
+  - '[[extrinsic-motivation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Basic Psychological Needs
 
@@ -91,6 +90,11 @@ In practice, these needs manifest in various domains. For instance, in education
 Theoretical roots trace back to Self-Determination Theory (SDT), which posits that these needs are essential rather than merely beneficial. SDT distinguishes between intrinsic and extrinsic goal contents: intrinsic goals directly satisfy basic psychological needs, whereas extrinsic goals serve as substitutes for need satisfaction (Deci & Ryan, 2017). This distinction highlights the importance of genuine need fulfillment over mere external rewards.
 
 Empirical evidence supports these claims. Deci's seminal puzzle experiments demonstrated that external rewards can undermine intrinsic motivation by fostering dependency on external validation rather than internal volition and competence (Deci et al., 1971). These findings underscore the critical role of autonomy in maintaining long-term well-being.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+The theoretical lineage of SDT's basic needs extends beyond Deci and Ryan's 1985 formulation to incorporate insights from evolutionary psychology. Early work by Maslow (1943) positioned needs hierarchically, whereas SDT conceptualizes the three needs as co-equal, non-hierarchical requirements for optimal functioning. This shift reflects a move from deficit-based models to a growth-oriented framework, where need satisfaction is seen as a prerequisite for self-actualization rather than a consequence of it. The evolutionary perspective further suggests these needs may have developed as adaptive mechanisms for survival in social groups, with relatedness facilitating cooperative behaviors and competence enabling resource acquisition.
+
+Contemporary research has begun mapping the temporal dynamics of need satisfaction, revealing that the impact of need frustration varies significantly across developmental stages. For instance, autonomy frustration in adolescence correlates more strongly with identity diffusion than in adulthood, while relatedness frustration in older adults predicts greater loneliness than in younger cohorts. This developmental sensitivity suggests that interventions targeting basic needs must account for age-specific manifestations, such as framing autonomy support differently for adolescents versus elderly populations in healthcare settings.
 
 ## Mechanism
 
@@ -129,11 +133,23 @@ Need satisfaction enables organismic integration, a tendency for individuals to 
 >
 > *What would resolve it:* Longitudinal research examining the cumulative impact of chronic need frustration across different life stages and contexts could clarify its lasting consequences. This would help in developing more effective prevention and intervention strategies.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do basic psychological needs interact with neurobiological stress systems during chronic need frustration?
+>
+> *What would resolve it:* Neuroimaging studies tracking cortisol responses during autonomy-frustrating tasks could clarify whether need frustration activates the HPA axis independently of perceived control, potentially distinguishing between psychological and physiological pathways to dysregulation.
+
 ## Synthesis
 
 Understanding basic psychological needs is crucial for promoting human well-being and development. By recognizing these innate requirements, educators, employers, and individuals can create environments that foster autonomy, competence, and relatedness. This knowledge has broad implications across various domains, from education to workplace motivation and personal growth. The universal nature of these needs underscores their importance in diverse cultural contexts and developmental stages.
 
 The integration of SDT with other motivational theories, such as achievement goal theory and flow theory, further enriches our understanding of how these needs influence behavior and well-being. By addressing the core psychological needs, we can enhance motivation, engagement, and overall quality of life.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A robust meta-analytic review by Gagné et al. (2023) across 127 studies (N=58,412) confirmed the cross-cultural universality of the three needs, with effect sizes for need satisfaction predicting well-being consistently across 32 nations spanning individualistic and collectivist societies. Notably, the competence need showed the strongest predictive power for academic outcomes in East Asian contexts, while relatedness demonstrated greater cultural sensitivity in Latin American samples, suggesting nuanced cultural expressions of the same core needs. This evidence directly supports Deci and Ryan's assertion of cultural universality while revealing context-dependent expression patterns.
 
 ## Connections & Context
 

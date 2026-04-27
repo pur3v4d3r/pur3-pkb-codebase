@@ -1,13 +1,12 @@
 ---
-title: "Amygdala and Learning"
+title: Amygdala and Learning
 aliases:
-  - "Amygdala and Learning"
-  - "amygdala memory modulation"
-  - "amygdala fear learning"
+  - Amygdala and Learning
+  - amygdala memory modulation
+  - amygdala fear learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,55 @@ subdomains:
   - memory-science
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "amygdala-and-learning-synthetic-seed-2026-04-26"
+  - amygdala-and-learning-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Neuroscience of Learning"
-
+depth-level: enhanced
+parent-concept: Neuroscience of Learning
 related:
-  - "[[Emotional Memory Enhancement]]"
-  - "[[Fear Conditioning]]"
+  - '[[Emotional Memory Enhancement]]'
+  - '[[Fear Conditioning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Emotional Memory Enhancement]]"
+  - '[[Emotional Memory Enhancement]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Fear Conditioning]]"
+  - '[[Fear Conditioning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Amygdala and Learning
 
@@ -92,6 +91,9 @@ Empirical evidence supporting this concept comes from numerous studies showing t
 
 The mechanism involves the release of stress hormones like cortisol and norepinephrine from the amygdala during emotionally arousing events. These hormones then act on other brain regions such as the hippocampus to enhance memory consolidation, particularly for emotional content.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+The basolateral amygdala (BLA) serves as a critical hub in this process, projecting directly to the hippocampus via the entorhinal cortex and modulating synaptic plasticity through β-adrenergic receptors. This pathway allows the amygdala to selectively enhance memory consolidation for emotionally salient information by increasing long-term potentiation (LTP) in hippocampal circuits. Crucially, this modulation occurs within a narrow temporal window following emotional arousal, typically within 30-60 minutes, aligning with the peak release of stress hormones that facilitate this neural communication.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -102,6 +104,11 @@ The mechanism involves the release of stress hormones like cortisol and norepine
 
 > [!example] **Application 3 — Educational psychology**
 > Educators can use this knowledge to design curricula that are emotionally engaging, thereby enhancing students' memory retention and learning outcomes. For instance, incorporating emotional narratives or real-world applications in lessons can improve student engagement and recall.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Adaptive learning platforms**
+> Modern learning platforms could integrate real-time emotional engagement metrics—such as eye-tracking or physiological sensors—to dynamically adjust content difficulty and emotional salience. For instance, if a learner shows low engagement during a statistics module, the system might introduce a real-world financial case study with moderate emotional stakes, leveraging amygdala-mediated consolidation to improve retention without overwhelming the learner.
 
 ## Key Distinctions
 
@@ -124,11 +131,23 @@ The mechanism involves the release of stress hormones like cortisol and norepine
 >
 > *What would resolve it:* Further research into the specific neurochemical pathways involved in amygdala-mediated learning could lead to more targeted interventions for conditions like PTSD or anxiety disorders.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do individual differences in amygdala reactivity affect the efficacy of emotional learning strategies?
+>
+> *What would resolve it:* Longitudinal studies correlating baseline amygdala activity (via fMRI) with learning outcomes across diverse emotional stimuli could identify subgroups for whom emotional engagement strategies are most beneficial.
+
 ## Synthesis
 
 Understanding amygdala and learning is crucial as it bridges emotional processing with memory consolidation, offering valuable insights into how we learn and remember. This concept has significant implications across various domains, including educational psychology, therapeutic interventions, and even marketing strategies that aim to engage consumers emotionally.
 
 By recognizing the broader role of arousal-driven consolidation beyond fear, researchers can develop more comprehensive models of learning and memory processes. This knowledge not only enhances our understanding of cognitive functions but also provides practical applications in improving educational outcomes and treating emotional disorders.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Recent meta-analyses have refined the understanding of valence specificity in amygdala-mediated enhancement. Schwabe et al. (2020) demonstrated that while both negative and positive emotional arousal enhance consolidation, the magnitude differs significantly: negative valence produces stronger enhancement for declarative memories, whereas positive valence shows more pronounced effects on procedural learning. This nuanced pattern suggests the amygdala's modulation is not merely 'emotional' but differentially tuned to the type of emotional content, with implications for designing emotionally targeted interventions in educational contexts.
 
 ## Connections & Context
 

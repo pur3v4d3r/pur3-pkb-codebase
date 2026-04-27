@@ -1,12 +1,11 @@
 ---
-title: "Autobiographical Memory"
+title: Autobiographical Memory
 aliases:
-  - "Autobiographical Memory"
-  - "self-referential memory"
+  - Autobiographical Memory
+  - self-referential memory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "autobiographical-memory-synthetic-seed-2026-04-25"
+  - autobiographical-memory-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[episodic-memory]]"
-  - "[[semantic-memory]]"
+  - '[[episodic-memory]]'
+  - '[[semantic-memory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[episodic-memory]]"
+  - '[[episodic-memory]]'
 contrasts-with:
-  - "[[semantic-memory]]"
+  - '[[semantic-memory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Autobiographical Memory
 
@@ -101,6 +100,11 @@ Autobiographical memories are reconstructed based on current goals, mood, and po
 > [!example] **Application 3 — Artificial intelligence**
 > In the field of artificial intelligence, understanding autobiographical memory can inform the development of systems that better simulate human-like reasoning and decision-making. By integrating personal experiences with semantic knowledge, AI models could provide more contextually relevant responses to user queries.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Narrative Exposure Therapy for PTSD**
+> In trauma therapy, clinicians use structured autobiographical memory reconstruction to help patients reframe traumatic events within a coherent life narrative. By guiding clients to integrate fragmented episodic memories with semantic self-knowledge (e.g., 'I am resilient'), therapists reduce avoidance behaviors and dissociation, leveraging the memory system's inherent narrative capacity to foster psychological integration without retraumatization.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
@@ -109,6 +113,9 @@ Autobiographical memories are reconstructed based on current goals, mood, and po
 ## Key Figures
 
 - **Endel Tulving** — Tulving was a pioneer in the study of memory types, distinguishing between episodic and semantic memory. His work laid the foundation for understanding how autobiographical memory integrates these two forms of knowledge.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **David C. Rubin** — Rubin's work on the 'reminiscence bump' phenomenon provided empirical rigor to the observation that memories from adolescence and early adulthood are disproportionately recalled. His longitudinal studies demonstrated that this pattern persists across cultures, challenging earlier assumptions that it was solely a product of Western individualism, and established methodological frameworks for analyzing memory distribution across the lifespan.
 
 ## Open Questions
 
@@ -122,9 +129,19 @@ Autobiographical memories are reconstructed based on current goals, mood, and po
 >
 > *What would resolve it:* Longitudinal studies tracking individuals' autobiographical memories over time, combined with assessments of their self-concept and life satisfaction, could help clarify the relationship between autobiographical memory and identity development.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do cultural schemas shape the structure and content of autobiographical narratives?
+>
+> *What would resolve it:* Cross-cultural neuroimaging studies comparing collectivist versus individualist societies could reveal whether cultural norms influence the neural integration of episodic and semantic components during memory construction.
+
 ## Synthesis
 
 Autobiographical memory is a critical component of human cognition, playing a vital role in shaping our sense of self, predicting future events, and facilitating social interactions. By integrating episodic recollections with semantic knowledge, it allows us to construct a coherent narrative of our lives that extends over time. Understanding this memory system has significant implications for fields such as therapy, education, and artificial intelligence, where leveraging personal experiences can enhance outcomes. Future research should focus on the neural mechanisms underlying autobiographical memory and its influence on identity formation.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Autobiographical memory thus functions as a dynamic narrative engine that continuously reconciles past experiences with present identity, enabling both retrospective meaning-making and prospective planning. This dual temporal function—anchoring the self in history while projecting into the future—positions it as a central mechanism within the broader cognitive architecture of selfhood, distinct from purely factual semantic systems or momentary episodic recollections.
 
 ## Connections & Context
 

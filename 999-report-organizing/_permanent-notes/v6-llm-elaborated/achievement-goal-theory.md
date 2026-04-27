@@ -1,14 +1,13 @@
 ---
-title: "Achievement Goal Theory"
+title: Achievement Goal Theory
 aliases:
-  - "Achievement Goal Theory"
-  - "Achievement-Goal Theory"
-  - "achievement goal framework"
-  - "goal orientation theory"
+  - Achievement Goal Theory
+  - Achievement-Goal Theory
+  - achievement goal framework
+  - goal orientation theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "achievement-goal-theory-synthetic-seed-2026-04-24"
+  - achievement-goal-theory-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[self-regulated-learning]]"
-  - "[[mastery-climate]]"
+  - '[[self-regulated-learning]]'
+  - '[[mastery-climate]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-regulated-learning]]"
+  - '[[self-regulated-learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[mastery-climate]]"
+  - '[[mastery-climate]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Achievement Goal Theory
 
@@ -113,6 +112,9 @@ The cognitive mechanism underlying Achievement Goal Theory involves how learners
 - **John Nicholls** — Nicholls contributed to the early development of Achievement Goal Theory by exploring how children's self-concepts relate to their achievement goals and outcomes.
 - **Andrew Elliot** — Elliot refined the theory by emphasizing the importance of approach vs. avoidance valence in predicting adaptive versus maladaptive outcomes, providing a more nuanced understanding of goal orientations.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Andrew Elliot** — Elliot extended Achievement Goal Theory by formalizing the dual dimensions of goal valence (approach vs. avoidance) alongside competence definition, moving beyond Nicholls' initial mastery-performance dichotomy. His 2005 meta-analysis demonstrated that performance-avoidance goals consistently correlate with lower persistence and higher anxiety, while mastery-approach goals predict greater cognitive engagement across diverse educational contexts.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -130,6 +132,11 @@ The cognitive mechanism underlying Achievement Goal Theory involves how learners
 Achievement Goal Theory is significant because it offers a comprehensive framework for understanding how learners' motivations shape their academic and personal development. By distinguishing between mastery and performance goals, and further differentiating these based on approach vs. avoidance valence, the theory provides actionable insights for educators, parents, and policymakers. Its applications in educational settings highlight its practical value in fostering adaptive learning patterns and promoting resilience among students.
 
 The theory's implications extend beyond education into broader domains of psychology and organizational behavior. By understanding how different goal orientations influence motivation and performance, professionals can design more effective interventions to support individual growth and collective success.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Meta-analytic reviews by Elliot and colleagues (2005, 2011) confirm that mastery-approach goals exhibit moderate positive correlations with deep learning strategies (r = .32) and academic achievement (r = .28), whereas performance-avoidance goals show significant negative associations with both (r = -.25 for achievement). These effects persist across age groups and subject domains, though cultural factors moderate the strength of these relationships, particularly in collectivist educational systems where social comparison norms may amplify performance-avoidance tendencies.
 
 ## Connections & Context
 

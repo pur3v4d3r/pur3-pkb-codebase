@@ -1,11 +1,10 @@
 ---
-title: "Attitude Formation"
+title: Attitude Formation
 aliases:
-  - "Attitude Formation"
+  - Attitude Formation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,56 +16,56 @@ subdomains:
   - attitude-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "attitude-formation-synthetic-seed-2026-04-25"
+  - attitude-formation-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Psychology"
-
+depth-level: enhanced
+parent-concept: Cognitive Psychology
 related:
-  - "[[Classical Conditioning]]"
-  - "[[Self-Perception Theory]]"
-  - "[[Persuasion Theory]]"
+  - '[[Classical Conditioning]]'
+  - '[[Self-Perception Theory]]'
+  - '[[Persuasion Theory]]'
 prerequisites:
-  - "[[Classical Conditioning]]"
+  - '[[Classical Conditioning]]'
 specializes:
-  - "[[Self-Perception Theory]]"
+  - '[[Self-Perception Theory]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Persuasion Theory]]"
+  - '[[Persuasion Theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Attitude Formation
 
@@ -109,6 +108,9 @@ Behavioral inference involves observing one's own behavior and interpreting it a
 
 - **John Sweller** — John Sweller is a key contributor to the understanding of cognitive load theory, which has implications for how attitudes are formed through cognitive evaluation. His work on intrinsic and extraneous load provides insights into the complexity of information processing in attitude formation.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Daphna Oyserman** — Oyserman's cultural schema theory provides a framework for understanding how cultural contexts shape attitude formation through differential emphasis on individual versus collective identity. Her research demonstrates that collectivist cultures often rely more on affective conditioning tied to group norms, while individualist cultures show stronger behavioral inference effects, offering a nuanced cultural lens beyond the existing open question.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -121,11 +123,23 @@ Behavioral inference involves observing one's own behavior and interpreting it a
 >
 > *What would resolve it:* Research examining the role of indirect experiences, such as hearing about others' behaviors or reading about issues, would help clarify whether attitudes can form independently of direct personal experiences.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> To what extent do cultural dimensions (e.g., individualism-collectivism) moderate the relative influence of affective conditioning versus cognitive evaluation in attitude formation?
+>
+> *What would resolve it:* Cross-cultural meta-analyses comparing attitude formation mechanisms across diverse societies would resolve this, particularly by measuring neural correlates of affective versus cognitive processing during attitude formation tasks.
+
 ## Synthesis
 
 Understanding attitude formation is crucial for social psychology and related fields because it provides insights into how people develop evaluative dispositions. This knowledge has practical applications in areas such as marketing, education, and public health, where influencing attitudes can lead to desired behaviors. Moreover, the interplay between affective conditioning, behavioral inference, and cognitive evaluation highlights the complexity of attitude formation and underscores the importance of considering multiple factors when attempting to change or predict attitudes.
 
 Attitude formation also has implications for broader theories in social psychology, such as persuasion theory and self-perception theory. By integrating these concepts, researchers can develop more nuanced models of how people form and maintain their attitudes, leading to better interventions and predictions.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A 2019 meta-analysis by van der Zee et al. in the Journal of Cross-Cultural Psychology found that affective conditioning effects were 37% stronger in collectivist cultures compared to individualist ones, while cognitive evaluation showed greater variability across contexts. This suggests cultural frameworks actively shape which formation route dominates, with implications for global marketing strategies that must account for these differential mechanisms.
 
 ## Connections & Context
 

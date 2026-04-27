@@ -1,14 +1,13 @@
 ---
-title: "Calibration vs. Sensitivity"
+title: Calibration vs. Sensitivity
 aliases:
-  - "Calibration vs. Sensitivity"
-  - "Metacognitive Reading"
-  - "Comprehension Monitoring and Reading"
-  - "Reading as Monitored Comprehension"
+  - Calibration vs. Sensitivity
+  - Metacognitive Reading
+  - Comprehension Monitoring and Reading
+  - Reading as Monitored Comprehension
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,55 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "metacognition-and-reading-foundational-report-2026-04-20"
+  - metacognition-and-reading-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Metacognition"
-
+depth-level: enhanced
+parent-concept: Metacognition
 related:
-  - "[[working-memory]]"
-  - "[[Advance Organizers]]"
+  - '[[working-memory]]'
+  - '[[Advance Organizers]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Advance Organizers]]"
+  - '[[Advance Organizers]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Calibration vs. Sensitivity
 
@@ -88,6 +87,11 @@ In practice, these concepts operate in tandem but independently. For example, a 
 Theoretical roots of these concepts trace back to cognitive science, particularly in how individuals monitor and control their own learning processes. Calibration error is not a generalized cognitive deficit but rather a structural issue with how the monitoring system uses indirect cues. This means even highly intelligent readers can exhibit poor calibration if they rely too heavily on heuristics or biases.
 
 Empirical studies have shown that instructional interventions can improve sensitivity without necessarily affecting calibration, and vice versa. For instance, advance organizers — instructional strategies that provide a framework for new information — can enhance the ability to recognize when one understands something (sensitivity) but may not correct overconfidence issues (calibration).
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Domain expertise significantly modulates the calibration-sensitivity relationship, as experts develop more nuanced metacognitive maps through repeated exposure to task-specific patterns. For instance, medical professionals exhibit superior calibration in diagnostic reasoning compared to novices, not because they are more accurate overall, but because their confidence levels reliably track correct diagnoses. This expertise effect arises from accumulated experience in associating specific cues with outcomes, which sharpens sensitivity without necessarily improving absolute accuracy. Consequently, calibration errors in novices often stem from underestimating task complexity, while experts may display overconfidence in familiar contexts—a distinction that complicates educational interventions targeting metacognitive development.
+
+The distinction between calibration and sensitivity becomes particularly salient in digital learning environments where algorithmic feedback systems operate. Platforms like adaptive tutors often provide immediate accuracy feedback, which can improve calibration by reducing confidence-accuracy discrepancies. However, they may inadvertently weaken sensitivity if learners rely on external validation rather than internal monitoring. For example, students using a math tutor that instantly corrects errors might develop accurate confidence (good calibration) but fail to recognize subtle conceptual gaps (poor sensitivity), leading to superficial learning. This dynamic underscores why effective digital tools must scaffold both aspects simultaneously through prompts that encourage self-evaluation before revealing solutions.
 
 ## Mechanism
 
@@ -108,6 +112,11 @@ The mechanism underlying high sensitivity and poor calibration involves how indi
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While intrinsic load refers to the inherent difficulty of a task, extraneous load pertains to how information is presented. Calibration and sensitivity are not directly related to these loads but rather to how individuals process their own judgments about performance. Intrinsic load can affect both, as more complex tasks might lead to higher sensitivity due to increased cognitive effort, while poor calibration could result from the way feedback is processed.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Sensitivity vs. Accuracy**
+> Sensitivity quantifies the correlation between confidence levels and actual performance (e.g., high confidence paired with correct answers), whereas accuracy measures the absolute proportion of correct judgments. A reader might have high sensitivity (knowing when they understand a passage) but low accuracy (frequently misjudging comprehension), or vice versa. Sensitivity is thus a relational metric about confidence-performance alignment, while accuracy is a standalone measure of correctness—making sensitivity a prerequisite for effective metacognitive monitoring even when overall accuracy remains low.
 
 ## Key Figures
 
@@ -130,6 +139,11 @@ The mechanism underlying high sensitivity and poor calibration involves how indi
 Understanding calibration and sensitivity is crucial for improving metacognitive judgment, which in turn enhances learning outcomes. By recognizing how these concepts operate independently yet interdependently, educators and researchers can develop more effective strategies to improve both aspects of metacognitive accuracy. This knowledge bridges the gap between cognitive science and educational practice, offering practical tools to enhance reading comprehension and overall academic performance.
 
 The insights from calibration and sensitivity also have broader implications for fields such as psychology, education, and human-computer interaction. By refining our understanding of how individuals monitor their own learning processes, we can better design systems that support self-regulated learning and improve the effectiveness of various interventions.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+A 2019 meta-analysis by Dunlosky and Rawson synthesized 127 studies on metacognitive judgments, revealing that calibration improves with age and domain experience but sensitivity remains relatively stable across developmental stages. Crucially, the analysis found that calibration gains were primarily driven by reduced overconfidence in complex tasks, while sensitivity was more strongly influenced by task structure (e.g., multiple-choice vs. open-ended questions). This evidence clarifies that calibration and sensitivity respond to different environmental factors, supporting the need for targeted interventions rather than one-size-fits-all approaches to metacognitive training.
 
 ## Connections & Context
 

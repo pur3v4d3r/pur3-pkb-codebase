@@ -1,13 +1,12 @@
 ---
-title: "Acetylcholine and Memory"
+title: Acetylcholine and Memory
 aliases:
-  - "Acetylcholine and Memory"
-  - "cholinergic system and memory"
-  - "ACh and memory"
+  - Acetylcholine and Memory
+  - cholinergic system and memory
+  - ACh and memory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,59 +18,59 @@ subdomains:
   - memory-science
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "acetylcholine-and-memory-synthetic-seed-2026-04-26"
+  - acetylcholine-and-memory-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Neurotransmission"
-
+depth-level: enhanced
+parent-concept: Neurotransmission
 related:
-  - "[[Working Memory]]"
-  - "[[Neuromodulation]]"
-  - "[[Hippocampal-Neocortical Transfer]]"
-  - "[[Attention]]"
+  - '[[Working Memory]]'
+  - '[[Neuromodulation]]'
+  - '[[Hippocampal-Neocortical Transfer]]'
+  - '[[Attention]]'
 prerequisites:
-  - "[[Working Memory]]"
+  - '[[Working Memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Neuromodulation]]"
-  - "[[Hippocampal-Neocortical Transfer]]"
-  - "[[Attention]]"
+  - '[[Neuromodulation]]'
+  - '[[Hippocampal-Neocortical Transfer]]'
+  - '[[Attention]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Acetylcholine and Memory
 
@@ -95,6 +94,9 @@ Empirical evidence supports these claims, particularly from studies using pharma
 
 Acetylcholine exerts its influence through a complex interplay with muscarinic receptors. When released by basal-forebrain projections, acetylcholine binds to these receptors, modulating the excitability of neurons in the hippocampus and neocortex. This modulation enhances the integration of new information into existing neural networks, thereby supporting memory formation.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+Recent optogenetic studies reveal that nicotinic acetylcholine receptors (nAChRs), particularly the α7 subtype, modulate hippocampal theta oscillations during memory encoding. Unlike muscarinic receptors that primarily regulate neuronal excitability, nAChRs enhance synchronous firing of interneurons, facilitating the temporal coordination of neural assemblies that bind sensory inputs into coherent episodic representations. This mechanism operates in parallel with muscarinic signaling but targets distinct circuit dynamics, explaining why combined muscarinic and nicotinic antagonism produces more severe encoding deficits than either alone. The α7 nAChR's high calcium permeability further enables activity-dependent synaptic plasticity in the dentate gyrus, directly linking cholinergic signaling to structural memory encoding processes.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -102,6 +104,11 @@ Acetylcholine exerts its influence through a complex interplay with muscarinic r
 
 > [!example] **Application 2 — Therapeutic interventions**
 > For therapeutic interventions, particularly in conditions like Alzheimer's disease where acetylcholine levels are often reduced, pharmacological treatments aimed at enhancing cholinergic function can be beneficial. These treatments not only improve cognitive functions but also support the encoding of new memories, potentially slowing down the progression of memory loss.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 3 — Cognitive rehabilitation for mild cognitive impairment**
+> In clinical settings, cholinesterase inhibitors like donepezil are standard for Alzheimer's, but their efficacy varies. Understanding the dual muscarinic/nicotinic mechanisms suggests personalized dosing based on receptor subtype expression profiles. For instance, patients with predominant α7 nAChR dysfunction might benefit more from selective α7 agonists during memory rehabilitation sessions, where structured encoding tasks (e.g., associative learning with contextual cues) could leverage residual cholinergic function to strengthen hippocampal-neocortical connections without overstimulating muscarinic pathways that may cause side effects like bradycardia.
 
 ## Key Distinctions
 
@@ -123,6 +130,13 @@ Acetylcholine exerts its influence through a complex interplay with muscarinic r
 > What are the specific mechanisms by which acetylcholine biases attentional selection during encoding?
 >
 > *What would resolve it:* Detailed neuroimaging studies that track changes in neural activity patterns associated with acetylcholine release during memory tasks could help elucidate these mechanisms.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do cholinergic dynamics interact with noradrenergic signaling during emotionally salient memory encoding?
+>
+> *What would resolve it:* Resolving this requires simultaneous optogenetic manipulation of cholinergic and noradrenergic projections during emotional memory tasks, combined with fMRI to track hippocampal-amygdala connectivity patterns.
 
 ## Synthesis
 

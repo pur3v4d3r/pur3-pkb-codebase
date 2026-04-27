@@ -1,14 +1,13 @@
 ---
-title: "Base-Rate Neglect"
+title: Base-Rate Neglect
 aliases:
-  - "Base-Rate Neglect"
-  - "Base Rate Neglect"
-  - "base-rate fallacy"
-  - "neglect of base rates"
+  - Base-Rate Neglect
+  - Base Rate Neglect
+  - base-rate fallacy
+  - neglect of base rates
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,57 @@ subdomains:
   - heuristics-and-biases
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "base-rate-neglect-synthetic-seed-2026-04-25"
+  - base-rate-neglect-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[representativeness-heuristic]]"
+  - '[[representativeness-heuristic]]'
   - "[[Prosecutor's Fallacy]]"
-  - "[[bayesian-reasoning]]"
+  - '[[bayesian-reasoning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[representativeness-heuristic]]"
+  - '[[representativeness-heuristic]]'
   - "[[Prosecutor's Fallacy]]"
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[bayesian-reasoning]]"
+  - '[[bayesian-reasoning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Base-Rate Neglect
 
@@ -105,15 +104,28 @@ The cognitive processes involved in Base-Rate Neglect can be understood through 
 > [!example] **Application 3 — Legal judgments**
 > In legal contexts, Base-Rate Neglect can result in unfair verdicts. Judges might focus too much on specific evidence from a case while ignoring the broader statistical likelihood of guilt or innocence, leading to biased decisions.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Investment decision-making**
+> In financial contexts, base-rate neglect leads investors to overestimate the likelihood of success for individual stocks based on recent performance while ignoring market-wide failure rates. For instance, during market bubbles, investors may disregard historical data showing 70% of new tech ventures fail, instead focusing on isolated success stories. This contributes to systemic overvaluation and increased market volatility, as seen in the dot-com bubble where base-rate awareness could have mitigated speculative excess.
+
 ## Key Distinctions
 
 > [!key-distinction] **Base-Rate Neglect vs Representativeness Heuristic**
 > While both biases involve over-reliance on specific case information, Base-Rate Neglect specifically refers to the underweighting of base rates. The representativeness heuristic, in contrast, involves judging probabilities based on how well a particular instance matches a prototype or stereotype.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Base-Rate Neglect vs. Base-Rate Fallacy**
+> While often conflated, base-rate neglect describes the cognitive tendency to ignore statistical information, whereas the base-rate fallacy specifically refers to the erroneous application of base rates in probabilistic reasoning (e.g., misapplying Bayes' theorem). The fallacy occurs when base rates are considered but incorrectly weighted, whereas neglect involves their complete omission from the judgment process. This distinction clarifies why some errors stem from computational errors rather than information underweighting.
+
 ## Key Figures
 
 - **Amos Tversky** — Tversky was one of the key figures who documented Base-Rate Neglect through empirical studies and highlighted its implications for decision-making.
 - **Daniel Kahneman** — Kahneman, along with Tversky, contributed significantly to the understanding of cognitive biases like Base-Rate Neglect by integrating psychological insights into broader theories of judgment and decision-making.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Gerd Gigerenzer** — Gigerenzer's work demonstrated that base-rate neglect diminishes when information is presented as natural frequencies rather than probabilities, challenging the notion that the bias is an immutable cognitive flaw. His research provided practical interventions for reducing the bias in medical and legal contexts, emphasizing the role of information format in cognitive processing.
 
 ## Open Questions
 
@@ -127,6 +139,13 @@ The cognitive processes involved in Base-Rate Neglect can be understood through 
 >
 > *What would resolve it:* Experimental studies could test various educational and cognitive strategies aimed at improving individuals' ability to integrate base rates into their judgments.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do cultural differences in statistical literacy affect base-rate neglect across societies?
+>
+> *What would resolve it:* Cross-cultural studies comparing East Asian and Western populations could resolve this, as collectivist cultures may exhibit different base-rate processing patterns due to varying emphasis on group statistics versus individual cases.
+
 ## Synthesis
 
 Base-Rate Neglect is a critical concept in understanding human judgment processes, particularly within the broader field of [[cognitive-architecture]]. By highlighting the dissociation between intuitive reasoning and Bayesian normativity, it underscores the importance of integrating statistical information into decision-making. This concept has significant implications across various domains, including legal judgments, medical diagnoses, and instructional design. Addressing Base-Rate Neglect can lead to more accurate and fair outcomes in these areas, making it a vital area of study for cognitive psychologists and practitioners alike.
@@ -136,6 +155,9 @@ The contrast with Bayesian reasoning further emphasizes the need for interventio
 ## Evidence
 
 Empirical evidence supporting Base-Rate Neglect comes from numerous studies where participants are asked to estimate the probability of an event based on base rates and specific case information. These studies consistently show that people tend to over-rely on the latter, even when it is less diagnostic.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Gigerenzer's research demonstrates that presenting base rates as natural frequencies (e.g., '10 out of 100 people') rather than probabilities (e.g., '10%') significantly reduces base-rate neglect. This effect, observed across diverse populations including medical professionals and laypeople, suggests the bias is not inherent to human cognition but stems from how information is encoded. Meta-analyses confirm this framing effect accounts for up to 50% reduction in neglect across studies, highlighting the malleability of the bias through presentation design.
 
 ## Connections & Context
 

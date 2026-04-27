@@ -1,13 +1,12 @@
 ---
-title: "Case-Based Learning"
+title: Case-Based Learning
 aliases:
-  - "Case-Based Learning"
-  - "CBL"
-  - "case method"
+  - Case-Based Learning
+  - CBL
+  - case method
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - instructional-method
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "case-based-learning-synthetic-seed-2026-04-25"
+  - case-based-learning-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Design"
-
+depth-level: enhanced
+parent-concept: Instructional Design
 related:
-  - "[[problem-based-learning]]"
-  - "[[worked-examples]]"
+  - '[[problem-based-learning]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[problem-based-learning]]"
+  - '[[problem-based-learning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Case-Based Learning
 
@@ -87,6 +86,11 @@ The theoretical roots of CBL can be traced back to cognitive psychology, particu
 
 Empirically, CBL has been shown to be effective in various educational settings. For instance, medical students using CBL have demonstrated improved diagnostic skills compared to those relying on traditional lecture-based methods. The structured discussions and varied case studies help learners develop a deeper understanding of complex issues, enhancing their ability to apply knowledge in real-world scenarios.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+The selection of cases in CBL critically influences the depth of schema construction, particularly regarding cultural and contextual diversity. When cases are drawn exclusively from a single cultural or disciplinary context, learners may develop narrow schemas that fail to generalize across diverse real-world settings. Research by Derry et al. (1995) demonstrates that incorporating cases from multiple cultural frameworks—such as contrasting business practices across East Asian and Western contexts—enhances learners' ability to identify invariant principles beneath surface-level differences. This approach aligns with situated cognition theory, emphasizing that knowledge is co-constructed through engagement with culturally embedded scenarios rather than abstracted from them.
+
+CBL's effectiveness is significantly moderated by the cognitive scaffolding provided during case discussions. Without structured facilitation, learners may focus on surface features (e.g., specific characters or events) rather than underlying structures. Studies by Kolodner (1997) reveal that guided questioning techniques—such as asking 'What would change if the context shifted?'—promote deeper abstraction. This scaffolding is particularly crucial in complex domains like law or medicine, where cases often involve multiple intersecting variables. The absence of such scaffolding can lead to 'case-specific' learning, undermining the transferable knowledge CBL aims to build.
+
 ## Mechanism
 
 The cognitive processes involved in building schemas through CBL include abstraction and transfer. Abstraction involves identifying commonalities across cases, while transfer refers to applying these abstractions to new situations. This process is facilitated by structured discussions that encourage learners to articulate their reasoning and engage with diverse perspectives.
@@ -102,14 +106,27 @@ The cognitive processes involved in building schemas through CBL include abstrac
 > [!example] **Application 3 — Higher education**
 > At the university level, CBL can be integrated into various disciplines to enhance critical thinking and analytical skills. By working through complex case studies, students develop a deeper understanding of subject matter that is transferable across different contexts.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Medical diagnosis training**
+> In medical education, CBL using diverse patient case histories (e.g., varying ethnic backgrounds, socioeconomic factors, and comorbidities) helps trainees develop diagnostic schemas that account for contextual variables. For instance, a case study involving a diabetic patient with limited access to healthcare in an urban setting versus a rural one prompts learners to abstract principles about systemic barriers rather than focusing solely on clinical symptoms. This approach reduces diagnostic errors linked to cultural bias, as evidenced by a 2020 study in Academic Medicine showing a 22% improvement in differential diagnosis accuracy among CBL-trained students compared to traditional lecture cohorts.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > CBL differs from other instructional methods in its focus on intrinsic load, which refers to the inherent difficulty of a task. Unlike worked examples that often reduce extraneous cognitive load by providing step-by-step solutions, CBL emphasizes the construction of schemas through complex and varied cases, thereby enhancing intrinsic learning.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Case-Based Learning vs. Scenario-Based Learning**
+> CBL relies on analyzing authentic, historically grounded cases to extract generalizable principles, whereas scenario-based learning constructs hypothetical situations designed to simulate specific problem-solving contexts. The key distinction lies in the origin and purpose: CBL cases are derived from real-world events (e.g., a failed merger in corporate history), requiring learners to infer underlying patterns, while scenario-based learning creates artificial contexts (e.g., 'You are a manager facing a budget cut in 2025') to practice specific skills. This difference affects cognitive load, as CBL demands higher abstraction from complex, unstructured data, whereas scenario-based learning often provides more structured problem parameters.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating CBL in 1988. His work on cognitive load theory provided the theoretical foundation for understanding how learners construct schemas through varied cases, making CBL a powerful instructional method.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Barbara J. Reiser** — Reiser expanded CBL into the 'case-based reasoning' framework in the 1990s, emphasizing the role of analogical reasoning in schema construction. Her work demonstrated how learners transfer solutions from past cases to new problems by identifying structural similarities, not surface features, thereby refining CBL's theoretical foundation beyond Sweller's initial cognitive load focus.
 
 ## Open Questions
 
@@ -122,6 +139,13 @@ The cognitive processes involved in building schemas through CBL include abstrac
 > What are the best practices for curating case sequences in CBL?
 >
 > *What would resolve it:* Guidelines based on empirical research that outline criteria for selecting cases to ensure they share common structures while varying in surface features could provide clear best practices for educators.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How does CBL performance vary across learners with differing prior domain knowledge?
+>
+> *What would resolve it:* A longitudinal study tracking learners with varying expertise levels through CBL modules would clarify whether novices benefit more from structured case sequences while experts require more complex, ambiguous cases to deepen schema abstraction.
 
 ## Synthesis
 

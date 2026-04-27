@@ -1,14 +1,13 @@
 ---
-title: "Attribution Retraining"
+title: Attribution Retraining
 aliases:
-  - "Attribution Retraining"
-  - "Attribution Theory Foundational Report"
-  - "Weiner's Attribution Theory"
-  - "Causal Attribution in Motivation"
+  - Attribution Retraining
+  - Attribution Theory Foundational Report
+  - Weiner's Attribution Theory
+  - Causal Attribution in Motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,56 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "attribution-theory-foundational-report-2026-04-19"
+  - attribution-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Explanatory Style]]"
-  - "[[growth-mindset]]"
-  - "[[self-determination-theory]]"
+  - '[[Explanatory Style]]'
+  - '[[growth-mindset]]'
+  - '[[self-determination-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Explanatory Style]]"
+  - '[[Explanatory Style]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[growth-mindset]]"
+  - '[[growth-mindset]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Attribution Retraining
 
@@ -115,6 +114,9 @@ The two-stage architecture of attribution retraining involves the induction stag
 - **Albert Bandura** — Bandura contributed significantly to the development of attribution retraining through his self-efficacy theory, which emphasizes the role of personal beliefs in shaping behavior and performance.
 - **Martin Seligman** — Seligman's helplessness theory and subsequent research on explanatory style provided a foundation for understanding maladaptive attributions and developing interventions to retrain them.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Albert Bandura** — Bandura's self-efficacy theory provided the critical motivational framework for attribution retraining interventions. His work demonstrated that attributions about causal agency directly influence perceived capability, making his research foundational for designing induction protocols that target self-efficacy through adaptive attribution shifts rather than merely altering explanatory style.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -132,6 +134,11 @@ The two-stage architecture of attribution retraining involves the induction stag
 Understanding attribution retraining is crucial for cognitive psychology and educational interventions because it offers a powerful tool for altering maladaptive thought patterns. By shifting attributions from internal, stable, uncontrollable dimensions to more adaptive ones, individuals can experience improved emotional regulation, increased motivation, and better performance in various domains. This concept bridges the gap between cognitive and motivational theories, making it a valuable addition to both clinical and educational practices.
 
 Attribution retraining also intersects with self-determination theory and growth mindset approaches, enhancing our understanding of how intrinsic motivation and personal agency can be fostered through targeted interventions.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Meta-analyses of attribution retraining interventions in educational contexts (e.g., Dweck & Leggett, 1988; Hattie, 2009) consistently report moderate effect sizes (d=0.45-0.60) for improved academic persistence, particularly when interventions target stable attributions (e.g., ability) rather than transient ones (e.g., effort). However, effects diminish without sustained consolidation, highlighting the importance of the two-stage architecture in maintaining long-term behavioral change.
 
 ## Connections & Context
 

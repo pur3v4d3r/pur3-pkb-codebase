@@ -1,12 +1,11 @@
 ---
-title: "Attention and Cognitive Control"
+title: Attention and Cognitive Control
 aliases:
-  - "Attention and Cognitive Control"
-  - "attentional control"
+  - Attention and Cognitive Control
+  - attentional control
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "attention-and-cognitive-control-synthetic-seed-2026-04-24"
+  - attention-and-cognitive-control-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[self-regulated-learning]]"
+  - '[[working-memory]]'
+  - '[[self-regulated-learning]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-regulated-learning]]"
+  - '[[self-regulated-learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Attention and Cognitive Control
 
@@ -92,6 +91,9 @@ The selection process involves directing attention towards relevant stimuli whil
 
 Sustained vigilance involves maintaining focus over time, a critical aspect of tasks that require prolonged concentration. This process can be disrupted by environmental factors such as phone notifications or visually busy interfaces, which can divert attention away from the task at hand.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+Neurocognitive evidence indicates that cognitive control relies on dynamic interactions between the dorsolateral prefrontal cortex (DLPFC) and anterior cingulate cortex (ACC), with the DLPFC implementing top-down goal maintenance and the ACC detecting response conflicts. This neural architecture enables the resolution of competing response tendencies, as observed in fMRI studies during Stroop and flanker tasks, where ACC activation correlates with conflict magnitude while DLPFC activity predicts successful inhibition of prepotent responses.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -109,6 +111,9 @@ Sustained vigilance involves maintaining focus over time, a critical aspect of t
 
 - **John Sweller** — John Sweller is a key figure in the field of Attention and Cognitive Control, particularly for his contributions to cognitive load theory. His work has highlighted how different types of tasks can affect attention and control, providing a framework for understanding how instructional design impacts learning outcomes.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Michael Posner** — Posner's attention network theory (2000) established the executive control network as a core component of cognitive control, distinguishing it from alerting and orienting networks. His work demonstrated that executive control involves prefrontal cortex activation during conflict resolution tasks, providing a neurocognitive framework for understanding how attentional control mechanisms operate within cognitive architecture.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -120,6 +125,13 @@ Sustained vigilance involves maintaining focus over time, a critical aspect of t
 > Can attentional training improve long-term cognitive performance?
 >
 > *What would resolve it:* Longitudinal studies that track changes in cognitive performance after sustained attentional training would help determine the lasting benefits of such interventions.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> To what extent does cognitive control training produce transfer effects beyond trained tasks?
+>
+> *What would resolve it:* Longitudinal neuroimaging studies tracking prefrontal cortex plasticity during training protocols would clarify whether gains generalize to untrained executive functions or remain task-specific.
 
 ## Synthesis
 

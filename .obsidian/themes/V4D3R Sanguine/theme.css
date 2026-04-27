@@ -498,6 +498,8 @@ del, s {
 }
 
 
+
+
 /* ═══════════════════════════════════════════════════════════════════════════
    PART 5: FILE EXPLORER [EXPLORER]
    ═══════════════════════════════════════════════════════════════════════════
@@ -1844,3 +1846,44 @@ body.is-mobile .clickable-icon {
 }
 
 /* === END OF FILE: theme.css === */
+
+
+
+.nav-file-title:hover,
+.nav-folder-title:hover {
+  color: var(--v4d3r-red-accent) !important;}
+.nav-folder-title:hover,
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.13 CARD LAYOUT MODE                                                        │
+   │ Toggle: Card-style layout for workspace leaves                               │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Card Layout Mode --- */
+
+.workspace-leaf {
+  background-color: var(--v4d3r-bg-secondary) !important;
+  border: 1px solid var(--v4d3r-border-subtle) !important;
+  border-radius: var(--v4d3r-radius-lg) !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2) !important;
+  margin: 16px !important;
+  overflow: hidden !important;
+  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -webkit-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -moz-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -ms-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -o-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+

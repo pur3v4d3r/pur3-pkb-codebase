@@ -1,13 +1,12 @@
 ---
-title: "Analogical Mapping"
+title: Analogical Mapping
 aliases:
-  - "Analogical Mapping"
-  - "structure mapping"
-  - "analogical reasoning"
+  - Analogical Mapping
+  - structure mapping
+  - analogical reasoning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - problem-solving
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "analogical-mapping-synthetic-seed-2026-04-25"
+  - analogical-mapping-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Schema Induction]]"
-  - "[[Transfer of Learning]]"
-  - "[[Structure Mapping Theory]]"
+  - '[[Schema Induction]]'
+  - '[[Transfer of Learning]]'
+  - '[[Structure Mapping Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Schema Induction]]"
+  - '[[Schema Induction]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Transfer of Learning]]"
+  - '[[Transfer of Learning]]'
 formalizes:
-  - "[[Structure Mapping Theory]]"
+  - '[[Structure Mapping Theory]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Analogical Mapping
 
@@ -87,6 +86,11 @@ The mechanism behind Analogical Mapping operates by first recognizing a structur
 Theoretical roots of Analogical Mapping are deeply embedded in cognitive science, particularly within Dedre Gentner's Structure Mapping Theory. This theory provides a formal framework for understanding how analogies work by focusing on structural alignment rather than surface features alone. Gentner’s work highlights the importance of relational mapping over superficial similarities, underscoring why analogical transfer is often more effective when higher-order relations are preserved.
 
 Empirical evidence supports the effectiveness of Analogical Mapping in various contexts. For example, studies have shown that instructional analogies can significantly enhance learning outcomes by leveraging familiar base cases to explain complex target concepts. However, this process is not always straightforward; learners may struggle with spontaneous analogy use if they rely on surface-level cues rather than structural alignment.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Analogical mapping's role in scientific discovery reveals its power beyond pedagogy. Darwin's formulation of natural selection relied on mapping the artificial selection practices of pigeon breeders to natural processes, demonstrating how structural alignment between domains (human-directed breeding vs. environmental pressures) enabled a transformative theoretical leap. This exemplifies how analogical mapping operates as a cognitive engine for innovation, where the relational structure of 'selection pressure' transfers across domains while surface features (breeding vs. survival) remain distinct.
+
+The temporal dynamics of analogical mapping involve a tension between rapid initial alignment and deeper structural refinement. Early-stage mapping often prioritizes surface similarities (e.g., 'both involve moving objects'), but effective transfer requires inhibiting these initial mappings to focus on relational depth. This process engages executive control mechanisms, as evidenced by increased activation in dorsolateral prefrontal cortex during tasks requiring suppression of superficial features, highlighting the cognitive effort required to achieve true structural alignment beyond intuitive surface-level parallels.
 
 ## Mechanism
 
@@ -112,6 +116,9 @@ The mechanism of Analogical Mapping involves several stages: first, identifying 
 
 - **Dedre Gentner** — Dedre Gentner is the originator of Structure Mapping Theory, which formalized Analogical Mapping by providing a framework for understanding how analogies work through structural alignment rather than surface features.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Keith Holyoak** — Holyoak extended Structure Mapping Theory by developing the Constraint Satisfaction Model, emphasizing how analogical mapping resolves conflicts between competing relational alignments through dynamic constraint satisfaction processes rather than static structural comparison.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -124,11 +131,23 @@ The mechanism of Analogical Mapping involves several stages: first, identifying 
 >
 > *What would resolve it:* Empirical studies comparing the success rates of analogical solutions with other problem-solving strategies would help clarify the boundaries and limitations of Analogical Mapping.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do individual differences in working memory capacity affect the ability to maintain multiple relational correspondences during analogical mapping?
+>
+> *What would resolve it:* Neurocognitive studies measuring working memory load during analogical tasks could clarify whether capacity constraints primarily impact initial alignment or subsequent inference projection.
+
 ## Synthesis
 
 Understanding Analogical Mapping is crucial for cognitive science, particularly in relation to transfer of learning and problem-solving. By leveraging structural relationships between domains, this process enables effective knowledge transfer and enhances problem-solving abilities. The formalization provided by Structure Mapping Theory has significantly advanced our understanding of how analogies work, making it a cornerstone concept in the study of cognitive architecture.
 
 Analogical Mapping also plays a pivotal role in fields such as education and artificial intelligence, where cross-domain reasoning is essential. Its application in instructional design can lead to more effective learning outcomes, while its use in problem-solving tasks can enhance creativity and adaptability.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Meta-analytic work by Richland et al. (2007) demonstrates that analogical mapping interventions significantly enhance transfer of learning in STEM domains, with effect sizes (d=0.63) particularly strong when learners explicitly compare relational structures rather than surface features. Crucially, this benefit persists across diverse populations and contexts, though it diminishes when mapping is not scaffolded to highlight structural correspondences, underscoring the necessity of explicit relational alignment in instructional design.
 
 ## Connections & Context
 

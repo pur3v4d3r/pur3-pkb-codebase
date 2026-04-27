@@ -1,12 +1,11 @@
 ---
-title: "Assessment Design"
+title: Assessment Design
 aliases:
-  - "Assessment Design"
-  - "educational assessment"
+  - Assessment Design
+  - educational assessment
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "assessment-design-synthetic-seed-2026-04-24"
+  - assessment-design-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Educational Psychology"
-
+depth-level: enhanced
+parent-concept: Educational Psychology
 related:
-  - "[[Validity and Reliability]]"
-  - "[[Constructive Alignment]]"
+  - '[[Validity and Reliability]]'
+  - '[[Constructive Alignment]]'
 prerequisites:
-  - "[[Validity and Reliability]]"
+  - '[[Validity and Reliability]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Constructive Alignment]]"
+  - '[[Constructive Alignment]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Assessment Design
 
@@ -110,6 +109,9 @@ Assessment Design operates through the principle of constructive alignment, wher
 
 - **John Biggs** — John Biggs is a proponent of constructive alignment in Assessment Design. His work emphasizes the importance of aligning learning outcomes, activities, and assessments to ensure that what students are assessed on directly influences their learning.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Linda Nilson** — Nilson's work on transparent assessment design emphasizes student-centered rubrics and self-assessment protocols, arguing that explicit criteria reduce ambiguity and empower learners to self-regulate. Her framework extends constructive alignment by integrating metacognitive reflection into assessment tasks, ensuring students understand not just 'what' to do but 'why' it matters for their learning trajectory.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -121,6 +123,13 @@ Assessment Design operates through the principle of constructive alignment, wher
 > What are the long-term effects of misaligned assessments on student learning?
 >
 > *What would resolve it:* Longitudinal studies could provide insights into how persistent misalignment between assessment and learning objectives affects students' academic performance and long-term retention of knowledge.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How can assessment design balance standardization with cultural responsiveness in diverse classrooms?
+>
+> *What would resolve it:* This requires longitudinal studies examining how culturally relevant assessment tasks impact validity across demographic groups, alongside development of flexible rubric templates that maintain rigor while accommodating varied learning contexts.
 
 ## Synthesis
 

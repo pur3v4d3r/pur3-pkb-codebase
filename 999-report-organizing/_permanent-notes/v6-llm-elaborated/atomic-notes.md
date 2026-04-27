@@ -1,13 +1,12 @@
 ---
-title: "Atomic Notes"
+title: Atomic Notes
 aliases:
-  - "Atomic Notes"
-  - "atomic note"
-  - "zettel"
+  - Atomic Notes
+  - atomic note
+  - zettel
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - notetaking
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "atomic-notes-synthetic-seed-2026-04-25"
+  - atomic-notes-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Knowledge Management"
-
+depth-level: enhanced
+parent-concept: Knowledge Management
 related:
-  - "[[evergreen-notes]]"
-  - "[[worked-examples]]"
+  - '[[evergreen-notes]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[evergreen-notes]]"
+  - '[[evergreen-notes]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Atomic Notes
 
@@ -111,6 +110,9 @@ The mechanism behind Atomic Notes involves creating notes with clear, self-conta
 
 - **John Sweller** — John Sweller is credited with the foundational work on cognitive load theory, which underpins the concept of Atomic Notes. His research highlighted the importance of reducing extraneous mental effort to enhance learning and memory retention.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **David Wiley** — Wiley's work on Open Educational Resources (OER) and atomic learning objects in the early 2000s established the modularity principle that directly informs Atomic Notes. His research demonstrated how breaking educational content into reusable, context-independent components improved adaptability across different learning environments, a concept later adopted in personal knowledge management systems.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -123,11 +125,21 @@ The mechanism behind Atomic Notes involves creating notes with clear, self-conta
 >
 > *What would resolve it:* Guidelines based on user feedback and case studies could provide best practices for organizing and linking Atomic Notes effectively within a knowledge management system.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How does atomicity interact with contextual richness in domain-specific knowledge (e.g., legal precedent analysis or medical diagnosis)?
+>
+> *What would resolve it:* Comparative studies examining knowledge networks in specialized fields would clarify whether atomic notes risk oversimplification or enhance precision in complex reasoning contexts.
+
 ## Synthesis
 
 Atomic Notes matter because they transform how we manage and access information, making it easier to build complex networks of interconnected ideas. By focusing on self-contained, reusable notes, users can enhance their long-term memory retention and improve the overall efficiency of knowledge management systems. This concept is particularly valuable in domains like instructional design, project management, and research, where clear, modular information is crucial.
 
 The broader implications extend beyond individual note-taking practices to influence how we structure educational materials, project documentation, and scientific literature. By adopting Atomic Notes, individuals and organizations can create more robust, interconnected knowledge bases that facilitate better learning, collaboration, and innovation.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Atomic Notes operationalize graph theory principles within personal knowledge management by treating each concept as a node with defined relationships, thereby transforming static collections into dynamic knowledge networks. This aligns with contemporary information science approaches where [[knowledge-graph]] structures enable semantic search and inference, moving beyond traditional hierarchical or linear organization paradigms.
 
 ## Connections & Context
 

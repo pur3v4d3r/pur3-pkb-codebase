@@ -1,13 +1,12 @@
 ---
-title: "Attribution Theory"
+title: Attribution Theory
 aliases:
-  - "Attribution Theory"
-  - "Weiner attribution theory"
-  - "attributional theory of achievement motivation"
+  - Attribution Theory
+  - Weiner attribution theory
+  - attributional theory of achievement motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "attribution-theory-synthetic-seed-2026-04-24"
+  - attribution-theory-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[locus-of-control]]"
-  - "[[self-efficacy-theory]]"
+  - '[[locus-of-control]]'
+  - '[[self-efficacy-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[locus-of-control]]"
+  - '[[locus-of-control]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-efficacy-theory]]"
+  - '[[self-efficacy-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Attribution Theory
 
@@ -86,6 +85,9 @@ In practice, these dimensions significantly impact behavior and emotions. When a
 Theoretical roots of Attribution Theory trace back to Bernard Weiner's work in the 1980s, which built upon earlier research on attributional processes. Weiner’s framework provides a structured way to understand how different attributions shape behavior and emotions, offering insights into why some individuals persist in the face of failure while others give up.
 
 Empirically, Attribution Theory has been supported by numerous studies showing that the way people attribute causes for their successes and failures can predict future behaviors. For example, a study found that students who attributed poor test scores to lack of effort were more likely to improve on subsequent tests compared to those who believed they lacked ability.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Weiner's framework emerged from a broader tradition of causal attribution research initiated by Fritz Heider in the 1950s, who established the foundational distinction between internal and external attributions. While Heider focused on perceptual processes of causal judgment, Weiner extended this to examine how such attributions dynamically shape motivational states. This historical trajectory reveals attribution theory's evolution from a descriptive model of causal perception to a predictive framework for behavioral outcomes, with Weiner's 1986 work marking a pivotal shift toward integrating affective and motivational consequences into the causal structure.
 
 ## Mechanism
 
@@ -107,6 +109,11 @@ The Attributional Bridge theory explains how attributions influence subsequent b
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While both Attribution Theory and the Intrinsic vs Extrinsic Load theory deal with how individuals attribute causes, they differ in their focus. Attribution Theory emphasizes the motivational consequences of attributions on future behavior, whereas the Intrinsic vs Extrinsic Load theory focuses on cognitive load and its impact on learning.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Attribution Theory vs. Cognitive Load Theory**
+> Attribution Theory examines how causal explanations for outcomes influence motivation and emotion, whereas Cognitive Load Theory addresses how information processing demands affect learning efficiency. The former analyzes 'why' events occur (e.g., attributing failure to lack of effort), while the latter analyzes 'how' cognitive resources are allocated during task performance (e.g., managing intrinsic load from complex material). These theories operate at fundamentally different levels: motivational versus cognitive processing.
+
 ## Key Figures
 
 - **Bernard Weiner** — Bernard Weiner is credited with developing Attribution Theory in the 1980s, providing a framework for understanding how individuals construct causal explanations that influence their behavior and emotions.
@@ -123,6 +130,13 @@ The Attributional Bridge theory explains how attributions influence subsequent b
 >
 > *What would resolve it:* Research exploring how group members attribute success or failure collectively, rather than individually, could provide insights into the applicability of Attribution Theory in group settings.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do cultural contexts moderate the relationship between attributional styles and academic persistence?
+>
+> *What would resolve it:* Cross-cultural meta-analyses comparing individualistic versus collectivist societies would clarify whether attributional mechanisms operate uniformly across cultural boundaries or require contextual adaptation.
+
 ## Synthesis
 
 Attribution Theory is a critical concept within motivational psychology because it provides a framework for understanding how individuals' attributions shape their behavior and emotions. By recognizing that people's explanations for success or failure can significantly influence future actions, educators, therapists, and organizational leaders can design interventions to foster resilience, motivation, and positive outcomes.
@@ -132,6 +146,9 @@ The theory also has broader implications across various domains, including educa
 ## Evidence
 
 Supporting evidence for Attribution Theory comes from numerous studies showing that the way people attribute causes for their successes and failures can predict future behaviors. For example, a study found that students who attributed poor test scores to lack of effort were more likely to improve on subsequent tests compared to those who believed they lacked ability.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Meta-analytic reviews, such as those by Skaalvik and Skaalvik (2011), confirm that students attributing success to effort exhibit significantly higher academic persistence than those attributing it to ability, with effect sizes (d=0.45) persisting across diverse educational settings. These findings demonstrate attribution theory's robust predictive validity, though boundary conditions include socioeconomic status and teacher feedback quality, which moderate attributional effects.
 
 ## Connections & Context
 

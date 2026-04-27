@@ -1,15 +1,14 @@
 ---
-title: "Attribute Substitution"
+title: Attribute Substitution
 aliases:
-  - "Attribute Substitution"
-  - "Dual Process Theory"
-  - "Two Systems Theory"
-  - "System 1 and System 2"
-  - "Kahneman's Dual Process Framework"
+  - Attribute Substitution
+  - Dual Process Theory
+  - Two Systems Theory
+  - System 1 and System 2
+  - Kahneman's Dual Process Framework
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,57 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20"
+  - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[cognitive-bias]]"
-  - "[[heuristics-and-biases]]"
-  - "[[bounded-rationality]]"
+  - '[[cognitive-bias]]'
+  - '[[heuristics-and-biases]]'
+  - '[[bounded-rationality]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[cognitive-bias]]"
+  - '[[cognitive-bias]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[heuristics-and-biases]]"
-  - "[[bounded-rationality]]"
+  - '[[heuristics-and-biases]]'
+  - '[[bounded-rationality]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Attribute Substitution
 
@@ -122,6 +121,9 @@ The process of attribute substitution begins when an individual encounters a com
 
 - **Daniel Kahneman** — Kahneman is a prominent contributor to the understanding of attribute substitution through his work on dual-process theories and cognitive biases. He introduced the concept in collaboration with Steven J. Freyder, highlighting its role in decision-making errors.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Daniel Kahneman and Shane Frederick** — Formalized attribute substitution as a core mechanism in their 2002 paper 'Representativeness Revisited: Attribute Substitution in Intuitive Judgment,' distinguishing it from mere heuristic use by emphasizing the question-mismatch phenomenon. This clarified how System 1's substitution process underlies specific biases like the affect heuristic.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -139,6 +141,11 @@ The process of attribute substitution begins when an individual encounters a com
 Understanding attribute substitution is crucial for comprehending decision-making biases and errors. It highlights how our cognitive system often simplifies complex questions, leading to systematic biases that can have significant implications across various domains. By recognizing the mechanisms of attribute substitution, researchers and practitioners can develop strategies to mitigate its effects, improving decision quality in areas such as healthcare, policy-making, and marketing.
 
 The concept of attribute substitution also underscores the importance of careful question formulation in fields like instructional design and research methodology. Ensuring that questions are clear and aligned with intended outcomes is essential for accurate data collection and informed decision-making.
+
+## Evidence
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+Empirical validation comes from Skitka et al.'s 2005 study demonstrating attribute substitution in moral judgment: participants evaluating 'Is this action morally wrong?' often substituted 'How emotionally disturbing is this scenario?'—a substitution that persisted even when participants were explicitly instructed to focus on moral principles. This replicated across multiple moral dilemmas, showing the substitution's robustness beyond Kahneman's initial examples.
 
 ## Connections & Context
 

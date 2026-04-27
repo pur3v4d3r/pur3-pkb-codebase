@@ -1,13 +1,12 @@
 ---
-title: "Achievement Emotions"
+title: Achievement Emotions
 aliases:
-  - "Achievement Emotions"
-  - "academic emotions"
-  - "achievement-related emotions"
+  - Achievement Emotions
+  - academic emotions
+  - achievement-related emotions
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "achievement-emotions-synthetic-seed-2026-04-25"
+  - achievement-emotions-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Achievement Emotions
 
@@ -87,6 +86,9 @@ Theoretical roots of Achievement Emotions trace back to John Sweller's cognitive
 
 Empirical evidence supports the notion that Achievement Emotions significantly impact learning behaviors. A study by Schutz et al. (2015) demonstrated that students who experienced positive emotions during problem-solving tasks showed better retention and transfer of knowledge compared to those experiencing negative emotions.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+Recent research reveals that achievement emotions interact with metacognitive processes in ways that extend beyond simple motivational effects. For instance, students experiencing shame after a poor performance may engage in maladaptive metacognitive monitoring, overestimating task difficulty and underestimating their capabilities, which can lead to avoidance behaviors. Conversely, positive emotions like enjoyment facilitate more accurate metacognitive appraisals, enabling learners to better calibrate effort and strategy selection. This dynamic underscores that achievement emotions do not merely influence learning outcomes but actively shape the very cognitive frameworks through which learners assess their own progress and competence.
+
 ## Mechanism
 
 Achievement Emotions influence attention, motivation, strategy use, and self-regulation through a series of cognitive processes. For example, when a student feels proud after solving a challenging problem, this positive emotion can enhance their focus on the task at hand, leading to more effective encoding of information. Conversely, anxiety about potential failure may narrow their attention to avoid perceived threats, potentially hindering deeper processing and understanding.
@@ -102,6 +104,11 @@ Achievement Emotions influence attention, motivation, strategy use, and self-reg
 > [!example] **Application 3 — Intervention strategies**
 > Interventions aimed at improving learning outcomes must consider the emotional state of students. For example, mindfulness exercises can help reduce anxiety and promote relaxation, while goal-setting activities can enhance motivation and pride in achievement.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Adaptive learning systems with emotion-aware interfaces**
+> In adaptive learning platforms, real-time detection of student frustration through behavioral cues could trigger immediate interventions, such as simplifying problem structures or offering scaffolded hints. This would prevent the escalation of negative emotions that impair cognitive processing, while maintaining challenge levels to sustain engagement. Such systems would leverage achievement emotions not as passive states but as active signals for dynamic task adjustment, potentially reducing dropout rates in online learning environments.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
@@ -110,6 +117,9 @@ Achievement Emotions influence attention, motivation, strategy use, and self-reg
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with the development of cognitive load theory, which provides a foundational framework for understanding how Achievement Emotions interact with learning processes. His work highlights the importance of task design in minimizing extraneous cognitive load and maximizing intrinsic engagement.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Rainer Pekrun** — Pekrun developed the Control-Value Theory of achievement emotions, which posits that emotions arise from appraisals of control (perceived ability to influence outcomes) and value (importance of the achievement context), providing a comprehensive framework for predicting emotional responses across diverse learning scenarios.
 
 ## Open Questions
 
@@ -122,6 +132,13 @@ Achievement Emotions influence attention, motivation, strategy use, and self-reg
 > What are the long-term effects of persistent negative Achievement Emotions on learning outcomes?
 >
 > *What would resolve it:* Longitudinal studies tracking students' emotional states over extended periods could help determine whether chronic negative emotions lead to sustained declines in academic performance and motivation.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!open-question] **Question**
+> How do cultural differences in emotional expression and regulation moderate the impact of achievement emotions on learning outcomes?
+>
+> *What would resolve it:* Cross-cultural studies comparing collectivist versus individualist educational contexts would clarify whether emotion regulation strategies or cultural norms around academic success alter the emotional-cognitive feedback loops described in achievement emotion theory.
 
 ## Synthesis
 

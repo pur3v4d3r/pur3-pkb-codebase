@@ -1,13 +1,12 @@
 ---
-title: "Argument Analysis"
+title: Argument Analysis
 aliases:
-  - "Argument Analysis"
-  - "argument mapping"
-  - "argument reconstruction"
+  - Argument Analysis
+  - argument mapping
+  - argument reconstruction
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - philosophy
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-04-27'
 source-type: report-extraction
 source-reports:
-  - "argument-analysis-synthetic-seed-2026-04-24"
+  - argument-analysis-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[Premise-Conclusion Mapping]]"
-  - "[[critical-reasoning]]"
-  - "[[inference]]"
+  - '[[Premise-Conclusion Mapping]]'
+  - '[[critical-reasoning]]'
+  - '[[inference]]'
 prerequisites:
-  - "[[Premise-Conclusion Mapping]]"
+  - '[[Premise-Conclusion Mapping]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[critical-reasoning]]"
+  - '[[critical-reasoning]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[inference]]"
+  - '[[inference]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen3:30b
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-04-27'
 ---
+
 
 # Argument Analysis
 
@@ -88,6 +87,9 @@ Theoretical roots of Argument Analysis trace back to critical thinking framework
 
 Historically, John Sweller's work on cognitive load theory has influenced how Argument Analysis is taught and practiced. His research highlights the importance of managing cognitive load to facilitate deeper understanding and evaluation of arguments.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+Toulmin's model demonstrates that argument analysis must account for contextual elements often overlooked in purely deductive approaches. For instance, the 'warrant'—the unstated principle linking evidence to a claim—varies significantly across disciplines; a statistical correlation might serve as warrant in social sciences but require different justification in legal contexts. This contextual sensitivity distinguishes rigorous analysis from mechanical premise-conclusion mapping.
+
 ## Mechanism
 
 The process of reconstructing an argument involves several steps: first, identifying the main conclusion; second, locating supporting premises; third, uncovering intermediate inferences; and finally, surfacing unstated assumptions. Analysts then evaluate each component for logical consistency and relevance to the overall argument.
@@ -103,14 +105,27 @@ The process of reconstructing an argument involves several steps: first, identif
 > [!example] **Application 3 — Policy analysis**
 > In policy analysis, Argument Analysis is crucial for evaluating the validity of claims made about proposed policies. By carefully examining the logical structure of arguments, analysts can determine whether the conclusions drawn from data and evidence are justified.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!example] **Application 4 — Academic Paper Critique**
+> In scholarly writing, students trained in argument analysis can systematically dissect research articles by mapping claims to evidence, identifying unstated methodological assumptions (e.g., implicit sampling bias), and evaluating whether warrants bridge evidence to conclusions. This transforms passive reading into active engagement with the argument's epistemic foundations.
+
 ## Key Distinctions
 
 > [!key-distinction] **Argument Mapping vs. Argument Reconstruction**
 > While both involve analyzing an argument's structure, Argument Mapping focuses on visualizing relationships between premises and conclusions, whereas Argument Reconstruction emphasizes identifying and evaluating the logical steps that connect them. The key difference lies in their primary goals: mapping aims to clarify the argument's architecture, while reconstruction seeks to assess its validity.
 
+<!-- enhancement-pass:1 (2026-04-27) -->
+
+> [!key-distinction] **Argument Analysis vs. Logical Fallacy Identification**
+> Argument Analysis reconstructs an argument's full structure to assess its overall coherence, while Logical Fallacy Identification targets specific errors in reasoning (e.g., ad hominem or false dilemma). The former examines how premises collectively support a conclusion, the latter isolates isolated flaws without considering the argument's broader architecture.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is a psychologist who contributed significantly to cognitive load theory. His work has influenced how Argument Analysis is taught and practiced by emphasizing the importance of managing cognitive load for effective learning.
+
+<!-- enhancement-pass:1 (2026-04-27) -->
+- **Stephen Toulmin** — Toulmin's 1958 model of argumentation (claim, grounds, warrant, backing, qualifier, rebuttal) provided a systematic framework for analyzing real-world arguments beyond formal logic. His work emphasized contextual factors like audience and purpose, shifting argument analysis from abstract validity to practical reasoning in everyday discourse.
 
 ## Open Questions
 
