@@ -1,0 +1,44 @@
+concept: Statistical Significance
+domain: research-methods
+secondary_domains:
+- statistics
+- research-methods
+aliases:
+- p-value significance
+- NHST significance
+broader:
+- null-hypothesis-significance-testing
+related:
+- null-hypothesis-significance-testing
+- p-values
+- effect-size-and-practical-significance
+- replication-crisis-in-psychology
+- preregistration
+- type-i-and-type-ii-errors
+prerequisites:
+- null-hypothesis-significance-testing
+confidence: high
+callouts:
+- type: definition
+  title: Statistical Significance
+  body: Statistical Significance is the conventional decision criterion in null-hypothesis
+    significance testing under which a result whose p-value falls below a pre-specified
+    alpha threshold (most commonly 0.05) is treated as evidence against the null hypothesis
+    — a procedural rule originating in Fisher and Neyman-Pearson with sharply different
+    interpretive commitments in the two original frameworks.
+- type: key-claim
+  title: Key claim about Statistical Significance
+  body: 'Statistical Significance has been the focus of sustained methodological critique
+    because its procedural simplicity tempts users to treat it as a measure of effect
+    importance, evidence strength, or replicability when it is none of these: it is
+    a decision rule about a single test under specific assumptions, and the gap between
+    what the procedure delivers and what users typically infer from it is the proximate
+    cause of much of the replication crisis.'
+- type: warning
+  title: Common pitfall regarding Statistical Significance
+  body: Statistical Significance is sometimes presented as evidence that the null
+    hypothesis is false, but the procedure controls only the long-run false-positive
+    rate and provides no posterior probability for any individual hypothesis; equating
+    "statistically significant" with "true" or with "important" inverts the procedure's
+    logic and overstates by an unbounded amount what a single significant p-value
+    warrants.

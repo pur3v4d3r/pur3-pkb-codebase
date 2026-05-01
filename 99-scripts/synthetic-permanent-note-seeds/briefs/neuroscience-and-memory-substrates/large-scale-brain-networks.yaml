@@ -1,0 +1,45 @@
+concept: Large-Scale Brain Networks
+domain: neuroscience
+secondary_domains:
+- systems-neuroscience
+- cognitive-neuroscience
+aliases:
+- intrinsic connectivity networks
+- resting-state networks
+broader:
+- neuroscience
+narrower:
+- default-mode-network
+- salience-network
+- executive-attention-network
+related:
+- default-mode-network
+- salience-network
+- executive-attention-network
+- attention-and-cognitive-control
+- mind-wandering
+prerequisites:
+- neuroscience
+confidence: high
+callouts:
+- type: definition
+  title: Large-Scale Brain Networks
+  body: Large-Scale Brain Networks are the spatially distributed, functionally coupled
+    sets of brain regions identified by intrinsic-functional-connectivity analyses
+    of resting-state and task fMRI — including the default mode, salience, executive
+    control, dorsal and ventral attention, and sensorimotor networks — that together
+    provide a coarse but reproducible map of the brain's functional architecture.
+- type: key-claim
+  title: Key claim about Large-Scale Brain Networks
+  body: Large-Scale Brain Networks rather than single regions are the level at which
+    cognitive functions like attentional control, internally-directed thought, and
+    salience detection are most robustly localized, and dynamic reconfiguration between
+    networks rather than activation within any single network has emerged as the more
+    useful index of cognitive state transitions.
+- type: warning
+  title: Common pitfall regarding Large-Scale Brain Networks
+  body: Large-Scale Brain Networks are often treated as discrete modules with assigned
+    cognitive functions ("the default mode network does mind-wandering"), but the
+    network-to-cognition mapping is many-to-many and state-dependent, and labeling
+    networks by their most-publicized correlation systematically over-states the precision
+    of the inference from connectivity to cognition.

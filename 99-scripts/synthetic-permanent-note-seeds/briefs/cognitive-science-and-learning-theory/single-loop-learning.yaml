@@ -1,0 +1,41 @@
+concept: Single-Loop Learning
+domain: learning-science
+secondary_domains:
+- organizational-learning
+- systems-thinking
+aliases:
+- first-order learning
+broader:
+- feedback-loops
+related:
+- double-loop-learning
+- feedback-loops
+- organizational-psychology
+- mental-model
+- schema-theory
+- reflective-thinking
+prerequisites:
+- feedback-loops
+confidence: high
+callouts:
+- type: definition
+  title: Single-Loop Learning
+  body: Single-Loop Learning, in Argyris and Schon's organizational-learning framework,
+    is the form of learning in which an actor detects an error or gap and corrects
+    it by adjusting actions within the existing governing variables — the goals, values,
+    and frames remain unquestioned and only the action repertoire is updated, contrasted
+    with double-loop learning that revises the governing variables themselves.
+- type: key-claim
+  title: Key claim about Single-Loop Learning
+  body: Single-Loop Learning is the modal mode of error correction in individuals
+    and organizations because it operates within the existing identity-and-value structure
+    and therefore does not threaten the actor's commitments — it accomplishes incremental
+    improvement at low psychological and political cost but is structurally incapable
+    of fixing problems whose source lies in the governing variables themselves.
+- type: warning
+  title: Common pitfall regarding Single-Loop Learning
+  body: 'Single-Loop Learning is often dismissed as inferior to double-loop learning,
+    but the framework is descriptive rather than evaluative: Single-Loop Learning
+    is the appropriate mode when the governing variables are themselves sound, and
+    forcing double-loop learning where single-loop suffices wastes organizational
+    resources and destabilizes commitments that did not need revision.'

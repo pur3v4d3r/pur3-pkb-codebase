@@ -1,0 +1,42 @@
+concept: Organizational Psychology
+domain: social-psychology
+secondary_domains:
+- industrial-organizational-psychology
+- management-science
+aliases:
+- I-O psychology
+- work psychology
+broader:
+- psychology
+related:
+- self-determination-theory
+- goal-setting-theory
+- high-performance-cycle
+- motivational-design
+- communities-of-practice
+- transactive-memory-systems
+prerequisites:
+- social-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Organizational Psychology
+  body: Organizational Psychology is the scientific study of human behavior in workplace
+    settings — covering selection, training, motivation, leadership, team dynamics,
+    organizational culture, and the design of work itself — and serves as the applied
+    bridge between general psychological science and the engineering of workplaces,
+    often paired with industrial psychology under the I-O label.
+- type: key-claim
+  title: Key claim about Organizational Psychology
+  body: Organizational Psychology has shown that workplace outcomes (performance,
+    retention, well-being) are shaped at least as strongly by structural and interpersonal
+    context as by individual selection, and the construct of person-environment fit
+    captures the empirical finding that the same individual will produce systematically
+    different outcomes across different organizational designs.
+- type: warning
+  title: Common pitfall regarding Organizational Psychology
+  body: Organizational Psychology findings are often imported into management practice
+    as universal prescriptions, but most validated effects are moderated by sector,
+    occupation, national context, and organizational scale; transplanting an intervention
+    that worked in one organizational ecology into another without re-validation is
+    the modal source of disappointing implementation outcomes.

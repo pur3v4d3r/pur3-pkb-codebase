@@ -1,0 +1,51 @@
+concept: Source Code Management
+domain: software-engineering
+secondary_domains:
+- version-control
+- devops
+aliases:
+- SCM
+- source control
+broader:
+- version-control
+narrower:
+- git
+- mercurial
+- monorepo-strategies
+- branch-management
+- pull-request-workflow
+related:
+- version-control
+- git
+- github-copilot
+- continuous-integration
+- code-review
+- branching-strategy
+- monorepo
+prerequisites:
+- version-control
+confidence: high
+callouts:
+- type: definition
+  title: Source Code Management
+  body: Source Code Management is the engineering discipline and the toolchain (Git
+    being the dominant exemplar) for tracking, sharing, and integrating changes to
+    source code across time, branches, and contributors — providing the historical,
+    branching, and merging operations on which collaborative software development,
+    code review, and continuous-integration practices depend.
+- type: key-claim
+  title: Key claim about Source Code Management
+  body: 'Source Code Management is the load-bearing infrastructure of modern software
+    collaboration in a way few other tools are: branching strategy, commit hygiene,
+    and merge discipline together determine the integration cost of a project, and
+    projects that make these decisions deliberately accumulate a fraction of the integration
+    debt of those that let the practices emerge by default — which is why mature engineering
+    organizations invest disproportionately in SCM workflow design.'
+- type: warning
+  title: Common pitfall regarding Source Code Management
+  body: Source Code Management tools enforce no specific workflow, and the choice
+    of branching strategy (trunk-based, GitFlow, GitHub Flow, release branching) has
+    consequences that compound over team and codebase size; teams routinely adopt
+    a strategy from a tutorial without analyzing whether it matches their integration
+    cadence, release model, or team topology, and the mismatch surfaces months later
+    as recurring merge conflicts or release pipeline contention.

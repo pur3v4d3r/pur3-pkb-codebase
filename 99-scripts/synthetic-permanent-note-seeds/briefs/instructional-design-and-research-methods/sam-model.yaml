@@ -1,0 +1,44 @@
+concept: SAM Model
+domain: research-methods
+secondary_domains:
+- instructional-design
+- agile-development
+aliases:
+- Successive Approximation Model
+broader:
+- instructional-design
+related:
+- addie-model
+- instructional-design
+- agile-software-development
+- design-based-research
+- motivational-design
+- formative-evaluation
+- rapid-prototyping
+prerequisites:
+- instructional-design
+confidence: medium
+callouts:
+- type: definition
+  title: SAM Model
+  body: The SAM Model (Successive Approximation Model) is Michael Allen's iterative
+    instructional-design methodology that replaces the linear ADDIE phases with three
+    short cycles — preparation, iterative design, and iterative development — each
+    producing increasingly fidelity-rich prototypes that are reviewed and revised
+    in collaboration with stakeholders, drawing on agile-development principles applied
+    to learning-design work.
+- type: key-claim
+  title: Key claim about SAM Model
+  body: The SAM Model directly addresses ADDIE's most-criticized failure mode — the
+    late-stage discovery of design problems that earlier phases assumed away — by
+    making prototype-and-feedback the unit of progress rather than phase-completion,
+    which front-loads the discovery of misalignments between design assumptions and
+    stakeholder or learner reality at a stage where revision is still cheap.
+- type: warning
+  title: Common pitfall regarding SAM Model
+  body: The SAM Model is sometimes adopted as a process diagram while preserving the
+    phase-gate culture that ADDIE encouraged, producing a pseudo-iterative practice
+    in which prototypes are reviewed but seldom substantially revised; the methodology's
+    productivity gains depend on the willingness of stakeholders to permit non-trivial
+    design changes after seeing prototypes, and the cultural prerequisite is what
+    most adoption failures actually fail on.

@@ -1,0 +1,48 @@
+concept: Volition
+domain: positive-psychology
+secondary_domains:
+- motivation-science
+- philosophy-of-action
+aliases:
+- will
+- willing
+- volitional control
+broader:
+- self-regulation
+narrower:
+- volitional-control
+- implementation-intention
+related:
+- goal-intention
+- action-control-theory
+- willpower
+- self-control
+- autonomous-motivation
+- action-phase-model
+- rubicon
+prerequisites:
+- forethought-phase
+confidence: high
+callouts:
+- type: definition
+  title: Volition
+  body: Volition is the post-decisional set of psychological processes by which an
+    intention is shielded against competing tendencies, translated into action, and
+    maintained through interruption — the territory the Rubicon model of action phases
+    assigns to the post-decisional space and that Kuhl's Action Control Theory partitions
+    into attentional, motivational, emotional, environmental, and parsimonious-information-processing
+    controls.
+- type: key-claim
+  title: Key claim about Volition
+  body: 'Volition is theoretically and empirically separable from motivation: motivational
+    processes determine which goal a person is committed to, while Volition determines
+    whether that commitment is carried through given the inevitable temptations and
+    disruptions of execution — a distinction that explains why high-motivation individuals
+    can systematically under-implement their own goals.'
+- type: warning
+  title: Common pitfall regarding Volition
+  body: Volition is often collapsed into willpower or self-control in popular discourse,
+    which licenses moralistic explanations of failure to act; the action-control literature
+    instead treats Volition as a set of trainable strategies (implementation intentions,
+    environment design, attentional control) whose absence is a skill deficit rather
+    than a character defect.

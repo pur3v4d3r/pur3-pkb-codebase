@@ -1,0 +1,41 @@
+concept: Theory-Ladenness of Observation
+domain: philosophy
+secondary_domains:
+- philosophy-of-science
+- epistemology
+aliases:
+- theory-laden observation
+- theory-ladenness
+broader:
+- philosophy-of-science
+related:
+- scientific-realism
+- underdetermination
+- philosophy-of-science
+- paradigm
+- conceptual-change
+prerequisites:
+- philosophy-of-science
+confidence: high
+callouts:
+- type: definition
+  title: Theory-Ladenness of Observation
+  body: Theory-Ladenness of Observation is the thesis, prominent in Hanson, Kuhn,
+    and Feyerabend, that scientific observation is never neutral with respect to theory
+    — what counts as an observation, how it is described, and which features are considered
+    relevant are conditioned by the theoretical framework the observer brings to the
+    perceptual situation.
+- type: key-claim
+  title: Key claim about Theory-Ladenness of Observation
+  body: 'Theory-Ladenness of Observation has narrower and broader formulations: the
+    narrow claim (theoretical concepts shape the description and salience of observations)
+    is well supported by perception research; the broad claim (observations cannot
+    adjudicate between rival theories at all) is not, and conflating the two converts
+    a defensible cognitive thesis into an indefensible epistemological one.'
+- type: warning
+  title: Common pitfall regarding Theory-Ladenness of Observation
+  body: 'Theory-Ladenness of Observation is regularly used to license epistemic relativism
+    — "all observation is just theory, so no theory is privileged" — but the inference
+    is invalid: that observation is shaped by theory does not imply that all theory-shapings
+    are equally good, and most contemporary defenders of the thesis explicitly reject
+    the relativist reading.'

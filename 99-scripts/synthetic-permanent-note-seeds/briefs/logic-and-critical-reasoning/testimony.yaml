@@ -1,0 +1,43 @@
+concept: Testimony
+domain: critical-thinking
+secondary_domains:
+- social-epistemology
+- philosophy-of-language
+aliases:
+- testimonial knowledge
+broader:
+- social-epistemology
+related:
+- social-epistemology
+- epistemic-vigilance
+- testimonial-injustice
+- source-evaluation
+- knowledge-by-acquaintance-vs-description
+- justified-true-belief
+- principle-of-charity
+prerequisites:
+- social-epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Testimony
+  body: Testimony in epistemology refers to the transmission of a belief from one
+    agent to another via assertion, and to the philosophical questions about when
+    and how such transmission yields justified belief or knowledge in the recipient
+    — the central topic of social epistemology, since the vast majority of what any
+    individual knows is acquired by Testimony rather than by first-person observation
+    or inference.
+- type: key-claim
+  title: Key claim about Testimony
+  body: Testimony is the subject of a long-standing dispute between reductionist views
+    (Testimony is justified only when the hearer has independent reason to trust the
+    source) and non-reductionist views (Testimony is a basic source of justification
+    analogous to perception or memory); the dispute has practical bite because the
+    two positions license very different default attitudes toward unverified sources.
+- type: warning
+  title: Common pitfall regarding Testimony
+  body: Testimony is often discussed as if its epistemology were exhausted by the
+    dyad of speaker and hearer, but most actual Testimony moves through chains of
+    testifiers, with each link adding noise, bias, and selection effects; treating
+    multi-hop Testimony with single-hop epistemic tools systematically underestimates
+    the rate at which the original signal degrades along the chain.

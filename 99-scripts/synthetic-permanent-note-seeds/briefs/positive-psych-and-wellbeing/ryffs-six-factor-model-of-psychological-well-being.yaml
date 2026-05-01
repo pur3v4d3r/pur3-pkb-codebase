@@ -1,0 +1,43 @@
+concept: Ryff's Six-Factor Model of Psychological Well-Being
+domain: positive-psychology
+secondary_domains:
+- positive-psychology
+- eudaimonic-psychology
+aliases:
+- Ryff PWB model
+- Scales of Psychological Well-Being
+broader:
+- psychological-flourishing
+related:
+- eudaimonia
+- perma-model
+- hedonic-well-being
+- autonomy
+- self-determination-theory
+- meaning-making
+prerequisites:
+- eudaimonia
+confidence: high
+callouts:
+- type: definition
+  title: Ryff's Six-Factor Model of Psychological Well-Being
+  body: Ryff's Six-Factor Model of Psychological Well-Being is Carol Ryff's eudaimonic-tradition
+    operationalization of well-being into six distinct dimensions — autonomy, environmental
+    mastery, personal growth, positive relations with others, purpose in life, and
+    self-acceptance — assessed by the Scales of Psychological Well-Being and explicitly
+    contrasted with hedonic subjective-well-being measures.
+- type: key-claim
+  title: Key claim about Ryff's Six-Factor Model of Psychological Well-Being
+  body: Ryff's Six-Factor Model of Psychological Well-Being established that eudaimonic
+    well-being is multi-dimensional rather than a single global construct, and the
+    dimensions display distinct developmental trajectories across the lifespan — for
+    example, environmental mastery and autonomy rise into midlife while purpose in
+    life tends to decline in late adulthood.
+- type: warning
+  title: Common pitfall regarding Ryff's Six-Factor Model of Psychological Well-Being
+  body: Ryff's Six-Factor Model of Psychological Well-Being is sometimes taken as
+    a definitive map of eudaimonic well-being, but the six-factor structure has not
+    been replicated in every cultural sample, and short-form versions of the scales
+    lose factor distinctness; treating the six dimensions as cleanly orthogonal can
+    therefore over-state how cleanly an intervention targets one without engaging
+    the others.

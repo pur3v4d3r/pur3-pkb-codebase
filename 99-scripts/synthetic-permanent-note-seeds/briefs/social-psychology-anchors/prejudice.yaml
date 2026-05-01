@@ -1,0 +1,40 @@
+concept: Prejudice
+domain: social-psychology
+secondary_domains:
+- intergroup-relations
+- moral-psychology
+aliases:
+- intergroup prejudice
+broader:
+- social-cognition
+related:
+- stereotype-threat
+- implicit-bias
+- in-group-out-group-bias
+- social-identity-theory
+- self-categorization-theory
+- attribution-theory
+prerequisites:
+- in-group-out-group-bias
+confidence: high
+callouts:
+- type: definition
+  title: Prejudice
+  body: Prejudice is a negatively-valenced attitude toward a person or group held
+    on the basis of perceived category membership, integrating affective (felt antipathy),
+    cognitive (stereotyped beliefs), and behavioral (discrimination tendency) components
+    — distinguished from stereotype (the cognitive content) and discrimination (the
+    behavioral expression) by being the evaluative attitude that links them.
+- type: key-claim
+  title: Key claim about Prejudice
+  body: Prejudice can operate explicitly through endorsed beliefs accessible to introspection
+    and implicitly through automatic associations that diverge from those endorsed
+    beliefs, and contemporary measurement programs treat the two as related but separable
+    constructs whose joint patterning predicts behavior better than either alone.
+- type: warning
+  title: Common pitfall regarding Prejudice
+  body: Prejudice reduction interventions are often evaluated on attitude-scale change
+    while ignoring behavioral and structural outcomes, but a measured drop in self-reported
+    Prejudice can coexist with unchanged behavior and unchanged outcome distributions
+    — so the construct is most useful when paired with downstream metrics rather than
+    treated as the terminal target of intervention.

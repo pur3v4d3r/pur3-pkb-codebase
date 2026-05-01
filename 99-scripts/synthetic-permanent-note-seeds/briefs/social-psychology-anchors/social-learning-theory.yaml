@@ -1,0 +1,43 @@
+concept: Social Learning Theory
+domain: social-psychology
+secondary_domains:
+- developmental-psychology
+- behavior-change
+aliases:
+- Bandura social learning theory
+broader:
+- social-cognitive-theory
+narrower:
+- observational-learning
+- vicarious-experience
+related:
+- social-cognitive-theory
+- observational-learning
+- self-efficacy
+- mirror-neurons
+- modeling
+prerequisites:
+- observational-learning
+confidence: high
+callouts:
+- type: definition
+  title: Social Learning Theory
+  body: Social Learning Theory is Albert Bandura's framework — later extended into
+    Social Cognitive Theory — proposing that human learning occurs in large part by
+    observing others' behavior and its consequences, mediated by the four sub-processes
+    of attention, retention, motor reproduction, and motivation, which together explain
+    learning that occurs in the absence of direct reinforcement.
+- type: key-claim
+  title: Key claim about Social Learning Theory
+  body: 'Social Learning Theory broke with strict behaviorism by demonstrating that
+    no overt reinforcement of the learner is required for behavior acquisition: vicarious
+    reinforcement of the model and symbolic representation of the modeled behavior
+    together suffice, which forced learning theory to incorporate cognitive mediation
+    as a non-optional component.'
+- type: warning
+  title: Common pitfall regarding Social Learning Theory
+  body: Social Learning Theory is often cited to argue that media exposure causes
+    imitation in a one-to-one fashion, but Bandura's framework conditions imitation
+    on the four sub-processes plus model-similarity, perceived self-efficacy, and
+    outcome expectations; ignoring those moderators reduces the theory to an unrecognizable
+    caricature whose predictions consistently fail.

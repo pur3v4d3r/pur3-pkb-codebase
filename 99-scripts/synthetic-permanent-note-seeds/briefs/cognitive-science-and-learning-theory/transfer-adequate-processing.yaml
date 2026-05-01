@@ -1,0 +1,44 @@
+concept: Transfer Adequate Processing
+domain: learning-science
+secondary_domains:
+- cognitive-psychology
+- instructional-design
+aliases:
+- transfer-appropriate processing variant
+broader:
+- transfer-of-learning
+related:
+- transfer-appropriate-processing
+- transfer-of-learning
+- encoding-specificity-principle
+- levels-of-processing
+- encoding-variability
+- near-transfer
+- far-transfer
+prerequisites:
+- transfer-appropriate-processing
+confidence: medium
+callouts:
+- type: definition
+  title: Transfer Adequate Processing
+  body: Transfer Adequate Processing is the principle, within the broader transfer-appropriate-processing
+    family, that retention is maximized when the cognitive operations engaged at study
+    match those required at the criterion task — generalizing the encoding-specificity
+    principle from cue overlap to processing overlap and explaining why depth of processing
+    improves recall when the test rewards conceptual processing but not when it rewards
+    perceptual processing.
+- type: key-claim
+  title: Key claim about Transfer Adequate Processing
+  body: 'Transfer Adequate Processing reframes the levels-of-processing literature
+    as a study-test-interaction phenomenon rather than a property of encoding alone:
+    there is no universally "deeper" or "better" form of processing because the criterion
+    of better is the match between study and test, which is why instructional design
+    must reason backward from assessment in order to identify which study processing
+    will transfer.'
+- type: warning
+  title: Common pitfall regarding Transfer Adequate Processing
+  body: 'Transfer Adequate Processing is sometimes presented as a refutation of levels-of-processing,
+    but the relationship is more nuanced: deeper conceptual processing remains advantageous
+    on average because most useful criterion tasks are themselves conceptual, so the
+    older levels-of-processing finding is recovered as a special case rather than
+    overturned in domains where conceptual transfer is the goal.'

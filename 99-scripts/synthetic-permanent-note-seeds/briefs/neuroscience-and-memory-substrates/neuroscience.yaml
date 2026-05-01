@@ -1,0 +1,44 @@
+concept: Neuroscience
+domain: neuroscience
+secondary_domains:
+- biology
+- cognitive-science
+aliases:
+- neural science
+narrower:
+- neuroscience-of-learning
+- synaptic-plasticity
+- neurotransmission
+- large-scale-brain-networks
+related:
+- cognitive-psychology
+- neuroplasticity
+- prefrontal-cortex-function
+- default-mode-network
+- salience-network
+- executive-attention-network
+prerequisites:
+- biology
+confidence: high
+callouts:
+- type: definition
+  title: Neuroscience
+  body: Neuroscience is the multi-disciplinary scientific study of the nervous system
+    — its cellular and molecular constituents, its anatomical organization, the dynamics
+    of neural circuits, and the relationships between neural activity and behavior,
+    cognition, and experience — spanning levels of analysis from ion channels to whole-brain
+    network dynamics.
+- type: key-claim
+  title: Key claim about Neuroscience
+  body: Neuroscience is best understood not as a single field but as a federation
+    of levels of analysis that constrain one another, and progress on cognitive questions
+    typically requires triangulating across at least two of those levels (for example,
+    single-cell recording plus behavior, or fMRI plus computational model) because
+    no single level uniquely identifies a cognitive process.
+- type: warning
+  title: Common pitfall regarding Neuroscience
+  body: Neuroscience findings are routinely over-extrapolated into popular cognitive
+    prescriptions ("left-brain versus right-brain," "the dopamine hit," "lighting
+    up brain regions"), but the inferential gap from brain measurement to cognitive
+    claim is large, and a publication-grade Neuroscience finding is almost never sufficient
+    on its own to license a behavioral or educational recommendation.

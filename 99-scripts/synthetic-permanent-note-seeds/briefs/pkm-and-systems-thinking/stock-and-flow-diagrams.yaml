@@ -1,0 +1,44 @@
+concept: Stock and Flow Diagrams
+domain: knowledge-management
+secondary_domains:
+- systems-thinking
+- modeling
+aliases:
+- stock-and-flow notation
+- SFD
+broader:
+- system-dynamics
+related:
+- system-dynamics
+- stocks-and-flows
+- causal-loop-diagrams
+- feedback-loops
+- dynamic-equilibrium
+- leverage-points
+prerequisites:
+- system-dynamics
+confidence: high
+callouts:
+- type: definition
+  title: Stock and Flow Diagrams
+  body: Stock and Flow Diagrams are the formal diagrammatic notation of System Dynamics
+    that distinguishes accumulations (stocks, drawn as rectangles) from the rates
+    that change them (flows, drawn as pipe-and-valve symbols), with auxiliary variables
+    and information links connecting them — providing the bridge between qualitative
+    causal-loop diagrams and the quantitative differential-equation models that simulation
+    requires.
+- type: key-claim
+  title: Key claim about Stock and Flow Diagrams
+  body: 'Stock and Flow Diagrams enforce a clarification that prose descriptions and
+    causal-loop diagrams systematically blur: the distinction between a stock (which
+    can change only by inflow minus outflow over time) and the rates that act on it,
+    which has direct quantitative consequences and which routinely identifies modeling
+    errors that less disciplined notations would have hidden behind ambiguous arrows.'
+- type: warning
+  title: Common pitfall regarding Stock and Flow Diagrams
+  body: 'Stock and Flow Diagrams are often produced without the unit-and-dimensional
+    discipline they require to function as models rather than illustrations: each
+    stock and flow has a unit, each flow''s unit must be the stock''s unit divided
+    by time, and dimensional inconsistency in a Stock and Flow Diagram is almost always
+    evidence of conceptual confusion that the discipline of the notation is meant
+    to surface.'

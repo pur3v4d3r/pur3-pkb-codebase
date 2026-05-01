@@ -1,0 +1,40 @@
+concept: Optimism
+domain: positive-psychology
+secondary_domains:
+- positive-psychology
+- motivational-psychology
+aliases:
+- dispositional optimism
+broader:
+- explanatory-style
+related:
+- learned-optimism
+- hope-theory
+- self-efficacy
+- psychological-resilience
+- benefit-finding
+- optimism-bias
+prerequisites:
+- attribution-theory
+confidence: high
+callouts:
+- type: definition
+  title: Optimism
+  body: Optimism is a generalized expectancy that future outcomes will be favorable,
+    operationalized in dispositional form by Scheier and Carver's Life Orientation
+    Test and in attributional form by an explanatory style that treats negative events
+    as external, unstable, and specific while treating positive events as internal,
+    stable, and global.
+- type: key-claim
+  title: Key claim about Optimism
+  body: Optimism predicts persistence on goal-directed tasks, faster physiological
+    recovery from stressors, and broader use of approach-coping rather than avoidance-coping,
+    and these effects survive controls for trait neuroticism — indicating Optimism
+    functions as more than the cosmetic flip-side of a depressive style.
+- type: warning
+  title: Common pitfall regarding Optimism
+  body: Optimism is not the same as overconfidence or wishful-thinking; unrealistic
+    Optimism that ignores feedback signals (the optimism bias proper) is associated
+    with under-preparation and can degrade calibration, so the construct's protective
+    effects depend on its coexistence with accurate metacognitive monitoring rather
+    than its replacement of it.

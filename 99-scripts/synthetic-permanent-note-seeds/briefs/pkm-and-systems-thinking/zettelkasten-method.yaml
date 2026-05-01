@@ -1,0 +1,50 @@
+concept: Zettelkasten Method
+domain: knowledge-management
+secondary_domains:
+- note-taking
+- learning-science
+aliases:
+- Zettelkasten methodology
+- slip-box method
+broader:
+- knowledge-management
+narrower:
+- permanent-notes
+- fleeting-notes
+- literature-notes
+- evergreen-notes
+- atomic-notes
+related:
+- zettelkasten
+- slip-box-methodology
+- evergreen-notes
+- atomic-notes
+- niklas-luhmann
+- second-brain
+- building-a-second-brain
+prerequisites:
+- zettelkasten
+confidence: high
+callouts:
+- type: definition
+  title: Zettelkasten Method
+  body: The Zettelkasten Method is the disciplined personal-knowledge-management practice
+    originating in Niklas Luhmann's slip-box system, in which the worker captures
+    discrete atomic ideas as individually addressable notes, links them densely to
+    other notes, and progressively builds an emergent network of conceptual connections
+    that supports retrieval, surprise, and writing-by-recombination.
+- type: key-claim
+  title: Key claim about Zettelkasten Method
+  body: 'The Zettelkasten Method''s productivity advantage derives from the linking
+    discipline rather than from the notes themselves: requiring each new note to be
+    connected to at least one existing note forces the worker to perform the integrative
+    cognitive work that converts isolated facts into structured knowledge, producing
+    a corpus whose value scales super-linearly with size in a way that flat note collections
+    do not.'
+- type: warning
+  title: Common pitfall regarding Zettelkasten Method
+  body: The Zettelkasten Method is frequently adopted at the surface level — folder
+    structures, tag schemes, plugin configurations — without the underlying linking
+    and atomicity discipline that makes it work; a Zettelkasten of un-linked, un-atomic
+    notes is functionally a search-indexed pile, and the productivity gains attributed
+    to the method come from the practice rather than the tooling.

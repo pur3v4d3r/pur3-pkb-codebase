@@ -1,0 +1,47 @@
+concept: Memory Science
+domain: neuroscience
+secondary_domains:
+- cognitive-psychology
+- neuroscience
+aliases:
+- science of memory
+- memory research
+broader:
+- cognitive-psychology
+narrower:
+- memory-systems
+- memory-consolidation
+- retrieval-practice
+related:
+- memory-systems
+- working-memory
+- long-term-memory
+- episodic-memory
+- semantic-memory
+- procedural-memory
+- hippocampal-neocortical-transfer
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Memory Science
+  body: Memory Science is the integrative study of the encoding, storage, transformation,
+    and retrieval of information across multiple memory systems — sensory, working,
+    episodic, semantic, procedural — drawing on behavioral psychology, cognitive neuroscience,
+    computational modeling, and clinical neurology to construct a multi-level account
+    of how the past influences the present.
+- type: key-claim
+  title: Key claim about Memory Science
+  body: 'Memory Science has converged on the view that memory is constructive rather
+    than reproductive: retrieval reconstructs a representation from partial cues against
+    a background of schemas and current goals, which explains both the practical power
+    of cue-based retrieval techniques and the predictable distortions that make eyewitness
+    and autobiographical memory unreliable in specific, characterizable ways.'
+- type: warning
+  title: Common pitfall regarding Memory Science
+  body: Memory Science findings on distortion are often weaponized into the claim
+    that "memory is unreliable," but the empirical pattern is more specific — memory
+    is reliable for gist, unreliable for peripheral detail, and biased in characterizable
+    directions — and the global skeptical reading both over-states the disorder and
+    licenses dismissal of memory evidence in domains where it remains diagnostic.

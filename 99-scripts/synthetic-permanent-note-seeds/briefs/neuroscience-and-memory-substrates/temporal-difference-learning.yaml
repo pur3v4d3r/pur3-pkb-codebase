@@ -1,0 +1,42 @@
+concept: Temporal-Difference Learning
+domain: neuroscience
+secondary_domains:
+- computational-neuroscience
+- reinforcement-learning
+aliases:
+- TD learning
+broader:
+- reinforcement-learning
+related:
+- classical-conditioning
+- dopaminergic-reward-system
+- dopamine-and-learning
+- predictive-coding
+- free-energy-principle
+- prediction-error
+prerequisites:
+- classical-conditioning
+confidence: high
+callouts:
+- type: definition
+  title: Temporal-Difference Learning
+  body: Temporal-Difference Learning is the reinforcement-learning algorithm class
+    in which an agent updates its value estimates based on the difference between
+    successive value predictions rather than waiting for a final outcome — bootstrapping
+    each prediction off the next — and the algorithm whose error signal aligns quantitatively
+    with phasic dopamine activity in midbrain reward circuits.
+- type: key-claim
+  title: Key claim about Temporal-Difference Learning
+  body: 'Temporal-Difference Learning provides the most influential bridge between
+    machine reinforcement learning and biological reward processing: the temporal-difference
+    error matches the time-shift, surprise, and blocking properties of phasic dopamine
+    signaling so closely that the algorithm has become a default computational model
+    of dopaminergic learning.'
+- type: warning
+  title: Common pitfall regarding Temporal-Difference Learning
+  body: Temporal-Difference Learning is sometimes asserted as the algorithm the brain
+    implements, but the empirical match is to a feature of dopaminergic signaling,
+    not to the brain's full learning architecture; treating Temporal-Difference Learning
+    as a complete model ignores model-based reinforcement, hierarchical structure
+    learning, and the contributions of non-dopaminergic systems that the algorithm
+    does not capture.

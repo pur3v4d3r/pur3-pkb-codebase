@@ -1,0 +1,44 @@
+concept: Theoretical Frameworks
+domain: research-methods
+secondary_domains:
+- research-methods
+- theory-development
+aliases:
+- conceptual frameworks
+- theoretical lenses
+broader:
+- research-methods
+related:
+- grand-theory-vs-middle-range-theory
+- conceptual-framework
+- philosophy-of-science
+- design-based-research
+- theory-of-change
+- mechanism-based-explanation
+prerequisites:
+- research-methods
+confidence: high
+callouts:
+- type: definition
+  title: Theoretical Frameworks
+  body: Theoretical Frameworks are the explicit assemblies of constructs, relationships,
+    and assumptions that organize a research program's questions, hypotheses, and
+    interpretive moves — providing the conceptual scaffolding through which raw observations
+    are translated into theoretically meaningful claims and through which findings
+    from disparate studies become comparable and cumulative.
+- type: key-claim
+  title: Key claim about Theoretical Frameworks
+  body: 'Theoretical Frameworks function as both enablers and constraints on inquiry:
+    they enable observation by specifying what to look at and what counts as a relevant
+    pattern, but constrain it by rendering invisible whatever the framework does not
+    represent — which is why progress on hard problems often requires not merely more
+    data within an existing framework but explicit articulation and testing of alternative
+    Theoretical Frameworks.'
+- type: warning
+  title: Common pitfall regarding Theoretical Frameworks
+  body: Theoretical Frameworks are frequently named in research reports without being
+    used to guide design or interpretation, producing the failure mode in which a
+    citation to a framework provides theoretical decoration rather than theoretical
+    commitment; the diagnostic question is whether the framework's specific predictions
+    or constructs do measurable work in the analysis, and many "framework-grounded"
+    studies do not pass this test.

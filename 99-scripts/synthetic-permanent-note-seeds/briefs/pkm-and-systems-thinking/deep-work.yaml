@@ -1,0 +1,43 @@
+concept: Deep Work
+domain: knowledge-management
+secondary_domains:
+- productivity
+- attention-research
+aliases:
+- deep-work practice
+broader:
+- knowledge-work-practice
+related:
+- shallow-work
+- attention-residue
+- focused-attention
+- time-blocking
+- gtd-method
+- building-a-second-brain
+prerequisites:
+- knowledge-work-practice
+confidence: high
+callouts:
+- type: definition
+  title: Deep Work
+  body: Deep Work is Cal Newport's term for cognitively demanding professional activity
+    performed in a state of sustained, distraction-free concentration that pushes
+    a knowledge worker's cognitive capabilities toward their limit — distinguished
+    from "shallow work" (logistical, attention-fragmented tasks of low cognitive demand)
+    and proposed as the rate-limiting factor in the production of high-value cognitive
+    output.
+- type: key-claim
+  title: Key claim about Deep Work
+  body: 'Deep Work draws empirical support from converging research on attention residue
+    (incomplete cognitive disengagement from interrupted prior tasks), the costs of
+    context switching, and the deliberate-practice literature: each independently
+    shows that high-value cognitive performance benefits from durations and conditions
+    that everyday office practice rarely provides, making Deep Work less a personal-style
+    preference than a structural prerequisite for certain output classes.'
+- type: warning
+  title: Common pitfall regarding Deep Work
+  body: 'Deep Work is sometimes prescribed as a universal productivity ideal, but
+    its applicability depends on the work''s character: roles whose value derives
+    from rapid coordination, social presence, or many small high-stakes decisions
+    are not well-served by the Deep Work template, and applying it indiscriminately
+    produces visible-but-unproductive monasticism rather than higher output.'

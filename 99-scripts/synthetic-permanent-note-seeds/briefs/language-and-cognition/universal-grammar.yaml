@@ -1,0 +1,47 @@
+concept: Universal Grammar
+domain: cognitive-science
+secondary_domains:
+- linguistics
+- cognitive-science
+aliases:
+- UG
+- generative grammar
+- innate language faculty
+broader:
+- linguistics
+related:
+- generative-grammar
+- language-acquisition
+- poverty-of-the-stimulus
+- principles-and-parameters
+- statistical-learning
+- linguistic-relativity
+- minimalist-program
+prerequisites:
+- linguistics
+confidence: high
+callouts:
+- type: definition
+  title: Universal Grammar
+  body: Universal Grammar is the Chomskyan thesis that humans possess an innately
+    specified language faculty that constrains the class of possible human languages
+    and explains how children acquire language despite the apparent poverty of the
+    linguistic input — a research program that has gone through successive theoretical
+    reformulations (Standard Theory, Government and Binding, Minimalism) while preserving
+    the core innateness commitment.
+- type: key-claim
+  title: Key claim about Universal Grammar
+  body: 'Universal Grammar''s core empirical motivation is the poverty-of-the-stimulus
+    argument: the linguistic input children receive is, on standard analyses, insufficient
+    to determine the grammars they end up acquiring, so substantive innate constraints
+    on the hypothesis space are required to explain rapid and uniform acquisition
+    — though the strength of this argument depends on quantitative claims about input
+    richness that are themselves disputed.'
+- type: warning
+  title: Common pitfall regarding Universal Grammar
+  body: 'Universal Grammar is often presented as the consensus position in linguistics,
+    but the field is more divided than introductory presentations suggest: usage-based
+    and constructionist alternatives explicitly deny the need for substantive innate
+    grammatical constraints, attributing acquisition to general statistical learning
+    operating on richer-than-assumed input, and the dispute remains live with neither
+    side decisively winning.'

@@ -1,0 +1,42 @@
+concept: Self-Categorization Theory
+domain: social-psychology
+secondary_domains:
+- social-identity-research
+- intergroup-relations
+aliases:
+- SCT
+- Turner self-categorization
+broader:
+- social-identity-theory
+related:
+- social-identity-theory
+- in-group-out-group-bias
+- prejudice
+- group-polarization
+- conformity
+- social-influence
+prerequisites:
+- social-identity-theory
+confidence: high
+callouts:
+- type: definition
+  title: Self-Categorization Theory
+  body: Self-Categorization Theory is John Turner's extension of Social Identity Theory
+    that specifies how a person comes to perceive themselves at different levels of
+    self-categorization — personal, social-group, or superordinate human — and shows
+    that the active level of self-categorization governs perception, comparison, and
+    conformity in any given context.
+- type: key-claim
+  title: Key claim about Self-Categorization Theory
+  body: 'Self-Categorization Theory establishes that group behavior is not the breakdown
+    of individual rationality but the predictable output of a self-system that has
+    shifted to a higher-order categorization: when "we" rather than "I" is salient,
+    in-group prototypes guide judgment and the same person''s decisions become coherent
+    at the group level rather than the individual level.'
+- type: warning
+  title: Common pitfall regarding Self-Categorization Theory
+  body: Self-Categorization Theory is sometimes read as licensing strong-form group-mind
+    claims, but Turner's formulation is explicit that the group level is one of several
+    active self-categorizations, not a replacement of the individual; treating Self-Categorization
+    Theory as eliminative of individual agency misreads its core claim about contextual
+    salience.

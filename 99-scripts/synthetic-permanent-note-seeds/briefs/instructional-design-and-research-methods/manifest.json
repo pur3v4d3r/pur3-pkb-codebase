@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "instructional-design-and-research-methods",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-08-instructional-design-and-research-methods.md",
+    "notes": "Batch 8 — closes ghost links across instructional-design models\n(motivational-design, SAM) and the research-methods cluster\n(validity, preregistration, statistical-significance) that the\neducational-research notes already reference."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/instructional-design-and-research-methods",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-instructional-design-and-research-methods"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Motivational Design",
+      "kebab": "motivational-design",
+      "brief_path": "briefs/instructional-design-and-research-methods/motivational-design.yaml",
+      "expected_seed_filename": "motivational-design-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Design-Based Research",
+      "kebab": "design-based-research",
+      "brief_path": "briefs/instructional-design-and-research-methods/design-based-research.yaml",
+      "expected_seed_filename": "design-based-research-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Preregistration",
+      "kebab": "preregistration",
+      "brief_path": "briefs/instructional-design-and-research-methods/preregistration.yaml",
+      "expected_seed_filename": "preregistration-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Validity",
+      "kebab": "validity",
+      "brief_path": "briefs/instructional-design-and-research-methods/validity.yaml",
+      "expected_seed_filename": "validity-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Validity and Reliability",
+      "kebab": "validity-and-reliability",
+      "brief_path": "briefs/instructional-design-and-research-methods/validity-and-reliability.yaml",
+      "expected_seed_filename": "validity-and-reliability-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Statistical Significance",
+      "kebab": "statistical-significance",
+      "brief_path": "briefs/instructional-design-and-research-methods/statistical-significance.yaml",
+      "expected_seed_filename": "statistical-significance-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Taxonomy Design",
+      "kebab": "taxonomy-design",
+      "brief_path": "briefs/instructional-design-and-research-methods/taxonomy-design.yaml",
+      "expected_seed_filename": "taxonomy-design-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Theoretical Frameworks",
+      "kebab": "theoretical-frameworks",
+      "brief_path": "briefs/instructional-design-and-research-methods/theoretical-frameworks.yaml",
+      "expected_seed_filename": "theoretical-frameworks-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "SAM Model",
+      "kebab": "sam-model",
+      "brief_path": "briefs/instructional-design-and-research-methods/sam-model.yaml",
+      "expected_seed_filename": "sam-model-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Self-Awareness",
+      "kebab": "self-awareness",
+      "brief_path": "briefs/instructional-design-and-research-methods/self-awareness.yaml",
+      "expected_seed_filename": "self-awareness-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

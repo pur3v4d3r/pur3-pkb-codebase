@@ -1,0 +1,44 @@
+concept: Schema Induction
+domain: learning-science
+secondary_domains:
+- cognitive-psychology
+- learning-science
+aliases:
+- analogical schema induction
+broader:
+- schema-construction
+related:
+- schema-formation
+- schema-construction
+- analogical-reasoning
+- structure-mapping-theory
+- worked-example-variability
+- prototype-theory-of-concepts
+- generalization
+prerequisites:
+- analogical-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Schema Induction
+  body: Schema Induction is the cognitive process by which a learner extracts a generalizable
+    structural pattern from multiple specific instances — typically through analogical
+    comparison across two or more cases — yielding an abstract schema that supports
+    recognition and solution of new instances of the same category, formalized in
+    Gick and Holyoak's classic work on analogical problem solving.
+- type: key-claim
+  title: Key claim about Schema Induction
+  body: Schema Induction is reliably triggered by the explicit comparison of two or
+    more analogous cases at training time but only weakly by sequential study of the
+    same cases without comparison, which establishes that the comparison operation
+    rather than the cumulative exposure is the active ingredient — a finding with
+    direct implications for the design of worked-example sequences and case-based
+    instruction.
+- type: warning
+  title: Common pitfall regarding Schema Induction
+  body: Schema Induction is sometimes conflated with the resulting schema itself,
+    but the operative distinction is between the inductive process (which can fail
+    or succeed) and its product (the schema that may or may not be well-calibrated);
+    a learner can possess a schema acquired by direct instruction without having undergone
+    induction, and the two routes have different transfer properties despite the surface
+    similarity of the end state.

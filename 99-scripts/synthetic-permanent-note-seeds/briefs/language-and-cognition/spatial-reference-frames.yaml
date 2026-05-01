@@ -1,0 +1,48 @@
+concept: Spatial Reference Frames
+domain: cognitive-science
+secondary_domains:
+- spatial-cognition
+- neuroscience
+aliases:
+- reference frames
+- frames of spatial reference
+broader:
+- spatial-cognition
+narrower:
+- egocentric-reference-frame
+- allocentric-reference-frame
+- intrinsic-reference-frame
+related:
+- spatial-cognition
+- cognitive-map
+- place-cells
+- grid-cells
+- navigation-strategies
+- embodied-cognition
+prerequisites:
+- spatial-cognition
+confidence: high
+callouts:
+- type: definition
+  title: Spatial Reference Frames
+  body: Spatial Reference Frames are the coordinate systems with respect to which
+    spatial positions and relations are represented — egocentric (relative to the
+    observer's body), allocentric (relative to external landmarks or environment geometry),
+    and intrinsic (relative to the inherent features of the reference object) — distinctions
+    that have proved load-bearing in cognitive neuroscience, navigation research,
+    linguistics, and spatial-language acquisition.
+- type: key-claim
+  title: Key claim about Spatial Reference Frames
+  body: Spatial Reference Frames are dissociable in the brain — egocentric representations
+    are dominantly parietal while allocentric representations involve hippocampal
+    and entorhinal circuitry — and the same spatial task can be solved using different
+    frames, with measurable consequences for transfer, error patterns, and individual
+    differences; treating spatial cognition as frame-neutral systematically misses
+    where the cognitive work is being done.
+- type: warning
+  title: Common pitfall regarding Spatial Reference Frames
+  body: Spatial Reference Frames are often discussed as if a single frame were used
+    at a time, but real spatial behavior typically involves rapid switching among
+    frames depending on task demand and the integration of information across frames;
+    analyses that assume a single frame or that neglect frame-switching costs underpredict
+    performance in tasks where frame coordination is the actual bottleneck.

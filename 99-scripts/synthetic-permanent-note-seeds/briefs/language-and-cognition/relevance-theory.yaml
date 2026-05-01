@@ -1,0 +1,45 @@
+concept: Relevance Theory
+domain: cognitive-science
+secondary_domains:
+- pragmatics
+- cognitive-science
+aliases:
+- Sperber-Wilson Relevance Theory
+broader:
+- pragmatics
+related:
+- pragmatics
+- grice-maxims
+- speech-act-theory
+- scalar-implicature
+- pragmatic-inference
+- cognitive-economy
+- ostensive-communication
+prerequisites:
+- pragmatics
+confidence: high
+callouts:
+- type: definition
+  title: Relevance Theory
+  body: Relevance Theory is the cognitive-pragmatic framework developed by Dan Sperber
+    and Deirdre Wilson that explains utterance interpretation as the search for an
+    interpretation maximizing cognitive effects relative to processing effort, replacing
+    Grice's multiple conversational maxims with a single Cognitive Principle of Relevance
+    (cognition tends to maximize relevance) and a Communicative Principle of Relevance
+    (every ostensive communication carries a presumption of optimal relevance).
+- type: key-claim
+  title: Key claim about Relevance Theory
+  body: Relevance Theory's distinctive theoretical move is the unification of Gricean
+    conversational reasoning under a single cost-benefit principle defined over cognitive
+    effects and processing effort, which lets the framework derive context-sensitive
+    interpretations as the inferentially cheapest route to adequate cognitive payoff
+    rather than as the result of multiple potentially conflicting maxims that have
+    to be ranked or violated.
+- type: warning
+  title: Common pitfall regarding Relevance Theory
+  body: Relevance Theory is often applied with intuitive appeals to "what is most
+    relevant in context" without the disciplined cognitive-effects-versus-processing-effort
+    accounting the framework specifies; informal applications inherit the framework's
+    terminology without its constraints and degenerate into post-hoc rationalization
+    of whichever interpretation the analyst already preferred — a pattern the framework's
+    architects have repeatedly cautioned against.

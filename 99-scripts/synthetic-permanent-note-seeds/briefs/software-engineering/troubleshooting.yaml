@@ -1,0 +1,44 @@
+concept: Troubleshooting
+domain: software-engineering
+secondary_domains:
+- debugging
+- problem-solving
+aliases:
+- diagnostic problem-solving
+broader:
+- problem-solving
+related:
+- debugging
+- root-cause-analysis
+- exception
+- traceback
+- error-handling
+- hypothesis-driven-debugging
+- scientific-method
+prerequisites:
+- problem-solving
+confidence: high
+callouts:
+- type: definition
+  title: Troubleshooting
+  body: Troubleshooting is the disciplined diagnostic activity of identifying and
+    resolving the cause of a malfunction in a complex system, distinguished from generic
+    problem-solving by its emphasis on hypothesis generation about the failure mechanism,
+    controlled probing to discriminate among hypotheses, and progressive narrowing
+    of the suspect region using the system's structure to guide the search.
+- type: key-claim
+  title: Key claim about Troubleshooting
+  body: 'Troubleshooting expertise is largely organized around mental models of how
+    the target system fails rather than how it succeeds: experienced troubleshooters
+    generate hypotheses by pattern-matching observed symptoms to remembered failure
+    modes, then use targeted probes to discriminate among hypotheses, while novices
+    typically attempt local fixes without forming the failure-mode hypotheses that
+    would direct probing efficiently.'
+- type: warning
+  title: Common pitfall regarding Troubleshooting
+  body: Troubleshooting frequently terminates at the first change that makes the symptom
+    go away rather than at the change that addresses the cause, with the practical
+    consequence that the same defect recurs in a different form or that the "fix"
+    introduces a latent secondary problem; the discipline of distinguishing symptom
+    suppression from cause resolution is the single most valuable Troubleshooting
+    habit and the most commonly skipped one under time pressure.

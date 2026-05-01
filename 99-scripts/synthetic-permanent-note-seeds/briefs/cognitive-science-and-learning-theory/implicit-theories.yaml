@@ -1,0 +1,47 @@
+concept: Implicit Theories
+domain: learning-science
+secondary_domains:
+- motivational-psychology
+- social-cognition
+aliases:
+- lay theories
+- mindsets
+broader:
+- mental-model
+narrower:
+- implicit-theories-of-intelligence
+- fixed-mindset
+- growth-mindset
+related:
+- implicit-theories-of-intelligence
+- growth-mindset
+- fixed-mindset
+- attribution-theory
+- attributional-vocabulary
+- conception-of-ability
+prerequisites:
+- implicit-theories-of-intelligence
+confidence: high
+callouts:
+- type: definition
+  title: Implicit Theories
+  body: Implicit Theories are a person's tacit, often unarticulated beliefs about
+    the underlying nature of an attribute, capacity, or domain — whether it is fixed
+    and trait-like or malleable and developable — beliefs that operate without explicit
+    endorsement but that systematically organize attention, attribution, effort, and
+    self-regulation in attribute-relevant situations.
+- type: key-claim
+  title: Key claim about Implicit Theories
+  body: 'Implicit Theories function as motivational filters: the same situation triggers
+    different appraisals, attributions, and coping responses depending on whether
+    the relevant attribute is held to be fixed or malleable, and the downstream effect
+    on behavior is mediated almost entirely through the appraisal-and-attribution
+    pathway rather than through the implicit theory itself.'
+- type: warning
+  title: Common pitfall regarding Implicit Theories
+  body: Implicit Theories research, particularly the fixed-versus-growth-mindset literature,
+    has been the site of well-documented replication concerns and effect-size shrinkage;
+    the cleanest current reading is that Implicit Theories do moderate motivational
+    outcomes but with effect sizes substantially smaller than the popular literature
+    claimed, and that mindset interventions work primarily for narrowly bounded high-risk
+    populations rather than universally.

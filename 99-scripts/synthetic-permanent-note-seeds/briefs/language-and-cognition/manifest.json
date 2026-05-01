@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "language-and-cognition",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-10-language-and-cognition.md",
+    "notes": "Batch 10 — closes the language-and-cognition ghost-link cluster:\nlinguistics genus terms, pragmatic theories (relevance-theory,\nspeech-act-theory), embodied/situated-cognition primitives, and\nthe spatial-cognition / situation-awareness anchors referenced\nacross the cognitive-science notes."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/language-and-cognition",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-language-and-cognition"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Linguistics",
+      "kebab": "linguistics",
+      "brief_path": "briefs/language-and-cognition/linguistics.yaml",
+      "expected_seed_filename": "linguistics-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Linguistic Relativity",
+      "kebab": "linguistic-relativity",
+      "brief_path": "briefs/language-and-cognition/linguistic-relativity.yaml",
+      "expected_seed_filename": "linguistic-relativity-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Universal Grammar",
+      "kebab": "universal-grammar",
+      "brief_path": "briefs/language-and-cognition/universal-grammar.yaml",
+      "expected_seed_filename": "universal-grammar-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Relevance Theory",
+      "kebab": "relevance-theory",
+      "brief_path": "briefs/language-and-cognition/relevance-theory.yaml",
+      "expected_seed_filename": "relevance-theory-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Scalar Implicature",
+      "kebab": "scalar-implicature",
+      "brief_path": "briefs/language-and-cognition/scalar-implicature.yaml",
+      "expected_seed_filename": "scalar-implicature-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Speech Act Theory",
+      "kebab": "speech-act-theory",
+      "brief_path": "briefs/language-and-cognition/speech-act-theory.yaml",
+      "expected_seed_filename": "speech-act-theory-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Sensorimotor Stage",
+      "kebab": "sensorimotor-stage",
+      "brief_path": "briefs/language-and-cognition/sensorimotor-stage.yaml",
+      "expected_seed_filename": "sensorimotor-stage-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Sensorimotor Grounding",
+      "kebab": "sensorimotor-grounding",
+      "brief_path": "briefs/language-and-cognition/sensorimotor-grounding.yaml",
+      "expected_seed_filename": "sensorimotor-grounding-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Spatial Reference Frames",
+      "kebab": "spatial-reference-frames",
+      "brief_path": "briefs/language-and-cognition/spatial-reference-frames.yaml",
+      "expected_seed_filename": "spatial-reference-frames-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Situation Awareness",
+      "kebab": "situation-awareness",
+      "brief_path": "briefs/language-and-cognition/situation-awareness.yaml",
+      "expected_seed_filename": "situation-awareness-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

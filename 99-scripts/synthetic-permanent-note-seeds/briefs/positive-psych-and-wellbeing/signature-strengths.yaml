@@ -1,0 +1,41 @@
+concept: Signature Strengths
+domain: positive-psychology
+secondary_domains:
+- positive-psychology
+- virtue-ethics
+aliases:
+- top character strengths
+- signature virtues
+broader:
+- character-strengths
+related:
+- virtues
+- perma-model
+- eudaimonia
+- intrinsic-motivation
+- psychological-flourishing
+prerequisites:
+- self-awareness
+confidence: high
+callouts:
+- type: definition
+  title: Signature Strengths
+  body: Signature Strengths are the small subset of an individual's most central,
+    energizing, and self-defining character strengths within the Values-In-Action
+    classification — typically the top three to seven of the twenty-four strengths
+    — whose deployment in everyday roles is hypothesized to produce greater authenticity,
+    engagement, and life satisfaction than the cultivation of weaker strengths.
+- type: key-claim
+  title: Key claim about Signature Strengths
+  body: Signature Strengths function as a leverage point for well-being interventions
+    because acting from one's top strengths in a new way for a sustained period reliably
+    increases life satisfaction and decreases depressive symptoms in randomized trials
+    — an effect attributed to the alignment of activity with intrinsic identity rather
+    than to the strengths themselves in isolation.
+- type: warning
+  title: Common pitfall regarding Signature Strengths
+  body: Signature Strengths are commonly misread as fixed traits to discover and then
+    express; the more defensible reading is that they are the strengths a person currently
+    identifies with most readily, and treating them as immutable can entrench identity
+    in ways that block the developmental growth the framework was originally meant
+    to enable.

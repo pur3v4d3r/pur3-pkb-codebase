@@ -1,0 +1,46 @@
+concept: Social Psychology
+domain: social-psychology
+secondary_domains:
+- psychology
+aliases:
+- social psychological science
+broader:
+- psychology
+narrower:
+- social-influence
+- social-identity-theory
+- self-categorization-theory
+- attribution-theory
+related:
+- cultural-psychology
+- cross-cultural-psychology
+- social-cognition
+- persuasion-theory
+- conformity
+- obedience-to-authority
+- in-group-out-group-bias
+prerequisites:
+- cognitive-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Social Psychology
+  body: Social Psychology is the scientific study of how the actual, imagined, or
+    implied presence of others shapes individual cognition, affect, and behavior —
+    the discipline that takes the dyad, the group, and the culturally situated actor
+    as its primary unit of analysis rather than the isolated organism studied by general
+    experimental psychology.
+- type: key-claim
+  title: Key claim about Social Psychology
+  body: Social Psychology has repeatedly demonstrated that situational forces — role,
+    audience, norm, framing — exert effects on behavior that are systematically larger
+    than naive observers (and the actors themselves) predict, an asymmetry codified
+    as the fundamental attribution error and reproduced across the discipline's classic
+    experimental paradigms.
+- type: warning
+  title: Common pitfall regarding Social Psychology
+  body: Social Psychology is in the middle of a long-running replication audit; several
+    canonical findings (ego depletion, social priming, power posing) have failed to
+    replicate at original effect sizes, so any citation of a single iconic study should
+    be checked against the current meta-analytic estimate before being used as a load-bearing
+    premise.

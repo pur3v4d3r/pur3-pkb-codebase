@@ -1,0 +1,43 @@
+concept: Underdetermination
+domain: philosophy
+secondary_domains:
+- philosophy-of-science
+- epistemology
+aliases:
+- underdetermination of theory by data
+- Quine-Duhem thesis
+broader:
+- philosophy-of-science
+related:
+- scientific-realism
+- theory-ladenness-of-observation
+- fallibilism
+- inference-to-the-best-explanation
+- philosophy-of-science
+prerequisites:
+- philosophy-of-science
+confidence: high
+callouts:
+- type: definition
+  title: Underdetermination
+  body: Underdetermination is the philosophical thesis, in its strong form associated
+    with Quine and Duhem, that for any finite body of empirical evidence there exist
+    multiple incompatible theories that fit the evidence equally well, with the consequence
+    that data alone never uniquely select a theory and additional non-empirical criteria
+    (simplicity, fertility, conservatism) are always doing some of the selection work.
+- type: key-claim
+  title: Key claim about Underdetermination
+  body: 'Underdetermination has weak and strong readings: the weak reading (any finite
+    data are formally compatible with infinitely many curve-fits) is uncontroversial;
+    the strong reading (all extant scientific theories have serious unconceived rivals
+    that fit the same evidence) is contested but is the version that bears on Scientific
+    Realism, and the dispute over which reading the historical record supports remains
+    live.'
+- type: warning
+  title: Common pitfall regarding Underdetermination
+  body: Underdetermination is often invoked as a one-line refutation of Scientific
+    Realism, but the strong reading requires demonstrating actual unconceived rivals
+    rather than merely asserting their possibility; the weak reading is compatible
+    with realism via inference-to-the-best-explanation, so blanket appeals to Underdetermination
+    without specifying which version is at stake produce equivocation rather than
+    argument.

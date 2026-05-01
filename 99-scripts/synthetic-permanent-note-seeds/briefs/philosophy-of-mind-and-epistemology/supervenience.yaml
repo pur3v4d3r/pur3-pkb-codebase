@@ -1,0 +1,40 @@
+concept: Supervenience
+domain: philosophy
+secondary_domains:
+- metaphysics
+- philosophy-of-mind
+aliases:
+- supervenience relation
+broader:
+- philosophy-of-mind
+related:
+- physicalism
+- mental-causation
+- emergence
+- functionalism
+- mind-body-problem
+prerequisites:
+- physicalism
+confidence: high
+callouts:
+- type: definition
+  title: Supervenience
+  body: Supervenience is the asymmetric dependence relation in which a higher-level
+    set of properties (the supervening properties) is fixed by a lower-level set (the
+    subvening or base properties) such that there can be no difference in the higher-level
+    properties without a corresponding difference in the lower-level base — formalized
+    in weak, strong, and global variants that differ in how the covariation is quantified.
+- type: key-claim
+  title: Key claim about Supervenience
+  body: 'Supervenience emerged as the philosopher''s tool of choice for stating non-reductive
+    forms of physicalism: it captures the intuition that the mental depends on the
+    physical without committing to property identity, but Jaegwon Kim''s exclusion-argument
+    literature has shown that supervenience by itself does not secure mental causation
+    against the threat of physical pre-emption.'
+- type: warning
+  title: Common pitfall regarding Supervenience
+  body: 'Supervenience is often loosely equated with explanation or reduction, but
+    the relation is purely covariational: A supervenes on B says nothing about why
+    A covaries with B, whether A is reducible to B, or whether A causally influences
+    anything; treating supervenience as an explanatory relation imports content the
+    technical definition does not supply.'

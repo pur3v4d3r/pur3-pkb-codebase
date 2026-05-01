@@ -1,0 +1,48 @@
+concept: Cognitive Development
+domain: learning-science
+secondary_domains:
+- developmental-psychology
+- education
+aliases:
+- development of cognition
+broader:
+- developmental-psychology
+narrower:
+- sensorimotor-stage
+- formal-operational-stage
+- object-permanence
+- theory-of-mind
+related:
+- developmental-psychology
+- genetic-epistemology
+- zone-of-proximal-development
+- theory-of-mind
+- executive-function
+- working-memory
+prerequisites:
+- developmental-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Cognitive Development
+  body: Cognitive Development is the lifespan study of how thinking, reasoning, problem-solving,
+    attention, memory, language, and social cognition emerge, transform, and reorganize
+    from infancy through adulthood — encompassing Piaget's stage theory, Vygotsky's
+    social-developmental account, information-processing approaches, and the contemporary
+    neuroconstructivist synthesis that integrates brain maturation with experience-driven
+    specialization.
+- type: key-claim
+  title: Key claim about Cognitive Development
+  body: 'Cognitive Development since Piaget has progressively moved from strict universal-stage
+    models toward domain-specific and gradualist accounts: children show competence
+    earlier than Piaget''s tasks suggested when the tasks are simplified, but the
+    timing and content of acquisitions remain regular enough that "free variation
+    across all ages" is decisively ruled out — leaving a moderately structured developmental
+    trajectory as the empirically-supported middle position.'
+- type: warning
+  title: Common pitfall regarding Cognitive Development
+  body: Cognitive Development findings are routinely mapped to age-graded educational
+    prescriptions, but the within-age variability across children typically exceeds
+    the between-age mean differences for most cognitive milestones; treating an average
+    age-of-onset as a normative readiness threshold for an individual child systematically
+    misallocates instruction.

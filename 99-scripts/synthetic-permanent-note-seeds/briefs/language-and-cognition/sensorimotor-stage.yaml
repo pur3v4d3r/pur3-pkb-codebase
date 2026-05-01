@@ -1,0 +1,48 @@
+concept: Sensorimotor Stage
+domain: cognitive-science
+secondary_domains:
+- developmental-psychology
+- cognitive-development
+aliases:
+- Piaget's sensorimotor stage
+broader:
+- cognitive-development
+narrower:
+- object-permanence
+- deferred-imitation
+- secondary-circular-reactions
+- mental-representation-onset
+related:
+- cognitive-development
+- object-permanence
+- piagetian-stages
+- formal-operational-stage
+- theory-of-mind
+- sensorimotor-grounding
+prerequisites:
+- cognitive-development
+confidence: high
+callouts:
+- type: definition
+  title: Sensorimotor Stage
+  body: The Sensorimotor Stage is the first of Piaget's four stages of cognitive development,
+    spanning roughly birth to 24 months, in which infants construct knowledge through
+    the coordination of sensory experience and motor action, progressing through six
+    substages from reflexive activity to the emergence of mental representation and
+    the consolidation of object permanence.
+- type: key-claim
+  title: Key claim about Sensorimotor Stage
+  body: 'The Sensorimotor Stage''s developmental trajectory has held up better than
+    its precise age boundaries: object permanence, means-end coordination, and deferred
+    imitation do emerge in the developmental order Piaget described, but contemporary
+    infant research using non-reaching-based measures (looking time, violation-of-expectation)
+    shows competence emerging substantially earlier than Piaget''s reaching tasks
+    indicated, modifying the timetable while preserving the trajectory.'
+- type: warning
+  title: Common pitfall regarding Sensorimotor Stage
+  body: The Sensorimotor Stage is often presented as a discrete stage with sharp onset
+    and offset, but Piaget himself described it as a continuous transition through
+    six substages, and the empirical literature supports gradual rather than stage-like
+    emergence; treating Sensorimotor as a hard boundary mis-instructs about what early-childhood
+    educators should expect from individual children whose development distributes
+    around the population mean by months.

@@ -1,0 +1,43 @@
+concept: Transformational Creativity
+domain: learning-science
+secondary_domains:
+- creativity-research
+- cognitive-science
+aliases:
+- transformational-creativity in Boden's typology
+broader:
+- creative-problem-solving
+related:
+- combinatorial-creativity
+- divergent-thinking
+- conceptual-blending
+- conceptual-change
+- insight-problem-solving
+- constraint-relaxation
+prerequisites:
+- creative-problem-solving
+confidence: high
+callouts:
+- type: definition
+  title: Transformational Creativity
+  body: Transformational Creativity is the most radical of Margaret Boden's three
+    creativity types — combinatorial, exploratory, and transformational — in which
+    the conceptual space within which a problem or domain is defined is itself altered,
+    allowing solutions or works that could not have been generated under the prior
+    space's constraints, contrasted with mere recombination or with thorough exploration
+    of an unchanged space.
+- type: key-claim
+  title: Key claim about Transformational Creativity
+  body: Transformational Creativity is rare and structurally distinct from combinatorial
+    creativity because it requires not only generating new candidates but also relaxing
+    or replacing the constraints that defined what counted as a candidate — a meta-level
+    operation on the conceptual system, which is why transformational episodes typically
+    reorganize the field they emerge into rather than merely contributing additional
+    items to it.
+- type: warning
+  title: Common pitfall regarding Transformational Creativity
+  body: 'Transformational Creativity is often invoked as an honorific for any sufficiently
+    impressive creative work, but Boden''s diagnostic criterion is structural: the
+    work must be impossible under the prior conceptual constraints in a sense that
+    can be specified; without that demonstration, "transformational" reduces to "very
+    good," and Boden''s tripartite distinction collapses into a single laudatory label.'

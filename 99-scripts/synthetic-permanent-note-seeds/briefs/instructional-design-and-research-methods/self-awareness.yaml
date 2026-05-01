@@ -1,0 +1,49 @@
+concept: Self-Awareness
+domain: research-methods
+secondary_domains:
+- metacognition
+- social-emotional-learning
+aliases:
+- self-knowledge
+- introspective awareness
+broader:
+- metacognition
+narrower:
+- interoceptive-awareness
+- reflective-self-awareness
+- emotional-self-awareness
+related:
+- metacognition
+- reflective-thinking
+- theory-of-mind
+- mindful-attention
+- intellectual-humility
+- self-regulation
+- emotional-regulation
+prerequisites:
+- metacognition
+confidence: high
+callouts:
+- type: definition
+  title: Self-Awareness
+  body: Self-Awareness is the capacity to take oneself as an object of attention and
+    evaluation — recognizing one's mental states, traits, behaviors, and their effects
+    on others — operationalized in the literature as several distinguishable competencies
+    including interoceptive awareness, reflective self-awareness, emotional self-awareness,
+    and meta-accuracy about how one is perceived.
+- type: key-claim
+  title: Key claim about Self-Awareness
+  body: 'Self-Awareness is empirically dissociable from accurate self-knowledge in
+    a way that surprises naive intuitions: people who report high subjective Self-Awareness
+    frequently show low convergent validity between their self-reports and external
+    indicators of the traits they purport to be aware of, with the gap traceable to
+    the introspective system''s limited access to the processes generating its outputs
+    rather than to insufficient effort.'
+- type: warning
+  title: Common pitfall regarding Self-Awareness
+  body: Self-Awareness is widely promoted as a developmental and leadership virtue,
+    but the empirical literature consistently distinguishes internal Self-Awareness
+    (clarity about one's own values and reactions) from external Self-Awareness (accuracy
+    about how one is perceived), and the two correlate poorly; programs that develop
+    one without the other produce predictable failure modes in the dimension they
+    neglect.

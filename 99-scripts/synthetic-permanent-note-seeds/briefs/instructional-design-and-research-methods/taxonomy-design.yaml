@@ -1,0 +1,42 @@
+concept: Taxonomy Design
+domain: research-methods
+secondary_domains:
+- knowledge-organization
+- ontology
+aliases:
+- taxonomic design
+broader:
+- knowledge-organization-system
+related:
+- folksonomy-vs-taxonomy
+- ontology-design
+- controlled-vocabulary
+- blooms-taxonomy
+- classification-scheme
+- faceted-classification
+prerequisites:
+- knowledge-organization-system
+confidence: medium
+callouts:
+- type: definition
+  title: Taxonomy Design
+  body: Taxonomy Design is the disciplined construction of a hierarchical classification
+    scheme for a domain — selecting facets, choosing the level of granularity, defining
+    mutually exclusive and collectively exhaustive categories, and managing the trade-offs
+    between depth, breadth, and stability — used in library science, biological systematics,
+    knowledge management, and information architecture.
+- type: key-claim
+  title: Key claim about Taxonomy Design
+  body: 'Taxonomy Design is a load-bearing knowledge-engineering activity rather than
+    a clerical one: the chosen taxonomy structurally constrains what queries the system
+    can answer cheaply, what cross-cutting relationships become visible, and what
+    re-categorization burden future content imposes — which is why early Taxonomy
+    Design decisions tend to compound over the lifetime of the system and are difficult
+    to reverse without significant re-classification cost.'
+- type: warning
+  title: Common pitfall regarding Taxonomy Design
+  body: Taxonomy Design is often treated as a one-shot setup task, but well-functioning
+    taxonomies in active domains require governance routines (proposal, review, deprecation)
+    and typically include planned obsolescence of categories that no longer carve
+    their part of the domain at the joints; static taxonomies in non-static domains
+    accumulate misclassification debt that eventually exceeds the cost of redesign.

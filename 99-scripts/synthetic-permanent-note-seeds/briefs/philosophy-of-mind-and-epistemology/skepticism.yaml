@@ -1,0 +1,42 @@
+concept: Skepticism
+domain: philosophy
+secondary_domains:
+- philosophy
+- epistemology
+aliases:
+- philosophical skepticism
+broader:
+- epistemology
+related:
+- theory-of-knowledge
+- fallibilism
+- justified-true-belief
+- gettier-problem
+- epistemic-vigilance
+- principle-of-charity
+prerequisites:
+- theory-of-knowledge
+confidence: high
+callouts:
+- type: definition
+  title: Skepticism
+  body: Skepticism is the philosophical position, in its global form, that knowledge
+    of some target domain (the external world, other minds, the past, induction) is
+    impossible or unjustified, and in its local form that some specific class of knowledge
+    claims fails to meet the standards required for genuine knowledge — distinguished
+    from ordinary doubt by its principled rather than merely circumstantial character.
+- type: key-claim
+  title: Key claim about Skepticism
+  body: 'Skepticism functions in modern epistemology less as a position to be embraced
+    than as a constraint that any positive theory of knowledge must address: the closure
+    principle plus standard skeptical scenarios (the brain in a vat, the evil demon)
+    generate paradoxes that any account of knowledge has to explain away or accept
+    the consequences of, and how a theory handles Skepticism is one of its principal
+    load-bearing tests.'
+- type: warning
+  title: Common pitfall regarding Skepticism
+  body: 'Skepticism is frequently confused with fallibilism — the view that knowledge
+    is possible despite the impossibility of certainty — but the two positions are
+    incompatible: fallibilism affirms what Skepticism denies; treating fallibilism
+    as a mild form of Skepticism elides the substantive disagreement and obscures
+    why most contemporary epistemologists are fallibilists rather than skeptics.'

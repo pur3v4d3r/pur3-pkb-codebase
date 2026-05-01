@@ -1,0 +1,48 @@
+concept: GTD Method
+domain: knowledge-management
+secondary_domains:
+- productivity
+- task-management
+aliases:
+- Getting Things Done
+- GTD
+broader:
+- personal-productivity-system
+narrower:
+- next-action
+- projects-list
+- weekly-review
+- contexts
+related:
+- deep-work
+- building-a-second-brain
+- knowledge-management
+- second-brain
+- weekly-review
+- tickler-file
+prerequisites:
+- personal-productivity-system
+confidence: high
+callouts:
+- type: definition
+  title: GTD Method
+  body: The GTD Method is David Allen's personal-productivity methodology built on
+    five sequential workflow steps — capture, clarify, organize, reflect, engage —
+    supported by external lists (next actions, projects, waiting-for, someday/maybe)
+    and a regular weekly-review practice, designed to externalize all open commitments
+    so the practitioner's working memory is freed from the cognitive load of holding
+    them.
+- type: key-claim
+  title: Key claim about GTD Method
+  body: 'The GTD Method''s empirically supported core mechanism is the offload of
+    incomplete intentions from working memory to a trusted external system: laboratory
+    studies of the Zeigarnik effect show that uncompleted intentions exert a measurable
+    cognitive cost when not externalized, and the GTD architecture is essentially
+    a sustained discipline for cancelling that cost across an entire commitment portfolio.'
+- type: warning
+  title: Common pitfall regarding GTD Method
+  body: The GTD Method is often blamed for failing when the actual failure is the
+    absence of the weekly-review discipline that the method specifies as load-bearing;
+    without weekly review the lists drift out of trust, the offload contract breaks,
+    and the cognitive cost of incomplete intentions returns despite the visible apparatus
+    of the system remaining in place.

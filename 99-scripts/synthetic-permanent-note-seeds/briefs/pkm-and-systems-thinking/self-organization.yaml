@@ -1,0 +1,45 @@
+concept: Self-Organization
+domain: knowledge-management
+secondary_domains:
+- systems-thinking
+- complexity-science
+aliases:
+- autopoiesis
+- spontaneous order
+broader:
+- emergence
+related:
+- emergence
+- systems-thinking
+- feedback-loops
+- dynamic-equilibrium
+- leverage-points
+- complex-adaptive-system
+- system-dynamics
+prerequisites:
+- emergence
+confidence: high
+callouts:
+- type: definition
+  title: Self-Organization
+  body: Self-Organization is the spontaneous emergence of pattern, structure, or coordinated
+    behavior in a system from local interactions among its components without imposition
+    by an external controller — observed across physical (Bernard cells), biological
+    (flocking, morphogenesis), neural (cortical maps), and social systems (markets,
+    conventions), and a central explanandum of complexity science.
+- type: key-claim
+  title: Key claim about Self-Organization
+  body: Self-Organization characteristically produces structure that is qualitatively
+    different from the local rules that generate it (the macroscopic flock pattern
+    is not present in any individual bird's local rule), which is why the structure
+    cannot be predicted by aggregation of component descriptions and requires either
+    simulation or analytic results about the relevant dynamical regime — the constitutive
+    explanatory challenge of complex-systems modeling.
+- type: warning
+  title: Common pitfall regarding Self-Organization
+  body: 'Self-Organization is frequently invoked in social and organizational contexts
+    to argue against centralized design, but the inference is fragile: that a system
+    can self-organize does not entail that its self-organized state will be desirable,
+    and many empirical cases of social Self-Organization produce stable dysfunctions
+    (collective-action failures, coordination on bad equilibria) that are recognizably
+    emergent and recognizably bad.'

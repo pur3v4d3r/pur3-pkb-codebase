@@ -1,0 +1,45 @@
+concept: Validity and Reliability
+domain: research-methods
+secondary_domains:
+- psychometrics
+- measurement
+aliases:
+- validity & reliability
+- V&R
+broader:
+- measurement-theory
+related:
+- validity
+- reliability-coefficient
+- construct-validity
+- internal-validity
+- classical-test-theory
+- item-response-theory
+- measurement-invariance
+prerequisites:
+- validity
+confidence: high
+callouts:
+- type: definition
+  title: Validity and Reliability
+  body: 'Validity and Reliability are the paired psychometric criteria for evaluating
+    measurement: Reliability is the consistency or repeatability of a measurement
+    across occasions, raters, or items, and Validity is the degree to which the measurement
+    supports the substantive inferences it is used to make — with Reliability being
+    a necessary but not sufficient condition for Validity.'
+- type: key-claim
+  title: Key claim about Validity and Reliability
+  body: 'Validity and Reliability stand in an asymmetric relation that is often muddled
+    in applied measurement: a measure can be highly Reliable without being Valid (a
+    precise measure of the wrong construct) but cannot be Valid without being at least
+    adequately Reliable (random measurement error attenuates substantive inferences);
+    investments in Reliability are therefore prerequisite to investments in Validity
+    but not substitutes for them.'
+- type: warning
+  title: Common pitfall regarding Validity and Reliability
+  body: Validity and Reliability are frequently conflated in research reports, with
+    high coefficient-alpha or test-retest correlations cited as evidence of "validity";
+    the citation is technically incorrect and conceptually misleading, since high
+    consistency provides no information about what construct is being consistently
+    measured, and reviewers should treat such citations as evidence that the Validity
+    question has not been seriously addressed.

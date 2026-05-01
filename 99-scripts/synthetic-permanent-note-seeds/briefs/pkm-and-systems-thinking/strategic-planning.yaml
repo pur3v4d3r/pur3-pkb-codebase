@@ -1,0 +1,50 @@
+concept: Strategic Planning
+domain: knowledge-management
+secondary_domains:
+- management
+- decision-science
+aliases:
+- strategy formulation
+broader:
+- decision-making
+narrower:
+- scenario-planning
+- swot-analysis
+- balanced-scorecard
+- okrs
+related:
+- swot-analysis
+- scenario-planning
+- ooda-loop
+- business-model-canvas
+- decision-analysis
+- leverage-points
+- systems-thinking
+prerequisites:
+- decision-making
+confidence: high
+callouts:
+- type: definition
+  title: Strategic Planning
+  body: Strategic Planning is the organizational process of defining direction, setting
+    priorities, allocating resources, and aligning activities to achieve long-horizon
+    objectives in the presence of environmental uncertainty — encompassing both the
+    analytic phase (situation assessment, option generation) and the deliberative
+    phase (commitment, communication, governance) that converts analysis into organizational
+    action.
+- type: key-claim
+  title: Key claim about Strategic Planning
+  body: 'Strategic Planning''s effectiveness depends more on the cadence and integration
+    of strategy review with operational planning than on the sophistication of the
+    analytic frameworks employed: organizations that review and adjust strategy on
+    a regular cadence outperform those with more sophisticated single-pass plans,
+    because strategy quality is an emergent property of the feedback loop between
+    commitment and learning rather than of any one planning cycle.'
+- type: warning
+  title: Common pitfall regarding Strategic Planning
+  body: 'Strategic Planning is widely criticized for producing documents that sit
+    unread, but the failure mode is typically the absence of the deliberative phase
+    rather than the analysis phase: organizations produce strategic plans without
+    producing the governance routines that translate them into resource decisions,
+    and then attribute the resulting irrelevance to the planning effort rather than
+    to the missing translation layer.'

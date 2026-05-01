@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "positive-psych-and-wellbeing",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-01-positive-psych-and-wellbeing.md",
+    "notes": "Batch 1 of the May-2026 graph-densification run. Closes the highest-payoff\nghost-link cluster around positive psychology, eudaimonic well-being, and\nthe motivational construct of volition. All ten concepts are referenced\n3-15 times across the existing v6-elaborated permanent notes but lack\ntheir own anchor pages; this batch creates the canonical seeds."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/positive-psych-and-wellbeing",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-positive-psych-and-wellbeing"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Positive Psychology",
+      "kebab": "positive-psychology",
+      "brief_path": "briefs/positive-psych-and-wellbeing/positive-psychology.yaml",
+      "expected_seed_filename": "positive-psychology-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Optimism",
+      "kebab": "optimism",
+      "brief_path": "briefs/positive-psych-and-wellbeing/optimism.yaml",
+      "expected_seed_filename": "optimism-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Coping Strategies",
+      "kebab": "coping-strategies",
+      "brief_path": "briefs/positive-psych-and-wellbeing/coping-strategies.yaml",
+      "expected_seed_filename": "coping-strategies-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Meaning-Making",
+      "kebab": "meaning-making",
+      "brief_path": "briefs/positive-psych-and-wellbeing/meaning-making.yaml",
+      "expected_seed_filename": "meaning-making-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Hedonic Well-Being",
+      "kebab": "hedonic-well-being",
+      "brief_path": "briefs/positive-psych-and-wellbeing/hedonic-well-being.yaml",
+      "expected_seed_filename": "hedonic-well-being-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Signature Strengths",
+      "kebab": "signature-strengths",
+      "brief_path": "briefs/positive-psych-and-wellbeing/signature-strengths.yaml",
+      "expected_seed_filename": "signature-strengths-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Virtues",
+      "kebab": "virtues",
+      "brief_path": "briefs/positive-psych-and-wellbeing/virtues.yaml",
+      "expected_seed_filename": "virtues-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Ryff's Six-Factor Model of Psychological Well-Being",
+      "kebab": "ryffs-six-factor-model-of-psychological-well-being",
+      "brief_path": "briefs/positive-psych-and-wellbeing/ryffs-six-factor-model-of-psychological-well-being.yaml",
+      "expected_seed_filename": "ryffs-six-factor-model-of-psychological-well-being-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Wishful Thinking",
+      "kebab": "wishful-thinking",
+      "brief_path": "briefs/positive-psych-and-wellbeing/wishful-thinking.yaml",
+      "expected_seed_filename": "wishful-thinking-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Volition",
+      "kebab": "volition",
+      "brief_path": "briefs/positive-psych-and-wellbeing/volition.yaml",
+      "expected_seed_filename": "volition-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

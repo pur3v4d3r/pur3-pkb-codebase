@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "pkm-and-systems-thinking",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-07-pkm-and-systems.md",
+    "notes": "Batch 7 — closes the personal-knowledge-management and systems-thinking\nghost-link cluster: PKM methodology anchors (Zettelkasten, GTD, Deep\nWork, BASB) plus systems-dynamics primitives (system-dynamics,\nstock-and-flow-diagrams) referenced across the workflow notes."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/pkm-and-systems-thinking",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-pkm-and-systems-thinking"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Zettelkasten Method",
+      "kebab": "zettelkasten-method",
+      "brief_path": "briefs/pkm-and-systems-thinking/zettelkasten-method.yaml",
+      "expected_seed_filename": "zettelkasten-method-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "GTD Method",
+      "kebab": "gtd-method",
+      "brief_path": "briefs/pkm-and-systems-thinking/gtd-method.yaml",
+      "expected_seed_filename": "gtd-method-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Deep Work",
+      "kebab": "deep-work",
+      "brief_path": "briefs/pkm-and-systems-thinking/deep-work.yaml",
+      "expected_seed_filename": "deep-work-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Building a Second Brain",
+      "kebab": "building-a-second-brain",
+      "brief_path": "briefs/pkm-and-systems-thinking/building-a-second-brain.yaml",
+      "expected_seed_filename": "building-a-second-brain-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "System Dynamics",
+      "kebab": "system-dynamics",
+      "brief_path": "briefs/pkm-and-systems-thinking/system-dynamics.yaml",
+      "expected_seed_filename": "system-dynamics-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Stock and Flow Diagrams",
+      "kebab": "stock-and-flow-diagrams",
+      "brief_path": "briefs/pkm-and-systems-thinking/stock-and-flow-diagrams.yaml",
+      "expected_seed_filename": "stock-and-flow-diagrams-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "SWOT Analysis",
+      "kebab": "swot-analysis",
+      "brief_path": "briefs/pkm-and-systems-thinking/swot-analysis.yaml",
+      "expected_seed_filename": "swot-analysis-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Strategic Planning",
+      "kebab": "strategic-planning",
+      "brief_path": "briefs/pkm-and-systems-thinking/strategic-planning.yaml",
+      "expected_seed_filename": "strategic-planning-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Source Curation",
+      "kebab": "source-curation",
+      "brief_path": "briefs/pkm-and-systems-thinking/source-curation.yaml",
+      "expected_seed_filename": "source-curation-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Self-Organization",
+      "kebab": "self-organization",
+      "brief_path": "briefs/pkm-and-systems-thinking/self-organization.yaml",
+      "expected_seed_filename": "self-organization-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

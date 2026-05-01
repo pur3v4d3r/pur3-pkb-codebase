@@ -1,0 +1,40 @@
+concept: Trace Decay
+domain: neuroscience
+secondary_domains:
+- memory-research
+- cognitive-psychology
+aliases:
+- decay theory of forgetting
+broader:
+- forgetting-curve
+related:
+- forgetting-curve
+- interference-theory
+- working-memory
+- short-term-memory
+- retroactive-interference
+- proactive-interference
+prerequisites:
+- forgetting-curve
+confidence: medium
+callouts:
+- type: definition
+  title: Trace Decay
+  body: Trace Decay is the theoretical account of forgetting in which memory traces
+    weaken as a function of elapsed time per se, independent of intervening events
+    — the historical companion-and-rival of interference theory, foregrounded again
+    in contemporary working-memory models that posit time-based decay of activated
+    representations between maintenance opportunities.
+- type: key-claim
+  title: Key claim about Trace Decay
+  body: Trace Decay and interference are no longer treated as competing global theories
+    of forgetting but as mechanisms operating at different timescales and on different
+    representations, with time-based decay better supported as a working-memory phenomenon
+    and interference better supported as the dominant cause of long-term forgetting.
+- type: warning
+  title: Common pitfall regarding Trace Decay
+  body: Trace Decay is methodologically difficult to demonstrate in long-term memory
+    because any retention interval longer than seconds also includes intervening cognitive
+    activity, so claims that long-term forgetting is caused by Trace Decay rather
+    than interference require unusually careful designs and have generally not survived
+    modern replication.

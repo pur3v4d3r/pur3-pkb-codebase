@@ -1,0 +1,46 @@
+concept: Usability Engineering
+domain: software-engineering
+secondary_domains:
+- human-computer-interaction
+- software-engineering
+aliases:
+- UX engineering
+- usability design
+broader:
+- human-computer-interaction
+related:
+- user-centered-design
+- heuristic-evaluation
+- usability-testing
+- cognitive-load-theory
+- accessibility
+- interaction-design
+- design-thinking
+prerequisites:
+- human-computer-interaction
+confidence: high
+callouts:
+- type: definition
+  title: Usability Engineering
+  body: Usability Engineering is the systematic discipline that integrates user-centered
+    analysis, iterative design, and empirical evaluation into the software-development
+    lifecycle so that learnability, efficiency, memorability, error rate, and subjective
+    satisfaction become measurable engineering targets — codified in the Nielsen-Mack
+    tradition of heuristic evaluation, thinking-aloud protocols, and quantitative
+    usability testing.
+- type: key-claim
+  title: Key claim about Usability Engineering
+  body: 'Usability Engineering''s productivity case rests on the cost asymmetry between
+    fixing usability defects in design versus in deployed software: empirical studies
+    consistently find one-to-two-order-of-magnitude cost differences between defects
+    fixed at the prototype stage and the same defects fixed after release, which is
+    why the iterative-evaluation discipline pays for itself even on conservative estimates
+    of the defects it catches.'
+- type: warning
+  title: Common pitfall regarding Usability Engineering
+  body: Usability Engineering is often confused with visual design or with the product
+    manager's intuitions about what users want, but the discipline's empirical core
+    — controlled observation of users attempting representative tasks — is what generates
+    its predictive validity; substituting designer or stakeholder opinion for user
+    observation reproducibly fails to predict actual usability and is the most common
+    failure mode in nominally user-centered processes.

@@ -1,0 +1,46 @@
+concept: Physicalism
+domain: philosophy
+secondary_domains:
+- philosophy-of-mind
+- metaphysics
+aliases:
+- materialism
+- ontological physicalism
+broader:
+- philosophy-of-mind
+narrower:
+- eliminative-materialism
+- type-identity-theory
+- token-identity-theory
+related:
+- supervenience
+- functionalism
+- eliminative-materialism
+- mental-causation
+- mind-body-problem
+- qualia
+prerequisites:
+- mind-body-problem
+confidence: high
+callouts:
+- type: definition
+  title: Physicalism
+  body: Physicalism is the metaphysical thesis that everything that exists is either
+    physical or stands in an asymmetric dependence relation (typically supervenience
+    or grounding) on the physical, with the consequence that mental phenomena are
+    either identical to physical phenomena, realized by them, or eliminable in their
+    favor — the dominant default position in contemporary philosophy of mind.
+- type: key-claim
+  title: Key claim about Physicalism
+  body: Physicalism has shifted over the twentieth century from type-identity formulations
+    (each mental kind is identical to a specific physical kind) toward weaker dependence
+    formulations (mental properties supervene on or are realized by physical properties),
+    largely in response to the multiple-realizability argument that mental kinds are
+    realized differently in different physical systems.
+- type: warning
+  title: Common pitfall regarding Physicalism
+  body: Physicalism is often equated with the empirical successes of neuroscience,
+    but Physicalism is a metaphysical thesis whose truth or falsity is not settled
+    by neuroscience alone; the canonical objections (the conceivability argument,
+    the knowledge argument, the explanatory-gap argument) target the metaphysical
+    claim and remain live independent of how much we learn about brains.

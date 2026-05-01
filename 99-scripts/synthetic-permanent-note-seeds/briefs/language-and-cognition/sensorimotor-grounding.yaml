@@ -1,0 +1,46 @@
+concept: Sensorimotor Grounding
+domain: cognitive-science
+secondary_domains:
+- embodied-cognition
+- cognitive-science
+aliases:
+- grounded cognition
+- embodied grounding
+broader:
+- embodied-cognition
+related:
+- embodied-cognition
+- conceptual-metaphor-theory
+- simulation-theory-of-cognition
+- situated-cognition
+- sensorimotor-stage
+- perceptual-symbol-systems
+- mirror-neuron-system
+prerequisites:
+- embodied-cognition
+confidence: high
+callouts:
+- type: definition
+  title: Sensorimotor Grounding
+  body: Sensorimotor Grounding is the embodied-cognition thesis that conceptual content
+    is constituted, at least in part, by simulations or partial reactivations of the
+    sensorimotor systems involved in original experience with the concept's referents
+    — contrasted with amodal-symbolic accounts in which concepts are represented in
+    a format independent of the perceptual and motor modalities that supplied their
+    content.
+- type: key-claim
+  title: Key claim about Sensorimotor Grounding
+  body: Sensorimotor Grounding draws empirical support from converging evidence —
+    neuroimaging showing motor-cortex activation during action-word processing, behavioral
+    compatibility effects between sentence content and motor responses, lesion data
+    showing category-specific deficits aligning with sensorimotor systems — but the
+    strong thesis that all conceptual content is grounded remains contested by abstract-concept
+    evidence that does not fit the simulation account cleanly.
+- type: warning
+  title: Common pitfall regarding Sensorimotor Grounding
+  body: 'Sensorimotor Grounding is regularly invoked as if the embodiment evidence
+    had decisively refuted amodal-symbolic accounts, but the contemporary debate has
+    moved past that framing: most active researchers accept that some conceptual processing
+    is grounded and some is not, and the live questions are about which concepts,
+    under which conditions, and to what degree — making blanket claims for or against
+    the thesis several years out of date.'

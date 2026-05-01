@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "philosophy-of-mind-and-epistemology",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-04-philosophy-of-mind-and-epistemology.md",
+    "notes": "Batch 4 — closes the philosophy-of-mind and epistemology ghost-link cluster.\nAnchors the discipline (philosophy-of-mind itself, 11 refs) plus the\nmetaphysical and epistemic foundations referenced across the cognitive\nscience notes (physicalism, supervenience, scientific-realism, etc.)."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/philosophy-of-mind-and-epistemology",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-philosophy-of-mind-and-epistemology"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Philosophy of Mind",
+      "kebab": "philosophy-of-mind",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/philosophy-of-mind.yaml",
+      "expected_seed_filename": "philosophy-of-mind-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Physicalism",
+      "kebab": "physicalism",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/physicalism.yaml",
+      "expected_seed_filename": "physicalism-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Scientific Realism",
+      "kebab": "scientific-realism",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/scientific-realism.yaml",
+      "expected_seed_filename": "scientific-realism-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Supervenience",
+      "kebab": "supervenience",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/supervenience.yaml",
+      "expected_seed_filename": "supervenience-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Verificationism",
+      "kebab": "verificationism",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/verificationism.yaml",
+      "expected_seed_filename": "verificationism-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Underdetermination",
+      "kebab": "underdetermination",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/underdetermination.yaml",
+      "expected_seed_filename": "underdetermination-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Theory-Ladenness of Observation",
+      "kebab": "theory-ladenness-of-observation",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/theory-ladenness-of-observation.yaml",
+      "expected_seed_filename": "theory-ladenness-of-observation-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Truthmaker Principle",
+      "kebab": "truthmaker-principle",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/truthmaker-principle.yaml",
+      "expected_seed_filename": "truthmaker-principle-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Theory of Knowledge",
+      "kebab": "theory-of-knowledge",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/theory-of-knowledge.yaml",
+      "expected_seed_filename": "theory-of-knowledge-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Skepticism",
+      "kebab": "skepticism",
+      "brief_path": "briefs/philosophy-of-mind-and-epistemology/skepticism.yaml",
+      "expected_seed_filename": "skepticism-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

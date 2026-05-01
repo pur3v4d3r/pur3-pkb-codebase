@@ -1,0 +1,45 @@
+concept: Motivational Design
+domain: research-methods
+secondary_domains:
+- instructional-design
+- motivational-psychology
+aliases:
+- motivational instructional design
+broader:
+- instructional-design
+narrower:
+- arcs-motivation-model
+- attention-relevance-confidence-satisfaction
+related:
+- arcs-motivation-model
+- instructional-design
+- addie-model
+- gagnes-conditions-of-learning
+- expectancy-value-theory
+- self-determination-theory
+prerequisites:
+- instructional-design
+confidence: high
+callouts:
+- type: definition
+  title: Motivational Design
+  body: Motivational Design is the systematic application of motivational principles
+    to the design of instruction so that learner attention, perceived relevance, expectancy
+    of success, and satisfaction with outcomes are deliberately engineered into the
+    learning experience — the design tradition most prominently codified in John Keller's
+    ARCS model and its later extensions.
+- type: key-claim
+  title: Key claim about Motivational Design
+  body: 'Motivational Design treats motivation as a designable property of an instructional
+    system rather than as a stable trait of the learner: by analyzing each ARCS dimension
+    separately and selecting strategies that target the dimensions where the audience
+    analysis predicts deficits, the designer can systematically raise engagement without
+    depending on individual learner predispositions to drive participation.'
+- type: warning
+  title: Common pitfall regarding Motivational Design
+  body: Motivational Design is sometimes equated with the surface use of motivational
+    tactics (gamification, narrative framing, reward structures) without the diagnostic
+    step that ARCS specifies; tactics applied without targeting a diagnosed motivational
+    deficit produce decoration rather than design and frequently undermine intrinsic
+    motivation that the original instructional content would have sustained on its
+    own.

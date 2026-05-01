@@ -1,0 +1,44 @@
+concept: Preregistration
+domain: research-methods
+secondary_domains:
+- open-science
+- research-methods
+aliases:
+- study preregistration
+- pre-registration
+broader:
+- open-science-practices
+related:
+- open-science-practices
+- replication-crisis-in-psychology
+- validity
+- statistical-significance
+- registered-reports
+- hypothesis-driven-research
+prerequisites:
+- open-science-practices
+confidence: high
+callouts:
+- type: definition
+  title: Preregistration
+  body: Preregistration is the open-science practice of publicly time-stamping a study's
+    hypotheses, design, analysis plan, and inference rules in a third-party registry
+    before data collection or, in some cases, before data analysis — designed to make
+    the distinction between confirmatory and exploratory analyses auditable and to
+    prevent the undisclosed analytic flexibility that inflates false-positive rates.
+- type: key-claim
+  title: Key claim about Preregistration
+  body: 'Preregistration''s core epistemic function is the binding of the analytic
+    decision tree before the data are seen: most of the inflation of published effect
+    sizes traced to the replication crisis arises from researcher degrees of freedom
+    in analysis selection that Preregistration explicitly closes off, and the practice''s
+    effect on published-effect distributions in fields that have adopted it confirms
+    this mechanism.'
+- type: warning
+  title: Common pitfall regarding Preregistration
+  body: 'Preregistration is often treated as a binary virtue, but its epistemic value
+    depends on the specificity of the registered plan: vague preregistrations preserve
+    enough analytic flexibility to leave the original problem largely untouched, while
+    overly rigid ones discourage legitimate exploratory analysis that should be reported
+    as such; the discipline is in registering specifically and reporting deviations
+    transparently.'

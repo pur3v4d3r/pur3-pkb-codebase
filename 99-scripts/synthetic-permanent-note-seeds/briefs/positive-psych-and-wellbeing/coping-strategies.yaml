@@ -1,0 +1,44 @@
+concept: Coping Strategies
+domain: positive-psychology
+secondary_domains:
+- stress-research
+- clinical-psychology
+aliases:
+- coping mechanisms
+- stress-coping
+broader:
+- emotional-regulation
+narrower:
+- cognitive-reappraisal
+- problem-focused-coping
+- emotion-focused-coping
+related:
+- psychological-resilience
+- benefit-finding
+- post-traumatic-growth
+- self-compassion
+- savoring
+prerequisites:
+- stress-and-learning
+confidence: high
+callouts:
+- type: definition
+  title: Coping Strategies
+  body: Coping Strategies are the cognitive and behavioral efforts a person deploys
+    to manage demands appraised as taxing or exceeding their resources — classically
+    partitioned by Lazarus and Folkman into problem-focused coping (acting on the
+    stressor itself) and emotion-focused coping (regulating the affective response
+    when the stressor is unalterable).
+- type: key-claim
+  title: Key claim about Coping Strategies
+  body: Coping Strategies are not stable trait-like dispositions but situation-specific
+    deployments whose adaptiveness is conditional on the controllability of the stressor,
+    which is why the same strategy (for example, distraction) can be functional in
+    an uncontrollable context and dysfunctional in a controllable one.
+- type: warning
+  title: Common pitfall regarding Coping Strategies
+  body: Coping Strategies are routinely mis-taxonomized as "good" or "bad" coping
+    in popular treatments, but the empirical literature consistently shows that any
+    classification that ignores the appraised controllability of the stressor mis-predicts
+    outcomes; rigid commitment to a single coping mode regardless of context is itself
+    a robust predictor of poorer adjustment.

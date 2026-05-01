@@ -1,0 +1,41 @@
+concept: Hedonic Well-Being
+domain: positive-psychology
+secondary_domains:
+- positive-psychology
+- philosophy-of-well-being
+aliases:
+- hedonic happiness
+- subjective well-being
+broader:
+- psychological-flourishing
+related:
+- eudaimonia
+- perma-model
+- savoring
+- hedonic-adaptation
+- broaden-and-build-theory
+prerequisites:
+- emotional-regulation
+confidence: high
+callouts:
+- type: definition
+  title: Hedonic Well-Being
+  body: Hedonic Well-Being is the dimension of flourishing constituted by the balance
+    of pleasant over unpleasant affect plus a person's global cognitive judgment of
+    life satisfaction — the construct that Diener's tripartite Subjective Well-Being
+    model operationalized and that contrasts in the philosophical tradition with eudaimonic
+    conceptions of the good life.
+- type: key-claim
+  title: Key claim about Hedonic Well-Being
+  body: Hedonic Well-Being and eudaimonic well-being are empirically correlated but
+    factorially distinct, and interventions that elevate one do not reliably elevate
+    the other — indicating that the question "which conception of well-being to pursue"
+    is not a definitional quibble but an actionable design choice with measurable
+    downstream effects.
+- type: warning
+  title: Common pitfall regarding Hedonic Well-Being
+  body: 'Hedonic Well-Being is vulnerable to hedonic adaptation: the affective component
+    drifts back toward a person''s set-point as circumstances stabilize, so policies
+    and personal projects that target only Hedonic Well-Being without also engaging
+    meaning, mastery, or relational depth tend to produce diminishing returns over
+    time.'

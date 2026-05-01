@@ -1,0 +1,43 @@
+concept: SWOT Analysis
+domain: knowledge-management
+secondary_domains:
+- strategic-planning
+- business
+aliases:
+- SWOT
+- strengths-weaknesses-opportunities-threats
+broader:
+- strategic-planning
+related:
+- strategic-planning
+- scenario-planning
+- ooda-loop
+- business-model-canvas
+- root-cause-analysis
+- decision-analysis
+prerequisites:
+- strategic-planning
+confidence: medium
+callouts:
+- type: definition
+  title: SWOT Analysis
+  body: SWOT Analysis is the structured strategic-planning framework that organizes
+    situational analysis into four cells — internal Strengths and Weaknesses, external
+    Opportunities and Threats — used to surface and align an organization's internal
+    capabilities with its external environment as input to strategy formulation, originating
+    in mid-twentieth-century corporate planning practice.
+- type: key-claim
+  title: Key claim about SWOT Analysis
+  body: SWOT Analysis derives its lasting utility less from the categorization itself
+    than from the discipline of crossing the cells in TOWS-matrix fashion (Strength-Opportunity,
+    Strength-Threat, Weakness-Opportunity, Weakness-Threat) to generate concrete strategic
+    options; SWOT lists that are not crossed in this way produce inventory rather
+    than strategy, which is the failure mode the framework is most often used in.
+- type: warning
+  title: Common pitfall regarding SWOT Analysis
+  body: 'SWOT Analysis is frequently criticized as a content-free template, but the
+    criticism more accurately targets uncritical application than the tool itself:
+    SWOT is sensitive to garbage-in-garbage-out — items entered as Strengths without
+    comparative benchmarking, or as Threats without probabilistic assessment, produce
+    strategies with the same defects, and the framework provides no internal mechanism
+    for correcting them.'

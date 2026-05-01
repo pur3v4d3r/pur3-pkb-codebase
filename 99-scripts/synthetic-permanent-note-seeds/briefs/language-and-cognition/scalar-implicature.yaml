@@ -1,0 +1,46 @@
+concept: Scalar Implicature
+domain: cognitive-science
+secondary_domains:
+- pragmatics
+- semantics
+aliases:
+- scalar inference
+- quantity implicature
+broader:
+- conversational-implicature
+related:
+- pragmatic-inference
+- grice-maxims
+- relevance-theory
+- semantics
+- pragmatics
+- horn-scale
+- neo-gricean-pragmatics
+prerequisites:
+- conversational-implicature
+confidence: high
+callouts:
+- type: definition
+  title: Scalar Implicature
+  body: Scalar Implicature is the pragmatic inference, first systematically analyzed
+    by Horn and embedded in Gricean and post-Gricean frameworks, in which the use
+    of a weaker term on a scale (such as "some" rather than "all", or "warm" rather
+    than "hot") licenses the listener to infer that the speaker had grounds to deny
+    the stronger alternative — yielding the standard "some implies not all" pattern
+    as the canonical case.
+- type: key-claim
+  title: Key claim about Scalar Implicature
+  body: Scalar Implicature has become a key empirical site for the dispute between
+    globalist Gricean accounts (which compute implicatures over completed propositions)
+    and localist grammatical accounts (which compute them at the constituent level),
+    with experimental evidence — including processing studies and embedded-implicature
+    data — bearing differentially on the two positions and producing one of the most
+    active sub-debates in contemporary pragmatics.
+- type: warning
+  title: Common pitfall regarding Scalar Implicature
+  body: 'Scalar Implicature is sometimes presented as a generalization that holds
+    across all Horn-scale items, but the empirical record shows substantial variation
+    across scales, contexts, and speaker populations: not all weak-strong pairs license
+    the inference equally robustly, and treating the canonical "some-not-all" pattern
+    as the type case for all scalar implicatures over-extrapolates from a particularly
+    clean example.'

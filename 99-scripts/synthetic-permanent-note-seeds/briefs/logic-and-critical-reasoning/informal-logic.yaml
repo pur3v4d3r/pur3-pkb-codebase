@@ -1,0 +1,47 @@
+concept: Informal Logic
+domain: critical-thinking
+secondary_domains:
+- philosophy
+- critical-thinking
+aliases:
+- practical reasoning
+- argumentation theory
+broader:
+- logical-reasoning
+narrower:
+- informal-fallacy
+- toulmin-argument-model
+- argument-analysis
+related:
+- formal-logic
+- critical-thinking
+- argument-analysis
+- logical-fallacies
+- principle-of-charity
+- paul-elder-critical-thinking-framework
+prerequisites:
+- logical-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Informal Logic
+  body: Informal Logic is the sub-discipline of logic devoted to the analysis, evaluation,
+    and improvement of arguments as they occur in natural-language discourse — public
+    deliberation, scientific debate, legal argumentation, everyday reasoning — using
+    tools (argument diagrams, dialogue rules, norms of relevance and acceptability)
+    suited to content-rich and dialectically situated reasoning rather than to formal-language
+    proofs.
+- type: key-claim
+  title: Key claim about Informal Logic
+  body: Informal Logic emerged as a distinct field in the 1970s in response to the
+    empirical observation that formal logic's expressive resources do not capture
+    most of the reasoning errors and successes encountered in natural argumentative
+    practice — the gap motivated the development of dialectical, pragmatic, and rhetorical
+    tools that complement rather than reduce to formal deduction.
+- type: warning
+  title: Common pitfall regarding Informal Logic
+  body: 'Informal Logic is sometimes treated as the easier or less rigorous cousin
+    of formal logic, but the converse is closer to the truth: informal logical analysis
+    requires holding multiple dimensions (logical form, dialectical context, epistemic
+    warrant, audience) in mind simultaneously, and the rigor lies in the discipline
+    of those judgments rather than in mechanical inference.'

@@ -1,0 +1,50 @@
+concept: Situation Awareness
+domain: cognitive-science
+secondary_domains:
+- human-factors
+- cognitive-engineering
+aliases:
+- SA
+- situational awareness
+broader:
+- cognitive-engineering
+narrower:
+- perception-of-elements
+- comprehension-of-current-situation
+- projection-of-future-status
+related:
+- mental-model
+- working-memory
+- attention-allocation
+- decision-making
+- ooda-loop
+- naturalistic-decision-making
+- expertise
+prerequisites:
+- cognitive-engineering
+confidence: high
+callouts:
+- type: definition
+  title: Situation Awareness
+  body: Situation Awareness is the cognitive-engineering construct, formalized by
+    Mica Endsley, defined as the perception of the elements in an environment within
+    a volume of time and space, the comprehension of their meaning, and the projection
+    of their status into the near future — partitioned into three corresponding levels
+    and treated as the cognitive substrate that enables timely and well-formed decisions
+    in dynamic, time-pressured operational settings.
+- type: key-claim
+  title: Key claim about Situation Awareness
+  body: 'Situation Awareness organizes a wide body of human-factors findings under
+    a tripartite structure that has both diagnostic and design utility: failures at
+    Level 1 (missing or misidentified elements) call for different design responses
+    than failures at Level 2 (misinterpreting elements) or Level 3 (failing to project
+    consequences), and treating "loss of SA" as a single failure mode collapses distinctions
+    that the construct was developed precisely to make.'
+- type: warning
+  title: Common pitfall regarding Situation Awareness
+  body: Situation Awareness is sometimes used as a near-tautological explanation for
+    accidents ("the operator lost SA"), which provides the appearance of analysis
+    without the diagnostic content the construct enables when applied carefully; rigorous
+    SA analysis requires identifying which level failed, which information was unavailable
+    or mis-displayed, and which design or training change would address the specific
+    level-and-element combination at fault.

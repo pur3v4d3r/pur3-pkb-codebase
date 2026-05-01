@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "software-engineering",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-09-software-engineering.md",
+    "notes": "Batch 9 — closes the software-engineering / dev-tooling ghost-link\ncluster: discipline genus terms (software-engineering, distributed-systems),\ndeveloper-environment anchors (virtual-environments, source-code-editor),\nand the AI-assisted-development workflow primitives the dev notes\nalready reference."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/software-engineering",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-software-engineering"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Software Engineering",
+      "kebab": "software-engineering",
+      "brief_path": "briefs/software-engineering/software-engineering.yaml",
+      "expected_seed_filename": "software-engineering-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Virtual Environments",
+      "kebab": "virtual-environments",
+      "brief_path": "briefs/software-engineering/virtual-environments.yaml",
+      "expected_seed_filename": "virtual-environments-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Distributed Systems",
+      "kebab": "distributed-systems",
+      "brief_path": "briefs/software-engineering/distributed-systems.yaml",
+      "expected_seed_filename": "distributed-systems-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "AI-Assisted Development Workflows",
+      "kebab": "ai-assisted-development-workflows",
+      "brief_path": "briefs/software-engineering/ai-assisted-development-workflows.yaml",
+      "expected_seed_filename": "ai-assisted-development-workflows-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Troubleshooting",
+      "kebab": "troubleshooting",
+      "brief_path": "briefs/software-engineering/troubleshooting.yaml",
+      "expected_seed_filename": "troubleshooting-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Usability Engineering",
+      "kebab": "usability-engineering",
+      "brief_path": "briefs/software-engineering/usability-engineering.yaml",
+      "expected_seed_filename": "usability-engineering-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Source Code Editor",
+      "kebab": "source-code-editor",
+      "brief_path": "briefs/software-engineering/source-code-editor.yaml",
+      "expected_seed_filename": "source-code-editor-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Source Code Management",
+      "kebab": "source-code-management",
+      "brief_path": "briefs/software-engineering/source-code-management.yaml",
+      "expected_seed_filename": "source-code-management-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Secrets Management",
+      "kebab": "secrets-management",
+      "brief_path": "briefs/software-engineering/secrets-management.yaml",
+      "expected_seed_filename": "secrets-management-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Signal-to-Noise Ratio",
+      "kebab": "signal-to-noise-ratio",
+      "brief_path": "briefs/software-engineering/signal-to-noise-ratio.yaml",
+      "expected_seed_filename": "signal-to-noise-ratio-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

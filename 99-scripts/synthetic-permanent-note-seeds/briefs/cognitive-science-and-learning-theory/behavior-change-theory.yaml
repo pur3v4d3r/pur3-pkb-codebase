@@ -1,0 +1,48 @@
+concept: Behavior Change Theory
+domain: learning-science
+secondary_domains:
+- health-psychology
+- behavioral-economics
+aliases:
+- behavior change frameworks
+broader:
+- motivational-psychology
+narrower:
+- theory-of-planned-behavior
+- transtheoretical-model
+- stages-of-change-model
+- habit-formation
+related:
+- theory-of-planned-behavior
+- transtheoretical-model
+- stages-of-change-model
+- behavior-change-techniques
+- habit-formation
+- implementation-intention
+- motivational-interviewing
+- nudge-theory
+prerequisites:
+- motivational-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Behavior Change Theory
+  body: Behavior Change Theory is the umbrella term for the family of theoretical
+    frameworks — including the Theory of Planned Behavior, the Transtheoretical Model,
+    Health Belief Model, Social Cognitive Theory, Self-Determination Theory, and the
+    Behavior Change Wheel — that specify the determinants, mechanisms, and intervention
+    targets through which sustained behavior change is hypothesized to occur.
+- type: key-claim
+  title: Key claim about Behavior Change Theory
+  body: 'Behavior Change Theory has converged on the conclusion that no single theoretical
+    model dominates across behaviors and contexts: which mechanisms are most active
+    depends on the behavior''s complexity, the population''s baseline motivation,
+    and the structural affordances of the change environment, so multi-theory or behavior-specific
+    tailoring outperforms blanket application of any single model.'
+- type: warning
+  title: Common pitfall regarding Behavior Change Theory
+  body: Behavior Change Theory is sometimes used to justify intervention designs that
+    are merely consistent with a theory rather than implementing its mechanisms; the
+    audit question is whether the intervention measurably moves the theory's specified
+    mediators, and most published "theory-based" interventions do not in fact demonstrate
+    movement on the mediators their cited theory specifies.

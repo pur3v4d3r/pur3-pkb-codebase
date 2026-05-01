@@ -1,0 +1,41 @@
+concept: Secure Attachment
+domain: social-psychology
+secondary_domains:
+- developmental-psychology
+- clinical-psychology
+aliases:
+- secure attachment style
+broader:
+- attachment-theory
+related:
+- attachment-theory
+- basic-psychological-needs-theory
+- relatedness-need
+- psychological-resilience
+- emotional-regulation
+- self-compassion
+prerequisites:
+- attachment-theory
+confidence: high
+callouts:
+- type: definition
+  title: Secure Attachment
+  body: Secure Attachment is the attachment pattern, identified in the Strange Situation
+    paradigm and the Adult Attachment Interview, in which a person uses an attachment
+    figure as both a safe haven for distress regulation and a secure base for exploration
+    — the pattern most consistently associated with adaptive emotion regulation, exploratory
+    behavior, and relational outcomes across the lifespan.
+- type: key-claim
+  title: Key claim about Secure Attachment
+  body: Secure Attachment is not equivalent to the absence of distress; secure individuals
+    show distress on separation and seek proximity on reunion just like insecure individuals
+    do — the diagnostic feature is the post-distress trajectory, in which contact
+    with the attachment figure rapidly down-regulates arousal and exploratory behavior
+    resumes.
+- type: warning
+  title: Common pitfall regarding Secure Attachment
+  body: Secure Attachment is often presented as a fixed individual trait determined
+    in infancy, but longitudinal studies show meaningful change across life — particularly
+    through corrective relational experiences — so treating Secure Attachment as a
+    destiny licenses both unwarranted pessimism in the insecurely attached and unwarranted
+    complacency in the securely attached.

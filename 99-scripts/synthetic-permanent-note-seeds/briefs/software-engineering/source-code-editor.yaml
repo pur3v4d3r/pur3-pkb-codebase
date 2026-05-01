@@ -1,0 +1,54 @@
+concept: Source Code Editor
+domain: software-engineering
+secondary_domains:
+- developer-tools
+- ide
+aliases:
+- code editor
+- text editor for code
+broader:
+- developer-tools
+narrower:
+- vs-code
+- vim
+- emacs
+- sublime-text
+- jetbrains-ides
+related:
+- code-editor
+- integrated-development-environment
+- language-server-protocol
+- syntax-highlighting
+- lsp
+- debugger
+- repl
+prerequisites:
+- developer-tools
+confidence: high
+callouts:
+- type: definition
+  title: Source Code Editor
+  body: A Source Code Editor is the developer-facing tool optimized for the structured
+    editing of program source files, providing syntax-aware features (highlighting,
+    indentation, autocompletion, navigation) typically backed by language servers,
+    and serving as the primary interface through which developers read, write, and
+    refactor code — distinguished from a generic text editor by the depth of language-aware
+    support and from an IDE by the relative independence from a specific build-and-debug
+    toolchain.
+- type: key-claim
+  title: Key claim about Source Code Editor
+  body: The modern Source Code Editor's distinctive architectural shift over the past
+    decade has been the externalization of language intelligence to language servers
+    communicating via the Language Server Protocol, which decoupled editor evolution
+    from per-language tooling investment and made it economical to support dozens
+    of languages at high quality in a single editor — a structural change that explains
+    the convergence of the editor market on a small number of LSP-fluent products.
+- type: warning
+  title: Common pitfall regarding Source Code Editor
+  body: The Source Code Editor is often selected on surface features (theme, keybindings,
+    plugin marketplace size), but the load-bearing differentiators in production use
+    are the quality of the language-server integrations for the developer's primary
+    languages, the latency of large-file handling, and the responsiveness of search-and-navigate
+    at repository scale; selecting an editor on superficial features and then fighting
+    it on the load-bearing ones is a recurrent and easily preventable productivity
+    drain.

@@ -1,0 +1,47 @@
+concept: Expertise
+domain: learning-science
+secondary_domains:
+- cognitive-psychology
+- professional-skill
+aliases:
+- expert performance
+broader:
+- knowledge-transfer
+narrower:
+- expertise-development
+- deliberate-practice
+- adaptive-expertise
+- tacit-knowledge
+related:
+- expertise-development
+- deliberate-practice
+- adaptive-expertise
+- automaticity
+- schema-construction
+- long-term-working-memory
+- cognitive-apprenticeship
+prerequisites:
+- domain-specific-knowledge
+confidence: high
+callouts:
+- type: definition
+  title: Expertise
+  body: Expertise is the consistently superior performance of a domain's representative
+    tasks by a person whose knowledge structures, perceptual chunking, and procedural
+    routines have been shaped by extended experience and deliberate practice — operationalized
+    in the expert-performance approach as the reproducible advantage that experts
+    show under controlled task conditions, not merely the credentialed status of "expert."
+- type: key-claim
+  title: Key claim about Expertise
+  body: Expertise is constituted in large part by domain-specific representational
+    restructuring — chunking, schema construction, long-term working memory — rather
+    than by superior general intelligence, which is why expert advantage transfers
+    poorly across domains and why estimates of expert ability outside the trained
+    domain regularly converge on the population mean.
+- type: warning
+  title: Common pitfall regarding Expertise
+  body: Expertise is often equated with experience (years on the job), but the relationship
+    between time-in-role and Expertise is moderated by the presence of deliberate-practice
+    conditions — informative feedback, progressively challenging tasks, focused attention
+    on weaknesses — and in their absence years of experience can produce arbitrary
+    durations of unimproved performance.

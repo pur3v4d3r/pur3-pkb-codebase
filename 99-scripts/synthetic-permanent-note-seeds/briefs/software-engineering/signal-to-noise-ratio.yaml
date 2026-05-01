@@ -1,0 +1,44 @@
+concept: Signal-to-Noise Ratio
+domain: software-engineering
+secondary_domains:
+- information-theory
+- communication
+aliases:
+- SNR
+- signal-to-noise
+broader:
+- information-quality
+related:
+- source-curation
+- attention-economy
+- information-quality
+- source-evaluation
+- epistemic-vigilance
+- focused-attention
+- deep-work
+prerequisites:
+- information-theory
+confidence: high
+callouts:
+- type: definition
+  title: Signal-to-Noise Ratio
+  body: Signal-to-Noise Ratio is the engineering measure of the proportion of meaningful
+    information to background or irrelevant content in a channel, originating in communications
+    engineering and generalized in knowledge-work contexts to characterize information
+    sources, communication channels, and notification streams whose value depends
+    on the share of attention spent on relevant content versus on filtering.
+- type: key-claim
+  title: Key claim about Signal-to-Noise Ratio
+  body: 'Signal-to-Noise Ratio in knowledge work is the operational variable through
+    which Source Curation and attention-design decisions affect output: raising the
+    SNR of an intake stream lowers the metabolic cost of processing it (less filtering
+    effort per unit of useful content), and most attention-management interventions
+    can be evaluated by whether they raise or lower the SNR of the streams they affect.'
+- type: warning
+  title: Common pitfall regarding Signal-to-Noise Ratio
+  body: Signal-to-Noise Ratio has no fixed threshold above which a source is "good
+    enough" — what counts as signal is task-relative, so the same stream can be high-SNR
+    for one purpose and low-SNR for another; treating SNR as a property of the source
+    rather than of the source-task pair is the most common conceptual error and produces
+    filtering decisions that improve some workflows while degrading others without
+    warning.

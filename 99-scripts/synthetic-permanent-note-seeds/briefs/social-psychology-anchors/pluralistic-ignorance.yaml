@@ -1,0 +1,40 @@
+concept: Pluralistic Ignorance
+domain: social-psychology
+secondary_domains:
+- group-dynamics
+- social-cognition
+aliases:
+- collective misperception
+broader:
+- social-influence
+related:
+- conformity
+- bystander-effect
+- diffusion-of-responsibility
+- false-consensus-effect
+- social-proof
+- group-polarization
+prerequisites:
+- conformity
+confidence: high
+callouts:
+- type: definition
+  title: Pluralistic Ignorance
+  body: Pluralistic Ignorance is the situation in which most members of a group privately
+    reject a norm but mistakenly believe most other members accept it, with the result
+    that the unsupported norm persists because no one acts on their actual private
+    view — the misperception is mutual and self-stabilizing.
+- type: key-claim
+  title: Key claim about Pluralistic Ignorance
+  body: 'Pluralistic Ignorance is one of the few well-replicated mechanisms by which
+    a norm can survive the disappearance of its support base: as long as each member
+    uses others'' silence as evidence of others'' endorsement, no individual update
+    is triggered, and a costly norm can persist for years across an organization or
+    community without anyone privately favoring it.'
+- type: warning
+  title: Common pitfall regarding Pluralistic Ignorance
+  body: Pluralistic Ignorance is sometimes invoked as a universal solvent for awkward
+    group behavior, but the construct requires a specific evidentiary signature —
+    private rejection paired with public conformity paired with second-order misperception
+    — and casual labeling without that triad inflates the explanatory weight the mechanism
+    actually carries.

@@ -1,0 +1,42 @@
+concept: Self-Construal
+domain: social-psychology
+secondary_domains:
+- cultural-psychology
+- cross-cultural-psychology
+aliases:
+- self-construal style
+- independent vs interdependent self
+broader:
+- self-concept
+related:
+- cultural-psychology
+- cross-cultural-psychology
+- self-concept
+- social-identity-theory
+- autonomy
+- relatedness-need
+prerequisites:
+- self-concept
+confidence: medium
+callouts:
+- type: definition
+  title: Self-Construal
+  body: Self-Construal is the way a person represents the self in relation to others,
+    classically partitioned by Markus and Kitayama into an independent Self-Construal
+    (the self as a bounded, autonomous unit defined by internal attributes) and an
+    interdependent Self-Construal (the self as defined by and embedded in social relationships
+    and roles).
+- type: key-claim
+  title: Key claim about Self-Construal
+  body: Self-Construal moderates a wide range of cognitive and affective processes
+    — attribution patterns, motivation contingencies, emotional appraisals, persuasion
+    responsiveness — and these moderating effects appear both as stable cultural-mean
+    differences and as situationally primable shifts within individuals, which is
+    why the construct is best treated as a state-trait hybrid.
+- type: warning
+  title: Common pitfall regarding Self-Construal
+  body: Self-Construal is often used as shorthand for "East Asian versus Western"
+    cognition, but the original formulation is psychological and within-population
+    variability is large; using national stereotypes as proxies for Self-Construal
+    both inflates effect sizes and obscures the within-culture and intra-individual
+    variation the construct was designed to capture.

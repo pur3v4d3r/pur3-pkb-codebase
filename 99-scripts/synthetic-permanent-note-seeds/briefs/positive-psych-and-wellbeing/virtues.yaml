@@ -1,0 +1,44 @@
+concept: Virtues
+domain: positive-psychology
+secondary_domains:
+- virtue-ethics
+- moral-psychology
+aliases:
+- moral virtues
+- character virtues
+broader:
+- character-strengths
+narrower:
+- signature-strengths
+related:
+- eudaimonia
+- virtue-epistemology
+- intellectual-humility
+- wisdom
+- self-compassion
+- moral-development
+prerequisites:
+- moral-development
+confidence: high
+callouts:
+- type: definition
+  title: Virtues
+  body: Virtues are stable, action-guiding excellences of character — dispositions
+    to feel, judge, and act well across recurring situations of a given type — that
+    are valued cross-culturally and that the Values-In-Action classification organizes
+    into six superordinate categories (wisdom, courage, humanity, justice, temperance,
+    transcendence) bridging Aristotelian and contemporary positive-psychology traditions.
+- type: key-claim
+  title: Key claim about Virtues
+  body: 'Virtues are best understood as cultivated rather than innate: they emerge
+    from repeated practice in graded contexts that allows the relevant emotional,
+    perceptual, and behavioral patterns to become habituated, which is why virtue
+    cultivation programs that target single behaviors without reshaping the surrounding
+    context produce weaker effects than those that restructure both.'
+- type: warning
+  title: Common pitfall regarding Virtues
+  body: Virtues language is easily slid into moralistic prescription, but the empirical
+    and philosophical core of the construct is descriptive — Virtues are the trait-like
+    patterns that demonstrably enable flourishing — and using virtue vocabulary to
+    enforce a single normative ideal ignores the well-documented pluralism of viable
+    virtue profiles across cultures and developmental stages.

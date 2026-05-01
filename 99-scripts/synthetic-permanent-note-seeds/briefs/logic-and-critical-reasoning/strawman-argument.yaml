@@ -1,0 +1,42 @@
+concept: Strawman Argument
+domain: critical-thinking
+secondary_domains:
+- logic
+- dialectics
+aliases:
+- straw-man fallacy
+- straw man
+broader:
+- informal-fallacy
+related:
+- straw-man-fallacy
+- ad-hominem
+- informal-fallacy
+- principle-of-charity
+- argument-analysis
+- critical-thinking
+prerequisites:
+- informal-fallacy
+confidence: high
+callouts:
+- type: definition
+  title: Strawman Argument
+  body: A Strawman Argument is the dialectical move in which one party misrepresents
+    the opponent's position in a weakened or distorted form, refutes the misrepresentation,
+    and then claims to have refuted the original position — distinguished from genuine
+    objection by the gap between the position attacked and the position the opponent
+    actually holds.
+- type: key-claim
+  title: Key claim about Strawman Argument
+  body: 'A Strawman Argument is one of the most consequential failure modes in public
+    discourse because the misrepresented position often becomes the version that propagates:
+    subsequent participants engage with the strawman rather than the original, and
+    the original becomes progressively harder to recover, which is why the principle
+    of charity functions as the standing antidote.'
+- type: warning
+  title: Common pitfall regarding Strawman Argument
+  body: A Strawman Argument is sometimes diagnosed wherever a participant feels their
+    position has been misunderstood, but the diagnostic standard is interpretive rather
+    than emotional — the interpreter must show that a more charitable reading of the
+    original was available and was not taken; without that demonstration the charge
+    itself can become a Strawman of the critic.

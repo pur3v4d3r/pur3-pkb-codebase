@@ -1,0 +1,50 @@
+concept: Distributed Systems
+domain: software-engineering
+secondary_domains:
+- computer-science
+- software-architecture
+aliases:
+- distributed computing systems
+broader:
+- computer-science
+narrower:
+- consensus-algorithms
+- replication
+- partition-tolerance
+- eventual-consistency
+related:
+- software-engineering
+- software-architecture
+- microservices
+- cap-theorem
+- consensus-algorithms
+- fault-tolerance
+- observability
+prerequisites:
+- computer-science
+confidence: high
+callouts:
+- type: definition
+  title: Distributed Systems
+  body: Distributed Systems are computer systems in which components located on networked
+    hosts communicate and coordinate to present to the user the abstraction of a single
+    coherent system, while operating under the constitutive constraints of partial
+    failure, message delay, and lack of a global clock — the engineering domain whose
+    foundational results (CAP theorem, FLP impossibility, consensus lower bounds)
+    follow from these constraints rather than from particular implementations.
+- type: key-claim
+  title: Key claim about Distributed Systems
+  body: 'Distributed Systems engineering is dominated by trade-offs that follow inescapably
+    from the fault-and-asynchrony model: any guarantee of a desirable property under
+    partition (consistency, availability, low latency) trades against another desirable
+    property in the same scenario, and most production failures of distributed systems
+    trace to designs that assumed away one of the trade-offs that the underlying impossibility
+    results show cannot be assumed away.'
+- type: warning
+  title: Common pitfall regarding Distributed Systems
+  body: 'Distributed Systems are increasingly built by developers without exposure
+    to the foundational impossibility results, which produces a recurrent failure
+    mode: systems are designed assuming network partitions are rare and transient
+    (so consistency and availability can both be approximated), and the systems then
+    exhibit pathological behavior under exactly the partition-and-recovery scenarios
+    their designs hand-waved past.'

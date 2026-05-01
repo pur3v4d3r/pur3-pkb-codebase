@@ -1,0 +1,51 @@
+concept: Speech Act Theory
+domain: cognitive-science
+secondary_domains:
+- pragmatics
+- philosophy-of-language
+aliases:
+- speech-act theory
+- Austin-Searle theory of speech acts
+broader:
+- philosophy-of-language
+narrower:
+- locutionary-act
+- illocutionary-act
+- perlocutionary-act
+- performative-utterance
+- indirect-speech-act
+related:
+- speech-acts
+- pragmatics
+- illocutionary-force
+- performative
+- philosophy-of-language
+- relevance-theory
+prerequisites:
+- philosophy-of-language
+confidence: high
+callouts:
+- type: definition
+  title: Speech Act Theory
+  body: Speech Act Theory is the philosophical and linguistic framework, originating
+    in Austin's How to Do Things with Words and elaborated by Searle, that analyzes
+    utterances as the performance of acts at three distinguishable levels — locutionary
+    (the act of saying), illocutionary (what is done in saying, such as promising,
+    ordering, asserting), and perlocutionary (what is done by saying, such as persuading
+    or alarming).
+- type: key-claim
+  title: Key claim about Speech Act Theory
+  body: 'Speech Act Theory''s lasting contribution is the recognition that the meaning
+    of an utterance is not exhausted by its propositional content: the same proposition
+    can be uttered as an assertion, a promise, a threat, or a question, and the illocutionary
+    force performs theoretical work in linguistic semantics, philosophy of language,
+    and the analysis of consent, authority, and accountability in legal and ethical
+    contexts.'
+- type: warning
+  title: Common pitfall regarding Speech Act Theory
+  body: Speech Act Theory is often invoked with the original Austin-Searle taxonomy
+    as if it were settled, but the criteria for individuating speech-act types and
+    for handling indirect speech acts remain contested, and applications that rest
+    on fine-grained distinctions in the taxonomy (especially in legal and political
+    contexts) are often importing more theoretical determinacy than the framework
+    itself supplies.

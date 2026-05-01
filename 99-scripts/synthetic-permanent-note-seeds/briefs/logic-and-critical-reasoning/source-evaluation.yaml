@@ -1,0 +1,42 @@
+concept: Source Evaluation
+domain: critical-thinking
+secondary_domains:
+- information-literacy
+- epistemology
+aliases:
+- source assessment
+- source criticism
+broader:
+- epistemic-vigilance
+related:
+- epistemic-vigilance
+- social-epistemology
+- testimony
+- principle-of-charity
+- critical-thinking
+- intellectual-humility
+prerequisites:
+- epistemic-vigilance
+confidence: high
+callouts:
+- type: definition
+  title: Source Evaluation
+  body: Source Evaluation is the systematic assessment of the credibility, expertise,
+    independence, conflicts of interest, methodological quality, and corroboration
+    status of an information source before granting its claims epistemic weight —
+    the operational practice that implements epistemic vigilance in research, journalism,
+    and personal knowledge work.
+- type: key-claim
+  title: Key claim about Source Evaluation
+  body: 'Source Evaluation has shifted in the digital era from properties of the document
+    to properties of the network: the trustworthiness of a claim now depends as much
+    on the transitive credibility of the citation chain, the institutional embedding
+    of the source, and the divergence of independent corroborations as on any feature
+    of the document examined in isolation.'
+- type: warning
+  title: Common pitfall regarding Source Evaluation
+  body: Source Evaluation heuristics that work for traditional published sources (peer
+    review, institutional affiliation, credentialed authorship) generalize poorly
+    to social-media and AI-generated content, where the surface markers of credibility
+    can be cheaply spoofed; importing the older heuristics without recalibration produces
+    predictable failures of the form "looked authoritative, was fabricated."

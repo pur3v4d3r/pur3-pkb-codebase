@@ -1,0 +1,41 @@
+concept: Tu Quoque
+domain: critical-thinking
+secondary_domains:
+- logic
+- dialectics
+aliases:
+- you too" fallacy
+- appeal to hypocrisy
+broader:
+- informal-fallacy
+related:
+- ad-hominem
+- informal-fallacy
+- logical-fallacies
+- principle-of-charity
+- argument-analysis
+prerequisites:
+- ad-hominem
+confidence: high
+callouts:
+- type: definition
+  title: Tu Quoque
+  body: Tu Quoque is the informal fallacy in which a person rebuts a criticism by
+    pointing out that the critic is themselves guilty of the same fault, treating
+    the critic's hypocrisy as evidence against the criticism's content — a sub-species
+    of ad hominem that targets consistency of practice rather than the critic's character
+    or motives.
+- type: key-claim
+  title: Key claim about Tu Quoque
+  body: Tu Quoque is fallacious as a refutation of a claim because the truth of a
+    proposition is independent of the propositional consistency of the person asserting
+    it, but the move is rhetorically powerful because it activates legitimate concerns
+    about credibility and standing that listeners systematically allow to override
+    their evaluation of the underlying argument.
+- type: warning
+  title: Common pitfall regarding Tu Quoque
+  body: 'Tu Quoque is not always fallacious: when the dispute is genuinely about whose
+    practical recommendations should be followed rather than about the truth of a
+    factual claim, evidence that the recommender does not follow their own advice
+    is relevant evidence about the recommendation''s practicality; the diagnostic
+    question is whether truth or practical authority is at stake.'

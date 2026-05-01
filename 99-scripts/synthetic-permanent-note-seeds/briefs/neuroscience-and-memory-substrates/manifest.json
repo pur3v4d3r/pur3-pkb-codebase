@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "neuroscience-and-memory-substrates",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-03-neuroscience-substrates.md",
+    "notes": "Batch 3 — closes the highest-payoff neuroscience and memory-substrate ghost\nlinks. The discipline anchor \"neuroscience\" itself is referenced 15 times\nwith no canonical seed; this batch creates that anchor plus its most-cited\nsibling concepts."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/neuroscience-and-memory-substrates",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-neuroscience-and-memory-substrates"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Neuroscience",
+      "kebab": "neuroscience",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/neuroscience.yaml",
+      "expected_seed_filename": "neuroscience-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Synaptic Plasticity",
+      "kebab": "synaptic-plasticity",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/synaptic-plasticity.yaml",
+      "expected_seed_filename": "synaptic-plasticity-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Neuroscience of Learning",
+      "kebab": "neuroscience-of-learning",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/neuroscience-of-learning.yaml",
+      "expected_seed_filename": "neuroscience-of-learning-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Neurotransmission",
+      "kebab": "neurotransmission",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/neurotransmission.yaml",
+      "expected_seed_filename": "neurotransmission-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Stress Physiology",
+      "kebab": "stress-physiology",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/stress-physiology.yaml",
+      "expected_seed_filename": "stress-physiology-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Large-Scale Brain Networks",
+      "kebab": "large-scale-brain-networks",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/large-scale-brain-networks.yaml",
+      "expected_seed_filename": "large-scale-brain-networks-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Classical Conditioning",
+      "kebab": "classical-conditioning",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/classical-conditioning.yaml",
+      "expected_seed_filename": "classical-conditioning-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Trace Decay",
+      "kebab": "trace-decay",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/trace-decay.yaml",
+      "expected_seed_filename": "trace-decay-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Temporal-Difference Learning",
+      "kebab": "temporal-difference-learning",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/temporal-difference-learning.yaml",
+      "expected_seed_filename": "temporal-difference-learning-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Memory Science",
+      "kebab": "memory-science",
+      "brief_path": "briefs/neuroscience-and-memory-substrates/memory-science.yaml",
+      "expected_seed_filename": "memory-science-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

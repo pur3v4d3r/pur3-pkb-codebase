@@ -1,0 +1,52 @@
+concept: Virtual Environments
+domain: software-engineering
+secondary_domains:
+- python
+- dependency-management
+aliases:
+- virtual envs
+- venvs
+- isolated environments
+broader:
+- dependency-management
+narrower:
+- venv
+- virtualenv
+- conda-env
+- poetry-managed-env
+- uv-managed-env
+related:
+- virtual-environment
+- dependency-management
+- python-package
+- requirements-txt
+- environment-variables
+- path-environment-variable
+- package-manager
+prerequisites:
+- dependency-management
+confidence: high
+callouts:
+- type: definition
+  title: Virtual Environments
+  body: Virtual Environments in the Python ecosystem are isolated per-project installations
+    of the interpreter and its dependency tree that prevent dependency conflicts between
+    projects sharing a system, implemented by tools (venv, virtualenv, conda, poetry,
+    uv) that create a self-contained directory tree whose activation reroutes interpreter
+    and package-resolution lookups for the duration of a shell session.
+- type: key-claim
+  title: Key claim about Virtual Environments
+  body: 'Virtual Environments are the load-bearing mechanism by which reproducible
+    Python development becomes possible: without them, every project shares a global
+    package namespace whose state is the union of every other project''s installation
+    history, which makes the dependency tree unspecifiable and the build non-reproducible
+    — and the empirical record of pre-venv Python projects bears this out as recurrent
+    dependency-hell failures.'
+- type: warning
+  title: Common pitfall regarding Virtual Environments
+  body: 'Virtual Environments solve the isolation problem but do not solve the dependency-specification
+    problem: a virtual environment populated by ad-hoc pip installs without a pinned
+    requirements file or lockfile is reproducible only on the machine that built it,
+    and the false sense of reproducibility that an active venv provides is a recurrent
+    source of "works on my machine" failures when the project is moved to CI or a
+    colleague''s workstation.'

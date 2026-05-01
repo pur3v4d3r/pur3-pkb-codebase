@@ -1,0 +1,46 @@
+concept: Social Influence
+domain: social-psychology
+secondary_domains:
+- persuasion-research
+- group-dynamics
+aliases:
+- interpersonal influence
+broader:
+- social-psychology
+narrower:
+- conformity
+- obedience-to-authority
+- social-proof
+- persuasion-theory
+related:
+- normative-influence
+- informational-influence
+- group-polarization
+- minority-influence
+- deindividuation
+- bystander-effect
+prerequisites:
+- social-cognition
+confidence: high
+callouts:
+- type: definition
+  title: Social Influence
+  body: Social Influence is the family of processes by which one person's or group's
+    presence, communication, or expected reaction changes another person's beliefs,
+    attitudes, or behavior — encompassing normative influence (acting to be liked
+    or accepted) and informational influence (treating others' responses as evidence
+    about reality).
+- type: key-claim
+  title: Key claim about Social Influence
+  body: Social Influence operates on private acceptance and public compliance through
+    partly independent pathways, which is why behavioral conformity and genuine attitude
+    change can dissociate — a person can publicly comply with a group while privately
+    disagreeing, and the relative strength of normative versus informational pressure
+    determines which channel dominates.
+- type: warning
+  title: Common pitfall regarding Social Influence
+  body: Social Influence research is often invoked to explain individual decisions
+    retrospectively, but in any specific case, multiple influence mechanisms run in
+    parallel with self-selection and reverse causality; treating a single classic
+    paradigm (Asch, Milgram, Sherif) as a complete model of "why people conform" exports
+    lab-specific assumptions into field settings where they do not hold.

@@ -1,0 +1,53 @@
+concept: Linguistics
+domain: cognitive-science
+secondary_domains:
+- language-science
+- cognitive-science
+aliases:
+- linguistic science
+broader:
+- cognitive-science
+narrower:
+- phonology
+- morphology
+- syntax
+- semantics
+- pragmatics
+- sociolinguistics
+- psycholinguistics
+related:
+- pragmatics
+- semantics
+- syntax
+- language-acquisition
+- universal-grammar
+- linguistic-relativity
+- computational-linguistics
+prerequisites:
+- cognitive-science
+confidence: high
+callouts:
+- type: definition
+  title: Linguistics
+  body: Linguistics is the systematic study of human language, encompassing the analysis
+    of sound systems (phonetics and phonology), word structure (morphology), sentence
+    structure (syntax), meaning (semantics), language use in context (pragmatics),
+    and the social, historical, and cognitive dimensions of language — providing the
+    descriptive and theoretical frameworks within which language is studied as both
+    a structural system and a cognitive faculty.
+- type: key-claim
+  title: Key claim about Linguistics
+  body: Linguistics organizes the study of language around the levels-of-representation
+    distinction that is empirically robust across virtually all languages — sounds
+    compose into words, words into sentences, sentences into discourse — but contemporary
+    Linguistics also recognizes that the boundaries between levels are frequently
+    leaky and that explanations at one level often require commitments at adjacent
+    ones, which is why purely modular theories have given ground to interactive ones.
+- type: warning
+  title: Common pitfall regarding Linguistics
+  body: 'Linguistics is sometimes equated with prescriptive grammar (rules about correct
+    usage), but the discipline is fundamentally descriptive: it characterizes how
+    language works as a cognitive and social phenomenon, and prescriptive judgments
+    about correctness are themselves objects of Linguistic study rather than products
+    of it; importing prescriptive frames into Linguistics inverts the explanandum
+    and the explanans.'

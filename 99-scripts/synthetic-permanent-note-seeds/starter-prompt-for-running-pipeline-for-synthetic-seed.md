@@ -56,6 +56,10 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 
 `D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
 ```
+NOTE: Scan the permanent notes folder for wiki-links without notes, use those as seeds for the pipeline to generate new permanent notes from, filling in gaps.
+
+
+
 
 # Starter Prompt For Custom List of Permanent Note Seeds
 
@@ -100,11 +104,11 @@ Here are the main key locations for you to learn how the pipline works, the ins 
 
 # Enhance permanent notes pipeline
 
-I have a pipeline for enahceing permanent notes that it has created. It suses local LLM. I want you to run this pipeline on 100 notes.
+I have a pipeline for enhancing permanent notes that it has created. It uses local LLM. I want you to run this pipeline on 100 notes.
 Review the pipeline for context and details.
 
 # Key Locations for Pipeline Reference
-Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+Here are the main key locations for you to learn how the pipeline works, the ins and outs, and how it runs.
 
 `D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> V3 pipeline
 `D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> V4 pipeline
@@ -143,7 +147,7 @@ I need you to review the readme's so you get the flow of it and then run the pip
 
 
 # Key Locations for Pipeline Reference
-Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+Here are the main key locations for you to learn how the pipeline works, the ins and outs, and how it runs.
 
 `D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> V3 pipeline
 `D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> V4 pipeline

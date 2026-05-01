@@ -1,0 +1,43 @@
+concept: Schema Formation
+domain: learning-science
+secondary_domains:
+- cognitive-psychology
+- learning-science
+aliases:
+- schema acquisition
+broader:
+- schema-construction
+related:
+- schema-induction
+- schema-construction
+- schema-theory
+- knowledge-schemas
+- declarative-schemas
+- procedural-schemas
+- knowledge-compilation
+prerequisites:
+- schema-construction
+confidence: high
+callouts:
+- type: definition
+  title: Schema Formation
+  body: Schema Formation is the broader cognitive process by which schemas — organized
+    knowledge structures that represent regularities of objects, events, and actions
+    in a domain — come into being in a learner's long-term memory, encompassing both
+    inductive routes (extraction from instances) and direct instructional routes (acquisition
+    from explicit explanation followed by exemplification).
+- type: key-claim
+  title: Key claim about Schema Formation
+  body: 'Schema Formation is the central mechanism by which Cognitive Load Theory
+    explains expertise development: as schemas form, the multiple interacting elements
+    of a problem collapse into single chunks for working-memory purposes, freeing
+    capacity for higher-order operations and transforming what was previously element-interactivity-bound
+    into a pattern-recognition-bound task.'
+- type: warning
+  title: Common pitfall regarding Schema Formation
+  body: Schema Formation is sometimes treated as an automatic by-product of practice,
+    but the empirical literature consistently shows that schema-quality depends on
+    the structural alignment of the practice instances; un-curated practice on superficially
+    varied but structurally identical examples can produce surface-level fluency without
+    the deep schema needed for transfer, an outcome instructional design must explicitly
+    engineer against.

@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "cognitive-science-and-learning-theory",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-06-cognitive-science-learning.md",
+    "notes": "Batch 6 — closes ghost links in the cognitive-science / learning-theory\ncluster: domain-genus terms (expertise, cognitive-development), specific\nschema and learning mechanisms, and creativity / behavior-change anchors\nthe existing notes already reference."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/cognitive-science-and-learning-theory",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-cognitive-science-and-learning-theory"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Expertise",
+      "kebab": "expertise",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/expertise.yaml",
+      "expected_seed_filename": "expertise-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Implicit Theories",
+      "kebab": "implicit-theories",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/implicit-theories.yaml",
+      "expected_seed_filename": "implicit-theories-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Cognitive Development",
+      "kebab": "cognitive-development",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/cognitive-development.yaml",
+      "expected_seed_filename": "cognitive-development-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Behavior Change Theory",
+      "kebab": "behavior-change-theory",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/behavior-change-theory.yaml",
+      "expected_seed_filename": "behavior-change-theory-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Single-Loop Learning",
+      "kebab": "single-loop-learning",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/single-loop-learning.yaml",
+      "expected_seed_filename": "single-loop-learning-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Transformational Creativity",
+      "kebab": "transformational-creativity",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/transformational-creativity.yaml",
+      "expected_seed_filename": "transformational-creativity-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Transfer Adequate Processing",
+      "kebab": "transfer-adequate-processing",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/transfer-adequate-processing.yaml",
+      "expected_seed_filename": "transfer-adequate-processing-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Schema Induction",
+      "kebab": "schema-induction",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/schema-induction.yaml",
+      "expected_seed_filename": "schema-induction-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Schema Formation",
+      "kebab": "schema-formation",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/schema-formation.yaml",
+      "expected_seed_filename": "schema-formation-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Statistical Learning",
+      "kebab": "statistical-learning",
+      "brief_path": "briefs/cognitive-science-and-learning-theory/statistical-learning.yaml",
+      "expected_seed_filename": "statistical-learning-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

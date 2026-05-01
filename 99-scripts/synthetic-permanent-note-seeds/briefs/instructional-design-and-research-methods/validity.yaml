@@ -1,0 +1,52 @@
+concept: Validity
+domain: research-methods
+secondary_domains:
+- research-methods
+- psychometrics
+aliases:
+- research validity
+- measurement validity
+broader:
+- research-methods
+narrower:
+- internal-validity
+- external-validity
+- construct-validity
+- statistical-conclusion-validity
+- ecological-validity
+related:
+- validity-and-reliability
+- internal-validity
+- external-validity
+- construct-validity
+- ecological-validity
+- replication-crisis-in-psychology
+- preregistration
+prerequisites:
+- research-methods
+confidence: high
+callouts:
+- type: definition
+  title: Validity
+  body: Validity in research methodology is the degree to which the inferences a study
+    draws are warranted given its design, measures, and analyses — partitioned in
+    the Cook-and-Campbell tradition into statistical-conclusion validity (whether
+    the statistical inference is sound), internal validity (whether the causal inference
+    is sound), construct validity (whether the variables measure what they claim to),
+    and external validity (whether the inference generalizes).
+- type: key-claim
+  title: Key claim about Validity
+  body: Validity is not a single property of a study but a portfolio of inference-types
+    each with its own threats, and improving one type of Validity often trades off
+    against another (the canonical internal-versus-external tension); responsible
+    methodology requires identifying which Validity type a study most needs to defend
+    given its claims and accepting the principled trade-offs the design makes against
+    the others.
+- type: warning
+  title: Common pitfall regarding Validity
+  body: Validity is routinely cited as if it were a property of a measure or design
+    considered in isolation, but the Cook-Campbell-Shadish-Cook framework treats Validity
+    as a property of an inference made on the basis of a study; the same measure can
+    support a valid inference in one context and an invalid one in another, and treating
+    Validity as study-internal rather than inference-relative misses the framework's
+    central conceptual move.

@@ -1,0 +1,46 @@
+concept: Theory of Knowledge
+domain: philosophy
+secondary_domains:
+- philosophy
+- philosophy-of-mind
+aliases:
+- epistemology proper
+broader:
+- epistemology
+narrower:
+- foundationalism
+- coherentism
+- reliabilism
+- virtue-epistemology
+related:
+- epistemology
+- justified-true-belief
+- gettier-problem
+- fallibilism
+- knowledge-by-acquaintance-vs-description
+- social-epistemology
+prerequisites:
+- epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Theory of Knowledge
+  body: The Theory of Knowledge is the central program of epistemology that asks what
+    knowledge is, what its necessary and sufficient conditions are, how it differs
+    from mere true belief, and what makes a belief justified — the program that organized
+    analytic epistemology around the analysis of knowledge as justified true belief
+    and was destabilized by Gettier's 1963 counterexamples.
+- type: key-claim
+  title: Key claim about Theory of Knowledge
+  body: 'The Theory of Knowledge shifted decisively after Gettier from the search
+    for additional clauses on top of justified true belief toward two broader strategies:
+    externalist accounts that locate justification in reliable belief-forming processes
+    rather than internally accessible reasons, and virtue-epistemological accounts
+    that locate it in the cognitive character traits of the knower.'
+- type: warning
+  title: Common pitfall regarding Theory of Knowledge
+  body: The Theory of Knowledge is sometimes dismissed as a domain of esoteric counterexamples,
+    but the central question — what distinguishes a belief that constitutes knowledge
+    from a true belief that does not — has direct downstream consequences for testimony,
+    expert authority, and the design of epistemic institutions; the apparent triviality
+    of the seminar examples masks the practical bite of the underlying question.

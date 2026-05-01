@@ -1,0 +1,43 @@
+concept: Statistical Learning
+domain: learning-science
+secondary_domains:
+- cognitive-science
+- developmental-psychology
+aliases:
+- statistical pattern learning
+broader:
+- implicit-learning
+related:
+- implicit-learning
+- language-acquisition
+- predictive-coding
+- bayesian-brain
+- classical-conditioning
+- prototype-theory-of-concepts
+prerequisites:
+- language-acquisition
+confidence: high
+callouts:
+- type: definition
+  title: Statistical Learning
+  body: Statistical Learning is the cognitive capacity to extract regularities — transitional
+    probabilities, co-occurrence frequencies, distributional patterns — from streams
+    of input without explicit instruction or intent to learn, demonstrated by Saffran
+    and colleagues for infant word segmentation and subsequently shown to operate
+    across visual, auditory, and motor modalities throughout the lifespan.
+- type: key-claim
+  title: Key claim about Statistical Learning
+  body: 'Statistical Learning provides the most plausible single mechanism for the
+    rapid acquisition of structured knowledge in early development, particularly language:
+    the kinds of statistical regularities infants are demonstrably sensitive to are
+    sufficient to support segmentation, categorization, and grammatical bootstrapping,
+    which substantially reduces the explanatory burden previously assigned to dedicated
+    nativist machinery.'
+- type: warning
+  title: Common pitfall regarding Statistical Learning
+  body: Statistical Learning is sometimes invoked to argue that all of language acquisition
+    reduces to general-purpose statistics, but the developmental literature shows
+    that statistical learning interacts with attention, social cues, and constraints
+    on hypothesis space in ways that go beyond pure distributional analysis; the strong
+    reductionist claim outruns the data and invites the empiricist-nativist debate
+    to be re-litigated as a confused dichotomy.

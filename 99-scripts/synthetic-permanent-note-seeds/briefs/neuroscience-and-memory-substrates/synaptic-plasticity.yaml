@@ -1,0 +1,43 @@
+concept: Synaptic Plasticity
+domain: neuroscience
+secondary_domains:
+- cellular-neuroscience
+- learning-and-memory
+aliases:
+- neural plasticity at synapses
+broader:
+- neuroplasticity
+narrower:
+- long-term-potentiation
+- long-term-depression
+related:
+- long-term-potentiation
+- neuroplasticity
+- memory-consolidation
+- hippocampal-neocortical-transfer
+- hebb-rule
+prerequisites:
+- neuroplasticity
+confidence: high
+callouts:
+- type: definition
+  title: Synaptic Plasticity
+  body: Synaptic Plasticity is the activity-dependent modification of the strength
+    or efficacy of synaptic transmission between neurons — the cellular substrate
+    that allows experience to alter the brain's information-processing capacity, with
+    long-term potentiation and long-term depression as its best-characterized bidirectional
+    forms.
+- type: key-claim
+  title: Key claim about Synaptic Plasticity
+  body: Synaptic Plasticity is the most strongly defended cellular candidate for the
+    substrate of learning and memory, satisfying the four classical criteria (input
+    specificity, associativity, persistence, and behavioral relevance) in multiple
+    preparations, and its disruption pharmacologically or genetically reliably impairs
+    the corresponding learning behavior.
+- type: warning
+  title: Common pitfall regarding Synaptic Plasticity
+  body: 'Synaptic Plasticity is sometimes equated with memory itself, but the relationship
+    is not identity: Synaptic Plasticity is necessary for the encoding and consolidation
+    phases of memory but not sufficient to specify the content, and treating long-term
+    potentiation as a memory readout collapses a multi-stage system into one of its
+    components.'

@@ -1,0 +1,41 @@
+concept: Truthmaker Principle
+domain: philosophy
+secondary_domains:
+- metaphysics
+- philosophy-of-language
+aliases:
+- truthmaker theory
+broader:
+- correspondence-theory-of-truth
+related:
+- correspondence-theory-of-truth
+- scientific-realism
+- ontology-design
+- philosophy-of-mind
+- epistemology
+prerequisites:
+- correspondence-theory-of-truth
+confidence: high
+callouts:
+- type: definition
+  title: Truthmaker Principle
+  body: The Truthmaker Principle is the metaphysical thesis that every true proposition
+    requires something in the world — a truthmaker — in virtue of which it is true,
+    with the strength of the principle varying across formulations from "every truth
+    has a truthmaker" (truthmaker maximalism) to restricted versions covering only
+    positive contingent truths.
+- type: key-claim
+  title: Key claim about Truthmaker Principle
+  body: 'The Truthmaker Principle functions as a methodological constraint on ontology:
+    it forces theorists to specify what in their proposed inventory of the world is
+    supposed to make their preferred truths true, exposing positions that affirm truths
+    while denying any worldly basis for them — a form of cheap ontological commitment
+    that the principle is designed to prevent.'
+- type: warning
+  title: Common pitfall regarding Truthmaker Principle
+  body: The Truthmaker Principle is often invoked as if it were neutral common sense,
+    but maximalist versions face well-known difficulties (truths about absences, negative
+    existentials, necessary truths), and the restricted versions that survive these
+    objections do less of the work the principle is typically marshaled to do; using
+    the principle without specifying its scope conceals where the controversial commitments
+    lie.

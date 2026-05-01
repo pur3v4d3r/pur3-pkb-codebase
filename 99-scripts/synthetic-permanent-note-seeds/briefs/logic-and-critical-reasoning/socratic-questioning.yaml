@@ -1,0 +1,43 @@
+concept: Socratic Questioning
+domain: critical-thinking
+secondary_domains:
+- pedagogy
+- critical-thinking
+aliases:
+- Socratic dialogue
+- Socratic inquiry
+broader:
+- socratic-method
+related:
+- socratic-method
+- paul-elder-critical-thinking-framework
+- elements-of-thought
+- intellectual-standards
+- critical-thinking
+- reflective-thinking
+- deweys-reflective-thinking
+prerequisites:
+- socratic-method
+confidence: high
+callouts:
+- type: definition
+  title: Socratic Questioning
+  body: Socratic Questioning is the disciplined questioning technique, generalized
+    from the Socratic method, in which a facilitator probes the assumptions, evidence,
+    viewpoints, implications, and conceptual clarity of a position through a structured
+    sequence of open-ended questions — operationalized in contemporary critical-thinking
+    pedagogy by the Paul-Elder framework's six taxonomies of questions.
+- type: key-claim
+  title: Key claim about Socratic Questioning
+  body: Socratic Questioning is most effective when it targets the structural elements
+    of reasoning (purpose, question, information, concept, assumption, inference,
+    point of view, implication) rather than the surface content of a position, because
+    targeting structure forces the respondent to articulate the load-bearing components
+    of their thinking that they did not previously have to make explicit.
+- type: warning
+  title: Common pitfall regarding Socratic Questioning
+  body: Socratic Questioning is often performed as a rhetorical technique for leading
+    respondents to predetermined conclusions, but in that mode it functions as covert
+    persuasion rather than inquiry; the diagnostic feature of authentic Socratic Questioning
+    is that the questioner is also genuinely uncertain about where the inquiry will
+    land and prepared to update on the respondent's answers.

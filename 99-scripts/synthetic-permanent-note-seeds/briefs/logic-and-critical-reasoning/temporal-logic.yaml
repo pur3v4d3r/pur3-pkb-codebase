@@ -1,0 +1,41 @@
+concept: Temporal Logic
+domain: critical-thinking
+secondary_domains:
+- mathematical-logic
+- computer-science
+aliases:
+- tense logic
+broader:
+- modal-logic
+related:
+- modal-logic
+- formal-logic
+- propositional-logic
+- predicate-logic
+- non-classical-logic
+prerequisites:
+- modal-logic
+confidence: high
+callouts:
+- type: definition
+  title: Temporal Logic
+  body: Temporal Logic is the family of formal logical systems that extend classical
+    logic with operators for temporal qualification — typically "always in the future,"
+    "sometime in the future," "until," and their past-directed duals — providing the
+    formal resources for reasoning about how propositions' truth-values change over
+    time, with applications spanning philosophy of time, linguistics, and program
+    verification.
+- type: key-claim
+  title: Key claim about Temporal Logic
+  body: 'Temporal Logic became central to computer science through Pnueli''s 1977
+    application of linear temporal logic to program specification: it allowed computer
+    scientists to express liveness and safety properties of concurrent programs formally,
+    which made model-checking algorithms and the entire industrial verification toolchain
+    possible — a striking case of philosophical formalism driving engineering practice.'
+- type: warning
+  title: Common pitfall regarding Temporal Logic
+  body: Temporal Logic comes in incompatible flavors (linear versus branching time,
+    point-based versus interval-based, discrete versus dense versus continuous time)
+    whose theorems and complexity classes differ; "Temporal Logic" without qualification
+    names a family rather than a system, and importing results from one variant into
+    another is a frequent source of error.

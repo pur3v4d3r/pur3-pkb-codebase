@@ -1,0 +1,54 @@
+concept: Software Engineering
+domain: software-engineering
+secondary_domains:
+- computer-science
+- professional-practice
+aliases:
+- SWE
+- software development engineering
+broader:
+- computer-science
+narrower:
+- requirements-engineering
+- software-architecture
+- software-testing
+- version-control
+- continuous-integration
+related:
+- distributed-systems
+- debugging
+- version-control
+- code-editor
+- software-architecture
+- technical-debt
+- test-driven-development
+prerequisites:
+- computer-science
+confidence: high
+callouts:
+- type: definition
+  title: Software Engineering
+  body: Software Engineering is the discipline concerned with the systematic design,
+    construction, maintenance, and evolution of software systems under engineering
+    constraints — quality, cost, schedule, reliability, security, maintainability
+    — encompassing the technical practices (architecture, version control, testing,
+    continuous delivery) and the socio-technical practices (requirements, estimation,
+    team coordination) that distinguish industrial software production from individual
+    programming.
+- type: key-claim
+  title: Key claim about Software Engineering
+  body: 'Software Engineering''s signature challenge is the management of essential
+    complexity over time and team turnover: most of the recurring failure modes (regressions,
+    integration breakage, requirements drift, technical-debt accumulation) trace to
+    the difficulty of preserving design coherence across changes made by different
+    people at different times, which is why the discipline has developed disproportionately
+    rich practices around versioning, review, automated testing, and architectural
+    documentation.'
+- type: warning
+  title: Common pitfall regarding Software Engineering
+  body: 'Software Engineering practices are often adopted in isolation as if individually
+    beneficial, but their value is typically system-level: continuous integration
+    without test discipline mostly publishes broken builds faster, code review without
+    coding standards mostly disagrees about style, and a process change that does
+    not also change incentives and feedback loops often degrades to ceremony with
+    the same defects the change was meant to fix.'

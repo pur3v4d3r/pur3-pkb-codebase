@@ -1,0 +1,41 @@
+concept: Teacher Development
+domain: social-psychology
+secondary_domains:
+- education
+- professional-development
+aliases:
+- teacher professional development
+- educator development
+broader:
+- educational-development
+related:
+- pedagogy
+- communities-of-practice
+- deliberate-practice
+- cognitive-apprenticeship
+- expertise-development
+- reflective-thinking
+prerequisites:
+- educational-development
+confidence: high
+callouts:
+- type: definition
+  title: Teacher Development
+  body: Teacher Development is the longitudinal process by which a teacher's pedagogical
+    knowledge, instructional skill, professional identity, and adaptive expertise
+    mature across a career — encompassing initial preparation, induction, in-service
+    learning, mentoring, communities of practice, and the development of pedagogical
+    content knowledge specific to subject and grade level.
+- type: key-claim
+  title: Key claim about Teacher Development
+  body: Teacher Development is consistently better predicted by sustained, content-specific,
+    practice-embedded learning experiences than by one-off workshops or seat-time
+    accumulation, and the meta-analytic evidence indicates that durations under approximately
+    fifty hours per topic produce effect sizes indistinguishable from zero on student-learning
+    outcomes.
+- type: warning
+  title: Common pitfall regarding Teacher Development
+  body: Teacher Development is widely treated as synonymous with the credentialing
+    or compliance hours teachers complete, but compliance hours and developmental
+    change are loosely correlated at best; conflating the two leads to systems that
+    maximize the proxy while leaving Teacher Development itself stagnant.

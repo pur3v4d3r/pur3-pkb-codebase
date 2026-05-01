@@ -1,0 +1,43 @@
+concept: Neurotransmission
+domain: neuroscience
+secondary_domains:
+- cellular-neuroscience
+- pharmacology
+aliases:
+- synaptic transmission
+- neural transmission
+broader:
+- neuroscience
+narrower:
+- dopamine-and-learning
+- acetylcholine-and-memory
+- norepinephrine-and-learning
+related:
+- neuromodulation-and-learning
+- dopaminergic-reward-system
+- synaptic-plasticity
+prerequisites:
+- neuroscience
+confidence: high
+callouts:
+- type: definition
+  title: Neurotransmission
+  body: Neurotransmission is the process by which one neuron communicates with another
+    across a synapse via the release, diffusion, and receptor binding of chemical
+    signaling molecules — the elementary informational operation of the nervous system,
+    contrasted with electrical transmission via gap junctions and with longer-range
+    neuromodulatory effects on circuit excitability.
+- type: key-claim
+  title: Key claim about Neurotransmission
+  body: 'Neurotransmission is fundamentally bidirectional in its effect on circuit
+    dynamics: the same transmitter system can produce excitatory or inhibitory consequences
+    depending on receptor subtype, postsynaptic context, and timing, which is why
+    simple "neurotransmitter X causes mental state Y" mappings consistently fail at
+    the system level.'
+- type: warning
+  title: Common pitfall regarding Neurotransmission
+  body: Neurotransmission is routinely confused in popular accounts with the broader
+    concept of neuromodulation; classical Neurotransmission is fast, point-to-point,
+    and synapse-confined, while neuromodulators act diffusely on receptive circuits
+    with delayed and longer-lasting effects, and conflating the two produces incoherent
+    predictions about pharmacological intervention.

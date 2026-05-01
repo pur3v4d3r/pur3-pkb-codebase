@@ -1,0 +1,42 @@
+concept: Stress Physiology
+domain: neuroscience
+secondary_domains:
+- neuroendocrinology
+- health-psychology
+aliases:
+- stress response system
+- HPA axis function
+broader:
+- neuroscience
+related:
+- cortisol-and-memory
+- stress-and-learning
+- amygdala-and-learning
+- emotional-regulation
+- psychological-resilience
+- coping-strategies
+prerequisites:
+- stress-and-learning
+confidence: high
+callouts:
+- type: definition
+  title: Stress Physiology
+  body: Stress Physiology is the study of the integrated bodily response to actual
+    or perceived threat — the rapid sympathetic-adrenomedullary activation, the slower
+    hypothalamic-pituitary-adrenal axis cascade, and the downstream effects on cardiovascular,
+    immune, metabolic, and cognitive systems — together constituting the allostatic
+    apparatus that adapts the organism to demand.
+- type: key-claim
+  title: Key claim about Stress Physiology
+  body: 'Stress Physiology is dose-curve-dependent rather than monotonically harmful:
+    acute, time-limited stress responses enhance memory consolidation, immune mobilization,
+    and goal pursuit, while chronic activation produces the allostatic-load pattern
+    that drives the well-documented health consequences typically labeled simply as
+    "stress."'
+- type: warning
+  title: Common pitfall regarding Stress Physiology
+  body: Stress Physiology is often summarized as "cortisol = bad," but cortisol is
+    essential to normal cognitive and metabolic function, and the dysregulation patterns
+    associated with chronic stress include both elevated and blunted cortisol curves;
+    using cortisol level as a one-dimensional health indicator collapses a regulatory
+    system into a single number that can move in the wrong direction.

@@ -1,0 +1,48 @@
+concept: Informal Fallacy
+domain: critical-thinking
+secondary_domains:
+- logic
+- philosophy
+aliases:
+- informal logical fallacy
+broader:
+- logical-fallacies
+narrower:
+- ad-hominem
+- straw-man-fallacy
+- slippery-slope-fallacy
+- false-dichotomy
+- circular-reasoning
+- tu-quoque
+related:
+- informal-logic
+- logical-fallacies
+- formal-logic
+- critical-thinking
+- argument-analysis
+- principle-of-charity
+prerequisites:
+- logical-fallacies
+confidence: high
+callouts:
+- type: definition
+  title: Informal Fallacy
+  body: An Informal Fallacy is an argumentative error whose defect cannot be diagnosed
+    purely by inspection of the argument's logical form — it depends on the content
+    of the premises, the dialectical context, the relevance of the move to the disputed
+    claim, or the unwarranted inferential transitions involved — distinguishing it
+    from a formal fallacy whose error is structural.
+- type: key-claim
+  title: Key claim about Informal Fallacy
+  body: Informal Fallacy taxonomies are best understood as catalogues of recurring
+    failure modes of dialectical reasoning rather than as a closed deductive system,
+    which is why the same surface move can be a genuine fallacy in one context and
+    a legitimate argumentative step in another, and why a useful taxonomy must specify
+    the dialectical conditions under which each pattern fails.
+- type: warning
+  title: Common pitfall regarding Informal Fallacy
+  body: Informal Fallacy labels are routinely deployed to dismiss arguments without
+    engaging their substance — the so-called fallacy-fallacy — but pattern-matching
+    to a textbook label without showing that the dialectical conditions for the fallacy
+    actually hold often produces an unjustified rejection that itself fails the standards
+    of careful reasoning the labels are meant to enforce.

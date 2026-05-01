@@ -1,0 +1,42 @@
+concept: Meaning-Making
+domain: positive-psychology
+secondary_domains:
+- positive-psychology
+- narrative-psychology
+aliases:
+- sense-making
+- meaning construction
+broader:
+- narrative-cognition
+related:
+- post-traumatic-growth
+- benefit-finding
+- eudaimonia
+- psychological-resilience
+- cognitive-reappraisal
+- transformative-learning
+prerequisites:
+- autobiographical-memory
+confidence: high
+callouts:
+- type: definition
+  title: Meaning-Making
+  body: Meaning-Making is the cognitive and narrative process by which a person integrates
+    discrepant or disruptive experiences — losses, traumas, transitions, ambiguous
+    events — into a coherent autobiographical and conceptual framework, restoring
+    a sense of comprehensibility, significance, and purpose that the experience had
+    threatened.
+- type: key-claim
+  title: Key claim about Meaning-Making
+  body: 'Meaning-Making operates on two distinct levels that the literature too often
+    conflates: situational meaning (the appraisal of a particular event) and global
+    meaning (the broader belief and goal system into which it is assimilated), and
+    successful adaptation typically requires updating one or both rather than asserting
+    the unchanged validity of either.'
+- type: warning
+  title: Common pitfall regarding Meaning-Making
+  body: Meaning-Making is sometimes treated as inherently restorative, but forced
+    or premature Meaning-Making — particularly the imposition of redemptive narratives
+    on losses that have not yet been fully appraised — predicts poorer outcomes than
+    acknowledged disruption, so the timing and authenticity of the process matter
+    at least as much as its occurrence.

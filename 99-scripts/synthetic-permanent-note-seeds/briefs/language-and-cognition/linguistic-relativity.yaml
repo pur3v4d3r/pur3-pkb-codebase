@@ -1,0 +1,45 @@
+concept: Linguistic Relativity
+domain: cognitive-science
+secondary_domains:
+- linguistics
+- cognitive-science
+aliases:
+- Sapir-Whorf hypothesis
+- Whorfianism
+broader:
+- linguistics
+related:
+- sapir-whorf-hypothesis
+- universal-grammar
+- language-acquisition
+- conceptual-metaphor-theory
+- embodied-cognition
+- cross-cultural-cognition
+prerequisites:
+- linguistics
+confidence: high
+callouts:
+- type: definition
+  title: Linguistic Relativity
+  body: Linguistic Relativity is the hypothesis that the structure of a language influences
+    the cognitive processes of its speakers — strong versions claiming language determines
+    thought, weak versions claiming it shapes attention, categorization, or memory
+    in measurable but bounded ways — historically associated with Sapir and Whorf
+    and revived in contemporary form by experimental work on color, space, time, and
+    grammatical-gender effects.
+- type: key-claim
+  title: Key claim about Linguistic Relativity
+  body: 'Linguistic Relativity in its contemporary empirical form is well supported
+    in the weak version: language influences which features speakers attend to, how
+    easily certain distinctions are made under cognitive load, and which memory patterns
+    are produced under specific task conditions, but the strong determinist version
+    — that thought is bounded by language — is not supported by the cross-linguistic
+    cognitive evidence and has few defenders among working linguists.'
+- type: warning
+  title: Common pitfall regarding Linguistic Relativity
+  body: Linguistic Relativity is regularly cited in popular contexts in its strong
+    determinist form (a language "lacks the concept of X, so its speakers cannot think
+    it") but the empirical literature consistently finds that speakers of languages
+    without lexicalized expressions for a concept can nevertheless reason about it
+    competently when given the experimental conditions to do so; the strong form persists
+    in popular discourse despite being out of step with the field.

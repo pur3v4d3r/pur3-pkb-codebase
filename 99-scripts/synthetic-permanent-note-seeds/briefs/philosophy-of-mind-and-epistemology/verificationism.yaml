@@ -1,0 +1,42 @@
+concept: Verificationism
+domain: philosophy
+secondary_domains:
+- philosophy-of-science
+- philosophy-of-language
+aliases:
+- verification principle
+- logical positivism's criterion
+broader:
+- epistemology
+related:
+- philosophy-of-science
+- scientific-realism
+- epistemology
+- fallibilism
+- pragmatism
+- falsificationism
+prerequisites:
+- epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Verificationism
+  body: Verificationism is the family of theses, central to the logical positivism
+    of the Vienna Circle, holding that the meaning of a non-tautological sentence
+    consists in (or is exhausted by) the conditions of its empirical verification
+    — and accordingly that statements that admit no possible empirical verification
+    are literally meaningless rather than merely unsupported.
+- type: key-claim
+  title: Key claim about Verificationism
+  body: Verificationism in its strong form is widely regarded as self-defeating because
+    the verification principle itself does not appear to be empirically verifiable,
+    and Quine's "Two Dogmas of Empiricism" further undermined the analytic-synthetic
+    distinction on which the program relied; this combination drove the canonical
+    mid-twentieth-century retreat from logical positivism.
+- type: warning
+  title: Common pitfall regarding Verificationism
+  body: Verificationism is often dismissed as historical curiosity, but weak verificationist
+    intuitions remain operative in contemporary philosophy of science (as testability
+    constraints) and in scientific practice itself; assuming the position is dead
+    conceals the fact that "if you cannot say what would count as evidence against
+    it, it is not science" is a Verificationist principle in plain dress.

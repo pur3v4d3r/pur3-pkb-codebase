@@ -1,0 +1,43 @@
+concept: Classical Conditioning
+domain: neuroscience
+secondary_domains:
+- learning-theory
+- behavioral-neuroscience
+aliases:
+- Pavlovian conditioning
+- respondent conditioning
+broader:
+- behaviorism
+related:
+- behaviorism
+- observational-learning
+- prediction-error
+- dopaminergic-reward-system
+- amygdala-and-learning
+- temporal-difference-learning
+prerequisites:
+- behaviorism
+confidence: high
+callouts:
+- type: definition
+  title: Classical Conditioning
+  body: Classical Conditioning is the form of associative learning, characterized
+    by Pavlov, in which a previously neutral stimulus comes through repeated pairing
+    with a biologically significant unconditioned stimulus to elicit a conditioned
+    response that anticipates the unconditioned outcome — the foundational paradigm
+    for predictive associative learning.
+- type: key-claim
+  title: Key claim about Classical Conditioning
+  body: 'Classical Conditioning was decisively reframed by Rescorla and Wagner as
+    prediction-error-driven rather than pairing-driven: the conditioned response strengthens
+    only when the unconditioned stimulus is surprising given the current set of conditioned
+    cues, which is why blocking, overshadowing, and contingency effects appear and
+    why the temporal-difference learning algorithm matches dopaminergic prediction-error
+    signals in vivo.'
+- type: warning
+  title: Common pitfall regarding Classical Conditioning
+  body: Classical Conditioning is often invoked to explain any acquired emotional
+    or autonomic response, but the diagnostic features (CS-US pairing, response transfer,
+    extinction, blocking) impose real constraints; labeling a learned reaction "conditioned"
+    without those features in evidence reduces the term to a synonym for "learned,"
+    which makes it explanatorily empty.

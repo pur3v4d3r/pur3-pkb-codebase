@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "social-psychology-anchors",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-02-social-psychology.md",
+    "notes": "Batch 2 of the May-2026 graph-densification run. Closes the social-psychology\ncluster: the discipline anchor itself plus the influence/identity/development\nsub-concepts that other notes already reference but cannot point to."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/social-psychology-anchors",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-social-psychology-anchors"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Social Psychology",
+      "kebab": "social-psychology",
+      "brief_path": "briefs/social-psychology-anchors/social-psychology.yaml",
+      "expected_seed_filename": "social-psychology-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Social Influence",
+      "kebab": "social-influence",
+      "brief_path": "briefs/social-psychology-anchors/social-influence.yaml",
+      "expected_seed_filename": "social-influence-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Prejudice",
+      "kebab": "prejudice",
+      "brief_path": "briefs/social-psychology-anchors/prejudice.yaml",
+      "expected_seed_filename": "prejudice-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Pluralistic Ignorance",
+      "kebab": "pluralistic-ignorance",
+      "brief_path": "briefs/social-psychology-anchors/pluralistic-ignorance.yaml",
+      "expected_seed_filename": "pluralistic-ignorance-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Self-Categorization Theory",
+      "kebab": "self-categorization-theory",
+      "brief_path": "briefs/social-psychology-anchors/self-categorization-theory.yaml",
+      "expected_seed_filename": "self-categorization-theory-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Social Learning Theory",
+      "kebab": "social-learning-theory",
+      "brief_path": "briefs/social-psychology-anchors/social-learning-theory.yaml",
+      "expected_seed_filename": "social-learning-theory-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Self-Construal",
+      "kebab": "self-construal",
+      "brief_path": "briefs/social-psychology-anchors/self-construal.yaml",
+      "expected_seed_filename": "self-construal-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Secure Attachment",
+      "kebab": "secure-attachment",
+      "brief_path": "briefs/social-psychology-anchors/secure-attachment.yaml",
+      "expected_seed_filename": "secure-attachment-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Organizational Psychology",
+      "kebab": "organizational-psychology",
+      "brief_path": "briefs/social-psychology-anchors/organizational-psychology.yaml",
+      "expected_seed_filename": "organizational-psychology-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Teacher Development",
+      "kebab": "teacher-development",
+      "brief_path": "briefs/social-psychology-anchors/teacher-development.yaml",
+      "expected_seed_filename": "teacher-development-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

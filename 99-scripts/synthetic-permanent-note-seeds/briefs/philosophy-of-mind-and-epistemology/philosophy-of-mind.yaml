@@ -1,0 +1,48 @@
+concept: Philosophy of Mind
+domain: philosophy
+secondary_domains:
+- cognitive-science
+- metaphysics
+aliases:
+- philosophy of psychology
+broader:
+- philosophy
+narrower:
+- physicalism
+- eliminative-materialism
+- functionalism
+- mind-body-problem
+related:
+- consciousness-theories
+- qualia
+- intentionality
+- mental-causation
+- computational-theory-of-mind
+- extended-mind-thesis
+- embodied-cognition
+prerequisites:
+- philosophy
+confidence: high
+callouts:
+- type: definition
+  title: Philosophy of Mind
+  body: Philosophy of Mind is the philosophical investigation of the nature of mental
+    phenomena and their relationship to the physical world — covering the mind-body
+    problem, the metaphysics of consciousness, intentionality, mental causation, and
+    the ontological status of psychological kinds — and the discipline that frames
+    the conceptual problems empirical cognitive science attempts to operationalize.
+- type: key-claim
+  title: Key claim about Philosophy of Mind
+  body: Philosophy of Mind in its modern phase has been organized around a small number
+    of cross-cutting positions on the mind-body problem (dualism, identity theory,
+    functionalism, eliminativism, property dualism, panpsychism), and the empirical
+    sciences of mind inherit substantive philosophical commitments from whichever
+    position frames their explanatory ambitions, even when those commitments are not
+    made explicit.
+- type: warning
+  title: Common pitfall regarding Philosophy of Mind
+  body: Philosophy of Mind is sometimes dismissed by working scientists as armchair
+    speculation, but every empirical claim about cognition presupposes answers to
+    philosophical questions about what counts as a mental state and what would count
+    as explaining one; the question is not whether to do Philosophy of Mind but whether
+    to do it deliberately or inherit it tacitly.

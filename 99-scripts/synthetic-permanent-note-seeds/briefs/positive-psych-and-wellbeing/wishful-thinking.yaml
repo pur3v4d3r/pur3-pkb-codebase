@@ -1,0 +1,42 @@
+concept: Wishful Thinking
+domain: positive-psychology
+secondary_domains:
+- decision-science
+- social-cognition
+aliases:
+- desirability bias
+- wishful belief
+broader:
+- motivated-reasoning
+related:
+- optimism
+- confirmation-bias
+- motivated-reasoning
+- self-serving-bias
+- self-deception
+- hope-theory
+prerequisites:
+- motivated-reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Wishful Thinking
+  body: Wishful Thinking is the cognitive bias in which the perceived likelihood of
+    an outcome is shifted toward the outcome a person desires, independent of the
+    evidence — a desirability-driven distortion of probability judgment distinct from
+    optimism (which is a future-expectancy disposition) and from confirmation bias
+    (which is a search and weighting bias on evidence).
+- type: key-claim
+  title: Key claim about Wishful Thinking
+  body: Wishful Thinking is robust across forecasting domains as long as the desired
+    outcome is sufficiently personally consequential, and it is amplified rather than
+    corrected by greater domain expertise when accountability for the prediction is
+    low — indicating that the bias targets the gap between desire and accountability
+    rather than the gap between desire and information.
+- type: warning
+  title: Common pitfall regarding Wishful Thinking
+  body: Wishful Thinking is often diagnosed retrospectively in any failed prediction
+    that turned out to favor the predictor's interest, but the methodologically sound
+    diagnosis requires comparing the predictor's stated probability to a calibrated
+    reference class; without that comparison, the label collapses into the post-hoc
+    complaint that the person was hopeful and wrong.

@@ -1,0 +1,44 @@
+concept: Design-Based Research
+domain: research-methods
+secondary_domains:
+- educational-research
+- learning-science
+aliases:
+- DBR
+- design experiments
+broader:
+- educational-research-methods
+related:
+- research-methods-in-education
+- design-experiments
+- action-research
+- formative-evaluation
+- instructional-design
+- learning-science
+prerequisites:
+- educational-research-methods
+confidence: high
+callouts:
+- type: definition
+  title: Design-Based Research
+  body: Design-Based Research is the educational-research methodology that iteratively
+    designs, implements, analyzes, and redesigns interventions in authentic learning
+    settings with the dual goal of improving the intervention and refining the underlying
+    theoretical principles — distinguished from controlled experimentation by its
+    commitment to ecological validity and from action research by its theory-development
+    goal.
+- type: key-claim
+  title: Key claim about Design-Based Research
+  body: 'Design-Based Research''s distinctive epistemic contribution is the simultaneous
+    production of usable interventions and middle-range theoretical claims about the
+    mechanisms that make interventions work in context: the iterative redesign cycle
+    is a vehicle for theoretical inference, with each cycle''s outcomes constraining
+    the next cycle''s design hypothesis in a way conventional experimental designs
+    cannot replicate.'
+- type: warning
+  title: Common pitfall regarding Design-Based Research
+  body: 'Design-Based Research is often criticized as undisciplined because it lacks
+    the control-group apparatus of randomized trials, but the critique misidentifies
+    the methodology''s claims: Design-Based Research does not aspire to the causal-inference
+    warrants of RCTs and should be evaluated on its iterative-theory-refinement warrants,
+    while the converse exchange of standards in the other direction is equally inappropriate.'

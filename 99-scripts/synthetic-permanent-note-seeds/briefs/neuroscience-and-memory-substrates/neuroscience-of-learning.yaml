@@ -1,0 +1,42 @@
+concept: Neuroscience of Learning
+domain: neuroscience
+secondary_domains:
+- educational-neuroscience
+- cognitive-neuroscience
+aliases:
+- educational neuroscience
+- mind-brain-and-education
+broader:
+- neuroscience
+related:
+- synaptic-plasticity
+- memory-consolidation
+- neuroplasticity
+- sleep-and-memory-consolidation
+- dopamine-and-learning
+- prediction-error
+prerequisites:
+- neuroscience
+confidence: high
+callouts:
+- type: definition
+  title: Neuroscience of Learning
+  body: The Neuroscience of Learning is the sub-field that maps psychological learning
+    phenomena — encoding, retrieval, consolidation, transfer, error correction — onto
+    neural mechanisms, integrating cellular plasticity, systems-level memory consolidation,
+    neuromodulatory dynamics, and large-scale network reconfiguration into a multi-level
+    account of how experience reshapes the brain.
+- type: key-claim
+  title: Key claim about Neuroscience of Learning
+  body: The Neuroscience of Learning has converged on a small number of cross-paradigm
+    principles — sleep-dependent consolidation, prediction-error-driven plasticity,
+    hippocampal-neocortical replay, neuromodulator-gated learning rates — that are
+    robust enough to inform educational design while being far too general to dictate
+    it without behavioral validation.
+- type: warning
+  title: Common pitfall regarding Neuroscience of Learning
+  body: The Neuroscience of Learning is the most aggressively over-marketed sub-discipline
+    in education, generating "brain-based learning" prescriptions that are either
+    trivially true (use multimodal cues), overstated (right-brain learners), or unfalsifiable;
+    treating any educational claim as authorized merely by a neuroscience citation
+    is the failure mode the field has documented in its own literature.

@@ -1,0 +1,42 @@
+concept: Testimonial Injustice
+domain: critical-thinking
+secondary_domains:
+- epistemic-injustice
+- social-epistemology
+aliases:
+- testimonial credibility deficit
+broader:
+- epistemic-injustice
+related:
+- epistemic-injustice
+- testimony
+- social-epistemology
+- prejudice
+- implicit-bias
+- principle-of-charity
+prerequisites:
+- epistemic-injustice
+confidence: high
+callouts:
+- type: definition
+  title: Testimonial Injustice
+  body: Testimonial Injustice is the epistemic-injustice form, named by Miranda Fricker,
+    in which a hearer assigns a speaker less credibility than the speaker's testimony
+    deserves due to identity-prejudice — racial, gendered, class-based, or other —
+    about the social group to which the speaker is perceived to belong, with the consequence
+    that the speaker is wronged specifically as a knower.
+- type: key-claim
+  title: Key claim about Testimonial Injustice
+  body: 'Testimonial Injustice is wrong on two distinct registers that the analysis
+    must keep separate: it is an ethical wrong to the speaker (treating them as less
+    credible than they are) and an epistemic wrong to the hearer and to the wider
+    epistemic community (excluding warranted information from the credible-testimony
+    pool), and remedies that address only one register leave the other untouched.'
+- type: warning
+  title: Common pitfall regarding Testimonial Injustice
+  body: Testimonial Injustice is sometimes invoked to license the inverse error —
+    granting credibility on identity grounds rather than evidential grounds — but
+    the corrective virtue Fricker identifies is calibration of credibility against
+    actual reliability, not over-correction in the opposite direction; treating any
+    credibility deficit as Testimonial Injustice without showing prejudice as its
+    cause inflates the construct beyond its argumentative warrant.

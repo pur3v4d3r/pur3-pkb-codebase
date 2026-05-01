@@ -1,0 +1,50 @@
+concept: AI-Assisted Development Workflows
+domain: software-engineering
+secondary_domains:
+- software-engineering
+- ai-assisted-coding
+aliases:
+- AI-assisted coding
+- copilot workflows
+broader:
+- software-engineering
+narrower:
+- chat-driven-development
+- agent-mode-coding
+- prompt-engineered-refactoring
+related:
+- github-copilot
+- code-editor
+- llm-coding-assistants
+- prompt-engineering
+- code-review
+- test-driven-development
+- debugging
+prerequisites:
+- software-engineering
+confidence: high
+callouts:
+- type: definition
+  title: AI-Assisted Development Workflows
+  body: AI-Assisted Development Workflows are software-engineering practices that
+    integrate large language model coding assistants — completion engines, chat interfaces,
+    and autonomous agents — into the developer's edit-test-commit cycle, restructuring
+    how requirements are translated into code, how tests are generated, and how unfamiliar
+    code is read and modified.
+- type: key-claim
+  title: Key claim about AI-Assisted Development Workflows
+  body: 'AI-Assisted Development Workflows shift the developer''s bottleneck from
+    code production to specification, review, and verification: tasks that were previously
+    typing-bound become prompting-and-checking bound, and the engineers who realize
+    the largest productivity gains are those who treat the assistant as an unreliable
+    fast collaborator requiring disciplined verification rather than as an oracle
+    whose output can be merged unread.'
+- type: warning
+  title: Common pitfall regarding AI-Assisted Development Workflows
+  body: AI-Assisted Development Workflows introduce a distinctive failure mode — confidently
+    incorrect output that is syntactically plausible and locally coherent — that traditional
+    code-review heuristics catch poorly because the output lacks the surface markers
+    (typos, awkward phrasing, missing imports) that flagged human-introduced errors
+    of the same severity; teams that adopt the tools without strengthening verification
+    and test discipline accumulate latent defects faster than the productivity gains
+    compensate for.

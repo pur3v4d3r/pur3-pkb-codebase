@@ -1,0 +1,42 @@
+concept: Scientific Realism
+domain: philosophy
+secondary_domains:
+- philosophy-of-science
+- epistemology
+aliases:
+- realism about science
+broader:
+- epistemology
+related:
+- philosophy-of-science
+- underdetermination
+- theory-ladenness-of-observation
+- correspondence-theory-of-truth
+- fallibilism
+- inference-to-the-best-explanation
+prerequisites:
+- philosophy-of-science
+confidence: high
+callouts:
+- type: definition
+  title: Scientific Realism
+  body: Scientific Realism is the philosophical thesis that mature, predictively successful
+    scientific theories should be interpreted as approximately true descriptions of
+    an observer-independent reality, including the unobservable entities they posit
+    — contrasted with anti-realist positions (instrumentalism, constructive empiricism)
+    that treat theories as predictive instruments without ontological commitment to
+    their unobservable posits.
+- type: key-claim
+  title: Key claim about Scientific Realism
+  body: Scientific Realism is most strongly defended by the no-miracles argument —
+    the predictive and technological success of mature science would be inexplicable
+    if its theories were not at least approximately tracking real structure — and
+    most strongly challenged by the pessimistic meta-induction from the discarded
+    ontologies of past successful theories.
+- type: warning
+  title: Common pitfall regarding Scientific Realism
+  body: 'Scientific Realism is often presented as the default common-sense position,
+    but contemporary versions are highly qualified: structural realism, entity realism,
+    and selective realism each retreat from full-theoretic realism in response to
+    the historical record, and unrestricted Scientific Realism is a position few sophisticated
+    philosophers of science currently hold.'

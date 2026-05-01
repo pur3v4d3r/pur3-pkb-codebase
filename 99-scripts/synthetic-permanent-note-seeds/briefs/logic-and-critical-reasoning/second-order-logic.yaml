@@ -1,0 +1,41 @@
+concept: Second-Order Logic
+domain: critical-thinking
+secondary_domains:
+- mathematical-logic
+- philosophy-of-logic
+aliases:
+- SOL
+broader:
+- formal-logic
+related:
+- formal-logic
+- predicate-logic
+- propositional-logic
+- modal-logic
+- philosophy-of-logic
+prerequisites:
+- predicate-logic
+confidence: high
+callouts:
+- type: definition
+  title: Second-Order Logic
+  body: Second-Order Logic is the formal logical system that extends first-order predicate
+    logic by allowing quantification over predicates and relations as well as over
+    individuals — permitting direct expression of mathematical concepts (such as the
+    categorical characterization of the natural numbers) that first-order logic can
+    capture only indirectly via axiom schemas.
+- type: key-claim
+  title: Key claim about Second-Order Logic
+  body: Second-Order Logic gains substantial expressive power over first-order logic
+    but loses the metalogical properties (completeness with respect to a recursively
+    axiomatizable proof system, compactness, Lowenheim-Skolem) that make first-order
+    logic the standard substrate for foundations of mathematics — a trade-off Quine
+    famously described as "set theory in sheep's clothing."
+- type: warning
+  title: Common pitfall regarding Second-Order Logic
+  body: Second-Order Logic is often invoked to argue that first-order logic is expressively
+    impoverished, but the comparison depends on whether one uses the standard semantics
+    (which preserves expressive power but loses completeness) or Henkin semantics
+    (which restores completeness but reduces second-order logic's distinctive strength);
+    presenting the trade-off without naming the semantics conceals where the cost
+    is paid.

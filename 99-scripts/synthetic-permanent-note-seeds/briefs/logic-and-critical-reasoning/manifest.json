@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "logic-and-critical-reasoning",
+    "date": "2026-05-01",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-01-batch-05-logic-and-critical-reasoning.md",
+    "notes": "Batch 5 — closes ghost links in the logic, fallacy, and critical-reasoning\ncluster: the genus terms (informal-fallacy, informal-logic), specific\nfallacies and inquiry techniques, and epistemic-injustice anchors that\nthe existing critical-thinking notes already reference."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/logic-and-critical-reasoning",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-01-logic-and-critical-reasoning"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Informal Fallacy",
+      "kebab": "informal-fallacy",
+      "brief_path": "briefs/logic-and-critical-reasoning/informal-fallacy.yaml",
+      "expected_seed_filename": "informal-fallacy-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Informal Logic",
+      "kebab": "informal-logic",
+      "brief_path": "briefs/logic-and-critical-reasoning/informal-logic.yaml",
+      "expected_seed_filename": "informal-logic-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Tu Quoque",
+      "kebab": "tu-quoque",
+      "brief_path": "briefs/logic-and-critical-reasoning/tu-quoque.yaml",
+      "expected_seed_filename": "tu-quoque-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Strawman Argument",
+      "kebab": "strawman-argument",
+      "brief_path": "briefs/logic-and-critical-reasoning/strawman-argument.yaml",
+      "expected_seed_filename": "strawman-argument-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Second-Order Logic",
+      "kebab": "second-order-logic",
+      "brief_path": "briefs/logic-and-critical-reasoning/second-order-logic.yaml",
+      "expected_seed_filename": "second-order-logic-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Temporal Logic",
+      "kebab": "temporal-logic",
+      "brief_path": "briefs/logic-and-critical-reasoning/temporal-logic.yaml",
+      "expected_seed_filename": "temporal-logic-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Socratic Questioning",
+      "kebab": "socratic-questioning",
+      "brief_path": "briefs/logic-and-critical-reasoning/socratic-questioning.yaml",
+      "expected_seed_filename": "socratic-questioning-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Source Evaluation",
+      "kebab": "source-evaluation",
+      "brief_path": "briefs/logic-and-critical-reasoning/source-evaluation.yaml",
+      "expected_seed_filename": "source-evaluation-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Testimonial Injustice",
+      "kebab": "testimonial-injustice",
+      "brief_path": "briefs/logic-and-critical-reasoning/testimonial-injustice.yaml",
+      "expected_seed_filename": "testimonial-injustice-synthetic-seed-2026-05-01_extracted.json"
+    },
+    {
+      "term": "Testimony",
+      "kebab": "testimony",
+      "brief_path": "briefs/logic-and-critical-reasoning/testimony.yaml",
+      "expected_seed_filename": "testimony-synthetic-seed-2026-05-01_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

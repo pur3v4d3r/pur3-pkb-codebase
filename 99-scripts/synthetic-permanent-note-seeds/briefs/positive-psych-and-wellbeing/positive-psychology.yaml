@@ -1,0 +1,45 @@
+concept: Positive Psychology
+domain: positive-psychology
+secondary_domains:
+- psychology
+- well-being
+aliases:
+- Seligman positive psychology
+broader:
+- psychology
+narrower:
+- perma-model
+- broaden-and-build-theory
+- character-strengths
+related:
+- eudaimonia
+- psychological-flourishing
+- hope-theory
+- learned-optimism
+- savoring
+- post-traumatic-growth
+- benefit-finding
+prerequisites:
+- humanistic-psychology
+confidence: high
+callouts:
+- type: definition
+  title: Positive Psychology
+  body: Positive Psychology is the scientific study of the conditions and processes
+    that contribute to human flourishing — the strengths, virtues, positive emotions,
+    engaged states, meaningful relationships, and accomplishment patterns that allow
+    individuals and communities to thrive — formally inaugurated as a sub-discipline
+    by Martin Seligman's 1998 American Psychological Association presidential address.
+- type: key-claim
+  title: Key claim about Positive Psychology
+  body: Positive Psychology insists that the absence of pathology is not the same
+    as the presence of well-being, and that mapping what makes life worth living requires
+    its own empirical program rather than being treated as the residual category left
+    over once disease has been removed.
+- type: warning
+  title: Common pitfall regarding Positive Psychology
+  body: Positive Psychology is frequently confused with the popular self-help genre
+    or with a normative demand to "stay positive"; the empirical program explicitly
+    rejects forced positivity, takes negative emotions as functionally important,
+    and warns that mandated cheerfulness is one of the well-documented routes to need-frustration
+    and burnout.

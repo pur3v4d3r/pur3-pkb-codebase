@@ -1,0 +1,44 @@
+concept: Building a Second Brain
+domain: knowledge-management
+secondary_domains:
+- pkm
+- productivity
+aliases:
+- BASB
+- second-brain methodology
+broader:
+- knowledge-management
+related:
+- second-brain
+- para-method
+- code-method
+- evergreen-notes
+- zettelkasten-method
+- gtd-method
+- knowledge-management
+prerequisites:
+- knowledge-management
+confidence: high
+callouts:
+- type: definition
+  title: Building a Second Brain
+  body: Building a Second Brain is Tiago Forte's personal-knowledge-management methodology
+    built around the PARA (Projects, Areas, Resources, Archive) organizational scheme
+    and the CODE (Capture, Organize, Distill, Express) workflow, designed for project-driven
+    knowledge workers who need to convert ongoing information capture into deliverable
+    creative output.
+- type: key-claim
+  title: Key claim about Building a Second Brain
+  body: 'Building a Second Brain differs from Zettelkasten on a load-bearing dimension:
+    it organizes by actionability for current and upcoming projects rather than by
+    conceptual structure, which makes it stronger for output-oriented workflows where
+    notes feed into specific deliverables and weaker for the long-horizon emergence
+    of conceptual structure that the Zettelkasten model is optimized for.'
+- type: warning
+  title: Common pitfall regarding Building a Second Brain
+  body: 'Building a Second Brain and Zettelkasten are often combined into a single
+    hybrid system, but their organizing principles work in tension: PARA''s project-actionability
+    ordering rotates content as projects complete, while Zettelkasten depends on stable
+    conceptual addresses that persist across project lifecycles; hybrid systems must
+    explicitly choose which principle owns which content class or accumulate friction
+    at the boundary.'
