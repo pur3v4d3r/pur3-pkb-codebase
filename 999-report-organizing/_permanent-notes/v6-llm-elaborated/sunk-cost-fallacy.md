@@ -1,13 +1,12 @@
 ---
-title: "Sunk Cost Fallacy"
+title: Sunk Cost Fallacy
 aliases:
-  - "Sunk Cost Fallacy"
-  - "sunk cost effect"
-  - "escalation of commitment"
+  - Sunk Cost Fallacy
+  - sunk cost effect
+  - escalation of commitment
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - behavioral-economics
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "sunk-cost-fallacy-synthetic-seed-2026-04-25"
+  - sunk-cost-fallacy-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: ""
-
+depth-level: enhanced
+parent-concept: ''
 related:
-  - "[[cognitive-bias]]"
-  - "[[anchoring-bias]]"
-  - "[[framing-effect]]"
+  - '[[cognitive-bias]]'
+  - '[[anchoring-bias]]'
+  - '[[framing-effect]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[cognitive-bias]]"
+  - '[[cognitive-bias]]'
 contrasts-with:
-  - "[[anchoring-bias]]"
-  - "[[framing-effect]]"
+  - '[[anchoring-bias]]'
+  - '[[framing-effect]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Sunk Cost Fallacy
 
@@ -89,6 +88,9 @@ The Sunk Cost Fallacy can be observed in various domains. In business, a company
 
 Empirical studies have shown that the Sunk Cost Fallacy is prevalent across different contexts. For instance, a study by Bazerman and Tenbrunsel (2011) found that participants were more likely to continue investing in a failing project when they had already invested significant resources, even if it was clear that continuing would not yield positive outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Sunk Cost Fallacy is not merely a psychological quirk but has significant economic implications, influencing market dynamics and corporate strategy. Economists argue that sunk costs should be disregarded in rational decision-making because they cannot be recovered. However, the fallacy often leads to inefficient resource allocation as companies persist with projects or investments that no longer align with strategic goals or market conditions.
+
 ## Mechanism
 
 The Sunk Cost Fallacy is driven by two primary psychological mechanisms: waste aversion and consistency intuitions. Waste aversion refers to the discomfort individuals feel when they perceive their past investments as wasted, leading them to continue investing in hopes of recovering those losses. Consistency intuitions involve a desire to maintain coherence with one's past decisions, even if new information suggests that continuing is not rational.
@@ -104,6 +106,11 @@ The Sunk Cost Fallacy is driven by two primary psychological mechanisms: waste a
 > [!example] **Application 3 — Personal life**
 > In personal relationships, individuals might stay in unsatisfactory marriages or friendships due to past investments in emotional and financial capital. For example, someone might continue a relationship despite growing dissatisfaction, believing that giving up would be wasteful of the time and effort already invested.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Project Management**
+> In project management, the Sunk Cost Fallacy can lead teams to continue working on projects that are unlikely to succeed. For instance, a software development team might invest additional resources into fixing bugs in an outdated system rather than pivoting towards more innovative solutions. This not only wastes time and money but also diverts attention from potentially more profitable ventures.
+
 ## Key Distinctions
 
 > [!key-distinction] **Sunk Cost Fallacy vs Anchoring Bias**
@@ -112,9 +119,25 @@ The Sunk Cost Fallacy is driven by two primary psychological mechanisms: waste a
 > [!key-distinction] **Sunk Cost Fallacy vs Framing Effect**
 > The Sunk Cost Fallacy differs from the framing effect, which influences decision-making based on how problems are presented. While both biases affect judgment, the Sunk Cost Fallacy is specifically about past investments driving continued commitment, whereas the framing effect can influence decisions regardless of whether costs or benefits are emphasized.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of evidence and logical reasoning, whereas reactive thinking is immediate and driven by emotional or intuitive responses. The Sunk Cost Fallacy often manifests through reactive thinking where individuals feel compelled to continue an investment due to past efforts without reflecting on the current situation's merits.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that sunk costs are recoverable expenses.
+>
+> Sunk costs refer to expenditures that have already been made and cannot be recovered. The misconception arises because individuals often feel a psychological need to justify past investments, leading them to continue investing in projects despite clear evidence of their inefficacy.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller, a cognitive psychologist, first introduced the concept of the Sunk Cost Fallacy in his work on cognitive load theory. He highlighted how past investments can lead to irrational continuation, emphasizing the importance of considering only marginal future costs and benefits.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Daniel Kahneman** — Kahneman's work on cognitive biases, including the Sunk Cost Fallacy, has been pivotal in understanding how people make decisions under uncertainty. His research underscores the importance of recognizing and mitigating these biases to improve decision-making processes.
 
 ## Open Questions
 
@@ -128,11 +151,21 @@ The Sunk Cost Fallacy is driven by two primary psychological mechanisms: waste a
 >
 > *What would resolve it:* To effectively debias individuals, interventions need to address the underlying intuitions about waste-aversion and consistency. Evidence from psychological experiments would help identify effective strategies for reframing choices as fresh decisions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> Why do individuals often fail to recognize sunk costs as non-recoverable?
+>
+> *What would resolve it:* Understanding the psychological mechanisms behind waste aversion and consistency intuitions can provide insights into why people struggle to disengage from sunk cost thinking. Research in cognitive psychology could further elucidate these processes.
+
 ## Synthesis
 
 The Sunk Cost Fallacy is a critical concept in cognitive science because it highlights how past investments can distort rational decision-making. By understanding this fallacy, individuals and organizations can make more informed choices that are not driven by sunk costs but rather by future potential. This has implications across various domains, from business strategy to personal relationships, where the ability to recognize and overcome the Sunk Cost Fallacy can lead to better outcomes.
 
 The Sunk Cost Fallacy also intersects with other cognitive biases like anchoring bias and framing effect, emphasizing the complex interplay of psychological mechanisms in decision-making. By studying this fallacy, researchers can gain insights into broader issues of rationality and judgment, contributing to fields such as economics, psychology, and management.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By recognizing the Sunk Cost Fallacy, individuals and organizations can adopt more rational decision-making strategies that focus on future potential rather than past investments. This shift is crucial for effective resource allocation and strategic planning across various domains including business, education, and personal finance.
 
 ## Connections & Context
 
@@ -141,3 +174,10 @@ The Sunk Cost Fallacy also intersects with other cognitive biases like anchoring
 **Contrasts with:** [[anchoring-bias]] · [[framing-effect]]
 
 **Source:** [[sunk-cost-fallacy-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[framing-effect]]** — *contrasts-with*
+> While the Sunk Cost Fallacy involves past investments driving current decisions, the framing effect is about how information presentation influences choices. The contrast highlights that decision-making can be skewed by both historical context and how options are presented at the moment of choice.

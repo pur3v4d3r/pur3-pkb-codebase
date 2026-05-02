@@ -1,12 +1,11 @@
 ---
-title: "Synaptic Plasticity"
+title: Synaptic Plasticity
 aliases:
-  - "Synaptic Plasticity"
-  - "neural plasticity at synapses"
+  - Synaptic Plasticity
+  - neural plasticity at synapses
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - learning-and-memory
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "synaptic-plasticity-synthetic-seed-2026-05-01"
+  - synaptic-plasticity-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Neuroscience"
-
+depth-level: enhanced
+parent-concept: Neuroscience
 related:
-  - "[[Neuroplasticity]]"
-  - "[[Memory Consolidation]]"
-  - "[[Hebbian Rule]]"
+  - '[[Neuroplasticity]]'
+  - '[[Memory Consolidation]]'
+  - '[[Hebbian Rule]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Neuroplasticity]]"
+  - '[[Neuroplasticity]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Memory Consolidation]]"
+  - '[[Memory Consolidation]]'
 formalizes:
-  - "[[Hebbian Rule]]"
+  - '[[Hebbian Rule]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Synaptic Plasticity
 
@@ -87,6 +86,9 @@ Theoretical roots of Synaptic Plasticity trace back to early neuroscientists lik
 
 Historically, key discoveries such as the identification of LTP by Tim Bliss and Terje Lømo laid the groundwork for understanding how synapses can be modified. These findings have been further refined through subsequent research, including the elucidation of molecular mechanisms that underlie these changes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Recent studies have highlighted the role of synaptic plasticity in not just learning and memory, but also in emotional regulation and mental health disorders such as depression and anxiety. For instance, alterations in synaptic strength within limbic circuits can lead to changes in mood and behavior, underscoring the bidirectional relationship between neural function and psychological state.
+
 ## Mechanism
 
 The molecular processes underlying LTP involve the activation of NMDA receptors and calcium influx, leading to an increase in synaptic strength. This is followed by the insertion of AMPA receptors into the postsynaptic membrane, enhancing the efficiency of signal transmission. LTD, on the other hand, involves the removal or internalization of AMPA receptors, reducing synaptic efficacy.
@@ -102,10 +104,28 @@ The molecular processes underlying LTP involve the activation of NMDA receptors 
 > [!example] **Application 3 — Memory consolidation**
 > During memory consolidation, Synaptic Plasticity plays a crucial role in transferring information from short-term to long-term storage. Techniques such as sleep and physical exercise are believed to enhance this process by promoting synaptic strengthening during critical periods.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance synaptic plasticity by promoting LTP through repeated, spaced activation of relevant neural pathways. This approach contrasts with traditional cramming methods that may lead to LTD due to overloading the system without sufficient rest periods for consolidation.
+
 ## Key Distinctions
 
 > [!key-distinction] **Synaptic vs Non-synaptic plasticity**
 > While Synaptic Plasticity specifically refers to changes at synapses, non-synaptic plasticity encompasses modifications in the neuron's intrinsic properties or cellular processes. Distinguishing between these forms is important for understanding the full spectrum of neural adaptability.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> While maintenance rehearsal involves simple repetition of information, elaborative rehearsal engages in deeper processing by linking new information to existing knowledge. Synaptic plasticity is more robustly supported through elaborative rehearsal as it leads to the formation of richer neural networks compared to mere repetition.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think synaptic plasticity only occurs during learning and memory tasks.
+>
+> Synaptic plasticity is a continuous process that can be influenced by various activities beyond explicit learning. For example, engaging in physical exercise has been shown to enhance synaptic plasticity through neurotrophic factors like BDNF (Brain-Derived Neurotrophic Factor), which supports neuronal health and growth.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ The molecular processes underlying LTP involve the activation of NMDA receptors 
 >
 > *What would resolve it:* Longitudinal studies tracking changes in synaptic plasticity alongside cognitive function over the lifespan would help elucidate this relationship.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does chronic stress affect synaptic plasticity and what are the implications for mental health?
+>
+> *What would resolve it:* Research into the effects of chronic stress on synaptic plasticity could reveal mechanisms that contribute to mood disorders. Understanding these pathways may lead to targeted interventions aimed at restoring healthy levels of synaptic flexibility.
+
 ## Synthesis
 
 Synaptic Plasticity is a cornerstone of neuroscience, underpinning our ability to learn and remember. Its role extends beyond individual neurons to influence broader cognitive functions such as memory consolidation and information processing. By understanding synaptic plasticity, researchers can develop new strategies for enhancing learning and mitigating the effects of neurological disorders.
 
 This concept also intersects with other areas like neuroplasticity in general, where it serves as a specific mechanism. In the context of memory consolidation, synaptic plasticity is essential for transferring information from short-term to long-term storage. Its bidirectional nature makes it particularly intriguing and challenging, prompting ongoing research into its molecular underpinnings.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Synaptic plasticity is not merely a passive response to neural activity but an active process shaped by both intrinsic cellular mechanisms and external environmental factors, making it a dynamic interface between experience and brain function.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ This concept also intersects with other areas like neuroplasticity in general, w
 **Formalizes:** [[Hebbian Rule]]
 
 **Source:** [[synaptic-plasticity-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Memory Consolidation]]** — *applies-to*
+> Synaptic plasticity is a critical mechanism underlying memory consolidation, where the strengthening or weakening of synaptic connections stabilizes new memories. This process ensures that transient neural patterns become more durable representations stored in long-term memory.

@@ -1,13 +1,12 @@
 ---
-title: "Source Curation"
+title: Source Curation
 aliases:
-  - "Source Curation"
-  - "reading-input curation"
-  - "knowledge-source curation"
+  - Source Curation
+  - reading-input curation
+  - knowledge-source curation
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - information-literacy
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "source-curation-synthetic-seed-2026-05-01"
+  - source-curation-synthetic-seed-2026-05-01
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Knowledge Management"
-
+depth-level: enhanced
+parent-concept: Knowledge Management
 related:
-  - "[[Source Evaluation]]"
-  - "[[Signal-to-Noise Ratio]]"
-  - "[[Attention Economy]]"
+  - '[[Source Evaluation]]'
+  - '[[Signal-to-Noise Ratio]]'
+  - '[[Attention Economy]]'
 prerequisites:
-  - "[[Source Evaluation]]"
+  - '[[Source Evaluation]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Signal-to-Noise Ratio]]"
-  - "[[Attention Economy]]"
+  - '[[Signal-to-Noise Ratio]]'
+  - '[[Attention Economy]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Source Curation
 
@@ -88,6 +87,9 @@ In practice, Source Curation operates through a series of deliberate steps. Know
 Theoretical roots of Source Curation can be traced back to cognitive psychology, particularly the concept of selective attention. This practice aligns with the idea that individuals have limited cognitive resources, and effective information management requires intentional allocation of these resources. By curating their intake stream, knowledge workers can enhance their ability to process and retain information efficiently, thereby improving their overall productivity and creativity.
 
 Empirical evidence supports the importance of Source Curation in shaping intellectual output. Studies have shown that individuals who engage in regular curation practices are better able to generate novel ideas and insights compared to those who do not. For example, a longitudinal study found that participants who curated their information intake streams reported higher levels of innovation and problem-solving skills over time.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Source Curation is not merely about selecting high-quality sources but also involves a continuous process of adaptation to changing information landscapes and personal needs. As new research emerges, trends shift, or individual interests evolve, the curated intake stream must be dynamically adjusted to remain relevant and valuable.
 
 ## Mechanism
 
@@ -112,6 +114,22 @@ The process of Source Curation involves several key steps: initial selection bas
 > [!key-distinction] **Source Curation vs Signal-to-Noise Ratio**
 > Both concepts deal with managing information quality, but Source Curation is more focused on the selection and organization of sources to ensure a high signal-to-noise ratio. While Signal-to-Noise Ratio measures the relative amount of useful versus irrelevant information, Source Curation actively shapes this balance through deliberate curation practices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking in Source Curation involves deliberate review and adjustment of one's information diet over time. This contrasts with reactive thinking, which might lead to impulsive changes based on immediate needs or fleeting interests. Reflective approaches ensure that the curated sources align more closely with long-term goals and learning objectives.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> In Source Curation, maintenance rehearsal involves repeatedly accessing familiar sources without deep processing, while elaborative rehearsal entails linking new information to existing knowledge in meaningful ways. The latter approach enhances the depth and utility of the curated corpus by fostering deeper understanding and integration.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Source Curation is solely about finding high-quality sources.
+>
+> While selecting quality sources is crucial, Source Curation also involves ongoing management including pruning outdated or less relevant materials. This ensures the intake stream remains dynamic and aligned with evolving needs.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is a cognitive psychologist who has contributed significantly to our understanding of selective attention and the role of working memory in learning. His work on cognitive load theory provides a theoretical foundation for Source Curation practices.
@@ -128,11 +146,21 @@ The process of Source Curation involves several key steps: initial selection bas
 >
 > *What would resolve it:* Longitudinal studies tracking the intellectual output of individuals with different levels of Source Curation would help determine the impact of curation practices over time. Such research could provide empirical evidence to support or refute claims about the benefits of strong versus weak curation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Source Curation impact long-term knowledge retention?
+>
+> *What would resolve it:* Research into how curated information streams influence long-term memory formation could provide insights into optimizing the curation process for better retention. This would involve studying the effects of different types and qualities of sources on learning outcomes over time.
+
 ## Synthesis
 
 Source Curation is a critical practice in knowledge management that has far-reaching implications for intellectual output and productivity. By shaping the intake stream, it influences the quality and quantity of ideas generated by individuals across various domains. The concept aligns with broader principles from cognitive psychology and attention economy, highlighting its importance in managing finite cognitive resources effectively.
 
 The integration of Source Curation into instructional design, research, and business strategy demonstrates its practical value in enhancing decision-making and innovation. As the practice continues to evolve, it will be crucial to address open questions around automation and long-term effects to fully realize its potential.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating reflective thinking and elaborative rehearsal, Source Curation not only enhances immediate knowledge acquisition but also supports long-term memory formation and deep understanding. This holistic approach positions it as a cornerstone practice in effective knowledge management.
 
 ## Evidence
 
@@ -147,3 +175,13 @@ Empirical evidence from studies shows that individuals who engage in regular Sou
 **Applies to:** [[Signal-to-Noise Ratio]] · [[Attention Economy]]
 
 **Source:** [[source-curation-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Signal-to-Noise Ratio]]** — *applies-to*
+> Source Curation directly impacts the Signal-to-Noise Ratio of an individual's information intake. By curating a high-quality, relevant set of sources, one can increase the proportion of valuable (signal) to less useful or irrelevant (noise) content in their knowledge diet.
+
+> [!connection] **[[Attention Economy]]** — *applies-to*
+> In an Attention Economy where information abundance competes for limited cognitive resources, Source Curation helps manage this competition by directing attention towards the most valuable and relevant sources. This strategic allocation of attention enhances productivity and learning efficiency.

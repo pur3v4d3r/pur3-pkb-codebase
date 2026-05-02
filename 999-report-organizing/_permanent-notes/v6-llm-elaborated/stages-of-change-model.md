@@ -1,14 +1,13 @@
 ---
-title: "Stages of Change Model"
+title: Stages of Change Model
 aliases:
-  - "Stages of Change Model"
-  - "transtheoretical model"
-  - "TTM"
-  - "Prochaska-DiClemente stages"
+  - Stages of Change Model
+  - transtheoretical model
+  - TTM
+  - Prochaska-DiClemente stages
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,55 @@ subdomains:
   - motivational-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "stages-of-change-model-synthetic-seed-2026-04-25"
+  - stages-of-change-model-synthetic-seed-2026-04-25
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Behavior Change Theory"
-
+depth-level: enhanced
+parent-concept: Behavior Change Theory
 related:
-  - "[[theory-of-planned-behavior]]"
-  - "[[motivational-interviewing]]"
+  - '[[theory-of-planned-behavior]]'
+  - '[[motivational-interviewing]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[theory-of-planned-behavior]]"
+  - '[[theory-of-planned-behavior]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[motivational-interviewing]]"
+  - '[[motivational-interviewing]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Stages of Change Model
 
@@ -87,6 +86,9 @@ In practice, this model suggests that interventions should be tailored to the in
 Theoretical roots of the Stages of Change Model can be traced back to cognitive-behavioral theories that emphasize the importance of psychological processes in behavior change. The model builds on these foundations by introducing the concept of stages, which allows for a more nuanced understanding of the change process and the development of stage-specific interventions.
 
 Empirically, the Stages of Change Model has been influential in clinical and public-health practice due to its practical utility in designing targeted interventions. However, it has also faced criticism on empirical grounds, with some studies questioning whether the discrete stages represent genuine qualitative shifts rather than convenient classifications.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Stages of Change Model has been widely applied in various fields beyond clinical psychology, including public health and education. In these domains, the model helps practitioners understand how individuals move through different stages of readiness to adopt healthier behaviors or academic practices. For instance, educators can use this framework to design interventions that cater to students at different stages of change regarding study habits or physical activity.
 
 ## Mechanism
 
@@ -108,6 +110,22 @@ The model operates through a series of psychological processes at each stage. Fo
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Stages of Change Model is distinct from other behavior change theories, such as the Theory of Planned Behavior (TPB), which focuses on cognitive factors. The TPB emphasizes intrinsic load, or the individual's attitude and subjective norms towards a behavior, while the Stages of Change Model considers extraneous load, or the psychological processes involved in moving through different stages of change.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> The Stages of Change Model highlights the importance of reflective thinking in later stages, such as preparation and action, where individuals deliberate on strategies for behavior change. In contrast, reactive thinking is more prevalent during precontemplation and contemplation stages when individuals may respond impulsively to immediate cues or emotions without deeper consideration.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While the Theory of Planned Behavior focuses on intrinsic motivation by emphasizing personal attitudes and subjective norms, the Stages of Change Model incorporates both intrinsic and extrinsic motivational factors. For example, individuals in the preparation stage may be motivated intrinsically to change their behavior due to personal values or beliefs, while those in maintenance might rely more on external rewards or social support.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Stages of Change Model is a linear process.
+>
+> The misconception arises from viewing the stages as a straightforward progression. In reality, individuals often cycle back and forth between stages, reflecting the complex nature of behavior change. Understanding this cyclical pattern helps in designing more flexible interventions that accommodate fluctuations in readiness for change.
+
 ## Key Figures
 
 - **James O. Prochaska** — Co-originator of the Transtheoretical Model (TTM) with Carrie DiClemente, which introduced the concept of stages in behavioral change.
@@ -125,9 +143,19 @@ The model operates through a series of psychological processes at each stage. Fo
 >
 > *What would resolve it:* Developing case studies and empirical data on applying the Stages of Change Model to emerging behaviors, such as digital health literacy or climate change adaptation, would provide insights into its adaptability.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural factors influence movement through the stages?
+>
+> *What would resolve it:* Research on how cultural values and norms impact individuals' progression through the Stages of Change Model would provide insights into tailoring interventions that are culturally sensitive and effective. This could involve examining how different cultures perceive readiness for change or what motivates behavior modification.
+
 ## Synthesis
 
 The Stages of Change Model is crucial in the field of behavior change because it provides a practical framework for understanding and addressing individual differences in readiness to change. By recognizing that individuals progress through distinct stages with different psychological processes, this model allows for more targeted and effective interventions. Its influence extends beyond clinical settings into public health campaigns and educational programs, making it a valuable tool for promoting sustainable behavioral changes across various domains.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Stages of Change Model offers a nuanced understanding of behavior change by recognizing the dynamic interplay between psychological processes at various stages. By integrating insights from motivational interviewing and contrasting with theories like the Theory of Planned Behavior, this model provides a comprehensive framework for designing interventions that are responsive to individual differences in readiness for change.
 
 ## Connections & Context
 
@@ -138,3 +166,13 @@ The Stages of Change Model is crucial in the field of behavior change because it
 **Applies to:** [[motivational-interviewing]]
 
 **Source:** [[stages-of-change-model-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[motivational-interviewing]]** — *applies-to*
+> Motivational interviewing is a counseling approach that aligns closely with the Stages of Change Model by focusing on enhancing intrinsic motivation and commitment to change. Practitioners use motivational interviewing techniques, such as reflective listening and open-ended questions, to guide individuals through different stages of readiness for behavior change.
+
+> [!connection] **[[theory-of-planned-behavior]]** — *contrasts-with*
+> While the Theory of Planned Behavior emphasizes cognitive factors like attitudes and subjective norms in predicting behavioral intentions, the Stages of Change Model focuses on psychological processes that individuals experience as they move through different stages of readiness for change. This distinction highlights how both models complement each other by addressing different aspects of behavior change.

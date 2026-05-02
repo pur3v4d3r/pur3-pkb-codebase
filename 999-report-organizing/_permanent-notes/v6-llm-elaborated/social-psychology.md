@@ -1,12 +1,11 @@
 ---
-title: "Social Psychology"
+title: Social Psychology
 aliases:
-  - "Social Psychology"
-  - "social psychological science"
+  - Social Psychology
+  - social psychological science
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,55 +16,55 @@ subdomains:
   - psychology
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "social-psychology-synthetic-seed-2026-05-01"
+  - social-psychology-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: ""
-
+depth-level: enhanced
+parent-concept: ''
 related:
-  - "[[Cultural Psychology]]"
-  - "[[Cognitive Psychology]]"
+  - '[[Cultural Psychology]]'
+  - '[[Cognitive Psychology]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Cultural Psychology]]"
+  - '[[Cultural Psychology]]'
 contrasts-with:
-  - "[[Cognitive Psychology]]"
+  - '[[Cognitive Psychology]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Social Psychology
 
@@ -85,6 +84,9 @@ Theoretical roots of social psychology trace back to early sociologists like Ém
 
 The fundamental attribution error is a prime example of this phenomenon. This cognitive bias causes individuals to underestimate the impact of situational factors and overestimate the influence of personal traits in explaining others' behavior. For instance, when someone helps another person, it's often attributed to their kind nature rather than the helpfulness of the situation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Social psychology also delves into how individuals navigate and negotiate social norms, often leading to behaviors that align with group expectations even when personal values conflict. This phenomenon is particularly evident in the study of obedience to authority, as demonstrated by Stanley Milgram's controversial experiments. These studies highlight the profound influence of situational forces on moral decision-making.
+
 ## Mechanism
 
 Situational forces operate through a series of interconnected mechanisms. Role effects occur when individuals behave according to the expectations associated with their social roles. Audience effects manifest as changes in behavior due to the presence or absence of an audience, often leading to increased performance or inhibition. Normative influence refers to the tendency to conform to group norms and behaviors, even if they conflict with one's personal beliefs. Framing effects involve how information is presented, which can significantly alter decision-making processes.
@@ -100,14 +102,35 @@ Situational forces operate through a series of interconnected mechanisms. Role e
 > [!example] **Application 3 — Organizational behavior**
 > In organizational settings, awareness of situational forces is crucial for effective leadership. Leaders who understand how roles, audiences, norms, and framing affect their team members can create a more cohesive and productive work environment by aligning behaviors with desired outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Groupthink in Organizations**
+> In organizational settings, groupthink can lead to poor decision-making as individuals prioritize harmony and conformity over critical evaluation of alternatives. Understanding the mechanisms behind social influence helps design interventions that promote dissent and encourage diverse perspectives.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While social psychology focuses on situational forces that shape behavior, cognitive psychology examines intrinsic load — the inherent difficulty of a task itself. Extrinsic load refers to additional demands imposed by the environment or context. For example, while social priming might influence how quickly one processes information (extrinsic), intrinsic load would refer to the complexity of the task at hand.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis, whereas reactive thinking is immediate and automatic. In social psychology, reflective processes are crucial for understanding how individuals critically evaluate social norms and roles, while reactive processes explain quick responses to situational cues.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Social psychology only studies negative behaviors.
+>
+> While social psychology does examine phenomena like conformity and obedience that can lead to harmful outcomes, it also investigates positive aspects such as altruism and cooperation. Understanding both sides provides a balanced view of human behavior in social contexts.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is a cognitive psychologist who contributed significantly to the understanding of learning and memory, particularly through his work on cognitive load theory. His research has implications for how situational forces affect individual behavior in educational settings.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Stanley Milgram** — Milgram's obedience experiments revealed the power of authority figures to influence behavior, even when actions conflicted with personal ethics. His work underscores how situational forces can override individual moral judgments.
 
 ## Open Questions
 
@@ -120,6 +143,13 @@ Situational forces operate through a series of interconnected mechanisms. Role e
 > How can social psychology better address issues of generalizability across different cultures?
 >
 > *What would resolve it:* Conducting cross-cultural research and incorporating diverse samples would enhance the generalizability of findings. Understanding cultural differences in situational forces could lead to more nuanced theories and applications.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural differences affect the strength and nature of social psychological phenomena?
+>
+> *What would resolve it:* Cross-cultural studies are needed to determine if findings from Western contexts generalize to other cultures. Understanding these variations could refine theories about universal versus culturally-specific aspects of human behavior.
 
 ## Synthesis
 
@@ -138,3 +168,10 @@ Social psychology has repeatedly demonstrated that situational forces — role, 
 **Contrasts with:** [[Cognitive Psychology]]
 
 **Source:** [[social-psychology-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Cognitive Psychology]]** — *contrasts-with*
+> While cognitive psychology focuses on mental processes like perception, memory, and problem-solving within an individual's mind, social psychology examines how these processes are influenced by the presence of others. This contrast highlights the importance of situational context in shaping cognition.

@@ -1,14 +1,13 @@
 ---
-title: "Stability-Expectancy Principle"
+title: Stability-Expectancy Principle
 aliases:
-  - "Stability-Expectancy Principle"
-  - "Attribution Theory Foundational Report"
-  - "Weiner's Attribution Theory"
-  - "Causal Attribution in Motivation"
+  - Stability-Expectancy Principle
+  - Attribution Theory Foundational Report
+  - Weiner's Attribution Theory
+  - Causal Attribution in Motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,58 +20,58 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "attribution-theory-foundational-report-2026-04-19"
+  - attribution-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Attribution Theory"
-
+depth-level: enhanced
+parent-concept: Attribution Theory
 related:
-  - "[[attribution-theory]]"
-  - "[[growth-mindset]]"
-  - "[[self-determination-theory]]"
-  - "[[self-efficacy-theory]]"
+  - '[[attribution-theory]]'
+  - '[[growth-mindset]]'
+  - '[[self-determination-theory]]'
+  - '[[self-efficacy-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[attribution-theory]]"
+  - '[[attribution-theory]]'
 contrasts-with:
-  - "[[growth-mindset]]"
+  - '[[growth-mindset]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-determination-theory]]"
-  - "[[self-efficacy-theory]]"
+  - '[[self-determination-theory]]'
+  - '[[self-efficacy-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Stability-Expectancy Principle
 
@@ -92,6 +91,9 @@ Theoretical roots of this principle lie within Attribution Theory, where Bernard
 
 Empirical evidence supports this principle, as demonstrated by studies showing that students who attribute academic success to stable factors like effort are more likely to persist through challenges and maintain high motivation compared to those attributing success to unstable factors such as luck. These findings highlight the importance of stable attributions in fostering long-term motivational resilience.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The principle's influence extends beyond academic settings into professional and personal domains, shaping career trajectories and interpersonal relationships. For instance, attributing success in a project to one’s stable skill set rather than transient factors like luck can bolster confidence and resilience against future setbacks.
+
 ## Mechanism
 
 The mechanism by which the Stability-Expectancy Principle operates involves a cognitive process where individuals evaluate outcomes and attribute them to either stable or unstable causes. When an outcome is attributed to a stable cause, it triggers a feedback loop that reinforces existing expectancies. This process can be seen as a form of self-reinforcement, where consistent attributions lead to increasingly accurate predictions about future outcomes.
@@ -107,14 +109,35 @@ The mechanism by which the Stability-Expectancy Principle operates involves a co
 > [!example] **Application 3 — Performance management**
 > Managers can apply this principle in performance evaluations by recognizing employees' consistent contributions (stable causes) as opposed to one-time successes or failures. This recognition helps build trust and motivates employees to continue performing well, knowing their efforts are valued.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), the Stability-Expectancy Principle suggests that consistent, spaced feedback on stable learning attributes like comprehension and application skills can enhance students' expectancy for mastering course material. This approach contrasts with immediate, variable feedback which may not reinforce stable expectancies.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While the Stability-Expectancy Principle focuses on the stability of causes affecting expectancies, intrinsic load refers to the inherent difficulty of a task, and extraneous load pertains to factors that complicate learning. These concepts are distinct as they address different aspects of cognitive processing in attribution.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis of outcomes and causes, aligning closely with the Stability-Expectancy Principle. When individuals reflect on their performance attributing it to stable factors like effort or ability, they are more likely to adjust future expectations accordingly. In contrast, reactive thinking is immediate and less structured, potentially leading to unstable attribution patterns that do not significantly alter expectancies.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe the Stability-Expectancy Principle applies only in academic settings.
+>
+> While it is well-documented in educational contexts, the principle's applicability extends to various domains including professional and personal life. Its relevance lies in how stable attributions influence long-term expectancies across different scenarios.
+
 ## Key Figures
 
 - **Bernard Weiner** — Bernard Weiner is credited with originating the Stability-Expectancy Principle, which he introduced in his seminal work on attribution theory. His research highlighted how stable attributions influence expectancies and motivational trajectories.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Edward Deci** — Deci's work on self-determination theory complements the Stability-Expectancy Principle by exploring intrinsic motivation. His research shows that when individuals attribute success to stable, internal factors like effort and interest, it aligns with higher levels of intrinsic motivation.
 
 ## Open Questions
 
@@ -127,6 +150,13 @@ The mechanism by which the Stability-Expectancy Principle operates involves a co
 > Can the principle be applied to different cultures and contexts?
 >
 > *What would resolve it:* Cross-cultural studies examining the Stability-Expectancy Principle in various settings would help determine its universality and adaptability across diverse populations.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the application of the Stability-Expectancy Principle?
+>
+> *What would resolve it:* Cross-cultural studies could provide insights into how different societal values and norms affect attributions to stable causes, thereby shaping expectancies. Understanding these variations can inform culturally sensitive interventions.
 
 ## Synthesis
 
@@ -143,3 +173,10 @@ The Stability-Expectancy Principle is crucial for understanding how individuals 
 **Applies to:** [[self-determination-theory]] · [[self-efficacy-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-efficacy-theory]]** — *applies-to*
+> The Stability-Expectancy Principle and Self-Efficacy Theory both address how attributions shape future behavior. While the former focuses on expectancies based on stable causes, self-efficacy theory emphasizes belief in one's ability to succeed in specific situations. Together, they highlight that consistent success attributed to stable factors enhances both expectancy for future success and confidence in one’s capabilities.

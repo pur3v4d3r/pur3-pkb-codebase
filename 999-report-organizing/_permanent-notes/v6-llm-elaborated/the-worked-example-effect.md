@@ -1,15 +1,14 @@
 ---
-title: "Worked Example Effect"
+title: Worked Example Effect
 aliases:
-  - "Worked Example Effect"
-  - "CLT Foundational Report"
-  - "Cognitive Load Theory Report"
-  - "Sweller CLT Comprehensive Treatment"
-  - "CLT Architecture and Taxonomy"
+  - Worked Example Effect
+  - CLT Foundational Report
+  - Cognitive Load Theory Report
+  - Sweller CLT Comprehensive Treatment
+  - CLT Architecture and Taxonomy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,56 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "cognitive-load-theory-foundational-report-2026-04-18"
+  - cognitive-load-theory-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[extraneous-cognitive-load]]"
-  - "[[Means-Ends Analysis]]"
-  - "[[scaffolding]]"
+  - '[[extraneous-cognitive-load]]'
+  - '[[Means-Ends Analysis]]'
+  - '[[scaffolding]]'
 prerequisites:
-  - "[[extraneous-cognitive-load]]"
+  - '[[extraneous-cognitive-load]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Means-Ends Analysis]]"
+  - '[[Means-Ends Analysis]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[scaffolding]]"
+  - '[[scaffolding]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Worked Example Effect
 
@@ -91,6 +90,9 @@ Theoretical roots of this effect lie in Cognitive Load Theory (CLT), which posit
 
 Empirical evidence supports the efficacy of worked examples across various domains. For instance, in clinical reasoning and medical decision-making, where element interactivity is high, worked examples can be used to present information in a layered, progressive format that reduces cognitive load and enhances understanding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Worked Example Effect is not merely a pedagogical tool but also reflects deeper cognitive processes involved in learning and problem-solving. By presenting solutions step-by-step, worked examples allow learners to observe the application of concepts in context without the need for active generation, which can be cognitively demanding. This observation-based learning aligns with theories suggesting that understanding complex tasks benefits from seeing multiple instances of how problems are solved, thereby facilitating pattern recognition and schema formation.
+
 ## Mechanism
 
 The mechanism by which means-ends analysis imposes heavy extraneous cognitive load on novices involves the simultaneous tracking of multiple elements. Novices must constantly monitor their current state, goal state, available operators, and differences between them, a process that can be overwhelming for working memory. Worked examples bypass this load by directly presenting the solution path, allowing learners to focus on understanding the problem-solving steps without the cognitive strain.
@@ -106,10 +108,31 @@ The mechanism by which means-ends analysis imposes heavy extraneous cognitive lo
 > [!example] **Application 3 — Programming education**
 > In computer science courses, instructors can use worked examples to demonstrate how to solve programming problems step-by-step. This helps novices understand the logical flow of code without being distracted by the cognitive overhead of debugging and problem-solving strategies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), integrating spaced retrieval with worked examples can enhance learning outcomes. By interspersing worked examples throughout the course material, learners are exposed to problem-solving strategies at regular intervals. This approach not only reinforces schema construction but also supports long-term retention through repeated exposure and practice.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is imposed by instructional design. Worked examples reduce extraneous cognitive load by presenting solutions directly, whereas intrinsic load remains unchanged. Understanding this distinction helps educators focus on optimizing instruction rather than increasing task complexity.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> The distinction between intrinsic and extraneous cognitive load is crucial for understanding the Worked Example Effect. Intrinsic load pertains to the inherent difficulty of a task, which cannot be altered by instructional design. Extrinsic load, on the other hand, arises from how information is presented or tasks are structured. Worked examples reduce extraneous load by simplifying problem-solving processes, allowing learners to focus more effectively on understanding and applying new concepts.
+
+> [!key-distinction] **Performance vs Learning**
+> The distinction between performance and learning outcomes highlights the long-term benefits of worked examples. While solving problems independently may lead to immediate performance gains, it does not necessarily ensure durable schema construction or deep understanding. Worked examples facilitate learning by reducing cognitive load during initial exposure, allowing learners to focus on comprehending problem-solving strategies rather than merely completing tasks.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that worked examples are only useful for novices.
+>
+> This misconception arises from the common belief that advanced learners do not benefit from worked examples. However, research indicates that even experienced learners can benefit from worked examples when they serve as a reference or aid in problem-solving strategies. Worked examples can help experts refine their understanding and identify alternative approaches to solving complex problems.
 
 ## Key Figures
 
@@ -133,6 +156,9 @@ Understanding the Worked Example Effect is crucial for educational practice and 
 
 The Worked Example Effect also contributes to our understanding of Cognitive Load Theory (CLT), which offers a comprehensive framework for designing effective instruction. By integrating this effect into broader educational strategies, we can create more efficient and engaging learning environments that cater to diverse learner needs.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Worked Example Effect underscores a fundamental principle in educational psychology: effective instruction should align with the cognitive architecture of learners to optimize schema construction and reduce unnecessary cognitive strain. By integrating worked examples into instructional design, educators can enhance learning outcomes for novices while also supporting advanced learners in refining their problem-solving skills.
+
 ## Connections & Context
 
 **Falls under:** [[cognitive-architecture]]
@@ -144,3 +170,13 @@ The Worked Example Effect also contributes to our understanding of Cognitive Loa
 **Applies to:** [[scaffolding]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[extraneous-cognitive-load]]** — *prerequisites*
+> Understanding extraneous cognitive load is essential for grasping the Worked Example Effect. By reducing extraneous load, worked examples allow learners to allocate more cognitive resources towards intrinsic processing and schema construction. This connection underscores how instructional design can significantly impact learning outcomes by managing cognitive load effectively.
+
+> [!connection] **[[Means-Ends Analysis]]** — *contrasts-with*
+> The Worked Example Effect contrasts with means-ends analysis in its approach to problem-solving. While means-ends analysis requires learners to actively generate solutions, worked examples provide step-by-step guidance, reducing the cognitive load associated with planning and execution. This contrast highlights how different instructional strategies can influence learning efficiency and effectiveness.

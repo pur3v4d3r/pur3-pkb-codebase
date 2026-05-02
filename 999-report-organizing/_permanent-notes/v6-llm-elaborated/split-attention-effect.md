@@ -1,16 +1,15 @@
 ---
-title: "Split Attention Effect"
+title: Split Attention Effect
 aliases:
-  - "Split Attention Effect"
-  - "Split-Attention Effect"
-  - "CLT Foundational Report"
-  - "Cognitive Load Theory Report"
-  - "Sweller CLT Comprehensive Treatment"
-  - "CLT Architecture and Taxonomy"
+  - Split Attention Effect
+  - Split-Attention Effect
+  - CLT Foundational Report
+  - Cognitive Load Theory Report
+  - Sweller CLT Comprehensive Treatment
+  - CLT Architecture and Taxonomy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,55 +22,55 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "cognitive-load-theory-foundational-report-2026-04-18"
+  - cognitive-load-theory-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Split Attention Effect
 
@@ -91,6 +90,9 @@ Theoretical roots of this effect trace back to cognitive architecture theories t
 
 Empirical evidence supporting this effect comes from numerous studies demonstrating that learners perform better when information is presented in a more integrated manner. For instance, John Sweller's research has shown that instructional designs that minimize spatial and temporal separation between related elements lead to improved learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Split Attention Effect is particularly pronounced in complex learning tasks that require learners to simultaneously process multiple streams of information, such as reading a text while referring to an accompanying diagram or listening to an explanation while viewing relevant visual aids. This complexity can overwhelm working memory, leading to cognitive overload and reduced comprehension. Understanding this effect is crucial for educators and instructional designers who aim to create effective learning materials that minimize extraneous processing demands.
+
 ## Mechanism
 
 The mechanism of the Split Attention Effect involves the mental integration process where learners must combine separate pieces of information into a coherent whole. This requires significant working memory resources, which are otherwise used for schema construction and other essential cognitive tasks.
@@ -108,14 +110,35 @@ When information is presented in a way that forces learners to mentally integrat
 > [!example] **Application 3 — Educational technology**
 > In educational technology, the effect highlights the importance of multimedia design that integrates text and visuals in a coherent manner. Tools like interactive whiteboards or digital textbooks should present information in a way that minimizes spatial separation between related elements to enhance learning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), the Split Attention Effect can be mitigated by incorporating spaced retrieval practices. By presenting information in a distributed manner, learners are less likely to experience cognitive overload from having to mentally integrate disparate pieces of information simultaneously. This approach allows for more efficient use of working memory and supports better long-term retention.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Split Attention Effect is an example of extraneous cognitive load, which refers to processing demands imposed by suboptimal instructional design. In contrast, intrinsic cognitive load arises from the inherent complexity of the material itself and cannot be reduced through instructional design changes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> While intrinsic load is inherent in the complexity of the learning material itself, extraneous load arises from instructional design choices that unnecessarily tax cognitive resources. The Split Attention Effect exemplifies extraneous load because it results from how information is presented rather than the inherent difficulty of the content. Understanding this distinction helps designers optimize materials to reduce unnecessary cognitive burdens.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that all forms of separation between information sources lead to the Split Attention Effect.
+>
+> This misconception arises from a misunderstanding of when and why the effect occurs. The Split Attention Effect specifically targets situations where separate pieces of information are unintelligible in isolation but referential together, requiring mental integration. If each piece is self-contained or not mutually referential, physical separation does not produce this effect.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating the concept of the Split Attention Effect in his work on cognitive load theory. His research has shown that instructional designs that minimize spatial and temporal separation between related elements lead to improved learning outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **John Sweller** — Sweller's seminal work on Cognitive Load Theory (CLT) introduced the concept of the Split Attention Effect. His research has been pivotal in demonstrating how instructional design can influence cognitive load and, consequently, learning outcomes.
 
 ## Open Questions
 
@@ -128,6 +151,13 @@ When information is presented in a way that forces learners to mentally integrat
 > Can the split attention effect be mitigated through instructional design techniques?
 >
 > *What would resolve it:* Research evaluating various instructional strategies aimed at reducing spatial and temporal separation between related elements would help determine the effectiveness of these techniques in minimizing the effect.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the interaction between intrinsic and extraneous loads affect the manifestation of the Split Attention Effect?
+>
+> *What would resolve it:* Empirical studies examining the interplay between these types of cognitive load could provide insights into how they jointly influence learning efficiency, particularly in complex instructional settings.
 
 ## Synthesis
 
@@ -144,3 +174,10 @@ The effect also has broader implications in user interface and human-computer in
 **Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> The Split Attention Effect relies on an understanding of working memory's limited capacity and its role in processing information. Working memory is crucial because it determines how much mental integration can be handled before cognitive overload occurs, making it a foundational prerequisite for comprehending the effect.

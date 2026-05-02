@@ -1,14 +1,13 @@
 ---
-title: "Stability Dimension"
+title: Stability Dimension
 aliases:
-  - "Stability Dimension"
-  - "Attribution Theory Foundational Report"
-  - "Weiner's Attribution Theory"
-  - "Causal Attribution in Motivation"
+  - Stability Dimension
+  - Attribution Theory Foundational Report
+  - Weiner's Attribution Theory
+  - Causal Attribution in Motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,59 +20,59 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "attribution-theory-foundational-report-2026-04-19"
+  - attribution-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Causal Attribution"
-
+depth-level: enhanced
+parent-concept: Causal Attribution
 related:
-  - "[[locus-of-control]]"
-  - "[[controllability-dimension]]"
-  - "[[self-efficacy-theory]]"
-  - "[[implicit-theories-of-intelligence]]"
+  - '[[locus-of-control]]'
+  - '[[controllability-dimension]]'
+  - '[[self-efficacy-theory]]'
+  - '[[implicit-theories-of-intelligence]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[locus-of-control]]"
-  - "[[controllability-dimension]]"
+  - '[[locus-of-control]]'
+  - '[[controllability-dimension]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-efficacy-theory]]"
-  - "[[implicit-theories-of-intelligence]]"
+  - '[[self-efficacy-theory]]'
+  - '[[implicit-theories-of-intelligence]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Stability Dimension
 
@@ -93,6 +92,9 @@ Theoretical roots of the Stability Dimension can be traced back to Martin Seligm
 
 Empirical research supports the Stability Dimension through studies on attributional styles. For instance, Dweck's (1986) work on entity vs. incremental theories of intelligence shows how stable attributions can lead to fixed mindsets and unstable attributions foster growth mindsets. This dimensional taxonomy provides a systematic framework for understanding emotional and motivational responses.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Stability Dimension's influence extends beyond immediate emotional and motivational responses to shape long-term behavioral patterns. Individuals who consistently attribute outcomes to stable causes tend to develop more rigid schemas about their capabilities, which can either bolster confidence or entrench self-doubt depending on the nature of those attributions. This rigidity contrasts with the adaptability fostered by unstable attributions, where individuals are more likely to adjust their strategies and expectations in response to new information.
+
 ## Mechanism
 
 The mechanism through which the Stability Dimension influences future expectancy involves cognitive appraisals of causality. When individuals perceive causes as stable, they tend to attribute current outcomes to enduring internal factors, leading to expectations that these outcomes will persist in the future. This creates a self-reinforcing cycle where past success or failure is seen as indicative of future performance. Conversely, unstable attributions lead to more flexible and adaptive responses, recognizing variability and potential for change.
@@ -108,6 +110,11 @@ The mechanism through which the Stability Dimension influences future expectancy
 > [!example] **Application 3 — Educational psychology**
 > In educational settings, the Stability Dimension affects how students perceive their abilities and future success. Teachers who provide stable feedback (e.g., attributing success to effort) can foster a growth mindset, encouraging students to persist in challenging tasks. Unstable feedback (e.g., attributing failure to luck) may help maintain motivation by highlighting variability and potential for improvement.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), the Stability Dimension can inform how feedback is structured for spaced retrieval exercises. By attributing success to stable factors like consistent study habits, instructors encourage students to view their learning as a long-term process rather than a series of isolated events. This approach not only enhances retention but also builds resilience against setbacks, as students are more likely to perceive temporary failures as surmountable obstacles rather than permanent indicators of inability.
+
 ## Key Distinctions
 
 > [!key-distinction] **Stability vs Locus**
@@ -116,9 +123,25 @@ The mechanism through which the Stability Dimension influences future expectancy
 > [!key-distinction] **Stability vs Controllability**
 > The Stability Dimension concerns the perceived persistence of causes over time, while the Controllability Dimension addresses whether individuals believe they can influence these causes. Stable attributions (e.g., ability) are often seen as uncontrollable, whereas unstable attributions (e.g., luck) may be more controllable.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Stability vs Controllability**
+> While the Stability Dimension assesses whether causes persist over time, the Controllability Dimension evaluates whether these causes are within an individual's control. For instance, stable attributions like ability or task difficulty can be either controllable (e.g., improving skills) or uncontrollable (e.g., inherent task complexity). Understanding this distinction is crucial because it affects how individuals perceive their agency and potential for change.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that stable attributions always lead to positive outcomes.
+>
+> Stable attributions can have both positive and negative effects depending on the nature of the attribution. For example, attributing success to a stable internal factor like ability fosters confidence and persistence, but attributing failure to an unchangeable trait (like low intelligence) can lead to learned helplessness and decreased motivation.
+
 ## Key Figures
 
 - **Martin Seligman** — American psychologist and developer of the learned helplessness theory (1967), which connected helplessness to attribution through the concept of explanatory style. His reformulated model in 1978 further integrated stability with resilience research.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Edward Deci** — Deci's work on intrinsic motivation complements the Stability Dimension by highlighting how perceptions of stability can either enhance or diminish internal drive. His research shows that attributing success to stable, controllable factors like effort enhances intrinsic motivation.
 
 ## Open Questions
 
@@ -131,6 +154,13 @@ The mechanism through which the Stability Dimension influences future expectancy
 > What are the long-term effects of perceiving causes as stable or unstable?
 >
 > *What would resolve it:* Longitudinal research tracking individuals' attributions over time and their corresponding outcomes would provide insights into these effects.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Stability Dimension interact with implicit theories of intelligence in shaping academic achievement?
+>
+> *What would resolve it:* Investigating how individuals' beliefs about the stability of their abilities (fixed vs. growth mindset) influence their academic performance could provide insights into effective educational interventions.
 
 ## Synthesis
 
@@ -145,3 +175,10 @@ The Stability Dimension is crucial for understanding how causal attributions sha
 **Applies to:** [[self-efficacy-theory]] · [[implicit-theories-of-intelligence]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-efficacy-theory]]** — *applies-to*
+> The Stability Dimension directly influences self-efficacy by shaping how individuals perceive their ability to achieve future goals. Stable attributions of success (e.g., effort) enhance self-efficacy, while stable attributions of failure (e.g., lack of ability) undermine it. This connection underscores the importance of fostering a growth mindset in educational and therapeutic settings.

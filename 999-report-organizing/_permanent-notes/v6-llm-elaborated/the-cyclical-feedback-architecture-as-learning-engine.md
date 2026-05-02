@@ -1,15 +1,14 @@
 ---
-title: "Cyclical Feedback Architecture"
+title: Cyclical Feedback Architecture
 aliases:
-  - "Cyclical Feedback Architecture"
-  - "Metacognitive Scaffolding in PKB"
-  - "PKB Study Planning Scaffolds"
-  - "Metacognitive Architecture for Learning"
-  - "PKM Metacognitive Scaffolding"
+  - Cyclical Feedback Architecture
+  - Metacognitive Scaffolding in PKB
+  - PKB Study Planning Scaffolds
+  - Metacognitive Architecture for Learning
+  - PKM Metacognitive Scaffolding
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18"
+  - pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Cyclical Feedback Architecture
 
@@ -90,6 +89,9 @@ Theoretical roots of this model can be traced back to cognitive load theory, par
 
 Empirically, this model has been supported through various studies showing improved learning outcomes in students who engage in self-regulated learning strategies. For example, a study found that students using the Cyclical Feedback Architecture demonstrated better retention and application of knowledge compared to those following more passive learning methods.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Cyclical Feedback Architecture not only enhances learning through its iterative process but also supports learners in adapting to new and complex tasks more effectively over time. By continuously refining their strategies based on feedback, learners can develop a deeper understanding of the material and improve their problem-solving skills.
+
 ## Mechanism
 
 The mechanism by which this architecture drives learning is through a continuous feedback loop. Forethought generates predictions based on current understanding and goals, performance tests these predictions against reality, self-reflection evaluates the gap between prediction and outcome, and adaptive inference uses this information to refine future plans.
@@ -105,14 +107,35 @@ The mechanism by which this architecture drives learning is through a continuous
 > [!example] **Application 3 — Self-study**
 > For individuals engaging in self-study, the Cyclical Feedback Architecture can be applied by setting clear goals, actively working on tasks, reflecting on progress, and adjusting study strategies based on feedback. This approach ensures that learning is continuous and adaptive, leading to better mastery of material.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), implementing spaced retrieval techniques within the Cyclical Feedback Architecture can significantly enhance learning outcomes. By scheduling regular, spaced review sessions that incorporate self-reflection and adaptive inference phases, learners can better retain information over time.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Cyclical Feedback Architecture distinguishes itself from other models by emphasizing the management of intrinsic load (the inherent difficulty of a task) and extraneous load (unnecessary cognitive demands). Unlike models that focus solely on memory recall, this architecture integrates these loads to create a balanced learning environment.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis of past actions to inform future decisions, whereas reactive thinking is immediate response without reflection. The Cyclical Feedback Architecture emphasizes reflective thinking through its self-reflection phase, which allows learners to critically evaluate their performance and adjust strategies accordingly.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Cyclical Feedback Architecture only applies to academic learning.
+>
+> While it is widely used in educational settings, this architecture can be applied across various domains including professional development and personal skill acquisition. Its emphasis on continuous feedback and iterative improvement makes it a versatile model for lifelong learning.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is recognized for his foundational work in cognitive load theory, which underpins the Cyclical Feedback Architecture. His research on managing intrinsic and extraneous loads has significantly influenced our understanding of effective learning strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Barbara Oakley** — Oakley's work on dual-process theory complements the Cyclical Feedback Architecture by highlighting the importance of both intuitive and analytical thinking in problem-solving, which aligns with the reflective and performance phases of this model.
 
 ## Open Questions
 
@@ -125,6 +148,13 @@ The mechanism by which this architecture drives learning is through a continuous
 > Can the cyclical feedback architecture be applied to non-academic learning contexts?
 >
 > *What would resolve it:* Case studies and experimental research in real-world settings, such as workplace training or personal development programs, could provide insights into its applicability beyond academic environments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the effectiveness of the Cyclical Feedback Architecture vary across different learning contexts?
+>
+> *What would resolve it:* Empirical studies comparing its efficacy in various educational settings would provide insights into how contextual factors influence its application and outcomes.
 
 ## Synthesis
 
@@ -141,3 +171,10 @@ Beyond education, this architecture has broader implications for cognitive scien
 **Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is crucial as the Cyclical Feedback Architecture relies heavily on learners' ability to hold and manipulate information in their minds during each phase of the cycle. Effective management of working memory demands, such as through minimizing extraneous load, enhances the overall efficacy of this learning model.

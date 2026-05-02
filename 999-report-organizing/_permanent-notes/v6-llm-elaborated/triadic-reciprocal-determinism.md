@@ -1,14 +1,13 @@
 ---
-title: "Triadic Reciprocal Determinism"
+title: Triadic Reciprocal Determinism
 aliases:
-  - "Triadic Reciprocal Determinism"
-  - "Self-Efficacy Theory Foundational Report"
-  - "Bandura Self-Efficacy"
-  - "Perceived Self-Efficacy Foundations"
+  - Triadic Reciprocal Determinism
+  - Self-Efficacy Theory Foundational Report
+  - Bandura Self-Efficacy
+  - Perceived Self-Efficacy Foundations
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,57 @@ subdomains:
   - motivation-science
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-efficacy-theory-foundational-report-2026-04-20"
+  - self-efficacy-theory-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social-Cognitive Theory"
-
+depth-level: enhanced
+parent-concept: Social-Cognitive Theory
 related:
-  - "[[self-efficacy-theory]]"
-  - "[[social-cognitive-theory]]"
-  - "[[Environmental Determinism]]"
+  - '[[self-efficacy-theory]]'
+  - '[[social-cognitive-theory]]'
+  - '[[Environmental Determinism]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[self-efficacy-theory]]"
+  - '[[self-efficacy-theory]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[social-cognitive-theory]]"
-  - "[[Environmental Determinism]]"
+  - '[[social-cognitive-theory]]'
+  - '[[Environmental Determinism]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Triadic Reciprocal Determinism
 
@@ -91,6 +90,9 @@ Theoretical roots of this concept are deeply embedded within Albert Bandura's br
 
 Empirical evidence supporting this theory comes from numerous studies in education and psychology. For example, Bandura's Bobo doll experiment demonstrated that children who observed aggressive behavior were more likely to exhibit aggression themselves, highlighting the influence of environmental models on behavior. This study underscores how behavioral factors can be shaped by personal beliefs (self-efficacy) and environmental influences.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Triadic reciprocal determinism also highlights the dynamic nature of personal factors, such as self-efficacy, which can fluctuate based on immediate feedback and long-term outcomes. For example, a student's confidence in their ability to solve complex math problems may increase after successfully completing several challenging assignments, reinforcing their belief that they are capable learners. This positive reinforcement cycle underscores the theory’s emphasis on continuous interaction between personal beliefs, behaviors, and environmental factors.
+
 ## Mechanism
 
 The mechanism of triadic reciprocal determinism involves a continuous cycle where each factor influences and is influenced by the others. Personal factors like self-efficacy shape behaviors, which then affect the environment through interactions with others or changes in circumstances. Conversely, environmental conditions can alter personal beliefs and behaviors, creating a feedback loop that reinforces mutual conditioning.
@@ -106,10 +108,28 @@ The mechanism of triadic reciprocal determinism involves a continuous cycle wher
 > [!example] **Application 3 — Workplace management**
 > Managers can apply triadic reciprocal determinism by fostering a positive work environment that encourages employee self-efficacy. By providing opportunities for skill development (behavioral factors) and recognizing achievements, managers can create a cycle of mutual reinforcement between personal beliefs, behaviors, and the organizational culture.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), triadic reciprocal determinism can be applied to enhance learning outcomes through spaced retrieval techniques. By strategically spacing out practice sessions, learners are exposed to material at increasing intervals, which helps consolidate knowledge and improve retention. This approach not only reinforces the content but also builds students' self-efficacy by providing them with opportunities for success over time.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to how the task is presented. Triadic reciprocal determinism differs from these concepts by focusing on the mutual conditioning between personal factors (like self-efficacy), behavioral outcomes, and environmental influences rather than just the cognitive demands or presentation of tasks.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis of one's actions, whereas reactive thinking is immediate and often automatic. Triadic reciprocal determinism emphasizes the role of reflective thinking in shaping personal factors such as self-efficacy, which can then influence behavior and environmental interactions more positively than impulsive reactions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think triadic reciprocal determinism means all three factors (personal, behavioral, environmental) are equally important in every situation.
+>
+> This misconception arises from oversimplifying the theory. Triadic reciprocal determinism posits that while all three factors continuously interact and influence each other, their relative importance can vary depending on the context. For instance, in a highly structured environment like a classroom, environmental conditions might play a more significant role than personal or behavioral factors.
 
 ## Key Figures
 
@@ -133,6 +153,9 @@ Triadic reciprocal determinism is a cornerstone of social-cognitive theory, offe
 
 The theory's emphasis on mutual conditioning challenges traditional deterministic views by highlighting the dynamic interplay between personal beliefs, actions, and environmental factors. This makes triadic reciprocal determinism particularly relevant in interdisciplinary research, bridging gaps between cognitive psychology, social psychology, and educational practices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from various psychological domains, triadic reciprocal determinism provides a comprehensive framework for understanding human behavior across diverse contexts. This integrative approach not only enriches our theoretical understanding but also offers practical applications in fields such as education, therapy, and organizational development.
+
 ## Connections & Context
 
 **Falls under:** [[social-cognitive-theory]]
@@ -142,3 +165,10 @@ The theory's emphasis on mutual conditioning challenges traditional deterministi
 **Sibling concepts:** [[social-cognitive-theory]] · [[Environmental Determinism]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-efficacy-theory]]** — *specializes*
+> Triadic reciprocal determinism specializes in self-efficacy theory by focusing on how beliefs about one's capabilities influence behavior and environment. Self-efficacy is a critical personal factor within the triad, shaping an individual’s actions and interactions with their surroundings.

@@ -1,12 +1,11 @@
 ---
-title: "Temporal Logic"
+title: Temporal Logic
 aliases:
-  - "Temporal Logic"
-  - "tense logic"
+  - Temporal Logic
+  - tense logic
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - computer-science
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "temporal-logic-synthetic-seed-2026-05-01"
+  - temporal-logic-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Formal Logic"
-
+depth-level: enhanced
+parent-concept: Formal Logic
 related:
-  - "[[Modal Logic]]"
-  - "[[Formal Verification]]"
-  - "[[Program Specification]]"
+  - '[[Modal Logic]]'
+  - '[[Formal Verification]]'
+  - '[[Program Specification]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Modal Logic]]"
+  - '[[Modal Logic]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Formal Verification]]"
-  - "[[Program Specification]]"
+  - '[[Formal Verification]]'
+  - '[[Program Specification]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Temporal Logic
 
@@ -88,6 +87,9 @@ Theoretical roots of Temporal Logic can be traced back to modal logic, which its
 
 Historically, Temporal Logic has been applied to program verification through Pnueli's 1977 work on Linear Temporal Logic (LTL). LTL is particularly useful because it can express both temporal and logical constraints, making it a powerful tool for specifying and verifying the correctness of concurrent programs.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Temporal Logic's ability to reason about time makes it indispensable in formal verification, where ensuring that a system behaves correctly over all possible futures is paramount. This capability extends beyond simple truth-value assessments at discrete points; Temporal Logic allows for the continuous monitoring and prediction of system states, which is crucial for identifying potential failures before they occur.
+
 ## Mechanism
 
 Pnueli's application of Linear Temporal Logic to program verification involved defining specific operators like 'G' (always), 'F' (eventually), and 'U' (until). These operators are applied to propositions within a temporal framework, allowing for the formal specification of liveness and safety properties. For instance, 'G P' ensures that proposition 'P' holds true at all future points in time, while 'P U Q' means that 'P' remains true until 'Q' becomes true.
@@ -103,6 +105,11 @@ Pnueli's application of Linear Temporal Logic to program verification involved d
 > [!example] **Application 3 — Philosophy**
 > In philosophy, Temporal Logic can be used to analyze and reason about temporal aspects in arguments. For example, it allows philosophers to express propositions that change over time ('G P' or 'P U Q'), providing a formal framework for discussing temporal phenomena.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Temporal Constraints in Real-Time Systems**
+> In real-time systems where timing constraints are critical, such as in automotive control or medical devices, Temporal Logic can specify that certain operations must complete within a given timeframe ('F P') and that safety-critical conditions must always hold ('G Q'). This ensures robustness against time-related failures.
+
 ## Key Distinctions
 
 > [!key-distinction] **Linear Time vs Branching Time**
@@ -111,9 +118,28 @@ Pnueli's application of Linear Temporal Logic to program verification involved d
 > [!key-distinction] **Point-Based vs Interval-Based**
 > Temporal Logic can be point-based or interval-based. Point-based logic focuses on specific points in time ('G P' at a particular moment), while interval-based logic considers the truth of propositions over intervals ('G P' for all times within an interval). The choice between these depends on whether the focus is on instantaneous conditions or sustained states.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Linear Time vs Branching Time**
+> While Linear Temporal Logic (LTL) assumes a single, unbranching sequence of events, Branching-Time Temporal Logic (BTTL) allows for multiple possible futures. This distinction is crucial because LTL is suitable for systems with a fixed order of operations, whereas BTTL is necessary when dealing with concurrent or nondeterministic processes where different sequences of actions can lead to distinct outcomes.
+
+> [!key-distinction] **Propositional vs First-Order Temporal Logic**
+> Propositional Temporal Logic deals only with simple propositions without quantifiers, while First-Order Temporal Logic extends this by allowing quantification over variables. This difference is significant because First-Order Temporal Logic can express more complex relationships and properties of systems, making it suitable for detailed formal verification tasks.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Temporal Logic only applies to computer science.
+>
+> While widely used in computer science for program verification, Temporal Logic has applications beyond this domain. It is also valuable in linguistics for analyzing tense and aspect in natural language, and in philosophy for discussing the nature of time and change.
+
 ## Key Figures
 
 - **Amir Pnueli** — Amir Pnueli was a pioneer in applying Temporal Logic to computer science, particularly through his work on Linear Temporal Logic (LTL) in 1977. His application of LTL allowed for the formal specification and verification of concurrent programs, making it possible to express liveness and safety properties formally.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Edmund M. Clarke** — Clarke's work on model checking algorithms for Temporal Logic has been pivotal in making formal verification practical and widely applicable, particularly through the development of efficient methods to verify complex systems against temporal specifications.
 
 ## Open Questions
 
@@ -127,11 +153,21 @@ Pnueli's application of Linear Temporal Logic to program verification involved d
 >
 > *What would resolve it:* Developing new operators or extending existing ones to capture more nuanced temporal relationships could enhance the expressiveness and applicability of Temporal Logic in various domains.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the expressiveness of Temporal Logic impact its computational complexity?
+>
+> *What would resolve it:* Understanding how different expressive powers affect computational complexity is crucial for optimizing verification processes. Research into this area aims to balance the need for detailed specification with practical limitations on computation.
+
 ## Synthesis
 
 Temporal Logic has significant implications across formal verification, program specification, and even philosophy. Its ability to reason about time provides a powerful framework for specifying and verifying complex systems, ensuring their correctness and reliability. By integrating temporal aspects into logical reasoning, Temporal Logic bridges the gap between theoretical foundations and practical applications in computer science.
 
 The impact of Temporal Logic extends beyond computer science, influencing fields such as linguistics and philosophy by offering precise tools to analyze and reason about temporal phenomena. Its application in program verification has led to the development of robust formal methods that are essential for ensuring the safety and correctness of modern software systems.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Temporal Logic's integration of time into logical reasoning provides a robust framework for specifying and verifying systems across various domains, from software engineering to natural language processing. Its ability to handle both linear and branching temporal structures makes it versatile enough to address the complexities of real-world applications.
 
 ## Connections & Context
 
@@ -142,3 +178,13 @@ The impact of Temporal Logic extends beyond computer science, influencing fields
 **Applies to:** [[Formal Verification]] · [[Program Specification]]
 
 **Source:** [[temporal-logic-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Formal Verification]]** — *applies-to*
+> Temporal Logic is integral to Formal Verification because it provides a formal framework for specifying temporal properties that must hold in systems over time. This capability allows verification tools to check whether a system's behavior meets its intended specifications, ensuring reliability and safety.
+
+> [!connection] **[[Program Specification]]** — *applies-to*
+> Temporal Logic enhances Program Specification by enabling the precise definition of temporal requirements in software. This is crucial for specifying sequences of operations that must occur over time, such as ensuring certain conditions are met before others can proceed.

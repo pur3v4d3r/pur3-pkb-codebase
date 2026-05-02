@@ -1,15 +1,14 @@
 ---
-title: "Architectural Invariance Thesis"
+title: Architectural Invariance Thesis
 aliases:
-  - "Architectural Invariance Thesis"
-  - "CLT Foundational Report"
-  - "Cognitive Load Theory Report"
-  - "Sweller CLT Comprehensive Treatment"
-  - "CLT Architecture and Taxonomy"
+  - Architectural Invariance Thesis
+  - CLT Foundational Report
+  - Cognitive Load Theory Report
+  - Sweller CLT Comprehensive Treatment
+  - CLT Architecture and Taxonomy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "cognitive-load-theory-foundational-report-2026-04-18"
+  - cognitive-load-theory-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Architectural Invariance Thesis
 
@@ -90,6 +89,9 @@ This approach is grounded in the broader framework of [[cognitive-architecture]]
 
 Empirical evidence supports the notion that working memory capacity is indeed fixed and cannot be expanded. For instance, studies have shown that even with extensive practice, individuals do not significantly increase their working memory capacity; instead, they develop more efficient strategies for managing information within these constraints.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Architectural Invariance Thesis also underscores the critical role of instructional sequencing in managing cognitive load. By presenting information in a logical and incremental manner, learners can more effectively integrate new knowledge with existing schemas without overwhelming their working memory. This approach not only facilitates learning but also enhances retention by promoting deeper processing.
+
 ## Mechanism
 
 The mechanism by which schemas in long-term memory reduce the load on working memory involves breaking down complex information into simpler components. This process allows learners to treat multiple pieces of information as a single unit, thereby reducing the cognitive demand placed on working memory during processing.
@@ -105,10 +107,28 @@ The mechanism by which schemas in long-term memory reduce the load on working me
 > [!example] **Application 3 — Designing user interfaces**
 > In designing user interfaces, minimizing split-attention effects is crucial. This involves presenting information in a way that reduces the need for users to mentally integrate multiple sources of information simultaneously. By simplifying interface design and reducing cognitive load, users can more effectively process and interact with the system.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can be particularly effective for managing cognitive load. By spacing out review sessions over time, learners are given opportunities to consolidate information into long-term memory without the need for intensive working memory engagement during each session.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task that cannot be reduced through instructional techniques. In contrast, extraneous load is introduced by instructional materials and can be minimized to enhance learning efficiency. Understanding these distinctions helps educators design more effective instruction by focusing on reducing extraneous load while managing intrinsic load.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Maintenance rehearsal involves repetitive review of information without deeper processing, while elaborative rehearsal engages learners in meaningful linking and contextualizing of new knowledge. The Architectural Invariance Thesis suggests that maintenance rehearsal is less effective for long-term retention because it does not reduce the load on working memory as effectively as elaborative rehearsal.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Architectural Invariance Thesis means all cognitive tasks are equally difficult.
+>
+> This misconception arises from a misunderstanding of intrinsic and extraneous load. While working memory capacity is fixed, the difficulty of a task (intrinsic load) can vary based on its complexity and familiarity to the learner. Effective instruction aims to manage both types of load by reducing extraneous elements while addressing the inherent challenge of the material.
 
 ## Key Figures
 
@@ -132,6 +152,9 @@ Understanding the Architectural Invariance Thesis is crucial for effective instr
 
 This concept also has broader implications across various domains, including user interface design, where reducing extraneous load is essential for effective interaction. In cognitive psychology, it reinforces the hierarchical nature of cognitive processing and highlights the role of long-term memory in supporting working memory.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from the Architectural Invariance Thesis with principles of instructional design, educators can create learning environments that not only respect but also leverage the inherent limitations of human cognition. This synthesis allows for a more nuanced and effective approach to teaching complex subjects across various educational settings.
+
 ## Connections & Context
 
 **Falls under:** [[cognitive-architecture]]
@@ -141,3 +164,10 @@ This concept also has broader implications across various domains, including use
 **Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> The Architectural Invariance Thesis fundamentally relies on an understanding of working memory's limitations. Without grasping how working memory functions and its constraints, the strategies proposed by this thesis for managing cognitive load would be difficult to appreciate or implement effectively.

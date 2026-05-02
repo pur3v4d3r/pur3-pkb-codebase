@@ -1,15 +1,14 @@
 ---
-title: "Spreading Activation"
+title: Spreading Activation
 aliases:
-  - "Spreading Activation"
-  - "PKM Planning Cognitive Science"
-  - "Cognitive Science of Personal Knowledge Management"
-  - "PKB Design and Cognitive Architecture"
-  - "Knowledge Management Planning through Cognitive Science"
+  - Spreading Activation
+  - PKM Planning Cognitive Science
+  - Cognitive Science of Personal Knowledge Management
+  - PKB Design and Cognitive Architecture
+  - Knowledge Management Planning through Cognitive Science
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,57 @@ subdomains:
   - information-architecture
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18"
+  - pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[schema-theory]]"
-  - "[[chunking]]"
-  - "[[retrieval-practice]]"
+  - '[[schema-theory]]'
+  - '[[chunking]]'
+  - '[[retrieval-practice]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[schema-theory]]"
-  - "[[chunking]]"
+  - '[[schema-theory]]'
+  - '[[chunking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[retrieval-practice]]"
+  - '[[retrieval-practice]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Spreading Activation
 
@@ -92,6 +91,9 @@ Theoretical roots of spreading activation can be traced back to cognitive scienc
 
 Empirically, spreading activation has been supported by research showing how priming effects occur when related concepts are activated in quick succession. For example, if you read about 'apple' followed by 'fruit,' the concept of 'fruit' is more likely to be activated than if it were presented alone.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Spreading activation not only explains how retrieval occurs but also sheds light on why certain pieces of information seem to 'pop up' in our minds seemingly out of nowhere. This phenomenon, often referred to as the tip-of-the-tongue experience or cryptomnesia, can be understood through the lens of spreading activation where a weakly activated node triggers a cascade that eventually leads to the retrieval of the desired memory.
+
 ## Mechanism
 
 The process of spreading activation involves a step-by-step propagation along associative links. When a node becomes active, its associated nodes are also activated, with the strength of this activation determined by the weight of the connections between them. This mechanism can be visualized as a wave of activation moving through the network.
@@ -109,6 +111,22 @@ The process of spreading activation involves a step-by-step propagation along as
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Spreading activation is concerned with intrinsic load, which refers to the inherent difficulty of a task or concept, whereas extraneous load involves unnecessary cognitive effort. Understanding this distinction helps in designing more effective learning environments that minimize extraneous load and maximize the efficiency of spreading activation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> Spreading activation operates primarily as a bottom-up process, driven by sensory input or initial cognitive cues that activate associated nodes. In contrast, top-down processing involves higher-level concepts guiding the retrieval of more specific information. While spreading activation is crucial for associative recall, it does not fully account for how abstract schemas or goals can influence memory search.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Spreading activation aligns closely with elaborative rehearsal, where connections between pieces of information are strengthened through meaningful associations. This contrasts with maintenance rehearsal, which involves rote repetition without deeper linking. Spreading activation suggests that the richness and depth of these links can significantly impact memory retention.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Spreading activation is solely responsible for all forms of associative recall.
+>
+> While spreading activation explains how related concepts activate each other, it does not account for strategic retrieval processes or inhibitory mechanisms that can prevent certain memories from being retrieved. This misconception arises because the model focuses on the propagation of activation but overlooks cognitive control and selective attention.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with introducing the concept of spreading activation in his research on cognitive load theory, which has significant implications for PKM systems by emphasizing the importance of linking knowledge in a way that reflects real-world relationships.
@@ -125,11 +143,21 @@ The process of spreading activation involves a step-by-step propagation along as
 >
 > *What would resolve it:* Empirical studies comparing the effects of spaced repetition with other study methods could provide insights into how spreading activation contributes to long-term memory retention.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does spreading activation influence the effectiveness of different note-taking strategies?
+>
+> *What would resolve it:* Research comparing various note-taking methods could reveal how different organizational structures (e.g., hierarchical vs. networked) impact memory retrieval through spreading activation, potentially informing best practices for PKM systems.
+
 ## Synthesis
 
 Spreading activation is significant for PKM systems because it provides a robust model for understanding how knowledge is organized and retrieved. By emphasizing the importance of linking information in a way that reflects real-world relationships, this concept supports emergent organization and enhances recall. This aligns with schema theory and chunking but offers a more nuanced view of associative memory.
 
 The link supremacy thesis, which posits that the linking structure rather than folder hierarchy is the primary organizational mechanism, has profound implications for how we design PKM systems. Understanding spreading activation helps us create knowledge bases that are not only more comprehensible but also better suited to human cognitive processes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding spreading activation is crucial not only for designing effective learning environments but also for optimizing personal knowledge management strategies. By leveraging the principles of associative recall and emergent organization, individuals can create more intuitive and efficient knowledge bases that better align with human cognitive processes.
 
 ## Connections & Context
 
@@ -140,3 +168,10 @@ The link supremacy thesis, which posits that the linking structure rather than f
 **Applies to:** [[retrieval-practice]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[retrieval-practice]]** — *applies-to*
+> Spreading activation provides a theoretical framework for understanding how retrieval practice enhances memory. By repeatedly activating nodes through recall, the strength of associative links is reinforced, making it easier to retrieve related information in the future.

@@ -1,14 +1,13 @@
 ---
-title: "The Centrality of Efficacy Over Outcome Expectations"
+title: The Centrality of Efficacy Over Outcome Expectations
 aliases:
-  - "The Centrality of Efficacy Over Outcome Expectations"
-  - "Self-Efficacy Theory Foundational Report"
-  - "Bandura Self-Efficacy"
-  - "Perceived Self-Efficacy Foundations"
+  - The Centrality of Efficacy Over Outcome Expectations
+  - Self-Efficacy Theory Foundational Report
+  - Bandura Self-Efficacy
+  - Perceived Self-Efficacy Foundations
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,56 @@ subdomains:
   - motivation-science
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-efficacy-theory-foundational-report-2026-04-20"
+  - self-efficacy-theory-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[self-efficacy-theory]]"
-  - "[[self-regulated-learning]]"
-  - "[[Outcome Expectations]]"
+  - '[[self-efficacy-theory]]'
+  - '[[self-regulated-learning]]'
+  - '[[Outcome Expectations]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[self-efficacy-theory]]"
+  - '[[self-efficacy-theory]]'
 see-also:
-  - "[[self-regulated-learning]]"
+  - '[[self-regulated-learning]]'
 contrasts-with:
-  - "[[Outcome Expectations]]"
+  - '[[Outcome Expectations]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # The Centrality of Efficacy Over Outcome Expectations
 
@@ -90,6 +89,9 @@ Theoretical roots of this concept can be traced back to Albert Bandura’s self-
 
 Empirical evidence supports this idea. For example, studies have shown that students who receive feedback focused on improving their problem-solving skills (efficacy) are more likely to persist and improve in math compared to those given only performance-based feedback (outcome). This underscores the importance of fostering a sense of efficacy rather than just focusing on outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The distinction between efficacy and outcome expectations is further nuanced by considering their temporal aspects. Efficacy beliefs tend to be more stable over time, influencing an individual's willingness to engage in a task regardless of immediate outcomes. In contrast, outcome expectations can fluctuate based on recent experiences or external feedback, potentially leading to inconsistent behavior if not aligned with consistent efficacy beliefs.
+
 ## Mechanism
 
 The mechanism by which changes in perceived capability lead to behavioral changes involves a cognitive process where individuals evaluate their own abilities and then act accordingly. When someone believes they can perform a task, they are more likely to engage in the necessary steps to do so, even if the outcome is uncertain or unfavorable.
@@ -106,6 +108,22 @@ The mechanism by which changes in perceived capability lead to behavioral change
 
 > [!key-distinction] **Efficacy vs Outcome Expectations**
 > While both efficacy and outcome expectations influence behavior, efficacy beliefs are more closely tied to actual performance. Efficacy is about one's belief in their ability to perform a task, whereas outcome expectations pertain to the anticipated results of performing that task. For example, a student may believe they can solve a math problem (efficacy) but not expect a good grade as a result (outcome expectation).
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation stems from personal interest and enjoyment in the task itself, extrinsic motivation is driven by external rewards or punishments. Efficacy beliefs can enhance both types of motivation but are particularly crucial for sustaining intrinsic motivation over time. In contrast, outcome expectations may bolster extrinsic motivation more directly, as they often focus on tangible outcomes like grades or recognition.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Efficacy beliefs encourage reflective thinking by fostering a sense of control and capability that prompts individuals to deliberate on their actions. This contrasts with reactive thinking driven primarily by outcome expectations, which may lead to impulsive decisions based on anticipated rewards or punishments.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that high efficacy alone guarantees success in any task.
+>
+> While strong efficacy beliefs are crucial for initiating and persisting with challenging tasks, they do not guarantee success. Success also depends on factors such as skill level, resources available, and the complexity of the task itself. Efficacy provides the motivational foundation but does not eliminate the need for competence and appropriate strategies.
 
 ## Key Figures
 
@@ -129,6 +147,9 @@ The centrality of efficacy over outcome expectations is crucial for understandin
 
 This principle has significant implications for various fields, including education, psychology, and organizational behavior. By emphasizing efficacy over outcomes, these domains can better support individuals in developing resilience, persistence, and overall well-being.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the centrality of efficacy over outcome expectations not only enriches our grasp of self-regulated learning but also provides a robust framework for designing interventions in education and mental health. By prioritizing the development of efficacy beliefs, these fields can better support individuals in overcoming challenges and achieving long-term success.
+
 ## Connections & Context
 
 **Falls under:** [[self-regulated-learning]]
@@ -140,3 +161,13 @@ This principle has significant implications for various fields, including educat
 **Contrasts with:** [[Outcome Expectations]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-regulated-learning]]** — *falls-under*
+> The centrality of efficacy over outcome expectations is a foundational principle within self-regulated learning, as it underscores the importance of internalized beliefs about one's capabilities in driving autonomous and effective learning behaviors. This connection highlights how perceived capability directly influences learners' engagement with tasks and their ability to manage their own learning processes.
+
+> [!connection] **[[Outcome Expectations]]** — *contrasts-with*
+> While outcome expectations focus on the anticipated results of performing a task, they are less predictive of actual performance compared to efficacy beliefs. This contrast is crucial because it highlights that focusing solely on outcomes can undermine intrinsic motivation and persistence, whereas fostering efficacy enhances both.

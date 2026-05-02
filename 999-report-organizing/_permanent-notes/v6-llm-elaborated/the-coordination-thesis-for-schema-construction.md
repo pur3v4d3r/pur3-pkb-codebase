@@ -1,15 +1,14 @@
 ---
-title: "The Coordination Thesis for Schema Construction"
+title: The Coordination Thesis for Schema Construction
 aliases:
-  - "The Coordination Thesis for Schema Construction"
-  - "4C/ID Model"
-  - "Four Component Instructional Design"
-  - "Ten Steps to Complex Learning"
-  - "van Merriënboer's 4C/ID"
+  - The Coordination Thesis for Schema Construction
+  - 4C/ID Model
+  - Four Component Instructional Design
+  - Ten Steps to Complex Learning
+  - van Merriënboer's 4C/ID
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "four-component-instructional-design-model-4cid-foundational-report-2026-04-18"
+  - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Design"
-
+depth-level: enhanced
+parent-concept: Instructional Design
 related:
-  - "[[schema-automation]]"
-  - "[[cognitive-load-theory]]"
+  - '[[schema-automation]]'
+  - '[[cognitive-load-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[schema-automation]]"
+  - '[[schema-automation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[cognitive-load-theory]]"
+  - '[[cognitive-load-theory]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # The Coordination Thesis for Schema Construction
 
@@ -90,6 +89,9 @@ The conceptual nuances of this thesis lie in its emphasis on the interaction bet
 
 Empirical evidence supports the Coordination Thesis, particularly through studies demonstrating improved transfer of learning when both supportive information and learning tasks are systematically coordinated. For example, a study by Sweller et al. (1988) showed that students who received both mental models and practice in applying these models performed better on transfer tests compared to those who only received one or the other.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Coordination Thesis for Schema Construction also underscores the importance of gradual complexity in learning tasks. As learners progress, tasks should become increasingly complex and varied to challenge their existing schemas and encourage schema expansion. This approach not only deepens understanding but also enhances adaptability when faced with novel situations.
+
 ## Mechanism
 
 The mechanism through which coordinated interaction leads to schema construction involves a step-by-step process. Initially, learners are introduced to supportive information that provides them with mental models and cognitive strategies. These models serve as the foundation for understanding complex tasks. Subsequently, learning tasks are designed to be authentic and variable, allowing learners to apply these models in diverse contexts. This application reinforces the models and helps learners integrate new knowledge into existing schemas.
@@ -105,10 +107,28 @@ The mechanism through which coordinated interaction leads to schema construction
 > [!example] **Application 3 — Transfer-of-learning**
 > To enhance transfer of learning, instructional designers should ensure that both supportive information and learning tasks are aligned with the target context. For instance, a training program for sales might provide mental models of customer interaction strategies and then offer role-playing scenarios that require learners to apply these models in realistic situations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be used to reinforce schema construction. By scheduling quizzes and assessments at intervals, learners are prompted to recall information over time, which helps integrate new knowledge into long-term memory. This method contrasts with massed practice, where repeated exposure occurs in close succession without breaks.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Coordination Thesis differs from cognitive load theory by focusing on the coordination between supportive information and learning tasks rather than just managing intrinsic and extraneous loads. While cognitive load theory emphasizes reducing unnecessary cognitive demands, the Coordination Thesis highlights the importance of integrating mental models with practice to build flexible schemas.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Performance vs Learning**
+> The Coordination Thesis for Schema Construction distinguishes between performance and learning outcomes. While performance focuses on immediate task success, learning emphasizes the development of flexible schemas that can be applied in various contexts over time. This distinction highlights why simply achieving high scores on assessments may not equate to true schema construction.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think The Coordination Thesis for Schema Construction means all learners should receive the same supportive information and tasks.
+>
+> This misconception arises from a misunderstanding of how individual differences in prior knowledge and cognitive load can affect learning. In reality, the thesis advocates for tailored supportive information and varied learning tasks that match each learner's current level of understanding and task complexity.
 
 ## Key Figures
 
@@ -126,11 +146,21 @@ The mechanism through which coordinated interaction leads to schema construction
 >
 > *What would resolve it:* Longitudinal studies tracking learners' performance over extended periods would provide insights into the lasting impact of coordinated schema construction on their ability to apply learned knowledge in new contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the integration of technology in learning environments impact the effectiveness of The Coordination Thesis for Schema Construction?
+>
+> *What would resolve it:* Research into how digital tools and platforms support schema construction could provide insights into enhancing or hindering factors. Understanding these dynamics would help refine instructional design practices to better leverage technological resources.
+
 ## Synthesis
 
 The Coordination Thesis for Schema Construction is crucial for instructional design and learning science because it provides a clear framework for building flexible, transferable schemas. By emphasizing the importance of coordinating supportive information with authentic learning tasks, this thesis offers practical guidance for educators and designers to create more effective learning environments. Its integration into broader theories like cognitive load theory also enriches our understanding of how learners construct knowledge and apply it in diverse contexts.
 
 The Coordination Thesis's focus on coordinated interaction aligns well with the goals of instructional design, which seeks to optimize learning outcomes through carefully structured instruction. By applying this thesis, educators can create more effective learning experiences that not only teach specific skills but also foster the development of transferable knowledge and problem-solving abilities.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Coordination Thesis for Schema Construction thus serves as a foundational principle in instructional design, guiding the creation of learning environments that foster deep understanding and flexible application of knowledge across diverse contexts.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ The Coordination Thesis's focus on coordinated interaction aligns well with the 
 **Sibling concepts:** [[cognitive-load-theory]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[cognitive-load-theory]]** — *contrasts-with*
+> While cognitive load theory focuses on minimizing extraneous cognitive demands to optimize learning, The Coordination Thesis for Schema Construction emphasizes the strategic coordination of supportive information and tasks. This distinction highlights that effective schema construction requires not just reducing cognitive overload but also fostering an environment where learners can actively engage with complex material.

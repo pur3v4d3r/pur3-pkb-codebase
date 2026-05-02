@@ -1,12 +1,11 @@
 ---
-title: "Utility Value"
+title: Utility Value
 aliases:
-  - "Utility Value"
-  - "perceived utility"
+  - Utility Value
+  - perceived utility
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,58 +17,58 @@ subdomains:
   - expectancy-value
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "utility-value-synthetic-seed-2026-04-25"
+  - utility-value-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[Attainment Value]]"
-  - "[[Cost]]"
-  - "[[Intrinsic Value]]"
-  - "[[expectancy-value-theory]]"
+  - '[[Attainment Value]]'
+  - '[[Cost]]'
+  - '[[Intrinsic Value]]'
+  - '[[expectancy-value-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Attainment Value]]"
-  - "[[Cost]]"
+  - '[[Attainment Value]]'
+  - '[[Cost]]'
 contrasts-with:
-  - "[[Intrinsic Value]]"
+  - '[[Intrinsic Value]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[expectancy-value-theory]]"
+  - '[[expectancy-value-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Utility Value
 
@@ -89,6 +88,9 @@ Theoretical roots of Utility Value can be traced back to John Sweller's work on 
 
 Empirical evidence supports the reliability of Utility Value interventions in educational settings. Brief writing exercises that prompt students to articulate the personal usefulness of course material have been shown to produce measurable downstream gains, particularly for those with low initial expectancy.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Utility Value is particularly influential in educational settings because it leverages students' future-oriented thinking, a cognitive process that involves planning and anticipation of long-term outcomes. This forward-looking perspective can be more motivating than immediate gratification or enjoyment, especially for tasks that are challenging but necessary for achieving long-term goals.
+
 ## Mechanism
 
 The mechanism by which learners generate their own utility connections involves a process where they reflect on how specific tasks can help them achieve their future goals. This reflection is crucial because it transforms abstract knowledge into personally relevant information, thereby increasing motivation and engagement.
@@ -106,6 +108,22 @@ The mechanism by which learners generate their own utility connections involves 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While Utility Value focuses on the perceived usefulness of tasks for future goals, intrinsic value pertains to enjoyment or interest in a task itself. Extrinsic load refers to additional cognitive demands imposed by external factors, whereas utility is about internal personal relevance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Utility Value hinges on reflective thinking, where students consciously evaluate the relevance of course material to their future aspirations. This contrasts with reactive thinking, which is more immediate and less goal-oriented. Reflective thinking allows for deeper connections between current learning and long-term goals, enhancing motivation.
+
+> [!key-distinction] **Performance vs Learning**
+> While performance focuses on demonstrating knowledge in the short term, Utility Value emphasizes learning as a process that aligns with future objectives. This distinction is crucial because focusing solely on performance can lead to surface-level engagement without fostering deep understanding or long-term motivation.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Utility Value only applies to academic tasks.
+>
+> Utility Value extends beyond academics, influencing how individuals perceive the usefulness of various activities in their lives. For example, a person might find utility in learning a new language for future travel or career opportunities.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller originated the concept of Utility Value within his broader work on cognitive load theory. His research highlighted the importance of aligning educational content with learners' existing knowledge structures to enhance learning efficiency.
@@ -122,11 +140,21 @@ The mechanism by which learners generate their own utility connections involves 
 >
 > *What would resolve it:* Longitudinal research tracking students over extended periods would provide insights into whether Utility Value interventions have lasting impacts on motivation and academic performance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Utility Value interact with other motivational components in diverse educational contexts?
+>
+> *What would resolve it:* Exploring how Utility Value interacts with intrinsic value, attainment value, and cost across different cultural and socio-economic backgrounds could provide insights into its role in student motivation.
+
 ## Synthesis
 
 Utility Value is a critical concept for understanding and enhancing student motivation in educational settings because it bridges the gap between abstract knowledge and personal relevance. By aligning course content with students' future goals, educators can foster deeper engagement and more effective learning outcomes.
 
 This concept also complements other motivational theories within Eccles's expectancy-value model, such as intrinsic value and attainment value, providing a comprehensive framework for understanding task value.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Utility Value within the broader expectancy-value theory framework highlights its importance for educators aiming to enhance student engagement. By fostering reflective thinking about future goals, educators can leverage Utility Value to create more meaningful and motivating learning experiences.
 
 ## Evidence
 
@@ -143,3 +171,10 @@ Empirical evidence supports the reliability of Utility Value interventions in ed
 **Supports:** [[expectancy-value-theory]]
 
 **Source:** [[utility-value-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[expectancy-value-theory]]** — *supports*
+> Utility Value is integral to Eccles's expectancy-value theory, which posits that students' motivation and engagement are influenced by their beliefs about the value of tasks. Utility Value specifically addresses how learners perceive the practical benefits of engaging with course material for future goals.

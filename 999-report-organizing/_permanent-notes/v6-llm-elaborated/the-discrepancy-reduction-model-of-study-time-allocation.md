@@ -1,16 +1,15 @@
 ---
-title: "Discrepancy-Reduction Model of Study Time Allocation"
+title: Discrepancy-Reduction Model of Study Time Allocation
 aliases:
-  - "Discrepancy-Reduction Model of Study Time Allocation"
-  - "Nelson-Narens Framework"
-  - "Metacognitive Control Framework"
-  - "Two-Level Model of Metacognition"
-  - "Meta-Level Object-Level Model"
-  - "Monitoring-Control Architecture"
+  - Discrepancy-Reduction Model of Study Time Allocation
+  - Nelson-Narens Framework
+  - Metacognitive Control Framework
+  - Two-Level Model of Metacognition
+  - Meta-Level Object-Level Model
+  - Monitoring-Control Architecture
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -24,55 +23,55 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19"
+  - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Metacognitive Control Framework]]"
-  - "[[Judgment-of-Learning (JOL)]]"
+  - '[[Metacognitive Control Framework]]'
+  - '[[Judgment-of-Learning (JOL)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Metacognitive Control Framework]]"
+  - '[[Metacognitive Control Framework]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Judgment-of-Learning (JOL)]]"
+  - '[[Judgment-of-Learning (JOL)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Discrepancy-Reduction Model of Study Time Allocation
 
@@ -89,6 +88,9 @@ The model's influence extends beyond simple memorization, as it also plays a rol
 
 Theoretical roots of this model can be traced back to cognitive architectures like Nelson & Narens' Metacognitive Control Framework, which posits a two-level architecture of monitoring and control. This framework provides a robust foundation for understanding how learners manage their study time based on perceived knowledge gaps.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Discrepancy-Reduction Model also highlights the role of feedback in shaping study time allocation. Feedback, whether from self-assessment or external sources like quizzes and tests, plays a critical role in refining learners' JOLs and thus influencing their study strategies. This iterative process of assessment and adjustment is crucial for effective learning.
+
 ## Mechanism
 
 The mechanism operates through a continuous cycle where learners assess the memorability of each item using JOLs, which serve as an indicator of their current knowledge state. Based on these assessments, they allocate more or less study time to different items, effectively reducing the discrepancy between their current and desired states.
@@ -104,10 +106,28 @@ The mechanism operates through a continuous cycle where learners assess the memo
 > [!example] **Application 3 — Feedback mechanisms**
 > Incorporating JOL-based feedback into learning systems can help learners better understand their knowledge gaps and allocate study time more effectively. This not only enhances learning efficiency but also improves metacognitive skills by encouraging self-assessment and reflection.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), where learners have varying levels of engagement, the Discrepancy-Reduction Model can guide the design of spaced retrieval activities. By strategically placing these activities to target knowledge gaps identified through JOL assessments, educators can enhance retention and understanding across a diverse learner population.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While the Discrepancy-Reduction Model focuses on reducing knowledge gaps, it does not directly address intrinsic versus extraneous load. In contrast, Sweller's Cognitive Load Theory emphasizes how different types of cognitive load affect learning efficiency and retention.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> The Discrepancy-Reduction Model emphasizes reflective thinking over reactive thinking. Reflective thinking involves deliberate assessment of one's knowledge gaps, leading to strategic study time allocation aimed at reducing these discrepancies. In contrast, reactive thinking might lead learners to focus on items that are immediately challenging without considering long-term learning goals.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the model only applies to memorization tasks.
+>
+> While the Discrepancy-Reduction Model is often discussed in the context of memorizing information, it has broader applications. It can guide learners in any domain where knowledge gaps need to be identified and addressed, such as problem-solving or skill acquisition.
 
 ## Key Figures
 
@@ -125,9 +145,19 @@ The mechanism operates through a continuous cycle where learners assess the memo
 >
 > *What would resolve it:* A comparative analysis of how different cognitive architectures, such as Flavell's Metacognitive Framework and the Discrepancy-Reduction Model, operate in various learning contexts could help clarify their interactions and potential synergies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the model account for individual differences in metacognitive accuracy?
+>
+> *What would resolve it:* Research into how accurately individuals can assess their own learning (metacognitive accuracy) is needed. Understanding these variations could help refine the Discrepancy-Reduction Model to better accommodate diverse learner populations.
+
 ## Synthesis
 
 The Discrepancy-Reduction Model of Study Time Allocation is a crucial component of cognitive architectures that seeks to understand how learners manage their study efforts. By integrating this model with other frameworks like Flavell's Metacognitive Framework, educators can develop more effective instructional strategies and feedback mechanisms. This model not only enhances learning efficiency but also fosters metacognitive skills, making it an essential tool in the broader field of cognitive psychology.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from the Discrepancy-Reduction Model with other cognitive architectures, educators can develop more nuanced and effective instructional strategies that not only enhance learning efficiency but also foster robust metacognitive skills in learners.
 
 ## Connections & Context
 
@@ -138,3 +168,10 @@ The Discrepancy-Reduction Model of Study Time Allocation is a crucial component 
 **Applies to:** [[Judgment-of-Learning (JOL)]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Judgment-of-Learning (JOL)]]** — *applies-to*
+> The Discrepancy-Reduction Model relies heavily on learners' judgments of learning (JOLs) to allocate study time. JOLs serve as the primary feedback mechanism that informs learners about their current knowledge state, enabling them to adjust their efforts accordingly.

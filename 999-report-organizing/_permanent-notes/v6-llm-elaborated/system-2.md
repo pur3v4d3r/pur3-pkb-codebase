@@ -1,13 +1,12 @@
 ---
-title: "System 2"
+title: System 2
 aliases:
-  - "System 2"
-  - "Type 2 processing"
-  - "deliberative system"
+  - System 2
+  - Type 2 processing
+  - deliberative system
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - dual-process-theory
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "system-2-synthetic-seed-2026-04-24"
+  - system-2-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Dual-Process Theory"
-
+depth-level: enhanced
+parent-concept: Dual-Process Theory
 related:
-  - "[[working-memory]]"
-  - "[[system-1]]"
-  - "[[Deliberation]]"
+  - '[[working-memory]]'
+  - '[[system-1]]'
+  - '[[Deliberation]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[system-1]]"
+  - '[[system-1]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Deliberation]]"
+  - '[[Deliberation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # System 2
 
@@ -88,6 +87,9 @@ The limitations of System 2 are significant. It is slow compared to System 1, wh
 
 The theoretical roots of System 2 can be traced back to Daniel Kahneman's dual-process theory, which posits that human cognition operates through two distinct systems: one fast and automatic (System 1), and the other slow and deliberate (System 2). This framework has been influential in understanding how people make decisions and process information, highlighting the interplay between intuitive and deliberative thinking.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+System 2's reliance on controlled attention and explicit calculation makes it particularly vulnerable to cognitive load, which can significantly impact its performance. When faced with high intrinsic or extraneous loads, System 2 may struggle to maintain focus and process information effectively, leading to errors or a failure to engage in the necessary deliberative processes.
+
 ## Mechanism
 
 System 2 operates within working memory by focusing on specific tasks that require controlled attention. It involves a series of steps where information is actively processed, analyzed, and integrated to produce a reasoned response. This process can be seen as a form of explicit calculation, where each step is carefully considered before moving on to the next.
@@ -103,10 +105,28 @@ System 2 operates within working memory by focusing on specific tasks that requi
 > [!example] **Application 3 — Expertise development**
 > In the development of expertise, System 2 plays a critical role in refining skills through deliberate practice. Experts often use System 2 to analyze their performance, identify areas for improvement, and make adjustments based on explicit reasoning rather than relying solely on intuitive feedback.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance System 2's effectiveness by reducing cognitive load. By spacing out learning sessions, students give their working memory time to consolidate information, thereby making it easier for them to engage in deliberate problem-solving and critical thinking during subsequent study sessions.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is the cognitive burden introduced by poor instructional design. System 2 can handle tasks with high intrinsic load but struggles with excessive extraneous load, which can overwhelm working memory and reduce performance.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves a careful analysis of information before reaching conclusions, aligning closely with System 2's deliberative processes. In contrast, reactive thinking is characterized by immediate responses based on intuition or habit, which are more aligned with System 1. Understanding this distinction helps in designing educational and decision-making contexts that appropriately leverage reflective thinking to enhance learning outcomes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think System 2 is always better than System 1.
+>
+> While System 2 can handle complex tasks requiring careful thought, it is not inherently superior. In many situations, especially those involving quick decisions under time pressure or in high-stress environments, System 1's intuitive responses are more efficient and effective. The key lies in recognizing when each system is most appropriate.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ System 2 operates within working memory by focusing on specific tasks that requi
 >
 > *What would resolve it:* Studies examining the impact of various training methods on System 2 performance, such as cognitive exercises and mindfulness practices, could help determine whether these interventions are effective in enhancing deliberative reasoning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can we design environments that minimize extraneous cognitive load on System 2?
+>
+> *What would resolve it:* Research into instructional design principles and cognitive load theory could provide insights into creating learning materials and decision-making frameworks that reduce unnecessary cognitive burdens, thereby enhancing the effectiveness of System 2.
+
 ## Synthesis
 
 Understanding System 2 is crucial for comprehending human cognition and decision-making. It provides a framework for analyzing how people process information and make decisions, highlighting the interplay between intuitive and deliberate thinking. By recognizing the limitations of System 2 and its role in cognitive processes, we can develop more effective instructional strategies, improve decision-making skills, and enhance expertise development.
 
 The significance of System 2 extends beyond individual cognition; it has implications for fields such as education, psychology, and neuroscience. By integrating insights from dual-process theory into these domains, researchers and practitioners can better understand human behavior and develop more effective interventions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the interplay between System 1 and System 2 provides a nuanced view of human cognition. While System 1 offers rapid, intuitive responses, System 2 enables deeper analysis and more complex problem-solving. Recognizing when to engage each system is crucial for effective decision-making and learning.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ The significance of System 2 extends beyond individual cognition; it has implica
 **Applies to:** [[Deliberation]]
 
 **Source:** [[system-2-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> System 2 heavily relies on working memory to manage controlled attention, process information step-by-step, and perform explicit calculations. Without sufficient working memory capacity, System 2's ability to engage in deliberate reasoning is severely compromised.

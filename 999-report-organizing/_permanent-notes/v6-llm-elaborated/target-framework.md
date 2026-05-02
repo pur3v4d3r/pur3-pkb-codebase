@@ -1,15 +1,14 @@
 ---
-title: "TARGET Framework"
+title: TARGET Framework
 aliases:
-  - "TARGET Framework"
-  - "Achievement Goal Theory"
-  - "Mastery vs Performance Goals"
-  - "AGT"
-  - "Goal Orientation Framework"
+  - TARGET Framework
+  - Achievement Goal Theory
+  - Mastery vs Performance Goals
+  - AGT
+  - Goal Orientation Framework
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,57 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20"
+  - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Educational Psychology"
-
+depth-level: enhanced
+parent-concept: Educational Psychology
 related:
   - "[[Pintrich's 4×4 Matrix]]"
-  - "[[achievement-goal-theory]]"
-  - "[[attribution-theory]]"
-  - "[[self-efficacy-theory]]"
+  - '[[achievement-goal-theory]]'
+  - '[[attribution-theory]]'
+  - '[[self-efficacy-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
   - "[[Pintrich's 4×4 Matrix]]"
 see-also:
-  - "[[achievement-goal-theory]]"
+  - '[[achievement-goal-theory]]'
 contrasts-with:
-  - "[[attribution-theory]]"
+  - '[[attribution-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-efficacy-theory]]"
+  - '[[self-efficacy-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # TARGET Framework
 
@@ -91,6 +90,9 @@ In practice, teachers must consider how these dimensions interact. For example, 
 Theoretical roots of TARGET lie in goal orientation theory, which posits that students' goal orientations (mastery or performance) significantly impact their learning outcomes and motivation. Ames's empirical work on classroom-level climate effects established the importance of environmental contributions to orientation adoption, making TARGET a crucial tool for instructional designers.
 
 Empirically, Ames’s research demonstrated that comprehensive reconfigurations of these dimensions reliably shift students' goal orientations towards mastery or performance. For example, in one study, classrooms configured with high levels of autonomy and intrinsic motivation (low extraneous load) showed significant improvements in student engagement and achievement.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The TARGET Framework's influence extends beyond traditional classroom settings into online and blended learning environments, where task design and recognition systems can be particularly influential in shaping students' goal orientations. For instance, digital badges or micro-credentials that emphasize mastery over performance can encourage a deeper engagement with material.
 
 ## Mechanism
 
@@ -112,6 +114,22 @@ The mechanism by which TARGET influences classroom climate is through the intera
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of tasks that students must overcome, while extraneous load includes unnecessary cognitive demands imposed by instructional design. TARGET helps in managing extraneous load by ensuring that task designs are not overly complex or distracting, thus supporting intrinsic motivation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Intrinsic motivation drives behavior for the inherent satisfaction of performing an activity, while extrinsic motivation is driven by external rewards or pressures. The TARGET Framework can be configured to enhance intrinsic motivation through mastery-oriented tasks and recognition systems that value learning over performance.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's actions, while reactive thinking is immediate and automatic. A classroom designed with reflective thinking in mind can foster a mastery orientation by encouraging students to think deeply about their learning processes rather than reacting to performance pressures.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that the TARGET Framework guarantees a shift towards mastery orientations.
+>
+> While the framework provides guidelines for promoting mastery, its effectiveness depends on how dimensions are configured and interact. For example, if evaluation practices emphasize performance over learning, they can undermine efforts to foster a mastery orientation.
+
 ## Key Figures
 
 - **Carol Ames** — Carol Ames is the originator of the TARGET Framework and has conducted extensive empirical work on classroom-level climate effects. Her research established the importance of environmental contributions to orientation adoption, making TARGET a standard reference for instructional designers.
@@ -128,11 +146,21 @@ The mechanism by which TARGET influences classroom climate is through the intera
 >
 > *What would resolve it:* Research examining how school-level policies, such as high-stakes testing, interact with classroom configurations would provide insights into the broader impact of TARGET.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do socio-economic factors and cultural contexts impact the effectiveness of the TARGET Framework?
+>
+> *What would resolve it:* Empirical studies that consider diverse educational settings could provide insights into how socio-economic status and cultural values influence students' responses to mastery-oriented classroom configurations.
+
 ## Synthesis
 
 The significance of TARGET lies in its ability to translate goal orientation theory into actionable instructional practices. By providing a structured framework for configuring classroom environments, it offers educators a powerful tool to influence students' learning outcomes and motivation. The broader implications extend beyond education, as the principles transfer to workplace learning contexts where continuous professional development is crucial.
 
 TARGET's impact on educational psychology is profound, as it bridges theoretical insights with practical applications. Its role in fostering mastery orientations aligns with broader goals of deep learning and student engagement, making it a cornerstone concept in the field.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating principles from self-efficacy theory, the TARGET Framework not only guides instructional design but also underscores the importance of fostering students' belief in their own capabilities. This holistic approach addresses both environmental and psychological factors that influence learning outcomes.
 
 ## Connections & Context
 
@@ -147,3 +175,10 @@ TARGET's impact on educational psychology is profound, as it bridges theoretical
 **Applies to:** [[self-efficacy-theory]]
 
 **Source:** [[goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-efficacy-theory]]** — *applies-to*
+> Self-efficacy theory posits that beliefs in one's capabilities to organize and execute the courses of action required to manage prospective situations influence motivation. The TARGET Framework can enhance self-efficacy by configuring classroom environments to support mastery orientations, thereby boosting students' belief in their ability to succeed.

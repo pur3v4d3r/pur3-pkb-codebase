@@ -1,12 +1,11 @@
 ---
-title: "Source Monitoring"
+title: Source Monitoring
 aliases:
-  - "Source Monitoring"
-  - "reality monitoring"
+  - Source Monitoring
+  - reality monitoring
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - metacognition
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "source-monitoring-synthetic-seed-2026-04-25"
+  - source-monitoring-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[false-memory]]"
-  - "[[reconstructive-memory]]"
-  - "[[episodic-memory]]"
+  - '[[false-memory]]'
+  - '[[reconstructive-memory]]'
+  - '[[episodic-memory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[false-memory]]"
-  - "[[reconstructive-memory]]"
+  - '[[false-memory]]'
+  - '[[reconstructive-memory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[episodic-memory]]"
+  - '[[episodic-memory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Source Monitoring
 
@@ -88,6 +87,9 @@ The process of source monitoring is deeply rooted in cognitive architecture and 
 
 Empirical research has shown that source monitoring errors are more likely when the information is highly similar across different sources. For example, if you hear a fact from two different people who both mentioned it in a similar way, your mind might struggle to distinguish between them, leading to misattribution.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Source monitoring is particularly vulnerable to interference from similar experiences or information sources, a phenomenon known as source confusion. For example, if someone reads about two different scientific studies on the same day and later recalls details of one study but misattributes them to the other, this exemplifies how closely related contexts can lead to errors in source attribution.
+
 ## Mechanism
 
 The process of source monitoring involves several stages. First, during encoding, information is processed and stored with contextual cues that help us later recall its origin. When retrieving this information, our brain attempts to reconstruct these cues. However, factors such as the vividness or emotional content of the original experience can influence how accurately we remember the source. Misinformation can also interfere with accurate sourcing by introducing new details that become integrated into our memory.
@@ -100,6 +102,11 @@ The process of source monitoring involves several stages. First, during encoding
 > [!example] **Application 2 — Legal contexts**
 > In legal settings, accurate sourcing is essential for testimony reliability. Misattributing information can lead to false testimonies, which can have serious consequences. By training witnesses on source monitoring techniques, such as keeping a detailed record of where they obtained their information, the accuracy of their recollections can be improved, reducing the risk of misattribution and enhancing the integrity of legal proceedings.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques are used to enhance learning and retention. However, these methods also challenge students' source monitoring abilities. When information is presented across multiple sessions, learners must accurately recall not only the content but also its original context or source within each session. This can be particularly difficult if the material overlaps between sessions.
+
 ## Key Distinctions
 
 > [!key-distinction] **Source vs. Content Accuracy**
@@ -107,6 +114,19 @@ The process of source monitoring involves several stages. First, during encoding
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Source monitoring involves intrinsic load, which refers to the inherent difficulty of the task itself (e.g., distinguishing between similar sources). In contrast, extraneous load is related to factors that are imposed by the environment or design of a memory task. For instance, presenting information in a way that makes it difficult to distinguish between different sources increases the intrinsic load on source monitoring.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall in Source Monitoring**
+> While recognition involves identifying information from a set of options, recall requires generating the information without cues. In source monitoring, both processes can be affected differently by contextual factors. Recognition might provide more context clues that aid in correctly attributing sources, whereas recall relies heavily on reconstructive memory and is thus more prone to errors.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think source monitoring only fails when information is incorrectly recalled.
+>
+> Source monitoring can fail even if the content of the memory is accurate. For instance, a person might correctly remember an event but misattribute it to a different time or place. This misconception arises because people often equate accuracy in recall with correct sourcing without considering that source and content accuracy are distinct processes.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ The process of source monitoring involves several stages. First, during encoding
 >
 > *What would resolve it:* Investigating the neural basis of source monitoring through neuroimaging techniques could help elucidate how different brain regions contribute to this process. This would provide a more comprehensive understanding of the cognitive and neurological underpinnings of memory retrieval.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the reliability of source monitoring vary across different types of information sources?
+>
+> *What would resolve it:* Investigating how source monitoring accuracy differs for various media (e.g., text vs. video) or contexts (e.g., personal experience vs. second-hand accounts) could provide insights into designing more effective learning environments and reducing misinformation.
+
 ## Synthesis
 
 Understanding source monitoring is crucial for cognitive science as it provides insights into how we manage and retrieve information within our cognitive system. It falls under [[cognitive-architecture]], which encompasses various processes involved in memory, attention, and decision-making. By studying source monitoring, researchers can better understand the complexities of human memory and develop strategies to improve memory accuracy in educational settings and legal contexts.
 
 Source monitoring also has broader implications for related concepts such as false memory and reconstructive memory. While all these phenomena involve errors in memory retrieval, they differ in their specific mechanisms and outcomes. For instance, false memory often involves the creation of entirely new memories, whereas source monitoring focuses on misattributing the origin of existing information. By differentiating between these processes, we can develop more effective interventions to enhance memory accuracy.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the nuances of source monitoring is essential not only for cognitive psychology but also for fields like education, where accurate attribution of information sources can significantly impact knowledge acquisition and retention.
 
 ## Connections & Context
 
@@ -139,3 +169,10 @@ Source monitoring also has broader implications for related concepts such as fal
 **Applies to:** [[episodic-memory]]
 
 **Source:** [[source-monitoring-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[reconstructive-memory]]** — *contrasts-with*
+> Source monitoring contrasts with reconstructive memory because while reconstructive memory involves piecing together fragmented memories, source monitoring specifically focuses on attributing these reconstructed memories to their correct origins. This distinction highlights that even if a memory is accurately reconstructed, its source can still be incorrectly attributed.

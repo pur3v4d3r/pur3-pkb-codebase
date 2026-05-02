@@ -1,14 +1,13 @@
 ---
-title: "State Dependent Memory"
+title: State Dependent Memory
 aliases:
-  - "State Dependent Memory"
-  - "State-Dependent Memory"
-  - "state-dependent retrieval"
-  - "mood-congruent recall"
+  - State Dependent Memory
+  - State-Dependent Memory
+  - state-dependent retrieval
+  - mood-congruent recall
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - memory-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "state-dependent-memory-synthetic-seed-2026-04-25"
+  - state-dependent-memory-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[encoding-specificity-principle]]"
-  - "[[context-dependent-memory]]"
-  - "[[Transfer-Adequate Processing]]"
+  - '[[encoding-specificity-principle]]'
+  - '[[context-dependent-memory]]'
+  - '[[Transfer-Adequate Processing]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[encoding-specificity-principle]]"
+  - '[[encoding-specificity-principle]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[context-dependent-memory]]"
+  - '[[context-dependent-memory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Transfer-Adequate Processing]]"
+  - '[[Transfer-Adequate Processing]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # State Dependent Memory
 
@@ -88,6 +87,9 @@ Theoretical roots of State Dependent Memory can be traced back to cognitive arch
 
 Empirical evidence supports this phenomenon, particularly in pharmacological studies. For example, research has shown that participants who learn material under the influence of a drug like scopolamine are more likely to recall it when they take the same drug during testing. However, State Dependent Memory is less pronounced for ordinary mood fluctuations, indicating that the effect is most robust with distinctive internal states.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+State Dependent Memory also plays a role in therapeutic settings, particularly in psychotherapy and addiction treatment. Therapists may use State Dependent Memory to help patients recall traumatic events or memories that are tied to specific emotional states. By recreating the internal state during therapy sessions, therapists can facilitate more accurate and less distressing recollections of past experiences.
+
 ## Mechanism
 
 The mechanism behind State Dependent Memory involves the brain's ability to encode and retrieve information based on specific internal conditions. When a learner is in a particular state during encoding, neural pathways are formed that are sensitive to those conditions. During recall, if the same state is reinstated, these pathways are more likely to be activated, leading to enhanced memory retrieval.
@@ -103,10 +105,28 @@ The mechanism behind State Dependent Memory involves the brain's ability to enco
 > [!example] **Application 3 — Pharmacological interventions**
 > In medical settings, State Dependent Memory can be harnessed for therapeutic purposes. For example, if a patient learns about their treatment regimen while taking a specific medication, they are more likely to remember and adhere to the instructions when they take that same drug again.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques are often employed to enhance learning. State Dependent Memory suggests that if students study under varying internal states, such as different moods or times of day, their ability to recall information during assessments may be enhanced. This approach could involve designing MOOCs with activities that encourage studying in diverse conditions and then testing students under similar conditions.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > State Dependent Memory focuses on intrinsic load, which is related to internal states like mood or pharmacological conditions. In contrast, extraneous load refers to external factors that can interfere with learning and memory, such as distractions in the environment. Understanding this distinction helps clarify when State Dependent Memory might be applicable versus when other factors are more influential.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> While State Dependent Memory primarily concerns recall, where information must be retrieved without cues, it also has implications for recognition. Recognition tasks involve identifying previously learned material when presented with a cue or stimulus. Research suggests that internal states can influence both recall and recognition, but the effect may be more pronounced in recall due to its reliance on reconstructive processes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think State Dependent Memory means that memories are only accessible when exactly the same internal state is present.
+>
+> This misconception arises from an oversimplification of how internal states influence memory retrieval. While reinstating similar internal conditions can enhance recall, it does not necessarily require a perfect match. The degree to which the original state is recreated influences the effectiveness of State Dependent Memory.
 
 ## Key Figures
 
@@ -124,9 +144,19 @@ The mechanism behind State Dependent Memory involves the brain's ability to enco
 >
 > *What would resolve it:* Empirical studies that explore the generalizability of State Dependent Memory across different contexts and populations could clarify its limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do varying levels of arousal influence State Dependent Memory?
+>
+> *What would resolve it:* Investigating the impact of different arousal levels on memory encoding and retrieval could provide insights into how physiological states modulate State Dependent Memory. This research would help refine strategies for optimal learning conditions.
+
 ## Synthesis
 
 State Dependent Memory is crucial for understanding memory retrieval mechanisms because it highlights the significant role of internal states in influencing our ability to recall information. By integrating this concept with broader cognitive architecture theories, we gain insights into how specific conditions during encoding can enhance or impair memory access. This has practical implications for instructional design and personal study habits, as well as potential applications in therapeutic settings. Ongoing research aims to refine our understanding of State Dependent Memory's boundaries and real-world applicability.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding State Dependent Memory within cognitive architecture underscores its role in shaping educational practices and therapeutic interventions. By recognizing the influence of internal states on memory retrieval, educators and therapists can design more effective methods to enhance recall and facilitate learning.
 
 ## Connections & Context
 
@@ -139,3 +169,10 @@ State Dependent Memory is crucial for understanding memory retrieval mechanisms 
 **Applies to:** [[Transfer-Adequate Processing]]
 
 **Source:** [[state-dependent-memory-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Transfer-Adequate Processing]]** — *applies-to*
+> State Dependent Memory applies to Transfer-Adequate Processing by highlighting how internal states during encoding can affect the transfer of knowledge. When information is encoded under specific conditions, it may be more effectively retrieved when those same conditions are present at retrieval, demonstrating that processing adequacy depends on matching internal states.

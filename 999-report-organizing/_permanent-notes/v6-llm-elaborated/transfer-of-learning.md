@@ -1,13 +1,12 @@
 ---
-title: "Transfer of Learning"
+title: Transfer of Learning
 aliases:
-  - "Transfer of Learning"
-  - "transfer"
-  - "learning transfer"
+  - Transfer of Learning
+  - transfer
+  - learning transfer
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "transfer-of-learning-synthetic-seed-2026-04-24"
+  - transfer-of-learning-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Educational Psychology"
-
+depth-level: enhanced
+parent-concept: Educational Psychology
 related:
-  - "[[schema-construction]]"
-  - "[[complex-learning]]"
-  - "[[Four-Component Instructional Design (4C/ID)]]"
+  - '[[schema-construction]]'
+  - '[[complex-learning]]'
+  - '[[Four-Component Instructional Design (4C/ID)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[schema-construction]]"
-  - "[[complex-learning]]"
+  - '[[schema-construction]]'
+  - '[[complex-learning]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Four-Component Instructional Design (4C/ID)]]"
+  - '[[Four-Component Instructional Design (4C/ID)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Transfer of Learning
 
@@ -89,6 +88,9 @@ Theoretical roots of Transfer of Learning can be traced back to cognitive psycho
 
 Empirical evidence supports these claims, showing that instructional designs that focus on deep understanding and flexible application tend to produce better Transfer of Learning outcomes. For instance, studies have demonstrated that learners who engage in diverse problem-solving tasks across different contexts are more likely to transfer their knowledge effectively compared to those who only practice surface-level skills.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Transfer of Learning is not merely a passive byproduct of instruction but an active process that learners engage in through deliberate practice and reflection. This involves the conscious effort to identify underlying principles, patterns, and connections across different contexts, which can be facilitated by instructional strategies such as problem-based learning or case studies.
+
 ## Mechanism
 
 Transfer of Learning is heavily influenced by the abstraction level at which learning occurs. Surface-bound learning, characterized by rote memorization and procedural focus, tends to transfer narrowly or not at all. In contrast, learning that is structured around schema (organized sets of related concepts) and explicit principles transfers more reliably across different contexts. This mechanism explains why instructional designs like 4C/ID and the Whole-Task Approach emphasize variability in practice and integration of partial skills as key levers for promoting far transfer.
@@ -104,14 +106,35 @@ Transfer of Learning is heavily influenced by the abstraction level at which lea
 > [!example] **Application 3 — Curriculum development**
 > When developing curricula, educators should ensure that learning objectives are designed with Transfer of Learning in mind. This involves creating a curriculum that not only teaches specific skills but also helps students understand the underlying principles and how to apply them flexibly across different contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques enhance Transfer of Learning. By scheduling quizzes and assessments at increasing intervals, learners are prompted to recall information from memory over time, which strengthens the neural connections associated with that knowledge. This method not only improves retention but also promotes the ability to apply learned concepts in new situations.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to the design of the learning environment. In Transfer of Learning, intrinsic load can affect how well learners encode knowledge into schemas, impacting far transfer. Excessive extraneous load, such as overly complex instructional materials or irrelevant information, can hinder the encoding process and reduce the likelihood of effective transfer.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Surface processing involves rote memorization and superficial engagement with material, often leading to poor Transfer of Learning. In contrast, deep processing focuses on understanding the underlying meaning and connections within information, which facilitates better retention and application across different contexts.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that near transfer is less valuable than far transfer.
+>
+> While far transfer is often seen as the gold standard for demonstrating robust learning, near transfer remains crucial. It serves as a stepping stone towards achieving far transfer by reinforcing foundational skills and knowledge in closely related contexts.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is a key contributor to the theory of Transfer of Learning. His work on cognitive load theory has significantly influenced our understanding of how learning can be structured to promote effective transfer, particularly through the emphasis on minimizing extraneous load and maximizing intrinsic load.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Robert Bjork** — Bjork's research on desirable difficulties highlights the importance of creating conditions during learning that challenge learners, thereby enhancing Transfer of Learning. His work emphasizes that optimal learning involves overcoming obstacles that promote deeper processing and better retention.
 
 ## Open Questions
 
@@ -125,11 +148,21 @@ Transfer of Learning is heavily influenced by the abstraction level at which lea
 >
 > *What would resolve it:* A comprehensive meta-analysis of various instructional designs and teaching methods could provide evidence-based guidelines for promoting Transfer of Learning across different contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the role of feedback in instructional design influence Transfer of Learning?
+>
+> *What would resolve it:* Further research is needed to explore how different types, timing, and delivery methods of feedback impact learners' ability to transfer knowledge across contexts. Understanding these dynamics could lead to more effective instructional strategies.
+
 ## Synthesis
 
 Understanding Transfer of Learning is crucial for effective instructional design and educational practice because it helps educators create learning experiences that not only produce high in-course performance but also enable learners to apply their knowledge flexibly across diverse scenarios. By integrating concepts from cognitive psychology, such as schema construction and the Four-Component Instructional Design framework, educators can design curricula and teaching strategies that promote deep understanding and flexible application of knowledge.
 
 Transfer of Learning intersects with other educational concepts like Complex Learning and Schema Construction, highlighting its importance in fostering durable learning. As we continue to explore open questions and tensions in this field, the insights gained will inform more effective instructional practices and contribute to broader advancements in Educational Psychology.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the nuances of Transfer of Learning allows educators to design learning environments that foster not just immediate performance but also long-term adaptability and problem-solving skills, essential for navigating an increasingly complex world.
 
 ## Connections & Context
 
@@ -140,3 +173,10 @@ Transfer of Learning intersects with other educational concepts like Complex Lea
 **Applies to:** [[Four-Component Instructional Design (4C/ID)]]
 
 **Source:** [[transfer-of-learning-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Four-Component Instructional Design (4C/ID)]]** — *applies-to*
+> The Four-Component Instructional Design model directly addresses Transfer of Learning by integrating four key components: declarative knowledge, procedural knowledge, contextual-practice, and reflective observation. This holistic approach ensures that learners not only acquire specific skills but also understand how to apply them flexibly in various contexts.

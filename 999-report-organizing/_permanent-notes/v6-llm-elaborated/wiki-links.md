@@ -1,14 +1,13 @@
 ---
-title: "Wiki Links"
+title: Wiki Links
 aliases:
-  - "Wiki Links"
-  - "wikilinks"
-  - "internal links"
-  - "double-bracket links"
+  - Wiki Links
+  - wikilinks
+  - internal links
+  - double-bracket links
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,56 @@ subdomains:
   - hypertext
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "wiki-links-synthetic-seed-2026-04-24"
+  - wiki-links-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Personal Knowledge Management"
-
+depth-level: enhanced
+parent-concept: Personal Knowledge Management
 related:
-  - "[[Hypertext]]"
-  - "[[Bidirectional Links]]"
-  - "[[Backlinks]]"
+  - '[[Hypertext]]'
+  - '[[Bidirectional Links]]'
+  - '[[Backlinks]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Hypertext]]"
+  - '[[Hypertext]]'
 see-also:
-  - "[[Bidirectional Links]]"
+  - '[[Bidirectional Links]]'
 contrasts-with:
-  - "[[Backlinks]]"
+  - '[[Backlinks]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Wiki Links
 
@@ -89,6 +88,9 @@ The theoretical roots of Wiki Links lie in the concept of hypertext, which was p
 
 Empirically, the use of Wiki Links has been shown to improve long-term memory and recall by creating a web of interconnected information. This is supported by research indicating that associative networks can enhance cognitive processing and retrieval. The bidirectional nature of these links ensures that related concepts are easily accessible, making it easier to navigate through your notes and build upon existing knowledge.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Wiki Links not only facilitate the creation and discovery of new notes but also encourage a non-linear, associative approach to knowledge organization. This contrasts with traditional linear documents or databases that require users to navigate through predefined structures. The flexibility of Wiki Links allows for spontaneous connections between ideas, mirroring how human cognition often operates in an associative manner.
+
 ## Mechanism
 
 The process of creating and resolving Wiki Links is straightforward. When you type `[[target]]` in a note, the system checks if a target with that name already exists. If not, it creates the target note automatically. The target then accumulates backlinks from every other note that references it. This mechanism ensures that your notes are interconnected without requiring manual management of links.
@@ -104,10 +106,28 @@ The process of creating and resolving Wiki Links is straightforward. When you ty
 > [!example] **Application 3 — Personal knowledge management**
 > In personal note-taking, Wiki Links help users build a comprehensive and interconnected knowledge base. This allows for more efficient retrieval of information and the ability to explore related ideas in a natural way, enhancing both learning and productivity.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced by integrating Wiki Links. By linking related concepts across different lectures or modules, students are prompted to revisit and reinforce their understanding periodically. This approach leverages the spacing effect, where distributed practice leads to better long-term retention compared to massed practice.
+
 ## Key Distinctions
 
 > [!key-distinction] **Wiki Links vs Backlinks**
 > While both Wiki Links and backlinks are bidirectional links within PKM systems, Wiki Links create new target notes on first reference, whereas backlinks simply point to existing notes. This distinction is crucial because it affects the incremental nature of network growth in PKM tools.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Wiki Links support deep processing by encouraging users to elaborate on connections between concepts. Unlike surface-level linking that merely points from one note to another, Wiki Links facilitate a deeper understanding as users must actively think about how ideas relate and create meaningful associations.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that Wiki Links are just simple hyperlinks.
+>
+> While similar to hyperlinks, Wiki Links have a unique mechanism in PKM systems. They automatically create new notes and maintain bidirectional links, which is not the case with standard hyperlinks. This automatic creation and backlinking feature makes Wiki Links particularly powerful for building an associative network of knowledge.
 
 ## Key Figures
 
@@ -125,11 +145,21 @@ The process of creating and resolving Wiki Links is straightforward. When you ty
 >
 > *What would resolve it:* Guidelines based on user feedback and case studies from successful PKM practitioners could provide insights into effective strategies for leveraging Wiki Links.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the use of Wiki Links influence the cognitive load during knowledge acquisition?
+>
+> *What would resolve it:* Empirical studies comparing cognitive load in users who employ Wiki Links versus those using traditional linking methods would provide insights into how these tools affect learning efficiency and retention.
+
 ## Synthesis
 
 Understanding Wiki Links is crucial for effective personal knowledge management because they enable the creation of a rich, interconnected network of notes. This network enhances recall and facilitates exploration of related ideas, making it easier to build upon existing knowledge. By integrating these bidirectional links into note-taking practices, users can create more meaningful and accessible knowledge bases that reflect their evolving understanding.
 
 The use of Wiki Links also aligns with broader principles in cognitive science, such as the importance of associative networks for memory and learning. This connection underscores the value of PKM tools like Obsidian, Logseq, Roam, and Foam in supporting effective personal information management.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The integration of Wiki Links within PKM systems not only enhances the organization and accessibility of personal knowledge but also aligns with principles from cognitive psychology that emphasize the importance of associative networks in memory formation and retrieval. By fostering a rich, interconnected web of ideas, Wiki Links support deeper learning and more flexible application of knowledge.
 
 ## Connections & Context
 
@@ -142,3 +172,10 @@ The use of Wiki Links also aligns with broader principles in cognitive science, 
 **Contrasts with:** [[Backlinks]]
 
 **Source:** [[wiki-links-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Bidirectional Links]]** — *contrasts-with*
+> While both Wiki Links and Bidirectional Links are forms of bidirectional linking, the key difference lies in their creation process. Wiki Links automatically create new notes on first reference, whereas Bidirectional Links typically require explicit setup or configuration to establish links between existing nodes.

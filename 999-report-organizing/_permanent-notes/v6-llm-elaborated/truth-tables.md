@@ -1,13 +1,12 @@
 ---
-title: "Truth Tables"
+title: Truth Tables
 aliases:
-  - "Truth Tables"
-  - "truth-table method"
-  - "semantic tables"
+  - Truth Tables
+  - truth-table method
+  - semantic tables
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - formal-logic
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "truth-tables-synthetic-seed-2026-04-25"
+  - truth-tables-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Formal Logic"
-
+depth-level: enhanced
+parent-concept: Formal Logic
 related:
-  - "[[Natural Deduction]]"
-  - "[[propositional-logic]]"
+  - '[[Natural Deduction]]'
+  - '[[propositional-logic]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Natural Deduction]]"
+  - '[[Natural Deduction]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[propositional-logic]]"
+  - '[[propositional-logic]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Truth Tables
 
@@ -87,6 +86,9 @@ The theoretical roots of Truth Tables lie in the semantic approach to logic, whi
 
 Historically, the use of Truth Tables can be traced back to early work in formal logic, with notable contributions from scholars like John Sweller, who highlighted their role in instructional design and educational psychology. While these tables are powerful for small arguments, they become impractical as the number of atomic propositions increases, making them less suitable for complex logical systems.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Truth Tables serve not just as a tool for evaluating logical propositions but also as an educational aid in understanding the structure and behavior of logical systems. By visualizing all possible truth value assignments, they help learners grasp complex concepts more intuitively than through abstract symbolic manipulation alone.
+
 ## Mechanism
 
 To construct a Truth Table, start by listing all possible truth value assignments to the atomic components. Then, apply the rules of logical connectives (AND, OR, NOT) to each row, systematically evaluating the compound proposition. This process ensures that every combination is considered, providing a clear and mechanical way to determine validity.
@@ -102,14 +104,35 @@ To construct a Truth Table, start by listing all possible truth value assignment
 > [!example] **Application 3 — Philosophical argument analysis**
 > For philosophers analyzing complex arguments, while Truth Tables can be a powerful tool, they may become unwieldy for arguments with more than five or six atomic propositions. In such cases, alternative methods like natural deduction offer a more manageable and constructive approach to proving validity.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance the effectiveness of Truth Tables as a learning tool. By revisiting and applying Truth Table exercises at increasing intervals, students reinforce their understanding over time, leading to better retention and application skills.
+
 ## Key Distinctions
 
 > [!key-distinction] **Exhaustive search vs Proof construction**
 > Truth Tables provide an exhaustive search of all possible truth value assignments, ensuring that every case is considered. In contrast, methods like natural deduction or tableau methods focus on constructing a proof step-by-step, which can be more efficient for larger and more complex logical systems.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Truth Tables exemplify reflective thinking by requiring learners to systematically evaluate logical propositions through a step-by-step process. This contrasts with reactive thinking, which involves immediate responses without deep consideration. Reflective thinking via Truth Tables helps develop critical reasoning skills.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that Truth Tables are only useful for simple logical expressions.
+>
+> While it is true that constructing Truth Tables becomes impractical for complex systems due to exponential growth, they remain a fundamental tool in understanding and teaching basic logic. Their systematic approach ensures clarity and completeness in evaluating propositions.
+
 ## Key Figures
 
 - **John Sweller** — Sweller highlighted the role of Truth Tables in instructional design and educational psychology, emphasizing their importance in teaching formal logic to students.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **George Boole** — Boole's work on algebraic logic laid foundational principles that later enabled the development of Truth Tables. His insights into logical operations as mathematical functions are essential to understanding how Truth Tables evaluate propositions.
 
 ## Open Questions
 
@@ -123,9 +146,19 @@ To construct a Truth Table, start by listing all possible truth value assignment
 >
 > *What would resolve it:* Advancements in algorithmic logic and computational techniques might lead to the development of more efficient methods, potentially reducing the reliance on Truth Tables for complex systems.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can we adapt Truth Table methods for more complex logical systems without losing their systematic evaluation benefits?
+>
+> *What would resolve it:* Research into alternative or hybrid approaches that combine the exhaustive nature of Truth Tables with efficiency gains from other logical reasoning techniques could provide solutions.
+
 ## Synthesis
 
 Truth Tables are a cornerstone of formal logic, offering a clear and mechanical way to determine the validity of logical arguments. By providing an exhaustive search of all possible truth value assignments, they ensure that every case is considered, making them invaluable in instructional design, computer science, and philosophical argument analysis. However, their limitations become apparent when dealing with complex systems like predicate logic, where more efficient methods are needed. Understanding these distinctions highlights the broader implications of Truth Tables across formal logic, philosophy, and computer science.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Truth Tables, while powerful in propositional logic, highlight the need for adaptable methods in handling more complex logical systems. Their systematic approach underscores the importance of reflective thinking in formal logic education and practice.
 
 ## Connections & Context
 
@@ -136,3 +169,10 @@ Truth Tables are a cornerstone of formal logic, offering a clear and mechanical 
 **Applies to:** [[propositional-logic]]
 
 **Source:** [[truth-tables-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[propositional-logic]]** — *applies-to*
+> Truth Tables are integral to propositional logic as they provide a methodical way to assess the validity of logical arguments. This connection is crucial because it underpins how Truth Tables serve as a decision procedure for determining whether compound propositions hold true in all possible scenarios.

@@ -1,14 +1,13 @@
 ---
-title: "Speech Acts"
+title: Speech Acts
 aliases:
-  - "Speech Acts"
-  - "Austin speech act theory"
-  - "illocutionary acts"
-  - "Searle speech acts"
+  - Speech Acts
+  - Austin speech act theory
+  - illocutionary acts
+  - Searle speech acts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,56 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "speech-acts-synthetic-seed-2026-04-26"
+  - speech-acts-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Linguistics"
-
+depth-level: enhanced
+parent-concept: Linguistics
 related:
   - "[[Grice's Maxims]]"
-  - "[[pragmatics]]"
-  - "[[Performatives]]"
+  - '[[pragmatics]]'
+  - '[[Performatives]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
   - "[[Grice's Maxims]]"
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[pragmatics]]"
+  - '[[pragmatics]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Performatives]]"
+  - '[[Performatives]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Speech Acts
 
@@ -89,6 +88,9 @@ The theory's foundational mechanism lies in its ability to distinguish between d
 
 The theoretical roots of Speech Acts can be traced back to J.L. Austin's seminal work 'How to Do Things with Words' in 1955, where he introduced the concept of performative utterances. Searle further developed this theory in his 1969 book 'Speech Acts: An Essay in the Philosophy of Language,' proposing a five-fold classification of speech acts that includes declarations, commissives, directives, expressives, and declaratives.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Speech Acts theory also illuminates how context and social norms shape the interpretation of utterances. For example, a statement like 'I bet you can't do it' might be interpreted as a challenge in one setting but as playful banter in another. This contextual variability underscores the importance of understanding not just what is said, but where and to whom it is said.
+
 ## Mechanism
 
 The mechanism by which Speech Acts are decomposed into locutionary, illocutionary, and perlocutionary components involves analyzing the utterance in three stages. First, one identifies the literal meaning of the words (locutionary act). Second, one determines the intention behind those words (illocutionary act), such as whether they are meant to be a promise or an order. Finally, one assesses the effect produced by the utterance on the listener or situation (perlocutionary act).
@@ -104,10 +106,28 @@ The mechanism by which Speech Acts are decomposed into locutionary, illocutionar
 > [!example] **Application 3 — Artificial intelligence**
 > In artificial intelligence, Speech Acts theory is essential for developing conversational agents that can understand and respond appropriately to human commands. For instance, when a user says 'Turn off the lights,' they are performing a directive. An AI system must recognize this as an illocutionary act and execute the corresponding perlocutionary effect by turning off the lights.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Legal Disputes**
+> In legal disputes, misinterpretation of Speech Acts can lead to significant misunderstandings. For instance, a lawyer might say 'I will not object' during cross-examination, which could be interpreted as an agreement or simply a strategic choice. Understanding the illocutionary force behind such statements is crucial for accurate interpretation and fair proceedings.
+
 ## Key Distinctions
 
 > [!key-distinction] **Speech Acts vs Grice's maxims**
 > While Speech Acts theory focuses on the performative nature of utterances, Grice's maxims deal with conversational implicature and how context influences meaning. For example, a speaker might say 'It is cold in here' to imply that someone should close the window, rather than literally stating the temperature. Understanding these distinctions helps in comprehending different aspects of language use.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Declarative vs Procedural Knowledge**
+> While declarative knowledge involves knowing facts ('I know that...'), Speech Acts often involve procedural knowledge, or knowing how to perform actions through language ('I know how to promise'). This distinction is crucial because it highlights the practical application of linguistic acts in everyday communication.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that all Speech Acts are conscious and deliberate.
+>
+> In reality, many Speech Acts occur automatically and without explicit awareness. For example, saying 'I promise' can be a habitual response in certain social contexts, reflecting the deeply ingrained nature of linguistic conventions.
 
 ## Key Figures
 
@@ -126,6 +146,13 @@ The mechanism by which Speech Acts are decomposed into locutionary, illocutionar
 >
 > *What would resolve it:* Empirical research examining real-world usage of speech acts could reveal whether Searle's categories accurately capture all types of utterances or if additional categories are needed.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do Speech Acts vary across different digital communication platforms?
+>
+> *What would resolve it:* Research comparing how Speech Acts are performed and interpreted on various online forums, social media, and messaging apps would help understand the nuances of digital communication.
+
 ## Synthesis
 
 Understanding Speech Acts is crucial for comprehending language use and social interaction because it provides a framework for analyzing the performative nature of utterances. This theory bridges linguistics, pragmatics, conversation analysis, and artificial intelligence by offering insights into how language performs actions and influences behavior. By recognizing the locutionary, illocutionary, and perlocutionary components of speech acts, we can better design instructional materials, legal documents, and AI systems that are effective and contextually appropriate.
@@ -141,3 +168,10 @@ Understanding Speech Acts is crucial for comprehending language use and social i
 **Instance of:** [[Performatives]]
 
 **Source:** [[speech-acts-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[pragmatics]]** — *applies-to*
+> Speech Acts theory is foundational to pragmatics because it explains how utterances are used to perform actions beyond mere description. This connection highlights the importance of context and intention in understanding language use, which is central to pragmatic analysis.

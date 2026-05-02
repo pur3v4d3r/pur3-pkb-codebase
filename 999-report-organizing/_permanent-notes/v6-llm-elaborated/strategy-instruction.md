@@ -1,13 +1,12 @@
 ---
-title: "Strategy Instruction"
+title: Strategy Instruction
 aliases:
-  - "Strategy Instruction"
-  - "learning-strategy instruction"
-  - "cognitive strategy instruction"
+  - Strategy Instruction
+  - learning-strategy instruction
+  - cognitive strategy instruction
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - metacognition
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "strategy-instruction-synthetic-seed-2026-04-25"
+  - strategy-instruction-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[self-regulated-learning]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[self-regulated-learning]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-regulated-learning]]"
+  - '[[self-regulated-learning]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Strategy Instruction
 
@@ -88,6 +87,9 @@ Theoretical roots of Strategy Instruction can be traced back to cognitive load t
 
 Empirical evidence supports the effectiveness of Strategy Instruction when it includes conditional knowledge. A meta-analysis by Sweller (1988) found that strategies taught without this contextual understanding are less likely to transfer to new tasks. This underscores the importance of integrating both procedural and conditional knowledge in instructional design.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Strategy Instruction is particularly effective in promoting deep learning because it encourages students to engage actively with material rather than passively receiving information. By fostering a deeper understanding of the content, learners are better equipped to apply their knowledge flexibly and creatively across different contexts. This active engagement can lead to more robust memory encoding and retrieval processes, enhancing long-term retention and transferability of skills.
+
 ## Mechanism
 
 Strategy Instruction works through a step-by-step process: first, teachers model the strategy, then provide guided practice where students apply it with support, followed by independent application. Each stage builds on the previous one, ensuring that learners internalize both how to use the strategy and when it is most effective.
@@ -105,6 +107,19 @@ Strategy Instruction works through a step-by-step process: first, teachers model
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Strategy Instruction differs from approaches that focus solely on reducing extraneous load. While both aim to optimize working memory, Strategy Instruction specifically targets the strategic use of cognitive and metacognitive strategies to manage intrinsic load more effectively.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Strategy Instruction contrasts with mere maintenance rehearsal by focusing on elaborative rehearsal. While maintenance rehearsal involves repetitive rote memorization, Strategy Instruction encourages learners to engage in deeper processing through techniques like summarizing and self-questioning. This distinction is crucial because elaborative rehearsal leads to better long-term retention and understanding compared to surface-level repetition.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Strategy Instruction only benefits students with learning difficulties.
+>
+> This misconception arises from the belief that Strategy Instruction is a remedial approach. In reality, it enhances learning for all students by providing them with effective cognitive tools and metacognitive skills. Research shows that even high-achieving students can benefit significantly from structured strategy use, as it helps optimize their working memory capacity and promotes more efficient information processing.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating the concept of Strategy Instruction in his work on cognitive load theory. His research highlighted the importance of teaching both procedural and conditional knowledge to ensure effective transfer of learning.
@@ -121,11 +136,21 @@ Strategy Instruction works through a step-by-step process: first, teachers model
 >
 > *What would resolve it:* Longitudinal studies would provide insights into whether the benefits of Strategy Instruction persist over time and across different academic domains.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Strategy Instruction impact students' motivation over time?
+>
+> *What would resolve it:* Longitudinal studies are needed to explore whether the benefits of Strategy Instruction extend beyond immediate learning gains and positively influence students' intrinsic motivation. Understanding this could provide insights into how to sustain engagement and foster a lifelong love for learning.
+
 ## Synthesis
 
 Strategy Instruction matters because it provides a framework for enhancing learning efficiency by equipping students with both cognitive tools and metacognitive skills. By integrating these strategies, educators can support deeper understanding and more flexible application of knowledge. This aligns well with the goals of [[self-regulated-learning]], which also emphasizes learner autonomy and strategic thinking.
 
 Moreover, Strategy Instruction builds on the principles of working memory capacity, as it helps manage cognitive load effectively. When combined with worked examples, it can further enhance learning by providing concrete models for strategy application.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating cognitive strategies with metacognitive awareness, Strategy Instruction not only enhances immediate learning outcomes but also fosters long-term academic success by promoting self-regulated learning behaviors. This dual focus on both 'what' to do and 'how' to think about the process aligns well with broader educational goals of developing independent, lifelong learners.
 
 ## Connections & Context
 
@@ -138,3 +163,10 @@ Moreover, Strategy Instruction builds on the principles of working memory capaci
 **Applies to:** [[worked-examples]]
 
 **Source:** [[strategy-instruction-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-regulated-learning]]** — *sibling*
+> Strategy Instruction and self-regulated learning are closely intertwined because both emphasize the importance of learner autonomy and strategic thinking. Strategy Instruction equips students with specific cognitive tools that they can use to regulate their own learning processes, such as planning, monitoring, and evaluating their progress. This alignment supports the development of self-regulation skills, enabling learners to take charge of their educational journey.

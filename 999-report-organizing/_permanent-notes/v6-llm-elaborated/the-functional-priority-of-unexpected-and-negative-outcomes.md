@@ -1,14 +1,13 @@
 ---
-title: "Functional Priority of Unexpected and Negative Outcomes"
+title: Functional Priority of Unexpected and Negative Outcomes
 aliases:
-  - "Functional Priority of Unexpected and Negative Outcomes"
-  - "Attribution Theory Foundational Report"
-  - "Weiner's Attribution Theory"
-  - "Causal Attribution in Motivation"
+  - Functional Priority of Unexpected and Negative Outcomes
+  - Attribution Theory Foundational Report
+  - Weiner's Attribution Theory
+  - Causal Attribution in Motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,56 +20,56 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "attribution-theory-foundational-report-2026-04-19"
+  - attribution-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Attribution Theory"
-
+depth-level: enhanced
+parent-concept: Attribution Theory
 related:
-  - "[[self-determination-theory]]"
-  - "[[learned-helplessness]]"
-  - "[[expectancy-value-theory]]"
+  - '[[self-determination-theory]]'
+  - '[[learned-helplessness]]'
+  - '[[expectancy-value-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 contradicts:
-  - "[[learned-helplessness]]"
+  - '[[learned-helplessness]]'
 applies-to:
-  - "[[expectancy-value-theory]]"
+  - '[[expectancy-value-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Functional Priority of Unexpected and Negative Outcomes
 
@@ -90,6 +89,9 @@ Theoretical roots in Attribution Theory suggest that this prioritization helps m
 
 Empirical evidence supports the idea that cognitive resources are indeed allocated more heavily during unexpected or negative outcomes. For instance, studies have shown that when faced with a failure, people tend to engage in deeper causal analysis, often leading to changes in behavior or attitudes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The prioritization of unexpected and negative outcomes in causal analysis is not merely a cognitive quirk but serves an evolutionary purpose. Early humans who could quickly identify and respond to threats or anomalies in their environment were more likely to survive, making this mechanism a critical survival tool that has been preserved through natural selection.
+
 ## Mechanism
 
 The mechanism operates through an asymmetric allocation of cognitive resources. When an outcome is unexpected or negative, the brain dedicates more attention and processing power to understanding why it occurred. This process involves evaluating various potential causes, weighing their likelihood, and forming a coherent explanation that can be used for future decision-making.
@@ -102,10 +104,28 @@ The mechanism operates through an asymmetric allocation of cognitive resources. 
 > [!example] **Application 2 — Therapeutic interventions**
 > In therapeutic settings, understanding this mechanism can help therapists guide clients in processing unexpected or negative events. By encouraging clients to explore these moments thoroughly, therapists can facilitate more effective coping strategies and personal growth.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be strategically applied by introducing unexpected quiz questions or negative feedback scenarios. This approach leverages the functional priority of unexpected outcomes to enhance learning, as students are more likely to engage deeply with material when confronted with surprising or challenging assessments.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While the Functional Priority of Unexpected and Negative Outcomes focuses on cognitive resource allocation in response to critical events, intrinsic load refers to the inherent difficulty of a task, whereas extraneous load pertains to unnecessary aspects that can hinder learning. This distinction matters because understanding these different types of cognitive loads helps tailor educational interventions more effectively.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and consideration of information, often triggered by unexpected outcomes. In contrast, reactive thinking is immediate and automatic, typically in response to routine or expected events. The distinction matters because the functional priority mechanism specifically enhances reflective thinking during critical moments, allowing for deeper causal analysis.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that prioritizing unexpected outcomes means ignoring positive ones.
+>
+> This misconception arises from misunderstanding the selective nature of cognitive resource allocation. While negative and unexpected events receive more attention, this does not mean positive outcomes are ignored; rather, they may be processed with less intensity or depth. This selective focus ensures efficient use of limited cognitive resources.
 
 ## Key Figures
 
@@ -123,11 +143,21 @@ The mechanism operates through an asymmetric allocation of cognitive resources. 
 >
 > *What would resolve it:* Longitudinal research tracking individuals' cognitive development over time, particularly after experiencing significant life events, could help understand these long-term impacts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the prioritization mechanism vary with age?
+>
+> *What would resolve it:* Longitudinal studies tracking cognitive responses to unexpected outcomes across different developmental stages could provide insights into how this mechanism evolves over time, potentially informing age-appropriate educational and therapeutic strategies.
+
 ## Synthesis
 
 The Functional Priority of Unexpected and Negative Outcomes is crucial for understanding human motivation and social cognition because it highlights the brain's adaptive mechanisms in response to critical events. By prioritizing causal analysis during unexpected or negative outcomes, individuals can better navigate their environment and make informed decisions. This concept also intersects with broader theories such as self-determination theory and learned helplessness, enriching our understanding of how cognitive processes influence behavior and motivation.
 
 The relevance of this concept extends beyond individual psychology to educational and therapeutic applications, where it informs strategies for enhancing learning and personal growth.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the functional priority of unexpected and negative outcomes enriches Attribution Theory by highlighting its adaptive role in human cognition. This concept not only explains why individuals focus more on critical events but also underscores the importance of such mechanisms for personal growth, learning, and resilience across various contexts.
 
 ## Connections & Context
 
@@ -140,3 +170,10 @@ The relevance of this concept extends beyond individual psychology to educationa
 **Applies to:** [[expectancy-value-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[expectancy-value-theory]]** — *applies-to*
+> Expectancy-Value Theory explains how individuals' beliefs about their ability to succeed (expectancies) and the value they place on outcomes influence motivation. The functional priority of unexpected and negative outcomes applies to this theory by highlighting that when expectancies are violated, individuals invest more cognitive effort in understanding why, which can alter both their expectancies and the perceived value of future actions.

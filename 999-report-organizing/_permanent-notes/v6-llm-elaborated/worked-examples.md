@@ -1,13 +1,12 @@
 ---
-title: "Worked Examples"
+title: Worked Examples
 aliases:
-  - "Worked Examples"
-  - "worked-out examples"
-  - "fully worked examples"
+  - Worked Examples
+  - worked-out examples
+  - fully worked examples
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "worked-examples-synthetic-seed-2026-04-24"
+  - worked-examples-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Design"
-
+depth-level: enhanced
+parent-concept: Instructional Design
 related:
-  - "[[working-memory]]"
-  - "[[expertise-reversal-effect]]"
-  - "[[schema-construction]]"
-  - "[[cognitive-load-theory]]"
+  - '[[working-memory]]'
+  - '[[expertise-reversal-effect]]'
+  - '[[schema-construction]]'
+  - '[[cognitive-load-theory]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[expertise-reversal-effect]]"
+  - '[[expertise-reversal-effect]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[schema-construction]]"
+  - '[[schema-construction]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[cognitive-load-theory]]"
+  - '[[cognitive-load-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Worked Examples
 
@@ -89,6 +88,9 @@ Theoretical roots of worked examples are deeply embedded in [[cognitive-load-the
 
 Empirical evidence supports the effectiveness of worked examples in educational settings. Studies have shown that novices who study worked examples outperform those who solve problems independently on subsequent tests, indicating that worked examples can significantly enhance learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Worked Examples have been shown to be particularly effective in domains that require complex problem-solving, such as mathematics and programming. By breaking down problems into manageable steps with clear explanations, learners can more easily identify the key principles and apply them to similar problems. This method not only aids in immediate learning but also supports long-term retention by reinforcing the underlying schema.
+
 ## Mechanism
 
 Worked Examples operate by freeing working memory from the search load imposed by means-ends strategies. By presenting complete solutions and justifications for each step, learners are able to focus their attention on understanding the underlying schema rather than searching for a solution. This process allows them to construct schemas more efficiently and effectively.
@@ -104,10 +106,28 @@ Worked Examples operate by freeing working memory from the search load imposed b
 > [!example] **Application 3 — Expert development**
 > As learners become more proficient, worked examples should be gradually phased out in favor of practice problems that require independent problem-solving. This transition helps prevent the expertise reversal effect, where excessive reliance on worked examples can hinder advanced learning and problem-solving skills.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), integrating spaced retrieval with worked examples can enhance learning outcomes. By revisiting worked examples at increasing intervals, learners reinforce their understanding and retention of problem-solving techniques. This approach leverages the benefits of both methods: the immediate guidance provided by worked examples and the long-term memory consolidation offered by spaced retrieval.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Worked Examples reduce extraneous cognitive load by providing complete solutions that highlight the underlying structure of problems. In contrast, intrinsic cognitive load is inherent to the complexity of the material itself and cannot be reduced through instructional design. Understanding this distinction helps educators focus on optimizing the learning environment rather than altering the fundamental difficulty of the content.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Worked Examples facilitate deep processing, where learners engage with material on a conceptual level rather than merely memorizing surface-level details. By focusing on the reasoning behind each step in a solution, learners are encouraged to think about why certain methods work and how they can be applied in different contexts. This contrasts with surface processing, which involves rote learning without understanding underlying principles.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that worked examples only benefit novices.
+>
+> While worked examples are particularly beneficial for novices who struggle to find solutions independently, they also serve as a valuable resource for more advanced learners. Advanced students can use them to verify their understanding, identify gaps in knowledge, and refine problem-solving strategies. Thus, the utility of worked examples spans across different levels of expertise.
 
 ## Key Figures
 
@@ -125,9 +145,19 @@ Worked Examples operate by freeing working memory from the search load imposed b
 >
 > *What would resolve it:* Longitudinal studies tracking learners' problem-solving abilities over extended periods would provide insights into whether worked examples lead to sustained improvements in independent problem-solving skills or if they have diminishing returns as expertise grows.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do worked examples impact long-term retention compared to independent problem solving?
+>
+> *What would resolve it:* Research comparing the effects of worked examples versus independent problem solving on long-term retention would provide insights into whether guided learning through examples leads to more durable knowledge acquisition.
+
 ## Synthesis
 
 Worked Examples are a critical component of instructional design within cognitive psychology because they effectively reduce extraneous cognitive load, allowing learners to focus on schema construction. By providing complete solutions and justifications, worked examples facilitate faster and more durable learning for novices while preventing the expertise reversal effect in advanced learners. This makes them an essential tool for educators aiming to optimize the learning process.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Worked Examples are a powerful instructional tool that leverages cognitive load theory to optimize schema construction. By reducing extraneous cognitive load and facilitating deep processing, they enable learners to efficiently acquire problem-solving skills across various domains.
 
 ## Connections & Context
 
@@ -142,3 +172,10 @@ Worked Examples are a critical component of instructional design within cognitiv
 **Supports:** [[cognitive-load-theory]]
 
 **Source:** [[worked-examples-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[cognitive-load-theory]]** — *supports*
+> Cognitive Load Theory provides a theoretical framework for understanding how worked examples reduce extraneous cognitive load by minimizing the effort required to search for solutions. By presenting complete, step-by-step solutions, worked examples allow learners to focus their limited working memory on schema construction rather than means-ends problem-solving strategies.

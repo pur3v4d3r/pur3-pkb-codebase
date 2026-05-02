@@ -1,15 +1,14 @@
 ---
-title: "Sweller's 2010 Reconceptualization of Cognitive Load"
+title: Sweller's 2010 Reconceptualization of Cognitive Load
 aliases:
-  - "Sweller's 2010 Reconceptualization of Cognitive Load"
-  - "CLT Foundational Report"
-  - "Cognitive Load Theory Report"
-  - "Sweller CLT Comprehensive Treatment"
-  - "CLT Architecture and Taxonomy"
+  - Sweller's 2010 Reconceptualization of Cognitive Load
+  - CLT Foundational Report
+  - Cognitive Load Theory Report
+  - Sweller CLT Comprehensive Treatment
+  - CLT Architecture and Taxonomy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "cognitive-load-theory-foundational-report-2026-04-18"
+  - cognitive-load-theory-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Sweller's 2010 Reconceptualization of Cognitive Load
 
@@ -90,6 +89,9 @@ Theoretical roots of this redefinition trace back to Sweller's earlier work on c
 
 Empirical evidence supporting this redefinition comes from studies demonstrating that instructional designs that align with the principles of cognitive load theory, particularly those that reduce extraneous load and promote germane load, lead to better learning outcomes. For instance, worked examples have been shown to be more effective than problem-solving tasks when they are designed to facilitate schema construction.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Sweller's redefinition also underscores a shift in pedagogical focus from merely reducing cognitive load to enhancing learning efficiency through strategic resource allocation. By emphasizing the role of germane load, educators can better understand how to design instructional materials that not only minimize extraneous cognitive demands but also maximize opportunities for schema construction and deep processing.
+
 ## Mechanism
 
 The process by which intrinsic cognitive load is transformed into productive schema construction involves several stages: first, learners encounter new information that requires working memory resources. Second, these resources are directed towards understanding and integrating the new information with existing knowledge structures. Finally, through practice and repetition, this integration leads to the formation of schemas, which can then be applied in novel situations.
@@ -102,10 +104,31 @@ The process by which intrinsic cognitive load is transformed into productive sch
 > [!example] **Application 2 — Educational practices**
 > In educational settings, this redefinition implies that instructional methods should be designed to minimize extraneous cognitive load and maximize germane load. This means providing clear, structured guidance and reducing unnecessary complexity, thereby facilitating schema construction and enhancing learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can be particularly effective when aligned with Sweller's redefinition of germane load. By spacing out practice sessions, learners are given time to consolidate new information into long-term memory, thereby reducing the intrinsic cognitive load during each session and allowing more working memory resources to be directed towards schema construction.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is imposed by instructional design. The key distinction lies in their sources: intrinsic load cannot be eliminated but can be managed through effective instruction, whereas extraneous load can often be reduced or removed entirely.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> While intrinsic load is inherent to the task at hand and cannot be eliminated, extraneous load arises from instructional design choices that do not directly contribute to learning. Understanding this distinction helps educators focus on minimizing extraneous load while leveraging intrinsic load for schema construction.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Maintenance rehearsal involves rote repetition of information, whereas elaborative rehearsal involves linking new information with existing knowledge in meaningful ways. Sweller's redefinition highlights the importance of elaborative rehearsal in managing germane load and fostering deeper learning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that reducing cognitive load always improves learning.
+>
+> Reducing extraneous cognitive load can improve learning efficiency, but simply lowering overall cognitive demands may hinder schema construction. The goal is to optimize working memory resources for productive processing strategies rather than merely minimizing load.
 
 ## Key Figures
 
@@ -129,6 +152,9 @@ Sweller's redefinition of germane load is significant because it clarifies the d
 
 This redefinition also contributes to the broader field of cognitive psychology by refining our understanding of how working memory resources are allocated during learning. It bridges theoretical insights with practical applications, making it a cornerstone of modern educational practices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Sweller's redefinition integrates the theoretical underpinnings of cognitive architecture with practical instructional design strategies, offering a comprehensive framework for enhancing learning efficiency through strategic management of cognitive loads.
+
 ## Connections & Context
 
 **Falls under:** [[cognitive-architecture]]
@@ -138,3 +164,13 @@ This redefinition also contributes to the broader field of cognitive psychology 
 **Applies to:** [[worked-examples]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory capacity underpins the ability to manage intrinsic and extraneous cognitive loads. Understanding working memory constraints is essential for designing instructional materials that align with Sweller's redefinition of germane load, ensuring that learners can effectively allocate resources towards schema construction.
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Worked examples serve as a practical application of Sweller's redefinition by guiding learners through problem-solving processes. This approach reduces extraneous cognitive load and directs working memory resources towards understanding underlying principles, thereby facilitating schema construction.

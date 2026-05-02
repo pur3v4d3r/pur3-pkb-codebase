@@ -1,15 +1,14 @@
 ---
-title: "Working Memory"
+title: Working Memory
 aliases:
-  - "Working Memory"
-  - "CLT Foundational Report"
-  - "Cognitive Load Theory Report"
-  - "Sweller CLT Comprehensive Treatment"
-  - "CLT Architecture and Taxonomy"
+  - Working Memory
+  - CLT Foundational Report
+  - Cognitive Load Theory Report
+  - Sweller CLT Comprehensive Treatment
+  - CLT Architecture and Taxonomy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,59 +21,59 @@ subdomains:
   - human-factors
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "cognitive-load-theory-foundational-report-2026-04-18"
+  - cognitive-load-theory-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[chunking]]"
-  - "[[intrinsic-cognitive-load]]"
-  - "[[extraneous-cognitive-load]]"
-  - "[[germane-cognitive-load]]"
+  - '[[chunking]]'
+  - '[[intrinsic-cognitive-load]]'
+  - '[[extraneous-cognitive-load]]'
+  - '[[germane-cognitive-load]]'
 prerequisites:
-  - "[[chunking]]"
+  - '[[chunking]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[intrinsic-cognitive-load]]"
-  - "[[extraneous-cognitive-load]]"
-  - "[[germane-cognitive-load]]"
+  - '[[intrinsic-cognitive-load]]'
+  - '[[extraneous-cognitive-load]]'
+  - '[[germane-cognitive-load]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Working Memory
 
@@ -94,6 +93,9 @@ Theoretical roots of working memory are deeply embedded in Cognitive Load Theory
 
 Empirical evidence supports the importance of working memory in learning. For instance, studies have shown that when students are presented with too much information at once, their performance declines due to working memory overload. This underscores the need for instructional strategies that break down complex tasks into manageable chunks and provide opportunities for rehearsal.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Working memory's role extends beyond mere storage; it actively engages in problem-solving and reasoning tasks by integrating new information with existing knowledge from long-term memory. This integration process is critical for generating insights and solutions that go beyond the immediate data available, thus highlighting working memory as a dynamic rather than static cognitive resource.
+
 ## Mechanism
 
 Working memory processes and manipulates information through a series of steps. First, it receives input from sensory registers or long-term memory. Then, it organizes this information by chunking related elements together to reduce the number of items that need to be held simultaneously. Finally, working memory decays rapidly if not actively rehearsed, meaning that information must be repeatedly processed to maintain its presence in the system.
@@ -109,10 +111,28 @@ Working memory processes and manipulates information through a series of steps. 
 > [!example] **Application 3 — Expertise reversal**
 > The expertise-reversal effect highlights how working memory limitations can vary between novices and experts. While novices benefit from detailed, step-by-step instructions, experts may prefer more abstract or theoretical explanations. Instructional materials should be tailored to the learner's level of expertise to optimize learning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance learning by reducing the reliance on short-term memorization. By spacing out practice sessions, learners are prompted to retrieve information from long-term memory into working memory at intervals, which strengthens neural connections and improves retention over time.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic cognitive load refers to the inherent complexity of the material itself, which is processed in working memory. In contrast, extraneous cognitive load arises from poor instructional design and can be reduced by optimizing materials for better processing in working memory. Understanding these distinctions helps educators create more effective learning environments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Maintenance rehearsal involves the simple repetition of information without deeper processing, whereas elaborative rehearsal involves linking new information to existing knowledge in a meaningful way. Maintenance rehearsal is less effective for long-term retention because it does not engage working memory deeply enough; elaborative rehearsal, however, leverages working memory's capacity to integrate and manipulate information, leading to more durable learning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that increasing the amount of information presented at once will lead to better understanding.
+>
+> This misconception arises from underestimating working memory's limited capacity. Presenting too much information simultaneously can overwhelm working memory, leading to cognitive overload and reduced comprehension. Effective learning strategies focus on breaking down complex material into manageable chunks that fit within the constraints of working memory.
 
 ## Key Figures
 
@@ -130,11 +150,21 @@ Working memory processes and manipulates information through a series of steps. 
 >
 > *What would resolve it:* Longitudinal studies tracking students' performance over extended periods would help determine the lasting impact of working memory limitations on learning and retention.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does individual variability in working memory capacity affect learning outcomes?
+>
+> *What would resolve it:* Understanding the range of working memory capacities among individuals could inform personalized instructional strategies that better match the cognitive demands of tasks with learners' capabilities, potentially improving educational equity and effectiveness.
+
 ## Synthesis
 
 Understanding working memory within Cognitive Load Theory is crucial for optimizing educational practices. By recognizing its limited capacity, educators can design instructional materials that reduce cognitive load and promote deeper processing of information. This knowledge also informs the development of effective teaching strategies, such as chunking and worked examples, which enhance learning outcomes by aligning with the limitations of working memory.
 
 The broader implications extend beyond education into various domains where complex problem-solving is required. In fields like psychology, neuroscience, and human-computer interaction, understanding how working memory operates can lead to more effective design solutions that support cognitive processing.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from Cognitive Load Theory, educators can design learning environments that optimize working memory's capacity for processing new information. This involves balancing intrinsic load through task complexity management and reducing extraneous load by minimizing unnecessary cognitive demands, thereby enhancing the conditions under which germane load—efforts directed towards schema construction and automation—can flourish.
 
 ## Connections & Context
 
@@ -145,3 +175,10 @@ The broader implications extend beyond education into various domains where comp
 **Applies to:** [[intrinsic-cognitive-load]] · [[extraneous-cognitive-load]] · [[germane-cognitive-load]]
 
 **Source:** [[cognitive-load-theory-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[intrinsic-cognitive-load]]** — *applies-to*
+> Intrinsic cognitive load is directly linked to the complexity and novelty of information processed in working memory. Tasks that require handling multiple, unrelated pieces of novel information simultaneously impose a higher intrinsic load on working memory, making it harder for learners to process and integrate this information effectively.

@@ -1,12 +1,11 @@
 ---
-title: "Troubleshooting"
+title: Troubleshooting
 aliases:
-  - "Troubleshooting"
-  - "diagnostic problem-solving"
+  - Troubleshooting
+  - diagnostic problem-solving
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - problem-solving
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "troubleshooting-synthetic-seed-2026-05-01"
+  - troubleshooting-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Problem-Solving"
-
+depth-level: enhanced
+parent-concept: Problem-Solving
 related:
-  - "[[Root-Cause Analysis]]"
-  - "[[Debugging]]"
-  - "[[Exception Handling]]"
+  - '[[Root-Cause Analysis]]'
+  - '[[Debugging]]'
+  - '[[Exception Handling]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Root-Cause Analysis]]"
+  - '[[Root-Cause Analysis]]'
 see-also:
-  - "[[Debugging]]"
+  - '[[Debugging]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Exception Handling]]"
+  - '[[Exception Handling]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Troubleshooting
 
@@ -87,6 +86,9 @@ Theoretical roots of troubleshooting can be traced back to cognitive psychology,
 
 Empirical evidence from software engineering supports this approach, showing that troubleshooting habits can be significantly improved through training and practice. For instance, studies have demonstrated that structured diagnostic techniques lead to faster resolution times and fewer recurrence of defects compared to ad-hoc methods.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Troubleshooting often requires a balance between intuition and methodical analysis. Intuition, driven by experience and pattern recognition, allows troubleshooters to quickly form initial hypotheses about the cause of an issue. However, this must be tempered with systematic probing to validate these intuitions against empirical evidence from the system in question.
+
 ## Mechanism
 
 Experienced troubleshooters use pattern-matching to generate hypotheses by comparing observed symptoms with known failure modes. They then employ targeted probes—specific actions or observations designed to test these hypotheses—to discriminate among them effectively. This methodical approach ensures that the troubleshooting process is both efficient and accurate.
@@ -102,6 +104,11 @@ Experienced troubleshooters use pattern-matching to generate hypotheses by compa
 > [!example] **Application 3 — Customer support**
 > In customer support, troubleshooting expertise ensures that issues are resolved more quickly and effectively, enhancing customer satisfaction and reducing long-term costs associated with repeated service calls.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance troubleshooting skills by encouraging learners to revisit and apply their knowledge at intervals. This approach helps solidify the mental models necessary for effective hypothesis generation, ensuring that troubleshooters are better prepared to tackle complex issues when they arise.
+
 ## Key Distinctions
 
 > [!key-distinction] **Troubleshooting vs Generic Problem-Solving**
@@ -110,9 +117,25 @@ Experienced troubleshooters use pattern-matching to generate hypotheses by compa
 > [!key-distinction] **Symptom Suppression vs Cause Resolution**
 > Troubleshooting focuses on identifying and addressing the underlying cause of a malfunction, whereas symptom suppression merely alleviates visible issues without resolving their root. This distinction is important as it can lead to recurrence or new problems if not properly addressed.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Troubleshooting relies heavily on reflective thinking, where individuals take time to analyze symptoms and generate hypotheses about potential causes. This contrasts with reactive thinking, which focuses on immediate responses without deeper analysis. Reflective thinking is crucial in troubleshooting as it allows for more accurate diagnosis and resolution of issues.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that troubleshooting only involves fixing the symptoms.
+>
+> This misconception arises from a misunderstanding of the core goal of troubleshooting, which is to identify and resolve root causes rather than merely addressing surface-level issues. By focusing on root cause analysis, troubleshooters ensure long-term system stability and prevent recurrence of problems.
+
 ## Key Figures
 
 - **John Sweller** — Sweller's research on cognitive load theory provided foundational insights into how experienced troubleshooters generate hypotheses and use structured problem-solving techniques, emphasizing the importance of mental models in troubleshooting.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **John Sweller** — Sweller's work on cognitive load theory has informed the understanding of how troubleshooters manage information during problem-solving, emphasizing the role of mental models in effective troubleshooting.
 
 ## Open Questions
 
@@ -132,6 +155,9 @@ Troubleshooting is a critical component of problem-solving, particularly in comp
 
 The concept of troubleshooting has implications across various domains, including software development, customer support, and instructional design. Its importance lies in its ability to prevent recurrence of defects and improve overall system reliability.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating reflective thinking and systematic probing, troubleshooting not only addresses immediate issues but also enhances long-term system resilience. This dual focus on both short-term resolution and long-term prevention is a hallmark of effective troubleshooting practices.
+
 ## Connections & Context
 
 **Falls under:** [[Problem-Solving]]
@@ -143,3 +169,10 @@ The concept of troubleshooting has implications across various domains, includin
 **Applies to:** [[Exception Handling]]
 
 **Source:** [[troubleshooting-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Root-Cause Analysis]]** — *generalizes-to*
+> Troubleshooting is a specific instance of root cause analysis, where the goal is to identify the underlying factors that contribute to system failures. This connection highlights how troubleshooting techniques are applied within broader efforts to understand and address systemic issues.

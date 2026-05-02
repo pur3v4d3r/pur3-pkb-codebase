@@ -1,13 +1,12 @@
 ---
-title: "Theory of Planned Behavior"
+title: Theory of Planned Behavior
 aliases:
-  - "Theory of Planned Behavior"
-  - "TPB"
-  - "Ajzen TPB"
+  - Theory of Planned Behavior
+  - TPB
+  - Ajzen TPB
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - health-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "theory-of-planned-behavior-synthetic-seed-2026-04-25"
+  - theory-of-planned-behavior-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Behavior Change Theory"
-
+depth-level: enhanced
+parent-concept: Behavior Change Theory
 related:
-  - "[[Theory of Reasoned Action (TRA)]]"
-  - "[[stages-of-change-model]]"
-  - "[[implementation-intentions]]"
+  - '[[Theory of Reasoned Action (TRA)]]'
+  - '[[stages-of-change-model]]'
+  - '[[implementation-intentions]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Theory of Reasoned Action (TRA)]]"
+  - '[[Theory of Reasoned Action (TRA)]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[stages-of-change-model]]"
+  - '[[stages-of-change-model]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[implementation-intentions]]"
+  - '[[implementation-intentions]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Theory of Planned Behavior
 
@@ -88,6 +87,9 @@ TPB builds upon the theory of reasoned action, which posits that attitudes and s
 
 Empirical studies support these claims, showing that interventions targeting all three components can effectively change intentions and subsequent behaviors. For example, campaigns promoting vaccination might focus on increasing perceived efficacy (perceived behavioral control) to boost intention among those who are hesitant.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The TPB framework has been widely applied in various fields, including public health and environmental psychology, to understand and predict behaviors such as smoking cessation, recycling habits, and dietary choices. Its strength lies in its ability to integrate subjective factors with perceived control over behavior, making it a versatile tool for designing interventions that target multiple psychological dimensions simultaneously.
+
 ## Mechanism
 
 The mechanism by which TPB operates involves a step-by-step process: first, attitudes toward the behavior form our initial evaluation. Next, subjective norms influence us based on what we think others expect or approve of. Finally, perceived behavioral control assesses how feasible it is to perform the behavior. These factors collectively shape our intention, and if strong enough, this intention translates into actual behavior.
@@ -103,10 +105,28 @@ The mechanism by which TPB operates involves a step-by-step process: first, atti
 > [!example] **Application 3 — Consumer behavior**
 > In marketing, TPB can be used to create advertisements that not only highlight the benefits of a product (attitude) but also show how it fits into one's social life (subjective norm) and is easily accessible or affordable (perceived behavioral control). This comprehensive approach can lead to stronger intentions among consumers.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be used to enhance learning outcomes by reinforcing key concepts over time. Applying TPB, educators might design interventions that not only provide information on the benefits of spaced retrieval (attitude) but also foster a supportive online community environment where learners feel encouraged to engage in this practice (subjective norm). Additionally, offering practical tools and resources for implementing spaced retrieval can increase perceived behavioral control, thereby enhancing students' intentions to use this strategy.
+
 ## Key Distinctions
 
 > [!key-distinction] **Attitude vs. Subjective Norm**
 > While attitudes reflect our personal evaluation of a behavior, subjective norms are based on perceived social pressure from others. For example, someone might have a positive attitude toward vegetarianism but feel pressured by their family to eat meat (high subjective norm). TPB recognizes that both factors play crucial roles in shaping intentions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While TPB primarily focuses on the role of attitudes, norms, and perceived control in shaping behavior, it does not explicitly differentiate between intrinsic (internally driven) and extrinsic (externally driven) motivations. Understanding whether a person's intention to perform a behavior stems from internal satisfaction or external rewards can provide deeper insights into their motivation levels and persistence over time.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think TPB only applies to voluntary behaviors.
+>
+> TPB is specifically designed for volitional behaviors, but it does not mean it cannot be applied in contexts where some level of control over the behavior exists. For instance, while certain health behaviors may seem involuntary due to medical necessity, individuals can still exert some degree of control over how they manage their conditions.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ The mechanism by which TPB operates involves a step-by-step process: first, atti
 >
 > *What would resolve it:* Developing more effective interventions that bridge the gap between intention and behavior could involve integrating implementation intentions or other complementary models into TPB-based programs.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does TPB account for changes in attitudes over time?
+>
+> *What would resolve it:* Further research could explore how dynamic changes in attitudes affect the stability of behavioral intentions and subsequent actions. Understanding these temporal dynamics can refine TPB's predictive power.
+
 ## Synthesis
 
 The Theory of Planned Behavior is a cornerstone in motivational psychology, offering a robust framework for understanding and predicting volitional behaviors. Its application spans various domains, from health promotion to environmental conservation and consumer behavior. By addressing the complex interplay between attitudes, subjective norms, and perceived behavioral control, TPB provides valuable insights into how we can design effective interventions that not only change intentions but also lead to lasting changes in behavior.
 
 TPB's influence extends beyond its theoretical contributions; it has inspired numerous empirical studies and practical applications. Its ability to account for volitional behaviors makes it a powerful tool for researchers and practitioners alike, highlighting the importance of considering multiple factors when designing interventions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating subjective norms and perceived behavioral control, TPB offers a nuanced view of behavior prediction that goes beyond simple attitude-behavior correlations. This holistic approach makes it particularly useful for designing interventions aimed at fostering positive behavioral changes across diverse contexts.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ TPB's influence extends beyond its theoretical contributions; it has inspired nu
 **Applies to:** [[implementation-intentions]]
 
 **Source:** [[theory-of-planned-behavior-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[implementation-intentions]]** — *applies-to*
+> Implementation intentions are a strategy that complements TPB by specifying when, where, and how to perform the intended behavior. This approach enhances perceived behavioral control within TPB's framework, making it more likely for individuals to translate their intentions into actual behaviors.

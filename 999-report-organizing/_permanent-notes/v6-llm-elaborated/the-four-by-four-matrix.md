@@ -1,15 +1,14 @@
 ---
-title: "Four-by-Four Matrix"
+title: Four-by-Four Matrix
 aliases:
-  - "Four-by-Four Matrix"
-  - "Pintrich Self-Regulation"
-  - "Pintrich SRL Framework"
-  - "Pintrich 4x4 Model"
-  - "Pintrich Self-Regulated Learning"
+  - Four-by-Four Matrix
+  - Pintrich Self-Regulation
+  - Pintrich SRL Framework
+  - Pintrich 4x4 Model
+  - Pintrich Self-Regulated Learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,56 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pintrich-self-regulation-foundational-report-2026-04-20"
+  - pintrich-self-regulation-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[cyclical-model-of-self-regulated-learning]]"
-  - "[[Metacognition Framework]]"
-  - "[[Motivated Strategies for Learning Questionnaire (MSLQ)]]"
+  - '[[cyclical-model-of-self-regulated-learning]]'
+  - '[[Metacognition Framework]]'
+  - '[[Motivated Strategies for Learning Questionnaire (MSLQ)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[cyclical-model-of-self-regulated-learning]]"
+  - '[[cyclical-model-of-self-regulated-learning]]'
 contrasts-with:
-  - "[[Metacognition Framework]]"
+  - '[[Metacognition Framework]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Motivated Strategies for Learning Questionnaire (MSLQ)]]"
+  - '[[Motivated Strategies for Learning Questionnaire (MSLQ)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Four-by-Four Matrix
 
@@ -91,6 +90,9 @@ The theoretical roots of this matrix lie in the synthesis of cognitive, motivati
 
 Empirically, Pintrich’s work has shown that the Four-by-Four Matrix can be applied across various contexts, from professional skill acquisition to therapeutic self-management. For example, in software engineering, a developer might plan daily practice time during forethought-behavior (planning), and then adjust their approach based on feedback received during monitoring-cognition (noticing difficulties).
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Four-by-Four Matrix's comprehensive approach to self-regulation is particularly valuable in educational settings where diverse learning needs and styles must be accommodated. By breaking down the complex process of self-regulated learning into discrete yet interconnected phases, educators can tailor their instructional strategies more effectively. For example, understanding how a student’s motivation (affect) influences their cognitive processes during the monitoring phase can lead to targeted interventions that enhance both engagement and academic performance.
+
 ## Mechanism
 
 The matrix operates as a continuous interaction model where each phase and area influence one another. For instance, motivational fluctuations in the monitoring phase can trigger strategic adjustments in the forethought phase, leading to adaptive behavior in the control phase.
@@ -109,10 +111,28 @@ The matrix operates as a continuous interaction model where each phase and area 
 > [!example] **Application 4 — Educational assessment**
 > Assessors can use the matrix to evaluate students' self-regulation skills. By analyzing how students plan and adjust their study strategies (forethought-cognition), monitor their progress (monitoring-motivation), control their behavior (control-behavior), and reflect on their learning experiences (reaction-reflection), educators can provide targeted feedback and support.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can be integrated into the Four-by-Four Matrix framework. By strategically spacing out review sessions across different phases of learning, students are encouraged to engage more deeply with course material over time rather than cramming it all at once. This approach leverages the control phase by promoting effective study habits and aligning with the forethought phase’s goal-setting strategies.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Four-by-Four Matrix distinguishes between intrinsic load, which is inherent to the task itself, and extraneous load, which arises from how the task is presented. In contrast, other models might not explicitly differentiate these types of cognitive load, making the matrix more nuanced in its approach to understanding self-regulation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> The Four-by-Four Matrix emphasizes reflective thinking over reactive thinking, a distinction that is crucial for self-regulated learning. Reflective thinking involves deliberate review and adjustment of one’s strategies based on feedback from the monitoring phase, whereas reactive thinking focuses on immediate responses without deeper analysis. This difference matters because fostering reflective thinking can lead to more adaptive and effective learning behaviors.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that each cell in the Four-by-Four Matrix operates independently.
+>
+> This misconception arises from a misunderstanding of how self-regulation functions. In reality, the matrix is designed to highlight the continuous interaction between phases and areas rather than their isolation. For instance, cognitive processes during the forethought phase can influence motivational states in the monitoring phase, demonstrating that these elements are interconnected.
 
 ## Key Figures
 
@@ -130,11 +150,21 @@ The matrix operates as a continuous interaction model where each phase and area 
 >
 > *What would resolve it:* Studies that examine the boundaries between these phases in real-world scenarios would help clarify whether they can be treated as discrete or if they overlap more than currently understood.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the application of the Four-by-Four Matrix?
+>
+> *What would resolve it:* Further research could explore how different cultural values and educational practices impact students' self-regulation processes. Understanding these nuances can help tailor the matrix’s applications to diverse learning environments.
+
 ## Synthesis
 
 The Four-by-Four Matrix is significant because it provides a comprehensive framework for understanding self-regulation. By integrating cognitive, motivational, and behavioral aspects into a structured model, the matrix enhances our ability to diagnose and support learners in various contexts. Its applicability extends beyond formal education to professional skill acquisition and therapeutic self-management, making it a versatile tool with far-reaching implications.
 
 This framework also contributes to broader discussions on metacognition and self-regulated learning by offering a detailed map of regulatory processes. By highlighting the continuous interaction between phases and areas, the matrix challenges traditional views that separate cognitive from motivational or behavioral aspects.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Four-by-Four Matrix stands out in its holistic approach to self-regulated learning, integrating cognitive, motivational, behavioral, and contextual factors into a cohesive framework. This integrative perspective not only enhances our theoretical understanding but also provides practical tools for educators aiming to foster effective learning strategies among their students.
 
 ## Connections & Context
 
@@ -147,3 +177,10 @@ This framework also contributes to broader discussions on metacognition and self
 **Applies to:** [[Motivated Strategies for Learning Questionnaire (MSLQ)]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Motivated Strategies for Learning Questionnaire (MSLQ)]]** — *applies-to*
+> The Four-by-Four Matrix and the Motivated Strategies for Learning Questionnaire (MSLQ) are closely linked because both tools aim to assess and enhance self-regulated learning. The MSLQ provides a quantitative measure of students' use of strategies across different phases, while the matrix offers a qualitative framework for understanding these interactions. Together, they provide educators with both diagnostic insights and practical applications.

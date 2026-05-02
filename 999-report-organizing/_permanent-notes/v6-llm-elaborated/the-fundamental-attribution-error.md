@@ -1,14 +1,13 @@
 ---
-title: "Fundamental Attribution Error"
+title: Fundamental Attribution Error
 aliases:
-  - "Fundamental Attribution Error"
-  - "Attribution Theory Foundational Report"
-  - "Weiner's Attribution Theory"
-  - "Causal Attribution in Motivation"
+  - Fundamental Attribution Error
+  - Attribution Theory Foundational Report
+  - Weiner's Attribution Theory
+  - Causal Attribution in Motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,57 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "attribution-theory-foundational-report-2026-04-19"
+  - attribution-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Actor-Observer Asymmetry]]"
-  - "[[self-serving-bias]]"
-  - "[[dual-process-theory]]"
+  - '[[Actor-Observer Asymmetry]]'
+  - '[[self-serving-bias]]'
+  - '[[dual-process-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Actor-Observer Asymmetry]]"
-  - "[[self-serving-bias]]"
+  - '[[Actor-Observer Asymmetry]]'
+  - '[[self-serving-bias]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[dual-process-theory]]"
+  - '[[dual-process-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Fundamental Attribution Error
 
@@ -91,6 +90,9 @@ Theoretical roots of the FAE lie in attribution theory, which posits that people
 
 Empirical evidence supports the prevalence of the FAE through numerous studies demonstrating how people tend to overattribute others' behaviors to personality traits while underestimating situational factors. For example, a study by Ross and Nisbett (1991) found that participants were more likely to attribute a stranger's behavior in a social dilemma to their character rather than the situation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The FAE is not merely a cognitive shortcut but also serves an adaptive function in social interactions by allowing quick judgments about others' intentions and dispositions, which can be crucial for survival and cooperation in complex social environments. However, this adaptiveness comes at the cost of accuracy when situational factors are significant determinants of behavior.
+
 ## Mechanism
 
 The FAE arises from perceptual salience effects, where dispositional factors are more readily noticed and processed compared to situational ones. This bias is also influenced by effortful correction failure, meaning that even when people recognize the importance of situational factors, they often fail to fully adjust their attributions accordingly.
@@ -106,6 +108,11 @@ The FAE arises from perceptual salience effects, where dispositional factors are
 > [!example] **Application 3 — Organizational leadership**
 > Leaders often use the FAE when evaluating employee performance. By attributing poor performance to dispositional factors (e.g., low motivation) rather than situational ones (e.g., unclear goals), leaders may overlook opportunities for improvement and fail to provide necessary support.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Team Dynamics**
+> In team settings, the FAE can lead to misunderstandings and conflicts. For example, if a team member fails to meet deadlines, attributing this solely to their laziness or incompetence rather than recognizing situational factors like heavy workloads or personal issues can undermine trust and collaboration.
+
 ## Key Distinctions
 
 > [!key-distinction] **FAE vs Actor-Observer Asymmetry**
@@ -114,10 +121,26 @@ The FAE arises from perceptual salience effects, where dispositional factors are
 > [!key-distinction] **FAE vs Self-Serving Bias**
 > The FAE and self-serving bias both involve attributions but differ in their direction. The FAE overattributes dispositional factors for others, whereas the self-serving bias underattributes personal responsibility and overattributes success to internal factors.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis of information, whereas reactive thinking is immediate and automatic. The FAE often manifests as a form of reactive thinking where dispositional attributions are made quickly without considering situational factors, highlighting the need for reflective processes to mitigate this bias.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People believe that the FAE is always detrimental and should be completely avoided.
+>
+> While the FAE can lead to inaccurate judgments, it also serves as a cognitive heuristic for quick social evaluations. Understanding its role in rapid decision-making helps balance between efficiency and accuracy.
+
 ## Key Figures
 
 - **Lee Ross** — Ross is a key contributor to the understanding of the FAE. His work has highlighted how cultural context influences the manifestation of this bias, demonstrating that it is not universal but more prevalent in individualist societies.
 - **Daniel Gilbert** — Gilbert's research on the FAE and related biases has emphasized the cognitive processes underlying these errors. His work with Ross and others has provided empirical evidence for the prevalence of the FAE in social cognition.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Daniel Gilbert** — Gilbert has extensively researched the cognitive processes underlying attribution biases, including the FAE. His work on how people form and adjust attributions provides critical insights into mitigating this bias in social cognition.
 
 ## Open Questions
 
@@ -130,6 +153,13 @@ The FAE arises from perceptual salience effects, where dispositional factors are
 > How do motivational factors influence the fundamental attribution error?
 >
 > *What would resolve it:* Studies examining the role of self-esteem and ego defense mechanisms in attributions could provide insights into how motivational factors contribute to the FAE.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the prevalence of the FAE vary across different cultural contexts?
+>
+> *What would resolve it:* Cross-cultural studies comparing individualist and collectivist societies could provide evidence on whether the FAE is a universal cognitive bias or more pronounced in certain cultural frameworks.
 
 ## Synthesis
 
@@ -146,3 +176,10 @@ The FAE also highlights the importance of considering situational factors when e
 **Applies to:** [[dual-process-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[dual-process-theory]]** — *applies-to*
+> The FAE exemplifies the dual-process theory by illustrating how System 1 thinking, characterized by rapid and automatic processing, can lead to dispositional attributions without engaging System 2's slower, more deliberate analysis of situational factors.

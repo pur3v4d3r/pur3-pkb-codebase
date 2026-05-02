@@ -1,15 +1,14 @@
 ---
-title: "Just-in-Time Principle"
+title: Just-in-Time Principle
 aliases:
-  - "Just-in-Time Principle"
-  - "4C/ID Model"
-  - "Four Component Instructional Design"
-  - "Ten Steps to Complex Learning"
-  - "van Merriënboer's 4C/ID"
+  - Just-in-Time Principle
+  - 4C/ID Model
+  - Four Component Instructional Design
+  - Ten Steps to Complex Learning
+  - van Merriënboer's 4C/ID
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "four-component-instructional-design-model-4cid-foundational-report-2026-04-18"
+  - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Just-in-Time Principle
 
@@ -89,6 +88,9 @@ In practice, JIT learning operates by providing guidance or instructions at crit
 Theoretical roots of JIT learning can be traced back to cognitive load theory, which posits that there are limits to how much information the human brain can process at one time. By aligning information presentation with task demands, JIT reduces extraneous cognitive load, allowing learners to focus on the task itself rather than managing unnecessary mental overhead. This approach is especially beneficial in complex learning environments where multiple skills and procedures must be integrated.
 
 Empirical evidence supports the effectiveness of JIT learning. For instance, studies have shown that when procedural information is presented just-in-time during problem-solving tasks, learners are able to perform better and retain more knowledge compared to those who receive all necessary information upfront or only after completing a task.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Just-in-Time Principle is particularly effective in environments where learners face dynamic and unpredictable challenges, such as in real-world problem-solving scenarios or simulations. By providing procedural information at the moment of need, JIT ensures that learners can adapt their strategies based on immediate feedback from the task environment, enhancing both learning efficiency and transferability to new situations.
 
 ## Mechanism
 
@@ -110,6 +112,22 @@ The mechanism behind JIT learning involves the interaction between working memor
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Just-in-Time focuses on reducing extraneous cognitive load by presenting information just as it is needed, whereas intrinsic load refers to the inherent difficulty of a task. JIT does not address intrinsic load but rather manages how much procedural information is presented at any given time.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> While surface processing involves rote memorization of procedural steps without understanding underlying principles, deep processing focuses on meaningful comprehension that facilitates better retention and application. The Just-in-Time Principle supports deep processing by encouraging learners to engage with information in context, promoting a deeper level of cognitive engagement.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and planning before action, whereas reactive thinking is immediate response without prior deliberation. JIT learning supports both modes: it enables learners to react effectively by providing timely procedural guidance while also fostering reflective thought through contextual application of learned procedures.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Just-in-Time Principle means all information should be presented at once.
+>
+> This misconception arises from misunderstanding JIT's focus on minimizing cognitive load. In reality, JIT ensures that procedural information is provided only when needed, preventing overload and enhancing learning efficiency by allowing learners to concentrate on task execution.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller originated the Just-in-Time Principle in his work on cognitive load theory, emphasizing the importance of presenting procedural information just as it is needed to minimize working memory burden during skill acquisition.
@@ -126,11 +144,21 @@ The mechanism behind JIT learning involves the interaction between working memor
 >
 > *What would resolve it:* Empirical studies comparing JIT with other instructional strategies in highly complex tasks could provide insights into its effectiveness and potential limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Just-in-Time learning impact long-term retention compared to traditional instructional methods?
+>
+> *What would resolve it:* Research comparing JIT with conventional teaching approaches could provide insights into how this timing strategy affects learners' ability to retain and apply procedural knowledge over extended periods.
+
 ## Synthesis
 
 The Just-in-Time Principle is a critical component of effective instructional design for complex tasks because it directly addresses the cognitive demands of learning. By minimizing extraneous load, JIT allows learners to focus on task execution, leading to better performance and retention. This principle aligns with broader theories in cognitive architecture and has practical applications across various domains, from educational technology to workplace training.
 
 Understanding JIT is essential for instructional designers as it provides a framework for creating more effective learning materials that support the integration of procedural knowledge into complex tasks. By applying JIT principles, educators can create more engaging and efficient learning experiences that enhance both short-term performance and long-term retention.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Just-in-Time Principle is a cornerstone of effective instructional design, particularly in complex learning environments. By aligning the presentation of procedural information with the learner's immediate needs, JIT not only enhances task performance but also supports deeper cognitive processing and long-term retention.
 
 ## Connections & Context
 
@@ -141,3 +169,13 @@ Understanding JIT is essential for instructional designers as it provides a fram
 **Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> The Just-in-Time Principle relies heavily on the limited capacity of working memory. By presenting procedural information just as it is needed, JIT reduces the cognitive load on working memory, allowing learners to focus on task execution without being overwhelmed by excessive information.
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Just-in-Time learning can be effectively integrated with worked examples to enhance procedural guidance. By providing hints or explanations at critical moments, JIT complements the use of worked examples by ensuring that learners receive relevant information precisely when they need it most.
