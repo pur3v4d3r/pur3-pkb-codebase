@@ -1,13 +1,12 @@
 ---
-title: "Peer Instruction"
+title: Peer Instruction
 aliases:
-  - "Peer Instruction"
-  - "Mazur peer instruction"
-  - "ConcepTests"
+  - Peer Instruction
+  - Mazur peer instruction
+  - ConcepTests
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - higher-education
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "peer-instruction-synthetic-seed-2026-04-26"
+  - peer-instruction-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Active-Learning"
-
+depth-level: enhanced
+parent-concept: Active-Learning
 related:
-  - "[[flipped-classroom]]"
-  - "[[ConcepTests]]"
-  - "[[formative-assessment]]"
+  - '[[flipped-classroom]]'
+  - '[[ConcepTests]]'
+  - '[[formative-assessment]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[flipped-classroom]]"
+  - '[[flipped-classroom]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[ConcepTests]]"
+  - '[[ConcepTests]]'
 supports:
-  - "[[formative-assessment]]"
+  - '[[formative-assessment]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Peer Instruction
 
@@ -87,6 +86,9 @@ Following individual responses, students discuss their answers with peers, foste
 After the discussion, students re-answer the ConcepTest, aiming to refine their initial responses based on the insights gained from peer interactions. This revision process allows for deeper conceptual learning and helps solidify correct understandings. The cycle of commitment, dialogue, and revision is designed to be iterative, with each step building upon the previous one.
 
 Peer Instruction's effectiveness has been empirically validated in various educational settings, particularly in introductory physics courses. Studies have shown that this method can significantly improve student comprehension and retention by actively engaging students in the learning process.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Peer Instruction's effectiveness is further enhanced by its alignment with cognitive load theory, particularly in managing intrinsic and extraneous loads during learning. By structuring the learning process into individual response, peer discussion, and revision phases, Peer Instruction ensures that students are not overwhelmed by excessive information at once (intrinsic load) while also minimizing unnecessary distractions or poorly designed instructional elements (extraneous load). This careful management of cognitive resources allows for a more focused engagement with the material.
 
 ## Mechanism
 
@@ -111,6 +113,22 @@ The cognitive processes involved in Peer Instruction include retrieval, articula
 > [!key-distinction] **Peer Instruction vs. group discussions**
 > Group discussions can be similar in that they involve collaborative problem-solving. However, Peer Instruction specifically targets conceptual change by focusing on individual responses followed by peer interactions and revisions. Group discussions may not always lead to the same level of targeted conceptual improvement as Peer Instruction.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Peer Instruction promotes reflective thinking over reactive thinking by encouraging students to articulate and justify their answers, rather than simply responding impulsively. This shift from immediate response to deliberate review helps solidify understanding and correct misconceptions.
+
+> [!key-distinction] **Surface vs Deep Processing**
+> While traditional lectures often lead to surface-level processing where students merely memorize facts without deep comprehension, Peer Instruction fosters deeper processing through active engagement with the material. The process of discussing concepts with peers and revising answers encourages semantic elaboration and meaningful connections.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that Peer Instruction only benefits students who already understand the material.
+>
+> Peer Instruction is beneficial for all students, including those with misconceptions. The peer discussion phase allows students to articulate their misunderstandings and receive feedback from peers, which can help clarify concepts and correct errors.
+
 ## Key Figures
 
 - **Eric Mazur** — As the originator of Peer Instruction, Eric Mazur has significantly contributed to educational psychology by developing a method that enhances student engagement and understanding through active learning. His work on ConcepTests and the structured cycle of commitment, dialogue, and revision has been foundational in transforming traditional lecture-based teaching into more interactive and effective pedagogical practices.
@@ -127,9 +145,19 @@ The cognitive processes involved in Peer Instruction include retrieval, articula
 >
 > *What would resolve it:* Longitudinal studies tracking student performance over extended periods would help determine if Peer Instruction leads to sustained improvements in critical thinking and problem-solving skills. Such research could provide a comprehensive understanding of its impact.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Peer Instruction impact long-term retention compared to traditional lectures?
+>
+> *What would resolve it:* Longitudinal studies comparing the effects of Peer Instruction and traditional lectures on long-term retention would provide insights into whether active engagement through peer discussions enhances durable knowledge acquisition.
+
 ## Synthesis
 
 Peer Instruction matters because it transforms passive learning into an active, engaging process that promotes deeper conceptual understanding. By integrating retrieval, articulation, and revision, this method not only enhances immediate comprehension but also fosters long-term retention and critical thinking skills. Its application across various educational settings underscores its versatility and potential to revolutionize teaching practices in the field of instructional design.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Peer Instruction not only transforms passive learning environments but also integrates seamlessly with modern educational theories, such as cognitive load theory and constructivism. By balancing intrinsic and extraneous loads and promoting reflective thinking, Peer Instruction supports a deeper understanding of complex concepts, making it a valuable tool in contemporary education.
 
 ## Evidence
 
@@ -146,3 +174,10 @@ Peer Instruction's empirical robustness is grounded in two mechanisms: initial i
 **Supports:** [[formative-assessment]]
 
 **Source:** [[peer-instruction-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[formative-assessment]]** — *supports*
+> Peer Instruction supports formative assessment by providing immediate feedback through peer discussions and revisions. This continuous evaluation helps instructors gauge student understanding in real-time, allowing for timely adjustments to teaching strategies.

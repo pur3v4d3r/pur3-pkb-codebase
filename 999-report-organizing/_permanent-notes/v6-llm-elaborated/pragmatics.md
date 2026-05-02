@@ -1,13 +1,12 @@
 ---
-title: "Pragmatics"
+title: Pragmatics
 aliases:
-  - "Pragmatics"
-  - "pragmatic inference"
-  - "conversational implicature"
+  - Pragmatics
+  - pragmatic inference
+  - conversational implicature
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pragmatics-synthetic-seed-2026-04-25"
+  - pragmatics-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Linguistics"
-
+depth-level: enhanced
+parent-concept: Linguistics
 related:
-  - "[[Speech-Act Theory]]"
-  - "[[Relevance Theory]]"
+  - '[[Speech-Act Theory]]'
+  - '[[Relevance Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Speech-Act Theory]]"
-  - "[[Relevance Theory]]"
+  - '[[Speech-Act Theory]]'
+  - '[[Relevance Theory]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Pragmatics
 
@@ -87,6 +86,9 @@ Pragmatics also encompasses speech-act theory, which explores the force of an ut
 Conversational implicature, another key concept in pragmatics, involves deriving meaning from what is implied rather than explicitly stated. Grice's maxims help us understand how we can infer additional meanings from utterances. For example, if someone says 'I have a lot of work to do,' they might be indirectly requesting assistance or expressing frustration.
 
 Pragmatic inference operates through shared assumptions and mutual knowledge. When we hear an indirect request like 'Do you want some tea?' we use our understanding of social norms and context to infer that the speaker is actually asking if we would like a cup of tea.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Pragmatics also plays a crucial role in cross-cultural communication,
 
 ## Mechanism
 

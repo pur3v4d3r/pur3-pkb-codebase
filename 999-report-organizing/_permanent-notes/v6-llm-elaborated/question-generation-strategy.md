@@ -1,13 +1,12 @@
 ---
-title: "Question Generation Strategy"
+title: Question Generation Strategy
 aliases:
-  - "Question Generation Strategy"
-  - "self-questioning"
-  - "question generation"
+  - Question Generation Strategy
+  - self-questioning
+  - question generation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - study-skills
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "question-generation-strategy-synthetic-seed-2026-04-25"
+  - question-generation-strategy-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Question Generation Strategy
 
@@ -87,6 +86,11 @@ Theoretical roots of this strategy can be traced back to cognitive load theory, 
 
 Empirical evidence supports the effectiveness of this strategy. For instance, a study by Sweller (1988) demonstrated that students who generated their own questions performed better in subsequent recall tasks compared to those who passively read or memorized the material.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Question generation is not merely a passive activity but one that requires significant cognitive effort, particularly in terms of working memory and executive function. As learners formulate questions, they must hold relevant information in mind while simultaneously processing the material to identify gaps or uncertainties. This dual-task nature can be challenging, especially for complex topics where multiple pieces of information need to be integrated.
+
+Moreover, question generation is a dynamic process that evolves with practice and experience. Initially, learners may generate simpler questions focused on surface-level details, but as they become more adept at the strategy, their questions tend to delve deeper into inferential and integrative aspects of the material. This progression reflects an increase in cognitive sophistication and metacognitive awareness.
+
 ## Mechanism
 
 The process of generating questions involves several cognitive steps. First, learners must identify key information and determine what they understand and what is unclear. This requires them to engage with the material critically. Next, they formulate questions that address these uncertainties, which can be factual or inferential in nature. Finally, attempting to answer these questions reinforces their understanding and helps solidify the knowledge in long-term memory.
@@ -102,10 +106,31 @@ The process of generating questions involves several cognitive steps. First, lea
 > [!example] **Application 3 — Assessment**
 > In assessment, teachers can design tests that require students to generate questions based on the content covered in class. This not only evaluates their knowledge but also provides insight into their metacognitive skills and ability to identify key concepts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced through question generation activities spread across multiple sessions. By periodically revisiting the same material and generating new questions, learners reinforce their understanding over time rather than cramming all information at once. This approach not only improves retention but also helps in identifying persistent knowledge gaps that require further study.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Question generation primarily targets intrinsic load by focusing on deep processing of the material, whereas extraneous load is associated with unnecessary cognitive demands that do not contribute to learning. For instance, surface-level questions that focus only on factual recall are less effective than those that require inferential thinking and deeper analysis.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Question generation aligns closely with reflective thinking, where learners deliberately review and analyze their understanding of the material. This contrasts sharply with reactive thinking, which is more immediate and less structured. Reflective thinking through question generation allows for deeper processing and metacognitive monitoring, whereas reactive thinking may lead to superficial engagement without substantial cognitive gains.
+
+> [!key-distinction] **Surface vs Deep Processing**
+> The distinction between surface and deep processing is crucial in understanding the effectiveness of question generation. Surface-level questions that focus on factual recall are less effective compared to those that require inferential thinking and deeper analysis. By encouraging learners to generate questions that probe beyond simple facts, educators can promote more meaningful learning experiences.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think question generation is only useful for memorizing facts.
+>
+> While question generation can aid in factual recall, its true power lies in promoting deeper understanding and metacognitive awareness. By formulating questions that require inferential thinking and integration of concepts, learners engage more deeply with the material, leading to better retention and application of knowledge.
 
 ## Key Figures
 
@@ -129,6 +154,9 @@ The Question Generation Strategy is crucial for enhancing learning outcomes by e
 
 This strategy also complements other techniques like worked examples, where students generate questions to apply new concepts in practical scenarios. Together, these approaches create a robust framework for improving learning efficiency and effectiveness.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Question Generation Strategy is a versatile tool within self-regulated learning frameworks, offering both immediate cognitive benefits through active engagement with material and long-term gains in knowledge retention and application. Its effectiveness underscores the importance of fostering reflective thinking and deep processing in educational practices.
+
 ## Connections & Context
 
 **Falls under:** [[self-regulated-learning]]
@@ -138,3 +166,13 @@ This strategy also complements other techniques like worked examples, where stud
 **Applies to:** [[worked-examples]]
 
 **Source:** [[question-generation-strategy-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Question generation heavily relies on working memory as it requires holding relevant information in mind while formulating questions. The cognitive demands of this strategy highlight the importance of a well-functioning working memory for effective learning.
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Question generation can be particularly beneficial when applied to worked examples in educational settings. By generating questions about these examples, learners not only reinforce their understanding of the solution process but also identify potential pitfalls and misconceptions that might arise during problem-solving.

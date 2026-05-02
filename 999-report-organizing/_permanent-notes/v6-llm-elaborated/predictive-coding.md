@@ -1,12 +1,11 @@
 ---
-title: "Predictive Coding"
+title: Predictive Coding
 aliases:
-  - "Predictive Coding"
-  - "predictive coding theory"
+  - Predictive Coding
+  - predictive coding theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - computational-neuroscience
 
 created: 2026-04-27
-updated: 2026-04-27
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "predictive-coding-synthetic-seed-2026-04-27"
+  - predictive-coding-synthetic-seed-2026-04-27
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Bayesian Brain Hypothesis"
-
+depth-level: enhanced
+parent-concept: Bayesian Brain Hypothesis
 related:
-  - "[[predictive-processing]]"
-  - "[[free-energy-principle]]"
-  - "[[attention-and-cognitive-control]]"
-  - "[[bayesian-reasoning]]"
+  - '[[predictive-processing]]'
+  - '[[free-energy-principle]]'
+  - '[[attention-and-cognitive-control]]'
+  - '[[bayesian-reasoning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[predictive-processing]]"
+  - '[[predictive-processing]]'
 contrasts-with:
-  - "[[free-energy-principle]]"
+  - '[[free-energy-principle]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[attention-and-cognitive-control]]"
+  - '[[attention-and-cognitive-control]]'
 formalizes:
-  - "[[bayesian-reasoning]]"
+  - '[[bayesian-reasoning]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Predictive Coding
 
@@ -87,6 +86,9 @@ The theoretical roots of Predictive Coding lie in Bayesian inference, where the 
 Empirically, Predictive Coding gains traction through its explanatory power for behavioral and neural phenomena without requiring specific neural implementations. For instance, it accounts for the brain's efficiency in processing complex scenes by focusing resources on unexpected elements rather than redundant information. This aligns with observations that cortical activity correlates more strongly with prediction errors than with raw sensory input, suggesting a computational economy where the brain avoids redundant processing of predictable stimuli. The framework thus provides a unifying lens for understanding how the brain optimizes information processing under constraints of limited neural resources.
 
 Critically, Predictive Coding operates as a high-level computational abstraction, not a detailed account of neural wiring. It describes *what* the brain does (minimize prediction errors) without specifying *how* neurons implement this process. This distinction is vital: while the framework predicts that superficial and deep pyramidal cells might handle predictions and errors respectively, this remains a hypothesis under empirical scrutiny rather than established fact. The framework's strength lies in its generality, allowing it to guide experiments without prematurely committing to specific neural architectures.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Predictive Coding's emphasis on minimizing prediction errors aligns with a broader computational principle in neuroscience: efficient coding theory. This theory posits that neural systems are optimized to represent information as efficiently as possible, often by reducing redundancy and focusing on the most informative aspects of sensory input. In this context, predictive error minimization can be seen as a strategy for achieving such efficiency, where the brain prioritizes processing only those inputs that deviate from expectations, thereby economizing on neural resources.
 
 ## Practical Implications
 
@@ -107,6 +109,22 @@ Critically, Predictive Coding operates as a high-level computational abstraction
 > [!key-distinction] **Predictive Coding vs. Free Energy Principle**
 > Predictive Coding is a specific computational framework within the broader Free Energy Principle (FEP), which posits that biological systems minimize free energy to maintain homeostasis. While Predictive Coding focuses on sensory prediction errors, FEP extends to all adaptive behavior, including action and emotion. Confusing them would misrepresent Predictive Coding as a comprehensive theory of life rather than a targeted model of perception. The key is recognizing that Predictive Coding is a subset of FEP's principles, not an equivalent framework.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> In Predictive Coding, top-down processing involves generating predictions based on prior knowledge and experience, while bottom-up processing refers to the direct influence of sensory input. The distinction is crucial because it highlights how perception is not a passive process but an active one where expectations shape incoming information. This contrasts with traditional views that emphasize bottom-up processes as primary in shaping perceptual experiences.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Load**
+> The concept of intrinsic load, which refers to the inherent difficulty of a task, is relevant when considering how predictive coding operates under varying cognitive demands. When tasks are more complex or novel, the brain may rely more heavily on top-down predictions to manage extraneous load—additional cognitive effort imposed by task design. This interplay between intrinsic and extrinsic loads underscores Predictive Coding's role in optimizing cognitive efficiency.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often think that Predictive Coding means the brain only uses top-down predictions to interpret sensory input.
+>
+> This misconception arises from oversimplifying the model. While Predictive Coding does emphasize top-down processes, it also incorporates bottom-up processing by accounting for prediction errors—discrepancies between expected and actual sensory inputs. This dual approach ensures that the brain can adapt its predictions based on new information, preventing rigid reliance on outdated expectations.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -119,6 +137,9 @@ Critically, Predictive Coding operates as a high-level computational abstraction
 Predictive Coding bridges abstract computational theory with concrete neuroscience by framing perception as an active inference process. It extends the Bayesian Brain Hypothesis into a testable model, explaining how the brain's efficiency, attention, and even illusions emerge from error minimization. This synthesis positions Predictive Coding as a cornerstone for understanding cognition, offering a unified language for phenomena ranging from sensory processing to decision-making. Its significance lies in demonstrating that the brain is not a passive receiver but an active predictor, reshaping how we model both healthy and pathological brain function.
 
 By connecting to related concepts like Bayesian Reasoning and Predictive Processing, Predictive Coding reveals a broader paradigm shift in neuroscience. It moves beyond isolated neural mechanisms to emphasize the brain's role as a probabilistic inference engine, where learning and perception are two sides of the same error-minimization coin. This perspective not only clarifies existing phenomena but also guides future research into neural coding, artificial intelligence, and clinical applications for disorders involving prediction errors, such as schizophrenia or autism.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Predictive Coding's synthesis lies in its ability to unify diverse cognitive phenomena under a single theoretical framework, thereby offering a coherent explanation for perception, learning, and even pathological conditions like hallucinations. By framing these processes as instances of active inference driven by prediction error minimization, it provides a powerful lens through which to understand the brain's computational strategies.
 
 ## Evidence
 
@@ -137,3 +158,13 @@ The strongest evidence for Predictive Coding lies in its ability to explain dive
 **Formalizes:** [[bayesian-reasoning]]
 
 **Source:** [[predictive-coding-synthetic-seed-2026-04-27]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[bayesian-reasoning]]** — *formalizes*
+> Predictive Coding formalizes Bayesian reasoning by operationalizing probabilistic inference in a hierarchical neural network. This connection is vital because it provides a concrete computational framework for how the brain might implement Bayesian principles, linking abstract statistical concepts to specific neurobiological mechanisms.
+
+> [!connection] **[[free-energy-principle]]** — *contrasts-with*
+> While both Predictive Coding and the Free Energy Principle involve minimizing prediction errors, they differ in scope. The Free Energy Principle encompasses a broader theoretical framework that includes not just error minimization but also homeostatic regulation of biological systems. This contrast highlights how Predictive Coding focuses on perceptual inference within this larger context.

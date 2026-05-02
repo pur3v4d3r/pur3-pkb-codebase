@@ -1,12 +1,11 @@
 ---
-title: "Problem-Based Learning"
+title: Problem-Based Learning
 aliases:
-  - "Problem-Based Learning"
-  - "PBL"
+  - Problem-Based Learning
+  - PBL
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - instructional-method
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "problem-based-learning-synthetic-seed-2026-04-25"
+  - problem-based-learning-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Design"
-
+depth-level: enhanced
+parent-concept: Instructional Design
 related:
-  - "[[case-based-learning]]"
-  - "[[direct-instruction]]"
-  - "[[project-based-learning]]"
+  - '[[case-based-learning]]'
+  - '[[direct-instruction]]'
+  - '[[project-based-learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[case-based-learning]]"
-  - "[[direct-instruction]]"
+  - '[[case-based-learning]]'
+  - '[[direct-instruction]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[project-based-learning]]"
+  - '[[project-based-learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Problem-Based Learning
 
@@ -87,6 +86,9 @@ In practice, PBL operates through a structured process where students are guided
 Theoretical roots of PBL can be traced back to constructivist learning theories, which emphasize active engagement in meaningful tasks that promote deep understanding. PBL aligns with these principles by fostering an environment where learners actively construct knowledge through problem-solving activities.
 
 Empirical evidence supports the effectiveness of PBL for clinical-reasoning and process-skill outcomes, particularly when supported by expert tutors. However, its impact on factual knowledge is more mixed, highlighting the importance of balanced instructional approaches.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Problem-Based Learning (PBL) not only enhances critical thinking and problem-solving skills but also fosters a deeper understanding of the subject matter by encouraging students to engage with complex, real-world issues. This approach contrasts sharply with traditional direct instruction methods where content is often presented in isolation from its practical applications. By embedding learning within the context of solving problems, PBL promotes a more holistic and integrated form of knowledge acquisition.
 
 ## Mechanism
 
@@ -108,6 +110,22 @@ The mechanism of PBL involves a step-by-step process where students first identi
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > PBL reduces extraneous cognitive load by focusing on meaningful problems that engage students in active learning. In contrast, traditional instructional methods often increase intrinsic cognitive load through direct instruction and rote memorization, which can be less engaging and less effective for long-term retention.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> PBL emphasizes reflective thinking as students are required to analyze problems deeply, consider multiple perspectives, and evaluate potential solutions. This contrasts with reactive thinking often seen in direct instruction where responses may be more immediate and less deliberative. Reflective thinking is crucial for developing long-term problem-solving skills.
+
+> [!key-distinction] **Surface vs Deep Processing**
+> PBL encourages deep processing as students engage actively with the material to solve problems, leading to better retention and understanding compared to surface-level learning through rote memorization. This distinction highlights how PBL can lead to more meaningful and durable knowledge acquisition.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that Problem-Based Learning means students learn everything on their own without guidance.
+>
+> In reality, PBL involves structured problem-solving processes guided by facilitators who help students navigate the learning journey. This support is crucial for ensuring effective and efficient learning outcomes.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with the development of PBL in medical education. His work on cognitive load theory provided a theoretical foundation for understanding how problem-solving tasks can be structured to optimize learning.
@@ -124,11 +142,21 @@ The mechanism of PBL involves a step-by-step process where students first identi
 >
 > *What would resolve it:* Longitudinal studies tracking students' academic performance, career success, and lifelong learning habits would provide insights into the lasting impacts of PBL.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Problem-Based Learning impact long-term retention compared to traditional instructional methods?
+>
+> *What would resolve it:* Longitudinal studies are needed to assess how PBL affects students' ability to retain and apply knowledge over extended periods, providing insights into its effectiveness for lifelong learning.
+
 ## Synthesis
 
 PBL is significant in modern educational practices because it fosters critical thinking, problem-solving skills, and self-directed learning. By integrating real-world problems into the curriculum, PBL prepares students for complex challenges they will face in their careers and personal lives.
 
 While PBL aligns well with project-based learning frameworks, its focus on ill-structured problems sets it apart from more structured approaches like direct instruction or case-based learning. Understanding these distinctions helps educators tailor their instructional methods to best meet the needs of diverse learners.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+PBL stands out as a powerful pedagogical approach by integrating real-world problem-solving with educational content. This synthesis of theory and practice not only enhances immediate learning outcomes but also prepares students to tackle complex challenges in their future careers and personal lives, making it an essential component of modern education.
 
 ## Evidence
 
@@ -143,3 +171,10 @@ Empirical evidence supports PBL's effectiveness in enhancing clinical-reasoning 
 **Applies to:** [[project-based-learning]]
 
 **Source:** [[problem-based-learning-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[project-based-learning]]** — *applies-to*
+> PBL shares many principles with project-based learning, such as focusing on real-world problems and promoting active engagement. However, PBL specifically emphasizes the problem-solving process over the completion of a project, making it particularly suited for developing critical thinking skills.

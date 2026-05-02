@@ -1,13 +1,12 @@
 ---
-title: "Pre-Testing Effect"
+title: Pre-Testing Effect
 aliases:
-  - "Pre-Testing Effect"
-  - "prequestion effect"
-  - "pretesting effect"
+  - Pre-Testing Effect
+  - prequestion effect
+  - pretesting effect
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pre-testing-effect-synthetic-seed-2026-04-25"
+  - pre-testing-effect-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Learning Science"
-
+depth-level: enhanced
+parent-concept: Learning Science
 related:
-  - "[[generation-effect]]"
-  - "[[retrieval-practice]]"
+  - '[[generation-effect]]'
+  - '[[retrieval-practice]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[generation-effect]]"
+  - '[[generation-effect]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[retrieval-practice]]"
+  - '[[retrieval-practice]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Pre-Testing Effect
 
@@ -87,6 +86,9 @@ Theoretical roots of the Pre-Testing Effect trace back to cognitive psychology a
 
 Historically, John Sweller first described this effect in 1988, highlighting its importance in educational psychology. His work laid the foundation for understanding how retrieval practice can enhance learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Pre-Testing Effect is not limited to academic settings; it also finds application in professional training and development contexts. For instance, employees preparing for a certification exam might benefit from attempting practice questions before formal study sessions. This preparatory step can enhance their ability to retain information presented during the course or workshop, leading to better performance on the actual exam.
+
 ## Mechanism
 
 The mechanism behind the Pre-Testing Effect involves a process known as 'retrieval-induced facilitation.' When students attempt to retrieve information and fail, their brain becomes more sensitive to subsequent encoding of correct answers. This priming effect enhances memory consolidation during later study sessions.
@@ -102,10 +104,28 @@ The mechanism behind the Pre-Testing Effect involves a process known as 'retriev
 > [!example] **Application 3 — Study groups**
 > During group study sessions, students can take turns attempting to answer questions related to the upcoming topic. Even if they don't know the answers initially, this pre-testing activity primes their memory for better recall during collaborative discussions and subsequent individual study.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced pre-testing can significantly enhance learning outcomes. By integrating brief quizzes at intervals before and after video lectures, learners are prompted to recall information periodically. This approach not only reinforces memory but also helps identify areas of confusion early on, allowing for targeted review.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Pre-Testing Effect differs from intrinsic load, which refers to the inherent difficulty of a task. Instead, it focuses on extraneous load, or how the presentation of information affects learning. The Pre-Testing Effect specifically addresses how preparatory retrieval practice can reduce cognitive load and enhance memory retention.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> The Pre-Testing Effect contrasts with recognition tasks by focusing on recall rather than recognition. While recognition involves identifying correct answers from a set of options, recall requires generating the answer without cues. The Pre-Testing Effect specifically enhances recall abilities, making it more effective for long-term retention and application in novel contexts.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think pre-testing is only beneficial if students get the answers right.
+>
+> This misconception arises from a misunderstanding of how retrieval practice works. Even when initial attempts are incorrect, the act of retrieving information primes the brain for better encoding during subsequent study sessions. This preparatory step enhances long-term memory retention regardless of immediate accuracy.
 
 ## Key Figures
 
@@ -123,11 +143,21 @@ The mechanism behind the Pre-Testing Effect involves a process known as 'retriev
 >
 > *What would resolve it:* Empirical studies comparing traditional classroom settings with online platforms would help clarify its effectiveness in digital learning contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Pre-Testing Effect interact with other cognitive strategies like interleaving and spaced repetition?
+>
+> *What would resolve it:* Further research is needed to explore how combining pre-testing with these techniques might amplify their individual benefits, potentially leading to more effective learning outcomes.
+
 ## Synthesis
 
 Understanding and applying the Pre-Testing Effect is crucial for educators because it provides a practical tool to enhance student memory retention. By integrating pre-testing into instructional design, teachers can create more effective study habits that lead to better long-term recall. This concept also aligns with broader principles of active learning and retrieval practice, which are fundamental in modern educational psychology.
 
 The Pre-Testing Effect is particularly valuable when combined with other learning strategies like spaced repetition and interleaving. Together, these methods form a robust framework for improving memory retention and understanding.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Pre-Testing Effect underscores the importance of active engagement in the learning process. By integrating preparatory retrieval practice into instructional design and self-study routines, educators and learners can significantly enhance memory retention and understanding. This concept aligns with broader principles of cognitive psychology that emphasize the role of active recall in knowledge consolidation.
 
 ## Connections & Context
 
@@ -138,3 +168,10 @@ The Pre-Testing Effect is particularly valuable when combined with other learnin
 **Applies to:** [[retrieval-practice]]
 
 **Source:** [[pre-testing-effect-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[retrieval-practice]]** — *applies-to*
+> The Pre-Testing Effect is a specific application of retrieval practice, where attempting to recall information before studying it enhances later memory retention. This connection highlights how preparatory retrieval can be strategically integrated into learning processes to improve long-term knowledge acquisition.

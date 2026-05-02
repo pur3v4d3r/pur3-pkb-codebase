@@ -1,13 +1,12 @@
 ---
-title: "Scope Insensitivity"
+title: Scope Insensitivity
 aliases:
-  - "Scope Insensitivity"
-  - "scope neglect"
-  - "embedding effect"
+  - Scope Insensitivity
+  - scope neglect
+  - embedding effect
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - environmental-economics
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "scope-insensitivity-synthetic-seed-2026-04-26"
+  - scope-insensitivity-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Decision Science"
-
+depth-level: enhanced
+parent-concept: Decision Science
 related:
-  - "[[Identifiable-Victim Effect]]"
-  - "[[affect-heuristic]]"
-  - "[[Contingent Valuation]]"
+  - '[[Identifiable-Victim Effect]]'
+  - '[[affect-heuristic]]'
+  - '[[Contingent Valuation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Identifiable-Victim Effect]]"
-  - "[[affect-heuristic]]"
+  - '[[Identifiable-Victim Effect]]'
+  - '[[affect-heuristic]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Contingent Valuation]]"
+  - '[[Contingent Valuation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Scope Insensitivity
 
@@ -89,6 +88,9 @@ Theoretical roots of Scope Insensitivity lie in cognitive psychology and behavio
 
 Empirically, this concept was first observed in contingent-valuation studies where participants were asked to estimate their willingness-to-pay for various quantities of a public good. These studies consistently showed that despite varying scales, respondents' valuations remained remarkably stable, indicating the robustness of Scope Insensitivity as a behavioral bias.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Scope Insensitivity is not limited to monetary valuation but extends to various forms of resource allocation and decision-making contexts. For instance, in environmental conservation efforts, individuals may be equally willing to donate a fixed amount regardless of the scale of the ecological impact they are supporting. This phenomenon underscores that Scope Insensitivity operates across different types of resources and outcomes, making it a pervasive issue in public policy and social welfare programs.
+
 ## Mechanism
 
 Valuation-by-prototype operates through a cognitive shortcut where individuals rely on a mental prototype to form their judgments. This process involves creating an affective image based on the most typical or vivid scenario, which then influences valuation decisions without considering quantitative information about scale.
@@ -101,10 +103,28 @@ Valuation-by-prototype operates through a cognitive shortcut where individuals r
 > [!example] **Application 2 — Cost-benefit analysis**
 > For cost-benefit analyses in policy-making, Scope Insensitivity poses a significant challenge. Ignoring this bias can lead to misaligned policies where stated WTP does not reflect the true impact of interventions on large scales. Policymakers must explicitly address and account for Scope Insensitivity to ensure accurate assessments.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Cost-benefit analysis in environmental policies**
+> In cost-benefit analyses for environmental policies, policymakers often face the challenge of valuing large-scale ecological impacts. Scope Insensitivity can lead to underestimation or overestimation of public willingness-to-pay (WTP) for conservation efforts. For example, when assessing the value of protecting a vast forest area versus a smaller one, individuals might provide similar WTP values due to their reliance on mental prototypes rather than quantitative scale information. This misalignment between stated preferences and actual impacts can result in suboptimal policy decisions.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While both intrinsic load (the inherent difficulty of a task) and extraneous load (unhelpful aspects of the learning environment) affect cognitive processing, Scope Insensitivity is distinct in its impact on valuation judgments. Intrinsic load relates to the complexity of tasks, whereas Scope Insensitivity pertains specifically to how individuals value quantities without considering their scale.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Scope Insensitivity contrasts with reflective thinking, which involves deliberate consideration of all available information to make a decision. In contrast, reactive thinking is characterized by quick judgments based on immediate emotional responses or mental prototypes. Scope Insensitivity often manifests through reactive thinking where individuals rely heavily on vivid scenarios rather than systematically evaluating the scale and implications of different quantities. Understanding this distinction helps in designing interventions that encourage more reflective processes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that Scope Insensitivity only affects monetary decisions.
+>
+> Scope Insensitivity is a broader cognitive bias affecting not just monetary valuations but also non-monetary resource allocations and decision-making processes. This misconception arises because many studies focus on monetary contexts, leading to an incomplete understanding of its scope. In reality, individuals often exhibit similar biases when making decisions about time, effort, or other resources, highlighting the pervasive nature of this cognitive shortcut.
 
 ## Key Figures
 
@@ -128,6 +148,9 @@ Scope Insensitivity is a critical concept in decision science and behavioral eco
 
 Moreover, by differentiating Scope Insensitivity from other judgment biases like identifiable-victim-effect or affect-heuristic, researchers can better understand how these biases interact to influence decision-making processes. This synthesis not only enriches our knowledge of human behavior but also provides practical tools for addressing real-world challenges in policy and public awareness.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By recognizing that Scope Insensitivity operates across various contexts beyond monetary valuation, we gain a broader perspective on its impact on decision-making processes. This expanded view highlights the need for interventions that encourage reflective thinking and systematic evaluation of scale in both public policy and individual decision-making scenarios.
+
 ## Connections & Context
 
 **Falls under:** [[decision-science]]
@@ -137,3 +160,10 @@ Moreover, by differentiating Scope Insensitivity from other judgment biases like
 **Applies to:** [[Contingent Valuation]]
 
 **Source:** [[scope-insensitivity-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Contingent Valuation]]** — *applies-to*
+> Scope Insensitivity is particularly relevant in contingent valuation studies where participants are asked to estimate their willingness-to-pay for public goods. These studies often reveal that individuals' valuations remain stable across different scales, demonstrating the robustness of Scope Insensitivity as a behavioral bias. Understanding this connection helps researchers and policymakers design more accurate surveys and assessments by accounting for how respondents form judgments based on mental prototypes rather than quantitative information.

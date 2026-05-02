@@ -1,15 +1,14 @@
 ---
-title: "Self-Directed Learning Readiness Scale"
+title: Self-Directed Learning Readiness Scale
 aliases:
-  - "Self-Directed Learning Readiness Scale"
-  - "Self-Directed Learning Foundational Report"
-  - "SDL Foundational Report"
-  - "Self-Directed Learning — Comprehensive Analysis"
-  - "SDL Report 2026-04-19"
+  - Self-Directed Learning Readiness Scale
+  - Self-Directed Learning Foundational Report
+  - SDL Foundational Report
+  - Self-Directed Learning — Comprehensive Analysis
+  - SDL Report 2026-04-19
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,58 +21,58 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-directed-learning-foundational-report-2026-04-19"
+  - self-directed-learning-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[heutagogy]]"
-  - "[[self-efficacy-theory]]"
-  - "[[Personal Responsibility Orientation]]"
-  - "[[constructivist-learning-theory]]"
+  - '[[heutagogy]]'
+  - '[[self-efficacy-theory]]'
+  - '[[Personal Responsibility Orientation]]'
+  - '[[constructivist-learning-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[heutagogy]]"
+  - '[[heutagogy]]'
 contrasts-with:
-  - "[[self-efficacy-theory]]"
-  - "[[Personal Responsibility Orientation]]"
+  - '[[self-efficacy-theory]]'
+  - '[[Personal Responsibility Orientation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[constructivist-learning-theory]]"
+  - '[[constructivist-learning-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Self-Directed Learning Readiness Scale
 
@@ -93,6 +92,9 @@ Theoretical roots of the SDLRS can be traced back to self-regulated learning the
 
 Empirically, the SDLRS has been used extensively in adult education settings to understand how learners approach their own educational journeys. Research has shown that higher levels of self-directed learning readiness are associated with better academic performance and greater personal satisfaction among adults.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The SDLRS is particularly valuable in educational settings that emphasize learner autonomy and self-regulation, such as flipped classrooms or online learning environments. In these contexts, the scale can help educators tailor their approaches to better support students who may struggle with initiating and sustaining independent study habits.
+
 ## Mechanism
 
 The SDLRS measures openness to learning opportunities by assessing an individual's willingness to explore new ideas and engage in novel experiences. Self-concept as an effective learner is evaluated through questions about confidence in one's abilities, while initiative and independence are gauged by asking about the frequency of self-directed activities. Responsibility for learning is assessed via inquiries into perceived control over educational outcomes, love of learning through interest in lifelong education, creativity through openness to innovative solutions, future orientation through planning for long-term goals, and study skills through practical problem-solving tasks.
@@ -108,6 +110,11 @@ The SDLRS measures openness to learning opportunities by assessing an individual
 > [!example] **Application 3 — Student advising**
 > Advisors can use the SDLRS results to guide students in setting realistic goals and developing strategies for achieving them. For instance, a student with low future orientation might benefit from career counseling sessions to explore long-term educational pathways.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), where learners often lack direct instructor oversight, the SDLRS can help identify students who might benefit from structured spaced-retrieval activities. For instance, a student scoring low on initiative and independence could be guided towards using spaced repetition software to enhance retention of course material.
+
 ## Key Distinctions
 
 > [!key-distinction] **Self-direction vs. Love of Learning**
@@ -115,6 +122,19 @@ The SDLRS measures openness to learning opportunities by assessing an individual
 
 > [!key-distinction] **Attitude vs. Behavior**
 > The SDLRS primarily assesses attitudes and intentions towards self-directed learning rather than actual behaviors or outcomes. This distinction is crucial because an individual may have a high readiness for self-directed learning but not consistently engage in such activities due to external factors.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation drives learners from within due to personal interest or enjoyment, extrinsic motivation stems from external factors such as rewards or avoiding punishment. The SDLRS primarily assesses intrinsic motivational aspects like love of learning and openness to new ideas, distinguishing it from tools that focus on extrinsic motivators.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the SDLRS measures actual self-directed learning behavior rather than readiness.
+>
+> The misconception arises because the term 'readiness' might be interpreted as a measure of current performance. However, the SDLRS specifically evaluates an individual's predisposition and potential for engaging in self-directed learning, not their immediate actions or outcomes.
 
 ## Key Figures
 
@@ -131,6 +151,13 @@ The SDLRS measures openness to learning opportunities by assessing an individual
 > How can the scale be improved to better measure actual behavior rather than just attitudes?
 >
 > *What would resolve it:* Incorporating more behavioral indicators, such as observed learning activities or self-reported behaviors, could enhance the scale's reliability and validity.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence scores on the SDLRS?
+>
+> *What would resolve it:* Research comparing SDLRS scores across diverse cultural backgrounds could reveal how societal values around autonomy and self-regulation impact learners' readiness for self-directed education.
 
 ## Synthesis
 
@@ -149,3 +176,10 @@ The SDLRS's significance extends beyond adult education into K-12 settings, wher
 **Applies to:** [[constructivist-learning-theory]]
 
 **Source:** [[self-directed-learning-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[constructivist-learning-theory]]** — *applies-to*
+> Constructivist learning theory emphasizes the active construction of knowledge through experience and reflection. The SDLRS aligns with this by assessing learners' ability to take initiative, be creative, and engage in reflective practices that are central to constructivist approaches.

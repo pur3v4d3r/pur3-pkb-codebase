@@ -1,13 +1,12 @@
 ---
-title: "Motivated Reasoning"
+title: Motivated Reasoning
 aliases:
-  - "Motivated Reasoning"
-  - "directional motivated reasoning"
-  - "identity-protective cognition"
+  - Motivated Reasoning
+  - directional motivated reasoning
+  - identity-protective cognition
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - judgement-and-decision-making
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "motivated-reasoning-synthetic-seed-2026-04-24"
+  - motivated-reasoning-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Identity-Protective Cognition]]"
-  - "[[confirmation-bias]]"
-  - "[[Wishful Thinking]]"
+  - '[[Identity-Protective Cognition]]'
+  - '[[confirmation-bias]]'
+  - '[[Wishful Thinking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Identity-Protective Cognition]]"
+  - '[[Identity-Protective Cognition]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[confirmation-bias]]"
-  - "[[Wishful Thinking]]"
+  - '[[confirmation-bias]]'
+  - '[[Wishful Thinking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Motivated Reasoning
 
@@ -89,6 +88,9 @@ Theoretical roots of Motivated Reasoning trace back to Ziva Kunda's 1990 review,
 
 Empirical evidence supports the existence of Motivated Reasoning. For example, studies have shown that participants are more likely to accept weak evidence supporting a conclusion they desire while rejecting stronger evidence against it. This phenomenon is particularly evident in contexts where beliefs are closely tied to personal or group identities, such as political ideologies or cultural values.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Motivated Reasoning is not merely a passive acceptance or rejection of information; it actively shapes how individuals process and interpret incoming data. This active role can lead to the construction of elaborate justifications for desired beliefs, even in the face of contradictory evidence. For example, someone who strongly believes in a particular political ideology might engage in motivated reasoning by selectively interpreting news articles that support their views while dismissing or rationalizing away those that do not.
+
 ## Mechanism
 
 Motivated Reasoning operates within the constraint of plausibility — people do not accept any information they desire to believe; instead, they set lower standards for evidence that supports their goals and higher standards for evidence that challenges them. This selective processing can lead to a biased perception of reality, where individuals feel confident in their beliefs despite a lack of robust supporting evidence.
@@ -104,14 +106,35 @@ Motivated Reasoning operates within the constraint of plausibility — people do
 > [!example] **Application 3 — Personal beliefs**
 > For individuals, Motivated Reasoning can lead to a confirmation bias where they selectively attend to and remember information that supports their personal beliefs. This can result in a distorted view of reality and hinder the development of well-rounded opinions. For instance, someone who strongly believes in a particular political ideology might only engage with news sources that align with their views while ignoring opposing viewpoints.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can mitigate the effects of motivated reasoning by encouraging learners to revisit and re-evaluate information over time. This approach helps break down entrenched beliefs that might otherwise be reinforced through repeated exposure without critical reflection.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While both intrinsic and extraneous load influence cognitive processing, they differ in how they affect Motivated Reasoning. Intrinsic load refers to the inherent difficulty of a task, whereas extraneous load is related to the presentation or format of information. Motivated Reasoning specifically involves the selective attention to evidence based on personal goals and beliefs, which can interact with both intrinsic and extraneous loads but is distinct from them.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of evidence, whereas reactive thinking is an immediate response to stimuli. Motivated reasoning often manifests in reactive thinking when individuals quickly accept information that aligns with their goals or beliefs without deeper analysis.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think motivated reasoning only affects those who are uninformed.
+>
+> Motivated reasoning can affect anyone, regardless of their level of knowledge. Even highly informed individuals may selectively process information to align with their pre-existing beliefs or goals.
+
 ## Key Figures
 
 - **Ziva Kunda** — Ziva Kunda originated the concept of Motivated Reasoning in her 1990 review, formalizing it as an empirically robust phenomenon. Her work highlighted how personal preferences and goals influence cognitive processes, leading to biased beliefs without the reasoner experiencing it as such.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Ziva Kunda** — Kunda's seminal work in the early 1990s laid foundational research for understanding motivated reasoning, highlighting how personal motivations can influence cognitive processes without individuals being aware of it.
 
 ## Open Questions
 
@@ -124,6 +147,13 @@ Motivated Reasoning operates within the constraint of plausibility — people do
 > Can motivated reasoning be mitigated through education or training?
 >
 > *What would resolve it:* Studies examining the effectiveness of educational interventions designed to reduce motivated reasoning would provide insights into whether and how cognitive biases can be addressed through learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does motivated reasoning vary across different cultural contexts?
+>
+> *What would resolve it:* Cross-cultural studies could provide insights into whether and how the mechanisms underlying motivated reasoning differ based on societal norms, values, and belief systems.
 
 ## Synthesis
 
@@ -138,3 +168,10 @@ Understanding Motivated Reasoning is crucial for cognitive science and related f
 **Contrasts with:** [[confirmation-bias]] · [[Wishful Thinking]]
 
 **Source:** [[motivated-reasoning-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[confirmation-bias]]** — *contrasts-with*
+> While confirmation bias involves seeking out and favoring evidence that supports one's existing beliefs, motivated reasoning goes further by actively shaping how individuals interpret and remember information based on their goals and identities.

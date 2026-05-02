@@ -1,13 +1,12 @@
 ---
-title: "Self-Construal"
+title: Self-Construal
 aliases:
-  - "Self-Construal"
-  - "self-construal style"
-  - "independent vs interdependent self"
+  - Self-Construal
+  - self-construal style
+  - independent vs interdependent self
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - cross-cultural-psychology
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-construal-synthetic-seed-2026-05-01"
+  - self-construal-synthetic-seed-2026-05-01
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cultural Psychology"
-
+depth-level: enhanced
+parent-concept: Cultural Psychology
 related:
-  - "[[Cultural Psychology]]"
-  - "[[Social Identity Theory]]"
+  - '[[Cultural Psychology]]'
+  - '[[Social Identity Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Cultural Psychology]]"
+  - '[[Cultural Psychology]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Social Identity Theory]]"
+  - '[[Social Identity Theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Self-Construal
 
@@ -86,6 +85,9 @@ This distinction has profound implications for cognitive processes such as attri
 Theoretical roots of Self-Construal can be traced back to Markus and Kitayama’s seminal work in 1991, which introduced these two distinct styles. Their research highlighted how cultural context influences the development of these self-construals, with independent self-construal being more prevalent in individualistic cultures like Western societies and interdependent self-construal being more common in collectivistic cultures such as East Asia.
 
 Empirical evidence supports that Self-Construal is a state-trait hybrid, meaning it can be both stable across situations (trait) and situationally primable (state). This duality explains why cognitive processes vary depending on the context. For example, an individual might exhibit independent self-construal in personal goal-setting but interdependent self-construal when making decisions that affect their family or community.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Self-construal not only influences how individuals perceive themselves but also shapes their perception and interpretation of others' behaviors and intentions. For instance, an individual with an independent self-construal might interpret a colleague's request for help as a sign of incompetence or lack of confidence in their abilities, whereas someone with an interdependent self-construal is more likely to see it as an opportunity for collaboration and mutual support. This difference can significantly impact workplace dynamics, team cohesion, and interpersonal relationships.
 
 ## Mechanism
 
@@ -107,6 +109,22 @@ The development of Self-Construal is influenced by cultural context, which shape
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While both intrinsic and extraneous load are cognitive processes, they differ in how they relate to Self-Construal. Intrinsic load refers to the inherent difficulty of a task, whereas extraneous load is about the unnecessary complexity introduced by instructional design. Understanding these differences helps educators tailor their methods to support students with different self-construal styles.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's thoughts and actions, often leading to more nuanced self-understanding and decision-making. In contrast, reactive thinking is immediate and less conscious, driven by automatic responses and habits. Individuals with an independent self-construal tend to engage in reflective thinking more frequently, as they are accustomed to evaluating their personal goals and attributes. Those with an interdependent self-construal may rely more on reactive thinking, responding quickly to social cues and maintaining harmony within the group.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Intrinsic motivation stems from internal satisfaction or interest in a task itself, whereas extrinsic motivation is driven by external rewards such as recognition or financial incentives. Independent self-construal aligns more closely with intrinsic motivation, where personal achievement and fulfillment are key drivers. Interdependent self-construal often correlates with extrinsic motivation, influenced heavily by social approval and group goals.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Self-construal is a fixed trait that does not change over time.
+>
+> While self-construal tends to be stable within individuals, it can shift in response to life experiences and cultural contexts. For example, prolonged exposure to different cultures or significant personal events like moving abroad for work can alter one's self-construal style. This flexibility underscores the dynamic nature of identity formation.
+
 ## Key Figures
 
 - **Katherine R. Harkness** — Harkness has contributed significantly to the development of Self-Construal theory, particularly in understanding its application across diverse cultural contexts and its implications for educational practices.
@@ -124,11 +142,21 @@ The development of Self-Construal is influenced by cultural context, which shape
 >
 > *What would resolve it:* Longitudinal studies tracking changes in self-construal over time, particularly those involving targeted interventions, would help determine whether and how self-construal can be modified.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does self-construal interact with technological environments?
+>
+> *What would resolve it:* Exploring how digital platforms and social media shape self-construal could reveal new insights into identity formation in the modern era. Research might examine whether online interactions reinforce existing self-construal styles or if they encourage shifts towards more independent or interdependent orientations.
+
 ## Synthesis
 
 Self-Construal is a critical concept that bridges cultural psychology with social cognition, offering valuable insights into individual differences in cognitive processes. By understanding Self-Construal, researchers and practitioners can develop more effective educational strategies, improve cross-cultural communication, and enhance our overall comprehension of human behavior across diverse contexts.
 
 The integration of Self-Construal within the broader field of Cultural Psychology underscores its importance for exploring how cultural context shapes individual identity and social interactions. This concept not only enriches our understanding of cognitive processes but also has practical applications in various domains, making it a cornerstone of contemporary psychological research.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Self-Construal is crucial for navigating an increasingly interconnected world where cultural boundaries are becoming less distinct. By recognizing the nuances of how individuals perceive themselves and others, we can foster more inclusive environments that respect diverse identity frameworks and promote effective cross-cultural communication.
 
 ## Connections & Context
 
@@ -139,3 +167,10 @@ The integration of Self-Construal within the broader field of Cultural Psycholog
 **Contrasts with:** [[Social Identity Theory]]
 
 **Source:** [[self-construal-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Social Identity Theory]]** — *contrasts-with*
+> While Self-Construal focuses on individual perceptions of self in relation to others, Social Identity Theory emphasizes the collective aspects of identity and group membership. Unlike Self-Construal which can vary within individuals across different contexts, Social Identity Theory posits that group identities are more stable and influence behavior through shared norms and values.

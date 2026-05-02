@@ -1,12 +1,11 @@
 ---
-title: "Self Perception Theory"
+title: Self Perception Theory
 aliases:
-  - "Self Perception Theory"
-  - "Bem self-perception theory"
+  - Self Perception Theory
+  - Bem self-perception theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - self-knowledge
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-perception-theory-synthetic-seed-2026-04-25"
+  - self-perception-theory-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Psychology"
-
+depth-level: enhanced
+parent-concept: Cognitive Psychology
 related:
-  - "[[embodied-cognition]]"
-  - "[[cognitive-dissonance]]"
+  - '[[embodied-cognition]]'
+  - '[[cognitive-dissonance]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[embodied-cognition]]"
+  - '[[embodied-cognition]]'
 contradicts:
-  - "[[cognitive-dissonance]]"
+  - '[[cognitive-dissonance]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Self Perception Theory
 
@@ -83,6 +82,9 @@ Theoretical roots of Self Perception Theory can be traced back to cognitive psyc
 
 Empirical research on Self Perception Theory includes studies where participants perform actions for which there is no clear external reward or punishment. In these scenarios, participants often infer that their behavior reflects their true internal states and attitudes. For example, in the Festinger-Carlsmith study, participants who were paid to lie about a boring task later reported enjoying it more than those who were not paid, suggesting they had inferred a positive attitude towards the task based on their behavior.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Self Perception Theory also addresses how individuals interpret their own behaviors in ambiguous situations, such as when they act contrary to what they believe is their usual behavior or attitude. This process can lead to a reevaluation of one's self-concept and attitudes over time, especially if the behavior is repeated without external justification. For example, someone who initially dislikes public speaking but finds themselves volunteering for presentations might infer that they actually enjoy it more than previously thought.
+
 ## Mechanism
 
 The mechanism of Self Perception Theory involves individuals observing their own actions and inferring internal states. When an individual performs a behavior without clear external justification, they may infer that this behavior reflects their true attitudes or beliefs. This inference process is akin to perceiving others' emotions through observation rather than direct introspection.
@@ -95,6 +97,11 @@ The mechanism of Self Perception Theory involves individuals observing their own
 > [!example] **Application 2 — Behavior modification**
 > Self Perception Theory has practical applications in behavior modification programs where individuals are encouraged to perform actions that align with desired attitudes. By observing their own behavior and inferring internal states, participants can develop new beliefs or reinforce existing ones, leading to lasting changes in behavior.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Behavioral nudges in education**
+> Educators can use Self Perception Theory to design interventions that nudge students towards positive behaviors without direct instruction. By creating environments where desirable actions are performed frequently and naturally, educators can encourage students to infer positive attitudes about these behaviors. For instance, setting up a classroom library where reading is easily accessible and encouraged might lead students to perceive themselves as more interested in reading.
+
 ## Key Distinctions
 
 > [!key-distinction] **Self Perception vs Cognitive Dissonance**
@@ -102,6 +109,19 @@ The mechanism of Self Perception Theory involves individuals observing their own
 
 > [!key-distinction] **Self Perception vs Embodied Cognition**
 > Self Perception Theory focuses on external observation of behavior, while Embodied Cognition emphasizes the role of physical experience and bodily sensations in shaping cognition. For instance, Self Perception Theory would predict that observing one's own actions can lead to changes in internal states, whereas Embodied Cognition might suggest that physical experiences directly influence cognitive processes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Self Perception Theory contrasts with reactive thinking by emphasizing the reflective process of inferring attitudes from behavior. While reactive thinking involves immediate responses based on current stimuli, Self Perception Theory posits that individuals take time to observe and interpret their actions, leading to a more nuanced understanding of themselves.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Self Perception Theory suggests people always accurately infer their attitudes from behavior.
+>
+> This misconception arises because the theory implies that self-knowledge is derived through observation. However, accuracy depends on various factors such as context and consistency of behavior. Inconsistent behaviors or ambiguous contexts can lead to inaccurate inferences.
 
 ## Key Figures
 
@@ -119,6 +139,13 @@ The mechanism of Self Perception Theory involves individuals observing their own
 >
 > *What would resolve it:* Empirical studies that explore the limits of post-hoc inference in different types of self-knowledge would clarify whether this theory can account for all aspects of self-perception.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does self-perception influence long-term attitude change?
+>
+> *What would resolve it:* Research on the persistence of attitude changes inferred through behavior over time would help clarify whether such inferences lead to lasting shifts or are temporary.
+
 ## Synthesis
 
 Self Perception Theory is important in understanding human behavior and cognition because it provides a framework for explaining how individuals come to know themselves through observation. By integrating insights from cognitive psychology, the theory challenges traditional views of introspection and offers a more nuanced understanding of self-knowledge formation. It also has practical applications in fields such as instructional design and behavior modification, making it a valuable tool for educators and psychologists.
@@ -134,3 +161,10 @@ The theory's relevance extends beyond individual psychology to social and cultur
 **Contradicts:** [[cognitive-dissonance]]
 
 **Source:** [[self-perception-theory-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[cognitive-dissonance]]** — *contrasts-with*
+> While Self Perception Theory explains attitude change through the observation of behavior, Cognitive Dissonance theory posits that individuals reduce discomfort by aligning their attitudes with behaviors. This contrast highlights different mechanisms for understanding how attitudes and behaviors interact.

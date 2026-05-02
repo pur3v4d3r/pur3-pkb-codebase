@@ -1,16 +1,15 @@
 ---
-title: "Intrinsic Motivation"
+title: Intrinsic Motivation
 aliases:
-  - "Intrinsic Motivation"
-  - "Intrinsic-Motivation"
-  - "SDT Foundational Report"
-  - "Self-Determination Theory Report"
-  - "Deci and Ryan Motivation Theory"
-  - "SDT Overview"
+  - Intrinsic Motivation
+  - Intrinsic-Motivation
+  - SDT Foundational Report
+  - Self-Determination Theory Report
+  - Deci and Ryan Motivation Theory
+  - SDT Overview
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -24,55 +23,55 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-foundational-report-2026-04-19"
+  - self-determination-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[autonomous-motivation]]"
-  - "[[extrinsic-motivation]]"
+  - '[[autonomous-motivation]]'
+  - '[[extrinsic-motivation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[autonomous-motivation]]"
+  - '[[autonomous-motivation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[extrinsic-motivation]]"
+  - '[[extrinsic-motivation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Intrinsic Motivation
 
@@ -92,6 +91,9 @@ Theoretical roots of intrinsic motivation can be traced back to SDT's organismic
 
 Empirical evidence supports the idea that intrinsic motivation is robustly linked to positive outcomes. For example, studies have shown that students who are intrinsically motivated tend to engage more deeply with their tasks and persist longer when faced with challenges.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Intrinsic motivation is not merely a passive state but an active process that involves cognitive and emotional engagement with tasks or activities. This dynamic nature means that intrinsic motivation can fluctuate based on the perceived value, interest, and relevance of the activity to one's personal goals and self-concept.
+
 ## Mechanism
 
 The mechanism by which external events affect intrinsic motivation through functional significance involves the relative salience of controlling versus informational aspects. When an event is experienced as primarily controlling, it diminishes perceived autonomy and reduces intrinsic motivation. Conversely, events that are experienced as informationally positive can enhance intrinsic motivation by affirming competence.
@@ -104,6 +106,11 @@ The mechanism by which external events affect intrinsic motivation through funct
 > [!example] **Application 2 — Workplace management**
 > Managers should focus on creating a work environment that supports intrinsic motivation among employees. This includes providing opportunities for skill development and autonomy in task execution. For instance, allowing employees to choose their projects can increase job satisfaction and productivity.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance intrinsic motivation by promoting deeper engagement with course material. By spacing out review sessions, learners experience a sense of progress and mastery over time, which can increase their enjoyment and interest in the subject matter.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extrinsic Motivation**
@@ -111,6 +118,19 @@ The mechanism by which external events affect intrinsic motivation through funct
 
 > [!key-distinction] **Autonomous vs Controlled Motivation**
 > Autonomous motivation encompasses intrinsic, integrated, and identified forms, all characterized by perceived volition. In contrast, controlled motivation operates through processes experienced as pressured or coerced. The distinction matters because autonomous motivation is associated with better well-being outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Load**
+> While intrinsic motivation is driven by internal satisfaction from an activity itself, intrinsic load refers to the inherent difficulty of a task that challenges one's cognitive resources. Understanding this distinction helps in designing tasks that are challenging enough to engage learners without overwhelming them, thus supporting both intrinsic motivation and effective learning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that extrinsic rewards always undermine intrinsic motivation.
+>
+> This misconception arises from the common belief that external incentives can never coexist with internal enjoyment. However, research shows that under certain conditions, such as when rewards are informational and tied to performance feedback, they can enhance rather than diminish intrinsic motivation by affirming competence.
 
 ## Key Figures
 
@@ -129,6 +149,13 @@ The mechanism by which external events affect intrinsic motivation through funct
 >
 > *What would resolve it:* Empirical research examining the conditions under which both types of motivation can coexist without one diminishing the other would provide insights.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural differences influence the expression and development of intrinsic motivation?
+>
+> *What would resolve it:* Cross-cultural studies are needed to understand how societal values, educational practices, and social norms shape individuals' capacity for finding enjoyment in activities without external rewards.
+
 ## Synthesis
 
 Understanding intrinsic motivation is crucial for enhancing human performance and well-being because it drives engagement in activities that are personally fulfilling. By fostering environments that support autonomy, competence, and relatedness, individuals can maintain high levels of intrinsic motivation, leading to better outcomes in education, work, and personal development.
@@ -144,3 +171,10 @@ Intrinsic motivation also has broader implications across various domains such a
 **Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[autonomous-motivation]]** — *specializes*
+> Intrinsic motivation is a specific form of autonomous motivation that arises from internal volition and self-endorsed values. Unlike other forms of autonomous motivation, intrinsic motivation does not rely on external rewards or recognition but rather on the inherent enjoyment derived from engaging in an activity.

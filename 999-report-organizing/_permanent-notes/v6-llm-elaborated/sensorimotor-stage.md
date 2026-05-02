@@ -1,12 +1,11 @@
 ---
-title: "Sensorimotor Stage"
+title: Sensorimotor Stage
 aliases:
-  - "Sensorimotor Stage"
-  - "Piaget's sensorimotor stage"
+  - Sensorimotor Stage
+  - Piaget's sensorimotor stage
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - cognitive-development
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "sensorimotor-stage-synthetic-seed-2026-05-01"
+  - sensorimotor-stage-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Development"
-
+depth-level: enhanced
+parent-concept: Cognitive Development
 related:
-  - "[[Object Permanence]]"
-  - "[[Piagetian Stages]]"
-  - "[[Formal Operational Stage]]"
+  - '[[Object Permanence]]'
+  - '[[Piagetian Stages]]'
+  - '[[Formal Operational Stage]]'
 prerequisites:
-  - "[[Object Permanence]]"
+  - '[[Object Permanence]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Piagetian Stages]]"
+  - '[[Piagetian Stages]]'
 contrasts-with:
-  - "[[Formal Operational Stage]]"
+  - '[[Formal Operational Stage]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Sensorimotor Stage
 
@@ -87,6 +86,9 @@ Theoretical roots of the Sensorimotor Stage lie in Jean Piaget's constructivist 
 
 Empirical studies have shown that while the precise age boundaries of the Sensorimotor Stage may vary, key milestones such as object permanence emerge earlier than previously thought. For instance, infants can demonstrate understanding of object permanence at around 4 months using looking time paradigms, rather than waiting until 8-9 months with Piaget's reaching tasks.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Sensorimotor Stage is characterized by a gradual shift from reflexive actions to more intentional behaviors, reflecting infants' growing ability to coordinate sensory input with motor output. This transition is not merely quantitative but qualitative, as it involves the development of mental schemas that allow for increasingly complex problem-solving and goal-directed behavior.
+
 ## Mechanism
 
 Infants learn through sensory-motor coordination by integrating visual and tactile information to form schemas. For example, they might initially grasp an object reflexively but later develop a more deliberate reaching action based on visual cues, indicating the gradual refinement of motor skills in response to sensory feedback.
@@ -102,10 +104,28 @@ Infants learn through sensory-motor coordination by integrating visual and tacti
 > [!example] **Application 3 — Child psychology assessment**
 > Psychologists use the principles of the Sensorimotor Stage to assess cognitive development in young children. Observing how infants interact with their environment can provide insights into their understanding of object permanence and other key milestones.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Developmental toys in early childhood**
+> Understanding the Sensorimotor Stage informs the design of developmental toys aimed at infants. Toys that encourage grasping, reaching, and object manipulation can enhance sensory-motor coordination and contribute to the development of object permanence. For instance, a toy that disappears behind a screen and reappears elsewhere challenges an infant's understanding of continuity and existence beyond immediate perception.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Sensorimotor Stage focuses on intrinsic load, which is the inherent difficulty of a task. In contrast, extraneous load refers to additional cognitive demands imposed by the instructional design or environment. Understanding these differences helps in creating more effective learning experiences for infants.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> In the Sensorimotor Stage, infants predominantly engage in reactive thinking, responding immediately to sensory stimuli without conscious deliberation. As they progress through this stage, reflective thinking begins to emerge as infants start to anticipate outcomes of their actions based on past experiences. This shift is crucial for developing mental representations and planning future behaviors.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Sensorimotor Stage milestones are uniform across all infants.
+>
+> While the Sensorimotor Stage outlines typical developmental sequences, individual differences in genetic predispositions, environmental factors, and learning opportunities can lead to variations in milestone achievement. For example, some infants may grasp object permanence earlier due to more stimulating environments or higher cognitive flexibility.
 
 ## Key Figures
 
@@ -129,6 +149,9 @@ Understanding the Sensorimotor Stage is crucial for educators, parents, and psyc
 
 The Sensorimotor Stage also bridges with other stages of Piaget's theory, such as the Preoperational Stage, highlighting the continuous nature of cognitive development. By grasping these early foundations, professionals can better understand later cognitive processes and their origins.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By recognizing the nuances within the Sensorimotor Stage, educators and caregivers can better support infants' cognitive development by providing appropriate challenges that foster both sensory exploration and motor coordination. This holistic approach not only enhances immediate learning but also lays a robust foundation for future cognitive milestones.
+
 ## Evidence
 
 Contemporary research using non-reaching-based measures like looking time and violation-of-expectation tasks has shown that key milestones in the Sensorimotor Stage emerge earlier than previously thought, supporting a continuous rather than stage-like development. This evidence challenges the traditional view of discrete age boundaries while preserving the developmental trajectory described by Piaget.
@@ -144,3 +167,10 @@ Contemporary research using non-reaching-based measures like looking time and vi
 **Contrasts with:** [[Formal Operational Stage]]
 
 **Source:** [[sensorimotor-stage-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Piagetian Stages]]** — *falls-under*
+> The Sensorimotor Stage is a foundational component of Piaget's broader theory of cognitive development, which outlines how children progress through distinct stages. Understanding the Sensorimotor Stage provides critical context for grasping subsequent stages and the overall trajectory of cognitive growth.

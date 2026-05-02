@@ -1,13 +1,12 @@
 ---
-title: "Psychological Safety"
+title: Psychological Safety
 aliases:
-  - "Psychological Safety"
-  - "team psychological safety"
-  - "Edmondson safety"
+  - Psychological Safety
+  - team psychological safety
+  - Edmondson safety
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - team-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "psychological-safety-synthetic-seed-2026-04-25"
+  - psychological-safety-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Organizational Psychology"
-
+depth-level: enhanced
+parent-concept: Organizational Psychology
 related:
-  - "[[self-compassion]]"
-  - "[[growth-mindset]]"
+  - '[[self-compassion]]'
+  - '[[growth-mindset]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-compassion]]"
+  - '[[self-compassion]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[growth-mindset]]"
+  - '[[growth-mindset]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Psychological Safety
 
@@ -86,6 +85,9 @@ In practice, Psychological Safety manifests in various ways within teams. For in
 The theoretical roots of Psychological Safety trace back to the work of Amy Edmondson, who introduced this concept in 1999. Her research highlighted that teams with higher levels of Psychological Safety are more likely to engage in effective learning behaviors such as error reporting, help-seeking, and constructive challenge. This aligns with broader theories in organizational psychology that emphasize the importance of psychological safety for fostering a positive work environment. Edmondson's findings have been corroborated by numerous studies, including Google's Project Aristotle, which identified Psychological Safety as one of the most consistent differentiators of high-performing teams.
 
 Empirical evidence supports the significance of Psychological Safety in team performance. For example, Google’s Project Aristotle found that Psychological Safety was the strongest single predictor of effective learning behaviors among its study participants. This underscores the critical role of Psychological Safety in enhancing team cohesion and productivity. Furthermore, research has shown that teams with higher levels of Psychological Safety are better equipped to handle complex tasks and adapt to changing circumstances, as they can rely on each other for support and feedback.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Psychological Safety is not merely a static state but an evolving dynamic within teams. As team members engage more deeply with each other, the level of trust and mutual respect can fluctuate, impacting how safe individuals feel to take interpersonal risks. This fluidity underscores the importance of ongoing efforts by leaders and team members alike to nurture and maintain this sense of safety.
 
 ## Mechanism
 
@@ -110,6 +112,22 @@ Psychological Safety operates through a series of mechanisms that reinforce posi
 > [!key-distinction] **Psychological Safety vs Absence of Conflict**
 > Psychological Safety is not about avoiding conflict but rather about managing it constructively. Teams with high Psychological Safety can engage in healthy debates and disagreements without fear of retribution, whereas teams lacking this safety may suppress their opinions to avoid conflict altogether. The distinction lies in the absence of interpersonal threat for raising substantive concerns.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> In environments with high Psychological Safety, team members are more likely to engage in reflective thinking, where they deliberate on their thoughts and actions before responding. This contrasts with reactive thinking, which is immediate and often driven by emotional responses. Reflective thinking fosters deeper understanding and more thoughtful contributions, enhancing the quality of discussions and decision-making processes.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Psychological Safety can influence team members' motivation levels. When individuals feel safe to express themselves, they are more likely to be intrinsically motivated—driven by personal interest and enjoyment in the task itself rather than external rewards or punishments. This intrinsic motivation leads to higher engagement and creativity compared to extrinsic motivation, which might diminish when team members fear negative consequences for their actions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Psychological Safety means avoiding all conflict.
+>
+> This misconception arises from the belief that a safe environment is one without any disagreement. However, Psychological Safety actually encourages constructive conflict by allowing team members to voice differing opinions and concerns openly. This openness leads to better problem-solving and innovation rather than stifling debate.
+
 ## Key Figures
 
 - **Amy Edmondson** — Amy Edmondson is credited with introducing the concept of Psychological Safety in her seminal work from 1999. Her research has significantly influenced organizational psychology and management practices, emphasizing the importance of creating a supportive environment for team learning and performance.
@@ -126,9 +144,19 @@ Psychological Safety operates through a series of mechanisms that reinforce posi
 >
 > *What would resolve it:* Developing reliable and valid measurement tools, such as surveys or observational methods, would help organizations assess the level of Psychological Safety within their teams accurately.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Psychological Safety impact the diversity of ideas within a team?
+>
+> *What would resolve it:* Longitudinal studies tracking teams with varying levels of Psychological Safety could reveal how this safety influences the range and quality of ideas generated. Understanding these dynamics can help organizations foster more inclusive and innovative environments.
+
 ## Synthesis
 
 Psychological Safety is a critical concept in organizational psychology that has far-reaching implications for team dynamics and performance. By fostering an environment where team members feel safe to express themselves, organizations can enhance collaboration, innovation, and resilience. This concept intersects with broader theories of learning and development, highlighting the importance of psychological safety for creating positive work environments. As research continues to explore its long-term effects and measurement methods, Psychological Safety remains a vital area of study in organizational psychology.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Psychological Safety is integral to fostering a culture where team members feel empowered to contribute their best work, leading to enhanced collaboration, innovation, and resilience within teams. By understanding the mechanisms that underpin Psychological Safety and its implications for motivation and conflict resolution, organizations can better support their teams in achieving these outcomes.
 
 ## Connections & Context
 
@@ -139,3 +167,13 @@ Psychological Safety is a critical concept in organizational psychology that has
 **Applies to:** [[growth-mindset]]
 
 **Source:** [[psychological-safety-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[growth-mindset]]** — *applies-to*
+> Psychological Safety applies to the concept of a Growth Mindset by creating an environment where individuals feel safe to take risks and learn from mistakes. This safety fosters a belief that abilities can be developed through dedication and hard work, encouraging continuous personal and professional growth.
+
+> [!connection] **[[self-compassion]]** — *related*
+> Psychological Safety is closely related to self-compassion as both concepts involve creating an environment where individuals feel safe and supported. When team members experience Psychological Safety, they are more likely to practice self-compassion by being kinder to themselves when facing challenges or making mistakes.

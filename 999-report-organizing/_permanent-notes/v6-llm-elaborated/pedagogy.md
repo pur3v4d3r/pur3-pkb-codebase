@@ -1,12 +1,11 @@
 ---
-title: "Pedagogy"
+title: Pedagogy
 aliases:
-  - "Pedagogy"
-  - "theory of teaching"
+  - Pedagogy
+  - theory of teaching
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - philosophy-of-education
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pedagogy-synthetic-seed-2026-04-24"
+  - pedagogy-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Educational Psychology"
-
+depth-level: enhanced
+parent-concept: Educational Psychology
 related:
-  - "[[Didactics]]"
-  - "[[andragogy]]"
-  - "[[instructional-design]]"
+  - '[[Didactics]]'
+  - '[[andragogy]]'
+  - '[[instructional-design]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Didactics]]"
+  - '[[Didactics]]'
 contrasts-with:
-  - "[[andragogy]]"
+  - '[[andragogy]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[instructional-design]]"
+  - '[[instructional-design]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Pedagogy
 
@@ -87,6 +86,9 @@ Theoretical roots of pedagogy can be traced back to the work of John Sweller in 
 
 Historically, pedagogy has evolved through various educational movements such as progressive education and the flipped classroom model. However, it is crucial for educators to critically evaluate these innovations based on empirical evidence rather than adopting them uncritically. For example, while the flipped classroom can be effective in certain contexts, its success depends on how well instructors design pre-class activities that complement in-class discussions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Pedagogy also encompasses the role of feedback in learning, which is crucial for guiding students towards mastery and self-correction. Effective feedback should be timely, specific, and actionable, helping learners understand their mistakes and how to improve. This aligns with Vygotsky's concept of the Zone of Proximal Development (ZPD), where feedback serves as a scaffold that supports learners in achieving tasks they could not accomplish alone.
+
 ## Mechanism
 
 Key mechanisms in pedagogy include spaced practice and retrieval practice. Spaced practice involves distributing learning over time to enhance long-term retention, while retrieval practice involves actively recalling information from memory to strengthen neural connections. These strategies are supported by cognitive science research and have been shown to significantly improve learning outcomes.
@@ -102,10 +104,28 @@ Key mechanisms in pedagogy include spaced practice and retrieval practice. Space
 > [!example] **Application 3 — Online education**
 > In online education, pedagogical principles help design courses that engage remote learners effectively. For example, incorporating retrieval practice through quizzes and interactive activities can enhance student engagement and retention of course material. This approach ensures that online learners are actively involved in the learning process and can apply their knowledge to real-world problems.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance learning outcomes by encouraging students to revisit course material at increasing intervals. This approach helps combat the forgetting curve, ensuring that information is retained over longer periods. For instance, platforms like Coursera and edX incorporate quizzes and assignments that are strategically placed throughout a course to reinforce key concepts.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Pedagogy distinguishes between intrinsic load, which is inherent to the task itself, and extraneous load, which arises from how the task is presented. Instructors must design tasks that minimize extraneous load while maximizing intrinsic load to enhance learning efficiency. For example, a well-structured problem with clear instructions reduces extraneous load, allowing learners to focus on understanding the underlying concepts.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> In pedagogy, surface processing involves rote memorization without understanding the underlying meaning or context of information. In contrast, deep processing focuses on semantic and meaningful connections that foster a deeper comprehension of material. This distinction is critical because deep processing leads to better long-term retention and transfer of knowledge.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think pedagogy only applies to traditional classroom settings.
+>
+> Pedagogical principles are broadly applicable across various learning environments, including online and hybrid models. For example, spaced repetition and retrieval practice can be effectively implemented in digital platforms to enhance learning outcomes.
 
 ## Key Figures
 
@@ -122,6 +142,13 @@ Key mechanisms in pedagogy include spaced practice and retrieval practice. Space
 > What role does technology play in shaping modern pedagogy?
 >
 > *What would resolve it:* A comprehensive review of how technological advancements have influenced educational practices and learning outcomes could provide insights into the evolving nature of pedagogy.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence pedagogical practices?
+>
+> *What would resolve it:* Further research into how different cultures value education and perceive teaching methods could provide insights into adapting pedagogical strategies to diverse educational settings.
 
 ## Synthesis
 
@@ -142,3 +169,10 @@ Pedagogical principles are supported by substantial evidence from cognitive scie
 **Applies to:** [[instructional-design]]
 
 **Source:** [[pedagogy-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[instructional-design]]** — *applies-to*
+> Pedagogy provides the theoretical foundation for instructional design, guiding how educational materials and activities are structured to optimize learning. By applying pedagogical principles such as spaced repetition and retrieval practice, instructional designers can create more effective learning experiences.

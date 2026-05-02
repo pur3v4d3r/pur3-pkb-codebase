@@ -1,13 +1,12 @@
 ---
-title: "Near Transfer"
+title: Near Transfer
 aliases:
-  - "Near Transfer"
-  - "proximal transfer"
-  - "low-road transfer"
+  - Near Transfer
+  - proximal transfer
+  - low-road transfer
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - transfer-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "near-transfer-synthetic-seed-2026-04-25"
+  - near-transfer-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[far-transfer]]"
-  - "[[transfer-appropriate-processing]]"
-  - "[[worked-examples]]"
+  - '[[far-transfer]]'
+  - '[[transfer-appropriate-processing]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[far-transfer]]"
-  - "[[transfer-appropriate-processing]]"
+  - '[[far-transfer]]'
+  - '[[transfer-appropriate-processing]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Near Transfer
 
@@ -88,6 +87,9 @@ The foundational mechanism behind Near Transfer involves the automation of proce
 Theoretical roots of Near Transfer can be traced back to the work of John Sweller, who highlighted its importance in his research on cognitive load theory. Sweller's findings underscore the role of automation in facilitating Near Transfer, emphasizing that highly automated skills are more likely to transfer effectively to new but similar tasks.
 
 Empirical evidence supports the reliability and ubiquity of Near Transfer. Studies have consistently shown that learners who practice a task extensively tend to perform better on related tasks, even if those tasks differ slightly from their original training context.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Near Transfer is particularly relevant in professional training contexts such as medical education, where skills learned in one clinical scenario can be applied to similar but distinct cases. For instance, a doctor trained to diagnose symptoms of a specific disease may use this knowledge to identify and treat variations of the same condition in different patients. This application underscores Near Transfer's role not just in academic learning but also in practical professional settings.
 
 ## Mechanism
 
@@ -109,6 +111,22 @@ Near Transfer operates through the automation of procedural knowledge, where lea
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Near Transfer is often associated with intrinsic load, which refers to the inherent difficulty of a task. In contrast, extraneous load involves unnecessary cognitive demands that do not contribute to learning. Understanding this distinction helps educators design tasks that minimize extraneous load and maximize the automation of procedural knowledge for effective Near Transfer.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Near Transfer relies heavily on surface-level similarities between tasks, whereas deep processing focuses on the underlying principles and meanings. While surface processing can facilitate quick application of learned skills to similar contexts (near transfer), it may limit broader understanding and adaptability when faced with novel situations requiring deeper comprehension.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Near Transfer benefits from elaborative rehearsal, which involves linking new information to existing knowledge in meaningful ways. In contrast, maintenance rehearsal focuses on rote repetition without deep understanding or application. While both can aid learning, elaborative rehearsal is more likely to support the automation of procedural knowledge necessary for near transfer.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Near Transfer means skills are automatically applicable in any similar context.
+>
+> Near Transfer does not guarantee automatic applicability across all similar contexts. The effectiveness of transferring learned skills depends on the degree to which new tasks share surface features with the original training, as well as the learner's ability to recognize and apply these similarities.
+
 ## Key Figures
 
 - **John Sweller** — Sweller is recognized as an originator of cognitive load theory, which has significantly contributed to our understanding of Near Transfer. His research highlighted the importance of automation in procedural knowledge for facilitating effective skill transfer.
@@ -125,11 +143,21 @@ Near Transfer operates through the automation of procedural knowledge, where lea
 >
 > *What would resolve it:* Research comparing the outcomes of curricula designed to maximize Near Transfer with those aimed at fostering Far Transfer could help identify strategies for integrating both types of transfer effectively.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the specificity of surface features influence near transfer effectiveness?
+>
+> *What would resolve it:* Empirical studies examining how closely new tasks must resemble original training scenarios to facilitate effective near transfer could provide insights into optimizing instructional design for skill application in similar contexts.
+
 ## Synthesis
 
 Understanding Near Transfer is crucial for effective learning and teaching strategies because it provides a clear framework for how previously learned skills can be applied to new but similar tasks. By focusing on the automation of procedural knowledge, educators can design curricula that facilitate skill transfer across various domains. This concept also intersects with other related concepts like Far Transfer, Worked Examples, and Transfer-Appropriate Processing, highlighting its importance in cognitive architecture.
 
 The robust and ubiquitous nature of Near Transfer underscores its practical value in educational settings. By leveraging this phenomenon, educators can create more effective learning experiences that prepare students to apply their skills across a range of contexts.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Near Transfer within cognitive architecture highlights the importance of both surface-level similarities and deeper procedural knowledge automation. This dual focus not only enhances immediate task performance but also lays a foundation for broader, more flexible skill application as learners progress through varied training scenarios.
 
 ## Connections & Context
 
@@ -140,3 +168,13 @@ The robust and ubiquitous nature of Near Transfer underscores its practical valu
 **Applies to:** [[worked-examples]]
 
 **Source:** [[near-transfer-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Near Transfer is significantly enhanced by worked examples because they provide learners with step-by-step demonstrations of how to solve problems, which can be easily adapted and applied in similar contexts. This approach minimizes the cognitive load required for problem-solving, allowing learners to focus on recognizing and applying surface-level similarities.
+
+> [!connection] **[[transfer-appropriate-processing]]** — *contrasts-with*
+> While Near Transfer focuses on transferring skills within similar contexts, transfer-appropriate processing emphasizes the importance of aligning training tasks with the target task's characteristics to facilitate effective skill application. This contrasts with Near Transfer by highlighting that even in similar contexts, alignment between practice and application is crucial for successful transfer.

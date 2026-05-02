@@ -1,15 +1,14 @@
 ---
-title: "Recurrent Constituent Skill"
+title: Recurrent Constituent Skill
 aliases:
-  - "Recurrent Constituent Skill"
-  - "4C/ID Model"
-  - "Four Component Instructional Design"
-  - "Ten Steps to Complex Learning"
-  - "van Merriënboer's 4C/ID"
+  - Recurrent Constituent Skill
+  - 4C/ID Model
+  - Four Component Instructional Design
+  - Ten Steps to Complex Learning
+  - van Merriënboer's 4C/ID
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "four-component-instructional-design-model-4cid-foundational-report-2026-04-18"
+  - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Recurrent Constituent Skill
 
@@ -90,6 +89,9 @@ The distinction between recurrent and non-recurrent constituent skills is crucia
 
 The Four Component Instructional Design (4C/ID) model, developed by Jeroen J. G. van Merriënboer in 1997, provides a framework for integrating these skills into training programs. The model emphasizes the importance of learning tasks that provide authentic experiences and supportive information to bridge knowledge gaps, ensuring both recurrent and non-recurrent skills are addressed comprehensively.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Recurrent constituent skills play a pivotal role in automating routine tasks, thereby freeing up cognitive resources for more complex problem-solving activities. This automation is particularly beneficial in high-stress environments such as emergency medical services or air traffic control, where quick and accurate execution of standard procedures can be life-saving.
+
 ## Mechanism
 
 Procedural information is delivered just-in-time during task execution to automate recurrent constituent skills. This means that step-by-step instructions or rules are provided precisely when needed, fading as the learner automates the procedure through repeated practice. For example, in a medical training scenario, the exact steps for taking vital signs would be given immediately before performing them, and this information would gradually become internalized over time.
@@ -105,10 +107,28 @@ Procedural information is delivered just-in-time during task execution to automa
 > [!example] **Application 3 — Aviation training**
 > In aviation training, conducting safety checks is a recurrent skill that benefits from just-in-time procedural information delivery. By practicing these checks repeatedly in realistic scenarios, pilots can automate the process, ensuring it becomes second nature during critical moments.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance the automation of recurrent constituent skills. By scheduling practice sessions at increasing intervals, learners reinforce procedural knowledge without overwhelming their working memory. This approach not only improves retention but also allows for more efficient integration of new information.
+
 ## Key Distinctions
 
 > [!key-distinction] **Recurrent vs Non-Recurrent Constituent Skills**
 > Recurrent skills are executed consistently across different contexts and follow predefined rules or procedures. In contrast, non-recurrent skills require reasoning and problem-solving that adapts to specific features of each situation. The distinction is crucial for instructional design as it guides the selection of appropriate learning strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Declarative vs Procedural Knowledge**
+> Recurrent constituent skills are closely tied to procedural knowledge, which involves knowing how to perform tasks. In contrast, declarative knowledge pertains to factual or conceptual information about the world. While both types of knowledge are crucial for learning, focusing on procedural aspects through recurrent skill practice can significantly enhance task automation and efficiency.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that all skills become automatic once learned.
+>
+> In reality, the transition from conscious to unconscious execution of a skill depends on consistent practice and context stability. Recurrent constituent skills are designed for uniform application across scenarios, but non-recurrent skills require flexible adaptation based on situational cues. This distinction highlights the importance of targeted training methods that align with the nature of the task.
 
 ## Key Figures
 
@@ -132,6 +152,9 @@ Understanding recurrent constituent skills is crucial for effective instructiona
 
 The integration of recurrent constituent skills into training programs has broader implications for fields such as education, psychology, and human-computer interaction. By leveraging these skills effectively, educators can create more efficient and effective learning environments that support both procedural and conceptual development.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating recurrent constituent skills into instructional design, educators can create more effective learning environments that balance automation of routine tasks with the development of higher-order thinking skills. This dual focus not only enhances immediate performance but also supports long-term skill retention and adaptability in diverse contexts.
+
 ## Connections & Context
 
 **Falls under:** [[cognitive-architecture]]
@@ -141,3 +164,10 @@ The integration of recurrent constituent skills into training programs has broad
 **Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Recurrent constituent skills rely heavily on working memory for initial learning and practice. As learners repeatedly engage in procedural tasks, they gradually shift from conscious effort to automatic execution, reducing the cognitive load on working memory. This transition is critical for efficient task performance.

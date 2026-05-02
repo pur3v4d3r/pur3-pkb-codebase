@@ -1,13 +1,12 @@
 ---
-title: "Practical Intelligence"
+title: Practical Intelligence
 aliases:
-  - "Practical Intelligence"
-  - "tacit knowledge"
-  - "street smarts"
+  - Practical Intelligence
+  - tacit knowledge
+  - street smarts
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - organizational-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "practical-intelligence-synthetic-seed-2026-04-25"
+  - practical-intelligence-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Common Sense]]"
-  - "[[Analytical Intelligence]]"
-  - "[[Expertise]]"
-  - "[[tacit-knowledge]]"
+  - '[[Common Sense]]'
+  - '[[Analytical Intelligence]]'
+  - '[[Expertise]]'
+  - '[[tacit-knowledge]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Common Sense]]"
+  - '[[Common Sense]]'
 contrasts-with:
-  - "[[Analytical Intelligence]]"
+  - '[[Analytical Intelligence]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Expertise]]"
+  - '[[Expertise]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[tacit-knowledge]]"
+  - '[[tacit-knowledge]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Practical Intelligence
 
@@ -89,6 +88,9 @@ Theoretical roots of Practical Intelligence can be traced back to the work of Ro
 
 Empirically, studies have shown that measures of Practical Intelligence can predict job performance with some incremental validity over IQ in certain occupations. For example, in fields requiring complex problem-solving or decision-making under uncertainty, such as management or sales, individuals who score high on tacit knowledge measures tend to perform better than those relying solely on analytical intelligence.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Practical Intelligence is not merely a passive accumulation of experiences but an active process that involves continuous adaptation and refinement of tacit knowledge in response to changing environments. This dynamic nature means that individuals with high Practical Intelligence are adept at recognizing patterns, making intuitive judgments, and adjusting their strategies based on feedback from real-world outcomes.
+
 ## Mechanism
 
 The acquisition and application of tacit knowledge involve a process that is often implicit and difficult to articulate. Individuals develop this knowledge through repeated exposure to real-world situations, where they learn by doing and observing. This process can be facilitated by deliberate practice, mentorship, and immersion in relevant environments.
@@ -104,6 +106,11 @@ The acquisition and application of tacit knowledge involve a process that is oft
 > [!example] **Application 3 — Everyday life**
 > In everyday life, individuals with strong Practical Intelligence are better equipped to handle unexpected situations. For example, a person who has developed practical skills through years of cooking can easily adapt recipes based on available ingredients and personal preferences, demonstrating the real-world applicability of their knowledge.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance Practical Intelligence by encouraging learners to revisit and apply concepts over time. This approach helps solidify tacit knowledge through repeated exposure, making it more accessible for real-world problem-solving.
+
 ## Key Distinctions
 
 > [!key-distinction] **Practical Intelligence vs Analytical Intelligence**
@@ -112,9 +119,25 @@ The acquisition and application of tacit knowledge involve a process that is oft
 > [!key-distinction] **Tacit Knowledge vs Explicit Knowledge**
 > Practical Intelligence relies heavily on tacit knowledge—knowledge that is not easily articulated and is acquired implicitly from experience. In contrast, explicit knowledge can be clearly defined and taught through formal instruction. The distinction between these forms of knowledge highlights the unique value of Practical Intelligence in real-world applications.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of options and outcomes before acting, while reactive thinking is immediate response to stimuli. Practical Intelligence often relies on reactive thinking due to the need for quick decision-making in complex situations, whereas analytical intelligence may favor reflective thinking.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that Practical Intelligence can be fully captured by IQ tests.
+>
+> This misconception arises from equating cognitive abilities with standardized test performance. In reality, Practical Intelligence encompasses tacit knowledge and real-world application skills that are not typically measured in conventional IQ tests.
+
 ## Key Figures
 
 - **Robert Sternberg** — As a proponent of Practical Intelligence, Robert Sternberg introduced this concept as part of his broader theory of cognitive architecture. His work has been instrumental in highlighting the importance of tacit knowledge and practical application in understanding human cognition.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Barbara Kerr** — Contributed to the study of Practical Intelligence in vocational contexts, emphasizing its role in career development and professional success.
 
 ## Open Questions
 
@@ -128,11 +151,21 @@ The acquisition and application of tacit knowledge involve a process that is oft
 >
 > *What would resolve it:* Empirical evidence from longitudinal studies examining the impact of targeted interventions on Practical Intelligence would help clarify whether this construct can be enhanced over time.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the development and expression of Practical Intelligence?
+>
+> *What would resolve it:* Research on cross-cultural differences would help resolve this question by identifying how varying social norms and environments shape tacit knowledge and real-world problem-solving skills.
+
 ## Synthesis
 
 Practical Intelligence is an important construct for understanding cognitive capacities beyond traditional intelligence measures. By focusing on tacit knowledge and real-world application, it provides a more comprehensive framework for assessing human cognition. This concept has significant implications for education, work performance, and everyday life, as it highlights the value of practical skills that are often overlooked by conventional intelligence tests.
 
 The integration of Practical Intelligence with related concepts such as expertise and common sense further underscores its importance in cognitive architecture. By recognizing the unique contributions of tacit knowledge to problem-solving and decision-making, we can better design educational programs and workplace strategies that foster these critical abilities.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Practical Intelligence within cognitive architecture underscores its role in bridging theoretical knowledge with practical application, highlighting the importance of experiential learning and adaptive thinking in diverse contexts.
 
 ## Evidence
 
@@ -151,3 +184,10 @@ Empirical evidence supports the incremental validity of Practical Intelligence m
 **Instance of:** [[tacit-knowledge]]
 
 **Source:** [[practical-intelligence-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[tacit-knowledge]]** — *instance-of*
+> Practical Intelligence is an instance of tacit knowledge because it involves the implicit, hard-to-articulate understanding that individuals develop through experience. This connection highlights how Practical Intelligence relies on the same underlying mechanisms as other forms of tacit knowledge.

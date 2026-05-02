@@ -1,12 +1,11 @@
 ---
-title: "Relationship Motivation Theory"
+title: Relationship Motivation Theory
 aliases:
-  - "Relationship Motivation Theory"
-  - "RMT"
+  - Relationship Motivation Theory
+  - RMT
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - relationship-research
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "relationship-motivation-theory-synthetic-seed-2026-04-24"
+  - relationship-motivation-theory-synthetic-seed-2026-04-24
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[self-determination-theory]]"
-  - "[[attachment-theory]]"
-  - "[[Interdependence]]"
+  - '[[self-determination-theory]]'
+  - '[[attachment-theory]]'
+  - '[[Interdependence]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[attachment-theory]]"
+  - '[[attachment-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Interdependence]]"
+  - '[[Interdependence]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Relationship Motivation Theory
 
@@ -86,6 +85,9 @@ In practice, RMT suggests that need support enhances relationship satisfaction a
 The theoretical roots of RMT lie in SDT, which posits that individuals have three basic psychological needs: competence, autonomy, and relatedness. In the context of close relationships, these needs are particularly relevant as they shape how partners interact and support each other. Empirically, studies have shown that couples who report higher levels of need satisfaction tend to have more satisfying and enduring relationships compared to those with unmet needs.
 
 RMT also emphasizes the importance of self-endorsement over independence in close relationships. SDT argues that autonomy is not about being independent but rather about feeling one's actions are freely chosen and aligned with personal values. This distinction is crucial because it allows for deeply interdependent relationships where partners support each other's growth without sacrificing their own needs.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Relationship Motivation Theory also underscores the dynamic interplay between autonomy and relatedness, suggesting that these needs can sometimes conflict within a relationship. For example, while one partner may desire more independence to pursue personal interests, this same need for space might be perceived by the other as neglect or disinterest in the relationship. This tension highlights the complexity of balancing individual desires with relational commitments.
 
 ## Mechanism
 
@@ -107,6 +109,22 @@ The mechanism by which need support and thwarting affect relationship quality in
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > RMT distinguishes between intrinsic (self-endorsement) and extraneous load. Intrinsic load refers to the effort required for personal growth and self-determination, while extraneous load involves external pressures that can undermine autonomy. This distinction is important because it highlights how RMT focuses on fostering internal motivation rather than imposing external demands.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> RMT emphasizes intrinsic motivation, where individuals are driven by internal rewards such as personal growth and fulfillment, rather than extrinsic motivations like external validation or material gain. This distinction is crucial because it highlights how relationships that foster autonomy and relatedness can enhance intrinsic motivation, leading to more satisfying and enduring partnerships.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> In the context of RMT, reflective thinking allows partners to consider their needs and behaviors in a relationship from a broader perspective, fostering mutual understanding and support. In contrast, reactive thinking can lead to knee-jerk responses that may undermine autonomy or relatedness. Encouraging reflective practices helps couples navigate conflicts more constructively.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that RMT suggests relationships should be entirely self-focused, ignoring the needs of others.
+>
+> This misconception arises from a misunderstanding of autonomy within RMT. While autonomy emphasizes personal freedom and choice, it does not mean selfishness or neglecting relational responsibilities. Instead, it promotes mutual respect and support where both partners' needs are considered.
+
 ## Key Figures
 
 - **Edward Deci** — Dr. Edward Deci, a prominent figure in SDT, has contributed significantly to the development of RMT by emphasizing the importance of autonomy and relatedness within close relationships.
@@ -124,11 +142,21 @@ The mechanism by which need support and thwarting affect relationship quality in
 >
 > *What would resolve it:* Longitudinal studies tracking relationship dynamics over extended periods would provide insights into the lasting impacts of need satisfaction or frustration on relationship stability.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do technological advancements impact the balance between autonomy and relatedness in relationships?
+>
+> *What would resolve it:* Research into how digital communication affects relationship dynamics could provide insights. For instance, understanding whether social media use enhances or hinders mutual support and respect would help refine RMT's applicability to modern contexts.
+
 ## Synthesis
 
 RMT is crucial for understanding and improving close relationships because it provides a framework for recognizing and supporting basic psychological needs. By integrating concepts from SDT, RMT offers practical guidance for enhancing relationship quality through mutual support and respect. Its application in therapy, personal development, and parenting demonstrates its broad relevance across various domains of human interaction.
 
 Moreover, RMT complements other theories like attachment theory and interdependence theory by offering a unique perspective on the role of autonomy and relatedness within relationships. While attachment theory focuses on emotional security and trust, and interdependence theory emphasizes mutual dependency, RMT provides a lens for understanding how these dynamics interact to shape relationship satisfaction.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating the principles of autonomy and relatedness, RMT not only enriches our understanding of close relationships but also provides a practical framework for enhancing relationship quality. This synthesis highlights how fostering mutual support can lead to more fulfilling and enduring partnerships across various cultural and societal contexts.
 
 ## Connections & Context
 
@@ -141,3 +169,13 @@ Moreover, RMT complements other theories like attachment theory and interdepende
 **Applies to:** [[Interdependence]]
 
 **Source:** [[relationship-motivation-theory-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[attachment-theory]]** — *contrasts-with*
+> While Attachment Theory focuses on the security of emotional bonds as a primary driver in relationships, RMT emphasizes the role of autonomy and relatedness. This contrast highlights how different theories can offer complementary insights into relationship dynamics, with Attachment Theory focusing more on safety and trust, whereas RMT centers on personal growth and mutual support.
+
+> [!connection] **[[Interdependence]]** — *applies-to*
+> RMT applies to the concept of interdependence by illustrating how individuals in close relationships can maintain their autonomy while also fostering a sense of connection. This application is crucial because it shows that healthy interdependence does not require sacrificing personal identity or desires, but rather finding ways to support each other's growth and well-being.

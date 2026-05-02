@@ -1,13 +1,12 @@
 ---
-title: "Dispositional Optimism"
+title: Dispositional Optimism
 aliases:
-  - "Dispositional Optimism"
-  - "Optimism"
-  - "dispositional optimism"
+  - Dispositional Optimism
+  - Optimism
+  - dispositional optimism
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - motivational-psychology
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "optimism-synthetic-seed-2026-05-01"
+  - optimism-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Positive Psychology"
-
+depth-level: enhanced
+parent-concept: Positive Psychology
 related:
-  - "[[Learned Optimism]]"
-  - "[[Hope Theory]]"
-  - "[[Self-Efficacy]]"
+  - '[[Learned Optimism]]'
+  - '[[Hope Theory]]'
+  - '[[Self-Efficacy]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Learned Optimism]]"
+  - '[[Learned Optimism]]'
 contrasts-with:
-  - "[[Hope Theory]]"
+  - '[[Hope Theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Self-Efficacy]]"
+  - '[[Self-Efficacy]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Dispositional Optimism
 
@@ -88,6 +87,9 @@ Theoretical roots of dispositional optimism can be traced back to the work of Ma
 
 Empirical evidence supports the idea that dispositional optimism is not just a superficial trait but has real-world implications. For instance, in educational settings, optimists are more likely to set challenging goals and persist through difficulties, leading to better academic outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Dispositional optimism is not merely a passive expectation but an active cognitive process that shapes individuals' perceptions and behaviors in various life domains. This trait influences how people interpret events, attributing positive outcomes to internal factors and negative ones to external or temporary conditions. Such attributional styles contribute to maintaining a hopeful outlook even when faced with adversity.
+
 ## Mechanism
 
 Dispositional optimism influences persistence by fostering a belief that effort will lead to success. This belief encourages individuals to engage with challenges rather than avoid them, leading to sustained effort over time. Physiological recovery from stress is also enhanced as optimists tend to view stressful events as temporary and manageable, facilitating quicker physiological returns to baseline levels.
@@ -103,6 +105,11 @@ Dispositional optimism influences persistence by fostering a belief that effort 
 > [!example] **Application 3 — Employee training**
 > In corporate settings, dispositional optimism can be cultivated through training programs that focus on resilience and problem-solving skills. Optimistic employees are more likely to contribute positively to team dynamics and organizational success by maintaining a proactive approach to challenges.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), dispositional optimism can enhance learning outcomes by encouraging students to engage more frequently with course materials over time rather than cramming. Optimistic learners are likely to perceive the spaced repetition of content as a manageable challenge, leading to better retention and understanding compared to those who view it as overwhelming.
+
 ## Key Distinctions
 
 > [!key-distinction] **Dispositional vs Situational Optimism**
@@ -111,10 +118,26 @@ Dispositional optimism influences persistence by fostering a belief that effort 
 > [!key-distinction] **Optimism vs Overconfidence**
 > Dispositional optimism and overconfidence are distinct constructs. Optimism involves a generalized expectation of favorable outcomes based on explanatory style, while overconfidence is an inflated belief in one's abilities that can lead to poor decision-making without accurate metacognitive monitoring.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Dispositional optimism often correlates with reflective thinking, where individuals take time to consider their responses and outcomes. In contrast, reactive thinking is more immediate and can lead to impulsive decisions that may not align with long-term goals. Reflective optimists are better equipped to navigate complex situations by considering multiple perspectives and potential consequences.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think dispositional optimism means always being happy.
+>
+> Dispositional optimism does not equate to constant happiness but rather a general expectation that future outcomes will be positive. This trait allows individuals to maintain hope and resilience even during challenging times, which can contribute to overall well-being without guaranteeing perpetual joy.
+
 ## Key Figures
 
 - **Martin Seligman** — Seligman is a prominent researcher in positive psychology who has extensively studied dispositional optimism, emphasizing its role in fostering resilience and well-being through his work on learned optimism.
 - **Shawn Achor** — Achor's research focuses on the impact of positive thinking on productivity and happiness. His work highlights how cultivating optimism can lead to better performance and overall life satisfaction.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Charles Carver** — Carver has extensively researched dispositional optimism, contributing to the understanding of its role in health outcomes and psychological resilience. His work highlights how optimism can buffer against stress and promote adaptive coping strategies.
 
 ## Open Questions
 
@@ -127,6 +150,13 @@ Dispositional optimism influences persistence by fostering a belief that effort 
 > Can dispositional optimism be cultivated or is it a stable trait?
 >
 > *What would resolve it:* Randomized controlled trials that test interventions aimed at increasing dispositional optimism over time would help determine its malleability and the mechanisms underlying any changes observed.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does dispositional optimism vary across different cultures?
+>
+> *What would resolve it:* Cross-cultural studies are needed to understand whether the benefits of dispositional optimism hold true in diverse cultural contexts, where values and beliefs about future outcomes may differ significantly.
 
 ## Synthesis
 
@@ -149,3 +179,10 @@ Empirical evidence supports the idea that dispositional optimism is associated w
 **Applies to:** [[Self-Efficacy]]
 
 **Source:** [[optimism-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Self-Efficacy]]** — *applies-to*
+> Dispositional optimism applies to self-efficacy by influencing an individual's belief in their ability to succeed in specific situations. Optimists are more likely to set challenging goals and persist through difficulties, which enhances their sense of efficacy.

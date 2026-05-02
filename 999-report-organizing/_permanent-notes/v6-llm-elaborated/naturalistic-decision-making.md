@@ -1,12 +1,11 @@
 ---
-title: "Naturalistic Decision Making"
+title: Naturalistic Decision Making
 aliases:
-  - "Naturalistic Decision Making"
-  - "NDM"
+  - Naturalistic Decision Making
+  - NDM
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,61 +18,61 @@ subdomains:
   - applied-cognitive-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "naturalistic-decision-making-synthetic-seed-2026-04-25"
+  - naturalistic-decision-making-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Decision Science"
-
+depth-level: enhanced
+parent-concept: Decision Science
 related:
-  - "[[recognition-primed-decision-model]]"
-  - "[[Situation Awareness]]"
-  - "[[Expertise]]"
-  - "[[Ecological Rationality]]"
-  - "[[Fast-and-Frugal Heuristics]]"
+  - '[[recognition-primed-decision-model]]'
+  - '[[Situation Awareness]]'
+  - '[[Expertise]]'
+  - '[[Ecological Rationality]]'
+  - '[[Fast-and-Frugal Heuristics]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[recognition-primed-decision-model]]"
-  - "[[Situation Awareness]]"
+  - '[[recognition-primed-decision-model]]'
+  - '[[Situation Awareness]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Expertise]]"
-  - "[[Ecological Rationality]]"
-  - "[[Fast-and-Frugal Heuristics]]"
+  - '[[Expertise]]'
+  - '[[Ecological Rationality]]'
+  - '[[Fast-and-Frugal Heuristics]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Naturalistic Decision Making
 
@@ -93,6 +92,9 @@ This method contrasts with classical decision theory, which assumes that decisio
 
 The findings of Naturalistic Decision Making have significant implications for training programs aimed at developing expertise. By understanding how experienced practitioners make decisions, educators can design more effective training methods that focus on building situation awareness and recognition skills rather than just theoretical knowledge.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Naturalistic Decision Making (NDM) has evolved to incorporate insights from cognitive psychology, particularly in how experts manage uncertainty and ambiguity. Unlike classical decision theory which often assumes complete information and rational deliberation, NDM recognizes that real-world decisions are frequently made under conditions of high uncertainty where information is incomplete or ambiguous. This shift towards understanding decision-making in uncertain environments aligns with the broader field of ecological rationality, emphasizing context-specific heuristics over universal rules.
+
 ## Mechanism
 
 Naturalistic Decision Making involves several key mechanisms. Experts first assess the current situation rapidly to identify critical elements and potential risks. This assessment is often based on pattern recognition, where experts draw upon their extensive experience to quickly categorize situations into familiar patterns or scenarios. Once a pattern is recognized, experts can predict likely outcomes and take appropriate action without needing to deliberate over all possible options.
@@ -109,6 +111,22 @@ Naturalistic Decision Making involves several key mechanisms. Experts first asse
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Naturalistic Decision Making focuses on intrinsic load, which is the inherent complexity of a task that cannot be reduced. In contrast, classical decision theory often deals with extraneous load, or unnecessary cognitive burden introduced by the decision-making process itself. The distinction matters because Naturalistic Decision Making shows that experts can handle high intrinsic loads effectively through pattern recognition and intuition, whereas classical models may struggle in such conditions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and consideration of multiple options before making a decision. In contrast, reactive thinking is characterized by immediate responses based on pattern recognition and experience. Naturalistic Decision Making emphasizes the importance of reactive thinking in dynamic environments where time constraints limit reflective processes. This distinction highlights how experts leverage their extensive experience to make rapid decisions without needing to deliberate extensively.
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> Naturalistic Decision Making focuses on reducing extraneous cognitive load by designing decision-making tasks that align with the natural problem-solving processes of experts. By minimizing unnecessary steps and focusing on essential elements, NDM aims to enhance performance in high-pressure situations. This contrasts with classical approaches which may introduce additional cognitive burdens through overly detailed or prescriptive models.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that Naturalistic Decision Making is only applicable to emergency scenarios like firefighting.
+>
+> While NDM was initially studied in high-stakes fields such as firefighting, its principles are widely applicable across various domains. The focus on rapid decision-making based on pattern recognition and experience can be applied to business strategy, healthcare, and even everyday problem-solving contexts where time constraints and incomplete information are common.
 
 ## Key Figures
 
@@ -127,9 +145,19 @@ Naturalistic Decision Making involves several key mechanisms. Experts first asse
 >
 > *What would resolve it:* Empirical studies comparing decision-making outcomes with and without rapid feedback would help clarify when and how expert intuition is reliable or unreliable.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can Naturalistic Decision Making be integrated into educational curricula to better prepare students for real-world challenges?
+>
+> *What would resolve it:* Further research is needed to develop pedagogical approaches that incorporate NDM principles, such as scenario-based learning and experiential training. By exposing students to realistic decision-making scenarios, educators can help them build the pattern recognition skills and rapid assessment abilities required in dynamic environments.
+
 ## Synthesis
 
 Naturalistic Decision Making provides a valuable framework for understanding the practical aspects of decision-making in real-world settings. By focusing on expertise, situation awareness, and recognition-driven action selection, it challenges classical decision theory's assumptions about rational choice. This research has significant implications for training programs across various fields, from emergency response to business strategy. Moreover, its insights into ecological rationality and fast-and-frugal heuristics offer practical tools for improving decision-making processes in complex and dynamic environments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Naturalistic Decision Making offers a nuanced perspective on how experts navigate complex, uncertain situations by leveraging their experience and situational awareness. This approach challenges traditional models of decision-making and highlights the importance of context-specific heuristics and rapid recognition processes in practical settings.
 
 ## Connections & Context
 
@@ -140,3 +168,13 @@ Naturalistic Decision Making provides a valuable framework for understanding the
 **Applies to:** [[Expertise]] · [[Ecological Rationality]] · [[Fast-and-Frugal Heuristics]]
 
 **Source:** [[naturalistic-decision-making-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Expertise]]** — *applies-to*
+> Naturalistic Decision Making applies the concept of expertise to understand how experienced practitioners make decisions in real-world settings. By studying experts, NDM reveals that decision-making is not a linear process but involves rapid recognition and action based on extensive experience. This connection underscores the importance of developing domain-specific knowledge and skills for effective decision-making.
+
+> [!connection] **[[Ecological Rationality]]** — *applies-to*
+> Naturalistic Decision Making aligns with ecological rationality by emphasizing context-dependent heuristics over universal rules. Both frameworks recognize that optimal decisions are often made using simple, efficient strategies tailored to specific situations rather than complex analytical models. This connection highlights the practical utility of NDM in understanding and improving decision-making processes.

@@ -1,15 +1,14 @@
 ---
-title: "Organismic Integration Tendency"
+title: Organismic Integration Tendency
 aliases:
-  - "Organismic Integration Tendency"
-  - "SDT Foundational Report"
-  - "Self-Determination Theory Report"
-  - "Deci and Ryan Motivation Theory"
-  - "SDT Overview"
+  - Organismic Integration Tendency
+  - SDT Foundational Report
+  - Self-Determination Theory Report
+  - Deci and Ryan Motivation Theory
+  - SDT Overview
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,57 +22,57 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-foundational-report-2026-04-19"
+  - self-determination-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[intrinsic-motivation]]"
-  - "[[Self-Determination Theory (SDT)]]"
-  - "[[extrinsic-motivation]]"
+  - '[[intrinsic-motivation]]'
+  - '[[Self-Determination Theory (SDT)]]'
+  - '[[extrinsic-motivation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[intrinsic-motivation]]"
-  - "[[Self-Determination Theory (SDT)]]"
+  - '[[intrinsic-motivation]]'
+  - '[[Self-Determination Theory (SDT)]]'
 contrasts-with:
-  - "[[extrinsic-motivation]]"
+  - '[[extrinsic-motivation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Organismic Integration Tendency
 
@@ -92,6 +91,9 @@ In practice, this means that when conditions permit, such as supportive social e
 Theoretical roots of this concept can be traced back to Maslow's need hierarchy, Rogers' organismic valuing process, White's effectance motivation, and deCharms' personal causation. These theories collectively frame human beings as inherently active and growth-oriented, setting the stage for SDT’s exploration of how existing motivation is supported or undermined.
 
 Empirically, this tendency has been observed in various contexts, from educational settings where supportive environments foster intrinsic motivation to therapeutic practices that aim to help clients integrate new values and behaviors into their self-structure. Understanding this process can inform strategies to enhance psychological well-being and promote adaptive behavior.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The organismic integration tendency is not merely a passive process but involves active cognitive and emotional engagement with external values and norms. This engagement can vary widely depending on the individual's psychological state, such as their level of autonomy support or relatedness needs being met in their environment.
 
 ## Mechanism
 
@@ -116,6 +118,19 @@ The integration of external values occurs through a series of steps: first, indi
 > [!key-distinction] **Integration vs Assimilation**
 > While assimilation refers to incorporating new information into existing cognitive structures, often without significant change, integration involves a more transformative process where external values become part of an individual's core self-structure. The distinction lies in the depth and authenticity of internalization.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Integration vs Assimilation**
+> While assimilation involves incorporating new information into existing schemas without necessarily changing them, integration requires a deeper transformation where external values and norms are not just added but become an integral part of one's identity. This distinction is crucial because it highlights the depth of internalization in the organismic integration process.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that the organismic integration tendency only applies to positive values and norms.
+>
+> In reality, this tendency can also lead individuals to integrate negative or harmful external influences into their self-structure. This misconception arises because the process of internalization is seen as inherently beneficial, but it can be detrimental if the external material is not aligned with healthy development.
+
 ## Key Figures
 
 - **Richard M. Ryan** — Co-developer of Self-Determination Theory, Richard M. Ryan has significantly contributed to understanding the organismic integration tendency as a core mechanism in SDT.
@@ -133,6 +148,13 @@ The integration of external values occurs through a series of steps: first, indi
 >
 > *What would resolve it:* Longitudinal studies tracking individuals over extended periods would help clarify the lasting impacts of effective versus ineffective integration on psychological well-being and behavior.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the organismic integration tendency influence long-term behavioral change?
+>
+> *What would resolve it:* Research exploring how deeply integrated values persist over time could provide insights into sustainable behavior change, distinguishing between transient compliance and lasting internalization.
+
 ## Synthesis
 
 The organismic integration tendency is crucial for understanding human motivation as it bridges theoretical concepts with practical applications. By integrating external values into a coherent self-structure, individuals can experience deeper satisfaction and more adaptive behaviors. This concept has significant implications across motivational psychology, education, therapy, and organizational behavior, making it a foundational element in SDT.
@@ -148,3 +170,10 @@ Moreover, the integration tendency connects intrinsic motivation (a key componen
 **Contrasts with:** [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[intrinsic-motivation]]** — *applies-to*
+> The organismic integration tendency underpins intrinsic motivation by explaining how individuals internalize and integrate external values into their self-structure, leading to a sense of personal endorsement that fuels intrinsic motivation. Understanding this connection helps in designing environments that foster genuine interest and enjoyment.

@@ -1,12 +1,11 @@
 ---
-title: "Selective Attention"
+title: Selective Attention
 aliases:
-  - "Selective Attention"
-  - "focused attention"
+  - Selective Attention
+  - focused attention
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,57 +16,57 @@ subdomains:
   - perception-research
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "selective-attention-synthetic-seed-2026-04-24"
+  - selective-attention-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[Divided Attention]]"
-  - "[[sustained-attention]]"
+  - '[[working-memory]]'
+  - '[[Divided Attention]]'
+  - '[[sustained-attention]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Divided Attention]]"
-  - "[[sustained-attention]]"
+  - '[[Divided Attention]]'
+  - '[[sustained-attention]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Selective Attention
 
@@ -87,6 +86,9 @@ Theoretical roots of Selective Attention can be traced back to early cognitive p
 
 Empirical evidence from classic paradigms like dichotic listening and flanker tasks supports the notion that Selective Attention is not a binary process but rather one of graded processing. For instance, studies have shown that even when information is unattended, it still receives some level of processing, which can influence memory encoding and subsequent recall.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Selective Attention is not merely a passive filtering process but an active one, involving continuous evaluation and adjustment based on task demands and environmental changes. This dynamic nature means that attention can shift rapidly between different stimuli or tasks as needed, reflecting the brain's ability to adapt its processing priorities in real-time.
+
 ## Mechanism
 
 Selective Attention operates through gain modulation, where neural pathways are adjusted to enhance the processing of attended stimuli while reducing the impact of unattended ones. This process involves both top-down control mechanisms that prioritize relevant information and bottom-up sensory inputs that trigger attentional shifts based on salience.
@@ -102,14 +104,35 @@ Selective Attention operates through gain modulation, where neural pathways are 
 > [!example] **Application 3 — Everyday life**
 > In everyday life, Selective Attention helps individuals manage multiple tasks simultaneously. For example, while driving, one must focus on the road (attended) while ignoring distractions like billboards or conversations in the car (unattended). Understanding this process can help people optimize their attentional resources to perform better in various daily activities.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance selective attention by strategically spacing out review sessions. This approach leverages the brain's natural tendency to prioritize information that is encountered repeatedly over time, thereby improving retention and recall of key concepts.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to how information is presented. Selective Attention is distinct from these concepts because it specifically deals with the selective filtering of stimuli rather than the overall cognitive demands or presentation format.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> Top-down processing involves using pre-existing knowledge or expectations to guide attention, whereas bottom-up processing relies on sensory input to drive attentional shifts. In selective attention, both mechanisms interact: top-down processes help filter out irrelevant stimuli based on context and goals, while bottom-up cues can override these filters when a stimulus is highly salient.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that selective attention means completely ignoring all unattended information.
+>
+> Selective Attention does not imply complete disregard of unattended stimuli. Instead, it involves a reduction in the processing resources allocated to these stimuli, allowing for some level of awareness and potential detection under certain conditions.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller, a prominent figure in cognitive psychology, contributed significantly to the understanding of Selective Attention through his work on cognitive load theory. His research highlighted the importance of selective filtering in managing information processing.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Daniel Kahneman** — Kahneman's work on System 1 and System 2 thinking provides a framework to understand how selective attention operates in different cognitive modes, highlighting the role of automatic versus controlled processing.
 
 ## Open Questions
 
@@ -122,6 +145,13 @@ Selective Attention operates through gain modulation, where neural pathways are 
 > What are the neural mechanisms underlying gain modulation in selective attention?
 >
 > *What would resolve it:* Advanced neuroimaging techniques and electrophysiological recordings could provide insights into the specific brain regions and processes involved in gain modulation during selective attention tasks.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does selective attention interact with multitasking?
+>
+> *What would resolve it:* Investigating the neural correlates and behavioral outcomes of attempting multiple tasks simultaneously could clarify how selective attention is compromised or adapted in such scenarios, providing insights into effective task management strategies.
 
 ## Synthesis
 
@@ -138,3 +168,10 @@ Future research should focus on elucidating the neural mechanisms underlying gai
 **Contrasts with:** [[Divided Attention]] · [[sustained-attention]]
 
 **Source:** [[selective-attention-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working Memory is crucial as a prerequisite because it provides the temporary storage and manipulation space that selective attention helps to prioritize. Without effective working memory, the filtered information would not be retained long enough for meaningful processing.

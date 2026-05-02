@@ -1,13 +1,12 @@
 ---
-title: "Signature Strengths"
+title: Signature Strengths
 aliases:
-  - "Signature Strengths"
-  - "top character strengths"
-  - "signature virtues"
+  - Signature Strengths
+  - top character strengths
+  - signature virtues
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - virtue-ethics
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "signature-strengths-synthetic-seed-2026-05-01"
+  - signature-strengths-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Positive Psychology"
-
+depth-level: enhanced
+parent-concept: Positive Psychology
 related:
-  - "[[Character Strengths]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Psychological Flourishing]]"
+  - '[[Character Strengths]]'
+  - '[[Intrinsic Motivation]]'
+  - '[[Psychological Flourishing]]'
 prerequisites:
-  - "[[Character Strengths]]"
+  - '[[Character Strengths]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Intrinsic Motivation]]"
+  - '[[Intrinsic Motivation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Psychological Flourishing]]"
+  - '[[Psychological Flourishing]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Signature Strengths
 
@@ -88,6 +87,9 @@ The concept of signature strengths has its roots in the broader field of Positiv
 
 Empirical evidence supports the effectiveness of signature strengths in enhancing well-being. Randomized trials have shown that individuals who act from their top strengths experience increased life satisfaction and decreased depressive symptoms. This effect is attributed to the alignment of activity with intrinsic identity, rather than the mere presence of these strengths themselves.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The identification and application of signature strengths can also serve as a buffer against stress and burnout, particularly in high-pressure environments such as healthcare or emergency services. By integrating their top character strengths into their professional roles, individuals may find greater resilience and job satisfaction, even when facing challenging circumstances.
+
 ## Mechanism
 
 The mechanism by which acting from one's top strengths increases life satisfaction and decreases depressive symptoms involves a deep alignment between behavior and intrinsic identity. When individuals engage in activities that align closely with their signature strengths, they experience greater authenticity and engagement. This alignment fosters a sense of purpose and meaning, leading to sustained positive emotions and reduced negative affect.
@@ -103,14 +105,35 @@ The mechanism by which acting from one's top strengths increases life satisfacti
 > [!example] **Application 3 — Well-being interventions**
 > In therapy settings, focusing on clients’ top strengths can be a powerful tool for promoting mental health. Therapists might encourage clients to identify and regularly engage in activities that align with their signature strengths, such as volunteering or pursuing hobbies, which can lead to increased life satisfaction and reduced symptoms of depression and anxiety.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), educators can enhance student engagement by designing activities that align with learners' signature strengths. For example, a course on environmental science might offer optional modules where students can explore topics through their top strengths such as creativity or curiosity. This approach not only personalizes the learning experience but also increases intrinsic motivation and retention of material.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Signature strengths are not fixed traits but rather the strengths a person currently identifies with most readily. This distinction is crucial because treating them as immutable can entrench identity in ways that block developmental growth, whereas recognizing their fluid nature allows for ongoing self-reflection and personal development.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis, whereas reactive thinking is immediate and often automatic. In the context of signature strengths, reflective thinking allows individuals to consciously apply their top character strengths in various situations, fostering personal growth and well-being. Conversely, reactive use might lead to habitual but less effective deployment of these strengths.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that signature strengths are innate traits that cannot change.
+>
+> Signature strengths are not fixed traits but rather the character strengths an individual currently identifies with most. This fluidity allows for personal development and growth over time, challenging the misconception of them as unchangeable aspects of one's personality.
+
 ## Key Figures
 
 - **Christopher Peterson** — Co-developed the Values-In-Action classification, which provides a framework for identifying signature strengths. His work has been foundational in understanding how these strengths contribute to well-being and personal growth.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Martin Seligman** — Alongside Christopher Peterson, Martin Seligman contributed to the development of the Values-In-Action Inventory (VIA), a tool for identifying signature strengths. His work on positive psychology has been instrumental in understanding how these strengths contribute to overall well-being and personal growth.
 
 ## Open Questions
 
@@ -124,11 +147,21 @@ The mechanism by which acting from one's top strengths increases life satisfacti
 >
 > *What would resolve it:* Research examining the malleability of these strengths through targeted interventions and self-reflection could provide insights into their development potential.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural contexts influence the identification and application of signature strengths?
+>
+> *What would resolve it:* Cross-cultural studies examining variations in top character strengths across different societies could provide insights into how cultural values shape individuals' perceptions and utilization of their signature strengths.
+
 ## Synthesis
 
 Understanding and leveraging one's signature strengths is crucial for personal growth and well-being because it allows individuals to align their actions with their intrinsic identity. This alignment fosters authenticity, engagement, and a deeper sense of purpose, which are key components of psychological flourishing. By integrating these strengths into daily life, individuals can experience sustained positive emotions and reduced negative affect, leading to enhanced overall quality of life.
 
 The concept of signature strengths also has broader implications for fields such as education, career counseling, and mental health interventions. Educators can design curricula that cater to students' top strengths, therapists can tailor their approaches to clients’ intrinsic identities, and career counselors can help individuals find fulfilling paths aligned with their core values.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding and leveraging one's signature strengths is pivotal for fostering a sense of purpose and engagement, which are critical components of psychological flourishing. By aligning personal actions with intrinsic identity through these top character strengths, individuals can enhance well-being and resilience in various life domains.
 
 ## Connections & Context
 
@@ -141,3 +174,10 @@ The concept of signature strengths also has broader implications for fields such
 **Supports:** [[Psychological Flourishing]]
 
 **Source:** [[signature-strengths-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Intrinsic Motivation]]** — *applies-to*
+> Signature strengths are closely tied to intrinsic motivation because they represent character traits that individuals find personally meaningful and energizing. By aligning actions with these top strengths, people experience greater engagement and satisfaction, which are hallmarks of intrinsic motivation.

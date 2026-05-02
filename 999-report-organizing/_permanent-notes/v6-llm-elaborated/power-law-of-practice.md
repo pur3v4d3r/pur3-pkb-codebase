@@ -1,14 +1,13 @@
 ---
-title: "Power Law of Practice"
+title: Power Law of Practice
 aliases:
-  - "Power Law of Practice"
-  - "Chunking and Expertise"
-  - "Chunks, Templates, and Skilled Performance"
-  - "How Experts Encode the World"
+  - Power Law of Practice
+  - Chunking and Expertise
+  - Chunks, Templates, and Skilled Performance
+  - How Experts Encode the World
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,55 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "chunking-and-expertise-development-foundational-report-2026-04-20"
+  - chunking-and-expertise-development-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Power Law of Practice
 
@@ -89,6 +88,9 @@ Theoretical roots of the Power Law of Practice are deeply embedded in cognitive 
 
 Empirical evidence supporting the Power Law of Practice comes from numerous studies that have tracked skill acquisition over time. For instance, research on pianists has shown that their performance improves significantly with initial practice but then plateaus as they become more proficient. This pattern aligns with the theoretical predictions of chunking and long-term memory formation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Power Law of Practice underscores a critical phase in skill acquisition known as the plateau stage, where performance improvements slow down significantly despite continued practice. This phenomenon is often misunderstood as an indication that further improvement is impossible, but it actually represents a period of consolidation and refinement within long-term memory. During this stage, learners are integrating newly acquired chunks into existing knowledge structures, which requires more cognitive effort than initial learning phases.
+
 ## Mechanism
 
 A chunk is a learned associative unit in long-term memory that is structurally complex in storage but functionally simple in use, allowing one slot in working memory to hold what would otherwise require many. Chunks are organized hierarchically, with higher-order chunks composed of lower-order chunks, and they form not through mere exposure but through attentive engagement with configurations as integrated units.
@@ -104,10 +106,28 @@ A chunk is a learned associative unit in long-term memory that is structurally c
 > [!example] **Application 3 — Skill assessment**
 > Assessing skill acquisition using the Power Law of Practice involves tracking performance over time to identify when gains are slowing down. This information can be used to adjust training programs and provide targeted feedback, ensuring that learners continue to make progress even as early gains diminish.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), the Power Law of Practice suggests that incorporating spaced retrieval practices can enhance long-term retention and skill mastery. By scheduling regular, spaced review sessions, educators can leverage the law's principle of diminishing returns to ensure that learners continue to benefit from practice even as initial gains diminish.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Power Law of Practice is distinct from the concept of intrinsic versus extraneous load. Intrinsic load refers to the inherent difficulty of a task, while extraneous load pertains to unnecessary cognitive demands introduced by instructional methods. The Power Law focuses on how practice affects skill acquisition and performance over time, whereas intrinsic and extraneous loads are more about the nature of the task itself and its presentation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Performance vs Learning**
+> The distinction between performance and learning is crucial for understanding the Power Law of Practice. Performance refers to the immediate ability to execute a task, which can improve rapidly with practice due to better chunking in working memory. In contrast, learning involves deeper changes in long-term memory that support sustained skill improvement over time. The law highlights how initial rapid gains in performance may precede slower but more durable learning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Power Law of Practice means that practice always leads to better performance.
+>
+> While repeated practice generally improves task performance, the law also indicates that gains diminish over time. This misconception arises because early rapid improvements can overshadow the fact that continued progress requires more deliberate and varied practice strategies.
 
 ## Key Figures
 
@@ -131,6 +151,9 @@ Understanding the Power Law of Practice is crucial for cognitive skill acquisiti
 
 The Power Law of Practice is deeply intertwined with other concepts such as working memory and chunking, making it a cornerstone of cognitive architecture theories. Its practical applications in instructional design and training programs underscore its relevance to both educational and professional settings. By continuing to explore the boundaries and limitations of this law, researchers can refine our understanding of skill acquisition and improve learning outcomes across various domains.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the nuances of the Power Law of Practice is essential for designing effective learning environments that balance initial rapid improvement with sustained skill development over time. This synthesis highlights how instructional strategies can be tailored to support learners through various stages of skill acquisition, from early gains to plateau and beyond.
+
 ## Connections & Context
 
 **Falls under:** [[cognitive-architecture]]
@@ -140,3 +163,10 @@ The Power Law of Practice is deeply intertwined with other concepts such as work
 **Applies to:** [[worked-examples]]
 
 **Source:** [[chunking-and-expertise-development-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> The Power Law of Practice applies to worked examples in instructional design because these examples facilitate the formation of chunks that learners can later apply independently. By providing well-structured examples, educators support early rapid gains and help students build a robust knowledge base for future practice.

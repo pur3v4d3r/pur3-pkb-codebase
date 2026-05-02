@@ -1,12 +1,11 @@
 ---
-title: "Social Epistemology"
+title: Social Epistemology
 aliases:
-  - "Social Epistemology"
-  - "collective epistemology"
+  - Social Epistemology
+  - collective epistemology
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - social-philosophy
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "social-epistemology-synthetic-seed-2026-04-25"
+  - social-epistemology-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Epistemology"
-
+depth-level: enhanced
+parent-concept: Epistemology
 related:
-  - "[[Group Belief]]"
-  - "[[epistemic-injustice]]"
-  - "[[Testimony]]"
+  - '[[Group Belief]]'
+  - '[[epistemic-injustice]]'
+  - '[[Testimony]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Group Belief]]"
+  - '[[Group Belief]]'
 contrasts-with:
-  - "[[epistemic-injustice]]"
+  - '[[epistemic-injustice]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Testimony]]"
+  - '[[Testimony]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Social Epistemology
 
@@ -87,6 +86,9 @@ Theoretical roots of Social Epistemology can be traced back to the recognition t
 
 Empirically, Social Epistemology provides a framework for analyzing epistemic injustice, where certain groups are systematically excluded from gaining access to knowledge due to structural barriers. For example, women and minorities have historically faced significant challenges in accessing scientific education and research opportunities, which can lead to systemic biases in the production of knowledge.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Social Epistemology also delves into how social norms and values shape what counts as knowledge within a community. For example, in scientific communities, the norm of reproducibility ensures that findings are reliable and credible, whereas in some religious contexts, divine revelation might be considered a primary source of truth. These differing epistemic standards highlight the variability in how different groups define and acquire knowledge.
+
 ## Mechanism
 
 Social Epistemology often examines how testimony functions as a source of knowledge. When we rely on someone else's expertise or experience, we are engaging in a process where our beliefs are influenced by social interactions and the credibility hierarchies that exist within society. This mechanism is crucial because it highlights the role of trust and authority in shaping what we believe.
@@ -102,10 +104,28 @@ Social Epistemology often examines how testimony functions as a source of knowle
 > [!example] **Application 3 — Courts**
 > In legal contexts, Social Epistemology highlights the need for a balanced approach to expert testimony. Courts must carefully evaluate the credibility and reliability of expert witnesses to ensure fair and accurate judicial decisions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance collaborative learning. By scheduling quizzes at intervals rather than consecutively, learners are prompted to recall information over time, reinforcing their understanding through social interaction and peer feedback. This approach not only improves individual retention but also fosters a collective memory within the course community.
+
 ## Key Distinctions
 
 > [!key-distinction] **Descriptive vs Normative Strands**
 > Social Epistemology encompasses both descriptive and normative strands, but they differ in their goals. Descriptive Social Epistemology aims to understand how social factors influence knowledge acquisition, while normative Social Epistemology seeks to prescribe the best practices for epistemic institutions. Understanding these distinctions is crucial for productive engagement with the field.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> In Social Epistemology, reflective thinking involves deliberate consideration of information and its sources, whereas reactive thinking is more immediate and less scrutinized. Reflective thinking allows individuals to critically evaluate testimony and expert claims, enhancing the reliability of knowledge acquisition in social contexts. This distinction highlights the importance of fostering reflective practices in educational settings.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Social Epistemology only applies to academic or scientific communities.
+>
+> Social Epistemology is relevant across all social contexts, from everyday conversations to institutional practices. It examines how knowledge is constructed and validated in various settings, including informal discussions and community beliefs. This broad applicability underscores the pervasive influence of social factors on our understanding of truth.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ Social Epistemology often examines how testimony functions as a source of knowle
 >
 > *What would resolve it:* Empirical studies comparing different institutional designs and their impact on knowledge production could provide insights into effective practices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do digital platforms influence the spread and validation of knowledge?
+>
+> *What would resolve it:* Research into how social media, forums, and other online spaces shape epistemic practices would provide insights into contemporary challenges in knowledge dissemination. Understanding these dynamics could inform strategies for enhancing critical thinking and evidence-based reasoning in virtual communities.
+
 ## Synthesis
 
 Social Epistemology is a crucial area of study in epistemology because it addresses the fundamental ways in which our beliefs are shaped by social interactions and institutions. By integrating social dimensions, Social Epistemology offers a more comprehensive understanding of knowledge acquisition that goes beyond individualistic models. This concept has significant implications for fields such as science, journalism, and courts, where accurate and fair knowledge production is essential.
 
 Moreover, Social Epistemology highlights the importance of addressing epistemic injustices and ensuring equitable access to knowledge. By recognizing these social dimensions, we can develop more inclusive and reliable methods for producing and disseminating knowledge.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from both descriptive and normative strands, Social Epistemology offers a comprehensive framework for understanding how social interactions shape our beliefs and knowledge. This dual approach not only enriches theoretical discussions but also informs practical applications in education, science communication, and policy-making.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ Moreover, Social Epistemology highlights the importance of addressing epistemic 
 **Applies to:** [[Testimony]]
 
 **Source:** [[social-epistemology-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Group Belief]]** — *see-also*
+> Social Epistemology and Group Belief both explore how collective beliefs form and evolve. While Social Epistemology provides a broader framework for understanding knowledge in social contexts, Group Belief specifically investigates the dynamics of consensus formation within groups. This connection helps learners appreciate the nuanced interplay between individual cognition and group processes.

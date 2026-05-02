@@ -1,12 +1,11 @@
 ---
-title: "Principles of Learning"
+title: Principles of Learning
 aliases:
-  - "Principles of Learning"
-  - "learning principles"
+  - Principles of Learning
+  - learning principles
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "principles-of-learning-synthetic-seed-2026-04-24"
+  - principles-of-learning-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Learning Science"
-
+depth-level: enhanced
+parent-concept: Learning Science
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Principles of Learning
 
@@ -86,6 +85,9 @@ Theoretical roots of these principles can be traced back to cognitive load theor
 
 Empirical evidence supports these principles through numerous studies demonstrating their effectiveness. For example, spacing effect experiments have consistently shown that distributing study sessions over time leads to better long-term retention compared to massed practice.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Principles of Learning also highlight the importance of cognitive flexibility, which is the ability to switch between different concepts and adapt to new information. This flexibility is crucial for effective learning as it allows learners to integrate new knowledge with existing schemas without becoming rigid in their thinking patterns.
+
 ## Mechanism
 
 The mechanism behind the spacing effect involves the brain's need for repeated exposure to information over time to consolidate it into long-term memory. This process is facilitated by the gradual strengthening of neural pathways, which occurs more effectively when learning sessions are spaced out rather than crammed together.
@@ -98,14 +100,35 @@ The mechanism behind the spacing effect involves the brain's need for repeated e
 > [!example] **Application 2 — Feedback timing**
 > Providing feedback at appropriate times is crucial for effective learning. Delayed feedback, rather than immediate feedback, can enhance long-term memory by forcing learners to engage more deeply with the material before receiving confirmation or correction.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can significantly enhance learning outcomes. By incorporating regular, spaced quizzes and assessments throughout the course rather than at the end, learners are prompted to revisit material periodically, reinforcing their memory and understanding of key concepts.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is the unnecessary cognitive burden imposed by instructional design. Principles of Learning aim to minimize extraneous load and maximize intrinsic load, ensuring that learning activities are cognitively engaging rather than overly complex or distracting.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Maintenance rehearsal involves simple repetition without deeper processing, such as rote memorization. In contrast, elaborative rehearsal engages learners in meaningful linking and deep processing of information, which enhances long-term retention and understanding. Principles of Learning emphasize the benefits of elaborative rehearsal over mere maintenance.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that learning principles are only applicable to formal educational settings.
+>
+> Principles of Learning, such as spacing and retrieval practice, are not confined to traditional classrooms. They can be applied in various contexts including self-study, professional development, and even everyday life skills acquisition.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with the development of cognitive load theory in 1988, which laid the foundation for understanding how instructional design can impact learning outcomes. His work emphasized the importance of minimizing extraneous cognitive load and maximizing germane cognitive load to enhance learning efficiency.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Robert Bjork** — Robert Bjork's research on desirable difficulties has significantly contributed to the understanding of how challenging conditions can enhance learning. His work underscores that certain types of difficulty, when appropriately managed, can lead to better long-term retention and transfer.
 
 ## Open Questions
 
@@ -118,6 +141,13 @@ The mechanism behind the spacing effect involves the brain's need for repeated e
 > What are the long-term effects of applying desirable difficulties?
 >
 > *What would resolve it:* Longitudinal studies that track learners over extended periods could provide insights into whether the short-term challenges posed by principles like interleaving and retrieval practice translate into sustained cognitive benefits.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do Principles of Learning interact with digital learning environments?
+>
+> *What would resolve it:* Further research is needed to explore how the principles adapt or need modification in digital contexts where learners have access to vast amounts of information and varied interaction modes.
 
 ## Synthesis
 
@@ -138,3 +168,10 @@ Empirical evidence supports the effectiveness of Principles of Learning through 
 **Applies to:** [[worked-examples]]
 
 **Source:** [[principles-of-learning-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is a critical prerequisite for understanding Principles of Learning because it limits the amount of information that can be processed at any given time. Effective learning strategies, such as spacing and interleaving, are designed to manage this limitation by distributing cognitive load more efficiently.

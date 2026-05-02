@@ -1,13 +1,12 @@
 ---
-title: "Self-Regulation"
+title: Self-Regulation
 aliases:
-  - "Self-Regulation"
-  - "self-regulatory capacity"
-  - "behavioural self-regulation"
+  - Self-Regulation
+  - self-regulatory capacity
+  - behavioural self-regulation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-regulation-synthetic-seed-2026-04-24"
+  - self-regulation-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: ""
-
+depth-level: enhanced
+parent-concept: ''
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Self-Regulation
 
@@ -86,6 +85,9 @@ In practice, this cyclical process operates in a feedback loop that enhances ada
 Theoretical roots of Self-Regulation can be traced back to cognitive psychology, particularly the work of John Sweller in 1988. His research highlighted the importance of working memory in managing and controlling cognitive processes, which forms a foundational aspect of Self-Regulation. The concept also draws from motivational theories that emphasize the role of intrinsic motivation and self-efficacy in driving regulatory behaviors.
 
 Empirical evidence supports the reliability and trainability of Self-Regulation. Longitudinal research has shown that it is a robust predictor of long-term life outcomes, including academic attainment, occupational success, health behaviors, and relationship stability. Structured interventions such as implementation intentions, mental contrasting, and cognitive-behavioral protocols have been effective in enhancing Self-Regulation skills.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Self-regulation is not merely a cognitive process but also deeply intertwined with emotional regulation and motivational states. Emotional regulation involves managing one's emotions to achieve goals, respond effectively to the environment, and maintain psychological well-being. Motivational states, such as intrinsic motivation, play a critical role in sustaining self-regulatory efforts over time by providing internal rewards that drive continued engagement with tasks.
 
 ## Mechanism
 
@@ -110,6 +112,22 @@ Self-Regulation operates through a series of interconnected phases: forethought 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to how the task is presented. Self-Regulation differs from these concepts in that it focuses on the cognitive processes involved in managing and controlling one's own behavior, rather than just the difficulty or presentation of tasks.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and evaluation of one's thoughts and actions, whereas reactive thinking is characterized by immediate responses without conscious deliberation. In the context of self-regulation, reflective thinking enables individuals to plan ahead, monitor their progress, and adjust strategies based on feedback, thereby enhancing goal-directed behavior. Reactive thinking, while often necessary for quick decision-making, can lead to impulsive actions that may undermine long-term goals.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Maintenance rehearsal involves the rote repetition of information without deeper processing, whereas elaborative rehearsal involves linking new information with existing knowledge in meaningful ways. Self-regulation benefits more from elaborative rehearsal as it promotes better retention and understanding of material, which is crucial for effective goal pursuit.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that self-regulation is solely about willpower.
+>
+> Self-regulation involves more than just exerting willpower; it encompasses a range of cognitive, motivational, and emotional processes. While willpower plays a role in resisting temptations and maintaining effort towards goals, effective self-regulation also requires planning, monitoring progress, and reflecting on outcomes to adapt strategies as needed.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is recognized as an originator of Self-Regulation research. His work in cognitive psychology highlighted the importance of working memory and laid the groundwork for understanding how individuals manage and control their cognitive processes.
@@ -126,11 +144,21 @@ Self-Regulation operates through a series of interconnected phases: forethought 
 >
 > *What would resolve it:* Developing and testing comprehensive curricular frameworks that incorporate Self-Regulation strategies could help educators understand how to effectively implement such programs in schools.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the development of self-regulatory skills?
+>
+> *What would resolve it:* Longitudinal studies comparing different cultural contexts would provide insights into how societal values, educational practices, and family environments shape individuals' capacity for self-regulation.
+
 ## Synthesis
 
 Understanding Self-Regulation is crucial for improving long-term life outcomes because it encompasses a wide range of cognitive, motivational, affective, and behavioral processes. By fostering Self-Regulation skills, individuals can better manage their goals, behaviors, and emotions, leading to enhanced academic performance, occupational success, health, and relationship stability. The cyclical nature of Self-Regulation makes it trainable through structured interventions, offering a promising avenue for personal development and well-being.
 
 Self-Regulation intersects with various domains such as self-regulated learning, motivational regulation, and cognitive psychology. Its applications in instructional design, occupational success, health behaviors, and relationship stability highlight its broad relevance across different aspects of life. By integrating Self-Regulation into educational and professional settings, we can empower individuals to take control of their lives and achieve their goals more effectively.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding self-regulation as a multifaceted process that integrates cognitive, motivational, and emotional components provides a comprehensive framework for enhancing personal effectiveness across various domains of life. By fostering these skills, individuals can better navigate complex environments, achieve their goals, and maintain psychological well-being.
 
 ## Evidence
 
@@ -143,3 +171,13 @@ Empirical evidence supports the reliability and trainability of Self-Regulation.
 **Applies to:** [[worked-examples]]
 
 **Source:** [[self-regulation-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is a critical prerequisite for self-regulation because it allows individuals to hold and manipulate information in mind, which is essential for goal setting, planning strategies, monitoring progress, and reflecting on outcomes. Without sufficient working memory capacity, the cognitive demands of these processes can overwhelm an individual's ability to effectively regulate their behavior.
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Worked examples are particularly useful in educational contexts as they provide a model for self-regulation. By studying how experts solve problems, learners can internalize the steps and strategies needed to regulate their own learning processes effectively.

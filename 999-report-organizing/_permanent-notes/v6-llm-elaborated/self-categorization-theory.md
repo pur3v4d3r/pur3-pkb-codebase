@@ -1,13 +1,12 @@
 ---
-title: "Self-Categorization Theory"
+title: Self-Categorization Theory
 aliases:
-  - "Self-Categorization Theory"
-  - "SCT"
-  - "Turner self-categorization"
+  - Self-Categorization Theory
+  - SCT
+  - Turner self-categorization
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - intergroup-relations
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-categorization-theory-synthetic-seed-2026-05-01"
+  - self-categorization-theory-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social Psychology"
-
+depth-level: enhanced
+parent-concept: Social Psychology
 related:
-  - "[[Social Identity Theory]]"
-  - "[[In-Group Out-Group Bias]]"
+  - '[[Social Identity Theory]]'
+  - '[[In-Group Out-Group Bias]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Social Identity Theory]]"
+  - '[[Social Identity Theory]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[In-Group Out-Group Bias]]"
+  - '[[In-Group Out-Group Bias]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Self-Categorization Theory
 
@@ -86,6 +85,9 @@ In practice, this means that when individuals are in a social context where thei
 The theory draws its roots from Social Identity Theory but emphasizes the active level of self-categorization that governs perception and behavior. Turner’s formulation is explicit that while the group level is one of several active self-categorizations, it does not replace individual agency. This distinction is crucial in understanding how individuals balance their personal identity with their group identity.
 
 Empirically, Self-Categorization Theory has been supported by various studies showing that people's behavior and perceptions are significantly influenced by the salience of different levels of self-categorization. For instance, research has demonstrated that when participants are reminded of their group membership, they exhibit behaviors consistent with group norms.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Self-Categorization Theory also addresses how individuals navigate social hierarchies within groups, a process that can lead to sub-group formation and competition even when members share overarching group identities. This dynamic is crucial in understanding phenomena such as intra-team rivalries or factionalism within larger organizations.
 
 ## Mechanism
 
@@ -107,6 +109,19 @@ The process of shifting between different levels of self-categorization is not s
 > [!key-distinction] **Self-Categorization Theory vs Social Identity Theory**
 > While both theories explore how individuals perceive themselves in social contexts, Self-Categorization Theory focuses on the active level of self-categorization that governs perception and behavior. In contrast, Social Identity Theory emphasizes the importance of group identity as a source of personal identity. The key difference lies in their emphasis: Self-Categorization Theory is more about situational shifts, whereas Social Identity Theory is about long-term identification.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> In Self-Categorization Theory, top-down processing occurs when individuals use group-level prototypes to guide their perceptions and behaviors. This contrasts with bottom-up processing where individual experiences or specific situational cues drive behavior. Understanding these processes helps explain how shared group norms can override personal preferences.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that self-categorization is a fixed process.
+>
+> In reality, self-categorization is highly dynamic and context-dependent. Individuals shift between different levels of categorization based on situational cues, such as group size or task complexity.
+
 ## Key Figures
 
 - **John Turner** — John Turner is the originator of Self-Categorization Theory. He developed this theory as an extension of Social Identity Theory to explain how individuals categorize themselves into groups based on shared characteristics and how this categorization influences their behavior and perceptions.
@@ -123,6 +138,13 @@ The process of shifting between different levels of self-categorization is not s
 >
 > *What would resolve it:* Empirical studies that investigate the application of Self-Categorization Theory in digital contexts could address this question. Such research would help determine whether the theory holds true for online interactions and if it can predict behaviors in virtual groups.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does self-categorization influence inter-group conflict?
+>
+> *What would resolve it:* Research exploring how different levels of categorization affect perceptions and behaviors towards out-groups could provide insights into mitigating inter-group conflicts by fostering more inclusive group identities.
+
 ## Synthesis
 
 Self-Categorization Theory is a critical concept within social psychology as it provides insights into how individuals navigate their identities in different social contexts. By understanding this theory, we can better design educational programs, marketing strategies, and conflict resolution approaches that leverage group dynamics to achieve desired outcomes.
@@ -138,3 +160,10 @@ Moreover, the theory's focus on situational shifts in self-categorization highli
 **Applies to:** [[In-Group Out-Group Bias]]
 
 **Source:** [[self-categorization-theory-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Social Identity Theory]]** — *contrasts-with*
+> While Social Identity Theory emphasizes the importance of group identity in shaping personal identity, Self-Categorization Theory focuses on how individuals actively categorize themselves into groups based on situational cues. This distinction highlights the dynamic nature of self-categorization compared to a more static view of social identity.

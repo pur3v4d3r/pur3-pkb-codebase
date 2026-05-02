@@ -1,12 +1,11 @@
 ---
-title: "Reliabilism"
+title: Reliabilism
 aliases:
-  - "Reliabilism"
-  - "process reliabilism"
+  - Reliabilism
+  - process reliabilism
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - externalism
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "reliabilism-synthetic-seed-2026-04-25"
+  - reliabilism-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Epistemology"
-
+depth-level: enhanced
+parent-concept: Epistemology
 related:
-  - "[[Externalism]]"
-  - "[[Justification]]"
-  - "[[Internalism]]"
+  - '[[Externalism]]'
+  - '[[Justification]]'
+  - '[[Internalism]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Externalism]]"
+  - '[[Externalism]]'
 see-also:
-  - "[[Justification]]"
+  - '[[Justification]]'
 contrasts-with:
-  - "[[Internalism]]"
+  - '[[Internalism]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Reliabilism
 
@@ -87,6 +86,9 @@ The theory's reliance on empirical measures of reliability also means that it ca
 
 However, this shift towards external properties also introduces challenges. It requires specifying which process-type's reliability matters for a given belief, as any token belief can be produced by multiple types of processes with varying degrees of reliability.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Reliabilism's emphasis on process reliability introduces a nuanced view of justification that challenges traditional epistemological frameworks by integrating empirical findings from cognitive science. This integration allows for a more dynamic understanding of how beliefs are formed and justified, shifting the focus away from static mental states to the processes that generate them.
+
 ## Mechanism
 
 Reliabilism operates on the principle that justification is determined by the reliability of cognitive mechanisms. For example, if someone perceives an object as red based on a reliable visual process, their belief in the object's color is justified. This mechanism ensures that beliefs formed through accurate and consistent processes are more likely to be true.
@@ -102,10 +104,28 @@ Reliabilism operates on the principle that justification is determined by the re
 > [!example] **Application 3 — Philosophical debates**
 > In philosophical debates about justification, Reliabilism offers a way to address the generality problem by focusing on the reliability of belief-forming processes rather than individual instances. This approach can help resolve disputes between internalists and externalists by providing a clear criterion for justified beliefs.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance learning by ensuring that information is reviewed at intervals, which aligns with Reliabilism's emphasis on reliable cognitive processes. By spacing out review sessions, students are more likely to form accurate and consistent beliefs about the material, thereby increasing the reliability of their knowledge acquisition process.
+
 ## Key Distinctions
 
 > [!key-distinction] **Reliabilism vs Internalism**
 > While Reliabilism focuses on the reliability of cognitive processes, internalist theories emphasize the believer's reflective access to evidence. For example, an internalist might argue that a belief is justified if it is based on introspective awareness or direct perception, whereas Reliabilism would consider whether the process through which the belief was formed is reliable.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis, whereas reactive thinking is immediate and automatic. Reliabilism emphasizes the importance of reliable processes over reflective access to evidence, suggesting that beliefs formed through reliable cognitive mechanisms are justified regardless of whether they result from reflective or reactive thought.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Reliabilism means all true beliefs are justified.
+>
+> Reliabilism does not equate truth with justification. A belief can be reliably formed and still be false, as reliability is about the process's track record of producing true beliefs rather than the actual truth value of any given instance.
 
 ## Key Figures
 
@@ -123,6 +143,13 @@ Reliabilism operates on the principle that justification is determined by the re
 >
 > *What would resolve it:* Studying the reliability of perceptual and cognitive mechanisms in non-human animals could provide insights into how they form justified beliefs, potentially validating or refuting Reliabilism's claims.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Reliabilism account for the role of context in belief formation?
+>
+> *What would resolve it:* Further research into contextual factors that influence cognitive processes could provide insights into how reliability varies across different contexts, thereby addressing this question.
+
 ## Synthesis
 
 Reliabilism matters because it offers a bridge between philosophical theories of justification and empirical research in psychology. By grounding justification in the reliability of cognitive processes, it provides a practical framework for understanding how knowledge is formed and justified across different contexts, from young children to non-human animals. This theory also challenges traditional internalist views by emphasizing external factors over subjective introspection, thereby enriching our understanding of epistemology.
@@ -138,3 +165,10 @@ Reliabilism matters because it offers a bridge between philosophical theories of
 **Contrasts with:** [[Internalism]]
 
 **Source:** [[reliabilism-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Externalism]]** — *generalizes to*
+> Reliabilism generalizes to Externalism by focusing on external factors, such as cognitive processes and their reliability, rather than internal states. This connection highlights how Reliabilism is a specific instance of an externalist approach in epistemology.

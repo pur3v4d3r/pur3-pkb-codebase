@@ -1,12 +1,11 @@
 ---
-title: "Scientific Realism"
+title: Scientific Realism
 aliases:
-  - "Scientific Realism"
-  - "realism about science"
+  - Scientific Realism
+  - realism about science
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - epistemology
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "scientific-realism-synthetic-seed-2026-05-01"
+  - scientific-realism-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Philosophy"
-
+depth-level: enhanced
+parent-concept: Philosophy
 related:
-  - "[[Structural Realism]]"
-  - "[[Philosophy of Science]]"
-  - "[[Constructive Empiricism]]"
+  - '[[Structural Realism]]'
+  - '[[Philosophy of Science]]'
+  - '[[Constructive Empiricism]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Structural Realism]]"
+  - '[[Structural Realism]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Philosophy of Science]]"
-  - "[[Constructive Empiricism]]"
+  - '[[Philosophy of Science]]'
+  - '[[Constructive Empiricism]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Scientific Realism
 
@@ -87,6 +86,9 @@ However, Scientific Realism faces significant challenges from pessimistic meta-i
 Theoretical roots of Scientific Realism can be traced back to the logical positivists and their verificationist criteria for meaningful statements. However, contemporary versions like structural realism and entity realism have modified this position by acknowledging that while we might not fully understand all aspects of a theory, we can still make sense of its structure or certain entities it posits.
 
 Empirically, Scientific Realism is grounded in the historical success of scientific theories. For instance, the development of quantum mechanics and general relativity has led to profound technological advancements that would be impossible if these theories were not at least approximately true.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Scientific Realism's stance on unobservable entities is particularly contentious, as it requires a leap from empirical success to ontological commitment. This leap is often justified by the argument that if theories were merely useful fictions, their predictive power would be miraculous and inexplicable without an underlying truth. However, critics argue this reasoning overestimates the explanatory power of realism, suggesting instead that pragmatic factors like simplicity, coherence with other beliefs, and problem-solving efficacy might suffice to explain a theory's success.
 
 ## Mechanism
 
@@ -108,6 +110,19 @@ Scientific Realism operates by interpreting mature scientific theories as provid
 > [!key-distinction] **Scientific Realism vs Structural Realism**
 > Structural realism is a more qualified form of realism that retreats from full-theoretic realism by focusing on the structural aspects of theories rather than their ontological commitments. This distinction highlights how different versions of realism address the problem of unobservable entities in scientific theories.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and evaluation of ideas, whereas reactive thinking is immediate and automatic. Scientific Realism leans towards reflective thinking by encouraging critical assessment of theories' ontological commitments. This contrasts with more reactive approaches that might accept the success of a theory without questioning its underlying assumptions about reality.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Scientific Realism means all scientific theories are true.
+>
+> Scientific Realism does not claim that every single detail in current scientific theories is absolutely true. Instead, it posits that mature and predictively successful theories provide us with a partial but genuine understanding of reality. This nuanced view acknowledges the provisional nature of scientific knowledge while still asserting its substantial truth.
+
 ## Key Figures
 
 - **Hilary Putnam** — A prominent proponent of Scientific Realism, Hilary Putnam argued that mature scientific theories provide us with a genuine understanding of the world and its unobservable aspects.
@@ -125,9 +140,19 @@ Scientific Realism operates by interpreting mature scientific theories as provid
 >
 > *What would resolve it:* Further empirical evidence or philosophical arguments that clarify the relationship between theory and observation could provide insights into how underdetermined theories can still be considered approximately true.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can we reconcile the fallibility of current scientific theories with the commitment to their truth under Scientific Realism?
+>
+> *What would resolve it:* Addressing this question would require a deeper analysis of how scientific theories evolve and improve over time, as well as an examination of the criteria that distinguish more robust from less robust theoretical commitments.
+
 ## Synthesis
 
 Scientific Realism is a significant concept in the philosophy of science because it provides a framework for understanding the nature of scientific theories and their relationship to reality. By asserting that mature, successful theories are at least approximately true descriptions of an observer-independent reality, Scientific Realism offers a robust account of scientific knowledge. This view has implications for various domains, including education, policy-making, and the broader philosophical discourse on the nature of scientific progress.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Scientific Realism thus serves not only as a philosophical stance but also as a methodological guide for scientists and philosophers alike. By emphasizing the importance of ontological commitment alongside empirical success, it encourages a balanced approach to scientific inquiry that values both practical utility and theoretical depth.
 
 ## Connections & Context
 
@@ -138,3 +163,10 @@ Scientific Realism is a significant concept in the philosophy of science because
 **Sibling concepts:** [[Philosophy of Science]] · [[Constructive Empiricism]]
 
 **Source:** [[scientific-realism-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Philosophy of Science]]** — *falls-under*
+> Scientific Realism is a central topic within the Philosophy of Science, as it addresses fundamental questions about the nature and limits of scientific knowledge. Understanding Scientific Realism requires grappling with broader philosophical issues such as the relationship between theory and reality, the role of empirical evidence in validating theories, and the criteria for assessing scientific progress.

@@ -1,13 +1,12 @@
 ---
-title: "Signal-to-Noise Ratio"
+title: Signal-to-Noise Ratio
 aliases:
-  - "Signal-to-Noise Ratio"
-  - "SNR"
-  - "signal-to-noise"
+  - Signal-to-Noise Ratio
+  - SNR
+  - signal-to-noise
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - communication
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "signal-to-noise-ratio-synthetic-seed-2026-05-01"
+  - signal-to-noise-ratio-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Information Management"
-
+depth-level: enhanced
+parent-concept: Information Management
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - '[[Working Memory]]'
+  - '[[Worked Examples]]'
 prerequisites:
-  - "[[Working Memory]]"
+  - '[[Working Memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Worked Examples]]"
+  - '[[Worked Examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Signal-to-Noise Ratio
 
@@ -87,6 +86,9 @@ Theoretical roots of SNR extend back to the work of John Sweller in 1988, who in
 
 Empirical evidence supports the importance of SNR in knowledge work. For instance, studies have shown that reducing noise in educational materials can significantly enhance student comprehension and retention. Similarly, in software development, optimizing notifications to maintain a high SNR ensures developers spend more time on productive tasks rather than filtering through irrelevant alerts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The concept of Signal-to-Noise Ratio (SNR) extends beyond mere information filtering to encompass broader cognitive processes such as attention allocation and decision-making. In environments with high SNR, individuals can more easily allocate their limited cognitive resources towards tasks that require deeper processing and higher-order thinking, rather than being bogged down by the constant need for superficial filtering of irrelevant data.
+
 ## Mechanism
 
 The process of how SNR influences filtering efforts involves several stages. Initially, the brain receives an information stream with varying levels of signal and noise. High SNR streams allow for rapid identification of relevant content, reducing the time spent on filtering. Conversely, low SNR streams require more cognitive resources to distinguish between useful and irrelevant information, leading to increased mental fatigue.
@@ -102,14 +104,35 @@ The process of how SNR influences filtering efforts involves several stages. Ini
 > [!example] **Application 3 — Information curation**
 > For information curation, a high SNR stream means selecting sources with clear and relevant content. Curators must evaluate each source to ensure it provides meaningful insights rather than noise. By curating high-SNR sources, users can save time and mental energy by focusing on the most valuable information.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), maintaining a high SNR is crucial for effective spaced retrieval practices. By strategically spacing out the presentation of key concepts and interleaving them with less critical information, educators can enhance long-term retention without overwhelming students' working memory capacity.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is the unnecessary cognitive effort required due to poor instructional design or information presentation. High SNR reduces extraneous load by minimizing irrelevant content, thereby lowering overall cognitive demand and improving learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and consideration of information, whereas reactive thinking is characterized by immediate responses based on available cues. High SNR environments facilitate reflective thinking by reducing the cognitive load associated with filtering noise, allowing individuals to engage more deeply with complex tasks.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that increasing signal always improves SNR.
+>
+> While it is true that enhancing the quality and relevance of information (signal) can improve SNR, reducing noise is equally important. Excessive or irrelevant signal can overwhelm cognitive resources, diminishing overall efficiency. Thus, both signal enhancement and noise reduction are critical for optimal SNR.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with the introduction of intrinsic vs extraneous load in cognitive psychology. His work laid the foundation for understanding how SNR influences cognitive efficiency, particularly in educational settings.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **John Sweller** — Sweller's work on cognitive load theory provides a theoretical framework for understanding how SNR impacts learning efficiency. His research highlights the importance of balancing intrinsic and extraneous cognitive loads to optimize information processing.
 
 ## Open Questions
 
@@ -122,6 +145,13 @@ The process of how SNR influences filtering efforts involves several stages. Ini
 > How can SNR be optimized for different types of tasks and individuals?
 >
 > *What would resolve it:* Research comparing the effectiveness of various SNR optimization strategies across diverse task types and individual differences could provide insights into personalized approaches.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does SNR influence long-term memory consolidation?
+>
+> *What would resolve it:* Longitudinal studies examining the effects of high versus low SNR on memory retention over time would help elucidate whether environments with higher signal clarity facilitate better long-term storage and retrieval of information.
 
 ## Synthesis
 
@@ -138,3 +168,10 @@ The practical implications of SNR extend beyond individual tasks to broader orga
 **Applies to:** [[Worked Examples]]
 
 **Source:** [[signal-to-noise-ratio-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Working Memory]]** — *prerequisites*
+> Understanding the limitations of working memory is crucial to appreciating how SNR influences cognitive efficiency. Working memory capacity constrains the amount of information that can be processed simultaneously, making high SNR environments essential for minimizing unnecessary mental effort and maximizing task performance.

@@ -1,12 +1,11 @@
 ---
-title: "Psychological Resilience"
+title: Psychological Resilience
 aliases:
-  - "Psychological Resilience"
-  - "resilience"
+  - Psychological Resilience
+  - resilience
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - clinical-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "psychological-resilience-synthetic-seed-2026-04-25"
+  - psychological-resilience-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Psychology"
-
+depth-level: enhanced
+parent-concept: Cognitive Psychology
 related:
-  - "[[Hardiness]]"
-  - "[[post-traumatic-growth]]"
-  - "[[Coping Strategies]]"
+  - '[[Hardiness]]'
+  - '[[post-traumatic-growth]]'
+  - '[[Coping Strategies]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Hardiness]]"
+  - '[[Hardiness]]'
 contrasts-with:
-  - "[[post-traumatic-growth]]"
+  - '[[post-traumatic-growth]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Coping Strategies]]"
+  - '[[Coping Strategies]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Psychological Resilience
 
@@ -87,6 +86,9 @@ Theoretical roots of Psychological Resilience can be traced back to cognitive mo
 
 Empirical evidence supports the idea that Psychological Resilience can be fostered through various interventions. For example, programs aimed at enhancing coping skills, building social support networks, and promoting positive psychological states have been shown to improve resilience in diverse populations. These findings underscore the importance of understanding both individual differences and contextual factors in promoting resilience.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Recent research has highlighted the role of social support in enhancing psychological resilience. Social connections can provide emotional comfort, practical assistance, and a sense of belonging that buffers against stressors. For instance, studies have shown that individuals with strong social networks are more likely to recover from traumatic events without developing long-term mental health issues.
+
 ## Mechanism
 
 One key mechanism underlying Psychological Resilience is the broaden-and-build theory proposed by Fredrickson. This theory posits that positive emotions broaden an individual's thought-action repertoire, leading to new skills and resources (or 'building') that enhance future coping abilities. In practical terms, this means that engaging in activities that evoke positive emotions can help individuals develop resilience over time.
@@ -102,6 +104,11 @@ One key mechanism underlying Psychological Resilience is the broaden-and-build t
 > [!example] **Application 3 — Disaster response**
 > During disaster response, understanding Psychological Resilience can guide the development of community-based interventions that promote social support networks and positive activities. These efforts can help individuals recover more quickly from traumatic events and reduce long-term psychological impacts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance psychological resilience among learners. By revisiting course material at increasing intervals, students not only improve their retention of information but also build a sense of competence and mastery over the subject matter. This gradual reinforcement helps them cope with academic pressures more effectively.
+
 ## Key Distinctions
 
 > [!key-distinction] **Psychological Resilience vs Hardiness**
@@ -110,9 +117,25 @@ One key mechanism underlying Psychological Resilience is the broaden-and-build t
 > [!key-distinction] **Psychological Resilience vs Post-Traumatic Growth**
 > Post-Traumatic Growth involves positive changes following adversity, whereas Psychological Resilience focuses on maintaining or recovering psychological functioning. The key difference is that resilience aims to prevent chronic distress, while growth emphasizes the potential for personal development and transformation after trauma.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and planning, whereas reactive thinking is immediate and often automatic. Psychological resilience benefits from reflective thinking as it allows individuals to process stressors thoughtfully, develop coping strategies, and maintain a sense of control. In contrast, reactive responses may lead to impulsive actions that exacerbate stress.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think resilience means never experiencing negative emotions.
+>
+> Resilience does not imply the absence of negative emotions but rather the ability to manage and recover from them. Individuals who are resilient can experience distressing feelings yet still maintain their psychological functioning over time.
+
 ## Key Figures
 
 - **G. Alan Masten** — Masten has been a key researcher in resilience theory, contributing significantly to our understanding of how children and adults cope with adversity through his longitudinal studies on resilience trajectories following traumatic events.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **George Bonanno** — Bonanno's research has significantly advanced our understanding of resilience by identifying patterns in how individuals cope with trauma. His work highlights the importance of adaptive functioning over time, distinguishing resilience from mere absence of distress.
 
 ## Open Questions
 
@@ -125,6 +148,13 @@ One key mechanism underlying Psychological Resilience is the broaden-and-build t
 > How can we measure psychological resilience more accurately?
 >
 > *What would resolve it:* Developing standardized and validated measures that capture both the absence of pathology and adaptive functioning could help resolve measurement heterogeneity issues.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence psychological resilience?
+>
+> *What would resolve it:* Longitudinal studies comparing different cultures would provide insights into how societal values and support systems impact individuals' ability to recover from adversity. This could inform culturally sensitive interventions for enhancing resilience.
 
 ## Synthesis
 
@@ -143,3 +173,10 @@ Psychological Resilience intersects with other concepts such as hardiness and po
 **Applies to:** [[Coping Strategies]]
 
 **Source:** [[psychological-resilience-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[post-traumatic-growth]]** — *contrasts-with*
+> While post-traumatic growth involves positive changes following adversity, resilience focuses on maintaining or recovering psychological stability. Resilience is about functional continuity and absence of pathology, whereas growth emphasizes personal development and enhanced well-being.

@@ -1,16 +1,15 @@
 ---
-title: "Processing Fluency"
+title: Processing Fluency
 aliases:
-  - "Processing Fluency"
-  - "Nelson-Narens Framework"
-  - "Metacognitive Control Framework"
-  - "Two-Level Model of Metacognition"
-  - "Meta-Level Object-Level Model"
-  - "Monitoring-Control Architecture"
+  - Processing Fluency
+  - Nelson-Narens Framework
+  - Metacognitive Control Framework
+  - Two-Level Model of Metacognition
+  - Meta-Level Object-Level Model
+  - Monitoring-Control Architecture
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -24,56 +23,56 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19"
+  - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Metacognition"
-
+depth-level: enhanced
+parent-concept: Metacognition
 related:
-  - "[[working-memory]]"
-  - "[[Judgment of Learning (JOL)]]"
-  - "[[Ease-of-Learning (EOL)]]"
+  - '[[working-memory]]'
+  - '[[Judgment of Learning (JOL)]]'
+  - '[[Ease-of-Learning (EOL)]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Judgment of Learning (JOL)]]"
+  - '[[Judgment of Learning (JOL)]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Ease-of-Learning (EOL)]]"
+  - '[[Ease-of-Learning (EOL)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Processing Fluency
 
@@ -93,6 +92,9 @@ Theoretical roots of processing fluency trace back to cognitive load theory, par
 
 Empirical evidence supports these claims. Studies have shown that students often overestimate their understanding of material when they encounter it easily (e.g., through rereading), leading to poor performance on subsequent assessments. This underscores the importance of using multiple cues and strategies for accurate self-assessment.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Processing fluency also plays a critical role in how individuals perceive their own cognitive abilities and learning progress over time. When learners experience consistent ease of processing, they may develop a stable sense of competence that can either bolster or undermine actual skill acquisition depending on the nature of the task and feedback mechanisms involved.
+
 ## Mechanism
 
 The mechanism by which processing fluency influences metacognitive judgments involves a two-level architecture in monitoring. At the object level, information is processed and encoded. The meta-level then infers the state of this process based on cues like fluency. When fluency increases, the meta-level may incorrectly infer that learning has also increased, leading to overconfidence.
@@ -108,14 +110,35 @@ The mechanism by which processing fluency influences metacognitive judgments inv
 > [!example] **Application 3 — Educational practices**
 > Educators should incorporate diverse assessment methods that go beyond simple recall tasks. For instance, using concept maps or problem-solving exercises can provide a richer understanding of the material than multiple-choice questions alone. This approach helps students develop deeper cognitive structures and reduces reliance on fluency as a sole indicator of learning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can mitigate the fluency illusion by requiring students to recall information at increasing intervals. This approach not only enhances long-term retention but also provides a more accurate gauge of learning progress, as it challenges learners beyond superficial familiarity.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of the material itself, while extraneous load is due to poor instructional design. Processing fluency can be influenced by both types of cognitive load but is more closely tied to extraneous load. For example, a student might feel confident about a topic after rereading it multiple times (extraneous load), even though they have not deeply processed the material (intrinsic load).
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> Recognition tasks are easier because they provide cues that facilitate retrieval, whereas recall requires generating information from memory without prompts. Processing fluency can be misleading in recognition tasks as it may indicate familiarity rather than true learning, while recall better reflects actual knowledge acquisition.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that increased processing fluency always indicates effective learning.
+>
+> This misconception arises because the ease of processing can be mistaken for deep understanding. In reality, high fluency may merely reflect surface-level familiarity or repeated exposure without deeper cognitive engagement.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating the concept of processing fluency within cognitive load theory. His work in the late 1980s highlighted how extraneous cognitive load can interfere with intrinsic processes, making fluency a critical factor in metacognitive monitoring.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Daniel T. Willingham** — Willingham's work on cognitive psychology and education highlights the importance of processing fluency in shaping how students perceive their own learning, emphasizing that ease does not always equate to effective knowledge acquisition.
 
 ## Open Questions
 
@@ -128,6 +151,13 @@ The mechanism by which processing fluency influences metacognitive judgments inv
 > What are the long-term effects of relying on processing fluency as a cue for learning quality?
 >
 > *What would resolve it:* Longitudinal studies tracking students' performance over time could reveal whether reliance on fluency leads to sustained learning or if it results in superficial understanding. Such research would provide insights into the long-term implications of the fluency illusion.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can educational technologies be designed to accurately measure learning progress beyond surface-level indicators like processing fluency?
+>
+> *What would resolve it:* Developing adaptive assessments and analytics tools that track deeper cognitive processes, such as problem-solving strategies and conceptual understanding, would provide a more accurate picture of student learning.
 
 ## Synthesis
 
@@ -146,3 +176,10 @@ The implications of processing fluency extend beyond individual learning to educ
 **Applies to:** [[Ease-of-Learning (EOL)]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Ease-of-Learning (EOL)]]** — *applies-to*
+> Processing fluency directly impacts Ease-of-Learning by influencing how learners perceive the difficulty of tasks. When information is processed smoothly, it can create an illusion of ease that may not reflect actual learning outcomes.

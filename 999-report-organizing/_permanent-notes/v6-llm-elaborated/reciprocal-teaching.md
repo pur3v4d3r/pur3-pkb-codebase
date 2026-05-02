@@ -1,14 +1,13 @@
 ---
-title: "Reciprocal Teaching"
+title: Reciprocal Teaching
 aliases:
-  - "Reciprocal Teaching"
-  - "Metacognitive Reading"
-  - "Comprehension Monitoring and Reading"
-  - "Reading as Monitored Comprehension"
+  - Reciprocal Teaching
+  - Metacognitive Reading
+  - Comprehension Monitoring and Reading
+  - Reading as Monitored Comprehension
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,55 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "metacognition-and-reading-foundational-report-2026-04-20"
+  - metacognition-and-reading-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[metacognition]]"
-  - "[[comprehension-monitoring]]"
+  - '[[metacognition]]'
+  - '[[comprehension-monitoring]]'
 prerequisites:
-  - "[[metacognition]]"
+  - '[[metacognition]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[comprehension-monitoring]]"
+  - '[[comprehension-monitoring]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Reciprocal Teaching
 
@@ -89,6 +88,9 @@ Theoretical roots of reciprocal teaching can be traced back to cognitive science
 
 Empirical evidence supports the effectiveness of reciprocal teaching as an intervention for building metacognitive reading skills. Studies have shown that this approach not only improves comprehension but also enhances students' ability to monitor their own understanding and adjust their strategies accordingly. The gradual transfer of responsibility ensures that students are actively engaged in the learning process, leading to more meaningful and lasting improvements in reading comprehension.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Reciprocal teaching not only enhances reading comprehension but also fosters a deeper understanding of text structures and themes through collaborative dialogue. This method encourages students to engage in higher-order thinking by predicting outcomes, questioning the author's intent, clarifying ambiguities, and summarizing key points. Such activities promote critical analysis and synthesis skills that are essential for academic success.
+
 ## Mechanism
 
 The mechanism behind reciprocal teaching involves externalizing the monitoring loop through social interaction. By discussing text segments with peers and teachers, students can articulate their thoughts, identify gaps in understanding, and receive immediate feedback. This process helps them internalize metacognitive strategies by practicing them in a supportive environment.
@@ -107,15 +109,36 @@ The mechanism behind reciprocal teaching involves externalizing the monitoring l
 > [!example] **Application 4 — Diverse educational contexts**
 > Reciprocal teaching can be applied across various educational contexts, from elementary schools to college-level courses. Its flexibility allows it to be tailored to different age groups and reading levels, making it a versatile tool for building metacognitive skills in diverse student populations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Reciprocal Teaching in Diverse Classrooms**
+> In diverse classrooms with students of varying reading levels, reciprocal teaching can be particularly beneficial. By rotating leadership roles among group members, each student has the opportunity to lead discussions and apply metacognitive strategies at their own pace. This approach ensures that all learners are actively engaged and supported in developing their comprehension skills.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Reciprocal teaching differs from other reading strategies by focusing on intrinsic load rather than extraneous load. While other methods might emphasize additional cognitive demands, reciprocal teaching ensures that the learning process is supported through social interaction and gradual transfer of responsibility, making it more effective for building metacognitive skills.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reciprocal teaching emphasizes reflective thinking over reactive thinking by encouraging students to pause, reflect on the text, and articulate their thoughts. Unlike reactive thinking, which is immediate and often automatic, reflective thinking involves deliberate consideration of information, leading to better comprehension and retention.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think reciprocal teaching only benefits weaker readers.
+>
+> While reciprocal teaching can be particularly helpful for struggling readers by providing structured support and feedback, it also enhances the reading skills of proficient students. By engaging in metacognitive strategies such as questioning and summarizing, all learners deepen their understanding and develop more sophisticated comprehension abilities.
+
 ## Key Figures
 
 - **Annemarie Sullivan Palincsar** — Co-developer of reciprocal teaching with Ann L. Brown, whose foundational work produced the most empirically validated single intervention for building metacognitive reading skill. Her continued research has refined the conditions under which the intervention is effective and extended its underlying instructional principles to other domains.
 - **Ann L. Brown** — Co-developer of reciprocal teaching with Annemarie Palincsar, whose work on metacognitive regulation and reading comprehension shaped the field's understanding of how metacognitive skills develop and how they can be taught. She introduced the declarative–procedural–conditional distinction that has become standard in educational psychology.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Ann L. Brown** — Co-developer of reciprocal teaching with Annemarie Sullivan Palincsar, her work laid the groundwork for understanding how collaborative learning can enhance metacognitive skills and reading comprehension.
 
 ## Open Questions
 
@@ -135,6 +158,9 @@ Reciprocal teaching is a critical concept in educational psychology because it n
 
 The broader implications of reciprocal teaching extend beyond reading comprehension into the development of critical thinking skills and problem-solving abilities. By promoting active engagement and collaboration, this approach prepares students for success in academic and professional environments where metacognitive skills are crucial.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Reciprocal teaching stands out as a powerful instructional method because it integrates social interaction and structured dialogue to foster deep reading comprehension. By scaffolding students' ability to monitor their own thinking, this approach not only improves immediate understanding but also builds long-term metacognitive skills that are transferable across various academic domains.
+
 ## Connections & Context
 
 **Falls under:** [[self-regulated-learning]]
@@ -144,3 +170,10 @@ The broader implications of reciprocal teaching extend beyond reading comprehens
 **Sibling concepts:** [[comprehension-monitoring]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[comprehension-monitoring]]** — *prerequisites*
+> Comprehension monitoring is a foundational skill that underpins reciprocal teaching. Students must be able to monitor their own understanding of the text in order to effectively predict, question, clarify, and summarize. This prerequisite ensures that learners can identify when they are not comprehending the material and take appropriate actions to improve comprehension.

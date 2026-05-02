@@ -1,13 +1,12 @@
 ---
-title: "Self-Efficacy"
+title: Self-Efficacy
 aliases:
-  - "Self-Efficacy"
-  - "perceived self-efficacy"
-  - "efficacy belief"
+  - Self-Efficacy
+  - perceived self-efficacy
+  - efficacy belief
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-efficacy-synthetic-seed-2026-04-24"
+  - self-efficacy-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Self-Efficacy
 
@@ -87,6 +86,9 @@ The impact of these experiences is not just immediate but also cumulative. Over 
 
 Self-Efficacy is distinct from outcome expectations and past performance because it focuses on one's belief in their ability to execute specific actions rather than the anticipated outcomes or historical achievements. For example, a student who has consistently performed well may still doubt their ability to solve an unfamiliar problem, indicating that Self-Efficacy can be malleable even when past performance is strong.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Self-Efficacy is not a static trait but rather a dynamic construct that fluctuates based on situational factors and personal experiences. For example, a student might feel highly efficacious in mathematics during regular classroom activities but experience a drop in self-efficacy when faced with high-stakes exams due to increased pressure and anxiety.
+
 ## Mechanism
 
 Self-Efficacy operates through the triadic reciprocal determinism model proposed by Albert Bandura. This model posits a continuous interaction between personal factors (like Self-Efficacy), environmental conditions, and behavioral outcomes. When an individual believes in their ability to succeed (high Self-Efficacy), they are more likely to engage in challenging tasks, persist through difficulties, and ultimately achieve better results.
@@ -105,14 +107,35 @@ Self-Efficacy operates through the triadic reciprocal determinism model proposed
 > [!example] **Application 4 — Persistence under feedback**
 > Self-Efficacy plays a critical role in how learners respond to feedback. Those with strong beliefs in their capabilities are more resilient when faced with negative feedback or setbacks. For instance, a student who receives constructive criticism on an essay might use it as motivation to improve rather than becoming discouraged.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance Self-Efficacy by reinforcing learning through periodic, low-stress assessments. This approach allows learners to gauge their understanding over time without the overwhelming pressure of cramming for a final exam.
+
 ## Key Distinctions
 
 > [!key-distinction] **Self-Efficacy vs Outcome Expectations**
 > While outcome expectations refer to the anticipated results of one's actions, Self-Efficacy is about the belief in one's ability to execute those actions. For example, a student might expect to get an A on their exam (outcome expectation) but doubt they can solve complex problems (low Self-Efficacy). This distinction highlights that high Self-Efficacy does not guarantee positive outcomes; it merely indicates confidence in one's abilities.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation stems from personal interest and enjoyment, extrinsic motivation is driven by external rewards or pressures. Self-Efficacy can influence both types of motivation; high self-efficacy often correlates with higher intrinsic motivation as individuals feel capable of engaging in tasks for their own sake.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that past performance always predicts future Self-Efficacy.
+>
+> Past performance can influence self-efficacy, but it is not the sole determinant. Factors such as feedback, emotional states, and vicarious experiences also play crucial roles in shaping an individual's belief in their capabilities.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is recognized for his contributions to the theory of cognitive load, which underpins Self-Efficacy. His work on intrinsic and extraneous cognitive loads has provided a framework for understanding how information processing affects learning outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Albert Bandura** — Bandura is renowned for his social cognitive theory which includes the concept of Self-Efficacy. His work emphasizes how personal, behavioral, and environmental factors interact to shape self-efficacy beliefs.
 
 ## Open Questions
 
@@ -125,6 +148,13 @@ Self-Efficacy operates through the triadic reciprocal determinism model proposed
 > Can interventions to boost Self-Efficacy lead to long-term improvements in learning outcomes?
 >
 > *What would resolve it:* Randomized controlled trials comparing the effectiveness of various interventions (e.g., goal setting, feedback) on Self-Efficacy and subsequent academic performance would provide evidence.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the development of Self-Efficacy?
+>
+> *What would resolve it:* Cross-cultural studies comparing different societal values and educational practices would provide insights into how cultural norms affect perceptions of capability and confidence in various domains.
 
 ## Synthesis
 
@@ -141,3 +171,10 @@ The malleability of Self-Efficacy underscores its importance in fostering resili
 **Applies to:** [[worked-examples]]
 
 **Source:** [[self-efficacy-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory capacity is a prerequisite for Self-Efficacy because tasks that require significant working memory, such as complex problem-solving or multitasking, can influence an individual's belief in their ability to succeed. Limited working memory may lead to frustration and lower self-efficacy.

@@ -1,14 +1,13 @@
 ---
-title: "Organismic Integration Theory"
+title: Organismic Integration Theory
 aliases:
-  - "Organismic Integration Theory"
-  - "OIT Internalization Continuum Deep Dive"
-  - "Internalization Mechanisms in SDT"
-  - "Autonomous Motivation Development"
+  - Organismic Integration Theory
+  - OIT Internalization Continuum Deep Dive
+  - Internalization Mechanisms in SDT
+  - Autonomous Motivation Development
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -16,59 +15,59 @@ tags:
 
 domain: educational-psychology
 subdomains:
-  - ""
+  - ''
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-internalization-continuum-deep-dive-2026-04-21"
+  - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[goal-contents-theory]]"
-  - "[[controlling-teaching-styles]]"
+  - '[[goal-contents-theory]]'
+  - '[[controlling-teaching-styles]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[goal-contents-theory]]"
-  - "[[controlling-teaching-styles]]"
+  - '[[goal-contents-theory]]'
+  - '[[controlling-teaching-styles]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Organismic Integration Theory
 
@@ -88,6 +87,9 @@ Theoretical roots of OIT are grounded in the broader framework of Self-Determina
 
 Empirical evidence supports the validity of OIT, particularly in educational settings where interventions aimed at fostering identified and integrated regulation have shown positive outcomes for student engagement and academic performance. For instance, studies have demonstrated that when teachers provide autonomy-supportive conditions, students are more likely to experience a shift from introjected to identified regulation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The progression from external to integrated regulation is not linear but can involve setbacks and reversals, especially in environments that shift between autonomy-supportive and controlling conditions. For instance, a student who initially adopts a behavior due to external rewards may revert to introjected regulation if the environment becomes more controlling or punitive.
+
 ## Mechanism
 
 The process of moving from external to integrated regulation involves several stages: first, the behavior is initially controlled by external factors such as rewards or punishments. Over time, individuals may begin to internalize these controls through self-criticism (introjected regulation), leading to a more autonomous but still conditional form of motivation. As understanding and value alignment increase, behaviors become identified with personal goals, fostering integrated regulation.
@@ -103,10 +105,28 @@ The process of moving from external to integrated regulation involves several st
 > [!example] **Application 3 — Parental involvement**
 > Parents can apply OIT principles by encouraging their children to set personal goals and reflecting on the value of different behaviors. This approach helps children develop a sense of ownership over their actions, moving from external to integrated regulation in their motivation for various activities.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be leveraged to enhance integrated regulation. By spacing out quizzes and assessments, learners are encouraged to engage with material over time rather than cramming for immediate rewards. This approach fosters a deeper understanding of the content's value, aligning it more closely with personal goals and values.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extrinsic Motivation**
 > OIT focuses specifically on extrinsic motivations and how they can be transformed into intrinsic ones. In contrast, intrinsic motivation refers to behaviors driven by personal interest or enjoyment rather than external rewards or pressures.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> In contrast to maintenance rehearsal, which involves rote repetition without deep processing, elaborative rehearsal integrates new information into existing knowledge structures. In the context of OIT, elaborative rehearsal can facilitate the transition from identified regulation to integrated regulation by promoting a deeper understanding and personal relevance of behaviors.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that once behaviors are internally regulated, they remain stable.
+>
+> In reality, internalized regulations can fluctuate based on environmental changes. For example, a student who initially integrates learning goals may revert to identified regulation if faced with new challenges or conflicting values.
 
 ## Key Figures
 
@@ -124,6 +144,13 @@ The process of moving from external to integrated regulation involves several st
 >
 > *What would resolve it:* Longitudinal studies could provide insights into the lasting impacts of various regulatory styles on individual motivation and well-being over time.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the stages of internalization?
+>
+> *What would resolve it:* Cross-cultural studies are needed to understand how different societal values and norms affect the process of moving from external to integrated regulation, particularly in educational settings.
+
 ## Synthesis
 
 OIT is crucial for understanding and fostering autonomous motivation, particularly in educational and digital learning environments. By providing autonomy-supportive conditions and encouraging self-reflection, educators can help students move from external to integrated regulation, enhancing their engagement and performance. This theory also has broader implications for parenting and organizational settings where promoting intrinsic motivation can lead to more sustainable and fulfilling behaviors.
@@ -137,3 +164,10 @@ The importance of OIT extends beyond educational psychology into other domains s
 **Contrasts with:** [[goal-contents-theory]] · [[controlling-teaching-styles]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[controlling-teaching-styles]]** — *contrasts-with*
+> Controlling teaching styles, which emphasize external rewards and punishments, contrast sharply with OIT's focus on fostering internalized motivation. While controlling styles may initially increase compliance, they often undermine long-term autonomous engagement by failing to support the development of integrated regulation.

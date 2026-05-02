@@ -1,13 +1,12 @@
 ---
-title: "Scientific Reasoning"
+title: Scientific Reasoning
 aliases:
-  - "Scientific Reasoning"
-  - "scientific method"
-  - "scientific inference"
+  - Scientific Reasoning
+  - scientific method
+  - scientific inference
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,59 +18,59 @@ subdomains:
   - methodology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "scientific-reasoning-synthetic-seed-2026-04-24"
+  - scientific-reasoning-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: ""
-
+depth-level: enhanced
+parent-concept: ''
 related:
-  - "[[Falsificationism]]"
-  - "[[Hypothesis Testing]]"
-  - "[[Bayesian Confirmation]]"
-  - "[[inductive-reasoning]]"
+  - '[[Falsificationism]]'
+  - '[[Hypothesis Testing]]'
+  - '[[Bayesian Confirmation]]'
+  - '[[inductive-reasoning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Falsificationism]]"
+  - '[[Falsificationism]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Hypothesis Testing]]"
-  - "[[Bayesian Confirmation]]"
-  - "[[inductive-reasoning]]"
+  - '[[Hypothesis Testing]]'
+  - '[[Bayesian Confirmation]]'
+  - '[[inductive-reasoning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Scientific Reasoning
 
@@ -91,6 +90,9 @@ Inductive reasoning is another key component of scientific reasoning, where spec
 
 The empirical grounding of these practices comes from historical examples where scientists have used these methods to make significant advancements. For instance, Charles Darwin's theory of evolution was developed through a combination of inductive reasoning and controlled observation, leading to a paradigm shift in biology.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Scientific reasoning is not confined to laboratory settings but extends into everyday problem-solving and decision-making processes. For example, when a doctor considers various diagnoses for a patient's symptoms, they engage in scientific reasoning by formulating hypotheses based on clinical observations and medical knowledge, then testing these through further diagnostic procedures or treatments.
+
 ## Mechanism
 
 A concrete mechanism within scientific reasoning is the process of hypothesis testing. This involves formulating a hypothesis, designing an experiment or observational study to test it, collecting data, and then using statistical methods to analyze whether the results support or refute the hypothesis. For example, in clinical trials for new medications, researchers generate hypotheses about drug efficacy, design experiments with control groups, collect patient data, and use statistical tests like t-tests or ANOVA to determine if the observed effects are significant.
@@ -103,10 +105,28 @@ A concrete mechanism within scientific reasoning is the process of hypothesis te
 > [!example] **Application 2 — Public understanding of science**
 > For public understanding of science, teaching a generic 'scientific method' oversimplifies the complexity of scientific reasoning. This can lead to misconceptions about how scientists actually work. By emphasizing the diversity of practices and the importance of theory comparison over isolated testing, educators can provide a more accurate picture of scientific practice.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance students' understanding of scientific reasoning. By revisiting key concepts at increasing intervals, learners are better able to integrate new information with existing knowledge, a process crucial for developing robust scientific thinking skills.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of the task itself, while extraneous load is related to how the task is presented. In scientific reasoning, understanding these distinctions can help in designing experiments that minimize extraneous load and focus on intrinsic cognitive processes. For example, in educational settings, presenting complex hypotheses clearly can reduce extraneous load and enhance learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and evaluation of ideas, whereas reactive thinking is immediate and often automatic. In the context of scientific reasoning, reflective thinking allows researchers to critically assess hypotheses and experimental designs before implementation, ensuring that studies are well-founded and methodologically sound.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think scientific reasoning only applies in laboratory settings.
+>
+> Scientific reasoning is a versatile cognitive process applicable across various domains. It involves formulating hypotheses, gathering evidence, and drawing conclusions based on empirical data, which can be applied to everyday problem-solving scenarios such as troubleshooting technical issues or making informed decisions.
 
 ## Key Figures
 
@@ -124,6 +144,13 @@ A concrete mechanism within scientific reasoning is the process of hypothesis te
 >
 > *What would resolve it:* Systematic reviews and meta-analyses that account for the diverse inferential profiles across disciplines could help assess the impact of this diversity on scientific outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the integration of computational models impact the practice of scientific reasoning?
+>
+> *What would resolve it:* Exploring how computational tools enhance or alter traditional methods of hypothesis testing and theory building would provide insights into evolving research practices in the digital age.
+
 ## Synthesis
 
 Understanding scientific reasoning is crucial because it provides a framework for generating, testing, and revising empirical knowledge. This concept bridges various scientific fields and informs educational practices, public understanding, and the reliability of scientific findings. By recognizing the diverse inferential profiles across disciplines, we can better appreciate the complexity of scientific inquiry and improve both its practice and communication.
@@ -137,3 +164,10 @@ Scientific reasoning also has broader implications for philosophy, psychology, a
 **Applies to:** [[Hypothesis Testing]] · [[Bayesian Confirmation]] · [[inductive-reasoning]]
 
 **Source:** [[scientific-reasoning-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[inductive-reasoning]]** — *applies-to*
+> Inductive reasoning is a fundamental component of scientific inquiry, where specific observations lead to broader generalizations. This process underpins hypothesis generation in scientific research, allowing scientists to infer patterns and relationships from empirical data.

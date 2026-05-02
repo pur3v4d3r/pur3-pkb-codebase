@@ -1,12 +1,11 @@
 ---
-title: "Motivational Interviewing"
+title: Motivational Interviewing
 aliases:
-  - "Motivational Interviewing"
-  - "MI"
+  - Motivational Interviewing
+  - MI
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - counselling
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "motivational-interviewing-synthetic-seed-2026-04-24"
+  - motivational-interviewing-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive-Behavioral Therapy"
-
+depth-level: enhanced
+parent-concept: Cognitive-Behavioral Therapy
 related:
-  - "[[Ambivalence]]"
-  - "[[stages-of-change-model]]"
-  - "[[Change Talk]]"
-  - "[[self-determination-theory]]"
+  - '[[Ambivalence]]'
+  - '[[stages-of-change-model]]'
+  - '[[Change Talk]]'
+  - '[[self-determination-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Ambivalence]]"
+  - '[[Ambivalence]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[stages-of-change-model]]"
+  - '[[stages-of-change-model]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Change Talk]]"
+  - '[[Change Talk]]'
 supports:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Motivational Interviewing
 
@@ -87,6 +86,9 @@ Reflective listening plays a crucial role in MI, as it involves the therapist re
 Ambivalence is a central concept in MI, as it recognizes that individuals often experience conflicting feelings about change. The approach aims to resolve this ambivalence by helping clients weigh their pros and cons, ultimately leading them towards greater clarity and motivation for change. This process is not about imposing external directives but rather supporting the client’s own journey of self-discovery and empowerment.
 
 The theoretical roots of MI are deeply embedded in SDT, which posits that individuals have innate psychological needs for autonomy, competence, and relatedness. By fostering these needs through autonomy-supportive practices, MI enhances clients' intrinsic motivation to change, leading to more sustainable behavioral outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Motivational Interviewing's effectiveness is further bolstered by its adaptability across diverse populations and settings, from adolescents to older adults, and in contexts ranging from mental health clinics to primary care offices. This versatility stems from MI’s emphasis on the client’s intrinsic motivations rather than a one-size-fits-all approach, allowing therapists to tailor their interventions based on individual needs and circumstances.
 
 ## Mechanism
 
@@ -108,6 +110,22 @@ The mechanism by which MI increases autonomous regulation for change is multifac
 > [!key-distinction] **MI vs Directive Counseling**
 > Unlike directive counseling, which often involves a therapist providing specific instructions or solutions to clients, MI focuses on eliciting the client’s own motivations for change. While both approaches aim to facilitate behavior change, MI is more client-centered and emphasizes autonomy-supportive practices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Motivational Interviewing (MI) distinguishes itself by focusing on intrinsic motivation—encouraging clients to change because they want to, not because an external authority demands it. This contrasts with approaches that rely heavily on extrinsic motivators like rewards or punishments. By fostering internal drive, MI aims for more sustainable behavior changes.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> MI promotes reflective thinking by encouraging clients to deeply consider their motivations and values rather than reacting impulsively. This distinction is crucial as it allows clients to make informed decisions based on self-reflection, enhancing the likelihood of lasting change.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think MI means therapists should never give advice.
+>
+> While MI emphasizes client autonomy and intrinsic motivation, it does not preclude therapists from offering guidance or suggestions. The key is to present these in a way that supports the client’s own decision-making process rather than imposing external directives.
+
 ## Key Figures
 
 - **William R. Miller** — Co-developer of Motivational Interviewing (MI), William R. Miller played a pivotal role in shaping the approach through his research and clinical work, particularly in substance use disorders.
@@ -125,11 +143,21 @@ The mechanism by which MI increases autonomous regulation for change is multifac
 >
 > *What would resolve it:* Qualitative research exploring the cultural adaptations of MI in various communities would help identify best practices for tailoring the approach to meet the unique needs of different groups.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Motivational Interviewing perform in long-term follow-up studies?
+>
+> *What would resolve it:* Longitudinal research is needed to determine the sustained impact of MI on client outcomes over extended periods. Such studies would help clarify whether the initial gains from MI are maintained and what factors contribute to lasting change.
+
 ## Synthesis
 
 Motivational Interviewing matters because it offers a powerful, evidence-based framework for enhancing client motivation and behavior change. By aligning with self-determination theory and fostering intrinsic motivation, MI can lead to more sustainable outcomes in various clinical settings. Its applications extend beyond substance use disorders into health behaviors and adherence, making it a versatile tool for mental health professionals.
 
 The integration of MI within broader cognitive-behavioral therapy (CBT) frameworks further enhances its effectiveness, as CBT’s structured approach complements MI’s client-centered dialogue. Together, these approaches provide a robust foundation for addressing complex behavioral challenges.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Motivational Interviewing stands out as a versatile and evidence-based approach within cognitive-behavioral therapy, particularly for enhancing intrinsic motivation and facilitating sustainable behavior change. Its alignment with self-determination theory underscores its potential to support clients in making meaningful life changes by fostering autonomy and internal drive.
 
 ## Connections & Context
 
@@ -144,3 +172,10 @@ The integration of MI within broader cognitive-behavioral therapy (CBT) framewor
 **Supports:** [[self-determination-theory]]
 
 **Source:** [[motivational-interviewing-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-determination-theory]]** — *supports*
+> Motivational Interviewing (MI) aligns closely with self-determination theory by fostering intrinsic motivation and autonomous regulation. This connection is vital because SDT provides the theoretical underpinning for why MI works, explaining how autonomy-supportive practices enhance clients' internal drive to change.

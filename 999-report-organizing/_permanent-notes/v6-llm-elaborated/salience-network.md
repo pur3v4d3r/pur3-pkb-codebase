@@ -1,11 +1,10 @@
 ---
-title: "Salience Network"
+title: Salience Network
 aliases:
-  - "Salience Network"
+  - Salience Network
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,57 +16,57 @@ subdomains:
   - attention-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "salience-network-synthetic-seed-2026-04-25"
+  - salience-network-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Large-Scale Brain Networks"
-
+depth-level: enhanced
+parent-concept: Large-Scale Brain Networks
 related:
-  - "[[default-mode-network]]"
-  - "[[executive-attention-network]]"
-  - "[[Attention-orienting]]"
+  - '[[default-mode-network]]'
+  - '[[executive-attention-network]]'
+  - '[[Attention-orienting]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[default-mode-network]]"
-  - "[[executive-attention-network]]"
+  - '[[default-mode-network]]'
+  - '[[executive-attention-network]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Attention-orienting]]"
+  - '[[Attention-orienting]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Salience Network
 
@@ -87,6 +86,9 @@ Theoretical roots of the Salience Network can be traced back to the concept of a
 
 Empirical evidence supports the Salience Network's importance in various cognitive functions. For instance, studies have shown that individuals with impaired salience-driven switching exhibit difficulties in tasks requiring rapid attentional shifts, such as those seen in schizophrenia where patients often struggle to disengage from irrelevant thoughts or bodily sensations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Salience Network's ability to detect and respond to behaviorally relevant stimuli is crucial for adaptive behavior, as it allows the brain to prioritize information that demands immediate attention over less urgent cognitive processes. This prioritization ensures that resources are allocated efficiently, enhancing both survival and performance in complex environments.
+
 ## Mechanism
 
 The Salience Network operates by integrating signals from various brain regions and comparing them against a threshold of behavioral relevance. When the network detects a stimulus that meets this criterion, it sends signals to other networks via neurotransmitters like dopamine and acetylcholine. These signals then activate or inhibit specific neural pathways in the EAN and DMN, facilitating the switch between internal and external cognition.
@@ -99,6 +101,11 @@ The Salience Network operates by integrating signals from various brain regions 
 > [!example] **Application 2 — Clinical interventions**
 > In clinical settings, targeting the Salience Network could lead to improved treatments for cognitive disorders. For instance, in chronic pain management, interventions that reduce over-attribution of salience to bodily sensations can help patients disengage from painful thoughts and focus on more positive experiences.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance learning by leveraging the Salience Network's role. By scheduling quizzes at intervals rather than consecutively, educators can increase the salience of material over time, prompting students to engage with content more deeply and frequently.
+
 ## Key Distinctions
 
 > [!key-distinction] **Salience Network vs Default Mode Network**
@@ -106,6 +113,19 @@ The Salience Network operates by integrating signals from various brain regions 
 
 > [!key-distinction] **Salience Network vs Executive Attention Network**
 > The Salience Network and the Executive Attention Network are both crucial for cognitive control but operate at different levels. The Salience Network acts as a meta-network, controlling when to switch between internal and external cognition, while the EAN is more directly involved in executing specific attentional tasks.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> The Salience Network operates at the intersection of top-down and bottom-up processing. Top-down processes involve using prior knowledge or expectations to interpret sensory information, while bottom-up involves direct perception driven by incoming stimuli. The network integrates both types of signals to determine salience, ensuring that behaviorally relevant cues are processed regardless of their source.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Salience Network only responds to external stimuli.
+>
+> The misconception arises from a narrow view of what constitutes 'behaviorally relevant' stimuli. The network also detects internal signals, such as interoceptive cues and emotional states, which are crucial for maintaining homeostasis and responding appropriately to bodily needs.
 
 ## Key Figures
 
@@ -123,11 +143,21 @@ The Salience Network operates by integrating signals from various brain regions 
 >
 > *What would resolve it:* Randomized controlled trials testing specific interventions aimed at enhancing salience-driven switching would help determine their efficacy in improving attentional control.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Salience Network's activity change during prolonged periods of stress?
+>
+> *What would resolve it:* Longitudinal studies tracking neural activity under chronic stress could reveal how sustained activation or dysregulation in the Salience Network affects cognitive flexibility and emotional regulation.
+
 ## Synthesis
 
 The Salience Network's role as a meta-network that controls the interactions between other large-scale brain networks underscores its critical importance for cognitive flexibility and adaptive behavior. By integrating signals from various regions, it ensures that the brain can efficiently switch focus based on what is most relevant at any given moment. This network's dysfunction has been linked to a range of cognitive disorders, highlighting its role in maintaining mental health and well-being.
 
 Understanding the Salience Network also has significant implications for fields such as instructional design and clinical interventions. By leveraging this knowledge, educators can create more engaging learning environments, while clinicians can develop targeted treatments that address specific aspects of cognitive control.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the Salience Network as a meta-network that orchestrates large-scale brain networks provides insights into the dynamic nature of cognition. Its role in switching between internal and external processes highlights its importance for adaptive behavior, making it a critical target for research on cognitive flexibility and mental health.
 
 ## Connections & Context
 
@@ -138,3 +168,10 @@ Understanding the Salience Network also has significant implications for fields 
 **Applies to:** [[Attention-orienting]]
 
 **Source:** [[salience-network-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Attention-orienting]]** — *applies-to*
+> The Salience Network directly applies to the process of attention-orienting by detecting stimuli that require immediate cognitive resources. This detection mechanism is fundamental for orienting attention towards behaviorally relevant information, ensuring efficient processing and response.

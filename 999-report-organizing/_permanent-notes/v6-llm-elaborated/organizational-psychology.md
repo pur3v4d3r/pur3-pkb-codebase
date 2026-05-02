@@ -1,13 +1,12 @@
 ---
-title: "Organizational Psychology"
+title: Organizational Psychology
 aliases:
-  - "Organizational Psychology"
-  - "I-O psychology"
-  - "work psychology"
+  - Organizational Psychology
+  - I-O psychology
+  - work psychology
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - management-science
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "organizational-psychology-synthetic-seed-2026-05-01"
+  - organizational-psychology-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social-Psychology"
-
+depth-level: enhanced
+parent-concept: Social-Psychology
 related:
-  - "[[Industrial-Organizational (I-O) psychology]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Goal-Setting Theory]]"
+  - '[[Industrial-Organizational (I-O) psychology]]'
+  - '[[Self-Determination Theory]]'
+  - '[[Goal-Setting Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Industrial-Organizational (I-O) psychology]]"
+  - '[[Industrial-Organizational (I-O) psychology]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Self-Determination Theory]]"
-  - "[[Goal-Setting Theory]]"
+  - '[[Self-Determination Theory]]'
+  - '[[Goal-Setting Theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Organizational Psychology
 
@@ -88,6 +87,9 @@ The field's theoretical roots lie in social psychology, which provides a framewo
 Empirically, Organizational Psychology has shown that workplace outcomes (performance, retention, well-being) are shaped at least as strongly by structural and interpersonal context as by individual selection. The construct of person-environment fit captures this empirical finding, indicating that the same individual will produce systematically different outcomes across different organizational designs.
 
 Historically, Organizational Psychology emerged from Industrial-Organizational (I-O) psychology in the early 20th century, focusing on workplace applications and human resource management. Over time, it has evolved to incorporate insights from various psychological theories, such as Goal-Setting Theory, which provides a framework for setting and achieving goals within organizational contexts.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Organizational Psychology also delves into the psychological impact of technological advancements in the workplace, such as automation and artificial intelligence. These technologies can alter job roles, necessitating new skills and competencies from employees. The field investigates how these changes affect employee morale, productivity, and overall organizational health.
 
 ## Mechanism
 
@@ -112,6 +114,22 @@ Organizational design influences individual behavior through several mechanisms.
 > [!key-distinction] **I-O psychology vs Organizational Psychology**
 > Industrial-Organizational (I-O) psychology is a subset of Organizational Psychology that specifically focuses on workplace applications. I-O psychologists often work in human resource management, while Organizational Psychologists may also study broader organizational dynamics and culture.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Intrinsic motivation refers to engaging in an activity for the inherent satisfaction one gets from it, while extrinsic motivation involves performing an action due to external rewards or pressures. In Organizational Psychology, understanding these motivations is crucial as they influence employee engagement and job performance differently.
+
+> [!key-distinction] **Performance vs Learning**
+> While performance focuses on immediate task completion, learning emphasizes long-term skill acquisition and knowledge retention. Organizational psychologists must balance these goals to ensure that employees not only meet current demands but also develop the skills necessary for future challenges.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Organizational Psychology is solely about improving productivity.
+>
+> This misconception overlooks the broader scope of Organizational Psychology, which includes enhancing employee well-being and fostering a positive organizational culture. While productivity is important, it is just one aspect among many that this field addresses.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is a key contributor to the field of Organizational Psychology through his work on Cognitive Load Theory. His research has significantly influenced how we understand and design training programs in organizational settings.
@@ -128,11 +146,21 @@ Organizational design influences individual behavior through several mechanisms.
 >
 > *What would resolve it:* Longitudinal studies tracking employees over extended periods in different organizational contexts could help determine the lasting impact of person-environment fit. Such research would provide a more comprehensive understanding of how individual characteristics interact with organizational environments.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the gig economy impact employee well-being according to Organizational Psychology?
+>
+> *What would resolve it:* Research into the psychological effects of non-traditional work arrangements like the gig economy is needed. This would help understand how these changes affect job satisfaction, stress levels, and overall mental health.
+
 ## Synthesis
 
 Organizational Psychology matters because it provides actionable insights for improving workplace performance and employee well-being. By integrating psychological theories with practical applications, it helps organizations create more effective work environments that foster motivation, collaboration, and overall success.
 
 This concept intersects with related fields such as Social-Psychology, I-O psychology, and Self-Determination Theory, enriching our understanding of human behavior in organizational settings. As Organizational Psychology continues to evolve, its contributions will likely extend beyond traditional management practices into areas like leadership development and organizational change.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Organizational Psychology's multifaceted approach to understanding workplace dynamics makes it a vital field for both academic inquiry and practical application. By integrating psychological theories with real-world organizational challenges, it offers actionable insights that can lead to more effective and humane work environments.
 
 ## Evidence
 
@@ -147,3 +175,13 @@ Organizational Psychology has demonstrated that workplace outcomes are significa
 **Applies to:** [[Self-Determination Theory]] · [[Goal-Setting Theory]]
 
 **Source:** [[organizational-psychology-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Self-Determination Theory]]** — *applies-to*
+> Self-Determination Theory provides a framework for understanding how employees' intrinsic needs for autonomy, competence, and relatedness influence their motivation and well-being in organizational settings. This theory is crucial for Organizational Psychology as it helps design work environments that support these psychological needs.
+
+> [!connection] **[[Goal-Setting Theory]]** — *applies-to*
+> Goal-Setting Theory explains how specific, challenging goals enhance performance by increasing motivation and focus. In Organizational Psychology, this theory is applied to set effective objectives for employees, thereby improving their productivity and engagement.

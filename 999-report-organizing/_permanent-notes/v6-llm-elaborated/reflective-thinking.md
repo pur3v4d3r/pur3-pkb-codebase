@@ -1,13 +1,12 @@
 ---
-title: "Reflective Thinking"
+title: Reflective Thinking
 aliases:
-  - "Reflective Thinking"
-  - "reflective inquiry"
-  - "reflection"
+  - Reflective Thinking
+  - reflective inquiry
+  - reflection
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - pragmatism
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "reflective-thinking-synthetic-seed-2026-04-24"
+  - reflective-thinking-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[critical-thinking]]"
-  - "[[Reflective Practice]]"
-  - "[[double-loop-learning]]"
+  - '[[critical-thinking]]'
+  - '[[Reflective Practice]]'
+  - '[[double-loop-learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[critical-thinking]]"
-  - "[[Reflective Practice]]"
+  - '[[critical-thinking]]'
+  - '[[Reflective Practice]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[double-loop-learning]]"
+  - '[[double-loop-learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Reflective Thinking
 
@@ -88,6 +87,9 @@ Dewey's model of Reflective Thinking then progresses to developing these potenti
 Theoretical roots of Reflective Thinking can be traced back to Dewey's work on inquiry and problem-solving, where he emphasized the importance of engaging with evidence and reasoning systematically rather than relying on impulsive or habitual thought patterns. This approach anticipates later developments in scientific reasoning and reflective practice, making it a foundational concept in educational psychology.
 
 Empirically, Reflective Thinking has been studied extensively in educational settings, particularly in professional development programs where educators are encouraged to engage in self-reflection and continuous improvement. However, the operationalization of this concept often falls short of Dewey's rigorous standards, with many reflective practices being more narrative-based than evidence-driven.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Reflective Thinking is not merely a cognitive process but also an emotional and social one, as it often involves engaging with others to gain different perspectives or feedback on the issues at hand. This collaborative aspect can enrich the reflective process by introducing new viewpoints that might not have been considered otherwise.
 
 ## Mechanism
 
@@ -109,6 +111,22 @@ Reflective Thinking proceeds through identifiable phases: encountering a felt di
 > [!key-distinction] **Reflective Thinking vs Habitual Cognition**
 > Reflective Thinking differs from habitual cognition in that it requires active engagement with evidence and reasoning rather than relying on routine thought patterns. Habitual cognition can lead to repetitive, unexamined behaviors, whereas Reflective Thinking promotes critical evaluation and continuous improvement.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective Thinking vs Reactive Thinking**
+> Reflective Thinking contrasts with reactive thinking in its deliberate and systematic nature. While reactive thinking involves immediate responses to stimuli without deep consideration, Reflective Thinking requires stepping back from the situation to analyze it thoroughly before formulating a response.
+
+> [!key-distinction] **Surface Processing vs Deep Processing**
+> Reflective Thinking aligns more closely with deep processing than surface processing. Surface processing focuses on rote memorization and superficial understanding, whereas Reflective Thinking encourages deeper cognitive engagement through critical analysis and evaluation of information.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that reflective thinking is a passive process.
+>
+> Reflective Thinking is an active mental activity requiring effortful engagement with ideas, evidence, and reasoning. It involves questioning assumptions, analyzing information critically, and synthesizing insights to form well-supported conclusions.
+
 ## Key Figures
 
 - **John Dewey** — John Dewey is credited with the origin of the concept of Reflective Thinking in his seminal work *How We Think* (1910/1933), where he outlined a structured process for inquiry and problem-solving.
@@ -125,6 +143,13 @@ Reflective Thinking proceeds through identifiable phases: encountering a felt di
 >
 > *What would resolve it:* Addressing these questions would involve empirical studies comparing the outcomes of structured versus unstructured reflective practices in professional settings.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the quality of reflective thinking vary across different cultural contexts?
+>
+> *What would resolve it:* Cross-cultural studies would help identify how societal values, educational practices, and communication styles influence the depth and effectiveness of Reflective Thinking.
+
 ## Synthesis
 
 Reflective Thinking is a critical concept that bridges educational psychology and critical thinking, offering a robust framework for inquiry and problem-solving. Its application in instructional design and professional development highlights its value in fostering continuous improvement and evidence-based practice. However, the challenge lies in operationalizing this concept with rigor to ensure it remains more than just a narrative exercise.
@@ -140,3 +165,10 @@ Reflective Thinking's broader implications extend beyond education into fields s
 **Applies to:** [[double-loop-learning]]
 
 **Source:** [[reflective-thinking-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[double-loop-learning]]** — *applies-to*
+> Reflective Thinking is integral to double-loop learning as it enables individuals to not only adapt their behaviors in response to feedback but also critically evaluate and potentially change underlying beliefs or assumptions that guide those behaviors.

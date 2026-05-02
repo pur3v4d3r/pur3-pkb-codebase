@@ -1,13 +1,12 @@
 ---
-title: "Pre-Training Principle"
+title: Pre-Training Principle
 aliases:
-  - "Pre-Training Principle"
-  - "pre-training"
-  - "vocabulary pre-instruction"
+  - Pre-Training Principle
+  - pre-training
+  - vocabulary pre-instruction
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - instructional-design
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pre-training-principle-synthetic-seed-2026-04-25"
+  - pre-training-principle-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[cognitive-load-theory]]"
-  - "[[prior-knowledge-activation]]"
-  - "[[schema-construction]]"
+  - '[[cognitive-load-theory]]'
+  - '[[prior-knowledge-activation]]'
+  - '[[schema-construction]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[cognitive-load-theory]]"
+  - '[[cognitive-load-theory]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[prior-knowledge-activation]]"
+  - '[[prior-knowledge-activation]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[schema-construction]]"
+  - '[[schema-construction]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Pre-Training Principle
 
@@ -88,6 +87,9 @@ Theoretical roots of this principle can be traced back to cognitive load theory,
 
 Empirical evidence supports the effectiveness of pre-training. For example, studies have shown that students who receive brief vocabulary-and-feature pre-training before a system-level explanation perform significantly better on subsequent assessments compared to those who do not.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Pre-Training Principle not only enhances initial learning but also supports long-term retention and transfer by facilitating schema construction. By familiarizing learners with key components beforehand, educators help students build a robust mental framework that can be easily expanded upon during the main instruction. This preparatory phase primes the brain to recognize patterns and connections more readily, which is crucial for deep understanding and application of knowledge in new contexts.
+
 ## Mechanism
 
 The mechanism behind the Pre-Training Principle involves shifting intrinsic load from working memory during main instruction. This is achieved by providing learners with key component names and features in a preparatory phase, allowing them to recognize these elements more quickly when they appear during the main lesson.
@@ -103,10 +105,28 @@ The mechanism behind the Pre-Training Principle involves shifting intrinsic load
 > [!example] **Application 3 — Complex systems education**
 > For subjects involving complex systems, such as computer programming or electrical engineering, pre-training can introduce students to key components like functions, circuits, or code structures. This preparation helps learners understand how these elements interact during main instruction, leading to more effective learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be effectively combined with pre-training to enhance learning outcomes. Educators might introduce key terms and concepts at the beginning of a course, then revisit them periodically throughout the course using quizzes or interactive activities. This approach leverages both the benefits of pre-training by reducing initial cognitive load and the effectiveness of spaced repetition for long-term retention.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Pre-Training Principle focuses on reducing intrinsic load by shifting vocabulary and feature recognition to a preparatory phase. In contrast, extraneous load refers to the cognitive demands of instructional materials that do not contribute to learning, such as poorly designed multimedia presentations or overly complex instructions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> While surface processing involves rote memorization without understanding, deep processing focuses on meaningful comprehension. Pre-Training Principle supports deep processing by ensuring learners are familiar with key components before diving into complex explanations. This familiarity allows students to engage more deeply with the material during main instruction, fostering better retention and application of knowledge.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think pre-training means extensive preparation.
+>
+> Pre-training does not require lengthy or detailed sessions. Its effectiveness lies in brief exposure to key terms and concepts, which helps reduce cognitive load during main instruction. Extensive pre-training might反而增加认知负荷，导致学习效率下降。
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ The mechanism behind the Pre-Training Principle involves shifting intrinsic load
 >
 > *What would resolve it:* Research is needed to investigate the applicability of pre-training across various domains and subject areas, including arts, humanities, and social sciences.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does pre-training affect long-term retention compared to immediate detailed instruction?
+>
+> *What would resolve it:* Empirical studies comparing the effects of pre-training with immediate detailed instruction on long-term retention would provide insights into whether preparatory exposure enhances or hinders long-term memory formation.
+
 ## Synthesis
 
 Understanding the Pre-Training Principle is crucial for educational design as it provides a framework for optimizing learning efficiency. By reducing intrinsic load through preparatory phases, educators can enhance students' ability to process complex information during main instruction. This principle also aligns with broader cognitive science theories and has practical applications in various teaching contexts, making it an essential concept for both researchers and practitioners.
 
 The Pre-Training Principle supports schema construction by helping learners build foundational knowledge before engaging in more detailed explanations. It also complements prior knowledge activation strategies, as pre-training can activate relevant background information, facilitating better learning transfer.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Pre-Training Principle is a powerful tool in educational design, aligning with broader cognitive science principles to optimize learning efficiency. By strategically reducing intrinsic load through preparatory phases, educators can enhance both immediate understanding and long-term retention of complex material across various domains.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ The Pre-Training Principle supports schema construction by helping learners buil
 **Supports:** [[schema-construction]]
 
 **Source:** [[pre-training-principle-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[prior-knowledge-activation]]** — *applies-to*
+> Pre-Training Principle applies to prior knowledge activation by providing a structured method for activating relevant background information. By introducing key terms and concepts in advance, educators can ensure that learners' existing schemas are activated, making new information easier to integrate during main instruction.

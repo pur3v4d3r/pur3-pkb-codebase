@@ -1,13 +1,12 @@
 ---
-title: "Relatedness Need"
+title: Relatedness Need
 aliases:
-  - "Relatedness Need"
-  - "need for relatedness"
-  - "need to belong"
+  - Relatedness Need
+  - need for relatedness
+  - need to belong
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "relatedness-need-synthetic-seed-2026-04-24"
+  - relatedness-need-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[autonomy-need]]"
-  - "[[competence-need]]"
-  - "[[attachment-theory]]"
+  - '[[autonomy-need]]'
+  - '[[competence-need]]'
+  - '[[attachment-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[autonomy-need]]"
-  - "[[competence-need]]"
+  - '[[autonomy-need]]'
+  - '[[competence-need]]'
 contrasts-with:
-  - "[[attachment-theory]]"
+  - '[[attachment-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Relatedness Need
 
@@ -89,6 +88,9 @@ Theoretical roots of the Relatedness Need trace back to Self-Determination Theor
 
 Empirical evidence supports the importance of the Relatedness Need in educational settings. For example, studies have demonstrated that when teachers provide warm, responsive interactions and create inclusive classroom environments, students are more likely to persist through challenging tasks and exhibit higher levels of intrinsic motivation. This underscores the critical role of relatedness in fostering a positive learning environment.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Relatedness Need is not merely about feeling connected to others but also involves a sense of being understood and accepted for one's true self, which can be particularly challenging in diverse educational settings where students may feel pressured to conform. This need underscores the importance of creating inclusive environments that value individual differences and foster mutual respect among peers.
+
 ## Mechanism
 
 The mechanism by which relatedness with teachers and peers positively impacts learners involves creating a sense of security and validation. When students feel valued for who they are, it reduces anxiety and increases their willingness to take risks and engage deeply with the material. This process is facilitated through consistent positive interactions, emotional support, and opportunities for collaboration.
@@ -104,15 +106,36 @@ The mechanism by which relatedness with teachers and peers positively impacts le
 > [!example] **Application 3 — Parental involvement**
 > Parents can play a vital role in satisfying the Relatedness Need by being present and supportive in their children's educational journey. This might involve attending school events, showing interest in their child’s progress, and providing emotional support at home. By doing so, parents help create a sense of belonging that extends beyond the classroom.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Peer mentoring programs**
+> Implementing peer mentoring programs can significantly enhance students' sense of relatedness. By pairing older, more experienced students with younger ones, these programs not only provide academic support but also foster a supportive community where mentees feel valued and understood.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Relatedness Need is distinct from intrinsic load (the cognitive effort required to process information) and extraneous load (unnecessary cognitive effort due to poor instructional design). While all three are related to learning, the Relatedness Need focuses on social connection and emotional support rather than the cognitive demands of the material. Understanding this distinction helps educators prioritize creating supportive relationships over merely increasing the difficulty or complexity of tasks.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation stems from personal interest or enjoyment in an activity, extrinsic motivation is driven by external rewards such as grades or recognition. The Relatedness Need intersects with both types of motivation; fulfilling this need can enhance intrinsic motivation by fostering a sense of belonging and purpose, whereas neglecting it may lead to reliance on extrinsic motivators.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that the Relatedness Need is solely about making friends.
+>
+> This misconception overlooks the deeper psychological requirement for feeling valued and understood. While friendships can contribute to relatedness, the need extends beyond mere social connections to include a sense of acceptance and validation from others.
+
 ## Key Figures
 
 - **Edward Deci** — Co-originator of Self-Determination Theory, Edward Deci has contributed significantly to our understanding of the Relatedness Need by emphasizing its importance in fostering intrinsic motivation and well-being.
 - **Richard Ryan** — Also a co-originator of Self-Determination Theory, Richard Ryan has further developed the concept of the Relatedness Need through extensive research on how social connections impact motivation and learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Richard Ryan** — Richard Ryan has extensively researched how fulfilling the Relatedness Need through supportive relationships can enhance students' intrinsic motivation and overall well-being, contributing to a more holistic understanding of educational psychology.
 
 ## Open Questions
 
@@ -125,6 +148,13 @@ The mechanism by which relatedness with teachers and peers positively impacts le
 > What are the long-term effects of satisfying or neglecting this need?
 >
 > *What would resolve it:* Longitudinal studies tracking students' well-being and academic outcomes over time could provide insights into the lasting impact of meeting or failing to meet the Relatedness Need.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the fulfillment of the Relatedness Need impact long-term academic success?
+>
+> *What would resolve it:* Empirical research examining longitudinal effects would help clarify whether fostering relatedness in early education stages leads to sustained benefits in academic performance and personal development.
 
 ## Synthesis
 
@@ -145,3 +175,10 @@ Empirical evidence supports the importance of the Relatedness Need in fostering 
 **Contrasts with:** [[attachment-theory]]
 
 **Source:** [[relatedness-need-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[attachment-theory]]** — *contrasts-with*
+> While Attachment Theory focuses on early childhood relationships with caregivers as foundational for later social behaviors, the Relatedness Need in Self-Determination Theory is broader and applies across all stages of life. Unlike Attachment Theory's emphasis on secure base formation, the Relatedness Need emphasizes ongoing emotional support and validation from peers and teachers.

@@ -1,13 +1,12 @@
 ---
-title: "Preregistration"
+title: Preregistration
 aliases:
-  - "Preregistration"
-  - "study preregistration"
-  - "pre-registration"
+  - Preregistration
+  - study preregistration
+  - pre-registration
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - research-methods
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "preregistration-synthetic-seed-2026-05-01"
+  - preregistration-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Open Science Practices"
-
+depth-level: enhanced
+parent-concept: Open Science Practices
 related:
-  - "[[Registered Reports]]"
-  - "[[Replication Crisis]]"
-  - "[[Hypothesis-Driven Research]]"
+  - '[[Registered Reports]]'
+  - '[[Replication Crisis]]'
+  - '[[Hypothesis-Driven Research]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Registered Reports]]"
+  - '[[Registered Reports]]'
 contrasts-with:
-  - "[[Replication Crisis]]"
+  - '[[Replication Crisis]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Hypothesis-Driven Research]]"
+  - '[[Hypothesis-Driven Research]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Preregistration
 
@@ -87,6 +86,9 @@ The core mechanism of preregistration lies in its ability to make the distinctio
 Theoretical roots and conceptual nuances of preregistration trace back to epistemological concerns about researcher degrees of freedom. These degrees of freedom allow researchers to make numerous decisions during data collection and analysis that can lead to biased results. Preregistration addresses this issue by making these decisions explicit and binding, thus reducing the potential for bias. However, it is crucial to note that vague preregistrations preserve enough analytic flexibility to leave the original problem largely untouched, while overly rigid ones discourage legitimate exploratory analysis.
 
 Empirical evidence supports the effectiveness of preregistration in improving study validity and reproducibility. For instance, fields that have adopted preregistration have seen a reduction in false-positive rates and an increase in replicability. This is because preregistration forces researchers to commit to specific hypotheses and methods before seeing any data, thereby reducing the temptation to engage in post-hoc adjustments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Preregistration not only enhances research transparency but also fosters a culture shift towards more rigorous and ethical scientific practices. By committing to a specific analysis plan, researchers are encouraged to think critically about their hypotheses and methods from the outset, rather than making decisions based on preliminary data or personal biases. This proactive approach can lead to more robust study designs that better withstand scrutiny and replication attempts.
 
 ## Mechanism
 
@@ -111,6 +113,19 @@ The process of creating a preregistration document involves several steps. First
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Preregistration is distinct from intrinsic load, which refers to the inherent complexity of a task. In contrast, preregistration focuses on extraneous load, or the cognitive resources required for decision-making during data analysis. By binding analytic decisions before data collection, preregistration reduces extraneous load and enhances research rigor.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Preregistration exemplifies reflective thinking by requiring researchers to contemplate their hypotheses, methods, and analysis plans before data collection. This contrasts with reactive thinking, where decisions are made in response to immediate data or results. Reflective thinking through preregistration helps mitigate the risk of confirmation bias and enhances the credibility of research findings.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Preregistration stifles creativity and flexibility in research.
+>
+> While it is true that preregistration requires researchers to commit to a specific plan, this does not necessarily stifle creativity. Instead, it channels creative energy into the design phase where hypotheses and methods are carefully crafted. This upfront planning can actually enhance the quality of research by ensuring that subsequent analysis is focused and rigorous.
+
 ## Key Figures
 
 - **John Ioannidis** — A leading contributor to discussions on the replication crisis, John Ioannidis has highlighted the importance of preregistration in addressing issues of researcher degrees of freedom that inflate false-positive rates.
@@ -127,11 +142,21 @@ The process of creating a preregistration document involves several steps. First
 >
 > *What would resolve it:* Guidelines and templates for creating detailed and specific preregistration documents would provide researchers with clear instructions on how to effectively implement this practice.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does preregistration impact the publication process?
+>
+> *What would resolve it:* Further studies on how journals handle preregistered studies could provide insights into whether such practices lead to faster or more rigorous peer review processes, potentially influencing editorial policies and researcher incentives.
+
 ## Synthesis
 
 Preregistration is crucial for addressing issues in the replication crisis by binding analytic decisions before data collection or analysis. By reducing researcher degrees of freedom, it enhances the reliability and replicability of research findings. Preregistration complements other open science practices like registered reports, which focus on peer review processes, but both are essential tools for improving scientific rigor.
 
 Preregistration supports hypothesis-driven research by ensuring that only pre-specified hypotheses can be tested. This not only improves study validity but also aligns with the goals of reproducible and transparent research. By integrating preregistration into existing research workflows, researchers can enhance the credibility of their findings and contribute to a more robust scientific community.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Preregistration stands as a cornerstone in the movement towards open science by promoting transparency, reducing bias, and enhancing the credibility of research findings. Its integration into various scientific disciplines underscores its versatility and importance in addressing contemporary challenges in empirical research.
 
 ## Connections & Context
 
@@ -144,3 +169,10 @@ Preregistration supports hypothesis-driven research by ensuring that only pre-sp
 **Applies to:** [[Hypothesis-Driven Research]]
 
 **Source:** [[preregistration-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Replication Crisis]]** — *contrasts-with*
+> Preregistration directly addresses issues highlighted in the replication crisis, such as researcher degrees of freedom leading to inflated false-positive rates. By committing analysis plans before data collection, preregistration reduces the likelihood of post-hoc adjustments that can compromise research validity and reproducibility.

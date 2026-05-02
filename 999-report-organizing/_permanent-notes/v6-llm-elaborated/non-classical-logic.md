@@ -1,14 +1,13 @@
 ---
-title: "Non Classical Logic"
+title: Non Classical Logic
 aliases:
-  - "Non Classical Logic"
-  - "Non-Classical Logic"
-  - "alternative logics"
-  - "non-classical systems"
+  - Non Classical Logic
+  - Non-Classical Logic
+  - alternative logics
+  - non-classical systems
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,57 @@ subdomains:
   - mathematics
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "non-classical-logic-synthetic-seed-2026-04-25"
+  - non-classical-logic-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: ""
-
+depth-level: enhanced
+parent-concept: ''
 related:
-  - "[[modal-logic]]"
-  - "[[Intuitionistic Logic]]"
-  - "[[formal-logic]]"
+  - '[[modal-logic]]'
+  - '[[Intuitionistic Logic]]'
+  - '[[formal-logic]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[modal-logic]]"
-  - "[[Intuitionistic Logic]]"
+  - '[[modal-logic]]'
+  - '[[Intuitionistic Logic]]'
 broader:
-  - "[[formal-logic]]"
+  - '[[formal-logic]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Non Classical Logic
 
@@ -90,6 +89,9 @@ Intuitionistic logic, on the other hand, focuses on constructive proof, meaning 
 
 Fuzzy logic allows for degrees of truth between completely true and completely false, which is crucial in applications such as control systems and artificial intelligence, where precision can be compromised by real-world uncertainties.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Non Classical Logic also encompasses paraconsistent logic, which allows for contradictions without leading to logical explosion — a situation where any statement can be proven true from a contradiction. This is particularly useful in systems that must handle inconsistent data or beliefs without breaking down entirely.
+
 ## Mechanism
 
 Modal logic operates through the introduction of modal operators like 'necessarily' (□) and 'possibly' (◇). These operators modify statements to express necessity or possibility. For example, □P means that P is necessarily true in all possible worlds, while ◇P indicates that it is possibly true in at least one world.
@@ -105,6 +107,11 @@ Modal logic operates through the introduction of modal operators like 'necessari
 > [!example] **Application 3 — Mathematics**
 > In mathematics, intuitionistic logic provides a framework for constructive proofs, ensuring that every theorem can be verified through explicit constructions and algorithms. This approach enhances the reliability of mathematical reasoning and proof verification.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Handling Inconsistent Data**
+> In database management, paraconsistent logic can be applied to ensure that a system does not crash when encountering contradictory information. For example, if two sources provide conflicting data about the same fact, paraconsistent logic allows the system to flag this inconsistency without rendering all other queries invalid.
+
 ## Key Distinctions
 
 > [!key-distinction] **Bivalence vs Many-Valued**
@@ -113,9 +120,25 @@ Modal logic operates through the introduction of modal operators like 'necessari
 > [!key-distinction] **Constructive Proof vs Classical Proof**
 > Intuitionistic logic requires proofs to be constructive, meaning they must provide an explicit method for verifying the statement's truth. In contrast, classical logic allows for non-constructive proofs that do not necessarily offer a way to verify the statement directly.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis of information, often using non-classical logics to explore complex scenarios. In contrast, reactive thinking is immediate and automatic, typically relying on classical logic for quick decision-making. Reflective thinking can benefit from the nuanced reasoning provided by non-classical systems.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Non Classical Logic is less rigorous than classical logic.
+>
+> This misconception arises because non-classical logics often appear more flexible or permissive. However, they are equally rigorous and formal, just with different foundational assumptions that allow for a broader range of logical expressions.
+
 ## Key Figures
 
 - **Arend Heyting** — Heyting was instrumental in developing intuitionistic logic, providing a rigorous foundation for constructive proof and expanding the scope of non-classical logics.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Jan Łukasiewicz** — Łukasiewicz developed multi-valued logics, which are a form of non-classical logic that allows for more than two truth values. His work laid foundational groundwork for handling uncertainty and ambiguity in logical systems.
 
 ## Open Questions
 
@@ -129,11 +152,21 @@ Modal logic operates through the introduction of modal operators like 'necessari
 >
 > *What would resolve it:* Advancements in computational methods and interdisciplinary collaboration between mathematicians, computer scientists, and philosophers could lead to more sophisticated and practical applications of non-classical logics.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can non-classical logics be integrated into existing legal frameworks?
+>
+> *What would resolve it:* Research into the application of modal logic to law could help resolve this question by exploring how concepts like necessity and possibility can be used to refine legal reasoning.
+
 ## Synthesis
 
 Non Classical Logic significantly expands our understanding of logical systems by relaxing core assumptions of classical logic. This expansion is crucial for modeling complex phenomena in various fields such as computer science, mathematics, and philosophy. By providing more nuanced frameworks, these non-classical logics enhance the precision and applicability of logical reasoning, making them indispensable tools for addressing real-world challenges.
 
 The importance of Non Classical Logic lies in its ability to bridge the gap between abstract theoretical constructs and practical applications. It offers a richer tapestry of logical systems that can better represent the complexities of human thought and natural phenomena, thereby enriching our overall understanding of logic and reasoning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Non Classical Logic not only broadens the scope of logical inquiry but also provides tools for addressing real-world complexities that classical logic cannot adequately capture. By accommodating a wider range of truth values, modalities, and contradictions, these systems offer robust frameworks for fields ranging from artificial intelligence to legal reasoning.
 
 ## Connections & Context
 
@@ -142,3 +175,10 @@ The importance of Non Classical Logic lies in its ability to bridge the gap betw
 **Generalizes to:** [[formal-logic]]
 
 **Source:** [[non-classical-logic-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Intuitionistic Logic]]** — *specializes*
+> Non Classical Logic specializes into Intuitionistic Logic by requiring proofs to be constructive, meaning that every proof must provide a method for constructing the object whose existence is claimed. This contrasts with classical logic's allowance of non-constructive proofs.

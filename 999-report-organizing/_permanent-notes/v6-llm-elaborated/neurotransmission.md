@@ -1,13 +1,12 @@
 ---
-title: "Neurotransmission"
+title: Neurotransmission
 aliases:
-  - "Neurotransmission"
-  - "synaptic transmission"
-  - "neural transmission"
+  - Neurotransmission
+  - synaptic transmission
+  - neural transmission
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - pharmacology
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "neurotransmission-synthetic-seed-2026-05-01"
+  - neurotransmission-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Neural Communication"
-
+depth-level: enhanced
+parent-concept: Neural Communication
 related:
-  - "[[Synaptic Plasticity]]"
-  - "[[Neuromodulation]]"
+  - '[[Synaptic Plasticity]]'
+  - '[[Neuromodulation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Synaptic Plasticity]]"
+  - '[[Synaptic Plasticity]]'
 contrasts-with:
-  - "[[Neuromodulation]]"
+  - '[[Neuromodulation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Neurotransmission
 
@@ -87,6 +86,9 @@ Historically, the study of neurotransmission has been pivotal in neuroscience, w
 
 Theoretical roots of neurotransmission trace back to early models of neural function, which posited that electrical signals alone could not fully explain the complexity of brain operations. The introduction of chemical signaling molecules as a means of communication provided a more comprehensive framework for understanding neural interactions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Neurotransmission's efficiency and specificity are finely tuned by a variety of factors, including the density of receptors on the postsynaptic membrane, the reuptake mechanisms that recycle neurotransmitters back into presynaptic neurons, and the presence of enzymes that break down excess neurotransmitter in the synaptic cleft. These regulatory processes ensure that neural communication is both precise and adaptable to changing conditions.
+
 ## Mechanism
 
 The process begins with vesicles containing neurotransmitters fusing with the presynaptic membrane, releasing their contents into the synaptic cleft. This fusion is triggered by an action potential reaching the axon terminal, leading to the exocytosis of neurotransmitter-filled vesicles.
@@ -101,14 +103,35 @@ Once released, neurotransmitters diffuse across the synaptic cleft and bind to s
 > [!example] **Application 2 — Pharmacotherapy**
 > In treating neurological disorders, targeting specific neurotransmitter systems can be highly effective. For example, selective serotonin reuptake inhibitors (SSRIs) work by modulating the levels of serotonin in the synaptic cleft, thereby influencing mood and behavior.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance learning by aligning with the natural release patterns of neurotransmitters like dopamine. By spacing out quizzes and assessments, educators can encourage students to engage in regular review sessions that mimic the brain's reward-based learning mechanisms.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Neurotransmission is intrinsic load, referring to the immediate and direct communication between neurons. In contrast, extraneous load involves neuromodulation, which acts diffusely on receptive circuits with delayed effects. Understanding this distinction helps in designing interventions that target specific neural pathways without unintended side effects.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> Neurotransmission often involves bottom-up processing where sensory inputs trigger neural responses. In contrast, top-down processing can modulate neurotransmission by influencing how incoming signals are interpreted and acted upon based on prior knowledge or expectations.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think all neurotransmitters have a uniform effect.
+>
+> Neurotransmitters like dopamine can have both excitatory and inhibitory effects depending on the receptor subtype they bind to. For example, D1 receptors typically produce excitatory responses while D2 receptors often lead to inhibition.
+
 ## Key Figures
 
 - **John Eccles** — A pioneer in synaptic transmission research, John Eccles contributed significantly to our understanding of how neurons communicate through chemical signaling. His work on the mechanisms of synaptic transmission provided foundational insights into neurotransmission.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Eric Kandel** — Kandel's work on the molecular mechanisms of synaptic plasticity in Aplysia californica provided critical insights into how neurotransmission supports long-term changes in neural circuits, contributing to our understanding of memory formation.
 
 ## Open Questions
 
@@ -122,11 +145,21 @@ Once released, neurotransmitters diffuse across the synaptic cleft and bind to s
 >
 > *What would resolve it:* Studies examining how external stimuli and experiences modulate neurotransmitter release and receptor sensitivity could provide insights into the dynamic nature of neural communication.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do genetic variations affect neurotransmitter systems?
+>
+> *What would resolve it:* Genetic studies examining polymorphisms in genes encoding for neurotransmitter receptors and transporters could reveal how individual differences influence neural communication, potentially explaining variability in cognitive functions and susceptibility to neurological disorders.
+
 ## Synthesis
 
 Neurotransmission is a cornerstone concept in neuroscience, underpinning our understanding of how information is processed within the brain. Its relevance extends beyond cognitive psychology to fields such as neuropsychiatry and neurology, where it informs therapeutic strategies for treating neurological disorders.
 
 By integrating neurotransmission with other concepts like synaptic plasticity, we can develop a more comprehensive model of neural function that accounts for both short-term and long-term changes in brain activity. This holistic approach is essential for advancing our knowledge of learning, memory, and mental health.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding neurotransmission not only illuminates the fundamental processes of neural communication but also provides a framework for developing targeted interventions in education and medicine. By integrating insights from synaptic plasticity and neuromodulation, researchers can create more nuanced models that account for both immediate signaling events and long-term adaptive changes in brain function.
 
 ## Connections & Context
 
@@ -137,3 +170,10 @@ By integrating neurotransmission with other concepts like synaptic plasticity, w
 **Contrasts with:** [[Neuromodulation]]
 
 **Source:** [[neurotransmission-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Synaptic Plasticity]]** — *applies-to*
+> Neurotransmission underpins synaptic plasticity by enabling changes in the strength of synapses over time. The dynamic interplay between neurotransmitter release and receptor sensitivity allows for both short-term potentiation and long-term modifications that are crucial for learning and memory.

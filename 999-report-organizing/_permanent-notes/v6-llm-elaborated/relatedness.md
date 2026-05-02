@@ -1,14 +1,13 @@
 ---
-title: "Relatedness"
+title: Relatedness
 aliases:
-  - "Relatedness"
-  - "OIT Internalization Continuum Deep Dive"
-  - "Internalization Mechanisms in SDT"
-  - "Autonomous Motivation Development"
+  - Relatedness
+  - OIT Internalization Continuum Deep Dive
+  - Internalization Mechanisms in SDT
+  - Autonomous Motivation Development
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -16,61 +15,61 @@ tags:
 
 domain: educational-psychology
 subdomains:
-  - ""
+  - ''
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-internalization-continuum-deep-dive-2026-04-21"
+  - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[autonomy]]"
-  - "[[competence]]"
-  - "[[self-determination-theory]]"
+  - '[[autonomy]]'
+  - '[[competence]]'
+  - '[[self-determination-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[autonomy]]"
-  - "[[competence]]"
-  - "[[self-determination-theory]]"
+  - '[[autonomy]]'
+  - '[[competence]]'
+  - '[[self-determination-theory]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Relatedness
 
@@ -89,6 +88,9 @@ In practice, relatedness manifests in various ways, such as through meaningful r
 Theoretical roots of relatedness can be traced back to SDT's emphasis on the importance of social contexts in psychological development. The three basic needs—autonomy, competence, and relatedness—are proposed not arbitrarily but based on specific developmental work each does in the internalization mechanism. Relatedness is particularly important for the initial taking-in of behaviors, ensuring that individuals feel supported and valued before they can fully internalize them.
 
 Empirical evidence supports the role of relatedness in psychological development. For example, consider a feedback episode where a writing instructor returns a graduate student's draft with substantial revision suggestions. The moment-to-moment processing of this feedback involves interpreting it informationally, which partially satisfies the competence need and preserves autonomy. However, the long-term internalization of these behaviors depends on whether the student feels cared for by their instructor, highlighting the importance of relatedness in fostering meaningful connections.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+In educational settings, relatedness is not merely a static state but an evolving process that can be nurtured through various pedagogical strategies. For instance, teachers who adopt student-centered approaches and foster classroom communities where students feel valued and heard are more likely to enhance their sense of relatedness. This approach contrasts with traditional teacher-centered methods that may prioritize content delivery over relational dynamics.
 
 ## Mechanism
 
@@ -110,6 +112,19 @@ The mechanism through which relatedness supports internalization involves a step
 > [!key-distinction] **Relatedness vs Competence**
 > Competence is about feeling effective in one's environment, while relatedness is about feeling connected and cared for. Although both are necessary for internalization, competence ensures that individuals feel capable of achieving their goals, whereas relatedness provides the emotional support needed to sustain motivation over time.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Relatedness vs Social Support**
+> While social support involves receiving assistance or resources from others, relatedness encompasses a deeper sense of connection and belonging. Unlike social support which can be transactional, relatedness is characterized by mutual care and shared experiences that contribute to one's psychological well-being.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that relatedness only matters in personal relationships.
+>
+> In reality, relatedness extends beyond just personal connections. It is crucial in educational and professional contexts as well, where it can significantly influence motivation and learning outcomes.
+
 ## Key Figures
 
 - **Edward L. Deci** — Deci is a key contributor to SDT and has extensively researched the role of relatedness in psychological development, emphasizing its importance for internalization processes.
@@ -127,6 +142,13 @@ The mechanism through which relatedness supports internalization involves a step
 >
 > *What would resolve it:* Studies comparing the effectiveness of online versus face-to-face interactions in satisfying relatedness needs could provide insights into this question.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the balance between autonomy and relatedness affect motivation in educational settings?
+>
+> *What would resolve it:* Research that explores how varying levels of autonomy support and relational connection impact student engagement and academic performance would provide valuable insights into optimizing learning environments.
+
 ## Synthesis
 
 The concept of relatedness is crucial for understanding how individuals develop a sense of self and motivation. By fostering meaningful connections, it supports the internalization process from external to introjection regulation, ensuring that behaviors are integrated into one's identity in a sustainable way. This has significant implications not only in educational settings but also in clinical and therapeutic contexts, where building strong relationships can enhance treatment outcomes.
@@ -140,3 +162,10 @@ Beyond its role within SDT, relatedness intersects with other psychological need
 **Sibling concepts:** [[autonomy]] · [[competence]] · [[self-determination-theory]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[autonomy]]** — *contrasts-with*
+> While autonomy emphasizes the need for personal freedom and self-determination, relatedness highlights the importance of social connections. Both are essential components of SDT but serve different developmental functions: autonomy fosters independence, whereas relatedness supports a sense of belonging.

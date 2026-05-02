@@ -1,12 +1,11 @@
 ---
-title: "Overjustification Effect"
+title: Overjustification Effect
 aliases:
-  - "Overjustification Effect"
-  - "crowding out of intrinsic motivation"
+  - Overjustification Effect
+  - crowding out of intrinsic motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - behavioural-economics
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "overjustification-effect-synthetic-seed-2026-04-24"
+  - overjustification-effect-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivation Research"
-
+depth-level: enhanced
+parent-concept: Motivation Research
 related:
-  - "[[Intrinsic Motivation Research]]"
-  - "[[self-determination-theory]]"
-  - "[[cognitive-evaluation-theory]]"
+  - '[[Intrinsic Motivation Research]]'
+  - '[[self-determination-theory]]'
+  - '[[cognitive-evaluation-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Intrinsic Motivation Research]]"
+  - '[[Intrinsic Motivation Research]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[cognitive-evaluation-theory]]"
+  - '[[cognitive-evaluation-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Overjustification Effect
 
@@ -87,6 +86,9 @@ Theoretical roots of this effect lie within Self-Determination Theory (SDT), whi
 
 Empirical evidence supporting this effect comes from meta-analyses such as those conducted by Deci, Koestner, and Ryan (1999), which indicate that while tangible rewards can sometimes decrease intrinsic motivation, informational feedback for high-quality performance does not produce the same negative effects. This suggests that the nature of the reward—whether it is controlling or informational—is crucial in determining its impact on intrinsic motivation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Overjustification Effect is not limited to tangible rewards; verbal praise can also have a detrimental impact on intrinsic motivation, especially if it is perceived as controlling or contingent upon performance rather than genuine appreciation of the activity itself (Deci & Ryan, 2000). This nuanced understanding highlights that the form and nature of external feedback play critical roles in either fostering or undermining internal engagement.
+
 ## Mechanism
 
 The mechanism behind the Overjustification Effect involves cognitive reframing, where an activity becomes perceived as a means to an end (instrumentally motivated) rather than an end in itself (self-endorsed). When rewards are introduced, they can alter how individuals perceive their actions, leading to a shift from intrinsic to extrinsic motivation.
@@ -99,10 +101,28 @@ The mechanism behind the Overjustification Effect involves cognitive reframing, 
 > [!example] **Application 2 — Workplace management**
 > Managers in the workplace can apply this concept by recognizing that offering bonuses or other tangible rewards for tasks employees already enjoy can diminish their intrinsic motivation. Instead, they should focus on fostering a work environment where tasks are engaging and rewarding in themselves, thereby maintaining high levels of intrinsic motivation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Gamification in Corporate Training**
+> In corporate training programs, gamifying tasks with points, badges, and leaderboards can initially boost participation. However, if these elements are removed after a period of use, employees who were previously motivated by the game-like features may experience a drop in intrinsic motivation towards their work. This underscores the need for careful design that integrates meaningful challenges and recognition to sustain long-term engagement without relying solely on extrinsic motivators.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Overjustification Effect is distinct from the concept of intrinsic versus extraneous load. Intrinsic load refers to the inherent difficulty of a task, while extraneous load includes any unnecessary cognitive demands imposed by external factors like rewards or instructions. The effect specifically addresses how external rewards can increase extraneous load and thus reduce intrinsic motivation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation stems from personal enjoyment or interest in an activity, extrinsic motivation is driven by external factors such as rewards, recognition, or avoiding punishment. The Overjustification Effect specifically addresses how introducing extrinsic motivators can diminish the internal drive to engage with an activity, highlighting a critical boundary between these two motivational states.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — The Overjustification Effect implies that all rewards are harmful.
+>
+> This misconception arises from oversimplifying the effect. While tangible rewards can reduce intrinsic motivation, not all forms of external incentives have negative impacts. For instance, non-contingent verbal praise or recognition for effort rather than outcome can enhance engagement without undermining internal satisfaction (Deci & Ryan, 2008). The key lies in understanding the nature and timing of the reward.
 
 ## Key Figures
 
@@ -122,11 +142,21 @@ The mechanism behind the Overjustification Effect involves cognitive reframing, 
 >
 > *What would resolve it:* Research examining different types of rewards, such as informational versus controlling feedback, could help determine if some forms of reward are less likely to produce the Overjustification Effect.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Overjustification Effect vary across different cultures?
+>
+> *What would resolve it:* Cross-cultural studies are needed to explore whether the effect is consistent or varies based on cultural values and norms regarding rewards, autonomy, and intrinsic motivation. Understanding these variations could inform more culturally sensitive approaches to fostering engagement in diverse settings.
+
 ## Synthesis
 
 Understanding the Overjustification Effect is crucial for educators and managers because it highlights the importance of fostering intrinsic motivation rather than relying solely on external rewards. By recognizing how external incentives can undermine internal engagement, professionals in these fields can design more effective strategies to maintain high levels of motivation among students and employees.
 
 The Overjustification Effect also intersects with broader concepts like Self-Determination Theory and Cognitive Evaluation Theory, which provide frameworks for understanding the complex interplay between intrinsic and extrinsic motivators. By integrating insights from these theories, researchers and practitioners can develop more nuanced approaches to enhancing motivation in various contexts.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from Cognitive Evaluation Theory and recognizing the nuanced impact of different types of external incentives, educators and managers can design environments that support both intrinsic and extrinsic motivations without triggering the Overjustification Effect. This balanced approach is crucial for sustaining long-term engagement in educational and professional contexts.
 
 ## Connections & Context
 
@@ -139,3 +169,10 @@ The Overjustification Effect also intersects with broader concepts like Self-Det
 **Applies to:** [[cognitive-evaluation-theory]]
 
 **Source:** [[overjustification-effect-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[cognitive-evaluation-theory]]** — *applies-to*
+> Cognitive Evaluation Theory provides a theoretical framework that explains why external rewards can undermine intrinsic motivation. According to this theory, when individuals perceive an activity as controlled by external factors, their sense of autonomy and competence is threatened, leading to decreased internal engagement (Deci & Ryan, 1985). This aligns with the Overjustification Effect's observation that tangible rewards can shift an activity from being self-endorsed to instrumentally motivated.

@@ -1,15 +1,14 @@
 ---
-title: "Organismic Metatheory"
+title: Organismic Metatheory
 aliases:
-  - "Organismic Metatheory"
-  - "SDT Foundational Report"
-  - "Self-Determination Theory Report"
-  - "Deci and Ryan Motivation Theory"
-  - "SDT Overview"
+  - Organismic Metatheory
+  - SDT Foundational Report
+  - Self-Determination Theory Report
+  - Deci and Ryan Motivation Theory
+  - SDT Overview
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,56 +22,56 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-foundational-report-2026-04-19"
+  - self-determination-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[cognitive-evaluation-theory]]"
-  - "[[achievement-goal-theory]]"
-  - "[[Intrinsic Motivation and Extrinsic Motivation]]"
+  - '[[cognitive-evaluation-theory]]'
+  - '[[achievement-goal-theory]]'
+  - '[[Intrinsic Motivation and Extrinsic Motivation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[cognitive-evaluation-theory]]"
+  - '[[cognitive-evaluation-theory]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[achievement-goal-theory]]"
+  - '[[achievement-goal-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Intrinsic Motivation and Extrinsic Motivation]]"
+  - '[[Intrinsic Motivation and Extrinsic Motivation]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Organismic Metatheory
 
@@ -91,6 +90,9 @@ The organismic integration tendency operates as a metabolic process that require
 The theoretical roots of organismic metatheory extend back to humanistic psychology, where the focus was on individual potential and self-actualization. SDT builds upon these ideas by formalizing them into a predictive framework that distinguishes between intrinsic and extrinsic motivation. This distinction is crucial because it explains why external rewards can sometimes undermine intrinsic motivation, a phenomenon not derivable from mechanistic metatheories.
 
 Empirically, the organismic metatheory has been supported through numerous studies demonstrating how autonomy-supportive environments enhance intrinsic motivation and well-being. For example, research by Deci and Ryan (1985) showed that when individuals are given choices in their activities, they report higher levels of engagement and satisfaction.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Organismic metatheory's emphasis on inherent growth tendencies has significant implications for educational and therapeutic practices, suggesting that individuals naturally seek opportunities to learn and develop when provided with autonomy-supportive environments. This perspective challenges traditional approaches that rely heavily on external rewards or punishments to motivate behavior, instead advocating for the creation of conditions that foster intrinsic motivation.
 
 ## Mechanism
 
@@ -112,6 +114,22 @@ The organismic integration tendency operates as a metabolic process requiring sp
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the natural growth tendency inherent in humans, while extraneous load includes external factors that can undermine this intrinsic motivation. The distinction matters because it explains why certain motivational strategies are more effective than others. For example, autonomy-supportive environments reduce extraneous load and enhance intrinsic motivation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Intrinsic motivation refers to engaging in an activity for its inherent satisfaction and personal enjoyment, while extrinsic motivation involves performing an action to achieve a separate outcome or reward. The distinction is crucial because intrinsic motivation tends to lead to more sustained engagement and better learning outcomes compared to extrinsic motivation.
+
+> [!key-distinction] **Developmental vs Adult-Oriented Perspectives**
+> Organismic metatheory applies across the lifespan, but its implications differ for developmental stages. In childhood, it emphasizes the importance of autonomy-supportive parenting in fostering intrinsic motivation and healthy development. For adults, it highlights the role of workplace environments that support autonomy and personal growth.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often think that organismic metatheory implies that all individuals will naturally grow and develop without any external influence.
+>
+> This misconception arises from a misunderstanding of the theory's emphasis on inherent growth tendencies. While humans have an innate drive towards psychological development, this process is contingent upon supportive environmental conditions. Without adequate support, intrinsic motivation can be undermined.
+
 ## Key Figures
 
 - **Richard M. Ryan** — Co-founder of SDT, Richard M. Ryan emphasized the philosophical and developmental dimensions of organismic metatheory, contributing to its formalization through concepts like OIT's internalization continuum and the development of BPNT and RMT.
@@ -128,11 +146,21 @@ The organismic integration tendency operates as a metabolic process requiring sp
 >
 > *What would resolve it:* Experiments comparing the motivational dynamics of humans and other organisms would provide insights into whether these principles are universally applicable.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural differences influence the effectiveness of autonomy-supportive practices in fostering intrinsic motivation?
+>
+> *What would resolve it:* Cross-cultural research on motivational strategies could provide insights into how different cultural contexts shape individuals' responses to autonomy support, thereby informing more culturally sensitive approaches.
+
 ## Synthesis
 
 Organismic metatheory is crucial for understanding human motivation because it provides a philosophical foundation that distinguishes SDT from mechanistic views. By emphasizing inherent growth tendencies, the theory offers a framework for predicting and explaining motivational phenomena across various domains such as education, work, and parenting. Its practical implications are far-reaching, influencing everything from instructional design to workplace management. The key distinctions between intrinsic and extraneous load highlight the importance of creating supportive environments that foster internalization and growth.
 
 The broader role of organismic metatheory in SDT's framework is to guide empirical research by providing a clear set of predictions about how different motivational strategies will impact individuals. This makes it an indispensable tool for researchers, practitioners, and educators seeking to enhance motivation and well-being.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Organismic metatheory not only provides a philosophical foundation for understanding human motivation but also offers practical guidelines for creating supportive environments that nurture intrinsic motivation and personal growth across various life stages and cultural contexts.
 
 ## Connections & Context
 
@@ -145,3 +173,10 @@ The broader role of organismic metatheory in SDT's framework is to guide empiric
 **Supports:** [[Intrinsic Motivation and Extrinsic Motivation]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Intrinsic Motivation and Extrinsic Motivation]]** — *supports*
+> Organismic metatheory supports the distinction between intrinsic and extrinsic motivation by providing a philosophical framework that explains why certain motivational strategies are more effective. It posits that autonomy-supportive environments foster intrinsic motivation, which is crucial for sustained engagement and personal growth.

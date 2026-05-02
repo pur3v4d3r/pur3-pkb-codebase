@@ -1,12 +1,11 @@
 ---
-title: "Neurogenesis"
+title: Neurogenesis
 aliases:
-  - "Neurogenesis"
-  - "adult neurogenesis"
+  - Neurogenesis
+  - adult neurogenesis
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - learning-and-memory
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "neurogenesis-synthetic-seed-2026-04-25"
+  - neurogenesis-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Neuroscience"
-
+depth-level: enhanced
+parent-concept: Neuroscience
 related:
-  - "[[synaptic-pruning]]"
-  - "[[BDNF]]"
+  - '[[synaptic-pruning]]'
+  - '[[BDNF]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[synaptic-pruning]]"
+  - '[[synaptic-pruning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[BDNF]]"
+  - '[[BDNF]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Neurogenesis
 
@@ -86,6 +85,9 @@ Theoretical roots of neurogenesis trace back to early studies in developmental n
 
 Empirical evidence supports these theoretical insights through studies showing that aerobic exercise, for instance, increases neurogenesis in the hippocampus, enhancing memory function. Conversely, chronic stress has been shown to reduce neurogenesis, leading to cognitive impairments. These findings highlight the importance of considering neurogenesis when studying factors affecting brain health and cognition.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Recent research has highlighted the role of neurogenesis in emotional regulation and mental health, suggesting that the generation of new neurons may play a critical part in mitigating symptoms of depression and anxiety. Studies have shown that individuals with major depressive disorder often exhibit reduced levels of hippocampal neurogenesis compared to healthy controls, indicating a potential link between low neurogenesis and mood disorders. Enhancing neurogenesis through interventions such as exercise or pharmacological treatments could therefore offer promising avenues for therapeutic approaches.
+
 ## Mechanism
 
 Neurogenesis is a multi-stage process that begins with the proliferation of neural stem cells into progenitor cells. These progenitors then differentiate into immature neurons, which undergo further maturation before migrating to their final destinations within the brain. During this migration and integration phase, new neurons form synaptic connections with existing neurons through processes such as synaptic pruning, where weaker or redundant synapses are eliminated to refine neural circuits.
@@ -101,14 +103,35 @@ Neurogenesis is a multi-stage process that begins with the proliferation of neur
 > [!example] **Application 3 — Neurological disorder treatments**
 > Research into enhancing neurogenesis holds promise for developing new therapies for neurological disorders like Alzheimer's disease. By identifying ways to boost neurogenesis, scientists may be able to slow down or even reverse the progression of these conditions through targeted interventions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can be strategically employed to enhance neurogenesis and improve learning outcomes. By spacing out study sessions over time rather than cramming all information into a single session, learners are more likely to generate new neurons that integrate the learned material into long-term memory. This approach not only aids in better retention of knowledge but also fosters cognitive flexibility by encouraging the brain to adapt and form new neural connections.
+
 ## Key Distinctions
 
 > [!key-distinction] **Neurogenesis vs Neuroplasticity**
 > While both processes contribute to brain function and plasticity, neurogenesis involves the generation of new neurons, whereas neuroplasticity focuses on changes in existing neuronal connections. Understanding this distinction is crucial for developing targeted interventions that leverage either or both mechanisms.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> While maintenance rehearsal involves simple repetition without deeper processing, elaborative rehearsal engages in meaningful linking of information. In the context of neurogenesis, maintenance rehearsal may not significantly stimulate new neuron generation compared to elaborative rehearsal which can lead to more robust neural networks and enhanced cognitive functions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that neurogenesis only occurs in childhood.
+>
+> This misconception arises from the belief that brain development is solely a juvenile process. However, research has shown that adult neurogenesis persists in specific regions of the brain such as the hippocampus. This ongoing generation of new neurons throughout adulthood underscores the brain's capacity for adaptation and repair.
+
 ## Key Figures
 
 - **Scott Small** — Dr. Scott Small has been a key figure in the study of adult neurogenesis, particularly focusing on its modulation by lifestyle factors such as exercise and stress. His research has provided important insights into how environmental influences can impact neural plasticity.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Fred Gage** — Dr. Fred Gage is renowned for his pioneering work on adult neurogenesis, particularly in identifying that new neurons can be generated in the hippocampus of adult mammals. His research has been instrumental in establishing the role of environmental factors and lifestyle choices in modulating neurogenesis.
 
 ## Open Questions
 
@@ -122,9 +145,19 @@ Neurogenesis is a multi-stage process that begins with the proliferation of neur
 >
 > *What would resolve it:* Clinical trials testing various interventions aimed at boosting neurogenesis could provide evidence for their efficacy in treating conditions like Alzheimer's disease and depression.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does age affect the rate and efficacy of neurogenesis?
+>
+> *What would resolve it:* Longitudinal studies tracking changes in neurogenesis across different age groups would help elucidate how aging impacts this process. Understanding these dynamics could inform strategies to mitigate cognitive decline associated with advanced age.
+
 ## Synthesis
 
 Neurogenesis is a fundamental process that underscores the brain’s capacity for adaptation and repair. By integrating with other concepts such as synaptic pruning and neuroplasticity, it provides a comprehensive framework for understanding how the brain can change in response to both internal and external stimuli. This knowledge has profound implications for fields ranging from education and mental health to neurological disease treatment, highlighting the importance of continued research into this dynamic process.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Neurogenesis, by enabling the brain to generate new neurons throughout life, provides a dynamic mechanism for adaptation and resilience against cognitive decline. Integrating insights from related concepts such as synaptic pruning and BDNF reveals a complex interplay of processes that collectively shape neural plasticity.
 
 ## Connections & Context
 
@@ -135,3 +168,10 @@ Neurogenesis is a fundamental process that underscores the brain’s capacity fo
 **Supports:** [[BDNF]]
 
 **Source:** [[neurogenesis-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[BDNF]]** — *supports*
+> Brain-Derived Neurotrophic Factor (BDNF) is a critical protein that supports neurogenesis by promoting the survival of existing neurons and encouraging the growth of new ones. BDNF acts as a fertilizer for neural stem cells, enhancing their proliferation and differentiation into mature neurons. This supportive role underscores the interdependence between BDNF levels and the rate of neurogenesis in various brain regions.

@@ -1,13 +1,12 @@
 ---
-title: "Performance-Approach Goal"
+title: Performance-Approach Goal
 aliases:
-  - "Performance-Approach Goal"
-  - "Performance Approach Goal"
-  - "normative approach goal"
+  - Performance-Approach Goal
+  - Performance Approach Goal
+  - normative approach goal
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "performance-approach-goal-synthetic-seed-2026-04-24"
+  - performance-approach-goal-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Achievement Goal Theory"
-
+depth-level: enhanced
+parent-concept: Achievement Goal Theory
 related:
-  - "[[mastery-approach-goal]]"
-  - "[[performance-avoidance-goal]]"
+  - '[[mastery-approach-goal]]'
+  - '[[performance-avoidance-goal]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[mastery-approach-goal]]"
-  - "[[performance-avoidance-goal]]"
+  - '[[mastery-approach-goal]]'
+  - '[[performance-avoidance-goal]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Performance-Approach Goal
 
@@ -88,6 +87,9 @@ Theoretical roots of Performance-Approach Goals are deeply embedded within Achie
 
 Empirical evidence supports the importance of Performance-Approach Goals in predicting attainment gains comparable to or exceeding those associated with mastery-approach goals. However, this finding is context-dependent; under conditions that threaten self-esteem, such as public rankings or perceived failure, Performance-Approach Goals can degrade into performance-avoidance goals, leading to detrimental outcomes like self-handicapping.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Performance-Approach Goals can also influence students' social dynamics within educational settings. When students prioritize outperforming their peers, it may foster a competitive atmosphere that can lead to increased stress and anxiety among learners. This heightened competition might discourage collaboration and sharing of knowledge, as students are more inclined to protect their own success rather than contribute to the collective learning environment.
+
 ## Mechanism
 
 The psychological mechanisms driving individuals towards a Performance-Approach Goal involve complex interplays of cognitive and motivational factors. Students with this goal orientation are likely to engage in more effortful processing strategies, such as elaborative rehearsal and deep-level processing, which enhance their understanding and retention of material. Additionally, the positive valence associated with outperforming peers can lead to increased intrinsic motivation and engagement.
@@ -105,6 +107,22 @@ The psychological mechanisms driving individuals towards a Performance-Approach 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Performance-Approach Goals focus on extraneous load, which refers to the cognitive demands imposed by external standards and comparisons with others. In contrast, mastery-approach goals are driven by intrinsic load, emphasizing personal growth and self-improvement without direct comparison to others.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Performance-Approach Goals are closely tied to extrinsic motivation, where individuals are driven by external rewards such as grades or recognition from peers. In contrast, mastery-approach goals align with intrinsic motivation, which is fueled by personal interest and satisfaction in the learning process itself. This distinction highlights how different goal orientations can shape students' engagement and persistence in academic tasks.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Students pursuing Performance-Approach Goals often engage in reactive thinking, responding quickly to immediate performance feedback without deep reflection on the learning process. This contrasts with mastery-approach goals, which encourage reflective thinking where students critically evaluate their understanding and strategies for improvement.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Performance-Approach Goals are always detrimental to student learning.
+>
+> While Performance-Approach Goals can lead to increased stress and competition, they also motivate students to engage in more effortful cognitive processes such as deep-level processing and elaborative rehearsal. This heightened engagement can enhance understanding and retention of material, provided the environment supports healthy competition without excessive pressure.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited as the originator of Performance-Approach Goal theory in his seminal work from 1988, which laid the groundwork for understanding how competence is defined and valued relative to others.
@@ -121,11 +139,21 @@ The psychological mechanisms driving individuals towards a Performance-Approach 
 >
 > *What would resolve it:* Longitudinal studies tracking students' academic trajectories over extended periods could provide insights into the lasting impacts of this goal orientation on learning outcomes and personal development.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural values influence the prevalence of Performance-Approach Goals among students?
+>
+> *What would resolve it:* Exploring how societal norms around competition and achievement impact student goal orientations could provide insights into why some cultures may see higher rates of Performance-Approach Goals compared to others.
+
 ## Synthesis
 
 Understanding Performance-Approach Goals is crucial for educators, counselors, and researchers in educational psychology. These goals play a significant role in shaping students' motivation and engagement, influencing their academic performance and overall well-being. By recognizing the nuanced benefits and risks associated with Performance-Approach Goals, practitioners can develop more effective strategies to support student success while mitigating potential negative outcomes.
 
 The concept of Performance-Approach Goals also intersects with other achievement goals such as mastery-approach and performance-avoidance goals, highlighting the complexity of goal orientations in educational settings. This intersection underscores the importance of a contextual approach to understanding and promoting adaptive goal-setting behaviors.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the nuances between different types of performance goals, such as Performance-Approach versus Performance-Avoidance, is crucial for educators aiming to foster a balanced learning environment that supports both healthy competition and personal growth.
 
 ## Connections & Context
 
@@ -134,3 +162,10 @@ The concept of Performance-Approach Goals also intersects with other achievement
 **Contrasts with:** [[mastery-approach-goal]] · [[performance-avoidance-goal]]
 
 **Source:** [[performance-approach-goal-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[performance-avoidance-goal]]** — *contrasts-with*
+> Performance-Approach Goals focus on achieving superior performance relative to peers, whereas Performance-Avoidance Goals aim to avoid inferior performance. This contrast highlights the different motivational drivers: one is driven by a desire for success and recognition, while the other seeks to prevent failure and embarrassment.

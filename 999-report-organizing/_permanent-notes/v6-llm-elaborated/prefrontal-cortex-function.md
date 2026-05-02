@@ -1,13 +1,12 @@
 ---
-title: "Prefrontal Cortex Function"
+title: Prefrontal Cortex Function
 aliases:
-  - "Prefrontal Cortex Function"
-  - "PFC"
-  - "prefrontal function"
+  - Prefrontal Cortex Function
+  - PFC
+  - prefrontal function
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - executive-function
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "prefrontal-cortex-function-synthetic-seed-2026-04-25"
+  - prefrontal-cortex-function-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[executive-attention-network]]"
+  - '[[working-memory]]'
+  - '[[executive-attention-network]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[executive-attention-network]]"
+  - '[[executive-attention-network]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Prefrontal Cortex Function
 
@@ -87,6 +86,9 @@ Theoretical roots of PFC function trace back to the concept of cognitive control
 
 Empirical evidence supports the critical role of the prefrontal cortex in these operations. For example, studies using functional magnetic resonance imaging (fMRI) have shown increased activity in the dorsolateral prefrontal cortex during tasks that require working memory and top-down attention control. These findings highlight the dynamic interactions between different brain regions in supporting higher-order cognitive functions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Recent research has highlighted the prefrontal cortex's role in social cognition, particularly in understanding others' mental states and intentions—a process known as theory of mind. This function is crucial for navigating complex social interactions and relies on the PFC’s ability to integrate information from various sources, including emotional cues and past experiences.
+
 ## Mechanism
 
 The mechanism underlying PFC function involves a complex network of reciprocal connections with other brain regions, particularly the parietal cortex for sensory integration and the limbic system for emotional regulation. These connections facilitate the exchange of information necessary for tasks such as working memory maintenance and top-down attention control. The prefrontal cortex sends signals to modulate activity in these regions, enhancing or inhibiting specific cognitive processes based on current goals.
@@ -104,6 +106,19 @@ The mechanism underlying PFC function involves a complex network of reciprocal c
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to how the task is presented. The prefrontal cortex plays a role in managing both types of load but does so differently. In tasks with high intrinsic load, PFC function helps maintain working memory and attention control. Conversely, in tasks with high extraneous load, it may struggle more due to the additional cognitive demands.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of options before acting, while reactive thinking is an immediate response without conscious deliberation. The prefrontal cortex supports reflective thinking by enabling individuals to pause and consider multiple perspectives or outcomes before making a decision.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that the prefrontal cortex solely handles complex cognitive tasks, ignoring its role in emotional regulation.
+>
+> While the PFC is indeed crucial for executive functions like planning and decision-making, it also plays a significant role in managing emotions. Its dense connections with limbic structures allow it to modulate emotional responses, ensuring that they align with current goals or contexts.
+
 ## Key Figures
 
 - **John Duncan** — In his seminal work from 1996, John Duncan highlighted the role of the prefrontal cortex in executive function and decision-making, emphasizing its importance in understanding higher-order cognitive processes.
@@ -120,9 +135,19 @@ The mechanism underlying PFC function involves a complex network of reciprocal c
 >
 > *What would resolve it:* Cross-cultural research comparing PFC development across different societies would help elucidate how environmental and cultural variables shape neural maturation and cognitive function.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the development of the prefrontal cortex during adolescence influence risk-taking behaviors?
+>
+> *What would resolve it:* Longitudinal studies tracking brain maturation alongside behavioral changes could provide insights into how PFC development affects decision-making and risk assessment in teenagers.
+
 ## Synthesis
 
 The importance of Prefrontal Cortex Function extends beyond individual cognition, influencing broader domains such as pedagogy and clinical interventions. By understanding the mechanisms underlying PFC function, educators can design more effective learning strategies that support working memory and executive function development. Clinicians can also develop targeted interventions to enhance cognitive control in patients with neurological disorders. Overall, the study of PFC function is crucial for advancing our knowledge of cognitive architecture and its implications for human development and well-being.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Prefrontal Cortex Function not only illuminates the neural underpinnings of executive control but also underscores its role in social cognition and emotional regulation, highlighting the interconnected nature of cognitive processes within the brain.
 
 ## Connections & Context
 
@@ -133,3 +158,10 @@ The importance of Prefrontal Cortex Function extends beyond individual cognition
 **Sibling concepts:** [[executive-attention-network]]
 
 **Source:** [[prefrontal-cortex-function-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is a foundational cognitive process that the prefrontal cortex heavily relies on for higher-order functions. The PFC uses working memory to temporarily hold and manipulate information, which is essential for tasks requiring planning or problem-solving.

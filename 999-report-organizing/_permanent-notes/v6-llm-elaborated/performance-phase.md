@@ -1,13 +1,12 @@
 ---
-title: "Performance Phase"
+title: Performance Phase
 aliases:
-  - "Performance Phase"
-  - "Zimmerman performance phase"
-  - "volitional control phase"
+  - Performance Phase
+  - Zimmerman performance phase
+  - volitional control phase
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "performance-phase-synthetic-seed-2026-04-24"
+  - performance-phase-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[forethought-phase]]"
-  - "[[self-reflection-phase]]"
-  - "[[cognitive-load-theory]]"
+  - '[[forethought-phase]]'
+  - '[[self-reflection-phase]]'
+  - '[[cognitive-load-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[forethought-phase]]"
-  - "[[self-reflection-phase]]"
+  - '[[forethought-phase]]'
+  - '[[self-reflection-phase]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[cognitive-load-theory]]"
+  - '[[cognitive-load-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Performance Phase
 
@@ -88,6 +87,11 @@ In practice, learners engage in a dynamic interplay between executing their task
 Theoretical roots of this phase are deeply embedded in cognitive load theory, particularly the role of working memory. John Sweller’s work on cognitive load suggests that too much extraneous information can overwhelm working memory, leading to breakdowns in performance. Therefore, supporting learners during this phase involves minimizing distractions and providing clear, concise instructions to keep their working memory from being overloaded.
 
 Empirical evidence supports the importance of this phase. For example, studies have shown that students who receive real-time feedback during problem-solving tasks perform better than those who only get feedback after completing a task. This underscores the critical role of self-observation and monitoring in ensuring effective execution.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Performance Phase is not merely about executing plans but also involves a dynamic interplay between task execution and strategy adjustment based on real-time feedback. This phase requires learners to continuously monitor their progress, which can be challenging due to the cognitive load involved in both performing tasks and simultaneously assessing one's own performance.
+
+Recent research has highlighted the importance of volitional control during this phase, emphasizing that learners must not only execute plans but also maintain motivation and persistence despite challenges. This aspect underscores the role of self-regulation mechanisms such as self-instruction and environmental structuring in sustaining effort over time.
 
 ## Mechanism
 
@@ -109,6 +113,22 @@ Learners use various mechanisms to regulate their performance, including attenti
 > [!key-distinction] **Performance Phase vs Self-Reflection Phase**
 > The Performance Phase precedes the Self-Reflection Phase, which involves evaluating one's performance after completing a task. While both phases involve reflection, the former is about execution and monitoring during the task, whereas the latter is about post-task evaluation and learning from experience.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Performance vs Learning**
+> While performance focuses on transient gains during task execution, learning emphasizes durable changes in knowledge or skills. During the Performance Phase, learners may achieve high performance through effective strategies but might not necessarily ensure long-term retention unless these efforts are coupled with reflective practices that foster deeper understanding.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Motivation plays a crucial role in the Performance Phase. Intrinsic motivation, driven by personal interest or enjoyment, can enhance performance and persistence compared to extrinsic motivation, which relies on external rewards or pressures. Understanding these motivational differences helps educators design supportive environments that foster both immediate task success and long-term engagement.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Performance Phase is solely about executing plans without adjustments.
+>
+> This misconception overlooks the dynamic nature of performance, where learners continuously monitor their progress and adjust strategies based on real-time feedback. This adjustment process is essential for effective task execution and highlights the importance of self-regulation mechanisms during this phase.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is recognized as the originator of the concept within the broader context of cognitive load theory. His work on minimizing extraneous cognitive load during task execution has significantly influenced our understanding of how learners regulate their performance.
@@ -125,11 +145,21 @@ Learners use various mechanisms to regulate their performance, including attenti
 >
 > *What would resolve it:* Empirical studies comparing different types of real-time support, such as automated vs. human feedback, would provide insights into effective monitoring and adjustment strategies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do different types of feedback (e.g., formative vs summative) impact performance during the Performance Phase?
+>
+> *What would resolve it:* Research into various feedback mechanisms could provide insights into how different types of feedback influence learners' ability to adjust strategies and maintain motivation during task execution.
+
 ## Synthesis
 
 The Performance Phase is a critical component of self-regulated learning because it bridges the gap between planning and reflection. By focusing on execution and regulation during task performance, learners can convert their intentions into outcomes effectively. This phase's significance extends beyond individual learning to broader educational practices, emphasizing the need for instructional design that supports real-time monitoring and adjustment.
 
 Understanding the Performance Phase also has implications for cognitive load theory and its applications in education. By integrating insights from this phase, educators can better support learners in managing their working memory and executing tasks efficiently, ultimately enhancing overall learning outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Performance Phase is pivotal in self-regulated learning as it bridges planning with reflection, emphasizing the dynamic interplay between executing tasks and adjusting strategies based on real-time feedback. Understanding this phase's mechanisms can inform instructional design to better support learners' performance and persistence during task execution.
 
 ## Connections & Context
 
@@ -140,3 +170,10 @@ Understanding the Performance Phase also has implications for cognitive load the
 **Supports:** [[cognitive-load-theory]]
 
 **Source:** [[performance-phase-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[cognitive-load-theory]]** — *supports*
+> Cognitive Load Theory provides a framework to understand how learners manage cognitive resources during task execution, which is central to the Performance Phase. By minimizing extraneous load and optimizing intrinsic load, educators can enhance learners' ability to focus on task-relevant information and adjust strategies effectively.

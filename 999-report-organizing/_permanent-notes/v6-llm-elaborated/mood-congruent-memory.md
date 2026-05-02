@@ -1,14 +1,13 @@
 ---
-title: "Mood Congruent Memory"
+title: Mood Congruent Memory
 aliases:
-  - "Mood Congruent Memory"
-  - "Mood-Congruent Memory"
-  - "mood congruence effect"
-  - "MCM"
+  - Mood Congruent Memory
+  - Mood-Congruent Memory
+  - mood congruence effect
+  - MCM
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,55 @@ subdomains:
   - emotion
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "mood-congruent-memory-synthetic-seed-2026-04-26"
+  - mood-congruent-memory-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[emotional-memory-enhancement]]"
+  - '[[working-memory]]'
+  - '[[emotional-memory-enhancement]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[emotional-memory-enhancement]]"
+  - '[[emotional-memory-enhancement]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Mood Congruent Memory
 
@@ -88,6 +87,9 @@ Theoretical roots of Mood Congruent Memory can be traced back to cognitive theor
 
 Empirical evidence supports this concept through various studies demonstrating that individuals tend to recall more negative memories when in a sad mood compared to a neutral or happy one. For example, a study by Conway et al. (2015) found that participants who were induced into a sad state remembered more negative autobiographical events than those in a neutral state.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Mood Congruent Memory not only affects what we remember but also how vividly and emotionally charged those memories become. Research indicates that when individuals recall events congruent with their current mood, the emotional intensity of these memories increases, potentially reinforcing the original emotional state even further. This heightened emotional resonance can lead to a more persistent impact on an individual's psychological well-being, as repeatedly recalling negative or positive experiences in line with one’s prevailing mood can amplify existing emotional states.
+
 ## Mechanism
 
 The mechanism behind Mood Congruent Memory involves the interaction between emotional states and memory processes. When an individual is in a particular mood, their brain's neural networks associated with that emotion become more active. This heightened activity facilitates the encoding of emotionally congruent information by strengthening the connections between neurons involved in processing similar emotions and experiences.
@@ -103,14 +105,35 @@ The mechanism behind Mood Congruent Memory involves the interaction between emot
 > [!example] **Application 3 — Marketing strategies**
 > Marketers can use Mood Congruent Memory to create advertisements that resonate with consumers' current emotional states. For example, during a holiday season, ads featuring joyous family gatherings are likely to be more effective in evoking positive emotions and encouraging purchases.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques are used to enhance learning and retention. Understanding Mood Congruent Memory can inform the timing of these retrievals, especially when students might be experiencing varying emotional states throughout their course. For instance, scheduling quizzes or review sessions during periods when students are likely to feel more positive could leverage Mood Congruent Memory to improve recall of key concepts.
+
 ## Key Distinctions
 
 > [!key-distinction] **Mood Congruent Memory vs State-Dependent Memory**
 > While Mood Congruent Memory focuses on the valence match between content and mood, state-dependent memory concerns recalling information better when in the same internal state as during encoding. For example, a student who studied for an exam while feeling anxious is more likely to recall the material if they are also anxious during the test, regardless of whether the content was emotionally congruent.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Explicit vs Implicit Memory**
+> Mood Congruent Memory operates primarily within the realm of explicit memory, where individuals consciously retrieve information. However, implicit memories, which are retrieved unconsciously and influence behavior without deliberate recall, can also be affected by mood congruence. For example, a person in a sad mood might implicitly avoid situations that remind them of past negative experiences, even if they do not actively remember these events.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Mood Congruent Memory means only negative memories are recalled during bad moods.
+>
+> While it is true that individuals in a negative mood tend to recall more negative memories, the phenomenon also applies to positive moods. For instance, someone feeling happy might remember joyful events from their past more vividly. This misconception arises because negative emotions often have more immediate and noticeable impacts on behavior, leading to an overemphasis on their role in Mood Congruent Memory.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating the concept of Mood Congruent Memory in his work on cognitive load theory. His research highlighted how emotional states can influence memory processes, providing a foundational understanding for this phenomenon.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Daniel Kahneman** — Although not directly credited with Mood Congruent Memory, Daniel Kahneman’s work on System 1 (fast, automatic) vs. System 2 (slow, deliberate) thinking provides a framework to understand how mood can influence memory processes without conscious effort.
 
 ## Open Questions
 
@@ -124,9 +147,19 @@ The mechanism behind Mood Congruent Memory involves the interaction between emot
 >
 > *What would resolve it:* Empirical studies that investigate the use of Mood Congruent Memory in therapeutic settings could provide insights into whether and how this phenomenon can be leveraged to promote mental well-being.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Mood Congruent Memory interact with the effects of chronic stress on cognitive function?
+>
+> *What would resolve it:* Research into this interaction could provide insights into how prolonged negative moods affect not just what is remembered, but also broader aspects of cognitive performance and mental health.
+
 ## Synthesis
 
 Mood Congruent Memory is a critical concept within cognitive psychology, offering valuable insights into the complex interplay between emotions and memory. By understanding how our emotional states shape what we remember, researchers and practitioners can develop more effective therapeutic interventions and marketing strategies. Moreover, this concept has broader implications for affective disorders, as it highlights the self-perpetuating nature of negative mood cycles. Further research is essential to fully harness the potential of Mood Congruent Memory in promoting mental health and enhancing cognitive processes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Mood Congruent Memory within the context of cognitive architecture highlights its role in shaping both individual psychological states and collective social dynamics. By recognizing how emotional congruence influences memory recall, researchers and practitioners can develop more nuanced approaches to education, therapy, and everyday interactions that account for the complex interplay between mood and cognition.
 
 ## Connections & Context
 
@@ -137,3 +170,10 @@ Mood Congruent Memory is a critical concept within cognitive psychology, offerin
 **Applies to:** [[emotional-memory-enhancement]]
 
 **Source:** [[mood-congruent-memory-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[emotional-memory-enhancement]]** — *applies-to*
+> Mood Congruent Memory directly applies to the enhancement of emotional memories. By understanding how mood influences memory recall, practitioners can design interventions that leverage this phenomenon to improve therapeutic outcomes or educational strategies. For example, in therapy, recalling positive experiences during a session could enhance the patient's mood and reinforce positive behaviors.

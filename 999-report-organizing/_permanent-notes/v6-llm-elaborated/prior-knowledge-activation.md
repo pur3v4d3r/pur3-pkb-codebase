@@ -1,13 +1,12 @@
 ---
-title: "Prior Knowledge Activation"
+title: Prior Knowledge Activation
 aliases:
-  - "Prior Knowledge Activation"
-  - "activating prior knowledge"
-  - "prior-knowledge prompting"
+  - Prior Knowledge Activation
+  - activating prior knowledge
+  - prior-knowledge prompting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "prior-knowledge-activation-synthetic-seed-2026-04-24"
+  - prior-knowledge-activation-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[Advance Organizer]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[Advance Organizer]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Advance Organizer]]"
+  - '[[Advance Organizer]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Prior Knowledge Activation
 
@@ -88,6 +87,9 @@ Theoretical roots of Prior Knowledge Activation trace back to cognitive load the
 
 Empirical evidence supports the benefits of Prior Knowledge Activation. For example, studies have shown that using advance organizers like KWL charts can significantly enhance reading comprehension and retention, particularly for complex texts. This is because these tools help students make connections between new information and their existing knowledge, facilitating deeper understanding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Prior Knowledge Activation is not merely about recalling past facts but involves a deeper cognitive process that integrates new information with existing schemas. This integration can lead to more robust and flexible knowledge structures, which are better equipped for transfer across different contexts and problem-solving scenarios.
+
 ## Mechanism
 
 Prior Knowledge Activation works by engaging learners in activities that elicit relevant prior knowledge before introducing new content. For instance, advance organizers such as KWL charts prompt students to think about what they already know (What I Know), what they want to learn (What I Want to Know), and what they have learned after the lesson (What I Learned). This process helps activate existing knowledge structures in working memory, making it easier for new information to be integrated.
@@ -103,14 +105,35 @@ Prior Knowledge Activation works by engaging learners in activities that elicit 
 > [!example] **Application 3 — Online education**
 > In online education, Prior Knowledge Activation can be particularly effective due to the lack of face-to-face interaction. Using interactive tools like KWL charts or pre-questions in digital platforms helps students prepare for new content, making remote learning more engaging and effective.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced by activating prior knowledge at intervals. For example, instructors might use quizzes that prompt students to recall information from previous lessons before introducing new content. This not only reinforces existing knowledge but also primes the working memory for better assimilation of upcoming material.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Prior Knowledge Activation is distinct from strategies that focus on reducing extraneous cognitive load. While both aim to optimize working memory capacity, Prior Knowledge Activation specifically targets the activation of relevant prior knowledge to enhance intrinsic processing. In contrast, strategies like worked examples primarily reduce the cognitive burden by providing step-by-step solutions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> While Prior Knowledge Activation often involves recognition tasks (e.g., identifying familiar concepts), it can also include recall activities that require students to retrieve information from memory without cues. Recognition is generally easier and faster, but recall exercises are more effective for deep learning as they engage higher-order cognitive processes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Prior Knowledge Activation only benefits novice learners.
+>
+> In reality, activating prior knowledge is beneficial across all levels of expertise. For advanced learners, it can help connect new information to existing complex schemas and facilitate the refinement or expansion of these structures.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating the concept of Prior Knowledge Activation in his work on cognitive load theory. His research highlighted the importance of reducing extraneous cognitive load through instructional design, which laid the foundation for strategies like advance organizers.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Maggie McKeachie** — Contributed significantly to understanding how Prior Knowledge Activation can be effectively integrated into instructional design through her work on educational psychology and learner-centered approaches.
 
 ## Open Questions
 
@@ -123,6 +146,13 @@ Prior Knowledge Activation works by engaging learners in activities that elicit 
 > What are the best practices for pairing Prior Knowledge Activation with other instructional strategies?
 >
 > *What would resolve it:* Empirical studies that explore the integration of Prior Knowledge Activation with worked examples, scaffolding, or other instructional methods would provide insights into optimal combinations and sequencing.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the timing of prior knowledge activation influence learning outcomes?
+>
+> *What would resolve it:* Research comparing immediate versus delayed activation could provide insights into optimal timing strategies, potentially revealing conditions under which early or late activation yields better results.
 
 ## Synthesis
 
@@ -139,3 +169,10 @@ Prior Knowledge Activation is a critical component in instructional design becau
 **Applies to:** [[worked-examples]]
 
 **Source:** [[prior-knowledge-activation-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Advance Organizer]]** — *see-also*
+> Both Prior Knowledge Activation and Advance Organizers serve as instructional strategies that prepare learners by activating relevant background knowledge. However, while Prior Knowledge Activation focuses on the activation process itself, Advance Organizers provide a structured framework to guide this activation, making them complementary tools in enhancing learning outcomes.

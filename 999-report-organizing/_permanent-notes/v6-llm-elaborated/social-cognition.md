@@ -1,12 +1,11 @@
 ---
-title: "Social Cognition"
+title: Social Cognition
 aliases:
-  - "Social Cognition"
-  - "social-cognitive psychology"
+  - Social Cognition
+  - social-cognitive psychology
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - social-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "social-cognition-synthetic-seed-2026-04-25"
+  - social-cognition-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Psychology"
-
+depth-level: enhanced
+parent-concept: Cognitive Psychology
 related:
-  - "[[dual-process-theory]]"
-  - "[[Cognitive Biases]]"
-  - "[[attribution-theory]]"
+  - '[[dual-process-theory]]'
+  - '[[Cognitive Biases]]'
+  - '[[attribution-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[dual-process-theory]]"
+  - '[[dual-process-theory]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Cognitive Biases]]"
-  - "[[attribution-theory]]"
+  - '[[Cognitive Biases]]'
+  - '[[attribution-theory]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Social Cognition
 
@@ -88,6 +87,9 @@ Theoretical roots of Social Cognition trace back to cognitive psychology, partic
 
 Empirically, Social Cognition has shown that ordinary social judgment relies heavily on schema-driven, dual-process inference—fast, automatic associations supplemented by slower deliberative correction. This is why Social Cognition has become the dominant theoretical lens in modern social psychology, providing a framework for understanding both accurate and inaccurate social inference.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Social Cognition also delves into how individuals navigate and interpret social hierarchies, roles, and norms within groups. This involves understanding not just the immediate perceptions of others but also the broader context of power dynamics and cultural expectations that shape these interactions.
+
 ## Mechanism
 
 The dual-process theory underpins Social Cognition, distinguishing between System 1 (fast, automatic) and System 2 (slow, deliberate). System 1 processes are often unconscious and rely on heuristics or mental shortcuts, while System 2 involves more controlled reasoning. This interaction is crucial for understanding how people form quick judgments but also engage in deeper analysis when necessary.
@@ -103,14 +105,35 @@ The dual-process theory underpins Social Cognition, distinguishing between Syste
 > [!example] **Application 3 — Marketing strategies**
 > Marketers can use Social Cognition principles to craft messages that resonate with consumers' schemas. By creating ads that tap into familiar mental models or using persuasive heuristics, marketers can influence consumer behavior more effectively. However, understanding the slower deliberative processes is also crucial for crafting long-term brand loyalty.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance social cognition by encouraging learners to revisit and reflect on social scenarios at intervals. This approach leverages the dual-process theory, where initial exposure might trigger System 1 processing through familiar schemas, while subsequent retrievals engage System 2 for deeper analysis and integration of new information.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > In Social Cognition, intrinsic load refers to the inherent difficulty of a task that can be managed mentally without additional strain. Extrinsic load, on the other hand, includes any additional mental effort imposed by external factors. Differentiating between these helps explain how social interactions are processed and why some tasks require more cognitive resources than others.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> In Social Cognition, top-down processing involves using pre-existing knowledge or expectations to interpret social cues, often leading to quicker judgments. In contrast, bottom-up processing relies on the immediate sensory information from a situation to form perceptions and interpretations. This distinction is crucial as it highlights how prior beliefs can shape our understanding of new social interactions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that Social Cognition only involves conscious thought processes.
+>
+> Social Cognition encompasses both conscious and unconscious cognitive mechanisms. While System 2 thinking is deliberate and requires effort, much of social perception and judgment occurs through automatic, often unconscious System 1 processing. This dual-process interaction underscores the complexity of how we understand and interact with others.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with introducing the concept of intrinsic and extraneous load in 1988, which has been foundational for understanding how information is processed during social interactions. His work laid the groundwork for Social Cognition by emphasizing the cognitive demands of social tasks.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Daniel Kahneman** — Kahneman's work on dual-process theory has been instrumental in elucidating how System 1 and System 2 thinking influence social cognition, providing a framework for understanding the interplay between automatic and deliberate cognitive processes.
 
 ## Open Questions
 
@@ -123,6 +146,13 @@ The dual-process theory underpins Social Cognition, distinguishing between Syste
 > What are the implications of schema-driven inference for social behavior?
 >
 > *What would resolve it:* Studying the role of schemas in shaping social behavior could reveal whether and how these mental structures influence decision-making and interaction, potentially leading to more effective interventions in education or therapy.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context affect the balance between System 1 and System 2 processing in Social Cognition?
+>
+> *What would resolve it:* Research exploring how different cultural backgrounds influence reliance on intuitive versus analytical thinking could provide insights into this question, potentially revealing variations in cognitive strategies across cultures.
 
 ## Synthesis
 
@@ -139,3 +169,10 @@ The field's focus on dual-process theory and schema-driven inference highlights 
 **Sibling concepts:** [[Cognitive Biases]] · [[attribution-theory]]
 
 **Source:** [[social-cognition-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[dual-process-theory]]** — *specializes*
+> Social Cognition specializes in the application of dual-process theory to social contexts. This connection is vital because it explains how individuals use both fast, intuitive judgments and slower, analytical reasoning when navigating social situations, highlighting the nuanced interplay between these cognitive processes.

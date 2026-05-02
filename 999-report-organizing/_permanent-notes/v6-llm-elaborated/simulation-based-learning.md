@@ -1,13 +1,12 @@
 ---
-title: "Simulation-Based Learning"
+title: Simulation-Based Learning
 aliases:
-  - "Simulation-Based Learning"
-  - "SBL"
-  - "simulation training"
+  - Simulation-Based Learning
+  - SBL
+  - simulation training
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - training-design
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "simulation-based-learning-synthetic-seed-2026-04-25"
+  - simulation-based-learning-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Design"
-
+depth-level: enhanced
+parent-concept: Instructional Design
 related:
-  - "[[deliberate-practice]]"
-  - "[[formative-assessment]]"
+  - '[[deliberate-practice]]'
+  - '[[formative-assessment]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[deliberate-practice]]"
+  - '[[deliberate-practice]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[formative-assessment]]"
+  - '[[formative-assessment]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Simulation-Based Learning
 
@@ -86,6 +85,9 @@ In practice, SBL operates by first immersing learners in a simulated environment
 The theoretical roots of SBL can be traced back to cognitive load theory, which posits that the human brain has limited capacity for processing information. By using simulations, SBL reduces extraneous cognitive load by providing a controlled environment where learners can focus on essential aspects of the task without being overwhelmed by real-world complexities. The debriefing component further enhances learning by addressing intrinsic cognitive load through reflection and error correction.
 
 Empirical evidence supports the effectiveness of SBL, particularly when paired with high-quality debriefing. Meta-analyses have shown that simulation-based training produces among the largest effect sizes in professional education literature, especially when structured debriefing is integrated into the learning process.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Simulation-based learning (SBL) has evolved significantly since its early applications in fields like aviation and medicine, where it was primarily used for training high-stakes skills. Today, SBL is increasingly adopted across various disciplines due to advancements in technology that allow for more sophisticated simulations and analytics. These technological improvements enable educators to track learner performance data in real-time, providing insights into individual learning patterns and areas needing improvement.
 
 ## Mechanism
 
@@ -110,6 +112,22 @@ SBL works by first immersing learners in a simulated environment where they can 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > SBL differs from other forms of learning by focusing on reducing extraneous cognitive load through simulations. In contrast, intrinsic cognitive load is inherent to the task and cannot be reduced; SBL aims to manage it effectively during debriefing sessions. By addressing intrinsic cognitive load through structured reflection, learners can better understand and retain complex information.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> In SBL, reflective thinking is crucial during debriefing sessions where learners analyze their actions and outcomes. This contrasts with reactive thinking, which occurs in the moment of simulation when immediate responses are required without time for reflection. The distinction matters because while reactive thinking focuses on quick decision-making under pressure, reflective thinking allows learners to understand why certain decisions were made or failed, fostering deeper learning.
+
+> [!key-distinction] **Performance vs Learning**
+> SBL aims not just at improving performance in simulations but also at promoting long-term learning. Performance gains may be evident immediately after training sessions, but true learning is indicated by the ability to apply knowledge and skills effectively in new situations over time. This distinction highlights that while SBL can enhance immediate task proficiency, its ultimate goal is durable skill acquisition.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think all simulations are equally effective for learning.
+>
+> The effectiveness of a simulation depends on how closely it mimics real-world conditions and the quality of debriefing that follows. Simulations must be designed to challenge learners appropriately without overwhelming them, balancing intrinsic cognitive load with manageable extraneous elements. Poorly designed simulations can lead to superficial engagement or frustration.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with the development of cognitive load theory, which forms a foundational basis for SBL. His work on managing cognitive load through simulations has significantly influenced the design and implementation of effective learning environments.
@@ -126,11 +144,21 @@ SBL works by first immersing learners in a simulated environment where they can 
 >
 > *What would resolve it:* Longitudinal studies tracking learners' performance over extended periods would provide insights into the lasting impact of SBL. Such research could help determine whether the skills learned through SBL are retained and transferred effectively to real-world situations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the quality of simulation design impact learning outcomes?
+>
+> *What would resolve it:* Research into the specific elements that make simulations effective, such as fidelity to real-world scenarios and the inclusion of realistic challenges, would help clarify how design choices influence learning.
+
 ## Synthesis
 
 SBL holds significant value in modern instructional design by providing a structured approach to learning that combines immersive practice with reflective debriefing. This method not only enhances skill acquisition but also improves retention and transfer of knowledge across various domains, from healthcare and aviation to military training. By leveraging the principles of cognitive load theory, SBL offers a powerful tool for educators and trainers to create effective learning experiences that prepare learners for real-world challenges.
 
 The integration of SBL into broader instructional design practices has the potential to revolutionize education by making it more engaging, practical, and efficient. As research continues to validate its effectiveness, SBL is likely to become an increasingly important component of professional development programs across multiple fields.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+SBL represents a paradigm shift in instructional design by integrating immersive practice with reflective feedback. This approach not only enhances immediate skill proficiency but also fosters deeper understanding and long-term retention, making it particularly valuable for complex task training across various fields.
 
 ## Evidence
 
@@ -145,3 +173,13 @@ Meta-analyses consistently find that simulation-based learning produces among th
 **Supports:** [[formative-assessment]]
 
 **Source:** [[simulation-based-learning-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[deliberate-practice]]** — *applies-to*
+> Deliberate practice is a structured approach to learning that emphasizes effortful activities aimed at improving performance. SBL aligns with this concept by providing controlled environments where learners can engage in repeated, focused practice of specific skills under varying conditions. This connection underscores how SBL facilitates deliberate practice through simulation and feedback.
+
+> [!connection] **[[formative-assessment]]** — *supports*
+> Formative assessment involves ongoing evaluation during the learning process to inform instruction and improve student performance. In SBL, formative assessments are embedded within simulations and debriefing sessions, allowing instructors to provide immediate feedback and adjust teaching strategies accordingly. This integration of formative assessment enhances the effectiveness of SBL by ensuring continuous improvement.

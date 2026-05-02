@@ -1,13 +1,12 @@
 ---
-title: "Need Support"
+title: Need Support
 aliases:
-  - "Need Support"
-  - "autonomy-supportive teaching"
-  - "need-supportive practice"
+  - Need Support
+  - autonomy-supportive teaching
+  - need-supportive practice
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "need-support-synthetic-seed-2026-04-24"
+  - need-support-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[autonomy-supportive-teaching]]"
-  - "[[self-determination-theory]]"
+  - '[[autonomy-supportive-teaching]]'
+  - '[[self-determination-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[autonomy-supportive-teaching]]"
-  - "[[self-determination-theory]]"
+  - '[[autonomy-supportive-teaching]]'
+  - '[[self-determination-theory]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Need Support
 
@@ -88,6 +87,9 @@ Theoretical roots of Need Support trace back to Self-Determination Theory (SDT),
 
 Empirical evidence supports the effectiveness of Need Support across various domains. Hundreds of intervention studies have shown that it produces moderate gains in autonomous motivation, engagement, and well-being, with effects generalizing across age, culture, and domain. This makes Need Support one of the most generalizable evidence-based interpersonal practices identified by motivation research.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The integration of Need Support in educational settings is not merely a theoretical construct but has profound practical implications for student engagement and academic performance. By fostering an environment that respects students' autonomy, challenges them appropriately to build competence, and ensures they feel connected through supportive relationships, educators can significantly enhance learning outcomes. This holistic approach contrasts with traditional teaching methods that may focus narrowly on imparting knowledge without considering the psychological needs of learners.
+
 ## Mechanism
 
 Need Support operates through a series of interconnected mechanisms that address each of the three basic psychological needs simultaneously. By providing meaningful rationale and choice, it supports autonomy; structured challenges with informative feedback enhance competence; and warm involvement with non-conditional regard nurtures relatedness. These components work together to create an environment where individuals feel both supported and challenged, leading to increased intrinsic motivation and well-being.
@@ -103,6 +105,11 @@ Need Support operates through a series of interconnected mechanisms that address
 > [!example] **Application 3 — Parenting**
 > Parents can use Need Support by involving their children in decision-making processes, providing guidance and feedback on their activities, and creating opportunities for social interaction. This approach helps children develop a sense of autonomy, competence, and relatedness, which are crucial for their psychological well-being.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Incorporating Need Support in blended learning**
+> Blended learning environments, which combine online and face-to-face instruction, offer unique opportunities to implement Need Support. Educators can use digital tools to provide personalized feedback and choices that cater to students' varying levels of autonomy and competence. Additionally, fostering a sense of relatedness through virtual group projects or discussion forums helps maintain social connections crucial for student motivation.
+
 ## Key Distinctions
 
 > [!key-distinction] **Need Support vs. autonomy-supportive teaching**
@@ -110,6 +117,19 @@ Need Support operates through a series of interconnected mechanisms that address
 
 > [!key-distinction] **Need Support vs. permissive warmth alone**
 > Permissive warmth alone, while important for relatedness, is insufficient as a standalone practice because it lacks support for autonomy and competence. Effective Need Support requires a balanced approach that includes meaningful choices (autonomy), structured challenges with feedback (competence), and warm involvement (relatedness).
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While both intrinsic and extrinsic motivations are important in educational settings, Need Support primarily aims to enhance intrinsic motivation by addressing the psychological needs of autonomy, competence, and relatedness. Unlike extrinsic motivators such as grades or rewards, which may provide temporary boosts but can undermine long-term engagement, Need Support fosters a deeper sense of personal investment in learning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that providing autonomy alone is sufficient for effective teaching.
+>
+> This misconception arises from the belief that giving students choices automatically leads to better outcomes. However, true Need Support requires a balanced approach that also includes structured challenges and supportive relationships. Without these elements, merely offering choices can lead to confusion or disengagement.
 
 ## Key Figures
 
@@ -128,11 +148,21 @@ Need Support operates through a series of interconnected mechanisms that address
 >
 > *What would resolve it:* Longitudinal studies tracking the impact of Need Support over extended periods could provide insights into its lasting benefits and potential drawbacks.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Need Support impact long-term academic achievement?
+>
+> *What would resolve it:* Research that tracks students' performance over extended periods would help determine whether Need Support leads to sustained improvements in learning outcomes beyond immediate engagement boosts. This could involve longitudinal studies comparing classrooms with and without integrated Need Support practices.
+
 ## Synthesis
 
 Need Support is a critical concept in motivation research because it provides a comprehensive framework for fostering psychological well-being and optimal functioning. By addressing autonomy, competence, and relatedness simultaneously, Need Support offers a practical operationalization of Self-Determination Theory that can be applied across various domains such as education, management, and parenting. Its generalizability and empirical support make it an essential tool for promoting intrinsic motivation, engagement, and well-being.
 
 The broader implications of Need Support extend beyond individual psychology to influence organizational culture, educational practices, and social relationships. By integrating these three basic psychological needs into daily interactions, individuals can experience a more fulfilling and meaningful existence, contributing positively to their personal and professional lives.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating the principles of Need Support into educational practices, educators can create environments that not only enhance immediate student engagement but also foster long-term academic success and personal development. This holistic approach underscores the importance of addressing psychological needs alongside traditional learning objectives to achieve optimal educational outcomes.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ The broader implications of Need Support extend beyond individual psychology to 
 **Sibling concepts:** [[autonomy-supportive-teaching]] · [[self-determination-theory]]
 
 **Source:** [[need-support-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-determination-theory]]** — *falls-under*
+> Need Support is a foundational concept within Self-Determination Theory (SDT), which posits that fulfilling basic psychological needs leads to optimal functioning. SDT provides the theoretical framework for understanding how Need Support operates, emphasizing the importance of autonomy, competence, and relatedness in fostering intrinsic motivation and well-being.

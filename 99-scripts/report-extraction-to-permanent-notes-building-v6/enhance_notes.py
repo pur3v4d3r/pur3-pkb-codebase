@@ -275,6 +275,21 @@ class EnhancementResponse(BaseModel):
     connection_rationales: list[_ConnectionRationale] = Field(default_factory=list)
     common_misconceptions: list[_Misconception] = Field(default_factory=list)
 
+    @field_validator(
+        "extra_explanation_paragraphs",
+        "extra_implications",
+        "extra_distinctions",
+        "extra_figures",
+        "extra_questions",
+        "connection_rationales",
+        "common_misconceptions",
+        mode="before",
+    )
+    @classmethod
+    def _coerce_null_to_empty_list(cls, v: object) -> object:
+        # LLMs sometimes emit `null` for empty arrays; treat as [].
+        return [] if v is None else v
+
     @field_validator("extra_explanation_paragraphs")
     @classmethod
     def _strip_blank_paragraphs(cls, v: list[str]) -> list[str]:

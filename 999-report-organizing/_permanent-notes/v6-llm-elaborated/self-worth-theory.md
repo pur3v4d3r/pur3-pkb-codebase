@@ -1,12 +1,11 @@
 ---
-title: "Self-Worth Theory"
+title: Self-Worth Theory
 aliases:
-  - "Self-Worth Theory"
-  - "self-worth motive"
+  - Self-Worth Theory
+  - self-worth motive
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-worth-theory-synthetic-seed-2026-04-25"
+  - self-worth-theory-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[ego-involvement]]"
-  - "[[fixed-mindset]]"
-  - "[[achievement-goal-theory]]"
+  - '[[ego-involvement]]'
+  - '[[fixed-mindset]]'
+  - '[[achievement-goal-theory]]'
 prerequisites:
-  - "[[ego-involvement]]"
+  - '[[ego-involvement]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[fixed-mindset]]"
+  - '[[fixed-mindset]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[achievement-goal-theory]]"
+  - '[[achievement-goal-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Self-Worth Theory
 
@@ -86,6 +85,9 @@ In practice, this theory operates by highlighting how visible effort that result
 The theory's roots lie in Covington’s observation that students often engage in behaviors aimed at preserving their self-worth, such as avoiding situations where they might fail. This is a form of defense mechanism that can be seen across various academic settings, from elementary school to higher education. The conceptual nuances include the idea that worth is not just about achievement but also about maintaining a positive self-image.
 
 Empirically, Self-Worth Theory has been supported by studies showing that students who perceive their ability as fixed are more likely to engage in self-handicapping behaviors. For example, a student might avoid studying for an exam they believe they will fail, thereby preserving the illusion of competence.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Self-Worth Theory also illuminates how societal and cultural contexts shape students' perceptions of ability and worth. In cultures that highly value academic success, the pressure to maintain a high sense of self-worth through achievement can be particularly intense. This cultural emphasis on academic performance as a measure of personal value can exacerbate the risks associated with visible effort and failure, pushing students towards avoidance strategies even more strongly.
 
 ## Mechanism
 
@@ -110,6 +112,22 @@ The mechanism through which Self-Worth Theory operates involves students' percep
 > [!key-distinction] **Self-Worth Theory vs Achievement-Goal Theory**
 > Achievement-Goal Theory is concerned with students' goals for success in academic settings, such as mastery or performance. Self-Worth Theory, on the other hand, focuses specifically on how students maintain their sense of personal worth through achievement and effort.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Self-Worth Theory primarily addresses extrinsic motivation, where individuals are driven by external rewards or the need to maintain self-worth. In contrast, intrinsic motivation involves engaging in activities for inherent satisfaction and interest rather than external validation. Understanding this distinction is crucial as it highlights how students motivated by self-worth may differ from those driven purely by internal enjoyment of learning.
+
+> [!key-distinction] **Performance vs Learning Goals**
+> Self-Worth Theory often aligns with performance goals, where the focus is on demonstrating ability and avoiding failure. This contrasts with learning goals, which emphasize personal growth and mastery over content. The distinction between these goal orientations can significantly impact how students approach challenges and setbacks in academic settings.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Self-Worth Theory suggests that all students equate their worth with their academic performance.
+>
+> While Self-Worth Theory posits a strong link between self-worth and achievement for many students, it does not claim this is universal. Individual differences in personality, cultural background, and personal values can moderate how strongly one's sense of self-worth is tied to academic success.
+
 ## Key Figures
 
 - **Markus V. Covington** — Covington is the originator of Self-Worth Theory, which he developed to explain how students' perceptions of ability influence their motivation and behavior in academic settings.
@@ -126,11 +144,21 @@ The mechanism through which Self-Worth Theory operates involves students' percep
 >
 > *What would resolve it:* Longitudinal studies tracking students who use self-handicapping strategies over time could shed light on their academic and psychological outcomes, helping to understand the long-term implications of these behaviors.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the interplay between self-worth and academic performance vary across different educational systems?
+>
+> *What would resolve it:* Comparative studies of educational practices in various countries could provide insights into how cultural values around achievement influence students' perceptions of ability and worth.
+
 ## Synthesis
 
 Self-Worth Theory is significant in understanding academic motivation because it provides a framework for explaining why capable students might underperform or avoid challenging tasks. By integrating this theory with other motivational concepts like Achievement-Goal Theory, educators and researchers can develop more comprehensive strategies to support student well-being and achievement.
 
 The theory's focus on the psychological impact of effort and failure highlights the importance of creating supportive learning environments that encourage risk-taking without fear of damaging self-worth. This has broader implications for educational policy and practice, emphasizing the need for interventions that promote a growth mindset and resilience.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating Self-Worth Theory with other motivational frameworks like Achievement-Goal Theory, educators can develop a more nuanced understanding of student behavior. This synthesis allows for tailored interventions that address both the need to maintain self-worth through achievement and the importance of fostering intrinsic motivation and learning goals.
 
 ## Connections & Context
 
@@ -143,3 +171,13 @@ The theory's focus on the psychological impact of effort and failure highlights 
 **Applies to:** [[achievement-goal-theory]]
 
 **Source:** [[self-worth-theory-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[achievement-goal-theory]]** — *applies-to*
+> Self-Worth Theory applies to Achievement-Goal Theory by providing a motivational framework that explains why students might adopt performance goals over learning goals. The fear of revealing low ability through visible effort aligns with the pursuit of performance goals, which prioritize demonstrating competence and avoiding failure.
+
+> [!connection] **[[fixed-mindset]]** — *contrasts-with*
+> While Self-Worth Theory focuses on maintaining self-worth through achievement, a fixed-mindset theory emphasizes the belief that abilities are static. The contrast lies in how these theories view ability: Self-Worth Theory sees it as a variable tied to personal worth, whereas a fixed-mindset views it as an unchangeable trait.

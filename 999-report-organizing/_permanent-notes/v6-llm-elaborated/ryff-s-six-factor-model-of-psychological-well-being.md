@@ -1,13 +1,12 @@
 ---
-title: "Ryff's Six-Factor Model of Psychological Well-Being"
+title: Ryff's Six-Factor Model of Psychological Well-Being
 aliases:
-  - "Ryff's Six-Factor Model of Psychological Well-Being"
-  - "Ryff PWB model"
-  - "Scales of Psychological Well-Being"
+  - Ryff's Six-Factor Model of Psychological Well-Being
+  - Ryff PWB model
+  - Scales of Psychological Well-Being
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - eudaimonic-psychology
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "ryffs-six-factor-model-of-psychological-well-being-synthetic-seed-2026-05-01"
+  - ryffs-six-factor-model-of-psychological-well-being-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Positive Psychology"
-
+depth-level: enhanced
+parent-concept: Positive Psychology
 related:
-  - "[[Psychological Flourishing]]"
-  - "[[Eudaimonia]]"
-  - "[[Hedonic Well-Being]]"
+  - '[[Psychological Flourishing]]'
+  - '[[Eudaimonia]]'
+  - '[[Hedonic Well-Being]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Psychological Flourishing]]"
+  - '[[Psychological Flourishing]]'
 contrasts-with:
-  - "[[Eudaimonia]]"
-  - "[[Hedonic Well-Being]]"
+  - '[[Eudaimonia]]'
+  - '[[Hedonic Well-Being]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Ryff's Six-Factor Model of Psychological Well-Being
 
@@ -89,6 +88,9 @@ Theoretical roots of the model trace back to humanistic psychology, emphasizing 
 
 Developmental trajectories across the lifespan reveal that certain dimensions peak at different stages. Environmental mastery and autonomy typically increase into midlife as individuals gain more experience and confidence in managing their environments. Conversely, purpose in life tends to decline in late adulthood due to changes in personal goals and priorities.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Ryff's model has been influential in shifting the focus from merely assessing happiness to understanding deeper psychological health. This shift is particularly evident in how it addresses personal growth, which involves continuous self-improvement and learning throughout life. Unlike hedonic measures that often capture transient emotional states, Ryff’s dimensions are more enduring and reflective of long-term psychological development.
+
 ## Mechanism
 
 The model's operationalization of eudaimonic well-being involves a series of steps where each dimension is assessed independently using the SPWB. This process allows for a comprehensive evaluation of an individual’s psychological health, ensuring that no aspect of well-being is overlooked.
@@ -104,10 +106,28 @@ The model's operationalization of eudaimonic well-being involves a series of ste
 > [!example] **Application 3 — Educational policy**
 > Educators can implement policies that support the development of all six dimensions, such as providing opportunities for community service to enhance purpose in life or offering counseling services to promote self-acceptance. This holistic approach ensures a well-rounded educational experience.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Integrating Autonomy in Workplace Programs**
+> Workplace programs can leverage the autonomy dimension to enhance employee well-being. By fostering environments where employees feel they have control over their work, organizations not only improve job satisfaction but also reduce burnout and turnover rates. This approach aligns with Ryff's emphasis on self-determination as a key component of psychological health.
+
 ## Key Distinctions
 
 > [!key-distinction] **Eudaimonic vs Hedonic Well-Being**
 > Ryff's model contrasts with hedonic measures of well-being, which focus on positive emotions and life satisfaction. Eudaimonic well-being emphasizes personal growth, autonomy, and meaningful engagement in life activities, making it distinct from the purely pleasure-based approach.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Intrinsic motivation, driven by personal interest or enjoyment, contrasts with extrinsic motivation, which is influenced by external rewards. Ryff's model highlights intrinsic motivations through dimensions like autonomy and personal growth, suggesting that internal drivers contribute more significantly to psychological well-being than external incentives.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think self-acceptance means being complacent.
+>
+> Self-acceptance in Ryff's model does not imply complacency but rather a balanced view of oneself, acknowledging both strengths and weaknesses. This acceptance fosters resilience and personal growth by allowing individuals to address areas for improvement without being overwhelmed by negative self-perceptions.
 
 ## Key Figures
 
@@ -131,6 +151,9 @@ Ryff's Six-Factor Model of Psychological Well-Being is significant because it pr
 
 The model's focus on personal growth and meaningful engagement aligns with broader concepts in positive psychology, such as flourishing and resilience. Its emphasis on autonomy and self-acceptance also resonates with humanistic psychology’s focus on individual potential and subjective well-being.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating multiple dimensions of psychological health, Ryff's model offers a robust framework that complements other approaches to well-being. Its focus on intrinsic motivations and personal growth provides a nuanced understanding of what contributes to long-term psychological health beyond mere happiness or satisfaction.
+
 ## Evidence
 
 Ryff's model has been validated through extensive research using the Scales of Psychological Well-Being (SPWB), which measures each dimension independently. This validation underscores the distinctiveness of each factor, allowing for a nuanced understanding of well-being. Additionally, developmental trajectories across the lifespan reveal that certain dimensions peak at different stages, providing empirical support for the model's multi-dimensional approach.
@@ -144,3 +167,10 @@ Ryff's model has been validated through extensive research using the Scales of P
 **Contrasts with:** [[Eudaimonia]] · [[Hedonic Well-Being]]
 
 **Source:** [[ryffs-six-factor-model-of-psychological-well-being-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Psychological Flourishing]]** — *contrasts-with*
+> While Ryff's model focuses on the psychological dimensions of well-being, Psychological Flourishing emphasizes a holistic approach that includes both eudaimonic and hedonic aspects. This distinction highlights how Ryff’s framework is more specialized in understanding deep psychological health, whereas flourishing aims for an all-encompassing state of well-being.

@@ -1,14 +1,13 @@
 ---
-title: "Perceived Self-Efficacy"
+title: Perceived Self-Efficacy
 aliases:
-  - "Perceived Self-Efficacy"
-  - "Self-Efficacy Theory Foundational Report"
-  - "Bandura Self-Efficacy"
-  - "Perceived Self-Efficacy Foundations"
+  - Perceived Self-Efficacy
+  - Self-Efficacy Theory Foundational Report
+  - Bandura Self-Efficacy
+  - Perceived Self-Efficacy Foundations
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,55 @@ subdomains:
   - motivation-science
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-efficacy-theory-foundational-report-2026-04-20"
+  - self-efficacy-theory-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social-Cognitive Theory"
-
+depth-level: enhanced
+parent-concept: Social-Cognitive Theory
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Perceived Self-Efficacy
 
@@ -89,6 +88,9 @@ The concept of perceived self-efficacy is deeply rooted in Albert Bandura's soci
 
 Empirical research has shown that perceived self-efficacy can predict academic achievement, job performance, and even physical health outcomes. For example, students with high perceived self-efficacy are more likely to engage in effective study strategies and persist through challenging coursework.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Perceived self-efficacy is not merely a static belief but a dynamic construct that fluctuates based on situational factors and personal experiences. For example, an individual's confidence in their ability to solve complex problems may wane under high levels of stress or after repeated failures, only to be restored through supportive feedback or successful completion of simpler tasks.
+
 ## Mechanism
 
 Perceived self-efficacy is developed and maintained through several mechanisms. Mastery experiences play a crucial role; repeated successful performance on tasks enhances one's belief in their capabilities. Verbal persuasion, such as encouragement from teachers or peers, can also bolster self-efficacy beliefs. Additionally, emotional arousal, like stress or anxiety, can either enhance or undermine these beliefs depending on how individuals interpret and manage their emotions.
@@ -104,6 +106,11 @@ Perceived self-efficacy is developed and maintained through several mechanisms. 
 > [!example] **Application 3 — Personal development**
 > For personal development, individuals who set realistic yet challenging goals and track their progress are more likely to develop a strong sense of self-efficacy. This can lead to improved mental health outcomes as they experience success in various domains of life.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance perceived self-efficacy among learners. By scheduling regular, low-stakes quizzes that revisit material over time rather than cramming all information at once, instructors foster a sense of mastery and control over the content, which in turn boosts students' belief in their ability to understand and apply complex concepts.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
@@ -111,6 +118,19 @@ Perceived self-efficacy is developed and maintained through several mechanisms. 
 
 > [!key-distinction] **Self-Efficacy vs Self-Esteem**
 > Self-efficacy focuses on the belief in one’s capabilities for specific tasks, whereas self-esteem encompasses a broader evaluation of oneself. High self-efficacy does not necessarily correlate with high self-esteem; an individual can be highly efficacious yet have low overall self-worth or vice versa.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis of one's actions and outcomes, whereas reactive thinking is immediate and often automatic. Perceived self-efficacy can influence whether an individual engages in reflective or reactive thinking; those with higher self-efficacy are more likely to reflect on their performance and adjust strategies accordingly, leading to better long-term learning outcomes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that high self-esteem always correlates with high perceived self-efficacy.
+>
+> While there is some overlap between self-esteem and perceived self-efficacy, they are distinct constructs. Self-esteem refers to a general sense of worthiness or value as a person, whereas perceived self-efficacy specifically pertains to one's belief in their ability to perform specific tasks effectively. High self-esteem does not necessarily translate into high efficacy beliefs across all domains.
 
 ## Key Figures
 
@@ -128,11 +148,21 @@ Perceived self-efficacy is developed and maintained through several mechanisms. 
 >
 > *What would resolve it:* Developing standardized and validated measures that capture both cognitive and affective components of self-efficacy could provide more accurate assessments.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the interplay between perceived self-efficacy and intrinsic motivation affect long-term learning outcomes?
+>
+> *What would resolve it:* Longitudinal studies examining how changes in perceived self-efficacy influence intrinsic motivation over time could provide insights into their mutual reinforcement or undermining effects on sustained engagement with challenging tasks.
+
 ## Synthesis
 
 Perceived self-efficacy is a foundational concept in social-cognitive psychology, offering insights into how individuals approach challenges and make decisions. Its influence extends beyond individual behavior to educational, workplace, and personal settings, where it can enhance performance and motivation. By understanding the mechanisms that shape perceived self-efficacy and its practical applications, we gain valuable tools for improving outcomes across various domains.
 
 The concept of perceived self-efficacy also has broader implications for understanding human behavior by highlighting the importance of context-specific beliefs in shaping actions. This aligns with the principles of social-cognitive theory, which emphasizes the dynamic interplay between individuals and their environments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the nuances of perceived self-efficacy is crucial for educators and trainers aiming to foster resilience, adaptability, and continuous improvement in learners. By recognizing its dynamic nature and interplay with other cognitive processes like working memory and reflective thinking, practitioners can design more effective interventions that bolster individuals' belief in their capabilities.
 
 ## Connections & Context
 
@@ -143,3 +173,10 @@ The concept of perceived self-efficacy also has broader implications for underst
 **Applies to:** [[worked-examples]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory capacity is a prerequisite for developing and maintaining perceived self-efficacy because it allows individuals to hold task-relevant information in mind, manipulate it, and apply strategies effectively. Tasks that exceed working memory limits can undermine efficacy beliefs by leading to frustration and failure.

@@ -1,13 +1,12 @@
 ---
-title: "PERMA Model"
+title: PERMA Model
 aliases:
-  - "PERMA Model"
-  - "Seligman PERMA"
-  - "PERMA wellbeing model"
+  - PERMA Model
+  - Seligman PERMA
+  - PERMA wellbeing model
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,59 +18,59 @@ subdomains:
   - applied-psychology
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "perma-model-synthetic-seed-2026-04-26"
+  - perma-model-synthetic-seed-2026-04-26
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Positive Psychology"
-
+depth-level: enhanced
+parent-concept: Positive Psychology
 related:
-  - "[[savoring]]"
-  - "[[eudaimonia]]"
-  - "[[psychological-capital]]"
-  - "[[hope-theory]]"
+  - '[[savoring]]'
+  - '[[eudaimonia]]'
+  - '[[psychological-capital]]'
+  - '[[hope-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[savoring]]"
-  - "[[eudaimonia]]"
+  - '[[savoring]]'
+  - '[[eudaimonia]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[psychological-capital]]"
-  - "[[hope-theory]]"
+  - '[[psychological-capital]]'
+  - '[[hope-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # PERMA Model
 
@@ -90,6 +89,9 @@ In practice, these elements operate in concert to foster overall wellbeing. For 
 The PERMA Model is deeply rooted in Positive Psychology, which emphasizes the study of positive human functioning and flourishing. It builds on earlier theories by proposing that wellbeing is not merely the absence of negative emotions but the presence of these five distinct elements. This model provides a normative framework for interventions aimed at improving flourishing without necessarily increasing positive affect.
 
 Empirical research has supported the PERMA Model's components, with studies showing that individuals who experience positive emotion, engagement, relationships, meaning, and accomplishment tend to report higher levels of overall wellbeing. For example, a study by Seligman et al. (2018) found that interventions focused on cultivating these elements led to significant improvements in participants' psychological well-being.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The PERMA Model's emphasis on accomplishment is particularly noteworthy as it underscores the importance of setting and achieving goals, which can provide a sense of direction and purpose in life. Accomplishment not only contributes to personal growth but also reinforces other components of wellbeing by fostering positive emotions through success and enhancing relationships through shared achievements.
 
 ## Mechanism
 
@@ -111,6 +113,11 @@ Accomplishment reinforces all other elements by providing a sense of mastery and
 > [!example] **Application 4 — Community programs**
 > Community programs that focus on building strong relationships through group activities, fostering a sense of meaning by engaging in community service projects, and providing opportunities for personal growth and accomplishment can significantly enhance the wellbeing of participants. These interventions often lead to increased social support and positive emotions among community members.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), applying the PERMA Model can enhance student engagement and learning outcomes. By incorporating spaced retrieval techniques, educators can create a sense of accomplishment through regular quizzes that reinforce material over time. This not only aids memory retention but also fosters positive emotions by providing students with a clear path to mastery.
+
 ## Key Distinctions
 
 > [!key-distinction] **PERMA vs subjective happiness**
@@ -119,9 +126,25 @@ Accomplishment reinforces all other elements by providing a sense of mastery and
 > [!key-distinction] **PERMA vs life satisfaction**
 > Life satisfaction is often measured through surveys that ask individuals to rate their general contentment with life. In contrast, PERMA focuses on specific psychological processes and activities that contribute to well-being. While high levels of life satisfaction can be associated with PERMA elements, the model provides a more nuanced understanding of what contributes to sustained wellbeing.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> The PERMA Model's focus on intrinsic motivation, such as finding meaning and engagement in activities for their own sake, contrasts sharply with extrinsic motivation driven by external rewards or pressures. While both can contribute to wellbeing, intrinsic motivation tends to lead to more sustainable happiness and personal growth.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the PERMA Model is just about feeling happy all the time.
+>
+> The misconception arises from equating positive emotions with overall wellbeing. While positive emotion is a component of PERMA, it emphasizes engagement, relationships, meaning, and accomplishment as equally important for flourishing. This holistic approach recognizes that true wellbeing involves more than fleeting happiness.
+
 ## Key Figures
 
 - **Martin Seligman** — Seligman is credited as the founder of Positive Psychology and the proposer of the PERMA Model. He introduced this framework in his seminal work, emphasizing the importance of positive emotions, engagement, relationships, meaning, and accomplishment for human flourishing.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Angela Duckworth** — Duckworth's research on grit and self-control complements the PERMA Model by highlighting how perseverance and passion for long-term goals contribute to accomplishment and overall wellbeing. Her work underscores the importance of sustained effort in achieving meaningful life outcomes.
 
 ## Open Questions
 
@@ -135,11 +158,21 @@ Accomplishment reinforces all other elements by providing a sense of mastery and
 >
 > *What would resolve it:* Longitudinal studies that track changes in various aspects of wellbeing (e.g., engagement, relationships, meaning) over time while controlling for baseline levels of positive emotion would help determine if PERMA-based interventions can enhance overall wellbeing independently of positive emotions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural differences influence the components of PERMA?
+>
+> *What would resolve it:* Cross-cultural studies could provide insights into how different societies prioritize and experience the elements of positive emotion, engagement, relationships, meaning, and accomplishment. Understanding these variations would help tailor interventions to diverse populations.
+
 ## Synthesis
 
 The PERMA Model is significant because it offers a comprehensive and integrative framework for understanding and enhancing human flourishing. By focusing on the cultivation of positive emotions, engagement, relationships, meaning, and accomplishment, this model provides a practical guide for interventions in various domains such as education, mental health, and organizational development. Its emphasis on multiple dimensions of wellbeing aligns with broader theories like Eudaimonia, which also focus on holistic human functioning. The PERMA Model's contributions to Positive Psychology have led to numerous empirical studies that support its validity and utility, making it a valuable tool for promoting well-being in diverse contexts.
 
 The PERMA Model's practical implications are far-reaching, as it can be applied across various fields to improve individual and collective wellbeing. By fostering positive emotions, engagement, relationships, meaning, and accomplishment, this model offers a holistic approach that addresses the multifaceted nature of human flourishing.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The PERMA Model's comprehensive approach to wellbeing integrates psychological, social, and personal dimensions, offering a robust framework for enhancing human flourishing across various contexts. By addressing multiple facets of life satisfaction, it provides a nuanced understanding that goes beyond simplistic notions of happiness.
 
 ## Connections & Context
 
@@ -150,3 +183,10 @@ The PERMA Model's practical implications are far-reaching, as it can be applied 
 **Applies to:** [[psychological-capital]] · [[hope-theory]]
 
 **Source:** [[perma-model-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[psychological-capital]]** — *applies-to*
+> The PERMA Model applies to psychological capital by providing a framework for enhancing personal resources such as self-efficacy, optimism, hope, and resilience. By fostering these elements through engagement, meaningful relationships, and accomplishment, individuals can build their psychological capital, leading to greater wellbeing.

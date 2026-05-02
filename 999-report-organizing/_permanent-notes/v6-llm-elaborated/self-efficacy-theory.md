@@ -1,12 +1,11 @@
 ---
-title: "Self-Efficacy Theory"
+title: Self-Efficacy Theory
 aliases:
-  - "Self-Efficacy Theory"
-  - "Bandura self-efficacy theory"
+  - Self-Efficacy Theory
+  - Bandura self-efficacy theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-efficacy-theory-synthetic-seed-2026-04-24"
+  - self-efficacy-theory-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social-Cognitive Theory"
-
+depth-level: enhanced
+parent-concept: Social-Cognitive Theory
 related:
-  - "[[perceived-self-efficacy]]"
-  - "[[social-cognitive-theory]]"
-  - "[[outcome-expectation]]"
+  - '[[perceived-self-efficacy]]'
+  - '[[social-cognitive-theory]]'
+  - '[[outcome-expectation]]'
 prerequisites:
-  - "[[perceived-self-efficacy]]"
+  - '[[perceived-self-efficacy]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[social-cognitive-theory]]"
+  - '[[social-cognitive-theory]]'
 see-also:
-  - "[[outcome-expectation]]"
+  - '[[outcome-expectation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Self-Efficacy Theory
 
@@ -87,6 +86,9 @@ The theory posits that efficacy beliefs operate independently of actual capabili
 
 The concept of self-efficacy is rooted in the idea that individuals are not passive recipients of their environment but active agents who shape their experiences through their beliefs and actions. Bandura’s theory emphasizes the role of four canonical sources of efficacy information: enactive mastery experience, vicarious experience, verbal persuasion, and physiological/affective states. These sources collectively influence an individual's self-efficacy beliefs.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Self-efficacy theory also highlights the dynamic nature of efficacy beliefs, which can fluctuate based on recent experiences and feedback. For example, a student who initially struggles with a complex problem might experience a dip in self-efficacy, but subsequent success or supportive feedback can quickly restore confidence. This adaptability underscores the importance of ongoing assessment and intervention to maintain high levels of self-efficacy.
+
 ## Mechanism
 
 Self-efficacy is shaped by a combination of direct experiences (enactive mastery), observing others succeed (vicarious experience), receiving encouragement from others (verbal persuasion), and physiological or emotional states (physiological/affective states). These sources work together to build or undermine an individual's confidence in their ability to perform tasks effectively.
@@ -102,10 +104,28 @@ Self-efficacy is shaped by a combination of direct experiences (enactive mastery
 > [!example] **Application 3 — Occupational performance**
 > In the workplace, managers can improve employee performance by fostering a culture of continuous learning and providing opportunities for mastery experiences. Verbal encouragement from supervisors and colleagues also plays a significant role in building self-efficacy among employees.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance learning by reinforcing self-efficacy. By scheduling quizzes and assessments at intervals rather than clustering them, learners are given opportunities to recall information over time, which not only improves retention but also builds confidence in their ability to remember key concepts independently.
+
 ## Key Distinctions
 
 > [!key-distinction] **Self-Efficacy vs. Self-Esteem**
 > While both self-efficacy and self-esteem involve confidence, they differ in their focus and application. Self-efficacy is task-specific and forward-looking, focusing on an individual's belief in their ability to perform specific tasks. In contrast, self-esteem encompasses a broader sense of personal worth and can be more global or diffuse.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation stems from personal interest and enjoyment, extrinsic motivation is driven by external rewards or pressures. Self-efficacy theory primarily addresses intrinsic motivation, as it focuses on an individual's belief in their ability to perform tasks effectively for the sake of achieving a goal rather than due to external incentives.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that self-efficacy is solely determined by past successes.
+>
+> Self-efficacy is influenced not only by direct experiences but also by observing others, receiving encouragement from peers or mentors, and through physiological states. This multifaceted approach means that even individuals who have experienced setbacks can bolster their self-efficacy through vicarious learning and supportive feedback.
 
 ## Key Figures
 
@@ -123,11 +143,21 @@ Self-efficacy is shaped by a combination of direct experiences (enactive mastery
 >
 > *What would resolve it:* Developing standardized measures that accurately capture self-efficacy across different domains would provide more reliable data for empirical studies. This could involve creating validated scales or tools that assess self-efficacy in various contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does self-efficacy interact with other motivational constructs like goal orientation?
+>
+> *What would resolve it:* Exploring the interplay between self-efficacy and goal orientation could provide insights into how different types of goals (mastery vs performance) influence motivation and learning outcomes. This research would help educators tailor interventions that enhance both self-efficacy and effective goal-setting strategies.
+
 ## Synthesis
 
 Self-Efficacy Theory is a foundational concept in motivational psychology because it provides a robust framework for understanding how individuals' beliefs about their capabilities influence their behavior and performance. By integrating direct experiences, observational learning, verbal persuasion, and physiological/affective states, the theory offers practical insights into enhancing motivation and achievement across educational, clinical, and occupational settings.
 
 The theory's emphasis on task-specific efficacy beliefs highlights its importance in addressing individual differences and promoting self-regulated learning. Its application in diverse contexts underscores its relevance to broader motivational constructs such as outcome expectations and triadic reciprocal determinism within Social-Cognitive Theory.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Self-Efficacy Theory, by emphasizing the role of perceived capability in influencing behavior, underscores a critical aspect of human agency within Social-Cognitive Theory. It bridges individual beliefs with observable actions, making it a pivotal concept for understanding motivation across various contexts from education to clinical settings.
 
 ## Connections & Context
 
@@ -140,3 +170,10 @@ The theory's emphasis on task-specific efficacy beliefs highlights its importanc
 **Sibling concepts:** [[outcome-expectation]]
 
 **Source:** [[self-efficacy-theory-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[outcome-expectation]]** — *see-also*
+> Outcome expectations refer to the anticipated consequences of one's actions, whereas self-efficacy pertains to the belief in one’s capability to execute necessary actions. Both concepts are integral to Bandura's Social-Cognitive Theory and influence behavior by shaping individuals' perceptions of potential outcomes and their ability to achieve them.

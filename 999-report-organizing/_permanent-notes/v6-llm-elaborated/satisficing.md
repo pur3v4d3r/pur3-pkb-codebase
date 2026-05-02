@@ -1,11 +1,10 @@
 ---
-title: "Satisficing"
+title: Satisficing
 aliases:
-  - "Satisficing"
+  - Satisficing
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,55 +16,55 @@ subdomains:
   - bounded-rationality
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "satisficing-synthetic-seed-2026-04-25"
+  - satisficing-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Decision Science"
-
+depth-level: enhanced
+parent-concept: Decision Science
 related:
-  - "[[bounded-rationality]]"
-  - "[[heuristics-and-biases]]"
+  - '[[bounded-rationality]]'
+  - '[[heuristics-and-biases]]'
 prerequisites:
-  - "[[bounded-rationality]]"
+  - '[[bounded-rationality]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[heuristics-and-biases]]"
+  - '[[heuristics-and-biases]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Satisficing
 
@@ -85,6 +84,9 @@ The theoretical roots of satisficing lie in the idea that decision-making is a c
 
 Empirically, satisficing has been observed in various fields, including economics, psychology, and management. For instance, in instructional design, educators might use satisficing by selecting a curriculum that meets basic learning objectives without exhaustively researching every possible option.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Satisficing is particularly relevant in dynamic environments where conditions can change rapidly, making it impractical to wait for a perfect solution. In such contexts, the ability to quickly identify an option that meets basic criteria and then adapt as needed becomes crucial. This approach not only saves time but also allows decision-makers to remain flexible and responsive to new information or shifting priorities.
+
 ## Mechanism
 
 The process of satisficing involves setting an aspiration level before beginning the search for alternatives. As each option is evaluated, decision-makers compare it against this level and stop when they find one that meets or exceeds it. This mechanism ensures that resources are not wasted on suboptimal options while still allowing for a reasonable degree of quality in the final choice.
@@ -100,10 +102,28 @@ The process of satisficing involves setting an aspiration level before beginning
 > [!example] **Application 3 — Project management**
 > In project management, satisficing helps teams allocate resources effectively by selecting the most viable project options that align with predefined success metrics. This strategy ensures that projects are completed within budget and time constraints without over-investing in less critical aspects.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Resource allocation in healthcare**
+> In resource-limited healthcare settings, satisficing can guide the allocation of scarce medical resources. By setting an aspiration level based on patient needs and available supplies, healthcare providers can make timely decisions that ensure critical care is provided without exhausting all options prematurely.
+
 ## Key Distinctions
 
 > [!key-distinction] **Satisficing vs Optimization**
 > While both strategies involve decision-making, satisficing focuses on finding a 'good enough' solution based on an aspiration level, whereas optimization aims to find the absolute best option. Satisficing is more practical in environments with limited resources and time constraints, while optimization may be feasible only under ideal conditions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Satisficing vs Settling**
+> While both terms involve accepting a solution that may not be optimal, satisficing and settling differ fundamentally. Satisficing involves a deliberate decision-making process where an aspiration level is set based on cost-benefit analysis, whereas settling often implies giving up too soon without thorough evaluation. Understanding this distinction helps clarify the strategic nature of satisficing.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that satisficing always leads to suboptimal decisions.
+>
+> This misconception arises from equating satisficing with settling for less. In reality, satisficing can lead to efficient and effective outcomes by balancing the costs of searching versus the benefits of finding a better option. Empirical studies show that in many real-world scenarios, satisficing yields satisfactory results without the need for exhaustive search.
 
 ## Key Figures
 
@@ -121,6 +141,13 @@ The process of satisficing involves setting an aspiration level before beginning
 >
 > *What would resolve it:* Further theoretical development and real-world testing of satisficing in complex systems would help determine its applicability and limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does satisficing perform under varying levels of uncertainty?
+>
+> *What would resolve it:* Empirical studies examining decision-making under different degrees of uncertainty could provide insights into how satisficing strategies adapt and their effectiveness in unpredictable environments.
+
 ## Synthesis
 
 Satisficing is a crucial concept in decision science because it provides a practical framework for making decisions under bounded rationality. By setting aspiration levels, individuals can efficiently navigate the complexities of real-world problems without being overwhelmed by exhaustive search. This strategy has broad implications across various fields, from economics and psychology to project management and instructional design. Understanding satisficing helps us appreciate the trade-offs inherent in decision-making and informs more effective strategies for managing limited resources.
@@ -134,3 +161,10 @@ Satisficing is a crucial concept in decision science because it provides a pract
 **Contrasts with:** [[heuristics-and-biases]]
 
 **Source:** [[satisficing-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[heuristics-and-biases]]** — *contrasts-with*
+> While both satisficing and heuristics involve simplifying decision-making processes, they operate on different principles. Satisficing focuses on setting an aspiration level to guide the search for a 'good enough' solution, whereas heuristics often rely on mental shortcuts that can lead to biases. Understanding these contrasts helps in recognizing when each approach is more appropriate.

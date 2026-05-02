@@ -1,13 +1,12 @@
 ---
-title: "Social Facilitation"
+title: Social Facilitation
 aliases:
-  - "Social Facilitation"
-  - "audience effects"
-  - "Zajonc social facilitation"
+  - Social Facilitation
+  - audience effects
+  - Zajonc social facilitation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - performance-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "social-facilitation-synthetic-seed-2026-04-25"
+  - social-facilitation-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social Influence"
-
+depth-level: enhanced
+parent-concept: Social Influence
 related:
-  - "[[Mere Presence Effect]]"
-  - "[[Evaluation Apprehension]]"
-  - "[[Drive Theory]]"
+  - '[[Mere Presence Effect]]'
+  - '[[Evaluation Apprehension]]'
+  - '[[Drive Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Mere Presence Effect]]"
+  - '[[Mere Presence Effect]]'
 contrasts-with:
-  - "[[Evaluation Apprehension]]"
+  - '[[Evaluation Apprehension]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Drive Theory]]"
+  - '[[Drive Theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Social Facilitation
 
@@ -88,6 +87,9 @@ Theoretical roots of Social Facilitation are grounded in Drive Theory, which pos
 
 Empirical evidence supporting Social Facilitation comes from numerous studies that have consistently shown reliable but small effects in modern meta-analyses. For instance, Zajonc's original experiments demonstrated that audiences could enhance performance on simple tasks while impairing it on complex ones. This effect has been replicated across various contexts, including sports, music performances, and academic settings, underscoring its practical relevance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Social Facilitation's impact on performance is not uniform across all social contexts; it varies based on the nature and perceived competence of the audience. For instance, when individuals perform in front of a group they perceive as more competent or knowledgeable, the arousal effect can be stronger, potentially leading to greater performance enhancement for simple tasks but also greater impairment for complex ones due to increased evaluation apprehension.
+
 ## Mechanism
 
 The mechanism of Social Facilitation involves a physiological arousal that strengthens dominant responses in the brain. When an individual is performing a simple task, this arousal aligns with well-established neural pathways, leading to improved performance. However, for complex tasks, the same arousal can interfere with cognitive processes by overwhelming the mind and disrupting the necessary attentional focus.
@@ -103,10 +105,28 @@ The mechanism of Social Facilitation involves a physiological arousal that stren
 > [!example] **Application 3 — Academic settings**
 > In academic settings, Social Facilitation can influence student performance during exams or presentations. For straightforward multiple-choice questions, having classmates nearby may enhance focus and accuracy. However, for more complex essay writing tasks, the presence of others might distract students and reduce their ability to think critically.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Team dynamics in sports**
+> In team sports, understanding Social Facilitation helps coaches and players manage group dynamics. For straightforward plays like passing the ball or executing a well-rehearsed formation, the presence of teammates can boost performance by increasing arousal levels. However, for complex strategies that require nuanced decision-making under pressure, such as setting up an unexpected play, reducing audience effects might be beneficial to avoid cognitive overload and maintain strategic clarity.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Social Facilitation is distinct from concepts like intrinsic and extraneous load. Intrinsic load refers to the inherent difficulty of a task, while extraneous load includes factors that interfere with learning or performance. Social Facilitation specifically modulates performance based on task complexity, whereas intrinsic and extraneous loads are more about the nature of the task itself.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Social Facilitation particularly impacts reactive thinking—immediate responses driven by arousal—more than reflective thinking which involves deliberate consideration. This distinction is crucial because simple tasks often rely on reactive processes, benefiting from increased arousal, whereas complex tasks require more reflective thought, potentially suffering when arousal disrupts careful deliberation.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Social Facilitation always improves performance.
+>
+> This misconception arises because the term 'facilitation' might suggest an unmitigated positive effect. However, Social Facilitation can impair performance on complex tasks due to heightened arousal overwhelming cognitive resources necessary for intricate problem-solving.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ The mechanism of Social Facilitation involves a physiological arousal that stren
 >
 > *What would resolve it:* Large-scale field experiments and longitudinal studies could determine the extent to which Social Facilitation can be effectively utilized in real-world scenarios, such as high-pressure job interviews or critical medical procedures.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does social facilitation vary across different cultural contexts?
+>
+> *What would resolve it:* Cross-cultural studies could provide insights into how varying norms and expectations influence the degree to which social presence enhances or impairs performance, potentially revealing universal patterns or culturally-specific nuances.
+
 ## Synthesis
 
 Social Facilitation is a crucial concept within social psychology that has significant implications for understanding how social presence influences individual performance. By linking physiological arousal to task complexity, it provides valuable insights into the dynamics of social influence and cognitive processes. This concept not only enhances our understanding of human behavior in various contexts but also offers practical applications in fields ranging from education to sports and beyond.
 
 The broader implications of Social Facilitation extend to related concepts such as evaluation apprehension and distraction-conflict, which are distinct yet interconnected phenomena. By differentiating between these mechanisms, researchers can develop more nuanced theories and interventions that address specific social influence challenges.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Social Facilitation within its broader context of social psychology reveals a nuanced interplay between physiological arousal and cognitive processes. This concept not only illuminates how social presence shapes individual performance but also underscores the importance of task complexity in moderating these effects, offering practical implications for fields ranging from education to sports.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ The broader implications of Social Facilitation extend to related concepts such 
 **Supports:** [[Drive Theory]]
 
 **Source:** [[social-facilitation-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Evaluation Apprehension]]** — *contrasts-with*
+> While both concepts involve social influence, Evaluation Apprehension specifically addresses the fear of being judged by others, which can independently impair performance. In contrast, Social Facilitation focuses on arousal effects that enhance simple tasks but may hinder complex ones regardless of judgment concerns.

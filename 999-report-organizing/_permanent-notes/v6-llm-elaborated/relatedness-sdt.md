@@ -1,15 +1,14 @@
 ---
-title: "Relatedness"
+title: Relatedness
 aliases:
-  - "Relatedness"
-  - "SDT Foundational Report"
-  - "Self-Determination Theory Report"
-  - "Deci and Ryan Motivation Theory"
-  - "SDT Overview"
+  - Relatedness
+  - SDT Foundational Report
+  - Self-Determination Theory Report
+  - Deci and Ryan Motivation Theory
+  - SDT Overview
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,56 +22,56 @@ subdomains:
   - health-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-foundational-report-2026-04-19"
+  - self-determination-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[autonomy]]"
-  - "[[competence]]"
+  - '[[autonomy]]'
+  - '[[competence]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[autonomy]]"
-  - "[[competence]]"
+  - '[[autonomy]]'
+  - '[[competence]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Relatedness
 
@@ -92,6 +91,9 @@ Theoretical roots of relatedness trace back to SDT's emphasis on intrinsic motiv
 
 Historically, the concept of relatedness has evolved from early theories of human needs, such as Maslow's hierarchy of needs, which also recognized the importance of love and belonging. However, SDT provides a more nuanced framework by integrating relatedness with other motivational needs like competence and autonomy.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The concept of relatedness extends beyond immediate interpersonal relationships to include broader social and cultural contexts. For instance, a sense of belonging within one's community or culture can significantly influence an individual’s psychological well-being and motivation. This communal aspect of relatedness highlights the importance of collective identity and shared values in fostering a supportive environment that nurtures intrinsic motivation.
+
 ## Mechanism
 
 Relatedness is satisfied through mutual warmth and genuine care, distinguishing it from superficial interactions. For example, in therapy, a therapist's empathetic response can significantly enhance the client's sense of relatedness, leading to better therapeutic outcomes. This mechanism underscores the importance of authentic connections in fostering intrinsic motivation.
@@ -107,6 +109,11 @@ Relatedness is satisfied through mutual warmth and genuine care, distinguishing 
 > [!example] **Application 3 — Workplace settings**
 > In the workplace, fostering a sense of relatedness among employees can improve job satisfaction and productivity. Managers who create an inclusive work culture where employees feel supported and valued are more likely to see higher levels of engagement and commitment from their teams.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Supportive online communities**
+> In digital spaces, creating supportive online communities can enhance users' sense of relatedness. For example, forums where members feel valued and supported by moderators and peers can lead to increased engagement and meaningful contributions. This application underscores the importance of fostering genuine connections in virtual environments.
+
 ## Key Distinctions
 
 > [!key-distinction] **Relatedness vs Autonomy**
@@ -114,6 +121,19 @@ Relatedness is satisfied through mutual warmth and genuine care, distinguishing 
 
 > [!key-distinction] **Relatedness vs Competence**
 > Competence involves feeling effective in one's actions, while relatedness is about feeling connected and significant within relationships. A person who feels competent might excel at a task but still struggle with feelings of isolation if they lack social connections. Conversely, someone with strong relatedness may feel supported even if their competence varies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation arises from personal interest or enjoyment, extrinsic motivation is driven by external rewards such as grades or recognition. Relatedness can enhance both types of motivation but particularly supports intrinsic motivation by fostering a sense of belonging and care within relationships.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think relatedness only involves close personal friendships.
+>
+> Relatedness encompasses not just intimate bonds but also broader social connections that provide a sense of belonging. This includes interactions in professional settings, online communities, and cultural groups where individuals feel valued and supported.
 
 ## Key Figures
 
@@ -132,6 +152,13 @@ Relatedness is satisfied through mutual warmth and genuine care, distinguishing 
 >
 > *What would resolve it:* Empirical studies examining the effectiveness of digital platforms in fostering meaningful connections would help determine whether virtual interactions can satisfy the need for relatedness as effectively as face-to-face relationships.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does relatedness influence long-term psychological well-being?
+>
+> *What would resolve it:* Research exploring the longitudinal effects of relatedness on mental health could provide insights into how sustained social connections impact overall well-being over time.
+
 ## Synthesis
 
 Understanding and addressing the need for relatedness is crucial across various domains, from education to therapy and workplace settings. By promoting supportive relationships, educators, therapists, and managers can enhance intrinsic motivation and overall well-being. The integration of relatedness with other motivational needs like competence and autonomy provides a comprehensive framework for understanding human behavior and fostering positive outcomes.
@@ -145,3 +172,10 @@ The broader implications of relatedness extend beyond individual psychology into
 **Sibling concepts:** [[autonomy]] · [[competence]]
 
 **Source:** [[self-determination-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[autonomy]]** — *contrasts-with*
+> While autonomy emphasizes personal control and self-determination, relatedness focuses on the need for connection and support from others. This contrast highlights that individuals thrive when they have both freedom to act according to their own values (autonomy) and feel supported by a community (relatedness).

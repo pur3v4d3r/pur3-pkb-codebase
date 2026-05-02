@@ -1,12 +1,11 @@
 ---
-title: "Single-Loop Learning"
+title: Single-Loop Learning
 aliases:
-  - "Single-Loop Learning"
-  - "first-order learning"
+  - Single-Loop Learning
+  - first-order learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - systems-thinking
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "single-loop-learning-synthetic-seed-2026-05-01"
+  - single-loop-learning-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Organizational Learning"
-
+depth-level: enhanced
+parent-concept: Organizational Learning
 related:
-  - "[[Double-Loop Learning]]"
-  - "[[Reflective Thinking]]"
+  - '[[Double-Loop Learning]]'
+  - '[[Reflective Thinking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Double-Loop Learning]]"
-  - "[[Reflective Thinking]]"
+  - '[[Double-Loop Learning]]'
+  - '[[Reflective Thinking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Single-Loop Learning
 
@@ -87,6 +86,9 @@ Theoretical roots of Single-Loop Learning can be traced back to the work of Chri
 
 Empirical evidence supports the prevalence of Single-Loop Learning in various contexts. For instance, studies have shown that managers frequently engage in this form of learning to maintain stability and avoid disrupting established routines, even when faced with significant challenges.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Single-Loop Learning is particularly evident in routine tasks and procedural knowledge, where adjustments can be made without altering fundamental beliefs or values. For instance, a surgeon might refine their technique based on feedback from colleagues or patient outcomes, but the core belief that surgery saves lives remains unchanged.
+
 ## Mechanism
 
 The process of Single-Loop Learning involves several steps: first, an error or gap is detected through feedback mechanisms such as performance metrics or direct observations. Second, the actor identifies a discrepancy between expected and actual outcomes. Third, adjustments are made to actions within existing frameworks to correct this discrepancy. Finally, these changes are implemented without altering the underlying goals, values, or frames.
@@ -102,10 +104,28 @@ The process of Single-Loop Learning involves several steps: first, an error or g
 > [!example] **Application 3 — Healthcare**
 > In healthcare, practitioners might modify their treatment protocols based on patient outcomes without revisiting the fundamental principles of medical practice. This ensures that clinical care remains aligned with established standards while allowing for incremental improvements in patient care.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), Single-Loop Learning can manifest as instructors adjusting their content delivery based on student performance data. For example, if quizzes reveal that students struggle with a particular concept, the instructor might add more practice questions or provide additional explanations without questioning the overall course objectives.
+
 ## Key Distinctions
 
 > [!key-distinction] **Single-Loop Learning vs Double-Loop Learning**
 > While both Single- and Double-Loop Learning involve self-assessment, the key difference lies in their scope. Single-Loop Learning focuses on adjusting actions within existing frameworks without questioning underlying goals or values, whereas Double-Loop Learning involves revising these governing variables themselves.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Single-Loop Learning contrasts with Reflective Thinking in that it is often reactive rather than reflective. While Single-Loop Learning involves immediate adjustments to actions based on feedback, Reflective Thinking encourages a deeper analysis of the underlying reasons for errors or gaps.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Single-Loop Learning means no learning occurs.
+>
+> This misconception arises from misunderstanding that Single-Loop Learning only involves surface-level adjustments. In reality, it enables continuous improvement within existing frameworks, which can lead to significant gains over time.
 
 ## Key Figures
 
@@ -124,6 +144,13 @@ The process of Single-Loop Learning involves several steps: first, an error or g
 >
 > *What would resolve it:* Empirical studies examining the integration of both forms of learning in various organizational contexts could provide insights into their complementary roles and potential synergies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> Can Single-Loop Learning lead to sustainable organizational change?
+>
+> *What would resolve it:* Further research is needed to determine if incremental improvements through Single-Loop Learning can sustainably transform organizations or if deeper structural changes are necessary for long-term success.
+
 ## Synthesis
 
 Understanding Single-Loop Learning is crucial for both individuals and organizations because it provides a mechanism for incremental improvement within existing frameworks. While it may not address deeper structural issues, it offers a low-risk approach to error correction that can lead to sustained performance enhancement. By recognizing the limitations of single-loop learning and its complementary relationship with double-loop learning, practitioners can develop more effective strategies for organizational development.
@@ -137,3 +164,10 @@ The concept of Single-Loop Learning is deeply intertwined with broader theories 
 **Contrasts with:** [[Double-Loop Learning]] · [[Reflective Thinking]]
 
 **Source:** [[single-loop-learning-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Reflective Thinking]]** — *contrasts-with*
+> Single-Loop Learning and Reflective Thinking contrast in their approach to problem-solving. While Single-Loop Learning focuses on immediate adjustments within existing frameworks, Reflective Thinking involves a deeper analysis of underlying causes, leading to more profound changes.

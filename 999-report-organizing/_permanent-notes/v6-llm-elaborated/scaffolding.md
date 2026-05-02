@@ -1,13 +1,12 @@
 ---
-title: "Scaffolding"
+title: Scaffolding
 aliases:
-  - "Scaffolding"
-  - "instructional scaffolding"
-  - "learning scaffolding"
+  - Scaffolding
+  - instructional scaffolding
+  - learning scaffolding
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "scaffolding-synthetic-seed-2026-04-24"
+  - scaffolding-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Design"
-
+depth-level: enhanced
+parent-concept: Instructional Design
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Scaffolding
 
@@ -86,6 +85,9 @@ In practice, scaffolding operates by providing just-in-time support tailored to 
 Theoretical roots of scaffolding can be traced back to the work of Lev Vygotsky, who emphasized the importance of social interaction and guided learning. More recently, Wood, Bruner, and Ross (1976) formalized these ideas into a structured framework for instructional design, defining scaffolding as a deliberate process with clear criteria for support provision and withdrawal.
 
 Empirical evidence supports the effectiveness of scaffolding in enhancing learning outcomes across various disciplines. For instance, studies have shown that when used appropriately, scaffolding can significantly improve problem-solving skills and deepen conceptual understanding among students.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Scaffolding is not merely a linear process but rather an iterative one, often requiring educators to reassess and adjust their support based on ongoing feedback from learners. This dynamic nature of scaffolding allows it to adapt to the unique learning trajectories of individual students, making it particularly effective in diverse classroom settings.
 
 ## Mechanism
 
@@ -107,6 +109,19 @@ Scaffolding operates through a calibrated process where support is provided at t
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to how the task is presented. Scaffolding focuses on managing intrinsic load by providing support that helps learners manage the complexity of tasks without overwhelming them with extraneous information.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Scaffolding aims to promote deep processing by encouraging learners to engage with material meaningfully rather than superficially. Unlike surface-level learning which focuses on rote memorization, scaffolding supports the development of deeper understanding through guided exploration and application.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Scaffolding is only useful for novice learners.
+>
+> While scaffolding is particularly beneficial for novices, it also serves experienced learners by providing targeted support that challenges them to extend their existing knowledge and skills. This ensures that all students can benefit from tailored assistance.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller, a cognitive psychologist, contributed significantly to the understanding of working memory and its limitations. His work on intrinsic vs. extraneous load provided important theoretical underpinnings for effective scaffolding.
@@ -123,6 +138,13 @@ Scaffolding operates through a calibrated process where support is provided at t
 >
 > *What would resolve it:* Developing and testing adaptive algorithms that dynamically adjust the level of support based on learner performance in online settings could provide insights into best practices for digital scaffolding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the timing of scaffold removal impact long-term retention?
+>
+> *What would resolve it:* Research comparing different fading schedules could reveal optimal strategies for transitioning learners from guided support to independent performance, potentially enhancing long-term knowledge retention and transfer.
+
 ## Synthesis
 
 Understanding scaffolding is crucial for effective instructional design because it provides a structured approach to enhancing learning. By leveraging the principles of working memory and guided interaction, educators can create supportive environments that foster independent thinking and strategic problem-solving skills. Scaffolding not only improves immediate learning outcomes but also contributes to long-term cognitive development by building robust schemas and automaticity.
@@ -138,3 +160,10 @@ Moreover, scaffolding aligns with broader theories in educational psychology, su
 **Applies to:** [[worked-examples]]
 
 **Source:** [[scaffolding-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Understanding the limitations of working memory is crucial for effective scaffolding, as it informs how much support and guidance learners need to manage complex tasks without cognitive overload. This connection highlights why scaffolding must be carefully calibrated to match individual working memory capacities.

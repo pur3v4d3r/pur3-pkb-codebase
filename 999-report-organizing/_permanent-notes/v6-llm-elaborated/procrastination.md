@@ -1,12 +1,11 @@
 ---
-title: "Procrastination"
+title: Procrastination
 aliases:
-  - "Procrastination"
-  - "academic procrastination"
+  - Procrastination
+  - academic procrastination
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,59 +17,59 @@ subdomains:
   - behavioral-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "procrastination-synthetic-seed-2026-04-25"
+  - procrastination-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[intention-behavior-gap]]"
-  - "[[volitional-control]]"
-  - "[[self-handicapping]]"
-  - "[[temporal-motivation-theory]]"
+  - '[[intention-behavior-gap]]'
+  - '[[volitional-control]]'
+  - '[[self-handicapping]]'
+  - '[[temporal-motivation-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[intention-behavior-gap]]"
-  - "[[volitional-control]]"
-  - "[[self-handicapping]]"
+  - '[[intention-behavior-gap]]'
+  - '[[volitional-control]]'
+  - '[[self-handicapping]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[temporal-motivation-theory]]"
+  - '[[temporal-motivation-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Procrastination
 
@@ -90,6 +89,9 @@ Theoretical roots of procrastination trace back to motivational psychology, part
 
 Empirical studies have shown that interventions targeting affect outperform those focusing on scheduling alone. For instance, techniques like cognitive-behavioral therapy (CBT) that address emotional responses and self-talk are more effective than merely setting up schedules or alarms.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Procrastination is not merely a personal flaw but can be exacerbated by environmental factors such as social norms and technological distractions. For instance, in an era of constant digital connectivity, the ease with which one can shift focus to less demanding activities can significantly increase procrastination rates among students and professionals alike.
+
 ## Mechanism
 
 Procrastination operates through a complex interplay of emotions and decision-making processes. Initially, individuals experience aversion to the task at hand, which triggers avoidance behaviors. Over time, this can lead to increased stress and anxiety as deadlines approach, further reinforcing procrastinatory tendencies.
@@ -107,6 +109,19 @@ Procrastination operates through a complex interplay of emotions and decision-ma
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Procrastination is often driven by intrinsic load—the emotional aversiveness of a task—rather than extraneous load, which refers to unnecessary complexity or distractions. Understanding this distinction helps in designing interventions that address the root cause of procrastination.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Procrastinators often engage in reactive thinking, responding impulsively to immediate stimuli rather than reflecting on long-term consequences. This contrasts with reflective thinking, where individuals consider future outcomes and plan accordingly. Understanding this distinction can help identify when procrastination is driven by a lack of reflection.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that setting strict deadlines will always reduce procrastination.
+>
+> While deadlines can sometimes motivate action, they do not universally mitigate procrastination. For individuals who struggle with emotional aversion to tasks, the pressure of a deadline might actually increase anxiety and avoidance behaviors.
+
 ## Key Figures
 
 - **John Sweller** — In 1988, John Sweller introduced the concept of cognitive load theory, which has been influential in understanding how task difficulty and emotional aversiveness contribute to procrastination.
@@ -123,11 +138,21 @@ Procrastination operates through a complex interplay of emotions and decision-ma
 >
 > *What would resolve it:* Cross-cultural studies examining how cultural values and social norms influence procrastination behaviors could provide insights into its application in diverse settings.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the interplay between intrinsic and extrinsic motivations influence procrastination?
+>
+> *What would resolve it:* Exploring how different motivational drivers interact could reveal new strategies for mitigating procrastination. For instance, aligning tasks with personal values might enhance intrinsic motivation and reduce avoidance behaviors.
+
 ## Synthesis
 
 Understanding procrastination is crucial for both educational and personal productivity. By recognizing it as a self-regulation failure, interventions can be more effective in addressing the underlying emotional aversiveness of tasks. This concept intersects with broader theories like temporal motivation theory and volitional control, highlighting its importance in motivational psychology.
 
 Procrastination also has implications for time management and strategic prioritization, underscoring the need to distinguish between rational delay and self-regulation failures.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from temporal motivation theory and the distinction between reflective and reactive thinking, educators and individuals can develop more nuanced approaches to combating procrastination. This synthesis highlights the importance of addressing both emotional and cognitive aspects of task aversion.
 
 ## Connections & Context
 
@@ -138,3 +163,10 @@ Procrastination also has implications for time management and strategic prioriti
 **Supports:** [[temporal-motivation-theory]]
 
 **Source:** [[procrastination-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[temporal-motivation-theory]]** — *supports*
+> Temporal motivation theory explains how immediate rewards can overshadow long-term goals, directly supporting the understanding of procrastination. This theory helps elucidate why individuals might prioritize short-term pleasures over long-term benefits.

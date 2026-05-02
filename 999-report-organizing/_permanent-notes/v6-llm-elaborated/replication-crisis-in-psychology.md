@@ -1,12 +1,11 @@
 ---
-title: "Replication Crisis In Psychology"
+title: Replication Crisis In Psychology
 aliases:
-  - "Replication Crisis In Psychology"
-  - "replication crisis"
+  - Replication Crisis In Psychology
+  - replication crisis
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - meta-science
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "replication-crisis-in-psychology-synthetic-seed-2026-04-25"
+  - replication-crisis-in-psychology-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Research Methods"
-
+depth-level: enhanced
+parent-concept: Research Methods
 related:
-  - "[[Publication Bias]]"
-  - "[[Preregistration]]"
+  - '[[Publication Bias]]'
+  - '[[Preregistration]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Publication Bias]]"
+  - '[[Publication Bias]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Preregistration]]"
+  - '[[Preregistration]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Replication Crisis In Psychology
 
@@ -86,6 +85,9 @@ Theoretical roots of this crisis can be traced back to the incentives within aca
 
 Empirical evidence supporting this crisis comes from large-scale projects like the Open Science Collaboration (2015) and Many Labs studies, which replicated only about 40% of high-profile effects. These findings underscore the need for more rigorous research practices and highlight the importance of replication in validating scientific claims.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The replication crisis has also highlighted the importance of robust statistical methods and transparent reporting practices in psychological research. Researchers often rely on p-values to determine whether their findings are statistically significant, but this approach can be misleading if not accompanied by effect sizes and confidence intervals. Moreover, the reliance on null hypothesis significance testing (NHST) without considering practical significance or the underlying data distribution can lead to overestimating the importance of small effects.
+
 ## Mechanism
 
 One concrete mechanism contributing to the Replication Crisis is HARKing (hypothesizing after results are known). Researchers may adjust their hypotheses based on preliminary data, leading to inflated effect sizes that do not replicate. Another key factor is publication bias, where journals and researchers tend to publish positive findings over null or negative ones, skewing the overall body of evidence.
@@ -98,10 +100,28 @@ One concrete mechanism contributing to the Replication Crisis is HARKing (hypoth
 > [!example] **Application 2 — Research funding**
 > Funding agencies can play a crucial role in addressing the Replication Crisis by prioritizing grants for replication studies. This not only ensures that promising findings are validated but also promotes transparency and rigor in the scientific process.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Educational interventions**
+> Understanding the replication crisis is crucial for educators who rely on psychological research to inform their practices. For instance, a study might claim that a particular teaching method significantly improves student performance based on a small sample and flexible data analysis techniques. However, if this finding does not replicate in larger or more diverse samples, educators should be cautious about implementing it without further evidence.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While intrinsic load refers to the inherent difficulty of a task, extraneous load is related to how the task is presented. The Replication Crisis focuses on methodological and statistical issues rather than these cognitive loads, highlighting that replication failures are not due to the nature of the tasks themselves but rather how they were studied and reported.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Type I vs Type II Error**
+> In the context of the replication crisis, distinguishing between Type I and Type II errors is crucial. A Type I error occurs when a researcher incorrectly rejects a true null hypothesis (false positive), while a Type II error happens when they fail to reject a false null hypothesis (false negative). The replication crisis often involves an overemphasis on avoiding Type I errors at the expense of increasing Type II errors, leading to both false positives and missed opportunities for discovering real effects.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that all psychological findings are inherently unreliable due to the replication crisis.
+>
+> While the replication crisis has revealed significant issues with reliability in some areas of psychology, it does not mean that all psychological research is invalid. Many robust and replicable studies exist within the field. The crisis highlights the need for better methodological practices rather than dismissing the entire discipline.
 
 ## Key Figures
 
@@ -125,6 +145,9 @@ Understanding the Replication Crisis is crucial because it underscores the need 
 
 The crisis also highlights the importance of replication studies in validating initial findings, which is essential for advancing scientific understanding across various domains. Addressing these challenges through methodological reforms not only improves individual research projects but also strengthens the overall integrity of psychological science.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Addressing the replication crisis requires a multifaceted approach that includes methodological reforms such as preregistration, open data sharing, and transparent reporting standards. These measures can help ensure that psychological findings are robust, reliable, and replicable across different contexts and samples.
+
 ## Evidence
 
 Empirical evidence from large-scale replication efforts like the Open Science Collaboration (2015) and Many Labs studies consistently show that a significant portion of published findings do not replicate. This supports the claim that structural issues within research practices, such as small sample sizes and publication bias, contribute to the Replication Crisis.
@@ -138,3 +161,13 @@ Empirical evidence from large-scale replication efforts like the Open Science Co
 **Applies to:** [[Preregistration]]
 
 **Source:** [[replication-crisis-in-psychology-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Publication Bias]]** — *prerequisite*
+> The replication crisis in psychology is deeply intertwined with publication bias, as journals and researchers often prioritize publishing positive results over null or negative findings. This selective reporting skews the evidence base and contributes to inflated effect sizes and unreliable conclusions.
+
+> [!connection] **[[Preregistration]]** — *applies-to*
+> Preregistration is a methodological reform that can help mitigate issues contributing to the replication crisis. By requiring researchers to specify their hypotheses, methods, and analysis plans before data collection begins, preregistration reduces flexibility in data analysis and enhances transparency, thereby improving the reliability of psychological research.

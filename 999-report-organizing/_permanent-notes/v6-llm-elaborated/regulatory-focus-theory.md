@@ -1,13 +1,12 @@
 ---
-title: "Regulatory Focus Theory"
+title: Regulatory Focus Theory
 aliases:
-  - "Regulatory Focus Theory"
-  - "RFT"
-  - "promotion-prevention focus"
+  - Regulatory Focus Theory
+  - RFT
+  - promotion-prevention focus
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - social-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "regulatory-focus-theory-synthetic-seed-2026-04-25"
+  - regulatory-focus-theory-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: ""
-
+depth-level: enhanced
+parent-concept: ''
 related:
-  - "[[approach-avoidance-motivation]]"
-  - "[[self-determination-theory]]"
+  - '[[approach-avoidance-motivation]]'
+  - '[[self-determination-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[approach-avoidance-motivation]]"
+  - '[[approach-avoidance-motivation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Regulatory Focus Theory
 
@@ -87,6 +86,9 @@ Theoretical roots of Regulatory Focus Theory can be traced back to Higgins's wor
 
 Empirical evidence supporting Regulatory Focus Theory comes from various studies showing that people's emotional responses and goal-directed behaviors vary depending on whether they are in a promotion or prevention mindset. One notable study found that participants who were primed to think about ideals (promotion focus) reported higher levels of cheerfulness after achieving their goals, compared to those primed with safety concerns (prevention focus).
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Regulatory Focus Theory also illuminates how individuals' regulatory orientations can influence their emotional responses to feedback and setbacks. For instance, those with a promotion focus may experience greater disappointment when they do not achieve their aspirational goals, whereas prevention-focused individuals might feel more anxious or stressed about potential failures that could compromise their safety or obligations.
+
 ## Mechanism
 
 The mechanism by which individuals switch between promotion and prevention focus is influenced by both chronic tendencies and situational factors. Chronic tendencies refer to long-term dispositions that can be shaped by personality traits, past experiences, or cultural norms. Situational factors include the specific context of a task or goal, such as time pressure, risk level, or social expectations. For example, in a high-stakes job interview, an individual might shift from their usual promotion focus to a prevention focus due to the increased importance of avoiding failure.
@@ -102,15 +104,36 @@ The mechanism by which individuals switch between promotion and prevention focus
 > [!example] **Application 3 — Therapy**
 > In therapy, understanding Regulatory Focus Theory can help therapists tailor their approaches to clients' needs. For instance, a client who is struggling with perfectionism (a common prevention focus) might benefit from strategies that encourage them to set more realistic goals and focus on process rather than outcome.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Feedback in Performance Reviews**
+> In performance reviews, managers can apply Regulatory Focus Theory to tailor feedback based on employees' regulatory orientations. For promotion-focused employees, emphasizing growth opportunities and potential for advancement can be more motivating than highlighting areas of improvement. Conversely, prevention-focused employees may respond better to feedback that focuses on avoiding mistakes or meeting minimum standards.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While Regulatory Focus Theory focuses on the type of end-state pursued (ideal vs. ought) and strategic means preferred (eagerness vs. vigilance), it is distinct from the concept of intrinsic vs extraneous load in cognitive psychology, which deals with the effort required to process information. Intrinsic load refers to the inherent difficulty of a task, while extraneous load pertains to unnecessary aspects that can hinder learning. Regulatory Focus Theory does not address these cognitive processing issues but rather how individuals prioritize and pursue goals based on their current focus.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis, while reactive thinking is immediate and automatic. Regulatory Focus Theory can influence these thought processes: promotion-focused individuals may engage in more reflective thinking when pursuing aspirational goals, whereas prevention-focused individuals might rely on reactive thinking to quickly avoid potential threats or failures.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that Regulatory Focus Theory is solely about positive vs negative emotions.
+>
+> While the theory does involve emotional responses, it primarily focuses on how individuals pursue goals through different regulatory orientations. The emphasis is not just on feelings but also on strategic approaches and end-states pursued (promotion vs prevention). This distinction helps explain why similar outcomes can evoke different emotional reactions depending on one's focus.
+
 ## Key Figures
 
 - **Edwin A. Locke** — While not the originator of Regulatory Focus Theory, Edwin A. Locke's work on goal-setting theory has influenced the development of regulatory fit concepts within motivational psychology.
 - **Edwin A. Locke** — Edwin A. Locke's contributions to goal-setting theory have provided a framework for understanding how goals influence motivation and performance, which is relevant to the broader context of Regulatory Focus Theory.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **E. Tory Higgins** — Tory Higgins is the primary developer of Regulatory Focus Theory, which has significantly advanced our understanding of how individuals pursue goals through distinct regulatory orientations.
 
 ## Open Questions
 
@@ -124,6 +147,13 @@ The mechanism by which individuals switch between promotion and prevention focus
 >
 > *What would resolve it:* Experiments involving non-human primates and other species that can demonstrate goal-directed behavior would provide insights into whether Regulatory Focus Theory is applicable beyond human contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural and societal norms influence chronic tendencies towards promotion or prevention focus?
+>
+> *What would resolve it:* Research that examines cross-cultural variations in regulatory foci could provide insights into how broader social contexts shape individual motivational orientations over time.
+
 ## Synthesis
 
 Regulatory Focus Theory matters because it offers a nuanced understanding of how individuals pursue goals, which has implications across various domains. By recognizing the differences between promotion and prevention foci, educators can design more effective learning environments, managers can enhance employee performance, and therapists can tailor their approaches to better support clients. Moreover, integrating Regulatory Focus Theory with other motivational theories like Self-Determination Theory provides a richer framework for understanding human behavior and motivation.
@@ -135,3 +165,10 @@ Regulatory Focus Theory matters because it offers a nuanced understanding of how
 **Applies to:** [[self-determination-theory]]
 
 **Source:** [[regulatory-focus-theory-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-determination-theory]]** — *applies-to*
+> Regulatory Focus Theory and Self-Determination Theory both explore motivational dynamics but from distinct angles. While Self-Determination Theory examines intrinsic vs extrinsic motivation, Regulatory Focus Theory delves into how individuals pursue goals through promotion or prevention orientations. Understanding these complementary perspectives can provide a more comprehensive view of human motivation.

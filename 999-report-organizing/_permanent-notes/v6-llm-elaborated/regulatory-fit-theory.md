@@ -1,13 +1,12 @@
 ---
-title: "Regulatory Fit Theory"
+title: Regulatory Fit Theory
 aliases:
-  - "Regulatory Fit Theory"
-  - "Higgins regulatory fit"
-  - "fit theory"
+  - Regulatory Fit Theory
+  - Higgins regulatory fit
+  - fit theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - decision-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "regulatory-fit-theory-synthetic-seed-2026-04-25"
+  - regulatory-fit-theory-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[motivational-regulation]]"
-  - "[[regulatory-focus-theory]]"
-  - "[[self-determination-theory]]"
-  - "[[intrinsic-motivation]]"
+  - '[[motivational-regulation]]'
+  - '[[regulatory-focus-theory]]'
+  - '[[self-determination-theory]]'
+  - '[[intrinsic-motivation]]'
 prerequisites:
-  - "[[motivational-regulation]]"
+  - '[[motivational-regulation]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[regulatory-focus-theory]]"
+  - '[[regulatory-focus-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[intrinsic-motivation]]"
+  - '[[intrinsic-motivation]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Regulatory Fit Theory
 
@@ -89,6 +88,9 @@ The theory builds on foundational concepts from motivational psychology, particu
 
 Empirical evidence supports this theory through various studies demonstrating that when individuals use strategies consistent with their regulatory focus, they report higher levels of satisfaction and engagement. For example, a study by Higgins (1997) found that students who used eagerness strategies in promotion-focused tasks reported greater enjoyment and persistence compared to those using vigilance strategies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Regulatory Fit Theory also has implications for understanding how individuals respond to feedback and criticism. When feedback aligns with an individual's regulatory focus, it can be more effective in motivating behavior change. For instance, promotion-focused individuals may respond better to positive reinforcement that highlights opportunities for growth, whereas prevention-focused individuals might benefit from negative feedback that emphasizes the need to avoid mistakes or maintain standards.
+
 ## Mechanism
 
 The mechanism behind Regulatory Fit Theory involves the creation of a 'feeling right' state. When an individual's chosen strategy aligns with their regulatory focus, it triggers positive emotions and cognitive processes that enhance engagement and persistence. This alignment reduces cognitive load by making the goal pursuit feel natural and effortless, thereby increasing the likelihood of sustained effort.
@@ -107,14 +109,35 @@ The mechanism behind Regulatory Fit Theory involves the creation of a 'feeling r
 > [!example] **Application 4 — Organizational behavior**
 > In organizational settings, managers can apply Regulatory Fit Theory by aligning performance metrics and rewards systems with employees' regulatory focuses. For promotion-focused employees, setting ambitious goals and recognizing achievements can boost motivation, while prevention-focused employees may respond better to a focus on process improvement and quality control.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be tailored based on students' regulatory focus to enhance learning outcomes. For promotion-focused learners, incorporating spaced retrieval through gamified challenges that offer opportunities for skill improvement and recognition can boost engagement. Conversely, prevention-focused learners might benefit from a structured approach where spaced retrieval is framed as a way to avoid forgetting key concepts, thereby reinforcing their commitment to the course material.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While Regulatory Fit Theory focuses on the alignment between strategy and regulatory orientation, it is distinct from the concept of intrinsic vs extraneous load. Intrinsic load refers to the inherent difficulty of a task, whereas extraneous load pertains to unnecessary cognitive demands introduced by instructional design. Regulatory Fit Theory does not address these cognitive loads but rather emphasizes the motivational impact of strategic alignment.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis of information, while reactive thinking is immediate and often automatic. Regulatory Fit Theory can be distinguished from these cognitive processes in that it focuses on the alignment between goal-pursuit strategies and regulatory focus rather than the nature of thought itself. However, understanding how reflective or reactive thinking influences strategy selection can provide deeper insights into when and why individuals experience regulatory fit.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Regulatory Fit Theory means that any positive emotion will enhance motivation.
+>
+> Regulatory Fit Theory specifically emphasizes the importance of alignment between goal-pursuit strategies and an individual's regulatory focus, which creates a 'feeling right' state. This alignment is distinct from general positive emotions; it involves a specific match that enhances engagement and persistence beyond just feeling good.
+
 ## Key Figures
 
 - **E. Tory Higgins** — E. Tory Higgins is the originator of Regulatory Fit Theory, which he advanced to explain how goal-pursuit strategies enhance motivation and value perception when they align with one's regulatory focus.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **E. Tory Higgins** — Higgins not only introduced Regulatory Fit Theory but also extensively researched its applications across various domains, including marketing and organizational behavior, demonstrating the theory's broad relevance beyond initial psychological contexts.
 
 ## Open Questions
 
@@ -127,6 +150,13 @@ The mechanism behind Regulatory Fit Theory involves the creation of a 'feeling r
 > What are the limitations of regulatory fit in highly complex or ambiguous situations?
 >
 > *What would resolve it:* Studies examining how Regulatory Fit Theory operates under conditions of high complexity or ambiguity could provide insights into its applicability and potential limitations.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does regulatory fit influence long-term goal achievement?
+>
+> *What would resolve it:* Research exploring how sustained alignment between strategies and regulatory focus impacts long-term outcomes could provide insights into whether regulatory fit is a transient or enduring factor in motivation and persistence.
 
 ## Synthesis
 
@@ -145,3 +175,10 @@ Regulatory Fit Theory is significant for understanding motivational processes be
 **Supports:** [[intrinsic-motivation]]
 
 **Source:** [[regulatory-fit-theory-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-determination-theory]]** — *applies-to*
+> Self-Determination Theory (SDT) posits that intrinsic motivation is fostered when individuals' basic psychological needs for autonomy, competence, and relatedness are satisfied. Regulatory Fit Theory complements SDT by suggesting that the alignment between goal-pursuit strategies and regulatory focus can further enhance intrinsic motivation by creating a 'feeling right' state that supports these needs.

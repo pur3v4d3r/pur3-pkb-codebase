@@ -1,13 +1,12 @@
 ---
-title: "Remote Associates Test"
+title: Remote Associates Test
 aliases:
-  - "Remote Associates Test"
-  - "RAT"
-  - "Mednick RAT"
+  - Remote Associates Test
+  - RAT
+  - Mednick RAT
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - individual-differences
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "remote-associates-test-synthetic-seed-2026-04-25"
+  - remote-associates-test-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Creativity Measurement"
-
+depth-level: enhanced
+parent-concept: Creativity Measurement
 related:
-  - "[[insight-problem-solving]]"
-  - "[[divergent-thinking]]"
+  - '[[insight-problem-solving]]'
+  - '[[divergent-thinking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[insight-problem-solving]]"
+  - '[[insight-problem-solving]]'
 contrasts-with:
-  - "[[divergent-thinking]]"
+  - '[[divergent-thinking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Remote Associates Test
 
@@ -87,6 +86,9 @@ The RAT's design reflects its theoretical roots in cognitive psychology and the 
 
 Empirically, the RAT has been used in various contexts, from educational settings to corporate innovation labs. Its predictive validity for creative achievement underscores its utility as a tool for identifying individuals with strong problem-solving skills.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Remote Associates Test (RAT) not only serves as a tool for measuring creativity but also provides insights into the cognitive processes involved in associative thinking. By requiring participants to find connections between seemingly unrelated words, RAT highlights the role of semantic networks and associative memory in creative cognition. This process is akin to navigating through a complex web of interconnected concepts, where each word acts as a node that can be linked to others based on shared meanings or contexts.
+
 ## Mechanism
 
 To solve a RAT problem, participants must engage in a process of associative thinking, where they explore the semantic relationships between words. This involves accessing stored knowledge and making connections that are not immediately obvious, which is facilitated by the activation of related concepts in memory.
@@ -99,6 +101,11 @@ To solve a RAT problem, participants must engage in a process of associative thi
 > [!example] **Application 2 — Corporate innovation**
 > In corporate settings, RAT can help identify employees with strong creative problem-solving skills. Companies can use RAT to screen candidates or assess the effectiveness of training programs aimed at fostering creativity among teams.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance the effectiveness of RAT problems. By presenting RAT triads at intervals rather than all at once, learners are encouraged to revisit and reinforce their associative thinking skills over time. This approach not only improves retention but also helps in identifying areas where students struggle with making remote associations, allowing for targeted interventions.
+
 ## Key Distinctions
 
 > [!key-distinction] **Insight Problem-Solving vs Remote Associates Test**
@@ -107,9 +114,25 @@ To solve a RAT problem, participants must engage in a process of associative thi
 > [!key-distinction] **Divergent Thinking vs Remote Associates Test**
 > RAT measures a form of divergent thinking but is more focused on finding remote associations between words rather than generating multiple solutions to a problem. This distinction highlights the specific nature of RAT within the broader domain of creative cognition.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Convergent vs Divergent Thinking**
+> While RAT is often associated with divergent thinking due to its focus on generating multiple solutions, it also involves convergent thinking. Convergent thinking requires finding a single correct answer from among many possibilities, which aligns with the task of identifying one word that connects three given words in RAT. This distinction highlights how RAT can measure both types of creative cognition.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that solving RAT problems requires only verbal skills.
+>
+> Solving RAT problems actually engages a broader range of cognitive processes beyond just verbal abilities. It involves accessing and integrating information from various semantic networks, which can be influenced by non-verbal experiences and knowledge as well. This misconception arises because the task is presented in a purely verbal format but operates on deeper associative structures that are not limited to language alone.
+
 ## Key Figures
 
 - **Sarnoff Mednick** — Sarnoff Mednick developed the Remote Associates Test, which operationalizes creativity as the capacity to access remote associates in the semantic network. His work laid the foundation for using verbal-associative tasks to measure creative problem-solving.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Sarnoff Mednick** — Mednick's development of the Remote Associates Test was groundbreaking in operationalizing creativity through verbal-associative tasks. His work has been foundational for understanding how associative thinking contributes to creative problem-solving.
 
 ## Open Questions
 
@@ -123,11 +146,21 @@ To solve a RAT problem, participants must engage in a process of associative thi
 >
 > *What would resolve it:* Developing analogous non-verbal versions of RAT that assess similar cognitive processes could help bridge the gap between verbal-associative tasks and broader measures of creativity.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural background influence performance on RAT?
+>
+> *What would resolve it:* Research exploring the impact of cultural context on RAT performance could provide insights into whether certain linguistic or conceptual frameworks facilitate or hinder remote association. This would help in understanding the universality and adaptability of RAT as a creativity measure across diverse populations.
+
 ## Synthesis
 
 The Remote Associates Test (RAT) is a critical tool in understanding creative problem-solving, offering a standardized method to measure this complex cognitive ability. By integrating insights from cognitive psychology and neuroscience, RAT provides valuable data for both research and practical applications. Its predictive validity and brevity make it an indispensable instrument in identifying individuals with strong creative potential across various domains.
 
 RAT's focus on verbal-associative reach highlights the importance of associative memory and semantic networks in creative cognition. However, its limitations underscore the need to consider a broader range of cognitive processes when evaluating creativity more broadly.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Remote Associates Test (RAT) stands out as a versatile tool for assessing creative problem-solving by focusing on associative thinking within semantic networks. Its ability to bridge theoretical insights from cognitive psychology with practical applications in education and industry underscores its importance in the field of creativity measurement.
 
 ## Connections & Context
 
@@ -138,3 +171,10 @@ RAT's focus on verbal-associative reach highlights the importance of associative
 **Contrasts with:** [[divergent-thinking]]
 
 **Source:** [[remote-associates-test-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[insight-problem-solving]]** — *contrasts-with*
+> While both RAT and insight problem-solving tasks aim to measure creative cognition, they differ in their approach. Insight problems often involve a sudden realization or 'aha' moment after an impasse, whereas RAT focuses on the process of associative thinking without necessarily requiring such a breakthrough. This distinction is crucial as it highlights different facets of creativity: RAT emphasizes continuous associative exploration, while insight problem-solving captures moments of epiphany.

@@ -1,12 +1,11 @@
 ---
-title: "Need Thwarting"
+title: Need Thwarting
 aliases:
-  - "Need Thwarting"
-  - "psychological-need thwarting"
+  - Need Thwarting
+  - psychological-need thwarting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - well-being-research
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "need-thwarting-synthetic-seed-2026-04-24"
+  - need-thwarting-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[self-determination-theory]]"
-  - "[[Controlling Environment]]"
+  - '[[self-determination-theory]]'
+  - '[[Controlling Environment]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 contrasts-with:
-  - "[[Controlling Environment]]"
+  - '[[Controlling Environment]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Need Thwarting
 
@@ -85,6 +84,9 @@ In practice, Need Thwarting operates through various mechanisms that actively in
 Theoretical roots of Need Thwarting lie in SDT's emphasis on the importance of intrinsic motivation and the role of supportive environments in fostering psychological well-being. The concept distinguishes itself from mere lack of support by focusing on active interference rather than passive absence, highlighting that even seemingly positive intentions can have negative consequences if they thwart these fundamental needs.
 
 Empirical evidence supports the robustness of Need Thwarting as a predictor of ill-being and defensive disengagement. Studies show that removing thwarting conditions is more urgent for improving well-being than simply adding supportive ones, underscoring its critical role in psychological health.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The concept of Need Thwarting is particularly relevant in educational settings, where it can significantly impact student motivation and learning outcomes. When students experience need thwarting, such as through overly controlling teaching methods or demeaning feedback, they may become disengaged from the learning process. This disengagement not only hampers academic performance but also affects long-term psychological well-being. Understanding how to mitigate these effects is crucial for educators aiming to foster a supportive and enriching educational environment.
 
 ## Mechanism
 
@@ -109,6 +111,19 @@ Need Thwarting operates through specific mechanisms such as controlling pressure
 > [!key-distinction] **Need Thwarting vs Psychological Need Frustration**
 > Psychological need frustration is a more general term that encompasses situations where any psychological need, including autonomy, competence, and relatedness, is not met. Need Thwarting specifically refers to the active interference with these needs, making it distinct from mere non-support.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Intrinsic motivation refers to engaging in an activity for the inherent satisfaction of doing it, while extrinsic motivation involves performing an action due to external rewards or pressures. Need Thwarting often diminishes intrinsic motivation by introducing controlling elements that undermine autonomy and competence. In contrast, fostering a supportive environment can enhance both intrinsic and extrinsic motivations, leading to more sustainable engagement and better outcomes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Need Thwarting only occurs in overtly hostile environments.
+>
+> This misconception arises from the assumption that need thwarting requires obvious negative interactions. In reality, subtle controlling behaviors and conditional treatment can also significantly undermine psychological needs without necessarily being perceived as hostile or aggressive. For instance, well-intentioned but overly directive teaching methods can limit students' autonomy and thus constitute a form of need thwarting.
+
 ## Key Figures
 
 - **Edward Deci** — Co-originator of Self-Determination Theory (SDT) in 1980, Edward Deci played a crucial role in developing the concept of Need Thwarting as part of SDT's framework.
@@ -126,11 +141,21 @@ Need Thwarting operates through specific mechanisms such as controlling pressure
 >
 > *What would resolve it:* Longitudinal studies tracking individuals over extended periods would help elucidate the cumulative impact of chronic need thwarting on various aspects of psychological well-being, including resilience and mental health.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the perception and impact of need thwarting?
+>
+> *What would resolve it:* Exploring cross-cultural differences in how controlling behaviors are perceived could provide insights into more culturally sensitive approaches to mitigating need thwarting. This would involve examining how different cultures interpret autonomy, competence, and relatedness, and how these interpretations shape individuals' responses to potentially thwarting conditions.
+
 ## Synthesis
 
 Understanding Need Thwarting is crucial for improving psychological well-being because it highlights the importance of supportive environments that foster autonomy, competence, and relatedness. By recognizing and addressing thwarting conditions, interventions can be designed to enhance positive outcomes in various contexts such as education, work, and family settings. This concept also underscores the need for a nuanced approach to support, emphasizing active engagement rather than passive provision.
 
 The distinction between Need Thwarting and other related concepts like controlling environment or psychological need frustration is essential for effective application. Recognizing that thwarting conditions are more harmful than mere lack of support allows for targeted interventions that can significantly improve well-being.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating the understanding of Need Thwarting with broader psychological theories such as Self-Determination Theory, researchers can develop more nuanced interventions that address not just surface-level behaviors but also underlying environmental factors. This holistic approach is essential for creating supportive environments that foster long-term well-being and engagement.
 
 ## Connections & Context
 
@@ -141,3 +166,10 @@ The distinction between Need Thwarting and other related concepts like controlli
 **Contrasts with:** [[Controlling Environment]]
 
 **Source:** [[need-thwarting-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-determination-theory]]** — *falls-under*
+> Need Thwarting is an integral part of Self-Determination Theory (SDT) as it directly addresses the conditions that frustrate basic psychological needs. SDT provides a theoretical framework for understanding how environmental factors can either support or thwart these needs, making Need Thwarting a critical concept within this broader theory.
