@@ -1,13 +1,12 @@
 ---
-title: "Interleaving"
+title: Interleaving
 aliases:
-  - "Interleaving"
-  - "Interleaved Practice"
-  - "Interleaving Practice"
+  - Interleaving
+  - Interleaved Practice
+  - Interleaving Practice
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "interleaving-synthetic-seed-2026-04-24"
+  - interleaving-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Desirable Difficulties"
-
+depth-level: enhanced
+parent-concept: Desirable Difficulties
 related:
-  - "[[Discrimination Learning]]"
-  - "[[blocked-practice]]"
-  - "[[spaced-retrieval]]"
+  - '[[Discrimination Learning]]'
+  - '[[blocked-practice]]'
+  - '[[spaced-retrieval]]'
 prerequisites:
-  - "[[Discrimination Learning]]"
+  - '[[Discrimination Learning]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[blocked-practice]]"
+  - '[[blocked-practice]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[spaced-retrieval]]"
+  - '[[spaced-retrieval]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Interleaving
 
@@ -88,6 +87,9 @@ Empirical evidence supports the benefits of interleaving over blocked practice. 
 
 Theoretical roots of interleaving can be traced back to cognitive load theory, which posits that by alternating between similar but distinct tasks, learners are forced to manage their working memory more effectively. This process not only enhances discriminative knowledge but also improves the ability to retrieve information from long-term memory.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Interleaving's effectiveness is further bolstered by its ability to foster metacognitive awareness. When students must switch between different types of problems, they are more likely to reflect on their thought processes and the strategies they use for each problem type. This reflection can lead to a deeper understanding of when and how to apply specific knowledge or skills, enhancing both learning efficiency and adaptability.
+
 ## Mechanism
 
 Interleaving works by juxtaposing similar-but-distinct categories in a way that makes the boundaries between them salient. By alternating between problems on spheres, cones, and cylinders, for example, learners are forced to distinguish between these shapes based on their unique properties, which strengthens their ability to retrieve and apply relevant knowledge.
@@ -103,6 +105,11 @@ Interleaving works by juxtaposing similar-but-distinct categories in a way that 
 > [!example] **Application 3 — Language learning**
 > In language learning, interleaving can be applied by alternating between different grammatical structures or vocabulary sets. For example, a student studying Spanish could interleave exercises on verb conjugations with those on noun genders and adjectives to enhance their ability to discriminate and apply these linguistic elements in context.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), interleaving can be integrated with spaced retrieval techniques to enhance long-term retention. By alternating between different topics or problem types during spaced review sessions, learners are prompted to retrieve and reapply knowledge across varied contexts, reinforcing neural connections and improving the durability of memory.
+
 ## Key Distinctions
 
 > [!key-distinction] **Interleaving vs. Blocked Practice**
@@ -110,6 +117,19 @@ Interleaving works by juxtaposing similar-but-distinct categories in a way that 
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Interleaving can be seen as a form of intrinsic load, which is inherent in the task itself and contributes to deeper learning. In contrast, extraneous load refers to elements that do not contribute to the learning process but may interfere with it (e.g., irrelevant information or distractions). Interleaving enhances discriminative knowledge by managing intrinsic load effectively, whereas extraneous load can detract from this process.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Interleaving vs Massed Practice**
+> While interleaving alternates between different problem types within a session, massed practice involves repeating one type of problem consecutively. Interleaving promotes better discrimination and transfer by requiring learners to switch contexts frequently, whereas massed practice can lead to rapid in-session fluency but poorer long-term retention.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Interleaving means randomizing problem types.
+>
+> Randomization of problems does not equate to interleaving. Interleaving requires that the problem types be discriminably similar, allowing learners to practice distinguishing between them. Randomization without this similarity can lead to confusion and hinder learning.
 
 ## Key Figures
 
@@ -126,6 +146,13 @@ Interleaving works by juxtaposing similar-but-distinct categories in a way that 
 > How can educators effectively implement interleaving in diverse learning environments?
 >
 > *What would resolve it:* Guidelines for integrating interleaving into various educational settings could be developed through case studies and best practices from different disciplines and age groups.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does interleaving affect learners' motivation over time?
+>
+> *What would resolve it:* Research into the motivational impacts of interleaved practice could provide insights into how this strategy influences learner engagement and persistence, especially in challenging or complex learning environments.
 
 ## Synthesis
 
@@ -146,3 +173,10 @@ Empirical evidence consistently shows that interleaving improves delayed retenti
 **Applies to:** [[spaced-retrieval]]
 
 **Source:** [[interleaving-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[spaced-retrieval]]** — *applies-to*
+> Interleaving complements spaced retrieval by enhancing the effectiveness of distributed practice. When interleaved with other problem types, each retrieval attempt is more challenging and contextually varied, which strengthens memory traces and improves long-term retention.

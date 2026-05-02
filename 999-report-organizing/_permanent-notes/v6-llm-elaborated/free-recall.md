@@ -1,12 +1,11 @@
 ---
-title: "Free Recall"
+title: Free Recall
 aliases:
-  - "Free Recall"
-  - "unaided recall"
+  - Free Recall
+  - unaided recall
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,57 +16,57 @@ subdomains:
   - memory-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "free-recall-synthetic-seed-2026-04-25"
+  - free-recall-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Learning Science"
-
+depth-level: enhanced
+parent-concept: Learning Science
 related:
-  - "[[cued-recall]]"
-  - "[[recognition-memory]]"
-  - "[[Re-Reading]]"
+  - '[[cued-recall]]'
+  - '[[recognition-memory]]'
+  - '[[Re-Reading]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[cued-recall]]"
-  - "[[recognition-memory]]"
+  - '[[cued-recall]]'
+  - '[[recognition-memory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Re-Reading]]"
+  - '[[Re-Reading]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Free Recall
 
@@ -87,6 +86,9 @@ Theoretical roots of Free Recall lie in the cognitive science literature, partic
 
 Empirical evidence supports the effectiveness of Free Recall in producing stronger long-term retention compared to re-reading or recognition study methods. For instance, studies have shown that learners who engage in Free Recall practice exhibit better performance on subsequent tests and demonstrate improved transfer of knowledge across different contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Free Recall is particularly effective for assessing deep learning because it requires learners to actively retrieve information from memory without relying on superficial cues or recognition strategies. This process of active retrieval strengthens neural pathways associated with the learned material, leading to more robust and durable memory traces.
+
 ## Mechanism
 
 During Free Recall, the brain generates retrieval pathways based on internal cues rather than external prompts. This process involves activating neural networks associated with the studied material, which strengthens connections between related concepts and enhances long-term memory consolidation.
@@ -102,14 +104,35 @@ During Free Recall, the brain generates retrieval pathways based on internal cue
 > [!example] **Application 3 — Assessment**
 > In assessment contexts, using Free Recall tests can provide a more accurate measure of durable knowledge acquisition. Unlike recognition-memory or cued-recall tests, which may rely on familiarity rather than true recall, Free Recall requires learners to generate the correct information from memory. This makes it an excellent tool for evaluating the depth and quality of learning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), integrating spaced Free Recall exercises can enhance learning outcomes. By scheduling periodic unaided recall tasks, learners are prompted to revisit and consolidate their knowledge over time, which helps prevent forgetting and promotes long-term retention.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Free Recall involves intrinsic load, which is the inherent difficulty of generating retrieval pathways internally without external cues. In contrast, cued-recall tests involve extraneous load, as learners rely on prompts to retrieve information. This distinction matters because Free Recall requires deeper cognitive processing and stronger memory consolidation compared to other forms of recall.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Free Recall contrasts with surface processing methods like re-reading by promoting deep processing. Surface processing involves rote memorization without understanding the underlying concepts, whereas Free Recall requires learners to engage deeply with material, leading to better long-term retention and transfer of knowledge.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that Free Recall is only useful for testing memory.
+>
+> While Free Recall is indeed a powerful tool for assessing memory, its benefits extend beyond mere evaluation. Engaging in Free Recall practice enhances the encoding and consolidation of information into long-term memory, making it an effective learning strategy.
+
 ## Key Figures
 
 - **John Sweller** — Sweller is recognized for his foundational work in cognitive load theory, which emphasizes the importance of Free Recall as a method for durable knowledge acquisition. His research highlighted how the absence of external cues forces learners to generate retrieval pathways internally, leading to more effective long-term memory consolidation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Robert Bjork** — Bjork's research on desirable difficulties highlights how challenging conditions like those encountered during Free Recall can enhance learning outcomes by promoting deeper cognitive processing and memory consolidation.
 
 ## Open Questions
 
@@ -122,6 +145,13 @@ During Free Recall, the brain generates retrieval pathways based on internal cue
 > Can Free Recall be effectively used in conjunction with other study methods?
 >
 > *What would resolve it:* Empirical research comparing the effectiveness of combining Free Recall with other study techniques, such as spaced repetition or elaborative interrogation, would provide insights into how these methods can complement each other.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the complexity of material affect the effectiveness of Free Recall?
+>
+> *What would resolve it:* Longitudinal studies examining the impact of varying levels of material complexity on Free Recall performance would help clarify how different types of information influence learning outcomes through this method.
 
 ## Synthesis
 
@@ -142,3 +172,10 @@ Empirical evidence supports the effectiveness of Free Recall in producing strong
 **Applies to:** [[Re-Reading]]
 
 **Source:** [[free-recall-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Re-Reading]]** — *contrasts-with*
+> Free Recall contrasts with re-reading in that while re-reading involves passive review of material, Free Recall requires active retrieval. This difference is crucial because active retrieval through Free Recall strengthens memory traces more effectively than the passive engagement involved in re-reading.

@@ -1,13 +1,12 @@
 ---
-title: "Leitner System"
+title: Leitner System
 aliases:
-  - "Leitner System"
-  - "Leitner box system"
-  - "paper SRS"
+  - Leitner System
+  - Leitner box system
+  - paper SRS
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,55 @@ subdomains:
   - study-strategy
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "leitner-system-synthetic-seed-2026-04-26"
+  - leitner-system-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Spaced Repetition"
-
+depth-level: enhanced
+parent-concept: Spaced Repetition
 related:
-  - "[[spaced-repetition]]"
-  - "[[Anki]]"
+  - '[[spaced-repetition]]'
+  - '[[Anki]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[spaced-repetition]]"
+  - '[[spaced-repetition]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Anki]]"
+  - '[[Anki]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Leitner System
 
@@ -88,6 +87,9 @@ Theoretical underpinnings of the Leitner System are rooted in cognitive psycholo
 
 Historically, John Sweller introduced this method in 1988 as a practical implementation of spaced repetition. His work laid the groundwork for modern algorithmic SRS systems like Anki, which use more sophisticated algorithms to determine review intervals.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Leitner System's effectiveness in promoting long-term retention is further enhanced by its ability to adapt to individual learning paces and styles. Unlike rigid study schedules, the system allows for personalized review intervals that can be adjusted based on each learner’s performance. This flexibility not only accommodates different cognitive processing speeds but also helps maintain motivation by providing a sense of accomplishment as learners progress through the boxes.
+
 ## Mechanism
 
 The process involves adding new cards by placing them into box one and reviewing them regularly. Correct answers move the card to a higher-numbered box, while incorrect answers send it back to an earlier box for repeated practice. This physical sorting provides tangible feedback that helps learners gauge their progress.
@@ -103,10 +105,28 @@ The process involves adding new cards by placing them into box one and reviewing
 > [!example] **Application 3 — Time management**
 > The system helps with time management by providing clear guidelines on when to review material. This structured approach can reduce the cognitive load of deciding what to study next, allowing learners to focus more on the content rather than planning their study sessions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), where thousands of students engage with content asynchronously, implementing a Leitner System could revolutionize how course materials are reviewed. By integrating spaced repetition principles into online platforms, educators can ensure that key concepts are revisited at optimal intervals, enhancing retention and understanding across diverse student populations.
+
 ## Key Distinctions
 
 > [!key-distinction] **Tangible vs. Intangible Feedback**
 > The Leitner System provides tangible feedback through visible boxes, which can help learners better regulate their workload and monitor progress. In contrast, digital SRS systems like Anki offer intangible feedback in the form of algorithmic scheduling, making it harder to visually track learning progress.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> The Leitner System primarily focuses on recall, where learners must retrieve information from memory without cues. This contrasts with recognition tasks found in many digital SRS systems, which often present multiple-choice options to choose the correct answer. The emphasis on recall in the Leitner System is crucial for developing robust long-term memory and ensuring that knowledge can be accessed freely when needed.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Leitner System requires constant physical sorting of cards, but.
+>
+> While traditional implementations involve manual card movement, modern adaptations and digital versions streamline this process. Digital tools can automatically track card progress and adjust review intervals based on user performance, reducing the need for repetitive physical actions while maintaining the core spaced repetition benefits.
 
 ## Key Figures
 
@@ -124,9 +144,19 @@ The process involves adding new cards by placing them into box one and reviewing
 >
 > *What would resolve it:* Developing a web-based version of the Leitner System that maintains the tangible feedback aspect while leveraging digital tools would help determine its effectiveness in an online context.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the feedback mechanism of the Leitner System influence learner motivation?
+>
+> *What would resolve it:* Empirical studies examining the psychological impact of tangible versus intangible feedback could shed light on how the visual progress tracking in the Leitner System affects learners' intrinsic motivation and persistence.
+
 ## Synthesis
 
 The Leitner System is significant because it embodies the core principles of spaced repetition and provides a practical, hands-on approach to managing learning. By aligning with cognitive science theories and offering tangible feedback, it enhances memory retention and study efficiency. While modern digital SRS systems offer more sophisticated algorithms, the Leitner System remains valuable for its simplicity and effectiveness in promoting long-term learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating spaced repetition with a physical, visible system for managing review intervals, the Leitner System not only enhances memory retention but also provides a tangible sense of progress that can boost learner engagement. This dual benefit positions it as a valuable tool in both traditional and digital learning environments.
 
 ## Connections & Context
 
@@ -137,3 +167,10 @@ The Leitner System is significant because it embodies the core principles of spa
 **Contrasts with:** [[Anki]]
 
 **Source:** [[leitner-system-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[spaced-repetition]]** — *falls-under*
+> The Leitner System is a specific instantiation of spaced repetition principles, applying them through a tangible, physical method. Understanding the broader concept of spaced repetition provides context for why and how the Leitner System works, highlighting its role in optimizing memory retention.

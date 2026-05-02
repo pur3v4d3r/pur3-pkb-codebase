@@ -1,13 +1,12 @@
 ---
-title: "Decision Science"
+title: Decision Science
 aliases:
-  - "Decision Science"
-  - "judgment and decision making"
-  - "JDM"
+  - Decision Science
+  - judgment and decision making
+  - JDM
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - judgment-and-decision-making
 
 created: 2026-04-27
-updated: 2026-04-27
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "decision-science-synthetic-seed-2026-04-27"
+  - decision-science-synthetic-seed-2026-04-27
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Science"
-
+depth-level: enhanced
+parent-concept: Cognitive Science
 related:
-  - "[[prospect-theory]]"
-  - "[[behavioral-economics]]"
-  - "[[expected-utility-theory]]"
-  - "[[Cognitive Biases]]"
+  - '[[prospect-theory]]'
+  - '[[behavioral-economics]]'
+  - '[[expected-utility-theory]]'
+  - '[[Cognitive Biases]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[prospect-theory]]"
+  - '[[prospect-theory]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[behavioral-economics]]"
-  - "[[expected-utility-theory]]"
+  - '[[behavioral-economics]]'
+  - '[[expected-utility-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Cognitive Biases]]"
+  - '[[Cognitive Biases]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Decision Science
 
@@ -90,6 +89,9 @@ Theoretical roots of Decision Science trace back to early work on cognitive proc
 
 Empirical research in Decision Science has shown that cognitive constraints significantly influence decision-making. For example, studies have demonstrated that individuals under time pressure or with limited attentional resources are more likely to fall prey to biases and make suboptimal choices. This highlights the importance of understanding how cognitive limitations affect decision outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Decision Science also explores how cultural and social contexts shape decision-making processes, highlighting that what may be considered rational in one culture might not hold true in another. This cross-cultural perspective is crucial for understanding the variability in human behavior across different societies.
+
 ## Mechanism
 
 Decision Science operates through a series of interconnected mechanisms, including the integration of heuristics and biases from psychology with economic models of rational choice. These mechanisms work together to explain why people often make decisions that deviate from optimal choices. For instance, the availability heuristic, where individuals rely on readily available information rather than comprehensive data, can lead to biased judgments. By understanding these mechanisms, Decision Science provides a more nuanced view of human decision-making.
@@ -105,15 +107,36 @@ Decision Science operates through a series of interconnected mechanisms, includi
 > [!example] **Application 3 — Marketing**
 > In marketing, Decision Science helps companies design more effective advertising campaigns by understanding how consumers process information under limited attentional resources. For example, using simple, clear messaging can help overcome the limitations of working memory and increase the likelihood that consumers will remember key product features.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance decision-making by reducing cognitive load. By spacing out quizzes and assessments over time, learners are less likely to experience the extraneous load that comes from cramming information into short periods.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Decision Science distinguishes between intrinsic load (the inherent complexity of a task) and extraneous load (unnecessary cognitive demands imposed by the way information is presented). Intrinsic load cannot be reduced, but extraneous load can be minimized to improve decision-making. For example, in instructional design, reducing extraneous load through clear and concise communication can enhance learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of options and consequences, whereas reactive thinking is immediate and often based on gut feelings. In Decision Science, understanding these modes helps explain why people sometimes make impulsive choices that later seem irrational.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Decision Science only focuses on biases.
+>
+> While cognitive biases are a key focus of Decision Science, the field also encompasses rational decision-making models and integrates insights from economics. This dual approach allows for a more comprehensive understanding of human behavior.
+
 ## Key Figures
 
 - **Daniel Kahneman** — Daniel Kahneman is a key contributor to Decision Science, particularly for his work on cognitive biases and the development of Prospect Theory. His Nobel Prize in Economics (2002) recognized his groundbreaking research on how people make decisions under uncertainty.
 - **Amos Tversky** — Amos Tversky co-developed Prospect Theory with Daniel Kahneman and made significant contributions to the understanding of heuristics and biases in decision-making. His work laid the foundation for much of modern Decision Science research.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **George Loewenstein** — Loewenstein's work on intertemporal choice, which examines how people make decisions involving trade-offs between immediate and future rewards, has significantly contributed to Decision Science by highlighting the role of time in decision-making processes.
 
 ## Open Questions
 
@@ -127,11 +150,21 @@ Decision Science operates through a series of interconnected mechanisms, includi
 >
 > *What would resolve it:* Empirical studies that test the predictive accuracy of different decision-making models under various conditions could provide insights into their limitations and guide future research directions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do technological advancements impact human decision-making?
+>
+> *What would resolve it:* Research into how technology influences cognitive biases and decision-making strategies would help resolve this question, providing insights into both positive and negative impacts on human choices.
+
 ## Synthesis
 
 Decision Science is crucial for understanding human behavior because it provides a comprehensive framework for analyzing how individuals make decisions. By integrating insights from psychology, economics, statistics, and neuroscience, Decision Science offers valuable tools for improving decision-making processes in various domains such as public policy, marketing, and instructional design. Its dual-natured approach ensures that both descriptive and normative aspects of decision-making are considered, making it a vital field for advancing our understanding of human cognition and behavior.
 
 The interdisciplinary nature of Decision Science also makes it relevant to related fields like behavioral economics and cognitive biases. While these fields share some commonalities, they differ in their focus and methodologies. Behavioral economics often emphasizes the application of economic models to understand real-world decision-making, whereas Decision Science takes a broader approach that includes naturalistic decision-making research and neuroeconomic work.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Decision Science synthesizes knowledge from multiple disciplines to offer a holistic view of decision-making processes. By integrating psychological, economic, statistical, and neuroscientific perspectives, it provides tools for understanding not just what people choose but why they make those choices.
 
 ## Connections & Context
 
@@ -144,3 +177,10 @@ The interdisciplinary nature of Decision Science also makes it relevant to relat
 **Applies to:** [[Cognitive Biases]]
 
 **Source:** [[decision-science-synthetic-seed-2026-04-27]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[expected-utility-theory]]** — *contrasts-with*
+> Decision Science contrasts with Expected Utility Theory by acknowledging that people often deviate from the rational choice predicted by utility theory due to cognitive biases and heuristics. This contrast highlights the limitations of purely economic models in explaining real-world decision-making.

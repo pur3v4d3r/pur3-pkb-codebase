@@ -1,12 +1,11 @@
 ---
-title: "Behavioral Economics"
+title: Behavioral Economics
 aliases:
-  - "Behavioral Economics"
-  - "behavioural economics"
+  - Behavioral Economics
+  - behavioural economics
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - decision-science
 
 created: 2026-04-27
-updated: 2026-04-27
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "behavioral-economics-synthetic-seed-2026-04-27"
+  - behavioral-economics-synthetic-seed-2026-04-27
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Decision Science"
-
+depth-level: enhanced
+parent-concept: Decision Science
 related:
-  - "[[loss-aversion]]"
-  - "[[hyperbolic-discounting]]"
-  - "[[prospect-theory]]"
+  - '[[loss-aversion]]'
+  - '[[hyperbolic-discounting]]'
+  - '[[prospect-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[loss-aversion]]"
-  - "[[hyperbolic-discounting]]"
+  - '[[loss-aversion]]'
+  - '[[hyperbolic-discounting]]'
 broader:
-  - "[[prospect-theory]]"
+  - '[[prospect-theory]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Behavioral Economics
 
@@ -88,6 +87,9 @@ Behavioral Economics also highlights how framing affects decision-making. For ex
 
 The empirical grounding of Behavioral Economics comes from extensive experimental research. Studies have shown that people often exhibit systematic deviations from expected-utility maximization, such as loss aversion and reference dependence. These findings challenge the rational-choice theory by showing that human behavior is not always consistent with the predictions of utility maximization.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Behavioral Economics also explores how social and cultural contexts shape economic decisions, a concept known as 'bounded rationality.' This perspective acknowledges that individuals operate within limited cognitive capacities and are influenced by their environment, leading to systematic deviations from purely rational choices. For example, the impact of social norms on saving behaviors can be significant; people may save more when they perceive it as socially expected or normative.
+
 ## Mechanism
 
 Behavioral Economics operates through a series of cognitive biases and heuristics that influence decision-making. For example, the availability heuristic leads individuals to overestimate the likelihood of events based on how easily examples come to mind. This can result in irrational decisions, such as avoiding flying after a high-profile plane crash due to its vivid memory rather than statistical safety data.
@@ -103,10 +105,28 @@ Behavioral Economics operates through a series of cognitive biases and heuristic
 > [!example] **Application 3 — Finance**
 > In finance, Behavioral Economics explains why investors might sell winning stocks too early and hold onto losing ones for too long. This can lead to suboptimal portfolio management strategies that underperform the market due to emotional biases rather than rational analysis.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Behavioral Economics in Healthcare**
+> In healthcare, understanding behavioral biases is crucial for improving patient outcomes. For instance, by leveraging the concept of loss aversion, public health campaigns can frame messages around avoiding negative health consequences rather than gaining positive ones. This approach has been shown to increase compliance with preventive measures such as vaccinations or screenings.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While intrinsic load refers to the inherent difficulty of a task, extraneous load is imposed by the way information is presented. Behavioral Economics distinguishes between these concepts by showing how cognitive biases can create extraneous loads that distort decision-making, whereas rational-choice theory focuses on minimizing intrinsic load through optimal strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate, analytical processes that consider long-term consequences and alternatives, whereas reactive thinking is immediate and driven by emotional responses. Behavioral Economics highlights how many economic decisions are made reactively due to cognitive biases like the availability heuristic or framing effects, often leading to suboptimal outcomes compared to reflective decision-making.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Behavioral Economics assumes all people make irrational choices.
+>
+> This misconception arises from oversimplifying the field's findings. Behavioral Economics does not claim that individuals are always irrational; rather, it identifies systematic biases and heuristics that can lead to predictable deviations from rational choice models under certain conditions. Understanding these biases helps in designing better economic policies and interventions.
 
 ## Key Figures
 
@@ -125,11 +145,21 @@ Behavioral Economics operates through a series of cognitive biases and heuristic
 >
 > *What would resolve it:* Cross-cultural research comparing decision-making biases across different societies would provide insights into these limitations and potential adaptations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural differences influence the application of Behavioral Economics principles?
+>
+> *What would resolve it:* Cross-cultural studies are needed to explore how different social norms and values affect the effectiveness of behavioral interventions. Such research could help tailor policies and programs more effectively across diverse populations.
+
 ## Synthesis
 
 Behavioral Economics matters because it provides a more nuanced understanding of human behavior in economic contexts. By integrating psychological findings, it offers practical applications in marketing, public policy, and finance that can lead to better outcomes. The concept challenges traditional rational-choice theory by highlighting the importance of cognitive biases and heuristics, which are crucial for designing effective interventions and policies.
 
 The integration of Behavioral Economics into broader decision science also enhances our ability to predict and influence human behavior in various domains. This interdisciplinary approach not only enriches economic models but also contributes to fields such as psychology, sociology, and neuroscience by providing empirical evidence on the cognitive processes underlying decision-making.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Behavioral Economics not only enriches our understanding of economic behavior but also provides practical tools for improving decision-making in various fields, from marketing to public health. By integrating psychological insights with economic theory, it offers a more realistic model of human behavior that can lead to better policy outcomes and individual choices.
 
 ## Connections & Context
 
@@ -140,3 +170,10 @@ The integration of Behavioral Economics into broader decision science also enhan
 **Generalizes to:** [[prospect-theory]]
 
 **Source:** [[behavioral-economics-synthetic-seed-2026-04-27]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[prospect-theory]]** — *generalizes-to*
+> Prospect Theory is a cornerstone of Behavioral Economics, providing a framework for understanding how people evaluate gains and losses differently. This theory generalizes to broader economic behaviors by explaining why individuals often exhibit risk-averse behavior in potential gains but become risk-seeking when facing losses. Understanding Prospect Theory helps illuminate the psychological underpinnings of many economic decisions.

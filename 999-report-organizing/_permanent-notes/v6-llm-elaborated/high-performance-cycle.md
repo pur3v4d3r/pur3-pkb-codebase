@@ -1,15 +1,14 @@
 ---
-title: "High Performance Cycle"
+title: High Performance Cycle
 aliases:
-  - "High Performance Cycle"
-  - "Goal-Setting Theory Foundational Report"
-  - "GST — Locke and Latham"
-  - "High Performance Cycle Foundational Treatment"
-  - "Goal Setting Mechanisms and Moderators"
+  - High Performance Cycle
+  - Goal-Setting Theory Foundational Report
+  - GST — Locke and Latham
+  - High Performance Cycle Foundational Treatment
+  - Goal Setting Mechanisms and Moderators
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "goal-setting-theory-locke-latham-foundational-report-2026-04-20"
+  - goal-setting-theory-locke-latham-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Goal-Setting Theory"
-
+depth-level: enhanced
+parent-concept: Goal-Setting Theory
 related:
-  - "[[self-efficacy]]"
-  - "[[achievement-goal-theory]]"
+  - '[[self-efficacy]]'
+  - '[[achievement-goal-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[self-efficacy]]"
+  - '[[self-efficacy]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[achievement-goal-theory]]"
+  - '[[achievement-goal-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # High Performance Cycle
 
@@ -89,6 +88,9 @@ In practice, this cycle operates through a series of steps. An individual sets a
 Theoretical roots of the High Performance Cycle can be traced back to Goal-Setting Theory, which posits that specific goals lead to better performance than vague ones. The cycle's dynamic nature amplifies these effects by creating a self-sustaining loop where rewards from achieving goals reinforce further effort and commitment. This structural identity is evident in various domains, such as skill acquisition and athletic practice.
 
 Empirically, the High Performance Cycle has been observed across different contexts. For instance, in skill acquisition, musicians practicing difficult passages implicitly apply this cycle: setting a specific goal (play this passage at this tempo without errors), applying self-efficacy to support commitment, activating mechanisms of attention, effort, persistence, and search for means, receiving feedback from performance evaluation, generating satisfaction or dissatisfaction, and reinforcing commitment to the next goal episode.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The High Performance Cycle is not merely a linear progression but rather an iterative and recursive process that can be influenced by external factors such as feedback from peers, supervisors, or mentors. This dynamic interplay between internal goal-setting mechanisms and external influences creates a complex system where the cycle's effectiveness can vary significantly based on the quality of feedback received and the individual’s ability to integrate it into their ongoing performance improvement efforts.
 
 ## Mechanism
 
@@ -113,6 +115,19 @@ The cycle operates through four key mechanisms: attention, which focuses on the 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The High Performance Cycle focuses on intrinsic load, which is the cognitive demand of a task itself, as opposed to extraneous load, which includes irrelevant or unnecessary elements. Understanding this distinction helps in designing tasks that are challenging yet manageable, ensuring optimal performance without overwhelming the individual.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Performance vs Learning**
+> The High Performance Cycle primarily focuses on enhancing immediate performance through goal setting, whereas learning-oriented approaches aim for long-term skill acquisition. While both are crucial, the cycle's emphasis on achieving specific goals can sometimes overshadow the development of deeper understanding and skills that lead to sustained improvement over time.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that setting any goal will automatically trigger the High Performance Cycle.
+>
+> Setting a goal is just the first step. For the cycle to be effective, goals must be specific, challenging yet achievable, and accepted by the individual. Without these conditions, the mechanisms of attention, effort, persistence, and means-finding may not activate fully, leading to suboptimal performance.
+
 ## Key Figures
 
 - **Barry J. Zimmerman** — Barry J. Zimmerman developed the Cyclical Model of Self-Regulation, which provided a framework for integrating Goal Setting Theory with self-regulated learning. His work has substantially refined the theory's applicability to learning contexts.
@@ -129,11 +144,21 @@ The cycle operates through four key mechanisms: attention, which focuses on the 
 >
 > *What would resolve it:* Longitudinal studies tracking the psychological and physical well-being of individuals engaged in high-performance cycles could provide insights into these effects.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the integration of feedback mechanisms impact the sustainability of the High Performance Cycle over time?
+>
+> *What would resolve it:* Research into how regular, constructive feedback influences goal commitment and persistence could provide insights into maintaining long-term engagement with challenging goals. Understanding these dynamics is crucial for developing strategies that sustain motivation beyond initial goal achievement.
+
 ## Synthesis
 
 The High Performance Cycle is significant because it provides a comprehensive framework for understanding both successful goal achievement and potential pathologies. By integrating specific, challenging goals with mechanisms that drive performance and commitment, the cycle offers a powerful tool for enhancing motivation in various domains. Its application extends beyond traditional motivational theories to include self-regulated learning and deliberate practice, making it a cornerstone of modern motivation science.
 
 The cycle's structural identity allows us to understand both its proudest achievements and most concerning failures through the same framework. This makes it a valuable tool for educators, athletes, knowledge managers, and project teams seeking sustained excellence.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The High Performance Cycle offers a robust framework for understanding the interplay between goal setting and performance enhancement, but its effectiveness can be significantly influenced by external factors such as feedback quality and individual differences in learning orientation. Future research should explore how to integrate these elements to create more sustainable and adaptable cycles of improvement.
 
 ## Connections & Context
 
@@ -144,3 +169,10 @@ The cycle's structural identity allows us to understand both its proudest achiev
 **Applies to:** [[achievement-goal-theory]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[achievement-goal-theory]]** — *applies-to*
+> Achievement Goal Theory provides a framework for understanding how individuals' goals can be either mastery-oriented (focused on learning and self-improvement) or performance-approach/avoidance oriented (focused on demonstrating competence or avoiding incompetence). The High Performance Cycle, by emphasizing specific challenging goals that drive effort and persistence, aligns closely with the performance approach orientation within Achievement Goal Theory.

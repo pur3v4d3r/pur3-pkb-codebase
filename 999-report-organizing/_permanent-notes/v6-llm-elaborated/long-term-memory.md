@@ -1,13 +1,12 @@
 ---
-title: "Long-Term Memory"
+title: Long-Term Memory
 aliases:
-  - "Long-Term Memory"
-  - "LTM"
-  - "secondary memory"
+  - Long-Term Memory
+  - LTM
+  - secondary memory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - neuroscience
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "long-term-memory-synthetic-seed-2026-04-24"
+  - long-term-memory-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[retrieval-practice]]"
-  - "[[schema-theory]]"
+  - '[[working-memory]]'
+  - '[[retrieval-practice]]'
+  - '[[schema-theory]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[retrieval-practice]]"
+  - '[[retrieval-practice]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[schema-theory]]"
+  - '[[schema-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Long-Term Memory
 
@@ -88,6 +87,9 @@ The theoretical roots of LTM are deeply intertwined with schema theory, which pr
 
 Empirical evidence supports the constructive nature of LTM through studies on retrieval practice. Repeatedly retrieving information from Long-Term Memory strengthens neural connections, leading to better retention and transfer of knowledge. However, this also means that repeated exposure can lead to distortions in memory, as evidenced by phenomena like the misinformation effect.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Long-Term Memory's capacity for storing vast amounts of information is not just a passive archive but an active participant in cognitive processes. It dynamically interacts with Working Memory, providing schemas that simplify complex tasks and facilitate problem-solving by drawing on relevant past experiences. This interaction highlights the importance of Long-Term Memory in both learning new skills and applying existing knowledge to novel situations.
+
 ## Mechanism
 
 The constructive nature of retrieval from LTM involves a process where every act of recall partially reconstructs and modifies the stored content. This is why repeated retrieval practice not only consolidates information but also leads to potential distortions in memory, as new information can alter existing schemas.
@@ -103,10 +105,28 @@ The constructive nature of retrieval from LTM involves a process where every act
 > [!example] **Application 3 — Memory consolidation**
 > Memory consolidation can be improved by spacing out retrieval practice over time. This technique helps in strengthening neural connections and enhancing long-term retention without leading to significant distortions in memory content.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can significantly enhance student engagement and retention. By integrating regular, low-stakes quizzes that revisit key concepts over time, educators can leverage the spacing effect to strengthen Long-Term Memory connections. This approach not only reinforces learning but also helps students build robust schemas that support long-term recall and application of knowledge.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is imposed by instructional design. Long-Term Memory plays a role in managing intrinsic load by providing pre-organized schemas that make complex tasks more manageable. In contrast, extraneous load can overwhelm working memory and hinder learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> Recognition involves identifying information when presented with cues, whereas recall requires retrieving the information without such prompts. In Long-Term Memory, recognition is generally easier because it relies on cue-dependent retrieval, which activates existing memory traces more efficiently than free recall does. Understanding this distinction helps in designing effective learning strategies that balance between these two types of retrieval to optimize long-term retention.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Long-Term Memory is infallible and permanent.
+>
+> Long-Term Memory, while durable, is not immune to change or loss. The process of retrieval can alter stored information through reconstruction errors, leading to potential distortions over time. Additionally, certain neurological conditions or traumatic events can impair memory storage and retrieval processes, highlighting the fallibility inherent in Long-Term Memory.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ The constructive nature of retrieval from LTM involves a process where every act
 >
 > *What would resolve it:* Research exploring the boundaries of LTM's capacity and the factors that influence its organization, such as age and individual differences, could help clarify these limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the spacing effect influence Long-Term Memory consolidation?
+>
+> *What would resolve it:* Empirical studies on the spacing effect would provide insights into optimal intervals for spaced practice to maximize memory retention. Understanding these intervals can inform instructional design, ensuring that retrieval practices are timed to enhance long-term storage and recall.
+
 ## Synthesis
 
 Understanding Long-Term Memory is crucial for grasping how knowledge is acquired, stored, and retrieved. It connects with schema theory to explain how our experiences are organized into mental frameworks that facilitate learning and expertise development. By leveraging instructional strategies like retrieval practice, educators can enhance long-term retention and transfer of knowledge, while also considering the constructive nature of memory retrieval.
 
 Long-Term Memory's role in bypassing working-memory limitations is particularly important for developing expertise across various domains. Its organization into schemas allows experts to process complex tasks more efficiently, making it a central concept in cognitive psychology.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Long-Term Memory's role in cognitive architecture reveals its critical function in both learning and expertise development. By actively engaging with stored information through techniques like spaced retrieval and schema construction, individuals can optimize the organization and accessibility of their knowledge base, fostering deeper understanding and more effective application across various contexts.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ Long-Term Memory's role in bypassing working-memory limitations is particularly 
 **Supports:** [[schema-theory]]
 
 **Source:** [[long-term-memory-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[retrieval-practice]]** — *applies-to*
+> Retrieval practice is a powerful technique that directly impacts Long-Term Memory by enhancing the consolidation and accessibility of stored information. By actively recalling learned material, retrieval practice strengthens memory traces, making it easier to retrieve in future contexts. This connection underscores how strategic retrieval can optimize learning outcomes by reinforcing schemas within LTM.

@@ -1,12 +1,11 @@
 ---
-title: "Entity Theory of Intelligence"
+title: Entity Theory of Intelligence
 aliases:
-  - "Entity Theory of Intelligence"
-  - "entity theory"
+  - Entity Theory of Intelligence
+  - entity theory
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "entity-theory-of-intelligence-synthetic-seed-2026-04-24"
+  - entity-theory-of-intelligence-synthetic-seed-2026-04-24
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Implicit Theories"
-
+depth-level: enhanced
+parent-concept: Implicit Theories
 related:
-  - "[[Implicit Theories]]"
-  - "[[incremental-theory-of-intelligence]]"
+  - '[[Implicit Theories]]'
+  - '[[incremental-theory-of-intelligence]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Implicit Theories]]"
+  - '[[Implicit Theories]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[incremental-theory-of-intelligence]]"
+  - '[[incremental-theory-of-intelligence]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Entity Theory of Intelligence
 
@@ -86,6 +85,9 @@ Theoretical roots of the Entity Theory trace back to Dweck's work on implicit th
 
 Empirical evidence supports the link between the Entity Theory and behavior. Studies have shown that students who believe their intelligence is fixed are more likely to engage in performance-avoidant strategies, such as cheating or seeking easy grades, rather than putting in effort for challenging tasks. This has been observed across various age groups and educational settings, highlighting the pervasive impact of this belief on academic outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Entity Theory not only affects how individuals perceive their own intelligence but also shapes their social interactions and relationships with others who hold differing views on intelligence. For instance, in peer learning environments, students with an entity theory might avoid collaboration with peers they perceive as more intelligent, fearing that any failure could confirm their belief about their fixed abilities. This avoidance can lead to missed opportunities for mutual growth and support.
+
 ## Mechanism
 
 The cognitive processes underlying the Entity Theory involve a performance goal orientation where individuals focus on demonstrating their existing abilities rather than improving them. When faced with failure or challenges, those with an Entity Theory often respond with helpless responses, believing that effort is futile and that they cannot change their intelligence level.
@@ -101,10 +103,28 @@ The cognitive processes underlying the Entity Theory involve a performance goal 
 > [!example] **Application 3 — Parental guidance**
 > Parents who understand the Entity Theory can support their children's development by praising effort rather than innate ability. This approach helps children develop resilience and a belief in their own potential, leading to more persistent and effective learning strategies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), where students often have diverse mindsets, spaced retrieval techniques can be particularly effective. For learners with an entity theory who might otherwise avoid challenging material due to fear of failure, spaced practice breaks down the learning into manageable chunks over time. This approach reduces immediate cognitive load and provides repeated exposure to content, which can gradually shift their perception from a fixed mindset towards recognizing intelligence as malleable through consistent effort.
+
 ## Key Distinctions
 
 > [!key-distinction] **Entity vs Incremental Theories**
 > The Entity Theory of Intelligence contrasts with the Incremental Theory by positing that intelligence is fixed versus malleable. Individuals with an Entity Theory believe their abilities are unchangeable, while those with an Incremental Theory see intelligence as something that can grow through effort and learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Fixed vs Growth Mindset**
+> The distinction between Fixed and Growth Mindsets is crucial for understanding the Entity Theory of Intelligence. While those with a Fixed Mindset believe their abilities are static, individuals with a Growth Mindset see potential for development through effort and learning. This contrast highlights how mindset can influence motivation, resilience, and ultimately, academic or professional success.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often think that the Entity Theory of Intelligence only affects students in educational settings.
+>
+> In reality, the impact of an entity theory extends beyond classrooms into various aspects of life. In professional environments, for example, employees with a fixed mindset might avoid taking on new challenges or learning new skills out of fear it will expose their perceived lack of ability. This can limit career growth and innovation within organizations.
 
 ## Key Figures
 
@@ -122,11 +142,21 @@ The cognitive processes underlying the Entity Theory involve a performance goal 
 >
 > *What would resolve it:* Randomized controlled trials testing various intervention strategies, such as cognitive-behavioral techniques or educational programs, could help determine the efficacy of shifting mindsets and their impact on behavior.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the prevalence and impact of an entity theory?
+>
+> *What would resolve it:* Longitudinal studies across diverse cultures could reveal how societal values around intelligence, effort, and success shape individuals' mindsets. Understanding these influences can inform culturally sensitive interventions aimed at promoting a growth mindset.
+
 ## Synthesis
 
 The Entity Theory of Intelligence matters because it profoundly shapes how individuals approach challenges and perceive their own abilities. By understanding this theory, educators, parents, and organizations can design interventions that promote a growth mindset, leading to better academic performance, resilience, and overall well-being.
 
 This concept intersects with broader theories in motivation research and psychology, highlighting the importance of implicit beliefs in shaping behavior. Recognizing the Entity Theory as one lens among many allows for more nuanced approaches to fostering personal development and learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the Entity Theory of Intelligence is pivotal not just for educational settings but also for broader social and professional contexts. By recognizing how fixed beliefs about intelligence impact behavior, we can design more effective strategies to foster resilience and continuous learning across various life stages.
 
 ## Connections & Context
 
@@ -137,3 +167,10 @@ This concept intersects with broader theories in motivation research and psychol
 **Contrasts with:** [[incremental-theory-of-intelligence]]
 
 **Source:** [[entity-theory-of-intelligence-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[incremental-theory-of-intelligence]]** — *contrasts-with*
+> The Incremental Theory of Intelligence directly contrasts with the Entity Theory by positing that intelligence can grow and develop through effort and learning. This opposition is fundamental as it highlights different approaches to personal development and resilience in the face of challenges.

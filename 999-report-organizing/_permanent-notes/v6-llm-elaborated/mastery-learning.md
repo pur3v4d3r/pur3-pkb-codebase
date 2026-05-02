@@ -1,13 +1,12 @@
 ---
-title: "Mastery Learning"
+title: Mastery Learning
 aliases:
-  - "Mastery Learning"
-  - "Bloom mastery learning"
-  - "learning for mastery"
+  - Mastery Learning
+  - Bloom mastery learning
+  - learning for mastery
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - assessment
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "mastery-learning-synthetic-seed-2026-04-25"
+  - mastery-learning-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Design"
-
+depth-level: enhanced
+parent-concept: Instructional Design
 related:
-  - "[[direct-instruction]]"
-  - "[[formative-assessment]]"
+  - '[[direct-instruction]]'
+  - '[[formative-assessment]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[direct-instruction]]"
+  - '[[direct-instruction]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[formative-assessment]]"
+  - '[[formative-assessment]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Mastery Learning
 
@@ -86,6 +85,9 @@ The core mechanism of Mastery Learning involves continuous assessment and feedba
 The theoretical roots of Mastery Learning can be traced back to educational psychology, particularly the work of Benjamin Bloom. Bloom's '2-sigma' finding demonstrated that mastery-based instruction significantly outperforms traditional teaching methods in terms of student achievement. This framework emphasizes the importance of diagnosing learning gaps and providing structured corrective interventions.
 
 Empirically, Mastery Learning has been shown to produce large effect sizes when implemented with fidelity. However, it is crucial to maintain the integrity of this approach by ensuring that diagnostic formative assessments, structured corrective instruction, and criterion-referenced standards are all in place. Diluted versions of Mastery Learning, such as simply allowing multiple retakes without targeted intervention, often fail to achieve these benefits.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Mastery Learning's emphasis on cumulative knowledge ensures that students do not merely pass superficially but truly understand each concept before moving forward. This approach contrasts with traditional education models, which often allow students to progress despite gaps in understanding, leading to a fragmented and incomplete grasp of the subject matter.
 
 ## Mechanism
 
@@ -107,6 +109,19 @@ In practice, Mastery Learning operates through a series of steps: initial assess
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Mastery Learning focuses on intrinsic load by ensuring that learners have a solid foundation before moving to new material. In contrast, extraneous load is often associated with Direct Instruction and Formative Assessment, which may not always provide the same level of structured corrective interventions. The distinction lies in the depth of understanding required for mastery versus the breadth of content covered.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Performance vs Learning**
+> Mastery Learning prioritizes learning over performance by ensuring that learners achieve deep understanding rather than merely passing assessments. This distinction is crucial because while performance may indicate temporary success, learning signifies durable knowledge acquisition and retention.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Mastery Learning means students must master every single detail before moving on.
+>
+> This misconception arises from a misunderstanding of the concept's flexibility. While Mastery Learning does require mastery of key concepts, it allows for some flexibility in how much depth is pursued within each topic to ensure overall comprehension and progression.
+
 ## Key Figures
 
 - **Benjamin Bloom** — Benjamin Bloom is credited with developing Mastery Learning as part of his broader work on educational psychology. His '2-sigma' finding demonstrated that mastery-based instruction significantly outperforms traditional teaching methods, highlighting the importance of this approach in improving student achievement.
@@ -123,11 +138,21 @@ In practice, Mastery Learning operates through a series of steps: initial assess
 >
 > *What would resolve it:* Longitudinal studies tracking students who have experienced Mastery Learning over multiple years would provide insights into its sustained impact on academic achievement and lifelong learning skills.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Mastery Learning balance the need for thorough understanding with the practical constraints of time and curriculum pacing?
+>
+> *What would resolve it:* Addressing this tension would require empirical studies examining how to efficiently integrate Mastery Learning principles without compromising on depth or pace, potentially through innovative assessment tools and instructional strategies.
+
 ## Synthesis
 
 Mastery Learning is a critical concept in educational psychology because it addresses the fundamental challenge of ensuring that all learners achieve deep understanding before advancing. By integrating formative assessment, corrective instruction, and criterion-referenced standards, Mastery Learning not only improves immediate academic performance but also fosters long-term learning skills. Its application across various instructional designs highlights its versatility and importance in modern education.
 
 The concept of Mastery Learning intersects with other educational frameworks like Direct Instruction and Formative Assessment, each contributing unique strengths to the broader landscape of instructional design. By understanding these distinctions and applying Mastery Learning effectively, educators can create more effective learning environments that support diverse student needs.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By focusing on deep learning rather than superficial performance, Mastery Learning not only enhances individual student outcomes but also contributes to a more equitable educational system where all learners have the opportunity to achieve mastery regardless of initial skill level or background.
 
 ## Connections & Context
 
@@ -138,3 +163,10 @@ The concept of Mastery Learning intersects with other educational frameworks lik
 **Applies to:** [[formative-assessment]]
 
 **Source:** [[mastery-learning-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[formative-assessment]]** — *applies-to*
+> Mastery Learning relies heavily on formative assessments to identify learning gaps and provide immediate corrective instruction. This continuous feedback loop is essential for ensuring that students achieve mastery before progressing, making formative assessment a critical component of the Mastery Learning framework.

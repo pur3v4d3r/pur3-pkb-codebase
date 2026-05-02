@@ -1,12 +1,11 @@
 ---
-title: "Coherentism"
+title: Coherentism
 aliases:
-  - "Coherentism"
-  - "coherentist theory of justification"
+  - Coherentism
+  - coherentist theory of justification
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,55 +16,55 @@ subdomains:
   - analytic-epistemology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "coherentism-synthetic-seed-2026-04-25"
+  - coherentism-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Epistemology"
-
+depth-level: enhanced
+parent-concept: Epistemology
 related:
-  - "[[foundationalism]]"
-  - "[[Holistic-Justification]]"
+  - '[[foundationalism]]'
+  - '[[Holistic-Justification]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[foundationalism]]"
+  - '[[foundationalism]]'
 applies-to:
-  - "[[Holistic-Justification]]"
+  - '[[Holistic-Justification]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Coherentism
 
@@ -85,6 +84,9 @@ Theoretical roots of coherentism can be traced back to the idea that knowledge i
 
 Empirically, coherentism has been influenced by cognitive science, particularly in understanding how humans process information and form beliefs. Research suggests that our minds naturally seek coherence when processing new information, leading us to integrate new beliefs into existing systems or adjust them to maintain consistency. This aligns with the idea that justification is a relational property, dependent on the overall structure of our belief system.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Coherentism's emphasis on interconnected belief systems reflects a more nuanced view of human cognition, aligning with contemporary cognitive science that highlights the brain's ability to integrate diverse information sources into coherent mental models. This perspective challenges traditional epistemological frameworks by suggesting that justification is not merely about individual beliefs but rather about how these beliefs collectively form a robust and interdependent network.
+
 ## Mechanism
 
 Coherentist justification operates through positive mutual support and explanatory connections within a belief network. Positive mutual support means each belief strengthens others in the system, creating a reinforcing cycle where beliefs bolster one another. Explanatory connections involve beliefs contributing to or being explained by other beliefs, forming a web of interdependent knowledge.
@@ -97,10 +99,28 @@ Coherentist justification operates through positive mutual support and explanato
 > [!example] **Application 2 — Philosophical debate**
 > In philosophical debates, coherentism suggests that the strength of an argument lies in its coherence within the broader context. Participants should aim to construct arguments that are well-integrated with their existing beliefs and those of others, rather than relying on isolated, self-justifying premises.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), coherentism suggests that spaced retrieval techniques, which involve revisiting material at increasing intervals, can enhance coherence by reinforcing connections between new and existing knowledge. This approach not only aids memory retention but also promotes a more integrated understanding of the subject matter.
+
 ## Key Distinctions
 
 > [!key-distinction] **Coherentism vs Foundationalism**
 > Coherentism and foundationalism differ fundamentally in how they address justification. Coherentists reject the idea of basic or self-justifying beliefs, instead proposing a holistic model where each belief is justified by its place within a coherent system. In contrast, foundationalists argue that some beliefs are self-justifying and require no further justification, forming an arbitrary stopping point in the regress problem.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and evaluation, aligning with coherentism's emphasis on evaluating beliefs within a broader context. In contrast, reactive thinking is immediate and automatic, often lacking the reflective scrutiny necessary for coherent belief systems. This distinction highlights how coherentism requires a more reflective approach to ensure that beliefs are well-integrated.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think coherentism means any set of consistent beliefs is justified.
+>
+> Coherentism does not equate consistency with justification; it requires positive mutual support and explanatory connections. This misconception arises from a misunderstanding that coherence merely involves avoiding contradictions, whereas coherentism demands deeper interconnections and supportive relationships among beliefs.
 
 ## Key Figures
 
@@ -125,6 +145,9 @@ Coherentism matters because it offers a compelling alternative to foundationalis
 
 The concept's significance extends beyond epistemology into cognitive science and educational theory, where its principles can inform more effective learning strategies and instructional design. Coherentism also has implications for practical applications in fields such as law and politics, where coherent argumentation is crucial.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By focusing on the interconnectedness of beliefs, coherentism provides a framework that aligns with both cognitive science insights into human memory and learning processes. This synthesis not only enriches our understanding of epistemology but also offers practical guidance for educational practices aimed at fostering deep, integrated knowledge.
+
 ## Connections & Context
 
 **Falls under:** [[epistemology]]
@@ -134,3 +157,10 @@ The concept's significance extends beyond epistemology into cognitive science an
 **Applies to:** [[Holistic-Justification]]
 
 **Source:** [[coherentism-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Holistic-Justification]]** — *applies-to*
+> Coherentism applies to holistic justification by emphasizing the importance of a belief system's overall coherence rather than individual foundational elements. This connection underscores how coherentism supports a comprehensive approach to knowledge, where each part contributes to and is supported by the whole.

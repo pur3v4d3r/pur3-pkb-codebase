@@ -1,14 +1,13 @@
 ---
-title: "Competence"
+title: Competence
 aliases:
-  - "Competence"
-  - "OIT Internalization Continuum Deep Dive"
-  - "Internalization Mechanisms in SDT"
-  - "Autonomous Motivation Development"
+  - Competence
+  - OIT Internalization Continuum Deep Dive
+  - Internalization Mechanisms in SDT
+  - Autonomous Motivation Development
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -16,60 +15,60 @@ tags:
 
 domain: educational-psychology
 subdomains:
-  - ""
+  - ''
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-internalization-continuum-deep-dive-2026-04-21"
+  - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[autonomy]]"
-  - "[[relatedness]]"
-  - "[[Achievement]]"
+  - '[[autonomy]]'
+  - '[[relatedness]]'
+  - '[[Achievement]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[autonomy]]"
-  - "[[relatedness]]"
+  - '[[autonomy]]'
+  - '[[relatedness]]'
 contrasts-with:
-  - "[[Achievement]]"
+  - '[[Achievement]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Competence
 
@@ -89,6 +88,9 @@ Theoretical roots of competence lie within Self-Determination Theory, where it i
 
 Empirically, competence has been shown to be particularly important in educational settings. For example, students who feel competent are more likely to engage actively in class discussions and persist through difficult tasks, whereas those lacking this sense may disengage or give up easily.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Competence is not merely a static state but evolves dynamically through interaction with one's environment and feedback from outcomes. This dynamic nature means that competence can fluctuate based on situational factors, such as the complexity of tasks or the presence of supportive relationships. For instance, in a challenging academic setting, students might initially feel incompetent due to high task demands, yet over time, with appropriate support and resources, they may develop a sense of mastery and increased competence.
+
 ## Mechanism
 
 The process of how competence supports internalization involves a progression from introjection to identification. Initially, behaviors are accepted due to external pressure (introjection). Over time, as competence is experienced and grows, these behaviors become personally meaningful (identification), leading to more stable and autonomous motivation.
@@ -106,6 +108,19 @@ The process of how competence supports internalization involves a progression fr
 > [!key-distinction] **Competence vs Achievement**
 > While competence is about the subjective experience of being effective, achievement refers to external outcomes or goals. For example, a student who feels competent in math may not necessarily achieve high grades if the grading system is flawed. Conversely, achieving high grades does not guarantee that a student feels competent.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Competence vs Mastery**
+> While both terms relate to skill development, competence focuses on the subjective experience of being effective in one's environment, whereas mastery emphasizes deep understanding and proficiency. Competence can be felt even with basic skills if they are sufficient for a given context, while mastery implies a high level of expertise that often requires extensive practice and reflection.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think competence is solely about achieving goals.
+>
+> Competence involves the subjective experience of being effective in one's environment, which can exist even without goal achievement. For example, a student might feel competent in understanding complex concepts, even if they do not achieve high grades on assessments.
+
 ## Key Figures
 
 - **Edward L. Deci** — A key contributor to Self-Determination Theory, Edward L. Deci has extensively researched the role of competence in motivation and development, emphasizing its importance for internalization processes.
@@ -122,6 +137,13 @@ The process of how competence supports internalization involves a progression fr
 >
 > *What would resolve it:* Longitudinal research tracking individuals over extended periods, particularly those experiencing persistent feelings of incompetence, would help understand the lasting impacts on motivation and well-being.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does competence influence long-term career satisfaction?
+>
+> *What would resolve it:* Longitudinal studies tracking individuals' feelings of competence over their careers could reveal how sustained experiences of effectiveness impact job satisfaction and overall well-being.
+
 ## Synthesis
 
 Competence is a critical component within Self-Determination Theory, supporting internalization by fostering personal efficacy. Its importance extends beyond education into therapeutic practices, where building competence can empower individuals to manage their challenges more effectively. Understanding and nurturing competence has broader implications for motivation and development across various domains, including work and social interactions.
@@ -137,3 +159,10 @@ By recognizing the unique role of competence in promoting stable and autonomous 
 **Contrasts with:** [[Achievement]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Achievement]]** — *contrasts-with*
+> Competence and achievement are distinct but related constructs. While competence is about the subjective experience of being effective, achievement focuses on external outcomes or goals. For instance, a student can feel competent in understanding mathematical concepts without necessarily achieving high grades, highlighting that competence is more about process than outcome.

@@ -1,12 +1,11 @@
 ---
-title: "Functional Psychology"
+title: Functional Psychology
 aliases:
-  - "Functional Psychology"
-  - "functionalism"
+  - Functional Psychology
+  - functionalism
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,56 +16,56 @@ subdomains:
   - history-of-psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "functional-psychology-synthetic-seed-2026-04-24"
+  - functional-psychology-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Psychology"
-
+depth-level: enhanced
+parent-concept: Cognitive Psychology
 related:
-  - "[[ecological-psychology]]"
-  - "[[pragmatism]]"
-  - "[[behaviorism]]"
+  - '[[ecological-psychology]]'
+  - '[[pragmatism]]'
+  - '[[behaviorism]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[ecological-psychology]]"
+  - '[[ecological-psychology]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[pragmatism]]"
+  - '[[pragmatism]]'
 contrasts-with:
-  - "[[behaviorism]]"
+  - '[[behaviorism]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Functional Psychology
 
@@ -86,6 +85,9 @@ Theoretical roots of Functional Psychology can be traced back to pragmatism and 
 
 Empirically, Functional Psychology has had a lasting impact through its application in modern educational reform and behavioral science. For example, John Dewey’s emphasis on experiential learning can be seen as a direct descendant of functional reasoning, where the goal is to understand how mental processes facilitate effective engagement with the world.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Functional Psychology's emphasis on adaptability and practical utility has also influenced modern cognitive science by highlighting the importance of context in understanding mental processes. Unlike structuralism, which often viewed cognition as a set of isolated components, functionalists argue that cognitive functions are inherently tied to their environmental contexts. This perspective underscores the dynamic nature of cognition, suggesting that mental processes evolve and adapt based on ongoing interactions with the environment.
+
 ## Mechanism
 
 Functional Psychology operates by identifying mental functions through their adaptive purposes. This involves tracing how specific cognitive capacities contribute to an organism's survival and well-being in its environment. For instance, memory might be seen as a function that helps individuals remember important information for future use, thereby enhancing adaptability.
@@ -98,10 +100,28 @@ Functional Psychology operates by identifying mental functions through their ada
 > [!example] **Application 2 — Behavioral therapy**
 > In behavioral therapy, understanding the adaptive functions of behaviors can guide more effective treatment strategies. For instance, a therapist might work with a client to identify and modify maladaptive coping mechanisms that serve no useful purpose, replacing them with healthier alternatives that better meet their needs.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can be seen as an application of functional psychology. By spacing out study sessions over time, learners are better equipped to retain information and apply it effectively in various contexts. This approach aligns with the functionalist view that mental processes should serve practical purposes, such as enhancing long-term memory and problem-solving skills.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Functional Psychology distinguishes between intrinsic load (the inherent difficulty of a task) and extraneous load (factors unrelated to the task's content). This distinction is crucial because it helps in designing tasks that are not only challenging but also meaningful, thereby enhancing learning outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of information and decision-making processes, whereas reactive thinking is immediate and often automatic. Functional Psychology emphasizes the adaptive value of both types of thinking depending on the context. For instance, in a crisis situation, reactive thinking can be crucial for quick survival responses, while reflective thinking might be more beneficial when planning long-term strategies.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Functional Psychology only focuses on observable behaviors.
+>
+> While functionalists do consider the adaptive functions of mental processes, they are not solely focused on observable behaviors. Unlike behaviorism, which often reduces psychological phenomena to observable actions and stimuli, functional psychology delves into understanding how these behaviors serve specific purposes within an individual's environment.
 
 ## Key Figures
 
@@ -120,6 +140,13 @@ Functional Psychology operates by identifying mental functions through their ada
 >
 > *What would resolve it:* Empirical studies that test specific functional hypotheses against alternative explanations would help clarify the validity of adaptationist accounts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does functional psychology account for individual differences in cognitive adaptation?
+>
+> *What would resolve it:* Further research could explore the variability in how individuals adapt to environmental demands, potentially revealing new insights into personalized learning and therapeutic approaches.
+
 ## Synthesis
 
 Functional Psychology's enduring contributions lie in its methodological emphasis on understanding mental processes through their adaptive functions. This approach has influenced modern psychological practices, particularly in education and behavioral science, by promoting practical and evidence-based interventions. Its integration with pragmatism and ecological psychology underscores the importance of considering how psychological phenomena serve specific purposes within an individual’s life context.
@@ -137,3 +164,10 @@ The concept of functional reasoning also challenges traditional structuralist ap
 **Contrasts with:** [[behaviorism]]
 
 **Source:** [[functional-psychology-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[pragmatism]]** — *see-also*
+> Functional Psychology shares a philosophical foundation with pragmatism, both emphasizing practical outcomes and the utility of mental processes. This connection is evident in their shared focus on how ideas and behaviors are evaluated based on their effectiveness rather than abstract principles or inherent truths.

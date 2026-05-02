@@ -1,15 +1,14 @@
 ---
-title: "Cognitive Pre-Compilation"
+title: Cognitive Pre-Compilation
 aliases:
-  - "Cognitive Pre-Compilation"
-  - "Implementation Intentions"
-  - "If-Then Plans"
-  - "Gollwitzer Implementation Intentions"
-  - "II Plans"
+  - Cognitive Pre-Compilation
+  - Implementation Intentions
+  - If-Then Plans
+  - Gollwitzer Implementation Intentions
+  - II Plans
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,56 +21,56 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "implementation-intentions-gollwitzer-foundational-report-2026-04-20"
+  - implementation-intentions-gollwitzer-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[strategic-automaticity]]"
-  - "[[implementation-intentions]]"
-  - "[[automaticity]]"
+  - '[[strategic-automaticity]]'
+  - '[[implementation-intentions]]'
+  - '[[automaticity]]'
 prerequisites:
-  - "[[strategic-automaticity]]"
+  - '[[strategic-automaticity]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[implementation-intentions]]"
+  - '[[implementation-intentions]]'
 contrasts-with:
-  - "[[automaticity]]"
+  - '[[automaticity]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Cognitive Pre-Compilation
 
@@ -91,6 +90,9 @@ Theoretical roots of cognitive pre-compilation lie in the broader domain of self
 
 Empirically, cognitive pre-compilation has been supported through various studies on worked examples and implementation intentions. For instance, providing students with fully worked solutions before asking them to solve similar problems can enhance learning by serving as a cognitively pre-compiled solution structure that they can apply when encountering structurally similar problems.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Cognitive pre-compilation is particularly effective in complex environments where rapid decision-making and action are critical. By pre-compiling specific if-then plans, individuals can bypass the slower, more deliberative cognitive processes required to assess each situation anew. This not only saves time but also reduces the cognitive load during high-stress or multitasking scenarios.
+
 ## Mechanism
 
 The mechanism of cognitive pre-compilation involves several key steps. First, the individual formulates their goal and situational analysis, identifying the conditions under which the behavior should be executed. Next, a cue-behavior link is established in memory, where the specific trigger (the cue) and the corresponding action (the behavior) are paired. When the trigger occurs, the pre-compiled representation is activated, leading to rapid execution of the planned behavior.
@@ -106,10 +108,28 @@ The mechanism of cognitive pre-compilation involves several key steps. First, th
 > [!example] **Application 3 — Workplace productivity**
 > In the workplace, cognitive pre-compilation can improve productivity by enabling employees to execute tasks automatically when certain cues are present. For instance, 'If I receive an email from a client, then I will respond within 24 hours.' This approach reduces cognitive overhead and ensures timely responses.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced through cognitive pre-compilation. By setting specific cues, such as the time of day or type of content to review, learners can automate their study routines. This approach leverages the strategic automaticity provided by cognitive pre-compilation to ensure consistent and effective learning over extended periods.
+
 ## Key Distinctions
 
 > [!key-distinction] **Cognitive pre-compilation vs ordinary automaticity**
 > Cognitive pre-compilation differs from ordinary habit-driven automaticity in that it is plan-dependent and context-bound. Unlike habits, which are formed through repeated practice and become automated without conscious control, cognitive pre-compilation involves deliberate planning and can be revoked or modified by re-deliberation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Cognitive Pre-Compilation vs Habit Formation**
+> While both cognitive pre-compilation and habit formation lead to automated behaviors, they differ in their origins and flexibility. Cognitive pre-compilation is a deliberate process where individuals plan specific actions for particular situations, whereas habits form through repeated exposure without conscious planning. This distinction highlights the intentional nature of cognitive pre-compilation, allowing it to be more adaptable and context-specific.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that once a behavior is automated via cognitive pre-compilation, it cannot be changed.
+>
+> This misconception arises from the belief that automation equates to rigidity. In reality, cognitive pre-compilation allows for flexible and context-sensitive behaviors. Unlike ingrained habits, these pre-compiled actions can be easily modified or revoked through deliberate re-planning.
 
 ## Key Figures
 
@@ -133,6 +153,9 @@ Cognitive pre-compilation matters because it provides a framework for understand
 
 Moreover, the distinction between cognitive pre-compilation and ordinary automaticity highlights the importance of conscious supervision in goal-directed behavior. This concept challenges traditional views of automaticity as purely unconscious and emphasizes the role of deliberate planning in achieving strategic goals.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding cognitive pre-compilation within self-regulated learning underscores its role as a bridge between deliberate planning and automatic execution. This concept not only enriches our understanding of how individuals can efficiently manage their actions but also provides actionable insights for enhancing educational and behavioral interventions.
+
 ## Connections & Context
 
 **Falls under:** [[self-regulated-learning]]
@@ -144,3 +167,10 @@ Moreover, the distinction between cognitive pre-compilation and ordinary automat
 **Contrasts with:** [[automaticity]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[implementation-intentions]]** — *see-also*
+> Cognitive pre-compilation and implementation intentions are closely intertwined, as both involve the strategic transformation of goal-directed plans into automatic behaviors. The key difference lies in their operationalization: while cognitive pre-compilation focuses on the mental process of creating these automated responses, implementation intentions emphasize the practical application through specific if-then statements.

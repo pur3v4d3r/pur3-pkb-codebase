@@ -1,13 +1,12 @@
 ---
-title: "Delphi Report"
+title: Delphi Report
 aliases:
-  - "Delphi Report"
-  - "APA Delphi Report"
-  - "1990 Delphi Report"
+  - Delphi Report
+  - APA Delphi Report
+  - 1990 Delphi Report
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "delphi-report-synthetic-seed-2026-04-24"
+  - delphi-report-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[California Critical Thinking Skills Test (CCTST)]]"
-  - "[[Critical-Thinking Curricular Standards]]"
+  - '[[California Critical Thinking Skills Test (CCTST)]]'
+  - '[[Critical-Thinking Curricular Standards]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[California Critical Thinking Skills Test (CCTST)]]"
-  - "[[Critical-Thinking Curricular Standards]]"
+  - '[[California Critical Thinking Skills Test (CCTST)]]'
+  - '[[Critical-Thinking Curricular Standards]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Delphi Report
 
@@ -88,6 +87,9 @@ The Delphi Report's definition is rooted in the broader field of educational psy
 
 Empirically, the Delphi Report provided a solid foundation for subsequent research in critical thinking. Its consensus-based approach helped to standardize definitions and measures across different studies, making it easier to compare results and draw meaningful conclusions about the effectiveness of various teaching methods and assessment tools.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Delphi Report's emphasis on both cognitive skills and dispositional habits reflects a nuanced understanding of critical thinking that goes beyond mere intellectual ability. This dual focus acknowledges the importance of personal traits such as open-mindedness, inquisitiveness, and perseverance alongside technical competencies like analysis and evaluation. By integrating these elements, educators can foster an environment where students not only learn to think critically but also develop a mindset conducive to lifelong learning.
+
 ## Mechanism
 
 The Delphi method used in the creation of the Delphi Report involved multiple rounds of anonymous surveys where experts provided their opinions on critical thinking. This iterative process allowed for the refinement of definitions until a consensus was reached, ensuring that the final definition reflected the collective wisdom of the expert panel.
@@ -105,6 +107,19 @@ The Delphi method used in the creation of the Delphi Report involved multiple ro
 > [!key-distinction] **cognitive skills vs dispositional habits**
 > Cognitive skills, such as analysis and evaluation, refer to the mental processes used to understand and solve problems. Dispositional habits, like self-regulation and open-mindedness, describe the personal traits that support these cognitive activities. Understanding this distinction is crucial for educators who need to design curricula that address both aspects of critical thinking.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of information and ideas before forming judgments or taking action, whereas reactive thinking is characterized by immediate responses without deep analysis. The Delphi Report's emphasis on self-regulation as a dispositional habit underscores the importance of reflective thinking in critical reasoning. This distinction highlights why fostering reflective habits is crucial for developing robust critical thinking skills.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that critical thinking is solely about intellectual abilities.
+>
+> Critical thinking, as defined by the Delphi Report, encompasses both cognitive skills and dispositional habits. While it includes intellectual competencies like analysis and evaluation, it also emphasizes personal traits such as open-mindedness and perseverance. This dual focus ensures a more holistic approach to developing critical thinking.
+
 ## Key Figures
 
 - **Peter Facione** — As the editor of the Delphi Report, Peter Facione played a pivotal role in synthesizing expert opinions and producing a consensus definition of critical thinking that has had lasting impact on educational practices.
@@ -121,11 +136,21 @@ The Delphi method used in the creation of the Delphi Report involved multiple ro
 >
 > *What would resolve it:* Empirical research that isolates and measures self-regulation independently from other cognitive skills could clarify its status as a unique component of critical thinking.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural differences impact the effectiveness of dispositional habits in fostering critical thinking?
+>
+> *What would resolve it:* Cross-cultural studies comparing the efficacy of dispositional habits across different contexts could provide insights into how these traits influence critical thinking. Such research would help educators tailor their approaches to better suit diverse student populations.
+
 ## Synthesis
 
 The Delphi Report is significant because it provided a clear, consensus-based definition of critical thinking that has shaped educational practices and assessment tools. By integrating both cognitive skills and dispositional habits, the report offers a balanced approach to teaching and evaluating critical thinking. Its impact extends beyond education into fields such as psychology and business, where effective decision-making and problem-solving are crucial.
 
 The Delphi Report's influence underscores the importance of consensus in defining complex concepts like critical thinking. While it has been instrumental in standardizing definitions and measures, ongoing research continues to explore its applicability across different cultural contexts and the assessability of certain dispositional habits.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Delphi Report's comprehensive approach to defining critical thinking, by integrating cognitive skills and dispositional habits, offers a robust framework for both teaching and assessing this essential skill set. Its influence extends beyond education into various fields where effective decision-making is crucial, highlighting its broad applicability.
 
 ## Connections & Context
 
@@ -134,3 +159,13 @@ The Delphi Report's influence underscores the importance of consensus in definin
 **Applies to:** [[California Critical Thinking Skills Test (CCTST)]] · [[Critical-Thinking Curricular Standards]]
 
 **Source:** [[delphi-report-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[California Critical Thinking Skills Test (CCTST)]]** — *applies-to*
+> The Delphi Report's definition of critical thinking directly informed the development of the California Critical Thinking Skills Test (CCTST). The CCTST measures the cognitive skills and dispositional habits outlined in the report, providing a standardized tool for educators to assess students' critical thinking abilities. This connection underscores how theoretical frameworks like the Delphi Report translate into practical assessment tools.
+
+> [!connection] **[[Critical-Thinking Curricular Standards]]** — *applies-to*
+> The Delphi Report's comprehensive definition of critical thinking has been instrumental in shaping curricular standards for teaching critical thinking. These standards, which are based on the report's framework, guide educators in designing courses that effectively develop both cognitive skills and dispositional habits. This connection illustrates how theoretical definitions can be operationalized into educational guidelines.

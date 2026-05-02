@@ -1,13 +1,12 @@
 ---
-title: "Formative Assessment"
+title: Formative Assessment
 aliases:
-  - "Formative Assessment"
-  - "assessment for learning"
-  - "AfL"
+  - Formative Assessment
+  - assessment for learning
+  - AfL
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - instructional-design
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "formative-assessment-synthetic-seed-2026-04-24"
+  - formative-assessment-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Formative Assessment
 
@@ -87,6 +86,9 @@ Theoretical roots of Formative Assessment trace back to educational psychology, 
 
 Empirical evidence supports the effectiveness of Formative Assessment, as highlighted by Black and Wiliam (1998) and subsequent research. The single most evidence-supported instructional intervention in K-16 education, it couples the consolidation mechanism of retrieval practice with the calibration mechanism of correcting fluency illusions within a single instructional move.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Formative Assessment not only aids in immediate learning adjustments but also fosters a growth mindset among students by emphasizing effort and improvement over innate ability. This shift encourages learners to view challenges as opportunities for development rather than insurmountable obstacles, thereby enhancing their resilience and persistence in the face of academic difficulties.
+
 ## Mechanism
 
 Formative Assessment works through specific mechanisms such as low-stakes retrieval and structured self-assessment. Low-stakes retrieval involves brief quizzes or prompts that encourage students to recall information, helping to reinforce learning and identify areas of difficulty. Structured self-assessment tasks require students to evaluate their own work, providing them with immediate feedback on their understanding and encouraging reflection.
@@ -102,10 +104,28 @@ Formative Assessment works through specific mechanisms such as low-stakes retrie
 > [!example] **Application 3 — Teacher practice**
 > Teachers who implement Formative Assessment regularly find that it improves their instructional strategies. By receiving immediate feedback on student understanding, teachers can make informed decisions about which concepts to revisit or extend, leading to more effective and efficient teaching practices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be effectively implemented through automated quizzes that are strategically placed throughout a course. These quizzes, designed to test understanding at increasing intervals, help reinforce learning and identify knowledge gaps early on. By providing immediate feedback, students can address misconceptions promptly, ensuring that they build a robust foundation of knowledge as the course progresses.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Formative Assessment focuses on intrinsic load by helping students manage their cognitive processes effectively. In contrast, extraneous load is associated with unnecessary complexity in the learning environment that does not contribute to understanding. Formative Assessment reduces extraneous load by providing clear and actionable feedback, allowing learners to focus on what matters most.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Formative Assessment promotes reflective thinking by encouraging students to critically evaluate their learning processes and outcomes. This contrasts with reactive thinking, which is more immediate and less structured. Reflective thinking allows learners to analyze their performance, identify areas for improvement, and adjust their strategies accordingly, fostering a deeper understanding of the material.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Formative Assessment only benefits students who are struggling.
+>
+> Formative Assessment is beneficial for all learners. For those who are excelling, it provides opportunities to deepen their understanding and explore topics in greater depth. For those facing challenges, it offers targeted support and feedback to address specific difficulties, ensuring that no student is left behind.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ Formative Assessment works through specific mechanisms such as low-stakes retrie
 >
 > *What would resolve it:* Longitudinal studies tracking students over extended periods could provide insights into how consistent use of Formative Assessment impacts their motivation and engagement in the long run.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Formative Assessment impact long-term retention?
+>
+> *What would resolve it:* Research is needed to explore how different forms of formative assessment influence the durability of learning. Understanding this could help in designing more effective strategies for long-term knowledge retention.
+
 ## Synthesis
 
 Formative Assessment is a critical component in educational psychology because it directly supports self-regulated learning by providing ongoing feedback that helps learners monitor and adjust their own cognitive processes. By integrating these practices into teaching, educators can create more effective and engaging learning environments, ultimately contributing to broader learning goals such as deep understanding and lifelong learning.
 
 The concept of Formative Assessment also intersects with other related concepts like worked examples and intrinsic vs extraneous load, further enriching our understanding of how students learn. Its application in conjunction with these principles can enhance the effectiveness of educational interventions, making it a valuable tool for both teachers and learners.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Formative Assessment plays a pivotal role in educational psychology by fostering an environment where continuous feedback and self-reflection are integral to the learning process, thereby enhancing both immediate performance and long-term academic success.
 
 ## Connections & Context
 
@@ -139,3 +169,10 @@ The concept of Formative Assessment also intersects with other related concepts 
 **Applies to:** [[worked-examples]]
 
 **Source:** [[formative-assessment-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Formative Assessment relies on the capacity of working memory to process and integrate new information with existing knowledge. By providing timely feedback, it helps manage cognitive load, making it easier for students to retain and apply what they have learned.

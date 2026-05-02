@@ -1,12 +1,11 @@
 ---
-title: "Evergreen Notes"
+title: Evergreen Notes
 aliases:
-  - "Evergreen Notes"
-  - "evergreen note"
+  - Evergreen Notes
+  - evergreen note
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - notetaking
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "evergreen-notes-synthetic-seed-2026-04-25"
+  - evergreen-notes-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Zettelkasten"
-
+depth-level: enhanced
+parent-concept: Zettelkasten
 related:
-  - "[[atomic-notes]]"
-  - "[[zettelkasten]]"
-  - "[[progressive-summarization]]"
+  - '[[atomic-notes]]'
+  - '[[zettelkasten]]'
+  - '[[progressive-summarization]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[atomic-notes]]"
+  - '[[atomic-notes]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[zettelkasten]]"
+  - '[[zettelkasten]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[progressive-summarization]]"
+  - '[[progressive-summarization]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Evergreen Notes
 
@@ -86,6 +85,9 @@ The continual refinement aspect is crucial; Evergreen Notes are not static but e
 Theoretical roots of Evergreen Notes can be traced back to Zettelkasten, where the concept of interconnectedness is central. In Zettelkasten, each note serves as a node in a network, and the strength of the system lies in its ability to connect disparate ideas. Evergreen Notes take this further by emphasizing the dynamic nature of these connections through continuous refinement.
 
 Empirically, Evergreen Notes have been shown to enhance long-term retention and understanding. By revisiting and updating notes over time, learners can reinforce their knowledge and adapt it to new contexts, making the information more accessible and applicable in various scenarios.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Evergreen Notes embody a shift from passive consumption to active engagement with knowledge. By requiring regular review and updates, they encourage learners to critically evaluate their understanding and integrate new information into existing frameworks. This process not only reinforces memory but also promotes deeper cognitive processing, as learners must actively connect new ideas to prior knowledge.
 
 ## Mechanism
 
@@ -107,6 +109,22 @@ The mechanism of Evergreen Notes involves a continuous cycle of review and updat
 > [!key-distinction] **Evergreen Notes vs Static Notes**
 > Evergreen Notes differ from static notes in that they are continually refined and linked to form a network. Static notes, on the other hand, are written once and archived without further updates. The key difference lies in their dynamic nature and interconnectedness, which enhances long-term value.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Evergreen Notes emphasize reflective thinking by prompting regular review and refinement of notes. This contrasts with reactive thinking, which is more immediate and less structured. Reflective thinking allows for deeper analysis and synthesis of information over time, enhancing long-term retention and understanding.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Evergreen Notes align with elaborative rehearsal by encouraging the addition of new insights and connections to existing notes. This contrasts with maintenance rehearsal, which involves rote repetition without deeper processing. Elaborative rehearsal fosters a richer network of knowledge that is more adaptable and accessible.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Evergreen Notes are just another form of note-taking.
+>
+> This misconception overlooks the dynamic nature of Evergreen Notes. Unlike traditional note-taking, which often ends with a static document, Evergreen Notes involve continuous refinement and linking to other notes. This ongoing process enhances their value over time by integrating new information and insights.
+
 ## Key Figures
 
 - **Andy Matuschak** — Andy Matuschak is credited with originating the concept of Evergreen Notes. He formulated this practice as a way to create permanent, interconnected notes that evolve over time, emphasizing the importance of continual refinement and linking.
@@ -123,11 +141,21 @@ The mechanism of Evergreen Notes involves a continuous cycle of review and updat
 >
 > *What would resolve it:* Longitudinal studies tracking the impact of Evergreen Notes over extended periods could provide insights into their benefits and potential drawbacks.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do Evergreen Notes impact long-term cognitive flexibility?
+>
+> *What would resolve it:* Longitudinal studies tracking changes in cognitive flexibility among users of Evergreen Notes could provide insights into how continuous refinement and linking influence adaptability to new information and contexts.
+
 ## Synthesis
 
 Evergreen Notes are crucial for knowledge management and learning science because they foster a dynamic, interconnected network of ideas that grow in value over time. By continually refining notes, learners can ensure that their knowledge remains relevant and accessible. This practice aligns with the principles of Zettelkasten and progressive summarization, enhancing long-term retention and understanding. In educational settings, Evergreen Notes can transform traditional note-taking into a dynamic learning tool, promoting continuous improvement and adaptation to new information.
 
 The importance of Evergreen Notes extends beyond individual knowledge management; they have broader implications for collaborative projects and instructional design. By fostering a culture of continual refinement and linking, organizations and educators can build more robust and adaptable systems of knowledge.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Evergreen Notes represent a paradigm shift from static knowledge storage to dynamic, evolving networks. By fostering reflective thinking and elaborative rehearsal, they not only enhance retention but also promote cognitive flexibility and deeper understanding of complex ideas over time.
 
 ## Connections & Context
 
@@ -140,3 +168,10 @@ The importance of Evergreen Notes extends beyond individual knowledge management
 **Applies to:** [[progressive-summarization]]
 
 **Source:** [[evergreen-notes-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[progressive-summarization]]** — *applies-to*
+> Evergreen Notes apply the principle of progressive summarization, where summaries are refined iteratively. This iterative process ensures that notes remain relevant and comprehensive as new information is incorporated, aligning with the goal of creating ever-evolving knowledge structures.

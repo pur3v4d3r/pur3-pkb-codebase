@@ -1,13 +1,12 @@
 ---
-title: "Ego Involvement"
+title: Ego Involvement
 aliases:
-  - "Ego Involvement"
-  - "ego involvement in tasks"
-  - "contingent self-worth in tasks"
+  - Ego Involvement
+  - ego involvement in tasks
+  - contingent self-worth in tasks
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - achievement-goal-theory
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "ego-involvement-synthetic-seed-2026-04-24"
+  - ego-involvement-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[self-efficacy]]"
-  - "[[intrinsic-motivation]]"
-  - "[[extrinsic-motivation]]"
-  - "[[Person-Praise]]"
+  - '[[self-efficacy]]'
+  - '[[intrinsic-motivation]]'
+  - '[[extrinsic-motivation]]'
+  - '[[Person-Praise]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-efficacy]]"
+  - '[[self-efficacy]]'
 contrasts-with:
-  - "[[intrinsic-motivation]]"
-  - "[[extrinsic-motivation]]"
+  - '[[intrinsic-motivation]]'
+  - '[[extrinsic-motivation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Person-Praise]]"
+  - '[[Person-Praise]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Ego Involvement
 
@@ -90,6 +89,9 @@ Theoretical roots of Ego Involvement can be traced back to Self-Determination Th
 
 Empirical evidence supports the notion that Ego Involvement can be induced by person-praise, as demonstrated by Mueller and Dweck (1998). Their research showed that praising children for their intelligence rather than their effort led to increased anxiety and decreased creativity. This finding highlights how well-intentioned encouragement can inadvertently foster a mindset that prioritizes short-term success over long-term learning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Ego Involvement not only affects academic performance but also has significant implications for mental health and social relationships. When individuals feel their self-worth is contingent on task success, they may become overly critical of themselves and others, leading to increased stress and interpersonal conflicts. This heightened sensitivity can create a cycle where the fear of failure leads to avoidance behaviors, further diminishing opportunities for growth and learning.
+
 ## Mechanism
 
 The mechanism of Ego Involvement involves a psychological shift where individuals internalize the belief that their self-worth is tied to task performance. This leads to heightened anxiety and a focus on avoiding failure, which can manifest in behaviors such as self-handicapping or withdrawal when faced with challenges.
@@ -105,10 +107,28 @@ The mechanism of Ego Involvement involves a psychological shift where individual
 > [!example] **Application 3 — Corporate training**
 > In corporate settings, Ego Involvement can lead to short-term performance boosts but long-term burnout. Training programs should emphasize continuous learning and personal growth rather than just achieving high performance metrics. This approach helps employees maintain a healthy work-life balance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Feedback in Competitive Environments**
+> In competitive academic or professional settings, feedback mechanisms that emphasize performance outcomes over process can inadvertently foster Ego Involvement. For instance, focusing on grades rather than the effort put into assignments may lead students to prioritize short-term success at the expense of long-term learning and personal development. Educators should consider providing balanced feedback that acknowledges both progress and setbacks, encouraging a growth mindset.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Ego Involvement is distinct from intrinsic motivation, which is driven by personal interest and enjoyment of the task itself. Extrinsic motivation, on the other hand, involves external rewards such as grades or praise. Ego Involvement specifically refers to the internalized pressure that makes self-worth contingent on performance.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's actions and outcomes, fostering self-awareness and adaptability. In contrast, reactive thinking is characterized by immediate responses driven by emotional reactions or habitual patterns. Ego Involvement often leads to reactive thinking as individuals respond impulsively to protect their sense of worth rather than reflecting on the underlying reasons for success or failure.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Ego Involvement is solely a negative phenomenon.
+>
+> While Ego Involvement can lead to detrimental outcomes such as anxiety and reduced creativity, it also has potential benefits. For example, the pressure to succeed can motivate individuals to put in extra effort and achieve short-term goals. However, this motivation often comes at the cost of long-term well-being and sustainable learning.
 
 ## Key Figures
 
@@ -126,11 +146,21 @@ The mechanism of Ego Involvement involves a psychological shift where individual
 >
 > *What would resolve it:* Longitudinal studies that track individuals over extended periods could provide insights into the lasting impacts of Ego Involvement on both academic performance and mental health.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the manifestation of Ego Involvement?
+>
+> *What would resolve it:* Further research is needed to explore how different cultural values and norms shape the experience and impact of Ego Involvement. Understanding these variations could provide insights into culturally sensitive strategies for mitigating its negative effects.
+
 ## Synthesis
 
 Understanding Ego Involvement is crucial for educators, psychologists, and parents because it highlights the importance of fostering a growth mindset rather than a fixed mindset. By recognizing how internalizing pressure can negatively impact long-term well-being and learning, practitioners can create more supportive environments that encourage resilience, creativity, and continuous personal development.
 
 Ego Involvement intersects with other concepts such as intrinsic motivation and self-efficacy, emphasizing the need for a holistic approach to motivation in education and psychology. By differentiating between these constructs, professionals can better tailor interventions to support individuals in achieving their full potential.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Ego Involvement within the broader context of self-regulated learning highlights the importance of fostering a balanced approach to motivation that supports both short-term performance and long-term well-being. By recognizing the potential pitfalls of tying self-worth too closely to task outcomes, educators and parents can create supportive environments that encourage growth and resilience.
 
 ## Evidence
 
@@ -147,3 +177,10 @@ Empirical evidence from Mueller and Dweck (1998) demonstrates that person-praise
 **Applies to:** [[Person-Praise]]
 
 **Source:** [[ego-involvement-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[extrinsic-motivation]]** — *contrasts-with*
+> Ego Involvement contrasts with extrinsic motivation in that both involve external factors influencing behavior, but differ in their psychological impact. While extrinsic motivation can drive performance through tangible rewards or recognition, Ego Involvement ties self-worth directly to task outcomes, leading to heightened anxiety and reduced creativity.

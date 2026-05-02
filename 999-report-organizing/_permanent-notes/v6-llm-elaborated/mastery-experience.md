@@ -1,13 +1,12 @@
 ---
-title: "Mastery Experience"
+title: Mastery Experience
 aliases:
-  - "Mastery Experience"
-  - "enactive mastery"
-  - "performance accomplishment"
+  - Mastery Experience
+  - enactive mastery
+  - performance accomplishment
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - motivational-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "mastery-experience-synthetic-seed-2026-04-25"
+  - mastery-experience-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[self-efficacy]]"
-  - "[[social-cognitive-theory]]"
+  - '[[self-efficacy]]'
+  - '[[social-cognitive-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-efficacy]]"
+  - '[[self-efficacy]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[social-cognitive-theory]]"
+  - '[[social-cognitive-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Mastery Experience
 
@@ -85,6 +84,9 @@ In practice, Mastery Experiences are realized when learners overcome obstacles a
 Theoretical roots of Mastery Experiences lie within Bandura’s social-cognitive theory, which posits that self-efficacy beliefs are built through direct experiences and observations. According to this framework, successful performance in challenging tasks is a critical component for developing strong efficacy beliefs. However, not all successes qualify as Mastery Experiences; attributing success to external factors or luck diminishes their impact on self-efficacy.
 
 Empirical evidence supports the importance of Mastery Experiences. For example, studies have shown that students who experience repeated successful outcomes in challenging tasks are more likely to develop robust self-efficacy beliefs compared to those who rely solely on vicarious experiences or verbal encouragement.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Mastery Experiences not only bolster self-efficacy but also enhance intrinsic motivation by fostering a sense of competence and autonomy. When learners attribute their success to personal effort, they are more likely to engage in challenging tasks independently, viewing setbacks as opportunities for growth rather than insurmountable obstacles.
 
 ## Mechanism
 
@@ -106,6 +108,19 @@ The mechanism by which a Mastery Experience raises self-efficacy involves severa
 > [!key-distinction] **Mastery Experience vs. Verbal Persuasion**
 > Verbal persuasion can boost confidence but lacks the direct evidence provided by a Mastery Experience. A student might believe they are capable based on encouragement from others, but this belief is less durable and less likely to be attributed to their own efforts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Performance vs Learning**
+> While performance focuses on the immediate demonstration of skill or knowledge, learning emphasizes long-term retention and application. Mastery Experiences are particularly potent because they facilitate both performance and learning by reinforcing strategies that lead to success over time.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Mastery Experiences only occur when a task is completed perfectly.
+>
+> This misconception overlooks the iterative nature of Mastery Experiences. Success in overcoming challenges, even with errors and setbacks, can still build self-efficacy if learners attribute their progress to personal effort and strategy.
+
 ## Key Figures
 
 - **Albert Bandura** — Bandura is the originator of the concept of Mastery Experiences within his social-cognitive theory, which emphasizes the role of personal accomplishments in building self-efficacy beliefs.
@@ -122,11 +137,21 @@ The mechanism by which a Mastery Experience raises self-efficacy involves severa
 >
 > *What would resolve it:* Empirical studies examining the effectiveness of various teaching methods designed to create artificial Mastery Experiences would help clarify this question.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural and individual differences influence the impact of Mastery Experiences on self-efficacy?
+>
+> *What would resolve it:* Exploring these influences could provide insights into how to tailor educational practices to better support diverse learners, ensuring that Mastery Experiences are effective across different contexts.
+
 ## Synthesis
 
 Mastery Experiences are crucial for fostering self-efficacy and enhancing learning outcomes. By providing direct evidence that effort and strategy lead to success, these experiences build strong and durable efficacy beliefs. This concept is integral to [[self-regulated-learning]] and aligns with broader educational goals of promoting independent problem-solving skills and resilience.
 
 Understanding Mastery Experiences also has implications for instructional design and feedback practices in education. By leveraging these experiences effectively, educators can create more engaging and effective learning environments that support students' development of self-efficacy.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Mastery Experiences within the broader context of social-cognitive theory highlights their role in shaping not just academic performance but also personal development and resilience. By integrating these experiences into educational practices, educators can foster a learning environment that promotes both competence and confidence.
 
 ## Connections & Context
 
@@ -137,3 +162,10 @@ Understanding Mastery Experiences also has implications for instructional design
 **Supports:** [[social-cognitive-theory]]
 
 **Source:** [[mastery-experience-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[social-cognitive-theory]]** — *supports*
+> Social-Cognitive Theory provides the theoretical framework that underpins Mastery Experiences. Bandura's theory posits that self-efficacy is built through direct experiences, which aligns with how Mastery Experiences are conceptualized as pivotal in fostering belief in one’s capabilities.

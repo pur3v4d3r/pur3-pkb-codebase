@@ -1,13 +1,12 @@
 ---
-title: "Competency Based Education"
+title: Competency Based Education
 aliases:
-  - "Competency Based Education"
-  - "CBE"
-  - "mastery-based education"
+  - Competency Based Education
+  - CBE
+  - mastery-based education
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - higher-education
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "competency-based-education-synthetic-seed-2026-04-26"
+  - competency-based-education-synthetic-seed-2026-04-26
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Mastery-Based Education"
-
+depth-level: enhanced
+parent-concept: Mastery-Based Education
 related:
-  - "[[mastery-learning]]"
-  - "[[Outcomes-Based Education]]"
-  - "[[Micro-Credentialing]]"
+  - '[[mastery-learning]]'
+  - '[[Outcomes-Based Education]]'
+  - '[[Micro-Credentialing]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[mastery-learning]]"
+  - '[[mastery-learning]]'
 contrasts-with:
-  - "[[Outcomes-Based Education]]"
+  - '[[Outcomes-Based Education]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Micro-Credentialing]]"
+  - '[[Micro-Credentialing]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Competency Based Education
 
@@ -87,6 +86,9 @@ In practice, CBE operates through a cycle of assessment and feedback, where stud
 CBE's central theoretical commitment is that holding learning constant while letting time vary produces more equitable outcomes than the inverse, the inherited industrial model of holding time constant while letting learning vary. This reframing is what allows CBE to defend asynchronous progression and credit-by-assessment while preserving outcome guarantees. The key challenge lies in ensuring that competencies are specified with sufficient granularity to avoid fragmenting instruction into checkbox tasks but not so holistically as to render assessment subjective.
 
 Empirically, CBE has shown promise in various educational settings, particularly in higher education and professional training programs where the focus is on developing specific skills. For instance, in a study conducted at XYZ University, students who followed a CBE model demonstrated significantly higher levels of engagement and retention compared to those following traditional models.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Competency Based Education (CBE) also addresses a critical issue in traditional education: the variability in student learning needs and paces. Unlike conventional models that often force students to move through content at a uniform pace, CBE allows for personalized pathways where each learner can focus on areas needing improvement without being held back by slower peers or rushed past material before mastering it.
 
 ## Mechanism
 
@@ -108,6 +110,19 @@ The process by which competencies are specified, assessed, and integrated into l
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > CBE is rooted in the concept of intrinsic load, which refers to the inherent difficulty of a task. In contrast, extraneous load, such as unnecessary cognitive demands introduced by instructional design, can be minimized in CBE through clear and focused competency specifications.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Performance vs Learning**
+> In Competency Based Education (CBE), the distinction between performance and learning is crucial. Performance refers to the immediate demonstration of skills, while learning denotes a deeper, more durable change in knowledge or ability. CBE aims for both by ensuring that competencies are not just demonstrated but also internalized through repeated application and feedback.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often think CBE means students can progress without any guidance or structure.
+>
+> In reality, Competency Based Education (CBE) requires a well-structured and guided approach to ensure that competencies are clearly defined and consistently assessed. Without such structures, the risk of superficial learning increases.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is a psychologist who originated the concept of cognitive load theory, which underpins the foundational principles of Competency Based Education. His work emphasizes the importance of holding learning constant while varying time to improve educational outcomes.
@@ -124,11 +139,21 @@ The process by which competencies are specified, assessed, and integrated into l
 >
 > *What would resolve it:* Longitudinal studies tracking students' engagement and motivation over extended periods could provide insights into these effects.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does CBE balance the need for personalized pacing with the efficiency required in large educational systems?
+>
+> *What would resolve it:* Addressing this would require research into scalable assessment methods and adaptive learning technologies that can efficiently manage individualized pathways without overwhelming administrative resources.
+
 ## Synthesis
 
 Competency Based Education holds significant potential for modern educational practices by promoting more equitable outcomes, personalized learning experiences, and deeper mastery of skills. By aligning instruction with clear competencies and focusing on criterion-referenced assessment, CBE can address some of the shortcomings of traditional models while maintaining outcome guarantees.
 
 CBE also intersects meaningfully with other forms of mastery-based education such as Mastery Learning and micro-credentialing. While these share a focus on demonstrating mastery, CBE's emphasis on decoupling credentialing from seat-time sets it apart and offers unique advantages in terms of flexibility and equity.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By focusing on competency mastery rather than time spent, Competency Based Education (CBE) not only personalizes the educational experience but also enhances its efficiency. This dual benefit positions CBE as a promising approach for modernizing education to better meet diverse learner needs and prepare them for an increasingly complex world.
 
 ## Connections & Context
 
@@ -141,3 +166,10 @@ CBE also intersects meaningfully with other forms of mastery-based education suc
 **Applies to:** [[Micro-Credentialing]]
 
 **Source:** [[competency-based-education-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Micro-Credentialing]]** — *applies-to*
+> Competency Based Education (CBE) provides a robust framework for Micro-Credentialing by ensuring that credentials are awarded based on demonstrated competencies rather than time spent in courses. This alignment supports the credibility and value of micro-credentials, making them more reflective of actual skill mastery.

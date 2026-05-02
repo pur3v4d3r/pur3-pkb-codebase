@@ -1,12 +1,11 @@
 ---
-title: "Behavior Change Theory"
+title: Behavior Change Theory
 aliases:
-  - "Behavior Change Theory"
-  - "behavior change frameworks"
+  - Behavior Change Theory
+  - behavior change frameworks
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,63 +17,63 @@ subdomains:
   - behavioral-economics
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "behavior-change-theory-synthetic-seed-2026-05-01"
+  - behavior-change-theory-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Learning Science"
-
+depth-level: enhanced
+parent-concept: Learning Science
 related:
-  - "[[Theory of Planned Behavior]]"
-  - "[[Transtheoretical Model]]"
-  - "[[Behavior Change Wheel]]"
-  - "[[Health Belief Model]]"
-  - "[[Social Cognitive Theory]]"
-  - "[[Self-Determination Theory]]"
+  - '[[Theory of Planned Behavior]]'
+  - '[[Transtheoretical Model]]'
+  - '[[Behavior Change Wheel]]'
+  - '[[Health Belief Model]]'
+  - '[[Social Cognitive Theory]]'
+  - '[[Self-Determination Theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Theory of Planned Behavior]]"
-  - "[[Transtheoretical Model]]"
-  - "[[Behavior Change Wheel]]"
+  - '[[Theory of Planned Behavior]]'
+  - '[[Transtheoretical Model]]'
+  - '[[Behavior Change Wheel]]'
 broader:
-  - "[[Health Belief Model]]"
-  - "[[Social Cognitive Theory]]"
-  - "[[Self-Determination Theory]]"
+  - '[[Health Belief Model]]'
+  - '[[Social Cognitive Theory]]'
+  - '[[Self-Determination Theory]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Behavior Change Theory
 
@@ -94,6 +93,9 @@ The Health Belief Model (HBM) focuses on perceived susceptibility, severity, ben
 
 Self-Determination Theory (SDT) emphasizes the role of intrinsic motivation in driving sustainable changes. It posits that autonomy, competence, and relatedness are essential for fostering internal motivation and long-term adherence to new behaviors.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Behavior Change Theory also incorporates models that emphasize environmental and social factors, such as the Social Ecological Model (SEM), which posits that behavior is influenced by multiple layers of environment from individual to societal levels. This model complements other theories by highlighting how broader contexts can either facilitate or hinder behavioral change.
+
 ## Mechanism
 
 Behavior Change Theories propose specific mechanisms through which interventions can be effective. For instance, the Theory of Planned Behavior suggests that changing attitudes, subjective norms, or perceived behavioral control can lead to changes in intention and subsequent behavior. Similarly, the Transtheoretical Model posits that moving individuals from one stage to another requires tailored strategies at each stage, such as problem-solving skills for precontemplators and reinforcement techniques for maintainers.
@@ -109,15 +111,36 @@ Behavior Change Theories propose specific mechanisms through which interventions
 > [!example] **Application 3 — Corporate wellness programs**
 > Corporate wellness programs can leverage Behavior Change Theory to create interventions that are relevant to employees' current stages of change. For example, a program aimed at increasing physical activity might offer different resources based on whether an employee is in the contemplation or action stage.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Community-based interventions**
+> In community settings, Behavior Change Theory informs the design of multifaceted programs that address various determinants of behavior. For instance, a program aimed at reducing obesity might include components targeting individual attitudes and skills (e.g., cooking classes), social norms (e.g., promoting healthy eating among peers), and environmental factors (e.g., improving access to fresh produce).
+
 ## Key Distinctions
 
 > [!key-distinction] **Theory of Planned Behavior vs Transtheoretical Model**
 > The Theory of Planned Behavior (TPB) and the Transtheoretical Model (TTM) differ primarily in their focus. TPB is more predictive, focusing on attitudes, subjective norms, and perceived behavioral control to predict behavior change, while TTM is more prescriptive, emphasizing the stages of change and tailoring interventions accordingly.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Behavior Change Theory often intersects with the distinction between intrinsic and extrinsic motivation. Intrinsic motivation refers to engaging in an activity for inherent satisfaction, while extrinsic motivation involves performing an action due to external rewards or pressures. Understanding these motivations is crucial as interventions that tap into intrinsic motives tend to be more sustainable than those relying solely on external incentives.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Behavior Change Theory assumes all behaviors can be changed through conscious effort.
+>
+> This misconception overlooks the complexity of behavior change, which often involves unconscious processes and environmental factors. For example, habits are deeply ingrained patterns that may require significant cognitive restructuring or supportive environments to alter.
+
 ## Key Figures
 
 - **James Prochaska** — Co-developed the Transtheoretical Model (TTM) in 1977, which has been influential in understanding the stages of change and tailoring interventions accordingly.
 - **Martin Fishbein** — Contributed significantly to the development of the Theory of Planned Behavior (TPB), which has become a cornerstone for predicting and changing behaviors across various domains.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Giovanna DiClemente** — Co-developed the Transtheoretical Model (TTM) alongside James Prochaska, contributing to its detailed stages of change and strategies for moving through these stages.
 
 ## Open Questions
 
@@ -130,6 +153,13 @@ Behavior Change Theories propose specific mechanisms through which interventions
 > What are the most effective ways to measure behavior change?
 >
 > *What would resolve it:* Developing standardized and reliable measures of the mediators specified by various theories would help in evaluating the effectiveness of interventions and improving their design.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do digital technologies influence behavior change processes?
+>
+> *What would resolve it:* Research exploring how mobile apps, social media, and other digital tools can enhance or hinder behavioral interventions would provide insights into the role of technology in modern behavior change strategies.
 
 ## Synthesis
 
@@ -146,3 +176,10 @@ Behavior Change Theory also bridges various domains within Learning Science, suc
 **Generalizes to:** [[Health Belief Model]] · [[Social Cognitive Theory]] · [[Self-Determination Theory]]
 
 **Source:** [[behavior-change-theory-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Health Belief Model]]** — *broader*
+> The Health Belief Model (HBM) is a precursor and broader framework that Behavior Change Theory builds upon. HBM focuses on individual perceptions of health threats, benefits of action, barriers to action, and cues to action, which are foundational concepts used in more specialized models within Behavior Change Theory.

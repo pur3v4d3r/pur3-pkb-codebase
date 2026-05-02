@@ -1,14 +1,13 @@
 ---
-title: "Metacognitive Judgments"
+title: Metacognitive Judgments
 aliases:
-  - "Metacognitive Judgments"
-  - "JOLs"
-  - "judgments of learning"
-  - "ease-of-learning judgments"
+  - Metacognitive Judgments
+  - JOLs
+  - judgments of learning
+  - ease-of-learning judgments
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,56 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "metacognitive-judgments-synthetic-seed-2026-04-24"
+  - metacognitive-judgments-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[working-memory]]"
-  - "[[Retrospective Confidence]]"
-  - "[[Ease-of-Learning]]"
+  - '[[working-memory]]'
+  - '[[Retrospective Confidence]]'
+  - '[[Ease-of-Learning]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Retrospective Confidence]]"
+  - '[[Retrospective Confidence]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Ease-of-Learning]]"
+  - '[[Ease-of-Learning]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Metacognitive Judgments
 
@@ -104,6 +103,11 @@ Metacognitive Judgments are constructed from real-time cues such as fluency and 
 > [!example] **Application 3 — Feedback mechanisms**
 > Incorporating feedback loops that align Metacognitive Judgments with actual performance can improve learning outcomes. For example, providing students with immediate feedback on their judgments can help them calibrate their confidence and adjust their study habits accordingly.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance the accuracy of Metacognitive Judgments by encouraging learners to revisit material at increasing intervals. This practice not only reinforces memory but also provides opportunities for learners to reassess their confidence and ease-of-learning judgments, leading to more effective self-regulation.
+
 ## Key Distinctions
 
 > [!key-distinction] **Metacognitive Judgments vs Retrospective Confidence**
@@ -111,6 +115,19 @@ Metacognitive Judgments are constructed from real-time cues such as fluency and 
 
 > [!key-distinction] **Metacognitive Judgments vs Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, whereas extraneous load is due to poor instructional design. Metacognitive Judgments are not directly related to these loads but rather reflect learners' perceptions and judgments about their cognitive states during learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's cognitive processes, often after the fact, while reactive thinking is immediate and automatic. Metacognitive Judgments can be both reflective (when learners take time to assess their learning) or reactive (when judgments are made in real-time). Understanding this distinction helps educators design interventions that promote more accurate and beneficial metacognitive practices.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Metacognitive Judgments always accurately reflect true knowledge.
+>
+> Metacognitive Judgments are often influenced by superficial cues like fluency rather than deep understanding. This misconception arises because learners may feel confident due to ease of processing, even when they lack genuine comprehension. Educators should encourage critical reflection on these judgments to improve their accuracy.
 
 ## Key Figures
 
@@ -134,6 +151,9 @@ Understanding Metacognitive Judgments is crucial for improving self-regulated le
 
 The concept of Metacognitive Judgments also intersects with working memory and ease-of-learning, highlighting the interconnected nature of cognitive processes in learning. This understanding is essential for developing comprehensive approaches to education that address both the content and the learner's cognitive engagement.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from working memory capacity and reflective thinking practices, educators can enhance the accuracy and utility of Metacognitive Judgments, thereby improving overall learning outcomes through more effective self-regulation strategies.
+
 ## Connections & Context
 
 **Falls under:** [[self-regulated-learning]]
@@ -145,3 +165,13 @@ The concept of Metacognitive Judgments also intersects with working memory and e
 **Instance of:** [[Ease-of-Learning]]
 
 **Source:** [[metacognitive-judgments-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisite*
+> Working memory capacity is a prerequisite for effective Metacognitive Judgments because it influences how learners process and integrate cues like fluency and familiarity. Higher working memory allows for better monitoring of cognitive states, leading to more accurate judgments.
+
+> [!connection] **[[Retrospective Confidence]]** — *see-also*
+> Both Metacognitive Judgments and Retrospective Confidence involve assessing one's knowledge state, but they differ in timing. Understanding both can provide a comprehensive view of how learners perceive their cognitive processes over time.

@@ -1,13 +1,12 @@
 ---
-title: "Halo Effect"
+title: Halo Effect
 aliases:
-  - "Halo Effect"
-  - "halo bias"
-  - "evaluative halo"
+  - Halo Effect
+  - halo bias
+  - evaluative halo
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - judgment
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "halo-effect-synthetic-seed-2026-04-26"
+  - halo-effect-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Anchoring]]"
-  - "[[implicit-bias]]"
-  - "[[Fundamental Attribution Error]]"
-  - "[[Attractiveness Stereotype]]"
+  - '[[Anchoring]]'
+  - '[[implicit-bias]]'
+  - '[[Fundamental Attribution Error]]'
+  - '[[Attractiveness Stereotype]]'
 prerequisites:
-  - "[[Anchoring]]"
+  - '[[Anchoring]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[implicit-bias]]"
-  - "[[Fundamental Attribution Error]]"
+  - '[[implicit-bias]]'
+  - '[[Fundamental Attribution Error]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Attractiveness Stereotype]]"
+  - '[[Attractiveness Stereotype]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Halo Effect
 
@@ -90,6 +89,9 @@ Theoretical roots of the Halo Effect can be traced back to social psychology, wh
 
 Empirical evidence supports the existence of the Halo Effect across various domains, including social interactions, marketing, and hiring. For instance, studies have shown that initial impressions based on physical appearance can significantly influence evaluations of personality traits, even when these traits are logically independent.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Halo Effect can also manifest in professional settings such as hiring and performance evaluations. For instance, a manager might have an overall positive impression of an employee based on their punctuality or charisma, leading them to overestimate the employee's competence or productivity without considering specific task-related evidence. This bias can perpetuate inequality if it disproportionately affects certain demographic groups who are stereotypically associated with positive attributes.
+
 ## Mechanism
 
 The mechanism behind the Halo Effect involves evaluative coherence, where the mind simplifies complex information by reducing it to a global affective summary. This process is particularly evident when raters become less informed about specific attributes, leading to an amplification of the initial impression.
@@ -105,6 +107,11 @@ The mechanism behind the Halo Effect involves evaluative coherence, where the mi
 > [!example] **Application 3 — Hiring**
 > During job interviews, hiring managers might be influenced by the Halo Effect, leading them to overvalue certain attributes like charisma or appearance when evaluating a candidate's overall suitability for the role.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Hiring Decisions**
+> In hiring processes, the Halo Effect can lead to biased decisions when interviewers form an overall impression of a candidate based on superficial traits like attire or confidence. This initial positive impression may overshadow more relevant factors such as skill set and experience, potentially leading to the selection of less qualified candidates over better-suited ones.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
@@ -112,6 +119,19 @@ The mechanism behind the Halo Effect involves evaluative coherence, where the mi
 
 > [!key-distinction] **Halo Effect vs Anchoring**
 > While both biases involve initial impressions influencing subsequent judgments, the Halo Effect specifically refers to the amplification of these impressions across multiple attributes. Anchoring, on the other hand, is about using an initial piece of information as a reference point for further evaluations, often leading to biased estimates.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> The Halo Effect often operates through reactive thinking, where immediate impressions influence judgments without deliberate consideration. In contrast, reflective thinking involves a more systematic evaluation of evidence before forming an opinion. Understanding this distinction can help mitigate the impact of the Halo Effect by encouraging individuals to engage in reflective processes when making important decisions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — The Halo Effect only applies to positive impressions.
+>
+> While the term 'Halo Effect' often implies a positive bias, it can also manifest as a negative bias where an overall unfavorable impression leads to deflated ratings of specific attributes. This dual nature underscores the importance of being aware of both positive and negative halo effects in various contexts.
 
 ## Key Figures
 
@@ -129,11 +149,21 @@ The mechanism behind the Halo Effect involves evaluative coherence, where the mi
 >
 > *What would resolve it:* Empirical research examining the effectiveness of various interventions, such as cognitive bias mitigation training, could provide insights into whether and how the Halo Effect can be reduced in practice.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Halo Effect interact with other cognitive biases?
+>
+> *What would resolve it:* Investigating how the Halo Effect combines with other biases like confirmation bias or self-serving bias could provide insights into more complex patterns of judgment and decision-making. Such research would help in developing comprehensive strategies to mitigate multiple biases simultaneously.
+
 ## Synthesis
 
 The Halo Effect is a critical concept within [[cognitive-architecture]], highlighting the ways our minds process information and make judgments. Its implications extend across various fields, from marketing to hiring, where initial impressions can significantly influence evaluations of specific attributes. Understanding the Halo Effect helps us recognize when our judgments might be biased and how we can mitigate these biases through awareness and training.
 
 By differentiating the Halo Effect from other cognitive biases like anchoring and fundamental attribution error, we gain a deeper understanding of the mechanisms underlying judgmental errors. This distinction is crucial for developing effective strategies to reduce bias in decision-making processes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the Halo Effect within cognitive architecture reveals its pervasive influence on how we process information and make judgments, from personal interactions to professional decisions. By recognizing this bias, individuals can work towards more reflective and evidence-based evaluations, enhancing both personal and collective decision-making processes.
 
 ## Connections & Context
 
@@ -146,3 +176,10 @@ By differentiating the Halo Effect from other cognitive biases like anchoring an
 **Applies to:** [[Attractiveness Stereotype]]
 
 **Source:** [[halo-effect-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[implicit-bias]]** — *contrasts-with*
+> While implicit bias refers to unconscious attitudes or stereotypes that influence behavior, the Halo Effect specifically describes how an overall impression influences evaluations of specific attributes. Both concepts highlight the role of cognitive biases in judgment but differ in their focus on global vs. attribute-specific evaluations.

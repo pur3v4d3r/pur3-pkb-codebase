@@ -1,16 +1,15 @@
 ---
-title: "Mental Contrasting"
+title: Mental Contrasting
 aliases:
-  - "Mental Contrasting"
-  - "Mental-Contrasting"
-  - "Implementation Intentions"
-  - "If-Then Plans"
-  - "Gollwitzer Implementation Intentions"
-  - "II Plans"
+  - Mental Contrasting
+  - Mental-Contrasting
+  - Implementation Intentions
+  - If-Then Plans
+  - Gollwitzer Implementation Intentions
+  - II Plans
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,55 +22,55 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "implementation-intentions-gollwitzer-foundational-report-2026-04-20"
+  - implementation-intentions-gollwitzer-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[goal-setting-theory]]"
-  - "[[implementation-intentions]]"
+  - '[[goal-setting-theory]]'
+  - '[[implementation-intentions]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[goal-setting-theory]]"
+  - '[[goal-setting-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[implementation-intentions]]"
+  - '[[implementation-intentions]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Mental Contrasting
 
@@ -91,6 +90,9 @@ Theoretical roots of Mental Contrasting can be traced back to cognitive psycholo
 
 Empirical evidence supports the effectiveness of Mental Contrasting in various domains, including academic performance, health behaviors, and professional development. Studies have shown that individuals who engage in this technique are more likely to set realistic goals, persist through challenges, and ultimately achieve their desired outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Mental Contrasting is particularly effective in fostering a balanced perspective on goal pursuit, as it encourages individuals to not only dream about their future successes but also to face the realities of the present. This dual focus helps prevent over-optimism and underestimation of challenges, which are common pitfalls in goal setting. By acknowledging obstacles upfront, individuals can better prepare mentally and emotionally for the journey ahead.
+
 ## Mechanism
 
 The mechanism behind Mental Contrasting involves a two-step process: first, vividly imagining the desired future outcome, which primes positive expectations; second, contrasting these positive images with current obstacles, which heightens awareness of the challenges. This contrast produces expectancy-dependent commitment, where individuals are more likely to commit to their goals when they believe those goals are feasible and important.
@@ -106,6 +108,11 @@ The mechanism behind Mental Contrasting involves a two-step process: first, vivi
 > [!example] **Application 3 — Professional development**
 > In professional settings, Mental Contrasting can be applied by having employees imagine the benefits of career advancement (e.g., promotions or increased job satisfaction) and then identifying current obstacles such as skill gaps or networking challenges. This process helps them set achievable goals and develop action plans to overcome these barriers, leading to more effective career development.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques are often used to enhance learning retention. Combining mental contrasting with these methods can further boost student engagement and performance. For instance, students could be encouraged to visualize the benefits of mastering course material over time while also identifying potential distractions or competing commitments that might interfere with their study schedule.
+
 ## Key Distinctions
 
 > [!key-distinction] **Mental Contrasting vs Implementation Intentions**
@@ -113,6 +120,19 @@ The mechanism behind Mental Contrasting involves a two-step process: first, vivi
 
 > [!key-distinction] **Mental Contrasting vs Goal-Setting Theory**
 > Goal-Setting Theory emphasizes the specificity and difficulty of goals, whereas Mental Contrasting focuses on the contrast between desired outcomes and current obstacles. While both theories aim to enhance goal achievement, Mental Contrasting provides a more structured approach by integrating vivid visualization with realistic obstacle recognition, leading to stronger commitment formation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Mental Contrasting aligns closely with reflective thinking, which involves deliberate consideration of one's goals and the steps needed to achieve them. In contrast, reactive thinking is more immediate and less structured, often driven by instinct or habit rather than conscious planning. Reflective thinking through mental contrasting helps individuals plan ahead and anticipate obstacles, whereas reactive thinking may lead to impulsive actions that do not align with long-term objectives.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Mental Contrasting is only about imagining positive outcomes.
+>
+> While visualizing desired future states is a crucial first step in mental contrasting, the technique's power lies in its second phase: confronting present obstacles. This dual process ensures that individuals not only dream big but also prepare realistically for the challenges they will face on their path to success.
 
 ## Key Figures
 
@@ -136,6 +156,9 @@ Mental Contrasting is a powerful tool for enhancing commitment to goals by integ
 
 The integration of Mental Contrasting with implementation intentions through the MCII compound intervention represents a significant advancement in self-regulated learning frameworks. This combination addresses both commitment formation and action initiation, providing a more robust approach to goal achievement. As research continues to explore its long-term effects and interactions with other techniques, Mental Contrasting is likely to play an increasingly important role in promoting effective goal pursuit across diverse contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating mental contrasting into self-regulated learning strategies, educators and practitioners can create more effective interventions that not only inspire but also equip individuals with practical tools to navigate their goals. This holistic approach addresses both motivational and volitional aspects of goal pursuit, making it a versatile tool across various domains.
+
 ## Connections & Context
 
 **Falls under:** [[self-regulated-learning]]
@@ -145,3 +168,10 @@ The integration of Mental Contrasting with implementation intentions through the
 **Applies to:** [[implementation-intentions]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[implementation-intentions]]** — *applies-to*
+> Mental Contrasting and Implementation Intentions are often used in tandem because while Mental Contrasting enhances commitment by contrasting desired outcomes with obstacles, Implementation Intentions specify concrete actions to be taken when faced with these challenges. Together, they form a robust framework for goal pursuit, where Mental Contrasting sets the stage for motivation and Implementation Intentions provide actionable steps.

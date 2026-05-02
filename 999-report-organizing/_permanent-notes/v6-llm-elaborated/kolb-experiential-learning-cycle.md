@@ -1,14 +1,13 @@
 ---
-title: "Kolb Experiential Learning Cycle"
+title: Kolb Experiential Learning Cycle
 aliases:
-  - "Kolb Experiential Learning Cycle"
-  - "Kolb cycle"
-  - "experiential learning model"
-  - "ELT"
+  - Kolb Experiential Learning Cycle
+  - Kolb cycle
+  - experiential learning model
+  - ELT
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,57 @@ subdomains:
   - instructional-design
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "kolb-experiential-learning-cycle-synthetic-seed-2026-04-25"
+  - kolb-experiential-learning-cycle-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Learning Theories"
-
+depth-level: enhanced
+parent-concept: Learning Theories
 related:
-  - "[[reflective-thinking]]"
-  - "[[transformative-learning]]"
-  - "[[andragogy]]"
+  - '[[reflective-thinking]]'
+  - '[[transformative-learning]]'
+  - '[[andragogy]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[reflective-thinking]]"
-  - "[[transformative-learning]]"
+  - '[[reflective-thinking]]'
+  - '[[transformative-learning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[andragogy]]"
+  - '[[andragogy]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Kolb Experiential Learning Cycle
 
@@ -89,6 +88,9 @@ In practice, this cycle operates as a structured framework for learning. For exa
 Theoretical roots of this cycle trace back to David Kolb's work in cognitive science, where he emphasized that learning is not just a passive acquisition but an active process involving transformation. The cycle's phases are designed to ensure that learners engage deeply with their experiences, reflecting on them critically and applying new knowledge through practical experimentation.
 
 Empirically, the cycle has been validated through various studies showing that learners who follow this structured approach tend to retain information better and apply it more effectively in real-world scenarios. For example, a study by Kolb himself demonstrated that students who went through all four phases of the cycle performed significantly better on assessments than those who skipped any phase.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Kolb Experiential Learning Cycle is particularly effective in fostering a holistic understanding because it integrates both cognitive and affective dimensions of learning. Cognitive processes such as perception, memory, and reasoning are intertwined with emotional responses to experiences, which can significantly influence how learners interpret and apply new knowledge.
 
 ## Mechanism
 
@@ -110,6 +112,22 @@ The cycle operates as a recursive process where each phase builds upon the previ
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Kolb Experiential Learning Cycle focuses on intrinsic load, which is the cognitive effort required by the learner to understand and process information. In contrast, extraneous load refers to unnecessary cognitive demands imposed by instructional design. The cycle's value lies in its structured approach to learning rather than extraneous factors.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis of past actions and their outcomes, whereas reactive thinking is an immediate response without deep consideration. The Kolb Experiential Learning Cycle emphasizes reflective observation as a critical phase for transforming experiences into knowledge, highlighting the importance of reflection over mere reaction.
+
+> [!key-distinction] **Performance vs Learning**
+> While performance focuses on demonstrating current abilities, learning is about acquiring new skills and understanding that can be applied in various contexts. The Kolb cycle prioritizes learning by ensuring each phase contributes to deeper comprehension rather than just immediate application or demonstration.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Kolb Experiential Learning Cycle is a linear process.
+>
+> The cycle is recursive, meaning that each phase builds upon and informs the next. This non-linear approach allows for continuous refinement of understanding as learners move through the cycle multiple times.
+
 ## Key Figures
 
 - **David Kolb** — David Kolb is the originator of the Kolb Experiential Learning Cycle, formalizing it in 1984. His work emphasized that learning is a structured process involving concrete experience, reflective observation, abstract conceptualization, and active experimentation.
@@ -126,11 +144,21 @@ The cycle operates as a recursive process where each phase builds upon the previ
 >
 > *What would resolve it:* Developing clear guidelines and assessment tools for each phase could help educators implement a balanced approach to learning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Kolb Experiential Learning Cycle adapt to digital learning environments?
+>
+> *What would resolve it:* Research into how online platforms can facilitate each phase of the cycle, such as through virtual simulations for concrete experience or discussion forums for reflective observation, would provide insights into its effectiveness in digital settings.
+
 ## Synthesis
 
 Understanding the Kolb Experiential Learning Cycle is crucial for both educators and learners because it provides a structured framework for deep, transformative learning. By engaging in all four phases of the cycle, learners can develop a comprehensive understanding of new concepts and apply them effectively. This cycle's value extends beyond education into professional development and personal growth, making it a versatile tool for lifelong learning.
 
 The Kolb Experiential Learning Cycle complements other models like Dewey's reflective thinking and transformative learning by offering a more structured approach to experiential learning. While Dewey emphasized the importance of reflection in everyday life, and transformative learning focuses on personal change, the cycle provides a clear pathway for transforming experiences into knowledge.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Kolb Experiential Learning Cycle not only provides a robust framework for understanding how individuals learn from experiences but also serves as a foundational model that can be adapted across various educational and professional contexts. Its emphasis on reflective observation underscores the critical role of introspection in deep learning.
 
 ## Connections & Context
 
@@ -141,3 +169,13 @@ The Kolb Experiential Learning Cycle complements other models like Dewey's refle
 **Applies to:** [[andragogy]]
 
 **Source:** [[kolb-experiential-learning-cycle-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[reflective-thinking]]** — *contrasts-with*
+> While reflective thinking is a component within the Kolb Experiential Learning Cycle, it contrasts with the broader concept in that reflective thinking alone does not encompass all aspects of learning. The cycle integrates reflection into a comprehensive framework alongside concrete experience and experimentation.
+
+> [!connection] **[[andragogy]]** — *applies-to*
+> Andragogy, which focuses on adult learning principles, can be effectively applied using the Kolb Experiential Learning Cycle. This is because both approaches emphasize self-directed and experiential learning processes that are crucial for adults seeking to enhance their knowledge and skills.

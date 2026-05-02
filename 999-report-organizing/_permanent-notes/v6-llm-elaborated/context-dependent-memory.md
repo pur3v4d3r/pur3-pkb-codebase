@@ -1,12 +1,11 @@
 ---
-title: "Context-Dependent Memory"
+title: Context-Dependent Memory
 aliases:
-  - "Context-Dependent Memory"
-  - "context-dependent retrieval"
+  - Context-Dependent Memory
+  - context-dependent retrieval
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - memory
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "context-dependent-memory-synthetic-seed-2026-04-25"
+  - context-dependent-memory-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[state-dependent-memory]]"
+  - '[[working-memory]]'
+  - '[[state-dependent-memory]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[state-dependent-memory]]"
+  - '[[state-dependent-memory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Context-Dependent Memory
 
@@ -86,6 +85,9 @@ Theoretical roots of Context-Dependent Memory trace back to the broader framewor
 
 Historically, John Sweller's work in 1988 laid foundational groundwork for understanding how context influences memory. His research highlighted the importance of environmental context in memory retrieval, paving the way for further exploration into this phenomenon.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Recent research has explored how context-dependent memory operates at a neural level, suggesting that contextual cues activate specific brain regions associated with the encoded information. This activation primes these areas for retrieval when similar contexts are encountered later, thereby facilitating recall. For instance, studies using fMRI have shown increased activity in hippocampal and prefrontal cortex regions during both encoding and retrieval phases under matching environmental conditions.
+
 ## Mechanism
 
 During encoding, contextual features such as sights, sounds, and smells become bound to the memory trace. These cues are stored alongside the information itself, creating a complex web of associations that enhance recall when re-exposed to similar environmental conditions during retrieval.
@@ -98,10 +100,28 @@ During encoding, contextual features such as sights, sounds, and smells become b
 > [!example] **Application 2 — Learning strategies**
 > Using context cues can significantly enhance learning and retention. For instance, revisiting the same study location or using flashcards with associated environmental triggers (like music) can help reinforce memory traces and improve recall later on.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced by varying the context of study sessions. For example, students might alternate between studying at home and a library to create multiple contextual cues for the same material. This approach leverages context-dependent memory to improve retention over time as different contexts reinforce the memory traces.
+
 ## Key Distinctions
 
 > [!key-distinction] **Context-Dependent vs State-Dependent Memory**
 > While both Context-Dependent and State-Dependent Memory focus on the influence of environmental context, they differ in their emphasis. Context-Dependent Memory is concerned with external cues like sights and sounds, whereas State-Dependent Memory focuses on physiological states such as emotional or cognitive conditions during encoding and retrieval.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> Context-Dependent Memory is particularly relevant in recall tasks, where information must be retrieved without cues. In contrast, recognition tasks rely on identifying previously encountered information from a set of options, which may not benefit as much from contextual cues since the presence of multiple choices can provide retrieval support.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that context-dependent memory only applies to trivial or surface-level learning.
+>
+> This misconception arises because some believe deep, meaningful content is less influenced by environmental factors. However, empirical evidence shows that even complex information can benefit from contextual cues during both encoding and retrieval phases, enhancing overall recall performance.
 
 ## Key Figures
 
@@ -125,6 +145,9 @@ Context-Dependent Memory is a critical concept within [[cognitive-architecture]]
 
 Moreover, Context-Dependent Memory bridges the gap between intrinsic and extraneous load by showing how external context can be harnessed to support memory processes. By integrating this knowledge with other cognitive theories, we can develop a more comprehensive understanding of human memory and learning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from both cognitive architecture and context-dependent memory, we gain a more nuanced understanding of how environmental factors shape our ability to encode and retrieve information. This synthesis highlights the importance of considering not just what is learned but also where and when it is learned, offering practical implications for educational design and learning strategies.
+
 ## Connections & Context
 
 **Falls under:** [[cognitive-architecture]]
@@ -134,3 +157,10 @@ Moreover, Context-Dependent Memory bridges the gap between intrinsic and extrane
 **Contrasts with:** [[state-dependent-memory]]
 
 **Source:** [[context-dependent-memory-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory acts as a prerequisite for context-dependent memory because it temporarily holds information that can be influenced by environmental cues during encoding. The interaction between working memory and contextual factors is crucial, as the transient nature of working memory allows these cues to become integrated into the memory trace.

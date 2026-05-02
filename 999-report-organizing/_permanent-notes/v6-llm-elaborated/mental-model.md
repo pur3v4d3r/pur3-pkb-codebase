@@ -1,12 +1,11 @@
 ---
-title: "Mental Model"
+title: Mental Model
 aliases:
-  - "Mental Model"
-  - "mental models"
+  - Mental Model
+  - mental models
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "mental-model-synthetic-seed-2026-04-24"
+  - mental-model-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Mental Model
 
@@ -85,6 +84,9 @@ The process of building a Mental Model begins with exposure to relevant informat
 Theoretical roots of Mental Models trace back to cognitive science, particularly the work of Johnson-Laird (1983), who theorized that these models are the substrate of deductive reasoning and discourse comprehension. This perspective emphasizes the importance of Mental Models in understanding how individuals process complex information and make sense of their environment.
 
 Empirical evidence supports the notion that instruction that builds working Mental Models leads to more flexible transfer compared to expository teaching alone. For instance, when students are given worked examples that require them to actively manipulate a Mental Model, they develop deeper understanding and can apply this knowledge in novel situations more effectively.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Mental Models play a crucial role in how individuals navigate and interact with complex systems, such as technology or organizational structures. By creating internal representations of these systems, people can predict outcomes based on different inputs and actions, which is essential for effective decision-making and problem-solving. This ability to simulate scenarios mentally allows individuals to test hypotheses without the need for real-world experimentation, thereby conserving resources and minimizing risks.
 
 ## Mechanism
 
@@ -105,6 +107,22 @@ The process of building and manipulating a Mental Model involves several stages.
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent complexity of the task itself, while extraneous load pertains to unnecessary cognitive demands imposed by instructional methods. Mental Models can be either complete and consistent (in experts) or incomplete, inconsistent, or unstable (in non-experts). Understanding these distinctions is crucial for educators in designing effective learning environments that minimize extraneous load and maximize intrinsic load.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of Mental Models, allowing individuals to critically evaluate their accuracy and completeness. In contrast, reactive thinking relies on immediate application of existing models without deep analysis. Reflective thinking is crucial for correcting faulty Mental Models and enhancing understanding, whereas reactive thinking can lead to quick but potentially flawed decisions.
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Surface processing focuses on superficial aspects of information, leading to shallow Mental Models that lack depth or nuance. In contrast, deep processing involves a thorough examination and integration of information into existing knowledge structures, resulting in richer and more robust Mental Models. This distinction is vital as it affects the longevity and utility of the models formed.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that Mental Models are static once formed.
+>
+> In reality, Mental Models are dynamic and evolve over time through continuous interaction with new information and experiences. This evolution is driven by processes such as assimilation (fitting new information into existing models) and accommodation (modifying or creating new models to fit new information). Misconceptions arise from the assumption that once a model is formed, it remains unchanged.
 
 ## Key Figures
 
@@ -128,6 +146,9 @@ Understanding Mental Models is crucial for advancing our knowledge in cognitive 
 
 The integration of Mental Models with other cognitive constructs, such as working memory and worked examples, further underscores their significance in educational practice. By leveraging these connections, educators can create more engaging and effective learning environments that foster the development of robust Mental Models.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the dynamic nature of Mental Models is essential for educators aiming to foster deep learning. By recognizing how these models evolve through reflective thinking and continuous interaction with information, instructors can design more effective teaching strategies that promote robust knowledge construction.
+
 ## Connections & Context
 
 **Falls under:** [[cognitive-architecture]]
@@ -137,3 +158,13 @@ The integration of Mental Models with other cognitive constructs, such as workin
 **Applies to:** [[worked-examples]]
 
 **Source:** [[mental-model-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working Memory acts as a critical prerequisite for Mental Models by providing the temporary storage and manipulation capabilities necessary to construct and test these models. Without sufficient Working Memory capacity, individuals may struggle to hold relevant information in mind long enough to form coherent Mental Models.
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Worked Examples are particularly effective for building Mental Models because they provide learners with clear demonstrations of how to apply knowledge within a given domain. By studying these examples, learners can more easily construct and refine their own internal representations, leading to better understanding and problem-solving skills.

@@ -1,13 +1,12 @@
 ---
-title: "Decision Fatigue"
+title: Decision Fatigue
 aliases:
-  - "Decision Fatigue"
-  - "decision depletion"
-  - "choice fatigue"
+  - Decision Fatigue
+  - decision depletion
+  - choice fatigue
 type: permanent-note
 status: enriched
 confidence: low
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - judgment
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "decision-fatigue-synthetic-seed-2026-04-26"
+  - decision-fatigue-synthetic-seed-2026-04-26
 evidence-quality: low
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulation"
-
+depth-level: enhanced
+parent-concept: Self-Regulation
 related:
-  - "[[Ego-Depletion]]"
-  - "[[Choice Overload]]"
-  - "[[willpower]]"
+  - '[[Ego-Depletion]]'
+  - '[[Choice Overload]]'
+  - '[[willpower]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Ego-Depletion]]"
-  - "[[Choice Overload]]"
+  - '[[Ego-Depletion]]'
+  - '[[Choice Overload]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[willpower]]"
+  - '[[willpower]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Decision Fatigue
 
@@ -89,6 +88,9 @@ Theoretical roots of Decision Fatigue lie in the concept of ego-depletion, which
 
 Empirical evidence supporting Decision Fatigue comes from studies like those involving parole judges. These studies show that the quality of decisions deteriorates as the day progresses, highlighting the real-world implications of this phenomenon.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Decision Fatigue is not merely a temporary state but can have lasting implications on an individual's decision-making abilities over time. Research suggests that repeated exposure to high-stakes decisions without adequate rest periods may lead to chronic cognitive fatigue, potentially affecting long-term executive function and judgment quality.
+
 ## Mechanism
 
 The mechanism behind Decision Fatigue involves a gradual depletion of cognitive resources dedicated to decision-making. As individuals engage in more choices, their executive control processes become fatigued, leading to reduced capacity for complex and deliberate decisions. This fatigue can be exacerbated by the need to weigh multiple factors and options, which further depletes these limited resources.
@@ -104,14 +106,35 @@ The mechanism behind Decision Fatigue involves a gradual depletion of cognitive 
 > [!example] **Application 3 — Consumer behavior**
 > In consumer behavior, Decision Fatigue can explain why individuals may make impulsive purchases or choose default options during online shopping sessions. By understanding this concept, retailers can design user interfaces to reduce cognitive load and encourage thoughtful decision-making through clear choices and intuitive navigation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), understanding Decision Fatigue can inform the design of learning modules. By spacing out complex decision-making tasks, such as choosing between different problem-solving approaches or selecting relevant information from a large dataset, educators can mitigate cognitive fatigue and enhance student performance.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Decision Fatigue is an intrinsic load phenomenon, meaning it specifically depletes resources related to decision-making. In contrast, extraneous load refers to unnecessary cognitive demands that do not contribute to the task at hand but still consume limited resources. Understanding this distinction helps in identifying and mitigating factors that exacerbate Decision Fatigue.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of options and consequences, whereas reactive thinking is more immediate and less deliberative. Decision Fatigue often leads to a shift from reflective to reactive thinking as cognitive resources are depleted, resulting in quicker but potentially poorer quality decisions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that taking breaks can fully restore decision-making abilities.
+>
+> While short breaks may temporarily alleviate some symptoms of Decision Fatigue, full restoration often requires more substantial rest periods. This misconception arises from the belief in quick fixes for cognitive fatigue.
+
 ## Key Figures
 
 - **Roy F. Baumeister** — Roy F. Baumeister is a prominent contributor to the field of ego-depletion theory, which has significant overlap with Decision Fatigue. His work on self-regulation and willpower depletion provides foundational insights into understanding cognitive resource limitations.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Kathleen Vohs** — Her research on decision-making and self-control has provided significant insights into the mechanisms underlying Decision Fatigue, particularly in how repeated choices deplete executive function resources.
 
 ## Open Questions
 
@@ -124,6 +147,13 @@ The mechanism behind Decision Fatigue involves a gradual depletion of cognitive 
 > Can Decision Fatigue be mitigated through training or practice?
 >
 > *What would resolve it:* Experimental designs that incorporate training programs aimed at improving decision-making skills and resilience could provide insights into whether such interventions can reduce the impact of Decision Fatigue over time.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Decision Fatigue affect long-term career decisions?
+>
+> *What would resolve it:* Longitudinal studies tracking individuals' decision-making abilities over their careers could provide insights into whether chronic exposure to high-stakes decisions leads to lasting changes in professional judgment and success.
 
 ## Synthesis
 
@@ -140,3 +170,10 @@ Decision Fatigue also has significant implications for policy and practice. Reco
 **Applies to:** [[willpower]]
 
 **Source:** [[decision-fatigue-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[willpower]]** — *applies-to*
+> Decision Fatigue is a specific application of willpower depletion, focusing on its impact within decision-making contexts. Understanding the broader concept of willpower helps contextualize how Decision Fatigue fits into the larger framework of self-regulation and cognitive resource management.

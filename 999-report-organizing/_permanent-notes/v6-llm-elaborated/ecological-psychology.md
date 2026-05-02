@@ -1,12 +1,11 @@
 ---
-title: "Ecological Psychology"
+title: Ecological Psychology
 aliases:
-  - "Ecological Psychology"
-  - "Gibsonian psychology"
+  - Ecological Psychology
+  - Gibsonian psychology
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "ecological-psychology-synthetic-seed-2026-04-24"
+  - ecological-psychology-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Science"
-
+depth-level: enhanced
+parent-concept: Cognitive Science
 related:
-  - "[[embodied-cognition]]"
-  - "[[Affordance]]"
+  - '[[embodied-cognition]]'
+  - '[[Affordance]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[embodied-cognition]]"
+  - '[[embodied-cognition]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Affordance]]"
+  - '[[Affordance]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Ecological Psychology
 
@@ -86,6 +85,11 @@ Theoretical roots of ecological psychology can be traced back to Gibson's work o
 
 Empirical evidence supporting ecological psychology comes from studies showing that perception and action are tightly coupled, as seen in experiments where participants can quickly adapt to changes in their environment without needing time for internal processing. For example, Gibson's work on visual cliff experiments demonstrated how infants perceive depth directly through sensory input rather than through a constructed mental model.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Ecological Psychology's emphasis on direct perception and affordances has significant implications for understanding how humans interact with technology. As digital interfaces become increasingly sophisticated, the principles of ecological psychology can guide designers to create more intuitive user experiences by ensuring that these interfaces provide clear, actionable information about what users can do next.
+
+A key aspect of ecological psychology is its focus on the environment as an active participant in cognitive processes rather than a passive backdrop. This perspective challenges traditional views where cognition is seen as primarily internal and abstract. By considering the environment's role, researchers gain deeper insights into how context shapes behavior and perception.
+
 ## Mechanism
 
 The mechanism of ecological psychology involves the direct pickup of information from the environment through processes like optic flow and other sensory cues. Optic flow, for instance, provides continuous information about motion and spatial relationships, enabling organisms to navigate their surroundings without needing to infer or construct a mental model.
@@ -101,10 +105,31 @@ The mechanism of ecological psychology involves the direct pickup of information
 > [!example] **Application 3 — Human-computer interaction (HCI)**
 > In HCI, ecological psychology guides the design of user interfaces that provide direct feedback and affordances for actions. For instance, a well-designed button should clearly indicate its function through visual cues, allowing users to perceive what action is possible without needing additional instructions or explanations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Designing for Accessibility**
+> In designing accessible interfaces, ecological psychology can inform the creation of environments that naturally support diverse user needs. For example, by ensuring that all interactive elements clearly afford their intended actions (e.g., buttons that look clickable), designers can reduce cognitive load and enhance usability for users with various abilities.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Ecological psychology focuses on intrinsic load, which refers to the inherent difficulty of a task based on its affordances and sensory input. In contrast, traditional cognitive psychology often deals with extraneous load, which includes factors like working memory capacity that can interfere with performance. Understanding these distinctions helps in designing tasks and interfaces that are more intuitive and less cognitively demanding.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Ecological psychology contrasts sharply with reflective thinking, which involves deliberate analysis and planning. In contrast, ecological psychology emphasizes reactive thinking where actions are directly guided by immediate sensory information without the need for conscious deliberation. This distinction highlights how ecological principles can lead to more efficient and intuitive interactions.
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> While traditional cognitive science often focuses on top-down processing, where higher-level concepts guide perception, ecological psychology emphasizes bottom-up processing. This means that perception is driven by the direct pickup of information from the environment rather than being shaped by pre-existing knowledge or expectations.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Ecological Psychology only applies to physical environments.
+>
+> Ecological psychology's principles are not limited to physical spaces. They can be applied to digital and virtual environments as well, where the affordances of interfaces and interactions play a crucial role in user experience.
 
 ## Key Figures
 
@@ -122,6 +147,13 @@ The mechanism of ecological psychology involves the direct pickup of information
 >
 > *What would resolve it:* Experiments testing whether ecological principles can explain higher-order cognitive processes like language comprehension or mathematical reasoning would help clarify this issue.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can ecological principles be applied to virtual reality experiences?
+>
+> *What would resolve it:* Research into how virtual environments can provide clear, actionable information about possible actions could enhance user engagement and usability in VR applications.
+
 ## Synthesis
 
 Ecological Psychology offers a valuable framework for understanding perception and cognition by emphasizing direct interaction with the environment. Its focus on affordances and lawful information pickup provides insights into how organisms can navigate their surroundings efficiently without relying on complex internal representations. This perspective aligns well with [[embodied-cognition]], which also highlights the importance of physical engagement in cognitive processes. By integrating ecological principles, researchers and practitioners can design more intuitive interfaces, robots, and learning environments that enhance human performance and interaction.
@@ -135,3 +167,13 @@ Ecological Psychology offers a valuable framework for understanding perception a
 **Instance of:** [[Affordance]]
 
 **Source:** [[ecological-psychology-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[embodied-cognition]]** — *sibling*
+> Both ecological psychology and embodied cognition challenge traditional views by emphasizing the importance of bodily interaction with the environment. While ecological psychology focuses on direct perception, embodied cognition also considers how physical experiences shape cognitive processes.
+
+> [!connection] **[[Affordance]]** — *instance-of*
+> The concept of affordances is central to ecological psychology as it describes the action possibilities provided by objects and environments. Understanding affordances helps in designing more intuitive interfaces that align with users' needs and abilities.

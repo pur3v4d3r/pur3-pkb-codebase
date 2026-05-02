@@ -1,13 +1,12 @@
 ---
-title: "Meaningful Learning Theory"
+title: Meaningful Learning Theory
 aliases:
-  - "Meaningful Learning Theory"
-  - "Ausubel's theory"
-  - "subsumption theory"
+  - Meaningful Learning Theory
+  - Ausubel's theory
+  - subsumption theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "meaningful-learning-theory-synthetic-seed-2026-04-24"
+  - meaningful-learning-theory-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[schema-theory]]"
-  - "[[assimilation]]"
+  - '[[schema-theory]]'
+  - '[[assimilation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[schema-theory]]"
+  - '[[schema-theory]]'
 see-also:
-  - "[[assimilation]]"
+  - '[[assimilation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Meaningful Learning Theory
 
@@ -86,6 +85,9 @@ In practice, meaningful learning involves a deep understanding rather than surfa
 The theory's roots lie in Ausubel’s belief that learning should be a constructive process where learners build upon their existing knowledge rather than merely adding to it. The concept of assimilation plays a crucial role here; it refers to the process by which new information is integrated into an existing schema, thereby enriching and expanding the learner's cognitive structure.
 
 Empirical evidence supports the effectiveness of meaningful learning theory in various educational settings. For instance, studies have shown that when teachers use advance organizers effectively, students demonstrate better integration and retention of complex material compared to expository teaching alone.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Meaningful Learning Theory also underscores the importance of hierarchical organization in cognitive structures, suggesting that new information should be integrated into a pre-existing framework rather than being treated as isolated facts. This hierarchical integration allows for more efficient retrieval and application of knowledge across different contexts.
 
 ## Mechanism
 
@@ -110,6 +112,22 @@ Advance organizers work by presenting a high-level overview or summary of the up
 > [!key-distinction] **Assimilation vs Accommodation**
 > While both assimilation (integrating new information into existing schemas) and accommodation (adjusting existing schemas based on new information) are part of cognitive development, meaningful learning primarily emphasizes assimilation. This distinction is important because it highlights the role of prior knowledge in shaping how new information is integrated.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> In the context of Meaningful Learning Theory, surface processing involves rote memorization without understanding underlying concepts, leading to poor retention. In contrast, deep processing focuses on comprehending and integrating new information with existing knowledge, fostering long-term memory and flexible application.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> While maintenance rehearsal involves repetitive review of material without deeper engagement, elaborative rehearsal encourages learners to connect new information with prior knowledge through explanation or generation. This aligns closely with Ausubel's emphasis on meaningful learning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that advance organizers are only useful for complex topics.
+>
+> Advance organizers can enhance learning across various levels of complexity. Even in straightforward subjects, they help activate relevant schemas and facilitate the integration of new information into existing cognitive structures.
+
 ## Key Figures
 
 - **David Ausubel** — David Ausubel was the originator of Meaningful Learning Theory, which he developed based on his belief that learning should be a constructive process where learners build upon their existing knowledge.
@@ -126,11 +144,21 @@ Advance organizers work by presenting a high-level overview or summary of the up
 >
 > *What would resolve it:* Studies comparing the effectiveness of meaningful learning theory across different cultural and linguistic contexts could provide insights into its generalizability and potential limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does meaningful learning impact long-term retention compared to rote memorization?
+>
+> *What would resolve it:* Empirical studies comparing these methods would provide insights into how meaningful learning enhances long-term memory and application of knowledge, potentially through deeper cognitive processing.
+
 ## Synthesis
 
 Meaningful Learning Theory is a cornerstone concept in learning science, offering valuable insights into how learners construct knowledge. By integrating new information with existing schemas, meaningful learning enhances comprehension and retention. This theory has significant implications for instructional design, classroom management, and assessment strategies, making it an essential tool for educators aiming to foster deep understanding in their students.
 
 The theory's focus on prior knowledge aligns well with schema theory, which also emphasizes the role of pre-existing mental frameworks in learning. By building upon these related concepts, meaningful learning theory provides a robust framework for understanding and improving educational practices.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Meaningful Learning Theory not only enriches our understanding of how learners integrate new information but also highlights the critical role of instructional design in fostering deep, lasting comprehension. By leveraging advance organizers and hierarchical organization, educators can significantly enhance learning outcomes across diverse educational settings.
 
 ## Connections & Context
 
@@ -141,3 +169,13 @@ The theory's focus on prior knowledge aligns well with schema theory, which also
 **Sibling concepts:** [[assimilation]]
 
 **Source:** [[meaningful-learning-theory-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[schema-theory]]** — *generalizes-to*
+> Meaningful Learning Theory is a specific application of schema theory, which posits that knowledge is organized in mental frameworks or schemas. Ausubel's work extends this by emphasizing the role of prior knowledge and hierarchical organization in learning.
+
+> [!connection] **[[assimilation]]** — *contrasts-with-accommodation*
+> While assimilation involves integrating new information into existing schemas without altering them, accommodation requires modifying or creating new schemas to accommodate new experiences. Ausubel's theory primarily focuses on the former process.

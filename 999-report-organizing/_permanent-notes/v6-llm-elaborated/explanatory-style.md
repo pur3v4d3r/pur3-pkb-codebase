@@ -1,13 +1,12 @@
 ---
-title: "Explanatory Style"
+title: Explanatory Style
 aliases:
-  - "Explanatory Style"
-  - "attributional style"
-  - "optimistic-pessimistic explanatory style"
+  - Explanatory Style
+  - attributional style
+  - optimistic-pessimistic explanatory style
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - clinical-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "explanatory-style-synthetic-seed-2026-04-25"
+  - explanatory-style-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Attribution Theory"
-
+depth-level: enhanced
+parent-concept: Attribution Theory
 related:
-  - "[[learned-helplessness]]"
-  - "[[locus-of-control]]"
-  - "[[attribution-retraining]]"
+  - '[[learned-helplessness]]'
+  - '[[locus-of-control]]'
+  - '[[attribution-retraining]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[learned-helplessness]]"
+  - '[[learned-helplessness]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[locus-of-control]]"
+  - '[[locus-of-control]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[attribution-retraining]]"
+  - '[[attribution-retraining]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Explanatory Style
 
@@ -88,6 +87,9 @@ Theoretical roots trace back to Attribution Theory, which posits that individual
 
 Historically, John Sweller introduced the concept in 1988, emphasizing its role in learned helplessness. His work laid the foundation for understanding how consistent attributions can lead to maladaptive behaviors and mental states.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Explanatory Style's impact extends beyond individual psychology into social dynamics, influencing how people perceive and interact with each other. For instance, individuals with a pessimistic explanatory style may interpret others' actions as more negative or hostile than intended, leading to strained relationships and reduced social support networks.
+
 ## Mechanism
 
 The mechanism by which Explanatory Style influences outcomes involves cognitive processes that shape emotional responses and behavioral tendencies. For instance, individuals with a pessimistic style are more likely to experience negative emotions like anxiety or depression when faced with setbacks because they attribute these events internally and stably. This leads to learned helplessness, where repeated failure reinforces the belief that one has no control over outcomes.
@@ -103,14 +105,35 @@ The mechanism by which Explanatory Style influences outcomes involves cognitive 
 > [!example] **Application 3 — Organizational psychology**
 > In organizational settings, managers can use knowledge of Explanatory Style to create a positive work culture. Recognizing employees' explanatory styles allows for targeted interventions aimed at enhancing performance and well-being by addressing maladaptive attributions that may hinder productivity.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), understanding students' explanatory styles can inform the design of spaced retrieval activities. For learners with a pessimistic style, frequent but spaced practice might be less daunting and more effective than massed practice sessions, as it reduces the perceived instability and global impact of learning challenges.
+
 ## Key Distinctions
 
 > [!key-distinction] **Explanatory Style vs Locus of Control**
 > While both concepts deal with attributions, Explanatory Style focuses on the dimensions of internal versus external causes and stable versus unstable factors. In contrast, Locus of Control is a broader construct that distinguishes between an internal locus (believing one has control over outcomes) and an external locus (attributing outcomes to external forces).
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Explanatory Style interacts with reflective versus reactive thinking. Reflective thinkers tend to engage in deeper analysis of events, which can mitigate the negative impacts of a pessimistic style by allowing for more balanced attributions. In contrast, reactive thinkers may quickly attribute setbacks internally and stably without reflection, exacerbating learned helplessness.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that Explanatory Style is solely about optimism or pessimism.
+>
+> While Explanatory Style does influence one's outlook on life events, it specifically refers to the cognitive process of attributing causes along internal-external, stable-unstable, and global-specific dimensions. This distinction highlights how these attributions shape emotional responses and behaviors beyond just mood.
+
 ## Key Figures
 
 - **John Sweller** — In 1988, John Sweller introduced the concept of Explanatory Style, emphasizing its role in learned helplessness and laying the groundwork for understanding how consistent attributions shape mental states.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Martin Seligman** — Seligman's work on learned helplessness provided foundational insights into the psychological mechanisms underlying Explanatory Style. His research highlighted how consistent negative attributions can lead to a sense of powerlessness, underscoring the importance of addressing explanatory styles in therapeutic and educational contexts.
 
 ## Open Questions
 
@@ -123,6 +146,13 @@ The mechanism by which Explanatory Style influences outcomes involves cognitive 
 > What are the long-term effects of a pessimistic explanatory style on mental health?
 >
 > *What would resolve it:* Longitudinal studies tracking individuals with different explanatory styles over extended periods could provide insights into the lasting impacts on mental health and well-being.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the development and expression of Explanatory Styles?
+>
+> *What would resolve it:* Cross-cultural studies would help elucidate how societal norms and values shape attributions, potentially revealing variations in explanatory styles that are not captured by universal models.
 
 ## Synthesis
 
@@ -145,3 +175,10 @@ Empirical evidence supports the predictive power of Explanatory Style over situa
 **Applies to:** [[attribution-retraining]]
 
 **Source:** [[explanatory-style-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[attribution-retraining]]** — *applies-to*
+> Attribution retraining techniques are directly applicable to modifying Explanatory Style. By teaching individuals to attribute negative events externally, unstably, and specifically, these interventions can shift explanatory styles from pessimistic to more optimistic patterns, thereby reducing learned helplessness and enhancing resilience.

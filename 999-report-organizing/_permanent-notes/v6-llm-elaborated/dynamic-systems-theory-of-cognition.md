@@ -1,13 +1,12 @@
 ---
-title: "Dynamic Systems Theory of Cognition"
+title: Dynamic Systems Theory of Cognition
 aliases:
-  - "Dynamic Systems Theory of Cognition"
-  - "dynamicism"
-  - "dynamical cognitive science"
+  - Dynamic Systems Theory of Cognition
+  - dynamicism
+  - dynamical cognitive science
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - developmental-psychology
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "dynamic-systems-theory-of-cognition-synthetic-seed-2026-04-26"
+  - dynamic-systems-theory-of-cognition-synthetic-seed-2026-04-26
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Science"
-
+depth-level: enhanced
+parent-concept: Cognitive Science
 related:
-  - "[[Attractor Dynamics]]"
-  - "[[embodied-cognition]]"
-  - "[[computational-theory-of-mind]]"
+  - '[[Attractor Dynamics]]'
+  - '[[embodied-cognition]]'
+  - '[[computational-theory-of-mind]]'
 prerequisites:
-  - "[[Attractor Dynamics]]"
+  - '[[Attractor Dynamics]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[embodied-cognition]]"
+  - '[[embodied-cognition]]'
 contrasts-with:
-  - "[[computational-theory-of-mind]]"
+  - '[[computational-theory-of-mind]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Dynamic Systems Theory of Cognition
 
@@ -88,6 +87,9 @@ Theoretical roots of this approach trace back to dynamical systems theory in mat
 
 Empirically, Dynamic Systems Theory has been particularly influential in explaining developmental changes in motor skills and learning. For example, Thelen's work on infant locomotion demonstrated that apparent stage-like transitions can arise from continuous parameter changes, challenging traditional views of cognitive development as a series of discrete stages.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Dynamic Systems Theory also addresses the issue of cognitive flexibility, which is crucial for adapting to changing environments and tasks. Unlike traditional theories that often assume fixed cognitive structures or processes, Dynamic Systems Theory posits that cognitive systems are inherently flexible due to their dynamic nature. This flexibility allows individuals to adjust their behavior in response to new information or changes in context without needing to rely on pre-programmed responses.
+
 ## Mechanism
 
 The mechanism involves modeling cognitive processes using differential equations to describe the evolution of coupled state variables. These equations capture how variables change over time and interact with each other, leading to emergent properties such as self-organization and multistability. For instance, in Thelen's model of infant locomotion, the continuous interaction between leg movements, postural adjustments, and gravitational forces leads to the development of walking.
@@ -100,16 +102,37 @@ The mechanism involves modeling cognitive processes using differential equations
 > [!example] **Application 2 — Motor skill acquisition**
 > For motor skill acquisition, Dynamic Systems Theory implies that training should focus on gradual changes in the environment rather than abrupt shifts. This allows learners to adapt their movements continuously, leading to more efficient and natural development of skills.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), Dynamic Systems Theory suggests that spaced retrieval, where learners revisit material at increasing intervals, can be more effective than massed practice. This approach aligns with the theory's emphasis on continuous interaction and feedback over time, allowing for deeper integration of knowledge into existing cognitive structures.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Dynamic Systems Theory contrasts with traditional cognitive load theory by focusing on intrinsic load as the inherent difficulty of a task rather than extraneous load, which refers to unnecessary aspects that can hinder learning. This distinction matters because it shifts the emphasis from reducing distractions to understanding how tasks are inherently structured.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Dynamic Systems Theory contrasts reflective thinking, which involves deliberate review and analysis, with reactive thinking, characterized by immediate responses to stimuli. While traditional theories often prioritize reflective thinking for complex problem-solving, Dynamic Systems Theory highlights the importance of reactive processes in real-time cognitive tasks, suggesting that both modes are integral to effective cognition.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Dynamic Systems Theory only applies to motor skills.
+>
+> Dynamic Systems Theory is not limited to motor skills; it offers a framework for understanding all cognitive processes. By modeling cognitive phenomena as dynamic systems, the theory can explain how various mental functions evolve over time through continuous interaction and feedback, applicable from perception to problem-solving.
 
 ## Key Figures
 
 - **Esther Thelen** — Thelen was a key contributor who applied Dynamic Systems Theory to understand infant locomotion, demonstrating that cognitive transitions can emerge from continuous parameter changes rather than fixed internal programs.
 - **Tim van Gelder** — Van Gelder is another influential figure in the development of this theory, emphasizing the role of dynamical systems in understanding complex cognitive processes and their emergent properties.
 - **Linda Smith** — Smith contributed to the application of Dynamic Systems Theory in developmental psychology, particularly in explaining how motor skills develop through continuous interaction with the environment.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Scott Kelso** — Kelso's work on coordination dynamics has significantly influenced Dynamic Systems Theory by demonstrating how complex behaviors emerge from the interaction of multiple subsystems, providing a robust framework for understanding cognitive processes as dynamic systems.
 
 ## Open Questions
 
@@ -123,9 +146,19 @@ The mechanism involves modeling cognitive processes using differential equations
 >
 > *What would resolve it:* Experiments that compare predictions from Dynamic Systems Theory with empirical data could help identify these limitations and guide future theoretical developments.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Dynamic Systems Theory account for individual differences in learning and problem-solving?
+>
+> *What would resolve it:* Further research is needed to explore how individual variations in cognitive dynamics influence learning outcomes. Understanding these differences could lead to more personalized educational strategies that leverage the strengths of each learner's unique cognitive system.
+
 ## Synthesis
 
 Dynamic Systems Theory is significant because it offers a systems perspective on cognition, emphasizing continuous change and self-organization over discrete symbol manipulation. This theory bridges the gap between cognitive science and dynamical systems theory, providing new insights into how complex behaviors emerge from simple interactions. By integrating this approach with other theories like embodied cognition and ecological psychology, researchers can develop more comprehensive models of cognitive processes that account for both lower-level motor skills and higher-order reasoning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Dynamic Systems Theory provides a holistic framework for understanding cognition as an emergent property of complex, interacting systems. By focusing on continuous change and self-organization, it offers new insights into how cognitive processes adapt to environmental demands, challenging traditional views that emphasize static internal representations.
 
 ## Connections & Context
 
@@ -138,3 +171,10 @@ Dynamic Systems Theory is significant because it offers a systems perspective on
 **Contrasts with:** [[computational-theory-of-mind]]
 
 **Source:** [[dynamic-systems-theory-of-cognition-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[embodied-cognition]]** — *see-also*
+> Dynamic Systems Theory shares a strong affinity with embodied cognition in its emphasis on the interplay between cognitive processes and bodily actions. Both theories reject the notion of cognition as purely internal, instead viewing it as deeply intertwined with physical experiences and environmental interactions.

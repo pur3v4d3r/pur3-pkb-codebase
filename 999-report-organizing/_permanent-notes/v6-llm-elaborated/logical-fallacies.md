@@ -1,13 +1,12 @@
 ---
-title: "Logical Fallacies"
+title: Logical Fallacies
 aliases:
-  - "Logical Fallacies"
-  - "fallacies of reasoning"
-  - "informal fallacies"
+  - Logical Fallacies
+  - fallacies of reasoning
+  - informal fallacies
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - rhetoric
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "logical-fallacies-synthetic-seed-2026-04-24"
+  - logical-fallacies-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[critical-thinking]]"
-  - "[[argument-analysis]]"
+  - '[[critical-thinking]]'
+  - '[[argument-analysis]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[critical-thinking]]"
+  - '[[critical-thinking]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[argument-analysis]]"
+  - '[[argument-analysis]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Logical Fallacies
 
@@ -87,6 +86,9 @@ Theoretical roots of logical fallacies trace back to ancient philosophers like A
 
 Empirically, logical fallacies are prevalent in everyday discourse, often used as rhetorical devices to manipulate opinions or silence critics. For instance, the straw man fallacy involves misrepresenting an opponent's argument to make it easier to attack. Recognizing such tactics can help individuals engage in more constructive and respectful dialogue.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Logical fallacies not only affect argumentation but also influence decision-making processes in various fields, including psychology and economics. For instance, the sunk cost fallacy, where individuals continue a behavior or endeavor as they have already invested resources into it, despite new evidence suggesting that continuing is irrational, highlights how cognitive biases can lead to poor decisions.
+
 ## Mechanism
 
 The mechanism of logical fallacies often involves a diversion from the core issue at hand, either by attacking irrelevant aspects or by presenting flawed reasoning that appears valid but is not. For example, an ad hominem attack diverts attention away from the argument's substance to personal characteristics, while a false dichotomy limits discussion by presenting only two options as if they are mutually exclusive.
@@ -102,10 +104,28 @@ The mechanism of logical fallacies often involves a diversion from the core issu
 > [!example] **Application 3 — Public policy debates**
 > In public policy debates, logical fallacies can obscure the true issues and lead to poor decision-making. By identifying and addressing these flaws, policymakers can make more informed choices that reflect the best interests of their constituents rather than being swayed by misleading rhetoric.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques are used to enhance learning by revisiting material at increasing intervals. However, instructors must be cautious of the confirmation bias fallacy, where learners might only seek out information that supports their pre-existing beliefs and ignore contradictory evidence.
+
 ## Key Distinctions
 
 > [!key-distinction] **Formal vs Informal Fallacies**
 > Formal fallacies are errors in deductive reasoning, such as affirming the consequent or denying the antecedent. In contrast, informal fallacies involve issues of relevance and presumption, like ad hominem attacks or false dichotomies. Understanding these distinctions is crucial for accurately diagnosing flawed arguments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and evaluation of arguments, whereas reactive thinking is an immediate response without deep consideration. Logical fallacies often exploit the tendency towards reactive thinking by presenting emotionally charged or complex information that triggers quick judgments rather than reflective scrutiny.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think identifying logical fallacies means one can always construct airtight arguments.
+>
+> Identifying logical fallacies is crucial for evaluating the validity of an argument, but it does not guarantee that one can create flawless arguments. Constructing strong arguments requires understanding both valid reasoning and common pitfalls.
 
 ## Key Figures
 
@@ -123,6 +143,13 @@ The mechanism of logical fallacies often involves a diversion from the core issu
 >
 > *What would resolve it:* Case studies analyzing instances where logical fallacies are used as rhetorical devices could provide insights into their impact and potential countermeasures.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do logical fallacies influence public opinion formation?
+>
+> *What would resolve it:* Empirical studies on media consumption and political discourse could provide insights into how specific fallacies shape perceptions and attitudes in society.
+
 ## Synthesis
 
 Logical fallacies matter because they highlight the importance of critical thinking in evaluating arguments. By understanding these patterns, individuals can better navigate complex discussions and make more informed decisions. This concept intersects with [[argument-analysis]] by providing tools for identifying flawed reasoning, and it is a cornerstone of [[critical-thinking]], fostering a deeper appreciation for rigorous argumentation.
@@ -138,3 +165,10 @@ The study of logical fallacies also has broader implications in fields such as p
 **Applies to:** [[argument-analysis]]
 
 **Source:** [[logical-fallacies-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[argument-analysis]]** — *applies-to*
+> Logical fallacies are integral to argument analysis as they provide a framework for identifying weaknesses in reasoning. By recognizing these flaws, one can improve the quality of arguments and enhance critical thinking skills.

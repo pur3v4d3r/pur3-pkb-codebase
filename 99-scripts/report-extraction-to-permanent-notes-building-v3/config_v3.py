@@ -68,8 +68,8 @@ EMBED_BATCH_SIZE: int = 64
 # ═════════════════════════════════════════════════════════════════════════
 
 OLLAMA_URL: str = "http://localhost:11434"
-LLM_MODEL_NORMALIZE: str = "qwen2.5:7b-instruct-q5_K_M"
-LLM_MODEL_SYNTHESIZE: str = "qwen2.5:7b-instruct-q5_K_M"  # Upgrade to 14B if quality demands
+LLM_MODEL_NORMALIZE: str = "qwen2.5:14b-instruct-q5_K_M"
+LLM_MODEL_SYNTHESIZE: str = "qwen2.5:14b-instruct-q5_K_M"
 LLM_REQUEST_TIMEOUT_S: float = 120.0
 LLM_MAX_RETRIES: int = 3
 

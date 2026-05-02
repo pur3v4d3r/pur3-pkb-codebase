@@ -367,4 +367,4 @@ def test_cli_help_runs(capsys: pytest.CaptureFixture[str]) -> None:
     assert "--dry-run" in out
     assert "--max-passes" in out
     assert "--re-enhance" in out
-    assert "qwen3:30b" in out
+    assert en.DEFAULT_MODEL in out

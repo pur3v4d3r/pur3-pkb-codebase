@@ -1,13 +1,12 @@
 ---
-title: "Double Loop Learning"
+title: Double Loop Learning
 aliases:
-  - "Double Loop Learning"
-  - "double-loop learning"
-  - "governing-variable revision"
+  - Double Loop Learning
+  - double-loop learning
+  - governing-variable revision
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - management
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "double-loop-learning-synthetic-seed-2026-04-24"
+  - double-loop-learning-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Organizational Learning"
-
+depth-level: enhanced
+parent-concept: Organizational Learning
 related:
-  - "[[Single-Loop Learning]]"
-  - "[[reflective-thinking]]"
+  - '[[Single-Loop Learning]]'
+  - '[[reflective-thinking]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Single-Loop Learning]]"
-  - "[[reflective-thinking]]"
+  - '[[Single-Loop Learning]]'
+  - '[[reflective-thinking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Double Loop Learning
 
@@ -88,6 +87,9 @@ Theoretical roots of Double Loop Learning can be traced back to the works of Arg
 
 Empirical evidence supports the notion that Double Loop Learning is essential for long-term success. For instance, studies have shown that companies that engage in this form of learning are better equipped to innovate and respond to market changes, thereby maintaining a competitive edge.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Double Loop Learning is particularly relevant in today's rapidly changing business environments, where organizations must continuously adapt to survive and thrive. This concept not only aids in the development of more resilient organizational structures but also fosters a culture of innovation by encouraging employees at all levels to question established norms and explore new possibilities.
+
 ## Mechanism
 
 The process of Double Loop Learning involves several key steps: first, individuals must recognize the need for change by identifying discrepancies between their current practices and desired outcomes. Next, they engage in reflective thinking to question and revise underlying assumptions and goals. Finally, new strategies are developed and implemented, with continuous monitoring to ensure effectiveness.
@@ -103,6 +105,11 @@ The process of Double Loop Learning involves several key steps: first, individua
 > [!example] **Application 3 — Strategic planning**
 > In strategic planning, Double Loop Learning encourages organizations to regularly question their long-term goals and assumptions. This can lead to more flexible and adaptive strategies that better align with evolving market conditions and stakeholder expectations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Strategic planning**
+> In strategic planning, Double Loop Learning can lead to the development of more robust strategies that are better suited to unpredictable market conditions. For instance, a company might use this approach to reassess its long-term goals and underlying assumptions about customer preferences or technological trends, leading to more agile and responsive business models.
+
 ## Key Distinctions
 
 > [!key-distinction] **Double Loop Learning vs Single-Loop Learning**
@@ -110,6 +117,19 @@ The process of Double Loop Learning involves several key steps: first, individua
 
 > [!key-distinction] **Reflective Thinking vs Governing Variable Revision**
 > Although Double Loop Learning involves reflective thinking, it extends beyond this by explicitly revising governing variables such as goals and assumptions. Reflective thinking alone does not necessarily lead to the same level of organizational change and adaptation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective Thinking vs Reactive Thinking**
+> Reflective thinking is a key component of Double Loop Learning, as it involves stepping back from immediate actions to critically evaluate underlying assumptions. In contrast, reactive thinking focuses on responding quickly and directly to stimuli without deeper analysis. This distinction matters because reflective thinking enables organizations to make more informed decisions that are less likely to be based on outdated or flawed premises.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Double Loop Learning is only about changing strategies, but.
+>
+> Double Loop Learning encompasses both the revision of strategies and a deeper examination of underlying assumptions and goals. This comprehensive approach ensures that changes are not merely superficial adjustments within an existing framework but represent fundamental shifts in organizational thinking.
 
 ## Key Figures
 
@@ -128,11 +148,21 @@ The process of Double Loop Learning involves several key steps: first, individua
 >
 > *What would resolve it:* Longitudinal case studies examining organizations with strong cultures of Double Loop Learning could help identify both the benefits, such as increased adaptability and innovation, and potential drawbacks, like increased uncertainty and resistance to change.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can organizations ensure that Double Loop Learning leads to meaningful changes rather than superficial adjustments?
+>
+> *What would resolve it:* Empirical studies tracking the effectiveness of organizational changes over time could help resolve this question by providing insights into what factors contribute to genuine versus superficial revisions.
+
 ## Synthesis
 
 Double Loop Learning is a critical concept for understanding adaptive organizational behavior because it emphasizes continuous improvement through the revision of underlying assumptions and goals. This form of learning enables organizations to remain flexible and responsive in dynamic environments, distinguishing them from those that rely solely on single-loop learning. By fostering Double Loop Learning, organizations can enhance their resilience, innovation, and overall effectiveness.
 
 The concept is deeply intertwined with broader themes in organizational learning and reflective practice. Its importance extends beyond individual organizations to the broader field of management science, where it informs strategies for continuous improvement and adaptation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating reflective thinking and a willingness to challenge established norms, Double Loop Learning provides organizations with a powerful tool for navigating complex and dynamic environments. This approach not only enhances adaptability but also fosters a culture of continuous improvement that is essential in today's rapidly evolving business landscape.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ The concept is deeply intertwined with broader themes in organizational learning
 **Contrasts with:** [[Single-Loop Learning]] · [[reflective-thinking]]
 
 **Source:** [[double-loop-learning-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[reflective-thinking]]** — *contrasts-with*
+> While Double Loop Learning incorporates reflective thinking, it goes beyond by also involving the revision of governing variables such as goals and assumptions. Reflective thinking alone may lead to improved strategies within an existing framework but does not necessarily challenge or change these frameworks themselves.

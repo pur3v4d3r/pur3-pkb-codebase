@@ -1,12 +1,11 @@
 ---
-title: "Intentionality"
+title: Intentionality
 aliases:
-  - "Intentionality"
-  - "aboutness"
+  - Intentionality
+  - aboutness
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "intentionality-synthetic-seed-2026-04-25"
+  - intentionality-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Philosophy of Mind"
-
+depth-level: enhanced
+parent-concept: Philosophy of Mind
 related:
-  - "[[phenomenology]]"
-  - "[[Mental Content]]"
+  - '[[phenomenology]]'
+  - '[[Mental Content]]'
 prerequisites:
-  - "[[phenomenology]]"
+  - '[[phenomenology]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Mental Content]]"
+  - '[[Mental Content]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Intentionality
 
@@ -85,6 +84,9 @@ The significance of intentionality in understanding human cognition cannot be ov
 The concept of intentionality has deep roots in the work of philosophers like Franz Brentano, who first introduced the term. Brentano argued that intentionality was a defining feature of all mental phenomena, setting them apart from physical states. Subsequent philosophers such as John Searle have refined and expanded upon this idea, exploring its implications for understanding consciousness and cognition.
 
 Intentionality is also central to debates in cognitive science and the philosophy of mind. It challenges physicalist theories that attempt to explain all mental phenomena in purely physical terms. For instance, any naturalistic account of mind must provide an explanation for how aboutness can arise from non-intentional physical substrate — a challenge known as the 'naturalization of intentionality'. This project has been pursued by philosophers like Jerry Fodor, Fred Dretske, and Ruth Millikan, but no consensus solution has yet emerged.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Intentionality is not merely a passive property but actively shapes our cognitive processes and interactions with the world. For example, when we form beliefs about future events, these intentional states can influence our current actions and decisions, illustrating how intentionality underpins practical reasoning and goal-directed behavior.
 
 ## Practical Implications
 
@@ -108,6 +110,22 @@ Intentionality is also central to debates in cognitive science and the philosoph
 > [!key-distinction] **Intentionality vs Purpose**
 > Purpose often refers to the broader goals or ends that one aims to achieve through actions. Intentionality, in contrast, is more narrowly focused on the directedness of mental states toward particular objects or properties. For example, a person's desire for a cup of coffee has an intentional state about the coffee, but the purpose might be to stay awake during a long meeting.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> In the context of perception, top-down processing involves using prior knowledge and expectations to interpret sensory information, whereas bottom-up processing relies solely on current sensory input. Intentionality often manifests through top-down processes as our mental states guide how we perceive and interact with the environment.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's beliefs, desires, and intentions, while reactive thinking is immediate and automatic. Intentionality plays a crucial role in reflective processes by allowing us to contemplate abstract concepts or hypothetical scenarios that are not directly present.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Intentionality only applies to conscious mental states.
+>
+> While intentionality is often associated with consciousness, it can also apply to unconscious mental processes. For instance, implicit biases are intentional states that influence behavior without conscious awareness.
+
 ## Key Figures
 
 - **Franz Brentano** — Brentano is credited with introducing the concept of intentionality as a defining feature of mental phenomena. He argued that all mental states are about something, setting them apart from physical states.
@@ -125,11 +143,21 @@ Intentionality is also central to debates in cognitive science and the philosoph
 >
 > *What would resolve it:* Empirical evidence and philosophical arguments that challenge or support representationalist accounts would help clarify these limitations. For instance, experiments demonstrating how mental states can be about objects without being represented by them could provide insights into this question.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> Can non-human animals exhibit forms of intentionality?
+>
+> *What would resolve it:* Empirical studies on animal cognition suggest that some species may possess basic forms of intentionality, such as goal-directed behaviors. However, the extent and complexity of these intentional states remain subjects of ongoing research.
+
 ## Synthesis
 
 Understanding intentionality is crucial for advancing theories of mind and cognitive science because it provides a framework for distinguishing between mental and physical phenomena. It challenges physicalist theories that attempt to explain all mental phenomena in purely physical terms, highlighting the need for an account of how aboutness can arise from non-intentional physical substrate. This concept also has practical implications across various fields, including instructional design, artificial intelligence, neuroscience, and psychology, where it informs our understanding of human cognition and behavior.
 
 Intentionality is a key concept in both philosophy and the philosophy of mind, serving as a bridge between these disciplines. Its significance extends to related concepts like mental content and phenomenology, making it essential for interdisciplinary research that seeks to understand the nature of consciousness and experience.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Integrating insights from phenomenology and cognitive science, intentionality emerges not just as a theoretical construct but as an active force in shaping our mental lives and interactions with reality.
 
 ## Connections & Context
 
@@ -140,3 +168,13 @@ Intentionality is a key concept in both philosophy and the philosophy of mind, s
 **Sibling concepts:** [[Mental Content]]
 
 **Source:** [[intentionality-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Mental Content]]** — *sibling*
+> Intentionality and Mental Content both concern the nature of mental representations. While intentionality focuses on the directedness towards objects or states, Mental Content delves into what these representations actually contain, making them complementary concepts in understanding cognition.
+
+> [!connection] **[[phenomenology]]** — *prerequisites*
+> Phenomenology provides a descriptive approach to studying subjective experiences and consciousness, which is foundational for comprehending intentionality. Understanding how mental states are experienced subjectively enriches the analysis of their intentional properties.

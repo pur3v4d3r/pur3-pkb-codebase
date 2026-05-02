@@ -1,12 +1,11 @@
 ---
-title: "Knowledge Compilation"
+title: Knowledge Compilation
 aliases:
-  - "Knowledge Compilation"
-  - "proceduralization"
+  - Knowledge Compilation
+  - proceduralization
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - expertise
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "knowledge-compilation-synthetic-seed-2026-04-25"
+  - knowledge-compilation-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Knowledge Compilation
 
@@ -86,6 +85,9 @@ Theoretical roots of Knowledge Compilation can be traced back to John Sweller's 
 
 Empirical evidence supports this transformation process. For example, studies have shown that deliberate practice, a form of structured and focused training, leads to significant improvements in performance. Worked examples, which provide step-by-step solutions for problems, are particularly effective in facilitating Knowledge Compilation by allowing learners to observe the procedural steps involved.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Knowledge Compilation is not merely a linear progression from declarative to procedural knowledge but involves iterative cycles of application and reflection. Each cycle allows learners to refine their understanding, identify errors, and adjust their approach accordingly. This cyclical nature ensures that the procedural rules developed are robust and adaptable.
+
 ## Mechanism
 
 Knowledge Compilation operates through a series of stages: initial encoding, repeated application, and consolidation into procedural rules. Initially, declarative knowledge is encoded as explicit instructions or descriptions. As practice continues, these instructions become more automatic, reducing the cognitive load on working memory. This process involves breaking down complex tasks into smaller, manageable components that can be executed with minimal conscious effort.
@@ -98,14 +100,35 @@ Knowledge Compilation operates through a series of stages: initial encoding, rep
 > [!example] **Application 2 — Expertise development**
 > For expertise development, Knowledge Compilation highlights the importance of hands-on experience over mere theoretical understanding. Experts in various fields, such as chess players or surgeons, have internalized vast amounts of procedural knowledge through extensive practice. This process enables them to perform complex tasks with speed and accuracy.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance Knowledge Compilation by promoting the consolidation of procedural rules. By spacing out practice sessions, learners are more likely to integrate new skills into their long-term memory, reducing reliance on working memory during performance.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to how information is presented. Knowledge Compilation reduces intrinsic load by converting complex tasks into simpler procedural rules, whereas rote memorization increases extraneous load due to its reliance on memory retrieval rather than skill application.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Maintenance rehearsal involves repetitive review of information without deeper processing, while elaborative rehearsal involves linking new knowledge to existing schemas. Knowledge Compilation benefits more from elaborative rehearsal as it facilitates the transformation of declarative knowledge into procedural rules through meaningful connections.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that reading about a skill is sufficient for expertise.
+>
+> Reading alone does not lead to expertise because Knowledge Compilation requires active engagement and repeated application of skills. Simply understanding the steps involved in a task through reading does not translate into automatic, efficient performance.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is the originator of Knowledge Compilation and has extensively researched cognitive load theory. His work highlights the importance of reducing intrinsic load through proceduralization, which underpins the concept of Knowledge Compilation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Anders Ericsson** — Ericsson's research on deliberate practice highlights the importance of focused, structured repetition in developing expertise. This aligns with Knowledge Compilation by emphasizing how repeated application transforms declarative knowledge into procedural rules.
 
 ## Open Questions
 
@@ -118,6 +141,13 @@ Knowledge Compilation operates through a series of stages: initial encoding, rep
 > Can Knowledge Compilation be accelerated through instructional design?
 >
 > *What would resolve it:* Research on the effectiveness of different instructional strategies, such as interleaved practice or spaced repetition, in accelerating the compilation process could provide insights into how to optimize learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does varying the complexity and context of tasks during practice affect the efficiency and adaptability of procedural rules?
+>
+> *What would resolve it:* Studies comparing different training regimens could provide insights into optimal conditions for Knowledge Compilation, balancing the need for automaticity with flexibility in performance.
 
 ## Synthesis
 
@@ -134,3 +164,10 @@ The concept also highlights the importance of working memory capacity and cognit
 **Applies to:** [[worked-examples]]
 
 **Source:** [[knowledge-compilation-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Worked examples are a practical application of Knowledge Compilation. By providing learners with step-by-step solutions to problems, worked examples facilitate the transformation from declarative knowledge (understanding how to solve a problem) into procedural rules (automatically applying those steps).

@@ -1,13 +1,12 @@
 ---
-title: "Conformity"
+title: Conformity
 aliases:
-  - "Conformity"
-  - "social conformity"
-  - "majority influence"
+  - Conformity
+  - social conformity
+  - majority influence
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - influence
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "conformity-synthetic-seed-2026-04-26"
+  - conformity-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social Influence"
-
+depth-level: enhanced
+parent-concept: Social Influence
 related:
-  - "[[obedience-to-authority]]"
-  - "[[groupthink]]"
+  - '[[obedience-to-authority]]'
+  - '[[groupthink]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[obedience-to-authority]]"
-  - "[[groupthink]]"
+  - '[[obedience-to-authority]]'
+  - '[[groupthink]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Conformity
 
@@ -88,6 +87,9 @@ Theoretical roots of conformity can be traced back to social psychology, where r
 
 Empirical evidence from replication studies shows that conformity rates can be significantly influenced by factors such as cultural context, group composition, and task ambiguity. For example, a single dissenting voice can dramatically reduce conformity rates, indicating the fragility of the phenomenon.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Conformity also plays a critical role in social identity theory, which posits that individuals derive their sense of self from the groups to which they belong. This interplay between personal and group identities can intensify conformity pressures as individuals seek to maintain positive perceptions of both themselves and their ingroups.
+
 ## Mechanism
 
 Asch-style line-judgment paradigms isolate normative conformity by holding informational ambiguity near zero. In these experiments, participants are shown a line and asked to match it with one of three comparison lines. When the group unanimously chooses an incorrect answer, individuals often conform despite knowing the correct response, highlighting the power of social influence over individual judgment.
@@ -100,10 +102,28 @@ Asch-style line-judgment paradigms isolate normative conformity by holding infor
 > [!example] **Application 2 — Social media behavior**
 > On social media platforms, users often conform to popular trends or opinions to fit in with their online communities. This can lead to echo chambers where individuals are exposed only to like-minded views, reinforcing existing beliefs and potentially limiting exposure to diverse perspectives.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Team dynamics in remote work**
+> In virtual teams, where face-to-face interactions are limited, normative influence may become more pronounced. Leaders must foster an inclusive culture that encourages open dialogue and values diverse perspectives to mitigate the risk of conformity leading to groupthink.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While both informational and normative influences contribute to conformity, they differ in their cognitive load. Informational influence involves processing the group's information as evidence, which can be seen as intrinsic load. Normative influence, on the other hand, requires managing social relationships, which is an extrinsic load. Understanding these differences helps in designing interventions that target specific aspects of conformity.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of information, whereas reactive thinking is immediate and automatic. Conformity often leverages reactive thinking by triggering quick alignment with the perceived majority without deep reflection, making it harder to resist social pressures.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Conformity only occurs in authoritarian environments.
+>
+> While conformity can be more pronounced under authoritative leadership, it also thrives in democratic settings where individuals seek validation from peers. This misconception overlooks the pervasive nature of social influence across various contexts.
 
 ## Key Figures
 
@@ -121,11 +141,21 @@ Asch-style line-judgment paradigms isolate normative conformity by holding infor
 >
 > *What would resolve it:* Longitudinal studies tracking individuals over time would help understand the lasting impact of conforming to group opinions versus seeking accurate information.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does anonymity affect conformity rates?
+>
+> *What would resolve it:* Studies comparing anonymous versus non-anonymous settings could reveal whether removing personal accountability increases or decreases an individual's likelihood of conforming, offering insights into the role of identity in social influence.
+
 ## Synthesis
 
 Understanding conformity is crucial for social psychology as it helps explain how and why individuals align their beliefs and behaviors with those of a group. This concept has broader implications in fields such as education, marketing, and organizational behavior, where managing group dynamics can significantly influence outcomes. By recognizing the dual motives behind conformity — informational and normative influences — researchers and practitioners can develop more effective strategies to promote critical thinking and reduce harmful effects like groupthink.
 
 The variability of conformity across different cultural contexts, group compositions, and task ambiguities underscores the need for a nuanced approach in applying these findings. Recognizing that even a single dissenting voice can dramatically alter conformity rates highlights the importance of fostering environments where individuals feel safe expressing their unique perspectives.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By examining conformity through lenses such as reflective vs reactive thinking and its interplay with social identity theory, we gain a nuanced understanding of how and why individuals conform. This multifaceted view is essential for developing strategies to promote healthy group dynamics that balance cohesion with critical thought.
 
 ## Connections & Context
 
@@ -134,3 +164,10 @@ The variability of conformity across different cultural contexts, group composit
 **Contrasts with:** [[obedience-to-authority]] · [[groupthink]]
 
 **Source:** [[conformity-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[groupthink]]** — *contrasts-with*
+> While conformity involves aligning with a group to maintain harmony, groupthink occurs when a cohesive in-group prioritizes consensus over critical evaluation. Conformity can lead to groupthink if individuals suppress dissent to avoid conflict, highlighting the subtle transition from individual compliance to collective irrationality.

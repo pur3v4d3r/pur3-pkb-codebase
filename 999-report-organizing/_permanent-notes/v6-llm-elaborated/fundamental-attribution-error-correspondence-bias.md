@@ -1,14 +1,13 @@
 ---
-title: "Fundamental Attribution Error"
+title: Fundamental Attribution Error
 aliases:
-  - "Fundamental Attribution Error"
-  - "Attribution Theory Foundational Report"
-  - "Weiner's Attribution Theory"
-  - "Causal Attribution in Motivation"
+  - Fundamental Attribution Error
+  - Attribution Theory Foundational Report
+  - Weiner's Attribution Theory
+  - Causal Attribution in Motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,57 +20,57 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "attribution-theory-foundational-report-2026-04-19"
+  - attribution-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[self-serving-bias]]"
-  - "[[Actor-Observed Asymmetry]]"
-  - "[[attribution-retraining]]"
+  - '[[self-serving-bias]]'
+  - '[[Actor-Observed Asymmetry]]'
+  - '[[attribution-retraining]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[self-serving-bias]]"
-  - "[[Actor-Observed Asymmetry]]"
+  - '[[self-serving-bias]]'
+  - '[[Actor-Observed Asymmetry]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[attribution-retraining]]"
+  - '[[attribution-retraining]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Fundamental Attribution Error
 
@@ -91,6 +90,9 @@ Theoretical roots of this bias can be traced back to attribution theory, which e
 
 Empirical evidence supports the existence of this bias through numerous studies demonstrating that people consistently overestimate personal factors while underestimating situational influences. For example, research has shown that participants tend to attribute a stranger's aggressive behavior more to their personality than to the situation they were in.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Fundamental Attribution Error is not merely a cognitive bias but also reflects deeper social and psychological processes. It often manifests in contexts of high uncertainty or ambiguity, where situational factors are less clear-cut, making dispositional attributions seem more plausible as they provide a sense of control and predictability to the observer.
+
 ## Mechanism
 
 The Fundamental Attribution Error is driven by cognitive heuristics and biases, particularly the availability heuristic, where people rely on readily available information (dispositional factors) rather than less accessible situational details. This bias also involves confirmation bias, as individuals seek out and interpret evidence that supports their dispositional attributions while ignoring or downplaying situational explanations.
@@ -109,14 +111,35 @@ The Fundamental Attribution Error is driven by cognitive heuristics and biases, 
 > [!example] **Application 4 — Healthcare**
 > In healthcare, this bias can affect patient care. Doctors might overestimate a patient's lack of compliance with treatment plans as a result of personal factors (dispositional) rather than considering situational barriers such as access to transportation or medication costs. Addressing these situational factors can lead to more effective and compassionate patient care.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), instructors often face challenges engaging students who may appear disinterested or unmotivated. Applying the understanding of Fundamental Attribution Error, educators can explore situational factors such as lack of personalized feedback, overwhelming course content, or technical difficulties that might hinder student engagement rather than assuming a general lack of interest.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Fundamental Attribution Error is distinct from the concept of intrinsic vs extraneous load, which pertains to cognitive processing rather than attribution biases. Intrinsic load refers to the inherent difficulty of a task, while extraneous load involves unnecessary aspects that can hinder learning. The error specifically deals with how we attribute behavior and does not directly relate to cognitive load theory.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis, whereas reactive thinking is immediate and often automatic. The Fundamental Attribution Error tends to be more pronounced in reactive thinking scenarios where individuals quickly attribute behavior based on readily available dispositional information without deeper reflection on situational factors.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Fundamental Attribution Error only affects judgments of others' negative behaviors.
+>
+> This misconception arises because negative behaviors are often more salient and thus attract immediate dispositional attributions. However, the error can also occur with positive behaviors; for instance, overattributing a colleague's success to their innate talent rather than situational advantages like supportive team dynamics or favorable project conditions.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is known for his work on cognitive load theory, which provides a framework for understanding how the brain processes information. His research has influenced our understanding of how people attribute behavior and the role of situational factors in decision-making.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Edward Jones** — Edward E. Jones is renowned for his work on attribution theory, including the development of the correspondent inference theory which provides a framework for understanding how people infer others' dispositions from their behaviors.
 
 ## Open Questions
 
@@ -130,11 +153,21 @@ The Fundamental Attribution Error is driven by cognitive heuristics and biases, 
 >
 > *What would resolve it:* Experimental designs that test the efficacy of specific interventions, such as training programs or mindfulness exercises, in reducing the Fundamental Attribution Error would provide valuable insights.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Fundamental Attribution Error interact with social media environments?
+>
+> *What would resolve it:* Research into online communication and social media use could provide insights into whether the error is amplified or mitigated in digital contexts, where situational cues are often less apparent.
+
 ## Synthesis
 
 The Fundamental Attribution Error is a critical concept within cognitive psychology and social cognition because it highlights how our understanding of others can be fundamentally flawed. By recognizing this bias, we can improve communication, reduce misunderstandings, and foster more empathetic interactions in various domains such as education, business, healthcare, and conflict resolution. Understanding the error also connects to broader questions about cultural differences in attribution patterns and the potential for cognitive interventions to mitigate its effects.
 
 This concept matters because it challenges our assumptions about human behavior and forces us to consider multiple factors when interpreting others' actions. By integrating situational context into our explanations of behavior, we can enhance our social interactions and build more effective relationships.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the Fundamental Attribution Error not only enhances our ability to interpret others' behaviors more accurately but also underscores the importance of considering context and environment in social interactions. This insight can foster more empathetic and nuanced communication across various domains, from interpersonal relationships to educational settings.
 
 ## Connections & Context
 
@@ -145,3 +178,10 @@ This concept matters because it challenges our assumptions about human behavior 
 **Applies to:** [[attribution-retraining]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[attribution-retraining]]** — *applies-to*
+> Attribution retraining techniques, which aim to modify how individuals interpret and attribute causes of events, can directly address the Fundamental Attribution Error. By teaching people to consider both dispositional and situational factors in their attributions, these interventions help mitigate overreliance on dispositional explanations.

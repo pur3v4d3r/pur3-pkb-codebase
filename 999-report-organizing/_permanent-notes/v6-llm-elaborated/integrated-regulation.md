@@ -1,14 +1,13 @@
 ---
-title: "Integrated Regulation"
+title: Integrated Regulation
 aliases:
-  - "Integrated Regulation"
-  - "OIT Internalization Continuum Deep Dive"
-  - "Internalization Mechanisms in SDT"
-  - "Autonomous Motivation Development"
+  - Integrated Regulation
+  - OIT Internalization Continuum Deep Dive
+  - Internalization Mechanisms in SDT
+  - Autonomous Motivation Development
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -16,60 +15,60 @@ tags:
 
 domain: educational-psychology
 subdomains:
-  - ""
+  - ''
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-internalization-continuum-deep-dive-2026-04-21"
+  - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[Self-Determination Index]]"
-  - "[[intrinsic-motivation]]"
-  - "[[extrinsic-motivation]]"
+  - '[[Self-Determination Index]]'
+  - '[[intrinsic-motivation]]'
+  - '[[extrinsic-motivation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Self-Determination Index]]"
+  - '[[Self-Determination Index]]'
 contrasts-with:
-  - "[[intrinsic-motivation]]"
-  - "[[extrinsic-motivation]]"
+  - '[[intrinsic-motivation]]'
+  - '[[extrinsic-motivation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Integrated Regulation
 
@@ -89,6 +88,9 @@ Theoretical roots of integrated regulation can be traced back to SDT’s emphasi
 
 Empirically, researchers have observed that individuals who experience high levels of integrated regulation tend to exhibit greater psychological well-being and academic achievement. For example, a study by Deci et al. (2019) found that students with higher levels of integrated regulation reported lower levels of stress and higher engagement in their studies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Integrated regulation is not merely a passive alignment but an active process that involves continuous reflection and adjustment. Individuals must regularly evaluate how their behaviors fit with their evolving self-concepts, ensuring that the integration remains robust over time. This dynamic nature of integrated regulation underscores its complexity and highlights why it represents the pinnacle of autonomous motivation in SDT.
+
 ## Mechanism
 
 The process of behaviors becoming integrated into one's self-identity involves several stages. Initially, individuals must consciously endorse the value served by a behavior (as seen in identified regulation). Over time, this endorsement is reinforced through repeated experiences and reflections that align the behavior with broader personal values. Eventually, the behavior becomes so deeply ingrained that it no longer requires external validation or internal conflict to sustain engagement.
@@ -101,10 +103,28 @@ The process of behaviors becoming integrated into one's self-identity involves s
 > [!example] **Application 2 — Therapeutic practices**
 > In therapeutic settings, helping clients achieve integrated regulation can enhance treatment outcomes by addressing underlying motivations and values. Therapists might use techniques such as cognitive-behavioral therapy (CBT) to help clients identify and align their behaviors with their core values, thereby reducing feelings of conflict and increasing overall well-being.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can foster integrated regulation by encouraging learners to revisit material over time, reinforcing connections between course content and personal values. This approach contrasts with massed practice, which focuses on immediate memorization without deep integration into one's identity.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Integrated regulation differs from intrinsic motivation in that the former is still extrinsically driven by external value, whereas the latter arises from inherent interest. The key distinction lies in whether the behavior serves an external purpose or aligns with personal values and identity.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Integrated regulation requires reflective thinking to align behaviors with personal values and identities. Unlike reactive thinking, which is driven by immediate stimuli or emotions, reflective thinking involves deliberate consideration of long-term goals and self-concepts. This distinction highlights why integrated regulation demands a higher level of cognitive engagement.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that once behaviors are integrated into one's identity, they no longer require conscious effort.
+>
+> While integrated regulation reduces the need for external validation and internal conflict, it does not eliminate the necessity of conscious reflection. Individuals must continually assess how their actions align with their evolving self-concepts to maintain this level of autonomous motivation.
 
 ## Key Figures
 
@@ -122,11 +142,21 @@ The process of behaviors becoming integrated into one's self-identity involves s
 >
 > *What would resolve it:* Longitudinal research tracking individuals over extended periods would help determine the lasting impacts of integrated regulation on well-being and behavior.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the process of achieving integrated regulation?
+>
+> *What would resolve it:* Cross-cultural studies examining how different societal values impact the internalization process could provide insights into fostering integrated regulation across diverse populations, addressing potential biases in current research.
+
 ## Synthesis
 
 Understanding integrated regulation is crucial for psychological research and practice because it offers a deeper insight into how behaviors are motivated and sustained. By aligning external values with personal identity, individuals can experience greater autonomy and well-being. This concept bridges the gap between intrinsic and extrinsic motivation, providing a comprehensive framework for understanding human behavior and its underlying motivations.
 
 The importance of integrated regulation extends beyond individual psychology to educational and therapeutic practices. By fostering this form of motivation, educators and therapists can create more meaningful and sustainable learning experiences that enhance both academic achievement and personal development.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By understanding and applying principles of integrated regulation, educators and practitioners can design environments that not only enhance learning but also promote long-term personal growth. This synthesis bridges theoretical insights from SDT with practical applications in educational settings, emphasizing the importance of aligning external values with internal identities for sustained motivation.
 
 ## Connections & Context
 
@@ -137,3 +167,10 @@ The importance of integrated regulation extends beyond individual psychology to 
 **Contrasts with:** [[intrinsic-motivation]] · [[extrinsic-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Self-Determination Index]]** — *applies-to*
+> The Self-Determination Index measures the degree to which an individual's motivations are self-determined. Integrated regulation, as a form of autonomous motivation, is directly assessed by this index, providing a quantitative tool for understanding and promoting integrated regulation in various contexts.

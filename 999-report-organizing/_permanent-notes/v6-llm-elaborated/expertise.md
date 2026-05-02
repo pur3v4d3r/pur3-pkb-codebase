@@ -1,12 +1,11 @@
 ---
-title: "Expertise"
+title: Expertise
 aliases:
-  - "Expertise"
-  - "expert performance"
+  - Expertise
+  - expert performance
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - professional-skill
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "expertise-synthetic-seed-2026-05-01"
+  - expertise-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Working Memory]]"
-  - "[[Worked Examples]]"
+  - '[[Working Memory]]'
+  - '[[Worked Examples]]'
 prerequisites:
-  - "[[Working Memory]]"
+  - '[[Working Memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Worked Examples]]"
+  - '[[Worked Examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Expertise
 
@@ -85,6 +84,9 @@ In practice, expertise manifests as the ability to quickly recognize patterns, m
 Theoretical roots of expertise lie in cognitive psychology, particularly the work on working memory and schema construction. According to John Sweller's research, experts have a more efficient use of working memory, allowing them to process information faster and with less conscious effort. This is because their long-term memory contains highly organized schemas that enable automatic processing of domain-specific information.
 
 Empirical evidence supports the notion that expertise develops through deliberate practice rather than mere experience. For example, studies show that novices can improve their performance in a task by engaging in structured practice sessions with feedback, whereas simply accumulating time without such conditions does not lead to significant gains.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Expertise development is not merely a linear progression but involves iterative cycles of practice, reflection, and adaptation. Experts often engage in metacognitive activities such as setting goals, monitoring their performance, and adjusting strategies based on feedback. This reflective process allows them to refine their knowledge structures continually, leading to more efficient problem-solving and decision-making.
 
 ## Mechanism
 
@@ -106,6 +108,22 @@ The development of expertise involves several stages: initial learning, where ba
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is introduced by instructional design. Expertise involves managing both loads effectively; experts can handle higher intrinsic loads due to their optimized cognitive structures but are less affected by poorly designed extraneous loads.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Surface processing involves rote memorization of facts without understanding underlying concepts, while deep processing focuses on meaningful connections and comprehension. In the context of expertise development, deep processing is crucial as it facilitates the construction of robust knowledge structures that support long-term retention and flexible application.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and evaluation, whereas reactive thinking relies on immediate responses based on established patterns. Experts often exhibit a blend of both but tend to engage in more reflective thinking when faced with novel or complex situations, allowing them to adapt their strategies effectively.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Experts are simply individuals who have accumulated vast amounts of experience over time.
+>
+> This misconception overlooks the critical role of deliberate practice and structured learning in expertise development. While extensive experience is important, it is the quality of practice—focusing on challenging tasks, receiving feedback, and engaging in reflective analysis—that truly distinguishes experts from mere accumulators of experience.
+
 ## Key Figures
 
 - **John Sweller** — Sweller is a key figure in the study of expertise, particularly for his work on working memory and cognitive load theory. His research has shown how structured practice conditions can enhance learning efficiency.
@@ -122,11 +140,21 @@ The development of expertise involves several stages: initial learning, where ba
 >
 > *What would resolve it:* Longitudinal studies tracking individuals' motivation levels and their impact on deliberate practice engagement would help clarify this relationship.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the role of feedback in deliberate practice influence the rate and quality of expertise development?
+>
+> *What would resolve it:* Empirical studies examining the impact of different types and timing of feedback on learning outcomes could provide insights into optimizing instructional practices for fostering expertise.
+
 ## Synthesis
 
 Understanding expertise is crucial for learning science as it provides a framework for optimizing educational practices, training programs, and performance optimization strategies. By recognizing the role of domain-specific representational restructuring and the importance of deliberate practice, educators and trainers can design more effective interventions that lead to genuine improvements in performance.
 
 The concept of expertise also has broader implications across related concepts like working memory and cognitive apprenticeship. For instance, insights from expertise research can inform how we structure worked examples and cognitive apprenticeships to enhance learning outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Expertise is a multifaceted construct that integrates cognitive, metacognitive, and motivational factors. By understanding how these elements interact during the process of deliberate practice, educators can design more effective training programs that not only enhance performance but also promote long-term learning and adaptability.
 
 ## Connections & Context
 
@@ -137,3 +165,13 @@ The concept of expertise also has broader implications across related concepts l
 **Applies to:** [[Worked Examples]]
 
 **Source:** [[expertise-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Working Memory]]** — *prerequisites*
+> Expertise relies heavily on the efficient use of working memory to manage task demands. As individuals develop expertise, they often reduce the cognitive load by automating routine tasks and integrating information into larger chunks or schemas, thereby freeing up working memory for more complex problem-solving.
+
+> [!connection] **[[Worked Examples]]** — *applies-to*
+> The use of worked examples is a powerful instructional strategy that supports the development of expertise by providing learners with clear demonstrations of how to solve problems. This approach helps novices understand problem-solving strategies and gradually builds their ability to apply these strategies independently.

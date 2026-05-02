@@ -1,15 +1,14 @@
 ---
-title: "Cognitive Load Theory"
+title: Cognitive Load Theory
 aliases:
-  - "Cognitive Load Theory"
-  - "PKM Planning Cognitive Science"
-  - "Cognitive Science of Personal Knowledge Management"
-  - "PKB Design and Cognitive Architecture"
-  - "Knowledge Management Planning through Cognitive Science"
+  - Cognitive Load Theory
+  - PKM Planning Cognitive Science
+  - Cognitive Science of Personal Knowledge Management
+  - PKB Design and Cognitive Architecture
+  - Knowledge Management Planning through Cognitive Science
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - information-architecture
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18"
+  - pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Cognitive Load Theory
 
@@ -90,6 +89,9 @@ The theoretical roots of cognitive load theory trace back to John Sweller's work
 
 Empirical evidence supports the application of cognitive load theory in PKB design. Research indicates that minimizing extraneous load through clear and concise interfaces, managing intrinsic load through appropriate scaffolding techniques, and maximizing germane load by encouraging active engagement with content all contribute to more effective learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Cognitive load theory also addresses how germane cognitive load can be optimized through instructional strategies that encourage active engagement and deep processing of information. By fostering conditions that promote schema construction, learners are better equipped to integrate new knowledge with existing frameworks, enhancing both retention and the ability to apply this knowledge in novel contexts.
+
 ## Mechanism
 
 The mechanism of cognitive load theory operates through the interaction between working memory and the information being processed. When learners encounter new or complex material, their working memory must process this information, which can lead to cognitive overload if the load is too high. This overload occurs when extraneous elements distract from the core content, making it difficult for learners to focus on what they need to learn. By reducing extraneous load and managing intrinsic load through strategic design, PKB systems can optimize working memory usage, thereby enhancing learning efficiency.
@@ -105,14 +107,38 @@ The mechanism of cognitive load theory operates through the interaction between 
 > [!example] **Application 3 — User Interface Design**
 > In user interface design for PKB systems, minimizing extraneous load is crucial. A clean and intuitive interface reduces the cognitive burden on users, allowing them to focus more on the content rather than navigating through complex menus or interfaces. This can be achieved by using consistent layouts, clear labels, and minimal visual clutter.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can significantly reduce cognitive load by spreading out learning sessions over time. This approach leverages the spacing effect, where information is reviewed at increasing intervals to enhance long-term memory consolidation without overwhelming working memory during any single session.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load is inherent to the material being processed and cannot be altered by instructional design. In contrast, extraneous load refers to processing demands imposed by the system design itself. For example, a poorly designed interface with too many buttons or complex navigation can increase extraneous load without adding value to the learning experience.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> While intrinsic load pertains to the inherent complexity of learning material, extraneous load is imposed by instructional design elements that do not contribute directly to learning. For instance, a cluttered interface or excessive text can increase extraneous load, making it harder for learners to focus on essential information.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Maintenance rehearsal involves repetitive review of material without deeper processing, whereas elaborative rehearsal engages in meaningful linking and contextualization. Cognitive load theory suggests that while maintenance rehearsal can temporarily boost performance, it is less effective for long-term retention compared to the more cognitively demanding but beneficial elaborative rehearsal.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think reducing cognitive load means making all tasks easier.
+>
+> Reducing cognitive load does not necessarily mean simplifying tasks. Instead, it involves optimizing the presentation and structure of information to align with how working memory processes new data efficiently. This can include breaking down complex tasks into manageable chunks or using worked examples that guide learners through problem-solving steps.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited as the originator of cognitive load theory in 1988. His work laid the foundation for understanding how working memory limitations affect learning and has influenced instructional design practices across various domains.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Paul Kirschner** — Alongside John Sweller, Paul Kirschner has contributed significantly to refining cognitive load theory. His work emphasizes the importance of instructional guidance and scaffolding in managing cognitive loads effectively.
 
 ## Open Questions
 
@@ -126,11 +152,21 @@ The mechanism of cognitive load theory operates through the interaction between 
 >
 > *What would resolve it:* More empirical studies are required to explore how cognitive load theory applies to highly specialized and interdisciplinary fields. Comparative analyses between traditional subjects and emerging interdisciplinary areas could help identify potential limitations or adaptations needed for effective application.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cognitive load theory account for individual differences in working memory capacity?
+>
+> *What would resolve it:* Further research is needed to understand how varying working memory capacities among individuals influence their susceptibility to different types of cognitive load. This could inform personalized instructional strategies that better accommodate diverse learning needs.
+
 ## Synthesis
 
 Cognitive load theory is crucial in optimizing knowledge management systems for effective learning and retention because it provides a principled basis for evaluating PKM design decisions. By managing intrinsic, extraneous, and germane loads, designers can create environments that support deep processing and schema construction, leading to better long-term memory and transfer of knowledge. This theory bridges the gap between cognitive psychology and practical instructional design, offering valuable insights into how information is processed and retained in working memory.
 
 The application of cognitive load theory extends beyond PKB systems into broader domains such as education and training. Its principles can be applied to various contexts, from online courses to workplace training programs, making it a versatile tool for enhancing learning outcomes across different settings.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from cognitive load theory, PKB designers can create more effective learning environments that not only reduce unnecessary cognitive burdens but also foster deeper engagement with the material through strategic use of germane loads. This holistic approach ensures that learners are better prepared to apply their knowledge in practical settings.
 
 ## Connections & Context
 
@@ -141,3 +177,13 @@ The application of cognitive load theory extends beyond PKB systems into broader
 **Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is a critical prerequisite for understanding cognitive load theory because it sets the limits on how much information can be processed simultaneously. Cognitive load theory builds upon this foundation by exploring how instructional design can manage these limitations to enhance learning outcomes.
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Worked examples are a direct application of cognitive load theory in educational settings, as they reduce extraneous cognitive load by providing clear step-by-step solutions. This approach helps learners focus on understanding the problem-solving process rather than being overwhelmed by complex tasks.

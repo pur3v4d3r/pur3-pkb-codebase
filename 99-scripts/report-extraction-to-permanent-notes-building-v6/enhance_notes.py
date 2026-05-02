@@ -3,10 +3,13 @@
 """enhance_notes — Additive LLM enrichment for existing V6 permanent notes.
 
 Takes a directory of already-elaborated V6 permanent notes and uses a local
-Ollama model (default ``qwen3:30b``) to *append* additional material to each
-note: more explanation paragraphs, more practical-implication callouts,
-more key distinctions, more figures, more open questions, mechanism prose,
-evidence narrative, and a synthesis extension.
+Ollama model (default ``qwen2.5:14b-instruct-q5_K_M``) to *append* additional
+material to each note: more explanation paragraphs, more practical-implication
+callouts, more key distinctions (drawn from a curated catalogue — System 1/2,
+declarative/procedural, working/long-term memory, etc.), common
+misconceptions with corrections, more figures, more open questions,
+mechanism prose, evidence narrative, a synthesis extension, and rationales
+explaining WHY each connection in the Connections & Context section matters.
 
 Design principles
 -----------------
@@ -105,13 +108,17 @@ logger = logging.getLogger(__name__)
 # Constants
 # ════════════════════════════════════════════════════════════════════════════
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 
 #: Cache contract version. Bump to invalidate every cached enhancement.
-PROMPT_CONTRACT_VERSION: str = "enhance-v1"
+#: v2 — added curated key-distinction suggestions, connection rationales,
+#:      and common-misconceptions fields to the LLM payload.
+PROMPT_CONTRACT_VERSION: str = "enhance-v2"
 
-#: Default model for enhancement. The user explicitly asked for qwen3:30b.
-DEFAULT_MODEL: str = "qwen3:30b"
+#: Default model for enhancement. Standardised on the same 14B-q5_K_M as the
+#: v3 creation/elaboration pipeline so creation and enhancement share one
+#: model footprint (~10 GB VRAM, leaves headroom for context on a 4090).
+DEFAULT_MODEL: str = "qwen2.5:14b-instruct-q5_K_M"
 
 #: Default input directory — the v6-llm-elaborated note home.
 DEFAULT_INPUT_DIR: Path = (
@@ -139,6 +146,7 @@ CANONICAL_SECTIONS: tuple[str, ...] = (
     "Mechanism",
     "Practical Implications",
     "Key Distinctions",
+    "Common Misconceptions",
     "Key Figures",
     "Open Questions",
     "Synthesis",
@@ -146,18 +154,48 @@ CANONICAL_SECTIONS: tuple[str, ...] = (
     "Connections & Context",
 )
 
-#: Sections which the script may append to or create. The Connections & Context
-#: block is left untouched — it is generated from frontmatter relations.
+#: Sections which the script may append to or create.
+#: The Connections & Context section is appendable for *rationale* additions
+#: (the original auto-generated relation list at the top of the section is
+#: left untouched; rationales are appended below it under their own marker).
 APPENDABLE_SECTIONS: frozenset[str] = frozenset({
     "Core Explanation",
     "Mechanism",
     "Practical Implications",
     "Key Distinctions",
+    "Common Misconceptions",
     "Key Figures",
     "Open Questions",
     "Synthesis",
     "Evidence",
+    "Connections & Context",
 })
+
+#: Curated catalogue of key-distinction patterns the LLM should consider
+#: when relevant to the concept being enhanced. The LLM is instructed to
+#: PICK ONLY those that genuinely apply — not to force-fit irrelevant ones.
+KEY_DISTINCTION_SUGGESTIONS: tuple[str, ...] = (
+    "System 1 vs System 2 Thinking (fast/automatic vs slow/deliberate)",
+    "Declarative vs Procedural Knowledge (knowing-that vs knowing-how)",
+    "Explicit vs Implicit Memory (conscious recall vs unconscious influence)",
+    "Working Memory vs Long-Term Memory (limited transient vs durable storage)",
+    "Reflective vs Reactive Thinking (deliberate review vs immediate response)",
+    "Intrinsic vs Extraneous Load (task-inherent vs design-imposed difficulty)",
+    "Surface vs Deep Processing (rote/perceptual vs semantic/elaborative)",
+    "Recognition vs Recall (cued retrieval vs free retrieval)",
+    "Convergent vs Divergent Thinking (single-answer vs many-answer)",
+    "Top-Down vs Bottom-Up Processing (concept-driven vs data-driven)",
+    "Assimilation vs Accommodation (fit-into-schema vs revise-schema)",
+    "Massed vs Spaced Practice (blocked repetition vs distributed)",
+    "Performance vs Learning (transient gains vs durable change)",
+    "Transfer-Near vs Transfer-Far (similar-context vs novel-context application)",
+    "Fixed vs Growth Mindset (ability-as-trait vs ability-as-developable)",
+    "Intrinsic vs Extrinsic Motivation (internally vs externally driven)",
+    "Maintenance vs Elaborative Rehearsal (looped repetition vs meaningful linking)",
+    "Errors of Commission vs Omission (wrong action vs missing action)",
+    "Type I vs Type II Error (false positive vs false negative)",
+    "Map vs Territory (model/representation vs the thing itself)",
+)
 
 
 # ════════════════════════════════════════════════════════════════════════════
@@ -200,10 +238,27 @@ class _Question(BaseModel):
     resolution: str = Field(default="", max_length=600)
 
 
+class _ConnectionRationale(BaseModel):
+    """Why a specific related concept matters to this note.
+
+    ``target`` should match (or be the wiki-link slug of) one of the related
+    concepts already listed in the note's frontmatter / Connections section
+    \u2014 the LLM is instructed to pick from those, not invent new ones.
+    """
+    target: str = Field(..., min_length=2, max_length=120)
+    relation: str = Field(default="related-to", max_length=60)
+    rationale: str = Field(..., min_length=40, max_length=600)
+
+
+class _Misconception(BaseModel):
+    misconception: str = Field(..., min_length=10, max_length=300)
+    correction: str = Field(..., min_length=30, max_length=600)
+
+
 class EnhancementResponse(BaseModel):
     """Structured additive enhancement payload from the LLM.
 
-    Every field is optional — the model returns only what it has high-quality
+    Every field is optional \u2014 the model returns only what it has high-quality
     additions for. The post-validator guarantees that at least *something*
     was returned; otherwise the enhancement is treated as a no-op.
     """
@@ -216,6 +271,9 @@ class EnhancementResponse(BaseModel):
     extra_questions: list[_Question] = Field(default_factory=list)
     synthesis_addition: str | None = None
     evidence_addition: str | None = None
+    # v2 additions
+    connection_rationales: list[_ConnectionRationale] = Field(default_factory=list)
+    common_misconceptions: list[_Misconception] = Field(default_factory=list)
 
     @field_validator("extra_explanation_paragraphs")
     @classmethod
@@ -233,6 +291,8 @@ class EnhancementResponse(BaseModel):
             self.extra_questions,
             self.synthesis_addition and self.synthesis_addition.strip(),
             self.evidence_addition and self.evidence_addition.strip(),
+            self.connection_rationales,
+            self.common_misconceptions,
         ])
 
 
@@ -438,6 +498,15 @@ Domain:          {domain}
 Parent concept:  {parent}
 Aliases:         {aliases}
 
+Existing related concepts (use these EXACT slugs as targets for
+`connection_rationales`; do NOT invent new targets):
+{related_concepts}
+
+Key-distinction patterns you MAY draw on (pick only those that genuinely
+apply to this concept; do not force-fit irrelevant ones; you may also
+propose other distinctions not on this list if they are more apt):
+{distinction_suggestions}
+
 === EXISTING NOTE BODY (DO NOT REPEAT THIS CONTENT) ===
 {body_excerpt}
 === END EXISTING NOTE BODY ===
@@ -461,8 +530,29 @@ genuinely NEW, NON-REDUNDANT material for it. Empty arrays / null are fine.
   ],
   "extra_distinctions": [
     {{"title": "X vs Y",
-      "body": "60-120 word concrete contrast, naming the two things and "
-              "what specifically distinguishes them."}}
+      "body": "60-120 word concrete contrast naming the two things, what "
+              "specifically distinguishes them, and why the distinction "
+              "matters for understanding {title}. Aim for 3-5 distinctions "
+              "total when the note already has fewer than 3 — draw from the "
+              "suggested patterns above when relevant. Do NOT duplicate any "
+              "distinction already present in the existing note body."}}
+  ],
+  "common_misconceptions": [
+    {{"misconception": "A common but incorrect belief about {title}, "
+                       "stated as a single sentence (e.g. 'People think X "
+                       "means Y, but...').",
+      "correction": "60-150 word correction explaining what is actually "
+                     "true and why the misconception arises. Anchor in the "
+                     "concept's mechanism or empirical evidence."}}
+  ],
+  "connection_rationales": [
+    {{"target": "slug-of-related-concept (must match one listed above)",
+      "relation": "e.g. prerequisite | sibling | applies-to | contrasts-with | falls-under",
+      "rationale": "60-150 word explanation of WHY this connection exists "
+                    "— what specifically links {title} to the target, what "
+                    "shared mechanism / dependency / contrast underlies the "
+                    "link, and what a learner gains by following it. Avoid "
+                    "generic phrasing like 'they are related concepts'."}}
   ],
   "extra_figures": [
     {{"name": "Person Name",
@@ -485,6 +575,11 @@ genuinely NEW, NON-REDUNDANT material for it. Empty arrays / null are fine.
 Rules:
 - ADDITIVE ONLY. Do not restate anything in the existing body above.
 - Write in flowing prose. No markdown headers, no bullet lists inside fields.
+- For `connection_rationales`, the `target` MUST be one of the related-concept
+  slugs listed above — do not invent new targets.
+- For `extra_distinctions`, prefer distinctions that are foundational to the
+  concept's domain (e.g. cognitive-psychology notes benefit from System 1/2,
+  declarative/procedural, working/long-term memory contrasts when applicable).
 - Wiki-links of the form [[concept-name]] are encouraged inside prose where natural.
 - JSON only. No code fences. No commentary.
 """
@@ -517,12 +612,67 @@ def _build_body_excerpt(note: V6Note, max_chars: int = 6000) -> str:
     return "\n\n".join(parts)
 
 
+_RELATION_FIELDS: tuple[str, ...] = (
+    "related", "prerequisites", "specializes", "broader", "see-also",
+    "contrasts-with", "contradicts", "applies-to", "formalizes",
+    "instance-of", "supports", "refines",
+)
+
+_WIKILINK_RE = re.compile(r"\[\[([^\]|#]+?)(?:#[^\]|]*)?(?:\|[^\]]*)?\]\]")
+
+
+def _extract_related_concepts(fm: dict[str, Any]) -> list[tuple[str, str]]:
+    """Extract (slug, relation_type) pairs from frontmatter relation fields.
+
+    Empty placeholder targets like ``[[]]`` are filtered out. Duplicates
+    (same slug under different relations) are kept since the relation type
+    carries semantic meaning for rationale generation.
+    """
+    out: list[tuple[str, str]] = []
+    seen: set[tuple[str, str]] = set()
+    for field in _RELATION_FIELDS:
+        raw = fm.get(field)
+        if not raw:
+            continue
+        items = raw if isinstance(raw, list) else [raw]
+        for item in items:
+            s = str(item).strip()
+            if not s:
+                continue
+            for m in _WIKILINK_RE.finditer(s):
+                slug = m.group(1).strip()
+                if not slug:
+                    continue
+                key = (slug, field)
+                if key in seen:
+                    continue
+                seen.add(key)
+                out.append(key)
+            # Also accept bare slugs (no wiki-link wrapper)
+            if "[[" not in s and s:
+                key = (s, field)
+                if key not in seen:
+                    seen.add(key)
+                    out.append(key)
+    return out
+
+
 def _build_user_prompt(note: V6Note) -> str:
+    related = _extract_related_concepts(note.frontmatter)
+    if related:
+        related_str = "\n".join(
+            f"  - {slug}  ({relation})" for slug, relation in related
+        )
+    else:
+        related_str = "  (none listed in frontmatter)"
+    distinction_str = "\n".join(f"  - {d}" for d in KEY_DISTINCTION_SUGGESTIONS)
     return _USER_PROMPT_TEMPLATE.format(
         title=note.title,
         domain=note.domain or "general",
         parent=note.parent_concept or "(none specified)",
         aliases=", ".join(note.aliases) if note.aliases else "(none)",
+        related_concepts=related_str,
+        distinction_suggestions=distinction_str,
         body_excerpt=_build_body_excerpt(note),
     )
 
@@ -702,6 +852,65 @@ def _append_questions(
     return True
 
 
+def _append_misconceptions(
+    sections: dict[str, str],
+    items: list[_Misconception],
+    pass_n: int,
+    today: str,
+) -> bool:
+    """Append a Common Misconceptions section / block. Returns True if changed."""
+    if not items:
+        return False
+    blocks: list[str] = [_marker(pass_n, today)]
+    for m in items:
+        misc = m.misconception.strip().rstrip(".") + "."
+        correction = m.correction.strip().replace("\n", "\n> ")
+        blocks.append(
+            f"> [!warning] **Misconception** — {misc}\n>\n> {correction}"
+        )
+    addition = "\n\n" + "\n\n".join(blocks) + "\n"
+    section = "Common Misconceptions"
+    if section in sections:
+        sections[section] = sections[section].rstrip() + addition
+    else:
+        sections[section] = addition.lstrip("\n")
+    return True
+
+
+def _append_connection_rationales(
+    sections: dict[str, str],
+    items: list[_ConnectionRationale],
+    pass_n: int,
+    today: str,
+) -> bool:
+    """Append a 'Why these connections matter' subsection to Connections & Context.
+
+    The original auto-generated relation list (Falls under, Prerequisites, etc.)
+    is preserved verbatim; rationales are appended below it under their own
+    enhancement marker so they can be identified and rolled back.
+    """
+    if not items:
+        return False
+    blocks: list[str] = [
+        _marker(pass_n, today),
+        "### Why these connections matter",
+    ]
+    for c in items:
+        target = c.target.strip().strip("[]")
+        relation = (c.relation or "related-to").strip()
+        rationale = c.rationale.strip().replace("\n", "\n> ")
+        blocks.append(
+            f"> [!connection] **[[{target}]]** — *{relation}*\n> {rationale}"
+        )
+    addition = "\n\n" + "\n\n".join(blocks) + "\n"
+    section = "Connections & Context"
+    if section in sections:
+        sections[section] = sections[section].rstrip() + addition
+    else:
+        sections[section] = addition.lstrip("\n")
+    return True
+
+
 def merge_response(
     note: V6Note,
     response: EnhancementResponse,
@@ -732,6 +941,7 @@ def merge_response(
         sections, response.extra_implications, existing_implications, pass_n, today,
     )
     _append_distinctions(sections, response.extra_distinctions, pass_n, today)
+    _append_misconceptions(sections, response.common_misconceptions, pass_n, today)
     _append_figures(sections, response.extra_figures, pass_n, today)
     _append_questions(sections, response.extra_questions, pass_n, today)
     if response.synthesis_addition and response.synthesis_addition.strip():
@@ -742,6 +952,9 @@ def merge_response(
         _append_paragraphs(
             sections, "Evidence", [response.evidence_addition], pass_n, today,
         )
+    _append_connection_rationales(
+        sections, response.connection_rationales, pass_n, today,
+    )
     return preamble, sections
 
 
@@ -1058,6 +1271,8 @@ def _summarize_response(resp: EnhancementResponse | None) -> dict[str, int]:
         counts["Practical Implications"] = len(resp.extra_implications)
     if resp.extra_distinctions:
         counts["Key Distinctions"] = len(resp.extra_distinctions)
+    if resp.common_misconceptions:
+        counts["Common Misconceptions"] = len(resp.common_misconceptions)
     if resp.extra_figures:
         counts["Key Figures"] = len(resp.extra_figures)
     if resp.extra_questions:
@@ -1066,6 +1281,8 @@ def _summarize_response(resp: EnhancementResponse | None) -> dict[str, int]:
         counts["Synthesis addition"] = 1
     if resp.evidence_addition:
         counts["Evidence addition"] = 1
+    if resp.connection_rationales:
+        counts["Connection rationales"] = len(resp.connection_rationales)
     return counts
 
 

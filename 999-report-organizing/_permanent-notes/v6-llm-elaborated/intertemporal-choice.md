@@ -1,13 +1,12 @@
 ---
-title: "Intertemporal Choice"
+title: Intertemporal Choice
 aliases:
-  - "Intertemporal Choice"
-  - "temporal discounting"
-  - "delay discounting"
+  - Intertemporal Choice
+  - temporal discounting
+  - delay discounting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - self-regulation
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "intertemporal-choice-synthetic-seed-2026-04-26"
+  - intertemporal-choice-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Decision Science"
-
+depth-level: enhanced
+parent-concept: Decision Science
 related:
-  - "[[hyperbolic-discounting]]"
-  - "[[present-bias]]"
+  - '[[hyperbolic-discounting]]'
+  - '[[present-bias]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[hyperbolic-discounting]]"
+  - '[[hyperbolic-discounting]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[present-bias]]"
+  - '[[present-bias]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Intertemporal Choice
 
@@ -87,6 +86,9 @@ Theoretical roots of Intertemporal Choice can be traced back to the work of Rich
 
 Empirical studies have shown that Intertemporal Choice is not just an abstract concept but has significant real-world implications. For instance, financial planning and health behaviors are heavily influenced by how individuals make decisions involving time. In financial contexts, people may choose to spend rather than save due to hyperbolic discounting, leading to poor long-term financial outcomes. Similarly, in health behaviors, the preference for immediate gratification over future well-being can result in unhealthy lifestyle choices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Intertemporal Choice theory has evolved to incorporate not just economic but also psychological and neurological perspectives, highlighting how decision-making processes can be influenced by both cognitive biases and neural mechanisms. For instance, the ventromedial prefrontal cortex (VMPFC) is implicated in evaluating immediate rewards, while the dorsolateral prefrontal cortex (DLPFC) plays a role in considering long-term benefits. This dual-process model suggests that intertemporal choices may be influenced by both automatic and controlled cognitive processes.
+
 ## Mechanism
 
 The key mechanism underlying Intertemporal Choice is the difference between exponential and hyperbolic discounting. Exponential discounting assumes a constant rate of decrease in value over time, while hyperbolic discounting shows an accelerating rate as the delay approaches. This means that people tend to prefer immediate rewards more strongly when they are closer in time, leading to preference reversals where larger future rewards become preferred as the earlier option gets closer.
@@ -105,6 +107,11 @@ The key mechanism underlying Intertemporal Choice is the difference between expo
 > [!example] **Application 4 — Policy-making**
 > Understanding Intertemporal Choice is essential for policymakers in designing effective interventions. For example, policies aimed at reducing smoking or drug use often fail because they do not account for the present bias of individuals who prefer immediate pleasure over long-term health benefits. By addressing this bias, more effective public health campaigns can be developed.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), understanding Intertemporal Choice can help educators design more effective learning strategies. By incorporating spaced retrieval, where information is reviewed at increasing intervals over time, instructors can mitigate the impact of present bias on student engagement and retention. This approach leverages the concept that smaller, immediate rewards (such as quick quizzes) can be strategically placed to enhance long-term memory formation.
+
 ## Key Distinctions
 
 > [!key-distinction] **Hyperbolic vs Exponential Discounting**
@@ -113,9 +120,25 @@ The key mechanism underlying Intertemporal Choice is the difference between expo
 > [!key-distinction] **Present Bias vs Other Cognitive Biases**
 > While Intertemporal Choice encompasses present bias, it also includes other cognitive biases that affect decision-making over time. Present bias specifically refers to the tendency to prefer immediate rewards over larger future ones, while other biases might involve risk aversion or loss aversion. Understanding these distinctions helps in developing more accurate models of human behavior.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Intertemporal Choice is influenced by whether motivation stems from internal satisfaction or external rewards. Intrinsic motivation, driven by personal enjoyment and interest, can lead to more consistent long-term planning as individuals are less susceptible to present bias. Conversely, extrinsic motivation, based on external rewards like money or grades, often results in a stronger preference for immediate gratification due to the tangible nature of these incentives.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that all individuals discount future rewards at the same rate.
+>
+> In reality, individual differences significantly affect how people value future rewards. Factors such as age, personality traits like impulsivity, and cultural background can alter discount rates. For example, younger individuals tend to exhibit higher present bias compared to older adults who may prioritize long-term benefits more.
+
 ## Key Figures
 
 - **John B. Cadigan** — In 1987, John B. Cadigan contributed to the field by providing empirical evidence that supports hyperbolic discounting over exponential discounting, highlighting the importance of present bias in decision-making involving time.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **George Loewenstein** — Loewenstein's work on the psychology of intertemporal choice has been pivotal, particularly his development of the Hot-Cold Empathy Gap theory. This theory posits that people underestimate their future desires and preferences due to a failure to empathize with their future selves when making decisions.
 
 ## Open Questions
 
@@ -129,11 +152,21 @@ The key mechanism underlying Intertemporal Choice is the difference between expo
 >
 > *What would resolve it:* Longitudinal studies tracking individuals over extended periods would provide insights into the lasting impacts of hyperbolic discounting on various aspects of life, such as financial stability and overall health.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural differences impact intertemporal choice behaviors?
+>
+> *What would resolve it:* Cross-cultural studies are needed to explore how societal values, economic conditions, and social norms influence individual discount rates. Such research could provide insights into designing culturally sensitive interventions that promote long-term planning.
+
 ## Synthesis
 
 Understanding Intertemporal Choice is crucial for comprehending how people make decisions involving time. This concept has significant implications across multiple domains, including behavioral economics, psychology, and public policy. By recognizing the role of present bias in decision-making, individuals can develop strategies to overcome it, leading to better long-term outcomes. Moreover, policymakers can design more effective interventions by accounting for these biases, ultimately improving public health and financial well-being.
 
 Intertemporal Choice also bridges the gap between descriptive and normative questions in economics, providing a framework for understanding why people often make suboptimal decisions involving time. This concept is not just an abstract theory but has practical applications that can be observed in everyday life, from personal finance to health behaviors.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Intertemporal Choice theory not only illuminates the cognitive processes behind time-based decision-making but also underscores the importance of considering both psychological and neurological factors in understanding human behavior. This multifaceted approach enriches our comprehension of how individuals navigate trade-offs between immediate and future rewards, with implications for fields ranging from economics to education.
 
 ## Evidence
 
@@ -148,3 +181,10 @@ Empirical evidence consistently shows that discounting is hyperbolic rather than
 **Contrasts with:** [[present-bias]]
 
 **Source:** [[intertemporal-choice-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[present-bias]]** — *contrasts-with*
+> While Intertemporal Choice and Present Bias are closely related, they contrast in their focus. Intertemporal Choice encompasses the broader decision-making process involving time delays between rewards, whereas Present Bias specifically highlights a cognitive bias towards immediate gratification over delayed benefits. Understanding this distinction helps clarify how present bias is one mechanism underlying intertemporal choices.

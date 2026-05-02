@@ -1,13 +1,12 @@
 ---
-title: "Interleaving Effect"
+title: Interleaving Effect
 aliases:
-  - "Interleaving Effect"
-  - "interleaved practice"
-  - "mixed practice"
+  - Interleaving Effect
+  - interleaved practice
+  - mixed practice
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - study-strategies
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "interleaving-effect-synthetic-seed-2026-04-24"
+  - interleaving-effect-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Learning Strategies"
-
+depth-level: enhanced
+parent-concept: Learning Strategies
 related:
-  - "[[desirable-difficulties]]"
-  - "[[blocked-practice]]"
-  - "[[spacing-effect]]"
+  - '[[desirable-difficulties]]'
+  - '[[blocked-practice]]'
+  - '[[spacing-effect]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[desirable-difficulties]]"
+  - '[[desirable-difficulties]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[blocked-practice]]"
+  - '[[blocked-practice]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[spacing-effect]]"
+  - '[[spacing-effect]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Interleaving Effect
 
@@ -88,6 +87,9 @@ The core mechanism behind the Interleaving Effect involves cognitive load theory
 
 The Interleaving Effect is particularly effective for tasks that require recognizing the appropriate application of a concept or procedure. For example, in learning algebra, interleaved practice forces students to distinguish between different types of equations (e.g., linear vs. quadratic) during problem-solving, which enhances their ability to apply the correct method when faced with novel problems.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Interleaving practice not only enhances discrimination but also fosters a deeper understanding by encouraging learners to engage in metacognitive processes. When faced with mixed problems, students must reflect on their current knowledge and adapt their approach accordingly, which can lead to more robust learning outcomes.
+
 ## Mechanism
 
 The cognitive processes involved in performing discriminative judgments during mixed practice include switching attention between different categories and making rapid decisions about which procedure or concept is most appropriate. This constant switching and decision-making help learners build a more robust mental model of the problem space, leading to better long-term retention.
@@ -103,14 +105,35 @@ The cognitive processes involved in performing discriminative judgments during m
 > [!example] **Application 3 — Workplace training**
 > In workplace training, interleaving can be used to enhance skill transfer. For example, a software developer could practice coding in different programming languages during a single training session, which would help them better recognize the appropriate language for specific tasks and improve their overall proficiency.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), interleaving practice alongside spaced retrieval techniques can significantly enhance student performance. By mixing different types of problems and spacing out the review sessions, learners are better equipped to retain information over time and apply it effectively.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Interleaving Effect is an example of introducing intrinsic cognitive load, as it forces learners to make discriminative judgments during practice. In contrast, extraneous load is introduced by unnecessary or poorly designed instructional materials that do not contribute to learning. The key difference lies in the nature of the difficulty: interleaving enhances learning through meaningful cognitive engagement, while extraneous load can hinder it.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Interleaving practice promotes reflective thinking by requiring learners to pause and consider which approach is most suitable for a given problem. This contrasts with reactive thinking, where responses are more automatic and less deliberative. Reflective thinking enhances long-term retention and transfer of knowledge.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Interleaving practice makes learning harder by increasing confusion.
+>
+> While interleaved practice can initially feel more challenging due to the need for constant decision-making, it actually enhances long-term retention and transfer. The cognitive effort required during mixed practice strengthens neural connections, leading to better understanding and application of knowledge.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating the concept of the Interleaving Effect in his work on cognitive load theory. His research highlighted the benefits of interleaved practice for category discrimination tasks, providing a theoretical foundation for this learning strategy.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Robert A. Bjork** — Bjork's research on desirable difficulties has highlighted how interleaving practice can enhance learning by increasing cognitive effort during the learning process, leading to better long-term retention and transfer.
 
 ## Open Questions
 
@@ -123,6 +146,13 @@ The cognitive processes involved in performing discriminative judgments during m
 > Can interleaving be applied effectively in all types of learning tasks?
 >
 > *What would resolve it:* More empirical evidence is required to assess whether the Interleaving Effect can be generalized across different domains and types of learning. Future studies could explore its effectiveness in areas such as language acquisition, motor skills, and complex problem-solving.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does interleaving affect learners with different levels of prior knowledge?
+>
+> *What would resolve it:* Further research is needed to understand how interleaved practice impacts learners at various stages of expertise. This could help tailor instructional strategies for diverse student populations.
 
 ## Synthesis
 
@@ -141,3 +171,10 @@ The Interleaving Effect is particularly valuable for tasks that require recogniz
 **Applies to:** [[spacing-effect]]
 
 **Source:** [[interleaving-effect-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[blocked-practice]]** — *contrasts-with*
+> Interleaving contrasts with blocked practice in that it mixes different types of problems rather than grouping similar ones together. This difference impacts cognitive load and the type of thinking required, leading to better long-term retention and transfer.

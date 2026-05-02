@@ -1,13 +1,12 @@
 ---
-title: "Intrinsic vs Extrinsic Motivation"
+title: Intrinsic vs Extrinsic Motivation
 aliases:
-  - "Intrinsic vs Extrinsic Motivation"
-  - "intrinsic-extrinsic distinction"
-  - "IM vs EM"
+  - Intrinsic vs Extrinsic Motivation
+  - intrinsic-extrinsic distinction
+  - IM vs EM
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "intrinsic-vs-extrinsic-motivation-synthetic-seed-2026-04-25"
+  - intrinsic-vs-extrinsic-motivation-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivation Theory"
-
+depth-level: enhanced
+parent-concept: Motivation Theory
 related:
-  - "[[autonomous-motivation]]"
-  - "[[controlled-motivation]]"
-  - "[[Self-Determination Theory (SDT)]]"
+  - '[[autonomous-motivation]]'
+  - '[[controlled-motivation]]'
+  - '[[Self-Determination Theory (SDT)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[autonomous-motivation]]"
-  - "[[controlled-motivation]]"
-  - "[[Self-Determination Theory (SDT)]]"
+  - '[[autonomous-motivation]]'
+  - '[[controlled-motivation]]'
+  - '[[Self-Determination Theory (SDT)]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Intrinsic vs Extrinsic Motivation
 
@@ -89,6 +88,9 @@ The distinction between intrinsic and extrinsic motivations is not a clean dicho
 Understanding these motivations is crucial for educational and workplace settings. In schools, fostering intrinsic motivation through engaging curricula and supportive environments can lead to better long-term outcomes than relying solely on external rewards like grades or praise. Similarly, in the workplace, recognizing both types of motivation can help managers design effective incentive systems that promote employee well-being and productivity.
 
 Empirical research supports these distinctions. Studies have shown that intrinsic motivation tends to correlate with higher creativity, persistence, and overall satisfaction, while extrinsic motivations often lead to short-term compliance but may diminish long-term engagement.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+In recent years, researchers have explored how intrinsic and extrinsic motivations can interact in complex ways within educational settings. For instance, while external rewards like grades or prizes might initially boost performance, they can paradoxically diminish students' intrinsic interest over time if the rewards overshadow the inherent enjoyment of learning. This phenomenon, known as the overjustification effect, highlights the delicate balance educators must strike between leveraging extrinsic motivators and preserving students' innate curiosity.
 
 ## Mechanism
 
@@ -113,6 +115,19 @@ Self-determination theory posits that individuals are motivated by three basic p
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Extraneous load refers to the cognitive burden imposed by external factors that do not contribute to the intrinsic value of an activity. In contrast, intrinsic load is inherent in the task itself and relates to its complexity and challenge. Understanding these distinctions helps educators design tasks that are appropriately challenging without overwhelming students with extraneous demands.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's actions and goals, often driven by intrinsic motivation as individuals ponder their interests and values. In contrast, reactive thinking is more immediate and can be influenced heavily by extrinsic factors such as rewards or punishments that prompt quick responses without deeper reflection. Understanding this distinction helps in designing educational environments that encourage reflective thought processes, which are crucial for fostering long-term engagement and learning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that extrinsic motivation is inherently negative.
+>
+> While excessive reliance on external rewards can undermine intrinsic motivation over time, extrinsic motivators are not universally detrimental. In certain contexts, such as initial stages of learning or for tasks individuals find less engaging, carefully designed extrinsic incentives can enhance performance and gradually lead to increased interest in the activity itself.
+
 ## Key Figures
 
 - **Edward Deci** — Dr. Edward Deci, a psychologist at the University of Rochester, has been instrumental in advancing our understanding of intrinsic motivation through his research on self-determination theory.
@@ -130,11 +145,21 @@ Self-determination theory posits that individuals are motivated by three basic p
 >
 > *What would resolve it:* Longitudinal studies tracking individuals' motivations over time could help clarify how intrinsic versus extrinsic motivations influence various aspects of personal growth and well-being.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can educators design learning activities that sustain both intrinsic and extrinsic motivations over time?
+>
+> *What would resolve it:* Research on the interplay between intrinsic and extrinsic motivators could provide insights into creating balanced educational strategies. For instance, integrating meaningful feedback and opportunities for personal growth alongside external rewards might help maintain long-term engagement.
+
 ## Synthesis
 
 Understanding intrinsic vs. extrinsic motivation is crucial for developing effective motivational strategies across various domains, from education to workplace management. By recognizing the unique roles of these types of motivation, practitioners can design interventions that foster both short-term compliance and long-term engagement. This understanding also highlights the importance of supporting autonomy, competence, and relatedness in all contexts where motivation plays a critical role.
 
 The concept of intrinsic vs. extrinsic motivation intersects with other motivational theories such as autonomous and controlled motivations within self-determination theory. By integrating these concepts, we can create more nuanced and effective approaches to promoting well-being and productivity.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By recognizing the nuanced relationship between intrinsic and extrinsic motivations, educators can create more effective learning environments that not only enhance immediate performance but also nurture students' enduring interest in their subjects of study. This holistic approach is essential for fostering lifelong learners who are motivated by both internal passion and external incentives.
 
 ## Connections & Context
 
@@ -143,3 +168,10 @@ The concept of intrinsic vs. extrinsic motivation intersects with other motivati
 **Sibling concepts:** [[autonomous-motivation]] · [[controlled-motivation]] · [[Self-Determination Theory (SDT)]]
 
 **Source:** [[intrinsic-vs-extrinsic-motivation-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Self-Determination Theory (SDT)]]** — *applies-to*
+> Intrinsic vs Extrinsic Motivation is a core concept within Self-Determination Theory, which posits that fulfilling basic psychological needs for autonomy, competence, and relatedness fosters intrinsic motivation. Understanding this connection helps in designing environments that support these needs, thereby enhancing intrinsic motivation.

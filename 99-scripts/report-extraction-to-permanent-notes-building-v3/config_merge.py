@@ -47,7 +47,7 @@ EMBED_REQUEST_TIMEOUT_S: float = 180.0      # longer timeout for batch embedding
 
 # ─── LLM verification ────────────────────────────────────────────────────────
 
-LLM_MODEL_VERIFY: str = "qwen2.5:7b-instruct-q5_K_M"
+LLM_MODEL_VERIFY: str = "qwen2.5:14b-instruct-q5_K_M"
 
 #: Bump this string to invalidate all cached LLM verification results.
 VERIFY_PROMPT_VERSION: str = "verify-v1"

@@ -1,12 +1,11 @@
 ---
-title: "Cognitive Disequilibrium"
+title: Cognitive Disequilibrium
 aliases:
-  - "Cognitive Disequilibrium"
-  - "disequilibration"
+  - Cognitive Disequilibrium
+  - disequilibration
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,60 +17,60 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "cognitive-disequilibrium-synthetic-seed-2026-04-24"
+  - cognitive-disequilibrium-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[assimilation]]"
-  - "[[accommodation]]"
-  - "[[productive-failure]]"
-  - "[[conceptual-change]]"
-  - "[[genetic-epistemology]]"
+  - '[[assimilation]]'
+  - '[[accommodation]]'
+  - '[[productive-failure]]'
+  - '[[conceptual-change]]'
+  - '[[genetic-epistemology]]'
 prerequisites:
-  - "[[assimilation]]"
-  - "[[accommodation]]"
+  - '[[assimilation]]'
+  - '[[accommodation]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[productive-failure]]"
-  - "[[conceptual-change]]"
+  - '[[productive-failure]]'
+  - '[[conceptual-change]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[genetic-epistemology]]"
+  - '[[genetic-epistemology]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Cognitive Disequilibrium
 
@@ -91,6 +90,9 @@ Theoretical roots of cognitive disequilibrium are deeply embedded in Jean Piaget
 
 Empirical evidence supports the importance of cognitive disequilibrium in learning. For instance, studies have shown that when learners are exposed to challenging tasks without adequate scaffolding, they may experience prolonged cognitive disequilibrium, leading to frustration or defensive entrenchment of their original schemas. Conversely, well-designed instructional strategies that induce and support cognitive disequilibrium can lead to significant conceptual change.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Cognitive disequilibrium is not merely a temporary state but a critical phase in the learning process that can lead to significant cognitive growth if managed properly. This concept underscores the importance of challenging learners' existing schemas, as it is through this challenge that deeper understanding and more robust knowledge structures are formed.
+
 ## Mechanism
 
 The process of cognitive disequilibrium involves two key mechanisms: assimilation and accommodation. Assimilation occurs when new information is integrated into existing schemas without altering them, while accommodation happens when learners modify their schemas to better fit the new information. This interplay between assimilation and accommodation drives schema restructuring, which is essential for structural learning.
@@ -106,10 +108,28 @@ The process of cognitive disequilibrium involves two key mechanisms: assimilatio
 > [!example] **Application 3 — Counter-example sequences**
 > Incorporating counter-examples into lessons can induce cognitive disequilibrium by showing students that their current schemas may be incomplete or incorrect. This strategy helps learners recognize the limitations of their existing knowledge and motivates them to revise their schemas, leading to more robust conceptual understanding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be used to induce cognitive disequilibrium by revisiting topics at increasing intervals. This approach not only reinforces memory but also encourages learners to reconcile new information with their existing knowledge, promoting deeper learning and schema restructuring.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Cognitive disequilibrium is distinct from intrinsic load (the inherent difficulty of the task) and extraneous load (unnecessary cognitive demands imposed by instructional design). While intrinsic load can contribute to cognitive disequilibrium, it does not necessarily lead to productive learning. Similarly, extraneous load can hinder learning if it interferes with the learner's ability to process new information effectively.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of new information in the context of existing schemas, whereas reactive thinking is an immediate response without deep reflection. Cognitive disequilibrium often requires reflective thinking to resolve contradictions and integrate new knowledge effectively.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think cognitive disequilibrium always leads to frustration.
+>
+> While cognitive disequilibrium can be uncomfortable, it is a necessary phase for learning. The discomfort arises from the challenge of reconciling new information with existing schemas, but this process is crucial for schema restructuring and deeper understanding.
 
 ## Key Figures
 
@@ -126,6 +146,13 @@ The process of cognitive disequilibrium involves two key mechanisms: assimilatio
 > What are the long-term effects of prolonged cognitive disequilibrium on learning?
 >
 > *What would resolve it:* Longitudinal studies could provide insights into how sustained periods of cognitive disequilibrium impact learners' long-term knowledge retention and transfer.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the duration of cognitive disequilibrium affect learning outcomes?
+>
+> *What would resolve it:* Research into how long learners should experience cognitive disequilibrium before it becomes counterproductive could provide insights into optimizing instructional design for maximum learning impact.
 
 ## Synthesis
 
@@ -144,3 +171,10 @@ Moreover, the interplay between assimilation and accommodation in cognitive dise
 **Supports:** [[genetic-epistemology]]
 
 **Source:** [[cognitive-disequilibrium-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[genetic-epistemology]]** — *supports*
+> Genetic epistemology provides the theoretical framework that underpins cognitive disequilibrium. Piaget's theory of cognitive development, a cornerstone of genetic epistemology, posits that learners construct knowledge through experiences and interactions with their environment, which often lead to cognitive disequilibrium.

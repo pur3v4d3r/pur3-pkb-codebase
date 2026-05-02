@@ -1,12 +1,11 @@
 ---
-title: "Analogical Logic"
+title: Analogical Logic
 aliases:
-  - "Analogical Logic"
-  - "logic of analogy"
+  - Analogical Logic
+  - logic of analogy
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - ai
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "analogical-logic-synthetic-seed-2026-04-24"
+  - analogical-logic-synthetic-seed-2026-04-24
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[non-classical-logic]]"
-  - "[[Structure-Mapping Engine]]"
-  - "[[case-based-reasoning]]"
+  - '[[non-classical-logic]]'
+  - '[[Structure-Mapping Engine]]'
+  - '[[case-based-reasoning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[non-classical-logic]]"
+  - '[[non-classical-logic]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Structure-Mapping Engine]]"
-  - "[[case-based-reasoning]]"
+  - '[[Structure-Mapping Engine]]'
+  - '[[case-based-reasoning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Analogical Logic
 
@@ -87,6 +86,9 @@ In practice, Analogical Logic operates through a series of steps where analogies
 Theoretical roots of Analogical Logic trace back to Dedre Gentner's work on structure-mapping theory, which posits that analogies are not just about superficial similarities but require a deep alignment of underlying structures. This framework has been further developed through computational implementations like case-based reasoning systems, which store and retrieve past examples to inform current analogical projections.
 
 Empirically, Analogical Logic has shown promise in various fields. For example, in artificial intelligence, it can be used to improve machine learning algorithms by providing a structured way to transfer knowledge from one domain to another. This is particularly useful in scenarios where direct data is scarce but related examples are abundant.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Analogical Logic also plays a crucial role in cognitive flexibility, enabling individuals to adapt their thinking when faced with novel situations by drawing on past experiences and applying them in new contexts. This ability is particularly evident in problem-solving scenarios where analogies can serve as stepping stones towards innovative solutions.
 
 ## Mechanism
 
@@ -108,6 +110,19 @@ Structure-mapping engines work by aligning elements of two domains based on thei
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Analogical Logic distinguishes between intrinsic load, which relates to the inherent complexity of an analogy, and extraneous load, which is due to poor presentation or irrelevant information. Understanding this distinction helps in designing more effective analogies that focus on deep relational matches rather than superficial details.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Analogical Logic emphasizes deep processing over surface-level similarities, focusing on the underlying relational structures rather than superficial attributes. This distinction is critical because analogies that rely solely on surface features often fail to transfer effectively across contexts.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Analogical Logic only applies in educational settings.
+>
+> While Analogical Logic has significant applications in education, its utility extends far beyond. It is also pivotal in artificial intelligence for knowledge transfer and in cognitive psychology to understand human reasoning processes.
+
 ## Key Figures
 
 - **Dedre Gentner** — Gentner developed structure-mapping theory, which forms the foundation of Analogical Logic. Her work has been instrumental in formalizing how analogies can be systematically analyzed and applied in various domains.
@@ -124,11 +139,21 @@ Structure-mapping engines work by aligning elements of two domains based on thei
 >
 > *What would resolve it:* Experiments comparing computational models with human performance on analogical tasks could help identify and address these limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Analogical Logic account for cultural differences in analogy use?
+>
+> *What would resolve it:* Research into cross-cultural variations in analogical reasoning could provide insights into how different contexts influence the effectiveness and interpretation of analogies, thereby enriching our understanding of Analogical Logic.
+
 ## Synthesis
 
 Analogical Logic is crucial for understanding how humans reason through analogy, bridging the gap between qualitative reasoning and formal logic. By providing a structured approach to evaluating analogies, it enhances our ability to transfer knowledge across domains, making it valuable in education, artificial intelligence, and cognitive psychology.
 
 The importance of Analogical Logic extends beyond its immediate applications; it also challenges us to think more deeply about the nature of human cognition and reasoning. As we continue to refine our computational models, we can better understand not only how analogies work but also what makes them effective or ineffective.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating deep relational matches with systematic evaluation methods, Analogical Logic not only enhances our ability to reason through analogy but also provides a robust framework for transferring knowledge across diverse domains. This dual focus on depth and structure makes it a powerful tool in both theoretical cognitive science and practical applications.
 
 ## Connections & Context
 
@@ -139,3 +164,13 @@ The importance of Analogical Logic extends beyond its immediate applications; it
 **Applies to:** [[Structure-Mapping Engine]] · [[case-based-reasoning]]
 
 **Source:** [[analogical-logic-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[non-classical-logic]]** — *generalizes-to*
+> Analogical Logic generalizes non-classical logic by incorporating relational structures into logical inference, allowing for a more nuanced and context-sensitive approach to reasoning.
+
+> [!connection] **[[Structure-Mapping Engine]]** — *applies-to*
+> The Structure-Mapping Engine is an application of Analogical Logic that operationalizes the theory in computational models. It demonstrates how analogies can be systematically analyzed and applied, bridging theoretical insights with practical applications.

@@ -1,12 +1,11 @@
 ---
-title: "Elaboration"
+title: Elaboration
 aliases:
-  - "Elaboration"
-  - "elaborative encoding"
+  - Elaboration
+  - elaborative encoding
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - study-strategies
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "elaboration-synthetic-seed-2026-04-24"
+  - elaboration-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Learning Strategies"
-
+depth-level: enhanced
+parent-concept: Learning Strategies
 related:
-  - "[[working-memory]]"
-  - "[[self-explanation]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[self-explanation]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-explanation]]"
+  - '[[self-explanation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Elaboration
 
@@ -87,6 +86,9 @@ Theoretical roots of elaboration trace back to cognitive load theory, particular
 
 Empirical evidence supports the effectiveness of elaboration across various content types and age groups. Studies have shown that students who engage in elaborative activities demonstrate better retention and transfer of knowledge compared to those who do not. For instance, self-explanation tasks, which are a form of elaboration, have been found to enhance problem-solving skills and conceptual understanding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Elaboration is not merely a passive process but requires active cognitive engagement, which can be both mentally demanding and rewarding. This active involvement challenges the learner to think deeply about the material, fostering a more nuanced understanding that goes beyond surface-level memorization.
+
 ## Mechanism
 
 The process of generating connections during elaboration involves several stages. First, the learner identifies relevant prior knowledge that can be linked to new information. Next, they actively generate these links through various means such as analogies or examples. Finally, these connections are integrated into their existing cognitive structures, creating a more comprehensive and interconnected network.
@@ -99,14 +101,35 @@ The process of generating connections during elaboration involves several stages
 > [!example] **Application 2 — Study techniques**
 > For students, using study techniques like summarization or self-explanation can be highly beneficial. These methods encourage learners to actively connect new information with what they already know, leading to better retention and deeper comprehension of the material.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced through elaboration. By integrating periodic review sessions where students elaborate on previously learned material, instructors can help solidify long-term memory retention and understanding.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While elaboration is a form of encoding that can reduce intrinsic load by making complex information more manageable, it must be distinguished from extraneous load. Excessive or irrelevant elaboration can increase cognitive burden and detract from learning. The key difference lies in the quality and relevance of the connections generated during elaboration.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> While maintenance rehearsal involves simple repetition of information to keep it in short-term memory, elaborative rehearsal actively connects new material with existing knowledge. This distinction is crucial because whereas maintenance rehearsal may lead to temporary recall, elaborative rehearsal supports deeper understanding and long-term retention.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that any form of repetition qualifies as elaboration.
+>
+> Elaboration is distinct from mere repetition. It involves creating meaningful connections between new information and existing knowledge, which enhances understanding and retention. Simple rote memorization does not engage the cognitive processes necessary for effective learning.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating the concept of cognitive load theory, which provides a theoretical framework for understanding how elaboration works. His work in 1988 laid the foundation for much of our current understanding of learning strategies and their impact on memory retention.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Marcel Goldschmidt** — Goldschmidt's work on the role of elaborative encoding in memory consolidation has provided empirical support for how elaboration enhances learning outcomes by integrating new information into existing knowledge networks.
 
 ## Open Questions
 
@@ -119,6 +142,13 @@ The process of generating connections during elaboration involves several stages
 > What are the most effective ways to teach students how to engage in productive elaboration?
 >
 > *What would resolve it:* Empirical studies that compare different instructional approaches for teaching elaboration techniques would provide valuable insights into what methods are most effective. This could include comparing guided versus independent practice, as well as the role of feedback and metacognitive strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the effectiveness of elaboration vary across different types of learners or subject domains?
+>
+> *What would resolve it:* Research on individual differences in cognitive processing and domain-specific knowledge could provide insights into how to tailor elaborative strategies for optimal learning outcomes.
 
 ## Synthesis
 
@@ -137,3 +167,10 @@ Beyond its practical applications, elaboration also has broader implications for
 **Applies to:** [[worked-examples]]
 
 **Source:** [[elaboration-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-explanation]]** — *see-also*
+> Elaboration and self-explanation are closely related because both involve active engagement with material to deepen understanding. Self-explanation is a specific form of elaboration where learners explain their thought processes, which helps them identify gaps in knowledge and build more robust cognitive structures.

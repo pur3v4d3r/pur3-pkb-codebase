@@ -1,13 +1,12 @@
 ---
-title: "Information Diet"
+title: Information Diet
 aliases:
-  - "Information Diet"
-  - "information consumption"
-  - "info diet"
+  - Information Diet
+  - information consumption
+  - info diet
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - media-ecology
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "information-diet-synthetic-seed-2026-04-26"
+  - information-diet-synthetic-seed-2026-04-26
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[Signal-to-Noise Ratio]]"
-  - "[[Source-Curation]]"
-  - "[[Deep Work]]"
+  - '[[Signal-to-Noise Ratio]]'
+  - '[[Source-Curation]]'
+  - '[[Deep Work]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Signal-to-Noise Ratio]]"
-  - "[[Source-Curation]]"
+  - '[[Signal-to-Noise Ratio]]'
+  - '[[Source-Curation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Deep Work]]"
+  - '[[Deep Work]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Information Diet
 
@@ -89,6 +88,9 @@ Theoretical roots of the Information Diet trace back to cognitive psychology, pa
 
 Historically, the concept has evolved from early discussions on media consumption to a more nuanced approach that considers the epistemic value of different sources. For instance, maintaining a balanced exposure across viewpoints is often recommended, but this must be done with domain-specific epistemic judgment to avoid false-balancing pathologies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The concept of an Information Diet is not merely about reducing cognitive load but also about fostering a balanced epistemic environment that supports the development of nuanced and robust mental models. By engaging with diverse yet high-quality sources, individuals can challenge their existing schemas and accommodate new information more effectively, leading to deeper understanding and more flexible thinking.
+
 ## Mechanism
 
 The mechanism behind an Information Diet involves pruning low-quality recurring inputs to make room for more nutritive sources. This process ensures that high-value information has the necessary residency time in one's cognitive system, leading to better integration and recall. By reducing extraneous noise, individuals can focus their cognitive resources on meaningful content.
@@ -101,10 +103,28 @@ The mechanism behind an Information Diet involves pruning low-quality recurring 
 > [!example] **Application 2 — Professional development**
 > For professionals, maintaining an Information Diet involves regularly reviewing and updating one's sources of professional information. By pruning outdated or irrelevant materials, individuals can stay current with the latest developments in their field, improving their expertise and productivity.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), implementing an Information Diet can enhance the effectiveness of spaced retrieval practices. By curating a set of high-quality, relevant materials and systematically revisiting them over time, learners can reinforce their understanding and retention more effectively than through passive consumption or sporadic engagement with varied but less focused content.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > An Information Diet focuses on intrinsic cognitive load—essential for learning and understanding—while avoiding extraneous load that can hinder effective information processing. Intrinsic load is managed by selecting high-quality, relevant sources, whereas extraneous load is reduced by pruning low-value inputs.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> An Information Diet emphasizes deep processing by encouraging individuals to engage critically with information, fostering semantic elaboration and meaningful connections. In contrast, surface-level consumption often involves rote memorization or superficial engagement without deeper cognitive integration. This distinction is crucial as it highlights how an Information Diet can lead to more durable learning outcomes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — An Information Diet means completely avoiding all low-quality information.
+>
+> While the goal of an Information Diet is to minimize exposure to low-value content, it does not imply a complete avoidance. Instead, it advocates for a balanced approach where individuals selectively engage with high-quality sources while occasionally exposing themselves to diverse viewpoints, even if some are less reliable or nuanced.
 
 ## Key Figures
 
@@ -128,6 +148,9 @@ Understanding and applying an Information Diet is crucial for cognitive health a
 
 The concept of an Information Diet intersects with other related concepts such as signal-to-noise ratio and source-curation, but it offers a more deliberate and intentional approach. By focusing on intrinsic cognitive load and domain-specific epistemic judgment, the diet provides a practical framework for optimizing information consumption in various domains.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating principles from cognitive psychology and practical applications in daily information consumption, the concept of an Information Diet offers a robust framework for enhancing cognitive function. It not only addresses immediate cognitive load but also supports long-term knowledge integration and mental flexibility, making it a valuable tool for anyone seeking to optimize their intellectual diet.
+
 ## Connections & Context
 
 **Falls under:** [[cognitive-architecture]]
@@ -137,3 +160,10 @@ The concept of an Information Diet intersects with other related concepts such a
 **Applies to:** [[Deep Work]]
 
 **Source:** [[information-diet-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Deep Work]]** — *applies-to*
+> An Information Diet and Deep Work both aim to enhance cognitive performance by optimizing the quality of information inputs. While an Information Diet focuses on curating high-quality sources, Deep Work emphasizes deep, focused engagement with these materials without distraction. Together, they create a synergistic approach that maximizes learning efficiency.

@@ -1,16 +1,15 @@
 ---
-title: "Flavell's Metacognitive Taxonomy"
+title: Flavell's Metacognitive Taxonomy
 aliases:
-  - "Flavell's Metacognitive Taxonomy"
-  - "Nelson-Narens Framework"
-  - "Metacognitive Control Framework"
-  - "Two-Level Model of Metacognition"
-  - "Meta-Level Object-Level Model"
-  - "Monitoring-Control Architecture"
+  - Flavell's Metacognitive Taxonomy
+  - Nelson-Narens Framework
+  - Metacognitive Control Framework
+  - Two-Level Model of Metacognition
+  - Meta-Level Object-Level Model
+  - Monitoring-Control Architecture
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -24,55 +23,55 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19"
+  - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[self-regulated-learning]]"
+  - '[[working-memory]]'
+  - '[[self-regulated-learning]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-regulated-learning]]"
+  - '[[self-regulated-learning]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Flavell's Metacognitive Taxonomy
 
@@ -92,6 +91,9 @@ Goals or tasks represent the objectives that drive cognitive engagement. Setting
 
 Actions or strategies are the behavioral responses deployed to achieve these goals. These can include specific techniques like mnemonic devices, time management methods, or problem-solving approaches. The effectiveness of these actions is contingent upon an individual's metacognitive knowledge and experiences, as well as their ability to monitor and adjust their strategies based on feedback.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Flavell's taxonomy also highlights the dynamic nature of metacognition, suggesting that these components interact in a cyclical manner. For instance, an individual’s initial metacognitive knowledge can influence their goals and strategies, which then shape their experiences and further refine their understanding of cognitive processes. This cycle underscores the adaptive potential of metacognition, allowing individuals to continuously improve their cognitive performance through reflective practice.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -104,6 +106,19 @@ Actions or strategies are the behavioral responses deployed to achieve these goa
 
 > [!key-distinction] **Metacognitive knowledge vs Metacognitive experiences**
 > Metacognitive knowledge involves beliefs about one's cognitive processes, while metacognitive experiences are the conscious feelings and judgments that arise during cognitive activities. For instance, knowing how to solve a math problem (knowledge) versus feeling confident in your ability to do so (experience).
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate review and analysis of one's thoughts and actions, whereas reactive thinking is characterized by immediate responses without conscious deliberation. In the context of Flavell’s taxonomy, reflective thinking aligns closely with metacognitive knowledge and experiences, as it requires individuals to consciously evaluate their cognitive processes and outcomes. Reactive thinking, on the other hand, may be more aligned with automatic or habitual actions that are less influenced by explicit awareness.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that metacognitive experiences are solely positive or negative.
+>
+> Metacognitive experiences can be nuanced and multifaceted. They include a range of feelings such as confidence, frustration, satisfaction, and confusion. These varied experiences provide valuable feedback about cognitive processes, helping individuals to adapt their strategies and improve performance over time.
 
 ## Key Figures
 
@@ -127,6 +142,9 @@ Flavell's Metacognitive Taxonomy matters because it provides a robust framework 
 
 Moreover, Flavell's work has paved the way for subsequent research, such as Nelson and Narens' Metacognitive Control Framework, which builds upon this foundational taxonomy to explore more complex interactions within cognitive architecture.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating Flavell's taxonomy with contemporary research on metacognition, educators can design more effective learning environments that foster reflective thinking and adaptive problem-solving. This synthesis not only enhances theoretical understanding but also provides practical tools for improving cognitive skills across various domains of human activity.
+
 ## Connections & Context
 
 **Falls under:** [[cognitive-architecture]]
@@ -136,3 +154,10 @@ Moreover, Flavell's work has paved the way for subsequent research, such as Nels
 **Sibling concepts:** [[self-regulated-learning]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is a critical prerequisite for effective metacognition as outlined in Flavell's taxonomy. The limited capacity of working memory necessitates the use of strategies and knowledge to manage cognitive tasks efficiently, directly influencing how individuals set goals, monitor their progress, and adjust their actions.

@@ -1,13 +1,12 @@
 ---
-title: "Inquiry-Based Learning"
+title: Inquiry-Based Learning
 aliases:
-  - "Inquiry-Based Learning"
-  - "inquiry learning"
-  - "IBL"
+  - Inquiry-Based Learning
+  - inquiry learning
+  - IBL
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "inquiry-based-learning-synthetic-seed-2026-04-24"
+  - inquiry-based-learning-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[guided-discovery]]"
-  - "[[problem-based-learning]]"
-  - "[[project-based-learning]]"
+  - '[[guided-discovery]]'
+  - '[[problem-based-learning]]'
+  - '[[project-based-learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[guided-discovery]]"
+  - '[[guided-discovery]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[problem-based-learning]]"
-  - "[[project-based-learning]]"
+  - '[[problem-based-learning]]'
+  - '[[project-based-learning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Inquiry-Based Learning
 
@@ -87,6 +86,9 @@ In practice, IBL operates in a cyclical manner: learners begin by posing questio
 Theoretical roots of IBL can be traced back to constructivist learning theories, which posit that learners build knowledge through experience and reflection. IBL aligns closely with these principles by fostering an environment where students actively engage in constructing their own understanding rather than passively receiving information from a teacher. The concept also draws on the idea of self-regulated learning, where learners take responsibility for managing their own learning processes.
 
 Empirical evidence supports the effectiveness of IBL, particularly when it includes explicit scaffolding and guidance. Meta-analyses (Furtak et al., 2012; Lazonder & Harmsen, 2016) have shown that structured and guided variants of IBL consistently outperform unguided inquiry in terms of learning outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Inquiry-Based Learning (IBL) not only fosters critical thinking and problem-solving skills but also enhances students' ability to engage in metacognitive processes, such as planning, monitoring, and evaluating their own learning strategies. This self-regulation is crucial for deep learning, allowing students to adapt their approaches based on feedback and reflection.
 
 ## Mechanism
 
@@ -107,6 +109,22 @@ The cognitive processes involved in IBL include metacognition (thinking about on
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > In IBL, intrinsic load refers to the inherent difficulty of the task itself, while extraneous load includes unnecessary cognitive demands imposed by the learning environment. Structured inquiry helps manage extraneous load by providing clear guidance and support, whereas unstructured inquiry can lead to confusion and frustration due to excessive extraneous load.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> In IBL, the distinction between surface and deep processing is particularly relevant. Surface processing involves rote memorization of facts without understanding underlying concepts, while deep processing entails a thorough analysis that leads to meaningful connections and long-term retention. Effective IBL encourages deep processing by prompting students to explore topics in depth rather than merely covering them superficially.
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> IBL promotes reflective thinking over reactive thinking, encouraging learners to pause and consider their thought processes before acting. This metacognitive approach helps students develop a deeper understanding of the subject matter by fostering critical analysis rather than immediate responses.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think IBL means letting students learn anything they want without guidance.
+>
+> In reality, Inquiry-Based Learning requires structured guidance to ensure that learners stay on track and achieve learning objectives. While it allows for open-ended exploration, the level of teacher support is crucial in managing intrinsic and extraneous cognitive loads.
 
 ## Key Figures
 
@@ -130,6 +148,9 @@ IBL is a vital concept in educational practice and research because it promotes 
 
 The importance of IBL extends beyond individual classrooms; it contributes to broader educational reforms aimed at preparing students for an increasingly complex world. By fostering independent learners who can navigate uncertainty, IBL prepares students for lifelong learning and adaptability in a rapidly changing society.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating elements of guided discovery and fostering reflective thinking, Inquiry-Based Learning provides a robust framework for promoting deep understanding and self-regulated learning. This approach not only enhances cognitive skills but also prepares learners for lifelong inquiry in various contexts.
+
 ## Evidence
 
 Empirical evidence supports the effectiveness of structured and guided inquiry within IBL, as meta-analyses (Furtak et al., 2012; Lazonder & Harmsen, 2016) have shown that explicit scaffolding enhances learning outcomes compared to unguided inquiry. This suggests that well-designed IBL activities can lead to better academic performance and deeper understanding.
@@ -143,3 +164,13 @@ Empirical evidence supports the effectiveness of structured and guided inquiry w
 **Contrasts with:** [[problem-based-learning]] · [[project-based-learning]]
 
 **Source:** [[inquiry-based-learning-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[problem-based-learning]]** — *contrasts-with*
+> While both IBL and Problem-Based Learning (PBL) involve student-centered approaches, they differ in their focus. PBL centers on solving predefined problems with clear objectives, whereas IBL emphasizes the process of inquiry itself, allowing for more open-ended exploration and discovery.
+
+> [!connection] **[[project-based-learning]]** — *contrasts-with*
+> Project-Based Learning (PBL) typically involves long-term projects that culminate in a final product or presentation. In contrast, IBL focuses on the investigative process rather than the end result, encouraging students to engage deeply with questions and evidence throughout their learning journey.

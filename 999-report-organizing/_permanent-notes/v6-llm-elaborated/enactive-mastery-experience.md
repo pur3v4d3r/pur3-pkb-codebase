@@ -1,14 +1,13 @@
 ---
-title: "Enactive Mastery Experience"
+title: Enactive Mastery Experience
 aliases:
-  - "Enactive Mastery Experience"
-  - "Self-Efficacy Theory Foundational Report"
-  - "Bandura Self-Efficacy"
-  - "Perceived Self-Efficacy Foundations"
+  - Enactive Mastery Experience
+  - Self-Efficacy Theory Foundational Report
+  - Bandura Self-Efficacy
+  - Perceived Self-Efficacy Foundations
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,55 @@ subdomains:
   - motivation-science
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-efficacy-theory-foundational-report-2026-04-20"
+  - self-efficacy-theory-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[self-efficacy-theory]]"
-  - "[[mastery-learning]]"
+  - '[[self-efficacy-theory]]'
+  - '[[mastery-learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[self-efficacy-theory]]"
+  - '[[self-efficacy-theory]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[mastery-learning]]"
+  - '[[mastery-learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Enactive Mastery Experience
 
@@ -89,6 +88,9 @@ Theoretical roots of enactive mastery experience trace back to Albert Bandura's 
 
 Empirically, studies have shown that enactive mastery experience significantly enhances learning outcomes. For instance, in educational settings, students who engage in deliberate practice and achieve success are more likely to persist with challenging tasks and perform better on subsequent assessments.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Enactive mastery experience is not merely a one-off event but rather an iterative process that builds over time through repeated successes and occasional failures. Each successful task completion reinforces the individual's belief in their capabilities, while even setbacks can be reframed as learning opportunities if they are approached constructively. This cyclical nature of enactive mastery underscores its role in long-term self-efficacy development.
+
 ## Mechanism
 
 The process of forming efficacy beliefs through successful task performance involves several stages: goal setting, engagement in the task, receiving feedback, and reflecting on outcomes. Each step contributes to the individual's interpretation of their capability, with successes reinforcing self-efficacy and failures providing opportunities for learning.
@@ -104,10 +106,28 @@ The process of forming efficacy beliefs through successful task performance invo
 > [!example] **Application 3 — Physical therapy**
 > In physical therapy, enactive mastery experience is vital for patient recovery. Therapists should design exercises that are challenging but achievable, allowing patients to see progress and build confidence. This approach not only enhances the therapeutic outcomes but also improves patient motivation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance enactive mastery experience. By scheduling quizzes and assessments at increasing intervals, learners are encouraged to revisit material periodically, reinforcing their understanding and confidence over time. This approach not only aids retention but also builds a sense of capability through repeated successful recall.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Enactive mastery experience is an intrinsic load, meaning it involves personal engagement in a task and its outcome. In contrast, extraneous loads are imposed by external factors such as the difficulty of instructions or the environment. The distinction matters because intrinsic loads contribute to deeper learning and self-efficacy formation, while extraneous loads can detract from these processes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> While surface processing involves rote memorization without deep comprehension, deep processing entails meaningful engagement with the material. Enactive mastery experience aligns more closely with deep processing as it requires active application and reflection on task outcomes. This distinction is crucial because deep processing fosters a deeper understanding of skills and concepts, thereby enhancing self-efficacy.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that any successful attempt at a task constitutes enactive mastery experience.
+>
+> This misconception overlooks the interpretive aspect of enactive mastery. For it to be effective, individuals must perceive their success as evidence of capability. A superficially successful attempt without this interpretation does not contribute significantly to self-efficacy.
 
 ## Key Figures
 
@@ -125,9 +145,19 @@ The process of forming efficacy beliefs through successful task performance invo
 >
 > *What would resolve it:* Experiments that manipulate task difficulty and provide structured feedback could determine whether artificial induction of enactive mastery experiences is effective in enhancing self-efficacy.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the timing and frequency of enactive mastery experiences impact long-term self-efficacy?
+>
+> *What would resolve it:* Research examining the optimal spacing and repetition of successful task completions could provide insights into how these factors influence sustained efficacy beliefs.
+
 ## Synthesis
 
 Enactive mastery experience matters because it plays a critical role in self-regulated learning, influencing motivation, effort, and persistence. By fostering a sense of personal capability, it enhances learning outcomes across various domains, from education to corporate training and physical therapy. Understanding the nuances of enactive mastery experience helps educators and practitioners design more effective interventions that promote deeper learning and resilience.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding enactive mastery experience within the broader framework of self-regulated learning highlights its critical role in fostering adaptive behaviors. By integrating this concept with other elements like goal setting and feedback, educators and trainers can design more effective interventions that enhance both immediate performance and long-term capability.
 
 ## Connections & Context
 
@@ -138,3 +168,10 @@ Enactive mastery experience matters because it plays a critical role in self-reg
 **Applies to:** [[mastery-learning]]
 
 **Source:** [[self-efficacy-theory-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-regulated-learning]]** — *falls-under*
+> Enactive mastery experience is a foundational component of self-regulated learning, as it directly influences an individual's ability to set goals, monitor progress, and adjust strategies based on feedback. By reinforcing efficacy beliefs through successful task completion, enactive mastery supports the cyclical nature of self-regulation.

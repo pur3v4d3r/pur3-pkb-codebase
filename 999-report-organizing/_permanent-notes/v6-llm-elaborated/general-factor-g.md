@@ -1,14 +1,13 @@
 ---
-title: "General Factor G"
+title: General Factor G
 aliases:
-  - "General Factor G"
-  - "g"
-  - "general intelligence"
-  - "Spearman g"
+  - General Factor G
+  - g
+  - general intelligence
+  - Spearman g
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,58 +19,58 @@ subdomains:
   - psychometrics
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "general-factor-g-synthetic-seed-2026-04-25"
+  - general-factor-g-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Psychology"
-
+depth-level: enhanced
+parent-concept: Cognitive Psychology
 related:
-  - "[[fluid-intelligence]]"
-  - "[[crystallized-intelligence]]"
-  - "[[multiple-intelligences-theory]]"
-  - "[[Intelligence Testing]]"
+  - '[[fluid-intelligence]]'
+  - '[[crystallized-intelligence]]'
+  - '[[multiple-intelligences-theory]]'
+  - '[[Intelligence Testing]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[fluid-intelligence]]"
-  - "[[crystallized-intelligence]]"
+  - '[[fluid-intelligence]]'
+  - '[[crystallized-intelligence]]'
 contrasts-with:
-  - "[[multiple-intelligences-theory]]"
+  - '[[multiple-intelligences-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Intelligence Testing]]"
+  - '[[Intelligence Testing]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # General Factor G
 
@@ -90,6 +89,9 @@ The robustness of General Factor G lies in its empirical regularity—the positi
 While General Factor G is a general cognitive capacity that contributes to performance in various tasks, it does not encompass specific task-related abilities or other forms of intelligence such as emotional or social intelligence. Instead, it focuses on the overarching cognitive capacity that underlies performance across different cognitive domains, making it distinct from crystallized and fluid intelligence.
 
 The extraction of General Factor G is achieved through factor analysis, a statistical method that identifies common factors among multiple variables. This process reveals g as a single underlying factor that explains a significant portion of the variance in cognitive test scores, supporting its interpretation as a general cognitive capacity.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The concept of General Factor G has evolved significantly since its inception, with modern research increasingly focusing on how g interacts with other cognitive constructs such as fluid and crystallized intelligence. Fluid intelligence refers to the ability to reason and solve new problems independently of previously acquired knowledge, while crystallized intelligence involves the application of learned skills, knowledge, and experience. These two forms of intelligence are often seen as complementary components that together contribute to overall general intelligence. Recent studies suggest a dynamic interplay between fluid and crystallized intelligence over an individual's lifespan, with g serving as a unifying factor that integrates these abilities.
 
 ## Mechanism
 
@@ -114,6 +116,19 @@ The existence of General Factor G can be explained through various mechanisms, i
 > [!key-distinction] **Fluid vs Crystallized Intelligence**
 > General Factor G encompasses both fluid and crystallized intelligence, but it focuses on the overarching cognitive capacity that underlies performance across different cognitive domains. Fluid intelligence involves problem-solving and reasoning abilities, while crystallized intelligence is based on acquired knowledge and skills. General Factor G integrates these aspects into a single general cognitive capacity.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Convergent vs Divergent Thinking**
+> Convergent thinking involves finding the single best solution to a problem, often requiring analytical skills and logical reasoning. In contrast, divergent thinking encourages generating multiple solutions or ideas for a given problem, emphasizing creativity and flexibility of thought. While both types of thinking are important cognitive processes, convergent thinking is more closely aligned with tasks that contribute positively to General Factor G due to its reliance on systematic analysis and problem-solving skills.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that General Factor G solely reflects innate biological factors.
+>
+> While genetic predispositions certainly play a role in determining an individual's general intelligence, environmental influences such as education and life experiences also significantly impact g. Research indicates that both nature and nurture contribute to the development of cognitive abilities, highlighting the importance of considering multiple factors when assessing general intelligence.
+
 ## Key Figures
 
 - **Charles Spearman** — In 1904, Charles Spearman first identified General Factor G through his factor analysis of diverse cognitive tests. His work laid the foundation for understanding the statistical regularity and empirical robustness of g.
@@ -130,11 +145,21 @@ The existence of General Factor G can be explained through various mechanisms, i
 >
 > *What would resolve it:* Longitudinal studies that track changes in g over time, particularly those involving targeted training interventions, could help determine whether and how general intelligence can be enhanced. Such research would provide evidence on the malleability of g.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the integration of fluid and crystallized intelligence influence General Factor G over time?
+>
+> *What would resolve it:* Longitudinal studies tracking changes in both types of intelligence could provide insights into how their interplay affects overall cognitive performance. Understanding these dynamics would help refine models of general intelligence and inform educational strategies aimed at enhancing cognitive abilities throughout life.
+
 ## Synthesis
 
 Understanding General Factor G is crucial for advancing our knowledge of human cognitive abilities and their underlying mechanisms. By recognizing its role in various cognitive tasks, researchers can develop more comprehensive models of intelligence that integrate both general and specific abilities. This concept has significant implications for educational practices, psychological assessments, and the broader field of cognitive psychology.
 
 General Factor G also intersects with other concepts such as crystallized and fluid intelligence, highlighting the complexity of human cognition. By differentiating between these constructs, researchers can better understand how they interact to influence overall cognitive performance.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating the understanding of General Factor G with other cognitive constructs like fluid and crystallized intelligence, researchers can develop more nuanced theories about human cognition. This synthesis not only enhances our comprehension of individual differences in intellectual capabilities but also informs practical applications such as educational interventions designed to foster comprehensive cognitive development.
 
 ## Connections & Context
 
@@ -147,3 +172,10 @@ General Factor G also intersects with other concepts such as crystallized and fl
 **Applies to:** [[Intelligence Testing]]
 
 **Source:** [[general-factor-g-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Intelligence Testing]]** — *applies-to*
+> General Factor G is a critical component in the design and interpretation of intelligence tests. These assessments are specifically crafted to measure various cognitive abilities that collectively contribute to g, allowing researchers and practitioners to evaluate an individual's overall cognitive capacity. By focusing on tasks that positively correlate with g, intelligence testing provides valuable insights into how different cognitive skills interrelate and support general intellectual functioning.

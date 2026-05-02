@@ -1,15 +1,14 @@
 ---
-title: "Goal Commitment"
+title: Goal Commitment
 aliases:
-  - "Goal Commitment"
-  - "Goal-Setting Theory Foundational Report"
-  - "GST — Locke and Latham"
-  - "High Performance Cycle Foundational Treatment"
-  - "Goal Setting Mechanisms and Moderators"
+  - Goal Commitment
+  - Goal-Setting Theory Foundational Report
+  - GST — Locke and Latham
+  - High Performance Cycle Foundational Treatment
+  - Goal Setting Mechanisms and Moderators
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,58 +21,58 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "goal-setting-theory-locke-latham-foundational-report-2026-04-20"
+  - goal-setting-theory-locke-latham-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivational Psychology"
-
+depth-level: enhanced
+parent-concept: Motivational Psychology
 related:
-  - "[[self-efficacy]]"
-  - "[[Volitional Congruence]]"
-  - "[[implementation-intention]]"
-  - "[[expectancy-value-theory]]"
+  - '[[self-efficacy]]'
+  - '[[Volitional Congruence]]'
+  - '[[implementation-intention]]'
+  - '[[expectancy-value-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[self-efficacy]]"
-  - "[[Volitional Congruence]]"
+  - '[[self-efficacy]]'
+  - '[[Volitional Congruence]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[implementation-intention]]"
+  - '[[implementation-intention]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[expectancy-value-theory]]"
+  - '[[expectancy-value-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Goal Commitment
 
@@ -92,6 +91,9 @@ In practice, goal commitment influences behavior by driving sustained effort ove
 Theoretical roots of goal commitment can be traced back to the Goal Setting Theory developed by Edwin Locke and K. Anders Ericsson, which emphasizes the importance of setting specific and challenging goals for optimal performance. According to this theory, the perceived importance and attainability of a goal are key determinants of an individual's level of commitment. This framework provides a robust foundation for understanding how goal commitment operates in various contexts.
 
 Empirical evidence supports the role of goal commitment in enhancing motivation and performance. Studies have shown that individuals who set specific and challenging goals tend to exhibit higher levels of commitment, leading to better outcomes. For instance, in educational settings, students with high levels of goal commitment are more likely to achieve their academic objectives compared to those without such commitment.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Goal commitment is not a static state but rather a dynamic process that evolves over time as individuals encounter new information and experiences related to their goals. This evolution can lead to adjustments in the perceived importance or attainability of the goal, which in turn influences the level of commitment. For instance, encountering setbacks may initially decrease commitment, but if these challenges are overcome, they can reinforce a stronger sense of determination.
 
 ## Mechanism
 
@@ -119,6 +121,22 @@ Implementation intentions, a concept introduced by Gollwitzer (1999), provide a 
 > [!key-distinction] **Goal Commitment vs Volitional Congruence**
 > Volitional congruence refers to the alignment of goals with personal values and beliefs, whereas goal commitment involves sustained effort towards achieving a goal. While both concepts involve determination, volitional congruence is more about value-based motivation rather than the persistence required for goal achievement.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation arises from personal interest and enjoyment in the activity itself, extrinsic motivation is driven by external factors such as rewards or avoiding punishment. Goal commitment can be influenced by both types of motivation; however, research suggests that intrinsically motivated goals tend to foster higher levels of sustained commitment due to a deeper alignment with one's values and interests.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Maintenance rehearsal involves repetitive review without deep processing, while elaborative rehearsal involves linking new information to existing knowledge in meaningful ways. Goal commitment benefits more from elaborative rehearsal as it enhances understanding and retention of goal-relevant strategies and information, thereby supporting sustained effort over time.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that setting a goal automatically leads to high levels of commitment.
+>
+> Setting a goal is just the first step; true commitment requires an ongoing belief in both the importance and attainability of the goal. Without this sustained belief, individuals may lose motivation when faced with challenges or setbacks.
+
 ## Key Figures
 
 - **Edwin Locke** — Co-originator of Goal Setting Theory in 1968, which laid the foundation for understanding goal commitment and its impact on performance.
@@ -136,11 +154,21 @@ Implementation intentions, a concept introduced by Gollwitzer (1999), provide a 
 >
 > *What would resolve it:* Longitudinal studies tracking individuals over extended periods would help determine whether sustained high levels of goal commitment lead to consistent positive outcomes or if there are potential negative consequences.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the social environment influence an individual's level of goal commitment?
+>
+> *What would resolve it:* Exploring how social support, feedback, and group norms impact goal commitment could provide insights into enhancing motivation in collaborative settings. Understanding these dynamics can inform strategies for fostering stronger commitments within teams or communities.
+
 ## Synthesis
 
 Understanding goal commitment is crucial for enhancing motivation and performance across various domains. It provides a framework for explaining how individuals persist in their efforts towards achieving goals, even when faced with challenges. By integrating the insights from Goal Setting Theory and related constructs like self-efficacy and volitional congruence, we can develop more effective strategies to foster commitment and improve outcomes in education, organizations, and personal development.
 
 The concept of goal commitment also has broader implications for motivational psychology by highlighting the importance of perceived importance and attainability in driving sustained effort. This understanding can inform the design of interventions aimed at enhancing motivation and performance, making it a valuable tool for practitioners and researchers alike.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating the principles of expectancy-value theory with implementation intentions, educators and organizational leaders can design interventions that not only foster a strong sense of goal commitment but also equip individuals with practical tools to act on their goals effectively. This holistic approach addresses both the motivational foundation and the behavioral execution necessary for achieving long-term success.
 
 ## Connections & Context
 
@@ -153,3 +181,13 @@ The concept of goal commitment also has broader implications for motivational ps
 **Supports:** [[expectancy-value-theory]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[expectancy-value-theory]]** — *supports*
+> Expectancy-value theory posits that people are motivated to engage in activities based on their expectations of success and the value they place on those outcomes. Goal commitment is supported by this framework as it relies on similar principles, where individuals must believe both that achieving a goal is possible (expectancy) and that doing so is worthwhile (value).
+
+> [!connection] **[[implementation-intention]]** — *applies-to*
+> Implementation intentions are particularly effective in translating goal commitment into action by specifying when, where, and how to act on a goal. This strategy bridges the gap between having a strong commitment to a goal and actually performing the behaviors necessary to achieve it.

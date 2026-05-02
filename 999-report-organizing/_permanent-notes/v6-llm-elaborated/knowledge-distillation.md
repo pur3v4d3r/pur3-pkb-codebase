@@ -1,13 +1,12 @@
 ---
-title: "Knowledge Distillation"
+title: Knowledge Distillation
 aliases:
-  - "Knowledge Distillation"
-  - "progressive distillation"
-  - "summarization layering"
+  - Knowledge Distillation
+  - progressive distillation
+  - summarization layering
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - learning-science
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "knowledge-distillation-synthetic-seed-2026-04-25"
+  - knowledge-distillation-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Personal Knowledge Management"
-
+depth-level: enhanced
+parent-concept: Personal Knowledge Management
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Knowledge Distillation
 
@@ -87,6 +86,9 @@ Empirically, studies have shown that well-distilled small corpora outperform poo
 
 Historically, John Sweller's work in cognitive load theory has significantly influenced the development of knowledge distillation techniques. His research on intrinsic vs extraneous load highlights how effective distillation can reduce extraneous cognitive load by making information more accessible and easier to process.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Knowledge distillation is not merely a one-time process but an ongoing cycle that leverages spaced repetition and progressive elaboration to enhance long-term retention. By revisiting summaries at increasing intervals, individuals can reinforce their understanding and integrate new insights over time, much like the way spaced practice optimizes memory consolidation in learning.
+
 ## Mechanism
 
 The mechanism of knowledge distillation involves several key steps: initial highlighting, restating in one's own words, and atomicizing into single-claim notes. These steps are designed to progressively refine the captured material, ensuring that each piece of information is both accurate and easily accessible.
@@ -102,10 +104,28 @@ The mechanism of knowledge distillation involves several key steps: initial high
 > [!example] **Application 3 — Professional Development**
 > In professional settings, knowledge distillation can be applied to training materials or industry reports, making complex information more digestible and actionable for employees. This approach ensures that critical insights are readily available when needed, enhancing overall productivity and performance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), knowledge distillation can be applied to enhance student engagement and retention. By providing students with distilled summaries of course content that they revisit at spaced intervals, educators can facilitate better long-term memory formation. This approach not only reduces cognitive load by presenting information in a more digestible format but also leverages the benefits of distributed practice for improved recall.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Knowledge distillation focuses on reducing extraneous cognitive load by making information more accessible through iterative summarization and re-encoding. In contrast, intrinsic load is inherent to the material itself and cannot be reduced without changing the content. The distinction matters because effective distillation can enhance learning outcomes by optimizing how information is presented for easier processing.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Knowledge distillation aligns closely with elaborative rehearsal, which involves linking new information to existing knowledge through deeper processing. In contrast, maintenance rehearsal simply repeats the same information without additional context or meaning. Distillation enhances learning by encouraging learners to engage in elaborative rehearsal, thereby improving both retention and understanding.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think knowledge distillation is only about reducing content volume.
+>
+> While distillation does involve summarizing information, its primary goal is to enhance the accessibility and retrievability of key insights. By restating material in one's own words and breaking it down into atomic notes, learners create more robust mental representations that are easier to recall when needed.
 
 ## Key Figures
 
@@ -129,6 +149,9 @@ Knowledge distillation is crucial for personal knowledge management as it enhanc
 
 Furthermore, knowledge distillation contributes to broader cognitive architecture by facilitating better information processing and retrieval. By applying this method, individuals can build more robust mental models and enhance their ability to apply learned knowledge in new contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Knowledge distillation serves as a bridge between initial learning and long-term retention by systematically refining and reorganizing information into more accessible formats. This process not only optimizes cognitive load but also facilitates the integration of new knowledge with existing schemas, thereby enhancing both comprehension and recall.
+
 ## Connections & Context
 
 **Falls under:** [[personal-knowledge-management]]
@@ -138,3 +161,10 @@ Furthermore, knowledge distillation contributes to broader cognitive architectur
 **Applies to:** [[worked-examples]]
 
 **Source:** [[knowledge-distillation-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is a critical prerequisite for knowledge distillation because it limits the amount of information one can actively process and manipulate at any given time. Effective distillation techniques must account for these limitations, ensuring that summaries are concise enough to fit within working memory constraints while still capturing essential details.

@@ -1,13 +1,12 @@
 ---
-title: "Coherence Principle"
+title: Coherence Principle
 aliases:
-  - "Coherence Principle"
-  - "coherence rule"
-  - "exclusion principle"
+  - Coherence Principle
+  - coherence rule
+  - exclusion principle
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - instructional-design
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "coherence-principle-synthetic-seed-2026-04-25"
+  - coherence-principle-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Coherence Principle
 
@@ -87,6 +86,9 @@ The theoretical roots of the Coherence Principle can be traced back to cognitive
 
 Historically, the principle was first introduced in 1988 by John Sweller, who emphasized the importance of instructional design that minimizes cognitive load. His work laid the foundation for understanding how multimedia presentations can be optimized to enhance learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Coherence Principle is particularly relevant in today's digital age, where multimedia presentations often include a plethora of visual and auditory elements designed to engage learners. However, these additional features can sometimes overwhelm the learner’s working memory, leading to cognitive overload and reduced learning efficiency. By adhering to the Coherence Principle, educators can create more effective instructional materials that align with how human cognition processes information.
+
 ## Mechanism
 
 The mechanism behind the Coherence Principle involves the competition for working memory capacity between essential and extraneous elements. When learners are exposed to multimedia content, their working memory must process both relevant and irrelevant information simultaneously. This competition can lead to cognitive overload, particularly when extraneous elements are visually or auditorily appealing but do not contribute to learning objectives.
@@ -102,14 +104,35 @@ The mechanism behind the Coherence Principle involves the competition for workin
 > [!example] **Application 3 — Interactive learning materials**
 > In interactive learning materials, such as simulations or quizzes, the Coherence Principle suggests that designers should avoid cluttering the interface with unnecessary elements. A clean and uncluttered design helps learners focus on the task at hand, reducing cognitive load and improving their ability to engage with the material.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), the Coherence Principle can be applied to enhance spaced retrieval practices. By removing extraneous elements from multimedia presentations, learners are better able to focus on key concepts during each session. This focused approach allows for more effective retention and recall of information over time, as learners are not distracted by non-essential content.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Coherence Principle focuses specifically on extraneous cognitive load, which includes elements that do not contribute to learning objectives. In contrast, intrinsic cognitive load is inherent in the task itself and cannot be reduced by instructional design. By distinguishing between these types of cognitive load, educators can better understand how to optimize their teaching strategies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> The Coherence Principle specifically targets extraneous cognitive load, which arises from elements in instructional materials that do not contribute to the learning objectives. In contrast, intrinsic cognitive load is inherent in the complexity of the task itself and cannot be reduced through instructional design alone. Understanding this distinction helps educators focus on minimizing distractions without compromising the essential difficulty of the material.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that the Coherence Principle means removing all multimedia elements from instruction.
+>
+> This misconception arises because some may interpret the principle too strictly. The Coherence Principle does not advocate for eliminating all multimedia; rather, it emphasizes excluding non-essential elements that do not contribute to learning objectives. Multimedia can still be highly effective if used judiciously and aligned with educational goals.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with the origin of the Coherence Principle in his work on cognitive load theory. His research highlighted the importance of instructional design that minimizes extraneous cognitive load, thereby enhancing learning outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Richard Mayer** — Richard Mayer has contributed significantly to the development and application of the Coherence Principle through his research on multimedia learning. His work emphasizes how instructional design can be optimized by reducing extraneous elements, thereby enhancing learners' ability to process and retain information.
 
 ## Open Questions
 
@@ -122,6 +145,13 @@ The mechanism behind the Coherence Principle involves the competition for workin
 > Can the Coherence Principle be applied to non-multimedia learning contexts?
 >
 > *What would resolve it:* Empirical studies examining the application of the Coherence Principle in traditional classroom settings or other non-multimedia environments would provide insights into its broader applicability and potential benefits.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Coherence Principle interact with other principles of multimedia instruction?
+>
+> *What would resolve it:* Further research could explore how the Coherence Principle interacts with other principles such as the Signaling Principle or the Redundancy Principle. Understanding these interactions would provide a more comprehensive framework for optimizing multimedia presentations in educational settings.
 
 ## Synthesis
 
@@ -138,3 +168,10 @@ The Coherence Principle has significant implications for various learning contex
 **Applies to:** [[worked-examples]]
 
 **Source:** [[coherence-principle-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> The Coherence Principle applies directly to the design of worked examples in education. By excluding extraneous elements from these examples, learners can focus more effectively on understanding the problem-solving process without being distracted by unnecessary information. This alignment enhances the effectiveness of worked examples as a teaching tool.

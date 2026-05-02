@@ -1,12 +1,11 @@
 ---
-title: "Developmental Psychology"
+title: Developmental Psychology
 aliases:
-  - "Developmental Psychology"
-  - "developmental science"
+  - Developmental Psychology
+  - developmental science
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - neuroscience
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "developmental-psychology-synthetic-seed-2026-04-24"
+  - developmental-psychology-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[genetic-epistemology]]"
-  - "[[cognitive-psychology]]"
-  - "[[lifespan-development]]"
+  - '[[genetic-epistemology]]'
+  - '[[cognitive-psychology]]'
+  - '[[lifespan-development]]'
 prerequisites:
-  - "[[genetic-epistemology]]"
+  - '[[genetic-epistemology]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[cognitive-psychology]]"
+  - '[[cognitive-psychology]]'
 see-also:
-  - "[[lifespan-development]]"
+  - '[[lifespan-development]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Developmental Psychology
 
@@ -86,6 +85,9 @@ The core meaning of Developmental Psychology lies in its recognition that cognit
 Theoretical roots in Developmental Psychology trace back to influential figures like Jean Piaget and Lev Vygotsky. Piaget's stage theory emphasizes the importance of cognitive structures, while Vygotsky's social development theory highlights the impact of cultural and social interactions on psychological development. These theories provide a framework for understanding how environmental factors influence developmental trajectories.
 
 Empirical research in Developmental Psychology often involves observing children at different ages to identify patterns of change. For example, studies might track the development of language skills from infancy through adolescence, revealing non-linear changes that cannot be explained by simple linear progression.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Developmental Psychology also explores how cognitive capacities can be both enhanced and hindered by environmental factors such as socioeconomic status, access to educational resources, and cultural practices. For example, children from lower-income families may face more stressors that impact their cognitive development, while those with greater access to stimulating environments might develop faster cognitive skills.
 
 ## Mechanism
 
@@ -107,6 +109,19 @@ Developmental changes are driven by a combination of biological maturation and e
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Developmental changes are often characterized by intrinsic load, which refers to the inherent difficulty of tasks that naturally increase with age. In contrast, extraneous load is imposed by instructional methods or environmental factors. Understanding these distinctions helps educators design learning environments that minimize cognitive overload and maximize effective learning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Massed vs Spaced Practice**
+> In developmental psychology, the distinction between massed and spaced practice is crucial for understanding how learning occurs over time. Massed practice involves cramming information into a short period, which can lead to temporary gains but poor long-term retention. In contrast, spaced practice distributes study sessions over longer intervals, leading to more durable memory formation. This difference is particularly relevant in educational settings where instructional methods must adapt to the developmental stage of learners.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that Developmental Psychology only focuses on childhood development.
+>
+> While much attention is given to early stages, Developmental Psychology encompasses changes throughout the lifespan. Research into aging and cognitive decline in older adults provides insights into how psychological capacities evolve over time, highlighting the importance of understanding developmental processes across all ages.
+
 ## Key Figures
 
 - **Jean Piaget** — Piaget originated the theory of genetic epistemology, which posits that children progress through distinct stages of cognitive development characterized by specific ways of thinking and problem-solving.
@@ -124,11 +139,21 @@ Developmental changes are driven by a combination of biological maturation and e
 >
 > *What would resolve it:* Advancements in neuroimaging techniques and personalized learning technologies may help create more nuanced models that account for the unique developmental paths of different individuals.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do digital technologies impact cognitive and emotional development in children?
+>
+> *What would resolve it:* Addressing this question requires longitudinal studies tracking how screen time affects attention spans, social skills, and learning abilities. Such research could inform guidelines for healthy technology use among young people.
+
 ## Synthesis
 
 Developmental Psychology matters because it provides a framework for understanding how cognitive, emotional, and behavioral capacities change over time. By integrating biological, psychological, and sociocultural factors, this field offers valuable insights into educational practices, parenting strategies, and policy-making. Its contributions extend beyond individual development to inform broader societal issues related to education, health, and social welfare.
 
 The concept of Developmental Psychology is closely linked with [[genetic-epistemology]] and [[lifespan-development]], as it shares a focus on changes over the life span but from a more specific perspective. By examining age-related changes in cognitive architecture, this field enriches our understanding of human development across different domains.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from genetic epistemology and cognitive psychology, Developmental Psychology offers a nuanced view of human development that considers both innate capacities and environmental influences. This holistic approach is essential for designing effective educational interventions and policies that support optimal psychological growth at every stage of life.
 
 ## Connections & Context
 
@@ -141,3 +166,10 @@ The concept of Developmental Psychology is closely linked with [[genetic-epistem
 **Sibling concepts:** [[lifespan-development]]
 
 **Source:** [[developmental-psychology-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[lifespan-development]]** — *see-also*
+> Developmental Psychology and lifespan development are closely intertwined as both fields examine how psychological capacities change over time. However, while Developmental Psychology focuses on the mechanisms underlying these changes, lifespan development often emphasizes the practical implications of these changes across different life stages.

@@ -1131,3 +1131,64 @@ python "$V6" --input-dir "$SRC" --mode overwrite --bypass-cache \
 python "$V6" --input-dir "999-report-organizing/_extractor-output/2026-04-21-__pur3v4d3r-house-voice-reports" \
 --report-runs "999-report-organizing/_pipeline-logs/v6-run-$(date +%Y%m%d-%H%M%S).json" \
   -v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+python 99-scripts/wiki_orphan_scanner.py --folder "D:\10_pur3v4d3r's-vault\99-scripts\synthetic-permanent-note-seeds\_run_v6_all_custom.sh" -q -o "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\audit-reports"
+
+
+
+
+
+# Running the Wiki Orphan Scanner
+
+python 99-scripts/wiki_orphan_scanner.py <folder> -r -v \  --seed <seed-output.md> --include-synthetic
+Dry run (preview file count, no scan)
+
+python 99-scripts/wiki_orphan_scanner.py <folder> -r --dry-run
+Override vault root (skip auto-detection)
+
+python 99-scripts/wiki_orphan_scanner.py <folder> -r -v --vault "D:/10_pur3v4d3r's-vault"
+Quiet mode (errors only)
+
+python 99-scripts/wiki_orphan_scanner.py <folder> -r -q -o <output.md>
+Show help / version
+
+python 99-scripts/wiki_orphan_scanner.py --helppython 99-scripts/wiki_orphan_scanner.py --version
+Flag Reference
+Flag	Purpose
+<folder>	Required — folder to scan
+-r, --recursive	Recurse into subdirectories
+--vault PATH	Vault root (auto-detected via .obsidian if omitted)
+-o, --output PATH	Write the full orphan report to file
+--seed PATH	Write a frequency-ranked seed list (with source files & line numbers)
+--include-synthetic	Include -synthetic-seed- entries in --seed output (excluded by default)
+-v, --verbose	Increase logging (-v INFO, -vv DEBUG)
+-q, --quiet	Suppress non-error output
+-n, --dry-run	Preview without scanning
+--version	Print version
+--help	Show help

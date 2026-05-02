@@ -1,15 +1,14 @@
 ---
-title: "Metacognitive Knowledge"
+title: Metacognitive Knowledge
 aliases:
-  - "Metacognitive Knowledge"
-  - "Metacognitive Scaffolding in PKB"
-  - "PKB Study Planning Scaffolds"
-  - "Metacognitive Architecture for Learning"
-  - "PKM Metacognitive Scaffolding"
+  - Metacognitive Knowledge
+  - Metacognitive Scaffolding in PKB
+  - PKB Study Planning Scaffolds
+  - Metacognitive Architecture for Learning
+  - PKM Metacognitive Scaffolding
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18"
+  - pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[working-memory]]"
-  - "[[self-regulated-learning]]"
+  - '[[working-memory]]'
+  - '[[self-regulated-learning]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-regulated-learning]]"
+  - '[[self-regulated-learning]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Metacognitive Knowledge
 
@@ -90,6 +89,9 @@ Theoretical roots of metacognitive knowledge trace back to John H. Flavell’s t
 
 Empirical evidence supports the importance of metacognitive knowledge in learning. For example, studies show that learners with higher levels of metacognitive knowledge are better at adjusting their study methods based on task difficulty and personal performance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Metacognitive knowledge plays a pivotal role in adapting learning strategies to different contexts and challenges, which is particularly evident when learners encounter novel or complex tasks. For instance, understanding the limitations of working memory can prompt learners to adopt chunking techniques or use external aids like notes or diagrams to manage information overload effectively.
+
 ## Mechanism
 
 Forethought scaffolding addresses the most consequential yet often omitted phase of self-regulated learning. Goal-setting templates convert vague intentions into specific, assessable objectives. Strategy selection prompts activate metacognitive knowledge that learners possess but fail to deploy effectively. Implementation intentions bridge the intention-action gap through if-then planning structures that PKB systems can automate.
@@ -105,6 +107,11 @@ Forethought scaffolding addresses the most consequential yet often omitted phase
 > [!example] **Application 3 — Self-Regulated Learning**
 > Metacognitive knowledge enables learners to monitor and adjust their study methods dynamically. For instance, if a learner realizes through self-assessment that rereading is not effective for certain types of material, they can switch to summarization or concept mapping based on their metacognitive understanding of different strategies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced by integrating metacognitive prompts that encourage learners to reflect on their understanding and recall of material at increasing intervals. This not only reinforces memory but also helps students develop a deeper awareness of their learning processes, fostering more effective long-term retention.
+
 ## Key Distinctions
 
 > [!key-distinction] **Declarative vs Procedural Knowledge**
@@ -115,6 +122,19 @@ Forethought scaffolding addresses the most consequential yet often omitted phase
 
 > [!key-distinction] **Metacognitive Knowledge vs Metacognitive Regulation**
 > While metacognitive knowledge involves understanding cognition, metacognitive regulation refers to the active process of monitoring and controlling cognitive processes. A learner can possess extensive metacognitive knowledge but still regulate poorly if the monitoring-control coupling is weak.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and evaluation of one's cognitive processes, whereas reactive thinking is immediate and often automatic. Metacognitive knowledge supports reflective thinking by enabling learners to pause, assess their understanding, and adjust strategies accordingly, which is crucial for deep learning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think metacognitive knowledge only applies to academic settings.
+>
+> Metacognitive knowledge is not confined to academic contexts; it is applicable in various domains such as professional development, personal goal setting, and everyday problem-solving. Its utility extends beyond formal education, enhancing performance and decision-making across different life scenarios.
 
 ## Key Figures
 
@@ -138,6 +158,9 @@ Metacognitive knowledge is a critical component of self-regulated learning, enab
 
 The application of metacognitive knowledge in learning strategies like goal-setting, strategy selection, and implementation intentions underscores its practical importance. By fostering the development of this knowledge, educators can empower learners to become more autonomous and effective in their studies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating metacognitive knowledge into educational practices, educators can foster a deeper understanding of cognitive processes among students, enabling them to become more autonomous and effective learners. This integration not only improves academic performance but also equips individuals with lifelong skills for continuous personal and professional growth.
+
 ## Connections & Context
 
 **Falls under:** [[self-regulated-learning]]
@@ -147,3 +170,10 @@ The application of metacognitive knowledge in learning strategies like goal-sett
 **Sibling concepts:** [[self-regulated-learning]]
 
 **Source:** [[pkb-metacognitive-scaffolding-for-study-and-planning-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is a critical prerequisite for metacognitive knowledge because it provides the cognitive workspace where learners can hold and manipulate information about their learning processes. Understanding working memory limitations helps learners develop strategies to optimize their use of this limited resource, thereby enhancing self-regulated learning.

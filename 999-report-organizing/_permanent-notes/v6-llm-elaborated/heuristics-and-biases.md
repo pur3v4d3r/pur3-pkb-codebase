@@ -1,13 +1,12 @@
 ---
-title: "Heuristics and Biases"
+title: Heuristics and Biases
 aliases:
-  - "Heuristics and Biases"
-  - "heuristics-and-biases program"
-  - "Kahneman-Tversky program"
+  - Heuristics and Biases
+  - heuristics-and-biases program
+  - Kahneman-Tversky program
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - behavioural-economics
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "heuristics-and-biases-synthetic-seed-2026-04-24"
+  - heuristics-and-biases-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[dual-process-theory]]"
-  - "[[bounded-rationality]]"
+  - '[[dual-process-theory]]'
+  - '[[bounded-rationality]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[dual-process-theory]]"
+  - '[[dual-process-theory]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[bounded-rationality]]"
+  - '[[bounded-rationality]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Heuristics and Biases
 
@@ -87,6 +86,9 @@ Theoretical roots of Heuristics and Biases can be traced back to the dual-proces
 
 Empirically, the program has been grounded in numerous experiments that demonstrate these biases across various domains. For example, the famous Linda problem shows how people tend to overestimate the probability of a specific scenario (Linda is a bank teller and feminist) compared to a more general one (Linda is a bank teller), illustrating the representativeness heuristic at work.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Heuristics and Biases program has profound implications for understanding human behavior in various domains beyond decision-making, including social cognition and moral reasoning. For instance, the confirmation bias, a tendency to seek out information that confirms pre-existing beliefs while ignoring contradictory evidence, can be seen as an extension of heuristics into social contexts where individuals form opinions about others based on readily available information rather than comprehensive data.
+
 ## Mechanism
 
 The mechanism behind heuristics involves cognitive shortcuts that simplify complex decision-making processes. For instance, the availability heuristic relies on the ease with which examples come to mind, often leading to overestimation of rare events because they are more memorable. Similarly, the anchoring heuristic causes individuals to fixate on initial information and adjust their judgments accordingly, even if this adjustment is insufficient.
@@ -103,6 +105,22 @@ The mechanism behind heuristics involves cognitive shortcuts that simplify compl
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Heuristics and Biases is not about intrinsic cognitive load (the inherent difficulty of a task) but rather the extraneous load introduced by heuristics. In contrast, intrinsic load affects all tasks equally, whereas extraneous load can be mitigated through better instructional design or decision-making strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and reasoning, often associated with System 2 processes in dual-process theory. In contrast, reactive thinking is quick and automatic, akin to System 1 processes where heuristics play a significant role. Understanding this distinction helps explain why individuals may rely on heuristics even when they are aware of their potential biases.
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> While intrinsic load pertains to the inherent complexity of tasks, extraneous load is introduced by external factors such as cognitive biases. Heuristics and Biases primarily address extraneous load, showing how mental shortcuts can complicate decision-making despite their efficiency in reducing cognitive effort.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that heuristics are always detrimental to decision-making.
+>
+> Heuristics serve an essential role by simplifying complex decisions, making them more manageable. However, they can lead to biases and errors when overused or applied inappropriately. The key is recognizing situations where reliance on heuristics might be problematic.
 
 ## Key Figures
 
@@ -121,11 +139,26 @@ The mechanism behind heuristics involves cognitive shortcuts that simplify compl
 >
 > *What would resolve it:* Experimental designs that test the efficacy of various cognitive forcing functions and mindware in real-world settings would help identify effective strategies for mitigating biases.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural differences influence the reliance on heuristics?
+>
+> *What would resolve it:* Cross-cultural studies could provide insights into how different societal norms and values affect the use of heuristics, potentially revealing variations in cognitive biases across cultures.
+
+> [!open-question] **Question**
+> What role does technology play in mitigating or exacerbating cognitive biases?
+>
+> *What would resolve it:* Research on human-computer interaction could explore how technological tools can either help individuals overcome cognitive biases by providing more comprehensive information or inadvertently reinforce biases through design features that align with heuristics.
+
 ## Synthesis
 
 Heuristics and Biases is a foundational concept in cognitive psychology because it provides a comprehensive framework for understanding how human judgment systematically deviates from rationality. By elucidating the mechanisms of heuristics, this program has paved the way for dual-process theory and bounded rationality, which are crucial for developing more accurate models of decision-making. Its practical implications span various fields, from education to finance, making it essential knowledge for anyone involved in human-centered design or analysis.
 
 The ongoing research into Heuristics and Biases continues to refine our understanding of cognitive biases and their impact on judgment. By addressing open questions such as the long-term effects of these biases and developing effective interventions, we can improve decision-making processes across diverse domains.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from dual-process theory and bounded rationality, Heuristics and Biases offers a nuanced view of human cognition. It highlights the trade-offs between efficiency and accuracy in decision-making, underscoring the importance of recognizing when reliance on heuristics might lead to systematic errors.
 
 ## Connections & Context
 
@@ -136,3 +169,13 @@ The ongoing research into Heuristics and Biases continues to refine our understa
 **Applies to:** [[bounded-rationality]]
 
 **Source:** [[heuristics-and-biases-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[dual-process-theory]]** — *generalizes-to*
+> Dual-process theory provides a broader framework that encompasses the mechanisms underlying heuristics and biases. By distinguishing between fast, intuitive thinking (System 1) and slower, analytical thinking (System 2), dual-process theory helps explain why individuals often rely on heuristics despite their potential for error.
+
+> [!connection] **[[bounded-rationality]]** — *applies-to*
+> Bounded rationality addresses the limitations of human decision-making due to cognitive constraints. Heuristics and Biases elucidate specific mechanisms, such as representativeness and availability heuristics, that contribute to these limitations, thereby enriching our understanding of bounded rationality.

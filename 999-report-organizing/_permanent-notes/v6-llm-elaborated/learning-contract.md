@@ -1,15 +1,14 @@
 ---
-title: "Learning Contract"
+title: Learning Contract
 aliases:
-  - "Learning Contract"
-  - "Curriculum Design for SDL"
-  - "Lifelong Learning Curriculum"
-  - "Self-Directed Learning Curriculum Design"
-  - "SDL Curriculum Architecture"
+  - Learning Contract
+  - Curriculum Design for SDL
+  - Lifelong Learning Curriculum
+  - Self-Directed Learning Curriculum Design
+  - SDL Curriculum Architecture
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,56 +22,56 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19"
+  - curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[heutagogy]]"
-  - "[[inquiry-based-learning]]"
-  - "[[backward-design]]"
+  - '[[heutagogy]]'
+  - '[[inquiry-based-learning]]'
+  - '[[backward-design]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[heutagogy]]"
+  - '[[heutagogy]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[inquiry-based-learning]]"
+  - '[[inquiry-based-learning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[backward-design]]"
+  - '[[backward-design]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Learning Contract
 
@@ -92,6 +91,9 @@ Theoretical roots of Learning Contracts can be traced back to John Dewey and Edg
 
 Empirically, Learning Contracts have been shown to enhance learner autonomy and motivation. For instance, studies indicate that when learners are involved in setting their own goals and strategies, they tend to be more engaged and committed to the learning process. This is supported by empirical evidence from educational settings where students who use Learning Contracts report higher levels of self-efficacy and better academic performance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Learning Contracts not only enhance self-regulation but also foster a sense of autonomy and responsibility in learners, which is crucial for lifelong learning. By actively participating in the goal-setting process, learners are more likely to internalize their objectives and take ownership of their educational outcomes.
+
 ## Mechanism
 
 The negotiation process in a Learning Contract involves several steps: first, the learner identifies their goals and preferences; second, they discuss these with the facilitator to refine them into specific learning objectives; third, strategies for achieving these objectives are developed together; fourth, resources needed for the learning journey are identified; fifth, evidence of accomplishment is agreed upon; and finally, evaluation criteria are established. This structured negotiation ensures that both parties have a clear understanding of what needs to be done and how it will be assessed.
@@ -110,10 +112,28 @@ The negotiation process in a Learning Contract involves several steps: first, th
 > [!example] **Application 4 — Corporate training**
 > In corporate training programs, Learning Contracts allow employees to align their development plans with organizational objectives. This not only enhances individual growth but also contributes to the overall success of the organization by ensuring that training efforts are aligned with business needs.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), Learning Contracts can be adapted to incorporate spaced retrieval techniques. By negotiating specific intervals for review sessions, learners and facilitators can ensure that material is revisited at optimal times for long-term retention.
+
 ## Key Distinctions
 
 > [!key-distinction] **Learning Contracts vs Backward Design**
 > While both Learning Contracts and backward design aim to ensure long-term capacity rather than immediate content mastery, they differ in their approach. Backward design focuses on defining the desired outcomes first and then planning the curriculum to achieve those goals, whereas Learning Contracts involve a more collaborative negotiation process where learners and facilitators co-determine learning objectives and strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Learning Contracts promote reflective thinking by encouraging learners to plan ahead and evaluate their progress. This contrasts with reactive thinking, where actions are taken in response to immediate stimuli without prior planning or reflection.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Learning Contracts mean less guidance from facilitators.
+>
+> Contrary to this belief, Learning Contracts actually enhance the role of facilitators by involving them in a structured negotiation process. This ensures that learners receive tailored support and feedback throughout their learning journey.
 
 ## Key Figures
 
@@ -130,6 +150,13 @@ The negotiation process in a Learning Contract involves several steps: first, th
 > What are the long-term effects of using learning contracts on learners' self-regulatory skills?
 >
 > *What would resolve it:* Longitudinal studies tracking the impact of Learning Contracts over extended periods could provide insights into their lasting benefits and challenges.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do Learning Contracts impact learner motivation over time?
+>
+> *What would resolve it:* Research into the long-term effects of Learning Contracts on intrinsic motivation would help understand how sustained engagement is fostered through negotiated autonomy.
 
 ## Synthesis
 
@@ -148,3 +175,10 @@ The Scaffolding-Sovereignty Progression, as described in this report, underscore
 **Applies to:** [[backward-design]]
 
 **Source:** [[curriculum-design-for-lifelong-learning-and-self-directed-learning-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[backward-design]]** — *applies-to*
+> Learning Contracts apply the principles of backward design by starting with desired outcomes but involve a collaborative negotiation process. This ensures that both learners and facilitators are aligned on goals, strategies, and evaluation criteria.

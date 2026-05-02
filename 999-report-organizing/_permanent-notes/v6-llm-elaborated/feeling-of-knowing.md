@@ -1,16 +1,15 @@
 ---
-title: "Feeling of Knowing"
+title: Feeling of Knowing
 aliases:
-  - "Feeling of Knowing"
-  - "Nelson-Narens Framework"
-  - "Metacognitive Control Framework"
-  - "Two-Level Model of Metacognition"
-  - "Meta-Level Object-Level Model"
-  - "Monitoring-Control Architecture"
+  - Feeling of Knowing
+  - Nelson-Narens Framework
+  - Metacognitive Control Framework
+  - Two-Level Model of Metacognition
+  - Meta-Level Object-Level Model
+  - Monitoring-Control Architecture
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -24,56 +23,56 @@ subdomains:
   - learning-science
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19"
+  - nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Metacognition"
-
+depth-level: enhanced
+parent-concept: Metacognition
 related:
-  - "[[Judgment of Learning (JOL)]]"
-  - "[[Retrospective Confidence Judgments]]"
+  - '[[Judgment of Learning (JOL)]]'
+  - '[[Retrospective Confidence Judgments]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Judgment of Learning (JOL)]]"
-  - "[[Retrospective Confidence Judgments]]"
+  - '[[Judgment of Learning (JOL)]]'
+  - '[[Retrospective Confidence Judgments]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Feeling of Knowing
 
@@ -92,6 +91,9 @@ In practice, FOK plays a crucial role in self-regulated learning by helping indi
 Theoretical roots of FOK trace back to cognitive psychology's exploration of memory and metacognition. It challenges traditional single-level accounts by showing that the meta-level can provide valuable information even when direct retrieval fails. This insight is foundational for understanding how metacognitive judgments operate in complex cognitive processes, particularly in memory management.
 
 Empirically, FOK was first systematically investigated by Joseph T. Hart (1965, 1967), who demonstrated its above-chance predictive validity for subsequent recognition performance. His work established the empirical foundation that later formalized within frameworks like Nelson and Narens' two-level architecture of monitoring and control.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Feeling of Knowing (FOK) is not merely a subjective experience but also serves as an adaptive mechanism in cognitive processing. When individuals fail to retrieve information, the feeling of knowing can prompt them to engage in strategies that enhance future recall or recognition, such as elaborative rehearsal or seeking additional cues. This proactive response underscores FOK's role in self-regulated learning and memory enhancement.
 
 ## Mechanism
 
@@ -116,6 +118,19 @@ FOK operates through a series of cognitive processes. Initially, when an individ
 > [!key-distinction] **FOK vs Retrospective Confidence Judgments**
 > Retrospective confidence judgments follow successful retrieval, assessing how confident one is about their current recall. Unlike these judgments, FOK occurs after a failure to retrieve and predicts future recognition. This difference underscores the unique role of FOK in metacognitive monitoring.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> While both recognition and recall involve accessing stored information, they differ fundamentally in their retrieval processes. Recognition relies on the presence of a cue to trigger memory access, whereas recall requires retrieving information without such cues. FOK is particularly relevant for recognition because it predicts future success with cued retrieval, even after initial failure.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that feeling of knowing accurately reflects the likelihood of successful recall.
+>
+> In reality, FOK is more closely tied to recognition rather than recall. This misconception arises because individuals may confuse their confidence in recognizing information with the ability to retrieve it without cues. Empirical evidence shows that while FOK can predict future recognition success, its accuracy for predicting recall is less consistent.
+
 ## Key Figures
 
 - **Joseph T. Hart** — Joseph T. Hart conducted the first systematic experimental investigation of the feeling of knowing, demonstrating its above-chance predictive validity for subsequent recognition performance. His work established the empirical foundation that later formalized within frameworks like Nelson and Narens' two-level architecture.
@@ -132,11 +147,21 @@ FOK operates through a series of cognitive processes. Initially, when an individ
 >
 > *What would resolve it:* Developing methods to enhance learners' ability to accurately gauge their knowledge state using FOK could lead to more effective study techniques and better academic performance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the feeling of knowing vary across different types of memory tasks?
+>
+> *What would resolve it:* Investigating how FOK manifests in various memory contexts, such as episodic versus semantic recall, could reveal task-specific patterns and inform more targeted learning strategies.
+
 ## Synthesis
 
 The Feeling of Knowing (FOK) is a pivotal concept in cognitive psychology, offering valuable insights into metacognitive processes and memory management. By bridging the gap between retrieval failure and future recognition, FOK enhances self-regulated learning and instructional design. Its empirical foundation, established by Joseph T. Hart's pioneering work, underscores its importance in understanding how learners can better monitor their knowledge state and adjust their strategies accordingly.
 
 Beyond its practical applications, FOK also contributes to broader debates in cognitive science about the nature of metacognition and memory. By challenging traditional single-level accounts, it opens up new avenues for research into neural mechanisms and learning strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By understanding the nuances between recognition and recall, educators can design interventions that leverage FOK to improve learning outcomes. Recognizing when students feel they know information but cannot retrieve it may indicate a need for different study techniques or additional retrieval practice.
 
 ## Connections & Context
 
@@ -145,3 +170,10 @@ Beyond its practical applications, FOK also contributes to broader debates in co
 **Contrasts with:** [[Judgment of Learning (JOL)]] · [[Retrospective Confidence Judgments]]
 
 **Source:** [[nelson-narens-metacognitive-control-framework-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Judgment of Learning (JOL)]]** — *contrasts-with*
+> FOK and JOL both involve metacognitive judgments about memory, but they differ in timing and context. While JOL is a pre-retrieval prediction made before attempting to recall information, FOK occurs after an initial retrieval failure. This distinction highlights that FOK provides unique insights into the post-failure assessment of stored knowledge.

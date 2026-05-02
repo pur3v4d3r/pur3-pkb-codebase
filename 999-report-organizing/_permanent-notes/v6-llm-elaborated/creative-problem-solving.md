@@ -1,13 +1,12 @@
 ---
-title: "Creative Problem-Solving"
+title: Creative Problem-Solving
 aliases:
-  - "Creative Problem-Solving"
-  - "CPS"
-  - "Osborn-Parnes process"
+  - Creative Problem-Solving
+  - CPS
+  - Osborn-Parnes process
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - problem-solving
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "creative-problem-solving-synthetic-seed-2026-04-25"
+  - creative-problem-solving-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[divergent-thinking]]"
-  - "[[lateral-thinking]]"
-  - "[[problem-based-learning]]"
+  - '[[divergent-thinking]]'
+  - '[[lateral-thinking]]'
+  - '[[problem-based-learning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[divergent-thinking]]"
+  - '[[divergent-thinking]]'
 contrasts-with:
-  - "[[lateral-thinking]]"
+  - '[[lateral-thinking]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[problem-based-learning]]"
+  - '[[problem-based-learning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Creative Problem-Solving
 
@@ -88,6 +87,9 @@ The Osborn-Parnes model, developed by Alex Osborn and Sidney Parnes, provides a 
 
 Empirically, studies have shown that Creative Problem-Solving can enhance learning outcomes by fostering productive struggle and failure, which are essential for deep understanding and retention. In professional contexts, it has been linked to increased innovation and problem-solving efficiency.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Creative Problem-Solving (CPS) not only enhances individual creativity but also fosters collaborative innovation by encouraging diverse perspectives and interdisciplinary thinking. This is particularly evident in team settings where members from different backgrounds bring unique insights, leading to more comprehensive problem-solving approaches.
+
 ## Mechanism
 
 The process of Creative Problem-Solving alternates between divergent and convergent thinking at each stage. Divergent thinking is characterized by generating a wide range of ideas without immediate evaluation, while convergent thinking involves narrowing down these ideas to the most viable solutions through critical analysis.
@@ -100,15 +102,36 @@ The process of Creative Problem-Solving alternates between divergent and converg
 > [!example] **Application 2 — Product development**
 > In product development, applying Creative Problem-Solving ensures that teams consider a wide range of potential solutions before narrowing down to the most practical ones. This approach helps in creating innovative products that meet user needs more effectively.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Innovative Curriculum Design**
+> Creative Problem-Solving can revolutionize curriculum design by encouraging educators to think beyond traditional content delivery. By applying CPS, teachers can develop curricula that not only impart knowledge but also nurture students' ability to apply this knowledge creatively in real-world scenarios.
+
 ## Key Distinctions
 
 > [!key-distinction] **Divergent Thinking vs Convergent Thinking**
 > While divergent thinking focuses on generating a wide range of ideas, Creative Problem-Solving integrates both divergence and convergence. Divergence is crucial for ideation, while convergence ensures that only the most viable solutions are selected for implementation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Convergent vs Divergent Thinking**
+> While both types of thinking are integral to Creative Problem-Solving, they serve distinct purposes. Convergent thinking narrows down options by evaluating and selecting the most practical solutions, whereas divergent thinking broadens possibilities by generating a wide range of ideas without immediate judgment. This distinction is crucial as it ensures that CPS processes do not prematurely limit creativity.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Creative Problem-Solving only involves brainstorming.
+>
+> This misconception arises from the superficial understanding of CPS, which often equates it with unstructured brainstorming sessions. In reality, CPS is a structured process that alternates between divergent and convergent thinking phases to systematically generate innovative solutions.
+
 ## Key Figures
 
 - **Alex Osborn** — Co-originator of the Creative Problem-Solving model, Alex Osborn played a pivotal role in developing structured methods to enhance creative production and problem-solving efficiency.
 - **Sidney Parnes** — Alongside Alex Osborn, Sidney Parnes co-developed the Creative Problem-Solving model, providing a framework that alternates divergent and convergent thinking phases to generate innovative solutions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Edward de Bono** — Although not directly involved in developing CPS, Edward de Bono's work on lateral thinking has significantly influenced the field. His emphasis on approaching problems from different angles complements CPS by encouraging creative and unconventional solutions.
 
 ## Open Questions
 
@@ -122,11 +145,21 @@ The process of Creative Problem-Solving alternates between divergent and converg
 >
 > *What would resolve it:* Longitudinal studies tracking students' academic performance and creative thinking skills over several years could provide insights into the lasting impacts of Creative Problem-Solving on learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Creative Problem-Solving impact long-term cognitive flexibility?
+>
+> *What would resolve it:* Longitudinal studies tracking participants' ability to adapt their thinking in novel situations could provide insights into how CPS training influences cognitive flexibility over time, potentially revealing lasting benefits for creative and critical thinking.
+
 ## Synthesis
 
 Creative Problem-Solving is a valuable framework for enhancing creative thinking and innovation across various domains. By integrating divergent and convergent thinking, it provides a structured approach to problem-solving that can be applied in educational settings to foster productive struggle and failure, leading to deeper learning outcomes. In professional environments, it promotes innovation by ensuring that teams consider a wide range of potential solutions before selecting the most practical ones.
 
 This method falls under [[cognitive-architecture]], as it involves systematic cognitive processes designed to enhance creative production toward viable solutions. Its application in problem-based learning frameworks further underscores its importance in fostering engagement and creativity among students.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating structured phases of divergent and convergent thinking, Creative Problem-Solving not only enhances immediate problem-solving efficiency but also cultivates long-term cognitive skills such as adaptability and innovation. This dual focus on both process and outcome makes CPS a versatile tool for fostering creativity across various domains.
 
 ## Connections & Context
 
@@ -139,3 +172,10 @@ This method falls under [[cognitive-architecture]], as it involves systematic co
 **Applies to:** [[problem-based-learning]]
 
 **Source:** [[creative-problem-solving-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[problem-based-learning]]** — *applies-to*
+> Creative Problem-Solving (CPS) is integral to problem-based learning as it provides a structured framework for students to engage deeply with problems, fostering critical thinking and creativity. By applying CPS in educational settings, learners are encouraged to explore multiple solutions before converging on the most viable ones, enhancing both their problem-solving skills and understanding of subject matter.

@@ -1,12 +1,11 @@
 ---
-title: "Groupthink"
+title: Groupthink
 aliases:
-  - "Groupthink"
-  - "Janis groupthink"
+  - Groupthink
+  - Janis groupthink
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - organizational-behavior
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "groupthink-synthetic-seed-2026-04-26"
+  - groupthink-synthetic-seed-2026-04-26
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social Psychology"
-
+depth-level: enhanced
+parent-concept: Social Psychology
 related:
-  - "[[confirmation-bias]]"
-  - "[[Polarization]]"
-  - "[[Dissent-Suppression]]"
+  - '[[confirmation-bias]]'
+  - '[[Polarization]]'
+  - '[[Dissent-Suppression]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[confirmation-bias]]"
+  - '[[confirmation-bias]]'
 contrasts-with:
-  - "[[Polarization]]"
+  - '[[Polarization]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Dissent-Suppression]]"
+  - '[[Dissent-Suppression]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Groupthink
 
@@ -86,6 +85,9 @@ In practice, this dynamic can be observed in various settings such as corporate 
 Theoretical roots of groupthink lie in social psychology, particularly in the work of Irving Janis, who identified several antecedents that can lead to this phenomenon. These include an insulated leader, directive leadership style, and time pressure, which collectively create a high-risk environment for flawed decision-making.
 
 Empirical evidence supports the existence of groupthink through studies showing how cohesive groups often make worse decisions than less cohesive ones. For example, in a study by Janis and Mann (1977), they found that groups with strong cohesion were more likely to engage in premature consensus and suppress dissenting opinions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Groupthink can also manifest in online communities and social media platforms, where echo chambers reinforce shared beliefs and dissenting voices are marginalized or silenced through downvoting or banning mechanisms. This digital environment exacerbates the phenomenon by amplifying confirmation bias and reducing opportunities for exposure to alternative viewpoints.
 
 ## Mechanism
 
@@ -107,6 +109,19 @@ The mechanism of groupthink operates through several stages: initial cohesivenes
 > [!key-distinction] **Groupthink vs Confirmation Bias**
 > While both involve flawed decision-making, groupthink focuses on the suppression of dissent within a cohesive group, whereas confirmation bias is about selectively processing information that supports one's preexisting beliefs. Understanding these differences helps in addressing specific cognitive biases more effectively.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Groupthink often leads to reactive thinking, where individuals quickly align with group norms without deep reflection. In contrast, reflective thinking involves deliberate consideration of alternatives and potential consequences, which is crucial for avoiding the pitfalls of groupthink.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that groupthink only affects small groups.
+>
+> Groupthink can occur in any sizeable cohesive group where there's a strong desire to maintain harmony and avoid conflict. Larger organizations may even be more susceptible due to complex hierarchies and the diffusion of responsibility, making it easier for dissenting voices to go unheard.
+
 ## Key Figures
 
 - **Irving Janis** — Janis is credited with the foundational theory of groupthink, identifying its antecedents and symptoms through extensive research and case studies, particularly during his work at Yale University in the 1970s.
@@ -123,11 +138,21 @@ The mechanism of groupthink operates through several stages: initial cohesivenes
 >
 > *What would resolve it:* A comprehensive reevaluation of the model's components, including its antecedents and symptoms, through modern psychological studies would help determine its current validity.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the digital age influence the occurrence of groupthink?
+>
+> *What would resolve it:* Research into online behavior and echo chambers could provide insights into how modern communication tools affect group cohesion and decision-making processes, potentially revealing new strategies to mitigate groupthink in virtual environments.
+
 ## Synthesis
 
 Understanding groupthink is crucial for improving decision-making processes across various domains. By recognizing how cohesion can lead to flawed consensus, organizations can implement strategies to encourage open communication and critical thinking. This concept intersects with other social psychology phenomena like confirmation bias and polarization, highlighting the broader implications of cognitive biases in group settings.
 
 The study of groupthink also has significant implications for fields such as education, where fostering a culture of open dialogue is essential for effective instructional design. In military and political contexts, recognizing the signs of groupthink can prevent disastrous decisions that could have been avoided with more diverse perspectives.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The study of groupthink underscores the importance of fostering an environment where diverse perspectives are valued and dissent is encouraged. This not only enhances decision quality but also promotes a culture of critical thinking and innovation across various domains, from education to corporate strategy.
 
 ## Connections & Context
 
@@ -140,3 +165,10 @@ The study of groupthink also has significant implications for fields such as edu
 **Applies to:** [[Dissent-Suppression]]
 
 **Source:** [[groupthink-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Polarization]]** — *contrasts-with*
+> While groupthink involves a cohesive group suppressing dissent to maintain harmony, polarization occurs when groups become increasingly divided and hostile towards each other. Understanding both concepts helps in recognizing how different social dynamics can lead to either consensus-driven errors or extreme ideological divisions.

@@ -1,14 +1,13 @@
 ---
-title: "Comprehension Monitoring"
+title: Comprehension Monitoring
 aliases:
-  - "Comprehension Monitoring"
-  - "Metacognitive Reading"
-  - "Comprehension Monitoring and Reading"
-  - "Reading as Monitored Comprehension"
+  - Comprehension Monitoring
+  - Metacognitive Reading
+  - Comprehension Monitoring and Reading
+  - Reading as Monitored Comprehension
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,55 @@ subdomains:
   - personal-knowledge-management
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "metacognition-and-reading-foundational-report-2026-04-20"
+  - metacognition-and-reading-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Metacognition"
-
+depth-level: enhanced
+parent-concept: Metacognition
 related:
-  - "[[working-memory]]"
-  - "[[cognitive-load-theory]]"
+  - '[[working-memory]]'
+  - '[[cognitive-load-theory]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[cognitive-load-theory]]"
+  - '[[cognitive-load-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Comprehension Monitoring
 
@@ -89,6 +88,9 @@ Theoretical roots of comprehension monitoring can be traced back to Walter Kints
 
 Empirical evidence from studies by Baker and others has shown that failures in comprehension monitoring are among the most extensively documented metacognitive reading failures. These findings highlight the importance of developing effective fix-up strategies to address these breakdowns, such as rereading or summarization, which can help restore understanding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Comprehension monitoring is not merely a passive process but an active one, involving strategic adjustments in reading behavior based on ongoing assessments of comprehension. For instance, when readers encounter complex or unfamiliar information, they may slow down their reading pace, reread sections, or engage in self-explanation to ensure understanding. This dynamic interplay between metacognitive monitoring and cognitive processing underscores the complexity of reading as an interactive process.
+
 ## Mechanism
 
 The process of applying standards of coherence is not static but dynamic and context-dependent. Readers adjust their criteria based on the complexity of the text and their own comprehension level. For instance, when encountering a difficult sentence, readers might engage in self-explanation or summarization to test whether they have integrated the information correctly.
@@ -106,6 +108,19 @@ The process of applying standards of coherence is not static but dynamic and con
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While intrinsic load refers to the inherent difficulty of a task, extraneous load pertains to how information is presented. Comprehension monitoring focuses on metacognitive regulation during reading rather than the cognitive resources required by the text itself.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate review and analysis, whereas reactive thinking is immediate and automatic. In comprehension monitoring, reflective thinking allows readers to pause and assess their understanding critically, while reactive thinking enables quick adjustments in reading strategies when comprehension breaks down. This distinction highlights the dual nature of metacognitive processes during reading.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Comprehension monitoring is only about detecting errors.
+>
+> While identifying breakdowns in understanding is crucial, comprehension monitoring also involves proactive strategies to enhance and maintain comprehension. This includes predicting content, summarizing information, and integrating new knowledge with existing schemas.
+
 ## Key Figures
 
 - **Linda Baker** — Educational psychologist whose research established the standards-of-coherence framework, providing a conceptual apparatus for understanding how readers evaluate their developing comprehension.
@@ -117,6 +132,13 @@ The process of applying standards of coherence is not static but dynamic and con
 > How can we better support less skilled readers in applying appropriate standards of coherence?
 >
 > *What would resolve it:* Further research on the cognitive mechanisms underlying standard-of-coherence application and interventions that target these processes could provide insights into how to improve comprehension monitoring skills.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does individual variability in metacognitive skills affect the effectiveness of comprehension monitoring?
+>
+> *What would resolve it:* Understanding how different individuals apply and benefit from comprehension monitoring strategies could inform personalized educational interventions, tailoring support to meet diverse learning needs.
 
 ## Synthesis
 
@@ -131,3 +153,10 @@ Comprehension monitoring is a vital component of skilled metacognitive reading, 
 **Contrasts with:** [[cognitive-load-theory]]
 
 **Source:** [[metacognition-and-reading-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is essential for comprehension monitoring as it temporarily holds and manipulates the information being read. Without sufficient working memory capacity, readers may struggle to maintain and evaluate their developing understanding effectively.

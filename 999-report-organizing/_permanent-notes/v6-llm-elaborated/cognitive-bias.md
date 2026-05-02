@@ -1,13 +1,12 @@
 ---
-title: "Cognitive Bias"
+title: Cognitive Bias
 aliases:
-  - "Cognitive Bias"
-  - "systematic bias"
-  - "judgment bias"
+  - Cognitive Bias
+  - systematic bias
+  - judgment bias
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - behavioural-economics
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "cognitive-bias-synthetic-seed-2026-04-24"
+  - cognitive-bias-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[type-1-processing]]"
-  - "[[dual-process-theory]]"
-  - "[[heuristics-and-biases]]"
+  - '[[type-1-processing]]'
+  - '[[dual-process-theory]]'
+  - '[[heuristics-and-biases]]'
 prerequisites:
-  - "[[type-1-processing]]"
+  - '[[type-1-processing]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[dual-process-theory]]"
+  - '[[dual-process-theory]]'
 see-also:
-  - "[[heuristics-and-biases]]"
+  - '[[heuristics-and-biases]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Cognitive Bias
 
@@ -88,6 +87,9 @@ Theoretical roots of Cognitive Bias lie in cognitive psychology, particularly in
 
 Empirical evidence from heuristics and biases research shows that mere awareness of a Cognitive Bias does not reliably reduce its operation. Knowing about a bias does not automatically lead to better decision-making unless specific procedural countermeasures are employed. This is why so-called 'bias training' programs, which often focus solely on teaching the names of biases without providing practical strategies for mitigation, rarely improve decisions in real-world scenarios.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Cognitive Bias is not merely a psychological curiosity but has profound implications for societal and individual decision-making processes. For instance, the confirmation bias, which leads individuals to favor information that confirms their preexisting beliefs while disregarding contradictory evidence, can perpetuate misinformation and hinder scientific progress. This bias operates at both personal and collective levels, influencing everything from political opinions to medical diagnoses.
+
 ## Mechanism
 
 Cognitive Bias arises from the operation of type-1 processing heuristics. These heuristics are mental shortcuts that help us make quick judgments and decisions but can lead to systematic errors when they do not align with the ecological validity of the situation. For example, the anchoring heuristic causes individuals to rely heavily on an initial piece of information (the 'anchor') even if it is irrelevant or misleading. This can skew subsequent judgments and decisions in ways that are difficult to correct without explicit procedural countermeasures.
@@ -100,10 +102,28 @@ Cognitive Bias arises from the operation of type-1 processing heuristics. These 
 > [!example] **Application 2 — Marketing**
 > In marketing, Cognitive Bias plays a significant role in consumer behavior. Marketers often exploit heuristics like the bandwagon effect (the tendency to do what others are doing) and the scarcity heuristic (perceiving something as more valuable when it is rare or limited). By understanding these biases, marketers can design campaigns that effectively influence consumer decisions. However, recognizing these biases also allows consumers to be more critical of marketing tactics and make more informed choices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can mitigate the impact of cognitive biases by reinforcing learning through repeated exposure over time. For example, if a course aims to teach students about the anchoring bias, incorporating spaced quizzes that gradually increase in difficulty and cover different aspects of the topic can help counteract this bias more effectively than cramming all information into one session.
+
 ## Key Distinctions
 
 > [!key-distinction] **Cognitive Bias vs Error**
 > While Cognitive Bias refers to systematic deviations in judgment or decision-making that arise from heuristics, error is a broader term encompassing both random and systematic mistakes. Cognitive Bias specifically requires evidence of specific heuristics operating under conditions where their ecological validity is low, whereas errors can be due to various factors including lack of knowledge or attentional lapses.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate, conscious consideration of a problem or decision, often requiring effortful cognitive processes. In contrast, reactive thinking is quick and automatic, relying on heuristics that can lead to biases. Understanding this distinction helps in recognizing when decisions are likely to be influenced by cognitive biases due to the reliance on fast, intuitive processing.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that being aware of a bias is enough to eliminate it.
+>
+> Awareness alone does not mitigate cognitive biases because these biases are deeply ingrained in our mental processes. Effective debiasing requires active strategies such as deliberate practice, critical thinking exercises, and the use of decision aids. Simply knowing about a bias often fails to change behavior unless accompanied by specific interventions that challenge or circumvent the heuristic.
 
 ## Key Figures
 
@@ -122,11 +142,21 @@ Cognitive Bias arises from the operation of type-1 processing heuristics. These 
 >
 > *What would resolve it:* Understanding the limits of debiasing techniques requires investigating whether certain biases are more resistant to intervention than others. Research that examines the conditions under which biases persist despite interventions could help identify these limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can cognitive biases be effectively mitigated in real-world settings?
+>
+> *What would resolve it:* Empirical studies comparing various debiasing techniques across different contexts would provide valuable insights. For instance, research could explore the effectiveness of training programs that teach individuals to recognize and counteract specific biases versus those that focus on improving general critical thinking skills.
+
 ## Synthesis
 
 Understanding Cognitive Bias is crucial for improving decision-making processes across various domains, including cognitive psychology, marketing, and instructional design. By recognizing how heuristics can lead to systematic errors, individuals and organizations can develop strategies to mitigate these biases. This not only enhances the accuracy of judgments but also promotes more rational and informed decision-making. The insights gained from studying Cognitive Bias contribute to a broader understanding of human cognition and behavior, which is essential for advancing fields such as cognitive science, behavioral economics, and organizational psychology.
 
 Cognitive Bias intersects with other related concepts like heuristics and dual process theory, providing a rich framework for analyzing judgment and decision-making. By integrating these insights, researchers can develop more effective interventions to improve cognitive forcing functions and mindware, ultimately leading to better outcomes in real-world scenarios.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding cognitive biases is crucial for enhancing decision-making in various fields such as psychology, economics, and education. By recognizing how heuristics can lead to systematic errors, we can develop strategies to mitigate these biases, leading to more accurate judgments and better outcomes.
 
 ## Connections & Context
 
@@ -139,3 +169,10 @@ Cognitive Bias intersects with other related concepts like heuristics and dual p
 **Sibling concepts:** [[heuristics-and-biases]]
 
 **Source:** [[cognitive-bias-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[dual-process-theory]]** — *generalizes-to*
+> Dual-Process Theory provides a framework for understanding how cognitive biases arise from System 1 (fast, intuitive) and System 2 (slow, deliberative) thinking processes. Cognitive Bias often emerges when System 1 heuristics are overused or misapplied in contexts where they do not align with the task requirements, highlighting the importance of balancing both systems for optimal decision-making.

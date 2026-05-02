@@ -1,15 +1,14 @@
 ---
-title: "Intention-Behavior Gap"
+title: Intention-Behavior Gap
 aliases:
-  - "Intention-Behavior Gap"
-  - "Implementation Intentions"
-  - "If-Then Plans"
-  - "Gollwitzer Implementation Intentions"
-  - "II Plans"
+  - Intention-Behavior Gap
+  - Implementation Intentions
+  - If-Then Plans
+  - Gollwitzer Implementation Intentions
+  - II Plans
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,58 +21,58 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "implementation-intentions-gollwitzer-foundational-report-2026-04-20"
+  - implementation-intentions-gollwitzer-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[goal-intention]]"
-  - "[[mental-contrasting]]"
-  - "[[theory-of-planned-behavior]]"
-  - "[[automaticity]]"
+  - '[[goal-intention]]'
+  - '[[mental-contrasting]]'
+  - '[[theory-of-planned-behavior]]'
+  - '[[automaticity]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[goal-intention]]"
-  - "[[mental-contrasting]]"
+  - '[[goal-intention]]'
+  - '[[mental-contrasting]]'
 contrasts-with:
-  - "[[theory-of-planned-behavior]]"
+  - '[[theory-of-planned-behavior]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[automaticity]]"
+  - '[[automaticity]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Intention-Behavior Gap
 
@@ -93,6 +92,9 @@ Theoretical roots of this gap lie in volitional psychology and self-regulated le
 
 Empirically, this phenomenon has been documented across various domains, from academic performance to health behaviors. Meta-analytic estimates consistently show that while intentions play a crucial role in predicting behavior, they do not fully account for actual outcomes. This gap motivates the development of implementation intentions as a solution.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Intention-Behavior Gap is not merely a psychological curiosity but has profound implications for personal and organizational behavior change initiatives. For instance, in corporate settings, employees may have strong intentions to adopt new work practices or technologies, yet fail to do so consistently due to the gap. This phenomenon underscores the importance of designing interventions that bridge this gap effectively.
+
 ## Mechanism
 
 Implementation intentions are designed to address several failure modes simultaneously by intervening at the moment of action initiation rather than at upstream motivational variables. These intentions specify when and where an intended behavior will occur, thereby reducing the likelihood of forgetting or distraction. For example, if someone intends to exercise but often forgets due to a busy schedule, they might set up an implementation intention like 'When I wake up tomorrow morning, I will put on my workout clothes.' This specific plan helps ensure that the action is initiated at the right time.
@@ -108,10 +110,28 @@ Implementation intentions are designed to address several failure modes simultan
 > [!example] **Application 3 — Workplace productivity**
 > In workplace settings, implementation intentions can enhance productivity by reducing distractions and ensuring tasks are completed on schedule. For example, an employee might set up an intention to 'Before starting my next meeting, I will finish this report.' This specific plan helps ensure that the task is prioritized and completed before other interruptions arise.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can help mitigate the Intention-Behavior Gap by encouraging learners to revisit material at increasing intervals. This approach leverages the psychological principle that distributed practice enhances long-term retention and recall, thereby supporting students' intentions to retain knowledge over time.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Intention-Behavior Gap differs from intrinsic versus extraneous load, which focuses on cognitive resources required for a task. While the gap deals with the transition from intention to action, load theory addresses how much mental effort is needed to perform a specific behavior. Understanding these distinctions helps in designing interventions that target both motivational and cognitive aspects of behavior change.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's actions and goals, whereas reactive thinking is immediate and often automatic. The Intention-Behavior Gap can be seen as a failure in reflective thinking when individuals fail to translate their intentions into action due to reactive impulses or distractions. Implementation intentions help bridge this gap by prompting reflective thought at critical moments.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that strong intentions are enough to ensure behavior change.
+>
+> This misconception overlooks the complexity of translating intentions into actions. Strong intentions alone do not guarantee behavior change due to various cognitive and environmental factors. Understanding these barriers is crucial for developing effective strategies to bridge the Intention-Behavior Gap.
 
 ## Key Figures
 
@@ -129,11 +149,21 @@ Implementation intentions are designed to address several failure modes simultan
 >
 > *What would resolve it:* Research examining the application of implementation intentions to multifaceted behaviors, such as managing chronic conditions or engaging in multiple health-promoting activities simultaneously, would clarify their effectiveness.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can technology be leveraged to reduce the Intention-Behavior Gap?
+>
+> *What would resolve it:* Research into digital nudges, reminders, and gamification techniques could provide insights into how technology can support individuals in bridging this gap by making it easier to execute their intentions.
+
 ## Synthesis
 
 Understanding the Intention-Behavior Gap is crucial for self-regulated learning and behavior change because it highlights the limitations of relying solely on intentions. By recognizing this gap, educators, healthcare providers, and organizational leaders can develop more effective strategies to bridge the intention-action divide. This concept also intersects with related theories like goal-intention and automaticity, enriching our understanding of how individuals manage their goals over time.
 
 The Intention-Behavior Gap underscores the importance of specific action plans in achieving desired behaviors. By integrating implementation intentions into daily routines, individuals can overcome common barriers to behavior change, leading to more consistent and effective outcomes across various domains.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Addressing the Intention-Behavior Gap requires a multifaceted approach that integrates motivational strategies with practical tools like implementation intentions. By understanding and leveraging these mechanisms, educators, therapists, and organizational leaders can design more effective interventions for behavior change.
 
 ## Connections & Context
 
@@ -146,3 +176,10 @@ The Intention-Behavior Gap underscores the importance of specific action plans i
 **Applies to:** [[automaticity]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[theory-of-planned-behavior]]** — *contrasts-with*
+> While the Theory of Planned Behavior (TPB) posits that attitudes, subjective norms, and perceived behavioral control predict intentions, it does not fully account for why these strong intentions do not always translate into behavior. The Intention-Behavior Gap highlights additional factors such as attentional distraction and competing impulses that TPB does not address.

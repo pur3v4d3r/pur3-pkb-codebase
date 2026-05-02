@@ -1,12 +1,11 @@
 ---
-title: "Mental Causation"
+title: Mental Causation
 aliases:
-  - "Mental Causation"
-  - "mind-body causation problem"
+  - Mental Causation
+  - mind-body causation problem
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,58 +17,58 @@ subdomains:
   - metaphysics
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "mental-causation-synthetic-seed-2026-04-25"
+  - mental-causation-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Philosophy of Mind"
-
+depth-level: enhanced
+parent-concept: Philosophy of Mind
 related:
-  - "[[Non-Reductive Physicalism]]"
-  - "[[mind-body-problem]]"
-  - "[[Epiphenomenalism]]"
-  - "[[Supervenience]]"
+  - '[[Non-Reductive Physicalism]]'
+  - '[[mind-body-problem]]'
+  - '[[Epiphenomenalism]]'
+  - '[[Supervenience]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Non-Reductive Physicalism]]"
+  - '[[Non-Reductive Physicalism]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[mind-body-problem]]"
-  - "[[Epiphenomenalism]]"
+  - '[[mind-body-problem]]'
+  - '[[Epiphenomenalism]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Supervenience]]"
+  - '[[Supervenience]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Mental Causation
 
@@ -89,6 +88,9 @@ Theoretical roots and conceptual nuances of Mental Causation are deeply intertwi
 
 Historically, Mental Causation has been a central issue in the philosophy of mind. It is not just an abstract concern but one with practical implications for understanding human behavior and the nature of reality. For instance, if mental states cannot causally influence physical events, it raises questions about free will and the extent to which we can be held responsible for our actions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The debate over mental causation is not merely academic; it has profound implications for how we understand human agency and moral responsibility. If mental states cannot cause physical actions, then the traditional notion of free will as a capacity to make choices based on one's beliefs and desires becomes problematic. This raises ethical questions about culpability in legal contexts and personal accountability in everyday life.
+
 ## Mechanism
 
 Jaegwon Kim's exclusion problem provides a concrete mechanism by which Mental Causation is sharpened. If every physical effect has a sufficient physical cause, then mental states that are not identical to those causes appear either redundant or excluded. This trilemma drives much of contemporary non-reductive physicalism and remains a live constraint on theories of mind.
@@ -104,10 +106,28 @@ Jaegwon Kim's exclusion problem provides a concrete mechanism by which Mental Ca
 > [!example] **Application 3 — Neuroscience**
 > In neuroscience, Mental Causation is relevant to understanding the relationship between brain activity and behavior. If mental states are not causally efficacious, then neuroscientific explanations of behavior might be seen as complete without reference to mental states. However, if mental states can influence physical events, this opens up new avenues for research into the neural correlates of consciousness.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques are used to enhance learning by spacing out study sessions over time. Understanding mental causation is crucial here because it informs whether the mental effort of recalling information at spaced intervals can effectively reinforce memory and lead to better long-term retention. If mental states are causally efficacious, then engaging students in active recall through spaced practice should yield tangible benefits.
+
 ## Key Distinctions
 
 > [!key-distinction] **Epiphenomenalism vs Non-Reductive Physicalism**
 > Epiphenomenalism posits that mental states are causally inert and have no effect on physical events, while non-reductive physicalism argues that mental states can influence physical events without being identical to them. The key distinction lies in whether mental states are causally efficacious or not.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis of information, often leading to well-reasoned decisions. In contrast, reactive thinking is immediate and automatic, driven by instinct or habit. The distinction between these types of thinking matters for mental causation because it highlights different ways in which mental states can influence behavior. Reflective thoughts may lead to more controlled actions, whereas reactive thoughts might result in quicker but less considered responses.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that if mental events cause physical ones, they must be identical to them.
+>
+> This misconception arises from a misunderstanding of the non-reductive physicalist stance. Non-reductive physicalism posits that mental states can influence physical processes without being reducible to or identical with those processes. This view allows for mental causation while maintaining the distinction between mental and physical realms, addressing concerns about epiphenomenalism.
 
 ## Key Figures
 
@@ -125,11 +145,21 @@ Jaegwon Kim's exclusion problem provides a concrete mechanism by which Mental Ca
 >
 > *What would resolve it:* Evidence from neuroscience and psychology that shows a clear causal link between mental states and physical events without invoking identity would help resolve this question.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do different theories of consciousness address the problem of mental causation?
+>
+> *What would resolve it:* Exploring how various theories of consciousness, such as panpsychism or integrated information theory, account for mental causation could provide new insights into resolving the trilemma posed by causal closure and supervenience. Evidence from neuroscience and cognitive science may help identify mechanisms that bridge the gap between mental and physical realms.
+
 ## Synthesis
 
 Understanding Mental Causation is crucial for developing comprehensive theories of mind and consciousness because it addresses the fundamental issue of how mental states can influence physical events. This concept intersects with broader debates in philosophy, including free will, consciousness, and the nature of reality. By exploring Mental Causation, philosophers contribute to a deeper understanding of human behavior and the complex interplay between the mental and physical realms.
 
 Mental Causation also has practical implications for fields such as instructional design, legal responsibility, and neuroscience. It challenges us to rethink our assumptions about free will and responsibility, and it drives new research into the neural correlates of consciousness. Thus, resolving questions around Mental Causation is not just a theoretical exercise but has significant real-world applications.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding mental causation is pivotal not only for philosophical debates but also for practical applications in fields like education, law, and artificial intelligence. It challenges us to rethink fundamental assumptions about human agency and the nature of reality, pushing the boundaries of our understanding of mind-body interaction.
 
 ## Connections & Context
 
@@ -142,3 +172,10 @@ Mental Causation also has practical implications for fields such as instructiona
 **Applies to:** [[Supervenience]]
 
 **Source:** [[mental-causation-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Supervenience]]** — *applies-to*
+> The principle of supervenience is crucial to understanding how mental causation operates within the physical domain. Supervenience posits that any change in the mental realm must be accompanied by a corresponding change in the physical realm, yet it does not imply identity between mental and physical states. This relationship underpins discussions about mental causation by delineating the boundaries within which mental events can exert causal influence.

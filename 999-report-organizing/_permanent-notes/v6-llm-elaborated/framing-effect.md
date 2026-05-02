@@ -1,14 +1,13 @@
 ---
-title: "Framing Effect"
+title: Framing Effect
 aliases:
-  - "Framing Effect"
-  - "framing bias"
-  - "attribute framing"
-  - "risky choice framing"
+  - Framing Effect
+  - framing bias
+  - attribute framing
+  - risky choice framing
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,57 @@ subdomains:
   - behavioral-economics
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "framing-effect-synthetic-seed-2026-04-25"
+  - framing-effect-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[anchoring-bias]]"
-  - "[[sunk-cost-fallacy]]"
-  - "[[prospect-theory]]"
+  - '[[anchoring-bias]]'
+  - '[[sunk-cost-fallacy]]'
+  - '[[prospect-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[anchoring-bias]]"
-  - "[[sunk-cost-fallacy]]"
+  - '[[anchoring-bias]]'
+  - '[[sunk-cost-fallacy]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[prospect-theory]]"
+  - '[[prospect-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Framing Effect
 
@@ -90,6 +89,9 @@ Theoretical roots of the Framing Effect can be traced back to prospect theory, w
 
 Empirical evidence supporting the Framing Effect comes from numerous studies, including Tversky and Kahneman's original Asian disease problem. These experiments demonstrate that people’s preferences are not stable but shift based on how problems are presented, indicating that reference-dependent value functions play a crucial role in decision-making.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Framing Effect not only influences individual decision-making but also shapes collective behaviors and societal norms. For example, in financial markets, the way economic news is framed can sway investor sentiment and trading decisions, leading to market volatility. Similarly, political messaging often employs framing strategies to influence public opinion on policy issues, demonstrating how cognitive biases like the Framing Effect can have far-reaching consequences beyond individual choices.
+
 ## Mechanism
 
 The Framing Effect operates through the cognitive processes of reference points and value functions. When a problem is framed as a gain, individuals tend to focus on avoiding losses, leading to risk-averse behavior. Conversely, when framed as a loss, people are more likely to take risks in an attempt to avoid further negative outcomes.
@@ -105,10 +107,28 @@ The Framing Effect operates through the cognitive processes of reference points 
 > [!example] **Application 3 — Policy design**
 > In policy design, the Framing Effect can be applied to improve public health initiatives. For example, framing vaccination campaigns as a gain (e.g., protecting oneself and others from diseases) rather than a loss (e.g., risking infection) can increase participation rates.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Healthcare Communication**
+> In healthcare communication, the Framing Effect can be leveraged to improve patient compliance with medical advice. For instance, framing a medication regimen as a gain (e.g., enhancing quality of life) rather than a loss (e.g., avoiding illness) may increase adherence rates. This application underscores the importance of understanding how different framings can influence health behaviors and outcomes.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While the Framing Effect involves how problems are presented, intrinsic load refers to the inherent difficulty of the task itself. The key distinction is that framing manipulates the presentation of choices rather than altering the cognitive demands of the task.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> The Framing Effect is closely tied to top-down processing, where higher-level cognitive schemas guide perception and decision-making. In contrast, bottom-up processing relies on sensory input to shape perceptions without the influence of pre-existing knowledge or context. The distinction matters because it highlights how framing manipulates higher-order cognitive processes rather than direct sensory inputs.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that the Framing Effect only applies in emotionally charged situations.
+>
+> The misconception arises from the belief that framing influences decisions primarily through emotional responses. However, empirical evidence shows that even in neutral contexts, individuals can be swayed by how information is presented. This highlights the pervasive nature of cognitive biases and their influence on decision-making across various scenarios.
 
 ## Key Figures
 
@@ -127,11 +147,21 @@ The Framing Effect operates through the cognitive processes of reference points 
 >
 > *What would resolve it:* Further experimental studies exploring how and when individuals rely on reference points versus absolute outcomes would help clarify these limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence susceptibility to the Framing Effect?
+>
+> *What would resolve it:* Cross-cultural studies would help resolve this question by examining how different societal values and norms affect individuals' sensitivity to framing manipulations. Understanding these variations could inform more culturally sensitive approaches in fields like marketing, policy design, and education.
+
 ## Synthesis
 
 Understanding the Framing Effect is crucial for decision-making because it reveals that choices are not always rational or stable but can be significantly influenced by context. This concept has profound implications across cognitive science, economics, and psychology, challenging traditional views of human behavior and decision processes.
 
 The Framing Effect also highlights the importance of framing in various fields such as marketing, policy design, and instructional design. By recognizing how different framings can influence choices, practitioners can make more informed decisions that align with intended outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Framing Effect underscores the critical role of context in decision-making processes, challenging traditional views that emphasize objective reasoning over subjective perception. By recognizing how framing influences choices, researchers and practitioners can develop more effective strategies to enhance rationality and align decisions with intended outcomes across various domains.
 
 ## Connections & Context
 
@@ -142,3 +172,10 @@ The Framing Effect also highlights the importance of framing in various fields s
 **Supports:** [[prospect-theory]]
 
 **Source:** [[framing-effect-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[prospect-theory]]** — *supports*
+> Prospect theory provides a theoretical framework that explains why individuals are more sensitive to losses than gains, which underlies the Framing Effect. By understanding how reference points and value functions operate within prospect theory, one can better predict and mitigate framing biases in decision-making processes.

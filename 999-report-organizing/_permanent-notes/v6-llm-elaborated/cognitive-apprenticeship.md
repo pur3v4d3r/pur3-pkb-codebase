@@ -1,12 +1,11 @@
 ---
-title: "Cognitive Apprenticeship"
+title: Cognitive Apprenticeship
 aliases:
-  - "Cognitive Apprenticeship"
-  - "Collins-Brown-Holum cognitive apprenticeship"
+  - Cognitive Apprenticeship
+  - Collins-Brown-Holum cognitive apprenticeship
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,56 +17,56 @@ subdomains:
   - instructional-method
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "cognitive-apprenticeship-synthetic-seed-2026-04-25"
+  - cognitive-apprenticeship-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Design"
-
+depth-level: enhanced
+parent-concept: Instructional Design
 related:
-  - "[[scaffolding]]"
-  - "[[worked-examples]]"
+  - '[[scaffolding]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[scaffolding]]"
-  - "[[worked-examples]]"
+  - '[[scaffolding]]'
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Cognitive Apprenticeship
 
@@ -87,6 +86,9 @@ Theoretical roots of Cognitive Apprenticeship lie in the Zone of Proximal Develo
 
 Empirical evidence supports the effectiveness of Cognitive Apprenticeship, particularly in fields like mathematics and problem-solving. Studies have shown that learners who engage in this framework demonstrate improved understanding and retention of complex cognitive skills compared to traditional instructional methods.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Cognitive Apprenticeship not only enhances learning through direct observation and interaction with experts but also fosters a deeper understanding of the cognitive processes involved in problem-solving and critical thinking. This approach encourages learners to engage actively, promoting metacognition—the ability to think about one's own thought processes—which is crucial for developing expertise in any field.
+
 ## Mechanism
 
 Cognitive Apprenticeship's distinctive mechanism involves making expert thinking visible through articulation: cognitive skills, unlike physical craft skills, cannot be observed by the learner unless the expert is required to externalize the reasoning. This is achieved through think-aloud protocols and worked solutions, where experts verbalize their thought processes step-by-step.
@@ -102,6 +104,11 @@ Cognitive Apprenticeship's distinctive mechanism involves making expert thinking
 > [!example] **Application 3 — Online learning**
 > While primarily designed for face-to-face interactions, Cognitive Apprenticeship can be adapted for online settings through video tutorials and interactive chat sessions where experts provide real-time feedback and explanations. This adaptation requires careful design to maintain the structured sequence of modeling, coaching, and reflection.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), Cognitive Apprenticeship can be adapted by incorporating spaced retrieval techniques. By revisiting and practicing cognitive skills at increasing intervals, learners reinforce their understanding over time. This method leverages the benefits of distributed practice to enhance long-term retention and transfer of knowledge.
+
 ## Key Distinctions
 
 > [!key-distinction] **Explicit vs Implicit Instruction**
@@ -109,6 +116,19 @@ Cognitive Apprenticeship's distinctive mechanism involves making expert thinking
 
 > [!key-distinction] **Tacit vs Explicit Knowledge**
 > Cognitive Apprenticeship is not about tacit transmission but rather explicit teaching of cognitive skills. Unlike discovery learning, which encourages learners to discover knowledge independently, Cognitive Apprenticeship provides structured guidance and support to ensure that learners acquire the necessary mental strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Cognitive Apprenticeship emphasizes reflective thinking by encouraging learners to articulate their thought processes and reflect on their problem-solving strategies. This contrasts with reactive thinking, which is more immediate and less deliberate. Reflective thinking allows for deeper understanding and adjustment of cognitive skills, making it a key component in the development of expertise.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Cognitive Apprenticeship only applies to classroom settings.
+>
+> While Cognitive Apprenticeship was initially developed for educational contexts, its principles are widely applicable beyond traditional classrooms. For instance, in professional development programs or workplace training, experts can model and coach cognitive skills relevant to specific job roles, making it a versatile framework for skill acquisition across various domains.
 
 ## Key Figures
 
@@ -134,6 +154,9 @@ Cognitive Apprenticeship is a significant contribution to instructional design b
 
 Beyond its immediate impact on teaching practices, Cognitive Apprenticeship also has broader implications for educational psychology. By emphasizing explicit instruction and reflective practice, it challenges traditional views on learning and offers new strategies for educators to support students in developing deep understanding of complex concepts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating elements such as modeling, coaching, and scaffolding, Cognitive Apprenticeship creates a dynamic learning environment where cognitive skills are not only taught but also practiced and refined. This holistic approach is particularly effective in complex domains where the ability to think critically and solve problems is paramount.
+
 ## Connections & Context
 
 **Falls under:** [[instructional-design]]
@@ -141,3 +164,10 @@ Beyond its immediate impact on teaching practices, Cognitive Apprenticeship also
 **Applies to:** [[scaffolding]] · [[worked-examples]]
 
 **Source:** [[cognitive-apprenticeship-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[scaffolding]]** — *applies-to*
+> Cognitive Apprenticeship and scaffolding are closely intertwined as both involve providing structured support to learners. Scaffolding in Cognitive Apprenticeship is used to gradually reduce the level of assistance as learners become more competent, ensuring that they can eventually perform tasks independently.

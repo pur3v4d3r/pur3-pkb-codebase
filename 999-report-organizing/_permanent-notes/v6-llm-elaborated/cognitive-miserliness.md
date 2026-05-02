@@ -1,15 +1,14 @@
 ---
-title: "Cognitive Miserliness"
+title: Cognitive Miserliness
 aliases:
-  - "Cognitive Miserliness"
-  - "Dual Process Theory"
-  - "Two Systems Theory"
-  - "System 1 and System 2"
-  - "Kahneman's Dual Process Framework"
+  - Cognitive Miserliness
+  - Dual Process Theory
+  - Two Systems Theory
+  - System 1 and System 2
+  - Kahneman's Dual Process Framework
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20"
+  - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[heuristics-and-biases]]"
+  - '[[working-memory]]'
+  - '[[heuristics-and-biases]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[heuristics-and-biases]]"
+  - '[[heuristics-and-biases]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Cognitive Miserliness
 
@@ -90,6 +89,9 @@ Theoretical roots of cognitive miserliness are deeply embedded in dual-process t
 
 Empirical evidence supports this concept through studies showing that people frequently rely on heuristics in decision-making, even when these heuristics can lead to systematic biases. For example, the availability heuristic, where individuals make judgments based on how easily examples come to mind, is a common manifestation of cognitive miserliness.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Cognitive miserliness is not merely a passive trait but an active strategy employed by the brain to optimize resource allocation. This strategy allows for rapid decision-making in environments where quick responses can be life-saving, such as avoiding predators or seizing opportunities. However, this same mechanism can lead to errors when applied to complex problems that require deeper analysis and reflection.
+
 ## Mechanism
 
 The mechanism by which Type 1 responses substitute for Type 2 processing involves a bias towards concurrence rather than scrutiny. When a quick response feels confident enough, the brain tends to accept it without further analysis, leading to frequent unscrutinized outputs from Type 1 processes.
@@ -105,10 +107,28 @@ The mechanism by which Type 1 responses substitute for Type 2 processing involve
 > [!example] **Application 3 — Education**
 > Educators must be aware of cognitive miserliness when designing curricula. Overloading students with complex, abstract concepts without sufficient context or concrete examples can lead to shallow learning outcomes. Instead, integrating practical applications and real-world scenarios can help deepen understanding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), cognitive miserliness poses a challenge for long-term retention. Students often rely on surface-level understanding, which aligns with their existing knowledge and heuristics, rather than engaging deeply with new material. To counteract this, instructors can incorporate spaced retrieval practices that require students to revisit and reprocess information over time, thereby encouraging deeper cognitive engagement.
+
 ## Key Distinctions
 
 > [!key-distinction] **Cognitive Miserliness vs Active Open-Mindedness**
 > Active open-mindedness involves a deliberate effort to consider multiple perspectives and challenge one's own beliefs, whereas cognitive miserliness is an automatic tendency to rely on quick, intuitive responses. The key difference lies in the level of conscious engagement: active open-mindedness requires sustained mental effort, while cognitive miserliness operates unconsciously.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Type I vs Type II Error**
+> Understanding the distinction between Type I (false positive) and Type II (false negative) errors is crucial for grasping how cognitive miserliness can lead to decision-making pitfalls. While cognitive miserliness often results in quick, intuitive judgments that may be correct but also prone to false positives, a more deliberate approach might reduce these errors at the cost of increased time and effort.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think cognitive miserliness is always detrimental.
+>
+> While cognitive miserliness can lead to biases and errors, it also serves an adaptive function by conserving mental resources for more critical tasks. The misconception arises from a misunderstanding of the evolutionary benefits of quick decision-making in certain contexts.
 
 ## Key Figures
 
@@ -126,11 +146,21 @@ The mechanism by which Type 1 responses substitute for Type 2 processing involve
 >
 > *What would resolve it:* Research on interventions aimed at enhancing metacognitive skills and promoting reflective thinking could provide insights into whether and how cognitive miserliness can be reduced.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cognitive miserliness interact with technological advancements?
+>
+> *What would resolve it:* Investigating how the increasing reliance on technology for information processing and decision-making affects cognitive miserliness could provide insights into whether these tools enhance or diminish our capacity for deliberate thinking.
+
 ## Synthesis
 
 Understanding cognitive miserliness is crucial for improving rationality and decision-making skills. By recognizing the tendency to rely on quick, intuitive responses, individuals can become more aware of their cognitive biases and work towards more deliberate thinking. This concept intersects with broader fields such as heuristics and biases, working memory, and reflective disposition, offering valuable insights into how people process information and make decisions.
 
 The importance of cognitive miserliness lies in its implications for education, marketing, and everyday problem-solving. By acknowledging this tendency, practitioners can design more effective strategies that balance efficiency with accuracy, leading to better learning outcomes and more rational decision-making.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By recognizing the dual nature of cognitive miserliness — its adaptive benefits alongside its potential pitfalls — individuals can better navigate complex environments, leveraging quick judgments where appropriate and engaging in more reflective processes when necessary.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ The importance of cognitive miserliness lies in its implications for education, 
 **Applies to:** [[heuristics-and-biases]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[heuristics-and-biases]]** — *applies-to*
+> Cognitive miserliness and heuristics are intrinsically linked, as the former often leads to reliance on mental shortcuts or heuristics. These heuristics can be efficient in familiar contexts but may result in biases when applied to novel or complex situations.

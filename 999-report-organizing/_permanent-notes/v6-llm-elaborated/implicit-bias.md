@@ -1,13 +1,12 @@
 ---
-title: "Implicit Bias"
+title: Implicit Bias
 aliases:
-  - "Implicit Bias"
-  - "implicit attitudes"
-  - "automatic bias"
+  - Implicit Bias
+  - implicit attitudes
+  - automatic bias
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "implicit-bias-synthetic-seed-2026-04-26"
+  - implicit-bias-synthetic-seed-2026-04-26
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social Psychology"
-
+depth-level: enhanced
+parent-concept: Social Psychology
 related:
-  - "[[halo-effect]]"
-  - "[[Prejudice]]"
-  - "[[stereotype-threat]]"
+  - '[[halo-effect]]'
+  - '[[Prejudice]]'
+  - '[[stereotype-threat]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[halo-effect]]"
-  - "[[Prejudice]]"
+  - '[[halo-effect]]'
+  - '[[Prejudice]]'
 contrasts-with:
-  - "[[stereotype-threat]]"
+  - '[[stereotype-threat]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Implicit Bias
 
@@ -89,6 +88,9 @@ Theoretical roots of Implicit Bias trace back to social cognition theories, whic
 
 Empirical studies have shown that Implicit Bias can influence real-world behaviors, such as police officers' decision-making during encounters with individuals from different racial backgrounds. However, meta-analyses of IAT results indicate low test-retest reliability and small, inconsistent correlations with actual behavior, suggesting that while Implicit Bias is theoretically important, its empirical foundations are weaker than the public discourse implies.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Implicit Bias not only affects interpersonal interactions but also shapes broader societal structures and policies. For example, implicit biases held by policymakers can influence the drafting of laws or regulations that inadvertently disadvantage certain groups. This highlights how individual-level biases can aggregate to create systemic inequalities.
+
 ## Mechanism
 
 Implicit biases form through repeated exposure to societal norms and stereotypes. This process involves learning and internalizing associations between concepts, such as race and criminality, which can then be automatically activated without conscious awareness. For example, frequent media portrayals of African Americans in criminal contexts can lead to the formation of implicit biases against this group.
@@ -104,6 +106,11 @@ Implicit biases form through repeated exposure to societal norms and stereotypes
 > [!example] **Application 3 — Law enforcement**
 > Police officers may unconsciously apply Implicit Bias during interactions with individuals from different racial or ethnic backgrounds, potentially leading to biased decision-making. Training programs that focus on recognizing and addressing these biases can improve officer behavior and reduce incidents of discrimination in the field.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), instructors must be aware of implicit biases that might affect their interactions with students. For instance, an instructor's unconscious bias could influence the feedback given to different groups of students based on their background or nationality. By implementing spaced retrieval techniques in course design, where content is reviewed at increasing intervals, educators can help mitigate these biases by reinforcing positive and inclusive attitudes over time.
+
 ## Key Distinctions
 
 > [!key-distinction] **Implicit vs Explicit Bias**
@@ -112,9 +119,25 @@ Implicit biases form through repeated exposure to societal norms and stereotypes
 > [!key-distinction] **Automatic vs Deliberate Judgments**
 > Implicit biases are characterized by automatic associations that occur outside of awareness, while deliberate judgments involve conscious thought and intention. This distinction is important because it highlights the difference between unintentional and intentional forms of discrimination.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of information and decision-making processes, whereas reactive thinking is characterized by immediate responses based on automatic associations. Implicit Bias often manifests through reactive thinking, where individuals act upon unconscious stereotypes without conscious deliberation. Understanding this distinction helps in designing interventions that encourage reflective thinking to counteract the influence of implicit biases.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that taking an Implicit Association Test (IAT) can eliminate their implicit biases.
+>
+> The IAT is a tool for measuring implicit biases, not changing them. While becoming aware of one's biases through the IAT can be a first step towards addressing them, eliminating these biases requires ongoing effort and deliberate strategies to challenge and reframe automatic associations.
+
 ## Key Figures
 
 - **Mahzarin Banaji** — Banaji has been a prominent researcher in the field of implicit bias, developing tools like the Implicit Association Test (IAT) to measure these unconscious associations. Her work has significantly advanced our understanding of how implicit biases operate and influence behavior.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Anthony Greenwald** — Alongside Mahzarin Banaji, Anthony Greenwald developed the Implicit Association Test (IAT), a widely used tool for measuring implicit biases. His work has significantly contributed to understanding how these biases manifest and influence behavior.
 
 ## Open Questions
 
@@ -127,6 +150,13 @@ Implicit biases form through repeated exposure to societal norms and stereotypes
 > What are the long-term effects of implicit bias training programs?
 >
 > *What would resolve it:* Longitudinal studies tracking changes in behavior over time would provide insights into the durability and effectiveness of these programs.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> What are the long-term effects of implicit bias training programs?
+>
+> *What would resolve it:* Further research is needed to determine whether such programs lead to sustained changes in attitudes and behaviors. Studies should track participants over extended periods to assess if interventions have lasting impacts on reducing implicit biases.
 
 ## Synthesis
 
@@ -143,3 +173,10 @@ Implicit Bias intersects with other concepts like Stereotype Threat and the Halo
 **Contrasts with:** [[stereotype-threat]]
 
 **Source:** [[implicit-bias-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[halo-effect]]** — *contrasts-with*
+> While the halo effect involves making global judgments about a person based on one positive trait, Implicit Bias is more specific and often negative in nature. Both phenomena can lead to unfair evaluations of individuals but operate through different cognitive mechanisms: the halo effect relies on positive associations spreading broadly, whereas implicit bias involves automatic negative stereotypes.

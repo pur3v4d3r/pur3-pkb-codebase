@@ -1,13 +1,12 @@
 ---
-title: "Formal Logic"
+title: Formal Logic
 aliases:
-  - "Formal Logic"
-  - "symbolic logic"
-  - "deductive logic systems"
+  - Formal Logic
+  - symbolic logic
+  - deductive logic systems
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - mathematics
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "formal-logic-synthetic-seed-2026-04-25"
+  - formal-logic-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[deductive-reasoning]]"
-  - "[[non-classical-logic]]"
-  - "[[propositional-logic]]"
-  - "[[predicate-logic]]"
+  - '[[deductive-reasoning]]'
+  - '[[non-classical-logic]]'
+  - '[[propositional-logic]]'
+  - '[[predicate-logic]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[deductive-reasoning]]"
+  - '[[deductive-reasoning]]'
 broader:
-  - "[[non-classical-logic]]"
+  - '[[non-classical-logic]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[propositional-logic]]"
-  - "[[predicate-logic]]"
+  - '[[propositional-logic]]'
+  - '[[predicate-logic]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Formal Logic
 
@@ -89,6 +88,9 @@ Propositional logic deals with simple declarative propositions and their logical
 Theoretical roots of Formal Logic can be traced back to ancient Greek philosophers like Aristotle, who developed syllogistic logic, but it was not until the 19th and early 20th centuries that formal systems were rigorously defined. Key figures such as Gottlob Frege and Bertrand Russell further refined these concepts, laying the groundwork for modern logical analysis.
 
 Empirically, Formal Logic has been applied in various fields to ensure rigorous argumentation. In mathematics, it provides a foundation for proving theorems; in computer science, it underpins algorithms and programming languages; and in philosophy, it helps clarify and critique arguments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Formal Logic's reliance on syntactic structure rather than empirical content makes it a powerful tool for abstract reasoning and theoretical exploration, but this abstraction can also be its limitation in practical applications where real-world complexities often defy neat logical formulations. This tension between the idealized world of formal systems and the messy reality they aim to model is a central challenge in applying Formal Logic across disciplines.
 
 ## Mechanism
 
@@ -110,6 +112,22 @@ Formal systems like propositional calculus operate by defining a set of axioms (
 > [!key-distinction] **Formal vs Inductive Reasoning**
 > While Formal Logic focuses on the syntactic structure of propositions to determine validity, inductive reasoning involves making generalizations based on specific observations. The key difference lies in their reliance on empirical evidence: formal systems do not consider truth values based on experience, whereas inductive arguments do.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking, which involves deliberate analysis and evaluation, aligns closely with the methodical approach of Formal Logic. In contrast, reactive thinking is more immediate and intuitive, often relying on quick judgments without deep consideration. This distinction highlights why Formal Logic is particularly suited for reflective tasks where careful scrutiny of logical structures is necessary.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> The intrinsic motivation to engage with the abstract puzzles of Formal Logic can be quite different from extrinsically motivated learning, such as studying logic for practical applications. Intrinsic motivation often stems from a natural curiosity about logical structures and their beauty, whereas extrinsic motivations might come from professional or academic requirements.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Formal Logic is only useful in mathematics.
+>
+> While Formal Logic has significant applications in mathematics for proving theorems and ensuring logical consistency, its utility extends far beyond this domain. It plays a crucial role in computer science by underpinning algorithms and programming languages, and in philosophy by clarifying and critiquing arguments. Its systematic approach to analyzing logical structures makes it valuable across various fields.
+
 ## Key Figures
 
 - **John Sweller** — Although John Sweller is primarily known for his work on cognitive load theory, he has contributed to the field of Formal Logic by emphasizing the importance of structured and systematic approaches to learning logical reasoning.
@@ -126,11 +144,21 @@ Formal systems like propositional calculus operate by defining a set of axioms (
 >
 > *What would resolve it:* Empirical studies comparing the outcomes of arguments evaluated through formal and informal methods would help clarify these limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the reliance on syntactic structure in Formal Logic impact its effectiveness in interdisciplinary applications?
+>
+> *What would resolve it:* Research into how formal logical structures are interpreted across different disciplines could provide insights into this question. Understanding these impacts would help refine the application of Formal Logic to better suit diverse fields.
+
 ## Synthesis
 
 Understanding Formal Logic is crucial for critical thinking because it provides a rigorous framework for evaluating deductive arguments. By separating validity from soundness, it ensures that logical consistency is maintained even when empirical evidence may be lacking or misleading. This concept has far-reaching implications across mathematics, computer science, and philosophy, making it an indispensable tool in any analytical toolkit.
 
 Formal Logic's role as a specialized form of deductive reasoning within the broader domain of critical thinking highlights its importance for ensuring logical coherence in complex arguments. Its applications in instructional design, programming, and philosophical argumentation underscore its practical value in various fields.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Formal Logic's emphasis on syntactic structure and its systematic approach to evaluating arguments make it a cornerstone for rigorous analysis in various domains. Its applications, from ensuring logical consistency in mathematics to clarifying philosophical debates, highlight its versatility as an analytical tool. However, recognizing the limitations of this abstraction is crucial for effectively integrating Formal Logic into practical problem-solving.
 
 ## Connections & Context
 
@@ -143,3 +171,13 @@ Formal Logic's role as a specialized form of deductive reasoning within the broa
 **Instance of:** [[propositional-logic]] · [[predicate-logic]]
 
 **Source:** [[formal-logic-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[deductive-reasoning]]** — *specializes*
+> Formal Logic specializes in deductive reasoning by providing precise tools and frameworks for evaluating the validity of arguments based on their logical structure alone. This specialization allows it to focus deeply on ensuring that conclusions logically follow from premises, which is a core aspect of deductive reasoning.
+
+> [!connection] **[[propositional-logic]]** — *instance-of*
+> Propositional Logic is an instance of Formal Logic, focusing specifically on the logical relationships between simple declarative propositions. This relationship underscores how Formal Logic encompasses a range of logical systems, with Propositional Logic being one foundational example that explores basic logical connectives and their interactions.

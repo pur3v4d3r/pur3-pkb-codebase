@@ -1,13 +1,12 @@
 ---
-title: "Goal Setting"
+title: Goal Setting
 aliases:
-  - "Goal Setting"
-  - "goal-setting practice"
-  - "deliberate goal setting"
+  - Goal Setting
+  - goal-setting practice
+  - deliberate goal setting
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "goal-setting-synthetic-seed-2026-04-24"
+  - goal-setting-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[working-memory]]"
-  - "[[self-control]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[self-control]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-control]]"
+  - '[[self-control]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Goal Setting
 
@@ -94,6 +93,9 @@ The process of Goal Setting involves several key mechanisms. First, setting a go
 
 Another mechanism is the use of strategic automaticity, where individuals develop habitual responses to specific cues related to their goals. For instance, a student who sets a goal to study for 2 hours every evening might automatically pick up their books as soon as they return home from work.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Goal Setting also leverages the reflective vs reactive thinking distinction by encouraging individuals to engage in deliberate planning and review, rather than relying solely on immediate responses. By reflecting on goals regularly, individuals can adjust their strategies based on feedback and progress, fostering a more adaptive approach to achieving objectives.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -105,10 +107,31 @@ Another mechanism is the use of strategic automaticity, where individuals develo
 > [!example] **Application 3 — Personal development**
 > Individuals can apply Goal Setting in personal development by setting specific goals related to health, fitness, or career advancement. For example, a person might set a goal to run a 5K race within three months and create a detailed training plan. This structured approach ensures that they stay focused and motivated throughout the process.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Goal setting in remote work**
+> In the context of remote work, goal setting becomes crucial for maintaining productivity and focus. By setting clear, achievable goals each day or week, remote workers can structure their time effectively despite the lack of physical supervision. This practice not only enhances performance but also helps in managing distractions common in home environments.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Goal Setting is distinct from intrinsic load, which refers to the inherent difficulty of a task, and extraneous load, which includes unnecessary cognitive demands. Goal Setting specifically targets the manipulation of extraneous load by providing clear, challenging goals that direct attention and mobilize effort towards achieving desired outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate planning and review, whereas reactive thinking relies on immediate responses to stimuli. Goal Setting promotes reflective thinking by encouraging individuals to plan their actions towards achieving specific goals and regularly assess progress. This distinction is crucial as it highlights how goal setting can foster a more strategic approach to task completion.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation stems from personal interest or enjoyment, extrinsic motivation arises from external rewards such as recognition or financial incentives. Goal Setting can tap into both types of motivation; setting challenging yet achievable goals can enhance intrinsic motivation by providing a sense of accomplishment, while also leveraging extrinsic motivators like performance bonuses.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that goal setting is only about achieving the end result.
+>
+> Goal Setting is not merely about reaching a final outcome but involves the entire process of planning, executing, and reflecting on progress towards goals. This holistic approach ensures sustained effort and adaptability in strategies, leading to more effective outcomes.
 
 ## Key Figures
 
@@ -132,6 +155,9 @@ Goal Setting is a critical component of Self-Regulated Learning, playing a pivot
 
 Moreover, Goal Setting intersects with other motivational concepts such as working memory and worked examples, highlighting the interconnected nature of these processes. Understanding how to apply Goal Setting effectively can lead to significant improvements in learning outcomes and performance across different contexts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Goal Setting integrates cognitive strategies such as reflective thinking and self-control with motivational principles, creating a robust framework for achieving personal and professional objectives. By leveraging these mechanisms, individuals can enhance their performance and adaptability in various contexts.
+
 ## Connections & Context
 
 **Falls under:** [[self-regulated-learning]]
@@ -143,3 +169,13 @@ Moreover, Goal Setting intersects with other motivational concepts such as worki
 **Applies to:** [[worked-examples]]
 
 **Source:** [[goal-setting-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-control]]** — *prerequisites*
+> Self-Control is a prerequisite for Goal Setting as it enables individuals to resist distractions and maintain focus on their goals. Without self-control, the efforts directed towards achieving set goals can be undermined by impulsive behaviors or lack of persistence.
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working Memory is essential for Goal Setting as it allows individuals to hold and manipulate information related to their goals in mind. Effective goal setting requires the ability to juggle multiple tasks, remember deadlines, and adjust plans based on current progress.

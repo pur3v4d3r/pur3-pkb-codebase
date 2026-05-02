@@ -1,12 +1,11 @@
 ---
-title: "First-Principles Thinking"
+title: First-Principles Thinking
 aliases:
-  - "First-Principles Thinking"
-  - "first principles reasoning"
+  - First-Principles Thinking
+  - first principles reasoning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - problem-solving
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "first-principles-thinking-synthetic-seed-2026-04-25"
+  - first-principles-thinking-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[analogical-reasoning]]"
-  - "[[scientific-reasoning]]"
+  - '[[analogical-reasoning]]'
+  - '[[scientific-reasoning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[analogical-reasoning]]"
+  - '[[analogical-reasoning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[scientific-reasoning]]"
+  - '[[scientific-reasoning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # First-Principles Thinking
 
@@ -85,6 +84,9 @@ The process begins with identifying the core components that are essential to un
 Theoretical roots of First-Principles Thinking can be traced back to the work of John Sweller, who introduced the concept in 1988 as a way to reduce cognitive load and improve problem-solving efficiency. By focusing on foundational principles, this approach minimizes extraneous mental effort that might otherwise distract from the core issue at hand.
 
 Empirically, First-Principles Thinking has been shown to be effective in various fields, including engineering, where it can lead to innovative solutions by challenging established norms and assumptions. However, its application is not without cost; it requires significant time and resources, making it less suitable for routine decisions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+First-Principles Thinking is not merely a theoretical construct but has practical applications in various fields, including business and technology innovation. In the tech industry, for instance, companies often face challenges that require rethinking traditional approaches to product development or service delivery. By applying First-Principles Thinking, these organizations can challenge existing paradigms and explore new possibilities that might not be evident through conventional methods.
 
 ## Mechanism
 
@@ -106,6 +108,22 @@ The process of First-Principles Thinking involves several key steps: identifying
 > [!key-distinction] **First-Principles Thinking vs Analogical Reasoning**
 > While both involve drawing on past experiences, First-Principles Thinking focuses on breaking down problems to their most basic elements and reassembling solutions from these fundamentals. In contrast, analogical reasoning relies on existing solutions or examples, which can perpetuate unexamined assumptions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> First-Principles Thinking aligns closely with reflective thinking, which involves deliberate analysis and consideration of a problem before acting. In contrast, reactive thinking is characterized by immediate responses based on instinct or habit without deep reflection. This distinction highlights the importance of taking time to thoroughly analyze problems from first principles rather than relying on quick, habitual solutions.
+
+> [!key-distinction] **Surface vs Deep Processing**
+> First-Principles Thinking emphasizes deep processing, where one engages in thorough analysis and understanding of a problem's core elements. This contrasts with surface-level processing, which involves superficial examination without delving into the underlying principles. By focusing on deep processing, First-Principles Thinking ensures that solutions are well-founded and robust.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that First-Principles Thinking is always faster than other problem-solving methods.
+>
+> In reality, while First-Principles Thinking can lead to innovative solutions, it typically requires more time and cognitive effort due to its rigorous approach. This misconception arises because the method's thoroughness might seem inefficient compared to quicker but less reliable approaches.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with the introduction of First-Principles Thinking in 1988. His work emphasized the importance of reducing cognitive load by focusing on foundational principles, making it a cornerstone of modern problem-solving techniques.
@@ -122,9 +140,19 @@ The process of First-Principles Thinking involves several key steps: identifying
 >
 > *What would resolve it:* Understanding these pitfalls would require analyzing real-world examples where First-Principles Thinking was applied and evaluating its effectiveness compared to more flexible approaches.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the cognitive load associated with First-Principles Thinking affect its applicability in real-world scenarios?
+>
+> *What would resolve it:* Understanding how cognitive load impacts the practical application of First-Principles Thinking could provide insights into when and where this method is most effective. Research on cognitive load theory might help identify strategies to manage or reduce the mental effort required for thorough problem decomposition.
+
 ## Synthesis
 
 First-Principles Thinking is a powerful tool for innovation and problem-solving, offering a way to challenge existing assumptions and derive new insights. By applying this method across various fields such as engineering, business, and education, it can lead to more robust solutions and innovative breakthroughs. However, its application requires careful consideration of the context and resources available, making it a valuable but not always practical approach.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+First-Principles Thinking serves as a critical tool in fostering innovation by challenging established norms and assumptions. Its application across various domains highlights its versatility, but also underscores the need for careful consideration of context and resource constraints to ensure effective implementation.
 
 ## Connections & Context
 
@@ -135,3 +163,13 @@ First-Principles Thinking is a powerful tool for innovation and problem-solving,
 **Applies to:** [[scientific-reasoning]]
 
 **Source:** [[first-principles-thinking-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[scientific-reasoning]]** — *applies-to*
+> First-Principles Thinking and scientific reasoning both rely on a systematic approach to problem-solving. Scientific reasoning involves formulating hypotheses based on empirical evidence, while First-Principles Thinking focuses on breaking down problems into their fundamental components. Both methods aim to derive reliable conclusions by grounding solutions in foundational truths rather than relying on assumptions or analogies.
+
+> [!connection] **[[analogical-reasoning]]** — *contrasts-with*
+> First-Principles Thinking contrasts with analogical reasoning, which often relies on drawing parallels between similar situations to solve problems. While analogical reasoning can be efficient and intuitive, it may perpetuate unexamined assumptions. First-Principles Thinking avoids these pitfalls by decomposing problems into their basic elements and reassembling solutions from these fundamentals.

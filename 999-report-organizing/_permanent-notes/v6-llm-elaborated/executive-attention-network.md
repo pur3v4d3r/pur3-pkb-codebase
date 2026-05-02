@@ -1,13 +1,12 @@
 ---
-title: "Executive Attention Network"
+title: Executive Attention Network
 aliases:
-  - "Executive Attention Network"
-  - "frontoparietal control network"
-  - "executive control network"
+  - Executive Attention Network
+  - frontoparietal control network
+  - executive control network
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - attention-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "executive-attention-network-synthetic-seed-2026-04-25"
+  - executive-attention-network-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[salience-network]]"
+  - '[[working-memory]]'
+  - '[[salience-network]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[salience-network]]"
+  - '[[salience-network]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Executive Attention Network
 
@@ -87,6 +86,9 @@ Theoretical roots of this network trace back to Posner's tripartite attention mo
 
 Empirical evidence supports the development of this network through childhood and adolescence, with its maturation paralleling improvements in executive function. Studies using functional magnetic resonance imaging (fMRI) have consistently shown increased activation in Executive Attention Network regions during tasks that require cognitive control, underscoring its importance in fluid intelligence.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Executive Attention Network's role in cognitive control extends beyond simple attentional focus to include complex executive functions such as planning, decision-making, and problem-solving. These processes often require the network to integrate information from multiple sources and coordinate actions across different brain regions, highlighting its importance for higher-order cognition.
+
 ## Mechanism
 
 The network's functioning involves the coordinated activity of prefrontal cortex and parietal regions. Prefrontal areas are particularly active in goal-setting and maintaining attentional focus, while parietal regions play a key role in spatial attention and task-relevant information processing. This interaction allows for the dynamic allocation of resources to relevant stimuli and the inhibition of irrelevant ones.
@@ -102,15 +104,36 @@ The network's functioning involves the coordinated activity of prefrontal cortex
 > [!example] **Application 3 — Workplace productivity**
 > Incorporating tasks that require sustained focus and flexible task-switching into work environments can enhance productivity. Employers can design job roles that challenge employees' cognitive control, thereby promoting the development of executive function skills over time.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance the effectiveness of learning by leveraging the Executive Attention Network. By spacing out practice sessions, learners are required to retrieve information from memory at intervals, which activates and strengthens the network's ability to flexibly reconfigure task sets and maintain goal-directed attention over time.
+
 ## Key Distinctions
 
 > [!key-distinction] **Executive Attention Network vs Salience Network**
 > While both networks play roles in detecting task-relevant information, the Executive Attention Network focuses on goal-directed attention and conflict monitoring. In contrast, the Salience Network is more involved in bottom-up detection of salient stimuli, highlighting its role in capturing immediate attentional demands.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of information and decision-making processes, often supported by the Executive Attention Network. In contrast, reactive thinking is immediate and automatic, relying more on System 1 processing. The distinction matters because it highlights how the network enables individuals to engage in thoughtful analysis rather than acting impulsively.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that the Executive Attention Network operates independently of other brain networks.
+>
+> The Executive Attention Network does not operate in isolation but interacts with other networks such as the salience network. This interaction is crucial for detecting and responding to task-relevant information, demonstrating how cognitive processes are interdependent rather than compartmentalized.
+
 ## Key Figures
 
 - **Michael Posner** — Michael Posner was a key contributor to attention models and the identification of the Executive Attention Network. His research laid the foundation for understanding how this network supports cognitive control and executive function.
 - **John Sweller** — John Sweller's work on cognitive load theory provided insights into the role of extraneous load in task performance, which is relevant to understanding the mechanisms of the Executive Attention Network. His research highlighted the importance of managing cognitive resources effectively.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Mary Rothbart** — Mary Rothbart's research has contributed significantly to understanding the development of self-regulation, which is closely tied to the maturation of the Executive Attention Network. Her work highlights how early experiences shape the network's ability to support executive function.
 
 ## Open Questions
 
@@ -123,6 +146,13 @@ The network's functioning involves the coordinated activity of prefrontal cortex
 > What are the neural mechanisms underlying individual differences in executive function?
 >
 > *What would resolve it:* Genetic and environmental factors influencing the structure and function of Executive Attention Network regions could be identified through neuroimaging studies combined with genetic analyses.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does stress impact the functioning of the Executive Attention Network?
+>
+> *What would resolve it:* Longitudinal studies examining the effects of acute and chronic stress on brain activity patterns associated with the Executive Attention Network would provide insights into how stress alters cognitive control processes.
 
 ## Synthesis
 
@@ -139,3 +169,10 @@ The importance of the Executive Attention Network extends beyond neuroscience in
 **Contrasts with:** [[salience-network]]
 
 **Source:** [[executive-attention-network-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory serves as a prerequisite for the Executive Attention Network by providing temporary storage and manipulation of information necessary for goal-directed attention. The network relies on working memory to hold task-relevant information in mind, allowing it to monitor conflicts and adjust focus accordingly.

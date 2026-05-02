@@ -1,12 +1,11 @@
 ---
-title: "Critical Reasoning"
+title: Critical Reasoning
 aliases:
-  - "Critical Reasoning"
-  - "analytic reasoning"
+  - Critical Reasoning
+  - analytic reasoning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - philosophy
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "critical-reasoning-synthetic-seed-2026-04-24"
+  - critical-reasoning-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[Informal Logic]]"
-  - "[[argument-analysis]]"
+  - '[[Informal Logic]]'
+  - '[[argument-analysis]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Informal Logic]]"
+  - '[[Informal Logic]]'
 see-also:
-  - "[[argument-analysis]]"
+  - '[[argument-analysis]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Critical Reasoning
 
@@ -85,6 +84,9 @@ In practice, critical reasoning is applied by systematically questioning every a
 Theoretical roots of critical reasoning can be traced back to philosophical traditions such as Socratic questioning and logical analysis. These methods emphasize the importance of clarity, consistency, and evidence in evaluating arguments. Empirical studies have shown that training in critical reasoning enhances one's ability to make sound judgments and solve complex problems by fostering a disciplined approach to argument evaluation.
 
 Historically, John Sweller’s work on cognitive load theory has provided valuable insights into how critical reasoning can be optimized for learning. His research highlights the importance of managing both intrinsic (inherent) and extraneous (unnecessary) cognitive loads during the process of evaluating arguments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Critical reasoning is not merely a passive activity but an active engagement with information that requires sustained effort and mental resources. This process often involves overcoming cognitive biases, such as confirmation bias or the anchoring effect, which can distort one's evaluation of arguments. By actively questioning assumptions and evidence, critical reasoning helps mitigate these biases, leading to more objective assessments.
 
 ## Mechanism
 
@@ -106,6 +108,22 @@ The mechanism of critical reasoning involves a step-by-step breakdown of an argu
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Critical reasoning involves managing intrinsic cognitive load (the inherent difficulty of the task) and extraneous cognitive load (unnecessary distractions). In contrast, mere disagreement or skepticism often relies on extraneous factors such as emotional reactions rather than a structured analysis of evidence.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis of information before forming judgments or making decisions. In contrast, reactive thinking is characterized by immediate responses based on initial impressions without deeper evaluation. Critical reasoning aligns with reflective thinking as it requires careful examination of arguments rather than relying solely on gut feelings.
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Surface processing involves superficial engagement with information, focusing on the literal meaning or appearance of an argument without delving into its underlying structure and implications. In contrast, deep processing entails a thorough analysis that considers the context, assumptions, and logical connections within an argument. Critical reasoning emphasizes deep processing to ensure comprehensive understanding.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Critical reasoning is only about disagreeing with arguments.
+>
+> This misconception arises from a misunderstanding of the purpose of critical reasoning, which goes beyond mere disagreement. It involves systematically evaluating the strength and validity of an argument based on evidence and logical consistency rather than personal opinions or biases.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is recognized for his work in cognitive load theory, which has significantly influenced the development of critical reasoning techniques by highlighting the importance of managing both intrinsic and extraneous cognitive loads during argument evaluation.
@@ -122,11 +140,21 @@ The mechanism of critical reasoning involves a step-by-step breakdown of an argu
 >
 > *What would resolve it:* Case studies analyzing how critical reasoning is applied in various real-world scenarios would help identify common pitfalls and suggest ways to overcome them.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does critical reasoning impact decision-making in complex real-world scenarios?
+>
+> *What would resolve it:* Empirical studies that examine how individuals apply critical reasoning skills in practical situations could provide insights into its effectiveness. Such research would help understand the extent to which critical reasoning improves decision quality and outcomes.
+
 ## Synthesis
 
 Critical Reasoning is crucial for effective thinking and decision-making because it provides a structured approach to evaluating arguments, which enhances our ability to make informed judgments. By integrating critical reasoning into various domains such as education, law, and business, we can foster a culture of evidence-based analysis that leads to better outcomes.
 
 As a subset of informal logic, critical reasoning complements formal logical methods by focusing on the practical application of logical principles in everyday situations. This makes it an indispensable tool for navigating complex problems and making sound decisions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Critical reasoning is a versatile tool that enhances decision-making across various domains by fostering a deeper understanding of arguments and evidence. Its application can lead to more informed judgments, better problem-solving, and improved communication in both personal and professional contexts.
 
 ## Connections & Context
 
@@ -137,3 +165,13 @@ As a subset of informal logic, critical reasoning complements formal logical met
 **Sibling concepts:** [[argument-analysis]]
 
 **Source:** [[critical-reasoning-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[argument-analysis]]** — *applies-to*
+> Critical reasoning is a foundational skill that underpins the analysis of arguments. It provides the tools and techniques necessary to break down complex arguments into their component parts, assess the validity of premises, and evaluate inferential steps. This process is essential for effective argument analysis.
+
+> [!connection] **[[Informal Logic]]** — *generalizes-to*
+> Critical reasoning generalizes informal logic by encompassing a broader set of skills beyond just identifying logical fallacies or evaluating deductive arguments. It includes the ability to assess the plausibility and relevance of premises, evaluate inferential steps, and identify unstated assumptions.

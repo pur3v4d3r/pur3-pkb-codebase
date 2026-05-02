@@ -1,12 +1,11 @@
 ---
-title: "Declarative Memory"
+title: Declarative Memory
 aliases:
-  - "Declarative Memory"
-  - "explicit memory"
+  - Declarative Memory
+  - explicit memory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,59 +17,59 @@ subdomains:
   - neuroscience
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "declarative-memory-synthetic-seed-2026-04-24"
+  - declarative-memory-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: ""
-
+depth-level: enhanced
+parent-concept: ''
 related:
-  - "[[semantic-memory]]"
-  - "[[episodic-memory]]"
-  - "[[procedural-memory]]"
-  - "[[non-declarative-memory]]"
+  - '[[semantic-memory]]'
+  - '[[episodic-memory]]'
+  - '[[procedural-memory]]'
+  - '[[non-declarative-memory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[semantic-memory]]"
-  - "[[episodic-memory]]"
+  - '[[semantic-memory]]'
+  - '[[episodic-memory]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[procedural-memory]]"
-  - "[[non-declarative-memory]]"
+  - '[[procedural-memory]]'
+  - '[[non-declarative-memory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Declarative Memory
 
@@ -90,6 +89,11 @@ Theoretical roots of declarative memory trace back to cognitive science, where i
 
 Empirical evidence supports these theoretical distinctions. For instance, patients with amnesia due to medial-temporal lobe damage often retain their procedural memory abilities, such as riding a bicycle or playing an instrument, while losing new semantic learning capabilities. This dissociation has profound implications for understanding the brain's memory systems and how they interact.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Recent studies have highlighted the role of declarative memory in decision-making processes, particularly how past experiences and factual knowledge influence current choices. For example, when faced with a complex problem, individuals often rely on their episodic memories to recall similar situations from the past and semantic memories to apply relevant facts or principles. This interplay between different types of declarative memory underscores its importance not just in recalling information but also in guiding behavior.
+
+Moreover, research has shown that the encoding of new declarative memories can be significantly influenced by emotional states at the time of learning. Positive emotions tend to enhance memory consolidation and retrieval, while negative emotions can either facilitate or impair memory depending on the context and intensity. This emotional modulation provides a deeper understanding of how personal experiences shape our cognitive landscape.
+
 ## Mechanism
 
 The neural basis of declarative memory involves several key structures, with the hippocampus playing a central role in forming and retrieving these memories. The hippocampus is crucial for encoding new information into long-term storage by integrating it with existing knowledge. During consolidation, newly formed episodic memories are transferred from the hippocampus to other brain regions, such as the neocortex, where they become more stable over time.
@@ -102,14 +106,35 @@ The neural basis of declarative memory involves several key structures, with the
 > [!example] **Application 2 — Therapeutic interventions**
 > In therapeutic settings, understanding declarative memory helps tailor interventions for patients with memory disorders. For example, cognitive rehabilitation techniques can target specific aspects of semantic or episodic memory to improve recall and overall cognitive function. By focusing on these distinct components, therapists can develop more effective treatment plans that address the unique needs of each patient.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance the retention of declarative knowledge. By scheduling quizzes and assessments at increasing intervals, learners are prompted to recall information repeatedly over time, which strengthens semantic memory through repeated encoding and consolidation processes. This approach not only improves long-term retention but also helps in identifying gaps in understanding that require further instruction.
+
 ## Key Distinctions
 
 > [!key-distinction] **Declarative vs Procedural Memory**
 > Declarative memory involves consciously accessible knowledge that can be verbally reported, while procedural memory encompasses skills and habits not requiring conscious thought. The functional and neural dissociability of these systems is evident in patients with amnesia who may lose new declarative learning but retain their procedural abilities.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> In the context of declarative memory, recognition refers to the ability to identify previously learned information when presented with cues, whereas recall involves retrieving information without such prompts. Recognition is generally easier and faster than recall because it relies on pattern matching rather than active retrieval from long-term storage. Understanding this distinction can inform educational strategies by highlighting that while both processes are important for assessing knowledge retention, they tap into different aspects of memory function.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that declarative memory is solely about factual recall.
+>
+> Declarative memory encompasses not only the ability to recall facts but also personal experiences and events. This dual nature allows individuals to integrate new information with existing knowledge, forming a coherent narrative of their life experiences. The misconception arises from an oversimplification that overlooks the episodic component of declarative memory.
+
 ## Key Figures
 
 - **John Sweller** — Sweller's work in the 1980s was instrumental in establishing that declarative and procedural memories are functionally and neurally dissociable, highlighting the complexity of memory systems.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Elizabeth Loftus** — Loftus's pioneering work on memory distortion has significantly impacted our understanding of declarative memory. Her research demonstrated that eyewitness testimony, often considered a reliable source in legal contexts, can be influenced by post-event information and leading questions, highlighting the malleability of episodic memories.
 
 ## Open Questions
 
@@ -123,11 +148,21 @@ The neural basis of declarative memory involves several key structures, with the
 >
 > *What would resolve it:* Longitudinal studies tracking patients with declarative memory impairments over extended periods would help elucidate the broader impact on cognitive functions beyond immediate memory loss.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does aging affect the differential decline of semantic versus episodic memory?
+>
+> *What would resolve it:* Investigating age-related changes in declarative memory could provide insights into how different types of knowledge are preserved or lost over time. Longitudinal studies tracking both semantic and episodic memories in older adults would help clarify whether certain aspects of declarative memory are more resilient to aging than others.
+
 ## Synthesis
 
 Understanding declarative memory is crucial for advancing our knowledge in cognitive science and its applications. By studying how semantic and episodic memories are formed, stored, and retrieved, researchers can develop more effective educational strategies and therapeutic interventions. Moreover, the dissociation between declarative and procedural memory systems underscores the complexity of human cognition and highlights the need for interdisciplinary approaches to fully comprehend these processes.
 
 Declarative memory's role in education and therapy also emphasizes its practical importance. By leveraging our understanding of how this memory system works, educators can create more engaging and effective learning environments, while therapists can develop targeted interventions that address specific memory impairments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The study of declarative memory not only illuminates the mechanisms underlying conscious recall but also underscores its critical role in shaping personal identity and guiding adaptive behavior. By integrating insights from cognitive neuroscience, psychology, and education, researchers can develop a more nuanced understanding of how declarative knowledge is acquired, maintained, and applied across different life stages.
 
 ## Connections & Context
 
@@ -136,3 +171,10 @@ Declarative memory's role in education and therapy also emphasizes its practical
 **Contrasts with:** [[procedural-memory]] · [[non-declarative-memory]]
 
 **Source:** [[declarative-memory-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[non-declarative-memory]]** — *contrasts-with*
+> Declarative and non-declarative memories contrast in their functional roles and neural substrates. While declarative memory supports conscious recall of facts, concepts, and personal experiences, non-declarative memory underlies skills, habits, and conditioned responses that operate without awareness. This distinction is crucial for understanding the full spectrum of human cognitive abilities and how different types of learning contribute to overall behavior.

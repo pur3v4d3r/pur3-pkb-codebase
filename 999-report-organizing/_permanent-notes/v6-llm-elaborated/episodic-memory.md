@@ -1,13 +1,12 @@
 ---
-title: "Episodic Memory"
+title: Episodic Memory
 aliases:
-  - "Episodic Memory"
-  - "autobiographical memory"
-  - "event memory"
+  - Episodic Memory
+  - autobiographical memory
+  - event memory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - autobiographical-memory
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "episodic-memory-synthetic-seed-2026-04-24"
+  - episodic-memory-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[semantic-memory]]"
-  - "[[reconstructive-memory]]"
+  - '[[working-memory]]'
+  - '[[semantic-memory]]'
+  - '[[reconstructive-memory]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[semantic-memory]]"
+  - '[[semantic-memory]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[reconstructive-memory]]"
+  - '[[reconstructive-memory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Episodic Memory
 
@@ -88,6 +87,9 @@ Theoretical roots of episodic memory can be traced back to cognitive science, wh
 
 Empirical evidence supports the idea that episodic memory is reconstructive rather than veridical, meaning that our recollections can be influenced by subsequent experiences and information. This has important implications for educational practices, as treating recalled episodes as accurate records can lead to significant misunderstandings.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Episodic memories often serve as a foundation for personal identity and narrative coherence, shaping how individuals perceive themselves over time. These memories not only capture specific events but also the emotional and cognitive states associated with them, influencing current attitudes and behaviors. For instance, recalling a past success can boost confidence in similar future endeavors, while remembering a failure might prompt caution or avoidance of certain situations.
+
 ## Mechanism
 
 Episodic memories are encoded through a process involving working memory, where initial details of an event are held temporarily before being consolidated into long-term storage. This involves multiple stages including encoding (where the brain captures sensory and contextual information), consolidation (where these pieces are integrated over time), and retrieval (where past events are recalled based on current cues).
@@ -105,6 +107,19 @@ Episodic memories are encoded through a process involving working memory, where 
 > [!key-distinction] **Episodic Memory vs Semantic Memory**
 > While both forms of memory involve storing information, episodic memory focuses on personally experienced events with specific contexts, whereas semantic memory abstracts these experiences into general knowledge. The distinction is crucial because treating episodic memories as veridical can lead to misunderstandings in educational settings.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> Episodic memory is particularly susceptible to the distinction between recognition and recall. Recognition involves identifying information as familiar when prompted, whereas recall requires retrieving information without cues. In episodic contexts, this difference can lead to varying levels of confidence in memories; individuals might recognize a scene from their past but struggle to fully recall all details or the exact sequence of events.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that episodic memory is always accurate.
+>
+> Episodic memories are reconstructive, meaning they can be influenced by subsequent experiences and information. This means that the details of an event might change over time or become distorted due to new information or emotional states at recall.
+
 ## Key Figures
 
 - **John Sweller** — Sweller's work on the role of context variation in strengthening semantic retrieval highlights the importance of episodic memory in learning and education, emphasizing its foundational role in cognitive architecture.
@@ -121,11 +136,21 @@ Episodic memories are encoded through a process involving working memory, where 
 >
 > *What would resolve it:* Identifying specific brain regions or processes involved in confabulation would help clarify how false memories can arise, which is critical for understanding memory distortions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does emotional valence affect the consolidation of episodic memories?
+>
+> *What would resolve it:* Investigating how positive versus negative emotions influence memory formation could provide insights into why certain events are remembered more vividly than others and how these memories might be leveraged in therapeutic or educational contexts.
+
 ## Synthesis
 
 Understanding episodic memory is crucial for cognitive science and education because it provides a framework for how we process personal experiences and integrate them into our broader knowledge base. By recognizing the reconstructive nature of episodic memory, educators can design more effective learning strategies that leverage context to enhance semantic retrieval.
 
 Episodic memory also bridges the gap between cognitive architecture and educational practices by highlighting the importance of context in learning. This connection underscores why studying how memories are formed and retrieved is essential for both advancing our understanding of human cognition and improving educational outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the reconstructive nature of episodic memory is crucial for both cognitive science and practical applications such as education and therapy. By recognizing that memories can change over time, educators and therapists can develop strategies to enhance accurate recall and mitigate distortions.
 
 ## Evidence
 
@@ -142,3 +167,10 @@ Research supports the idea that episodic memories can be influenced by subsequen
 **Contrasts with:** [[reconstructive-memory]]
 
 **Source:** [[episodic-memory-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[reconstructive-memory]]** — *contrasts-with*
+> While episodic memory involves the recollection of specific personal events, reconstructive memory refers to how these memories can be altered by later experiences or information. This contrast highlights that episodic memories are not static but dynamic and subject to change over time.

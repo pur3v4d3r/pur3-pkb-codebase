@@ -1,13 +1,12 @@
 ---
-title: "General Causality Orientations Scale"
+title: General Causality Orientations Scale
 aliases:
-  - "General Causality Orientations Scale"
-  - "GCOS"
-  - "causality orientations scale"
+  - General Causality Orientations Scale
+  - GCOS
+  - causality orientations scale
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - psychometrics
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "general-causality-orientations-scale-synthetic-seed-2026-04-24"
+  - general-causality-orientations-scale-synthetic-seed-2026-04-24
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[Autonomy-Orientation]]"
-  - "[[self-determination-theory]]"
+  - '[[Autonomy-Orientation]]'
+  - '[[self-determination-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Autonomy-Orientation]]"
+  - '[[Autonomy-Orientation]]'
 broader:
-  - "[[self-determination-theory]]"
+  - '[[self-determination-theory]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # General Causality Orientations Scale
 
@@ -84,6 +83,9 @@ The theoretical roots of GCOS lie in SDT's claim that internalization produces s
 
 Empirically, GCOS has been validated through numerous studies showing that its scores predict outcomes in health, work, education, and relationships that align with SDT's theoretical predictions. For example, individuals with a strong autonomy orientation tend to exhibit better mental health and academic performance compared to those with higher control or impersonal orientations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The GCOS not only measures motivational orientations but also provides insights into how these orientations interact with environmental factors to influence behavior and well-being. For instance, a supportive environment that encourages autonomy can help individuals internalize their actions more effectively, leading to sustained positive outcomes.
+
 ## Mechanism
 
 GCOS scores are influenced by both individual differences and situational factors. A person with a moderate autonomy orientation can be pushed into controlled regulation by a heavily contingent environment, while a control-oriented person can be drawn into autonomous regulation by sustained need-supportive conditions. This flexibility highlights the importance of considering context when interpreting GCOS results.
@@ -99,6 +101,11 @@ GCOS scores are influenced by both individual differences and situational factor
 > [!example] **Application 3 — Healthcare interventions**
 > In healthcare settings, assessing patients' motivational orientations through GCOS can inform the development of personalized treatment plans. For instance, promoting self-determination in patient care can improve adherence to treatment regimens and enhance health outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Workplace Autonomy**
+> In the workplace, managers who understand GCOS scores of employees can design tasks and environments that foster higher levels of autonomy. For example, offering flexible work hours or allowing team members to choose their projects based on personal interest can enhance autonomy orientation, leading to increased job satisfaction and productivity.
+
 ## Key Distinctions
 
 > [!key-distinction] **Autonomy vs Control Orientations**
@@ -106,6 +113,19 @@ GCOS scores are influenced by both individual differences and situational factor
 
 > [!key-distinction] **Impersonal Orientation vs Other Forms of Regulation**
 > Impersonal orientation describes experiencing action as ineffective and is distinct from other forms of regulation such as amotivation or external regulation. Impersonal orientation focuses on feelings of helplessness, while other forms may involve more active engagement with the environment but lack intrinsic motivation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While GCOS measures intrinsic motivational orientations like autonomy, it also captures extrinsic influences through the control orientation. Intrinsic motivation arises from personal interest or enjoyment in an activity, whereas extrinsic motivation is driven by external factors such as rewards or pressure. Understanding these distinctions helps tailor interventions to enhance intrinsic motivation and reduce reliance on extrinsic motivators.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think GCOS scores are fixed traits.
+>
+> GCOS measures relatively stable motivational orientations, but they can change over time or in response to different situational factors. For example, a supportive learning environment that encourages autonomy can shift an individual's orientation from control towards greater autonomy.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ GCOS scores are influenced by both individual differences and situational factor
 >
 > *What would resolve it:* Longitudinal studies tracking individuals' GCOS scores over extended periods could provide insights into the stability and change of these orientations over time.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do GCOS scores predict long-term outcomes in educational settings?
+>
+> *What would resolve it:* Longitudinal studies are needed to determine if initial GCOS scores can predict academic success over time, especially when considering the impact of different teaching methods and school environments.
+
 ## Synthesis
 
 GCOS is a valuable tool in motivation research because it operationalizes key concepts from Self-Determination Theory, providing a robust framework for understanding individual differences in motivational orientations. By measuring autonomy, control, and impersonal orientations, GCOS offers practical applications across education, health, work, and relationships, aligning with broader theories that emphasize the importance of internalization and self-determination.
 
 The scale's ability to predict outcomes consistently supports its validity as a measure of trait-level tendencies in motivational orientation. However, it is important to recognize that these orientations are responsive to context, highlighting the need for nuanced interpretation when applying GCOS in real-world settings.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+GCOS serves as a critical tool for understanding individual differences in motivational orientations within the framework of Self-Determination Theory. By measuring autonomy, control, and impersonal orientations, it provides insights into how these factors interact with environmental influences to shape behavior and well-being across various contexts.
 
 ## Evidence
 
@@ -143,3 +173,10 @@ Empirical evidence from numerous studies demonstrates that GCOS scores predict o
 **Generalizes to:** [[self-determination-theory]]
 
 **Source:** [[general-causality-orientations-scale-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-determination-theory]]** — *falls-under*
+> GCOS is deeply rooted in Self-Determination Theory (SDT), which posits that human motivation can be categorized into different orientations. SDT provides the theoretical framework for understanding how autonomy, control, and impersonal orientations influence behavior and well-being.

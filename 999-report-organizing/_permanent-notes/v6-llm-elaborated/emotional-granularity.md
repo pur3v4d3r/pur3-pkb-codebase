@@ -1,13 +1,12 @@
 ---
-title: "Emotional Granularity"
+title: Emotional Granularity
 aliases:
-  - "Emotional Granularity"
-  - "emotion differentiation"
-  - "fine-grained emotion experience"
+  - Emotional Granularity
+  - emotion differentiation
+  - fine-grained emotion experience
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - affective-science
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "emotional-granularity-synthetic-seed-2026-04-26"
+  - emotional-granularity-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Emotion Regulation"
-
+depth-level: enhanced
+parent-concept: Emotion Regulation
 related:
-  - "[[Emotion Regulation]]"
-  - "[[alexithymia]]"
-  - "[[interoception]]"
+  - '[[Emotion Regulation]]'
+  - '[[alexithymia]]'
+  - '[[interoception]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Emotion Regulation]]"
+  - '[[Emotion Regulation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[alexithymia]]"
+  - '[[alexithymia]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[interoception]]"
+  - '[[interoception]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Emotional Granularity
 
@@ -88,6 +87,9 @@ In practice, Emotional Granularity enables individuals to recognize subtle shift
 
 Theoretical roots of Emotional Granularity are deeply embedded in cognitive psychology, particularly in the areas of interoception and emotional labeling. Interoceptive awareness—the ability to sense internal bodily states—plays a critical role in distinguishing between different emotions. Without this awareness, even if one knows many emotion words, they may not be able to accurately label their feelings, leading to less effective emotion regulation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Emotional Granularity is not merely a cognitive exercise but also has significant physiological underpinnings. The ability to finely distinguish between emotions involves the integration of bodily sensations, which are processed in various brain regions including the insula and anterior cingulate cortex. This interoceptive awareness allows individuals to recognize subtle changes in their body states that correspond to different emotional experiences.
+
 ## Mechanism
 
 Emotional Granularity operates through the interplay of cognitive and physiological processes. When an individual experiences a specific emotional state, such as 'frustration,' the brain uses its constructed-emotion framework to predict and label this internal experience accurately. This prediction is based on past experiences and current bodily sensations, allowing for a more precise emotional response.
@@ -103,6 +105,11 @@ Emotional Granularity operates through the interplay of cognitive and physiologi
 > [!example] **Application 3 — Workplace management**
 > In workplace settings, managers who understand Emotional Granularity can create a more supportive environment. By recognizing and validating employees' specific emotions, they can provide more effective support and guidance, leading to higher job satisfaction and productivity.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance Emotional Granularity. By revisiting and reflecting on specific emotions at increasing intervals, learners reinforce their ability to accurately label and differentiate between nuanced emotional states. This approach not only improves emotional literacy but also enhances the retention of complex emotional concepts over time.
+
 ## Key Distinctions
 
 > [!key-distinction] **Emotional Granularity vs Alexithymia**
@@ -110,6 +117,19 @@ Emotional Granularity operates through the interplay of cognitive and physiologi
 
 > [!key-distinction] **Emotional Granularity vs Interoception**
 > Interoception is the process of sensing internal bodily states, which is crucial for Emotional Granularity. However, interoception alone does not equate to Emotional Granularity; it must be combined with accurate emotional labeling and differentiation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's emotions, allowing for a more nuanced understanding and labeling. In contrast, reactive thinking is an immediate response to stimuli without deeper analysis. Emotional Granularity benefits from reflective thinking as it enables individuals to pause and accurately identify their emotional states rather than reacting impulsively.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that simply using more emotion words automatically increases Emotional Granularity.
+>
+> This misconception arises from the belief that merely expanding one's vocabulary of emotions is sufficient. However, true Emotional Granularity requires a deep interoceptive awareness and the ability to accurately label specific emotional states based on bodily sensations. Merely knowing more emotion terms without corresponding differentiated experience does not enhance Emotional Granularity.
 
 ## Key Figures
 
@@ -127,11 +147,21 @@ Emotional Granularity operates through the interplay of cognitive and physiologi
 >
 > *What would resolve it:* Intervention studies evaluating the effectiveness of various training programs in enhancing Emotional Granularity could help determine whether it can be systematically developed.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the development and expression of Emotional Granularity?
+>
+> *What would resolve it:* Cross-cultural studies examining how societal norms, language, and socialization practices impact emotional labeling could provide insights into this question. Understanding these influences would help in designing culturally sensitive interventions to enhance Emotional Granularity.
+
 ## Synthesis
 
 Understanding and applying Emotional Granularity has significant implications for both individual well-being and broader societal health. By recognizing and labeling specific emotional states, individuals can better manage their emotions, leading to improved mental health outcomes. This concept also intersects with other areas such as interoception and emotion regulation, highlighting its importance in the field of cognitive psychology.
 
 The study of Emotional Granularity not only enriches our understanding of human emotion but also offers practical applications in education, therapy, and workplace management. As research continues to explore its development and training potential, Emotional Granularity will likely play an increasingly important role in promoting emotional intelligence and well-being.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Emotional Granularity is a multifaceted construct that integrates cognitive, physiological, and cultural dimensions. By fostering reflective thinking and interoceptive awareness, individuals can develop a more nuanced understanding of their emotional experiences, leading to better emotion regulation and overall well-being.
 
 ## Connections & Context
 
@@ -144,3 +174,10 @@ The study of Emotional Granularity not only enriches our understanding of human 
 **Applies to:** [[interoception]]
 
 **Source:** [[emotional-granularity-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[interoception]]** — *applies-to*
+> Emotional Granularity relies heavily on interoceptive awareness, the ability to perceive and interpret internal bodily sensations. This connection is crucial because accurate emotional labeling depends on recognizing subtle changes in body states that correspond to different emotions. Enhancing interoception can thus improve one's Emotional Granularity.

@@ -1,13 +1,12 @@
 ---
-title: "Feedback Design for Autonomy and Mastery"
+title: Feedback Design for Autonomy and Mastery
 aliases:
-  - "Feedback Design for Autonomy and Mastery"
-  - "autonomy-supportive feedback"
-  - "mastery-supportive feedback"
+  - Feedback Design for Autonomy and Mastery
+  - autonomy-supportive feedback
+  - mastery-supportive feedback
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "feedback-design-for-autonomy-and-mastery-synthetic-seed-2026-04-24"
+  - feedback-design-for-autonomy-and-mastery-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[self-regulated-learning]]"
-  - "[[Informational Feedback]]"
-  - "[[Controlling Feedback]]"
+  - '[[self-regulated-learning]]'
+  - '[[Informational Feedback]]'
+  - '[[Controlling Feedback]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[self-regulated-learning]]"
+  - '[[self-regulated-learning]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Informational Feedback]]"
-  - "[[Controlling Feedback]]"
+  - '[[Informational Feedback]]'
+  - '[[Controlling Feedback]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Feedback Design for Autonomy and Mastery
 
@@ -89,6 +88,9 @@ Theoretical roots of Feedback Design for Autonomy and Mastery can be traced back
 
 Empirical evidence supports the effectiveness of this approach. For example, a study by Dweck (2007) demonstrated that praising effort over ability led to higher levels of intrinsic motivation and better academic performance among students. Similarly, research by Deci et al. (1999) showed that autonomy-supportive teaching practices improved student engagement and achievement.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Feedback Design for Autonomy and Mastery is particularly effective in fostering long-term learning outcomes because it aligns with principles of self-determination theory, which posits that individuals are more motivated when their basic psychological needs for autonomy, competence, and relatedness are satisfied. By focusing on these needs, feedback not only enhances immediate performance but also promotes a deeper engagement with the material over time.
+
 ## Mechanism
 
 The mechanism behind Feedback Design for Autonomy and Mastery involves delivering feedback in a way that respects the learner's autonomy while providing clear, actionable information. This is achieved by focusing on specific aspects of the work rather than making global judgments about the person. By offering suggestions as options, learners are encouraged to reflect on their choices and make informed decisions, which enhances their sense of control over their learning process.
@@ -104,14 +106,35 @@ The mechanism behind Feedback Design for Autonomy and Mastery involves deliverin
 > [!example] **Application 3 — Online learning platforms**
 > In online learning environments, this concept can be applied through automated feedback systems that provide personalized suggestions based on student performance. For instance, an AI system might suggest different resources for a student to explore based on their current level of understanding and areas where they need more support. This not only enhances the learning experience but also respects the learner’s autonomy in choosing how to proceed.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Feedback in Online Learning Environments**
+> In online learning environments, such as Massive Open Online Courses (MOOCs), feedback design for autonomy and mastery can be crucial. For instance, providing personalized feedback that acknowledges the learner's progress and offers actionable suggestions can help maintain engagement despite the lack of face-to-face interaction. This approach ensures learners feel supported in their self-regulated learning journey.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Feedback Design for Autonomy and Mastery focuses on reducing extraneous load by providing clear, actionable feedback that supports intrinsic motivation. In contrast, controlling feedback often increases extraneous cognitive load by making learners feel judged or controlled, which can detract from their ability to focus on learning. The key difference lies in the form of feedback: while controlling feedback is evaluative and potentially degrading, autonomy-supportive feedback respects learner choice and promotes self-regulation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis, whereas reactive thinking is immediate and often automatic. Feedback design for autonomy and mastery encourages reflective thinking by prompting learners to consider their work critically and make informed decisions about how to improve. This contrasts with controlling feedback that may trigger reactive responses without fostering deeper reflection.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think providing positive feedback always boosts motivation.
+>
+> While positive reinforcement can be motivating, overly generic or insincere praise (vacuous praise) does not effectively support learning. Genuine, specific feedback that acknowledges effort and progress while offering constructive suggestions is more beneficial for fostering intrinsic motivation and long-term skill development.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller, a cognitive psychologist, laid the groundwork for understanding how instructional design can support learning. His work on cognitive load theory provided foundational insights that informed the development of Feedback Design for Autonomy and Mastery by emphasizing the importance of clear, non-controlling feedback.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Edward Deci** — Deci's work on self-determination theory has been instrumental in understanding how autonomy-supportive feedback can enhance intrinsic motivation. His research highlights the importance of providing learners with choices and acknowledging their perspectives, which are key components of feedback design for autonomy and mastery.
 
 ## Open Questions
 
@@ -120,11 +143,21 @@ The mechanism behind Feedback Design for Autonomy and Mastery involves deliverin
 >
 > *What would resolve it:* Further research on the long-term effects of different types of feedback and their impact on intrinsic motivation could provide clearer guidelines for avoiding vacuous praise.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does feedback design impact long-term retention versus short-term performance?
+>
+> *What would resolve it:* Research comparing immediate gains from controlling feedback to sustained benefits from autonomy-supportive feedback could clarify the optimal balance between enhancing current performance and fostering lasting learning outcomes.
+
 ## Synthesis
 
 Feedback Design for Autonomy and Mastery is crucial in instructional design because it aligns with broader theories of motivation and learning. By supporting competence, autonomy, and mastery focus, this approach enhances both cognitive development and psychological well-being. It falls under the umbrella of Self-Regulated Learning, which emphasizes the importance of learners taking an active role in their own education. This concept not only improves academic performance but also fosters a positive attitude towards learning that can last beyond formal educational settings.
 
 The evidence supporting Feedback Design for Autonomy and Mastery comes from various studies showing that autonomy-supportive feedback leads to higher levels of intrinsic motivation, better engagement, and improved achievement. By integrating this approach into instructional design, educators can create more effective and supportive learning environments.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating principles of self-determination theory with cognitive load theory, feedback design for autonomy and mastery offers a robust framework for instructional designers. This approach not only enhances immediate engagement but also supports long-term retention by promoting reflective thinking and intrinsic motivation.
 
 ## Connections & Context
 
@@ -135,3 +168,10 @@ The evidence supporting Feedback Design for Autonomy and Mastery comes from vari
 **Contrasts with:** [[Informational Feedback]] · [[Controlling Feedback]]
 
 **Source:** [[feedback-design-for-autonomy-and-mastery-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[self-regulated-learning]]** — *falls-under*
+> Feedback design for autonomy and mastery is a subset of self-regulated learning strategies. It specifically addresses how feedback can be structured to enhance learners' ability to regulate their own learning processes, aligning with broader goals of fostering independence and deep understanding.

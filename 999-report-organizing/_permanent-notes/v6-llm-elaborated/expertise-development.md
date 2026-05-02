@@ -1,12 +1,11 @@
 ---
-title: "Expertise Development"
+title: Expertise Development
 aliases:
-  - "Expertise Development"
-  - "expertise acquisition"
+  - Expertise Development
+  - expertise acquisition
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - deliberate-practice
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "expertise-development-synthetic-seed-2026-04-24"
+  - expertise-development-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Expertise Development
 
@@ -86,6 +85,9 @@ Theoretical roots of Expertise Development can be traced back to cognitive psych
 
 Empirical evidence supports the importance of deliberate practice over time. For example, Anders Ericsson's research on violinists demonstrated that those who engaged in deliberate practice showed significant improvements in performance compared to those with similar experience but without structured practice. This underscores the necessity of focused effort rather than mere accumulation of time.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Expertise Development is not a linear progression but rather a cyclical and iterative process, often characterized by periods of rapid improvement followed by plateaus. These plateaus are crucial as they allow for the consolidation of newly acquired skills into long-term memory, making them more readily accessible during future problem-solving tasks.
+
 ## Mechanism
 
 Deliberate practice operates through a step-by-step process where individuals receive immediate feedback, revise their actions based on this feedback, and continuously refine their cognitive models. This cycle of feedback, revision, and restructuring is crucial for the development of rich schemas and automated subroutines.
@@ -101,14 +103,35 @@ Deliberate practice operates through a step-by-step process where individuals re
 > [!example] **Application 3 — Professional development**
 > For professionals, understanding Expertise Development can inform continuous learning strategies. By engaging in deliberate practice through regular feedback and revision, individuals can enhance their problem-solving skills and adapt more effectively to new challenges in their field.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance Expertise Development by encouraging learners to revisit and reapply concepts at increasing intervals. This approach leverages the spacing effect, which has been shown to improve long-term retention and transfer of knowledge.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to how the task is presented. Expertise Development focuses on reducing extraneous load through deliberate practice, allowing for more efficient learning and problem-solving.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Surface processing involves rote memorization without understanding underlying concepts, while deep processing focuses on meaningful connections and comprehension. In Expertise Development, deep processing is essential for building rich schemas that facilitate problem-solving and transfer of knowledge to new contexts.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think expertise can be achieved quickly through shortcuts.
+>
+> Expertise requires extensive deliberate practice over years, as shortcuts often lead to superficial understanding. The depth and richness of cognitive schemas developed through deep engagement with challenging tasks are critical for achieving true expertise.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is a key figure in the field of cognitive psychology who introduced the concept of intrinsic vs. extraneous load, which has significant implications for understanding how deliberate practice affects cognitive processes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **K. Anders Ericsson** — Ericsson's research on deliberate practice has significantly influenced the understanding of Expertise Development by demonstrating that high levels of expertise are attainable through focused, structured practice over extended periods.
 
 ## Open Questions
 
@@ -121,6 +144,13 @@ Deliberate practice operates through a step-by-step process where individuals re
 > Can deliberate practice alone lead to expert-level performance in all domains?
 >
 > *What would resolve it:* Empirical studies across different domains, such as chess, music, sports, and professions, would provide insights into whether deliberate practice is sufficient for achieving expert status or if other factors are also necessary.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does age affect the rate and extent of Expertise Development?
+>
+> *What would resolve it:* Longitudinal studies comparing individuals at different life stages could provide insights into how cognitive development interacts with deliberate practice to influence expertise acquisition.
 
 ## Synthesis
 
@@ -137,3 +167,10 @@ The integration of Expertise Development with other concepts like working memory
 **Applies to:** [[worked-examples]]
 
 **Source:** [[expertise-development-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory capacity is a prerequisite for Expertise Development because it limits the amount of information that can be actively processed and manipulated during learning. As expertise develops, working memory becomes more efficient through automation of subroutines, allowing learners to handle increasingly complex tasks.

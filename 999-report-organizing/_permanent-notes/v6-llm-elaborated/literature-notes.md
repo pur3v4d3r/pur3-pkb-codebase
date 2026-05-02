@@ -1,13 +1,12 @@
 ---
-title: "Literature Notes"
+title: Literature Notes
 aliases:
-  - "Literature Notes"
-  - "reference notes"
-  - "source notes"
+  - Literature Notes
+  - reference notes
+  - source notes
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - notetaking
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "literature-notes-synthetic-seed-2026-04-25"
+  - literature-notes-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Zettelkasten Workflow"
-
+depth-level: enhanced
+parent-concept: Zettelkasten Workflow
 related:
-  - "[[atomic-notes]]"
-  - "[[fleeting-notes]]"
-  - "[[evergreen-notes]]"
+  - '[[atomic-notes]]'
+  - '[[fleeting-notes]]'
+  - '[[evergreen-notes]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[atomic-notes]]"
+  - '[[atomic-notes]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[fleeting-notes]]"
-  - "[[evergreen-notes]]"
+  - '[[fleeting-notes]]'
+  - '[[evergreen-notes]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Literature Notes
 
@@ -88,6 +87,9 @@ In practice, creating Literature Notes involves reading a passage from a source 
 Theoretical roots of Literature Notes can be traced back to cognitive psychology, particularly the concept of intrinsic vs. extraneous load. Intrinsic load refers to the inherent difficulty of a task, while extraneous load is the unnecessary mental effort required by the presentation or format of information. By forcing reformulation, Literature Notes reduce extraneous load and enhance intrinsic load, making the learning process more effective.
 
 Historically, the concept was popularized in 1988 by John Sweller, who emphasized the importance of deep processing over shallow processing in cognitive load theory. This approach aligns with the Zettelkasten method, which advocates for continuous and incremental knowledge construction through active engagement with sources.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Literature Notes not only serve as a tool for comprehension but also act as a bridge between passive reading and active application of knowledge. By forcing the reader to articulate ideas in their own words, Literature Notes facilitate the transition from surface-level understanding to deeper cognitive processing. This process is akin to elaborative rehearsal, where information is linked to existing knowledge structures, enhancing both retention and recall.
 
 ## Mechanism
 
@@ -112,6 +114,22 @@ The creation of Literature Notes involves several steps: first, reading a passag
 > [!key-distinction] **Literature Notes vs Evergreen Notes**
 > Evergreen notes focus on key points and insights from sources, whereas Literature Notes aim to understand the source material thoroughly. This distinction is crucial because it highlights the different purposes: evergreen notes are for quick reference, while Literature Notes are for deep understanding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall**
+> Literature Notes are particularly effective in promoting the ability to recall information freely rather than just recognizing it when cued. Unlike summaries or highlights that often rely on recognition (where cues help retrieve information), Literature Notes require active recall, which is a more robust form of memory and better supports long-term retention.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> While maintenance rehearsal involves simple repetition to keep information in short-term memory, elaborative rehearsal, as practiced through Literature Notes, integrates new information with existing knowledge. This deeper processing not only aids in long-term retention but also enhances the ability to apply and transfer knowledge across different contexts.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that highlighting or summarizing text is equivalent to creating Literature Notes.
+>
+> Highlighting and summarization are passive forms of engagement with source material. They do not require the same level of cognitive processing as reformulating information in one's own words, which is essential for deep understanding and long-term retention.
+
 ## Key Figures
 
 - **John Sweller** — In 1988, John Sweller introduced cognitive load theory, which emphasized the importance of deep processing over shallow processing. His work laid the theoretical foundation for the creation and use of Literature Notes in knowledge management systems.
@@ -134,6 +152,9 @@ Literature Notes are a crucial component of the Zettelkasten workflow because th
 
 The concept of Literature Notes has broader implications across various domains, including instructional design, academic research, and professional development. Their role in deep processing aligns with cognitive load theory and supports the Zettelkasten method's emphasis on active knowledge construction.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating mechanisms of deep processing and active recall through reformulation, Literature Notes not only enhance immediate comprehension but also lay the groundwork for long-term retention and application. This dual benefit positions them as a cornerstone in effective knowledge management practices within the Zettelkasten workflow.
+
 ## Connections & Context
 
 **Falls under:** [[zettelkasten-workflow]]
@@ -143,3 +164,13 @@ The concept of Literature Notes has broader implications across various domains,
 **Contrasts with:** [[fleeting-notes]] · [[evergreen-notes]]
 
 **Source:** [[literature-notes-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[atomic-notes]]** — *specializes*
+> Literature Notes specialize into atomic notes by focusing on specific ideas or concepts from a source, rather than broader summaries. This specialization allows for precise indexing and linking within the Zettelkasten system, making it easier to retrieve and integrate knowledge.
+
+> [!connection] **[[evergreen-notes]]** — *contrasts-with*
+> While evergreen notes are designed to be timeless and reusable, Literature Notes are more transient in nature. They serve as a stepping stone towards creating evergreen notes by providing the foundational understanding necessary for distilling key insights into permanent knowledge.

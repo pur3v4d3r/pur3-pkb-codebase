@@ -1,12 +1,11 @@
 ---
-title: "Feynman Technique"
+title: Feynman Technique
 aliases:
-  - "Feynman Technique"
-  - "explain-it-to-a-child technique"
+  - Feynman Technique
+  - explain-it-to-a-child technique
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - metacognition
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "feynman-technique-synthetic-seed-2026-04-26"
+  - feynman-technique-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[self-explanation]]"
-  - "[[active-recall]]"
+  - '[[self-explanation]]'
+  - '[[active-recall]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[self-explanation]]"
+  - '[[self-explanation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[active-recall]]"
+  - '[[active-recall]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Feynman Technique
 
@@ -86,6 +85,9 @@ Theoretical roots of the Feynman Technique trace back to cognitive psychology, p
 
 Historically, the technique was popularized by physicist Richard Feynman, who used it to master complex subjects like quantum electrodynamics. His method has since been adopted across various fields, from science and engineering to business and personal development. The technique's effectiveness lies in its ability to bridge the gap between theoretical knowledge and practical application, making it a valuable tool for anyone seeking to deepen their understanding of a subject.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Feynman Technique is not merely a study method but also serves as a diagnostic tool for identifying areas of misunderstanding or confusion within one's knowledge base. By attempting to explain concepts in simple terms, learners often uncover misconceptions that they were previously unaware of, which can be crucial for correcting their understanding and building a more coherent mental model.
+
 ## Mechanism
 
 The Feynman Technique works because it forces the learner to translate technical vocabulary into ordinary language. This translation process is crucial as it fails wherever the learner has only memorized terminology rather than mastered the underlying conceptual structure. By simplifying explanations, learners are forced to confront and address any gaps in their understanding, leading to a more robust and comprehensive grasp of the material.
@@ -98,14 +100,35 @@ The Feynman Technique works because it forces the learner to translate technical
 > [!example] **Application 2 — Personal development**
 > For personal development, the technique can be used to learn new skills by breaking them down into manageable parts and explaining each component. This approach helps individuals identify their strengths and weaknesses, leading to more targeted practice and improvement.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), the Feynman Technique can be integrated with spaced retrieval techniques to enhance learning. By periodically revisiting and explaining concepts at increasing intervals, learners not only reinforce their understanding but also identify areas that require further review or clarification.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Feynman Technique focuses on intrinsic load by encouraging learners to engage deeply with the material. In contrast, extraneous load refers to unnecessary cognitive demands that do not contribute to learning. The technique minimizes extraneous load by ensuring that explanations are clear and focused, rather than adding superfluous details.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> The Feynman Technique emphasizes reflective thinking by encouraging learners to pause and consider how they can explain a concept clearly. This contrasts with reactive thinking, which is more immediate and less deliberate. Reflective thinking allows for deeper processing of information, leading to better understanding and retention.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think the Feynman Technique only involves explaining concepts in simple terms.
+>
+> While simplifying explanations is a key component, the technique also includes identifying gaps in one's understanding and revisiting the material to fill these gaps. This iterative process ensures that learners not only explain but also master the underlying concepts.
+
 ## Key Figures
 
 - **Richard Feynman** — Feynman is credited with popularizing the technique through his own use of it to master complex subjects like quantum electrodynamics. His method has since been adopted across various fields, from science and engineering to business and personal development.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Joshua Foer** — Foer popularized the Feynman Technique in his book 'Moonwalking with Einstein', highlighting its effectiveness for memory improvement and deep learning. His work has brought renewed attention to this method, demonstrating its utility across various domains.
 
 ## Open Questions
 
@@ -119,11 +142,21 @@ The Feynman Technique works because it forces the learner to translate technical
 >
 > *What would resolve it:* Guidelines based on empirical research that outline specific steps and strategies for using the Feynman Technique effectively could address this open question.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the integration of visual aids affect the efficacy of the Feynman Technique?
+>
+> *What would resolve it:* Empirical studies comparing the use of visual aids alongside verbal explanations in the Feynman Technique could provide insights into how these tools enhance or detract from learning outcomes.
+
 ## Synthesis
 
 The Feynman Technique matters because it provides a powerful framework for deep learning by encouraging active engagement with material. By aligning with principles of [[self-regulated-learning]], it empowers learners to take control of their own education, fostering both understanding and retention. Its application in various contexts—from instructional design to personal development—demonstrates its versatility and value across different domains of learning science.
 
 Moreover, the technique's focus on simplification and self-explanation makes it particularly effective for bridging gaps between theoretical knowledge and practical application. By integrating this method into broader educational strategies, educators can enhance student outcomes and promote lifelong learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The synthesis of reflective thinking and active recall within the Feynman Technique creates a powerful method for deep learning. By combining these elements, learners can not only articulate their understanding but also continuously refine it through targeted study, making this technique a cornerstone in self-regulated learning strategies.
 
 ## Connections & Context
 
@@ -134,3 +167,10 @@ Moreover, the technique's focus on simplification and self-explanation makes it 
 **Applies to:** [[active-recall]]
 
 **Source:** [[feynman-technique-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[active-recall]]** — *applies-to*
+> The Feynman Technique applies active recall by requiring learners to retrieve and articulate their understanding of a concept without external aids. This retrieval process strengthens memory traces, making the technique an effective application of active recall principles.

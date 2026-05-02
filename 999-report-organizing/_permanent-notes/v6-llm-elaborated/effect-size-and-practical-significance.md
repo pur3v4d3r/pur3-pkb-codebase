@@ -1,14 +1,13 @@
 ---
-title: "Effect Size and Practical Significance"
+title: Effect Size and Practical Significance
 aliases:
-  - "Effect Size and Practical Significance"
-  - "effect size"
-  - "practical significance"
-  - "magnitude of effect"
+  - Effect Size and Practical Significance
+  - effect size
+  - practical significance
+  - magnitude of effect
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,55 @@ subdomains:
   - meta-science
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "effect-size-and-practical-significance-synthetic-seed-2026-04-26"
+  - effect-size-and-practical-significance-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Inferential Statistics"
-
+depth-level: enhanced
+parent-concept: Inferential Statistics
 related:
-  - "[[Statistical Significance]]"
-  - "[[Confidence Intervals]]"
+  - '[[Statistical Significance]]'
+  - '[[Confidence Intervals]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Statistical Significance]]"
+  - '[[Statistical Significance]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Confidence Intervals]]"
+  - '[[Confidence Intervals]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Effect Size and Practical Significance
 
@@ -88,6 +87,9 @@ Theoretical roots and conceptual nuances of effect sizes trace back to Jacob Coh
 
 Empirically, the importance of reporting effect sizes has been emphasized in guidelines from organizations like the APA and AERA. These guidelines require researchers to report both statistical significance and effect sizes with confidence intervals, ensuring that readers can assess not just whether an effect exists but also its magnitude and practical relevance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Effect sizes and practical significance play a pivotal role in guiding evidence-based decision-making across various fields, from healthcare to education. In clinical trials, for instance, an effect size that is statistically significant but small may not warrant the adoption of a new treatment if it comes with substantial side effects or high costs. Conversely, a large effect size might justify further investment even if initial results are not statistically significant due to limited sample sizes.
+
 ## Mechanism
 
 Effect sizes are calculated using various metrics depending on the type of data and research question. For example, Cohen's d is used for comparing means between two groups, while Pearson's r measures the strength and direction of a linear relationship between two continuous variables. These calculations standardize the effect size to allow comparisons across different studies or datasets.
@@ -100,10 +102,28 @@ Effect sizes are calculated using various metrics depending on the type of data 
 > [!example] **Application 2 — Medical research**
 > In medical research, effect sizes help determine the clinical significance of treatment outcomes. A small effect size might indicate that a new drug has a statistically significant but practically insignificant impact on patient recovery rates. This information can guide healthcare providers in making evidence-based decisions about which treatments to recommend.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), understanding the practical significance of spaced retrieval techniques can inform instructional design. If a study shows that spacing out practice sessions improves retention by an effect size of d = 0.5, educators might consider implementing this strategy despite potential logistical challenges, as the benefits could outweigh the costs.
+
 ## Key Distinctions
 
 > [!key-distinction] **effect size vs. statistical significance**
 > Effect Size and Practical Significance differ from statistical significance by focusing on the magnitude of an effect rather than its probability of occurring due to chance. While a small p-value might indicate statistical significance, it does not necessarily imply practical importance. Conversely, a large effect size can be practically significant even if it is not statistically significant in smaller sample sizes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Type I vs Type II Error**
+> While Type I errors (false positives) and Type II errors (false negatives) pertain to the risk of incorrectly rejecting or failing to reject a null hypothesis, effect sizes focus on quantifying the magnitude of an observed relationship. Understanding both is crucial: while statistical tests control for error rates, effect sizes provide context about how meaningful these relationships are in real-world applications.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that a statistically significant result automatically implies practical significance.
+>
+> This misconception arises from the common practice of overemphasizing p-values. In reality, statistical significance only indicates whether an observed effect is likely due to chance; it does not gauge the importance or relevance of the effect in practical contexts. For instance, a small effect size might be statistically significant with a large sample but may have negligible impact on real-world outcomes.
 
 ## Key Figures
 
@@ -127,6 +147,9 @@ Effect Size and Practical Significance matter because they provide a more nuance
 
 The concept of effect size complements the use of statistical significance by offering a standardized measure that can be compared across different studies or datasets. It helps researchers and practitioners make informed decisions about the practical relevance of their findings, ensuring that resources are allocated to interventions with meaningful impacts.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding and reporting effect sizes alongside statistical significance enhances the interpretability and applicability of research findings. By focusing on both the magnitude and reliability of effects, researchers can better inform policy decisions, clinical practices, and educational strategies, ensuring that interventions are not only statistically supported but also practically meaningful.
+
 ## Connections & Context
 
 **Falls under:** [[Inferential Statistics]]
@@ -136,3 +159,10 @@ The concept of effect size complements the use of statistical significance by of
 **Applies to:** [[Confidence Intervals]]
 
 **Source:** [[effect-size-and-practical-significance-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Confidence Intervals]]** — *applies-to*
+> Effect sizes and confidence intervals are intrinsically linked because both provide essential information about the reliability of research findings. While effect sizes quantify the magnitude of an observed relationship, confidence intervals offer a range within which the true effect size likely falls, thus complementing each other in assessing practical significance.

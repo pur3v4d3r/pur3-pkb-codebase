@@ -1,15 +1,14 @@
 ---
-title: "Dual-Process Theory"
+title: Dual-Process Theory
 aliases:
-  - "Dual-Process Theory"
-  - "Dual Process Theory"
-  - "Two Systems Theory"
-  - "System 1 and System 2"
-  - "Kahneman's Dual Process Framework"
+  - Dual-Process Theory
+  - Dual Process Theory
+  - Two Systems Theory
+  - System 1 and System 2
+  - Kahneman's Dual Process Framework
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - philosophy-of-mind
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20"
+  - dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[heuristics-and-biases]]"
+  - '[[working-memory]]'
+  - '[[heuristics-and-biases]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[heuristics-and-biases]]"
+  - '[[heuristics-and-biases]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Dual-Process Theory
 
@@ -90,6 +89,9 @@ The theory's roots trace back to cognitive psychologists like Keith Stanovich an
 
 Empirically, dual-process theory has been supported by numerous studies demonstrating the distinct roles of System 1 and System 2 in various cognitive tasks. For instance, experiments have shown that participants often rely on System 1 for quick judgments but can be prompted to engage System 2 through specific interventions, leading to more accurate decisions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Dual-process theory also illuminates how cognitive biases can be mitigated through deliberate practice and training. By repeatedly engaging System 2 in scenarios that initially trigger System 1 errors, individuals can develop a more robust ability to override intuitive but potentially flawed judgments. This process is akin to muscle memory in physical skills, where repeated correct execution of an action leads to automaticity.
+
 ## Mechanism
 
 The interaction between System 1 and System 2 is governed by a default-interventionist architecture. In this model, Type 1 generates a default response to nearly every cognitive situation, while Type 2 intervenes only when specific conditions are met — such as perceived difficulty or explicit instructions to be careful. This mechanism explains why people often make intuitive judgments without further reflection and how deliberate effort can lead to more rational outcomes.
@@ -105,15 +107,36 @@ The interaction between System 1 and System 2 is governed by a default-intervent
 > [!example] **Application 3 — Choice architecture**
 > In behavioral economics, choice architecture leverages dual-process theory by structuring environments to encourage rational decision-making. By presenting options in a way that prompts System 2 engagement, such as providing detailed information or requiring explicit choices, the framework can help reduce cognitive biases and improve outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance learning by engaging System 2. By spacing out quizzes and assessments over time, rather than clustering them at the end of a course, learners are prompted to periodically revisit material. This process requires effortful recall from long-term memory, which activates System 2 thinking, thereby reinforcing understanding and reducing reliance on superficial memorization.
+
 ## Key Distinctions
 
 > [!key-distinction] **System 1 vs System 2 processing**
 > System 1 is characterized by its autonomous, parallel, and minimally demanding nature, while System 2 is controlled, serial, effortful, and dependent on working memory. The key distinction lies in their roles: System 1 generates initial intuitions, whereas System 2 evaluates and potentially overrides these intuitions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and evaluation of information, aligning closely with System 2 processing. In contrast, reactive thinking is immediate and automatic, akin to System 1 operations. This distinction highlights the role of conscious deliberation in overcoming intuitive but potentially erroneous judgments.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that all cognitive biases are eliminated by engaging System 2.
+>
+> While System 2 can help mitigate certain biases, it is not infallible. Cognitive biases often arise from the interaction between both systems, where intuitive judgments (System 1) may still influence even when deliberate reasoning (System 2) is engaged.
+
 ## Key Figures
 
 - **Daniel Kahneman** — Kahneman is a prominent contributor to dual-process theory. His work with Amos Tversky on heuristics and biases highlighted the systematic errors in human judgment, providing empirical support for the framework.
 - **Keith Stanovich** — Stanovich has been instrumental in developing the default-interventionist architecture of dual-process theory. His research emphasizes the importance of metacognitive monitoring and deliberate effort in rational decision-making.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Keith Stanovich** — Stanovich's work on the default-interventionist model of dual-process theory has clarified how System 1 and System 2 interact, emphasizing that System 2 only intervenes under specific conditions.
 
 ## Open Questions
 
@@ -126,6 +149,13 @@ The interaction between System 1 and System 2 is governed by a default-intervent
 > How does dual-process theory explain cognitive errors and biases?
 >
 > *What would resolve it:* More detailed neuroimaging studies could provide insights into the neural mechanisms underlying these processes, potentially resolving debates about their exact nature and interaction.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the balance between System 1 and System 2 thinking?
+>
+> *What would resolve it:* Cross-cultural studies could provide insights into how different societal norms and educational practices affect individuals' reliance on intuitive versus deliberate cognitive processes.
 
 ## Synthesis
 
@@ -142,3 +172,10 @@ The theory's value lies not only in its descriptive power but also in its practi
 **Applies to:** [[heuristics-and-biases]]
 
 **Source:** [[dual-process-theory-kahneman-system-1-system-2-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[heuristics-and-biases]]** — *applies-to*
+> Dual-process theory provides a framework for understanding how heuristics and biases arise from the interplay between intuitive (System 1) and deliberate (System 2) thinking. This connection underscores why certain cognitive shortcuts can lead to systematic errors in judgment.

@@ -1,15 +1,14 @@
 ---
-title: "Metacognitive Regulation"
+title: Metacognitive Regulation
 aliases:
-  - "Metacognitive Regulation"
-  - "Cognitive Strategies for PKB Learning"
-  - "PKM Cognitive Strategy Architecture"
-  - "Learning Strategies and Knowledge Base Design"
-  - "Cognitive PKB Design"
+  - Metacognitive Regulation
+  - Cognitive Strategies for PKB Learning
+  - PKM Cognitive Strategy Architecture
+  - Learning Strategies and Knowledge Base Design
+  - Cognitive PKB Design
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18"
+  - pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Metacognitive Regulation
 
@@ -90,6 +89,9 @@ Theoretical roots of metacognitive regulation trace back to cognitive architectu
 
 Empirical evidence supports the importance of metacognitive regulation in learning. Studies have shown that students who engage in self-explanation and monitoring tend to perform better academically, as they are more likely to identify and address their own misconceptions. This underscores the practical implications of understanding metacognitive regulation for both learners and educators.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Metacognitive regulation is not merely a passive process but an active one that requires learners to engage in self-regulation and strategic planning. This involves setting goals, monitoring progress towards these goals, and making adjustments as necessary. For instance, a learner might set the goal of mastering a complex concept by the end of the week and then regularly assess their understanding through practice quizzes or reflective journaling.
+
 ## Mechanism
 
 Metacognitive regulation involves a series of steps that begin with monitoring comprehension. Learners must first assess whether they understand the material at hand, which can be done through self-explanation or by attempting to explain concepts to others. Once this assessment is made, learners then select and deploy appropriate strategies based on their needs. For example, if a learner recognizes that they need more practice, they might engage in retrieval exercises. Finally, learners must adjust these strategies as needed based on feedback, whether it comes from self-assessment or external sources.
@@ -105,14 +107,35 @@ Metacognitive regulation involves a series of steps that begin with monitoring c
 > [!example] **Application 3 — Learning environments**
 > In dynamic learning environments, such as online courses or collaborative projects, metacognitive regulation can be facilitated through the use of adaptive technologies and peer feedback. These tools help learners monitor their progress and adjust their strategies in real-time, leading to more effective knowledge management.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced with metacognitive regulation. Learners who actively monitor their understanding and adjust their study schedules to include regular, spaced practice sessions are more likely to retain information over time compared to those who cram all material in one sitting.
+
 ## Key Distinctions
 
 > [!key-distinction] **Metacognitive Monitoring vs Metacognitive Regulation**
 > While metacognitive monitoring involves assessing one's current understanding and recognizing when additional effort is needed, metacognitive regulation focuses on the actual deployment of strategies. For example, a learner might monitor their comprehension and realize they need to elaborate further, but it is the regulatory process that decides whether to slow down and seek more information or continue with the original strategy.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate review and analysis of past experiences or current situations, whereas reactive thinking is immediate and often automatic. In the context of metacognitive regulation, reflective thinking allows learners to plan ahead, set goals, and evaluate their strategies systematically, leading to more effective learning outcomes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Metacognitive regulation is only about monitoring comprehension.
+>
+> While monitoring comprehension is a crucial part of metacognitive regulation, it also involves selecting and deploying appropriate strategies based on this assessment. Simply recognizing that one does not understand something without taking steps to address the gap in knowledge does not constitute effective metacognitive regulation.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is a key contributor to the understanding of metacognitive regulation, particularly through his work on intrinsic vs extraneous load and cognitive load theory. His research has highlighted the importance of metacognitive processes in managing cognitive strategies effectively.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Barbara Oakley** — Oakley's work on dual-process theory has contributed significantly to understanding metacognitive regulation by highlighting the interplay between System 1 (fast, intuitive) and System 2 (slow, deliberative) thinking in learning processes.
 
 ## Open Questions
 
@@ -126,11 +149,21 @@ Metacognitive regulation involves a series of steps that begin with monitoring c
 >
 > *What would resolve it:* Longitudinal studies tracking the impact of explicit instruction on metacognitive skills would help determine whether and how metacognitive regulation can be systematically developed in learners.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does individual variability in working memory capacity affect the effectiveness of metacognitive regulation?
+>
+> *What would resolve it:* Empirical studies comparing individuals with varying levels of working memory capacity could provide insights into how this cognitive resource influences learners' ability to monitor, select, and adjust their strategies effectively.
+
 ## Synthesis
 
 Understanding metacognitive regulation is crucial for effective learning because it bridges the gap between theoretical knowledge and practical application. By enabling learners to monitor their comprehension, select appropriate strategies, and adjust them based on feedback, metacognitive regulation enhances the efficiency and effectiveness of cognitive processes. This concept has broad implications across various domains, from instructional design to educational practices, making it a fundamental aspect of cognitive architecture.
 
 Moreover, metacognitive regulation is not just about individual learning but also plays a role in knowledge management within teams and organizations. By fostering self-regulated learning, individuals can better contribute to collaborative projects and organizational goals, thereby enhancing overall performance.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Metacognitive regulation is a dynamic process that integrates monitoring comprehension, selecting appropriate strategies, and adjusting these strategies based on feedback. By enhancing learners' awareness of their own thought processes and enabling them to make informed decisions about how to approach learning tasks, metacognitive regulation plays a pivotal role in fostering effective and efficient knowledge acquisition.
 
 ## Connections & Context
 
@@ -141,3 +174,10 @@ Moreover, metacognitive regulation is not just about individual learning but als
 **Applies to:** [[worked-examples]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory is a prerequisite for metacognitive regulation because it provides the temporary storage and manipulation of information necessary to monitor comprehension, select strategies, and adjust learning approaches. Without sufficient working memory capacity, learners may struggle to effectively manage their cognitive processes.

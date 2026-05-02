@@ -1,13 +1,12 @@
 ---
-title: "Metacognitive Calibration"
+title: Metacognitive Calibration
 aliases:
-  - "Metacognitive Calibration"
-  - "confidence calibration"
-  - "calibration of metacognition"
+  - Metacognitive Calibration
+  - confidence calibration
+  - calibration of metacognition
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "metacognitive-calibration-synthetic-seed-2026-04-24"
+  - metacognitive-calibration-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Metacognitive Calibration
 
@@ -87,6 +86,9 @@ Theoretical roots of metacognitive calibration can be traced back to cognitive p
 
 Empirical evidence supports the importance of metacognitive calibration in learning. Studies have shown that well-calibrated learners are more likely to engage in effective study strategies, such as spaced repetition and elaborative interrogation, which can enhance long-term retention and understanding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Metacognitive calibration is not merely about being accurate in one's judgments but also about developing a consistent pattern over time. This consistency allows learners to trust their confidence levels as reliable indicators of knowledge, which is crucial for long-term academic success and personal development.
+
 ## Mechanism
 
 Learners can improve their metacognitive calibration through specific practices. For example, receiving accuracy feedback after making confidence judgments helps learners adjust their self-assessments over time. Another effective method is generating retrieval attempts before judging knowing, which allows learners to test their knowledge and refine their confidence levels.
@@ -102,14 +104,35 @@ Learners can improve their metacognitive calibration through specific practices.
 > [!example] **Application 3 — Feedback mechanisms**
 > Educators should design feedback systems that provide learners with accurate information about their performance, allowing them to calibrate their confidence levels more effectively. This can be achieved through regular quizzes or self-assessment tools that offer immediate feedback on correctness.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can enhance metacognitive calibration. By scheduling quizzes and assessments at intervals, learners are prompted to recall information periodically, which helps them gauge their true understanding over time rather than just before an exam.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While intrinsic load refers to the inherent difficulty of a task, extraneous load pertains to factors in the learning environment that do not contribute to understanding. Metacognitive calibration is distinct from these concepts as it focuses on the alignment between confidence and accuracy, rather than the complexity or structure of the material.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's knowledge and confidence levels, whereas reactive thinking is immediate and often based on gut feelings. Metacognitive calibration benefits from reflective thinking as it allows learners to critically assess their understanding, leading to more accurate confidence judgments.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that metacognitive calibration only matters for academic performance.
+>
+> While improved academic outcomes are a significant benefit of metacognitive calibration, its importance extends beyond academics. In professional settings, accurately assessing one's knowledge and skills can lead to better decision-making and career advancement.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating the concept of metacognitive calibration in his work on cognitive load theory. His research highlighted the importance of aligning confidence judgments with actual accuracy for effective learning and self-regulation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Robert Bjork** — Bjork's research on desirable difficulties highlights how challenging conditions that initially impair performance can enhance long-term retention and metacognitive calibration. His work underscores the importance of spaced practice in improving learners' ability to accurately assess their knowledge.
 
 ## Open Questions
 
@@ -123,11 +146,21 @@ Learners can improve their metacognitive calibration through specific practices.
 >
 > *What would resolve it:* Longitudinal studies tracking the academic progress of students with varying levels of metacognitive calibration could provide insights into the lasting impact of miscalibration on learning outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the development of metacognitive calibration?
+>
+> *What would resolve it:* Cross-cultural studies are needed to understand how different educational and societal norms affect learners' confidence judgments and accuracy, potentially revealing culturally-specific strategies for enhancing metacognitive calibration.
+
 ## Synthesis
 
 Metacognitive Calibration is a fundamental aspect of self-regulated learning, impacting how learners allocate study time and engage in effective study strategies. By aligning confidence with accuracy, well-calibrated learners can better identify knowledge gaps and improve their overall understanding. This concept has broader implications for instructional design, feedback mechanisms, and the development of study habits that enhance long-term retention and academic performance.
 
 Understanding metacognitive calibration also intersects with other concepts in learning science, such as working memory and worked examples. By integrating these insights, educators can create more effective learning environments that support students in developing accurate self-assessments and improving their overall learning outcomes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Metacognitive Calibration is pivotal in self-regulated learning as it enables learners to navigate their knowledge landscape with precision. By aligning confidence with actual understanding, learners can optimize their study efforts and adapt their approaches based on accurate assessments of their progress.
 
 ## Connections & Context
 
@@ -138,3 +171,10 @@ Understanding metacognitive calibration also intersects with other concepts in l
 **Applies to:** [[worked-examples]]
 
 **Source:** [[metacognitive-calibration-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory capacity influences metacognitive calibration because learners with higher working memory can more effectively monitor their understanding during learning tasks, leading to better alignment between confidence and accuracy.

@@ -1,13 +1,12 @@
 ---
-title: "Correspondence Theory of Truth"
+title: Correspondence Theory of Truth
 aliases:
-  - "Correspondence Theory of Truth"
-  - "correspondence theory"
-  - "truthmaker theory"
+  - Correspondence Theory of Truth
+  - correspondence theory
+  - truthmaker theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - philosophy-of-language
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "correspondence-theory-of-truth-synthetic-seed-2026-04-26"
+  - correspondence-theory-of-truth-synthetic-seed-2026-04-26
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Theories of Truth"
-
+depth-level: enhanced
+parent-concept: Theories of Truth
 related:
-  - "[[Coherence Theory of Truth]]"
-  - "[[Deflationism]]"
-  - "[[Truthmaker Principle]]"
+  - '[[Coherence Theory of Truth]]'
+  - '[[Deflationism]]'
+  - '[[Truthmaker Principle]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Coherence Theory of Truth]]"
-  - "[[Deflationism]]"
+  - '[[Coherence Theory of Truth]]'
+  - '[[Deflationism]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Truthmaker Principle]]"
+  - '[[Truthmaker Principle]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Correspondence Theory of Truth
 
@@ -89,6 +88,9 @@ Theoretical roots of the Correspondence Theory can be traced back to classical e
 
 Empirically, the Correspondence Theory has been influential in shaping debates about realism versus anti-realism. Realists, who adhere to this theory, believe that there is a world independent of our perceptions, and statements can be true or false based on their correspondence to this reality. Anti-realists, on the other hand, may argue that truth is more complex and cannot be reduced solely to correspondence.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Correspondence Theory's emphasis on factual accuracy has significant implications for epistemological debates about knowledge acquisition and validation. It suggests that truth is not merely a matter of linguistic convention or internal coherence but requires an external verification process. This perspective challenges relativist views by asserting the existence of objective truths independent of human beliefs or societal norms.
+
 ## Mechanism
 
 The mechanism by which the Correspondence Theory operates involves a direct mapping between language and reality. When we make a statement, it must align with an existing fact or state of affairs for it to be considered true. This alignment is not merely semantic but requires that the statement corresponds to something real in the world.
@@ -101,10 +103,28 @@ The mechanism by which the Correspondence Theory operates involves a direct mapp
 > [!example] **Application 2 — Legal reasoning**
 > In legal contexts, the Correspondence Theory suggests that laws should be interpreted based on their alignment with established facts and precedents. Judges must ensure that their rulings correspond to the reality of the case at hand, rather than relying solely on abstract principles.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Legal evidence standards**
+> In legal contexts, adhering to the Correspondence Theory can influence how evidence is evaluated and accepted. For instance, a judge applying this theory would require that testimonies and physical evidence correspond directly with objective facts of the case. This approach ensures that verdicts are based on verifiable reality rather than subjective interpretations or circumstantial assumptions.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Correspondence Theory is often contrasted with theories like coherence theory or deflationism. Coherence theory focuses on the consistency of beliefs within a system, while deflationism reduces truth to a mere linguistic device. The Correspondence Theory, in contrast, emphasizes intrinsic correspondence to reality, making it distinct from these other approaches.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall in Truth Evaluation**
+> The Correspondence Theory relies heavily on recall, as it requires individuals to accurately remember and articulate facts about the world. In contrast, recognition-based approaches might rely more on identifying truths from a set of options or confirming statements against known facts without necessarily recalling them independently. This distinction highlights how truth evaluation can be influenced by different cognitive processes.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often think that the Correspondence Theory simplifies truth to mere factual accuracy.
+>
+> While the theory does emphasize correspondence with reality, it also faces significant philosophical challenges. Defining what constitutes a 'fact' and how statements can correspond to these facts is complex. Moreover, the theory's reliance on an objective reality independent of human perception introduces ontological questions that complicate its straightforward application.
 
 ## Key Figures
 
@@ -122,11 +142,21 @@ The mechanism by which the Correspondence Theory operates involves a direct mapp
 >
 > *What would resolve it:* Empirical evidence or philosophical arguments that establish the ontological status of facts would help clarify whether the existence of facts is a necessary condition for truth.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Correspondence Theory address the problem of verification?
+>
+> *What would resolve it:* Addressing this question would require developing criteria for verifying factual claims without falling into circular reasoning or infinite regress. Philosophical work on epistemic justification and empirical methods could provide insights into resolving this issue.
+
 ## Synthesis
 
 The Correspondence Theory of Truth is significant in epistemology because it provides a clear and intuitive framework for understanding what makes a statement true. By emphasizing correspondence to reality, this theory aligns with common intuitions about truth but also faces challenges related to the nature of facts and the meaning of 'correspondence'. Its implications extend beyond philosophy into practical domains such as education and law, making it a crucial concept in our understanding of knowledge and belief.
 
 The Correspondence Theory is part of a broader discussion on realism versus anti-realism. While it offers a strong realist account of truth, its reliance on facts introduces metaphysical commitments that some find problematic. By differentiating between the Correspondence Theory and other theories like coherence or deflationism, we can better understand the nuances of how we conceptualize truth.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Correspondence Theory's insistence on a direct link between statements and reality underscores its role in grounding truth within an objective framework. This stance not only challenges relativistic views but also invites scrutiny of the mechanisms by which we verify factual claims, thereby enriching our understanding of epistemological foundations.
 
 ## Connections & Context
 
@@ -137,3 +167,10 @@ The Correspondence Theory is part of a broader discussion on realism versus anti
 **Applies to:** [[Truthmaker Principle]]
 
 **Source:** [[correspondence-theory-of-truth-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Truthmaker Principle]]** — *applies-to*
+> The Correspondence Theory and the Truthmaker Principle are closely linked because both emphasize the existence of facts or states of affairs that make propositions true. The Truthmaker Principle posits that for any truth, there must be a corresponding fact in reality. This principle supports the Correspondence Theory by providing a framework to identify what constitutes a 'fact' that statements can correspond to.

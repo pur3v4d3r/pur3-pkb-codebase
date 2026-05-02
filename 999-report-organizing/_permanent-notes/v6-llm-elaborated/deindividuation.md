@@ -1,13 +1,12 @@
 ---
-title: "Deindividuation"
+title: Deindividuation
 aliases:
-  - "Deindividuation"
-  - "loss of self-awareness"
-  - "crowd anonymity"
+  - Deindividuation
+  - loss of self-awareness
+  - crowd anonymity
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - self-regulation
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "deindividuation-synthetic-seed-2026-04-26"
+  - deindividuation-synthetic-seed-2026-04-26
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Social Psychology"
-
+depth-level: enhanced
+parent-concept: Social Psychology
 related:
-  - "[[groupthink]]"
-  - "[[conformity]]"
-  - "[[social-identity-theory]]"
+  - '[[groupthink]]'
+  - '[[conformity]]'
+  - '[[social-identity-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[groupthink]]"
-  - "[[conformity]]"
+  - '[[groupthink]]'
+  - '[[conformity]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[social-identity-theory]]"
+  - '[[social-identity-theory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Deindividuation
 
@@ -88,6 +87,9 @@ The core mechanism involves a shift from personal identity to social identity. W
 Theoretical roots of deindividuation trace back to social identity theory, which suggests that people derive their self-concept from their membership in various groups. In a deindividuated state, individuals may prioritize the identity and norms associated with the group over their personal identity, leading to behaviors that align more closely with the group's expectations.
 
 Empirical evidence supports this model through studies showing that deindividuation can lead to both prosocial and antisocial behavior depending on the salient group norms. For instance, online groups with a strong sense of community and shared values may exhibit increased cooperation and altruism among members.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Deindividuation can also be understood through the lens of top-down vs bottom-up processing. In a deindividuated state, individuals tend to rely more on top-down processing where their behavior is driven by group norms and expectations rather than personal identity or immediate sensory input. This shift allows for rapid alignment with group behaviors without the need for detailed analysis of each situation, which can be particularly advantageous in fast-moving crowd scenarios.
 
 ## Mechanism
 
@@ -109,6 +111,19 @@ The process of deindividuation begins when individuals become anonymous within a
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Deindividuation is not about intrinsic cognitive load but rather extraneous load, which refers to the environmental factors that distract from self-awareness. In contrast, intrinsic load involves the complexity of a task itself.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Deindividuation often leads to a shift from reflective thinking to reactive thinking. Reflective thinking involves deliberate consideration and evaluation of actions, whereas reactive thinking is more immediate and less deliberative. In deindividuated states, individuals are more likely to engage in reactive behaviors that align with group norms without the usual internal scrutiny.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think deindividuation always leads to antisocial behavior.
+>
+> While deindividuation can lead to both prosocial and antisocial behaviors, it depends on the salient group norms. For instance, in a community with strong prosocial norms, individuals may exhibit increased generosity and cooperation.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with originating the concept of deindividuation in his work on cognitive load theory, which laid the groundwork for understanding how anonymity and group immersion affect self-awareness.
@@ -125,11 +140,21 @@ The process of deindividuation begins when individuals become anonymous within a
 >
 > *What would resolve it:* Empirical studies that compare different types of crowds (e.g., sports fans vs. protesters) could help clarify the conditions under which deindividuation is a significant factor in crowd behavior.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does deindividuation affect long-term behavior change?
+>
+> *What would resolve it:* Research on whether deindividuated states lead to lasting changes in individual behavior would help clarify if such shifts are transient or can become ingrained over time.
+
 ## Synthesis
 
 Understanding deindividuation is crucial for social psychology as it helps explain how group dynamics can influence individual behavior and identity. By recognizing the shift from personal to social identity, researchers and practitioners can better predict and manage behaviors in various contexts, from online forums to large-scale protests.
 
 Deindividuation intersects with other concepts like social identity theory and groupthink, highlighting its importance in understanding collective behavior. Its application to digital environments is particularly relevant given the increasing prevalence of online interactions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the interplay between reflective and reactive thinking during deindividuation provides insights into how group dynamics influence cognitive processes. This perspective underscores the importance of considering both immediate situational factors and long-term identity changes when studying collective behavior.
 
 ## Connections & Context
 
@@ -140,3 +165,10 @@ Deindividuation intersects with other concepts like social identity theory and g
 **Supports:** [[social-identity-theory]]
 
 **Source:** [[deindividuation-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[social-identity-theory]]** — *supports*
+> Social identity theory supports deindividuation by explaining how group membership influences self-concept. When individuals feel anonymous in a group, they may prioritize the norms and values of their social identity over personal identity, leading to behaviors that align with the group's expectations.

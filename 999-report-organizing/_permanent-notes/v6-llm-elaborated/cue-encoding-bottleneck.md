@@ -1,15 +1,14 @@
 ---
-title: "Cue-Encoding Bottleneck"
+title: Cue-Encoding Bottleneck
 aliases:
-  - "Cue-Encoding Bottleneck"
-  - "Implementation Intentions"
-  - "If-Then Plans"
-  - "Gollwitzer Implementation Intentions"
-  - "II Plans"
+  - Cue-Encoding Bottleneck
+  - Implementation Intentions
+  - If-Then Plans
+  - Gollwitzer Implementation Intentions
+  - II Plans
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "implementation-intentions-gollwitzer-foundational-report-2026-04-20"
+  - implementation-intentions-gollwitzer-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[implementation-intentions]]"
-  - "[[encoding-specificity-principle]]"
+  - '[[implementation-intentions]]'
+  - '[[encoding-specificity-principle]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[implementation-intentions]]"
+  - '[[implementation-intentions]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[encoding-specificity-principle]]"
+  - '[[encoding-specificity-principle]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Cue-Encoding Bottleneck
 
@@ -90,6 +89,9 @@ Theoretical roots of this concept can be traced back to the Encoding Specificity
 
 Empirical evidence supports the Cue-Encoding Bottleneck hypothesis through studies showing that individuals who specify their cues more precisely are more likely to achieve their goals. For example, Gollwitzer's research has demonstrated that training in cue selection and specification can significantly enhance the effectiveness of implementation intentions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Cue-Encoding Bottleneck is particularly relevant in dynamic environments where cues can change over time, such as shifts in work schedules or seasonal variations in daily routines. In these contexts, individuals must continually adapt their cue specifications to maintain consistent goal-directed behavior. For example, a person who sets an implementation intention to 'exercise after work' might need to adjust this cue if they start working from home more frequently, where the end of the workday may not be as clearly marked by physical departure or changes in environment.
+
 ## Mechanism
 
 The mechanism by which vague or context-dependent cues fail is rooted in perceptual discriminability. The human perceptual system requires specific and clear cues to reliably detect when a goal should be pursued. Vague cues, such as 'after work,' are too broad for the system to consistently recognize, leading to inconsistent behavior. In contrast, more precise cues like 'when I hear my alarm' provide a clear trigger that is easier to detect.
@@ -108,6 +110,11 @@ The mechanism by which vague or context-dependent cues fail is rooted in percept
 > [!example] **Application 4 — Educational psychology**
 > Educators can apply this concept by designing curricula that include training in cue specification. This can help students develop the skills needed to set and achieve their academic goals more effectively.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced through precise cue specification. For instance, students might set an implementation intention to review course material 'every Monday and Wednesday at 3 PM.' This specific timing helps overcome the Cue-Encoding Bottleneck by providing a clear, consistent trigger for study sessions, thereby improving retention and recall of information.
+
 ## Key Distinctions
 
 > [!key-distinction] **Cue-Encoding Bottleneck vs Goal Disengagement**
@@ -116,9 +123,25 @@ The mechanism by which vague or context-dependent cues fail is rooted in percept
 > [!key-distinction] **Cue-Encoding Bottleneck vs Automaticity Drift**
 > Automaticity drift occurs when habitual behaviors become less effective over time due to changes in context or environment. In contrast, the Cue-Encoding Bottleneck focuses on the initial failure of cue specification, which can prevent goal-directed behavior from being initiated at all.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Recognition vs Recall in Cue Encoding**
+> The distinction between recognition and recall is crucial when considering cue encoding. Recognition involves identifying cues that are presented to you, while recall requires generating these cues from memory. In the context of implementation intentions, recognizing a specific environmental trigger (e.g., 'the sound of my alarm') can be more reliable than recalling an abstract time-based cue ('after work'). This distinction highlights why precise, recognizable cues are essential for effective goal pursuit.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that once a cue is specified, it will always trigger the intended behavior.
+>
+> This misconception overlooks the variability in environmental contexts and individual states. While precise cues increase reliability, external factors such as stress or distractions can still interfere with their effectiveness. Understanding this helps in designing more robust implementation intentions by considering potential disruptions.
+
 ## Key Figures
 
 - **Peter M. Gollwitzer** — Gollwitzer is credited with originating the concept of implementation intentions and highlighting the importance of precise cue specification in their effectiveness.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Alison Wood Brooks** — Brooks has contributed to understanding how verbalizing goals can improve performance by enhancing cue specificity. Her work suggests that articulating specific implementation intentions aloud can make the cues more salient and easier to detect, thereby mitigating the Cue-Encoding Bottleneck.
 
 ## Open Questions
 
@@ -132,9 +155,19 @@ The mechanism by which vague or context-dependent cues fail is rooted in percept
 >
 > *What would resolve it:* Further research into the most effective methods for training individuals in precise cue specification could help address this question. This might include exploring different types of training programs or identifying specific cognitive strategies that enhance cue encoding.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural differences influence the effectiveness of cue specification in implementation intentions?
+>
+> *What would resolve it:* Cross-cultural studies comparing different societal norms around time perception and environmental cues would provide insights into how varying contexts affect cue encoding. This could inform more culturally sensitive approaches to setting effective implementation intentions.
+
 ## Synthesis
 
 The Cue-Encoding Bottleneck is a critical concept within self-regulated learning and motivation science, as it highlights the importance of precise cue specification in achieving goal-directed behavior. By understanding this bottleneck, practitioners can design more effective implementation intentions and training programs that enhance goal achievement. This concept also intersects with broader theories on memory retrieval and volitional control, making it a valuable tool for improving self-regulation across various domains.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the Cue-Encoding Bottleneck is pivotal for enhancing self-regulated learning strategies, as it underscores the critical role of precise cue specification in translating intention into action. By addressing this bottleneck, individuals and educators can design more robust goal-directed behaviors that are less susceptible to failure due to ambiguous or context-dependent cues.
 
 ## Connections & Context
 
@@ -145,3 +178,10 @@ The Cue-Encoding Bottleneck is a critical concept within self-regulated learning
 **Supports:** [[encoding-specificity-principle]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[encoding-specificity-principle]]** — *supports*
+> The Encoding-Specificity Principle supports the Cue-Encoding Bottleneck by emphasizing that cues are most effective when they match the context in which a goal was initially encoded. This principle explains why specific, context-appropriate cues enhance recall and behavior initiation, directly addressing the bottleneck issue of vague or mismatched cues.

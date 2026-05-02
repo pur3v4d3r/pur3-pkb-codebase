@@ -1,12 +1,11 @@
 ---
-title: "Choice Architecture"
+title: Choice Architecture
 aliases:
-  - "Choice Architecture"
-  - "decision architecture"
+  - Choice Architecture
+  - decision architecture
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - design
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "choice-architecture-synthetic-seed-2026-04-25"
+  - choice-architecture-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Decision Science"
-
+depth-level: enhanced
+parent-concept: Decision Science
 related:
-  - "[[nudge-theory]]"
-  - "[[Libertarian Paternalism]]"
-  - "[[behavioral-economics]]"
+  - '[[nudge-theory]]'
+  - '[[Libertarian Paternalism]]'
+  - '[[behavioral-economics]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[nudge-theory]]"
-  - "[[Libertarian Paternalism]]"
+  - '[[nudge-theory]]'
+  - '[[Libertarian Paternalism]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[behavioral-economics]]"
+  - '[[behavioral-economics]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Choice Architecture
 
@@ -88,6 +87,11 @@ In practice, Choice Architecture operates by leveraging various design elements 
 Theoretical roots of Choice Architecture trace back to behavioral economics and decision science, where researchers have long studied how context influences decisions. The concept is particularly relevant in policy-making and business, as it provides a framework for designing systems that promote better choices without imposing strict regulations or paternalistic interventions.
 
 Empirical evidence supports the effectiveness of Choice Architecture. For example, studies have shown that changing the default setting from opt-out to opt-in can dramatically increase organ donation rates. Similarly, in financial contexts, making saving options more salient and accessible can lead to higher savings rates among individuals.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Choice Architecture's influence extends beyond individual decision-making to broader societal impacts, particularly in public policy and organizational design. By shaping the environment in which decisions occur, architects can promote socially desirable outcomes without resorting to outright mandates or prohibitions. This approach aligns with libertarian paternalism, where individuals retain freedom of choice while being subtly guided towards beneficial options.
+
+Recent research has explored how Choice Architecture interacts with digital environments, such as online platforms and mobile applications. In these contexts, designers can leverage user interface elements like notifications, layout, and interactive features to nudge users towards certain behaviors or decisions. This intersection highlights the growing importance of understanding how technology-mediated choices are structured and their implications for both individual autonomy and collective welfare.
 
 ## Mechanism
 
@@ -112,6 +116,22 @@ Choice Architecture influences decisions through several mechanisms. Defaults pl
 > [!key-distinction] **Choice Architecture vs. Libertarian Paternalism**
 > Choice Architecture and Libertarian Paternalism both seek to influence choices while respecting individual freedom. However, Choice Architecture emphasizes explicit design choices that shape decision-making contexts, whereas Libertarian Paternalism is more about creating policies that guide individuals towards better outcomes without restricting their options entirely.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Explicit vs Implicit Memory in Choice Architecture**
+> Choice Architecture often leverages implicit memory, where past experiences influence decisions without conscious awareness. By designing environments that subtly remind individuals of positive outcomes associated with certain choices, architects can encourage beneficial behaviors. In contrast, explicit memory involves deliberate recall and is less effective for nudging because it requires active cognitive effort.
+
+> [!key-distinction] **Reflective vs Reactive Thinking in Choice Architecture**
+> Choice Architecture typically targets reactive thinking, where individuals make quick decisions based on immediate cues rather than reflective deliberation. By presenting options in ways that trigger positive associations or defaults that align with desired outcomes, architects can guide choices without requiring users to engage in deeper cognitive processing.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think Choice Architecture means manipulating individuals into making decisions they wouldn't otherwise make.
+>
+> Choice Architecture does not aim to deceive or manipulate. Instead, it seeks to design decision-making environments that align with people's best interests while preserving their freedom of choice. The goal is to nudge individuals towards beneficial outcomes by leveraging subtle cues and defaults rather than coercing them into specific decisions.
+
 ## Key Figures
 
 - **Richard Thaler** — Richard Thaler co-originated the concept of Choice Architecture and was instrumental in popularizing it through his work on behavioral economics, particularly with Cass Sunstein.
@@ -129,11 +149,21 @@ Choice Architecture influences decisions through several mechanisms. Defaults pl
 >
 > *What would resolve it:* Longitudinal studies examining the impact of various Choice Architecture interventions over extended periods would provide valuable insights into their effectiveness and potential unintended consequences.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can designers ensure that Choice Architecture respects individual autonomy and does not lead to unintended negative consequences?
+>
+> *What would resolve it:* To address this, researchers should investigate the long-term effects of different architectural designs on decision-making. Guidelines for ethical design practices could be developed based on empirical evidence about how various elements influence choices over time.
+
 ## Synthesis
 
 Choice Architecture is a critical concept in decision science because it provides a framework for understanding how subtle design choices can significantly influence decisions. By integrating elements such as defaults, framing, and information salience, designers can guide individuals towards better outcomes without imposing strict regulations or paternalistic interventions. This approach has broad implications across policy-making, business, and education, offering a nuanced way to promote positive behaviors and choices.
 
 The concept of Choice Architecture is deeply intertwined with related fields such as Nudge Theory and Libertarian Paternalism. While these concepts share similarities in their goal of influencing decisions without coercion, they differ in their specific approaches and applications. Understanding the distinctions between them can help practitioners apply these tools more effectively in various contexts.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Choice Architecture represents a powerful tool in decision science by integrating insights from behavioral economics and cognitive psychology to shape decision environments. By understanding the mechanisms through which subtle design elements influence choice, architects can create contexts that promote beneficial outcomes while respecting individual autonomy.
 
 ## Connections & Context
 
@@ -144,3 +174,13 @@ The concept of Choice Architecture is deeply intertwined with related fields suc
 **Applies to:** [[behavioral-economics]]
 
 **Source:** [[choice-architecture-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[behavioral-economics]]** — *applies-to*
+> Choice Architecture applies behavioral economics principles to design decision-making contexts. Behavioral economics reveals how cognitive biases and heuristics influence choices, informing architects on how to structure options and defaults to mitigate these biases and promote better outcomes.
+
+> [!connection] **[[Libertarian Paternalism]]** — *contrasts-with*
+> While Choice Architecture aligns closely with libertarian paternalism by guiding individuals towards beneficial choices without coercion, it contrasts in its focus on the design of decision-making contexts rather than specific nudges. Libertarian paternalism emphasizes policy-level guidance, whereas Choice Architecture encompasses a broader range of design elements.

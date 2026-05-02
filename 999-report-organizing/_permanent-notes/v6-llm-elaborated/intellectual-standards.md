@@ -1,12 +1,11 @@
 ---
-title: "Intellectual Standards"
+title: Intellectual Standards
 aliases:
-  - "Intellectual Standards"
-  - "Paul-Elder intellectual standards"
+  - Intellectual Standards
+  - Paul-Elder intellectual standards
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "intellectual-standards-synthetic-seed-2026-04-24"
+  - intellectual-standards-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[paul-elder-critical-thinking-framework]]"
-  - "[[Socratic Questioning]]"
+  - '[[paul-elder-critical-thinking-framework]]'
+  - '[[Socratic Questioning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[paul-elder-critical-thinking-framework]]"
+  - '[[paul-elder-critical-thinking-framework]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Socratic Questioning]]"
+  - '[[Socratic Questioning]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Intellectual Standards
 
@@ -86,6 +85,9 @@ Theoretical roots of Intellectual Standards can be traced back to critical think
 
 Empirically, Intellectual Standards have been shown to enhance critical thinking skills through structured educational programs and professional development workshops. For example, studies indicate that students who engage with these standards demonstrate improved analytical abilities and more rigorous reasoning.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Intellectual Standards not only guide individual thought but also serve as a communal benchmark for discourse and debate. By adhering to these standards, individuals can engage in more productive conversations that are less prone to misunderstandings or miscommunications. This collective adherence fosters an environment where ideas are rigorously examined and refined through constructive dialogue.
+
 ## Mechanism
 
 Intellectual Standards are often applied through Socratic questioning, a method of inquiry that encourages deeper reflection on one's own and others' thinking. By asking questions like 'Could you be more precise?' or 'What evidence supports that?', individuals can systematically evaluate their reasoning against these standards.
@@ -98,10 +100,28 @@ Intellectual Standards are often applied through Socratic questioning, a method 
 > [!example] **Application 2 — Professional development**
 > For professionals, applying Intellectual Standards during problem-solving sessions ensures that decisions are well-reasoned and based on sound evidence. This leads to more effective solutions and reduces the risk of errors in critical decision-making processes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced by integrating Intellectual Standards into the curriculum. By periodically revisiting these standards, learners are prompted to reflect on their understanding and reasoning skills over time. This approach not only reinforces critical thinking but also helps students internalize the evaluative criteria necessary for robust argumentation.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intellectual Standards vs Socratic Questioning**
 > While Intellectual Standards provide a set of criteria for evaluating reasoning, Socratic questioning is the mechanism through which these standards are applied. Socratic questioning involves asking probing questions to challenge and refine one's thinking, whereas Intellectual Standards define what constitutes well-reasoned thought.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's thoughts and reasoning processes, often guided by Intellectual Standards. In contrast, reactive thinking is immediate and automatic, lacking the structured evaluation that reflective thinking provides. This distinction highlights why applying Intellectual Standards can lead to more thoughtful and well-reasoned conclusions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that adhering to Intellectual Standards stifles creativity.
+>
+> This misconception arises from the belief that rigorous evaluation of thought necessarily constrains innovative thinking. However, Intellectual Standards actually enhance creativity by ensuring that ideas are well-founded and logically sound, thereby providing a solid base for further exploration and innovation.
 
 ## Key Figures
 
@@ -125,6 +145,9 @@ Intellectual Standards play a crucial role in enhancing critical thinking by pro
 
 Their integration into broader critical thinking frameworks like the Paul-Elder model underscores their importance in developing robust analytical skills. As such, Intellectual Standards offer a valuable tool for improving reasoning abilities and promoting effective decision-making.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating Intellectual Standards into both educational and professional contexts, individuals can cultivate a habit of rigorous self-evaluation that extends beyond immediate problem-solving. This habitual application fosters a culture where well-reasoned thought is not just an occasional goal but a consistent practice, enhancing decision-making across various domains.
+
 ## Connections & Context
 
 **Falls under:** [[critical-thinking]]
@@ -134,3 +157,10 @@ Their integration into broader critical thinking frameworks like the Paul-Elder 
 **Applies to:** [[Socratic Questioning]]
 
 **Source:** [[intellectual-standards-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[paul-elder-critical-thinking-framework]]** — *falls-under*
+> Intellectual Standards form an integral part of the Paul-Elder critical thinking framework, which outlines a comprehensive approach to developing well-reasoned thought. The standards provide specific criteria for evaluating reasoning within this broader framework, making them essential tools for anyone seeking to enhance their critical thinking skills.

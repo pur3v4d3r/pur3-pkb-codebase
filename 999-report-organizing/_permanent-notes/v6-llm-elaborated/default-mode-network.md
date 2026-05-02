@@ -1,14 +1,13 @@
 ---
-title: "Default Mode Network"
+title: Default Mode Network
 aliases:
-  - "Default Mode Network"
-  - "Default-Mode Network"
-  - "DMN"
-  - "default network"
+  - Default Mode Network
+  - Default-Mode Network
+  - DMN
+  - default network
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,57 @@ subdomains:
   - consciousness-studies
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "default-mode-network-synthetic-seed-2026-04-25"
+  - default-mode-network-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Large-Scale Brain Networks"
-
+depth-level: enhanced
+parent-concept: Large-Scale Brain Networks
 related:
-  - "[[salience-network]]"
-  - "[[executive-attention-network]]"
-  - "[[autobiographical-memory]]"
+  - '[[salience-network]]'
+  - '[[executive-attention-network]]'
+  - '[[autobiographical-memory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[salience-network]]"
-  - "[[executive-attention-network]]"
+  - '[[salience-network]]'
+  - '[[executive-attention-network]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[autobiographical-memory]]"
+  - '[[autobiographical-memory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Default Mode Network
 
@@ -89,6 +88,9 @@ In practice, the DMN operates by maintaining an internal model of oneself and on
 Theoretical roots of the DMN can be traced back to early research on brain activity during rest periods. Neuroimaging studies have shown that the DMN is active even when an individual is not engaged in any specific task, suggesting a fundamental role in cognitive processes beyond just resting states.
 
 Empirical evidence supports the importance of the DMN in various cognitive functions. For example, functional magnetic resonance imaging (fMRI) studies have demonstrated that the DMN's activity correlates with self-referential processing and autobiographical memory retrieval. This network is also implicated in social cognition, as it helps individuals understand and predict the behavior of others.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The DMN's activity is not limited to rest and mind-wandering; it also plays a role in social cognition, particularly when individuals think about the mental states of others—a process known as theory of mind. This aspect of the DMN suggests that its functions extend beyond mere introspection to include an understanding of self within a broader social context.
 
 ## Mechanism
 
@@ -113,6 +115,19 @@ The DMN functions by integrating information from various brain regions to form 
 > [!key-distinction] **DMN vs Executive Attention Network**
 > The executive attention network focuses on cognitive control and task-switching, whereas the DMN is more passive during rest periods. The DMN's role in maintaining an internal model of oneself contrasts with the active engagement required by the executive attention network.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> The Default Mode Network (DMN) is closely tied to reflective thinking, which involves deliberate review and analysis of past experiences. In contrast, reactive thinking is immediate and driven by external stimuli, a function more aligned with the salience network. This distinction highlights how the DMN supports cognitive processes that require introspection and planning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that the Default Mode Network is only active during rest.
+>
+> While the DMN does show increased activity during periods of rest, it also plays a crucial role in internally focused tasks such as mind-wandering and self-reflection. This misconception arises from an oversimplification of its functions.
+
 ## Key Figures
 
 - **John D.E. Gabrieli** — Gabrieli has conducted extensive research on the Default Mode Network, particularly its role in cognitive and emotional processes, contributing to our understanding of how this network functions in mental health conditions.
@@ -129,11 +144,21 @@ The DMN functions by integrating information from various brain regions to form 
 >
 > *What would resolve it:* Studies that combine neuroimaging techniques with behavioral experiments could help elucidate the dynamic interactions between the DMN and other large-scale networks during various cognitive processes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the Default Mode Network interact with other brain networks during complex tasks?
+>
+> *What would resolve it:* Understanding these interactions could provide insights into how different networks coordinate to support cognitive flexibility and task performance, potentially informing therapeutic interventions for conditions where such coordination is impaired.
+
 ## Synthesis
 
 The Default Mode Network is a critical component of our understanding of brain function, particularly in relation to internal cognition and mental health. By integrating with other large-scale networks, it helps maintain cognitive flexibility and supports complex cognitive tasks. Its dysregulation has significant implications for various neurological and psychiatric conditions, making it an essential area of study for both basic neuroscience and clinical applications.
 
 The DMN's role extends beyond just rest periods; it is integral to social cognition, memory retrieval, and self-reflection. Understanding its function can inform educational practices, therapeutic interventions, and neurotechnological approaches, highlighting the broad impact of this network on human behavior and mental health.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The DMN's role in integrating internal thoughts with external stimuli highlights its importance in both mental health and cognitive function. By understanding the interplay between the DMN and other networks, researchers can develop more targeted approaches to treating disorders associated with dysregulated network activity.
 
 ## Connections & Context
 
@@ -144,3 +169,10 @@ The DMN's role extends beyond just rest periods; it is integral to social cognit
 **Applies to:** [[autobiographical-memory]]
 
 **Source:** [[default-mode-network-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[autobiographical-memory]]** — *applies-to*
+> The Default Mode Network (DMN) is intricately linked to autobiographical memory, as it facilitates the retrieval and processing of personal experiences. This connection underscores how the DMN supports cognitive functions that are essential for understanding one's past and shaping future actions.

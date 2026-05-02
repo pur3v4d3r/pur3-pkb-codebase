@@ -1,15 +1,14 @@
 ---
-title: "Control Phase"
+title: Control Phase
 aliases:
-  - "Control Phase"
-  - "Pintrich Self-Regulation"
-  - "Pintrich SRL Framework"
-  - "Pintrich 4x4 Model"
-  - "Pintrich Self-Regulated Learning"
+  - Control Phase
+  - Pintrich Self-Regulation
+  - Pintrich SRL Framework
+  - Pintrich 4x4 Model
+  - Pintrich Self-Regulated Learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,57 @@ subdomains:
   - instructional-design
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pintrich-self-regulation-foundational-report-2026-04-20"
+  - pintrich-self-regulation-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[forethought-phase]]"
-  - "[[self-reflection-phase]]"
-  - "[[metacognition]]"
+  - '[[forethought-phase]]'
+  - '[[self-reflection-phase]]'
+  - '[[metacognition]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[forethought-phase]]"
-  - "[[self-reflection-phase]]"
+  - '[[forethought-phase]]'
+  - '[[self-reflection-phase]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[metacognition]]"
+  - '[[metacognition]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Control Phase
 
@@ -91,6 +90,9 @@ In practice, learners engage in a continuous cycle of monitoring their progress,
 Theoretical roots of the Control Phase are deeply embedded in metacognitive theory, which posits that self-regulated learners possess the ability to monitor and control their own thinking processes. According to Paul Pintrich's framework, this phase is crucial for developing skilled self-regulation because it involves the habitual deployment of specific moves matched to monitoring signals. This distinguishes it from forethought (planning) or self-reflection (post-task evaluation), which are distinct phases in the broader cycle of self-regulated learning.
 
 Empirical evidence supports the importance of the Control Phase in enhancing academic performance. Studies have shown that students who can effectively deploy control strategies tend to perform better on tasks and exhibit higher levels of persistence and engagement. For example, a study by Barry Zimmerman found that students who engaged in regular help-seeking behaviors during problem-solving tasks demonstrated improved understanding and retention of material compared to those who did not.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+The Control Phase is particularly crucial in dynamic learning environments, such as project-based or inquiry-driven classrooms, where learners must frequently adapt their strategies to new information and changing conditions. In these settings, the ability to flexibly adjust one's approach based on ongoing feedback can significantly enhance both the depth of understanding and the efficiency of learning processes.
 
 ## Mechanism
 
@@ -112,6 +114,22 @@ The process of deploying specific moves in response to monitoring signals is a c
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The Control Phase is distinct from the concept of intrinsic versus extraneous load. Intrinsic load refers to the inherent difficulty of a task, while extraneous load pertains to factors that complicate learning beyond the task itself. The Control Phase focuses on managing cognitive and motivational resources within the context of these loads, rather than addressing their underlying nature.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of past actions and their outcomes, guiding future behavior. In contrast, reactive thinking is immediate and responsive to current stimuli without deep analysis. The Control Phase leans towards reactive thinking as learners make real-time adjustments based on monitoring signals, whereas reflective thinking predominates in the Self-Reflection Phase.
+
+> [!key-distinction] **Performance vs Learning**
+> While performance focuses on achieving immediate success, learning emphasizes long-term skill acquisition and understanding. The Control Phase is more aligned with performance goals as learners optimize their strategies to meet current task demands efficiently. However, by fostering effective strategy use, it also supports the broader goal of durable learning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that the Control Phase is solely about adjusting effort levels.
+>
+> This misconception overlooks the breadth of strategies learners can deploy during this phase. Beyond just increasing or decreasing effort, adjustments may include switching between different problem-solving approaches, seeking help from peers or instructors, and modifying environmental conditions to better suit learning needs.
+
 ## Key Figures
 
 - **Paul Pintrich** — Paul Pintrich is a key figure in the development of self-regulated learning theory. His framework provides a comprehensive understanding of how learners can effectively manage their cognitive, motivational, behavioral, and contextual resources through the Control Phase.
@@ -129,11 +147,21 @@ The process of deploying specific moves in response to monitoring signals is a c
 >
 > *What would resolve it:* Longitudinal studies tracking students' performance over extended periods would help determine whether early development of strong control phase strategies leads to sustained academic success.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do individual differences in working memory capacity affect learners' ability to effectively engage in the Control Phase?
+>
+> *What would resolve it:* Research exploring this question could provide insights into how varying levels of cognitive resources impact real-time strategy adjustments and inform strategies for supporting diverse learners.
+
 ## Synthesis
 
 The Control Phase is a vital component of self-regulated learning that enables learners to adapt their strategies in real-time based on monitoring signals. By integrating cognitive, motivational, behavioral, and contextual factors, this phase enhances the overall effectiveness of learning processes. Understanding and improving the Control Phase can lead to significant improvements in academic performance, persistence, and engagement, making it a critical area for both educators and researchers.
 
 The Control Phase also has broader implications across various domains within educational psychology, including metacognition, motivation, and behavior management. By fostering self-regulation skills, learners are better equipped to navigate the complexities of academic challenges, ultimately contributing to their long-term success in education.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating reflective and reactive thinking, the Control Phase bridges immediate performance goals with long-term learning objectives. This dynamic interplay is essential for fostering adaptive expertise in learners across various educational contexts.
 
 ## Connections & Context
 
@@ -144,3 +172,10 @@ The Control Phase also has broader implications across various domains within ed
 **Applies to:** [[metacognition]]
 
 **Source:** [[pintrich-self-regulation-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[metacognition]]** — *applies-to*
+> The Control Phase is deeply intertwined with metacognitive processes as learners must continuously monitor their understanding and performance, evaluate the effectiveness of their strategies, and make informed adjustments. This interplay underscores how self-regulated learning relies on robust metacognitive skills to navigate complex cognitive tasks.

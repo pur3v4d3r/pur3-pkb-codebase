@@ -1,13 +1,12 @@
 ---
-title: "Crystallized Intelligence"
+title: Crystallized Intelligence
 aliases:
-  - "Crystallized Intelligence"
-  - "Gc"
-  - "crystallized ability"
+  - Crystallized Intelligence
+  - Gc
+  - crystallized ability
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - learning-science
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "crystallized-intelligence-synthetic-seed-2026-04-24"
+  - crystallized-intelligence-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Psychology"
-
+depth-level: enhanced
+parent-concept: Cognitive Psychology
 related:
-  - "[[fluid-intelligence]]"
-  - "[[expertise-development]]"
-  - "[[semantic-memory]]"
-  - "[[procedural-memory]]"
+  - '[[fluid-intelligence]]'
+  - '[[expertise-development]]'
+  - '[[semantic-memory]]'
+  - '[[procedural-memory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[fluid-intelligence]]"
+  - '[[fluid-intelligence]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[expertise-development]]"
+  - '[[expertise-development]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[semantic-memory]]"
-  - "[[procedural-memory]]"
+  - '[[semantic-memory]]'
+  - '[[procedural-memory]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Crystallized Intelligence
 
@@ -90,6 +89,9 @@ Theoretical roots of crystallized intelligence can be traced back to Cattell's t
 
 Historically, research has shown that while fluid intelligence peaks in early adulthood and then declines, crystallized intelligence continues to increase throughout life. This phenomenon can be observed in studies where older adults outperform younger individuals in tasks requiring specific knowledge but struggle with abstract reasoning problems.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Crystallized Intelligence is not merely a passive repository of facts and skills but an active system that continuously integrates new information with existing knowledge structures. This dynamic process allows individuals to refine their understanding, making connections between different pieces of information and enhancing the applicability of their accumulated wisdom.
+
 ## Mechanism
 
 Crystallized Intelligence is supported by semantic memory, which stores and retrieves factual information and vocabulary, and procedural memory, which handles the execution of learned skills. When faced with a familiar task, an individual can quickly access relevant knowledge from semantic memory and apply it through procedural memory to perform the task efficiently.
@@ -102,14 +104,35 @@ Crystallized Intelligence is supported by semantic memory, which stores and retr
 > [!example] **Application 2 — Expertise development**
 > In expertise development, crystallized intelligence plays a significant role in the accumulation of knowledge and skills within specific domains. By providing opportunities for deep engagement with domain-specific content, individuals can build robust knowledge structures that enhance their performance over time. This is particularly important in fields like medicine or law where extensive experience contributes to high levels of crystallized intelligence.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance crystallized intelligence by encouraging learners to revisit material at increasing intervals. This approach leverages the robustness of semantic memory, ensuring that knowledge is not just memorized but deeply integrated into long-term storage.
+
 ## Key Distinctions
 
 > [!key-distinction] **Crystallized Intelligence vs Fluid Intelligence**
 > Crystallized Intelligence and fluid intelligence are distinct aspects of cognitive abilities. While crystallized intelligence involves the accumulation of knowledge and skills, fluid intelligence focuses on problem-solving and reasoning abilities that decline with age. The distinction is important because interventions aimed at improving one may not necessarily benefit the other.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Crystallized Intelligence benefits more from deep processing than surface-level learning. While surface processing focuses on rote memorization, deep processing involves semantic elaboration and meaningful connections between concepts. This distinction is crucial because deep processing leads to better retention and application of knowledge over time.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think crystallized intelligence only applies to academic or book-based knowledge.
+>
+> Crystallized Intelligence encompasses a wide range of acquired skills and knowledge, including practical expertise. For instance, a skilled carpenter's ability to select the right tool for a job is an example of crystallized intelligence in action.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller was a pioneer in the study of crystallized intelligence, contributing significantly to our understanding of how knowledge and skills are acquired and applied over time. His work highlighted the importance of semantic and procedural memory in supporting crystallized intelligence.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Robert Sternberg** — Sternberg contributed significantly to our understanding of crystallized intelligence by proposing a triarchic theory of intelligence, which includes analytical (crystallized), creative, and practical intelligences. His work highlights the multifaceted nature of cognitive abilities.
 
 ## Open Questions
 
@@ -123,11 +146,21 @@ Crystallized Intelligence is supported by semantic memory, which stores and retr
 >
 > *What would resolve it:* Empirical studies that examine the transfer of knowledge and skills from one domain to another could provide insights into the extent to which crystallized intelligence is transferrable.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the development of crystallized intelligence?
+>
+> *What would resolve it:* Research comparing individuals from different cultural backgrounds could provide insights into how culturally specific knowledge and skills contribute to crystallized intelligence, potentially revealing universal versus culture-specific aspects.
+
 ## Synthesis
 
 Crystallized Intelligence matters because it underscores the importance of lifelong learning and experience in cognitive development. By understanding how this form of intelligence grows over time, educators can design more effective instructional strategies that leverage existing knowledge to enhance performance. Moreover, recognizing the limitations of crystallized intelligence highlights the need for continued research into its transferability and the role of fluid intelligence in cognitive flexibility.
 
 The concept of crystallized intelligence also has broader implications across related concepts such as semantic memory, procedural memory, and expertise development. By integrating these insights, we can better support individuals in acquiring and applying knowledge effectively throughout their lives.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Crystallized Intelligence within cognitive psychology underscores the dynamic interplay between acquired knowledge and its application. This concept not only informs educational practices but also highlights the lifelong nature of learning and expertise development.
 
 ## Connections & Context
 
@@ -140,3 +173,10 @@ The concept of crystallized intelligence also has broader implications across re
 **Supports:** [[semantic-memory]] · [[procedural-memory]]
 
 **Source:** [[crystallized-intelligence-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[semantic-memory]]** — *supports*
+> Semantic memory underpins crystallized intelligence by storing and retrieving factual information. This connection is vital because the richness and accessibility of semantic knowledge directly influence an individual's ability to apply learned skills effectively.

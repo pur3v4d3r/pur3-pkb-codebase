@@ -1,12 +1,11 @@
 ---
-title: "Eliminative Materialism"
+title: Eliminative Materialism
 aliases:
-  - "Eliminative Materialism"
-  - "eliminativism"
+  - Eliminative Materialism
+  - eliminativism
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - philosophy-of-science
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "eliminative-materialism-synthetic-seed-2026-04-25"
+  - eliminative-materialism-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Physicalism"
-
+depth-level: enhanced
+parent-concept: Physicalism
 related:
-  - "[[Physicalism]]"
-  - "[[Folk Psychology]]"
+  - '[[Physicalism]]'
+  - '[[Folk Psychology]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[Physicalism]]"
+  - '[[Physicalism]]'
 see-also:
-  - "[[Folk Psychology]]"
+  - '[[Folk Psychology]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Eliminative Materialism
 
@@ -86,6 +85,9 @@ The implications of this stance are profound for scientific and philosophical di
 
 Eliminative Materialism also has significant practical implications. For instance, in instructional design, it suggests that educational materials and methods should be based on neuroscientific evidence rather than folk-psychological intuitions. This could lead to more effective learning strategies by aligning with the actual mechanisms of the brain.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Eliminative Materialism's radical stance on folk psychology has sparked significant debate within philosophy and cognitive science, particularly regarding its implications for personal identity and moral responsibility. Critics argue that if mental states like beliefs and desires are mere illusions or inaccurate constructs, then traditional notions of selfhood and accountability may also be undermined. This raises profound questions about how we attribute blame, praise, and legal culpability to individuals based on their actions.
+
 ## Mechanism
 
 The process through which Eliminative Materialism envisions the replacement of folk psychological categories is gradual and incremental, driven by advances in neuroscience. As neuroscientists uncover new insights into how the brain functions, these findings will increasingly challenge and eventually replace our everyday mental vocabulary with more precise terms.
@@ -98,6 +100,11 @@ The process through which Eliminative Materialism envisions the replacement of f
 > [!example] **Application 2 — Mental health treatment**
 > For mental health treatment, it suggests a shift from traditional talk therapies that rely on concepts like beliefs and desires towards treatments grounded in neuroscientific understanding, potentially leading to more targeted and effective interventions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Neuroethical guidelines**
+> In the realm of neuroethics, Eliminative Materialism challenges existing ethical frameworks that rely heavily on folk psychological concepts. For instance, if mental states are redefined or eliminated in favor of neurological processes, current debates about consent, autonomy, and free will may need to be reframed. Neuroethical guidelines might evolve to focus more on brain function rather than traditional notions of intentionality.
+
 ## Key Distinctions
 
 > [!key-distinction] **Eliminative vs. Reductive Physicalism**
@@ -105,6 +112,19 @@ The process through which Eliminative Materialism envisions the replacement of f
 
 > [!key-distinction] **Survival vs. Replacement of Folk Psychology**
 > Eliminative Materialism is distinct from other forms of physicalism in its assertion that folk psychology may not survive scientific progress. Other physicalist positions, such as reductive materialism, might soften this view and predict the survival or gradual refinement of folk psychological categories.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Eliminative Materialism vs. Functionalism**
+> While Eliminative Materialism argues for the outright rejection of folk psychological categories, functionalism proposes that mental states can be understood in terms of their causal roles and functions within a system. This distinction is crucial because it highlights different approaches to understanding consciousness: eliminativists see current concepts as fundamentally flawed, whereas functionalists seek to refine them.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Eliminative Materialism claims that mental states do not exist at all.
+>
+> This misconception arises from a misunderstanding of the theory's scope. Eliminativists argue that certain folk psychological concepts, such as beliefs and desires, are inaccurate or misleading rather than asserting that mental phenomena themselves are non-existent. The focus is on replacing outdated categories with more scientifically rigorous ones.
 
 ## Key Figures
 
@@ -123,11 +143,21 @@ The process through which Eliminative Materialism envisions the replacement of f
 >
 > *What would resolve it:* A detailed comparison between folk psychological concepts and their neuroscientific counterparts, along with empirical validation, would help determine whether any aspects of folk psychology can be retained or if they must be entirely replaced.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How might Eliminative Materialism influence the development of artificial intelligence?
+>
+> *What would resolve it:* Research into AI could benefit from a clearer understanding of neural processes rather than relying on folk psychological models. This shift may lead to more sophisticated and realistic simulations of human cognition in machines.
+
 ## Synthesis
 
 Eliminative Materialism matters because it challenges our fundamental assumptions about the nature of mental phenomena. By pushing for a radical rethinking of how we conceptualize and study the mind, this theory has significant implications not only in philosophy but also in cognitive science, neuroscience, and even practical applications like instructional design and mental health treatment.
 
 Its impact extends beyond these domains to broader philosophical questions about the nature of reality and knowledge. By forcing us to consider the possibility that our current understanding of the mind may be fundamentally flawed, Eliminative Materialism encourages a more rigorous and evidence-based approach to studying cognitive processes.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Eliminative Materialism's challenge to traditional mental concepts underscores the dynamic nature of scientific progress, particularly within cognitive science. By advocating for a radical reevaluation of our understanding of mind and brain, it pushes the boundaries of what we consider possible and necessary in explaining human behavior.
 
 ## Connections & Context
 
@@ -138,3 +168,10 @@ Its impact extends beyond these domains to broader philosophical questions about
 **Sibling concepts:** [[Folk Psychology]]
 
 **Source:** [[eliminative-materialism-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Folk Psychology]]** — *contrasts-with*
+> Eliminative Materialism fundamentally contrasts with Folk Psychology by rejecting the adequacy of common mental concepts. While folk psychology relies on everyday intuitions about beliefs and desires, eliminativists argue these are flawed constructs that will be replaced by more accurate neuroscientific explanations.

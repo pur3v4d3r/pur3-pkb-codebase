@@ -1,12 +1,11 @@
 ---
-title: "Humanistic Psychology"
+title: Humanistic Psychology
 aliases:
-  - "Humanistic Psychology"
-  - "humanistic-existential psychology"
+  - Humanistic Psychology
+  - humanistic-existential psychology
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "humanistic-psychology-synthetic-seed-2026-04-24"
+  - humanistic-psychology-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Psychology"
-
+depth-level: enhanced
+parent-concept: Psychology
 related:
-  - "[[Self-Determination Theory (SDT)]]"
-  - "[[Positive Psychology]]"
+  - '[[Self-Determination Theory (SDT)]]'
+  - '[[Positive Psychology]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Self-Determination Theory (SDT)]]"
+  - '[[Self-Determination Theory (SDT)]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Positive Psychology]]"
+  - '[[Positive Psychology]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Humanistic Psychology
 
@@ -85,6 +84,9 @@ The theory operates by recognizing the importance of a person’s subjective exp
 Theoretical roots trace back to Carl Rogers' concept of 'core conditions,' such as empathy, congruence, and unconditional positive regard, which create a supportive environment for personal growth. Abraham Maslow's hierarchy of needs further delineates the stages through which individuals must progress to achieve self-actualization, emphasizing the importance of fulfilling lower-level needs before moving on to higher ones.
 
 Empirically, while Humanistic Psychology’s classical formulations like Maslow's hierarchy and Rogers' core conditions are widely cited but weakly supported empirically in their original strict form, contemporary theories such as Self-Determination Theory (SDT) and Positive Psychology have built upon these ideas with more robust empirical support. SDT, for instance, focuses on the role of intrinsic motivation in fostering psychological well-being.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Humanistic Psychology also places a strong emphasis on the concept of
 
 ## Mechanism
 

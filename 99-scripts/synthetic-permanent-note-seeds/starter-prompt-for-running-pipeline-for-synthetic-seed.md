@@ -224,37 +224,49 @@ semantic-priming
 
 
 
-python 99-scripts/wiki_orphan_scanner.py --folder "D:\10_pur3v4d3r's-vault\99-scripts\synthetic-permanent-note-seeds\_run_v6_all_custom.sh" -q -o "D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\audit-reports"
 
 
 
 
 
-# Running the Wiki Orphan Scanner
 
-python 99-scripts/wiki_orphan_scanner.py <folder> -r -v \  --seed <seed-output.md> --include-synthetic
-Dry run (preview file count, no scan)
 
-python 99-scripts/wiki_orphan_scanner.py <folder> -r --dry-run
-Override vault root (skip auto-detection)
 
-python 99-scripts/wiki_orphan_scanner.py <folder> -r -v --vault "D:/10_pur3v4d3r's-vault"
-Quiet mode (errors only)
 
-python 99-scripts/wiki_orphan_scanner.py <folder> -r -q -o <output.md>
-Show help / version
 
-python 99-scripts/wiki_orphan_scanner.py --helppython 99-scripts/wiki_orphan_scanner.py --version
-Flag Reference
-Flag	Purpose
-<folder>	Required — folder to scan
--r, --recursive	Recurse into subdirectories
---vault PATH	Vault root (auto-detected via .obsidian if omitted)
--o, --output PATH	Write the full orphan report to file
---seed PATH	Write a frequency-ranked seed list (with source files & line numbers)
---include-synthetic	Include -synthetic-seed- entries in --seed output (excluded by default)
--v, --verbose	Increase logging (-v INFO, -vv DEBUG)
--q, --quiet	Suppress non-error output
--n, --dry-run	Preview without scanning
---version	Print version
---help	Show help
+
+
+
+
+
+
+
+
+
+
+# Enhance permanent notes pipeline
+
+I have a pipeline for enhancing permanent notes that it has created. It uses local LLM. I want you to adjust what it improves in the permanent notes.
+
+1. The section of permanent notes that is Key Distinctions, I want to add other key distinction other than the only one that is used nowe which is Intrinsic vs Extranious load. The disticntions I want to add are:
+- System 1 vs System 2 Thinking
+- Declarative vs Procedural Knowledge
+- Explicit vs Implicit Memory
+- Working Memory vs Long-Term Memory
+- Reflective vs Reactive Thinking
+Or any that you think would be good to add in there. You can also add a few more if you think of any good ones that would fit in there.
+2. For the section that is on Connections and Concept I want the LLM to explain why these connections are made, atm it just lists a few connections.
+3. If you think of anything that would be good to add to the permanent notes on this pass of refining the permanent notes, please add to this.
+
+Review the pipeline for context and details.
+
+# Key Locations for Pipeline Reference
+Here are the main key locations for you to learn how the pipeline works, the ins and outs, and how it runs.
+
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> V3 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> V4 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v5` -> V5 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6\enhance_notes.py` -> Script for enhancing permanent notes with local LLM.
+
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.

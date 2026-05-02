@@ -1,13 +1,12 @@
 ---
-title: "Grit"
+title: Grit
 aliases:
-  - "Grit"
-  - "perseverance and passion"
-  - "Duckworth Grit"
+  - Grit
+  - perseverance and passion
+  - Duckworth Grit
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - individual-differences
 
 created: 2026-04-26
-updated: 2026-04-26
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "grit-synthetic-seed-2026-04-26"
+  - grit-synthetic-seed-2026-04-26
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[Conscientiousness]]"
-  - "[[self-efficacy]]"
-  - "[[growth-mindset]]"
+  - '[[Conscientiousness]]'
+  - '[[self-efficacy]]'
+  - '[[growth-mindset]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Conscientiousness]]"
+  - '[[Conscientiousness]]'
 contrasts-with:
-  - "[[self-efficacy]]"
+  - '[[self-efficacy]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[growth-mindset]]"
+  - '[[growth-mindset]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Grit
 
@@ -88,6 +87,9 @@ Theoretical roots of grit can be traced back to self-regulated learning theories
 
 Empirical evidence supports the importance of grit, particularly in educational contexts. Meta-analytic work has shown that while grit does contribute to success, its incremental predictive validity over conscientiousness is small. This suggests that while grit is a useful construct, it may not be as distinct or modifiable as initially thought.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Grit's impact extends beyond academic settings into professional and personal life, influencing career longevity and relationship stability. In professional contexts, gritty individuals tend to persist through job transitions and challenges, often achieving greater success over time due to their unwavering dedication. This persistence can also lead to higher levels of expertise as they continually refine their skills and knowledge.
+
 ## Mechanism
 
 Grit operates through a process of sustained effort and consistent interest. Individuals with high levels of grit are more likely to engage in deliberate practice, which involves focused and repetitive work aimed at improving specific skills. This practice is often characterized by periods of intense focus followed by reflection on progress and setbacks.
@@ -103,10 +105,28 @@ Grit operates through a process of sustained effort and consistent interest. Ind
 > [!example] **Application 3 — Personal growth**
 > For personal growth, cultivating grit helps individuals overcome obstacles and achieve meaningful life goals. Whether it's learning a new language, starting a business, or pursuing a passion project, the ability to persevere through difficulties is essential for making significant progress.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques, which involve revisiting material at increasing intervals, can foster grit by encouraging sustained engagement with the course content. This approach not only enhances long-term retention but also builds resilience against the temptation to give up when faced with challenging concepts.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Grit focuses on intrinsic load, which involves the effort and persistence required to achieve long-term goals. In contrast, extraneous load refers to unnecessary cognitive or emotional burdens that can detract from learning. Understanding this distinction helps educators design tasks that are challenging but not overly difficult, ensuring students remain engaged without becoming overwhelmed.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Performance vs Learning**
+> While performance focuses on immediate success in tasks, learning emphasizes the development of skills and knowledge over time. Grit is more closely aligned with the learning perspective as it involves sustained effort towards mastering complex material rather than achieving quick results.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think grit means never giving up on any goal.
+>
+> Grit does not imply an absolute refusal to abandon goals. Instead, it involves a balanced approach where one persists through challenges while also being flexible enough to adjust or redefine long-term objectives when necessary.
 
 ## Key Figures
 
@@ -124,11 +144,21 @@ Grit operates through a process of sustained effort and consistent interest. Ind
 >
 > *What would resolve it:* Developing reliable and valid measures of grit that can be integrated into existing assessment tools would help educators better understand its impact on student outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does grit interact with other personality traits like openness or agreeableness?
+>
+> *What would resolve it:* Longitudinal studies examining the interplay between grit and various personality traits could provide insights into how these factors collectively influence long-term success and well-being.
+
 ## Synthesis
 
 Understanding grit is crucial for comprehending the factors that contribute to human achievement and resilience. By integrating grit with other constructs like conscientiousness and self-efficacy, we can gain a more nuanced view of what drives success. Grit's role in fostering persistence and consistency makes it particularly valuable in educational and career contexts, where long-term goals are often necessary for progress.
 
 Moreover, the concept of grit intersects with broader theories of positive psychology, offering insights into how individuals can cultivate resilience and achieve their aspirations. By recognizing the importance of grit, we can better support students, employees, and individuals in their pursuit of meaningful goals.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating concepts such as growth mindset, intrinsic vs extraneous load, and performance vs learning, we can develop a more comprehensive understanding of grit's role in fostering sustained effort towards achieving long-term goals. This holistic view highlights the importance of balancing challenge with support to nurture grit effectively.
 
 ## Connections & Context
 
@@ -141,3 +171,10 @@ Moreover, the concept of grit intersects with broader theories of positive psych
 **Applies to:** [[growth-mindset]]
 
 **Source:** [[grit-synthetic-seed-2026-04-26]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[growth-mindset]]** — *applies-to*
+> Grit and growth mindset are interconnected as both emphasize the importance of effort and persistence in achieving goals. A growth mindset fosters belief in personal improvement, which can enhance grit by encouraging individuals to view challenges as opportunities for development rather than insurmountable obstacles.

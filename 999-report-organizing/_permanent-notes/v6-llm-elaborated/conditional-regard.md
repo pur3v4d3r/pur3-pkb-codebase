@@ -1,14 +1,13 @@
 ---
-title: "Conditional Regard"
+title: Conditional Regard
 aliases:
-  - "Conditional Regard"
-  - "OIT Internalization Continuum Deep Dive"
-  - "Internalization Mechanisms in SDT"
-  - "Autonomous Motivation Development"
+  - Conditional Regard
+  - OIT Internalization Continuum Deep Dive
+  - Internalization Mechanisms in SDT
+  - Autonomous Motivation Development
 type: permanent-note
 status: enriched
 confidence: medium
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -16,58 +15,58 @@ tags:
 
 domain: educational-psychology
 subdomains:
-  - ""
+  - ''
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "self-determination-theory-internalization-continuum-deep-dive-2026-04-21"
+  - self-determination-theory-internalization-continuum-deep-dive-2026-04-21
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Determination Theory"
-
+depth-level: enhanced
+parent-concept: Self-Determination Theory
 related:
-  - "[[introjected-regulation]]"
-  - "[[autonomous-motivation]]"
+  - '[[introjected-regulation]]'
+  - '[[autonomous-motivation]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[introjected-regulation]]"
+  - '[[introjected-regulation]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[autonomous-motivation]]"
+  - '[[autonomous-motivation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Conditional Regard
 
@@ -87,6 +86,9 @@ Theoretical roots of Conditional Regard are deeply embedded in SDT, which emphas
 
 Empirical evidence supports the role of Conditional Regard in producing controlled internalization. For example, studies have shown that children who experience conditional regard from their parents tend to develop introjected regulation, which can hinder their autonomous motivation and well-being.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Conditional Regard not only affects immediate behavior but also shapes long-term psychological outcomes. When individuals experience conditional regard, they may develop a contingent self-worth that fluctuates based on external validation rather than stable internal standards. This can lead to chronic anxiety and depression as the individual constantly seeks approval or avoids disapproval from others.
+
 ## Mechanism
 
 The process by which Conditional Regard influences behavior involves several stages. Initially, individuals learn that their self-worth is tied to specific behaviors. Over time, this leads to introjected regulation, where the individual's internalized standards are driven by fear of negative consequences or desire for positive reinforcement rather than personal values.
@@ -99,10 +101,28 @@ The process by which Conditional Regard influences behavior involves several sta
 > [!example] **Application 2 — Controlling teaching styles**
 > Teachers who use controlling teaching styles often rely on Conditional Regard to manage classroom behavior. However, this approach may backfire by fostering introjected regulation and resistance among students. By shifting towards more autonomy-supportive practices, teachers can create a supportive environment that encourages intrinsic motivation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 3 — Feedback in online learning platforms**
+> In online learning environments, feedback mechanisms often embody conditional regard by rewarding correct answers with points or badges. This can inadvertently foster introjected regulation among learners who may feel compelled to perform well for external rewards rather than out of genuine interest in the subject matter.
+
 ## Key Distinctions
 
 > [!key-distinction] **Conditional Regard vs Autonomous Regulation**
 > Conditional Regard is distinct from autonomous regulation in that the former relies on external contingencies for behavior control, while the latter involves internalized standards driven by personal values and interests. Understanding this distinction helps educators design interventions that promote intrinsic motivation rather than controlled internalization.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Conditional Regard vs Unconditional Positive Regard**
+> While Conditional Regard ties acceptance and approval to specific behaviors, Unconditional Positive Regard offers non-contingent support regardless of actions. This distinction is crucial as it highlights how different forms of social regard can either hinder or promote autonomous motivation.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Conditional Regard only affects children and adolescents.
+>
+> This misconception overlooks the pervasive influence of Conditional Regard across all age groups. Adults in various contexts, such as workplace settings or romantic relationships, can also experience conditional regard, impacting their motivation and well-being.
 
 ## Key Figures
 
@@ -127,6 +147,9 @@ Conditional Regard is a critical concept in educational psychology, as it highli
 
 The broader implications of Conditional Regard extend beyond education into various domains such as parenting, workplace management, and therapeutic practices. Recognizing its role in fostering or hindering autonomous regulation is essential for creating supportive environments that nurture personal growth and well-being.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding Conditional Regard within SDT provides a framework for recognizing how external contingencies can undermine intrinsic motivation, leading to controlled internalization. This insight is crucial not only in educational settings but also in therapeutic practices and workplace management, where fostering autonomous motivation is key to promoting long-term well-being.
+
 ## Connections & Context
 
 **Falls under:** [[self-determination-theory]]
@@ -136,3 +159,10 @@ The broader implications of Conditional Regard extend beyond education into vari
 **Contrasts with:** [[autonomous-motivation]]
 
 **Source:** [[self-determination-theory-internalization-continuum-deep-dive-2026-04-21]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[autonomous-motivation]]** — *contrasts-with*
+> Conditional Regard contrasts with Autonomous Motivation in that the former relies on external contingencies for behavior control, whereas the latter involves internalized standards driven by personal values and interests. Understanding this contrast is vital as it underscores how different motivational pathways can lead to distinct psychological outcomes.

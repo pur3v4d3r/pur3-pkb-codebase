@@ -1,13 +1,12 @@
 ---
-title: "Metacognitive Accuracy"
+title: Metacognitive Accuracy
 aliases:
-  - "Metacognitive Accuracy"
-  - "metacognitive calibration accuracy"
-  - "monitoring accuracy"
+  - Metacognitive Accuracy
+  - metacognitive calibration accuracy
+  - monitoring accuracy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - decision-making
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "metacognitive-accuracy-synthetic-seed-2026-04-25"
+  - metacognitive-accuracy-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[calibration]]"
-  - "[[illusion-of-knowing]]"
-  - "[[judgment-of-learning]]"
-  - "[[retrospective-confidence-judgment]]"
+  - '[[calibration]]'
+  - '[[illusion-of-knowing]]'
+  - '[[judgment-of-learning]]'
+  - '[[retrospective-confidence-judgment]]'
 prerequisites:
-  - "[[calibration]]"
+  - '[[calibration]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[illusion-of-knowing]]"
+  - '[[illusion-of-knowing]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[judgment-of-learning]]"
-  - "[[retrospective-confidence-judgment]]"
+  - '[[judgment-of-learning]]'
+  - '[[retrospective-confidence-judgment]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Metacognitive Accuracy
 
@@ -90,6 +89,9 @@ Theoretical roots of Metacognitive Accuracy trace back to cognitive psychology, 
 
 Empirical studies have shown that Metacognitive Accuracy is trainable, suggesting that educational interventions aimed at improving this capacity could lead to better learning outcomes. For example, training students to reflect on their understanding and adjust their confidence ratings can enhance their overall metacognitive skills.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Metacognitive Accuracy is not merely a static trait but can be influenced by various contextual factors, such as task difficulty and the presence of feedback. For instance, tasks that are too easy or too difficult may lead to overconfidence or underconfidence respectively, skewing calibration curves. Feedback mechanisms, whether immediate or delayed, play a crucial role in adjusting these biases towards more accurate self-assessments.
+
 ## Mechanism
 
 The underlying mechanisms of accurate or inaccurate metacognitive judgments involve both resolution (the discriminative power of confidence) and bias (systematic over- or under-confidence). Resolution refers to the ability to distinguish between different levels of performance, while bias indicates whether these judgments are systematically off. A single calibration metric can hide these distinctions; a learner might be well-resolved but biased, or unbiased but unresolved.
@@ -105,14 +107,35 @@ The underlying mechanisms of accurate or inaccurate metacognitive judgments invo
 > [!example] **Application 3 — Decision-making**
 > In high-stakes decision-making scenarios, such as medical diagnoses or financial investments, accurate metacognitive judgments are essential. Decision-makers who accurately calibrate their confidence are less likely to make errors based on overconfidence or underconfidence, leading to better outcomes.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques can enhance Metacognitive Accuracy. By spacing out practice sessions and incorporating confidence judgments, learners receive repeated opportunities to calibrate their understanding against actual performance. This iterative process helps refine both the resolution of their confidence judgments and reduces systematic biases over time.
+
 ## Key Distinctions
 
 > [!key-distinction] **Resolution vs Bias**
 > Resolution and bias are two distinct aspects of metacognitive accuracy. Resolution refers to the discriminative power of confidence judgments, indicating how well an individual can distinguish between different levels of performance. In contrast, bias reflects whether these judgments are systematically over- or under-confident. Understanding this distinction is crucial because a single calibration metric might not reveal both issues simultaneously.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate review and analysis, whereas reactive thinking is immediate and often automatic. Metacognitive Accuracy benefits more from reflective thinking as it allows individuals to critically evaluate their performance and adjust their confidence levels accordingly. In contrast, reactive thinking may lead to quicker but less accurate judgments.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that high Metacognitive Accuracy always leads to better learning outcomes.
+>
+> While higher accuracy in confidence judgments can indicate a more reliable self-assessment, it does not necessarily translate into superior learning outcomes. For instance, an individual with perfect calibration might still struggle if their underlying knowledge or skills are insufficient. Thus, while Metacognitive Accuracy is valuable, it must be complemented by effective study strategies and robust content mastery.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller was an originator of the concept in 1988, highlighting that confidence judgments are trainable and can be dissociated from task accuracy. His work laid the foundation for understanding Metacognitive Accuracy as a distinct cognitive capacity.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Mark McDaniel** — Mark McDaniel has extensively researched the role of metacognition in learning, including the development of strategies to enhance Metacognitive Accuracy. His work on spaced retrieval and JOLs provides empirical support for how these techniques can improve learners' ability to accurately assess their knowledge.
 
 ## Open Questions
 
@@ -125,6 +148,13 @@ The underlying mechanisms of accurate or inaccurate metacognitive judgments invo
 > What are the long-term effects of improving metacognitive accuracy on learning outcomes?
 >
 > *What would resolve it:* Longitudinal studies tracking changes in metacognitive accuracy over extended periods would help determine if improvements lead to sustained better performance and learning.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> What are the long-term effects of improving Metacognitive Accuracy?
+>
+> *What would resolve it:* Longitudinal studies could provide insights into whether enhanced Metacognitive Accuracy leads to sustained improvements in learning outcomes and academic performance over time. Understanding these effects would help educators design more effective interventions that promote durable cognitive skills.
 
 ## Synthesis
 
@@ -141,3 +171,10 @@ Metacognitive Accuracy is a crucial concept in cognitive science because it brid
 **Applies to:** [[judgment-of-learning]] · [[retrospective-confidence-judgment]]
 
 **Source:** [[metacognitive-accuracy-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[judgment-of-learning]]** — *applies-to*
+> Judgment of Learning (JOL) tasks are a direct application of Metacognitive Accuracy. JOLs require learners to predict their future performance after studying material, which directly measures the accuracy of confidence judgments in relation to actual recall or understanding. This connection highlights how Metacognitive Accuracy can be systematically assessed and improved through targeted training.

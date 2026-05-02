@@ -74,7 +74,7 @@ __version__ = "1.0.0"
 # ── Defaults ─────────────────────────────────────────────────────────────
 
 DEFAULT_OLLAMA_URL: str = "http://localhost:11434"
-DEFAULT_MODEL: str = "qwen2.5:7b-instruct-q5_K_M"
+DEFAULT_MODEL: str = "qwen2.5:14b-instruct-q5_K_M"
 DEFAULT_TIMEOUT_S: float = 120.0
 DEFAULT_MAX_RETRIES: int = 3
 DEFAULT_TEMPERATURE: float = 0.0

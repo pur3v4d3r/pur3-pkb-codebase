@@ -1,13 +1,12 @@
 ---
-title: "Design-Based Research"
+title: Design-Based Research
 aliases:
-  - "Design-Based Research"
-  - "DBR"
-  - "design experiments"
+  - Design-Based Research
+  - DBR
+  - design experiments
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - learning-science
 
 created: 2026-05-01
-updated: 2026-05-01
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "design-based-research-synthetic-seed-2026-05-01"
+  - design-based-research-synthetic-seed-2026-05-01
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Educational Research Methods"
-
+depth-level: enhanced
+parent-concept: Educational Research Methods
 related:
-  - "[[Action Research]]"
-  - "[[Formative Evaluation]]"
-  - "[[Instructional Design]]"
+  - '[[Action Research]]'
+  - '[[Formative Evaluation]]'
+  - '[[Instructional Design]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Action Research]]"
+  - '[[Action Research]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Formative Evaluation]]"
-  - "[[Instructional Design]]"
+  - '[[Formative Evaluation]]'
+  - '[[Instructional Design]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Design-Based Research
 
@@ -89,6 +88,9 @@ Theoretical roots of DBR can be traced back to constructivist and design-based e
 
 Historically, DBR emerged as a response to the limitations of traditional experimental designs, which often lack ecological validity due to their controlled nature. By focusing on real-world applications, DBR aims to bridge the gap between theoretical knowledge and practical educational practices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Design-Based Research (DBR) has evolved significantly since its inception, reflecting a growing recognition of the complexity and variability in educational settings. This evolution includes an increased emphasis on collaborative research practices, where educators, researchers, and students work together to co-design interventions. Such collaboration not only enhances the relevance and applicability of DBR findings but also fosters a sense of ownership among all stakeholders involved in the learning process.
+
 ## Mechanism
 
 Each cycle in DBR operates through a series of steps: design, implementation, analysis, and redesign. The outcomes from one cycle constrain the next by providing insights into what works and what does not. This iterative process ensures that each new iteration builds on the strengths and addresses the weaknesses identified in previous cycles.
@@ -106,6 +108,19 @@ Each cycle in DBR operates through a series of steps: design, implementation, an
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > DBR focuses on intrinsic load, which refers to the inherent difficulty of a task, while extraneous load is about unnecessary cognitive demands. DBR aims to reduce extraneous load by designing interventions that enhance learning efficiency and effectiveness.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> DBR emphasizes reflective thinking, where researchers systematically analyze data to inform iterative design cycles. This contrasts with reactive thinking, which might involve making quick adjustments based on immediate feedback without deeper analysis. Reflective thinking in DBR ensures that interventions are grounded in a thorough understanding of the educational context and student needs.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think DBR is only about designing new tools or materials.
+>
+> While DBR does involve creating new instructional designs, its primary goal is to develop a deeper understanding of how these interventions work in real-world settings. This involves iterative cycles of design, implementation, and analysis aimed at refining both the intervention and underlying theoretical principles.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller contributed significantly to the theoretical foundations of DBR, particularly through his work on cognitive load theory. His research highlighted the importance of designing educational interventions that minimize extraneous cognitive load and maximize intrinsic cognitive load.
@@ -122,11 +137,21 @@ Each cycle in DBR operates through a series of steps: design, implementation, an
 >
 > *What would resolve it:* Longitudinal studies tracking the impact of DBR-developed interventions over extended periods would provide valuable insights into their sustainability and effectiveness.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How can DBR be adapted to address the unique challenges of online education?
+>
+> *What would resolve it:* Addressing this question would require developing and testing DBR methodologies specifically tailored for digital learning environments, considering factors such as student engagement in virtual settings and the role of technology in facilitating meaningful learning experiences.
+
 ## Synthesis
 
 DBR is crucial for educational research and practice because it bridges the gap between theory and application. By focusing on real-world settings and iterative refinement, DBR ensures that educational interventions are not only effective but also adaptable to diverse learning contexts. This methodology contributes significantly to both the development of practical solutions and the advancement of theoretical knowledge in education.
 
 The integration of DBR with other research methodologies can enhance its impact by providing a more comprehensive understanding of educational phenomena. Additionally, addressing open questions about long-term effects will help ensure that interventions developed through DBR are sustainable and beneficial over time.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating reflective thinking with iterative design cycles, DBR not only enhances educational practices but also contributes to a more nuanced understanding of how learning occurs. This dual focus on practical application and theoretical development positions DBR as a vital methodology for advancing both the science and practice of education.
 
 ## Connections & Context
 
@@ -137,3 +162,10 @@ The integration of DBR with other research methodologies can enhance its impact 
 **Applies to:** [[Formative Evaluation]] · [[Instructional Design]]
 
 **Source:** [[design-based-research-synthetic-seed-2026-05-01]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Instructional Design]]** — *applies-to*
+> DBR applies to instructional design by providing a structured approach for developing, testing, and refining educational materials and methods. This application ensures that instructional designs are not only theoretically sound but also practically effective in diverse learning contexts.

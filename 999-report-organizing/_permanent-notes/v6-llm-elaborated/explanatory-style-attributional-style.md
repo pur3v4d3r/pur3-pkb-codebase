@@ -1,14 +1,13 @@
 ---
-title: "Explanatory Style"
+title: Explanatory Style
 aliases:
-  - "Explanatory Style"
-  - "Attribution Theory Foundational Report"
-  - "Weiner's Attribution Theory"
-  - "Causal Attribution in Motivation"
+  - Explanatory Style
+  - Attribution Theory Foundational Report
+  - Weiner's Attribution Theory
+  - Causal Attribution in Motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -21,55 +20,55 @@ subdomains:
   - cognitive-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "attribution-theory-foundational-report-2026-04-19"
+  - attribution-theory-foundational-report-2026-04-19
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[growth-mindset]]"
-  - "[[self-efficacy-theory]]"
+  - '[[growth-mindset]]'
+  - '[[self-efficacy-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[growth-mindset]]"
+  - '[[growth-mindset]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[self-efficacy-theory]]"
+  - '[[self-efficacy-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Explanatory Style
 
@@ -89,6 +88,9 @@ Theoretical roots of explanatory style can be traced back to attribution theory,
 
 Empirical evidence supports the importance of explanatory style in various domains. For example, studies have shown that individuals with an optimistic explanatory style are more likely to persist in the face of adversity, leading to better academic performance and career success. Conversely, those with a pessimistic style may experience higher levels of depression and anxiety due to their tendency to attribute negative events to internal, stable factors.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Explanatory style not only influences how individuals perceive and react to events but also shapes their emotional responses and coping strategies. For example, an individual with a pessimistic explanatory style might experience heightened levels of stress and anxiety when faced with challenges, as they are more likely to view these situations as indicative of broader personal inadequacies rather than temporary setbacks. This can lead to a cycle where negative emotions exacerbate the perception of failure, further reinforcing pessimistic attributions.
+
 ## Mechanism
 
 The cognitive processes involved in generating causal attributions are complex but can be understood through the lens of attribution theory. When faced with an event, individuals engage in a series of mental operations that involve evaluating potential causes and making judgments about their own role in the outcome. This process is influenced by prior experiences, cultural norms, and individual differences in cognitive processing. For instance, someone who has experienced consistent failure may be more likely to attribute new failures to internal factors, reinforcing a pessimistic explanatory style.
@@ -104,14 +106,35 @@ The cognitive processes involved in generating causal attributions are complex b
 > [!example] **Application 3 — Organizational settings**
 > In organizational settings, leaders can use knowledge of explanatory style to build resilient teams. By fostering a culture that encourages external attributions for failure (e.g., recognizing the role of circumstances and support systems), organizations can enhance their ability to adapt to challenges and innovate. This approach can lead to higher employee satisfaction and better overall performance.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), understanding students' explanatory styles can inform the design of spaced retrieval activities. For instance, if a student exhibits a pessimistic style after initial failures, instructors might schedule regular, low-stakes quizzes that gradually increase in difficulty over time. This approach allows students to experience incremental success and attribute their progress to effort rather than innate ability, fostering resilience and motivation.
+
 ## Key Distinctions
 
 > [!key-distinction] **Optimistic vs Pessimistic Explanatory Styles**
 > Optimistic explanatory styles are characterized by attributing failures to external, unstable factors, while pessimistic styles attribute them to internal, stable ones. The distinction matters because these different patterns of attribution can lead to vastly different psychological outcomes. Optimism is associated with resilience and persistence, whereas pessimism can result in learned helplessness and decreased motivation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Explanatory style is closely tied to the distinction between reflective and reactive thinking. Reflective thinkers tend to engage in deeper analysis of events before attributing causes, which can lead to more balanced explanatory styles. In contrast, reactive thinkers may make quick judgments based on immediate emotional responses, potentially leading to overly pessimistic or optimistic attributions without thorough consideration.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that an optimistic explanatory style always leads to better outcomes.
+>
+> While optimism can foster resilience and motivation, it is not universally beneficial. Overly optimistic attributions might lead individuals to underestimate the seriousness of problems or ignore important feedback for improvement. A balanced approach that acknowledges both strengths and weaknesses is generally more effective.
+
 ## Key Figures
 
 - **Bernard Weiner** — Bernard Weiner is credited with the development of attribution theory, which introduced the dimensions of internality, stability, and globality. His work laid the foundation for understanding how individuals generate causal attributions and their psychological implications.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+- **Albert Bandura** — Bandura's work on self-efficacy theory complements explanatory style by highlighting the role of perceived competence in influencing attributions. His research underscores how beliefs about one’s ability to succeed can shape explanatory styles, particularly in educational and therapeutic contexts.
 
 ## Open Questions
 
@@ -124,6 +147,13 @@ The cognitive processes involved in generating causal attributions are complex b
 > Can explanatory style be effectively retrained in adults?
 >
 > *What would resolve it:* Randomized controlled trials comparing different interventions aimed at changing explanatory styles in adults could provide insights into the feasibility and effectiveness of such training.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the development and expression of explanatory styles?
+>
+> *What would resolve it:* Cross-cultural studies are needed to explore how societal norms and values impact attributions for success and failure. Understanding these influences could provide insights into culturally sensitive interventions aimed at fostering positive explanatory styles.
 
 ## Synthesis
 
@@ -138,3 +168,10 @@ Understanding explanatory style is crucial for its broad implications across var
 **Applies to:** [[self-efficacy-theory]]
 
 **Source:** [[attribution-theory-foundational-report-2026-04-19]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[growth-mindset]]** — *contrasts-with*
+> Explanatory style contrasts with the concept of growth mindset in that while explanatory style focuses on how individuals attribute causes for events, a growth mindset emphasizes beliefs about personal abilities as malleable rather than fixed. Understanding both concepts can provide a comprehensive view of an individual's cognitive architecture and psychological resilience.

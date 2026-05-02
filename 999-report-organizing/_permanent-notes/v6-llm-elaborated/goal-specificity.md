@@ -1,15 +1,14 @@
 ---
-title: "Goal Specificity"
+title: Goal Specificity
 aliases:
-  - "Goal Specificity"
-  - "Goal-Setting Theory Foundational Report"
-  - "GST — Locke and Latham"
-  - "High Performance Cycle Foundational Treatment"
-  - "Goal Setting Mechanisms and Moderators"
+  - Goal Specificity
+  - Goal-Setting Theory Foundational Report
+  - GST — Locke and Latham
+  - High Performance Cycle Foundational Treatment
+  - Goal Setting Mechanisms and Moderators
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,58 +21,58 @@ subdomains:
   - performance-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "goal-setting-theory-locke-latham-foundational-report-2026-04-20"
+  - goal-setting-theory-locke-latham-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Motivation Science"
-
+depth-level: enhanced
+parent-concept: Motivation Science
 related:
-  - "[[goal-difficulty]]"
-  - "[[goal-commitment]]"
-  - "[[Goal Proximity]]"
+  - '[[goal-difficulty]]'
+  - '[[goal-commitment]]'
+  - '[[Goal Proximity]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[goal-difficulty]]"
-  - "[[goal-commitment]]"
-  - "[[Goal Proximity]]"
+  - '[[goal-difficulty]]'
+  - '[[goal-commitment]]'
+  - '[[Goal Proximity]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Goal Specificity
 
@@ -92,6 +91,9 @@ The importance of specificity extends beyond just setting goals; it also influen
 However, specificity is not merely about making goals more precise; it also interacts with the difficulty of the goal. The combination of high specificity and moderate difficulty can lead to optimal performance outcomes. Goals that are too easy may not provide sufficient motivation, while overly complex or vague goals can be demotivating. Thus, the interplay between specificity and difficulty is crucial for effective goal setting.
 
 Empirical research supports the importance of specificity in goal achievement. Studies have shown that specific goals lead to higher performance compared to vague ones. For example, a study by Locke and Latham (1984) found that salespeople who set specific targets achieved significantly more than those with general objectives.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Goal specificity is not merely about setting clear targets but also involves aligning these targets with personal values and long-term aspirations. When goals resonate with an individual's deeper motivations, they are more likely to persist through challenges and setbacks. This alignment can be seen as a form of intrinsic motivation that complements the extrinsic benefits of goal clarity.
 
 ## Mechanism
 
@@ -116,6 +118,22 @@ The mechanism through which specificity influences goal achievement involves the
 > [!key-distinction] **Goal Specificity vs. Goal Commitment**
 > Goal specificity differs from goal commitment, which refers to the level of dedication or persistence an individual has towards achieving a goal. A highly specific goal can enhance commitment by providing clear criteria for success, but it does not necessarily guarantee high levels of commitment on its own.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Goal Specificity vs. Goal Proximity**
+> While specificity focuses on the clarity of achievement criteria, proximity pertains to how close in time or effort a goal is perceived to be achievable. A specific but distant goal might seem less motivating than a vague immediate one because it lacks an urgent sense of accomplishment.
+
+> [!key-distinction] **Goal Specificity vs. Reflective Thinking**
+> Reflective thinking involves deliberate consideration and evaluation, which can enhance the process of setting and achieving goals. Goal specificity supports reflective thinking by providing clear criteria that individuals can use to assess their progress and adjust strategies accordingly.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think goal specificity means only quantitative targets.
+>
+> Goal specificity is about clarity, not just quantification. A specific qualitative goal like 'write a novel with a clear plot' can be as effective as a numerical one like 'read 50 pages daily.' The key is having unambiguous criteria for success.
+
 ## Key Figures
 
 - **Edwin Locke** — Edwin Locke is co-originator of the Goal-Setting Theory and has extensively researched the role of specificity in goal setting. His work has significantly contributed to our understanding of how specific goals can enhance performance.
@@ -133,6 +151,13 @@ The mechanism through which specificity influences goal achievement involves the
 >
 > *What would resolve it:* Studies comparing the effects of highly specific versus moderately specific goals on intrinsic motivation and long-term engagement would help clarify whether there is a point at which specificity becomes counterproductive.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the effectiveness of specific versus vague goals?
+>
+> *What would resolve it:* Cross-cultural studies could reveal how different societal values and norms affect perceptions of goal clarity and their impact on motivation and performance.
+
 ## Synthesis
 
 Understanding goal specificity is crucial for effective goal setting because it provides clear criteria for success, enhances motivation, and facilitates better feedback mechanisms. By integrating specificity with other components of the Goal-Setting Theory such as difficulty and commitment, individuals can set goals that are both challenging and achievable. This understanding has broad implications across various domains, including education, business, and personal development, where setting specific goals can lead to improved performance and outcomes.
@@ -146,3 +171,13 @@ The concept of goal specificity is deeply rooted in motivation science and has s
 **Sibling concepts:** [[goal-difficulty]] · [[goal-commitment]] · [[Goal Proximity]]
 
 **Source:** [[goal-setting-theory-locke-latham-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[goal-difficulty]]** — *contrasts-with*
+> Goal specificity contrasts with goal difficulty by focusing on clarity rather than challenge. While difficult goals can be motivating, they must also be specific to ensure individuals know how to achieve them.
+
+> [!connection] **[[goal-commitment]]** — *applies-to*
+> Specificity enhances commitment by making the goal more tangible and achievable. When individuals see clear steps towards their goals, they are more likely to stay committed over time.

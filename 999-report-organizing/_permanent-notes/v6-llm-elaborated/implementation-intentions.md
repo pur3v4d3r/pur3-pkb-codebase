@@ -1,16 +1,15 @@
 ---
-title: "Implementation Intentions"
+title: Implementation Intentions
 aliases:
-  - "Implementation Intentions"
-  - "Implementation-Intentions"
-  - "PKM Planning Cognitive Science"
-  - "Cognitive Science of Personal Knowledge Management"
-  - "PKB Design and Cognitive Architecture"
-  - "Knowledge Management Planning through Cognitive Science"
+  - Implementation Intentions
+  - Implementation-Intentions
+  - PKM Planning Cognitive Science
+  - Cognitive Science of Personal Knowledge Management
+  - PKB Design and Cognitive Architecture
+  - Knowledge Management Planning through Cognitive Science
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,55 +22,55 @@ subdomains:
   - information-architecture
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18"
+  - pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[metacognition]]"
-  - "[[Self-Regulated Learning (SRL)]]"
+  - '[[metacognition]]'
+  - '[[Self-Regulated Learning (SRL)]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[metacognition]]"
+  - '[[metacognition]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Self-Regulated Learning (SRL)]]"
+  - '[[Self-Regulated Learning (SRL)]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Implementation Intentions
 
@@ -91,6 +90,9 @@ The theoretical roots of implementation intentions lie in the broader field of c
 
 Empirical evidence supports the effectiveness of implementation intentions in PKM. For example, studies have shown that consistent practice over 18-254 days can automate behaviors, and implementation intentions significantly increase follow-through on these practices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Implementation intentions have been shown to be particularly effective in reducing procrastination and increasing task initiation, especially for individuals who struggle with executive function deficits or those overwhelmed by the sheer number of tasks they need to manage. By breaking down complex goals into smaller, actionable steps linked to specific environmental cues, implementation intentions can help mitigate feelings of being overwhelmed and provide a clear path forward.
+
 ## Mechanism
 
 The mechanism by which implementation intentions work involves linking a situational cue to an automatic response through the process of encoding. When a specific cue is encountered (e.g., finishing a chapter), the brain automatically triggers the planned behavior (summarizing it). This automation reduces cognitive load and increases the likelihood of action initiation.
@@ -106,10 +108,28 @@ The mechanism by which implementation intentions work involves linking a situati
 > [!example] **Application 3 — Personal knowledge management**
 > In PKM, implementation intentions can be used to ensure that information is captured and processed efficiently. For example, a researcher might set an intention like 'If I encounter a new citation while reading, then I will immediately add it to my reference list.' This helps in maintaining a structured approach to knowledge management.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced through the use of implementation intentions. For example, students might set an intention like 'If I complete a module on Monday, then I will review it again on Wednesday.' This approach leverages the spacing effect to improve long-term retention and understanding, making learning more efficient and effective.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Implementation intentions are more focused on specific actions and less about the cognitive load involved. In contrast, intrinsic load refers to the inherent difficulty of the task itself, while extraneous load is related to how information is presented. Implementation intentions reduce extraneous load by automating action initiation.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of options before acting, while reactive thinking is triggered by situational cues without conscious deliberation. Implementation intentions align closely with reactive thinking as they automate behavior initiation based on environmental triggers, bypassing the need for reflective decision-making in specific contexts.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think implementation intentions are only useful for simple tasks.
+>
+> While implementation intentions are indeed powerful for automating simple behaviors, they can also be adapted to manage complex tasks by breaking them down into smaller steps. Each step is then linked to a specific cue, allowing individuals to tackle larger projects in manageable increments without losing sight of the overall goal.
 
 ## Key Figures
 
@@ -127,9 +147,19 @@ The mechanism by which implementation intentions work involves linking a situati
 >
 > *What would resolve it:* Research examining the effectiveness of implementation intentions in complex, flexible tasks could provide insights into their limitations and potential applications.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do implementation intentions affect long-term behavior change?
+>
+> *What would resolve it:* Further research is needed to understand how consistently using implementation intentions over time impacts sustained behavioral changes. Studies should explore whether these strategies lead to lasting habit formation or if they require ongoing reinforcement.
+
 ## Synthesis
 
 Implementation intentions are a crucial concept within PKM and cognitive science because they offer a concrete technique for enhancing follow-through on intentions. By automating action initiation through specific 'if-then' plans, these intentions reduce cognitive load and increase the likelihood of behavior execution. This makes them particularly valuable in instructional design, habit formation, and personal knowledge management. While their effectiveness is well-established for simple behaviors, ongoing research is needed to understand their limitations in more complex tasks.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating implementation intentions into PKM practices, individuals can enhance their ability to manage knowledge effectively and efficiently. This not only improves immediate task completion but also supports long-term learning and skill development by automating beneficial behaviors.
 
 ## Connections & Context
 
@@ -140,3 +170,10 @@ Implementation intentions are a crucial concept within PKM and cognitive science
 **Applies to:** [[Self-Regulated Learning (SRL)]]
 
 **Source:** [[pkb-pkm-planning-and-cognitive-science-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Self-Regulated Learning (SRL)]]** — *applies-to*
+> Implementation intentions are a key strategy within self-regulated learning, where learners set specific plans to initiate actions in response to situational cues. This aligns with SRL's emphasis on proactive planning and monitoring of one’s own learning processes.

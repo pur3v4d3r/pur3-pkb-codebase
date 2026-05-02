@@ -1,15 +1,14 @@
 ---
-title: "Four-Component Instructional Design (4C/ID)"
+title: Four-Component Instructional Design (4C/ID)
 aliases:
-  - "Four-Component Instructional Design (4C/ID)"
-  - "4C/ID Model"
-  - "Four Component Instructional Design"
-  - "Ten Steps to Complex Learning"
-  - "van Merriënboer's 4C/ID"
+  - Four-Component Instructional Design (4C/ID)
+  - 4C/ID Model
+  - Four Component Instructional Design
+  - Ten Steps to Complex Learning
+  - van Merriënboer's 4C/ID
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,55 +21,55 @@ subdomains:
   - learning-sciences
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "four-component-instructional-design-model-4cid-foundational-report-2026-04-18"
+  - four-component-instructional-design-model-4cid-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Design"
-
+depth-level: enhanced
+parent-concept: Instructional Design
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Four-Component Instructional Design (4C/ID)
 
@@ -90,6 +89,9 @@ Theoretical roots of 4C/ID are grounded in cognitive load theory and schema theo
 
 Empirical evidence supports the effectiveness of 4C/ID in educational settings. Studies have shown that whole-task instruction leads to better long-term retention and transfer of knowledge compared to component-based approaches. For instance, Van Merriënboer's research demonstrated that learners who were taught using 4C/ID outperformed those who received traditional step-by-step training on complex tasks.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The 4C/ID model's emphasis on whole-task instruction is particularly beneficial for learners who need to integrate multiple skills simultaneously, such as in medical diagnosis or complex problem-solving tasks in engineering. By presenting the task as a complete unit from the outset, learners are encouraged to engage with the task holistically rather than piecemeal, which can enhance their ability to coordinate and apply various skill components effectively.
+
 ## Mechanism
 
 The model operates by integrating schema construction and automation within a single coherent framework. Supportive information, such as worked examples, helps learners construct schemas for non-recurrent aspects of the task. Procedural information provides detailed steps for performing specific tasks, while part-task practice allows learners to focus on individual components before integrating them into whole tasks.
@@ -108,10 +110,28 @@ The model operates by integrating schema construction and automation within a si
 > [!example] **Application 4 — Teacher training**
 > Teachers trained in 4C/ID can design lessons that integrate whole-task instruction with supportive and procedural information, leading to more effective teaching strategies. This model helps teachers manage cognitive load and ensure that students are not overwhelmed by complex tasks
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 5 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), applying the principles of spaced retrieval alongside 4C/ID can significantly enhance learning outcomes. By integrating whole-task practice with periodic, spaced review sessions that revisit previously learned tasks, learners are better able to consolidate their knowledge and skills over time. This approach leverages both the benefits of schema construction through initial exposure to complex tasks and the long-term retention facilitated by distributed practice.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > 4C/ID focuses on managing intrinsic cognitive load, which is inherent in the task itself, rather than extraneous load, which arises from poor instructional design. By integrating schema construction and automation within a single framework, 4C/ID minimizes extraneous load and enhances learning efficiency.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Intrinsic vs Extraneous Load**
+> The distinction between intrinsic and extraneous cognitive load is crucial for understanding how 4C/ID optimizes learning. Intrinsic load refers to the inherent complexity of the task itself, which cannot be reduced by instructional design alone. Extraneous load, on the other hand, arises from poor instructional methods that unnecessarily complicate the learning process. By focusing on whole-task instruction and integrating schema construction with automation, 4C/ID minimizes extraneous load, allowing learners to more effectively manage intrinsic cognitive demands.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that 4C/ID only applies to complex tasks.
+>
+> While the model is particularly effective for teaching complex skills with high element interactivity, it also has applications in simpler learning contexts. The principles of schema construction and automation can be adapted to any level of task complexity, making 4C/ID a versatile framework that supports both novice and expert learners across various domains.
 
 ## Key Figures
 
@@ -135,6 +155,9 @@ The significance of 4C/ID in the field of instructional design lies in its abili
 
 The 4C/ID model also contributes to the broader field of instructional design by providing a clear distinction between intrinsic and extraneous cognitive loads, which is crucial for effective teaching strategies. Its emphasis on whole-task instruction aligns with current trends in educational psychology that advocate for more authentic learning experiences.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+The synthesis of schema construction and automation within a single framework is what sets 4C/ID apart from other instructional models. By addressing both the initial understanding and subsequent execution of complex skills, it provides a comprehensive approach that not only facilitates immediate performance but also supports long-term skill retention and transfer.
+
 ## Connections & Context
 
 **Falls under:** [[instructional-design]]
@@ -144,3 +167,10 @@ The 4C/ID model also contributes to the broader field of instructional design by
 **Applies to:** [[worked-examples]]
 
 **Source:** [[four-component-instructional-design-model-4cid-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory plays a critical role in the effectiveness of 4C/ID by serving as the temporary storage and processing hub for task components. Understanding how working memory functions helps instructional designers create tasks that do not exceed learners' capacity, thereby reducing cognitive overload and enhancing learning efficiency.

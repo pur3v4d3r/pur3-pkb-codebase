@@ -1,16 +1,15 @@
 ---
-title: "Implementation Intention"
+title: Implementation Intention
 aliases:
-  - "Implementation Intention"
-  - "Goal-Intention"
-  - "Implementation Intentions"
-  - "If-Then Plans"
-  - "Gollwitzer Implementation Intentions"
-  - "II Plans"
+  - Implementation Intention
+  - Goal-Intention
+  - Implementation Intentions
+  - If-Then Plans
+  - Gollwitzer Implementation Intentions
+  - II Plans
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -23,55 +22,55 @@ subdomains:
   - cognitive-architecture-of-action-control
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "implementation-intentions-gollwitzer-foundational-report-2026-04-20"
+  - implementation-intentions-gollwitzer-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Self-Regulated Learning"
-
+depth-level: enhanced
+parent-concept: Self-Regulated Learning
 related:
-  - "[[goal-setting-theory]]"
-  - "[[dual-process-theory]]"
+  - '[[goal-setting-theory]]'
+  - '[[dual-process-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[goal-setting-theory]]"
+  - '[[goal-setting-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[dual-process-theory]]"
+  - '[[dual-process-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Implementation Intention
 
@@ -91,6 +90,9 @@ The Rubicon Model parses goal pursuit into four phases: deliberation, preplannin
 
 The if-then format that defines implementation intentions is what allows the situational cue to subsequently trigger the planned behavior with minimal overhead. By pre-compiling high-level, flexible goal intentions into more rigid, executable plans, implementation intentions enable automatic initiation routines that can be triggered by specific cues.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Implementation intentions have been shown to be particularly effective in scenarios requiring self-regulation under stress or distraction, as they reduce the cognitive load required for decision-making at the moment of action initiation. By pre-encoding specific cues and responses, individuals can bypass the need for real-time deliberation, which is often impaired by situational pressures. This mechanism makes implementation intentions a robust strategy in environments where goal-directed behavior must compete with immediate demands or temptations.
+
 ## Mechanism
 
 One way to think about what implementation intentions accomplish is to treat them as a form of *cognitive pre-compilation*, by analogy with the compilation step that transforms human-readable source code into machine-executable instructions before runtime. The deliberative goal intention is the source code: high-level, flexible, expressive, but slow to execute and requiring substantial interpretive overhead. The implementation intention is the compiled form: less flexible, less expressive, but executable with minimal overhead at the moment of need.
@@ -106,10 +108,28 @@ One way to think about what implementation intentions accomplish is to treat the
 > [!example] **Application 3 — Workplace productivity**
 > In the workplace, implementation intentions can be used to improve time management. An employee might plan 'When I receive an email from my boss at 9 AM, I will immediately respond with a brief summary.' This structured approach ensures that important tasks are addressed promptly and efficiently.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval can be enhanced by implementation intentions. For instance, students might form the intention 'When I receive an email notification about a quiz, I will immediately review my notes.' This strategy leverages the predictable structure of online courses to ensure timely and consistent study habits, thereby improving retention and performance.
+
 ## Key Distinctions
 
 > [!key-distinction] **Goal intentions vs Implementation intentions**
 > Goal intentions specify desired outcomes ('I want to read more philosophy of mind this semester'), while implementation intentions provide specific plans for when, where, and how the corresponding behavior will be enacted ('When I sit down at my desk after morning coffee, I will open C...'). The distinction is crucial because goal intentions alone are insufficient for reliable behavior change; strong goal intentions only weakly predict behavior in the absence of supporting implementation intentions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Implementation intentions contrast with reflective thinking by shifting control from deliberate planning to automatic execution. Reflective thinking involves conscious deliberation about actions and outcomes, whereas implementation intentions automate responses based on pre-set cues. This distinction is crucial because it highlights how implementation intentions can facilitate rapid, context-appropriate behavior without the need for ongoing cognitive effort.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that forming an implementation intention guarantees success in achieving a goal.
+>
+> While implementation intentions significantly increase the likelihood of executing planned behaviors, they do not guarantee success. Success also depends on factors such as cue reliability, situational constraints, and individual motivation levels. The misconception arises from overestimating the power of pre-planning without considering these additional variables.
 
 ## Key Figures
 
@@ -127,11 +147,21 @@ One way to think about what implementation intentions accomplish is to treat the
 >
 > *What would resolve it:* Longitudinal studies tracking the persistence of behavior changes over extended periods could shed light on the sustainability of these intentions.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do individual differences in cognitive flexibility affect the effectiveness of implementation intentions?
+>
+> *What would resolve it:* Research on how varying levels of cognitive flexibility impact the utility and adaptability of pre-set action plans would provide insights into optimizing implementation intention strategies for diverse learner populations.
+
 ## Synthesis
 
 Understanding implementation intentions is crucial for behavior change and self-regulation because it provides a practical tool for bridging the gap between goal intentions and actual behaviors. By pre-compiling high-level goals into specific, automatic plans, implementation intentions enable efficient and consistent execution of intended actions. This concept has significant implications across various domains, including education, health, and workplace productivity, where it can enhance motivation, reduce intention-behavior gaps, and promote self-regulated learning.
 
 The integration of implementation intentions with other theories such as goal-setting theory and dual-process theory further enriches our understanding of volitional behavior. Goal-setting theory provides a framework for setting clear objectives, while the dual-process theory offers insights into how automatic processes can be harnessed to support intentional actions.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding implementation intentions not only enhances self-regulation but also underscores the importance of strategic planning in behavior change. By integrating these principles, educators and practitioners can design more effective interventions that leverage automatic processes to support long-term goal achievement.
 
 ## Connections & Context
 
@@ -142,3 +172,10 @@ The integration of implementation intentions with other theories such as goal-se
 **Applies to:** [[dual-process-theory]]
 
 **Source:** [[implementation-intentions-gollwitzer-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[dual-process-theory]]** — *applies-to*
+> Implementation intentions apply to dual-process theory by aligning with System 1 (automatic) processes. By pre-compiling specific cues and responses, implementation intentions enable rapid, intuitive action initiation that bypasses the slower, more deliberative System 2 thinking. This alignment enhances behavioral efficiency in goal-directed tasks.

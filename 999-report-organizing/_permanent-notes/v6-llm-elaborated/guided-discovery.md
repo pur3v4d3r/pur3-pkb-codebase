@@ -1,13 +1,12 @@
 ---
-title: "Guided Discovery"
+title: Guided Discovery
 aliases:
-  - "Guided Discovery"
-  - "guided inquiry"
-  - "scaffolded discovery"
+  - Guided Discovery
+  - guided inquiry
+  - scaffolded discovery
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,59 +18,59 @@ subdomains:
   - cognitive-load-theory
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "guided-discovery-synthetic-seed-2026-04-25"
+  - guided-discovery-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Instructional Strategy"
-
+depth-level: enhanced
+parent-concept: Instructional Strategy
 related:
-  - "[[discovery-learning]]"
-  - "[[direct-instruction]]"
-  - "[[scaffolding]]"
-  - "[[worked-examples]]"
+  - '[[discovery-learning]]'
+  - '[[direct-instruction]]'
+  - '[[scaffolding]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[discovery-learning]]"
-  - "[[direct-instruction]]"
+  - '[[discovery-learning]]'
+  - '[[direct-instruction]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[scaffolding]]"
-  - "[[worked-examples]]"
+  - '[[scaffolding]]'
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Guided Discovery
 
@@ -91,6 +90,9 @@ Theoretical roots of Guided Discovery can be traced back to cognitive load theor
 
 Empirical evidence supports the effectiveness of Guided Discovery in various educational settings. For instance, studies have shown that students using this method often outperform those who engage in pure discovery or direct instruction alone, particularly when the guidance is appropriately tailored to their level of expertise.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Guided Discovery's effectiveness is further enhanced by its alignment with constructivist learning theory, which posits that learners actively construct knowledge through experiences and reflection rather than passively receiving information. This approach not only facilitates the acquisition of new knowledge but also encourages metacognition, enabling students to think about their own thinking processes and strategies.
+
 ## Mechanism
 
 The process of scaffolding in Guided Discovery involves a series of steps where instructors provide prompts and hints that gradually decrease as learners become more proficient. This includes using worked examples, structured questioning, and partial solutions to guide the learning process without giving away the final answer.
@@ -108,6 +110,22 @@ The process of scaffolding in Guided Discovery involves a series of steps where 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Guided Discovery differs from pure discovery learning and direct instruction primarily through its focus on managing cognitive load. Intrinsic load is inherent to the task, while extraneous load arises from how information is presented. Guided Discovery reduces extraneous load by providing structured guidance, making it more effective than pure discovery for complex tasks.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Guided Discovery promotes reflective thinking by encouraging learners to pause and consider different approaches before proceeding. This contrasts with reactive thinking, where actions are taken immediately without reflection. Reflective thinking is crucial for deep learning as it allows students to evaluate their strategies and outcomes, fostering a deeper understanding of the material.
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Guided Discovery aims at promoting deep processing by engaging learners in meaningful activities that require them to think critically about the content. This contrasts with surface-level processing, which involves rote memorization without comprehension. By focusing on deeper understanding, Guided Discovery helps students retain information more effectively and apply it in various contexts.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Guided Discovery is the same as pure discovery learning.
+>
+> While both approaches involve learners discovering principles or solutions, Guided Discovery differs by providing structured guidance to prevent cognitive overload. Pure discovery learning lacks this support and can lead to frustration if students are unable to find solutions independently.
+
 ## Key Figures
 
 - **John Sweller** — John Sweller is credited with the development of cognitive load theory and has been a key figure in the conceptualization of Guided Discovery as an instructional strategy that balances discovery learning with structured guidance.
@@ -124,11 +142,21 @@ The process of scaffolding in Guided Discovery involves a series of steps where 
 >
 > *What would resolve it:* Longitudinal studies tracking student performance over extended periods would help determine if Guided Discovery leads to sustained improvements in problem-solving abilities.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does Guided Discovery impact long-term retention compared to other instructional strategies?
+>
+> *What would resolve it:* Longitudinal studies are needed to determine if the benefits of Guided Discovery extend beyond immediate performance gains, indicating sustained improvements in knowledge retention and application.
+
 ## Synthesis
 
 Guided Discovery is a crucial instructional strategy that bridges the gap between pure discovery learning and direct instruction, offering a balanced approach that enhances both engagement and understanding. By integrating cognitive load theory and scaffolding techniques, it supports learners at various levels of expertise, making it a versatile tool in educational settings.
 
 The application of Guided Discovery extends beyond individual classrooms to influence broader educational practices by promoting more effective instructional design and classroom management strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating principles from cognitive load theory and constructivist learning theory, Guided Discovery offers a nuanced approach that not only enhances immediate understanding but also fosters long-term retention and transfer of knowledge. This makes it a valuable strategy for educators aiming to develop students' deep comprehension and problem-solving skills.
 
 ## Connections & Context
 
@@ -139,3 +167,13 @@ The application of Guided Discovery extends beyond individual classrooms to infl
 **Applies to:** [[scaffolding]] · [[worked-examples]]
 
 **Source:** [[guided-discovery-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[scaffolding]]** — *applies-to*
+> Guided Discovery relies heavily on scaffolding techniques, which involve providing temporary support structures that help learners achieve tasks they would otherwise be unable to complete. This connection is crucial because the gradual reduction of guidance in Guided Discovery mirrors the process of removing scaffolds as students become more competent.
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Worked examples are a key component of Guided Discovery, serving as partial solutions that guide learners towards understanding without revealing the final answer. This connection is vital because worked examples provide just-in-time support, helping to manage cognitive load and facilitate learning.

@@ -1,13 +1,12 @@
 ---
-title: "Construal Level Theory"
+title: Construal Level Theory
 aliases:
-  - "Construal Level Theory"
-  - "CLT social-psychology"
-  - "psychological distance theory"
+  - Construal Level Theory
+  - CLT social-psychology
+  - psychological distance theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - decision-research
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "construal-level-theory-synthetic-seed-2026-04-25"
+  - construal-level-theory-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Psychology"
-
+depth-level: enhanced
+parent-concept: Cognitive Psychology
 related:
-  - "[[regulatory-focus-theory]]"
-  - "[[motivational-psychology]]"
+  - '[[regulatory-focus-theory]]'
+  - '[[motivational-psychology]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[regulatory-focus-theory]]"
+  - '[[regulatory-focus-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[motivational-psychology]]"
+  - '[[motivational-psychology]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Construal Level Theory
 
@@ -86,6 +85,9 @@ This shift in abstraction influences judgment and behavior by altering how we pr
 The theory's roots lie in cognitive psychology, where it bridges the gap between abstract and concrete reasoning by emphasizing the role of psychological distance. CLT provides a coherent framework for understanding how distant events are processed more abstractly, leading to more goal-consistent judgments, while near events are processed concretely, resulting in more detail-oriented decisions.
 
 Empirical evidence supports this theory through various studies on temporal discounting and planning. For example, people tend to value future rewards less when they are perceived as distant compared to immediate rewards, reflecting the abstractness of their mental representations.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Construal Level Theory also illuminates how psychological distance influences emotional responses and empathy. When events are psychologically distant, individuals tend to experience more generalized emotions that align with abstract representations of the event. For example, thinking about a friend's future success might evoke feelings of pride or joy in broad terms. In contrast, when an event is near, such as witnessing a friend's current struggle, the emotional response tends to be more specific and intense, reflecting the concrete details of the situation.
 
 ## Mechanism
 
@@ -107,6 +109,22 @@ The process by which CLT operates involves a shift in cognitive focus based on t
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > While intrinsic load refers to the inherent difficulty of a task, extraneous load is about how information is presented. CLT focuses on psychological distance and its effect on abstractness, whereas these concepts deal with cognitive load in different ways. Understanding this distinction helps clarify that CLT is not just about concrete vs. abstract reasoning but specifically about how distance influences mental representation.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and analysis, often associated with higher-level abstract reasoning. In contrast, reactive thinking is immediate and automatic, typically linked to concrete, context-specific responses. CLT suggests that as psychological distance increases, reflective thinking becomes more prominent due to the need for abstract interpretation of distant events. Conversely, near events trigger reactive thinking because they demand quick, detail-oriented action.
+
+> [!key-distinction] **Top-Down vs Bottom-Up Processing**
+> Top-down processing uses existing knowledge and expectations to interpret sensory information, aligning with CLT's emphasis on abstract representations of distant events. Bottom-up processing relies more on direct sensory input, fitting the concrete details emphasized in near events. This distinction highlights how psychological distance can shift cognitive strategies from data-driven (bottom-up) to concept-driven (top-down).
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People often believe that CLT simply means thinking about distant events is more abstract than near ones.
+>
+> While it's true that psychological distance correlates with abstraction, CLT also explains how this shift in construal level influences judgment and behavior. For instance, distant goals are seen as more attainable because they are framed in broader terms, whereas immediate tasks may seem overwhelming due to their detailed focus.
+
 ## Key Figures
 
 - **Yaacov Trope** — Co-developer of CLT, Yaacov Trope has been instrumental in shaping the theory through extensive research on how psychological distance affects judgment and behavior.
@@ -124,11 +142,21 @@ The process by which CLT operates involves a shift in cognitive focus based on t
 >
 > *What would resolve it:* Empirical research that compares CLT predictions with actual decision-making behaviors in diverse real-world settings would help identify and address these limitations.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does CLT account for the variability in individual responses to psychological distance?
+>
+> *What would resolve it:* Research into individual differences in construal level could provide insights. For instance, understanding how personality traits or cognitive styles influence one's tendency towards abstract versus concrete thinking might clarify why some individuals respond more strongly to distant events than others.
+
 ## Synthesis
 
 CLT is a powerful tool for understanding how psychological distance shapes our judgments and behaviors. By linking abstractness to mental representations, it provides a framework that can be applied across various domains such as instructional design, persuasion, and self-control. The theory's implications extend beyond individual decision-making to broader cognitive processes, making it an essential concept in [[cognitive-psychology]].
 
 Furthermore, CLT intersects with other theories like Regulatory Focus Theory, both dealing with goal-directed behavior but from different perspectives. By integrating these insights, we can gain a more comprehensive understanding of how people make decisions and manage their goals.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating CLT with other psychological theories such as Regulatory Focus Theory and Motivational Psychology, researchers can develop a richer understanding of how mental representations are shaped by both distance and personal motivation. This synthesis not only enhances theoretical frameworks but also offers practical applications in fields like education, marketing, and health psychology.
 
 ## Connections & Context
 
@@ -139,3 +167,13 @@ Furthermore, CLT intersects with other theories like Regulatory Focus Theory, bo
 **Applies to:** [[motivational-psychology]]
 
 **Source:** [[construal-level-theory-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[regulatory-focus-theory]]** — *contrasts-with*
+> While Construal Level Theory (CLT) focuses on how psychological distance affects the abstractness of mental representations, Regulatory Focus Theory examines how individuals pursue goals based on their regulatory orientation — promotion or prevention. CLT's emphasis on abstraction due to distance contrasts with Regulatory Focus Theory’s focus on goal-directed behavior influenced by personal motivation and context.
+
+> [!connection] **[[motivational-psychology]]** — *applies-to*
+> CLT applies to motivational psychology by explaining how the abstractness of mental representations influences motivation. For example, distant goals are often framed in more abstract terms, which can enhance motivation through a sense of broad possibility and achievement. Conversely, near-term tasks may be represented concretely, focusing on specific steps that might reduce perceived effort but also diminish overall motivational drive.

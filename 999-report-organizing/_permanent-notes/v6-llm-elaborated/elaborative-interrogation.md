@@ -1,15 +1,14 @@
 ---
-title: "Elaborative Interrogation"
+title: Elaborative Interrogation
 aliases:
-  - "Elaborative Interrogation"
-  - "Cognitive Strategies for PKB Learning"
-  - "PKM Cognitive Strategy Architecture"
-  - "Learning Strategies and Knowledge Base Design"
-  - "Cognitive PKB Design"
+  - Elaborative Interrogation
+  - Cognitive Strategies for PKB Learning
+  - PKM Cognitive Strategy Architecture
+  - Learning Strategies and Knowledge Base Design
+  - Cognitive PKB Design
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,58 +21,58 @@ subdomains:
   - educational-psychology
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18"
+  - pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Architecture"
-
+depth-level: enhanced
+parent-concept: Cognitive Architecture
 related:
-  - "[[working-memory]]"
-  - "[[Generative Production]]"
-  - "[[self-explanation]]"
-  - "[[spaced-repetition]]"
+  - '[[working-memory]]'
+  - '[[Generative Production]]'
+  - '[[self-explanation]]'
+  - '[[spaced-repetition]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Generative Production]]"
-  - "[[self-explanation]]"
+  - '[[Generative Production]]'
+  - '[[self-explanation]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[spaced-repetition]]"
+  - '[[spaced-repetition]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Elaborative Interrogation
 
@@ -93,6 +92,9 @@ Theoretical roots of elaborative interrogation can be traced back to cognitive a
 
 Empirical evidence supports the effectiveness of elaborative interrogation across different age groups and content domains. For example, Dunlosky et al. (2013) classified it as a strategy of moderate utility with strong generalization potential, indicating its broad applicability.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Elaborative interrogation is particularly effective in complex learning environments, such as those involving abstract concepts or interdisciplinary knowledge. In these contexts, learners often struggle to integrate new information with existing schemas due to the cognitive load imposed by unfamiliarity and complexity. By engaging in elaborative interrogation, learners can break down complex ideas into more manageable components, thereby reducing intrinsic cognitive load and facilitating deeper understanding.
+
 ## Mechanism
 
 The mechanism behind elaborative interrogation involves several steps: first, the learner formulates a question based on the new information; second, they generate an answer using their existing knowledge and understanding; third, they evaluate the accuracy of their response. This process not only reinforces the new information but also integrates it with prior knowledge, creating stronger memory traces.
@@ -108,10 +110,28 @@ The mechanism behind elaborative interrogation involves several steps: first, th
 > [!example] **Application 3 — Collaborative learning**
 > In collaborative settings, elaborative interrogation can be facilitated through group discussions where students ask each other questions about a topic and provide answers based on their collective knowledge. This not only enhances individual understanding but also fosters a deeper connection between the learners.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!example] **Application 4 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval combined with elaborative interrogation can significantly enhance learning outcomes. For instance, after introducing a new concept, instructors could prompt students to engage in elaborative interrogation by asking 'why' and 'how' questions about the material. This is followed by scheduled quizzes that revisit these concepts at increasing intervals. Such an approach leverages both the active construction of knowledge through elaborative interrogation and the long-term retention benefits of spaced retrieval.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Elaborative interrogation is an intrinsic load strategy, meaning it requires active cognitive processing to generate explanations. In contrast, extraneous load strategies involve passive information reception, such as rote rehearsal or simple repetition. The distinction matters because intrinsic load strategies are more effective for long-term retention.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Elaborative rehearsal, which involves generating explanations for new information, contrasts sharply with maintenance rehearsal, where learners simply repeat the material without deeper processing. While maintenance rehearsal may aid short-term recall, it does not foster deep understanding or long-term retention as effectively as elaborative rehearsal. This distinction highlights why elaborative interrogation is a more potent strategy for building robust knowledge structures.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that asking 'why' and 'how' questions during learning is only useful for complex topics.
+>
+> Elaborative interrogation can be beneficial across all levels of complexity. Even with simple facts, generating explanations helps to integrate new information into existing knowledge frameworks, enhancing memory traces. This misconception arises because the benefits are often more apparent in complex scenarios where deeper understanding is crucial.
 
 ## Key Figures
 
@@ -129,11 +149,21 @@ The mechanism behind elaborative interrogation involves several steps: first, th
 >
 > *What would resolve it:* A meta-analysis that examines the effectiveness of elaborative interrogation across various educational settings and content areas could provide insights into the best practices for its application.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the effectiveness of elaborative interrogation vary with individual differences in prior knowledge and cognitive load?
+>
+> *What would resolve it:* Research that systematically varies levels of prior knowledge and task complexity while measuring learning outcomes could shed light on how these factors interact to influence the efficacy of elaborative interrogation.
+
 ## Synthesis
 
 Elaborative interrogation is a valuable strategy because it requires active cognitive construction, which enhances memory traces and supports long-term retention. By integrating new information with existing knowledge through 'why' and 'how' questions, learners can build more robust mental models of the material. This aligns with PKB practices such as wiki-linking and contextual annotation, making it a crucial tool for effective learning and knowledge base design.
 
 The concept of elaborative interrogation also has implications for working memory, generative production, and self-explanation. As these strategies all require active construction, they share commonalities in their effectiveness and application. Understanding the nuances between them can help educators and learners optimize their use of these strategies.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Elaborative interrogation stands out as a powerful strategy within the broader cognitive architecture for learning, particularly when integrated with other techniques like spaced repetition. By actively constructing explanations and integrating new information into existing knowledge frameworks, learners can build more robust mental models that are better equipped to withstand the test of time.
 
 ## Connections & Context
 
@@ -146,3 +176,10 @@ The concept of elaborative interrogation also has implications for working memor
 **Applies to:** [[spaced-repetition]]
 
 **Source:** [[pkb-pkm-cognitive-strategies-for-learning-and-pkb-architecture-foundational-report-2026-04-18]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Generative Production]]** — *see-also*
+> Both elaborative interrogation and generative production involve active cognitive processes that enhance learning. While elaborative interrogation focuses on explaining why and how facts relate, generative production involves creating new examples or analogies based on the material. These strategies complement each other by promoting different aspects of knowledge construction: explanation versus application.

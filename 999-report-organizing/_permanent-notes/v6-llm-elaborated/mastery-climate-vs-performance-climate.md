@@ -1,15 +1,14 @@
 ---
-title: "Mastery Climate vs Performance Climate"
+title: Mastery Climate vs Performance Climate
 aliases:
-  - "Mastery Climate vs Performance Climate"
-  - "Achievement Goal Theory"
-  - "Mastery vs Performance Goals"
-  - "AGT"
-  - "Goal Orientation Framework"
+  - Mastery Climate vs Performance Climate
+  - Achievement Goal Theory
+  - Mastery vs Performance Goals
+  - AGT
+  - Goal Orientation Framework
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -22,57 +21,57 @@ subdomains:
   - achievement-motivation
 
 created: 2026-04-23
-updated: 2026-04-23
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20"
+  - goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Achievement Goal Theory"
-
+depth-level: enhanced
+parent-concept: Achievement Goal Theory
 related:
-  - "[[self-efficacy-theory]]"
-  - "[[attribution-theory]]"
+  - '[[self-efficacy-theory]]'
+  - '[[attribution-theory]]'
   - "[[Pintrich's 4×4 Matrix]]"
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[self-efficacy-theory]]"
-  - "[[attribution-theory]]"
+  - '[[self-efficacy-theory]]'
+  - '[[attribution-theory]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
   - "[[Pintrich's 4×4 Matrix]]"
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Mastery Climate vs Performance Climate
 
@@ -91,6 +90,9 @@ Practically, this means that evaluation methods in a mastery climate are criteri
 Theoretical roots of the mastery climate can be traced back to [[achievement-goal-theory]], which posits that goal orientations are not fixed but are shaped by the learning environment. The performance climate, in contrast, aligns more closely with avoidance goals, where learners may avoid challenging tasks for fear of failure or negative evaluation.
 
 Historically, the distinction between mastery and performance climates has been supported by empirical research showing that students in mastery-oriented environments tend to exhibit higher levels of intrinsic motivation and better academic outcomes over time.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Mastery climates not only influence motivation but also shape learners' perceptions of their own abilities and the nature of intelligence itself. In a mastery climate, students are more likely to develop a growth mindset, believing that their abilities can be developed through dedication and hard work. This contrasts sharply with performance climates where students often adopt a fixed mindset, viewing intelligence as static and unchangeable. The shift towards a growth mindset in mastery climates is crucial because it fosters resilience and persistence in the face of challenges, which are key traits for long-term academic success.
 
 ## Mechanism
 
@@ -112,6 +114,19 @@ The mechanism through which these climates influence learners' orientations invo
 > [!key-distinction] **Intrinsic vs Extrinsic Motivation**
 > Mastery climates are more likely to foster intrinsic motivation, where learners are driven by personal interest and enjoyment of the learning process. In contrast, performance climates often lead to extrinsic motivation, with students motivated by external rewards such as grades or recognition from others.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Performance vs Learning**
+> In a performance climate, learners focus on demonstrating their abilities to outperform others, often leading to short-term gains but potentially at the cost of deep learning. In contrast, mastery climates encourage a learning orientation where the emphasis is on acquiring new knowledge and skills for personal growth. This distinction matters because while performance goals can boost immediate motivation, they may undermine long-term engagement with challenging tasks.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think that mastery climates are less competitive than performance climates.
+>
+> This misconception arises from the belief that competition is inherently negative. However, in a well-designed mastery climate, healthy competition can exist without undermining intrinsic motivation. The key difference lies in how success is defined and rewarded: in mastery climates, success is measured by personal improvement rather than outperforming peers.
+
 ## Key Figures
 
 - **Patricia Pintrich** — Patricia Pintrich is a key contributor to the development of achievement goal theory and has developed the 4×4 Matrix, which provides a framework for understanding different goal orientations within these climates.
@@ -128,11 +143,21 @@ The mechanism through which these climates influence learners' orientations invo
 >
 > *What would resolve it:* Longitudinal studies tracking students' motivation and academic outcomes over extended periods could help clarify the lasting impacts of different climates.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How do cultural and societal values influence the effectiveness of mastery climates?
+>
+> *What would resolve it:* Research on cross-cultural variations in educational practices could provide insights into how different value systems impact learners' responses to mastery-oriented environments. Understanding these dynamics is essential for designing culturally responsive teaching strategies that promote deep learning.
+
 ## Synthesis
 
 Understanding mastery vs. performance climates is crucial for educators and researchers because it provides a framework for designing learning environments that can significantly impact student motivation, engagement, and long-term academic success. By recognizing these differences, educators can create more supportive and effective learning spaces that promote both intrinsic and extrinsic motivation.
 
 This concept also intersects with broader theories such as self-efficacy and attribution theory, highlighting the complex interplay between environmental factors and individual motivations. The 4×4 Matrix developed by Patricia Pintrich offers a valuable tool for educators to navigate these complexities and tailor their teaching strategies accordingly.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding the nuances of mastery and performance climates not only enhances educators' ability to design effective learning environments but also underscores the importance of fostering a growth mindset in students. By recognizing how different climate configurations influence motivation, engagement, and long-term academic success, educators can create balanced educational experiences that support both intrinsic and extrinsic motivational pathways.
 
 ## Connections & Context
 
@@ -143,3 +168,10 @@ This concept also intersects with broader theories such as self-efficacy and att
 **Applies to:** [[Pintrich's 4×4 Matrix]]
 
 **Source:** [[goal-orientation-theory-mastery-vs-performance-goals-foundational-report-2026-04-20]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[Pintrich's 4×4 Matrix]]** — *applies-to*
+> The Pintrich's 4×4 Matrix provides a detailed framework for understanding the interplay between goal orientations and achievement contexts, which is crucial for educators aiming to create mastery climates. By mapping different combinations of task goals (mastery vs performance) with self-regulatory strategies (task-involved vs ego-involved), this matrix helps identify conditions that foster intrinsic motivation in learning environments.

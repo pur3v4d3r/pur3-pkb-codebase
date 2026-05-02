@@ -1,12 +1,11 @@
 ---
-title: "Knowledge Transfer"
+title: Knowledge Transfer
 aliases:
-  - "Knowledge Transfer"
-  - "transfer of learning"
+  - Knowledge Transfer
+  - transfer of learning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - education
 
 created: 2026-04-24
-updated: 2026-04-24
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "knowledge-transfer-synthetic-seed-2026-04-24"
+  - knowledge-transfer-synthetic-seed-2026-04-24
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Learning Processes"
-
+depth-level: enhanced
+parent-concept: Learning Processes
 related:
-  - "[[working-memory]]"
-  - "[[worked-examples]]"
+  - '[[working-memory]]'
+  - '[[worked-examples]]'
 prerequisites:
-  - "[[working-memory]]"
+  - '[[working-memory]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[worked-examples]]"
+  - '[[worked-examples]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Knowledge Transfer
 
@@ -85,6 +84,9 @@ The importance of Knowledge Transfer lies in its ability to foster flexible and 
 Theoretical roots of Knowledge Transfer can be traced back to John Sweller's work in 1988, which highlighted the role of intrinsic vs. extraneous load in learning. Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to how information is presented and managed by working memory. Understanding these concepts helps educators design curricula that minimize extraneous load and maximize intrinsic load, thereby facilitating effective Knowledge Transfer.
 
 Empirical evidence supports the challenges of far transfer. For example, studies have shown that even when students perform well in near transfer tasks, they often struggle with far transfer tasks that require them to apply their knowledge in novel contexts. This has led to a re-evaluation of curricula and pedagogical approaches, emphasizing the need for more robust methods to assess and promote Knowledge Transfer.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Knowledge Transfer is not merely about applying learned skills to new tasks but also involves a deeper cognitive restructuring that allows learners to adapt their knowledge in novel contexts. This process often requires the learner to engage in reflective thinking, where they consciously review and reorganize their understanding of concepts, rather than relying on reactive or automatic responses. Reflective thinking is crucial for far transfer as it enables individuals to identify underlying principles across different domains.
 
 ## Mechanism
 
@@ -105,6 +107,22 @@ Knowledge Transfer operates through several mechanisms, including worked example
 
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > Intrinsic load refers to the inherent difficulty of a task, while extraneous load is related to how information is presented and managed by working memory. Understanding these concepts helps educators design curricula that minimize extraneous load and maximize intrinsic load, thereby facilitating effective Knowledge Transfer.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Surface processing involves rote memorization and superficial understanding, which often fails to support effective knowledge transfer. In contrast, deep processing focuses on semantic elaboration and meaningful connections between concepts, fostering a deeper understanding that is more readily adaptable across contexts. This distinction highlights the importance of encouraging learners to engage in deep processing activities to enhance their ability to apply knowledge broadly.
+
+> [!key-distinction] **Transfer-Near vs Transfer-Far**
+> Near transfer involves applying learned skills or knowledge to similar tasks within the same domain, which is generally more straightforward and reliable. Far transfer, however, requires learners to apply their understanding in entirely new contexts, often across different domains. This distinction underscores the greater cognitive challenge of far transfer and highlights the need for instructional strategies that promote flexible thinking and broad applicability.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — People think knowledge transfer is automatic once learning occurs.
+>
+> Knowledge transfer is not an automatic process but requires active engagement in applying learned skills to new contexts. This misconception arises from the assumption that simply acquiring information guarantees its effective use elsewhere. In reality, learners must actively practice and reflect on how their knowledge can be adapted to different situations.
 
 ## Key Figures
 
@@ -128,6 +146,9 @@ Knowledge Transfer is crucial for bridging the gap between learning and applicat
 
 The broader implications of Knowledge Transfer extend beyond education into professional development and workplace training. By promoting far transfer, organizations can develop employees who are better equipped to handle diverse challenges and innovate in their roles. This underscores the importance of continuous research and innovation in this field to address ongoing questions about how best to facilitate effective Knowledge Transfer.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+Understanding and optimizing knowledge transfer is crucial for developing adaptable learners who can apply their skills across various contexts. By focusing on mechanisms like reflective thinking and deep processing, educators can design curricula that not only impart specific skills but also foster the cognitive flexibility necessary for far transfer.
+
 ## Evidence
 
 Well-controlled studies have consistently shown that while near transfer is robust, far transfer remains elusive. For example, a study by Sweller et al. (1988) demonstrated that learners could perform well on tasks similar to those they had practiced but struggled with novel problems requiring the same underlying principles. This evidence underscores the challenges of promoting far transfer and highlights the need for more effective pedagogical strategies.
@@ -141,3 +162,13 @@ Well-controlled studies have consistently shown that while near transfer is robu
 **Applies to:** [[worked-examples]]
 
 **Source:** [[knowledge-transfer-synthetic-seed-2026-04-24]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[working-memory]]** — *prerequisites*
+> Working memory plays a critical role in Knowledge Transfer by temporarily holding and manipulating information necessary for problem-solving. Its limited capacity means that learners must efficiently manage the cognitive load to successfully apply knowledge across contexts, making it an essential prerequisite for effective transfer.
+
+> [!connection] **[[worked-examples]]** — *applies-to*
+> Worked examples are a powerful instructional strategy that supports Knowledge Transfer by providing learners with step-by-step solutions they can study and adapt. This approach helps bridge the gap between learning and application, making it directly applicable to enhancing transfer in educational settings.

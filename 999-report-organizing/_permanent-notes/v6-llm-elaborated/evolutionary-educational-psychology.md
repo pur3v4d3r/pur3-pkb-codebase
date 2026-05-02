@@ -1,11 +1,10 @@
 ---
-title: "Evolutionary Educational Psychology"
+title: Evolutionary Educational Psychology
 aliases:
-  - "Evolutionary Educational Psychology"
+  - Evolutionary Educational Psychology
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -17,55 +16,55 @@ subdomains:
   - learning-science
 
 created: 2026-04-25
-updated: 2026-04-25
-
+updated: '2026-05-02'
 source-type: report-extraction
 source-reports:
-  - "evolutionary-educational-psychology-synthetic-seed-2026-04-25"
+  - evolutionary-educational-psychology-synthetic-seed-2026-04-25
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Educational Psychology"
-
+depth-level: enhanced
+parent-concept: Educational Psychology
 related:
-  - "[[constructivism]]"
-  - "[[cognitive-load-theory]]"
+  - '[[constructivism]]'
+  - '[[cognitive-load-theory]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[constructivism]]"
+  - '[[constructivism]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[cognitive-load-theory]]"
+  - '[[cognitive-load-theory]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-02'
 ---
+
 
 # Evolutionary Educational Psychology
 
@@ -84,6 +83,9 @@ In practice, this framework suggests that teaching methods should align with the
 The theoretical roots of this framework lie in the work of David Geary, who developed the concept based on evolutionary psychology principles. His research highlights that while primary knowledge is acquired effortlessly through enculturation, secondary knowledge requires structured and deliberate instruction because no dedicated cognitive mechanisms support its acquisition. This distinction has significant implications for educational practices, particularly in how teachers should approach different types of content.
 
 Empirical evidence supports the framework's claims, showing that explicit instruction can be more effective than discovery learning when teaching secondary knowledge. For example, studies have demonstrated that direct instruction in mathematics leads to better retention and understanding compared to inquiry-based approaches.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+Evolutionary Educational Psychology also highlights the role of evolutionary pressures in shaping human cognitive architecture, which has implications for how we design educational environments and curricula. By understanding that certain types of knowledge are evolutionarily primary, educators can create learning experiences that leverage innate cognitive mechanisms, thereby enhancing engagement and retention.
 
 ## Mechanism
 
@@ -105,6 +107,22 @@ The acquisition of biologically primary knowledge is facilitated by dedicated co
 > [!key-distinction] **Intrinsic vs Extraneous Load**
 > The framework distinguishes between intrinsic load (the inherent difficulty of the content) and extraneous load (the cognitive effort required by the instructional design). For primary knowledge, intrinsic load is low because it can be acquired incidentally. However, for secondary knowledge, both intrinsic and extraneous loads are high, necessitating structured instruction to manage cognitive resources effectively.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!key-distinction] **Surface vs Deep Processing**
+> In the context of Evolutionary Educational Psychology, surface processing is more likely to occur with biologically secondary knowledge due to its novelty and lack of dedicated cognitive mechanisms. This contrasts with deep processing, which can naturally engage when dealing with primary knowledge, leading to better long-term retention.
+
+> [!key-distinction] **Massed vs Spaced Practice**
+> While massed practice might seem intuitive for both types of knowledge, spaced practice is particularly beneficial for secondary knowledge. This approach aligns with the need for structured and deliberate instruction in areas where innate cognitive mechanisms are lacking.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!warning] **Misconception** — Evolutionary Educational Psychology suggests that all learning should be discovery-based.
+>
+> This misconception arises from a misunderstanding of the framework's distinction between biologically primary and secondary knowledge. While discovery-based methods can be effective for primary knowledge, secondary knowledge often requires explicit instruction due to its novelty.
+
 ## Key Figures
 
 - **David Geary** — David Geary is the primary developer of Evolutionary Educational Psychology. His work integrates evolutionary theory with educational practices, providing a framework for understanding how different types of knowledge are acquired and suggesting pedagogical approaches that align with these principles.
@@ -121,11 +139,21 @@ The acquisition of biologically primary knowledge is facilitated by dedicated co
 >
 > *What would resolve it:* Longitudinal studies could provide insights into the lasting impacts of different instructional methods on student outcomes, helping educators make more informed decisions about their teaching practices.
 
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+> [!open-question] **Question**
+> How does the framework account for individual differences in learning secondary knowledge?
+>
+> *What would resolve it:* Further research is needed to explore how innate cognitive mechanisms and environmental factors interact to influence the acquisition of secondary knowledge across individuals. This could involve studying variations in working memory capacity, prior knowledge, and cultural context.
+
 ## Synthesis
 
 Evolutionary Educational Psychology offers a valuable framework for understanding how different types of knowledge are acquired and suggesting effective pedagogical approaches. By aligning instruction with the nature of the content—whether it is biologically primary or secondary—it can enhance learning outcomes and ensure that students are not misallocating cognitive resources. This concept intersects with other educational theories, such as Cognitive Load Theory and Constructivism, offering a nuanced approach to teaching and learning.
 
 The framework's emphasis on structured instruction for secondary knowledge aligns with the principles of explicit instruction while contrasting with constructivist approaches that emphasize discovery-based learning. By integrating these insights, educators can create more effective and culturally relevant curricula that support diverse learners.
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+By integrating insights from evolutionary theory with educational practices, Evolutionary Educational Psychology not only offers a theoretical framework but also practical guidelines for educators to optimize learning outcomes by aligning instructional methods with the nature of the content being taught.
 
 ## Connections & Context
 
@@ -136,3 +164,10 @@ The framework's emphasis on structured instruction for secondary knowledge align
 **Applies to:** [[cognitive-load-theory]]
 
 **Source:** [[evolutionary-educational-psychology-synthetic-seed-2026-04-25]]
+
+<!-- enhancement-pass:1 (2026-05-02) -->
+
+### Why these connections matter
+
+> [!connection] **[[cognitive-load-theory]]** — *applies-to*
+> Evolutionary Educational Psychology and Cognitive Load Theory both address the efficiency of learning processes. Evolutionary Educational Psychology provides a rationale for why certain types of knowledge are inherently more complex to learn, aligning with Cognitive Load Theory's focus on managing cognitive load through instructional design.
