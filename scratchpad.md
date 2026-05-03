@@ -731,8 +731,17 @@ Completed emoji: ✅
 Critical Thinking✅
 Paul Elder Framework
 Blooms Taxonomy
-Attribution Theory
+Attribution Theory✅
+Expectancy-Value Theory✅
+Interest Theory (Hidi & Renninger — Four-Phase Model)
+Intrinsic vs. Extrinsic Motivation✅
+Self-Efficacy Theory✅
+Feedback in Learning (Hattie & Timperley Model)
+Assessment for Learning vs. Assessment of Learning
 Achievement Goal Theory✅
+Goal Orientation Theory (Elliot & McGregor)
+Learning Objectives and Taxonomies
+Spiral Curriculum (Bruner)
 Elaborative Interrogation
 Self Explanation Effect
 Generative Learning Theory✅
@@ -746,10 +755,12 @@ Metacognitive Control
 Metacognitive Knowledge
 Metacognitive Experiences
 Nelson Narens Metacognition Model
+Metacognition and Expertise Development✅
 Habit Formation
-Pintrich's Model of Self-Regulated Learning
-Zimmerman's Model of Self-Regulated Learning
-Winne's Model of Self-Regulated Learning
+Pintrich's Model of Self-Regulated Learning✅
+Zimmerman's Model of Self-Regulated Learning✅
+Winne's Model of Self-Regulated Learning✅
+Forethought, Performance, and Self-Reflection Phases
 Self Regulated Learning
 Schema Theory✅
 Constructivism
@@ -791,9 +802,8 @@ Metacognitive Scaffolding for Studying✅
 Metacognitive Scaffolding for Problem Solving
 Metacognitive Scaffolding for Reading
 Scaffold Fading
-4C/ID Model of Instruction
+4C/ID Model of Instruction✅
 Schema Construction✅
-Schema Activation
 Zone of Proximal Development
 Socratic Questioning
 Transfer of Learning
@@ -801,7 +811,7 @@ Executive Function and Cognitive Control
 Selective Attention and Attentional Control
 Causal Reasoning
 Experiential Learning Theory
-Schema Activation and Learning
+Schema Activation and Learning✅
 Intrinsic, Extraneous, and Germane Cognitive Load
 Retrieval Practice Effect
 The Spacing Effect
@@ -811,18 +821,67 @@ Cognitive Flexibility
 Goal Setting in SRL✅
 Cue Utilization in SRL
 Cue Utilization Theory
+Piaget's Theory of Cognitive Development
+Vygotsky's Sociocultural Theory
+Hebbian Learning Theory
+Reflective Practice (Schön)
+Critical Reflection in Adult Learning✅
+Chaos Theory and Learning
+Complexity Theory and Learning
+Self-Organized Learning Environments (Mitra)
+Designing Personal Learning Environments (PLEs)
+Graph-Based Knowledge Organization
+Writing as Thinking
+Personal Knowledge Graphs
+Curation as a Knowledge Practice
+Epistemology
+Philosophy of Education
+Dewey's Philosophy of Education
+Philosophy of Lifelong Learning
+Education as Formation of Character
+Philosophy of Assessment and Evaluation
+Philosophy of Mind
+Consciousness and Self-Awareness
+Pragmatism
+Fallibilism
+Dewey's Theory of Inquiry
+Inquiry as Self-Correction
+Pragmatist Epistemology and Education
+Habit Formation and Habit Loops
+Skill Acquisition Theory (Dreyfus Model)
+Automaticity and Proceduralization✅
 
 
 
-Cognitive Evaluation Theory
-Goal Content Theory
-Organismic Integration Theory
-Basic Psychological Needs Theory
-Relationship Motivation Theory.
+Virtue Ethics (Aristotle)
+Stoic Philosophy and Self-Cultivation
+The Examined Life (Socratic Tradition)
+Mindfulness and Contemplative Practices in Learning
+
+
+
+Educational Psychology
+Cognitive Psychology
+Behavioral Psychology
+Developmental Psychology
+Social Psychology
+Personality Psychology
+
+
+
+Cognitive Evaluation Theory✅
+Goal Content Theory✅
+Organismic Integration Theory✅
+Basic Psychological Needs Theory✅
+Relationship Motivation Theory✅
 Causality Orientation Theory
 
 
-
+PKM for Research and Academic Work
+PKM for Professional Development and Lifelong Learning
+PKM for Personal Growth and Self-Reflection
+PKM and Mental Models — Building a Personal Operating System
+PKM and Lifelong Learning — Building a Sustainable Practice for Continuous Growth and Improvement
 
 
 
@@ -835,16 +894,94 @@ How to design PKM systems that support intrinsic motivation and self-determinati
 Cognitive Science and Personal Knowledge Management for Personal Growth and Self-Improvement
 
 
+Is deliberate practice — structured, effortful, feedback-rich repetition — genuinely sufficient to develop expertise, or has the research overstated its contribution at the expense of other factors?
+
+Does consciousness play a necessary role in learning, or do we learn most of what we know without awareness — and what would a fully accurate account of self-directed learning require us to acknowledge about this?
 
 
 
 
 
 
-
-Generate a report on: [Socratic Questioning]
+Generate a report on: [Schema Theory]
+Create a question to explore based on the topic
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+
+
+
+
+
+
+
+
+---
+
+Generate a report on: [Cognitive Evaluation Theory]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+Generate a report on: [Basic Psychological Needs Theory]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+Generate a report on: [Causality Orientation Theory]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+---
+
+
+Generate a report on: [Goal Content Theory]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+Generate a report on: [Organismic Integration Theory]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+
+
+
+---
+
+
+
+
+
+
+
+Generate a report on: [Intrinsic vs. Extrinsic Motivation]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+---
+
+
+
+Generate a report on: [Pintrich's Model of Self-Regulated Learning]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+Generate a report on: [Zimmerman's Model of Self-Regulated Learning]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+Generate a report on: [Winne's Model of Self-Regulated Learning]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+
+
 
 
 
