@@ -942,9 +942,7 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 
-Generate a report on: [Schema Construction]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
 
 
 
