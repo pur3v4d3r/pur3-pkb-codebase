@@ -797,7 +797,6 @@ Procedural Memory
 Declarative Memory
 Spreading Activation Theory✅
 Connectionist Schema Theory✅
-ACT-R Theory
 Metacognitive Scaffolding for Studying✅
 Metacognitive Scaffolding for Problem Solving
 Metacognitive Scaffolding for Reading
@@ -850,6 +849,37 @@ Pragmatist Epistemology and Education
 Habit Formation and Habit Loops
 Skill Acquisition Theory (Dreyfus Model)
 Automaticity and Proceduralization✅
+Parallel Distributed Processing✅
+Predictive Processing
+Long Term Working Memory✅
+ACT-R Theory
+Designing a PKB for Expertise Development✅
+Designing a PKB for Metacognitive Expertise Development✅
+Designing a PKB for Self-Regulated Learning
+Naturalistic Decision Making and PKB Design
+Naturalistic Decision Making
+Designing PKB Learning Scaffolds✅
+Designing PKB Metacognitive Scaffolds✅
+TARGET Framework
+Control Value Theory
+Backward Design of Learning Experiences
+Probalistic Reasoning
+Social Cognitive Theory
+Bayesian Learning Theory✅
+Schema Construction✅
+Encoding Specificity Principle✅
+Meaningful Learning Theory
+PKB Design for Cognitive Load Management✅
+PKB Design for Intrinsic Motivation and Self-Determination✅
+PKB Design for 4C/ID Instruction✅
+Working Memory
+Mental Models
+
+
+
+
+
+
 
 
 
@@ -908,13 +938,25 @@ Create a question to explore based on the topic
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
+---
 
 
 
+Generate a report on: [Schema Construction]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
 
+Generate a report on: [Bayesian Learning Theory]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
+
+
+Generate a report on: [Encoding Specificity Principle]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
 ---
