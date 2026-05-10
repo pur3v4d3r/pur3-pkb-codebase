@@ -729,14 +729,14 @@ Completed emoji: ✅
 # Reports to Generate
 
 Critical Thinking✅
-Paul Elder Framework
-Blooms Taxonomy
+Paul Elder Framework✅
+Blooms Taxonomy✅
 Attribution Theory✅
 Expectancy-Value Theory✅
 Interest Theory (Hidi & Renninger — Four-Phase Model)
 Intrinsic vs. Extrinsic Motivation✅
 Self-Efficacy Theory✅
-Feedback in Learning (Hattie & Timperley Model)
+Feedback in Learning (Hattie & Timperley Model)✅
 Assessment for Learning vs. Assessment of Learning
 Achievement Goal Theory✅
 Goal Orientation Theory (Elliot & McGregor)
@@ -750,11 +750,11 @@ Formative Assessment✅
 Implicit Theories of Intelligence✅
 Goal Mindset Theory✅
 Metacognition✅
-Metacognitive Monitoring
+Metacognitive Monitoring✅
 Metacognitive Control
 Metacognitive Knowledge
 Metacognitive Experiences
-Nelson Narens Metacognition Model
+Nelson Narens Metacognition Model✅
 Metacognition and Expertise Development✅
 Habit Formation
 Pintrich's Model of Self-Regulated Learning✅
@@ -784,7 +784,7 @@ Assimilation and Accommodation✅
 Encoding Specificity Principle
 Memory Systems
 Levels of Processing Theory
-Self Directed Learning
+Self Directed Learning✅
 Implementation Intentions✅
 Distributed Cognition
 Extended Mind Theory
@@ -795,6 +795,7 @@ Semantic Memory
 Episodic Memory
 Procedural Memory
 Declarative Memory
+Prospective Memory
 Spreading Activation Theory✅
 Connectionist Schema Theory✅
 Metacognitive Scaffolding for Studying✅
@@ -852,7 +853,7 @@ Automaticity and Proceduralization✅
 Parallel Distributed Processing✅
 Predictive Processing
 Long Term Working Memory✅
-ACT-R Theory
+ACT-R Theory✅
 Designing a PKB for Expertise Development✅
 Designing a PKB for Metacognitive Expertise Development✅
 Designing a PKB for Self-Regulated Learning
@@ -868,17 +869,19 @@ Social Cognitive Theory
 Bayesian Learning Theory✅
 Schema Construction✅
 Encoding Specificity Principle✅
-Meaningful Learning Theory
+Meaningful Learning Theory✅
 PKB Design for Cognitive Load Management✅
 PKB Design for Intrinsic Motivation and Self-Determination✅
 PKB Design for 4C/ID Instruction✅
-Working Memory
-Mental Models
-Habit Formation
+Working Memory✅
+Mental Models✅
+Habit Formation✅
 Choice Architecture
 Mental Contrasting
 WOOP Framework
-
+Action Phase Model
+Volitional Control
+Volitional Control Vs Autonomous Motivation
 
 
 
@@ -946,6 +949,61 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 
+Generate a report on: [ACT-R Theory]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+Generate a report on: [Self Directed Learning]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+
+
+
+
+---
+Generate a report on: [Paul Elder Framework]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+Generate a report on: [Constructivism]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+Generate a report on: [Blooms Taxonomy]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+---
+
+
+
+
+
+
+
+Generate a report on: [Meaningful Learning Theory]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+Generate a report on: [Feedback in Learning (Hattie & Timperley Model)]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+
+
+Generate a report on: [Metacognitive Monitoring]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+---
+
+
 
 
 
@@ -958,37 +1016,6 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 ---
 
-Generate a report on: [Cognitive Evaluation Theory]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
-
-Generate a report on: [Basic Psychological Needs Theory]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
-
-Generate a report on: [Causality Orientation Theory]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
----
-
-
-Generate a report on: [Goal Content Theory]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
-
-Generate a report on: [Organismic Integration Theory]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
-
-
-
-
----
 
 
 
@@ -998,23 +1025,6 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 
----
-
-
-
-Generate a report on: [Pintrich's Model of Self-Regulated Learning]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
-
-Generate a report on: [Zimmerman's Model of Self-Regulated Learning]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
-
-Generate a report on: [Winne's Model of Self-Regulated Learning]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
 
