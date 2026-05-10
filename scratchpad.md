@@ -874,7 +874,10 @@ PKB Design for Intrinsic Motivation and Self-Determination✅
 PKB Design for 4C/ID Instruction✅
 Working Memory
 Mental Models
-
+Habit Formation
+Choice Architecture
+Mental Contrasting
+WOOP Framework
 
 
 
@@ -946,15 +949,11 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 
-Generate a report on: [Bayesian Learning Theory]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
 
-Generate a report on: [Encoding Specificity Principle]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
 
 
 ---
@@ -997,9 +996,7 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 
-Generate a report on: [Intrinsic vs. Extrinsic Motivation]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
 
 ---
 

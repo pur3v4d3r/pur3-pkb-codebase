@@ -79,7 +79,7 @@ __version__ = "2.0.0"
 
 # Default vault layout — overridable via --vault / config.
 DEFAULT_VAULT_ROOT: Path = Path(r"D:\10_pur3v4d3r's-vault")
-DEFAULT_THEME_SOURCE_REL: Path = Path("999-obsidian-themes/V4D3R-Sanguine/V4D3R Sanguine")
+DEFAULT_THEME_SOURCE_REL: Path = Path(".obsidian/themes/V4D3R Sanguine")
 DEFAULT_SNIPPETS_SOURCE_REL: Path = Path(".obsidian/snippets")
 DEFAULT_OUTPUT_REL: Path = Path("999-obsidian-themes")
 
@@ -778,7 +778,7 @@ def generate_manifest(scheme: ColorScheme, base_theme: str) -> str:
     """Render the variant's ``manifest.json`` content."""
     return json.dumps(
         {
-            "name": f"{base_theme} {scheme.name}",
+            "name": f"{base_theme} - {scheme.name}",
             "version": "2.0.0",
             "minAppVersion": "1.5.0",
             "author": "Pur3v4d3r",
@@ -799,7 +799,7 @@ def generate_readme(scheme: ColorScheme, base_theme: str, source_hue: float) -> 
         if scheme.chroma_mult != 1.0 else "preserved"
     )
     return textwrap.dedent(f"""\
-        # {base_theme} {scheme.name}
+        # {base_theme} - {scheme.name}
 
         > {scheme.description or 'Auto-generated color variant.'}
 
@@ -924,8 +924,15 @@ def generate_variant(
     _, theme_source, snippets_source, output_root = _resolve_paths(cfg)
     _validate_sources(theme_source, snippets_source)
 
-    base_theme = theme_source.name  # e.g. "V4D3R Crimson"
+    # NAMING CONVENTION: variants are named "<source theme name> - <Color>",
+    # e.g. source "V4D3R Sanguine" + scheme "Crimson" -> "V4D3R Sanguine - Crimson".
+    # The outer container directory uses a hyphenated, install-script-friendly
+    # form prefixed with the first word so install_all_themes.py's "V4D3R-*"
+    # discovery glob continues to match.
+    base_theme = theme_source.name  # e.g. "V4D3R Sanguine"
     base_prefix = base_theme.split()[0] if " " in base_theme else base_theme
+    variant_display_name = f"{base_theme} - {scheme.name}"  # "V4D3R Sanguine - Crimson"
+    outer_dir_name = f"{base_prefix}-{base_theme.replace(' ', '-').removeprefix(base_prefix + '-')}-{safe_slug(scheme.name).title()}" if " " in base_theme else f"{base_prefix}-{safe_slug(scheme.name).title()}"
 
     # Determine source hue (per-scheme override > config > auto-detect).
     source_hue = (
@@ -952,8 +959,8 @@ def generate_variant(
         "preserve_patterns", DEFAULT_PRESERVE_PATTERNS
     ))
 
-    output_dir = output_root / f"{base_prefix}-{safe_slug(scheme.name).title()}"
-    theme_dir = output_dir / f"{base_prefix} {scheme.name}"
+    output_dir = output_root / outer_dir_name
+    theme_dir = output_dir / variant_display_name
     snippets_dir = output_dir / "snippets"
 
     files_written = 0
@@ -971,13 +978,13 @@ def generate_variant(
         files_written += 1
 
     # ── manifest.json ──────────────────────────────────────────────────
-    manifest = generate_manifest(scheme, base_prefix)
+    manifest = generate_manifest(scheme, base_theme)
     if not dry_run:
         write_text_atomic(theme_dir / "manifest.json", manifest)
         files_written += 1
 
     # ── README.md ──────────────────────────────────────────────────────
-    readme = generate_readme(scheme, base_prefix, source_hue)
+    readme = generate_readme(scheme, base_theme, source_hue)
     if not dry_run:
         write_text_atomic(theme_dir / "README.md", readme)
         files_written += 1
@@ -1087,9 +1094,16 @@ def install_variant(scheme: ColorScheme, cfg: dict) -> None:
     vault, theme_source, _, output_root = _resolve_paths(cfg)
     base_theme = theme_source.name
     base_prefix = base_theme.split()[0] if " " in base_theme else base_theme
+    variant_display_name = f"{base_theme} - {scheme.name}"
+    outer_dir_name = (
+        f"{base_prefix}-{base_theme.replace(' ', '-').removeprefix(base_prefix + '-')}"
+        f"-{safe_slug(scheme.name).title()}"
+        if " " in base_theme
+        else f"{base_prefix}-{safe_slug(scheme.name).title()}"
+    )
 
-    src_dir = output_root / f"{base_prefix}-{safe_slug(scheme.name).title()}"
-    src_theme = src_dir / f"{base_prefix} {scheme.name}"
+    src_dir = output_root / outer_dir_name
+    src_theme = src_dir / variant_display_name
     src_snippets = src_dir / "snippets"
 
     if not src_theme.exists():
@@ -1099,7 +1113,7 @@ def install_variant(scheme: ColorScheme, cfg: dict) -> None:
         )
 
     # Theme
-    dest_theme = vault / ".obsidian" / "themes" / f"{base_prefix} {scheme.name}"
+    dest_theme = vault / ".obsidian" / "themes" / variant_display_name
     dest_theme.mkdir(parents=True, exist_ok=True)
     for f in src_theme.iterdir():
         shutil.copy2(f, dest_theme / f.name)
