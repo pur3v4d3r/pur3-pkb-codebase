@@ -41,7 +41,7 @@ aliases:
 `````markdown
 Generate a report on: [Topic-Goes-Here]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-orginizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 NOTE: YOU MUST FIRST GENERATE THE REPORT FILE BEFORE STARTING THE REPORT OTHERWISE IT ERRORS AND THE REPORT NEVER GETS CREATED THIS IS HIGHLY IMPORTANT. DO NOT SKIP THIS STEP. CREATE THE FILE FIRST THEN START THE REPORT. MAKE SURE TO FOLLOW THE PROMPT EXACTLY AS WRITTEN TO AVOID ERRORS.
 
 <style-directive>
@@ -108,7 +108,7 @@ appendix architecture). Style operates at the prose level, not the structural le
 `````markdown
 Generate a report on: [Topic-Goes-Here]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-orginizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 NOTE: YOU MUST FIRST GENERATE THE REPORT FILE BEFORE STARTING THE REPORT OTHERWISE IT ERRORS AND THE REPORT NEVER GETS CREATED THIS IS HIGHLY IMPORTANT. DO NOT SKIP THIS STEP. CREATE THE FILE FIRST THEN START THE REPORT. MAKE SURE TO FOLLOW THE PROMPT EXACTLY AS WRITTEN TO AVOID ERRORS.
 
 <style-directive>
@@ -240,7 +240,7 @@ Emoji for Completion: ✅
 `````markdown
 Generate a report on: [TOPIC]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-link-permanent-note-names-2026-03-19.md]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 <style-directive>
 ## WRITING STYLE: CONTEMPLATIVE MECHANISM v1.0.0
