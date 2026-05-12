@@ -1,0 +1,36 @@
+concept: Epistemic Theory Of Truth
+domain: philosophy
+secondary_domains:
+- metaphysics-of-truth
+- epistemology
+- anti-realism
+aliases:
+- epistemic conception of truth
+- anti-realist theory of truth
+broader:
+- theories of truth
+related:
+- coherence theory of truth
+- pragmatic theory of truth
+- deflationary theory of truth
+- epistemic relativism
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Theory Of Truth
+  body: The Epistemic Theory Of Truth holds that truth is to be analysed in terms
+    of epistemic notions such as warranted assertibility, justification under ideal
+    conditions, or knowability in principle, rather than in terms of correspondence
+    to a mind-independent world.
+- type: key-claim
+  title: Key claim about Epistemic Theory Of Truth
+  body: The Epistemic Theory Of Truth is the natural home for anti-realist positions
+    in philosophy and the philosophy of science; by tying truth to what can in principle
+    be warranted, it forecloses the possibility of recognition-transcendent truths
+    that no finite inquirer could ever access.
+- type: warning
+  title: Common pitfall regarding Epistemic Theory Of Truth
+  body: 'The Epistemic Theory Of Truth faces a classical objection from the asymmetry
+    of truth and warrant: there appear to be true propositions that no one will ever
+    be in a position to verify, and treating these as untrue (because unverifiable)
+    is a substantial metaphysical commitment, not a clarification of an existing concept.'

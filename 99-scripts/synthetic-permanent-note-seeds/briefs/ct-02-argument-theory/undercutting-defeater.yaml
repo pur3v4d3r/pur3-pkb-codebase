@@ -1,0 +1,33 @@
+concept: Undercutting Defeater
+domain: critical-thinking
+secondary_domains:
+- epistemology
+- defeasible-reasoning
+aliases:
+- type-2 defeater
+- undermining defeater
+broader:
+- defeater
+related:
+- rebutting defeater
+- premise acceptability
+prerequisites:
+- defeater
+confidence: high
+callouts:
+- type: definition
+  title: Undercutting Defeater
+  body: An Undercutting Defeater is a defeater that gives reason to doubt that one's
+    evidence actually supports the conclusion, without giving any direct reason to
+    believe the conclusion is false.
+- type: key-claim
+  title: Key claim about Undercutting Defeater
+  body: An Undercutting Defeater attacks the inferential link between evidence and
+    conclusion rather than the conclusion itself; this is what distinguishes "your
+    evidence is unreliable" (undercutting) from "your conclusion is wrong" (rebutting).
+- type: warning
+  title: Common pitfall regarding Undercutting Defeater
+  body: An Undercutting Defeater is often dismissed as merely procedural, but a successful
+    undercutter neutralises a previously strong argument and leaves the conclusion's
+    truth value entirely open, which is a substantively different epistemic state
+    from believing the conclusion is false.

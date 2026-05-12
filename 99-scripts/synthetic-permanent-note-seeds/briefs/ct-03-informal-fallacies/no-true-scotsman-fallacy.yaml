@@ -1,0 +1,34 @@
+concept: No True Scotsman Fallacy
+domain: critical-thinking
+secondary_domains:
+- logic
+- rhetoric
+- definitions
+aliases:
+- no true scotsman
+- ad hoc redefinition
+broader:
+- informal fallacies
+- definitional fallacies
+related:
+- equivocation fallacy
+- motte and bailey fallacy
+confidence: high
+callouts:
+- type: definition
+  title: No True Scotsman Fallacy
+  body: The No True Scotsman Fallacy is the move of dismissing a counterexample to
+    a generalisation by redefining the relevant category mid-argument so that the
+    counterexample is excluded by stipulation rather than refuted.
+- type: key-claim
+  title: Key claim about No True Scotsman Fallacy
+  body: The No True Scotsman Fallacy preserves a generalisation by trading its empirical
+    content for definitional content; once "true Xs do not Y" becomes the criterion
+    for being an X, the generalisation is no longer a claim about the world but a
+    tautology.
+- type: warning
+  title: Common pitfall regarding No True Scotsman Fallacy
+  body: The No True Scotsman Fallacy is not invoked by every act of refining a definition;
+    legitimate clarification of categories can be necessary, and the fallacy specifically
+    applies when the redefinition is ad hoc, immunises the original claim, and is
+    offered only after a counterexample appears.

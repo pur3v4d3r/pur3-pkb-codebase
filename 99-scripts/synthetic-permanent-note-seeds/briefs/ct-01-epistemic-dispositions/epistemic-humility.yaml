@@ -1,0 +1,31 @@
+concept: Epistemic Humility
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- philosophy-of-mind
+aliases:
+- intellectual humility
+broader:
+- intellectual virtues
+related:
+- open mindedness
+- fair mindedness
+- intellectual autonomy
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Humility
+  body: Epistemic Humility is the disposition to recognise the limits of one's own
+    knowledge, the fallibility of one's reasoning, and the possibility that any of
+    one's current beliefs may turn out to be mistaken.
+- type: key-claim
+  title: Key claim about Epistemic Humility
+  body: Epistemic Humility is structurally distinct from low confidence; it is a calibrated
+    awareness of where the edges of one's competence actually lie, which can coexist
+    with strong, well-justified conviction inside those edges.
+- type: warning
+  title: Common pitfall regarding Epistemic Humility
+  body: Epistemic Humility is often performed as generic self-deprecation, but the
+    disposition requires localised acknowledgement of specific gaps; vague confessions
+    of fallibility offer no traction for revision and can function as a rhetorical
+    shield against criticism.

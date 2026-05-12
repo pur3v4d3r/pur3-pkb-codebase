@@ -1,0 +1,33 @@
+concept: Appeal To Ignorance
+domain: critical-thinking
+secondary_domains:
+- epistemology
+- dialectic
+aliases:
+- argumentum ad ignorantiam
+- ignorance fallacy
+broader:
+- informal fallacies
+- evidential fallacies
+related:
+- burden of proof
+- false cause fallacy
+confidence: high
+callouts:
+- type: definition
+  title: Appeal To Ignorance
+  body: The Appeal To Ignorance is the fallacy of treating the absence of evidence
+    against a claim as evidence for it (or absence of evidence for as evidence against),
+    thereby converting one's ignorance into a positive epistemic conclusion.
+- type: key-claim
+  title: Key claim about Appeal To Ignorance
+  body: The Appeal To Ignorance is parasitic on a misallocated burden of proof; the
+    fallacy collapses once the dialectical question of who must produce evidence is
+    asked, because non-evidence does not transfer epistemic weight to either party
+    absent that allocation.
+- type: warning
+  title: Common pitfall regarding Appeal To Ignorance
+  body: The Appeal To Ignorance is not invariably a fallacy; in well-designed inquiries
+    where evidence would have been found if the claim were true, the absence of such
+    evidence is genuinely confirming, so the fallacy applies only when no such expectation
+    has been established.

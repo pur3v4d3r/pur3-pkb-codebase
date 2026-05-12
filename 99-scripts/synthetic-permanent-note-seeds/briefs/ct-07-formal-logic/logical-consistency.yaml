@@ -1,0 +1,33 @@
+concept: Logical Consistency
+domain: logic
+secondary_domains:
+- logic
+- formal-logic
+aliases:
+- consistency
+- non-contradiction
+broader:
+- structural properties of belief sets
+related:
+- logical form
+- logical consequence
+- sound argument
+confidence: high
+callouts:
+- type: definition
+  title: Logical Consistency
+  body: Logical Consistency is the property of a set of statements that they could
+    all be true together; an inconsistent set is one whose members jointly entail
+    a contradiction, so that no possible interpretation makes them all true at once.
+- type: key-claim
+  title: Key claim about Logical Consistency
+  body: 'Logical Consistency is a minimal rationality constraint on a body of belief:
+    from a contradiction, classical logic permits the derivation of any statement
+    whatever (ex falso quodlibet), so an inconsistent belief set provides no guidance
+    about what else to believe.'
+- type: warning
+  title: Common pitfall regarding Logical Consistency
+  body: Logical Consistency is a structural property and need not coincide with truth
+    or plausibility; a fully consistent set of beliefs can still be entirely false,
+    and treating consistency as the sole epistemic standard ignores the relation between
+    a belief set and the world it purports to describe.

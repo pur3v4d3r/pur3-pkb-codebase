@@ -1,0 +1,31 @@
+concept: Argument Mapping
+domain: critical-thinking
+secondary_domains:
+- logic
+- critical-thinking-pedagogy
+- visual-reasoning
+aliases:
+- argument diagramming
+broader:
+- argument analysis
+related:
+- argument structure
+- argument reconstruction
+- steelmanning
+confidence: high
+callouts:
+- type: definition
+  title: Argument Mapping
+  body: Argument Mapping is the practice of representing the structure of an argument
+    as a diagram in which premises, sub-conclusions, and conclusions appear as nodes
+    connected by labelled support and objection relations.
+- type: key-claim
+  title: Key claim about Argument Mapping
+  body: Argument Mapping makes inferential structure visually inspectable, which exposes
+    co-premises that must be evaluated jointly, distinguishes linked from convergent
+    support, and surfaces gaps that linear prose tends to hide.
+- type: warning
+  title: Common pitfall regarding Argument Mapping
+  body: Argument Mapping is sometimes treated as a substitute for argument evaluation;
+    the diagram makes structure visible but does not by itself measure validity, premise
+    truth, or relevance, and a beautifully mapped argument can still be a bad one.

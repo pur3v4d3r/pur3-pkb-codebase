@@ -1,0 +1,33 @@
+concept: Operationalization
+domain: philosophy-of-science
+secondary_domains:
+- methodology
+- social-science
+- measurement-theory
+aliases:
+- operationalisation
+- operational definition
+broader:
+- scientific methodology
+related:
+- null hypothesis
+- replication and reproducibility
+confidence: high
+callouts:
+- type: definition
+  title: Operationalization
+  body: Operationalization is the process of translating a theoretical construct (e.g.,
+    "depression," "trust," "intelligence") into a concrete, measurable procedure that
+    produces values usable in empirical research.
+- type: key-claim
+  title: Key claim about Operationalization
+  body: 'Operationalization is what makes a theoretical construct empirically tractable,
+    but the choice of operationalisation is theoretically loaded: different operationalisations
+    of the "same" construct can yield substantively different results, which is why
+    measurement decisions are not pre-theoretical.'
+- type: warning
+  title: Common pitfall regarding Operationalization
+  body: Operationalization invites the slip from "we measure X with this procedure"
+    to "X just is whatever this procedure measures"; the latter (operationalism in
+    the strict sense) discards the gap between construct and measure that empirical
+    research depends on for revision and improvement.

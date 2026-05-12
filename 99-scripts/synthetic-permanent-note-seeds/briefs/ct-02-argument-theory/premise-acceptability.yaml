@@ -1,0 +1,34 @@
+concept: Premise Acceptability
+domain: critical-thinking
+secondary_domains:
+- logic
+- informal-logic
+- rhetoric
+aliases:
+- acceptability of premises
+broader:
+- argument evaluation
+related:
+- sound argument
+- cogent argument
+- burden of proof
+- defeater
+confidence: high
+callouts:
+- type: definition
+  title: Premise Acceptability
+  body: Premise Acceptability is the criterion for evaluating whether the premises
+    of an argument should be granted by a reasonable audience, given the available
+    evidence, the audience's background knowledge, and the argumentative context.
+- type: key-claim
+  title: Key claim about Premise Acceptability
+  body: Premise Acceptability replaces strict truth as the working criterion in informal
+    logic because most ordinary arguments turn on premises whose truth is contested
+    or unverifiable; the practical question is whether the premises can be reasonably
+    accepted, not whether they are demonstrably true.
+- type: warning
+  title: Common pitfall regarding Premise Acceptability
+  body: Premise Acceptability is audience-relative without being arbitrary; an arguer
+    cannot simply assert that their premises are acceptable, because the acceptability
+    standard requires that a reasonable, informed audience would grant them, which
+    is a public criterion rather than a personal one.

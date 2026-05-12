@@ -1,0 +1,33 @@
+concept: Null Hypothesis
+domain: philosophy-of-science
+secondary_domains:
+- statistics
+- scientific-methodology
+aliases:
+- H0
+- null hypothesis significance testing
+broader:
+- hypothesis testing
+related:
+- hypothetico deductive method
+- replication and reproducibility
+confidence: high
+callouts:
+- type: definition
+  title: Null Hypothesis
+  body: The Null Hypothesis is the default statistical claim — typically that there
+    is no effect, no difference, or no association — against which observed data are
+    tested in classical significance testing; the test asks how probable the data
+    would be if the null were true.
+- type: key-claim
+  title: Key claim about Null Hypothesis
+  body: The Null Hypothesis serves as a procedural foil rather than a substantive
+    scientific claim; rejecting it does not establish any specific alternative, only
+    that the null is unlikely to have generated the data, which is a much weaker conclusion
+    than non-statisticians often assume.
+- type: warning
+  title: Common pitfall regarding Null Hypothesis
+  body: The Null Hypothesis test is widely misinterpreted as giving the probability
+    that the null is true given the data, when it actually gives the probability of
+    the data given the null; this reversal underlies many of the well-documented misuses
+    of p-values across the sciences.

@@ -1,0 +1,33 @@
+concept: Begging The Question
+domain: critical-thinking
+secondary_domains:
+- logic
+- dialectic
+aliases:
+- petitio principii
+- circular argument
+broader:
+- informal fallacies
+- structural fallacies
+related:
+- premise acceptability
+- equivocation fallacy
+confidence: high
+callouts:
+- type: definition
+  title: Begging The Question
+  body: Begging The Question is the fallacy of constructing an argument whose conclusion
+    is presupposed — explicitly or implicitly — by one of its premises, so that the
+    argument provides no independent reason to accept the conclusion.
+- type: key-claim
+  title: Key claim about Begging The Question
+  body: Begging The Question is dialectically vacuous because the audience that already
+    accepts the question-begging premise already accepts the conclusion, while the
+    audience that rejects the conclusion has no reason to grant the premise; the argument
+    moves no one between positions.
+- type: warning
+  title: Common pitfall regarding Begging The Question
+  body: Begging The Question is widely misused in popular discourse to mean "raises
+    the question"; the technical sense concerns presupposition of the conclusion within
+    the premises, and conflating the two flattens a precise logical concept into a
+    generic discourse marker.

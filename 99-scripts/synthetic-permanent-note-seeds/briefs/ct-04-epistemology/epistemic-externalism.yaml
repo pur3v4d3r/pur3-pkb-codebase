@@ -1,0 +1,32 @@
+concept: Epistemic Externalism
+domain: epistemology
+secondary_domains:
+- philosophy-of-mind
+- justification-theory
+aliases:
+- externalism about justification
+broader:
+- theories of justification
+related:
+- epistemic internalism
+- internalism vs externalism epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Externalism
+  body: Epistemic Externalism is the family of views holding that justification depends
+    at least partly on factors external to the believer's mental life — for example,
+    the reliability of the belief-forming process or the actual relation between the
+    belief and its truth-maker.
+- type: key-claim
+  title: Key claim about Epistemic Externalism
+  body: Epistemic Externalism allows for justified belief without reflective access
+    to the justification, which is what enables externalist accounts to credit perceptual
+    knowledge in animals, young children, and ordinary adults who cannot articulate
+    why they know what they know.
+- type: warning
+  title: Common pitfall regarding Epistemic Externalism
+  body: Epistemic Externalism is not the claim that internal factors are irrelevant;
+    most externalist accounts include internal components, and the dispute concerns
+    whether external factors are necessary or sufficient for justification, not whether
+    they exhaust it.

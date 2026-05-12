@@ -1,0 +1,33 @@
+concept: Appeal To Tradition
+domain: critical-thinking
+secondary_domains:
+- rhetoric
+- social-epistemology
+aliases:
+- argumentum ad antiquitatem
+- traditional wisdom fallacy
+broader:
+- informal fallacies
+- irrelevance fallacies
+related:
+- appeal to nature
+- genetic fallacy
+confidence: high
+callouts:
+- type: definition
+  title: Appeal To Tradition
+  body: The Appeal To Tradition is the fallacy of inferring that a practice, belief,
+    or institution is correct, good, or true on the grounds that it has been long-established
+    or widely accepted historically.
+- type: key-claim
+  title: Key claim about Appeal To Tradition
+  body: The Appeal To Tradition treats temporal persistence as evidential warrant,
+    but persistence is consistent with both adaptive selection and inertia; without
+    an independent argument that the persistence tracks correctness, the inference
+    has no force.
+- type: warning
+  title: Common pitfall regarding Appeal To Tradition
+  body: The Appeal To Tradition is not equivalent to citing tradition as relevant
+    context; longstanding practices may carry useful information about what has worked,
+    and noting this is not fallacious provided the inference does not collapse "old"
+    into "right."

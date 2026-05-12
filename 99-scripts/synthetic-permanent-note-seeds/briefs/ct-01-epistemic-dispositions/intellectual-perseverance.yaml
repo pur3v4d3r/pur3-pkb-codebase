@@ -1,0 +1,33 @@
+concept: Intellectual Perseverance
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- learning-science
+aliases:
+- epistemic perseverance
+- intellectual persistence
+broader:
+- intellectual virtues
+related:
+- intellectual conscientiousness
+- truth seeking disposition
+prerequisites:
+- intellectual humility
+confidence: high
+callouts:
+- type: definition
+  title: Intellectual Perseverance
+  body: Intellectual Perseverance is the disposition to remain engaged with difficult,
+    frustrating, or unresolved problems long enough for genuine understanding to develop,
+    rather than terminating inquiry at the first sign of cognitive strain.
+- type: key-claim
+  title: Key claim about Intellectual Perseverance
+  body: Intellectual Perseverance is the disposition that protects depth of understanding
+    from the local minimum of "good-enough" comprehension, because most non-trivial
+    questions yield surface plausibility quickly and structural insight only after
+    sustained effort.
+- type: warning
+  title: Common pitfall regarding Intellectual Perseverance
+  body: Intellectual Perseverance is not the same as stubbornness; the disposition
+    requires continuing to think, not continuing to believe, so a perseverant thinker
+    who encounters defeating evidence updates rather than digging in.

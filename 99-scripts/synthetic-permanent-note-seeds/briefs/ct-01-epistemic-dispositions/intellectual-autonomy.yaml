@@ -1,0 +1,32 @@
+concept: Intellectual Autonomy
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- philosophy-of-education
+aliases:
+- epistemic autonomy
+- intellectual independence
+broader:
+- intellectual virtues
+related:
+- epistemic responsibility
+- intellectual courage
+- epistemic trust
+confidence: high
+callouts:
+- type: definition
+  title: Intellectual Autonomy
+  body: Intellectual Autonomy is the disposition to think for oneself — to form beliefs
+    through one's own evaluation of evidence and argument rather than by deferring
+    uncritically to authority, tradition, or peer pressure.
+- type: key-claim
+  title: Key claim about Intellectual Autonomy
+  body: Intellectual Autonomy is compatible with extensive reliance on testimony;
+    the disposition concerns who is finally responsible for the verdict, not whether
+    one's inputs include the work of others.
+- type: warning
+  title: Common pitfall regarding Intellectual Autonomy
+  body: Intellectual Autonomy is often misread as a mandate to reject expert testimony;
+    the disposition requires that deference be reasoned rather than abolished, so
+    a calibrated autonomous thinker defers more often than a contrarian and for explicit
+    reasons.

@@ -1,0 +1,33 @@
+concept: Falsifiability
+domain: philosophy-of-science
+secondary_domains:
+- philosophy-of-science
+- methodology
+aliases:
+- refutability
+- Popperian falsifiability
+broader:
+- demarcation criteria
+related:
+- hypothetico deductive method
+- demarcation problem
+- pseudo science
+confidence: high
+callouts:
+- type: definition
+  title: Falsifiability
+  body: Falsifiability is the property of a hypothesis or theory of being open in
+    principle to refutation by some possible observation; a falsifiable claim specifies
+    what would count against it as well as what would count for it.
+- type: key-claim
+  title: Key claim about Falsifiability
+  body: 'Falsifiability marks the asymmetry between confirmation and refutation that
+    Popper placed at the centre of scientific method: a theory cannot be conclusively
+    verified by any finite set of confirmations, but it can be conclusively refuted
+    by a single well-established counterexample.'
+- type: warning
+  title: Common pitfall regarding Falsifiability
+  body: Falsifiability is a necessary but not a sufficient condition for scientific
+    status; many obviously unscientific claims can be made falsifiable by stipulation,
+    and many genuinely scientific theories require auxiliary hypotheses before any
+    specific observation counts as a refutation.

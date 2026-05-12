@@ -1,0 +1,32 @@
+concept: Inductive Confirmation
+domain: philosophy-of-science
+secondary_domains:
+- philosophy-of-science
+- formal-epistemology
+aliases:
+- inductive support
+- confirmation theory
+broader:
+- theories of evidence
+related:
+- strong argument
+- cogent argument
+- hypothetico deductive method
+confidence: high
+callouts:
+- type: definition
+  title: Inductive Confirmation
+  body: Inductive Confirmation is the relation by which evidence raises the probability
+    or credibility of a hypothesis without strictly entailing it; the confirmed hypothesis
+    remains defeasible in light of further evidence.
+- type: key-claim
+  title: Key claim about Inductive Confirmation
+  body: Inductive Confirmation is gradient and comparative rather than binary; the
+    question is not whether evidence confirms a hypothesis simpliciter but how much,
+    relative to which alternatives, and in light of what background assumptions.
+- type: warning
+  title: Common pitfall regarding Inductive Confirmation
+  body: Inductive Confirmation faces classical paradoxes (Hempel's ravens, Goodman's
+    grue) that show naive accounts of confirmation generate counterintuitive results;
+    using "confirmed by evidence" as a casual stamp of approval ignores the genuine
+    technical difficulty of formalising what confirmation actually is.

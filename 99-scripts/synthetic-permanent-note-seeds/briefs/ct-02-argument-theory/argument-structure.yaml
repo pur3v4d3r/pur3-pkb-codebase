@@ -1,0 +1,36 @@
+concept: Argument Structure
+domain: critical-thinking
+secondary_domains:
+- logic
+- rhetoric
+aliases:
+- structure of an argument
+broader:
+- argumentation theory
+narrower:
+- premise
+- conclusion
+- inference
+related:
+- argument mapping
+- argument reconstruction
+- logical form
+confidence: high
+callouts:
+- type: definition
+  title: Argument Structure
+  body: Argument Structure is the organisation of a piece of reasoning into premises,
+    intermediate inferences, and a final conclusion, together with the relations of
+    support that connect them.
+- type: key-claim
+  title: Key claim about Argument Structure
+  body: Argument Structure is the substrate that argument evaluation operates on;
+    one cannot judge whether an argument is good until the structure has been recovered,
+    because validity, soundness, and cogency are all properties of structured inferential
+    moves.
+- type: warning
+  title: Common pitfall regarding Argument Structure
+  body: Argument Structure is often confused with rhetorical order; the structure
+    is logical rather than presentational, so a conclusion stated first or premises
+    buried in subordinate clauses still produce the same underlying structure once
+    it is reconstructed.

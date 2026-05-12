@@ -1,0 +1,32 @@
+concept: Valid Argument
+domain: critical-thinking
+secondary_domains:
+- logic
+- formal-logic
+aliases:
+- deductively valid argument
+broader:
+- deductive arguments
+related:
+- sound argument
+- validity vs soundness
+- logical form
+prerequisites:
+- logical consequence
+confidence: high
+callouts:
+- type: definition
+  title: Valid Argument
+  body: A Valid Argument is a deductive argument whose conclusion cannot be false
+    when its premises are all true; validity is a structural property of the inference,
+    not a function of the actual truth of the premises.
+- type: key-claim
+  title: Key claim about Valid Argument
+  body: A Valid Argument can have false premises and a false conclusion; what validity
+    guarantees is the truth-preserving relation, which is why "valid" and "true" must
+    be kept categorically separate when evaluating reasoning.
+- type: warning
+  title: Common pitfall regarding Valid Argument
+  body: A Valid Argument is routinely misdescribed as one that is "convincing" or
+    "well-supported"; the technical sense concerns truth-preservation only, and persuasive
+    force is neither necessary nor sufficient for validity.

@@ -1,0 +1,37 @@
+concept: Categorical Syllogism
+domain: critical-thinking
+secondary_domains:
+- logic
+- formal-logic
+- history-of-logic
+aliases:
+- Aristotelian syllogism
+- term syllogism
+broader:
+- syllogism
+related:
+- syllogism
+- valid argument
+- logical form
+prerequisites:
+- syllogism
+confidence: high
+callouts:
+- type: definition
+  title: Categorical Syllogism
+  body: A Categorical Syllogism is a syllogism whose three statements are all categorical
+    propositions — assertions about the relations between two classes (all, some,
+    no, some-not) — and whose validity is determined by the arrangement of those classes
+    across the premises and conclusion.
+- type: key-claim
+  title: Key claim about Categorical Syllogism
+  body: A Categorical Syllogism is fully classifiable by its mood and figure, which
+    together pick out exactly 256 possible forms, of which only a small finite subset
+    is valid; this exhaustive enumerability is the historical bedrock of formal validity
+    testing.
+- type: warning
+  title: Common pitfall regarding Categorical Syllogism
+  body: A Categorical Syllogism imposes a quantifier structure (all/some/none) that
+    does not capture relational reasoning, modal claims, or multiple-quantifier inferences;
+    relying on it for general-purpose argument analysis silently filters out most
+    of modern formal reasoning.

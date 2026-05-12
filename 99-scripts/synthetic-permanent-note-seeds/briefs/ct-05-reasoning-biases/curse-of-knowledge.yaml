@@ -1,0 +1,34 @@
+concept: Curse Of Knowledge
+domain: cognitive-science
+secondary_domains:
+- communication
+- cognitive-psychology
+- expertise-research
+aliases:
+- knowledge curse
+- expert blindness
+broader:
+- reasoning biases
+- perspective-taking failures
+related:
+- illusion of transparency
+- intellectual empathy
+confidence: high
+callouts:
+- type: definition
+  title: Curse Of Knowledge
+  body: The Curse Of Knowledge is the cognitive bias whereby people who know something
+    find it difficult to imagine, predict, or model the perspective of someone who
+    does not know it.
+- type: key-claim
+  title: Key claim about Curse Of Knowledge
+  body: The Curse Of Knowledge explains a large class of communication failures —
+    expert opacity, instructional miscalibration, projection of jargon — by locating
+    the source not in malice or laziness but in an automatic and largely unconscious
+    assimilation of others' minds to one's own.
+- type: warning
+  title: Common pitfall regarding Curse Of Knowledge
+  body: The Curse Of Knowledge is not corrected by being told to "remember what it
+    was like not to know"; effective debiasing typically requires structural aids
+    such as testing on naive audiences, since introspective simulation of ignorance
+    is precisely what the bias prevents.

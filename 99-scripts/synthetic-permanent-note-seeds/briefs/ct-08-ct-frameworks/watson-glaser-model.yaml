@@ -1,0 +1,34 @@
+concept: Watson Glaser Model
+domain: critical-thinking
+secondary_domains:
+- assessment-research
+- occupational-psychology
+aliases:
+- Watson-Glaser Critical Thinking Appraisal
+- WGCTA
+broader:
+- critical thinking frameworks
+related:
+- facione critical thinking model
+- ennis critical thinking model
+- critical thinking dispositions taxonomy
+confidence: high
+callouts:
+- type: definition
+  title: Watson Glaser Model
+  body: The Watson Glaser Model is the conceptual framework underlying the Watson-Glaser
+    Critical Thinking Appraisal — one of the oldest standardised critical-thinking
+    instruments — which decomposes critical thinking into inference, recognition of
+    assumptions, deduction, interpretation, and evaluation of arguments.
+- type: key-claim
+  title: Key claim about Watson Glaser Model
+  body: The Watson Glaser Model has long served as the de facto industry standard
+    for occupational selection in roles where reasoning quality is at a premium; its
+    longevity reflects both genuine predictive utility and the inertia of institutional
+    adoption rather than uncontested theoretical supremacy.
+- type: warning
+  title: Common pitfall regarding Watson Glaser Model
+  body: The Watson Glaser Model treats critical thinking as a primarily cognitive
+    ability and gives less attention to the dispositional layer that more recent frameworks
+    emphasise; high scores on the WGCTA indicate test-validated reasoning capacity
+    but predict actual real-world reasoning behaviour only modestly.

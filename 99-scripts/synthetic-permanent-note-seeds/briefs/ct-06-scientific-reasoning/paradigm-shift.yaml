@@ -1,0 +1,33 @@
+concept: Paradigm Shift
+domain: philosophy-of-science
+secondary_domains:
+- philosophy-of-science
+- history-of-science
+- sociology-of-science
+aliases:
+- Kuhnian paradigm shift
+- scientific revolution
+broader:
+- history of scientific change
+related:
+- theoretical virtues
+- demarcation problem
+confidence: high
+callouts:
+- type: definition
+  title: Paradigm Shift
+  body: A Paradigm Shift, in Kuhn's analysis, is the discontinuous transition between
+    successive frameworks of normal science in which the basic concepts, methods,
+    exemplary problems, and standards of explanation are restructured rather than
+    incrementally revised.
+- type: key-claim
+  title: Key claim about Paradigm Shift
+  body: A Paradigm Shift is not the gradual accumulation of new results but a structural
+    reorganisation in which old data is reinterpreted under new categories; this is
+    what makes successive paradigms partially incommensurable rather than simply better-versus-worse
+    on a fixed scale.
+- type: warning
+  title: Common pitfall regarding Paradigm Shift
+  body: A Paradigm Shift is widely overused as a marketing term for any modest novelty;
+    the original Kuhnian sense requires deep, framework-level change, and applying
+    it to every new product or method drains the concept of its analytical content.

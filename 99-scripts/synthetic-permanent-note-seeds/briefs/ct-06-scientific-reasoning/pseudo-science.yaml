@@ -1,0 +1,33 @@
+concept: Pseudo Science
+domain: philosophy-of-science
+secondary_domains:
+- philosophy-of-science
+- science-communication
+aliases:
+- pseudoscience
+broader:
+- non-science
+related:
+- demarcation problem
+- falsifiability
+confidence: high
+callouts:
+- type: definition
+  title: Pseudo Science
+  body: Pseudo Science is a body of claims, practices, or doctrines that presents
+    itself as scientific — borrowing the vocabulary, aesthetic, or institutional trappings
+    of science — while failing to satisfy the methodological standards (testability,
+    openness to revision, evidential discipline) that distinguish science from other
+    forms of inquiry.
+- type: key-claim
+  title: Key claim about Pseudo Science
+  body: Pseudo Science is identified by a combination of features rather than by any
+    single defect; recurring markers include immunity to disconfirming evidence, ad
+    hoc rescues, reliance on anecdote over systematic data, and pattern-matching presentation
+    that performs scientific style without scientific substance.
+- type: warning
+  title: Common pitfall regarding Pseudo Science
+  body: Pseudo Science is not the same as bad science or fringe science; legitimate
+    scientific work can be wrong, methodologically poor, or marginal without being
+    pseudoscientific, and the label should be reserved for cases where the failure
+    is structural rather than incidental.

@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "ct-03-informal-fallacies",
+    "date": "2026-05-12",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-12-ct-03-informal-fallacies.md",
+    "notes": "Fifteen informal fallacies — recurring patterns of bad reasoning that succeed\nin persuading not by logical force but by exploiting psychological,\nrhetorical, or social shortcuts. Companion set to formal-logic notes."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/ct-03-informal-fallacies",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-12-ct-03-informal-fallacies"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Hasty Generalization",
+      "kebab": "hasty-generalization",
+      "brief_path": "briefs/ct-03-informal-fallacies/hasty-generalization.yaml",
+      "expected_seed_filename": "hasty-generalization-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "False Cause Fallacy",
+      "kebab": "false-cause-fallacy",
+      "brief_path": "briefs/ct-03-informal-fallacies/false-cause-fallacy.yaml",
+      "expected_seed_filename": "false-cause-fallacy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Appeal To Ignorance",
+      "kebab": "appeal-to-ignorance",
+      "brief_path": "briefs/ct-03-informal-fallacies/appeal-to-ignorance.yaml",
+      "expected_seed_filename": "appeal-to-ignorance-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Appeal To Emotion",
+      "kebab": "appeal-to-emotion",
+      "brief_path": "briefs/ct-03-informal-fallacies/appeal-to-emotion.yaml",
+      "expected_seed_filename": "appeal-to-emotion-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Appeal To Tradition",
+      "kebab": "appeal-to-tradition",
+      "brief_path": "briefs/ct-03-informal-fallacies/appeal-to-tradition.yaml",
+      "expected_seed_filename": "appeal-to-tradition-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Appeal To Nature",
+      "kebab": "appeal-to-nature",
+      "brief_path": "briefs/ct-03-informal-fallacies/appeal-to-nature.yaml",
+      "expected_seed_filename": "appeal-to-nature-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Genetic Fallacy",
+      "kebab": "genetic-fallacy",
+      "brief_path": "briefs/ct-03-informal-fallacies/genetic-fallacy.yaml",
+      "expected_seed_filename": "genetic-fallacy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Equivocation Fallacy",
+      "kebab": "equivocation-fallacy",
+      "brief_path": "briefs/ct-03-informal-fallacies/equivocation-fallacy.yaml",
+      "expected_seed_filename": "equivocation-fallacy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Motte And Bailey Fallacy",
+      "kebab": "motte-and-bailey-fallacy",
+      "brief_path": "briefs/ct-03-informal-fallacies/motte-and-bailey-fallacy.yaml",
+      "expected_seed_filename": "motte-and-bailey-fallacy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "No True Scotsman Fallacy",
+      "kebab": "no-true-scotsman-fallacy",
+      "brief_path": "briefs/ct-03-informal-fallacies/no-true-scotsman-fallacy.yaml",
+      "expected_seed_filename": "no-true-scotsman-fallacy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Nirvana Fallacy",
+      "kebab": "nirvana-fallacy",
+      "brief_path": "briefs/ct-03-informal-fallacies/nirvana-fallacy.yaml",
+      "expected_seed_filename": "nirvana-fallacy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Texas Sharpshooter Fallacy",
+      "kebab": "texas-sharpshooter-fallacy",
+      "brief_path": "briefs/ct-03-informal-fallacies/texas-sharpshooter-fallacy.yaml",
+      "expected_seed_filename": "texas-sharpshooter-fallacy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Red Herring Fallacy",
+      "kebab": "red-herring-fallacy",
+      "brief_path": "briefs/ct-03-informal-fallacies/red-herring-fallacy.yaml",
+      "expected_seed_filename": "red-herring-fallacy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Begging The Question",
+      "kebab": "begging-the-question",
+      "brief_path": "briefs/ct-03-informal-fallacies/begging-the-question.yaml",
+      "expected_seed_filename": "begging-the-question-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Argument From Silence",
+      "kebab": "argument-from-silence",
+      "brief_path": "briefs/ct-03-informal-fallacies/argument-from-silence.yaml",
+      "expected_seed_filename": "argument-from-silence-synthetic-seed-2026-05-12_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

@@ -1,0 +1,31 @@
+concept: Open Mindedness
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- decision-making
+aliases:
+- open-mindedness
+- epistemic openness
+broader:
+- intellectual virtues
+related:
+- intellectual humility
+- fair mindedness
+- intellectual empathy
+confidence: high
+callouts:
+- type: definition
+  title: Open Mindedness
+  body: Open Mindedness is the disposition to take seriously the possibility that
+    one's current beliefs are mistaken and to give genuine consideration to evidence
+    and arguments that might revise them, without prejudging the outcome.
+- type: key-claim
+  title: Key claim about Open Mindedness
+  body: Open Mindedness is a regulatory disposition over inquiry rather than a positive
+    attitude toward any particular conclusion; it specifies how one weighs new information,
+    not what one ends up believing after weighing it.
+- type: warning
+  title: Common pitfall regarding Open Mindedness
+  body: Open Mindedness is routinely conflated with credulity or with the obligation
+    to give every claim equal hearing; the disposition is selective engagement governed
+    by relevance and evidential bearing, not indiscriminate acceptance.

@@ -1,0 +1,37 @@
+concept: Facione Critical Thinking Model
+domain: critical-thinking
+secondary_domains:
+- critical-thinking-pedagogy
+- assessment-research
+aliases:
+- Facione model
+- Delphi consensus model of critical thinking
+- APA Delphi report model
+broader:
+- critical thinking frameworks
+related:
+- ennis critical thinking model
+- critical thinking dispositions taxonomy
+- watson glaser model
+confidence: high
+callouts:
+- type: definition
+  title: Facione Critical Thinking Model
+  body: The Facione Critical Thinking Model is the consensus characterisation of critical
+    thinking developed under Peter Facione's leadership for the American Philosophical
+    Association's Delphi project, identifying interpretation, analysis, evaluation,
+    inference, explanation, and self-regulation as the six core cognitive skills,
+    paired with a set of dispositional components.
+- type: key-claim
+  title: Key claim about Facione Critical Thinking Model
+  body: The Facione Critical Thinking Model provides a tested operational vocabulary
+    for both pedagogy and measurement; its dual structure — cognitive skills plus
+    dispositions — addresses the recurring observation that skill alone does not predict
+    actual reasoning behaviour without the underlying motivation to deploy it.
+- type: warning
+  title: Common pitfall regarding Facione Critical Thinking Model
+  body: The Facione Critical Thinking Model is sometimes treated as the definitive
+    account of critical thinking, but it is one consensus product of one expert panel;
+    alternative frameworks emphasise different decompositions, and adopting Facione's
+    six skills as the framework forecloses without argument the choices that the panel
+    itself debated.

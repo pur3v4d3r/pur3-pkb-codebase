@@ -1,0 +1,32 @@
+concept: Systematicity As Disposition
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- methodology
+aliases:
+- systematicity
+- methodical disposition
+broader:
+- intellectual virtues
+related:
+- intellectual conscientiousness
+- judiciousness
+confidence: high
+callouts:
+- type: definition
+  title: Systematicity As Disposition
+  body: Systematicity As Disposition is the standing tendency to approach questions
+    in an orderly, methodical, and structured way — laying out alternatives, examining
+    them in turn, and resisting the temptation to settle on a verdict by impression
+    alone.
+- type: key-claim
+  title: Key claim about Systematicity As Disposition
+  body: Systematicity As Disposition compensates for the well-documented limits of
+    unaided intuition by externalising the reasoning structure, which makes both the
+    conclusion and the path to it available for inspection and critique.
+- type: warning
+  title: Common pitfall regarding Systematicity As Disposition
+  body: Systematicity As Disposition can ossify into procedural fetishism in which
+    the form of method substitutes for the substance of judgement; the disposition
+    is in service of better reasoning, not a ritual that licenses worse reasoning
+    when the steps are followed.

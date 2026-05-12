@@ -1,0 +1,31 @@
+concept: Demarcation Problem
+domain: philosophy-of-science
+secondary_domains:
+- philosophy-of-science
+- history-of-science
+aliases:
+- problem of demarcation
+broader:
+- meta-science
+related:
+- falsifiability
+- pseudo science
+confidence: high
+callouts:
+- type: definition
+  title: Demarcation Problem
+  body: The Demarcation Problem is the question of how (or whether) to draw a principled
+    distinction between science and non-science, particularly between science and
+    pseudo-science.
+- type: key-claim
+  title: Key claim about Demarcation Problem
+  body: The Demarcation Problem has resisted any single criterion solution; falsifiability,
+    predictive success, methodological rigour, and explanatory virtue have each been
+    proposed and shown to admit counterexamples, suggesting that the boundary may
+    be a cluster rather than a single line.
+- type: warning
+  title: Common pitfall regarding Demarcation Problem
+  body: The Demarcation Problem is sometimes declared "solved" by adopting a favoured
+    criterion and treating its counterexamples as outliers; serious engagement with
+    the problem requires acknowledging that any working criterion will excluded some
+    genuine science or admit some genuine pseudo-science at the margins.

@@ -1,0 +1,32 @@
+concept: Contrapositive
+domain: logic
+secondary_domains:
+- logic
+- formal-logic
+aliases:
+- contrapositive form
+broader:
+- conditional transformations
+related:
+- conditional reasoning
+- logical consequence
+- validity vs soundness
+confidence: high
+callouts:
+- type: definition
+  title: Contrapositive
+  body: The Contrapositive of a conditional "if P then Q" is the conditional "if not-Q
+    then not-P"; the original and its contrapositive are logically equivalent — they
+    have the same truth conditions in every possible case.
+- type: key-claim
+  title: Key claim about Contrapositive
+  body: The Contrapositive is the only one of the three derived conditionals (converse,
+    inverse, contrapositive) that is logically equivalent to the original; recognising
+    this enables a wide class of valid reformulations that natural-language reasoning
+    routinely treats as suspect or invalid.
+- type: warning
+  title: Common pitfall regarding Contrapositive
+  body: The Contrapositive is frequently confused with the converse ("if Q then P")
+    or inverse ("if not-P then not-Q"), neither of which is logically equivalent to
+    the original; affirming a converse on the strength of the original is the formal
+    source of the affirming-the-consequent fallacy.

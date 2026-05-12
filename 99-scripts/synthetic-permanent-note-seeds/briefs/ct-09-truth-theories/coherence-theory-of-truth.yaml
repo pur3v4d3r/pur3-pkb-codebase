@@ -1,0 +1,36 @@
+concept: Coherence Theory Of Truth
+domain: philosophy
+secondary_domains:
+- metaphysics-of-truth
+- idealism
+- philosophy-of-science
+aliases:
+- coherentism about truth
+- coherence theory
+broader:
+- theories of truth
+related:
+- pragmatic theory of truth
+- deflationary theory of truth
+- epistemic theory of truth
+- reflective equilibrium
+confidence: high
+callouts:
+- type: definition
+  title: Coherence Theory Of Truth
+  body: The Coherence Theory Of Truth holds that the truth of a proposition consists
+    in its membership in a maximally coherent system of propositions — its logical
+    compatibility with, and mutual support among, the other propositions in that system.
+- type: key-claim
+  title: Key claim about Coherence Theory Of Truth
+  body: The Coherence Theory Of Truth dissolves the worry about how truth-bearers
+    (propositions) connect to a mind-independent world by relocating truth entirely
+    within the relations among propositions; this explains how truth could be epistemically
+    accessible but at the cost of severing it from correspondence.
+- type: warning
+  title: Common pitfall regarding Coherence Theory Of Truth
+  body: 'The Coherence Theory Of Truth faces the well-known plurality objection: incompatible
+    total systems can each be internally coherent, so coherence by itself fails to
+    single out a unique set of truths, and supplementary criteria smuggled in to fix
+    this typically reintroduce the very correspondence intuition coherentism set out
+    to avoid.'

@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "ct-07-formal-logic",
+    "date": "2026-05-12",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-12-ct-07-formal-logic.md",
+    "notes": "Ten formal-logic concepts covering conditional reasoning, the structural\napparatus of validity, and famous paradoxes that constrain naive logical\nintuitions. Companion to the argument-theory and informal-fallacies sets."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/ct-07-formal-logic",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-12-ct-07-formal-logic"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Necessary And Sufficient Conditions",
+      "kebab": "necessary-and-sufficient-conditions",
+      "brief_path": "briefs/ct-07-formal-logic/necessary-and-sufficient-conditions.yaml",
+      "expected_seed_filename": "necessary-and-sufficient-conditions-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Contrapositive",
+      "kebab": "contrapositive",
+      "brief_path": "briefs/ct-07-formal-logic/contrapositive.yaml",
+      "expected_seed_filename": "contrapositive-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Conditional Reasoning",
+      "kebab": "conditional-reasoning",
+      "brief_path": "briefs/ct-07-formal-logic/conditional-reasoning.yaml",
+      "expected_seed_filename": "conditional-reasoning-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Logical Consistency",
+      "kebab": "logical-consistency",
+      "brief_path": "briefs/ct-07-formal-logic/logical-consistency.yaml",
+      "expected_seed_filename": "logical-consistency-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Logical Form",
+      "kebab": "logical-form",
+      "brief_path": "briefs/ct-07-formal-logic/logical-form.yaml",
+      "expected_seed_filename": "logical-form-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Validity Vs Soundness",
+      "kebab": "validity-vs-soundness",
+      "brief_path": "briefs/ct-07-formal-logic/validity-vs-soundness.yaml",
+      "expected_seed_filename": "validity-vs-soundness-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Logical Consequence",
+      "kebab": "logical-consequence",
+      "brief_path": "briefs/ct-07-formal-logic/logical-consequence.yaml",
+      "expected_seed_filename": "logical-consequence-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Sorites Paradox",
+      "kebab": "sorites-paradox",
+      "brief_path": "briefs/ct-07-formal-logic/sorites-paradox.yaml",
+      "expected_seed_filename": "sorites-paradox-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Liar Paradox",
+      "kebab": "liar-paradox",
+      "brief_path": "briefs/ct-07-formal-logic/liar-paradox.yaml",
+      "expected_seed_filename": "liar-paradox-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Suppositional Reasoning",
+      "kebab": "suppositional-reasoning",
+      "brief_path": "briefs/ct-07-formal-logic/suppositional-reasoning.yaml",
+      "expected_seed_filename": "suppositional-reasoning-synthetic-seed-2026-05-12_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

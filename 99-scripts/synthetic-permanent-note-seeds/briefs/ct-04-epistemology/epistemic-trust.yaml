@@ -1,0 +1,32 @@
+concept: Epistemic Trust
+domain: epistemology
+secondary_domains:
+- social-epistemology
+- ethics-of-belief
+aliases:
+- trust in testimony
+- doxastic trust
+broader:
+- social epistemology
+related:
+- intellectual autonomy
+- collective epistemology
+- epistemic responsibility
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Trust
+  body: Epistemic Trust is the practice of accepting another agent's testimony as
+    a basis for belief without independently verifying the asserted content, on the
+    grounds of one's assessment of the testifier's reliability and sincerity.
+- type: key-claim
+  title: Key claim about Epistemic Trust
+  body: Epistemic Trust is not optional but constitutive of the human knowledge economy;
+    almost everything any individual believes traces back through chains of testimony,
+    so the question is not whether to trust but how to allocate trust calibratedly.
+- type: warning
+  title: Common pitfall regarding Epistemic Trust
+  body: Epistemic Trust can degrade into uncritical credulity or harden into blanket
+    scepticism; both extremes evade the harder task of differential calibration, which
+    is the only practice that actually distinguishes trustworthy from untrustworthy
+    sources.

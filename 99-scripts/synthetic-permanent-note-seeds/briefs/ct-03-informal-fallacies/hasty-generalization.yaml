@@ -1,0 +1,31 @@
+concept: Hasty Generalization
+domain: critical-thinking
+secondary_domains:
+- inductive-reasoning
+- statistics
+aliases:
+- hasty generalisation
+- insufficient sample fallacy
+broader:
+- informal fallacies
+- inductive fallacies
+related:
+- texas sharpshooter fallacy
+- neglect of probability
+confidence: high
+callouts:
+- type: definition
+  title: Hasty Generalization
+  body: Hasty Generalization is the fallacy of drawing a sweeping conclusion about
+    a population from a sample that is too small, unrepresentative, or biased to support
+    the inference.
+- type: key-claim
+  title: Key claim about Hasty Generalization
+  body: Hasty Generalization fails not because generalisation is illegitimate — most
+    useful knowledge is generalised — but because the inference outruns the evidential
+    base; the question is always whether the sample warrants the scope of the conclusion.
+- type: warning
+  title: Common pitfall regarding Hasty Generalization
+  body: Hasty Generalization is sometimes diagnosed simply because the conclusion
+    is general; the fallacy requires that the supporting sample be inadequate, so
+    well-supported general claims are not hasty merely by virtue of being general.

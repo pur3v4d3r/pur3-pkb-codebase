@@ -1,0 +1,32 @@
+concept: Truth Seeking Disposition
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- philosophy-of-inquiry
+aliases:
+- truthfulness disposition
+- alethic motivation
+broader:
+- intellectual virtues
+related:
+- intellectual integrity
+- intellectual courage
+- inquisitiveness as disposition
+confidence: high
+callouts:
+- type: definition
+  title: Truth Seeking Disposition
+  body: A Truth Seeking Disposition is the standing motivation to pursue accurate
+    beliefs even when accuracy conflicts with comfort, identity, or social reward,
+    and to prefer well-supported answers to congenial ones.
+- type: key-claim
+  title: Key claim about Truth Seeking Disposition
+  body: A Truth Seeking Disposition reorders the thinker's incentive landscape so
+    that being right outranks being seen as right; this is the trait that makes other
+    intellectual virtues stable rather than situational.
+- type: warning
+  title: Common pitfall regarding Truth Seeking Disposition
+  body: A Truth Seeking Disposition is routinely simulated by motivated reasoners
+    who frame their preferred conclusions as "just following the truth"; the disposition
+    is identified by behaviour under disconfirming evidence, not by the rhetoric of
+    objectivity.

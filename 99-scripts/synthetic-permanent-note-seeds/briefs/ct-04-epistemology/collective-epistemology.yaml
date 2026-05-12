@@ -1,0 +1,32 @@
+concept: Collective Epistemology
+domain: epistemology
+secondary_domains:
+- social-epistemology
+- philosophy-of-science
+aliases:
+- group epistemology
+- social epistemology of groups
+broader:
+- social epistemology
+related:
+- epistemic trust
+- epistemic responsibility
+confidence: high
+callouts:
+- type: definition
+  title: Collective Epistemology
+  body: Collective Epistemology studies the epistemic states and practices of groups
+    — what it means for a group to know, believe, or be justified in believing something
+    — and how group-level epistemic properties relate to those of individual members.
+- type: key-claim
+  title: Key claim about Collective Epistemology
+  body: Collective Epistemology is necessary because group beliefs do not reduce straightforwardly
+    to aggregations of individual beliefs; the same set of individual beliefs can
+    produce different group-level positions depending on aggregation rules, which
+    has substantive consequences for science, juries, and institutions.
+- type: warning
+  title: Common pitfall regarding Collective Epistemology
+  body: Collective Epistemology is sometimes dismissed as metaphorical talk about
+    groups, but well-developed accounts treat group epistemic states as theoretically
+    tractable in their own right, and refusing to do so makes large parts of scientific,
+    judicial, and democratic practice opaque.

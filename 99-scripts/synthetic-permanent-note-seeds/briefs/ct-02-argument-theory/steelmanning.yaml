@@ -1,0 +1,33 @@
+concept: Steelmanning
+domain: critical-thinking
+secondary_domains:
+- rhetoric
+- dialectic
+- virtue-epistemology
+aliases:
+- steel-manning
+- principle of charity application
+broader:
+- argument analysis
+related:
+- intellectual empathy
+- fair mindedness
+- argument reconstruction
+confidence: high
+callouts:
+- type: definition
+  title: Steelmanning
+  body: Steelmanning is the practice of engaging with the strongest, most defensible
+    version of an opposing argument — strengthening it where the original presentation
+    was weak — before offering a critique.
+- type: key-claim
+  title: Key claim about Steelmanning
+  body: Steelmanning increases the epistemic value of disagreement because a critique
+    that defeats the steelmanned version defeats the position itself, whereas a critique
+    that defeats only the original presentation defeats nothing more than that presentation.
+- type: warning
+  title: Common pitfall regarding Steelmanning
+  body: Steelmanning can be misapplied as putting words in the opponent's mouth or
+    as constructing a position the opponent would disavow; the practice requires reconstructing
+    the strongest version that the opponent could plausibly endorse, not the strongest
+    version one can imagine on their behalf.

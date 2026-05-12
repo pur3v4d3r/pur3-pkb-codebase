@@ -1,0 +1,31 @@
+concept: Epistemic Internalism
+domain: epistemology
+secondary_domains:
+- philosophy-of-mind
+- justification-theory
+aliases:
+- internalism about justification
+broader:
+- theories of justification
+related:
+- epistemic externalism
+- internalism vs externalism epistemology
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Internalism
+  body: Epistemic Internalism is the family of views holding that whether a belief
+    is justified is determined entirely by factors internal to the believer's mental
+    life — typically the evidence, reasons, or reflectively accessible mental states
+    the believer has.
+- type: key-claim
+  title: Key claim about Epistemic Internalism
+  body: Epistemic Internalism preserves the intuition that justification is a matter
+    the thinker can in principle assess from the inside, which makes justification
+    an intellectually responsible status rather than something the believer might
+    possess unknowingly.
+- type: warning
+  title: Common pitfall regarding Epistemic Internalism
+  body: Epistemic Internalism is sometimes equated with Cartesian transparency about
+    the mind; many internalist positions concede that the relevant internal states
+    are not perfectly transparent, and the view does not require infallible self-knowledge.

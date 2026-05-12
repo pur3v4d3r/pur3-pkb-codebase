@@ -1,0 +1,34 @@
+concept: Logical Form
+domain: logic
+secondary_domains:
+- logic
+- formal-logic
+- philosophy-of-language
+aliases:
+- form of an argument
+broader:
+- structural analysis
+related:
+- argument structure
+- valid argument
+- logical consequence
+confidence: high
+callouts:
+- type: definition
+  title: Logical Form
+  body: Logical Form is the abstract structural pattern of a statement or argument
+    that determines its logical properties — its consistency with other statements,
+    its entailments, its validity — independently of the specific subject-matter of
+    its terms.
+- type: key-claim
+  title: Key claim about Logical Form
+  body: Logical Form is what makes formal logic possible as a general discipline;
+    once form is isolated from content, the validity of an argument can be assessed
+    by reference to its pattern, which generalises across every substitution that
+    preserves the form.
+- type: warning
+  title: Common pitfall regarding Logical Form
+  body: Logical Form is not uniquely determined by surface grammar; the same English
+    sentence can be assigned different logical forms depending on the formal language
+    used, and disputes about the "correct" formalisation of natural language are themselves
+    substantive philosophical questions.

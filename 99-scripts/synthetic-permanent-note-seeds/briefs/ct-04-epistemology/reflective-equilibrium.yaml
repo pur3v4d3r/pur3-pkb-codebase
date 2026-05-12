@@ -1,0 +1,34 @@
+concept: Reflective Equilibrium
+domain: epistemology
+secondary_domains:
+- methodology
+- ethics
+- political-philosophy
+aliases:
+- Rawlsian reflective equilibrium
+broader:
+- philosophical methodology
+related:
+- coherence theory of truth
+- judiciousness
+confidence: high
+callouts:
+- type: definition
+  title: Reflective Equilibrium
+  body: Reflective Equilibrium is a method of justification in which one moves back
+    and forth between particular judgements, general principles, and background theories,
+    adjusting each in light of the others until they form a mutually supporting coherent
+    whole.
+- type: key-claim
+  title: Key claim about Reflective Equilibrium
+  body: Reflective Equilibrium replaces the foundationalist hope for a privileged
+    starting point with a dynamic equilibrium between levels; justification becomes
+    a property of the whole web of considered judgement and principle rather than
+    a relation grounded in any fixed base.
+- type: warning
+  title: Common pitfall regarding Reflective Equilibrium
+  body: Reflective Equilibrium is sometimes mistaken for mere intuition-checking,
+    but the method requires genuine willingness to revise particular judgements in
+    the face of well-supported principles (and vice versa); used as a one-way filter
+    that only adjusts principles to fit pre-existing intuitions, it collapses into
+    rationalised intuitionism.

@@ -1,0 +1,32 @@
+concept: Defeater
+domain: critical-thinking
+secondary_domains:
+- epistemology
+- defeasible-reasoning
+aliases:
+- epistemic defeater
+broader:
+- defeasible reasoning
+narrower:
+- rebutting defeater
+- undercutting defeater
+related:
+- premise acceptability
+- burden of proof
+confidence: high
+callouts:
+- type: definition
+  title: Defeater
+  body: A Defeater is a piece of evidence or argument that, when added to one's existing
+    reasons for a belief, removes or substantially reduces the justification that
+    those reasons would otherwise provide.
+- type: key-claim
+  title: Key claim about Defeater
+  body: A Defeater operates on the justificatory relation rather than on the belief
+    directly; this is why a thinker can rationally lower confidence in a conclusion
+    even when none of the original supporting premises has been refuted.
+- type: warning
+  title: Common pitfall regarding Defeater
+  body: A Defeater is sometimes confused with mere disagreement; the existence of
+    someone who denies the conclusion is not a defeater unless the disagreement is
+    itself evidence — for example, by tracking information the believer lacks.

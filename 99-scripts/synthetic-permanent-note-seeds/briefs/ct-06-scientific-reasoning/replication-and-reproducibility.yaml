@@ -1,0 +1,35 @@
+concept: Replication And Reproducibility
+domain: philosophy-of-science
+secondary_domains:
+- methodology
+- meta-science
+- statistics
+aliases:
+- reproducibility
+- replicability
+broader:
+- scientific methodology
+related:
+- null hypothesis
+- operationalization
+- texas sharpshooter fallacy
+confidence: high
+callouts:
+- type: definition
+  title: Replication And Reproducibility
+  body: Replication And Reproducibility refers to the dual norms that scientific findings
+    should be obtainable again by other researchers — replication producing the same
+    result with new data, reproducibility producing the same result from the original
+    data and methods.
+- type: key-claim
+  title: Key claim about Replication And Reproducibility
+  body: Replication And Reproducibility provide the structural check on individual
+    studies; a single result, however striking, only earns its place in the body of
+    accepted knowledge through independent successful repetition, because chance and
+    undetected error cannot be ruled out from any single trial.
+- type: warning
+  title: Common pitfall regarding Replication And Reproducibility
+  body: Replication And Reproducibility have themselves come under scrutiny by the
+    replication crisis across multiple sciences; large fractions of high-profile findings
+    have failed to replicate, which means existing literature should be treated as
+    provisional rather than as a stable foundation.

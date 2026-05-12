@@ -1,0 +1,31 @@
+concept: Intellectual Integrity
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- ethics
+aliases:
+- epistemic integrity
+broader:
+- intellectual virtues
+related:
+- intellectual courage
+- fair mindedness
+- epistemic responsibility
+confidence: high
+callouts:
+- type: definition
+  title: Intellectual Integrity
+  body: Intellectual Integrity is the disposition to hold oneself to the same standards
+    of evidence and consistency that one demands of others, and to acknowledge openly
+    any inconsistencies, weaknesses, or unresolved tensions in one's own position.
+- type: key-claim
+  title: Key claim about Intellectual Integrity
+  body: Intellectual Integrity is what makes a thinker's reasoning trustworthy across
+    contexts; it eliminates the asymmetry whereby strong evidence is required to overturn
+    a favoured belief and weak evidence suffices to dismiss a disfavoured one.
+- type: warning
+  title: Common pitfall regarding Intellectual Integrity
+  body: Intellectual Integrity is not a one-time audit but a continuing practice;
+    thinkers who treat it as a settled identity ("I am an intellectually honest person")
+    tend to detect their own inconsistencies less reliably than those who treat it
+    as a method.

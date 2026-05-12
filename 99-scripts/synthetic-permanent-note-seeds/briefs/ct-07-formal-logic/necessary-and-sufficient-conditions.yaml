@@ -1,0 +1,33 @@
+concept: Necessary And Sufficient Conditions
+domain: logic
+secondary_domains:
+- logic
+- conditional-reasoning
+- conceptual-analysis
+aliases:
+- necessary-and-sufficient conditions
+broader:
+- conditional reasoning
+related:
+- conditional reasoning
+- contrapositive
+- logical consequence
+confidence: high
+callouts:
+- type: definition
+  title: Necessary And Sufficient Conditions
+  body: 'Necessary And Sufficient Conditions describe two distinct logical relations:
+    a necessary condition for X is one without which X cannot obtain, and a sufficient
+    condition for X is one whose presence guarantees that X obtains; a biconditional
+    asserts both at once.'
+- type: key-claim
+  title: Key claim about Necessary And Sufficient Conditions
+  body: Necessary And Sufficient Conditions sharpen most ordinary "if" talk by separating
+    out two relations that natural language regularly fuses; failure to draw the distinction
+    is responsible for a large class of definitional disputes and policy confusions.
+- type: warning
+  title: Common pitfall regarding Necessary And Sufficient Conditions
+  body: Necessary And Sufficient Conditions are easy to mis-translate from English;
+    "only if" introduces a necessary condition while "if" introduces a sufficient
+    one, and reversing this mapping is a routine source of logical error in both casual
+    reasoning and exam settings.

@@ -1,0 +1,34 @@
+concept: Theoretical Virtues
+domain: philosophy-of-science
+secondary_domains:
+- philosophy-of-science
+- theory-evaluation
+aliases:
+- virtues of theories
+- super-empirical virtues
+broader:
+- theory evaluation
+related:
+- paradigm shift
+- demarcation problem
+- inductive confirmation
+confidence: high
+callouts:
+- type: definition
+  title: Theoretical Virtues
+  body: Theoretical Virtues are the non-evidential criteria — simplicity, scope, fruitfulness,
+    internal consistency, integration with other theories, explanatory depth — that
+    scientists use to compare and choose between theories that are roughly equally
+    supported by the available data.
+- type: key-claim
+  title: Key claim about Theoretical Virtues
+  body: Theoretical Virtues do real work in scientific practice precisely because
+    evidence typically underdetermines theory choice; multiple theories can fit the
+    same data, and the virtues are how the scientific community discriminates among
+    them when evidence alone cannot.
+- type: warning
+  title: Common pitfall regarding Theoretical Virtues
+  body: Theoretical Virtues are not universally weighted; different sciences and different
+    historical periods rank simplicity, scope, and fruitfulness differently, so appealing
+    to "the virtues" without specifying the weighting is rhetorically powerful but
+    analytically empty.

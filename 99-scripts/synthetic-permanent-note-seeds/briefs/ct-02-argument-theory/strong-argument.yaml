@@ -1,0 +1,31 @@
+concept: Strong Argument
+domain: critical-thinking
+secondary_domains:
+- logic
+- inductive-reasoning
+aliases:
+- strong inductive argument
+broader:
+- inductive arguments
+related:
+- cogent argument
+- inductive confirmation
+- premise acceptability
+confidence: high
+callouts:
+- type: definition
+  title: Strong Argument
+  body: A Strong Argument is an inductive argument whose conclusion is highly probable
+    given the truth of its premises; inductive strength is a matter of degree rather
+    than the all-or-nothing property that validity is for deduction.
+- type: key-claim
+  title: Key claim about Strong Argument
+  body: A Strong Argument can have true premises and a false conclusion without losing
+    its strength, because inductive support is probabilistic; this is why inductive
+    evaluation requires distinguishing the quality of the inference from the accuracy
+    of the prediction.
+- type: warning
+  title: Common pitfall regarding Strong Argument
+  body: A Strong Argument with false premises can be just as inferentially well-formed
+    as one with true premises; conflating strength with cogency leads to treating
+    any well-structured inductive argument as evidentially decisive.

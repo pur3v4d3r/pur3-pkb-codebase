@@ -1,0 +1,34 @@
+concept: Pragmatic Theory Of Truth
+domain: philosophy
+secondary_domains:
+- American-pragmatism
+- philosophy-of-science
+aliases:
+- pragmatism about truth
+- pragmatist theory of truth
+broader:
+- theories of truth
+related:
+- coherence theory of truth
+- deflationary theory of truth
+- epistemic theory of truth
+confidence: high
+callouts:
+- type: definition
+  title: Pragmatic Theory Of Truth
+  body: The Pragmatic Theory Of Truth, in its various forms (Peirce, James, Dewey),
+    holds that truth is to be understood through its connection to inquiry, action,
+    or practical consequences — for example, as the ideal limit of inquiry, or as
+    that which works in practice over the long run.
+- type: key-claim
+  title: Key claim about Pragmatic Theory Of Truth
+  body: The Pragmatic Theory Of Truth ties truth to the concrete practices of inquiry
+    and action rather than to an abstract correspondence relation; this makes truth
+    methodologically tractable and scientifically respectable but at the cost of conflating
+    truth with success-in-inquiry, which are not obviously the same thing.
+- type: warning
+  title: Common pitfall regarding Pragmatic Theory Of Truth
+  body: The Pragmatic Theory Of Truth has highly disparate formulations across its
+    founders; James's "what works" formulation is much more vulnerable to relativist
+    readings than Peirce's "ideal limit of inquiry," and treating "the pragmatic theory"
+    as a single unified position misrepresents an internally contested tradition.

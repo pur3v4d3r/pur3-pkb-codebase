@@ -1,0 +1,32 @@
+concept: Contextualism In Epistemology
+domain: epistemology
+secondary_domains:
+- philosophy-of-language
+- semantics-of-knowledge-attributions
+aliases:
+- epistemic contextualism
+broader:
+- theories of knowledge attribution
+related:
+- epistemic closure
+- epistemic relativism
+confidence: high
+callouts:
+- type: definition
+  title: Contextualism In Epistemology
+  body: Contextualism In Epistemology is the view that the truth-conditions of knowledge
+    attributions vary with the context of the attributor — what counts as "knowing"
+    in a low-stakes everyday context is more permissive than what counts as "knowing"
+    in a high-stakes or sceptical context.
+- type: key-claim
+  title: Key claim about Contextualism In Epistemology
+  body: 'Contextualism In Epistemology dissolves apparent contradictions between everyday
+    knowledge claims and sceptical denials by relocating the variation: both speakers
+    can be saying something true because the standards encoded in "knows" shift with
+    context.'
+- type: warning
+  title: Common pitfall regarding Contextualism In Epistemology
+  body: Contextualism In Epistemology is frequently confused with subjectivism or
+    relativism about knowledge itself; the view is semantic — about what knowledge
+    attributions mean — and is consistent with knowledge being a fully objective relation
+    once standards are fixed.

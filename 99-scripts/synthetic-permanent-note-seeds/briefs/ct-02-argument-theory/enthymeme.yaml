@@ -1,0 +1,32 @@
+concept: Enthymeme
+domain: critical-thinking
+secondary_domains:
+- logic
+- rhetoric
+aliases:
+- rhetorical syllogism
+- suppressed-premise argument
+broader:
+- argument structure
+related:
+- syllogism
+- argument reconstruction
+- premise acceptability
+confidence: high
+callouts:
+- type: definition
+  title: Enthymeme
+  body: An Enthymeme is an argument in which one or more premises (or, less commonly,
+    the conclusion) is left unstated because the speaker assumes the audience will
+    supply it; most ordinary-language arguments are enthymematic.
+- type: key-claim
+  title: Key claim about Enthymeme
+  body: An Enthymeme is not a deficient argument but a compressed one; reconstructing
+    the suppressed premise is the central skill of argument analysis, because evaluation
+    cannot proceed until the implicit content has been made explicit.
+- type: warning
+  title: Common pitfall regarding Enthymeme
+  body: An Enthymeme can be reconstructed in multiple legitimate ways, and the choice
+    of reconstruction can determine whether the argument appears valid, sound, or
+    fallacious; analysts must apply the principle of charity rather than picking the
+    reconstruction most convenient for refutation.

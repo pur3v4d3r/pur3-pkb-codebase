@@ -1,0 +1,39 @@
+concept: Conditional Reasoning
+domain: logic
+secondary_domains:
+- logic
+- cognitive-psychology
+- formal-logic
+aliases:
+- reasoning with conditionals
+- if-then" reasoning
+broader:
+- reasoning patterns
+narrower:
+- modus ponens
+- modus tollens
+related:
+- necessary and sufficient conditions
+- contrapositive
+- suppositional reasoning
+confidence: high
+callouts:
+- type: definition
+  title: Conditional Reasoning
+  body: Conditional Reasoning is reasoning that proceeds from "if P then Q" statements
+    together with information about P or Q to draw further conclusions; modus ponens
+    (from P infer Q) and modus tollens (from not-Q infer not-P) are its two valid
+    elementary patterns.
+- type: key-claim
+  title: Key claim about Conditional Reasoning
+  body: Conditional Reasoning is the workhorse of both formal proof and ordinary deliberation,
+    but psychological research consistently shows that humans handle modus ponens
+    easily, modus tollens with difficulty, and the invalid patterns (affirming the
+    consequent, denying the antecedent) almost as readily as the valid ones.
+- type: warning
+  title: Common pitfall regarding Conditional Reasoning
+  body: Conditional Reasoning in natural language often interprets "if P then Q" as
+    a biconditional, especially in conversational and instructional contexts; this
+    interpretive default produces inferences that are pragmatically appropriate but
+    formally invalid, and the formal/pragmatic gap is the source of much disagreement
+    about what "if" means.

@@ -1,0 +1,33 @@
+concept: Myside Bias
+domain: cognitive-science
+secondary_domains:
+- reasoning-research
+- political-psychology
+aliases:
+- my-side bias
+- partisan bias in reasoning
+broader:
+- reasoning biases
+- motivated reasoning
+related:
+- belief bias
+- fair mindedness
+- intellectual empathy
+confidence: high
+callouts:
+- type: definition
+  title: Myside Bias
+  body: Myside Bias is the tendency to generate, evaluate, and remember evidence in
+    ways that favour one's prior opinions, group commitments, or personal stake in
+    the outcome of an argument.
+- type: key-claim
+  title: Key claim about Myside Bias
+  body: Myside Bias is dissociable from general cognitive ability; high-IQ reasoners
+    exhibit it at roughly the same rate as average reasoners, which means that intelligence
+    alone does not protect against it and may actually equip it with more sophisticated
+    rationalisations.
+- type: warning
+  title: Common pitfall regarding Myside Bias
+  body: Myside Bias is often misidentified as the property of opponents only; the
+    most reliable indicator that one is exhibiting myside bias is feeling certain
+    that the bias is concentrated in the people who disagree with one.

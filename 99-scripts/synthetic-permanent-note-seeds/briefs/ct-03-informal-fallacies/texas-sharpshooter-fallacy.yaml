@@ -1,0 +1,35 @@
+concept: Texas Sharpshooter Fallacy
+domain: critical-thinking
+secondary_domains:
+- statistics
+- scientific-reasoning
+- data-analysis
+aliases:
+- post hoc target selection
+- cherry-picking targets
+broader:
+- informal fallacies
+- statistical fallacies
+related:
+- hasty generalization
+- false cause fallacy
+- replication and reproducibility
+confidence: high
+callouts:
+- type: definition
+  title: Texas Sharpshooter Fallacy
+  body: The Texas Sharpshooter Fallacy is the error of identifying a pattern in data
+    after the fact and treating its existence as evidence of a non-chance underlying
+    mechanism, while ignoring the many pattern-targets that could have been picked
+    instead.
+- type: key-claim
+  title: Key claim about Texas Sharpshooter Fallacy
+  body: The Texas Sharpshooter Fallacy reveals that the strength of evidence depends
+    on what hypotheses were available before the data were inspected; clusters and
+    coincidences look impressive only when the multiple-comparison structure that
+    generated them is hidden.
+- type: warning
+  title: Common pitfall regarding Texas Sharpshooter Fallacy
+  body: The Texas Sharpshooter Fallacy does not imply that exploratory pattern-finding
+    is illegitimate; it is the inference from a post hoc pattern to a substantive
+    mechanism, without independent confirmation, that constitutes the fallacy.

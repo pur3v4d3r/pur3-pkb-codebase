@@ -1,0 +1,37 @@
+concept: Deflationary Theory Of Truth
+domain: philosophy
+secondary_domains:
+- philosophy-of-language
+- formal-semantics
+aliases:
+- deflationism
+- redundancy theory of truth
+- disquotational theory
+broader:
+- theories of truth
+related:
+- coherence theory of truth
+- pragmatic theory of truth
+- epistemic theory of truth
+- truth aptness
+confidence: high
+callouts:
+- type: definition
+  title: Deflationary Theory Of Truth
+  body: The Deflationary Theory Of Truth holds that the predicate "is true" does not
+    denote any substantive property; its function is logical and expressive — to assert
+    content, to generalise over propositions, or to disquote a sentence — rather than
+    to ascribe a metaphysically loaded relation.
+- type: key-claim
+  title: Key claim about Deflationary Theory Of Truth
+  body: The Deflationary Theory Of Truth treats the apparent depth of the truth predicate
+    as a grammatical illusion; once the logical role of "true" is properly understood,
+    the traditional metaphysical question "what is truth?" largely dissolves, leaving
+    only the question of how the predicate functions.
+- type: warning
+  title: Common pitfall regarding Deflationary Theory Of Truth
+  body: The Deflationary Theory Of Truth is sometimes characterised as denying that
+    anything is really true, but the deflationist position is the opposite — true
+    sentences are exactly those described by the disquotation schema; what deflationism
+    denies is not the application of the predicate but a substantive property behind
+    it.

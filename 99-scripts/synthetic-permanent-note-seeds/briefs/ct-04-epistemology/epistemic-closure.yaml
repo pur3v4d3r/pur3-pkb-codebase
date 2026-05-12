@@ -1,0 +1,31 @@
+concept: Epistemic Closure
+domain: epistemology
+secondary_domains:
+- philosophy-of-mind
+- modal-epistemology
+aliases:
+- closure principle
+- deductive closure of knowledge
+broader:
+- structural principles of knowledge
+related:
+- contextualism in epistemology
+- epistemic regress
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Closure
+  body: Epistemic Closure is the principle that if one knows that p, and one competently
+    deduces q from p, one is in a position to know that q; in stronger formulations,
+    knowledge is closed under known logical entailment.
+- type: key-claim
+  title: Key claim about Epistemic Closure
+  body: Epistemic Closure is what makes knowledge transitive across reasoning steps;
+    without it, even valid deductive inference from known premises would not extend
+    knowledge, and the cognitive function of inference would be radically constrained.
+- type: warning
+  title: Common pitfall regarding Epistemic Closure
+  body: Epistemic Closure is the explicit target of several anti-sceptical strategies
+    that deny it (e.g., Nozick's tracking account); the principle's intuitive appeal
+    hides genuine technical costs, and accepting or rejecting it has substantial downstream
+    consequences for sceptical arguments.

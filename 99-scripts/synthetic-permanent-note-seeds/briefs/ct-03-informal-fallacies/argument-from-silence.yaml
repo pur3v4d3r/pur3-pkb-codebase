@@ -1,0 +1,32 @@
+concept: Argument From Silence
+domain: critical-thinking
+secondary_domains:
+- historiography
+- evidential-reasoning
+aliases:
+- argumentum ex silentio
+broader:
+- informal fallacies
+- evidential fallacies
+related:
+- appeal to ignorance
+- burden of proof
+confidence: high
+callouts:
+- type: definition
+  title: Argument From Silence
+  body: The Argument From Silence is the inference that something did not happen,
+    was not believed, or was not the case because no surviving source mentions it;
+    it draws a positive conclusion from the absence of testimony.
+- type: key-claim
+  title: Key claim about Argument From Silence
+  body: The Argument From Silence is only as strong as the prior expectation that
+    the missing source would have mentioned the matter; without that expectation,
+    silence is uninformative, and treating silence as evidence in its own right is
+    a special case of the appeal to ignorance.
+- type: warning
+  title: Common pitfall regarding Argument From Silence
+  body: The Argument From Silence is not always fallacious; in source-rich domains
+    where comprehensive coverage is plausible, silence can carry real evidential weight,
+    but in source-sparse domains (most of pre-modern history) it carries almost none
+    and is routinely overweighted.

@@ -1,0 +1,34 @@
+concept: Equivocation Fallacy
+domain: critical-thinking
+secondary_domains:
+- logic
+- semantics
+- formal-logic
+aliases:
+- equivocation
+- ambiguity fallacy
+broader:
+- informal fallacies
+- ambiguity fallacies
+related:
+- argument structure
+- logical form
+confidence: high
+callouts:
+- type: definition
+  title: Equivocation Fallacy
+  body: The Equivocation Fallacy occurs when a key term shifts meaning within a single
+    argument, so that the inference appears valid only because two distinct concepts
+    are being treated as one.
+- type: key-claim
+  title: Key claim about Equivocation Fallacy
+  body: The Equivocation Fallacy reveals that argument validity depends on the stability
+    of terms across premises; once a term's reference shifts, the inferential link
+    the argument relies on no longer holds even though the surface structure looks
+    intact.
+- type: warning
+  title: Common pitfall regarding Equivocation Fallacy
+  body: The Equivocation Fallacy is not invoked merely because a term has multiple
+    senses; the fallacy requires that the argument actually exploit a shift in sense,
+    which can be tested by substituting consistent definitions and seeing whether
+    the argument still goes through.

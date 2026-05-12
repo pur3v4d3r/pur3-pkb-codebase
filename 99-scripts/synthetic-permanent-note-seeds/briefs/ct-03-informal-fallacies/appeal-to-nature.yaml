@@ -1,0 +1,35 @@
+concept: Appeal To Nature
+domain: critical-thinking
+secondary_domains:
+- rhetoric
+- philosophy-of-biology
+- ethics
+aliases:
+- naturalistic fallacy variants
+- argumentum ad naturam
+broader:
+- informal fallacies
+- irrelevance fallacies
+related:
+- appeal to tradition
+- genetic fallacy
+confidence: high
+callouts:
+- type: definition
+  title: Appeal To Nature
+  body: The Appeal To Nature is the fallacy of inferring that something is good, healthy,
+    or correct because it is natural (or bad because it is unnatural), without independent
+    reason to think the natural/unnatural distinction tracks the evaluative property
+    in question.
+- type: key-claim
+  title: Key claim about Appeal To Nature
+  body: 'The Appeal To Nature collapses two questions that need to be kept apart:
+    whether a thing occurs without human intervention, and whether it is desirable;
+    many natural things are harmful and many beneficial things are engineered, so
+    the inference from natural to good has no general support.'
+- type: warning
+  title: Common pitfall regarding Appeal To Nature
+  body: The Appeal To Nature is not the claim that naturalness is never relevant;
+    in some contexts (ecological, evolutionary, regulatory) the natural/artificial
+    distinction does carry information, and the fallacy is the inference, not the
+    descriptive use of the category.

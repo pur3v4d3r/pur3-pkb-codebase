@@ -1,0 +1,31 @@
+concept: Intellectual Conscientiousness
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- ethics
+aliases:
+- epistemic conscientiousness
+broader:
+- intellectual virtues
+related:
+- epistemic responsibility
+- intellectual perseverance
+- truth seeking disposition
+confidence: high
+callouts:
+- type: definition
+  title: Intellectual Conscientiousness
+  body: Intellectual Conscientiousness is the disposition to investigate questions
+    with the care, thoroughness, and attention to detail that the stakes of the question
+    warrant, rather than settling for the first plausible answer.
+- type: key-claim
+  title: Key claim about Intellectual Conscientiousness
+  body: Intellectual Conscientiousness scales effort to consequence; it is what distinguishes
+    responsible inquiry from both intellectual laziness on important questions and
+    pointless over-investigation of trivial ones.
+- type: warning
+  title: Common pitfall regarding Intellectual Conscientiousness
+  body: Intellectual Conscientiousness can degrade into perfectionism or analysis
+    paralysis; the disposition is bounded by the practical decision the inquiry serves,
+    so a conscientious thinker treats "good enough for the decision at hand" as a
+    legitimate stopping criterion.

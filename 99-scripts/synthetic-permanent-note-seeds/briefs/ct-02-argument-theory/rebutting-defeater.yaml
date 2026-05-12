@@ -1,0 +1,32 @@
+concept: Rebutting Defeater
+domain: critical-thinking
+secondary_domains:
+- epistemology
+- defeasible-reasoning
+aliases:
+- type-1 defeater
+broader:
+- defeater
+related:
+- undercutting defeater
+- premise acceptability
+prerequisites:
+- defeater
+confidence: high
+callouts:
+- type: definition
+  title: Rebutting Defeater
+  body: A Rebutting Defeater is a defeater that gives positive reason to believe the
+    conclusion is false, as distinct from giving reason to doubt that the original
+    evidence supports it.
+- type: key-claim
+  title: Key claim about Rebutting Defeater
+  body: A Rebutting Defeater attacks the conclusion directly, which means even an
+    impeccable argument loses justificatory force when one acquires independent reason
+    to believe its conclusion is in fact false.
+- type: warning
+  title: Common pitfall regarding Rebutting Defeater
+  body: A Rebutting Defeater can be confused with an undercutting defeater because
+    both reduce justification; the distinction matters because they call for different
+    responses — the rebutting case typically requires identifying which premise is
+    the false one, while the undercutting case does not.

@@ -1,0 +1,35 @@
+concept: Impact Bias
+domain: cognitive-science
+secondary_domains:
+- affective-forecasting
+- decision-making
+aliases:
+- affective forecasting error
+- durability bias
+broader:
+- reasoning biases
+- prediction biases
+related:
+- optimism bias
+- restraint bias
+- neglect of probability
+confidence: high
+callouts:
+- type: definition
+  title: Impact Bias
+  body: Impact Bias is the tendency to overestimate the intensity and duration of
+    one's emotional reactions to future events, both positive and negative; people
+    predict that good outcomes will make them happier for longer and bad outcomes
+    worse for longer than actually occurs.
+- type: key-claim
+  title: Key claim about Impact Bias
+  body: Impact Bias arises because affective forecasting under-weights psychological
+    adaptation and contextual dilution; predictions focus on the focal event in isolation,
+    while actual experience embeds it among countless other inputs that moderate its
+    felt impact.
+- type: warning
+  title: Common pitfall regarding Impact Bias
+  body: Impact Bias does not entail that future events are unimportant or that emotional
+    predictions should be discounted entirely; the bias is specifically about magnitude
+    and duration, and over-correcting toward "nothing will matter as much as I think"
+    is itself a forecasting error.

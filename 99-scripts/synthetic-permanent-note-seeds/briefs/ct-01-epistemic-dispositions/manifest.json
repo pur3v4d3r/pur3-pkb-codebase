@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "ct-01-epistemic-dispositions",
+    "date": "2026-05-12",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-12-ct-01-epistemic-dispositions.md",
+    "notes": "Fifteen epistemic-disposition concepts forming the affective and motivational\nlayer of critical thinking. Drawn from the Paul-Elder, Facione, and Ennis\ntraditions. Intended as prerequisites for permanent notes on reasoning\npractice and intellectual virtue."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/ct-01-epistemic-dispositions",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-12-ct-01-epistemic-dispositions"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Intellectual Courage",
+      "kebab": "intellectual-courage",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/intellectual-courage.yaml",
+      "expected_seed_filename": "intellectual-courage-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Intellectual Perseverance",
+      "kebab": "intellectual-perseverance",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/intellectual-perseverance.yaml",
+      "expected_seed_filename": "intellectual-perseverance-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Fair Mindedness",
+      "kebab": "fair-mindedness",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/fair-mindedness.yaml",
+      "expected_seed_filename": "fair-mindedness-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Intellectual Empathy",
+      "kebab": "intellectual-empathy",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/intellectual-empathy.yaml",
+      "expected_seed_filename": "intellectual-empathy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Intellectual Integrity",
+      "kebab": "intellectual-integrity",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/intellectual-integrity.yaml",
+      "expected_seed_filename": "intellectual-integrity-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Open Mindedness",
+      "kebab": "open-mindedness",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/open-mindedness.yaml",
+      "expected_seed_filename": "open-mindedness-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Intellectual Autonomy",
+      "kebab": "intellectual-autonomy",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/intellectual-autonomy.yaml",
+      "expected_seed_filename": "intellectual-autonomy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Cowardice",
+      "kebab": "epistemic-cowardice",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/epistemic-cowardice.yaml",
+      "expected_seed_filename": "epistemic-cowardice-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Humility",
+      "kebab": "epistemic-humility",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/epistemic-humility.yaml",
+      "expected_seed_filename": "epistemic-humility-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Intellectual Conscientiousness",
+      "kebab": "intellectual-conscientiousness",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/intellectual-conscientiousness.yaml",
+      "expected_seed_filename": "intellectual-conscientiousness-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Responsibility",
+      "kebab": "epistemic-responsibility",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/epistemic-responsibility.yaml",
+      "expected_seed_filename": "epistemic-responsibility-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Truth Seeking Disposition",
+      "kebab": "truth-seeking-disposition",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/truth-seeking-disposition.yaml",
+      "expected_seed_filename": "truth-seeking-disposition-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Systematicity As Disposition",
+      "kebab": "systematicity-as-disposition",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/systematicity-as-disposition.yaml",
+      "expected_seed_filename": "systematicity-as-disposition-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Judiciousness",
+      "kebab": "judiciousness",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/judiciousness.yaml",
+      "expected_seed_filename": "judiciousness-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Inquisitiveness As Disposition",
+      "kebab": "inquisitiveness-as-disposition",
+      "brief_path": "briefs/ct-01-epistemic-dispositions/inquisitiveness-as-disposition.yaml",
+      "expected_seed_filename": "inquisitiveness-as-disposition-synthetic-seed-2026-05-12_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

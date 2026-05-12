@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "ct-04-epistemology",
+    "date": "2026-05-12",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-12-ct-04-epistemology.md",
+    "notes": "Fifteen core epistemology concepts addressing the structure of justification,\nthe regress problem, kinds of knowledge, and social/collective dimensions of\nbelief. Companion to the dispositional and reasoning batches."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/ct-04-epistemology",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-12-ct-04-epistemology"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Epistemic Internalism",
+      "kebab": "epistemic-internalism",
+      "brief_path": "briefs/ct-04-epistemology/epistemic-internalism.yaml",
+      "expected_seed_filename": "epistemic-internalism-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Externalism",
+      "kebab": "epistemic-externalism",
+      "brief_path": "briefs/ct-04-epistemology/epistemic-externalism.yaml",
+      "expected_seed_filename": "epistemic-externalism-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Internalism Vs Externalism Epistemology",
+      "kebab": "internalism-vs-externalism-epistemology",
+      "brief_path": "briefs/ct-04-epistemology/internalism-vs-externalism-epistemology.yaml",
+      "expected_seed_filename": "internalism-vs-externalism-epistemology-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Regress",
+      "kebab": "epistemic-regress",
+      "brief_path": "briefs/ct-04-epistemology/epistemic-regress.yaml",
+      "expected_seed_filename": "epistemic-regress-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Agrippa Trilemma",
+      "kebab": "agrippa-trilemma",
+      "brief_path": "briefs/ct-04-epistemology/agrippa-trilemma.yaml",
+      "expected_seed_filename": "agrippa-trilemma-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Closure",
+      "kebab": "epistemic-closure",
+      "brief_path": "briefs/ct-04-epistemology/epistemic-closure.yaml",
+      "expected_seed_filename": "epistemic-closure-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Contextualism In Epistemology",
+      "kebab": "contextualism-in-epistemology",
+      "brief_path": "briefs/ct-04-epistemology/contextualism-in-epistemology.yaml",
+      "expected_seed_filename": "contextualism-in-epistemology-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Relativism",
+      "kebab": "epistemic-relativism",
+      "brief_path": "briefs/ct-04-epistemology/epistemic-relativism.yaml",
+      "expected_seed_filename": "epistemic-relativism-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "A Posteriori Knowledge",
+      "kebab": "a-posteriori-knowledge",
+      "brief_path": "briefs/ct-04-epistemology/a-posteriori-knowledge.yaml",
+      "expected_seed_filename": "a-posteriori-knowledge-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Analytic Synthetic Distinction",
+      "kebab": "analytic-synthetic-distinction",
+      "brief_path": "briefs/ct-04-epistemology/analytic-synthetic-distinction.yaml",
+      "expected_seed_filename": "analytic-synthetic-distinction-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Propositional Knowledge",
+      "kebab": "propositional-knowledge",
+      "brief_path": "briefs/ct-04-epistemology/propositional-knowledge.yaml",
+      "expected_seed_filename": "propositional-knowledge-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Akrasia",
+      "kebab": "epistemic-akrasia",
+      "brief_path": "briefs/ct-04-epistemology/epistemic-akrasia.yaml",
+      "expected_seed_filename": "epistemic-akrasia-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Trust",
+      "kebab": "epistemic-trust",
+      "brief_path": "briefs/ct-04-epistemology/epistemic-trust.yaml",
+      "expected_seed_filename": "epistemic-trust-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Collective Epistemology",
+      "kebab": "collective-epistemology",
+      "brief_path": "briefs/ct-04-epistemology/collective-epistemology.yaml",
+      "expected_seed_filename": "collective-epistemology-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Reflective Equilibrium",
+      "kebab": "reflective-equilibrium",
+      "brief_path": "briefs/ct-04-epistemology/reflective-equilibrium.yaml",
+      "expected_seed_filename": "reflective-equilibrium-synthetic-seed-2026-05-12_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

@@ -1,0 +1,35 @@
+concept: Suppositional Reasoning
+domain: logic
+secondary_domains:
+- logic
+- conditional-reasoning
+- philosophy-of-mind
+aliases:
+- reasoning under supposition
+- hypothetical reasoning
+broader:
+- reasoning patterns
+related:
+- conditional reasoning
+- contrapositive
+- argument structure
+confidence: high
+callouts:
+- type: definition
+  title: Suppositional Reasoning
+  body: Suppositional Reasoning is reasoning in which a proposition is temporarily
+    assumed for the sake of argument, used to derive consequences, and then discharged
+    — the most familiar form is conditional proof, in which assuming P and deriving
+    Q licenses the conclusion "if P then Q."
+- type: key-claim
+  title: Key claim about Suppositional Reasoning
+  body: Suppositional Reasoning is what allows agents to reason about possibilities
+    they do not believe; it is the cognitive mechanism behind hypothetical thinking,
+    indirect proof, planning, and counterfactual evaluation, all of which require
+    entertaining content without endorsing it.
+- type: warning
+  title: Common pitfall regarding Suppositional Reasoning
+  body: 'Suppositional Reasoning can leak: assumptions made for the sake of argument
+    sometimes get treated as established when the argument is recapped, especially
+    in long chains of reasoning, so explicit discharge of suppositions is a discipline
+    rather than an automatic process.'

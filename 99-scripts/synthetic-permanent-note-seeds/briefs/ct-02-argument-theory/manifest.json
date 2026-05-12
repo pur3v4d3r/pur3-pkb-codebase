@@ -1,0 +1,114 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "ct-02-argument-theory",
+    "date": "2026-05-12",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-12-ct-02-argument-theory.md",
+    "notes": "Fifteen concepts from argument theory and the structural analysis of reasoning.\nCovers the argument-evaluation vocabulary, syllogistic forms, defeasible\nreasoning, and dialectical practices such as steelmanning and burden of proof."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/ct-02-argument-theory",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-12-ct-02-argument-theory"
+  },
+  "counts": {
+    "parsed": 15,
+    "accepted": 15,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Argument Structure",
+      "kebab": "argument-structure",
+      "brief_path": "briefs/ct-02-argument-theory/argument-structure.yaml",
+      "expected_seed_filename": "argument-structure-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Valid Argument",
+      "kebab": "valid-argument",
+      "brief_path": "briefs/ct-02-argument-theory/valid-argument.yaml",
+      "expected_seed_filename": "valid-argument-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Sound Argument",
+      "kebab": "sound-argument",
+      "brief_path": "briefs/ct-02-argument-theory/sound-argument.yaml",
+      "expected_seed_filename": "sound-argument-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Cogent Argument",
+      "kebab": "cogent-argument",
+      "brief_path": "briefs/ct-02-argument-theory/cogent-argument.yaml",
+      "expected_seed_filename": "cogent-argument-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Strong Argument",
+      "kebab": "strong-argument",
+      "brief_path": "briefs/ct-02-argument-theory/strong-argument.yaml",
+      "expected_seed_filename": "strong-argument-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Syllogism",
+      "kebab": "syllogism",
+      "brief_path": "briefs/ct-02-argument-theory/syllogism.yaml",
+      "expected_seed_filename": "syllogism-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Categorical Syllogism",
+      "kebab": "categorical-syllogism",
+      "brief_path": "briefs/ct-02-argument-theory/categorical-syllogism.yaml",
+      "expected_seed_filename": "categorical-syllogism-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Enthymeme",
+      "kebab": "enthymeme",
+      "brief_path": "briefs/ct-02-argument-theory/enthymeme.yaml",
+      "expected_seed_filename": "enthymeme-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Argument Mapping",
+      "kebab": "argument-mapping",
+      "brief_path": "briefs/ct-02-argument-theory/argument-mapping.yaml",
+      "expected_seed_filename": "argument-mapping-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Steelmanning",
+      "kebab": "steelmanning",
+      "brief_path": "briefs/ct-02-argument-theory/steelmanning.yaml",
+      "expected_seed_filename": "steelmanning-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Burden Of Proof",
+      "kebab": "burden-of-proof",
+      "brief_path": "briefs/ct-02-argument-theory/burden-of-proof.yaml",
+      "expected_seed_filename": "burden-of-proof-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Defeater",
+      "kebab": "defeater",
+      "brief_path": "briefs/ct-02-argument-theory/defeater.yaml",
+      "expected_seed_filename": "defeater-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Rebutting Defeater",
+      "kebab": "rebutting-defeater",
+      "brief_path": "briefs/ct-02-argument-theory/rebutting-defeater.yaml",
+      "expected_seed_filename": "rebutting-defeater-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Undercutting Defeater",
+      "kebab": "undercutting-defeater",
+      "brief_path": "briefs/ct-02-argument-theory/undercutting-defeater.yaml",
+      "expected_seed_filename": "undercutting-defeater-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Premise Acceptability",
+      "kebab": "premise-acceptability",
+      "brief_path": "briefs/ct-02-argument-theory/premise-acceptability.yaml",
+      "expected_seed_filename": "premise-acceptability-synthetic-seed-2026-05-12_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

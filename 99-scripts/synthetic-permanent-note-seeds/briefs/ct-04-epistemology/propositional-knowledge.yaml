@@ -1,0 +1,34 @@
+concept: Propositional Knowledge
+domain: epistemology
+secondary_domains:
+- philosophy-of-mind
+- semantics
+aliases:
+- knowledge-that
+- declarative knowledge
+broader:
+- kinds of knowledge
+related:
+- a posteriori knowledge
+- analytic synthetic distinction
+- epistemic closure
+confidence: high
+callouts:
+- type: definition
+  title: Propositional Knowledge
+  body: Propositional Knowledge is knowledge of facts — knowledge that some proposition
+    is the case — as distinct from knowledge how (skill) and knowledge by acquaintance
+    (direct familiarity); it is the type of knowledge classically analysed as justified
+    true belief.
+- type: key-claim
+  title: Key claim about Propositional Knowledge
+  body: Propositional Knowledge is the central target of the analysis-of-knowledge
+    tradition because it is the kind of knowledge expressible in declarative sentences,
+    evaluable by truth, and amenable to articulated justification — the form on which
+    most epistemic theorising operates.
+- type: warning
+  title: Common pitfall regarding Propositional Knowledge
+  body: Propositional Knowledge is not the only or even the dominant form of human
+    knowledge; treating it as the exhaustive category misses skill, perceptual familiarity,
+    and tacit knowledge, all of which resist propositional reconstruction without
+    significant loss.

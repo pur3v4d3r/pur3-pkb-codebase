@@ -1,0 +1,34 @@
+concept: Argument Reconstruction
+domain: critical-thinking
+secondary_domains:
+- logic
+- informal-logic
+- dialectic
+aliases:
+- reconstruction of arguments
+- charitable reconstruction
+broader:
+- argument analysis
+related:
+- argument structure
+- argument mapping
+- enthymeme
+- steelmanning
+confidence: high
+callouts:
+- type: definition
+  title: Argument Reconstruction
+  body: Argument Reconstruction is the practice of recovering the explicit and implicit
+    premises, the conclusion, and the inferential structure of a piece of reasoning
+    from its original presentation — typically prose — into a form suitable for evaluation.
+- type: key-claim
+  title: Key claim about Argument Reconstruction
+  body: Argument Reconstruction is the prerequisite for nearly every other critical-thinking
+    activity; one cannot evaluate validity, soundness, or relevance until the argument
+    has been recovered from the rhetorical packaging it usually arrives in.
+- type: warning
+  title: Common pitfall regarding Argument Reconstruction
+  body: Argument Reconstruction is governed by the principle of charity, which requires
+    reconstructing the strongest plausible version the speaker could endorse; reconstructions
+    that maximise refutability rather than fidelity produce critiques that are dialectically
+    empty even when they are formally accurate.

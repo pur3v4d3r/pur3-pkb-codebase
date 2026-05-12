@@ -1,0 +1,54 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "ct-09-truth-theories",
+    "date": "2026-05-12",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-12-ct-09-truth-theories.md",
+    "notes": "Five major theories of truth and the related notion of truth-aptness. Reference\nnotes for the metaphysics-of-truth cluster; companion to the epistemology\nbatch."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/ct-09-truth-theories",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-12-ct-09-truth-theories"
+  },
+  "counts": {
+    "parsed": 5,
+    "accepted": 5,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Coherence Theory Of Truth",
+      "kebab": "coherence-theory-of-truth",
+      "brief_path": "briefs/ct-09-truth-theories/coherence-theory-of-truth.yaml",
+      "expected_seed_filename": "coherence-theory-of-truth-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Pragmatic Theory Of Truth",
+      "kebab": "pragmatic-theory-of-truth",
+      "brief_path": "briefs/ct-09-truth-theories/pragmatic-theory-of-truth.yaml",
+      "expected_seed_filename": "pragmatic-theory-of-truth-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Deflationary Theory Of Truth",
+      "kebab": "deflationary-theory-of-truth",
+      "brief_path": "briefs/ct-09-truth-theories/deflationary-theory-of-truth.yaml",
+      "expected_seed_filename": "deflationary-theory-of-truth-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Epistemic Theory Of Truth",
+      "kebab": "epistemic-theory-of-truth",
+      "brief_path": "briefs/ct-09-truth-theories/epistemic-theory-of-truth.yaml",
+      "expected_seed_filename": "epistemic-theory-of-truth-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Truth Aptness",
+      "kebab": "truth-aptness",
+      "brief_path": "briefs/ct-09-truth-theories/truth-aptness.yaml",
+      "expected_seed_filename": "truth-aptness-synthetic-seed-2026-05-12_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

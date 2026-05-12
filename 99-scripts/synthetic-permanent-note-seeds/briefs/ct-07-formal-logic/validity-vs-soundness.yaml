@@ -1,0 +1,34 @@
+concept: Validity Vs Soundness
+domain: logic
+secondary_domains:
+- logic
+- formal-logic
+- critical-thinking-pedagogy
+aliases:
+- validity-soundness distinction
+broader:
+- deductive evaluation
+related:
+- valid argument
+- sound argument
+- premise acceptability
+confidence: high
+callouts:
+- type: definition
+  title: Validity Vs Soundness
+  body: 'Validity Vs Soundness contrasts two grades of deductive evaluation: validity
+    is the structural property that guarantees truth-preservation from premises to
+    conclusion, while soundness adds the further requirement that the premises actually
+    be true.'
+- type: key-claim
+  title: Key claim about Validity Vs Soundness
+  body: Validity Vs Soundness is the most reliably misunderstood distinction in introductory
+    logic; the technical sense of "valid" allows arguments with false premises and
+    false conclusions to be valid, which is unintuitive but is exactly what makes
+    validity a purely structural notion.
+- type: warning
+  title: Common pitfall regarding Validity Vs Soundness
+  body: Validity Vs Soundness can be flattened by everyday usage in which "valid"
+    means "good" and "sound" means "agreeable"; importing the colloquial senses into
+    formal evaluation collapses the two-step structure of deductive assessment that
+    the distinction was introduced to enforce.

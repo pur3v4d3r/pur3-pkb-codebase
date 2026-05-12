@@ -1,0 +1,30 @@
+concept: Restraint Bias
+domain: cognitive-science
+secondary_domains:
+- self-control-research
+- behavioural-economics
+aliases:
+- self-control bias
+broader:
+- reasoning biases
+- prediction biases
+related:
+- optimism bias
+- impact bias
+confidence: high
+callouts:
+- type: definition
+  title: Restraint Bias
+  body: Restraint Bias is the tendency to overestimate one's ability to control impulsive
+    urges in the future, leading to under-preparation for situations in which those
+    urges will arise and over-exposure to tempting environments.
+- type: key-claim
+  title: Key claim about Restraint Bias
+  body: Restraint Bias predicts that the people most confident in their self-control
+    are systematically the most likely to fail at it, because that confidence licences
+    the exposures that subsequently overwhelm whatever actual self-control they possess.
+- type: warning
+  title: Common pitfall regarding Restraint Bias
+  body: Restraint Bias is sometimes dismissed as a minor self-knowledge failure, but
+    it has documented effects on addiction relapse, dietary outcomes, and financial
+    behaviour, where the cost of overestimating future restraint is concrete and recurrent.

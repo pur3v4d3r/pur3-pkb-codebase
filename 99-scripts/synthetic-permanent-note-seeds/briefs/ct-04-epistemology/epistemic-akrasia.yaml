@@ -1,0 +1,31 @@
+concept: Epistemic Akrasia
+domain: epistemology
+secondary_domains:
+- philosophy-of-mind
+- virtue-epistemology
+aliases:
+- epistemic weakness of will
+- doxastic akrasia
+broader:
+- irrationality
+related:
+- epistemic responsibility
+- epistemic humility
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Akrasia
+  body: Epistemic Akrasia is the condition of believing that one ought, by one's own
+    epistemic standards, to believe that p, and yet failing to believe p (or believing
+    not-p), in apparent violation of one's higher-order judgement.
+- type: key-claim
+  title: Key claim about Epistemic Akrasia
+  body: Epistemic Akrasia is a structural challenge to the assumption that belief
+    tracks reflective judgement; its existence shows that first-order belief and second-order
+    assessment can come apart, even in the absence of any error at either level.
+- type: warning
+  title: Common pitfall regarding Epistemic Akrasia
+  body: Epistemic Akrasia is sometimes denied on the grounds that the akratic state
+    is incoherent and therefore impossible; this is a substantive philosophical position,
+    not an obvious truth, and dismissing the phenomenon a priori cuts off empirical
+    and introspective evidence that the state actually occurs.

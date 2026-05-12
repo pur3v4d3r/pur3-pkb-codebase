@@ -1,0 +1,54 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "ct-08-ct-frameworks",
+    "date": "2026-05-12",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-12-ct-08-ct-frameworks.md",
+    "notes": "Five named frameworks and instruments for conceptualising, teaching, and\nmeasuring critical thinking. Foundational reference notes for the\ncritical-thinking-pedagogy and assessment cluster."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/ct-08-ct-frameworks",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-12-ct-08-ct-frameworks"
+  },
+  "counts": {
+    "parsed": 5,
+    "accepted": 5,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Facione Critical Thinking Model",
+      "kebab": "facione-critical-thinking-model",
+      "brief_path": "briefs/ct-08-ct-frameworks/facione-critical-thinking-model.yaml",
+      "expected_seed_filename": "facione-critical-thinking-model-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Ennis Critical Thinking Model",
+      "kebab": "ennis-critical-thinking-model",
+      "brief_path": "briefs/ct-08-ct-frameworks/ennis-critical-thinking-model.yaml",
+      "expected_seed_filename": "ennis-critical-thinking-model-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Critical Thinking Dispositions Taxonomy",
+      "kebab": "critical-thinking-dispositions-taxonomy",
+      "brief_path": "briefs/ct-08-ct-frameworks/critical-thinking-dispositions-taxonomy.yaml",
+      "expected_seed_filename": "critical-thinking-dispositions-taxonomy-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Watson Glaser Model",
+      "kebab": "watson-glaser-model",
+      "brief_path": "briefs/ct-08-ct-frameworks/watson-glaser-model.yaml",
+      "expected_seed_filename": "watson-glaser-model-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Argument Reconstruction",
+      "kebab": "argument-reconstruction",
+      "brief_path": "briefs/ct-08-ct-frameworks/argument-reconstruction.yaml",
+      "expected_seed_filename": "argument-reconstruction-synthetic-seed-2026-05-12_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

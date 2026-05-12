@@ -1,0 +1,35 @@
+concept: Optimism Bias
+domain: cognitive-science
+secondary_domains:
+- decision-making
+- behavioural-economics
+- planning
+aliases:
+- unrealistic optimism
+- valence effect
+broader:
+- reasoning biases
+- prediction biases
+related:
+- impact bias
+- neglect of probability
+- restraint bias
+confidence: high
+callouts:
+- type: definition
+  title: Optimism Bias
+  body: Optimism Bias is the tendency to overestimate the probability of positive
+    future events and to underestimate the probability of negative future events,
+    particularly as they apply to oneself relative to others.
+- type: key-claim
+  title: Key claim about Optimism Bias
+  body: Optimism Bias is robust across cultures and domains, persisting even when
+    people are given accurate base-rate information; it appears to function as a default
+    setting rather than as a reasoned conclusion that better information could simply
+    correct.
+- type: warning
+  title: Common pitfall regarding Optimism Bias
+  body: Optimism Bias has documented benefits for motivation and resilience, so the
+    corrective is not pessimism but calibration; the goal is to bring probability
+    judgements closer to actual base rates, not to substitute one directional bias
+    for its opposite.

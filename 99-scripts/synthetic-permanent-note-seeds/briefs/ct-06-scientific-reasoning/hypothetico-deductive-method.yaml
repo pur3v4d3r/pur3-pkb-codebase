@@ -1,0 +1,33 @@
+concept: Hypothetico Deductive Method
+domain: philosophy-of-science
+secondary_domains:
+- philosophy-of-science
+- methodology
+aliases:
+- hypothetico-deductive method
+- H-D method
+broader:
+- scientific methodology
+related:
+- falsifiability
+- null hypothesis
+- inductive confirmation
+confidence: high
+callouts:
+- type: definition
+  title: Hypothetico Deductive Method
+  body: The Hypothetico Deductive Method is the procedure by which a scientific hypothesis
+    is tested by deducing observational predictions from it (often together with auxiliary
+    assumptions) and comparing those predictions against empirical results.
+- type: key-claim
+  title: Key claim about Hypothetico Deductive Method
+  body: The Hypothetico Deductive Method is the standard reconstruction of how testing
+    actually works in science; it captures the essential point that confirmation and
+    disconfirmation operate through entailed consequences rather than through direct
+    comparison of theory to nature.
+- type: warning
+  title: Common pitfall regarding Hypothetico Deductive Method
+  body: 'The Hypothetico Deductive Method is famously vulnerable to the Duhem-Quine
+    problem: predictions are derived from the hypothesis only in conjunction with
+    auxiliary assumptions, so failure of a prediction does not unambiguously locate
+    the source of error within the hypothesis under test.'

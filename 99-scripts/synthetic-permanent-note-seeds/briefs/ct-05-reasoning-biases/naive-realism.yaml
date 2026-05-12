@@ -1,0 +1,32 @@
+concept: Naive Realism
+domain: cognitive-science
+secondary_domains:
+- social-psychology
+- philosophy-of-perception
+aliases:
+- naïve realism (psychological sense)
+broader:
+- reasoning biases
+- perspective-taking failures
+related:
+- intellectual empathy
+- curse of knowledge
+- illusion of transparency
+confidence: high
+callouts:
+- type: definition
+  title: Naive Realism
+  body: Naive Realism (in the psychological sense) is the tendency to believe that
+    one perceives the world objectively, that those who agree share that objective
+    perception, and that those who disagree must be biased, ill-informed, or irrational.
+- type: key-claim
+  title: Key claim about Naive Realism
+  body: 'Naive Realism produces a recursive failure of perspective-taking: disagreement
+    is automatically explained by the other party''s deviation from "what is obvious,"
+    which forecloses the possibility that one''s own view is itself shaped by perspective.'
+- type: warning
+  title: Common pitfall regarding Naive Realism
+  body: Naive Realism (psychological) should not be conflated with naive realism in
+    philosophy of perception, which is a substantive theory about direct perception
+    of mind-independent objects; the psychological term names a bias, not a metaphysical
+    position.

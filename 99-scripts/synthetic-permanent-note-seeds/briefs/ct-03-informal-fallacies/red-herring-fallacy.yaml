@@ -1,0 +1,34 @@
+concept: Red Herring Fallacy
+domain: critical-thinking
+secondary_domains:
+- rhetoric
+- dialectic
+aliases:
+- red herring
+- irrelevant conclusion
+- ignoratio elenchi (related)
+broader:
+- informal fallacies
+- relevance fallacies
+related:
+- appeal to emotion
+- motte and bailey fallacy
+confidence: high
+callouts:
+- type: definition
+  title: Red Herring Fallacy
+  body: The Red Herring Fallacy is the rhetorical move of introducing an irrelevant
+    topic or consideration in order to divert attention from the original issue and
+    to substitute a different issue that is easier to discuss or win.
+- type: key-claim
+  title: Key claim about Red Herring Fallacy
+  body: The Red Herring Fallacy works by exploiting the conversational tendency to
+    follow whatever new content is introduced; the fallacy is identified not by content
+    but by the relevance gap between the diversion and the original question under
+    dispute.
+- type: warning
+  title: Common pitfall regarding Red Herring Fallacy
+  body: The Red Herring Fallacy is not committed by every change of subject; legitimate
+    reframings, clarifications, or preliminary issues may need to be addressed first,
+    and the fallacy applies specifically when the diversion serves to evade rather
+    than to advance the original question.

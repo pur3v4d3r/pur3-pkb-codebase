@@ -1,0 +1,31 @@
+concept: Analytic Synthetic Distinction
+domain: epistemology
+secondary_domains:
+- philosophy-of-language
+- history-of-philosophy
+aliases:
+- analytic-synthetic distinction
+broader:
+- classification of statements
+related:
+- a posteriori knowledge
+- propositional knowledge
+confidence: high
+callouts:
+- type: definition
+  title: Analytic Synthetic Distinction
+  body: The Analytic Synthetic Distinction divides statements into those whose truth
+    depends solely on the meanings of their constituent terms (analytic) and those
+    whose truth depends on how the world is in addition to those meanings (synthetic).
+- type: key-claim
+  title: Key claim about Analytic Synthetic Distinction
+  body: The Analytic Synthetic Distinction structured much of early twentieth-century
+    philosophy by appearing to provide a sharp criterion for separating definitional
+    from empirical claims; subsequent work, most famously Quine's, challenged whether
+    the distinction can be drawn cleanly at all.
+- type: warning
+  title: Common pitfall regarding Analytic Synthetic Distinction
+  body: The Analytic Synthetic Distinction should not be assumed to be uncontroversial;
+    it has been defended, attacked, and reformulated repeatedly, and treating it as
+    a neutral classification scheme obscures more than a century of dispute over its
+    viability.

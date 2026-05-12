@@ -1,0 +1,33 @@
+concept: Epistemic Regress
+domain: epistemology
+secondary_domains:
+- philosophy-of-justification
+- meta-epistemology
+aliases:
+- regress of justification
+- justificatory regress
+broader:
+- foundations of justification
+related:
+- agrippa trilemma
+- epistemic closure
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Regress
+  body: The Epistemic Regress is the problem that every justified belief seems to
+    require justification by some further belief, which itself requires justification,
+    and so on, raising the question of how the chain of reasons can ever terminate
+    or be made non-vicious.
+- type: key-claim
+  title: Key claim about Epistemic Regress
+  body: The Epistemic Regress is the structural pressure point that organises the
+    major theories of justificatory architecture; foundationalism, coherentism, and
+    infinitism are best understood as competing ways of refusing one or another of
+    the regress's apparent options.
+- type: warning
+  title: Common pitfall regarding Epistemic Regress
+  body: The Epistemic Regress is sometimes presented as a sceptical argument, but
+    the regress itself is neutral about scepticism; what determines the sceptical
+    upshot is the further claim that none of the available responses to the regress
+    succeeds, which is a separate and contestable thesis.

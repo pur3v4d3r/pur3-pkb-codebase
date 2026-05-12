@@ -1,0 +1,32 @@
+concept: Epistemic Relativism
+domain: epistemology
+secondary_domains:
+- meta-epistemology
+- sociology-of-knowledge
+aliases:
+- relativism about knowledge
+- framework relativism
+broader:
+- meta-epistemological positions
+related:
+- contextualism in epistemology
+- agrippa trilemma
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Relativism
+  body: Epistemic Relativism is the view that the standards by which beliefs are evaluated
+    as justified or known are themselves relative to a framework, culture, paradigm,
+    or perspective, with no framework-independent standpoint from which to adjudicate
+    between them.
+- type: key-claim
+  title: Key claim about Epistemic Relativism
+  body: Epistemic Relativism distinguishes itself from mere disagreement by denying
+    that there is a neutral epistemic court of appeal; it therefore implicates not
+    only what is known but the very standards by which knowing is assessed.
+- type: warning
+  title: Common pitfall regarding Epistemic Relativism
+  body: Epistemic Relativism faces a well-known self-application problem; the thesis
+    itself appears to be either framework-relative (in which case it has no claim
+    on those who reject the framework) or framework-independent (in which case it
+    refutes itself), and any defensible version must address this directly.

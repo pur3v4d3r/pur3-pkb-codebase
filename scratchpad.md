@@ -694,7 +694,7 @@ I need you to revciew these two files containing Dataview and DataviewJS queries
 
 
 
-
+# Obsidian Theme Colors
 
 I have a script that takes an obsidian theme and creates color variations of that theme.
 Im curious how you could imporve upon it or start with a new one that can do the same thing but with more features and better results.
@@ -1274,26 +1274,7 @@ snaguine is probly my faavorite of the two.
 
 
 
-# Enhancing Existing Permanent Notes with LLM
 
-I have a pipeline that creates seeds for permenant notes and then uses a local LLM to turn thos JSON seeds into full permanent notes. I want to create a new section for the pipeline that, takes a list of permanent notes that have already been created and then goes to each of those notes and add to them, enhances the details they contain.
-- The goal is to have a new section of the pipeline that can take existing permanent notes and add more details to them, making them richer and more informative. This could involve adding more content to the body of the note, including additional sections or explanations, or enhancing the existing content with more examples, references, or insights. The idea is to use the local LLM to analyze the existing permanent notes and then generate additional content that complements and expands upon what is already there, ultimately creating more comprehensive and valuable permanent notes for my PKB.
-- Model -> qwen3:30b
-
-
-
-
-# Key Locations for Pipeline Reference
-Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
-
-`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> V3 pipeline
-`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> V4 pipeline
-`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v5` -> V5 pipeline
-`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
-
-`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
-
-Please feel free to ask any question you have.
 
 
 
@@ -1341,6 +1322,15 @@ Executiv Functio -> Thee factors
 
 
 
+# Key Locations for Pipeline Reference
+Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v3` -> V3 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v4` -> V4 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v5` -> V5 pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
+
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
 
 
 
@@ -1365,6 +1355,26 @@ Executiv Functio -> Thee factors
 
 
 
+# V6 Pipeline - Seeding Permanent Notes
+
+I have a pipeline for creating permanent notes for my Obsidian based PKB. The pipeline is a V6.
+What I need you todo is to review the pipeline and accompyning files, so you understand how everything works.
+- You will find all the information you need in side the pipleine folders.
+
+## Key Locations for Pipeline Reference
+
+Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6\README.md` -> Pipeline V6 README
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
+
+## TASK
+1. Review the V6 pipeline and accompanying files to understand how everything works.
+2. Create the seeds for the permanent note pipeline to use to create the corresponding permanent notes.
+3. After you have created the seeds for the permanent notes, go ahead and run the pipeline on the seeds you just created.
+4. Please feel free to ask any question you have.
+
+### Notes to create Seeds for:
 
 
 
@@ -1374,13 +1384,25 @@ Executiv Functio -> Thee factors
 
 
 
+# V6 Pipeline - Enhancing Existing Permanent Notes
 
+I have a pipeline for creating permanent notes for my Obsidian based PKB. The pipeline is a V6.
+What I need you todo is to review the pipeline and accompyning files, so you understand how everything works.
+- You will find all the information you need in side the pipleine folders.
 
+## Key Locations for Pipeline Reference
 
+Here are the main key locations for you to learn how the pipline works, the ins and outs, and how it runs.
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6` -> V6 Pipeline
+`D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building-v6\README.md` -> Pipeline V6 README
+`D:\10_pur3v4d3r's-vault\999-report-organizing\_permanent-notes\v6-llm-elaborated` -> Home of current permanent notes.
 
+## TASK
+1. Review the V6 pipeline and accompanying files to understand how everything works.
+2. Run the Enhancement Pipeline on permanent notes that have not been run through yet.
+3. Please feel free to ask any question you have.
 
-
-
+Please feel free to ask any question you have.
 
 
 

@@ -1,0 +1,32 @@
+concept: Third Person Effect
+domain: cognitive-science
+secondary_domains:
+- media-studies
+- social-psychology
+aliases:
+- third-person effect
+- third-person perception
+broader:
+- reasoning biases
+- perspective-taking failures
+related:
+- naive realism
+- myside bias
+confidence: high
+callouts:
+- type: definition
+  title: Third Person Effect
+  body: The Third Person Effect is the tendency for people to believe that media messages
+    — advertising, propaganda, persuasion — affect others more strongly than they
+    affect themselves.
+- type: key-claim
+  title: Key claim about Third Person Effect
+  body: 'The Third Person Effect produces a systematically distorted policy intuition:
+    because people see themselves as relatively immune to influence, they support
+    restrictions on media on others'' behalf while denying that the same media is
+    shaping their own beliefs.'
+- type: warning
+  title: Common pitfall regarding Third Person Effect
+  body: The Third Person Effect is not invariant; it weakens or reverses for content
+    one approves of (a "first-person effect"), so the bias is not about media-influence
+    in general but about influence by content one regards as bad or low-status.

@@ -1,0 +1,36 @@
+concept: Truth Aptness
+domain: philosophy
+secondary_domains:
+- philosophy-of-language
+- metaethics
+- formal-semantics
+aliases:
+- truth-aptness
+- truth-evaluability
+broader:
+- properties of statements
+related:
+- coherence theory of truth
+- pragmatic theory of truth
+- deflationary theory of truth
+- epistemic theory of truth
+confidence: high
+callouts:
+- type: definition
+  title: Truth Aptness
+  body: Truth Aptness is the property of being capable of being true or false — of
+    being the kind of content to which truth-values apply at all — as distinct from
+    contents (commands, expressions of attitude, performatives) that are not candidates
+    for truth-evaluation.
+- type: key-claim
+  title: Key claim about Truth Aptness
+  body: Truth Aptness is the prior question that has to be answered before any theory
+    of truth can apply to a given discourse; whether moral, aesthetic, or modal statements
+    are truth-apt is itself a substantive issue, and competing meta-ethical and meta-aesthetic
+    positions are largely positions on this question.
+- type: warning
+  title: Common pitfall regarding Truth Aptness
+  body: Truth Aptness is often presupposed without argument in debates about realism
+    and anti-realism; treating moral or modal claims as obviously truth-apt (or obviously
+    not) skips the very question that the surface grammar of those discourses leaves
+    open and that subsequent metaphysical theorising depends on.

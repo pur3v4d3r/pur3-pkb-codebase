@@ -1,0 +1,32 @@
+concept: Belief Bias
+domain: cognitive-science
+secondary_domains:
+- reasoning-research
+- cognitive-psychology
+aliases:
+- conclusion bias
+broader:
+- reasoning biases
+- motivated reasoning
+related:
+- myside bias
+- intellectual integrity
+confidence: high
+callouts:
+- type: definition
+  title: Belief Bias
+  body: Belief Bias is the tendency to evaluate the logical strength of an argument
+    on the basis of whether one finds its conclusion plausible, rather than on the
+    basis of whether the inference from premises to conclusion is actually valid.
+- type: key-claim
+  title: Key claim about Belief Bias
+  body: Belief Bias shows that everyday reasoners do not cleanly separate validity
+    assessment from belief assessment; conclusions that match prior beliefs are accepted
+    as well-argued, while conclusions that conflict are scrutinised for inferential
+    flaws regardless of actual structure.
+- type: warning
+  title: Common pitfall regarding Belief Bias
+  body: Belief Bias is not eliminated by knowing about it; the effect persists in
+    trained reasoners and intensifies under cognitive load, so the appropriate response
+    is procedural (e.g., evaluating arguments with conclusions hidden) rather than
+    relying on willpower.

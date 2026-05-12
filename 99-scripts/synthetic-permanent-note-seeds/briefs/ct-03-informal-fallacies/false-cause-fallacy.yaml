@@ -1,0 +1,34 @@
+concept: False Cause Fallacy
+domain: critical-thinking
+secondary_domains:
+- causal-reasoning
+- scientific-reasoning
+aliases:
+- non causa pro causa
+- post hoc ergo propter hoc
+- causal fallacy
+broader:
+- informal fallacies
+- causal fallacies
+related:
+- hasty generalization
+- neglect of probability
+confidence: high
+callouts:
+- type: definition
+  title: False Cause Fallacy
+  body: The False Cause Fallacy is the error of inferring that one event caused another
+    on the basis of insufficient evidence — typically mere temporal succession, correlation,
+    or salience — rather than a genuine causal connection.
+- type: key-claim
+  title: Key claim about False Cause Fallacy
+  body: The False Cause Fallacy is structurally common because the human mind treats
+    salient temporal succession as causal evidence by default; the fallacy is the
+    failure to discharge that default with the kind of comparative reasoning that
+    actually distinguishes cause from coincidence.
+- type: warning
+  title: Common pitfall regarding False Cause Fallacy
+  body: The False Cause Fallacy is not the claim that correlation never indicates
+    causation; correlations frequently are causal evidence, and treating "correlation
+    is not causation" as a refutation rather than as a prompt to investigate is itself
+    a misuse of the fallacy label.

@@ -1,0 +1,32 @@
+concept: Nirvana Fallacy
+domain: critical-thinking
+secondary_domains:
+- decision-making
+- public-policy
+- comparative-evaluation
+aliases:
+- perfect solution fallacy
+- ideal-vs-actual fallacy
+broader:
+- informal fallacies
+- comparison fallacies
+related:
+- neglect of probability
+- false cause fallacy
+confidence: high
+callouts:
+- type: definition
+  title: Nirvana Fallacy
+  body: The Nirvana Fallacy is the error of rejecting a proposal because it falls
+    short of an idealised, unrealisable alternative, rather than comparing it against
+    the realistic alternatives actually available.
+- type: key-claim
+  title: Key claim about Nirvana Fallacy
+  body: The Nirvana Fallacy substitutes an unattainable benchmark for the relevant
+    comparison set, which guarantees that any feasible option will fail; honest evaluation
+    requires comparing options to other available options, not to imagined perfection.
+- type: warning
+  title: Common pitfall regarding Nirvana Fallacy
+  body: The Nirvana Fallacy is not the same as holding high standards; specifying
+    a stretch goal is legitimate, and the fallacy occurs only when the unattainable
+    standard is used as a basis for rejecting otherwise dominant feasible options.

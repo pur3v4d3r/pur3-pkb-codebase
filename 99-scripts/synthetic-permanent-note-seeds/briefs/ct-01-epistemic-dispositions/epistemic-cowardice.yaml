@@ -1,0 +1,30 @@
+concept: Epistemic Cowardice
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- vice-epistemology
+aliases:
+- intellectual cowardice
+broader:
+- epistemic vices
+related:
+- intellectual courage
+- fair mindedness
+- intellectual integrity
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Cowardice
+  body: Epistemic Cowardice is the vice of withholding or softening one's well-supported
+    beliefs in order to avoid social, professional, or personal cost, even when the
+    situation calls for sincere assertion.
+- type: key-claim
+  title: Key claim about Epistemic Cowardice
+  body: Epistemic Cowardice is not a failure of belief but a failure of avowal; the
+    cowardly thinker may know what is true and still allow audience pressure to determine
+    what is said, which corrupts the public record without any underlying confusion.
+- type: warning
+  title: Common pitfall regarding Epistemic Cowardice
+  body: Epistemic Cowardice should not be diagnosed merely from silence; legitimate
+    reasons to withhold testimony — incomplete evidence, inappropriate venue, risk
+    to third parties — must be ruled out before attributing the vice.

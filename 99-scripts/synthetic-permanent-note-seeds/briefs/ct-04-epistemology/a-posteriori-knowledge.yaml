@@ -1,0 +1,32 @@
+concept: A Posteriori Knowledge
+domain: epistemology
+secondary_domains:
+- philosophy-of-mind
+- modal-epistemology
+aliases:
+- empirical knowledge
+- experience-dependent knowledge
+broader:
+- kinds of knowledge
+related:
+- analytic synthetic distinction
+- propositional knowledge
+confidence: high
+callouts:
+- type: definition
+  title: A Posteriori Knowledge
+  body: A Posteriori Knowledge is knowledge whose justification depends on experience
+    — observation, perception, testimony, or empirical inference — as distinct from
+    knowledge that can be justified independently of experience.
+- type: key-claim
+  title: Key claim about A Posteriori Knowledge
+  body: A Posteriori Knowledge marks the dependence relation rather than the temporal
+    sequence; a belief counts as a posteriori when its justification requires experiential
+    input, even if the believer happens not to have consciously consulted experience
+    in arriving at it.
+- type: warning
+  title: Common pitfall regarding A Posteriori Knowledge
+  body: A Posteriori Knowledge is sometimes equated with empirical claims about the
+    external world only, but a posteriori justification can also support claims about
+    one's own mental states, mathematical regularities discovered by computation,
+    and other content not normally classified as "external" empirical fact.

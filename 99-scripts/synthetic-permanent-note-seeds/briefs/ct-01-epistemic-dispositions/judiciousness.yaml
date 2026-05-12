@@ -1,0 +1,32 @@
+concept: Judiciousness
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- decision-making
+aliases:
+- practical wisdom in inquiry
+- judicious disposition
+broader:
+- intellectual virtues
+related:
+- fair mindedness
+- intellectual humility
+- systematicity as disposition
+confidence: high
+callouts:
+- type: definition
+  title: Judiciousness
+  body: Judiciousness is the disposition to render measured, well-proportioned judgements
+    that take into account the full range of relevant considerations rather than overweighting
+    any single one.
+- type: key-claim
+  title: Key claim about Judiciousness
+  body: Judiciousness is the trait that prevents virtues from becoming vices in isolation;
+    it is what makes a thinker know when to persevere versus when to update, when
+    to defer versus when to dissent, when to scrutinise versus when to act.
+- type: warning
+  title: Common pitfall regarding Judiciousness
+  body: Judiciousness is often confused with risk-aversion or compromise; the disposition
+    can deliver decisive and even radical verdicts when the considerations actually
+    point that way, and treating it as synonymous with moderation is itself a failure
+    of judgement.

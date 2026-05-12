@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "ct-05-reasoning-biases",
+    "date": "2026-05-12",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-12-ct-05-reasoning-biases.md",
+    "notes": "Ten cognitive and motivational biases that systematically distort reasoning.\nDrawn from the heuristics-and-biases literature and motivated-cognition\nresearch. Companion to the epistemic-dispositions and informal-fallacies sets."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/ct-05-reasoning-biases",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-12-ct-05-reasoning-biases"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Belief Bias",
+      "kebab": "belief-bias",
+      "brief_path": "briefs/ct-05-reasoning-biases/belief-bias.yaml",
+      "expected_seed_filename": "belief-bias-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Myside Bias",
+      "kebab": "myside-bias",
+      "brief_path": "briefs/ct-05-reasoning-biases/myside-bias.yaml",
+      "expected_seed_filename": "myside-bias-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Naive Realism",
+      "kebab": "naive-realism",
+      "brief_path": "briefs/ct-05-reasoning-biases/naive-realism.yaml",
+      "expected_seed_filename": "naive-realism-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Curse Of Knowledge",
+      "kebab": "curse-of-knowledge",
+      "brief_path": "briefs/ct-05-reasoning-biases/curse-of-knowledge.yaml",
+      "expected_seed_filename": "curse-of-knowledge-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Illusion Of Transparency",
+      "kebab": "illusion-of-transparency",
+      "brief_path": "briefs/ct-05-reasoning-biases/illusion-of-transparency.yaml",
+      "expected_seed_filename": "illusion-of-transparency-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Optimism Bias",
+      "kebab": "optimism-bias",
+      "brief_path": "briefs/ct-05-reasoning-biases/optimism-bias.yaml",
+      "expected_seed_filename": "optimism-bias-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Third Person Effect",
+      "kebab": "third-person-effect",
+      "brief_path": "briefs/ct-05-reasoning-biases/third-person-effect.yaml",
+      "expected_seed_filename": "third-person-effect-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Restraint Bias",
+      "kebab": "restraint-bias",
+      "brief_path": "briefs/ct-05-reasoning-biases/restraint-bias.yaml",
+      "expected_seed_filename": "restraint-bias-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Impact Bias",
+      "kebab": "impact-bias",
+      "brief_path": "briefs/ct-05-reasoning-biases/impact-bias.yaml",
+      "expected_seed_filename": "impact-bias-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Neglect Of Probability",
+      "kebab": "neglect-of-probability",
+      "brief_path": "briefs/ct-05-reasoning-biases/neglect-of-probability.yaml",
+      "expected_seed_filename": "neglect-of-probability-synthetic-seed-2026-05-12_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

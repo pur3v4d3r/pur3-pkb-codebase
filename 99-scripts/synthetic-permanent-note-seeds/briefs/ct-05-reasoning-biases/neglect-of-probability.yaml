@@ -1,0 +1,34 @@
+concept: Neglect Of Probability
+domain: cognitive-science
+secondary_domains:
+- decision-making
+- behavioural-economics
+- risk-perception
+aliases:
+- probability neglect
+broader:
+- reasoning biases
+- statistical reasoning failures
+related:
+- hasty generalization
+- false cause fallacy
+- optimism bias
+confidence: high
+callouts:
+- type: definition
+  title: Neglect Of Probability
+  body: Neglect Of Probability is the tendency, when evaluating risky outcomes, to
+    focus on the salience or affective vividness of an outcome while largely ignoring
+    its actual probability.
+- type: key-claim
+  title: Key claim about Neglect Of Probability
+  body: Neglect Of Probability explains why public risk perception is poorly correlated
+    with statistical risk; vivid, emotionally charged outcomes (terrorism, plane crashes,
+    child abductions) command attention disproportionate to their base rates, while
+    abstract high-probability risks recede.
+- type: warning
+  title: Common pitfall regarding Neglect Of Probability
+  body: Neglect Of Probability is not uniformly irrational; for outcomes of catastrophic,
+    irreversible severity, ignoring probability differences below a threshold can
+    be a defensible decision rule, so the bias label should be applied to cases where
+    probability genuinely should have driven the decision.

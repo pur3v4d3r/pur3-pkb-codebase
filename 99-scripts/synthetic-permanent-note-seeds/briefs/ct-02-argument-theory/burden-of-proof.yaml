@@ -1,0 +1,33 @@
+concept: Burden Of Proof
+domain: critical-thinking
+secondary_domains:
+- logic
+- rhetoric
+- epistemology
+aliases:
+- onus probandi
+broader:
+- dialectical norms
+related:
+- appeal to ignorance
+- premise acceptability
+- defeater
+confidence: high
+callouts:
+- type: definition
+  title: Burden Of Proof
+  body: Burden Of Proof is the dialectical obligation to provide reasons for a contested
+    claim; it specifies which party in a disagreement must produce evidence or argument
+    before the other party is required to respond.
+- type: key-claim
+  title: Key claim about Burden Of Proof
+  body: 'Burden Of Proof is asymmetric and context-sensitive: the party making a positive
+    existence claim, the party seeking to overturn a default position, and the party
+    invoking an unusual mechanism each typically bear it, which is why the question
+    "who has the burden here?" usually does substantive work in resolving disputes.'
+- type: warning
+  title: Common pitfall regarding Burden Of Proof
+  body: Burden Of Proof is frequently weaponised as a rhetorical move to relieve oneself
+    of any need to argue; declaring that "the burden is on you" without justifying
+    the assignment is a standard form of evasive reasoning that masquerades as procedural
+    fairness.

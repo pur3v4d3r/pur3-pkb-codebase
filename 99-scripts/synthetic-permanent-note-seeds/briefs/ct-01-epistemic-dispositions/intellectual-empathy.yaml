@@ -1,0 +1,32 @@
+concept: Intellectual Empathy
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- communication
+aliases:
+- epistemic empathy
+- perspective-taking disposition
+broader:
+- intellectual virtues
+related:
+- fair mindedness
+- steelmanning
+- open mindedness
+confidence: high
+callouts:
+- type: definition
+  title: Intellectual Empathy
+  body: Intellectual Empathy is the disposition to reconstruct another person's reasoning
+    from the inside — recovering the premises, evidence, and inferential moves that
+    make their conclusion appear rational to them — before evaluating or responding.
+- type: key-claim
+  title: Key claim about Intellectual Empathy
+  body: Intellectual Empathy is a precondition for accurate disagreement; without
+    it, a critic typically attacks a position the holder does not actually hold, which
+    guarantees that the exchange will neither persuade nor inform.
+- type: warning
+  title: Common pitfall regarding Intellectual Empathy
+  body: Intellectual Empathy does not require agreement or moral endorsement; the
+    disposition is descriptive reconstruction, and conflating it with sympathy leads
+    thinkers either to refuse the exercise on ethical grounds or to slide from understanding
+    into capitulation.

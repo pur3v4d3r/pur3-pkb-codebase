@@ -1,0 +1,84 @@
+{
+  "manifest_version": "1.0.0",
+  "expand_term_list_version": "1.0.0",
+  "batch": {
+    "name": "ct-06-scientific-reasoning",
+    "date": "2026-05-12",
+    "source_term_list": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/term-lists/2026-05-12-ct-06-scientific-reasoning.md",
+    "notes": "Ten concepts foundational to scientific reasoning, the demarcation of science,\nhypothesis testing, and the evaluation of theories. Companion to the\nepistemology and formal-logic batches."
+  },
+  "paths": {
+    "briefs_dir": "D:/10_pur3v4d3r's-vault/99-scripts/synthetic-permanent-note-seeds/briefs/ct-06-scientific-reasoning",
+    "seeds_dir": "D:/10_pur3v4d3r's-vault/999-report-organizing/_extractor-output/_synthetic-seeds/2026-05-12-ct-06-scientific-reasoning"
+  },
+  "counts": {
+    "parsed": 10,
+    "accepted": 10,
+    "skipped": 0,
+    "warnings": 0
+  },
+  "entries": [
+    {
+      "term": "Falsifiability",
+      "kebab": "falsifiability",
+      "brief_path": "briefs/ct-06-scientific-reasoning/falsifiability.yaml",
+      "expected_seed_filename": "falsifiability-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Hypothetico Deductive Method",
+      "kebab": "hypothetico-deductive-method",
+      "brief_path": "briefs/ct-06-scientific-reasoning/hypothetico-deductive-method.yaml",
+      "expected_seed_filename": "hypothetico-deductive-method-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Demarcation Problem",
+      "kebab": "demarcation-problem",
+      "brief_path": "briefs/ct-06-scientific-reasoning/demarcation-problem.yaml",
+      "expected_seed_filename": "demarcation-problem-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Paradigm Shift",
+      "kebab": "paradigm-shift",
+      "brief_path": "briefs/ct-06-scientific-reasoning/paradigm-shift.yaml",
+      "expected_seed_filename": "paradigm-shift-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Pseudo Science",
+      "kebab": "pseudo-science",
+      "brief_path": "briefs/ct-06-scientific-reasoning/pseudo-science.yaml",
+      "expected_seed_filename": "pseudo-science-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Null Hypothesis",
+      "kebab": "null-hypothesis",
+      "brief_path": "briefs/ct-06-scientific-reasoning/null-hypothesis.yaml",
+      "expected_seed_filename": "null-hypothesis-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Inductive Confirmation",
+      "kebab": "inductive-confirmation",
+      "brief_path": "briefs/ct-06-scientific-reasoning/inductive-confirmation.yaml",
+      "expected_seed_filename": "inductive-confirmation-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Operationalization",
+      "kebab": "operationalization",
+      "brief_path": "briefs/ct-06-scientific-reasoning/operationalization.yaml",
+      "expected_seed_filename": "operationalization-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Replication And Reproducibility",
+      "kebab": "replication-and-reproducibility",
+      "brief_path": "briefs/ct-06-scientific-reasoning/replication-and-reproducibility.yaml",
+      "expected_seed_filename": "replication-and-reproducibility-synthetic-seed-2026-05-12_extracted.json"
+    },
+    {
+      "term": "Theoretical Virtues",
+      "kebab": "theoretical-virtues",
+      "brief_path": "briefs/ct-06-scientific-reasoning/theoretical-virtues.yaml",
+      "expected_seed_filename": "theoretical-virtues-synthetic-seed-2026-05-12_extracted.json"
+    }
+  ],
+  "skipped": [],
+  "warnings": []
+}

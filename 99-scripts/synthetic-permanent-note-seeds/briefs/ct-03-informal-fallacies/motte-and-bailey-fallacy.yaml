@@ -1,0 +1,35 @@
+concept: Motte And Bailey Fallacy
+domain: critical-thinking
+secondary_domains:
+- rhetoric
+- dialectic
+- social-epistemology
+aliases:
+- motte-and-bailey doctrine
+broader:
+- informal fallacies
+- dialectical fallacies
+related:
+- equivocation fallacy
+- no true scotsman fallacy
+- steelmanning
+confidence: high
+callouts:
+- type: definition
+  title: Motte And Bailey Fallacy
+  body: The Motte And Bailey Fallacy occurs when an arguer advances an ambitious or
+    controversial claim (the bailey), and when challenged retreats to a much weaker,
+    easily defended claim (the motte), then reasserts the original once the challenge
+    has subsided.
+- type: key-claim
+  title: Key claim about Motte And Bailey Fallacy
+  body: The Motte And Bailey Fallacy exploits the asymmetry between two claims that
+    share vocabulary but differ sharply in content; the move is fallacious because
+    the defender treats successful defence of the weak claim as if it had vindicated
+    the strong one.
+- type: warning
+  title: Common pitfall regarding Motte And Bailey Fallacy
+  body: The Motte And Bailey Fallacy is sometimes attributed wherever a position has
+    both strong and weak versions, but the fallacy specifically requires the strategic
+    shift between them; honest acknowledgement of a weak fallback alongside a stronger
+    preferred claim is not motte-and-bailey reasoning.

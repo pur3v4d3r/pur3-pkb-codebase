@@ -1,0 +1,31 @@
+concept: Epistemic Responsibility
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- ethics
+aliases:
+- doxastic responsibility
+- epistemic accountability
+broader:
+- intellectual virtues
+related:
+- intellectual conscientiousness
+- intellectual autonomy
+- intellectual integrity
+confidence: high
+callouts:
+- type: definition
+  title: Epistemic Responsibility
+  body: Epistemic Responsibility is the disposition — and the corresponding normative
+    requirement — to manage one's belief-formation processes with the kind of care
+    that one's epistemic situation and social role demand.
+- type: key-claim
+  title: Key claim about Epistemic Responsibility
+  body: Epistemic Responsibility holds that thinkers can be praised or blamed not
+    only for what they believe but for how they came to believe it; this extends accountability
+    from the content of belief to the conduct of inquiry.
+- type: warning
+  title: Common pitfall regarding Epistemic Responsibility
+  body: Epistemic Responsibility does not entail voluntarism about belief; the disposition
+    concerns the procedures one can control — evidence-gathering, attention, deliberation
+    — not a pretence that one can simply choose what to believe.

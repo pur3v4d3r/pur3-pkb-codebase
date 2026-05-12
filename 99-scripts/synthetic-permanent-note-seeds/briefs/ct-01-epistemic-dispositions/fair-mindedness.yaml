@@ -1,0 +1,31 @@
+concept: Fair Mindedness
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- ethics
+aliases:
+- epistemic fairness
+- fair-mindedness
+broader:
+- intellectual virtues
+related:
+- intellectual empathy
+- open mindedness
+- intellectual integrity
+confidence: high
+callouts:
+- type: definition
+  title: Fair Mindedness
+  body: Fair Mindedness is the disposition to evaluate all viewpoints by the same
+    standards regardless of whether they are one's own, those of an ally, or those
+    of an opponent, treating the strength of an argument as independent of its source.
+- type: key-claim
+  title: Key claim about Fair Mindedness
+  body: Fair Mindedness operationalises impartiality as a procedural commitment rather
+    than a feeling; it requires that the criteria one applies to weak versions of
+    opposing views be the same criteria one applies to weak versions of one's own.
+- type: warning
+  title: Common pitfall regarding Fair Mindedness
+  body: Fair Mindedness is frequently mistaken for false balance — granting equal
+    credibility to unequally supported positions; the disposition demands equal standards
+    of evaluation, which typically produces unequal verdicts.

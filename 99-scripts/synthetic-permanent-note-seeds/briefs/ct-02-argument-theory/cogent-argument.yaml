@@ -1,0 +1,30 @@
+concept: Cogent Argument
+domain: critical-thinking
+secondary_domains:
+- logic
+- inductive-reasoning
+aliases:
+- cogent inductive argument
+broader:
+- inductive arguments
+related:
+- strong argument
+- premise acceptability
+- inductive confirmation
+confidence: high
+callouts:
+- type: definition
+  title: Cogent Argument
+  body: A Cogent Argument is a strong inductive argument whose premises are also actually
+    true; cogency is the inductive analogue of soundness, marking the highest grade
+    an inductive argument can achieve.
+- type: key-claim
+  title: Key claim about Cogent Argument
+  body: A Cogent Argument transmits high probability from true premises to its conclusion,
+    but unlike a sound deductive argument it leaves the conclusion defeasible, so
+    even a fully cogent argument can have its conclusion overturned by new evidence.
+- type: warning
+  title: Common pitfall regarding Cogent Argument
+  body: A Cogent Argument is sometimes treated as proving its conclusion in the deductive
+    sense; the cogency relation is probabilistic, and treating it as conclusive collapses
+    the inductive/deductive distinction that the term was introduced to preserve.

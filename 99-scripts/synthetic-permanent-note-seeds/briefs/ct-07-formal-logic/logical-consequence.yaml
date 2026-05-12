@@ -1,0 +1,33 @@
+concept: Logical Consequence
+domain: logic
+secondary_domains:
+- logic
+- formal-logic
+- model-theory
+aliases:
+- entailment
+- semantic consequence
+broader:
+- deductive relations
+related:
+- valid argument
+- logical form
+- epistemic closure
+confidence: high
+callouts:
+- type: definition
+  title: Logical Consequence
+  body: Logical Consequence is the relation that holds between a set of premises and
+    a conclusion when the truth of the premises guarantees the truth of the conclusion,
+    as a matter of logical form rather than empirical fact.
+- type: key-claim
+  title: Key claim about Logical Consequence
+  body: Logical Consequence is the precise relation that validity tracks; an argument
+    is valid exactly when its conclusion is a logical consequence of its premises,
+    which is why every theory of logic is in part a theory of consequence.
+- type: warning
+  title: Common pitfall regarding Logical Consequence
+  body: Logical Consequence has multiple non-equivalent definitions across logical
+    systems (semantic vs syntactic, classical vs intuitionistic vs relevance); treating
+    the relation as fixed across all of logic obscures the fact that what counts as
+    following-from depends on which logical framework is in force.

@@ -1,0 +1,35 @@
+concept: Critical Thinking Dispositions Taxonomy
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- assessment-research
+aliases:
+- dispositions component of critical thinking
+- CCTDI dispositions list
+broader:
+- critical thinking frameworks
+related:
+- facione critical thinking model
+- ennis critical thinking model
+- truth seeking disposition
+confidence: high
+callouts:
+- type: definition
+  title: Critical Thinking Dispositions Taxonomy
+  body: The Critical Thinking Dispositions Taxonomy is the structured inventory of
+    standing tendencies — typically including truth-seeking, open-mindedness, analyticity,
+    systematicity, self-confidence in reasoning, inquisitiveness, and maturity of
+    judgement — that consensus models hold to be necessary complements to critical-thinking
+    skills.
+- type: key-claim
+  title: Key claim about Critical Thinking Dispositions Taxonomy
+  body: The Critical Thinking Dispositions Taxonomy operationalises the empirical
+    finding that skill possession does not by itself predict skill deployment; the
+    dispositional inventory captures the affective and motivational layer that determines
+    whether trained reasoners actually reason carefully outside testing conditions.
+- type: warning
+  title: Common pitfall regarding Critical Thinking Dispositions Taxonomy
+  body: The Critical Thinking Dispositions Taxonomy is operationalised primarily through
+    self-report instruments (notably the CCTDI), which inherits the well-known limitations
+    of self-report — social-desirability effects, weak correspondence to behaviour
+    — and should not be treated as a direct measure of underlying disposition.

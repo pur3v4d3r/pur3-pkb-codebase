@@ -1,0 +1,36 @@
+concept: Agrippa Trilemma
+domain: epistemology
+secondary_domains:
+- history-of-philosophy
+- scepticism
+- meta-epistemology
+aliases:
+- Agrippa's trilemma
+- Münchhausen trilemma
+- problem of the criterion
+broader:
+- epistemic regress
+related:
+- epistemic regress
+- epistemic relativism
+prerequisites:
+- epistemic regress
+confidence: high
+callouts:
+- type: definition
+  title: Agrippa Trilemma
+  body: 'The Agrippa Trilemma argues that any attempted justification of a belief
+    must terminate in one of three unacceptable options: an infinite regress of further
+    justifications, a circle in which premises ultimately depend on the conclusion,
+    or an arbitrary stopping point asserted without further support.'
+- type: key-claim
+  title: Key claim about Agrippa Trilemma
+  body: The Agrippa Trilemma exhausts the options for chain-structured justification,
+    which means defending knowledge against scepticism requires either accepting one
+    of the three horns as benign or rejecting the chain model of justification altogether.
+- type: warning
+  title: Common pitfall regarding Agrippa Trilemma
+  body: The Agrippa Trilemma should not be read as a knockdown sceptical argument;
+    each horn has been defended by serious philosophers (infinitism, coherentism,
+    foundationalism), and the trilemma's force is to constrain the form of any successful
+    theory of justification, not to refute knowledge.

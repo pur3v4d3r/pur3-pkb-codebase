@@ -1,0 +1,31 @@
+concept: Inquisitiveness As Disposition
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- philosophy-of-education
+aliases:
+- intellectual curiosity
+- inquisitiveness
+broader:
+- intellectual virtues
+related:
+- truth seeking disposition
+- open mindedness
+- intellectual perseverance
+confidence: high
+callouts:
+- type: definition
+  title: Inquisitiveness As Disposition
+  body: Inquisitiveness As Disposition is the standing tendency to ask questions,
+    to find unfamiliar territory interesting rather than threatening, and to seek
+    out information beyond what immediate utility would require.
+- type: key-claim
+  title: Key claim about Inquisitiveness As Disposition
+  body: Inquisitiveness As Disposition is the engine of inquiry rather than its method;
+    many epistemic virtues describe how one investigates, but inquisitiveness describes
+    why one investigates at all.
+- type: warning
+  title: Common pitfall regarding Inquisitiveness As Disposition
+  body: Inquisitiveness As Disposition can be hijacked by novelty-seeking that mimics
+    curiosity without producing understanding; the virtuous form is sustained interest
+    that survives the discovery that an answer will require effort.

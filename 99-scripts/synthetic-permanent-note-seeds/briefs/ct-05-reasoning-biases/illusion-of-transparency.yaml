@@ -1,0 +1,32 @@
+concept: Illusion Of Transparency
+domain: cognitive-science
+secondary_domains:
+- social-psychology
+- communication
+aliases:
+- transparency illusion
+broader:
+- reasoning biases
+- perspective-taking failures
+related:
+- curse of knowledge
+- naive realism
+confidence: high
+callouts:
+- type: definition
+  title: Illusion Of Transparency
+  body: The Illusion Of Transparency is the tendency to overestimate the extent to
+    which one's internal states — emotions, intentions, knowledge — are evident to
+    others through outward behaviour.
+- type: key-claim
+  title: Key claim about Illusion Of Transparency
+  body: 'The Illusion Of Transparency is the inverse of the curse of knowledge applied
+    to the self: just as we project our knowledge onto others'' minds, we project
+    the salience of our own internal states onto their perception of us, both of which
+    produce systematic miscommunication.'
+- type: warning
+  title: Common pitfall regarding Illusion Of Transparency
+  body: The Illusion Of Transparency makes both anxiety and clarity self-defeating;
+    speakers under-explain because they overestimate how clear they are, and the same
+    speakers feel exposed because they overestimate how obvious their inner state
+    is.

@@ -1,0 +1,35 @@
+concept: Intellectual Courage
+domain: critical-thinking
+secondary_domains:
+- virtue-epistemology
+- ethics
+aliases:
+- epistemic courage
+broader:
+- intellectual virtues
+related:
+- epistemic cowardice
+- open mindedness
+- fair mindedness
+prerequisites:
+- intellectual humility
+confidence: high
+callouts:
+- type: definition
+  title: Intellectual Courage
+  body: Intellectual Courage is the disposition to engage fairly with ideas, evidence,
+    and viewpoints that one finds threatening or socially costly, and to assert well-founded
+    conclusions even when they conflict with one's prior commitments or surrounding
+    consensus.
+- type: key-claim
+  title: Key claim about Intellectual Courage
+  body: Intellectual Courage is what converts private rational assent into public
+    rational behavior; without it, a thinker may correctly identify a sound argument
+    and still refuse to follow where it leads, allowing social cost to override epistemic
+    warrant.
+- type: warning
+  title: Common pitfall regarding Intellectual Courage
+  body: Intellectual Courage is often confused with contrarianism or rhetorical bravado;
+    the disposition is governed by evidence, not by the discomfort it produces, so
+    a stance taken purely because it is unpopular fails the criterion just as surely
+    as one held purely because it is safe.

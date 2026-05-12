@@ -1,0 +1,32 @@
+concept: Appeal To Emotion
+domain: critical-thinking
+secondary_domains:
+- rhetoric
+- persuasion-research
+aliases:
+- argumentum ad passiones
+broader:
+- informal fallacies
+- irrelevance fallacies
+related:
+- appeal to tradition
+- red herring fallacy
+confidence: high
+callouts:
+- type: definition
+  title: Appeal To Emotion
+  body: The Appeal To Emotion is the fallacy of substituting emotional response —
+    fear, pity, anger, pride — for a rational ground in support of a conclusion, such
+    that the emotional reaction is offered as if it constituted evidence.
+- type: key-claim
+  title: Key claim about Appeal To Emotion
+  body: The Appeal To Emotion is fallacious not because emotions are irrelevant to
+    reasoning but because the felt force of an emotion does not entail that the belief
+    that triggered it is true; the fallacy occurs when emotional weight is treated
+    as inferential weight.
+- type: warning
+  title: Common pitfall regarding Appeal To Emotion
+  body: The Appeal To Emotion does not entail that emotionally charged arguments are
+    bad arguments; many sound arguments concern matters that legitimately move people,
+    and dismissing reasoning merely because it is moving is a tone-policing move rather
+    than a logical critique.

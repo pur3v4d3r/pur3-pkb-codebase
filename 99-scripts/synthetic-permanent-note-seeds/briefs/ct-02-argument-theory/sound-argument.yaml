@@ -1,0 +1,30 @@
+concept: Sound Argument
+domain: critical-thinking
+secondary_domains:
+- logic
+- formal-logic
+aliases:
+- sound deductive argument
+broader:
+- deductive arguments
+related:
+- valid argument
+- validity vs soundness
+- premise acceptability
+confidence: high
+callouts:
+- type: definition
+  title: Sound Argument
+  body: A Sound Argument is a valid deductive argument whose premises are also actually
+    true; soundness combines structural validity with material truth and is therefore
+    the gold standard for deductive reasoning.
+- type: key-claim
+  title: Key claim about Sound Argument
+  body: A Sound Argument guarantees the truth of its conclusion, which makes soundness
+    the only argument property that fully transmits truth from premises to conclusion;
+    everything weaker leaves room for the conclusion to fail.
+- type: warning
+  title: Common pitfall regarding Sound Argument
+  body: A Sound Argument cannot be established by inspecting the inference alone;
+    one must independently verify the premises, and arguing from "this looks valid,
+    therefore it is sound" is a standard route to confidently believing falsehoods.

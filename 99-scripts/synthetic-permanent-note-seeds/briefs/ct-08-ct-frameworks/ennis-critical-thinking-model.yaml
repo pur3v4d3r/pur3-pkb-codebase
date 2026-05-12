@@ -1,0 +1,35 @@
+concept: Ennis Critical Thinking Model
+domain: critical-thinking
+secondary_domains:
+- critical-thinking-pedagogy
+- philosophy-of-education
+aliases:
+- Ennis model
+- Robert Ennis model of critical thinking
+broader:
+- critical thinking frameworks
+related:
+- facione critical thinking model
+- critical thinking dispositions taxonomy
+- watson glaser model
+confidence: high
+callouts:
+- type: definition
+  title: Ennis Critical Thinking Model
+  body: The Ennis Critical Thinking Model is Robert Ennis's account of critical thinking
+    as "reasonable, reflective thinking focused on deciding what to believe or do,"
+    operationalised through a taxonomy of abilities (clarification, basis-assessment,
+    inference, supposition-and-integration) and dispositions oriented toward truth,
+    clarity, and care for others' dignity.
+- type: key-claim
+  title: Key claim about Ennis Critical Thinking Model
+  body: The Ennis Critical Thinking Model anchors critical thinking in decision-making
+    rather than in argument-evaluation alone; this practical framing extends the construct
+    from "evaluating others' arguments" to "regulating one's own beliefs and actions,"
+    which broadens the educational target.
+- type: warning
+  title: Common pitfall regarding Ennis Critical Thinking Model
+  body: The Ennis Critical Thinking Model overlaps substantially with the Facione
+    model in skill content but differs in the role assigned to dispositions and in
+    the prominence given to action; treating the two frameworks as interchangeable
+    obscures genuinely different commitments about what critical thinking is for.

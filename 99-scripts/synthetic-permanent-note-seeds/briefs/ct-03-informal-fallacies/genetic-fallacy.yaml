@@ -1,0 +1,31 @@
+concept: Genetic Fallacy
+domain: critical-thinking
+secondary_domains:
+- logic
+- rhetoric
+- history-of-ideas
+aliases:
+- origin fallacy
+broader:
+- informal fallacies
+- irrelevance fallacies
+related:
+- appeal to tradition
+- ad hominem
+confidence: high
+callouts:
+- type: definition
+  title: Genetic Fallacy
+  body: The Genetic Fallacy is the error of evaluating a claim or argument on the
+    basis of its origin — who said it, where it came from, what historical process
+    produced it — rather than its current evidential merits.
+- type: key-claim
+  title: Key claim about Genetic Fallacy
+  body: The Genetic Fallacy treats origin as if it were entailment, but a claim's
+    truth or argument's validity is independent of how it came to be entertained;
+    even claims with disreputable origins can turn out to be true on inspection.
+- type: warning
+  title: Common pitfall regarding Genetic Fallacy
+  body: The Genetic Fallacy does not entail that origin information is always irrelevant;
+    origin can defeasibly bear on credibility (e.g., known motivated sources, conflicts
+    of interest), and the fallacy is the inference that origin settles the matter.
