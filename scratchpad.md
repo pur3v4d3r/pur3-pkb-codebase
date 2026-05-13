@@ -1212,7 +1212,7 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 ---
 
 Foundational✅
-Analytical Deep Dive
+Analytical Deep Dive✅
 Deep-Dive
 
 Generate a report on: [Designing Self-Directed Critical Thinking Curriculum]
