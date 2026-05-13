@@ -1,12 +1,11 @@
 ---
-title: "Restraint Bias"
+title: Restraint Bias
 aliases:
-  - "Restraint Bias"
-  - "self-control bias"
+  - Restraint Bias
+  - self-control bias
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,57 +17,57 @@ subdomains:
   - behavioural-economics
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "restraint-bias-synthetic-seed-2026-05-12"
+  - restraint-bias-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Cognitive Biases"
-
+depth-level: enhanced
+parent-concept: Cognitive Biases
 related:
-  - "[[Optimism Bias]]"
-  - "[[Impact Bias]]"
-  - "[[Reasoning Biases]]"
+  - '[[Optimism Bias]]'
+  - '[[Impact Bias]]'
+  - '[[Reasoning Biases]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Optimism Bias]]"
-  - "[[Impact Bias]]"
+  - '[[Optimism Bias]]'
+  - '[[Impact Bias]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Reasoning Biases]]"
+  - '[[Reasoning Biases]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Restraint Bias
 
@@ -88,6 +87,9 @@ Theoretical roots of Restraint Bias trace back to the broader field of cognitive
 
 In practice, Restraint Bias has significant implications for various aspects of life management and decision-making. For instance, it can lead to poor dietary choices when individuals underestimate the difficulty of resisting unhealthy foods or financial mismanagement due to an overly optimistic view of their ability to save money.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Restraint Bias often manifests in professional settings as well, particularly in project management and team coordination. Managers may overestimate their ability to resist the temptation of multitasking or procrastination, leading them to underestimate the challenges of maintaining focus on critical tasks. This misjudgment can result in poor time management and reduced productivity.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Addiction Relapse**
@@ -99,6 +101,11 @@ In practice, Restraint Bias has significant implications for various aspects of 
 > [!example] **Application 3 — Financial Behavior**
 > Restraint Bias also affects financial decision-making, particularly in saving and spending habits. Individuals may overestimate their ability to resist impulsive purchases or maintain strict budgeting practices, leading them to make decisions that increase exposure to tempting financial environments without proper planning.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!example] **Application 4 — Financial Planning**
+> In financial planning, individuals may overestimate their ability to resist impulsive spending or adhere to a strict budget. This Restraint Bias can lead them to underestimate the challenges of saving for long-term goals and expose themselves to more tempting environments that encourage immediate gratification.
+
 ## Key Distinctions
 
 > [!key-distinction] **Restraint Bias vs Optimism Bias**
@@ -106,6 +113,19 @@ In practice, Restraint Bias has significant implications for various aspects of 
 
 > [!key-distinction] **Restraint Bias vs Impact Bias**
 > Impact Bias concerns miscalculations about emotional reactions to events, while Restraint Bias focuses on the misjudgment of one's ability to control future impulses or temptations. Understanding these distinctions is crucial for accurately diagnosing and addressing cognitive biases in decision-making.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate review and analysis, whereas reactive thinking is an immediate response without much deliberation. Restraint Bias often stems from overreliance on reactive thinking when making decisions about future self-control, leading individuals to underestimate the challenges they will face under temptation.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People think that Restraint Bias only affects those with weak self-discipline.
+>
+> Restraint Bias can affect anyone regardless of their current level of self-control. Even individuals who are highly disciplined may overestimate their future capacity to resist temptations, leading them to underprepare for situations requiring self-regulation.
 
 ## Open Questions
 
@@ -118,6 +138,13 @@ In practice, Restraint Bias has significant implications for various aspects of 
 > What strategies effectively mitigate the effects of Restraint Bias?
 >
 > *What would resolve it:* Experimental studies evaluating various interventions designed to improve preparation and reduce exposure to tempting environments would help identify effective mitigation strategies for Restraint Bias.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How does the context of temptation influence the manifestation and severity of Restraint Bias?
+>
+> *What would resolve it:* Research into how different environmental cues and situational factors affect self-control could provide insights into when and why individuals overestimate their future capacity to resist temptations.
 
 ## Synthesis
 
@@ -134,3 +161,10 @@ In practical life management, acknowledging Restraint Bias allows for better pla
 **Applies to:** [[Reasoning Biases]]
 
 **Source:** [[restraint-bias-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Reasoning Biases]]** — *applies-to*
+> Restraint Bias applies to reasoning biases because it involves flawed logical processes in predicting future behavior. Just as other cognitive biases distort rational thinking, Restraint Bias leads individuals to make illogical assumptions about their ability to resist future temptations.

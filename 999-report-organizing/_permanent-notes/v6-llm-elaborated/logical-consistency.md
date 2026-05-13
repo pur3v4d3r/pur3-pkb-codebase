@@ -1,13 +1,12 @@
 ---
-title: "Logical Consistency"
+title: Logical Consistency
 aliases:
-  - "Logical Consistency"
-  - "consistency"
-  - "non-contradiction"
+  - Logical Consistency
+  - consistency
+  - non-contradiction
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,56 +18,56 @@ subdomains:
   - formal-logic
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "logical-consistency-synthetic-seed-2026-05-12"
+  - logical-consistency-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Logic"
-
+depth-level: enhanced
+parent-concept: Logic
 related:
-  - "[[Logical Consequence]]"
-  - "[[Sound Argument]]"
+  - '[[Logical Consequence]]'
+  - '[[Sound Argument]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Logical Consequence]]"
-  - "[[Sound Argument]]"
+  - '[[Logical Consequence]]'
+  - '[[Sound Argument]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Logical Consistency
 
@@ -88,6 +87,9 @@ The theoretical roots of logical consistency are deeply embedded in classical lo
 
 While logical consistency is a necessary condition for coherent belief systems, it does not ensure that these beliefs align with reality. This distinction underscores the need for additional epistemic standards such as empirical verification or coherence with other beliefs to establish a robust set of knowledge.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Logical consistency plays a pivotal role in philosophical debates about rationality and belief revision. When faced with new evidence, individuals must assess whether incorporating this information would lead to contradictions within their existing belief set. This process often involves weighing the logical coherence of beliefs against empirical support, highlighting the tension between maintaining consistency and updating knowledge based on reality.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -104,6 +106,22 @@ While logical consistency is a necessary condition for coherent belief systems, 
 > [!key-distinction] **Logical Consistency vs Plausibility**
 > Plausibility refers to the likelihood or reasonableness of a belief given available evidence, whereas logical consistency focuses solely on the absence of contradictions within a set of beliefs. A consistent belief system can still be implausible if it lacks empirical support.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking allows individuals to critically evaluate their beliefs for contradictions, ensuring logical consistency. In contrast, reactive thinking is more immediate and less likely to scrutinize the internal coherence of beliefs. This distinction matters because reflective thinking can prevent the formation of contradictory belief sets, whereas reactive thinking may lead to inconsistencies if not followed by reflection.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Intrinsic motivation drives individuals to maintain logical consistency for personal satisfaction and cognitive coherence. Extrinsic motivation, however, might prioritize other goals over consistency, such as aligning with group norms or avoiding conflict. Understanding these motivations can help explain why some people are more diligent in ensuring their beliefs are logically consistent.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Logical consistency guarantees the truth of a belief set.
+>
+> While logical consistency ensures that no contradictions exist within a set of beliefs, it does not guarantee their truthfulness. A belief system can be logically consistent but entirely false if its propositions do not accurately reflect reality.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -116,11 +134,21 @@ While logical consistency is a necessary condition for coherent belief systems, 
 >
 > *What would resolve it:* A comparative analysis of decision-making outcomes under different epistemic priorities would provide insights into the trade-offs between logical consistency and other criteria.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How does cognitive load affect an individual's ability to maintain logical consistency?
+>
+> *What would resolve it:* Research on cognitive load suggests that high levels of mental effort required for tasks can impair the capacity to detect and resolve contradictions in belief sets. Understanding these effects could inform strategies for enhancing logical reasoning under challenging conditions.
+
 ## Synthesis
 
 Maintaining logical consistency is crucial for rational thought and decision-making as it ensures that beliefs are internally coherent, preventing contradictions that could lead to arbitrary conclusions. This property underpins sound argumentation and robust belief systems, even if it does not guarantee truth or plausibility.
 
 While logical consistency is a necessary condition for meaningful discourse, its application must be balanced with other epistemic standards such as empirical verification and coherence with reality.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+In summary, while logical consistency is a fundamental requirement for coherent thought and argumentation, it must be balanced with other epistemic standards such as empirical verification to ensure that beliefs not only cohere internally but also align with reality. This balance is crucial in both theoretical reasoning and practical applications.
 
 ## Connections & Context
 
@@ -129,3 +157,13 @@ While logical consistency is a necessary condition for meaningful discourse, its
 **Contrasts with:** [[Logical Consequence]] · [[Sound Argument]]
 
 **Source:** [[logical-consistency-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Logical Consequence]]** — *contrasts-with*
+> While logical consistency focuses on the absence of contradictions within a set of beliefs, logical consequence deals with deriving new truths from existing premises. Understanding both concepts is crucial because ensuring logical consistency does not automatically lead to valid inferences or conclusions.
+
+> [!connection] **[[Sound Argument]]** — *contrasts-with*
+> A sound argument requires both logical consistency and truthfulness of its premises, whereas logical consistency alone only ensures the absence of contradictions. This distinction highlights that a set of beliefs can be logically consistent without being a sound argument if its premises are not true.

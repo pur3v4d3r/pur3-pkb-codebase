@@ -1,13 +1,12 @@
 ---
-title: "Epistemic Regress"
+title: Epistemic Regress
 aliases:
-  - "Epistemic Regress"
-  - "regress of justification"
-  - "justificatory regress"
+  - Epistemic Regress
+  - regress of justification
+  - justificatory regress
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - meta-epistemology
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "epistemic-regress-synthetic-seed-2026-05-12"
+  - epistemic-regress-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Epistemological Theories"
-
+depth-level: enhanced
+parent-concept: Epistemological Theories
 related:
-  - "[[Foundationalism]]"
-  - "[[Coherentism]]"
-  - "[[Infinitism]]"
+  - '[[Foundationalism]]'
+  - '[[Coherentism]]'
+  - '[[Infinitism]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Foundationalism]]"
-  - "[[Coherentism]]"
-  - "[[Infinitism]]"
+  - '[[Foundationalism]]'
+  - '[[Coherentism]]'
+  - '[[Infinitism]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Epistemic Regress
 
@@ -88,6 +87,11 @@ Foundationalism proposes stopping the regress at self-evident or infallible beli
 
 Theoretical roots of this problem trace back to ancient Greek philosophy where skepticism about knowledge was prevalent. Philosophers like Plato and Aristotle grappled with similar issues, though modern formulations emerged more clearly during the Enlightenment period when systematic approaches to epistemology became prominent.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+The Epistemic Regress problem not only challenges the structure of knowledge but also has implications for how we understand cognitive processes involved in belief formation and justification. Cognitive psychologists might view foundational beliefs as akin to System 1 thinking—fast, automatic, and often unconscious judgments that provide a basis for more deliberate reasoning (System 2). This perspective suggests that while foundationalism relies on these intuitive, self-evident beliefs, coherentism and infinitism may engage more heavily with the slower, reflective processes of System 2 thinking to construct justifications.
+
+In contemporary epistemology, debates around Epistemic Regress have expanded beyond traditional philosophical frameworks. Recent discussions incorporate insights from cognitive science, particularly regarding how memory systems interact in forming justified beliefs. For instance, foundationalism might align more closely with the role of long-term memory in storing self-evident truths, whereas coherentism could be seen as leveraging working memory to integrate and justify interconnected beliefs.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -100,6 +104,22 @@ Theoretical roots of this problem trace back to ancient Greek philosophy where s
 
 > [!key-distinction] **Foundationalism vs Coherentism**
 > Foundationalism posits that knowledge is built upon self-evident or infallible beliefs, whereas coherentism argues for a web of interconnected justifications where each belief supports others in the network. This distinction matters because it shapes how one views the structure and reliability of knowledge.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and evaluation of beliefs, aligning with foundationalist approaches that seek self-evident truths. In contrast, reactive thinking is immediate and context-driven, resonating more with coherentism's emphasis on interconnected justifications within a web of beliefs. This distinction highlights how different epistemological theories cater to distinct cognitive processes.
+
+> [!key-distinction] **Maintenance vs Elaborative Rehearsal**
+> Foundationalist approaches might be seen as relying on maintenance rehearsal, where knowledge is repeatedly reviewed without deeper processing. Coherentism and infinitism, however, may involve elaborative rehearsal, which involves linking new information to existing knowledge in meaningful ways, fostering a more robust and interconnected web of beliefs.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People often think that Epistemic Regress is solely about skepticism.
+>
+> While skepticism can arise from the regress problem, it focuses on the structural challenge within justificatory chains rather than questioning the success of responses. This misconception arises because both issues are intertwined in philosophical discourse but addressing the regress does not necessarily resolve skeptical doubts.
 
 ## Key Figures
 
@@ -118,6 +138,9 @@ Understanding Epistemic Regress is crucial for epistemological inquiry as it for
 
 By grappling with this concept, philosophers and practitioners alike are better equipped to construct robust frameworks for understanding and validating knowledge across various domains.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Understanding Epistemic Regress not only illuminates foundational challenges in epistemology but also bridges philosophical inquiry with cognitive science, offering insights into belief formation and justification processes. This interdisciplinary perspective enriches our comprehension of knowledge structures and their reliability across various domains.
+
 ## Connections & Context
 
 **Falls under:** [[Epistemological Theories]]
@@ -125,3 +148,13 @@ By grappling with this concept, philosophers and practitioners alike are better 
 **Specializes:** [[Foundationalism]] · [[Coherentism]] · [[Infinitism]]
 
 **Source:** [[epistemic-regress-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Foundationalism]]** — *specializes*
+> Epistemic Regress and Foundationalism share a common concern with terminating justificatory chains, but they differ in their proposed solutions. While Epistemic Regress poses the challenge of infinite regress, Foundationalism offers a specific response by identifying self-evident or infallible beliefs as foundational stops. This connection is crucial because understanding Foundationalism provides insight into one potential resolution to the structural problem posed by Epistemic Regress.
+
+> [!connection] **[[Coherentism]]** — *specializes*
+> Both Coherentism and Epistemic Regress address the challenge of justifying beliefs, but they propose different solutions. While Epistemic Regress highlights the problem of infinite regress in justification chains, Coherentism offers a solution by suggesting that beliefs are justified through mutual support within a coherent system. This connection is vital as it illustrates how Coherentism attempts to resolve the structural issues identified by Epistemic Regress.

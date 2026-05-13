@@ -1,12 +1,11 @@
 ---
-title: "Pseudo Science"
+title: Pseudo Science
 aliases:
-  - "Pseudo Science"
-  - "pseudoscience"
+  - Pseudo Science
+  - pseudoscience
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - science-communication
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "pseudo-science-synthetic-seed-2026-05-12"
+  - pseudo-science-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Philosophy of Science"
-
+depth-level: enhanced
+parent-concept: Philosophy of Science
 related:
-  - "[[Falsifiability]]"
-  - "[[Demarcation Problem]]"
+  - '[[Falsifiability]]'
+  - '[[Demarcation Problem]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Falsifiability]]"
+  - '[[Falsifiability]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Demarcation Problem]]"
+  - '[[Demarcation Problem]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Pseudo Science
 
@@ -84,6 +83,9 @@ The theoretical underpinnings of Pseudo Science can be traced back to Karl Poppe
 
 Historically, numerous movements have been identified as pseudo science due to their reliance on untestable theories and resistance to empirical scrutiny. Examples include phrenology and astrology, which despite being widely discredited continue to attract followers who are drawn in by the veneer of scientific legitimacy they present.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Pseudo Science often thrives in environments where critical evaluation is lacking or discouraged, such as within certain subcultures or communities that prioritize belief over evidence. This cultural acceptance can create echo chambers where pseudoscientific claims are perpetuated without scrutiny, reinforcing the illusion of legitimacy through repetition and social validation.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -99,6 +101,22 @@ Historically, numerous movements have been identified as pseudo science due to t
 
 > [!key-distinction] **Pseudo Science vs Fringe Science**
 > Fringe science represents legitimate scientific inquiry into unconventional areas that may not yet have substantial empirical support. Unlike pseudo science, fringe science is open to revision based on new evidence and adheres to the methodological standards of science. Pseudo science, however, presents claims as scientifically valid without meeting these criteria, creating an illusion of credibility.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and evaluation of information, which is crucial for distinguishing pseudo science from legitimate scientific inquiry. In contrast, reactive thinking relies on immediate responses based on preconceived notions or emotional reactions, making individuals more susceptible to accepting pseudoscientific claims without critical assessment.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Pseudo Science often appeals to extrinsic motivations such as the promise of quick fixes or easy solutions, which can overshadow intrinsic motivations for genuine scientific inquiry. This distinction highlights how pseudo science exploits human desires for immediate gratification rather than fostering a deeper understanding and appreciation of rigorous scientific methods.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People think that all pseudoscientific claims are easily identifiable as false.
+>
+> This misconception arises from the deceptive nature of pseudo science, which often mimics legitimate scientific practices. The complexity and subtlety in distinguishing between genuine and pseudoscientific claims require a nuanced understanding of scientific methodology and critical thinking skills.
 
 ## Key Figures
 
@@ -123,6 +141,9 @@ Understanding Pseudo Science is crucial for maintaining scientific integrity and
 
 Moreover, addressing the demarcation problem in philosophy of science through a nuanced understanding of pseudo science contributes to broader discussions about the boundaries between science and non-science, enhancing our ability to evaluate and validate knowledge claims.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Understanding and applying the principles that distinguish Pseudo Science from genuine scientific inquiry not only enhances critical thinking skills but also promotes a culture of evidence-based decision-making across various fields. This is essential for maintaining scientific integrity, fostering informed public discourse, and advancing knowledge through rigorous empirical investigation.
+
 ## Connections & Context
 
 **Falls under:** [[Philosophy of Science]]
@@ -132,3 +153,13 @@ Moreover, addressing the demarcation problem in philosophy of science through a 
 **Applies to:** [[Demarcation Problem]]
 
 **Source:** [[pseudo-science-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Falsifiability]]** — *contrasts-with*
+> Pseudo Science contrasts with Falsifiability because while falsifiability demands that scientific claims be testable and potentially refutable, pseudo science often presents untestable or unfalsifiable claims. This fundamental difference underscores the importance of methodological rigor in distinguishing between legitimate and pseudoscientific inquiry.
+
+> [!connection] **[[Demarcation Problem]]** — *applies-to*
+> The Demarcation Problem applies to Pseudo Science by addressing the challenge of defining clear criteria for what constitutes science. This problem is particularly acute in distinguishing pseudo science from legitimate scientific inquiry, as both can appear superficially similar but differ fundamentally in their adherence to methodological standards.

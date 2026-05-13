@@ -1,13 +1,12 @@
 ---
-title: "Ennis Critical Thinking Model"
+title: Ennis Critical Thinking Model
 aliases:
-  - "Ennis Critical Thinking Model"
-  - "Ennis model"
-  - "Robert Ennis model of critical thinking"
+  - Ennis Critical Thinking Model
+  - Ennis model
+  - Robert Ennis model of critical thinking
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - philosophy-of-education
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "ennis-critical-thinking-model-synthetic-seed-2026-05-12"
+  - ennis-critical-thinking-model-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[Facione Critical Thinking Model]]"
-  - "[[Critical Thinking Dispositions Taxonomy]]"
+  - '[[Facione Critical Thinking Model]]'
+  - '[[Critical Thinking Dispositions Taxonomy]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Facione Critical Thinking Model]]"
+  - '[[Facione Critical Thinking Model]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Critical Thinking Dispositions Taxonomy]]"
+  - '[[Critical Thinking Dispositions Taxonomy]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Ennis Critical Thinking Model
 
@@ -87,6 +86,9 @@ Ennis's model also places significant emphasis on dispositions such as truth-see
 
 The theoretical roots of Ennis's model can be traced back to philosophical traditions that emphasize rationality and ethical responsibility. By integrating these elements into a practical framework for critical thinking, Ennis provides educators and practitioners with a comprehensive approach to fostering cognitive development in learners.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+The Ennis Critical Thinking Model's emphasis on practical application extends beyond classroom settings to real-world scenarios, making it particularly relevant for professional development and lifelong learning initiatives. By focusing on how critical thinking skills can be applied in everyday decision-making processes, the model underscores its utility in various contexts such as business management, healthcare, and public policy.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -99,6 +101,22 @@ The theoretical roots of Ennis's model can be traced back to philosophical tradi
 
 > [!key-distinction] **Action-regulation vs Argument-evaluation focus**
 > The Ennis Critical Thinking Model distinguishes itself from other models, such as the Facione model, by emphasizing action regulation over argument evaluation. While both models include similar cognitive skills, Ennis's framework places a greater emphasis on how these skills are applied in practical decision-making contexts rather than just evaluating arguments. This distinction is crucial because it broadens the scope of critical thinking to encompass personal belief and action regulation, making it more relevant for everyday life.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Ennis's model supports reflective thinking over reactive thinking by encouraging individuals to pause and consider multiple perspectives before making decisions. This distinction is crucial because it promotes a more thoughtful approach to problem-solving, which can lead to better outcomes in both personal and professional settings.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> The model also highlights the importance of intrinsic motivation over extrinsic motivation for fostering critical thinking. While external rewards may prompt initial engagement, internal drive is more likely to sustain long-term commitment to developing these skills.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People think Ennis's model is only about evaluating arguments.
+>
+> This misconception arises from the common focus on argument evaluation in critical thinking models. However, Ennis’s model goes beyond this by emphasizing practical application and personal belief regulation, making it a more comprehensive framework for developing critical thinking skills.
 
 ## Key Figures
 
@@ -116,9 +134,19 @@ The theoretical roots of Ennis's model can be traced back to philosophical tradi
 >
 > *What would resolve it:* Research exploring how Ennis's model can be integrated with other critical thinking models to create a more comprehensive framework could provide insights into its potential benefits and limitations.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How does the integration of dispositional attitudes impact long-term learning outcomes?
+>
+> *What would resolve it:* Empirical studies comparing students' performance over time in different educational settings would help resolve this question, particularly focusing on how integrating dispositional attitudes affects sustained critical thinking abilities.
+
 ## Synthesis
 
 The significance of the Ennis Critical Thinking Model lies in its holistic approach to fostering critical thinking, which integrates both cognitive skills and dispositional attitudes. By emphasizing practical application in personal belief and action regulation, this model offers a more comprehensive framework for teaching and applying critical thinking than models that focus solely on argument evaluation. Its relevance extends beyond academic settings into everyday life, making it a valuable tool for educators and individuals seeking to enhance their decision-making abilities.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+The Ennis Critical Thinking Model's holistic approach to fostering critical thinking through both cognitive skills and dispositional attitudes positions it as a robust framework for enhancing decision-making in various contexts. By emphasizing practical application, the model bridges theoretical knowledge with real-world problem-solving, making it an essential tool for educators and professionals alike.
 
 ## Connections & Context
 
@@ -129,3 +157,10 @@ The significance of the Ennis Critical Thinking Model lies in its holistic appro
 **Supports:** [[Critical Thinking Dispositions Taxonomy]]
 
 **Source:** [[ennis-critical-thinking-model-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Critical Thinking Dispositions Taxonomy]]** — *supports*
+> The Ennis Critical Thinking Model supports the Critical Thinking Dispositions Taxonomy by emphasizing the importance of dispositional attitudes alongside cognitive skills. Both frameworks recognize that effective critical thinking requires not just intellectual abilities but also a willingness to engage in reflective and open-minded decision-making.

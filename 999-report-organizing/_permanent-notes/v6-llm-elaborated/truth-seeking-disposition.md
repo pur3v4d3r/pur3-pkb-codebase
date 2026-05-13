@@ -1,13 +1,12 @@
 ---
-title: "Truth Seeking Disposition"
+title: Truth Seeking Disposition
 aliases:
-  - "Truth Seeking Disposition"
-  - "truthfulness disposition"
-  - "alethic motivation"
+  - Truth Seeking Disposition
+  - truthfulness disposition
+  - alethic motivation
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - philosophy-of-inquiry
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "truth-seeking-disposition-synthetic-seed-2026-05-12"
+  - truth-seeking-disposition-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Intellectual Virtues"
-
+depth-level: enhanced
+parent-concept: Intellectual Virtues
 related:
-  - "[[Inquisitiveness as Disposition]]"
-  - "[[Intellectual Integrity]]"
+  - '[[Inquisitiveness as Disposition]]'
+  - '[[Intellectual Integrity]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Inquisitiveness as Disposition]]"
+  - '[[Inquisitiveness as Disposition]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Intellectual Integrity]]"
+  - '[[Intellectual Integrity]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Truth Seeking Disposition
 
@@ -85,6 +84,9 @@ In practice, a truth seeker will actively seek out disconfirming evidence for th
 
 Theoretical roots of this concept can be traced back to philosophers like Plato and Aristotle who emphasized the pursuit of truth as a noble goal. Modern cognitive psychology has further explored how such dispositions manifest in decision-making processes, highlighting the role of critical thinking skills in navigating complex information environments.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+The truth-seeking disposition is not merely a passive acceptance of facts but an active engagement with information that challenges one's preconceived notions and biases. This proactive stance requires individuals to confront their own cognitive dissonance, which can be uncomfortable yet essential for personal growth and the advancement of knowledge.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -97,6 +99,22 @@ Theoretical roots of this concept can be traced back to philosophers like Plato 
 
 > [!key-distinction] **Truth Seeking vs Motivated Reasoning**
 > While motivated reasoning involves interpreting information to support pre-existing beliefs, truth seeking prioritizes evidence and accuracy over personal biases. This distinction is crucial as it highlights the commitment to objective truth in truth-seeking.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Truth seeking often involves reflective thinking, where one deliberates on information critically before forming a belief. This contrasts with reactive thinking, which is more immediate and less likely to scrutinize the validity of incoming data. Reflective thinking supports truth-seeking by allowing individuals to evaluate evidence thoroughly.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> While intrinsic motivation drives a genuine interest in seeking truth for its own sake, extrinsic motivations might push one towards conclusions that align with external rewards or pressures. Truth seekers are intrinsically motivated to pursue accuracy regardless of external incentives.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Truth-seeking is solely about finding facts.
+>
+> This misconception overlooks the critical evaluation and questioning aspect of truth seeking. It involves not just discovering facts but also challenging them to ensure accuracy, which requires a deeper cognitive engagement than mere fact-finding.
 
 ## Open Questions
 
@@ -114,6 +132,9 @@ Theoretical roots of this concept can be traced back to philosophers like Plato 
 
 The concept of Truth Seeking Disposition is crucial for intellectual integrity as it underpins a commitment to honesty and rigor in one's beliefs. By prioritizing truth, individuals contribute to the collective pursuit of knowledge and understanding, fostering progress across various domains.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+The truth-seeking disposition is pivotal for maintaining intellectual virtues as it encourages a relentless commitment to accuracy, thereby enhancing the reliability and validity of personal and collective knowledge.
+
 ## Evidence
 
 A key claim about Truth Seeking Disposition highlights its role in reordering an individual’s incentive structure towards accuracy over social approval or personal comfort. This trait is essential for maintaining intellectual virtues as stable rather than situational behaviors.
@@ -127,3 +148,13 @@ A key claim about Truth Seeking Disposition highlights its role in reordering an
 **Supports:** [[Intellectual Integrity]]
 
 **Source:** [[truth-seeking-disposition-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Inquisitiveness as Disposition]]** — *contrasts-with*
+> While inquisitiveness drives curiosity and the desire to learn, it does not necessarily prioritize accuracy over other considerations. Truth seeking, however, specifically emphasizes a commitment to truth even when inconvenient.
+
+> [!connection] **[[Intellectual Integrity]]** — *supports*
+> Truth-seeking supports intellectual integrity by fostering honesty and rigor in one's beliefs. This alignment ensures that individuals adhere to ethical standards of inquiry and maintain credibility in their pursuit of knowledge.

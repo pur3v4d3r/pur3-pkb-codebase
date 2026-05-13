@@ -1,12 +1,11 @@
 ---
-title: "Epistemic Cowardice"
+title: Epistemic Cowardice
 aliases:
-  - "Epistemic Cowardice"
-  - "intellectual cowardice"
+  - Epistemic Cowardice
+  - intellectual cowardice
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - vice-epistemology
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "epistemic-cowardice-synthetic-seed-2026-05-12"
+  - epistemic-cowardice-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Epistemic Vices"
-
+depth-level: enhanced
+parent-concept: Epistemic Vices
 related:
-  - "[[Intellectual Courage]]"
-  - "[[Fair Mindedness]]"
+  - '[[Intellectual Courage]]'
+  - '[[Fair Mindedness]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Intellectual Courage]]"
+  - '[[Intellectual Courage]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Fair Mindedness]]"
+  - '[[Fair Mindedness]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Epistemic Cowardice
 
@@ -84,6 +83,9 @@ The core mechanism behind Epistemic Cowardice is the influence of audience press
 
 Theoretical roots of Epistemic Cowardice are found within epistemology, where it is recognized as a failure in avowal rather than belief. This distinction highlights that individuals may possess accurate knowledge yet fail to express it due to external pressures, thus compromising intellectual honesty and the pursuit of truth.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Epistemic Cowardice often manifests in subtle ways that can be difficult to identify, such as when individuals use ambiguous language or avoid direct confrontation of opposing viewpoints. This behavior not only undermines the clarity and strength of their arguments but also sets a precedent for others to follow suit, creating an environment where truth is compromised in favor of social harmony.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Academic Research**
@@ -92,10 +94,28 @@ Theoretical roots of Epistemic Cowardice are found within epistemology, where it
 > [!example] **Application 2 — Professional Settings**
 > In professional settings, individuals may withhold critical feedback on projects or proposals out of concern for damaging relationships or jeopardizing their position within an organization. Such silence can lead to poor decision-making and missed opportunities for improvement.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!example] **Application 3 — Academic Peer Review**
+> In academic peer review, Epistemic Cowardice can lead reviewers to soften their critiques or avoid pointing out significant flaws in a manuscript due to fear of retaliation from the author. This results in less rigorous and thorough reviews, potentially allowing subpar research to be published.
+
 ## Key Distinctions
 
 > [!key-distinction] **Epistemic Cowardice vs Intellectual Courage**
 > While Epistemic Cowardice involves withholding well-supported beliefs due to fear, Intellectual Courage entails standing firm in one's convictions despite potential personal costs. Distinguishing between the two is crucial for fostering an environment where truth and integrity are prioritized over social or professional comfort.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration and evaluation of one's beliefs and actions, whereas reactive thinking is an immediate response without deep reflection. Epistemic Cowardice often stems from reactive thinking where individuals quickly yield to social pressures rather than taking the time to reflect on their well-supported beliefs.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Epistemic Cowardice is simply a form of intellectual dishonesty.
+>
+> While Epistemic Cowardice involves withholding or softening one's views, it specifically refers to the avowal of beliefs rather than their formation. Individuals with this vice may hold accurate knowledge but fail to express it due to external pressures, distinguishing it from outright deception.
 
 ## Open Questions
 
@@ -103,6 +123,13 @@ Theoretical roots of Epistemic Cowardice are found within epistemology, where it
 > How does Epistemic Cowardice affect the quality of public discourse?
 >
 > *What would resolve it:* Empirical studies examining the prevalence and impact of Epistemic Cowardice in various forums could provide insights into how it distorts information and hinders productive dialogue.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How does the prevalence of Epistemic Cowardice vary across different cultural contexts?
+>
+> *What would resolve it:* Cross-cultural studies examining the frequency and impact of Epistemic Cowardice in various societal settings could provide insights into how social norms influence intellectual honesty.
 
 ## Synthesis
 
@@ -117,3 +144,10 @@ Understanding Epistemic Cowardice is crucial for fostering intellectual integrit
 **Supports:** [[Fair Mindedness]]
 
 **Source:** [[epistemic-cowardice-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Intellectual Courage]]** — *contrasts-with*
+> Epistemic Cowardice and Intellectual Courage are contrasting concepts within epistemology. While Epistemic Cowardice involves withholding well-supported beliefs due to fear, Intellectual Courage entails standing firm in one's convictions despite potential personal costs. Understanding this contrast is crucial for fostering an environment where truth and integrity are prioritized over social or professional comfort.

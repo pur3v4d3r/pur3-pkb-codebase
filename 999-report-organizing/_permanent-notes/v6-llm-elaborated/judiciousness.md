@@ -1,13 +1,12 @@
 ---
-title: "Judiciousness"
+title: Judiciousness
 aliases:
-  - "Judiciousness"
-  - "practical wisdom in inquiry"
-  - "judicious disposition"
+  - Judiciousness
+  - practical wisdom in inquiry
+  - judicious disposition
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,58 +18,58 @@ subdomains:
   - decision-making
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "judiciousness-synthetic-seed-2026-05-12"
+  - judiciousness-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[Fair Mindedness]]"
-  - "[[Intellectual Humility]]"
-  - "[[Systematicity As Disposition]]"
+  - '[[Fair Mindedness]]'
+  - '[[Intellectual Humility]]'
+  - '[[Systematicity As Disposition]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Fair Mindedness]]"
-  - "[[Intellectual Humility]]"
-  - "[[Systematicity As Disposition]]"
+  - '[[Fair Mindedness]]'
+  - '[[Intellectual Humility]]'
+  - '[[Systematicity As Disposition]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Judiciousness
 
@@ -90,6 +89,9 @@ In practice, judiciousness manifests in various scenarios where individuals must
 
 Judiciousness also plays a critical role in personal life, helping individuals manage relationships and navigate ethical dilemmas by considering multiple perspectives and potential outcomes. By fostering an environment where all relevant factors are considered, judiciousness promotes fairness and reduces the likelihood of biased or hasty decisions.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Judiciousness is not merely a passive trait but an active process that involves continuous self-reflection and adjustment. Individuals who exhibit judiciousness regularly assess their decision-making processes, identifying areas where they may have overemphasized certain factors at the expense of others. This reflective practice helps them refine their approach to ensure future judgments are more balanced.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -103,6 +105,19 @@ Judiciousness also plays a critical role in personal life, helping individuals m
 > [!key-distinction] **Judiciousness vs Risk-Aversion**
 > While risk-aversion focuses on minimizing potential losses by avoiding risky decisions, judiciousness involves a more nuanced approach that considers all relevant factors to make balanced judgments. This distinction is crucial because treating judiciousness as mere risk-aversion can lead to overly cautious or indecisive behavior, which may not always be appropriate.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Judiciousness relies heavily on reflective thinking, which involves deliberate consideration and evaluation of information before making a decision. In contrast, reactive thinking is characterized by immediate responses without thorough deliberation. The distinction between these two types of thinking highlights why judiciousness requires time for thoughtful analysis rather than impulsive action.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Judiciousness means always making the safest choice.
+>
+> This misconception arises from conflating judiciousness with risk-aversion. While both involve careful consideration, judiciousness is about balancing all relevant factors to make well-rounded decisions, not just avoiding risks at all costs.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -114,6 +129,13 @@ Judiciousness also plays a critical role in personal life, helping individuals m
 > What are the cognitive biases that hinder judiciousness?
 >
 > *What would resolve it:* Identifying and understanding common cognitive biases that skew judgments towards certain factors can help in developing strategies to mitigate their impact on decision-making processes.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How does cultural context influence the development of judiciousness?
+>
+> *What would resolve it:* Research into how different cultures value and teach decision-making skills could provide insights into culturally-specific factors that either enhance or hinder the development of judiciousness.
 
 ## Synthesis
 
@@ -130,3 +152,10 @@ The key claim about judiciousness highlights its role in preventing virtues from
 **Supports:** [[Fair Mindedness]] · [[Intellectual Humility]] · [[Systematicity As Disposition]]
 
 **Source:** [[judiciousness-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Systematicity As Disposition]]** — *supports*
+> Judiciousness and systematicity as disposition are closely linked because both involve a structured approach to decision-making. Systematicity ensures that all relevant factors are considered in an organized manner, which is essential for judiciousness to render balanced judgments.

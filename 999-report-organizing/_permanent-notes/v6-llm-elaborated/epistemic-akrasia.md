@@ -1,13 +1,12 @@
 ---
-title: "Epistemic Akrasia"
+title: Epistemic Akrasia
 aliases:
-  - "Epistemic Akrasia"
-  - "epistemic weakness of will"
-  - "doxastic akrasia"
+  - Epistemic Akrasia
+  - epistemic weakness of will
+  - doxastic akrasia
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - virtue-epistemology
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "epistemic-akrasia-synthetic-seed-2026-05-12"
+  - epistemic-akrasia-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Epistemology"
-
+depth-level: enhanced
+parent-concept: Epistemology
 related:
-  - "[[Epistemic Humility]]"
-  - "[[Epistemic Responsibility]]"
+  - '[[Epistemic Humility]]'
+  - '[[Epistemic Responsibility]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Epistemic Humility]]"
+  - '[[Epistemic Humility]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Epistemic Responsibility]]"
+  - '[[Epistemic Responsibility]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Epistemic Akrasia
 
@@ -87,6 +86,9 @@ In practice, Epistemic Akrasia can manifest in various scenarios where individua
 
 Despite its theoretical importance, Epistemic Akrasia faces skepticism from some quarters who argue that the concept itself is incoherent. However, dismissing this possibility a priori without considering empirical evidence or introspective accounts overlooks potential insights into human cognition.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Epistemic Akrasia can be further understood through the lens of cognitive load theory, which posits that individuals have limited mental resources for processing information. When faced with complex epistemic tasks, such as evaluating evidence and updating beliefs, these limitations may lead to a failure in aligning reflective judgements with actual belief formation. This perspective suggests that even when an individual recognizes the need to hold a certain belief, cognitive overload can prevent them from successfully integrating this knowledge into their belief system.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -95,10 +97,28 @@ Despite its theoretical importance, Epistemic Akrasia faces skepticism from some
 > [!example] **Application 2 — Decision-making in organizations**
 > Epistemic Akrasia has significant implications for organizational decision-making processes. Recognizing that individuals within an organization may know they should consider certain information but fail to do so can lead to better-designed systems of accountability and knowledge management.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), spaced retrieval techniques are used to enhance long-term retention of information. However, even with optimal spacing and reinforcement schedules, students may still exhibit Epistemic Akrasia by failing to integrate new knowledge into their belief systems despite recognizing its importance. This highlights the need for instructional strategies that not only facilitate memory but also address motivational and cognitive barriers to belief formation.
+
 ## Key Distinctions
 
 > [!key-distinction] **Epistemic Akrasia vs other forms of irrationality**
 > While Epistemic Akrasia involves a disconnect between reflective judgement and belief formation, it is distinct from other forms of irrationality or cognitive biases that may lead to false beliefs. Unlike these biases, which often result in erroneous first-order beliefs, Epistemic Akrasia specifically addresses the failure to act on one's own epistemic standards.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of beliefs, whereas reactive thinking is an immediate response without conscious deliberation. Epistemic Akrasia often manifests when individuals engage in reflective thinking about what they should believe but revert to reactive thinking that aligns with pre-existing beliefs or emotional responses. This distinction underscores the importance of fostering environments and practices that encourage sustained reflection over impulsive reactions.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Epistemic Akrasia is simply a form of cognitive bias.
+>
+> While Epistemic Akrasia can involve biases, it specifically addresses the disconnect between reflective judgements and actual belief formation. Unlike typical cognitive biases that lead to erroneous first-order beliefs, Epistemic Akrasia focuses on the failure to act on one's own epistemic standards despite recognizing their validity.
 
 ## Open Questions
 
@@ -111,6 +131,13 @@ Despite its theoretical importance, Epistemic Akrasia faces skepticism from some
 > What are the underlying causes of Epistemic Akrasia?
 >
 > *What would resolve it:* Research into psychological, social, and motivational factors that contribute to the failure to act on one's epistemic standards would help elucidate the causes of Epistemic Akrasia.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How do social influences impact the occurrence of Epistemic Akrasia?
+>
+> *What would resolve it:* Empirical studies examining how peer pressure, groupthink, or cultural norms affect individuals' ability to align their beliefs with reflective judgements would provide valuable insights into the role of social factors in Epistemic Akrasia.
 
 ## Synthesis
 
@@ -125,3 +152,10 @@ Understanding Epistemic Akrasia is crucial for advancing our knowledge in episte
 **Supports:** [[Epistemic Responsibility]]
 
 **Source:** [[epistemic-akrasia-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Epistemic Responsibility]]** — *supports*
+> Understanding and addressing Epistemic Akrasia is crucial for promoting Epistemic Responsibility, as it highlights the importance of aligning one's beliefs with reflective judgements. By recognizing instances where individuals fail to act on their epistemic standards, educators and organizations can develop strategies that enhance accountability and foster a culture of responsible belief formation.

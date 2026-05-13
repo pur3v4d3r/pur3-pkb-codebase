@@ -1,13 +1,12 @@
 ---
-title: "No True Scotsman Fallacy"
+title: No True Scotsman Fallacy
 aliases:
-  - "No True Scotsman Fallacy"
-  - "no true scotsman"
-  - "ad hoc redefinition"
+  - No True Scotsman Fallacy
+  - no true scotsman
+  - ad hoc redefinition
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,57 +19,57 @@ subdomains:
   - definitions
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "no-true-scotsman-fallacy-synthetic-seed-2026-05-12"
+  - no-true-scotsman-fallacy-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Informal Fallacies"
-
+depth-level: enhanced
+parent-concept: Informal Fallacies
 related:
-  - "[[Equivocation Fallacy]]"
-  - "[[Motte and Bailey Fallacy]]"
-  - "[[Informal Fallacies]]"
+  - '[[Equivocation Fallacy]]'
+  - '[[Motte and Bailey Fallacy]]'
+  - '[[Informal Fallacies]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Equivocation Fallacy]]"
-  - "[[Motte and Bailey Fallacy]]"
+  - '[[Equivocation Fallacy]]'
+  - '[[Motte and Bailey Fallacy]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[Informal Fallacies]]"
+  - '[[Informal Fallacies]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # No True Scotsman Fallacy
 
@@ -90,6 +89,11 @@ Theoretical roots of this fallacy lie in the nature of definitions and how they 
 
 In practice, this fallacy can manifest in various contexts, from philosophical debates to everyday conversations. Its prevalence underscores the human tendency to defend cherished beliefs or identities against contradictory evidence by manipulating language rather than engaging with substantive critique.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+The fallacy often arises in contexts where individuals feel a strong emotional or ideological investment in their beliefs, leading them to prioritize the preservation of those beliefs over the pursuit of truth. This psychological phenomenon can be understood through the lens of cognitive dissonance theory, which posits that people experience discomfort when holding contradictory beliefs and are motivated to reduce this dissonance by altering one of the beliefs.
+
+In social contexts, the No True Scotsman Fallacy can also serve as a form of groupthink, where individuals within a collective reify their shared identity or ideology through ad hoc definitions. This behavior reinforces in-group cohesion but may lead to intellectual stagnation and resistance to external critique.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -105,6 +109,22 @@ In practice, this fallacy can manifest in various contexts, from philosophical d
 
 > [!key-distinction] **Ad hoc redefinition vs legitimate clarification**
 > Legitimate clarification aims to refine definitions for clarity and consistency within a discussion, whereas ad hoc redefinition is used defensively to dismiss counterexamples. The key difference lies in the timing and intent: legitimate clarification precedes or accompanies the argument, while ad hoc redefinitions occur specifically in response to challenges.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of arguments, whereas reactive thinking is an immediate response without deep analysis. The No True Scotsman Fallacy often manifests as a reactive thought process where individuals quickly redefine terms to dismiss counterexamples rather than engaging in reflective deliberation that would address the substance of the critique.
+
+> [!key-distinction] **Intrinsic vs Extrinsic Motivation**
+> Individuals motivated intrinsically by personal interest or enjoyment are less likely to engage in the No True Scotsman Fallacy compared to those driven extrinsically by external rewards or pressures. Intrinsic motivation fosters a genuine curiosity and openness to new information, reducing the likelihood of dismissing counterexamples through ad hoc redefinition.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People think that any change in definition during an argument constitutes the No True Scotsman Fallacy.
+>
+> This misconception arises from a misunderstanding of the fallacy's specific mechanism. While changing definitions mid-argument can be problematic, it only qualifies as the No True Scotsman Fallacy if the redefinition is used to dismiss counterexamples rather than for legitimate clarification or refinement.
 
 ## Open Questions
 
@@ -122,6 +142,9 @@ In practice, this fallacy can manifest in various contexts, from philosophical d
 
 Understanding the No True Scotsman Fallacy is crucial for critical thinking as it highlights how definitions can be manipulated to avoid addressing substantive issues. By recognizing this fallacy, individuals can engage in more rigorous and ethical argumentation, fostering a culture of honest debate and constructive dialogue.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Understanding and recognizing the No True Scotsman Fallacy is crucial for fostering a culture of rigorous, ethical debate where individuals are encouraged to engage with counterexamples rather than dismiss them through definitional manipulation. This awareness promotes intellectual honesty and facilitates more productive discussions across various domains.
+
 ## Connections & Context
 
 **Falls under:** [[Informal Fallacies]]
@@ -131,3 +154,13 @@ Understanding the No True Scotsman Fallacy is crucial for critical thinking as i
 **Instance of:** [[Informal Fallacies]]
 
 **Source:** [[no-true-scotsman-fallacy-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Motte and Bailey Fallacy]]** — *contrasts-with*
+> Both fallacies involve manipulation of definitions, but they serve different purposes. The No True Scotsman Fallacy is used defensively to dismiss counterexamples by redefining terms, whereas the Motte and Bailey Fallacy involves shifting between a defensible 'mote' position and an indefensible 'bailey' one during argumentation.
+
+> [!connection] **[[Informal Fallacies]]** — *instance-of*
+> The No True Scotsman Fallacy is a specific instance of informal fallacies, which are errors in reasoning that occur at the level of content rather than form. It exemplifies how informal fallacies can undermine logical argumentation by manipulating definitions to avoid addressing substantive issues.

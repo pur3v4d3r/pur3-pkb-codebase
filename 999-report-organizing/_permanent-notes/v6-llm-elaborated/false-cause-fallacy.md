@@ -1,14 +1,13 @@
 ---
-title: "False Cause Fallacy"
+title: False Cause Fallacy
 aliases:
-  - "False Cause Fallacy"
-  - "non causa pro causa"
-  - "post hoc ergo propter hoc"
-  - "causal fallacy"
+  - False Cause Fallacy
+  - non causa pro causa
+  - post hoc ergo propter hoc
+  - causal fallacy
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,56 @@ subdomains:
   - scientific-reasoning
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "false-cause-fallacy-synthetic-seed-2026-05-12"
+  - false-cause-fallacy-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Informal Fallacies"
-
+depth-level: enhanced
+parent-concept: Informal Fallacies
 related:
-  - "[[Hasty Generalization]]"
-  - "[[Neglect of Probability]]"
+  - '[[Hasty Generalization]]'
+  - '[[Neglect of Probability]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Hasty Generalization]]"
-  - "[[Neglect of Probability]]"
+  - '[[Hasty Generalization]]'
+  - '[[Neglect of Probability]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # False Cause Fallacy
 
@@ -89,6 +88,9 @@ The theoretical roots of this fallacy lie in cognitive biases and heuristics tha
 
 Empirically, studies in cognitive psychology have shown that people are prone to this fallacy due to their natural inclination towards pattern recognition and causal attribution. This tendency can be exacerbated by confirmation bias, where individuals seek out or interpret information in a way that confirms pre-existing beliefs.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+The False Cause Fallacy is particularly insidious in scientific research, where it can lead to erroneous conclusions that misdirect further inquiry and resource allocation. For example, early studies on the relationship between smoking and lung cancer initially faced skepticism due to the false cause fallacy — critics argued that other factors like genetics or lifestyle choices could be responsible for the observed correlation without considering the robust evidence linking smoking directly to increased risk of lung cancer.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -97,10 +99,28 @@ Empirically, studies in cognitive psychology have shown that people are prone to
 > [!example] **Application 2 — Policy making**
 > In policy-making contexts, the False Cause Fallacy can result in misguided interventions based on superficial correlations rather than genuine causal relationships. For instance, if a government observes a decrease in crime rates following an increase in police patrols, it might erroneously conclude that more patrols directly reduce crime without considering other contributing factors like economic conditions or community programs.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!example] **Application 3 — Spaced retrieval in MOOCs**
+> In Massive Open Online Courses (MOOCs), instructors often observe higher engagement and better performance among students who participate in spaced retrieval activities, such as regular quizzes. However, attributing improved learning outcomes solely to these activities without controlling for other variables can lead to the False Cause Fallacy. For instance, students might perform better simply because they are more motivated or have prior knowledge that aids their recall.
+
 ## Key Distinctions
 
 > [!key-distinction] **Correlation vs Causation**
 > Understanding the distinction between correlation and causation is crucial for avoiding the False Cause Fallacy. While correlations can indicate potential causal relationships, they do not prove causation. For example, a study might find that ice cream sales correlate with drowning incidents but this does not mean eating ice cream causes drowning. Proper investigation into underlying factors is necessary to establish true causality.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate analysis and evaluation of information to form reasoned judgments, whereas reactive thinking relies on immediate responses based on intuitive patterns. The False Cause Fallacy often arises from reactive thinking, where individuals quickly attribute causation based on temporal succession or correlation without deeper reflection. Understanding this distinction can help mitigate the fallacy by encouraging more reflective approaches to causal reasoning.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People think that if two events are correlated, one must cause the other.
+>
+> This misconception stems from a misunderstanding of correlation and causation. While correlations can suggest potential causal relationships, they do not prove causation. For example, observing that ice cream sales correlate with drowning incidents does not mean eating ice cream causes drowning; both might be influenced by a third factor like hot weather. Proper investigation is necessary to establish true causality.
 
 ## Open Questions
 
@@ -113,6 +133,13 @@ Empirically, studies in cognitive psychology have shown that people are prone to
 > What are the psychological mechanisms that lead to the False Cause Fallacy?
 >
 > *What would resolve it:* Research into cognitive biases and heuristics, particularly those related to pattern recognition and causal attribution, would help elucidate these underlying mechanisms.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How does the False Cause Fallacy interact with confirmation bias?
+>
+> *What would resolve it:* Research into cognitive biases could provide insights into how confirmation bias exacerbates the False Cause Fallacy by leading individuals to seek out or interpret information in a way that confirms pre-existing beliefs about causation, even when evidence is lacking.
 
 ## Synthesis
 
@@ -127,3 +154,10 @@ This concept intersects with other informal logical fallacies such as Hasty Gene
 **Sibling concepts:** [[Hasty Generalization]] · [[Neglect of Probability]]
 
 **Source:** [[false-cause-fallacy-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Neglect of Probability]]** — *contrasts-with*
+> The False Cause Fallacy and Neglect of Probability both involve errors in causal reasoning, but they differ in their specific mechanisms. While the False Cause Fallacy involves incorrectly inferring causation from correlation or temporal succession, Neglect of Probability overlooks the role of chance and probability in events. Understanding these differences helps learners recognize when to consider probabilistic factors versus when to scrutinize potential causal relationships.

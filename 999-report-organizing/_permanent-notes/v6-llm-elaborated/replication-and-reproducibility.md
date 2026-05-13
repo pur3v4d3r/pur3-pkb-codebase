@@ -1,13 +1,12 @@
 ---
-title: "Replication And Reproducibility"
+title: Replication And Reproducibility
 aliases:
-  - "Replication And Reproducibility"
-  - "reproducibility"
-  - "replicability"
+  - Replication And Reproducibility
+  - reproducibility
+  - replicability
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,55 @@ subdomains:
   - statistics
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "replication-and-reproducibility-synthetic-seed-2026-05-12"
+  - replication-and-reproducibility-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Scientific Methodology"
-
+depth-level: enhanced
+parent-concept: Scientific Methodology
 related:
-  - "[[Operationalization]]"
-  - "[[Null Hypothesis]]"
+  - '[[Operationalization]]'
+  - '[[Null Hypothesis]]'
 prerequisites:
-  - "[[Operationalization]]"
+  - '[[Operationalization]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Null Hypothesis]]"
+  - '[[Null Hypothesis]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Replication And Reproducibility
 
@@ -86,6 +85,9 @@ The replication crisis has highlighted significant challenges within various sci
 
 At its core, replication involves obtaining similar results using new data sets, while reproducibility focuses on achieving identical outcomes from the original data and methods. Both practices are essential for validating scientific claims and ensuring that knowledge is built upon a solid foundation of evidence.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+The replication crisis has not only highlighted methodological issues but also raised questions about the incentives and pressures within academic publishing that may discourage rigorous verification processes. For instance, journals often prioritize novel findings over confirmatory studies, which can skew the publication landscape towards positive results regardless of their replicability.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -98,6 +100,19 @@ At its core, replication involves obtaining similar results using new data sets,
 
 > [!key-distinction] **Replication vs Reproducibility**
 > While replication involves obtaining similar results using new data sets, reproducibility focuses on achieving identical outcomes from the original data and methods. Understanding this distinction is vital for researchers to accurately interpret their findings and ensure that scientific knowledge is built upon a solid foundation of evidence.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Type I vs Type II Error in Replication and Reproducibility**
+> Understanding Type I (false positive) and Type II (false negative) errors is crucial for replication and reproducibility. A false positive can lead to the acceptance of a non-existent effect, while a false negative might dismiss an actual effect. Both types of errors underscore the importance of robust statistical power and appropriate sample sizes in ensuring that findings are both replicable and reproducible.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People think replication is just about repeating a study to see if it works again.
+>
+> Replication involves more than mere repetition; it requires independent researchers using different data sets or methodologies to verify the original findings. This process helps ensure that results are not due to specific conditions of the initial study but are robust across various contexts.
 
 ## Key Figures
 
@@ -115,11 +130,21 @@ At its core, replication involves obtaining similar results using new data sets,
 >
 > *What would resolve it:* Developing innovative methodologies such as pre-registration of study designs, open data sharing platforms, and standardized reporting guidelines would likely enhance replicability and reproducibility. Evidence showing the effectiveness of these approaches in improving scientific rigor would resolve this question.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How can academic incentives be restructured to better support replication studies?
+>
+> *What would resolve it:* Evidence showing that journals and funding bodies prioritize and reward replication research could shift the focus towards a more balanced approach, valuing both novel findings and confirmatory evidence equally.
+
 ## Synthesis
 
 Replication and reproducibility are essential for maintaining scientific integrity and advancing knowledge reliably. By ensuring that findings can be independently verified, these principles help to filter out chance occurrences and errors, thereby building a robust body of evidence across various fields.
 
 In the context of related concepts such as null hypothesis testing and operationalization, replication and reproducibility provide critical checks on the validity of scientific claims, contributing to the overall reliability and credibility of scientific research.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+By integrating rigorous verification processes into scientific practice, replication and reproducibility not only enhance the reliability of individual studies but also contribute to the broader goal of building a robust and trustworthy body of knowledge across disciplines. This integration is essential for maintaining public trust in scientific research.
 
 ## Connections & Context
 
@@ -130,3 +155,10 @@ In the context of related concepts such as null hypothesis testing and operation
 **Applies to:** [[Null Hypothesis]]
 
 **Source:** [[replication-and-reproducibility-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Null Hypothesis]]** — *applies-to*
+> Replication and reproducibility apply directly to null hypothesis testing by providing a means to verify the reliability of rejecting or failing to reject the null hypothesis. Ensuring that findings are replicable and reproducible strengthens confidence in statistical conclusions drawn from data.

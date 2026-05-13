@@ -1,12 +1,11 @@
 ---
-title: "Epistemic Internalism"
+title: Epistemic Internalism
 aliases:
-  - "Epistemic Internalism"
-  - "internalism about justification"
+  - Epistemic Internalism
+  - internalism about justification
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - justification-theory
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "epistemic-internalism-synthetic-seed-2026-05-12"
+  - epistemic-internalism-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Theories of Justification"
-
+depth-level: enhanced
+parent-concept: Theories of Justification
 related:
-  - "[[Epistemic Externalism]]"
-  - "[[Internalism vs Externalism Epistemology]]"
+  - '[[Epistemic Externalism]]'
+  - '[[Internalism vs Externalism Epistemology]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Epistemic Externalism]]"
+  - '[[Epistemic Externalism]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Internalism vs Externalism Epistemology]]"
+  - '[[Internalism vs Externalism Epistemology]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Epistemic Internalism
 
@@ -86,6 +85,9 @@ Theoretical roots of epistemic internalism trace back to foundational debates in
 
 While epistemic internalism emphasizes reflective access and introspective assessment of beliefs, it does not require infallible self-knowledge or perfect transparency about one's mental states. Many internalist positions acknowledge that there can be limitations in how accurately individuals perceive their own cognitive processes.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Epistemic internalism's emphasis on introspective access has significant implications for epistemological debates about self-knowledge and the nature of justification. It suggests that individuals have a direct line to their own mental states, which they can use to assess the validity of their beliefs. However, this view faces challenges from both philosophical critiques and empirical findings in cognitive science, which suggest that introspection may not always be reliable or accurate.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -98,6 +100,19 @@ While epistemic internalism emphasizes reflective access and introspective asses
 
 > [!key-distinction] **Internal vs External Factors**
 > Epistemic internalism distinguishes itself from externalism by focusing solely on internal mental states for justification, whereas epistemological externalists include environmental and social influences. This distinction is crucial as it shapes how one assesses the validity of beliefs.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of one's beliefs and reasons for holding them, aligning closely with epistemic internalism. In contrast, reactive thinking is more immediate and less reflective, often driven by automatic processes or habitual responses. This distinction highlights the internalist emphasis on conscious reflection over unconscious reactions in justifying beliefs.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Epistemic internalism implies that all introspective judgments are infallible.
+>
+> While epistemic internalism relies heavily on introspection, it does not claim that such judgments are always correct or infallible. Philosophers like Alvin Goldman have pointed out the limitations of self-knowledge and the potential for introspective errors.
 
 ## Key Figures
 
@@ -115,9 +130,19 @@ While epistemic internalism emphasizes reflective access and introspective asses
 >
 > *What would resolve it:* Philosophical arguments and empirical research exploring the nature of introspective errors could help refine internalist theories to better account for these issues.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How does the reliability of introspective access vary across different types of beliefs?
+>
+> *What would resolve it:* Empirical studies examining the accuracy of introspection in various contexts could provide insights into how reliable introspective judgments are for justifying different kinds of beliefs.
+
 ## Synthesis
 
 Epistemic Internalism is significant within theories of justification as it underscores the importance of personal accountability in belief formation. By focusing on introspective access, it challenges individuals to critically evaluate their beliefs and justifications, fostering a deeper understanding of knowledge and belief.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+Epistemic internalism thus positions itself as a robust framework for understanding personal accountability in belief formation, while also acknowledging the complexities and limitations inherent in introspective processes. This nuanced view challenges individuals to critically engage with their own cognitive states without assuming infallibility or perfect transparency.
 
 ## Evidence
 
@@ -132,3 +157,10 @@ Supporting callouts highlight that epistemic internalism preserves the intuition
 **Applies to:** [[Internalism vs Externalism Epistemology]]
 
 **Source:** [[epistemic-internalism-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Internalism vs Externalism Epistemology]]** — *applies-to*
+> Epistemic internalism is a specific instance within the broader debate of internalism versus externalism in epistemology. It applies this distinction to theories of justification, focusing on whether justificatory factors are accessible through introspection or can include external elements like environmental conditions and social influences.

@@ -1,12 +1,11 @@
 ---
-title: "Intellectual Integrity"
+title: Intellectual Integrity
 aliases:
-  - "Intellectual Integrity"
-  - "epistemic integrity"
+  - Intellectual Integrity
+  - epistemic integrity
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -18,55 +17,55 @@ subdomains:
   - ethics
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "intellectual-integrity-synthetic-seed-2026-05-12"
+  - intellectual-integrity-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[Intellectual Courage]]"
-  - "[[Epistemic Responsibility]]"
+  - '[[Intellectual Courage]]'
+  - '[[Epistemic Responsibility]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Intellectual Courage]]"
+  - '[[Intellectual Courage]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Epistemic Responsibility]]"
+  - '[[Epistemic Responsibility]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Intellectual Integrity
 
@@ -86,6 +85,9 @@ The theoretical roots of Intellectual Integrity lie in the principles of epistem
 
 While Intellectual Integrity is often discussed as an ideal, its practical application can be challenging. Thinkers who treat it as a settled identity may overlook their own inconsistencies because they believe they already possess intellectual honesty. This pitfall underscores the importance of viewing Intellectual Integrity as a continuous practice that requires ongoing effort and vigilance.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Intellectual Integrity also plays a crucial role in interdisciplinary research, where scholars from different fields must navigate diverse epistemological frameworks and methodologies. This requires not just an openness to new ideas but a commitment to evaluating these ideas against established standards of evidence within each discipline. By fostering Intellectual Integrity across disciplines, researchers can bridge gaps in understanding and promote more comprehensive knowledge synthesis.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Academic Research**
@@ -94,6 +96,11 @@ While Intellectual Integrity is often discussed as an ideal, its practical appli
 > [!example] **Application 2 — Public Discourse**
 > In public discourse, Intellectual Integrity is crucial for fostering informed debate. Participants must be willing to acknowledge their own limitations and biases, ensuring that discussions remain grounded in facts rather than personal opinions or preconceived notions. This approach promotes a more productive and respectful exchange of ideas.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!example] **Application 3 — Peer review in academic journals**
+> In the context of peer review for academic journals, Intellectual Integrity ensures that reviewers critically assess submitted papers not only for their adherence to methodological rigor but also for any potential biases or inconsistencies. This practice helps maintain high standards of scholarship and prevents the publication of flawed research.
+
 ## Key Distinctions
 
 > [!key-distinction] **Intellectual Integrity vs Intellectual Courage**
@@ -101,6 +108,19 @@ While Intellectual Integrity is often discussed as an ideal, its practical appli
 
 > [!key-distinction] **Intellectual Integrity vs Epistemic Responsibility**
 > Intellectual Integrity supports the broader concept of epistemic responsibility by ensuring that beliefs and arguments are well-supported by evidence. However, while epistemic responsibility encompasses a wider range of ethical considerations in knowledge acquisition, Intellectual Integrity specifically emphasizes consistency and transparency in reasoning.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking, which involves deliberate evaluation and adjustment of one's beliefs based on evidence, contrasts with reactive thinking, where responses are immediate and less scrutinized. Intellectual Integrity relies heavily on reflective thinking to ensure that reasoning is consistent and well-supported by evidence.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People often believe that intellectual integrity means always being right.
+>
+> This misconception arises from a misunderstanding of the core principle. Intellectual Integrity does not guarantee correctness but rather involves maintaining consistent standards of evidence and acknowledging inconsistencies or weaknesses in one's reasoning.
 
 ## Open Questions
 
@@ -113,6 +133,13 @@ While Intellectual Integrity is often discussed as an ideal, its practical appli
 > What strategies can be employed to detect and address inconsistencies in one’s own reasoning?
 >
 > *What would resolve it:* Developing tools or frameworks that help individuals systematically evaluate their beliefs against evidence would aid in identifying and correcting inconsistencies.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How does Intellectual Integrity influence the way individuals perceive and respond to conflicting evidence?
+>
+> *What would resolve it:* Research on cognitive biases and strategies for self-reflection could provide insights into how individuals with high levels of Intellectual Integrity are more likely to engage in constructive dialogue and adjust their beliefs when confronted with contradictory information.
 
 ## Synthesis
 
@@ -131,3 +158,10 @@ Key to Intellectual Integrity is the commitment to apply the same rigorous scrut
 **Supports:** [[Epistemic Responsibility]]
 
 **Source:** [[intellectual-integrity-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Epistemic Responsibility]]** — *supports*
+> Intellectual Integrity supports Epistemic Responsibility by ensuring that beliefs are well-supported by evidence. This alignment is crucial because it reinforces the ethical duty to acquire and disseminate knowledge responsibly, thereby upholding standards of truthfulness and accountability.

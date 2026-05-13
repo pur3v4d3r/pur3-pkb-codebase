@@ -882,8 +882,13 @@ WOOP Framework
 Action Phase Model
 Volitional Control
 Volitional Control Vs Autonomous Motivation
-
-
+Designing Self-Directed Critical Thinking Curriculum
+Self-Directed Critical Thinking Design
+Critical Thinking and Metacognition
+Critical Thinking and Self-Regulated Learning
+Critical Thinking and Expertise Development
+Critical Thinking and Personal Knowledge Management
+Critical Thinking, as a Self-Directed Learning Goal
 
 
 
@@ -910,7 +915,7 @@ Goal Content Theory✅
 Organismic Integration Theory✅
 Basic Psychological Needs Theory✅
 Relationship Motivation Theory✅
-Causality Orientation Theory
+Causality Orientation Theory✅
 
 
 PKM for Research and Academic Work
@@ -1121,16 +1126,31 @@ Topics for Framework Synthesis Report Generator
 
 
 
+---
 
 
 
 
+Generate a report on: [Meaningful Learning Theory]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+Generate a report on: [Feedback in Learning (Hattie & Timperley Model)]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
 
 
+Generate a report on: [Metacognitive Monitoring]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
+
+
+---
 
 
 
@@ -1164,11 +1184,20 @@ Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md
 
 
 ---
+
+
+
+---
+
+Foundational
+Analytical Deep Dive
+Deep-Dive
+
 Generate a report on: [Paul Elder Framework]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
-Generate a report on: [Constructivism]
+Generate a report on: [Delphi-Concesus]
 Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
@@ -1177,51 +1206,47 @@ Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r
 Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
----
-
-
-
-
-
-
-
-Generate a report on: [Meaningful Learning Theory]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
-
-Generate a report on: [Feedback in Learning (Hattie & Timperley Model)]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
-
-
-
-Generate a report on: [Metacognitive Monitoring]
-Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
-Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
-
----
-
-
-
-
-
-
-
-
-
 
 
 
 ---
 
+Foundational✅
+Analytical Deep Dive
+Deep-Dive
+
+Generate a report on: [Designing Self-Directed Critical Thinking Curriculum]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
+Generate a report on: [Critical Thinking, as a Self-Directed Learning Goal]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
+Generate a report on: [Self-Directed Critical Thinking Design]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
+---
+
+Sythesis
+
+
+Generate a report on: [Critical Thinking and Personal Knowledge Management]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+Generate a report on: [Critical Thinking and Metacognition, and Self-Regulated Learning]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
+
+
+Generate a report on: [Critical Thinking and Expertise Development]
+Generate Report Here: [D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports]
+Wiki-links/Permanent Notes List Location: [D:\10_pur3v4d3r's-vault\wiki-links.md]
 
 
 

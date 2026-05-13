@@ -1,8 +1,8 @@
 # 📁 v6-llm-elaborated
 
-**Generated:** 2026-05-03T08:50:28.873Z
-**Generation time:** 10 ms
-**Items processed:** 992
+**Generated:** 2026-05-13T08:08:28.856Z
+**Generation time:** 8 ms
+**Items processed:** 1092
 
 ## Directory tree
 ```
@@ -10,6 +10,7 @@
 ──────────────────────────────────────────────────
 ├── 2x2-framework.md
 ├── 4e-cognition.md
+├── a-posteriori-knowledge.md
 ├── a-priori-knowledge.md
 ├── abductive-logic.md
 ├── abductive-reasoning.md
@@ -34,6 +35,7 @@
 ├── affect-heuristic.md
 ├── affect-labeling.md
 ├── affective-forecasting.md
+├── agrippa-trilemma.md
 ├── ai-assisted-development-workflows.md
 ├── alexithymia.md
 ├── amotivation.md
@@ -41,14 +43,23 @@
 ├── analogical-logic.md
 ├── analogical-mapping.md
 ├── analogical-reasoning.md
+├── analytic-synthetic-distinction.md
 ├── analytical-frameworks.md
 ├── anchoring-bias.md
 ├── andragogy.md
 ├── appeal-to-authority.md
+├── appeal-to-emotion.md
+├── appeal-to-ignorance.md
+├── appeal-to-nature.md
+├── appeal-to-tradition.md
 ├── approach-avoidance-motivation.md
 ├── arcs-motivation-model.md
 ├── argument-analysis.md
 ├── argument-from-analogy.md
+├── argument-from-silence.md
+├── argument-mapping.md
+├── argument-reconstruction.md
+├── argument-structure.md
 ├── assessment-as-the-completion-of-the-scaffolding-sovereignty-progression.md
 ├── assessment-design.md
 ├── assessment-for-autonomy.md
@@ -88,10 +99,12 @@
 ├── basic-psychological-needs.md
 ├── bayesian-brain.md
 ├── bayesian-reasoning.md
+├── begging-the-question.md
 ├── behavior-change-techniques.md
 ├── behavior-change-theory.md
 ├── behavioral-economics.md
 ├── behaviorism.md
+├── belief-bias.md
 ├── benefit-finding.md
 ├── bi-directional-linking.md
 ├── biological-primary-knowledge.md
@@ -104,6 +117,7 @@
 ├── breakpoint.md
 ├── broaden-and-build-theory.md
 ├── building-a-second-brain.md
+├── burden-of-proof.md
 ├── bystander-effect.md
 ├── calibration-adaptation-engine.md
 ├── calibration-vs-sensitivity-in-metacognitive-judgment.md
@@ -111,6 +125,7 @@
 ├── cargo-cult-coding.md
 ├── case-based-learning.md
 ├── case-based-reasoning.md
+├── categorical-syllogism.md
 ├── causal-attribution-in-motivation.md
 ├── causal-attribution.md
 ├── causal-loop-diagrams.md
@@ -125,6 +140,7 @@
 ├── classical-conditioning.md
 ├── client-server-architecture.md
 ├── code-editor.md
+├── cogent-argument.md
 ├── cognitive-apprenticeship.md
 ├── cognitive-architecture.md
 ├── cognitive-behavioral-therapy.md
@@ -153,8 +169,10 @@
 ├── cognitive-theories-of-learning.md
 ├── cognitive-theory-of-multimedia-learning.md
 ├── coherence-principle.md
+├── coherence-theory-of-truth.md
 ├── coherentism.md
 ├── collective-efficacy.md
+├── collective-epistemology.md
 ├── combinatorial-creativity.md
 ├── commonplace-book.md
 ├── communities-of-practice.md
@@ -171,6 +189,7 @@
 ├── conception-of-ability.md
 ├── conceptual-blending.md
 ├── conceptual-change.md
+├── conditional-reasoning.md
 ├── conditional-regard.md
 ├── confirmation-bias.md
 ├── conformity.md
@@ -181,6 +200,8 @@
 ├── constructivism.md
 ├── constructivist-learning-theory.md
 ├── context-dependent-memory.md
+├── contextualism-in-epistemology.md
+├── contrapositive.md
 ├── control-as-diagnostic-response-not-habitual-response.md
 ├── control-phase.md
 ├── control-value-theory.md
@@ -196,6 +217,7 @@
 ├── creative-problem-solving.md
 ├── creative-self-efficacy.md
 ├── critical-reasoning.md
+├── critical-thinking-dispositions-taxonomy.md
 ├── critical-thinking.md
 ├── cross-cultural-psychology.md
 ├── crystallized-intelligence.md
@@ -205,6 +227,7 @@
 ├── cultural-psychology.md
 ├── curiosity.md
 ├── curriculum-design.md
+├── curse-of-knowledge.md
 ├── cyclical-model-of-self-regulated-learning.md
 ├── debugging.md
 ├── decision-fatigue.md
@@ -217,9 +240,12 @@
 ├── deep-work.md
 ├── default-interventionist-architecture.md
 ├── default-mode-network.md
+├── defeater.md
+├── deflationary-theory-of-truth.md
 ├── deindividuation.md
 ├── deliberate-practice.md
 ├── delphi-report.md
+├── demarcation-problem.md
 ├── dependency-management.md
 ├── design-based-research.md
 ├── desirable-difficulties.md
@@ -276,17 +302,31 @@
 ├── encoding-specificity-principle.md
 ├── encoding-variability.md
 ├── endowment-effect.md
+├── ennis-critical-thinking-model.md
+├── enthymeme.md
 ├── entity-theory-of-intelligence.md
 ├── environment-variables.md
 ├── episodic-buffer.md
 ├── episodic-memory.md
+├── epistemic-akrasia.md
 ├── epistemic-autonomy.md
+├── epistemic-closure.md
+├── epistemic-cowardice.md
 ├── epistemic-curiosity.md
+├── epistemic-externalism.md
+├── epistemic-humility.md
 ├── epistemic-injustice.md
+├── epistemic-internalism.md
 ├── epistemic-justification.md
 ├── epistemic-luck.md
+├── epistemic-regress.md
+├── epistemic-relativism.md
+├── epistemic-responsibility.md
+├── epistemic-theory-of-truth.md
+├── epistemic-trust.md
 ├── epistemic-vigilance.md
 ├── epistemology.md
+├── equivocation-fallacy.md
 ├── eriksons-psychosocial-stages.md
 ├── errorless-learning.md
 ├── eudaimonia.md
@@ -311,10 +351,14 @@
 ├── externalized-metacognition.md
 ├── extraneous-cognitive-load.md
 ├── extrinsic-motivation.md
+├── facione-critical-thinking-model.md
 ├── faded-worked-examples.md
+├── fair-mindedness.md
 ├── fallibilism.md
+├── false-cause-fallacy.md
 ├── false-dichotomy.md
 ├── false-memory.md
+├── falsifiability.md
 ├── far-transfer.md
 ├── feedback-design-for-autonomy-and-mastery.md
 ├── feedback-loops.md
@@ -358,6 +402,7 @@
 ├── generation-effect.md
 ├── generative-learning-theory.md
 ├── genetic-epistemology.md
+├── genetic-fallacy.md
 ├── germane-cognitive-load.md
 ├── gettier-problem.md
 ├── github-copilot.md
@@ -381,6 +426,7 @@
 ├── habit-formation.md
 ├── habit-loop.md
 ├── halo-effect.md
+├── hasty-generalization.md
 ├── hedonic-adaptation.md
 ├── hedonic-well-being.md
 ├── hetogogy.md
@@ -395,12 +441,15 @@
 ├── humanistic-psychology.md
 ├── hyperbolic-discounting.md
 ├── hypercorrection-effect.md
+├── hypothetico-deductive-method.md
 ├── idea-compression.md
 ├── idea-emergence.md
 ├── identified-regulation.md
 ├── illusion-of-explanatory-depth.md
 ├── illusion-of-knowing.md
+├── illusion-of-transparency.md
 ├── imagination-inflation.md
+├── impact-bias.md
 ├── impasse-and-restructuring.md
 ├── implementation-intention.md
 ├── implementation-intentions.md
@@ -413,6 +462,7 @@
 ├── incremental-theory-of-intelligence.md
 ├── incubation-effect.md
 ├── individual-interest.md
+├── inductive-confirmation.md
 ├── inductive-logic.md
 ├── inductive-reasoning.md
 ├── inference-to-the-best-explanation.md
@@ -424,12 +474,19 @@
 ├── information-processing-theory.md
 ├── inhibitory-control.md
 ├── inquiry-based-learning.md
+├── inquisitiveness-as-disposition.md
 ├── insight-problem-solving.md
 ├── instructional-design.md
 ├── integrated-development-environment.md
 ├── integrated-information-theory.md
 ├── integrated-regulation.md
+├── intellectual-autonomy.md
+├── intellectual-conscientiousness.md
+├── intellectual-courage.md
+├── intellectual-empathy.md
 ├── intellectual-humility.md
+├── intellectual-integrity.md
+├── intellectual-perseverance.md
 ├── intellectual-standards.md
 ├── intent-code-understanding-cycle.md
 ├── intention-behavior-gap.md
@@ -437,6 +494,7 @@
 ├── interference-theory.md
 ├── interleaving-effect.md
 ├── interleaving.md
+├── internalism-vs-externalism-epistemology.md
 ├── internalization-continuum.md
 ├── internalization.md
 ├── interoception.md
@@ -450,6 +508,7 @@
 ├── isolated-elements-effect.md
 ├── judgment-of-learning-jol.md
 ├── judgment-of-learning.md
+├── judiciousness.md
 ├── justified-true-belief.md
 ├── keyword-mnemonic-method.md
 ├── knowledge-by-acquaintance-vs-description.md
@@ -482,6 +541,7 @@
 ├── leitner-system.md
 ├── levels-of-processing.md
 ├── leverage-points.md
+├── liar-paradox.md
 ├── lifelong-learning.md
 ├── lifespan-development.md
 ├── linguistic-relativity.md
@@ -490,7 +550,10 @@
 ├── literature-notes.md
 ├── locus-of-causality.md
 ├── locus-of-control.md
+├── logical-consequence.md
+├── logical-consistency.md
 ├── logical-fallacies.md
+├── logical-form.md
 ├── logical-reasoning.md
 ├── long-term-memory.md
 ├── long-term-potentiation.md
@@ -562,18 +625,23 @@
 ├── motivational-interviewing.md
 ├── motivational-psychology.md
 ├── motivational-regulation.md
+├── motte-and-bailey-fallacy.md
 ├── multi-store-model.md
 ├── multimedia-learning.md
 ├── multiple-intelligences-theory.md
+├── myside-bias.md
+├── naive-realism.md
 ├── narrative-cognition.md
 ├── naturalistic-decision-making.md
 ├── near-transfer.md
+├── necessary-and-sufficient-conditions.md
 ├── need-for-cognition.md
 ├── need-frustration-as-an-active-pathogenic-process.md
 ├── need-frustration.md
 ├── need-satisfaction.md
 ├── need-support.md
 ├── need-thwarting.md
+├── neglect-of-probability.md
 ├── networked-thought.md
 ├── neurogenesis.md
 ├── neuromodulation-and-learning.md
@@ -581,6 +649,8 @@
 ├── neuroscience-of-learning.md
 ├── neuroscience.md
 ├── neurotransmission.md
+├── nirvana-fallacy.md
+├── no-true-scotsman-fallacy.md
 ├── non-classical-logic.md
 ├── non-declarative-memory.md
 ├── non-recurrent-constituent-skill.md
@@ -589,13 +659,17 @@
 ├── note-maturation.md
 ├── note-taking-systems-comparison.md
 ├── nudge-theory.md
+├── null-hypothesis.md
 ├── obedience-to-authority.md
 ├── object-level.md
 ├── object-permanence.md
 ├── observational-learning.md
 ├── obsidian.md
 ├── ontology-design.md
+├── open-mindedness.md
 ├── open-science-practices.md
+├── operationalization.md
+├── optimism-bias.md
 ├── optimism.md
 ├── organismic-integration-tendency.md
 ├── organismic-integration-theory.md
@@ -605,6 +679,7 @@
 ├── overconfidence-bias.md
 ├── overjustification-effect.md
 ├── para-method.md
+├── paradigm-shift.md
 ├── part-task-practice.md
 ├── path-environment-variable.md
 ├── path.md
@@ -645,6 +720,7 @@
 ├── practical-intelligence.md
 ├── pragmatic-inference.md
 ├── pragmatic-maxim.md
+├── pragmatic-theory-of-truth.md
 ├── pragmatics.md
 ├── pragmatism.md
 ├── pre-testing-effect.md
@@ -654,6 +730,7 @@
 ├── predictive-processing.md
 ├── prefrontal-cortex-function.md
 ├── prejudice.md
+├── premise-acceptability.md
 ├── preregistration.md
 ├── present-bias.md
 ├── priming.md
@@ -674,10 +751,12 @@
 ├── productive-struggle.md
 ├── progressive-summarization.md
 ├── project-based-learning.md
+├── propositional-knowledge.md
 ├── propositional-logic.md
 ├── prospect-theory.md
 ├── prospective-memory.md
 ├── prototype-theory-of-concepts.md
+├── pseudo-science.md
 ├── pseudoexpertise.md
 ├── psychological-capital.md
 ├── psychological-flourishing.md
@@ -692,6 +771,7 @@
 ├── reaction-and-reflection-phase.md
 ├── reading-workflow.md
 ├── reasoning-under-uncertainty.md
+├── rebutting-defeater.md
 ├── reciprocal-teaching.md
 ├── recognition-memory.md
 ├── recognition-primed-decision-model.md
@@ -699,9 +779,11 @@
 ├── reconstructive-memory.md
 ├── recurrent-constituent-skill.md
 ├── recurrent-vs-non-recurrent-constituent-skills.md
+├── red-herring-fallacy.md
 ├── redundancy-effect.md
 ├── reference-dependence.md
 ├── reflective-disposition.md
+├── reflective-equilibrium.md
 ├── reflective-thinking.md
 ├── regulatory-fit-theory.md
 ├── regulatory-focus-theory.md
@@ -714,10 +796,12 @@
 ├── reliabilism.md
 ├── remote-associates-test.md
 ├── repl.md
+├── replication-and-reproducibility.md
 ├── replication-crisis-in-psychology.md
 ├── representativeness-heuristic.md
 ├── requirements-txt.md
 ├── research-methods-in-education.md
+├── restraint-bias.md
 ├── retrieval-practice-as-the-most-potent-single-strategy.md
 ├── retrieval-practice.md
 ├── retrieval-structure.md
@@ -811,6 +895,8 @@
 ├── socratic-method.md
 ├── socratic-questioning.md
 ├── software-engineering.md
+├── sorites-paradox.md
+├── sound-argument.md
 ├── source-amnesia.md
 ├── source-code-editor.md
 ├── source-code-management.md
@@ -835,6 +921,7 @@
 ├── statistical-significance.md
 ├── statistical-syllogism.md
 ├── status-quo-bias.md
+├── steelmanning.md
 ├── stereotype-threat.md
 ├── stock-and-flow-diagrams.md
 ├── stocks-and-flows.md
@@ -845,6 +932,7 @@
 ├── strawman-argument.md
 ├── stress-and-learning.md
 ├── stress-physiology.md
+├── strong-argument.md
 ├── structure-mapping-theory.md
 ├── summarization-strategy.md
 ├── summarization.md
@@ -852,14 +940,17 @@
 ├── sunk-cost-fallacy.md
 ├── supervenience.md
 ├── supportive-information.md
+├── suppositional-reasoning.md
 ├── sustained-attention.md
 ├── sweller-s-2010-reconceptualization.md
 ├── swot-analysis.md
+├── syllogism.md
 ├── synaptic-plasticity.md
 ├── synaptic-pruning.md
 ├── system-1.md
 ├── system-2.md
 ├── system-dynamics.md
+├── systematicity-as-disposition.md
 ├── systems-thinking.md
 ├── tacit-knowledge.md
 ├── tagging-systems.md
@@ -878,6 +969,7 @@
 ├── testimonial-injustice.md
 ├── testimony.md
 ├── testing-effect.md
+├── texas-sharpshooter-fallacy.md
 ├── the-2-2-achievement-goal-framework.md
 ├── the-active-organism-hypothesis.md
 ├── the-architectural-imperative.md
@@ -938,10 +1030,12 @@
 ├── the-universality-thesis.md
 ├── the-worked-example-effect.md
 ├── theoretical-frameworks.md
+├── theoretical-virtues.md
 ├── theory-ladenness-of-observation.md
 ├── theory-of-knowledge.md
 ├── theory-of-mind.md
 ├── theory-of-planned-behavior.md
+├── third-person-effect.md
 ├── thought-experiment.md
 ├── tip-of-the-tongue-phenomenon.md
 ├── toulmin-argument-model.md
@@ -958,17 +1052,22 @@
 ├── triadic-reciprocal-determinism.md
 ├── triarchic-theory-of-intelligence.md
 ├── troubleshooting.md
+├── truth-aptness.md
+├── truth-seeking-disposition.md
 ├── truth-tables.md
 ├── truthmaker-principle.md
 ├── tu-quoque.md
 ├── type-1-processing.md
 ├── type-2-processing.md
+├── undercutting-defeater.md
 ├── underdetermination-thesis.md
 ├── underdetermination.md
 ├── universal-grammar.md
 ├── usability-engineering.md
 ├── utility-value.md
+├── valid-argument.md
 ├── validity-and-reliability.md
+├── validity-vs-soundness.md
 ├── validity.md
 ├── verbal-persuasion.md
 ├── verificationism.md
@@ -981,6 +1080,7 @@
 ├── visuospatial-sketchpad.md
 ├── volition.md
 ├── volitional-control.md
+├── watson-glaser-model.md
 ├── whole-task-approach.md
 ├── why-element-interactivity-is-the-engine-of-intrinsic-load.md
 ├── wiki-links.md

@@ -1,13 +1,12 @@
 ---
-title: "Texas Sharpshooter Fallacy"
+title: Texas Sharpshooter Fallacy
 aliases:
-  - "Texas Sharpshooter Fallacy"
-  - "post hoc target selection"
-  - "cherry-picking targets"
+  - Texas Sharpshooter Fallacy
+  - post hoc target selection
+  - cherry-picking targets
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,56 @@ subdomains:
   - data-analysis
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "texas-sharpshooter-fallacy-synthetic-seed-2026-05-12"
+  - texas-sharpshooter-fallacy-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Informal Fallacies"
-
+depth-level: enhanced
+parent-concept: Informal Fallacies
 related:
-  - "[[Hasty Generalization]]"
-  - "[[False Cause Fallacy]]"
+  - '[[Hasty Generalization]]'
+  - '[[False Cause Fallacy]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Hasty Generalization]]"
-  - "[[False Cause Fallacy]]"
+  - '[[Hasty Generalization]]'
+  - '[[False Cause Fallacy]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Texas Sharpshooter Fallacy
 
@@ -89,6 +88,9 @@ Theoretical roots of this fallacy lie in cognitive biases such as confirmation b
 
 Empirically, this fallacy has been observed in various fields including psychology, economics, and medicine. For example, studies have shown that researchers are more likely to report statistically significant results when they align with their hypotheses, even if these results do not hold up under independent verification.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+The Texas Sharpshooter Fallacy is particularly insidious in fields that rely heavily on statistical analysis, such as psychology and economics. Researchers often face the temptation to find patterns that support their hypotheses within large datasets, a practice known as data dredging or p-hacking. This methodological flaw can lead to spurious correlations being reported as significant findings, thereby skewing scientific literature and public understanding of complex phenomena.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Clinical Trials**
@@ -105,6 +107,19 @@ Empirically, this fallacy has been observed in various fields including psycholo
 > [!key-distinction] **Texas Sharpshooter Fallacy vs False Cause Fallacy**
 > The Texas Sharpshooter Fallacy is distinct from the false cause fallacy in that it does not necessarily involve a causal relationship. Instead, it focuses on identifying patterns post hoc without independent verification. The false cause fallacy, however, involves incorrectly attributing causality between two events.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> The Texas Sharpshooter Fallacy often arises from reactive thinking, where individuals quickly identify patterns that support their preconceptions without thorough reflection. In contrast, reflective thinking involves a more deliberate and critical examination of data, which can help mitigate the fallacy by encouraging researchers to consider alternative explanations for observed patterns.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People think that identifying any pattern in data is sufficient evidence for an underlying mechanism.
+>
+> This misconception overlooks the importance of independent verification and consideration of multiple potential patterns. The Texas Sharpshooter Fallacy highlights how post hoc identification of patterns without rigorous testing can lead to erroneous conclusions.
+
 ## Open Questions
 
 > [!open-question] **Question**
@@ -117,9 +132,19 @@ Empirically, this fallacy has been observed in various fields including psycholo
 >
 > *What would resolve it:* Implementing rigorous standards for data analysis, such as preregistration of hypotheses and transparent reporting of all findings, can help prevent selective reporting and ensure robust decision-making.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How can we ensure that researchers are not engaging in selective reporting of results?
+>
+> *What would resolve it:* Implementing rigorous standards for data analysis and preregistration of hypotheses could help prevent the Texas Sharpshooter Fallacy by ensuring transparency and accountability in research practices.
+
 ## Synthesis
 
 Understanding and avoiding the Texas Sharpshooter Fallacy is crucial for robust decision-making processes across various domains. By recognizing this fallacy, individuals and organizations can avoid drawing misleading conclusions from data that appear to support their hypotheses but are actually the result of selective reporting or hidden multiple comparisons.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+Addressing the Texas Sharpshooter Fallacy requires a shift towards more transparent and robust methodologies in data analysis. By fostering reflective thinking and rigorous testing, researchers can avoid drawing misleading conclusions from selectively reported patterns.
 
 ## Evidence
 
@@ -132,3 +157,10 @@ The Texas Sharpshooter Fallacy reveals a critical issue in how we interpret patt
 **Contrasts with:** [[Hasty Generalization]] · [[False Cause Fallacy]]
 
 **Source:** [[texas-sharpshooter-fallacy-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[False Cause Fallacy]]** — *contrasts-with*
+> While both the Texas Sharpshooter Fallacy and False Cause Fallacy involve drawing incorrect conclusions from data, they differ in their specific mechanisms. The Texas Sharpshooter Fallacy focuses on identifying patterns post hoc without independent confirmation, whereas the False Cause Fallacy incorrectly attributes causality between two events.

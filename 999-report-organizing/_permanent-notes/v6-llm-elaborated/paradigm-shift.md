@@ -1,13 +1,12 @@
 ---
-title: "Paradigm Shift"
+title: Paradigm Shift
 aliases:
-  - "Paradigm Shift"
-  - "Kuhnian paradigm shift"
-  - "scientific revolution"
+  - Paradigm Shift
+  - Kuhnian paradigm shift
+  - scientific revolution
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,55 +19,55 @@ subdomains:
   - sociology-of-science
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "paradigm-shift-synthetic-seed-2026-05-12"
+  - paradigm-shift-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Philosophy of Science"
-
+depth-level: enhanced
+parent-concept: Philosophy of Science
 related:
-  - "[[Demarcation Problem]]"
-  - "[[Theoretical Virtues]]"
+  - '[[Demarcation Problem]]'
+  - '[[Theoretical Virtues]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Demarcation Problem]]"
+  - '[[Demarcation Problem]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Theoretical Virtues]]"
+  - '[[Theoretical Virtues]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Paradigm Shift
 
@@ -88,6 +87,9 @@ Understanding the nature of Paradigm Shifts is crucial for grasping how scientif
 
 Historically, examples such as the transition from Aristotelian to Newtonian physics or from phlogiston theory to oxygen-based chemistry illustrate how Paradigm Shifts can dramatically alter our understanding of natural phenomena.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Paradigm shifts often emerge from a crisis within an existing scientific paradigm, characterized by persistent anomalies that cannot be resolved through normal scientific practices. This crisis phase is marked by increasing dissatisfaction among scientists with the prevailing framework and a growing sense of its inadequacy in explaining observed phenomena. The shift then occurs when a new paradigm arises that not only resolves these anomalies but also opens up new avenues for research, leading to a period of renewed stability known as normal science.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -100,6 +102,19 @@ Historically, examples such as the transition from Aristotelian to Newtonian phy
 
 > [!key-distinction] **Paradigm Shift vs Incremental Change**
 > A true Paradigm Shift is fundamentally different from incremental changes within an existing framework. While minor innovations build upon the current paradigm, a shift involves a radical restructuring of scientific thought and practice that makes old data reinterpretation necessary under new categories.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Assimilation vs Accommodation**
+> In the context of Paradigm Shifts, assimilation refers to the process where scientists attempt to fit new observations into their existing paradigm without altering it significantly. In contrast, accommodation involves a fundamental restructuring of scientific thought and practice in response to persistent anomalies that cannot be resolved within the current framework. Understanding this distinction is crucial for recognizing when a true shift is occurring rather than merely an adjustment within an established paradigm.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — People think Paradigm Shifts are always welcomed by the scientific community.
+>
+> Paradigm shifts often face significant resistance from scientists who have invested their careers in the old paradigm. This resistance can stem from personal, professional, and institutional factors that make it difficult to abandon established ways of thinking and working. The shift requires not just new ideas but a willingness among the scientific community to embrace these changes.
 
 ## Key Figures
 
@@ -117,9 +132,19 @@ Historically, examples such as the transition from Aristotelian to Newtonian phy
 >
 > *What would resolve it:* Developing clear, objective criteria based on changes in foundational concepts, methods, and standards of explanation would help differentiate between genuine shifts and incremental improvements within an existing framework.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How do social factors influence the occurrence and acceptance of Paradigm Shifts?
+>
+> *What would resolve it:* Empirical studies examining the role of social networks, institutional structures, and cultural values in scientific communities could provide insights into how these factors facilitate or hinder paradigm shifts. Understanding these dynamics is crucial for predicting and managing transitions within science.
+
 ## Synthesis
 
 Understanding Paradigm Shifts is crucial for comprehending the dynamic nature of scientific progress. It highlights that science does not advance through a linear accumulation of facts but rather through revolutionary changes in how we understand the world, emphasizing the importance of recognizing and adapting to new paradigms.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+The concept of Paradigm Shift underscores the dynamic and socially constructed nature of scientific knowledge. It challenges the notion of a linear progression in science, highlighting instead the cyclical pattern of stability punctuated by revolutionary changes. This perspective is essential for both scientists and policymakers who must navigate these shifts to foster innovation and adapt to new paradigms.
 
 ## Connections & Context
 
@@ -130,3 +155,10 @@ Understanding Paradigm Shifts is crucial for comprehending the dynamic nature of
 **Applies to:** [[Theoretical Virtues]]
 
 **Source:** [[paradigm-shift-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Theoretical Virtues]]** — *applies-to*
+> Paradigm shifts often involve reevaluating and potentially altering the theoretical virtues that guide scientific inquiry, such as simplicity, consistency, and explanatory power. A new paradigm may prioritize different virtues or redefine existing ones in light of novel insights and challenges, thereby reshaping how scientists evaluate theories within their field.

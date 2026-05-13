@@ -1,12 +1,11 @@
 ---
-title: "Reflective Equilibrium"
+title: Reflective Equilibrium
 aliases:
-  - "Reflective Equilibrium"
-  - "Rawlsian reflective equilibrium"
+  - Reflective Equilibrium
+  - Rawlsian reflective equilibrium
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - political-philosophy
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "reflective-equilibrium-synthetic-seed-2026-05-12"
+  - reflective-equilibrium-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Philosophical Methodology"
-
+depth-level: enhanced
+parent-concept: Philosophical Methodology
 related:
-  - "[[Judiciousness]]"
-  - "[[Coherence Theory of Truth]]"
+  - '[[Judiciousness]]'
+  - '[[Coherence Theory of Truth]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[]]"
+  - '[[]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Judiciousness]]"
+  - '[[Judiciousness]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[Coherence Theory of Truth]]"
+  - '[[Coherence Theory of Truth]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Reflective Equilibrium
 
@@ -87,6 +86,9 @@ The theoretical roots of Reflective Equilibrium can be traced back to John Rawls
 
 Reflective Equilibrium's iterative nature means that the process of achieving equilibrium can be lengthy and requires patience and rigor. The method demands a willingness to revise even well-established principles in light of new evidence or better-supported alternatives, ensuring that the resulting system of beliefs is as coherent and robust as possible.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Reflective Equilibrium's iterative nature is particularly evident in its application to complex ethical dilemmas, where initial intuitions may conflict with broader moral principles. This process allows for a nuanced exploration of these conflicts, leading to more robust and defensible ethical positions.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Philosophical Reasoning**
@@ -102,6 +104,19 @@ Reflective Equilibrium's iterative nature means that the process of achieving eq
 
 > [!key-distinction] **Reflective Equilibrium vs Rationalized Intuitionism**
 > Rationalized intuitionism can be seen as a one-way filter that adjusts principles to fit pre-existing intuitions without genuine revision. In contrast, Reflective Equilibrium requires an open-minded approach where both specific judgements and general principles are subject to revision in pursuit of coherence.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective Equilibrium vs Intuition-Checking**
+> While intuition-checking involves validating initial intuitions against established principles, Reflective Equilibrium goes beyond this by actively revising both specific judgements and general principles to achieve coherence. This distinction highlights the iterative and dynamic nature of Reflective Equilibrium.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Reflective Equilibrium is a one-time process.
+>
+> This misconception arises from misunderstanding the iterative aspect of Reflective Equilibrium. It requires ongoing revision and adjustment to maintain coherence, reflecting its dynamic nature.
 
 ## Key Figures
 
@@ -123,6 +138,9 @@ Reflective Equilibrium's iterative nature means that the process of achieving eq
 
 Reflective Equilibrium is significant in philosophical methodology because it offers a robust approach to achieving coherent justification. By emphasizing the iterative process of adjusting beliefs at all levels, it provides a dynamic framework for refining our understanding and ensuring that our beliefs are well-supported and consistent.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Reflective Equilibrium's iterative and dynamic approach to achieving coherence across all levels of belief makes it a powerful tool for refining philosophical reasoning, ethical decision-making, and broader epistemological inquiry.
+
 ## Evidence
 
 Reflective Equilibrium is not merely about checking intuitions but requires genuine willingness to revise beliefs in light of better-supported principles. This iterative process ensures coherence across all levels of belief, challenging foundationalist approaches by emphasizing the web of considered judgements and principles over any single privileged starting point.
@@ -136,3 +154,13 @@ Reflective Equilibrium is not merely about checking intuitions but requires genu
 **Supports:** [[Coherence Theory of Truth]]
 
 **Source:** [[reflective-equilibrium-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Judiciousness]]** — *applies-to*
+> Reflective Equilibrium applies the principle of judiciousness by requiring careful consideration and revision of beliefs to achieve coherence. This connection underscores the method's emphasis on thoughtful, balanced reasoning.
+
+> [!connection] **[[Coherence Theory of Truth]]** — *supports*
+> Reflective Equilibrium supports Coherence Theory of Truth by emphasizing the importance of coherent relationships among beliefs rather than relying on external validation. This shared focus on coherence underpins their connection.

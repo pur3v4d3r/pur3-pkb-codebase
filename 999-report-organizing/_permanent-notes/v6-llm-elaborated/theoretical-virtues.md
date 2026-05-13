@@ -1,13 +1,12 @@
 ---
-title: "Theoretical Virtues"
+title: Theoretical Virtues
 aliases:
-  - "Theoretical Virtues"
-  - "virtues of theories"
-  - "super-empirical virtues"
+  - Theoretical Virtues
+  - virtues of theories
+  - super-empirical virtues
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,57 +18,57 @@ subdomains:
   - theory-evaluation
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "theoretical-virtues-synthetic-seed-2026-05-12"
+  - theoretical-virtues-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Theory Evaluation"
-
+depth-level: enhanced
+parent-concept: Theory Evaluation
 related:
-  - "[[Paradigm Shift]]"
-  - "[[Inductive Confirmation]]"
-  - "[[Demarcation Problem]]"
+  - '[[Paradigm Shift]]'
+  - '[[Inductive Confirmation]]'
+  - '[[Demarcation Problem]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Paradigm Shift]]"
-  - "[[Inductive Confirmation]]"
+  - '[[Paradigm Shift]]'
+  - '[[Inductive Confirmation]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[Demarcation Problem]]"
+  - '[[Demarcation Problem]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Theoretical Virtues
 
@@ -87,6 +86,9 @@ These virtues serve as heuristic tools that guide the scientific community towar
 
 The concept of theoretical virtues has roots in philosophical discussions about scientific methodology and epistemology. Philosophers like Karl Popper and Imre Lakatos have contributed to understanding how these criteria function within scientific practice, emphasizing their role in guiding theory choice beyond mere empirical adequacy.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Theoretical virtues not only guide theory selection but also influence how scientists frame and pursue research questions. By prioritizing theories that offer greater explanatory depth or scope, researchers are more likely to engage in investigations that could lead to significant breakthroughs rather than incremental improvements. This strategic focus can accelerate scientific progress by directing resources towards areas with the potential for transformative discoveries.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -99,6 +101,19 @@ The concept of theoretical virtues has roots in philosophical discussions about 
 
 > [!key-distinction] **Evidential vs Non-Evidential Criteria**
 > The distinction between evidential criteria, such as empirical support and predictive accuracy, and non-evidential theoretical virtues is crucial. While evidential criteria are based on observable data, theoretical virtues focus on qualitative aspects of theories that cannot be directly measured but still influence scientific judgment.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking involves deliberate consideration of theoretical virtues, allowing scientists to weigh multiple criteria and make informed judgments. In contrast, reactive thinking is more immediate and may rely on intuitive preferences for simplicity or scope without thorough evaluation. Understanding this distinction helps explain why some scientific communities might favor certain theories over others based on the cognitive processes involved in theory evaluation.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Theoretical virtues are subjective and therefore unreliable.
+>
+> While theoretical virtues do involve judgment calls, they are not entirely subjective. These criteria have been refined through philosophical discourse and empirical studies, providing a structured framework for evaluating theories beyond mere empirical success. The reliability of these virtues lies in their ability to guide scientists towards more coherent and promising explanations.
 
 ## Key Figures
 
@@ -117,9 +132,19 @@ The concept of theoretical virtues has roots in philosophical discussions about 
 >
 > *What would resolve it:* A comparative analysis of theoretical virtue application in various scientific disciplines would help determine if there are universal principles or if context-specific factors significantly influence their use.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How do cultural or societal values impact the prioritization of theoretical virtues?
+>
+> *What would resolve it:* Exploring how different cultures value simplicity over scope, for example, could reveal biases in theory evaluation and suggest ways to mitigate these influences. Such research would help ensure that scientific progress is not unduly constrained by cultural preferences.
+
 ## Synthesis
 
 Understanding theoretical virtues is essential for comprehending the nuanced decision-making processes that underpin scientific theory evaluation. By recognizing how these non-evidential criteria guide scientists in choosing between equally supported theories, we gain deeper insight into the complex interplay of evidence and judgment in scientific practice.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+Theoretical virtues serve as a bridge between empirical evidence and the broader goals of science, guiding researchers towards theories that promise deeper understanding and wider applicability. By integrating both evidential and non-evidential criteria, scientists can make more informed decisions that advance knowledge in meaningful ways.
 
 ## Connections & Context
 
@@ -130,3 +155,10 @@ Understanding theoretical virtues is essential for comprehending the nuanced dec
 **Applies to:** [[Demarcation Problem]]
 
 **Source:** [[theoretical-virtues-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Inductive Confirmation]]** — *contrasts-with*
+> Theoretical virtues contrast with inductive confirmation by focusing on qualitative criteria rather than empirical evidence. While inductive confirmation relies on observed data to support theories, theoretical virtues consider aspects like simplicity and explanatory depth that are not directly observable but still influence scientific judgment.

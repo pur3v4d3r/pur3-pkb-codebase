@@ -1,14 +1,13 @@
 ---
-title: "Deflationary Theory Of Truth"
+title: Deflationary Theory Of Truth
 aliases:
-  - "Deflationary Theory Of Truth"
-  - "deflationism"
-  - "redundancy theory of truth"
-  - "disquotational theory"
+  - Deflationary Theory Of Truth
+  - deflationism
+  - redundancy theory of truth
+  - disquotational theory
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,58 +19,58 @@ subdomains:
   - formal-semantics
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "deflationary-theory-of-truth-synthetic-seed-2026-05-12"
+  - deflationary-theory-of-truth-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Theories Of Truth"
-
+depth-level: enhanced
+parent-concept: Theories Of Truth
 related:
-  - "[[Coherence Theory Of Truth]]"
-  - "[[Pragmatic Theory Of Truth]]"
-  - "[[Epistemic Theory Of Truth]]"
+  - '[[Coherence Theory Of Truth]]'
+  - '[[Pragmatic Theory Of Truth]]'
+  - '[[Epistemic Theory Of Truth]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[]]"
+  - '[[]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Coherence Theory Of Truth]]"
-  - "[[Pragmatic Theory Of Truth]]"
-  - "[[Epistemic Theory Of Truth]]"
+  - '[[Coherence Theory Of Truth]]'
+  - '[[Pragmatic Theory Of Truth]]'
+  - '[[Epistemic Theory Of Truth]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Deflationary Theory Of Truth
 
@@ -91,6 +90,9 @@ The theoretical roots of deflationism can be traced back to discussions around t
 
 In practice, understanding deflationism can alter how one approaches philosophical discussions about truth. It prompts a reevaluation of what it means to assert something as true, shifting attention from metaphysical properties to logical functions within language.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Deflationary theory's emphasis on the logical function of 'true' has significant implications for how we understand truth in practical contexts, such as legal proceedings or scientific research. In these domains, asserting something as true often carries substantial weight and can have real-world consequences. Deflationists argue that despite this, the predicate 'is true' does not add any substantive meaning beyond what is already conveyed by the statement itself. This perspective challenges practitioners to be more precise about their claims and less reliant on the rhetorical power of truth assertions.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Philosophical Debates**
@@ -103,6 +105,19 @@ In practice, understanding deflationism can alter how one approaches philosophic
 
 > [!key-distinction] **Logical Function vs Substantive Property**
 > Deflationary theory distinguishes itself from other theories by focusing on the logical function of 'true' rather than attributing a substantive property to it. This distinction is crucial as it shifts the focus from metaphysical questions about truth's nature to its role in language and logic.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Deflationary theory aligns with reflective thinking, which involves deliberate consideration and analysis. This contrasts with reactive thinking, where responses are immediate and less considered. Reflective thinking is crucial for deflationists as it allows for a careful examination of the logical functions of 'true' without attributing unnecessary metaphysical properties.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Deflationary theory denies that anything can be true.
+>
+> This misconception arises from misunderstanding deflationism's stance. Deflationists do not deny the existence of truth but rather argue against attributing a substantive property to 'true'. They maintain that 'true' functions logically and expressively, asserting content without adding any additional metaphysical layer.
 
 ## Key Figures
 
@@ -121,9 +136,19 @@ In practice, understanding deflationism can alter how one approaches philosophic
 >
 > *What would resolve it:* A detailed examination of how deflationary theory interacts with realist and anti-realist positions could clarify its impact on these debates.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!open-question] **Question**
+> How does deflationary theory impact the evaluation of scientific theories?
+>
+> *What would resolve it:* An analysis showing how deflationism can guide a more rigorous and precise approach to evaluating scientific claims, focusing on empirical evidence rather than metaphysical properties attributed to truth.
+
 ## Synthesis
 
 Understanding deflationary theory is crucial for comprehending broader discussions on truth within philosophy. By focusing on the logical role of 'true' rather than attributing a substantive property to it, deflationism offers a fresh perspective that can reshape philosophical discourse and debates about the nature of truth.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+By emphasizing logical functions over substantive properties, deflationary theory offers a minimalist framework for understanding truth that can be particularly useful in fields where precision is paramount. This perspective encourages a focus on the content and context of assertions rather than abstract metaphysical debates about what constitutes truth.
 
 ## Connections & Context
 
@@ -132,3 +157,10 @@ Understanding deflationary theory is crucial for comprehending broader discussio
 **Contrasts with:** [[Coherence Theory Of Truth]] · [[Pragmatic Theory Of Truth]] · [[Epistemic Theory Of Truth]]
 
 **Source:** [[deflationary-theory-of-truth-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Coherence Theory Of Truth]]** — *contrasts-with*
+> Deflationary theory contrasts with coherence theory by rejecting the idea that truth is a matter of consistency among beliefs. While coherence theorists seek to establish truth through internal consistency, deflationists argue that 'true' merely asserts content without implying any substantive property or requirement for coherence.

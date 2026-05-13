@@ -1,13 +1,12 @@
 ---
-title: "Argument Reconstruction"
+title: Argument Reconstruction
 aliases:
-  - "Argument Reconstruction"
-  - "reconstruction of arguments"
-  - "charitable reconstruction"
+  - Argument Reconstruction
+  - reconstruction of arguments
+  - charitable reconstruction
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -20,56 +19,56 @@ subdomains:
   - dialectic
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "argument-reconstruction-synthetic-seed-2026-05-12"
+  - argument-reconstruction-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Critical Thinking"
-
+depth-level: enhanced
+parent-concept: Critical Thinking
 related:
-  - "[[Enthymeme]]"
-  - "[[Argument Mapping]]"
-  - "[[Steelmanning]]"
+  - '[[Enthymeme]]'
+  - '[[Argument Mapping]]'
+  - '[[Steelmanning]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Enthymeme]]"
+  - '[[Enthymeme]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[Argument Mapping]]"
+  - '[[Argument Mapping]]'
 contrasts-with:
-  - "[[Steelmanning]]"
+  - '[[Steelmanning]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Argument Reconstruction
 
@@ -87,6 +86,9 @@ In practice, Argument Reconstruction involves careful analysis of language use, 
 
 The theoretical roots of Argument Reconstruction can be traced back to classical logic and rhetoric, where scholars like Aristotle emphasized the importance of understanding argumentative structures. Modern applications have expanded this concept into various fields such as philosophy, law, and education, highlighting its versatility and relevance across disciplines.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+Argument Reconstruction is not merely a passive exercise but an active process that requires engagement with the material at hand. It involves questioning and probing the text or speech to uncover hidden assumptions, implicit connections, and underlying values that shape the argument's structure. This dynamic interaction between reader and text fosters deeper comprehension and critical evaluation of arguments.
+
 ## Practical Implications
 
 > [!example] **Application 1 — Instructional design**
@@ -102,6 +104,22 @@ The theoretical roots of Argument Reconstruction can be traced back to classical
 
 > [!key-distinction] **Charitable vs Adversarial Reconstruction**
 > Reconstructing an argument charitably means presenting it in its strongest possible form, even if this requires inferring implicit premises that the original author did not explicitly state. This approach is crucial for fair and constructive debate. In contrast, adversarial reconstruction seeks to weaken the argument by focusing on potential weaknesses or ambiguities, which can lead to misrepresentation if not done carefully.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!key-distinction] **Reflective vs Reactive Thinking**
+> Reflective thinking is deliberate and involves stepping back to analyze an argument’s logical components, whereas reactive thinking responds immediately without deep consideration. Reflective thinking is essential for Argument Reconstruction as it allows one to dissect arguments systematically rather than reacting impulsively.
+
+> [!key-distinction] **Surface vs Deep Processing**
+> Surface processing focuses on superficial aspects of an argument such as vocabulary and sentence structure, while deep processing involves understanding the underlying logic and implications. Effective Argument Reconstruction requires deep processing to grasp the full meaning and evaluate the strength of arguments.
+
+## Common Misconceptions
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+> [!warning] **Misconception** — Argument Reconstruction is only about finding flaws in an argument.
+>
+> While identifying weaknesses is part of reconstruction, it also involves understanding the strongest possible version of an argument. This balanced approach ensures fair and constructive debate.
 
 ## Open Questions
 
@@ -121,6 +139,9 @@ Mastering Argument Reconstruction is crucial for effective critical thinking and
 
 Understanding how to reconstruct arguments also enhances one's ability to engage in constructive dialogue, whether in academic debates or policy discussions. This skill is essential for navigating the complex world of information and persuasion.
 
+<!-- enhancement-pass:1 (2026-05-13) -->
+By mastering Argument Reconstruction, individuals not only enhance their ability to critically evaluate arguments but also develop skills that are transferable across various domains such as education, law, and policy-making. This skill fosters a culture of informed debate and decision-making based on logical reasoning rather than rhetoric.
+
 ## Connections & Context
 
 **Falls under:** [[Critical Thinking]]
@@ -132,3 +153,13 @@ Understanding how to reconstruct arguments also enhances one's ability to engage
 **Contrasts with:** [[Steelmanning]]
 
 **Source:** [[argument-reconstruction-synthetic-seed-2026-05-12]]
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+
+### Why these connections matter
+
+> [!connection] **[[Argument Mapping]]** — *see-also*
+> Both Argument Reconstruction and Argument Mapping involve breaking down complex arguments into their component parts for analysis, but they differ in focus. While reconstruction emphasizes understanding the logical structure, mapping visually represents these components to aid comprehension.
+
+> [!connection] **[[Steelmanning]]** — *contrasts-with*
+> Argument Reconstruction aims at a fair and accurate representation of an argument's logic, whereas steelmanning seeks to strengthen the argument by presenting it in its strongest possible form. Steelmanning can be seen as a specific application or outcome of charitable reconstruction.

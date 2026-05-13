@@ -1,13 +1,12 @@
 ---
-title: "Myside Bias"
+title: Myside Bias
 aliases:
-  - "Myside Bias"
-  - "my-side bias"
-  - "partisan bias in reasoning"
+  - Myside Bias
+  - my-side bias
+  - partisan bias in reasoning
 type: permanent-note
 status: enriched
 confidence: high
-
 tags:
   - permanent-note
   - v6-llm-elaborated
@@ -19,55 +18,55 @@ subdomains:
   - political-psychology
 
 created: 2026-05-12
-updated: 2026-05-12
-
+updated: '2026-05-13'
 source-type: report-extraction
 source-reports:
-  - "myside-bias-synthetic-seed-2026-05-12"
+  - myside-bias-synthetic-seed-2026-05-12
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)"
-
+extraction-method: pkb-extractor-v1 → pipeline-v6-elaborator (two-pass)
 complexity-level: advanced-practitioner
-depth-level: elaborated
-
-parent-concept: "Reasoning Biases"
-
+depth-level: enhanced
+parent-concept: Reasoning Biases
 related:
-  - "[[Motivated Reasoning]]"
-  - "[[Belief Bias]]"
+  - '[[Motivated Reasoning]]'
+  - '[[Belief Bias]]'
 prerequisites:
-  - "[[]]"
+  - '[[]]'
 specializes:
-  - "[[Motivated Reasoning]]"
+  - '[[Motivated Reasoning]]'
 broader:
-  - "[[]]"
+  - '[[]]'
 see-also:
-  - "[[]]"
+  - '[[]]'
 contrasts-with:
-  - "[[Belief Bias]]"
+  - '[[Belief Bias]]'
 contradicts:
-  - "[[]]"
+  - '[[]]'
 applies-to:
-  - "[[]]"
+  - '[[]]'
 formalizes:
-  - "[[]]"
+  - '[[]]'
 instance-of:
-  - "[[]]"
+  - '[[]]'
 supports:
-  - "[[]]"
+  - '[[]]'
 refines:
-  - "[[]]"
+  - '[[]]'
 
 review-frequency: quarterly
 mastery-stage: budding
 importance: medium
-
 provenance:
-  pipeline-version: "v6.0.0"
-  outline-contract: "v6-outline-v1"
-  elaborate-contract: "v6-elaborate-v1"
+  pipeline-version: v6.0.0
+  outline-contract: v6-outline-v1
+  elaborate-contract: v6-elaborate-v1
   passes: 2
+  enhancement-passes: 1
+  enhancement-model: qwen2.5:14b-instruct-q5_K_M
+  enhancement-method: enhance_notes-v1
+  last-enhanced: '2026-05-13'
 ---
+
 
 # Myside Bias
 
@@ -84,6 +83,9 @@ Myside Bias is a pervasive cognitive phenomenon where individuals selectively se
 Theoretical roots of Myside Bias trace back to cognitive dissonance theory and motivated reasoning, both suggesting that individuals are driven by a need for consistency between their beliefs and actions. This theoretical framework explains why people often exhibit myside bias even when presented with compelling counter-evidence; the psychological discomfort of holding contradictory views can be more aversive than adjusting one's stance.
 
 Empirical studies have shown that Myside Bias is not confined to individuals with lower cognitive abilities but affects all levels of intelligence. A key claim about Myside Bias is that it is dissociable from general cognitive ability; high-IQ reasoners exhibit the bias at roughly the same rate as average reasoners, indicating that intelligence alone does not protect against it and may even equip sophisticated rationalizations to support one's preconceived notions.
+
+<!-- enhancement-pass:1 (2026-05-13) -->
+Myside Bias often manifests in social contexts through groupthink,
 
 ## Practical Implications
 
