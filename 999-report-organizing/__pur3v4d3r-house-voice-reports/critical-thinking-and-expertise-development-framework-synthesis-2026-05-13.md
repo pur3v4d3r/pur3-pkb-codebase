@@ -104,6 +104,372 @@ extraction-callouts:
 
 ---
 
+# Visual Aid Suite
+
+> [!abstract] **About this Suite**
+> Seven monospace visual aids for this four-source framework synthesis: source-framework comparison, the Dreyfus stage progression with critical-thinking overlay, the cognitive-architecture stack, the expert failure quadrant (routine vs. adaptive expertise), the five engineered bridges, the Reflective Mastery Architecture (RMA) integration view, and a final scorecard. The pipeline diagram already inside the abstract is the master process map; these aids zoom into the substantive content.
+
+---
+
+## Visual Aid 1: Four-Source Framework Comparison
+**Purpose:** Show why these four sources can be synthesized — each addresses a distinct dimension and is silent on the others.
+
+```
+┌──────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│   DIMENSION      │ PAUL-ELDER  │ DREYFUS +   │ SCHEMA /    │ METACOG +   │
+│                  │             │ ERICSSON    │ LTWM        │ REFLECTIVE  │
+├──────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ Normative        │   ★★★★★     │   ░░░░░     │   ░░░░░     │   ▒▒░░░     │
+│ standards        │ what is     │ silent      │ silent      │ monitors    │
+│ (the WHAT)       │ good        │             │             │ vs. what?   │
+├──────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ Developmental    │   ░░░░░     │   ★★★★★     │   ▒▒▒▒░     │   ░░░░░     │
+│ trajectory       │ silent      │ 5 stages +  │ implicit in │             │
+│ (the HOW-WHEN)   │             │ deliberate  │ schema      │             │
+│                  │             │ practice    │ growth      │             │
+├──────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ Cognitive        │   ░░░░░     │   ░░░░░     │   ★★★★★     │   ▒▒░░░     │
+│ mechanism        │ silent      │ describes   │ schemas +   │ 2-level     │
+│ (the WHY-IT-     │             │ outcomes    │ chunks +    │ structure   │
+│  WORKS)          │             │ not mech.   │ LTWM +      │             │
+│                  │             │             │ procedural. │             │
+├──────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ Reflexive        │   ▒▒░░░     │   ░░░░░     │   ░░░░░     │   ★★★★★     │
+│ control loop     │ implicit    │ silent      │ silent      │ explicit    │
+│                  │ in virtues  │             │             │ monitor +   │
+│                  │             │             │             │ control     │
+├──────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ Dispositional    │   ★★★★★     │   ░░░░░     │   ░░░░░     │   ▒▒░░░     │
+│ formation        │ 8 virtues   │ silent      │ silent      │ implicit    │
+└──────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+Legend:  ★ explicit strength    ▒ partial coverage    ░ silent
+```
+
+**Reading guide:** Five rows × four columns reveals the synthesis warrant: each column has at least one row where it is the only source with full coverage. None of the four can be deleted without losing a dimension the others cannot supply.
+**Source:** §1.1–§1.4 (Phase I: Framework Mapping)
+
+---
+
+## Visual Aid 2: Dreyfus Stage Progression With Critical-Thinking Overlay
+**Purpose:** Show the report's central re-framing: Dreyfus stages are not stages of skill alone but of *critical disciplinary thought*.
+
+```
+NOVICE        ADV. BEGINNER     COMPETENT       PROFICIENT       EXPERT
+──────        ─────────────     ─────────       ──────────       ──────
+
+Mode of       Context-free      Situational     Deliberate       Spontaneous
+engagement:   rules applied     pattern         perspective      perceptual
+              effortfully       recognition;    formation;       recognition;
+              ●                 features        personal         intuitive
+                                still flat      responsibility   action
+                                                ●                ●
+                                                                 ●
+
+CT discipline scaffolded ────► becoming ────► standards as ───► standards as
+              externally      explicit         deliberate       internalized
+              (consultation   in case          checks against   features of
+               of frameworks  judgment         intuition        judgment
+               every step)
+                              ░░░░░░░░░░░░     ▒▒▒▒▒▒▒▒▒▒▒▒    ████████████
+████████████  ██████████      Scaffold         Scaffold         Scaffold
+Heavy         Heavy           density:         density:         density:
+scaffold      scaffold        FADING           LOW              MINIMAL
+
+Cognitive     Few schemas;    Growing schema   Long-term        Procedural-
+substrate:    explicit rule   inventory;       working memory   ized
+              retrieval       chunking begins  develops;        productions;
+              dominant                         schema-mediated  rich LTWM
+                                               WM bypass        retrieval
+                                                                structures
+
+VULNERABILITY: Pattern matching becomes automatic regardless of fit
+─────────────► EXPERTISE-REVERSAL EFFECT possible at any post-novice stage
+               unless metacognitive override (Bridge 3) is engaged
+```
+
+**Reading guide:** Read horizontally — the same person at each stage. Critical-thinking discipline progresses from external scaffolding to internalized features, mirroring the cognitive-architectural shift from explicit rule retrieval to proceduralized productions. The bottom row warns that expert vulnerability begins as soon as automatization does.
+**Source:** §1.2–§1.4, §V (synthesis)
+
+---
+
+## Visual Aid 3: The Cognitive Architecture Stack
+**Purpose:** Make visible the layered mechanism by which expert performance is constituted.
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│  LAYER 4: PROCEDURALIZED PRODUCTIONS (ACT-R)                   │
+│  if-condition-then-action units; routine components automatic; │
+│  conscious cognitive resources freed for higher-level work     │
+└────────────────────────────────────────────────────────────────┘
+                              ▲
+┌────────────────────────────────────────────────────────────────┐
+│  LAYER 3: LONG-TERM WORKING MEMORY (LTWM)                      │
+│  Domain-specific retrieval structures allowing LTM to function │
+│  in working-memory-like role; bypasses conventional WM         │
+│  bottleneck within domain                                      │
+└────────────────────────────────────────────────────────────────┘
+                              ▲
+┌────────────────────────────────────────────────────────────────┐
+│  LAYER 2: HIERARCHICAL CHUNKS                                  │
+│  Domain knowledge organized into nested units that function    │
+│  as single items in WM; chess master holds positions as        │
+│  small # of high-order chunks (king-side castle, IQP, etc.)    │
+└────────────────────────────────────────────────────────────────┘
+                              ▲
+┌────────────────────────────────────────────────────────────────┐
+│  LAYER 1: SCHEMAS                                              │
+│  Structured representations of recurring patterns; classify,   │
+│  predict, complete partial information; do the heavy           │
+│  interpretive work that WM holds the result of                 │
+└────────────────────────────────────────────────────────────────┘
+
+  BUILT BY: Deliberate practice over thousands of cases.
+  ENABLES : Apparent "expanded WM" within domain.
+  RISK    : Same mechanisms produce expert vulnerability —
+            once compiled, productions fire when conditions
+            are met regardless of appropriateness.
+```
+
+**Reading guide:** Layers build upward; each presupposes the lower. The architecture explains both expert capability (Layers 1–4 as enabling mechanism) and expert vulnerability (the same mechanisms misfire on novel cases). This is the substrate the synthesis needs critical-thinking discipline to override.
+**Source:** §1.3 (schema-theoretic source)
+
+---
+
+## Visual Aid 4: Routine vs. Adaptive Expertise — The Quadrant
+**Purpose:** Position the report's core diagnostic categories along two orthogonal axes.
+
+```
+                  HIGH DOMAIN MASTERY
+                           ▲
+                           │
+   ┌───────────────────────┼───────────────────────┐
+   │                       │                       │
+   │   ROUTINE EXPERT      │   ADAPTIVE EXPERT     │
+   │                       │                       │
+   │   Virtuoso execution  │   Virtuoso execution  │
+   │   on stable cases.    │   PLUS reflective     │
+   │   Dreyfus expert      │   override on novel   │
+   │   stage; rich LTWM.   │   cases. Standards    │
+   │                       │   internalized; meta- │
+   │   Vulnerability:      │   cognitive monitor   │
+   │   expertise-reversal  │   detects when        │
+   │   on novel cases.     │   pattern fails.      │
+   │                       │                       │
+   │   Pseudoexpertise     │   ◄─ RMA TARGET       │
+   │   risk: confidence    │      ENDPOINT         │
+   │   exceeds calibration │                       │
+   │                       │                       │
+LOW├───────────────────────┼───────────────────────┤HIGH
+CT │                       │                       │  CT
+   │   NOVICE              │   GENERALIST          │
+   │                       │   CRITIC              │
+   │                       │                       │
+   │   Domain-empty;       │   Can dissect args    │
+   │   no schemas; rule-   │   in the abstract;    │
+   │   following.          │   no domain in which  │
+   │                       │   thinking does       │
+   │                       │   substantive work.   │
+   │                       │                       │
+   │                       │   Failure mode named  │
+   │                       │   in abstract.        │
+   │                       │                       │
+   └───────────────────────┼───────────────────────┘
+                           │
+                           ▼
+                  LOW DOMAIN MASTERY
+```
+
+**Reading guide:** Two diagonally opposed failure modes (routine expert who reasons badly when case shifts; generalist critic with no domain) are exactly the pathologies the abstract names. The RMA target is the upper-right cell — domain mastery integrated with critical discipline.
+**Source:** Abstract + §1.2 (routine vs adaptive) + §VI (validation)
+
+---
+
+## Visual Aid 5: The Five Engineered Bridges
+**Purpose:** Inventory the mediating concepts that integrate elements no source pair could integrate directly.
+
+```
+BRIDGE                        MEDIATES BETWEEN              FUNCTION
+═══════════════════════       ════════════════════          ════════════════
+
+1. Standard-Calibrated   ◄──  Paul-Elder standards    ──►   Standards become
+   Feedback Signal           + Ericsson deliberate         the criterion
+                              practice feedback            governing what
+                                                           "feedback signal"
+                                                           in deliberate
+                                                           practice means
+
+2. Schema Discipline     ◄──  Schema-theoretic        ──►   Schemas are
+                              architecture             ──►   constructed
+                              + Paul-Elder elements         under standards
+                                                           rather than
+                                                           accreting from
+                                                           raw exposure
+
+3. The Reflective        ◄──  Metacognitive monitor   ──►   Mechanism that
+   Override                  + automatized productions     detects when
+                                                           expert pattern-
+                                                           matching has
+                                                           substituted for
+                                                           genuine reasoning
+
+4. Disciplinary          ◄──  Paul-Elder virtues      ──►   General virtues
+   Dispositions              + domain-specific             instantiated as
+                              expertise practice            domain-specific
+                                                           character traits
+                                                           of mature
+                                                           practitioners
+
+5. The Adaptive-         ◄──  Routine expertise       ──►   Bifurcation
+   Routine Bifurcation       + adaptive expertise           point that
+                              + Schön's reflection-          determines when
+                              in-action                      reflection
+                                                           overrides routine
+```
+
+**Reading guide:** Each bridge is engineered for a specific non-aligned pair. Bridges 1–2 are the source-to-source integrations. Bridge 3 is the synthesis's distinctive contribution — the mechanism that makes adaptive expertise possible. Bridges 4–5 carry the dispositional and developmental dimensions.
+**Source:** §IV (Phase IV: Bridge Construction)
+
+---
+
+## Visual Aid 6: Reflective Mastery Architecture (RMA) — Integration View
+**Purpose:** Show how the four sources interlock through the bridges into a single coupled system.
+
+```
+            CRITICAL THINKING                COGNITIVE ARCHITECTURE
+            (Paul-Elder)                     (Schemas + Chunks +
+            Standards × Elements             LTWM + Proceduralization)
+                  │                                   │
+                  │ Bridge 2:                         │
+                  │ Schema Discipline                 │
+                  └──────────────┬────────────────────┘
+                                 │
+                                 ▼
+                  SCHEMAS BUILT UNDER STANDARDS
+                  (substrate of disciplined expert thought)
+                                 │
+                                 │
+                                 ▼
+                  ┌──────────────────────────────────────┐
+                  │  REFLECTIVE OVERRIDE LOOP (Bridge 3) │
+                  │                                      │
+                  │   Monitor ──► Detect mismatch ──►    │
+                  │   Suspend automatic firing ──►       │
+                  │   Re-engage standards application ──►│
+                  │   Generate new schema or revise old  │
+                  │                                      │
+                  └────────────────┬─────────────────────┘
+                                   │
+                                   ▼
+            DELIBERATE PRACTICE      ◄─── Bridge 1 ───
+            (Dreyfus + Ericsson)     Standard-Calibrated
+            Stage progression        Feedback Signal
+            driven by structured     (standards are now
+            edge-of-capability       the criterion against
+            practice                 which feedback is judged)
+                                   │
+                                   ▼
+            ┌──────────────────────────────────────┐
+            │  DISCIPLINARY DISPOSITIONS           │
+            │  (Bridge 4)                          │
+            │  Domain-specific instantiations of   │
+            │  intellectual humility, courage,     │
+            │  fairmindedness — character of the   │
+            │  mature practitioner                 │
+            └──────────────────┬───────────────────┘
+                               │
+                               ▼
+            ┌──────────────────────────────────────┐
+            │  ADAPTIVE-ROUTINE BIFURCATION        │
+            │  (Bridge 5)                          │
+            │  When pattern fits ──► routine       │
+            │  When pattern fails ──► adaptive     │
+            │      (re-enter reflective override)  │
+            └──────────────────────────────────────┘
+                               │
+                               ▼
+                     ADAPTIVE EXPERTISE
+                     (the synthesis target)
+```
+
+**Reading guide:** Read top-to-bottom as causal flow; the loops are essential — Bridge 3's reflective override returns control to the standards layer, and Bridge 5's bifurcation routes new cases back through the loop. Adaptive expertise is the emergent property that none of the four sources alone can explain.
+**Source:** §V (Phase V: Synthesis Engineering)
+
+---
+
+## Visual Aid 7: Report Scorecard
+**Purpose:** Single-page deliverable summary.
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║       REPORT SCORECARD — CT + EXPERTISE SYNTHESIS            ║
+╠══════════════════════════════════════════════════════════════╣
+║ Core thesis  : Critical thinking and expertise are not       ║
+║                parallel pursuits but co-constitutive         ║
+║                moments of one developmental arc. Mature      ║
+║                domain expertise IS domain-specific critical  ║
+║                thinking; general critical-thinking           ║
+║                discipline is what prevents expertise from    ║
+║                calcifying into routine.                      ║
+║                                                              ║
+║ Strongest    : The four sources have non-overlapping blind   ║
+║   evidence     spots that each other source fills (5×4       ║
+║                comparison matrix). Synthesis warrant is      ║
+║                structural, not merely additive.              ║
+║                                                              ║
+║ Weakest      : The Reflective Override (Bridge 3) is the     ║
+║   link         load-bearing original construction of the     ║
+║                synthesis; its empirical operation in         ║
+║                naturalistic expert performance is plausible  ║
+║                but not directly tested.                      ║
+║                                                              ║
+║ Key action   : Stop training expertise and critical thinking ║
+║                as parallel curricula. Engineer practice so   ║
+║                schemas are built under standards, deliberate ║
+║                practice feedback is standard-calibrated, and ║
+║                metacognitive override is rehearsable.        ║
+║                                                              ║
+║ Distinctive  : The four-stress-test validation (adaptive     ║
+║   features     expertise, expert overconfidence, transfer    ║
+║                problem, pseudoexpertise) — each a case the   ║
+║                source frameworks individually struggle with. ║
+║                                                              ║
+║ Read if you  : Design expertise curricula; train             ║
+║                professionals in high-stakes domains;         ║
+║                research expert cognition; build mentor       ║
+║                models for adaptive expertise.                ║
+║                                                              ║
+║ Skip if you  : Want concrete training exercises; need        ║
+║                empirical meta-analysis of CT instruction;    ║
+║                require RCT-validated interventions.          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Reading guide:** The synthesis is theoretically sophisticated and tightly integrated. Its central novel construct (Reflective Override / Bridge 3) is the mechanism most in need of empirical testing. Read accordingly.
+**Source:** Whole-report synthesis
+
+---
+
+## Synthesis Packet — Navigator
+
+**Top 5 takeaways:**
+1. Four sources cover four distinct dimensions (norms, development, mechanism, reflexivity); each is silent where another speaks — the synthesis warrant is structural.
+2. Cognitive architecture (schemas + chunks + LTWM + proceduralization) explains both expert capability and expert vulnerability — the same mechanisms that produce fluency produce expertise-reversal.
+3. Five engineered bridges integrate the sources; the Reflective Override (Bridge 3) is the load-bearing novel construction.
+4. Adaptive expertise is the emergent property of the integration — neither expertise nor critical thinking alone produces it.
+5. Dreyfus stages are reinterpreted as stages of *critical disciplinary thought*, not skill alone.
+
+**Which aid answers which question:**
+- "Why these four sources?" → Aid 1 (Comparison)
+- "How does development unfold?" → Aid 2 (Dreyfus Overlay)
+- "What makes experts expert?" → Aid 3 (Architecture Stack)
+- "What's the difference between routine and adaptive experts?" → Aid 4 (Quadrant)
+- "How are the sources actually integrated?" → Aid 5 (Bridges)
+- "What is RMA?" → Aid 6 (Integration View)
+- "Should I read this?" → Aid 7 (Scorecard)
+
+---
+
 ## Abstract
 
 The relationship between [[critical-thinking]] and [[expertise-development]] has long been treated as a relationship between two parallel acquisitions — one cultivating the general dispositions and standards of disciplined thought, the other building the domain-specific knowledge structures and automatized performances of mastery. The literatures sit beside each other in libraries and curricula without ever quite meeting, and the result, when one watches what actually unfolds in learners, is a familiar pathology: experts who execute their domain with virtuoso fluency and yet reason badly when the case shifts, alongside critical thinkers who can dissect arguments in the abstract and yet possess no domain in which their thinking does substantive work. Each acquisition, taken alone, produces a recognizable failure mode, and the pathology of each is precisely what the other was supposed to prevent.

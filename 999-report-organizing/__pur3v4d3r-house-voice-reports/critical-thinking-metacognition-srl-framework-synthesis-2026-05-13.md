@@ -47,6 +47,428 @@ tags:
   - "#contemplative-mechanism"
 ---
 
+# Visual Aid Suite
+
+> [!abstract] **About this Suite**
+> Seven monospace visual aids for this three-source framework synthesis: source-framework triangulation, the Nelson-Narens two-level monitoring-control architecture, the SRL phasic loop, the twelve load-bearing elements taxonomy, the four engineered bridges, the Disciplined Inquiry Architecture (DIA) integration view, and a final scorecard. The pipeline diagram inside the abstract is the master process map; these aids zoom into the substantive content.
+
+---
+
+## Visual Aid 1: Three-Source Triangulation
+**Purpose:** Show why these three sources require each other — each is structurally strong where the others are silent.
+
+```
+                   NORMATIVE DISCIPLINE
+                   (what counts as good thinking)
+                            ▲
+                            │
+                            │ ★★★★★ Paul-Elder
+                            │ ░░░░░ Metacognition
+                            │ ░░░░░ SRL
+                            │
+                            ●
+                          / │ \
+                         /  │  \
+                        /   │   \
+                       /    │    \
+                      /     │     \
+                     /      │      \
+                    /       │       \
+                   /        │        \
+                  ●─────────┼─────────●
+                 /│         │         │\
+                / │         │         │ \
+              ★★★★★         │         ★★★★★
+              ░░░░░         │         ░░░░░
+              ░░░░░         │         ░░░░░
+              SRL                     METACOG.
+              ████████████  │  ████████████
+              TEMPORAL      │  INTROSPECTIVE
+              PHASING       │  ARCHITECTURE
+              (steering     │  (watching one's
+              across episodes) own thinking unfold)
+
+   Each vertex: ★★★★★ for the source named there;
+                ░░░░░ for the other two on that dimension.
+
+   Synthesis warrant: NO PAIR of sources covers all three vertices.
+   The triangle is structural, not optional.
+```
+
+**Reading guide:** The three vertices are non-substitutable. Drop any one source and one entire dimension goes silent. This is the cleanest form of synthesis warrant: structural complementarity in which each source is uniquely load-bearing.
+**Source:** §I (Phase I: Framework Mapping)
+
+---
+
+## Visual Aid 2: Nelson-Narens Two-Level Monitoring-Control Architecture
+**Purpose:** Make the metacognitive substrate visible — the recursive structure that makes thinking-about-thinking possible.
+
+```
+         ┌────────────────────────────────────────────────┐
+         │           META-LEVEL                           │
+         │                                                │
+         │   Model of the object level:                   │
+         │   • What do I know about my knowing?           │
+         │   • How well is the object level performing?   │
+         │   • What should the object level do next?      │
+         │                                                │
+         └─────────────────┬──────────────┬───────────────┘
+                           ▲              │
+                           │              │
+                  MONITORING│              │CONTROL
+                  signals   │              │signals
+                  (state    │              │(directives,
+                  reports,  │              │adjustments,
+                  confidence│              │strategy
+                  judgments,│              │selection,
+                  feeling-  │              │termination)
+                  of-       │              │
+                  knowing)  │              │
+                           │              ▼
+         ┌─────────────────┴──────────────────────────────┐
+         │           OBJECT LEVEL                         │
+         │                                                │
+         │   Cognitive activity:                          │
+         │   • Encoding, retrieving, comprehending,       │
+         │     reasoning, problem-solving                 │
+         │   • The thinking that the meta-level watches   │
+         │     and steers                                 │
+         │                                                │
+         └────────────────────────────────────────────────┘
+
+  KEY PROPERTY: The meta-level holds a MODEL of the object level.
+                Quality of self-regulation depends on how
+                accurate that model is — calibration matters
+                more than the strength of either level alone.
+```
+
+**Reading guide:** The whole power of metacognition lies in the asymmetry: monitoring flows up, control flows down, and the meta-level operates on a model that may be miscalibrated. Bridge 3 in the synthesis (Reflective Calibration) targets exactly this calibration gap.
+**Source:** §I.2, §II.2 (metacognition source)
+
+---
+
+## Visual Aid 3: SRL Phasic Cyclical Loop
+**Purpose:** Show the temporal architecture the third source supplies — the phasing that the other two lack.
+
+```
+                    ┌─────────────────────┐
+                    │                     │
+                    │  PHASE 1:           │
+              ┌────►│  FORETHOUGHT        │
+              │     │                     │
+              │     │  • Goal setting     │
+              │     │  • Strategic        │
+              │     │    planning         │
+              │     │  • Self-efficacy    │
+              │     │    calibration      │
+              │     │  • Task analysis    │
+              │     │                     │
+              │     └──────────┬──────────┘
+              │                │
+              │                ▼
+              │     ┌─────────────────────┐
+              │     │                     │
+              │     │  PHASE 2:           │
+              │     │  PERFORMANCE        │
+              │     │                     │
+              │     │  • Strategy         │
+              │     │    enactment        │
+              │     │  • Self-observation │
+              │     │  • Real-time        │
+              │     │    adjustment       │
+              │     │  • Attention        │
+              │     │    control          │
+              │     │                     │
+              │     └──────────┬──────────┘
+              │                │
+              │                ▼
+              │     ┌─────────────────────┐
+              │     │                     │
+              │     │  PHASE 3:           │
+              │     │  REFLECTION         │
+              │     │                     │
+              │     │  • Self-evaluation  │
+              │     │  • Causal           │
+              │     │    attribution      │
+              │     │  • Affective        │
+              │     │    response         │
+              │     │  • Adaptive         │
+              │     │    inferences for   │
+              │     │    next cycle       │
+              │     │                     │
+              │     └──────────┬──────────┘
+              │                │
+              │                │
+              └────────────────┘
+                  Reflection feeds
+                  Forethought of
+                  the next cycle
+                  ────────────────
+                  the loop is what
+                  makes regulation
+                  POSSIBLE
+```
+
+**Reading guide:** The closure of the loop is the source's most important contribution: reflection is not a terminal act but the input to the next forethought phase. Without this temporal closure, monitoring and control would have no improvement trajectory.
+**Source:** §I.3 (SRL source)
+
+---
+
+## Visual Aid 4: Twelve Load-Bearing Elements — Taxonomy
+**Purpose:** Inventory the structural core extracted from each source.
+
+```
+LOAD-BEARING ELEMENTS (12 total)
+│
+├── FROM PAUL-ELDER (3 elements) ────────────────────────────┐
+│   ├── E1: The Elements of Thought                          │
+│   │       (8-component anatomy of any reasoning)           │
+│   ├── E2: The Universal Intellectual Standards             │
+│   │       (9 evaluative criteria for thought quality)      │
+│   └── E3: The Intellectual Virtues                         │
+│           (8 dispositional traits of mature thinkers)      │
+│
+├── FROM METACOGNITION (4 elements) ─────────────────────────┐
+│   ├── E4: Metacognitive Knowledge                          │
+│   │       (person × task × strategy declarative know.)     │
+│   ├── E5: Metacognitive Experiences                        │
+│   │       (in-process feelings: difficulty, confidence,    │
+│   │        feeling-of-knowing, tip-of-tongue)              │
+│   ├── E6: The Monitoring Function                          │
+│   │       (upward signal flow from object to meta level)   │
+│   └── E7: The Control Function                             │
+│           (downward directives from meta to object level)  │
+│
+└── FROM SELF-REGULATED LEARNING (5 elements) ───────────────┐
+    ├── E8: Forethought Phase                                │
+    │       (goal-setting, planning, calibration)            │
+    ├── E9: Performance Phase                                │
+    │       (enactment + self-observation)                   │
+    ├── E10: Reflection Phase                                │
+    │       (evaluation, attribution, adaptive inference)    │
+    ├── E11: The Cyclical-Loop Property                      │
+    │       (reflection feeds next forethought)              │
+    └── E12: The Sovereignty Locus                           │
+            (self as the regulator — not external authority) │
+```
+
+**Reading guide:** Twelve elements survive extraction. Their distribution (3-4-5) reflects the analytical density of each source on its strongest dimension. Element E12 (Sovereignty Locus) is what makes SRL specifically *self-*regulation rather than merely "regulation" in general — it appears nowhere in the other sources and becomes critical for Bridge 4.
+**Source:** §II (Phase II: Element Extraction)
+
+---
+
+## Visual Aid 5: The Four Engineered Bridges
+**Purpose:** Inventory the mediating concepts that integrate elements no source pair could integrate directly.
+
+```
+BRIDGE                          MEDIATES BETWEEN              FUNCTION
+═══════════════════════         ════════════════════          ═══════════════
+
+1. Standards-Bound        ◄──   Paul-Elder standards    ──►   Monitoring is
+   Monitoring                   + Nelson-Narens               not free-floating
+                                monitoring                    "how am I doing?"
+                                                              but standards-
+                                                              indexed: "is
+                                                              this CLEAR?
+                                                              ACCURATE?
+                                                              RELEVANT?"
+
+2. Phasic Standards       ◄──   Paul-Elder elements/    ──►   Standards are
+   Deployment                   standards                     deployed
+                                + SRL three phases            differently in
+                                                              forethought
+                                                              (planning),
+                                                              performance
+                                                              (real-time
+                                                              checking), and
+                                                              reflection
+                                                              (post-hoc audit)
+
+3. Reflective             ◄──   Metacognitive monitor   ──►   The reflection
+   Calibration                  + SRL reflection phase        phase becomes
+                                                              the mechanism
+                                                              by which the
+                                                              meta-level model
+                                                              of the object
+                                                              level is
+                                                              updated and
+                                                              re-calibrated
+
+4. The Sovereignty        ◄──   SRL sovereignty locus   ──►   Maps the
+   Gradient                     + Paul-Elder virtues          progression
+                                + scaffolding contexts        from externally
+                                                              regulated to
+                                                              self-regulated
+                                                              inquiry — the
+                                                              developmental
+                                                              endpoint that
+                                                              none of the
+                                                              source phases
+                                                              alone names
+```
+
+**Reading guide:** Bridges 1 and 3 are the synthesis's load-bearing innovations — they engineer what the source frameworks could not directly join. Bridge 1 makes monitoring substantive; Bridge 3 closes the calibration loop the metacognitive architecture leaves open. Bridges 2 and 4 are scaffolding that distributes the synthesis through time and across developmental stages.
+**Source:** §IV (Phase IV: Bridge Construction)
+
+---
+
+## Visual Aid 6: Disciplined Inquiry Architecture (DIA) — Integration View
+**Purpose:** Show how the three sources interlock through the four bridges into a single coupled system.
+
+```
+            ┌──────────────────────────────────────────────┐
+            │  PHASE 1: FORETHOUGHT                        │
+            │  Standards deployed in PLANNING mode         │
+            │  ◄── Bridge 2 (Phasic Standards Deployment)  │
+            │                                              │
+            │  • What question am I asking? [E1.purpose]   │
+            │  • What would CLEAR success look like?       │
+            │    [E2.clarity + E12.sovereignty]            │
+            │  • Plan strategy under standards-as-criteria │
+            └────────────────────┬─────────────────────────┘
+                                 │
+                                 ▼
+            ┌──────────────────────────────────────────────┐
+            │  PHASE 2: PERFORMANCE                        │
+            │  Standards-Bound Monitoring active           │
+            │  ◄── Bridge 1 (Standards-Bound Monitoring)   │
+            │                                              │
+            │  ┌──────────────────────────────────────┐    │
+            │  │ Object-level: thinking happens       │    │
+            │  └─────────────────┬────────────────────┘    │
+            │                    │                         │
+            │       monitoring   │   control               │
+            │       upward       │   downward              │
+            │       (indexed to  │   (corrective:          │
+            │       standards:   │   re-state, fetch       │
+            │       "is this     │   evidence, reframe,    │
+            │       precise?")   │   suspend)              │
+            │                    ▼                         │
+            │  ┌──────────────────────────────────────┐    │
+            │  │ Meta-level: standards-indexed model  │    │
+            │  │ of object-level performance          │    │
+            │  └──────────────────────────────────────┘    │
+            └────────────────────┬─────────────────────────┘
+                                 │
+                                 ▼
+            ┌──────────────────────────────────────────────┐
+            │  PHASE 3: REFLECTION                         │
+            │  Reflective Calibration of the meta-model    │
+            │  ◄── Bridge 3 (Reflective Calibration)       │
+            │                                              │
+            │  • Audit performance against standards       │
+            │    [E2 × E10]                                │
+            │  • Update meta-level model of object level   │
+            │    [E4 + E6]                                 │
+            │  • Generate adaptive inferences for next     │
+            │    forethought cycle [E11]                   │
+            └────────────────────┬─────────────────────────┘
+                                 │
+                                 │ (loops back to FORETHOUGHT)
+                                 ▼
+            ┌──────────────────────────────────────────────┐
+            │  THROUGHOUT: SOVEREIGNTY GRADIENT            │
+            │  ◄── Bridge 4 (Sovereignty Gradient)         │
+            │                                              │
+            │  Externally    ─────────►   Self-            │
+            │  scaffolded                 sovereign        │
+            │  inquiry                    inquiry          │
+            │  (teacher       (peer       (internalized    │
+            │   posed          coached     standards +     │
+            │   standards)     practice)   virtues)        │
+            │                  E3 (virtues) act as the     │
+            │                  internalization vector      │
+            └──────────────────────────────────────────────┘
+
+  THE WHOLE SYSTEM = the SRL loop driving cycles
+                   + standards-indexed monitoring inside performance
+                   + standards-audited reflection that updates the
+                     meta-level model
+                   + a sovereignty trajectory from scaffold to self
+```
+
+**Reading guide:** The three SRL phases supply the temporal skeleton; standards-bound monitoring (Bridge 1) loads the object-level performance with normative content; reflective calibration (Bridge 3) closes the improvement loop; the sovereignty gradient (Bridge 4) names the developmental arc. Adaptive disciplined inquiry is the emergent property of the integration.
+**Source:** §V (Phase V: Synthesis Engineering)
+
+---
+
+## Visual Aid 7: Report Scorecard
+**Purpose:** Single-page deliverable summary.
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   REPORT SCORECARD — CT + METACOGNITION + SRL SYNTHESIS      ║
+╠══════════════════════════════════════════════════════════════╣
+║ Core thesis  : Critical thinking, metacognition, and self-   ║
+║                regulated learning are not three separate     ║
+║                pursuits but three faces of one coupled       ║
+║                architecture: the normative dimension         ║
+║                (CT), the introspective architecture          ║
+║                (metacog), and the temporal-phasic skeleton   ║
+║                (SRL). The Disciplined Inquiry Architecture   ║
+║                (DIA) is the integration.                     ║
+║                                                              ║
+║ Strongest    : Triangular structural complementarity — no    ║
+║   evidence     pair of sources covers all three vertices.    ║
+║                The synthesis is structurally required, not   ║
+║                merely useful.                                ║
+║                                                              ║
+║ Weakest      : The Sovereignty Gradient (Bridge 4) is more   ║
+║   link         conceptually elegant than empirically         ║
+║                operationalized. The transition mechanisms    ║
+║                from scaffolded to self-sovereign inquiry     ║
+║                remain underspecified.                        ║
+║                                                              ║
+║ Key action   : Stop teaching CT, metacognitive strategies,   ║
+║                and study skills as separate curricula. Re-   ║
+║                engineer instruction so monitoring is         ║
+║                standards-indexed, reflection is calibration- ║
+║                producing, and the loop runs across episodes  ║
+║                rather than within them.                      ║
+║                                                              ║
+║ Distinctive  : Two preserved incommensurabilities held as    ║
+║   features     productive tensions rather than dissolved;    ║
+║                four-stress-test validation; explicit         ║
+║                derivation traces from each element to        ║
+║                source.                                       ║
+║                                                              ║
+║ Read if you  : Design instructional architectures; train     ║
+║                self-directed learners; research metacog or   ║
+║                SRL; build PKBs that encode disciplined       ║
+║                inquiry.                                      ║
+║                                                              ║
+║ Skip if you  : Want classroom-ready strategy lists; need     ║
+║                meta-analytic effect sizes; require RCT-      ║
+║                validated interventions before engaging       ║
+║                theoretical construction.                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Reading guide:** The synthesis is theoretically dense and methodologically explicit. Its developmental dimension (Bridge 4) is the most underspecified and the most fruitful for further research and instructional design.
+**Source:** Whole-report synthesis
+
+---
+
+## Synthesis Packet — Navigator
+
+**Top 5 takeaways:**
+1. Three sources cover three distinct dimensions (norms, introspection, temporal phasing); structural complementarity makes the synthesis required, not optional.
+2. Twelve load-bearing elements survive extraction; their 3-4-5 distribution reflects each source's analytical density on its strongest dimension.
+3. Four engineered bridges integrate the sources; Bridges 1 (Standards-Bound Monitoring) and 3 (Reflective Calibration) are the load-bearing novel constructions.
+4. DIA's emergent property is *adaptive disciplined inquiry* — neither CT, metacognition, nor SRL alone produces it.
+5. Two incommensurabilities are preserved as productive tensions rather than dissolved by force, retaining the analytical traction of each source.
+
+**Which aid answers which question:**
+- "Why these three sources?" → Aid 1 (Triangulation)
+- "What does metacognition actually do?" → Aid 2 (Nelson-Narens)
+- "How does SRL structure time?" → Aid 3 (Phasic Loop)
+- "What's being synthesized?" → Aid 4 (Element Taxonomy)
+- "How are the sources actually integrated?" → Aid 5 (Bridges)
+- "What is DIA?" → Aid 6 (Integration View)
+- "Should I read this?" → Aid 7 (Scorecard)
+
+---
+
 # The Disciplined Inquiry Architecture: A Framework Synthesis from [[critical-thinking|Critical Thinking]], [[metacognition|Metacognition]], and [[self-regulated-learning|Self-Regulated Learning]]
 
 ## Abstract

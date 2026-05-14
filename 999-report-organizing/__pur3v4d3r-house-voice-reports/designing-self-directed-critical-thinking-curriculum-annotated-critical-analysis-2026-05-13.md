@@ -58,6 +58,413 @@ aliases:
   - "Designing for Critical Autonomy"
 ---
 
+> [!abstract]+ **📐 Visual Aid Suite — Annotated Architecture At-a-Glance**
+> Eight portable diagrams distilling the report's central paradox, tripartite-triadic homology, four-stage progression, three-layer assessment architecture, five-subsystem working design, and confidence distribution across annotated claims. All artifacts use ASCII/Unicode box-drawing only. The Section-1 in-Abstract argument map (preserved below) is COMPLEMENTED — not duplicated — by this suite, which adds operational and epistemic-distribution views the in-section diagram does not.
+
+## Visual Aid 1: The Constitutive Paradox — A Recursive Loop
+
+**Purpose:** Make visible the structural feature that organizes the entire analysis: a curriculum whose explicit purpose is to render itself unnecessary.
+
+```
+                    ┌──────────────────────────────┐
+                    │  CURRICULUM EXISTS to        │
+                    │  develop CAPACITIES          │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │  CAPACITIES, once developed, │
+                    │  RENDER THE CURRICULUM       │
+                    │  UNNECESSARY                 │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │  ∴ A SUCCESSFUL design must  │
+                    │  SPECIFY THE CONDITIONS      │
+                    │  OF ITS OWN WITHDRAWAL       │
+                    └──────────────┬───────────────┘
+                                   │
+        ┌──────────────────────────┼──────────────────────────┐
+        ▼                          ▼                          ▼
+┌──────────────┐          ┌──────────────┐          ┌──────────────┐
+│ ⚠ FAILURE 1  │          │ ⚠ FAILURE 2  │          │ ⚠ FAILURE 3  │
+│              │          │              │          │              │
+│ Static       │          │ Performative │          │ Authority    │
+│ tradeoff     │          │ contradic-   │          │ never trans- │
+│ "balance     │          │ tion: teach  │          │ ferred. The  │
+│ structure    │          │ resistance   │          │ institution  │
+│ vs autonomy" │          │ to structure │          │ refuses to   │
+│              │          │ THROUGH      │          │ release      │
+│ Treats       │          │ unques-      │          │ control over │
+│ moving       │          │ tionable     │          │ what counts  │
+│ target as    │          │ structure    │          │ as adequate. │
+│ fixed point. │          │              │          │              │
+└──────────────┘          └──────────────┘          └──────────────┘
+```
+
+**Reading guide:** The top three boxes form the constitutive loop the report takes as its organizing problem. The bottom row enumerates the three predictable failure modes when the loop is not honored — each is named in the body text but rarely shown together. Failure 3 is the institutional-political dimension the literature most frequently elides.
+**Source:** §1 (Paradox of Designing for Autonomy).
+
+---
+
+## Visual Aid 2: Tripartite × Triadic Homology — Where Two Literatures Converge
+
+**Purpose:** Reveal the structural homology between the critical-thinking architecture (§2) and the self-directed-learning architecture (§3), with explicit marking of where the homology strains.
+
+```
+   CRITICAL THINKING (§2)               SELF-DIRECTED LEARNING (§3)
+   ┌────────────────────────┐           ┌────────────────────────┐
+   │ SKILLS                 │           │ SELF-MANAGEMENT        │
+   │ • Argument analysis    │           │ • Resource selection   │
+   │ • Inference evaluation │   ╔═══►   │ • Sequencing & timing  │
+   │ • Fallacy detection    │   ║       │ • Environmental control│
+   │ • Inductive/deductive/ │   ║       │                        │
+   │   abductive standards  │   ║       │ ⚠ NO direct CT analog. │
+   │                        │   ║       │   CT research operates │
+   │                        │   ║       │   in classrooms where  │
+   │                        │   ║       │   the institution      │
+   │                        │   ║       │   supplies this layer. │
+   └────────────────────────┘   ║       └────────────────────────┘
+                                ║       (productive STRAIN — the
+                                ║        SDL literature supplies
+                                ║        what CT has missed)
+                                ║
+   ┌────────────────────────┐   ║       ┌────────────────────────┐
+   │ METACOGNITION          │ ◄═╬═════► │ SELF-MONITORING        │
+   │ • In-flight monitoring │   ║       │ • Comprehension check  │
+   │ • Calibration          │   ║       │ • Strategy adequacy    │
+   │ • Strategy adjustment  │   ║ STRONG│ • Effort regulation    │
+   │                        │   ║ HOMOL.│                        │
+   └────────────────────────┘   ║       └────────────────────────┘
+                                ║
+   ┌────────────────────────┐   ║       ┌────────────────────────┐
+   │ DISPOSITIONS           │ ◄═╬═════► │ MOTIVATION             │
+   │ • Truth-seeking        │   ║ STRONG│ • Autonomous engage.   │
+   │ • Inquisitiveness      │   ║ HOMOL.│ • Sustained commit.    │
+   │ • Systematicity        │   ║       │ • Volitional control   │
+   │ • Reflectiveness       │   ║       │                        │
+   │ • Open-mindedness      │   ║       │                        │
+   └────────────────────────┘   ║       └────────────────────────┘
+                                ║
+                  ★ INFERENCE — the two literatures, developed
+                    in substantial isolation, converged on the
+                    SAME developmental architecture from
+                    different vocabularies. Confidence: 3/5.
+```
+
+**Reading guide:** Double arrows mark structural homologies; the dashed strain on the top row is the report's diagnostic insight that critical-thinking research has under-specified contextual self-management because it operates in environments where institutions supply that layer. The convergence claim is rated 3/5 in the report — well-motivated, not empirically demonstrated.
+**Source:** §3 reasoning-trace callout; §2 dispositional analysis.
+
+---
+
+## Visual Aid 3: Four-Stage Scaffolding-Sovereignty Progression — Signal-Question Detail
+
+**Purpose:** Show the four stages with the developmental signal that authorizes each transition — the operational heart of the design per §4.
+
+```
+              │ STAGE 1   │ STAGE 2   │ STAGE 3    │ STAGE 4    │
+              │ MODELED   │ GUIDED    │ COACHED    │ SOVEREIGN  │
+              │ PERFORM.  │ PRACTICE  │ PERFORM.   │ PRACTICE   │
+──────────────┼───────────┼───────────┼────────────┼────────────┤
+CURRICULUM    │ Demonst-  │ Provides  │ Selective  │ Peer       │
+SUPPLIES      │ rates     │ rich      │ interven-  │ resource;  │
+              │ expert    │ scaffolds │ tion only  │ NO direc-  │
+              │ practice  │ + immed.  │ where need │ tive role  │
+              │           │ feedback  │ is detected│            │
+──────────────┼───────────┼───────────┼────────────┼────────────┤
+LEARNER       │ Observes; │ Attempts  │ Substantive│ Authorita- │
+SUPPLIES      │ annotates │ work      │ ownership; │ tive own   │
+              │ what good │ inside    │ recruits   │ direction; │
+              │ thinking  │ scaffolds │ scaffolds  │ CONSTRUCTS │
+              │ looks like│           │ as needed  │ own tools  │
+──────────────┼───────────┼───────────┼────────────┼────────────┤
+SIGNAL TO     │ Learner   │ Skill     │ Calibrated │ N/A        │
+ADVANCE       │ predicts  │ deployed  │ self-      │ (endpoint) │
+("authorizes  │ next move │ UN-       │ monitoring │            │
+ transition") │ in expert │ PROMPTED  │ + intrinsic│ Capstone   │
+              │ demo      │ in novel  │ engagement │ confirms   │
+              │           │ task      │ visible    │            │
+──────────────┼───────────┼───────────┼────────────┼────────────┤
+WHAT FADES    │ Internal- │ Origin-   │ Origination│ Curriculum │
+              │ ization   │ ation of  │ has shifted│ as direc-  │
+              │ of model  │ scaffold  │ to learner │ ting       │
+              │ begins    │ shared    │            │ structure  │
+──────────────┼───────────┼───────────┼────────────┼────────────┤
+RISK IF STUCK │ Spectator │ Embedded  │ Dependence │ Premature  │
+              │ stance;   │ scaffolds │ on coach;  │ entry →    │
+              │ no own    │ never     │ no full    │ drift,     │
+              │ practice  │ withdraw  │ ownership  │ regression │
+──────────────┴───────────┴───────────┴────────────┴────────────┘
+
+  ★ CRITICAL CORRECTION (per §4 warning callout):
+    What fades is the ORIGINATION of scaffolds, not their
+    QUANTITY. Sovereign learners may use MORE scaffolds than
+    guided learners — but they BUILT THEM THEMSELVES.
+```
+
+**Reading guide:** The SIGNAL TO ADVANCE row is the operational heart — these are the developmental signals the curriculum's sensor-instruments must be able to read. The bottom warning is the report's most-cited misconception correction: fading is about authorship, not amount.
+**Source:** §4 (Scaffolding-Sovereignty Progression).
+
+---
+
+## Visual Aid 4: The Autonomy/Structure Dialectic — Same Scaffold, Two Forms
+
+**Purpose:** Show that the type/timing/manner of scaffold provision determines whether structure builds or erodes autonomy — independent of scaffold AMOUNT.
+
+```
+                       SCAFFOLD PROVISION STYLE
+                   ◄── CONTROLLING ──┬── AUTONOMY-SUPPORTIVE ──►
+                                     │
+              ┌─────────────────────────────────────────────┐
+              │                      │                      │
+        HIGH  │  ⚠ TRAP QUADRANT     │  ★ INTEGRATED        │
+   STRUCTURE  │                      │    OPTIMAL ZONE      │
+              │  Compliant           │                      │
+              │  performers;         │  Rich scaffolds      │
+              │  rubric-             │  WITH rationale,     │
+              │  satisfaction        │  negotiated          │
+              │  displaces           │  modification,       │
+              │  truth-seeking       │  staged transfer     │
+              │                      │                      │
+              ├──────────────────────┼──────────────────────┤
+              │                      │                      │
+         LOW  │  ⚠ ABANDONMENT       │  ⚠ UNSUPPORTED       │
+   STRUCTURE  │    QUADRANT          │    AUTONOMY          │
+              │                      │                      │
+              │  No structure,       │  Good intentions,    │
+              │  no autonomy-        │  no scaffold for     │
+              │  support — the       │  capacities not yet  │
+              │  worst of all        │  developed; learner  │
+              │  worlds              │  flounders           │
+              │                      │                      │
+              └─────────────────────────────────────────────┘
+                                     │
+       Insight: The right axis is NOT structure quantity but
+       structure STYLE. The same scaffold provided differently
+       moves the learner across the horizontal axis.
+```
+
+**Reading guide:** This is a Self-Determination Theory–derived 2×2 the report uses to dissolve the false dichotomy "more autonomy = less structure." The lower-left ABANDONMENT QUADRANT is the modal failure of "give them freedom" curricula; the upper-left TRAP is the modal failure of well-meaning but controlling assessment systems.
+**Source:** §3 (Autonomy/Structure Dialectic, including the "Same Scaffold, Two Forms" example callout).
+
+---
+
+## Visual Aid 5: Three-Layer Assessment-for-Autonomy — Frequency × Stakes
+
+**Purpose:** Show how the three layers of the assessment architecture coordinate across temporal rhythms and developmental functions.
+
+```
+                          ASSESSMENT STAKES →
+                       LOW       MEDIUM      HIGH
+                     ┌────────┬────────────┬────────┐
+                HIGH │ ████   │            │        │
+                     │ LAYER 1│            │        │
+                     │ Cont.  │            │        │
+                     │ Sensing│            │        │
+                     │        │            │        │
+   FREQUENCY  ──────┼────────┼────────────┼────────┤
+                MED  │        │ ▓▓▓▓       │        │
+                     │        │ LAYER 2    │        │
+                     │        │ SOVEREIGNTY│        │
+                     │        │ CHECKS ★   │        │
+                     │        │            │        │
+                     ├────────┼────────────┼────────┤
+                LOW  │        │            │ ▒▒▒▒   │
+                     │        │            │ LAYER 3│
+                     │        │            │ CAPSTONE│
+                     │        │            │ DEMO   │
+                     └────────┴────────────┴────────┘
+
+  LAYER 1 — CONTINUOUS PROCESS SENSING
+    Function: produces developmental signals (drives Layer 2)
+    Form: think-aloud, reflection prompts, peer-discussion
+    Per artifact weight: LOW (no single artifact decides)
+
+  LAYER 2 — PERIODIC SOVEREIGNTY CHECK ★ (the design innovation)
+    Function: tests CRITERION-GENERATION capacity, not skill
+    Form: learner ARTICULATES own criteria, defends, applies
+    Distinctive: instructor TESTS coherence, does NOT impose
+    Confidence rating in report: 2/5 (operational viability
+    under typical institutional constraints uncertain)
+
+  LAYER 3 — CAPSTONE DEMONSTRATION
+    Function: integration evidence; certification to external
+              audiences
+    Form: dialogic encounter — criteria CO-CONSTRUCTED with
+          learner + external evaluators
+    Avoids re-importing controlling structure of conventional
+    examination
+
+  COUPLING:  Layer 1 ──signals──► Layer 2 ──evidence──► Layer 3
+             Each layer is necessary; none alone is sufficient.
+```
+
+**Reading guide:** The grid positions each layer in the frequency × stakes plane. The middle layer (★ Sovereignty Check) is the design innovation distinguishing this architecture from conventional assessment, and it is the report's most clearly-flagged speculative claim (rated 2/5). The coupling line at the bottom shows how signals propagate up through the layers.
+**Source:** §5 (Assessment Problem); the original-synthesis callout naming the three-layer architecture.
+
+---
+
+## Visual Aid 6: Five-Subsystem Working Architecture — Signal-Flow Dependency Graph
+
+**Purpose:** Show how the five subsystems of §6 coordinate through developmental signal flow.
+
+```
+                  ┌────────────────────────────────────────┐
+                  │  SUBSYSTEM 4 — ASSESSMENT (3-LAYER)    │
+                  │  Continuous sensing + Sovereignty      │
+                  │  checks + Capstone                     │
+                  │  ★ ORIGIN of developmental signals     │
+                  └─────────────────┬──────────────────────┘
+                                    │ signals
+                                    ▼
+                  ┌────────────────────────────────────────┐
+                  │  SUBSYSTEM 1 — DEVELOPMENTAL MAPPING   │
+                  │  Per-arc location of each learner      │
+                  │  on each of 4 developmental arcs       │
+                  │  (skills, dispos., metacog., self-mgmt)│
+                  └─────────────────┬──────────────────────┘
+                                    │ stage assignments
+                                    ▼
+                  ┌────────────────────────────────────────┐
+                  │  SUBSYSTEM 2 — STAGED INSTRUCTIONAL    │
+                  │  SEQUENCING                            │
+                  │  4-stage progression PER ARC, with     │
+                  │  cross-arc coordination                │
+                  └─────────┬──────────────────┬───────────┘
+                            │                  │
+                            ▼                  ▼
+              ┌───────────────────┐  ┌────────────────────┐
+              │ SUBSYSTEM 3       │  │ SUBSYSTEM 5        │
+              │ EXTERNALIZED      │  │ COMMUNITY OF       │
+              │ COGNITIVE TOOLING │  │ INQUIRY            │
+              │                   │  │                    │
+              │ Templates → co-   │  │ Peers at varied    │
+              │ constructed →     │  │ stages; structured │
+              │ learner-built     │  │ interaction        │
+              │ (ownership fades) │  │ protocols          │
+              └─────────┬─────────┘  └─────────┬──────────┘
+                        │                      │
+                        └──────────┬───────────┘
+                                   │ produces process artifacts
+                                   ▼
+                          (back to Subsystem 4 ↑)
+
+  ★ LOAD-BEARING (per §6): Subsystems 1 and 4 are essential.
+    Under resource constraints, implement those rigorously
+    even if 3 and 5 are attenuated. Architecture WITHOUT
+    developmental sensor produces uneven, accidental
+    development.
+```
+
+**Reading guide:** Read clockwise from Subsystem 4 (the developmental sensor). Signals propagate down through mapping → sequencing → tooling and community → which produce the artifacts that feed back into Subsystem 4. The whole architecture has the same recursive shape as its parts. The load-bearing note identifies which subsystems must not be compromised under resource constraints.
+**Source:** §6 (Working Curriculum Architecture, especially the five-subsystem definition callout).
+
+---
+
+## Visual Aid 7: Confidence Distribution Across Annotated Claims
+
+**Purpose:** Make visible the report's epistemic shape — where its evidence is strong, where it is interpretive, where it is speculative.
+
+```
+                       CONFIDENCE LEVEL OF ANNOTATED CLAIMS
+                       (≈18 major claims across the report)
+
+                       Number of Claims
+                       0    2    4    6    8    10
+                       │    │    │    │    │    │
+   5/5 Established    ██▓                                  (≈2 claims)
+       │              │
+   4/5 Well-supported ████████▓                            (≈4 claims)
+       │              │
+   3/5 Mixed evidence ████████████████▓                    (≈8 claims)
+       │              │
+   2/5 Limited        ████████▓                            (≈4 claims)
+       │              │
+   1/5 Speculative    ░                                    (0 claims)
+                      │
+
+  ★ SHAPE INTERPRETATION (per §Meta-Analysis):
+    The distribution clusters at 3/5 — the level where most
+    INTEGRATIVE and OPERATIONAL claims live. This is itself
+    diagnostic of the field: foundational components (what CT
+    is, what SDL is, that scaffolds must fade) are reasonably
+    supported, but the integrative & operational claims a
+    DESIGNER MOST NEEDS are where evidence thins out.
+
+  WHERE CONFIDENCE IS HIGHEST (4/5 — well-supported):
+    ▸ The structural paradox itself (§1)
+    ▸ The autonomy/structure dialectic (§3)
+    ▸ The triadic SDL architecture (§3)
+    ▸ The dispositional gap as modal failure (§2)
+
+  WHERE CONFIDENCE IS LOWEST (2/5 — limited):
+    ▸ Periodic sovereignty check construct (§5)
+    ▸ Three-layer assessment architecture (§5)
+    ▸ Five-subsystem integrated architecture (§6)
+    ▸ Final integrative claim (§6)
+
+  ⚠ DEPENDENCY: The strongest claims do NOT depend on the
+    weakest ones, but the overall design RECOMMENDATION
+    DEPENDS ON the integrative move in §6. If the periodic
+    sovereignty check turns out infeasible, much of §§5–6
+    needs redesign.
+```
+
+**Reading guide:** Each bar's length is the rough count of claims at that confidence level. The distribution is an honest picture of where the field is — strong on components, weaker on integration. The bottom-left note traces the dependency structure: the recommendation rests on the weakest claim. This is the report's deliberate epistemic transparency, not a weakness in the analysis.
+**Source:** §Meta-Analysis (confidence distribution analysis); each section's epistemic-status callout.
+
+---
+
+## Visual Aid 8: TL;DR Scorecard + Reader Navigator
+
+**Purpose:** Compact final summary plus pointer table for question-driven access.
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║         REPORT SCORECARD — Annotated Critical Analysis           ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Thesis        : A self-directed CT curriculum is structurally    ║
+║                 paradoxical; success requires specifying its     ║
+║                 own conditions of withdrawal across 4 arcs.      ║
+║ Strongest evd : §1 paradox framing (4/5); §3 autonomy/struct.    ║
+║                 dialectic (4/5); dispositional gap (4/5).        ║
+║ Weakest link  : Periodic sovereignty check construct (2/5);      ║
+║                 5-subsystem integrated architecture (2/5).       ║
+║ Distinctive   : Inline annotation methodology — claims are       ║
+║                 separated from epistemic justification, both     ║
+║                 developed at higher quality. Form transferable.  ║
+║ Key action    : If implementing under constraints, prioritize    ║
+║                 Subsystems 1 & 4 (mapping + assessment) as       ║
+║                 load-bearing; partial implementation = partial   ║
+║                 outcomes (don't pretend otherwise).              ║
+║ Read if you   : Want a worked example of epistemic transparency  ║
+║                 applied to a contested design problem; building  ║
+║                 a curriculum / training pipeline / PKB system.   ║
+║ Skip if you   : Need a single empirically validated method or    ║
+║                 a turnkey lesson plan rather than design analysis║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+**Reader Navigator — Which Visual Answers Which Question?**
+
+| Question                                                    | Visual Aid |
+|-------------------------------------------------------------|------------|
+| Why is this design problem structurally paradoxical?        | Aid 1      |
+| How do CT and SDL frameworks relate?                        | Aid 2      |
+| What does staged scaffold-fading actually look like?        | Aid 3      |
+| How can the same scaffold support OR undermine autonomy?    | Aid 4      |
+| How is sovereign critical thinking assessed?                | Aid 5      |
+| How do the curriculum subsystems coordinate operationally?  | Aid 6      |
+| How confident can I be in the report's various claims?      | Aid 7      |
+| Is this report worth my time, and how should I read it?     | Aid 8      |
+| (See also: §1 Abstract's in-place argument map for the      |            |
+|  document-flow view — that diagram is preserved in place.)  |            |
+
+**Source:** Whole-report synthesis; Meta-Analysis section.
+
+---
+
 # Designing Self-Directed Critical Thinking Curriculum: An Annotated Critical Analysis
 
 ## Abstract

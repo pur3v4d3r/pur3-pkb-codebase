@@ -147,6 +147,400 @@ connection-strength:
   exploratory: ["Virtue epistemology", "Pragmatist inquiry"]
 ---
 
+# Visual Aid Suite
+
+> [!abstract]+ **At-a-Glance Visual Suite**
+> Eight portable diagrams that map the report's argument, architecture, and failure modes. All visuals use monospace-safe characters and render in any markdown viewer. Collapse this section once read; the full report follows below.
+
+## Visual Aid 1: Argument Architecture — How the Seven Sections Build the Design
+
+> [!diagram] **Section Dependency Map**
+> *Purpose:* Show how each section advances the central thesis and what depends on what.
+>
+> ```
+>                    CENTRAL DESIGN PROBLEM
+>           "Critical thinking requires submission to standards
+>            the thinker did not invent; self-direction requires
+>            the learner to hold authority over their development."
+>                              │
+>                              ▼
+>                     §1  Why naive resolutions fail
+>                              │
+>                              ▼
+>                     §2  Four constitutive elements
+>                         (skill • disposition •
+>                          knowledge • metacog. sovereignty)
+>                              │
+>                              ▼
+>                     §3  Five-layer bootstrapping
+>                         (External → Sovereign)
+>                              │
+>          ┌───────────────────┼───────────────────┐
+>          ▼                   ▼                   ▼
+>     §4 Scaffolding-     §5 PKB as           §6 Motivational
+>     Sovereignty         Constitutive        Foundations
+>     Progression         Cognitive Arch.     (SDT triad)
+>          │                   │                   │
+>          └───────────────────┼───────────────────┘
+>                              ▼
+>                     §7  Sovereign Self-Assessment
+>                         (completes the migration)
+>                              │
+>                              ▼
+>                  CONSTITUTIVE SCAFFOLDING THESIS
+>                  (the integrated architecture)
+> ```
+>
+> **Reading guide:** §1–§3 frame the problem and target. §4–§6 supply the three architectural dimensions (environmental, cognitive-environmental, motivational). §7 closes the loop by extending sovereignty to assessment itself. The bottom node names the report's original synthesis.
+> **Source:** §1 → §7, Synthesis & Integration
+
+---
+
+## Visual Aid 2: The Four Constitutive Elements of SDCT
+
+> [!diagram] **Target Configuration — Four Components, One Configuration**
+> *Purpose:* Show the four elements that must be jointly present and integrated, plus the failure mode produced by each in isolation.
+>
+> ```
+>   ┌─────────────────────┐  ┌─────────────────────┐
+>   │  COGNITIVE SKILL    │  │ AFFECTIVE           │
+>   │  analysis,          │  │ DISPOSITION         │
+>   │  inference,         │  │ humility, courage,  │
+>   │  evaluation,        │  │ fair-mindedness,    │
+>   │  self-regulation    │  │ perseverance        │
+>   │                     │  │                     │
+>   │  ALONE → competent  │  │  ALONE → motivated  │
+>   │  but not deployed   │  │  but incapable      │
+>   └──────────┬──────────┘  └──────────┬──────────┘
+>              │                        │
+>              └─────► INTEGRATION ◄────┘
+>                          ▲
+>              ┌───────────┼───────────┐
+>              │                       │
+>   ┌──────────┴──────────┐  ┌─────────┴───────────┐
+>   │ SUBSTANTIVE         │  │ METACOGNITIVE       │
+>   │ KNOWLEDGE           │  │ SOVEREIGNTY         │
+>   │ domain content      │  │ self-monitoring &   │
+>   │ that reasoning      │  │ control under the   │
+>   │ operates upon       │  │ learner's authority │
+>   │                     │  │                     │
+>   │  ALONE → informed   │  │  ALONE → self-aware │
+>   │  but reasons badly  │  │  with nothing to    │
+>   │                     │  │  monitor            │
+>   └─────────────────────┘  └─────────────────────┘
+>
+>     ★ Self-Directed Critical Thinking exists ONLY when
+>       all four are jointly present AND integrated.
+> ```
+>
+> **Reading guide:** Each quadrant names a component and its in-isolation failure mode. The center demands integration — the report's design problem is the integration, not the components. Section 2 develops each element in detail.
+> **Source:** §2
+
+---
+
+## Visual Aid 3: The Five-Layer Bootstrapping Ladder
+
+> [!diagram] **Migration of Authority Over Standards**
+> *Purpose:* Show how the *source* of standards stays stable while the *locus of authority* over their application migrates from external structure into the learner.
+>
+> ```
+>   AUTHORITY     LAYER                          LEARNER'S RELATION
+>   LOCATION      ─────                          TO THE STANDARDS
+>   ═════════
+>
+>   EXTERNAL  ──► [1] EXTERNAL ENCOUNTER     ──► honored because REQUIRED
+>      │              (framework as outside        by external source
+>      │               articulation)
+>      │
+>      │       ──► [2] IMITATIVE APPLICATION ──► honored because the learner
+>      │              (clumsy, checklist-led)     is TRYING to honor them
+>      │
+>      ▼
+>   PARTIALLY ──► [3] INTERNALIZED           ──► honored because the learner
+>   INTERNAL       ARTICULATION                  KNOWS them as a body of
+>                  (no checklist needed)         possessed knowledge
+>      │
+>      │       ▓▓▓ CRITICAL HINGE ▓▓▓
+>      │       phenomenological shift, not new content
+>      ▼
+>   FULLY     ──► [4] RECOGNIZED             ──► honored because the learner
+>   INTERNAL       CONSTITUTIVITY                SEES them as describing
+>                  (standards = how good        what coherent thought is
+>                   thinking actually works)
+>      │
+>      ▼
+>   SOVEREIGN ──► [5] SOVEREIGN REFINEMENT   ──► honored because the learner
+>                  (authority to extend &        has MADE THEM THEIR OWN
+>                   contextualize)
+>
+>   ────────────────────────────────────────────────────────────
+>   CRITICAL FADING:  external monitoring must be ░░ ▒▒ ▓▓ faded
+>                     in step with internal capacity growing
+> ```
+>
+> **Reading guide:** Read top-to-bottom as a developmental migration over months/years. The 3→4 transition is the hinge — a phenomenological shift, not additional knowledge. The architecture's job is to manage migration without breaking the honoring at any stage.
+> **Source:** §3
+
+---
+
+## Visual Aid 4: The Three-Stage Scaffolding–Sovereignty Progression
+
+> [!diagram] **Authority Migration Across the Long Arc (Swimlane)**
+> *Purpose:* Show how external scaffolding fades while internal architecture grows — and what dominates at each stage.
+>
+> ```
+>           STAGE 1            STAGE 2            STAGE 3
+>           SCAFFOLDED         TRANSITIONAL       SOVEREIGN
+>           (Layers 1–2)       (Layers 3–4)       (Layers 4–5)
+>   ────────┼──────────────────┼──────────────────┼──────────────►
+>   EXT.    │ ████████████████ │ ████████░░░░░░░░ │ ░░░░░░░░░░░░░░ │
+>   SCAFF.  │ DOMINANT         │ FADING (backstop)│ OPTIONAL RES.  │
+>   ────────┼──────────────────┼──────────────────┼────────────────┤
+>   LEARNER │ ░░░░░░░░░░░░░░░░ │ ░░░░░░░░████████ │ ████████████████│
+>   INTERN. │ minimal          │ growing          │ DOMINANT        │
+>   ARCH.   │                  │ ↑ grows into     │ ↑ standards as  │
+>           │                  │ ↑ space ext.     │ ↑ constitutive  │
+>           │                  │ ↑ vacates        │ ↑ refinable     │
+>   ────────┼──────────────────┼──────────────────┼────────────────┤
+>   STANDS. │ checklist-       │ anticipated      │ deployed        │
+>   APPLIC. │ explicit         │ criteria         │ without explicit│
+>           │                  │                  │ attention       │
+>   ────────┴──────────────────┴──────────────────┴────────────────┘
+>
+>   Legend:  ████ dominant   ░░░░ minimal/optional   ↑ growth direction
+> ```
+>
+> **Reading guide:** External scaffolding ▓ and internal architecture ░ are inversely coupled across the arc. The PARTICIPATORY FADING is the design move that prevents the heavy-monitoring trap — fading is too fast → premature sovereignty; too slow → never internalized.
+> **Source:** §4
+
+---
+
+## Visual Aid 5: The Four-Dimensional Integrated Architecture
+
+> [!diagram] **Master Architecture — One Migration Problem, Four Angles**
+> *Purpose:* Show how all four design dimensions address the SAME underlying problem (migration of authority) from different angles.
+>
+> ```
+>                ┌─────────────────────────────────┐
+>                │   THE UNDERLYING DESIGN PROBLEM │
+>                │                                 │
+>                │   Migration of authority FROM   │
+>                │   outside the learner TO inside │
+>                │   the learner, sustained across │
+>                │   a multi-year developmental arc│
+>                └────────────────┬────────────────┘
+>                                 │
+>           ┌─────────────────────┼─────────────────────┐
+>           ▼                     ▼                     ▼
+>   ┌───────────────┐   ┌───────────────┐   ┌───────────────┐
+>   │  COGNITIVE    │   │ ENVIRONMENTAL │   │ MOTIVATIONAL  │
+>   │  (§3)         │   │ (§4–§5)       │   │ (§6)          │
+>   │               │   │               │   │               │
+>   │ 5-layer       │   │ Scaffolding-  │   │ SDT triad:    │
+>   │ bootstrapping │   │ Sovereignty   │   │ Autonomy      │
+>   │ Layers 1→5    │   │ progression + │   │ Competence    │
+>   │               │   │ PKB as        │   │ Relatedness   │
+>   │ what migrates │   │ constitutive  │   │               │
+>   │ and how       │   │ workspace     │   │ what sustains │
+>   └───────┬───────┘   └───────┬───────┘   └───────┬───────┘
+>           │                   │                   │
+>           └─────────┬─────────┴─────────┬─────────┘
+>                     ▼                   ▼
+>             ┌───────────────────────────────┐
+>             │     ASSESSMENT (§7)           │
+>             │                               │
+>             │  Sovereign Self-Assessment    │
+>             │  COMPLETES the migration —    │
+>             │  the most consequential       │
+>             │  exercise of monitoring must  │
+>             │  also migrate to the learner. │
+>             └───────────────┬───────────────┘
+>                             ▼
+>                ┌────────────────────────────┐
+>                │ CONSTITUTIVE SCAFFOLDING   │
+>                │ THESIS — the integration   │
+>                └────────────────────────────┘
+> ```
+>
+> **Reading guide:** Each dimension is a different angle on the same migration problem. Coherence requires designing all four in mutually-supporting ways. Single-dimension designs produce predictable failures (next visual).
+> **Source:** Synthesis & Integration
+
+---
+
+## Visual Aid 6: The SDT Triad Mapped to SDCT
+
+> [!diagram] **Why Self-Determination Theory Maps Cleanly Onto SDCT**
+> *Purpose:* Show the correspondence between SDT's three basic needs and the motivational requirements of the long developmental arc.
+>
+> ```
+>   ┌──────────────┐    ┌──────────────────────────────────────┐
+>   │   AUTONOMY   │ ─► │ Learner experiences architecture as  │
+>   │ (self-       │    │ THEIR OWN UNDERTAKING.               │
+>   │  endorsed    │    │ ◆ Author of the PKB structure        │
+>   │  action)     │    │ ◆ Calibrates own scaffold fading     │
+>   │              │    │ ◆ Chooses framework commitment       │
+>   └──────────────┘    └──────────────────────────────────────┘
+>
+>   ┌──────────────┐    ┌──────────────────────────────────────┐
+>   │  COMPETENCE  │ ─► │ Visible accumulating improvement     │
+>   │ (felt        │    │ even as early stages reveal gaps.    │
+>   │  effective-  │    │ ◆ PKB externalizes growth record     │
+>   │  ness)       │    │ ◆ Reframe early "worse" as necessary │
+>   │              │    │ ◆ Small wins compound across years   │
+>   └──────────────┘    └──────────────────────────────────────┘
+>
+>   ┌──────────────┐    ┌──────────────────────────────────────┐
+>   │ RELATEDNESS  │ ─► │ Connection to communities of inquiry │
+>   │ (meaningful  │    │ that share the standards.            │
+>   │  connection) │    │ ◆ Reading fellow inquirers' work     │
+>   │              │    │ ◆ Engagement w/ historical traditions│
+>   │              │    │ ◆ Peer correspondence & mentorship   │
+>   └──────────────┘    └──────────────────────────────────────┘
+>
+>   ★ Why the mapping is unusually clean:
+>     SDCT is a CONSTITUTIVE practice (changes who one IS),
+>     not a performance practice (changes what one CAN DO).
+>     Constitutive practices REQUIRE intrinsic motivation —
+>     no extrinsic reward can substitute.
+> ```
+>
+> **Reading guide:** SDT is not one motivational framework among many for SDCT — it is THE framework, because the triad addresses the specifically constitutive character of the practice. The right column shows concrete design moves that satisfy each need.
+> **Source:** §6
+
+---
+
+## Visual Aid 7: Failure Modes Ledger
+
+> [!diagram] **Diagnostic Catalog — How Designs Fail and Why**
+> *Purpose:* Make the report's named failure modes recognizable so they can be diagnosed in design practice.
+>
+> ```
+>   ┌────────────────────┬──────────────┬──────────────────────────────┐
+>   │ FAILURE MODE       │ DIMENSION    │ MECHANISM                    │
+>   ├────────────────────┼──────────────┼──────────────────────────────┤
+>   │ Heavy-Monitoring   │ Cognitive    │ External monitoring sustained│
+>   │ Trap               │ /§3          │ throughout → internal monit. │
+>   │                    │              │ never develops; loop never   │
+>   │                    │              │ migrates                     │
+>   ├────────────────────┼──────────────┼──────────────────────────────┤
+>   │ Empty Critical     │ Knowledge    │ Skills cultivated without    │
+>   │ Thinking           │ /§2          │ substantive content → labels │
+>   │                    │              │ moves rather than evaluating │
+>   │                    │              │ substance                    │
+>   ├────────────────────┼──────────────┼──────────────────────────────┤
+>   │ Four-Pile Failure  │ Integration  │ Each component cultivated in │
+>   │                    │ /§2          │ isolation → no architecture  │
+>   │                    │              │ assembles them into a        │
+>   │                    │              │ thinker                      │
+>   ├────────────────────┼──────────────┼──────────────────────────────┤
+>   │ Performance-Goal   │ Motivational │ External pressure shifts     │
+>   │ Drift              │ /§6          │ locus from intrinsic mastery │
+>   │                    │              │ to visible markers; corrodes │
+>   │                    │              │ constitutive function        │
+>   ├────────────────────┼──────────────┼──────────────────────────────┤
+>   │ Verification       │ Assessment   │ Self-assessment becomes      │
+>   │ Theater            │ /§7          │ checkbox exercise; rigor     │
+>   │                    │              │ drifts into emptiness with   │
+>   │                    │              │ no external check to detect  │
+>   ├────────────────────┼──────────────┼──────────────────────────────┤
+>   │ Premature          │ Fading       │ Scaffold faded faster than   │
+>   │ Sovereignty        │ /§4          │ internal capacity grows →    │
+>   │                    │              │ demands the learner cannot   │
+>   │                    │              │ meet                         │
+>   ├────────────────────┼──────────────┼──────────────────────────────┤
+>   │ PKB-as-Tool        │ Environment  │ PKB framed as study aid not  │
+>   │ Framing            │ /§5          │ constitutive architecture;   │
+>   │                    │              │ stays external rather than   │
+>   │                    │              │ becoming part of how learner │
+>   │                    │              │ thinks                       │
+>   └────────────────────┴──────────────┴──────────────────────────────┘
+> ```
+>
+> **Reading guide:** Each failure mode names a design pathology, the dimension it lives in, and its underlying mechanism. Use diagnostically — if your design exhibits these symptoms, the corresponding section in the report identifies the corrective architectural move.
+> **Source:** §2, §3, §4, §6, §7
+
+---
+
+## Visual Aid 8: Far Transfer — Where Else the Architecture Applies
+
+> [!diagram] **Pattern Transfer Beyond Critical Thinking (Spectrum)**
+> *Purpose:* Show that the architecture is a domain-specific instantiation of a more general developmental pattern by which sovereign capacity emerges from heteronomous practice.
+>
+> ```
+>   STRUCTURAL HOMOLOGY ◄───── degree of fit ─────► SURFACE SIMILARITY
+>
+>   ●──────●────────●─────────●──────────●──────────●
+>   │      │        │         │          │          │
+>   │      │        │         │          │          │
+>   Crit.  Skill    Contemp.  Therap. /  Org. /     Civic /
+>   Think. Acquis.  Practice  Habit      Institut.  Population-
+>   (the   (Dreyfus (Stoic,   Formation  Design     scale design
+>   case)  novice→ mindfuln., (recovery, (collect.  (coordin.
+>          expert) prayer)    char.dev.) sovereig.) problems)
+>
+>   STRONG ◄──────────────────────────────────► WEAKER
+>   transfer                                    transfer
+>   (5-layer + scaffolding-sovereignty          (boundary
+>    + sovereign self-assessment all hold)      conditions
+>                                                multiply)
+> ```
+>
+> **Reading guide:** Critical thinking is the case the report develops. Moving rightward, the same structural design moves apply with progressively more domain-specific adaptation. Boundary conditions (acute crises, severe power asymmetries, collective-action problems) limit transfer at the far right.
+> **Source:** Far Transfer section
+
+---
+
+## Synthesis Packet
+
+> [!abstract] **TL;DR Scorecard**
+> ```
+> ╔══════════════════════════════════════════════════════════════╗
+> ║              SELF-DIRECTED CRITICAL THINKING DESIGN          ║
+> ║                  FOUNDATIONAL REPORT SCORECARD               ║
+> ╠══════════════════════════════════════════════════════════════╣
+> ║ Core Thesis  : Self-directed critical thinking requires      ║
+> ║                a CONSTITUTIVE architecture in which external ║
+> ║                scaffolding becomes the very cognitive        ║
+> ║                architecture by which thinking operates.      ║
+> ║                                                              ║
+> ║ Key Move     : Migrate authority over standards from outside ║
+> ║                the learner to inside, while keeping the      ║
+> ║                standards themselves stable.                  ║
+> ║                                                              ║
+> ║ Architecture : 4 dimensions (cognitive • environmental •     ║
+> ║                motivational • assessment) addressing one     ║
+> ║                migration problem from different angles.      ║
+> ║                                                              ║
+> ║ Original     : The CONSTITUTIVE SCAFFOLDING THESIS —         ║
+> ║ Synthesis      scaffolding is not removable support but      ║
+> ║                initial embodiment of the architecture the    ║
+> ║                learner is developing.                        ║
+> ║                                                              ║
+> ║ Time Scale   : Multi-year developmental arc; PKB as          ║
+> ║                durable substrate enabling recovery from      ║
+> ║                inevitable lapses.                            ║
+> ║                                                              ║
+> ║ Read If You  : design learning environments, build a PKB,    ║
+> ║                cultivate disciplined thinking in yourself    ║
+> ║                or others, or work on autonomous expertise.   ║
+> ║                                                              ║
+> ║ Skip If You  : want a critical-thinking checklist or a      ║
+> ║                short-form pedagogy for skill installation.   ║
+> ╚══════════════════════════════════════════════════════════════╝
+> ```
+
+> [!helpful-tip] **Navigator — Which Visual Answers Which Question**
+> - *"What is the report actually arguing?"* → **Visual 1** (Argument Architecture)
+> - *"What are we trying to cultivate in the learner?"* → **Visual 2** (Four Constitutive Elements)
+> - *"How does capacity develop without pre-existing capacity?"* → **Visual 3** (Five-Layer Ladder)
+> - *"How is the long arc actually managed over time?"* → **Visual 4** (Scaffolding-Sovereignty Progression)
+> - *"How do all the pieces fit together?"* → **Visual 5** (Four-Dimensional Architecture)
+> - *"What sustains engagement across the years?"* → **Visual 6** (SDT Triad Mapped)
+> - *"How can I tell if my design is failing?"* → **Visual 7** (Failure Modes Ledger)
+> - *"Where else does this pattern apply?"* → **Visual 8** (Far Transfer Spectrum)
+
+---
+
 # Self-Directed Critical Thinking Design: A Foundational Architecture for Cultivating Disciplined Reasoning Without External Authority
 
 ## Abstract

@@ -1441,22 +1441,22 @@ Please feel free to ask any question you have.
 
 
 
+# Running the Diagram Prompt for Reports
+
+I want you to run your prompt on the following reports, generate the appropriate diagrams for each of the reports listed below.
+
+## TASK
+1. Review the report in full to understand the content and the key concepts that are being discussed in the report.
+2. Identify the key concepts and relationships that are being discussed in the report, and determine which types of diagrams would be most appropriate for visualizing those concepts and relationships.
+3. Use the diagram prompt to generate the diagrams for each of the reports listed below, ensuring that the diagrams accurately represent the key concepts and relationships discussed in the reports.
+4. Place the created diagrams just below the YAML Frontmatter of each report, and make sure to properly format the diagrams for optimal display in Obsidian.
 
 
+`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\critical-thinking-as-a-self-directed-learning-goal-annotated-critical-analysis-2026-05-13.md`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\critical-thinking-and-personal-knowledge-management-framework-synthesis-2026-05-13.md`
+`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\critical-thinking-and-expertise-development-framework-synthesis-2026-05-13.md`
+`D:\10_pur3v4d3r's-vault\999-report-organizing\__pur3v4d3r-house-voice-reports\critical-thinking-metacognition-srl-framework-synthesis-2026-05-13.md`
 
 
 

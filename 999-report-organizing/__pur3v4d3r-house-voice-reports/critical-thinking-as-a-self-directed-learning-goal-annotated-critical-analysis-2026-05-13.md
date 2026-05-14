@@ -57,6 +57,321 @@ primary-wiki-links:
   - "[[scaffolding-sovereignty-progression]]"
 ---
 
+# Visual Aid Suite
+
+> [!abstract] **About this Suite**
+> Six monospace visual aids distilling the report's load-bearing structure: the central thesis, the seven-section argument backbone, the triadic concept of critical thinking, the bootstrapping loop, the framework comparison matrix, the SDT regulation continuum, the developmental trajectory, and a final scorecard. All aids render in any markdown viewer; no images required.
+
+---
+
+## Visual Aid 1: Argument Backbone — How the Seven Sections Build the Thesis
+**Purpose:** Show the causal-logical chain by which each section feeds the next toward the report's central design conclusion.
+
+```
+§1 CATEGORICAL STRANGENESS
+   (CT is a triadic coupled goal, not a unitary skill)
+                  │
+                  ▼
+§2 BOOTSTRAPPING PROBLEM
+   (the goal needs the very capacities it's meant to develop)
+                  │
+                  ▼
+§3 EXTERNAL FRAMEWORKS  ──┐
+   (Paul-Elder, Facione,  │  ← three forms of
+    Ennis as scaffolding) │     externalized metacognition
+                  │       │
+                  ▼       │
+§4 DISPOSITIONAL SUBSTRATE│
+   (skills decay without  │
+    enacted virtue)       │
+                  │       │
+                  ▼       │
+§5 MOTIVATIONAL ARCH.     │
+   (SDT — autonomous      │
+    regulation required)  │
+                  │       │
+                  ▼       │
+§6 PKB AS INTEGRATIVE  ◄──┘
+   ARCHITECTURE
+   (hosts scaffolding +
+    persists reasoning +
+    engineers friction)
+                  │
+                  ▼
+§7 SCAFFOLDING-SOVEREIGNTY
+   PROGRESSION
+   (scaffolded → transitional → sovereign)
+                  │
+                  ▼
+        THESIS DELIVERED
+```
+
+**Reading guide:** Each downward arrow is a logical entailment; the loop from §3 to §6 marks how the framework scaffolding gets re-housed in the PKB. If §1's categorical-strangeness framing is rejected, the entire chain becomes optional. If accepted, each subsequent section is forced.
+**Source:** §1–§7 (full report arc)
+
+---
+
+## Visual Aid 2: The Triadic Coupled System — Skills × Standards × Dispositions
+**Purpose:** Visualize the report's foundational claim that critical thinking is three mutually-constitutive components, not a unitary capacity.
+
+```
+                    ┌──────────────────────┐
+                    │   CRITICAL THINKING  │
+                    │  (coupled triad —    │
+                    │   not unitary skill) │
+                    └──────────┬───────────┘
+                               │
+            ┌──────────────────┼──────────────────┐
+            ▼                  ▼                  ▼
+      ┌──────────┐      ┌──────────┐       ┌──────────────┐
+      │  SKILLS  │      │STANDARDS │       │ DISPOSITIONS │
+      │analysis  │      │clarity   │       │humility      │
+      │inference │◄────►│accuracy  │◄─────►│courage       │
+      │evaluation│      │precision │       │empathy       │
+      │explan.   │      │relevance │       │autonomy      │
+      └────┬─────┘      │depth     │       │perseverance  │
+           │            │breadth   │       │fairmindedness│
+           │            │logic     │       └──────┬───────┘
+           │            │fairness  │              │
+           │            └────┬─────┘              │
+           ▼                 ▼                    ▼
+    skills WITHOUT      standards WITHOUT    dispositions WITHOUT
+    standards →         dispositions →       skills →
+    sophistry           inconsistency        earnest ineffectiveness
+```
+
+**Reading guide:** Each component is necessary; none is sufficient. The bidirectional arrows mean the components co-develop — improvement in one without the others produces the failure mode shown beneath. This is why §4 calls dispositions the "load-bearing element" for self-directed learners (who systematically under-elicit dispositional friction).
+**Source:** §1, §3.4, §4
+
+---
+
+## Visual Aid 3: The Bootstrapping Loop — Why External Scaffolding Is Structural
+**Purpose:** Make visible the self-closing failure cycle that motivates the entire report.
+
+```
+            ┌──────────────────────────────────┐
+            │   POOR METACOGNITIVE MONITORING  │
+            │   (Dunning-Kruger + fluency      │
+            │    illusion + discrepancy        │
+            │    reduction)                    │
+            └──────────────┬───────────────────┘
+                           │
+                           ▼
+            ┌──────────────────────────────────┐
+            │ UNDETECTED CRITICAL-THINKING     │
+            │ FAILURES                         │
+            └──────────────┬───────────────────┘
+                           │
+                           ▼
+            ┌──────────────────────────────────┐
+            │ NO CORRECTIVE REGULATION         │
+            │ TRIGGERED                        │
+            └──────────────┬───────────────────┘
+                           │
+                           ▼
+            ┌──────────────────────────────────┐
+            │ NO IMPROVEMENT IN MONITORING     │
+            │ CALIBRATION                      │
+            └──────────────┬───────────────────┘
+                           │
+                           └─────► (loop back to top)
+
+    ▲▲▲ LOOP IS CLOSED AGAINST IMPROVEMENT ▲▲▲
+
+      ◄═══════════════════════════════════════►
+       EXTERNAL SCAFFOLDING REQUIRED TO OPEN
+       — frameworks (§3)
+       — dispositional friction (§4)
+       — relatedness/community (§5)
+       — PKB persistence (§6)
+```
+
+**Reading guide:** Each arrow is empirically grounded; it is the convergence of three documented failures onto a single architecture that closes the loop. World-feedback, which corrects miscalibration in language learning or programming, is too slow and ambiguous in critical thinking to substitute. Hence: scaffolding is structural, not merely pedagogical.
+**Source:** §2
+
+---
+
+## Visual Aid 4: Framework Comparison Matrix — Scaffolding Affordances
+**Purpose:** Show how each of the three validated frameworks scaffolds a different developmental need so the learner knows when to deploy which.
+
+```
+┌────────────────────┬──────────────┬──────────────┬──────────────┐
+│   AFFORDANCE       │  PAUL-ELDER  │   FACIONE    │    ENNIS     │
+├────────────────────┼──────────────┼──────────────┼──────────────┤
+│ Diagnostic         │   ★★★★★      │   ★★★☆☆      │   ★★★☆☆      │
+│ operation          │ (standards   │              │              │
+│                    │  as Q-set)   │              │              │
+├────────────────────┼──────────────┼──────────────┼──────────────┤
+│ Skill/disposition  │   ★★★☆☆      │   ★★★★★      │   ★★★☆☆      │
+│ planning           │              │ (independent │              │
+│                    │              │  measures)   │              │
+├────────────────────┼──────────────┼──────────────┼──────────────┤
+│ Transfer to        │   ★★★☆☆      │   ★★★☆☆      │   ★★★★★      │
+│ action/decision    │              │              │ (deciding-   │
+│                    │              │              │  oriented)   │
+├────────────────────┼──────────────┼──────────────┼──────────────┤
+│ Empirical          │   ★★★★☆      │   ★★★★★      │   ★★★★☆      │
+│ validation         │              │ (CCTST/CCTDI)│              │
+├────────────────────┼──────────────┼──────────────┼──────────────┤
+│ Bootstrapping-loop │   ★★★★★      │   ★★★★☆      │   ★★★☆☆      │
+│ break              │              │              │              │
+└────────────────────┴──────────────┴──────────────┴──────────────┘
+
+RECOMMENDED DEPLOYMENT (combined-framework strategy, §3.4):
+  Paul-Elder  →  in-the-moment diagnostic instrument
+  Facione     →  developmental compass (plan both dimensions)
+  Ennis       →  transfer scaffold (analysis → real-world action)
+```
+
+**Reading guide:** No framework dominates all functions; the three are complementary rather than competing. The combined-strategy recommendation is interpretive synthesis (confidence 3/5) — well-motivated but not directly empirically tested.
+**Source:** §3.1–§3.4
+
+---
+
+## Visual Aid 5: SDT Regulation Continuum — Where Self-Directed CT Must Live
+**Purpose:** Locate the motivational quality required to sustain the dispositional friction CT development demands.
+
+```
+CONTROLLED                                              AUTONOMOUS
+REGULATION                                              REGULATION
+    │                                                       │
+    ●──────●──────●──────●──────●──────────────●──────●─────●
+ EXTERNAL  INTRO-  IDEN-  INTE-  INTRINSIC
+           JECTED  TIFIED GRATED
+    │      │      │      │      │
+    │      │      │      └──────┴───────────►  REQUIRED RANGE
+    │      │      │                            for genuine SDL
+    │      │      │                            CT development
+    │      │      │
+    │      │      └──► sustains skill practice;
+    │      │           may sustain framework consultation
+    │      │           but rarely sustains dispositional friction
+    │      │
+    │      └──► produces performative CT;
+    │           satisfies internal judge but bypasses friction
+    │
+    └──► produces minimum-compliance practice;
+         discontinues when external pressure removed
+
+THREE BASIC NEEDS THAT KEEP REGULATION AUTONOMOUS (§5):
+  AUTONOMY    ✓  satisfied by SDL by definition
+  COMPETENCE  ✓  satisfied via framework scaffolding (§3)
+  RELATEDNESS ✗  STRUCTURALLY UNDER-SERVED in solo practice
+                 — must be engineered (intellectual community,
+                   public reasoning, accountability partner)
+```
+
+**Reading guide:** The framing risk is the over-justification effect — heavy scaffolding can convert intrinsic inquiry into chore-like compliance, sliding the learner leftward. Scaffolding must be experienced as *informational* rather than *controlling* (§5 closing warning).
+**Source:** §5
+
+---
+
+## Visual Aid 6: Scaffolding-Sovereignty Progression — The Developmental Trajectory
+**Purpose:** Show how the architecture evolves across years and what design choices fit which phase.
+
+```
+TIME ──────────────────────────────────────────────────►
+
+PHASE 1: SCAFFOLDED      PHASE 2: TRANSITIONAL    PHASE 3: SOVEREIGNTY
+─────────────────────    ─────────────────────    ─────────────────────
+Heavy framework          Standards become         Standards as
+consultation;            background heuristics;   internalized features
+PKB as primary           framework as check       of judgment;
+monitoring instrument;   against intuition;       PKB as augmented
+work feels effortful     friction practices       memory rather than
+and foreign              feel like identity       corrective scaffold
+                         extensions
+
+Scaffold density: ████   Scaffold density: ▓▓░░   Scaffold density: ░░░░
+Effort cost:      ████   Effort cost:      ▓▓░░   Effort cost:      ░░░░
+Intuition trust:  ░░░░   Intuition trust:  ▓▓░░   Intuition trust:  ████
+
+DESIGN RISK BY PHASE:
+  Phase 1: too little scaffolding → bootstrapping failure
+  Phase 2: too much scaffolding → over-justification, intuition
+            cannot internalize standards
+  Phase 3: too much prescription → degrades the very intuitions
+            the practice was meant to build
+
+KEY INSIGHT: Sovereignty is INTERNALIZATION of scaffolding,
+             not its TRANSCENDENCE. The frameworks remain
+             useful — their function shifts from corrective
+             to amplifying.
+```
+
+**Reading guide:** Phase boundaries are heuristic, not sharp. The arc is well-supported (instructional design literature on scaffolded fading); the specific three-phase model is interpretive (confidence 3/5). Design choices appropriate to one phase actively impede progress to the next — a common failure mode.
+**Source:** §7
+
+---
+
+## Visual Aid 7: Report Scorecard
+**Purpose:** Single-page deliverable summary.
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║               REPORT SCORECARD — CT AS SDL GOAL              ║
+╠══════════════════════════════════════════════════════════════╣
+║ Core thesis  : Critical thinking has a recursive structure   ║
+║                that closes the metacognitive loop against    ║
+║                self-correction; integrative architecture     ║
+║                (frameworks + PKB + engineered friction +     ║
+║                autonomous motivation) is what makes solo     ║
+║                development tractable.                        ║
+║                                                              ║
+║ Strongest    : The triadic decomposition (skills/standards/  ║
+║   evidence     dispositions) — convergent across Paul-Elder, ║
+║                Facione/Delphi, Ennis — independently         ║
+║                developed (5/5).                              ║
+║                                                              ║
+║ Weakest      : "The loop is closed unless something external ║
+║   link         opens it" overshoots empirical evidence;      ║
+║                defensible version is "scaffolding is         ║
+║                reliable solution to a difficult-but-not-     ║
+║                strictly-impossible bootstrapping" (3/5).     ║
+║                                                              ║
+║ Key action   : Engineer dispositional friction into your     ║
+║                practice — the comfort that drives ordinary   ║
+║                SDL success is what undermines critical       ║
+║                thinking development.                         ║
+║                                                              ║
+║ Read if you  : Pursue CT/wisdom/metacognition under self-    ║
+║                direction; design PKBs with epistemic intent; ║
+║                build curricula for recursive learning goals. ║
+║                                                              ║
+║ Skip if you  : Want quick-start CT exercises; need empirical ║
+║                meta-analysis; reject strong-structural       ║
+║                claims about cognition on principle.          ║
+║                                                              ║
+║ Avg. confid. : 3.7 / 5  (component claims 4–5; integrative   ║
+║                          synthesis 3)                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Reading guide:** The report's strength is integrative coherence; its weakness is that several of the load-bearing integrative claims (bootstrapping closure, PKB as uniquely-suited architecture, three-phase trajectory) are interpretive synthesis rather than empirical findings. Read accordingly.
+**Source:** Synthesis of all sections + Meta-Analysis
+
+---
+
+## Synthesis Packet — Navigator
+
+**Top 5 takeaways:**
+1. Critical thinking is a triadic coupled system (skills × standards × dispositions), not a unitary skill — the components co-develop or fail together.
+2. The bootstrapping problem is structural: the same metacognitive capacities being developed are required to detect their own absence.
+3. External scaffolding (validated frameworks) is the reliable solution to the closure; Paul-Elder, Facione, and Ennis offer complementary affordances.
+4. Dispositions are the load-bearing element for solo learners because autonomy itself lets them be quietly skipped — friction must be engineered.
+5. The PKB, designed with intent, integrates the requirements (scaffold + persist + friction + competence signal + partial relatedness) at lower coordination cost than separate tools.
+
+**Which aid answers which question:**
+- "What is the report actually arguing?" → Aid 1 (Argument Backbone)
+- "What is critical thinking, structurally?" → Aid 2 (Triadic System)
+- "Why can't I just teach myself?" → Aid 3 (Bootstrapping Loop)
+- "Which framework should I use?" → Aid 4 (Comparison Matrix)
+- "What kind of motivation do I need?" → Aid 5 (SDT Continuum)
+- "What does the long arc look like?" → Aid 6 (Scaffolding-Sovereignty)
+- "Should I read this report?" → Aid 7 (Scorecard)
+
+---
+
 # Critical Thinking as a Self-Directed Learning Goal: An Annotated Critical Analysis
 
 ## Abstract

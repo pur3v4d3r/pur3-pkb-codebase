@@ -150,6 +150,393 @@ connection-strength:
   exploratory: ["Heutagogy", "Personal Knowledge Base Architecture"]
 ---
 
+> [!abstract]+ **📐 Visual Aid Suite — Architectural At-a-Glance**
+> Eight portable diagrams distilling the report's central thesis, internal structure, design tensions, and curriculum spine. All artifacts use ASCII/Unicode box-drawing only — fully renderable in Obsidian, GitHub, terminal, or any markdown viewer. Each is paired with a purpose line, a reading guide, and a source-section anchor.
+
+## Visual Aid 1: Argument Architecture — How the Seven Sections Build the Integration
+
+**Purpose:** Show how each section supplies a load-bearing element that the integration requires.
+
+```
+                ┌──────────────────────────────────────────────────┐
+                │  CENTRAL THESIS                                  │
+                │  Critical thinking & self-directed learning      │
+                │  are TWO FACES of a single developmental         │
+                │  trajectory — they must be designed together.    │
+                └──────────────────────┬───────────────────────────┘
+                                       ▲
+              ┌────────────────────────┼────────────────────────┐
+              │                        │                        │
+       ┌──────┴──────┐          ┌──────┴──────┐          ┌──────┴──────┐
+       │  §5 SPINE   │          │ §6 CLOSURE  │          │ §7 TRANSFER │
+       │ Scaffolding-│          │ Assessment  │          │ Beyond the  │
+       │ Sovereignty │          │ for Autonomy│          │ curriculum  │
+       │ Progression │          │             │          │             │
+       └──────▲──────┘          └──────▲──────┘          └─────────────┘
+              │                        │
+              └───────────┬────────────┘
+                          ▲
+              ┌───────────┴───────────┐
+              │  §4 DESIGN SPACE      │
+              │  The Five Tensions    │
+              │  (autonomy/structure, │
+              │  skills/dispositions, │
+              │  general/specific,    │
+              │  productive failure,  │
+              │  assessment validity) │
+              └───────────▲───────────┘
+                          │
+        ┌─────────────────┼─────────────────┐
+        ▲                                   ▲
+ ┌──────┴───────┐                    ┌──────┴───────┐
+ │ §2 ANATOMY   │                    │ §3 ANATOMY   │
+ │ of Critical  │                    │ of Self-     │
+ │  Thinking    │                    │  Directed    │
+ │ skills+disps │                    │  Learning    │
+ │ +decisions   │                    │ Knowles +    │
+ │              │                    │ Garrison +   │
+ │              │                    │ grain-size   │
+ └──────▲───────┘                    └──────▲───────┘
+        │                                   │
+        └─────────────────┬─────────────────┘
+                          ▲
+              ┌───────────┴───────────┐
+              │  §1 CONVERGENCE       │
+              │  Each capacity        │
+              │  is INCOMPLETE        │
+              │  without the other.   │
+              └───────────────────────┘
+```
+
+**Reading guide:** Read upward. Section 1 establishes WHY the integration is necessary; Sections 2–3 specify WHAT the integration must develop; Section 4 maps the design SPACE; Sections 5–6 supply the operational ARCHITECTURE; Section 7 demonstrates TRANSFER. Each layer is load-bearing for the layer above. Note that the dispositional substrate (lower-right of §2 and §3) is what allows the two anatomies to fuse rather than merely coexist.
+**Source:** Whole report; spine logic per Sections 1–6.
+
+---
+
+## Visual Aid 2: The Convergence Thesis — Three Curriculum Designs, Three Outcomes
+
+**Purpose:** Show the asymmetric failure modes that motivate the integration.
+
+```
+┌───────────────────────────┬────────────────────────────────────────────┐
+│  CURRICULUM DESIGN        │  LEARNER PRODUCED                          │
+├───────────────────────────┼────────────────────────────────────────────┤
+│ A) Critical Thinking      │  Instructionally dependent thinker:        │
+│    WITHOUT self-direction │  performs CT moves on cue, decays once     │
+│                           │  scaffolding is removed.                   │
+│                           │  Failure: RECOVERABLE (restore scaffold).  │
+├───────────────────────────┼────────────────────────────────────────────┤
+│ B) Self-Direction         │  Efficient absorber: learns whatever is    │
+│    WITHOUT critical       │  encountered, including content warranting │
+│    thinking               │  resistance. No internal signal of missing │
+│                           │  critical engagement.                      │
+│                           │  Failure: HARD TO REMEDIATE                │
+│                           │  (no experiential reference for what is    │
+│                           │   missing).                                │
+├───────────────────────────┼────────────────────────────────────────────┤
+│ C) INTEGRATED design      │  Autonomous critical thinker: initiates    │
+│    (scaffolding-sover-    │  critical engagement on self-selected      │
+│    eignty progression)    │  material, sustains it without prompting,  │
+│                           │  directs own learning critically.          │
+│                           │  Endpoint: METACOGNITIVE SOVEREIGNTY.      │
+└───────────────────────────┴────────────────────────────────────────────┘
+```
+
+**Reading guide:** The asymmetry between (A) and (B) is the report's core diagnostic argument: failure mode (A) can be patched by re-supplying scaffolding, but (B) produces learners who don't even know what they're missing. Only (C) produces what the convergence thesis demands.
+**Source:** §1 (Convergence Problem); reinforced in §6 closing argument.
+
+---
+
+## Visual Aid 3: Tripartite × Triadic Homology — The Shared Substrate
+
+**Purpose:** Reveal the structural overlap between critical-thinking architecture and self-directed-learning architecture, identifying where they fuse and where each contributes uniquely.
+
+```
+   CRITICAL THINKING (§2)          SELF-DIRECTED LEARNING (§3)
+   ┌─────────────────────┐         ┌─────────────────────┐
+   │ SKILLS              │   ←→    │ SELF-MANAGEMENT     │
+   │ • Elements of       │         │ • Resource control  │
+   │   thought (8)       │         │ • Time/sequencing   │
+   │ • Standards (9)     │         │ • Context navigation│
+   │ • Inference moves   │         │   ─────────────     │
+   └──────────┬──────────┘         │ (NO direct CT       │
+              │                    │  analog — CT often  │
+              │                    │  underspecifies     │
+              │                    │  this dimension)    │
+              │                    └──────────┬──────────┘
+              │                               │
+   ┌──────────┴──────────┐         ┌──────────┴──────────┐
+   │ METACOGNITION       │   ←→    │ SELF-MONITORING     │
+   │ (implicit in        │ ◄═════► │ • Comprehension     │
+   │  Facione's          │ STRONG  │   monitoring        │
+   │  self-regulation)   │ HOMOLOGY│ • Strategy revision │
+   └──────────┬──────────┘         └──────────┬──────────┘
+              │                               │
+              ╔═══════════════════════════════╝
+              ║  THE BRIDGE
+              ▼
+   ┌─────────────────────────────────────────┐
+   │ DISPOSITIONS (CT)  ≈  MOTIVATION (SDL)  │
+   │                                         │
+   │ • Truth-seeking      • Autonomous       │
+   │ • Fair-mindedness      engagement       │
+   │ • Intellectual       • Sustained        │
+   │   humility             commitment       │
+   │ • Perseverance       • Volitional       │
+   │ • Inquisitiveness      control          │
+   │                                         │
+   │ ★ LOAD-BEARING SUBSTRATE for the        │
+   │   integration. Same intellectual        │
+   │   character, two vocabularies.          │
+   └─────────────────────────────────────────┘
+```
+
+**Reading guide:** The double-arrow rows mark structural homologies; the bottom box shows where the two literatures collapse into the *same* developmental object. The asymmetry on the top row (no direct CT analog for self-management) is the report's diagnostic insight — CT research has been conducted in artificially scaffolded environments where contextual management is supplied by the institution.
+**Source:** §§2–3, especially the "Dispositional Mirror" Claude-insight callouts in both sections.
+
+---
+
+## Visual Aid 4: The Five Design Tensions — Resolution Spectrum
+
+**Purpose:** Locate the integrated curriculum within the five-dimensional design space and show the failure modes at each pole.
+
+```
+                   ◄─── POLE A ───┬─── POLE B ───►
+                                  │
+T1  AUTONOMY        Heavy fixed   │ ★INTEGRATED:    Total absence
+    vs.             structure ───►│ Autonomy-       of structure
+    STRUCTURE       (compliant    │ supportive      (drift, anxiety)
+                     performers)  │ FADING
+                                  │
+T2  SKILLS          Skills-only   │ ★INTEGRATED:    Dispositions-
+    vs.             instruction ─►│ Skills practice only (intent
+    DISPOSITIONS    (no transfer) │ EXERCISES       without traction)
+                                  │ dispositions
+                                  │
+T3  GENERAL         Pure general  │ ★INTEGRATED:    Pure domain-
+    vs.             (vocabulary   │ General         specific (no
+    SPECIFIC        without grip) │ principles in   transfer)
+                                  │ self-SELECTED
+                                  │ domains
+                                  │
+T4  PRODUCTIVE      Constant      │ ★INTEGRATED:    Pure struggle
+    FAILURE         intervention  │ Scaffolded →    (demoralizing)
+                    (no struggle) │ self-managed
+                                  │ failure
+                                  │
+T5  ASSESSMENT      Conventional  │ ★INTEGRATED:    No assessment
+    VALIDITY        (measures     │ ASSESSMENT-     (no signal,
+                    prompted      │ FOR-AUTONOMY    no closure)
+                    performance)  │
+                                  │
+                              ★ The integration occupies a coherent
+                                region — each resolution reinforces
+                                the others. Coherence IS the argument.
+```
+
+**Reading guide:** Each row is one tension; the ★INTEGRATED column shows the report's resolution; the outer columns show the failure modes of single-pole resolutions. The vertical dashed line is the "coherent region" — choices on one tension constrain choices on others, and the integration's internal coherence (each ★ supporting the next) is the report's structural argument for it.
+**Source:** §4 (The Five Design Tensions).
+
+---
+
+## Visual Aid 5: The Scaffolding-Sovereignty Progression — Four-Stage Swimlane
+
+**Purpose:** Show how regulatory control transfers from curriculum to learner across the curriculum spine.
+
+```
+              │ STAGE 1   │ STAGE 2    │ STAGE 3      │ STAGE 4    │
+              │ Modeled   │ Supported  │ Collaborative│ Sovereign  │
+──────────────┼───────────┼────────────┼──────────────┼────────────┤
+CURRICULUM    │ Performs  │ Provides   │ Designs peer │ Steps back │
+ROLE          │ moves     │ scaffolds  │ tasks; fades │ (resource  │
+              │ visibly;  │ (checklists│ to facilita- │ on demand  │
+              │ articu-   │ , rubrics, │ tor role     │ only)      │
+              │ lates     │ JIT info)  │              │            │
+              │ thinking  │            │              │            │
+──────────────┼───────────┼────────────┼──────────────┼────────────┤
+LEARNER       │ Observes; │ Performs   │ Performs     │ Performs   │
+ROLE          │ predicts; │ moves with │ with peers;  │ on self-   │
+              │ attends   │ scaffold   │ challenges & │ selected   │
+              │           │ visible &  │ refines      │ material;  │
+              │           │ withdraw-  │ socially     │ initiates  │
+              │           │ able       │              │ unprompted │
+──────────────┼───────────┼────────────┼──────────────┼────────────┤
+LOCUS OF      │  ████░░░░ │  ███▓░░░░  │  ██▓▒░░░░    │  ▓▒░░░░░░  │
+CONTROL       │  EXTERNAL │            │              │  INTERNAL  │
+──────────────┼───────────┼────────────┼──────────────┼────────────┤
+RISK          │ Excessive │ Embedded   │ Permanent    │ Premature  │
+              │ duration  │ (non-with- │ dependence   │ entry      │
+              │ → depen-  │ drawable)  │ on collab    │ → drift    │
+              │ dence on  │ scaffolds  │              │            │
+              │ modeling  │            │              │            │
+──────────────┴───────────┴────────────┴──────────────┴────────────┘
+
+  ⚠ Movement is NOT monotonic. Entering a new domain may require
+    returning to Stage 2 even for a Stage-4 learner in another domain.
+  ⚠ The progression operates at TWO grain sizes simultaneously:
+    SRL (within-episode) and SDL (across-projects).
+```
+
+**Reading guide:** Read each column as a snapshot of the curriculum-learner relationship at that stage. The shaded LOCUS OF CONTROL row visualizes the gradient transfer. The RISK row identifies the failure mode of staying too long at each stage. The two warnings beneath capture the report's most important caveats: the progression is recursive (Sec 5 closing) and dual-grain.
+**Source:** §5 (Scaffolding-Sovereignty Progression).
+
+---
+
+## Visual Aid 6: Assessment for Autonomy — Three Components, One Loop-Closer
+
+**Purpose:** Show how assessment-for-autonomy completes the progression rather than merely measuring its outcome.
+
+```
+       ┌──────────────────────────────────────────────────────┐
+       │   ASSESSMENT FOR AUTONOMY (closes the loop on §5)    │
+       └──────────────────────┬───────────────────────────────┘
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        ▼                     ▼                     ▼
+ ┌─────────────┐      ┌─────────────┐      ┌──────────────┐
+ │ INITIATION  │      │  TRANSFER   │      │ METACOGNITIVE│
+ │ EVIDENCE    │      │  EVIDENCE   │      │  EVIDENCE    │
+ │             │      │             │      │              │
+ │ Did the     │      │ Do capac-   │      │ Has the      │
+ │ learner     │      │ ities apply │      │ learner      │
+ │ START the   │      │ to UNANTI-  │      │ INTERNALIZED │
+ │ critical    │      │ CIPATED     │      │ standards as │
+ │ move        │      │ domains?    │      │ values she   │
+ │ unprompted? │      │             │      │ holds her-   │
+ │             │      │             │      │ self to?     │
+ │ "Respond"   │      │ Cross-      │      │              │
+ │ NOT         │      │ domain      │      │ Self-eval    │
+ │ "Analyze"   │      │ tasks       │      │ vs others'   │
+ └──────┬──────┘      └──────┬──────┘      └──────┬───────┘
+        │                    │                     │
+        └────────────────────┼─────────────────────┘
+                             ▼
+              ┌──────────────────────────────┐
+              │ INFRASTRUCTURE               │
+              │ • Learning contracts         │
+              │ • Formative > summative      │
+              │ • Continuous integration     │
+              │   with learning activity     │
+              └──────────────────────────────┘
+                             │
+                             ▼
+              ┌──────────────────────────────┐
+              │ ASSESSMENT IS A PEDAGOGICAL  │
+              │ MOVE — it CREATES the        │
+              │ situations in which the      │
+              │ capacity is exercised, and   │
+              │ exercising completes the     │
+              │ development.                 │
+              └──────────────────────────────┘
+
+  ⚠ REACTIVE ASSESSMENT TRAP: Discrete evaluation events alter
+    behavior even at low stakes. Remedy: continuous formative
+    integration that reduces assessment salience as a separate
+    event.
+```
+
+**Reading guide:** The three top boxes are the three evidence types that, together, distinguish autonomous from prompted performance. The middle box names the infrastructure that makes them feasible. The bottom box states the report's most distinctive claim: assessment is itself a pedagogical move, not a postscript.
+**Source:** §6 (Assessment for Autonomy).
+
+---
+
+## Visual Aid 7: Far Transfer — Same Pattern, Four Domains
+
+**Purpose:** Show that the autonomy-via-staged-withdrawal pattern transfers beyond curriculum design.
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│ COMMON STRUCTURE: Develop autonomous capacity through structured │
+│ intervention without producing dependence on the structure.      │
+└────────────────────────────────┬─────────────────────────────────┘
+                                 │
+        ┌────────────────────────┼────────────────────────┐
+        │                        │                        │
+        ▼                        ▼                        ▼
+┌──────────────┐        ┌──────────────┐        ┌──────────────┐
+│ DOMAIN 1     │        │ DOMAIN 2     │        │ DOMAIN 3     │
+│ Professional │        │ Parental     │        │ Organiza-    │
+│ training     │        │ cultivation  │        │ tional       │
+│              │        │ of judgment  │        │ knowledge    │
+│ residency →  │        │              │        │ work         │
+│ fellowship → │        │ scaffolding  │        │              │
+│ independent  │        │ across       │        │ mentorship+  │
+│ practice     │        │ child        │        │ peer review  │
+│              │        │ development  │        │ supports     │
+│ ⚠ misses     │        │              │        │ judgment     │
+│   meta-      │        │ ⚠ controlling│        │              │
+│   capacity   │        │   scaffold = │        │ ⚠ standard-  │
+│   for self-  │        │   developmen-│        │   ization    │
+│   continued  │        │   tal damage │        │   degrades   │
+│   develop-   │        │              │        │   judgment   │
+│   ment       │        │              │        │              │
+└──────────────┘        └──────────────┘        └──────────────┘
+                                 │
+                                 ▼
+                       ┌──────────────────┐
+                       │ DOMAIN 4 ★URGENT │
+                       │ AI-assisted      │
+                       │ learning         │
+                       │                  │
+                       │ AI must function │
+                       │ as fadeable      │
+                       │ scaffold, NOT    │
+                       │ permanent        │
+                       │ substitute.      │
+                       │                  │
+                       │ ⚠ Apparent       │
+                       │   competence     │
+                       │   under AI ≠     │
+                       │   developed      │
+                       │   capacity       │
+                       └──────────────────┘
+```
+
+**Reading guide:** Each domain instantiates the same scaffolding-sovereignty pattern; each ⚠ marks the failure mode that occurs when the staged withdrawal is omitted. Domain 4 is flagged as URGENT because the convenience of AI-assisted output structurally reinforces the failure mode the integration warns against.
+**Source:** Far Transfer section.
+
+---
+
+## Visual Aid 8: TL;DR Scorecard + Reader Navigator
+
+**Purpose:** Compact final summary plus pointer table for question-driven access.
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              REPORT SCORECARD — Foundational                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║ Thesis        : CT and SDL are TWO FACES of one developmental    ║
+║                 trajectory; design them together or fail both.   ║
+║ Strongest evd : Asymmetric failure modes of single-capacity      ║
+║                 curricula; dispositional homology across §§2-3.  ║
+║ Weakest link  : Architecture is theoretical — empirical          ║
+║                 validation of integrated curriculum still owed.  ║
+║ Key action    : Build the scaffolding-sovereignty progression    ║
+║                 with assessment-for-autonomy from day one.       ║
+║ Read if you   : Design curricula, train professionals, or        ║
+║                 build PKB systems for autonomous learners.       ║
+║ Skip if you   : Need an empirical study or off-the-shelf         ║
+║                 lesson plan rather than a design framework.      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+**Reader Navigator — Which Visual Answers Which Question?**
+
+| Question                                              | Visual Aid |
+|-------------------------------------------------------|------------|
+| Why must these capacities be designed together?       | Aid 2      |
+| What does the curriculum need to develop?             | Aid 3      |
+| What design choices does the integration require?     | Aid 4      |
+| How does control transfer from curriculum to learner? | Aid 5      |
+| How is this assessed without undoing the work?        | Aid 6      |
+| Where else does this pattern apply?                   | Aid 7      |
+| How do all the sections fit together?                 | Aid 1      |
+| Is this report worth reading for me?                  | Aid 8      |
+
+**Source:** Whole-report synthesis.
+
+---
+
 # Designing Self-Directed Critical Thinking Curriculum: An Architectural Synthesis
 
 ## Abstract

@@ -109,6 +109,465 @@ connection-strength:
   exploratory: ["Pragmatist Philosophy of Education", "Heutagogy"]
 ---
 
+> [!abstract]+ **📐 Visual Aid Suite — Architecture At-a-Glance**
+> Eight portable diagrams distilling the report's central inversion (CT-as-goal, not CT-as-curriculum-outcome), the tripartite construct, the framework selection logic, the three-track developmental engine, the bootstrapping resolution, the dispositional architecture, the transfer paradox, and the four-component curriculum. All artifacts use ASCII/Unicode box-drawing only — no Mermaid, no images. Renderable in any markdown viewer.
+
+## Visual Aid 1: The SDL-Framing Inversion — What Changes When CT Becomes a Self-Directed Goal
+
+**Purpose:** Show the load-bearing reframe that organizes the entire report — the shift from instructor-supplied to learner-supplied executive functions of learning.
+
+```
+   CONVENTIONAL FRAMING                  SELF-DIRECTED FRAMING
+   ─────────────────────                  ──────────────────────
+   CT = curriculum outcome                CT = lifelong goal the
+        delivered TO learner                   learner sets, monitors,
+                                               and steers themselves
+
+   ┌─────────────────────────┐           ┌─────────────────────────┐
+   │ INSTRUCTOR supplies:    │           │ LEARNER supplies (alone)│
+   │  • Goal selection       │           │  • Goal selection       │
+   │  • Resource curation    │           │  • Resource curation    │
+   │  • Strategy choice      │  ─INVERT─►│  • Strategy choice      │
+   │  • Outcome evaluation   │           │  • Outcome evaluation   │
+   │  • Metacog. supply      │           │  • Metacog. supply ⚠    │
+   │  • Dispositional        │           │  • Dispositional        │
+   │    pressure (grades,    │           │    pressure must be     │
+   │    cohort, deadlines)   │           │    self-engineered      │
+   └─────────────────────────┘           └─────────────────────────┘
+
+   ★ KEY INSIGHT: every executive function of learning becomes
+     itself a CT task. The learner must be a competent critical
+     thinker IN ORDER TO manage the program of becoming one →
+     the BOOTSTRAPPING PROBLEM (resolved in Aid 5).
+```
+
+**Reading guide:** The conventional framing treats CT as content to be delivered; the SDL framing treats it as a multi-decade goal whose direction the learner owns. The right column makes visible what the left column hides: every executive function of learning is itself a CT task, producing the recursion the report is built to address.
+**Source:** §2 (Self-Directed Learning as the Frame); the SDL-framing inversion `[!claude-insight]`.
+
+---
+
+## Visual Aid 2: The Tripartite CT Construct — Operations × Standards × Dispositions
+
+**Purpose:** Show the structural convergence beneath the framework variation — the three layers any serious treatment of CT must honor.
+
+```
+            ┌─────────────────────────────────────────────┐
+            │              CRITICAL THINKING              │
+            │         (tripartite construct, §1)          │
+            └────────────────────┬────────────────────────┘
+                                 │
+         ┌───────────────────────┼───────────────────────┐
+         ▼                       ▼                       ▼
+  ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+  │  OPERATIONS  │       │   STANDARDS  │       │ DISPOSITIONS │
+  │              │       │              │       │              │
+  │ • Analysis   │       │ • Clarity    │       │ • Truth-seek │
+  │ • Inference  │       │ • Accuracy   │       │ • Humility   │
+  │ • Evaluation │       │ • Precision  │       │ • Courage    │
+  │ • Argument   │       │ • Relevance  │       │ • Fair-mind  │
+  │   reconst.   │       │ • Depth      │       │ • Persever.  │
+  │ • Inference  │       │ • Breadth    │       │ • Open-mind  │
+  │   to best    │       │ • Logic      │       │ • Inquisit.  │
+  │   explan.    │       │ • Signific.  │       │ • Integrity  │
+  │              │       │ • Fairness   │       │              │
+  └──────┬───────┘       └──────┬───────┘       └──────┬───────┘
+         │                       │                       │
+         │ judged by ────────────│                       │
+         │                       │                       │
+         └───── deployed only when ──────────────────────┘
+                                ★
+         The dispositions are the GATING layer — they
+         determine whether operations are deployed AT ALL.
+         Under self-direction (no instructor pressure),
+         this layer becomes load-bearing.
+
+   FRAMEWORK CONVERGENCE on the tripartite structure:
+     Dewey · Ennis · Facione/Delphi · Paul-Elder · Halpern
+   (frameworks differ on taxonomy & emphasis; none can drop a layer)
+```
+
+**Reading guide:** Read top-down: CT decomposes into three coupled layers. Operations are judged against standards; both are deployed only when dispositions activate them. Under self-direction, the dispositional gate is the load-bearing layer — there is no instructor to force deployment. Every major framework converges on this tripartite shape.
+**Source:** §1 (The Conceptual Terrain); the convergence `[!key-claim]`.
+
+---
+
+## Visual Aid 3: Framework Selection Matrix — Spine + Borrowed Elements
+
+**Purpose:** Show why Paul-Elder serves as the working spine and what each other framework specifically contributes — the operational answer to "which framework?".
+
+```
+┌────────────────┬────────────┬──────────┬─────────┬──────────────────┐
+│  FRAMEWORK     │ OPERATIONAL│ DISPOS.  │ METACOG │ ROLE IN          │
+│                │ ARTICUL.   │ EMPHASIS │ EMPHASIS│ SELF-DIRECTED    │
+│                │            │          │         │ PRACTICE         │
+├────────────────┼────────────┼──────────┼─────────┼──────────────────┤
+│ ★ PAUL-ELDER   │   ★★★★★    │  ★★★★★   │  ★★★    │ WORKING SPINE    │
+│   (elements +  │ (elements  │ (named   │         │ (daily practice  │
+│    standards + │  + stand.  │  virtues │         │  scaffold)       │
+│    virtues)    │  as check- │  fore-   │         │                  │
+│                │  list)     │  ground) │         │                  │
+├────────────────┼────────────┼──────────┼─────────┼──────────────────┤
+│ FACIONE/DELPHI │   ★★★★     │  ★★★     │  ★★★★★  │ BORROW: explicit │
+│ (consensus     │            │          │ (self-  │ self-regulation  │
+│  6 skills + 7  │            │          │  reg. = │ pass per session │
+│  dispositions) │            │          │  6th    │                  │
+│                │            │          │  skill) │                  │
+├────────────────┼────────────┼──────────┼─────────┼──────────────────┤
+│ HALPERN        │   ★★★      │  ★★      │  ★★★★   │ BORROW: practice │
+│ (cognitive     │            │          │         │ design constr.   │
+│  psych +       │            │          │         │ (varied contexts │
+│  transfer      │            │          │         │  + transfer +    │
+│  research)     │            │          │         │  metacog. mon.)  │
+├────────────────┼────────────┼──────────┼─────────┼──────────────────┤
+│ ENNIS          │   ★★★★     │  ★★★     │  ★★★    │ BORROW: orient.  │
+│ ("reasonable,  │            │          │         │ question — what  │
+│  reflective    │            │          │         │ to BELIEVE or DO │
+│  thinking      │            │          │         │ (anchor practice │
+│  focused on    │            │          │         │  to actual       │
+│  what to       │            │          │         │  decisions)      │
+│  believe/do")  │            │          │         │                  │
+├────────────────┼────────────┼──────────┼─────────┼──────────────────┤
+│ DEWEY          │   ★★       │  ★★★     │  ★★★★   │ RETURN TO when   │
+│ (reflective    │            │          │         │ practice becomes │
+│  thinking from │            │          │         │ mechanical →     │
+│  felt          │            │          │         │ reanchor in      │
+│  difficulty)   │            │          │         │ genuine          │
+│                │            │          │         │ disequilibrium   │
+└────────────────┴────────────┴──────────┴─────────┴──────────────────┘
+
+   ⚠ SHARED GAP: NO framework supplies a DEVELOPMENTAL ACCOUNT
+     of how a learner moves from knowing-about-CT to embodying it.
+     §§4–5 of the report supply what the frameworks do not.
+```
+
+**Reading guide:** Stars rate each framework on three operational dimensions plus its specific role in self-directed practice. Paul-Elder wins as spine because of operational articulation × explicit virtue language × clean mapping to the three developmental tracks. The bottom note marks the gap that the report's mechanism sections fill.
+**Source:** §3 (Major CT Frameworks Under Self-Directed Pressure); the working-spine `[!key-claim]`.
+
+---
+
+## Visual Aid 4: The Three-Track Coupled Developmental Engine
+
+**Purpose:** Show how the three tracks of §4 mutually scaffold each other — and what fails when any one lags.
+
+```
+          ┌──────────────────────────────────┐
+          │  TRACK 1: SKILL                  │
+          │  Deliberate practice on cognit.  │ ◄─┐
+          │  operations (analysis, infer.,   │   │
+          │  evaluation, fallacy detect.)    │   │
+          └──────────────┬───────────────────┘   │
+                         │                       │
+          produces ARTIFACTS                     │
+          (reconstructions, judgments)           │ produces CONDITIONS
+                         ▼                       │ for engagement
+          ┌──────────────────────────────────┐   │ at all
+          │  TRACK 3: METACOGNITION          │   │
+          │  Monitoring + control + cali-    │   │
+          │  bration of one's own thinking   │   │
+          └──────────────┬───────────────────┘   │
+                         │                       │
+          identifies DISPOSITIONAL PATTERNS      │
+          (which virtues fail at which moments)  │
+                         ▼                       │
+          ┌──────────────────────────────────┐   │
+          │  TRACK 2: DISPOSITION            │ ──┘
+          │  Environment + identity +        │
+          │  costly habit                    │
+          └──────────────────────────────────┘
+
+  ⚠ FAILURE MODES WHEN A TRACK LAGS:
+
+  ┌────────────────┬──────────────────────────────────────────┐
+  │ Skill ALONE    │ Rule-knower who cannot apply             │
+  │                │ (knows the fallacy on the page; commits  │
+  │                │  one in their own head the same week)    │
+  ├────────────────┼──────────────────────────────────────────┤
+  │ Disposition    │ Effortful but inept engagement           │
+  │ ALONE          │ (willing to wrestle hard arguments;      │
+  │                │  produces tangled reasoning)             │
+  ├────────────────┼──────────────────────────────────────────┤
+  │ Metacognition  │ Sophisticated self-monitoring of nothing │
+  │ ALONE          │ in particular (high meta, no substrate)  │
+  └────────────────┴──────────────────────────────────────────┘
+
+  ★ COUPLING is the developmental MECHANISM. Each track
+    produces feedback the other two require. None can be
+    pursued in isolation without the others stagnating.
+```
+
+**Reading guide:** Read clockwise: skill produces artifacts metacognition can evaluate; metacognition surfaces dispositional patterns environment can address; dispositions produce the engagement that makes skill practice possible at all. The bottom panel names the three predictable failure modes when the loop is broken — each is recognizable in the wild.
+**Source:** §4 (The Developmental Mechanism); the coupling `[!claude-insight]`.
+
+---
+
+## Visual Aid 5: Bootstrapping Resolution — Scaffold Internalization Across Stages
+
+**Purpose:** Show how the metacognitive bootstrapping problem is resolved over time — and the surface-vs-deep internalization distinction that determines whether internalization survives stress.
+
+```
+  STAGE       EARLY                INTERMEDIATE          LATE/SOVEREIGN
+  ────────    ─────                ────────────          ──────────────
+
+  SCAFFOLD    External             Anticipated           Internal
+  STATE       (lists, prompts,     (reaching for         (cognitive routine
+              checklists           the question          unprompted —
+              actively consulted)  before consulting     framework consul-
+                                   the list)             tation no longer
+                                                          required)
+
+              ┌─────────┐          ┌─────────┐           ┌─────────┐
+              │ ░░░░░░░ │   ──►    │ ▒▒▒▒▒░░ │   ──►    │ ████▒▒░ │
+              │ EXT.    │          │ MIXED   │           │ MOSTLY  │
+              │ HEAVY   │          │         │           │ INTERNAL│
+              └─────────┘          └─────────┘           └─────────┘
+
+  WHAT IS     Constitutive         Transitional          Sovereign
+  HAPPENING   for practice         (still useful but     (consultation
+              (cannot bootstrap    not REQUIRED)         no longer doing
+              from within yet)                           the work)
+
+  ★ SURFACE vs DEEP INTERNALIZATION TEST:
+
+  ┌─────────────────────┬───────────────────────────────────────────┐
+  │ SURFACE             │ DEEP                                       │
+  │ (memorized prompts) │ (cognitive reorganization)                 │
+  ├─────────────────────┼───────────────────────────────────────────┤
+  │ Survives easy       │ Survives degraded conditions               │
+  │ conditions          │ (tired · stressed · emotionally invested · │
+  │                     │  unfamiliar domain)                        │
+  │ Falls away under    │ Robust under stress                        │
+  │ stress              │                                            │
+  │ ⚠ Often mistaken    │ ★ The actual goal of internalization       │
+  │   for deep          │                                            │
+  └─────────────────────┴───────────────────────────────────────────┘
+
+  ⚠ THE CALIBRATION TRAP (parallel risk across all stages):
+     Confidence rises FASTER than competence early in development.
+     Remedy: deliberate exposure to verifiable performance challenges
+     — predictions then checked, judgments then compared to those of
+     more developed thinkers.
+```
+
+**Reading guide:** Top half traces the scaffold's journey from external → anticipated → internal across years. The shaded bars show the relative mix at each stage. The bottom panel introduces the most consequential distinction: surface vs deep internalization. The test is not what one does when conditions favor CT but what one does when they don't.
+**Source:** §5 (The Metacognitive Engine — Bootstrapping); the calibration trap `[!warning]`.
+
+---
+
+## Visual Aid 6: The Dispositional Architecture — Three Convergent Influences + Mutual Moderation
+
+**Purpose:** Show that dispositions are not installed by resolution but cultivated through three convergent influences — and that the dispositions mutually moderate each other.
+
+```
+   THREE CONVERGENT INFLUENCES that cultivate dispositions:
+
+   ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+   │ ENVIRONMENT     │    │ IDENTITY        │    │ HABIT           │
+   │                 │    │                 │    │                 │
+   │ People, commu-  │    │ The kind of     │    │ Repeated action │
+   │ nities, sources │    │ thinker one     │    │ under conditions│
+   │ that MODEL and  │    │ comes to see    │    │ that make the   │
+   │ REWARD the      │    │ themselves AS   │    │ disposition     │
+   │ dispositions    │    │ — "someone who  │    │ COSTLY (admit-  │
+   │                 │    │ follows the     │    │ ting error in   │
+   │                 │    │ argument where  │    │ public, revis-  │
+   │                 │    │ it leads")      │    │ ing public pos.)│
+   └────────┬────────┘    └────────┬────────┘    └────────┬────────┘
+            │                      │                      │
+            └──────────────┬───────┴──────────────────────┘
+                           ▼
+                ┌────────────────────────┐
+                │  DISPOSITIONAL         │
+                │  SUBSTRATE             │
+                │  (slowly accreted,     │
+                │  identity-constitutive,│
+                │  socially supported)   │
+                └────────────────────────┘
+
+   ★ MUTUAL MODERATION — dispositions operate as a SYSTEM,
+     not a list. Cultivated in isolation, each degenerates:
+
+   ┌─────────────────────────────┬──────────────────────────────┐
+   │  Disposition WITHOUT its    │  Degenerates into            │
+   │  moderating partner         │                              │
+   ├─────────────────────────────┼──────────────────────────────┤
+   │  Humility WITHOUT courage   │  → EPISTEMIC COWARDICE       │
+   │                             │    (any claim allowed to     │
+   │                             │     stand)                   │
+   ├─────────────────────────────┼──────────────────────────────┤
+   │  Courage WITHOUT humility   │  → STUBBORN ASSERTIVENESS    │
+   │                             │    (holds positions against  │
+   │                             │     evidence)                │
+   ├─────────────────────────────┼──────────────────────────────┤
+   │  Truth-seeking WITHOUT      │  → DOGMATISM                 │
+   │  fallibilism                │    (already found the truth, │
+   │                             │     further inquiry wasted)  │
+   ├─────────────────────────────┼──────────────────────────────┤
+   │  ANY disposition WITHOUT    │  → PERFORMANCE OF DISPOSITION│
+   │  costly action              │    (verbal markers without   │
+   │                             │     motivational substrate)  │
+   └─────────────────────────────┴──────────────────────────────┘
+
+   ⚠ THE HARDEST PART UNDER SELF-DIRECTION: dispositions are
+     IRREDUCIBLY SOCIAL. The most consequential moves are
+     moves of social architecture (community choices, public
+     commitments) — NOT individual resolutions.
+```
+
+**Reading guide:** Top: the three influences converge to shape stable dispositions; no one alone is sufficient. Bottom: the dispositions are not separable items but a mutually-moderating system; cultivated in isolation, each degenerates into its corresponding vice. The closing warning makes the most-missed point: this layer is irreducibly social, and the self-directed learner's individual resolutions cannot do the work environmental architecture does.
+**Source:** §6 (The Dispositional Substrate); performance-vs-disposition `[!warning]`.
+
+---
+
+## Visual Aid 7: The Transfer Paradox — Why CT Resists Generalization Yet SDL Resolves It
+
+**Purpose:** Show how self-direction simultaneously WORSENS the transfer problem (no curriculum) and uniquely POSITIONS its resolution (long timescale + domain breadth).
+
+```
+   THE TRANSFER PROBLEM (Section 7's central empirical fact):
+   CT instruction produces NEAR transfer; FAR transfer is rare.
+
+   ┌──────────────────────────────────────────────────────────────┐
+   │                    DISTANCE FROM ACQUISITION CONTEXT          │
+   │   NEAR ◄──────────────────────────────────────────────► FAR  │
+   │                                                                │
+   │   ████████████ ▒▒▒▒▒▒▒▒ ░░░░░░░ ░░ ░                          │
+   │   ←─common─→   ←─some─→ ←rare─→                               │
+   │                                                                │
+   │   Same domain  Adjacent  Unfamiliar  Heated  Own implicit     │
+   │   textbook     domain    domain      live    reasoning during │
+   │   exercises                          debate  decision-making  │
+   └──────────────────────────────────────────────────────────────┘
+
+   MECHANISM: skills are encoded WITH cues of acquisition context.
+              Cues absent → skill not activated.
+
+   ┌──────────────────────────────────────────────────────────────┐
+   │  THE SELF-DIRECTED PARADOX                                   │
+   │                                                              │
+   │  ⚠ WORSENS transfer     │   ★ RESOLVES transfer            │
+   │  ─────────────────────  │   ────────────────────────       │
+   │  No curriculum imposes  │   Long timescale (years/decades) │
+   │  varied contexts        │   naturally exposes learner to   │
+   │                         │   domain breadth no curriculum   │
+   │  No instructor enforces │   could match                    │
+   │  explicit transfer      │                                  │
+   │  practice               │   IF practice is constructed     │
+   │                         │   to exercise transfer EXPLICITLY│
+   │  Drift toward whatever  │   (varied contexts + principle   │
+   │  happens to come one's  │   attention + interleaving +     │
+   │  way                    │   analogy + metacog. monitoring) │
+   └──────────────────────────────────────────────────────────────┘
+
+   END-STATE: ADAPTIVE EXPERTISE
+   ────────────────────────────────
+   Routine expertise (domain skill alone)
+     → excellent within conditions, helpless outside them
+
+   Critical thinking (no domain expertise)
+     → analytically capable but practically unmoored
+
+   ★ INTEGRATION → adaptive expertise: CT integrated with the
+      domains in which the learner actually thinks and acts.
+
+   ⚠ FAILURE MODE: PSEUDOEXPERTISE
+      Vocabulary + manner of CT without underlying capacity.
+      Bred by absence of feedback structures. Remedy: deliberate
+      exposure to performance challenges with checkable answers.
+```
+
+**Reading guide:** Top bar shades transfer success across distance from acquisition context — far transfer is empirically rare. The middle two-column panel is the report's central paradox: self-direction is both the worst-case condition for transfer AND the only condition under which the necessary domain breadth can naturally accumulate. The bottom panel locates the proper end-state and the failure mode that absence of feedback breeds.
+**Source:** §7 (Transfer and Expertise); pseudoexpertise `[!far-transfer]` callout.
+
+---
+
+## Visual Aid 8: The Four-Component Curricular Architecture + Stage-Sensitive Emphasis
+
+**Purpose:** Show the actionable architecture of §8 and how relative emphasis shifts across developmental stages — and the Disposition-Skill-Sovereignty Triad reorganization.
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │  COMPONENT 1: SPINE FRAMEWORK                                │
+  │  Paul-Elder (elements + standards + virtues)                 │
+  │  + borrowed: Facione self-reg / Halpern design / Ennis Q     │
+  └────────────────────────────┬─────────────────────────────────┘
+                               │ structures the operations of
+                               ▼
+  ┌──────────────────────────────────────────────────────────────┐
+  │  COMPONENT 2: DELIBERATE PRACTICE REGIMEN                    │
+  │  2–3 sessions/week · 45–60 min · written reconstruction      │
+  │  Rotated across domains (own / adjacent / unfamiliar)        │
+  └────────────────────────────┬─────────────────────────────────┘
+                               │ requires engagement supplied by
+                               ▼
+  ┌──────────────────────────────────────────────────────────────┐
+  │  COMPONENT 3: DISPOSITIONAL ARCHITECTURE PROJECT             │
+  │  Environment + identity + public commitments                 │
+  │  Quarterly audit. Longest-timescale, most consequential.     │
+  └────────────────────────────┬─────────────────────────────────┘
+                               │ directed and corrected by
+                               ▼
+  ┌──────────────────────────────────────────────────────────────┐
+  │  COMPONENT 4: METACOGNITIVE MONITORING + CALIBRATION         │
+  │  In-session noticing + cross-session prediction-checking     │
+  │  Mechanism by which bootstrapping is gradually resolved.     │
+  └──────────────────────────────────────────────────────────────┘
+
+  ★ REORGANIZATION → DISPOSITION-SKILL-SOVEREIGNTY TRIAD
+     Disposition (C3) │ Skill (C1+C2) │ Sovereignty (C4)
+     The three coupled — no layer can substitute, none can lag.
+
+  STAGE-SENSITIVE EMPHASIS:
+
+  ┌───────────────┬──────────────┬──────────────┬───────────────┐
+  │  STAGE        │  EARLY       │ INTERMEDIATE │  ADVANCED     │
+  │               │ (read/cannot │ (apply       │ (apply across │
+  │               │  reliably    │  reliably in │  most contexts│
+  │               │  apply)      │  familiar    │  with cali-   │
+  │               │              │  contexts)   │  brated conf.)│
+  ├───────────────┼──────────────┼──────────────┼───────────────┤
+  │ C1 Spine      │  ████ HEAVY  │   ██ SOME    │   ░ TRANSCEND │
+  ├───────────────┼──────────────┼──────────────┼───────────────┤
+  │ C2 Practice   │  ████ HEAVY  │  ████ SHIFT  │   ██ MAINTAIN │
+  │               │  (with       │  to varied   │               │
+  │               │  external    │  contexts +  │               │
+  │               │  scaffolds)  │  transfer    │               │
+  ├───────────────┼──────────────┼──────────────┼───────────────┤
+  │ C3 Disposi-   │   ██ INITI-  │   ███ DEEPEN │  ████ SUSTAIN │
+  │ tion          │  ate (commu- │  (public     │  (prevent     │
+  │               │  nity        │  commitments)│  regression)  │
+  │               │  choices)    │              │               │
+  ├───────────────┼──────────────┼──────────────┼───────────────┤
+  │ C4 Metacog./  │   ██ SIMPLE  │  ████ EXPLI- │  ████★CENTRAL │
+  │ Calibration   │  noticing    │  cit cali-   │  (calibration │
+  │               │              │  bration     │  trap is now  │
+  │               │              │              │  principal    │
+  │               │              │              │  risk)        │
+  └───────────────┴──────────────┴──────────────┴───────────────┘
+
+  ⚠ ARCHITECTURE is reproduced; IMPLEMENTATION is designed for
+    one's actual conditions and revised continuously.
+```
+
+**Reading guide:** Top: the four components form a cascading architecture — each enables the next, each is corrected by the next. The triad reorganization names the curricular form. The bottom matrix shows what shifts across developmental stages: early practice is scaffolded and skill-heavy; intermediate shifts toward transfer and calibration; advanced makes calibration central because the calibration trap is the principal risk. The closing warning insists on adaptation, not reproduction.
+**Source:** §8 (Designing the Self-Directed CT Curriculum); the Disposition-Skill-Sovereignty Triad `[!original-synthesis]`.
+
+---
+
+## Reader Navigator — Which Aid Answers Which Question?
+
+| Question                                                       | Visual Aid |
+|----------------------------------------------------------------|------------|
+| What changes when CT is taken as a self-directed goal?         | Aid 1      |
+| What is critical thinking actually composed of?                | Aid 2      |
+| Which framework should I use, and what do the others add?      | Aid 3      |
+| How does CT actually develop — what is the mechanism?          | Aid 4      |
+| How is the bootstrapping problem resolved over time?           | Aid 5      |
+| How are the dispositions cultivated (since not by resolution)? | Aid 6      |
+| Why does CT transfer poorly, and how does SDL change that?     | Aid 7      |
+| What does an actual self-directed CT curriculum look like?     | Aid 8      |
+
+---
+
 # Critical Thinking as a Self-Directed Learning Goal — A Foundational Report
 
 ## Abstract
